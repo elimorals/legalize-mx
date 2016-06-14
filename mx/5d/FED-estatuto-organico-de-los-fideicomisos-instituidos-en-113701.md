@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-los-fideicomisos-instituidos-en-113701"
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-03-30"
-last_updated: "2016-03-30"
+last_updated: "2016-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113701&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2026-10-05"
 
 ESTATUTO ORGÁNICO DE LOS FIDEICOMISOS INSTITUIDOS EN RELACIÓN CON LA AGRICULTURA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2016.
 
 Estatuto publicado en la Tercera Sección del Diario Oficial de la Federación, el miércoles 30 de marzo de 2016.
 
@@ -224,9 +224,13 @@ La Contraloría Interna tiene como objetivo propiciar que las operaciones y la p
 
 I. Asegurar el diseño, implementación y actualización del sistema de control interno institucional.
 
-II. Asegurar que el diseño, implementación, actualización y seguimiento de un sistema de gestión incorpore la administración de procesos, controles, gestión de la calidad y mejores prácticas que contribuyan al logro de los objetivos institucionales.
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2016)</small>
 
-III. Establecer y mantener el sistema de gestión de seguridad de la información y la estrategia de continuidad de negocios.
+II. Asegurar que el diseño, implementación, actualización y seguimiento de un sistema de gestión incorpore la administración de procesos, controles, gestión de la calidad, administración en materia de archivos y mejores prácticas que contribuyan al logro de los objetivos institucionales.
+
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2016)</small>
+
+III. Establecer y mantener el sistema de gestión de seguridad de la información y el plan de continuidad de negocio.
 
 IV. Propiciar el cumplimiento de la normatividad interna y externa aplicable a FIRA en la realización de sus operaciones, así como dirigir la implementación de medidas para prevenir la operación con recursos de procedencia ilícita y financiamiento al terrorismo.
 
@@ -244,9 +248,11 @@ I. Subdirección de Calidad y Procesos.
 
 II. Subdirección de Control Interno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JUNIO DE 2016)</small>
+
 ###### Artículo 13.
 
-La Subdirección de Calidad y Procesos tiene como objetivo coordinar que la implementación de procesos, controles y el sistema de gestión directiva, estén alineados al Sistema de Control Interno de FIRA y el cumplimiento de la normatividad interna y externa y que contribuyan al logro de las estrategias y objetivos institucionales, bajo un enfoque de calidad y mejora continua y tiene las siguientes funciones:
+La Subdirección de Calidad y Procesos tiene como objetivo coordinar que la implementación de procesos y controles estén alineados al sistema de control interno y el cumplimiento de la normatividad interna y externa y que contribuyan al logro de las estrategias y objetivos institucionales, bajo un enfoque de calidad y mejora continua y tiene las siguientes funciones:
 
 I. Desarrollar e implementar metodologías y prácticas institucionales para la identificación, documentación y medición de los procesos que propicien el cumplimiento de la normativa interna y externa aplicable a FIRA en la realización de sus operaciones y que propicien que exista una clara segregación y delegación de funciones y responsabilidades entre las distintas unidades administrativas.
 
@@ -260,9 +266,15 @@ V. Coordinar el diseño, implementación, actualización y seguimiento de un sis
 
 VI. Implementar medidas para prevenir la operación con recursos de procedencia ilícita y financiamiento al terrorismo que sean aplicables a FIRA.
 
+> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2016)</small>
+
+VII. Coordinar las estrategias y acciones en materia de administración, organización, conservación de archivos y gestión documental de FIRA.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JUNIO DE 2016)</small>
+
 ###### Artículo 14.
 
-La Subdirección de Control Interno tiene como objetivo coordinar que la implementación de la seguridad de la información, continuidad de negocios y la verificación del cumplimiento del Sistema de Control Interno, contribuyan al logro de las estrategias y objetivos institucionales y al cumplimiento de la normatividad interna y externa, bajo un enfoque de calidad y mejora continua y tiene las siguientes funciones:
+La Subdirección de Control Interno tiene como objetivo coordinar que la implementación de la seguridad de la información, continuidad de negocios y la verificación del cumplimiento del sistema de control interno, contribuyan al logro de las estrategias y objetivos institucionales y al cumplimiento de la normatividad interna y externa, bajo un enfoque de calidad y mejora continua y tiene las siguientes funciones:
 
 I. Implementar programas de verificación del cumplimiento del Sistema de Control Interno e informar de las deficiencias, desviaciones o aspectos que requieran una mejora, así como dar seguimiento a las medidas preventivas y correctivas identificadas.
 
@@ -270,9 +282,15 @@ II. Monitorear que la concertación, documentación, registro y liquidación dia
 
 III. Diseñar, documentar, implementar y monitorear el sistema de gestión de seguridad de la información.
 
-IV. Llevar a cabo las actividades de diseño, documentación y administración de la estrategia de continuidad de negocios institucional.
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2016)</small>
+
+IV. Llevar a cabo las actividades de diseño, documentación y administración del plan de continuidad de negocio.
 
 V. Atender a las instancias fiscalizadoras externas en las auditorías y requerimientos de información que involucren a FIRA, así como verificar y brindar asesoría a las unidades administrativas para que atiendan las observaciones, recomendaciones y acciones derivadas de dichas auditorías.
+
+> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2016)</small>
+
+VI. Suscribir en ausencia del Titular de la Contraloría Interna la información financiera cuya fecha de entrega tenga término, para dar cumplimiento a las obligaciones que establezca la Comisión Nacional Bancaria y de Valores.
 
 DE LAS DIRECCIONES GENERALES ADJUNTAS
 
@@ -424,7 +442,9 @@ La Dirección de Administración tiene como objetivo administrar los recursos hu
 
 I. Establecer y proponer normas, políticas, programas y procedimientos en materia de recursos humanos y recursos materiales, coordinar su administración y contratación, así como coordinar y participar en los Comités que derivan de estas materias.
 
-II. Coordinar las acciones y estrategias en materia de Estructura Orgánica, Estatuto Orgánico, cultura organizacional, seguridad física, protección civil, así como en materia de archivos de FIRA.
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2016)</small>
+
+II. Coordinar las acciones y estrategias en materia de Estructura Orgánica, Estatuto Orgánico, cultura organizacional, seguridad física y protección civil.
 
 III. Establecer las acciones para la integración, ejercicio y seguimiento de los presupuestos de gasto corriente e inversión física y proponer, implementar y difundir políticas, programas y medidas en materia de racionalidad, austeridad y disciplina presupuestaria.
 
@@ -528,7 +548,7 @@ IV. Coordinar y supervisar la integración, seguimiento y administración del pr
 
 V. Suscribir contratos de mutuo y uso.
 
-VI. Coordinar las acciones y estrategias en materia de administración, organización y conservación de los archivos de FIRA.
+VI. (DEROGADA, D.O.F. 14 DE JUNIO DE 2016)
 
 ###### Artículo 33.
 
@@ -564,7 +584,7 @@ III. Atender las solicitudes de servicios generales y bienes consumibles de FIRA
 
 IV. Proponer e implementar acciones para el uso eficiente de los servicios generales, así como implementar las políticas, programas y medidas en materia de racionalidad, austeridad y disciplina presupuestaria.
 
-V. Administrar, coordinar la organización, conservación de los archivos y la gestión documental de FIRA.
+V. (DEROGADA, D.O.F. 14 DE JUNIO DE 2016)
 
 ###### Artículo 36.
 
@@ -1110,6 +1130,10 @@ VI. Someter a autorización de los Comités correspondientes de FIRA, las polít
 
 VII. Suscribir los estados financieros y la documentación relacionada con la contratación y registro de deuda, entre otros relacionados con la estrategia financiera de FIRA.
 
+> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2016)</small>
+
+VIII. Suscribir en ausencia del Director General los estados financieros e información financiera cuya fecha de entrega tenga término, para dar cumplimiento a las obligaciones que establezca la Comisión Nacional Bancaria y de Valores.
+
 ###### Artículo 81.
 
 La Dirección General Adjunta de Finanzas, tiene adscritas las siguientes unidades administrativas:
@@ -1133,6 +1157,10 @@ IV. Establecer políticas, lineamientos y procedimientos para el registro contab
 V. Suscribir los estados financieros y la documentación relacionada con la contratación y registro de la deuda, entre otros.
 
 VI. Coordinar la integración y, en su caso, autorización de los Informes financieros y operativos institucionales.
+
+> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2016)</small>
+
+VII. Suscribir en ausencia del Director General y del Director General Adjunto de Finanzas, los estados financieros e información financiera cuya fecha de entrega tenga término, para dar cumplimiento a las obligaciones que establezca la Comisión Nacional Bancaria y de Valores.
 
 ###### Artículo 83.
 
@@ -1183,6 +1211,10 @@ III. Elaborar los estados financieros y sus notas, realizar su análisis e inter
 IV. Elaborar información contable para autoridades, instancias fiscalizadoras y reguladoras, en particular para la CNBV y la BMV, relacionada con la emisión de deuda.
 
 V. Revisar y elaborar el dictamen de los manuales de contabilidad de los intermediarios financieros para obtener su registro con FIRA.
+
+> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2016)</small>
+
+VI. Suscribir en ausencia del Contador General los estados financieros e información financiera cuya fecha de entrega tenga término, para dar cumplimiento a las obligaciones que establezca la Comisión Nacional Bancaria y de Valores.
 
 ###### Artículo 87.
 
@@ -1797,3 +1829,11 @@ TRANSITORIOS (SIC)
 UNICO.- El presente Estatuto entrará en vigor a partir del 16 de abril de 2016.
 
 El Director General de FIRA, Rafael Gamboa González.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 14 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DE LAS "MODIFICACIONES AL ESTATUTO ORGÁNICO DE LOS FIDEICOMISOS INSTITUIDOS EN RELACIÓN CON LA AGRICULTURA".]
+
+ÚNICO.- El presente Estatuto entrará en vigor a partir de la fecha de su publicación.
