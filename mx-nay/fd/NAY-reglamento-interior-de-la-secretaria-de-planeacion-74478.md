@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-secretaria-de-planeacion-74478"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-27"
-last_updated: "2010-03-27"
+last_updated: "2016-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACION, PROGRAMACION Y PRESUPUESTO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON SU SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE PLANEACIÓN, PROGRAMACIÓN Y PRESUPUESTO, PUBLICADO EN EL P.O. DE 14 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección Sexta del Periódico Oficial del Estado de Nayarit, el sábado 27 de marzo de 2010.
 
@@ -718,3 +720,15 @@ CUARTO. En tanto se designa al titular de la Contraloría Interna, la Secretarí
 Dado en el Palacio del Poder Ejecutivo del Estado Libre y Soberano de Nayarit, en Tepic, su Capital, a los 22 días del mes de Marzo del dos mil diez.
 
 "SUFRAGIO EFECTIVO; NO REELECCIÓN" LIC. NEY GONZÁLEZ SÁNCHEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO.- Rúbrica.- DR. ROBERTO MEJÍA PÉREZ, SECRETARIO GENERAL DE GOBIERNO.- Rúbrica.- ING. FELIPE PRADO HOPFNER, SECRETARIO DE PLANEACIÓN PROGRAMACIÓN Y PRESUPUESTO.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE PLANEACIÓN PROGRAMACIÓN Y PRESUPUESTO”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Planeación, Programación y Presupuesto, publicado en el Periódico Oficial, Órgano del Gobierno del Estado el 27 de marzo de 2010.
+
+TERCERO. En tanto se expiden el Manual de Organización de la Secretaría y otros instrumentos administrativos y normativos necesarios para el funcionamiento óptimo de la dependencia, el Secretario tomará las decisiones que sean procedentes de conformidad con la Ley y otras disposiciones legales aplicables.
