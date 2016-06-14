@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-12-2014-del-pleno-de-la-suprema-101141"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-06-03"
-last_updated: "2014-06-03"
+last_updated: "2016-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101141&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ ACUERDO GENERAL NÚMERO 12/2014, DE DIECINUEVE DE MAYO DE DOS MIL CATORCE, DEL P
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ACUERDO ENTRA EN VIGOR EL LUNES DIECIOCHO DE AGOSTO DE DOS MIL CATORCE.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2016.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 3 de junio de 2014.
 
@@ -126,6 +126,12 @@ Los referidos submódulos contarán, en su caso, con las secciones que resulten 
 ###### Artículo 4.
 
 En el MINTERSCJN, cada órgano jurisdiccional del PJF tendrá asignado un repositorio dividido por submódulos y, en su caso, por secciones, en los cuales podrá recibir la información remitida por la SCJN, así como remitir a ésta la que legalmente corresponda.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL INSTRUMENTO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 2016)</small>
+
+Tratándose de los expedientes radicados en la SCJN, los servidores públicos que mediante el uso de su FIREL tengan acceso a los expedientes electrónicos respectivos, con los permisos correspondientes, previo acuerdo del Presidente del órgano en el que se encuentre radicado un expediente, podrán obtener copia certificada, para el único fin de agregarla a éste, de las constancias que obren en un diverso expediente electrónico, sin necesidad de que en este último se dicte un proveído que ordene generar dicha copia y sin menoscabo de que en éste y en aquél se genere y agregue la constancia que permita identificar los datos del asunto en el cual se dictó el proveído que ordenó obtener la copia respectiva, así como los del servidor público que ejecutó esa determinación.
 
 ###### Artículo 5.
 
@@ -482,3 +488,13 @@ El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Juan N. Si
 El licenciado Rafael Coello Cetina, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: Este ACUERDO GENERAL NÚMERO 12/2014, DE DIECINUEVE DE MAYO DE DOS MIL CATORCE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A LOS LINEAMIENTOS QUE RIGEN EL USO DEL MÓDULO DE INTERCOMUNICACIÓN PARA LA TRANSMISIÓN ELECTRÓNICA DE DOCUMENTOS ENTRE LOS TRIBUNALES DEL PODER JUDICIAL DE LA FEDERACIÓN Y LA PROPIA SUPREMA CORTE, fue emitido por el Tribunal Pleno en Sesión Privada celebrada el día de hoy, por unanimidad de nueve votos de los señores Ministros Alfredo Gutiérrez Ortiz Mena, Margarita Beatriz Luna Ramos, José Ramón Cossío Díaz, Arturo Zaldívar Lelo de Larrea, Jorge Mario Pardo Rebolledo, Luis María Aguilar Morales, Olga Sánchez Cordero de García Villegas, Alberto Pérez Dayán y Presidente Juan N. Silva Meza. Los señores Ministros José Fernando Franco González Salas y Sergio A. Valls Hernández estuvieron ausentes, previo aviso.- México, Distrito Federal, a diecinueve de mayo de dos mil catorce.- Rúbrica.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que esta fotostática constante de treinta y un fojas útiles concuerda fiel y exactamente con el original del Acuerdo General Plenario 12/2014, que obra en los archivos de la sección de instrumentos normativos de esta Secretaría General de Acuerdos y se expide para su publicación en el diario Oficial de la Federación.- México, Distrito Federal, a veintiséis de mayo de dos mil catorce.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 14 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL SEIS DE JUNIO DE DOS MIL DIECISÉIS, POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 4 DEL ACUERDO GENERAL NÚMERO 12/2014”.]
+
+PRIMERO. El presente Instrumento Normativo entrará en vigor el cuatro de julio de dos mil dieciséis.
+
+SEGUNDO. Publíquese el presente Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y, en términos de lo dispuesto en los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública, y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública, en medios electrónicos de consulta pública, sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 12/2014, en dichos medios electrónicos.
