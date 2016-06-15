@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-entrega-recepcion-de-la-administracion-publica-para-8419
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-14"
-last_updated: "2015-05-27"
+last_updated: "2016-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84194&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ENTREGA RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE MORELOS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de diciembre de 2011.
 
@@ -123,13 +123,17 @@ Todo servidor público que se encuentre sujeto a la presente ley deberá llevar 
 
 En caso de urgencia para la ley entrega-recepción, a criterio del superior jerárquico, se habilitaran días y horas inhábiles para la entrega correspondiente.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2016)</small>
+
 ###### Artículo 8.
 
-Los servidores públicos salientes estarán obligados a proporcionar a los servidores públicos entrantes y a los órganos de control internos, la información que requieran y hacer las aclaraciones que les soliciten durante los siguientes treinta días hábiles, contados a partir del acto de entrega; la información la podrán entregar a través de cualquier medio electrónico que facilite su manejo.
+Los servidores públicos salientes estarán obligados a proporcionar a los servidores públicos entrantes y a los órganos de control internos, la información que requieran y hacer las aclaraciones que les soliciten durante los cuarenta y cinco días hábiles, contados a partir del acto de entrega; la información la podrán entregar a través de cualquier medio electrónico que facilite su manejo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2016)</small>
 
 ###### Artículo 9.
 
-En el caso de que el servidor público entrante encuentre irregularidades en los documentos y recursos recibidos, y dicha información esté inmersa en la información recibida, dentro del término de treinta días hábiles, contados a partir de la fecha de entrega-recepción del despacho, deberá hacerlas del conocimiento del órgano interno de control correspondiente, para que en un plazo de quince días hábiles sean aclaradas por el servidor público saliente o, en su caso, para que se proceda de conformidad al régimen de responsabilidades de los servidores públicos y demás ordenamientos aplicables.
+En el caso de que el servidor público entrante encuentre irregularidades en los documentos y recursos recibidos, y dicha información esté inmersa en la información recibida, dentro del término de cuarenta y cinco días hábiles, contados a partir de la fecha de entrega-recepción del despacho, deberá hacerlas del conocimiento del órgano interno de control correspondiente, para que en un plazo de quince días hábiles sean aclaradas por el servidor público saliente o, en su caso, para que se proceda de conformidad al régimen de responsabilidades de los servidores públicos y demás ordenamientos aplicables.
 
 Para el caso de que el servidor público entrante o la autoridad correspondiente no procedieran de conformidad con el párrafo anterior, incurrirán en responsabilidad en los términos de la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
@@ -509,9 +513,11 @@ El Consejo de la Judicatura, así como los órganos internos de control del Pode
 
 La verificación y validación física del contenido del Acta Administrativa de Entrega-recepción y sus anexos deberán llevarse a cabo por el servidor público entrante en un término no mayor de treinta días hábiles contados a partir del acto de entrega.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2016)</small>
+
 ###### Artículo 24.
 
-Durante los siguientes 30 días hábiles contados a partir del acto de entrega el funcionario que reciba podrá requerir al funcionario que entregó, la información o aclaraciones adicionales que considere necesarias, tal solicitud deberá hacérsele por escrito y notificada en el domicilio que haya designado en el acta de Entrega-recepción el servidor público saliente, el requerido deberá comparecer personalmente o por escrito dentro de los tres días hábiles siguientes a la recepción de la notificación a manifestar lo que corresponda, en caso de no comparecer o no informar por escrito dentro del término concedido, el servidor público entrante deberá notificar tal omisión al órgano de control interno para que proceda de conformidad con la Ley Estatal de Responsabilidades de los Servidores Públicos del Estado.
+Durante los siguientes cuarenta y cinco días hábiles contados a partir del acto de entrega el funcionario que reciba podrá requerir al funcionario que entregó, la información o aclaraciones adicionales que considere necesarias, tal solicitud deberá hacérsela por escrito y notificada en el domicilio que haya designado en el acta de Entrega- recepción el servidor público saliente, el requerido deberá comparecer personalmente o por escrito dentro de los tres días hábiles siguientes a la recepción de la notificación a manifestar lo que corresponda, en caso de no comparecer o no informar por escrito dentro del término concedido, el servidor público entrante deberá notificar tal omisión al órgano de control interno para que proceda de conformidad con la Ley Estatal de Responsabilidades de los Servidores Públicos del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
 
@@ -589,9 +595,11 @@ La comisión de enlace por parte de la administración entrante deberá tomar co
 
 La comisión de enlace entrante no podrá ejercer más atribuciones que las señaladas en la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2016)</small>
+
 ###### Artículo 33.
 
-Los servidores públicos salientes de las dependencias, ayuntamiento y entidades estarán obligados a proporcionar a los servidores públicos entrantes y a los órganos internos de control, la información que requieran y hacer las aclaraciones que les soliciten durante los siguientes 30 días hábiles contados a partir del acto de entrega.
+Los servidores públicos salientes de las dependencias, ayuntamiento y entidades estarán obligados a proporcionar a los servidores públicos entrantes y a los órganos internos de control, la información que requieran y hacer las aclaraciones que les soliciten durante los siguientes cuarenta y cinco días hábiles contados a partir del acto de entrega.
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
 
@@ -704,3 +712,11 @@ P.O. 27 DE MAYO DE 2015.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 15 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS SETENTA Y TRES POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ENTREGA RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE MORELOS Y SUS MUNICIPIOS”.]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los articules 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
