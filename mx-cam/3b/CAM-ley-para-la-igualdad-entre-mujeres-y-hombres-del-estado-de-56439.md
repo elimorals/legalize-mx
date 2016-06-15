@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-5643
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2015-08-07"
+last_updated: "2016-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -43,17 +43,23 @@ LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CAMPECHE
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2016)</small>
+
 ###### Artículo 1.
 
-La presente Ley tiene por objeto regular y garantizar la igualdad entre mujeres y hombres y proponer los lineamientos y mecanismos institucionales que orienten al Estado hacia el cumplimiento de la igualdad sustantiva en los ámbitos público y privado, promoviendo el empoderamiento de las mujeres. Sus disposiciones son de orden público e interés social y de observancia general en todo el territorio del Estado de Campeche.
+La presente Ley es de orden público e interés social y de observancia general en todo el territorio del Estado de Campeche, tiene por objeto regular y garantizar la igualdad de oportunidades y de trato entre mujeres y hombres, proponer los lineamientos y mecanismos institucionales que orienten al Estado hacia el cumplimiento de la igualdad sustantiva en los ámbitos público y privado, y promover el empoderamiento de las mujeres y la lucha contra toda discriminación basada en el sexo y en el género.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2016)</small>
 
 ###### Artículo 2.
 
-Son principios rectores de la presente Ley: la igualdad, la no discriminación, la equidad y todos aquellos contenidos en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado de Campeche.
+Son principios rectores de la presente Ley: la igualdad sustantiva y de género, la no discriminación y todos aquellos contenidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado de Campeche, en los Instrumentos Internacionales de los que el Estado mexicano sea parte y deba cumplir, en la Ley General para la Igualdad entre Mujeres y Hombres y demás leyes en la materia.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2016)</small>
 
 ###### Artículo 3.
 
-Son sujetos de los derechos que establece esta Ley, las mujeres y los hombres que se encuentren en territorio estatal, que por razón de su sexo, independientemente de su edad, estado civil, profesión, cultura, origen étnico o nacional, condición social, salud, religión, opinión o capacidades diferentes, se encuentren con algún tipo de desventaja ante la violación del principio de igualdad que esta Ley tutela.
+Son sujetos de los derechos que establece esta Ley, las mujeres y los hombres que se encuentren en territorio estatal que por razón de su sexo, edad, género, estado civil, profesión, cultura, origen étnico o nacional, condición social, salud, religión, preferencia sexual, diversidad sexual, opinión o discapacidad, se encuentren con algún tipo de desventaja ante la violación del principio de igualdad que esta Ley tutela.
 
 ###### Artículo 4.
 
@@ -63,19 +69,45 @@ En lo no previsto en esta Ley, se aplicará en forma supletoria y en lo conducen
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Acciones afirmativas.- Es el conjunto de medidas de carácter temporal encaminadas a acelerar la igualdad de hecho entre mujeres y hombre.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
 
-II. Transversalidad.- Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas.
+I. Acciones afirmativas.- Es el conjunto de medidas de carácter temporal correctivo, compensatorio y/o de promoción, encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres;
 
-III. Sistema Estatal.- Sistema Estatal para la Igualdad entre Mujeres y Hombres.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
 
-IV. Programa Estatal.- Programa Estatal para la Igualdad entre Mujeres y Hombres.
+II. Discriminación.- Toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, diversidad sexual, estado civil o cualquier otra, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2015)</small>
+III. Discriminación por razón de sexo.- Remite al tratamiento desigual y desventajoso de una persona o un grupo de personas debido fundamentalmente a sus atributos sexuales biológicos, es decir, al hecho de que se trata de mujeres o de hombres a partir de diversas características anatómicas y fisiológicas, entre otras, a partir de las cuales se configura el sexo biológico, como las genéticas o las hormonales;
 
-V. Igualdad Sustantiva.- Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+IV. Discriminación por razón de género.- Alude al tratamiento desigual y desventajoso que sufren las personas en virtud del conjunto de normas de conducta, de estereotipos, de valores, de significaciones que en una sociedad determinada se otorga al hecho biológico de ser mujeres o de ser hombres;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+V. Igualdad de Género.- Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2016)</small>
+
+VI. Igualdad Sustantiva.- Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2016)</small>
+
+VII. Perspectiva de Género.- Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2016)</small>
+
+VIII. Transversalidad.- Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de normas jurídicas, políticas públicas, actividades administrativas, económicas y culturales, en las instituciones públicas y privadas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2016)</small>
+
+IX. Sistema Estatal.- Sistema Estatal para la Igualdad entre Mujeres y Hombres; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2016)</small>
+
+X. Programa Estatal.- Programa Estatal para la Igualdad entre Mujeres y Hombres.
 
 ###### Artículo 6.
 
@@ -153,9 +185,15 @@ De conformidad con lo dispuesto en la presente Ley, corresponde a los Municipios
 
 I. Implementar la política municipal en materia de igualdad entre mujeres y hombres, en concordancia con las políticas Nacional y Estatal;
 
-II. Coadyuvar con el Gobierno Federal y con el Gobierno Estatal correspondiente, en la consolidación de los programas en materia de igualdad entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
 
-III. Diseñar, formular y aplicar campañas de concientización que promuevan los valores y contenidos de la presente ley, y
+II. Coadyuvar con el Gobierno Federal y con el Gobierno Estatal correspondiente, en la consolidación de los programas, planes, proyectos y acciones en materia de igualdad entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+III. Diseñar, formular y aplicar campañas de concientización que promuevan los valores y contenidos de la presente ley;
+
+El contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta fracción, deberá estar desprovisto de estereotipos establecidos en función del sexo de las personas;
 
 IV. Fomentar la participación social, política y ciudadana dirigida a lograr la igualdad entre mujeres y hombres, tanto en las áreas urbanas como en las rurales.
 
@@ -184,6 +222,30 @@ IV. Promover la igualdad de acceso y el pleno disfrute de los derechos sociales 
 V. Promover la igualdad entre mujeres y hombres en la vida civil, y
 
 VI. Promover la eliminación de estereotipos establecidos en función del sexo.
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+VII. Adoptar las medidas necesarias para la erradicación de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+VIII. Establecer medidas que aseguren la corresponsabilidad en el trabajo y la vida personal y familiar de las mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+IX. Utilizar un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+X. Incluir, en los fines del sistema educativo, la formación en el respeto de los derechos y libertades y de la igualdad entre mujeres y hombres, así como en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia; así como incluir dentro de los principios de calidad, la eliminación de los obstáculos que dificultan la igualdad efectiva entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+XI. Incluir en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud; y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+XII. Promover que en las prácticas de comunicación social de las dependencias de la Administración Pública Estatal, así como en los medios masivos de comunicación electrónicos e impresos, se elimine el uso de estereotipos sexistas y discriminatorios y se incorpore un lenguaje incluyente.
 
 ### CAPÍTULO SEGUNDO. DE LOS INSTRUMENTOS DE POLÍTICA EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -245,9 +307,17 @@ El Sistema Estatal tiene los siguientes objetivos:
 
 I. Promover la igualdad entre mujeres y hombres y contribuir a la erradicación de todo tipo de discriminación;
 
-II. Coadyuvar a la modificación de estereotipos que discriminan y fomentan la violencia de género, y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
 
-III. Promover el desarrollo de programas y servicios que fomenten la igualdad entre mujeres y hombres.
+II. Contribuir al adelanto de las mujeres;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+III. Coadyuvar a la modificación de estereotipos que discriminan y fomentan la violencia de género; y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+IV. Promover el desarrollo de programas y servicios que fomenten la igualdad entre mujeres y hombres.
 
 ###### Artículo 24.
 
@@ -293,9 +363,15 @@ II. Desarrollo de acciones para fomentar la integración de políticas públicas
 
 III. Impulsar liderazgos igualitarios.
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+IV. Establecimiento de medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2016)</small>
+
 ###### Artículo 30.
 
-Para los efectos de lo previsto en el artículo anterior, las autoridades y organismos públicos desarrollarán las siguientes acciones:
+Para los efectos de lo previsto en el artículo anterior, las autoridades y organismos públicos garantizarán el derecho fundamental de igualdad sustantiva entre mujeres y hombres en el ámbito del empleo, así como el derecho fundamental a la no discriminación de persona alguna en las ofertas laborales, en la formación y promoción profesional, en las condiciones de trabajo, incluidas las retributivas, y en la afiliación y participación en las organizaciones sindicales, empresariales o en cualquier organización cuyos miembros ejerzan una profesión concreta, para lo cual desarrollarán las siguientes acciones:
 
 I. Promover la revisión de los sistemas fiscales para reducir los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su sexo;
 
@@ -317,7 +393,21 @@ IX. Diseñar y aplicar lineamientos que aseguren la igualdad en la contratación
 
 X. Diseñar políticas y programas de desarrollo y de reducción de la pobreza con perspectiva de género, y
 
-XI. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+XI. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia. Para la expedición del certificado a empresas se observará lo siguiente:
+
+a) La existencia y aplicación de un código de ética que prohíba la discriminación de género y establezca sanciones internas por su incumplimiento;
+
+b) La integración de la plantilla laboral cuando ésta se componga de al menos el cuarenta por ciento de un mismo género, y el diez por ciento del total corresponda a mujeres que ocupen puestos directivos;
+
+c) La aplicación de procesos igualitarios en la selección del personal, contemplando desde la publicación de sus vacantes hasta el ingreso del personal;
+
+d) Las demás consideraciones en materia de salubridad, protección y prevención de la desigualdad en el ámbito laboral; y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+XII. Promover condiciones de trabajo que eviten el acoso sexual y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación.
 
 ### CAPÍTULO TERCERO. DE LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA EQUILIBRADA DE LAS MUJERES Y LOS HOMBRES
 
@@ -333,11 +423,25 @@ I. Favorecer el trabajo parlamentario con la perspectiva de género;
 
 II. Garantizar que la educación en todos sus niveles se realice en el marco de la igualdad entre mujeres y hombres y se cree conciencia de la necesidad de eliminar toda forma de discriminación;
 
-III. Fomentar la participación equitativa de mujeres y hombres en altos cargos públicos;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
 
-IV. Desarrollar y actualizar estadísticas desagregadas por sexo, sobre puestos decisorios y cargos directivos en los sectores público, privado y de la sociedad civil, y
+III. Evaluar por medio del área competente de la Comisión de Derechos Humanos del Estado, la participación equilibrada entre mujeres y hombres en los cargos de elección popular;
 
-V. Fomentar la participación equilibrada y sin discriminación de mujeres y hombres en los procesos de selección, contratación y ascensos en el servicio civil de carrera de los poderes Ejecutivo, Legislativo y Judicial.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+IV. Promover la participación y representación equilibrada entre mujeres y hombres dentro de las estructuras de los partidos políticos;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+V. Fomentar la participación equitativa de mujeres y hombres en altos cargos públicos;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+VI. Desarrollar y actualizar estadísticas desagregadas por sexo, sobre puestos decisorios y cargos directivos en los sectores público, privado y de la sociedad civil; y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+VII. Fomentar la participación equilibrada y sin discriminación de mujeres y hombres en los procesos de selección, contratación y ascensos en el servicio civil de carrera de los poderes Ejecutivo, Legislativo y Judicial.
 
 ### CAPÍTULO CUARTO. DE LA IGUALDAD DE ACCESO Y EL PLENO DISFRUTE DE LOS DERECHOS SOCIALES PARA LAS MUJERES Y LOS HOMBRES
 
@@ -351,6 +455,10 @@ II. Supervisar la integración de la perspectiva de género al concebir, aplicar
 
 III. Revisar permanentemente las políticas de prevención, atención, sanción y erradicación de la violencia de género.
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+IV. Modificar los patrones socioculturales de conducta de hombres y mujeres con miras a alcanzar la eliminación de los prejuicios y las prácticas consuetudinarias y de cualquier otra índole que estén basados en la idea de la inferioridad o superioridad de cualquiera de los sexos o en funciones estereotipadas de hombres y mujeres.
+
 ###### Artículo 34.
 
 Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes desarrollarán las siguientes acciones:
@@ -363,9 +471,15 @@ III. Difundir en la sociedad el conocimiento de sus derechos y los mecanismos pa
 
 IV. Integrar el principio de igualdad en el ámbito de la protección social;
 
-VI. (sic) Impulsar acciones que aseguren la igualdad de acceso de mujeres y de hombres a la alimentación, la educación y la salud, y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
 
-VII. Promover campañas de concientización para mujeres y hombres sobre su participación equitativa en la atención de las personas dependientes de ellos.
+V. Impulsar acciones que aseguren la igualdad de acceso de mujeres y de hombres a la alimentación, la educación y la salud, y
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+VI. Promover campañas de concientización para mujeres y hombres sobre su participación equitativa en la atención de las personas dependientes de ellos.
+
+El contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta fracción, deberá estar desprovisto de estereotipos establecidos en función del sexo de las personas.
 
 ### CAPÍTULO QUINTO. DE LA IGUALDAD ENTRE MUJERES Y HOMBRES EN LA VIDA CIVIL
 
@@ -387,21 +501,33 @@ I. Mejorar los sistemas de inspección del trabajo en lo que se refiere a las no
 
 II. Promover investigaciones con perspectiva de género en materia de salud y de seguridad en el trabajo;
 
-III. Apoyar las actividades de interlocución ciudadana respecto a la legislación sobre la igualdad para las mujeres y los hombres;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
 
-IV. Reforzar la cooperación y los intercambios de información sobre los derechos humanos e igualdad entre hombres y mujeres con organizaciones no gubernamentales y organizaciones nacionales de cooperación para el desarrollo;
+III. Impulsar la capacitación para las autoridades encargadas de la procuración y administración de justicia en materia de igualdad entre mujeres y hombres;
 
-V. Impulsar reformas legislativas y políticas públicas para prevenir, atender, sancionar y erradicar en los ámbitos público y privado;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
 
-VI. Establecer los mecanismos para la atención de las víctimas en todos los tipos de violencia contra las mujeres, y
+IV. Apoyar las actividades de interlocución ciudadana respecto a la legislación sobre la igualdad para las mujeres y los hombres;
 
-VII. Fomentar las investigaciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+V. Reforzar la cooperación y los intercambios de información sobre los derechos humanos e igualdad entre mujeres y hombres con organizaciones no gubernamentales y organizaciones nacionales de cooperación para el desarrollo;
 
-> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
 
-VIII. Contribuir a un reparto más equilibrado de las responsabilidades familiares reconociendo a los padres biológicos y por adopción, el derecho a un permiso con goce de sueldo por paternidad, en términos de la Ley Federal del Trabajo.
+VI. Impulsar reformas legislativas y políticas públicas para prevenir, atender, sancionar y erradicar en los ámbitos público y privado, la violencia contra las mujeres;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+VII. Establecer los mecanismos para la atención de las víctimas en todos los tipos de violencia contra las mujeres;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+VIII. Fomentar las investigaciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres; y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+IX. Contribuir a un reparto más equilibrado de las responsabilidades familiares reconociendo a los padres biológicos y por adopción, el derecho a un permiso con goce de sueldo por paternidad, en términos de la Ley Federal del Trabajo.
 
 ### CAPÍTULO SEXTO. DE LA ELIMINACIÓN DE ESTEREOTIPOS ESTABLECIDOS EN FUNCIÓN DEL SEXO
 
@@ -418,6 +544,18 @@ I. Promover acciones que contribuyan a erradicar toda discriminación basada en 
 II. Desarrollar actividades de concientización sobre la importancia de la igualdad entre mujeres y hombres, y
 
 III. Vigilar la integración de una perspectiva de género en todas las políticas públicas.
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+IV. Promover la utilización de un lenguaje con perspectiva de género en la totalidad de las relaciones sociales;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+V. Velar por que los medios de comunicación transmitan una imagen igualitaria plural y no estereotipada de mujeres y hombres en la sociedad, promuevan el conocimiento y la difusión de principio de igualdad entre mujeres y hombres y eviten la utilización sexista del lenguaje; y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+VI. Vigilar que el contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta Ley esté desprovisto de estereotipos establecidos en función del sexo de las personas.
 
 ### CAPÍTULO SÉPTIMO. DEL DERECHO A LA INFORMACIÓN Y LA PARTICIPACIÓN SOCIAL EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -496,3 +634,11 @@ P.O. 7 DE AGOSTO DE 2015.
 PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 15 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE “SE REFORMAN LOS ARTÍCULOS 1; 2; 3; 5; LAS FRACCIONES II Y III DEL ARTÍCULO 14; LAS FRACCIONES II, III Y SE ADICIONA UNA FRACCIÓN IV DEL ARTÍCULO 23; EL PRIMER PÁRRAFO Y LA FRACCIÓN XI Y SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 30; LAS FRACCIONES III, IV Y V Y SE ADICIONAN LAS FRACCIONES VI Y VII AL ARTÍCULO 32; LA FRACCIÓN VI DEL ARTÍCULO 34; LAS FRACCIONES III, IV, V, VI, VII Y VIII Y SE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 36, TODOS DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CAMPECHE, SE ADICIONAN AL ARTÍCULO 15 LAS FRACCIONES VII, VIII, IX, X, XI Y XII; AL ARTÍCULO 29, LA FRACCIÓN IV; AL ARTÍCULO 33, LA FRACCIÓN IV Y AL NUMERAL 38 LAS FRACCIONES IV, V Y VI, TODOS DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor a los tres días después de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
