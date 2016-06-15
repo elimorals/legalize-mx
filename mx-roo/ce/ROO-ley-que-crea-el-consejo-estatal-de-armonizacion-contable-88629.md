@@ -4,7 +4,7 @@ identifier: "ROO-ley-que-crea-el-consejo-estatal-de-armonizacion-contable-88629"
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-20"
-last_updated: "2016-01-15"
+last_updated: "2016-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88629&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY QUE CREA EL CONSEJO ESTATAL DE ARMONIZACIÓN CONTABLE DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY QUE CREA EL CONSEJO DE ARMONIZACIÓN CONTABLE DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 15 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2016 (ABROGADA).
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 20 de junio de 2012.
 
@@ -198,3 +200,17 @@ P.O. 15 DE ENERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 381 POR EL QUE SE REFORMA EL ARTÍCULO 3 DE LA LEY QUE CREA EL CONSEJO ESTATAL DE ARMONIZACIÓN CONTABLE DEL ESTADO DE QUINTANA ROO”.]
 
 ÚNICO. Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 15 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 404 POR EL QUE SE EXPIDE LA LEY QUE CREA EL CONSEJO DE ARMONIZACIÓN CONTABLE DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga la Ley que crea el Consejo Estatal de Armonización Contable del Estado de Quintana Roo, publicada en el Periódico Oficial del Estado el día 20 de junio de 2012.
+
+TERCERO. Los acuerdos que se hayan tomado por el Consejo Estatal de Armonización Contable del Estado de Quintana Roo, constituido por la Ley que se abroga, continuarán vigentes en tanto no contravengan lo dispuesto por la Ley General de Contabilidad Gubernamental, las Reglas de Operación del Consejo Nacional de Armonización Contable y demás normatividad aplicable.
+
+CUARTO. El Consejo de Armonización Contable del Estado de Quintana Roo se instalará al día hábil siguiente de la entrada en vigor de la presente ley, en los términos que ésta dispone.
+
+QUINTO. Se derogan todas las disposiciones que se opongan a la presente Ley.
