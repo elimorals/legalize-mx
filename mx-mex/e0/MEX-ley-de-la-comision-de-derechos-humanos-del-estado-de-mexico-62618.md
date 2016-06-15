@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-comision-de-derechos-humanos-del-estado-de-mexico-626
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-14"
-last_updated: "2016-02-03"
+last_updated: "2016-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO EL 3 DE FEBRERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE JUNIO DE 2016.
 
 Ley publicada en la Gaceta de Gobierno del Estado de México, el jueves 14 de agosto de 2008.
 
@@ -59,15 +57,17 @@ La presente Ley tiene por objeto establecer las bases para la protección, obser
 
 La Comisión de Derechos Humanos del Estado de México es un organismo público de carácter permanente, con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios.
 
+> <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
+
 ###### Artículo 4.
 
-La Comisión de Derechos Humanos del Estado de México, debe garantizar el derecho a la información pública, privilegiando el principio de máxima publicidad, de conformidad con lo dispuesto en la legislación y normatividad aplicables en la materia.
+La Comisión de Derechos Humanos del Estado de México, garantizará el derecho de acceso a la información pública, privilegiando el principio de máxima publicidad y la protección de datos personales, de conformidad con lo dispuesto en la legislación y normatividad en la materia.
 
 ###### Artículo 5.
 
 Para los efectos de la presente Ley se entiende por:
 
-l. Ley: la Ley de la Comisión de Derechos Humanos del Estado de México;
+I. Ley: la Ley de la Comisión de Derechos Humanos del Estado de México;
 
 II. Comisión u Organismo: la Comisión de Derechos Humanos del Estado de México;
 
@@ -91,7 +91,7 @@ I. Los bienes con los que cuenta actualmente y aquellos que se destinen para el 
 
 II. Los recursos que le sean asignados;
 
-III. Los subsidios, donaciones y aportaciones, tanto en bienes como en valores, que le otorguen los gobiernos federal, estatal y municipales;
+III. Los subsidios, donaciones y aportaciones, tanto en bienes como en valores, que le otorguen los gobiernos federal, estatal y municipales (sic);
 
 IV. Los bienes que adquiera a través de los procedimientos de adquisición;
 
@@ -235,19 +235,21 @@ En su actuación, las normas relativas a los derechos humanos se interpretarán 
 
 ### Capítulo II. De la estructura y organización
 
+> <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
+
 ###### Artículo 15.
 
 La Comisión se integra por:
 
-> <small>(REFORMADA, G.G. 30 DE MARZO DE 2011)</small>
+I. La Presidencia.
 
-I. La o el Presidente;
+II. El Consejo Consultivo.
 
-II. El Secretario; y
+III. La Secretaría General.
 
-III. Los Visitadores que sean necesarios.
+IV. Las Visitadurias que sean necesarias.
 
-La Comisión se auxiliará del personal profesional, técnico y administrativo indispensable para el cumplimiento de sus atribuciones.
+V. El personal profesional, técnico y administrativo necesario para el desarrollo de sus actividades.
 
 > <small>(REFORMADO, G.G. 30 DE MARZO DE 2011)</small>
 
@@ -261,7 +263,7 @@ El Presidente es el representante legal y la autoridad ejecutiva responsable del
 
 La o el Presidente debe reunir los requisitos siguientes:
 
-l. Ser mexicano por nacimiento en pleno goce y ejercicio de sus derechos políticos y civiles;
+I. Ser mexicano por nacimiento en pleno goce y ejercicio de sus derechos políticos y civiles;
 
 II. Tener residencia efectiva en el territorio del Estado de México no menor de cinco años anteriores al día de su elección;
 
@@ -293,31 +295,21 @@ Para los efectos de lo previsto en el párrafo anterior, la Legislatura Estatal 
 
 La o el Presidente durará en su encargo cuatro años, pudiendo ser reelecto por la Legislatura del Estado, por una sola vez y por igual periodo, en términos de lo dispuesto por el artículo anterior.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
 
 ###### Artículo 20.
 
-La o el Presidente dejará de ejercer su encargo por alguna de las causas siguientes:
+La Presidencia dejará de ejercer su cargo por alguna de las causas siguientes:
 
-l. Por concluir el período para el que fue electo o reelecto;
+I. Por concluir el período para el que fue electo o reelecto.
 
-II. Por renuncia;
+II. Por renuncia.
 
-III. Por incapacidad permanente que le impida el desempeño de sus funciones;
+III. Por incapacidad permanente que le impida el desempeño de sus funciones.
 
-IV. Por ausencia injustificada;
+IV. Las señaladas en el Título Séptimo de la Constitución Política del Estado Libre y Soberano de México.
 
-V. Por haber sido condenado mediante sentencia ejecutoriada por delito doloso; y
-
-VI. Por desempeñar actividades incompatibles con su cargo, en términos de esta Ley.
-
-> <small>(REFORMADO, G.G. 30 DE MARZO DE 2011)</small>
-
-En los supuestos a que se refieren las fracciones IV, V y VI, la Legislatura del Estado, previa garantía de audiencia que se otorgue al Presidente, resolverá lo procedente.
-
-> <small>(REFORMADO, G.G. 30 DE MARZO DE 2011)</small>
-
-En todos los supuestos y durante el procedimiento de nueva elección, el Presidente será sustituido por el Primer Visitador General, quien asumirá las facultades y obligaciones de éste, de manera plena.
+En todos los supuestos y durante el procedimiento de nueva elección, la Presidencia será sustituida por el Primer Visitador General, quien asumirá las facultades y obligaciones de éste.
 
 > <small>(REFORMADO, G.G. 30 DE MARZO DE 2011)</small>
 
@@ -333,7 +325,7 @@ El Secretario de la Comisión es el responsable del enlace y vinculación instit
 
 El Secretario debe reunir los requisitos siguientes:
 
-l. Ser mexicano por nacimiento en pleno goce y ejercicio de sus derechos políticos y civiles;
+I. Ser mexicano por nacimiento en pleno goce y ejercicio de sus derechos políticos y civiles;
 
 II. Tener residencia efectiva en el territorio del Estado de México no menor de tres años anteriores al día de su designación;
 
@@ -355,7 +347,7 @@ Los Visitadores son los encargados de conocer de los procedimientos establecidos
 
 Para ser Visitador General se deben reunir los requisitos siguientes:
 
-l. Ser mexicano por nacimiento en pleno goce y ejercicio de sus derechos políticos y civiles;
+I. Ser mexicano por nacimiento en pleno goce y ejercicio de sus derechos políticos y civiles;
 
 II. Tener residencia efectiva en el territorio del Estado de México no menor de tres años anteriores al día de su designación;
 
@@ -441,13 +433,15 @@ XXII. Emitir la terna de aspirantes a Defensor Municipal de Derechos Humanos, qu
 
 XXIII. Las demás que le confiera esta Ley y otras disposiciones legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 15 DE JUNIO DE 2016)</small>
+
 ###### Artículo 29.
 
-El Secretario de la Comisión tiene las facultades y obligaciones siguientes:
+La Secretaria General de la Comisión tiene las facultades y obligaciones siguientes:
 
 > <small>(REFORMADA, G.G. 30 DE MARZO DE 2011)</small>
 
-l. Presentar al Consejo Consultivo, por acuerdo de la o el Presidente, las propuestas de planes de trabajo y programas del Organismo;
+I. Presentar al Consejo Consultivo, por acuerdo de la o el Presidente, las propuestas de planes de trabajo y programas del Organismo;
 
 II. Promover y fortalecer las relaciones de la Comisión con autoridades e instituciones públicas; así como con organismos públicos, sociales y privados, estatales, nacionales e internacionales;
 
@@ -465,23 +459,33 @@ VI. Realizar las funciones de Secretaría Técnica del Consejo Consultivo, en t�
 
 VII. Las demás que le confiera esta Ley, otras disposiciones legales y la o el Presidente.
 
+> <small>(ADICIONADO, G.G. 15 DE JUNIO DE 2016)</small>
+
+Artículo 29 bis.- La Primera Visitaduria General, además de las facultades y obligaciones contenidas en los artículos 30 y 31 de esta Ley, tiene las siguientes:
+
+I. Coordinar las funciones de las áreas a su cargo.
+
+II. Proponer a la Presidencia los proyectos de Recomendaciones, Resoluciones de no Responsabilidad, acuerdos, criterios generales, así como los demás proyectos de las áreas a su cargo.
+
+III. Supervisar la sustanciación de los procedimientos y resoluciones que sean competencia de las Visitadurías.
+
+IV. Proveer lo necesario para el adecuado seguimiento de los procedimientos de queja que se siguen ante la Comisión.
+
+V. Las demás que le confieren otras disposiciones y aquellas que le encomiende el Presidente.
+
+> <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
+
 ###### Artículo 30.
 
-Los Visitadores Generales, tienen las facultades y obligaciones siguientes:
+Las Visitadurías Generales, además de las que corresponden a los visitadores, tienen las facultades y obligaciones siguientes:
 
-l. Coordinar y supervisar a los Visitadores en términos del Reglamento Interno;
+I. Coordinar y supervisar a los Visitadores Adjuntos en términos del Reglamento Interno.
 
-> <small>(REFORMADA, G.G. 30 DE MARZO DE 2011)</small>
+II. Proponer a la Presidencia o a la o al (sic) Primera Visitaduría Generar (sic) los proyectos de Recomendaciones, Resoluciones de no Responsabilidad, acuerdos y criterios generales.
 
-II. Proponer a la o el Presidente los proyectos de Acuerdos, Criterios Generales, Resoluciones de no Responsabilidad, Recomendaciones y Resoluciones de los Recursos de Reconsideración;
+III. Vincular, orientar, supervisar y evaluar las acciones que realicen los Defensores Municipales de Derechos Humanos, en términos de la Ley Orgánica Municipal del Estado de México.
 
-> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2009)</small>
-
-III. Vincular, orientar, supervisar y evaluar las acciones que realicen los Defensores Municipales de Derechos Humanos, en términos de la Ley Orgánica Municipal del Estado de México; y
-
-> <small>(REFORMADA, G.G. 30 DE MARZO DE 2011)</small>
-
-IV. Las demás que les confiera esta Ley, otras disposiciones legales y la o el Presidente.
+IV. Las demás que les confiera esta Ley, otras disposiciones legales y la Presidencia.
 
 ###### Artículo 31.
 
@@ -513,11 +517,11 @@ X. Elaborar los proyectos de Acuerdos, Resoluciones de no Responsabilidad, Recom
 
 XI. Las demás que les confiera esta Ley, otras disposiciones legales y la o el Presidente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 15 DE JUNIO DE 2016)</small>
 
 ###### Artículo 32.
 
-La o el Presidente y las o los Visitadores tienen fe pública en sus actuaciones.
+La Presidencia, las Visitadurías, titular del área de orientación y quejas, titular del Centro de Mediación y Conciliación tendrán fe pública en sus actuaciones.
 
 Para los efectos de esta Ley, fe pública es la facultad de certificar la veracidad de los hechos, acontecimientos, circunstancias, objetos, documentos, lugares; así como entrevistas, declaraciones y testimonios, que se relacionen con el ejercicio de sus atribuciones.
 
@@ -529,7 +533,9 @@ La o el Presidente y las o los Visitadores no pueden ser reconvenidos, detenidos
 
 La Legislatura del Estado velará por el respeto de lo establecido en el presente artículo.
 
-### Capítulo IV. De los informes anuales del Comisionado
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 15 DE JUNIO DE 2016)</small>
+
+### Capítulo IV. De los Informes anuales de la o el Presidente
 
 > <small>(REFORMADO, G.G. 30 DE MARZO DE 2011)</small>
 
@@ -563,7 +569,7 @@ El Consejo Consultivo esta integrado por:
 
 > <small>(REFORMADA, G.G. 30 DE MARZO DE 2011)</small>
 
-l. Un Presidente;
+I. Un Presidente;
 
 > <small>(REFORMADA, G.G. 30 DE MARZO DE 2011)</small>
 
@@ -613,7 +619,7 @@ En los casos a que se refieren las fracciones IV, V y VI, la Legislatura del Est
 
 Los Consejeros Ciudadanos están impedidos para:
 
-l. Desempeñar otro empleo, cargo o comisión en el servicio público durante el período de su encargo;
+I. Desempeñar otro empleo, cargo o comisión en el servicio público durante el período de su encargo;
 
 II. Arrogarse la representación de la Comisión o del Consejo Consultivo; y
 
@@ -623,7 +629,7 @@ III. Difundir los asuntos que sean de su conocimiento, o prejuzgar públicamente
 
 El Consejo Consultivo tiene las facultades y obligaciones siguientes:
 
-l. Establecer las políticas y criterios que orienten al cumplimiento de los objetivos de la Comisión;
+I. Establecer las políticas y criterios que orienten al cumplimiento de los objetivos de la Comisión;
 
 > <small>(REFORMADA, G.G. 30 DE MARZO DE 2011)</small>
 
@@ -731,9 +737,11 @@ La Comisión proporcionará la información que le sea requerida, relativa a los
 
 ### Capítulo II. De la presentación de la queja
 
+> <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
+
 ###### Artículo 60.
 
-Cualquier persona puede interponer queja ante la Comisión, por la probable violación a sus derechos humanos, o de terceros.
+Cualquier persona puede interponer queja ante la Comisión por la probable violación a sus derechos humanos o de terceros, derivado de actos u omisiones de naturaleza administrativa, provenientes de cualquier autoridad o servidor público del Estado o municipios.
 
 ###### Artículo 61.
 
@@ -785,6 +793,10 @@ Presentada la queja en los términos requeridos por esta Ley y el Reglamento Int
 
 Cuando la queja sea notoriamente improcedente, debe ser desechada mediante acuerdo fundado y motivado.
 
+> <small>(ADICIONADO, G.G. 15 DE JUNIO DE 2016)</small>
+
+Artículo 69 bis.- La Presidencia podrá declinar en la Primera Visitaduría General el conocimiento de un determinado caso, cuando así lo considere conveniente, para preservar la investigación, la autonomía y la autoridad del Organismo.
+
 ### Capítulo III. De las investigaciones de oficio
 
 ###### Artículo 70.
@@ -835,9 +847,15 @@ En casos urgentes, el Organismo puede solicitar la presentación de los informes
 
 En los informes que rindan las autoridades o servidores públicos, se debe consignar los antecedentes del asunto, los fundamentos y motivaciones de los actos u omisiones impugnados, así como la información que consideren necesaria para la tramitación del asunto.
 
+> <small>(ADICIONADO, G.G. 15 DE JUNIO DE 2016)</small>
+
+La rendición del informe corresponderá a la autoridad o servidor público que se requiera, esta atribución no podrá ser delegada.
+
+> <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
+
 ###### Artículo 80.
 
-La falta de rendición de los informes o de la documentación que los sustente, así como su retraso injustificado, además de la responsabilidad respectiva, dará lugar a que se tengan por ciertos los hechos denunciados o reclamados, salvo prueba en contrario.
+La falta de rendición de los informes o de la documentación que los sustente, en los plazos establecidos por la Ley, dará lugar a que se tengan por ciertos los hechos denunciados o reclamados, salvo prueba en contrario.
 
 ###### Artículo 81.
 
@@ -875,9 +893,15 @@ Cuando las partes no logren concertar sus intereses a través de la mediación, 
 
 ### Capítulo VII. De las actuaciones
 
+> <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
+
 ###### Artículo 89.
 
-La Comisión deberá realizar las actuaciones necesarias, para asegurar el respeto de los derechos humanos, mismas que podrán ser practicadas a toda hora y aún en días inhábiles, sin necesidad de previa habilitación.
+La Comisión realizará las actuaciones necesarias para asegurar el respeto de los derechos humanos, para tal efecto podrá solicitar cualquier tipo de informes o documentos, así como la presencia de autoridades o servidores públicos que considere convenientes para la investigación.
+
+La inasistencia injustificada a las diligencias a las que sea citada la autoridad o el servidor público responsable, en el trámite de la investigación de una queja, lo hará sujeto de una responsabilidad administrativa disciplinaria.
+
+Las actuaciones podrán ser practicadas cualquier día y hora, sin necesidad de previa habilitación.
 
 ###### Artículo 90.
 
@@ -891,7 +915,7 @@ Las actuaciones son públicas; sin embargo, cuando sea conveniente, el Visitador
 
 El personal de la Comisión puede realizar visitas para:
 
-l. Verificar y certificar la veracidad de los hechos, acontecimientos, circunstancias, objetos, documentos y lugares;
+I. Verificar y certificar la veracidad de los hechos, acontecimientos, circunstancias, objetos, documentos y lugares;
 
 II. Recabar entrevistas, declaraciones o testimonios;
 
@@ -933,13 +957,13 @@ Las pruebas serán valoradas libremente por el Visitador, de acuerdo con los pri
 
 La Comisión puede dictar las resoluciones siguientes:
 
-l. Acuerdos: cuando sean determinaciones de trámite, que emita en los expedientes;
+I. Acuerdos: cuando sean determinaciones de trámite, que emita en los expedientes;
 
 II. Resoluciones de no Responsabilidad: cuando no se acrediten las violaciones a derechos humanos;
 
 III. Recomendaciones: cuando se comprueben las violaciones a derechos humanos;
 
-IV. Resoluciones de los Recursos de Reconsideración: que pueden confirmar, revocar o modificar la Recomendación impugnada; y
+IV. (DEROGADA, G.G. 15 DE JUNIO DE 2016)
 
 V. Recomendaciones Generales: cuando derivado de los estudios realizados por el Organismo, se determine que diversas autoridades han vulnerado derechos humanos, las cuales no requieren aceptación por parte de las autoridades a quienes vayan dirigidas; sin embargo, la verificación de su cumplimiento se hará mediante la realización de estudios generales, que para tal efecto realice la Comisión.
 
@@ -969,9 +993,13 @@ Las Recomendaciones, en su caso, serán turnadas al Órgano de Control correspon
 
 ### Capítulo X. De la aceptación y cumplimiento de las Recomendaciones
 
+> <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
+
 ###### Artículo 105.
 
-Una vez recibida la Recomendación, el superior jerárquico debe informar dentro de los quince días hábiles siguientes a su notificación, si acepta dicha Recomendación, y en quince días hábiles adicionales entregar, en su caso, las pruebas que demuestren su cumplimiento.
+Una vez recibida la Recomendación la autoridad o el servidor público responsable, deberá informar dentro de los quince días hábiles siguientes a su notificación, si acepta dicha Recomendación y en quince días hábiles adicionales entregar, en su caso, las pruebas que demuestren su cumplimiento.
+
+La rendición del informe sobre la aceptación o no de la Recomendación, no podrá ser delegada.
 
 ###### Artículo 106.
 
@@ -1001,21 +1029,15 @@ La Legislatura del Estado, a petición de la Comisión, podrá solicitar su comp
 
 ###### Artículo 110.
 
-El Recurso de Reconsideración tiene por objeto que la Comisión confirme, revoque o modifique la Recomendación impugnada, dando definitividad a la misma.
+(DEROGADO, G.G. 15 DE JUNIO DE 2016)
 
 ###### Artículo 111.
 
-El superior jerárquico a quien se haya emitido una Recomendación y el servidor público señalado como responsable de violaciones a derechos humanos, están legitimados para interponer, por una sola ocasión, el Recurso de Reconsideración.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+(DEROGADO, G.G. 15 DE JUNIO DE 2016)
 
 ###### Artículo 112.
 
-El término para la interposición del Recurso de Reconsideración es de cinco días hábiles, contados a partir del día siguiente de haberse notificado en forma física o electrónica la Recomendación al superior jerárquico o al servidor público involucrado
-
-(ADICIONADO, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
-
-El Recurso de Reconsideración podrá ser presentado por escrito o de manera electrónica. El escrito deberá ser firmado y el presentado de forma electrónica estar signado con la firma electrónica avanzada y sello electrónico del servidor público correspondiente.
+(DEROGADO, G.G. 15 DE JUNIO DE 2016)
 
 ###### Artículo 113.
 
@@ -1073,21 +1095,129 @@ Además de las denuncias sobre los delitos y faltas administrativas en que pueda
 
 La Comisión tiene la facultad para instar el procedimiento señalado en el Título Séptimo de la Constitución Política del Estado Libre y Soberano de México, en contra de los servidores públicos que sean responsables de violaciones graves o reiteradas a derechos humanos.
 
-## TÍTULO QUINTO. DEL RÉGIMEN LABORAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 15 DE JUNIO DE 2016)</small>
 
-### Capítulo único. De las Relaciones Laborales
+## TÍTULO QUINTO. DEL CENTRO DE MEDIACIÓN Y CONCILIACIÓN
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 15 DE JUNIO DE 2016)</small>
+
+### Capítulo único. Disposiciones generales
+
+> <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
 
 ###### Artículo 123.
 
-Las relaciones laborales entre la Comisión y los servidores públicos que presten sus servicios en ella, se regirán por el artículo 123 apartado B de la Constitución Política de los Estados Unidos Mexicanos, por la Ley del Trabajo de los Servidores Públicos del Estado y Municipios, así como por las disposiciones legales emitidas por la Comisión en la materia.
+La Comisión contará con un Centro de Mediación y Conciliación que prestará estos servicios, buscando una amigable composición entre particulares y las autoridades del Estado y municipios.
+
+> <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
 
 ###### Artículo 124.
 
-Se establecerá un sistema de servicio profesional de carrera, a efecto de garantizar el ingreso, desarrollo y permanencia en el servicio público de la Comisión, en igualdad de oportunidades y con base en el mérito, a fin de impulsar la eficiencia y eficacia de la gestión pública para beneficio de la sociedad.
+El Centro de Mediación y Conciliación estará a cargo de un titular designado por el Presidente, quien deberá contar con certificación como mediador conciliador y con título profesional de área a fin a las ciencias sociales.
+
+Podrán ejercer funciones de mediadores o conciliadores, los servidores públicos del Organismo que cuenten con la certificación correspondiente.
+
+> <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
 
 ###### Artículo 125.
 
-Los servidores públicos del Organismo, en el desempeño de sus funciones deben observar los principios éticos y deontológicos que emita el Consejo Consultivo.
+Podrán ser sujetos de mediación y conciliación, aquellos casos en los que no se involucren violaciones graves a derechos humanos.
+
+La mediación o conciliación podrá llevarse a cabo antes, durante y después del procedimiento de queja establecido en esta Ley.
+
+Para efectos de la mediación, se invitará a la autoridad responsable o a quien esté facultado legalmente para suscribir convenios.
+
+El procedimiento de mediación o conciliación interrumpe el plazo a que se refiere el artículo 61 de esta Ley.
+
+> <small>(ADICIONADO, G.G. 15 DE JUNIO DE 2016)</small>
+
+###### Artículo 126.
+
+El Centro de Mediación y Conciliación desarrollará sus funciones conforme a los principios de voluntariedad, confidencialidad, neutralidad, imparcialidad, equidad, legalidad, honestidad, oralidad y consentimiento informado.
+
+> <small>(ADICIONADO, G.G. 15 DE JUNIO DE 2016)</small>
+
+###### Artículo 127.
+
+El Centro de Mediación y Conciliación tendrá las funciones siguientes:
+
+I. Evaluar las peticiones de los interesados para determinar si pueden ser sujetas a mediación o conciliación.
+
+II. Instrumentar y sustanciar los procedimientos de mediación o conciliación.
+
+III. Emitir los acuerdos o convenios de mediación o conciliación a los que hayan llegado las partes.
+
+IV. Dar por terminado el procedimiento de mediación cuando alguna de las partes lo solicite.
+
+V. Remitir el asunto a la Visitaduría General correspondiente, en caso de incumplimiento del convenio.
+
+VI. Las demás que les confiera otras disposiciones legales y la Presidencia.
+
+> <small>(ADICIONADO, G.G. 15 DE JUNIO DE 2016)</small>
+
+###### Artículo 128.
+
+Las partes contarán con treinta días naturales para dar cumplimiento total al convenio de mediación y conciliación, contados a partir del día de su suscripción.
+
+En caso de incumplimiento del convenio, el titular del Centro remitirá copia del convenio a la Visitaduría General correspondiente, a efecto (sic) iniciar o continuar con el procedimiento de queja correspondiente.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 15 DE JUNIO DE 2016)</small>
+
+## TÍTULO SEXTO. DE LA PROMOCIÓN Y CAPACITACIÓN EN DERECHOS HUMANOS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 15 DE JUNIO DE 2016)</small>
+
+### Capítulo único. Promoción y capacitación
+
+> <small>(ADICIONADO, G.G. 15 DE JUNIO DE 2016)</small>
+
+###### Artículo 129.
+
+El Organismo, para la promoción y capacitación en la cultura de respeto a los derechos humanos, podrá:
+
+I. Generar acciones con instituciones, dependencias y organismos para la divulgación, promoción, conocimiento y capacitación en materia de derechos humanos.
+
+II. Elaborar material editorial y audiovisual para dar a conocer sus funciones y actividades, así como difundir la cultura del respeto a la dignidad humana.
+
+III. Generar acciones para la sensibilización, promoción y capacitación en materia de derechos humanos.
+
+IV. Realizar y promover investigaciones en materia de derechos humanos,
+
+V. Impartir programas de estudios en materia de derechos humanos.
+
+VI. Las demás que establezca el Reglamento.
+
+> <small>(ADICIONADO, G.G. 15 DE JUNIO DE 2016)</small>
+
+###### Artículo 130.
+
+La Comisión tendrá acceso, en los términos de las leyes respectivas, a la radio y televisión para la divulgación de sus funciones y promoción de la cultura de respeto a los derechos humanos.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 15 DE JUNIO DE 2016)</small>
+
+## TÍTULO SÉPTIMO. DEL RÉGIMEN LABORAL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 15 DE JUNIO DE 2016)</small>
+
+### Capítulo único. De las Relaciones Laborales
+
+> <small>(ADICIONADO, G.G. 15 DE JUNIO DE 2016)</small>
+
+###### Artículo 131.
+
+Las relaciones laborales entre la Comisión y los servidores públicos que presten sus servicios en ella se regirán por el artículo 123 apartado B de la Constitución Política de los Estados Unidos Mexicanos, por la Ley del Trabajo de Servidores Públicos del Estado y Municipios, así como por las disposiciones legales emitidas por la Comisión en la materia.
+
+> <small>(ADICIONADO, G.G. 15 DE JUNIO DE 2016)</small>
+
+###### Artículo 132.
+
+Se establecerá un sistema de servicio profesional de carrera, a efecto de garantizar el ingreso, desarrollo y permanencia en el servicio público de la Comisión, en igualdad de oportunidades y con base en el mérito, a fin de impulsar la eficiencia y eficacia de la gestión pública para beneficio de la sociedad.
+
+> <small>(ADICIONADO, G.G. 15 DE JUNIO DE 2016)</small>
+
+###### Artículo 133.
+
+Los servidores públicos del Organismo, en el desempeño de sus funciones, deben observar los principios éticos y deontológicos que emita el Consejo Consultivo.
 
 T R A N S I T O R I O S
 
@@ -1278,3 +1408,15 @@ DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda ab
 DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
+
+G.G. 15 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 93.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO Y DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente del inicio de la vigencia del decreto que reforma los párrafos primero y cuarto del artículo 5, el párrafo primero del artículo 7, el párrafo primero del artículo 16 y adiciona seis últimos párrafos al mismo, de la Constitución Política del Estado Libre y Soberano de México.
+
+TERCERO. El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México deberá realizar las modificaciones correspondientes a la normatividad del Organismo, dentro de los ciento veinte días hábiles siguientes a la entrada en vigor de este Decreto.
+
+CUARTO. Se dejan sin efecto las disposiciones que se opongan al presente decreto.
