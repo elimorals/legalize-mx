@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-de-los-servidores-publicos-del-6118"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-11"
-last_updated: "2016-06-01"
+last_updated: "2016-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE JUNIO DE 2016.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 11 de septiembre de 1990.
 
@@ -485,9 +485,9 @@ c) Permitir a su personal el acceso incondicionado, inmediato e irrestricto a lo
 
 d) Cumplir en sus términos las mediaciones y conciliaciones que hayan sido aceptadas, de conformidad con los procedimientos sustanciados por la Comisión de Derechos Humanos o los Defensores Municipales de Derechos Humanos;
 
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
 
-e) Cumplir en sus términos las recomendaciones de la Comisión de Derechos Humanos que hayan sido aceptadas; y
+e) Cumplir en sus términos las Recomendaciones de la Comisión de Derechos Humanos del Estado de México que hayan sido aceptadas. Cuando las Recomendaciones emitidas no sean aceptadas o cumplidas, las autoridades o servidores públicos responsables deberán fundar, motivar y hacer pública su negativa.
 
 > <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1774,3 +1774,15 @@ G.G. 1 DE JUNIO DE 2016.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 15 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 93.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO Y DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente del inicio de la vigencia del decreto que reforma los párrafos primero y cuarto del artículo 5, el párrafo primero del artículo 7, el párrafo primero del artículo 16 y adiciona seis últimos párrafos al mismo, de la Constitución Política del Estado Libre y Soberano de México.
+
+TERCERO. El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México deberá realizar las modificaciones correspondientes a la normatividad del Organismo, dentro de los ciento veinte días hábiles siguientes a la entrada en vigor de este Decreto.
+
+CUARTO. Se dejan sin efecto las disposiciones que se opongan al presente decreto.
