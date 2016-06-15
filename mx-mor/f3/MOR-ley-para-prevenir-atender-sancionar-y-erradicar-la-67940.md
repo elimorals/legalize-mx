@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-prevenir-atender-sancionar-y-erradicar-la-67940"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-01"
-last_updated: "2014-07-23"
+last_updated: "2016-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA FAMILIAR EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 1 de abril de 2009.
 
@@ -137,9 +137,13 @@ La atención estará libre de discriminación por género, raza, condición soci
 
 La atención al generador de violencia familiar se basará en modelos psicoterapéuticos y reeducativos, tendientes a disminuir y erradicar las conductas de violencia, consecuentemente:
 
-I.- Los modelos de atención a generadores serán debidamente validados y en su caso aprobados por la Secretaría de Desarrollo Humano y Social, previo registro de los mismos, independientemente de que sean proporcionados por instancias públicas y privadas, y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
 
-II.- Los modelos de atención a generadores de violencia serán evaluados anualmente por la Secretaría de Desarrollo Humano y Social, en cuanto a su efectividad y disminución de prácticas violentas.
+I.- Los modelos de atención a generadores de violencia familiar serán debidamente validados y, en su caso, aprobados por el Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, previo registro de los mismos, independientemente de que sean proporcionados por instancias públicas y privadas, y
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+II.- Los modelos de atención a generadores de violencia familiar serán evaluados anualmente por el Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, en cuanto a su efectividad y disminución de prácticas violentas.
 
 ###### ARTÍCULO 11.
 
@@ -147,57 +151,49 @@ El personal que preste la atención a que se refieren los dos artículos anterio
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES DE LAS AUTORIDADES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 12.
 
-La Secretaría de Desarrollo Social, será la dependencia encargada de establecer la política permanente de coordinación entre las dependencias e instancias de la Administración Pública Estatal, así como de vinculación con las autoridades municipales en materia de violencia familiar. Tendrá a su cargo el diseño del Programa Anual para Prevenir, Atender, Sancionar y Erradicar la Violencia Familiar.
+El Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, será el organismo encargado de establecer la política permanente de coordinación entre las dependencias e instancias de la Administración Pública Estatal, así como de vinculación con las autoridades municipales en materia de violencia familiar. Tendrá a su cargo el diseño del Programa Anual para Prevenir, Atender, Sancionar y Erradicar la Violencia Familiar.
 
-Para el cumplimiento de todas y cada una de las atribuciones y facultades que le confiere esta ley, se coordinará con el Sistema Estatal para el Desarrollo Integral de la Familia y las áreas encargadas de la atención del menor y la familia en los municipios.
+Para el cumplimiento de todas y cada una de las atribuciones y facultades que le confiere esta ley, se apoyará en la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos y las áreas encargadas de la atención del menor y la familia en los municipios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 13.
 
-La Secretaría de Desarrollo Social deberá:
+La Secretaría de Desarrollo Social del Poder Ejecutivo Estatal deberá:
 
-I.- Participar en la elaboración de las políticas públicas estatales y municipales de prevención, atención, sanción y erradicación de violencia familiar;
+I.- Registrar e informar a las autoridades competentes los casos detectados de violencia familiar;
 
-II.- Celebrar convenios de coordinación de actividades entre autoridades federales, estatales y municipales en materia de violencia familiar;
+II.- Coadyuvar en los trabajos de prevención y atención de la violencia familiar;
 
-III.- Proyectar normas y procedimientos para establecer, supervisar, utilizar y mantener actualizado el Registro Estatal;
+III.- Impulsar la elaboración, publicación y difusión de material informativo, dirigido a la población con fines de prevención, atención y sanción de la violencia familiar;
 
-IV.- Elaborar propuestas de reformas a las leyes y reglamentos en materia de violencia familiar;
+IV.- Difundir, en el ámbito de su competencia, el contenido y alcance de la presente Ley, y
 
-V.- Establecer mecanismos y procedimientos adecuados para propiciar la participación de las familias como células de la sociedad y a la sociedad en general en acciones de prevención, atención, sanción y erradicación de la violencia familiar;
+V.- Las demás que le confiera la presente Ley y otros ordenamientos aplicables, así como aquellas que sean necesarias para la consecución de sus fines.
 
-VI.- Analizar el establecimiento de los lineamientos administrativos y técnicos, así como de los modelos de prevención, atención, sanción y erradicación de violencia familiar, adecuados para ésta problemática;
-
-VII.- Revisar y aprobar el Reglamento de la presente ley;
-
-VIII.- Revisar y aprobar en su caso los manuales que regulen la mediación;
-
-IX.- Evaluar cuatrimestralmente los logros y avances del Programa Anual;
-
-X.- Fomentar la instalación de áreas especializadas en la prevención y atención contra la violencia familiar en instituciones públicas y privadas;
-
-XI.- Promover el intercambio de información a nivel nacional e internacional sobre políticas, estrategias y resultados de las acciones de prevención, atención, sanción y erradicación de la violencia familiar;
-
-XII.- Identificar y analizar los problemas reales y potenciales de la violencia familiar, elaborando los estudios correspondientes para impulsar la implementación de programas de prevención, atención, sanción y erradicación;
-
-XIII.- Impulsar la elaboración, publicación y difusión de material informativo, dirigido a la población con fines de prevención, atención y sanción de la violencia familiar;
-
-XIV.- Promover la participación activa de organizaciones, entidades públicas o privadas dedicadas a la protección de menores y en general a los asuntos familiares, para el desarrollo de labores preventivas y de control sobre la ejecución de órdenes de protección, acciones de apoyo y tratamiento de receptores y generadores de violencia familiar; y
-
-XV.- Las demás que le confiera la presente ley y otros ordenamientos aplicables, así como aquellas que sean necesarias para la consecución de sus fines.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 14.
 
-Al Sistema Estatal para el Desarrollo Integral de la Familia, a través de la Procuraduría para la Defensa del Menor y la Familia y de las áreas municipales encargadas de la protección del menor y la familia, le corresponde:
+Al Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, a través de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, y de las áreas municipales encargadas de la protección del menor y la familia, le corresponde:
 
-I.- Conocer y resolver la mediación, como medio alternativo de resolución de violencia familiar;
+I.- Celebrar convenios de coordinación de actividades entre autoridades federales, estatales y municipales en materia de violencia familiar;
 
-II.- Integrar el Registro Estatal de Datos e Información sobre casos de violencia familiar; el cual se organizará por tipo de violencia familiar, en los casos en que constituyan faltas administrativas e indagatorias. Debiéndose incluirse como mínimo los siguientes datos:
+II.- Proyectar normas y procedimientos para establecer, supervisar, utilizar y mantener actualizado el Registro Estatal;
+
+III.- Elaborar propuestas de reformas a las leyes y reglamentos en materia de violencia familiar;
+
+IV.- Analizar el establecimiento de los lineamientos administrativos y técnicos, así como de los modelos de prevención, atención, sanción y erradicación de violencia familiar, adecuados para esta problemática;
+
+V.- Evaluar cuatrimestralmente los logros y avances del Programa Anual para Prevenir, Atender, Sancionar y Erradicar la Violencia Familiar;
+
+VI.- Conocer y resolver la mediación, como medio alternativo de resolución de violencia familiar;
+
+VII.- Integrar el Registro Estatal de Datos e Información sobre casos de violencia familiar; el cual se organizará por tipo de violencia familiar, en los casos en que constituyan faltas administrativas e indagatorias. Debiéndose incluirse como mínimo los siguientes datos:
 
 a) Fecha del evento;
 
@@ -205,45 +201,45 @@ b) Tipo de violencia;
 
 c) Lugar de los hechos;
 
-d) Sexo del receptor y generador;
+d) Sexo del receptor y generador de violencia familiar;
 
 e) Duración del evento;
 
-f) Tipo de orden de protección solicitada y en su caso decretada;
+f) Tipo de orden de protección solicitada y, en su caso, decretada;
 
-g) Edad del receptor y generador;
+g) Edad del receptor y generador de violencia familiar;
 
-h) Estado civil del receptor y generador;
+h) Estado civil del receptor y generador de violencia familiar;
 
-i) Escolaridad del receptor y del generador;
+i) Escolaridad del receptor y del generador de violencia familiar;
 
 j) Ponencias de resolución administrativa y penal, y
 
-k) Sentencias penales y familiares.
+k) Sentencias penales y familiares;
 
-III.- Solicitar al Tribunal Superior de Justicia del Estado de Morelos, el otorgamiento de las órdenes de protección de carácter urgente y temporal, para los casos que considere necesaria su aplicación, atendiendo siempre, el interés superior de la receptora;
+VIII.- Solicitar al Tribunal Superior de Justicia del Estado de Morelos, el otorgamiento de las órdenes de protección de carácter urgente y temporal, para los casos que considere necesaria su aplicación, atendiendo siempre, el interés superior del receptor de violencia familiar;
 
-IV.- Solicitar al Tribunal Superior de Justicia del Estado de Morelos, información sobre las órdenes de protección y sentencias que en materia de violencia familiar se dicten, a efecto de integrar el Registro Estatal;
+IX.- Solicitar al Tribunal Superior de Justicia del Estado de Morelos, información sobre las órdenes de protección y sentencias que en materia de violencia familiar se dicten, a efecto de integrar el Registro Estatal;
 
-V.- Promover acciones y programas de protección social a favor del receptor de violencia familiar;
+X.- Promover acciones y programas de protección social a favor del receptor de violencia familiar;
 
-VI.- Fomentar en coordinación con instituciones públicas o privadas, la realización de investigaciones sobre violencia familiar, cuyos resultados servirán para diseñar nuevos modelos para su prevención y asistencia;
+XI.- Fomentar en coordinación con instituciones públicas o privadas, la realización de investigaciones sobre violencia familiar, cuyos resultados servirán para diseñar nuevos modelos para su prevención y asistencia;
 
-VII.- Sensibilizar y capacitar a su personal operativo para detectar, atender y canalizar a las instituciones competentes a los receptores y generadores de violencia familiar;
+XII.- Sensibilizar y capacitar a su personal operativo para detectar, atender y canalizar a las instituciones competentes a los receptores y generadores de violencia familiar;
 
-VIII.- Sensibilizar y capacitar a la población, sobre las formas y consecuencias en que se manifiesta, se previene y se sanciona la violencia familiar;
+XIII.- Sensibilizar y capacitar a la población, sobre las formas y consecuencias en que se manifiesta, se previene y se sanciona la violencia familiar;
 
-IX.- Dar seguimiento a los eventos de violencia familiar que tenga conocimiento y en su caso, iniciar la mediación como medio alternativo en la resolución de violencia familiar;
+XIV.- Dar seguimiento a los eventos de violencia familiar que tenga conocimiento y en su caso, efectuar la mediación como medio alternativo en la resolución de violencia familiar;
 
-X.- Prestar servicios de atención y asesoría jurídica, psicológica y trabajo social a receptores y generadores de violencia familiar;
+XV.- Prestar servicios de atención y asesoría jurídica, psicológica y trabajo social a receptores y generadores de violencia familiar;
 
-XI.- Promover la instalación de centros de protección y asistencia a receptores de violencia familiar;
+XVI.- Promover la instalación de centros de protección y asistencia a receptores de violencia familiar;
 
-XII.- Desarrollar programas tendientes a sensibilizar y capacitar al sector juvenil de la población, sobre la gravedad de la violencia familiar y la importancia de su prevención y tratamiento hasta su erradicación;
+XVII.- Desarrollar programas tendientes a sensibilizar y capacitar al sector juvenil de la población, sobre la gravedad de la violencia familiar y la importancia de su prevención y tratamiento hasta su erradicación;
 
-XIII.- Difundir lo (sic) alcances de la presente ley y condenar los actos de violencia familiar; y
+XVIII.- Difundir los alcances de la presente ley y condenar los actos de violencia familiar, y
 
-XIV.- Las demás que le confieran otros ordenamientos legales.
+XIX.- Las demás que le confieran otros ordenamientos legales.
 
 ###### ARTÍCULO 15.
 
@@ -257,9 +253,11 @@ III.- Capacitar al personal de la Defensoría Pública para que brinden atenció
 
 IV.- Las demás que le confieran otros ordenamientos legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 16.
 
-La Secretaría de Salud deberá:
+La Secretaría de Salud del Poder Ejecutivo Estatal, por conducto del Organismo Público Estatal Descentralizado denominado Servicios de Salud de Morelos deberá:
 
 I.- Diseñar programas de prevención y atención a las receptoras de violencia familiar en los hospitales y centros de salud de la entidad;
 
@@ -273,35 +271,37 @@ V.- Aplicar las Normas Oficiales Mexicanas vigentes en materia de prestación de
 
 VI.- Llevar un registro de los casos de violencia familiar detectados y/o atendidos por hospitales y centros de salud a su cargo;
 
-VII.- Proporcionar la información que solicite la Procuraduría de la Defensa del Menor y la Familia para la lntegración del Registro Estatal;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+VII.- Proporcionar la información que solicite la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia para la integración del Registro Estatal, y
 
 VIII.- Las demás que le confieran otros ordenamientos legales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 17.
 
 A la Fiscalía General del Estado de Morelos le corresponde:
 
-I.- Diseñar la política en materia de procuración de justicia para prevenir, atender, sancionar y erradicar la violencia familiar;
+I.- Diseñar la política en materia de procuración de justicia, relativas a la atención y erradicación de la violencia familiar;
 
-II.- Capacitar y sensibilizar al personal del Ministerio Público, de la policía ministerial y peritos para la atención y trato digno al receptor de violencia familiar;
+II.- Capacitar y sensibilizar al personal adscrito a la Fiscalía General del Estado de Morelos, en temas relativos a la violencia familiar, para la adecuada atención y trato digno al receptor de violencia familiar;
 
-III.- Organizar campañas de prevención de violencia familiar y promover acciones de protección social al receptor de la misma;
+III.- Participar en campañas informativas de violencia familiar, desde la perspectiva de la procuración de justicia, y promover acciones de protección de derechos humanos;
 
-IV.- Tramitar ante la autoridad jurisdiccional las órdenes de protección que sean procedentes conforme a las disposiciones aplicables;
+IV.- Velar por el estricto cumplimiento a la normativa relativa a la aplicación de las órdenes de protección para las víctimas de la violencia familiar;
 
-V.- Apoyar a las autoridades e instituciones estatales encargadas de efectuar investigaciones de carácter académico en materia de violencia familiar, proporcionado en su caso la información que se requiera para tal efecto;
+V.- Apoyar a las autoridades e instituciones de los diferentes ámbitos gubernamentales estatal y federal, encargadas de efectuar investigaciones de carácter académico en materia de violencia familiar, proporcionando, en su caso, la información que se requiera en el rubro de la violencia familiar;
 
-VI.- Llevar un registro de los casos de violencia familiar detectados e informarlo a la Procuraduría de la Defensa del Menor y la Familia para la integración del Registro Estatal;
+VI.- Tener un control de investigaciones que se inicien por violencia familiar y compartir la estadística a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos para la integración del Registro Estatal o compartir información con otras instancias competentes para la elaboración de políticas o acciones para prevenir, atender, sancionar y erradicar la violencia familiar;
 
-VII.- Promover la capacitación en las materias de derecho familiar y penal, así como la sensibilización al personal profesional de la Dirección General de Asesoría Social y Auxilio a Víctimas, a efecto de mejorar la atención brindada al receptor y generador de violencia que requieran su intervención;
+VII.- Promover la capacitación, en las ramas del derecho familiar y penal, así como la sensibilización al personal de la Dirección General de Asesoría Social y Auxilio a Víctimas, adscrita a la Fiscalía General del Estado de Morelos, a efecto de mejorar la atención brindada al receptor y generador de violencia familiar que requieran su intervención;
 
-VIII.- Dictar las medidas necesarias para que el receptor reciba atención médica de emergencia, asesoría jurídica y psicoterapia especializada, emitiendo los acuerdos específicos;
+VIII.- Diseñar protocolos, acuerdos u otros instrumentos de apoyo para la institución del Ministerio Público, para otorgar la atención médica, asesoría jurídica y psicológica a las víctimas u ofendidos del delito;
 
-IX.- Celebrar convenios de colaboración en materia (sic) violencia familiar, y
+IX.- Celebrar convenios de colaboración con la Federación, Entidades Federativas, Secretarías, Dependencias y Entidades de la Administración Pública Estatal y Ayuntamientos, así como con organizaciones de la sociedad civil, para atender la violencia familiar en el ámbito de la procuración de justicia, y
 
-X.- Las demás que le confieran otros ordenamientos legales.
+X.- Las demás que le confieran otros ordenamientos jurídicos.
 
 ###### ARTÍCULO 18.
 
@@ -335,7 +335,9 @@ II.- Promover con personal capacitado programas participativos y de seguimiento 
 
 III.- Auxiliar en la ejecución de las órdenes de protección urgentes y temporales que sean procedentes conforme a las disposiciones legales aplicables en la materia;
 
-IV.- Llevar un registro de los casos de violencia familiar detectados e informarlo a la Procuraduría de la Defensa del Menor y la Familia para la integración del Registro Estatal.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+IV.- Llevar un registro de los casos de violencia familiar detectados e informarlo a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia para la integración del Registro Estatal;
 
 V.- Promover la capacitación del personal médico, de psicología y de trabajo social de los establecimientos penitenciarios de la entidad en la atención y prevención de la violencia familiar, para el tratamiento adecuado de los sentenciados y sentenciadas relacionados con dicha problemática; y
 
@@ -345,9 +347,13 @@ VI.- Las demás que le confieran otros ordenamientos legales.
 
 El Instituto de Desarrollo y Fortalecimiento Municipal deberá:
 
-I.- Asesorar en coordinación con la Secretaría de Desarrollo Social y Humano, a través de la Procuraduría de la Defensa del Menor y la Familia. A los Municipios para crear políticas públicas, así como los mecanismos de evaluación, para prevenir, atender, sancionar y erradicar la violencia familiar;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
 
-II.- Promover en coordinación con la Procuraduría de la Defensa del Menor y la Familia, cursos de capacitación y sensibilización a los servidores públicos que atiendan a los receptores de violencia familiar;
+I.- Asesorar, en coordinación con el Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, a través de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, a los Municipios para crear políticas públicas, así como los mecanismos de evaluación, para prevenir, atender, sancionar y erradicar la violencia familiar;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+II.- Promover, en coordinación con la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, cursos de capacitación y sensibilización a los servidores públicos que atiendan a los receptores de violencia familiar;
 
 III.- Brindar la asesoría que requieran los Municipios a fin de suscribir convenios y acuerdos de colaboración con autoridades federales, estatales o municipales, para el eficaz cumplimiento de ésta ley;
 
@@ -381,7 +387,9 @@ X.- Impulsar en el ámbito de su competencia reformas y adiciones a la legislaci
 
 XI.- Difundir en el ámbito de su competencia el contenido y alcance de la presente ley;
 
-XII.- Llevar un registro de los casos de violencia familiar detectados e informarlo al Instituto de Fortalecimiento y Desarrollo Municipal, para su integración al Registro Estatal a cargo de la Procuraduría de la Defensa del Menor y la Familia, y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+XII.- Llevar un registro de los casos de violencia familiar detectados e informarlo al Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos, para su integración al Registro Estatal a cargo de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, y
 
 XIII.- Las demás que le confieran otros ordenamientos legales.
 
@@ -401,21 +409,29 @@ Este medio alternativo se proporcionará en forma rápida, profesional, neutral,
 
 No procederá la aplicación de la mediación, cuando se trate de la comisión de un delito considerado como grave por la ley penal, o el asunto se encuentre sometido al conocimiento de un órgano jurisdiccional, ni en aquellos casos en que, por sus características particulares, la aplicación de este medio alternativo pudiera poner en riesgo la integridad física del receptor de la violencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 24.
 
-La aplicación de la mediación y de las infracciones que señala esta ley, estará a cargo de la Procuraduría de la Defensa del Menor y la Familia y sus áreas encargadas de la protección del menor y la familia en los municipios.
+La aplicación de la mediación y de las infracciones que señala esta Ley, estará a cargo de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia y las áreas encargadas de la protección del menor y la familia en los municipios.
 
-La Procuraduría de la Defensa del Menor y la Familia, contará con el personal especializado para la aplicación de este medio alternativo.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2016)</small>
+
+La Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia contará con el personal especializado para la aplicación de este medio alternativo.
 
 Para el caso de que un municipio no cuente con ésta área, la atención será brindada por el área del municipio más cercano.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 25.
 
-En el procedimiento de la mediación cuyo conocimiento corresponde a la Procuraduría de la Defensa del Menor y la Familia, se aplicarán las disposiciones contenidas en este capítulo, y, supletoriamente, la Ley de Justicia Alternativa en Materia Penal del Estado de Morelos.
+En el procedimiento de la mediación cuyo conocimiento corresponde a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, se aplicarán las disposiciones contenidas en este Capítulo, y supletoriamente la Ley de Justicia Alternativa en Materia Penal para el Estado de Morelos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 26.
 
-La Procuraduría de la Defensa del Menor y la Familia, y sus correspondientes áreas encargadas de la protección del menor y la familia en los municipios, deberán llevar un registro de sus actuaciones, de las actas y constancias, administrativas que se deriven del procedimiento de la mediación que substancien, y estarán facultadas para:
+La Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia y las correspondientes áreas encargadas de la protección del menor y la familia en los municipios, deberán llevar un registro de sus actuaciones, de las actas y constancias administrativas que se deriven del procedimiento de la mediación que substancien, y estarán facultadas para:
 
 I.- Llevar constancias administrativas de aquéllos actos que de conformidad con la presente ley, se consideren violencia familiar y que sean hechos de su conocimiento;
 
@@ -443,9 +459,11 @@ f) El embargo preventivo de bienes del generador de violencia que deberá inscri
 
 g) La orden de limitar, al generador de violencia familiar, el acceso al domicilio, lugar de trabajo, estudio o cualquier otro que frecuente la receptora.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 27.
 
-La intervención de la Procuraduría de la Defensa del Menor y la Familia y de sus áreas municipales encargadas de la protección del menor y la familia, se iniciará mediante la interposición de quejas por los actos de violencia a que se refiere el artículo 3 de esta ley, mismas que podrán presentarse por:
+La intervención de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia y de las áreas municipales encargadas de la protección del menor y la familia, se iniciará mediante la interposición de quejas por los actos de violencia a que se refiere el artículo 3 de esta Ley, mismas que podrán presentarse por:
 
 I.- El receptor de violencia familiar;
 
@@ -473,9 +491,11 @@ Si la petición se presentó verbalmente se levantará acta en que consten los d
 
 La autoridad mencionada citará al receptor o receptores de la violencia familiar y al presunto generador, a una audiencia en la (sic) se les hará saber los beneficios, alcances y obligaciones derivadas del procedimiento de la mediación; si las partes están de acuerdo, se firmará la cláusula compromisoria y se celebrará la audiencia correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 29.
 
-Todas las notificaciones que se generen del procedimiento de la mediación, se efectuarán por conducto de los notificadores adscritos a la Procuraduría de la Defensa del Menor y la Familia y a sus áreas encargadas de la protección del menor y la familia en los municipios.
+Todas las notificaciones que se generen del procedimiento de la mediación, se efectuarán por conducto de los notificadores adscritos a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia y a las áreas encargadas de la protección del menor y la familia en los municipios.
 
 Las notificaciones podrán efectuarse con apoyo de los elementos policiales o de otras autoridades municipales.
 
@@ -483,13 +503,17 @@ Las notificaciones podrán efectuarse con apoyo de los elementos policiales o de
 
 En caso de que una de las partes no comparezca a la audiencia sin causa justificada, a pesar de estar debidamente citada, se presumirá que no tiene voluntad de resolver el conflicto, levantándose la actuación correspondiente.
 
-Si el hecho sometido al conocimiento de la Procuraduría de la Defensa del- Menor y la Familia es constitutivo del delito, se procederá a denunciarlo ante el Ministerio Público para la integración de la averiguación previa correspondiente.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2016)</small>
 
-La instauración del procedimiento de mediación, por parte de la Procuraduría de la Defensa del Menor y la Familia, suspende el plazo para la prescripción de la acción penal, a partir de la fecha de presentación de la queja correspondiente, hasta la resolución que ponga fin al procedimiento, por falta de voluntad de las partes o inasistencia de las mismas.
+Si el hecho sometido al conocimiento de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia es constitutivo del delito, se procederá a denunciarlo ante el Ministerio Público para la integración de la averiguación previa correspondiente.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2016)</small>
+
+La instauración del procedimiento de mediación, por parte de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, suspende el plazo para la prescripción de la acción penal, a partir de la fecha de presentación de la queja correspondiente, hasta la resolución que ponga fin al procedimiento, por falta de voluntad de las partes o inasistencia de las mismas.
 
 ###### ARTÍCULO 31.
 
-En caso de que el procedimiento de mediación concluya con un acuerdo de las partes, se redactará un convenio que refleje con exactitud la voluntad de las partes; el cual será firmado por los interesados y se ratificará ante la autoridad que conozca del asunto. Si alguno de los interesados no sabe firmar, estampará su huella digital, firmando a su ruego otra persona, cuyos datos aparecerán en el lugar correspondiente.
+En caso de que el procedimiento de mediación concluya con un acuerdo de las partes, se redactará un convenio que refleje con exactitud la voluntad de las partes, el cual será firmado por los interesados y se ratificará ante la autoridad que conozca del asunto. Si alguno de los interesados no sabe firmar, estampará su huella digital, firmando a su ruego otra persona, cuyos datos aparecerán en el lugar correspondiente.
 
 ###### ARTÍCULO 32.
 
@@ -525,11 +549,15 @@ El convenio celebrado por las partes ante la presencia de la autoridad mediadora
 
 Cuando alguna de las partes incumpla con las obligaciones y deberes establecidos en el convenio el afectado podrá acudir ante la autoridad jurisdiccional respectiva para su ejecución o para el ejercicio de los derechos y acciones que le correspondan y en su caso, ante el Ministerio Público, tratándose de la comisión de un delito.
 
-En todo caso, si como resultado de la intervención de cualquiera de las autoridades señaladas en el artículo 24 de ésta Ley, se desprende, que lesionan los derechos de menores o incapaces, o el receptor de violencia familiar carece de recursos económicos para hacer valer sus derechos ante la autoridad jurisdiccional o cualquier otra instancia, la Procuraduría de la Defensa del Menor y la Familia le proporcionará el apoyo y la asesoría que se requiera, así como, en su caso, presentar la denuncia correspondiente ante el Ministerio Público.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2016)</small>
+
+En todo caso, si como resultado de la intervención de cualquiera de las autoridades señaladas en el artículo 24 de esta Ley se desprende que se lesionan los derechos de menores o incapaces, o el receptor de violencia familiar carece de recursos económicos para hacer valer sus derechos ante la autoridad jurisdiccional o cualquier otra instancia, la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia le proporcionará el apoyo y la asesoría que se requiera, así como, en su caso, presentará la denuncia correspondiente ante el Ministerio Público.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 36.
 
-La Procuraduría de la defensa del Menor y la Familia, deberá proporcionar a los receptores y generadores de violencia familiar atención psicoterapéutica y reeducación respectivamente.
+La Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, deberá proporcionar a los receptores y generadores de violencia familiar atención psicoterapéutica y reeducación respectivamente.
 
 ### CAPÍTULO II. INFRACCIONES Y SANCIONES
 
@@ -614,3 +642,15 @@ P.O. 23 DE JULIO DE 2014.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 15 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS SETENTA Y UNO.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA FAMILIAR EN EL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para los efectos de lo dispuesto por los artículos 44, 47 y 70 fracción XVII, inciso a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto, iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones normativas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+CUARTA.- En un plazo no mayor a 120 días hábiles contados a partir del día siguiente al de la entrada en vigor del presente Decreto, deberán realizarse las modificaciones necesarias a las disposiciones jurídicas reglamentarias aplicables.
