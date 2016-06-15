@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-extincion-de-dominio-del-estado-de-mexico-83939"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-15"
-last_updated: "2014-12-19"
+last_updated: "2016-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY DE EXTINCION DE DOMINIO DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEXTO DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE MÉXICO, PUBLICADA EN LA GACETA DEL GOBIERNO EL 15 DE JUNIO DE 2016; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL DIECIOCHO DE JUNIO DE DOS MIL DIECISÉIS.]</small>
+
 LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE NOVIEMBRE DE 2014.
-
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DE 19 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE JUNIO DE 2016 (ABROGADA).
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el martes 15 de noviembre de 2011.
 
@@ -606,3 +606,19 @@ TERCERO.- La Secretaría de Seguridad Ciudadana y los municipios de la Entidad, 
 CUARTO.- El Titular del Ejecutivo Estatal reformará el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de México, antes de la entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de México.
 
 QUINTO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 15 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 94.- POR EL QUE SE EXPIDE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el dieciocho de junio del dos mil dieciséis.
+
+TERCERO. El Poder Ejecutivo, la Procuraduría General de Justicia del Estado de México y el Poder Judicial, en el ámbito de sus respectivas competencias, emitirán los ordenamientos de carácter administrativo necesarios para el adecuado cumplimiento de esta Ley.
+
+CUARTO. Los procedimientos de preparación de la acción de extinción de dominio se regirán por las disposiciones procesales en materia de extinción de dominio y supletorias aplicables al momento del acto procedimental.
+
+QUINTO. Los juicios iniciados con anterioridad a la entrada en vigor del presente Decreto continuarán hasta su conclusión con las disposiciones vigentes al momento de su inicio.
+
+SEXTO. A la entrada en vigor del presente Decreto, se abroga la Ley de Extinción de Dominio del Estado de México publicada en el Periódico Oficial "Gaceta del Gobierno" el 15 de noviembre de 2011.
