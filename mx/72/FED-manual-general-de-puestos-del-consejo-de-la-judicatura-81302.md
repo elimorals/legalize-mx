@@ -4,7 +4,7 @@ identifier: "FED-manual-general-de-puestos-del-consejo-de-la-judicatura-81302"
 country: "mx"
 rank: "manual"
 publication_date: "2011-05-17"
-last_updated: "2016-03-28"
+last_updated: "2016-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81302&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-05-04"
 
 MANUAL GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JUNIO DE 2016.
 
 Manual publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el martes 17 de mayo de 2011.
 
@@ -9057,6 +9057,124 @@ III.3 Otros requisitos:
 
 - Los demás que determinen el Titular del área administrativa de su adscripción y los Acuerdos Generales del Pleno del Consejo.
 
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2016)</small>
+
+Descripción de Puesto
+
+I. Datos de Control.-
+
+Tipo: Grupo: Rama:
+
+CF - CONFIANZA 5 – OPERATIVOS 07 – SERVICIOS
+
+Puesto: Clave: Nivel y Rango:
+
+06 – ANALISTA A CF50706 29A
+
+II. Descripción.-
+
+II.1 Objetivo del puesto:
+
+Preparar los alimentos que se proporcionan en los comedores a los servidores públicos que lo demanden, cuidando que los alimentos cumplan con las normas de higiene, calidad y niveles de nutrientes.
+
+II.2 Funciones:
+
+1. Recibir que los productos e ingredientes que se utilizan en la elaboración de los alimentos cumplan con las normas de higiene, calidad y gramaje.
+
+2. Preparar los platillos calientes y fríos que conformen el menú.
+
+3. Verificar que el sabor, color, olor y presentación de los platillos cumplan con los estándares establecidos y requeridos.
+
+4. Elaborar y entregar los refrigerios solicitados.
+
+5. Verificar que la manipulación de los alimentos cumplan con los requisitos y procedimientos de trabajo en materia de higiene.
+
+6. Mantener limpia el área de trabajo durante su turno y al concluir la preparación de los alimentos.
+
+7. Servir los alimentos durante el horario de servicio de los comedores.
+
+8. Auxiliar en la limpieza de los utensilios y equipo de cocina, al término de la prestación de servicios de alimentos.
+
+9. Apoyar en la preparación de los alimentos para los eventos que se requieran.
+
+10. Cuidar que el manejo de los recursos del comedor como el equipo mayor, equipo menor y enseres, bajo su responsabilidad, no sufran deterioro y/o pérdida en su utilidad, a fin de coadyuvar al mantenimiento del inventario de bienes.
+
+11. Controlar que los insumos y materia prima que están bajo su cuidado y responsabilidad, asignados para preparar los alimentos, sean aprovechados para cubrir los servicios programados en el menú.
+
+12. Reportar algún desperfecto del equipo de cocina para su reparación.
+
+13. Las demás que le encomiende su jefe inmediato.
+
+II.3 Norma de creación:
+
+Artículo 181 de la Ley Orgánica del Poder Judicial de la Federación y el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo, publicado en el Diario Oficial de la Federación el 22 de noviembre de 2013
+
+II.4 Responsabilidades:
+
+1. Llevar a cabo sus actividades observando una conducta ética que muestre: legalidad, integridad, honradez, imparcialidad, equidad, transparencia, eficiencia y calidad en el desempeño de su cargo.
+
+2. Cumplir con las leyes, reglamentos y programas que se relacionen con su función.
+
+3. Cumplir las funciones encomendadas para el puesto que desempeña en el presente Manual, así como en las demás disposiciones normativas que regulan la organización y funcionamiento del propio Consejo, tales como Acuerdos Generales, Manuales de Organización y de Procedimientos, autorizados por autoridad superior del Consejo.
+
+4. Manejar de manera óptima y eficiente el mobiliario, equipo y material asignado para el desempeño de sus actividades.
+
+5. Cuidar el uso confidencial de la información que se maneje según el puesto.
+
+6. Abstenerse de incurrir en responsabilidad administrativa por cualquiera de los supuestos que marca la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+
+7. Abstenerse de incurrir en las responsabilidades que se establecen en el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y el Título Octavo de la Ley Orgánica del Poder Judicial de la Federación.
+
+8. Las demás que determine el Titular del Área Administrativa de su adscripción.
+
+II.5 Responsabilidad por manejo de recursos:
+
+HUMANOS: NO
+
+MATERIALES:
+
+MOBILIARIO Y EQUIPO DE OFICINA: SÍ (Manejo y uso del equipo y utensilios de cocina)
+
+EQUIPO DE TRANSPORTE: NO
+
+EQUIPO DE CÓMPUTO Y COMUNICACIONES: NO
+
+VALORES: NO
+
+INFORMACIÓN CONFIDENCIAL: NO
+
+AMBIENTE DE TRABAJO:
+
+NORMAL DE OFICINA: NO
+
+OTRO: Sí (Cocina industrial)
+
+III. Perfil del puesto.-
+
+III.1 Formación académica:
+
+Carrera Técnica en preparación de alimentos o en materia afín al puesto.
+
+III.2 Experiencia laboral:
+
+Mínima de dos años en actividades relacionadas con el puesto.
+
+III.3 Otros requisitos:
+
+- Iniciativa.
+
+- Orientación a resultados.
+
+- Manejo de equipo y utensilios disponibles.
+
+- Manejo, en su caso, de equipo técnico de cómputo y los programas de software requeridos.
+
+- Gozar de buena reputación.
+
+- No haber sido condenado por delito doloso con sanción privativa de la libertad mayor de un año.
+
+- Los demás que determinen el Titular del área administrativa de su adscripción y los Acuerdos Generales del Pleno del Consejo.
+
 Descripción de Puesto
 
 I. Datos de Control.-
@@ -10158,3 +10276,7 @@ EL MAGISTRADO J. GUADALUPE TAFOYA HERNANDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL 
 D.O.F. 28 DE MARZO DE 2016.
 
 > <small>[N. DE E. LAS “MODIFICACIONES AL MANUAL GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+D.O.F. 15 DE JUNIO DE 2016.
+
+> <small>[N. DE E. LAS "MODIFICACIONES AL MANUAL GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
