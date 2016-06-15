@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-del-supremo-tribunal-de-justicia-del-68506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-11"
-last_updated: "2016-04-29"
+last_updated: "2016-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el lunes 11 de mayo de 2009.
 
@@ -1771,29 +1771,73 @@ El acta levantada por el visitador será entregada al titular del órgano visita
 
 El Pleno o el Presidente, en su caso, podrán ordenar a la Visitaduría Judicial la práctica de visitas extraordinarias de inspección.
 
-### CAPÍTULO V. DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA DE SU COMPETENCIA Y ORGANIZACIÓN
+> <small>[N. DE E. EL REGLAMENTO INTERIOR DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO DE SINALOA, PUBLICADO EN EL P.O. DE 15 DE JUNIO DE 2016, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE CAPÍTULO]</small>
 
-#### SECCIÓN I. DEL COORDINADOR DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JUNIO DE 2016)</small>
+
+### CAPÍTULO V. DE LA UNIDAD DE TRANSPARENCIA
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+#### SECCIÓN I. DE SU COMPETENCIA Y ORGANIZACIÓN
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2016)</small>
 
 ###### Artículo 87.
 
-La Unidad de Acceso a la Información Pública, es un órgano auxiliar del Supremo Tribunal, competente para recibir las solicitudes de acceso a la información pública y del derecho de habeas data, así como liberar la información de mérito.
+La Unidad de Transparencia es un órgano auxiliar del Supremo Tribunal, competente para recibir y dar trámite a las solicitudes de acceso a la información pública y del derecho de habeas data, así como liberar la información de mérito y fomentar la cultura de la transparencia al interior del Supremo Tribunal.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2016)</small>
 
 ###### Artículo 88.
 
-La Unidad de Acceso a la Información Pública, para el despacho de los asuntos de su competencia, contará con un Coordinador de la Unidad y el personal que se requiera conforme a las necesidades del servicio y que permita el presupuesto de egresos del Poder Judicial.
+La Unidad, para el despacho de los asuntos de su competencia, contará con un Coordinador de la Unidad y el personal que se requiera conforme a las necesidades del servicio y que permita el presupuesto de egresos del Poder Judicial.
+
+(ADICIANADA, P.O. 15 DE JUNIO DE 2016)
+
+#### SECCIÓN II. DEL COORDINADOR DE LA UNIDAD DE TRANSPARENCIA
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2016)</small>
 
 ###### Artículo 89.
 
 Son atribuciones del Coordinador de la Unidad, las siguientes:
 
-I. Recibir, atender y tramitar hasta su final resolución, las solicitudes de información pública y de habeas data;
+I. Recabar y difundir la información a que se refieren las obligaciones de transparencia que le competan de conformidad con (sic) normatividad aplicable en materia de transparencia y acceso a la información, así como propiciar que las áreas la actualicen periódicamente, conforme la normativa aplicable;
 
-II. Establecer coordinación con los órganos y dependencias del Poder Judicial a efecto de implementar las medidas y procedimientos administrativos conducentes para garantizar la puntual disponibilidad de la información;
+II. Recibir y dar trámite a las solicitudes de acceso a la información, hasta su final resolución;
 
-III. Preparar, dentro del primer trimestre de cada año, el informe a que se refiere el artículo 42 de la Ley de Acceso a la Información Pública del Estado de Sinaloa; y,
+III. Asesorar a los particulares en la elaboración de solicitudes de acceso a la información y, en su caso, orientarlos sobre los sujetos obligados competentes conforme a la normativa aplicable;
 
-IV. Las demás que se deriven de las disposiciones aplicables, del presente Reglamento, del Acuerdo General que establece el Órgano, Criterios y Procedimientos Institucionales para proporcionar a los Particulares el Acceso a la Información Pública del Poder Judicial del Estado de Sinaloa, y las que acuerde el Pleno o el Presidente.
+IV. Realizar los trámites internos necesarios para la atención de las solicitudes de acceso a la información;
+
+V. Efectuar las notificaciones a los solicitantes dentro de los plazos establecidos para tales efectos;
+
+VI. Proponer al Comité de Transparencia los procedimientos internos que aseguren la mayor eficacia en la gestión de las solicitudes de acceso a la información, conforme a la normativa aplicable;
+
+VII. Proponer al personal que sea necesario para recibir y dar trámite a las solicitudes de acceso a la información;
+
+VIII. Llevar un registro actualizado de las solicitudes de acceso a la información, respuestas, resultados, costos de reproducción y envío;
+
+IX. Promover e implementar políticas de transparencia proactiva procurando su accesibilidad;
+
+X. Documentar para efectos de los procesos de entrega recepción, la información, la operación y los mecanismos del funcionamiento del o los sistemas electrónicos donde se difunden las obligaciones de transparencia;
+
+XI. Fomentar la transparencia y accesibilidad al interior del Poder Judicial; y,
+
+XII. Hacer del conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en la normatividad aplicable en materia de transparencia y acceso a la información, así como demás disposiciones aplicables.
+
+XIII. Proponer al Presidente el informe a rendir según lo ordenado por el artículo 25 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Sinaloa;
+
+XIV. Dar cumplimiento a las resoluciones de la Comisión Estatal de Acceso a la Información Pública, en términos del artículo 188 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Sinaloa;
+
+XV. Las demás que se deriven de las disposiciones aplicables, del presente Reglamento y las que establezcan los acuerdos del Pleno o del Presidente.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2016)</small>
+
+###### Artículo 89 Bis.
+
+Para ser Coordinador de la Unidad se requiere ser ciudadano mexicano en pleno uso de sus derechos, mayor de veinticinco años, contar con título de licenciado en derecho, con conocimientos en materia de derecho de acceso a la información y de reconocida buena conducta.
 
 ## TRANSITORIOS
 
@@ -1872,3 +1916,11 @@ El presente Acuerdo entrará en vigor el día de su aprobación.
 ###### ARTICULO SEGUNDO.
 
 Publíquese el presente Acuerdo en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 15 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO DE SINALOA".]
+
+PRIMERO. Este acuerdo entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese este Acuerdo en el Periódico Oficial "El Estado de Sinaloa".
