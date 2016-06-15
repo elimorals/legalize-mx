@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-la-defensa-nacional-647
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-29"
-last_updated: "2014-08-25"
+last_updated: "2016-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64766&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-12-22"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA DEFENSA NACIONAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JUNIO DE 2016.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de diciembre de 2008.
 
@@ -155,17 +155,33 @@ W. Registro Federal de Armas de Fuego y Control de Explosivos;
 
 X. Servicio Militar Nacional;
 
-Y. Adiestramiento, y
+> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2016)</small>
 
-Z. Derechos Humanos.
+Y. Adiestramiento;
 
-VIII. Órganos del Fuero de Guerra:
+> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2016)</small>
 
-A. Supremo Tribunal Militar;
+Z. Derechos Humanos, y
 
-B. Procuraduría General de Justicia Militar, y
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2016)</small>
 
-C. Cuerpo de Defensores de Oficio.
+Z Bis. Policía Militar;
+
+> <small>(REFORMADA, D.O.F. 15 DE JUNIO DE 2016)</small>
+
+VIII. Órganos del Fuero de Guerra y Servicios Periciales:
+
+A. Tribunal Superior Militar;
+
+B. Fiscalía General de Justicia Militar;
+
+C. Defensoría de Oficio Militar, y
+
+D. Coordinación de Servicios Periciales y Ciencias Forenses, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2016)</small>
+
+IX. Unidad de Asuntos Jurídicos.
 
 ## TÍTULO TERCERO. De las Atribuciones y Responsabilidades
 
@@ -325,7 +341,7 @@ XIV. Coordinar las acciones relacionadas con la aplicación y uso de la Clave Ú
 
 XV. Realizar la certificación del documento Solicitud de Compatibilidad de Empleo, mediante el registro de firma correspondiente, así como de los demás documentos sobre los asuntos de su competencia;
 
-XVI. Legalizar la firma del Presidente del Supremo Tribunal Militar y los Jueces Militares en los exhortos que dirijan al extranjero, de conformidad con lo establecido en el Código de Justicia Militar;
+XVI. (DEROGADA, D.O.F. 15 DE JUNIO DE 2016)
 
 XVII. Resolver sobre los recursos de reconsideración y revisión administrativa que se le presenten, cuando resulten jurídicamente procedentes;
 
@@ -347,7 +363,7 @@ B. Obra Pública;
 
 C. Bienes Muebles;
 
-D. Información;
+D. (DEROGADO, D.O.F. 15 DE JUNIO DE 2016)
 
 E. Fideicomiso de apoyo a deudos de militares fallecidos o a militares que hayan adquirido una inutilidad o incapacidad en primera categoría en actos del servicio considerados de alto riesgo;
 
@@ -367,7 +383,9 @@ XXVIII. Organizar, coordinar y supervisar los programas de acondicionamiento fí
 
 XXIX. Coordinar la participación de la Secretaría en la colecta anual de la Cruz Roja Mexicana;
 
-XXX. Atender el portal de Internet de atención ciudadana de la Secretaría;
+> <small>(REFORMADA, D.O.F. 15 DE JUNIO DE 2016)</small>
+
+XXX. Coordinar la Unidad de Transparencia de la Secretaría, para atender las solicitudes de acceso a la información, así como el portal de Internet de atención ciudadana de la Secretaría;
 
 > <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2014)</small>
 
@@ -455,9 +473,13 @@ III. Mantener el enlace con dependencias y entidades de la Administración Públ
 
 IV. Proporcionar asesoramiento militar a organismos gubernamentales sobre la ubicación de toda clase de instalaciones y vías de comunicación, por razones de seguridad nacional;
 
-V. Establecer la vinculación con otros organismos gubernamentales en aspectos jurídicos y desarrollar las acciones jurídico-administrativas a que haya lugar;
+> <small>(REFORMADA, D.O.F. 15 DE JUNIO DE 2016)</small>
 
-VI. Coordinar y participar en la elaboración de los proyectos de iniciativas de ley o decreto legislativo, reglamentos, decretos, acuerdos y demás instrumentos jurídicos sobre los asuntos de la competencia de la Secretaría y de las entidades paraestatales del Sector Defensa, sometiéndolos a consideración del General Secretario;
+V. Establecer la vinculación con otros organismos gubernamentales en el ámbito administrativo y desarrollar las acciones a que haya lugar;
+
+> <small>(REFORMADA, D.O.F. 15 DE JUNIO DE 2016)</small>
+
+VI. Participar en la elaboración de los proyectos de iniciativas de ley o decreto legislativo, reglamentos, decretos, acuerdos y demás instrumentos jurídicos sobre los asuntos competencia de la Secretaría y de las entidades paraestatales sectorizadas a dicha dependencia;
 
 VII. Encauzar el enlace con fuerzas armadas de otros países, manteniendo y fomentando las buenas relaciones con personal militar extranjero acreditado en el país y, a su vez, las del personal militar mexicano acreditado en otros países;
 
@@ -483,6 +505,14 @@ XVII. Proponer y coordinar medidas orientadas al desarrollo cualitativo de la Se
 
 XVIII. Brindar propuestas sobre la administración de los recursos materiales del Ejército y Fuerza Aérea;
 
+> <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2016)</small>
+
+XVIII Bis. Participar y asesorar en la elaboración de las investigaciones de mercado de bienes, arrendamientos o servicios e insumos de obra pública que sean de carácter estratégico o relevantes para la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2016)</small>
+
+XVIII Ter. Asesorar al General Secretario sobre la situación económica nacional e internacional que le permita tener mayores elementos de juicio para la toma de decisiones de carácter operativo, logístico y administrativo en la Secretaría;
+
 XIX. Revisar la gestión de la informática del Ejército y Fuerza Aérea, de conformidad con las normas aplicables y las políticas del General Secretario, y emitir recomendaciones generales al respecto;
 
 XX. Coordinar y participar en la actualización de la doctrina militar;
@@ -501,7 +531,13 @@ II. Subjefatura Operativa;
 
 III. Subjefatura Administrativa y Logística;
 
-IV. Subjefatura de Doctrina Militar, y
+> <small>(REFORMADA, D.O.F. 15 DE JUNIO DE 2016)</small>
+
+IV. Subjefatura de Doctrina Militar;
+
+> <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2016)</small>
+
+IV Bis. Subjefatura de Inteligencia, y
 
 V. Las Secciones de Estado Mayor y oficinas especializadas que se requieran de acuerdo a las necesidades.
 
@@ -677,13 +713,15 @@ A. Controlar el mantenimiento y la evacuación del material electrónico de la F
 
 B. Proponer las bases técnicas para la adquisición de material aéreo electrónico.
 
-### CAPÍTULO II. De los Órganos del Fuero de Guerra
+### CAPÍTULO II. De los Órganos del Fuero de Guerra y Servicios Periciales
+
+> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2016)</small>
 
 ## TÍTULO CUARTO. De las Direcciones Generales de la Secretaría
 
-### CAPÍTULO ÚNICO. De las Suplencias de los Servidores Públicos de la Secretaría
+### CAPÍTULO III. De la Unidad de Asuntos Jurídicos
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2016)</small>
 
 #### SECCIÓN PRIMERA. Funciones Genéricas
 
@@ -929,7 +967,9 @@ III. Realizar estudios técnicos destinados a la localización, explotación, tr
 
 IV. Desarrollar investigación y proponer métodos y técnicas en el manejo de sistemas de ingeniería de su especialidad;
 
-V. Emitir opiniones técnicas y asesorar a las dependencias civiles en la ejecución de vías de comunicación terrestres y aéreas, así como de otras obras de carácter estratégico desde el punto de vista militar;
+> <small>(REFORMADA, D.O.F. 15 DE JUNIO DE 2016)</small>
+
+V. Emitir opiniones técnicas desde el punto de vista militar y asesorar a las dependencias de la Administración Pública Federal, en la planeación y construcción de vías de comunicación terrestres y aéreas y, de otras obras de carácter estratégico o prioritarias que lleven a cabo dichas dependencias u otros entes públicos de la Federación, así como colaborar en su ejecución;
 
 VI. Inspeccionar y evaluar los daños en instalaciones militares, civiles y obras de carácter estratégico, en casos de desastre;
 
@@ -1161,9 +1201,11 @@ VIII. Coordinar la elaboración de programas diversos para el logro de los objet
 
 IX. Controlar y mantener al corriente la estadística militar de la Dirección.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 51.
 
-La Dirección General de Justicia Militar es el órgano administrativo del servicio encargado de la atención y resolución de los aspectos jurídicos relacionados con retiros, pensiones, condecoraciones de perseverancia, sentencias, licencias y otros de su competencia que le encomiende la normatividad militar.
+La Dirección General de Justicia Militar es el órgano administrativo del servicio encargado de la atención y resolución de los aspectos jurídicos relacionados con retiros, pensiones y condecoraciones de perseverancia, licencias y otros de su competencia que le encomiende la normatividad militar.
 
 El Director General de Justicia Militar será un General del Servicio en el activo.
 
@@ -1181,11 +1223,13 @@ III. Promover la designación de peritos médicos militares a efecto de que form
 
 IV. Emitir las determinaciones jurídicas relativas al otorgamiento de condecoraciones de perseverancia;
 
-V. Organizar, dirigir y supervisar el funcionamiento de las prisiones militares;
+> <small>(REFORMADA, D.O.F. 15 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2014)</small>
+V. Organizar, dirigir y supervisar el funcionamiento de las prisiones militares, correspondiendo a éstas supervisar la medida cautelar de prisión preventiva;
 
-VI. Intervenir en los cambios de prisión y en la prórroga de jurisdicción, así como coordinar el traslado del personal procesado o sentenciado, de una prisión a otra, militar o civil;
+> <small>(REFORMADA, D.O.F. 15 DE JUNIO DE 2016)</small>
+
+VI. Intervenir en la designación de distinta jurisdicción en términos de lo dispuesto en el artículo 21 del Código Militar de Procedimientos Penales, así como coordinar el traslado del personal procesado o sentenciado, de una prisión a otra, militar o civil, conforme a lo ordenado por la autoridad competente;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2011)</small>
 
@@ -1199,13 +1243,21 @@ X. Desarrollar los programas necesarios para que los militares procesados y sent
 
 XI. Implementar procedimientos de control, medidas disciplinarias, recreativas y ocupacionales para aplicarse en las prisiones militares y en los grupos de procesados y sentenciados;
 
-XII. Intervenir en los trámites de libertad preparatoria, en la ejecución de sentencias, y en lo relacionado con los decomisos que decreten los tribunales militares;
+XII. (DEROGADA, D.O.F. 15 DE JUNIO DE 2016)
 
-XIII. Elaborar estadística de la delincuencia militar;
+XIII. (DEROGADA, D.O.F. 15 DE JUNIO DE 2016)
 
 XIV. Emitir opiniones jurídicas en aspectos de su competencia;
 
 XV. Revisar y emitir los informes requeridos por las autoridades judiciales, con motivo de amparos administrativos interpuestos por militares, sus derechohabientes, y personal que ostentó la calidad de militar, en lo relativo a beneficios;
+
+> <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2016)</small>
+
+XV Bis. Supervisar el cumplimiento de las medidas cautelares en términos de lo dispuesto en el artículo 174 del Código Militar de Procedimientos Penales y de las condiciones de la suspensión condicional del proceso;
+
+> <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2016)</small>
+
+XV Ter. Ejercer el control disciplinario de los servicios periciales, apoyándolos en el ámbito administrativo para su funcionamiento, sin interferir en los aspectos técnicos;
 
 XVI. Proponer la realización de conferencias, cursos de capacitación y perfeccionamiento en materia jurídica del personal del servicio, y
 
@@ -1269,7 +1321,9 @@ VII. Elaborar las patentes para el personal del Ejército y Fuerza Aérea;
 
 VIII. Tramitar el documento de identidad militar al personal de Generales, Jefes y Oficiales en situación de retiro;
 
-IX. Transformar en órdenes los acuerdos y elaborar otros documentos relacionados con los Generales que integran la Plana Mayor de la Secretaría, así como del personal de músicos y policías militares;
+> <small>(REFORMADA, D.O.F. 15 DE JUNIO DE 2016)</small>
+
+IX. Transformar en órdenes los acuerdos y elaborar otros documentos relacionados con los Generales que integran la Plana Mayor de la Secretaría, así como del personal de músicos;
 
 X. Confrontar los efectivos del personal de la Secretaría, a fin de estar en capacidad de ejercer el control de su totalidad, para los fines que se determinen;
 
@@ -1290,6 +1344,48 @@ XVII. Proponer procedimientos administrativos para el control, la organización 
 XVIII. Participar en estudios y proyectos relacionados con la movilización total o parcial de las reservas, de conformidad con las directivas que emita la Secretaría, y
 
 XIX. Establecer los mecanismos que permitan el control eficiente de las reservas.
+
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2016)</small>
+
+ARTÍCULO 56 BIS.- La Dirección General de Policía Militar es el órgano administrativo encargado de organizar y satisfacer las necesidades materiales y de operación del Cuerpo de Policía Militar, a efecto de que éste pueda coadyuvar en la conservación del orden y vigilancia del cumplimiento de las leyes, reglamentos y demás disposiciones militares de carácter disciplinario.
+
+El Director General de Policía Militar será un General de Policía Militar, en el activo.
+
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2016)</small>
+
+ARTÍCULO 56 TER.- Corresponde a la Dirección General de Policía Militar las atribuciones siguientes:
+
+I. Organizar y supervisar la administración y funcionamiento de las Unidades de Policía Militar;
+
+II. Proponer los cambios de adscripción del personal de policía militar;
+
+III. Supervisar que el personal de policía militar reciba el adiestramiento, cursos y capacitación necesaria para la realización de las actividades que tengan encomendadas, proponiendo su actualización y mejoramiento, cuando así proceda;
+
+IV. Emitir las directivas para que el personal de la policía militar conozca las disposiciones jurídicas que rigen las actividades que desempeñan;
+
+V. Elaborar el profesiograma de policía militar, con los cursos que serán impartidos por el sistema educativo militar y aquéllos que serán impartidos por otro sistema educativo;
+
+VI. Elaborar el estado de las plazas presupuestales a su cargo, incluyendo la distribución del personal de policía militar, en las Unidades, Dependencias e Instalaciones de la Secretaría;
+
+VII. Sistematizar los datos del personal de policía militar, coordinando las medidas que permitan mantenerla permanentemente actualizada, para agilizar la toma de decisiones;
+
+VIII. Proponer normas y procedimientos para mejorar el sistema de reclutamiento de personas para integrarse al Cuerpo de Policía Militar;
+
+IX. Difundir conocimientos especializados sobre las actividades que realiza la policía militar, a través de los medios que estime pertinentes;
+
+X. Determinar las Unidades de Policía Militar que deberán cubrir las vacantes del personal de soldados;
+
+XI. Tramitar la documentación requerida para cubrir las vacantes de cabo en las Unidades de Policía Militar;
+
+XII. Asignar los toques de seña para las Unidades de Policía Militar de nueva creación;
+
+XIII. Promover el sentido de pertenencia y permanencia del personal al Cuerpo de Policía Militar, a través del fomento y práctica de las tradiciones y costumbres de la policía militar;
+
+XIV. Coordinar con la Dirección General de Transportes Militares, el mantenimiento y operatividad de los vehículos asignados al servicio de policía militar;
+
+XV. Realizar estudios sobre innovaciones y desarrollo tecnológico que permitan apoyar las actividades de la policía militar, y
+
+XVI. Proponer la integración de comités para la elaboración y adecuación de los manuales relacionados con las funciones de la policía militar.
 
 ###### ARTÍCULO 57.
 
@@ -1377,9 +1473,13 @@ XVI. Impulsar y dirigir trabajos para la mejor organización y desarrollo de los
 
 XVII. Autorizar la consulta y préstamo de expedientes, de conformidad con las disposiciones vigentes;
 
-XVIII. Proporcionar información a quienes la soliciten a través de la Unidad de Enlace de la Secretaría, de conformidad con la clasificación establecida por la ley de la materia, y
+> <small>(REFORMADA, D.O.F. 15 DE JUNIO DE 2016)</small>
 
-XIX. Presidir reuniones periódicas con los jefes regionales del servicio, para tratar asuntos que requieran de su intervención.
+XVIII. Proporcionar la información a quienes la soliciten a través de la Unidad de Transparencia de la Secretaría, de conformidad con lo establecido en las disposiciones en materia de transparencia y acceso a la información pública, y
+
+> <small>(REFORMADA, D.O.F. 15 DE JUNIO DE 2016)</small>
+
+XIX. Presidir las reuniones periódicas que se llevan a cabo con los jefes regionales del servicio, para tratar asuntos que requieran de su intervención.
 
 ###### ARTÍCULO 61.
 
@@ -1397,7 +1497,9 @@ II. Establecer, mantener e incrementar los vínculos con instituciones y represe
 
 III. Fungir, cuando se determine, como vocería oficial de la Secretaría;
 
-IV. Promover la difusión de las actividades de la Secretaría mediante la realización de diversas campañas, promocionales y programas específicos que se transmiten por radio y televisión a nivel nacional, con la aprobación de los órganos correspondientes de la Presidencia de la República y la Secretaría de Gobernación;
+> <small>(REFORMADA, D.O.F. 15 DE JUNIO DE 2016)</small>
+
+IV. Promover la difusión de las actividades de la Secretaría mediante la realización de diversas campañas, promocionales y programas específicos que se transmitirán a nivel nacional por radio, televisión, internet y demás medios de difusión que considere pertinentes, en términos de las disposiciones jurídicas aplicables;
 
 V. Representar a la Secretaría en las actividades de coordinación relativas a los lineamientos de comunicación social emitidos por la Presidencia de la República y la Secretaría de Gobernación;
 
@@ -1409,9 +1511,9 @@ VIII. Realizar la impresión de documentos que requiera la Secretaría para la d
 
 IX. Elaborar la memoria gráfica de las actividades que desarrolla la Secretaría;
 
-X. Apoyar las actividades relacionadas con casas de la cultura, centros de desarrollo infantil, y trabajo social;
+X. (DEROGADA, D.O.F. 15 DE JUNIO DE 2016)
 
-XI. Fungir como Unidad de Enlace de la Secretaría, para atender solicitudes de información;
+XI. (DEROGADA, D.O.F. 15 DE JUNIO DE 2016)
 
 XII. Atender las solicitudes de entrevistas, reportajes y de información de los medios de comunicación;
 
@@ -1423,7 +1525,7 @@ B. Emisión de boletines de prensa a los medios de comunicación;
 
 C. Visitas individuales o grupales de los medios de comunicación a unidades, dependencias e instalaciones militares y de la Secretaría, y
 
-D. Visitas de planteles educativos y otros grupos a las instalaciones militares;
+D. (DEROGADO, D.O.F. 15 DE JUNIO DE 2016)
 
 XIV. Recopilar, analizar y evaluar la información difundida en los medios de comunicación;
 
@@ -1452,6 +1554,10 @@ IV. Asesorar y difundir información al personal militar y sus derechohabientes 
 V. Fomentar la cultura de la seguridad social entre el personal militar y sus derechohabientes, con particular atención en la promoción de una vida saludable;
 
 VI. Proponer y ejecutar programas de actividades para elevar la moral y el nivel de vida del personal militar y sus derechohabientes;
+
+> <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2016)</small>
+
+VI Bis. Apoyar las actividades relacionadas con casas de la cultura, centros de desarrollo infantil, y trabajo social a cargo de la Secretaría;
 
 VII. Optimizar y modernizar los procedimientos a efecto de agilizar los trámites en materia de seguridad social;
 
@@ -1548,6 +1654,10 @@ Corresponden a la Dirección General de Educación Militar y Rectoría de la Uni
 I. Aplicar la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos, y su Reglamento;
 
 II. Regir el funcionamiento del sistema educativo militar;
+
+> <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2016)</small>
+
+II Bis. Coordinar las visitas de instituciones públicas o privadas, individuales o grupales de civiles a los establecimientos de educación militar;
 
 III. Proporcionar y gestionar los servicios educativos para el personal de la Secretaría;
 
@@ -1743,41 +1853,61 @@ IX. Impulsar las acciones tendientes a la consolidación de una cultura de respe
 
 X. Promover e instrumentar la formación integral de los miembros del Ejército y Fuerza Aérea en materia de derechos humanos, equidad de género y derecho internacional humanitario, para lo cual podrá gestionar la suscripción de convenios y demás instrumentos de colaboración, coordinación y concertación con instituciones educativas y organismos gubernamentales y no gubernamentales, nacionales e internacionales.
 
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 15 DE JUNIO DE 2016)</small>
+
+### CAPÍTULO ÚNICO. De las Suplencias de los Servidores Públicos de la Secretaría
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2009)</small>
+
 ###### ARTÍCULO 79.
 
-La organización y funcionamiento de los Órganos del Fuero de Guerra se establecen en el Código de Justicia Militar, además de los reglamentos y manuales respectivos.
+La organización y funcionamiento de los Órganos del Fuero de Guerra y Servicios Periciales se establecen en el Código de Justicia Militar y Código Militar de Procedimientos Penales, además de los reglamentos y manuales respectivos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE JULIO DE 2009)</small>
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 80.
 
-El Procurador General de Justicia Militar es el consultor jurídico de la Secretaría en asuntos de la competencia de la misma, y le corresponden las atribuciones siguientes:
+La Unidad de Asuntos Jurídicos es el órgano administrativo encargado de fungir como consultor jurídico y representante legal de la Secretaría.
 
-I. Acordar con el General Secretario los asuntos a su cargo;
+El Jefe de la Unidad de Asuntos Jurídicos será un General del Servicio de Justicia, en el activo.
 
-II. Dictaminar sobre las dudas o conflictos de carácter jurídico que se le presenten;
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2016)</small>
 
-III. Someter a consideración del General Secretario las alternativas jurídicas de solución a los asuntos considerados como relevantes o especiales para la Secretaría;
+ARTÍCULO 80 BIS.- Corresponde a la Unidad de Asuntos Jurídicos, además de las atribuciones genéricas señaladas para las Direcciones Generales de la Secretaría en el artículo 28 de este Reglamento, las siguientes:
 
-IV. Coadyuvar con las autoridades correspondientes en los asuntos de orden jurídico de la Secretaría;
+I. Intervenir en los asuntos de carácter legal que sean competencia de la Secretaría;
 
-> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2014)</small>
+II. Dictaminar sobre las dudas o conflictos de carácter jurídico que le soliciten los órganos administrativos de la Secretaría;
 
-IV bis. Representar al Presidente de la República en los juicios de amparo respecto de aquellos asuntos que correspondan a la Secretaría, en términos de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
+III. Representar a los órganos administrativos de la Secretaría, cuando sean parte en los juicios de amparo, fiscales, contencioso administrativos, laborales, agrarios o de cualquier otra naturaleza judicial o administrativa;
 
-> <small>(ADICIONADA, D.O.F. 22 DE JULIO DE 2009)</small>
+IV. Representar al Presidente de la República en los juicios de amparo respecto de aquellos asuntos que correspondan a la Secretaría, en términos de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
 
-IV ter. Intervenir en las controversias constitucionales y en las acciones de inconstitucionalidad en las que el Secretario de la Defensa Nacional represente al Presidente de la República;
+V. Representar al General Secretario, al Subsecretario de la Defensa Nacional y al Oficial Mayor de la Secretaría, en los juicios de amparo en los que sean parte;
 
-> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 2009)</small>
+VI. Intervenir en las controversias constitucionales y en las acciones de inconstitucionalidad en las que el General Secretario represente al Presidente de la República;
 
-V. Representar al General Secretario, al Subsecretario de la Defensa Nacional, al Oficial Mayor de la Secretaría y a cualquier otro servidor público de los Órganos Administrativos, con residencia en la Ciudad de México y zona metropolitana del Valle de México, en los juicios de amparo en los que sean parte;
+VII. Atender los requerimientos formulados a la Secretaría, por autoridades ministeriales o jurisdiccionales;
 
-VI. Atender y dar seguimiento a los juicios de amparo, fiscales, agrarios o de cualquier otra naturaleza, en los cuales la Secretaría sea parte;
+VIII. Coordinar la elaboración de los proyectos de iniciativas de ley o decreto legislativo, reglamentos, decretos, acuerdos y demás instrumentos jurídicos sobre los asuntos competencia de la Secretaría y de las entidades paraestatales sectorizadas a dicha dependencia, así como, una vez elaborados dichos proyectos, someterlos a consideración del General Secretario y, en su caso, substanciar los trámites necesarios para su emisión ante las instancias correspondientes;
 
-VII. Atender y dar seguimiento a las averiguaciones previas que, en su caso, se hayan generado con motivo de las quejas o recomendaciones que reciba cualquier autoridad de la Secretaría, emitidas por organismos de derechos humanos, cuando procedan legalmente, e
+IX. Coordinar la sustanciación y, en su caso, someter a consideración del servidor público que corresponda, los proyectos de resolución de los recursos administrativos interpuestos en contra de actos emitidos por la Secretaría;
 
-VIII. Intervenir en la elaboración de los proyectos de iniciativas de leyes o decretos legislativos, reglamentos, decretos, acuerdos y demás instrumentos jurídicos de competencia de la Secretaría.
+X. Formular en representación de la Secretaría, por sí o por conducto de los servidores públicos que para tal efecto designe, demandas y contestaciones en toda clase de procedimientos judiciales, contencioso-administrativos y del trabajo, ejercer acciones y oponer excepciones y defensas, ofrecer pruebas, absolver posiciones, comparecer en todo tipo de audiencias, formular alegatos, interponer toda clase de recursos, transigir dentro de cualquier procedimiento o juicio y, en general, vigilar la tramitación de los mismos, así como atender las sentencias, laudos y resoluciones cuyo cumplimiento corresponda a la Secretaría, prestando la asesoría que se requiera;
+
+XI. Emitir opinión jurídica, a petición de otras dependencias y entidades de la Administración Pública Federal, sobre los proyectos de iniciativas de ley o decretos legislativos, reglamentos, decretos, acuerdos y demás instrumentos jurídicos que éstas elaboren;
+
+XII. Proporcionar asesoría legal a los órganos administrativos de la Secretaría que lo requieran;
+
+XIII. Intervenir, en coordinación con el responsable inmobiliario de la Secretaría, en los procedimientos para la regularización de inmuebles a favor de dicha dependencia;
+
+XIV. Sustanciar los procedimientos de responsabilidad patrimonial del estado atribuibles a los servidores públicos de la Secretaría;
+
+XV. Instruir a los asesores jurídicos adscritos a los Mandos Territoriales, la realización de trámites, gestiones y otras actividades necesarias para la defensa y protección jurídica de los intereses de la Secretaría;
+
+XVI. Someter a consideración del General Secretario los convenios y contratos que debe autorizar su suscripción por parte de los órganos administrativos de la Secretaría, y
+
+XVII. Coordinar la publicación en el Diario Oficial de la Federación de los acuerdos, decretos, circulares, lineamientos, manuales y demás disposiciones de carácter general que emita la Secretaría.
 
 ## TÍTULO QUINTO. De las Suplencias
 
@@ -1840,3 +1970,21 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las erogaciones que deriven de la aplicación del presente Decreto serán realizadas mediante movimientos compensados, por lo que la Secretaría de la Defensa Nacional debe sujetarse a su presupuesto autorizado para el presente ejercicio fiscal y no incrementar su presupuesto regularizable.
 
 TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 15 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA DEFENSA NACIONAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+CUARTO.- Las referencias que se hagan y las atribuciones que se otorgan a la Fiscalía General de Justicia Militar en otros reglamentos, decretos, acuerdos, manuales y demás disposiciones administrativas, respecto de los asuntos que en términos de los artículos 80 y 80 Bis del presente Decreto son competencia de la Unidad de Asuntos Jurídicos, se entenderán hechas o conferidas a dicha Unidad.
+
+QUINTO.- Las referencias que se hagan y las atribuciones que se otorgan en otros reglamentos, decretos, acuerdos, manuales y demás disposiciones administrativas, a las unidades administrativas de la Secretaría que por virtud del presente Decreto modifican sus atribuciones, se entenderá hechas o conferidas a aquéllas que asumen la competencia conforme a este ordenamiento.
+
+SEXTO.- Los asuntos en trámite que son atendidos por unidades administrativas que modifican sus atribuciones en virtud de la entrada en vigor del presente Decreto, serán atendidos y resueltos por las unidades administrativas a las que se les da la competencia correspondiente en este ordenamiento.
+
+SÉPTIMO.- Para efectos de lo previsto en el artículo 56 Bis, segundo párrafo del presente Decreto, en tanto no exista un General de Policía Militar, se podrá nombrar como Director General de Policía Militar a quien designe el Secretario de la Defensa Nacional.
