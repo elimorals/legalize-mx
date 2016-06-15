@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-transparencia-acceso-a-la-informacion-publica-y-115044"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-18"
-last_updated: "2016-05-18"
+last_updated: "2016-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115044&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # LEY DE TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES DEL ESTADO DE MICHOACAN DE OCAMPO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE JUNIO DE 2016 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE JUNIO DE 2016.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el miércoles 18 de mayo de 2016.
 
@@ -1283,7 +1283,9 @@ La información clasificada como reservada, en esta Ley, podrá permanecer con t
 
 Excepcionalmente, los sujetos obligados, con la aprobación de su Comité de Transparencia, podrán ampliar el periodo de reserva hasta por un plazo de cinco años adicionales, siempre y cuando justifiquen que subsisten las causas que dieron origen a su clasificación, mediante la aplicación de una prueba de daño.
 
-Cuando a juicio de un sujeto obligado sea necesario ampliar nuevamente el periodo de reserva de la información; el Comité de Transparencia respectivo deberá hacer la solicitud correspondiente al Instituto, debidamente fundada y motivada, aplicando la prueba de daño y señalando el plazo de reserva, por lo menos con tres meses de anticipación al vencimiento del periodo.
+> <small>(F. DE E., P.O. 15 DE JUNIO DE 2016)</small>
+
+Cuando a juicio de un sujeto obligado sea necesario ampliar nuevamente el periodo de reserva de la información; el Comité de Transparencia respectivo deberá hacer la solicitud correspondiente al Instituto, debidamente fundada y motivada, aplicando la prueba de daño y señalando el plazo de reserva, por lo menos con tres meses de anticipación al vencimiento del periodo, cuando se trate de información cuya publicación pueda ocasionar la destrucción o inhabilitación de la infraestructura de carácter estratégico.
 
 ###### Artículo 86.
 
@@ -1305,7 +1307,9 @@ Tratándose de aquella información que actualice los supuestos de clasificació
 
 En la aplicación de la prueba de daño, el sujeto obligado deberá justificar que:
 
-I. La divulgación de la información representa un riesgo real, demostrable e identificable de perjuicio significativo al interés público o a la seguridad nacional;
+> <small>(F. DE E., P.O. 15 DE JUNIO DE 2016)</small>
+
+I. La divulgación de la información representa un riesgo real, demostrable e identificable de perjuicio significativo al interés público;
 
 II. El riesgo de perjuicio que supondría la divulgación supera el interés público general de que se difunda; y,
 
@@ -1391,7 +1395,9 @@ II. Por ley tenga el carácter de pública;
 
 III. Exista una orden judicial;
 
-IV. Por razones de seguridad nacional y salubridad general, o para proteger los derechos de terceros, se requiera su publicación; o,
+> <small>(F. DE E., P.O. 15 DE JUNIO DE 2016)</small>
+
+IV. Por razones de salubridad general, o para proteger los derechos de terceros, se requiera su publicación; o,
 
 V. Cuando se transmita entre sujetos obligados y entre éstos y los sujetos de derecho internacional, en términos de los tratados y los acuerdos interinstitucionales, siempre y cuando la información se utilice para el ejercicio de facultades propias de los mismos.
 
@@ -1405,9 +1411,13 @@ La información que contenga datos de carácter personal debe sistematizarse con
 
 Como información reservada podrá clasificarse aquella cuya publicación:
 
-I. Comprometa la seguridad pública o la defensa del Estado y cuente con un propósito genuino y un efecto demostrable;
+> <small>(F. DE E., P.O. 15 DE JUNIO DE 2016)</small>
 
-II. Pueda menoscabar la conducción de las negociaciones y relaciones estatales;
+I. Comprometa la seguridad pública y cuente con un propósito genuino y un efecto demostrable;
+
+> <small>(F. DE E., P.O. 15 DE JUNIO DE 2016)</small>
+
+II. Pueda menoscabar la conducción de las negociaciones y relaciones internacionales;
 
 III. Se entregue al Estado mexicano expresamente con ese carácter o el de confidencial por otro u otros sujetos de derecho internacional, excepto cuando se trate de violaciones graves de derechos humanos o delitos de lesa humanidad de conformidad con el derecho internacional;
 
@@ -2047,13 +2057,17 @@ IV. Admitido el recurso de revisión, aparezca alguna causal de improcedencia en
 
 Las resoluciones del Instituto son vinculatorias, definitivas e inatacables para los sujetos obligados.
 
+> <small>(F. DE E., P.O. 15 DE JUNIO DE 2016)</small>
+
 ###### Artículo 151.
 
-Los particulares podrán impugnar las determinaciones o resoluciones del Instituto ante el Tribunal de Justicia Administrativa.
+Los particulares podrán impugnar las determinaciones o resoluciones del Instituto ante el Poder Judicial de la Federación.
+
+> <small>(F. DE E., P.O. 15 DE JUNIO DE 2016)</small>
 
 ###### Artículo 152.
 
-Tratándose de las resoluciones a los recursos de revisión del Instituto, los particulares podrán optar por acudir ante el Instituto Nacional o ante el Tribunal de justicia Administrativa.
+Tratándose de las resoluciones a los recursos de revisión del Instituto, los particulares podrán optar por acudir ante el Instituto Nacional o ante el Poder Judicial de la Federación.
 
 ### CAPÍTULO II. DEL CUMPLIMIENTO
 
