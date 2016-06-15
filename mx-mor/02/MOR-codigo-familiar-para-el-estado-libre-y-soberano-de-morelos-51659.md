@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2016-03-30"
+last_updated: "2016-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 30 DE MARZO DE 2016 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO TRESCIENTOS VEINTICINCO PUBLICADO EN EL P.O. DE 9 DE MARZO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -1969,7 +1967,7 @@ Lo mismo se observará respecto de la recuperación de la custodia.
 
 ###### ARTÍCULO 224.
 
-OBLIGACIÓN DE RESPETO HACIA LOS PROGENITORES. Quien ejerza la patria potestad, debe de procurar el respeto y el acercamiento constante de los menores con el otro ascendiente que también ejerza la patria potestad. En consecuencia, cada uno de los ascendientes debe evitar cualquier acto de manipulación y alienación parental encaminada a producir en la niña o en el niño, rencor o rechazo hacia el otro progenitor, sopena de suspendérsele en su ejercicio.
+OBLIGACIÓN DE RESPETO HACIA LOS PROGENITORES. Quien ejerza la patria potestad, debe de procurar el respeto y el acercamiento constante de los menores con el otro ascendiente que también ejerza la patria potestad. En consecuencia, cada uno de los ascendientes debe evitar cualquier acto de manipulación y alienación parental encaminada a producir en la niña o en el niño, rencor o rechazo hacia el otro progenitor, sopena (sic) de suspendérsele en su ejercicio.
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
@@ -4665,6 +4663,14 @@ Lo dispuesto en el párrafo que precede se observará también por cualquiera qu
 
 Si los interesados están ausentes o son desconocidos, la noticia se dará al Juez.
 
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2016)</small>
+
+###### ARTICULO 645 Bis.
+
+En todos los casos en que se otorgue un testamento conforme a lo dispuesto en este Código, el Notario que dé fe o la autoridad competente que lo reciba, deberá formular un aviso de testamento por vía electrónica al Archivo General de Notarías con los datos conducentes señalados en la legislación aplicable y su reglamento.
+
+Cuando el Archivo General de Notarías del Estado reciba una solicitud de informe acerca de la existencia o inexistencia de disposición testamentaria, para emitir su informe, deberá consultar la base de datos del Registro Nacional de Avisos de Testamento a fin de proporcionar al solicitante el reporte de búsqueda nacional, que se obtenga de su consulta.
+
 ### CAPÍTULO II. DEL TESTAMENTO PÚBLICO ABIERTO
 
 ###### ARTÍCULO 646.
@@ -4816,6 +4822,30 @@ La omisión de esta formalidad por el testador, sólo afecta a la validez de las
 ###### ARTÍCULO 671.
 
 DUPLICADO DEL TESTAMENTO OLÓGRAFO Y SU DEPÓSITO EN EL REGISTRO PUBLICO DE LA PROPIEDAD. El testador hará por duplicado su testamento ológrafo e imprimirá en cada ejemplar su huella digital. El original, dentro de un sobre cerrado y lacrado, será depositado en la sección correspondiente del Registro Público de la Propiedad, y el duplicado, también encerrado en un sobre lacrado y con la nota en la cubierta, será devuelto al testador. Este podrá poner en los sobres que contengan los testamentos los sellos, señales o marcas que estime necesarias para evitar violaciones.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2016)</small>
+
+Cuando el Instituto de Servicios Registrales y Catastrales del Estado de Morelos reciba un testamento ológrafo, éste deberá dar de alta por medios electrónicos el aviso correspondiente a la base de datos del Registro Local de Avisos de Testamento a más tardar dentro de los dos días hábiles siguientes a la fecha de su depósito, en el que se expresarán, cuando menos, los datos siguientes:
+
+I. Del testador:
+
+a) Nombre completo;
+
+b) Nacionalidad;
+
+c) Lugar y fecha de nacimiento;
+
+d) Clave Única del Registro Nacional de Población;
+
+e) Estado civil, y
+
+f) Nombre completo de los padres;
+
+II. Del testamento:
+
+a) Tipo de testamento y lugar y fecha de su otorgamiento, y
+
+b) Datos de la autoridad encargada de los Servicios Registrales y Catastrales donde se depositó.
 
 ###### ARTÍCULO 672.
 
@@ -6318,3 +6348,15 @@ PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estad
 SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERO.- Se derogan todas las disposiciones jurídicas y normativas de igual o menor rango jerárquico, que se opongan al presente Decreto.
+
+P.O. 15 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS SETENTA Y CUATRO.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO DEL ESTADO DE MORELOS, DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS Y DEL CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+CUARTA. En un plazo no mayor a 120 días hábiles contados a partir del día siguiente al de la entrada en vigor del presente Decreto, deberán realizarse las modificaciones necesarias al Reglamento de la Ley del Registro Público de la Propiedad y del Comercio del Estado de Morelos y al Reglamento de la Ley del Notariado del Estado de Morelos y demás disposiciones jurídicas de igual o menor rango jerárquico normativo aplicable.
