@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-notariado-del-estado-de-morelos-6652"
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-03"
-last_updated: "2014-11-12"
+last_updated: "2016-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL NOTARIADO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el 3 de agosto de 1983.
 
@@ -679,13 +679,137 @@ Se exceptúan de la disposición contenida en el párrafo anterior, las enajenac
 
 Para que se otorgue una escritura relativa a bienes inmuebles, el Notario exigirá a la parte interesada el título o títulos respectivos que acrediten la propiedad y los antecedentes necesarios para justificarla.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 75.
 
-Cuando los Notarios autoricen algún testamento público abierto o cerrado, deberán dar aviso al Archivo General de Notarías, dentro de un plazo de dos días hábiles siguientes al de su otorgamiento. En el aviso expresará la fecha del otorgamiento, el nombre y generales del testador. Si el testamento fuere cerrado, se expresará además la persona en cuyo poder se deposite o el lugar en que se haga el depósito. En caso de que el testador manifieste en su testamento el nombre de sus padres, también se dará este dato. El Archivo de Notarías llevará un libro especialmente destinado a asentar las inscripciones relativas a los testamentos con los datos que se mencionan.
+Cuando ante un Notario se otorgue un testamento éste dará aviso electrónico al Archivo General de Notarías en el que proporcione, cuando menos, la siguiente información:
 
-Los Jueces y los Notarios ante quienes se tramite una sucesión recabarán los informes del Archivo General de Notarías acerca de si tienen registrados testamentos otorgados por la persona de cuya sucesión se trate, y en su caso la fecha de los mismos.
+I. Del testador:
 
-Cuando se trate de testamentos cerrados, se levantará la escritura correspondiente a su presentación y se pondrá en la cubierta que encierra el testamento, la razón del caso que firmará el Notario y autorizará con su sello.
+a) Nombre completo;
+
+b) Nacionalidad;
+
+c) Lugar y fecha de nacimiento;
+
+d) Clave Única del Registro Nacional de Población;
+
+e) Estado civil, y
+
+f) Nombre completo de los padres;
+
+II. Del testamento:
+
+a) Tipo;
+
+b) Número de escritura;
+
+c) Volumen o tomo;
+
+d) Fecha de la escritura,
+
+e) Disposiciones de contenido irrevocable, en su caso;
+
+f) Lugar de otorgamiento;
+
+g) Tipo de Notario, conforme a la normativa aplicable;
+
+h) Nombre completo del Notario, y
+
+i) Número y domicilio de Notaría.
+
+El aviso que refiere este artículo deberá efectuarse dentro de los dos días hábiles siguientes a la fecha en que se otorgó la voluntad testamentaria.
+
+El Archivo General de Notarías que reciba un aviso de testamento deberá darlo de alta, por medios electrónicos, en la base de datos del Registro Nacional de Avisos de Testamento a más tardar dentro de los cinco días hábiles siguientes a la fecha de su recepción.
+
+Cuando se tramite una sucesión ante Notario se deberá recabar la información de existencia o inexistencia de alguna disposición testamentaria mediante la solicitud de búsqueda al Archivo General de Notarías y al Instituto de Servicios Registrales y Catastrales u otras autoridades facultadas conforme a la legislación vigente en el Estado, y éstos, a su vez, solicitarán vía Internet el reporte de búsqueda al Registro Nacional de Avisos de Testamento.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2016)</small>
+
+ARTICULO 75 BIS.- Cuando se otorgue un poder ante Notario por persona física o moral que no esté sujeta a otro registro y para actos de dominio que impliquen tráfico inmobiliario, el fedatario deberá formular un aviso de su otorgamiento, de su revocación o de su renuncia, según sea el caso, debiendo enviarlo inmediatamente, vía electrónica, a través del sistema al Archivo General de Notarías, para que de manera simultánea se registre en la base de datos nacional.
+
+Los requisitos que deberá contener el aviso son los siguientes:
+
+I. Del Notario:
+
+a) Nombre completo;
+
+b) Clave Única de Registro de Población;
+
+c) Tipo de Notario conforme a la normativa aplicable, y
+
+d) Número y domicilio de la Notaría;
+
+II. De la escritura:
+
+a) Fecha y número;
+
+b) Volumen o tomo;
+
+c) Libro;
+
+d) Lugar de otorgamiento;
+
+e) Tipo de poder de actos de dominio;
+
+f) Facultades conferidas, y
+
+g) Vigencia del poder;
+
+h) De los poderdantes y apoderados:
+
+f. (sic)) Nombre completo;
+
+g.) Tratándose de personas morales sin actividad mercantil, su denominación o razón social.
+
+h.) Cuando se trate de personas físicas, el sexo;
+
+i.) Clave Única de Registro de Población, y
+
+j.) Nacionalidad.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2016)</small>
+
+ARTICULO 75 TER.- Cuando ante un Notario se revoque o se renuncie un poder otorgado por persona física o moral que no esté sujeta a otro registro, el fedatario deberá recabar los siguientes datos:
+
+I. Nombre completo del Notario ante quien se revoca o renuncia el poder;
+
+II. Clave Única de Registro de Población del Notario ante quien se revoca o renuncia el poder;
+
+III. Número de la Notaría ante la cual se revoca o renuncia;
+
+IV. Tipo de Notario ante quien se revoca o renuncia, conforme a la normativa aplicable;
+
+V. Adscripción o municipio del Notario ante quien se revoca o renuncia;
+
+VI. Lugar de residencia y entidad federativa del Notario ante quien se revoca o renuncia;
+
+VII. Número de la escritura que se revoca o renuncia;
+
+VIII. Volumen o tomo de la escritura que se revoca o renuncia;
+
+IX. Fecha de otorgamiento de la escritura que se revoca;
+
+X. Número de la Notaría que expidió la escritura que se revoca o renuncia;
+
+XI. Lugar de otorgamiento de la escritura que se revoca o renuncia;
+
+XII. Nombre completo del Notario ante quien se otorgó la escritura que se revoca o renuncia;
+
+XIII. Adscripción o municipio del Notario que expidió la escritura que se revoca o renuncia, y
+
+XIV. Nombre completo del o los apoderados que se revocan o que renuncian.
+
+Hecho lo anterior, el Notario inmediatamente, realizará el registro de la revocación o la renuncia a través del sistema.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2016)</small>
+
+ARTICULO 75 QUATER.- Cuando ante un Notario se presente un poder otorgado por persona física o moral que no esté sujeta a otro registro, para actos de dominio y que implique tráfico inmobiliario, éste deberá verificar la autenticidad, legitimidad, vigencia y alcance de dicho poder, a través del sistema (sic) Registro Nacional de Avisos de Poderes Notariales, vía internet.
+
+Cuando ante un Juez se presente un poder otorgado por persona física o moral que no esté sujeta a otro registro, para actos de dominio y que implique tráfico inmobiliario, éste deberá verificar la autenticidad, legitimidad, vigencia y alcance de dicho poder, a través del Archivo General de Notarías, quién consultará vía internet la base de datos del Registro Nacional de Avisos de Poderes Notariales.
+
+Cuando el Archivo General de Notarías reciba una solicitud de consulta de la autenticidad, legitimidad, vigencia y alcance de un poder otorgado ante Notario por persona física o moral que no esté sujeta a otro registro, para emitir su informe deberá consultar indefectiblemente la base de datos del Registro Nacional de Avisos de Poderes Notariales la cual emitirá el reporte correspondiente.
 
 ###### ARTICULO 76.
 
@@ -1193,13 +1317,19 @@ IV.- Entregar a los Notarios los libros y sellos que sean necesarios para el eje
 
 V.- Recoger y guardar los protocolos y sellos de los Notarios en los casos que esta Ley determina;
 
-VI.- Llevar un índice general de los testamentos que se otorguen o se depositen en las Notarías del Estado, dando aviso de ello a las Autoridades Judiciales cuando para ello fuere requerido;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
 
-VII.- Cuidar que sólo se tome nota de las escrituras contenidas en los protocolos bajo su custodia y responsabilidad, no pudiendo, por lo tanto, permitir que sean sacados de las Oficinas del Archivo;
+VI.- Llevar un índice electrónico general de los testamentos que se otorguen o se depositen en las Notarías del Estado por medio del Registro Local de Avisos (sic) Testamentos, dando aviso de ello a las autoridades judiciales cuando para ello fuere requerido;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+VII.- Cuidar que solo se tome nota de las escrituras contenidas en los protocolos bajo su custodia y responsabilidad, no pudiendo, por lo tanto, permitir que sean sacados de las oficinas del archivo;
 
 VIII.- Expedir testimonios, copias simples y certificaciones de las escrituras contenidas en los protocolos depositados, sujetándose para ello a las reglas que esta Ley establece para los Notarios;
 
-IX.- Las demás que sean propias y naturales del cargo y que esta Ley u otras le impongan.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
+
+IX.- Las demás que sean propias y naturales del cargo y que esta Ley u otras le confieran.
 
 ###### ARTICULO 145.
 
@@ -1281,7 +1411,7 @@ Lic. David Jiménez González
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 10 DE MAYO DE 1989.
 
@@ -1328,3 +1458,15 @@ P.O. 12 DE NOVIEMBRE DE 2014.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 15 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS SETENTA Y CUATRO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO DEL ESTADO DE MORELOS, DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS Y DEL CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+CUARTA.- En un plazo no mayor a 120 días hábiles contados a partir del día siguiente al de la entrada en vigor del presente Decreto, deberán realizarse las modificaciones necesarias al Reglamento de la Ley del Registro Público de la Propiedad y del Comercio del Estado de Morelos y al Reglamento de la Ley del Notariado del Estado de Morelos y demás disposiciones jurídicas de igual o menor rango jerárquico normativo aplicable.
