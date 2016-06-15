@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2016-06-06"
+last_updated: "2016-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE JUNIO DE 2016.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -1783,7 +1783,9 @@ XIII. Prevención y control de enfermedades transmisibles, no transmisibles y de
 
 XIV. Prevención de la discapacidad y la rehabilitación de las personas con discapacidad;
 
-XV. Asistencia social;
+> <small>(REFORMADA, G.G. 15 DE JUNIO DE 2016)</small>
+
+XV. Asistencia social e instalación de unidades de hemodiálisis en los hospitales regionales pertenecientes al ISEM y capacitación al familiar o a quien acompañe al paciente.
 
 > <small>(REFORMADA, G.G. 25 DE AGOSTO DE 2015)</small>
 
@@ -4683,7 +4685,7 @@ V. Los demás que establezca el reglamento.
 
 19.- Son obligaciones de los prestadores de servicios turísticos:
 
-I. Anunciar visiblemente en los lugares de acceso al establecimiento la dirección, teléfono o correo electrónico, tanto del responsable del establecimiento, como de la autoridad competente, para la presentación de quejas, en su caso;
+I. Anunciar visiblemente en los lugares de acceso al establecimiento la dirección, teléfono e correo electrónico, tanto del responsable del establecimiento, como de la autoridad competente, para la presentación de quejas, en su caso;
 
 II. Mantener de manera permanente en un lugar visible, los derechos y obligaciones de los turistas, así como lo establecido en las fracciones X y XI del presente artículo;
 
@@ -12063,7 +12065,7 @@ Los informantes estarán obligados a proporcionar auxilio y cooperación a las a
 
 ###### Artículo 14.
 
-22.- Los datos, estudios e investigaciones que proporcionen los informantes, serán manejados bajo el principio de confidencialidad respecto a los aspectos específicos de las personas y los referentes a las circunstancias particulares que las identifiquen, excepto la información catastral cuando se garantice el interés legítimo. Al recabarse la Información se dará a conocer al informante la manera en que será procesada, integrada y divulgada.
+22.- Los datos, estudios e investigaciones que proporcionen los informantes, serán manejados bajo el principio de confidencialidad respecto a los aspectos específicos de las personas y los referentes a las circunstancias particulares que las identifiquen, excepto la Información catastral cuando se garantice el interés legítimo. Al recabarse la información se dará a conocer al informante la manera en que será procesada, integrada y divulgada.
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -18509,7 +18511,7 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 G.G. 12 DE AGOSTO DE 2015.
 
-DECRETO NÚMERO 485, POR EL QUE SE ADICIONA LA SECCIÓN CUARTA DENOMINADA "DE LOS PRESTADORES DE SERVICIOS ELECTRÓNICOS Y PROVEEDORES DE TRANSPORTE" Y LOS ARTÍCULOS 7.57 BIS, 7.57 TER.7, 57 QUÁTER, 7.57 QUINTUS Y 7.57 SEXIES DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
+DECRETO NÚMERO 485, POR EL QUE SE ADICIONA LA SECCIÓN CUARTA DENOMINADA "DE LOS PRESTADORES DE SERVICIOS ELECTRÓNICOS Y PROVEEDORES DE TRANSPORTE" Y LOS ARTÍCULOS 7.57 BIS, 7.57 TER, 7.57 QUÁTER, 7.57 QUINTUS Y 7.57 SEXIES DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
@@ -18692,3 +18694,13 @@ G.G. 6 DE JUNIO DE 2016.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 15 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 95.- POR EL QUE SE REFORMA LA FRACCIÓN XV DEL ARTICULO 2.16, LIBRO SEGUNDO, TÍTULO TERCERO, CAPÍTULO PRIMERO DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno.
+
+TERCERO. La Secretaria de Finanzas llevará a cabo las reservas presupuestales necesarias, a fin de dar cumplimiento al presente decreto.
