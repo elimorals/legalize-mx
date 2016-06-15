@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-juventud-del-estado-de-mexico-76478"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-31"
-last_updated: "2015-08-06"
+last_updated: "2016-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE JUNIO DE 2016.
 
 Ley publicada en la Sección Quinta a la Gaceta del Gobierno del Estado de México, el martes 31 de agosto de 2010.
 
@@ -305,9 +305,15 @@ XIII. Facilitar y apoyar el acceso a la educación de los jóvenes indígenas, c
 
 XIV. Promover programas de Beca y Crédito Educativo para jóvenes de escasos recursos, a fin de que no deserten por motivos económicos; promover acciones o financiamiento de becas de estancia o apoyo para transporte a jóvenes que tengan que trasladarse a otro lugar fuera de su municipio, para continuar estudiando;
 
-XV. Fomentar el desarrollo de planes y programas flexibles con salidas profesionales laterales o intermedias, que permitan a los jóvenes combinar el estudio y el trabajo;
+> <small>(REFORMADA, G.G. 15 DE JUNIO DE 2016)</small>
 
-XVI. Promover la inserción de los jóvenes en el empleo, mediante incentivos fiscales para aquellas empresas que contraten jóvenes recién egresados, a fin de abatir el desempleo juvenil, aprovechando su fuerza laboral y su capacidad creativa y de organización;
+XV. Fomentar el desarrollo de planes y programas flexibles con salidas profesionales laterales o intermedias, que permitan a los jóvenes combinar el estudio y el trabajo. Bajo el principio de interés superior, celebrar convenios de vinculación con el sector público, educativo y privado, para brindar herramientas en favor del desarrollo integral de la juventud.
+
+> <small>(REFORMADA, G.G. 15 DE JUNIO DE 2016)</small>
+
+XVI. Promover la inserción de los jóvenes en el empleo, mediante incentivos fiscales a empresas y al sector servicios, a fin de que incluyan dentro de sus actividades a jóvenes practicantes, impulsando la inserción laboral.
+
+La prestación de servicio social y prácticas profesionales que realicen los educandos contarán como tiempo efectivo de experiencia laboral.
 
 XVII. Promover créditos y capacitación para los jóvenes emprendedores;
 
@@ -714,3 +720,11 @@ CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamen
 QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
 
 SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
+
+G.G. 15 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 96.- POR EL QUE SE ADICIONA UN PÁRRAFO A LA FRACCIÓN VI DEL ARTÍCULO 9 DE LA LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACIÓN EN EL ESTADO DE MÉXICO Y SE REFORMAN LAS FRACCIONES XV Y XVI DEL ARTÍCULO 13 DE LA LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
