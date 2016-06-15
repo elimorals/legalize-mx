@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2016-06-01"
+last_updated: "2016-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE JUNIO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 1 DE JUNIO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE JUNIO DE 2016.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1565,9 +1563,17 @@ u) De Protección e Inclusión a Personas con Discapacidad;
 
 v) De prevención social de la violencia y la delincuencia;
 
-> <small>(REFORMADO, G.G. 27 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-w) Las demás que determine el ayuntamiento, de acuerdo con las necesidades del municipio.
+> <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
+
+w). De Derechos Humanos.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 15 DE JUNIO DE 2016)</small>
+
+x) Las demás que determine el ayuntamiento, de acuerdo con las necesidades del municipio.
 
 II. Serán comisiones transitorias, aquéllas que se designen para la atención de problemas especiales o situaciones emergentes o eventuales de diferente índole y quedarán integradas por los miembros que determine el ayuntamiento, coordinadas por el responsable del área competente.
 
@@ -2519,25 +2525,31 @@ III. La convocatoria abierta también se difundirá y se hará del conocimiento 
 
 IV. De no ocurrir a la convocatoria más de tres aspirantes, el ayuntamiento deberá emitir una segunda convocatoria dentro de los 10 días naturales siguientes al vencimiento de la primera convocatoria;
 
-V. En caso de no presentarse suficientes aspirantes a la segunda convocatoria para integrar la terna, los miembros del ayuntamiento podrán proponer como aspirantes a personas que se distingan por su honorabilidad o reconocida autoridad moral, respetabilidad y disposición de servicio con sentido humanista a los más desprotegidos, remitiendo sus expedientes y cédulas personales a la Comisión de Derechos Humanos del Estado de México, para que de entre ellos se elija la terna que se enviará al ayuntamiento para la designación respectiva;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 15 DE JUNIO DE 2016)</small>
+
+V. En caso de no presentarse suficientes aspirantes a la segunda convocatoria para integrar la terna, los miembros del ayuntamiento podrán proponer como aspirantes a personas que se distingan por su honorabilidad o reconocida autoridad moral, respetabilidad y disposición de servicio con sentido humanista a los más desprotegidos. La emisión de la terna corresponderá a la Comisión de Derechos Humanos del Estado de México, en base a la propuesta de la Comisión Municipal de Derechos Humanos, quien deberá previamente escuchar la opinión de la sociedad civil, organismos públicos y privados que tengan por objeto la defensa y protección de los derechos humanos, terna que será sometida a la consideración del cabildo para la designación del Defensor Municipal de Derechos Humanos.
 
 VI. Si al inicio de la administración municipal no se cuenta con un Defensor Municipal de Derechos Humanos, el ayuntamiento deberá emitir la convocatoria respectiva a más tardar dentro de los quince días naturales siguientes a que se le haya tomado la protesta de ley; y
 
-VII. Una vez acordada la publicación de la convocatoria abierta por parte del ayuntamiento, copia de la misma será remitida a la Comisión de Derechos Humanos del Estado de México.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2009)</small>
+VII. (DEROGADA, G.G. 15 DE JUNIO DE 2016)
 
-Artículo 147 B.- El incumplimiento en la emisión de la convocatoria, de quien no la ordene o no la ejecute, será motivo de responsabilidad administrativa, existiendo acción pública para tal efecto, la cual podrá ser informada al Órgano de Control Interno de la Legislatura Estatal por la Comisión de Derechos Humanos del Estado de México.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
+
+Artículo 147 B.- El incumplimiento en la emisión de la convocatoria, de quien no la ordene o no la ejecute, será motivo de responsabilidad administrativa, existiendo acción pública para tal efecto, la cual podrá ser informada al Órgano de Control Interno de la Legislatura Estatal.
 
 Artículo 147 B Bis.- (DEROGADO, G.G. 6 DE AGOSTO DE 2009)
 
-> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Artículo 147 C.- La Defensoría Municipal de los Derechos Humanos es un órgano autónomo del ayuntamiento respectivo, que para el ejercicio de sus funciones debe coordinarse con la Comisión de Derechos Humanos del Estado de México.
+> <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
 
-El Defensor Municipal de los Derechos Humanos se constituye en el enlace de coordinación entre las organizaciones no gubernamentales y la Comisión de Derechos Humanos del Estado de México, sin perjuicio de las demás atribuciones que establece la Ley de la Comisión de Derechos Humanos del Estado de México.
-
-Las percepciones del Defensor Municipal de Derechos Humanos no podrán ser inferiores a las que correspondan al nivel de director de área en cada ayuntamiento.
+Artículo 147 C.- La Defensoría Municipal de los Derechos Humanos para el ejercicio de sus funciones debe coordinarse con la Comisión de Derechos Humanos del Estado de México.
 
 > <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -2559,19 +2571,25 @@ VII. Publicación de resultados.
 
 Artículo 147 D Bis.- (DEROGADO, G.G. 6 DE AGOSTO DE 2009)
 
-> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Artículo 147 E.- La Secretaría del ayuntamiento recibirá las solicitudes y documentación de los aspirantes, acusando de recibido y con el folio respectivo y lo hará del conocimiento del ayuntamiento en la sesión de cabildo ordinaria siguiente, a fin de acordar su remisión a la Comisión de Derechos Humanos del Estado de México, para la Declaratoria de Terna, en no más de cinco días hábiles, acompañando copia certificada del punto de acuerdo respectivo.
+> <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
 
-> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2009)</small>
+Artículo 147 E.- La Secretaría del ayuntamiento recibirá las solicitudes y documentación de los aspirantes, acusándolo de recibido y con el folio respectivo y lo hará del conocimiento del ayuntamiento en la sesión de cabildo ordinaria siguiente, a fin de acordar su remisión a la Comisión Municipal de Derechos Humanos, para la declaratoria de terna, en no más de cinco días hábiles, acompañando copia certificada del punto de acuerdo respectivo.
 
-Artículo 147 F.- Una vez recibida en la Comisión de Derechos Humanos del Estado de México, la documentación de los aspirantes a Defensor Municipal de Derechos Humanos, se realizará el estudio respectivo y en un término de veinte días hábiles se emitirá la Declaratoria de Terna, la cual en diez días hábiles será notificada al ayuntamiento.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Los puntos no previstos en la convocatoria respectiva, serán resueltos conjuntamente por la Comisión de Derechos Humanos del Estado de México y el ayuntamiento respectivo.
+> <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
 
-> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2009)</small>
+Artículo 147 F.- Una vez recibida la documentación de los aspirantes en la Comisión Municipal de Derechos Humanos, previo estudio y consulta con la sociedad civil organizada, organismos públicos y privados, se emitirá la declaratoria de terna, en un término no mayor a diez días hábiles.
 
-Artículo 147 G.- La Comisión de Derechos Humanos del Estado de México notificará al ayuntamiento la declaratoria de Terna y éste lo comunicará a los aspirantes propuestos, a fin de que en la siguiente sesión ordinaria de cabildo, expongan su propuesta de plan de trabajo. Serán los integrantes del ayuntamiento quienes en cabildo decidan la designación del Defensor Municipal de Derechos Humanos.
+Los puntos no previstos en la convocatoria respectiva serán resueltos por el Ayuntamiento.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
+
+Artículo 147 G.- La Comisión Municipal de Derechos Humanos remitirá al cabildo la declaratoria de terna correspondiente, para que la comunique a los aspirantes propuestos, para que en la siguiente sesión ordinaria, expongan su propuesta de plan de trabajo. Será el cabildo quien designe al Defensor Municipal de Derechos Humanos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE MARZO DE 2011)</small>
 
@@ -2597,7 +2615,11 @@ III. Tener preferentemente licenciatura, así como experiencia o estudios en der
 
 IV. Tener más de 23 años al momento de su designación;
 
-V. Gozar de buena fama pública y no haber sido condenado por sentencia ejecutoriada por delito internacional;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 15 DE JUNIO DE 2016)</small>
+
+V. Gozar de buena fama pública y no haber sido condenado por sentencia ejecutoriada por delito intencional.
 
 VI. No haber sido sancionado en el desempeño de empleo, cargo o comisión en los servicios públicos federal, estatal o municipal, con motivo de alguna recomendación emitida por organismos públicos de derechos humanos; y
 
@@ -4420,3 +4442,15 @@ G.G. 1 DE JUNIO DE 2016.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 15 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 93.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO Y DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente del inicio de la vigencia del decreto que reforma los párrafos primero y cuarto del artículo 5, el párrafo primero del artículo 7, el párrafo primero del artículo 16 y adiciona seis últimos párrafos al mismo, de la Constitución Política del Estado Libre y Soberano de México.
+
+TERCERO. El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México deberá realizar las modificaciones correspondientes a la normatividad del Organismo, dentro de los ciento veinte días hábiles siguientes a la entrada en vigor de este Decreto.
+
+CUARTO. Se dejan sin efecto las disposiciones que se opongan al presente decreto.
