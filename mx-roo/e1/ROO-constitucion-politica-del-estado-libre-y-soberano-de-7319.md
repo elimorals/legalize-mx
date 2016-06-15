@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2015-11-17"
+last_updated: "2016-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -256,6 +256,10 @@ No se reputará ilegal ni podrá ser disuelta una asamblea o reunión cuyo objet
 ###### ARTICULO 19.
 
 Los derechos de tránsito por el Estado, y mudar de residencia dentro del mismo, no requerirán de documento alguno, pero estarán supeditados a las facultades de la autoridad judicial en los casos de responsabilidad civil o criminal, y a la autoridad administrativa por cuanto a las limitaciones que impongan las leyes sobre migración, y las que se establezcan con arreglo a disposiciones federales y locales en materia de salubridad.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2016)</small>
+
+Se reconoce el derecho de toda persona y colectividad, a la movilidad bajo los principios de igualdad, accesibilidad, sostenibilidad y equilibrio con el medio ambiente. Toda persona con discapacidad tiene derecho a que se facilite su movilidad y a la supresión de todas las barreras arquitectónicas para su desplazamiento.
 
 ###### ARTICULO 20.
 
@@ -4686,3 +4690,9 @@ P.O. 17 DE NOVIEMBRE DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 405 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 19 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
