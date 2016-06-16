@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2016-04-13"
+last_updated: "2016-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 16 DE JUNIO DE 2016.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -137,6 +137,10 @@ B) La Subsecretaría de Sistema Penitenciario, a la que quedan adscritas:
 > <small>(ADICIONADO, G.O. 22 DE AGOSTO DE 2012)</small>
 
 6. Dirección Ejecutiva de Control y Seguimiento de Sentenciados en Libertad.
+
+> <small>(ADICIONADO, G.O. 16 DE JUNIO DE 2016)</small>
+
+7. Dirección Ejecutiva de Agentes de Seguridad Procesal.
 
 C) La Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental, a la que quedan adscritas:
 
@@ -2863,6 +2867,28 @@ XIV. Instrumentar el cumplimiento de las disposiciones del Juez de Ejecución qu
 XV. Crear un módulo en el Sistema de Información Penitenciaria que permita llevar el seguimiento y control de los sentenciados en libertad; y
 
 XVI. Conformar el Archivo de Expedientes de Sentenciados en Libertad de conformidad a lo establecido en las disposiciones legales de la materia y a la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 40 Septies.
+
+Son atribuciones de la Dirección Ejecutiva de Agentes de Seguridad Procesal, las siguientes:
+
+I. Coordinar los traslados de imputados o sentenciados que se encuentren en prisión hacia los lugares en que se ubiquen las sedes judiciales, así como la guarda y custodia en los trayectos e instalaciones judiciales en la Ciudad de México;
+
+II. Coordinar los servicios de seguridad en las salas de audiencia en materia penal, cumpliendo con las medidas de seguridad, medidas especiales o los mecanismos necesarios que determinen los órganos jurisdiccionales;
+
+III. Proponer los protocolos de actuación para el traslado, guarda y custodia de imputados o sentenciados y seguridad en salas de audiencia en materia penal;
+
+IV. Colaborar en el marco de su competencia, con las instituciones de Procuración de Justicia, Seguridad Pública, Sistema Penitenciario y demás autoridades federales y locales, en los casos que así se requiera de conformidad con lo previsto en la normatividad aplicable;
+
+V. Implementar mecanismos de control para garantizar que los agentes de seguridad procesal cumplan con las órdenes e instrucciones que se reciban de las autoridades judiciales;
+
+VI. Coordinar con las áreas competentes de la Secretaría de Gobierno, los procesos de ingreso y capacitación de los agentes de seguridad procesal;
+
+VII. Dar seguimiento a las denuncias que se presenten en contra de los agentes de seguridad procesal con motivo del ejercicio de sus atribuciones; y
+
+VIII. Las demás que instruya el titular de la Secretaría de Gobierno, de la Subsecretaría de Sistema Penitenciario y las que se confieran en otros instrumentos jurídicos o administrativos.
 
 ###### Artículo 41.
 
@@ -19063,3 +19089,13 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Los asuntos en trámite y archivos serán entregados a aquellas áreas que asuman las atribuciones relativas a los mismos o a las que determine el Titular de la Dependencia en términos de la normatividad aplicable.
 
 CUARTO.- La Dirección General de Administración de la Oficialía Mayor hará lo conducente en relación a los recursos humanos, financieros y materiales para atender las modificaciones de la Oficialía Mayor en términos de la normatividad vigente.
+
+G.O. 16 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación.
+
+TERCERO.- A la Dirección Ejecutiva de Agentes de Seguridad Procesal, se le transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezca la Secretaría de Finanzas y la Oficialía Mayor durante el mes de junio del año en curso.
