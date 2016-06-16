@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-70382"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-27"
-last_updated: "2014-11-25"
+last_updated: "2016-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2016.
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO No. LXI-586, PUBLICADO EN EL P.O. 18 DE DICIEMBRE DE 2012, TODA MENCIÓN, O REFERENCIA QUE SE HAGA DE LA "SUBSECRETARÍA DE REINSERCIÓN SOCIAL Y DE LA COORDINACIÓN GENERAL DE REINSERCIÓN SOCIAL Y EJECUCIÓN DE SANCIONES O DE SUS TITULARES", EN CUALQUIER DISPOSICIÓN JURÍDICA DEL ESTADO, SE ENTENDERÁ HECHA A LA "SUBSECRETARÍA DE EJECUCIÓN DE SANCIONES Y REINSERCIÓN SOCIAL Y A SU TITULAR, EL SUBSECRETARIO DE EJECUCIÓN DE SANCIONES Y REINSERCIÓN SOCIAL".</small>
 
@@ -2093,9 +2093,11 @@ Respecto a los procedimientos penales que a la entrada en vigor del presente Dec
 
 El Consejo de la Judicatura del Estado proveerá lo conducente para contar con los órganos judiciales y auxiliares necesarios del Sistema de Justicia Penal Acusatorio y Oral, conforme a los requerimientos y gradualidad de la implementación.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO QUINTO.
 
-El Consejo de la Judicatura del Estado, en razón de la cantidad de causas penales que existiesen durante el desarrollo de la implementación del Sistema de Justicia Penal Acusatorio y Oral, podrá facultar a los Jueces de Control para actuar en los diferentes Distritos que integran la Región Judicial que les corresponda; y a los Tribunales de Enjuiciamiento para actuar de manera itinerante y realizar sus atribuciones en las diferentes Regiones Judiciales. Asimismo, en la designación de Jueces de Control y de quienes integren Tribunales de Enjuiciamiento, designación de Jueces de Control el Consejo podrá habilitar a Jueces de Primera Instancia, que estén suficientemente capacitados, para que temporalmente realicen las funciones inherentes a dicho Sistema, sin dejar de atender las relativas a su encargo.
+La competencia territorial de los Jueces de Control y de los Tribunales de Enjuiciamiento se determina en función a la región judicial a que sean adscritos por el Consejo de la Judicatura del Estado; sin embargo, en razón a las necesidades del servicio y en tanto se consolida la implementación del Sistema Penal Acusatorio y Oral, éste podrá facultar expresamente a los Tribunales de Enjuiciamiento para actuar en diversas regiones judiciales de manera itinerante. Asimismo, el Consejo podrá habilitar a Jueces del Sistema Tradicional para que actúen como operadores del Sistema de Justicia Penal Acusatorio y Oral sin dejar de atender las funciones relativas a su cargo.
 
 P.O. 25 DE NOVIEMBRE DE 2014.
 
@@ -2130,3 +2132,15 @@ La Universidad de Seguridad y Justicia, realizará las gestiones relativas ante 
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE JUNIO DE 2016.
+
+> <small>[N. DE E. TRANSITORIOS DEL“DECRETO NO. LXII-964 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NO. LXII-249, DEL 25 DE JUNIO DE 2014 Y PUBLICADO EN EL PERIÓDICO OFICIAL NO. 77, DEL 26 DE JUNIO DE 2014, Y SE ABROGA LA LEY DE JUSTICIA DE PAZ PARA EL ESTADO DE TAMAULIPAS, EXPEDIDA MEDIANTE DECRETO NO. LIX-935, DEL 31 DE MAYO DE 2007, PUBLICADA EN EL PERIÓDICO OFICIAL NO. 92 DEL 1 DE AGOSTO DE 2007".]</small>
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Todos los procesos y recursos iniciados con las disposiciones que mediante el presente Decreto, se reforman o adicionan, deberán concluirse con el procedimiento mediante el cual se iniciaron; sin embargo, para efecto de la competencia jurisdiccional en materia penal de los juzgados menores, se atenderá al contenido de las declaratorias emitidas por el Congreso del Estado para la operación del Sistema de Justicia Penal Acusatorio y Oral, conforme a las fechas de vigencia, territorio y delitos en ellas precisados.
