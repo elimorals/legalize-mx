@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2016-02-16"
+last_updated: "2016-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2016.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -3149,17 +3149,23 @@ La filiación de los hijos procreados fuera de matrimonio, sólo se establece po
 
 Si dentro del procedimiento correspondiente se oferta una prueba científica a fin de acreditar la filiación y el presunto progenitor se niega a proporcionar la muestra necesaria, se presumirá, salvo prueba en contrario, que es la madre o el padre.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
 ###### Art. 492.
 
-Pueden reconocer a sus hijos, los que tengan la edad exigida para contraer matrimonio, más la edad del hijo que va a ser reconocido.
+Pueden reconocer a sus hijos, quienes tengan dieciocho años, edad exigida para contraer matrimonio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### Art. 493.
 
-La niña, niño o adolescente podrá reconocer a sus hijos, sin el consentimiento de sus padres o tutores; pero tal reconocimiento no producirá efectos mientras no sea ratificado por la Procuraduría de Protección de Niñas, Niños y Adolescentes, quien deberá emitir su dictamen dentro de los sesenta días siguientes.
+La persona menor de edad podrá reconocer a sus hijos:
+
+I. Con el consentimiento de quien o quienes ejerzan sobre ella la patria potestad o tutela; o
+
+II. Sin el consentimiento de su padres o tutores, pero tal reconocimiento producirá efectos al ser ratificado por la Procuraduría de Protección de Niñas, Niños y Adolescentes, misma que podrá realizar las valoraciones y acciones que estime pertinentes para tal efecto, quien deberá emitir su dictamen dentro de los treinta días naturales siguientes, independientemente de continuar brindando el seguimiento correspondiente.
+
+Si transcurrido el plazo anterior, la Procuraduría no ratifica, el oficial de registro civil la exhortará para que lo haga en un plazo no mayor a 15 días naturales, si no lo ratifica, tal reconocimiento surtirá sus efectos de pleno derecho y se sancionará la omisión de conformidad a lo previsto en la Ley de Responsabilidades para los Servidores Públicos del Estado de Jalisco.
 
 ###### Art. 494.
 
@@ -19106,3 +19112,9 @@ P.O. 16 DE FEBRERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25793/LXI/16 QUE REFORMA EL ARTÍCULO 405 BIS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+P.O. 16 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25838/LXI/16 QUE REFORMA LOS ARTÍCULOS 492 Y 493 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
