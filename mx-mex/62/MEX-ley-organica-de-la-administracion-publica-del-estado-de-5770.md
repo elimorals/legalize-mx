@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2016-06-06"
+last_updated: "2016-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE JUNIO DE 2016.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -319,7 +319,9 @@ XXVII. Ejercer las atribuciones que la Constitución Política de los Estados Un
 
 XXVIII. Ejercer el mando directo de las instituciones policiales del Estado, en los términos de la ley de la materia y demás disposiciones jurídicas aplicables, a fin de salvaguardar la integridad física y los derechos de las personas, así como preservar las libertades, el orden y la paz públicos;
 
-XXIX. (DEROGADA, G.G. 17 DE DICIEMBRE DE 2014) (F. DE E., G.G. 19 DE DICIEMBRE DE 2014)
+> <small>(ADICIONADA, G.G. 16 DE JUNIO DE 2016)</small>
+
+XXIX. Ejercer el mando directo de la policía procesal, de las áreas de espera de detenidos puestos a disposición de juez para audiencia, y aplicar los protocolos nacionales autorizados por el Consejo Nacional de Seguridad Pública;
 
 > <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -2975,13 +2977,17 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 827 DEL H. CONGRESO DEL ESTADO.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SINALOA”.]
+G.G. 16 DE JUNIO DE 2016.
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 97.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO Y LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
 
-SEGUNDO. El Ejecutivo del Estado en un plazo que no deberá exceder los 60 días naturales a la entrada en vigor del presente Decreto, realizará las adecuaciones reglamentarias, de estructura orgánica y presupuestales para la conformación de la Consejería Jurídica, la cual quedará adscrita directamente a su cargo.
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
-P.O. 11 DE SEPTIEMBRE DE 2020.
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones del igual o menor jerarquía que se opongan al presente Decreto.
+
+CUARTO. Respecto a las adiciones a los artículos 70 y 70 Bis del Código Penal del Estado de México, el otorgamiento del beneficio estará condicionado además a la disponibilidad de los dispositivos electrónicos y a la suficiencia presupuestal para su ejecución.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 487 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE GOBIERNO MUNICIPAL, LEY ORGÁNICA DEL PODER JUDICIAL, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA, LEY ORGÁNICA DE LA FISCALÍA GENERAL, LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LEY DEL SISTEMA ANTICORRUPCIÓN, LEY DE SEGURIDAD PÚBLICA Y LEY ORGÁNICA DEL CONGRESO, TODAS DEL ESTADO DE SINALOA”.]
 
