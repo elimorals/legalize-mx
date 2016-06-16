@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-procuraduria-general-de-justicia-del-67783"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-03-20"
-last_updated: "2015-08-17"
+last_updated: "2016-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE JUNIO DE 2016.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 20 de marzo de 2009.
 
@@ -233,9 +233,13 @@ XXX. Llevar a cabo las acciones necesarias para solicitar la declaración de aba
 
 XXXI. Ejercer la acción penal cuando proceda;
 
-XXXII. Solicitar, cuando fuere procedente, la orden de aprehensión, reaprehensión, de comparecencia o de cita;
+> <small>(REFORMADA, G.G. 16 DE JUNIO DE 2016)</small>
 
-XXXIII. Poner a disposición de la autoridad judicial a las personas dentro de los plazos establecidos por la Ley;
+XXXII. Solicitar por escrito, por medio electrónico autorizado por el Poder Judicial o comparecencia, cuando fuere procedente, la orden de aprehensión, reaprehensión, de comparecencia o de cita, así como cualquier autorización judicial y las audiencias;
+
+> <small>(REFORMADA, G.G. 16 DE JUNIO DE 2016)</small>
+
+XXXIII. Poner a disposición de la autoridad judicial a las personas dentro de los plazos establecidos por la Ley, en el caso de personas retenidas o aprehendidas las ingresará al área de espera de los centros de la Dirección General de Prevención y Readaptación Social del distrito judicial que corresponda o en donde existan las condiciones de seguridad;
 
 XXXIV. Promover el sobreseimiento del procedimiento cuando se cumplan los mecanismos alternativos de solución de controversias, soluciones alternas o formas anticipadas de terminación del proceso penal, cuando proceda en términos de la legislación aplicable;
 
@@ -1196,3 +1200,15 @@ DÉCIMO TERCERO. Los recursos del Fondo de Ayuda, Asistencia y Reparación Integ
 DÉCIMO CUARTO. Los recursos de cualquier fondo de carácter estatal cuyo objeto sea la atención de las víctimas del delito, se transferirán al Fondo Estatal de Ayuda, Asistencia y Reparación Integral para la Protección a las Víctimas y Ofendidos del Delito previsto en la presente Ley.
 
 DÉCIMO QUINTO. Se derogan las disposiciones legales y administrativas que se opongan a lo dispuesto en el presente Decreto.
+
+G.G. 16 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 97.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO Y LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+CUARTO. Respecto a las adiciones a los artículos 70 y 70 Bis del Código Penal del Estado de México, el otorgamiento del beneficio estará condicionado además a la disponibilidad de los dispositivos electrónicos y a la suficiencia presupuestal para su ejecución.
