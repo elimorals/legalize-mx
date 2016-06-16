@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2015-09-29"
+last_updated: "2016-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE JUNIO DE 2016.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -3006,9 +3006,17 @@ Las penas se aumentarán en dos terceras partes cuando el delito se realice por 
 
 Además de las penas señaladas en el primer párrafo, se impondrá de dos a seis años de prisión, cuando en la comisión del delito:
 
-I. Intervenga una o más personas armadas, o portando instrumentos peligrosos; o
+> <small>(REFORMADA, G.O. 16 DE JUNIO DE 2016)</small>
 
-II. Se emplee violencia física.
+I. Intervenga una o más personas armadas, o portando instrumentos peligrosos;
+
+> <small>(REFORMADA, G.O. 16 DE JUNIO DE 2016)</small>
+
+II. Se emplee violencia física; o
+
+> <small>(ADICIONADA, G.O. 16 DE JUNIO DE 2016)</small>
+
+III. Se emplee cualquier mecanismo o amenaza, para hacer creer a la víctima, la supuesta intervención en el delito de algún grupo vinculado a la delincuencia organizada o asociación delictuosa sin ser ello cierto, aún y cuando ello sea solo para lograr que la víctima no denuncie el hecho.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 8 DE ENERO DE 2008)</small>
 
@@ -5505,3 +5513,13 @@ PRIMERO. Remítase al Jefe de Gobierno del Distrito Federal para su promulgació
 SEGUNDO. Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
 TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 16 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 236 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL".]
+
+Artículo Primero.- El presente decreto entrará en vigor a los 30 días siguientes a su publicación en la Gaceta Oficial del Distrito.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+Artículo Tercero.- Los procedimientos que se hayan iniciado antes de la entrada en vigor del presente decreto, deberán concluirse aplicando la ley vigente al momento de la supuesta comisión del delito.
