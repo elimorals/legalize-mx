@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-justicia-para-adolescentes-del-estado-de-guanajuato-5137
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-01"
-last_updated: "2016-05-20"
+last_updated: "2016-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51378&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO PÁRRAFO DEL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NACIONAL DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES, PUBLICADA EN LA EDICIÓN VESPERTINA DEL D.O.F. DE 16 DE JUNIO DE 2016, ESTABLECE QUE "SE ABROGAN TAMBIÉN LAS LEYES RESPECTIVAS DE LAS ENTIDADES FEDERATIVAS VIGENTES" A LA ENTRADA EN VIGOR DE DICHA LEY.]</small>
+
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JUNIO DE 2016.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 1 de agosto de 2006.
 
@@ -2124,3 +2126,79 @@ Artículo Segundo. Se derogan los preceptos que se opongan a las disposiciones d
 Artículo Tercero. Los hechos sucedidos con anterioridad a la entrada en vigor del presente Decreto, así como los procedimientos de justicia para adolescentes y la ejecución de las medidas sancionadoras iniciados con antelación a la vigencia del mismo, seguirán tramitándose conforme a las disposiciones vigentes al momento de la comisión de los hechos.
 
 Artículo Cuarto. No procederá la acumulación de procedimientos cuando alguno de ellos se esté tramitando conforme al presente Decreto y el otro conforme a las disposiciones de esta ley que se derogan o modifican.
+
+D.O.F. 16 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY NACIONAL DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES".]
+
+Artículo Primero. Vigencia
+
+Para los efectos señalados en el párrafo tercero del artículo segundo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 18 de junio de 2008, se declara que la presente legislación incorpora el Sistema Procesal Penal Acusatorio y entrará en vigor el 18 de junio de 2016.
+
+Los requerimientos necesarios para la plena operación del Sistema Integral de Justicia Penal para Adolescentes deberán estar incorporados en un plazo no mayor a tres años a partir de la fecha de entrada en vigor del presente Decreto.
+
+Artículo Segundo. Abrogación
+
+Se abroga la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en Materia Común y para toda la República en Materia Federal, publicada en el Diario Oficial de la Federación el 24 de diciembre de 1991 y sus posteriores reformas.
+
+Se abrogan también las leyes respectivas de las entidades federativas vigentes a la entrada en vigor del presente Decreto, para efectos de su aplicación en los procedimientos penales para adolescentes iniciados por hechos que ocurran a partir de la entrada en vigor de la presente Ley.
+
+Artículo Tercero. Carga cero
+
+Los procedimientos penales para adolescentes que a la entrada en vigor del presente ordenamiento se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
+
+Artículo Cuarto. Mecanismos de la revisión de las medidas de privación de libertad
+
+Tratándose de aquellas medidas de privación de la libertad de personas adolescentes que hubieren sido decretadas por mandamiento de autoridad judicial durante los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto; la persona adolescente sentenciada, su defensa o la persona que lo represente, podrá solicitar al Órgano Jurisdiccional competente la revisión de dicha medida conforme a las disposiciones del nuevo Sistema de Justicia para Adolescentes, aplicando siempre las disposiciones que más le beneficien, para efecto de que habiéndose dado vista a las partes y efectuada la audiencia correspondiente, el Órgano Jurisdiccional resuelva conforme el interés superior de la niñez sobre la imposición, revisión, modificación o cese, en términos de las disposiciones aplicables.
+
+Artículo Quinto. Derogación tácita de preceptos incompatibles
+
+Quedan derogadas todas las normas que se opongan al presente Decreto.
+
+Artículo Sexto. Convalidación o regularización de actuaciones
+
+Cuando por razón de competencia por fuero o territorio, se realicen actuaciones, el Órgano Jurisdiccional receptor podrá convalidarlas, siempre que de manera, fundada y motivada, se concluya que se respetaron las garantías esenciales del debido proceso en el procedimiento de origen.
+
+Artículo Séptimo. Certificación de facilitadores.
+
+Para la certificación de los facilitadores que se señala en el artículo 3, fracción VIII de esta Ley, se estará a lo que establece la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, Capítulo I, artículo 47, criterios mínimos de certificación. Dicha especialización, para los actuales operadores deberá concluirse en un plazo máximo de un año a partir de la entrada en vigor de esta Ley.
+
+Artículo Octavo. Prohibición de acumulación de procesos
+
+No procederá la acumulación de procedimientos de justicia para adolescentes, cuando alguno de ellos se esté tramitando conforme a la presente Ley y el otro procedimiento conforme a la Ley anterior.
+
+Artículo Noveno. De los planes de implementación
+
+La secretaria técnica del Consejo de Coordinación para la Implementación del Sistema de Justicia Penal, así como los Órganos Implementadores de las entidades federativas, deberán realizar los programas para el adecuado y correcto funcionamiento y cumplir con los objetivos para la operatividad del Sistema Integral de Justicia Penal para Adolescentes en coordinación con todos los operadores del Sistema Integral de Justicia.
+
+Artículo Décimo. De la evaluación del Sistema
+
+El Consejo de Coordinación para la Implementación del Sistema de Justicia Penal, instancia de coordinación Nacional creará un comité para la evaluación y seguimiento de la implementación de todas las acciones que se requieren para lograr la adecuada implementación de las normas del presente Decreto.
+
+Articulo Décimo Primero. Adecuación normativa y operativa
+
+Deberán establecerse los Protocolos que se requieren para la operación del Sistema Integral de Justicia Penal para Adolescentes en un plazo de 180 días contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Décimo Segundo. Legislación complementaria
+
+En un plazo que no exceda de 200 días naturales después de publicado el presente Decreto, la Federación y las entidades federativas deberán publicar las reformas a sus leyes y demás normatividad complementaria que resulten necesarias para la implementación de esta Ley.
+
+Artículo Décimo Tercero. Procuradurías de Protección
+
+En las entidades en las que no existan las Procuradurías de Protección que se contemplan en la Ley General de los Derechos de Niñas, Niños y Adolescentes, las facultades otorgadas a estas Procuradurías por esta Ley serán atribuidas a los Sistemas Nacional y Estatales de Desarrollo Integral de la Familia según corresponda, hasta en tanto dichas Procuradurías sean creadas.
+
+Artículo Décimo Cuarto. Plazos para reformar otras disposiciones legales
+
+El Congreso de la Unión contará con un plazo de 180 días naturales a partir de la publicación de la presente Ley, para reformar la Ley General del Sistema Nacional de Seguridad Pública, a efecto de incluir en la organización del Sistema Nacional de Seguridad Pública, a la Conferencia Nacional de Autoridades Administrativas Especializadas en la Ejecución de Medidas para Adolescentes, que estará integrada por los titulares en la materia de cada Entidad Federativa y del Poder Ejecutivo Federal.
+
+Esta Conferencia estará encabezada por el titular de la Comisión Nacional de Seguridad y contará con un Secretario Técnico que será el Comisionado del Órgano Administrativo Desconcentrado de Prevención y Readaptación Social. Tendrá como objetivo principal constituirse como la instancia de análisis, difusión e instrumentación de la política pública en materia de ejecución de las medidas para adolescentes, y propiciará la homologación de normas administrativas en cada Entidad Federativa.
+
+Artículo Décimo Quinto. Ejercicio de los recursos
+
+Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y la entidad competente de la Administración Pública Federal y al Poder Judicial Federal y de las entidades federativas, se cubrirán con cargo a sus presupuestos para el presente ejercicio fiscal y los subsecuentes.
+
+Asimismo, las entidades federativas deberán realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a las obligaciones establecidas en este Decreto.
+
+Artículo Décimo Sexto. Coordinación de programas para la prevención del delito.
+
+Las autoridades de la federación, de las entidades federativas, de los municipios y de las demarcaciones territoriales de la Ciudad de México, con el objeto de dar cumplimiento a lo previsto en los artículos 189, 254 y 155 de la Ley que se expide por virtud del presente Decreto, deberán implementar las políticas y acciones correspondientes, conforme a los programas vigentes y alineados a la política de prevención social de la violencia y la delincuencia.
