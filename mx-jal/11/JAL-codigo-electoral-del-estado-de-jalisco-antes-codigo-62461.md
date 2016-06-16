@@ -4,7 +4,7 @@ identifier: "JAL-codigo-electoral-del-estado-de-jalisco-antes-codigo-62461"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-08-05"
-last_updated: "2014-07-08"
+last_updated: "2016-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # CODIGO ELECTORAL DEL ESTADO DE JALISCO -- ANTES CODIGO ELECTORAL Y DE PARTICIPACION SOCIAL DEL ESTADO DE JALISCO -- ANTES CODIGO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO --
 
-CÓDIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO
+CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2016.
 
 Código publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 5 de agosto de 2008.
 
@@ -35,7 +35,9 @@ NÚMERO 22272/LVIII/08 EL CONGRESO DEL ESTADO DECRETA:
 
 ÚNICO. Se ratifica el decreto 22271/LVIII/08, mediante el cual se expide el Código Electoral y de Participación Ciudadana del Estado de Jalisco, por lo que se envía la minuta correspondiente, al Ejecutivo del Estado, para su publicación en los términos del artículo 33 de la Constitución Política del Estado de Jalisco.
 
-CÓDIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2016)</small>
+
+CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL DEL ESTADO DE JALISCO
 
 # Libro Primero. De la Integración de los Poderes Legislativo, Ejecutivo del Estado y Ayuntamientos
 
@@ -51,7 +53,9 @@ II. El ejercicio de la función electoral;
 
 III. La organización de los actos y procedimientos relativos a la preparación, desarrollo y vigilancia de los procesos electorales ordinarios y extraordinarios, para elegir a los integrantes del Poder Legislativo, al Titular del Poder Ejecutivo y a los miembros de los Ayuntamientos en el Estado de Jalisco;
 
-IV. La organización, preparación, desarrollo y vigilancia de los procesos de referéndum, plebiscito y el trámite de la iniciativa popular;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+IV. Los mecanismos e instrumentos de participación social que prevea este Código;
 
 V. El procedimiento aplicable en el ámbito estatal para constituir, registrar y reconocer a los partidos y agrupaciones políticas estatales; así como el relativo al acreditamiento de los partidos y agrupaciones políticas nacionales;
 
@@ -129,7 +133,9 @@ XII. Comisión de Organización: La Comisión de Organización Electoral del Ins
 
 XIII. Comisión de Investigación: La Comisión de Investigación y Estudios Electorales del Instituto Electoral;
 
-XIV. (DEROGADA, P.O. 8 DE JULIO DE 2014)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2016)</small>
+
+XIV. Comité de Participación: Comité de Participación Social, que es el órgano consultivo de la Comisión de Participación Ciudadana;
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -1229,9 +1235,11 @@ Artículo 113 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 ## Título Primero. Disposiciones Preliminares
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
 Artículo 114
 
-1. El Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, depositario de la autoridad electoral, es responsable del ejercicio de la función estatal de organizar las elecciones y los procedimientos de referéndum y el plebiscito.
+1. El Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, depositario de la autoridad electoral, es responsable del ejercicio de la función estatal de organizar las elecciones y los procedimientos de los instrumentos de participación social que por este código les corresponden.
 
 Artículo 115
 
@@ -1241,7 +1249,9 @@ Artículo 115
 
 I. Participar del ejercicio de la función electoral, en la forma y términos que determina la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado, la Ley General y demás leyes aplicables, así como ejercer las funciones en la materia que le conceden las mismas;
 
-II. Preparar, organizar y vigilar los procesos de referéndum y plebiscito;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+II. Organizar, desarrollar, computar y declarar los resultados de los mecanismos de participación social;
 
 III. Recibir y resolver en los términos de este Código los proyectos de iniciativa popular;
 
@@ -1332,6 +1342,10 @@ a) Los Consejos Distritales Electorales;
 b) Los Consejos Municipales Electorales; y
 
 c) (DEROGADO, P.O. 8 DE JULIO DE 2014)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2016)</small>
+
+V. Un órgano consultivo, de la Comisión de Participación Ciudadana, que es el Comité de Participación Social.
 
 Artículo 119
 
@@ -1535,7 +1549,9 @@ XXVIII. Desintegrar y desinstalar los Consejos Distritales y Municipales Elector
 
 XXIX. Registrar en concurrencia con los Consejos Distritales y Municipales, los nombramientos de los Consejeros representantes de los partidos políticos que los integren;
 
-XXX. Asesorar y capacitar a organizaciones sociales e instituciones públicas o privadas, a solicitud de éstas, para la preparación y organización de elecciones internas;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+XXX. Asesorar y capacitar a los ciudadanos y a las organizaciones sociales e instituciones públicas o privadas, a solicitud de estos, para la preparación y organización de elecciones internas, así como en lo referente a los mecanismos de participación social en el Estado;
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -1549,7 +1565,9 @@ XXXIII. Aprobar anualmente a más tardar en el mes de Julio, el informe que rind
 
 XXXIV. Aprobar el texto de la convocatoria para la celebración de las elecciones constitucionales que contempla el presente ordenamiento legal, que será propuesto por el Presidente del Instituto Electoral;
 
-XXXV. Aprobar, a propuesta del Consejero Presidente, el texto de la convocatoria para la celebración de los procesos de referéndum y plebiscito que contempla el presente ordenamiento;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+XXXV. Aprobar, a propuesta del Consejero Presidente, el texto de la convocatoria para la celebración de los procesos de participación social de su competencia, en los términos que contempla el presente código;
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -1579,7 +1597,9 @@ XL. Aprobar el procedimiento e implementación total o parcial dentro de la geog
 
 XLI. Realizar por conducto del personal del Instituto Electoral las pruebas al líquido indeleble, antes y durante la jornada electoral;
 
-XLII. Recibir la solicitud, dictaminar sobre su procedencia, encargarse de la organización e implementación de los procesos de referéndum y plebiscito; y en su caso, declarar la validez de los mismos;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+XLII. Recibir la solicitud, emitir declaratoria sobre su procedencia, encargarse de la organización e implementación de los instrumentos de participación social, que le corresponda; y en su caso, declarar los resultados de los mismos;
 
 XLIII. Recibir la solicitud de proyecto de iniciativa popular, dictaminar sobre su procedencia, verificar el cumplimiento de los requisitos legales y, cuando proceda, remitir al Congreso del Estado la iniciativa popular de ley;
 
@@ -1593,9 +1613,9 @@ XLV. Recibir y analizar las solicitudes y, si es el caso, autorizar el registro 
 
 XLVI. Implementar y operar el Programa de Resultados Electorales Preliminares de las elecciones que se lleven a cabo en la entidad, de conformidad con las reglas, lineamientos, criterios y formatos que para el efecto emita el Instituto Nacional Electoral;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-XLVII. Realizar la planeación de programas de educación cívica y evaluar la ejecución de los mismos;
+XLVII. Aprobar, promover y evaluar los programas de formación cívica, así como coadyuvar con las autoridades en materia de educación en el Estado para su implementación y difusión;
 
 XLVIII. Aprobar la celebración de convenios con organismos o instituciones públicas y privadas con objeto de lograr su colaboración para el cumplimiento de los fines del Instituto Electoral y ordenar su publicación en el Periódico Oficial El Estado de Jalisco;
 
@@ -1699,7 +1719,9 @@ XVI. (REFORMADA [N. DE E. DEROGADA], P.O. 31 DE DICIEMBRE DE 2009)
 
 XVII. Presentar para su aprobación al Consejo General el proyecto de convocatoria para las elecciones constitucionales;
 
-XVIII. Presentar para su aprobación al Consejo General el proyecto de convocatoria para la celebración de los procesos de plebiscito y referéndum;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+XVIII. Presentar para su aprobación al Consejo General el proyecto de convocatoria para la celebración de los instrumentos de participación social de su competencia;
 
 XIX. Proponer para su aprobación al Consejo General, para cada proceso electoral ordinario, el estudio sobre el costo y los topes en los gastos de campañas;
 
@@ -2543,29 +2565,59 @@ Artículo 200 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 Artículo 201 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
-### Capítulo Primero. Disposiciones Generales
+### Capítulo Único
 
-Artículo 217
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
 
-1. La etapa de preparación de la elección comprende los actos siguientes:
+###### Artículo 210
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+Artículo 210-A
 
-I. La aprobación por el Consejo General del Instituto Nacional Electoral, de la delimitación geográfica de los veinte distritos electorales uninominales en el territorio del Estado;
+1. El Comité de Participación Social es el órgano consultivo de la Comisión de Participación Social.
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+2. El Comité de Participación estará integrada por cinco ciudadanos cuyos cargos serán de carácter honorífico.
 
-II. La aprobación por el Consejo General del Instituto Nacional Electoral, de la delimitación geográfica y número de las secciones electorales que conformen cada distrito electoral uninominal;
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+###### Artículo 210
 
-III. La aprobación de los convenios marco entre el Instituto Electoral y el Instituto Nacional Electoral, para lograr el apoyo y colaboración en la organización, desarrollo y vigilancia del proceso electoral;
+B
 
-IV. La aprobación, en su caso, del modelo o sistema electrónico para la recepción del voto, cuando sea factible técnica y presupuestalmente y se garantice la vigencia de las disposiciones legales que amparan la libertad y secreto del voto ciudadano;
+1. Los integrantes del Comité de Participación serán electos por mayoría de votos del Pleno del Consejo General del Instituto, previa convocatoria pública, a través de un proceso de evaluación y observando el principio de igualdad de género, en los términos que dicte la reglamentación que para tal efecto emita el Instituto.
 
-V. Los procesos de selección de candidatos a cargos de elección popular y las precampañas Electorales; y
+2. Los integrantes del Comité de Participación durarán en su cargo dos años, pudiendo ser reelectos por un periodo adicional.
 
-VI. Cualquier otro que de manera justificada determine el Consejo General del Instituto Electoral.
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 210
+
+C
+
+1. Para ser integrante del Comité de Participación se requiere:
+
+I. Ser ciudadano y residente del Estado de Jalisco, en pleno ejercicio de sus derechos políticos y civiles;
+
+II. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político en los últimos cuatro años;
+
+III. No desempeñar ni haber desempeñado cargo de elección popular en los últimos cuatro años; y
+
+IV. Acreditar conocimientos y experiencia en la materia.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 210
+
+D
+
+1. Son atribuciones del Comité de Participación, las siguientes:
+
+I. Emitir recomendaciones sobre los mecanismos de participación social;
+
+II. Emitir recomendaciones respecto de los programas de socialización y capacitación ciudadana sobre los instrumentos de participación social, sus características y sus alcances;
+
+III. Emitir opiniones técnicas en materia de los instrumentos de participación social; y
+
+IV. Coadyuvar con las instancias competentes del Instituto en brindar asesoría en materia de participación social a los ciudadanos que lo soliciten.
 
 ## Título Séptimo. Registro Estatal de Electores
 
@@ -2598,6 +2650,38 @@ Artículo 208 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 Artículo 209 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 Artículo 210 (DEROGADO, P.O. 8 DE JULIO DE 2014)
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE JUNIO DE 2016)</small>
+
+## Título Noveno. Del Comité Consultivo de Participación Social
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE JUNIO DE 2016)</small>
+
+### Capítulo Primero. Disposiciones Generales
+
+Artículo 217
+
+1. La etapa de preparación de la elección comprende los actos siguientes:
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+
+I. La aprobación por el Consejo General del Instituto Nacional Electoral, de la delimitación geográfica de los veinte distritos electorales uninominales en el territorio del Estado;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+
+II. La aprobación por el Consejo General del Instituto Nacional Electoral, de la delimitación geográfica y número de las secciones electorales que conformen cada distrito electoral uninominal;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+
+III. La aprobación de los convenios marco entre el Instituto Electoral y el Instituto Nacional Electoral, para lograr el apoyo y colaboración en la organización, desarrollo y vigilancia del proceso electoral;
+
+IV. La aprobación, en su caso, del modelo o sistema electrónico para la recepción del voto, cuando sea factible técnica y presupuestalmente y se garantice la vigencia de las disposiciones legales que amparan la libertad y secreto del voto ciudadano;
+
+V. Los procesos de selección de candidatos a cargos de elección popular y las precampañas Electorales; y
+
+VI. Cualquier otro que de manera justificada determine el Consejo General del Instituto Electoral.
+
+# Libro Cuarto. Del Proceso Electoral
 
 ## Título Primero. Disposiciones Generales
 
@@ -2663,17 +2747,13 @@ Artículo 216
 
 1. Los ciudadanos y partidos políticos participarán en la organización, desarrollo y vigilancia del proceso electoral en los términos que señala la Constitución Política de los Estados Unidos Mexicanos, la del Estado, las leyes aplicables, este Código y sus reglamentos, así como los acuerdos que emita el Instituto Nacional Electoral y el Consejo General del Instituto Electoral.
 
+## Título Segundo. Preparación de la Elección
+
 ### Capítulo Segundo. Circunscripción Plurinominal Electoral
 
 Artículo 218
 
 1. Para los efectos de la elección de Diputados por el principio de representación proporcional, la delimitación de la circunscripción plurinominal electoral única, será la que corresponde al territorio del Estado.
-
-# Libro Cuarto. Del Proceso Electoral
-
-## Título Segundo. Preparación de la Elección
-
-## Título Tercero. Procedimiento de Registro de Candidatos
 
 ### Capítulo Tercero. Distritos Electorales Uninominales
 
@@ -2819,6 +2899,8 @@ Artículo 235
 
 ### Capítulo Primero. Del Registro de Candidatos
 
+## Título Tercero. Procedimiento de Registro de Candidatos
+
 ### Capítulo Primero. Disposiciones Generales
 
 Artículo 255
@@ -2832,50 +2914,6 @@ Artículo 255
 4. Tanto la propaganda electoral como las actividades de campaña a que se refiere el presente artículo, deberán propiciar la exposición, desarrollo y discusión ante el electorado de los programas y acciones fijados por los partidos políticos en sus documentos básicos y, particularmente, en la plataforma electoral que para la elección en cuestión hubieren registrado.
 
 5. Para los efectos de lo dispuesto por el párrafo 2 del artículo 116 bis de la Constitución local, el informe anual de labores o gestión de los servidores públicos, así como los mensajes que para darlos a conocer se difundan en los medios de comunicación social, no serán considerados como propaganda, siempre que la difusión se limite a una vez al año en estaciones y canales con cobertura regional correspondiente al ámbito geográfico de responsabilidad del servidor público y no exceda de los siete días anteriores y cinco posteriores a la fecha en que se rinda el informe. En ningún caso la difusión de tales informes podrá tener fines Electorales, ni realizarse dentro del periodo de campaña electoral.
-
-## Título Cuarto. De las Campañas Electorales
-
-### Capítulo Segundo. De los Gastos y Topes de Campañas
-
-Artículo 256
-
-1. Los gastos que realicen los partidos políticos, las coaliciones y sus candidatos, en la propaganda electoral y las actividades de campaña, no podrán rebasar los montos de los topes que para cada elección acuerde el Consejo General.
-
-2. Para los efectos de este artículo quedarán comprendidos dentro de los topes de gasto los siguientes conceptos:
-
-I. Gastos de propaganda:
-
-a) Comprenden los realizados en pintas de bardas, mantas, volantes, pancartas, equipos de sonido, eventos políticos realizados en lugares alquilados, propaganda utilitaria y otros similares.
-
-II. Gastos operativos de la campaña:
-
-a) Comprenden los sueldos y salarios del personal eventual, arrendamiento eventual de bienes muebles e inmuebles, gastos de transporte de material y personal, viáticos y otros similares.
-
-III. Gastos de propaganda en diarios, revistas y otros medios impresos:
-
-a) Comprenden los realizados en cualquiera de esos medios, tales como inserciones pagadas, anuncios publicitarios y sus similares, tendientes a la obtención del voto. En todo caso, tanto el partido y candidato contratante, como el medio impreso, deberán identificar con toda claridad que se trata de propaganda o inserción pagada.
-
-IV. Gastos de producción de los mensajes para radio y televisión:
-
-a) Comprenden los realizados para el pago de servicios profesionales; uso de equipo técnico, locaciones o estudios de grabación y producción, así como los demás inherentes al mismo objetivo.
-
-3. No se considerarán dentro de los topes de campaña los gastos que realicen los partidos para su operación ordinaria y para el sostenimiento de sus órganos directivos y de sus organizaciones.
-
-4. El Consejo General, en la determinación de los topes de gastos de campaña, aplicará las siguientes reglas:
-
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
-
-I. Para la elección de Gobernador del Estado, a más tardar el día último de diciembre del año previo al de la elección, el tope máximo de gastos de campaña será el equivalente al veinte por ciento del financiamiento público destinado para las actividades tendientes a la obtención del voto para todos los partidos en el año de la elección de Gobernador;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2014)</small>
-
-II. Para la elección de Diputados y Munícipes, a más tardar el día último de diciembre del año previo al de la elección, procederá en los siguientes términos:
-
-a) Determinará el tope máximo de gastos de campaña para la elección de Diputados por el principio de mayoría relativa, que será la cantidad que resulte de dividir el tope de gasto de campaña establecido para la elección de Gobernador entre veinte. Para el año en que solamente se renueve el Congreso del Estado y los Ayuntamientos, los topes de campaña se actualizarán con el índice de crecimiento del salario mínimo diario en la zona metropolitana de Guadalajara;
-
-b) Determinará el tope máximo de gastos de campaña para la elección de Munícipes, que será la cantidad que resulte de dividir el tope de campaña de la elección de Gobernador entre el número de electores inscritos en el Padrón Electoral en el Estado con corte a Diciembre del año inmediato anterior al de la elección. Dicha cantidad se multiplicará por el número de electores inscritos en el padrón electoral en el municipio que corresponda; y
-
-c) En todo caso el tope será el equivalente a mil salarios mínimos para la zona metropolitana de Guadalajara cuando la cantidad que resulte de la operación anterior sea inferior a esta.
 
 #### Sección Primera. Disposiciones Generales
 
@@ -3111,7 +3149,49 @@ Artículo 254
 
 1. Las cancelaciones de registro y sustituciones de candidatos se publicarán en el periódico oficial “El Estado de Jalisco”, dentro de los cinco días siguientes al de su aprobación.
 
-## Título Quinto. De las Casillas y Material Electoral
+## Título Cuarto. De las Campañas Electorales
+
+### Capítulo Segundo. De los Gastos y Topes de Campañas
+
+Artículo 256
+
+1. Los gastos que realicen los partidos políticos, las coaliciones y sus candidatos, en la propaganda electoral y las actividades de campaña, no podrán rebasar los montos de los topes que para cada elección acuerde el Consejo General.
+
+2. Para los efectos de este artículo quedarán comprendidos dentro de los topes de gasto los siguientes conceptos:
+
+I. Gastos de propaganda:
+
+a) Comprenden los realizados en pintas de bardas, mantas, volantes, pancartas, equipos de sonido, eventos políticos realizados en lugares alquilados, propaganda utilitaria y otros similares.
+
+II. Gastos operativos de la campaña:
+
+a) Comprenden los sueldos y salarios del personal eventual, arrendamiento eventual de bienes muebles e inmuebles, gastos de transporte de material y personal, viáticos y otros similares.
+
+III. Gastos de propaganda en diarios, revistas y otros medios impresos:
+
+a) Comprenden los realizados en cualquiera de esos medios, tales como inserciones pagadas, anuncios publicitarios y sus similares, tendientes a la obtención del voto. En todo caso, tanto el partido y candidato contratante, como el medio impreso, deberán identificar con toda claridad que se trata de propaganda o inserción pagada.
+
+IV. Gastos de producción de los mensajes para radio y televisión:
+
+a) Comprenden los realizados para el pago de servicios profesionales; uso de equipo técnico, locaciones o estudios de grabación y producción, así como los demás inherentes al mismo objetivo.
+
+3. No se considerarán dentro de los topes de campaña los gastos que realicen los partidos para su operación ordinaria y para el sostenimiento de sus órganos directivos y de sus organizaciones.
+
+4. El Consejo General, en la determinación de los topes de gastos de campaña, aplicará las siguientes reglas:
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+
+I. Para la elección de Gobernador del Estado, a más tardar el día último de diciembre del año previo al de la elección, el tope máximo de gastos de campaña será el equivalente al veinte por ciento del financiamiento público destinado para las actividades tendientes a la obtención del voto para todos los partidos en el año de la elección de Gobernador;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2014)</small>
+
+II. Para la elección de Diputados y Munícipes, a más tardar el día último de diciembre del año previo al de la elección, procederá en los siguientes términos:
+
+a) Determinará el tope máximo de gastos de campaña para la elección de Diputados por el principio de mayoría relativa, que será la cantidad que resulte de dividir el tope de gasto de campaña establecido para la elección de Gobernador entre veinte. Para el año en que solamente se renueve el Congreso del Estado y los Ayuntamientos, los topes de campaña se actualizarán con el índice de crecimiento del salario mínimo diario en la zona metropolitana de Guadalajara;
+
+b) Determinará el tope máximo de gastos de campaña para la elección de Munícipes, que será la cantidad que resulte de dividir el tope de campaña de la elección de Gobernador entre el número de electores inscritos en el Padrón Electoral en el Estado con corte a Diciembre del año inmediato anterior al de la elección. Dicha cantidad se multiplicará por el número de electores inscritos en el padrón electoral en el municipio que corresponda; y
+
+c) En todo caso el tope será el equivalente a mil salarios mínimos para la zona metropolitana de Guadalajara cuando la cantidad que resulte de la operación anterior sea inferior a esta.
 
 ### Capítulo Tercero. De las Reuniones y Marchas
 
@@ -3265,13 +3345,13 @@ Artículo 268 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 Artículo 269 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
+## Título Quinto. De las Casillas y Material Electoral
+
 ### Capítulo Segundo. Casillas Básicas y Contiguas
 
 Artículo 270 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 Artículo 271 (DEROGADO, P.O. 8 DE JULIO DE 2014)
-
-## Título Sexto. De la Jornada Electoral
 
 ### Capítulo Tercero. Casillas Especiales
 
@@ -3311,34 +3391,6 @@ Artículo 284 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 ### Capítulo Octavo. Documentación y Material Electoral
 
-### Capítulo Primero. Disposiciones Generales
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
-
-Artículo 304
-
-1. Los actos relativos a la jornada electoral se rigen por lo dispuesto en la Ley General, así como en este Título.
-
-2. Para el caso de los funcionarios de mesa directiva de casilla que adicionalmente se requieren en el caso de la realización de jornadas electorales simultáneas bajo la modalidad de casilla única establecidas en la Ley General, subsistirán las funciones encomendadas al Secretario y Escrutador a que se refieren dicho dispositivo legal y el presente Código.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
-
-Artículo 305
-
-1. Para el escrutinio y cómputo de las votaciones, se contará un voto válido por la marca que haga el elector en un solo cuadro en el que se contenga el emblema de un partido político o candidato independiente, o en dos o más cuadros cuando se trate de partidos coaligados; en este último caso, el hecho deberá consignarse en el apartado respectivo del acta de escrutinio y cómputo correspondiente.
-
-> <small>N. DE E. RESPECTO AL NUMERAL 2, VÉASE EL P.O. DE 8 DE JULIO DE 2014, SECCIÓN VI, PÁGINA 49.</small>
-
-Artículo 306
-
-1. Los funcionarios de mesa directiva de casilla, no podrán retirarse sino hasta que ésta sea clausurada, salvo los casos de fuerza mayor, que calificarán el Consejo Distrital o Municipal Electoral correspondiente.
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
-
-2. Cualquier sustitución de funcionarios, se hará constar en el apartado de incidentes del acta de la jornada electoral.
-
-Artículo 307 (DEROGADO, P.O. 8 DE JULIO DE 2014)
-
 #### Sección Primera. Disposiciones Generales
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
@@ -3369,23 +3421,33 @@ Artículo 291 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 Artículo 292 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
-### Capítulo Segundo. Instalación de Casillas
+### Capítulo Primero. Disposiciones Generales
 
-Artículo 308 (DEROGADO, P.O. 8 DE JULIO DE 2014)
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
-Artículo 309 (DEROGADO, P.O. 8 DE JULIO DE 2014)
+Artículo 304
 
-Artículo 310 (DEROGADO, P.O. 8 DE JULIO DE 2014)
+1. Los actos relativos a la jornada electoral se rigen por lo dispuesto en la Ley General, así como en este Título.
 
-Artículo 311 (DEROGADO, P.O. 8 DE JULIO DE 2014)
+2. Para el caso de los funcionarios de mesa directiva de casilla que adicionalmente se requieren en el caso de la realización de jornadas electorales simultáneas bajo la modalidad de casilla única establecidas en la Ley General, subsistirán las funciones encomendadas al Secretario y Escrutador a que se refieren dicho dispositivo legal y el presente Código.
 
-Artículo 312 (DEROGADO, P.O. 8 DE JULIO DE 2014)
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
-Artículo 313 (DEROGADO, P.O. 8 DE JULIO DE 2014)
+Artículo 305
 
-Artículo 314 (DEROGADO, P.O. 8 DE JULIO DE 2014)
+1. Para el escrutinio y cómputo de las votaciones, se contará un voto válido por la marca que haga el elector en un solo cuadro en el que se contenga el emblema de un partido político o candidato independiente, o en dos o más cuadros cuando se trate de partidos coaligados; en este último caso, el hecho deberá consignarse en el apartado respectivo del acta de escrutinio y cómputo correspondiente.
 
-Artículo 315 (DEROGADO, P.O. 8 DE JULIO DE 2014)
+> <small>N. DE E. RESPECTO AL NUMERAL 2, VÉASE EL P.O. DE 8 DE JULIO DE 2014, SECCIÓN VI, PÁGINA 49.</small>
+
+Artículo 306
+
+1. Los funcionarios de mesa directiva de casilla, no podrán retirarse sino hasta que ésta sea clausurada, salvo los casos de fuerza mayor, que calificarán el Consejo Distrital o Municipal Electoral correspondiente.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+2. Cualquier sustitución de funcionarios, se hará constar en el apartado de incidentes del acta de la jornada electoral.
+
+Artículo 307 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 #### Sección Primera. Disposiciones Generales
 
@@ -3473,27 +3535,25 @@ Artículo 302
 
 Artículo 303 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
-## Título Primero. Disposiciones Generales
+## Título Sexto. De la Jornada Electoral
 
-Artículo 385
+### Capítulo Segundo. Instalación de Casillas
 
-1. Los instrumentos de participación ciudadana son:
+Artículo 308 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
-I. Referéndum;
+Artículo 309 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
-II. Plebiscito; e
+Artículo 310 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
-III. Iniciativa Popular.
+Artículo 311 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
-Artículo 386
+Artículo 312 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
-1. Son reglamentos, decretos, acuerdos de carácter general, actos o decisiones administrativas trascendentes para el orden público y el interés social del Estado:
+Artículo 313 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
-I. Los que afecten directamente cuando menos a la mitad más uno de los municipios; y
+Artículo 314 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
-II. Los que afecten a las dos terceras partes de la población del estado o del municipio según sea el caso.
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+Artículo 315 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 ### Capítulo Tercero. De la Votación
 
@@ -3689,26 +3749,6 @@ Artículo 366 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 Artículo 367 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
-### Capítulo Décimo Tercero. De la Información Preliminar de los Resultados
-
-Artículo 368
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2011)</small>
-
-1. Los Consejos Distritales y municipales harán las sumas de las actas de escrutinio y cómputo de las casillas conforme éstas se vayan recibiendo y hasta el vencimiento del plazo legal para la entrega de los paquetes que contengan los expedientes electorales, conforme a las siguientes reglas:
-
-I. El Consejo Distrital o Municipal autorizará al personal necesario para la recepción continua y simultánea de los paquetes Electorales. Los partidos políticos podrán acreditar a sus representantes suplentes para que estén presentes durante dicha recepción;
-
-II. Los funcionarios electorales designados recibirán las actas de escrutinio y cómputo y de inmediato darán lectura en voz alta del resultado de las votaciones que aparezcan en ellas, procediendo a realizar la suma correspondiente para informar inmediatamente a la Secretaría Ejecutiva del Consejo. La lectura en voz alta podrá ser sustituida por un mecanismo electrónico, cuando sea posible técnica y presupuestalmente, y el Consejo General lo autorice para llevarlo a cabo total o parcialmente;
-
-III. El secretario, o el funcionario autorizado para ello, anotará esos resultados en el lugar que les corresponda en la forma destinada para ello, conforme al orden numérico de las casillas; y
-
-IV. Los representantes de los partidos políticos acreditados ante el Consejo, contarán con los formatos adecuados para anotar en ellos los resultados de la votación en las casillas.
-
-Artículo 369
-
-1. Para el mejor conocimiento de los ciudadanos, concluido el plazo a que se refiere el artículo 344 de este Código, el Presidente deberá fijar en el exterior del local del Consejo Distrital o Municipal, según corresponda, los resultados preliminares de las elecciones.
-
 ###### Artículo 354.
 
 1. Cómputo Distrital es el procedimiento que ejecuta el Consejo Distrital Electoral, consistente en realizar la suma de los resultados asentados en el acta de escrutinio y cómputo de cada una de las casillas en el distrito, para obtener el resultado de la votación total en la elección de Diputados por el principio de mayoría relativa.
@@ -3758,6 +3798,26 @@ Artículo 361
 Artículo 362
 
 1. Los resultados de los cómputos previstos en este capítulo, se asentarán en los formatos de acta aprobados por el Consejo General del Instituto Nacional Electoral y el desarrollo del procedimiento respectivo se establecerá en las actas circunstanciadas de las sesiones especiales.
+
+### Capítulo Décimo Tercero. De la Información Preliminar de los Resultados
+
+Artículo 368
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2011)</small>
+
+1. Los Consejos Distritales y municipales harán las sumas de las actas de escrutinio y cómputo de las casillas conforme éstas se vayan recibiendo y hasta el vencimiento del plazo legal para la entrega de los paquetes que contengan los expedientes electorales, conforme a las siguientes reglas:
+
+I. El Consejo Distrital o Municipal autorizará al personal necesario para la recepción continua y simultánea de los paquetes Electorales. Los partidos políticos podrán acreditar a sus representantes suplentes para que estén presentes durante dicha recepción;
+
+II. Los funcionarios electorales designados recibirán las actas de escrutinio y cómputo y de inmediato darán lectura en voz alta del resultado de las votaciones que aparezcan en ellas, procediendo a realizar la suma correspondiente para informar inmediatamente a la Secretaría Ejecutiva del Consejo. La lectura en voz alta podrá ser sustituida por un mecanismo electrónico, cuando sea posible técnica y presupuestalmente, y el Consejo General lo autorice para llevarlo a cabo total o parcialmente;
+
+III. El secretario, o el funcionario autorizado para ello, anotará esos resultados en el lugar que les corresponda en la forma destinada para ello, conforme al orden numérico de las casillas; y
+
+IV. Los representantes de los partidos políticos acreditados ante el Consejo, contarán con los formatos adecuados para anotar en ellos los resultados de la votación en las casillas.
+
+Artículo 369
+
+1. Para el mejor conocimiento de los ciudadanos, concluido el plazo a que se refiere el artículo 344 de este Código, el Presidente deberá fijar en el exterior del local del Consejo Distrital o Municipal, según corresponda, los resultados preliminares de las elecciones.
 
 ### Capítulo Décimo Cuarto. Cómputos de los Consejos Municipales Electorales
 
@@ -3841,69 +3901,97 @@ VI. Entregará la constancia de mayoría a la fórmula ganadora.
 
 ### Capítulo Décimo Sexto. Cómputos y Calificación de Elecciones en el Consejo General del Instituto Electoral
 
-### Capítulo Primero. De la Solicitud
+### Capítulo Único
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 385
+
+1. En el Estado de Jalisco se reconoce el derecho humano a la participación social como principio fundamental en la organización política, y se entiende como el derecho de las personas habitantes y ciudadanía del Estado para intervenir en las decisiones públicas, deliberar, discutir y cooperar con las autoridades, así como para incidir en la formulación, ejecución y evaluación de las políticas y actos de gobierno.
+
+2. Toda persona o ciudadano, según corresponda, tiene derecho de concurrir a los instrumentos de participación social, conforme a las bases, principios, plazos y requisitos que este Código, leyes y reglamentos prevean.
+
+3. Son reglamentos, decretos, acuerdos de carácter general, actos o decisiones administrativas trascendentes para el orden público y el interés social del Estado:
+
+I. Los que afecten directamente cuando menos a la mitad más uno de los municipios; y
+
+II. Los que afecten a las dos terceras partes de la población del estado o del municipio según sea el caso.
+
+4. Son leyes, reglamentos o decretos del Congreso del Estado trascendentes para el orden público y el interés social las que regulen las materias de:
+
+I. Medio ambiente, ecología y agua;
+
+II. Salud, asistencia social y beneficencia privada;
+
+III. Derechos humanos, seguridad pública, comunicaciones, vialidad y transporte;
+
+IV. Educación, cultura, turismo y deportes;
+
+V. Electoral;
+
+VI. Responsabilidades de los servidores públicos;
+
+VII. Civil; y
+
+VIII. Penal.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 386
+
+1. La organización, desarrollo, cómputo y declaración de resultados de los mecanismos de participación social corresponden al Instituto Electoral, en los términos del artículo 41, fracción IV, apartado C, párrafo 9, de la Constitución Política de los Estados Unidos Mexicanos.
+
+2. Los ayuntamientos emitirán los reglamentos y disposiciones administrativas que les permitan asegurar la participación ciudadana y vecinal; y podrán crear instancias municipales en materia de participación social, en los términos de lo establecido en el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y los principios (sic) este Código.
+
+3. El Instituto Electoral, a solicitud de los municipios, celebrará convenios para que estos participen o realicen los mecanismos de participación social en los términos de este Código.
+
+4. En los municipios donde el Ayuntamiento cree sus instancias municipales de participación social, las funciones del Instituto Electoral relativas a la organización y realización de las consultas populares y los presupuestos participativos se entienden delegadas a los municipios; salvo que la consulta popular verse sobre el desempeño de las autoridades o la designación o permanencia de funcionarios.
+
+5. Se entienden delegadas al Poder Ejecutivo del Estado, las funciones del Instituto Electoral relativas a la organización y realización de las consultas de los presupuestos participativos estatales.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 387
+
+1. En el Estado de Jalisco se reconocen por lo menos los siguientes instrumentos de participación social:
+
+I. Gobierno abierto;
+
+II. Plebiscito;
+
+III. Referéndum;
+
+IV. Ratificación constitucional;
+
+V. Iniciativa popular;
+
+VI. Iniciativa Popular municipal;
+
+VII. Presupuesto participativo;
+
+VIII. Revocación de mandato;
+
+IX. Consulta Popular;
+
+X. Contraloría Social;
+
+XI. Cabildo abierto; y
+
+XII. Juntas municipales;
+
+2. Ninguno de los instrumentos de participación social podrá utilizarse para disminuir o revocar el reconocimiento o ampliación de derechos humanos.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 Artículo 388
 
-1. Podrán solicitar referéndum derogatorio al Instituto Electoral, cuando los actos materialmente legislativos sean considerados trascendentes para el orden público o el interés social:
+1. Las solicitudes de los ciudadanos para accionar algún instrumento de participación social deben presentarse en los formatos oficiales que expida el Instituto.
 
-I. El Congreso del Estado, con la aprobación de las dos terceras partes de sus integrantes, en contra de actos del titular del Poder Ejecutivo del Estado que consistan en:
+2. El Instituto deberá contar con formatos oficiales disponibles en todo momento, impresos y en medios electrónicos, para la presentación de solicitudes de instrumentos de participación social, mismos que deberán contener los requisitos que señale cada instrumento, así como contar con los mecanismos de seguridad que garanticen su autenticidad.
 
-a) Reglamentos;
+3. Cada una de las hojas de los formatos que contenga firmas de ciudadanos solicitantes deben contener la referencia clara y precisa del acto concreto y específico objeto del proceso. El Instituto establecerá mecanismos para garantizar que al momento de la firma, las hojas tengan esta información; y podrá investigar, en caso de duda, sobre el cumplimiento de esta disposición.
 
-b) Acuerdos de carácter general; y
-
-c) Decretos.
-
-II. Los ciudadanos que representen por lo menos el dos punto cinco por ciento del padrón electoral de la Entidad en contra de actos del titular del Poder Ejecutivo del Estado que consistan en:
-
-a) Reglamentos;
-
-b) Acuerdos de carácter general; y
-
-c) Decretos.
-
-III. El Gobernador del Estado en contra de actos del Congreso del Estado que consistan en:
-
-a) Leyes;
-
-b) Reglamentos; y
-
-c) Decretos;
-
-IV. Los ciudadanos que representen por lo menos el dos punto cinco por ciento del Padrón Electoral de la Entidad en contra de actos del Congreso del Estado que consistan en:
-
-a) Leyes;
-
-b) Reglamentos; y
-
-c) Decretos;
-
-V. Los ciudadanos residentes en el municipio, que representen cuando menos a un cinco por ciento del padrón electoral, cuando el número de habitantes sea inferior a trescientos mil, y los ciudadanos residentes en el municipio que representen cuando menos a un tres por ciento del padrón electoral cuando el número de habitantes sea superior a trescientos mil, en contra de actos del ayuntamiento que consistan en:
-
-a) Reglamentos; y
-
-b) Demás disposiciones de carácter general, impersonal y abstracto.
-
-Artículo 389
-
-1. Para efectos de este título se consideran acuerdos de carácter general y decretos aquellos que contengan actos materialmente legislativos.
-
-2. En ningún caso procederá el referéndum en contra de acuerdos de carácter general y decretos que establezcan un precio, tarifa o contribución.
-
-Artículo 390
-
-1. Las reformas o adiciones a la Constitución Política del Estado podrán ser sometidas a referéndum derogatorio, a solicitud del Gobernador del Estado o los ciudadanos que representen el dos punto cinco por ciento del padrón electoral, en cada uno de la mayoría de los municipios del Estado.
-
-Artículo 391
-
-1. El referéndum derogatorio podrá ser de naturaleza total o parcial, en atención a la solicitud que se formule.
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
-
-### Capítulo Segundo. Del Trámite de la Solicitud y Resolución
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2016)</small>
 
 #### Sección Primera. De los Cómputos
 
@@ -3993,83 +4081,29 @@ VI. En su caso, declarará la elegibilidad de los integrantes de la planilla que
 
 VII. Expedirá las constancias de mayoría a las planillas de Munícipes que obtuvieron mayoría de votos y expedirá las constancias de asignación de regidores por el principio de representación proporcional.
 
-# Libro Quinto. De la Participación Ciudadana
+> <small>[N. DE E. EL DECRETO NÚMERO 25842/LXI/16, PUBLICADO EN EL P.O. DE 16 DE JUNIO DE 2016, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE LIBRO.]</small>
 
-## Título Segundo. Del Referéndum
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2016)</small>
 
-### Capítulo Primero. De la Solicitud
+# Libro Quinto. De la Participación Social
 
-Artículo 402
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
-1. Podrán solicitar plebiscito al Instituto Electoral:
+## Título Primero. Disposiciones Generales
 
-I. El Congreso del Estado, con la aprobación de cuando menos las dos terceras partes de sus integrantes, y durante los treinta días anteriores o posteriores al inicio de la decisión o acto de gobierno del Poder Ejecutivo, cuando se consideren como trascendentes para el orden público o el interés social, excepto los nombramientos de los titulares de las secretarías o dependencias del ejecutivo, así como la determinación de algún precio, tarifa o contribución;
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
 
-II. El Gobernador del Estado, cuando considere que las propuestas o decisiones de su gobierno son trascendentes para el orden público o el interés social;
+### Capítulo único
 
-III. El Presidente Municipal, o los Ayuntamientos o Consejos Municipales, con la aprobación de las dos terceras partes de sus integrantes y antes de la ejecución de la obra pública o enajenación del patrimonio Municipal; y
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
-IV. Un número de ciudadanos jaliscienses antes de la ejecución de la obra pública o enajenación del patrimonio municipal, que represente cuando menos a:
+Artículo 389
 
-a) Un cinco por ciento de los inscritos en el Padrón Electoral en los municipios cuyo número de habitantes sea inferior a trescientos mil; o
+1. Gobierno Abierto es el instrumento que permite la participación democrática de toda persona en los procesos de elaboración y evaluación de las políticas públicas, contribuyendo a la transparencia, a la rendición de cuentas y el combate a la corrupción.
 
-b) Un tres por ciento de los inscritos en el Padrón electoral en los municipios cuyo número de habitantes sea superior a trescientos mil.
+2. Son mecanismos rectores del gobierno abierto, transparencia, colaboración y participación, cuyos objetivos son la rendición de cuentas. Los poderes del Estado y los municipios reglamentarán los mecanismos de colaboración y participación social efectiva de sus planes, programas y políticas públicas.
 
-Artículo 403
-
-1. La solicitud de plebiscito se presentará ante el Instituto Electoral, se le asignará el número consecutivo de registro que deberá indicar el orden de presentación y fecha de inscripción.
-
-Artículo 404
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2011)</small>
-
-1. Los escritos para promover el proceso de plebiscito presentados por el Congreso del Estado, el titular del Poder Ejecutivo, Presidente Municipal, los Ayuntamientos o los Concejos Municipales, deben contener:
-
-I. Nombre de la autoridad que lo promueve. En caso de tratarse de un organismo colegiado, el acuerdo que apruebe la promoción del proceso respectivo;
-
-II. El precepto legal en el que fundamente su solicitud;
-
-III. Especificación precisa y detallada del acto de autoridad, objeto del plebiscito;
-
-IV. Autoridad o autoridades de las que emana el acto o decisión de gobierno materia de plebiscito;
-
-V. Exposición de motivos por los cuales se considera que el acto de autoridad no debe realizarse; y
-
-VI. Nombre y firma del titular del Ejecutivo; de los Diputados Presidente y secretario del Congreso del Estado; del Presidente Municipal del ayuntamiento o del Concejo Municipal y del funcionario encargado de la Secretaría, según sea el caso.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2011)</small>
-
-2. En caso que el plebiscito sea promovido por ciudadanos en contra de obra pública, municipal o estatal, o enajenación de patrimonio Municipal, la solicitud deberá presentarse en las formas oficiales que elabore y distribuya en forma gratuita el Instituto Electoral, las que deben contener:
-
-I. Nombre del representante común de los promoventes;
-
-II. Manifestación de conducirse bajo protesta de decir verdad;
-
-III. Domicilio legal para recibir notificaciones, el cual invariablemente se localizará en la zona conurbada de la capital del Estado;
-
-IV. Especificación de la obra pública o enajenación de patrimonio Municipal que se pretende someter a plebiscito;
-
-V. Autoridad o autoridades que pretendan llevar a cabo los acto (sic) señalados en la fracción anterior;
-
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
-
-VI. Exposición de motivos por los cuales se considera que los actos señalados en la fracción IV no deben llevarse a cabo; y
-
-VII. Los siguientes datos en orden de columnas:
-
-a) Nombre completo de los ciudadanos solicitantes;
-
-b) Número de folio de la credencial para votar de los solicitantes;
-
-c) Clave de elector de los solicitantes;
-
-d) Sección electoral a la que pertenecen los solicitantes; y
-
-e) Firma de cada elector solicitante, que concuerde con la que aparece en la credencial para votar.
-
-3. En caso de que no exista forma oficial, se deberá presentar en escrito que reúna los requisitos que establece este artículo.
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### Artículo 387.
 
@@ -4091,109 +4125,227 @@ VII. Civil; y
 
 VIII. Penal.
 
+## Título Segundo. Gobierno abierto
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+### Capítulo Único
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 390
+
+1. El plebiscito es un instrumento de participación social directa, mediante el cual se someten a consideración de la ciudadanía los actos o decisiones materialmente administrativos del Poder Ejecutivo del Estado y de los ayuntamientos.
+
+2. No podrá solicitarse el plebiscito contra el nombramiento de funcionarios públicos, ni contra la determinación de algún precio, tarifa o contribución.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 391
+
+1. Pueden solicitar el plebiscito estatal:
+
+I. El Congreso del Estado, con la aprobación de cuando menos las dos terceras partes de sus integrantes;
+
+II. El Gobernador del Estado; y
+
+III. El cero punto cinco por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al Estado.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 392
+
+1. Pueden solicitar el plebiscito municipal:
+
+I. En los municipios en que la población no exceda de cincuenta mil habitantes, el tres por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al municipio de que se trate;
+
+II. En los municipios en que la población exceda los cincuenta mil, pero no los cien mil habitantes, el dos por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al municipio de que se trate;
+
+III. En los municipios en que la población exceda cien mil, pero no quinientos mil habitantes, el uno por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al municipio de que se trate; y
+
+IV. En los municipios en que la población exceda los quinientos mil habitantes, el cero punto cinco por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al municipio de que se trate.
+
+2. Cuando se trate de obras públicas municipales que impacten dos o más municipios de un área metropolitana formalmente declarada, se requiere cuando menos los porcentajes de ciudadanos que señala el párrafo anterior, en cada uno de los municipios involucrados en la obra pública.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 393
+
+1. El plebiscito estatal y municipal puede solicitarse dentro de los treinta días naturales posteriores a la aprobación del acto o decisión.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 394
+
+1. La solicitud de plebiscito se presentará ante el Instituto Electoral, se le asignará el número consecutivo de registro que deberá indicar el orden de presentación y fecha de inscripción.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 395
+
+1. Las solicitudes de plebiscito presentadas por el Congreso del Estado o el Gobernador del Estado deben contener:
+
+I. Nombre de la autoridad que lo promueve y en el caso del Congreso, el acuerdo que apruebe la promoción del proceso respectivo;
+
+II. El precepto legal en el que fundamente su solicitud;
+
+III. Especificación precisa y detallada del acto de autoridad, objeto del plebiscito;
+
+IV. Autoridad o autoridades de las que emana el acto o decisión de gobierno materia de plebiscito;
+
+V. Exposición de motivos por los cuales se considera que el acto de autoridad no debe realizarse; y
+
+VI. Nombre y firma del Gobernador del Estado o de los diputados presidente y secretarios del Congreso del Estado, según sea el caso.
+
+2. La solicitud de plebiscito presentada por ciudadanos será mediante los formatos oficiales con que cuenta el Instituto, que deberá contener:
+
+I. Nombre del representante común de los promoventes;
+
+II. Manifestación de conducirse bajo protesta de decir verdad;
+
+III. Domicilio para recibir notificaciones, en el área metropolitana de Guadalajara si el plebiscito es estatal, o en la cabecera municipal, si es municipal;
+
+IV. Especificación del acto que se pretende someter a plebiscito y en el caso del plebiscito municipal especificación de la obra pública municipal o enajenación de patrimonio municipal que se someta a plebiscito;
+
+V. Autoridad o autoridades que pretendan llevar a cabo los actos señalados en la fracción anterior;
+
+VI. Exposición de motivos por los cuales se considera que los actos señalados en la fracción IV no deben llevarse a cabo; y
+
+VII. Los siguientes datos en orden de columnas:
+
+a) Nombre completo de los ciudadanos solicitantes;
+
+b) Número de folio de la credencial para votar de los solicitantes;
+
+c) Clave de elector de los solicitantes;
+
+d) Sección electoral a la que pertenecen los solicitantes; y
+
+e) Firma de cada elector solicitante, que concuerde con la que aparece en la credencial para votar.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 396
+
+1. El efecto del plebiscito será que el acto o decisión de gobierno se confirme o se declare nulo.
+
+2. El resultado del plebiscito será vinculante cuando participe por lo menos el cuarenta por ciento de los ciudadanos inscritos en la lista nominal de electores correspondiente, y de los mismos más del cincuenta por ciento emita (sic) su voto en un mismo sentido.
+
+3. Realizado el cómputo y validación de los resultados, la autoridad que corresponda realizará la declaratoria de resultados.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 397
+
+1. El Congreso y el Gobernador del Estado pueden desistirse de su solicitud de plebiscito, hasta los diez días naturales después de publicada la convocatoria respectiva.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2016)</small>
+
 ## Título Tercero. Plebiscito
 
-### Capítulo Segundo. Del Trámite de la Solicitud y Resolución
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+### Capítulo Único
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 398
+
+1. Referéndum es el instrumento mediante el cual se someten a la consideración de la ciudadanía la abrogación o derogación de disposiciones legales y constitucionales, decretos, reglamentos, acuerdos y disposiciones de carácter general, expedidas por el Congreso, el Ejecutivo del Estado o los municipios, con excepción de las de carácter contributivo y leyes orgánicas de los poderes.
+
+2. Se consideran decretos, acuerdos y disposiciones de carácter general, aquellas que contengan disposiciones materialmente legislativas.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 399
+
+1. Pueden solicitar el referéndum estatal:
+
+I. El Congreso del Estado, para la abrogación o derogación de los reglamentos y decretos expedidos por el Gobernador del Estado, considerados trascendentes para el orden público o el interés social del Estado;
+
+II. El Gobernador del Estado, para la abrogación o derogación de las leyes expidas por el Congreso del Estado, consideradas trascendentes para el orden público o el interés social del Estado;
+
+III. Los ciudadanos que representen por lo menos el cero punto cinco por ciento de la lista nominal de electores del Estado, para la abrogación o derogación de disposiciones legales, decretos, reglamentos, acuerdos y disposiciones de carácter general, expedidas por el Congreso del Estado o el Poder Ejecutivo del Estado;
+
+IV. Los ciudadanos que representen por lo menos el cero punto cinco por ciento de la lista nominal de electores del Estado, siempre que los solicitantes radiquen en cuando menos la mitad más uno de los municipios del Estado, para la derogación, total o parcial, de reformas o adiciones a la Constitución Política del Estado.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 400
+
+1. Puede solicitar el referéndum municipal, los ciudadanos, en los términos siguientes:
+
+I. En los municipios en que la población no exceda de cincuenta mil habitantes, el tres por ciento de la lista nominal de electores, correspondiente al municipio de que se trate;
+
+II. En los municipios en que la población excede los cincuenta mil, pero no los cien mil habitantes, el dos por ciento de la lista nominal de electores, correspondiente al municipio de que se trate;
+
+III. En los municipios en los que la población exceda cien mil pero no quinientos mil habitantes el uno por ciento de la lista nominal de electores, correspondiente al municipio de que se trate; y
+
+IV. En los municipios en los que la población exceda los quinientos mil habitantes el punto cinco por ciento de la lista nominal de electores, correspondiente al municipio de que se trate.
+
+2. Cuando se trate de reglamentos o disposiciones generales municipales que rijan para una área metropolitana formalmente declarada, se requiere cuando menos los porcentajes de ciudadanos que señala el párrafo anterior, en más de la mitad de los municipios que integran el área metropolitana.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 401
+
+1. La solicitud de referéndum deberá presentarse ante el Instituto, dentro de los treinta días naturales posteriores a la publicación oficial en el medio de difusión estatal o municipal correspondiente, o a su aprobación en el caso de aquellos acuerdos o disposiciones generales que para su vigencia no se requiera publicación oficial.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 402
+
+1. La solicitud de referéndum suscrita por ciudadanos deberá contener:
+
+I. El listado con los nombres, firmas, claves de elector, folios y sección electoral de quienes lo solicitan;
+
+II. El nombre del representante común;
+
+III. Un domicilio para recibir notificaciones, en el área metropolitana de Guadalajara si se trata de referéndum estatal, o en la cabecera municipal si se trata de referéndum municipal;
+
+IV. La indicación precisa del acto que se propone someter a referéndum, y en su caso, especificar si se trata de abrogación o derogación del acto, así como la parte específica que se pide derogar en éste último caso;
+
+V. La autoridad de la que emana la disposición materialmente legislativa materia del referéndum; y
+
+VI. La exposición de motivos por los cuales el acto, ordenamiento o parte de su contenido deben someterse referéndum.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 403
+
+1. Los actos sometidos a referéndum sólo podrán ser derogados o abrogados si en dicho proceso participa cuando menos el cuarenta por ciento de los ciudadanos inscritos en la lista nominal de electores en el Estado, el municipio o el área metropolitana correspondiente y de los mismos, más del cincuenta por ciento emite su voto a favor de la abrogación o derogación.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 404
+
+1. Realizado el cómputo y validación de los resultados, el Instituto realizará la declaratoria de resultados y ordenará su publicación en el Periódico Oficial "El Estado de Jalisco", y además en las gacetas municipales correspondientes, en el caso del referéndum municipal.
+
+2. La abrogación o derogación declarada y publicada en los términos del párrafo anterior surte efectos al día siguiente de que:
+
+I. Transcurra el plazo para impugnar y no se presente el medio de defensa respectivo; o
+
+II. Que cause ejecutoria la resolución del medio de impugnación presentado y ésta confirme la abrogación o derogación declarada por la autoridad.
+
+3. La abrogación o derogación derivada de un referéndum no requiere para su validez de actos de otras autoridades. Sin embargo, la autoridad legislativa competente deberá realizar los actos y llevar a cabo los procedimientos necesarios para actualizar formalmente el marco jurídico estatal o municipal, conforme a la abrogación o derogación declarada.
+
+4. Si el resultado de referéndum es la abrogación o derogación, total o parcial, de un texto normativo, se reanudará la vigencia de las disposiciones jurídicas vigentes con anterioridad al texto sometido a referéndum derogatorio, a partir del día siguiente a la publicación oficial.
+
+5. Si la abrogación o derogación anula disposiciones que concedían derechos a particulares o facultades a autoridades, que no tengan un antecedente normativo, los derechos otorgados o los actos de autoridad emitidos durante su vigencia continuarán surtiendo sus efectos y serán regulados por la norma derogada, hasta en tanto se emita una nueva disposición en la materia o se agote la vigencia del derecho adquirido o el acto emitido.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 405
+
+1. No se podrá emitir una disposición constitucional, legal o reglamentaria en los mismos términos que los abrogados o derogados mediante referéndum, dentro de un período de dieciocho meses contados a partir de la fecha en que se publique la resolución del referéndum.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 Artículo 406
 
-1. Recibida la solicitud de plebiscito, el secretario ejecutivo del Instituto Electoral verificará dentro de los tres días siguientes, que cumpla con los requisitos que establece el artículo 404. A falta de algún requisito, se requerirá al promovente previniéndolo para que lo subsane dentro de los tres días siguientes al de la notificación, con el apercibimiento que de no cumplir con la prevención se desechará la solicitud.
+1. El proceso de referéndum que corresponda a la materia electoral se suspenderá durante los seis meses anteriores al inicio del proceso electoral y hasta concluido éste.
 
-Artículo 407
-
-1. Si la solicitud de plebiscito cumple con los requisitos o fue subsanada por el promovente en los términos previstos por el artículo anterior, el Presidente del Instituto Electoral, a más tardar al cuarto día de la presentación, o séptimo día en caso de haber mediado requerimiento al promovente, notificará su recepción a la autoridad de la que presuntamente emanó el acto objeto de la solicitud de plebiscito, acompañando una copia de dicha solicitud. La notificación deberá contener:
-
-I. La mención precisa y detallada de la decisión o acto de gobierno que se pretende someter a plebiscito;
-
-II. Autoridad o autoridades de las que emana el acto materia de plebiscito; y
-
-III. La exposición de motivos contenida en la solicitud del promovente.
-
-2. La autoridad de la que emanó el acto objeto de la solicitud de plebiscito dispondrá de un plazo de cinco días naturales para hacer llegar la exposición de motivos, así como las causales de improcedencia que considere pertinentes.
-
-Artículo 408
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
-
-1. Trascurrido el plazo a que se refiere el párrafo 2 del artículo anterior, en el plazo de treinta días naturales el Consejo General del Instituto Electoral, con el voto de cuando menos las dos terceras partes de sus integrantes, determinará si el acto que se pretende someter a plebiscito es un acto o decisión de gobierno.
-
-2. Si el acto materia de la solicitud de plebiscito no es un acto o decisión de gobierno se resolverá la improcedencia del plebiscito.
-
-3. Si se resuelve que el acto materia de la solicitud de plebiscito es un acto o decisión de gobierno, el Consejo General, con el voto de cuando menos las dos terceras partes de sus integrantes, determinará si el acto materia de la solicitud de plebiscito es trascendente para el orden público o el interés social, o se trata de obra pública o enajenación de patrimonio Municipal.
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
-
-4. Si el acto materia de la solicitud de plebiscito no es trascendente para el orden público o el interés social, o no se trata de obra pública o enajenación de patrimonio municipal, se resolverá la improcedencia del plebiscito.
-
-5. Cuando se trate de obra pública o enajenación de patrimonio municipal, el Consejo General acordará el procedimiento para la verificación de la autenticidad de los datos de los ciudadanos que respalden y apoyen la solicitud respectiva. Dicho procedimiento se realizará invariablemente de manera aleatoria y deberá adoptar técnicas de muestreo científicamente sustentadas.
-
-6. Si como resultado del procedimiento para la verificación de la autenticidad de los datos de los ciudadanos que respalden y apoyen la solicitud, se obtiene que no se reúnen el número de ciudadanos que se establecen en párrafo 1, fracción IV del artículo 402, el Consejo General desechará por improcedente la solicitud de plebiscito.
-
-Artículo 409
-
-1. Con independencia de lo dispuesto en el artículo anterior, el Consejo General del Instituto Electoral, con el voto de cuando menos las dos terceras partes de sus integrantes, decretará la improcedencia de la solicitud del proceso de plebiscito en los casos siguientes:
-
-I. El acto o decisión de gobierno materia del plebiscito no sea trascendente para el orden público o interés social;
-
-II. El escrito de solicitud se haya presentado en forma extemporánea;
-
-III. El acto materia del plebiscito se haya consumado y no puedan restituirse las cosas a la situación que guardaban con anterioridad;
-
-IV. El acto no se haya realizado o no se pretenda realizar por las autoridades;
-
-V. La exposición de motivos sea frívola, inverosímil, subjetiva o no contenga una relación directa causa-efecto entre los motivos expuestos y el acto o decisión de gobierno;
-
-VI. El escrito de solicitud sea insultante, atente contra de las instituciones o sea ilegible; y
-
-VII. La solicitud respectiva no cumpla con todos los requisitos y formalidades que se establecen en el presente ordenamiento.
-
-Artículo 410
-
-1. Si el Consejo General resuelve la procedencia de la solicitud de plebiscito deberá emitir el acuerdo correspondiente.
-
-2. El acuerdo que declare la procedencia del plebiscito será publicado en el periódico oficial “El Estado de Jalisco”, o en su caso en la Gaceta Municipal, o en el medio oficial de divulgación previsto por el reglamento Municipal aplicable, incluyendo la convocatoria que contendrá:
-
-I. Fecha, lugar y hora de la jornada de consulta;
-
-II. Especificación precisa y detallada del acto de autoridad objeto del plebiscito;
-
-III. La pregunta o preguntas elaboradas por el Instituto Electoral;
-
-IV. La autoridad o autoridades de las que emana el acto o decisión de gobierno objeto del plebiscito;
-
-V. El ámbito territorial de aplicación del proceso, anexando una relación completa de las secciones Electorales donde se sufragará;
-
-VI. La exposición de motivos por los cuales los promoventes consideran que el acto o decisión de gobierno debe ser llevado a cabo, revocado o suspendido;
-
-VII. La exposición de motivos y de circunstancias especiales por las cuales la autoridad de la que emana el acto sujeto al proceso de plebiscito considera que los ciudadanos deben emitir su voto a favor del acto o decisión de gobierno;
-
-VIII. El número de electores que tiene derecho a participar, así como el porcentaje mínimo requerido para que el acto o decisión materia del plebiscito sea revocado o suspendido;
-
-IX. Consecuencias de los resultados que arrojaría la consulta; y
-
-X. Las demás disposiciones reglamentarias del procedimiento respectivo y particular que se consideren pertinentes.
-
-## Título Cuarto. Disposiciones Comunes del Referéndum y Plebiscito
-
-### Capítulo Primero. Preparación del Proceso
-
-Artículo 411
-
-1. La preparación del proceso de referéndum y plebiscito comprende los actos siguientes:
-
-I. La publicación del acuerdo del Instituto Electoral en el que se declare la procedencia;
-
-II. La aprobación de la circunscripción territorial donde se aplicará el proceso de consulta y las secciones electorales que lo componen;
-
-III. La integración, ubicación y publicación de las mesas directivas de casilla; y
-
-IV. La elaboración y entrega de la documentación y material electoral.
-
-Artículo 412
-
-1. El Instituto Electoral podrá ampliar o modificar los plazos y términos establecidos para el desarrollo del proceso de referéndum y plebiscito, cuando a su juicio exista imposibilidad material para realizar los actos previstos para su desarrollo, o así resulte conveniente para un mejor cumplimiento de las diversas etapas de estos procesos.
-
-2. El acuerdo del Consejo General del Instituto Electoral que determine ampliaciones o modificaciones a los plazos y términos se publicará en el periódico oficial “El Estado de Jalisco” dentro de los cinco días siguientes a la fecha de su aprobación.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### Artículo 392.
 
@@ -4343,267 +4495,793 @@ X. Consecuencias de los resultados de la consulta; y
 
 XI. Las demás disposiciones reglamentarias del proceso respectivo y particulares que se consideren pertinentes.
 
-## Título Quinto. Iniciativa Popular
+## Título Cuarto. Referéndum
 
-### Capítulo Segundo. Instancias Calificadoras
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+### Capítulo Único
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 407
+
+1. La ratificación constitucional es el instrumento de participación social mediante el cual la ciudadanía podrá validar o derogar una reforma a la Constitución Política del Estado de Jalisco.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 408
+
+1. Pueden solicitar que se convoque a la ratificación constitucional:
+
+I. El Gobernador del Estado;
+
+II. El cincuenta por ciento de los ayuntamientos del Estado; o
+
+III. El cincuenta por ciento de los diputados integrantes del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 409
+
+1. La solicitud de ratificación constitucional debe presentarse ante el Instituto, dentro de los treinta días naturales siguientes a la fecha de la publicación de la reforma constitucional respectiva.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 410
+
+1. La solicitud de ratificación constitucional deberá contener:
+
+I. El nombre y firma de los funcionarios que lo solicitan, y en el caso de los ayuntamientos basta con la firma del presidente municipal correspondiente, pero deberá acompañar copia certificada del acuerdo de Ayuntamiento que lo avale;
+
+II. La indicación precisa del texto normativo que se propone someter a ratificación constitucional;
+
+III. La exposición de motivos por los cuales debe someterse a la consideración de la ciudadanía; y
+
+IV. En su caso, la solicitud expresa de llevar a cabo la ratificación constitucional en fecha distinta a la jornada electoral y fuera del periodo del proceso electoral.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 411
+
+1. El Instituto deberá resolver sobre la procedencia de la ratificación constitucional dentro de los treinta días naturales siguientes a la presentación de la solicitud.
+
+2. Cuando la solicitud pida llevar a cabo la consulta en fecha distinta a la jornada electoral, el Instituto podrá ampliar el plazo anterior hasta por otros sesenta días naturales adicionales fundando y motivando su resolución.
+
+3. El Instituto remitirá copia certificada de dicho acuerdo y sus anexos a la autoridad solicitante y al Congreso del Estado.
+
+4. El acuerdo que emita el Instituto autorizando o negando la realización de este proceso fuera de la jornada electoral deberá estar fundado y motivado, e incluirá la documentación que acredite la posibilidad financiera o no de llevar a cabo la jornada de consulta.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 412
+
+1. La consulta se realizará preferentemente el día de la jornada electoral, salvo que el Instituto autorice, a petición de parte y por unanimidad de votos, su realización en una fecha distinta, fuera del periodo del proceso electoral y siempre que exista suficiencia presupuestal para realizarla.
+
+2. El resultado de la ratificación constitucional será vinculante, cuando en el proceso participe cuando menos el cuarenta por ciento del número de ciudadanos inscritos en la lista nominal de electores del Estado y vote el cincuenta por ciento más uno a favor de una de las opciones, que serán "a favor" o "en contra" de la reforma constitucional.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 Artículo 413
 
-1. El Instituto Electoral, según las necesidades del proceso y el ámbito territorial de aplicación, determinará la estructura mínima para que se realice el referéndum o plebiscito, pudiendo establecer las instancias calificadoras que requiera el caso, las que tendrán las facultades y atribuciones que les confiere el presente ordenamiento y acuerde el Consejo General.
+1. El Instituto efectuará el cómputo de los votos, emitirá la resolución correspondiente y la remitirá al Gobernador del Estado, dentro de los quince días naturales posteriores a la jornada comicial.
 
-2. Los Partidos Políticos con representación en el Consejo General, podrán nombrar un representante propietario y un suplente, ante la instancia calificadora que se designe.
+2. El Gobernador del Estado deberá publicar la resolución del Instituto, en el periódico oficial “El Estado de Jalisco”, dentro de los diez días naturales siguientes a su recepción.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 414
+
+1. Las reformas constitucionales sometidas a ratificación constitucional no pierden su vigencia, salvo que por el resultado de la votación el Instituto declare su derogación.
+
+2. La derogación por ratificación constitucional surte efectos a partir del día siguiente a la publicación oficial de la declaratoria respectiva del Instituto.
+
+3. En caso de que la norma sometida a ratificación constitucional sea derogada, se estará a lo dispuesto en lo que fuere aplicable a los efectos de referéndum.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### Artículo 405.
 
 1. El desistimiento de la solicitud sólo podrá hacerse valer desde su presentación y hasta los 10 días naturales después de publicada la convocatoria. En todos los casos, el desistimiento que presente el promovente, deberá ser ratificado por escrito ante el Secretario Ejecutivo del Instituto Electoral, dentro de los tres días hábiles siguientes al de su presentación.
 
-## Título Quinto (sic). Recursos
+## Título Quinto. De la Ratificación Constitucional
 
-Artículo 445
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
-1. Los solicitantes por conducto de su representante y poderes públicos que participen en los procesos de referéndum, plebiscito e iniciativa popular, podrán impugnar las resoluciones pronunciadas por el Instituto Electoral y las instancias calificadoras, así como los resultados consignados en las actas de cómputo Municipal o estatal, aplicando en lo conducente lo establecido en el presente ordenamiento legal.
+### Capítulo Único
 
-### Capítulo Tercero. Mesas Directivas de Casilla
-
-Artículo 414
-
-1. El Instituto Electoral, de conformidad con las necesidades particulares y específicas de cada proceso de referéndum o plebiscito, decidirá el número y ubicación de las casillas electorales, debiendo instalar cuando menos una por cada cinco secciones Electorales.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 Artículo 415
 
-1. Los ciudadanos en el Estado participarán en la realización de la consulta en la forma y términos que señale la Constitución Política local y este ordenamiento legal.
+1. Iniciativa popular es la facultad de los ciudadanos de presentar iniciativas de ley dirigidas al Congreso del Estado o iniciativas de reglamento dirigidas al Gobernador del Estado, para que sean analizadas y resueltas de conformidad con los procedimientos aplicables.
+
+2. La iniciativa popular podrá versar sobre cualquier materia que sea competencia materialmente legislativa del Congreso del Estado o del Poder Ejecutivo del Estado, salvo en las siguientes materias:
+
+I. Hacendaria, fiscal y presupuestal;
+
+II. Orgánica de los poderes, municipal y entidades paraestatales; y
+
+III. Creación de entidades paraestatales.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 Artículo 416
+
+1. La iniciativa popular deberá presentarse ante el Instituto Electoral por al menos el cero punto uno por ciento de los ciudadanos inscritos en la lista nominal de electores del Estado.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 417
+
+1. La solicitud deberá contener:
+
+I. El listado con los nombres, firmas y claves de elector y folios de la credencial para votar de quienes lo solicitan;
+
+II. El nombre del representante común;
+
+III. Un domicilio para recibir notificaciones, ubicado en el área metropolitana de Guadalajara; y
+
+IV. Exposición de motivos de la iniciativa y propuesta de articulado del ordenamiento legal correspondiente.
+
+2. La presentación de una iniciativa popular no supone su aprobación ni genera derecho a persona alguna, únicamente supone el inicio del procedimiento legislativo o de acuerdo Gubernamental que debe agotarse en virtud del interés público.
+
+3. El Instituto Electoral al recibir la solicitud de proyecto de iniciativa popular, dictaminará sobre su procedencia, verificará el cumplimiento de los requisitos legales y en su caso la remitirá al Congreso del Estado o al Gobernador del Estado, dentro de los quince días hábiles siguientes a su recepción.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+## Título Sexto. De la Iniciativa Popular
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+### Capítulo Único
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 418
+
+1. Iniciativa popular municipal es el instrumento mediante el cual los ciudadanos de un municipio inscritos en la lista nominal de electores pueden presentar iniciativas dirigidas al Ayuntamiento respectivo, para que sean analizadas y resueltas de conformidad con los procedimientos aplicables.
+
+2. La iniciativa popular municipal podrá versar sobre cualquier materia que sea competencia materialmente legislativa del municipio, salvo en las siguientes materias:
+
+I. Hacendaria, fiscal y presupuestal;
+
+II. Orgánica municipal; y
+
+III. Creación de entidades paramunicipales.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 419
+
+1. La iniciativa popular municipal debe presentarse ante el Instituto, por los números de ciudadanos siguientes:
+
+I. En los municipios en que la población no exceda de cincuenta mil habitantes; el tres por ciento de la lista nominal de electores, correspondiente al municipio;
+
+II. En los municipios en los que la población exceda los cincuenta mil, pero no los cien mil habitantes el dos por ciento de la lista nominal de electores, correspondiente al municipio;
+
+III. En los municipios en los que la población exceda cien mil pero no quinientos mil habitantes el uno por ciento de la lista nominal de electores, correspondiente al municipio; y
+
+IV. En los municipios en los que la población exceda los quinientos mil habitantes el cero punto cinco por ciento de la lista nominal de electores, correspondiente al municipio.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 420
+
+1. La solicitud de iniciativa popular municipal deben (sic) contener los mismos elementos que la iniciativa popular estatal.
+
+2. La presentación de una iniciativa popular municipal no supone su aprobación ni genera derecho a persona alguna, únicamente supone el inicio del procedimiento reglamentario municipal que debe agotarse en virtud del interés público.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 421
+
+1. El Instituto deberá dictaminar sobre su procedencia, verificar el cumplimiento de los requisitos legales y, en su caso, remitirla al ayuntamiento, dentro de los quince días hábiles siguientes a su recepción.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+## Título Séptimo. De la Iniciativa Popular Municipal
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+### Capítulo Único
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 422
+
+1. El presupuesto participativo es un instrumento de gestión y participación social, a través del cual la ciudadanía decide sobre el destino de un porcentaje de los recursos públicos.
+
+2. Cuando la autoridad municipal determine llevar a cabo una consulta de presupuesto participativo, y en el caso del presupuesto participativo estatal, el procedimiento de consulta estará a cargo del Instituto Electoral y el resultado de la misma se le comunicará a la autoridad para que aplique los recursos como corresponda, sin perjuicio de lo dispuesto en el artículo 386, párrafo 4.
+
+3. El Instituto podrá delegar en la autoridad estatal o municipal la organización y realización de la consulta de presupuesto participativo, a solicitud de parte y mediante convenio.
+
+4. El Instituto podrá convenir con el Poder Ejecutivo del Estado y los municipios para brindar asesoría y apoyo técnico en la organización, desarrollo, cómputo y declaración de sus resultados de los procesos de consulta de presupuesto participativo; así como para supervisar y validar dichos procesos, cuando el Ejecutivo o los municipios se lo soliciten.
+
+5. Las disposiciones del presente capítulo podrán ser supletorias o complementarias para los municipios que opten por utilizar este mecanismo de participación social, con el porcentaje que el Ayuntamiento determine.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 423
+
+1. El presupuesto participativo tendrá por objeto:
+
+I. Propiciar una distribución equitativa de los recursos públicos de que dispone el gobierno estatal, mediante un mecanismo público, objetivo, transparente y auditable; y
+
+II. Decidir sobre la ejecución de obras prioritarias para la recuperación del espacio público, el mejoramiento y rehabilitación de calles, la rehabilitación o creación de áreas verdes, el mejoramiento o construcción de infraestructura cultural, deportiva y recreativa, así como acciones de desarrollo sustentable, fortalecimiento de la seguridad pública y la cultura, entre otros.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 424
+
+1. El Gobierno del Estado proyectará anualmente en el presupuesto de egresos, una partida correspondiente al presupuesto participativo, equivalente al menos al quince por ciento del presupuesto destinado para inversión pública cuyo destino sea definido por la autoridad estatal.
+
+2. El Gobierno del Estado propondrá las obras que se someterán a consulta, procurando que la distribución de los proyectos sea equitativa par (sic) las distintas regiones que componen el Estado.
+
+3. Para impulsar el desarrollo municipal y regional, los ayuntamientos podrán convenir con el Poder Ejecutivo Estatal la realización de inversiones públicas conjuntas, que los habitantes de sus municipios determinen mediante el presupuesto participativo.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 425
+
+1. El Gobierno del Estado publicará la convocatoria en el Periódico Oficial “El Estado de Jalisco”, treinta días naturales antes de realizarse la consulta.
+
+2. La convocatoria debe contener:
+
+I. La metodología que se utilizará para realizar la consulta de presupuesto participativo y la duración del proceso;
+
+II. Las obras que se someterán a consideración de la ciudadanía; y
+
+III. El monto de los recursos públicos que se destinarán a la ejecución de las obras ganadoras.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 426
+
+1. El Gobierno del Estado está obligado a ejecutar la o las obras que obtengan la mayoría de votos en la consulta de presupuesto participativo.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+## Título Octavo. Presupuesto Participativo
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+### Capítulo Primero. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 427
+
+1. La revocación de mandato es el mecanismo de participación social mediante el cual los ciudadanos jaliscienses deciden que un representante de elección popular concluya anticipadamente el ejercicio del cargo para el que fue electo siempre y cuando se configuren las causales y se cumpla con los procedimientos establecidos en este Código.
+
+2. El Instituto será la única instancia facultada para realizar la consulta de este instrumento de participación social y no se podrá delegar en autoridad alguna.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+## Título Noveno. Revocación de Mandato
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+### Capítulo Segundo. De la preparación del Proceso
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 431
+
+1. La preparación del proceso de revocación de mandato comprende los actos siguientes:
+
+I. La publicación del acuerdo del Instituto Electoral en el que se declare la procedencia;
+
+II. La aprobación de la circunscripción territorial donde se aplicará el proceso de consulta y las secciones electorales que lo componen;
+
+III. La integración, ubicación y publicación de las mesas directivas de casilla; y
+
+IV. La elaboración y entrega de la documentación y material electoral.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 432
+
+1. El acuerdo del Tribunal Electoral que declare la procedencia deberá contener la fecha de realización de la consulta y se publicará en el periódico oficial "El Estado de Jalisco" dentro de los cinco días hábiles siguientes a la fecha de su aprobación.
+
+2. El Instituto Electoral podrá solicitar al Tribunal Electoral una ampliación o modificación de los plazos y términos establecidos para el desarrollo del proceso comicial cuando a su juicio exista imposibilidad material para realizar los actos previstos para su desarrollo, sin que pueda la ampliación exceder de treinta días naturales de la fecha señalada inicialmente.
+
+3. El acuerdo del Tribunal Electoral que determine ampliaciones o modificaciones a los plazos y términos deberá estar fundado y motivado y contener la fecha de realización de la consulta y se publicará en el periódico oficial "El Estado de Jalisco" dentro de los cinco días hábiles siguientes a la fecha de su aprobación.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 428.
+
+1. La revocación de mandato podrá ser solicitada por el cinco por ciento de los ciudadanos inscritos en la lista nominal de electores, distribuidos en las dos terceras partes de los distritos o secciones electorales de la demarcación territorial que corresponda.
+
+2. Serán causales para solicitar la revocación de mandato de un funcionario de elección popular las siguientes:
+
+I. Violar sistemáticamente los derechos humanos;
+
+II. Incumplir compromisos de campaña, programas, proyectos, o acciones de gobierno propuestos en su plataforma electoral, sin causa justificada, que por su naturaleza, trascendencia o cantidad sean considerados graves;
+
+III. Incumplir en la ejecución de los programas, proyectos, o acciones de gobierno que le corresponda aplicar o ejecutar, sin causa justificada;
+
+IV. Encubrir a sus subordinados cuando éstos incurran en actos de corrupción o de desacato a la Constitución o la ley;
+
+V. La manifiesta incapacidad administrativa de las autoridades ejecutivas o en el desempeño de su encargo;
+
+VI. Realizar u omitir actos que provoquen desajustes presupuestales severos que afecten el erario;
+
+VII. No ejecutar, manipular o hacer uso ilegítimo de las decisiones de los ciudadanos, manifestadas a través de los resultados de los mecanismos de participación social vinculantes previstos en este Código; o
+
+VI (SIC). La pérdida de confianza, debidamente argumentada.
+
+3. La revocación de mandato sólo podrá solicitarse transcurrida la mitad del período constitucional correspondiente al ejercicio del cargo de un representante electo popularmente y hasta ciento veinte días naturales después del inicio de la segunda mitad del periodo constitucional.
+
+4. Para solicitar la revocación de mandato de los diputados electos por el principio de representación proporcional se requiere de cuando menos el cinco por ciento del resultado de dividir el total de los ciudadanos inscritos en la lista nominal de electores en el Estado entre el número de diputados electos por este principio, distribuidos en las dos terceras partes de los distritos electorales.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 429
+
+1. La solicitud de revocación de mandato deberá contener:
+
+I. El listado con los nombres, firmas y claves de elector y folios de la credencial para votar de quienes lo solicitan;
+
+II. El nombre del representante común;
+
+III. Un domicilio para recibir notificaciones, en el área metropolitana de Guadalajara;
+
+IV. El nombre y cargo del funcionario que se propone someter al proceso de revocación de mandato; y
+
+V. La causa o causas por las que se solicita, las razones y argumentos de su procedencia, así como las pruebas que se ofrezcan, en su caso.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 430
+
+1. Una vez presentada la solicitud ante el Instituto, éste debe verificar los datos y compulsa de firmas de los formatos en los que se recabó el apoyo ciudadano, dentro de los quince días naturales siguientes a su recepción.
+
+2. Una vez verificado lo anterior, el Instituto debe remitir el expediente al Tribunal Electoral, para que éste, previo derecho de audiencia y defensa del funcionario sujeto al procedimiento, resuelva sobre la procedencia de la solicitud de revocación de mandato, a partir del estudio de las causales señaladas, dentro de los treinta días naturales siguientes a la recepción del expediente. La audiencia en la que se desahogue lo señalado en este párrafo deberá ser pública y se transmitirá por los medios que acuerde el Tribunal Electoral, atendiendo al principio de máxima publicidad.
+
+3. En caso de ser procedente la solicitud de revocación de mandato, la votación para determinar la revocación de mandato deberá llevarse a cabo a más tardar ciento veinte días naturales posteriores a dicha declaración.
+
+4. Para la validez del proceso deberán participar por lo menos la misma cantidad de ciudadanos que lo hicieron en el proceso electoral donde resultó electo el funcionario sujeto a este mecanismo.
+
+5. Para que proceda la revocación de mandato se requiere que el voto en el sentido de revocación sea mayor al número de votos por el que fue electo el funcionario.
+
+6. Para el caso de los munícipes, se tomará como número de votos por el que fue electo el funcionario, el número de votos que obtuvo la planilla de la que formó parte en la elección en la que resultó electo.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+### Capítulo Tercero. Instancias Calificadoras
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 433
+
+1. El Instituto Electoral, según las necesidades del proceso y el ámbito territorial de aplicación, determinará la estructura mínima para que se realice la consulta de revocación de mandato. El Instituto podrá establecer las instancias calificadoras que requiera el caso, las que tendrán las atribuciones que les confiere el presente Código y acuerde el Consejo General.
+
+2. Los solicitantes y el funcionario sujeto a revocación de mandato podrán nombrar un representante propietario y un suplente, ante la instancia calificadora que se establezca.
+
+3. En el proceso de revocación de mandato no procede el nombramiento de representantes de partidos políticos ante la instancia calificadora.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+### Capítulo Cuarto. Mesas Directivas de Casilla
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 434
+
+1. El Instituto Electoral, de conformidad con las necesidades particulares y específicas de cada proceso de consulta de revocación de mandato, decidirá el número y distribución de las casillas electorales, que deben instalarse en (sic) mismo número por sección electoral que en el proceso electoral en que resultó electo el funcionario sometido a revocación.
+
+2. El Instituto debe instalar cuando menos la misma cantidad de casillas que en el proceso electoral en que fue electo el funcionario sujeto a revocación de mandato.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 435
 
 1. La designación de los integrantes de las mesas directivas de casilla se sujetará a las disposiciones siguientes:
 
 I. En primer término se nombrará a los ciudadanos que fungieron como funcionarios de casilla en las últimas elecciones ordinarias locales; en caso de no ser localizados, serán llamados sus suplentes; y
 
-II. En caso de que no se complete el número de funcionarios de casilla se estará a lo que acuerde el Instituto Electoral, sujetándose en lo conducente, a lo establecido en el artículo 282 de este ordenamiento legal.
+II. En caso de que no se complete el número de funcionarios de casilla se estará a lo que acuerde el Instituto Electoral, sujetándose a este ordenamiento legal.
 
-2. En el proceso de referéndum y plebiscito no procede el nombramiento de representantes de partidos políticos en casillas.
+2. En el proceso de revocación de mandato no procede el nombramiento de representantes de partidos políticos en casillas.
 
-## Título Primero. De las Infracciones Electorales y Sanciones
+3. Los solicitantes y el funcionario sujeto a revocación de mandato podrán nombrar un representante propietario y un suplente, ante cada mesa directiva de casilla que se establezca.
 
-### Capítulo Cuarto. Inicio del Proceso
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
-Artículo 417
+### Capítulo Quinto. Inicio del Proceso
 
-1. El proceso de referéndum o plebiscito inicia con la publicación del acuerdo del Consejo General del Instituto Electoral por medio del cual declare la procedencia.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
-## Título Segundo. De los Procedimientos Sancionadores
+Artículo 436
 
-### Capítulo Quinto. Documentación y Material Electoral
+1. El proceso de consulta sobre la revocación de mandato inicia con la publicación del acuerdo del Tribunal Electoral por medio del cual declare la procedencia.
 
-Artículo 418
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
 
-1. Para la emisión del voto se imprimirán las boletas Electorales conforme al modelo que apruebe el Instituto Electoral, debiendo contener:
+### Capítulo Sexto. Documentación y Material Electoral
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
-I. Entidad, Municipio y Distrito, de conformidad con la naturaleza del sufragio y la aplicación territorial del proceso cuando se efectúe en uno o varios municipios;
+Artículo 437
+
+1. Para la emisión del voto se imprimirán las boletas electorales conforme al modelo que apruebe el Instituto Electoral.
+
+2. Las boletas deben contener:
+
+I. Entidad, Municipio y Distrito, de conformidad con la naturaleza del sufragio y la aplicación territorial del proceso;
 
 II. Sello del Instituto Electoral y firmas impresas del Consejero Presidente y Secretario Ejecutivo;
 
 III. Talón desprendible con folio;
 
-IV. La pregunta sobre si el ciudadano ratifica o no el acto materia de referéndum o plebiscito;
+IV. La pregunta sobre si el ciudadano revoca o no el mandato sujeto a consulta;
 
 V. Cuadros o círculos para el SI y para el NO; y
 
-VI. El acto sometido a referéndum o plebiscito.
+VI. El nombre completo y cargo del sujeto sometido a consulta de revocación de mandato.
 
-ADICIONADO, P.O. 19 DE JULIO DE 2011)
+3. En caso de que se utilice el dispositivo de recepción electrónica, el Instituto aprobará el modelo que corresponda.
 
-2. En caso de que se utilice el dispositivo de recepción electrónica, el Instituto aprobará el modelo que corresponda.
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
 
-## Título Tercero. De las Responsabilidades de los Servidores Públicos del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco
+### Capítulo Séptimo. Campaña de Difusión
 
-### Capítulo Sexto. Campaña de Difusión
-
-Artículo 419
-
-1. Para efectos de este Libro, campaña de difusión es toda actividad que realiza el Instituto Electoral a efecto de que los ciudadanos conozcan los argumentos en pro y en contra del acto materia de referéndum o plebiscito.
-
-Artículo 420
-
-1. Si durante el transcurso de la campaña de difusión, la celebración de la consulta genera desorden público o se observa un ambiente de intimidación para los votantes, el Instituto Electoral, previo dictamen elaborado por el Consejero Presidente, tomará las medidas siguientes:
-
-I. Decretará la suspensión temporal de la consulta;
-
-II. Decretará la suspensión definitiva de la consulta; o
-
-III. Decretará la continuación del proceso, previo a que el Consejero Presidente solicite a la autoridad competente implementar las medidas de seguridad necesarias.
-
-2. Cuando se determine la suspensión de la consulta, el Consejo General del Instituto Electoral enviará al Congreso del Estado un informe justificado de la suspensión.
-
-3. El acuerdo que determine la suspensión podrá ser impugnado ante el Tribunal Electoral del Estado.
-
-## Título Primero. Sistema de Medios de Impugnación
-
-### Capítulo Séptimo. Votación y Adopción de la Decisión
-
-Artículo 421
-
-1. Las leyes, reglamentos o decretos del Congreso del Estado, o los acuerdos de carácter general, reglamentos o decretos del titular del Poder Ejecutivo, o los reglamentos o disposiciones de carácter general, impersonal y abstracto emitidos por el Ayuntamiento, sometidos a referéndum sólo podrán ser derogados, o los actos materia de plebiscito no serán realizados, según corresponda, cuando así lo decida la mayoría de votos de los electores, siempre y cuando participen en dicho proceso cuando menos el cuarenta por ciento de los ciudadanos inscritos en el padrón electoral correspondiente a la circunscripción territorial en la que se aplicó.
-
-Artículo 422
-
-1. Tratándose de referéndum de normas constitucionales, sólo podrán derogarse cuando así lo determinen, a través del voto, la mayoría de los ciudadanos de la mayoría de los municipios que conforman el Estado y participen en el proceso de consulta un número de ciudadanos no menor al cuarenta por ciento de los inscritos en el padrón electoral.
-
-Artículo 423
-
-1. El Instituto Electoral hará el cómputo de los votos emitidos en el proceso de plebiscito o referéndum y remitirá la resolución correspondiente, al titular del Poder Ejecutivo para su publicación en el periódico oficial “El Estado de Jalisco”, o al Presidente Municipal, para su publicación en la Gaceta Municipal respectiva, o en su caso, en los estrados de las oficinas del Ayuntamiento, según corresponda.
-
-###### Artículo 428.
-
-1. Toda iniciativa popular que sea desechada, sólo se podrá volver a presentar una vez transcurridos seis meses contados a partir de la fecha en que fue rechazada a través del acuerdo legislativo respectivo.
-
-Artículo 429
-
-1. Para el estudio, análisis y dictaminación de una iniciativa popular se estará a lo dispuesto por la Ley Orgánica del Poder Legislativo del Estado.
-
-Artículo 430
-
-1. Toda iniciativa popular que se presente deberá ir acompañada de su exposición de motivos, cumpliendo con los requisitos que para las iniciativas establece la Ley Orgánica del Poder Legislativo del estado de Jalisco.
-
-Artículo 431
-
-1. Una vez presentada la iniciativa popular, los promoventes no tendrán la atribución de retirarla de su estudio.
-
-Artículo 432
-
-1. Para lo no establecido en el presente título se estará a lo dispuesto por la Ley Orgánica del Poder Legislativo del Estado de Jalisco.
-
-### Capítulo Octavo. Calificación de los Resultados
-
-Artículo 424
-
-1. El cómputo y la calificación del proceso de referéndum o plebiscito lo realizarán las instancias que determine el Consejo General del Instituto Electoral.
-
-Artículo 425
-
-1. La instancia calificadora enviará al Consejo General del Instituto Electoral la totalidad de las actas de escrutinio y el resultado final de la votación.
-
-2. El Consejero Presidente del Instituto Electoral declarará oficialmente los resultados del proceso de referéndum o plebiscito.
-
-3. Transcurridos los términos de impugnación y cuando causen ejecutoria las resoluciones del Tribunal Electoral del Estado, el Instituto Electoral remitirá los resultados definitivos, al titular del Poder Ejecutivo del Estado para que ordene su publicación en el periódico oficial “El Estado de Jalisco”; igualmente ordenará publicarlos en dos diarios de los de mayor circulación en el Estado, o al Presidente Municipal, para su publicación en la Gaceta Municipal respectiva, o en su caso, en los estrados de las oficinas del Ayuntamiento, según corresponda.
-
-Artículo 426
-
-1. El Instituto Electoral notificará al Congreso del Estado, al Poder Ejecutivo del Estado, o al Ayuntamiento, según corresponda, para que (sic) un plazo no mayor de treinta días acaten el resultado final del proceso de referéndum, cuando éste le haya sido vinculante, y se abstenga de aprobar nuevamente el ordenamiento revocado dentro de los dieciocho meses siguientes.
-
-2. Para el caso de los resultados finales del proceso de plebiscito, el Instituto Electoral notificará a la autoridad de la que emanó el acto o decisión de gobierno, en un plazo no mayor de diez días.
-
-### Capítulo Primero. Disposiciones Generales
-
-Artículo 427
-
-1. Para efecto de este Código, se entiende por iniciativa popular la facultad que tienen los ciudadanos de presentar ante el órgano legislativo de la entidad, iniciativas de ley, para que sean estudiadas, analizadas y dictaminadas de conformidad con el procedimiento previsto por la Ley Orgánica del Poder Legislativo del estado de Jalisco.
-
-2. Los ayuntamientos pueden establecer la iniciativa popular en sus respectivos ordenamientos municipales, pudiéndose regir para tal efecto por lo dispuesto en el siguiente artículo.
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
-
-### Capítulo Segundo. Materia de la Iniciativa Popular
-
-Artículo 433
-
-1. Es materia de iniciativa popular la creación, reforma, adición, derogación o abrogación de normas generales, impersonales y abstractas que tienen como fin otorgar derechos o imponer obligaciones a la generalidad de las personas, quedando excluidas:
-
-I. Las materias fiscal, hacendaria, presupuestal y económica;
-
-II. Las leyes orgánicas de los poderes del estado y organismos públicos autónomos; y
-
-III. Las leyes de creación de los organismos públicos descentralizados, empresas de participación estatal mayoritaria y fideicomisos públicos del Poder Ejecutivo del Estado.
-
-Artículo 434
-
-1. La iniciativa popular debe presentarse sobre una misma materia, señalando la ley a que se refiere y no debe contravenir otras disposiciones legales, ya sean federales o estatales; de ser así serán desechadas de plano.
-
-Artículo 435
-
-1. La iniciativa popular será única y exclusivamente sobre el ámbito de competencia estatal.
-
-Artículo 436
-
-1. La iniciativa popular puede ser para reformar, modificar, derogar, abrogar o crear un ordenamiento legal.
-
-Artículo 437
-
-1. El Congreso del Estado podrá desechar de plano toda iniciativa popular que no se refiera a las materias señaladas en este capítulo.
-
-### Capítulo Tercero. Requisitos
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 Artículo 438
 
-1. Para que proceda la iniciativa popular deberá estar apoyada cuando menos por el cero punto cinco por ciento de los ciudadanos inscritos en el padrón electoral del Estado.
+1. No podrá llevarse a cabo campaña alguna por parte de los solicitantes ni del funcionario sujeto a revocación de mandato o de terceros.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+### Capítulo Octavo. Del Cómputo y Resolución
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 Artículo 439
 
-1. La solicitud de iniciativa popular que formulen los ciudadanos deberán presentarse en las formas oficiales que elabore y distribuya en forma gratuita el Instituto Electoral, las que deben contener:
+1. La instancia calificadora hará el cómputo de los votos emitidos y enviará al Consejo General del Instituto Electoral la totalidad de las actas de escrutinio y el resultado final de la votación.
 
-I. Nombre del representante común de los promoventes;
+2. El Instituto Electoral hará el cómputo de los votos emitidos cuando no se establezcan instancias calificadoras; y el Consejero Presidente del Instituto Electoral remitirá el expediente completo al Tribunal Electoral, para que éste declare oficialmente los resultados del proceso de revocación de mandato y en su caso, declare la revocación de mandato del funcionario, dentro de los cinco días hábiles siguientes a la jornada comicial.
 
-II. Manifestación de conducirse bajo protesta de decir verdad;
+3. El Tribunal Electoral remitirá la resolución al titular del Poder Ejecutivo para su publicación en el periódico oficial “El Estado de Jalisco”, o al Presidente Municipal, para su publicación en la Gaceta Municipal respectiva, o en su caso, en los estrados de las oficinas del Ayuntamiento, según corresponda, dentro de los cinco días hábiles siguientes. También ordenará su publicación en dos diarios de circulación estatal. Cuando la autoridad no publique la resolución en el medio de difusión oficial dentro del plazo anterior, la publicación en los diarios de circulación estatal tendrá efectos de publicación oficial.
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+4. La revocación de mandato declarada y publicada en los términos de los párrafos anteriores surte efectos al día siguiente de que:
 
-III. Domicilio legal para recibir notificaciones;
+I. Transcurra el plazo para impugnar y no se presente el medio de defensa respectivo; o
 
-IV. Exposición de motivos de la iniciativa y propuesta de articulado del ordenamiento legal correspondiente; y
+II. Que cause ejecutoria la resolución del medio de impugnación presentado y ésta confirme la revocación de mandato declarada por el Instituto.
 
-V. Los siguientes datos en orden de columnas:
+5. Se estará a lo dispuesto a las normas relativas a cubrir las suplencias de los funcionarios de elección popular.
 
-a) Nombre completo de los ciudadanos solicitantes;
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
 
-b) Número de folio de la credencial para votar de los solicitantes;
+### Capítulo Único
 
-c) Clave de elector de los solicitantes;
-
-d) Sección electoral a la que pertenecen los solicitantes; y
-
-e) Firma de cada elector solicitante, que concuerde con la que aparece en la credencial para votar.
-
-2. En caso de que no exista forma oficial, se deberá presentar mediante escrito que reúna los requisitos que establece este artículo.
-
-3. Ningún servidor público podrá fungir como representante común.
-
-### Capítulo Cuarto. Trámite y Resolución
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 Artículo 440
 
-1. Recibida la solicitud de iniciativa popular, el secretario ejecutivo del Instituto Electoral verificará dentro de los tres días siguientes, que cumpla con los requisitos que establece el artículo 439. A falta de algún requisito, se requerirá al promovente previniéndolo para que lo subsane dentro de los tres días siguientes al de la notificación con el apercibimiento que de no cumplir con la prevención se desechará la solicitud.
+1. La consulta popular es el instrumento de participación social a través del cual los habitantes del Estado, un municipio u otra demarcación territorial, expresan sus opiniones respecto a temas de carácter público o impacto social.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 Artículo 441
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+1. La consulta popular será organizada y realizada por el Instituto, sin perjuicio de lo establecido en el artículo 386, párrafo 4.
 
-1. Si la solicitud de iniciativa popular cumple con los requisitos o fue subsanada por el promovente en los términos previstos por el artículo anterior, dentro de los treinta días siguientes el Consejo General, con el voto de cuando menos las dos terceras partes de sus integrantes, resolverá si la propuesta de reforma o proyecto de ley o Código, es materia de iniciativa popular.
+2. El Instituto podrá delegar en los Poderes Legislativo y Ejecutivo del Estado, así como en los Ayuntamientos, la organización y realización de consultas populares.
 
-2. Si la propuesta o proyecto no es materia de iniciativa popular se resolverá la improcedencia.
-
-3. Si se resuelve que la propuesta de reforma o proyecto de ley o Código, sí es materia de iniciativa popular, el Consejo General acordará el procedimiento para la verificación de la autenticidad de los datos de los ciudadanos que respalden y apoyen la solicitud respectiva. Dicho procedimiento se realizará invariablemente de manera aleatoria y deberá adoptar técnicas de muestreo científicamente sustentadas.
-
-4. Si como resultado del procedimiento para la verificación de la autenticidad de los datos de los ciudadanos que respalden y apoyen la solicitud respectiva se obtiene que no se reúnen el número de ciudadanos que establece el artículo 438, el Consejo General desechará por improcedente la solicitud de iniciativa popular.
-
-5. Si del procedimiento de verificación a que se refiere el párrafo anterior, se obtiene que se cumple con el requisito que establece el artículo 438, el Consejo General, con el voto de cuando menos las dos terceras partes de sus integrantes, resolverá la procedencia de la iniciativa popular. En este caso se deberá ordenar el envío al Congreso del Estado de la solicitud de iniciativa popular, la propuesta de reforma o proyecto de ley o decreto, así como la exposición de motivos.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 Artículo 442
 
-1. En toda propuesta de iniciativa popular deberán observarse las reglas de interés general y no deberá afectarse el orden público, evitando las injurias y términos que denigren a la autoridad, a la sociedad o a un sector de ella, de ser así se desechará de plano.
+1. Pueden solicitar una consulta popular en temas relativos a los Poderes Ejecutivo o Legislativo:
+
+I. El cincuenta por ciento de los integrantes del Congreso del Estado;
+
+II. El titular del Poder Ejecutivo del Estado; y
+
+III. El cero punto uno por ciento de los habitantes de la demarcación territorial correspondiente.
+
+2. Pueden solicitar una consulta popular en temas relativos al gobierno municipal:
+
+I. El cincuenta por ciento de los integrantes del Ayuntamiento; y
+
+II. El cero punto cinco por ciento de los habitantes de la demarcación territorial especifica.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 Artículo 443
 
-1. Una vez recibida la iniciativa popular, el Pleno del Congreso del Estado la turnará a la Comisión que corresponda de acuerdo con la materia de que se trate.
+1. La solicitud de consulta popular debe contener:
 
-2. El Presidente de la comisión correspondiente podrá invitar al representante común para que exponga los argumentos jurídicos, sociales y demás puntos relevantes el día en que se discuta el dictamen relativo a la iniciativa popular cuya representación detenta.
+I. En el caso de solicitud de habitantes:
+
+a) El listado con los nombres y firmas de quienes la solicitan;
+
+b) El nombre del representante común;
+
+c) Un domicilio para recibir notificaciones, en el área metropolitana de Guadalajara si es consulta popular estatal, o en la cabecera municipal si es consulta popular municipal;
+
+II. En el caso de solicitud de autoridades, el nombre y cargo de los firmantes;
+
+III. La indicación precisa del tema que se pretende someter a consulta, así como el listado de preguntas, preferentemente bajo la modalidad de preguntas cerradas o de opción múltiple;
+
+IV. La finalidad de la consulta popular; y
+
+V. La demarcación territorial específica en la que se pretende aplicar la consulta.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 Artículo 444
 
-1. El ejercicio de la iniciativa popular no supone que el Congreso del Estado deba aprobar las iniciativas así presentadas, sino únicamente que las mismas deben ser valoradas mediante el procedimiento legislativo establecido en la ley.
+1. En caso de que la autoridad no oriente su decisión o sus actos con base en los resultados de la consulta popular deberá razonar su determinación y publicarla en su medio de comunicación oficial.
 
-2. La presentación de una iniciativa popular no genera derecho a persona alguna, únicamente supone el inicio del procedimiento legislativo que debe agotarse en virtud del interés público.
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+## Título Décimo. Consulta Popular
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+### Capítulo Único
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 445
+
+1. La Contraloría Social es un espacio para que la ciudadanía y los organismos del sector social y privado formen una instancia de vigilancia y observación de las actividades de gobierno.
+
+2. El propósito fundamental de la Contraloría Social es constituirse como una instancia de participación y organización social donde, a través de acciones conjuntas entre el Gobierno y la sociedad civil organizada, lleven a cabo la vigilancia y el seguimiento de las obras, programas y acciones gubernamentales; observar que se cumpla con las metas establecidas y que los recursos invertidos en ellas se apliquen correctamente.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+## Título Décimo Primero. De la Contraloría Social
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+### Capítulo Único
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 445
+
+E
+
+1. Cabildo abierto es el instrumento en el que los ciudadanos, a través de representantes de asociaciones vecinales debidamente registradas, tienen derecho a presentar propuestas o solicitudes en por lo menos seis sesiones ordinarias de las que celebre en (sic) Ayuntamiento en el año.
+
+2. Los municipios regularán la forma y periodicidad en que se celebrarán las sesiones de cabildo abierto, de conformidad con las bases que establezca la legislación estatal en materia de gobierno y administración pública municipal.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 445
+
+Artículo 445-A
+
+1. Los Poderes del Estado, organismos constitucionales autónomos y municipios deberán emitir los reglamentos y disposiciones administrativas para la creación, integración y funcionamiento de las contralorías sociales, de conformidad con la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+## Título Décimo Segundo. Del Cabildo Abierto
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE JUNIO DE 2016)</small>
+
+### Capítulo Único
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 445
+
+F
+
+1. Las Juntas Municipales son una instancia de participación social en los asuntos gubernamentales del municipio, a través de asociaciones vecinales debidamente registradas.
+
+2. Los objetivos, atribuciones, obligaciones y facultades de las Juntas Municipales serán regulados por los municipios, de conformidad con las bases que establezca la legislación estatal en materia de gobierno y administración pública municipal.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRA, P.O. 16 DE JUNIO DE 2016)</small>
+
+## Título Décimo Tercero. De las Juntas Municipales
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE JUNIO DE 2016)</small>
+
+### Capítulo Único
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 445
+
+G
+
+1. Recibida una solicitud relativa a los instrumentos de participación social, el Instituto Electoral o la instancia municipal competente en caso de existir delegación de facultades, según corresponda, verificará, dentro de los quince días hábiles siguientes, que se cumplan los requisitos de procedencia, salvo que este Código establezca en particular un plazo distinto.
+
+2. A falta de algún requisito, se requerirá y prevendrá al representante común de los promoventes, para que lo subsane dentro de los cinco días hábiles siguientes al de la notificación, con el apercibimiento que de no cumplir con la prevención se desechará la solicitud.
+
+3. Si la solicitud cumple con los requisitos, el Secretario Ejecutivo del Instituto Electoral, solicitará apoyo a la Dirección Ejecutiva del Registro Federal de Electores para verificar que se haya reunido el porcentaje de apoyo ciudadano que corresponda. Una vez recibido el dictamen y de haberse reunido el apoyo necesario, el Instituto Electoral decretará el inicio del proceso de participación social de que se trate, realizando la consulta dentro de los siguientes sesenta días naturales a la declaratoria de procedencia, salvo que este Código señale otro plazo.
+
+4. El Instituto Electoral de conformidad con las necesidades particulares y específicas del proceso, regularán lo relativo a la metodología e instrumentos más idóneos para su organización, que deberán garantizar la mayor participación ciudadana, transparencia y certeza jurídica.
+
+5. En el mes de enero de cada año, con base en el corte del listado nominal del mes de diciembre del año inmediato anterior, el Instituto Electoral publicará la cantidad de firmas requeridas de ciudadanos para solicitar la aplicación del instrumento de participación social respectivo. Para verificar la calidad de los ciudadanos que participan en la solicitud de los mecanismos de participación social, se utilizará el listado nominal de electores con corte a la fecha de la presentación de la solicitud.
+
+6. El costo de la organización y desarrollo de los instrumentos de participación social será a cargo de:
+
+I. Las autoridades solicitantes, cuando la solicitud formal para accionar un mecanismo de participación social la hayan presentado las mismas; y
+
+II. La autoridad que organice el proceso de consulta, cuando la solicitud la presenten los ciudadanos.
+
+7. El presente procedimiento es de aplicación supletoria a los mecanismos de participación social de revocación de mandato y presupuesto participativo.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 445
+
+H
+
+1. La emisión del sufragio en los mecanismos de participación social y la recepción del mismo se realizará preferentemente por medios electrónicos, siempre que se garantice que el voto sea libre, secreto, universal e intransferible.
+
+2. Cuando sea posible la consulta o jornada comicial se celebrará el mismo día de la elección constitucional.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 445
+
+I
+
+1. Es aplicable a la jornada de consulta de los mecanismos de participación social cuando proceda lo dispuesto para la jornada electoral en la Ley General de Instituciones y Procedimientos Electorales, que no contravenga disposiciones de este Libro.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 445
+
+J
+
+1. Transcurridos los términos de impugnación o cuando causen ejecutoria las resoluciones de los órganos jurisdiccionales competentes, la autoridad que lleve a cabo los procesos de participación social, declarará los resultados del proceso de participación social y remitirá los resultados definitivos, al titular del Poder Ejecutivo del Estado para que ordene su publicación en el periódico oficial “El Estado de Jalisco” o al Presidente Municipal, para su publicación en la Gaceta Municipal respectiva. Así mismo se deberá notificar a la autoridad señalada y sobre la que recae la resolución la declaratoria de los resultados del proceso de participación social.
+
+2. El resultado del mecanismo de participación social surtirá efectos al día siguiente de la publicación que señala el párrafo anterior.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRA, P.O. 16 DE JUNIO DE 2016)</small>
+
+## Título Décimo Cuarto. Del procedimiento y desarrollo del plebiscito, referéndum, iniciativa popular estatal y municipal, ratificación constitucional y consulta popular
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRA, P.O. 16 DE JUNIO DE 2016)</small>
+
+### Capítulo Único
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 445
+
+K
+
+1. Los partidos políticos no podrán intervenir de forma alguna en los procesos de participación social.
+
+2. El Consejo del Instituto Electoral sancionará a los partidos políticos por la violación a lo dispuesto en el artículo anterior con multa de tres mil a diez mil veces el valor diario de la Unidad de Medida y Actualización y dará vista al Ministerio Público, para que en su caso integre la carpeta de investigación correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 445
+
+L
+
+1. Cuando los instrumentos de participación social sean promovidos por ciudadanos, ningún servidor público ni representante de partido o agrupación políticos podrá fungir como representante común.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 445
+
+M
+
+1. Los servidores públicos que no acaten los resultados emanadas (sic) de los procedimientos de participación social vinculatorios, serán sancionados por el Instituto Electoral, con multa de cinco mil a diez mil veces el valor diario de la Unidad de Medida y Actualización.
+
+2. El incumplimiento de los efectos de los resultados de los instrumentos de participación social vinculantes se considera omisión que redunda en perjuicio del interés público fundamental y de su buen despacho y será sancionada en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco y sus Municipios.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 445
+
+N
+
+1. Los servidores públicos encargados de la realización de los procesos de participación social que incumplan con las disposiciones del presente Código, serán sancionados con multa de quinientos a mil veces el valor diario de la Unidad de Medida y Actualización con la salvedad de que exista insuficiencia o posibilidad presupuestaria o causa justificada debidamente fundada y motivada.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRA, P.O. 16 DE JUNIO DE 2016)</small>
+
+## Título Décimo Quinto. De las Prohibiciones y Sanciones
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRA, P.O. 16 DE JUNIO DE 2016)</small>
+
+### Capítulo Único
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 445
+
+Ñ
+
+1. Los actos, omisiones o resoluciones definitivas que emanen de la autoridad encargada de los procesos de participación social, que los interesados estimen antijurídicos, infundados o faltos de motivación, pueden ser impugnados mediante el recurso de revisión, ante la autoridad emisora o el Instituto.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 445
+
+O
+
+1. El recurso de revisión debe interponerse por escrito por escrito (sic) firmado por el afectado o por su representante debidamente acreditado, dentro del plazo de cinco días hábiles contados a partir del día siguiente en que la resolución se notifique o se haga del conocimiento del o los interesados, conforme a las disposiciones establecidas en el presente Código.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 445
+
+P
+
+1. El escrito del recurso de revisión debe contener:
+
+I. El nombre y domicilio del inconforme y, en su caso de quien promueve en su nombre;
+
+II. El interés jurídico con que comparece;
+
+III. La autoridad o autoridades que dictaron el acto impugnado;
+
+IV. La manifestación del afectado, bajo protesta de decir verdad, de la fecha en que tuvo conocimiento de la resolución que impugnan;
+
+V. La mención precisa del acto de la autoridad que motive la interposición del recurso de revisión;
+
+VI. Los conceptos de violación o, en su caso, las objeciones a la resolución o acto que se reclama; y
+
+VII. Las pruebas que ofrezca, señalando aquellas que obren en el expediente.
+
+2. Al escrito del recurso de revisión se debe acompañar:
+
+I. Copia de la identificación oficial, así como los documentos que acrediten su personalidad, cuando actúe en nombre de otro;
+
+II. El documento en que conste el acto impugnado y en caso de no contar con tal documento, señalar bajo protesta de decir verdad el acto u omisión que se impugna y la autoridad que lo realizó;
+
+III. Constancia de notificación del acto impugnado, excepto cuando el promovente declare bajo protesta de decir verdad que no la recibió; y
+
+IV. Las pruebas documentales que ofrezca, excepto cuando estas obren en el expediente y así lo señale el recurrente.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 445
+
+Q
+
+1. Admitido el recurso, en caso de ser necesario se abrirá un periodo probatorio, que no excederá de diez días hábiles para desahogar aquellas pruebas que así lo requieran.
+
+2. Concluida la etapa de pruebas, la autoridad que conoce del recurso deberá resolver en un plazo de diez días hábiles.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 445
+
+R
+
+1. La autoridad encargada de resolver el recurso de revisión podrá desecharlo por improcedente o sobreseerlo.
+
+2. Será desechado el recurso por improcedente en los siguientes supuestos:
+
+I. Contra actos que no sean materia del recurso de revisión;
+
+II. Cuando sea presentado fuera del plazo legal para su interposición; o
+
+III. Cuando no se haya acompañado la documentación que acredite la personalidad del promovente.
+
+3. Será sobreseído el recurso de revisión en los siguientes supuestos:
+
+I. Cuando el promovente se desista expresamente; y
+
+II. Por falta de objeto, materia o existencia del acto reclamado.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 445
+
+S
+
+1. En contra de la resolución que resuelve el recurso de revisión, procede el recurso de apelación ante el Tribunal Electoral del Estado.
+
+## Título Décimo Sexto. De los Recursos en Materia de Participación Social
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRA, P.O. 16 DE JUNIO DE 2016)</small>
 
 ### Capítulo Primero. Sujetos Responsables
 
@@ -4634,6 +5312,44 @@ X. Las organizaciones sindicales, laborales o patronales, o de cualquier otra ag
 XI. Los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión; y
 
 XII. Los demás sujetos obligados en los términos del presente Código.
+
+###### Artículo 445
+
+B
+
+1. La Contraloría Social tendrá las atribuciones siguientes:
+
+I. Solicitar la información a las autoridades estatales y municipales que considere necesaria para el desempeño de sus funciones;
+
+II. Vigilar el ejercicio de los recursos públicos y que las acciones gubernamentales se realicen conforme a la normativa aplicable;
+
+III. Emitir informes sobre el desempeño de los programas y ejecución de los recursos públicos;
+
+IV. Presentar ante la autoridad competente las quejas y denuncias sobre posibles responsabilidades políticas, administrativas, civiles o penales, derivado de sus actividades de vigilancia; y
+
+V. Las demás que establezcan los reglamentos estatales o municipales correspondientes.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 445
+
+C
+
+1. Los ciudadanos, colegios o asociaciones de profesionistas, las asociaciones civiles, las asociaciones de vecinos, así como otras formas de organización social tendrán derecho de ejercer como Contraloría Social en temas o ante entes públicos, relacionados con su objeto social. Para acreditarse como Contraloría Social deberán presentar solicitud por escrito ante los titulares de los entes públicos.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 445
+
+D
+
+1. Los entes públicos deberán otorgar las facilidades necesarias a las Contralorías Sociales, para el ejercicio de sus atribuciones.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE JUNIO DE 2016)</small>
+
+# Libro Sexto. De los Regímenes Sancionador Electoral y Disciplinario Interno
+
+## Título Primero. De las Infracciones Electorales y Sanciones
 
 ### Capítulo Segundo. Infracciones de los Partidos Políticos
 
@@ -4695,8 +5411,6 @@ ADICIONADA, P.O. 19 DE JULIO DE 2011)
 
 XVI. La comisión de cualquiera otra falta de las previstas en este Código.
 
-## Título Segundo. Reglas Comunes Aplicables a los Medios de Impugnación
-
 ### Capítulo Tercero. Infracciones de Agrupaciones Políticas
 
 Artículo 448
@@ -4714,8 +5428,6 @@ II. El incumplimiento, de cualquiera otra de las disposiciones contenidas en la 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
 
 III. Incurrir en cualquiera otra de las conductas prohibidas por la Ley General y este Código.
-
-## Título Tercero. Medios de Impugnación en Materia Electoral
 
 ### Capítulo Cuarto. Infracciones de los Aspirantes, Precandidatos y Candidatos
 
@@ -4789,8 +5501,6 @@ XIV. La omisión o el incumplimiento de la obligación de proporcionar en tiempo
 
 XV. El incumplimiento de cualquiera de las disposiciones contenidas en la Ley General, este Código; y demás disposiciones aplicables.
 
-## Título Cuarto. Recursos Administrativos
-
 ### Capítulo Quinto. Infracciones de los Ciudadanos, Afiliados y Dirigentes de los Partidos Políticos
 
 Artículo 450
@@ -4821,8 +5531,6 @@ V. La promoción de denuncias frívolas. Para tales efectos, se entenderá como 
 
 VI. El incumplimiento de cualquiera de las disposiciones contenidas en la Ley General y este Código.
 
-## Título Quinto. Recurso de Revisión
-
 ### Capítulo Sexto. Infracciones de los Observadores Electorales y sus Organizaciones
 
 Artículo 451
@@ -4834,8 +5542,6 @@ I. El incumplimiento, de las obligaciones establecidas en los párrafos 4 y 5 de
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
 
 II. El incumplimiento de cualquiera de las disposiciones contenidas en la Ley General y este Código.
-
-## Título Sexto. Medios Judiciales de Impugnación
 
 ### Capítulo Séptimo. Infracciones de Servidores Públicos
 
@@ -4859,8 +5565,6 @@ V. La utilización de programas sociales y de sus recursos, del ámbito federal,
 
 VI. El incumplimiento de cualquiera de las disposiciones contenidas en la Ley General y este Código.
 
-## Título Séptimo. Recurso de Apelación
-
 ### Capítulo Octavo. Infracciones de los Notarios Públicos
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
@@ -4869,8 +5573,6 @@ Artículo 453
 
 1. Constituyen infracciones al presente Código de los notarios públicos, el incumplimiento de las obligaciones de mantener abiertas sus oficinas el día de la elección y de atender las solicitudes que les hagan los funcionarios de casilla, los ciudadanos y los representantes de partidos políticos y candidatos independientes, para dar fe de hechos o certificar documentos concernientes a la elección.
 
-## Título Octavo. Juicio de Inconformidad
-
 ### Capítulo Noveno. Infracciones de los Extranjeros
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
@@ -4878,10 +5580,6 @@ Artículo 453
 Artículo 454
 
 1. Constituyen infracciones de los extranjeros al presente Código, las conductas que violen lo dispuesto por el artículo 33, de la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables.
-
-# Libro Sexto. De los Regímenes Sancionador Electoral y Disciplinario Interno
-
-## Título Noveno. Nulidades y sus Declaratorias
 
 ### Capítulo Décimo. Infracciones de Organizaciones de Ciudadanos que Pretendan Formar Partidos Políticos
 
@@ -5341,6 +6039,8 @@ V. Rechazado un proyecto de resolución se entiende que se aprueba un acuerdo de
 
 8. En el desahogo de los puntos del orden del día en el que el Consejo deba resolver sobre los proyectos de resolución relativos a quejas o denuncias, se agruparán y votarán en un solo acto, salvo que alguno de sus integrantes proponga su discusión por separado.
 
+## Título Segundo. De los Procedimientos Sancionadores
+
 ### Capítulo Tercero. Del Procedimiento Sancionador Especial
 
 Artículo 471
@@ -5649,6 +6349,8 @@ Artículo 491
 
 1. Las resoluciones que impongan sanciones administrativas podrán ser impugnadas través (sic) de los medios de defensa que establezcan el Estatuto y los demás ordenamientos de carácter reglamentario; los interesados podrán optar por la impugnación directa de aquéllas ante el Tribunal Electoral en los términos del Libro Séptimo de este Código.
 
+## Título Tercero. De las Responsabilidades de los Servidores Públicos del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco
+
 ### Capítulo Tercero. De la Contraloría General
 
 Artículo 492
@@ -5795,7 +6497,9 @@ I. El recurso de revisión, para garantizar la legalidad de actos y resoluciones
 
 II. El recurso de apelación y el juicio de inconformidad, para juzgar la legalidad de actos y resoluciones de las autoridades electorales locales;
 
-III. Los medios de impugnación precedentes que en lo conducente sean aplicables para dirimir controversias respecto de los procesos de plebiscito y referéndum e iniciativa popular; y
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+III. Los medios de impugnación precedentes que en lo conducente sean aplicables para dirimir controversias respecto de los procesos de mecanismos de participación social; y
 
 IV. Los procedimientos especiales para dirimir los conflictos o diferencias laborales entre el Instituto Electoral y sus servidores.
 
@@ -5813,6 +6517,30 @@ Artículo 503
 
 1. Las autoridades estatales, municipales, así como los ciudadanos, partidos políticos, candidatos, organizaciones y agrupaciones políticas o de ciudadanos, y todas aquellas personas físicas o morales, que con motivo del trámite, sustanciación y resolución de los medios de impugnación previstos en este Libro, no cumplan las disposiciones de este Código o desacaten las resoluciones que dicten el Tribunal Electoral o, en su caso, los órganos del Instituto Electoral, serán sancionados en los términos del presente ordenamiento.
 
+###### Artículo 496.
+
+1. Los servidores públicos adscritos a la Contraloría General y los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo de desempeño de sus funciones así como de sus actuaciones y observaciones.
+
+Artículo 497
+
+1. Los órganos, áreas ejecutivas y servidores públicos del Instituto están obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les formule la Contraloría, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que este Código o las leyes aplicables les confieren.
+
+Artículo 498
+
+1. Si transcurrido el plazo establecido por la Contraloría General, el órgano o área fiscalizada, sin causa justificada, no presenta el informe o documentos que se le soliciten, la Contraloría procederá a fincar las responsabilidades que correspondan conforme a derecho.
+
+2. El fincamiento de responsabilidades y la imposición de sanciones no relevará al infractor de cumplir con las obligaciones o regularizar las situaciones que las motivaron.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+
+3. La Contraloría, además de imponer la sanción respectiva, requerirá al infractor para que dentro del plazo determinado, que nunca será mayor a cuarenta y cinco días, cumpla con la obligación omitida motivo de la sanción, el incumplimiento será motivo de nueva responsabilidad. Si la infracción fuera cometida por algún consejero electoral, deberá realizar un informe circunstanciado y deberá remitirlo al Consejo General del Instituto Nacional Electoral o la autoridad correspondiente para que se imponga la sanción respectiva.
+
+4. Durante el desahogo de los procedimientos administrativos tendientes, al fincamiento de responsabilidades, los servidores públicos tendrán asegurado el ejercicio de las garantías constitucionales.
+
+# Libro Séptimo. Sistema de Medios de Impugnación
+
+## Título Primero. Sistema de Medios de Impugnación
+
 ### Capítulo Primero. Prevenciones Generales
 
 Artículo 504
@@ -5824,8 +6552,6 @@ Artículo 504
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
 3. El Tribunal Electoral, resolverá los asuntos de su competencia con las facultades de autonomía técnica y de gestión e (sic) su funcionamiento e independencia en sus decisiones que le otorga la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Jalisco, la Ley General y las disposiciones del presente ordenamiento.
-
-## Título Décimo. Medios de Impugnación para Dirimir Controversias Respecto de los Procesos de Participación Ciudadana
 
 ### Capítulo Segundo. Plazos y Términos
 
@@ -5839,9 +6565,11 @@ Artículo 505
 
 4. Durante el tiempo que no corresponda a un proceso electoral ordinario o extraordinario, serán horas hábiles las que medien entre las siete y las diecinueve horas de los días hábiles.
 
-5. En los de los medios de impugnación que sean aplicables para dirimir controversias respecto de los procesos de plebiscito, referéndum e iniciativa popular, se estará a los plazos que establece el párrafo anterior.
+5. (DEROGADO, P.O. 16 DE JUNIO DE 2016)
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+## Título Segundo. Reglas Comunes Aplicables a los Medios de Impugnación
 
 ### Capítulo Tercero. Requisitos de los Medios de Impugnación
 
@@ -5925,6 +6653,10 @@ I. En los asuntos de la competencia del Tribunal, el Magistrado Electoral propon
 
 II. En los asuntos de la competencia del Consejo General del Instituto Electoral y de sus órganos desconcentrados, el Secretario respectivo, propondrá el dictamen del sobreseimiento al órgano competente quien resolverá lo conducente.
 
+###### Artículo 506.
+
+1. Los medios de impugnación previstos en este Código deberán presentarse dentro de los seis días contados a partir del siguiente al en que surta efectos la notificación del acto o resolución impugnado, salvo las excepciones previstas expresamente en el presente ordenamiento.
+
 ### Capítulo Quinto. Partes
 
 Artículo 512
@@ -5958,8 +6690,6 @@ V. Los escritos deberán estar firmados autógrafamente.
 Artículo 514
 
 1. En el caso de coaliciones, la representación legal se acreditará en los términos del convenio respectivo, de conformidad con lo dispuesto por el presente Código.
-
-## Título Décimo Primero. Procedimientos Especiales para Dirimir los Conflictos o Diferencias Laborales entre el Instituto Electoral y sus Servidores
 
 ### Capítulo Sexto. Legitimación y Personería
 
@@ -6145,32 +6875,6 @@ II. Los motivos y fundamentos jurídicos que considere pertinentes para sostener
 
 III. La firma del servidor público con facultades suficientes para rendirlo, en los términos de este Código.
 
-###### Artículo 496.
-
-1. Los servidores públicos adscritos a la Contraloría General y los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo de desempeño de sus funciones así como de sus actuaciones y observaciones.
-
-Artículo 497
-
-1. Los órganos, áreas ejecutivas y servidores públicos del Instituto están obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les formule la Contraloría, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que este Código o las leyes aplicables les confieren.
-
-Artículo 498
-
-1. Si transcurrido el plazo establecido por la Contraloría General, el órgano o área fiscalizada, sin causa justificada, no presenta el informe o documentos que se le soliciten, la Contraloría procederá a fincar las responsabilidades que correspondan conforme a derecho.
-
-2. El fincamiento de responsabilidades y la imposición de sanciones no relevará al infractor de cumplir con las obligaciones o regularizar las situaciones que las motivaron.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
-
-3. La Contraloría, además de imponer la sanción respectiva, requerirá al infractor para que dentro del plazo determinado, que nunca será mayor a cuarenta y cinco días, cumpla con la obligación omitida motivo de la sanción, el incumplimiento será motivo de nueva responsabilidad. Si la infracción fuera cometida por algún consejero electoral, deberá realizar un informe circunstanciado y deberá remitirlo al Consejo General del Instituto Nacional Electoral o la autoridad correspondiente para que se imponga la sanción respectiva.
-
-4. Durante el desahogo de los procedimientos administrativos tendientes, al fincamiento de responsabilidades, los servidores públicos tendrán asegurado el ejercicio de las garantías constitucionales.
-
-# Libro Séptimo. Sistema de Medios de Impugnación
-
-## Título Primero
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
-
 ### Capítulo Noveno. Sustanciación
 
 Artículo 536
@@ -6289,10 +6993,6 @@ Artículo 546
 
 1. Las sentencias que dicte el Tribunal Electoral serán definitivas e inatacables, por lo que en su contra no procederá juicio o recurso alguno, salvo los previstos en la Constitución Política de los Estados Unidos Mexicanos.
 
-## Título Segundo. Del Proceso de Selección de Candidatos Independientes
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE JULIO DE 2014)</small>
-
 ### Capítulo Décimo Primero. Notificaciones
 
 Artículo 547
@@ -6363,10 +7063,6 @@ Artículo 560
 
 2. Dictado el acuerdo de separación, el Magistrado Instructor concluirá la sustanciación por separado de los expedientes que hubiesen resultado, formulando los diversos proyectos de sentencia.
 
-###### Artículo 506.
-
-1. Los medios de impugnación previstos en este Código deberán presentarse dentro de los seis días contados a partir del siguiente al en que surta efectos la notificación del acto o resolución impugnado, salvo las excepciones previstas expresamente en el presente ordenamiento.
-
 ### Capítulo Décimo Tercero. Medios de Apremio y Correcciones Disciplinarias
 
 Artículo 561
@@ -6427,6 +7123,24 @@ Artículo 571
 
 2. Para hacer cumplir las disposiciones del presente ordenamiento y las resoluciones que dicten los órganos del Instituto Electoral, el Consejo General podrá aplicar discrecionalmente las sanciones a que le faculta este Código.
 
+###### Artículo 557.
+
+(DEROGADO, P.O. 19 DE JULIO DE 2011)
+
+Artículo 558
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2011)</small>
+
+1. No requerirán de notificación personal y surtirán sus efectos al día siguiente de su publicación o fijación en estrados, los actos o resoluciones que, en los términos de las leyes aplicables o por acuerdo del órgano competente, deban hacerse públicos a través de:
+
+I. El periódico oficial de la entidad;
+
+II. Los diarios o periódicos de circulación local;
+
+III. Lugares públicos; o
+
+IV. La fijación de cédulas en los estrados de los órganos del Instituto Electoral y del Tribunal Electoral.
+
 ### Capítulo Único. Disposiciones Generales
 
 Artículo 572
@@ -6455,6 +7169,18 @@ Artículo 579
 
 1. Los recursos de revisión que se interpongan en contra de actos o resoluciones del Secretario Ejecutivo, actuando como encargado del despacho de la Presidencia del Instituto Electoral, serán resueltos por el Consejo General del propio Instituto Electoral. En estos casos, se designará al funcionario que deba suplir al Secretario Ejecutivo para sustanciar el expediente y presentar el proyecto de resolución al órgano colegiado.
 
+###### Artículo 570.
+
+I. Las multas que fije el Tribunal Electoral se harán efectivas ante la Secretaría de Finanzas de la Entidad, en un plazo improrrogable de quince días contados a partir de la notificación a la persona sancionada, aquella deberá informar del debido cumplimiento, para efectos de ordenar el archivo del asunto.
+
+Artículo 571
+
+1. Los medios de apremio y las correcciones disciplinarias a que se refiere el artículo 561, serán aplicados de conformidad con las reglas previstas en este capítulo.
+
+2. Para hacer cumplir las disposiciones del presente ordenamiento y las resoluciones que dicten los órganos del Instituto Electoral, el Consejo General podrá aplicar discrecionalmente las sanciones a que le faculta este Código.
+
+## Título Tercero. Medios de Impugnación en Materia Electoral
+
 ### Capítulo Primero. Procedencia del Recurso de Revisión
 
 Artículo 580
@@ -6465,9 +7191,27 @@ I. El Instituto Electoral;
 
 II. Los Consejos Distritales y Municipales Electorales; y
 
-III. Las instancias calificadoras o municipales en los procesos de plebiscito y referéndum.
+III. (DEROGADA, P.O. 16 DE JUNIO DE 2016)
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+###### Artículo 573.
+
+1. Durante el proceso electoral, para garantizar la legalidad y certeza de los actos, resoluciones y resultados electorales, además de los medios de impugnación señalados en el artículo anterior, se podrá interponer el juicio de inconformidad, en los términos previstos en este Código.
+
+Artículo 574
+
+1. Durante los procesos electorales extraordinarios, serán procedentes los medios de impugnación a que se refiere el artículo anterior, debiendo sujetarse a las reglas señaladas en el presente ordenamiento y a las leyes aplicables.
+
+Artículo 575
+
+1. En cualquier tiempo, serán procedentes los procedimientos especiales para dirimir los conflictos o diferencias laborales entre el Instituto Electoral y sus servidores.
+
+###### Artículo 576.
+
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
+
+## Título Cuarto. Recursos Administrativos
 
 ### Capítulo Segundo. Sustanciación y Resolución
 
@@ -6517,6 +7261,8 @@ Artículo 590
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
+## Título Quinto. Recurso de Revisión
+
 ### Capítulo Tercero. Notificaciones
 
 Artículo 594
@@ -6528,6 +7274,38 @@ I. A los promoventes, partidos políticos que no tengan representantes acreditad
 II. Al órgano del Instituto Electoral cuyo acto o resolución fue impugnado, se le hará por correo certificado o por oficio al cual se le anexará copia de la resolución; y
 
 III. A los terceros interesados, por correo certificado.
+
+###### Artículo 581.
+
+1. En contra de la resolución que dicte el Consejo General al resolver un recurso de revisión, procede el recurso de apelación.
+
+Artículo 582
+
+1. Podrán interponer el recurso de revisión:
+
+I. Los representantes de los partidos políticos o coaliciones acreditados ante el Instituto Electoral y sus órganos;
+
+II. Quienes hubieren solicitado el registro de alguna coalición, en contra de la resolución que lo niegue; y
+
+III. (DEROGADA, P.O. 16 DE JUNIO DE 2016)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JULIO DE 2014)</small>
+
+IV. Los representantes de los candidatos independientes acreditados ante el Instituto Electoral y sus órganos.
+
+2. En todos los casos, el recurso deberá interponerse a través del representante común que hubieren designado al presentar su solicitud.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+###### Artículo 583.
+
+1. El recurso de revisión deberá interponerse dentro de los tres días siguientes a aquél en que se hubiese notificado el acto o la resolución que se recurra.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+###### Artículo 584.
+
+1. Los órganos electorales ante quienes se presente el recurso de revisión, lo deberán remitir al Consejo General dentro de las veinticuatro horas siguientes a su recepción, adjuntando el informe respectivo. No será aplicable esta disposición a los casos en que el recurso se hubiese interpuesto directamente ante el Instituto Electoral.
 
 ### Capítulo Único. Competencia
 
@@ -6541,7 +7319,9 @@ Artículo 596
 
 2. Durante el tiempo que transcurra entre dos procesos Electorales, es competente para resolver el recurso de apelación la Sala Permanente del Tribunal Electoral; dentro de un proceso electoral ordinario o extraordinario, el Pleno del Tribunal Electoral.
 
-3. Durante la celebración de los procedimientos de plebiscito, referéndum e iniciativa popular es competente para conocer y resolver el recurso de apelación y los juicios de inconformidad el Pleno del Tribunal Electoral de no encontrarse instalado, la Sala Permanente.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+3. Durante la celebración de los procedimientos relativos a los instrumentos de participación social es competente para conocer y resolver el recurso de apelación el Pleno del Tribunal Electoral.
 
 Artículo 597
 
@@ -6550,6 +7330,18 @@ Artículo 597
 Artículo 598
 
 1. Interpuesta la demanda de juicio de inconformidad o el recurso de apelación, el Pleno del Tribunal Electoral o en su caso la Sala Permanente, dictarán las resoluciones que procedan.
+
+###### Artículo 591.
+
+1. Cuando a juicio del Tribunal Electoral los recursos de revisión que le hubieran sido remitidos, no guarden relación con algún juicio de inconformidad, procederá a reenviarlos al Consejo General a efecto de que los tramite y resuelva.
+
+Artículo 592
+
+1. La no aportación de las pruebas ofrecidas no será causa de desechamiento del recurso de revisión o del escrito del tercero interesado. En este caso, se resolverá con los elementos que obren en autos.
+
+Artículo 593
+
+1. Las resoluciones que recaigan a los recursos de revisión tendrán como efecto la confirmación, modificación o revocación del acto o resolución impugnado.
 
 ### Capítulo Primero. Procedencia
 
@@ -6573,15 +7365,17 @@ Artículo 601
 
 I. La resolución y en su caso, aplicación de las sanciones administrativas que se determinen con fundamento en lo dispuesto en este Código; y
 
-II. Los actos o resoluciones del Instituto Electoral que causen un perjuicio real al interés jurídico de los participantes en los procesos de plebiscito, referéndum e iniciativa popular, en los términos que establece el Título Décimo de este Código.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+II. La resolución del recurso de revisión en materia de participación social.
 
 Artículo 602
 
 1. Podrán interponer el recurso de apelación:
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-I. Los partidos políticos, coaliciones y sus candidatos, candidatos independientes o agrupaciones políticas con registro, a través de sus representantes legítimos; y
+I. Los partidos políticos, coaliciones y sus candidatos, candidatos independientes o agrupaciones políticas con registro, a través de sus representantes legítimos; salvo en materia de instrumentos de participación social;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2011)</small>
 
@@ -6595,9 +7389,19 @@ b) Las organizaciones o agrupaciones políticas o de ciudadanos, a través de su
 
 c) Las personas físicas o jurídicas por su propio derecho o a través de sus representantes legítimos y de conformidad con la legislación aplicable.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2016)</small>
+
+III. Los promoventes o su representante común en los procesos relativos a los instrumentos de participación social; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2016)</small>
+
+IV. El Poder Ejecutivo, el Poder Legislativo y los ayuntamientos, en los procesos relativos a los instrumentos de participación social.
+
 Artículo 603
 
 1. Será requisito de procedencia para la apelación, el que se hubiesen agotado los recursos administrativos que señala este Código para cada caso concreto; de lo contrario se desechará de plano.
+
+## Título Sexto. Medios Judiciales de Impugnación
 
 ### Capítulo Segundo. Competencia y Sustanciación
 
@@ -6623,23 +7427,7 @@ Artículo 607
 
 1. Al recurso de apelación que se haga valer en contra de un acto o resolución cuyos efectos no tengan relación con el proceso electoral, se le dará el trámite y resolución que en derecho corresponda.
 
-###### Artículo 557.
-
-(DEROGADO, P.O. 19 DE JULIO DE 2011)
-
-Artículo 558
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2011)</small>
-
-1. No requerirán de notificación personal y surtirán sus efectos al día siguiente de su publicación o fijación en estrados, los actos o resoluciones que, en los términos de las leyes aplicables o por acuerdo del órgano competente, deban hacerse públicos a través de:
-
-I. El periódico oficial de la entidad;
-
-II. Los diarios o periódicos de circulación local;
-
-III. Lugares públicos; o
-
-IV. La fijación de cédulas en los estrados de los órganos del Instituto Electoral y del Tribunal Electoral.
+## Título Séptimo. Recurso de Apelación
 
 ### Capítulo Tercero. Sentencias y Notificaciones
 
@@ -6693,22 +7481,6 @@ a) De Diputados de representación proporcional; y
 
 b) De Munícipes por el principio de representación proporcional.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
-
-###### Artículo 570.
-
-I. Las multas que fije el Tribunal Electoral se harán efectivas ante la Secretaría de Finanzas de la Entidad, en un plazo improrrogable de quince días contados a partir de la notificación a la persona sancionada, aquella deberá informar del debido cumplimiento, para efectos de ordenar el archivo del asunto.
-
-Artículo 571
-
-1. Los medios de apremio y las correcciones disciplinarias a que se refiere el artículo 561, serán aplicados de conformidad con las reglas previstas en este capítulo.
-
-2. Para hacer cumplir las disposiciones del presente ordenamiento y las resoluciones que dicten los órganos del Instituto Electoral, el Consejo General podrá aplicar discrecionalmente las sanciones a que le faculta este Código.
-
-## Título Tercero. De las Prerrogativas, Derechos y Obligaciones
-
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
-
 ### Capítulo Segundo. Requisitos Especiales del Escrito de Demanda
 
 Artículo 617
@@ -6753,25 +7525,7 @@ Artículo 619
 
 1. Cuando se pretenda impugnar las elecciones de Diputados por ambos principios, el promovente deberá presentar dos escritos, los cuales deberán reunir los requisitos de forma dispuestos en el artículo 507, de los que se incoaran expedientes por cuerda separada y dentro de los plazos previstos en el presente Código.
 
-###### Artículo 573.
-
-1. Durante el proceso electoral, para garantizar la legalidad y certeza de los actos, resoluciones y resultados electorales, además de los medios de impugnación señalados en el artículo anterior, se podrá interponer el juicio de inconformidad, en los términos previstos en este Código.
-
-Artículo 574
-
-1. Durante los procesos electorales extraordinarios, serán procedentes los medios de impugnación a que se refiere el artículo anterior, debiendo sujetarse a las reglas señaladas en el presente ordenamiento y a las leyes aplicables.
-
-Artículo 575
-
-1. En cualquier tiempo, serán procedentes los procedimientos especiales para dirimir los conflictos o diferencias laborales entre el Instituto Electoral y sus servidores.
-
-Artículo 576
-
-1. Durante la celebración de los procedimientos de plebiscito, referéndum e iniciativa popular son procedentes los medios de impugnación previstos en este Libro, en los términos que se precisan en el Título Décimo.
-
-## Título Cuarto. De la Propaganda Electoral de los Candidatos Independientes
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
+## Título Octavo. Juicio de Inconformidad
 
 ### Capítulo Tercero. Legitimación y Personería
 
@@ -6796,10 +7550,6 @@ Artículo 621
 3. Con la relación descrita en los párrafos anteriores, deberá adjuntarse el documento o constancia que acredite el reconocimiento del carácter de dichos representantes.
 
 4. De presentarse discrepancia entre el representante o representantes reconocidos por el Instituto Electoral y sus órganos con los relacionados ante el Tribunal Electoral, prevalecerán los que como tales reconozca el organismo electoral.
-
-## Titulo Quinto. De la Fiscalización
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE JULIO DE 2014)</small>
 
 ### Capítulo Cuarto. Partes y Trámite de la Demanda
 
@@ -6834,38 +7584,6 @@ Artículo 626
 Artículo 627
 
 1. En el caso de que al escrito de demanda no se haya acompañado el documento que acredite la personería del promovente, no se requerirá por su exhibición, cuando aparezca legalmente acreditada la personería en las constancias o informes que obren en la documentación anexa al medio de impugnación que remita la autoridad responsable.
-
-###### Artículo 581.
-
-1. En contra de la resolución que dicte el Consejo General al resolver un recurso de revisión, procede el recurso de apelación.
-
-Artículo 582
-
-1. Podrán interponer el recurso de revisión:
-
-I. Los representantes de los partidos políticos o coaliciones acreditados ante el Instituto Electoral y sus órganos;
-
-II. Quienes hubieren solicitado el registro de alguna coalición, en contra de la resolución que lo niegue; y
-
-III. Los promoventes de los procesos de plebiscito, referéndum e iniciativa popular.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JULIO DE 2014)</small>
-
-IV. Los representantes de los candidatos independientes acreditados ante el Instituto Electoral y sus órganos.
-
-2. En todos los casos, el recurso deberá interponerse a través del representante común que hubieren designado al presentar su solicitud.
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
-
-###### Artículo 583.
-
-1. El recurso de revisión deberá interponerse dentro de los tres días siguientes a aquél en que se hubiese notificado el acto o la resolución que se recurra.
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
-
-###### Artículo 584.
-
-1. Los órganos electorales ante quienes se presente el recurso de revisión, lo deberán remitir al Consejo General dentro de las veinticuatro horas siguientes a su recepción, adjuntando el informe respectivo. No será aplicable esta disposición a los casos en que el recurso se hubiese interpuesto directamente ante el Instituto Electoral.
 
 ### Capítulo Quinto. Sentencias y sus Efectos
 
@@ -6917,25 +7635,7 @@ b) Munícipes por el principio de representación proporcional, que realice el C
 
 X. Confirmar, modificar o revocar la Constancia de Mayoría de votos de la elección de Gobernador.
 
-Artículo 629
-
-1. Serán aplicables en lo conducente los efectos previstos en el artículo anterior a las sentencias que recaigan a los medios de impugnación incoados con motivo de los procedimientos de plebiscito y referéndum.
-
-Artículo 630
-
-1. Las sentencias que recaigan a los juicios de inconformidad, serán definitivas e inatacables.
-
-###### Artículo 591.
-
-1. Cuando a juicio del Tribunal Electoral los recursos de revisión que le hubieran sido remitidos, no guarden relación con algún juicio de inconformidad, procederá a reenviarlos al Consejo General a efecto de que los tramite y resuelva.
-
-Artículo 592
-
-1. La no aportación de las pruebas ofrecidas no será causa de desechamiento del recurso de revisión o del escrito del tercero interesado. En este caso, se resolverá con los elementos que obren en autos.
-
-Artículo 593
-
-1. Las resoluciones que recaigan a los recursos de revisión tendrán como efecto la confirmación, modificación o revocación del acto o resolución impugnado.
+## Título Noveno. Nulidades y sus Declaratorias
 
 ### Capítulo Sexto. Sección de Ejecución
 
@@ -6947,9 +7647,29 @@ Artículo 632
 
 1. Cuando en la sección de ejecución, por efecto de la acumulación de las sentencias de los distintos juicios, se actualicen los supuestos de nulidad de elección previstos en este Código, el Tribunal Electoral decretará lo conducente, aun cuando no se haya solicitado en ninguno de los juicios resueltos individualmente.
 
-## Título Sexto. De los Actos de la Jornada Electoral
+###### Artículo 613.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 614
+
+1. Las causas de nulidad previstas en este Código, sólo podrán hacerse valer al promover la inconformidad en contra de los resultados que arrojen los procesos electorales.
+
+Artículo 615
+
+1. Los candidatos podrán promover la inconformidad en su carácter de actores en los siguientes casos:
+
+I. Cuando por motivos de inelegibilidad la autoridad electoral decida no otorgarles la constancia de mayoría; y
+
+II. En los supuestos de procedencia previstos en las fracciones I, II, III y V del artículo 612, siempre y cuando el partido político o coalición que los postuló no haga valer la inconformidad.
+
+2. Fuera de los casos previstos en el párrafo anterior, los candidatos sólo podrán intervenir como coadyuvantes.
+
+Artículo 616
+
+1. En el supuesto de procedencia previsto en el inciso c) de la fracción X del artículo 617, cualquiera de los candidatos que integren la planilla de Munícipes, estará facultado para promover la inconformidad en su carácter de actor siempre y cuando se demuestre la afectación a su interés jurídico, y el partido político o coalición que los postuló no haga valer la inconformidad.
 
 ### Capítulo Séptimo. Términos para Resolver el Juicio de Inconformidad
 
@@ -7167,75 +7887,21 @@ III. Cuando se presente alguna de las causas señaladas en la Constitución Pol�
 
 ### Capítulo Primero. Disposición General
 
-Artículo 645
+###### Artículo 629.
 
-1. Para dirimir las diferencias o conflictos que surjan con motivo de los procedimientos relativos a los procesos de plebiscito, referéndum e iniciativa popular, son procedentes los medios de impugnación previstos en este Código.
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
+
+Artículo 630
+
+1. Las sentencias que recaigan a los juicios de inconformidad, serán definitivas e inatacables.
 
 ### Capítulo Segundo. Personería y Legitimación
 
-Artículo 646
-
-1. La presentación de los medios de impugnación en los procesos de plebiscito y referéndum corresponde a:
-
-I. Los solicitantes por conducto de sus representantes designados o acreditados;
-
-II. Los poderes públicos que participen en el procedimiento; y
-
-III. El representante común en los casos de interposición de una iniciativa popular.
-
-Artículo 647
-
-1. Ningún funcionario público podrá fungir como representante común de los promoventes de una iniciativa popular.
-
 ### Capítulo Tercero. Actos y Resoluciones Impugnables
-
-Artículo 648
-
-1. Son impugnables a través del recurso de revisión los actos y resoluciones que dicten las instancias calificadoras o Municipales a que se refiere el Libro Quinto, con excepción de las relativas a los resultados y calificación de las elecciones.
-
-Artículo 649
-
-1. Para los casos de recursos de revisión interpuestos dentro de los cinco días anteriores al día de la jornada electoral, se procederá en los términos que establece el Capítulo Segundo del Título Quinto de este Libro.
-
-Artículo 650
-
-1. Son impugnables a través del recurso de apelación las controversias que surjan por:
-
-I. La declaración de improcedencia de la solicitud de plebiscito, referéndum e iniciativa popular, que realice el Consejo General del Instituto Electoral;
-
-II. Los actos y resoluciones dictados por el Consejo General del Instituto Electoral relativos a la preparación de los procesos de plebiscito, referéndum y la incoación de una iniciativa popular, que causen un perjuicio real y directo a los solicitantes;
-
-III. La determinación del Consejo General del Instituto Electoral que acuerde la suspensión de la realización de la consulta; y
-
-IV. Los demás actos, omisiones o resoluciones que dicte el Consejo General del Instituto Electoral cuyo contenido se relacione estrictamente con el proceso electoral de consulta, y que sean posteriores a la etapa de resultados y calificación de los mismos, que no permitan la iniciación o conclusión de los procesos de plebiscito o referéndum, salvo el caso de inejecución de sentencias recaídas a los juicios de inconformidad.
-
-2. Para los recursos de apelación previstos en este precepto legal, será requisito de procedibilidad el previsto en el artículo 603 de este Código.
-
-Artículo 651
-
-1. En los casos de recursos de apelación interpuestos dentro de los cinco días anteriores a la jornada electoral de consulta, en los que se combatan los actos o resoluciones dictados por las autoridades Electorales en los procesos de plebiscito y referéndum se aplicarán las reglas establecidas en los artículos 595, 596 y 597 de este Código.
-
-Artículo 652
-
-1. Son impugnables a través del juicio de inconformidad:
-
-I. Los resultados del cómputo de los votos emitidos en los procedimientos de participación ciudadana, que practiquen las instancias calificadoras, Municipales, o el Consejo General del Instituto Electoral;
-
-II. La calificación del procedimiento de referéndum y de plebiscito, que realicen las autoridades Electorales competentes; y
-
-III. La determinación que dicte el Presidente del Instituto Electoral por medio de la cual declare oficiales los resultados del referéndum o plebiscito, según sea el caso.
-
-2. Las causas de nulidad previstas en este Código y que en lo conducente resulten aplicables, sólo podrán hacerse valer al promover el juicio de inconformidad en contra de los resultados señalados en la fracción I de este artículo.
 
 ### Capítulo Cuarto. Trámite, Sustanciación y Resolución
 
-Artículo 653
-
-1. Los medios de impugnación previstos en este Título serán interpuestos, tramitados, sustanciados y resueltos conforme a las disposiciones especiales que para cada uno de ellos se establecen en el presente Código, y que en lo conducente sean aplicables.
-
-2. Tratándose de los procesos de plebiscito y referéndum, se estará a los plazos y términos que establezcan las convocatorias respectivas.
-
-3. Es aplicable lo previsto para las pruebas; suplencia en la deficiencia de expresión de agravios; y lo relativo a las notificaciones y a las reglas comunes para los medios de impugnación que se establecen en el Título Segundo del presente Libro.
+## Título Décimo. Medios de Impugnación para Dirimir Controversias Respecto de los Procesos de Participación Ciudadana
 
 ### Capítulo Primero. Reglas Especiales
 
@@ -7261,27 +7927,7 @@ f) La costumbre; y
 
 g) La equidad.
 
-###### Artículo 613.
-
-1. El juicio de inconformidad también procederá contra las determinaciones de las autoridades electorales locales en los procedimientos de plebiscito, y referéndum que se establecen en el artículo 652 del presente Código.
-
-Artículo 614
-
-1. Las causas de nulidad previstas en este Código, sólo podrán hacerse valer al promover la inconformidad en contra de los resultados que arrojen los procesos Electorales, y los relativos al plebiscito y referéndum.
-
-Artículo 615
-
-1. Los candidatos podrán promover la inconformidad en su carácter de actores en los siguientes casos:
-
-I. Cuando por motivos de inelegibilidad la autoridad electoral decida no otorgarles la constancia de mayoría; y
-
-II. En los supuestos de procedencia previstos en las fracciones I, II, III y V del artículo 612, siempre y cuando el partido político o coalición que los postuló no haga valer la inconformidad.
-
-2. Fuera de los casos previstos en el párrafo anterior, los candidatos sólo podrán intervenir como coadyuvantes.
-
-Artículo 616
-
-1. En el supuesto de procedencia previsto en el inciso c) de la fracción X del artículo 617, cualquiera de los candidatos que integren la planilla de Munícipes, estará facultado para promover la inconformidad en su carácter de actor siempre y cuando se demuestre la afectación a su interés jurídico, y el partido político o coalición que los postuló no haga valer la inconformidad.
+## Título Décimo Primero. Procedimientos Especiales para Dirimir los Conflictos o Diferencias Laborales entre el Instituto Electoral y sus Servidores
 
 ### Capítulo Segundo. Trámite, Sustanciación y Resolución
 
@@ -7439,6 +8085,10 @@ Artículo 681
 
 > <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
 
+###### Artículo 645.
+
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
+
 ### Capítulo Único. De las Disposiciones Preliminares
 
 > <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
@@ -7507,6 +8157,14 @@ Artículo 690
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
 
+###### Artículo 646.
+
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
+
+###### Artículo 647.
+
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
+
 ### Capítulo Primero. Disposiciones Generales
 
 > <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
@@ -7525,6 +8183,26 @@ IV. Del registro de Candidatos Independientes.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE JULIO DE 2014)</small>
 
+###### Artículo 648.
+
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
+
+###### Artículo 649.
+
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
+
+###### Artículo 650.
+
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
+
+###### Artículo 651.
+
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
+
+###### Artículo 652.
+
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
+
 ### Capítulo Segundo. De la Convocatoria
 
 > <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
@@ -7536,6 +8214,14 @@ Artículo 692
 2. El Instituto Electoral dará amplia difusión a la Convocatoria.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE JULIO DE 2014)</small>
+
+###### Artículo 653.
+
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
+
+## Título Primero
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
 
 ### Capítulo Tercero. De los Actos Previos al Registro de Candidatos Independientes
 
@@ -7589,9 +8275,13 @@ Artículo 696
 
 1. Para la candidatura de Gobernador del Estado, la cédula de respaldo deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al uno por ciento de la lista nominal de electores con corte al 31 de agosto del año previo al de la elección y estar integrada por electores de por lo menos sesenta y cinco municipios, que sumen cuando menos el uno por ciento de ciudadanos que figuren en la lista nominal de electores en cada uno de ellos.
 
-2. Para fórmulas de diputados de mayoría relativa, la cédula de respaldo deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al dos por ciento de la lista nominal de electores correspondiente al Distrito Electoral en cuestión, con corte al 31 de agosto del año previo al de la elección, y estar integrada por ciudadanos de por lo menos la mitad de las secciones electorales que sumen como mínimo el uno por ciento de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
-3. Para fórmula de Munícipes, la cédula de respaldo deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al dos por ciento de la lista nominal de electores correspondiente al municipio en cuestión, con corte al 31 de agosto del año previo al de la elección, y estar integrada por ciudadanos de por lo menos la mitad de las secciones electorales que sumen como mínimo el uno por ciento de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
+2. Para fórmulas de diputados de mayoría relativa, la cédula de respaldo deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al uno por ciento de la lista nominal de electores correspondiente al Distrito Electoral en cuestión, con corte al 31 de agosto del año previo al de la elección, y estar integrada por ciudadanos de por lo menos la mitad de las secciones electorales que sumen como mínimo el uno por ciento de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+3. Para fórmula de Munícipes, la cédula de respaldo deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al uno por ciento de la lista nominal de electores correspondiente al municipio en cuestión, con corte al 31 de agosto del año previo al de la elección, y estar integrada por ciudadanos de por lo menos la mitad de las secciones electorales que sumen como mínimo el uno por ciento de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
 
 4. Los aspirantes a candidatos independientes deben entregar las firmas de apoyo en los formatos oficiales establecidos por el Instituto, los cuales deberán ser entregados en original al secretario ejecutivo dentro de los plazos establecidos en el artículo 694 de este Código.
 
@@ -7653,6 +8343,14 @@ Artículo 703
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
 
+# LIBRO OCTAVO. De las Candidaturas Independientes
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
+
+## Título Segundo. Del Proceso de Selección de Candidatos Independientes
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE JULIO DE 2014)</small>
+
 ### Capítulo Quinto. De los Derechos y Obligaciones de los Aspirantes
 
 > <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
@@ -7710,6 +8408,10 @@ VII. Rendir el informe de ingresos y egresos;
 VIII. Respetar los topes de gastos fijados para obtener el apoyo ciudadano, en los términos que establece el presente Código, y
 
 IX. Las demás establecidas por este Código.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
+
+## Título Tercero. De las Prerrogativas, Derechos y Obligaciones
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -7782,24 +8484,6 @@ Artículo 743
 1. Los documentos electorales serán elaborados por el Instituto Electoral, aplicando en lo conducente lo dispuesto en (sic) Ley General y este Código para la elaboración de la documentación y el material electoral.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
-
-### Capítulo Segundo. Del Cómputo de los Votos
-
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
-
-Artículo 744
-
-1. Se contará como voto válido la marca que haga el elector en un solo recuadro en el que se contenga el emblema o el nombre de un Candidato Independiente, en términos de lo dispuesto por este Código.
-
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
-
-Artículo 745
-
-1. Los votos recibidos a favor de Candidatos Independientes, no serán contabilizados para la asignación de diputados por el principio de representación proporcional, en los términos de la Constitución Política de los Estados Unidos Mexicanos, Constitución Local, Ley General y este Código.
-
-# LIBRO OCTAVO. De las Candidaturas Independientes
-
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
 
 #### Sección Primera. De los Requisitos de Elegibilidad
 
@@ -7883,13 +8567,15 @@ Artículo 709
 
 Artículo 710
 
-1. Una vez que se cumplan los requisitos establecidos en este Código, el Secretario Ejecutivo del Instituto Electoral, solicitará apoyo a la Dirección Ejecutiva del Registro Federal de Electores, para verificar que se haya reunido el porcentaje de apoyo ciudadano que corresponda según la elección de que se trate, constatando que los ciudadanos aparecen en el padrón electoral.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+1. Una vez que se cumplan los requisitos establecidos en este Código, el Secretario Ejecutivo del Instituto Electoral solicitará apoyo a la Dirección Ejecutiva del Registro Federal de Electores, para verificar que se haya reunido el porcentaje de apoyo ciudadano que corresponda según la elección de que se trate, constatando que los ciudadanos aparecen en el padrón electoral, sin que sea obligación del aspirante presentar copias de las credenciales para votar de quienes manifiestan su apoyo.
 
 2. Las firmas no se computarán para los efectos del porcentaje requerido cuando se presente alguna de las siguientes circunstancias:
 
 a) Nombres con datos falsos o erróneos;
 
-b) No se acompañen las copias de la credencial para votar vigente;
+b) (DEROGADO, P.O. 16 DE JUNIO DE 2016)
 
 c) En el caso de candidatos a Gobernador del Estado, los ciudadanos no tengan su domicilio en la entidad para la que se está compitiendo;
 
@@ -7954,6 +8640,24 @@ Artículo 717
 1. En el caso de las listas de fórmulas de candidatos a munícipes, si por cualquier causa falta uno de los integrantes propietarios de la formula, se cancelará el registro de todos. La ausencia de más de la mitad de los suplentes invalidará la fórmula.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
+
+## Título Cuarto. De la Propaganda Electoral de los Candidatos Independientes
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
+
+### Capítulo Segundo. Del Cómputo de los Votos
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
+
+Artículo 744
+
+1. Se contará como voto válido la marca que haga el elector en un solo recuadro en el que se contenga el emblema o el nombre de un Candidato Independiente, en términos de lo dispuesto por este Código.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
+
+Artículo 745
+
+1. Los votos recibidos a favor de Candidatos Independientes, no serán contabilizados para la asignación de diputados por el principio de representación proporcional, en los términos de la Constitución Política de los Estados Unidos Mexicanos, Constitución Local, Ley General y este Código.
 
 #### Sección Primera. Disposiciones Generales
 
@@ -8205,6 +8909,14 @@ Artículo 736
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
 
+## Titulo Quinto. De la Fiscalización
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE JULIO DE 2014)</small>
+
+## Título Sexto. De los Actos de la Jornada Electoral
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
+
 ## TRANSITORIOS
 
 Primero: El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
@@ -8340,3 +9052,19 @@ Décimo Octavo. Se derogan todas las disposiciones legales que se opongan al pre
 Décimo Noveno. El Consejo General del Instituto Electoral emitirá los reglamentos y acuerdos que sean necesarios para la debida regulación de los procesos internos de selección de candidatos a cargos de elección popular y las precampañas, de conformidad con lo establecido en las leyes aplicables y en este Código, a más tardar la primera semana de octubre de 2014.
 
 Vigésimo. La implementación del nuevo Sistema Penal Acusatorio para los delitos establecidos en la Ley General en materia de Delitos Electorales entrará en vigor en los municipios del Estado, conforme a lo previsto por el decreto 24864/LX/14 publicado en el periódico oficial El Estado de Jalisco, el día 11 de abril de 2014.
+
+P.O. 16 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 25842/LXI/16 QUE MODIFICA LA DENOMINACIÓN DEL CÓDIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO; MODIFICA LA DENOMINACIÓN Y ESTRUCTURA DEL LIBRO QUINTO; ADICIONA UN TÍTULO NOVENO DEL LIBRO TERCERO, Y REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El Instituto Electoral deberá expedir las disposiciones reglamentarias correspondientes en un término de noventa días naturales a partir de la entrada en vigor del presente decreto.
+
+TERCERO. El Instituto Electoral deberá destinar una partida presupuestal suficiente para la capacitación, organización, desarrollo, cómputo y declaración de resultados de los mecanismos de participación ciudadana.
+
+CUARTO. El Congreso del Estado deberá realizar las reformas secundarias necesarias en un plazo no mayor a seis meses a partir de la publicación de este decreto.
+
+QUINTO. El Poder Ejecutivo Estatal y los Ayuntamientos deberán realizar las modificaciones a reglamentos y disposiciones administrativas en un plazo no mayor a tres meses a partir de la publicación de este decreto.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente decreto.
