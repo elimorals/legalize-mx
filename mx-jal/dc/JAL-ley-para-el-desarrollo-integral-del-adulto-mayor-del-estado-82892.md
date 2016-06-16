@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-integral-del-adulto-mayor-del-estado-828
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-15"
-last_updated: "2014-04-08"
+last_updated: "2016-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 15 de septiembre de 2011.
 
@@ -393,15 +393,37 @@ V. Otorgar una estancia digna, adecuada a sus necesidades, de preferencia en el 
 
 VI. Fomentar su independencia, respetar sus decisiones y mantener su privacidad;
 
-VII. Gestionar ante las instancias públicas y privadas el reconocimiento y respeto a los derechos de los adultos mayores, y
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-VIII. Contribuir a que se mantengan productivos y socialmente integrados.
+VII. Gestionar ante las instancias públicas y privadas el reconocimiento y respeto a los derechos de los adultos mayores;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+VIII. Contribuir a que se mantengan productivos y socialmente integrados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2016)</small>
+
+IX. Allegarse de elementos de información y orientación gerontológico (sic);
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2016)</small>
+
+X. Gestionar lo conducente ante las autoridades judiciales o administrativas competentes para la realización de actos jurídicos que beneficien los intereses del adulto mayor; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2016)</small>
+
+XI. Las demás que establezcan las disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
 ###### Artículo 13.
 
 El Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Jalisco, deberá tomar las medidas de prevención y supervisión para que la familia participe en la atención de los adultos mayores en situación de riesgo o desamparo, pudiendo solicitar el apoyo tanto de la Procuraduría Social para la asesoría y patrocinio legal que corresponda, como de la unidad administrativa en materia de atención a víctimas del delito de la Fiscalía General del Estado, para que formulen las denuncias que correspondan y se dé seguimiento a la averiguación previa correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 13 Bis.
+
+Corresponde a la familia procurar que sus miembros adopten pautas de conducta y acciones que favorezcan a lo largo de su vida un desarrollo individual saludable y productivo teniendo presente el envejecimiento.
 
 ### CAPÍTULO II. DE LA PARTICIPACIÓN DE LA SOCIEDAD
 
@@ -413,9 +435,11 @@ Cualquier miembro de la sociedad tiene el deber de auxiliar y apoyar a los adult
 
 Corresponde a la sociedad formar grupos de apoyo y asistencia social que, en coordinación con las autoridades o de manera independiente, colaboren en el mejoramiento de las condiciones de vida de los adultos mayores y particularmente promuevan la igualdad en el acceso al empleo, eliminando la discriminación.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
 ###### Artículo 16.
 
-Es un deber de la sociedad propiciar la participación de los adultos mayores en la vida social, reconociendo y estimulando la formación de asociaciones, consejos y organismos, con funciones de apoyo, asesoría y gestión en cuestiones comunitaria (sic).
+Es un deber de la sociedad propiciar la participación de los adultos mayores en la vida social, reconociendo y estimulando la formación de asociaciones, consejos y organismos, con funciones de apoyo, asesoría y gestión en cuestiones comunitarias, particularmente en las relacionadas con el envejecimiento.
 
 ###### Artículo 17.
 
@@ -613,7 +637,7 @@ II. Promover, impulsar y difundir la celebración de convenios con la iniciativa
 
 Corresponde a la Secretaría de Movilidad:
 
-I. Vigilar que las condiciones de tránsito sean óptimas para los adultos mayores, procurando que se respeten sus necesidades y derechos, y (sic)
+I. Vigilar que las condiciones de tránsito sean óptimas para los adultos mayores, procurando que se respeten sus necesidades y derechos, y
 
 II. Promover el respeto de los espacios reservados a los adultos mayores en el transporte público, y
 
@@ -729,11 +753,49 @@ XII. Asesorar al Ejecutivo del Estado, a través de sus dependencias y entidades
 
 XIII. Fomentar una cultura de respeto y reconocimiento al trabajo y experiencia de los adultos mayores;
 
-XIV. Realizar estudios, investigaciones, generar estadísticas y difundir todo tipo de datos que permitan conocer el estado que guardan los adultos mayores con relación a sus derechos, la no discriminación, las oportunidades que se les brindan, con el fin de generar una conciencia favorable hacia los adultos mayores y su revalorización;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-XV. Diseñar y promover ante el sistema estatal de salud programas y acciones que den acceso a los adultos mayores a servicios integrales de atención a la salud en condiciones de calidad y prevención, tomando en cuenta las características particulares de su ciclo de vida, su condición social y su ubicación geográfica, garantizando la cobertura y la calidad de la asistencia médica a todos los adultos mayores radicados en el estado de Jalisco;
+XIV. Realizar estudios, investigaciones, generar estadísticas y difundir todo tipo de datos que permitan conocer el estado que guardan los adultos mayores con relación a sus derechos, la no discriminación, las oportunidades que se les brindan, con el fin de generar una conciencia favorable hacia los adultos mayores y su revaloración, y de contribuir al mejor diseño y planeación de los programas de atención a los adultos mayores;
 
-XVI. Proponer la celebración de convenios de colaboración con los diversos organismos públicos descentralizados del Gobierno del Estado y estados de la republica, para los efectos de que se exente del pago de cualquiera de los servicios que presten a los adultos mayores de sesenta años.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+XV. Diseñar y promover ante el sistema estatal de salud programas y acciones que den acceso a los adultos mayores a servicios integrales de atención a la salud en condiciones de calidad y prevención, tomando en cuenta las características particulares de su ciclo de vida, su condición social y ubicación geográfica, garantizando la cobertura y la calidad de la asistencia médica a todos los adultos mayores radicados en el Estado de Jalisco;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+XVI. Proponer la celebración de convenios de colaboración con los organismos públicos descentralizados del Gobierno del Estado y estados de la República, para los efectos de que se exente del pago de cualquiera de los servicios que presten a los adultos mayores de sesenta años;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2016)</small>
+
+XVII. Promover en instituciones públicas y privadas la integración y el desarrollo de programas docentes, de investigación y extensión en geriatría y gerontología;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2016)</small>
+
+XVIII. Impulsar la creación de estancias diurnas, casas de retiro y demás establecimientos de asistencia y atención médica, rehabilitación, esparcimiento y recreación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2016)</small>
+
+XIX. Fomentar y asesorar la construcción de espacios libres de barreras arquitectónicas y con facilidad de acceso para adultos mayores;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2016)</small>
+
+XX. Proporcionar orientación y apoyo técnico a los Ayuntamientos en materia de planes y programas relacionados con el envejecimiento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2016)</small>
+
+XXI. Realizar acciones de prevención que induzcan a la sociedad a conocer y tomar las medidas pertinentes para acceder a un envejecimiento sano y activo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2016)</small>
+
+XXII. Promover, a través de convenios, el otorgamiento de beneficios, prestaciones, descuentos, condonaciones y exenciones en el pago de tarifas por bienes y servicios públicos y privados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2016)</small>
+
+XXIII. Promover el otorgamiento de premios y reconocimientos a los adultos mayores que se destaquen por su labor, trayectoria y aportaciones; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2016)</small>
+
+XXIV. Difundir los contenidos, programas y servicios establecidos en la presente ley y demás disposiciones legales aplicables.
 
 ###### Artículo 39.
 
@@ -1270,3 +1332,9 @@ TERCERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 P.O. 8 DE ABRIL DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 16 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 25836/LXI/16 QUE REFORMA Y DEROGA DIVERSOS ARTÍCULOS DEL CÓDIGO DE ASISTENCIA SOCIAL Y DE LA LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
