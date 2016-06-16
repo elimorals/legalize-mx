@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-justicia-de-paz-para-el-estado-de-tamaulipas-56644"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-01"
-last_updated: "2007-08-01"
+last_updated: "2016-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY DE JUSTICIA DE PAZ PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO NO. LXII-964, PUBLICADO EN EL P.O. DE 16 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de agosto de 2007.
 
@@ -185,8 +187,6 @@ Ejecución de la sentencia.
 
 2.- En caso de vencerse el término para el cumplimiento voluntario, a petición de parte se aplicarán las reglas de la ejecución forzosa que contempla el Código de Procedimientos Civiles para el Estado.
 
-.
-
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -212,3 +212,23 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los seis días del mes de junio del año dos mil siete.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNÁNDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTÍNEZ TORRES.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXII-964 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NO. LXII-249, DEL 25 DE JUNIO DE 2014 Y PUBLICADO EN EL PERIÓDICO OFICIAL NO. 77, DEL 26 DE JUNIO DE 2014, Y SE ABROGA LA LEY DE JUSTICIA DE PAZ PARA EL ESTADO DE TAMAULIPAS, EXPEDIDA MEDIANTE DECRETO NO. LIX-935, DEL 31 DE MAYO DE 2007, PUBLICADA EN EL PERIÓDICO OFICIAL NO. 92 DEL 1 DE AGOSTO DE 2007”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Todos los procesos y recursos iniciados con las disposiciones que mediante el presente Decreto, se reforman o adicionan, deberán concluirse con el procedimiento mediante el cual se iniciaron; sin embargo, para efecto de la competencia jurisdiccional en materia penal de los juzgados menores, se atenderá al contenido de las declaratorias emitidas por el Congreso del Estado para la operación del Sistema de Justicia Penal Acusatorio y Oral, conforme a las fechas de vigencia, territorio y delitos en ellas precisados.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO TERCERO DEL DECRETO NO. LXII-964, PUBLICADO EN EL P.O. DE 16 DE JUNIO DE 2016.]</small>
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley de Justicia de Paz para el Estado de Tamaulipas, expedida mediante Decreto No. LIX-935, del 31 de Mayo de 2007, publicada en el Periódico Oficial No. 92 del 1 de agosto de 2007.
