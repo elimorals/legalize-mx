@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2015-07-07"
+last_updated: "2016-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -87,11 +87,13 @@ a).- Las Salas Regionales;
 
 b).- Los Jueces de Primera Instancia;
 
-c).- Los Jueces Menores;
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
-d).- Los Jueces de Paz;
+c).- Los Jueces Menores; y,
 
-e).- El Jurado Popular; y,
+d).- (DEROGADO, P.O. 16 DE JUNIO DE 2016).
+
+e).- (DEROGADO, P.O. 16 DE JUNIO DE 2016).
 
 f).- Los Arbitros.
 
@@ -179,11 +181,11 @@ La autoridad judicial que no tome en cuenta las listas de auxiliares o no respet
 
 Los tribunales del Estado estarán expeditos para administrar justicia, que impartirán en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando prohibido a sus servidores públicos recibir cualquier remuneración, gratificación, donación u obsequio de objetos o valores, aún cuando la actividad correspondiente se realice fuera de los tribunales o de las horas de despacho o en días y horas habilitados legalmente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 8°.
 
-Los tribunales del Estado y sus dependencias despacharán durante los días hábiles del año. Son inhábiles los sábados, domingos y aquellos en que se suspendan las labores por acuerdo del Pleno del Supremo Tribunal de Justicia; en relación con las jurisdicciones electoral, penal y de justicia para adolescentes, deberá estarse a lo que dispongan la Constitución Política de los Estados Unidos Mexicanos y las leyes de la materia.
+Los tribunales del Estado y sus dependencias despacharán durante los días hábiles del año. Son inhábiles los sábados, domingos y aquellos en que se suspendan las labores por acuerdo del Pleno del Supremo Tribunal de Justicia; en relación con las jurisdicciones penal y de justicia para adolescentes, deberá estarse a lo que dispongan la Constitución Política de los Estados Unidos Mexicanos y las leyes de la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -249,7 +251,7 @@ Existirá, cuando menos, un Juzgado de Primera Instancia en cada Distrito Judici
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 6º.
 
@@ -285,25 +287,23 @@ X.- Los demás que los que la ley les confiera dicho carácter.
 
 ###### ARTICULO 9º.
 
-El Supremo Tribunal de Justicia residirá oficialmente en la capital del Estado. Las Salas Regionales, residirán en Reynosa, Victoria y Altamira. La de Reynosa, ejercerá jurisdicción sobre los siguientes Distritos: Tercero, Cuarto, Quinto, Sexto, Décimo Tercero y Décimo Cuarto; la de Victoria en los Distritos Primero, Séptimo, Octavo, Noveno, Décimo, Décimo Primero y Décimo Segundo; y, la de Altamira, en los Distritos Segundo, y Décimo Quinto. Los Juzgados de Primera Instancia se asentarán en las cabeceras de los distritos judiciales, con la salvedad de los Especializados en Justicia para adolescentes y en delitos contra la salud en la modalidad de Narcomenudeo cuya residencia fija la ley. Los Jueces Menores y de Paz residirán en las cabeceras municipales respectivas.
+El Supremo Tribunal de Justicia residirá oficialmente en la capital del Estado. Las Salas Regionales residirán en Reynosa, Victoria y Altamira. La de Reynosa, ejercerá jurisdicción en los siguientes Distritos: Tercero, Cuarto, Quinto, Sexto, Décimo Primer, Décimo Tercer y Décimo Cuarto; la de Victoria en los Distritos Primero, Noveno, Décimo y Décimo Segundo; y, la de Altamira, en los Distritos Segundo, Séptimo, Octavo y Décimo Quinto. Los Jueces de Primera Instancia y menores tendrán su residencia oficial en las cabeceras de sus respectivos distritos judiciales.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2011)</small>
 
 La residencia de los Juzgados Especializados en Justicia para Adolescentes, de Ejecución de Sanciones y de Ejecución de Medidas para Adolescentes se fijará en los términos que establece la ley.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-El Tribunal Electoral del Poder Judicial del Estado residirá oficialmente en Victoria.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 13 DE JUNIO DE 2015)</small>
 
 > <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2011)</small>
 
 Existirá, cuando menos, un Juzgado de Primera Instancia en cada Distrito Judicial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 10.
 
-El territorio del Estado de Tamaulipas, con excepción de la justicia para adolescentes, la electoral y el Sistema de Justicia Penal Acusatorio y Oral, se divide en quince Distritos, los cuales son:
+El territorio del Estado de Tamaulipas, con excepción de la justicia para adolescentes y el Sistema de Justicia Penal Acusatorio y Oral, se divide en quince Distritos, los cuales son:
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -413,7 +413,9 @@ QUINTA REGIÓN JUDICIAL: Cabecera en Reynosa, comprende los Distritos Judiciales
 
 SEXTA REGIÓN JUDICIAL: Cabecera en Altamira, comprende el Distrito Judicial II.
 
-Cada Región Judicial contará con los Jueces de Control y Tribunales de Juicio Oral que considere pertinente el Consejo de la Judicatura del Estado, quienes ejercerán jurisdicción dentro de la misma.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Cada Región Judicial contará con los Jueces de Control y Tribunales de Enjuiciamiento que considere pertinente el Consejo de la Judicatura del Estado, quienes ejercerán jurisdicción dentro de la misma.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
@@ -717,51 +719,87 @@ XXV.- Las demás atribuciones y obligaciones que ésta o cualquiera otra ley le 
 
 ### CAPITULO IV. DE LAS SALAS
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 26.
 
-Para el ejercicio de su función jurisdiccional, el Supremo Tribunal de Justicia actuará en Pleno, en Salas Colegiadas o en Salas Unitarias.
+Para el ejercicio de su función el Supremo Tribunal de Justicia actuará en Pleno, en Salas Colegiadas, Unitarias, Auxiliares y Regionales, mismas que también serán unitarias.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 Las Salas Colegiadas estarán integradas, por tres Magistrados de número, de los cuales uno de ellos, por elección de los demás, fungirá como su Presidente, durando en su encargo un año, pudiendo ser reelecto para el período inmediato por una sola vez.
 
-Las Salas Auxiliares y las Salas Regionales serán Unitarias.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
-Son funciones de los Presidentes de las Salas Colegiadas:
+Las Salas Auxiliares y las Salas Regionales serán Unitarias; sin embargo, cuando la necesidad del servicio así lo exija y previa aprobación por mayoría, del Pleno del Supremo Tribunal de Justicia, los Magistrados Auxiliares y Regionales integrarán Sala Colegiada para resolver los asuntos cuya competencia originaria sea de la Sala Colegiada Penal.
 
-I.- Dictar los acuerdos que procedan en el trámite de los asuntos competencia de las Salas;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2016)</small>
 
-II.- Sortear entre los asuntos los Magistrados integrantes de la Sala;
+El presidente de la Sala Colegiada tendrá las siguientes atribuciones:
 
-III.- Conocer de las excusas y recusaciones de o los Magistrados de Sala, y del Secretario de Acuerdos de la Sala; en el primer caso para la calificación y remisión a quien deba conocer y en el segundo para la sustanciación del procedimiento y su resolución;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-IV.- Dirigir los debates y preservar el orden durante las sesiones;
+I.- Dirigir y moderar los debates durante las sesiones de la Sala;
 
-V.- Firmar las actas de las sesiones de manera conjunta con los demás integrantes de la Sala, ante la fe del Secretario de Acuerdos;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-VI.- Despachar la correspondencia oficial de la Sala, rendir los informes previo y justificado y en general, proveer lo relativo a los juicios de amparo que se interpongan contra las resoluciones de la Sala;
+II.- Dictar los acuerdos que procedan en el trámite de los asuntos competencia de la Sala;
 
-VII.- Adoptar las medidas de naturaleza inmediata o urgente necesarias para el desahogo de los asuntos de la competencia de la Sala;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-VIII.- Rendir al Pleno del Supremo Tribunal con la oportunidad debida, los informes mensuales respecto de los asuntos en trámite y resueltos, así como los demás que se le soliciten;
+III.- Preparar con auxilio del Secretario de Acuerdos de la Sala, el sorteo de expedientes entre sus integrantes;
 
-IX.- Proponer al Pleno la designación y, en su caso, remoción del Secretario de Acuerdos de Sala;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2014)</small>
+IV.- Calificar las causas de excusa que formulen los magistrados de la Sala y, en su caso, turnar el asunto a otra ponencia de la misma para que formule el proyecto de resolución; e igualmente conocerá de los procedimientos de recusación que se promuevan contra los propios integrantes, y de proceder la misma turnará a otra ponencia. En ambos supuestos el propio presidente hará la respectiva compensación con un diverso expediente al magistrado de la excusa o que resulte recusado.
 
-X.- Imponer a su personal, así como a Jueces, Secretarios y demás servidores públicos que intervengan en primera instancia en el asunto que se conozca con motivo del recurso de apelación, las correcciones disciplinarias de apercibimiento, amonestación, multa y suspensión, en los términos del Código Procesal aplicable a la materia del asunto y, si a su juicio la falta fuere grave, dar vista al Pleno del Supremo Tribunal de Justicia; y,
+Si la excusa la formula el presidente de la Sala, o contra él es la recusación, se designará a otro de los magistrados que la integra para el solo efecto de que califique la primera o dé tramite a la segunda y, en cualquiera de ambos supuestos, de proceder alguna, aplicar el expediente a otra ponencia y hacer la respectiva compensación. De no existir mayoría el asunto pasará a otra Sala, lo que se informará al Pleno del Tribunal para la reposición con otro expediente.
 
-XI.- Ejercer las demás atribuciones que le asigne esta ley y los acuerdos generales del Pleno del Supremo Tribunal.
+Cuando la excusa o recusación sea del Secretario de Acuerdos y resulte procedente una u otra, será sustituido por el Secretario Proyectista que designe el Presidente de la Sala;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+V.- Proponer al Pleno la designación y, en su caso, remoción del Secretario de Acuerdos de Sala;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+VI.- Dictar las medidas o acuerdos de trámite urgentes que sean necesarios en el desahogo de los asuntos competencia de la Sala;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+VII.- Despachar la correspondencia oficial de la Sala, rendir los informes previo y justificado, y en general proveer lo que a la misma corresponda, en lo relativo a los juicios de amparo que se promuevan contra las resoluciones de la Sala;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+VIII.- Firmar las sentencias, acuerdos de la Sala y actas de sesiones de la misma de manera conjunta con sus demás integrantes ante la fe del Secretario de Acuerdos;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+IX.- Imponer al personal de la Sala, a los Jueces, Secretarios, Coordinadores de las Centrales de Actuarios, a éstos, así como a otros servidores públicos que intervengan en primera instancia, en asuntos de que conozca con motivo del recurso de apelación, las correcciones disciplinarias de amonestación y multa hasta por el importe de un mes de salario mínimo general vigente; sin perjuicio de las que por diversos motivos establezcan las leyes procesales. Si a juicio del magistrado la falta fuere grave no impondrá corrección, pero deberá dar vista al Consejo de la Judicatura.
+
+La misma facultad disciplinaria tendrán los magistrados cuando actúen en forma unitaria en sus diversos ámbitos de competencia;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+X.- Imponer las correcciones de apercibimiento y multa hasta por el importe de 30 días de salario mínimo general vigente, a los litigantes, abogados, autorizados, y demás personas que acuden a la Sala y alteren el orden o falten al respeto y consideración a los integrantes de la Sala, ya sea verbalmente o a través de escritos, promociones, conductas o comportamientos inapropiados, que deban ser corregidos;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+XI.- Rendir oportunamente al Pleno del Supremo Tribunal los informes mensuales de los asuntos en trámite y resueltos, y los demás que se le solicitan; y
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+XII.- Ejercer las demás atribuciones que les asigna la Ley, y los acuerdos generales del Pleno del Supremo Tribunal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 27.
 
-Los Magistrados de número podrán actuar en segunda instancia en forma colegiada y unitaria para conocer de apelaciones contra autos, sentencias interlocutorias y resoluciones que pongan fin al proceso conforme lo determine el Pleno del Supremo Tribunal de Justicia. Las Salas Colegiadas serán una en materia penal y dos en asuntos de carácter civil y familiar.
+Los Magistrados de número actuarán en segunda instancia en forma colegiada para conocer de las apelaciones contra sentencias o de resoluciones que pongan fin al juicio, y de manera unitaria, cuando se trate de apelaciones contra autos o sentencias interlocutorias. En ambos casos se estará además a los acuerdos que al efecto emita el Pleno del Supremo Tribunal. Habrá Salas Unitarias y Colegiadas en materia penal y en materia civil y familiar.
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2016)</small>
 
-En materia penal los Magistrados de las Salas Colegiadas deberán conocer de las apelaciones en los casos siguientes:
+En materia penal, las salas colegiadas deberán conocer del recurso de apelación, en los casos siguientes:
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -771,13 +809,17 @@ a).- Contra sentencias definitivas dictadas en procesos instruidos por delito gr
 
 b).- Cuando el Ministerio Público formule las conclusiones reclasificando el delito como grave en los términos del Código de Procedimientos Penales para el Estado y, el juez de primera instancia no lo haya considerado como tal al dictar la sentencia respectiva;
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
-c).- En los casos en que algún asunto se esté conociendo por algún Magistrado en forma unitaria y a petición de éste se considere que deba conocerse en forma colegiada, en este caso, deberá someterse a la aprobación del Pleno del Supremo Tribunal de Justicia; y
+c).- En los casos en que algún asunto se esté conociendo por algún Magistrado en forma unitaria y a petición de éste se considere que deba conocerse en forma colegiada, en este caso, deberá someterse a la aprobación del Pleno del Supremo Tribunal de Justicia;
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
-d).- Contra sentencias definitivas en procedimiento abreviado, así como contra las emitidas por el Tribunal de Enjuiciamiento en los términos del Código Nacional de Procedimientos Penales.
+d).- Contra sentencias definitivas en procedimiento abreviado, así como contra las emitidas por el Tribunal de Enjuiciamiento en los términos del Código Nacional de Procedimientos Penales; y
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+e).- Asimismo, resolverán sobre las solicitudes de reconocimiento de inocencia y anulación de sentencia, a que se refiere el Código Nacional de Procedimientos Penales.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 2008)</small>
 
@@ -793,9 +835,9 @@ La Sala Especializada en Justicia para Adolescentes atenderá las cuestiones rel
 
 Las Salas Colegiadas y las Salas Unitarias, conservarán jurisdicción mixta para conocer de aquellos asuntos en que se excusen o sean recusados los Magistrados que las integren.
 
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010) (F. DE E., P.O. 13 DE ENERO DE 2011)
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
-Las Salas Regionales conocerán en segunda instancia de apelaciones contra autos y resoluciones interlocutorias en materia penal, además conocerán de las apelaciones contra sentencias dictadas por jueces menores en dicha materia, en términos del Código de Procedimientos Penales para el Estado.
+Las Salas Regionales conocerán en segunda instancia del recurso de apelación en materia penal contra autos y resoluciones que el Pleno del Supremo Tribunal de Justicia determine mediante acuerdos generales.
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -813,9 +855,9 @@ IV.- Cuando un Magistrado disienta de la mayoría, podrá formular voto particul
 
 Cuando el proyecto del Magistrado ponente fuera rechazado, le será devuelto para que lo modifique de acuerdo al criterio de la mayoría; en caso de no estar de acuerdo con ello, otro Magistrado redactará la resolución que corresponda, quedando el proyecto del Magistrado ponente como voto particular.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
-Al presentarse el nuevo proyecto y de no existir mayoría respecto al sentido de la resolución, se dará cuenta al Pleno y éste turnará el asunto a otra Sala; lo mismo se hará en el caso de desintegración de la mayoría.
+Al presentarse el nuevo proyecto y de no existir mayoría respecto al sentido de la resolución, el Presidente de la misma dará cuenta al Pleno del Supremo Tribunal, al que remitirá los autos, para que disponga su remisión a otra Sala.
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -825,13 +867,13 @@ Corresponde a los Magistrados:
 
 I.- Presentar los proyectos de resolución de los asuntos que les sean asignados, para su discusión y aprobación, en su caso, en la Sala Colegiada correspondiente;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
 II.- Proponer al Pleno del Supremo Tribunal de Justicia, el nombramiento de los servidores públicos de la Sala de la que sean titulares;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-III.- Imponer a su personal, así como a Jueces, Secretarios y demás servidores públicos que intervengan en primera instancia en el asunto que se conozca con motivo del recurso de apelación, las correcciones disciplinarias de apercibimiento, amonestación, multa y suspensión, en los términos del Código Procesal aplicable a la materia del asunto y, si a su juicio la falta fuere grave, dar vista al Pleno del Supremo Tribunal de Justicia; y,
+III.- Imponer a su personal, así como a Jueces, Secretarios y demás servidores públicos que intervengan en primera instancia en el asunto que se conozca con motivo del recurso de apelación, las correcciones disciplinarias que correspondan en términos de la ley adjetiva aplicable a la materia del asunto; en caso de falta grave, dará vista al Consejo de la Judicatura del Estado; y
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2014)</small>
 
@@ -857,11 +899,11 @@ Los Magistrados no podrán ausentarse del lugar de su adscripción, ni faltar a 
 
 Los Magistrados Supernumerarios integrarán Sala cuando así lo requieran las necesidades de la administración e impartición de justicia, previo acuerdo del Pleno del Tribunal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 32.
 
-Estarán bajo la supervisión y vigilancia de los Magistrados, salvo que el Pleno determine otro responsable, en la forma y términos que determine éste, las siguientes dependencias administrativas:
+Estarán bajo la supervisión y vigilancia del Consejo, en la forma y términos que determine éste, las siguientes dependencias administrativas:
 
 I.- Archivo y Biblioteca;
 
@@ -879,15 +921,21 @@ V.- Dirección de Administración;
 
 VI.- Fondo Auxiliar para la Administración de Justicia;
 
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+
 VII.- Contraloría del Poder Judicial;
 
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-VIII.- Centro de Mediación; y,
+VIII.- Centro de Mediación;
 
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-IX.- Unidad de Información Pública.
+IX.- Unidad de Transparencia; y
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+X.- Unidad de Igualdad de Género.
 
 ###### ARTICULO 33.
 
@@ -925,13 +973,17 @@ VII.- Desempeñar las comisiones y funciones especiales que el Pleno o su Presid
 
 ### CAPITULO VI. DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 35.
 
-Son Jueces de Primera Instancia:
+Son considerados como Jueces de Primera Instancia:
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2003)</small>
 
 I.- Los Jueces de lo Civil;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2003)</small>
 
 II.- Los Jueces de lo Familiar;
 
@@ -947,13 +999,21 @@ IV.- Los Jueces Especializados en Justicia para Adolescentes;
 
 V.- Los Jueces de Ejecución de Sanciones;
 
-> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-VI.- Los Jueces de Ejecución de Medidas para Adolescentes; y,
+VI.- Los Jueces de Ejecución de Medidas para Adolescentes;
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 1 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-VII.- Los Jueces Mixtos.
+VII.- Los Jueces Mixtos;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+VIII.- Los Jueces de Control; y
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+IX.- Los Jueces de Tribunal de Enjuiciamiento.
 
 ###### ARTICULO 36.
 
@@ -1217,9 +1277,9 @@ VII.- Cumplimentar los exhortos, despachos y requisitorias que reciban de otras 
 
 VIII.- Cursar la correspondencia del Juzgado;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-IX.- Reunirse con los Jueces Menores y Jueces de Paz de su adscripción trimestralmente y cuando así se le requiera, a efecto de conocer de sus problemas y proporcionarles la orientación adecuada; vigilar que los mismos concurran al despacho con la puntualidad debida y realizar visitas para tal efecto cuantas veces lo estime necesario; en los distritos judiciales en que existan varios jueces de primera instancia el Presidente del Supremo Tribunal de Justicia determinará quien cumplirá con esta obligación;
+IX.- Reunirse con los Jueces Menores de su adscripción trimestralmente y cuando así se le requiera, a efecto de conocer de la problemática propia de su función y proporcionarles la orientación adecuada; vigilar que los mismos concurran al despacho con la puntualidad debida y realizar visitas para tal efecto cuantas veces lo estime necesario; en los distritos judiciales en que existan varios jueces de primera instancia el Presidente del Supremo Tribunal de Justicia determinará quien cumplirá con esta obligación;
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -1269,19 +1329,17 @@ Los trabajadores de las fracciones I, II, III y IV tendrán, por su naturaleza, 
 
 ### CAPITULO VII. DE LOS JUZGADOS MENORES
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 49.
 
-El Pleno del Supremo Tribunal de Justicia, previo aprobación del Consejo de la Judicatura, determinará si en cada Municipio funcionará un Juzgado Menor y un Juzgado de Paz, o únicamente alguno de los dos, los cuales residirán en la cabecera municipal. De acuerdo con las necesidades del servicio, el Consejo de la Judicatura autorizará la creación de más de un Juzgado Menor o demás de un Juzgado de Paz en un mismo Municipio, pudiendo acordarse la especialización de los mismos por materia.
+El Consejo de la Judicatura determinará el número de jueces menores, la naturaleza y la materia en que han de impartir justicia.
 
-El Consejo de la Judicatura tendrá la facultad de autorizar al Juez o Jueces Menores o de Paz de determinados Municipios para que ejerzan jurisdicción y competencia en otros Municipios, en los que por su escaso volumen de trabajo no se justifique su existencia. En este caso, el Juez Menor o el Juez de Paz formulará un programa de visitas que será aprobado por la Presidencia, a fin de constituirse en los lugares de su circunscripción y, en su caso, atender los asuntos de su competencia, sin perjuicio de hacerlo cuando así sea requerido.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 50.
 
-Para ser Juez Menor o Juez de Paz se requiere:
+Para ser Juez Menor se requiere:
 
 I.- Ser ciudadano mexicano en ejercicio de sus derechos;
 
@@ -1297,51 +1355,35 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito intencional
 
 V.- Aprobar los exámenes y evaluaciones que previamente determine y disponga el Consejo de la Judicatura. Prefiriéndose en la selección a aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 51.
 
-Corresponde a los Jueces Menores y, en su caso, a los Jueces de Paz, lo siguiente:
+Corresponde a los Jueces Menores, lo siguiente:
 
-A) Le corresponde a los Jueces Menores:
+I.- Conocer de los negocios civiles y mercantiles por el importe hasta ciento cincuenta veces el salario mínimo general vigente; exceptuando los asuntos que son de la competencia de los jueces de primera instancia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+II.- De conflictos entre vecinos de casa habitación o entre condóminos, cuando de acuerdo con la ley no corresponda conocer a diversa autoridad y la naturaleza de la diferencia tenga carácter patrimonial no mayor a cien veces el salario mínimo general vigente;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+III.- De conflictos entre miembros de una familia que no sean competencia del Juez Familiar o no constituyan conductas delictuosas;
 
-I.- Conocer de los negocios civiles y mercantiles por el importe de cuarenta y seis hasta ciento cincuenta veces el salario mínimo vigente en la capital del Estado; exceptuando los asuntos que son de la competencia de los jueces de primera instancia;
+IV.- De conflictos de carácter personal, siempre y cuando, de acuerdo con otra ley, no corresponda conocer a diversa autoridad;
 
-II.- Conocer de los asuntos penales por delitos cuya sanción consista en apercibimiento, caución de no ofender, multa o pena alternativa y prisión de hasta dos años;
+V.- De los asuntos civiles de su competencia que les sean propuestos por las partes, con carácter conciliatorio, absteniéndose de externar opinión sobre el fondo del caso;
 
-III.- Conocer de los asuntos de la competencia de los Jueces de Paz conforme la ley de la materia, así como de aquéllos otros que determine el Pleno del Supremo Tribunal de Justicia, siempre que en los Municipios que integren su Distrito Judicial no exista Juez de Paz;
+VI.- Ordenar y cuidar que se lleve correctamente el registro en los libros para el servicio de la oficina;
 
-IV.- Ordenar y cuidar que se lleve correctamente el registro en los libros para el servicio de la oficina;
+VII.- Remitir al Pleno del Consejo de la Judicatura, dentro de los primeros ocho días de cada mes, un informe de labores del mes anterior respecto al estado procesal de los asuntos de su competencia;
 
-V.- Remitir al Pleno del Supremo Tribunal de Justicia, dentro de los primeros ocho días de cada mes, un informe de labores del mes anterior respecto al estado procesal de los negocios civiles y penales de su competencia; y
+VIII.- Cumplimentar los exhortos, despachos y comisiones que reciban de sus superiores o de otros Juzgados en los términos previstos por la ley procesal respectiva o de las instrucciones recibidas; y,
 
-VI.- Cumplimentar los exhortos, despachos y comisiones que reciban de sus superiores o de otros Juzgados en los términos previstos por la ley procesal respectiva o de las instrucciones recibidas.
+IX.- Conocer de aquéllos asuntos que determine el Pleno del Consejo.
 
-B) Le corresponde conocer a los Juzgados de Paz:
-
-I.- De los negocios civiles y de jurisdicción concurrente por un importe hasta de cuarenta y cinco días de salario mínimo general vigente en la capital del Estado;
-
-II.- De daños en propiedad ajena derivados de una conducta dolosa por un importe que no exceda de cuarenta y cinco veces el salario mínimo vigente en la capital del Estado, siempre que no se cometa mediante incendio, inundación o explosión, o se trate de bienes del dominio público o que formen parte del patrimonio cultural del Estado;
-
-III.- De daños en propiedad ajena derivados de una conducta culposa por un importe que no exceda de cien veces el salario mínimo vigente en la capital del Estado, salvo cuando quien los cometa se encuentre bajo el influjo de la ingestión inmoderada de bebidas alcohólicas o de estupefacientes, psicotrópicos u otras sustancias que produzcan efectos similares;
-
-IV.- De conflictos entre vecinos de casa habitación o entre condóminos, cuando de acuerdo con la ley no corresponda conocer a diversa autoridad y la naturaleza de la diferencia tenga carácter patrimonial no mayor a cien veces el salario mínimo vigente en la capital del Estado;
-
-V.- De conflictos entre miembros de una familia que no sean competencia del Juez Familiar o no constituyan conductas probablemente delictivas;
-
-VI.- De conflictos de carácter personal, siempre y cuando de acuerdo con otra ley no corresponda conocer a diversa autoridad; y
-
-VII.- De los asuntos civiles de su competencia que les sean propuestos por las partes, con carácter conciliatorio, absteniéndose de externar opinión sobre el fondo del caso.
-
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 52.
 
-Los Jueces Menores y los Jueces de Paz actuarán con un Secretario que designará el Supremo Tribunal de Justicia y el personal de apoyo que fuere necesario, conforme al Presupuesto de Egresos.
+Los Jueces Menores actuarán con un Secretario que designará el Supremo Tribunal de Justicia y el personal de apoyo que fuere necesario, conforme al Presupuesto de Egresos.
 
 ###### ARTICULO 53.
 
@@ -1355,101 +1397,73 @@ II.- No haber sido condenado por delito intencional; y,
 
 III.- Aprobar los exámenes y evaluaciones que previamente determine y disponga el Consejo de la Judicatura. En la selección se preferirá a aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 54.
 
-Los Juzgados Menores y los Juzgados de Paz tendrán la plantilla de empleados que señale el presupuesto respectivo.
+Los Juzgados Menores tendrán la plantilla de empleados que señale el presupuesto respectivo.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 55.
 
-Son aplicables a los Secretarios de los Juzgados Menores y a los de Paz, en lo conducente, las disposiciones contenidas en el artículo 77 de esta ley.
+Son aplicables a los Secretarios de los Juzgados Menores en lo conducente, las disposiciones contenidas en el artículo 77 de esta ley.
 
-### CAPITULO VIII. DE LOS PRESIDENTES DE DEBATES
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE JUNIO DE 2016)</small>
+
+### CAPITULO VIII
 
 ###### ARTICULO 56.
 
-Los Jueces asumirán la Presidencia de Debates en los asuntos de que hayan conocido como instructores y que deban llevar a Jurado.
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
 
 ###### ARTICULO 57.
 
-Para el despacho de los negocios de su competencia, los Presidentes de Debates designarán el personal necesario para el cumplimiento de su función, de entre las personas que laboren en el Juzgado al que estén adscritos.
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
 
 ###### ARTICULO 58.
 
-Compete a los Presidentes de Debates:
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
 
-I.- Llevar a Jurado las causas que sean de la competencia de éste, en los términos del Código de Procedimientos Penales;
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE JUNIO DE 2016)</small>
 
-II.- Dirigir los debates del Jurado; y,
-
-III.- Dictar los fallos que correspondan con arreglo al veredicto del Jurado.
-
-### CAPITULO IX. DEL JURADO DE CIUDADANOS
+### CAPITULO IX
 
 ###### ARTICULO 59.
 
-El Jurado de Ciudadanos conocerá de la instrucción de los procesos penales en los casos que así lo establezca la ley.
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
 
 ###### ARTICULO 60.
 
-El Jurado de Ciudadanos tiene como finalidad resolver por medio de un veredicto, las cuestiones de hecho que con arreglo a la ley le sean sometidas a su consideración por el Presidente de Debates, con motivo de los procesos que ante él se instruyan en los casos que así lo establezca la ley.
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
 
 ###### ARTICULO 61.
 
-El Jurado de Ciudadanos se formará de siete personas designadas por sorteo, de acuerdo al procedimiento que para tal efecto establezca el Código de Procedimientos Penales.
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
 
 ###### ARTICULO 62.
 
-Toda persona que reúna los requisitos para ser integrante del Jurado, tiene la obligación de desempeñar el cargo en los términos previstos por la presente ley y por el Código de Procedimientos Penales.
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
 
 ###### ARTICULO 63.
 
-Para ser integrante del Jurado de Ciudadanos se requiere:
-
-I.- Ser ciudadano mexicano, en pleno goce de sus derechos;
-
-II.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de dos años de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena;
-
-III.- Saber leer y escribir;
-
-IV.- Ser vecino del distrito judicial en que deba desempeñar el cargo, por lo menos desde un año antes del día en que se publique la lista definitiva de Jurados; y,
-
-V.- No tener impedimento físico ni enfermedad que lo imposibilite para el ejercicio de su cargo.
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
 
 ###### ARTICULO 64.
 
-No podrán ser integrantes del Jurado de Ciudadanos.
-
-I.- Los servidores públicos de la Federación, del Estado o de los Municipios o de sus organismos descentralizados; y,
-
-II.- Los ministros de cualquier culto religioso.
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
 
 ###### ARTICULO 65.
 
-Las personas que tengan impedimento para integrar el Jurado de Ciudadanos deberán acreditar tal situación ante el Presidente Municipal, quien los excusará de su encargo.
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
 
 ###### ARTICULO 66.
 
-Los integrantes del Jurado que asistan a las audiencias desempeñarán sus funciones en forma honoraria. Los que falten sin causa justificada sufrirán la sanción que corresponda.
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
 
 ###### ARTICULO 67.
 
-Los integrantes del Jurado de Ciudadanos podrán excusarse en los casos siguientes:
-
-I.- Cuando sean empleados de empresas de servicios públicos;
-
-II.- Cuando sean estudiantes inscritos en las escuelas oficiales o privadas, instituciones universitarias o de educación superior;
-
-III.- Cuando sean Directores o Profesores de establecimientos de instrucción o beneficencia, sean públicos o particulares;
-
-IV.- Cuando padezcan enfermedad que les impida trabajar;
-
-V.- Cuando sean mayores de sesenta y cinco años; y,
-
-VI.- Cuando se encuentren en circunstancias especiales que por su naturaleza les impidan cumplir con la función, a juicio del Presidente Municipal.
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
 
 ### CAPITULO X. DEL SECRETARIO GENERAL DE ACUERDOS
 
@@ -1667,11 +1681,11 @@ XXII.- Las demás que les confiera esta ley o los demás ordenamientos legales, 
 
 Los Magistrados del Supremo Tribunal de Justicia serán designados en la forma prevista por el artículo 109 de la Constitución Política del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 79.
 
-Los Jueces de Primera Instancia, los Jueces Menores y los Jueces de Paz serán nombrados a propuesta del Consejo de la Judicatura, por el Pleno del Supremo Tribunal de Justicia.
+Los Jueces de Primera Instancia y los Jueces Menores serán nombrados a propuesta del Consejo de la Judicatura, por el Pleno del Supremo Tribunal de Justicia.
 
 ###### ARTICULO 80.
 
@@ -1705,9 +1719,7 @@ III.- Secretario General de Acuerdos del Supremo Tribunal de Justicia, Secretari
 
 IV.- Jueces Menores;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-V.- Jueces de Paz;
+V.- (DEROGADA, P.O. 16 DE JUNIO DE 2016)
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -1717,9 +1729,9 @@ VI.- Subsecretario de Acuerdos del Supremo Tribunal de Justicia;
 
 VII.- Secretarios de Acuerdos, Secretarios Proyectistas y Actuarios de los Juzgados de Primera Instancia;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-VIII.- Secretarios y Actuarios de los Juzgados Menores y de Paz; y,
+VIII.- Secretarios y Actuarios de los Juzgados Menores; y,
 
 > <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -1735,21 +1747,21 @@ En el supuesto de que no se cuente con la persona idónea se designará a quien,
 
 Los nombramientos de los servidores públicos podrán ser impugnados por escrito ante el Consejo de la Judicatura dentro de los diez días siguientes en que hayan sido hechos, por quien se considere con mayor derecho al cargo. Del escrito de inconformidad se dará vista al servidor designado para que exprese lo que a su interés convenga en un término que no exceda de tres días; la resolución que corresponda se dictará en los siete días siguientes al en que concluya la vista precisada a la persona que fue nombrada.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 85.
 
-El Secretario y los Subsecretarios de Acuerdos del Supremo Tribunal, los Secretarios de Acuerdos de Sala, los Secretarios Proyectistas, los Actuarios y los Secretarios de los Juzgados de Primera Instancia, Menores y de Paz, serán designados por el Consejo de la Judicatura.
+El Secretario y los Subsecretarios de Acuerdos del Supremo Tribunal, los Secretarios de Acuerdos de Sala, los Secretarios Proyectistas, los Actuarios y los Secretarios de los Juzgados de Primera Instancia y Menores, serán designados por el Consejo de la Judicatura.
 
 ###### ARTICULO 86.
 
 Toda persona nombrada para desempeñar algún cargo o empleo judicial, deberá protestar cumplir y hacer cumplir, sin limitaciones, la Constitución federal, la del Estado y las leyes secundarias. Comenzará a ejercer las funciones que le correspondan dentro de los cinco días siguientes a la fecha del nombramiento, en el concepto de que quedará sin efecto si no se presenta dentro de este término, salvo que el titular de la Sala o Juzgado, previa solicitud, amplíe el plazo.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 87.
 
-Los Jueces de Primera Instancia, Jueces Menores y Jueces de Paz, otorgarán la protesta de ley ante el Pleno del Supremo Tribunal de Justicia. Los demás servidores públicos de la administración de justicia lo harán ante su respectivo superior jerárquico.
+Los Jueces de Primera Instancia y Jueces Menores, otorgarán la protesta de ley ante el Pleno del Supremo Tribunal de Justicia. Los demás servidores públicos de la administración de justicia lo harán ante su respectivo superior jerárquico.
 
 ### CAPITULO II. DE LA RESIDENCIA, VACACIONES Y LICENCIAS
 
@@ -1799,11 +1811,11 @@ No podrá recaer nombramiento de administración de justicia en ministros o repr
 
 ### CAPITULO IV. DE LAS RENUNCIAS
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 94.
 
-Las renuncias de los Magistrados serán sometidas al conocimiento del Pleno del Supremo Tribunal de Justicia y, si éste las acepta, enviará comunicado al titular del Ejecutivo del Estado para los efectos del artículo 91 fracción XIV y 109 de la Constitución Política del Estado. El Consejo de la Judicatura conocerá de las renuncias de los Jueces de Primera Instancia, Menores y de Paz y de los demás servidores públicos del Poder Judicial.
+Las renuncias de los Magistrados serán sometidas al conocimiento del Pleno del Supremo Tribunal de Justicia y, si éste las acepta, enviará comunicado al titular del Ejecutivo del Estado para los efectos del artículo 91 fracción XIV y 109 de la Constitución Política del Estado. El Consejo de la Judicatura conocerá de las renuncias de los Jueces de Primera Instancia, Jueces Menores y de los demás servidores públicos del Poder Judicial.
 
 ### CAPITULO V. DE LA REMOCION Y DE LA SUSPENSION DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION DE JUSTICIA
 
@@ -1869,15 +1881,11 @@ Si fueren absueltos o se sobresea la causa, deberá reintegrarse la totalidad de
 
 Las faltas definitivas de los Magistrados serán cubiertas por la persona que designe el Congreso del Estado en los términos que prevé el artículo 109 de la Constitución Política del Estado.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 99.
 
-En caso de impedimento o excusa de Magistrados en asuntos que deba resolver el Supremo Tribunal de Justicia en Pleno, cuando se desintegre la mayoría, la sustitución para el simple efecto de conocer del asunto que motiva el impedimento o la excusa, la hará el Presidente, designando a cualquiera de los Magistrados.
-
-En caso de recusación o excusa de alguno de los Magistrados, integrará Sala un Magistrado de otra, el cual será designado por el Presidente del Tribunal.
-
-Cuando la totalidad de los Magistrados que integren la Sala estén impedidos para conocer de un negocio, o por cualquier causa se desintegre la mayoría, éste se turnará a otra Sala.
+En caso de impedimento o excusa de Magistrados en asuntos que deba resolver el Tribunal de Justicia en Pleno, cuando se desintegre la mayoría, la sustitución para el solo efecto de conocer el asunto que motive la causa legal del impedimento, la hará el Presidente mediante la designación de un Magistrado Auxiliar o Regional.
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -1899,11 +1907,11 @@ En sus faltas temporales, los Magistrados de Número de las Salas Unitarias y de
 
 Las faltas temporales del Secretario General de Acuerdos serán suplidas por el Subsecretario más antiguo en el cargo y, a falta de éste, por la persona que al efecto designe el Presidente.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 102.
 
-Las faltas temporales de los Secretarios de Acuerdos de Sala serán suplidas por el Secretario que designe su Magistrado titular. Se observará esto mismo en caso de recusación, impedimento o excusa.
+Las faltas temporales de Secretarios de Acuerdos de Sala Unitaria serán suplidas por el Secretario que designe el titular de la misma; tratándose de Secretarios de Acuerdos de Sala Colegiada serán suplidas por el Secretario que designe su Presidente. Lo anterior regirá también para los casos de excusa o recusación.
 
 ###### ARTICULO 103.
 
@@ -1913,27 +1921,27 @@ Las faltas temporales de los Jueces de Primera Instancia serán suplidas por el 
 
 Cuando se trate de excusas o impedimentos de Jueces de Primera Instancia, conocerá del negocio de que se trate el Juez del mismo ramo más cercano territorialmente y, cuando por cualquier causa ello no fuere posible o existiere duda, el que designe el Supremo Tribunal de Justicia en Pleno.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 105.
 
-Las faltas temporales de los Secretarios de Acuerdos de los Juzgados de Primera Instancia, Juzgados Menores y Juzgados de Paz serán suplidas por otro si lo hubiere, en orden de antigüedad. A falta de Secretario suplente la sustitución se hará por el Oficial Judicial que el Juez designe.
+Las faltas temporales de los Secretarios de Acuerdos de los Juzgados de Primera Instancia y Juzgados Menores serán suplidas por otro si lo hubiere, en orden de antigüedad. A falta de Secretario suplente la sustitución se hará por el Oficial Judicial que el Juez designe.
 
 Lo dispuesto en el párrafo anterior será aplicable en caso de excusa o recusación de un Secretario.
 
 Cuando no pueda suplirse al Secretario en la forma prevista en los párrafos anteriores, el Juez actuará con dos testigos de asistencia.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 106.
 
-Las faltas temporales de los Jueces Menores y los Jueces de Paz hasta por treinta días, serán suplidas por el Secretario, quien actuará con testigos de asistencia. Si la falta fuere definitiva, el Pleno designará a la persona que haya de substituirlo.
+Las faltas temporales de los Jueces Menores, hasta por treinta días, serán suplidas por el Secretario, quien actuará con testigos de asistencia. Si la falta fuere definitiva, el Pleno designará a la persona que haya de substituirlo.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 107.
 
-En los casos de excusa o impedimento de Jueces Menores y los Jueces de Paz, el Juez de Primera Instancia del distrito judicial a que corresponda el impedido, designará, si hubiere otro u otros Jueces Menores en la misma municipalidad, a cualquiera de ellos; si no lo hubiere, al Secretario del propio Juzgado y, en caso de no ser posible, la sustitución se hará con el Juez del lugar más próximo.
+En los casos de excusa o impedimento de Jueces Menores, el Juez de Primera Instancia del distrito judicial a que corresponda el impedido, designará, si hubiere otro u otros Jueces Menores en la misma municipalidad, a cualquiera de ellos; si no lo hubiere, al Secretario del propio Juzgado y, en caso de no ser posible, la sustitución se hará con el Juez del lugar mas próximo.
 
 ###### ARTICULO 108.
 
@@ -2025,7 +2033,9 @@ El órgano competente para resolver, podrá recibir y desahogar por si, cualquie
 
 III.- El órgano que resuelva tiene la facultad, en cualquier momento, desde la recepción del escrito de queja hasta antes de la conclusión del período probatorio, de proseguir con el procedimiento de manera oficiosa, por razones de interés público;
 
-IV.- Transcurrido el plazo para el desahogo de las pruebas, se dictará resolución en un término que no podrá exceder de quince días. Si la queja fuere notoriamente improcedente, se impondrá al quejoso una multa hasta por el importe de treinta días de salario mínimo vigente en la capital del Estado, si se tratare de un Juez de Primera Instancia, Juez Menor o Juez de Paz y, de sesenta si se trata de un Magistrado. La multa podrá ser de hasta veinte días de salario si se tratare de cualquier otro servidor público del Poder Judicial.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2016)</small>
+
+IV.- Transcurrido el plazo para el desahogo de las pruebas, se dictará resolución en un término que no podrá exceder de quince días. Si la queja fuere improcedente, se impondrá al quejoso una multa hasta por el importe de treinta días de salario mínimo general vigente, si se tratare de un Juez de Primera Instancia o Juez Menor y, de sesenta si se trata de un Magistrado. La multa podrá ser de hasta veinte días de salario mínimo general vigente si se tratare de cualquier otro servidor público del Poder Judicial.
 
 No se dará curso a ninguna queja si el interesado o su asesor no acompañan a su escrito inicial certificado por el importe del máximo de la multa, a menos que a juicio del órgano que resuelva, basándose en evidencias o antecedentes, las conductas o hechos denunciados dentro del escrito deban ser objeto del presente procedimiento llevado de manera oficiosa;
 
@@ -2125,11 +2135,17 @@ VI.- Dirección de Informática;
 
 VII.- Visitaduría Judicial;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-VIII.- Centro de Mecanismos Alternativos para la Solución de Conflictos; y
+VIII.- Centro de Mecanismos Alternativos para la Solución de Conflictos;
 
-IX.- Unidad de Información Pública.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+IX.- Unidad de Transparencia; y
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+X.- Unidad de Igualdad de Género.
 
 El Presidente del Consejo de la Judicatura dictará las medidas que estime convenientes y practicará visitas regulares a las dependencias administrativas o dispondrá de una comisión para que las supervisen, cuando se considere pertinente.
 
@@ -2777,9 +2793,9 @@ VI.- Llevar una estadística de los lectores asistentes a la biblioteca; y,
 
 VII.- Las demás que le prescriban las leyes y reglamento respectivos y el Consejo de la Judicatura.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2016)</small>
 
-#### SECCION CUARTA. DEL CENTRO DE MEDIACION
+#### SECCION CUARTA. DEL CENTRO DE MECANISMOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONTROVERSIAS
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
@@ -2953,31 +2969,45 @@ VII.- Suspender o dar por concluido el proceso en los casos en que exista falta 
 
 Los servicios que presta el Centro de Mecanismos Alternativos para la Solución de Conflictos también se podrán ofrecer a distancia, a través de unidades móviles o itinerantes, mediante el uso de las tecnologías de la comunicación e información, las cuales contarán con los especialistas y personal administrativo necesario.
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2016)</small>
 
-#### SECCION QUINTA. DE LA UNIDAD DE INFORMACION PUBLICA
+#### SECCION QUINTA. DE LA UNIDAD DE TRANSPARENCIA
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 179.
 
-El Poder Judicial contará con una Unidad de Información Pública que estará a cargo de un Jefe de Departamento y el personal de apoyo que determine el Consejo de la Judicatura y permita el presupuesto.
+El Poder Judicial contará con una Unidad de Transparencia que estará a cargo de un titular y el personal de apoyo que determine el Consejo de la Judicatura y permita el presupuesto.
 
-Las funciones de la Unidad de Información Pública serán:
+Las funciones de la Unidad de Transparencia, serán:
 
-I.- Atender consultas vía correo electrónico del Poder Judicial del Estado;
+I.- Recabar y difundir la información pública de oficio y propiciar que las áreas administrativas y jurisdiccionales correspondientes la actualicen periódicamente, conforme a la normatividad aplicable;
 
-II.- Recabar información de las distintas ramas del Poder Judicial del Estado;
+II.- Recibir y dar trámite a las solicitudes de acceso a la información;
 
-III.- Actualizar la información pública de oficio y demás disponible en la página web del Poder Judicial;
+III.- Auxiliar a los particulares en la elaboración de solicitudes de acceso a la información y, en su caso, orientarlos sobre los sujetos obligados competentes conforme a la normatividad aplicable;
 
-IV.- Resolver consultas de información pública presentadas por los interesados;
+IV.- Realizar los trámites internos necesarios para la atención de las solicitudes de acceso a la información;
 
-V.- Elaborar el proyecto de reglamento interior para su aprobación por el Consejo de la Judicatura;
+V.- Efectuar las notificaciones a los solicitantes;
 
-VI.- Supervisar el Centro de Orientación e Información; y,
+VI.- Proponer al Comité de Transparencia los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información, conforme a la normatividad aplicable;
 
-VII.- Las demás que le asigne el Consejo de la Judicatura.
+VII.- Proponer personal habilitado que sea necesario para recibir y dar trámite a las solicitudes de acceso a la información;
+
+VIII.- Llevar un registro de las solicitudes de acceso a la información, respuestas, resultados, costos de reproducción y envío;
+
+IX.- Promover e implementar políticas de transparencia proactiva procurando su accesibilidad;
+
+X.- Fomentar la transparencia y accesibilidad al interior del sujeto obligado;
+
+XI.- Hacer del conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en la presente Ley y en las demás disposiciones aplicables; y
+
+XII.- Las demás que se desprendan de la normatividad aplicable o que le asigne el Consejo de la Judicatura.
+
+Los titulares de las áreas administrativas y jurisdiccionales del Poder Judicial del Estado, tienen la obligación de proporcionar oportunamente la información que deban generar en virtud de sus funciones o que se encuentre en sus archivos, cuando así le sea requerida por la Unidad de Transparencia.
+
+Cuando las áreas administrativas y jurisdiccionales correspondientes se negaren a colaborar con la Unidad de Transparencia, ésta dará aviso al superior jerárquico para que le ordene realizar sin demora las acciones conducentes.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -2999,7 +3029,9 @@ IV.- Desarrollar un sistema de indicadores del desempeño que proporcione inform
 
 V.- Solicitar, concentrar, procesar, analizar, sistematizar e interpretar técnicamente la información estadística que, con motivo de sus facultades generan los órganos judiciales;
 
-VI.- Coordinar sus acciones con la Visitaduría Judicial y la Contraloría, para el oportuno y eficaz cumplimiento de las atribuciones que tienen conferidas;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+VI.- Coordinar sus acciones con la Dirección de Responsabilidades Administrativas y la Contraloría, para el oportuno y eficaz cumplimiento de las atribuciones que tienen conferidas;
 
 VII.- Coordinar el Sistema de Gestión de la Calidad, promoviendo la mejora continua tanto de los procesos de apoyo a la impartición de justicia, como de los procesos administrativos, que redunden en beneficio de los justiciables, litigantes y del propio personal del Poder Judicial; y
 
@@ -3054,6 +3086,28 @@ I.- Contar con nivel licenciatura, con una antigüedad no menor de cinco años e
 II.- Tener experiencia en materia familiar, capacitado en administración y relaciones humanas, preferentemente con conocimientos en psicología, trabajo social y mediación; y
 
 III.- Los demás que determine el Consejo de la Judicatura del Estado.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 16 DE JUNIO DE 2016)</small>
+
+#### SECCION OCTAVA. DE LA UNIDAD DE IGUALDAD DE GÉNERO
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+ARTICULO 179 SEXIES.- El Poder Judicial contará con una Unidad de Igualdad de Género, que dependerá del Consejo de la Judicatura y tendrá el personal de apoyo que determine éste y permita el presupuesto. Las funciones de la Unidad de Igualdad de Género serán:
+
+I.- Promover y fortalecer la política de Igualdad de Género entre las y los servidores públicos del Poder Judicial del Estado;
+
+II.- Impulsar la perspectiva de género en los programas y acciones del Poder Judicial;
+
+III.- Promover la formación, capacitación y actualización sobre la materia, de los integrantes del Poder Judicial del Estado;
+
+IV.- Ser enlace y representar al Poder Judicial ante los poderes Ejecutivo y Legislativo del Estado, en el ámbito de su competencia;
+
+V.- Proponer al Consejo de la Judicatura instrumentos para fortalecer la política de Igualdad de Género;
+
+VI.- Rendir los informes de actividades que solicite el Consejo de la Judicatura; y
+
+VII.- Las demás que el Consejo de la Judicatura y su Presidente le asignen.
 
 > <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
 
@@ -3231,15 +3285,15 @@ IV.- La notificación personal en forma electrónica de las resoluciones judicia
 
 V.- El fungir como medio de comunicación procesal entre autoridades jurisdiccionales.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2016)</small>
 
-## TITULO DECIMO PRIMERO. DE LOS ÓRGANOS JUDICIALES Y AUXILIARES DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL
+## TITULO DECIMO PRIMERO. DE LOS ÓRGANOS JUDICIALES Y ADMINISTRATIVOS DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2013)</small>
 
 ### CAPITULO II. DE LOS TRIBUNALES DE ENJUICIAMIENTO
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 208.
 
@@ -3259,9 +3313,7 @@ IV.- Los Jueces de Control; y
 
 V.- Los Jueces de Ejecución de Sanciones.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
-
-Los Jueces de Control y los que integran los Tribunales de Enjuiciamiento, administrativamente serán considerados como Jueces de Primera Instancia.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 16 DE JUNIO DE 2016)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -3297,11 +3349,15 @@ VI.- Aprobar el examen de conocimientos que al efecto formule el Consejo de la J
 
 VII.- Los demás requisitos y evaluaciones que previamente determine el Consejo de la Judicatura del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 210.
 
-La competencia territorial de los Jueces de Control y Tribunales de Enjuiciamiento, quedará determinada por esta ley, el Código Nacional de Procedimientos Penales y el Consejo de la Judicatura del Estado.
+La competencia territorial de los Jueces de Control y los Tribunales de Enjuiciamiento, quedará determinada por el Consejo de la Judicatura del Estado, esta ley, y las previsiones contenidas en el Código Nacional de Procedimientos Penales.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+ARTICULO 210 BIS.- En cada región judicial, el Consejo de la Judicatura del Estado, designará, de entre los jueces de la misma, un Juez Coordinador a propuesta de los Jueces de Control y Tribunal de Enjuiciamiento adscritos a la propia región judicial. El Juez Coordinador durará en su encomienda un año a partir de su designación y actuará como enlace ante la Coordinación General de Sistemas de Gestión Judicial para impulsar la mejora continua del servicio.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -3311,23 +3367,31 @@ La competencia territorial de los Jueces de Control y Tribunales de Enjuiciamien
 
 ###### ARTICULO 211.
 
-Los Tribunales de Enjuiciamiento en materia penal se integrarán colegiadamente por tres jueces, actuarán bajo los lineamientos aplicables contenidos en el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos y tendrán las atribuciones que señale el Código Nacional de Procedimientos Penales y la presente ley.
+Los Tribunales de Enjuiciamiento actuarán de forma unitaria o de forma colegiada por tres jueces, ejerciendo funciones bajo los lineamientos contenidos en el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, el Código Nacional de Procedimientos Penales, la presente Ley y el Consejo de la Judicatura del Estado.
 
-Las resoluciones de los Tribunales de Enjuiciamiento se tomarán por unanimidad o por mayoría de votos.
+Las resoluciones de los Tribunales de Enjuiciamiento, actuando de forma colegiada, se tomarán por unanimidad o por mayoría de votos.
 
-Los Jueces integrantes del Tribunal de Enjuiciamiento podrán actuar como Jueces de Control, respetando la previsión contenida en el artículo 20, apartado A, fracción IV de la Constitución Política de los Estados Unidos Mexicanos.
+Los Jueces de Tribunal de Enjuiciamiento podrán actuar como Jueces de Control, cuando así se requiera por las necesidades del servicio y conforme al sistema de asignación que al efecto se implemente, atendiendo la previsión contenida en el artículo 20, apartado A, fracción IV de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+Los Tribunales de Enjuiciamiento actuando en forma colegiada, conocerán de lo siguiente:
+
+I.- Los casos señalados por el Código Nacional de Procedimientos Penales como de prisión preventiva oficiosa; y,
+
+II.- Los casos que, no estando incluidos en la fracción inmediata anterior, se sigan por delitos que tengan señalada una pena cuya media aritmética sea superior a diez años de prisión.
+
+Los asuntos que no están comprendidos en las previsiones que anteceden, serán del conocimiento de los Tribunales de Enjuiciamiento actuando en forma unitaria.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 212.
 
-Los Tribunales de Enjuiciamiento contarán con un Juez Presidente, quien dirigirá las audiencias, el debate de las mismas y conservará el orden. La sentencia constará por escrito, señalará el nombre del juez redactor y, en su caso, el del disidente.
+Los Tribunales de Enjuiciamiento, actuando en forma colegiada, tendrán un Juez Presidente, quien dirigirá las audiencias y mantendrá el orden de las mismas, conforme a lo previsto en el Código Nacional de Procedimientos Penales. Las sentencias constarán por escrito, señalarán el nombre del Juez redactor y, en su caso el del disidente.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
-###### ARTÍCULO 213.
+###### ARTICULO 213.
 
-El Juez Presidente del Tribunal de Enjuiciamiento será designado, en cada asunto, mediante el sistema aleatorio que para tal efecto implemente el Consejo de la Judicatura del Estado y conforme a los lineamientos que sean señalados por éste en el acuerdo respectivo.
+El Juez Presidente del Tribunal de enjuiciamiento será asignado, en cada asunto, mediante el sistema administrativo que al efecto se implemente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -3359,9 +3423,9 @@ VI.- Las demás que les otorgue la ley.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE JUNIO DE 2013)</small>
 
-### CAPITULO IV. DE LA ADMINISTRACIÓN
+### CAPITULO IV. DE LA COORDINACIÓN GENERAL DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 215.
 
@@ -3405,43 +3469,71 @@ XVI.- Conocer y resolver las impugnaciones sobre las determinaciones del Ministe
 
 XVII.- Las demás que le otorgue la ley.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2016)</small>
 
-### CAPITULO V. DE LA UNIDAD DE SEGUIMIENTO DE CAUSAS
+### CAPITULO V. DE LA UNIDAD DE ADMINISTRACIÓN DE SALAS DE AUDIENCIAS
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 216.
 
-La administración del Sistema de Justicia Penal Acusatorio y Oral estará a cargo de un titular, designado por el Consejo de la Judicatura del Estado y contará con el personal de apoyo que éste determine y permita el presupuesto.
+El Sistema de gestión judicial en el ámbito del Procedimiento Penal Acusatorio y Oral, tendrá un Coordinador General designado por el Consejo de la Judicatura y contará con la estructura administrativa que éste autorice y permita el presupuesto.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 217.
 
-Las funciones del titular de la administración del Sistema de Justicia Penal Acusatorio y Oral, serán:
+Las funciones de la Coordinación General de Sistemas de Gestión Judicial, serán:
 
 I.- Planificar, organizar y controlar la gestión administrativa del procedimiento penal acusatorio y oral, en el ámbito judicial;
 
-II.- Dirigir y supervisar la logística para el correcto funcionamiento de las salas de audiencias, así como el sistema de asignación de jueces para las mismas;
+II.- Dirigir y supervisar la logística para el correcto funcionamiento de las salas de audiencias;
 
-III.- Evaluar el desempeño del personal de apoyo;
+III.- Conducir y supervisar el sistema de asignación de Jueces, tanto de control como de enjuiciamiento, para la atención de asuntos;
 
-IV.- Llevar la estadística general, rindiendo los informes respectivos;
+IV.- Evaluar el desempeño del personal de apoyo;
 
-V.- Proponer al Consejo de la Judicatura los manuales de organización requeridos;
+V.- Organizar la estadística general del Sistema, rindiendo al Consejo los informes respectivos;
 
-VI.- Vigilar el buen uso y conservación de la infraestructura y equipamiento de las salas de audiencias; y
+VI.- Proponer al Consejo de la Judicatura la adopción de medidas para la mejora continua del servicio y buenas prácticas;
 
-VII.- Las demás que señale (sic) ley y el Consejo de la Judicatura.
+VII.- Supervisar el uso y conservación de la infraestructura y equipamiento de las salas de audiencias;
+
+VIII.- Proponer al Consejo de la Judicatura los manuales de organización requeridos; y
+
+IX.- Las demás que señale la ley, el Consejo de la Judicatura y su Presidente.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+### CAPITULO VI. DE LA UNIDAD DE SEGUIMIENTO DE CAUSAS
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 218.
 
-El Consejo de la Judicatura del Estado fijará los requisitos y perfil del titular de la administración del Sistema de Justicia Penal Acusatorio y Oral.
+El Sistema de Justicia Penal Acusatorio y Oral tendrá las Unidades de Administración de Salas de Audiencias que resulten necesarias, contando con el personal de apoyo que determine el Consejo de la Judicatura y permita el presupuesto.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+ARTICULO 218 BIS.- Las funciones de la Unidad de Administración de Salas de Audiencias, serán las siguientes:
+
+I.- Preparar y controlar la agenda de Audiencias, propiciando el correcto funcionamiento de las Salas a su cargo;
+
+II.- Participar en la evaluación del desempeño del personal de apoyo;
+
+III.- Operar el sistema de asignación de jueces actuantes en las Salas de Audiencias a su cargo;
+
+IV.- Asegurar el óptimo funcionamiento del equipo de videograbación antes de cada audiencia en las Salas a su cargo;
+
+V.- Elaborar la estadística de asuntos y Audiencias, rindiendo a la Coordinación General del Sistema los informes conducentes;
+
+VI.- Obtener los registros digitales de Audiencias, entregando los archivos respectivos a la Unidad de Seguimiento de Causas;
+
+VII.- Preservar el uso y funcionalidad de la infraestructura y equipamiento de las Salas de Audiencias a su cargo;
+
+VIII.- Atender planteamientos del público asistente a las Audiencias, excepto aquéllos de naturaleza estrictamente jurisdiccional; y
+
+IX.- Las demás que le señale el Consejo de la Judicatura y la normatividad aplicable.
 
 ###### ARTICULO 219.
 
@@ -3453,29 +3545,43 @@ El Sistema de Justicia Penal Acusatorio y Oral tendrá las Unidades de Seguimien
 
 Las funciones de la Unidad de Seguimiento de Causas, serán las siguientes:
 
-I.- Expedir a las partes las copias de registros que autorice el órgano jurisdiccional;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-II.- Conservar los documentos, registros o actuaciones que se generen durante el proceso y hasta que la resolución cause ejecutoria;
+I.- Expedir a las partes las copias de registros procesales que autorice el órgano jurisdiccional;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+II.- Resguardar los documentos, registros o actuaciones que se generen durante el proceso hasta que la resolución cause ejecutoria;
 
 III.- Una vez concluido el proceso, enviar la carpeta administrativa y registros de audiencias al Archivo Judicial para su resguardo;
 
-IV.- Verificar que se reúnan las condiciones para iniciar la audiencia e informar el resultado al órgano jurisdiccional;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-V.- Recibir y despachar la correspondencia de los órganos jurisdiccionales a quienes asiste;
+IV.- Verificar que se reúnan las condiciones legales para iniciar la audiencia e informar el resultado al órgano jurisdiccional;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+V.- Recibir y despachar la correspondencia de los órganos jurisdiccionales a quienes asiste, así como operar el sistema de comunicación procesal;
 
 VI.- Dar seguimiento a los mandatos judiciales originados dentro y fuera de audiencia;
 
-VII.- Llevar la agenda y dar cuenta al órgano jurisdiccional de los términos o actos que tengan efectos procesales;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-VIII.- Elaborar el acta que contenga los datos mínimos de las audiencias; y
+VII.- Asistir al órgano jurisdiccional en las audiencias y en los actos que se derivan de las mismas;
 
-IX.- Las demás que determine la ley, el Consejo de la Judicatura del Estado o el titular de la administración del Sistema de Justicia Penal Acusatorio y Oral.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+VIII.- Elaborar el acta que contenga los datos mínimos de las Audiencias; y
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+IX.- Las demás que le señale el Consejo de la Judicatura y la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 221.
 
-El Consejo de la Judicatura del Estado fijará el perfil y requisitos del titular de la Unidad de Seguimiento de Causas en el Sistema de Justicia Penal Acusatorio y Oral.
+El Consejo de la Judicatura del Estado establecerá el perfil y requisitos que deban satisfacer los titulares de los Órganos Administrativos del Sistema de Justicia Penal Acusatorio y Oral.
 
 T R A N S I T O R I O S
 
@@ -3792,3 +3898,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las reformas que mediante el presente Decreto se efectúan a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, entrarán en vigor a partir de la expedición del mismo.
+
+P.O. 16 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXII-964 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NO. LXII-249, DEL 25 DE JUNIO DE 2014 Y PUBLICADO EN EL PERIÓDICO OFICIAL NO. 77, DEL 26 DE JUNIO DE 2014, Y SE ABROGA LA LEY DE JUSTICIA DE PAZ PARA EL ESTADO DE TAMAULIPAS, EXPEDIDA MEDIANTE DECRETO NO. LIX-935, DEL 31 DE MAYO DE 2007, PUBLICADA EN EL PERIÓDICO OFICIAL NO. 92 DEL 1 DE AGOSTO DE 2007".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Todos los procesos y recursos iniciados con las disposiciones que mediante el presente Decreto, se reforman o adicionan, deberán concluirse con el procedimiento mediante el cual se iniciaron; sin embargo, para efecto de la competencia jurisdiccional en materia penal de los juzgados menores, se atenderá al contenido de las declaratorias emitidas por el Congreso del Estado para la operación del Sistema de Justicia Penal Acusatorio y Oral, conforme a las fechas de vigencia, territorio y delitos en ellas precisados.
