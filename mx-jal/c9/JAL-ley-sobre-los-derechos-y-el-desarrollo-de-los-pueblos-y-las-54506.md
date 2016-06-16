@@ -4,7 +4,7 @@ identifier: "JAL-ley-sobre-los-derechos-y-el-desarrollo-de-los-pueblos-y-las-545
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-11"
-last_updated: "2016-03-03"
+last_updated: "2016-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY SOBRE LOS DERECHOS Y EL DESARROLLO DE LOS PUEBLOS Y LAS COMUNIDADES INDÍGENAS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 11 de enero de 2007.
 
@@ -557,15 +557,15 @@ II. El titular de cada una de las siguientes Secretarías y dependencias del Gob
 
 a) General de Gobierno;
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
+(REFORMADO, P.O. 3 DE MARZO DE 2016) (REPUBLICADO, P.O. 16 DE JUNIO DE 2016)
 
 b) Desarrollo e Integración Social;
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
+(REFORMADO, P.O. 3 DE MARZO DE 2016) (REPUBLICADO, P.O. 16 DE JUNIO DE 2016)
 
 c) Planeación, Administración y Finanzas;
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
+(REFORMADO, P.O. 3 DE MARZO DE 2016) (REPUBLICADO, P.O. 16 DE JUNIO DE 2016)
 
 d) Desarrollo Económico;
 
@@ -573,17 +573,19 @@ e) Educación;
 
 f) Cultura;
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
+(REFORMADO, P.O. 3 DE MARZO DE 2016) (REPUBLICADO, P.O. 16 DE JUNIO DE 2016)
 
 g) Medio Ambiente y Desarrollo Territorial;
 
-h) (DEROGADO, P.O. 3 DE MARZO DE 2016)
+h) (DEROGADO, P.O. 3 DE MARZO DE 2016) (REPUBLICADO, P.O. 16 DE JUNIO DE 2016)
 
 i) Desarrollo Rural;
 
-j) Desarrollo Urbano;
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
+j) Infraestructura y Obra Pública;
+
+(REFORMADO, P.O. 3 DE MARZO DE 2016) (REPUBLICADO, P.O. 16 DE JUNIO DE 2016)
 
 k) Fiscalía General del Estado;
 
@@ -916,3 +918,9 @@ P.O. 3 DE MARZO DE 2016.
 ###### ARTICULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 16 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25837/LXI/16 QUE MODIFICA EL ARTÍCULO 70 DE LA LEY SOBRE LOS DERECHOS Y EL DESARROLLO DE LOS PUEBLOS Y LAS COMUNIDADES INDÍGENAS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
