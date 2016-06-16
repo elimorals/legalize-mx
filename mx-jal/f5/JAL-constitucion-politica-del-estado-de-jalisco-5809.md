@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2016-05-24"
+last_updated: "2016-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -57,9 +57,9 @@ Todo poder público dimana del pueblo y se instituye para su beneficio.
 
 La soberanía del Estado reside esencial y originariamente en el pueblo, quien la ejerce por medio de los poderes estatales, del modo y en los términos que establecen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes.
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
-El Estado de Jalisco adopta para su régimen interno, la forma de gobierno republicano, democrático, representativo, laico y popular; tiene como base de su división territorial y de su organización política y administrativa, el municipio libre.
+El Estado de Jalisco adopta para su régimen interno, la forma de gobierno republicano, democrático, representativo, laico, popular y participativo; tiene como base de su división territorial y de su organización política y administrativa, el municipio libre.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
@@ -85,9 +85,9 @@ Los municipios del estado son aquellos señalados en la ley que establece las ba
 
 Toda persona, por el sólo hecho de encontrarse en el territorio del estado de Jalisco, gozará de los derechos que establece esta Constitución, siendo obligación fundamental de las autoridades salvaguardar su cumplimiento. Asimismo, el Estado de Jalisco reconoce, protege y garantiza el derecho a la vida de todo ser humano, al sustentar expresamente que desde el momento de la fecundación entra bajo la protección de la ley y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
-Se reconocen como derechos humanos de las personas que se encuentren en el territorio del estado de Jalisco, los que se enuncian en la Constitución Política de los Estados Unidos Mexicanos, así como los contenidos en la Declaración Universal de los Derechos Humanos, proclamada por la Asamblea General de las Naciones Unidas en la Convención Americana sobre Derechos Humanos, y en los tratados, convenciones o acuerdos internacionales que el Gobierno federal haya firmado o los que celebre o de que forme parte.
+Se reconocen como derechos humanos de las personas que se encuentren en el territorio del Estado de Jalisco, los que se enuncian en la Constitución Política de los Estados Unidos Mexicanos, así como los contenidos en la Declaración Universal de los Derechos Humanos, proclamada por la Asamblea General de las Naciones Unidas, en la Convención Americana sobre Derechos Humanos, y en los tratados, convenciones o acuerdos internacionales que el Gobierno Federal haya firmado o los que celebre o de que forme parte; atendiendo al principio del mínimo vital consistente en el eje de planeación democrático por el cual el Estado deberá de crear las condiciones para que toda persona pueda llevar a cabo su proyecto de vida.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE AGOSTO DE 2012)</small>
 
@@ -105,23 +105,31 @@ Queda prohibida toda discriminación motivada por origen étnico o nacional, el 
 
 El derecho a la información pública y la protección de datos personales será garantizado por el Estado en los términos de lo que establecen la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte, esta Constitución y las leyes en la materia.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2015)</small>
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Esta Constitución reconoce el derecho humano a la participación ciudadana.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+El Estado garantizará y promoverá el acceso a la sociedad de la información y economía del conocimiento, mediante el uso y aprovechamiento de las tecnologías de comunicación y de la información en los términos de la legislación correspondiente; asimismo, reconoce el derecho de acceso a la ciencia, tecnología e innovación, para lo cual promoverá su desarrollo, con el objetivo de elevar el nivel de vida de los habitantes del Estado.
+
+(REFORMADO, P.O. 28 DE JULIO DE 2015) (REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE JUNIO DE 2016)
 
 Toda persona tiene derecho a la cultura; a participar libremente en la vida cultural de la comunidad; a preservar y desarrollar su identidad; a acceder y participar en cualquier manifestación artística y cultural; a elegir pertenecer a una comunidad cultural; al disfrute de los bienes y servicios que presta el Estado en la materia; a conocer, preservar, fomentar y desarrollar su patrimonio cultural, así como al ejercicio de sus derechos culturales en condiciones de igualdad.
 
-(REFORMADO, P.O. 29 DE ABRIL DE 2004) (REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE JULIO DE 2015)
+(REFORMADO, P.O. 29 DE ABRIL DE 2004) (REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE JUNIO DE 2016)
 
 El Estado de Jalisco tiene una composición pluricultural sustentada originalmente en sus pueblos indígenas que son aquellos que descienden de poblaciones que habitaban en el territorio actual del país al iniciarse la colonización y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas.
 
-(REFORMADO, P.O. 29 DE ABRIL DE 2004) (REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE JULIO DE 2015)
+(REFORMADO, P.O. 29 DE ABRIL DE 2004) (REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE JUNIO DE 2016)
 
 La conciencia de su identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2015)</small>
+(REFORMADO, P.O. 28 DE JULIO DE 2015) (REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE JUNIO DE 2016)
 
 Son comunidades integrantes de un pueblo indígena, aquellas que formen una unidad social, económica y cultural, asentadas en un territorio y que reconocen autoridades propias de acuerdo con sus usos y costumbres.
 
-(REFORMADO, P.O. 29 DE ABRIL DE 2004) (REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE JULIO DE 2015)
+(REFORMADO, P.O. 29 DE ABRIL DE 2004) (REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE JUNIO DE 2016)
 
 El derecho de los pueblos indígenas a la libre determinación se ejercerá en un marco constitucional de autonomía que asegure la unidad nacional. El reconocimiento de los pueblos y comunidades indígenas se hará en las leyes reglamentarias, las que deberán tomar en cuenta, además de los principios generales establecidos en los párrafos anteriores de este artículo, criterios etnolingüísticos y de asentamiento físico.
 
@@ -219,11 +227,13 @@ La vecindad no se pierde por ausencia debida al desempeño de cargos públicos, 
 
 II. Son prerrogativas de los ciudadanos jaliscienses:
 
-a) Votar en las elecciones populares, así como en los procesos de plebiscito y referéndum;
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+a) Votar en las elecciones populares;
 
-b) Ser votado en las elecciones populares, siempre que reúna los requisitos que determinen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y sus respectivas leyes reglamentarias y no estar comprendido en alguna de las causas de inelegibilidad establecidas por las mismas, así como solicitar su registro como candidato independiente en las condiciones y términos que determine la ley;
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+b) Ser votado en las elecciones populares, siempre que reúna los requisitos que determinen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y sus respectivas leyes reglamentarias y no estar comprendido en alguna de las causas de inelegibilidad establecidas por las mismas, así como solicitar su registro como candidato independiente para lo cual se requiere el apoyo de cuando menos el 1 por ciento de los ciudadanos inscritos en la lista nominal de electores de la demarcación territorial correspondiente, en las condiciones y términos que determine la ley;
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -457,9 +467,13 @@ El derecho a la información pública tendrá los siguientes fundamentos:
 
 I. La consolidación del estado democrático y de derecho en Jalisco;
 
-II. La transparencia y la rendición de cuentas de las autoridades estatales y municipales, mediante la apertura de los órganos públicos y el registro de los documentos en que constan las decisiones públicas y el proceso para la toma de éstas;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-III. La participación ciudadana en la toma de decisiones públicas, mediante el ejercicio del derecho a la información;
+II. La transparencia y la rendición de cuentas de las autoridades estatales y municipales, mediante la implementación de mecanismos de gobierno abierto, a través del organismo garante y en colaboración con representantes de la sociedad civil, para la apertura de los órganos públicos y el registro de los documentos en que constan las decisiones públicas y el proceso para la toma de éstas;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+III. La participación de las personas en la toma de decisiones públicas, mediante el ejercicio del derecho a la información;
 
 IV. La información pública veraz y oportuna;
 
@@ -471,9 +485,9 @@ V. La protección de datos personales en posesión de sujetos obligados; y
 
 VI. La promoción de la cultura de transparencia, la garantía del derecho a la información y la resolución de las controversias que se susciten por el ejercicio de este derecho a través del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
-El Instituto es un órgano público autónomo, con personalidad jurídica y patrimonio propio, el cual en su funcionamiento se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad. En el ámbito de sus atribuciones coadyuvará en la implementación de políticas y mecanismos de apertura gubernamental.
+El Instituto es un órgano público autónomo, con personalidad jurídica y patrimonio propio, el cual en su funcionamiento se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad. En el ámbito de sus atribuciones coadyuvará en la implementación de políticas y mecanismos de apertura gubernamental, así como la participación social.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
@@ -535,15 +549,61 @@ Toda autoridad estatal o municipal que, en el ámbito de su competencia, tenga c
 
 ## TITULO SEGUNDO
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2016)</small>
 
-### CAPITULO I. Del Sufragio
+### CAPITULO I. Del Sufragio y de la Participación Social
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### Art. 11.
 
-El sufragio es la expresión de la voluntad popular para la elección de los integrantes de los poderes Legislativo y Ejecutivo, de los gobiernos municipales y para la participación en los procesos de plebiscito y referéndum en los términos que establezcan las leyes. La renovación de los poderes Legislativo y Ejecutivo y de los ayuntamientos del Estado, se realizará en elecciones, mediante la emisión del sufragio universal, libre, secreto, directo e intransferible.
+El sufragio es la expresión de la voluntad popular para la elección de los integrantes de los poderes Legislativo y Ejecutivo, de los gobiernos municipales y para los procesos relativos a los mecanismos de participación social. La renovación de los poderes Legislativo y Ejecutivo y de los ayuntamientos del Estado, se realizará en elecciones, mediante la emisión del sufragio universal, libre, secreto, directo e intransferible.
+
+La organización, desarrollo, cómputo y declaración de resultados de los mecanismos de participación social estará a cargo del Instituto Electoral y de Participación Ciudadana.
+
+Los Ayuntamientos emitirán los reglamentos y disposiciones administrativas que les permitan asegurar la participación social y vecinal, teniendo como bases mínimas, las establecidas en la ley estatal relativa a la materia.
+
+En el Estado de Jalisco se reconocen por lo menos, los siguientes instrumentos de participación social:
+
+I. Gobierno abierto es el instrumento que permite la participación social de toda persona en los procesos de elaboración y evaluación de las políticas públicas, contribuyendo a la transparencia, a la rendición de cuentas y el combate a la corrupción, de acuerdo con esta Constitución y a las normas aplicables correspondientes;
+
+II. Plebiscito es el instrumento mediante el cual se someten a la consideración de la ciudadanía los actos o decisiones del Ejecutivo del Estado y de los ayuntamientos. En el ámbito estatal podrá ser solicitado por el 0.5 por ciento de los ciudadanos inscritos en la lista nominal de electores. En los municipios, en que la población no exceda de cincuenta mil habitantes podrá solicitarlo el 3 por ciento; si la población excede los cincuenta mil, pero no los cien mil habitantes el 2 por ciento; en los que exceda cien mil pero no quinientos mil habitantes el 1 por ciento; y en los que exceda los quinientos mil habitantes el 0.5 por ciento de la lista nominal de electores. En todos los casos será vinculante cuando participe por lo menos el 40 por ciento de los ciudadanos inscritos en la lista nominal de electores correspondiente y de los mismos más del 50 por ciento emita su voto a favor;
+
+III. Referéndum es el instrumento mediante el cual se somete a la consideración de la ciudadanía la abrogación o derogación de disposiciones legales y constitucionales, decretos, reglamentos, acuerdos y disposiciones de carácter general, expedidas por el Congreso, el Ejecutivo del Estado o los municipios. En el ámbito estatal podrá ser solicitado por el 0.5 por ciento de los ciudadanos inscritos en la lista nominal de electores. En los municipios en que la población no exceda de cincuenta mil habitantes podrá solicitarlo el 3 por ciento; si la población excede los cincuenta mil, pero no los cien mil habitantes el 2 por ciento; en los que exceda cien mil pero no quinientos mil habitantes el 1 por ciento; y en los que exceda los quinientos mil habitantes el 0.5 por ciento de la lista nominal de electores. En todos los casos será vinculante cuando participe por lo menos el 40 por ciento de los ciudadanos inscritos en la lista nominal de electores correspondiente y de los mismos más del 50 por ciento emita su voto a favor;
+
+IV. La ratificación constitucional es el instrumento de participación social mediante el cual la ciudadanía, podrá validar o derogar una reforma a la Constitución Política del Estado de Jalisco, siempre y cuando sea solicitada, dentro de los treinta días naturales siguientes a la fecha de su publicación, por el Gobernador, el 50 por ciento de los ayuntamientos o el 50 por ciento de los diputados integrantes del Congreso, todos del Estado. Será organizada por el Instituto Electoral y de Participación Ciudadana, en los términos precisados por la ley.
+
+Se realizará el mismo día de la jornada electoral, salvo que el Instituto Electoral y de Participación Ciudadana autorice por unanimidad de votos su realización en una fecha distinta, fuera del periodo del proceso electoral, y siempre que exista suficiencia presupuestal para realizarla.
+
+Sus resultados serán vinculantes, cuando en el procedimiento democrático participe cuando menos el 40 por ciento del número de ciudadanos inscritos en la lista nominal de electores del Estado y vote en sentido afirmativo el cincuenta por ciento mas uno;
+
+V. Iniciativa popular es el instrumento mediante el cual los ciudadanos pueden presentar iniciativas ante los poderes Legislativo y Ejecutivo. Podrán presentarla el 0.1 por ciento de los ciudadanos inscritos en la lista nominal de electores de (sic) del Estado;
+
+VI. Iniciativa popular municipal es el instrumento mediante el cual los ciudadanos inscritos en la lista nominal de electores pueden presentar iniciativas ante la autoridad municipal. En los municipios en que la población no exceda de cincuenta mil habitantes podrá solicitarlo el 3 por ciento; si la población excede los cincuenta mil, pero no los cien mil habitantes el 2 por ciento; en los que exceda cien mil pero no quinientos mil habitantes el 1 por ciento; y en los que exceda los quinientos mil habitantes el 0.5 por ciento de la lista nominal de electores;
+
+VII. Presupuesto participativo es el instrumento mediante el cual se define el destino de un porcentaje de los recursos públicos, para lo cual el Gobierno del Estado proyectará anualmente en el presupuesto de egresos una partida equivalente al menos al quince por ciento del presupuesto destinado para inversión pública.
+
+Para impulsar el desarrollo municipal y regional los ayuntamientos podrán convenir con el Poder Ejecutivo Estatal la realización de inversiones públicas conjuntas, que los habitantes de sus municipios determinen mediante el presupuesto participativo;
+
+VIII. La revocación de mandato es el mecanismo mediante el cual los ciudadanos jaliscienses deciden que un representante de elección popular concluya anticipadamente el ejercicio del cargo para el que fue electo siempre y cuando se configuren las causales y se cumpla con los procedimientos establecidos en las leyes.
+
+Podrá ser solicitado por el 5 por ciento de los ciudadanos inscritos en la lista nominal de electores distribuidos en las dos terceras partes de los distritos o secciones electorales de la demarcación territorial que corresponda, y sólo podrá solicitarse transcurrida la mitad del período constitucional correspondiente al ejercicio del cargo de un representante electo popularmente y hasta 120 días después del inicio de la segunda mitad del periodo constitucional.
+
+La votación para determinar la revocación de mandato deberá llevarse a cabo a más tardar 120 días posteriores a la declaratoria de procedencia de la solicitud que emita la autoridad electoral, y para su validez deberán participar en el procedimiento respectivo, por lo menos la misma cantidad de ciudadanos que lo hicieron en el proceso electoral donde resultó electo el representante popular sujeto a este mecanismo de participación democrática.
+
+Procederá la revocación del mandato siempre y cuando el número de votos en el sentido de revocarlo sea mayor al número de votos por el que fue electo el representante popular sujeto del procedimiento.
+
+De ser procedente la revocación del mandato, se estará a lo que se establece en esta Constitución para la sustitución de autoridades electas por sufragio.
+
+La revocación del mandato no dará lugar a compensación, indemnización, ni pago de emolumento alguno a favor del representante popular sujeto a ese mecanismo;
+
+IX. Consulta popular es el instrumento mediante el cual los habitantes del Estado, un municipio o demarcación territorial, expresan sus opiniones respecto a temas de carácter público o impacto social que son consultados por la autoridad correspondiente. Podrá ser solicitada por el 50 por ciento de los integrantes del Congreso del Estado, el titular del Ejecutivo del Estado o por el 0.1 por ciento de los habitantes de la demarcación territorial correspondiente, cuando la consulta se dirija a temas relativos a los Poderes Ejecutivo o Legislativo; y por 50 por ciento de los integrantes del cabildo o por lo menos el 0.5 por ciento de los habitantes de la demarcación territorial especifica cuando la consulta se dirija a temas relativos al gobierno municipal;
+
+X. La contraloría social es un espacio para que la ciudadanía y los organismos del sector social y privado formen una instancia de vigilancia y observación de las actividades de gobierno;
+
+XI. Cabildo abierto es el instrumento en el que los ciudadanos, a través de representantes de asociaciones vecinales debidamente registradas, tienen derecho a presentar propuestas o peticiones en por lo menos seis de las sesiones ordinarias que celebre el Ayuntamiento en el año; y
+
+XII. Las Juntas Municipales son una instancia de participación social en los asuntos gubernamentales del municipio, a través de asociaciones vecinales debidamente registradas.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
@@ -599,9 +659,9 @@ VI. La remoción del Consejero Presidente y de los consejeros electorales, será
 
 VII. El Secretario Ejecutivo será nombrado por mayoría de votos de los consejeros electorales del Instituto Electoral, a propuesta de su Presidente; deberá reunir los requisitos que señale la ley;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2016)</small>
 
-VIII. En las elecciones locales, el Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, en los términos de la Constitución Política de los Estados Unidos Mexicanos y la ley aplicable, ejercerá funciones en las siguientes materias:
+VIII. El Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, en los términos de la Constitución Política de los Estados Unidos Mexicanos y la ley aplicable, ejercerá funciones en las siguientes materias:
 
 a) Derechos y el acceso a las prerrogativas de los candidatos y partidos políticos;
 
@@ -627,7 +687,9 @@ k) Las demás que determinen las leyes aplicables; y
 
 l) Todas las no reservadas al Instituto Nacional Electoral por la Constitución Federal.
 
-Así mismo, tendrá a su cargo la realización de los procesos de plebiscito y referéndum y la declaración de que los ciudadanos que pretendan iniciar un proceso legislativo, representen cuando menos el número exigido por esta Constitución y las leyes para ejercer ese derecho.
+[N. DE E. EN RELACIÓN CON EL ANTERIOR PÁRRAFO SEGUNDO DE LA FRACCIÓN VIII, VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE JUNIO DE 2016, PÁGINA 10.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE JUNIO DE 2016)</small>
 
 Las sesiones de todos los órganos colegiados de dirección serán públicas, en los términos que señale la ley;
 
@@ -1045,11 +1107,19 @@ I. Los diputados;
 
 II. El Gobernador del Estado;
 
-III. El Supremo Tribunal, en asuntos del ramo de justicia, y
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
-IV. Los ayuntamientos, en asuntos de competencia municipal.
+III. El Supremo Tribunal, en asuntos del ramo de justicia;
 
-Pueden presentar iniciativas de ley los ciudadanos inscritos en el Registro Nacional de Ciudadanos correspondiente al estado, cuyo número represente cuando menos el 0.5 por ciento del total de dicho registro, mediante escrito presentado en los términos y con las formalidades que exija la ley de la materia.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+IV. Los ayuntamientos, en asuntos de competencia municipal; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADO Y REUBICADO SU CONTENIDO ANTES PÁRRAFO SEGUNDO], P.O. 16 DE JUNIO DE 2016)</small>
+
+V. Los ciudadanos inscritos en la lista nominal de electores en el Estado, en los términos que exija esta Constitución y la ley de la materia.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE JUNIO DE 2016)</small>
 
 Dichas iniciativas deberán ser dictaminadas en los términos que establezca la ley en la materia.
 
@@ -1125,35 +1195,11 @@ VI. El voto que tenga que emitir en su calidad de constituyente permanente feder
 
 Las leyes y decretos a que se refieren las fracciones anteriores, para efectos de la publicación por parte del Poder Ejecutivo, deberán ser enviadas al Periódico Oficial del Estado, debiendo publicarse dentro del plazo que establece el quinto párrafo del presente artículo.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### Art. 34.
 
-Las leyes que expida el Congreso, que sean trascendentales para el orden público o interés social, en los términos que marca la ley, con excepción de las de carácter contributivo y de las leyes orgánicas de los poderes del Estado, serán sometidas a referéndum derogatorio, total o parcial, siempre y cuando:
-
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
-
-I. Lo solicite ante el Instituto Electoral del Estado un número de ciudadanos que represente cuando menos al dos punto cinco por ciento de los jaliscienses debidamente identificados, inscritos en el Registro Nacional de Ciudadanos correspondiente al Estado, dentro de los treinta días siguientes a la fecha de su publicación; o
-
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
-
-II. Lo solicite el Titular del Poder Ejecutivo ante el Instituto Electoral del Estado, dentro de los veinte días siguientes a la fecha de su publicación.
-
-Las leyes sometidas a referéndum, sólo podrán ser derogadas si en dicho proceso participa cuando menos el cuarenta por ciento de los inscritos en el Registro Nacional de Ciudadanos correspondiente al Estado y, de los mismos, más del cincuenta por ciento emite su voto en contra.
-
-Si dentro de los primeros treinta días no se solicita el proceso de referéndum, la ley iniciará su vigencia.
-
-Si en dicho período se solicitare referéndum, la vigencia de la ley deberá quedar en suspenso, salvo los casos de urgencia determinada por el Congreso.
-
-Cuando la solicitud a que se refiere el párrafo anterior posea efectos suspensivos, la vigencia de dichas disposiciones comenzará una vez concluido el proceso de referéndum, si las mismas no fueren derogadas.
-
-Las leyes que se refieran a materia electoral no podrán ser sometidas a referéndum dentro de los seis meses anteriores al proceso electoral, ni durante el desarrollo de éste.
-
-No podrán presentarse iniciativas en el mismo sentido, dentro de un período de dieciocho meses contados a partir de la fecha en que se publique el decreto derogatorio.
-
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2005)</small>
-
-El Instituto Electoral del Estado efectuará el cómputo de los votos y remitirá la resolución correspondiente al titular del Poder Ejecutivo, para su publicación en el periódico oficial "El Estado de Jalisco". Una vez que la resolución del Instituto Electoral quede firme, si es derogatoria, será notificada al Congreso del Estado para que, en un plazo no mayor de treinta días, emita el decreto correspondiente.
+Las leyes que expida el Congreso, con excepción de las de carácter contributivo y de las leyes orgánicas de los poderes del Estado, podrán ser sometidas a referéndum, en los términos que establezca esta Constitución y la ley de la materia.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
@@ -1545,33 +1591,11 @@ Para el despacho de los negocios del Poder Ejecutivo habrá un servidor público
 
 Todas las disposiciones que el Gobernador del Estado emita en uso de sus facultades, deberán estar firmadas por el secretario de despacho a que el asunto corresponda, y sin este requisito no serán obedecidas.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### Art. 47.
 
-Los reglamentos y decretos que expida el titular del Poder Ejecutivo, que sean trascendentales para el orden público o interés social, en los términos que establezca la ley, con excepción de las de carácter contributivo, podrán ser sometidos a referéndum derogatorio, total o parcial, siempre y cuando:
-
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
-
-I. Lo solicite ante el Instituto Electoral del Estado un número de ciudadanos que represente cuando menos el dos punto cinco por ciento de los jaliscienses inscritos en el Registro Nacional de Ciudadanos, debidamente identificados, dentro de los treinta días siguientes a la fecha de su publicación; o
-
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
-
-II. Lo solicite el Congreso del Estado, ante el Instituto Electoral, dentro de los treinta días siguientes a la fecha de su publicación, de conformidad con lo que establezca la ley de la materia.
-
-Los reglamentos y decretos sometidos al proceso de referéndum sólo podrán ser derogados si en dicho proceso participa, cuando menos, el cuarenta por ciento de los inscritos en el Registro Nacional de Ciudadanos correspondiente al Estado y, de los mismos, más del cincuenta por ciento emite su voto en contra.
-
-Si dentro de los primeros treinta días no se solicita el proceso de referéndum, el reglamento o decreto iniciará su vigencia.
-
-Si en dicho período se solicitare referéndum, la vigencia del reglamento o decreto deberá quedar en suspenso, salvo los casos de urgencia determinada por el titular del Ejecutivo.
-
-Cuando la solicitud a que se refiere el párrafo anterior posea efectos suspensivos, la vigencia de dichas disposiciones comenzará una vez concluido el proceso de referéndum, en caso de que no fueran derogadas.
-
-En caso de derogación, no podrá decretarse un nuevo reglamento en el mismo sentido, dentro de un período de dieciocho meses contados a partir de la fecha en que se publique el decreto derogatorio.
-
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2005)</small>
-
-El Instituto Electoral del Estado efectuará el cómputo de los votos y remitirá la resolución correspondiente al Titular del Poder Ejecutivo, para su publicación en el periódico oficial El Estado de Jalisco. Una vez que la resolución del Instituto Electoral quede firme, si es derogatoria, será notificada al titular del Poder Ejecutivo para que en un plazo no mayor de treinta días emita el decreto correspondiente.
+Los reglamentos y decretos que expida el titular del Poder Ejecutivo, con excepción de las de carácter contributivo, podrán ser sometidos a referéndum, en los términos que establezca esta Constitución y la ley de la materia.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -2009,29 +2033,43 @@ Sin perjuicio de lo dispuesto en el párrafo anterior, la legislación local est
 
 A la iniciativa de Presupuesto de Egresos del Estado de Jalisco, se deberá adjuntar el proyecto de presupuesto elaborado por el Tribunal Electoral del Estado.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### Art. 70.
 
-El Tribunal Electoral resolverá en forma definitiva e inatacable, en los términos de esta Constitución y según lo disponga la ley:
+El Tribunal Electoral resolverá en forma definitiva, en los términos de esta Constitución y según lo disponga la ley:
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
 I. Las impugnaciones de las elecciones locales de presidentes, regidores y síndicos de los ayuntamientos, diputados por ambos principios, y Gobernador del Estado;
 
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+
 II. Las impugnaciones que se presenten durante el proceso electoral en contra de los actos o resoluciones de la autoridad electoral, distintas a las señaladas en la fracción anterior;
 
-III. Las impugnaciones que se presenten durante el desarrollo de los procesos de plebiscito y referéndum, con motivo de actos o resoluciones de la autoridad electoral;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+III. Las impugnaciones que se presenten durante el desarrollo de los procesos relativos a los mecanismos de participación social contemplados en esta Constitución y en la ley de la materia.
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 IV. Las impugnaciones de actos y resoluciones que violen los derechos político-electorales de los ciudadanos a votar, a ser votado y a la afiliación libre y pacífica para tomar parte en los asuntos políticos del Estado;
 
-V. Los recursos que se presenten contra actos o resoluciones de la autoridad electoral, fuera de los procesos electorales, de plebiscito o referéndum;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+
+V. Los recursos que se presenten contra actos o resoluciones de la autoridad electoral, relativos a los mecanismos de participación social contemplados en esta Constitución y en la ley de la materia.
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 VI. La determinación e imposición de sanciones en la materia;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 VII. Los conflictos o diferencias laborales entre el Tribunal y sus trabajadores;
 
 VIII. (DEROGADA, P.O. 8 DE JULIO DE 2014)
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 IX. Las demás que señale la ley.
 
@@ -2201,35 +2239,11 @@ IV. El procedimiento y condiciones para que el gobierno estatal asuma una funci�
 
 V. Las normas que establezcan los procedimientos mediante los cuales se resolverán los conflictos que se presenten entre los municipios y el gobierno del estado, o entre aquéllos, con motivo de los actos derivados de los incisos III y IV anteriores.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### Art. 78.
 
-Los reglamentos y demás disposiciones de carácter general, impersonal y abstracto que expida el Ayuntamiento, que sean trascendentales para el orden público o el interés social, en los términos que establezca la ley, con excepción de los que tengan carácter contributivo, serán sometidos a referéndum municipal derogatorio, total o parcial, siempre y cuando, dentro de los treinta días siguientes a la fecha de su publicación lo solicite, ante el Instituto Electoral, un número de ciudadanos, debidamente identificados, que represente cuando menos a un cinco por ciento de los inscritos en el Registro Nacional de Ciudadanos en los municipios cuyo número de habitantes sea inferior a trescientos mil; en los que excedan de esa cifra, bastará con que lo solicite un tres por ciento de los ciudadanos inscritos.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
-
-Las disposiciones sometidas al proceso de referéndum municipal, sólo podrán ser derogadas si en dicho proceso participa cuando menos el cuarenta por ciento de los inscritos en el Registro Nacional de Ciudadanos correspondiente al municipio y, de los mismos, más del cincuenta por ciento emite su voto en contra.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
-
-Si dentro de los primeros treinta días no se solicita el proceso de referéndum, la disposición iniciará su vigencia.
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
-
-Los reglamentos y demás disposiciones de carácter general, impersonal y abstracto que expida el Ayuntamiento.
-
-Cuando la solicitud a que se refiere el párrafo anterior posea efectos suspensivos, la vigencia de dichas disposiciones comenzará una vez concluido el proceso de referéndum, en caso de que éste no fuera derogatorio.
-
-No podrán presentarse iniciativas reglamentarias en el mismo sentido, dentro de un período de dieciocho meses contados a partir de la fecha en que se publique la resolución derogatoria.
-
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2005)</small>
-
-El Instituto Electoral del Estado efectuará el cómputo de los votos y remitirá la resolución correspondiente, al Presidente Municipal, para su publicación en la Gaceta Municipal respectiva o, en su caso, en los estrados del ayuntamiento.
-
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2005)</small>
-
-Una vez que la resolución del Instituto Electoral quede firme, si es derogatoria, será notificada al ayuntamiento respectivo, para que en un plazo no mayor de treinta días, emita el acuerdo correspondiente.
+Los reglamentos y demás disposiciones de carácter general que expida el Ayuntamiento, con excepción de los que tengan carácter contributivo, podrán ser sometidos a referéndum, en los términos que establezca la ley de la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
@@ -2351,23 +2365,11 @@ Para la prestación de los servicios de seguridad social en beneficio de los ser
 
 Los ayuntamientos podrán otorgar concesiones a los particulares, para que participen en la ejecución de obras y prestación de servicios públicos que les correspondan, cuando así lo requieran su conservación, mejoramiento y eficaz administración.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 ###### Art. 84.
 
-Los actos o disposiciones de carácter administrativo que impliquen la realización de obra pública o enajenación del patrimonio municipal, podrán ser sometidos previamente a la aprobación de la población municipal por medio del proceso de plebiscito, en los términos que establezca la ley de la materia, siempre y cuando sea solicitado ante el Instituto Electoral por:
-
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
-
-I. El Presidente Municipal o quien haga sus veces;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
-
-II. El ayuntamiento o, en su caso, el Concejo Municipal, o
-
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
-
-III. Un número de ciudadanos jaliscienses que residan en el municipio, debidamente identificados, que represente cuando menos a un cinco por ciento de los inscritos en el Registro Nacional de Ciudadanos en los municipios cuyo número de habitantes sea inferior a trescientos mil; en los que excedan de esa cifra, bastará con que lo solicite un tres por ciento de los inscritos.
+Los actos o disposiciones de carácter administrativo que impliquen la realización de obra pública o enajenación del patrimonio municipal, podrán ser sometidos previamente a la aprobación de la población municipal por medio del proceso de plebiscito.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -3518,3 +3520,13 @@ SEGUNDO. Las remuneraciones de los servidores públicos que al momento de la ent
 TERCERO. El Congreso y los ayuntamientos del Estado, en sus respectivos ámbitos competenciales y dentro de los ciento ochenta días naturales siguientes a su entrada en vigor, expedirán y adecuarán la legislación y normatividad, de conformidad con lo previsto en el presente Decreto, incluyendo las normas que especifiquen, tipifiquen y sancionen las conductas que contravengan o eludan las obligaciones que establece esta reforma constitucional.
 
 CUARTO. El Congreso del Estado y los ayuntamientos aprobarán en los presupuestos de egresos, las remuneraciones de los servidores públicos, ajustadas conforme a lo señalado en el artículo 111. De igual forma presupuestarán las remuneraciones de aquellos servidores públicos que se encuentren en el supuesto del artículo segundo transitorio, a efecto de garantizar la no retroactividad de esta reforma durante la vigencia de su nombramiento.
+
+P.O. 16 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 25833/LXI/16, QUE MODIFICA LOS ARTÍCULOS 2, 4, 6, 9, 11, 12, 28, 34, 47, 70, 78, 84 Y EL NOMBRE DEL CAPÍTULO I DEL TÍTULO SEGUNDO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO, ASÍ COMO ACUERDO LEGISLATIVO 480-LXI-16".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- El Congreso del Estado deberá hacer las modificaciones a la legislación estatal secundaria dentro de los treinta días contados a partir de la publicación del presente decreto.
+
+TERCERO.- Se deroga todo lo que contravenga al presente decreto.
