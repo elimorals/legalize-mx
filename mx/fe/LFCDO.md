@@ -4,7 +4,7 @@ identifier: "LFCDO"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-11-07"
-last_updated: "2016-01-12"
+last_updated: "2016-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9005&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFCDO"
 
 LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JUNIO DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 7 de noviembre de 1996.
 
@@ -42,9 +42,13 @@ LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA
 
 ### CAPÍTULO ÚNICO. NATURALEZA, OBJETO Y APLICACIÓN DE LA LEY
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
 ###### Artículo 1o.
 
-La presente Ley tiene por objeto establecer reglas para la investigación, persecución, procesamiento, sanción y ejecución de las penas, por los delitos cometidos por algún miembro de la delincuencia organizada. Sus disposiciones son de orden público y de aplicación en todo el territorio nacional.
+La presente Ley tiene por objeto establecer reglas para la investigación, persecución, procesamiento, sanción y ejecución de las penas, por los delitos cometidos por alguna persona que forme parte de la delincuencia organizada. Sus disposiciones son de orden público y de aplicación en todo el territorio nacional.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
 
@@ -52,19 +56,19 @@ La presente Ley tiene por objeto establecer reglas para la investigación, perse
 
 Cuando tres o más personas se organicen de hecho para realizar, en forma permanente o reiterada, conductas que por sí o unidas a otras, tienen como fin o resultado cometer alguno o algunos de los delitos siguientes, serán sancionadas por ese solo hecho, como miembros de la delincuencia organizada:
 
-> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JUNIO DE 2016)</small>
 
-I. Terrorismo, previsto en los artículos 139 al 139 Ter, financiamiento al terrorismo previsto en los artículos 139 Quáter y 139 Quinquies y terrorismo internacional previsto en los artículos 148 Bis al 148 Quáter; contra la salud, previsto en los artículos 194 y 195, párrafo primero; falsificación o alteración de moneda, previstos en los artículos 234, 236 y 237; operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis; y el previsto en el artículo 424 Bis, todos del Código Penal Federal;
+I. Terrorismo, previsto en los artículos 139 al 139 Ter, financiamiento al terrorismo previsto en los artículos 139 Quáter y 139 Quinquies y terrorismo internacional previsto en los artículos 148 Bis al 148 Quáter; contra la salud, previsto en los artículos 194, 195, párrafo primero y 196 Ter; falsificación, uso de moneda falsificada a sabiendas y alteración de moneda, previstos en los artículos 234, 236 y 237; operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis; y en materia de derechos de autor previsto en el artículo 424 Bis, todos del Código Penal Federal;
 
 II. Acopio y tráfico de armas, previstos en los artículos 83 bis y 84 de la Ley Federal de Armas de Fuego y Explosivos;
 
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JUNIO DE 2016)</small>
 
-III. Tráfico de indocumentados, previsto en el artículo 159 de la Ley de Migración;
+III. Tráfico de personas, previsto en el artículo 159 de la Ley de Migración;
 
-> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JUNIO DE 2016)</small>
 
-IV. Tráfico de órganos previsto en los artículos 461, 462 y 462 bis de la Ley General de Salud;
+IV. Tráfico de órganos previsto en los artículos 461, 462 y 462 Bis, y delitos contra la salud en su modalidad de narcomenudeo previstos en los artículos 475 y 476, todos de la Ley General de Salud;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -72,9 +76,9 @@ IV. Tráfico de órganos previsto en los artículos 461, 462 y 462 bis de la Ley
 
 V. Corrupción de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo previsto en el artículo 201; Pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 202; Turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tiene capacidad para resistirlo, previsto en los artículos 203 y 203 Bis; Lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204; Asalto, previsto en los artículos 286 y 287; Tráfico de menores o personas que no tienen capacidad para comprender el significado del hecho, previsto en el artículo 366 Ter, y Robo de vehículos, previsto en los artículos 376 Bis y 377 del Código Penal Federal, o en las disposiciones correspondientes de las legislaciones penales estatales o del Distrito Federal;
 
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JUNIO DE 2016)</small>
 
-VI. Delitos en materia de trata de personas, previstos y sancionados en el Título Segundo de la Ley General para Combatir y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, excepto en el caso de los artículos 32, 33 y 34 y sus respectivas tentativas punibles.
+VI. Delitos en materia de trata de personas, previstos y sancionados en el Libro Primero, Título Segundo de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, excepto en el caso de los artículos 32, 33 y 34;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -82,25 +86,51 @@ VI. Delitos en materia de trata de personas, previstos y sancionados en el Títu
 
 VII. Las conductas previstas en los artículos 9, 10, 11, 17 y 18 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 2016)</small>
+> <small>(ADICIONADA, D.O.F. 16 DE JUNIO DE 2016)</small>
 
-VIII. Los previstos en las fracciones I y II del artículo 8; así como las fracciones I, II y III del artículo 9, estas últimas en relación con el inciso d), y el último párrafo de dicho artículo, todas de la Ley Federal Para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos.
+VIII. Contrabando y su equiparable, previstos en los artículos 102 y 105, cuando les correspondan las sanciones previstas en las fracciones II o III del artículo 104 del Código Fiscal de la Federación;
+
+> <small>(REFORMADA, D.O.F. 16 DE JUNIO DE 2016)</small>
+
+IX. Los previstos en las fracciones I y II del artículo 8; así como las fracciones I, II y III del artículo 9, estas últimas en relación con el inciso d), y el último párrafo de dicho artículo, todas de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
+Los delitos a que se refieren las fracciones previstas en el presente artículo que sean cometidos por algún miembro de la delincuencia organizada, serán investigados, procesados y sancionados conforme a las disposiciones de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 2o. Bis.
+
+Se impondrá hasta dos terceras partes de las penas previstas en el artículo 4o. del presente instrumento a quienes resuelvan de concierto cometer las conductas señaladas en el artículo 2o. de la presente Ley y acuerden los medios de llevar a cabo su determinación.
+
+Para acreditar la conducta señalada en el párrafo anterior, las confesionales o testimoniales existentes deberán corroborarse con otros datos o medios de prueba, obtenidos mediante los instrumentos contemplados en el Título Segundo, Capítulos Primero, Segundo, Sexto y Séptimo de la presente Ley, así como los señalados en los artículos 269, 270, 271, 272, 273, 274, 275, 276 y 289 del Código Nacional de Procedimientos Penales.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 2o. Ter.
+
+También se sancionará con las penas contenidas en el artículo 4o. de esta Ley a quien a sabiendas de la finalidad y actividad delictiva general de una organización criminal, participe intencional y activamente en sus actividades ilícitas u otras de distinta naturaleza cuando conozca que con su participación contribuye al logro de la finalidad delictiva.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
 
 ###### Artículo 3o.
 
-Los delitos a que se refieren las fracciones I, II, III y IV del artículo anterior, que sean cometidos por algún miembro de la delincuencia organizada, serán investigados, perseguidos, procesados y sancionados conforme a las disposiciones de esta Ley.
+Las conductas que pudieran ser constitutivas de delitos del fuero común referidas en las fracciones V, VI y VII, así como las relativas a los delitos contra la salud en su modalidad narcomenudeo competencia de las autoridades locales referidas en la fracción IV, todas del artículo 2o. de la presente Ley, atribuibles a personas que forman parte de la delincuencia organizada, serán investigadas, perseguidas y, en su caso, procesadas conforme a las disposiciones de esta Ley siempre que el agente del Ministerio Público de la Federación ejerza la facultad de atracción o la competencia originaria, respectivamente. En estos casos, las autoridades judiciales federales serán las competentes para conocer tales delitos los cuales serán tipificados y sancionados conforme al ordenamiento penal de la entidad federativa aplicable en los casos de las fracciones V, VI y VII del artículo 2o. de esta Ley o bien, conforme a la legislación aplicable en los casos de los delitos contra la salud en su modalidad narcomenudeo referidos en la fracción IV del artículo 2o. de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
-
-Los delitos señalados en las fracciones V y VII de dicho artículo lo serán únicamente si, además de cometerse por un miembro de la delincuencia organizada, el Ministerio Público de la Federación ejerce la facultad de atracción. En este caso, el Ministerio Público de la Federación y las autoridades judiciales federales serán las competentes para conocer de tales delitos. Bajo ninguna circunstancia se agravarán las penas previstas en las legislaciones de las entidades federativas.
+El delito de delincuencia organizada, así como los señalados en los artículos 2o., 2o. Bis y 2o. Ter de esta Ley, ameritarán prisión preventiva oficiosa.
 
 ###### Artículo 4o.
 
 Sin perjuicio de las penas que correspondan por el delito o delitos que se cometan, al miembro de la delincuencia organizada se le aplicarán las penas siguientes:
 
-I. En los casos de los delitos contra la salud a que se refiere la fracción I del artículo 2o. de esta Ley:
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
+I. En los casos de los delitos contra la salud; operaciones con recursos de procedencia ilícita a que refiere la fracción I; trata de personas que refiere la fracción VI; secuestro que refiere la fracción VII y delitos cometidos en materia de robo de hidrocarburos que refiere la fracción IX, del artículo 2o. de esta Ley:
 
 a) A quien tenga funciones de administración, dirección o supervisión, respecto de la delincuencia organizada, de veinte a cuarenta años de prisión y de quinientos a veinticinco mil días multa, o
 
@@ -122,181 +152,423 @@ I. Se trate de cualquier servidor público que participe en la realización de l
 
 II. Se utilice a menores de edad o incapaces para cometer cualesquiera de los delitos a que se refiere esta Ley.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
 ###### Artículo 6o.
 
-Los plazos para la prescripción de la pretensión punitiva y de la potestad de ejecutar las penas y medidas de seguridad correspondientes, se duplicarán respecto de los delitos a que se refiere el artículo 2o. de esta Ley cometidos por miembros de la delincuencia organizada.
+Los plazos para la prescripción de la pretensión punitiva y de la potestad de ejecutar las penas y medidas de seguridad correspondientes, se duplicarán respecto de los delitos a que se refiere el artículo 2o. de esta Ley cometidos por integrantes de la delincuencia organizada. La misma regla se aplicará para el delito de delincuencia organizada.
+
+Si con posterioridad a la emisión del auto de vinculación a proceso por delincuencia organizada el imputado evade la acción de la justicia o es puesto a disposición de otro juez que lo reclame en el extranjero, se suspenderá el proceso junto con los plazos para la prescripción de la acción penal.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
 
 ###### Artículo 7o.
 
-Son aplicables supletoriamente a esta Ley, las disposiciones del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal, las del Código Federal de Procedimientos Penales y las de la legislación que establezca las normas sobre ejecución de penas y medidas de seguridad, así como las comprendidas en leyes especiales.
+Los procedimientos que se sigan por delincuencia organizada se desahogarán de conformidad con lo previsto en el Código Nacional de Procedimientos Penales en lo que no se oponga a lo previsto en esta Ley.
+
+Son aplicables supletoriamente a esta Ley, las disposiciones del Código Penal Federal, las de la legislación que establezca las normas sobre ejecución de penas, así como las comprendidas en leyes especiales.
 
 ## TÍTULO SEGUNDO. DE LA INVESTIGACIÓN DE LA DELINCUENCIA ORGANIZADA
 
 ### CAPÍTULO PRIMERO. DE LAS REGLAS GENERALES PARA LA INVESTIGACIÓN DE LA DELINCUENCIA ORGANIZADA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
 ###### Artículo 8o.
 
-La Procuraduría General de la República deberá contar con una unidad especializada en la investigación y persecución de delitos cometidos por miembros de la delincuencia organizada, integrada por agentes del Ministerio Público de la Federación, auxiliados por agentes de la Policía Judicial Federal y peritos.
+La Procuraduría General de la República deberá contar con una unidad especializada en la investigación y procesamiento de delitos cometidos por personas que formen parte de la delincuencia organizada, integrada por agentes del Ministerio Público de la Federación, quienes tendrán bajo su mando y conducción a policías y peritos.
 
-La unidad especializada contará con un cuerpo técnico de control, que en las intervenciones de comunicaciones privadas verificará la autenticidad de sus resultados; establecerá lineamientos sobre las características de los aparatos, equipos y sistemas a autorizar; así como sobre la guarda, conservación, mantenimiento y uso de los mismos.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
+La unidad especializada contará con un cuerpo técnico de control que ejecutará los mandatos de la autoridad judicial que autoricen las intervenciones de comunicaciones privadas y verificará la autenticidad de sus resultados; establecerá lineamientos sobre las características de los aparatos, equipos y sistemas a autorizar; así como sobre la guarda, conservación, mantenimiento y uso de los mismos.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
+Asimismo, podrá procesar y explotar la información que resultare para los fines de la investigación, en términos de la autorización judicial otorgada.
 
 El Reglamento de la Ley Orgánica de la Procuraduría General de la República, establecerá los perfiles y requisitos que deberán satisfacer los servidores públicos que conformen a la unidad especializada, para asegurar un alto nivel profesional de acuerdo a las atribuciones que les confiere esta Ley.
 
 Siempre que en esta Ley se mencione al Ministerio Público de la Federación, se entenderá que se refiere a aquéllos que pertenecen a la unidad especializada que este artículo establece.
 
-En caso necesario, el titular de esta unidad podrá solicitar la colaboración de otras dependencias de la Administración Pública Federal o entidades federativas.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
+En caso necesario, el titular de esta unidad podrá solicitar la colaboración o coordinación de los agentes del Ministerio Público de la Federación adscritos a otras áreas, así como de otras unidades administrativas de la Institución, de las dependencias y entidades paraestatales de la Administración Pública Federal o entidades federativas.
 
 ###### Artículo 9o.
 
 Cuando el Ministerio Público de la Federación investigue actividades de miembros de la delincuencia organizada relacionadas con el delito de operaciones con recursos de procedencia ilícita, deberá realizar su investigación en coordinación con la Secretaría de Hacienda y Crédito Público.
 
-Los requerimientos del Ministerio Público de la Federación, o de la autoridad judicial federal, de información o documentos relativos al sistema bancario y financiero, se harán por conducto de la Comisión Nacional Bancaria y de Valores, la Comisión Nacional del Sistema de Ahorro para el Retiro y de la Comisión Nacional de Seguros y Fianzas, según corresponda. Los de naturaleza fiscal, a través de la Secretaría de Hacienda y Crédito Público.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-La información que se obtenga conforme al párrafo anterior, podrá ser utilizada exclusivamente en la investigación o en el proceso penal correspondiente, debiéndose guardar la más estricta confidencialidad. Al servidor público que indebidamente quebrante la reserva de las actuaciones o proporcione copia de ellas o de los documentos, se le sujetará al procedimiento de responsabilidad administrativa o penal, según corresponda.
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
+Los requerimientos del agente del Ministerio Público de la Federación, o de la autoridad judicial federal, de información o documentos relativos al sistema bancario y financiero, se harán por conducto de la Comisión Nacional Bancaria y de Valores, la Comisión Nacional del Sistema de Ahorro para el Retiro y de la Comisión Nacional de Seguros y Fianzas, según corresponda. Los de naturaleza fiscal, a través de la Secretaría de Hacienda y Crédito Público y los de naturaleza comercial por conducto de la Secretaría de Economía y los Registros correspondientes o, en su caso, por cualquier fuente directa de información que resultare procedente.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
+La información que se obtenga conforme al párrafo anterior, podrá ser utilizada exclusivamente en el procedimiento penal correspondiente, debiéndose guardar la más estricta confidencialidad. Al servidor público que indebidamente quebrante la reserva de las actuaciones o proporcione copia de ellas o de los documentos, se le sujetará al procedimiento de responsabilidad administrativa o penal, según corresponda.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
 
 ###### Artículo 10.
 
-A solicitud del Ministerio Público de la Federación, la Secretaría de Hacienda y Crédito Público podrá realizar auditorías a personas físicas o morales, cuando existan indicios suficientes que hagan presumir fundadamente que son miembros de la delincuencia organizada.
+A solicitud del agente del Ministerio Público de la Federación, la Secretaría de Hacienda y Crédito Público podrá realizar auditorías a personas físicas o morales, cuando existan datos o medios de prueba que hagan presumir fundadamente que son miembros de la delincuencia organizada. La Secretaría de Hacienda y Crédito Público proporcionará al Ministerio Público de la Federación, a la brevedad posible, la información y documentación que éste le solicite, de conformidad con las disposiciones aplicables.
 
-### CAPÍTULO SEGUNDO. DE LA DETENCIÓN Y RETENCIÓN DE INDICIADOS
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2009)</small>
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
+### CAPÍTULO SEGUNDO. DE LAS TÉCNICAS ESPECIALES DE INVESTIGACIÓN
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JUNIO DE 2016)</small>
 
 ###### Artículo 11.
 
-En las averiguaciones previas relativas a los delitos a que se refiere esta Ley, la investigación también deberá abarcar el conocimiento de las estructuras de organización, formas de operación y ámbitos de actuación. Para tal efecto, el Procurador General de la República podrá autorizar la infiltración de agentes.
+La investigación de los delitos a que se refiere esta Ley podrá abarcar el conocimiento de las estructuras de organización, formas de operación y ámbitos de actuación e identidad de los integrantes del grupo delictivo.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
+Para tal efecto, el Titular del Ministerio Público de la Federación o el servidor público en quien éste delegue la facultad, podrá autorizar en términos de lo que establezca el marco normativo aplicable, las operaciones encubiertas dirigidas a alcanzar los objetivos señalados en el párrafo anterior.
 
 En estos casos se investigará no sólo a las personas físicas que pertenezcan a esta organización, sino las personas morales de las que se valgan para la realización de sus fines delictivos.
 
-> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2009)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
+Los agentes de las fuerzas del orden público que participen en dichas investigaciones, con base en las circunstancias del caso, se les proporcionará una nueva identidad, dotándolos para tal efecto de la documentación correspondiente.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
+Las autoridades responsables de proporcionar los medios necesarios para acreditar la nueva identidad, actuarán por instrucción fundada y motivada de la autoridad competente y sus acciones estarán bajo el amparo de la fracción VI del artículo 15 del Código Penal Federal y 251, fracción IX del Código Nacional de Procedimientos Penales.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
+Al servidor público que indebidamente incumpla con dicha disposición, se le sujetará al procedimiento de responsabilidad administrativa o penal según corresponda.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
 
 ###### Artículo 11 Bis.
 
-El Titular del órgano previsto en el artículo 8 podrá autorizar la reserva de la identidad de los agentes de la policía infiltrados, así como de los que participen en la ejecución de órdenes de aprehensión, detenciones en flagrancia y cateos relacionados con los delitos a que se refiere esta Ley, mediante resolución fundada y teniendo en cuenta el tipo de investigación, imposibilitando que conste en la averiguación previa respectiva su nombre, domicilio, así como cualquier otro dato o circunstancia que pudiera servir para la identificación de los mismos.
+El Titular de la Unidad Especializada prevista en el artículo 8o. podrá autorizar la reserva de la identidad de los agentes de las fuerzas del orden público que participen en las operaciones encubiertas, así como de los que participen en la ejecución de órdenes de aprehensión, detenciones en flagrancia y caso urgente, cateos relacionados con los delitos a que se refiere esta Ley, mediante resolución fundada y teniendo en cuenta el tipo de investigación, imposibilitando que conste en la investigación respectiva su nombre, domicilio, así como cualquier otro dato o circunstancia que pudiera servir para la identificación de los mismos.
 
-En tales casos, se asignará una clave numérica, que sólo será del conocimiento del Procurador General de la República, del Titular del órgano antes citado, del Secretario de Seguridad Pública y del servidor público a quien se asigne la clave.
+En tales casos, se asignará una clave numérica, que sólo será del conocimiento del Procurador General de la República, del Titular de la Unidad Especializada antes citada, del Secretario de Gobernación y del servidor público a quien se asigne la clave.
 
-En las actuaciones de averiguación previa, en el ejercicio de la acción penal y durante el proceso penal, el Ministerio Público y la autoridad judicial citarán la clave numérica en lugar de los datos de identidad del agente. En todo caso, el Ministerio Público acreditará ante la autoridad judicial el acuerdo por el que se haya autorizado el otorgamiento de la clave numérica y que ésta corresponde al servidor público respectivo, preservando la confidencialidad de los datos de identidad del agente. En caso de que el agente de la policía cuya identidad se encuentre reservada tenga que intervenir personalmente en diligencias de desahogo de pruebas, se podrá emplear cualquier procedimiento que garantice la reserva de su identidad.
+En las etapas del procedimiento penal, el agente del Ministerio Público de la Federación y la autoridad judicial citarán la clave numérica en lugar de los datos de identidad del agente. En todo caso, el agente del Ministerio Público de la Federación acreditará ante la autoridad judicial el acuerdo por el que se haya autorizado el otorgamiento de la clave numérica y que ésta corresponde al servidor público respectivo, preservando la confidencialidad de los datos de identidad del agente. En caso de que el servidor público, cuya identidad se encuentre reservada, tenga que intervenir personalmente en diligencias de desahogo de pruebas, se podrá emplear cualquier procedimiento que garantice la reserva de su identidad de manera integral.
 
-### CAPÍTULO TERCERO. DE LA RESERVA DE LAS ACTUACIONES EN LA AVERIGUACIÓN PREVIA
+Ninguna persona podrá ser obligada a actuar en operaciones encubiertas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Si el auto de vinculación a proceso no se dicta por el delito de delincuencia organizada, la reserva de identidad podrá subsistir a petición de la Representación Social de la Federación, con base en un análisis de riesgo y amenaza que realice la autoridad judicial, en donde se establecerá la pertinencia o no de la protección y, en su caso, las medidas que se aplicarán al caso concreto para salvaguardar el derecho de defensa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+En caso de la interposición del recurso de apelación contra el auto de no vinculación a proceso, subsistirá la reserva de identidad hasta en tanto no haya sido resuelto en definitiva.
 
-### CAPÍTULO CUARTO. DE LAS ÓRDENES DE CATEO Y DE INTERVENCIÓN DE COMUNICACIONES PRIVADAS
+Toda actuación que implique desapego a las instrucciones o actividades legalmente autorizadas será sancionada en términos de la legislación civil, administrativa o penal, según corresponda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 11 Bis 1.
+
+Para la investigación de los delitos a que se refiere esta Ley, el agente del Ministerio Público de la Federación podrá emplear además de los instrumentos establecidos en las disposiciones aplicables para la obtención de información y, en su caso, medios de prueba, así como las técnicas de investigación previstas en el Código Nacional de Procedimientos Penales, las siguientes:
+
+I. Recabar información en lugares públicos, mediante la utilización de medios e instrumentos y cualquier herramienta que resulten necesarias para la generación de inteligencia;
+
+II. Utilización de cuentas bancarias, financieras o de naturaleza equivalente;
+
+III. Vigilancia electrónica;
+
+IV. Seguimiento de personas;
+
+V. Colaboración de informantes, y
+
+VI. Usuarios simulados.
+
+Para el empleo de las técnicas previstas en las fracciones I y III de este artículo siempre que con su aplicación resulten afectadas comunicaciones privadas, se requerirá de una autorización judicial previa de intervención de comunicaciones privadas.
+
+El Procurador General de la República emitirá los protocolos para el uso de las técnicas de investigación previstas en este artículo.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 11 Bis 2.
+
+A quien divulgue o revele información relacionada con las técnicas de investigación utilizadas en procedimientos seguidos contra la delincuencia organizada, a quien no tenga derecho a conocerla, se le impondrá prisión de cuatro a ocho años, y multa de dos mil a tres mil unidades de medida y actualización. Tratándose de servidores públicos, la punibilidad será de seis a doce años y multa de tres mil a cuatro mil quinientas unidades de medida y actualización, así como la destitución e inhabilitación para desempeñar otro empleo, cargo o comisión en el servicio público hasta por el mismo plazo de la pena de prisión impuesta.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO SEGUNDO], D.O.F. 16 DE JUNIO DE 2016)</small>
+
+### CAPÍTULO TERCERO. DE LA APREHENSIÓN Y DE LA RETENCIÓN
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 11 Ter.
+
+Cuando el Juez de control competente, emita una orden de aprehensión, deberá también acompañarla de una autorización de orden de cateo, si procediere, en el caso de que ésta haya sido solicitada por el agente del Ministerio Público de la Federación, debiendo especificar el domicilio del imputado o probable responsable, o aquellos que se señalen como los de su posible ubicación, o bien los lugares que deban catearse por tener relación con el delito, así como los demás requisitos que señala el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 11 Quáter.
+
+El agente del Ministerio Público de la Federación podrá retener al imputado hasta por cuarenta y ocho horas, plazo en el que deberá ordenarse su libertad o ponérsele a disposición de la autoridad judicial; este plazo podrá duplicarse en términos de lo establecido por el artículo 16 Constitucional.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO TERCERO], D.O.F. 16 DE JUNIO DE 2016)</small>
+
+### CAPÍTULO CUARTO. DEL ARRAIGO
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JUNIO DE 2016)</small>
 
 ###### Artículo 12.
 
-El Juez podrá dictar el arraigo, a solicitud del Ministerio Público de la Federación, en los casos previstos en el artículo 2o. de esta Ley y con las modalidades de lugar, tiempo, forma y medios de realización señalados en la solicitud, siempre que sea necesario para el éxito de la investigación, para la protección de personas, de bienes jurídicos o cuando exista riesgo fundado de que el inculpado se sustraiga a la acción de la justicia, sin que esta medida pueda exceder de cuarenta días y se realice con la vigilancia de la autoridad, la que ejercerá el Ministerio Público de la Federación y la Policía que se encuentre bajo su conducción y mando inmediato en la investigación.
+El Juez de control podrá decretar el arraigo, a solicitud del Ministerio Público de la Federación, tratándose de los delitos previstos en esta Ley, siempre que sea necesario para el éxito de la investigación, para la protección de personas, de bienes jurídicos o cuando exista riesgo fundado de que el imputado se sustraiga de la acción de la justicia.
 
-La duración del arraigo podrá prolongarse siempre y cuando el Ministerio Público acredite que subsisten las causas que le dieron origen, sin que la duración total de esta medida precautoria exceda de ochenta días.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-### CAPÍTULO QUINTO. DEL ASEGURAMIENTO DE BIENES SUSCEPTIBLES DE DECOMISO
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
+El arraigo no podrá exceder de cuarenta días, y se realizará con la vigilancia de la autoridad del agente del Ministerio Público de la Federación y la Policía que se encuentre bajo su conducción y mando inmediato en la investigación.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
+La duración del arraigo podrá prolongarse siempre y cuando el Ministerio Público acredite que subsisten las causas que le dieron origen, sin que su duración total exceda de ochenta días.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 12 Bis.
+
+La petición de arraigo o su ampliación deberá ser resuelta por la autoridad judicial de manera inmediata por cualquier medio que garantice su autenticidad, o en audiencia privada con la sola comparecencia del agente del Ministerio Público de la Federación, en un plazo que no exceda de las seis horas siguientes a que se haya recibido.
+
+En la solicitud, se deberán expresar las modalidades de lugar, tiempo, forma, así como las autoridades que lo ejecutarán.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 12 Ter.
+
+La resolución judicial que ordena el arraigo deberá contener cuando menos:
+
+I. El nombre y cargo del Juez de control que lo autoriza y la identificación del proceso en el cual se ordena;
+
+II. Los datos de identificación de la persona que estará sujeta a la medida de arraigo;
+
+III. Hechos que la ley señale como delitos, por los cuales se realiza la investigación;
+
+IV. El motivo del arraigo, debiendo especificar si es necesario para el éxito de la investigación, para la protección de personas, de bienes jurídicos, o si existe riesgo fundado de que el imputado se sustraiga a la acción de la justicia;
+
+V. El día, la hora y lugar en que iniciará la ejecución de la medida de arraigo, y
+
+VI. Las autoridades que realizarán la ejecución del arraigo.
+
+Si la resolución se emite o registra por medios diversos al escrito, los puntos resolutivos de la orden de arraigo deberán transcribirse y entregarse al agente del Ministerio Público de la Federación.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 12 Quáter.
+
+En caso de que el Juez de control niegue la orden de arraigo o su ampliación, el agente del Ministerio Público de la Federación, podrá subsanar las deficiencias y solicitar nuevamente la orden.
+
+La negativa a la solicitud o ampliación de arraigo admite la apelación, la cual debe ser resuelta en un plazo no mayor de doce horas contadas a partir de que se interponga.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
+Artículo 12 Quintus.- El agente del Ministerio Público de la Federación, notificará la resolución a la persona sujeta al arraigo así como a su defensor. De la misma forma procederá al fenecimiento de la medida.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO CUARTO], D.O.F. 16 DE JUNIO DE 2016)</small>
+
+### CAPÍTULO QUINTO. DE LA RESERVA DE LOS REGISTROS DE LA INVESTIGACIÓN
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
 
 ###### Artículo 13.
 
-A las actuaciones de averiguación previa por los delitos a que se refiere esta Ley, exclusivamente deberán tener acceso el indiciado y su defensor, una vez que haya aceptado el cargo, únicamente con relación a los hechos imputados en su contra, por lo que el Ministerio Público de la Federación y sus auxiliares guardarán la mayor reserva respecto de ellas, sin perjuicio de que el indiciado o su defensor, en base en la información recibida, puedan presentar las pruebas de descargo que juzguen oportunas.
+A los registros de la investigación por los delitos a que se refiere esta Ley, exclusivamente deberán tener acceso el imputado y su defensor que haya aceptado el cargo, en términos de lo previsto por los artículos 218, 219 y 220 del Código Nacional de Procedimientos Penales únicamente con relación a los hechos imputados en su contra, por lo que el agente del Ministerio Público de la Federación y sus auxiliares guardarán la mayor reserva respecto de ellas.
 
-No se concederá valor probatorio a las actuaciones que contengan hechos imputados al indiciado, cuando habiendo solicitado el acceso a las mismas al Ministerio Público de la Federación, se le haya negado.
+Para efectos de seguridad de las víctimas o los actores procesales, si el órgano jurisdiccional lo determina de oficio o a petición de parte, las audiencias celebradas en el procedimiento penal por delitos de delincuencia organizada, se desarrollarán a puerta cerrada.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
 
 ###### Artículo 14.
 
-Cuando se presuma fundadamente que está en riesgo la integridad de las personas que rindan testimonio en contra de algún miembro de la delincuencia organizada deberá, a juicio del Ministerio Público de la Federación, mantenerse bajo reserva su identidad hasta el ejercicio de la acción penal.
+Cuando se presuma fundadamente que está en riesgo la integridad personal o la vida de las personas que rindan testimonio en contra de algún miembro de la delincuencia organizada deberá, a juicio del agente del Ministerio Público de la Federación, mantenerse bajo reserva su identidad inclusive cuando el imputado comparezca ante el juez para la formulación de la imputación.
 
-### CAPÍTULO SEXTO. DE LA PROTECCIÓN DE LAS PERSONAS
+La reserva de identidad, podrá mantenerse en el procedimiento penal, cuando se trate del acusador, la víctima u ofendido o menores de edad, en los términos de lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos.
+
+En los supuestos previstos en este artículo se deberán llevar a cabo las medidas necesarias para salvaguardar el derecho de defensa.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO QUINTO], D.O.F. 16 DE JUNIO DE 2016)</small>
+
+### CAPÍTULO SEXTO. DE LA INTERVENCIÓN DE COMUNICACIONES PRIVADAS
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 15.
 
-Cuando el Ministerio Público de la Federación solicite por cualquier medio al juez de distrito una orden de cateo con motivo de la investigación de alguno de los delitos a los que se refiere el presente ordenamiento, dicha petición deberá ser resuelta en los términos de Ley dentro de las doce horas siguientes después de recibida por la autoridad judicial.
+(DEROGADO, D.O.F. 16 DE JUNIO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Si dentro del plazo antes indicado, el juez no resuelve sobre el pedimento de cateo, el Ministerio Público de la Federación deberá recurrir al tribunal unitario de circuito correspondiente para que éste substancie y resuelva en un plazo igual.
-
-El auto que niegue la autorización, es apelable por el Ministerio Público de la Federación. En estos casos la apelación deberá ser resuelta en un plazo no mayor de cuarenta y ocho horas.
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2009)</small>
-
-Cuando el Juez de Distrito competente, acuerde obsequiar una orden de aprehensión, deberá también acompañarla de una autorización de orden de cateo, si procediere, en el caso de que ésta haya sido solicitada por el agente del Ministerio Público de la Federación, debiendo especificar el domicilio del probable responsable o aquél que se señale como el de su posible ubicación, o bien el del lugar que deba catearse por tener relación con el delito, así como los demás requisitos que señala el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
 
 ###### Artículo 16.
 
-Cuando en la averiguación previa de alguno de los delitos a que se refiere esta Ley o durante el proceso respectivo, el Procurador General de la República o el titular de la unidad especializada a que se refiere el artículo 8o. anterior, consideren necesaria la intervención de comunicaciones privadas, lo solicitarán por escrito al juez de distrito, expresando el objeto y necesidad de la intervención, los indicios que hagan presumir fundadamente que en los delitos investigados participa algún miembro de la delincuencia organizada; así como los hechos, circunstancias, datos y demás elementos que se pretenda probar.
+Cuando en la investigación el Ministerio Público de la Federación considere necesaria la intervención de comunicaciones privadas el Titular de la Procuraduría General de la República o los servidores públicos en quienes se delegue la facultad podrán solicitar al Juez federal de control competente, por cualquier medio, la autorización para practicar la intervención, expresando el objeto y necesidad de la misma.
 
-Las solicitudes de intervención deberán señalar, además, la persona o personas que serán investigadas; la identificación del lugar o lugares donde se realizará; el tipo de comunicación privada a ser intervenida; su duración; y el procedimiento y equipos para la intervención y, en su caso, la identificación de la persona a cuyo cargo está la prestación del servicio a través del cual se realiza la comunicación objeto de la intervención.
+La intervención de comunicaciones privadas, abarca todo un sistema de comunicación, o programas que sean fruto de la evolución tecnológica, que permitan el intercambio de datos, informaciones, audio, video, mensajes, así como archivos electrónicos, que graben, conserven el contenido de las conversaciones o registren datos que identifiquen la comunicación, las cuales se pueden presentar en tiempo real o con posterioridad al momento en que se produce el proceso comunicativo.
 
-Podrán ser objeto de intervención las comunicaciones privadas que se realicen de forma oral, escrita, por signos, señales o mediante el empleo de aparatos eléctricos, electrónicos, mecánicos, alámbricos o inalámbricos, sistemas o equipos informáticos, así como por cualquier otro medio o forma que permita la comunicación entre uno o varios emisores y uno o varios receptores.
+La solicitud deberá ser resuelta por la autoridad judicial de manera inmediata, por cualquier medio que garantice su autenticidad, o en audiencia privada con la sola comparecencia del Ministerio Público de la Federación, en un plazo que no exceda de las seis horas siguientes a que la haya recibido.
+
+Si la resolución se registra por medios diversos al escrito, los puntos resolutivos de la autorización deberán transcribirse y entregarse al Ministerio Público de la Federación.
+
+Los servidores públicos autorizados para la ejecución de la medida serán responsables de que se realice en los términos de la resolución judicial.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
 
 ###### Artículo 17.
 
-El juez de distrito requerido deberá resolver la petición en los términos de ley dentro de las doce horas siguientes a que fuera recibida la solicitud, pero en ningún caso podrá autorizar intervenciones cuando se trate de materias de carácter electoral, fiscal, mercantil, civil, laboral o administrativo, ni en el caso de las comunicaciones del detenido con su defensor.
+La solicitud de intervención de comunicaciones privadas deberá estar fundada y motivada, precisar la persona o personas que serán sujetas a la medida; la identificación del lugar o lugares donde se realizará, si fuere posible; el tipo de comunicación a ser intervenida; su duración; el proceso que se llevará a cabo y las líneas, números o aparatos que serán intervenidos y, en su caso, la denominación de la empresa concesionaria del servicio de telecomunicaciones a través del cual se realiza la comunicación objeto de la intervención.
+
+El plazo de la intervención, incluyendo sus prórrogas, no podrá exceder de seis meses. Después de dicho plazo, sólo podrán autorizarse nuevas intervenciones cuando el Ministerio Público de la Federación acredite nuevos elementos que así lo justifiquen.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
 
 ###### Artículo 18.
 
-Para conceder o negar la solicitud, el juez de distrito constatará la existencia de indicios suficientes que hagan presumir fundadamente que la persona investigada es miembro de la delincuencia organizada y que la intervención es el medio idóneo para allegarse de elementos probatorios.
+En la autorización, el Juez de control determinará las características de la intervención, sus modalidades, límites y, en su caso, ordenará a instituciones públicas o privadas modos específicos de colaboración.
 
-En la autorización el juez determinará las características de la intervención, sus modalidades y límites y, en su caso, ordenará a instituciones públicas o privadas, modos específicos de colaboración.
+Podrán ser objeto de intervención las comunicaciones privadas que se realicen de forma oral, escrita, por signos, señales o mediante el empleo de aparatos eléctricos, electrónicos, mecánicos, alámbricos o inalámbricos, sistemas o equipos informáticos, así como por cualquier otro medio o forma que permita la comunicación entre uno o varios emisores y uno o varios receptores.
 
-La autorización judicial para intervenir comunicaciones privadas, que únicamente llevará a cabo el Ministerio Público de la Federación bajo su responsabilidad, con la participación de perito calificado, señalará las comunicaciones que serán escuchadas o interceptadas, los lugares que serán vigilados, así como el periodo durante el cual se llevarán a cabo las intervenciones, el que podrá ser prorrogado por el juez de distrito a petición del Ministerio Público de la Federación, sin que el periodo de intervención, incluyendo sus prórrogas pueda exceder de seis meses. Después de dicho plazo, sólo podrán autorizarse intervenciones cuando el Ministerio Público de la Federación acredite nuevos elementos que así lo justifiquen.
+En ningún caso se podrán autorizar intervenciones cuando se trate de materias de carácter electoral, fiscal, mercantil, civil, laboral o administrativo, ni en el caso de las comunicaciones del detenido con su Defensor.
 
-El juez de distrito podrá en cualquier momento, verificar que las intervenciones sean realizadas en los términos autorizados y, en caso de incumplimiento, podrá decretar su revocación parcial o total.
+El Juez podrá en cualquier momento verificar que las intervenciones sean realizadas en los términos autorizados y, en caso de incumplimiento, decretar su revocación parcial o total.
 
-El Ministerio Público de la Federación solicitará la prórroga con dos días de anticipación a la fecha en que fenezca el periodo anterior. El juez de distrito resolverá dentro de las doce horas siguientes, con base en el informe que se le hubiere presentado. De negarse la prórroga, concluirá la intervención autorizada, debiendo levantarse acta y rendirse informe complementario, para ser remitido al juzgador.
+Cuando de la intervención de comunicaciones privadas se advierta la necesidad de ampliarla a otros sujetos o lugares, el Ministerio Público de la Federación competente presentará al propio Juez de control la solicitud respectiva.
 
-Al concluir toda intervención, el Ministerio Público de la Federación informará al juez de distrito sobre su desarrollo, así como de sus resultados y levantará el acta respectiva.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Las intervenciones realizadas sin las autorizaciones antes citadas o fuera de los términos en ellas ordenados, carecerán de valor probatorio.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
 
 ###### Artículo 19.
 
-Si en los plazos indicados en los dos artículos anteriores, el juez de distrito no resuelve sobre la solicitud de autorización o de sus prórrogas, el Ministerio Público de la Federación deberá recurrir al tribunal unitario de circuito correspondiente, para que éste substancie y resuelva en un plazo igual.
+En caso de que el Juez de control niegue la intervención de comunicaciones o su ampliación, el agente del Ministerio Público de la Federación, podrá subsanar las deficiencias y solicitar nuevamente la orden.
 
-El auto que niegue la autorización o la prórroga, es apelable por el Ministerio Público de la Federación. En estos casos la apelación deberá ser resuelta en un plazo no mayor de cuarenta y ocho horas.
+La negativa a la solicitud o ampliación de la orden de intervención de comunicaciones admite la apelación, la cual debe ser resuelta en un plazo no mayor de doce horas contadas a partir de que se interponga.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
 
 ###### Artículo 20.
 
-Durante las intervenciones de las comunicaciones privadas, el Ministerio Público de la Federación ordenará la transcripción de aquellas grabaciones que resulten de interés para la averiguación previa y las cotejará en presencia del personal del cuerpo técnico de control de la unidad especializada prevista en el artículo 8o. anterior, en cuyo caso serán ratificadas por quien las realizó. La transcripción contendrá los datos necesarios para identificar la cinta de donde fue tomada. Los datos o informes impresos que resulten de la intervención serán igualmente integrados a la averiguación.
+Las intervenciones de comunicación deberán ser registradas por cualquier medio que no altere la fidelidad, autenticidad y contenido de las mismas, por quienes las ejecuten, a efecto de que aquélla pueda ser ofrecida como medio de prueba en los términos que señala el Código Nacional de Procedimientos Penales.
 
-Las imágenes de video que se estimen convenientes podrán, en su caso, ser convertidas a imágenes fijas y ser impresas para su integración a la indagatoria. En este caso, se indicará la cinta de donde proviene la imagen y el nombre y cargo de la persona que realizó la conversión.
+El registro contendrá las fechas de inicio y término de la intervención, un inventario pormenorizado de los documentos, objetos y los medios para la reproducción de sonidos o imágenes captadas durante la misma, cuando no se ponga en riesgo a la investigación o a la persona, la identificación de quienes hayan participado en los actos de investigación, así como los demás datos que se consideren relevantes para la investigación. El registro original y el duplicado, así como los documentos que los integran, se numerarán progresivamente y contendrán los datos necesarios para su identificación.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
 
 ###### Artículo 21.
 
-Si en la práctica de una intervención de comunicaciones privadas se tuviera conocimiento de la comisión de delitos diversos de aquéllos que motivan la medida, se hará constar esta circunstancia en el acta correspondiente, con excepción de los relacionados con las materias expresamente excluidas en el artículo 16 constitucional. Toda actuación del Ministerio Público de la Federación o de la Policía Judicial Federal, hechas en contravención a esta disposición carecerán de valor probatorio.
+Si en la práctica de una intervención de comunicaciones privadas se tuviera conocimiento de la comisión de un delito diverso de aquellos que motivan la medida, se hará constar esta circunstancia en el registro para dar inicio a una nueva investigación.
 
-Cuando de la misma práctica se advierta la necesidad de ampliar a otros sujetos o lugares la intervención, el Ministerio Público de la Federación presentará al juez de distrito la solicitud respectiva.
+Cuando la intervención tenga como resultado el conocimiento de hechos y datos distintos de los que pretendan probarse conforme a la autorización correspondiente podrá ser utilizado como medio de prueba, siempre que se refieran al propio sujeto de la intervención y se trate de alguno de los delitos referidos en esta Ley. Si se refieren a una persona distinta sólo podrán utilizarse, en su caso, en el procedimiento en que se autorizó dicha intervención. De lo contrario, el agente del Ministerio Público de la Federación iniciará la investigación correspondiente o lo pondrá en conocimiento de las autoridades competentes, según corresponda.
 
-Cuando la intervención tenga como resultado el conocimiento de hechos y datos distintos de los que pretendan probarse conforme a la autorización correspondiente podrá ser utilizado como medio de prueba, siempre que se refieran al propio sujeto de la intervención y se trate de alguno de los delitos referidos en esta ley. Si se refieren a una persona distinta sólo podrán utilizarse, en su caso, en el procedimiento en que se autorizó dicha intervención. De lo contrario, el Ministerio Público de la Federación iniciará la averiguación previa o lo pondrá en conocimiento de las autoridades competentes, según corresponda.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 22.
 
-De toda intervención se levantará acta circunstanciada por el Ministerio Público de la Federación, que contendrá las fechas de inicio y término de la intervención; un inventario pormenorizado de los documentos, objetos y las cintas de audio o video que contengan los sonidos o imágenes captadas durante la misma; la identificación de quienes hayan participado en las diligencias, así como los demás datos que considere relevantes para la investigación. Las cintas originales y el duplicado de cada una de ellas, se numerarán progresivamente y contendrán los datos necesarios para su identificación. Se guardarán en sobre sellado y el Ministerio Público de la Federación será responsable de su seguridad, cuidado e integridad.
+(DEROGADO, D.O.F. 16 DE JUNIO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 23.
 
-Al iniciarse el proceso, las cintas, así como todas las copias existentes y cualquier otro resultado de la intervención serán entregados al juez de distrito.
+(DEROGADO, D.O.F. 16 DE JUNIO DE 2016)
 
-Durante el proceso, el juez de distrito, pondrá las cintas a disposición del inculpado, quien podrá escucharlas o verlas durante un periodo de diez días, bajo la supervisión de la autoridad judicial federal, quien velará por la integridad de estos elementos probatorios. Al término de este periodo de diez días, el inculpado o su defensor, formularán sus observaciones, si las tuvieran, y podrán solicitar al juez la destrucción de aquellas cintas o documentos no relevantes para el proceso. Asimismo, podrá solicitar la transcripción de aquellas grabaciones o la fijación en impreso de imágenes, que considere relevantes para su defensa.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-La destrucción también será procedente cuando las cintas o registros provengan de una intervención no autorizada o no se hubieran cumplido los términos de la autorización judicial respectiva.
-
-El auto que resuelva la destrucción de cintas, la transcripción de grabaciones o la fijación de imágenes, es apelable con efecto suspensivo.
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
 
 ###### Artículo 24.
 
-En caso de no ejercicio de la acción penal, y una vez transcurrido el plazo legal para impugnarlo sin que ello suceda, las cintas se pondrán a disposición del juez de distrito que autorizó la intervención, quien ordenará su destrucción en presencia del Ministerio Público de la Federación. Igual procedimiento se aplicará cuando, por reserva de la averiguación previa u otra circunstancia, dicha averiguación no hubiera sido consignada y haya transcurrido el plazo para la prescripción de la acción penal.
+El Órgano jurisdiccional ordenará la destrucción de aquellos registros de intervención de comunicaciones privadas que no se relacionen con los delitos investigados o con otros delitos que hayan ameritado la apertura de una investigación diversa, salvo que la defensa solicite que sean preservados por considerarlos útiles para su labor.
+
+Asimismo, ordenará la destrucción de los registros de intervenciones no autorizadas o cuando éstos rebasen los términos de la autorización judicial respectiva.
+
+Los registros serán destruidos cuando se decrete el archivo definitivo, el sobreseimiento o la absolución del imputado. Cuando el agente del Ministerio Público de la Federación decida archivar temporalmente la investigación, los registros podrán ser conservados hasta que el delito prescriba.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 25.
 
-En los casos en que el Ministerio Público de la Federación haya ordenado la detención de alguna persona conforme a lo previsto en el artículo 16 constitucional, podrá solicitar al juez de distrito la autorización para realizar la intervención de comunicaciones privadas, solicitud que deberá resolverse en los términos de ley dentro de las doce horas siguientes a que fuera recibida, si cumpliera con todos los requisitos establecidos por la ley.
+(DEROGADO, D.O.F. 16 DE JUNIO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
 
 ###### Artículo 26.
 
-Los concesionarios, permisionarios y demás titulares de los medios o sistemas susceptibles de intervención en los términos del presente capítulo, deberán colaborar eficientemente con la autoridad competente para el desahogo de dichas diligencias, de conformidad con la normatividad aplicable y la orden judicial correspondiente.
+Los concesionarios, permisionarios y demás titulares de los medios o sistemas susceptibles de intervención, deberán colaborar eficientemente con la autoridad competente para el desahogo de dichos actos de investigación, de conformidad con las disposiciones aplicables. Asimismo, deberán contar con la capacidad técnica indispensable que atienda las exigencias requeridas por la autoridad judicial para operar una orden de intervención de comunicaciones privadas.
+
+El incumplimiento a este mandato será sancionado conforme a las disposiciones penales aplicables.
 
 ###### Artículo 27.
 
@@ -310,107 +582,219 @@ Los servidores públicos de la unidad especializada prevista en el artículo 8o.
 
 La misma pena se impondrá a quienes con motivo de su empleo, cargo o comisión público tengan conocimiento de la existencia de una solicitud o autorización de intervención de comunicaciones privadas y revelen su existencia o contenido.
 
-### CAPÍTULO SÉPTIMO. DE LA COLABORACIÓN EN LA PERSECUCIÓN DE LA DELINCUENCIA ORGANIZADA
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO SEXTO], D.O.F. 16 DE JUNIO DE 2016)</small>
+
+### CAPÍTULO SÉPTIMO. DEL ASEGURAMIENTO DE BIENES SUSCEPTIBLES DE DECOMISO
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
 
 ###### Artículo 29.
 
-Cuando existan indicios suficientes que hagan presumir fundadamente que una persona es miembro de la delincuencia organizada, el Ministerio Público de la Federación podrá disponer, previa autorización judicial, el aseguramiento de los bienes de dicha persona, así como de aquéllos respecto de los cuales ésta se conduzca como dueño, quedando a cargo de sus tenedores acreditar la procedencia legítima de dichos bienes, en cuyo caso deberá ordenarse levantar el aseguramiento.
+Cuando existan indicios razonables, que hagan presumir fundadamente que una persona forma parte de la delincuencia organizada, además del aseguramiento previsto por el Código Nacional de Procedimientos Penales, el agente del Ministerio Público de la Federación podrá dictar el aseguramiento de los bienes de dicha persona, así como de aquéllos respecto de los cuales ésta se conduzca como dueño, quedando a cargo de sus tenedores acreditar la procedencia legítima de dichos bienes, en cuyo caso ordenará el levantamiento de la medida.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
 
 ###### Artículo 30.
 
-Cuando existan indicios suficientes que hagan presumir fundadamente que hay bienes que son propiedad de un miembro de la delincuencia organizada, o de que éste se conduce como dueño, podrán asegurarse con autorización judicial previa. Si se acredita su legítima procedencia, deberá ordenarse levantar el aseguramiento.
+Cuando existan indicios razonables, que permitan establecer que hay bienes que son propiedad de un sujeto que forme parte de la delincuencia organizada, o de que éste se conduce como su dueño, además del aseguramiento previsto por el Código Nacional de Procedimientos Penales, el agente del Ministerio Público de la Federación, bajo su responsabilidad, fundando y motivando su proceder, podrá asegurarlos. Si se acredita su legítima procedencia, deberá ordenarse levantar el aseguramiento de inmediato y hacer la entrega de los mismos a quien proceda.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
 
 ###### Artículo 31.
 
-El aseguramiento de bienes a que se refiere esta Ley, podrá realizarse en cualquier momento de la averiguación o del proceso.
+El aseguramiento de bienes a que se refiere esta Ley, podrá realizarse en cualquier etapa del procedimiento penal.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 32.
 
-Los bienes asegurados se pondrán a disposición del juez de la causa, previa determinación del Ministerio Público de la Federación de las medidas provisionales necesarias para su conservación y resguardo, sin perjuicio de lo dispuesto por los artículos 40, 41 y 193 del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal y 181 del Código Federal de Procedimientos Penales.
+(DEROGADO, D.O.F. 16 DE JUNIO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 33.
 
-El juez de la causa, en todo momento durante el proceso, tomará las determinaciones que correspondan para la supervisión y control de los bienes asegurados conforme a las disposiciones de esta Ley. La administración de bienes asegurados por el Ministerio Público de la Federación, conforme a las disposiciones de esta Ley y, en su caso, la aplicación y destino de los fondos que provengan de dichos bienes, serán determinados por el Consejo Técnico de Bienes Asegurados, previsto en la Ley Orgánica de la Procuraduría General de la República.
+(DEROGADO, D.O.F. 16 DE JUNIO DE 2016)
 
-### CAPÍTULO ÚNICO
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO SÉPTIMO], D.O.F. 16 DE JUNIO DE 2016)</small>
+
+### CAPÍTULO OCTAVO. DE LA PROTECCIÓN DE LAS PERSONAS
 
 ###### Artículo 34.
 
 La Procuraduría General de la República prestará apoyo y protección suficientes a jueces, peritos, testigos, víctimas y demás personas, cuando por su intervención en un procedimiento penal sobre delitos a que se refiere esta Ley, así se requiera.
 
-### CAPÍTULO ÚNICO. DE LA PRISIÓN PREVENTIVA Y EJECUCIÓN DE LAS PENAS Y MEDIDAS DE SEGURIDAD
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
+### CAPÍTULO NOVENO. DE LA COLABORACIÓN EN LA PERSECUCIÓN DE LA DELINCUENCIA ORGANIZADA
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
 
 ###### Artículo 35.
 
-El miembro de la delincuencia organizada que preste ayuda eficaz para la investigación y persecución de otros miembros de la misma, podrá recibir los beneficios siguientes:
+Sin perjuicio de las reglas previstas en el Código Nacional de Procedimientos Penales, respecto a los criterios de oportunidad y procedimiento abreviado, por alguno de los delitos previstos en esta Ley, o cuando alguna persona colabore eficazmente con el agente del Ministerio Público de la Federación, en la investigación y persecución de quien forme parte de la delincuencia organizada o delitos vinculados a ésta, se podrán aplicar las siguientes reglas:
 
-I. Cuando no exista averiguación previa en su contra, los elementos de prueba que aporte o se deriven de la averiguación previa iniciada por su colaboración, no serán tomados en cuenta en su contra. Este beneficio sólo podrá otorgarse en una ocasión respecto de la misma persona;
+I. Cuando no exista investigación en su contra, los antecedentes de investigación que aporte, o se obtengan con su colaboración, no serán utilizados en su perjuicio. Este beneficio sólo podrá otorgarse en una ocasión respecto de la misma persona;
 
-II. Cuando exista una averiguación previa en la que el colaborador esté implicado y éste aporte indicios para la consignación de otros miembros de la delincuencia organizada, la pena que le correspondería por los delitos por él cometidos, podrá ser reducida hasta en dos terceras partes;
+II. Cuando exista una investigación en la que el colaborador esté implicado y éste aporte antecedentes de investigación para el ejercicio de la acción penal en contra de otros miembros de la delincuencia organizada, la pena que le correspondería por los delitos por él cometidos, podrá ser reducida hasta en dos terceras partes;
 
-III. Cuando durante el proceso penal, el indiciado aporte pruebas ciertas, suficientes para sentenciar a otros miembros de la delincuencia organizada con funciones de administración, dirección o supervisión, la pena que le correspondería por los delitos por los que se le juzga, podrá reducirse hasta en una mitad, y
+III. Cuando durante el proceso penal, el imputado aporte medios de prueba, suficientes para sentenciar a otros miembros de la delincuencia organizada con funciones de administración, dirección o supervisión, la pena que le correspondería por los delitos por los que se le juzga, podrá reducirse hasta en una mitad, y
 
-IV. Cuando un sentenciado aporte pruebas ciertas, suficientemente valoradas por el juez, para sentenciar a otros miembros de la delincuencia organizada con funciones de administración, dirección o supervisión, podrá otorgársele la remisión parcial de la pena, hasta en dos terceras partes de la privativa de libertad impuesta.
+IV. Cuando un sentenciado aporte pruebas eficaces para sentenciar a otros miembros de la delincuencia organizada con funciones de administración, dirección o supervisión, podrá otorgársele la remisión parcial de la pena, hasta en dos terceras partes de la privativa de libertad impuesta.
 
-En la imposición de las penas, así como en el otorgamiento de los beneficios a que se refiere este artículo, el juez tomará en cuenta además de lo que establecen los artículos 51 y 52 del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal, la gravedad de los delitos cometidos por el colaborador. En los casos de la fracción IV de este artículo, la autoridad competente tomará en cuenta la gravedad de los delitos cometidos por el colaborador y las disposiciones que establezca la legislación sobre ejecución de penas y medidas de seguridad.
+Para efecto del ejercicio de la acción penal que en su caso el agente del Ministerio Público de la Federación deba realizar éste se apoyará en el criterio de oportunidad a fin de alcanzar el éxito de la investigación.
+
+En la imposición de las penas, así como en el otorgamiento de los beneficios a que se refiere este artículo, el órgano jurisdiccional o el titular de la Unidad Especializada, a que se refiere el artículo 8o. de la presente Ley, tomará en cuenta, además de las circunstancias exteriores de ejecución, y las peculiares del delincuente, la gravedad de los delitos cometidos por el colaborador. En los casos de la fracción IV de este artículo, la autoridad competente tomará en cuenta la gravedad de los delitos cometidos por el colaborador y las disposiciones que establezca la legislación sobre ejecución de penas.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 35 Bis.
+
+Para los efectos del artículo anterior, se entiende que una persona que forma parte de la delincuencia organizada y colabora eficazmente en la investigación cuando proporcione información para:
+
+I. Evitar que continúe el delito o se perpetren otros de la misma naturaleza, o
+
+II. Probar la intervención de otras personas que forman parte de la delincuencia organizada que tengan funciones de supervisión, dirección o administración dentro de la organización.
+
+Los beneficios sólo se concederán por la comisión o intervención de los delitos a que se refiere esta Ley, cuando los hechos cometidos o en los que intervino la persona que forma parte de la delincuencia organizada, resultan más leves que aquellos cuya investigación o persecución facilita o cuya continuación evita.
+
+Las personas que formen parte de la estructura de mando de las organizaciones criminales, no podrán gozar de los beneficios de esta Ley, salvo que éstos últimos colaboren para la detención o persecución de otros integrantes de la misma jerarquía o nivel.
+
+Tampoco se concederán los beneficios cuando se trate de delitos en los que se involucren víctimas, salvo que la información que proporcione el colaborador evite que el delito se ejecute o continúe ejecutándose.
+
+La información que suministre el colaborador, deberá estar sustentada en datos o medios de prueba para la procedencia de los beneficios a que se refiere este precepto.
+
+Para tal efecto, se tomará en cuenta:
+
+I. Jerarquía y número de los miembros de la delincuencia organizada detenidos;
+
+II. Delito o delitos que se evitó se cometieran o se siguieran cometiendo;
+
+III. Calidad y cantidad de los objetos, instrumentos o productos del delito de la organización criminal que se hayan asegurado, y
+
+IV. Nivel de afectación a las estructuras financieras o de operación.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
 
 ###### Artículo 36.
 
-En caso de que existan pruebas distintas a la autoinculpación en contra de quien colabore con el Ministerio Público de la Federación, a solicitud de éste se le podrán reducir las penas que le corresponderían hasta en tres quintas partes, siempre y cuando, a criterio del juez, la información que suministre se encuentre corroborada por otros indicios de prueba y sea relevante para la detención y procesamiento de otros miembros de la delincuencia organizada de mayor peligrosidad o jerarquía que el colaborador.
+En caso de que existan medios de prueba aportados por persona distinta de quien colabora con el agente del Ministerio Público de la Federación, y que impliquen al colaborador en hecho distinto de aquél por el cual presta la colaboración, a solicitud de la Representación Social de la Federación, se le podrán reducir las penas que le corresponderían hasta en tres quintas partes, siempre y cuando, la información que suministre se encuentre corroborada por otros datos o medios de prueba y sea relevante para la detención y procesamiento de otros integrantes de la delincuencia organizada de mayor peligrosidad o jerarquía que el colaborador.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JUNIO DE 2016)</small>
 
 ###### Artículo 37.
 
-Cuando se gire orden de aprehensión en contra de un miembro de la delincuencia organizada, la autoridad podrá ofrecer recompensa a quienes auxilien eficientemente para su localización y aprehensión, en los términos y condiciones que, por acuerdo específico, el Procurador General de la República determine.
+Cuando se gire orden de aprehensión en contra de un integrante de la delincuencia organizada, la autoridad podrá ofrecer recompensa a quienes auxilien eficientemente para su localización y aprehensión, en los términos y condiciones que, por acuerdo específico, el Procurador General de la República determine.
 
 > <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
 
 En el caso de secuestro, la autoridad podrá ofrecer recompensa a quienes sin haber participado en el delito, auxilien con cualquier información que resulte cierta y eficaz para la liberación de las víctimas o la aprehensión de los presuntos responsables. La autoridad garantizará la confidencialidad del informante.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
 ###### Artículo 38.
 
-En caso de que se reciban informaciones anónimas sobre hechos relacionados con la comisión de los delitos a que se refiere esta Ley, el Ministerio Público de la Federación deberá ordenar que se verifiquen estos hechos. En caso de verificarse la información y que de ello se deriven indicios suficientes de la comisión de estos delitos, se deberá iniciar una averiguación previa, recabar pruebas o interrogar a testigos a partir de esta comprobación, pero en ningún caso dicha información, por sí sola, tendrá valor probatorio alguno dentro del proceso.
+En caso de que se reciban informaciones anónimas sobre hechos relacionados con la comisión de los delitos a que se refiere esta Ley, se estará a lo dispuesto en los artículos 212, 215, 221 y demás relativos y aplicables del Código Nacional de Procedimientos Penales.
 
-Para el ejercicio de la acción penal, se requerirá necesariamente de la denuncia, acusación o querella correspondiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
 
 ###### Artículo 39.
 
-Toda persona en cuyo poder se hallen objetos o documentos que puedan servir de pruebas tiene la obligación de exhibirlos, cuando para ello sea requerido por el Ministerio Público de la Federación durante la averiguación previa, o por el juzgador durante el proceso, con las salvedades que establezcan las leyes.
+Toda persona en cuyo poder se hallen objetos o documentos que puedan servir como datos, medios de prueba o pruebas tiene la obligación de exhibirlos, cuando para ello sea requerido por el agente del Ministerio Público de la Federación o la policía durante la investigación, o por el juzgador durante el proceso, con las salvedades que establezcan las leyes.
 
-## TÍTULO TERCERO. DE LAS REGLAS PARA LA VALORACIÓN DE LA PRUEBA Y DEL PROCESO
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 16 DE JUNIO DE 2016)</small>
+
+## TÍTULO TERCERO. DE LA PRUEBA
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 40.
 
 Para efectos de la comprobación de los elementos del tipo penal y la responsabilidad del inculpado, el juez valorará prudentemente la imputación que hagan los diversos participantes en el hecho y demás personas involucradas en la averiguación previa.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
 ###### Artículo 41.
 
-Los jueces y tribunales, apreciarán el valor de los indicios hasta poder considerar su conjunto como prueba plena, según la naturaleza de los hechos, la prueba de ellos y el enlace que exista entre la verdad conocida y la que se busca.
+Los jueces y tribunales, valorarán aisladamente o en su conjunto los indicios, según la naturaleza de los hechos, la prueba de ellos y el enlace que exista entre la verdad conocida y la que se busca.
 
-Las pruebas admitidas en un proceso podrán ser utilizadas por la autoridad investigadora para la persecución de la delincuencia organizada y ser valoradas como tales en otros procedimientos relacionados con los delitos a que se refiere esta Ley.
+Las pruebas producidas en un proceso distinto podrán ser utilizadas en la investigación y la persecución de la delincuencia organizada y serán admitidas para su respectiva valoración con los demás medios probatorios.
 
-La sentencia judicial irrevocable que tenga por acreditada la existencia de una organización delictiva determinada, será prueba plena con respecto de la existencia de esta organización en cualquier otro procedimiento por lo que únicamente sería necesario probar la vinculación de un nuevo procesado a esta organización, para poder ser sentenciado por el delito de delincuencia organizada.
+En los procedimientos penales se tendrá por acreditada la existencia de una organización delictiva determinada cuando exista una sentencia judicial irrevocable emitida por cualquier tribunal nacional o extranjero que tenga por acreditada dicha existencia. En estos casos, en los procedimientos penales seguidos en contra de cualquier imputado, se deberá probar su vinculación a dicha organización delictiva, así como demás elementos que se requieran para que pueda ser sentenciado por el delito de delincuencia organizada.
 
 ## TÍTULO CUARTO
+
+### CAPÍTULO ÚNICO. DE LA PRISIÓN PREVENTIVA Y EJECUCIÓN DE LAS PENAS Y MEDIDAS DE SEGURIDAD
 
 ###### Artículo 42.
 
 La autoridad deberá mantener recluidos a los procesados o sentenciados que colaboren en la persecución y procesamiento de otros miembros de la delincuencia organizada, en establecimientos distintos de aquéllos en que estos últimos estén recluidos, ya sea en prisión preventiva o en ejecución de sentencia.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
+Para la prisión preventiva y ejecución de sentencias en materia de delincuencia organizada se destinarán centros especiales.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
+
 ###### Artículo 43.
 
-Los sentenciados por los delitos a que se refiere la presente Ley no tendrán derecho a los beneficios de la libertad preparatoria o de la condena condicional, salvo que se trate de quienes colaboren con la autoridad en la investigación y persecución de otros miembros de la delincuencia organizada.
+Los sentenciados por los delitos a que se refiere la presente Ley no tendrán derecho a los beneficios de libertades anticipadas, salvo lo previsto en el artículo 35 de la presente Ley.
+
+En toda pena de prisión que se imponga en una sentencia, se computará el tiempo de la detención, en su caso el arraigo, así como el de cualquier medida cautelar que implique la privación de la libertad personal.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
 
 ###### Artículo 44.
 
-La misma regla se aplicará en relación al tratamiento preliberacional y la remisión parcial de la pena a que se refiere la ley que establece las normas sobre ejecución de penas y medidas de seguridad.
+La regla prevista en el párrafo primero del artículo anterior, se aplicará en relación a los beneficios establecidos en el Código Penal Federal y la Ley aplicable en materia de ejecución de penas.
 
-> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2009)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2016)</small>
 
 ###### Artículo 45.
 
-Los sentenciados por los delitos a que se refiere esta ley no tendrán el derecho de compurgar sus penas en el centro penitenciario más cercano a su domicilio.
+Las personas sujetas a prisión preventiva o que hayan sido sentenciadas por los delitos a que se refiere esta Ley, no tendrán el derecho a cumplir con esta medida cautelar o compurgar sus penas, respectivamente, en el centro penitenciario más cercano a su domicilio.
 
-La legislación que establezca las normas sobre ejecución de penas y medidas de seguridad preverá la definición de los centros especiales para la reclusión preventiva y la ejecución de sentencias, la restricción de comunicaciones de los inculpados y sentenciados y la imposición de medidas de vigilancia especial a los internos por delincuencia organizada.
+La legislación en materia de ejecución de penas preverá lo conducente respecto a los centros especiales para la reclusión preventiva y la ejecución de sentencias, la restricción de comunicaciones de los imputados y sentenciados, así como la imposición de medidas de vigilancia especial a los internos por delincuencia organizada.
 
 ## TRANSITORIO
 
@@ -529,3 +913,17 @@ III. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sen
 Cuarto.- Las sanciones pecuniarias previstas en la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos deberán adecuarse, en su caso, a la unidad de medida y actualización equivalente que por ley se prevea en el sistema penal mexicano.
 
 Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y entidades de la Administración Pública Federal, se cubrirán con los recursos que apruebe la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate, por lo que no se autorizarán recursos adicionales para el presente ejercicio fiscal y los subsecuentes.
+
+D.O.F. 16 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA".]
+
+Primero. El presente Decreto entrará en vigor en términos de lo previsto por el artículo segundo transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 5 de marzo de 2014, salvo lo dispuesto en los artículos 2o., 2o. Bis y 2o. Ter del presente Decreto, que entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Con la expedición del presente Decreto el Congreso de la Unión ejerce la facultad conferida en el artículo 73, fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, para legislar de manera exclusiva en materia de delincuencia organizada de conformidad con lo previsto en el artículo sexto transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 18 de junio de 2008.
+
+Tercero. Los procedimientos penales iniciados con anterioridad a la entrada en vigor del Código Nacional de Procedimientos Penales, así como de las reformas, modificaciones a la presente Ley, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes con anterioridad a dicho acto. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+Cuarto. El Procurador General de la República contará con un plazo de doce meses contado a partir de la publicación del presente Decreto, para emitir los protocolos a que se refiere el presente Decreto.
+
+Quinto. Se aplicarán las disposiciones del Código Nacional de Procedimientos Penales cuando durante su vigencia se denuncie o se inicie la investigación de la comisión de hechos sucedidos con anterioridad a su entrada en vigor.
