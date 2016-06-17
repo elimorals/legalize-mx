@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-construcciones-para-el-distrito-federal-36854"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-29"
-last_updated: "2015-01-12"
+last_updated: "2016-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36854&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-01-27"
 
 REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 17 DE JUNIO DE 2016.
 
 Reglamento publicado en el Número Ter de la Gaceta Oficial del Distrito Federal, el jueves 29 de enero de 2004.
 
@@ -40,7 +40,9 @@ REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL
 
 Las disposiciones del presente Reglamento y de sus Normas Técnicas Complementarias, son de orden público e interés social.
 
-Las obras de construcción, instalación, modificación, ampliación, reparación y demolición, así como el uso de las edificaciones y los usos, destinos y reservas de los predios del territorio del Distrito Federal, deben sujetarse a las disposiciones de la Ley de Desarrollo Urbano del Distrito Federal y su Reglamento; de este Reglamento, sus Normas Técnicas Complementarias y demás disposiciones jurídicas y administrativas aplicables.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Los proyectos ejecutivos de obra, las obras de construcción, modificación, ampliación, reparación, instalación y demolición, así como el uso de las edificaciones y los usos, destinos y reservas de los predios del territorio de la Ciudad de México, deben sujetarse a las disposiciones de la Ley de Desarrollo Urbano del Distrito Federal y su Reglamento; este Reglamento; las Normas Técnicas Complementarias y demás disposiciones jurídicas y administrativas aplicables, incluyendo las de impacto ambiental, sustentabilidad, movilidad y protección civil.
 
 Se aplicará de manera supletoria al presente Reglamento, la Ley de Procedimiento Administrativo del Distrito Federal, además de las disposiciones mencionadas en este ordenamiento.
 
@@ -66,29 +68,87 @@ VIII. Edificación, a la construcción sobre un predio;
 
 IX. Inmueble, al terreno y construcciones que en él se encuentran;
 
-X. Comisión, a la Comisión de Admisión de Directores Responsables de Obra y Corresponsables, y
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+X. Comisión, a la Comisión de Admisión de Directores Responsables de Obra y Corresponsables;
 
 XI. Normas, a las Normas Técnicas Complementarias del Reglamento de Construcciones para el Distrito Federal.
+
+> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+XII. Propietario o Poseedor, a la persona física o moral que tiene la propiedad o posesión jurídica de un bien inmueble, donde se pretende realizar alguna construcción, modificar la estructura de la construcción existente o construir una nueva estructura, o en su caso, hacer la revisión de las construcciones existentes;
+
+> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+XIII. Constructor, a la persona física o moral encargada de ejecutar la obra de conformidad con el proyecto ejecutivo autorizado conforme a este Reglamento;
+
+> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+XIV. Bases Generales, a las bases para la contratación de los Directores Responsables de Obra y Corresponsables;
+
+> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+XV. Arancel, a las cuotas que regulen los honorarios de los Directores Responsables de Obra y Corresponsables que en el ejercicio de las actividades que realizan, tienen derecho a cobrar por la prestación de sus servicios;
+
+> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+XVI. Instituto, al Instituto para la Seguridad de las Construcciones en la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+XVII. Proyecto ejecutivo de obra, al conjunto de planos, memorias descriptivas y de cálculo, catálogo de conceptos, normas y especificaciones que contiene la información y definen los aspectos para la construcción de una obra o instalación;
+
+> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+XVIII. Agencia, a la Agencia de Gestión Urbana de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+XIX. Registro de programación de obra, al sistema de datos de la Agencia, que contiene las obras programadas en la vía pública.
+
+> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+XX. Proyectista, a la persona física con cédula profesional encargada de realizar el proyecto arquitectónico, de estructura o de instalaciones, de conformidad con este Reglamento y sus Normas.
+
+> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+XXI. Comité de Usuarios del Subsuelo, órgano consultivo, de apoyo y de coordinación interinstitucional en materia de protección civil de la Ciudad de México.
+
+> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+XXII. Protección civil, las medidas para salvaguardar la vida, bienes y entorno de la población, así como mitigar los efectos destructivos que los fenómenos perturbadores pueden ocasionar y que deberán de cumplirse en los proyectos y ejecución de obra.
+
+> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+XXIII. Dictamen de Factibilidad de Instalación de Aparato Medidor, a la opinión técnica vinculante y obligatoria que emite el Sistema de Aguas de la Ciudad de México relativa a la posibilidad física de instalar aparatos medidores de volúmenes de agua en la toma y ramificaciones.
 
 ###### ARTÍCULO 3.
 
 De conformidad con lo dispuesto por la Ley y la Ley Orgánica, la aplicación y vigilancia del cumplimiento de las disposiciones de este Reglamento corresponde a la Administración, para lo cual tiene las siguientes facultades:
 
-I. Fijar los requisitos técnicos a que deben sujetarse las construcciones e instalaciones en predios y vía pública, a fin de que se satisfagan las condiciones de habitabilidad, seguridad, higiene, comodidad, accesibilidad y buen aspecto;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
-II. Fijar las restricciones a que deben sujetarse las edificaciones y los elementos tales como fuentes, esculturas, arcos, columnas, monumentos y similares localizados en Áreas de Conservación Patrimonial incluyendo las zonas de monumentos Históricos de acuerdo a la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Salvaguarda del Patrimonio Urbanístico Arquitectónico del Distrito Federal, así como a las Normas de Ordenación de los Programas General y Delegacionales;
+I. Fijar los requisitos técnicos a que deben sujetarse las construcciones e instalaciones en predios y vía pública, a fin de que se satisfagan las condiciones de habitabilidad, seguridad, higiene, protección civil, sustentabilidad, comodidad, accesibilidad y buen aspecto;
+
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+II. Fijar las restricciones a que deben sujetarse las edificaciones y los elementos tales como fuentes, esculturas, arcos, columnas, monumentos y similares, localizados en Áreas de Conservación Patrimonial, incluyendo las Zonas de Monumentos Históricos, Artísticos y Arqueológicos de acuerdo a la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Desarrollo Urbano del Distrito Federal y su Reglamento, así como a las Normas de Ordenación de los Programas Generales y Delegacionales de Desarrollo Urbano;
 
 III. Establecer de acuerdo con las disposiciones legales aplicables, los fines para los que se pueda autorizar el uso de los predios y determinar el tipo de construcciones que se pueden edificar en ellos, en los términos de lo dispuesto por la Ley;
 
 IV. Registrar las manifestaciones de construcción, así como otorgar o negar licencias de construcción especial y permisos para la ejecución de las obras y el uso de edificaciones y predios a que se refiere el artículo 1 de este Reglamento;
 
-V. Llevar un padrón clasificado de Directores Responsables de Obra y Corresponsables;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+V. Llevar un padrón clasificado de Directores Responsables de Obra y Corresponsables; el cual deberá ser actualizado y publicado en el portal de internet de la Secretaría de Desarrollo Urbano y Vivienda de la Ciudad de México;
 
 VI. Practicar visitas de verificación administrativa para que durante el proceso de ejecución y para que el uso que se haga o se haya hecho de un predio, estructura, instalación, edificación o construcción, se ajuste a las características previamente registradas;
 
 VII. Acordar las medidas que fueren procedentes en relación con las edificaciones que pongan en peligro a las personas o sus bienes, o en aquéllas que causen molestias;
 
-VIII. Autorizar o negar, de acuerdo con este Reglamento, la ocupación o uso de una instalación, predio o edificación;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+VIII. Autorizar o negar, de acuerdo con este Reglamento, la ocupación total o parcial, o uso de una instalación, predio o edificación;
 
 IX. Realizar, a través del Programa al que se refiere la Ley, los estudios para establecer o modificar las limitaciones respecto a los usos, destinos y reservas referentes a: construcciones, tierras, aguas y bosques, así como determinar las densidades de población permisibles;
 
@@ -104,7 +164,13 @@ XIV. Expedir y modificar, cuando lo considere necesario, las Normas de este Regl
 
 XV. Utilizar la fuerza pública cuando fuere necesario para hacer cumplir sus disposiciones, y
 
-XVI. Las demás que le confieren este Reglamento y las disposiciones jurídicas aplicables.
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+XVI. Registrar las obras a efectuar en la vía pública, ya sean públicas o privadas, a efecto de evitar duplicidades, dispersión y/o desfase en su ejecución; y
+
+> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+XVII. Las demás que le confieren este Reglamento y las disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 4.
 
@@ -112,9 +178,11 @@ Para el estudio y propuesta de reformas al presente Reglamento, se integrará un
 
 La Comisión podrá ampliarse con representantes de asociaciones profesionales y otros organismos e instituciones que la Administración considere oportuno invitar. En este caso, la Administración contará con igual número de representantes.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 5.
 
-Las áreas competentes en las Delegaciones para registrar manifestaciones de construcción, expedir licencias de construcción especial, permisos y/o autorizaciones, deben contar con un profesional calificado con registro vigente de Director Responsable de Obra, con objeto de que emita las opiniones especializadas que le sean requeridas.
+Las áreas competentes de las Delegaciones o de la Secretaría de Desarrollo Urbano y Vivienda para registrar manifestaciones de construcción, expedir licencias de construcción especial, permisos y/o autorizaciones, deben contar cuando menos con un profesional calificado con registro vigente de Director Responsable de Obra o Corresponsable, con objeto de que emita las opiniones especializadas que le sean requeridas.
 
 ###### ARTÍCULO 6.
 
@@ -128,15 +196,33 @@ Para efectos de este Reglamento, las edificaciones en el Distrito Federal se cla
 
 Vía pública es todo espacio de uso común que por disposición de la Secretaría de Desarrollo Urbano y Vivienda, se encuentre destinado al libre tránsito, de conformidad con la Ley y reglamentos de la materia, así como todo inmueble que de hecho se destine para ese fin.
 
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Cuando exista duda o controversia en los casos que incidan en la funcionalidad de la vía pública, la prestación de servicios públicos urbanos, la movilidad urbana, incluyendo el uso y/o aprovechamiento del subsuelo y espacio aéreo, la Agencia convocará y coordinará a las dependencias involucradas con el fin de dirimirlas.
+
 ###### ARTÍCULO 8.
 
 No se expedirá constancia de alineamiento y número oficial, licencia de construcción especial, orden, autorización, ni registro de manifestación de construcción, para instalación de servicios públicos en predios con frente a la vía pública de hecho o aquella que se presuma como tal.
 
 ### CAPÍTULO II. DEL USO DE LA VÍA PÚBLICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 9.
 
-Las dependencias y entidades públicas, así como las personas físicas o morales cuyas actividades de planeación, diseño, construcción, operación y mantenimiento de instalaciones y de estructuras que tengan algún efecto en la vía pública, deben presentar a la Secretaría de Obras y Servicios al inicio de cada ejercicio anual sus programas de obras para su revisión y aprobación, en su caso.
+Las dependencias y entidades públicas, así como las personas físicas o morales cuyas actividades de planeación, diseño, construcción, operación y mantenimiento de instalaciones y de estructuras que tengan algún efecto en la vía pública, deben presentara (sic) la Secretaría de Obras y Servicios, 25 días hábiles antes del inicio de cada ejercicio anual, sus programas de obras para su revisión y, en su caso, aprobación, mediante el Formato de Programación de Obra.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Las dependencias y entidades podrán actualizar sus programas de obras conforme a la normatividad aplicable en la materia.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+En el caso de personas físicas y/o morales, podrán actualizar sus programas de obras hasta el último día de febrero de cada año, en caso de ser día inhábil se recorrerá al día hábil siguiente.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Concluida una obra en la vía pública, la Agencia determinará un periodo de inactividad respecto a la misma, la cual, sólo podrá ser modificada por causa de interés general o social. En el caso de obras, instalaciones o estructuras en el subsuelo o espacio aéreo, la Agencia podrá solicitar la información necesaria a los particulares o dependencias a efecto de la gestión urbana de la Ciudad.
 
 ###### ARTÍCULO 10.
 
@@ -146,17 +232,31 @@ I. Realizar obras, modificaciones o reparaciones en la vía pública;
 
 II. Ocupar la vía pública con instalaciones de servicio público, comercios semifijos, construcciones provisionales o mobiliario urbano;
 
-III. Romper el pavimento o hacer cortes en las banquetas y guarniciones de la vía pública para la ejecución de obras públicas o privadas, y
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
+III. Romper el pavimento o hacer cortes en las banquetas y guarniciones en la vía pública para la ejecución de obras no efectuadas por el Gobierno de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+En todos los casos deberá garantizarse que las banquetas, una vez reparadas en su totalidad, tengan el mismo espesor y nivel de la rasante que tenían originalmente.
 
 IV. Construir instalaciones subterráneas o aéreas en la vía pública.
 
-La Administración, en correspondencia con los Programas de Desarrollo Urbano y Sectoriales de Vialidad, podrá otorgar autorización para las obras anteriores, señalando en cada caso las condiciones bajo las cuales se conceda, los medios de protección que deberán tomarse, las acciones de restitución y mejoramiento de las áreas verdes y zonas arboladas afectadas, y los horarios en que deban efectuarse.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+La Administración, en correspondencia con los Programas de Desarrollo Urbano y Sectoriales de Vialidad, podrá otorgar autorización del proyecto para las obras anteriores, señalando para cada caso las condiciones bajo las cuales se conceda. El proyecto contemplará las medidas necesarias que deberán tomarse para la protección de las personas, los bienes, el medio ambiente y los servicios públicos existentes, así como el Patrimonio Urbano Arquitectónico indicado en los Programas de Desarrollo Urbano o por las autoridades federales competentes en la materia y las acciones de restitución y mejoramiento de las áreas verdes, zonas arboladas afectadas y los horarios en que deban efectuarse.
 
 En caso de autorizaciones en vía pública el solicitante demostrará su interés legítimo. De igual forma deben acompañarse, en caso de que se requiera conforme a la normativa de la materia, las autorizaciones y demás documentos que correspondan.
 
 Los responsables del deterioro de la vía pública, determinados por la autoridad competente, están obligados a efectuar las reparaciones correspondientes para restaurar o mejorar el estado original de la vía pública, o a pagar su importe cuando la Administración las realice.
 
-En ningún caso las obras, reparaciones u ocupación de la vía pública deben ser obstáculo para el libre desplazamiento de personas con discapacidad, de acuerdo a las especificaciones que establezcan las Normas y demás disposiciones aplicables.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+En ningún caso las obras, reparaciones u ocupación de la vía pública deben ser obstáculo para el desplazamiento accesible, seguro y continuo de las personas con discapacidad, de acuerdo a las especificaciones que establezcan las Normas y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+El otorgamiento de autorización, concesión, permiso administrativo temporal revocable o de cualquier otra índole, emitido por alguna dependencia para ocupar la vía pública, en ningún caso exime al solicitante de tramitar la licencia de construcción especial, conforme al artículo 57 de este Reglamento.
 
 Para la expedición de la licencia de construcción especial para realizar trabajos en la vía pública, la Secretaría de Obras y Servicios emitirá las disposiciones que amerite cada caso.
 
@@ -178,21 +278,47 @@ VI. Para construir o instalar sin autorización de la Administración, obstácul
 
 VII. Para aquellos otros fines que la Administración considere contrarios al interés público.
 
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Las solicitudes de autorización de uso de la vía pública que sean rechazadas, serán comunicadas por la Autoridad que rechazó la solicitud a la Agencia, dentro de los 5 días hábiles siguientes, mediante oficio que contenga el nombre del solicitante, uso, ubicación y tiempo de ocupación.
+
 ###### ARTÍCULO 12.
 
 Los permisos, licencias de construcción especial o autorizaciones que la Administración otorgue para la ocupación, uso y aprovechamiento de la vía pública o cualesquiera otro bien de uso común o destinado a un servicio público, no crean ningún derecho real o posesorio.
 
 Los permisos, licencias de construcción especial o autorizaciones son siempre revocables y temporales y en ningún caso podrán otorgarse en perjuicio del libre, seguro y expedito tránsito, del acceso a los predios colindantes, de los servicios públicos instalados o se obstruya el servicio de una rampa para personas con discapacidad, así como el libre desplazamiento de éstas en las aceras, o en general, de cualesquiera de los fines a que esté destinada la vía pública y los bienes mencionados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 13.
 
-Toda persona física o moral que ocupe con obras o instalaciones la vía pública, está obligada a retirarlas por su cuenta cuando la Administración lo requiera, así como a mantener las señales viales y cualesquiera otras necesarias para evitar accidentes.
+Toda persona física o moral que ocupe con obras o instalaciones la vía pública, está obligada a retirarlas por su cuenta cuando la Administración lo requiera, así como a mantener, de conformidad con la normatividad aplicable, las señales viales y cualesquiera otras necesarias para evitar accidentes y deterioro de la imagen urbana.
 
-En los permisos, licencias de construcción especial o autorizaciones que la propia Administración expida para la ocupación, uso o aprovechamiento de la vía pública, se indicará el plazo para retirar las obras o las instalaciones a que se ha hecho referencia.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+En los permisos, licencias de construcción especial o autorizaciones que la propia Administración expida para la ocupación, uso y/o aprovechamiento de la vía pública, se indicará el plazo para retirar las obras o las instalaciones a que se ha hecho referencia.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Una vez emitido el permiso, licencia o autorización, se deberá informar a la Agencia, dentro de los 5 días hábiles siguientes, mediante oficio que contenga el nombre del solicitante, uso, ubicación y tiempo de ocupación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 14.
 
-En casos de fuerza mayor, las empresas concesionarias para prestar servicios públicos pueden ejecutar las obras de emergencia que se requieran, estando obligadas a dar aviso de inmediato y solicitar la autorización correspondiente a la Administración, en un plazo no mayor de tres días, a partir de aquel en que se inicien dichas obras.
+En casos de fuerza mayor, las empresas concesionarias que prestan servicios públicos pueden ejecutar las obras de emergencia que se requieran, para lo cual:
+
+> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+I. Darán aviso de inmediato a la Delegación y a la Secretaría de Protección Civil, informando de la situación y de los trabajos que realizarán en consecuencia;
+
+> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+II. Dentro de los tres días hábiles siguientes al inicio de la obra, deberán entregar a las mismas dependencias la documentación técnica que respalda los trabajos que se realizan, los cuales deberán cumplir con las especificaciones de seguridad y de calidad de este Reglamento y sus Normas;
+
+> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+III. Informar a la Delegación y a la Agencia del término de la ejecución de la obra.
 
 Cuando la Administración tenga necesidad de remover o retirar dichas obras, no estará obligada a pagar cantidad alguna y el costo del retiro será a cargo de la empresa concesionaria correspondiente.
 
@@ -212,11 +338,27 @@ La Administración establecerá las restricciones para la ejecución de rampas e
 
 ### CAPÍTULO III. DE LAS INSTALACIONES PARA LAS CONDUCCIONES SUBTERRÁNEAS Y AÉREAS EN LA VÍA PÚBLICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 18.
 
-Las obras para la instalación, mantenimiento o retiro de ductos para la conducción de toda clase de fluidos, telecomunicadores, energía eléctrica y cualesquiera otros en el subsuelo de la vía pública y espacios de uso común del dominio del Distrito Federal, se sujetan a las siguientes disposiciones:
+Las obras para la instalación, mantenimiento o retiro de ductos para la conducción de toda clase de fluidos, telecomunicaciones, energía eléctrica y cualesquiera otros en el subsuelo y espacio aéreo de la vía pública, así como de los bienes de uso común de la Ciudad de México, se sujetarán a las siguientes disposiciones:
 
-I. Previo a la expedición de la licencia de construcción especial correspondiente por parte de la Delegación, los interesados deben presentar el proyecto ejecutivo de la obra desarrollado conforme a las Normas, ante la Secretaría de Obras y Servicios, para su estudio y en su caso, obtener el visto bueno. Esta Secretaría definirá las zonas que por razones técnicas tengan que realizarse con sistemas especiales y aprobará el procedimiento constructivo presentado, y
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+I. Previo a la expedición de la licencia de construcción especial, referida en el artículo 58 fracción II, por parte de la Administración, los interesados deberán presentar el proyecto ejecutivo de la obra desarrollado conforme a las Normas ante la Secretaría de Obras y Servicios para su estudio y en su caso, autorización, quien definirá las zonas que por razones técnicas tengan que realizarse con sistemas especiales y aprobará en su caso, el procedimiento constructivo presentado, siendo condición indispensable que el propietario, poseedor o representante legal, presente un levantamiento topográfico detallado de la ubicación de las obras inducidas en la vía pública.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+La Secretaría de Obras y Servicios informará por escrito a la Agencia, dentro de los 5 días hábiles siguientes, el nombre del solicitante, uso, ubicación y tiempo de ocupación, así como una copia del expediente en archivo electrónico.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Para el caso de la operación de los servicios vitales y sistemas estratégicos que se alojan en el subsuelo, los interesados deberán solicitar la Opinión Técnica favorable del Comité de Usuarios del Subsuelo ante la Secretaría de Protección Civil, quien emitirá la opinión que corresponda.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Posteriormente, el solicitante deberá tramitar la licencia de construcción que se requiera.
 
 II. Deben contar con las autorizaciones federales correspondientes, en zonas de monumentos arqueológicos.
 
@@ -224,13 +366,23 @@ II. Deben contar con las autorizaciones federales correspondientes, en zonas de 
 
 Todas las instalaciones aéreas en la vía pública que estén sostenidas por estructuras o postes colocados para ese efecto deben satisfacer, además de los requisitos señalados en las fracciones I y II del artículo anterior, las siguientes disposiciones:
 
-I. Los cables de retenidas y las ménsulas, las alcayatas, así como cualquier otro apoyo para el ascenso a las estructuras, postes o a las instalaciones, deben colocarse a no menos de 2.50 m de altura sobre el nivel de banqueta, y
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
-II. Las estructuras, postes e instalaciones deben ser identificadas por sus propietarios o poseedores con una señal que apruebe la Secretaría de Obras y Servicios y están obligados a conservarlos en buenas condiciones de servicio y a retirarlos cuando dejen de cumplir su función.
+I. Los cables de retenidas y las ménsulas, las alcayatas, así como cualquier otro apoyo para el ascenso a las estructuras, postes o a las instalaciones, deben colocarse a no menos de 2.50 m de altura sobre el nivel de banqueta;
+
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+II. Las estructuras, postes e instalaciones deben ser identificadas por sus propietarios o poseedores con una señal que apruebe la Secretaría de Obras y Servicios y están obligados a conservarlos en buenas condiciones de servicio y a retirarlos cuando dejen de cumplir su función, informando sobre los retiros a dicha Secretaría, quien lo hará del conocimiento a las instancias competentes; y
+
+> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+III. En caso de existir afectación al arbolado urbano, deberá contar con los permisos correspondientes, así como el pago de derechos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 20.
 
-La Administración podrá ordenar el retiro o cambio de lugar de estructuras, postes o instalaciones por cuenta de sus propietarios o poseedores, por razones de seguridad o porque se modifique el ancho de las banquetas o se ejecute cualquier obra en la vía pública que lo requiera y establecerá el plazo para tal efecto.
+La Administración podrá ordenar el retiro o cambio de lugar de estructuras, postes o instalaciones con cargo a sus propietarios o poseedores, por razones de seguridad, funcionalidad de la vía pública, situaciones de alto riesgo o porque se modifique el ancho de las banquetas o se ejecute cualquier obra en la vía pública que lo requiera y establecerá el plazo para tal efecto.
 
 Si no lo hicieren dentro del plazo que se les haya fijado, la propia Administración lo ejecutará a costa de dichos propietarios o poseedores.
 
@@ -244,25 +396,37 @@ La Secretaría de Desarrollo Urbano y Vivienda establecerá la nomenclatura ofic
 
 Las placas de nomenclatura constituyen mobiliario urbano, por lo que se rigen por el reglamento de la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 22.
 
-La Delegación, previa solicitud del propietario o poseedor, asignará para cada predio que tenga frente a la vía pública, un sólo número oficial que debe colocarse en la parte visible de la entrada de cada predio y ser claramente legible a una distancia mínima de 20 m.
+La Administración, previa solicitud del propietario y/oposeedor (sic), asignará para cada predio que tenga frente a la vía pública, un sólo número oficial que deberá colocarse en la parte visible de la entrada de cada predio y ser claramente legible a una distancia mínima de 20 metros.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Para el caso de aquellos predios que tengan más de un frente a la vía pública, se podrá optar por la asignación del número oficial sobre la vialidad de su interés.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 23.
 
-La Delegación podrá ordenar el cambio del número oficial para lo cual lo notificará al propietario o poseedor, quedando éste obligado a colocar el nuevo número en el plazo que se le fije, pudiendo conservar el anterior 90 días naturales más.
+La Administración podrá ordenar el cambio del número oficial para lo cual lo notificará al propietario, poseedor o representante legal, quedando éste obligado a colocar el nuevo número en el plazo que se le fije, pudiendo conservar el anterior 90 días naturales más.
 
 La Delegación notificará dicho cambio al Servicio Postal Mexicano, a la Tesorería del Distrito Federal, al Registro de los Planes y Programas de Desarrollo Urbano y al Registro Público de la Propiedad y de Comercio, a fin de que se hagan las modificaciones necesarias en los registros correspondientes, con copia al propietario o poseedor.
 
 ### CAPÍTULO V. DEL ALINEAMIENTO
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 24.
 
-El alineamiento es la traza sobre el terreno que limita el predio respectivo con la vía pública en uso o con la futura vía pública, determinada en los planos y proyectos debidamente aprobados. El alineamiento contendrá las afectaciones y las restricciones de carácter urbano que señale la Ley y su Reglamento.
+El alineamiento es la traza sobre el terreno que limita el predio respectivo con la vía pública en uso, determinada en los planos debidamente aprobados. El alineamiento contendrá las afectaciones y las restricciones de carácter urbano que señale la Ley y su Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 25.
 
-Las Delegaciones expedirán a solicitud del propietario o poseedor, constancias de alineamiento y número oficial que tendrán una vigencia de dos años contados a partir del día siguiente de su expedición.
+La Administración expedirá, a solicitud del propietario o poseedor, constancias de alineamiento y número oficial que tendrán una vigencia de dos años contados a partir del día siguiente de su expedición. Cuando el predio pertenezca a dos o más Delegaciones, la Constancia de Alineamiento y número oficial serán expedidos por la Secretaría de Desarrollo Urbano y Vivienda.
 
 Si entre la expedición de la constancia a que se refiere este artículo y la presentación de la solicitud de licencia de construcción especial o el registro de manifestación de construcción, se hubiese modificado el alineamiento en los términos del artículo 24 de este Título, el proyecto de construcción deberá ajustarse a los nuevos requerimientos.
 
@@ -276,9 +440,11 @@ Los proyectos para edificaciones que contengan dos o más de los usos a que se r
 
 La Administración hará constar en los permisos, licencias de construcción especial, autorizaciones, constancias de alineamiento, número oficial y certificados que expida, las restricciones para la construcción o para el uso de suelo de los bienes inmuebles, ya sea en forma general, en los conjuntos que indica la Ley y en lugares o en predios específicos que establecen los Programas General, Delegacionales y/o Parciales que correspondan. Los propietarios o poseedores de los inmuebles, tanto públicos como privados, deben respetar las restricciones establecidas.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 28.
 
-No podrán ejecutarse nuevas construcciones, obras o instalaciones de cualquier naturaleza, en los monumentos o en las zonas de monumentos a que se refiere la Ley Federal de Monumentos y Zonas Arqueológicas, la Ley de Salvaguarda del Patrimonio Urbanístico y Arquitectónico del Distrito Federal o en aquellas que hayan sido determinadas como de Conservación del Patrimonio Cultural por el Programa, de acuerdo con el catálogo debidamente publicado por la Secretaría de Desarrollo Urbano y Vivienda, el Manual Técnico de Procedimientos para la Rehabilitación de Monumentos Históricos en el Distrito Federal y, sin recabar previamente la autorización de la Secretaría de Desarrollo Urbano y Vivienda y la del Instituto Nacional de Antropología e Historia o del Instituto Nacional de Bellas Artes, respectivamente en los ámbitos de su competencia.
+No podrán ejecutarse nuevas construcciones, obras o instalaciones de cualquier naturaleza, en los monumentos o en las zonas declaradas de monumentos a que se refiere la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos o en aquellas que hayan sido determinadas como Áreas de Conservación Patrimonial por el Programa, o inmuebles afectos al patrimonio cultural urbano, de acuerdo con el catálogo publicado por la Secretaría de Desarrollo Urbano y Vivienda en la Gaceta Oficial de la Ciudad de México en los Programas de Desarrollo Urbano, sin recabar previamente la autorización de la Secretaría y la del Instituto Nacional de Antropología e Historia o del Instituto Nacional de Bellas Artes, respectivamente en los ámbitos de su competencia.
 
 ###### ARTÍCULO 29.
 
@@ -290,17 +456,21 @@ La Administración determinará las zonas de protección necesarias en los servi
 
 La reparación de los daños que se ocasionen en esas zonas, correrán a cargo de la persona física o moral, pública o privada a quien se otorgue la autorización.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 31.
 
-Si las determinaciones del Programa modificaran el alineamiento oficial de un predio, el propietario o poseedor no podrá efectuar obra nueva o ampliación a las edificaciones existentes que se contrapongan a las nuevas disposiciones, salvo en casos especiales y previa autorización expresa de la Secretaría de Desarrollo Urbano y Vivienda.
+Si las determinaciones de los Programas modificaran el alineamiento oficial de un predio, el propietario o poseedor no podrá efectuar obra nueva o ampliación a las edificaciones existentes que se contrapongan a las nuevas disposiciones, salvo en casos especiales y previa autorización expresa de la Secretaría de Desarrollo Urbano y Vivienda.
 
 ## TÍTULO TERCERO. DE LOS DIRECTORES RESPONSABLES DE OBRA Y CORRESPONSABLES
 
 ### CAPÍTULO I. DE LOS DIRECTORES RESPONSABLES DE OBRA
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 32.
 
-Director Responsable de Obra es la persona física auxiliar de la Administración, con autorización y registro de la Secretaría de Desarrollo Urbano y Vivienda, que se hace responsable de la observancia de la Ley, de este Reglamento y demás disposiciones aplicables, en el acto en que otorga su responsiva relativa al ámbito de su intervención profesional.
+Director Responsable de Obra es la persona física auxiliar de la Administración, con autorización y registro otorgado por la Secretaría de Desarrollo Urbano y Vivienda, quien tiene la atribución en todas aquellas actividades vinculadas con su responsiva, de ordenar y hacer valer en la obra, la observancia de la Ley, de este Reglamento y demás disposiciones aplicables, incluyendo las ambientales.
 
 ###### ARTÍCULO 33.
 
@@ -308,9 +478,13 @@ Para obtener el registro de Director Responsable de Obra, se deben satisfacer lo
 
 I. Acreditar que posee cédula profesional correspondiente a alguna de las siguientes profesiones: Arquitecto, Ingeniero Arquitecto, Ingeniero Civil, Ingeniero Constructor Militar o Ingeniero Municipal;
 
-II. Acreditar ante la Comisión, que conoce la Ley y su Reglamento, el presente Reglamento y sus Normas, la Ley Ambiental y demás leyes y disposiciones relativas al diseño urbano, vivienda, construcción, imagen urbana, anuncios, equipamiento, mobiliario urbano y la conservación del Patrimonio Histórico, Artístico y Arqueológico de la Federación o del Distrito Federal, los Programas y las Normas de Ordenación, para lo cual debe obtener el dictamen favorable a que se refiere la fracción III del artículo 46 de este Reglamento;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
-III. Acreditar como mínimo cinco años de experiencia en la construcción de obras a las que se refiere este Reglamento, y
+II. Acreditar ante la Comisión, que conoce la Ley y su Reglamento, el presente Reglamento y sus Normas, la Ley Ambiental y demás leyes y disposiciones relativas al diseño urbano, vivienda, construcción, sustentabilidad, movilidad, protección civil, imagen urbana, anuncios, equipamiento, mobiliario urbano y de conservación del Patrimonio Histórico, Artístico y Arqueológico de la Federación o del Patrimonio Urbano Arquitectónico dela (sic) Ciudad de México, los Programas y las Normas de Ordenación, para lo cual debe obtener el dictamen favorable a que se refiere la fracción III del artículo 46 de este Reglamento;
+
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+III. Acreditar como mínimo cinco años de experiencia en proyectos y construcción de obras a las que se refiere este Reglamento, y
 
 IV. Acreditar que es miembro activo del Colegio de Profesionales respectivo.
 
@@ -318,13 +492,21 @@ IV. Acreditar que es miembro activo del Colegio de Profesionales respectivo.
 
 Se entiende que un Director Responsable de Obra otorga su responsiva cuando, con ese carácter:
 
-I. Suscriba una manifestación de construcción o una solicitud de licencia de construcción especial;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
-II. Tome a su cargo la supervisión de la ejecución de una edificación y/o instalación, aceptando la responsabilidad de la misma;
+I. Suscriba una manifestación de construcción tipo B o C, una solicitud de licencia de construcción especial, una solicitud de registro de obra ejecutada o una solicitud de licencia para la instalación de anuncios;
 
-III. Suscriba un dictamen de estabilidad o seguridad estructural de una edificación o instalación;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
-IV. Suscriba el Visto Bueno de Seguridad y Operación de una edificación y/o instalación, y
+II. Tome a su cargo el cumplimiento normativo del proyecto y la dirección de la ejecución de una obra y/o instalación, aceptando la responsabilidad de la misma, de conformidad con este Reglamento;
+
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+III. Suscriba un dictamen de estabilidad o seguridad estructural de una obra, edificación o instalación;
+
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+IV. Suscriba el Visto Bueno de Seguridad y Operación de una obra, edificación o instalación; y
 
 V. Suscriba un documento relativo a cualquier otra modalidad que determinen las disposiciones legales y administrativas aplicables.
 
@@ -332,21 +514,45 @@ V. Suscriba un documento relativo a cualquier otra modalidad que determinen las 
 
 Para el ejercicio de su función, el Director Responsable de Obra tiene las siguientes obligaciones:
 
-I. Suscribir y presentar ante la autoridad una manifestación de construcción o una solicitud de licencia de construcción especial;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
-II. Dirigir y vigilar la obra asegurándose de que tanto el proyecto, como la ejecución de la misma, cumplan con lo establecido en los ordenamientos y demás disposiciones a que se refiere la fracción II del artículo 33.
+I. Suscribir y presentar ante la autoridad una manifestación de construcción tipo B o C, o una solicitud de licencia de construcción especial o registro de obra ejecutada;
 
-El Director Responsable de Obra debe contar con los Corresponsables a que se refiere el artículo 36 de este Reglamento, en los casos que en ese mismo artículo se numeran. En los casos no incluidos en dicho artículo, el Director Responsable de Obra podrá definir libremente la participación de los Corresponsables.
+> <small>(REFORMADA PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
-El Director Responsable de Obra debe comprobar que cada uno de los Corresponsables con que cuente, según sea el caso, cumpla con las obligaciones que se indican en el artículo 39 de este Reglamento; de no ser así, deberá notificarlo a la Delegación correspondiente y a la Comisión;
+II. Dirigir, vigilar y asegurar que tanto en el proyecto como en la ejecución de la obra se cumpla con lo establecido en los ordenamientos aplicables.
 
-III. Responder de cualquier violación a las disposiciones de este Reglamento. En caso de no ser atendidas las instrucciones del Director Responsable de Obra por el propietario o poseedor, en relación al cumplimiento del Reglamento, debe notificarlo de inmediato a la Delegación correspondiente;
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-IV. Planear y supervisar el cumplimiento de las medidas de seguridad en la obra, relativas al personal, terceras personas, sus colindancias y la vía pública;
+En su caso, señalar en la bitácora el incumplimiento, así como las instrucciones para corregir las desviaciones, de conformidad con lo establecido en este Reglamento y realizar la revisión completa del proyecto ejecutivo y de toda la documentación necesaria.
 
-V. Llevar en la obra un libro de bitácora foliado y sellado por la Delegación, en el cual se anotarán en original y dos copias, los siguientes datos:
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-a) Nombre y firma del propietario o poseedor, del Director Responsable de Obra y del Residente, así como de los Corresponsables y del Perito en Desarrollo Urbano, si los hubiere;
+El Director Responsable de Obra debe contar con los Corresponsables a que se refiere el artículo 36 de este Reglamento, en los casos que en ese mismo artículo se numeran. En los casos no incluidos en dicho artículo, el Director Responsable de Obra podrá definir libremente la participación de los Corresponsables y demás especialistas que a su juicio considere.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+El Director Responsable de Obra debe comprobar que cada uno de los Corresponsables con que cuente, según sea el caso, cumpla con las obligaciones y observaciones asentadas en la bitácora y las señaladas en el artículo 39 de este Reglamento; de no ser así, deberá notificarlo a la Delegación correspondiente y a la Comisión;
+
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+III. Ordenar en la obra, el cumplimiento de este Reglamento y de la normatividad aplicable, incluyendo en materia ambiental. De no ser atendida la orden por el propietario, poseedor y/o constructor, lo asentará en la bitácora, notificando de inmediato a la Delegación correspondiente, y a la Comisión, anexando una copia de la nota de bitácora, en la que conste lo ordenado;
+
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+IV. Planear y supervisar el cumplimiento de las medidas de seguridad e higiene contempladas en la normatividad aplicables a la obra, relativas al personal, terceras personas, sus colindancias y la vía pública y en su caso, denunciar ante la Autoridad correspondiente su incumplimiento;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
+V. Llevar en la obra un libro de bitácora foliado y sellado por la Delegación o por la Secretaría, el cual deberá cumplir con los requisitos mínimos establecidos en las Bases Generales y quedará a resguardo y bajo responsabilidad del propietario o poseedor, pudiendo este último delegar dicha responsabilidad en su constructor o contratista, pero sin eximirse de la responsabilidad ante la Secretaría de Desarrollo Urbano y Vivienda. En caso de pérdida o robo de dicho libro de bitácora, las partes firmantes deberán guardar sus copias con firmas autógrafas.
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
+En la bitácora se anotarán, entre otros, los siguientes datos:
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+a) Nombre y firma del propietario y/o poseedor, del Director Responsable de Obra, del constructor, así como de los Corresponsables, proyectistas, especialista en Mecánica de Suelos y del Perito en Desarrollo Urbano, si los hubiere;
 
 b) Nombre o razón social de la persona física o moral que ejecute la obra;
 
@@ -362,27 +568,59 @@ g) Fecha de inicio de cada etapa de la obra, y
 
 h) Incidentes y accidentes;
 
-VI. Colocar en la obra, en lugar visible y legible desde la vía pública, un letrero con su nombre y, en su caso, de los Corresponsables y sus números de registro, número de registro de manifestación de construcción o de licencia de construcción especial, la vigencia, tipo y uso de la obra y ubicación de la misma;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
-VII. Entregar al propietario o poseedor, una vez concluida la obra, los planos actualizados y registrados del proyecto completo en original, el libro de bitácora, memorias de cálculo y conservar un juego de copias de estos documentos;
+VI. Ordenar al propietario y/o constructor la colocación en la obra, en lugar visible y legible desde la vía pública, un letrero con el nombre del Director Responsable de Obra y, en su caso, de los Corresponsables y su registro, además del número de registro de manifestación de construcción o de licencia de construcción especial, la vigencia, tipo y uso de la obra y ubicación de la misma, así como los datos del constructor;
 
-VIII. Resellar anualmente el carnet dentro de los 15 días anteriores al aniversario de la fecha de su expedición y refrendar su registro de Director Responsable de Obra cada tres años o cuando lo determine la Administración, sin que sea necesario presentar la documentación que ya obra en poder de la Secretaría de Desarrollo Urbano y Vivienda, con excepción del documento del Colegio de Profesionales que lo acredite como miembro activo.
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+VII. Solicitar al propietario, poseedor o constructor el aviso de terminación de la obra ejecutada, debiendo anexarlo a la bitácora y conservar copias delos (sic) planos actualizados y registrados del proyecto completo, del libro de bitácora y de las memorias de cálculo;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
+VIII. Resellar anualmente el carnet dentro de los cinco días hábiles anteriores al aniversario de la fecha de su expedición y refrendar su registro de Director Responsable de Obra cada tres años o cuando lo determine la Administración, para lo cual deberá presentar los documentos que lo acrediten como miembro activo del Colegio de Profesionales respectivo, así como constancia de actualización profesional expedida por Instituciones de Educación Superior o los Colegios de los que sean miembros, con una duración mínima de treinta horas anuales, en los temas de normatividad y nuevas tecnologías previamente aprobados por las Secretaría de Desarrollo Urbano y Vivienda y de Obras y Servicios, sin que sea necesario presentar la documentación que ya obra en poder de la Secretaría de Desarrollo Urbano y Vivienda.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+En el caso de que no se reselle el carnet, en un período de tres años, será obligatorio presentar una evaluación de conocimientos ante el Comité Técnico de Director Responsable de Obra.
 
 En particular informará a la Comisión sobre su participación en las responsivas suscritas a que se refiere el artículo 34 de este Reglamento durante el período anterior al refrendo o resello;
 
-IX. Elaborar y entregar al propietario o poseedor de la obra, al término de ésta, los manuales de operación y mantenimiento a que se refiere el artículo 232 de este Reglamento, en los casos de las obras que requieran de dictamen de impacto urbano o impacto urbano-ambiental;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
-X. Observar en la elaboración del Visto Bueno de Seguridad y Operación las previsiones contra incendio contenidas en el presente Reglamento y en las Normas;
+IX. Solicitar al propietario o poseedor y/o al constructor los manuales de operación y mantenimiento para las obras que requieran de dictamen de impacto urbano o impacto urbano ambiental, de acuerdo con lo dispuesto en el Artículo 232 de este Reglamento;
 
-XI. Acotar en los planos del proyecto ejecutivo las áreas de donación en las obras que señale la normativa aplicable, y
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
-XII. Las demás que establezcan las disposiciones legales y administrativas aplicables en la materia.
+X. Observar conjuntamente con el Corresponsable en Instalaciones, las previsiones contra incendio contenidas en el presente Reglamento y demás normas que apliquen a la edificación, para la elaboración del Visto Bueno de Seguridad y Operación, así como requerir para su revisión o elaboración el manual de operación y mantenimiento de las instalaciones contra incendio, eléctricas, de combustibles, de obra civil y otras que representen un riesgo o pongan en peligro la vida de los usuarios y terceras personas, así como los dictámenes de verificación de la instalación eléctrica y de combustible;
+
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+XI. Vigilar que, en los planos del proyecto ejecutivo, se encuentren las áreas de donación en los casos que corresponda;
+
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+XII. Celebrar el contrato de prestación de servicios profesionales, en el cual se establecerá el Arancel correspondiente;
+
+> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+XIII. Verificar que los proyectistas hayan firmado los planos y memorias del proyecto, así como el especialista el (sic) estudio de mecánica de suelos, el estudio correspondiente, con base en lo dispuesto en el artículo 54 de la Ley de Desarrollo Urbano del Distrito Federal, asumiendo la responsabilidad establecida en la Ley y demás normatividad vigente; y
+
+> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+XIV. Las demás que establezcan las disposiciones legales y administrativas aplicables en la materia.
 
 ### CAPÍTULO II. DE LOS CORRESPONSABLES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 36.
 
-Corresponsable es la persona física auxiliar de la Administración, con autorización y registro de la Secretaría de Desarrollo Urbano y Vivienda, con los conocimientos técnicos adecuados para responder en forma conjunta con el Director Responsable de Obra, o autónoma en las obras en que otorgue su responsiva, en todos los aspectos técnicos relacionados al ámbito de su intervención profesional, mismos que son relativos a la seguridad estructural, al diseño urbano y arquitectónico e instalaciones, y deberá cumplir con lo establecido en la Ley, en este Reglamento y en las demás disposiciones aplicables.
+Corresponsable es la persona física auxiliar de la Administración, con autorización y registro de la Secretaría de Desarrollo Urbano y Vivienda, con conocimientos técnicos relativos a la seguridad estructural, al diseño urbano y arquitectónico e instalaciones, quien responderá en forma conjunta con el Director Responsable de Obra, o autónoma en los casos en que otorgue su responsiva, en todos los aspectos técnicos relacionados al ámbito de su intervención profesional, y deberá cumplir con lo establecido en la Ley, en este Reglamento y en las demás disposiciones aplicables, correspondiendo a la Secretaría de Desarrollo Urbano y Vivienda otorgar su autorización y registro.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Tratándose de Corresponsables en Seguridad Estructural, corresponderá al Instituto otorgar la autorización y registro.
 
 Se requiere responsiva de los Corresponsables para obtener el registro de manifestación de construcción o la licencia de construcción especial a que se refieren los artículos 53 y 58 de este Reglamento, en los siguientes casos:
 
@@ -390,15 +628,21 @@ I. Corresponsable en Seguridad Estructural, para:
 
 a) Las obras de los grupos A y B1 del artículo 139 de este Reglamento, y
 
-b) Las edificaciones ubicadas en zonas del Patrimonio Histórico, Artístico y Arqueológico de la Federación o en áreas de conservación patrimonial del Distrito Federal.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+b) Las edificaciones ubicadas en zonas de Monumentos Históricos, Artísticos y Arqueológicos declaradas por la Federación o en Áreas de Conservación Patrimonial de la Ciudad de México indicadas en los Programas de Desarrollo Urbano.
 
 II. Corresponsable en Diseño Urbano y Arquitectónico, para:
 
 a) Habitación Plurifamiliar de más de 50 viviendas, hospitales, clínicas, centros de salud, edificaciones para exhibiciones, baños públicos, estaciones y terminales de transporte terrestre, aeropuertos, estudios cinematográficos y de televisión, estaciones de servicio para el expendio de combustible y carburantes, y pasos peatonales;
 
-b) Las edificaciones ubicadas en zonas del Patrimonio Histórico, Artístico y Arqueológico de la Federación o en áreas de conservación patrimonial del Distrito Federal;
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-c) El resto de las edificaciones que tengan más de 2,000 m2 cubiertos, o más de 20 m de altura, sobre nivel medio de banqueta, o con capacidad para más de 250 concurrentes en locales cerrados, o más de 1,000 concurrentes en locales abiertos, y
+b) Las edificaciones o demoliciones ubicadas en zonas de Monumentos Históricos, Artísticos y Arqueológicos declaradas por la Federación o en Áreas de Conservación Patrimonial de la Ciudad de México indicadas en los Programas de Desarrollo Urbano;
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+c) El resto de las edificaciones que tengan más de 2,000 m2 cubiertos, o más de 20 m de altura, sobre nivel medio de banqueta, o con capacidad para más de 250 concurrentes en locales cerrados, o más de 1,000 concurrentes en locales abiertos;
 
 d) Estaciones de comunicación celular y/o inalámbrica, chimeneas y/o cualquier otro tipo de instalación que rebase la altura de 15 m sobre su nivel de desplante.
 
@@ -406,9 +650,15 @@ III. Corresponsable en Instalaciones, para:
 
 a) Habitación plurifamiliar de más de 50 viviendas, baños públicos, lavanderías, tintorerías, lavado y lubricación de vehículos, hospitales, clínicas y centros de salud, instalaciones para exhibiciones, crematorios, aeropuertos, centrales telegráficas, telefónicas y de comunicación, estaciones de radio y televisión, estaciones repetidoras de comunicación celular y/o inalámbrica, estudios cinematográficos, industria pesada y mediana; plantas, estaciones y subestaciones eléctricas; estaciones de bombeo, albercas con iluminación subacuática, circos, ferias de cualquier magnitud, estaciones de servicio para el expendio de combustible y carburantes, y estaciones de transferencia de basura;
 
-b) El resto de las edificaciones que tengan más de 2,000 m2 cubiertos, o más de 20 m de altura sobre nivel medio de banqueta o más de 250 concurrentes, y
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+b) El resto de las edificaciones que tengan más de 2,000 m2 cubiertos, o más de 15 m de altura sobre nivel medio de banqueta o más de 250 concurrentes;
 
 c) Toda edificación que cuente con elevadores de pasajeros, de carga, industriales, residenciales o escaleras o rampas electromecánicas.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+d) Las edificaciones ubicadas en zonas de Patrimonio Histórico, Artístico y Arqueológico de la Federación o en áreas de conservación patrimonial de la Ciudad de México en las que se realicen instalaciones electromecánicas nuevas o se modifiquen.
 
 ###### ARTÍCULO 37.
 
@@ -416,17 +666,25 @@ Para obtener el registro como Corresponsable se requiere:
 
 I. Acreditar que posee cédula profesional correspondiente a alguna de las siguientes profesiones:
 
-a) Para Seguridad Estructural: Ingeniero Civil, Ingeniero Arquitecto o Ingeniero Constructor Militar;
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-b) Para Diseño Urbano y Arquitectónico: Arquitecto, Ingeniero Arquitecto o Ingeniero Municipal;
+Ingeniero Civil, Arquitecto, Ingeniero Arquitecto, Ingeniero Constructor Militar, Ingeniero Municipal, Ingeniero Mecánico Electricista, Ingeniero Mecánico, Ingeniero Electricista;
 
-c) Para Instalaciones: Ingeniero Mecánico Electricista, Ingeniero Mecánico o Ingeniero Electricista;
+a) (DEROGADO, G.O. 17 DE JUNIO DE 2016)
+
+b) (DEROGADO, G.O. 17 DE JUNIO DE 2016)
+
+c) (DEROGADO, G.O. 17 DE JUNIO DE 2016)
 
 Se podrá obtener otra corresponsabilidad distinta a las asignadas de las profesiones mencionadas, siempre y cuando el solicitante apruebe, ante la Comisión, una evaluación de conocimientos afines a la corresponsabilidad que aspire;
 
-II. Acreditar ante la Comisión que conoce este Reglamento y sus Normas, en lo relativo a los aspectos correspondientes a su especialidad, para lo cual debe obtener el dictamen favorable a que se refiere la fracción III del artículo 46 de este Reglamento;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
-III. Acreditar como mínimo cinco años de experiencia en su especialidad, y
+II. Acreditar ante la Comisión o ante el Instituto, según sea el caso, que conoce este Reglamento, sus Normas, y demás normatividad aplicable en lo relativo a los aspectos correspondientes a su especialidad, para lo cual debe obtener el dictamen favorable a que se refiere la fracción III del artículo 46 de este Reglamento;
+
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+III. Acreditar como mínimo cinco años de experiencia en su especialidad, así como su participación activa en proyectos y en obras, y
 
 IV. Acreditar que es miembro activo del Colegio de Profesionales respectivo.
 
@@ -482,9 +740,13 @@ II. Del Corresponsable en Diseño Urbano y Arquitectónico:
 
 a) Suscribir, conjuntamente con el Director Responsable de Obra, la manifestación de construcción o la solicitud de licencia de construcción especial, cuando se trate de las obras previstas en el artículo 36 de este Reglamento;
 
-b) Revisar el proyecto en los aspectos correspondientes a su especialidad, verificando que hayan sido realizados los estudios y se hayan cumplido las disposiciones establecidas en los Reglamentos de Construcción y de Anuncios, en los Programas, y las demás disposiciones relativas al Desarrollo Urbano;
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-c) Verificar que el proyecto cumpla con las disposiciones relativas al Programa, al Programa General, Delegacional y/o Parcial respectivo, los planos de zonificación para anuncios y las declaratorias de usos, destinos y reservas; con los requerimientos de habitabilidad, accesibilidad, funcionamiento, higiene, servicios, acondicionamiento ambiental, comunicación, prevención de emergencias e integración al contexto e imagen urbana contenidos en el Título Quinto del presente Reglamento, y con las disposiciones legales y reglamentarias en materia de preservación del Patrimonio, tratándose de edificios y conjuntos catalogados como monumentos, o que estén ubicados en áreas de conservación patrimonial;
+b) Revisar el proyecto en los aspectos correspondientes a su especialidad, verificando que hayan sido realizados los estudios y cumplido las disposiciones establecidas en este Reglamento, el Reglamento para el Ordenamiento del Paisaje Urbano del Distrito Federal, los Programas, y en las demás relativas al Desarrollo Urbano;
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+c) Verificar que el proyecto cumpla con las disposiciones relativas a los Programas, los planos de zonificación para anuncios y las declaratorias de usos, destinos y reservas; con los requerimientos de habitabilidad, accesibilidad, funcionamiento, higiene, servicios, acondicionamiento ambiental, comunicación, prevención de emergencias e integración al contexto e imagen urbana contenidos en el Título Quinto del presente Reglamento, y con las disposiciones legales y reglamentarias en materia de conservación del patrimonio urbano arquitectónico, tratándose de inmuebles afectos al patrimonio cultural urbano, o que estén ubicados en Áreas de Conservación Patrimonial;
 
 d) Vigilar que la construcción, durante el proceso de la obra, se apegue estrictamente al proyecto correspondiente a su especialidad y que tanto los procedimientos como los materiales empleados, correspondan a lo especificado y a las Normas de Calidad del proyecto;
 
@@ -496,7 +758,9 @@ III. Del Corresponsable en Instalaciones:
 
 a) Suscribir, conjuntamente con el Director Responsable de Obra, la manifestación de construcción o la solicitud de licencia de construcción especial, cuando se trate de las obras previstas en el artículo 36 de este Reglamento;
 
-b) Revisar el proyecto en los aspectos correspondientes a su especialidad, verificando la factibilidad de otorgamiento de los servicios públicos y que se hayan cumplido las disposiciones de este Reglamento y la legislación vigente al respecto, relativas a la seguridad, control de incendios y funcionamiento de las instalaciones;
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+b) Revisar el proyecto en los aspectos correspondientes a su especialidad, verificando la factibilidad de otorgamiento de los servicios públicos y que se hayan cumplido las disposiciones de este Reglamento y la legislación vigente al respecto, relativas a la seguridad, previsiones contra incendio y funcionamiento de las instalaciones;
 
 c) Vigilar que la construcción durante el proceso de la obra, se apegue estrictamente al proyecto correspondiente a su especialidad y que tanto los procedimientos como los materiales empleados correspondan a lo especificado y a las Normas de Calidad del proyecto;
 
@@ -504,9 +768,19 @@ d) Notificar al Director Responsable de Obra cualquier irregularidad durante el 
 
 e) Responder de cualquier violación a las disposiciones de este Reglamento, relativas a su especialidad.
 
-IV. Resellar anualmente el carnet dentro de los 15 días anteriores al aniversario de la fecha de su expedición y refrendar su registro cada tres años o cuando lo determine la Administración, sin que sea necesario presentar la documentación que ya obra en poder de la Secretaría de Desarrollo Urbano y Vivienda, con excepción del documento del Colegio de Profesionales que lo acredite como miembro activo.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
+IV. Resellar anualmente el carnet dentro de los cinco días hábilesanteriores (sic) al aniversario de la fecha de su expedición y refrendar su registro de Corresponsable cada tres años o cuando lo determine la Administración, para lo cual deberá presentar los documentos que lo acrediten como miembro activo del Colegio de Profesionales respectivo, así como constancia de actualización profesional expedida por Instituciones de Educación Superior o los Colegios de los que formen parte, con una duración mínima de treinta horas, en los temas de normatividad y nuevas tecnologías previamente aprobados por las Secretaría de Desarrollo Urbano y Vivienda y de Obras y Servicios, sin que sea necesario presentar la documentación que ya obra en poder de la Secretaría de Desarrollo Urbano y Vivienda o el Instituto.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+En el caso de que un Corresponsable no haya resellado en un período de tres años su carnet, será obligatorio presentar una evaluación de conocimientos formulada por el Comité Técnico correspondiente.
 
 En particular, informará a la Comisión sobre su participación en las responsivas suscritas a que se refiere el artículo 38 de este Reglamento durante el periodo anterior al refrendo o resello.
+
+> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+V. Celebrar el contrato de prestación de servicios profesionales en el cual se establecerá el Arancel correspondiente.
 
 ### CAPÍTULO III. DE LAS RESPONSABILIDADES Y SANCIONES DE LOS DIRECTORES RESPONSABLES DE OBRA Y CORRESPONSABLES
 
@@ -514,59 +788,125 @@ En particular, informará a la Comisión sobre su participación en las responsi
 
 Las funciones del Director Responsable de Obra y Corresponsables, en las obras y casos para los que hayan otorgado su responsiva se terminarán:
 
-I. Cuando ocurra cambio, suspensión o retiro del Director Responsable de Obra y/o Corresponsables en la obra correspondiente.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
-En este caso se deberá levantar un acta administrativa ante la Secretaría de Desarrollo Urbano y Vivienda, asentando en detalle los motivos por los que el Director Responsable de Obra y/o Corresponsables suspenden o retiran su responsiva, así como el avance de la obra hasta ese momento, la cual será suscrita por la propia Secretaría, por el Director Responsable de Obra y/o Corresponsables, según sea el caso, y por el propietario o poseedor. Una copia de esta acta se enviará a la Delegación y otra se anexará a la bitácora de la obra.
+I. Cuando ocurra sustitución o retiro del Director Responsable de Obra y/o Corresponsables en la obra correspondiente; para lo cual se deberá levantar un acta administrativa ante la Secretaría de Desarrollo Urbano y Vivienda o el Instituto asentando los motivos por los que el Director Responsable de Obra o el Corresponsable, sea sustituido o retire su responsiva, así como el avance de la obra hasta ese momento, la cual será suscrita por la Autoridad correspondiente, por el Director Responsable de Obra y/o Corresponsables, según sea el caso, y por el propietario o poseedor. Una copia de esta acta se enviará a la Administración y otra se asentará y anexará a la bitácora de la obra.
 
-La Delegación ordenará la suspensión de la obra cuando el Director Responsable de Obra y/o Corresponsables no sean sustituidos en forma inmediata y no permitirá la reanudación hasta en tanto no se designe un nuevo Director Responsable de Obra y/o Corresponsable;
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+La Administración ordenará la suspensión de la obra cuando el Director Responsable de Obra y/o Corresponsable no sean sustituidos en forma inmediata y no permitirá la reanudación hasta en tanto no se designe un nuevo Director Responsable de Obra y/o Corresponsable.
 
 II. Cuando no hayan refrendado su registro correspondiente, y
 
 III. Cuando la Delegación expida la autorización de uso y ocupación de la obra.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 41.
 
-Para los efectos del presente Reglamento, la responsabilidad de carácter administrativo de los Directores Responsables de Obra y de los Corresponsables termina a los diez años contados a partir de:
+Para los efectos del presente Reglamento, la responsabilidad de carácter administrativo de los Directores Responsables de Obra y de los Corresponsables termina a los cinco años, salvo los casos sujetos al otorgamiento del visto bueno de seguridad y operación y la constancia de seguridad estructural, contados a partir de:
 
 I. La fecha en que se expida la autorización de uso y ocupación a que se refiere el artículo 70 de este Reglamento, o
 
 II. La fecha en que formalmente hayan terminado su responsiva, según se establece en la fracción I del artículo 40 anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 42.
 
-La Secretaría de Desarrollo Urbano y Vivienda aplicará sanciones a los Directores Responsables de Obra y/o Corresponsables, que determine la Comisión Dictaminadora señalada en la fracción V del artículo 45 de este Reglamento, independientemente de las sanciones previstas en el Capítulo II del Título Décimo Primero del presente ordenamiento, en los siguientes casos:
+La Secretaría de Desarrollo Urbano y Vivienda o el Instituto, en su caso, son la Autoridad competente para conocer y resolver las infracciones en que incurran los Directores Responsables de Obra y/o Corresponsables, considerando el dictamen que formule la Comisión Dictaminadora señalada en la fracción V del artículo 45 de este Reglamento, para emitir la resolución que a derecho proceda, conforme al procedimiento administrativo correspondiente, independientemente de las sanciones previstas en el Capítulo II del Título Décimo Primero del presente ordenamiento, en los siguientes casos:
 
-I. Amonestación por escrito al Director Responsable de Obra o a los Corresponsables, según sea el caso, cuando infrinjan el presente Reglamento, sin causar situaciones que pongan en peligro la vida de las personas y/o los bienes, independientemente de la reparación del daño, así como de la responsabilidad derivada de procesos de índole civil o penal;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
-II. Suspensión temporal por dos años del registro de Director Responsable de Obra o Corresponsables, según sea el caso, cuando infrinjan el presente Reglamento sin causar situaciones que pongan en peligro la vida de las personas y/o los bienes, independientemente de la reparación del daño, así como de la responsabilidad derivada de procesos de índole civil o penal, cuando:
+I. Amonestación por escrito al Director Responsable de Obra o a los Corresponsables, cuando:
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+a) Infrinja el presente Reglamento y demás ordenamientos aplicables, sin causar situaciones que pongan en peligro la vida de las personas y/o los bienes, independientemente de la reparación del daño, así como de la responsabilidad derivada de procesos de índole civil o penal;
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+b) Presente la documentación incompleta o con datos erróneos y que formen parte de los procedimientos que inicien ante la Administración;
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+c) Omita notificar a la Secretaría de Desarrollo Urbano y Vivienda, para el Registro en su carnet de la responsiva otorgada a una obra pública realizada por la Administración;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
+II. Suspensión temporal por dos años del registro de Director Responsable de Obra o Corresponsables, según sea el caso, cuando infrinjan el presente Reglamento y demás ordenamientos aplicables sin causar situaciones que pongan en peligro la vida de las personas y/o los bienes, independientemente de la reparación del daño, así como de la responsabilidad derivada de procesos de índole civil o penal, cuando:
 
 a) Sin conocimiento y aprobación de la Delegación o de la Secretaría de Desarrollo Urbano y Vivienda, en su caso, se modifique la obra o instalación sin apegarse a las condiciones de la manifestación de construcción registrada o de la licencia de construcción especial expedida, con excepción de las diferencias permitidas que se señalan en la fracción II del artículo 70 del presente Reglamento, y
 
-b) El infractor que acumule dos amonestaciones por escrito en el período de un año, contando a partir de la fecha de la primera amonestación, en el supuesto de la fracción I anterior.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+b) El infractor que acumule dos amonestaciones por escrito en el período de un año, contando a partir de la fecha de la primera amonestación, o bien, que acumule tres amonestaciones por escrito en el período del trienio de la vigencia de su carnet, contando a partir de la fecha de la primera amonestación.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+En caso de que el infractor tenga dos o más sanciones durante el mismo período, éstas serán acumulables.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+De las responsivas que siguen vigentes, el Director Responsable de Obra o Corresponsable sancionado continuará siendo responsable.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Cuando un Director Responsable de Obra o Corresponsable sea sancionado temporalmente por una obra determinada, continuará siendo responsable de las demás que tenga en proceso, pero no podrá otorgar nuevas responsivas, hasta haber cumplido su sanción.
 
 III. Cancelación del registro de Director Responsable de Obra o de Corresponsable, según sea el caso, independientemente de la reparación del daño, así como de la responsabilidad derivada de procesos de índole civil o penal, cuando:
 
 a) No cumplan con las disposiciones del presente Reglamento, causando situaciones que pongan en peligro la vida de las personas y/o los bienes, y
 
-b) Hayan obtenido con datos falsos su inscripción al padrón de profesionales respectivo, o cuando se presenten documentos con carácter apócrifo en los trámites que gestionen ante la Administración.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-En los casos de cancelación de registro, la Secretaría de Desarrollo Urbano y Vivienda no otorgará nuevamente al infractor el registro en ninguna de las especialidades que se señalan en los artículos 33 y 37 del presente Reglamento.
+b) Hayan obtenido con datos falsos su inscripción al padrón de profesionales respectivo;
 
-En el caso de las fracciones II y III, los infractores deben entregar su carnet de registro a la Secretaría de Desarrollo Urbano y Vivienda, dentro de los cinco días hábiles posteriores a la fecha de notificación de la sanción impuesta. La Secretaría de Desarrollo Urbano y Vivienda devolverá el carnet de registro al infractor en el supuesto de la fracción II, al término de la suspensión temporal.
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-Los Directores Responsables de Obra o Corresponsables que hayan sido sancionados serán boletinados a las Delegaciones para que éstas procedan conforme al presente Reglamento. Adicionalmente, se informará al Colegio de Profesionales al que pertenezca el infractor.
+c) Presenten documentos que no hayan sido emitidos y/o validados por la autoridad competente en los trámites que gestione ante la Administración;
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+d) No resellen o refrenden su carnet por un periodo de tiempo mayor a cinco años, contado a partir del último resello; y
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+e) Hayan otorgado su responsiva en proyecto u obra que afecte de forma irreparable a un inmueble del patrimonio cultural urbano.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+En los casos de cancelación de registro, la Secretaría de Desarrollo Urbano y Vivienda o el Instituto, según sea el caso, no otorgará nuevamente al infractor el registro en ninguna de las especialidades que señalan los artículos 33 y 37 del presente Reglamento, excepto en lo señalado en la fracción III, inciso d), del presente artículo.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+En el caso de las fracciones II y III, los infractores deben entregar su carnet de registro a la Secretaría o al Instituto, según sea el caso, dentro de los cinco días hábiles posteriores a la fecha de notificación de la sanción impuesta. En el supuesto de la fracción II, se devolverá el carnet de registro al infractor, al término de la suspensión temporal.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+En el caso de la fracción II, el infractor deberá entregar a la Comisión en un plazo máximo de 30 días naturales un informe detallado de las obras bajo su responsiva, el cual deberá acompañar de copias de la bitácora y memoria fotográfica.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+La Secretaría de Desarrollo Urbano y Vivienda o el Instituto, en su caso, notificarán a las Delegaciones de los Directores Responsables de Obra o Corresponsables que hayan sido sancionados para que éstas procedan conforme al presente Reglamento. De igual forma, se publicará en la página de internet de las citadas dependencias. Adicionalmente, se informará al Colegio de Profesionales al que pertenezca el infractor.
 
 ### CAPÍTULO IV. DE LA COMISIÓN DE ADMISIÓN DE DIRECTORES RESPONSABLES DE OBRA Y CORRESPONSABLES
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 43.
 
-La Comisión de Admisión de Directores Responsables de Obra y Corresponsables es el Órgano Colegiado al que se refiere el tercer párrafo del artículo 92 de la Ley.
+La Comisión de Admisión de Directores Responsables de Obra y Corresponsables es el Órgano Colegiado al que se refiere la Ley.
 
 ###### ARTÍCULO 44.
 
 La Comisión se integra por:
 
-I. El Secretario de Obras y Servicios, quien la presidirá, y el Secretario de Desarrollo Urbano y Vivienda quien fungirá como Secretario Técnico, y
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+I. El Secretario de Obras y Servicios, quien la presidirá, el Secretario de Desarrollo Urbano y Vivienda, quien fungirá como Secretario Técnico.
 
 II. Un representante de cada uno de los Colegios de Profesionales y Cámaras siguientes, a invitación del Presidente de la Comisión:
 
@@ -588,7 +928,13 @@ h) Cámara Nacional de Empresas de Consultoría, y
 
 i) Cámara Mexicana de la Industria de la Construcción, Delegación Distrito Federal.
 
-Todos los miembros de la Comisión deben contar con un suplente. Los representantes de los Colegios y Cámaras deben tener registro vigente de Director Responsable de Obra o de Corresponsable.
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+j) Colegio Vanguardista de Ingenieros Arquitectos.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Todos los miembros de la Comisión deben contar con un suplente, en el caso del Presidente, será el Titular del Instituto. Los representantes de los Colegios y Cámaras deben tener registro vigente de Director Responsable de Obra o de Corresponsable y durarán en sus funciones cuatro años. En el caso de que un miembro no pueda cumplir con su periodo, se aplicará para su sustitución lo dispuesto en el Manual de funcionamiento.
 
 Los miembros de la Comisión no podrán formar parte de los Comités señalados en el artículo 46 de este Reglamento y viceversa.
 
@@ -604,29 +950,75 @@ III. Emitir opinión sobre la actuación de los Directores Responsables de Obra 
 
 IV. Vigilar la actuación de los Directores Responsables de Obra y/o Corresponsables conforme a las disposiciones normativas aplicables, para lo cual podrá realizar visitas a las obras;
 
-V. Constituirse en Comisión Dictaminadora de las sanciones que señala el artículo 42 de este Reglamento, y
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+V. Constituirse en Comisión Dictaminadora que señala el artículo 42 de este reglamento, la cual emitirá el dictamen correspondiente a efecto de ser integrado y valorado dentro del procedimiento administrativo.
 
 VI. Las demás que se establezcan en el Manual de Funcionamiento de la Comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 46.
 
-Para el cumplimiento de las atribuciones a que se refiere el artículo anterior, la Comisión contará con cuatro Comités Técnicos, integrados por profesionales de reconocida experiencia y capacidad técnica, los cuales serán nombrados por la Comisión.
+Para el cumplimiento de las atribuciones a que se refiere el artículo anterior, la Comisión contará con cuatro Comités Técnicos, integrados por profesionales de reconocida experiencia y capacidad técnica, los cuales serán nombrados por la Comisión y deberán contar con registro vigente de Director Responsable de Obra y/o Corresponsable.
 
 El Presidente de la Comisión tiene derecho de veto en la designación de los miembros de los Comités.
 
 Dichos Comités quedarán integrados de la siguiente forma:
 
-I. Un Comité Técnico de Directores Responsables de Obra, por dos especialistas en diseño y construcción de cimentaciones y estructuras, dos en diseño urbano y arquitectónico; dos en instalaciones;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
-II. Tres Comités Técnicos de Corresponsables, uno por cada una de las siguientes disciplinas: seguridad estructural, diseño urbano y arquitectónico, e instalaciones. Se formará cada cual con seis profesionales especialistas en la correspondiente disciplina;
+I. Un Comité Técnico de Directores Responsables de Obra, integrado por un Corresponsable en Seguridad Estructural, un Corresponsable en Diseño Urbano y Arquitectónico, un Corresponsable en Instalaciones y tres Directores Responsables de Obra.
+
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+II. Tres Comités Técnicos de Corresponsables, uno por cada una de las siguientes disciplinas: seguridad estructural, diseño urbano y arquitectónico, e instalaciones. Se formará cada cual, con seis Corresponsables en la disciplina correspondiente, representantes de los Colegios y las Cámaras referidos en el Artículo 44 fracción II;
 
 III. Los Comités evaluarán los conocimientos de los aspirantes a Director Responsable de Obra y/o Corresponsables a que se refieren la fracción II del artículo 33 y la fracción II del artículo 37, debiendo emitir el dictamen correspondiente y enviarlo a la Comisión, para los efectos conducentes, y
 
-IV. Los miembros de los Comités durarán en sus funciones dos años.
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+IV. Los miembros de los Comités durarán en sus funciones hasta por un periodo de cuatro años.
 
 El Secretario de Obras y Servicios expedirá los Manuales de Funcionamiento de la Comisión y de sus Comités Técnicos de conformidad con la normativa aplicable.
 
 Dichos manuales deberán publicarse en la Gaceta Oficial del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+ARTÍCULO 46 BIS.- El propietario y/o poseedor, de manera individual o mancomunada, según se actúe, tiene las siguientes obligaciones:
+
+a) Celebrar contrato de prestación de servicios profesionales con el Director Responsable de Obra o Corresponsable, según sea el caso, en el cual se establecerá el Arancel correspondiente;
+
+b) Solicitar por escrito los cambios al proyecto ejecutivo de obra al Director Responsable de Obra y/o Corresponsable, según sea el caso, quienes autorizarán o no dichos cambios, lo cual deberá ser asentado en la bitácora, así como los motivos para ello;
+
+c) No podrá remover o sustituir al Director Responsable de Obra y/o Corresponsable derivado de que estos auxiliares de la administración exijan el cumplimiento de la normatividad por la cual otorgaron su responsiva;
+
+d) Contratar para la obra, el seguro de responsabilidad civil por daños a terceros en las obras clasificadas en los grupos A y subgrupo B1, según el artículo 139 de este Reglamento. El monto mínimo asegurado no deberá ser menor del diez por ciento del costo total de la obra construida por el tiempo de vigencia de la manifestación de construcción o licencia de construcción especial;
+
+e) Contar en su caso, con el Programa Interno de Protección Civil para obra en construcción, remodelación y demolición;
+
+f) Dar aviso a la Administración de la terminación de la obra ejecutada conforme a este Reglamento.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+ARTÍCULO 46 TER.- El Constructor tiene las siguientes obligaciones:
+
+a) Ejecutar la obra conforme al proyecto ejecutivo, registrado en la manifestación de construcción o licencia de construcción especial ante la autoridad competente;
+
+b) Cuando existan diferencias físicas del terreno, condiciones de la colindancia o propiedades distintas del suelo donde se construirá la cimentación con lo indicado en el proyecto registrado, deberá comunicar al Director Responsable de Obra y/o Corresponsable para que determine cuál será el procedimiento a realizar;
+
+c) Atender las instrucciones del Director Responsable de Obra y/o los Corresponsables, en cuanto a las condiciones de seguridad y salud en la obra a efecto de prevenir riesgos laborales cumpliendo con lo establecido en la NOM-031-STPS vigente;
+
+d) Solicitar por escrito los cambios que considere pertinente al proyecto ejecutivo de obra al Director Responsable de Obra y/o Corresponsable, según sea el caso, quienes autorizarán o no dichos cambios, lo cual deberá ser asentado en la bitácora, así como los motivos para ello
+
+e) Contratar laboratorios certificados y/o acreditados por entidades autorizadas para realizar las pruebas que se establezcan en las Normas para garantizar la calidad de los materiales;
+
+f) Colocar un letrero en la obra en un lugar visible y legible desde la vía pública, con el nombre del Director Responsable de Obra, número de registro y en su caso del o de los Corresponsables con su número de registro, el nombre del Constructor y su razón social además del número de registro de manifestación de construcción o de licencia de construcción especial, la vigencia, tipo, uso de la obra y ubicación de la misma;
+
+g) Aplicar, en su caso, el Programa Interno de Protección Civil para obra en construcción, remodelación y demolición;
+
+El constructor será el responsable, en el caso de que existan daños en la obra o a terceros generados por el incumplimiento de los incisos anteriores.
 
 ## TÍTULO CUARTO. DE LAS MANIFESTACIONES DE CONSTRUCCIÓN Y DE LAS LICENCIAS DE CONSTRUCCIÓN ESPECIAL
 
@@ -638,23 +1030,49 @@ Para construir, ampliar, reparar o modificar una obra o instalación de las señ
 
 No procede el registro de manifestación de construcción cuando el predio o inmueble se localice en suelo de conservación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 48.
 
-Para registrar la manifestación de construcción de una obra o instalación, el interesado debe presentar en el formato correspondiente y ante la autoridad competente, la declaración bajo protesta de decir verdad, de cumplir con este Reglamento y demás disposiciones aplicables.
+Para registrar la manifestación de construcción de una obra o instalación, se requiere:
 
-Los derechos que cause el registro de manifestación de construcción deben ser cubiertos conforme a la autodeterminación que realice el interesado, de acuerdo con las tarifas establecidas por el Código Financiero del Distrito Federal para cada modalidad de manifestación de construcción.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
-El interesado debe llenar el formato correspondiente anexando el comprobante de pago de derechos y, en su caso de los aprovechamientos que procedan, así como los documentos que se señalan para cada modalidad de manifestación de construcción. La autoridad competente registrará la manifestación de construcción y, en su caso, anotará los datos indicados en el Carnet del Director Responsable de Obra y los Corresponsables siempre que el interesado cumpla con la entrega de los documentos y proporcione los datos requeridos en el formato respectivo, sin examinar el contenido de los mismos. En caso de que faltare algunos de los requisitos, no se registrará dicha manifestación.
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-La misma autoridad entregará al interesado la manifestación de construcción registrada y una copia del croquis o los planos y demás documentos técnicos con sello y firma original. A partir de ese momento el interesado podrá iniciar la construcción.
+a) Que el propietario o poseedor, conjuntamente con el Director Responsable de Obra, presenten el formato correspondiente y ante la autoridad competente, la declaración bajo protesta de decir verdad, de cumplir con este Reglamento y demás disposiciones aplicables, anexando los documentos que se señalan para cada modalidad de manifestación de construcción.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+b) El pago de los derechos que cause el registro de manifestación de construcción y en su caso, de los aprovechamientos que procedan, los cuales deberán ser cubiertos por el propietario, poseedor o representante legal conforme a la autodeterminación que se realice de acuerdo con las tarifas establecidas por el Código Fiscal del Distrito Federal para cada modalidad de manifestación de construcción.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+La autoridad competente registrará la manifestación de construcción cuando se cumpla con la entrega de la documentación requerida, anotando los datos indicados en el Carnet del Director Responsable de Obra y los Corresponsables, sin examinar el contenido de los mismos, entregando al interesado la manifestación de construcción registrada y una copia del croquis o los planos y demás documentos técnicos con sello y firma original, pudiendo éste iniciar de forma inmediata la construcción.
+
+> <small>(DEROGADO CUARTO PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+En caso de que faltaran algunos de los requisitos, no se registrará dicha manifestación.
 
 ###### ARTÍCULO 49.
 
 En el caso de las zonas arboladas que la obra pueda afectar, la Delegación establecerá las condiciones mediante las cuales se llevará a cabo la reposición de los árboles afectados con base en las disposiciones que al efecto expida la Secretaría del Medio Ambiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 50.
 
-Registrada la manifestación de construcción, la autoridad revisará los datos y documentos ingresados y verificará el desarrollo de los trabajos, en los términos establecidos en el Reglamento de Verificación Administrativa para el Distrito Federal.
+Registrada la manifestación de construcción, la autoridad revisará los datos y documentos ingresados y verificará el desarrollo de los trabajos, en los términos establecidos en los artículos 244 y 245 del presente Reglamento.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+La Administración notificará al propietario y/o poseedor, al Director Responsable de Obra y/o Corresponsable las observaciones que se generen de la revisión por el incumplimiento de este Reglamento.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Si en un plazo definido por la misma Administración no se solventan las observaciones, se dará vista a la Comisión de Admisión de Directores Responsables de Obra y Corresponsables para su dictaminación.
 
 ###### ARTÍCULO 51.
 
@@ -662,19 +1080,27 @@ Las modalidades de manifestación de construcción son las siguientes:
 
 I. Manifestación de construcción tipo A:
 
-a) Construcción de no más de una vivienda unifamiliar de hasta 200 m2 construidos, en un predio con frente mínimo de 6 m, dos niveles, altura máxima de 5.5 m y claros libres no mayores de 4 m, la cual debe contar con la dotación de servicios y condiciones básicas de habitabilidad que señala este Reglamento, el porcentaje del área libre, el número de cajones de estacionamiento y cumplir en general lo establecido en los Programas de Desarrollo Urbano.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
+a) Construcción de no más de una vivienda unifamiliar de hasta 120 m2 construidos, en un predio con frente mínimo de 6 m, dos niveles, altura máxima de 5.5 m y claros libres no mayores de 4m, la cual deben contar con la dotación de servicios y condiciones básicas de habitabilidad, seguridad e higiene que señala este Reglamento, el porcentaje del área libre, el número de cajones de estacionamiento y cumplir en general lo establecido en los Programas de Desarrollo Urbano.
 
 Cuando el predio esté ubicado en zona de riesgo, se requerirá de manifestación de construcción tipo B;
 
-b) Ampliación de una vivienda unifamiliar, cuya edificación original cuente con licencia de construcción, registro de obra ejecutada o registro de manifestación de construcción, siempre y cuando no se rebasen: el área total de 200 m2 de construcción, incluyendo la ampliación, dos niveles, 5.5 m de altura y claros libres de 4 m;
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-c) Reparación o modificación de una vivienda, así como cambio de techos o entrepisos, siempre que los claros libres no sean mayores de 4 m ni se afecten elementos estructurales importantes;
+b) Ampliación de una vivienda unifamiliar, cuya edificación original cuente con licencia de construcción, registro de obra ejecutada o registro de manifestación de construcción, siempre y cuando no se rebasen: el área total de 120 m2 deconstrucción (sic), incluyendo la ampliación, dos niveles, 5.5 m de altura y claros libres de 4 m;
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+c) Reparación o modificación de una vivienda, así como cambio de techos o entrepisos, siempre que los claros libres no sean mayores de 4 m ni se afecten elementos estructurales;
 
 d) Construcción de bardas con altura máxima de 2.50 m;
 
 e) Apertura de claros de 1.5 m como máximo en construcciones hasta de dos niveles, si no se afectan elementos estructurales y no se cambia total o parcialmente el uso o destino del inmueble, y
 
-f) Instalación de cisternas, fosas sépticas o albañales;
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+f) Instalación o construcción de cisternas, fosas sépticas o albañales;
 
 II. Manifestación de construcción tipo B.
 
@@ -698,7 +1124,9 @@ IV. Plano o croquis que contenga la ubicación, superficie del predio, metros cu
 
 V. Aviso de intervención registrado por la Secretaría de Desarrollo Urbano y Vivienda, cuando el inmueble se encuentre en área de conservación patrimonial del Distrito Federal, y
 
-VI. Autorización emitida por autoridad competente, cuando la obra se ubique en zonas de conservación del Patrimonio Histórico, Artístico y Arqueológico de la Federación, y
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+VI. Autorización emitida por autoridad competente, cuando la obra se realice en inmuebles afectos al patrimonio cultural urbano o que esté ubicada en Áreas de Conservación Patrimonial incluyendo las Zonas de Monumentos declaradas por la Federación, y
 
 VII. Para el caso de construcciones que requieran la instalación de tomas de agua y conexión a la red de drenaje, la solicitud y comprobante del pago de derechos a que se refiere el artículo 128 de este Reglamento.
 
@@ -710,51 +1138,99 @@ El propietario o poseedor se obliga a colocar en la obra, en lugar visible y leg
 
 Para las manifestaciones de construcción tipos B y C, se deben cumplir los siguientes requisitos:
 
-I. Presentar manifestación de construcción ante la Delegación en donde se localice la obra en el formato que establezca la Administración, suscrita por el propietario, poseedor o representante legal, en la que se señalará el nombre, denominación o razón social del o de los interesados, domicilio para oír y recibir notificaciones; ubicación y superficie del predio de que se trate; nombre, número de registro y domicilio del Director Responsable de Obra y, en su caso, del o de los Corresponsables, acompañada de los siguientes documentos:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
+I. Presentar manifestación de construcción ante la Administración a través del formato establecido para ello, suscrita por el propietario, poseedor o representante legal, en la que se señalará el nombre, denominación o razón social del o de los interesados, domicilio para oír y recibir notificaciones; ubicación y superficie del predio de que se trate; nombre, número de registro y domicilio del Director Responsable de Obra y, en su caso, del o de los Corresponsables, acompañada de los siguientes documentos:
 
 a) Comprobantes de pago de los derechos correspondientes y en su caso, de los aprovechamientos;
 
-b) Constancia de alineamiento y número oficial vigente y cualquiera de los documentos siguientes: certificado único de zonificación de uso de suelo específico y factibilidades o certificado de acreditación de uso del suelo por derechos adquiridos o el resultado de la consulta del Sistema de Información Geográfica relativo al uso y factibilidades del predio;
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-c) Dos tantos del proyecto arquitectónico de la obra en planos a escala, debidamente acotados y con las especificaciones de los materiales, acabados y equipos a utilizar, en los que se debe incluir, como mínimo: croquis de localización del predio, levantamiento del estado actual, indicando las construcciones y árboles existentes; planta de conjunto, mostrando los límites del predio y la localización y uso de las diferentes partes edificadas y áreas exteriores; plantas arquitectónicas, indicando el uso de los distintos locales y las circulaciones, con el mobiliario fijo que se requiera; cortes y fachadas; cortes por fachada, cuando colinden en vía pública y detalles arquitectónicos interiores y de obra exterior; plantas, cortes e isométricos en su caso, de las instalaciones hidrosanitarias, eléctricas, gas, instalaciones especiales y otras, mostrando las trayectorias de tuberías, alimentaciones y las memorias correspondientes.
+b) Constancia de alineamiento y número oficial vigente y certificado único de zonificación de uso de suelo o certificado único de zonificación del suelo digital o certificado de acreditación de uso del suelo por derechos adquiridos, los cuales deberán ser verificados y firmados por el Director Responsable de Obra y/o Corresponsable en Diseño Urbano y Arquitectónico, en su caso;
 
-Estos planos deben acompañarse de la memoria descriptiva, la cual contendrá como mínimo: el listado de locales construidos y áreas libres de que consta la obra, con la superficie y el número de ocupantes o usuarios de cada uno; los requerimientos mínimos de acceso y desplazamiento de personas con discapacidad, cumpliendo con las Normas correspondientes; coeficientes de ocupación y de utilización del suelo, de acuerdo a los Programas General, Delegacionales y/o Parciales, en su caso; y la descripción de los dispositivos que provean el cumplimiento de los requerimientos establecidos por este Reglamento en cuanto a salidas y muebles hidrosanitarios, niveles de iluminación y superficies de ventilación de cada local, visibilidad en salas de espectáculos, resistencia de los materiales al fuego, circulaciones y salidas de emergencia, equipos de extinción de fuego, y diseño de las instalaciones hidrosanitarias, eléctricas, de gas y otras que se requieran.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-Estos documentos deben estar firmados por el propietario o poseedor, por el Director Responsable de Obra y los Corresponsables en Diseño Urbano y Arquitectónico y en Instalaciones, en su caso.
+c) Dos tantos del proyecto arquitectónico de la obra en planos a escala, debidamente acotados y con las especificaciones de los materiales, acabados y equipos a utilizar, en los que se debe incluir, como mínimo: croquis de localización del predio, levantamiento del estado actual, indicando las construcciones y árboles existentes; planta de conjunto, mostrando los límites del predio y la localización y uso de las diferentes partes edificadas y áreas exteriores; plantas arquitectónicas, indicando el uso de los distintos locales y las circulaciones, con el mobiliario fijo que se requiera y EN SU CASO, espacios para estacionamiento DE AUTOMÓVILES Y/O BICICLETAS Y/O MOTOCICLETAS; cortes y fachadas; cortes por fachada, cuando colinden en vía pública y detalles arquitectónicos interiores y de obra exterior.
 
-De los dos tantos de planos, uno quedará en poder de la Delegación y el otro en poder del propietario o poseedor; este último tanto debe conservarse en la obra;
+Estos planos deben acompañarse de la memoria descriptiva de proyecto, la cual contendrá como mínimo: el listado de locales construidos y las áreas libres, superficie y número de ocupantes o usuarios de cada uno; el análisis del cumplimiento de los Programas Delegacional o Parcial, incluyendo coeficientes de ocupación y utilización del suelo; cumpliendo con los requerimientos de este Reglamento, sus Normas Técnicas Complementarias y demás disposiciones referentes a: accesibilidad para personas con discapacidad, cantidad de estacionamientos, estacionamiento y su funcionalidad, patios de iluminación y ventilación, niveles de iluminación y ventilación en cada local, circulaciones horizontales y verticales, salidas y muebles hidrosanitarios, visibilidad en salas de espectáculos, resistencia de los materiales al fuego, circulaciones y salidas de emergencia, equipos de extinción de fuego y otras que se requieran; y en su caso, de las restricciones o afectaciones del predio.
 
-d) Dos tantos del proyecto estructural de la obra en planos debidamente acotados, con especificaciones que contengan una descripción completa y detallada de las características de la estructura incluyendo su cimentación. Se especificarán en ellos los datos esenciales del diseño como las cargas vivas y los coeficientes sísmicos considerados y las calidades de materiales. Se indicarán los procedimientos de construcción recomendados, cuando éstos difieran de los tradicionales. Deberán mostrarse en planos los detalles de conexiones, cambios de nivel y aberturas para ductos. En particular, para estructuras de concreto se indicarán mediante dibujos acotados los detalles de colocación y traslapes de refuerzo de las conexiones entre miembros estructurales.
+Estos documentos deben estar firmados por el propietario o poseedor, por el proyectista indicando su número de cédula profesional, por el Director Responsable de Obra y el Corresponsable en Diseño Urbano y Arquitectónico, en su caso.
+
+De los dos tantos de planos, uno quedará en poder de la Administración y el otro en poder del propietario o poseedor, quien entregará una copia de los mismos para su uso en la obra.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+d) Dos tantos de los proyectos de las instalaciones hidráulicas incluyendo el uso de sistemas para calentamiento de agua por medio del aprovechamiento de la energía solar conforme a los artículos 82, 83 y 89 de este Reglamento, sanitarias, eléctricas, gas e instalaciones especiales y otras que se requieran, en los que se debe incluir como mínimo: plantas, cortes e isométricos en su caso, mostrando las trayectorias de tuberías, alimentaciones, así como el diseño y memorias correspondientes, que incluyan la descripción de los dispositivos conforme a los requerimientos establecidos por este Reglamento y sus Normas en cuanto a salidas y muebles hidráulicos y sanitarios, equipos de extinción de fuego, sistema de captación y aprovechamiento de aguas pluviales en azotea y otras que considere el proyecto.
+
+Estos documentos deben estar firmados por el propietario o poseedor, por el proyectista indicando su número de cédula profesional, por el Director Responsable de Obra y el Corresponsable en Instalaciones, en su caso.
+
+De los dos tantos de planos, uno quedará en poder de la Administración y el otro en poder del propietario o poseedor, quien entregará una copia de los mismos para su uso en la obra;
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+e) Dos tantos del proyecto estructural de la obra en planos debidamente acotados, con especificaciones que contengan una descripción completa y detallada de las características de la estructura incluyendo su cimentación. Se especificarán en ellos los datos esenciales del diseño como las cargas vivas y los coeficientes sísmicos considerados y las calidades de materiales. Se indicarán los procedimientos de construcción recomendados, cuando éstos difieran de los tradicionales. Deberán mostrarse en planos los detalles de conexiones, cambios de nivel y aberturas para ductos. En particular, para estructuras de concreto se indicarán mediante dibujos acotados los detalles de colocación y traslapes de refuerzo de las conexiones entre miembros estructurales.
 
 En los planos de estructuras de acero se mostrarán todas las conexiones entre miembros, así como la manera en que deben unirse entre sí los diversos elementos que integran un miembro estructural. Cuando se utilicen remaches o tornillos se indicará su diámetro, número, colocación y calidad, y cuando las conexiones sean soldadas se mostrarán las características completas de la soldadura; éstas se indicarán utilizando una simbología apropiada y, cuando sea necesario, se complementará la descripción con dibujos acotados y a escala.
 
 En el caso de que la estructura esté formada por elementos prefabricados o de patente, los planos estructurales deberán indicar las condiciones que éstos deben cumplir en cuanto a su resistencia y otros requisitos de comportamiento. Deben especificarse los herrajes y dispositivos de anclaje, las tolerancias dimensionales y procedimientos de montaje.
 
-Deberán indicarse asimismo, los procedimientos de apuntalamiento, erección de elementos prefabricados y conexiones de una estructura nueva con otra existente.
+Deberán indicarse, asimismo, los procedimientos de apuntalamiento, erección de elementos prefabricados y conexiones de una estructura nueva con otra existente.
 
 En los planos de fabricación y en los de montaje de estructuras de acero o de concreto prefabricado, se proporcionará la información necesaria para que la estructura se fabrique y monte de manera que se cumplan los requisitos indicados en los planos estructurales.
 
-Estos planos deben acompañarse de la memoria de cálculo en la cual se describirán, con el nivel de detalle suficiente para que puedan ser evaluados por un especialista externo al proyecto, los criterios de diseño estructural adoptados y los principales resultados del análisis y el dimensionamiento. Se incluirán los valores de las acciones de diseño y los modelos y procedimientos empleados para el análisis estructural. Se incluirá una justificación del diseño de la cimentación y de los demás documentos especificados en el Título Sexto de este Reglamento.
+Los planos deben acompañarse de la memoria de cálculo, en la cual se describirán con el nivel de detalle suficiente para que puedan ser evaluados por un especialista externo al proyecto, debiendo respetarse los contenidos señalados en lo dispuesto en la memoria de cálculo estructural consignada a continuación.
 
-De los dos tantos de planos, uno quedará en poder de la Delegación y el otro en poder del propietario o poseedor; este último tanto debe conservarser (sic) en la obra.
+La memoria de cálculo será expedida en papel membretado de la empresa o del proyectista, en donde conste su número de cédula profesional y firma, así como la descripción del proyecto, conteniendo localización, número de niveles subterráneos y uso, conforme a los siguientes rubros:
 
-Los planos anteriores deben incluir el proyecto de protección a colindancias y el estudio de mecánica de suelos cuando proceda, de acuerdo con lo establecido en este Reglamento. Estos documentos deben estar firmados por el Director Responsable de Obra y el Corresponsable en Seguridad Estructural, en su caso;
+> <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 17 DE JUNIO DE 2016, PÁGINAS DE LA 20 A LA 21.]</small>
 
-e) Libro de bitácora de obra foliado, para ser sellado por la Delegación correspondiente, el cual debe conservarse en la obra, y
+De los dos tantos de planos, uno quedará en poder de la Administración y el otro en poder del propietario o poseedor; quien entregará una copia de los mismos para su uso en la obra.
 
-f) Responsiva del Director Responsable de Obra del proyecto de la obra, así como de los Corresponsables en los supuestos señalados en el artículo 36 de este Reglamento;
+Los planos anteriores deberán incluir el proyecto de protección a colindancias y estar firmados por el proyectista indicando su número de cédula profesional, así como por el Director Responsable de Obra y el Corresponsable en Seguridad Estructural, en su caso;
 
-II. Para el caso de construcciones que requieran la instalación o modificación de tomas de agua y conexión a la red de drenaje, la solicitud y comprobante del pago de derechos a que se refiere el artículo 128 de este Reglamento;
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+f) Estudio de mecánica de suelos del predio de acuerdo con los alcances y lo establecido en las Normas Técnicas Complementarias para Diseño y Construcción de Cimentaciones de este Reglamento, incluyendo los procedimientos constructivos de la excavación, muros de contención y cimentación, así como las recomendaciones de protección a colindancias. El estudio debe estar firmado por el especialista indicando su número de cédula profesional, así como por el Director Responsable de Obra y por el Corresponsable en Seguridad Estructural, en su caso;
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+g) Acuse de ingreso de la orden de revisión del proyecto estructural emitido por el Instituto para el caso de las edificaciones que pertenezcan al grupo A o subgrupo B1, según el artículo 139 de este Reglamento, o para las edificaciones del subgrupo B2 que el Instituto así lo solicite;
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+h) Libro de bitácora de obra foliado, para ser sellado por la Administración, el cual debe conservarse en la obra, realizando su apertura en el sitio con la presencia de los autorizados para usarla, quienes lo firmarán en ese momento;
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+i) Responsiva del Director Responsable de Obra del proyecto de la obra, así como de los Corresponsables en los supuestos señalados en el artículo 36 de este Reglamento; y
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+j) Póliza vigente del seguro de responsabilidad civil por daños a terceros en las obras clasificadas en el grupo A y subgrupo B1, según el artículo 139 de este Reglamento, por un monto asegurado no menor del 10% del costo total de la obra construida por el tiempo de vigencia de la Manifestación de Construcción.
+
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+II. Para el caso de construcciones que requieran la instalación o modificación de tomas de agua y conexión a la red de drenaje, la solicitud y comprobante del pago de derechos, así como la aprobación de la factibilidad de instalación de medidor de agua potable para las tomas de agua y en su caso, las ramificaciones que involucren la construcción de locales y departamentos a que se refiere el artículo 128 de este Reglamento;
 
 III. Presentar dictamen favorable del estudio de impacto urbano o impacto urbano-ambiental, para los casos señalados en la fracción III del artículo 51 de este Reglamento, y
 
-IV. Presentar acuse de recibo del aviso de ejecución de obras ante la Secretaría del Medio Ambiente, cuando se trate de proyectos habitacionales de más de 20 viviendas.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
+IV. Presentar acuse de recibo de la Declaratoria Ambiental ante la Secretaría del Medio Ambiente, cuando se trate de proyectos habitacionales de más de 20 viviendas.
 
 Cuando la obra se localice en un predio perteneciente a dos o más Delegaciones, o se trate de vivienda de interés social o popular que forme parte de los programas promovidos por las dependencias y entidades de la Administración, la manifestación de construcción se presentará ante la Secretaría de Desarrollo Urbano y Vivienda.
 
-Cuando se trate de zonas de conservación del Patrimonio Histórico, Artístico y Arqueológico de la Federación o área de conservación patrimonial del Distrito Federal, se requiere además, cuando corresponda, el dictamen técnico de la Secretaría de Desarrollo Urbano y Vivienda, el visto bueno del Instituto Nacional de Bellas Artes y/o la licencia del Instituto Nacional de Antropología e Historia, así como la responsiva de un Corresponsable en Diseño Urbano y Arquitectónico.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-En el caso de ampliaciones, modificaciones o reparaciones en edificaciones existentes, se debe presentar, de la obra original, la licencia de construcción especial o el registro de manifestación de construcción o el registro de obra ejecutada, así como indicar en planos la edificación original y el área donde se realizarán estos trabajos.
+Cuando se trate de Áreas de Conservación Patrimonial de la Ciudad de México, o Zonas de monumentos declaradas por la Federación, se requerirá el dictamen técnico favorable de la Secretaría de Desarrollo Urbano y Vivienda cuando corresponda, así como el visto bueno del Instituto Nacional de Bellas Artes y/o la licencia del Instituto Nacional de Antropología e Historia, y la responsiva de un Corresponsable en Diseño Urbano y Arquitectónico.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+En el caso de ampliaciones, modificaciones o reparaciones en edificaciones existentes, se debe presentar cualquiera de los siguientes documentos de la obra original: licencia de construcción, licencia de construcción especial en zona de conservación, registro de manifestación de construcción, registro de obra ejecutada o planos arquitectónicos y/o estructurales donde se establezca que se obtuvo la correspondiente autorización, así como indicar en planos la edificación original y el área donde se realizarán estos trabajos. Se exceptúan de este supuesto los inmuebles declarados monumentos históricos y/o artísticos a que se refiere la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, así como los inmuebles afectos al patrimonio cultural urbano indicados en los Programas de Desarrollo Urbano, acreditando lo anterior a través de dictamen, ficha técnica u oficio emitido por el área competente de la Secretaría de Desarrollo Urbano y Vivienda, del Instituto Nacional de Antropología e Historia o del Instituto Nacional de Bellas Artes.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+El servidor público no podrá solicitar documentos adicionales que no estén contemplados en este Reglamento, ni en el Manual de Trámites y Servicios al Público.
 
 ###### ARTÍCULO 54.
 
@@ -772,21 +1248,37 @@ b) Dos años, para la edificación de obras con superficie mayor a 300 m2 y hast
 
 c) Tres años, para la edificación de obras con superficie de más de 1,000 m2.
 
-El propietario o poseedor debe informar a la Delegación de la conclusión de los trabajos, dentro de los 15 días siguientes como se indica en el artículo 65 de este Reglamento.
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Por cada manifestación de construcción podrán otorgarse hasta dos prórrogas para las fracciones señaladas anteriormente.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+El propietario o poseedor debe informar a la Administración de la conclusión de los trabajos, dentro de los 15 días siguientes como se indica en el artículo 65 de este Reglamento.
 
 ### CAPÍTULO II. DE LAS LICENCIAS DE CONSTRUCCIÓN ESPECIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 55.
 
-La licencia de construcción especial es el documento que expide la Delegación antes de construir, ampliar, modificar, reparar, demoler o desmantelar una obra o instalación.
+La licencia de construcción especial es el documento que expide la Administración para poder construir, ampliar, modificar, reparar, instalar, demoler, desmantelar una obra o instalación, colocar tapial, excavar cuando no sea parte del proceso de construcción de un edificio, así como para realizar estas actividades en suelo de conservación.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+La licencia de construcción especial y una copia de los planos sellados se entregarán al propietario o poseedor, o al representante legal, quien entregará una copia de los mismos para su uso en la obra.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 56.
 
-Los derechos que causen las licencias de construcción especial serán cubiertos conforme al Código Financiero del Distrito Federal, los cuales se autodeterminarán por los interesados.
+Los derechos que causen las licencias de construcción especial serán cubiertos conforme al Código Fiscal del Distrito Federal, los cuales se auto determinarán por los interesados.
 
-La licencia de construcción especial y una copia de los planos sellados se entregarán al propietario o poseedor, o al representante legal.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
-En el caso de las zonas arboladas que la obra pueda afectar, la Delegación establecerá las condiciones mediante las cuales se llevará a cabo la reposición de los árboles afectados con base en las disposiciones que al efecto expida la Secretaría del Medio Ambiente.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+En el caso de las zonas arboladas que la obra pueda afectar, la Administración establecerá las condiciones mediante las cuales se llevará a cabo la reposición de los árboles afectados con base en las disposiciones que al efecto expida la Secretaría del Medio Ambiente.
 
 ###### ARTÍCULO 57.
 
@@ -794,7 +1286,9 @@ Las modalidades de licencias de construcción especial que se regulan en el pres
 
 I. Edificaciones en suelo de conservación;
 
-II. Instalaciones subterráneas o aéreas en la vía pública;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+II. Instalaciones subterráneas, aéreas y sobre superficie en la vía pública;
 
 III. Estaciones repetidoras de comunicación celular o inalámbrica;
 
@@ -804,9 +1298,17 @@ V. Excavaciones o cortes cuya profundidad sea mayor de un metro;
 
 VI. Tapiales que invadan la acera en una medida superior a 0.5 m;
 
-VII. Obras o instalaciones temporales en propiedad privada y de la vía pública para ferias, aparatos mecánicos, circos, carpas, graderías desmontables y otros similares, y
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
-VIII. Instalaciones o modificaciones en edificaciones existentes, de ascensores para personas, montacargas, escaleras mecánicas o cualquier otro mecanismo de transporte electro-mecánico.
+VII. Obras o instalaciones temporales en propiedad privada y de la vía pública para ferias, aparatos mecánicos, circos, carpas, graderías desmontables y otros similares; e
+
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+VIII. Instalaciones o modificaciones en edificaciones existentes, de ascensores para personas, montacargas, escaleras mecánicas o cualquier otro mecanismo de transporte electro-mecánico, equipos contra incendio y tanques de almacenamiento y/o instalación de maquinaria, con o sin plataformas.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+La licencia de construcción especial señalada en la fracción V, no será exigida cuando la excavación constituya una etapa de la edificación contenida en el registro de manifestación de construcción tipo B o C.
 
 ###### ARTÍCULO 58.
 
@@ -814,53 +1316,101 @@ Para obtener la licencia de construcción especial, se deben cumplir con los sig
 
 I. Cuando se trate de edificaciones en suelo de conservación, entregar:
 
-a) Solicitud ante la Delegación en donde se localice la obra, en el formato que establezca la Administración, suscrita por el propietario, poseedor o representante legal, en la que se señale el nombre, denominación o razón social del o de los interesados, domicilio para oír y recibir notificaciones; ubicación y superficie del predio de que se trate; nombre, número de registro y domicilio del Director Responsable de Obra y, en su caso, del o de los Corresponsables;
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+a) Solicitud ante la Administración en donde se localice la obra, en el formato que se establezca, suscrita por el propietario, poseedor o representante legal, en la que se señale el nombre, denominación o razón social del o de los interesados, domicilio para oír y recibir notificaciones; ubicación y superficie del predio de que se trate; nombre, número de registro y domicilio del Director Responsable de Obra y, en su caso, del o de los Corresponsables;
 
 b) Comprobante de pago de derechos;
 
-c) Constancia de alineamiento y número oficial vigente y además cualesquiera de los documentos siguientes: certificado único de zonificación de uso de suelo específico y factibilidades o certificado de acreditación de uso del suelo por derechos adquiridos o el resultado de la consulta del Sistema de Información Geográfica relativo al uso y factibilidades del predio;
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-d) Proyecto de captación de agua pluvial y tratamiento de aguas residuales autorizados por la Secretaría del Medio Ambiente;
+c) Constancia de alineamiento y número oficial vigente y certificado único de zonificación de uso de suelo o certificado único de zonificación del suelo digital o certificado de acreditación de uso del suelo por derechos adquiridos, los cuales deberán ser verificados y firmados por el Director Responsable de Obra y/o Corresponsable en Diseño Urbano y Arquitectónico, en su caso;
 
-e) Dos tantos del proyecto arquitectónico de la obra en planos a escala, debidamente acotados y con las especificaciones de los materiales, acabados y equipos a utilizar, en los que se deberán incluir, como mínimo: croquis de localización del predio, levantamiento del estado actual, indicando las construcciones y árboles existentes; planta de conjunto, mostrando los límites del predio y la localización y uso de las diferentes partes edificadas y áreas exteriores; plantas arquitectónicas, indicando el uso de los distintos locales y las circulaciones, con el mobiliario fijo que se requiera; cortes y fachadas; cortes por fachada, cuando colinden en vía pública y detalles arquitectónicos interiores y de obra exterior; plantas, cortes e isométricos en su caso, de las instalaciones hidrosanitarias, eléctricas, gas, instalaciones especiales y otras, mostrando las trayectorias de tuberías, alimentaciones y las memorias correspondientes.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-Estos planos deberán acompañarse de la memoria descriptiva, la cual contendrá como mínimo: el listado de locales construidos y áreas libres de que consta la obra, con la superficie y el número de ocupantes o usuarios de cada uno; los requerimientos mínimos de acceso y desplazamiento de personas con discapacidad, cumpliendo con las Normas correspondientes; coeficientes de ocupación y de utilización del suelo, de acuerdo a los Programas General, Delegacionales y/o Parciales, en su caso; y la descripción de los dispositivos que provean el cumplimiento de los requerimientos establecidos por este Reglamento en cuanto a salidas y muebles hidrosanitarios, niveles de iluminación y superficies de ventilación de cada local, visibilidad en salas de espectáculos, resistencia de los materiales al fuego, circulaciones y salidas de emergencia, equipos de extinción de fuego, y diseño de las instalaciones hidrosanitarias, eléctricas, de gas y otras que se requieran.
+d) Proyecto alternativo de captación y aprovechamiento de aguas pluviales y de tratamiento de aguas residuales aprobados por el Sistema de Aguas de la Ciudad de México;
 
-Estos documentos deberán estar firmados por el propietario o poseedor, por el Director Responsable de Obra y los Corresponsables en Diseño Urbano y Arquitectónico y en Instalaciones, en su caso.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-De los dos tantos de planos, uno quedará en poder de la Delegación y el otro en poder del propietario o poseedor; este último tanto deberá conservarse en la obra;
+e) Dos tantos del proyecto arquitectónico de la obra en planos a escala, debidamente acotados y con las especificaciones de los materiales, acabados y equipos a utilizar, en los que se debe incluir, como mínimo: croquis de localización del predio, levantamiento del estado actual, indicando las construcciones y árboles existentes; planta de conjunto, mostrando los límites del predio y la localización y uso de las diferentes partes edificadas y áreas exteriores; plantas arquitectónicas, indicando el uso de los distintos locales y las circulaciones, con el mobiliario fijo que se requiera; cortes y fachadas; cortes por fachada, cuando colinden en vía pública y detalles arquitectónicos interiores y de obra exterior.
 
-f) Dos tantos del proyecto estructural de la obra en planos debidamente acotados, con especificaciones que contengan una descripción completa y detallada de las características de la estructura incluyendo su cimentación. Se especificarán en ellos los datos esenciales del diseño como las cargas vivas y los coeficientes sísmicos considerados y las calidades de materiales. Se indicarán los procedimientos de construcción recomendados, cuando éstos difieran de los tradicionales. Deberán mostrarse en planos los detalles de conexiones, cambios de nivel y aberturas para ductos. En particular, para estructuras de concreto se indicarán mediante dibujos acotados los detalles de colocación y traslapes de refuerzo de las conexiones entre miembros estructurales.
+Estos planos deben acompañarse de la memoria descriptiva de proyecto, la cual contendrá como mínimo: el listado de locales construidos y las áreas libres, superficie y número de ocupantes o usuarios de cada uno; el análisis del cumplimiento de los Programas Delegacional o Parcial, incluyendo coeficientes de ocupación y utilización del suelo; cumpliendo con los requerimientos de este Reglamento, sus Normas Técnicas Complementarias y demás disposiciones referentes a: accesibilidad para personas con discapacidad, cantidad de estacionamientos, estacionamiento y su funcionalidad, patios de iluminación y ventilación, niveles de iluminación y ventilación en cada local, circulaciones horizontales y verticales, salidas y muebles hidrosanitarios, visibilidad en salas de espectáculos, resistencia de los materiales al fuego, circulaciones y salidas de emergencia, equipos de extinción de fuego y otras que se requieran; y en su caso, de las restricciones o afectaciones del predio.
+
+Estos documentos deben estar firmados por el propietario o poseedor, por el proyectista indicando su número de cédula profesional, por el Director Responsable de Obra y el Corresponsable en Diseño Urbano y Arquitectónico, en su caso.
+
+De los dos tantos de planos, uno quedará en poder de la Administración y el otro en poder del propietario o poseedor, quien entregará una copia de los mismos para su uso en la obra;
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+f) Dos tantos de los proyectos de las instalaciones hidráulicas incluyendo el uso de sistemas para calentamiento de agua por medio del aprovechamiento de la energía solar, conforme a los artículos 82, 83 y 89 de este Reglamento, sanitarias, eléctricas, de gas e instalaciones especiales y otras que se requieran, en los que se debe incluir como mínimo: plantas, cortes e isométricos en su caso, mostrando las trayectorias de tuberías, alimentaciones, así como el diseño y memorias correspondientes; incluyendo la descripción de los dispositivos que cumplan con los requerimientos establecidos por este Reglamento y sus Normas en cuanto a salidas y muebles hidráulicos y sanitarios, equipos de extinción de fuego, sistema de captación y aprovechamiento de aguas pluviales en azotea y otras que considere el proyecto.
+
+Estos documentos deben estar firmados por el propietario o poseedor, por el proyectista indicando su número de cédula profesional, por el Director Responsable de Obra y el Corresponsable en Instalaciones, en su caso.
+
+De los dos tantos de planos, uno quedará en poder de la Administración y el otro en poder del propietario o poseedor, quien entregará una copia de los mismos para su uso en la obra;
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+g) Dos tantos del proyecto estructural de la obra en planos debidamente acotados, con especificaciones que contengan una descripción completa y detallada de las características de la estructura incluyendo su cimentación. Se especificarán en ellos los datos esenciales del diseño como las cargas vivas y los coeficientes sísmicos considerados y las calidades de materiales. Se indicarán los procedimientos de construcción recomendados, cuando éstos difieran de los tradicionales. Deberán mostrarse en planos los detalles de conexiones, cambios de nivel y aberturas para ductos. En particular, para estructuras de concreto se indicarán mediante dibujos acotados los detalles de colocación y traslapes de refuerzo de las conexiones entre miembros estructurales.
 
 En los planos de estructuras de acero se mostrarán todas las conexiones entre miembros, así como la manera en que deben unirse entre sí los diversos elementos que integran un miembro estructural. Cuando se utilicen remaches o tornillos se indicará su diámetro, número, colocación y calidad, y cuando las conexiones sean soldadas se mostrarán las características completas de la soldadura; éstas se indicarán utilizando una simbología apropiada y, cuando sea necesario, se complementará la descripción con dibujos acotados y a escala.
 
 En el caso de que la estructura esté formada por elementos prefabricados o de patente, los planos estructurales deberán indicar las condiciones que éstos deben cumplir en cuanto a su resistencia y otros requisitos de comportamiento. Deberán especificarse los herrajes y dispositivos de anclaje, las tolerancias dimensionales y procedimientos de montaje.
 
-Deberán indicarse asimismo, los procedimientos de apuntalamiento, erección de elementos prefabricados y conexiones de una estructura nueva con otra existente.
+Deberán indicarse, asimismo, los procedimientos de apuntalamiento, erección de elementos prefabricados y conexiones de una estructura nueva con otra existente.
 
 En los planos de fabricación y en los de montaje de estructuras de acero o de concreto prefabricado, se proporcionará la información necesaria para que la estructura se fabrique y monte de manera que se cumplan los requisitos indicados en los planos estructurales.
 
-Estos planos serán acompañados de la memoria de cálculo en la cual se describirán, con el nivel de detalle suficiente para que puedan ser evaluados por un especialista externo al proyecto, los criterios de diseño estructural adoptados y los principales resultados del análisis y el dimensionamiento. Se incluirán los valores de las acciones de diseño y los modelos y procedimientos empleados para el análisis estructural. Se incluirá una justificación del diseño de la cimentación y de los demás documentos especificados en el Título Sexto de este Reglamento.
+Los planos estructurales deben acompañarse de la memoria de cálculo en la cual se describirán con el nivel de detalle suficiente para que puedan ser evaluados por un especialista externo al proyecto, debiéndose respetar los contenidos señalados en lo dispuesto en la memoria estructural consignada en el artículo 53 fracción I, inciso e) de este Reglamento.
 
-De los dos tantos de planos, uno quedará en poder de la Delegación y el otro en poder del propietario o poseedor; este último tanto deberá conservarse en la obra.
+De los dos tantos de planos, uno quedará en poder de la Administración y el otro en poder del propietario o poseedor, quien entregará una copia de los mismos para su uso en la obra.
 
-Los planos anteriores deberán incluir el proyecto de protección a colindancias y el estudio de mecánica de suelos cuando proceda, de acuerdo con lo establecido en este Reglamento. Estos documentos deberán estar firmados por el Director Responsable de Obra y el Corresponsable en Seguridad Estructural, en su caso;
+Los planos anteriores, deberán incluir el proyecto de protección a colindancias y estar firmados por el proyectista indicando su número de cédula profesional, así como por el Director Responsable de Obra y el Corresponsable en Seguridad Estructural, en su caso;
 
-g) Libro de bitácora de obra foliado, para ser sellado por la Delegación correspondiente, el cual debe conservarse en la obra;
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-h) Responsiva del Director Responsable de Obra del proyecto de la obra, así como de los Corresponsables en los supuestos señalados en el artículo 36 de este Reglamento, y
+h) Estudio de mecánica de suelos del predio de acuerdo con los alcances y lo establecido en las Normas Técnicas Complementarias para Diseño y Construcción de Cimentaciones de este Reglamento, incluyendo los procedimientos constructivos de la excavación, muros de contención y cimentación, así como las recomendaciones de protección a colindancias. El estudio debe estar firmado por el especialista indicando su número de cédula profesional, así como por el Director Responsable de Obra y por el Corresponsable en Seguridad Estructural, en su caso;
 
-i) Presentar dictamen favorable del estudio de impacto ambiental, en su caso.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-Cuando se trate de zonas de conservación del Patrimonio Histórico, Artístico y Arqueológico de la Federación o área de conservación patrimonial del Distrito Federal, se requiere además, cuando corresponda, el dictamen técnico de la Secretaría de Desarrollo Urbano y Vivienda, el visto bueno del Instituto Nacional de Bellas Artes y/o la licencia del Instituto Nacional de Antropología e Historia, así como la responsiva de un Corresponsable en Diseño Urbano y Arquitectónico;
+i) Acuse de ingreso de la orden de revisión del proyecto estructural emitido por el Instituto para el caso de las edificaciones que pertenezcan al Grupo A y Subgrupo B1 según el artículo 139 de este Reglamento, o para las edificaciones del Subgrupo B2 que el Instituto así lo solicite;
 
-II. Cuando se trate de instalaciones subterráneas o aéreas en la vía pública, se debe entregar:
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-a) Solicitud ante la Delegación en donde se localice la obra, en el formato que establezca la Administración, suscrita por el interesado, en la que se señale el nombre, denominación o razón social y en su caso, del representante legal; domicilio para oír y recibir notificaciones; ubicación y características principales de la instalación de que se trate; nombre, número de registro y domicilio del Director Responsable de Obra y los Corresponsables;
+j) Libro de bitácora de obra foliado, para ser sellado por la Administración correspondiente, el cual debe conservarse en la obra, realizando su apertura en el sitio con la presencia de los autorizados para usarla, quienes lo firmaran en ese momento;
 
-b) Comprobante de pago de derechos;
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-c) Cinco tantos de los planos arquitectónicos, estructurales y de instalaciones, así como las memorias de cálculo respectivas, signados por el Director Responsable de Obra y del Corresponsable en Instalaciones, cuando se trate de obras para la conducción de fluidos eléctricos, gas natural, petroquímicos y petrolíferos. El proyecto deberá ser formulado de conformidad con las Normas y demás disposiciones aplicables en la materia;
+k) Responsiva del Director Responsable de Obra del proyecto de la obra, así como de los Corresponsables en los supuestos señalados en el artículo 36 de este Reglamento;
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+l) Dictamen favorable del estudio de impacto ambiental, en su caso;
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+m) Póliza vigente del seguro de responsabilidad civil por daños a terceros en las obras clasificadas en el Grupo A y Subgrupo B1, según el artículo 139 de este Reglamento. Por un monto asegurado no menor del 10% del costo total de la obra construida por el tiempo de vigencia de la licencia de construcción especial; y
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+n) Dictamen técnico favorable de la Secretaría de Desarrollo Urbano y Vivienda cuando se trate de Áreas de Conservación Patrimonial y/o inmuebles afectos al patrimonio cultural urbano o sus colindantes; y/o visto bueno del Instituto Nacional de Bellas Artes y/o la licencia del Instituto Nacional de Antropología e Historia para el caso de un monumento histórico, artístico o arqueológico, según sea su ámbito de competencia de acuerdo con lo establecido en la Ley Federal en la materia;
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
+II. Cuando se trate de instalaciones subterráneas, aéreas o sobre superficie, de demolición del pavimento o cortes en las banquetas y guarniciones en la vía pública, se deberá entregar:
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+a) Solicitud ante la Administración en el formato que establezca la misma, suscrita por el interesado, en la que se señale el nombre, denominación o razón social y, en su caso, del representante legal; domicilio para oír y recibir notificaciones; ubicación y características principales de la instalación de que se trate; nombre, número de registro, firma y domicilio del Director Responsable de Obra y de los Corresponsables;
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+b) Comprobante de pago de derechos y, en su caso, de los aprovechamientos;
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+c) Cinco tantos de los planos arquitectónicos, estructurales y de instalaciones, así como las memorias de cálculo respectivas, signados por el Director Responsable de Obra y del Corresponsable en Instalaciones, cuando se trate de obras para la conducción de fluidos eléctricos, gas natural, petroquímicos y petrolíferos. El proyecto deberá ser formulado de conformidad con las Normas y demás disposiciones aplicables en la materia y autorizado por la Secretaría de Obras y Servicios;
 
 d) Versión en archivo electrónico de los planos indicados en el inciso anterior;
 
@@ -868,39 +1418,59 @@ e) Memoria descriptiva y de instalaciones signadas por el Director Responsable d
 
 f) Visto bueno de las áreas involucradas de la Administración Pública Federal y/o local, de conformidad con las disposiciones aplicables;
 
-g) Libro de bitácora de obra foliado para ser sellado por la Delegación correspondiente, el cual debe conservarse en la obra, y
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-h) Responsiva del Director Responsable de Obra y el Corresponsable en Instalaciones.
+g) Libro de bitácora de obra foliado para ser sellado por la Administración correspondiente, el cual debe conservarse en la obra, realizando su apertura en el sitio con la presencia de los autorizados para usarla, quienes lo firmarán en ese momento; y
 
-Cuando se trate de zonas de conservación del Patrimonio Histórico, Artístico y Arqueológico de la Federación, se exigirá el visto bueno del Instituto Nacional de Bellas Artes y/o la licencia del Instituto Nacional de Antropología e Historia.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
-De los cinco tantos de planos y el archivo electrónico de los mismos, uno quedará en poder de la Delegación, otro será para el interesado, el tercero para el Director Responsable de Obra, el cuarto tanto deberá conservarse en la obra y el quinto junto con el archivo electrónico quedará en poder de la Dirección General de Obras Públicas, de la Secretaría de Obras y Servicios.
+h) Responsiva del Director Responsable de Obra y el Corresponsable en Instalaciones, quienes deberán entregar periódicamente los informes técnicos detallados de la obra a la Secretaría de Obras y Servicios, los cuales consignarán las medidas preventivas en su caso, que garanticen la seguridad y la movilidad urbana.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Cuando se trate de Áreas de Conservación Patrimonial y/o inmuebles afectos al patrimonio cultural urbano, se deberá contar con la aprobación de la Secretaría de Desarrollo Urbano y Vivienda; cuando sea competencia de la Federación de acuerdo con lo indicado en la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, deberá contar con el visto bueno del Instituto Nacional de Bellas Artes y/o la licencia del Instituto Nacional de Antropología e Historia, según sea su ámbito de competencia.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+De los cinco tantos de planos y el archivo electrónico de los mismos, uno quedará en poder de la Administración, otro será para el interesado, el tercero para el Director Responsable de Obra, el cuarto tanto deberá conservarse en la obra y el quinto junto con el archivo electrónico quedará en poder de la Dirección General de Obras Públicas, de la Secretaría de Obras y Servicios;
 
 III. Cuando se trate de estaciones repetidoras de comunicación celular y/o inalámbrica, se debe entregar:
 
-a) Solicitud ante la Delegación en donde se localice la obra, en el formato que establezca la Administración, suscrita por el interesado, en la que se señalará el nombre, denominación o razón social y en su caso, del representante legal; domicilio para oír y recibir notificaciones; ubicación y características principales de la obra y/o instalación de que se trate; nombre, número de registro y domicilio del Director Responsable de Obra y de los Corresponsables;
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+a) Solicitud ante la Administración en el formato que establezca la misma, suscrita por el interesado, en la que se señale el nombre, denominación o razón social y en su caso, del representante legal; domicilio para oír y recibir notificaciones; ubicación y características principales de la obra y/o instalación de que se trate; nombre, número de registro, firma y domicilio del Director Responsable de Obra y de los Corresponsables;
 
 b) Comprobantes de pago de derechos;
 
-c) Constancia de alineamiento y número oficial vigente y el resultado de la consulta del Sistema de Información Geográfica relativo al uso del suelo o certificado de zonificación para usos de suelo específico, o certificado de acreditación de uso del suelo por derechos adquiridos;
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+c) Constancia de alineamiento y número oficial vigente y certificado único de zonificación de uso de suelo o certificado único de zonificación del suelo digital o certificado de zonificación de usos del suelo específico o certificado de acreditación de uso del suelo por derechos adquiridos;
 
 d) Cinco tantos de los planos arquitectónicos, estructurales, de instalaciones, los cálculos y memorias descriptivas, signados por el Director Responsable de Obra y el o los Corresponsables en su caso. El proyecto debe ser formulado de conformidad con las Normas y demás disposiciones aplicables en la materia;
 
 e) Versión en archivo electrónico de los planos indicados en el inciso anterior;
 
-f) Libro de bitácora de obra foliado para ser sellado por la Delegación correspondiente, el cual debe conservarse en la obra;
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+f) Libro de bitácora de obra foliado para ser sellado por la Administración correspondiente, el cual debe conservarse en la obra, realizando su apertura en el sitio con la presencia de los autorizados para usarla, quienes lo firmaran en ese momento;
 
 g) Responsiva del Director Responsable de Obra y el o los Corresponsables, en su caso, y
 
 h) Dictámenes de la Secretaría de Desarrollo Urbano y Vivienda y de las demás dependencias, órganos o entidades de la Administración Pública Federal y/o local que señalen las disposiciones en la materia.
 
-Cuando se trate de zonas de conservación del Patrimonio Histórico, Artístico y Arqueológico de la Federación, se exigirá el visto bueno del Instituto Nacional de Bellas Artes y/o la licencia del Instituto Nacional de Antropología e Historia.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-De los cinco tantos de planos, uno quedará en poder de la Delegación, otro será para el interesado, el tercero para el Director Responsable de Obra, el cuarto tanto debe conservarse en la obra y el quinto, junto con el archivo electrónico, quedará en poder de la Secretaría de Desarrollo Urbano y Vivienda;
+Cuando se trate de Áreas de Conservación Patrimonial y/o inmuebles afectos al patrimonio cultural urbano, se deberá contar con la aprobación de la Secretaría de Desarrollo Urbano y Vivienda; cuando sea competencia de la Federación de acuerdo con lo indicado en la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, deberá contar con el visto bueno del Instituto Nacional de Bellas Artes y/o la licencia del Instituto Nacional de Antropología e Historia, según sea su ámbito de competencia.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+De los cinco tantos de planos, uno quedará en poder de la Administración, otro será para el interesado, el tercero para el Director Responsable de Obra, el cuarto tanto debe conservarse en la obra y el quinto, junto con el archivo electrónico, quedará en poder de la Secretaría de Desarrollo Urbano y Vivienda;
 
 IV. Cuando se trate de demoliciones, salvo en el caso señalado en la fracción VI del artículo 62, se debe entregar:
 
-a) Solicitud ante la Delegación en donde se localice la obra, en el formato que establezca la Administración, suscrita por el interesado, en la que se señalará el nombre, denominación o razón social y en su caso, del representante legal; domicilio para oír y recibir notificaciones; ubicación y características principales de la obra de que se trate; nombre, número de registro y domicilio del Director Responsable de Obra y los Corresponsables;
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+a) Solicitud ante la Administración en el formato que establezca la misma, suscrita por el interesado, en la que se señale el nombre, denominación o razón social y en su caso, del representante legal; domicilio para oír y recibir notificaciones; ubicación y características principales de la obra y/o instalación de que se trate; nombre, número de registro, firma y domicilio del Director Responsable de Obra y de los Corresponsables;
 
 b) Acreditar la propiedad del inmueble;
 
@@ -908,7 +1478,9 @@ c) Comprobantes de pago de derechos;
 
 d) Constancia de alineamiento y número oficial vigente;
 
-e) Libro de bitácora foliado para ser sellado por la Delegación;
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+e) Libro de bitácora de obra foliado para ser sellado por la Administración correspondiente, el cual debe conservarse en la obra, realizando su apertura en el sitio con la presencia de los autorizados para usarla, quienes lo firmaran en ese momento;
 
 f) Responsiva del Director Responsable de Obra y de los Corresponsables, en su caso;
 
@@ -920,27 +1492,37 @@ i) En su caso, el programa a que se refiere el artículo 236 y lo establecido en
 
 Se deberá cumplir con lo establecido en la Ley de Residuos Sólidos del Distrito Federal y las Normas Ambientales aplicables.
 
-Para demoler inmuebles declarados como parte del Patrimonio Cultural del Distrito Federal, se requiere autorización expresa del Jefe de Gobierno del Distrito Federal.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Cuando se trate de demoler inmuebles en Áreas de Conservación Patrimonial y/o inmuebles afectos al patrimonio cultural urbano, se deberá contar con la aprobación de la Secretaría de Desarrollo Urbano y Vivienda; cuando sea competencia de la Federación de acuerdo a lo indicado en la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, deberá contar con el visto bueno del Instituto Nacional de Bellas Artes y/o la licencia del Instituto Nacional de Antropología e Historia según sea su ámbito de competencia;
 
 V. Cuando se trate de las licencias de construcción especial señaladas en las fracciones V, VI, VII y VIII del artículo 57 de este Reglamento, se debe entregar:
 
-a) Solicitud ante la Delegación en donde se localice la obra, en el formato que establezca la Administración, suscrita por el interesado, en la que se señale el nombre, denominación o razón social y en su caso, del representante legal; domicilio para oír y recibir notificaciones; ubicación y características principales de la obra o instalación de que se trate; nombre, número de registro y domicilio del Director Responsable de Obra y los Corresponsables;
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+a) Solicitud ante la Administración en el formato que establezca la misma, suscrita por el interesado, en la que se señale el nombre, denominación o razón social y en su caso, del representante legal; domicilio para oír y recibir notificaciones; ubicación y características principales de la obra y/o instalación de que se trate; nombre, número de registro, firma y domicilio del Director Responsable de Obra y delos (sic) Corresponsables;
 
 b) Comprobantes de pago de derechos, y
 
 c) Responsiva del Director Responsable de Obra y los Corresponsables, en su caso.
 
-Para instalaciones o modificaciones en edificaciones existentes, de ascensores para personas, montacargas, escaleras mecánicas o cualquier otro mecanismo de transporte electromecánico, la solicitud de licencia de construcción especial se debe acompañar con los datos referentes a la ubicación del edificio y el tipo de servicios a que se destinará, así como dos juegos completos de planos, especificaciones y bitácora proporcionados por la empresa que fabrique el aparato, y de una memoria donde se detallen los cálculos que hayan sido necesarios. De los dos tantos, uno será para la Delegación y el otro para el propietario; este último debe conservarse en la obra.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Para instalaciones o modificaciones en edificaciones existentes, de ascensores para personas, montacargas, escaleras mecánicas o cualquier otro mecanismo de transporte electromecánico, la solicitud de licencia de construcción especial se debe acompañar con los datos referentes a la ubicación del edificio y el tipo de servicios a que se destinará, así como dos juegos completos de planos, especificaciones y bitácora proporcionados por la empresa que fabrique el aparato, y de una memoria donde se detallen los cálculos que hayan sido necesarios. De los dos tantos de planos, uno quedará en poder de la Administración y el otro en poder del propietario o poseedor, quien entregará una copia de los mismos para su uso en la obra.
 
 ###### ARTÍCULO 59.
 
 La licencia de construcción especial, debe expedirse en un plazo máximo de 24 horas contadas a partir del día hábil siguiente a la recepción de la solicitud, con excepción de las que se refieran a la construcción, reparación o mantenimiento de instalaciones subterráneas o aéreas; a las construcciones que se pretendan ejecutar en suelo de conservación o aquéllas que de acuerdo con las disposiciones aplicables en la materia requieran de la opinión de una o varias dependencias, órganos o entidades de la Administración Pública Federal o local. En estos casos, el plazo será de 30 días hábiles contados a partir de la fecha de recepción de la solicitud.
 
-Una vez que el propietario o poseedor haya cumplido con los requisitos establecidos en el formato que corresponda, la Delegación debe expedir la licencia de construcción especial, sin revisar el proyecto, anotando los datos correspondientes en el carnet del Director Responsable de Obra y/o Corresponsables, en su caso.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Una vez que el propietario o poseedor haya cumplido con los requisitos establecidos en el formato que corresponda, la Administración debe expedir la licencia de construcción especial, sin revisar el proyecto, anotando los datos correspondientes en el carnet del Director Responsable de Obra y/o Corresponsables, en su caso.
 
 Transcurridos los plazos señalados en este artículo, sin haber resolución de la autoridad, se entenderá otorgada la licencia de construcción especial, procediendo la afirmativa ficta, salvo que se trate de construcciones que se pretendan ejecutar en suelo de conservación o aquellas relativas a instalaciones subterráneas o aéreas, en cuyo caso se entenderá negada la licencia.
 
-Expedida la licencia de construcción especial, la Delegación podrá revisar el expediente y realizar visitas de verificación cuando lo considere conveniente y procederá conforme a sus atribuciones.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Expedida la licencia de construcción especial, la Administración podrá revisar el expediente y realizar visitas de verificación cuando lo considere conveniente, la Agencia dará seguimiento de cualquier obra en la vía pública, únicamente para el efecto de detectar que no se altere la prestación de los servicios públicos urbanos, la movilidad y la funcionalidad de la misma.
 
 El Director Responsable de Obra, es responsable de que el proyecto de la obra o instalación y los requisitos constructivos cumplan con lo establecido en este Reglamento y demás disposiciones aplicables en la materia.
 
@@ -952,11 +1534,29 @@ I. Hasta por tres meses, para las obras previstas en las fracciones II, III, V, 
 
 II. Hasta por un año, en el caso de las fracciones I y IV del artículo 57 de este Reglamento.
 
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Para el caso de obras que se efectúen en vía pública y con el fin de evitar la alteración de la funcionalidad y movilidad urbana se consultará a la Agencia el inicio y término de la licencia de construcción especial a otorgar.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+En ningún caso el plazo para realizar obras en la vía pública, podrá exceder del máximo de tiempo que se establezca en este Reglamento para el tipo de licencia o autorización que se haya otorgado.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Los plazos anteriores surtirán sus efectos a partir de la notificación de la misma.
+
 ### CAPÍTULO III. DE LAS DISPOSICIONES COMPLEMENTARIAS SOBRE MANIFESTACIONES DE CONSTRUCCIÓN Y LICENCIAS DE CONSTRUCCIÓN ESPECIAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 61.
 
-Para ejecutar obras, instalaciones públicas o privadas en la vía pública o en predios de propiedad pública o privada, es necesario registrar la manifestación de construcción u obtener la licencia de construcción especial, salvo en los casos a que se refieren los artículos 62 y 63 de este Reglamento.
+Para ejecutar obras, instalaciones públicas o privadas en la vía pública o en predios de propiedad pública o privada, es necesario registrar la manifestación de construcción u obtener la licencia de construcción especial; estar programada ante la Agencia, salvo en los casos a que se refieren los artículos 62 y 63 de este Reglamento.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Quedan exentas las reparaciones en vía pública de banquetas, guarniciones y brocales que sean afectadas por obras realizadas con autorización de manifestación y licencia de construcción especial, de conformidad con el artículo 191 de este Reglamento.
 
 ###### ARTÍCULO 62.
 
@@ -970,13 +1570,23 @@ III. Divisiones interiores en pisos de oficinas o comercios cuando su peso se ha
 
 IV. Impermeabilización y reparación de azoteas, sin afectar elementos estructurales;
 
-V. Obras urgentes para prevención de accidentes, a reserva de dar aviso a la Delegación, dentro de un plazo máximo de cinco días hábiles contados a partir del inicio de las obras;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
-VI. Demolición de una edificación hasta de 60 m2 en planta baja, o de un cuarto de hasta 16 m2, sin afectar la estabilidad del resto de la construcción. Esta excepción no operará cuando se trate de los inmuebles a que se refiere la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos y la Ley de Salvaguarda del Patrimonio Urbanístico Arquitectónico del Distrito Federal, o que se ubiquen en área de conservación patrimonial del Distrito Federal;
+V. Obras urgentes para prevención de accidentes, a reserva de dar aviso a la Delegación y a la Agencia, cuando se trate de obras en vía pública, dentro de un plazo máximo de tres días hábiles contados a partir del inicio de las obras.
+
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+VI. Demolición de hasta de 60 m2 en una edificación de un solo piso, sin afectar la estabilidad del resto de la construcción. Esta excepción no operará cuando se trate de los inmuebles a que se refiere la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, o que se ubiquen en Área de Conservación Patrimonial de la Ciudad de México o afecto al patrimonio cultural urbano indicado en los Programas de Desarrollo Urbano del Distrito Federal.
 
 VII. Construcciones provisionales para uso de oficinas, bodegas o vigilancia de predios durante la edificación de una obra y de los servicios sanitarios correspondientes;
 
-VIII. La obra pública que realice la Administración, ya sea directamente o a través de terceros; la que en todo caso debe cumplir con los requisitos técnicos que establece el Reglamento de la Ley de Obras Públicas del Distrito Federal, éste Reglamento y sus Normas;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
+VIII. La obra pública que realice la Administración, ya sea directamente o a través de terceros; la cual deberá cumplir con los requisitos técnicos que establece el Reglamento de la Ley de Obras Públicas del Distrito Federal, éste Reglamento, sus Normas y demás instrumentos jurídico-administrativos en materia de prestación de servicios públicos urbanos, en materia de movilidad y funcionalidad de la vía pública.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Los auxiliares de la Administración que otorguen su responsiva para dichas obras, darán aviso de ella a la Secretaría de Desarrollo Urbano y Vivienda, a efecto de su registro en el carnet.
 
 IX. En pozos de exploración para estudios varios y obras de jardinería;
 
@@ -988,17 +1598,25 @@ XI. Obras similares a las anteriores cuando no afecten elementos estructurales.
 
 No procede el registro de manifestación de construcción ni la expedición de la licencia de construcción especial respecto de lotes o fracciones de terrenos que hayan resultado de la fusión, subdivisión o relotificación de predios, efectuados sin autorización de la Administración.
 
-La Delegación sólo registrará la manifestación de construcción o expedirá licencia de construcción especial en predios con dimensiones menores de 90 m2 de superficie y de seis metros de frente.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-No obstante lo dispuesto en el párrafo anterior, la Delegación registrará la manifestación de construcción o expedirá licencia de construcción especial en fracciones remanentes de predios afectados por obras públicas cuya superficie sea al menos de 30 m2, en los que tengan forma rectangular o trapezoidal, y de 45 m2 en los de forma triangular, siempre que unos y otros tengan un frente a la vía pública no menor de seis metros, con excepción de los previamente regularizados por la Dirección General de Regularización Territorial o por la Comisión para la Regularización de la Tenencia de la Tierra, y se respeten los usos permitidos.
+La Administración no registrará la manifestación de construcción o expedirá licencia de construcción especial en predios con dimensiones menores de 90 m2 de superficie o seis metros de frente.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+No obstante lo dispuesto en el párrafo anterior, la Administración registrará la manifestación de construcción o expedirá licencia de construcción especial en fracciones remanentes de predios afectados por obras públicas cuya superficie sea al menos de 30 m2, en los que tengan forma rectangular o trapezoidal, y de 45 m2 en los de forma triangular, siempre que unos y otros tengan un frente a la vía pública no menor de seis metros, con excepción de los previamente regularizados por la Dirección General de Regularización Territorial o por la Comisión para la Regularización de la Tenencia de la Tierra, y se respeten los usos permitidos, cumpliendo para tal efecto con todas las disposiciones establecidas en el presente Reglamento y en la normatividad aplicable.
 
 Tratándose de predios ya existentes con superficie menor a 90 m2 que no sean fracciones remanentes de afectaciones por obras públicas, se aplicará lo que establezcan los Programas indicados en la Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 64.
 
-Dentro de los 15 días hábiles anteriores al vencimiento de la vigencia del registro de manifestación de construcción, el interesado, en caso necesario, debe presentar ante la Delegación o autoridad competente el aviso de prórroga en el formato establecido por la Administración, en el que se señalen los datos siguientes:
+Dentro de los 15 días hábiles anteriores al vencimiento de la vigencia del registro de manifestación de construcción, el propietario o poseedor, en caso necesario, podrá presentar ante la Administración en el formato que la misma establezca, la solicitud de prórroga en la que se señalen los datos siguientes:
 
-I. Nombre, denominación o razón social del o de los interesados, y en su caso, del representante legal;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+I. Nombre, denominación o razón social del propietario o poseedor o representante legal;
 
 II. Domicilio para oír y recibir notificaciones;
 
@@ -1006,53 +1624,87 @@ III. Ubicación de la construcción, y
 
 IV. Número, fecha de registro y vencimiento de la manifestación de construcción.
 
-Cuando se trate de licencia de construcción especial, el interesado debe presentar solicitud en el formato correspondiente, la cual debe contener además: el número, fecha de expedición y de vencimiento de la licencia, el porcentaje de avance de la obra, la descripción de los trabajos que se vayan a llevar a cabo para continuar la obra y los motivos que impidieron su conclusión en el plazo autorizado.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-Presentada la solicitud correspondiente, la Delegación debe resolver la prórroga dentro de los tres días hábiles siguientes. Si no resuelve en el plazo señalado, procederá la afirmativa ficta.
+Cuando se trate de licencia de construcción especial, el propietario o poseedor o representante legal deben presentar la solicitud en el formato correspondiente, la cual debe contener, además: el número, fecha de expedición y de vencimiento de la licencia, el porcentaje de avance de la obra, la descripción de los trabajos que se vayan a llevar a cabo para continuar la obra y los motivos que impidieron su conclusión en el plazo autorizado.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Presentada la solicitud correspondiente, la Administración deberá resolver la prórroga dentro de los tres días hábiles siguientes, si no resuelve en el plazo señalado, procederá la afirmativa ficta. Por cada licencia de construcción especial, se podrán otorgar hasta dos prórrogas. Cuando se trate de una licencia en la vía pública, la Administración deberá informar a la Agencia la autorización de la prórroga a que se refiere este artículo, sea por declaración expresa o por afirmativa ficta.
 
 En los casos de solicitudes de prórroga para construcciones que se ejecuten en suelo de conservación o para realizar obras de construcción, reparación o mantenimiento de las instalaciones subterráneas o aéreas a que se refiere el artículo 18 de este Reglamento, la solicitud debe resolverse en un plazo de 15 días hábiles. Si la autoridad no resuelve en el plazo señalado, procederá la negativa ficta, de conformidad con lo previsto en la Ley de Procedimiento Administrativo del Distrito Federal.
 
-Cuando la manifestación de construcción registrada o la licencia de construcción especial hayan sido suscritas por un Director Responsable de Obra y Corresponsables, en su caso, el aviso o solicitud de prórroga debe contar con la responsiva de profesionales con ese mismo carácter.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-Asimismo, el aviso o solicitud debe acompañarse del comprobante de pago de derechos, de acuerdo con lo establecido en el Código Financiero del Distrito Federal.
+Cuando la manifestación de construcción registrada o la licencia de construcción especial hayan sido suscritas por un Director Responsable de Obra y Corresponsables, en su caso, la solicitud de prórroga debe contar con la responsiva de profesionales con ese mismo carácter.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Asimismo, la solicitud debe acompañarse del comprobante de pago de derechos, de acuerdo con lo establecido en el Código Fiscal del Distrito Federal.
 
 Las vigencias de las prórrogas se sujetarán a lo dispuesto en los artículos 54 y 60 de este Reglamento.
 
 ### CAPÍTULO IV. DE LA OCUPACIÓN Y DEL VISTO BUENO DE SEGURIDAD Y OPERACIÓN DE LAS CONSTRUCCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 65.
 
-Los propietarios o poseedores están obligados a dar aviso por escrito a la Delegación la terminación de las obras ejecutadas, en un plazo no mayor de 15 días hábiles, contados a partir de la conclusión de las mismas, a fin de que la Delegación constate que la obra se haya ejecutado sin contravenir las disposiciones de este Reglamento.
+Los propietarios o poseedores están obligados a dar el aviso de terminación de las obras ejecutadas por escrito a la Delegación o la Secretaría de Desarrollo Urbano y Vivienda, según corresponda, en un plazo no mayor de 15 días hábiles, contados a partir de la conclusión de las mismas, a fin de que la autoridad constate que las obras se hayan ejecutado sin contravenir las disposiciones de este Reglamento. El aviso antes referido deberá ser registrado por la autoridad en el carnet del Director Responsable de Obra y del Corresponsable, en su caso.
 
-La Delegación autorizará diferencias en la obra ejecutada, de las previstas en la fracción II del artículo 70 del presente Reglamento, para lo cual se deben anexar dos copias de los planos que contengan dichas modificaciones, cumpliendo con este Reglamento y sus Normas, suscritos por el propietario o poseedor, y en su caso por el Director Responsable de Obra y los Corresponsables, así como realizar el pago de los derechos correspondientes por los metros cuadrados de construcción adicional, en su caso, de acuerdo con el Código Financiero del Distrito Federal. Una copia de los planos sellados por la Delegación se entregará al propietario.
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-En el caso de la manifestación de construcción tipo A, sólo se requiere dar aviso de terminación de obra, misma que estará sujeta a lo establecido en el Reglamento de Verificación Administrativa para el Distrito Federal.
+Se podrá dar aviso de terminación de obra parcial, para ocupación en edificaciones que operen y funcionen independientemente del resto de la obra, las cuales deben garantizar que cuentan con los equipos de seguridad necesarios y que cumplen con los requerimientos de habitabilidad y seguridad establecidos en este Reglamento.
 
-Salvo lo dispuesto en el párrafo anterior, en los demás casos, la Delegación otorgará la autorización de uso y ocupación cuando la construcción se haya apegado a lo manifestado o autorizado.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+En caso de existir diferencia entre la obra ejecutada y los planos registrados, prevista en la fracción II del artículo 70 del presente Reglamento, el propietario, poseedor o representante legal deberán anexar dos copias de los planos que contengan dichas modificaciones, las cuales deberán cumplir con este Reglamento y sus Normas, suscritos por el propietario, poseedor o representante legal, el Director Responsable de Obra o los Corresponsables, en su caso, así como exhibir el pago de los derechos correspondientes por los metros cuadrados de construcción adicional, de acuerdo con el Código Fiscal del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+En el caso de que los trabajos amparados con licencia de construcción especial en la vía pública contengan modificaciones, el interesado presentará dos copias legibles de los planos y el archivo electrónico de los mismos, este último será remitido a la Agencia por la Administración, en un término no mayor a 10 días hábiles posteriores a la revisión que la autoridad competente realice, así como exhibir el pago de los derechos y aprovechamientos correspondientes por los metros cuadrados de construcción adicional, de acuerdo con el Código Fiscal del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+En el caso de la manifestación de construcción tipo A y la licencia de construcción especial señalada en el artículo 57, fracciones II a VIII, sólo se requiere dar aviso de terminación de obra.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Para las manifestaciones de construcción tipo B y C, así como en los casos señalados en el artículo 57, fracción I de este Reglamento, la Administración otorgará la autorización de uso y ocupación cuando la construcción se haya apegado a lo manifestado o autorizado, cumpliendo con los requerimientos de habitabilidad y seguridad establecidos en este Reglamento.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 66.
 
-Si del resultado de la visita al inmueble y del cotejo de la documentación correspondiente se desprende que la obra no se ajustó a la manifestación de construcción registrada o a la licencia de construcción especial o a las modificaciones al proyecto autorizado, la Administración ordenará al propietario efectuar las modificaciones que fueren necesarias, conforme a este Reglamento y en tanto éstas no se ejecuten, la Delegación no autorizará el uso y ocupación de la obra.
+Si del resultado de la visita al inmueble y del cotejo de la documentación correspondiente se desprende que la obra no se ajustó a la manifestación de construcción registrada o a la licencia de construcción especial o a las modificaciones al proyecto registrado o autorizado, la Administración ordenará al propietario efectuar las modificaciones que fueren necesarias, conforme a este Reglamento y en tanto éstas no se ejecuten, la Administración no autorizará el uso y ocupación de la obra.
 
 ###### ARTÍCULO 67.
 
 La Administración está facultada para ordenar la demolición parcial o total de una obra, con cargo al propietario, que se haya ejecutado en contravención a este Reglamento, independientemente de las sanciones que procedan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 68.
 
-El propietario o poseedor de una instalación o edificación recién construida, referidas en los artículos 69 y 90 relativas a las edificaciones de riesgo alto, y 139 de este Reglamento, así como de aquéllas donde se realicen actividades de algún giro industrial en las que excedan la ocupación de 40 m2, debe presentar junto con el aviso de terminación de obra ante la Delegación respectiva, el Visto Bueno de Seguridad y Operación con la responsiva de un Director Responsable de Obra y del o los Corresponsables, en su caso.
+El propietario, poseedor o representante legal de una instalación o edificación recién construida, referidas en los artículos 69 y 90 relativas a las edificaciones de riesgo alto, y 139, fracciones I y II, inciso a) de este Reglamento, debe presentar junto con el aviso de terminación de obra ante la Administración, el Visto Bueno de Seguridad y Operación con la responsiva de un Director Responsable de Obra y del Corresponsable en Instalaciones, en su caso.
 
 El Visto Bueno de Seguridad y Operación, debe contener:
 
-I. El nombre, denominación o razón social del o los interesados y en el caso del representante legal, acompañar los documentos con los que se acredite su personalidad;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+I. El nombre, denominación o razón social del propietario, poseedor o representante legal, acompañar los documentos con los que se acredite su personalidad;
 
 II. El domicilio para oír y recibir notificaciones;
 
 III. La ubicación del inmueble de que se trate;
 
-IV. El nombre y número de registro del Director Responsable de Obra y en su caso, del Corresponsable;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
-V. La declaración bajo protesta de decir verdad del Director Responsable de Obra de que la edificación e instalaciones correspondientes reúnen las condiciones de seguridad previstas por este Reglamento para su operación y funcionamiento.
+IV. El nombre y número de registro del Director Responsable de Obra y en su caso, del Corresponsable en Instalaciones;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
+V. La declaración bajo protesta de decir verdad del Director Responsable de Obra y el Corresponsable en Instalaciones, en su caso, de que la edificación e instalaciones correspondientes reúnen las condiciones de seguridad previstas por este Reglamento para su operación y funcionamiento.
 
 En el caso de giros industriales, debe acompañarse de la responsiva de un Corresponsable en Instalaciones;
 
@@ -1060,71 +1712,107 @@ VI. En su caso, los resultados de las pruebas a las que se refieren los artícul
 
 VII. La declaración del propietario y del Director Responsable de Obra de que en la construcción que se trate se cuenta con los equipos y sistemas de seguridad para situaciones de emergencia, cumpliendo con las Normas y las Normas Oficiales Mexicanas correspondientes.
 
-Visto Bueno de Seguridad y Operación debe incluir la Constancia de Seguridad Estructural, en su caso.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-La renovación del Visto Bueno de Seguridad y Operación se realizará cada tres años, para lo cual se deberá presentar la responsiva del Director Responsable de Obra y, en su caso la del Corresponsable.
+El Visto Bueno de Seguridad y Operación deberá acompañarse de la Constancia de Seguridad Estructural sólo cuando el inmueble pertenezca al grupo A o subgrupo B1, de conformidad con el artículo 139 fracciones I y II, inciso a) de este Reglamento.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+La renovación del Visto Bueno de Seguridad y Operación se realizará cada tres años, para lo cual se deberá presentar la responsiva del Director Responsable de Obra y, en su caso, la del o los Corresponsables, a excepción de los siguientes centros de reunión: cabarets, discotecas, peñas, bares, salones de baile, de fiesta o similares, en los que la renovación del Visto Bueno de Seguridad y Operación se realizará anualmente.
 
 Cuando se realicen cambios en las edificaciones o instalaciones a que se refiere este artículo, antes de que se cumpla el plazo señalado en el párrafo anterior, debe renovarse el Visto Bueno de Seguridad y Operación dentro de los 60 días hábiles siguientes al cambio realizado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 69.
 
-Requieren el Visto Bueno de Seguridad y Operación las edificaciones e instalaciones que a continuación se mencionan:
+Requieren el Visto Bueno de Seguridad y Operación las edificaciones e instalaciones que a continuación se mencionan, que serán suscritos por un Director Responsable de Obra:
 
 I. Escuelas públicas o privadas y cualquier otra edificación destinadas a la enseñanza;
 
-II. Centros de reunión, tales como cines, teatros, salas de conciertos, salas de conferencias, auditorios, cabarets, discotecas, peñas, bares, restaurantes, salones de baile, de fiesta o similares, museos, estadios, arenas, hipódromos, plazas de toros, hoteles, tiendas de autoservicio y cualquier otro con una capacidad de ocupación superior a las 50 personas;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+II. Centros de reunión, tales como cines, teatros, salas de conciertos, salas de conferencias, auditorios, cabarets, discotecas, peñas, bares, restaurantes, salones de baile, de fiesta o similares, museos, estadios, arenas, hipódromos, plazas de toros, hoteles, tiendas de autoservicio y cualquier otro con una capacidad de ocupación superior a las 50 personas con uso distinto al habitacional;
 
 III. Instalaciones deportivas o recreativas que sean objeto de explotación mercantil, tales como canchas de tenis, frontenis, squash, karate, gimnasia rítmica, boliches, albercas, locales para billares o juegos de salón y cualquier otro con una capacidad de ocupación superior a las 50 personas;
 
-IV. Ferias con aparatos mecánicos, circos, carpas y cualesquier otro con usos semejantes. En estos casos la renovación se hará además, cada vez que cambie su ubicación, y
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
-V. Ascensores para personas, montacargas, escaleras mecánicas o cualquier otro mecanismo de transporte electromecánico.
+IV. Ferias con aparatos mecánicos, circos, carpas y cualesquier otro con usos semejantes. En estos casos la renovación se hará, además, cada vez que cambie su ubicación;
+
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+V. Ascensores para personas, montacargas, escaleras mecánicas o cualquier otro mecanismo de transporte electromecánico, y
+
+> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+VI. Edificaciones o locales donde se realicen actividades de algún giro industrial en las que excedan la ocupación de 40 m2; hospitales y clínicas, albercas con iluminación subacuática, estaciones de servicio para el expendio de combustible y carburantes, así como plataformas de aterrizaje y despegue de helicópteros; para estos casos los Vistos Buenos también deberán estar suscritos por un Corresponsable en Instalaciones.
 
 ###### ARTÍCULO 70.
 
 Recibido el aviso de terminación de obra, así como el Visto Bueno de Seguridad y Operación en su caso, se procederá conforme a lo siguiente:
 
-I. La Delegación otorgará la autorización de uso y ocupación, para lo cual el propietario o poseedor se constituirá desde ese momento, en los términos del artículo 68 de este Reglamento, en el responsable de la operación y mantenimiento de la construcción, a fin de satisfacer las condiciones de seguridad e higiene; dicha autorización se otorgará en un plazo de cinco días hábiles contados a partir de que se hubiere presentado el aviso de terminación de obra. Transcurrido dicho plazo sin que exista resolución de la autoridad, procederá la afirmativa ficta, y
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
-II. La Delegación autorizará diferencias en la obra ejecutada con respecto al proyecto presentado, siempre que no se afecten las condiciones de seguridad, estabilidad, destino, uso, servicio, habitabilidad e higiene, se respeten las restricciones indicadas en el resultado del Sistema de Información Geográfica, el certificado único de zonificación de uso de suelo específico y factibilidades, la constancia de alineamiento y las características de la manifestación de construcción registrada o de la licencia de construcción especial respectiva, y las tolerancias que fijan este Reglamento y sus Normas.
+I. La Administración otorgará la autorización de uso y ocupación, para lo cual el propietario o poseedor se constituirá desde ese momento, en los términos del artículo 68 de este Reglamento, en el responsable de la operación y mantenimiento de la construcción, a fin de satisfacer las condiciones de seguridad e higiene; dicha autorización se otorgará en un plazo de cinco días hábiles contados a partir de que se hubiere presentado el aviso de terminación de obra. Transcurrido dicho plazo sin que exista resolución de la autoridad, procederá la afirmativa ficta, y
+
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+II. La Administración autorizará diferencias en la obra ejecutada con respecto al proyecto presentado, siempre que no se afecten las condiciones de seguridad, estabilidad, destino, uso, servicio, habitabilidad e higiene, se respeten las restricciones indicadas en el certificado único de zonificación de uso de suelo, la constancia de alineamiento y las características de la manifestación de construcción registrada o de la licencia de construcción especial respectiva, y las tolerancias que fijan este Reglamento y sus Normas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 71.
 
-Para las construcciones del grupo A, a que se refiere el artículo 139 de este Reglamento, se debe registrar ante la Delegación una Constancia de Seguridad Estructural, renovada cada cinco años o después de un sismo cuando la Administración lo determine, en la que un Corresponsable en Seguridad Estructural haga constar que dichas construcciones se encuentran en condiciones adecuadas de seguridad, de acuerdo con las disposiciones de este Reglamento y sus Normas.
+Para las construcciones del grupo A y subgrupo B1, a las que se refiere el artículo 139 de este Reglamento, se debe registrar ante la Administración una Constancia de Seguridad Estructural, renovada cada cinco años o después de un sismo cuando la misma lo determine, en la que un Corresponsable en Seguridad Estructural haga constar que dicha construcción se encuentra en condiciones adecuadas de seguridad, de acuerdo con las disposiciones de este Reglamento y sus Normas.
 
 Si la constancia del Corresponsable determina que la construcción no cumple con las condiciones de seguridad, ésta debe reforzarse o modificarse para satisfacerlas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 72.
 
-Cuando la obra se haya ejecutado sin registro de manifestación de construcción o licencia de construcción especial, y se demuestre que cumple con este Reglamento y los demás ordenamientos legales respectivos, así como con las disposiciones del Programa, la Delegación concederá el registro de obra ejecutada al propietario o poseedor, siempre y cuando se sujete al siguiente procedimiento:
+Cuando la obra se haya ejecutado sin registro de manifestación de construcción o licencia de construcción especial, y se demuestre que cumple con este Reglamento y los demás ordenamientos legales respectivos, así como con las disposiciones de los Programas, la Administración concederá el registro de obra ejecutada al Propietario o Poseedor, siempre y cuando se sujete al siguiente procedimiento:
 
 I. Presentar solicitud de registro de obra ejecutada, con la responsiva de un Director Responsable de Obra y de los Corresponsables, en su caso, y
 
-II. Acompañar a la solicitud los documentos siguientes: constancia de alineamiento y número oficial vigente, certificado de la instalación de toma de agua y de la conexión del albañal, planos arquitectónicos y estructurales de la obra ejecutada y los demás documentos que este Reglamento y otras disposiciones exijan para el registro de manifestación de construcción o para la expedición de licencia de construcción especial, con la responsiva de un Director Responsable de Obra, y de los Corresponsables, en su caso, y
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
-Recibida la documentación, la Delegación procederá a su revisión y practicará una visita a la obra de que se trate, para constatar que cumple con los requisitos legales aplicables y se ajusta a los documentos exhibidos con la solicitud de registro de obra ejecutada. La Delegación autorizará su registro, previo pago de los derechos y las sanciones que establecen, respectivamente, en el Código Financiero del Distrito Federal y este Reglamento.
+II. Acompañar la solicitud con los documentos siguientes: constancia de alineamiento y número oficial vigente, acreditar que se cuenta con la legal instalación de toma de agua y de la conexión del albañal, planos de la obra ejecutada, arquitectónicos, estructurales, de instalaciones que incluyan el uso de sistemas para calentamiento de agua por medio del aprovechamiento de la energía solar, en su caso, y los demás documentos que este Reglamento y otras disposiciones exijan para el registro de manifestación de construcción o para la expedición de licencia de construcción especial, con la responsiva de un Director Responsable de Obra, y de los Corresponsables, en su caso.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Recibida la documentación, la Administración procederá a su revisión y practicará una visita a la obra de que se trate, para constatar que cumple con los requisitos legales aplicables y se ajusta a los documentos exhibidos con la solicitud de registro de obra ejecutada. La Administración autorizará su registro, previo pago de los derechos y las sanciones que se establecen, respectivamente, en el Código Fiscal del Distrito Federal y este Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 73.
 
-Para cambiar el uso de edificaciones para ser destinadas a alguno de los supuestos señalados en los artículos 69, fracciones I y II; 90, referentes a las edificaciones de riesgo alto, y 139, fracción I, de este Reglamento, o a algún giro industrial, en las que excedan la ocupación de 40 m2, el propietario o poseedor debe presentar ante la Delegación correspondiente los siguientes documentos:
+Para modificar el uso de edificaciones para ser destinadas a alguno de los supuestos señalados en los artículos 69, fracciones I, II y VI; 90, referentes a las edificaciones de riesgo alto, y 139 fracciones I y II, inciso a) de este Reglamento, el propietario o poseedor debe presentar ante la Administración los siguientes documentos:
 
 I. El Visto Bueno de Seguridad y Operación;
 
-II. La constancia de alineamiento y número oficial vigente y cualesquiera de los documentos siguientes: certificado único de zonificación de uso de suelo específico y factibilidades, el resultado de la consulta del Sistema de Información Geográfica, certificado de acreditación de uso del suelo por derechos adquiridos o, en su caso, licencia de uso del suelo o dictamen favorable de impacto urbano o impacto urbano-ambiental;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+II. La constancia de alineamiento y número oficial vigente y cualesquiera de los documentos siguientes: certificado único de zonificación de uso de suelo específico o certificado único de zonificación del suelo digital o certificado de acreditación de uso del suelo por derechos adquiridos o, en su caso, dictamen favorable de impacto urbano o impacto urbano-ambiental;
 
 III. La licencia de construcción especial o el registro de manifestación de construcción, y
 
 IV. En su caso, la Constancia de Seguridad Estructural.
 
-Las edificaciones pertenecientes al grupo A, a las que se refiere el artículo 139 de este Reglamento, deben cumplir además de los requisitos antes descritos, con memoria de cálculo que contenga los criterios de diseño estructural adoptados y los resultados de las pruebas necesarias y suficientes que garanticen la seguridad estructural de la edificación cumpliendo con este Reglamento y sus Normas, para que puedan ser evaluados por un especialista externo al proyecto.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Las edificaciones pertenecientes al grupo Ay (sic) subgrupo B1, a las que se refiere el artículo 139 de este Reglamento, deben cumplir además de los requisitos antes descritos, con memoria de cálculo que contenga los criterios de diseño estructural adoptados y los resultados de las pruebas necesarias y suficientes que garanticen la seguridad estructural de la edificación cumpliendo con este Reglamento y sus Normas, para que puedan ser evaluados por un especialista externo al proyecto.
 
 ## TÍTULO QUINTO. DEL PROYECTO ARQUITECTÓNICO
 
 ### CAPÍTULO I. GENERALIDADES
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 74.
 
-Para garantizar las condiciones de habitabilidad, accesibilidad, funcionamiento, higiene, acondicionamiento ambiental, eficiencia energética, comunicación, seguridad en emergencias, seguridad estructural, integración al contexto e imagen urbana de las edificaciones en el Distrito Federal, los proyectos arquitectónicos correspondientes debe cumplir con los requerimientos establecidos en este Título para cada tipo de edificación, en las Normas y demás disposiciones legales aplicables.
+Para garantizar las condiciones de habitabilidad, accesibilidad, funcionamiento, higiene, acondicionamiento ambiental, sustentabilidad, eficiencia energética, comunicación, seguridad en emergencias, seguridad estructural, integración al contexto e imagen urbana de las edificaciones en la Ciudad de México, los proyectos arquitectónicos correspondientes deben cumplir con los requerimientos establecidos en este Título para cada tipo de edificación, en las Normas y demás disposiciones legales aplicables.
 
 ###### ARTÍCULO 75.
 
@@ -1140,19 +1828,37 @@ Las alturas de las edificaciones, la superficie construida máxima en los predio
 
 La separación de edificios nuevos o que han sufrido modificaciones o ampliaciones, con predios o edificios colindantes debe cumplir con lo establecido en las Normas de Ordenación de Desarrollo Urbano y con los artículos 87, 88 y 166 de este Reglamento.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 78.
 
-La separación entre edificaciones dentro del mismo predio será cuando menos la que resulte de aplicar la dimensión mínima establecida en los Programas General, Delegacionales y/o Parciales, y lo dispuesto en los artículos 87, 88 y 166 de este Reglamento y sus Normas, de acuerdo con el tipo del local y con la altura promedio de los paramentos de las edificaciones en cuestión.
+La separación entre edificaciones dentro del mismo predio será cuando menos la que resulte de aplicar lo dispuesto en los artículos 87, 88 y 166 de este Reglamento y sus Normas.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 79.
 
-Las edificaciones deben contar con la funcionalidad, el número y dimensiones mínimas de los espacios para estacionamiento de vehículos, incluyendo aquellos exclusivos para personas con discapacidad que se establecen en las Normas.
+Las edificaciones deberán contar con estacionamiento de vehículos y/o bicicletas y/o motocicletas, incluyendo aquellos exclusivos para personas con discapacidad, acordes con la funcionalidad y lo establecido en la Norma Técnica Complementaria para el Proyecto Arquitectónico, en materia de estacionamientos de vehículos.
 
 ### CAPÍTULO II. DE LA HABITABILIDAD, ACCESIBILIDAD Y FUNCIONAMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 80.
 
-Las dimensiones y características de los locales de las edificaciones, según su uso o destino, así como de los requerimientos de accesibilidad para personas con discapacidad, se establecen en las Normas.
+La accesibilidad para personas con discapacidad, así como las dimensiones y características de los locales de las edificaciones, según su uso o destino, se establecen en las Normas.
+
+> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+I. Los requerimientos de accesibilidad para personas con discapacidad deberán sujetarse a lo establecido (sic) las Normas y/o Normas Oficiales Mexicanas.
+
+> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+II. Las edificaciones con servicio al público o que impliquen la concurrencia del público, deberán sujetarse a los requerimientos de accesibilidad para las personas con discapacidad, establecidos en las Normas.
+
+> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+III. Los requerimientos de habitabilidad y funcionamiento, deberán cumplir con lo dispuesto en este Reglamento y en las Normas.
 
 ### CAPÍTULO III. DE LA HIGIENE, SERVICIOS Y ACONDICIONAMIENTO AMBIENTAL
 
@@ -1164,25 +1870,51 @@ Las edificaciones deben estar provistas de servicio de agua potable, suficiente 
 
 Las edificaciones deben estar provistas de servicios sanitarios con el número, tipo de muebles y características que se establecen a continuación:
 
-I. Las viviendas con menos de 45 m2 contarán, cuando menos con un excusado, una regadera y uno de los siguientes muebles: lavabo, fregadero o lavadero;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
-II. Las viviendas con superficie igual o mayor a 45 m2 contarán, cuando menos, con un baño provisto de un excusado, una regadera y un lavabo, así como de un lavadero y un fregadero;
+I. Las viviendas con menos de 45m2 contarán, cuando menos con un excusado, una regadera y uno de los siguientes muebles: lavabo, fregadero o lavadero; mismos que deberán incorporar sistemas o dispositivos ahorradores de agua, a fin de cumplir con las Normas y Normas Oficiales Mexicanas aplicables en la materia;
 
-III. Los locales de trabajo y comercio con superficie hasta de 120 m2 y con hasta 15 trabajadores o usuarios contarán, como mínimo, con un excusado y un lavabo o vertedero;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
-IV. En los demás casos se proveerán los muebles sanitarios, incluyendo aquéllos exclusivos para personas con discapacidad, de conformidad con lo dispuesto en las Normas, y
+II. Las viviendas con superficie igual o mayor a 45m2 contarán, cuando menos, con un baño provisto de un excusado, una regadera y un lavabo, así como de un lavadero y un fregadero; mismos que deberán incorporar sistemas o dispositivos ahorradores de agua, a fin de cumplir con las Normas y Normas Oficiales Mexicanas aplicables en la materia;
 
-V. Las descargas de agua residual que produzcan estos servicios se ajustarán a lo dispuesto en las Normas y/o Normas Oficiales Mexicanas.
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+III. Los locales de trabajo y comercio con superficie hasta de 120m2 y con hasta 15 trabajadores o usuarios contarán, como mínimo, con un excusado y un lavabo o vertedero; mismos que deberán incorporar sistemas o dispositivos ahorradores de agua a fin de cumplir con las Normas y Normas Oficiales Mexicanas aplicables en la materia;
+
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+IV. En los demás casos se proveerán los muebles sanitarios, incluyendo los accesibles para personas con discapacidad, de conformidad con lo dispuesto en las Normas y Normas Oficiales Mexicanas aplicables;
+
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+V. Las descargas de agua residual que produzcan estos servicios se ajustarán a lo dispuesto en las Normas y/o Normas Oficiales Mexicanas, y
+
+> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+VI. En las edificaciones habitacionales nuevas plurifamiliares de más de tres viviendas y unifamiliares con superficie igual o mayor a 100 m2y en aquellas donde se realicen ampliaciones, modificaciones o reparaciones que alteren las condiciones existentes de las instalaciones hidrosanitarias del inmueble, se instalará además del sistema convencional de calentamiento de agua, un sistema de calentamiento de agua por medio del aprovechamiento de la energía solar que provea un porcentaje del consumo energético anual por uso de agua caliente conforme a lo establecido en el Capítulo VI de la Norma Técnica Complementaria para el Proyecto Arquitectónico.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+ARTÍCULO 82 BIS .- Las edificaciones que se vean imposibilitadas técnicamente para cumplir con el porcentaje de consumo anual energético requerido y alcancen uno menor, o sea totalmente inviable la instalación de los sistemas de calentamiento de agua por medio del aprovechamiento de la energía solar, deberán de justificar técnicamente dicha imposibilidad detallando las razones y cálculos técnicos que soporten dicha justificación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 83.
 
-Las albercas contarán, cuando menos, con:
+Las albercas y fosas de clavados contarán, con:
 
 I. Equipos de recirculación, filtración y purificación de agua;
 
 II. Boquillas de inyección para distribuir el agua recirculada y de succión para los aparatos limpiadores de fondo, y
 
-III. Los sistemas de filtración de agua se instalarán de acuerdo con las Normas y/o Normas Oficiales Mexicanas.
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+III. Los sistemas de filtración de agua se instalarán de acuerdo con las Normas y/o Normas Oficiales Mexicanas; y
+
+> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+IV. Sistemas de aprovechamiento de la energía solar para el calentamiento de agua de la alberca, además del sistema convencional de calentamiento de agua, que provean un porcentaje del consumo energético anual por uso de agua caliente conforme a lo establecido en el Capítulo VI de la Norma Técnica Complementaria para el Proyecto Arquitectónico.
 
 ###### ARTÍCULO 84.
 
@@ -1204,9 +1936,15 @@ La iluminación natural y la artificial para todas las edificaciones deben cumpl
 
 Los locales en las edificaciones contarán con medios de ventilación natural o artificial que aseguren la provisión de aire exterior, en los términos que fijen las Normas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 89.
 
-Las edificaciones que se destinen a industrias, establecimientos mercantiles, de servicios, de recreación, centros comerciales, obras en construcción mayores a 2,500 m2 y establecimientos dedicados al lavado de autos, debe utilizar agua residual tratada, de conformidad con lo establecido en la Ley de Aguas del Distrito Federal, las Normas y demás disposiciones aplicables en la materia.
+Las edificaciones nuevas no habitacionales y las de más de 1000 m2sin (sic) incluir estacionamiento, así como los establecimientos dedicados al lavado de autos, deben contar con redes separadas de agua potable, agua residual tratada y agua de lluvia debiéndose utilizar estas dos últimas en todos los usos que no requieran agua potable, de conformidad con lo establecido en la Ley de Aguas del Distrito Federal, las Normas y demás disposiciones aplicables en la materia.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Todos los establecimientos industriales, comerciales, de oficinas, de servicios y de espectáculos, ubicados en la Ciudad de México y con más de 30 empleados, que utilicen agua caliente en sus servicios, están obligados a instalar, además del sistema convencional de calentamiento de agua, un sistema de calentamiento de agua por medio del aprovechamiento de la energía solar, que provea un porcentaje del consumo energético anual por uso de agua caliente en el establecimiento, conforme a lo establecido en el Capítulo VI de la Norma Técnica Complementaria para el Proyecto Arquitectónico.
 
 ### CAPÍTULO IV. DE LA COMUNICACIÓN, EVACUACIÓN Y PREVENCIÓN DE EMERGENCIAS
 
@@ -1228,9 +1966,11 @@ En las edificaciones de riesgo alto a que se refiere el artículo anterior, el s
 
 La existencia de circulaciones horizontales o verticales mecanizadas tales como bandas transportadoras, escaleras eléctricas, elevadores y montacargas se considerará adicional al sistema normal de uso cotidiano o de emergencia formado por vestíbulos, pasillos, rampas y escaleras de acceso o de salida.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 92.
 
-La distancia desde cualquier punto en el interior de una edificación a una puerta, a una circulación horizontal o vertical que conduzca directamente a la vía pública, áreas exteriores o al vestíbulo de acceso de la edificación, medidas a lo largo de la línea de recorrido, será de cincuenta metros como máximo en edificaciones de riesgo alto y de sesenta metros como máximo en edificaciones de riesgos medio y bajo.
+La distancia desde cualquier punto en el interior de una edificación a una puerta, a una circulación horizontal o vertical que conduzca directamente a la vía pública, áreas exteriores o al vestíbulo de acceso de la edificación, medidas a lo largo de la línea de recorrido, será de cincuenta metros como máximo en edificaciones de riesgo alto y de cuarenta metros como máximo en edificaciones de riesgos medio y bajo, en este último caso, la distancia podrá incrementarse en un 50% si cuenta con los dispositivos para prevenir y combatir incendios para edificios de riesgo alto, contenidos en las Normas.
 
 ###### ARTÍCULO 93.
 
@@ -1278,9 +2018,11 @@ Las edificaciones para deportes, aulas, teatros u otros espacios para actos y es
 
 Los elevadores, escaleras eléctricas y bandas transportadoras deben cumplir con las Normas y las Normas Oficiales Mexicanas.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 103.
 
-Los locales destinados a cines, auditorios, teatros, salas de concierto, aulas o espectáculos deportivos deben cumplir con las Normas en lo relativo a visibilidad y audición.
+Los locales destinados a cines, auditorios, teatros, salas de concierto, aulas o espectáculos deportivos deben cumplir con las Normas aplicables.
 
 ###### ARTÍCULO 104.
 
@@ -1310,15 +2052,21 @@ Todas las edificaciones deben contar con buzones para recibir comunicación por 
 
 Las edificaciones deben contar con las instalaciones y los equipos necesarios para prevenir y combatir los incendios.
 
-Los equipos y sistemas contra incendio deben mantenerse en condiciones de funcionar en cualquier momento, para lo cual deben ser revisados y probados periódicamente.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-En las obras que requieran Visto Bueno de Seguridad y Operación según el artículo 69 de este Reglamento, el propietario o poseedor del inmueble llevará un libro de bitácora donde el Director Responsable de Obra registrará los resultados de estas pruebas, debiendo mostrarlo a las autoridades competentes cuando éstas lo requieran.
+Los equipos y sistemas contra incendio deben mantenerse en condiciones para funcionar en cualquier momento, para lo cual deben ser revisados y probados periódicamente según se establezca en los manuales del fabricante, las Normas y las Normas Oficiales Mexicanas.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+En las obras que requieran Visto Bueno de Seguridad y Operación según el artículo 69 de este Reglamento, el propietario o poseedor del inmueble llevará un libro de bitácora donde el Director Responsable de Obra y el Corresponsable, en su caso, registrarán los resultados de estas pruebas, debiendo mostrarlo a las autoridades competentes cuando éstas lo requieran.
 
 Para cumplir con el dictamen de prevención de incendios a que se refiere la Ley del H. Cuerpo de Bomberos del Distrito Federal, se deben aplicar con las disposiciones de esta Sección y con lo establecido en las Normas.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 110.
 
-Las características que deben tener los elementos constructivos y arquitectónicos para resistir al fuego, así como los espacios y circulaciones previstos para el resguardo o el desalojo de personas en caso de siniestro y los dispositivos para prevenir y combatir incendios se establecen en las Normas.
+Las características que deben tener los elementos constructivos y arquitectónicos para resistir al fuego, así como los espacios y circulaciones previstos para el resguardo o el desalojo de personas en caso de siniestro y los dispositivos para prevenir y combatir incendios se establecen en las Normas y en las Normas Oficiales Mexicanas.
 
 ###### ARTÍCULO 111.
 
@@ -1338,9 +2086,11 @@ Los casos no previstos en esta Sección quedarán sujetos a la responsabilidad d
 
 #### SECCIÓN TERCERA. DE LOS DISPOSITIVOS DE SEGURIDAD Y PROTECCIÓN
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 114.
 
-Los locales destinados a la guarda y exhibición de animales y las edificaciones de deportes y recreación deben contar con rejas y/o desniveles para protección al público, en el número, dimensiones mínimas y condiciones de diseño que establezcan las Normas.
+Los locales destinados a la guarda y exhibición de animales y las edificaciones de deportes y recreación deben contar con rejas y/o desniveles para protección al público, en el número, dimensiones mínimas y condiciones de diseño que establezcan las Normas y las Normas Oficiales Mexicanas.
 
 ###### ARTÍCULO 115.
 
@@ -1348,13 +2098,17 @@ Los aparatos mecánicos de ferias deberán contar con rejas o barreras de por lo
 
 Las líneas de conducción y los tableros eléctricos deben estar aislados y protegidos, eléctrica y mecánicamente para evitar que causen daño al público, cuyo diseño y fijación se establezca en las Normas y demás disposiciones aplicables.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 116.
 
-Los locales destinados al depósito o venta de explosivos y combustibles deben ajustarse con lo establecido en las Normas y demás disposiciones aplicables y, en su caso, la Ley Federal de Armas de Fuego y Explosivos.
+Los locales destinados al depósito o venta de explosivos y combustibles deben ajustarse con lo establecido en las Normas, en las Normas Oficiales Mexicanas y demás disposiciones aplicables y, en su caso, en la Ley Federal de Armas de Fuego y Explosivos.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 117.
 
-Las edificaciones deben estar equipadas de pararrayos en los casos y bajo las condiciones que se mencionan en las Normas y demás disposiciones aplicables.
+Las edificaciones deben estar equipadas de pararrayos en los casos y bajo las condiciones que se mencionan en las Normas, en las Normas Oficiales Mexicanas y demás disposiciones aplicables.
 
 ###### ARTÍCULO 118.
 
@@ -1364,19 +2118,25 @@ Los vanos, ventanas, cristales y espejos de piso a techo, en cualquier edificaci
 
 Las edificaciones destinadas a la educación, centros culturales, recreativos, centros deportivos, de alojamiento, comerciales e industriales deben contar con un local de servicio médico para primeros auxilios de acuerdo con lo establecido en las Normas.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 120.
 
-Las albercas deben contar con los elementos y medidas de protección establecido (sic) en las Normas y demás disposiciones aplicables.
+Las albercas deben contar con los elementos y medidas de protección establecidas en las Normas y demás disposiciones aplicables.
 
 ### CAPÍTULO V. DE LA INTEGRACIÓN AL CONTEXTO E IMAGEN URBANA
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 121.
 
-Las edificaciones que se proyecten en zonas del Patrimonio Histórico, Artístico y Arqueológico de la Federación o del Distrito Federal y sus áreas de influencia, cuando se encuentren delimitadas en los Programas General, Delegacionales y/o Parciales, deben sujetarse a las restricciones de altura, vanos, materiales, acabados, colores y todas las demás que señalen para cada caso el Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes, así como la Secretaría de Desarrollo Urbano y Vivienda, en los términos que establecen las Normas de Ordenación de los Programas de Desarrollo Urbano y las Normas.
+Las edificaciones que se proyecten en Áreas de Conservación Patrimonial o inmuebles afectos al patrimonio cultural urbano de la Ciudad de México de limitadas (sic) e indicados en los Programas General, Delegacionales y/o Parciales, deben sujetarse a las restricciones de altura, vanos, materiales, acabados, colores y todas las demás que señale la Secretaría de Desarrollo Urbano y Vivienda, en los términos que establecen las Normas de Ordenación de los Programas de Desarrollo Urbano y las Normas; así como las que señalen el Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes, en el ámbito de su competencia, de acuerdo con lo señalado por la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 122.
 
-El empleo de vidrios espejo y otros materiales que produzcan reflexión total en superficies exteriores aisladas mayores a 20 m2 o que cubran más del 30 % de los paramentos de fachada se permitirá siempre y cuando se demuestre, mediante estudios de asoleamiento y reflexión especular, que el reflejo de los rayos solares no provocará en ninguna época del año ni hora del día deslumbramientos peligrosos o molestos, o incrementos en la carga térmica en edificaciones vecinas o vía pública.
+El empleo de vidrios espejo y otros materiales que produzcan reflexión total en superficies exteriores aisladas mayores a 20 m² o que cubran más del 30% de los paramentos de fachada se permitirá siempre y cuando se demuestre, mediante estudios de asoleamiento y reflexión especular, que el reflejo de los rayos solares no provocará en ninguna época del año ni hora del día deslumbramientos peligrosos o molestos, o incrementos en la carga térmica en edificaciones vecinas o vía pública. En Áreas de Conservación Patrimonial, el empleo de este material en fachadas principales está condicionado a la aprobación de la Secretaría de Desarrollo Urbano y Vivienda en el ámbito de sus atribuciones en materia de patrimonio cultural urbano.
 
 ###### ARTÍCULO 123.
 
@@ -1386,13 +2146,21 @@ Las fachadas de colindancia de las edificaciones de cinco niveles o más que for
 
 #### SECCIÓN PRIMERA. DE LAS INSTALACIONES HIDRÁULICAS Y SANITARIAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 124.
 
-Los conjuntos habitacionales y las edificaciones de cinco niveles o más deben contar con cisternas con capacidad para satisfacer dos veces la demanda diaria de agua potable de la edificación y estar equipadas con sistema de bombeo.
+Las edificaciones nuevas de más de tres niveles deben contar con un almacenamiento con capacidad para satisfacer dos veces la demanda diaria de agua potable y estar equipadas con sistema de bombeo.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Toda construcción nueva de más de 200 m2 de azotea deberá contar con un sistema de captación y aprovechamiento de agua pluvial de la superficie construida a nivel azotea, para lo cual deberá contarse con una cisterna para este fin, dicho aprovechamiento se dará en todos aquellos usos que no requieran agua con calidad potable como inodoros, riego de áreas jardineadas y actividades de limpieza conforme a lo establecido en la Ley de Aguas del Distrito Federal y sus Reglamentos.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 125.
 
-Las instalaciones hidráulicas y sanitarias, los muebles y accesorios de baño, las válvulas, tuberías y conexiones deben ajustarse a lo que disponga la Ley de Aguas del Distrito Federal y sus Reglamentos, las Normas y, en su caso, las Normas Oficiales Mexicanas y Normas Mexicanas aplicables.
+Las instalaciones hidráulicas y sanitarias, los muebles y accesorios de baño, las válvulas, tuberías y conexiones deben contar con accesorios y muebles de bajo consumo de agua potable, conforme a lo que disponga la Ley de Aguas del Distrito Federal y sus Reglamentos, las Normas y, en su caso, las Normas Oficiales Mexicanas y Normas Mexicanas aplicables.
 
 ###### ARTÍCULO 126.
 
@@ -1402,9 +2170,31 @@ Queda prohibido el uso de gárgolas o canales que descarguen agua a chorro fuera
 
 Durante el proceso de construcción, no se permitirá desalojar agua freática o residual al arroyo de la calle. Cuando se requiera su desalojo al exterior del predio, se debe encausar esta agua entubada directamente a la coladera pluvial evitando descargar sólidos que azolven la red de alcantarillado en tanto la Dependencia competente construya el albañal autorizado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 128.
 
-En los predios ubicados en calles con redes de agua potable, de alcantarillado público y en su caso, de agua tratada, el propietario o poseedor debe solicitar en el formato correspondiente al Sistema de Aguas de la Ciudad de México, por conducto de la Delegación, las conexiones de los servicios solicitados con dichas redes, de conformidad con lo que disponga la Ley de Aguas del Distrito Federal y sus Reglamentos, y pagar los derechos que establezca el Código Financiero del Distrito Federal.
+En los predios ubicados en calles con redes de agua potable, de alcantarillado público y, en su caso, de agua tratada, el propietario, poseedor o representante legal debe solicitar en el formato correspondiente al Sistema de Aguas de la Ciudad de México, por conducto de la Delegación, las conexiones de los servicios solicitados con dichas redes, de conformidad con lo que disponga la Ley de Aguas del Distrito Federal y sus Reglamentos, y pagar los derechos que establezca el Código Fiscal del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Previo al pago de los derechos a que se refiere el párrafo anterior y para el correcto cobro de los derechos por el suministro de agua el propietario y/o poseedor, deberá entregar al Sistema de Aguas de la Ciudad de México dos tantos del proyecto de las instalaciones hidráulicas, el cual deberá incluir la ubicación, dimensión y arreglo de la tubería donde se instalará el medidor que registrará el volumen de agua que ingresará al predio y en su caso, la misma documentación para los proyectos que involucren la construcción de locales y/o departamentos, mismos que deberán contar con medidores individuales para cada uno de ellos.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+La documentación que se señala en el párrafo anterior será requisito indispensable para emitir la aprobación de la factibilidad de instalación de medidores en tomas, y en su caso, de ramificaciones de agua potable.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+En caso de que el propietario y/o poseedor no cuente con la aprobación de la factibilidad de instalación de medidor, el Sistema de Aguas de la Ciudad de México no estará obligado a autorizar la conexión ni a prestar el servicio de suministro de agua.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+En ningún caso se podrán instalar bombas que succionen agua en forma directa de la red de distribución, de acuerdo a lo establecido en la Ley de Aguas del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+La conexión de los servicios tanto de agua potable, de agua residual tratada, así como las descargas sanitarias y pluviales, deberán quedar por arriba de los niveles de las redes municipales de agua potable, residual tratada y drenaje.
 
 #### SECCIÓN SEGUNDA. DE LAS INSTALACIONES ELÉCTRICAS
 
@@ -1462,33 +2252,71 @@ Las edificaciones que requieran instalaciones para acondicionamiento de aire o e
 
 ### CAPÍTULO I. GENERALIDADES
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 137.
 
-Los procedimientos de revisión de la seguridad estructural para construcciones como puentes, túneles, torres, chimeneas y estructuras no convencionales deben ser aprobados por la Secretaría de Obras y Servicios.
+Este título se refiere al proyecto estructural de los edificios comunes. Los procedimientos de revisión de la seguridad estructural para construcciones como puentes, túneles, torres, chimeneas y estructuras no convencionales deben ser aprobados por la Secretaría de Obras y Servicios.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 138.
 
-La Secretaría de Obras y Servicios expedirá Normas para definir los requisitos específicos de ciertos materiales y sistemas estructurales, así como procedimientos de diseño para los efectos de las distintas acciones y de sus combinaciones, incluyendo tanto las acciones permanentes y las variables, en particular las cargas muertas y vivas, como las acciones accidentales, en particular los efectos de sismo y viento.
+La Secretaría de Obras y Servicios ha expedido un cuerpo de normas en las que se definen los requisitos específicos de ciertos materiales y sistemas estructurales, así como procedimientos de diseño para los efectos de las distintas acciones y de sus combinaciones, incluyendo tanto las acciones permanentes (cargas muertas), las variables, cargas vivas, y las acciones accidentales, en particular los efectos de sismo y viento.
 
 ###### ARTÍCULO 139.
 
 Para los efectos de este Título las construcciones se clasifican en los siguientes grupos:
 
-I. Grupo A: Edificaciones cuya falla estructural podría constituir un peligro significativo por contener sustancias tóxicas o explosivas, así como edificaciones cuyo funcionamiento es esencial a raíz de una emergencia urbana, como: hospitales, escuelas, terminales de transporte, estaciones de bomberos, centrales eléctricas y de telecomunicaciones, estadios, depósitos de sustancias flamables o tóxicas, museos y edificios que alojen archivos y registros públicos de particular importancia, y otras edificaciones a juicio de la Secretaría de Obras y Servicios.
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+I. Grupo A: Edificaciones cuya falla estructural podría causar un número elevado de pérdidas de vidas humanas, o constituir un peligro significativo por contener sustancias tóxicas o explosivas, y edificaciones cuyo funcionamiento es esencial ante una emergencia urbana, las que se subdividen en:
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Subgrupo A1: Construcciones para las que se requiere mantener mayores niveles de seguridad:
+
+a) Edificios que es necesario mantener en operación aún después de un sismo de magnitud importante, como: hospitales, aeropuertos, terminales y estaciones de transporte, instalaciones militares, centros de operación de servicios de emergencia, subestaciones eléctricas y nucleares, estructuras para la transmisión y distribución de electricidad, centrales telefónicas y repetidoras, estaciones de radio y televisión, antenas de transmisión y los inmuebles que las soportan o contienen, estaciones de bomberos, sistemas de almacenamiento, bombeo, distribución y abastecimiento de agua potable, estructuras que alojen equipo cuyo funcionamiento sea esencial para la población, tanques de agua, puentes vehiculares y pasarelas peatonales;
+
+b) Construcciones o depósitos cuya falla puede implicar un severo peligro para la población, por contener cantidades importantes de sustancias tóxicas, inflamables o explosivas.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Subgrupo A2: Estructuras cuya falla podría causar:
+
+a) Un impacto social importante, como estadios, salas de reuniones, templos, auditorios y otras, que puedan albergar más de 1000 personas.
+
+b) Una afectación a la población particularmente vulnerable, como: escuelas de educación preescolar, primaria y secundaria.
+
+c) La pérdida de material de gran valor histórico o cultural: museos, monumentos y estructuras que contengan archivos jurídicos o registros públicos.
 
 II. Grupo B: Edificaciones comunes destinadas a viviendas, oficinas y locales comerciales, hoteles y construcciones comerciales e industriales no incluidas en el Grupo A, las que se subdividen en:
 
-a) Subgrupo B1: Edificaciones de más de 30 m de altura o con más de 6,000 m2 de área total construida, ubicadas en las zonas I y II a que se aluden en el artículo 170 de este Reglamento, y construcciones de más de 15 m de altura o más de 3,000 m2 de área total construida, en zona III; en ambos casos las áreas se refieren a un solo cuerpo de edificio que cuente con medios propios de desalojo: acceso y escaleras, incluyendo las áreas de anexos, como pueden ser los propios cuerpos de escaleras. El área de un cuerpo que no cuente con medios propios de desalojo se adicionará a la de aquel otro a través del cual se desaloje;
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-b) Edificios que tengan locales de reunión que puedan alojar más de 200 personas, templos, salas de espectáculos, así como anuncios autosoportados, anuncios de azotea y estaciones repetidoras de comunicación celular y/o inalámbrica, y
+Subgrupo B1:
 
-c) Subgrupo B2: Las demás de este grupo.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+a) Edificaciones de más de 30 m de altura o con más de 6,000 m2 de área total construida, ubicadas en las zonas I y II a que se aluden en el artículo 170 de este Reglamento, y construcciones de más de 15 m de altura o más de 3,000 m2 de área total construida, en la zona III; en ambos casos las áreas se refieren a cada cuerpo de edificio que cuente con medios propios de desalojo e incluyen las áreas de anexos. El área de un cuerpo que no cuente con medios propios de desalojo se adicionará a la de aquel otro a través del cual se desaloje;
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+b) Edificaciones anexas a los hospitales, aeropuertos o terminales de transporte, como estacionamientos, restaurantes, así como edificios destinados a educación media superior y superior.
+
+c) (DEROGADO, G.O. 17 DE JUNIO DE 2016)
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Subgrupo B2: Las demás de este grupo.
 
 ### CAPÍTULO II. DE LAS CARACTERÍSTICAS GENERALES DE LAS EDIFICACIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 140.
 
-El proyecto de las edificaciones debe considerar una estructuración eficiente para resistir las acciones que puedan afectar la estructura, con especial atención a los efectos sísmicos.
+El proyecto de las edificaciones debe considerar una estructuración eficaz para resistir las acciones que puedan afectar la estructura, con especial atención a los efectos sísmicos.
 
 El proyecto, de preferencia, considerará una estructuración regular que cumpla con los requisitos que establecen las Normas.
 
@@ -1500,19 +2328,29 @@ Toda edificación debe separarse de sus linderos con predios vecinos la distanci
 
 Las separaciones que deben dejarse en colindancias y juntas de construcción se indicarán claramente en los planos arquitectónicos y en los estructurales.
 
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Los espacios entre edificaciones colindantes y entre cuerpos de un mismo edificio deben quedar libres de todo material, debiendo usar tapajuntas que permitan el libre movimiento entre ellos.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 142.
 
-Los acabados y recubrimientos cuyo desprendimiento pudiera ocasionar daños a los ocupantes de la edificación o a quienes transiten en su exterior, deben fijarse mediante procedimientos aprobados por el Director Responsable de Obra y por el Corresponsable en Seguridad Estructural, en su caso. Particular atención deberá darse a los recubrimientos pétreos en fachadas y escaleras, a las fachadas prefabricadas de concreto, así como a los plafones de elementos prefabricados de yeso y otros materiales pesados.
+Los acabados y recubrimientos cuyo desprendimiento pudiera ocasionar daños a los ocupantes de la edificación o a quienes transiten en su exterior, deben fijarse mediante procedimientos expresamente aprobados por el Director Responsable de Obra o por el Corresponsable en Seguridad Estructural, en su caso. Particular atención deberá darse a los recubrimientos pétreos en fachadas y escaleras, a las fachadas prefabricadas de concreto, así como a los plafones de elementos prefabricados, de yeso y de otros materiales pesados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 143.
 
-Los elementos no estructurales que puedan restringir las deformaciones de la estructura, o que tengan un peso considerable, muros divisorios, de colindancia y de fachada, pretiles y otros elementos rígidos en fachadas, escaleras y equipos pesados, tanques, tinacos y casetas, deben ser aprobados en sus características y en su forma de sustentación por el Director Responsable de Obra y por el Corresponsable en Seguridad Estructural en obras en que éste sea requerido.
+Los elementos no estructurales que puedan restringir las deformaciones de la estructura, como muros divisorios, de colindancia y de fachada, pretiles, escaleras y otros elementos rígidos en fachadas, o que tengan un peso considerable, como equipos pesados, tanques, tinacos y casetas, deben estar definidos en los planos de proyecto y ser aprobados en sus características y en su forma de sustentación por el Director Responsable de Obra y por el Corresponsable en Seguridad Estructural en obras en que éste sea requerido.
 
 El mobiliario, los equipos y otros elementos cuyo volteo o desprendimiento puedan ocasionar daños físicos o materiales ante movimientos sísmicos, como libreros altos, anaqueles, tableros eléctricos o telefónicos y aire acondicionado, etcétera, deben fijarse de tal manera que se eviten estos daños ante movimientos sísmicos.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 144.
 
-Los anuncios adosados, colgantes, en azotea, auto soportados y en marquesina, deben ser objeto de diseño estructural en los términos de este Título, con particular atención a los efectos del viento. Deben diseñarse sus apoyos y fijaciones a la estructura principal y revisar su efecto en la estabilidad de dicha estructura.
+Los anuncios adosados o colgantes, en azotea, auto soportados y en marquesina, deben ser objeto de diseño estructural en los términos de este Título y de sus Normas, con particular atención a los efectos del viento; además, deben diseñarse en detalle sus apoyos y fijaciones a la estructura principal y revisar su efecto en la estructura.
 
 ###### ARTÍCULO 145.
 
@@ -1522,9 +2360,11 @@ Las instalaciones, particularmente las de gas, agua y drenaje que crucen juntas 
 
 ### CAPÍTULO III. DE LOS CRITERIOS DE DISEÑO ESTRUCTURAL
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 146.
 
-Toda edificación debe contar con un sistema estructural que permita el flujo adecuado de las fuerzas que generan las distintas acciones de diseño, para que dichas fuerzas puedan ser transmitidas de manera continua y eficiente hasta la cimentación. Debe contar además con una cimentación que garantice la correcta transmisión de dichas fuerzas al subsuelo.
+Toda edificación debe contar con un sistema estructural que permita el flujo adecuado de las fuerzas que generan las distintas acciones de diseño, para que dichas fuerzas puedan ser transmitidas de manera continua y eficiente hasta la cimentación. Debe contar además con una cimentación que garantice la correcta transmisión de dichas fuerzas al subsuelo considerando las condiciones en materia de hundimientos, emersiones, agrietamientos del subsuelo, oquedades o galerías de minas.
 
 ###### ARTÍCULO 147.
 
@@ -1536,6 +2376,10 @@ II. No rebasar ningún estado límite de servicio ante combinaciones de acciones
 
 El cumplimiento de estos requisitos se comprobará con los procedimientos establecidos en este Capítulo y en las Normas.
 
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Los criterios generales de diseño aplicables a todos los tipos de estructuras se definen en las Normas sobre Criterios y Acciones de Diseño.
+
 ###### ARTÍCULO 148.
 
 Se considerará como estado límite de falla cualquier situación que corresponda al agotamiento de la capacidad de carga de la estructura o de cualquiera de sus componentes, incluyendo la cimentación, o al hecho de que ocurran daños irreversibles que afecten significativamente su resistencia ante nuevas aplicaciones de carga.
@@ -1546,9 +2390,11 @@ Las Normas establecerán los estados límite de falla más importantes para cada
 
 Se considerará como estado límite de servicio la ocurrencia de desplazamientos, agrietamientos, vibraciones o daños que afecten el correcto funcionamiento de la edificación, pero que no perjudiquen su capacidad para soportar cargas. Los valores específicos de estos estados límite se definen en las Normas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 150.
 
-En el diseño de toda estructura deben tomarse en cuenta los efectos de las cargas muertas, de las cargas vivas, del sismo y del viento, cuando este último sea significativo. Las intensidades de estas acciones que deban considerarse en el diseño y la forma en que deben calcularse sus efectos se especifican en las Normas correspondientes.
+En el diseño de toda estructura deben tomarse en cuenta los efectos de las cargas muertas, de las cargas vivas, del sismo, del viento cuando este último sea significativo. Las intensidades de estas acciones y sus combinaciones habrán de considerarse en el diseño y la forma en que deben calcularse sus efectos se especifican en las Normas correspondientes.
 
 Cuando sean significativos, deben tomarse en cuenta los efectos producidos por otras acciones, como los empujes de tierras y líquidos, los cambios de temperatura, las contracciones de los materiales, los hundimientos de los apoyos y las solicitaciones originadas por el funcionamiento de maquinaria y equipo que no estén tomadas en cuenta en las cargas especificadas en las Normas correspondientes.
 
@@ -1556,9 +2402,11 @@ Cuando sean significativos, deben tomarse en cuenta los efectos producidos por o
 
 Se considerarán tres categorías de acciones, de acuerdo con la duración en que obren sobre las estructuras con su intensidad máxima, las cuales están contenidas en las Normas correspondientes.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 152.
 
-Cuando deba considerarse en el diseño el efecto de acciones cuyas intensidades no estén especificadas en este Reglamento ni en sus Normas, estas intensidades deberán establecerse siguiendo los procedimientos aprobados por la Secretaría de Obras y Servicios y con base en los criterios generales que se mencionan en las Normas.
+Cuando deba considerarse en el diseño el efecto de acciones cuyas intensidades no estén especificadas en este Reglamento ni en sus Normas, estas intensidades deberán establecerse siguiendo los procedimientos aprobados por el Instituto y con base en los criterios generales que se mencionan en las Normas.
 
 ###### ARTÍCULO 153.
 
@@ -1566,7 +2414,7 @@ La seguridad de una estructura debe verificarse para el efecto combinado de toda
 
 ###### ARTÍCULO 154.
 
-El propietario o poseedor del inmueble es responsable de los perjuicios que ocasione el cambio de uso de una edificación, cuando produzca cargas muertas o vivas mayores o con una distribución más desfavorable que las del diseño aprobado. También es responsable de los perjuicios que puedan ser ocasionados por modificaciones a la estructura y al proyecto arquitectónico que modifiquen la respuesta de la estructura ante acciones sísmicas.
+(DEROGADO, G.O. 17 DE JUNIO DE 2016)
 
 ###### ARTÍCULO 155.
 
@@ -1576,11 +2424,15 @@ Las fuerzas internas y las deformaciones producidas por las acciones se determin
 
 Los procedimientos para la determinación de la resistencia de diseño y de los factores de resistencia correspondientes a los materiales y sistemas constructivos más comunes se establecen en las Normas de este Reglamento.
 
-En los casos no comprendidos en las Normas mencionadas, la resistencia de diseño se determinará con procedimientos analíticos basados en evidencia teórica y experimental, o con procedimientos experimentales de acuerdo con el artículo 157 de este Reglamento. En ambos casos, el procedimiento para la determinación de la resistencia de diseño deberá ser aprobado por la Secretaría de Obras y Servicios. Cuando se siga un procedimiento no establecido en las Normas, la Delegación previo dictamen de la Secretaría de Obras y Servicios podrá exigir una verificación directa de la resistencia por medio de una prueba de carga realizada de acuerdo con lo que dispone el Capítulo XII de este Título.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+En los casos no comprendidos en las Normas mencionadas, la resistencia de diseño se determinará con procedimientos analíticos basados en evidencia teórica y experimental, o con procedimientos experimentales de acuerdo con el artículo 157 de este Reglamento. En ambos casos, el procedimiento para la determinación de la resistencia de diseño deberá ser aprobado por un Corresponsable en Seguridad Estructural y con el visto bueno del Instituto, que podrá exigir una verificación directa de la resistencia por medio de una prueba de carga realizada de acuerdo con lo descrito en el capítulo XII de este Título.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 157.
 
-La determinación de la resistencia debe llevarse a cabo por medio de ensayes diseñados para simular, en modelos físicos de la estructura o de porciones de ella, el efecto de las combinaciones de acciones que deban considerarse de acuerdo con las Normas de este Reglamento.
+La determinación experimental de la resistencia contemplada en el artículo anterior debe llevarse a cabo por medio de ensayes diseñados para simular, en modelos físicos de la estructura o de porciones de ella, el efecto de las combinaciones de acciones que deban considerarse de acuerdo con las Normas.
 
 Cuando se trate de estructuras o elementos estructurales que se produzcan en forma industrializada, los ensayes se harán sobre muestras de la producción o de prototipos. En otros casos, los ensayes podrán efectuarse sobre modelos de la estructura en cuestión.
 
@@ -1588,19 +2440,25 @@ La selección de las partes de la estructura que se ensayen y del sistema de car
 
 Con base en los resultados de los ensayes, se deducirá una resistencia de diseño, tomando en cuenta las posibles diferencias entre las propiedades mecánicas y geométricas medidas en los especímenes ensayados y las que puedan esperarse en las estructuras reales.
 
-El tipo de ensaye, el número de especímenes y el criterio para la determinación de la resistencia de diseño se fijará con base en criterios probabilísticos y deben ser aprobados por la Secretaría de Obras y Servicios, la cual podrá exigir una comprobación de la resistencia de la estructura mediante una prueba de carga de acuerdo con el Capítulo XII de este Título.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+El tipo de ensaye, el número de especímenes y el criterio para la determinación de la resistencia de diseño se fijarán con base en criterios probabilísticos y deben ser aprobados por el Instituto, el cual podrá exigir una comprobación de la resistencia de la estructura mediante una prueba de carga de acuerdo con el Capítulo XII de este Título.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 158.
 
-Se revisará que para las distintas combinaciones de acciones especificadas en el artículo 153 de este Reglamento y para cualquier estado límite de falla posible, la resistencia de diseño sea mayor o igual al efecto de las acciones que intervengan en la combinación de cargas en estudio, multiplicado por los factores de carga correspondientes, según lo especificado en las Normas.
+Se revisará que para las distintas combinaciones de acciones y para cualquier estado límite de falla posible, la resistencia de diseño sea mayor o igual al efecto de las acciones que intervengan en la combinación de cargas en estudio, multiplicado por los factores de carga correspondientes, según lo especificado en las Normas.
 
-Los factores de carga se establecen en la Norma correspondiente.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
 También se revisará que bajo el efecto de las posibles combinaciones de acciones sin multiplicar por factores de carga, no se rebase algún estado límite de servicio.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 159.
 
-Se podrán emplear criterios de diseño estructural diferentes de los especificados en este Capítulo y en las Normas si se justifican, a satisfacción de la Secretaría de Obras y Servicios, que los procedimientos de diseño empleados dan lugar a niveles de seguridad no menores que los que se obtengan empleando los previstos en este Reglamento; tal justificación debe realizarse previamente a la declaración de la manifestación de construcción o a la solicitud de la licencia de construcción especial.
+Se podrán emplear criterios de diseño estructural diferentes de los especificados en este Capítulo y en las Normas si se justifica, a satisfacción del Instituto, que los procedimientos de diseño empleados dan lugar a niveles de seguridad no menores que los que se obtengan empleando los previstos en este Reglamento; tal justificación debe realizarse previamente a la declaración de la manifestación de construcción o a la solicitud de la licencia de construcción especial.
 
 ### CAPÍTULO IV. DE LAS CARGAS MUERTAS
 
@@ -1640,7 +2498,7 @@ Toda edificación debe separarse de sus linderos con los predios vecinos o entre
 
 En el caso de una nueva edificación en que las colindancias adyacentes no cumplan con lo estipulado en el párrafo anterior, la nueva edificación debe cumplir con las restricciones de separación entre colindancias como se indica en las Normas.
 
-Los espacios entre edificaciones colindantes y entre cuerpos de un mismo edificio deben quedar libres de todo material, debiendo usar tapajuntas entre ellos.
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 167.
 
@@ -1648,15 +2506,19 @@ El análisis y diseño estructural de otras construcciones que no sean edificios
 
 ### CAPÍTULO VII. DEL DISEÑO POR VIENTO
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 168.
 
-Las bases para la revisión de la seguridad y condiciones de servicio de las estructuras ante los efectos de viento y los procedimientos de diseño se establecen en las Normas.
+Las bases para la revisión de la seguridad y condiciones de servicio de las estructuras ante los efectos de viento y los procedimientos de diseño se establecen en las Normas Técnicas Complementarias de Diseño por Viento.
 
 ### CAPÍTULO VIII. DEL DISEÑO DE CIMENTACIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 169.
 
-Toda edificación se soportará por medio de una cimentación que cumpla con los requisitos relativos al diseño y construcción que se establecen en las Normas.
+Toda edificación se soportará por medio de una cimentación que cumpla con los requisitos relativos al diseño y construcción que se establecen en las Normas Técnicas Complementarias de Diseño y Construcción de Cimentaciones.
 
 Las edificaciones no podrán en ningún caso desplantarse sobre tierra vegetal, suelos o rellenos sueltos o desechos. Sólo será aceptable cimentar sobre terreno natural firme o rellenos artificiales que no incluyan materiales degradables y hayan sido adecuadamente compactados.
 
@@ -1664,7 +2526,9 @@ Las edificaciones no podrán en ningún caso desplantarse sobre tierra vegetal, 
 
 Para fines de este Título, el Distrito Federal se divide en tres zonas con las siguientes características generales:
 
-Zona I. Lomas, formadas por rocas o suelos generalmente firmes que fueron depositados fuera del ambiente lacustre, pero en los que pueden existir, superficialmente o intercalados, depósitos arenosos en estado suelto o cohesivos relativamente blandos. En esta Zona, es frecuente la presencia de oquedades en rocas y de cavernas y túneles excavados en suelo para explotar minas de arena;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+Zona I. Lomas, formadas por rocas o suelos generalmente firmes que fueron depositados fuera del ambiente lacustre, pero en los que pueden existir, superficialmente o intercalados, depósitos arenosos en estado suelto o cohesivos relativamente blandos. En esta Zona, es frecuente la presencia de rellenos artificiales no compactados, o de oquedades en rocas y de cavernas y túneles excavados en suelo para explotar minas de arena;
 
 Zona II. Transición, en la que los depósitos profundos se encuentran a 20 m de profundidad, o menos, y que está constituida predominantemente por estratos arenosos y limoarenosos intercalados con capas de arcilla lacustre, el espesor de éstas es variable entre decenas de centímetros y pocos metros, y
 
@@ -1684,53 +2548,83 @@ II. En las zonas II y III a que se refiere el artículo 170 de este Reglamento, 
 
 Deben investigarse el tipo y las condiciones de cimentación de las edificaciones colindantes en materia de estabilidad, hundimientos, emersiones, agrietamientos del suelo y desplomos, y tomarse en cuenta en el diseño y construcción de la cimentación en proyecto.
 
-Asimismo, se investigarán la localización y las características de las obras subterráneas cercanas, existentes o proyectadas, pertenecientes a la Red de Transporte Colectivo, de drenaje y de otros servicios públicos, con objeto de verificar que la edificación no cause daños a tales instalaciones ni sea afectada por ellas.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Asimismo, se investigarán la localización y las características de las obras subterráneas cercanas, existentes o proyectadas, pertenecientes al Sistema de Transporte Colectivo, de drenaje y de otros servicios públicos, con objeto de verificar que la edificación no cause daños a tales instalaciones ni sea afectada por ellas.
 
 ###### ARTÍCULO 173.
 
 En el diseño de toda cimentación, se considerarán los estados límite de falla y de servicio tal y como se indican en las Normas.
 
-### CAPÍTULO IX. DE LAS OTRAS OBRAS
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 17 DE JUNIO DE 2016)</small>
+
+### CAPÍTULO IX. DE LAS OBRAS SUBTERRÁNEAS
 
 ###### ARTÍCULO 174.
 
 En el diseño de las excavaciones se considerarán los estados límite de falla y de servicio tal y como se indican en las Normas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 175.
 
-Los muros de contención exteriores construidos para dar estabilidad a desniveles del terreno, deben diseñarse de tal forma que no rebasen los siguientes estados límite de falla: volteo, desplazamiento del muro, falla de la cimentación del mismo o del talud que lo soporta, o bien rotura estructural. Además, se revisarán los estados límite de servicio, como asentamiento, giro o deformación excesiva del muro. Los empujes se estimarán tomando en cuenta la flexibilidad del muro, el tipo de relleno y el método de colocación del mismo. Los muros incluirán un sistema de drenaje adecuado que limite el desarrollo de empujes superiores a los de diseño por efectos de presión del agua.
+Los muros de contención exteriores construidos para dar estabilidad a desniveles del terreno, deben diseñarse de tal forma que no se rebasen los siguientes estados límite de falla: volteo, desplazamiento del muro, falla de la cimentación del mismo o del talud que lo soporta, falla del terreno o dela (sic) estructura. Además, se revisarán los estados límite de servicio, como asentamiento, giro o deformación excesiva del muro. Los empujes se estimarán tomando en cuenta la flexibilidad del muro, el tipo de relleno y el método de colocación del mismo. Los muros incluirán un sistema de drenaje adecuado que limite el desarrollo de empujes superiores a los de diseño por efectos de presión del agua.
 
 Los empujes debidos a solicitaciones sísmicas se calcularán de acuerdo con el criterio definido en el Capítulo VI de este Título.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 176.
 
-En las edificaciones del Grupo A y Subgrupo B1 a que se refiere el artículo 139 de este Reglamento, deben hacerse nivelaciones durante la edificación y hasta que los movimientos diferidos se estabilicen, a fin de observar el comportamiento de las excavaciones y cimentaciones y prevenir daños a la propia edificación, a las edificaciones vecinas y a los servicios públicos. Será obligación del propietario o poseedor de la edificación, proporcionar copia de los resultados de estas mediciones, así como los planos, memorias de cálculo y otros documentos sobre el diseño de la cimentación a los diseñadores de edificios que se construyan en predios contiguos.
+En las edificaciones del grupo A y subgrupo B1 a que se refiere el artículo 139 de este Reglamento, si se encuentran ubicadas en las zonas II y III conforme al artículo 170 de este Reglamento, deben hacerse nivelaciones durante su construcción y hasta que los movimientos diferidos se estabilicen, a fin de observar su comportamiento durante las excavaciones a fin de prevenir daños a la propia edificación, a las edificaciones vecinas y a los servicios públicos. Será obligación del propietario o poseedor de la edificación, proporcionar copia de los resultados de estas mediciones, así como los planos, memorias de cálculo y otros documentos sobre el diseño de la cimentación a los diseñadores de edificios que se construyan en predios contiguos.
 
 ### CAPÍTULO X. DE LAS CONSTRUCCIONES DAÑADAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 177.
 
-No es necesario revisar la seguridad de edificaciones construidas antes del año 1900 si no han sufrido daños o inclinación significativos y siempre que no se hayan modificado sus muros u otros elementos estructurales ni se hayan incrementado significativamente las cargas originales.
+Será necesario revisar de manera cuantitativa la seguridad y estabilidad estructural de las edificaciones, de conformidad con lo establecido en este Reglamento, cuando se presente alguna de las siguientes condiciones:
 
-No será necesaria la verificación cuantitativa de que cumplan los requisitos de estabilidad estructural establecidos en el Título Sexto de este Reglamento, en las edificaciones del Grupo A que satisfagan simultáneamente las siguientes condiciones:
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
-I. Que haya evidencia de que el edificio en cuestión no tiene daños estructurales ni los ha tenido ni ha sido reparado, y que el comportamiento de la cimentación ha sido satisfactorio; la evidencia se obtendrá de inspección exhaustiva de los elementos principales de la estructura, así como del comportamiento de la cimentación; se verificará que no se hayan efectuado modificaciones que afecten desfavorablemente su comportamiento;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
-II. Que no existan defectos en la calidad de los materiales ni en la ejecución de la estructura, según conste en los datos disponibles sobre la construcción de la edificación, en la inspección de la estructura y en los resultados de las pruebas realizadas a los materiales;
+I. Que haya evidencia de que el edificio en cuestión tiene daños estructurales o los ha tenido o no han sido reparados, o que el comportamiento de la cimentación no ha sido satisfactorio; la evidencia se obtendrá de inspección exhaustiva de los elementos principales de la estructura, así como del comportamiento de la cimentación;
 
-III. Que el sistema estructural sea idóneo para resistir fuerzas sísmicas y en particular, no presente excesivas asimetrías, discontinuidades ni irregularidades en planta o elevación que pudieran ser perjudiciales; en caso de que presente alguno de los defectos anteriores, éstos puedan eliminarse sin que se afecte la resistencia de la estructura, y
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
-IV. Que se trate de una escuela, que no sea de educación inicial, preescolar, primaria, media o media superior, o no aloje a más de cincuenta alumnos.
+II. Que existan defectos en la calidad de los materiales y en la ejecución de la estructura, según conste en los datos disponibles sobre la construcción de la edificación, en la inspección de la estructura y en los resultados de las pruebas realizadas a los materiales;
 
-La verificación de que se cumpla con todos los requisitos anteriores deberá asentarse en la constancia expedida por un Corresponsable en Seguridad Estructural.
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+III. Que el sistema estructural no sea idóneo para resistir fuerzas sísmicas o presente excesivas asimetrías, discontinuidades e irregularidades en planta o elevación que pudieran ser perjudiciales;
+
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+IV. Que se trate de una escuela de educación inicial, preescolar, primaria, media, media superior, o superior, después de un sismo, cuando así lo determine la Administración.
+
+> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+V. Que se hayan modificado sus muros u otros elementos estructurales o se hayan incrementado significativamente las cargas originales.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+La verificación de que la edificación se encuentra en alguna de las condiciones anteriores deberá asentarse en el dictamen técnico de estabilidad o de seguridad estructural suscrito por un Corresponsable en Seguridad Estructural.
 
 ###### ARTÍCULO 178.
 
 Todo propietario o poseedor de un inmueble tiene obligación de denunciar ante la Delegación los daños de que tenga conocimiento que se presenten en dicho inmueble, como los que pueden ser debidos a efectos del sismo, viento, explosión, incendio, hundimiento, peso propio de la edificación y de las cargas adicionales que obran sobre ella, o a deterioro de los materiales e instalaciones.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 179.
 
-Los propietarios o poseedores de las edificaciones que presenten daños, recabarán la constancia de seguridad estructural por parte de un Corresponsable en Seguridad Estructural, y del buen estado de las instalaciones por parte de los Corresponsables respectivos. Si se demuestra que los daños no afectan la estabilidad y buen funcionamiento de las instalaciones de la edificación en su conjunto o de una parte significativa de la misma puede dejarse en su situación actual, o bien solo repararse o reforzarse localmente. De lo contrario, el propietario o poseedor de la edificación está obligado a llevar a cabo las obras de refuerzo y renovación de las instalaciones que se especifiquen en el proyecto respectivo, según lo que se establece en el artículo siguiente.
+Los propietarios o poseedores de las edificaciones que presenten daños deberán obtener el dictamen técnico de estabilidad o de seguridad estructural elaborado por un Corresponsable en Seguridad Estructural, así como un informe del estado actual de las instalaciones por parte del Corresponsable respectivo. Si se demuestra que los daños no afectan la estabilidad y buen funcionamiento de las instalaciones de la edificación en su conjunto o de una parte significativa de la misma puede dejarse en su situación actual, o bien solo repararse o reforzarse localmente. De lo contrario, el propietario o poseedor de la edificación está obligado a llevar a cabo las obras de refuerzo y renovación de las instalaciones que se especifiquen en el proyecto respectivo, según lo que se establece en el artículo siguiente.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+En caso de que los daños en la edificación hayan sido generados por la construcción de una obra colindante y así lo indique el dictamen técnico de estabilidad o de seguridad estructural, el propietario o poseedor o constructor de la obra colindante estará obligado a reparar los daños.
 
 ###### ARTÍCULO 180.
 
@@ -1746,7 +2640,9 @@ IV. Basarse en el diagnóstico del estado de la estructura y las instalaciones d
 
 V. Incluir una revisión detallada de la cimentación y de las instalaciones ante las condiciones que resulten de las modificaciones a la estructura, y
 
-VI. Someterse al proceso de revisión que establezca la Delegación para el registro de manifestación de construcción o la expedición de la licencia de construcción especial respectiva.
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+VI. Someterse al proceso de revisión que establezca el Instituto para el registro de manifestación de construcción o la expedición de la licencia de construcción especial respectiva.
 
 ###### ARTÍCULO 181.
 
@@ -1762,11 +2658,19 @@ Antes de iniciar las obras de refuerzo y reparación, debe demostrarse que la ed
 
 Las obras provisionales, como tribunas para eventos especiales, pasos de carácter temporal para peatones o vehículos durante obras viales o de otro tipo, tapiales, obras falsas y cimbras, deben proyectarse para cumplir los requisitos de seguridad de este Reglamento.
 
-Las obras provisionales que puedan ser ocupadas por más de 100 personas deben ser sometidas, antes de su uso, a una prueba de carga en términos del Capítulo XII de este Título.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Las obras provisionales que puedan ser ocupadas por más de 100 personas, deben contar con la responsiva de un Corresponsable en Seguridad Estructural de conformidad con lo señalado en el Artículo 36 del presente Reglamento y sus normas.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 184.
 
-Las modificaciones de edificaciones existentes, que impliquen una alteración en su funcionamiento estructural, serán objeto de un proyecto estructural que garantice que tanto la zona modificada como la estructura en su conjunto y su cimentación cumplan con los requisitos de seguridad de este Reglamento. El proyecto debe incluir los apuntalamientos, rigidizaciones y demás precauciones que se necesiten durante la ejecución de las modificaciones.
+Las modificaciones en edificaciones existentes, que impliquen una alteración en su funcionamiento estructural, o un cambio en su uso y ocupación (cargas vivas) serán objeto de un proyecto estructural que garantice que tanto la zona modificada como la estructura en su conjunto y su cimentación cumplan con los requisitos de seguridad de este Reglamento. El proyecto debe incluir los apuntalamientos, rigidizaciones y demás precauciones que se necesiten durante la ejecución de las modificaciones, el mismo deberá ser avalado por un Corresponsable en Seguridad Estructural.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+ARTÍCULO 184 BIS.- El propietario o poseedor del inmueble es responsable de los daños que ocasione el cambio de uso de una edificación, cuando produzca cargas muertas o vivas mayores o con una distribución más desfavorable que las del diseño aprobado. También será responsable de los daños que puedan ser ocasionados por modificaciones a la estructura y al proyecto arquitectónico que alteren la respuesta de la estructura ante acciones sísmicas.
 
 ### CAPÍTULO XII. DE LAS PRUEBAS DE CARGA
 
@@ -1774,7 +2678,9 @@ Las modificaciones de edificaciones existentes, que impliquen una alteración en
 
 Será necesario comprobar la seguridad de una estructura por medio de pruebas de carga en los siguientes casos:
 
-I. En las obras provisionales o de recreación que puedan albergar a más de 100 personas;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+I. En las obras provisionales o de recreación que puedan albergar a más de 100 personas; determinado por el dictamen técnico de estabilidad o seguridad estructural expedido por un Corresponsable en Seguridad Estructural;
 
 II. Cuando no exista suficiente evidencia teórica o experimental para juzgar en forma confiable la seguridad de la estructura en cuestión, y
 
@@ -1816,37 +2722,53 @@ XII. Cuando se requiera evaluar mediante pruebas de carga la seguridad de una ed
 
 ### CAPÍTULO I. GENERALIDADES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 187.
 
-Una copia de los planos registrados y de la licencia de construcción especial, debe conservarse en las obras durante la ejecución de éstas y estar a disposición de la Delegación.
+Una copia de los planos o croquis registrados y de la licencia de construcción especial, debe conservarse en las obras durante la ejecución de éstas y estar a disposición de la Administración.
 
 Durante la ejecución de una obra deben tomarse las medidas necesarias para no alterar la accesibilidad y el funcionamiento de las edificaciones e instalaciones en predios colindantes o en la vía pública.
 
 Deben observarse, las disposiciones establecidas por la Ley Ambiental del Distrito Federal y su Reglamento, así como las demás disposiciones aplicables para la Protección del Medio Ambiente.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 188.
 
-Los materiales de construcción, escombros u otros residuos con excepción de los peligrosos, generados en las obras, podrán colocarse en las banquetas de vía pública por no más de 24 horas, sin invadir la superficie de rodamiento y sin impedir el paso de peatones y de personas con discapacidad, previo permiso otorgado por la Delegación, durante los horarios y bajo las condiciones que fije en cada caso.
+Los materiales de construcción, escombros u otros residuos con excepción de los peligrosos, generados en las obras, podrán colocarse en las banquetas de vía pública por no más de 24 horas, sin invadir la superficie de rodamiento y sin obstruir o impedir el paso de peatones y de personas con discapacidad, previo permiso otorgado por la Administración en el que deberán constar las condiciones y horarios para ello.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 189.
 
-Los vehículos que carguen o descarguen materiales para una obra podrán realizar sus maniobras en la vía pública durante los horarios que autorice la Delegación, mismo que será visible en el letrero de la obra a que hace referencia el artículo 35 fracción VI de este Reglamento; y se apegará a lo que disponga al efecto el Reglamento de Tránsito del Distrito Federal.
+Los vehículos que carguen o descarguen materiales para una obra podrán realizar sus maniobras en la vía pública durante los horarios que autorice la Administración, mismo que será visible en el letrero de la obra a que hace referencia el artículo 35 fracción VI de este Reglamento; y se apegará a lo que disponga al efecto el Reglamento de Tránsito del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+No se podrá afectar la funcionalidad de la vía pública con equipos, maquinaria y actividades de obra relacionadas con la misma de lo contrario será motivo de sanción por parte de la autoridad competente, conforme al Reglamento.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 190.
 
-Los escombros, excavaciones y cualquier otro obstáculo para el tránsito en la vía pública, originados por obras públicas o privadas, serán protegidos con barreras, cambio de textura o borde en piso a una distancia mínima de un metro para ser percibidos por los invidentes y señalados por los responsables de las obras con banderas y letreros durante el día y con señales luminosas claramente visibles durante la noche, de acuerdo al Manual de Dispositivos para el Control de Tránsito en Zonas Urbanas y Suburbanas emitido por la Secretaría de Transporte y Vialidad.
+Los escombros, excavaciones y cualquier otro obstáculo para el tránsito en la vía pública, originados por obras públicas o privadas, serán protegidos con barreras, cambio de textura o borde en piso a una distancia mínima de un metro para ser percibidos por las personas con discapacidad y señalados por los responsables de las obras con banderas y letreros durante el día y con señales luminosas claramente visibles durante la noche, de acuerdo al Manual de Dispositivos para el Control de Tránsito en Zonas Urbanas y Suburbanas emitido por la Secretaría de Movilidad y a la NOM-086-SCT vigente o la que la sustituye, de señalamiento y dispositivos para protección en zonas de obras viales.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 191.
 
-Los propietarios o poseedores están obligados a reparar por su cuenta las banquetas y guarniciones que hayan deteriorado con motivo de la ejecución de la obra. En su defecto, la Delegación ordenará los trabajos de reparación o reposición con cargo a los propietarios o poseedores. Si se trata de esquinas y no existen rampas peatonales, se realizarán de acuerdo con lo establecido en las Normas.
+Los propietarios o poseedores de los predios o inmuebles de obras en construcción, están obligados a reparar o reponer por su cuenta las banquetas, guarniciones, brocales y todo aquel elemento que se haya deteriorado con motivo de la ejecución de la obra, con iguales características y calidad de las existentes. Estos trabajos se consideran implícitos en el registro de manifestación de construcción o en la licencia de construcción especial. En su defecto, la Administración ordenará los trabajos de reparación o reposición con cargo a los propietarios o poseedores. Si se trata de esquinas y no existen rampas peatonales, éstas se construirán de acuerdo a los requerimientos de accesibilidad que establezcan las Normas.
 
 ###### ARTÍCULO 192.
 
 Los equipos eléctricos en instalaciones provisionales, utilizados durante la obra, deben cumplir con las Normas Oficiales Mexicanas que correspondan.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 193.
 
-Los propietarios o poseedores de las obras cuya construcción sea suspendida por cualquier causa por más de 60 días naturales, están obligados a dar aviso a la autoridad correspondiente, a limitar sus predios con la vía pública por medio de cercas o bardas y a clausurar los vanos que fuere necesario, a fin de impedir el acceso a la construcción.
+Los propietarios o poseedores de las obras cuya construcción sea suspendida por cualquier causa por más de 45 días naturales, están obligados a dar aviso a la autoridad correspondiente, a limitar sus predios con la vía pública por medio de cercas o bardas y a clausurar los vanos que fuere necesario, a fin de impedir el acceso a la construcción.
 
 ###### ARTÍCULO 194.
 
@@ -1854,41 +2776,61 @@ Los tapiales, de acuerdo con su tipo, deberán ajustarse a las siguientes dispos
 
 I. De barrera: cuando se ejecuten obras de pintura, limpieza o similares, se colocarán barreras que se puedan remover al suspenderse el trabajo diario. Estarán pintadas y tendrán leyendas de "Precaución". Se construirán de manera que no obstruyan o impidan la vista de las señales de tránsito, de las placas de nomenclatura o de los aparatos y accesorios de los servicios públicos, en caso necesario, se solicitará a la Administración su traslado provisional a otro lugar;
 
-II. De marquesina: cuando los trabajos se ejecuten a más de 10 m de altura, se colocarán marquesinas que cubran suficientemente la zona inferior de las obras, tanto sobre la banqueta como sobre los predios colindantes. Se colocarán de tal manera que la altura de caída de los materiales de demolición o de construcción sobre ellas, no exceda de cinco metros;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
-III. Fijos: en las obras que se ejecuten en un predio a una distancia menor de 10 m de la vía pública, se colocarán tapiales fijos que cubran todo el frente de la misma. Serán de madera, lámina, concreto, mampostería o de otro material que ofrezca garantías de seguridad. Tendrán una altura mínima de 2.40 m; deben estar pintados y no tener más claros que los de las puertas, las cuales se mantendrán cerradas. Cuando la fachada quede al paño del alineamiento, el tapial podrá abarcar una franja anexa hasta de 0.50 m sobre la banqueta. Previa solicitud, la Delegación podrá conceder mayor superficie de ocupación de banquetas; siempre y cuando no se impida el paso de peatones incluyendo a personas con discapacidad;
+II. De marquesina: cuando los trabajos se ejecuten a más de 5 m de altura, se colocarán marquesinas que cubran suficientemente la zona inferior de las obras, tanto sobre la banqueta como sobre los predios colindantes. Se colocarán de tal manera que la altura de caída de los materiales de demolición o de construcción sobre ellas, no exceda de cinco metros;
 
-IV. De paso cubierto: en obras cuya altura sea mayor de 10 m y en aquellas en que la invasión de banqueta lo amerite, la Delegación exigirá la construcción de un paso cubierto, además del tapial. Tendrá, cuando menos, una altura de 2.40 m y una anchura libre de 1.20 m, y
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
-En casos especiales, la Delegación podrá permitir o exigir, en su caso, otro tipo de tapiales diferentes a los especificados en este artículo.
+III. Fijos: en las obras que se ejecuten en un predio a una distancia menor de 10 m de la vía pública, se colocarán tapiales fijos que cubran todo el frente o frentes de la misma. Serán de madera, lámina, concreto, mampostería o de otro material que ofrezca garantías de seguridad. Tendrán una altura mínima de 2.40 m; deben estar pintados y no tener más claros que los de las puertas, las cuales se mantendrán cerradas. Cuando la fachada quede al paño del alineamiento, el tapial podrá abarcar una franja anexa hasta de 0.50 m sobre la banqueta. Previa solicitud, la Administración podrá conceder mayor superficie de ocupación de banquetas; siempre y cuando no se impida el paso de peatones incluyendo a personas con discapacidad;
+
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+IV. De paso cubierto: en obras cuya altura sea mayor de 10 m y en aquellas en que la invasión de banqueta lo amerite, la Administración exigirá la colocación de un tapial de paso cubierto, además del tapial de barrera. Tendrá, cuando menos, una altura de 2.40 m y una anchura libre de 1.20 m. Sobre el tapial en el primer nivel, se podrá instalar de manera temporal una oficina de obra o depósito de materiales, y
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+En casos especiales, el Director Responsable de Obra podrá solicitar a la Administración la colocación, en su caso, de tapiales diferentes a los especificados en este artículo.
 
 Ningún elemento de los tapiales quedará a menos de 0.50 m de la vertical sobre la guarnición de la banqueta.
 
 ### CAPÍTULO II. DE LA SEGURIDAD E HIGIENE EN LAS OBRAS
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 195.
 
-Durante la ejecución de cualquier edificación, el Director Responsable de Obra o el propietario de la misma, si ésta no requiere Director Responsable de Obra, tomarán las precauciones, adoptarán las medidas técnicas y realizarán los trabajos necesarios para proteger la vida y la integridad física de los trabajadores y la de terceros, para lo cual deberán cumplir con lo establecido en este Capítulo y con el Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo.
+Durante la ejecución de cualquier edificación u obra, el Director Responsable de Obra, el propietario o poseedor, o representante legal de la misma, si ésta no requiere Director Responsable de Obra, tomarán las precauciones, adoptarán las medidas técnicas y realizarán los trabajos necesarios para proteger la vida y la integridad física de los trabajadores y la de terceros, para lo cual deberán cumplir con lo establecido en este Capítulo, en la NOM-031-STPS-2011 de la Secretaría del Trabajo y Previsión Social vigente o la que la sustituye, en el Reglamento Federal de Seguridad y Salud en el Trabajo, así como en la Ley del Sistema de Protección Civil del Distrito Federal y su Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 196.
 
-Durante las diferentes etapas de construcción de cualquier edificación, deben tomarse las precauciones necesarias para evitar los incendios y para combatirlos mediante el equipo de extinción adecuado. Esta protección debe proporcionarse tanto al área ocupada por la obra en sí, como a las colindancias, bodegas, almacenes y oficinas. El equipo de extinción de fuego debe ubicarse en lugares de fácil acceso en las zonas donde se ejecuten soldaduras u otras operaciones que puedan originar incendios y se identificará mediante señales, letreros o símbolos claramente visibles.
+Durante la construcción de cualquier edificación, deben tomarse las precauciones necesarias para evitar los incendios y para combatirlos mediante el equipo de extinción adecuado. Esta protección debe proporcionarse tanto al área ocupada por la obra en sí, como a las colindancias, bodegas, almacenes y oficinas. El equipo de extinción de fuego debe ubicarse en lugares de fácil acceso en las zonas donde se ejecuten soldaduras u otras operaciones que puedan originar incendios y se identificará mediante señales, letreros o símbolos claramente visibles.
 
-Los extintores de fuego deben cumplir con lo indicado en este Reglamento y sus Normas, y en el Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Los extintores de fuego deben cumplir con lo indicado en este Reglamento y sus Normas, en las Normas Oficiales Mexicanas vigentes y en el Reglamento Federal de Seguridad y Salud en el Trabajo, así como, en la Ley del Sistema de Protección Civil del Distrito Federal y su Reglamento.
 
 Los aparatos y equipos que se utilicen en la edificación, que produzcan humo o gas proveniente de la combustión, deben ser colocados de manera que se evite el peligro de incendio o de intoxicación.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 197.
 
-Deben usarse redes de seguridad donde exista la posibilidad de caída de los trabajadores de las edificaciones, cuando no puedan usarse cinturones de seguridad, líneas de amarre o andamios con barandales.
+Deben usarse redes de seguridad donde exista la posibilidad de caída de los trabajadores de las edificaciones, además de uso de arnés y líneas de vida, así como cumplir con lo indicado en la (sic) Normas Oficiales Mexicanas en la materia, cuando no puedan usarse cinturones de seguridad, líneas de amarre o andamios con barandales.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 198.
 
-Los trabajadores deben usar los equipos de protección personal en los casos que se requiera, de conformidad con el Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo.
+Los trabajadores deben usar los equipos de protección personal en los casos que se requiera, de conformidad con lo indicado por las Normas Oficiales Mexicanas en la materia, en el Reglamento Federal de Seguridad y Salud en el Trabajo; así como en la Ley del Sistema de Protección Civil del Distrito Federal y su Reglamento.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 199.
 
-En las obras deben proporcionarse a los trabajadores servicios provisionales de agua potable y un sanitario portátil, excusado o letrina por cada 25 trabajadores o fracción excedente de 15; y mantener permanentemente un botiquín con los medicamentos e instrumentales de curación necesarios para proporcionar primeros auxilios.
+En las obras deben proporcionarse a los trabajadores por separado servicios provisionales de agua potable y un sanitario portátil, excusado o letrina por cada 25 trabajadores o fracción excedente de 15; para hombres y uno para mujeres y mantener permanentemente un botiquín portátil con el material, manual y equipo de curación necesarios para proporcionar losprimeros (sic) auxiliosen (sic) la obra, de igual manera se deberá tener un directorio que contenga los números telefónicos de los servicios de urgencias.
 
 ### CAPÍTULO III. DE LOS MATERIALES Y PROCEDIMIENTOS DE CONSTRUCCIÓN
 
@@ -1904,9 +2846,11 @@ II. Cuando se proyecte utilizar en una construcción algún material nuevo del c
 
 Los materiales de construcción deben ser almacenados en las obras de tal manera que se evite su deterioro y la intrusión de materiales extraños que afecten las propiedades y características del material.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 202.
 
-El Director Responsable de Obra, debe vigilar que se cumpla con este Reglamento y con lo especificado en el proyecto, principalmente en lo que se refiere a los siguientes aspectos:
+El Director Responsable de Obra debe vigilar que se cumpla con este Reglamento, las Normas y con lo especificado en el proyecto, principalmente en lo que se refiere a los siguientes aspectos:
 
 I. Propiedades mecánicas de los materiales;
 
@@ -1936,9 +2880,11 @@ En los paramentos exteriores de los muros debe impedirse el paso de la humedad; 
 
 ### CAPÍTULO IV. DE LAS MEDICIONES Y TRAZOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 206.
 
-En las edificaciones en que se requiera llevar registro de posibles movimientos verticales, de acuerdo con el artículo 176 de este Reglamento, así como en aquellas en que el Director Responsable de Obra lo considere necesario o la Administración lo ordene, se instalarán referencias o bancos de nivel, suficientemente alejados de la cimentación o estructura de que se trate, para no ser afectados por los movimientos de las mismas o de otras cargas cercanas, y se referirán a éstos las nivelaciones que se hagan.
+En las edificaciones en que se requiera llevar registro de posibles desplazamientos y/o movimientos verticales, de acuerdo con el artículo 176 de este Reglamento, así como en aquellas en que el Director Responsable de Obra lo considere necesario o la Administración lo ordene, se instalarán referencias fijas o bancos de nivel, suficientemente alejados de la cimentación o estructura de que se trate, para no ser afectados por los movimientos de las mismas o de otras cargas cercanas, y se referirán a éstos las nivelaciones que se hagan.
 
 En este caso, también se efectuarán nivelaciones a las edificaciones ubicadas en los predios colindantes a la construcción con objeto de observar su comportamiento.
 
@@ -1952,13 +2898,17 @@ Antes de iniciarse una construcción debe verificarse el trazo del alineamiento 
 
 Para la ejecución de las excavaciones y la construcción de cimentaciones se observarán las disposiciones del Capítulo VIII del Título Sexto de este Reglamento, así como las Normas. En particular se cumplirá lo relativo a las precauciones para que no resulten afectadas las edificaciones y predios vecinos ni los servicios públicos, de acuerdo con lo dispuesto en el artículo 172 de este Reglamento.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 209.
 
-Si en el proceso de una excavación se encuentran restos fósiles o arqueológicos, se debe suspender de inmediato la excavación en ese lugar y notificar a la Delegación para que lo haga del conocimiento de las dependencias de la Administración Pública Federal y/o Local competentes.
+Si en el proceso de una excavación se encuentran restos fósiles o arqueológicos, se debe suspender de inmediato la excavación en ese lugar y notificar a la Administración para que lo haga del conocimiento de las dependencias de la Administración Pública Federal y/o Local competentes.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 210.
 
-El uso de explosivos en excavaciones queda condicionado a la autorización y cumplimiento de los ordenamientos que señale la Secretaría de la Defensa Nacional y a las restricciones y elementos de protección que ordene la Delegación.
+El uso de explosivos en excavaciones queda condicionado a la autorización y cumplimiento de los ordenamientos que señale la Secretaría de la Defensa Nacional y a las restricciones y elementos de protección que ordene la Administración.
 
 ### CAPÍTULO VI. DEL DISPOSITIVO PARA TRANSPORTE VERTICAL EN LAS OBRAS
 
@@ -1984,9 +2934,11 @@ IV. Indicar claramente la carga útil máxima de la máquina de acuerdo con sus 
 
 V. Estar provistas de los accesorios necesarios para evitar descensos accidentales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 213.
 
-Antes de instalar grúas-torre en una obra, se debe despejar el sitio para permitir el libre movimiento de la carga y del brazo giratorio y vigilar que dicho movimiento no dañe edificaciones vecinas, instalaciones o líneas eléctricas en vía pública.
+Cuando el desarrollo de una obra pública o privada en construcción, requiera de la instalación y uso de una o más grúas-torre, el propietario y/o el constructor deberán presentar ante la Administración para su visto bueno, la información correspondiente a su localización céntrica dentro del predio, sus rangos de operación y áreas de proyección del brazo giratorio, asegurándose de que dicha operación no dañe edificaciones vecinas, infraestructura urbana, ni ponga en peligro el libre y seguro tránsito de personas o vehículos en la vía pública, presentando una fianza de responsabilidad civil.
 
 Se debe hacer una prueba completa de todas las funciones de las grúas-torre después de su erección o extensión y antes de que entren en operación.
 
@@ -1994,9 +2946,11 @@ Semanalmente deben revisarse y corregirse, en su caso, cables, contraventeos, ma
 
 ### CAPÍTULO VII. DE LAS INSTALACIONES
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 214.
 
-Las instalaciones eléctricas, hidráulicas, sanitarias, contra incendio, de gas, vapor, combustible, líquidos, aire acondicionado, telefónicas, de comunicación y todas aquellas que se coloquen en las edificaciones, serán las que indique el proyecto, y garantizarán la eficiencia de las mismas, así como la seguridad de la edificación, trabajadores y usuarios, para lo cual deben cumplir con lo señalado en este Capítulo, en las Normas y las demás disposiciones aplicables a cada caso.
+Las instalaciones eléctricas, hidráulicas, sanitarias, contra incendio, de gas, vapor, combustible, líquidos, calentamiento de agua por el aprovechamiento de la energía solar, aire acondicionado, telefónicas, de comunicación y todas aquellas que se coloquen en las edificaciones, serán las que indique el proyecto, y garantizarán la eficiencia de las mismas, así como la seguridad de la edificación, trabajadores y usuarios, para lo cual deben cumplir con lo señalado en este Capítulo, en las Normas Oficiales Mexicanas, Normas Mexicanas aplicables y las demás disposiciones aplicables a cada caso.
 
 ###### ARTÍCULO 215.
 
@@ -2014,9 +2968,11 @@ III. Los tramos verticales de las tuberías de instalaciones se colocarán empot
 
 IV. Las tuberías alojadas en terreno natural se sujetarán a las disposiciones indicadas en las Normas.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 217.
 
-Los tramos de tuberías de las instalaciones hidráulicas, sanitarias, contra incendio, de gas, vapor, combustibles líquidos, aire comprimido, oxígeno y otros, deben unirse y sellarse herméticamente, de manera que se impida la fuga del fluido que conduzcan, para lo cual debe observarse lo que se establece en las Normas y demás disposiciones aplicables.
+Los tramos de tuberías de las instalaciones hidráulicas, sanitarias, contra incendio, de gas, vapor, combustibles líquidos, calentamiento de agua por medio del aprovechamiento de la energía solar, aire comprimido, oxígeno y otros, deben unirse y sellarse herméticamente, de manera que se impida la fuga del fluido que conduzcan, para lo cual debe observarse lo que se establece en las Normas Oficiales Mexicanas, Normas Mexicanas aplicables y demás disposiciones aplicables.
 
 ###### ARTÍCULO 218.
 
@@ -2024,45 +2980,69 @@ Las tuberías para las instalaciones a que se refiere el artículo anterior se p
 
 ### CAPÍTULO VIII. DE LAS FACHADAS
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 219.
 
-Las placas de materiales en fachadas se fijarán mediante el sistema que proporcione el anclaje necesario, y se tomarán las medidas que permitan los movimientos estructurales previsibles, así como para evitar el paso de humedad a través del revestimiento.
+Los materiales de recubrimientos en fachadas se fijarán mediante el sistema que proporcione el anclaje o la adherencia necesarios, y se tomarán las medidas que permitan los movimientos estructurales previsibles, así como para evitar el paso de humedad a través del revestimiento.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 220.
 
-Los vidrios y cristales deben colocarse tomando en cuenta los posibles movimientos de la edificación y contracciones ocasionadas por cambios de temperatura. Los asientos y selladores empleados en la colocación de piezas mayores a 1.5 m2 deberán absorber tales deformaciones y conservar su elasticidad, debiendo observarse lo dispuesto en el Capítulo VI del Título Sexto de este Reglamento y las Normas, respecto de las holguras necesarias para absorber movimientos sísmicos.
+Los vidrios, cristales y materiales frágiles deben colocarse tomando en cuenta los posibles movimientos de la edificación y contracciones ocasionadas por cambios de temperatura. Los asientos y selladores empleados en la colocación de piezas mayores a 1.5 m2 deberán absorber tales deformaciones y conservar su elasticidad, debiendo observarse lo dispuesto en el Capítulo VI del Título Sexto de este Reglamento y las Normas, respecto de las holguras necesarias para absorber movimientos sísmicos.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 221.
 
-Las ventanas, canceles, fachadas integrales y otros elementos de fachada deben resistir las cargas ocasionadas por ráfagas de viento, según lo que establece el Capítulo VII del Título Sexto de este Reglamento y las Normas.
+Las ventanas, canceles, fachadas integrales y otros elementos de fachada deben resistir las cargas ocasionadas por los efectos de viento, según lo que establece el Capítulo VII del Título Sexto de este Reglamento y las Normas.
 
-Para estos elementos, la Delegación, previa opinión de la Secretaría de Obras y Servicios o por si misma, podrán exigir pruebas de resistencia al viento a tamaño natural.
+Para estos elementos, la Administración, previa opinión de la Secretaría de Obras y Servicios o por sí misma, podrán exigir pruebas de resistencia al viento a tamaño natural.
 
 ### CAPÍTULO IX. DE LAS MEDIDAS DE SEGURIDAD
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 222.
-
-Cuando la Administración tenga conocimiento de que una edificación, estructura o instalación presente algún peligro para las personas o los bienes, previo dictamen técnico de autoridad competente, requerirá a su propietario o poseedor con la urgencia que el caso amerite, para que realice las reparaciones, obras o demoliciones necesarias, de conformidad con la Ley.
-
-Cuando la demolición tenga que hacerse en forma parcial, ésta comprenderá también la parte que resulte afectada por la continuidad estructural.
-
-###### ARTÍCULO 223.
 
 Cuando se interrumpa una excavación, se ejecutarán las obras necesarias para evitar que se presenten movimientos que puedan dañar a las edificaciones y predios colindantes o a las instalaciones de la vía pública y que ocurran fallas en los taludes o fondo de la excavación por intemperismo prolongado, descompensación del terreno o por cualquier otra causa.
 
-Se tomarán también las precauciones necesarias para impedir el acceso al sitio de la excavación mediante señalamiento adecuado y barreras para evitar accidentes.
+Se tomarán también las precauciones necesarias para impedir el acceso al sitio de la excavación mediante señalamiento adecuado y barreras para evitar accidentes, asimismo se deberá cumplir con lo indicado por las Normas Oficiales Mexicanas aplicables en la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
+###### ARTÍCULO 223.
+
+El propietario, poseedor o representante legal y el constructor acatarán las instrucciones indicadas en la bitácora de obra por el Director Responsable de Obra y/o Corresponsables, en su caso, para asegurar que las obras suspendidas a que se refiere el artículo 193 de este Reglamento, queden en condiciones de estabilidad y seguridad, que no impliquen un riesgo para los peatones y construcciones contiguas, asimismo se deberá cumplir con lo indicado por las Normas Oficiales Mexicanas aplicables en la materia.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 224.
 
-El propietario y el Director Responsable de Obra deben asegurarse de que las obras suspendidas a que se refiere el artículo 193 de este Reglament (sic), queden en condiciones de estabilidad y seguridad, que no impliquen un riesgo para los vecinos, peatones y construcciones contiguas.
+Cuando la Administración tenga conocimiento de que una edificación, estructura o instalación presente algún peligro para las personas o los bienes, previo dictamen técnico de la autoridad competente o de un Corresponsable en Seguridad Estructural o en Instalaciones o un Director Responsable de Obra, requerirá al propietario, poseedor o representante legal con la urgencia que el caso amerite, para que realice las reparaciones, obras o demoliciones necesarias, de conformidad con la Ley.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Cuando la demolición tenga que hacerse en forma parcial, ésta comprenderá también la parte que resulte afectada por la misma demolición para garantizar la continuidad estructural.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+La Administración podrá intervenir en la edificación, estructura o instalación para tomar las medidas necesarias que garanticen la seguridad de las personas o bienes, en los casos previstos en la Ley.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 225.
 
-Una vez concluidas las obras o los trabajos que hayan sido ordenados de acuerdo con el artículo 222 de este Reglamento, el propietario o el Director Responsable de Obra dará aviso de terminación a la autoridad que ordenó los trabajos, quien verificará la correcta ejecución de los mismos, pudiendo, en su caso, ordenar su modificación o corrección y quedando obligados a realizarlas.
+Una vez concluidas las obras o los trabajos que hayan sido ordenados de acuerdo con el artículo anterior de este Reglamento, el propietario, poseedor o constructor y el Director Responsable de Obra darán aviso de terminación a la autoridad que ordenó los trabajos, quien verificará la correcta ejecución de los mismos, pudiendo, en su caso, ordenar su modificación o corrección debiendo realizarlas en un período no mayor a 30 días hábiles posteriores a dicho evento.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 226.
 
-Si como resultado del dictamen técnico y una vez que el particular hubiere sido requerido para realizar las reparaciones, obras o demoliciones indispensables y fuere necesario ejecutar algunos de los trabajos mencionados en el artículo 222 de este Reglamento, para los que se requieran efectuar la desocupación parcial o total de una edificación, la Administración, una vez que se haya requerido al particular realizar las reparaciones, obras y demoliciones necesarias, y siempre que existan razones de urgencia ante la presencia de una situación de peligro inminente para sus ocupantes podrá hacer uso de la fuerza pública para hacer cumplir la orden.
+Si como resultado del dictamen técnico referido en el artículo 224de (sic) este Reglamento y una vez que el propietario o poseedor hubiese sido requerido para realizar las reparaciones, obras o demoliciones indispensables y se presentara una negativa del propietario, poseedor o representante legal, así como de los habitantes del inmueble para desocuparlo de manera parcial o total, la Administración podrá intervenir en la edificación, estructura o instalación para tomar las medidas necesarias que garanticen la seguridad de las personas o bienes, haciendo uso de la fuerza pública, en su caso, para hacer cumplir la orden.
 
 ###### ARTÍCULO 227.
 
@@ -2138,9 +3118,11 @@ IV. Impliquen la aplicación de cargas o la transmisión de vibraciones a las ed
 
 V. Produzcan humedad, salinidad, gases, humos, polvos, ruidos, cambios importantes de temperatura, malos olores, u otros efectos perjudiciales o molestos que puedan ocasionar daño al medio ambiente, a terceros en su persona, sus propiedades o posesiones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 230.
 
-Ningún inmueble podrá utilizarse para un uso diferente del autorizado ni modificar el funcionamiento estructural del proyecto aprobado, sin haber obtenido previamente el cambio de uso, de lo contrario, la Delegación ordenará, con base en el dictamen técnico, lo siguiente:
+Ningún inmueble podrá utilizarse para un uso diferente del autorizado ni modificar el funcionamiento estructural del proyecto aprobado, sin haber obtenido previamente el cambio de uso de edificaciones, señaladas en el artículo 73 de este Reglamento, de lo contrario, la Administración ordenará, con base en el dictamen técnico, lo siguiente:
 
 I. La restitución de inmediato al uso aprobado, en caso de que pueda hacerse sin la necesidad de efectuar obras, y
 
@@ -2172,17 +3154,21 @@ III. Para mantenimiento preventivo se indicarán los procedimientos y materiales
 
 IV. Para mantenimiento correctivo se indicarán los procedimientos y materiales a utilizar para los casos más frecuentes, así como las acciones que requieran la intervención de especialistas.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 233.
 
-Los propietarios de las edificaciones deben conservar y exhibir, cuando sean requeridos por las autoridades, los planos, memoria de diseño y el libro de bitácora, que avalen la seguridad estructural de la edificación en su proyecto original y en caso de existir modificaciones, dichos planos y memoria de diseño deben estar actualizados.
+Los propietarios o poseedores de las edificaciones deben conservar y exhibir, cuando sean requeridos por la Administración, los planos, memoria de cálculo y la bitácora de obra, autorizados o registrados por la autoridad competente, que avalen la seguridad estructural de la edificación en su proyecto original y en caso de existir modificaciones en elementos estructurales, dichos planos y memoria deben estar actualizados y avalados por un Corresponsable en Seguridad Estructural, quien emitirá un dictamen técnico de estabilidad de Seguridad Estructural.
 
 ## TÍTULO NOVENO. DE LAS AMPLIACIONES DE OBRAS
 
 ### CAPÍTULO ÚNICO. DE LAS AMPLIACIONES DE OBRAS
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 234.
 
-Las obras de ampliación sólo podrán ser autorizadas si el Programa y los Programas General, Delegacionales y/o Parciales permiten el uso del suelo y la nueva densidad o intensidad de ocupación del suelo, y además, cumplen con los requerimientos que establecen la Ley y este Reglamento. El propietario o poseedor, que cuente con el certificado de acreditación de uso del suelo por derechos adquiridos no podrá ampliar su área autorizada.
+Las obras de ampliación sólo podrán ser autorizadas si los Programas permiten el uso del suelo, la densidad y/o intensidad de ocupación del suelo y además, se cumpla con los requerimientos establecidos en la Ley y este Reglamento. El propietario o poseedor, que cuente con el certificado de acreditación de uso del suelo por derechos adquiridos, no podrá ampliar la superficie de uso acreditada.
 
 ###### ARTÍCULO 235.
 
@@ -2194,9 +3180,11 @@ En las obras de ampliación no se podrán sobrepasar los límites de resistencia
 
 DE LAS MEDIDAS PREVENTIVAS EN DEMOLICIONES.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 236.
 
-Con la solicitud de licencia de construcción especial para demolición considerada en el Título Cuarto de este Reglamento, se debe presentar un programa en el que se indicará el orden, volumen estimado y fechas aproximadas en que se demolerán los elementos de la edificación. En caso de prever el uso de explosivos, el programa señalará con toda precisión el o los días y la hora o las horas en que se realizarán las explosiones, que estarán sujetas a la aprobación de la Delegación.
+Con la solicitud de licencia de construcción especial para demolición considerada en el Título Cuarto de este Reglamento, se debe presentar el programa en el que se indicará el orden en que se realizará cada una de las etapas de los trabajos, el volumen estimado y fechas aproximadas en que se demolerán los elementos de la edificación. En caso de prever el uso de explosivos, el programa señalará con toda precisión él o los días y la hora o las horas en que se realizarán las explosiones, que estarán sujetas a la aprobación de la Delegación.
 
 El uso de explosivos para demoliciones queda condicionado a que la Secretaría de la Defensa Nacional otorgue el permiso correspondiente.
 
@@ -2204,17 +3192,27 @@ El uso de explosivos para demoliciones queda condicionado a que la Secretaría d
 
 Las demoliciones de edificaciones con un área mayor de 60 m2 en planta baja o de un cuarto en cualquier otro nivel con un área mayor a 16 m2, deben contar con la responsiva de un Director Responsable de Obra o Corresponsable, en su caso, según lo dispuesto en el Título Cuarto de este Reglamento.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 238.
 
-Cualquier demolición en zonas del Patrimonio Histórico, Artístico y Arqueológico de la Federación o cuando se trate de inmuebles parte del patrimonio cultural urbano y/o ubicados dentro del Área de Conservación Patrimonial del Distrito Federal requerirá, previo a la licencia de construcción especial para demolición, la autorización por parte de las autoridades federales que correspondan y el dictamen técnico de la Secretaría de Desarrollo Urbano y Vivienda, debiendo contar en todos los casos, con responsiva de un Director Responsable de Obra y de los Corresponsables.
+Cualquier demolición en zonas declaradas de Monumentos Históricos, Artísticos y Arqueológicos de la Federación o cuando se trate de inmuebles afectos al patrimonio cultural urbano y/o ubicados dentro del Área de Conservación Patrimonial de la Ciudad de México requerirá, previo a la licencia de construcción especial para demolición, la autorización por parte de las autoridades federales que correspondan y el dictamen técnico favorable de la Secretaría de Desarrollo Urbano y Vivienda, debiendo contar en todos los casos, con responsiva de un Director Responsable de Obra y de los Corresponsables.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 239.
 
-Previo al inicio de la demolición y durante su ejecución, se deben proveer todas las medidas de seguridad que determine en cada caso la Delegación.
+Previo al inicio de la demolición, durante su ejecución y posterior a ella, se deben proveer todas las medidas de seguridad que determine el Director Responsable de Obra y el Corresponsable en Seguridad Estructural, en su caso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 240.
 
-En los casos autorizados de demolición con explosivos, la Delegación debe avisar a los vecinos la fecha y hora exacta de las explosiones, cuando menos con 24 horas de anticipación.
+En caso de prever el uso de explosivos, el programa señalará con toda precisión él o los días y la hora o las horas en que se realizarán las explosiones, las cuales estarán sujetas a la aprobación de la Administración. En los casos autorizados de demolición con explosivos, la Administración debe avisar a los vecinos la fecha y hora exacta de las explosiones, cuando menos con tres días naturales de anticipación.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+El uso de explosivos para demoliciones queda condicionado a que la Secretaría de la Defensa Nacional otorgue el permiso correspondiente.
 
 ###### ARTÍCULO 241.
 
@@ -2224,31 +3222,39 @@ El procedimiento de demolición será propuesto por el Director Responsable de O
 
 El horario de trabajo en el proceso de las obras de demolición quedará comprendido entre las 8:00 y las 18:00 horas. En caso de que sea necesario ampliar o modificar este horario, previo consentimiento de los vecinos, se deberá solicitar a la Delegación su aprobación.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 243.
 
-Los materiales, desechos y escombros provenientes de una demolición deben ser retirados en su totalidad en un plazo no mayor de 30 días hábiles contados a partir del término de la demolición y bajo las condiciones que establezcan las autoridades correspondientes en materia de vialidad, transporte y sitio de disposición final.
+Los materiales, desechos y escombros provenientes de una demolición u obra en construcción, deben ser retirados en su totalidad en un plazo no mayor de 10 días naturales contados a partir del término de la demolición y bajo las condiciones que establezcan las autoridades correspondientes en materia de medio ambiente, movilidad y sitio de disposición final.
 
 ## TÍTULO DÉCIMO PRIMERO. DE LAS VISITAS DE VERIFICACIÓN, SANCIONES Y RECURSOS
 
 ### CAPÍTULO I. DE LAS VISITAS DE VERIFICACIÓN
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 244.
 
-Una vez registrada la manifestación de construcción o expedida la licencia de construcción especial, la Delegación y en su caso la Secretaría de Desarrollo Urbano y Vivienda, ejercerá las funciones de vigilancia y verificación que correspondan, de conformidad con lo previsto en la Ley, la Ley de Procedimiento Administrativo para el Distrito Federal y el Reglamento de Verificación Administrativa para el Distrito Federal.
+Una vez registrada la manifestación de construcción, expedida la licencia de construcción especial o el Visto Bueno de Seguridad y Operación, la Administración ejercerá las funciones de vigilancia y verificación que correspondan, de conformidad con lo previsto en la Ley, la Ley de Procedimiento Administrativo para el Distrito Federal y el Reglamento de Verificación Administrativa para el Distrito Federal.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 245.
 
-Las verificaciones a que se refiere este Reglamento tienen por objeto comprobar que los datos y documentos contenidos en el registro de manifestación de construcción y de la licencia de construcción especial, referentes a obras o instalaciones que se encuentren en proceso o terminadas, cumplan con las disposiciones de la Ley, de los Programas, de este Reglamento y sus Normas y demás ordenamientos jurídicos aplicables.
+Las verificaciones a que se refiere este Reglamento tienen por objeto comprobar que los datos y documentos contenidos en el registro de manifestación de construcción, la licencia de construcción especial o el Visto Bueno de Seguridad y Operación, referentes a obras o instalaciones que se encuentren en proceso o terminadas, cumplan con las disposiciones de la Ley, de los Programas, de este Reglamento, sus Normas y demás ordenamientos jurídicos aplicables.
 
 ### CAPÍTULO II. DE LAS SANCIONES
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 246.
 
-La autoridad competente impondrá las medidas de seguridad y sanciones que resulten procedentes, en los términos de este Reglamento y demás disposiciones aplicables, independientemente de la responsabilidad civil o penal que resulte.
+La autoridad competente ordenará la implementación de las medidas de seguridad que estime pertinentes y a falta de su cumplimiento, aplicará las sanciones que resulten procedentes, en los términos de este Reglamento y demás disposiciones aplicables, independientemente de la responsabilidad civil o penal que resulte.
 
-Las sanciones previstas en este Reglamento podrán ser impuestas conjunta o separadamente a los responsables, independientemente de las medidas de seguridad que ordene la autoridad competente.
+Las sanciones previstas en este Reglamento podrán ser impuestas conjunta o separadamente al propietario, poseedor, constructor, Director Responsable de Obra y/o Corresponsables en su caso, independientemente de las medidas de seguridad que ordene la autoridad competente.
 
-La imposición y cumplimiento de las sanciones no eximirá al infractor de la obligación de corregir las irregularidades que hayan dado motivo al levantamiento de la infracción.
+La imposición y cumplimiento de las sanciones no eximirá al propietario, poseedor y/o constructor de la obligación de corregir las irregularidades que hayan dado motivo al levantamiento de la infracción.
 
 ###### ARTÍCULO 247.
 
@@ -2260,21 +3266,33 @@ Las sanciones por infracciones a este Reglamento son las siguientes:
 
 I. Amonestación por escrito;
 
-> <small>(REFORMADA, G.O. 12 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
-II. Multa que podrá ser de $3,300.00 a $53,800.00 pesos mexicanos, la que podrá incrementarse al doble en los casos de reincidencia;
+II. Multa que podrá ser de50 (sic) a 800 veces el valor de la Unidad de Cuenta de la Ciudad de México vigente, la que podrá incrementarse al doble en los casos de reincidencia;
 
 III. Suspensión temporal del registro de Director Responsable de Obra y/o Corresponsable;
 
 IV. Cancelación del registro del Director Responsable de Obra y/o Corresponsable;
 
-V. Clausura, parcial o total;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
-VI. Revocación;
+V. Suspensión, total o parcial;
 
-VII. Nulidad, y
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
-VIII. Demolición, parcial o total.
+VI. Clausura, parcial o total;
+
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+VII. Revocación;
+
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+VIII. Nulidad, y
+
+> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+IX. Demolición, parcial o total.
 
 > <small>(ADICIONADO, G.O. 12 DE ENERO DE 2015)</small>
 
@@ -2286,21 +3304,29 @@ Independientemente de la aplicación de las sanciones pecuniarias a que se refie
 
 I. Previo dictamen técnico emitido u ordenado por la Administración, se declare en peligro inminente la estabilidad o seguridad de la construcción;
 
-II. La ejecución de una obra o de una demolición, se realice sin las debidas precauciones y ponga en peligro la vida o la integridad física de las personas, o pueda causar daños a bienes públicos o a terceros;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
+II. La ejecución de una obra o de una demolición, que se realice sin las debidas precauciones y ponga en peligro la vida o la integridad física de las personas, pueda causar daños a bienes públicos y/o pongan en riesgo la prestación de los servicios públicos urbanos, la movilidad y funcionalidad de la vía pública;
 
 > <small>(ADICIONADO, G.O. 12 DE ENERO DE 2015)</small>
 
 En cualquiera de estas hipótesis, previo a imponer los sellos de clausura, se notificará al propietario y/o encargado de la obra que cuenta con tres días naturales a partir del día siguiente en que sea notificada de la resolución que determine dicha clausura, para subsanar la irregularidad detectada, apercibiéndola que en caso de no hacerlo se procederá a la imposición de los sellos respectivos.
 
-III. No se dé cumplimiento a una orden de las previstas por el artículo 222 de este Reglamento, dentro del plazo que se haya fijado para tal efecto;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
-IV. La construcción no se ajuste a las restricciones impuestas en el resultado del Sistema de Información Geográfica, en el certificado de zonificación para usos de suelo específico, o el certificado único de zonificación de uso de suelo específico y factibilidades y en la constancia de alineamiento y número oficial;
+III. No se dé cumplimiento a una orden de las previstas por el artículo 224 de este Reglamento, dentro del plazo que se haya fijado para tal efecto;
+
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+IV. La construcción no se ajuste a las restricciones impuestas en el certificado único de zonificación de uso de suelo o certificado único de zonificación del suelo digital o certificado de acreditación de uso del suelo por derechos adquiridos y en la constancia de alineamiento y número oficial;
 
 V. (DEROGADA, G.O. 12 DE ENERO DE 2015)
 
 VI. La obra se ejecute sin registro de manifestación de construcción, en su caso;
 
-VII. La obra se ejecute sin licencia de construcción especial, en su caso;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+VII. La obra se ejecute sin la licencia de construcción especial;
 
 > <small>(REFORMADA, G.O. 12 DE ENERO DE 2015)</small>
 
@@ -2318,7 +3344,9 @@ X. La obra se ejecute sin la intervención y vigilancia, en su caso del Director
 
 XI. Se usen explosivos sin el permiso correspondiente.
 
-No obstante el estado de clausura, en el caso de las fracciones I, II, III y IV, de este artículo, la autoridad competente podrá ordenar que se lleven a cabo las obras que procedan para hacer cesar el peligro o para corregir los daños o violaciones, quedando el propietario obligado a realizarlas.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+No obstante, el estado de clausura, en el caso de las fracciones I, II, III, y IV de este artículo, la autoridad competente podrá ordenar que se lleven a cabo las obras que procedan para hacer cesar el peligro, corregir los daños o violaciones, garantizar la prestación de los servicios públicos urbanos, la movilidad urbana y la funcionalidad de la vía pública, quedando el propietario o poseedor obligado a realizarlas.
 
 El estado de clausura impuesto con base en este artículo no será levantado en tanto el propietario o poseedor no dé cabal cumplimiento a lo ordenado por la autoridad competente y se realicen las correcciones correspondientes y se hayan pagado las multas derivadas de las violaciones a este Reglamento.
 
@@ -2334,37 +3362,43 @@ III. La obra se haya ejecutado sin observar el proyecto aprobado fuera de los l�
 
 IV. (DEROGADA, G.O. 12 DE ENERO DE 2015)
 
-V. No se haya registrado ante la Delegación correspondiente el Visto Bueno de Seguridad y Operación a que se refiere el artículo 68 de este Reglamento, y
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+V. No se haya registrado ante la Administración el Visto Bueno de Seguridad y Operación a que se refiere el artículo 68 de este Reglamento, y
 
 VI. (DEROGADA, G.O. 12 DE ENERO DE 2015)
 
 El estado de clausura podrá ser total o parcial y no será levantado hasta en tanto no se hayan regularizado las obras o ejecutado los trabajos ordenados, en los términos del artículo 66 de este Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 251.
 
-Se sancionará al Director Responsable de Obra o al propietario o poseedor, con independencia de la reparación de los daños ocasionados a las personas o a los bienes, en los siguientes casos:
+Se sancionará al Director Responsable de Obra, al propietario o poseedor, y/o constructor, según sea el caso, con independencia de la reparación de los daños ocasionados a las personas o a los bienes, en los siguientes casos:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE ENERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
-I. Con multa equivalente de $3,300.00 a $6,700.00 pesos mexicanos, cuando:
+I. Con multa equivalente de50 (sic) a 100 veces el valor de la Unidad de Cuenta de la Ciudad de México vigente, cuando:
 
 a) En la obra o instalación no muestre indistintamente, a solicitud del Verificador, copia del registro de manifestación de construcción o de la licencia de construcción especial, los planos sellados y la bitácora de obra, en su caso;
 
-b) Se ocupe temporalmente con materiales de cualquier naturaleza la vía pública, sin contar con el permiso o autorización correspondiente, y
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+b) Se obstaculice o impida la prestación de los servicios públicos urbanos, la funcionalidad de la vía pública; o se ocupe temporalmente con materiales de cualquier naturaleza la vía pública, sin contar con el permiso o autorización correspondiente, y
 
 c) Se obstaculice o se impida en cualquier forma las funciones de los verificadores señaladas en el Capítulo anterior y en las disposiciones relativas del Reglamento de Verificación Administrativa para el Distrito Federal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE ENERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
-II. Con multa equivalente de $6,700.00 a $16,800.00 pesos mexicanos, cuando:
+II. Con multa equivalente de100 (sic) a 250 veces el valor de la Unidad de Cuenta de la Ciudad de México vigente, cuando:
 
 a) Se violen las disposiciones relativas a la conservación de edificaciones y predios previstas en este Reglamento, y
 
 b) El propietario o poseedor no realice el trámite de Aviso de Terminación de Obra, según lo previsto en este Reglamento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE ENERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
-III. Con multa equivalente de $15,000.00 a $100,000.00 pesos mexicanos, cuando:
+III. Con multa equivalente de200 (sic) a 500 veces el valor de la Unidad de Cuenta de la Ciudad de México vigente, cuando:
 
 a) Se hagan cortes en banquetas, arroyos, guarniciones y/o pavimentos, sin contar con el permiso o autorización correspondiente;
 
@@ -2372,11 +3406,13 @@ b) Por la vía de un dictamen de seguridad estructural, que emita u ordene la Ad
 
 c) En la obra o instalación no se respeten las previsiones contra incendio previstas en este Reglamento;
 
-d) Haya hecho uso de documentos apócrifos para obtener el registro de manifestación de construcción, la expedición de licencia de construcción especial, permisos o autorizaciones, durante la ejecución y ocupación de la edificación;
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-e) Con motivo de la ejecución de la obra, instalación, demolición o excavación, se deposite material producto de estos trabajos en barrancas, escurrimientos naturales o afluentes hidrológicos, y
+d) Que no cumplan con lo previsto por los artículos 35, 46 Bis y 46 Ter de este Reglamento.
 
-f) En la ejecución de la obra o instalación y sin previa autorización de la autoridad competente se dañe, mutile o demuela algún elemento de edificaciones consideradas patrimonio artístico, histórico o cultural, además de la reposición del daño de las piezas mutiladas o demolidas, con las características de dimensiones, materiales y acabados de las piezas originales o los que en su caso indiquen las autoridades federales o locales, en el ámbito de sus atribuciones.
+e) (DEROGADO, G.O. 17 DE JUNIO DE 2016)
+
+f) (DEROGADO, G.O. 17 DE JUNIO DE 2016)
 
 > <small>(ADICIONADO, G.O. 12 DE ENERO DE 2015)</small>
 
@@ -2384,13 +3420,31 @@ g) Se obstaculice o se impida en alguna forma el cumplimiento de las funciones d
 
 IV. Con multa equivalente del uno al cinco por ciento del valor de las construcciones o instalaciones, de acuerdo al avalúo correspondiente que emita un valuador registrado ante la Secretaría de Finanzas, en el caso de que en la obra o instalación se excedan las tolerancias permitidas en el artículo 70 de este Reglamento.
 
+> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+V. Con multa equivalente de 1,000 a 2,000 veces el valor de la Unidad de Cuenta de la Ciudad de México vigente, cuando:
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+a) Haya hecho uso de documentos apócrifos o alterados para obtener el registro de manifestación de construcción, la expedición de licencia de construcción especial, permisos o autorizaciones, durante la ejecución y ocupación de la edificación;
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+b) Con motivo de la ejecución de la obra, instalación, demolición o excavación, se deposite material producto de estos trabajos en barrancas, escurrimientos naturales o afluentes hidrológicos, y
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+c) En la ejecución de la obra o instalación y sin previa autorización de la autoridad competente se dañe, mutile o demuela algún elemento de edificaciones consideradas monumentos o en las zonas declaradas de monumentos a que se refiere la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos o en aquellas que hayan sido determinadas como Áreas de Conservación Patrimonial por el Programa, o inmuebles afectos al patrimonio cultural urbano de acuerdo con el catálogo publicado en la Gaceta Oficial de la Ciudad de México en los Programas de Desarrollo Urbano, sin recabar previamente dictamen, ficha técnica u oficio la autorización emitida por la Secretaría de Desarrollo Urbano y Vivienda y la del Instituto Nacional de Antropología e Historia o del Instituto Nacional de Bellas Artes, respectivamente, con las características de dimensiones, materiales y acabados de las piezas originales o los que en su caso indiquen las autoridades federales o locales en los ámbitos de su competencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 252.
 
-Se sancionará al Director Responsable de Obra y al Corresponsable que incurra en las siguientes infracciones:
+Se sancionará al Director Responsable de Obra, al Corresponsable y al constructor que incurra en las siguientes infracciones:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE ENERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
-I. Con multa equivalente de $10,000.00 a $20,000.00 pesos mexicanos, cuando:
+I. Con multa equivalente de 150 a 300 veces el valor de la Unidad de Cuenta de la Ciudad de México vigente, cuando:
 
 a) No se observen las disposiciones de este Reglamento durante la ejecución de la obra, en lo que se refiere a los dispositivos de elevación de materiales o de personas, así como en el uso de transportadores electromecánicos en la edificación;
 
@@ -2398,21 +3452,25 @@ b) Sin autorización previa de la Secretaría de Obras y Servicios, se utilicen 
 
 c) No se acaten las disposiciones relativas contenidas en el Título Quinto de este Reglamento en la edificación de que se trate, salvo en el caso de las infracciones que prevé y sanciona el artículo 250 de este Reglamento, y
 
-d) En la elaboración del Visto Bueno de Seguridad y Operación, no se hayan observado las normas de seguridad, estabilidad, prevención de emergencias, higiene y operación contenidas en el presente Reglamento.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE ENERO DE 2015)</small>
+d) Los Directores Responsables de Obra y Corresponsables en Instalaciones que en la elaboración del Visto Bueno de Seguridad y Operación, no hayan observado las normas de seguridad, estabilidad, prevención de emergencias, higiene y operación contenidas en el presente Reglamento;
 
-II. Con multa equivalente de $13,400.00 a $33,600.00 pesos mexicanos, cuando:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
-a) No se cumpla con lo previsto por los artículos 35 y 39 de este Reglamento, con excepción de la fracción VIII del artículo 35 y fracción IV del artículo 39;
+II. Con multa equivalente de 200 a 500 veces el valor de la Unidad de Cuenta de la Ciudad de México vigente, cuando:
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+a) Los Directores Responsables de Obra y Corresponsables que no cumplan con lo previsto por los artículos 35 y 39 de este Reglamento, con excepción de la fracción VIII del artículo 35 y fracción IV del artículo 39;
 
 b) En la construcción, demolición de obras o para llevar a cabo excavaciones, se usen explosivos sin contar con la autorización previa correspondiente, y
 
 c) No se vigile que se cumplan las resoluciones dictadas por la Administración y/o no se denuncie ante la misma, la negativa del propietario o poseedor de acatar dichas resoluciones.
 
-> <small>(REFORMADA, G.O. 12 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
-III. Con multa equivalente de $20,000.00 a $53,800.00 pesos mexicanos, cuando, cuando (sic) en una obra no se tomen las medidas necesarias para proteger la vida y salud de los trabajadores y de cualquier otra persona a la que pueda causarse daño.
+III. Con multa equivalente de 300 a 800 veces el valor de la Unidad de Cuenta de la Ciudad de México vigente, cuando en una obra no se tomen las medidas necesarias para proteger la vida y salud de los trabajadores y de cualquier otra persona a la que pueda causarse daño.
 
 ###### ARTÍCULO 253.
 
@@ -2420,19 +3478,29 @@ Se sancionará al propietario o poseedor con multa equivalente del cinco al 10 p
 
 I. Se realicen las obras o instalaciones sin haber obtenido previamente el registro de manifestación de construcción, la licencia de construcción especial, la autorización o permiso respectivo de acuerdo con lo establecido en este Reglamento, y
 
-II. Las obras o instalaciones no concuerden con el proyecto autorizado y no se cumpla con las disposiciones contenidas en las Normas de Ordenación de los Programas General, Delegacionales y/o Parciales, o no se respeten las características señaladas en el resultado de la consulta del Sistema de Información Geográfica, certificado de acreditación de uso del suelo por derechos adquiridos, certificado único de zonificación de uso de suelo específico y factibilidades o con la constancia de alineamiento y número oficial.
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+II. Las obras o instalaciones no concuerden con el proyecto autorizado, y no se cumpla con las disposiciones contenidas en las Normas de Ordenación de los Programas, o no se respeten las características señaladas en el certificado de acreditación de uso del suelo por derechos adquiridos, certificado único de zonificación de uso de suelo o certificado único de zonificación del suelo digital o en la constancia de alineamiento y número oficial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 254.
 
-En caso de que el propietario o poseedor de un predio o de un inmueble no cumpla con las órdenes de la Administración, la misma autoridad, previo dictamen que emita u ordene, está facultada para ejecutar, a costa del propietario o poseedor, las obras, reparaciones o demoliciones que haya ordenado, en los siguientes casos:
+En caso de que el propietario o poseedor de un predio o de un inmueble no cumpla con las órdenes de la Administración, la misma autoridad, previo dictamen que emita u ordene, está facultada para ejecutar, a costa del propietario o poseedor, las obras, reparaciones, demoliciones o retiro de cualquier material que se haya ordenado, en los siguientes casos:
 
 I. Cuando un inmueble se utilice total o parcialmente para algún uso diferente al autorizado, sin haber cumplido con lo previsto en el artículo 73 de este Reglamento;
 
-II. Cuando el propietario o poseedor de una construcción señalada como peligrosa, no cumpla con las órdenes emitidas con base en los artículos 222 y 226 de este Reglamento, dentro del plazo fijado para tal efecto;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
-III. Cuando se invada la vía pública con una construcción, y
+II. Cuando el propietario o poseedor de una construcción señalada como peligrosa, no cumpla con las órdenes emitidas con base en los artículos 224 y 226 de este Reglamento, dentro del plazo fijado para tal efecto;
 
-IV. Cuando no se respeten las afectaciones y las restricciones físicas y de uso impuestas a los predios en: el resultado de la consulta del Sistema de Información Geográfica, el certificado único de zonificación de uso de suelo específico y factibilidades, el certificado de acreditación de uso del suelo por derechos adquiridos y en la constancia de alineamiento y número oficial.
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+III. Cuando se invada la vía pública con una construcción y/o cualquier material que afecte o impida la prestación de los servicios públicos urbanos, la movilidad urbana y funcionalidad de la vía pública, y
+
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+IV. Cuando no se respeten las afectaciones y las restricciones físicas y de uso impuestas a los predios en: el certificado único de zonificación de uso de suelo o el certificado único de zonificación del suelo digital o el certificado de acreditación de uso del suelo por derechos adquiridos y en la constancia de alineamiento y número oficial.
 
 En caso de que el propietario o poseedor del inmueble obstaculice o impida que la Administración realice las obras de reparación o de demolición señaladas en el dictamen respectivo, la propia Administración podrá hacer uso de la fuerza pública para hacer cumplir sus resoluciones.
 
@@ -2444,15 +3512,33 @@ Al infractor reincidente se le aplicará el doble de la sanción que le haya sid
 
 Para los efectos de este Reglamento se considera reincidente al infractor que incurra en otra falta igual a aquélla por la que haya sido sancionado con anterioridad.
 
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Para los casos en que la Agencia solicite información conforme a lo establecido en el último párrafo del artículo 9 del presente Reglamento y el ente público o privado requerido haga caso omiso a la solicitud, se le impondrá la siguiente sanción:
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+a) Con multa de 500 a 1,000 veces el valor de la Unidad de Cuenta de la Ciudad de México vigente, en el caso de omitir la solicitud por primera vez.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+b) Con multa de 1,100 a 2,000 veces el valor de la Unidad de Cuenta de la Ciudad de México vigente, en el caso de ser reincidente.
+
 ###### ARTÍCULO 256.
 
 La autoridad competente declarará la nulidad del registro de manifestación de construcción, de la licencia de construcción especial, de la autorización o del permiso, cuando:
 
-I. Se haya expedido con base en informes o documentos falsos o apócrifos; que no contengan firma autógrafa, o por autoridad no competente, y
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
-II. Los documentos relacionados con el registro de manifestación de construcción o con la expedición de licencia de construcción especial, que se hubieren otorgado en contravención a lo dispuesto por el presente Reglamento.
+I. Se hayan registrado o expedido, con base en informes o documentos que no hayan sido emitidos y/o validados por la autoridad competente, en los trámites que gestione ante la Administración, y
 
-Procederá la revocación del registro de manifestación de construcción o de la licencia de construcción especial, cuando sobrevengan cuestiones de oportunidad o interés público en los términos de la Ley de Procedimiento Administrativo del Distrito Federal.
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+
+II. Los documentos relacionados con el registro de manifestación de construcción o con la expedición de licencia de construcción especial, que se hubieren registrado u otorgado en contravención a lo dispuesto por la Ley y el presente Reglamento.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
+Procederá la nulidad del registro de manifestación de construcción o la revocación de la licencia de construcción especial, cuando sobrevengan cuestiones de oportunidad o interés público en los términos de la Ley de Procedimiento Administrativo del Distrito Federal.
 
 ### CAPÍTULO III. DE LOS RECURSOS
 
@@ -2501,3 +3587,27 @@ Se derogan todas aquellas disposiciones reglamentarias que se opongan a la prese
 ###### ARTÍCULO TERCERO.
 
 Los asuntos que se encuentren en trámite al momento de la presente reforma continuarán su trámite conforme a la norma que aplicaba al inicio del mismo.
+
+G.O. 17 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE CONSTRUCCIONES DEL DISTRITO FEDERAL".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones reglamentarias que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos que se encuentren en trámite al momento del presente Decreto continuarán hasta su total conclusión conforme a la disposición que aplicaba al inicio del mismo.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría de Obras y Servicios expedirá las Normas Técnicas Complementarias a que hace referencia este Reglamento dentro de los 120 días hábiles siguientes a la fecha de su publicación. En tanto se expiden dichas Normas, se seguirán aplicando las Normas Técnicas Complementarias vigentes al momento de (sic) publicación del presente Decreto.
