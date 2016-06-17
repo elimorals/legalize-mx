@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2015-12-18"
+last_updated: "2016-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2016.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -687,17 +687,17 @@ V.- Los de Primera Instancia Especializados para Adolescentes.
 
 VI.- Los mixtos de Primer Instancia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2012)</small>
+VII.- Los de Paz en materia penal, en las causas en que proceda la apelación y denegada apelación.
 
-VII.- Los de Paz en materia penal, en las causas en que proceda la apelación y denegada apelación, y
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VIII.- Los de Control.
 
-> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2012)</small>
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2016)</small>
 
-VIII.- Los de Garantía.
+IX.- Los de Control para Adolescentes.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1047,19 +1047,21 @@ Los Jueces de Control estarán investidos de fe pública para constancia y certi
 
 En cada uno de los partidos judiciales en el Estado, de acuerdo a la disponibilidad presupuestal y las necesidades del servicio, se contará por lo menos con un Juez Especializado en Ejecución de Sentencia que ejercerá las facultades que determinen las disposiciones normativas aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+ARTICULO 81 TER.- Los Tribunales de Juicio Oral o de enjuiciamiento serán unitarios y estarán presididos por un Juez de Garantía o de Control, que no deberá haber conocido del asunto en las etapas previas al juicio oral que deba resolver.
 
-ARTICULO 81 TER.- El Tribunal de Enjuiciamiento, será integrado de manera Colegiada en los delitos que ameritan prisión preventiva oficiosa, en todos los demás casos el Tribunal será integrado de manera Unitaria.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2016)</small>
 
-Los Jueces de Control que integren el Tribunal de Enjuiciamiento, no deberán haber conocido del asunto en las etapas previas al juicio que deban resolver.
+Los Tribunales de Juicio Oral tendrán las atribuciones que determinen las disposiciones normativas aplicables.
 
-El Tribunal de Enjuiciamiento tendrá las atribuciones que determinen las disposiciones normativas aplicables y sus decisiones, cuando se trate de colegiados se tomarán por unanimidad o por mayoría de votos.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2016)</small>
 
-El Juez que presida el Tribunal de Enjuiciamiento, estará investido de fe pública para constancia y certificación de los actos de este órgano colegiado.
+El Juez del Tribunal de Juicio Oral estará investido de fe pública para constancia y certificación de sus actos.
 
-El Tribunal de Enjuiciamiento especializado en Justicia para Adolescentes será Unitario. El Juez de Control que lo integre no deberá haber conocido del asunto en las etapas previas al juicio oral que deba resolver.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 17 DE JUNIO DE 2016)</small>
+
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 17 DE JUNIO DE 2016)</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -1217,9 +1219,27 @@ VI. Designar al personal que durante los periodos vacacionales deba quedar de gu
 
 VII. Las demás que le confiera esta Ley, y la Ley de la materia.
 
-> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2016)</small>
 
-ARTICULO 90 TER.- Son obligaciones de los Secretarios de Acuerdos de los Juzgados de Primera Instancia Especializados para Adolescentes:
+ARTICULO 90 TER.- Los Jueces de Control para adolescentes ejercerán las facultades que determine la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y otras disposiciones normativas aplicables.
+
+Se contará en los partidos judiciales de Mexicali, Tijuana y Ensenada con el número de Jueces de Control para Adolescentes que sean necesarios para la adecuada aplicación del sistema de justicia para adolescentes. Los Jueces de Control del partido judicial de Tijuana conocerán de los hechos que la ley señale como delito cuya comisión o participación se le atribuya a adolescentes y se hayan cometido en los municipios de Tecate y Playas de Rosarito.
+
+Los Jueces de Control para Adolescentes estarán investidos de fe pública para constancia y certificación de sus actos y les será aplicable lo dispuesto en los artículos 81 QUATER, 81 QUINQUES de esta Ley. Contarán con el apoyo del administrador judicial en términos de lo dispuesto por el artículo 197 BIS 2 de esta Ley.
+
+El Tribunal de Enjuiciamiento especializado en justicia para adolescentes se integrará por un Juez de Control para adolescentes que no haya conocido del asunto en las etapas previas al juicio oral que deba resolver.
+
+El Tribunal de Enjuiciamiento tendrá las atribuciones que determine la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y otras disposiciones normativas aplicables. El Tribunal de Enjuiciamiento del partido judicial de Tijuana tendrá competencia en los municipios de Tecate y Playas de Rosarito.
+
+El Juez del Tribunal de Enjuiciamiento, estará investido de fe pública para constancia y certificación de los actos del Tribunal.
+
+Los partidos judiciales de Mexicali, Tijuana y Ensenada, contarán cada uno con un Juez de Ejecución especializado en el sistema integral de justicia para adolescentes. El Juez de Ejecución del partido judicial de Tijuana tendrá jurisdicción en los partidos judiciales de Tecate y Playas de Rosarito.
+
+El Magistrado de la Sala Unitaria Especializada en Justicia para Adolescentes, ejercerá las facultades que determine la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y la Ley de Justicia para Adolescentes del Estado de Baja California. Además, estará investido de fe pública para constancia y certificación de sus actos que se deriven de la aplicación de ambos ordenamientos jurídicos.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2016)</small>
+
+ARTICULO 90 QUATER.- Son obligaciones de los Secretarios de Acuerdos de los Juzgados de Primera Instancia Especializados para Adolescentes:
 
 I.- Dar cuenta diariamente al Juez y acordar con él, los escritos y promociones de las partes, así como los oficios que se dirijan al Juzgado;
 
@@ -1229,17 +1249,15 @@ III.- Autorizar las providencias, celebración de audiencias, despachos de autos
 
 IV.- Las demás que les impongan las leyes.
 
-> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2006)</small>
+El Primer Secretario de Acuerdos tendrá además, las siguientes atribuciones:
 
-ARTICULO 90 QUATER.- El Primer Secretario de Acuerdos tendrá además, las siguientes atribuciones:
+a.- Sustituir al Juez en sus faltas temporales que no excedan de dos meses, en los términos que señale esta Ley;
 
-I. Sustituir al Juez en sus faltas temporales que no excedan de dos meses, en los términos que señale esta Ley;
+b.- Distribuir diariamente entre él y los demás Secretarios, las remisiones que se hagan al Juzgado;
 
-II. Distribuir diariamente entre él y los demás Secretarios, las remisiones que se hagan al Juzgado;
+c.- Llevar los libros del Juzgado, pudiendo ser con intervención de alguno de los miembros de la oficina, y
 
-III. Llevar los libros del Juzgado, pudiendo ser con intervención de alguno de los miembros de la oficina, y
-
-IV. Dirigir las labores interiores de la oficina, de acuerdo con las instrucciones y determinaciones del Juez, dando cuenta de las faltas que se cometan para que el Juez obre de acuerdo a sus facultades.
+d.- Dirigir las labores interiores de la oficina, de acuerdo con las instrucciones y determinaciones del Juez, dando cuenta de las faltas que se cometan para que el Juez obre de acuerdo a sus facultades.
 
 > <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
@@ -1321,9 +1339,9 @@ Los jueces serán suplidos automáticamente en sus faltas temporales que no exce
 
 Las faltas temporales de los jueces, por más de dos meses, serán cubiertas por la persona que nombre el Pleno del Consejo de la Judicatura conforme a lo dispuesto en el Título Octavo, de esta ley.
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2016)</small>
 
-ARTICULO 95 BIS.- Las faltas temporales de los Jueces de Garantía serán cubiertas por la persona que nombre el Pleno del Tribunal Superior de Justicia del Estado conforme a lo dispuesto en el Titulo Octavo, de esta ley.
+ARTICULO 95 BIS.- Las faltas temporales de los Jueces de Control serán cubiertas por la persona que nombre el Pleno del Tribunal Superior de Justicia del Estado conforme a lo dispuesto en el Título Octavo, de esta ley.
 
 ###### ARTICULO 96.
 
@@ -2253,37 +2271,27 @@ La edición y publicación del Boletín Judicial estará a cargo del Tribunal Su
 
 ARTICULO 197 BIS-2.- El administrador judicial estará adscrito a la Presidencia del Consejo de la Judicatura y ejercerá las siguientes facultades:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+I.- Dirigir las labores administrativas, para que las audiencias que presidan los Jueces de Control; Jueces de Control para Adolescentes; los Tribunales Unitarios de Enjuiciamiento y los Jueces de Ejecución se desarrollen adecuadamente.
 
-I.- Dirigir las labores administrativas, para que las audiencias que presidan los Jueces de Control, los Tribunales de Enjuiciamiento y los Jueces de Ejecución se desarrollen adecuadamente;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
-
-II.- Realizar las actividades administrativas que sean necesarias, para la buena marcha del despacho y las audiencias que presidan los Jueces de Control, los Tribunales de Enjuiciamiento y los Jueces de Ejecución;
+II.- Realizar las actividades administrativas que sean necesarias, para la buena marcha del despacho y las audiencias que presidan los Jueces de Control; Jueces de Control para Adolescentes; los Tribunales Unitarios de Enjuiciamiento y los Jueces de Ejecución.
 
 III.- Supervisar las funciones del personal que tenga adscrito y a su cargo y evaluar su desempeño.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+IV.- Distribuir el despacho judicial y las audiencias a los Jueces de Control; Jueces de Control para Adolescentes; Tribunales Unitarios de Enjuiciamiento y Jueces de Ejecución, cuando proceda, conforme a un procedimiento objetivo, aleatorio y general, procurando una correcta programación de las audiencias de acuerdo al sistema informático.
 
-IV.- Distribuir el despacho judicial y las audiencias a los Jueces de Control, Tribunales de Enjuiciamiento y Jueces de Ejecución, cuando proceda, conforme a un procedimiento objetivo, aleatorio y general, procurando una correcta programación de las audiencias de acuerdo al sistema informático;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+V.- Establecer el orden de guardias de los Jueces de Control y los Jueces de Control para Adolescentes.
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2016)</small>
 
-V.- Establecer el orden de guardias de los Jueces de Control;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
-
-VI.- Verificar que se cumpla con el abastecimiento de material de trabajo a las áreas de su competencia, de conformidad a lo requerido mensualmente por el Juez Coordinador de los Jueces de Control;
+VI.- Verificar que se cumpla con el abastecimiento de material de trabajo a las áreas de su competencia, de conformidad a lo requerido mensualmente por el Juez coordinador de los Jueces de Control.
 
 VII.- Implementar y dar cumplimiento a las políticas y directrices generales que dicte el Presidente del Consejo de la Judicatura, en materia de selección de personal, evaluación, administración de recursos materiales y humanos, de diseño y análisis de información estadística y demás.
 
@@ -2293,19 +2301,15 @@ IX.- Dar cuenta semestralmente al Presidente del Consejo de la Judicatura, del e
 
 X.- Tener bajo su custodia las salas de audiencia, así como los bienes asignados a las mismas, debiendo poner de inmediato en conocimiento del Presidente del Consejo, cualquier deterioro que sufran.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
-
-XI.- Custodiar los bienes y valores que se encuentren a disposición de los Jueces de Control y de los Tribunales de Enjuiciamiento con motivo de la tramitación de los asuntos sometidos a su conocimiento;
+XI.- Custodiar los bienes y valores que se encuentren a disposición de los Jueces de Control; Jueces de Control para Adolescentes y de los Tribunales Unitarios de Enjuiciamiento con motivo de la tramitación de los asuntos sometidos a su conocimiento.
 
 XII.- Entregar y recibir bajo inventario los bienes y valores a que se refieren las fracciones X y XI de este artículo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
-
-XIII.- Asignar, conforme a las disposiciones que expida el Presidente del Consejo de la Judicatura, a uno o varios Jueces de Control, a las unidades judiciales donde deban ejercer su jurisdicción;
+XIII.- Asignar, conforme a las disposiciones que expida el Presidente del Consejo de la Judicatura, a uno o varios Jueces de Control y Jueces de Control para adolescentes a las unidades judiciales donde deban ejercer su jurisdicción.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -2317,11 +2321,9 @@ XIV.- Convocar a las partes para que concurran a audiencia en aquellos casos en 
 
 XV.- Las demás que determinen las disposiciones legales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
-
-ARTICULO 197 BIS-3.- Podrá contarse con más de un administrador judicial, cuando lo justifique la necesidad de prestar un adecuado apoyo a los Jueces de Control y a los Tribunales de Enjuiciamiento y se cuente con la disponibilidad presupuestal.
+ARTICULO 197 BIS-3.- Podrá contarse con más de un administrador judicial, cuando lo justifique la necesidad de prestar un adecuado apoyo a los Jueces de Control y a los Tribunales Unitarios de Enjuiciamiento y se cuente con la disponibilidad presupuestal.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2010)</small>
 
@@ -2343,11 +2345,9 @@ V.- Tener residencia mínima de cinco años en el Estado, anteriores al día de 
 
 VI.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión, pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que lesione la buena fama en el concepto público, lo inhabilitará para el cargo cualquiera que haya sido la pena.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
-
-ARTICULO 197 BIS-5.- El administrador judicial será considerado para efectos laborales como trabajador de confianza y tendrá adscrito y a su cargo, el personal que le asigne el Consejo de la Judicatura y sea necesario para ejercer adecuadamente sus atribuciones, en particular de apoyo a los Jueces de Control y Tribunales de Enjuiciamiento.
+ARTICULO 197 BIS-5.- El administrador judicial será considerado para efectos laborales como trabajador de confianza y tendrá adscrito y a su cargo, el personal que le asigne el Consejo de la Judicatura y sea necesario para ejercer adecuadamente sus atribuciones, en particular de apoyo a los Jueces de Control y Tribunales Unitarios de Enjuiciamiento.
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 246 PUBLICADO EN EL P.O. DE 22 DE MAYO DE 2015 SE ADICIONO EL CAPÍTULO XIV, QUE SE INTEGRA CON LOS NÚMERALES 197 BIS-2 AL 197 BIS-5.</small>
 
@@ -2759,7 +2759,9 @@ II.- Vigilar la conducta del síndico, dando cuentas al juez de las irregularida
 
 Serán causas de la remoción del interventor, no prestar vigilancia necesaria a todos los casos que están encomendados al síndico, y dar aviso al juez de las faltas u omisiones en que éste hubiere incurrido sin perjuicio de las penas y responsabilidades a que se hubiere hecho acreedor.
 
-### CAPITULO I
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 225.
 
@@ -2845,21 +2847,37 @@ Los prestadores del servicio social desempeñarán función de notificadores cua
 
 Los encargados de cada programa elaborarán reportes mensuales sobre las actividades de los prestadores del servicio social y evaluarán al término de su prestación, a través de los informes necesarios.
 
-> <small>(DEROGADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2016)</small>
 
 TITULO DECIMOCUARTO
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
+DEL TRIBUNAL ELECTRONICO
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2016)</small>
 
 ### CAPITULO V
 
 ###### ARTICULO 244.
 
-(DEROGADO, P.O. 12 DE JUNIO DE 2015)
+El Tribunal electrónico es el sistema integral de procesamiento de información, de forma electrónica o digital que permita la substanciación de asuntos jurisdiccionales ante el Poder Judicial del Estado, de conformidad con las leyes aplicables de la materia, así como con el Reglamento que para tales efectos expida el Pleno del Consejo de la Judicatura.
+
+El objeto del Tribunal Electrónico es constituirse en una herramienta tecnológica que contribuya a que la impartición de justicia se preste con mayor celeridad, eficacia, eficiencia, seguridad y transparencia en beneficio de los justiciables.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 245.
 
-(DEROGADO, P.O. 12 DE JUNIO DE 2015)
+El sistema del Tribunal Electrónico tendrá como principales funciones, las siguientes:
+
+I.- La formación y utilización del expediente electrónico en los procesos jurisdiccionales;
+
+II.- Facilitar la consulta vía internet de los expedientes electrónicos;
+
+III.- La recepción electrónica de promociones y documentos en los procesos jurisdiccionales;
+
+IV.- Efectuar notificaciones electrónicas dentro de los procesos jurisdiccionales;
+
+V.- Fungir como medio procesal e institucional entre las Autoridades jurisdiccionales.
 
 ###### ARTICULO 246.
 
@@ -3536,3 +3554,31 @@ PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las adecuaciones a las disposiciones reglamentarias correspondientes, deberán emitirse a más tardar dentro de los 150 días siguientes a partir de la publicación de las presentes reformas.
 
 TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto y continúan vigentes los actos, resoluciones, acuerdos y demás disposiciones de carácter general emitidas con fundamento en la Ley que se reforma.
+
+P.O. 17 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 494 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN O DEROGAN PORCIONES NORMATIVAS DE LOS ARTÍCULOS 53, 81 TER, 90 QUATER, 95 BIS; 197-BIS-2; 197-BIS-3, 197-BIS-5, 244 Y 245 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día 18 de junio de 2016.
+
+SEGUNDO.- Conforme a lo dispuesto por el artículo cuarto transitorio de las reformas a la Constitución Federal publicadas en el Diario Oficial de la Federación de fecha 2 de julio de 2015 y el párrafo segundo del artículo décimo quinto transitorio de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, el Congreso del Estado deberá aprobar la ampliación del presupuesto de egresos del Poder Judicial del presente ejercicio fiscal sujeto a la viabilidad presupuestal correspondiente. A efecto de que cuente con los recursos adicionales y suficientes para el nombramiento de los Jueces de Control y de Ejecución para Adolescentes que sean necesarios para la correcta aplicación de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, así como para capacitación, adecuación y equipamiento de los espacios físicos.
+
+De igual forma, los presupuestos de egresos del Poder Judicial del Estado para los ejercicios subsecuentes, deberán contener los recursos necesarios para la adecuada operación del sistema integral de justicia para adolescentes.
+
+TERCERO.- Una vez que entre en vigor la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y hasta en tanto son nombrados Jueces de Control para Adolescentes, serán competentes para conocer del modelo acusatorio contenido en la Ley Nacional, los Jueces de Control a los que alude el artículo 53, fracción VIII de esta Ley Orgánica.
+
+Los Jueces de Control deberán participar en los cursos de capacitación que con posterioridad a estas reformas, desarrolle el Consejo de la Judicatura.
+
+Los cursos de especialización en justicia para adolescentes que con anticipación a estas reformas haya instrumentado el Consejo de la Judicatura, tendrán plena validez para acreditar la especialización en la materia.
+
+CUARTO.- Los Jueces de Primera Instancia Especializados para Adolescentes que se señalan en la fracción V del artículo 53 de esta Ley Orgánica, fungirán como Jueces de Control para Adolescentes y ejercerán las facultades que establece la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y otras disposiciones normativas aplicables.
+
+QUINTO.- Hasta en tanto, no sean nombrados los Jueces de Ejecución del Sistema Integral de Justicia Penal para Adolescentes, serán competentes para conocer en materia de ejecución en términos de la Ley Nacional y esta Ley, los Jueces que se señalan en los artículos tercero y cuarto transitorios de estas reformas.
+
+En caso que sean nombrados Jueces de Control para Adolescentes, también serán competentes en materia de ejecución, en tanto se nombren Jueces de la materia.
+
+SEXTO.- De acuerdo a lo dispuesto por el artículo tercero transitorio de las reformas a la Constitución Federal publicadas en el Diario Oficial de la Federación de fecha 2 de julio de 2015, los procedimientos de justicia para adolescentes y la ejecución de las medidas sancionadoras, iniciados con anterioridad a la entrada en vigor de la Ley Nacional, serán concluidos conforme a las disposiciones vigentes al momento de iniciarse dichos procedimientos y ejecución de medidas sancionadoras.
+
+SEPTIMO.- Los procesos jurisdiccionales en los que ya se encuentre integrado el Tribunal de Juicio Oral o de enjuiciamiento para adultos de manera colegiada, así continuarán hasta ser culminados.
+
+OCTAVO.- El reglamento al que hace referencia el artículo 244 de este Decreto, deberá expedirse en un plazo de 15 días siguientes a la entrada en vigor de esta reforma.
