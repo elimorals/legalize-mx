@@ -4,7 +4,7 @@ identifier: "LGPSDMS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2010-11-30"
-last_updated: "2014-06-03"
+last_updated: "2016-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77437&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,11 @@ abbreviation: "LGPSDMS"
 
 LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE JUNIO DE 2014.
+[NOTA 1. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES; DEL CÓDIGO PENAL FEDERAL; DE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA; DE LA LEY FEDERAL PARA LA PROTECCIÓN A PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL; DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y DE LA LEY DE INSTITUCIONES DE CRÉDITO”, PUBLICADO EN LA EDICIÓN VESPERTINA DEL D.O.F. 17 DE JUNIO DE 2016, SE SEÑALA QUE “LAS REFORMAS …. A LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, ….., ENTRARÁN EN VIGOR EN TÉRMINOS DE LO PREVISTO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 5 DE MARZO DE 2014. LOS PROCEDIMIENTOS QUE SE ENCUENTREN EN TRÁMITE, RELACIONADOS CON LAS MODIFICACIONES A LOS PRECEPTOS LEGALES CONTEMPLADOS EN EL PRESENTE DECRETO, SE RESOLVERÁN DE CONFORMIDAD CON LAS DISPOSICIONES QUE LES DIERON ORIGEN.”]
+
+[NOTA 2. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO CUARTO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES; DEL CÓDIGO PENAL FEDERAL; DE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA; DE LA LEY FEDERAL PARA LA PROTECCIÓN A PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL; DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y DE LA LEY DE INSTITUCIONES DE CRÉDITO”, PUBLICADO EN LA EDICIÓN VESPERTINA DEL D.O.F. 17 DE JUNIO DE 2016, SE SEÑALA QUE “LAS DISPOSICIONES DEL PRESENTE DECRETO RELATIVAS A LA EJECUCIÓN PENAL, ENTRARÁN EN VIGOR UNA VEZ QUE ENTRE EN VIGOR LA LEGISLACIÓN EN LA MATERIA PREVISTA EN EL ARTÍCULO 73, FRACCIÓN XXI, INCISO C) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.”]
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JUNIO DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 30 de noviembre de 2010.
 
@@ -50,17 +54,19 @@ LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLA
 
 La presente Ley es reglamentaria del párrafo primero de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos en materia de secuestro. Es de orden público y de observancia general en toda la República y tiene por objeto establecer los tipos penales, sus sanciones, las medidas de protección, atención y asistencia a ofendidos y víctimas, la distribución de competencias y formas de coordinación entre los órdenes de gobierno. Para ello la Federación y las Entidades Federativas, en el ámbito de sus competencias, estarán obligadas a coordinarse en el cumplimiento del objeto de esta Ley.
 
-Los Poderes Judiciales de la Federación y de las Entidades Federativas ordenarán de oficio el desahogo de las pruebas que consideren necesarias, así como todas las medidas que sirvan para mejor proveer, de conformidad con las circunstancias que se aprecien durante el desarrollo de los procesos penales de su competencia, privilegiando y garantizando en todo caso la libertad, seguridad y demás derechos de las víctimas y ofendidos de los delitos previstos en el presente ordenamiento.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### Artículo 2.
 
-Esta Ley establece los tipos y punibilidades en materia de secuestro. Para la investigación, persecución, sanción y todo lo referente al procedimiento serán aplicables el Código Penal Federal, el Código Federal de Procedimientos Penales, la Ley Federal contra la Delincuencia Organizada y los códigos de procedimientos penales de los Estados.
+Esta Ley establece los tipos penales y punibilidades en materia de secuestro. Para la investigación, persecución y sanción de los delitos previstos en la presente ley se aplicará en lo conducente el Código Penal Federal, el Código Nacional de Procedimientos Penales, la Ley Federal Contra la Delincuencia Organizada y la Ley General de Víctimas.
 
-A falta de regulación suficiente en los códigos de procedimientos penales de las Entidades Federativas respecto de las técnicas para la investigación de los delitos regulados en esta Ley, se podrán aplicar supletoriamente las técnicas de investigación previstas en el Código Federal de Procedimientos Penales.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-> <small>(ADICIONADO, D.O.F. 27 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-Los imputados por la comisión de alguno de los delitos señalados en los artículos 9, 10, 11, 17 y 18 de esta Ley, durante el proceso penal estarán sujetos a prisión preventiva.
+Los imputados por la comisión de alguno de los delitos señalados en los artículos 9, 10, 11, 17 y 18 de esta Ley, durante el proceso penal estarán sujetos a prisión preventiva oficiosa.
 
 ###### Artículo 3.
 
@@ -84,21 +90,35 @@ VI. Fondo: Fondo de Apoyo para las Víctimas y Ofendidos.
 
 VII. Programa Nacional: Programa Nacional para la prevención, persecución y sanción del delito de secuestro.
 
-VIII. Víctima: Sujeto pasivo directo de los delitos a que se refiere esta Ley.
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-IX. Ofendido: Quienes en su carácter de sujeto pasivo indirecto resientan la afectación de los delitos señalados en esta Ley, en razón del parentesco por consanguinidad hasta el cuarto grado, y por afinidad hasta el segundo, así como quienes dependan económicamente de la víctima.
+VIII. Víctima u ofendido: para los efectos de esta ley se atenderá a lo previsto en el Código Nacional de Procedimientos Penales.
+
+IX. (DEROGADA, D.O.F. 17 DE JUNIO DE 2016)
+
+> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+X. Código Nacional: Código Nacional de Procedimientos Penales.
 
 ###### Artículo 5.
 
 El ejercicio de la acción penal y la ejecución de las sanciones por el delito de secuestro, son imprescriptibles.
 
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
 ###### Artículo 6.
 
-En el caso del delito de secuestro no procederá la reserva del expediente, aún si de las diligencias practicadas no resultan elementos bastantes para hacer la consignación a los tribunales y no aparece (sic) que se puedan practicar otras. La policía, bajo la conducción y mando del Ministerio Público, estará obligada en todo momento a realizar las investigaciones tendientes a lograr el esclarecimiento de los hechos.
+En el caso del delito de secuestro no procederá el archivo temporal de la investigación, aun cuando de las diligencias practicadas no resulten elementos suficientes para el ejercicio de la acción penal y no aparece que se puedan practicar otras. La policía, bajo la conducción y mando del Ministerio Público, estará obligada en todo momento a realizar las investigaciones tendientes a lograr el esclarecimiento de los hechos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### Artículo 7.
 
-Sólo podrá suspenderse el procedimiento judicial iniciado por el delito de secuestro o delitos por hechos conexos o derivados del mismo, en el caso de que el inculpado evada la acción de la justicia o sea puesto a disposición de otro juez que lo reclame en el extranjero.
+Sólo podrá suspenderse el proceso penal iniciado por el delito de secuestro o delitos por hechos conexos o derivados del mismo, en los casos aplicables a que se refiere el Código Nacional o cuando sea puesto a disposición de otro juez que lo reclame en el extranjero.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+El imputado por delito de secuestro podrá optar por el procedimiento abreviado en términos del Código Nacional de Procedimientos Penales.
 
 ###### Artículo 8.
 
@@ -208,13 +228,19 @@ II. Preste auxilio o cooperación al autor de cualquiera de las conductas previs
 
 III. Oculte o favorezca el ocultamiento del responsable de ejecutar cualquiera de las conductas previstas en los artículos 9 y 10 de esta Ley, con conocimiento de esta circunstancia, así como los efectos, objetos o instrumentos del mismo o impida que se averigüe;
 
-IV. Altere, modifique o destruya ilícitamente el lugar, huellas o vestigios de los hechos delictivos a que se refiere esta Ley, y
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-V. Desvíe u obstaculice la investigación de cualquiera de las conductas previstas en los artículos 9 y 10 de esta Ley, o favorezca que el inculpado se sustraiga a la acción de la justicia.
+IV. Altere, modifique o destruya ilícitamente el lugar, indicios, evidencias, objetos, instrumentos o productos del hecho delictivo, o
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+V. Desvíe u obstaculice la investigación de cualquiera de las conductas previstas en los artículos 9 y 10 de esta Ley, o favorezca que el imputado se sustraiga a la acción de la justicia.
 
 No se aplicará la pena prevista en este artículo en el caso de la fracción III, en lo referente al ocultamiento del infractor, cuando se trate de:
 
-a) Los ascendientes o descendientes consanguíneos o afines directos, y
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+a) Los ascendientes o descendientes consanguíneos o afines directos, o
 
 b) El cónyuge, la concubina, el concubinario y parientes colaterales por consanguinidad hasta el segundo grado.
 
@@ -228,7 +254,9 @@ I. Divulgue, sin motivo fundado, información reservada o confidencial, relacion
 
 II. Revele, sin motivo fundado, técnicas aplicadas a la investigación o persecución de las conductas previstas en la presente Ley.
 
-Si el sujeto es o hubiere sido integrante de una institución de seguridad pública, de procuración de justicia, de los centros de reclusión preventiva o penitenciaria, la pena será de cuatro años seis meses a trece años de prisión, así como también, la multa y el tiempo de colocación de dispositivos de localización y vigilancia se incrementarán desde un tercio hasta dos terceras partes.
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+Si el sujeto es o hubiere sido integrante de una institución de seguridad pública, de procuración o de administración de justicia, de los centros penitenciarios, la pena será de cuatro años seis meses a trece años de prisión, así como también, la multa y el tiempo de colocación de dispositivos de localización y vigilancia se incrementarán desde un tercio hasta dos terceras partes.
 
 > <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2014)</small>
 
@@ -246,7 +274,9 @@ Cualquier otro servidor público quedará inhabilitado para ocupar un empleo, ca
 
 Los sentenciados por los delitos a que se refiere la presente Ley no tendrán derecho a los beneficios de la libertad preparatoria, sustitución, conmutación de la pena o cualquier otro que implique reducción de la condena.
 
-Quienes colaboren proporcionando datos fehacientes o suficientes elementos de convicción a la autoridad en la investigación y persecución de otros miembros de la delincuencia organizada o de bandas de personas dedicadas a la comisión de delitos en materia de secuestros y para la localización y liberación de las víctimas conforme al Código Penal Federal y la Ley que Establece las Normas Mínimas sobre Readaptación Social de Sentenciados, tendrán derecho a los beneficios citados en el primer párrafo del presente artículo, siempre que concurran todas las condiciones que a continuación se enuncian:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+Quienes colaboren proporcionando datos fehacientes o suficientes elementos de convicción a la autoridad en la investigación y persecución de otros miembros de la delincuencia organizada o de bandas de personas dedicadas a la comisión de delitos en materia de secuestros y para la localización y liberación de las víctimas conforme al Código Penal Federal y la legislación aplicable en materia de ejecución de sanciones, tendrán derecho a los beneficios citados en el primer párrafo del presente artículo, siempre que concurran todas las condiciones que a continuación se enuncian:
 
 I. Respecto de los delitos sancionados con una pena que no exceda de cuatro años de prisión;
 
@@ -256,7 +286,9 @@ III. El sentenciado sea primodelincuente;
 
 IV. En su caso, cubra la totalidad de la reparación del daño o de manera proporcional, cuando haya sido condenado en forma solidaria y mancomunada y sea determinada dicha reparación;
 
-V. Cuente con una persona conocida que se comprometa y garantice a la autoridad penitenciaria el cumplimiento de las obligaciones contraídas por el sentenciado;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+V. Cuente con una persona conocida que se comprometa y garantice a la autoridad judicial el cumplimiento de las obligaciones contraídas por el sentenciado;
 
 VI. Compruebe fehacientemente contar con un oficio, arte o profesión o exhiba las constancias adecuadas que acrediten que continuará estudiando;
 
@@ -268,7 +300,7 @@ VIII. Se obligue a no molestar a la víctima y a los testigos que depusieron en 
 
 La autoridad judicial podrá ordenar que las personas que hayan sido condenadas por conductas previstas en el presente ordenamiento queden sujetas a vigilancia por la autoridad policial hasta por los cinco años posteriores a su liberación.
 
-La misma medida podrá imponerse de manera cautelar tratándose de inculpados en libertad con las reservas de ley e indiciados durante el tiempo que dure la averiguación previa o el proceso.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ### Capítulo III. De la Prevención y Coordinación
 
@@ -296,45 +328,55 @@ La Federación, los estados, los municipios y el Distrito Federal y sus órganos
 
 ### Capítulo IV. Ámbito de Aplicación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
 ###### Artículo 23.
 
-Los delitos previstos en esta Ley se prevendrán, investigarán, perseguirán y sancionarán por la Federación cuando se trate de los casos previstos en la Ley Federal contra la Delincuencia Organizada y cuando se apliquen las reglas de competencia previstas en la Ley Orgánica del Poder Judicial de la Federación y del Código Federal de Procedimientos Penales; o cuando el Ministerio Público de la Federación solicite a la autoridad competente de la entidad federativa, le remita la investigación correspondiente, atendiendo a las características propias del hecho, así como a las circunstancias de ejecución o la relevancia social del mismo.
+Los delitos previstos en esta Ley se prevendrán, investigarán, perseguirán y sancionarán por la Federación cuando se trate de los casos previstos en la Ley Federal Contra la Delincuencia Organizada y cuando se apliquen las reglas de competencia previstas en la Ley Orgánica del Poder Judicial de la Federación y del Código Nacional; o cuando el Ministerio Público de la Federación solicite a la autoridad competente de la entidad federativa le remita la investigación correspondiente, atendiendo a las características propias del hecho, así como a las circunstancias de ejecución o a la relevancia social del mismo.
 
 En los casos no contemplados en el párrafo anterior, serán competentes las autoridades del fuero común.
 
-Si de las diligencias practicadas en la investigación de un delito se desprende la comisión de alguno de los contemplados en esta Ley, el Ministerio Público del fuero común deberá, a través del acuerdo respectivo, desglosar la averiguación previa correspondiente precisando las constancias o las actuaciones realizadas. Las actuaciones que formen parte del desglose no perderán su validez, aún cuando en su realización se haya aplicado la legislación adjetiva del fuero común y con posterioridad el Código Federal de Procedimientos Penales.
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-Si de las diligencias practicadas en la investigación de los delitos contemplados en esta Ley se desprende la comisión de alguno diferente del fuero común, el Ministerio Público deberá, a través del acuerdo correspondiente, desglosar la averiguación y remitirla al competente, por razón de fuero o materia. En el acuerdo respectivo se precisarán las constancias o actuaciones, mismas que no perderán su validez, aún cuando en su realización se haya aplicado el Código Federal de Procedimientos Penales y, con posterioridad, la legislación adjetiva del fuero común.
+Si de las diligencias practicadas en la investigación de un delito se desprende la comisión de alguno de los contemplados en esta Ley, el Ministerio Público del fuero común deberá, remitir al Ministerio Público de la Federación los registros de investigación correspondientes.
 
-Si el delito produce efectos en dos o más entidades federativas será competente la autoridad investigadora de cualquiera de éstas. El ejercicio de la acción penal corresponderá a la que prevenga.
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+Si de las diligencias practicadas en la investigación de los delitos contemplados en esta Ley se desprende la comisión de alguno diferente del fuero común, el Ministerio Público de la Federación deberá, remitir al Ministerio Público del fuero local los registros de investigación correspondientes.
+
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ### Capítulo V. Intervención y Aportación Voluntaria de Comunicaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
 ###### Artículo 24.
 
-El Procurador General de la República o los servidores públicos en quienes delegue la facultad, los Procuradores de Justicia de los Estados y del Distrito Federal, así como las autoridades facultadas en la ley para ello podrán solicitar a la autoridad judicial federal su autorización para la intervención de comunicaciones privadas.
+Para la intervención y aportación voluntaria de comunicaciones privadas, se estará a lo dispuesto en el Código Nacional.
 
-La solicitud de autorización deberá contener los preceptos legales que la fundan, el razonamiento por el que se considera procedente, el tipo de comunicaciones a intervenir, en su caso, los sujetos o las líneas, aparatos, números, lugares que serán intervenidos, así como el tiempo que serán intervenidos, sin que el tiempo total exceda de seis meses. Para llevar a cabo la intervención, la autoridad investigadora podrá utilizar todos los medios tecnológicos que estime necesarios. En todo caso será obligación de los concesionarios de los servicios de telecomunicaciones de las líneas a intervenir prestar auxilio para tal efecto.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-La aportación de comunicaciones privadas para la investigación y persecución de los delitos materia de esta Ley constituye una excepción al deber de confidencialidad que establezcan otras leyes.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-El Ministerio Público podrá ofrecer como prueba los resultados de la intervención asentados en cualquier medio tecnológico al juez que corresponda, en caso de no admitirse, deberán ser destruidas en los términos señalados por la autoridad judicial.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-Cualquier actuación desarrollada en los términos del presente Capítulo será nulificada por el juez si se incurrió en conductas no autorizadas o ilegales, sin perjuicio de la aplicación de las responsabilidades administrativas y penales correspondientes.
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ### Capítulo VI. Obligaciones de los Concesionarios de Redes Públicas de Telecomunicaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
 ###### Artículo 25.
 
-Los concesionarios de redes públicas de telecomunicaciones y, en lo aplicable, las empresas comercializadoras de servicios de telecomunicaciones, de conformidad con las disposiciones aplicables, tratándose de la investigación de los delitos previstos en esta Ley, sin perjuicio de lo dispuesto para otros delitos y siempre que medie orden de autoridad judicial competente, están obligados a:
+Los concesionarios de telecomunicaciones, los autorizados o proveedores de servicios de aplicaciones y contenidos, de conformidad con las disposiciones aplicables, tratándose de la investigación de los delitos previstos en esta Ley, están obligados a atender todo mandamiento por escrito, fundado y motivado, en los términos que establezca el Código Nacional de Procedimientos Penales y la legislación aplicable.
 
-I. Proporcionar de forma inmediata y sin demora a los titulares del Ministerio Público de la Federación o de las Entidades Federativas o los servidores públicos en quienes deleguen dicha atribución, la información relativa al número telefónico que se le indique y los datos del usuario registrado como cliente;
+I. (DEROGADA, D.O.F. 17 DE JUNIO DE 2016)
 
-II. Proporcionar oportunamente asistencia técnica y la información que requieran los titulares del Ministerio Público de la Federación o de las Entidades Federativas o los servidores públicos en quienes deleguen dicha atribución;
+II. (DEROGADA, D.O.F. 17 DE JUNIO DE 2016)
 
-III. Colaborar con las autoridades competentes en las acciones que permitan investigar y perseguir los delitos previstos en esta Ley, y
+III. (DEROGADA, D.O.F. 17 DE JUNIO DE 2016)
 
-IV. Suspender el servicio de telefonía para efectos de aseguramiento cuando así lo instruya la Comisión Federal de Telecomunicaciones, en cumplimiento al mandato ministerial o judicial correspondiente.
+IV. (DEROGADA, D.O.F. 17 DE JUNIO DE 2016)
 
 ### Capítulo VII. Protección de Personas
 
@@ -342,9 +384,11 @@ IV. Suspender el servicio de telefonía para efectos de aseguramiento cuando as�
 
 En el ámbito de sus respectivas competencias, los titulares del Ministerio Público de la Federación y de las entidades federativas expedirán los correspondientes programas para la protección de personas.
 
-El Ministerio Público incorporará a dichos programas a las personas cuya vida o integridad corporal pueda estar en peligro por su intervención en la averiguación previa o el proceso penal seguido por las conductas previstas en la presente Ley.
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-El juez que conozca del procedimiento penal, tomando en consideración al menos lo señalado en el párrafo anterior, podrá ordenar como parte de las medidas cautelares de protección de personas, que éstas sean incorporadas a dichos programas.
+El Ministerio Público incorporará a dichos programas a las personas cuya vida o integridad corporal pueda estar en peligro por su intervención en un procedimiento penal seguido por las conductas previstas en la presente Ley.
+
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### Artículo 27.
 
@@ -358,9 +402,11 @@ El cumplimiento del Programa Federal de Protección a Personas quedará a cargo 
 
 El cumplimiento de los programas de protección a personas de las entidades federativas quedará a cargo del Titular del Ministerio Público o el servidor público inmediato inferior en quien éste delegue esta responsabilidad, en coordinación con las autoridades cuya intervención sea necesaria de conformidad con lo dispuesto en este Capítulo, otras disposiciones aplicables y las disponibilidades presupuestarias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
 ###### Artículo 29.
 
-La incorporación al Programa Federal de Protección a Personas, durante la averiguación previa será autorizada por el Procurador General de la República o el servidor público inmediato inferior en quien éste delegue la facultad.
+La incorporación al Programa Federal de Protección a Personas, durante el procedimiento penal será autorizada por el Procurador General de la República o el Servidor Público inmediato inferior en quien éste delegue la facultad.
 
 Para tal efecto, se deberán analizar las condiciones de cada persona, si éstas se encuentran en el supuesto que señala el artículo 26 de esta Ley y si cumplen con los requisitos que señale el programa.
 
@@ -376,19 +422,25 @@ c) La petición de la persona protegida, y
 
 d) Otras circunstancias que a su criterio justifiquen la medida.
 
-La revocación de la protección deberá ser resuelta por el Ministerio Público previo acuerdo con el Titular de la institución de procuración de justicia que corresponda, o por el juez, en los supuestos en que éste la haya ordenado durante el proceso. Para lo que se deberá tomar en cuenta, en su caso, además de lo señalado en el párrafo anterior y lo subsecuente:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+La revocación de la protección deberá ser resuelta por el Ministerio Público previo acuerdo con el Titular de la institución de procuración de justicia que corresponda o el servidor público inmediato inferior en quien éste delegue la facultad. Para lo que se deberá tomar en cuenta, en su caso, además de lo señalado en el párrafo anterior y lo subsecuente:
 
 I. La extinción de los supuestos que señala el segundo párrafo del artículo 26 de esta Ley;
 
 II. Que el testigo se haya conducido con falta de veracidad;
 
-III. Que haya ejecutado un delito grave durante la vigencia de la medida;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+III. Que haya ejecutado un delito que amerite prisión preventiva oficiosa durante la vigencia de la medida;
 
 IV. Que el protegido no cumpla con las medidas de seguridad correspondientes, o
 
 V. Que el testigo se niegue a declarar.
 
-En tanto se autoriza la incorporación de una persona al Programa, el agente del Ministerio Público responsable de la indagatoria, con el auxilio de la policía que actúe bajo su conducción y mando, tomará providencias, dadas las características y condiciones personales del sujeto, para salvaguardar su vida e integridad corporal.
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+En tanto se autoriza la incorporación de una persona al Programa, el agente del Ministerio Público responsable de la investigación, con el auxilio de la policía que actúe bajo su conducción y mando, tomará medidas de protección, dadas las características y condiciones personales del sujeto, para salvaguardar su vida e integridad corporal.
 
 ###### Artículo 30.
 
@@ -402,31 +454,43 @@ Las Entidades Federativas y la Federación celebrarán convenios de colaboració
 
 ### Capítulo VIII. Apoyos a las Víctimas, Ofendidos y Testigos de Cargo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
 ###### Artículo 32.
 
-Las víctimas y ofendidos de las conductas previstas en el presente ordenamiento y los testigos de cargo, además de los derechos establecidos en la Constitución Política de los Estados Unidos Mexicanos, en el Código Federal de Procedimientos Penales y demás leyes secundarias, tendrán los siguientes derechos:
+Las víctimas y ofendidos de las conductas previstas en el presente ordenamiento y los testigos en su caso, además de los derechos establecidos en la Constitución Política de los Estados Unidos Mexicanos, el Código Nacional y demás legislación aplicable, tendrán los siguientes derechos:
 
-I. Estar presentes en el proceso, en sala distinta a la que se encuentre el inculpado;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+I. Estar presentes en el proceso, en sala distinta a la que se encuentre el imputado;
 
 II. Obtener la información que se requiera a las autoridades competentes o correspondientes;
 
 III. Solicitar y recibir asesoría por parte de las autoridades competentes, la cual deberá ser proporcionada por un experto en la materia, quien informará sobre la situación del proceso y procedimientos, así como de los beneficios o apoyos a que se refieren en esta Ley;
 
-IV. Solicitar ante la autoridad judicial competente, las medidas precautorias o cautelares procedentes en términos de la legislación aplicable, para la seguridad y protección de las víctimas, ofendidos y testigos, para la investigación y persecución de los probables responsables del delito y para el aseguramiento de bienes para la reparación del daño;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+IV. Solicitar ante la autoridad judicial competente, las providencias precautorias o medidas cautelares procedentes en términos de la legislación aplicable, para la seguridad y protección de las víctimas u ofendidos y testigos, para la investigación y persecución de los probables responsables del delito y para el aseguramiento de bienes para la reparación del daño;
 
 V. Requerir al juez que al emitir una sentencia condenatoria, en la misma deberá sentenciar a la reparación del daño a favor de la víctima;
 
 VI. Contar con apoyo permanente de un grupo interdisciplinario que las asesore y apoye en sus necesidades;
 
-VII. Rendir o ampliar sus declaraciones sin ser identificados dentro de la audiencia y, si lo solicitan, hacerlo por medios electrónicos;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-VIII. Participar en careos a través de medios electrónicos;
+VII. Rendir testimonio sin ser identificado dentro de la audiencia y, si lo solicitan, hacerlo por medios electrónicos;
 
-IX. Estar asistidos por sus abogados, médicos y psicólogos durante las diligencias;
+VIII. (DEROGADA, D.O.F. 17 DE JUNIO DE 2016)
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+IX. Estar asistidos por, asesor jurídico, médico y psicólogos durante las diligencias;
 
 X. Obtener copia simple gratuita y de inmediato, de la diligencia en la que intervienen;
 
-XI. Aportar pruebas durante el juicio;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+XI. Aportar medios de prueba durante la investigación;
 
 XII. Conocer el paradero del autor o partícipes del delito del que fue víctima o testigo;
 
@@ -438,9 +502,11 @@ XIV. Ser inmediatamente notificado y proveído de la protección correspondiente
 
 Los procesos administrativos o judiciales en los que sea parte la víctima de las conductas previstas en la presente Ley, a partir de la promoción fundada y motivada que realice su representante legal, apoderado o abogado patrono, quedarán suspendidos mientras dure su cautiverio y hasta por tres meses más a juicio razonado de la autoridad respectiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
 ###### Artículo 34.
 
-Las víctimas u ofendidos podrán contar con la asistencia gratuita de un asesor en materia penal, que será designado por el Poder Judicial competente, con el fin de que le facilite:
+Las víctimas u ofendidos podrán contar con la asistencia gratuita de un asesor jurídico, que será designado por la autoridad competente, en términos de las disposiciones aplicables, con el fin de que le facilite:
 
 I. La promoción efectiva de sus derechos;
 
@@ -462,9 +528,11 @@ Dentro de la reparación a las víctimas de las conductas previstas en la presen
 
 ### Capítulo X. Embargo por Valor Equivalente
 
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
 ###### Artículo 36.
 
-En caso de que el producto, los instrumentos u objetos de los delitos referidos en esta Ley hayan desaparecido o no se localicen, el Ministerio Público pedirá el embargo y, en su oportunidad, la aplicación respectiva de bienes del sentenciado cuyo valor equivalga a dicho producto, instrumentos u objetos a fin de que el juez ordene la reparación correspondiente, sin menoscabo de las disposiciones aplicables en materia de extinción de dominio.
+En caso de que el producto, los instrumentos u objetos del hecho delictivo hayan desaparecido o no se localicen por causa atribuible al imputado, el Ministerio Publico decretará o solicitará al Órgano jurisdiccional correspondiente el embargo precautorio, el aseguramiento y, en su caso, el decomiso de bienes propiedad del o de los imputados, así como de aquellos respecto de los cuales se conduzcan como dueños, dueños beneficiarios o beneficiarios controladores, cuyo valor equivalga a dicho producto, sin menoscabo de las disposiciones aplicables en materia de extinción de dominio.
 
 ### Capítulo XI. Del Fondo de Apoyo para las Víctimas y Ofendidos
 
@@ -542,7 +610,9 @@ XVII. Participar en la formulación de un Programa Nacional para Prevenir, Perse
 
 XVIII. Establecer mecanismos de cooperación destinados al intercambio de información y adiestramiento continuo de servidores públicos especializados en secuestro de las Instituciones de Seguridad Pública, cuyos resultados cuentan con la certificación del Centro Nacional de Certificación y Acreditación, y
 
-XIX. Realizar las acciones y gestiones necesarias para restringir de manera permanente todo tipo de comunicación, ya sea transmisión de voz, datos, o imagen en los Centros de Readaptación Social Federales y de las Entidades Federativas, cualquiera que sea su denominación.
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+XIX. Realizar las acciones y gestiones necesarias para restringir de manera permanente todo tipo de comunicación, ya sea transmisión de voz, datos, o imagen en los centros penitenciarios, cualquiera que sea su denominación.
 
 ###### Artículo 41.
 
@@ -570,7 +640,9 @@ Las unidades especiales de investigación tendrán las siguientes facultades:
 
 I. Solicitar que se le brinde atención médica, psicológica y jurídica a las víctimas de las conductas previstas en esta Ley;
 
-II. Decretar las providencias precautorias para la protección de la vida o integridad de las víctimas o sus familiares;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+II. Decretar las medidas de protección para el resguardo de la vida o integridad de las víctimas o sus familiares, así como solicitar al juez las providencias precautorias para garantizar la reparación del daño;
 
 III. Asesorar a los familiares en las negociaciones para lograr la libertad de las víctimas;
 
@@ -604,21 +676,27 @@ Las autoridades de los gobiernos federal y de las entidades federativas deberán
 
 ### Capítulo XIV. De la Prisión Preventiva y de la Ejecución de Sentencias
 
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
 ###### Artículo 46.
 
-A los procesados y sentenciados por las conductas previstas en esta Ley se les podrá aplicar las medidas de vigilancia especial que prevé la Ley que establece las Normas Mínimas sobre Readaptación Social de Sentenciados, entre ellas, la restricción de comunicaciones con terceros, salvo el acceso con su defensor.
+A los imputados y sentenciados por las conductas previstas por esta Ley, se les podrán aplicar las medidas de vigilancia especiales previstas en la legislación aplicable.
 
-Las entidades federativas conforme a las disposiciones legales o los convenios al efecto celebrados, podrán remitir a los Centros Federales de Readaptación Social, de otros estados o el Distrito Federal a los procesados o sentenciados, para cumplir la determinación judicial.
+Las entidades federativas conforme a las disposiciones legales o los convenios al efecto celebrados, podrán remitir a los centros penitenciarios, de otros estados o la Ciudad de México a los procesados o sentenciados, para cumplir la determinación judicial.
 
-Las diligencias que deban realizarse por los delitos que contempla esta Ley se llevarán a cabo siempre en las áreas que al efecto existan dentro de los propios centros de reclusión, sin que pueda justificarse para estos efectos traslado alguno, salvo petición del Titular del Ministerio Público o en quien éste delegue dicha atribución.
+Las diligencias que deban realizarse por los delitos que contempla esta Ley se llevarán a cabo siempre en las áreas que al efecto existan dentro de los propios centros penitenciarios, sin que pueda justificarse para estos efectos traslado alguno, salvo petición del Titular del Ministerio Público o en quien éste delegue dicha atribución.
+
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### Artículo 47.
 
-Durante su reclusión, los inculpados y sentenciados por las conductas previstas en esta Ley, sólo podrán tener los objetos que les sean entregados por conducto de las autoridades competentes.
+Durante su estancia en los centros penitenciarios, los imputados y sentenciados por las conductas previstas en esta Ley, sólo podrán tener los objetos que les sean entregados por conducto de las autoridades competentes.
+
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### Artículo 48.
 
-Los procesados o sentenciados por las conductas previstas en esta Ley, que proporcionen datos fehacientes o suficientes elementos de convicción para la detención de los demás participantes, podrán beneficiarse con medidas de protección durante el tiempo y bajo las modalidades que se estime necesario. Además, se asegurará su reclusión y ejecución de sentencia, en establecimientos distintos a aquel en donde compurguen su sentencia los miembros del mismo grupo delictivo.
+Los imputados o sentenciados por las conductas previstas en esta Ley, que proporcionen datos fehacientes o suficientes elementos de convicción para la detención de los demás participantes, podrán beneficiarse con medidas de protección durante el tiempo y bajo las modalidades que se estime necesario. Además se asegurará que la prisión preventiva y ejecución de sentencia, se llevarán a cabo en establecimientos distintos a aquél en donde compurguen su sentencia los miembros del mismo grupo delictivo.
 
 ...
 
@@ -663,3 +741,23 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 D.O.F. 3 DE JUNIO DE 2014.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES; DEL CÓDIGO PENAL FEDERAL; DE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA; DE LA LEY FEDERAL PARA LA PROTECCIÓN A PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL; DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y DE LA LEY DE INSTITUCIONES DE CRÉDITO”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación salvo lo previsto en el siguiente artículo.
+
+Segundo.- Las reformas al Código Nacional de Procedimientos Penales, al Código Penal Federal, a la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, los artículos 2, 13, 44 y 49 de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal y los artículos 21 en su fracción X, 50 Bis y 158 de la Ley Orgánica del Poder Judicial de la Federación, entrarán en vigor en términos de lo previsto por el Artículo Segundo Transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales publicado en el Diario Oficial de la Federación el 5 de marzo de 2014.
+
+Los procedimientos que se encuentren en trámite, relacionados con las modificaciones a los preceptos legales contemplados en el presente Decreto, se resolverán de conformidad con las disposiciones que les dieron origen.
+
+Tercero.- Dentro de los 180 días naturales a la entrada en vigor del presente Decreto, la Federación y las entidades federativas en el ámbito de sus respectivas competencias, deberán contar con una Autoridad de Supervisión de Medidas Cautelares y de la Suspensión Condicional del Proceso.
+
+Asimismo, dentro de los 30 días siguientes a la fecha de creación de las autoridades de medidas cautelares y de la suspensión condicional del proceso de la Federación y de las entidades federativas, se deberán emitir los acuerdos y lineamientos que regulen su organización y funcionamiento.
+
+Cuarto.- Las disposiciones del presente Decreto relativas a la ejecución penal, entrarán en vigor una vez que entre en vigor la legislación en la materia prevista en el artículo 73, fracción XXI, inciso c) de la Constitución Política de los Estados Unidos Mexicanos.
+
+Quinto.- Tratándose de aquellas medidas privativas de la libertad personal o de prisión preventiva que hubieren sido decretadas por mandamiento de autoridad judicial durante los procedimientos iniciados con base en la legislación procesal penal vigente con anterioridad a la entrada en vigor del sistema de justicia penal acusatorio adversarial, el inculpado o imputado podrá solicitar al órgano jurisdiccional competente la revisión de dichas medidas, para efecto de que, el juez de la causa, en los términos de los artículos 153 a 171 del Código Nacional de Procedimientos Penales, habiéndose dado vista a las partes, para que el Ministerio Público investigue y acredite lo conducente, y efectuada la audiencia correspondiente, el órgano jurisdiccional, tomando en consideración la evaluación del riesgo, resuelva sobre la imposición, revisión, sustitución, modificación o cese, en términos de las reglas de prisión preventiva del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, así como del Código Nacional de Procedimientos Penales. En caso de sustituir la medida cautelar, aplicará en lo conducente la vigilancia de la misma en términos de los artículos 176 a 182 del citado Código.
+
+Sexto.- La Procuraduría General de la República propondrá al seno del Consejo Nacional de Seguridad Pública la consecución de los acuerdos que estime necesarios entre las autoridades de las entidades federativas y la federación en el marco de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal.
