@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-21-2012-del-pleno-del-consejo-de-la-88462"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-07-03"
-last_updated: "2016-04-29"
+last_updated: "2016-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-06-27"
 
 ACUERDO GENERAL 21/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELACIONADO CON "EL PROGRAMA DE PRÁCTICAS JUDICIALES EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL"
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JUNIO DE 2016.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 3 de julio de 2012.
 
@@ -195,9 +195,9 @@ El apoyo económico al que hace referencia el artículo tercero, inciso c) de es
 
 El tiempo que dure la sustitución por licencia no será computado como parte del tiempo de la práctica judicial, por lo cual, la fecha de conclusión de las prácticas judiciales será al cumplir el plazo respectivo del Programa de Prácticas Judiciales, el cual será de hasta veinticuatro meses.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE ADICIONA UN PÁRRAFO AL ARTÍCULO DÉCIMO DEL SIMILAR 21/2012, RELACIONADO CON EL PROGRAMA DE PRÁCTICAS JUDICIALES EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-> <small>(DEROGADO CUARTO PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR 21/2012, RELACIONADO CON EL PROGRAMA DE PRÁCTICAS JUDICIALES EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE ABRIL DE 2016)</small>
+Los estudiantes que participen en convenios celebrados por el Consejo de la Judicatura Federal con Universidades o Fundaciones, recibirán los apoyos provenientes de éstas en los términos convenidos, sin que se interrumpan en los períodos en que cubran licencias por sustitución.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
@@ -229,7 +229,7 @@ TERCERO. La Comisión de Administración deberá publicar la Convocatoria a que 
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNANDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 21/2012, del Pleno del Consejo de la Judicatura Federal, relacionado con "el Programa de prácticas judiciales en los órganos jurisdiccionales a cargo del Consejo de la Judicatura Federal", fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de seis de junio de dos mil doce, por mayoría de seis votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, César Esquinca Muñoa, César Alejandro Jáuregui Robles, Jorge Moreno Collado y Manuel Ernesto Saloma Vera, en contra del voto del señor Consejero Juan Carlos Cruz Razo, quien formuló voto particular.- México, Distrito Federal, a veintisiete de junio de dos mil doce.- Conste.- Rúbrica.
 
-N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+> <small>[N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O.F. 25 DE SEPTIEMBRE DE 2015.
 
@@ -250,3 +250,13 @@ SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y
 TERCERO. Todos aquellos convenios celebrados por el Consejo de la Judicatura Federal con Universidades y Fundaciones que se encuentren vigentes al momento de la entrada en vigor de este Acuerdo, podrán ser modificados en todo aquello que beneficie a los participantes del Programa de Prácticas Judiciales.
 
 CUARTO. La duración de las prácticas judiciales que ya se estén llevando a cabo se extenderá de doce hasta veinticuatro meses, y podrá prorrogarse en las condiciones previstas en los términos del presente Acuerdo General. Asimismo, estas prácticas judiciales podrán ser modificadas en todo aquello que beneficie a los participantes de conformidad con este Acuerdo.
+
+D.O.F. 17 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE ADICIONA UN PÁRRAFO AL ARTÍCULO DÉCIMO DEL SIMILAR 21/2012, RELACIONADO CON EL PROGRAMA DE PRÁCTICAS JUDICIALES EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. La presente adición será de aplicación retroactiva, en el marco de los convenios suscritos con Universidades y Fundaciones vigentes al momento de la entrada en vigor de este Acuerdo, en aquello que beneficie a los estudiantes participantes en el Programa de Prácticas Judiciales.
