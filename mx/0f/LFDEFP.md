@@ -4,7 +4,7 @@ identifier: "LFDEFP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1998-05-28"
-last_updated: "2014-12-24"
+last_updated: "2016-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11736&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFDEFP"
 
 LEY FEDERAL DE DEFENSORÍA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JUNIO DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el jueves 28 de mayo de 1998.
 
@@ -66,11 +66,9 @@ Para la prestación de los servicios de defensoría pública, se crea el Institu
 
 Los servicios de defensoría pública se prestarán a través de:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2012)</small>
-
-I. Defensores públicos, en los asuntos del orden penal federal y de la Justicia Federal para Adolescentes, desde la averiguación previa o investigación hasta la ejecución de las penas o medidas, y
+I. Defensores públicos, en los asuntos del orden penal federal y del Sistema de Justicia Penal Integral para Adolescentes, desde la averiguación previa o investigación hasta la ejecución de las penas, medidas u otra consecuencia, hasta la extinción de éstas, y
 
 II. Asesores jurídicos, en asuntos de orden no penal, salvo los expresamente otorgados por la Ley a otras instituciones.
 
@@ -86,9 +84,17 @@ III. Tener como mínimo tres años de experiencia profesional en las materias re
 
 IV. Gozar de buena fama y solvencia moral;
 
-V. Aprobar los exámenes de ingreso y oposición correspondientes, y
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-VI. No haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año.
+V. Aprobar los exámenes de ingreso y oposición correspondientes;
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+VI. No haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año, y
+
+> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+VII. En cuanto a la permanencia, no incurrir en deficiencia técnica manifiesta o reiterada ni incumplir los deberes propios del cargo. Esta disposición será aplicable a todos los servidores públicos del servicio civil de carrera.
 
 ###### Artículo 6.
 
@@ -100,7 +106,9 @@ II. Representar y ejercer ante las autoridades competentes los intereses y los d
 
 III. Evitar en todo momento la indefensión de sus representados;
 
-IV. Vigilar el respeto a las garantías individuales de sus representados y formular las demandas de amparo respectivas, cuando las garantías individuales se estimen violadas;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+IV. Vigilar el respeto a los derechos humanos y sus garantías de sus representados; así como promover el juicio de amparo respectivo o cualquier otro medio legal de defensa, cuando aquellos se estimen violentados;
 
 V. Llevar un registro y formar un expediente de control de todos los procedimientos o asuntos en que intervengan, desde que se les turnen hasta que termine su intervención;
 
@@ -128,57 +136,111 @@ El Director General, los defensores públicos, asesores jurídicos y el personal
 
 ### CAPÍTULO II. De los Defensores Públicos
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### Artículo 10.
 
-Los defensores públicos y los defensores públicos para adolescentes serán asignados inmediatamente por el Instituto Federal de Defensoría Pública, sin más requisitos que la solicitud formulada por el adolescente o adulto joven al que se le esté aplicando la Ley Federal de Justicia para Adolescentes, por el indiciado en la averiguación previa, el inculpado en el proceso penal, el sentenciado y el Agente del Ministerio Público o el Agente del Ministerio Público Federal para Adolescentes, o el órgano jurisdiccional, según sea el caso.
+Los defensores públicos y defensores públicos para adolescentes serán asignados inmediatamente por el Instituto Federal de Defensoría Pública, sin más requisitos que la solicitud formulada por el destinatario de los servicios, o por el Ministerio Público o el Órgano jurisdiccional, según sea el caso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### Artículo 11.
 
-El servicio de defensoría pública ante el Ministerio Público de la Federación comprende:
+El servicio de defensoría pública en materia penal y de adolescentes ante el Ministerio Público de la Federación comprende:
 
-I. Atender inmediatamente las solicitudes formuladas por el indiciado o el Agente del Ministerio Público necesarias para la defensa;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-II. Solicitar al Agente del Ministerio Público de la Federación correspondiente la libertad caucional, si procediera o el no ejercicio de la acción penal en favor de su defendido, cuando no existan elementos suficientes para su consignación;
+I. Atender inmediatamente las solicitudes formuladas por el destinatario de los servicios o el Agente del Ministerio Público;
 
-III. Entrevistar al defendido para conocer de viva voz la versión personal de los hechos que motivan la averiguación previa en su contra, así como los argumentos y pruebas que le sirvan para tratar de justificar o explicar su participación en los mismos hechos, con el propósito de que pueda hacerlos valer ante la autoridad del conocimiento;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-IV. Asistir jurídicamente al defendido en el momento en que rinda su declaración ministerial, así como en cualquier otra diligencia que establezca la Ley;
+II. Solicitar al Agente del Ministerio Público de la Federación correspondiente la libertad caucional o medida cautelar distinta a la prisión preventiva, si procediera o el no ejercicio de la acción penal en favor de su defendido, cuando no existan elementos suficientes para su consignación;
 
-V. Informar al defendido o a sus familiares del trámite legal que deberá desarrollarse en todo el proceso para establecer con ellos una comunicación estrecha sobre el particular;
+> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-VI. Analizar las constancias que obren en el expediente a fin de contar con mayores elementos para la defensa;
+III. Analizar la procedencia y proporcionalidad, así como promover lo que corresponda, en los casos en que se aplique una medida cautelar a su defendido;
 
-VII. Procurar la continuidad y uniformidad de criterios en la defensa, y
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-VIII. Las demás promociones necesarias para realizar una defensa conforme a Derecho y que propicie una impartición de justicia expedita y pronta.
+IV. Entrevistar en privado y cuantas veces sea necesario al defendido, para conocer la versión personal de los hechos que motivan la averiguación previa o investigación en su contra, los argumentos, datos, medios de prueba y pruebas, así como todo aquello que sea necesario para plantear y llevar a cabo la defensa que corresponda;
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+V. Asistir jurídicamente al defendido en toda entrevista, declaración o diligencia que ocurra dentro del procedimiento penal o establezca la Ley;
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+VI. Informar al defendido, familiares o personas que autorice, del trámite legal que deberá desarrollarse durante todo el procedimiento;
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+VII. Analizar los registros de la investigación, carpetas de investigación y constancias del expediente a fin de contar con mayores elementos para la defensa;
+
+> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+VIII. Promover y participar en las diligencias de prueba, formular los argumentos e interponer los medios de impugnación que sean procedentes;
+
+IX. Procurar la continuidad y uniformidad de criterios en la defensa, y
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+X. Las demás intervenciones y promociones necesarias para realizar una defensa adecuada de los derechos, garantías e intereses de su defendido acorde al caso concreto y que propicie una impartición de justicia expedita y pronta.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+En cualquier caso se negarán a convalidar o a instar a sus defendidos a convalidar actuaciones que vayan en detrimento de los derechos humanos de dichos representados, obligándose a poner en conocimiento de la autoridad investigadora distinta a la del caso de que se trate de dicha anomalía.
+
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### Artículo 12.
 
-El servicio de defensoría pública, ante los Juzgados y Tribunales Federales comprende:
+El servicio de defensoría pública en materia penal, ante los órganos jurisdiccionales federales comprende:
 
-I. Atender inmediatamente las solicitudes que le sean formuladas por el inculpado, o por el juez de la causa;
+I. Atender inmediatamente las solicitudes que le sean formuladas por el inculpado o imputado, o por el juez de la causa;
 
-II. Solicitar al juez de la causa la libertad caucional, si procediera;
+II. Replicar o bien solicitar las aclaraciones o precisiones que estime necesarias respecto a la imputación formulada por el órgano acusador, o en su caso las realizadas por el coadyuvante del Ministerio Público;
 
-III. Hacer valer los medios que desvirtúen los elementos del tipo penal o la probable responsabilidad del defendido, en cualquier etapa del proceso, ofreciendo las pruebas y promoviendo los incidentes, recursos, alegatos y demás diligencias que fueren necesarias para una eficaz defensa;
+III. Solicitar al juez de la causa la libertad caucional o medida cautelar distinta a la prisión preventiva, si procediera;
 
-IV. Asistir jurídicamente al defendido y estar presente en el momento en que rinda su declaración preparatoria y hacerle saber sus derechos;
+IV. Hacer valer lo concerniente respecto de las medidas cautelares solicitadas;
 
-V. Formular las conclusiones a que se refiere el Código Federal de Procedimientos Penales, en el momento procesal oportuno;
+V. Hacer valer los medios que desvirtúen los elementos del tipo penal, hecho delictivo o la probable responsabilidad o participación del defendido, en cualquier etapa del procedimiento, presentando argumentos y datos de prueba, ofreciendo medios de prueba o pruebas y promoviendo los incidentes, juicio de amparo, recursos, alegatos y demás diligencias que fueren necesarias para una eficaz defensa;
 
-VI. Informar al defendido o a sus familiares del trámite legal que deberá desarrollarse en la fase de apelación para establecer con ellos una comunicación estrecha sobre el particular;
+VI. Asistir jurídicamente al defendido y estar presente en el momento en que rinda su declaración preparatoria o declaración en la audiencia inicial y en cualquier audiencia o diligencia en que deba intervenir, y hacerle saber sus derechos;
 
-VII. Analizar las constancias que obren en autos a fin de contar con mayores elementos para la formulación de los agravios respectivos en el momento procesal oportuno, durante la tramitación de la segunda instancia;
+VII. Hacer uso de la palabra para expresar lo que convenga al interés del acusado en la apertura de la audiencia de juicio o en el momento que proceda;
 
-VIII. Practicar las visitas que sean necesarias a los centros de reclusión con el objeto de comunicar a su defendido el estado procesal en que se encuentra su asunto, informar los requisitos para su libertad provisional bajo caución, así como aquellos para obtener los beneficios preliberacionales que en su caso correspondan;
+VIII. Llevar a cabo el interrogatorio o contrainterrogatorio de testigos y peritos;
 
-IX. Vigilar el adecuado cumplimiento de las sentencias, procurando para sus representados los beneficios que, en su caso, establezcan las disposiciones legales aplicables, y
+IX. Solicitar la ampliación del plazo constitucional para el desahogo de medios de prueba que considere necesarios;
 
-X. Las demás promociones que sean necesarias para una adecuada defensa conforme a Derecho.
+X. Solicitar las diligencias de investigación que hubiere rechazado el Ministerio Público durante la investigación;
+
+XI. Acceder a los medios probatorios ofrecidos por la víctima u ofendido;
+
+XII. Formular las conclusiones a que se refiere el Código Federal de Procedimientos Penales o replicar la acusación del Ministerio Público y la coadyuvancia a la acusación de la víctima y ofendido, en el momento procesal oportuno;
+
+XIII. Manifestarse sobre los acuerdos probatorios si lo estima procedente;
+
+XIV. Informar al defendido o a sus familiares del trámite legal que deberá desarrollarse en la fase de apelación para establecer con ellos una comunicación estrecha sobre el particular;
+
+XV. Analizar las constancias que obren en autos a fin de contar con mayores elementos para la formulación de los agravios respectivos en el momento procesal oportuno, durante la tramitación de la segunda instancia;
+
+XVI. Practicar las visitas que sean necesarias a los centros de reclusión o penitenciarios con el objeto de comunicar a su defendido el estado procesal en que se encuentra su asunto, informar los requisitos para su libertad provisional bajo caución o medida cautelar distinta a la prisión preventiva, así como aquellos para obtener los beneficios preliberacionales que en su caso correspondan;
+
+XVII. Vigilar el adecuado cumplimiento de las sentencias, procurando para sus representados los beneficios que, en su caso, establezcan las disposiciones legales aplicables;
+
+XVIII. Promover el procedimiento respectivo cuando existan indicios de que el imputado es inimputable;
+
+XIX. Solicitar cuando proceda la declaración de la extinción de la acción penal cuando se trate de delitos que afecten bienes jurídicos propios de un pueblo o comunidad indígena o bienes personales de uno de sus miembros;
+
+XX. Presentar los agravios que cauce la resolución que recurra;
+
+XXI. Promover cuando procede la extinción de la pretensión punitiva o de la potestad para ejecutar las penas o medidas de seguridad u otra consecuencia del delito; o el reconocimiento de inocencia o la anulación de sentencia;
+
+XXII. Promover, cuando proceda, las soluciones alternas al procedimiento, formas de terminación anticipada del proceso y procedimientos especiales, explicando a sus representados las implicaciones de cada una de las soluciones alternas, produciendo certeza de la aceptación del defendido de las consecuencias de dichos mecanismos y procedimientos, y
+
+XXIII. En general, realizar todos los actos inherentes para una defensa adecuada conforme a Derecho.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -200,9 +262,13 @@ V. Informar de inmediato al adolescente o adulto joven sujeto a la aplicación d
 
 VI. Promover soluciones alternativas al proceso;
 
-VII. Solicitar al Ministerio Público de la Federación para Adolescentes el no ejercicio de la remisión ante el Juez de Distrito Especializado para Adolescentes, cuando no se encuentren reunidos los elementos necesarios para ello, y
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-VIII. Realizar todos los trámites o gestiones necesarios, en tiempo y conforme a derecho para una eficaz defensa del adolescente o adulto joven, incluyendo ofrecimiento y desahogo de pruebas, realización de careos, formulación de alegatos, agravios, conclusiones, interposición de recursos, incidentes y demás actos conducentes.
+VII. Solicitar al Ministerio Público de la Federación para Adolescentes el no ejercicio de la remisión ante el Juez de Distrito u Órgano jurisdiccional Especializado para Adolescentes, cuando no se encuentren reunidos los elementos necesarios para ello, y
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+VIII. Realizar todos los trámites o gestiones necesarios, en tiempo y conforme a derecho para una eficaz defensa del adolescente o adulto joven, incluyendo la aportación de datos de prueba, ofrecimiento y desahogo de medios de prueba y pruebas, realización de careos, formulación de alegatos, agravios, conclusiones o réplicas de la acusación y su coadyuvancia, interposición de recursos, incidentes y demás actos conducentes.
 
 ###### Artículo 13.
 
@@ -334,7 +400,9 @@ I. Fijar la política y las acciones relacionadas con la defensoría pública, c
 
 II. Promover que las instituciones, organismos y asociaciones públicas y privadas contribuyan a la elevación del nivel profesional de los defensores públicos y asesores jurídicos, e igualmente se proporcione a la Junta asesoramiento técnico en las áreas o asuntos específicos en que ésta lo requiera;
 
-III. Propiciar que las diversas instancias públicas y privadas apoyen las modalidades del sistema de libertad provisional de los defendidos que carezcan de recursos económicos suficientes para el pago de la caución que se les fije;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+III. Propiciar que las diversas instancias públicas y privadas apoyen las modalidades del sistema de libertad provisional o de garantía económica de los defendidos que carezcan de recursos económicos suficientes para el pago de la caución que se les fije;
 
 IV. Promover la realización de estudios tendientes a perfeccionar el servicio de defensoría pública;
 
@@ -374,33 +442,47 @@ IV. Gozar de buena reputación, prestigio profesional y no haber sido condenado 
 
 El Consejo de la Judicatura Federal procurará preferir, en igualdad de circunstancias, a quien haya desempeñado el cargo de defensor público o similar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
 ###### Artículo 32.
 
-El Director General del Instituto Federal de Defensoría Pública tendrá las atribuciones siguientes:
+El director general del Instituto Federal de Defensoría Pública tendrá las atribuciones siguientes:
 
 I. Organizar, dirigir, evaluar y controlar los servicios de defensoría pública que preste el Instituto Federal de Defensoría Pública, así como sus unidades administrativas;
 
-II. Dar seguimiento a los asuntos penales que se estén asistiendo a efecto de conocer, entre otras cosas, si los procesados con derecho a libertad caucional están gozando de ese beneficio, si cumplen con la obligación de presentarse en los plazos fijados, así como si los procesos se encuentran suspendidos o ha transcurrido el término de prescripción de la acción penal;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-III. Conocer de las quejas que se presenten contra los defensores públicos y asesores jurídicos y, en su caso, investigar la probable responsabilidad de los empleados del Instituto Federal de Defensoría Pública;
+II. Dar seguimiento a los asuntos penales cuya defensa esté a cargo de los defensores públicos federales, mediante el sistema que corresponda;
 
-IV. Vigilar que se cumplan todas y cada una de las obligaciones impuestas a los defensores públicos y asesores jurídicos; determinando, si han incurrido en alguna causal de responsabilidad por parte de éstos o de los empleados del Instituto Federal de Defensoría Pública;
+> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-V. Proponer a la Junta Directiva las políticas que estime convenientes para la mayor eficacia de la defensa de los inculpados;
+III. Particularmente dar seguimiento a los asuntos penales que se estén asistiendo por defensores públicos federales a efecto de conocer si los procesados o imputados con derecho a libertad caucional o medida cautelar distinta a la prisión preventiva están haciendo uso de esa prerrogativa, si cumplen con la obligación de presentarse en los plazos fijados, así como si los procesos se encuentran suspendidos o ha transcurrido el término de prescripción de la acción penal;
 
-VI. Proponer a la Junta Directiva las bases generales de organización y funcionamiento del Instituto Federal de Defensoría Pública;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-VII. Proponer al Consejo de la Judicatura Federal, las sanciones y correcciones disciplinarias que se deban imponer a los defensores públicos y asesores jurídicos;
+IV. Enviar las quejas que se presenten contra los defensores públicos y asesores jurídicos al Consejo de la Judicatura Federal, para que éste investigue la probable responsabilidad de los empleados del Instituto Federal de Defensoría Pública;
 
-VIII. Promover y fortalecer las relaciones del Instituto Federal de Defensoría Pública con las instituciones públicas, sociales y privadas que por la naturaleza de sus funciones puedan colaborar al cumplimiento de sus atribuciones;
+V. Vigilar que se cumplan todas y cada una de las obligaciones impuestas a los defensores públicos y asesores jurídicos; determinando, si han incurrido en alguna causal de responsabilidad por parte de éstos o de los empleados del Instituto Federal de Defensoría Pública;
 
-IX. Proponer a la Junta Directiva el proyecto de Plan Anual de Capacitación y Estímulos del Instituto Federal de Defensoría Pública; así como un programa de difusión de los servicios del Instituto;
+VI. Proponer a la Junta Directiva las políticas que estime convenientes para la mayor eficacia de la defensa de los inculpados;
 
-X. Elaborar un informe anual de labores sobre las actividades integrales desarrolladas por todos y cada uno de los defensores públicos y asesores jurídicos que pertenezcan al Instituto Federal de Defensoría Pública, el cual deberá ser publicado;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-XI. Elaborar la propuesta de anteproyecto de presupuesto que se someta a la consideración de la Junta Directiva, y
+VII. Proponer a la Junta Directiva las bases generales de organización y funcionamiento del Instituto Federal de Defensoría Pública, incluyendo los objetivos estratégicos y los indicadores clave del desempeño para la evaluación y rendición de cuentas del Instituto;
 
-XII. Las demás que sean necesarias para cumplir con el objeto de esta Ley.
+VIII. (DEROGADA, D.O.F. 17 DE JUNIO DE 2016)
+
+IX. Promover y fortalecer las relaciones del Instituto Federal de Defensoría Pública con las instituciones públicas, sociales y privadas que por la naturaleza de sus funciones puedan colaborar al cumplimiento de sus atribuciones;
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+X. Proponer a la Junta Directiva el proyecto de Plan Anual de Capacitación y estímulos del Instituto Federal de Defensoría Pública; así como un programa de difusión de los servicios del Instituto;
+
+XI. Elaborar un informe anual de labores sobre las actividades integrales desarrolladas por todos y cada uno de los defensores públicos y asesores jurídicos que pertenezcan al Instituto Federal de Defensoría Pública, el cual deberá ser publicado;
+
+XII. Elaborar la propuesta de anteproyecto de presupuesto que se someta a la consideración de la Junta Directiva, y
+
+XIII. Las demás que sean necesarias para cumplir con el objeto de esta Ley.
 
 ### CAPÍTULO IV. De las Unidades Administrativas
 
@@ -529,3 +611,23 @@ D.O.F. 24 DE DICIEMBRE DE 2013.
 D.O.F. 24 DE DICIEMBRE DE 2014.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES; DEL CÓDIGO PENAL FEDERAL; DE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA; DE LA LEY FEDERAL PARA LA PROTECCIÓN A PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL; DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y DE LA LEY DE INSTITUCIONES DE CRÉDITO".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación salvo lo previsto en el siguiente artículo.
+
+Segundo.- Las reformas al Código Nacional de Procedimientos Penales, al Código Penal Federal, a la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, los artículos 2, 13, 44 y 49 de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal y los artículos 21 en su fracción X, 50 Bis y 158 de la Ley Orgánica del Poder Judicial de la Federación, entrarán en vigor en términos de lo previsto por el Artículo Segundo Transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales publicado en el Diario Oficial de la Federación el 5 de marzo de 2014.
+
+Los procedimientos que se encuentren en trámite, relacionados con las modificaciones a los preceptos legales contemplados en el presente Decreto, se resolverán de conformidad con las disposiciones que les dieron origen.
+
+Tercero.- Dentro de los 180 días naturales a la entrada en vigor del presente Decreto, la Federación y las entidades federativas en el ámbito de sus respectivas competencias, deberán contar con una Autoridad de Supervisión de Medidas Cautelares y de la Suspensión Condicional del Proceso.
+
+Asimismo, dentro de los 30 días siguientes a la fecha de creación de las autoridades de medidas cautelares y de la suspensión condicional del proceso de la Federación y de las entidades federativas, se deberán emitir los acuerdos y lineamientos que regulen su organización y funcionamiento.
+
+Cuarto.- Las disposiciones del presente Decreto relativas a la ejecución penal, entrarán en vigor una vez que entre en vigor la legislación en la materia prevista en el artículo 73, fracción XXI, inciso c) de la Constitución Política de los Estados Unidos Mexicanos.
+
+Quinto.- Tratándose de aquellas medidas privativas de la libertad personal o de prisión preventiva que hubieren sido decretadas por mandamiento de autoridad judicial durante los procedimientos iniciados con base en la legislación procesal penal vigente con anterioridad a la entrada en vigor del sistema de justicia penal acusatorio adversarial, el inculpado o imputado podrá solicitar al órgano jurisdiccional competente la revisión de dichas medidas, para efecto de que, el juez de la causa, en los términos de los artículos 153 a 171 del Código Nacional de Procedimientos Penales, habiéndose dado vista a las partes, para que el Ministerio Público investigue y acredite lo conducente, y efectuada la audiencia correspondiente, el órgano jurisdiccional, tomando en consideración la evaluación del riesgo, resuelva sobre la imposición, revisión, sustitución, modificación o cese, en términos de las reglas de prisión preventiva del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, así como del Código Nacional de Procedimientos Penales. En caso de sustituir la medida cautelar, aplicará en lo conducente la vigilancia de la misma en términos de los artículos 176 a 182 del citado Código.
+
+Sexto.- La Procuraduría General de la República propondrá al seno del Consejo Nacional de Seguridad Pública la consecución de los acuerdos que estime necesarios entre las autoridades de las entidades federativas y la federación en el marco de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal.
