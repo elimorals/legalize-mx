@@ -4,7 +4,7 @@ identifier: "LAMP"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-02"
-last_updated: "2014-07-14"
+last_updated: "2016-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93440&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAMP"
 
 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JUNIO DE 2016.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 2 de abril de 2013.
 
@@ -186,7 +186,9 @@ La autoridad responsable que reciba la demanda expresará en el informe justific
 
 El quejoso y el tercero interesado podrán autorizar para oír notificaciones en su nombre, a cualquier persona con capacidad legal, quien quedará facultada para interponer los recursos que procedan, ofrecer y rendir pruebas, alegar en las audiencias, solicitar su suspensión o diferimiento y realizar cualquier acto que resulte ser necesario para la defensa de los derechos del autorizante, pero no podrá substituir o delegar dichas facultades en un tercero.
 
-En las materias civil, mercantil, laboral tratándose del patrón, o administrativa, la persona autorizada, deberá acreditar encontrarse legalmente autorizada para ejercer la profesión de licenciado en derecho o abogado, y deberán proporcionarse los datos correspondientes en el escrito en que se otorgue dicha autorización. Sin embargo, las partes podrán designar personas solamente para oír notificaciones e imponerse de los autos, a cualquier persona con capacidad legal, quien no gozará de las demás facultades a que se refiere el párrafo anterior.
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+En las materias civil, mercantil, laboral, tratándose del patrón, administrativa y penal, la persona autorizada, deberá acreditar encontrarse legalmente autorizada para ejercer la profesión de licenciado en derecho o abogado, y deberán proporcionarse los datos correspondientes en el escrito en que se otorgue dicha autorización. Sin embargo, las partes podrán designar personas solamente para oír notificaciones e imponerse de los autos, a cualquier persona con capacidad legal, quien no gozará de las demás facultades a que se refiere el párrafo anterior.
 
 ###### Artículo 13.
 
@@ -718,9 +720,15 @@ Se exceptúa de lo anterior:
 
 a) Cuando sean actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales;
 
-b) Cuando el acto reclamado consista en órdenes de aprehensión o reaprehensión, autos de vinculación a proceso, resolución que niegue la libertad bajo caución o que establezca los requisitos para su disfrute, resolución que decida sobre el incidente de desvanecimiento de datos, orden de arresto o cualquier otro que afecte la libertad personal del quejoso, siempre que no se trate de sentencia definitiva en el proceso penal;
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+b) Cuando el acto reclamado consista en órdenes de aprehensión o reaprehensión, autos que establezcan providencias precautorias o impongan medidas cautelares restrictivas de la libertad, resolución que niegue la libertad bajo caución o que establezca los requisitos para su disfrute, resolución que decida sobre el incidente de desvanecimiento de datos, orden de arresto o cualquier otro que afecte la libertad personal del quejoso, siempre que no se trate de sentencia definitiva en el proceso penal;
 
 c) Cuando se trate de persona extraña al procedimiento.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+d) Cuando se trate del auto de vinculación a proceso.
 
 Cuando la procedencia del recurso o medio de defensa se sujete a interpretación adicional o su fundamento legal sea insuficiente para determinarla, el quejoso quedará en libertad de interponer dicho recurso o acudir al juicio de amparo;
 
@@ -820,7 +828,13 @@ Si la pérdida es imputable a alguna de las partes, la reposición se hará a su
 
 Las sentencias que se pronuncien en los juicios de amparo sólo se ocuparán de los individuos particulares o de las personas morales, privadas u oficiales que lo hubieren solicitado, limitándose a ampararlos y protegerlos, si procediere, en el caso especial sobre el que verse la demanda.
 
-El Pleno y las Salas de la Suprema Corte de Justicia de la Nación, así como los tribunales colegiados de circuito, tratándose de resoluciones sobre la constitucionalidad de una norma general o sobre la convencionalidad de los tratados internacionales y amparos colectivos, deberán hacer públicos los proyectos de sentencias que serán discutidos en las sesiones correspondientes, con la misma anticipación que la publicación de las listas de los asuntos que se resolverán a que se refiere el artículo 184 de esta Ley.
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+El Pleno y las Salas de la Suprema Corte de Justicia de la Nación, así como los Tribunales Colegiados de Circuito, tratándose de resoluciones sobre la constitucionalidad o convencionalidad de una norma general y amparos colectivos, deberán hacer públicos los proyectos de sentencias que serán discutidos en las sesiones correspondientes, cuando menos con tres días de anticipación a la publicación de las listas de los asuntos que se resolverán.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+La Suprema Corte de Justicia de la Nación y el Consejo de la Judicatura Federal, mediante acuerdos generales, reglamentarán la publicidad que deba darse a los proyectos de sentencia a que se refiere el párrafo anterior.
 
 Cuando proceda hacer la declaratoria general de inconstitucionalidad se aplicarán las disposiciones del Título Cuarto de esta Ley.
 
@@ -848,9 +862,13 @@ El órgano jurisdiccional, de oficio podrá aclarar la sentencia ejecutoriada, s
 
 En las sentencias que se dicten en los juicios de amparo el acto reclamado se apreciará tal y como aparezca probado ante la autoridad responsable. No se admitirán ni se tomarán en consideración las pruebas que no se hubiesen rendido ante dicha autoridad.
 
-No obstante lo dispuesto en el párrafo anterior, en el amparo indirecto el quejoso podrá ofrecer pruebas cuando no hubiere tenido oportunidad de hacerlo ante la autoridad responsable.
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-El órgano jurisdiccional deberá recabar oficiosamente las pruebas rendidas ante la responsable y las actuaciones que estime necesarias para la resolución del asunto.
+No obstante lo dispuesto en el párrafo anterior, en el amparo indirecto el quejoso podrá ofrecer pruebas cuando no hubiere tenido oportunidad de hacerlo ante la autoridad responsable. Adicionalmente, en materia penal, el juez de distrito deberá cerciorarse de que este ofrecimiento en el amparo no implique una violación a la oralidad o a los principios que rigen en el proceso penal acusatorio.
+
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+El Órgano jurisdiccional deberá recabar oficiosamente las pruebas rendidas ante la responsable y las actuaciones que estime necesarias para la resolución del asunto. En materia penal, se estará a lo dispuesto en la última parte del párrafo anterior.
 
 Además, cuando se reclamen actos que tengan o puedan tener como consecuencia privar de la propiedad o de la posesión y disfrute de sus tierras, aguas, pastos y montes a los ejidos o a los núcleos de población que de hecho o por derecho guarden el estado comunal, o a los ejidatarios o comuneros, deberán recabarse de oficio todas aquellas pruebas que puedan beneficiar a las entidades o individuos mencionados y acordarse las diligencias que se estimen necesarias para precisar sus derechos agrarios, así como la naturaleza y efectos de los actos reclamados.
 
@@ -868,7 +886,9 @@ II. Cuando el acto reclamado sea de carácter negativo o implique una omisión, 
 
 En el último considerando de la sentencia que conceda el amparo, el juzgador deberá determinar con precisión los efectos del mismo, especificando las medidas que las autoridades o particulares deban adoptar para asegurar su estricto cumplimiento y la restitución del quejoso en el goce del derecho.
 
-En asuntos del orden penal en que se reclame una orden de aprehensión o auto de vinculación a proceso en delitos que la ley no considere como graves, la sentencia que conceda el amparo surtirá efectos inmediatos, sin perjuicio de que pueda ser revocada mediante el recurso de revisión; salvo que se reclame el auto de vinculación a proceso y el amparo se conceda por vicios formales.
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+En asuntos del orden penal en que se reclame una orden de aprehensión o autos que establezcan providencias precautorias o impongan medidas cautelares restrictivas de la libertad con motivo de delitos que la ley no considere como graves o respecto de los cuales no proceda la prisión preventiva oficiosa conforme la legislación procedimental aplicable, la sentencia que conceda el amparo surtirá efectos inmediatos, sin perjuicio de que pueda ser revocada mediante el recurso de revisión; salvo que se reclame el auto por el que se resuelva la situación jurídica del quejoso en el sentido de sujetarlo a proceso penal, en términos de la legislación procesal aplicable, y el amparo se conceda por vicios formales.
 
 En caso de que el efecto de la sentencia sea la libertad del quejoso, ésta se decretará bajo las medidas de aseguramiento que el órgano jurisdiccional estime necesarias, a fin de que el quejoso no evada la acción de la justicia.
 
@@ -910,7 +930,9 @@ VI. En otras materias, cuando se advierta que ha habido en contra del quejoso o 
 
 VII. En cualquier materia, en favor de quienes por sus condiciones de pobreza o marginación se encuentren en clara desventaja social para su defensa en el juicio.
 
-En los casos de las fracciones I, II, III, IV, V y VII de este artículo la suplencia se dará aún ante la ausencia de conceptos de violación o agravios.
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+En los casos de las fracciones I, II, III, IV, V y VII de este artículo la suplencia se dará aún ante la ausencia de conceptos de violación o agravios. En estos casos solo se expresará en las sentencias cuando la suplencia derive de un beneficio.
 
 La suplencia de la queja por violaciones procesales o formales sólo podrá operar cuando se advierta que en el acto reclamado no existe algún vicio de fondo.
 
@@ -1288,6 +1310,10 @@ La autoridad responsable deberá rendir su informe con justificación por escrit
 
 Entre la fecha de notificación al quejoso del informe justificado y la de celebración de la audiencia constitucional, deberá mediar un plazo de por lo menos ocho días; de lo contrario, se acordará diferir o suspender la audiencia, según proceda, a solicitud del quejoso o del tercero interesado.
 
+> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+En el sistema procesal penal acusatorio, la autoridad jurisdiccional acompañará un índice cronológico del desarrollo de la audiencia en la que se haya dictado el acto reclamado, en el que se indique el orden de intervención de cada una de las partes.
+
 Los informes rendidos fuera de los plazos establecidos en el párrafo primero podrán ser tomados en cuenta si el quejoso estuvo en posibilidad de conocerlos. Si no se rindió informe justificado, se presumirá cierto el acto reclamado, salvo prueba en contrario, quedando a cargo del quejoso acreditar su inconstitucionalidad cuando dicho acto no sea en sí mismo violatorio de los derechos humanos y garantías a que se refiere el artículo 1o de esta Ley.
 
 En el informe se expondrán las razones y fundamentos que se estimen pertinentes para sostener la improcedencia del juicio y la constitucionalidad o legalidad del acto reclamado y se acompañará, en su caso, copia certificada de las constancias necesarias para apoyarlo.
@@ -1340,9 +1366,11 @@ Si al presentarse un documento por una de las partes otra de ellas lo objetare d
 
 Las pruebas se desahogarán en la audiencia constitucional, salvo aquéllas que a juicio del órgano jurisdiccional puedan recibirse con anterioridad o las que deban desahogarse fuera de la residencia del órgano jurisdiccional que conoce del amparo, vía exhorto, despacho, requisitoria o en cualquier otra forma legal, que podrán ser enviados y recibidos haciendo uso de la Firma Electrónica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
 ###### Artículo 124.
 
-Las audiencias serán públicas. Abierta la audiencia, se procederá a la relación de constancias y pruebas desahogadas, y se recibirán, por su orden, las que falten por desahogarse y los alegatos por escrito que formulen las partes; acto continuo se dictará el fallo que corresponda.
+Las audiencias serán públicas. Abierta la audiencia, se procederá a la relación de constancias, videograbaciones analizadas íntegramente y pruebas desahogadas, y se recibirán, por su orden, las que falten por desahogarse y los alegatos por escrito que formulen las partes; acto continuo se dictará el fallo que corresponda.
 
 El quejoso podrá alegar verbalmente cuando se trate de actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales, asentándose en autos extracto de sus alegaciones, si lo solicitare.
 
@@ -1385,6 +1413,10 @@ I. Que la solicite el quejoso; y
 II. Que no se siga perjuicio al interés social ni se contravengan disposiciones de orden público.
 
 La suspensión se tramitará en incidente por separado y por duplicado.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+Asimismo, no serán objeto de suspensión las órdenes o medidas de protección dictadas en términos de la legislación aplicable por alguna autoridad administrativa o jurisdiccional para salvaguardar la seguridad o integridad de una persona y la ejecución de una técnica de investigación o medida cautelar concedida por autoridad judicial.
 
 > <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2014)</small>
 
@@ -1482,9 +1514,11 @@ Los efectos de la suspensión dejarán de surtirse, en su caso, si dentro del pl
 
 La Federación, los Estados, el Distrito Federal y los municipios estarán exentos de otorgar las garantías que esta Ley exige.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
 ###### Artículo 138.
 
-Promovida la suspensión del acto reclamado el órgano jurisdiccional deberá realizar un análisis ponderado de la apariencia del buen derecho y la no afectación del interés social y, en su caso, acordará lo siguiente:
+Promovida la suspensión del acto reclamado el órgano jurisdiccional deberá realizar un análisis ponderado de la apariencia del buen derecho, la no afectación del interés social y la no contravención de disposiciones de orden público, en su caso, acordará lo siguiente:
 
 I. Concederá o negará la suspensión provisional; en el primer caso, fijará los requisitos y efectos de la medida; en el segundo caso, la autoridad responsable podrá ejecutar el acto reclamado;
 
@@ -1642,13 +1676,15 @@ Cuando el acto reclamado consista en la detención del quejoso efectuada por aut
 
 Cuando en los supuestos del párrafo anterior, la detención del quejoso no tenga relación con la comisión de un delito, la suspensión tendrá por efecto que sea puesto en libertad.
 
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
 ###### Artículo 165.
 
-Cuando el acto reclamado afecte la libertad personal del quejoso y se encuentre a disposición del Ministerio Público por cumplimiento de orden de detención del mismo, la suspensión se concederá para el efecto de que dentro del término de cuarenta y ocho horas o en un plazo de noventa y seis, tratándose de delincuencia organizada, contadas a partir del momento de la detención, sea puesto en libertad o consignado ante el juez penal correspondiente.
+Cuando el acto reclamado afecte la libertad personal del quejoso y se encuentre a disposición del Ministerio Público por cumplimiento de orden de detención del mismo, salvo el caso de la detención por caso urgente, la suspensión se concederá para el efecto de que dentro del término de cuarenta y ocho horas o en un plazo de noventa y seis, tratándose de delincuencia organizada, contadas a partir del momento de la detención, sea puesto en libertad o a disposición ante el órgano jurisdiccional correspondiente.
 
-Cuando el quejoso se encuentre a disposición del Ministerio Público por haber sido detenido en flagrancia, el plazo se contará a partir de que sea puesto a su disposición.
+Cuando el quejoso se encuentre a disposición del Ministerio Público por haber sido detenido en flagrancia o caso urgente, el plazo contará a partir de que sea puesto a disposición.
 
-En cualquier caso distinto de los anteriores en los que el Ministerio Público restrinja la libertad del quejoso, la suspensión se concederá para el efecto de que sea puesto en inmediata libertad o consignado a su juez.
+En cualquier caso distinto de los anteriores y en la detención por caso urgente, en los que el Ministerio Público restrinja la libertad del quejoso, la suspensión se concederá para el efecto de que sea puesto en inmediata libertad o a disposición ante el órgano jurisdiccional correspondiente.
 
 ###### Artículo 166.
 
@@ -1661,6 +1697,10 @@ II. Si se trata de delitos que no impliquen prisión preventiva oficiosa, la sus
 Cuando el quejoso ya se encuentre materialmente detenido por orden de autoridad competente y el Ministerio Público que interviene en el procedimiento penal solicite al juez la prisión preventiva porque considere que otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección a la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso, y el juez del proceso penal acuerde la prisión preventiva, el efecto de la suspensión sólo será el establecido en la fracción I de este artículo.
 
 Si el quejoso incumple las medidas de aseguramiento o las obligaciones derivadas del procedimiento penal, la suspensión será revocada con la sola comunicación de la autoridad responsable.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+En el caso de órdenes o medidas de protección impuestas en cualquiera de las etapas de un procedimiento penal se estará a lo dispuesto en el penúltimo párrafo del artículo 128.
 
 ###### Artículo 167.
 
@@ -1694,13 +1734,17 @@ El juicio de amparo directo procede:
 
 I. Contra sentencias definitivas, laudos y resoluciones que pongan fin al juicio, dictadas por tribunales judiciales, administrativos, agrarios o del trabajo, ya sea que la violación se cometa en ellos, o que cometida durante el procedimiento, afecte las defensas del quejoso trascendiendo al resultado del fallo.
 
-Se entenderá por sentencias definitivas o laudos, los que decidan el juicio en lo principal; por resoluciones que pongan fin al juicio, las que sin decidirlo en lo principal lo den por concluido. En materia penal, las sentencias absolutorias y los autos que se refieran a la libertad del imputado podrán ser impugnadas por la víctima u ofendido del delito en los casos establecidos por el artículo 173 de esta Ley.
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+Se entenderá por sentencias definitivas o laudos, los que decidan el juicio en lo principal; por resoluciones que pongan fin al juicio, las que sin decidirlo en lo principal lo den por concluido. En materia penal, las sentencias condenatorias, absolutorias y de sobreseimiento, podrán ser impugnadas por la víctima u ofendido del delito.
 
 Para la procedencia del juicio deberán agotarse previamente los recursos ordinarios que se establezcan en la ley de la materia, por virtud de los cuales aquellas sentencias definitivas o laudos y resoluciones puedan ser modificados o revocados, salvo el caso en que la ley permita la renuncia de los recursos.
 
 Cuando dentro del juicio surjan cuestiones sobre constitucionalidad de normas generales que sean de reparación posible por no afectar derechos sustantivos ni constituir violaciones procesales relevantes, sólo podrán hacerse valer en el amparo directo que proceda contra la resolución definitiva.
 
-Para efectos de esta Ley, el juicio se inicia con la presentación de la demanda y, en materia penal, con el auto de vinculación a proceso ante el órgano jurisdiccional;
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+Para efectos de esta Ley, el juicio se inicia con la presentación de la demanda. En materia penal el proceso comienza con la audiencia inicial ante el Juez de control;
 
 II. Contra sentencias definitivas y resoluciones que pongan fin al juicio dictadas por tribunales de lo contencioso administrativo cuando éstas sean favorables al quejoso, para el único efecto de hacer valer conceptos de violación en contra de las normas generales aplicadas.
 
@@ -1740,63 +1784,89 @@ XI. Se desarrolle cualquier audiencia sin la presencia del juez o se practiquen 
 
 XII. Se trate de casos análogos a los previstos en las fracciones anteriores a juicio de los órganos jurisdiccionales de amparo.
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS, PUBLICADO EN EL D.O.F. DE 17 DE JUNIO DE 2016, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ARTÍCULO.]</small>
+
 ###### Artículo 173.
 
 En los juicios del orden penal se considerarán violadas las leyes del procedimiento con trascendencia a las defensas del quejoso, cuando:
 
-I. Se desarrolle cualquier audiencia sin la presencia del juez actuante o se practiquen diligencias en forma distinta a la prevenida por la ley;
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-II. El desahogo de pruebas se realice por una persona distinta al juez que deba intervenir;
+Apartado A. Sistema de Justicia Penal Mixto
 
-III. Intervenga en el juicio un juez que haya conocido del caso previamente;
+I. No se le haga saber el motivo del procedimiento o la causa de la acusación y el nombre del acusador particular si lo hubiere;
 
-IV. Habiéndolo solicitado no se le caree, en presencia del juez, en los supuestos y términos que establezca la ley;
+II. No se le permita nombrar defensor, en la forma que determine la ley; cuando no se le haga saber el nombre del adscrito al juzgado o tribunal que conozca de la causa, si no tuviere quien lo defienda; cuando no se le facilite la manera de hacer saber su nombramiento al defensor designado; cuando se le impida comunicarse con él o que dicho defensor lo asista en alguna diligencia del proceso, o cuando, habiéndose negado a nombrar defensor, sin manifestar expresamente que se defenderá por sí mismo, no se le nombre de oficio;
 
-V. La presentación de argumentos y pruebas en el juicio no se realice de manera pública, contradictoria y oral;
+III. Habiéndolo solicitado no se le caree, en presencia del juez, en los supuestos y términos que establezca la ley;
 
-VI. La oportunidad para sostener la acusación o la defensa no se realice en igualdad de condiciones;
+IV. El juez no actúe con secretario o con testigos de asistencia, o cuando se practiquen diligencias en forma distinta de la prevenida por la ley;
 
-VII. El juzgador reciba a una de las partes para tratar el asunto sujeto a proceso sin la presencia de la otra;
+V. No se le cite para las diligencias que tenga derecho a presenciar o cuando sea citado en forma ilegal, siempre que por ello no comparezca; cuando no se le admita en el acto de la diligencia, o cuando se le coarten en ella los derechos que la ley le otorga;
 
-VIII. No se respete al imputado el derecho a declarar o guardar silencio, la declaración del imputado se obtenga mediante incomunicación, intimidación, tortura o sin presencia de su defensor, o cuando el ejercicio del derecho a guardar silencio se utilice en su perjuicio;
+VI. No se respete al imputado el derecho a declarar o a guardar silencio, la declaración del imputado se obtenga mediante incomunicación, intimidación, tortura o sin presencia de su defensor o cuando el ejercicio del derecho a guardar silencio se utilice en su perjuicio;
 
-IX. El imputado no sea informado, desde el momento de su detención, en su comparecencia ante el Ministerio Público o ante el juez, de los hechos que se le imputan y los derechos que le asisten;
+VII. No se le reciban las pruebas que ofrezca legalmente, o cuando no se reciban con arreglo a derecho;
 
-X. No se reciban al imputado las pruebas pertinentes que ofrezca o no se reciban con arreglo a derecho, no se le conceda el tiempo para el ofrecimiento de pruebas o no se le auxilie para obtener la comparecencia de las personas de quienes ofrezca su testimonio en los términos señalados por la ley;
+VIII. Se le desechen los recursos que tuviere conforme a la ley, respecto de providencias que afecten partes substanciales del procedimiento y produzcan indefensión de acuerdo con las demás fracciones de este mismo artículo;
 
-XI. El imputado no sea juzgado en audiencia pública por un juez o tribunal, salvo cuando se trate de los casos de excepción precisados por la Constitución Política de los Estados Unidos Mexicanos;
+IX. No se le suministren los datos que necesite para su defensa;
 
-XII. No se faciliten al imputado todos los datos que solicite para su defensa y que consten en el proceso o se restrinja al imputado y a la defensa el acceso a los registros de investigación cuando el primero esté detenido o se pretenda recibirle declaración o entrevistarlo;
+X. Se celebre la audiencia de derecho sin la asistencia del Agente del Ministerio Público a quien corresponda formular la requisitoria, sin la del juez que deba fallar o la del secretario o testigos de asistencia que deban autorizar el acto, así como el defensor;
 
-XIII. No se respete al imputado el derecho a contar con una defensa adecuada por abogado que elija libremente desde el momento de su detención, o en caso de que no quiera o no pueda hacerlo, el juez no le nombre un defensor público, o cuando se impida, restrinja o intervenga la comunicación con su defensor; cuando el imputado sea indígena no se le proporcione la asistencia de un defensor que tenga conocimiento de su lengua y cultura, así como cuando el defensor no comparezca a todos los actos del proceso;
+XI. La sentencia se funde en la confesión del reo, si estuvo incomunicado antes de otorgarla, o si se obtuvo su declaración por medio de intimidación, tortura o de cualquiera otra coacción;
 
-XIV. En caso de que el imputado no hable o entienda suficientemente el idioma español o sea sordo o mudo y no se le proporcione la asistencia de un intérprete que le permita acceder plenamente a la jurisdicción del Estado, o que tratándose de personas indígenas no se les proporcione un intérprete que tenga conocimiento de su lengua y cultura;
+XII. La sentencia se funde en alguna diligencia cuya nulidad establezca la ley expresamente;
 
-XV. No se cite al imputado para las diligencias que tenga derecho a presenciar o se haga en forma contraria a la ley, siempre que por ello no comparezca, no se le admita en el acto de la diligencia o se le coarten en ella los derechos que la ley le otorga;
+XIII. Seguido el proceso por el delito determinado en el auto de formal prisión, el quejoso fuere sentenciado por diverso delito;
 
-XVI. Debiendo ser juzgado por un jurado, no se integre en los términos previstos en la ley o se le juzgue por otro tribunal;
+No se considerará que el delito es diverso cuando el que se exprese en la sentencia solo difiera en grado del que haya sido materia del proceso, ni cuando se refiera a los mismos hechos materiales que fueron objeto de la averiguación siempre que, en este último caso el Ministerio Público haya formulado conclusiones acusatorias cambiando la clasificación del delito hecha en el auto de formal prisión o de sujeción a proceso, y que el quejoso hubiese sido oído en defensa sobre la nueva clasificación, durante el juicio propiamente tal, y
 
-XVII. Se sometan a la decisión del jurado cuestiones de índole distinta a las señaladas por la ley;
+XIV. En los demás casos análogos a los de las fracciones anteriores, a juicio del órgano jurisdiccional de amparo.
 
-XVIII. No se permita interponer los recursos en los términos que la ley prevea respecto de providencias que afecten partes sustanciales del procedimiento que produzcan indefensión;
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-XIX. Al dictarse una sentencia definitiva absolutoria o un auto que se refiera a la libertad del imputado no se hayan respetado, entre otros, los siguientes derechos de la víctima u ofendido del delito:
+Apartado B. Sistema de Justicia Penal Acusatorio y Oral
 
-a) A que se le proporcione asesoría jurídica y se le informe tanto de los derechos que le asisten como del desarrollo del procedimiento penal;
+I. Se desarrolle cualquier audiencia sin la presencia del órgano jurisdiccional actuante o se practique diligencias en forma distinta a la prevenida por la ley;
 
-b) A coadyuvar con el Ministerio Público, a que se le reciban todos los datos o elementos de prueba con los que cuente tanto en investigación como en el proceso y a que se le permita intervenir en el juicio;
+II. El desahogo de pruebas se realice por una persona distinta a la autoridad judicial que deba intervenir;
 
-c) Al resguardo de su identidad cuando sean menores de edad o por delitos de violación, secuestro, delincuencia organizada o trata de personas y cuando a juicio del juzgador sea necesaria su protección, salvo que tal circunstancia derive de la debida salvaguarda de los derechos de la defensa; y
+III. Intervenga en el juicio el órgano jurisdiccional que haya conocido del caso previamente;
 
-d) A solicitar las medidas cautelares y providencias necesarias para la protección y restitución de sus derechos;
+IV. La presentación de argumentos y pruebas en el juicio no se realice de manera pública, contradictoria y oral, salvo las excepciones previstas por la legislación procedimental aplicable;
 
-XX. Cuando la sentencia se funde en alguna diligencia cuya nulidad haya sido establecido (sic) expresamente por una norma general;
+V. La oportunidad para sostener la acusación o la defensa no se realice en igualdad de condiciones;
 
-XXI. Cuando seguido el proceso por el delito determinado en el auto de vinculación a proceso, el quejoso hubiese sido sentenciado por diverso delito.
+VI. No se respete al imputado el derecho a declarar o guardar silencio, la declaración del imputado se obtenga mediante incomunicación, intimidación, tortura o sin presencia de su defensor, o cuando el ejercicio del derecho a guardar silencio se utilice en su perjuicio;
 
-No se considerará que el delito es diverso cuando el que se exprese en la sentencia sólo difiera en grado del que haya sido materia del proceso, ni cuando se refiera a los mismos hechos materiales que fueron objeto de la investigación, siempre que, en este último caso, el Ministerio Público haya formulado conclusiones acusatorias cambiando la clasificación del delito hecha en el auto de vinculación a proceso, y el quejoso hubiese sido oído en defensa sobre la nueva clasificación, durante el juicio;
+VII. El Órgano jurisdiccional reciba a una de las partes para tratar el asunto sujeto a proceso sin la presencia de la otra, salvo las excepciones previstas por la legislación procedimental aplicable;
 
-XXII. Se trate de casos análogos a las fracciones anteriores a juicio del órgano jurisdiccional de amparo.
+VIII. El imputado no sea informado, desde el momento de su detención en su comparecencia ante el Ministerio Público o ante el órgano jurisdiccional, de los hechos que se le imputan y los derechos que le asisten;
+
+IX. No se le haga saber o se le niegue al imputado extranjero, el derecho a recibir asistencia consular de las embajadas o consulados del país respecto del que sea nacional, salvo que haya declinado fehacientemente a este derecho;
+
+X. No se reciban al imputado los medios de prueba o pruebas pertinentes que ofrezca o no se reciban con arreglo a derecho, no se le conceda el tiempo para el ofrecimiento de pruebas o no se le auxilie para obtener la comparecencia de las personas de quienes ofrezca su testimonio en los términos señalados por la ley;
+
+XI. El imputado no sea juzgado en audiencia pública por un juez o tribunal, salvo cuando se trate de los casos de excepción precisados por las disposiciones aplicables;
+
+XII. No se faciliten al imputado todos los datos que solicite para su defensa y que consten en el procedimiento o se restrinja al imputado y a la defensa el acceso a los registros de investigación cuando el primero esté detenido o se pretenda recibirle declaración o entrevistarlo;
+
+XIII. No se respete al imputado el derecho de contar con una defensa adecuada por abogado que elija libremente desde el momento de su detención, o en caso de que no quiera o no pueda hacerlo, el juez no le nombre un defensor público, o cuando se impida, restrinja o intervenga la comunicación con su defensor; cuando el imputado sea indígena no se le proporcione la asistencia de un defensor que tenga conocimiento de su lengua y cultura, así como cuando el defensor no comparezca a todos los actos del proceso;
+
+XIV. En caso de que el imputado no hable o entienda suficientemente el idioma español o sea sordo o mudo y no se le proporcione la asistencia de un intérprete que le permita acceder plenamente a la jurisdicción del Estado, o que tratándose de personas indígenas no se le proporcione un intérprete que tenga conocimiento de su lengua y cultura;
+
+XV. Debiendo ser juzgado por una autoridad judicial, no se integre en los términos previstos en la ley o se le juzgue por otro tribunal;
+
+XVI. No se permite interponer los recursos en los términos que la ley prevea respecto de las providencias que afecten partes sustanciales del procedimiento que produzca indefensión;
+
+XVII. No se hayan respetado los derechos de la víctima y ofendido en términos de la legislación aplicable;
+
+XVIII. Cuando seguido el proceso por un delito, el quejoso haya sido sentenciado por un ilícito diverso a los mismos hechos materiales que fueron objeto de la investigación, sin que hubiese sido oído en defensa sobre la nueva clasificación, en términos de la legislación procedimental aplicable.
+
+No se considerará que el delito es diverso cuando el que se exprese en la sentencia sólo difiera en grado del que haya sido materia del proceso, o bien sea el resultado de la reclasificación jurídica del delito en términos del Código Nacional de Procedimientos Penales;
+
+XIX. Se trate de casos análogos a las fracciones anteriores a juicio del Órgano jurisdiccional de amparo.
 
 ###### Artículo 174.
 
@@ -1852,6 +1922,10 @@ II. Correr traslado al tercero interesado, en el último domicilio que haya desi
 
 III. Rendir el informe con justificación acompañando la demanda de amparo, los autos del juicio de origen con sus anexos y la constancia de traslado a las partes. Deberá dejar copia certificada de las actuaciones que estime necesarias para la ejecución de la resolución reclamada o para proveer respecto de la suspensión.
 
+> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+En el sistema procesal penal acusatorio, se acompañará un índice cronológico del desahogo de la audiencia en la que se haya dictado el acto reclamado, en el que se indique el orden de intervención de cada una de las partes.
+
 #### Sección Tercera. Substanciación
 
 ###### Artículo 179.
@@ -1878,7 +1952,9 @@ I. Cuando el adherente trate de fortalecer las consideraciones vertidas en el fa
 
 II. Cuando existan violaciones al procedimiento que pudieran afectar las defensas del adherente, trascendiendo al resultado del fallo.
 
-Los conceptos de violación en el amparo adhesivo deberán estar encaminados, por tanto, a fortalecer las consideraciones de la sentencia definitiva, laudo o resolución que pone fin al juicio, que determinaron el resolutivo favorable a los intereses del adherente, o a impugnar las que concluyan en un punto decisorio que le perjudica. Se deberán hacer valer todas las violaciones procesales que se hayan cometido, siempre que pudieran trascender al resultado del fallo y que respecto de ellas, el adherente hubiese agotado los medios ordinarios de defensa, a menos que se trate de menores, incapaces, ejidatarios, trabajadores, núcleos de población ejidal o comunal, o de quienes por sus condiciones de pobreza o marginación se encuentren en clara desventaja social para emprender un juicio, y en materia penal tratándose del inculpado.
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+Los conceptos de violación en el amparo adhesivo deberán estar encaminados, por tanto, a fortalecer las consideraciones de la sentencia definitiva, laudo o resolución que pone fin al juicio, que determinaron el resolutivo favorable a los intereses del adherente, o a impugnar las que concluyan en un punto decisorio que le perjudica. Se deberán hacer valer todas las violaciones procesales que se hayan cometido, siempre que pudieran trascender al resultado del fallo y que respecto de ellas, el adherente hubiese agotado los medios ordinarios de defensa, a menos que se trate de menores, incapaces, ejidatarios, trabajadores, núcleos de población ejidal o comunal, o de quienes por sus condiciones de pobreza o marginación se encuentren en clara desventaja social para emprender un juicio, y en materia penal tratándose del imputado y del ofendido o víctima.
 
 Con la demanda de amparo adhesivo se correrá traslado a la parte contraria para que exprese lo que a su interés convenga.
 
@@ -1944,9 +2020,11 @@ Tratándose de laudos o de resoluciones que pongan fin al juicio, dictados por t
 
 Son aplicables a la suspensión en amparo directo, salvo el caso de la materia penal, los artículos 125, 128, 129, 130, 132, 133, 134, 135, 136, 154 y 156 de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
 ###### Artículo 191.
 
-Cuando se trate de juicios del orden penal, la autoridad responsable con la sola presentación de la demanda, ordenará suspender de oficio y de plano la resolución reclamada. Si ésta comprende la pena de privación de libertad, la suspensión surtirá el efecto de que el quejoso quede a disposición del órgano jurisdiccional de amparo, por mediación de la autoridad responsable, la cual deberá ponerlo en libertad caucional si la solicita y ésta procede.
+Cuando se trate de juicios del orden penal, la autoridad responsable con la sola presentación de la demanda, ordenará suspender de oficio y de plano la resolución reclamada. Si ésta comprende la pena de privación de libertad, la suspensión surtirá el efecto de que el quejoso quede a disposición del Órgano jurisdiccional de amparo, por mediación de la autoridad responsable.
 
 ## TÍTULO TERCERO. Cumplimiento y Ejecución
 
@@ -2244,11 +2322,17 @@ La resolución que decida la contradicción de tesis no afectará las situacione
 
 La legitimación para denunciar las contradicciones de tesis se ajustará a las siguientes reglas:
 
-I. Las contradicciones a las que se refiere la fracción I del artículo anterior podrán ser denunciadas ante el pleno de la Suprema Corte de Justicia de la Nación por los ministros, los Plenos de Circuito, los tribunales colegiados de circuito y sus integrantes, los jueces de distrito, el Procurador General de la República, o las partes en los asuntos que las motivaron.
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-II. Las contradicciones a las que se refiere la fracción II del artículo anterior podrán ser denunciadas ante la Suprema Corte de Justicia de la Nación por los ministros, los Plenos de Circuito o los tribunales colegiados de circuito y sus integrantes, que hayan sustentado las tesis discrepantes, el Procurador General de la República, los jueces de distrito, o las partes en los asuntos que las motivaron.
+I. Las contradicciones a que se refiere la fracción I del artículo anterior podrán ser denunciadas ante el Pleno de la Suprema Corte de Justicia de la Nación por los Ministros, los Plenos de Circuito, los Tribunales Colegiados de Circuito y sus integrantes, los Magistrados de los Tribunales Unitarios de Circuito, los Jueces de Distrito, el Procurador General de la República, o las partes en los asuntos que las motivaron.
 
-III. Las contradicciones a las que se refiere la fracción III del artículo anterior podrán ser denunciadas ante los Plenos de Circuito por el Procurador General de la República, los mencionados tribunales y sus integrantes, los jueces de distrito o las partes en los asuntos que las motivaron.
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+II. Las contradicciones a que se refiere la fracción II del artículo anterior podrán ser denunciadas ante la Suprema Corte de Justicia de la Nación por los Ministros, los Plenos de Circuito o los Tribunales Colegiados de Circuito y sus integrantes, que hayan sustentado las tesis discrepantes, el Procurador General de la República, los Magistrados de Tribunal Unitario de Circuito, los Jueces de Distrito, o las partes en los asuntos que las motivaron.
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+III. Las contradicciones a que se refiere la fracción III del artículo anterior, podrán ser denunciadas ante los Plenos de circuito por el Procurador General de la República, los mencionados Tribunales y sus integrantes, los Magistrados de Tribunal Unitario de Circuito, los Jueces de Distrito o las partes en los asuntos que las motivaron.
 
 ### CAPÍTULO V. Jurisprudencia por sustitución
 
@@ -2542,9 +2626,7 @@ OCTAVO. Las declaratorias generales de inconstitucionalidad no podrán ser hecha
 
 NOVENO. La Suprema Corte de Justicia de la Nación y el Consejo de la Judicatura Federal en el ámbito de sus respectivas competencias podrán dictar las medidas necesarias para lograr el efectivo e inmediato cumplimiento de la presente Ley.
 
-DÉCIMO. Las referencias que la presente Ley realice al concepto de "auto de vinculación a proceso" le serán aplicables a los autos de formal prisión emitidos en aquellos órdenes normativos en que aún no hayan entrado en vigor en cumplimiento de los artículos transitorios del Decreto por el que se reforman y adicionan los artículos 16, 17, 18, 19, 20, 21 y 22; las fracciones XXI y XXIII del artículo 73; la fracción VII del artículo 115 y la fracción XIII del Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 18 de junio de 2008.
-
-En los casos donde no haya entrado en vigor el nuevo sistema de justicia penal a que se refiere la reforma constitucional referida en el párrafo anterior, la suspensión en materia penal seguirá rigiéndose conforme a la Ley de Amparo a que se refiere el artículo segundo transitorio de este Decreto.
+DÉCIMO. (DEROGADO, D.O.F. 17 DE JUNIO DE 2016)
 
 DÉCIMO PRIMERO. El Consejo de la Judicatura Federal expedirá el Reglamento a que hace referencia el artículo 3o del presente ordenamiento para la implementación del Sistema Electrónico y la utilización de la firma electrónica.
 
@@ -2811,3 +2893,23 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
 
 Tercero. A partir del inicio de las precampañas y hasta el día de la jornada electoral, el Gobierno Federal y los gobiernos de las entidades federativas y municipios, suspenderán la distribución o sustitución de equipos receptores o decodificadores, así como los programas de entrega de televisiones digitales que realice en aquellas entidades federativas en las que se verifiquen procesos electorales durante el 2016. El Instituto Nacional Electoral verificará el cumplimiento de esta disposición y aplicará, en su caso, las sanciones correspondientes. La entrega, distribución o sustitución de equipos receptores, decodificadores, o televisores digitales en contravención a lo dispuesto en este artículo será sancionada en términos de la Ley General de Instituciones y Procedimientos Electorales.
+
+D.O.F. 17 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES; DEL CÓDIGO PENAL FEDERAL; DE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA; DE LA LEY FEDERAL PARA LA PROTECCIÓN A PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL; DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y DE LA LEY DE INSTITUCIONES DE CRÉDITO".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación salvo lo previsto en el siguiente artículo.
+
+Segundo.- Las reformas al Código Nacional de Procedimientos Penales, al Código Penal Federal, a la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, los artículos 2, 13, 44 y 49 de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal y los artículos 21 en su fracción X, 50 Bis y 158 de la Ley Orgánica del Poder Judicial de la Federación, entrarán en vigor en términos de lo previsto por el Artículo Segundo Transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales publicado en el Diario Oficial de la Federación el 5 de marzo de 2014.
+
+Los procedimientos que se encuentren en trámite, relacionados con las modificaciones a los preceptos legales contemplados en el presente Decreto, se resolverán de conformidad con las disposiciones que les dieron origen.
+
+Tercero.- Dentro de los 180 días naturales a la entrada en vigor del presente Decreto, la Federación y las entidades federativas en el ámbito de sus respectivas competencias, deberán contar con una Autoridad de Supervisión de Medidas Cautelares y de la Suspensión Condicional del Proceso.
+
+Asimismo, dentro de los 30 días siguientes a la fecha de creación de las autoridades de medidas cautelares y de la suspensión condicional del proceso de la Federación y de las entidades federativas, se deberán emitir los acuerdos y lineamientos que regulen su organización y funcionamiento.
+
+Cuarto.- Las disposiciones del presente Decreto relativas a la ejecución penal, entrarán en vigor una vez que entre en vigor la legislación en la materia prevista en el artículo 73, fracción XXI, inciso c) de la Constitución Política de los Estados Unidos Mexicanos.
+
+Quinto.- Tratándose de aquellas medidas privativas de la libertad personal o de prisión preventiva que hubieren sido decretadas por mandamiento de autoridad judicial durante los procedimientos iniciados con base en la legislación procesal penal vigente con anterioridad a la entrada en vigor del sistema de justicia penal acusatorio adversarial, el inculpado o imputado podrá solicitar al órgano jurisdiccional competente la revisión de dichas medidas, para efecto de que, el juez de la causa, en los términos de los artículos 153 a 171 del Código Nacional de Procedimientos Penales, habiéndose dado vista a las partes, para que el Ministerio Público investigue y acredite lo conducente, y efectuada la audiencia correspondiente, el órgano jurisdiccional, tomando en consideración la evaluación del riesgo, resuelva sobre la imposición, revisión, sustitución, modificación o cese, en términos de las reglas de prisión preventiva del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, así como del Código Nacional de Procedimientos Penales. En caso de sustituir la medida cautelar, aplicará en lo conducente la vigilancia de la misma en términos de los artículos 176 a 182 del citado Código.
+
+Sexto.- La Procuraduría General de la República propondrá al seno del Consejo Nacional de Seguridad Pública la consecución de los acuerdos que estime necesarios entre las autoridades de las entidades federativas y la federación en el marco de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal.
