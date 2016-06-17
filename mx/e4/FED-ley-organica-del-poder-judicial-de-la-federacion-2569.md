@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "2015-11-04"
+last_updated: "2016-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "LOPJF"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE NOVIEMBRE DE 2015.
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO CUARTO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES; DEL CÓDIGO PENAL FEDERAL; DE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA; DE LA LEY FEDERAL PARA LA PROTECCIÓN A PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL; DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y DE LA LEY DE INSTITUCIONES DE CRÉDITO”, PUBLICADO EN LA EDICIÓN VESPERTINA DEL D.O.F. 17 DE JUNIO DE 2016, SE SEÑALA QUE “LAS DISPOSICIONES DEL PRESENTE DECRETO RELATIVAS A LA EJECUCIÓN PENAL, ENTRARÁN EN VIGOR UNA VEZ QUE ENTRE EN VIGOR LA LEGISLACIÓN EN LA MATERIA PREVISTA EN EL ARTÍCULO 73, FRACCIÓN XXI, INCISO C) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.”]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JUNIO DE 2016.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -370,7 +372,9 @@ VIII. De las denuncias de contradicción entre tesis que sustenten los Plenos de
 
 IX. De las controversias que se susciten con motivo de los convenios a los que se refiere el segundo párrafo del artículo 119 Constitucional;
 
-X. Del reconocimiento de inocencia, y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+X. (DEROGADA, D.O.F. 17 DE JUNIO DE 2016)
 
 XI. Las demás que expresamente les encomiende la ley.
 
@@ -744,51 +748,39 @@ m) Los previstos en los artículos 366, fracción III; 366 ter y 366 quáter del
 
 II. De los procedimientos de extradición, salvo lo que se disponga en los tratados internacionales.
 
-> <small>(ADICIONADA, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-III. De las autorizaciones para intervenir cualquier comunicación privada.
+III. De las autorizaciones para intervenir cualquier comunicación privada; así como para las autorizaciones de la localización geográfica en tiempo real o la entrega de datos conservados de equipos de comunicación asociados a una línea.
 
 > <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2013)</small>
 
 IV. De los delitos del fuero común respecto de los cuales el Ministerio Público de la Federación hubiere ejercido la facultad de atracción.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2012)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 50
 
-BIS.- En materia federal, la autorización para intervenir comunicaciones privadas será otorgada de conformidad con la Ley Federal contra la Delincuencia Organizada, la Ley de Seguridad Nacional, el Código Federal de Procedimientos Penales, la Ley de la Policía Federal, la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro o la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, según corresponda.
+BIS.- En materia federal, la autorización para intervenir comunicaciones privadas será otorgada por el Juez de control, de conformidad con lo establecido en el Código Nacional de Procedimientos Penales, el Código Federal de Procedimientos Penales, la Ley Federal Contra la Delincuencia Organizada, la Ley de Seguridad Nacional, la Ley de la Policía Federal, la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro o la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de Estos Delitos, según corresponda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 50
 
-TER.- Cuando la solicitud de autorización de intervención de comunicaciones privadas, sea formulada en los términos previstos en las legislaciones locales, por el titular del Ministerio Público de alguna entidad federativa, exclusivamente se concederá si se trata de los delitos de homicidio, asalto en carreteras o caminos, robo de vehículos, privación ilegal de la libertad, secuestro o esclavitud, trata de personas o explotación, previstos en el Código Penal Federal, en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro o la Ley General para Combatir y Erradicar los delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, respectivamente, o sus equivalentes en las legislaciones penales locales.
+TER.- Cuando la solicitud de autorización de intervención de comunicaciones privadas se solicite por el titular del Ministerio Público de las entidades federativas será otorgada de conformidad con lo previsto en el Código Nacional de Procedimientos Penales, la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro o la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de Estos Delitos, incluyendo todos aquellos delitos que ameriten prisión preventiva oficiosa en los términos del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, de acuerdo a su legislación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-La solicitud de autorización de intervención de comunicaciones de los delitos previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, se formulará de conformidad con ese ordenamiento.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-La autorización se otorgará únicamente al titular del Ministerio Público de la entidad federativa, cuando se constate la existencia de indicios suficientes que acrediten la probable responsabilidad en la comisión de los delitos arriba señalados. El titular del Ministerio Público será responsable de que la intervención se realice en los términos de la autorización judicial. La solicitud de autorización deberá contener los preceptos legales que la fundan, el razonamiento por el que se considera procedente, el tipo de comunicaciones, los sujetos y los lugares que serán intervenidos, así como el periodo durante el cual se llevarán a cabo las intervenciones, el cual podrá ser prorrogado, sin que el periodo de intervención, incluyendo sus prórrogas, pueda exceder de seis meses. Después de dicho plazo, sólo podrán autorizarse nuevas intervenciones cuando el titular del Ministerio Público de la entidad federativa acredite nuevos elementos que así lo justifiquen.
+> <small>(DEROGADO SEXTO PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
-
-En la autorización, el juez determinará las características de la intervención, sus modalidades y límites y, en su caso, ordenará a instituciones públicas o privadas, modos específicos de colaboración.
-
-> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
-
-En la autorización que otorgue el juez deberá ordenar que, cuando en la misma práctica sea necesario ampliar a otros sujetos o lugares la intervención, se deberá presentar ante el propio juez, una nueva solicitud; también ordenará que al concluir cada intervención se levante un acta que contendrá un inventario pormenorizado de las cintas de audio o video que contengan los sonidos o imágenes captadas durante la intervención, así como que se le entregue un informe sobre sus resultados, a efecto de constatar el debido cumplimiento de la autorización otorgada.
-
-> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
-
-El juez podrá, en cualquier momento, verificar que las intervenciones sean realizadas en los términos autorizados y, en caso de incumplimiento, decretar su revocación parcial o total.
-
-> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
-
-En caso de no ejercicio de la acción penal y una vez transcurrido el plazo legal para impugnarlo sin que ello suceda, el juez que autorizó la intervención, ordenará que se pongan a su disposición las cintas resultado de las intervenciones, los originales y sus copias y ordenará su destrucción en presencia del titular del Ministerio Público de la entidad federativa.
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -826,9 +818,9 @@ Los jueces de distrito de amparo en materia penal conocerán:
 
 I. De los juicios de amparo que se promuevan contra resoluciones judiciales del orden penal; contra actos de cualquier autoridad que afecten la libertad personal, salvo que se trate de correcciones disciplinarias o de medios de apremio impuestos fuera de procedimiento penal, y contra los actos que importen peligro de privación de la vida, deportación, destierro o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-II. De los juicios de amparo que se promuevan conforme a la fracción VII del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos, en los casos en que sea procedente contra resoluciones dictadas en los incidentes de reparación del daño exigible a personas distintas de los inculpados, o en los de responsabilidad civil, por los mismos tribunales que conozcan o hayan conocido de los procesos respectivos, o por tribunales diversos, en los juicios de responsabilidad civil, cuando la acción se funde en la comisión de un delito;
+II. De los juicios de amparo que se promueven conforme a la fracción VII del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos, en los casos en que sea procedente contra resoluciones dictadas en los incidentes de reparación del daño exigible a personas distintas de los inculpados o imputados, o en los de responsabilidad civil, por los mismos tribunales que conozcan o hayan conocido de los procesos respectivos, o por tribunales diversos, en los juicios de responsabilidad civil, cuando la acción se funde en la comisión de un delito;
 
 > <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
 
@@ -962,95 +954,207 @@ V. De las denuncias por incumplimiento a las declaratorias generales de inconsti
 
 BIS.- Los jueces de distrito podrán denunciar las contradicciones de tesis ante el Pleno y las Salas de la Suprema Corte de Justicia, así como ante los Plenos de Circuito; conforme a los procedimientos establecidos en la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
 
-## TITULO QUINTO. DEL JURADO FEDERAL DE CIUDADANOS
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-### CAPITULO UNICO
+## TITULO QUINTO. DEL JURADO FEDERAL DE CIUDADANOS Y LOS CENTROS DE JUSTICIA PENAL
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+### CAPITULO PRIMERO. DEL JURADO FEDERAL DE CIUDADANOS
+
+> <small>[N. DE E. EN LA PUBLICACIÓN DEL D.O.F. DE 17 DE JUNIO DE 2016, SE ADVIERTE QUE EL CONTENIDO DE LOS ARTÍCULOS DEL 56 AL 67 SE REPRODUCEN EN LOS ARTÍCULOS DEL 67 BIS AL 67 BIS 11.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 56.
 
-El Jurado Federal de Ciudadanos es competente para resolver, por medio de un veredicto, las cuestiones de hecho que le sean sometidas por los jueces de distrito con arreglo a la ley.
+Los centros de justicia penal estarán integrados por jueces de control, tribunales de enjuiciamiento y de alzada, así como por un administrador del centro, y el personal que determine el Consejo de la Judicatura Federal conforme al presupuesto del Poder Judicial de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+Cuando se considere necesario, los centros de justicia penal podrán contar con unidades de justicia alternativa.
+
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 57.
 
-El Jurado Federal de Ciudadanos conocerá de los delitos cometidos por medio de la prensa contra el orden público o la seguridad exterior o interior de la Nación, y los demás que determinen las leyes.
+Por órganos jurisdiccionales, a que se refiere este Título, se entenderá:
+
+I. Como tribunal de alzada, al magistrado del tribunal unitario de circuito con competencia especializada en el sistema penal acusatorio, y
+
+II. Como juez de control y tribunal de enjuiciamiento, el juez de distrito especializado en el sistema penal acusatorio.
+
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 58.
 
-El jurado se formará de siete ciudadanos designados por sorteo, en los términos que establece el Código Federal de Procedimientos Penales.
+El tribunal de alzada se auxiliará del número de asistentes de constancias y registro, y del personal que determine el presupuesto.
+
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 59.
 
-Para ser jurado se requiere:
+El juez de control y el tribunal de enjuiciamiento se auxiliarán del número de asistentes de constancias y registros, y del personal que determine el presupuesto.
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos;
-
-II. Saber leer y escribir, y
-
-III. Ser vecino del distrito judicial en que deba desempeñar el cargo, por lo menos desde un año antes del día en que se publique la lista definitiva de jurados.
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 60.
 
-No podrán ser jurados:
+Los tribunales de alzada conocerán:
 
-I. Los servidores públicos de la Federación, de los Estados, del Distrito Federal y los de los municipios;
+I. Del recurso de apelación, así como de los procedimientos de reconocimiento de inocencia del sentido y de anulación de sentencia;
 
-II. Los ministros de cualquier culto;
+II. De los recursos previstos en leyes del sistema procesal penal acusatorio;
 
-III. Las personas que tuvieren calidad de indiciadas o se encontraren sujetas a proceso;
+III. De la clasificación de los impedimentos, excusas y recusaciones de los jueces de control, de enjuiciamiento y de ejecución de sanciones penales de su jurisdicción;
 
-IV. Las personas que hayan sido condenadas a sufrir alguna pena de prisión;
+IV. De los conflictos de competencia que se susciten entre los juzgadores especificados en la fracción anterior, y
 
-V. Los ciegos, sordos o mudos, y
+V. De los demás asuntos que se (sic) les encomienden las leyes.
 
-VI. Las personas que se encuentran sujetas a interdicción.
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 61.
 
-Todo individuo que reúna los requisitos que exige el artículo 59 de esta ley, tiene obligación de desempeñar el cargo de jurado, en los términos de este Título y del Código Federal de Procedimientos Penales.
+Los jueces de distrito especializados en el sistema penal acusatorio conocerán de los asuntos a que se refieren los artículos 50, 50 Bis y 50 Ter de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 62.
 
-El Jefe del Distrito Federal y los presidentes municipales formarán cada dos años, en sus respectivas jurisdicciones, una lista de los vecinos del lugar que reúnan los requisitos a que se refiere el artículo 59 de esta ley, y que no tengan alguno de los impedimentos expresados en el artículo 60 de esta ley. Dicha lista la publicarán el día 1o. de julio del año en que deba formarse y será enviada al Consejo de la Judicatura Federal.
+Las ausencias de los servidores públicos a que se refieren los artículos 58 y 59 de esta Ley, serán suplidas conforme a los acuerdos generales que emita el Consejo de la Judicatura Federal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 63.
 
-Los individuos comprendidos en esta lista y que carezcan de alguno de los requisitos que señala el artículo 59 de esta ley, o que se creyeren comprendidos en alguna de las prohibiciones del artículo 60 de esta ley, están obligados a manifestarlo a la autoridad que haya formado la lista. La manifestación que haga deberá ir acompañada del justificante respectivo, el que podrá consistir, a falta de otro, en declaración ratificada ante tres testigos. Los testigos deberán ser vecinos de la delegación o municipalidad correspondiente y de reconocida honorabilidad y arraigo a juicio de las mismas autoridades.
+Para ser asistente de constancia y registro de tribunal de alzada se deberá constar con experiencia profesional de al menos tres años y satisfacer los demás requisitos exigidos para ser magistrado, salvo el de la edad mínima y serán nombrados de conformidad con las disposiciones aplicables en materia de carrera judicial.
 
-Las personas que justifiquen haber desempeñado el cargo de jurado o concejil durante un año, tendrán derecho a ser excluidos de la lista, y los que reúnan los requisitos para ser jurados y no figuren en ella, lo tendrán para que se les incluya.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-La autoridad administrativa resolverá bajo su responsabilidad lo que corresponda, y hará, en su caso, las modificaciones respectivas antes del día 15 de julio.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 64.
 
-Las listas se publicarán el 31 de julio en el periódico oficial del Distrito Federal o del Estado a que pertenezcan las respectivas delegaciones o municipalidades y en las tablas de avisos del Distrito Federal, de sus delegaciones y en las presidencias municipales de los Estados. Un ejemplar de las listas deberá remitirse al Consejo de la Judicatura Federal y otro al Procurador General de la República.
+Los asistentes de constancia y registro de juez de control o juez de enjuiciamiento deberán contar con una experiencia profesional de al menos tres años y satisfacer los mismos requisitos que para ser juez, salvo el de la edad mínima y serán nombrados conforme a las disposiciones relativas a la carrera judicial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 65.
 
-Una vez publicada la lista definitiva no se admitirán manifestaciones o solicitudes para modificarla.
+Los servidores públicos a los que aluden los artículos 58 y 59 de esta Ley gozarán de sus periodos vacacionales de conformidad a los acuerdos generales que determine el Consejo.
 
-La falta de los requisitos que para ser jurado exige el artículo 59 de esta ley, aunque sea superviniente, sólo podrá tomarse en consideración como causa de impedimento en la forma y términos que establezca el Código Federal de Procedimientos Penales.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 66.
 
-Los jurados podrán excusarse en los casos siguientes:
+Las licencias a los asistentes de constancias y registro de los órganos jurisdiccionales que no excedan de seis meses, serán concedidas por estos. Las licencias que excedan de dicho término serán concedidas por el Consejo de la Judicatura Federal.
 
-I. Cuando laboren en organismos o empresas que tengan a su cargo la prestación de servicios públicos;
-
-II. Cuando sean estudiantes inscritos en las escuelas oficiales o en instituciones universitarias;
-
-III. Cuando sean directores o profesores de establecimientos de instrucción o beneficencia, sean públicos o particulares;
-
-IV. Cuando padezcan alguna enfermedad que no les permita trabajar;
-
-V. Cuando sean mayores de sesenta años, y
-
-VI. Cuando hayan desempeñado el cargo de jurado durante el año anterior, sin que se les hubiese aplicado alguna corrección disciplinaria por la falta de asistencia, así como cuando hubiesen desempeñado algún cargo concejil durante el mismo tiempo.
-
-Las excusas serán alegadas ante el presidente de debates, el que las calificará de plano.
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 67.
 
-Los jurados que asistan a las audiencias recibirán la remuneración que determine el presupuesto, y los que falten sin causa justificada les serán aplicables las sanciones que señale la ley.
+Las cuestiones no previstas en este Capítulo serán determinadas por el Consejo de la Judicatura Federal, a través de acuerdos generales.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+### CAPÍTULO SEGUNDO. DE LOS CENTROS DE JUSTICIA PENAL
+
+> <small>[N. DE E. EN LA PUBLICACIÓN DEL D.O.F. DE 17 DE JUNIO DE 2016, SE ADVIERTE QUE EL CONTENIDO DE LOS ARTÍCULOS DEL 67 BIS AL 67 BIS 11 SE REPRODUCEN EN LOS ARTÍCULOS DEL 56 AL 67.]</small>
+
+> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+###### Artículo 67 Bis.
+
+Los centros de justicia penal estarán integrados por jueces de control, tribunales de enjuiciamiento y de alzada, así como por un administrador del centro, y el personal que determine el Consejo de la Judicatura Federal conforme al presupuesto del Poder Judicial de la Federación.
+
+Cuando se considere necesario, los centros de justicia penal podrán contar con unidades de justicia alternativa.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+###### Artículo 67 Bis 1.
+
+Por órganos jurisdiccionales, a que se refiere este título, se entenderá:
+
+I. Como tribunal de alzada, al magistrado del tribunal unitario de circuito con competencia especializada en el sistema penal acusatorio, y
+
+II. Como juez de control y tribunal de enjuiciamiento, el juez de distrito especializado en el sistema penal acusatorio.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+###### Artículo 67 Bis 2.
+
+El tribunal de alzada se auxiliará del número de asistentes de constancias y registro, y del personal que determine el presupuesto.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+###### Artículo 67 Bis 3.
+
+El juez de control y el tribunal de enjuiciamiento se auxiliarán del número de asistentes de constancias y registros, y del personal que determine el presupuesto.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+###### Artículo 67 Bis 4.
+
+Los tribunales de alzada conocerán:
+
+I. Del recurso de apelación, así como de los procedimientos de reconocimiento de inocencia del sentido y de anulación de sentencia;
+
+II. De los recursos previstos en leyes del sistema procesal penal acusatorio;
+
+III. De la clasificación de los impedimentos, excusas y recusaciones de los jueces de control, de enjuiciamiento y de ejecución de sanciones penales de su jurisdicción;
+
+IV. De los conflictos de competencia que se susciten entre los juzgadores especificados en la fracción anterior, y
+
+V. De los demás asuntos que les encomienden las leyes.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+###### Artículo 67 Bis 5.
+
+Los jueces de distrito especializados en el sistema penal acusatorio conocerán de los asuntos a que se refieren los artículos 50, 50 Bis y 50 Ter de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+###### Artículo 67 Bis 6.
+
+Las ausencias de los servidores públicos a que se refieren los artículos 58 y 59 de esta Ley, serán suplidas conforme a los acuerdos generales que emita el Consejo de la Judicatura Federal.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+###### Artículo 67 Bis 7.
+
+Para ser asistente de constancia y registro de tribunal de alzada se deberá contar con experiencia profesional de al menos tres años y satisfacer los demás requisitos exigidos para ser magistrado, salvo el de la edad mínima y serán nombrados de conformidad con las disposiciones aplicables en materia de carrera judicial.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+###### Artículo 67 Bis 8.
+
+Los asistentes de constancia y registro de juez de control o juez de enjuiciamiento deberán contar con una experiencia profesional de al menos tres años y satisfacer los mismos requisitos que para ser juez, salvo el de la edad mínima y serán nombrados conforme a las disposiciones relativas a la carrera judicial.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+###### Artículo 67 Bis 9.
+
+Los servidores públicos a los que aluden los artículos 58 y 59 de esta Ley gozarán de sus periodos vacacionales de conformidad a los acuerdos generales que determine el Consejo.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+###### Artículo 67 Bis 10.
+
+Las licencias a los asistentes de constancias y registro de los órganos jurisdiccionales que no excedan de seis meses, serán concedidas por éstos. Las licencias que excedan de dicho término serán concedidas por el Consejo de la Judicatura Federal.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+###### Artículo 67 Bis 11.
+
+Las cuestiones no previstas en este Capítulo serán determinadas por el Consejo de la Judicatura Federal, a través de acuerdos generales.
+
+## TITULO SEXTO. DE LOS ORGANOS ADMINISTRATIVOS DEL PODER JUDICIAL DE LA FEDERACION
 
 ### CAPITULO I. DEL CONSEJO DE LA JUDICATURA FEDERAL
 
@@ -1059,16 +1163,6 @@ SECCION 1a.
 DE SU INTEGRACION Y FUNCIONAMIENTO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
-
-## TITULO SEXTO. DE LOS ORGANOS ADMINISTRATIVOS DEL PODER JUDICIAL DE LA FEDERACION
-
-### CAPITULO II. DE LOS ORGANOS AUXILIARES
-
-SECCION 1a.
-
-DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 68.
 
@@ -1342,7 +1436,13 @@ Los secretarios ejecutivos contarán con las atribuciones que determine el Pleno
 
 Los secretarios técnicos deberán tener título profesional expedido en alguna materia afín a las competencias del Consejo de la Judicatura Federal, experiencia mínima de tres años, gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año.
 
-### CAPITULO I. DEL INGRESO A LA CARRERA JUDICIAL
+### CAPITULO II. DE LOS ORGANOS AUXILIARES
+
+SECCION 1a.
+
+DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 88.
 
@@ -1426,17 +1526,23 @@ Los visitadores deberán satisfacer los siguientes requisitos: ser mayor de trei
 
 El Consejo de la Judicatura Federal establecerá, mediante acuerdos generales, los sistemas que permitan evaluar de manera periódica el desempeño y la honorabilidad de los visitadores para efectos de lo que se dispone en esta ley en materia de responsabilidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 100.
 
-Los visitadores, de acuerdo con los sorteos periódicos que realice el secretario ejecutivo de disciplina, deberán inspeccionar de manera ordinaria los tribunales de circuito y juzgados de distrito cuando menos dos veces por año, de conformidad con las disposiciones generales que emita el Consejo de la Judicatura Federal en esta materia.
+Los visitadores, de acuerdo con los sorteos periódicos que realice el secretario ejecutivo de disciplina, deberán inspeccionar de manera ordinaria los tribunales de circuito, juzgados de distrito, centros de justicia penal federal y órganos jurisdiccionales que los integran, así como los plenos de circuito, cuando menos dos veces por año, de conformidad con las disposiciones generales que emita el Consejo de la Judicatura Federal en esta materia.
 
 Ningún visitador podrá visitar los mismos órganos por más de dos años.
 
-Los visitadores deberán informar con la debida oportunidad al titular del órgano jurisdiccional, o al presidente del mismo, tratándose de los tribunales colegiados, de la visita ordinaria de inspección que vayan a practicar a fin de que procedan a fijar el correspondiente aviso en los estrados del órgano con una anticipación mínima de quince días, para el efecto de que las personas interesadas puedan acudir a la visita y manifestar sus quejas o denuncias.
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+Los visitadores deberán informar con la debida oportunidad a los titulares de los órganos a que se refiere el primer párrafo o al presidente, tratándose de los tribunales colegiados, de la visita ordinaria de inspección que vayan a practicar a fin de que procedan a fijar el correspondiente aviso en los estrados del órgano con una anticipación mínima de quince días, para el efecto de que las personas interesadas puedan acudir a la visita y manifestar sus quejas o denuncias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 101.
 
-En las visitas ordinarias a los tribunales de circuito y juzgados de distrito, los visitadores tomando en cuenta las particularidades de cada órgano realizarán, además de lo que específicamente determine el Consejo de la Judicatura Federal, lo siguiente:
+En las visitas ordinarias los visitadores tomando en cuenta las particularidades de cada órgano realizarán, además de lo que específicamente determine el Consejo de la Judicatura Federal en su caso, lo siguiente:
 
 I. Pedirán la lista del personal para comprobar su asistencia;
 
@@ -1446,17 +1552,25 @@ III. Comprobarán si se encuentran debidamente asegurados los instrumentos y obj
 
 IV. Revisarán los libros de gobierno a fin de determinar si se encuentran en orden y contienen los datos requeridos;
 
-V. Harán constar el número de asuntos penales y civiles, y de juicios de amparo que hayan ingresado al órgano visitado durante el tiempo que comprenda la visita, y determinarán si los procesados que disfrutan de libertad caucional han cumplido con la obligación de presentarse en los plazos fijados, y si en algún proceso en suspenso transcurrió el término de prescripción de la acción penal;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-VI. Examinarán los expedientes formados con motivos de las causas penales y civiles que se estime conveniente a fin de verificar que se llevan con arreglo a la ley; si las resoluciones y acuerdos han sido dictados y cumplidos oportunamente; si las notificaciones y diligencias se efectuaron en los plazos legales; si los exhortos y despachos han sido diligenciados y si se han observado los términos constitucionales y demás garantías que la Constitución Política de los Estados Unidos Mexicanos otorga a los procesados.
+V. Harán constar el número de asuntos penales y civiles, y de juicios de amparo que hayan ingresado al órgano visitado durante el tiempo que comprenda la visita, y determinarán si los procesados o imputados que disfruten de libertad caucional o medida cautelar relativa a la presentación periódica ante el juez, han cumplido con la obligación de presentarse en los plazos fijados y con los lineamientos para la aplicación de la medida, y así en algún proceso en suspenso transcurrió el término de prescripción de la acción penal;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+VI. Examinarán los expedientes o registros integrados con motivos de las causas penales y civiles que se estime conveniente a fin de verificar que se llevan a cabo con arreglo a la ley; si las resoluciones y acuerdos han sido dictados y cumplidos oportunamente; si las notificaciones y diligencias se efectuaron en los plazos legales; si los exhortos y despachos han sido diligenciados y si se han observado los términos constitucionales y demás garantías que la Constitución Política de los Estados Unidos Mexicanos otorga a los procesados.
 
 Cuando el visitador advierta que en un proceso se venció el término para dictar sentencia, recomendará que ésta se pronuncie a la brevedad posible. En cada uno de los expedientes revisados, se pondrá la constancia respectiva, y
 
 VII. Revisarán, además de los supuestos de la fracción anterior, los expedientes relativos a los juicios de amparo. En estos casos se comprobará si las audiencias incidentales y de fondo se fijaron y desahogaron dentro de los términos legales; indicándose, en su caso, la corrección necesaria para que las suspensiones provisionales y definitivas no se prolonguen por más tiempo al señalado en la ley, y verificarán si las sentencias, interlocutorias y definitivas se pronunciaron oportunamente.
 
-De toda visita de inspección deberá levantarse acta circunstanciada, en la cual se hará constar el desarrollo de la misma, las quejas o denuncias presentadas en contra de los titulares y demás servidores del órgano de que se trate, las manifestaciones que respecto de la visita o del contenido del acta quisieran realizar los propios titulares o servidores del órgano, y la firma del juez o magistrado que corresponda y la del visitador.
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-El acta levantada por el visitador será entregada al titular del órgano visitado y al secretario ejecutivo de disciplina a fin de que determine lo que corresponda y, en caso de responsabilidad, dé vista al Consejo de la Judicatura Federal para que proceda en los términos previstos en esta ley.
+De toda visita de inspección deberá levantarse acta circunstanciada, en la cual se hará constar el desarrollo de la misma, las quejas o denuncias presentadas en contra de los juzgadores y demás servidores del órgano de que se trate, las manifestaciones que respecto de la visita o del contenido del acta quisieran realizar los propios juzgadores o servidores del órgano y la firma del juez o magistrado que corresponda la del visitador.
+
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+El acta levantada por el visitador será entregada al juzgador visitado y al secretario ejecutivo de disciplina a fin de que determine lo que corresponda y, en caso de responsabilidad dé vista al Consejo de la Judicatura Federal para que proceda en los términos previstos en esta Ley.
 
 ###### ARTICULO 102.
 
@@ -1546,7 +1660,15 @@ VII. Subsecretario de Acuerdos de Sala;
 
 VIII. Secretario de Tribunal de Circuito o Secretario de Estudio y Cuenta de las Salas Regionales del Tribunal Electoral del Poder Judicial de la Federación;
 
+> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+VIII Bis. Asistente de Constancias y Registro de Tribunal de Alzada;
+
 IX. Secretario de Juzgado de Distrito; y
+
+> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+IX Bis. Asistente de Constancias y Registro de Juez de control o juez de enjuiciamiento; y
 
 X. Actuario del Poder Judicial de la Federación.
 
@@ -1554,7 +1676,7 @@ X. Actuario del Poder Judicial de la Federación.
 
 El Consejo de la Judicatura Federal establecerá, de acuerdo con su presupuesto y mediante disposiciones generales, un sistema de estímulos para aquellas personas comprendidas en las categorías señaladas en el artículo anterior. Dicho sistema podrá incluir estímulos económicos y tomará en cuenta el desempeño en el ejercicio de su función, los cursos realizados dentro del Instituto de la Judicatura, la antigüedad, grado académico, arraigo y los demás que el propio Consejo estime necesarios. Adicionalmente, y tratándose de magistrados de circuito y jueces de distrito, el Consejo de la Judicatura Federal podrá autorizar años sabáticos, siempre que el interesado presente un proyecto de trabajo que redunde en su formación académica y profesional y sea de interés para el Poder Judicial de la Federación, así como también becas para estudios e investigación en el extranjero dentro de las posibilidades de orden presupuestal.
 
-### CAPITULO II. DE LA ADSCRIPCION Y RATIFICACION
+### CAPITULO I. DEL INGRESO A LA CARRERA JUDICIAL
 
 ###### ARTICULO 112.
 
@@ -1576,9 +1698,11 @@ Las designaciones que deban hacerse en las categorías de magistrado de circuito
 
 En los concursos internos de oposición para la plaza de magistrados de circuito, únicamente podrán participar los jueces de distrito y los Magistrados de Salas Regionales del Tribunal Electoral, y para los concursos de plaza de juez de distrito, quienes se encuentren en las categorías señaladas en las fracciones III a IX del artículo 110 de esta ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 114.
 
-Los concursos de oposición libre e internos de oposición para el ingreso a las categorías de magistrado de circuito y juez de distrito se sujetarán al siguiente procedimiento:
+Los concursos de oposición libre e internos para el ingreso a las categorías de magistrado de circuito y juez de distrito se sujetarán al siguiente procedimiento:
 
 I. El Consejo de la Judicatura Federal emitirá una convocatoria que deberá ser publicada por una vez en el Diario Oficial de la Federación y por dos veces en uno de los diarios de mayor circulación nacional, con un intervalo de cinco días hábiles entre cada publicación. En la convocatoria, se deberá especificar si el concurso se trata de oposición libre o de concurso interno de oposición.
 
@@ -1598,9 +1722,9 @@ El Consejo de la Judicatura Federal, deberá establecer en la convocatoria respe
 
 En caso de empate, se resolverá con criterio de acción afirmativa de equidad.
 
-III. Los aspirantes seleccionados, en términos de la fracción anterior, resolverán los casos prácticos que se les asignen mediante la redacción de las respectivas sentencias. Posteriormente se procederá a la realización del examen oral y público que practique el jurado a que se refiere el artículo 117 de esta ley, mediante las preguntas e interpelaciones que realicen sus miembros sobre toda clase de cuestiones relativas a la función de magistrado de circuito o juez de distrito, según corresponda. La calificación final se determinará con el promedio de los puntos que cada miembro del jurado le asigne al sustentante.
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-Al llevar a cabo su evaluación, el jurado tomará en consideración los cursos que haya realizado el sustentante en el Instituto de la Judicatura, la antigüedad en el Poder Judicial de la Federación, el desempeño, el grado académico y los cursos de actualización y especialización que haya acreditado, en términos del reglamento que dicte el Consejo de la Judicatura Federal. Cuando ningún sustentante alcance el puntaje mínimo requerido, el concurso se declarará desierto, y
+III. Los aspirantes seleccionados, en términos de la fracción anterior, resolverán los casos prácticos que se les asignen mediante la emisión y/o redacción de las respectivas sentencias. Posteriormente se procederá a la realización del examen oral y público que practique el jurado a que se refiere el artículo 117 de esta Ley, mediante las preguntas e interpelaciones que realicen sus miembros sobre toda clase de cuestiones relativas a la función de magistrado de circuito o juez de distrito, según corresponda. La calificación final se determinará con el promedio de los puntos que cada miembro del jurado le asigne al sustentante.
 
 IV. Concluidos los exámenes orales, se levantará un acta final y el presidente del jurado declarará quienes son los concursantes que hubieren resultado vencedores y el medio de selección utilizado, e informará de inmediato al Consejo de la Judicatura Federal para que realice los nombramientos respectivos y los publique en el Semanario Judicial de la Federación.
 
@@ -1634,7 +1758,7 @@ Por cada miembro titular se nombrará un suplente designado en los términos que
 
 A los miembros del jurado les serán aplicables los impedimentos establecidos en el artículo 146 de esta ley, los cuales serán calificados por el propio jurado.
 
-### CAPITULO III. DEL RECURSO DE REVISION ADMINISTRATIVA
+### CAPITULO II. DE LA ADSCRIPCION Y RATIFICACION
 
 ###### ARTICULO 118.
 
@@ -1688,7 +1812,7 @@ IV. No haber sido sancionado por falta grave, con motivo de una queja de caráct
 
 V. Los demás que estime pertinentes, siempre que consten en acuerdos generales publicados con seis meses de anticipación a la fecha de la ratificación.
 
-### CAPITULO UNICO
+### CAPITULO III. DEL RECURSO DE REVISION ADMINISTRATIVA
 
 ###### ARTICULO 122.
 
@@ -1772,11 +1896,15 @@ X. Abandonar la residencia del tribunal de circuito o juzgado de distrito al que
 
 XI. Las previstas en el artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, siempre que no fueren contrarias a la naturaleza de la función jurisdiccional;
 
-> <small>(ADICIONADA, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-XII. Incumplir las disposiciones constitucionales y legales en materia de propaganda y de informes de labores o de gestión, y
+XII. Incumplir las disposiciones constitucionales y legales en materia de propaganda y de informes de labores y de gestión;
 
-XIII. Las demás que determine la ley.
+> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+XIII. La omisión a que se refiere el artículo 135 del Código Nacional de Procedimientos Penales, y
+
+XIV. Las demás que determine la ley.
 
 ###### ARTICULO 132.
 
@@ -1866,7 +1994,7 @@ Las resoluciones por las que el Pleno del Consejo de la Judicatura Federal impon
 
 ## TITULO NOVENO. DE LA FACULTAD DE ATRACCION EN LAS CONTROVERSIAS ORDINARIAS
 
-### CAPITULO I. DE LA DIVISION TERRITORIAL
+### CAPITULO UNICO
 
 ###### ARTICULO 141.
 
@@ -1876,7 +2004,9 @@ Si es ejercida de oficio por alguna Sala, ésta deberá comunicar por escrito al
 
 Cuando el Procurador General de la República solicitare su ejercicio, la Sala, si lo estima conveniente, ordenará al tribunal unitario de circuito que le remita los autos originales dentro del término de cinco días. Recibidos los autos, la Sala, dentro de los treinta días siguientes, resolverá si ejerce la facultad de atracción, en cuyo caso le informará al propio tribunal unitario de circuito de la resolución correspondiente; en caso contrario, notificará su resolución al solicitante y devolverá los autos a dicho tribunal.
 
-Si un tribunal unitario de circuito solicita que se ejerza la facultad de atracción, expresará las razones en que se funde su petición y remitirá los autos originales a la Sala que corresponda, la cual resolverá dentro de los treinta días siguientes en términos del párrafo anterior.
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+Si un tribunal unitario de circuito o tribunal de alzada solicita que se ejerza la facultad de atracción, expresará las razones en que se funde su petición y remitirá los autos originales a la sala que corresponda, la cual resolverá dentro de los treinta días siguientes en términos del párrafo anterior.
 
 No podrá solicitarse o ejercitarse la facultad de atracción, sin que se haya agotado la sustanciación del recurso de apelación ante el correspondiente tribunal unitario de circuito.
 
@@ -1896,7 +2026,7 @@ Cuando el recurso de reclamación se interponga sin motivo, se impondrá al recu
 
 ## TITULO DECIMO. DE LAS DISPOSICIONES GENERALES
 
-### CAPITULO II. DE LOS IMPEDIMENTOS
+### CAPITULO I. DE LA DIVISION TERRITORIAL
 
 ###### ARTICULO 144.
 
@@ -1910,11 +2040,13 @@ En cada uno de los circuitos el Consejo de la Judicatura Federal establecerá me
 
 Cada uno de los circuitos a que se refiere el artículo anterior comprenderá los distritos judiciales cuyo número y límites territoriales determine el Consejo de la Judicatura Federal mediante acuerdos generales. En cada distrito deberá establecerse cuando menos un juzgado.
 
-### CAPITULO III. DE LA PROTESTA CONSTITUCIONAL
+### CAPITULO II. DE LOS IMPEDIMENTOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 146.
 
-Los ministros de la Suprema Corte de Justicia, los magistrados de circuito, los jueces de distrito, los miembros del Consejo de la Judicatura Federal y los jurados están impedidos para conocer de los asuntos, por alguna de las causas siguientes:
+Los ministros de la Suprema Corte de Justicia, los magistrados de circuito, los jueces de distrito y los miembros del Consejo de la Judicatura Federal están impedidos para conocer de los asuntos, por alguna de las causas siguientes:
 
 I. Tener parentesco en línea recta sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado y en la colateral por afinidad hasta el segundo, con alguno de los interesados, sus representantes, patronos o defensores;
 
@@ -1946,21 +2078,25 @@ XIV. Ser heredero, legatario, donatario o fiador de alguno de los interesados, s
 
 XV. Ser cónyuge o hijo del servidor público, acreedor, deudor o fiador de alguno de los interesados;
 
-XVI. Haber sido juez o magistrado en el mismo asunto, en otra instancia. No es motivo de impedimento para magistrados de los tribunales unitarios el conocer del recurso de apelación contra sentencias del orden penal cuando hubiesen resuelto recursos de apelación en el mismo asunto en contra de los autos a que se refieren las fracciones II a IX del artículo 367 del Código Federal de Procedimientos Penales;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+XVI. Haber sido juez o magistrado en el mismo asunto, en otra instancia. No es motivo de impedimento para magistrado de los tribunales unitarios el conocer del recurso de apelación contra sentencias del orden penal cuando hubiesen resuelto recursos de apelación en el mismo asunto en contra de los autos a que se refieren las fracciones I a IX y XI del artículo 467, y fracción I del artículo 468 del Código Nacional de Procedimientos Penales;
 
 XVII. Haber sido agente del Ministerio Público, jurado, perito, testigo, apoderado, patrono o defensor en el asunto de que se trata, o haber gestionado o recomendado anteriormente el asunto en favor o en contra de alguno de los interesados. Tratándose de juicios de amparo, se observará lo dispuesto en la Ley de Amparo; y
 
 XVIII. Cualquier otra análoga a las anteriores.
 
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 147.
 
-Para los efectos del artículo anterior, en los asuntos del orden penal se considerarán como interesados al inculpado o a la persona que tenga derecho a la reparación del daño o a la responsabilidad civil.
+Para los efectos del artículo anterior, en los asuntos del orden penal se considerarán como interesados al inculpado o imputado, así como la víctima u ofendido.
 
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 148.
 
-Los visitadores y los peritos estarán impedidos para actuar cuando se encuentren en alguna de las causales de impedimento previstas por las fracciones I, II, IX, XIII, XIV y XV del artículo 146 de esta Ley o en las leyes de la materia, siempre que pudieran comprometer la prestación imparcial de sus servicios. La calificación del impedimento corresponderá, en todo caso, al órgano jurisdiccional ante el cual debieran ejercer sus atribuciones o cumplir sus obligaciones.
+Los visitadores y los peritos estarán impedidos para actuar cuando se encuentren en una de las causales del impedimento previstas por las fracciones I, II, IX, XIII, XIV y XV del artículo 146 de esta Ley o en las leyes de la materia, siempre que pudieran comprometer la prestación imparcial de sus servicios. La calificación del impedimento corresponderá, en todo caso, al órgano administrativo o jurisdiccional ante la cual deberían ejercer sus atribuciones y cumplir sus obligaciones.
 
 > <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
 
@@ -1968,7 +2104,7 @@ Los visitadores y los peritos estarán impedidos para actuar cuando se encuentre
 
 Además de los servidores públicos previstos en el artículo 101 de la Constitución Política de los Estados Unidos Mexicanos, los actuarios, los visitadores, no podrán aceptar o desempeñar empleo o encargo de la Federación, de los Estados, del Distrito Federal o de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia.
 
-### CAPITULO IV. DE LAS ACTUACIONES JUDICIALES
+### CAPITULO III. DE LA PROTESTA CONSTITUCIONAL
 
 ###### ARTICULO 150.
 
@@ -1986,15 +2122,17 @@ Los jueces de distrito otorgarán la protesta constitucional ante el Pleno del C
 
 Los secretarios y empleados de la Suprema Corte de Justicia y del Consejo de la Judicatura Federal otorgarán la protesta ante el presidente respectivo.
 
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 154.
 
-Los secretarios y empleados de los tribunales de circuito y de los juzgados de distrito protestarán ante el magistrado o juez al que deban estar adscritos.
+Los secretarios, asistentes de constancias y registros y empleados de los tribunales de circuito y de los juzgados de distrito protestarán ante el magistrado o juez al que se le deban estar adscritos.
 
 ###### ARTICULO 155.
 
 La protesta a que se refiere este capítulo se prestará en los términos siguientes: ¿Protestáis desempeñar leal y patrióticamente el cargo de (el que se confiera al interesado) que se os ha conferido; guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, mirando en todo por el bien y prosperidad de la Unión? El interesado responderá: Sí protesto. La autoridad que tome la protesta añadirá: Si no lo hiciéreis así, la nación os lo demande.
 
-### CAPITULO V. DE LAS VACACIONES Y DIAS INHABILES
+### CAPITULO IV. DE LAS ACTUACIONES JUDICIALES
 
 ###### ARTICULO 156.
 
@@ -2014,9 +2152,13 @@ Fuera del lugar de la residencia de los tribunales de circuito, las diligencias 
 
 Fuera de la residencia de los juzgados de distrito, las diligencias podrán practicarse por el mismo juez de distrito, por el del fuero común comisionado al efecto, o por el secretario o actuario del juzgado de distrito.
 
-En los asuntos del orden penal los jueces de distrito podrán autorizar a los jueces del orden común en términos del artículo 47 de esta ley y cuando dichos jueces ordenen la práctica de diligencias para que resuelvan sobre la formal prisión, la sujeción a proceso o la libertad por falta de méritos para procesar, según fuere procedente, y para practicar las demás diligencias en los términos que disponga el Código Federal de Procedimientos Penales.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-### CAPITULO VI. DE LAS LICENCIAS
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+En los asuntos del orden penal los jueces de distrito podrán autorizar a los jueces del orden común en términos del artículo 47 de esta Ley y cuando dichos jueces ordenen la práctica de diligencias para que resuelvan sobre la vinculación a proceso o no vinculación a proceso por falta de méritos para procesar, según fuere procedente, y para practicar las demás diligencias en los términos que disponga el Código Nacional de Procedimientos Penales.
+
+### CAPITULO V. DE LAS VACACIONES Y DIAS INHABILES
 
 ###### ARTICULO 159.
 
@@ -2044,7 +2186,7 @@ Los magistrados de circuito y los jueces de distrito otorgarán a los secretario
 
 En los órganos del Poder Judicial de la Federación, se considerarán como días inhábiles los sábados y domingos, el 1o. de enero, 5 de febrero, 21 de marzo, 1o. de mayo, 16 de septiembre y 20 de noviembre, durante los cuales no se practicarán actuaciones judiciales, salvo en los casos expresamente consignados en la Ley.
 
-### CAPITULO VII. DE LA JURISPRUDENCIA
+### CAPITULO VI. DE LAS LICENCIAS
 
 ###### ARTICULO 164.
 
@@ -2102,7 +2244,7 @@ Las licencias de los demás empleados de los tribunales unitarios de circuito y 
 
 Las licencias de los servidores públicos y empleados no contemplados en los artículos anteriores, serán concedidas por el órgano facultado para ello en los términos de los reglamentos y acuerdos generales correspondientes y a falta de disposición expresa por quien haya conocido de su nombramiento.
 
-### CAPITULO VIII. DEL PERSONAL DEL PODER JUDICIAL DE LA FEDERACION
+### CAPITULO VII. DE LA JURISPRUDENCIA
 
 ###### ARTICULO 177.
 
@@ -2116,19 +2258,17 @@ La Coordinación de Compilación y Sistematización de Tesis, será el órgano c
 
 En términos de la fracción XIX del artículo 11 de esta ley, la Suprema Corte de Justicia, cuidará que las publicaciones del Semanario Judicial de la Federación se realicen con oportunidad y llevará a cabo todas aquellas tareas que fueren necesarias para la adecuada distribución y difusión de las tesis y jurisprudencias que hubieren emitido los órganos competentes del Poder Judicial de la Federación.
 
-### CAPITULO I. DE SU INTEGRACION Y FUNCIONAMIENTO
-
-> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+### CAPITULO VIII. DEL PERSONAL DEL PODER JUDICIAL DE LA FEDERACION
 
 ###### ARTICULO 180.
 
 En la Suprema Corte de Justicia de la Nación tendrán el carácter de servidores públicos de confianza, el secretario general de acuerdos, el subsecretario general de acuerdos, los secretarios de estudio y cuenta, los secretarios y subsecretarios de Sala, los secretarios auxiliares de acuerdos, los actuarios, la persona o personas designadas por su Presidente para auxiliarlo en las funciones administrativas, el Coordinador de Compilación y Sistematización de Tesis, los directores generales, los directores de área, los subdirectores, los jefes de departamento, el personal de apoyo y asesoría de los servidores públicos de nivel de director general o superior, y todos aquellos que tengan a su cargo funciones de vigilancia, control, manejo de recursos, adquisiciones o inventarios.
 
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 181.
 
-También tendrán el carácter de servidores públicos de confianza, los secretarios ejecutivos, los secretarios de comisiones, los secretarios técnicos, los titulares de los órganos, los coordinadores generales, directores generales, directores de área, visitadores, defensores públicos, asesores jurídicos y personal técnico del Instituto Federal de Defensoría Pública, de la Visitaduría Judicial y de la Contraloría del Poder Judicial de la Federación, subdirectores, jefes de departamento, oficiales comunes de partes, el personal de apoyo y asesoría de los servidores públicos de nivel de director general o superior, cajeros, pagadores y todos aquellos que tengan a su cargo funciones de vigilancia, control, manejo de recursos, adquisiciones o inventarios.
+También tendrán el carácter de servidores públicos de confianza, los secretarios ejecutivos, los secretarios de comisiones, los secretarios técnicos, los titulares de los órganos, los coordinadores generales, directores generales, titulares de unidades administrativas, directores de área, visitadores, defensores públicos, asesores jurídicos y personal técnico del Instituto Federal de Defensoría Pública de la Visitaduría Judicial y de la Contraloría del Poder Judicial de la Federación, subdirectores, jefes de departamento, oficiales comunes de partes, el personal de apoyo y asesoría de los servidores públicos de nivel de director general o superior, cajeros, pagadores y todos aquellos que tengan a su cargo funciones de vigilancia, control, manejo de recursos, adquisiciones o inventarios.
 
 ###### ARTICULO 182.
 
@@ -2150,15 +2290,9 @@ DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-### CAPITULO II. DE LA SALA SUPERIOR
+### CAPITULO I. DE SU INTEGRACION Y FUNCIONAMIENTO
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
-
-SECCION 1A.
-
-DE SU INTEGRACION Y FUNCIONAMIENTO
-
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 184.
 
@@ -2248,7 +2382,13 @@ X.- Las demás que le señalen las leyes.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-### CAPITULO III. DEL PRESIDENTE DEL TRIBUNAL ELECTORAL
+### CAPITULO II. DE LA SALA SUPERIOR
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
+SECCION 1A.
+
+DE SU INTEGRACION Y FUNCIONAMIENTO
 
 > <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
@@ -2376,15 +2516,9 @@ La determinación que emita la Sala Superior respecto de ejercer o no la faculta
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-### CAPITULO IV. DE LAS SALAS REGIONALES
+### CAPITULO III. DEL PRESIDENTE DEL TRIBUNAL ELECTORAL
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
-
-SECCION 1A.
-
-DE SU INTEGRACION Y FUNCIONAMIENTO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 190.
 
@@ -2460,15 +2594,15 @@ XXVII.- Las demás que señalen las leyes, el Reglamento Interno o aquellas que 
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-### CAPITULO V. DE LOS MAGISTRADOS ELECTORALES
+### CAPITULO IV. DE LAS SALAS REGIONALES
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 SECCION 1A.
 
-DEL PROCEDIMIENTO PARA SU ELECCION
+DE SU INTEGRACION Y FUNCIONAMIENTO
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 192.
 
@@ -2650,15 +2784,15 @@ XVI.- Las demás que sean necesarias para el correcto funcionamiento de la Sala 
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-### CAPITULO VI. DEL SECRETARIO GENERAL DE ACUERDOS Y SUBSECRETARIO GENERAL DE ACUERDOS
+### CAPITULO V. DE LOS MAGISTRADOS ELECTORALES
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 SECCION 1A.
 
-DE SU INTEGRACION Y FUNCIONAMIENTO EN LA SALA SUPERIOR.
+DEL PROCEDIMIENTO PARA SU ELECCION
 
-> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 198.
 
@@ -2720,15 +2854,15 @@ Cada magistrado de la Sala Superior y de las Salas Regionales contará permanent
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-### CAPITULO VII. DE LOS SECRETARIOS GENERALES DE SALA REGIONAL
+### CAPITULO VI. DEL SECRETARIO GENERAL DE ACUERDOS Y SUBSECRETARIO GENERAL DE ACUERDOS
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 SECCION 1A.
 
-DE SU INTEGRACION Y FUNCIONAMIENTO EN LAS SALAS REGIONALES
+DE SU INTEGRACION Y FUNCIONAMIENTO EN LA SALA SUPERIOR.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 200.
 
@@ -2782,15 +2916,15 @@ El subsecretario general de acuerdos auxiliará y apoyará al secretario general
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-### CAPITULO VIII. DE LA COMISION DE ADMINISTRACION
+### CAPITULO VII. DE LOS SECRETARIOS GENERALES DE SALA REGIONAL
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 SECCION 1A.
 
-DE SU INTEGRACION Y FUNCIONAMIENTO
+DE SU INTEGRACION Y FUNCIONAMIENTO EN LAS SALAS REGIONALES
 
-> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 203.
 
@@ -2838,13 +2972,13 @@ XII.- Las demás que les señalen las leyes.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-### CAPITULO IX. DISPOSICIONES ESPECIALES
+### CAPITULO VIII. DE LA COMISION DE ADMINISTRACION
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 SECCION 1A.
 
-DE LOS REQUISITOS PARA OCUPAR EL CARGO.
+DE SU INTEGRACION Y FUNCIONAMIENTO
 
 > <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -3008,9 +3142,15 @@ La Comisión de Administración contará con una Secretaría Administrativa y co
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-### CAPITULO I. DE LA ORGANIZACION
+### CAPITULO IX. DISPOSICIONES ESPECIALES
 
-> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
+SECCION 1A.
+
+DE LOS REQUISITOS PARA OCUPAR EL CARGO.
+
+> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 212.
 
@@ -3396,7 +3536,7 @@ Los servidores del Tribunal que sean destituidos podrán apelar tal decisión an
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 14 DE FEBRERO DE 2006)</small>
 
-### CAPITULO II. DE LA INTEGRACION
+### CAPITULO I. DE LA ORGANIZACION
 
 > <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
 
@@ -3406,7 +3546,7 @@ El Poder Judicial de la Federación se auxiliará para el mejor desempeño de su
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE FEBRERO DE 2006)</small>
 
-### CAPITULO III. DE LA ADMINISTRACION Y OPERACION
+### CAPITULO II. DE LA INTEGRACION
 
 > <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
 
@@ -3416,7 +3556,9 @@ El patrimonio del Fondo de Apoyo a la Administración de Justicia se integra con
 
 I. Las donaciones o aportaciones hechas a su favor por terceros;
 
-II. Los ingresos provenientes de la enajenación de inmuebles en términos de lo dispuesto por el artículo 23, fracción II, de la Ley General de Bienes Nacionales, así como los obtenidos por la enajenación de bienes decomisados en procesos penales federales de conformidad con lo establecido en el artículo 182-R, del Código Federal de Procedimientos Penales;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+II. Los ingresos provenientes de la enajenación de inmuebles en términos de lo dispuesto por el artículo 23, fracción II de la Ley General de Bienes Nacionales, así como los obtenidos por la enajenación de bienes decomisados en procesos penales federales de conformidad con lo establecido en los artículos 182-R del Código Federal de Procedimientos Penales y 250 del Código Nacional de Procedimientos Penales;
 
 III. Los intereses que se generen por las inversiones que se hagan de los depósitos en dinero o en valores que se efectúen ante los órganos jurisdiccionales del Poder Judicial de la Federación, y
 
@@ -3430,7 +3572,7 @@ Los recursos con los que se integre y opere el Fondo serán diferentes de aquell
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE FEBRERO DE 2006)</small>
 
-### CAPITULO IV. DEL DESTINO
+### CAPITULO III. DE LA ADMINISTRACION Y OPERACION
 
 > <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
 
@@ -3469,6 +3611,10 @@ IV. Las demás que señale el Comité.
 Los recursos que integren el Fondo deberán ser administrados en valores de renta fija del más alto rendimiento, siempre que éstos permitan la disponibilidad inmediata y suficiente de las sumas que resulte necesario reintegrar a los depositantes o entregar a los particulares que tengan derecho a ellas.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE FEBRERO DE 2006)</small>
+
+### CAPITULO IV. DEL DESTINO
+
+> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 249.
 
@@ -3827,3 +3973,23 @@ D.O.F. 24 DE DICIEMBRE DE 2014.
 D.O.F. 4 DE NOVIEMBRE DE 2015.
 
 Único. El presente Decreto entrará en vigor treinta días después de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES; DEL CÓDIGO PENAL FEDERAL; DE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA; DE LA LEY FEDERAL PARA LA PROTECCIÓN A PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL; DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y DE LA LEY DE INSTITUCIONES DE CRÉDITO”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación salvo lo previsto en el siguiente artículo.
+
+Segundo.- Las reformas al Código Nacional de Procedimientos Penales, al Código Penal Federal, a la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, los artículos 2, 13, 44 y 49 de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal y los artículos 21 en su fracción X, 50 Bis y 158 de la Ley Orgánica del Poder Judicial de la Federación, entrarán en vigor en términos de lo previsto por el Artículo Segundo Transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales publicado en el Diario Oficial de la Federación el 5 de marzo de 2014.
+
+Los procedimientos que se encuentren en trámite, relacionados con las modificaciones a los preceptos legales contemplados en el presente Decreto, se resolverán de conformidad con las disposiciones que les dieron origen.
+
+Tercero.- Dentro de los 180 días naturales a la entrada en vigor del presente Decreto, la Federación y las entidades federativas en el ámbito de sus respectivas competencias, deberán contar con una Autoridad de Supervisión de Medidas Cautelares y de la Suspensión Condicional del Proceso.
+
+Asimismo, dentro de los 30 días siguientes a la fecha de creación de las autoridades de medidas cautelares y de la suspensión condicional del proceso de la Federación y de las entidades federativas, se deberán emitir los acuerdos y lineamientos que regulen su organización y funcionamiento.
+
+Cuarto.- Las disposiciones del presente Decreto relativas a la ejecución penal, entrarán en vigor una vez que entre en vigor la legislación en la materia prevista en el artículo 73, fracción XXI, inciso c) de la Constitución Política de los Estados Unidos Mexicanos.
+
+Quinto.- Tratándose de aquellas medidas privativas de la libertad personal o de prisión preventiva que hubieren sido decretadas por mandamiento de autoridad judicial durante los procedimientos iniciados con base en la legislación procesal penal vigente con anterioridad a la entrada en vigor del sistema de justicia penal acusatorio adversarial, el inculpado o imputado podrá solicitar al órgano jurisdiccional competente la revisión de dichas medidas, para efecto de que, el juez de la causa, en los términos de los artículos 153 a 171 del Código Nacional de Procedimientos Penales, habiéndose dado vista a las partes, para que el Ministerio Público investigue y acredite lo conducente, y efectuada la audiencia correspondiente, el órgano jurisdiccional, tomando en consideración la evaluación del riesgo, resuelva sobre la imposición, revisión, sustitución, modificación o cese, en términos de las reglas de prisión preventiva del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, así como del Código Nacional de Procedimientos Penales. En caso de sustituir la medida cautelar, aplicará en lo conducente la vigilancia de la misma en términos de los artículos 176 a 182 del citado Código.
+
+Sexto.- La Procuraduría General de la República propondrá al seno del Consejo Nacional de Seguridad Pública la consecución de los acuerdos que estime necesarios entre las autoridades de las entidades federativas y la federación en el marco de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal.
