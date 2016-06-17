@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gobierno-municipal-del-estado-de-sinaloa-22823"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2015-10-30"
+last_updated: "2016-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2016.
 
 Ley publicada en el Periódico Oficial de Estado de Sinaloa, el lunes 26 de noviembre de 2001.
 
@@ -551,27 +551,31 @@ VII. Editar todo género de publicaciones para la difusión de programas, inform
 
 VIII. Promover la difusión de documentos que exalten los valores cívicos del pueblo mexicano y en particular del sinaloense;
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2016)</small>
 
-IX. Coordinarse y colaborar con el Instituto Sinaloense de Cultura, en la realización de los eventos que señala este artículo en las fracciones III, IV, V, VI, VII y en otros de la misma naturaleza;
-
-X. Colaborar con las autoridades competentes en la lucha por reprimir el charlatanismo;
-
-XI. Promover la participación de los padres de familia en campañas que favorezcan la educación de sus hijos, el mejoramiento del hogar y de las relaciones familiares;
-
-XII. Constituir el Consejo Municipal para la Atención a la Juventud a efecto de fomentar actividades culturales, sociales, cívicas y deportivas en beneficio de los jóvenes y coadyuvar con los organismos federales y estatales que se propongan la realización de los fines indicados;
-
-XIII. Integrar el Consejo Local de Tutela, de acuerdo con la Ley;
+IX. Procurar la creación del Muro de Honor Municipal dentro de sus instalaciones, inscribiendo en él con letras doradas los nombres de los personajes ilustres que hayan trascendido por su aportación al Municipio en acciones heroicas, así como en los ámbitos político, social, científico y cultural;
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-XIV. Contribuir al sostenimiento del Centro de Internamiento para Adolecentes (sic), proporcionando a los delegados municipales de aquél, el local y demás medios conducentes para el desempeño de sus funciones;
+X. Coordinarse y colaborar con el Instituto Sinaloense de Cultura, en la realización de los eventos que señala este artículo en las fracciones III, IV, V, VI, VII y en otros de la misma naturaleza;
 
-XV. Favorecer la formación del patrimonio familiar;
+XI. Colaborar con las autoridades competentes en la lucha por reprimir el charlatanismo;
 
-XVI. Coadyuvar con las autoridades competentes a la regularización del estado civil de las personas; y
+XII. Promover la participación de los padres de familia en campañas que favorezcan la educación de sus hijos, el mejoramiento del hogar y de las relaciones familiares;
 
-XVII. Intercambiar experiencias y fortalecer relaciones con otros municipios y ciudades u organismos culturales, sociales y deportivos de cualquier nacionalidad, pudiendo designar comités especiales para el efecto.
+XIII. Constituir el Consejo Municipal para la Atención a la Juventud a efecto de fomentar actividades culturales, sociales, cívicas y deportivas en beneficio de los jóvenes y coadyuvar con los organismos federales y estatales que se propongan la realización de los fines indicados;
+
+XIV. Integrar el Consejo Local de Tutela, de acuerdo con la Ley;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XV. Contribuir al sostenimiento del Centro de Internamiento para Adolecentes (sic), proporcionando a los delegados municipales de aquél, el local y demás medios conducentes para el desempeño de sus funciones;
+
+XVI. Favorecer la formación del patrimonio familiar;
+
+XVII. Coadyuvar con las autoridades competentes a la regularización del estado civil de las personas; y
+
+XVIII. Intercambiar experiencias y fortalecer relaciones con otros municipios y ciudades u organismos culturales, sociales y deportivos de cualquier nacionalidad, pudiendo designar comités especiales para el efecto.
 
 > <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2015)</small>
 
@@ -1554,3 +1558,11 @@ SEGUNDO. Para el debido cumplimiento del presente Decreto, los Ayuntamientos en 
 P.O. 30 DE OCTUBRE DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+P.O. 17 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 561 QUE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 35 DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Cada Ayuntamiento a través de la Comisión de Acción Social y Cultural decidirá las bases y fundamentos para la selección de los personajes ilustres, en los cuales se incluirán los requisitos para que una persona pueda ser considerada y tener un espacio en el Muro de Honor Municipal.
