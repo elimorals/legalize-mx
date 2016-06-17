@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-23-2009-del-pleno-del-consejo-de-la-68814"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-06-15"
-last_updated: "2009-06-15"
+last_updated: "2016-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68814&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2009-06-03"
 ---
 # ACUERDO GENERAL 23/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL JUZGADO SEPTIMO FEDERAL PENAL ESPECIALIZADO EN CATEOS, ARRAIGOS E INTERVENCION DE COMUNICACIONES
 
-ACUERDO GENERAL 23/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL JUZGADO SEPTIMO FEDERAL PENAL ESPECIALIZADO EN CATEOS, ARRAIGOS E INTERVENCION DE COMUNICACIONES
+ACUERDO GENERAL 23/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL JUZGADO SÉPTIMO FEDERAL PENAL ESPECIALIZADO EN CATEOS, ARRAIGOS E INTERVENCIÓN DE COMUNICACIONES
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 38/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL JUZGADO SÉPTIMO FEDERAL PENAL ESPECIALIZADO EN CATEOS, ARRAIGOS E INTERVENCIÓN DE COMUNICACIONES, CON COMPETENCIA EN TODA LA REPÚBLICA Y RESIDENCIA EN LA CIUDAD DE MÉXICO; ASÍ COMO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DEL SIMILAR 75/2008, POR EL QUE SE CREAN JUZGADOS FEDERALES PENALES ESPECIALIZADOS EN CATEOS, ARRAIGOS E INTERVENCIÓN DE COMUNICACIONES, PUBLICADO EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 17 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JUNIO DE 2016 (ABROGADO).
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 15 de junio de 2009.
 
@@ -70,3 +72,23 @@ SEGUNDO. El inicio del rol de turno del Juzgado Séptimo Federal Penal Especiali
 TERCERO. Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 23/2009, del Pleno del Consejo de la Judicatura Federal, que Crea el Juzgado Séptimo Federal Penal Especializado en Cateos, Arraigos e Intervención de Comunicaciones, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de tres de junio de dos mil nueve, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Juan Carlos Cruz Razo, María Teresa Herrera Tello, César Alejandro Jáuregui Robles, Jorge Moreno Collado y Oscar Vázquez Marín.- México, Distrito Federal, a cinco de junio de dos mil nueve.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 17 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 38/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL JUZGADO SÉPTIMO FEDERAL PENAL ESPECIALIZADO EN CATEOS, ARRAIGOS E INTERVENCIÓN DE COMUNICACIONES, CON COMPETENCIA EN TODA LA REPÚBLICA Y RESIDENCIA EN LA CIUDAD DE MÉXICO; ASÍ COMO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DEL SIMILAR 75/2008, POR EL QUE SE CREAN JUZGADOS FEDERALES PENALES ESPECIALIZADOS EN CATEOS, ARRAIGOS E INTERVENCIÓN DE COMUNICACIONES".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el veinte de junio de dos mil dieciséis.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Los Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones, con competencia en toda la República y residencia en la Ciudad de México, que al veinte de junio de dos mil dieciséis tenían el turno de veinticuatro horas de trabajo por setenta y dos de descanso, con inicio de labores a las 20:00 horas; conservarán esa hora de entrada, pero con el turno de veinticuatro horas de trabajo por cuarenta y ocho de descanso. Se instruye a la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, para que con apoyo en ese criterio elabore el nuevo rol de turno de esos órganos jurisdiccionales y se los informe oportunamente por medio de su coordinador.
+
+CUARTO. Se abroga el Acuerdo General 23/2009, del Pleno del Consejo de la Judicatura Federal, que crea el Juzgado Séptimo Federal Penal Especializado en Cateos, Arraigos e Intervención de Comunicaciones.
+
+QUINTO. La Comisión de Creación de Nuevos Órganos adoptará las medidas necesarias para que el Juzgado Séptimo Federal Penal Especializado en Cateos, Arraigos e Intervención de Comunicaciones, concluya sus funciones sin asuntos pendientes a las veinticuatro horas del veinte de junio de dos mil dieciséis.
+
+Los asuntos del conocimiento del Juzgado Séptimo Federal Penal Especializado en Cateos, Arraigos e Intervención de Comunicaciones, que requieran atención en fecha posterior a la de conclusión de sus funciones, serán distribuidos equitativamente entre los seis juzgados penales especializados en Cateos, Arraigos e Intervención de Comunicaciones restantes.
+
+SEXTO. Las solicitudes presentadas por el Centro de Investigación y Seguridad Nacional y el Comisionado General de la Policía Federal y, en su caso, las acciones y diligencias que deriven de las mismas que estén pendientes a la entrada en vigor del presente Acuerdo o requieran atención posterior, deberán ser desahogadas conforme a la (sic) disposiciones con las que dieron inicio y por los órganos jurisdiccionales que conocieron de origen con excepción de lo dispuesto en el transitorio anterior.
