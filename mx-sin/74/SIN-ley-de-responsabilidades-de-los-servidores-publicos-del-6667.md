@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-responsabilidades-de-los-servidores-publicos-del-6667"
 country: "mx"
 rank: "ley"
 publication_date: "1985-11-08"
-last_updated: "2011-04-13"
+last_updated: "2016-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE SINALOA PUBLICADA EN EL P.O. EL 13 DE ABRIL DE 2011, LA PRESENTE DEROGACIÓN ENTRARÁ EN VIGOR A LOS TREINTA DÍAS SIGUIENTES A SU PUBLICACIÓN.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el viernes 8 de noviembre de 1985.
 
@@ -135,15 +135,19 @@ Artículo Noveno.- Las Dependencias y Organismos que a la entrada en vigor del p
 
 Artículo Décimo.- Las declaraciones patrimoniales de los servidores públicos de los Municipios que a la entrada en vigor del presente Decreto, tenga bajo su resguardo la Unidad de Trasparencia y Rendición de Cuentas del Estado, deberán ser entregados al Síndico Procurador correspondiente, mediante el procedimiento de entrega-recepción.
 
+P.O. 17 DE JUNIO DE 2016.
+
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1o.
 
 Son sujetos de esta Ley los servidores públicos del Estado y de los Municipios, independientemente de la jerarquía, denominación y origen del empleo, cargo o comisión.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 2o.
 
-Para los efectos de la aplicación de la presente Ley, se entiende por servidor público toda persona física que desempeñe un empleo, cargo o comisión en alguno de los tres Poderes del Estado, así como en los organismos e instituciones de la administración pública paraestatal cualesquiera que sea la naturaleza jurídica, estructura o denominación de éstos y quienes desempeñen empleo, cargo o comisión en los Ayuntamientos u organismos e instituciones municipales.
+Para los efectos de la aplicación de la presente Ley, se entenderá por servidor público lo dispuesto en el artículo 130 de la Constitución Política del Estado.
 
 ###### ARTICULO 3o.
 
@@ -181,9 +185,11 @@ III.- De Responsabilidades y Sanciones Administrativas.
 
 ### CAPITULO II. DE LOS SUJETOS, CAUSAS Y SANCIONES EN EL JUICIO POLITICO
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 7o.
 
-Son sujetos de Juicio Político, el Gobernador del Estado, los Diputados o la Legislación Local, los Magistrados del Supremo Tribunal de Justicia del Estado, los Secretarios de Despacho del Poder Ejecutivo, el Procurador General de Justicia y los Jueces de Primera Instancia, así como los titulares y directores o equivalentes de las entidades, instituciones u organismos que integren la administración pública paraestatal o paramunicipal, así como los Presidentes Municipales y Regidores de los Ayuntamientos.
+Son sujetos de Juicio Político, el Gobernador del Estado, los Diputados de la Legislatura, los Magistrados del Supremo Tribunal de Justicia del Estado, los Magistrados de las Salas de Circuito del Poder Judicial del Estado, los Secretarios de Despacho del Poder Ejecutivo, el Procurador General de Justicia y los Jueces de Primera Instancia, así como los Titulares y Directores o sus equivalentes, de las entidades, instituciones u organismos que integren la administración pública paraestatal o paramunicipal, así como los Presidentes Municipales, Regidores y Síndicos Procuradores de los Ayuntamientos y comisionados del organismo garante a que se refiere el artículo 109 Bis B de la Constitución Política del Estado de Sinaloa.
 
 ###### ARTICULO 8o.
 
@@ -199,13 +205,15 @@ II.- El manejo indebido de fondos y recursos del Estado o de la Federación; y,
 
 III.- Los ataques a la libertad de sufragio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2016)</small>
+
 ### CAPITULO III. DEL PROCEDIMIENTO EN EL JUICIO POLITICO
 
 ### CAPITULO IV. DE LA DECLARATORIA DE PROCEDENCIA POR LA COMISION DE DELITOS
 
 ###### ARTICULO 10.
 
-El juicio político procede en contra de los Secretarios de Despacho del Poder Ejecutivo, el Procurador General de Justicia y los Jueces de Primera Instancia, así como de los titulares y directores o equivalentes de las entidades, instituciones y organismos que integren la administración pública paraestatal y paramunicipal y los Presidentes Municipales y Regidores de los Ayuntamientos, por las causas señaladas en el artículo anterior y además por las siguientes:
+El juicio político procede en contra de los Secretarios de Despacho del Poder Ejecutivo, el Procurador General de Justicia y los Jueces de Primera Instancia, así como de los titulares y directores o equivalentes de las entidades, instituciones u organismos que integren la administración pública paraestatal y paramunicipal, los Presidentes Municipales, Regidores y Síndicos Procuradores de los Ayuntamientos así como los comisionados del organismo garante a que se refiere el artículo 109 Bis B de la Constitución Política del Estado de Sinaloa, por las causas señaladas en el artículo anterior y además por las siguientes:
 
 I.- Las violaciones graves y sistemáticas a las garantías individuales o sociales;
 
@@ -243,11 +251,13 @@ III.- Firma o huella digital del denunciante.
 
 A las denuncias anónimas no se les dará curso alguno.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 15.
 
-La denuncia deberá ser presentada ante el Oficial Mayor del Congreso del Estado y ratificada dentro de los tres días hábiles siguientes:
+La denuncia deberá ser presentada ante la Secretaría General del Congreso del Estado y ratificada dentro de los tres días hábiles siguientes.
 
-Una vez formado el expediente se remitirá al Presidente del Congreso, quien lo turnará a la Comisión de Puntos Constituciones (sic) y Gobernación para que después de analizarlo dictamine si la conducta atribuida encuadra dentro de las causales establecidas para el Juicio Político, si el denunciado está comprendido entre los servidores públicos señalados en el artículo 7o., y si la denuncia amerita el inicio del procedimiento. En este último supuesto, se turnarán al seno del Congreso el dictamen y demás constancias. En caso negativo, el Presidente de dicha Comisión declarará la improcedencia del Juicio Político y mandará archivar el expediente como asunto concluído.
+Una vez formado el expediente se remitirá al Presidente del Congreso, quien lo turnará a la Comisión de Puntos Constitucionales y Gobernación para que después de analizarlo dictamine si la conducta atribuida encuadra dentro de las causales establecidas para el Juicio Político, si el denunciado está comprendido entre los servidores públicos señalados en el Artículo 7o., y si la denuncia amerita el inicio del procedimiento. En este último supuesto, se turnarán al seno del Congreso el dictamen y demás constancias. En caso negativo, el Presidente de dicha Comisión declarará la improcedencia del Juicio Político y mandará archivar el expediente como asunto concluido.
 
 ###### ARTICULO 16.
 
@@ -361,17 +371,25 @@ Todo servidor público es penalmente responsable de los delitos que cometa y su 
 
 Tratándose de delitos que se imputen a los servidores públicos a que se refiere el párrafo segundo del artículo 135 de la Constitución Política del Estado, se requiere declaratoria previa del Congreso Local erigido en Jurado de Acusación, para resolver sobre la subsistencia del fuero constitucional cuya remoción se solicita y de que ha lugar a proceder penalmente en contra del inculpado.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 34.
 
-La denuncia o querella contra alguno de los servidores públicos mencionados en el artículo anterior, se presentará ante el Procurador General de Justicia del Estado, quien mandará practicar las diligencias necesarias para la integración de la averiguación previa correspondiente.
+La denuncia o querella contra alguno de los servidores públicos mencionados en el artículo anterior, se presentará ante el Procurador General de Justicia del Estado, quien mandará practicar las diligencias necesarias para la integración de la investigación correspondiente.
 
-En el supuesto de que la denuncia o querella se enderece en contra del Procurador General de Justicia, ésta se presentará ante el Gobernador del Estado, quien designará a un Agente del Ministerio Público especial para el solo efecto de que integre la respectiva averiguación previa.
+En el supuesto de que la denuncia o querella se enderece en contra del Procurador General de Justicia, ésta se presentará ante el Gobernador del Estado, quien designará a un Agente del Ministerio Público especial, para el solo efecto de que integre la investigación.
 
-En ambos casos la averiguación previa se sustanciará conforme a lo establecido en el Código de Procedimientos Penales para el Estado.
+En ambos casos la investigación se sustanciará conforme a lo establecido en el Código Nacional de Procedimientos Penales.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 35.
 
-Concluida la averiguación previa y satisfechos los requisitos para el ejercicio de la acción penal, se remitirá al Congreso del Estado, quien lo turnará a la Comisión Instructora.
+Concluida la investigación y satisfechos los requisitos para el ejercicio de la acción penal, se remitirá al Congreso del Estado, quien lo turnará a la Comisión Instructora.
 
 ###### ARTICULO 36.
 
@@ -709,10 +727,22 @@ II.- Auxilio de la fuerza pública.
 
 Los puntos resolutivos de las Declaratorias de Procedencia por la Comisión de Delitos y las sentencias definitivas que se dicten en los juicios políticos se remitirán al Ejecutivo del Estado, para que sean publicadas en el Periódico Oficial "El Estado de Sinaloa".
 
-Así mismo, de toda resolución definitiva que se dicte en los procedimientos previstos en esta Ley, se enviará copia al expediente personal del servidor públicos (sic).
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2016)</small>
+
+Así mismo, de toda resolución definitiva que se dicte en los procedimientos previstos en esta Ley, se enviará copia al expediente personal del servidor público.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 94.
 
-En todo lo no previsto por esta Ley se observarán, en lo conducente, las disposiciones de los Códigos Penal y de Procedimientos Penales para el Estado.
+En todo lo no previsto por esta Ley se observarán, en lo conducente, las disposiciones de los Códigos Penal para el Estado y Nacional de Procedimientos Penales.
 
 TRANSITORIOS:
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 560 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 2, 7, 10, PRIMER PÁRRAFO, 15, 34, 35, 93, SEGUNDO PÁRRAFO Y 94 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Las reformas a los artículos 34, 35 y 94 entrarán en vigor de conformidad con la gradualidad establecida en el Decreto número 177, publicado en el Periódico Oficial "El Estado de Sinaloa" No. 092 del jueves 31 de julio de 2014, Edición Extraordinaria, que declara adoptado en el Estado de Sinaloa el Sistema Procesal Penal Acusatorio y Oral y el inicio de vigencia gradual del Código Nacional de Procedimientos Penales.
