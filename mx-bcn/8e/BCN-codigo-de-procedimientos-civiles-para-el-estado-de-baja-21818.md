@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2016-04-08"
+last_updated: "2016-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2016.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -395,19 +395,29 @@ ART. 45.- Por los que no se hallen en el caso del artículo anterior, comparecer
 
 En los casos de las personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho, a falta o por impedimento de los padres, el Juez, previa opinión del Sistema para el Desarrollo Integral de la Familia, proveerá el nombramiento de Tutor Especial para un juicio determinado.
 
-(REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2016)</small>
 
 ART. 46.- Los interesados y sus representantes legítimos podrán comparecer en juicio por sí o hacerse representar o patrocinar por uno o más abogados procuradores. La intervención de abogados o procuradores para la asistencia técnica de las partes podrá llevarse a cabo como patronos de los interesados, o como mandatarios, en los términos del mandato judicial respectivo; observándose para tales efectos, las siguientes reglas:
+
+(REFORMADA, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADA, P.O. 26 DE MAYO DE 1995)
 
 I.- Los abogados patronos y los procuradores, por el sólo hecho de su designación, podrán llevar a cabo, directamente en beneficio de la parte que los designe, todos los actos procesales que correspondan a dicha parte, excepto aquéllos que impliquen disposición del derecho de litigio, los enumerados en el Artículo 2461 del Código Civil y los que conforme a la Ley estén reservados personalmente a los interesados. La designación de patronos o de procuradores se hará por escrito dirigido al Juez, o apud-acta, sin necesidad de ratificación.
 
 En el escrito o acta respectivos, el que haga la designación puede limitar o ampliar las facultades que correspondan al abogado o patrono o al procurador, de acuerdo con el párrafo anterior;
 
+(REFORMADA, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADA, P.O. 26 DE MAYO DE 1995)
+
 II.- Las partes podrán revocar en cualquier tiempo la designación de abogados patronos y de procuradores y los poderes que les tuvieren otorgados, y, a su vez, los abogados patronos y los procuradores tendrán siempre el derecho de renunciar al patrocinio o mandato, debiendo continuar la defensa hasta la designación de sustitutos o notificación a las partes.
+
+(REFORMADA, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADA, P.O. 26 DE MAYO DE 1995)
 
 III.- Cuando los abogados patronos o los procuradores actúen como mandatarios, tendrán las facultades que les asignen de una manera expresa las partes en el mandato. El mandato en procuración para un juicio determinado podrá otorgarse en la forma prescrita por el Código Civil. Las partes podrán también otorgar el mandato, mediante escrito que dirijan al Juez, en el que fijen las facultades que deseen conferirles, que será admitido sin necesidad de ratificación. También podrán otorgar el poder apud-acta en el expediente respectivo;
 
+(REFORMADA, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADA, P.O. 26 DE MAYO DE 1995)
+
 IV.- Los honorarios de los abogados patronos y de los procuradores podrán regularse mediante convenio celebrado con la parte que los designe. A falta de convenio, se fijarán de acuerdo con el Arancel. Los abogados patronos y los procuradores podrán reclamar de las partes que los designen, el pago de sus honorarios en forma incidental, en el juicio respectivo;
+
+(REFORMADA, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADA, P.O. 26 DE MAYO DE 1995)
 
 V.- Será materia de responsabilidad civil de los abogados patronos y de los procuradores abandonar la defensa de un cliente o negocio sin motivo justificado y causando un daño. También incurrirán en responsabilidad civil hacia la parte que representen cuando le causen un daño o perjuicio por negligencia, actitud maliciosa o culpa grave. Esta responsabilidad podrá exigirse en forma incidental en el juicio correspondiente.
 
@@ -415,7 +425,13 @@ Los abogados patronos y los procuradores que designe cada parte podrán actuar s
 
 Lo dispuesto en esta Fracción es independiente de la responsabilidad penal en que incurre el abogado patrono o procurador, al actualizarse los supuestos a que se refiere el Código Penal para el Estado de Baja California; y
 
+(REFORMADA, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADA, P.O. 26 DE MAYO DE 1995)
+
 VI.- Sólo podrán ser designados abogados patronos o procuradores las personas que tengan título expedido por autoridad competente para ejercer la profesión de Licenciado en Derecho, debidamente registrado en el Departamento de Profesiones del Estado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE JUNIO DE 2016)</small>
+
+VII.- Las partes en los términos señalados en los párrafos anteriores, podrán solicitar la autorización para sí o para aquellas personas que designen y que se encuentren previamente autorizadas, la utilización del expediente electrónico, a fin de efectuar y recibir promociones, recibir notificaciones, así como anexar documentos digitalizados y aportar medios de prueba por dicho medio, todos debiendo estar siempre signados con la firma electrónica avanzada respectiva, de quien promueve o acompaña los documentos.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
@@ -529,9 +545,9 @@ ART. 65.- Las copias simples de los documentos que se presenten, confrontadas y 
 
 Los interesados pueden presentar una copia simple de sus escritos, a fin de que se les devuelva con la anotación de la fecha y hora de presentación, sellada y firmada por el empleado que la reciba en el tribunal.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2016)</small>
 
-ART. 66.- El Secretario hará constar el día y la hora en que se presente un escrito y dará cuenta con él, a más tardar, dentro de veinticuatro horas, bajo la pena de multa, equivalente a un salario mínimo, sin perjuicio de las demás que merezca conforme a las leyes.
+ART. 66.- El Secretario hará constar el día y la hora en que se presente cualesquier promoción por escrito o vía electrónica y dará cuenta con él, a más tardar, dentro de veinticuatro horas, bajo la pena de multa, equivalente a un salario mínimo, sin perjuicio de las demás que merezca conforme a las leyes.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -547,11 +563,9 @@ La remuneración del notario no se regulará en las costas, sino cuando fuere de
 
 ART. 69.- En ningún caso se entregarán los autos a las partes para que los lleven fuera del tribunal. Las frases "dar vista" o "correr traslado" sólo significan que los autos quedan en la Secretaría para que se impongan de ellos los interesados, para que se les entreguen copias, para tomar apuntes, alegar, o glosar cuentas. Las disposiciones de este artículo comprenden al Ministerio Público.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2016)</small>
 
-ART. 70.- Los autos que se perdieren serán repuestos a costa del que fuere responsable de la pérdida, quien además pagará los daños y perjuicios, quedando sujeto a las disposiciones del Código Penal. La reposición se substanciará sumariamente; y sin necesidad de acuerdo judicial, el secretario hará constar desde luego la existencia anterior y falta posterior del expediente.
-
-Quedan los jueces facultados para investigar de oficio la existencia de las piezas de autos desaparecidos, valiéndose para ello de todos los medios que no sean contrarios a la moral o al derecho.
+ART. 70.- Los autos que se perdieren serán repuestos a costa del que fuere responsable de la pérdida, quien además pagará los daños y perjuicios, quedando sujeto a las disposiciones del Código Penal. La reposición se substanciará sumariamente; y sin necesidad de acuerdo judicial, el secretario hará constar desde luego la existencia anterior y falta posterior del expediente. Quedan los jueces facultados para investigar de oficio la existencia de las piezas de autos desaparecidos, valiéndose para ello de todos los medios que no sean contrarios a la moral o al derecho, incluyendo los registros que consten en el expediente electrónico.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -623,9 +637,9 @@ V.- Decisiones que resuelven un incidente promovido antes o después de dictada 
 
 VI.- Sentencias definitivas.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2016)</small>
 
-ART. 80.- Todas las resoluciones de primera y segunda instancia serán autorizadas por jueces, secretarios y magistrados, con firma entera.
+ART. 80.- Todas las resoluciones de primera y segunda instancia serán autorizadas por jueces, secretarios y magistrados, con firma entera o electrónica según sea el caso.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -709,9 +723,9 @@ Si no los tuviere a su disposición, designará el archivo o lugar en que se enc
 
 Se entenderá que el actor tiene a su disposición los documentos y deberá acompañarlos precisamente a la demanda, siempre que existan los originales en un protocolo o archivo público del que pueda pedir y obtener copias autorizadas de ellos.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2016)</small>
 
-ART. 97.- La presentación de documentos de que habla el artículo anterior cuando sean públicos, podrá hacerse por copia simple, si el interesado manifestare que carece de otra fehaciente; pero no producirá aquélla ningún efecto, si durante el término de prueba, o en la audiencia respectiva, no se presentare una copia del documento con los requisitos necesarios para que haga fé en juicio.
+ART. 97.- La presentación de documentos de que habla el artículo anterior cuando sean públicos, podrá hacerse por copia simple o vía electrónica, si el interesado manifestare que carece de otra fehaciente; pero no producirá aquélla ningún efecto, si durante el término de prueba, o en la audiencia respectiva, no se presentare una copia del documento con los requisitos necesarios para que haga fe en juicio.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -735,6 +749,18 @@ ART. 101.- Cuando la impugnación del documento nuevo se refiera a su admisión,
 
 ART. 102.- Las copias de los escritos y documentos se entregarán a la parte o partes contrarias, al notificarles la providencia que haya recaído en el escrito respectivo, o al hacerles la citación o emplazamiento que proceda.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE JUNIO DE 2016)</small>
+
+Con excepción de la demanda inicial y su contestación, las partes podrán presentar promociones a través del expediente electrónico, a través de la página oficial autorizada para tales efectos, pudiendo en todo momento regresar a la vía escrita.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE JUNIO DE 2016)</small>
+
+Cada actuación que se lleve a cabo en el expediente electrónico, deberá contener además de la firma electrónica, el juzgado, las partes, número de expediente, y los datos que permitan la identificación del proceso y actuación que se lleve a cabo, las cuales se tendrán hechas al instante en el día y hora que corresponda, agregándose a autos con su respectivo sello electrónico que se genere con su admisión, la que se tendrá como legalmente practicada y surtirá los efectos legales correspondientes en términos del Capítulo V del presente código, aquellas que se presenten en días y horas inhábiles, se tendrán como si hubieren sido recibidas al día y hora hábil siguiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE JUNIO DE 2016)</small>
+
+La autorización electrónica y lo relativo al envió de documentos dentro del expediente electrónico, que se efectúen a través de la página web especializada para tales efectos del Poder Judicial, se deberá ajustar a los lineamientos preestablecidos tanto en la Ley Orgánica del Poder Judicial del Estado de Baja California, así como en el Reglamento de operación emitido por el Consejo de la Judicatura del Estado de Baja California.
+
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
 ART. 103.- La omisión de las copias no será motivo para dejar de admitir los escritos y documentos que se presenten en tiempo oportuno. En este caso, el Juez señalará, sin ulterior recurso, un término que no excederá de tres días para exhibir las copias, y si no se presentasen en dicho plazo, las hará el secretario a costa de la parte que las omitió.
@@ -745,9 +771,9 @@ Se exceptúan de esta disposición los escritos de demanda principal o incidenta
 
 ### CAPITULO IV. De los exhortos y despachos
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2016)</small>
 
-ART. 104.- Los exhortos y despachos que reciban las autoridades judiciales del Estado de Baja California, se proveerán dentro de las veinticuatro horas siguientes a su recepción, y se diligenciarán dentro de los cinco días siguientes, a no ser que lo que haya de practicarse exija, necesariamente, mayor tiempo.
+ART. 104.- Los exhortos y despachos que reciban físicamente o vía electrónica las autoridades judiciales del Estado de Baja California, se proveerán dentro de las veinticuatro horas siguientes a su recepción, y se diligenciarán dentro de los cinco días siguientes, a no ser que lo que haya de practicarse exija, necesariamente, mayor tiempo.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -777,35 +803,15 @@ ART. 109.- Los Tribunales deberán acordar de conformidad que los exhortos y des
 
 ### CAPITULO V. De las notificaciones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2016)</small>
 
-ART. 110.- Las notificaciones, citaciones y emplazamientos se efectuarán dentro de los tres días siguientes al en que se dicten las resoluciones que las prevengan, cuando el Juez o la ley no dispusieren otra cosa. Los infractores de esta disposición serán destituidos de su cargo cuando reincidan por más de tres ocasiones, sin responsabilidad para el Tribunal Superior de Justicia previa audiencia de defensa ante el Juez o Magistrado correspondiente.
+ART. 110.- Las notificaciones, citaciones y emplazamientos se efectuarán dentro de los tres días siguientes al en que se dicten las resoluciones que las prevengan, inclusive las de manera electrónica, cuando el Juez o la ley no dispusieren otra cosa. Los infractores de esta disposición serán destituidos de su cargo cuando reincidan por más de tres ocasiones, sin responsabilidad para el Tribunal Superior de Justicia previa audiencia de defensa ante el Juez o Magistrado correspondiente.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
+Para los anteriores efectos, se llevará un registro diario de los expedientes que se les entreguen, debiendo recibirlos bajo su firma y directamente del secretario de acuerdos o por vía electrónica, a quien se le devolverán dentro del plazo señalado.
 
-Para los anteriores efectos, se llevará un registro diario de los expedientes que se les entreguen, debiendo recibirlos bajo su firma y directamente del secretario de acuerdos, a quien se le devolverán dentro del plazo señalado.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
-
-Salvo las diligencias, citaciones y emplazamientos que requieran intervención de alguna de las partes, las demás se practicarán de oficio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-ART. 111.- Las notificaciones se podrán hacer:
-
-I.- Personalmente, o por cedulas;
-
-II.- Por el Boletín Judicial, en los términos de los artículos 123 y 125;
-
-III.- Por edictos;
-
-IV.- Por correo;
-
-V.- Por telégrafo;
-
-VI.- Por medios electrónicos. La forma en que se lleven a cabo las notificaciones anteriores, será de acuerdo con lo que se dispone en los artículos siguientes.
+ART. 111.- Las notificaciones se harán personalmente, por cédula, por el Boletín Judicial, o por vía electrónica, en los términos de los artículos 123 y 125, por edictos, por correo y por telégrafo, de acuerdo con lo que se dispone en los artículos siguientes.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2115,9 +2121,9 @@ ART. 288.- La prueba de confesión se ofrece presentando el pliego que contenga 
 
 ART. 289.- La prueba pericial procede cuando sean necesarios conocimientos especiales en alguna ciencia, arte o industria o la mande la ley, y se ofrecerá expresando los puntos sobre los que versará, sin lo cual no será admitida, y si se quiere, las cuestiones que deban resolver los peritos.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2016)</small>
 
-ART. 290.- Los documentos deberán ser presentados al ofrecerse la prueba documental. Después de este período no podrán admitirse sino los que dentro del término hubieren sido pedidos con anterioridad y no fueren remitidos al juzgado, sino hasta después; y los documentos justificativos de hechos ocurridos con posterioridad, o de los anteriores cuya existencia ignore el que lo presente, aseverándolo así bajo protesta de decir verdad.
+ART. 290.- Los documentos deberán ser presentados por escrito o por vía electrónica al ofrecerse la prueba documental. Después de este período no podrán admitirse sino los que dentro del término hubieren sido pedidos con anterioridad y no fueren remitidos al juzgado, sino hasta después; y los documentos justificativos de hechos ocurridos con posterioridad, o de los anteriores cuya existencia ignore el que lo presente, aseverándolo así bajo protesta de decir verdad.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -2961,7 +2967,7 @@ ART. 413.- El dictamen de peritos y la prueba testimonial serán valorizados seg
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 414.- Las fotografías, copias fotostáticas y demás pruebas científicas quedan a la prudente calificación del juez. Las copias fotostáticas sólo harán fe cuando estén certificadas.
+ART. 414.- Las fotografías, copias fotostáticas y demás pruebas científicas quedan a la prudente calificación del Juez. Las copias fotostáticas sólo harán fe cuando estén certificadas.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
@@ -7128,3 +7134,9 @@ P.O. 8 DE ABRIL DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 472 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LA FRACCIÓN VIII DEL ARTÍCULO 285, ASÍ COMO LA REFORMA AL PÁRRAFO PRIMERO, SEGUNDO Y LA ADICIÓN DE UN PÁRRAFO TERCERO AL ARTÍCULO 369 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 494 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN O DEROGAN PORCIONES NORMATIVAS DE LOS ARTÍCULOS 53, 81 TER, 90 QUATER, 95 BIS; 197-BIS-2; 197-BIS-3, 197-BIS-5, 244 Y 245 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
