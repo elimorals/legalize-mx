@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-benito-41371
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-11"
-last_updated: "2011-07-01"
+last_updated: "2016-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "NLE"
 
 REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE BENITO JUÁREZ, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2011.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE JUÁREZ, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 17 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS 60 DÍAS NATURALES CONTADOS A PARTIR DEL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE NUEVO LEÓN.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 11 de octubre de 2004.
 
@@ -2241,3 +2243,29 @@ P.O. 1 DE JULIO DE 2011.
 PRIMERO.- Las reformas y adiciones a éste Reglamento, entrarán en vigor el día 05-cinco de Julio del año 2011 -dos mil once.
 
 SEGUNDO.- Se mande publicar en el Periódico Oficial del Estado y en la Gaceta Municipal para los efectos jurídicos conducentes, y se informe a la población sobre el contenido de estas disposiciones.
+
+P.O. 17 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE JUÁREZ, NUEVO LEÓN".]
+
+PRIMERO.- El presente Reglamento entrará en vigor a los 60-sesenta días naturales contados a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- A partir de la entrada en vigor de este Reglamento, se Abroga el Reglamento de Tránsito y Vialidad del Municipio de Juárez, Nuevo León, publicado el 11 de octubre de 2004.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan al presente Reglamento.
+
+CUARTO.- La obligación contenida en el Artículo 49 será aplicable 60-sesenta días naturales, a partir de la entrada en vigor del presente Reglamento.
+
+QUINTO.- El Municipio que así lo determine, contará con 120-ciento veinte días naturales a partir de la entrada en vigor del presente Reglamento, para llevar a cabo los estudios técnicos que permitan determinar el establecimiento de los programas instituidos en los Artículos 125, 126 y 127 del presente Reglamento.
+
+SEXTO.- Se instruye a la Secretaría de Seguridad Pública, Tránsito y Vialidad del Municipio de Juárez, Nuevo León y con el apoyo de las dependencias municipales que correspondan, a que lleve a cabo una campaña de difusión que tenga por objeto dar a conocer lo ordenado en la Sección 5 del Capítulo III y en el Anexo 1, 2 y 3, en los siguientes términos:
+
+I. De Difusión Vial y de Promoción de Rutas: Que comprende toda actividad que a través de medios de comunicación, redes sociales, señalamientos informativos y restrictivos, así como otros medios de difusión, se lleve a cabo para informar a los conductores de vehículos de transporte de carga pesada sobre las nuevas disposiciones en la materia; asimismo se deberá informar a las Autoridades Federales y Estatales, Cámaras de la Industria, Comercio y Transporte, que forman parte de las actividades que sobre vehículos de transporte de carga pesada se llevan a cabo en el Área Metropolitana de Monterrey. Esta etapa tendrá una duración de 90-noventa días naturales contados a partir de la publicación en el Periódico Oficial del Estado de Nuevo León;
+
+II. Preventiva e Informativa: Que advierte la aplicación de amonestaciones a conductores infractores por un período de 60-sesenta días naturales contados a partir de la conclusión de la campaña de difusión vial y de promoción de rutas; durante la amonestación se continuará con la comunicación de lo ordenado en la presente norma, y,
+
+III. Correctiva: Una vez concluida la etapa Preventiva e Informativa y por espacio de 30-treinta días naturales, la aplicación de la multa tendrá un descuento único del 50%-cincuenta por ciento si ésta es pagada durante los 15-quince días naturales siguientes a la aplicación de dicha multa.
+
+SÉPTIMO.- La aplicación de las sanciones por faltas o violaciones al presente Reglamento, contenidas en el Artículo 164, fracción V, surtirá sus efectos sin concesión, a partir de la conclusión de la campaña preventiva e informativa señalada en el Artículo Sexto Transitorio.
+
+OCTAVO.- Gírese el presente al Presidente Municipal para que instruya al Secretario de (sic) Ayuntamiento para que remita su publicación en el Periódico Oficial del Estado de Nuevo León, en la Gaceta Municipal, y en el sitio Oficial de internet del Municipio.
