@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-962
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-15"
-last_updated: "2016-03-15"
+last_updated: "2016-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2016.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 15 de octubre de 2013.
 
@@ -115,17 +115,7 @@ g) Dirección de Análisis de Información.
 
 II. Subsecretaría de Servicios a la Comunidad:
 
-a) Dirección General de Transporte:
-
-a.1) Dirección de Desarrollo del Transporte;
-
-a.2) Dirección Jurídica de Transporte;
-
-a.3) Dirección de Inspección del Transporte;
-
-a.4) Dirección de Formación y Capacitación de Transporte; y
-
-a.5) Dirección de Gestión Administrativa de Transporte.
+a) (DEROGADO, P.O. 17 DE JUNIO DE 2016)
 
 b) Dirección General de Defensoría Pública:
 
@@ -201,9 +191,13 @@ d) Dirección de Gestión de Proyectos y Procesamiento de Información del Traba
 
 V. Los órganos desconcentrados siguientes y aquellos que le correspondan por disposición legal, reglamentaria o determinación del Gobernador del Estado:
 
-a) Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato; y
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2016)</small>
 
-b) Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
+a) Instituto de Movilidad del Estado de Guanajuato;
+
+b) Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato; y
+
+c) Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
 
 Ejercicio de las facultades de los titulares de las unidades administrativas
 
@@ -1191,7 +1185,7 @@ Unidades adscritas a la Subsecretaría de Servicios a la Comunidad
 
 La Subsecretaría de Servicios a la Comunidad debe planear, coordinar, supervisar y evaluar el trabajo de las siguientes direcciones generales:
 
-I. Dirección General de Transporte;
+I. (DEROGADA, P.O. 17 DE JUNIO DE 2016)
 
 II. Dirección General de Defensoría Pública;
 
@@ -1205,9 +1199,9 @@ Facultades de la Subsecretaría de Servicios a la Comunidad
 
 La Subsecretaría de Servicios a la Comunidad tiene, además de las facultades genéricas, las siguientes:
 
-I. Coordinar y supervisar la prestación del servicio público y especial de transporte de competencia estatal;
+I. (DEROGADA, P.O. 17 DE JUNIO DE 2016)
 
-II. Ejercer las atribuciones que correspondan a la Secretaría en materia de transporte y regulación de los requisitos de tránsito;
+II. (DEROGADA, P.O. 17 DE JUNIO DE 2016)
 
 III. Dictar las medidas necesarias para la adecuada prestación de los servicios de la defensoría pública penal, de la defensoría de oficio especializada para adolescentes, de la representación gratuita en materia civil, así como de la defensoría administrativa del servidor público, en los términos de la legislación de la materia;
 
@@ -1221,271 +1215,43 @@ VI. Dictar las medidas necesarias para el adecuado funcionamiento del Registro C
 
 #### Sección Primera. Integración y Facultades
 
-Unidades adscritas a la Dirección General de Transporte
-
 ###### Artículo 42.
 
-La Dirección General de Transporte debe planear, coordinar, supervisar y evaluar el trabajo de las siguientes direcciones de área:
-
-I. Dirección de Desarrollo del Transporte;
-
-II. Dirección Jurídica de Transporte;
-
-III. Dirección de Inspección del Transporte;
-
-IV. Dirección de Formación y Capacitación de Transporte; y
-
-V. Dirección de Gestión Administrativa de Transporte.
-
-La Dirección General de Transporte, en función de las necesidades del servicio y atendiendo a la disponibilidad presupuestal, contará con el número de oficinas de transporte y regulación de los requisitos de tránsito, que se requieran.
-
-Facultades de la Dirección General de Transporte
+(DEROGADO, P.O. 17 DE JUNIO DE 2016)
 
 ###### Artículo 43.
 
-La Dirección General de Transporte tiene, además de las facultades genéricas, las siguientes:
-
-I. Elaborar las políticas y programas del servicio público y especial de transporte de competencia estatal;
-
-II. Autorizar la realización o contratación de estudios técnicos necesarios para la operación y mejoramiento del servicio público y especial de transporte de competencia estatal;
-
-III. Emitir las normas técnicas para el establecimiento de las tarifas del servicio público de transporte, así como para el funcionamiento y operación del servicio público y especial de transporte de competencia estatal;
-
-IV. Autorizar la colocación de publicidad en las unidades vehiculares del servicio público y especial de transporte de competencia estatal;
-
-V. Resolver los procedimientos jurídico-administrativos que establece la Ley de Tránsito y Transporte del Estado de Guanajuato y sus reglamentos, en el ámbito de su competencia;
-
-VI. Autorizar la realización de campañas de revisión documental a los concesionarios y permisionarios del servicio público y especial de transporte de competencia estatal;
-
-VII. Establecer los requisitos para el tránsito en las carreteras, caminos y áreas de jurisdicción estatal, así como expedir los documentos correspondientes;
-
-VIII. Convenir con la Secretaría de Seguridad Pública los términos para integrar y mantener actualizado el Registro Estatal de Antecedentes de Tránsito;
-
-IX. Revisar la estadística que le presenten sus unidades administrativas, así como aplicar las medidas preventivas y correctivas que procedan;
-
-X. Colaborar, en el ámbito de su competencia, con otras autoridades estatales, federales y municipales en la planeación y ejecución de acciones, campañas y programas conjuntos;
-
-XI. Aprobar el cambio de adscripción del personal a su cargo informando de ello a la Dirección General de Administración; y
-
-XII. Emitir las políticas, planes y programas en materia de capacitación, actualización y profesionalización del personal a su cargo, así como para la selección, ingreso, inducción, formación y especialización de los inspectores del transporte.
+(DEROGADO, P.O. 17 DE JUNIO DE 2016)
 
 #### Sección Segunda. Dirección de Desarrollo del Transporte
 
-Facultades de la Dirección de Desarrollo del Transporte
-
 ###### Artículo 44.
 
-La Dirección de Desarrollo del Transporte tiene las siguientes facultades:
-
-I. Formular y proponer al Director General de Transporte la realización o contratación de estudios técnicos necesarios para la operación y mejoramiento del servicio público y especial de transporte de competencia estatal;
-
-II. Prestar los servicios de:
-
-a) Autorización de alta y baja de unidades vehiculares del servicio público de transporte de competencia estatal;
-
-b) Otorgamiento de permisos eventuales del servicio público de transporte de competencia estatal; y
-
-c) Otorgamiento de permisos provisionales para circular sin placas a los concesionarios, cuando justifiquen que se encuentran impedidos para culminar el trámite de alta de un vehículo para la prestación del servicio público y especial de transporte de competencia estatal.
-
-III. Prestar, por sí o a través de las oficinas de transporte y regulación de los requisitos de tránsito, los siguientes servicios:
-
-a) Otorgamiento de permisos del servicio especial de transporte;
-
-b) Autorización de depósito de vehículos;
-
-c) Autorización de prórrogas de antigüedad de vehículos del servicio público y especial de transporte de competencia estatal;
-
-d) Expedición de permisos extraordinarios de servicio público de transporte de competencia estatal;
-
-e) Autorización de sitios para el servicio público de alquiler sin ruta fija;
-
-f) Expedición de permisos provisionales para circular sin placas a vehículos particulares;
-
-g) Expedición de permisos provisionales para la identificación de vehículos de personas con discapacidad de índole temporal;
-
-h) Expedición de licencias y permisos para conducir;
-
-i) Liberación de vehículos del servicio público y especial de transporte de competencia estatal, detenidos por infracciones a la normatividad de transporte; y
-
-j) Expedición de constancia de no portación de colores oficiales y número económico, de los vehículos del servicio público y especial de transporte de competencia estatal respecto de los que se solicite su baja.
-
-IV. Formular y proponer al Director General de Transporte las políticas y programas de transporte público y especial de competencia estatal;
-
-V. Proponer al Director General de Transporte las normas técnicas para el establecimiento de las tarifas, así como para el funcionamiento y operación del servicio público de transporte de competencia estatal;
-
-VI. Establecer los lineamientos y especificaciones para la colocación de publicidad en los vehículos del servicio público y especial de transporte;
-
-VII. Analizar, evaluar y canalizar a la Dirección Jurídica de Transporte, las incidencias derivadas del incumplimiento a las disposiciones legales en materia de transporte, así como de las condiciones establecidas en las concesiones o permisos correspondientes, para la instauración, en su caso, de los procedimientos administrativos que procedan;
-
-VIII. Coordinar y supervisar la organización y funcionamiento de las oficinas de transporte y regulación de los requisitos de tránsito;
-
-IX. Organizar y promover la investigación y el desarrollo tecnológico en materia de transporte;
-
-X. Promover la organización empresarial de los prestadores del servicio público y especial de transporte de competencia estatal;
-
-XI. Promover la coordinación entre los prestadores de servicios de las diversas modalidades de transporte para establecer sistemas integrales;
-
-XII. Registrar y dar seguimiento a los convenios que los concesionarios o permisionarios celebren para la cobertura en la prestación de los servicios de transporte;
-
-XIII. Coadyuvar con las demás unidades administrativas de la Dirección General de Transporte y con la Secretaria de Finanzas, Inversión y Administración, en el registro vehicular de concesionarios y permisionarios del servicio público de transporte de competencia estatal;
-
-XIV. Coadyuvar con la Dirección Jurídica de Transporte en las campañas de revisión documental a los concesionarios y permisionarios del servicio público de transporte de competencia estatal, con la finalidad de mantener actualizados los expedientes en los términos de la Ley de Tránsito y Transporte del Estado de Guanajuato;
-
-XV. Coadyuvar con la Dirección Jurídica de Transporte en la realización de las actividades técnicas que se requieran en los procedimientos jurídico-administrativos que la misma lleve a cabo;
-
-XVI. Coordinar, organizar y evaluar el funcionamiento de la Ventanilla Única de Atención a Usuarios;
-
-XVII. Establecer los lineamientos y especificaciones para la revista físico mecánica de los vehículos del servicio público y especial de transporte de competencia estatal, así como programar, coordinar y evaluar su realización; y
-
-XVIII. Las demás que le confiera el Director General de Transporte.
+(DEROGADO, P.O. 17 DE JUNIO DE 2016)
 
 #### Sección Tercera. Dirección Jurídica de Transporte
 
-Facultades de la Dirección Jurídica de Transporte
-
 ###### Artículo 45.
 
-La Dirección Jurídica de Transporte tiene las siguientes facultades:
-
-I. Asesorar al Director General de Transporte, así como a las unidades administrativas adscritas a éste;
-
-II. Instaurar y substanciar los procedimientos jurídico-administrativos, proponiendo al Director General de Transporte los dictámenes y proyectos de resolución que correspondan, sobre:
-
-a) Privación, cancelación o suspensión de los derechos derivados de la licencia o permiso para conducir, por infracción a la Ley de Tránsito y Transporte del Estado de Guanajuato y sus reglamentos;
-
-b) Transmisión de derechos de la concesión del servicio público de transporte de competencia estatal;
-
-c) Suspensión de los derechos derivados de la concesión o permiso;
-
-d) Suspensión de los vehículos del servicio público y especial de transporte;
-
-e) Liberación de vehículos del servicio público y especial de transporte que sean puestos a su disposición;
-
-f) Recurso de inconformidad o queja;
-
-g) Extinción de la concesión o permiso;
-
-h) Rectificación de títulos concesión;
-
-i) Expedición de títulos concesión cuando exista resolución positiva;
-
-j) Regularización de expedientes;
-
-k) Autorización de prórroga de las concesiones;
-
-l) Otorgamiento, rescate o intervención de las concesiones y permisos;
-
-m) Revocación de concesiones y permisos; y
-
-n) Ampliación o modificación de ruta.
-
-III. Realizar los actos encaminados al cumplimiento de las resoluciones judiciales relativos a la privación o suspensión de los derechos derivados de la licencia o permiso para conducir;
-
-IV. Mantener actualizado y dar seguimiento al registro de organizaciones o asociaciones de concesionarios del servicio público y especial de transporte de competencia estatal;
-
-V. Realizar, previo acuerdo del Director General de Transporte, campañas de revisión documental a los concesionarios y permisionarios del servicio público y especial de transporte de competencia estatal, con la finalidad de mantener actualizados los expedientes en los términos de la Ley de Tránsito y Transporte del Estado de Guanajuato;
-
-VI. Revisar y en su caso aprobar el registro de los contratos de seguros, fideicomisos y fondos de garantía exigidos por la Ley de Tránsito y Transporte del Estado de Guanajuato para la prestación del servicio público y especial de transporte;
-
-VII. Organizar, coordinar y evaluar el debido funcionamiento del Registro Público de Concesiones y Permisos del Transporte;
-
-VIII. Elaborar los convenios que sean necesarios para el buen funcionamiento de la Dirección General de Transporte y de sus unidades administrativas;
-
-IX. Ser el enlace de la Dirección General de Transporte con las demás áreas jurídicas de las diversas dependencias y entidades federales, estatales y municipales;
-
-X. Analizar y proponer al Director General de Transporte las adecuaciones al marco normativo que rige a la Dirección General de Transporte;
-
-XI. Recibir, investigar y acordar sobre la procedencia de las quejas o denuncias que se presenten en contra de servidores públicos de la Dirección General de Transporte, y si de las mismas se desprenden elementos que pudieran dar lugar a responsabilidad administrativa, se remitirán al Secretario, por conducto del Subsecretario de Servicios a la Comunidad, para que, en su caso, ordene a la Dirección de lo Contencioso y Procedimientos Administrativos de la Dirección General de Asuntos Jurídicos, la instauración y sustanciación del procedimiento de responsabilidad administrativa; y
-
-XII. Las demás que le confiera el Director General de Transporte.
+(DEROGADO, P.O. 17 DE JUNIO DE 2016)
 
 #### Sección Cuarta. Dirección de Inspección del Transporte
 
-Facultades de la Dirección de Inspección del Transporte
-
 ###### Artículo 46.
 
-La Dirección de Inspección del Transporte tiene las siguientes facultades:
-
-I. Elaborar los planes y programas operativos en materia de inspección del servicio público y especial de transporte de competencia estatal;
-
-II. Dictar las medidas necesarias para mantener la disciplina de los inspectores del transporte;
-
-III. Vigilar el cumplimiento de la Ley de Tránsito y Transporte del Estado de Guanajuato y su Reglamento de Transporte, así como de las condiciones especificadas en las concesiones o permisos respectivos;
-
-IV. Analizar, evaluar y canalizar a la Dirección Jurídica de Transporte, las incidencias derivadas del incumplimiento a las disposiciones legales en materia de transporte, así como de las condiciones establecidas en las concesiones o permisos correspondientes, para la instauración, en su caso, de los procedimientos administrativos que procedan;
-
-V. Realizar la inspección física y documental y de operación de los vehículos y servicios vinculados con el servicio público y especial de transporte de competencia estatal;
-
-VI. Supervisar la prestación del servicio público y especial de transporte de competencia estatal;
-
-VII. Imponer, por sí o a través de los jefes de oficinas de transporte y regulación de los requisitos de tránsito, las sanciones de multa y de retiro y aseguramiento de vehículos, aplicables por infracciones en materia de transporte de competencia estatal;
-
-VIII. Llevar la estadística que resulte del cumplimiento de sus facultades de vigilancia y sanción, y proponer al Director General de Transporte las medidas preventivas y correctivas que procedan;
-
-IX. Participar con las autoridades federales, estatales y municipales en la ejecución de acciones y programas conjuntos en las materias de su competencia;
-
-X. Acordar con el Director General de Transporte el cambio de adscripción de los inspectores del transporte a su cargo;
-
-XI. Ejercer en forma directa las atribuciones que la Ley de Tránsito y Transporte del Estado de Guanajuato y sus reglamentos confieran a los inspectores del transporte, cuando lo considere necesario; y
-
-XII. Las demás que le confiera el Director General de Transporte.
+(DEROGADO, P.O. 17 DE JUNIO DE 2016)
 
 #### Sección Quinta. Dirección de Formación y Capacitación de Transporte
 
-Facultades de la Dirección de Formación y Capacitación de Transporte
-
 ###### Artículo 47.
 
-La Dirección de Formación y Capacitación de Transporte tiene las siguientes facultades:
-
-I. Proponer al Director General de Transporte los programas de selección, inducción, formación, especialización y capacitación permanente de los inspectores del transporte, así como llevar a cabo su ejecución;
-
-II. Proponer, previo acuerdo del Director General de Transporte, las convocatorias, requisitos y evaluaciones para el ingreso del personal de inspección del transporte a la Dirección General de Transporte;
-
-III. Formular y proponer al Director General de Transporte los planes y programas educativos para la formación, capacitación, actualización y profesionalización del personal de la Dirección General de Transporte;
-
-IV. Proponer, al Director General de Transporte, los docentes e instructores que integrarán las plantillas de la Dirección de Formación y Capacitación de Transporte;
-
-V. Detectar, en coordinación con las áreas de la Dirección General de Transporte, las necesidades de capacitación específicas del personal, así como los programas que respondan a las mismas;
-
-VI. Tramitar, ante las autoridades competentes, los registros, autorizaciones y reconocimientos que se requieran respecto de los planes y programas de estudio que imparta;
-
-VII. Elaborar constancias y certificaciones de los programas de formación y capacitación impartidos;
-
-VIII. Impartir capacitación en materia de transporte a instancias públicas y privadas que así lo soliciten, previa suscripción del convenio respectivo por la Dirección General de Transporte;
-
-IX. Evaluar de manera permanente los conocimientos y habilidades del personal de la Dirección General de Transporte;
-
-X. Ser el enlace para gestionar acciones, programas o planes de capacitación ante las diferentes dependencias y entidades u organizaciones privadas que la puedan proporcionar, en las materias que requiera la Dirección General de Transporte para el ejercicio de sus facultades;
-
-XI. Supervisar el cumplimiento de los convenios celebrados con empresas u organismos capacitadores de operadores del servicio público y especial de transporte, así como la emisión de las constancias de capacitación por parte de los mismos, y llevar a cabo el trámite para la expedición del tarjetón de capacitación;
-
-XII. Formular y ejecutar los programas preventivos de educación y cultura vial, prevención de accidentes y conducción vehicular;
-
-XIII. Promover el diseño y ejecución de programas de participación ciudadana para la captación de propuestas orientadas a la formulación de programas y campañas de prevención de accidentes, seguridad, cultura vial y mejora del servicio público de transporte; y
-
-XIV. Las demás que le confiera el Director General de Transporte.
+(DEROGADO, P.O. 17 DE JUNIO DE 2016)
 
 #### Sección Sexta. Dirección de Gestión Administrativa de Transporte
 
-Facultades de la Dirección de Gestión Administrativa de Transporte
-
 ###### Artículo 48.
 
-La Dirección de Gestión Administrativa de Transporte tiene, además de las señaladas en el artículo 9, las siguientes facultades:
-
-I. Coordinar, supervisar y atender las necesidades para el funcionamiento administrativo de las diferentes áreas de la Dirección General de Transporte;
-
-II. Establecer los lineamientos y requerimientos administrativos para la expedición de licencias y permisos para conducir, así como llevar el registro correspondiente;
-
-III. Administrar el sistema de emisión de licencias de conducir para garantizar su adecuado funcionamiento;
-
-IV. Supervisar a los municipios con que se tenga celebrado convenio para la expedición de licencias y permisos de conducir a efecto de verificar su cumplimiento;
-
-V. Integrar y actualizar el Registro Estatal de Antecedentes de Tránsito, en el ámbito de la competencia de la Dirección General de Transporte; y
-
-VI. Las demás que le confiera el Director General de Transporte.
+(DEROGADO, P.O. 17 DE JUNIO DE 2016)
 
 ### Capítulo III. Dirección General de Defensoría Pública
 
@@ -2674,3 +2440,9 @@ Artículo Segundo. La Secretaría de Finanzas, Inversión y Administración, deb
 Transferencia de Expedientes
 
 Artículo Tercero. Los expedientes que en materia de derechos humanos a la fecha se encuentren en trámite en las unidades administrativas de la Secretaría de Gobierno, se transferirán a la Dirección General de Derechos Humanos.
+
+P.O. 17 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO GUBERNATIVO NÚMERO 156, MEDIANTE EL CUAL, SE EXPIDE EL REGLAMENTO INTERIOR DEL INSTITUTO DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SE ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO".]
+
+Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
