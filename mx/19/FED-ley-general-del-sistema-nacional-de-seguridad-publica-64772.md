@@ -4,7 +4,7 @@ identifier: "FED-ley-general-del-sistema-nacional-de-seguridad-publica-64772"
 country: "mx"
 rank: "ley_general"
 publication_date: "2009-01-02"
-last_updated: "2013-10-29"
+last_updated: "2016-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "LGSNSP"
 
 LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE OCTUBRE DE 2013.
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO CUARTO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES; DEL CÓDIGO PENAL FEDERAL; DE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA; DE LA LEY FEDERAL PARA LA PROTECCIÓN A PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL; DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y DE LA LEY DE INSTITUCIONES DE CRÉDITO”, PUBLICADO EN LA EDICIÓN VESPERTINA DEL D.O.F. 17 DE JUNIO DE 2016, SE SEÑALA QUE “LAS DISPOSICIONES DEL PRESENTE DECRETO RELATIVAS A LA EJECUCIÓN PENAL, ENTRARÁN EN VIGOR UNA VEZ QUE ENTRE EN VIGOR LA LEGISLACIÓN EN LA MATERIA PREVISTA EN EL ARTÍCULO 73, FRACCIÓN XXI, INCISO C) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.”]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JUNIO DE 2016.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 2 de enero de 2009.
 
@@ -48,15 +50,19 @@ La presente Ley es reglamentaria del artículo 21 de la Constitución Política 
 
 Sus disposiciones son de orden público e interés social y de observancia general en todo el territorio nacional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
 ###### Artículo 2.
 
-La seguridad pública es una función a cargo de la Federación, el Distrito Federal, los Estados y los Municipios, que tiene como fines salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz públicos y comprende la prevención especial y general de los delitos, la investigación para hacerla efectiva, la sanción de las infracciones administrativas, así como la investigación y la persecución de los delitos y la reinserción social del individuo, en términos de esta Ley, en las respectivas competencias establecidas en la Constitución Política de los Estados Unidos Mexicanos.
+La seguridad pública es una función a cargo de la Federación, las entidades federativas y municipios, que tiene como fines salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz públicos y comprende la prevención especial y general de los delitos, la sanción de las infracciones administrativas, así como la investigación y la persecución de los delitos y la reinserción social del sentenciado, en términos de esta Ley, en las respectivas competencias establecidas en la Constitución Política de los Estados Unidos Mexicanos.
 
 El Estado desarrollará políticas en materia de prevención social del delito con carácter integral, sobre las causas que generan la comisión de delitos y conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas.
 
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
 ###### Artículo 3.
 
-La función de Seguridad Pública se realizará en los diversos ámbitos de competencia por conducto de las Instituciones Policiales, del Ministerio Público, de las instancias encargadas de aplicar las infracciones administrativas, de los responsables de la prisión preventiva y ejecución de penas, de las autoridades competentes en materia de justicia para adolescentes, así como por las demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al objeto de esta Ley.
+La función de Seguridad Pública se realizará en los diversos ámbitos de competencia por conducto de las Instituciones Policiales, de Procuración de Justicia, de las instancias encargadas de aplicar las infracciones administrativas, de la supervisión de medidas cautelares, de suspensión condicional del procedimiento de los responsables de la prisión preventiva y ejecución de penas, así como por las demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al objeto de esta Ley.
 
 ###### Artículo 4.
 
@@ -84,7 +90,9 @@ VII. Consejo Nacional: al Consejo Nacional de Seguridad Pública;
 
 VIII. Instituciones de Seguridad Pública: a las Instituciones Policiales, de Procuración de Justicia, del Sistema Penitenciario y dependencias encargadas de la Seguridad Pública a nivel federal, local y municipal;
 
-IX. Instituciones de Procuración de Justicia: a las Instituciones de la Federación y entidades federativas que integran al Ministerio Público, los servicios periciales y demás auxiliares de aquél;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+IX. Instituciones de Procuración de Justicia: a las Instituciones de la Federación y entidades federativas que integran al Ministerio Público, los servicios periciales, policías de investigación y demás auxiliares de aquel;
 
 X. Instituciones Policiales: a los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos; y en general, todas las dependencias encargadas de la seguridad pública a nivel federal, local y municipal, que realicen funciones similares;
 
@@ -94,7 +102,9 @@ XII. Programa Rector: al conjunto de contenidos encaminados a la profesionalizac
 
 XIII. Registro Nacional: el Registro Nacional de Personal de las Instituciones de Seguridad Pública;
 
-XIV. Secretaría: a la Secretaría de Seguridad Pública del Gobierno Federal;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+XIV. Secretaría: A la Secretaría de Gobernación de la Administración Pública Federal;
 
 XV. Secretario Ejecutivo: el Titular del Secretariado Ejecutivo del Sistema;
 
@@ -504,13 +514,19 @@ La Conferencia Nacional de Procuración de Justicia se reunirá cada seis meses 
 
 ### CAPÍTULO V. De la Conferencia Nacional de Secretarios de Seguridad Pública
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
 ###### Artículo 27.
 
-La Conferencia Nacional de Secretarios de Seguridad Pública estará integrada por los titulares de las dependencias encargadas de la Seguridad Pública de la Federación, los Estados y el Distrito Federal y será presidida por el Secretario de Seguridad Pública Federal.
+La Conferencia Nacional de Secretarios de Seguridad Pública estará integrada por los titulares de las dependencias encargadas de la Seguridad Pública de la Federación, las entidades federativas y será presidida por el titular de la Secretaría, quien se podrá auxiliar del Comisionado Nacional de Seguridad.
 
 La Conferencia contará con un Secretario Técnico que será nombrado y removido por el Presidente de la misma.
 
 Los titulares de las dependencias u órganos en que se integren los cuerpos de policía de los municipios, podrán participar en la Conferencia, de conformidad con las reglas que la misma establezca.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+El Comisionado Nacional de Seguridad será invitado permanente de la Conferencia, quien suplirá las ausencias del Secretario de Gobernación.
 
 ###### Artículo 28.
 
@@ -822,7 +838,9 @@ I. Registrar en el Informe Policial Homologado los datos de las actividades e in
 
 II. Remitir a la instancia que corresponda la información recopilada, en el cumplimiento de sus misiones o en el desempeño de sus actividades, para su análisis y registro. Asimismo, entregar la información que le sea solicitada por otras Instituciones de Seguridad Pública, en los términos de las leyes correspondientes;
 
-III. Apoyar a las autoridades que así se lo soliciten en la investigación y persecución de delitos, así como en situaciones de grave riesgo, catástrofes o desastres;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+III. Apoyar a las autoridades que así se lo soliciten en la investigación y persecución de delitos bajo el mando y conducción del Ministerio Público, así como en situaciones de grave riesgo, catástrofes o desastres;
 
 IV. Ejecutar los mandamientos judiciales y ministeriales;
 
@@ -1250,41 +1268,73 @@ Tal circunstancia será registrada en el Registro Nacional correspondiente.
 
 Las Instituciones Policiales, para el mejor cumplimiento de sus objetivos, desarrollarán, cuando menos, las siguientes funciones:
 
-I. Investigación, que será la encargada de la investigación a través de sistemas homologados de recolección, clasificación, registro, análisis, evaluación y explotación de información;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-II. Prevención, que será la encargada de prevenir la comisión de delitos e infracciones administrativas, realizar las acciones de inspección, vigilancia y vialidad en su circunscripción, y
+I. Investigación, que será aplicable ante:
+
+a) La preservación de la escena de un hecho probablemente delictivo;
+
+b) La petición del Ministerio Público para la realización de actos de investigación de los delitos, debiendo actuar bajo el mando y conducción de éste;
+
+c) Los actos que se deban realizar de forma inmediata; o
+
+d) La comisión de un delito en flagrancia.
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+II. Prevención, que será la encargada de llevar a cabo acciones tendientes a prevenir la comisión de delitos e infracciones administrativas, a través de acciones de investigación, inspección, vigilancia y vialidad en su circunscripción, y
 
 III. Reacción, que será la encargada de garantizar, mantener y restablecer el orden y la paz públicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
 ###### Artículo 76.
 
-Las unidades de policía encargadas de la investigación científica de los delitos se ubicarán en la estructura orgánica de las Instituciones de Procuración de Justicia, o bien, en las Instituciones Policiales, o en ambas, en cuyo caso se coordinarán en los términos de esta Ley y demás disposiciones aplicables para el desempeño de dichas funciones.
+Las unidades de policía encargadas de la investigación de los delitos se ubicarán en la estructura orgánica de las instituciones de procuración de justicia, o bien, en las instituciones policiales, o en ambas, en cuyo caso se coordinarán en los términos de esta Ley y demás disposiciones aplicables para el desempeño de dichas funciones.
 
-Las policías ministeriales ubicadas dentro de la estructura orgánica de las Instituciones de Procuración de Justicia, se sujetarán a lo dispuesto en el presente Título, quedando a cargo de dichas instituciones, la aplicación de las normas, supervisión y operación de los procedimientos relativos al desarrollo policial.
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+Las policías ministeriales ubicadas dentro de la estructura orgánica de las instituciones de procuración de justicia, se sujetarán a lo dispuesto en el presente título, quedando a cargo de dichas instituciones, la aplicación de las normas, supervisión y operación de los procedimientos relativos al desarrollo policial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### Artículo 77.
 
-Las legislaciones de la Federación, el Distrito Federal y los Estados establecerán las funciones que realizarán las unidades operativas de investigación que podrán ser, entre otras, las siguientes:
+La policía, en términos de lo dispuesto en el Código Nacional de Procedimientos Penales, en sus respectivos ámbitos de competencia, tendrá las siguientes funciones:
 
-I. Recibir las denuncias sobre hechos que puedan ser constitutivos de delitos, sólo cuando debido a las circunstancias del caso aquéllas no puedan ser formuladas directamente ante el Ministerio Público, al que deberán informar de inmediato, así como de las diligencias practicadas y dejarán de actuar cuando él lo determine;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-II. Deberán verificar la información de las denuncias que le sean presentadas cuando éstas no sean lo suficientemente claras o la fuente no esté identificada, e informará al Ministerio Público para que, en su caso, le dé trámite legal o la deseche de plano;
+I. Recibir las denuncias sobre hechos que puedan ser constitutivos de delitos, e informar al Ministerio Público por cualquier medio y de inmediato, así como de las diligencias practicadas;
 
-III. Practicar las diligencias necesarias que permitan el esclarecimiento de los delitos y la identidad de los probables responsables, en cumplimiento de los mandatos del Ministerio Público;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+II. Constatar la veracidad de los datos aportados en informaciones anónimas, mediante los actos de investigación que consideren conducentes para este efecto;
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+III. Practicar las diligencias necesarias que permitan el esclarecimiento de los hechos que la ley señale como delito y la identidad de quien lo cometió o participó en su comisión, bajo el mando y conducción del Ministerio Público;
 
 IV. Efectuar las detenciones en los casos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
 
-V. Participar en la investigación de los delitos, en la detención de personas y en el aseguramiento de bienes que el Ministerio Público considere se encuentren relacionados con los hechos delictivos, observando las disposiciones constitucionales y legales aplicables;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+V. Participar en la investigación de los delitos, en la detención de personas y en el aseguramiento de bienes, observando las disposiciones Constitucionales y legales aplicables;
 
 VI. Registrar de inmediato la detención en términos de las disposiciones aplicables, así como remitir sin demora y por cualquier medio la información al Ministerio Público;
 
 VII. Poner a disposición de las autoridades competentes, sin demora alguna, a las personas detenidas y los bienes que se encuentren bajo su custodia, observando en todo momento el cumplimiento de los plazos constitucionales y legales establecidos;
 
-VIII. Preservar el lugar de los hechos y la integridad de los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito. Las unidades de la Policía facultadas para el procesamiento del lugar de los hechos, deberán fijar, señalar, levantar, embalar y entregar la evidencia física al Ministerio Público, conforme a las instrucciones de éste y en términos de las disposiciones aplicables.
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-IX. Proponer al Ministerio Público que requiera a las autoridades competentes, informes y documentos para fines de la investigación, cuando se trate de aquellos que sólo pueda solicitar por conducto de éste;
+VIII. Preservar el lugar de los hechos o del hallazgo y en general, realizar todos los actos necesarios para garantizar la integridad de los indicios, como consecuencia dará aviso a la Policía con capacidades para procesar la escena del hecho y al Ministerio Público, conforme a las disposiciones aplicables misma previsión será aplicable a toda institución u órgano público que realice estos actos en cumplimiento a una disposición legal;
 
-X. Dejar constancia de cada una de sus actuaciones, así como llevar un control y seguimiento de éstas. Durante el curso de la investigación deberán elaborar informes sobre el desarrollo de la misma, y rendirlos al Ministerio Público, sin perjuicio de los informes que éste le requiera;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+IX. Requerir a las autoridades competentes y solicitar a las personas físicas o morales, informes y documentos para fines de la investigación. En caso de negativa, informará al Ministerio Público para que determine lo conducente;
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+X. Dejar registro de todas las actuaciones que se realicen durante la investigación de los delitos, utilizando al efecto cualquier medio que permita garantizar que la información recabada sea completa, íntegra y exacta;
 
 XI. Emitir los informes, partes policiales y demás documentos que se generen, con los requisitos de fondo y forma que establezcan las disposiciones aplicables, para tal efecto se podrán apoyar en los conocimientos que resulten necesarios;
 
@@ -1303,6 +1353,10 @@ e) Asegurar que puedan llevar a cabo la identificación del imputado sin riesgo 
 XIII. Dar cumplimiento a las órdenes de aprehensión y demás mandatos ministeriales y jurisdiccionales de que tenga conocimiento con motivo de sus funciones, y
 
 XIV. Las demás que le confieran las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+Las instituciones policiales estarán facultadas para desarrollar las funciones establecidas en el presente artículo en términos de lo previsto por la fracción I del artículo 75 de esta Ley.
 
 ### CAPÍTULO II. De la Carrera Policial y de la Profesionalización
 
@@ -1732,6 +1786,10 @@ Los integrantes del Sistema están obligados a compartir la información sobre S
 
 La información contenida en las bases de datos del sistema nacional de información sobre seguridad pública, podrá ser certificada por la autoridad respectiva y tendrá el valor probatorio que las disposiciones legales determinen.
 
+> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+Se clasifica como reservada la información contenida en todas y cada una de las Bases de Datos del Sistema, así como los Registros Nacionales y la información contenida en ellos, en materia de detenciones, información criminal, personal de seguridad pública, personal y equipo de los servicios de seguridad privada, armamento y equipo, vehículos, huellas dactilares, teléfonos celulares, medidas cautelares, soluciones alternas y formas de terminación anticipada, sentenciados y las demás necesarias para la operación del Sistema, cuya consulta es exclusiva de las Instituciones de Seguridad Pública que estén facultadas en cada caso, a través de los servidores públicos que cada Institución designe, por lo que el público no tendrá acceso a la información que en ellos se contenga.
+
 ###### Artículo 111.
 
 La Federación, los Estados, el Distrito Federal y los Municipios, realizarán los trabajos para lograr la compatibilidad de los servicios de telecomunicaciones de su Red Local correspondiente, con las bases de datos criminalísticos y de personal del Sistema, previstas en la presente Ley.
@@ -1874,7 +1932,25 @@ En el caso de que los integrantes de las Instituciones de Seguridad Pública ase
 
 El incumplimiento de las disposiciones de esta sección, dará lugar a que la portación o posesión de armas se considere ilegal y sea sancionada en los términos de las normas aplicables.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+#### SECCIÓN QUINTA. Del Registro Nacional de Medidas Cautelares, Soluciones Alternas y Formas de Terminación Anticipada
+
+> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
 ### CAPÍTULO II. De la Cancelación y Suspensión de Ministración de los Recursos
+
+###### Artículo 127 Bis.
+
+Las autoridades competentes de la Federación, las Entidades Federativas y los municipios mantendrán permanentemente actualizado el Registro Nacional de Medidas Cautelares y Soluciones Alternas y de Terminación Anticipada, el cual incluirá por lo menos lo siguiente:
+
+I. Las medidas cautelares impuestas a un imputado, fecha de inicio y término, delitos por el que se impuso la medida y en su caso incumplimiento o modificación de la misma;
+
+II. Los acuerdos reparatorios que se realicen, especificando el nombre de las partes que lo realizan, el tipo de delito, la autoridad que los sancionó, su cumplimiento o incumplimiento;
+
+III. La suspensión condicional, el proceso aprobado por el juez de control, especificando los nombres de las partes, el tipo del delito, las condiciones impuestas por el Juez, y su cumplimiento o incumplimiento, y
+
+IV. La sustanciación de un procedimiento abreviado, especificando los nombres de las partes, el tipo de delito y la sanción impuesta.
 
 ## TÍTULO OCTAVO. DE LA PARTICIPACIÓN DE LA COMUNIDAD
 
@@ -1994,7 +2070,9 @@ Se sancionará con cinco a doce años de prisión y de doscientos a ochocientos 
 
 Las sanciones previstas en este capítulo se impondrán sin perjuicio de las penas que correspondan por otros delitos previstos en los ordenamientos penales federal o de las entidades federativas, según corresponda.
 
-Las autoridades del fuero federal serán las competentes para conocer y sancionar los delitos previstos en este capítulo, conforme las disposiciones generales del Código Penal Federal, las del Código Federal de Procedimientos Penales y demás disposiciones legales, en atención a que la Federación es el sujeto pasivo, de conformidad con el artículo 50, fracción I, inciso e) de la Ley Orgánica del Poder Judicial de la Federación.
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+Las autoridades del fuero federal serán las competentes para conocer y sancionar los delitos previstos en este capítulo, conforme a las disposiciones aplicables.
 
 ## TÍTULO DÉCIMO. DE LOS FONDOS DE AYUDA FEDERAL
 
@@ -2094,13 +2172,11 @@ El resguardo de las instalaciones estratégicas queda a cargo de la Federación,
 
 El Ejecutivo Federal constituirá un Grupo de Coordinación Interinstitucional para las Instalaciones Estratégicas, que expedirá, mediante acuerdos generales de observancia obligatoria, la normatividad aplicable en la materia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### Artículo 149.
 
-El Consejo Nacional establecerá, para los fines de seguridad pública, los casos, condiciones y requisitos necesarios para el bloqueo de las señales de telefonía celular en las instalaciones de carácter estratégico y en los Centros de Readaptación Social Federales y de las Entidades Federativas, cualquiera que sea su denominación.
+El Consejo Nacional establecerá, para los fines de seguridad pública, los casos, condiciones y requisitos necesarios para el bloqueo de las señales de telefonía celular en las instalaciones de carácter estratégico y en los centros penitenciarios federales y de las entidades federativas, cualquiera que sea su denominación.
 
 Las decisiones que en ese sentido emita el Consejo Nacional, deberán ser ejecutadas por las distintas Instituciones de Seguridad Pública que lo integran.
 
@@ -2219,3 +2295,23 @@ D.O.F. 28 DE DICIEMBRE DE 2012.
 D.O.F. 29 DE OCTUBRE DE 2013.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES; DEL CÓDIGO PENAL FEDERAL; DE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA; DE LA LEY FEDERAL PARA LA PROTECCIÓN A PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL; DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y DE LA LEY DE INSTITUCIONES DE CRÉDITO".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación salvo lo previsto en el siguiente artículo.
+
+Segundo.- Las reformas al Código Nacional de Procedimientos Penales, al Código Penal Federal, a la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, los artículos 2, 13, 44 y 49 de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal y los artículos 21 en su fracción X, 50 Bis y 158 de la Ley Orgánica del Poder Judicial de la Federación, entrarán en vigor en términos de lo previsto por el Artículo Segundo Transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales publicado en el Diario Oficial de la Federación el 5 de marzo de 2014.
+
+Los procedimientos que se encuentren en trámite, relacionados con las modificaciones a los preceptos legales contemplados en el presente Decreto, se resolverán de conformidad con las disposiciones que les dieron origen.
+
+Tercero.- Dentro de los 180 días naturales a la entrada en vigor del presente Decreto, la Federación y las entidades federativas en el ámbito de sus respectivas competencias, deberán contar con una Autoridad de Supervisión de Medidas Cautelares y de la Suspensión Condicional del Proceso.
+
+Asimismo, dentro de los 30 días siguientes a la fecha de creación de las autoridades de medidas cautelares y de la suspensión condicional del proceso de la Federación y de las entidades federativas, se deberán emitir los acuerdos y lineamientos que regulen su organización y funcionamiento.
+
+Cuarto.- Las disposiciones del presente Decreto relativas a la ejecución penal, entrarán en vigor una vez que entre en vigor la legislación en la materia prevista en el artículo 73, fracción XXI, inciso c) de la Constitución Política de los Estados Unidos Mexicanos.
+
+Quinto.- Tratándose de aquellas medidas privativas de la libertad personal o de prisión preventiva que hubieren sido decretadas por mandamiento de autoridad judicial durante los procedimientos iniciados con base en la legislación procesal penal vigente con anterioridad a la entrada en vigor del sistema de justicia penal acusatorio adversarial, el inculpado o imputado podrá solicitar al órgano jurisdiccional competente la revisión de dichas medidas, para efecto de que, el juez de la causa, en los términos de los artículos 153 a 171 del Código Nacional de Procedimientos Penales, habiéndose dado vista a las partes, para que el Ministerio Público investigue y acredite lo conducente, y efectuada la audiencia correspondiente, el órgano jurisdiccional, tomando en consideración la evaluación del riesgo, resuelva sobre la imposición, revisión, sustitución, modificación o cese, en términos de las reglas de prisión preventiva del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, así como del Código Nacional de Procedimientos Penales. En caso de sustituir la medida cautelar, aplicará en lo conducente la vigilancia de la misma en términos de los artículos 176 a 182 del citado Código.
+
+Sexto.- La Procuraduría General de la República propondrá al seno del Consejo Nacional de Seguridad Pública la consecución de los acuerdos que estime necesarios entre las autoridades de las entidades federativas y la federación en el marco de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal.
