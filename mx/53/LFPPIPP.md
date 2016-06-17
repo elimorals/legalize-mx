@@ -4,7 +4,7 @@ identifier: "LFPPIPP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2012-06-08"
-last_updated: "2015-03-12"
+last_updated: "2016-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88147&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPPIPP"
 
 LEY FEDERAL PARA LA PROTECCIÓN A PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JUNIO DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 8 de junio de 2012.
 
@@ -72,9 +72,23 @@ VIII. Convenio de Entendimiento: Documento que suscribe el Titular del Centro y 
 
 IX. Persona Protegida: Todo aquel individuo que pueda verse en situación de riesgo o peligro por su intervención en un procedimiento penal. Asimismo, dentro de dicho concepto se considerarán a las personas ligadas con vínculos de parentesco o afectivos con el testigo, víctima, ofendido o servidores públicos, que se vean en situación de riesgo o peligro por las actividades de aquellos en el proceso.
 
-X. Testigo Colaborador: Es la persona que habiendo sido miembro de la delincuencia organizada accede voluntariamente a prestar ayuda eficaz a la autoridad investigadora, rindiendo al efecto su testimonio o aportando otras pruebas conducentes para investigar, procesar o sentenciar a otros miembros de la organización delictiva.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-XI. Procedimiento Penal: Son aquellas etapas procesales que comprenden desde el inicio de la averiguación previa hasta la sentencia de segunda instancia.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+X. Testigo Colaborador: Es la persona que accede voluntariamente a prestar ayuda eficaz a la autoridad investigadora, rindiendo al efecto su testimonio o aportando otros medios de prueba conducentes para investigar, procesar o sentenciar a otros sujetos.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+Podrá ser testigo colaborador, aquella persona que haya sido o sea integrante de la delincuencia organizada, de una asociación delictiva, o que pueda ser beneficiario de un criterio de oportunidad.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+XI. Procedimiento penal: Son aquellas etapas procedimentales que comprenden desde el inicio de la investigación hasta la sentencia firme.
 
 XII. Riesgo: Amenaza real e inminente que, de actualizarse, expone la vida e integridad física de la Persona Protegida, por su intervención en un Procedimiento Penal.
 
@@ -110,7 +124,9 @@ La protección de personas se regirá por los siguientes principios:
 
 I. Proporcionalidad y Necesidad: Las Medidas de Protección que se acuerden en virtud de la presente Ley y demás disposiciones aplicables, deberán responder al nivel de riesgo o peligro en que se encuentre la persona y sólo podrán ser aplicadas en cuanto fueren necesarias para garantizar su seguridad, así como su identidad personal.
 
-II. Secrecía: Los servidores públicos y las personas sujetas a protección mantendrán el sigilo de todas las actuaciones relacionadas con las Medidas de Protección adoptadas por el Centro, así como lo referente a los aspectos operativos del Programa.
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+II. Secrecía: Los servidores públicos y las personas sujetas a protección, así como cualquier persona relacionada con la aplicación de la presente Ley, mantendrán el sigilo de todas las actuaciones relacionadas con las Medidas de Protección adoptadas por el Centro, así como lo referente a los aspectos operativos del Programa.
 
 III. Voluntariedad: La persona expresará por escrito su voluntad de acogerse y recibir las medidas de protección y en su caso los beneficios que la ley en la materia prevé, además de obligarse a cumplir con todas las disposiciones establecidas en el mismo. Asimismo, en cualquier momento podrá solicitar su retiro, sin perjuicio de los casos en que proceda su separación del Programa por las causales establecidas en esta Ley y en las demás disposiciones reglamentarias del Programa.
 
@@ -154,9 +170,15 @@ IX. Acordar con el Procurador el cese de las Medidas de Protección cuando se en
 
 X. Gestionar ante la Oficialía Mayor de la Procuraduría lo relativo a la obtención de los recursos humanos, materiales, tecnológicos y financieros para la correcta aplicación de sus obligaciones, una vez que se haya autorizado el presupuesto para tal efecto.
 
-XI. Ejercer el mando directo e inmediato sobre el personal que le esté adscrito, y
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-XII. Las demás que determinen otras disposiciones y el Procurador, cuando sean inherentes a sus funciones.
+XI. Ejercer el mando directo e inmediato sobre el personal que le esté adscrito;
+
+> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+XII. Gestionar ante las autoridades competentes la documentación soporte para el cambio de identidad de la persona sujeta a protección, y
+
+XIII. Las demás que determinen otras disposiciones y el Procurador, cuando sean inherentes a sus funciones.
 
 #### SECCIÓN I. DEL PERSONAL DEL CENTRO
 
@@ -204,13 +226,15 @@ La Unidad contará con un área de análisis de riesgo que apoyará en la elabor
 
 ### CAPÍTULO IV. DEL PROGRAMA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE MARZO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 13.
 
-El presente Programa tendrá aplicación exclusivamente para aquellos casos en los que se encuentren relacionadas personas que estén en una situación de riesgo por su participación de forma directa o indirecta en un procedimiento penal que verse sobre delitos graves, delincuencia organizada o cuando las disposiciones de los Tratados Internacionales de los que el Estado mexicano sea parte establezcan expresamente la obligación de proporcionar dicha protección.
+El presente programa tendrá aplicación exclusivamente para aquellos casos en los que se encuentren relacionadas personas que estén en una situación de riesgo por su participación de forma directa o indirecta en un procedimiento penal que verse sobre delitos que ameriten prisión preventiva oficiosa en términos de lo previsto por la Constitución y la legislación aplicable. También podrá ser aplicable en asuntos relacionados con otros delitos cuando se considere necesario atendiendo a las características propias del hecho, a las circunstancias de ejecución, la relevancia social del mismo, por razones de seguridad o por otras que impidan garantizar el adecuado desarrollo del procedimiento para lo cual el Procurador emitirá el Acuerdo respectivo. Asimismo, cuando las disposiciones de los Tratados Internacionales de los que el Estado Mexicano sea parte establezcan expresamente la obligación de proporcionar dicha protección.
 
-En los demás casos corresponderá al Ministerio Público y a sus auxiliares dictar y ejecutar las medidas de protección distintas a las de aplicación exclusiva por el Director del Centro, tendientes a garantizar la seguridad de las personas que se encuentren en una situación de riesgo, por su participación dentro de alguna de las etapas del procedimiento penal, entre las cuales se podrán tomar en cuenta las previstas en los artículos 17, fracciones I, II y V, y 18, fracciones I, incisos a) y b), II, IV, V, VIII, incisos a), b) y c) y X del presente ordenamiento; así como las demás que estime pertinentes o las que se encuentren previstas en los ordenamientos legales aplicables.
+En los demás casos corresponderá al Ministerio Público y a sus auxiliares dictar y ejecutar las medidas de protección distintas a las de aplicación exclusiva por el Director del Centro, tendientes a garantizar la seguridad de las personas que se encuentren en una situación de riesgo, por su participación dentro de alguna de las etapas del procedimiento penal, entre las cuales se podrán tomar en cuenta las previstas en los artículos 17 fracciones I, II y V, y 18, fracciones I, incisos a) y b), II, IV, VIII, incisos a), b) y c) y X del presente ordenamiento; así como las demás que estime pertinentes o las que se encuentren previstas en los ordenamientos legales aplicables.
 
 ###### ARTÍCULO 14.
 
@@ -290,11 +314,17 @@ V. Suministrar a la persona alojamiento temporal o los medios económicos para t
 
 VI. Facilitar la reubicación, entendida como el cambio de domicilio y/o residencia, lugar de trabajo y centro de estudios de la persona.
 
-VII. En los casos que así se justifiquen, previo acuerdo del Procurador, se podrá otorgar, con base en las circunstancias del caso, la autorización para que ante las autoridades competentes se gestione una nueva identidad de la Persona Protegida, dotándolo de la documentación soporte.
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-VIII. Durante el proceso el Ministerio Público, podrá solicitar las siguientes medidas procesales:
+VII. Previa determinación del Procurador se podrá otorgar y ordenar, con base en las circunstancias del caso, la autorización para que ante las autoridades competentes se gestione una nueva identidad de la Persona Protegida, dotándolo de la documentación soporte.
 
-a) La reserva de la identidad en las diligencias en que intervenga la Persona Protegida, imposibilitando que en las actas se haga mención expresa a sus nombres, apellidos, domicilio, lugar de trabajo, profesión o cualquier otro dato que lo ponga en evidencia en términos de lo dispuesto en la legislación aplicable.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+VIII. Durante el procedimiento el Ministerio Público, podrá solicitar las siguientes medidas:
+
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+a) La reserva de la identidad en las actuaciones en que intervenga la Persona Protegida, imposibilitando que en los registros se haga mención expresa a sus nombres, apellidos, domicilio, lugar de trabajo, profesión o cualquier otro dato que lo ponga en evidencia en términos de lo dispuesto en la legislación aplicable.
 
 b) El uso de métodos que imposibiliten la identificación visual o auditiva de la persona, en las diligencias en que intervenga. La aplicación de esta medida, no deberá coartar la defensa adecuada del imputado.
 
@@ -314,7 +344,9 @@ c) Otras que considere el Centro para garantizar la protección de las personas 
 
 Las autoridades penitenciarias federales deberán otorgar todas las facilidades al Centro para garantizar las medidas de seguridad de los internos que se encuentran incorporados al Programa.
 
-Cuando la persona o Testigo Colaborador se encuentre recluso en alguna prisión administrada por una entidad federativa, el Centro con apoyo de la Secretaría de Seguridad Pública Federal, podrá suscribir los convenios necesarios para garantizar la protección de las personas o Testigos Colaboradores incorporados al Programa.
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+Cuando la persona o Testigo Colaborador se encuentre internado en alguna prisión administrada por una entidad federativa, el Centro con apoyo de la Secretaría de Gobernación, podrá suscribir los convenios necesarios para garantizar la protección de las personas o Testigos Colaboradores incorporados al Programa.
 
 X. Implementar cualquier otra medida de seguridad que de conformidad con la valoración de las circunstancias, se estime necesario adoptar con la finalidad de proteger la vida y/o la integridad física de la persona.
 
@@ -366,7 +398,9 @@ a) Nombre completo del candidato a protección, su dirección o lugar de ubicaci
 
 b) Datos acerca de la investigación o proceso penal en la que interviene.
 
-c) Papel que detenta en la investigación o en el proceso y la importancia que reviste su participación.
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+c) Papel que detenta en el procedimiento y la importancia que reviste su participación.
 
 d) Datos que hagan presumir que se encuentra en una situación de riesgo su integridad física o la de personas cercanas a él.
 
@@ -522,9 +556,11 @@ El Centro también podrá dar por concluida la permanencia de la Persona Protegi
 
 La anterior resolución en todo caso será notificada por escrito a la Persona Protegida y en caso de que se desconozca su ubicación y después de haber realizado una búsqueda no se haya logrado dar con su paradero, se levantará constancia de dicha circunstancia y se acordará su baja correspondiente. Contra dicha determinación no se admitirá recurso alguno.
 
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 35.
 
-El Centro, una vez concluido el Proceso Penal e impuestas las sanciones del caso podrá, siempre que estime que se mantiene la circunstancia de amenaza o peligro, extender la continuación de las Medidas de Protección.
+El Centro, una vez concluido el Procedimiento Penal e impuestas las sanciones del caso podrá, siempre que estime que se mantiene la circunstancia de amenaza o peligro extender la continuación de las Medidas de Protección.
 
 ###### ARTÍCULO 36.
 
@@ -540,7 +576,9 @@ I. La extinción de los supuestos que señala el artículo 24 de esta Ley, a cri
 
 II. La Persona Protegida se haya conducido con falta de veracidad.
 
-III. La Persona Protegida haya ejecutado un delito doloso durante la permanencia en el Programa.
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+III. La Persona Protegida haya ejecutado o intervenido en la comisión de un delito doloso durante la permanencia en el Programa.
 
 IV. La Persona Protegida no cumpla con las Medidas de Protección correspondientes.
 
@@ -594,9 +632,13 @@ Las solicitudes de asistencia en materia de protección de personas deberán ser
 
 Las solicitudes de asistencia en relación a la protección de personas, se tramitarán a través del conducto correspondiente que se designe para tal efecto en los Tratados Internacionales.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 44.
 
-En atención a lo dispuesto por el artículo 59 del Código Federal de Procedimientos Penales, la práctica de diligencias tendentes a obtener la declaración de un Testigo residente en el extranjero, se deberá realizar conforme a las disposiciones jurídicas aplicables y a través de la representación diplomática o consular del Estado mexicano en el país que corresponda, con intervención en la diligencia del personal de la Procuraduría General de la República que para tal efecto se designe.
+Cuando se requiera la práctica de diligencias tendientes a obtener la declaración de un Testigo residente en el extranjero, se deberá realizar conforme a lo previsto en el Título XI del Libro Segundo, del Código Nacional de Procedimientos Penales.
 
 ###### ARTÍCULO 45.
 
@@ -609,6 +651,24 @@ En el supuesto caso de que una persona que se encuentre dentro del Programa mani
 Este traslado no ocasionará responsabilidad alguna para el Estado mexicano y las autoridades encargadas del Programa.
 
 En el supuesto de que el país receptor de la persona requerida, pretenda procesarla penalmente, deberá estarse a lo establecido en la Ley de Extradición Internacional y en los Tratados Internacionales en la materia.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+###### ARTÍCULO 46 Bis.
+
+En caso de que un Estado extranjero, solicite la cooperación del Estado mexicano, para el internamiento de una persona protegida en el territorio nacional el Director del Centro determinará su procedencia, para lo cual deberán satisfacerse los siguientes requisitos:
+
+I. Que la persona se encuentre inscrita en el programa de protección de personas del país solicitante;
+
+II. Que el delito con el que se relaciona a la persona sea equiparable a alguno de los delitos por lo que procede la aplicación del programa de protección de personas en términos de lo previsto por el artículo 13 de esta Ley;
+
+III. Que en caso de que la persona requiera además la medida de cambio de identidad, cuente con la documentación necesaria de una nueva identidad, emitida por el Estado solicitante, y
+
+IV. Que el Estado solicitante, cubra con los costos del internamiento de la persona, garantizando que cuente con los medios para vivir de forma digna.
+
+Cuando el ingreso de la persona sea determinado por el Director del Centro, deberá ordenar a las autoridades competentes la gestión de la calidad migratoria de la persona, quedando obligadas a colaborar para la expedición de los documentos necesarios para su adecuado internamiento, sin que para ello sea necesario realizar los procedimientos ordinarios.
+
+Además de los requisitos antes señalados, la persona que sea admitida para internarse en el país, deberá cumplir con todas las obligaciones establecidas en el Programa, en caso de incumplimiento, el Director del Centro podrá revocar la admisión y deberá ser enviado al país remitente.
 
 ### CAPÍTULO XIV. DE LA TRANSPARENCIA DEL PROGRAMA
 
@@ -628,7 +688,9 @@ A la persona que conozca información relacionada con la aplicación, ejecución
 
 En caso de que sea un servidor público el que revele la información, la pena se incrementara hasta en una tercera parte, esto con independencia de otros posibles delitos en que pueda incurrir.
 
-Los imputados por la comisión de este delito, durante el proceso penal estarán sujetos a prisión preventiva.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ### CAPÍTULO XVI. DE LOS FONDOS DEL PROGRAMA
 
@@ -659,3 +721,23 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 12 DE MARZO DE 2015.
 
 Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES; DEL CÓDIGO PENAL FEDERAL; DE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA; DE LA LEY FEDERAL PARA LA PROTECCIÓN A PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL; DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y DE LA LEY DE INSTITUCIONES DE CRÉDITO".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación salvo lo previsto en el siguiente artículo.
+
+Segundo.- Las reformas al Código Nacional de Procedimientos Penales, al Código Penal Federal, a la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, los artículos 2, 13, 44 y 49 de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal y los artículos 21 en su fracción X, 50 Bis y 158 de la Ley Orgánica del Poder Judicial de la Federación, entrarán en vigor en términos de lo previsto por el Artículo Segundo Transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales publicado en el Diario Oficial de la Federación el 5 de marzo de 2014.
+
+Los procedimientos que se encuentren en trámite, relacionados con las modificaciones a los preceptos legales contemplados en el presente Decreto, se resolverán de conformidad con las disposiciones que les dieron origen.
+
+Tercero.- Dentro de los 180 días naturales a la entrada en vigor del presente Decreto, la Federación y las entidades federativas en el ámbito de sus respectivas competencias, deberán contar con una Autoridad de Supervisión de Medidas Cautelares y de la Suspensión Condicional del Proceso.
+
+Asimismo, dentro de los 30 días siguientes a la fecha de creación de las autoridades de medidas cautelares y de la suspensión condicional del proceso de la Federación y de las entidades federativas, se deberán emitir los acuerdos y lineamientos que regulen su organización y funcionamiento.
+
+Cuarto.- Las disposiciones del presente Decreto relativas a la ejecución penal, entrarán en vigor una vez que entre en vigor la legislación en la materia prevista en el artículo 73, fracción XXI, inciso c) de la Constitución Política de los Estados Unidos Mexicanos.
+
+Quinto.- Tratándose de aquellas medidas privativas de la libertad personal o de prisión preventiva que hubieren sido decretadas por mandamiento de autoridad judicial durante los procedimientos iniciados con base en la legislación procesal penal vigente con anterioridad a la entrada en vigor del sistema de justicia penal acusatorio adversarial, el inculpado o imputado podrá solicitar al órgano jurisdiccional competente la revisión de dichas medidas, para efecto de que, el juez de la causa, en los términos de los artículos 153 a 171 del Código Nacional de Procedimientos Penales, habiéndose dado vista a las partes, para que el Ministerio Público investigue y acredite lo conducente, y efectuada la audiencia correspondiente, el órgano jurisdiccional, tomando en consideración la evaluación del riesgo, resuelva sobre la imposición, revisión, sustitución, modificación o cese, en términos de las reglas de prisión preventiva del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, así como del Código Nacional de Procedimientos Penales. En caso de sustituir la medida cautelar, aplicará en lo conducente la vigilancia de la misma en términos de los artículos 176 a 182 del citado Código.
+
+Sexto.- La Procuraduría General de la República propondrá al seno del Consejo Nacional de Seguridad Pública la consecución de los acuerdos que estime necesarios entre las autoridades de las entidades federativas y la federación en el marco de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal.
