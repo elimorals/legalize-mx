@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ejecucion-de-penas-y-medidas-judiciales-antes-ley-de-529
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-09"
-last_updated: "2014-11-29"
+last_updated: "2016-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2016.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 9 de diciembre de 2006.
 
@@ -143,9 +143,7 @@ VIII.- Consejo.- El Consejo Técnico Interdisciplinario.
 
 IX.- Estudios de personalidad.- Los estudios practicados por el Consejo Técnico Interdisciplinario en las áreas médica, sicológica, siquiátrica, educativa, criminológica, social y ocupacional, y de vigilancia.
 
-> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
-
-X.- Instituto.- El Órgano denominado Instituto de Servicios Previos al Juicio, dependiente del Supremo Tribunal de Justicia del Estado.
+X.- (DEROGADA, P.O. 18 DE JUNIO DE 2016)
 
 ###### Artículo 5.
 
@@ -363,11 +361,17 @@ La Fiscalía, dependiente de la Fiscalía General del Estado, será el órgano d
 
 I.- En materia de medidas judiciales dictadas durante el proceso.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2016)</small>
 
-a) Ejecutar las medidas cautelares de prisión preventiva y, en su caso, localización electrónica.
+a) Ejecutar las medidas cautelares de prisión preventiva, presentación periódica, en su caso, y localización electrónica.
 
-b) (DEROGADO, P.O. 29 DE NOVIEMBRE DE 2014)
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2016)</small>
+
+b) Coordinar, vigilar y dar seguimiento a la ejecución del resto de las medidas cautelares reales y personales.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2016)</small>
+
+c) La evaluación de riesgos que, para el proceso y sus intervinientes, representen los imputados, de conformidad con lo señalado en el segundo párrafo del artículo 156 del Código Nacional de Procedimientos Penales, así como el seguimiento y supervisión del cumplimiento de las condiciones establecidas a los imputados en la suspensión condicional del proceso. El Ministerio Público y la defensa deberán recibir los reportes y la demás información que la Fiscalía genere en el ejercicio de estas funciones.
 
 II.- En materia de penas y medidas de seguridad.
 
@@ -405,19 +409,15 @@ h) Coadyuvar en el mantenimiento de la estadística criminal del Estado; y
 
 i) Las demás que otras leyes y reglamentos establezcan.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2016)</small>
 
 ###### Artículo 16 Bis.
 
-Facultades del Instituto de Servicios Previos al Juicio.
+Aprobación de la suspensión condicional del proceso.
 
-El Instituto, dependiente del Supremo Tribunal de Justicia del Estado, será el órgano al que corresponderá:
+Una vez que haya sido aprobada la suspensión condicional del proceso dentro de una causa, el juez deberá notificar tal situación a la Fiscalía a efecto de que esta dé inicio al proceso de supervisión respectivo.
 
-I. En materia de medidas judiciales dictadas durante el proceso.
-
-a) La evaluación de riesgos que, para el proceso y sus intervinientes, representen los imputados, de conformidad con lo señalado en el segundo párrafo del artículo 156 del Código Nacional de Procedimientos Penales.
-
-b) La supervisión y seguimiento de las medidas cautelares distintas a la prisión preventiva, así como el cumplimiento de las condiciones establecidas a los imputados en la suspensión condicional del proceso.
+En caso de incumplimiento de alguna o de la totalidad de las condiciones establecidas al imputado para el mantenimiento de la suspensión, la Fiscalía deberá notificar lo anterior al juez que las decretó.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -427,11 +427,15 @@ Atribuciones de las Autoridades Auxiliares.
 
 I. Ejecutar las medidas judiciales en la forma y términos previstos por la ley, y de acuerdo a la naturaleza y modalidades específicas de las mismas.
 
-II. Establecer, conjuntamente bajo la Dirección del Instituto, mediante los convenios correspondientes, programas y protocolos orientados a la eficacia y cumplimiento de las medidas judiciales a su cargo.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2016)</small>
+
+II. Establecer, conjuntamente bajo la dirección de la Fiscalía, mediante los convenios correspondientes, programas y protocolos orientados a la eficacia y cumplimiento de las medidas judiciales a su cargo.
 
 III. Elaborar un dictamen técnico debidamente justificado, en el que se determine la conveniencia de mantener, revisar, sustituir, modificar o cancelar la medida vigilada.
 
-IV. Informar al Instituto sobre el cumplimiento, incumplimiento o cualquier irregularidad detectada.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2016)</small>
+
+IV. Informar a la Fiscalía sobre el cumplimiento, incumplimiento o cualquier irregularidad detectada.
 
 > <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -683,17 +687,17 @@ Cuando se determine la medida cautelar de prohibición de salir del país, reque
 
 El aviso a las autoridades señaladas también se realizará en caso de sustitución, modificación o cancelación de la medida.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2016)</small>
 
 ###### Artículo 30.
 
 Prohibición de salir de la localidad o del ámbito territorial.
 
-Si la medida cautelar consiste en la prohibición de salir de la localidad de residencia del imputado o de la circunscripción territorial del Estado, se comunicará el proveído al Instituto, el cual de manera periódica ordenará se visite el domicilio proporcionado por el imputado, para corroborar que aún reside en la localidad.
+Si la medida cautelar consiste en la prohibición de salir de la localidad de residencia del imputado o de la circunscripción territorial del Estado, se comunicará el proveído a la Fiscalía, la cual de manera periódica ordenará se visite el domicilio proporcionado por el imputado, para corroborar que aún reside en la localidad.
 
-Durante la ejecución de esta medida, el imputado deberá comunicar al Instituto su cambio de domicilio y cualquier otra circunstancia que permita su localización.
+Durante la ejecución de esta medida, el imputado deberá comunicar a la Fiscalía su cambio de domicilio y cualquier otra circunstancia que permita su localización.
 
-En caso de incumplimiento, los cuerpos de seguridad pública darán aviso oportuno al Instituto para los efectos procesales a que haya lugar.
+En caso de incumplimiento, los cuerpos de seguridad pública darán aviso oportuno a la Fiscalía para los efectos procesales a que haya lugar.
 
 #### SECCIÓN TERCERA. OBLIGACIÓN DE SOMETERSE AL CUIDADO O VIGILANCIA DE UNA PERSONA O INSTITUCIÓN DETERMINADA
 
@@ -721,19 +725,19 @@ La presentación a que se refiere el párrafo anterior se hará sin perjuicio de
 
 Presentación ante otra autoridad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2016)</small>
 
-Si corresponde aplicar la medida cautelar de presentación periódica ante otra autoridad, el sometido a la medida acudirá a la oficina que designe el Instituto, con la periodicidad que se haya determinado, a efecto de informar sobre sus actividades.
+Si corresponde aplicar la medida cautelar de presentación periódica ante otra autoridad, el sometido a la medida acudirá a la oficina que designe la Fiscalía, con la periodicidad que se haya determinado, a efecto de informar sobre sus actividades.
 
 La presentación a que se refiere el párrafo anterior se hará sin perjuicio de que el imputado pueda ser requerido en cualquier momento por el juzgador.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2016)</small>
 
-Al dictarse la medida, el juez dará aviso inmediato al Instituto, a efecto de estar en posibilidades de ejecutarla. Cuando la medida deba ejecutarse en algún distrito judicial donde el Instituto no tenga representación administrativa, dicha dependencia coordinará y vigilará su ejecución, por conducto de las autoridades municipales con las que tenga celebrados convenios de colaboración, llevando un registro permanente sobre el cumplimiento de la medida en aquellas instancias.
+Al dictarse la medida, el órgano jurisdiccional competente dará aviso inmediato a la Fiscalía, a efecto de estar en posibilidades de ejecutarla. Cuando la medida deba ejecutarse en algún distrito judicial donde la Fiscalía no tenga representación administrativa, dicha dependencia coordinará y vigilará su ejecución, por conducto de las autoridades administrativas con las que tenga celebrados convenios de colaboración, llevando un registro permanente sobre el cumplimiento de la medida en aquellas instancias.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2016)</small>
 
-En cualquier caso, el Instituto informará oportunamente al Juez de Control sobre el cumplimiento de la medida.
+En cualquier caso, la Fiscalía informará oportunamente al órgano jurisdiccional competente sobre el cumplimiento de la medida.
 
 #### SECCIÓN QUINTA. LOCALIZADORES ELECTRÓNICOS
 
@@ -815,9 +819,9 @@ Para levantar la medida cautelar personal, el imputado deberá comprometerse for
 
 Ejecución de la medida.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2016)</small>
 
-La ejecución de la medida cautelar de suspensión de derechos que dicte la autoridad judicial, será notificada al Instituto y estará sujeta a las siguientes reglas:
+La ejecución de la medida cautelar de suspensión de derechos que dicte la autoridad judicial, será notificada a la Fiscalía y estará sujeta a las siguientes reglas:
 
 a) Si se trata de suspensión de funciones de un servidor público, se remitirá el proveído al superior jerárquico correspondiente, a efecto de que materialmente ejecute la medida.
 
@@ -891,13 +895,13 @@ Serán aplicables para el cumplimiento de la prisión preventiva, en lo conducen
 
 ### CAPÍTULO II. MEDIDAS CAUTELARES REALES
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2016)</small>
 
 ###### Artículo 48.
 
 Embargo precautorio.
 
-Al decretarse la medida cautelar de embargo precautorio, se remitirá la resolución a la Fiscalía, la cual la remitirá al Registro Público de la Propiedad; así mismo, se le notificará al Instituto para su conocimiento.
+Al decretarse la medida de embargo precautorio, se remitirá la resolución a la Fiscalía, la cual la remitirá al Registro Público de la Propiedad.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -931,9 +935,9 @@ IV.- Participar en programas especiales para la prevención y tratamiento de adi
 
 V.- Aprender una profesión u oficio o seguir cursos de capacitación en el lugar o la institución que determine el juez.- Quedará sujeta a la revisión por parte de las Secretarías de Educación, Cultura y Deporte; de Economía, y del Trabajo y Previsión Social, quienes darán seguimiento a la incorporación del imputado a alguno de los centros que ofrezcan servicios educativos o de capacitación para el trabajo, informando sobre los avances programáticos que alcance el imputado, así como de la culminación de los estudios, en su caso.
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2016)</small>
 
-VI.- Prestar servicio social a favor del Estado o de instituciones de beneficencia pública.- Quedará sujeta a la revisión por parte del Instituto, el que inscribirá al imputado en un listado especial de prestadores de servicio y le indicará la institución en la que deba realizarse, el horario en el que se cumplirá, así como las labores que desempeñará. Así mismo, supervisará el trabajo del imputado periódicamente, e informará sobre su cumplimiento.
+VI.- Prestar servicio social a favor del Estado o de instituciones de beneficencia pública.- Quedará sujeta a la revisión por parte de la Fiscalía, la que inscribirá al imputado en un listado especial de prestadores de servicio y le indicará la institución en la que deba realizarse, el horario en el que se cumplirá, así como las labores que desempeñará. Así mismo, supervisará el trabajo del imputado periódicamente, e informará sobre su cumplimiento.
 
 VII.- Someterse a tratamiento médico o sicológico, de preferencia en instituciones públicas.- Se sujetará, en lo conducente, a las disposiciones de ejecución de la medida cautelar de internamiento en centro de salud u hospital siquiátrico.
 
@@ -959,29 +963,29 @@ XIII.- Cumplir con los deberes de deudor alimentario.- En su cumplimiento, queda
 
 ### CAPÍTULO IV. DISPOSICIONES COMUNES A LAS MEDIDAS CAUTELARES Y SUSPENSIÓN CONDICIONAL DEL PROCESO
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2016)</small>
 
 ###### Artículo 50.
 
 Irregularidades o incumplimiento de las medidas.
 
-Si durante el período de cumplimiento de las medidas cautelares o condiciones, la autoridad, persona o institución ejecutora observa o da cuenta de incumplimiento o de cualquier irregularidad, dará aviso inmediato al Juez de Control, por conducto del Instituto, para los efectos procesales conducentes.
+Si durante el período de cumplimiento de las medidas cautelares o condiciones, la autoridad, persona o institución ejecutora observa o da cuenta de incumplimiento o de cualquier irregularidad, dará aviso inmediato al órgano jurisdiccional competente, por conducto de la Fiscalía, para los efectos procesales conducentes.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2016)</small>
 
 ###### Artículo 51.
 
 Sustitución, modificación o cancelación de las medidas cautelares o condiciones.
 
-El Juez de Control informará a la persona o institución ejecutora sus determinaciones sobre la sustitución, modificación o cancelación de la medida cautelar, así como de la revocatoria o cesación provisional de los efectos de la suspensión condicional del proceso, en su caso.
+El órgano jurisdiccional competente informará a la persona o institución ejecutora sus determinaciones sobre la sustitución, modificación o cancelación de la medida cautelar, así como de la revocatoria o cesación provisional de los efectos de la suspensión condicional del proceso, en su caso.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2016)</small>
 
 ###### Artículo 52.
 
 Ente coordinador.
 
-La comunicación entre el órgano jurisdiccional y las autoridades señaladas como auxiliares, se llevará a cabo por conducto del Instituto, quien además llevará un registro general sobre las medidas cautelares y condiciones decretadas, la sustitución, modificación o cancelación de las primeras, así como de la revocatoria o cesación provisional de las segundas.
+La comunicación entre el órgano jurisdiccional y las autoridades señaladas como auxiliares, se llevará a cabo por conducto de la Fiscalía, quien además llevará un registro general sobre las medidas cautelares y condiciones decretadas, la sustitución, modificación o cancelación de las primeras, así como de la revocatoria o cesación provisional de las segundas.
 
 ## TÍTULO CUARTO. EJECUCIÓN DE LAS PENAS Y MEDIDAS DE SEGURIDAD
 
@@ -1879,31 +1883,11 @@ La ejecución de la pena de suspensión, destitución e inhabilitación para el 
 
 ###### Artículo 112.
 
-Destino de los objetos decomisados.
-
-La autoridad competente determinará el destino de los instrumentos, objetos o productos del delito, al pago de la reparación de los daños y perjuicios causados, al de la multa o, en su defecto, según su utilidad, al mejoramiento de la procuración y la administración de justicia.
-
-Si las cosas aseguradas o decomisadas son sustancias nocivas, peligrosas, de uso ilícito o consideradas como desecho, la autoridad competente ordenará de inmediato las medidas de precaución que correspondan, incluida su destrucción, confinamiento o, en su caso, conservación para fines de docencia, investigación o terapéuticos, según se estime conveniente.
-
-Si se trata de material pornográfico, éste quedará clasificado como información reservada en los términos de la ley de Transparencia y Acceso a la Información Pública.
-
-Los productos, rendimientos o beneficios obtenidos por los delincuentes o por otras personas, como resultado de su conducta ilícita, serán decomisados y se destinarán en los términos del presente artículo.
+(DEROGADO, P.O. 18 DE JUNIO DE 2016)
 
 ###### Artículo 113.
 
-Destino de bienes a disposición de la autoridad.
-
-Los objetos o valores que se encuentren a disposición de las autoridades investigadoras o de las judiciales, que no hayan sido decomisados y que no hayan sido recogidos por quien tenga derecho a ello, en un lapso de sesenta días naturales, contados a partir de la notificación al interesado, se venderán de conformidad con las disposiciones legales y administrativas aplicables.
-
-Si el interesado no se presenta dentro de los treinta días naturales siguientes a la fecha de venta, el producto de la misma se destinará al Fondo de Auxilio para Víctimas u Ofendidos del Delito, previas las deducciones de los gastos ocasionados en los términos de las disposiciones legales aplicables.
-
-En el caso de bienes que se encuentren a disposición de la autoridad, que no se deban destruir y que no se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en las condiciones que más convengan, con la excepción prevista en el párrafo siguiente, y el producto se dejará a disposición de quien tenga derecho al mismo por un lapso de tres meses a partir de la notificación que se haga, transcurrido el cual, dicho producto se destinará al Fondo de Auxilio para Víctimas u Ofendidos del Delito.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
-
-Los bienes perecederos de consumo y durables podrán ser donados a instituciones de asistencia pública en el Estado, en los términos y condiciones que se establezcan mediante acuerdo que emita el Fiscal General del Estado.
+(DEROGADO, P.O. 18 DE JUNIO DE 2016)
 
 #### SECCIÓN TERCERA. INHABILITACIÓN, DESTITUCIÓN O SUSPENSIÓN DE CARGOS O EMPLEOS PÚBLICOS
 
@@ -2962,3 +2946,37 @@ SEGUNDO.- Derogación tácita de preceptos incompatibles.
 Quedan derogadas todas las disposiciones legales que se opongan al contenido del presente Decreto.
 
 TERCERO.- Cuando en cualquier disposición legal se haga referencia al Código de Procedimientos Penales del Estado de Chihuahua, se entenderá que se refiere al Código Nacional de Procedimientos Penales.
+
+P.O. 18 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. 1390/2016 XIV P.E. POR EL CUAL EN SU “ARTÍCULO SEGUNDO SE DEROGAN LOS ARTÍCULOS 112 Y 113 DE LA LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES DEL ESTADO DE CHIHUAHUA”.]
+
+Artículo Primero.- Inicio de Vigencia.
+
+El presente Decreto entrará en vigor a las cero horas del día 13 de junio del año 2016, de conformidad con la Declaratoria contenida en el Decreto No. 852/2015 VII P.E., publicado en Periódico Oficial del Estado el día 04 de marzo de 2015, fecha en la que entrará en vigor en el Estado el Código Nacional de Procedimientos Penales.
+
+Artículo Segundo.- Derogación tácita de preceptos incompatibles.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- Reglamento.
+
+El Ejecutivo del Estado deberá expedir el Reglamento de la Ley para la Administración y Destino de Bienes Relacionados con Hechos Delictivos para el Estado de Chihuahua, en un término que no excederá de noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Cuarto.- Entrega de los Bienes a la Autoridad Administrativa.
+
+Todos los bienes que hayan sido adjudicados al Estado de Chihuahua mediante sentencia ejecutoria por extinción de dominio y que no hayan sido enajenados, así como los que habiendo sido objeto de una medida cautelar se encuentren sujetos a un procedimiento de dicha naturaleza en los términos de la Ley de la materia, serán entregados a la Autoridad Administrativa a que se refiere la Ley para la Administración y Destino de Bienes Relacionados con Hechos Delictivos para el Estado de Chihuahua que se expide por virtud del presente Decreto, en un término que no excederá de noventa días naturales contados a partir de su entrada en vigor.
+
+El incumplimiento de esta disposición, será motivo de responsabilidad en los términos de las disposiciones aplicables.
+
+P.O. 18 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 1139/2015 I P.O., MEDIANTE EL CUAL SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 18; LA FRACCIÓN IV DEL ARTÍCULO 24, ASÍ COMO EL CAPÍTULO TERCERO DEL TÍTULO QUINTO QUE COMPRENDE DE LOS ARTÍCULOS 179 AL 187, TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS PRECEPTOS DEL DECRETO NO. 714/2014 I P.O., EN SU ARTÍCULO SEGUNDO, POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 13 de junio del año 2016, fecha en que iniciará su vigencia en todo el territorio del Estado el Código Nacional de Procedimientos Penales, conforme a la Declaratoria emitida mediante Decreto No. 852/2015 VII P.E., publicado en el Periódico Oficial del Estado el 04 de marzo de 2015.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones legales que se opongan al contenido del presente Decreto.
