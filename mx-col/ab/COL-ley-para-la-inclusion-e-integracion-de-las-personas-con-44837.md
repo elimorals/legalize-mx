@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-inclusion-e-integracion-de-las-personas-con-44837"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-07"
-last_updated: "2015-08-15"
+last_updated: "2016-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY PARA LA INCLUSION E INTEGRACION DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA -- ANTES LEY PARA LA INCLUSION DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA -- ANTES LEY PARA LA INTEGRACION Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA --
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE JUNIO DE 2016 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY PARA LA INTEGRACIÓN Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 7 de mayo de 2005.
 
@@ -129,6 +131,14 @@ Será obligatorio para las instituciones pública, privadas y sociales, proporci
 
 Así mismo, las dependencias y entidades de la administración pública estatal centralizada y paraestatal, los poderes Legislativo y Judicial, así como las dependencias y entidades de las administraciones públicas municipales centralizadas y paramunicipales, deberán contar con personal necesario capacitado en el uso de señas o lenguaje icónico utilizado por las personas sordomudas, principalmente en las áreas que tengan atención de manera directa con la población, con la finalidad de que puedan dar un trato y servicio adecuado, digno y eficaz a las personas con este tipo de discapacidad.
 
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2016)</small>
+
+Todas las dependencias estatales y municipales, y los poderes Legislativo y Judicial, deberán contar con políticas que garanticen la atención prioritaria a las personas con algún tipo de discapacidad, que requieran de acceso a sus servicios.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2016)</small>
+
+Para efectos del párrafo anterior, los entes públicos capacitarán a por lo menos dos integrantes de su personal de acuerdo con las normas técnicas que el INCODIS proponga en materia de organización y prestación de servicios. Del mismo modo, incorporarán en sus sitios de internet, información suficiente sobre sus servicios, con una presentación idónea para consulta de las personas que sufran alguna discapacidad.
+
 ###### Artículo 7°.
 
 Ningún ordenamiento legal en el Estado podrá incluir restricciones para la educación, el trabajo, la atención a la salud y la convivencia social de las personas con discapacidad.
@@ -209,6 +219,10 @@ XIX La protección contra la explotación, violencia y abusos derivados de su di
 
 XX. Los demás que señalen las leyes.
 
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2016)</small>
+
+Será obligación de las instituciones de procuración de justicia, seguridad pública, custodia y tratamiento, garantizar el trato humanitario y especializado, según las necesidades particulares de las personas con discapacidad que se encuentren en los supuestos de detención, arresto o prisión; así como facilitar a dichas personas los intérpretes o consultores que requieran, en su caso.
+
 ### Capítulo III. Del Instituto Colimense para la Discapacidad
 
 ###### Artículo 11.
@@ -224,6 +238,10 @@ El INCODIS procurará que las medidas que se adopten de acatamiento de las dispo
 ###### Artículo 13.
 
 La Secretaría de Planeación en coordinación con el INCODIS serán los responsables de proponer a las instituciones públicas, sociales y privadas de la entidad, acciones, política, planes y programas específicos de concertación, planeación y promoción, que garanticen las condiciones favorables para el desarrollo de las personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2016)</small>
+
+El INCODIS y la Unidad Estatal de Protección Civil deberán elaborar y actualizar periódicamente, una guía para la atención y protección de las personas con discapacidad en casos de emergencia o siniestro. Dicha guía deberá ser adoptada en todos los inmuebles de las dependencias públicas estatales y municipales, así como estar disponible para consulta de la población en general.
 
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2013)</small>
 
@@ -409,7 +427,7 @@ III. El fomento y la promoción de las potencialidades de la persona con discapa
 
 IV. Desarrollar al máximo su capacidad de aprendizaje;
 
-V. La incorporación a la vida social y el desempeño de un trabajo que permita a la persona con discapacidad autorealizarse (sic), servirse a sí mismo y a desarrollarse en la vida práctica; y
+V. La incorporación a la vida social y el desempeño de un trabajo que permita a la persona con discapacidad (sic) autorealizarse, servirse a sí mismo y a desarrollarse en la vida práctica; y
 
 VI. Capacitar a padres de familia o tutores, así como también a los maestros y personal de las escuelas de educación básica regular para que integren a alumnos con necesidades especiales a la educación.
 
@@ -998,3 +1016,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se concede a los concesionarios y permisionarios del servicio de transporte público, el plazo de ciento ochenta días naturales, a partir de la entrada en vigor del presente Decreto, para que, realicen las adecuaciones necesarias a fin de garantizar la observancia de las medidas contenidas en el presente Decreto.
 
 TERCERO.- El Ejecutivo del Estado a través de la Secretaría General de Gobierno y la Dirección General de Transporte y de la Seguridad Vial, deberán tomar las medidas pertinentes a fin de garantizar la observancia de las medidas contenidas en el presente Decreto.
+
+P.O. 18 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 105 SE ADICIONAN LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 6°; EL PÁRRAFO SEGUNDO AL ARTÍCULO 10, Y EL PÁRRAFO SEGUNDO AL ARTÍCULO 13 BIS, TODOS DE LA LEY PARA LA INTEGRACIÓN Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA; ASÍ MISMO, SE ADICIONAN LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 75 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA; Y SE ADICIONAN UN PÁRRAFO SEGUNDO AL ARTÍCULO 64, Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 86, TODOS DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE COLIMA".]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
