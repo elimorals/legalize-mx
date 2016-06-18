@@ -4,7 +4,7 @@ identifier: "COL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-103535"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-08"
-last_updated: "2016-06-04"
+last_updated: "2016-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEXTO DEL DECRETO NÚMERO 409 DEL P.O. 18 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL 31 DE DICIEMBRE DE 2014.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 8 de noviembre de 2014.
 
@@ -1352,6 +1352,14 @@ El Estado y los municipios realizarán los trabajos conducentes para lograr la c
 El servicio de llamadas de emergencia y el servicio de denuncia anónima operarán cada uno de éstos con un número único de atención a la ciudadanía.
 
 El Secretario Ejecutivo adoptará las medidas necesarias para la homologación de los servicios.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2016)</small>
+
+Las líneas telefónicas de emergencia y de denuncia anónima, contarán con una canalización especial para personas con discapacidad, donde éstas puedan recibir atención de personal previamente capacitado por el Instituto Colimense para la Discapacidad, de acuerdo con sus necesidades especiales.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2016)</small>
+
+A fin de realizar la canalización mencionada, las autoridades en materia de seguridad pública dispondrán la implementación de una aplicación tecnológica, compatible con cualquier dispositivo de comunicación. El acceso a la instalación de dicha aplicación deberá proporcionarse permanentemente a las personas con discapacidad, en la sede del Instituto Colimense para la Discapacidad.
 
 ###### ARTÍCULO 76.
 
@@ -3736,3 +3744,11 @@ P.O. 4 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 97 SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 133, Y SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 134 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 18 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 105 SE ADICIONAN LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 6°; EL PÁRRAFO SEGUNDO AL ARTÍCULO 10, Y EL PÁRRAFO SEGUNDO AL ARTÍCULO 13 BIS, TODOS DE LA LEY PARA LA INTEGRACIÓN Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA; ASÍ MISMO, SE ADICIONAN LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 75 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA; Y SE ADICIONAN UN PÁRRAFO SEGUNDO AL ARTÍCULO 64, Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 86, TODOS DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE COLIMA”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
