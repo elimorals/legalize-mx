@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-fiscalia-general-del-estado-de-chihuahua-768
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-25"
-last_updated: "2016-06-11"
+last_updated: "2016-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "CHH"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE CHIHUAHUA
 
-(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 58/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1364/2016 II P.O., PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIHUAHUA DE ONCE DE JUNIO DE DOS MIL DIECISÉIS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2016.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 25 de septiembre de 2010.
 
@@ -231,9 +229,11 @@ EL FISCAL GENERAL DEL ESTADO Y LOS FISCALES ESPECIALIZADOS EN LA INVESTIGACIÓN 
 
 Para cumplir con las obligaciones dispuestas en la Ley General de Víctimas, así como en la legislación estatal en la materia, la Fiscalía General del Estado cuenta con la Comisión Ejecutiva de Atención a Víctimas del Estado de Chihuahua, como órgano desconcentrado con autonomía técnica y de gestión.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2016)</small>
+
 ###### Artículo 4.
 
-Para el ejercicio de las funciones sustantivas, forman parte de la Fiscalía General del Estado: La Policía Estatal Única, el Centro de Justicia Alternativa, la Dirección de Servicios Periciales y Ciencias Forenses, el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el Centro Estatal de Estadística Criminal, las Casas de Atención a Víctimas y Ofendidos del Delito, el Centro Estatal de Control de Confianza, la Escuela Estatal de Policía, el Centro de Atención Integral a la Salud, los Centros de Reinserción Social, los Centros de Control, Comando, Comunicaciones y Cómputo y las demás Unidades Técnicas y Administrativas que establezcan sus leyes y reglamentos.
+Para el ejercicio de las funciones sustantivas, forman parte de la Fiscalía General del Estado: La Policía Estatal Única, el Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal, la Dirección de Servicios Periciales y Ciencias Forenses, el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el Centro Estatal de Estadística Criminal, las Casas de Atención a Víctimas y Ofendidos del Delito, el Centro Estatal de Control de Confianza, la Escuela Estatal de Policía, el Centro de Atención Integral a la Salud, los Centros de Reinserción Social, los Centros de Control, Comando, Comunicaciones y Cómputo y las demás Unidades Técnicas y Administrativas que establezcan sus leyes y reglamentos.
 
 ###### Artículo 5.
 
@@ -289,7 +289,13 @@ XI. Comparecer ante el Congreso del Estado para informar de los asuntos a su car
 
 XII. Asistir a las sesiones del Pleno del Supremo Tribunal de Justicia; y
 
-XIII. Las demás que le confieran las leyes y reglamentos.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2016)</small>
+
+XIII. Ejercer las que le concede la presente Ley en relación al Fondo Auxiliar para la Procuración de Justicia.
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2016)</small>
+
+XIV. Las demás que le confieran las leyes y reglamentos.
 
 ###### Artículo 7.
 
@@ -429,21 +435,73 @@ Los agentes del Ministerio Público podrán actuar válidamente, en ejercicio de
 
 La División de Investigación depende de la Policía Estatal Única y se encuentra bajo la autoridad y mando del Ministerio Público, teniendo la organización y atribuciones establecidas en el Reglamento respectivo.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2016)</small>
+
 ###### Artículo 15.
 
-La Policía Estatal Única, el Centro de Justicia Alternativa, la Dirección de Servicios Periciales y Ciencias Forenses, el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el Centro Estatal de Estadística Criminal, las Casas de Atención a Víctimas y Ofendidos del Delito, el Centro Estatal de Control de Confianza, la Escuela Estatal de Policía, el Centro de Atención Integral a la Salud, los Centros de Reinserción Social, los Centros de Control, Comando, Comunicaciones y Cómputo, y las demás Unidades Técnicas y Administrativas tendrán la estructura y las atribuciones que establezcan sus leyes y reglamentos.
+La Policía Estatal Única, el Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal, la Dirección de Servicios Periciales y Ciencias Forenses, el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el Centro Estatal de Estadística Criminal, las Casas de Atención a Víctimas y Ofendidos del Delito, el Centro Estatal de Control de Confianza, la Escuela Estatal de Policía, el Centro de Atención Integral a la Salud, los Centros de Reinserción Social, los Centros de Control, Comando, Comunicaciones y Cómputo, y las demás Unidades Técnicas y Administrativas tendrán las (sic) estructura y las atribuciones que establezcan sus leyes y reglamentos.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 18 DE JUNIO DE 2016)</small>
 
-### CAPÍTULO IV. Del Servicio Civil y Profesional de Carrera
+### CAPÍTULO IV. Del Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE JUNIO DE 2016)</small>
 
 ###### Artículo 16.
 
-(DEROGADO, P.O. 12 DE OCTUBRE DE 2013)
+El Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal es un órgano administrativo desconcentrado de la Fiscalía General del Estado; contará con independencia técnica y de gestión para el ejercicio de sus atribuciones y estará a cargo de un Director, el cual será nombrado y removido por el Gobernador del Estado a propuesta del Fiscal General.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE JUNIO DE 2016)</small>
 
 ###### Artículo 17.
 
-(DEROGADO, P.O. 12 DE OCTUBRE DE 2013)
+El Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal, tiene por objeto la aplicación de los Mecanismos Alternativos de Solución de Controversias en Materia Penal en el ámbito de competencia del Ministerio Público del Estado, de conformidad con la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal; contará con oficinas, a cargo de un Coordinador, en cada una de las Fiscalías Especializadas en Investigación y Persecución del Delito por Zona, así como en la Fiscalía Especializada en Atención a Mujeres y Víctimas del Delito por Razones de Género, y habrá al menos un Facilitador en los lugares en que existan oficinas del Ministerio Público; así mismo, contará con Facilitadores certificados, personal profesional de las disciplinas necesarias para el cumplimiento de su objeto, profesionales en derecho y el personal administrativo necesario para las labores de apoyo, así como con los recursos materiales y financieros que autorice el presupuesto.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2016)</small>
+
+###### Artículo 17 Bis.
+
+Compete al Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal:
+
+I. Aplicar los mecanismos alternativos de mediación, conciliación y junta restaurativa.
+
+II. Informar a los Usuarios e Intervinientes sobre los mecanismos alternativos de solución de controversias en materia penal.
+
+III. Recibir las solicitudes que le turnen el (sic) Ministerio Público y la autoridad judicial, en los casos en que proceda conforme a las disposiciones aplicables.
+
+IV. Determinar, una vez examinada la controversia, si la misma es susceptible de resolverse a través de los mecanismos alternativos y, en caso de negativa, comunicarlo al solicitante y al Ministerio Público para los efectos legales a que hubiere lugar.
+
+V. Reconsiderar la negativa de admisión.
+
+VI. Abrir y registrar el expediente, asignándolo a un Facilitador, en su caso.
+
+VII. Realizar la Invitación al Requerido, en los términos de la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal.
+
+VIII. Llevar a cabo las acciones procedimentales contempladas en la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal para que, una vez cumplido totalmente el Acuerdo reparatorio, se dé por concluida la controversia, informando, en su caso, al Ministerio Público o a la autoridad judicial competente a efecto de que resuelvan, respectivamente, sobre la extinción de la acción penal o el sobreseimiento del asunto de conformidad con la ley.
+
+IX. Para el caso de cumplimiento parcial, el Centro Estatal dejará a salvo los derechos de los Intervinientes respecto de lo no resuelto en el Acuerdo.
+
+X. Celebrar convenios de colaboración con la Conferencia Nacional de Procuración de Justicia para la certificación de los Facilitadores del Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal, en los términos de la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal.
+
+XI. Recopilar, administrar, conservar y actualizar una base de datos de los asuntos que tramite, y compartirla con el Centro Nacional de Información del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, de conformidad con los lineamientos expedidos por la Conferencia Nacional de Procuración de Justicia.
+
+XII. Las demás que establecen la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, la presente Ley, así como los criterios y lineamientos aprobados por la Conferencia Nacional de Procuración de Justicia.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2016)</small>
+
+###### Artículo 17 Ter.
+
+El Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal contará con un área de seguimiento, la que tendrá a su cargo la obligación de impulsar y monitorear el cumplimiento de los acuerdos alcanzados por los intervinientes en el mecanismo alternativo, a efecto de que se determinen las consecuencias jurídicas respectivas, de conformidad con el Título Tercero de la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2016)</small>
+
+Artículo 17 Cuater. Para ingresar y permanecer como Facilitador del Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal, deberá cumplirse con los requisitos y obligaciones previstos en la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, en los lineamientos emitidos por la Conferencia Nacional de Procuración de Justicia y demás disposiciones aplicables y, por lo que se refiere a las evaluaciones de control de confianza, estas se sujetarán a la Ley del Sistema Estatal de Seguridad Pública.
+
+El incumplimiento por parte de los Facilitadores a las obligaciones establecidas en la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, se sancionará con la cancelación de la certificación y la revocación del nombramiento como Facilitador.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2016)</small>
+
+Artículo 17 Quintus. La Fiscalía General del Estado contará con Unidades de Atención Inmediata, que serán las encargadas de derivar las solicitudes al Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal, cuando la víctima u ofendido esté de acuerdo con solicitar el inicio de los mecanismos alternativos, de conformidad con la Ley Nacional de Mecanismos Alternativos para la Solución de Controversias en Materia Penal.
 
 ### CAPÍTULO V. De los nombramientos, remociones y ausencias
 
@@ -551,6 +609,54 @@ El Fiscal General del Estado deberá excusarse de conocer los asuntos en los cas
 
 Los Fiscales, y los agentes del Ministerio Público, no podrán desempeñar otro puesto oficial ni ejercer la abogacía, sino en causa propia, de su cónyuge, concubinario o concubina, ascendientes o descendientes; tampoco ser corredores, comisionistas, apoderados judiciales, tutores, curadores, albaceas judiciales, a no ser que tenga interés en la herencia; interventores en una quiebra o concurso, ni árbitros o arbitradores. No quedan comprendidos en esta prohibición los puestos de carácter docente.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2016)</small>
+
+### CAPÍTULO VIII. DEL FONDO AUXILIAR PARA LA PROCURACIÓN DE JUSTICIA
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2016)</small>
+
+###### Artículo 36.
+
+Para el mejor ejercicio de sus funciones, la Fiscalía General del Estado contará con el Fondo Auxiliar para la Procuración de Justicia, el cual se integrará de la siguiente manera:
+
+I. Recursos obtenidos por la enajenación que realice la Autoridad Administrativa a que se refiere la Ley para la Administración y Destino de Bienes Relacionados con Hechos Delictivos para el Estado de Chihuahua, de los bienes que causen abandono a favor del Estado, de conformidad con los artículos 231, párrafo segundo y 246 del Código Nacional de Procedimientos Penales, salvo aquellos en los que exista disposición expresa para el destino de los mismos.
+
+II. La parte correspondiente de los recursos obtenidos por los bienes decomisados, en los términos del artículo 250, párrafo segundo del Código Nacional de Procedimientos Penales.
+
+III. Recursos obtenidos de los remanentes a que hace referencia el artículo 34 de la Ley para la Administración y Destino de Bienes Relacionados con Hechos Delictivos para el Estado de Chihuahua, salvo aquellos en los que exista disposición expresa para el destino de los mismos.
+
+IV. Multas que imponga el Ministerio Público para el cumplimiento de sus determinaciones en el ejercicio de sus funciones, de conformidad con lo dispuesto por el artículo 104, fracción I, inciso b) del Código Nacional de Procedimientos Penales.
+
+V. Recursos obtenidos por los gastos procesales, cuando exista sentencia firme de autoridad judicial que condene al pago a favor del Estado.
+
+VI. Rendimientos financieros que generen los depósitos bancarios del Fondo Auxiliar.
+
+VIl. Donaciones o aportaciones hechas por terceros a favor del Fondo Auxiliar.
+
+VIII. Las demás que establezca la legislación local y federal.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2016)</small>
+
+###### Artículo 37.
+
+El Fondo Auxiliar para la Procuración de Justicia dependerá del Fiscal General del Estado, por conducto del servidor público que el mismo designe.
+
+El Fiscal General del Estado deberá informar semestralmente a la Auditoría Superior del Estado sobre las actividades desarrolladas con cargo al Fondo Auxiliar.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2016)</small>
+
+###### Artículo 38.
+
+Los recursos del Fondo Auxiliar se destinarán, entre otros, a los siguientes fines:
+
+I. La capacitación y mejoramiento técnico y profesional de los integrantes de las Instituciones de Seguridad Pública del Estado, en el ámbito de la investigación y persecución del delito.
+
+II. La adquisición extraordinaria de mobiliario y equipo necesarios para el mejor desempeño de las funciones de investigación y persecución del delito.
+
+III. El pago de estímulos y recompensas extraordinarias para los integrantes de las Instituciones de Seguridad Pública del Estado, en el ámbito de la investigación y persecución del delito.
+
+IV. La realización de estudios técnicos y la contratación de servicios que se vinculen con los conceptos a que se refieren las fracciones anteriores.
+
 T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
@@ -609,7 +715,7 @@ El presente Decreto entrará en vigor el día cinco de octubre de dos mil diez, 
 
 P.O. 3 DE SEPTIEMBRE DE 2011.
 
-DECRETO No. 384/2011 II P.O. POR EL QUE SE REFORMA LA FRACCIÓN I DEL INCISO A DEL ARTÍCULO 2; ASÍ COMO LA FRACCIÓN II DEL ARTÍCULO 6, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA.
+DECRETO NO. 384/2011 II P.O. POR EL QUE SE REFORMA LA FRACCIÓN I DEL INCISO A DEL ARTÍCULO 2; ASÍ COMO LA FRACCIÓN II DEL ARTÍCULO 6, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -773,4 +879,70 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 
 El ARTÍCULO PRIMERO del presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado; en tanto el ARTÍCULO SEGUNDO correspondiente a las reformas de la Ley Orgánica de la Fiscalía General del Estado, lo hará un día después de que entre en vigor la reforma constitucional.
 
+P.O. 18 DE JUNIO DE 2016.
+
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 1364/2016 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 122 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA".]
+
+## [N. DE E. TRANSITORIOS DE LA “LEY PARA LA ADMINISTRACIÓN Y DESTINO DE BIENES RELACIONADOS CON HECHOS DELICTIVOS PARA EL ESTADO DE CHIHUAHUA”.]
+
+Artículo Primero.- Inicio de Vigencia.
+
+El presente Decreto entrará en vigor a las cero horas del día 13 de junio del año 2016, de conformidad con la Declaratoria contenida en el Decreto No. 852/2015 VIl P.E., publicado en (sic) Periódico Oficial del Estado el día 04 de marzo de 2015, fecha en la que entrará en vigor en el Estado el Código Nacional de Procedimientos Penales.
+
+Artículo Segundo.- Derogación tácita de preceptos incompatibles.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- Reglamento.
+
+El Ejecutivo del Estado deberá expedir el Reglamento de la Ley para la Administración y Destino de Bienes Relacionados con Hechos Delictivos para el Estado de Chihuahua, en un término que no excederá de noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Cuarto.- Entrega de los Bienes a la Autoridad Administrativa.
+
+Todos los bienes que hayan sido adjudicados al Estado de Chihuahua mediante sentencia ejecutoria por extinción de dominio y que no hayan sido enajenados, así como los que habiendo sido objeto de una medida cautelar se encuentren sujetos a un procedimiento de dicha naturaleza en los términos de la Ley de la materia, serán entregados a la Autoridad Administrativa a que se refiere la Ley para la Administración y Destino de Bienes Relacionados con Hechos Delictivos para el Estado de Chihuahua que se expide por virtud del presente Decreto, en un término que no excederá de noventa días naturales contados a partir de su entrada en vigor.
+
+El incumplimiento de esta disposición, será motivo de responsabilidad en los términos de las disposiciones aplicables.
+
+P.O. 18 DE JUNIO DE 2016.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal iniciará las funciones relativas a la aplicación de los mecanismos alternativos, en la fecha en que entre en vigor el Código Nacional de Procedimientos Penales en el Estado.
+
+###### ARTÍCULO TERCERO.
+
+Una vez que entre en vigor el presente Decreto, el Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal, de conformidad con los lineamientos aprobados por la Conferencia Nacional de Procuración de Justicia, en coordinación con la Secretaría Técnica de la misma, la Escuela Estatal de Policía y el Centro Estatal de Evaluación y Control de Confianza, iniciará con los procesos para la capacitación, evaluación y certificación de los Facilitadores.
+
+###### ARTÍCULO CUARTO.
+
+La Ley de Justicia Penal Alternativa para el Estado de Chihuahua, aprobada mediante Decreto No. 693/06 I P.O. y publicada en el Periódico Oficial del Estado el día 09 de diciembre de 2006, así como sus posteriores reformas y adiciones, quedará abrogada una vez que entre en vigor en el territorio del Estado el Código Nacional de Procedimientos Penales.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+A la entrada en vigor del presente Decreto, quedarán transferidos al órgano administrativo desconcentrado que se crea por virtud del presente Decreto, los recursos humanos, materiales, presupuestarios, archivos, expedientes, bases de datos y demás, de los Centros de Justicia Alternativa dependientes de las Fiscalías Especializadas en Investigación y Persecución del Delito de la Fiscalía General del Estado.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se faculta a la Fiscalía General del Estado y a la Secretaría de Hacienda para que, de conformidad con las disposiciones legales vigentes y con estricta sujeción a la disponibilidad contenida en el Presupuesto de Egresos para el presente Ejercicio Fiscal, instrumenten y lleven a cabo lo dispuesto en el transitorio sexto anterior.
+
+###### ARTÍCULO OCTAVO.
+
+La transferencia a que se refiere el transitorio sexto anterior, no supone ni significa afectación o menoscabo en modo alguno a los derechos de los servidores públicos actualmente adscritos a los Centros de Justicia Alternativa dependientes de las Fiscalías Especializadas en Investigación y Persecución del Delito de la Fiscalía General del Estado, que se incorporan al órgano administrativo desconcentrado que se crea por virtud del presente Decreto.
+
+###### ARTÍCULO NOVENO.
+
+Los agentes del Ministerio Público que se desempeñen como Facilitadores de los Centros de Justicia Alternativa, dependientes de las Fiscalías Especializadas en Investigación y Persecución del Delito de la Fiscalía General del Estado, y que opten por ser recategorizados como Facilitadores del Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal que se crea por virtud del presente Decreto, dejarán de tener el carácter de agentes del Ministerio Público al obtener la certificación correspondiente.
+
+###### ARTÍCULO DÉCIMO.
+
+Los asuntos en trámite ante los Centros de Justicia Alternativa dependientes de las Fiscalías Especializadas en Investigación y Persecución del Delito de la Fiscalía General del Estado, se proseguirán conforme a las disposiciones legales y reglamentarias vigentes al momento de su inicio.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 1393/2016 XIV P.E., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 35 APARTADO B, SEGUNDO PÁRRAFO FRACCIÓN X, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, Y SE REFORMAN LOS ARTÍCULOS 4, 15, 16 Y 17, ASÍ COMO LA DENOMINACIÓN DEL CAPÍTULO IV; Y SE ADICIONAN LOS ARTÍCULOS 17 BIS, 17 TER, 17 CUATER Y 17 QUINTUS, TODOS ELLOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA".]
