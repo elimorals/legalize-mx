@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2016-05-07"
+last_updated: "2016-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA -- ANTES REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA --
 
-REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
+REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2016.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -41,7 +41,9 @@ REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBRENO 
 
 Es de aprobarse y se aprueba el Reglamento de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Colima, en los siguientes términos.
 
-REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBRENO (SIC) DE COLIMA.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JUNIO DE 2016)</small>
+
+REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -717,9 +719,21 @@ IV.- Los que tengan por objeto la creación y otorgamiento de reconocimientos, c
 
 V.- Conocer de los asuntos que se refieran a la creación, organización y funcionamiento de instituciones encargadas de impulsar el Deporte en todas sus ramas; así como el fomento y promoción al Deporte, la Recreación y la Educación Física;
 
-VI.- Analizar y dictaminar las propuestas que se hagan al Congreso para el reconocimiento de personas o instituciones públicas, privadas o sociales que se hayan destacado por ser ejemplo en la promoción o práctica del deporte; y
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2016)</small>
 
-VII.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+VI.- Analizar y dictaminar las propuestas que se hagan al Congreso para el reconocimiento de personas o instituciones públicas, privadas o sociales que se hayan destacado por ser ejemplo en la promoción o práctica del deporte;
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2016)</small>
+
+VII. Lo relativo a la elaboración de un programa para la celebración de ceremonias cívicas mensuales, que se llevarán a cabo el primer lunes de cada mes, en la explanada "A la Bandera", que se ubica en las inmediaciones de los Poderes Legislativo y Judicial, a partir de las 8:30 de la mañana. En dicho programa además de rendir honores a la bandera, se conmemorarán las fechas históricas; debiendo de invitar a los magistrados del Supremo Tribunal de Justicia en el Estado, al personal sindicalizado y de confianza de ambas dependencias, así como a los representantes de los medios de comunicación y público en general, siendo potestativo de los integrantes de la legislatura su asistencia, y teniendo derecho a participación en ellas.
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2016)</small>
+
+VIII. Organizar y ejecutar las ceremonias cívicas a que se refiere la fracción anterior, contando con el apoyo de la Oficialía Mayor; y
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2016)</small>
+
+IX.- Las demás que le otorgue la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2887,8 +2901,16 @@ P.O. 12 DE MARZO DE 2016.
 
 P.O. 7 DE MAYO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO No. 91 SE REFORMA EL INCISO H) Y ADICIONAN LOS INCISOS I) Y J) AL ARTÍCULO 2º; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 27; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 187; SE REFORMAN LOS ARTÍCULOS 188 Y 190; SE ADICIONA EL CAPÍTULO XXVI DENOMINADO JUICIO DE RESPONSABILIDAD ADMINISTRATIVA INTEGRADO POR LOS ARTÍCULOS 246 A 254, TODOS DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 91 SE REFORMA EL INCISO H) Y ADICIONAN LOS INCISOS I) Y J) AL ARTÍCULO 2º; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 27; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 187; SE REFORMAN LOS ARTÍCULOS 188 Y 190; SE ADICIONA EL CAPÍTULO XXVI DENOMINADO JUICIO DE RESPONSABILIDAD ADMINISTRATIVA INTEGRADO POR LOS ARTÍCULOS 246 A 254, TODOS DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
 
-PRIMERO.- El presente Decreto entrará en vigor el día de su aprobación. Debiendo publicarse en el Periódico Oficial "El Estado de Colima".
+PRIMERO.- El presente Decreto entrará en vigor el día de su aprobación. Debiendo publicarse en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- El presente Juicio de Responsabilidad Administrativa no será aplicable a los procedimientos que actualmente se encuentran radicados ante la Comisión de Responsabilidades del Congreso del Estado de Colima.
+
+P.O. 18 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 106 SE REFORMA LA DENOMINACIÓN DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA, A FIN DE DENOMINARSE "REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA"; ASÍ MISMO, SE REFORMAN LAS FRACCIONES VI Y VII, Y SE ADICIONAN LAS FRACCIONES VIII Y IX AL ARTÍCULO 50, TODOS DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA".]
+
+###### ARTICULO ÚNICO.
+
+El presente dictamen entrará en vigor el día de su aprobación. Se publicará en el periódico Oficial "El Estado de Colima".
