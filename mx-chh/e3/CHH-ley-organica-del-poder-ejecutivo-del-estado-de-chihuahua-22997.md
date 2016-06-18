@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2015-02-11"
+last_updated: "2016-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2016.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -1185,7 +1185,9 @@ VIII. Ejercer el mando sobre la Policía Estatal Única en los términos de su L
 
 IX. Ejercitar las acciones legales en materia del Sistema Especializado de Justicia para Adolescentes Infractores;
 
-X. Organizar, dirigir y supervisar la Escuela Estatal de Policía, el Centro Estatal de Control de Confianza, los Centros de Control, Comando, Comunicaciones y Cómputo, la Dirección de Servicios Periciales y Ciencias Forenses, el Centro de Justicia Alternativa y las demás Unidades Técnicas y Administrativas que establezcan las leyes y sus reglamentos; y
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2016)</small>
+
+X. Organizar, dirigir y supervisar la Escuela Estatal de Policía, el Centro Estatal de Control de Confianza, los Centros de Control, Comando, Comunicaciones y Cómputo, la Dirección de Servicios Periciales y Ciencias Forenses, el Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal y las demás Unidades Técnicas y Administrativas que establezcan las leyes y sus reglamentos;
 
 > <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
 
@@ -2106,3 +2108,47 @@ P.O. 11 DE FEBRERO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor 60 días después de que lo haga la reforma constitucional contenida en el Decreto No. 1362/2013 XIII P.E.
+
+P.O. 18 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 1393/2016 XIV P.E., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 35 APARTADO B, SEGUNDO PÁRRAFO FRACCIÓN X, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, Y SE REFORMAN LOS ARTÍCULOS 4, 15, 16 Y 17, ASÍ COMO LA DENOMINACIÓN DEL CAPÍTULO IV; Y SE ADICIONAN LOS ARTÍCULOS 17 BIS, 17 TER, 17 CUATER Y 17 QUINTUS, TODOS ELLOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal iniciará las funciones relativas a la aplicación de los mecanismos alternativos, en la fecha en que entre en vigor el Código Nacional de Procedimientos Penales en el Estado.
+
+###### ARTÍCULO TERCERO.
+
+Una vez que entre en vigor el presente Decreto, el Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal, de conformidad con los lineamientos aprobados por la Conferencia Nacional de Procuración de Justicia, en coordinación con la Secretaría Técnica de la misma, la Escuela Estatal de Policía y el Centro Estatal de Evaluación y Control de Confianza, iniciará con los procesos para la capacitación, evaluación y certificación de los Facilitadores.
+
+###### ARTÍCULO CUARTO.
+
+La Ley de Justicia Penal Alternativa para el Estado de Chihuahua, aprobada mediante Decreto No. 693/06 I P.O. y publicada en el Periódico Oficial del Estado el día 09 de diciembre de 2006, así como sus posteriores reformas y adiciones, quedará abrogada una vez que entre en vigor en el territorio del Estado el Código Nacional de Procedimientos Penales.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+A la entrada en vigor del presente Decreto, quedarán transferidos al órgano administrativo desconcentrado que se crea por virtud del presente Decreto, los recursos humanos, materiales, presupuestarios, archivos, expedientes, bases de datos y demás, de los Centros de Justicia Alternativa dependientes de las Fiscalías Especializadas en Investigación y Persecución del Delito de la Fiscalía General del Estado.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se faculta a la Fiscalía General del Estado y a la Secretaría de Hacienda para que, de conformidad con las disposiciones legales vigentes y con estricta sujeción a la disponibilidad contenida en el Presupuesto de Egresos para el presente Ejercicio Fiscal, instrumenten y lleven a cabo lo dispuesto en el transitorio sexto anterior.
+
+###### ARTÍCULO OCTAVO.
+
+La transferencia a que se refiere el transitorio sexto anterior, no supone ni significa afectación o menoscabo en modo alguno a los derechos de los servidores públicos actualmente adscritos a los Centros de Justicia Alternativa dependientes de las Fiscalías Especializadas en Investigación y Persecución del Delito de la Fiscalía General del Estado, que se incorporan al órgano administrativo desconcentrado que se crea por virtud del presente Decreto.
+
+###### ARTÍCULO NOVENO.
+
+Los agentes del Ministerio Público que se desempeñen como Facilitadores de los Centros de Justicia Alternativa, dependientes de las Fiscalías Especializadas en Investigación y Persecución del Delito de la Fiscalía General del Estado, y que opten por ser recategorizados como Facilitadores del Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal que se crea por virtud del presente Decreto, dejarán de tener el carácter de agentes del Ministerio Público al obtener la certificación correspondiente.
+
+###### ARTÍCULO DÉCIMO.
+
+Los asuntos en trámite ante los Centros de Justicia Alternativa dependientes de las Fiscalías Especializadas en Investigación y Persecución del Delito de la Fiscalía General del Estado, se proseguirán conforme a las disposiciones legales y reglamentarias vigentes al momento de su inicio.
