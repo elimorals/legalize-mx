@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-103369"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-10-29"
-last_updated: "2015-06-24"
+last_updated: "2016-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2016.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 29 de octubre de 2014.
 
@@ -235,7 +235,7 @@ I. Instituto de Defensoría Pública.
 
 II. Instituto de Justicia Alternativa.
 
-III. Instituto de Servicios Previos al Juicio.
+III. (DEROGADA, P.O. 18 DE JUNIO DE 2016)
 
 IV. Instituto de Formación y Actualización Judicial.
 
@@ -349,7 +349,7 @@ II. Los jefes de causa y gestión, así como los encargados de las áreas admini
 
 III. Los que, sin tener el carácter de funcionarios, presten servicios al Poder Judicial de manera provisional o eventual.
 
-IV. El titular, coordinadores, evaluadores y supervisores del Instituto de Servicios Previos al Juicio.
+IV. (DEROGADA, P.O. 18 DE JUNIO DE 2016)
 
 V. El titular y personal de apoyo de la Unidad de Estadística Judicial.
 
@@ -1801,51 +1801,43 @@ Los servicios del Instituto de Justicia Alternativa serán orales, confidenciale
 
 El Instituto de Justicia Alternativa ejercerá sus atribuciones por conducto de un director, subdirectores, coordinadores de área, facilitadores y demás personal necesario para atender a la población estatal y que autorice el presupuesto.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 179.
 
-Corresponde al Tribunal la evaluación de los riesgos que, para el proceso y sus intervinientes, representen los imputados; la supervisión y seguimiento de las medidas cautelares distintas a la prisión preventiva, así como el cumplimiento de las condiciones establecidas a los imputados en la suspensión condicional del proceso, las cuales estarán a cargo del Instituto de Servicios Previos al Juicio.
+(DEROGADO, P.O. 18 DE JUNIO DE 2016)
 
 ###### ARTÍCULO 180.
 
-El Instituto es el órgano desconcentrado del Poder Judicial, con autonomía técnica, encargado de ejercer las funciones señaladas en el artículo que antecede. Asimismo, le corresponde diseñar, aplicar y, en su caso, coordinar, estrategias, planes y programas para cumplir con sus atribuciones, todo ello acorde a lo que las leyes de la materia prevean.
-
-Para el ejercicio de sus funciones, el Instituto podrá celebrar convenios con instituciones de carácter público o privado.
+(DEROGADO, P.O. 18 DE JUNIO DE 2016)
 
 ###### ARTÍCULO 181.
 
-El Instituto se regirá por los principios de presunción de inocencia, imparcialidad, objetividad, subsidiariedad, proporcionalidad, confidencialidad, legalidad, dignidad, obligatoriedad, responsabilidad e interinstitucionalidad.
+(DEROGADO, P.O. 18 DE JUNIO DE 2016)
 
 ###### ARTÍCULO 182.
 
-El Instituto ejercerá sus atribuciones por conducto de un director, subdirectores, coordinadores de área y demás personal necesario para atender a la población estatal y que autorice la Comisión de conformidad con el presupuesto. A esta corresponderá la facultad de nombramiento a propuesta del Presidente.
+(DEROGADO, P.O. 18 DE JUNIO DE 2016)
 
 ###### ARTÍCULO 183.
 
-El Instituto tendrá su sede en la ciudad de Chihuahua. En cada cabecera de distrito judicial, en la que también se encuentre el área de gestión administrativa correspondiente, deberá existir una unidad de servicios previos al juicio.
+(DEROGADO, P.O. 18 DE JUNIO DE 2016)
 
 ###### ARTÍCULO 184.
 
-El Director del Instituto y los titulares de las unidades desconcentradas podrán solicitar a cualquier autoridad, siempre y cuando no exista disposición en contrario, información inherente a sus funciones, la cual se deberá manejar sobre las bases de la Ley de Protección de Datos Personales del Estado de Chihuahua y su similar de carácter federal, según sea el caso.
+(DEROGADO, P.O. 18 DE JUNIO DE 2016)
 
 ###### ARTÍCULO 185.
 
-Toda autoridad está obligada a colaborar con los funcionarios del Instituto de Servicios Previos al Juicio. Solamente por cuestiones de seguridad podrá ser negado el auxilio.
-
-De igual forma el cuerpo policiaco o la autoridad investigadora que sea la responsable de la detención de una persona, deberá facilitar el acceso inmediato con el detenido a efecto de que se desarrollen los procesos inherentes a las funciones del Instituto.
+(DEROGADO, P.O. 18 DE JUNIO DE 2016)
 
 ###### ARTÍCULO 186.
 
-El Ministerio Público y la defensa, deberán recibir los reportes y la demás información que el Instituto de Servicios Previos al Juicio genere en el ejercicio de sus funciones.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+(DEROGADO, P.O. 18 DE JUNIO DE 2016)
 
 ###### ARTÍCULO 187.
 
-Una vez que haya sido aprobada la suspensión condicional del proceso dentro de una causa, el juez deberá notificar tal situación al Instituto de Servicios Previos al Juicio a efecto de que esta dé inicio al proceso de supervisión respectivo.
-
-En caso de incumplimiento de alguna o de la totalidad de las condiciones establecidas al imputado para el mantenimiento de la suspensión, el Instituto deberá notificar lo anterior al juez que las decretó.
+(DEROGADO, P.O. 18 DE JUNIO DE 2016)
 
 ###### ARTÍCULO 188.
 
@@ -2437,11 +2429,7 @@ II. De uno a diez años: al funcionario o empleado que con la comisión de la fa
 
 III. De diez a veinte años: al funcionario o empleado que con la comisión de la falta administrativa, ocasione daño o perjuicio u obtenga un beneficio o lucro que exceda de la cantidad establecida en la fracción anterior; así como al funcionario o empleado que cometa una falta administrativa considerada como grave.
 
-### CAPÍTULO TERCERO. DEL INSTITUTO DE SERVICIOS PREVIOS AL JUICIO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+### CAPÍTULO TERCERO
 
 ###### ARTÍCULO 235.
 
@@ -2984,3 +2972,15 @@ P.O. 24 DE JUNIO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 1139/2015 I P.O., MEDIANTE EL CUAL SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 18; LA FRACCIÓN IV DEL ARTÍCULO 24, ASÍ COMO EL CAPÍTULO TERCERO DEL TÍTULO QUINTO QUE COMPRENDE DE LOS ARTÍCULOS 179 AL 187, TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS PRECEPTOS DEL DECRETO NO. 714/2014 I P.O., EN SU ARTÍCULO SEGUNDO, POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 13 de junio del año 2016, fecha en que iniciará su vigencia en todo el territorio del Estado el Código Nacional de Procedimientos Penales, conforme a la Declaratoria emitida mediante Decreto No. 852/2015 VII P.E., publicado en el Periódico Oficial del Estado el 04 de marzo de 2015.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones legales que se opongan al contenido del presente Decreto.
