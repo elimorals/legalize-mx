@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2016-05-07"
+last_updated: "2016-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -49,65 +49,37 @@ LEY DE HACIENDA DEL ESTADO DE COLIMA
 
 ## TITULO PRIMERO. DE LOS IMPUESTOS
 
-### CAPITULO I. Del Impuesto a la Prestación del Servicio de Enseñanza
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+### CAPITULO I
 
 ###### Artículo 1.
 
-Es objeto de este impuesto la percepción de ingresos, con motivo de la prestación del servicio de enseñanza realizada por particulares, cuando tengan autorización o reconocimiento de validez oficial de estudios.
+(DEROGADO, P.O. 18 DE JUNIO DE 2016)
 
 ###### Artículo 2.
 
-Son sujetos de este impuesto, quienes perciban ingresos de los señalados en el Artículo anterior.
+(DEROGADO, P.O. 18 DE JUNIO DE 2016)
 
 ###### Artículo 3.
 
-Es base del impuesto, el monto total de ingresos percibidos, por la realización de los actos a que se refiere este capítulo.
+(DEROGADO, P.O. 18 DE JUNIO DE 2016)
 
 ###### Artículo 4.
 
-Este impuesto se causará y pagará aplicando a la base que señala el Artículo anterior, la tasa del 2%.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+(DEROGADO, P.O. 18 DE JUNIO DE 2016)
 
 ###### Artículo 5.
 
-El impuesto a que se refiere este capítulo se calculará y pagará bimestralmente. Los contribuyentes efectuaran pagos definitivos del impuesto a más tardar los días 17, de los meses de marzo, mayo, julio, septiembre, noviembre del período y enero del siguiente año, mediante declaración que presentarán en las formas oficiales aprobadas para el efecto, en las Receptorías de Rentas de la Secretaría de Planeación y Finanzas, en las instituciones de crédito o en los establecimientos autorizados. El pago bimestral se determinará considerando la totalidad de ingresos percibidos en el bimestre.
+(DEROGADO, P.O. 18 DE JUNIO DE 2016)
 
 ###### Artículo 6.
 
-Los contribuyentes de este impuesto, tendrán las siguientes obligaciones:
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
-
-I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaria de Planeación y Finanzas, por conducto de la Receptoría de Rentas de su jurisdicción dentro de los quince días siguientes a la fecha en que se inicien las actividades generadoras de ingresos objeto de este impuesto, en las formas aprobadas para el efecto, adjuntando a la solicitud copia del documento equivalente que se hubiera presentado para efectos del Registro Federal de Contribuyentes.
-
-II.- Presentar las declaraciones y pagar el impuesto en la forma y términos establecidos en este capítulo.
-
-III.- Presentar los avisos de cambio que se produzcan en los datos que debe contener el Registro Estatal de Contribuyentes, dentro de los quince días siguientes a la fecha en que el cambio se efectúe, ante la autoridad y en la forma señalada en la fracción I.
-
-IV.- Proporcionar a las autoridades fiscales, los datos e informes relacionados con este impuesto que les sean solicitados dentro del plazo que para ello se fije.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
-
-V.- Recibir las ordenes de visita domiciliaria y proporcionar previa identificación a las personas comisionadas para el efecto por las autoridades fiscales de la Secretaría de Planeación y Finanzas, todos los documentos e informes que les soliciten para comprobar el cumplimiento de las obligaciones fiscales.
-
-VI.- Llevar los libros o registros y expedir documentación comprobatoria de sus ingresos de conformidad con las disposiciones fiscales federales correspondientes.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+(DEROGADO, P.O. 18 DE JUNIO DE 2016)
 
 ###### Artículo 7.
 
-La Secretaría de Planeación y Finanzas podrá estimar los ingresos de los sujetos de este impuesto, en los siguientes casos:
-
-I.- Cuando no presenten sus declaraciones, no lleven libros o registros o no expidan la documentación comprobatoria a que están obligados y
-
-II.- Cuando por los informes que se obtengan, se ponga de manifiesto la percepción de ingresos en un promedio superior cuando menos de un diez por ciento, a los declarados por el contribuyente.
-
-Para practicar las estimaciones a que hace referencia este Artículo, las autoridades fiscales podrán tomar en cuenta la información reportada a las autoridades educativas del Estado, las cuotas por mensualidades e inscripciones cobradas por establecimientos similares, el número de alumnos activos, la renta del local que ocupa, en su caso, sueldos y honorarios pagados, gastos fijos y otros datos que puedan obtenerse y sean utilizables.
+(DEROGADO, P.O. 18 DE JUNIO DE 2016)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1373,9 +1345,9 @@ Para efectos de la depreciación a que se refiere este artículo, los años de a
 
 #### SECCION QUINTA. Del pago
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2016)</small>
 
-Artículo 41 Z BIS 12.- Los contribuyentes pagarán el impuesto por año de calendario durante los cinco primeros meses, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse a más tardar dentro de los 30 días siguientes a aquél en que se adquirió o importó el vehículo. Se considera que la adquisición se realiza en el momento en que se entregue el bien al adquiriente o se expida la factura correspondiente, lo que suceda primero. El pago se realizará en las Receptorías de Rentas de la Secretaría de Planeación y Finanzas, en las instituciones de crédito o en los establecimientos autorizados.
+ARTÍCULO 41 Z BIS 12.- Los contribuyentes pagarán el impuesto por año de calendario a más tardar el 15 de julio, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse a más tardar dentro de los 30 días siguientes a aquél en que se adquirió o importó el vehículo. Se considera que la adquisición se realiza en el momento en que se entregue el bien al adquiriente o se expida la factura correspondiente, lo que suceda primero. El pago se realizará en las Receptorías de Rentas de la Secretaría de Planeación y Finanzas, en las instituciones de crédito o en los establecimientos autorizados.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1667,9 +1639,9 @@ III.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2002)
 
 IV.- Por la expedición, renovación anual o reposición de la calcomanía fiscal vehicular 12.000
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2016)</small>
 
-El derecho por la renovación anual de la calcomanía fiscal vehicular, deberán pagarlo las personas físicas y morales y las unidades económicas sin personalidad jurídica, que al 1°. de enero del ejercicio fiscal de que se trate, mantengan inscritos vehículos en el Registro Público Vehicular del Estado de Colima, debiéndose realizar el pago a mas tardar el día 31 de mayo. Por los conceptos a que se refiere esta fracción, las personas que acrediten ser jubilados o pensionados por una institución pública, discapacitados acreditados por una institución de salud pública y adultos en plenitud, tendrán derecho a un descuento del 50 por ciento de la cuota establecida, respecto a un vehículo que tenga en propiedad, y que éste sea de uso particular.
+El derecho por la renovación anual de la calcomanía fiscal vehicular, deberán pagarlo las personas físicas y morales y las unidades económicas sin personalidad jurídica, que al 1°. De enero del ejercicio fiscal de que se trate, mantengan inscritos vehículos en el Registro Público Vehicular del Estado de Colima, debiéndose realizar el pago a mas tardar el día 15 de julio. Por los conceptos a que se refiere esta fracción, las personas que acrediten ser jubilados o pensionados por una institución pública, discapacitados acreditados por una institución de salud pública y adultos en plenitud, tendrán derecho a un descuento del 50 por ciento de la cuota establecida, respecto a un vehículo que tenga en propiedad, y que éste sea de uso particular.
 
 > <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
 
@@ -6112,3 +6084,47 @@ P.O. 7 DE MAYO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- El Gobernador del Estado dispondrá se publique, circule y observe.
+
+P.O. 18 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 108 SE REFORMA EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 75 DE FECHA 29 DE FEBRERO DE 2016; ASÍ COMO EL ARTÍCULO PRIMERO Y ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 80 DE FECHA 15 DE MARZO DE 2016, RELACIONADO CON LA AMPLIACIÓN EN DESCUENTO POR SERVICIOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO, DE LOS DIEZ MUNICIPIOS; ASÍ MISMO, SE REFORMA EL ARTÍCULO 41 Z BIS 12, SE REFORMA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN IV DEL ARTÍCULO 53, DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA Y SE REFORMA EL ARTÍCULO 7, FRACCIÓN II, INCISO A, NUMERAL 2, DE LA LEY DE INGRESOS DEL ESTADO DE COLIMA PARA EL EJERCICIO FISCAL 2016”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su aprobación. Debiendo publicarse en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Durante el ejercicio fiscal 2016, las personas físicas y morales, tenedoras o usuarias de los vehículos a que se refiere el Capítulo VIII, del Título Primero, de la Ley de Hacienda del Estado de Colima, inscritos en el Registro Público Vehicular en el ejercicio 2015 o anteriores, tendrán derecho a que se les otorgue un subsidio por el equivalente al 100% del Impuesto Sobre Tenencia o Uso de Vehículos que se cause por el ejercicio fiscal 2016, siempre que cumplan con los siguientes requisitos:
+
+I.- Que no tengan adeudos del ejercicio 2015 y anteriores por cualquiera de los conceptos siguientes:
+
+a) Impuestos, derechos y aprovechamientos estatales;
+
+b) Impuestos, derechos y multas federales, administrados por el Gobierno del Estado de Colima en términos del Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus Anexos, incluyendo los créditos fiscales cuya recuperación tiene a su cargo el Gobierno del Estado de Colima de conformidad con el Anexo Núm. 18 a dicho Convenio, aunque su pago deba realizarse a la Tesorería de la Federación;
+
+c) Impuesto Predial, Derechos por consumo de agua y multas impuestas por las autoridades federales no fiscales, a favor de cualquier municipio del Estado de Colima; y
+
+II.- Que el pago de las contribuciones vehiculares correspondientes al ejercicio fiscal 2016 que resulte procedente, se efectúe del 1° de enero al 15 de julio de dicho año.
+
+TERCERO.- Durante el ejercicio fiscal 2016, las personas físicas y morales, tenedoras o usuarias de los vehículos a que se refiere el Capítulo VIII, del Título Primero, de la Ley de Hacienda del Estado de Colima, que se inscriban en el Registro Público Vehicular en el ejercicio fiscal 2016, tendrán derecho a que se les otorgue un subsidio por el equivalente al 100% del Impuesto Sobre Tenencia o Uso de Vehículos que se cause por el mismo ejercicio, siempre que cumplan con los siguientes requisitos:
+
+I.- Que hubieran adquirido vehículos nuevos o importados entre los días 21 de noviembre y 31 de diciembre del 2015, sin que los mismos se hubieran inscrito en el Registro Público Vehicular del Estado en dicho periodo;
+
+II.- Que adquieran vehículos nuevos o importados durante el ejercicio fiscal 2016;
+
+III.- Que la inscripción en el Registro Público Vehicular del Estado, de los vehículos señalados en las fracciones anteriores de este Transitorio, se realice dentro de los 30 días hábiles siguientes a la fecha de su adquisición; y
+
+IV.- Que no tengan adeudos del ejercicio 2015 y anteriores, ni vencidos en 2016, por cualquiera de los conceptos siguientes:
+
+a) Impuestos, derechos y aprovechamientos estatales.
+
+b) Impuestos, derechos y multas federales, administrados por el Gobierno del Estado de Colima en términos del Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus Anexos, incluyendo los créditos fiscales cuya recuperación tiene a su cargo el Gobierno del Estado de Colima de conformidad con el Anexo Núm. 18 a dicho Convenio, aunque su pago deba realizarse a la Tesorería de la Federación; y
+
+c) Impuesto Predial, Derechos por consumo de agua y multas impuestas por las autoridades federales no fiscales, a favor de cualquier municipio del Estado de Colima.
+
+Para los efectos de la aplicación del subsidio a que se refiere este Transitorio, se considerará que el arrendatario es el tenedor o usuario del vehículo, cuando la posesión del mismo se le hubiera otorgado mediante arrendamiento puro o financiero. De igual forma se entenderá que los 30 días hábiles a que se refiere la fracción III de este Transitorio, contarán a partir de la fecha en que se realice la entrega material de la unidad vehicular al adquirente, lo cual podrá acreditarse con la presentación de una constancia expedida por el distribuidor que realizó la venta, en la que se señale la fecha en que se realizó la entrega material del vehículo al adquirente.
+
+El subsidio a que se refiere este Transitorio, no será aplicable respecto de los vehículos propiedad de los gobiernos federal, estatal y municipal, ni de sus organismos descentralizados y autónomos.
+
+P.O. 18 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 109 SE DEROGA EL CAPÍTULO I, DEL TÍTULO PRIMERO DENOMINADO “DEL IMPUESTO A LA PRESTACIÓN DEL SERVICIO DE ENSEÑANZA”, DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial “El Estado de Colima”.
