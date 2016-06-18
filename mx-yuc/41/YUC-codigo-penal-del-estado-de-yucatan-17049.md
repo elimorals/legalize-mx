@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2016-05-02"
+last_updated: "2016-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JUNIO DE 2016.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -3791,6 +3791,10 @@ Igualmente, se requerirá querella para la persecución de terceros que hubiesen
 
 A quien abandone a un niño incapaz de cuidarse a sí mismo o a una persona enferma teniendo obligación de cuidarlos, se le impondrá de uno a cuatro años de prisión, independientemente de la sanción correspondiente a otro delito que resultare cometido, privándolo además de la patria potestad o de la tutela, si el imputado fuere ascendiente o tutor del ofendido.
 
+> <small>(ADICIONADO, D.O. 18 DE JUNIO DE 2016)</small>
+
+ARTÍCULO 352 BIS.- En el supuesto previsto en el artículo que antecede, no constituyen delito de abandono, las conductas realizadas por el personal de las instituciones de salud, el representante que conste en el documento de voluntad anticipada ni los familiares del signatario de dicho documento, para efectos del cumplimiento de las disposiciones establecidas en la Ley de Voluntad Anticipada del Estado de Yucatán.
+
 ###### ARTÍCULO 353.
 
 A quien encuentre abandonado en cualquier sitio a un menor incapaz de cuidarse a sí mismo o a una persona herida, inválida o amenazada de un peligro cualquiera y no diere aviso inmediato a la autoridad u omitiere prestarle el auxilio necesario, cuando pudiere hacerlo sin riesgo personal, se le impondrá de uno a seis meses de prisión o de diez a cien días-multa.
@@ -3911,6 +3915,10 @@ Al responsable de cualquier homicidio simple se le impondrán de diez a quince a
 
 Al responsable de homicidio en riña se le impondrá de cuatro a doce años de prisión, si tiene el carácter de provocador. En caso de ser provocado, la prisión será de dos a seis años.
 
+> <small>(ADICIONADO, D.O. 18 DE JUNIO DE 2016)</small>
+
+ARTÍCULO 373 BIS.- No constituirá delito de homicidio, las conductas realizadas por el personal de las instituciones de salud, el representante que conste en el documento de voluntad anticipada ni los familiares del signatario de dicho documento, para efectos del cumplimiento de las disposiciones establecidas en la Ley de Voluntad Anticipada del Estado de Yucatán.
+
 ### CAPÍTULO VII. DELITOS EN QUE PUEDEN INCURRIR LOS DIPUTADOS Y REGIDORES ELECTOS
 
 ###### ARTÍCULO 374.
@@ -3926,6 +3934,10 @@ Si en los casos a que se refiere el artículo que precede, el occiso o presunto 
 ###### ARTÍCULO 376.
 
 Quien pudiendo impedir un suicidio no lo evite, será sancionado con prisión de tres meses a un año o de diez a cincuenta días-multa y de diez a cincuenta días de trabajo en favor de la comunidad.
+
+> <small>(ADICIONADO, D.O. 18 DE JUNIO DE 2016)</small>
+
+ARTÍCULO 376 BIS.- En los supuestos previstos en los tres artículos anteriores no constituyen delito de ayuda o inducción al suicidio, las conductas realizadas por el personal de las instituciones de salud, el representante que conste en el documento de voluntad anticipada ni los familiares del signatario de dicho documento, para efectos del cumplimiento de las disposiciones establecidas en la Ley de Voluntad Anticipada del Estado de Yucatán.
 
 ###### ARTÍCULO 377.
 
@@ -4446,3 +4458,15 @@ Se derogan las disposiciones de menor o igual rango que se opongan a lo establec
 Cuarto. Asuntos en trámite
 
 Los asuntos iniciados con anterioridad a la entrada en vigor de este decreto, se tramitarán conforme a las disposiciones anteriores que les sean aplicables.
+
+D.O. 18 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO: QUE EXPIDE LA LEY DE VOLUNTAD ANTICIPADA DEL ESTADO DE YUCATÁN, Y MODIFICA EL CÓDIGO PENAL DEL ESTADO (SIC) YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el diario oficial del estado.
+
+Segundo. Obligación normativa
+
+El director general de los Servicios de Salud de Yucatán deberá presentar a la junta de gobierno, para su aprobación, el proyecto de modificación de su estatuto orgánico, para determinar la unidad administrativa que realizará las atribuciones que la Ley de Voluntad Anticipada del Estado de Yucatán asigna a los Servicios de Salud de Yucatán, dentro de los noventa días naturales siguientes a la entrada en vigor de este decreto.
