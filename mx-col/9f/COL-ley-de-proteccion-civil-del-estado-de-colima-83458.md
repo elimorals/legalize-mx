@@ -4,7 +4,7 @@ identifier: "COL-ley-de-proteccion-civil-del-estado-de-colima-83458"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-29"
-last_updated: "2014-07-12"
+last_updated: "2016-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2016.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 29 de octubre de 2011.
 
@@ -1143,6 +1143,10 @@ La UEPC trasmitirá a la UMPC, donde exista la posibilidad de ocurrir un siniest
 
 El Centro Estatal de Comunicaciones coordinará, recibirá y canalizará las llamadas de auxilio de la ciudadanía a través de un sistema avanzado de telefonía que permita la identificación automática del origen de la llamada, despachando en el menor tiempo posible la solicitud de ayuda para que sea atendida rápidamente.
 
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2016)</small>
+
+El Centro Estatal de Comunicaciones tendrá, en su sistema telefónico, una línea especial atendida por personal instruido en las necesidades de las personas con discapacidad, a fin de dar respuesta inmediata y efectiva a las llamadas de auxilio hechas por estas personas. Para ello, el personal encargado de dicha línea recibirá capacitación por parte del Instituto Colimense para la Discapacidad, que les proporcione herramientas suficientes para brindar auxilio especial en situaciones de riesgo.
+
 ###### Artículo 65.
 
 El Centro Estatal de Comunicaciones deberá realizar la coordinación necesaria para compilar las solicitudes de auxilio con el propósito de elaborar registros estadísticos a efecto de detectar los siniestros de mayor incidencia.
@@ -1398,6 +1402,10 @@ VIII. La realización de campañas permanentes de capacitación, prevención y d
 ###### Artículo 86.
 
 En el caso de que se identifiquen necesidades específicas que puedan afectar de manera grave a la población de una determinada localidad o región, se deberán elaborar Programas Especiales de Protección Civil.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2016)</small>
+
+En todo caso, las Unidades Estatal y Municipales de Protección Civil contarán con un Programa Especial de Protección a las Personas con Discapacidad, el cual será actualizado periódicamente, para ser aplicado en casos de emergencia o desastre. Este Programa Especial deberá contemplar las necesidades específicas de las personas con distintos tipos de discapacidad, así como contener los subprogramas de prevención, auxilio y restablecimiento que esta ley establece para los programas generales.
 
 ###### Artículo 87.
 
@@ -2088,3 +2096,11 @@ P.O. 12 DE JULIO DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Respecto a la creación del Fondo Estatal de Prevención de Desastres, éste se integrará con las partidas presupuestales de la Unidad Estatal de Protección Civil y los recursos presupuestales que el Ejecutivo Estatal considere pertinente en el proceso de presupuestación.
+
+P.O. 18 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 105 SE ADICIONAN LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 6°; EL PÁRRAFO SEGUNDO AL ARTÍCULO 10, Y EL PÁRRAFO SEGUNDO AL ARTÍCULO 13 BIS, TODOS DE LA LEY PARA LA INTEGRACIÓN Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA; ASÍ MISMO, SE ADICIONAN LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 75 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA; Y SE ADICIONAN UN PÁRRAFO SEGUNDO AL ARTÍCULO 64, Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 86, TODOS DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE COLIMA.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
