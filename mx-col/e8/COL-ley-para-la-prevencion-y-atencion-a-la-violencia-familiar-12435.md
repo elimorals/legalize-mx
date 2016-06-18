@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-prevencion-y-atencion-a-la-violencia-familiar-12435
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-14"
-last_updated: "2016-06-11"
+last_updated: "2016-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12435&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COL"
 ---
 # LEY PARA LA PREVENCION Y ATENCION A LA VIOLENCIA FAMILIAR -- ANTES -- LEY PARA LA PREVENCION Y ATENCION DE LA VIOLENCIA FAMILIAR -- ANTES -- LEY PARA LA PREVENCION Y ATENCION A LA VIOLENCIA INTRAFAMILIAR
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE JUNIO DE 2016 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
-LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR
+LEY PARA LA PREVENCIÓN Y ATENCIÓN A LA VIOLENCIA FAMILIAR
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE JUNIO DE 2016.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de febrero de 1998.
 
@@ -49,9 +49,9 @@ Es de aprobarse y se aprueba la Ley para la Prevención y Atención a la Violenc
 
 > <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORO SEGUNDO DEL DECRETO NÚMERO 102, PUBLICADO EN EL P.O. 11 DE AGOSTO DE 2016, "TODA LA NORMATIVIDAD ESTATAL QUE CONTENGAN EL TÉRMINO VIOLENCIA INTRAFAMILIAR SE ENTENDERÁ REFERIDO A VIOLENCIA FAMILIAR".]</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE JUNIO DE 2016)</small>
+(REFORMADA SU DENOMINACIÓN, P.O. 11 DE JUNIO DE 2016) (F. DE E., P.O. 18 DE JUNIO DE 2016)
 
-LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR
+LEY PARA LA PREVENCIÓN Y ATENCIÓN A LA VIOLENCIA FAMILIAR
 
 ## TITULO PRIMERO
 
@@ -279,9 +279,9 @@ II.- Incorporar a las funciones de Atención y Prevención, mediante los conveni
 
 III.- Sugerir los lineamientos administrativos y técnicos en esta materia, así como aprobar los modelos de atención más adecuados para esta problemática;
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+(REFORMADA, P.O. 11 DE JUNIO DE 2016) (F. DE E., P.O. 18 DE JUNIO DE 2016)
 
-(SIC) Aprobar el Programa Global para la Atención y Prevención de la Violencia Familiar en el Estado, presentado por el equipo técnico;
+IV.- Aprobar el Programa Global para la Atención y Prevención de la Violencia Familiar en el Estado, presentado por el equipo técnico;
 
 V.- Evaluar anualmente los logros y avances del Programa Global;
 
@@ -443,9 +443,9 @@ c) Diseñar programas de atención a las personas generadoras y receptoras de vi
 
 d) Sensibilizar, mediante programas de difusión, sobre la violencia familiar a la comunidad del área de influencia de los hospitales regionales y municipales, proporcionando información respecto de las medidas de atención y prevención que éstos y otras instituciones ofrezcan a las personas receptoras y generadoras de dicha violencia;
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
+(REFORMADO, P.O. 11 DE JUNIO DE 2016) (F. DE E., P.O. 18 DE JUNIO DE 2016)
 
-e) Rendir al Consejo trimestralmente, información estadística sobre las indagatorias iniciadas y consignaciones efectuadas en materia de violencia intrafamiliar que hayan sido de su conocimiento, con las observaciones pertinentes para su seguimiento; y
+e) Rendir al Consejo trimestralmente, información estadística sobre las indagatorias iniciadas y consignaciones efectuadas en materia de violencia familiar que hayan sido de su conocimiento, con las observaciones pertinentes para su seguimiento; y
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
