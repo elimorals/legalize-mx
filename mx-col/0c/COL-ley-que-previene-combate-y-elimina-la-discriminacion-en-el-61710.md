@@ -4,7 +4,7 @@ identifier: "COL-ley-que-previene-combate-y-elimina-la-discriminacion-en-el-6171
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-14"
-last_updated: "2016-06-11"
+last_updated: "2016-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COL"
 ---
 # LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACION EN EL ESTADO DE COLIMA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE JUNIO DE 2016 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2016.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 18 DE JUNIO DE 2016 NO APLICA AL ARTICULADO DEL DECRETO 101 PUBLICADO EN EL P.O. DE 11 DE JUNIO DE 2016.]</small>
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial en el Estado de Colima, el sábado 14 de junio de 2008.
 
@@ -315,7 +315,7 @@ IV. Impedir la asignación de nombres en el Registro Civil;
 
 V. Limitar su derecho de asociación y de información;
 
-VI. Restringir el acceso al empleo, incluidos los empleos calificados y las medidas de promoción y ascenso;
+VI. Restringir el acceso al empleo,iIncluidos los empleos calificados y las medidas de promoción y ascenso;
 
 VII. Negar una igual remuneración por un trabajo de igual valor;
 
