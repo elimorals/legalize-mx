@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-extincion-de-dominio-del-estado-de-chihuahua-74537"
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-07"
-last_updated: "2014-11-29"
+last_updated: "2016-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE EXTINCION DE DOMINIO DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO POR LA LEY NACIONAL DE EXTINCIÓN DE DOMINIO PUBLICADA EN EL D.O.F. DE 9 DE AGOSTO DE 2019. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO.- EL PRESENTE DECRETO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN. SEGUNDO.- A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, SE ABROGA LA LEY FEDERAL DE EXTINCIÓN DE DOMINIO, REGLAMENTARIA DEL ARTÍCULO 22 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, ASÍ COMO LAS LEYES DE EXTINCIÓN DE DOMINIO DE LAS ENTIDADES FEDERATIVAS, Y SE DEROGAN TODAS LAS DISPOSICIONES LEGALES, REGLAMENTARIAS Y ADMINISTRATIVAS, QUE SE OPONGAN A LO DISPUESTO EN EL PRESENTE DECRETO. TRANSITORIO TERCERO.- EN UN PLAZO QUE NO EXCEDERÁ DE CIENTO OCHENTA DÍAS CONTADOS A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, LAS LEGISLATURAS DE LAS ENTIDADES FEDERATIVAS DEBERÁN ARMONIZAR SU LEGISLACIÓN RESPECTIVA CON EL PRESENTE DECRETO.]</small>
+
 LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 7 de abril de 2010.
 
@@ -78,6 +80,12 @@ II. En cuanto al hecho ilícito, al Código Penal del Estado;
 III. En el procedimiento de extinción de dominio, a lo previsto en el Código de Procedimientos Civiles en vigor en el Estado;
 
 IV. En los aspectos relativos a la regulación de bienes, obligaciones y derechos, a lo previsto en el Código Civil en vigor en el Estado.
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2016)</small>
+
+V. En lo relativo a la administración y destino de los bienes mencionados en el artículo 8 de la presente Ley, se estará a lo previsto en la Ley para la Administración y Destino de Bienes Relacionados con Hechos Delictivos para el Estado de Chihuahua.
+
+Para efectos de este ordenamiento, se entenderá por Autoridad Administrativa la referida en dicha Ley.
 
 Toda la información que se genere u obtenga con relación a esta Ley, se regirá en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua.
 
@@ -189,7 +197,9 @@ La acción de extinción de dominio no procederá respecto de los bienes asegura
 
 Imposición de medidas cautelares.
 
-El Tribunal, a solicitud fundada del Ministerio Público, podrá imponer las medidas cautelares necesarias para garantizar la conservación de los bienes materia de la acción de extinción de dominio y, en su oportunidad, para la aplicación de los bienes a los fines a que se refiere el artículo 53 de esta Ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2016)</small>
+
+El Tribunal, a solicitud fundada del Ministerio Público, podrá imponer las medidas cautelares necesarias para garantizar la conservación de los bienes materia de la acción de extinción de dominio y, en su oportunidad, para la aplicación de los bienes a los fines a que se refiere el artículo 56 de esta Ley.
 
 Son medidas cautelares:
 
@@ -199,15 +209,15 @@ II. El embargo precautorio;
 
 III. La intervención en la administración o en caja de las sociedades;
 
-IV. Tratándose de muebles, el depósito con vigilancia de la autoridad en el lugar en el que disponga el Tribunal, quien decretará las medidas necesarias para su conservación, a cargo de la Dirección de Ejecución de Penas y Medidas de Seguridad. Tratándose de inmuebles, de igual manera se decretará la vigilancia de la autoridad y las medidas necesarias para su conservación;
+IV. (DEROGADA, P.O. 18 DE JUNIO DE 2016)
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
+V. (DEROGADA, P.O. 18 DE JUNIO DE 2016)
 
-V. Tratándose de dinero, este podrá ser administrado por la Secretaría de Hacienda, pudiendo abrir cuenta especial que genere rendimientos; en caso de que se declare extinguido el dominio, los bienes pasarán al Estado, en caso contrario, se entregarán a su dueño, y
+VI. (DEROGADA, P.O. 18 DE JUNIO DE 2016)
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2016)</small>
 
-VI. El arrendamiento de los bienes, celebrando contratos que mantengan la productividad y su valor, siendo la Secretaría de Hacienda quien se hará cargo de estos actos.
+La Autoridad Administrativa se encargará de la administración de los bienes que sean objeto de medidas cautelares, de conformidad con lo que establece la Ley de la materia.
 
 ###### Artículo 13.
 
@@ -221,13 +231,13 @@ Recurso de apelación en medidas cautelares.
 
 Contra la resolución que ordene o niegue el otorgamiento de las medidas cautelares procederá el recurso de apelación que se admitirá, en su caso, sólo en el efecto devolutivo.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2016)</small>
 
 ###### Artículo 15.
 
-Anotaciones en el Registro Público de la Propiedad.
+Anotaciones en los Registros Públicos.
 
-Tanto las medidas cautelares que se tomen, como la demanda, deberán ser anotados en el Registro Público de la Propiedad. En todos los casos, la Secretaría de Hacienda deberá ser notificada de cualquier medida cautelar o levantamiento de cualquier acto que implique variación en la situación de bienes sujetos a acción de extinción de dominio. En la anotación correspondiente se insertará la leyenda: "Bien sujeto a juicio de extinción de dominio".
+Tanto las medidas cautelares que se dicten, así como la demanda, deberán ser inscritos en los Registros Públicos que correspondan. En todos los casos, la Autoridad Administrativa deberá ser notificada de cualquier medida cautelar o levantamiento de cualquier acto que implique variación en la situación de bienes sujetos a la acción de extinción de dominio. En la inscripción correspondiente se insertará la leyenda: "Bien sujeto a juicio de extinción de dominio".
 
 ###### Artículo 16.
 
@@ -243,9 +253,9 @@ El demandado o afectado por la medida cautelar no podrá transmitir la posesión
 
 Bienes sujetos a diversos actos jurídicos previos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2016)</small>
 
-Cuando los bienes que se aseguren hayan sido previamente embargados, intervenidos, secuestrados o asegurados, se notificará el nuevo aseguramiento a las autoridades que hayan ordenado dichos actos, así como a la Secretaría de Hacienda y al Registro Público de la Propiedad correspondiente. Los bienes continuarán en custodia de quien se haya designado para ese fin, y a disposición de la autoridad judicial que conozca de la acción de extinción de dominio.
+Cuando los bienes objeto de alguna medida cautelar hayan sido previamente embargados, intervenidos, secuestrados o asegurados, se notificará esta nueva medida a las autoridades que hayan ordenado dichos actos, así como a la Autoridad Administrativa y a los Registros Públicos correspondientes. Los bienes continuarán en custodia de quien se haya designado para ese fin, y a disposición de la autoridad judicial que conozca de la acción de extinción de dominio.
 
 De levantarse el embargo, intervención, secuestro o aseguramiento previos, quien los tenga bajo su custodia, los entregará al Tribunal que conozca de la acción de extinción de dominio.
 
@@ -283,13 +293,13 @@ II. El demandado, que será el dueño, quien se ostente o comporte como tal, o a
 
 III. El o los terceros afectados, que será todo aquel que se considere afectado por la acción de extinción de dominio y acredite tener un interés jurídico sobre los bienes materia de la acción de extinción de dominio.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2016)</small>
 
 ###### Artículo 21.
 
-Vista a la Secretaría de Hacienda.
+Vista a la Autoridad Administrativa.
 
-En todos los casos en que se inicie acción de extinción de dominio, se dará vista a la Secretaría de Hacienda para los efectos señalados en esta Ley.
+En todos los casos en que se inicie acción de extinción de dominio, se dará vista a la Autoridad Administrativa para los efectos señalados en esta Ley.
 
 ###### Artículo 22.
 
@@ -657,47 +667,41 @@ El Tribunal no podrá, en ningún caso, al realizar la aclaración, variar o alt
 
 ### CAPÍTULO V. DE LA EJECUCIÓN
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2016)</small>
+
 ###### Artículo 56.
 
 Ejecución de sentencia y adjudicación de bienes.
 
-Una vez que cause ejecutoria la sentencia que resuelva la extinción del bien, el Tribunal ordenará su ejecución y la aplicación de los bienes a favor del Estado, en los términos de la presente Ley y del Código Administrativo.
+Una vez que cause ejecutoria la sentencia que resuelva la extinción de dominio del bien, el Tribunal ordenará su ejecución y la aplicación de los bienes a favor del Estado, en los términos de la presente Ley, de la Ley para la Administración y Destino de Bienes Relacionados con Hechos Delictivos para el Estado de Chihuahua y demás disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+Los bienes sobre los que sea declarada la extinción de dominio serán adjudicados al Estado y puestos a disposición de la Autoridad Administrativa, para los efectos del artículo 28 de la Ley para la Administración y Destino de Bienes Relacionados con Hechos Delictivos para el Estado de Chihuahua. Las acciones, partes sociales o cualquier título que represente una parte del capital social o patrimonio de la sociedad o asociación de que se trate, no traerá como consecuencia que deba considerarse a las emisoras como entidades paraestatales.
 
-Los bienes sobre los que sea declarada la extinción de dominio o el producto de la enajenación de los mismos serán adjudicados al Gobierno del Estado y puestos a disposición para su destino final a través de la Secretaría de Hacienda. Las acciones, partes sociales o cualquier título que represente una parte alícuota del capital social o patrimonio de la sociedad o asociación de que se trate, no computarán para considerar a las emisoras como entidades paraestatales.
+La Autoridad Administrativa no podrá disponer de los bienes, aun y cuando haya sido decretada la extinción de dominio, si en alguna causa penal se ha ordenado la conservación de estos por sus efectos probatorios, siempre que dicho auto o resolución le haya sido notificada previamente.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+Para efectos de la actuación de dicha Autoridad en su carácter de mandatario, cuando haya contradicción entre dos o más sentencias, prevalecerá la que se dicte en el procedimiento de extinción de dominio, salvo que esta última se pronuncie sobre la improcedencia de dicha acción.
 
-La Secretaría de Hacienda no podrá disponer de los bienes, aun y cuando haya sido decretada la extinción de dominio, si en alguna causa penal se ha ordenado la conservación de éstos por sus efectos probatorios, siempre que dicho auto o resolución haya sido notificado previamente a dicha Secretaría.
-
-Para efectos de la actuación de esa Secretaría en su carácter de mandatario, cuando haya contradicción entre dos o más sentencias, prevalecerá la sentencia que se dicte en el procedimiento de extinción de dominio, salvo que esta última se pronuncie sobre la inexistencia del hecho ilícito.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JUNIO DE 2016)</small>
 
 ###### Artículo 57.
 
-Ejecución de sentencia y adjudicación de bienes.
+Reclamación de créditos.
 
-El valor de realización de los bienes y sus frutos, cuyo dominio haya sido declarado extinto, mediante sentencia ejecutoria se destinarán, hasta donde alcance, conforme al orden de prelación siguiente, al pago de la reparación del daño causado a la víctima u ofendido de los delitos, cuando los hubiere, por los que se siguió la acción de extinción de dominio, determinada en la sentencia ejecutoria del proceso correspondiente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2016)</small>
 
-En caso de que el dictado de sentencia penal que ordene pagar reparación del daño, a cargo del propietario de los bienes cuyo dominio ha sido extinto, sea posterior a la resolución de extinción de dominio y tales bienes hayan sido enajenados, el monto de la reparación del daño se hará a cargo del Fondo a que se refiere el artículo 71 de esta Ley.
+La reclamación de créditos sobre los bienes cuyo dominio ha sido declarado extinto a favor del Estado, se tramitarán de conformidad con la legislación aplicable.
 
-La reclamación de créditos sobre los bienes cuyo dominio ha sido extinto a favor del Estado, se tramitarán de conformidad con la legislación aplicable.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 18 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 18 DE JUNIO DE 2016)</small>
 
 ###### Artículo 58.
 
-Remanentes del valor de los bienes.
-
-Los remanentes del valor de los bienes que resulten una vez aplicados los recursos correspondientes en términos del artículo 57, se depositarán por la Secretaría de Hacienda en el Fondo a que se refiere el artículo 71 de esta Ley.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 18 DE JUNIO DE 2016)
 
 ###### Artículo 59.
 
-Determinación judicial.
-
-Para efecto de lo señalado en el artículo 57, la Secretaría de Hacienda estará a lo que el juez determine, siempre que exista cantidad líquida suficiente, derivada del procedimiento de extinción de dominio correspondiente.
+(DEROGADO, P.O. 18 DE JUNIO DE 2016)
 
 ### CAPÍTULO VI. DE LOS RECURSOS
 
@@ -789,9 +793,7 @@ Cuando resulte la anulación de la sentencia recurrida, se ordenará la restituc
 
 ###### Artículo 71.
 
-Constitución.
-
-Con los recursos a que se refiere el artículo 58 de la presente Ley, se constituirá un fideicomiso público, en los términos del Capítulo V de la Ley de Entidades Paraestatales.
+(DEROGADO, P.O. 18 DE JUNIO DE 2016)
 
 T R A N S I T O R I O S
 
@@ -888,3 +890,25 @@ SEGUNDO.- Derogación tácita de preceptos incompatibles.
 Quedan derogadas todas las disposiciones legales que se opongan al contenido del presente Decreto.
 
 TERCERO.- Cuando en cualquier disposición legal se haga referencia al Código de Procedimientos Penales del Estado de Chihuahua, se entenderá que se refiere al Código Nacional de Procedimientos Penales.
+
+P.O. 18 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO N°. 1390/2016 XIV P.E. POR EL QUE "SE REFORMAN LOS ARTÍCULOS 12; PRIMER PÁRRAFO; 15, ASÍ COMO SU DENOMINACIÓN; 17, PRIMER PÁRRAFO; 21, ASÍ COMO SU DENOMINACIÓN; 56 Y 57, PRIMER PÁRRAFO, INCLUYENDO SU DENOMINACIÓN; SE DEROGAN LAS FRACCIONES IV, V Y VI DEL PÁRRAFO SEGUNDO DEL ARTÍCULO 12; LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 57; Y LOS ARTÍCULOS 58, 59 Y 71; ASÍ MISMO, SE ADICIONAN UNA FRACCIÓN V, COMPUESTA DE DOS PÁRRAFOS, AL ARTÍCULO 3 Y UN PÁRRAFO TERCERO AL ARTÍCULO 12; TODOS ELLOS DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE CHIHUAHUA".]
+
+Artículo Primero.- Inicio de Vigencia.
+
+El presente Decreto entrará en vigor a las cero horas del día 13 de junio del año 2016, de conformidad con la Declaratoria contenida en el Decreto No. 852/2015 VII P.E., publicado en Periódico Oficial del Estado el día 04 de marzo de 2015, fecha en la que entrará en vigor en el Estado el Código Nacional de Procedimientos Penales.
+
+Artículo Segundo.- Derogación tácita de preceptos incompatibles.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- Reglamento.
+
+El Ejecutivo del Estado deberá expedir el Reglamento de la Ley para la Administración y Destino de Bienes Relacionados con Hechos Delictivos para el Estado de Chihuahua, en un término que no excederá de noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Cuarto.- Entrega de los Bienes a la Autoridad Administrativa.
+
+Todos los bienes que hayan sido adjudicados al Estado de Chihuahua mediante sentencia ejecutoria por extinción de dominio y que no hayan sido enajenados, así como los que habiendo sido objeto de una medida cautelar se encuentren sujetos a un procedimiento de dicha naturaleza en los términos de la Ley de la materia, serán entregados a la Autoridad Administrativa a que se refiere la Ley para la Administración y Destino de Bienes Relacionados con Hechos Delictivos para el Estado de Chihuahua que se expide por virtud del presente Decreto, en un término que no excederá de noventa días naturales contados a partir de su entrada en vigor.
+
+El incumplimiento de esta disposición, será motivo de responsabilidad en los términos de las disposiciones aplicables.
