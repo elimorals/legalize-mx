@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-del-instituto-de-transparencia-y-acceso-750
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-04-30"
-last_updated: "2010-04-30"
+last_updated: "2016-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
+REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 20 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JUNIO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 30 de abril de 2010.
 
@@ -225,11 +227,11 @@ XVI. Conocer y resolver los Procedimientos de Revisión interpuestos ante el Ins
 
 XVII. Auxiliar y orientar a los particulares, en información no generada por el Instituto y que corresponda a las Entidades Gubernamentales y de Interés Público, para el trámite respectivo, situación que no tendrá el carácter de solicitud de acceso a la información conforme a la Ley;
 
-XVIII. Para la elaboración del informe anual, el Consejero Presidente podrá solicitar a las Entidades Gubernamentales y de Interés Público, conforme a la Ley, la información que establece la misma; y (sic)
+XVIII. Para la elaboración del informe anual, el Consejero Presidente podrá solicitar a las Entidades Gubernamentales y de Interés Público, conforme a la Ley, la información que establece la misma; y
 
 XIX. Definir la política de comunicación social del Instituto;
 
-XX. Las demás que señalen la Ley, este Reglamento u otras disposiciones aplicables; (sic)
+XX. Las demás que señalen la Ley, este Reglamento u otras disposiciones aplicables;
 
 II. DEL CONSEJERO PRESIDENTE
 
@@ -255,7 +257,7 @@ VIII. Rendir en la segunda quincena del mes de junio de cada año; un informe de
 
 Estado; y
 
-IX. Ejercer por sí o por medio de los órganos designados en el reglamento; Al presupuesto de egresos del Instituto, bajo la supervisión del Consejo; (sic)
+IX. Ejercer por sí o por medio de los órganos designados en el reglamento; Al presupuesto de egresos del Instituto, bajo la supervisión del Consejo;
 
 ###### Artículo 14.
 
@@ -383,7 +385,7 @@ I. JURÍDICA
 
 ###### Artículo 21.
 
-La Coordinación Jurídica es el área técnica y la encargada de realizar y orientar sobre los asuntos de carácter legal del Instituto; (sic)
+La Coordinación Jurídica es el área técnica y la encargada de realizar y orientar sobre los asuntos de carácter legal del Instituto;
 
 ###### Artículo 22.
 
@@ -419,7 +421,7 @@ XIV. Tener a su cargo y en conjunto con las diferentes áreas, el Archivo docume
 
 XV. Proponer los mecanismos para proteger y garantizar la protección de los datos de carácter personal, así como restringir el Acceso a la Información Reservada y Confidencial del Instituto; y
 
-XVI. Las demás disposiciones legales y administrativas que le sean aplicables; (sic)
+XVI. Las demás disposiciones legales y administrativas que le sean aplicables;
 
 II. ADMINISTRACIÓN Y FINANZAS
 
@@ -471,7 +473,7 @@ III. INFORMÁTICA
 
 ###### Artículo 25.
 
-La Coordinación de Informática es el área encargada de promover la cultura de Transparencia y Acceso a la Información Pública a través del portal Institucional de Internet; (sic)
+La Coordinación de Informática es el área encargada de promover la cultura de Transparencia y Acceso a la Información Pública a través del portal Institucional de Internet;
 
 ###### Artículo 26.
 
@@ -534,3 +536,29 @@ C. LIC. HÉCTOR SANTANA TRASVIÑA CASTRO
 CONSEJERA SECRETARIA
 
 C. SILVIA ADELA CUEVA TABARDILLO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 20 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur, publicado en el Boletín Oficial del Gobierno del Estado número 16 de fecha 30 de abril del 2010.
+
+###### ARTÍCULO TERCERO.
+
+Con fundamento en lo dispuesto por el Artículo Séptimo Transitorio de la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur; entre tanto no se expida la legislación correspondiente a la materia de protección de datos personales, continuarán vigentes los Lineamientos y Políticas Generales para el manejo, mantenimiento, seguridad y protección de los datos personales que estén en posesión de las Entidades Gubernamentales y las de Interés Público del Estado de Baja California Sur, expedidos por el Consejo General del Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur, publicados en el Boletín Oficial del Gobierno del Estado de Baja California Sur, número 16, de fecha 30 de abril del 2010.
+
+###### ARTÍCULO CUARTO.
+
+La creación de las plazas correspondientes a la Coordinación de Difusión y Capacitación; así como del Órgano Interno de Control; estarán sujetas a la ampliación presupuestal que apruebe el H. Congreso del Estado de Baja California Sur; y que refiere el Artículo Décimo Primero Transitorio de la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur.
+
+###### ARTÍCULO QUINTO.
+
+Entre tanto, se de la creación de las plazas a que refiere el Artículo Transitorio anterior, las funciones asignadas a la Coordinación de Difusión y Capacitación, las desempeñarán la Secretaría Ejecutiva y las demás Coordinaciones del Instituto, atendiendo a la naturaleza de cada una de ellas. Las funciones del Órgano Interno de Control, las desempeñará el Consejo General, la Secretaría Ejecutiva y la Coordinación de Administración, atendiendo a los acuerdos que emita el propio Consejo General.
