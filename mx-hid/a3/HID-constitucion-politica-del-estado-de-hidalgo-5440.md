@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2016-05-02"
+last_updated: "2016-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -51,65 +51,19 @@ CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
 El Estado de Hidalgo, como integrante de la Federación, es libre y soberano en todo lo que concierne a su régimen interior, conforme a los preceptos de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2016)</small>
 
 ###### Artículo 2º.
 
-Este decreto comenzará a surtir sus efectos desde el año de 1928.
+La Constitución Política de los Estados Unidos Mexicanos, esta Constitución, las Leyes que de ellas emanen y los tratados internacionales de los que el Estado mexicano sea parte, integran el orden jurídico fundamental del Estado de Hidalgo.
 
-P.O. 8 DE OCTUBRE DE 1929.
-
-Este decreto empezará a surtir sus efectos, desde la fecha de su publicación.
-
-P.O. 16 DE MARZO DE 1930.
-
-I.- Estas reformas empezarán a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial.
-
-II.- El primer período de cuatro años que deberán durar los Magistrados del Tribunal Superior de Justicia, comenzará el día primero de abril del corriente año, y otorgarán la protesta de ley ante el Ejecutivo del Estado.
-
-P.O. 16 DE ENERO DE 1931.
-
-Continúa en vigor el decreto 170 de 8 de mayo de 1930.
-
-P.O. 8 DE OCTUBRE DE 1932.
-
-Esta Ley comenzará a surtir sus efectos desde la fecha de su publicación.
-
-P.O. 8 DE SEPTIEMBRE DE 1935.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
-
-P.O. 16 DE MARZO DE 1936.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
-
-P.O. 24 DE MARZO DE 1936.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
-
-P.O. 16 DE JUNIO DE 1936.
-
-DECRETO NÚMERO 363, QUE REFORMA LOS PÁRRAFOS PRIMERO Y DÉCIMOSEGUNDO DEL ARTÍCULO 3° DE LA CONSTITUCIÓN.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
-
-P.O. 16 DE JUNIO DE 1936.
-
-DECRETO NÚMERO 364, QUE REFORMA LOS PÁRRAFOS 1° Y 3° DEL ARTÍCULO 3° DE LA CONSTITUCIÓN.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
-
-P.O. 16 DE JUNIO DE 1936.
-
-DECRETO NÚMERO 365, QUE REFORMA EL PRIMERO Y QUINTO PÁRRAFOS DEL ARTÍCULO 3° DE LA CONSTITUCIÓN.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
-
-P.O. 1 DE JUNIO DE 1937.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2016)</small>
 
 ###### Artículo 3º.
 
-Las Autoridades y los servidores públicos del Estado no tienen más facultades que las que expresamente les concedan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las Leyes que de ellas emanen.
+Las Autoridades y los servidores públicos del Estado no tienen más facultades que las que expresamente les concedan las normas jurídicas señaladas en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
 El Estado podrá, en los términos de Ley, convenir con la federación la asunción por parte de aquél, del ejercicio de funciones de dicha federación, la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario.
 
@@ -359,11 +313,11 @@ El trabajo se entenderá como un derecho y una obligación que debe cumplirse re
 
 La ley determinará cuáles son las profesiones que necesitan título para su ejercicio, las condiciones que deban llenarse para obtenerlo y las autoridades que han de expedirlos.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2016)</small>
 
 ###### Artículo 8°.
 
-Todos los habitantes del Estado tienen derecho a la alimentación nutritiva, suficiente y de calidad, a la protección de la salud, a disfrutar de una vivienda digna y decorosa, y en general, al bienestar y a la seguridad individual y social, como objetivos de la permanente superación del nivel de vida de la población. La Ley definirá las bases y formas para conseguir estas finalidades en concurrencia con la Federación.
+Todos los habitantes del Estado tienen derecho a la alimentación nutritiva, suficiente y de calidad, a la protección de la salud, a disfrutar de una vivienda digna y decorosa, y en general, al bienestar y a la seguridad individual y social y a la accesibilidad, como objetivos de la permanente superación del nivel de vida de la población. La Ley definirá las bases y formas para conseguir estas finalidades en concurrencia con la Federación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
@@ -561,13 +515,11 @@ I. El desempeño de cargos públicos o de elección popular;
 
 II. La realización de estudios profesionales, científicos o artísticos, efectuados fuera de la Entidad por el tiempo que lo requieran; y
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2016)</small>
 
-III. Por el desempeño de actividades administrativas o docentes que aporten beneficios a la Entidad;
+III. Por el desempeño de actividades administrativas, docentes o laborales lícitas, que aporten beneficios a la Entidad; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE FEBRERO DE 2001)</small>
-
-IV. Por desempeñar sus actividades laborales en el extranjero.
+IV. (DEROGADA, P.O. 20 DE JUNIO DE 2016)
 
 > <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -889,9 +841,9 @@ III. Los Secretarios del Despacho del Poder Ejecutivo, los Magistrados del Tribu
 
 Los Consejeros Electorales, el Subprocurador de Asuntos Electorales, los integrantes de la Junta Estatal Ejecutiva del Instituto Estatal Electoral y los Magistrados del Tribunal Electoral del Poder Judicial del Estado, tampoco podrán serlo, a menos que se separen de su cargo un año antes del inicio del proceso electoral de que se trate;
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2016)</small>
 
-IV. Los Jueces de Primera Instancia y los Administradores de Rentas, en la circunscripción en la que ejerzan sus funciones y los Presidentes Municipales en el Distrito del que forme parte el Municipio de su competencia, si no se han separado unos y otros de sus cargos cuando menos sesenta días naturales antes del día la elección;
+IV. Los Jueces de Primera Instancia en la circunscripción en la que ejerzan sus funciones y los Presidentes Municipales en el Distrito del que forme parte el Municipio de su competencia, si no se han separado unos y otros de sus cargos cuando menos sesenta días naturales antes del día (sic) la elección; y
 
 V. Los militares que no se hayan separado del servicio activo, cuando menos seis meses antes de la elección.
 
@@ -3001,12 +2953,6 @@ Esta Constitución se protestará con toda solemnidad en todo el Estado, quedand
 
 En tanto se expiden las leyes orgánicas relativas, continuarán rigiendo en el Estado, las vigentes en la actualidad así como los decretos y reglamentos que no se opongan a la presente Constitución ni a la General de 5 de febrero de 1917.
 
-###### Artículo 2°.
-
-La Constitución Política de los Estados Unidos Mexicanos como Ley Suprema, esta Constitución, las Leyes que de ellas emanen y los tratados internacionales de los que el Estado mexicano sea parte, integran el orden jurídico del Estado de Hidalgo.
-
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
-
 ###### Artículo 3°.
 
 El período Constitucional de la actual Legislatura, terminará el último día de febrero de 1921; el del Gobernador, el 31 de marzo del mismo año y el de los Magistrados del Superior Tribunal de Justicia, el 4 de mayo de 1923.
@@ -3037,23 +2983,59 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 16 DE NOVIEMBRE DE 1927.
 
-###### Artículo 2o.
+###### Artículo 2º.
 
-La reforma al Artículo 74 empezará a surtir sus efectos para la integración de las próximas asambleas municipales.
+Este decreto comenzará a surtir sus efectos desde el año de 1928.
 
-P.O. 16 DE JUNIO DE 1946.
+P.O. 8 DE OCTUBRE DE 1929.
+
+Este decreto empezará a surtir sus efectos, desde la fecha de su publicación.
+
+P.O. 16 DE MARZO DE 1930.
+
+I.- Estas reformas empezarán a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial.
+
+II.- El primer período de cuatro años que deberán durar los Magistrados del Tribunal Superior de Justicia, comenzará el día primero de abril del corriente año, y otorgarán la protesta de ley ante el Ejecutivo del Estado.
+
+P.O. 16 DE ENERO DE 1931.
+
+Continúa en vigor el decreto 170 de 8 de mayo de 1930.
+
+P.O. 8 DE OCTUBRE DE 1932.
+
+Esta Ley comenzará a surtir sus efectos desde la fecha de su publicación.
+
+P.O. 8 DE SEPTIEMBRE DE 1935.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
 
-P.O. 8 DE SEPTIEMBRE DE 1946.
+P.O. 16 DE MARZO DE 1936.
 
-UNICO.- Estas reformas entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
 
-P.O. 16 DE NOVIEMBRE DE 1947.
+P.O. 24 DE MARZO DE 1936.
 
-Unico.- Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
 
-P.O. 24 DE FEBRERO DE 1948.
+P.O. 16 DE JUNIO DE 1936.
+
+DECRETO NÚMERO 363, QUE REFORMA LOS PÁRRAFOS PRIMERO Y DÉCIMOSEGUNDO DEL ARTÍCULO 3° DE LA CONSTITUCIÓN.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+
+P.O. 16 DE JUNIO DE 1936.
+
+DECRETO NÚMERO 364, QUE REFORMA LOS PÁRRAFOS 1° Y 3° DEL ARTÍCULO 3° DE LA CONSTITUCIÓN.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+
+P.O. 16 DE JUNIO DE 1936.
+
+DECRETO NÚMERO 365, QUE REFORMA EL PRIMERO Y QUINTO PÁRRAFOS DEL ARTÍCULO 3° DE LA CONSTITUCIÓN.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+
+P.O. 1 DE JUNIO DE 1937.
 
 ###### ARTICULO UNICO
 
@@ -3091,7 +3073,21 @@ Las reformas a los artículos 58 y 59 empezarán a surtir sus efectos a partir d
 
 ###### Artículo 2o.
 
-El Congreso del Estado deberá de expedir las Leyes reglamentarias necesarias para cumplir con lo ordenado en las mismas reformas.
+La reforma al Artículo 74 empezará a surtir sus efectos para la integración de las próximas asambleas municipales.
+
+P.O. 16 DE JUNIO DE 1946.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+
+P.O. 8 DE SEPTIEMBRE DE 1946.
+
+UNICO.- Estas reformas entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE NOVIEMBRE DE 1947.
+
+Unico.- Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE FEBRERO DE 1948.
 
 ###### Artículo 1o.
 
@@ -3099,81 +3095,7 @@ Se derogan todas las Leyes y disposiciones que estén en contradicción con las 
 
 ###### Artículo 2o.
 
-Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 15 DE SEPTIEMBRE DE 1975.
-
-Unico.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 24 DE JUNIO DE 1976.
-
-Este Decreto entrará en vigor el día 3 de junio (sic) próximo.
-
-P.O. 24 DE ABRIL DE 1978.
-
-UNICO.- Este Decreto surtirá sus efectos a partir del 15 de marzo próximo del año en curso.
-
-P.O. 1 DE JULIO DE 1978.
-
-Unico.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 1 DE NOVIEMBRE DE 1979.
-
-1o.- En tanto se promulga la Ley Electoral del Estado, se faculta al H. Congreso para fijar el número de Regidores en cada Municipio, conforme a la cantidad de habitantes en cada uno de ellos.
-
-2o.- Estas reformas y adiciones serán protestadas con toda solemnidad en el Estado, quedando derogadas las disposiciones que se les opongan.
-
-3o.- En tanto se expidan las leyes orgánicas relativas, continuarán en observancia las vigentes, así como los Decretos y Reglamentos que no se opongan a la presente Constitución ni la General de la República.
-
-4o.- Estas reformas y adiciones constitucionales entrarán en vigor quince días después de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 24 DE MARZO DE 1981.
-
-Artículo Único.- Este Decreto surtirá sus efectos legales a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 1 DE JUNIO DE 1981.
-
-UNICO.- Este Decreto empezará a surtir sus efectos legales a partir del día siguiente de su publicación en el periódico Oficial del Estado.
-
-P.O. 31 DE DICIEMBRE DE 1981.
-
-UNICO.- Estas reformas entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 24 DE MARZO DE 1982.
-
-UNICO: El presente decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 16 DE MAYO DE 1982.
-
-UNICO.- Estas reformas entraran en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, una vez cumplidos los requisitos establecidos por los Artículos 51 y párrafo segundo del 158 de la propia Constitución Política del Estado.
-
-P.O. 31 DE DICIEMBRE DE 1982.
-
-UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el "Periódico Oficial" del Gobierno del Estado de Hidalgo, y cumplido el requisito establecido en el párrafo segundo del Artículo 158 de la propia Constitución Política del Estado.
-
-P.O. 16 DE AGOSTO DE 1983.
-
-UNICO.- Estas modificaciones entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, una vez cumplidos los requisitos establecidos por los Artículos 51 y párrafo segundo del Artículo 158 de la propia Constitución Política del Estado.
-
-P.O. 8 DE JUNIO DE 1984.
-
-UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Hidalgo.
-
-P.O. 16 DE JULIO DE 1986.
-
-UNICO. El presente Decreto entará (sic) en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 16 DE ENERO DE 1987.
-
-UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 24 DE SEPTIEMBRE DE 1987.
-
-PRIMERO.- El presente Decreto de reformas entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO.- Los Magistrados del Tribunal Superior de Justicia que se encuentren en funciones al entrar en vigor el presente Decreto, serán inamovibles y sólo podrán ser privados de sus puestos en los casos que señalan la Constitución Política del Estado y la Ley de Responsabilidades de los Servidores Públicos del Estado.
-
-P.O. 1 DE OCTUBRE DE 1987.
+El Congreso del Estado deberá de expedir las Leyes reglamentarias necesarias para cumplir con lo ordenado en las mismas reformas.
 
 ###### Artículo 3o.
 
@@ -3802,3 +3724,25 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Congreso deberá emitir la ley secundaria en el plazo señalado en el Transitorio Quinto del Decreto que contiene la Ley General de Transparencia y Acceso a la Información Pública.
 
 TERCERO.- Los consejeros que actualmente conforman el Instituto de Acceso a la Información Pública Gubernamental para el Estado de Hidalgo continuarán en sus funciones, conforme a la ley secundaria y hasta la fecha de terminación del período para el que fueron originariamente designados.
+
+P.O. 20 DE JUNIO DE 2016.
+
+> <small>[N. DE E. TRANSITORIOS “DECRETO NÚM. 664 QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO”.]</small>
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se deroga cualquier disposición que se oponga al contenido del presente Decreto.
+
+P.O. 20 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 665 QUE REFORMA EL ARTÍCULO 8 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. Envíese a los 84 Municipios que integran el Estado de Hidalgo para su aprobación correspondiente.
+
+SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 20 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 666 QUE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 32 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Hidalgo.
