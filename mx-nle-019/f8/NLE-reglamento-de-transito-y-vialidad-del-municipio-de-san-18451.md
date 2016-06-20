@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-san-18451"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-03"
-last_updated: "2016-03-04"
+last_updated: "2016-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "NLE"
 
 REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, PUBLICADO EN EL PERIÓDICO OFICIAL EL 20 DE JUNIO DE 2016; EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS SESENTA DÍAS NATURALES CONTADOS A PARTIR DEL DÍA SIGUIENTE AL DE LA PUBLICACIÓN DE DICHO ORDENAMIENTO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de noviembre de 2000.
 
@@ -1227,7 +1229,7 @@ Los autobuses y los camiones unitarios podrán circular por todo el municipio, �
 
 Ningún vehículo automotor podrá circular por las vialidades del municipio si su peso bruto vehicular excede de 17 toneladas, excepto para la Avenida Ignacio Morones Prieto y el Boulevard Antonio L. Rodríguez.
 
-(REUBICADO [N. DE E. ANTES CAPITULO DECIMO PRIMERO], P.O. 12 DE NOVIEMBRE DE 2004)
+(REUBICADO [N. DE E. ANTES CAPÍTULO DÉCIMO PRIMERO], P.O. 12 DE NOVIEMBRE DE 2004)
 
 ### CAPITULO DECIMO SEGUNDO. DE LA SUSPENSION DE MOVIMIENTO Y EL ESTACIONAMIENTO DE VEHICULOS
 
@@ -1307,7 +1309,7 @@ II DE NOCHE: Linternas, luces o reflejantes, también de color rojo.
 
 Estos dispositivos deben colocarse a diez metros y cincuenta metros hacia cada lado de donde se aproximen vehículos, de tal forma que sean visibles desde una distancia de cien metros.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 58], P.O. 12 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 58], P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 63.
 
@@ -1349,19 +1351,19 @@ Los habitantes o propietarios de casas o edificios tendrán preferencia para est
 
 Todos los vehículos conducidos por personas con discapacidad o utilizados para el transporte de los mismos, deberán contar con la placa expedida por la Dependencia correspondiente para hacer uso de los lugares exclusivos especiales.
 
-(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002) (REUBICADO [N. DE E. ANTES ARTICULO 65], P.O. 12 DE NOVIEMBRE DE 2004)
+(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002) (REUBICADO [N. DE E. ANTES ARTÍCULO 65], P.O. 12 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 70.
 
 Los autobuses, camiones de pasajeros, microbuses y cualquier otro vehículo de servicio público local o federal de pasajeros, sin incluir a los taxis, no podrán ser estacionados en la vía pública en mayor cantidad de dos a la vez en los lugares autorizados por la Dependencia correspondiente, para cambio de moneda o boletos y en este caso, lo harán solamente el tiempo necesario para las actividades antes señaladas.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 66], P.O. 12 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 66], P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 71.
 
 Las empresas de cualquier tipo que posean flotillas de vehículos deben tener un área de su propiedad para estacionarlos sin afectar a sus vecinos. Por lo tanto, no podrán estacionar sus vehículos frente a domicilios contiguos a su domicilio social o centro de operaciones.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 67], P.O. 12 DE NOVIEMBRE DE 2004)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 67], P.O. 12 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 72.
 
@@ -2663,11 +2665,13 @@ En los casos de retiro de vehículos de la circulación o de la vía pública, p
 
 ### CAPITULO VIGESIMO PRIMERO. DE LAS SANCIONES
 
-(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2012
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 130], P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
-###### ARTÍCULO 135.
+###### ARTICULO 135.
 
-Sin perjuicio de la responsabilidad que corresponda al conductor por las infracciones que comenta en la conducción de un vehículo, el propietario o poseedor será responsable solidario de las infracciones que se cometan en la conducción del mismo; excepto en caso de robo denunciado ante las autoridades competentes, siempre y cuando esta denuncia haya sido con antelación a las infracciones cometidas.
+El propietario del vehículo, será responsable de las infracciones que se comentan en la conducción del mismo; excepto en caso de robo reportado ante las autoridades competentes, siempre y cuando este repone haya sido con anticipación a las infracciones cometidas.
+
+El conductor será solidariamente responsable, junto con el propietario del vehículo de las infracciones que cometa en la conducción del mismo.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 131], P.O. 12 DE NOVIEMBRE DE 2004)
 
@@ -3216,3 +3220,27 @@ P.O. 4 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 25 DE FEBRERO DE 2016, SE APRUEBA LA INICIATIVA DE REFORMA DE DIVERSOS REGLAMENTOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN]
 
 ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 20 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 08 DE JUNIO DE 2016, SE APRUEBA EL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor a los 60-sesenta días naturales contados a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- A partir de la entrada en vigor de este Reglamento, se abroga el Reglamento de Tránsito y Vialidad, publicado en el Periódico Oficial del Estado de fecha 3 de noviembre de 2000.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan al presente Reglamento.
+
+CUARTO.- La obligación contenida en el Artículo 49 será aplicable 60-sesenta días naturales, a partir de la entrada en vigor del presente Reglamento.
+
+QUINTO.- El Municipio contará con 120-ciento veinte días naturales a partir de la entrada en vigor del presente Reglamento, para llevar a cabo los estudios técnicos que permitan determinar el establecimiento de los programas instituidos en los Artículos 125, 126 y 127 del presente Reglamento.
+
+SEXTO.- Se instruye a la Secretaría de Seguridad Pública Municipal y con el apoyo de las dependencias municipales que correspondan, a que lleve a cabo una campaña de difusión que tenga por objeto dar a conocer lo ordenado en la Sección 5 del Capítulo III, en los siguientes términos:
+
+I. De Difusión Vial y de Promoción de Rutas: Que comprende toda actividad que a través de medios de comunicación, redes sociales, señalamientos informativos y restrictivos, así como otros medios de difusión, se lleve a cabo para informar a los conductores de vehículos de transporte de carga pesada sobre las nuevas disposiciones en la materia; asimismo se deberá informar a las Autoridades Federales y Estatales, Cámaras de la Industria, Comercio y Transporte, que forman parte de las actividades que sobre vehículos de transporte de carga pesada se llevan a cabo en el Área Metropolitana de Monterrey. Esta etapa tendrá una duración de 90-noventa días naturales contados a partir de la publicación en el Periódico Oficial del Estado de Nuevo León;
+
+II. Preventiva e Informativa: Que advierte la aplicación de amonestaciones a conductores infractores por un período de 60-sesenta días naturales contados a partir de la conclusión de la campaña de difusión vial y de promoción de rutas; durante la amonestación se continuará con la comunicación de lo ordenado en la presente norma, y,
+
+III. Correctiva: Una vez concluida la etapa Preventiva e Informativa y por espacio de 30-treinta días naturales, la aplicación de la multa tendrá un descuento único del 50%-cincuenta por ciento si ésta es pagada durante los 15-quince días naturales siguientes a la aplicación de dicha multa.
+
+SÉPTIMO.- La aplicación de las sanciones por faltas o violaciones al presente Reglamento, contenidas en el Artículo 164, fracción V, surtirá sus efectos sin concesión, a partir de la conclusión de la campaña preventiva e informativa señalada en el Artículo Sexto Transitorio.
