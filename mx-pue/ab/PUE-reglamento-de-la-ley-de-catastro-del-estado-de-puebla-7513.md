@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-la-ley-de-catastro-del-estado-de-puebla-7513"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-02-21"
-last_updated: "1992-02-21"
+last_updated: "2016-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO DE LA LEY DE CATASTRO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2016.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 21 de febrero de 1992.
 
@@ -43,89 +43,73 @@ REGLAMENTO DE LA LEY DE CATASTRO DEL ESTADO DE PUEBLA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2016)</small>
+
 ###### Artículo 1o.
 
-El presente ordenamiento tiene por objeto reglamentar la Ley de Catastro del Estado de Puebla.
+El presente ordenamiento es de orden público y de observancia general y tiene por objeto reglamentar la Ley de Catastro del Estado de Puebla.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2016)</small>
 
 ###### Artículo 2o.
 
 Para la aplicación de la Ley y su Reglamento, se entiende por:
 
-I.- ACTUALIZACIONES DE VALORES.- El procedimiento destinado a modificar los valores unitarios, cuando los existentes hubieren concluido de acuerdo a la Ley y este Reglamento.
+I. ACTUALIZACIONES DE VALORES: El procedimiento destinado a modificar los valores unitarios, cuando los existentes hubieren concluido de acuerdo a la Ley de este Reglamento;
 
-II.- ASENTAMIENTO HUMANO.- Toda porción de terreno habitado, urbanizado o no.
+II. ASENTAMIENTO HUMANO: Toda porción de terreno habitado, urbanizado o no;
 
-III.- CONSTRUCCION.- Las obras de cualquier tipo, destino o uso, inclusive los equipos o instalaciones adheridas permanentemente y que forman parte integrante de la misma.
+III. CONSTRUCCIÓN PERMANENTE: La que está adherida a un predio de manera fija, en condiciones tales que no puede separarse del suelo sin deterioro de la propia construcción;
 
-IV.- CONSTRUCCION PERMANENTE.- La que está adherida a un predio de manera fija, en condiciones tales que no puede separarse del suelo sin deterioro de la propia construcción.
+IV. CONSTRUCCIÓN RUINOSA: La que por su estado de conservación o estabilidad, representa un riesgo grave para su habitabilidad, para las personas o para las propiedades colindantes;
 
-V.- CONSTRUCCION PROVISIONAL.- La que por su estructura sea desmontable en cualquier momento, exceptuando las construcciones de estructuras metálicas, que por su magnitud y destino tiendan a quedar permanentemente en el predio.
+V. FUSIÓN: La unión de dos o más inmuebles colindantes;
 
-VI.- CONSTRUCCION RUINOSA.- La que por su estado de conservación o estabilidad, representa un riesgo grave para su habitabilidad, para las personas o para las propiedades colindantes.
+VI. INSPECCIÓN: La acción de vigilar que deben realizar las autoridades catastrales competentes, para comprobar las disposiciones de la Ley y este Reglamento;
 
-VII.- FUSION.- La unión de dos o más inmuebles colindantes.
+VII. LOCAL EN CONDOMINIO: Pisos, departamentos, viviendas o locales en un predio, pertenecientes a diferentes dueños;
 
-VIII.- INSPECCION.- La acción de vigilar que deben realizar las autoridades catastrales competentes, para comprobar las disposiciones de la Ley y este Reglamento.
+VIII. MANIFIESTO CATASTRAL: El documento en que se informa a la Autoridad catastral la existencia, características y modificaciones de un bien inmueble;
 
-IX.- LOCAL EN CONDOMINIO.- Pisos, departamentos, viviendas o locales en un predio, pertenecientes a diferentes dueños.
+IX. ORTOFOTO: Es una presentación fotográfica de una zona de la superficie terrestre, en la que todos los elementos presentan la misma escala, libre de errores y deformaciones, con la misma validez de un plano cartográfico;
 
-X.- LOTE.- Superficie de terreno que resulta de la división de una manzana.
+X. PADRÓN: Nómina o lista de predios;
 
-XI.- MANIFIESTO CATASTRAL.- El documento en que se informa a la autoridad catastral la existencia, características y modificaciones de un bien inmueble.
+XI. PLANOS CATASTRALES: El conjunto de planos elaborados por el Catastro, que integran su registro gráfico;
 
-XII.- MANZANA.- Área formada por uno o varios terrenos colindantes, delimitados por vías públicas.
+XII. PREDIOS URBANOS:
 
-XIII.- PADRÓN.- Nómina o lista de predios.
+a) El comprendido dentro del perímetro urbano de las poblaciones, pero las superficies de terreno rústico colindantes con las zonas urbanas, se considerarán como predio urbano cuando sean fraccionados para fines de urbanización, desde la fecha en que se notifiquen y ofrezcan en venta al público;
 
-XIV.- PADRÓN CATASTRAL.- El conjunto de registros en los que se contienen los datos generales y particulares, de los bienes inmuebles ubicados en el territorio del Estado.
+b) Los establecimientos industriales, comerciales y de cualquier otro género, con sus construcciones cualquiera que sea el lugar en que se encuentren ubicados, siempre que dichos establecimientos no estén relacionados con la explotación agrícola, ganadera o silvícola del predio en que estén construidos;
 
-XV.- PLANOS CATASTRALES.- El conjunto de planos elaborados por el Catastro, que integran su registro gráfico.
+c) Las fincas destinadas exclusivamente, a fin de recreo o de placer, y
 
-XVI.- PREDIO.- El terreno o lote unitario con o sin construcciones, cuyos linderos formen un perímetro.
+XIII. REGISTRO CATASTRAL: Es aquél que contiene los datos gráficos, administrativos, estadísticos, legales y técnicos con que se inscribe un predio en el catastro.
 
-XVII.- PREDIOS URBANO:
-
-a) El comprendido dentro del perímetro urbano de las poblaciones, pero las superficies de terreno rústico colindantes con las zonas urbanas, se considerarán como predio urbano cuando sean fraccionados para fines de urbanización, desde la fecha en que se lotifiquen y ofrezcan en venta al público.
-
-b) Los establecimientos industriales, comerciales y de cualquier otro género, con sus construcciones cualquiera que sea el lugar en que se encuentren ubicados, siempre que dichos establecimientos no estén relacionados con la explotación agrícola, ganadera o silvícola del predio en que estén construidos; y
-
-c) Las fincas destinadas exclusivamente, a fin de recreo o de placer.
-
-XVIII.- PREDIOS RUSTICOS.- Los que estén ubicados fuera de los perímetros urbanos a que se refieren la fracción anterior.
-
-XIX.- REGION CATASTRAL.- La delimitación de las áreas comprendidas de una zona catastral, con características similares en cuanto a usos del suelo, servicios públicos y su calidad, edad, estado y tipo de desarrollo urbano, densidad de la construcción, tipo y calidad de las construcciones e índices socioeconómicos.
-
-XX.- REGISTRO CATASTRAL.- Inscripción alfabética, numérica o alfanumérica que identifica un predio en el padrón catastral.
-
-XXI.- REGISTRO ESTATAL DEL PREDIO.- El que se asigna a un predio para incorporarlo al padrón fiscal.
-
-XXII.- REVALUACION CATASTRAL.- El conjunto de actividades técnicas realizadas para asignar un nuevo valor catastral a un bien inmueble.
-
-XXIII.- VALOR CATASTRAL.- El importe de la valuación practicada por la autoridad catastral, con apego a las normas de la Ley y este Reglamento.
-
-XXIV.- VALOR PROVISIONAL.- El determinado por la autoridad catastral, con base en los elementos de que disponga, en los casos que preve la Ley y este Reglamento.
-
-XXV.- VALUACIÓN CATASTRAL.- El conjunto de actividades técnicas, realizadas para signar un valor catastral por primera vez a un bien inmueble.
-
-XXVI.- ZONAS CATASTRALES.- Las áreas en que se divide el territorio de los Municipios del Estado.
-
-XXVII.- ZONIFICACION CATASTRAL.- La demarcación del territorio del Estado en zonas y regiones catastrales de acuerdo a las características señaladas en la Ley, este Reglamento y en los manuales e instructivos aplicables.
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2016)</small>
 
 ###### Artículo 3o.
 
-Para los efectos del artículo 7o de la Ley, en la manifestación para la inscripción o actualización de bienes inmuebles en el Padrón Catastral, se asentarán las características físicas de ubicación, de uso, su valor y los datos socioeconómicos y estadísticos, necesarios para cumplir los objetivos del Catastro, de acuerdo a las formas e instructivos aprobados para tal efecto.
+En la solicitud de inscripción de predios o, en la manifestación o declaración de modificación de los bienes inmuebles en el Padrón Catastral, se asentarán las características físicas de ubicación, de uso, su valor y los datos socioeconómicos y estadísticos, necesarios para cumplir los objetivos del Catastro, de acuerdo a las formas e instructivos aprobados para tal efecto.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2016)</small>
 
 ###### Artículo 4o.
 
-Los Municipios, a través de sus respectivos Ayuntamientos, podrán proponer a la Dirección del Instituto, las reformas y adecuaciones que crean convenientes para ampliar la esfera de acción del propio Instituto, para que en su caso, y llenados que sean los requisitos legales, se proceda en consecuencia.
+La información que los Ayuntamientos le proporcionen al Instituto, a través del área competente podrá considerarse para la modificación a los convenios celebrados entre ellos o bien para la elaboración de reformas y adecuaciones al marco normativo en materia catastral, con la finalidad de ampliar la esfera de acción del propio Instituto.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2016)</small>
 
 ###### Artículo 5o.
 
-Los Ayuntamientos deberán proporcionar al Instituto, dentro de los plazos que en cada caso se establezcan, todos los datos, documentos e informes que sean necesarios para integrar y actualizar los registros catastrales, a efecto de perfeccionar los métodos catastrales, la planeación y programación de políticas valuatorias.
+Los Ayuntamientos deberán proporcionar, a través de la unidad administrativa competente del Instituto, dentro de los plazos que en cada caso se establezcan, todos los datos, documentos e informes que sean necesarios para integrar y actualizar los registros catastrales, a efecto de perfeccionar los métodos catastrales, la planeación y programación de políticas valuatorias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2016)</small>
 
 ###### Artículo 6o.
 
-Para los efectos de los artículos 17 y 18 de la Ley, el Catastro se forma con los registros gráfico, numérico, alfanumérico, alfabético, de ubicación y estadístico; los que a su vez están integrados de la siguiente manera:
+Los registros con los que se encuentra integrado el Catastro, se conforman de la siguiente manera:
 
 I.- EL REGISTRO GRAFICO CON:
 
@@ -139,35 +123,53 @@ d) El plano de cada una de las poblaciones, determinándose dentro de ellas el p
 
 e) El plano de cada manzana con los predios que la formen a escala 1:500, debiendo contener las dimensiones de ésta; los números o nombres de las vías públicas que la limitan; el número de la región catastral a que pertenece; el número de la manzana que le corresponda; los predios con expresión de los linderos, dimensiones del terreno, dibujo de las construcciones de cada uno; la numeración progresiva de cada predio; la simbología de los servicios con que cuenta y el uso o destino del predio, así como el número oficial.
 
-La Dirección del Instituto Podrá autorizar el uso de una escala distinta de las mencionadas.
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2016)</small>
+
+La Dirección de Catastro del Instituto podrá autorizar el uso de una escala distinta de las mencionadas.
 
 II.- EL REGISTRO NUMERICO.- De acuerdo al registro catastral y de no existir, por el registro administrativo de la cuenta del impuesto predial.
 
 III.- EL REGISTRO ALFANUMERICO.- De acuerdo con el padrón alfabético, teniendo como dato de referencia el expresado en la fracción anterior.
 
-IV.- EL REGISTRO ALFABETICO.- Tomando como base la primera letra del apellido paterno del propietario del inmueble, sin perjuicio de que consten también su segundo apellido y nombre.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2016)</small>
 
-V.- EL REGISTRO DE UBICACION.- De acuerdo a la localización del predio y a su nomenclatura oficial.
+IV.- El REGISTRO GEOMÉTRICO: Se integra por datos alfanuméricos, numéricos y cartográficos georeferenciados de un predio;
 
-VI.- EL REGISTRO ESTADISTICO.- En función del uso o destino del predio, servicios con que cuenta y todos aquellos datos que permitan su manejo y utilidad.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2016)</small>
+
+V.- El REGISTRO VECTORIAL: Se conforma de datos geográficos y alfanuméricos asociados, que representan entidades, como predios, construcciones, calles, colonias o cualquier elemento que se pueda ver sobre un mapa; representado como un conjunto de puntos, líneas y polígonos, y
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2016)</small>
+
+VI.- El REGISTRO RASTER: Se integra por atributos de datos geométricos y alfanuméricos, como son imágenes, datos y metadatos, capas, fotos, ortofotos, mapas, geoposición y geoprocesamiento, los cuales forman una Geodatabase de predios.
 
 ### CAPITULO II. DE LA VALUACION
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2016)</small>
+
 ###### Artículo 7o.
 
-Para los efectos de los artículos 26 y 27 de la Ley, la valuación catastral comprenderá tres clases de operaciones:
+La valuación catastral se realizará conforme al manual de valuación que para tal efecto emita el Director General del Instituto y que se publique en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2016)</small>
+
+La valuación catastral comprenderá tres clases de operaciones:
 
 I.- La determinación de la zonificación catastral y los valores unitarios de terreno y construcción;
 
-II.- La conformación y actualización de los estudios de las zonas y valores de las áreas urbanas y rústicas del Estado; y
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2016)</small>
+
+II. La conformación y actualización de los estudios de las zonas y valores de las áreas urbanas, suburbanas y rústicas del Estado, y
 
 III.- La valuación de los predios en particular.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2016)</small>
+
 ###### Artículo 8o.
 
-Para los efectos del artículo 31 de la Ley, la determinación de la zonificación catastral y de valores unitarios de suelo, aplicables en las regiones catastrales de las áreas urbanas, se hará atendiendo a los factores siguientes:
+La determinación de la zonificación catastral y de valores unitarios de suelo, aplicables en las regiones catastrales de las áreas urbanas, se hará atendiendo a los factores siguientes:
 
-I.- Edad de la zona, que es el tiempo transcurrido entre su fundación y la época en que se determine el valor unitario.
+l. (DEROGADA, P.O. 20 DE JUNIO DE 2016)
 
 II.- Características de los servicios públicos y del equipamiento urbano.
 
@@ -183,17 +185,27 @@ VII.- Usos y destinos establecidos por los planes y declaratorias de desarrollo 
 
 VIII.- Indice socioeconómico de los habitantes.
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2016)</small>
+
 ###### Artículo 9o.
 
-La determinación de la zonificación catastral y de valores unitarios de suelo, aplicables en las regiones catastrales de las áreas rústicas, se hará atendiendo los factores siguientes:
+La determinación de la zonificación catastral y de valores unitarios de suelo aplicables en las regiones catastrales de las áreas rústicas, se hará atendiendo los factores siguientes:
 
-I.- Las características, los recursos y la productividad actual.
+I. Las características, los recursos y la productividad actual;
 
-II.- Las características del medio físico, recursos naturales y situación ambiental que conformen el sistema ecológico.
+II. Las características del medio físico, recursos naturales y situación ambiental que conformen el sistema ecológico;
 
-III.- La distancia a las vías de comunicación o a los centros urbanos, de consumo o acopio, las facilidades de comunicación, de transporte, la infraestructura y servicios integrados al área; y
+III. La distancia a las vías de comunicación o a los centros urbanos, de consumo o acopio, las facilidades de comunicación, de transporte, la infraestructura y servicios integrados al área;
 
-IV.- La situación jurídica de la tenencia de la tierra.
+IV. La situación jurídica de la tenencia de la tierra;
+
+V. Estado y tipo de desarrollo urbano, en el cual deberá considerarse el uso actual y potencial del suelo y la uniformidad de los inmuebles edificados, sean habitacionales, comerciales e industriales, así como aquellos de uso diferente;
+
+VI. Políticas de ordenamientos y regulación del territorio que sean aplicables;
+
+VII. Usos y destinos establecidos por los planes y declaratorias de desarrollo urbano, y
+
+VIII. Índice socioeconómico de los habitantes.
 
 ###### Artículo 10.
 
@@ -209,11 +221,15 @@ IV.- Calidad del proyecto; y
 
 V.- Estado de conservación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2016)</small>
+
 ###### Artículo 11.
 
-Para los efectos del artículo 29 de la Ley, la actualización a la zonificación catastral y a los valores unitarios se hará indicando:
+La actualización a la zonificación catastral y a los valores unitarios se hará conforme a lo siguiente:
 
-I.- La modificación general, con los porcentajes que indiquen los índices a que se refiere el propio artículo 29.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2016)</small>
+
+I.- La modificación general, con los porcentajes que indique el Índice Nacional de Costos de Construcción al Terreno, o en su caso, el que lo reemplace conforme a la ley aplicando el Índice Nacional de Precios al Consumidor emitidos por el Instituto Nacional de Estadística, Geografía e Informática (INEGI);
 
 II.- La ampliación a la zonificación y valores unitarios de terreno, por fraccionamientos o nuevos asentamientos humanos, presentando plano a escala de la misma.
 
@@ -231,11 +247,13 @@ II.- Determinación, en su caso, de los coeficientes de demérito o incremento q
 
 III.- Valuación de los predios o construcciones en particular, mediante el cálculo aritmético correspondiente.
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2016)</small>
+
 ###### Artículo 13.
 
-Para los efectos del artículo 35 de la Ley, la valuación catastral se hará separadamente para el terreno y para la construcción, y será practicada por personal autorizado por el Instituto.
+La valuación catastral se hará separadamente para el predio y para la construcción, y será practicada por personal autorizado por el Instituto.
 
-Para determinar el valor catastral de cada uno de los bienes inmuebles, se aplicarán los valores unitarios de suelo y de construcción aprobados, de acuerdo a la zona catastral en que se encuentren ubicados y a la clasificación de construcciones que les corresponda. En los casos de inmuebles situados en zonas catastrales para los que no se hayan fijado valores unitarios o que los existentes ya no sean aplicables, o que las características de las construcciones no se adecuen a ninguna de las clasificaciones de los valores unitarios, se estará a lo dispuesto en el artículo 32 de la Ley.
+Para determinar el valor catastral de cada uno de los bienes inmuebles, se aplicarán los valores unitarios de suelo y de construcción aprobados, de acuerdo a la zona catastral en que se encuentren ubicados y a la clasificación de construcciones que les corresponda. En los casos de inmuebles situados en zonas catastrales para los que no se hayan fijado valores unitarios o que los existentes ya no sean aplicables, o que las características de las construcciones no se adecuen a ninguna de las clasificaciones de los valores unitarios, se determinará un valor catastral provisional.
 
 ###### Artículo 14.
 
@@ -245,27 +263,35 @@ Para la valuación de cada terreno, deberá multiplicarse el valor unitario de s
 
 Para la valuación de cada construcción, deberá multiplicarse el valor unitario de construcción, aplicable a cada tipo de edificación, por el área construída y por los factores de mérito o demérito, que correspondan a su antigüedad y grado de conservación.
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2016)</small>
+
 ###### Artículo 16.
 
-El valor catastral que se determine para cada inmueble, será el que se obtenga de la suma de los valores del terreno y de la construcción, en su caso.
+El valor catastral que se determine para cada inmueble, será el que se obtenga de la suma de los valores del terreno, de la construcción y de las obras complementarias, en su caso.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2016)</small>
 
 ###### Artículo 17.
 
-La Dirección del Instituto elaborará los instructivos o manuales referentes a la construcción, los que contendrán las disposiciones administrativas y técnicas a que deban sujetarse los valuadores y los trabajos de valores unitarios y de valuación a que se refiere este capítulo.
+El Instituto, a través de la unidad administrativa competente, elaborará los instructivos y mantendrá actualizado el Manual de Actualización Catastral, que contendrá las disposiciones administrativas y técnicas a que deban sujetarse los valuadores y los trabajos de valores unitarios y de valuación a que se refiere este capítulo.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2016)</small>
 
 ###### Artículo 18.
 
-Los valuadores formularán sus avalúos catastrales fundados y motivados, asentando todos los datos exigidos en las formas aprobadas.
+Los Delegados Catastrales o los peritos valuadores formularán sus avalúos catastrales fundados y motivados, asentando todos los datos exigidos en las formas aprobadas.
 
 ###### Artículo 19.
 
-Para los efectos del artículo 30 de la Ley, la zonificación catastral y de valores unitarios de terreno urbano, una vez publicados en el Periódico Oficial del Estado, se insertarán en el plano general de la población de que se trate, en el que se indicará el valor asignado calle por calle o por zonas.
+(DEROGADO, P.O. 20 DE JUNIO DE 2016)
 
 ### CAPITULO III. DE LOS FRACCIONAMIENTOS Y CONDOMINIOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2016)</small>
+
 ###### Artículo 20.
 
-La Dirección del Instituto, al recibir la documentación a que se refiere el artículo 39 de la Ley, ordenará:
+El Instituto, a través de la unidad administrativa competente, al recibir la documentación a que se refiere el artículo 39 de la Ley, ordenará:
 
 I.- Verificar los datos proporcionados por el interesado.
 
@@ -273,9 +299,11 @@ II.- Asignar registro catastral a cada una de las manzanas y sus respectivos lot
 
 III.- Determinar los valores catastrales de cada lote del fraccionamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2016)</small>
+
 ###### Artículo 21.
 
-Para los efectos del artículo 45 de la Ley, dentro de los quince días siguientes a la expedición de la constancia a que se refiere la fracción VI del artículo 1118 del Código Civil del Estado, los interesados deberán presentar, invariablemente, a la Dirección del Instituto, copia de la documentación siguiente:
+Para los efectos del artículo 42 de la Ley, dentro de los quince días siguientes a la expedición de la constancia a que se refiere la fracción VIII del artículo 8 de la Ley que Regula el Régimen de Propiedad en Condominio para el Estado de Puebla, los interesados deberán presentar, invariablemente, a la Autoridad Catastral competente, copia de la documentación siguiente:
 
 I.- Tabla de indivisos.
 
@@ -295,13 +323,17 @@ El Instituto procederá a realizar la valuación del condominio en forma similar
 
 ### CAPITULO IV. DEL MANIFIESTO CATASTRAL
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2016)</small>
+
 ###### Artículo 22.
 
-Para los efectos del artículo 46 de la Ley, se deberá presentar, ante la Dirección del Instituto, el manifiesto catastral, que constituye el documento probatorio de que un predio se encuentra inscrito en el Catastro.
+Para los efectos del registro y manifiesto catastral, la cédula catastral, constituye el documento con el que se comprueba la información con la que está inscrito un predio en el Catastro.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2016)</small>
 
 ###### Artículo 23.
 
-En cumplimiento del artículo anterior, para proceder a la inscripción de un inmueble en el Catastro, se usarán las formas aprobadas por la Dirección del Instituto, en las que el propietario o poseedor del inmueble que lo manifiesta, deberá expresar los datos siguientes:
+En cumplimiento del artículo anterior, para proceder a la inscripción de un inmueble en el Catastro, se usarán las formas aprobadas por la Autoridad Catastral competente, en las que el propietario o poseedor del inmueble que lo manifiesta, deberá expresar los datos siguientes:
 
 I.- Número de registro estatal del predio.
 
@@ -327,15 +359,23 @@ XI.- Los servicios públicos o particulares con que cuenta la colonia, fracciona
 
 XII.- Calidad de la tierra en el caso de que el predio sea rústico.
 
-XIII.- Todos los demás datos que a juicio de la Dirección del Instituto, sirvan para obtener, mediante esta manifestación, las características sociales, económicas, jurídicas, fiscales o estadísticas que el Catastro requiere.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2016)</small>
 
-Como complemento a la información proporcionada por el propietario o poseedor del predio, la Dirección del Instituto asentará en el mismo manifiesto, el tipo de predio y el registro catastral.
+XIII.- Todos los demás datos que a juicio de la Autoridad Catastral competente, sirvan para obtener, mediante esta manifestación, las características sociales, económicas, jurídicas, fiscales o estadísticas que el Catastro requiere.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2016)</small>
+
+Como complemento a la información proporcionada por el propietario o poseedor del predio, la Autoridad Catastral competente asentará en el mismo registro o manifiesto catastral, el tipo de predio y el registro catastral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2016)</small>
 
 ###### Artículo 24.
 
-Para los efectos del artículo 47 de la Ley, a la solicitud de inscripción o manifestación deberán anexarse los datos siguientes:
+A la solicitud de inscripción o manifestación deberán anexarse los datos siguientes:
 
-I.- En los casos en que el Instituto no cuente con los antecedentes necesarios para efecto del registro catastral, copia de la escritura pública o de los documentos oficiales que amparen la propiedad o posesión del predio. Tratándose de la posesión sin título, se presentará copia certificada, expedida por el Ayuntamiento del lugar o Autoridad competente, en la que se haga saber que el poseedor del inmueble por inscribir, está en posesión del mismo, pública y pacíficamente.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2016)</small>
+
+I.- En los casos en que el Instituto no cuente con los antecedentes necesarios para efecto del registro catastral, copia de la escritura pública o de los documentos oficiales que amparen la propiedad o posesión del predio y tratándose de la posesión sin título, se presentará copia certificada, expedida por autoridad competente en la que se haga saber que el poseedor del inmueble por inscribir, está en posesión del mismo, pública y pacíficamente.
 
 II.- Croquis del predio localizado dentro de la manzana de su ubicación, con expresión de las dimensiones de sus linderos y la distancia a la esquina más próxima de la misma en que se halle ubicado y el nombre de las calles si es urbano o las referencias de poblados, carreteras, caminos o vías férreas más próximos si es rústico.
 
@@ -347,15 +387,19 @@ Los bienes inmuebles ubicados dentro del territorio del Estado, se inscribirán 
 
 La modificación de cualquiera de las características de los bienes inmuebles, deberá anotarse en el propio Padrón Catastral para su actualización.
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2016)</small>
+
 ###### Artículo 26.
 
-Al inscribir un inmueble en el padrón catastral se le asignará su registro, el que se integrará con los dígitos que identifiquen, Municipio, Localidad, Región, Manzana, Lote y los demás que permitan la determinación de las características del predio. En caso de inmuebles constituídos bajo el régimen de propiedad en condominio se agregará el número de edificio y la unidad condominal.
+Al inscribir un inmueble en el padrón catastral se le asignará su clave catastral, el que se integrará con los dígitos que identifiquen, Municipio, Localidad, Región, Manzana, Lote y los demás que permitan la determinación de las características del predio. En caso de inmuebles constituidos bajo el régimen de propiedad en condominio se agregará el número de edificio y la unidad condominal.
 
 ### CAPITULO VI. DE LA CONSERVACION DEL ARCHIVO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2016)</small>
+
 ###### Artículo 27.
 
-La Dirección del Instituto está obligada a mantener actualizado el Catastro, para lo cual efectuará todas aquellas labores que se consideren convenientes y que den como resultado su conservación.
+El Instituto, a través de la unidad administrativa competente, está obligado a mantener actualizado el Catastro, para lo cual efectuará todas aquellas labores que se consideren convenientes y que den como resultado su conservación.
 
 Para tal efecto, permanentemente realizará las investigaciones, estudios y modificaciones que sufra la propiedad en la Entidad, las que se anotarán en los registros catastrales, así como las mejoras que se realicen en las arterias urbanas, que permitan la actualización inmediata del valor de los inmuebles que se beneficien con dichas mejoras.
 
@@ -390,3 +434,15 @@ LIC. HONORIO CORTES LOPEZ
 EL SECRETARIO DE ASENTAMIENTOS HUMANOS Y OBRAS PUBLICAS
 
 LIC. MIGUEL QUIROZ PEREZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE CATASTRO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, se deberán concluir de acuerdo a la legislación vigente al momento de haberse iniciado el trámite.
