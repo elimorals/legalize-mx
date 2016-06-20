@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-la-contraloria-y-74807"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-15"
-last_updated: "2016-03-04"
+last_updated: "2016-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74807&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA Y TRANSPARENCIA MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 4 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 20 DE JUNIO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 15 de marzo de 2010.
 
@@ -179,13 +179,13 @@ II.- Asistir a las sesiones del Comité de Apoyo para la adjudicación y fallo d
 
 III.- Concurrir a las juntas del Comité de Adquisiciones dentro del procedimiento de adquisiciones, arrendamientos y contratación de servicios que realice el Municipio;
 
-IV.- (DEROGADA, P.O. 2 DE ABRIL DE 2014)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+IV.- Las demás que resuelva el Contralor mediante Acuerdo.
 
 ###### Artículo 9.
 
-Son indelegables las atribuciones señaladas en el artículo 31 del Reglamento Orgánico.
+(DEROGADO, P.O. 20 DE JUNIO DE 2016)
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
@@ -273,9 +273,17 @@ IX. Promover intercambios y convenios de cooperación con otras instancias de de
 
 X. Proponer la reglamentación sobre los lineamientos para la operación de la Contraloría Social, la cual podrá fungir como mecanismo democrático de representación y vigilancia, como organismo ciudadano de control e instrumento coadyuvante de la fiscalización que realiza el Municipio;
 
-XI. Apoyar el desempeño de los Contralores Ciudadanos en los términos de los reglamentos municipales; y
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2016)</small>
 
-XII. Las demás disposiciones que emita el Republicano Ayuntamiento.
+XI. Apoyar el desempeño de los Contralores Ciudadanos en los términos de los reglamentos municipales;
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2016)</small>
+
+XII. Recopilar, analizar, documentar y validar la información que se requiera para la implementación de los sistemas y procedimientos de control interno y de servicio a la ciudadanía; y
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2016)</small>
+
+XIII. Las demás que le asigne el Contralor.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2016)</small>
 
@@ -287,7 +295,9 @@ I. Director;
 
 II. Coordinador;
 
-III. Jefe Jurídico; y
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2016)</small>
+
+III. Jefe Administrativo; y
 
 IV. El demás personal administrativo necesario para su funcionamiento, de acuerdo a las determinaciones presupuestales.
 
@@ -331,9 +341,13 @@ La Coordinación de Procedimientos de Responsabilidad Administrativa contará co
 
 I. Coordinador;
 
-II. (DEROGADA, P.O. 4 DE MARZO DE 2016)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JUNIO DE 2016)</small>
 
-III. Jefe Jurídico; y
+II. Responsable de Procedimientos;
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2016)</small>
+
+III. Jefe de Departamento; y
 
 IV. El demás personal administrativo necesario para su funcionamiento, de acuerdo a las determinaciones presupuestales.
 
@@ -349,11 +363,13 @@ La Coordinación de Normatividad, Transparencia y Cuenta Pública tendrá a su c
 
 I.- Revisar y analizar la normatividad vigente y en coordinación con las dependencias involucradas, establecer mecanismos de prevención que auxilien en el cumplimiento de dicha normatividad, así como la evaluación de los trabajos realizados;
 
-II.- Recopilar, analizar, documentar y validar la información que se requiera para la implementación de los sistemas y procedimientos de control interno y de servicio a la ciudadanía;
+II.- (DEROGADA, P.O. 20 DE JUNIO DE 2016)
 
 III.- Emitir opinión respecto de los lineamientos que contengan los criterios para la organización, conservación y adecuado funcionamiento de los archivos de las dependencias y unidades administrativas del municipio;
 
-IV.- Supervisar que la Coordinación Administrativa dé seguimiento a las solicitudes de acceso a la información en los términos de la Ley de Transparencia y Acceso a la Información del Estado y al Reglamento;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2016)</small>
+
+IV.- Dar seguimiento a las solicitudes de acceso a la información en los términos de la Ley de Transparencia y al reglamento municipal en la materia;
 
 V.- Llevar a cabo acciones y programas que propicien la legalidad y transparencia en la gestión pública, así como la debida rendición de cuentas, el acceso a la información pública gubernamental y la protección de los datos personales en poder de la administración municipal;
 
@@ -363,13 +379,13 @@ VII.- Dar seguimiento a las quejas o denuncias que los ciudadanos presenten resp
 
 VIII.- Integrar la información que le proporcionen las dependencias municipales para propósitos de su difusión;
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2016)</small>
 
-IX.- Dar respuesta a las solicitudes de información, de acuerdo con lo que señala el Reglamento de Acceso a la Información Pública Gubernamental del Municipio;
+IX.- Dar respuesta a las solicitudes de información, de acuerdo con lo que señala la Ley de Transparencia y el reglamento municipal en la materia;
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2016)</small>
 
-X.- Ejecutar las recomendaciones que emita el Republicano Ayuntamiento y vigilar su exacto cumplimiento, debiendo rendir un informe a dicha Comisión;
+X.- Ejecutar las recomendaciones que emita el Republicano Ayuntamiento y vigilar su exacto cumplimiento, debiendo rendir un informe a la Comisión de Contraloría y Transparencia Municipal;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2014)</small>
 
@@ -378,6 +394,42 @@ XI.- Tener el carácter de Enlace de Transparencia, en los términos de la Ley d
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2014)</small>
 
 XII.- Coordinar y certificar el proceso de entrega-recepción del estado que guarda la administración pública municipal, así como cuando las dependencias y unidades administrativas cambien su titular, en los términos de lo dispuesto en el Reglamento Orgánico.
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2016)</small>
+
+XIII. Desplegar los programas, proyectos y acciones necesarias para garantizar el derecho de los ciudadanos al acceso a la información pública;
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2016)</small>
+
+XIV.- Auxiliar a la Comisión Especial de Entrega Recepción del Republicano Ayuntamiento en la emisión de un dictamen que sirva de base para la Glosa;
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2016)</small>
+
+XV.- Levantar el acta circunstanciada de la entrega del Gobierno y la Administración Pública Municipal, por la conclusión del período constitucional correspondiente;
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2016)</small>
+
+XVI.- Elaborar y someter a la autorización del Presidente Municipal los proyectos de manuales, políticas o lineamientos que tiendan a regular los procesos, procedimientos, organización y funcionamiento de las dependencias, órganos y unidades administrativas que integren la administración pública municipal centralizada;
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2016)</small>
+
+XVII.- Establecer y expedir las normas que regulen el funcionamiento de los instrumentos y procedimientos de control de las dependencias, órganos y unidades de la administración pública municipal centralizada, siendo competente para requerir la instrumentación de los mismos;
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2016)</small>
+
+XVIII.- Atender, turnar y dar seguimiento a las resoluciones sobre las quejas o denuncias recibidas en contra de servidores públicos;
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2016)</small>
+
+XIX.- Constatar el cumplimiento que señala la Ley de Gobierno Municipal del Estado de Nuevo León y la Ley de Fiscalización Superior del Estado de Nuevo León, respecto a la presentación de la cuenta pública y los Informes de Avance de Gestión Financiera ante el Congreso del Estado y en su caso a la Auditoría Superior del Estado;
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2016)</small>
+
+XX.- Coordinar la elaboración y presentación de las respuestas a los resultados de las auditorías practicadas por la Auditoría Superior del Estado o por la Auditoría Superior de la Federación, en apoyo a las dependencias y unidades de la administración pública centralizada; y
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2016)</small>
+
+XXI. Las demás que le asigne el Contralor.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
 
@@ -389,7 +441,9 @@ La Coordinación de Normatividad, Transparencia y Cuenta Pública contará con l
 
 I. Coordinador;
 
-II. (DEROGADA, P.O. 4 DE MARZO DE 2016)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JUNIO DE 2016)</small>
+
+II. Responsable de Normatividad;
 
 III.- Jefes de Unidad;
 
@@ -750,3 +804,11 @@ P.O. 4 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 25 DE FEBRERO DE 2016, SE APRUEBA LA INICIATIVA DE REFORMA DE DIVERSOS REGLAMENTOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
 
 ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 20 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE "SE APRUEBAN LAS REFORMAS, ADICIONES Y DEROGACIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA Y TRANSPARENCIA MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN".]
+
+###### ARTICULO ÚNICO.
+
+El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
