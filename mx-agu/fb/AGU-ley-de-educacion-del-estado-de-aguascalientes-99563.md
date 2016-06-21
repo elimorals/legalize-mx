@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-99563"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-11"
-last_updated: "2016-03-28"
+last_updated: "2016-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 28 DE MARZO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2016.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 11 de marzo de 2014.
 
@@ -195,7 +193,9 @@ g) Establecer programas de contingencia ambiental.
 
 VII. Fomentar la apreciación e impulso a la creación artística;
 
-VIII. Fomentar y estimular la práctica de la educación física y del deporte;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2016)</small>
+
+VIII. Fomentar y estimular la práctica de la educación física y del deporte, por lo que se llevarán a cabo sesiones de actividad física o deporte en cada una de las escuelas de educación básica, en términos de lo dispuesto por el Artículo 47 de la presente Ley;
 
 IX. Fomentar la cultura de la transparencia y la rendición de cuentas, así como el conocimiento en los educandos de su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo;
 
@@ -693,7 +693,7 @@ XVIII. Apoyarán y desarrollarán programas, cursos y actividades que fortalezca
 
 XIX. Establecerán, de forma paulatina y conforme a la suficiencia presupuestal, escuelas de tiempo completo, con jornadas de entre 6 y 8 horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural, dando preferencia a los hijos de madres trabajadoras;
 
-XX Impulsarán esquemas eficientes para el suministro de alimentos nutritivos para alumnos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria;
+XX. Impulsarán esquemas eficientes para el suministro de alimentos nutritivos para alumnos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria;
 
 XXI. Establecer mecanismos propios de inscripción que respondan a las necesidades y aspiraciones específicas de cada comunidad y faciliten la incorporación de los niños y jóvenes al Sistema Educativo;
 
@@ -703,13 +703,23 @@ XXII. Proporcionar materiales educativos, individuales y colectivos, para los al
 
 XXIII. Establecer mecanismos para otorgar facilidades a estudiantes embarazadas para que reciban los cuidados médicos adecuados hasta la conclusión del puerperio, y de ser posible, para que concluyan el ciclo escolar que cursen, o bien, puedan permanecer o reingresar a la institución educativa de que se trate;
 
-> <small>(F. DE E., P.O. 28 DE MARZO DE 2016)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-XXIV. Proporcionar apoyos económicos y asistenciales, tales como desayunos, transportes escolares, y becas para alumnos que pertenezcan a familias de escasos recursos, en coordinación con las diversas dependencias de Gobierno que apoyen tales fines; y
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2016)</small>
 
-> <small>(F. DE E., P.O. 28 DE MARZO DE 2016)</small>
+XXIV. Proporcionar apoyos económicos y asistenciales, tales como desayunos, transportes escolares, y becas para alumnos que pertenezcan a familias de escasos recursos, en coordinación con las diversas dependencias de Gobierno que apoyen tales fines;
 
-XXV. Crear, mantener y apoyar centros culturales y recreativos en las zonas que lo requieran.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2016)</small>
+
+XXV. Crear, mantener y apoyar centros culturales y recreativos en las zonas que lo requieran; y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2016)</small>
+
+XXVI. Otorgar por conducto del Instituto de Educación de Aguascalientes, un apoyo económico mensual equivalente a 15 días de Unidad de Medida y Actualización, a niñas, niños y adolescentes en situación vulnerable que cursen de manera regular un nivel educativo de educación básica o media superior en una institución educativa pública, cuando alguno de los padres, tutores, o quienes ejerzan la patria potestad hayan sufrido algún accidente que ocasione incapacidad o invalidez permanente, o cuando haya acontecido la muerte de uno o de ambos y que derivado de tal situación el estudiante no cuente con los recursos económicos que le permitan continuar con sus estudios. Este apoyo será garantizado al beneficiario durante el tiempo que permanezca estudiando en un nivel de educación básica o media superior hasta su conclusión.
 
 El Gobierno del Estado, en concurrencia con la Federación y los municipios, llevarán a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
 
@@ -833,9 +843,11 @@ VI. Otorgar becas y apoyos para alumnos y maestros destacados en el área deport
 
 Las autoridades educativas, en coordinación con el Instituto del Deporte del Estado de Aguascalientes fomentarán y apoyarán la celebración de eventos deportivos y la participación de representaciones deportivas locales en el país y en el extranjero, sin menoscabo de aquellos que organicen los planteles educativos.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2016)</small>
+
 ###### Artículo 47.
 
-La educación física será obligatoria como asignatura y se impartirá en la educación básica, conforme a los planes y programas expedidos por la autoridad competente, ya que esta materia es una parte fundamental para la educación integral del educando, puesto que le proporciona estimulación cognoscitiva y psicomotriz que coadyuvan a su desarrollo armónico. Sin menoscabo de que se imparta en los demás niveles del sector educativo.
+La educación física será obligatoria como asignatura y se impartirá en la educación básica, la cual se brindará de manera gradual hasta llegar a tres sesiones por semana, sujeto a los planes, programas y presupuesto autorizados por las autoridades competentes, ya que esta materia es una parte fundamental para la educación integral del educando, puesto que le proporciona estimulación cognoscitiva y psicomotriz que coadyuvan a su desarrollo armónico. Lo anterior sin menoscabo de que se imparta en los demás niveles del sector educativo.
 
 ###### Artículo 48.
 
@@ -2384,3 +2396,27 @@ Las reformas y adiciones al Artículo 17 de la Ley de educación del Estado de A
 ###### ARTÍCULO SEGUNDO.
 
 La reforma al Artículo 32 estará a lo dispuesto por la Ley General de Víctimas.
+
+P.O. 21 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 339.- SE REFORMAN LOS ARTÍCULOS 8º Y 47 DE LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 350.- SE REFORMA Y ADICIONA EL ARTÍCULO 29 DE LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTRES (SIC)”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia el 1° de enero del año 2017.
+
+###### ARTÍCULO SEGUNDO.
+
+Como fondo de garantía del apoyo económico a que hace referencia el presente Decreto se proyectará un fondo especial en el Presupuesto de Egresos del Estado para el Ejercicio Fiscal del Año 2017.
+
+###### ARTÍCULO TERCERO.
+
+En un plazo no mayor a los 180 días naturales contados a partir de que inicie su vigencia el presente Decreto, se deberán emitir las reglas de operación conducentes.
