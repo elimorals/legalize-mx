@@ -4,7 +4,7 @@ identifier: "COA-ley-de-igualdad-entre-mujeres-y-hombres-en-el-estado-de-94480"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2016-04-22"
+last_updated: "2016-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -339,19 +339,27 @@ III. Garantizar que la planeación presupuestal incorpore la perspectiva de gén
 
 IV. Fomentar la participación y representación políticas de manera equilibrada entre hombres y mujeres;
 
-V. Implementar acciones para garantizar la igualdad de acceso y disfrute de los derechos sociales para las mujeres y los hombres promoviendo la eliminación de estereotipos en función del sexo;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JUNIO DE 2016)</small>
 
-VI. Promover la igualdad entre mujeres y hombres en la vida civil;
+V. Establecer medidas para erradicar la violencia de género y la violencia familiar; así como, la protección de los derechos sexuales y reproductivos y sus efectos en los ámbitos público y privado;
 
-VII. Asegurar el cumplimiento del principio de igualdad en las relaciones entre particulares, así como establecer medidas que aseguren corresponsabilidad en el trabajo y la vida personal y familiar de las mujeres y los hombres;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JUNIO DE 2016)</small>
 
-VIII. Promover la eliminación de estereotipos establecidos en función del sexo;
+VI. Garantizar la integración del principio de igualdad de trato y de oportunidades en el conjunto de las políticas económica, laboral y social, con el fin de evitar la segregación laboral y eliminar las diferencias remuneratorias, así como potenciar el crecimiento del empresariado femenino y el valor del trabajo de las mujeres, incluido el doméstico.
 
-IX. Establecer la utilización de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales;
+VII. Implementar acciones para garantizar la igualdad de acceso y disfrute de los derechos sociales para las mujeres y los hombres promoviendo la eliminación de estereotipos en función del sexo;
 
-X. En el sistema educativo, la inclusión entre sus fines de la formación en el respeto de los derechos y libertades y de la igualdad entre mujeres y hombres, así como en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia; así como la inclusión dentro de sus principios de calidad, de la eliminación de los obstáculos que dificultan la igualdad efectiva entre hombres y mujeres; y
+VIII. Promover la igualdad entre mujeres y hombres en la vida civil;
 
-XI. Incluir en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud.
+IX. Asegurar el cumplimiento del principio de igualdad en las relaciones entre particulares, así como establecer medidas que aseguren corresponsabilidad en el trabajo y la vida personal y familiar de las mujeres y los hombres;
+
+X. Promover la eliminación de estereotipos establecidos en función del sexo;
+
+XI. Establecer la utilización de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales;
+
+XII. En el sistema educativo, la inclusión entre sus fines de la formación en el respeto de los derechos y libertades y de la igualdad entre mujeres y hombres, así como en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia; así como la inclusión dentro de sus principios de calidad, de la eliminación de los obstáculos que dificultan la igualdad efectiva entre hombres y mujeres; y
+
+XIII. Incluir en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud.
 
 ### Capítulo segundo. De los instrumentos de la política en materia de igualdad entre mujeres y hombres
 
@@ -615,29 +623,33 @@ V. Establecer la coordinación necesaria para garantizar lo establecido en el pr
 
 VI. Implementar campañas que fomenten la contratación de mujeres y promuevan la igualdad en el mercado laboral, en los ámbitos público y privado;
 
-VII. Fomentar la adopción voluntaria de programas de igualdad por parte del sector privado, para ello se generarán diagnósticos de los que se desprendan las carencias y posibles mejoras en torno a la igualdad entre mujeres y hombres;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JUNIO DE 2016)</small>
 
-VIII. Implementar, en coordinación con las autoridades competentes, medidas destinadas a erradicar cualquier tipo de discriminación, violencia o acoso por razón de sexo;
+VII. Vigilar que el Derecho al ascenso, a la estabilidad en el empleo y a todas las prestaciones y otras condiciones de servicio, así como el acceso a la formación profesional y la capacitación no sean vulnerados en razón de sexo o discapacidad, cualquiera que este (sic) sea.
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+VIII. Fomentar la adopción voluntaria de programas de igualdad por parte del sector privado, para ello se generarán diagnósticos de los que se desprendan las carencias y posibles mejoras en torno a la igualdad entre mujeres y hombres;
 
-IX. Promover condiciones de trabajo que eviten el acoso y el (sic) sexual y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-X. Diseñar, en el ámbito de su competencia, políticas y programas de desarrollo y de reducción de la pobreza con perspectiva de género;
+IX. Implementar, en coordinación con las autoridades competentes, medidas destinadas a erradicar cualquier tipo de discriminación, violencia o acoso por razón de sexo;
 
 > <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
 
-XI. Garantizar el derecho a la denuncia por violación a la presente ley en el ámbito laboral y económico;
+X. Promover condiciones de trabajo que eviten el acoso y el (sic) sexual y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación;
 
 > <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
 
-XII. Difundir, previo consentimiento de las personas físicas o morales, los planes que apliquen éstas en materia de igualdad entre mujeres y hombres; y
+XI. Diseñar, en el ámbito de su competencia, políticas y programas de desarrollo y de reducción de la pobreza con perspectiva de género;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+XII. Garantizar el derecho a la denuncia por violación a la presente ley en el ámbito laboral y económico;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+XIII. Difundir, previo consentimiento de las personas físicas o morales, los planes que apliquen éstas en materia de igualdad entre mujeres y hombres; y
 
 > <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2016)</small>
 
-XIII. Establecer estímulos y certificados de igualdad, los cuales se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia. Para la expedición del certificado a empresas se observará lo siguiente:
+XIV. Establecer estímulos y certificados de igualdad, los cuales se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia. Para la expedición del certificado a empresas se observará lo siguiente:
 
 a) La existencia y aplicación de un código de ética que prohíba la discriminación de género y establezca sanciones internas por su incumplimiento.
 
@@ -1060,3 +1072,27 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al siguiente Decreto
+
+P.O. 21 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 455.- SE REFORMA EL ARTÍCULO 20, MODIFICÁNDOSE LAS FRACCIONES V Y VI Y RECORRIÉNDOSE EL TEXTO Y LA NUMERACIÓN DE LAS ACTUALES, DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al siguiente decreto.
+
+P.O. 21 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 456.- SE REFORMA EL ARTÍCULO 41, MODIFICÁNDOSE LA FRACCIÓN VII Y RECORRIÉNDOSE EL TEXTO Y LA NUMERACIÓN DE LAS ACTUALES, DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al siguiente Decreto.
