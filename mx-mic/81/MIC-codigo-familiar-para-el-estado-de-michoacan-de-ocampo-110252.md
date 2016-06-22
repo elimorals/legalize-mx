@@ -4,7 +4,7 @@ identifier: "MIC-codigo-familiar-para-el-estado-de-michoacan-de-ocampo-110252"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-09-30"
-last_updated: "2016-04-25"
+last_updated: "2016-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL PRESENTE CÓDIGO, PUBLICADO EN EL P.O. DE 30 DE SEPTIEMBRE DE 2015, SU VIGENCIA INICIARÁ DE FORMA GRADUAL Y EN LOS TÉRMINOS SEÑALADOS EN EL PROPIO TRANSITORIO VÉASE DICHA PUBLICACIÓN OFICIAL.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2016.
 
 Código publicado en la Décima Cuarta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 30 de septiembre de 2015.
 
@@ -181,6 +181,10 @@ El Registro Civil es una institución de orden público por medio de la cual el 
 
 En Michoacán estará a cargo de los Oficiales del Registro Civil, autorizar los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, sociedad de convivencia, divorcio administrativo y defunción de los mexicanos y extranjeros residentes o de tránsito en el Estado, así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio judicial, la nulidad de matrimonio, disolución de sociedad de convivencia, la tutela o que se ha perdido o limitado la capacidad legal para administrar bienes y las sentencias que ordenen el levantamiento de una nueva acta por la reasignación para la concordancia sexo-genérica.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 22 DE JUNIO DE 2016, PÁGINA 1.]</small>
+
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2016)
+
 ###### Artículo 23.
 
 Los Oficiales del Registro Civil, cuando hayan reunido doscientas actas del estado civil, las encuadernarán en libros por duplicado, de la siguiente manera:
@@ -191,15 +195,21 @@ II. El segundo, de actas de reconocimiento de hijos;
 
 III. El tercero, de actas de adopción;
 
-IV. El cuarto, de actas de matrimonio;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2016)</small>
 
-V. El quinto, de actas de sociedad de convivencia;
+IV. El cuarto, de actas de matrimonio y de sociedad de convivencia;
 
-VI. El sexto, de actas de divorcio;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2016)</small>
 
-VII. El séptimo, de actas de defunción; y,
+V. El quinto, de actas de divorcio;
 
-VIII. El octavo, de la inscripción de las ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio judicial, la nulidad de matrimonio, la disolución de la sociedad de convivencia, la tutela o que se ha perdido o limitado la capacidad legal para administrar bienes.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2016)</small>
+
+VI. El sexto, de actas de defunción; y,
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2016)</small>
+
+VII. El séptimo, de la inscripción de las ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio judicial, la nulidad de matrimonio, la disolución de la sociedad de convivencia, la tutela o que se ha perdido o limitado la capacidad legal para administrar bienes.
 
 ###### Artículo 24.
 
@@ -647,6 +657,8 @@ Se procederá a la inhumación o cremación, dentro de las cuarenta y ocho horas
 
 En el acta de defunción se asentarán los datos previstos en el artículo siguiente y será firmada por dos testigos, prefiriéndose para el caso, a los parientes si los hay.
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2016)
+
 ###### Artículo 101.
 
 En el acta de defunción se asentará:
@@ -655,7 +667,9 @@ I. El nombre, apellido, edad, nacionalidad, estado civil, ocupación y domicilio
 
 II. Si era casado deberá anotarse el nombre y apellidos del cónyuge, aunque este hubiere fallecido;
 
-III. Nombre y apellidos del concubino o concubina en su caso;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2016)</small>
+
+III. Nombre y apellidos del concubinario en su caso;
 
 IV. Los nombres, apellidos, edad, ocupación, nacionalidad y domicilio de los testigos;
 
@@ -825,13 +839,15 @@ El interesado podrá optar entre agotar el recurso de revocación o acudir direc
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2016)</small>
+
 ###### Artículo 127.
 
-El matrimonio es la unión legítima de un hombre y una mujer para procurarse ayuda mutua, guardarse fidelidad, perpetuar la especie y crear entre ellos una comunidad de vida permanente.
+El matrimonio es la unión legítima de dos personas para realizar una comunidad de vida permanente, en la que se procuren respeto, igualdad y ayuda mutua.
 
 ###### Artículo 128.
 
-Se reconoce al matrimonio como el medio idóneo para fundar la familia.
+(DEROGADO, P.O. 22 DE JUNIO DE 2016)
 
 ###### Artículo 129.
 
@@ -851,7 +867,7 @@ El matrimonio celebrado en el extranjero por mexicanos entre sí, o con extranje
 
 ### CAPÍTULO II. REQUISITOS ESENCIALES PARA CONTRAER MATRIMONIO
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2016)</small>
 
 ###### Artículo 133.
 
@@ -859,11 +875,11 @@ Son requisitos esenciales para contraer matrimonio:
 
 I. Celebrarse ante el Oficial del Registro Civil, habiendo satisfecho las formalidades exigidas por este Código;
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2016)</small>
+II. Que ambos contrayentes sean mayores de edad;
 
-II. Que ambos contrayentes sean mayores de edad; y,
+III. Expresar su voluntad de unirse en matrimonio; y,
 
-III. Expresar su voluntad de unirse en matrimonio.
+IV. Que no se encuentre unido en matrimonio u obligado por una sociedad de convivencia.
 
 ###### Artículo 134.
 
@@ -1859,19 +1875,25 @@ En caso de incumplimiento de la sentencia, se seguirán las reglas previstas par
 
 ### CAPÍTULO PRIMERO. SOCIEDAD DE CONVIVENCIA
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2016)</small>
+
 ###### Artículo 295.
 
-La Sociedad de Convivencia es el acto jurídico que se constituye, cuando dos personas físicas del mismo sexo, mayores de edad y con capacidad jurídica plena, establecen un hogar común, con voluntad de permanencia y de ayuda mutua.
+La Sociedad de Convivencia es el acto jurídico que se constituye, cuando dos personas físicas, mayores de edad y con capacidad jurídica plena, establecen un hogar común, con voluntad de permanencia, colaboración, asistencia y ayuda mutua.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2016)</small>
 
 ###### Artículo 296.
 
 No podrán constituir Sociedad de Convivencia, las personas unidas en matrimonio, concubinato y aquéllas que mantengan vigente otra Sociedad de Convivencia.
 
-Tampoco podrán celebrar entre sí Sociedad de Convivencia, los parientes consanguíneos en línea recta sin límite de grado o colaterales hasta el cuarto grado.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2016)</small>
 
 ###### Artículo 297.
 
-La Sociedad de Convivencia obliga a las o los convivientes, en razón de la voluntad de permanencia, ayuda mutua y establecimiento del hogar común; la cual surte efectos frente a terceros cuando la Sociedad es registrada ante el Registro Civil.
+La Sociedad de Convivencia obliga a los convivientes, en razón de la voluntad de permanencia, colaboración, asistencia, ayuda mutua y el establecimiento del hogar común; la cual surte efectos frente a terceros cuando la Sociedad es registrada ante el Registro Civil.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2016)</small>
 
 ###### Artículo 298.
 
@@ -1879,9 +1901,13 @@ Son requisitos esenciales para constituir una Sociedad de Convivencia:
 
 I. Celebrarse ante el Oficial del Registro Civil, habiendo satisfecho las formalidades exigidas por este Código;
 
-II. Que ambos contrayentes sean mayores de edad; y,
+II. Que ambos convivientes sean mayores de edad;
 
-III. Expresar su voluntad de unirse en Sociedad de Convivencia.
+III. Expresar su voluntad de unirse en Sociedad de Convivencia; y,
+
+IV. Establecer por escrito las condiciones bajo las cuales se regirá su patrimonio.
+
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2016)
 
 ###### Artículo 299.
 
@@ -1889,7 +1915,9 @@ El documento por el que se constituye la Sociedad de Convivencia deberá contene
 
 I. El nombre de cada conviviente, su edad, domicilio y estado civil, así como, los nombres y domicilios de dos testigos mayores de edad;
 
-II. La manifestación expresa de las o los convivientes de vivir juntos en el hogar común, con voluntad de permanencia y ayuda mutua;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2016)</small>
+
+II. La manifestación expresa de los convivientes de vivir juntos en el hogar común, con voluntad de permanencia, colaboración, asistencia, ayuda mutua y el establecimiento del hogar en común;
 
 III. Contener la forma en que las o los convivientes regularán la Sociedad de Convivencia y sus relaciones patrimoniales. La falta de éste requisito no será causa para negar el Registro de la Sociedad, por lo que a falta de este, se entenderá que cada conviviente conservará el dominio, uso y disfrute de sus bienes, así como su administración; y,
 
@@ -1899,27 +1927,37 @@ IV. Las firmas de las o los convivientes y de las o los testigos.
 
 La Sociedad de Convivencia deberá celebrarse ante el Oficial del Registro Civil, con las formalidades que este Código exige.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2016)</small>
+
 ###### Artículo 301.
 
-Para los efectos de los demás ordenamientos jurídicos, la Sociedad de Convivencia se regirá, en lo que fuere aplicable, en los términos del matrimonio y las relaciones jurídicas que se derivan de este último, se producirán entre los convivientes.
+Para los efectos de los demás ordenamientos jurídicos, la Sociedad de Convivencia se regirá, en lo que fuere aplicable y las relaciones jurídicas que se derivan de este último, se producirán entre los convivientes.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2016)</small>
 
 ###### Artículo 302.
 
-Entre los convivientes se generarán derechos sucesorios, los cuales estarán vigentes a partir del registro de la Sociedad de Convivencia, aplicándose al efecto lo relativo a la sucesión legítima entre cónyuges.
+Entre los convivientes se generarán derechos sucesorios, los cuales estarán vigentes a partir del registro de la Sociedad de Convivencia.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2016)</small>
 
 ###### Artículo 303.
 
-Las relaciones patrimoniales que surjan entre las o los convivientes, se regirán en los términos que para el acto señalen las leyes correspondientes.
+Las relaciones patrimoniales que surjan entre los convivientes, se regirán conforme a lo convenido entre las partes.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2016)</small>
 
 ###### Artículo 304.
 
 La Sociedad de Convivencia termina:
 
-I. Por la voluntad de ambos o de cualquiera de las o los convivientes.;
+I. Por la voluntad de ambos o de cualquiera de los convivientes, el trámite deberá realizarse ante el Oficial del Registro Civil;
 
-II. Por el abandono del hogar común de uno de las o los convivientes por más de tres meses, sin que haya causa justificada; y,
+II. Por el cambio de régimen conyugal de cualquiera de sus integrantes;
 
-III. Por la defunción de alguno de las o los convivientes.
+III. Por el abandono del hogar común de uno de los convivientes por más de tres meses, sin que haya causa justificada, deberá de realizarse el procedimiento jurisdiccional correspondiente; y,
+
+IV. Por la defunción de alguno de los convivientes, el tramité deberá realizarse ante el Oficial del Registro Civil.
 
 (NOTA: EL 18 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO SEGUNDO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 107/2015 Y SU ACUMULADA 114/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -1935,13 +1973,19 @@ Dicho término no aplicará en el caso de que medien situaciones que pongan en r
 
 ### CAPÍTULO SEGUNDO. CONCUBINATO
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2016)</small>
+
 ###### Artículo 307.
 
-Concubinato es la unión de un hombre y una mujer, siempre que sin impedimentos legales para contraer matrimonio, hayan vivido en común, en forma constante y permanente por un período mínimo de dos años que precedan inmediatamente a la generación de los derechos y obligaciones a los que alude este capítulo.
+Concubinato es la unión de dos personas, siempre que sin impedimentos legales para contraer matrimonio, el cual se genera cuando:
+
+I. Hayan vivido en común, en forma constante y permanente por un periodo mínimo de dos años; o,
+
+II. Hayan concebido un hijo en común.
 
 ###### Artículo 308.
 
-No es necesario el transcurso del período mencionado cuando, reunidos los demás requisitos, hayan concebido un hijo en común.
+(DEROGADO, P.O. 22 DE JUNIO DE 2016)
 
 ###### Artículo 309.
 
@@ -7412,5 +7456,11 @@ P.O. 8 DE ABRIL DE 2016.
 P.O. 25 DE ABRIL DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO 141 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 78, 84, 133, 141, 142, 182, 416, 421, 461, Y 612; Y SE DEROGAN LOS ARTÍCULOS 17, 76, 134, 135, 137, 156, 212 Y 259 TODOS DEL CÓDIGO FAMILIAR DEL ESTADO DE MICHOACÁN".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 22 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 150 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 23, 101, 127, 133, 295, 296, 297, 298, 299, 301, 302, 303, 304 Y 307; Y SE DEROGAN LOS ARTÍCULOS 128 Y 308, TODOS DEL CÓDIGO FAMILIAR DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
