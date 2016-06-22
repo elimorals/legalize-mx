@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2016-05-26"
+last_updated: "2016-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE JUNIO DE 2016.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -87,6 +87,10 @@ CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
 El Estado planeará, conducirá, coordinará y orientará la actividad económica estatal, y llevará a cabo la regulación y fomento de las actividades que demande el interés general en el marco de libertades que otorga esta Constitución y la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(ADICIONADO, B.O. 22 DE JUNIO DE 2016)</small>
+
+El Estado promoverá las condiciones para el desarrollo rural sustentable integral, con el propósito de generar empleo y garantizar a la población campesina el bienestar y su participación e incorporación en el desarrollo estatal y municipal, y fomentará la actividad agropecuaria y forestal para el óptimo uso de la tierra, con obras de infraestructura, insumos, créditos, servicios de capacitación, asistencia técnica y todas las acciones necesarias para el logro de este objeto. Asimismo expedirá la legislación reglamentaria para planear y organizar la producción agropecuaria, su industrialización y comercialización, así como la coordinación interinstitucional considerándolas de interés público.
+
 Al desarrollo económico concurrirán con responsabilidad social, el sector público, el sector social y el sector privado, sin menoscabo de otras formas de actividad económica que contribuyan al desarrollo de la entidad.
 
 Bajo criterios de equidad social y productividad se apoyará e impulsará a las empresas de los sectores social y privado de la economía estatal, sujetándolos a las modalidades que dicte el interés público y al uso en beneficio general, de los recursos productivos, cuidando su conservación y el medio ambiente.
@@ -95,7 +99,21 @@ La Ley alentará y protegerá la actividad económica que realicen los sectores 
 
 El Estado organizará y operará con eficiencia y eficacia un sistema de planeación democrática del desarrollo estatal que imprima solidez, dinamismo, competitividad, permanencia y equidad al crecimiento de la economía para la independencia y la democratización política, social y cultural de la entidad.
 
-La Ley facultará al Ejecutivo para que establezca y opere con participación social el sistema estatal de planeación democrática, y los criterios para la formulación, instrumentación, seguimiento y evaluación del Plan y los Programas de Desarrollo en el Estado.
+> <small>(REFORMADO, B.O. 22 DE JUNIO DE 2016)</small>
+
+La Ley facultará al Ejecutivo para que establezca y opere con participación social el sistema estatal de planeación democrática. Los fines del proyecto estatal contenidos en esta Constitución determinarán los objetivos de la planeación. La planeación será democrática y deliberativa. Mediante los mecanismos de participación que establezca la ley, recogerá las aspiraciones y demandas de la sociedad para incorporarlas al Plan y los Programas de Desarrollo. Habrá un Plan Estatal de Desarrollo al que se sujetarán obligatoriamente los programas de la Administración Pública Estatal.
+
+> <small>(ADICIONADO, B.O. 22 DE JUNIO DE 2016)</small>
+
+La política pública de mejora regulatoria del Estado es obligatoria en términos de la ley de la materia para todas las autoridades públicas estatales y municipales en sus respectivos ámbitos de competencia.
+
+> <small>(ADICIONADO, B.O. 22 DE JUNIO DE 2016)</small>
+
+La Ley regulará el sistema Estatal de Mejora regulatoria que garantice beneficios superiores a sus costos y el máximo bienestar para la sociedad, así como los instrumentos necesarios para que las normas de carácter general que emita cualquier autoridad, entidad, órgano u organismo gubernamental, así como órganos del ámbito estatal y municipal se sujetará a dichos principios.
+
+> <small>(ADICIONADO, B.O. 22 DE JUNIO DE 2016)</small>
+
+La Ley establecerá la creación de un catálogo estatal que incluya todos los trámites y servicios estatales y municipales con el objetivo de generar seguridad jurídica y facilitar su cumplimiento mediante el uso de las tecnologías de la información. La inscripción en el catálogo y su actualización será obligatoria en los términos que establezca la ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 10 DE NOVIEMBRE DE 2012)</small>
 
@@ -3632,3 +3650,15 @@ B.O. 26 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 2351 SE REFORMA Y ADICIONA EL NUMERAL 13 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, APARTADO B, FRACCIÓN VIII, PÁRRAFO CUARTO Y PÁRRAFO DÉCIMO SÉPTIMO EN SU FRACCIÓN III, RECORRIÉNDOSE LAS SUBSECUENTES”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 22 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2355.- SE REFORMA EL PÁRRAFO SÉPTIMO Y SE ADICIONAN: UN PÁRRAFO TERCERO, RECORRIÉNDOSE LOS SUBSECUENTES; Y LOS PÁRRAFOS NOVENO, DÉCIMO Y DÉCIMO PRIMERO AL NUMERAL 6, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- La Ley de Mejora Regulatoria para el Estado de Baja California Sur y sus municipios deberá ser expedida en un plazo de 30 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+TERCERO.- La Ley de Desarrollo Rural Sustentable para el Estado de Baja California Sur y sus municipios deberá ser expedida en un plazo de 30 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
