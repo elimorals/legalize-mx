@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-prevenir-y-atender-la-obesidad-y-los-trastornos-63824"
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-23"
-last_updated: "2014-10-08"
+last_updated: "2016-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63824&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-09-18"
 
 LEY PARA LA PREVENCIÓN Y EL TRATAMIENTO DE LA OBESIDAD Y LOS TRASTORNOS ALIMENTICIOS EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 22 DE JUNIO DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 23 de octubre de 2008.
 
@@ -188,9 +188,9 @@ El representante de la Asamblea Legislativa del Distrito Federal será uno de su
 
 El Consejo tendrá las siguientes funciones:
 
-> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 22 DE JUNIO DE 2016)</small>
 
-I. Diseñar y evaluar políticas de prevención y atención integral relacionadas con el sobrepeso, la obesidad y los trastornos de la conducta alimentaria, así como en materia del fomento y adopción social de hábitos de alimentación y nutricionales correctos.
+I. Diseñar, evaluar, establecer actividades de prevención, atención integral, detección temprana y orientación especializada relacionadas con el sobrepeso, la obesidad y los trastornos alimenticios, así como en materia del fomento y adopción social de hábitos alimenticios y nutricionales correctos.
 
 > <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
 
@@ -256,13 +256,11 @@ Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que integra
 
 Los órganos de gobierno y autónomos harán lo conducente, de acuerdo a los lineamientos del ejercicio presupuestal que determinen.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, G.O. 3 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE JUNIO DE 2016)</small>
 
 ###### Artículo 15.
 
-Corresponde a la Secretaría de Salud del Distrito Federal, además de lo que señala la presente Ley:
+Corresponde a la Secretaria de Salud del Distrito Federal, además de lo que señala la presente Ley:
 
 > <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2014)</small>
 
@@ -276,9 +274,9 @@ II. Aplicar un programa masivo para incentivar una alimentación saludable entre
 
 III. Diseñar e instrumentar acciones para la prevención, diagnóstico temprano y atención de las personas que presenten algún trastorno de la conducta alimentaria, con énfasis en la anorexia y la bulimia nerviosas;
 
-> <small>(ADICIONADA, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 22 DE JUNIO DE 2016)</small>
 
-IV. Implementar campañas de información dirigidas especialmente a adolescentes y jóvenes, sobre los efectos adversos de los trastornos de la conducta alimentaria en la salud y que los planes de alimentación sean prescritos por profesionales en nutrición, así como para la disminución de otros factores de riesgo;
+IV. Implementar y desarrollar campañas de información dirigidas a la población en general, sobre los efectos adversos de los trastornos de la conducta alimentaria en la salud y los riesgos de las dietas hipocalóricas, y que los planes de alimentación sean prescritos por profesionales en nutrición, así como para la disminución de otros factores de riesgo;
 
 > <small>(ADICIONADA, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
 
@@ -354,11 +352,11 @@ Asimismo, promoverá y propondrá ante las autoridades correspondientes, la adop
 
 La Secretaría de Cultura del Distrito Federal fomentará actividades artísticas, culturales y recreativas de acceso libre y gratuito en museos, teatros y demás espacios culturales a su cargo, dirigidas especialmente a la población infantil y adolescente, para contrarrestar el sedentarismo como causa de sobrepeso, obesidad y trastornos de la conducta alimentaria.
 
-> <small>(REFORMADO, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE JUNIO DE 2016)</small>
 
 ###### Artículo 20.
 
-Las Delegaciones, en el ámbito de sus competencias, desarrollarán acciones de difusión, instrumentarán acciones de acceso libre y gratuito en instalaciones deportivas, recreativas y culturales a su cargo, además fomentarán actividades dirigidas a prevenir y atender el sobrepeso, la obesidad y los trastornos de la conducta alimentaria, de manera especial en la población infantil y adolescente.
+El Instituto del Deporte en conjunto con las Delegaciones, en el ámbito de sus competencias, establecerá un programa de acondicionamiento y desarrollarán acciones de difusión, instrumentarán acciones de acceso libre y gratuito en instalaciones deportivas, recreativas y culturales a su cargo, además fomentaran actividades dirigidas a prevenir y atender el sobrepeso, la obesidad y los trastornos de la conducta alimentaria, de manera especial en la población infantil y adolescente.
 
 > <small>(ADICIONADO, G.O. 8 DE OCTUBRE DE 2014)</small>
 
@@ -396,7 +394,7 @@ Recinto de la Asamblea Legislativa del Distrito Federal, a los veintiocho días 
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los dieciocho días del mes de septiembre del año dos mil ocho.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, AXEL DIDRIKSSON TAKAYANAGUI.- FIRMA.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 G.O. 3 DE MAYO DE 2010.
 
@@ -419,3 +417,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Jefe de Gobierno del Distrito Federal deberá hacer las adecuaciones necesarias a la normatividad reglamentaria aplicable dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto.
 
 TERCERO.- Las disposiciones contenidas en el presente Decreto que tengan un impacto presupuestal estarán sujetas a la suficiencia que al efecto se determine en el presupuesto de egresos correspondiente a cada uno de los ejercicios fiscales aprobados por la Asamblea Legislativa del Distrito Federal.
+
+G.O. 22 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PREVENCIÓN Y EL TRATAMIENTO DE LA OBESIDAD Y LOS TRASTORNOS ALIMENTICIOS EN EL DISTRITO FEDERAL”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente al de su publicación.
