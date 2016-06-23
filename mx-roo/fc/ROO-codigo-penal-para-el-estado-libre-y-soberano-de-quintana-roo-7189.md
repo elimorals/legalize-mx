@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2016-02-29"
+last_updated: "2016-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -41,27 +41,49 @@ DECRETA:
 
 ## TITULO PRELIMINAR. DE LAS GARANTIAS PENALES
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 1°.
 
-Nadie podrá ser sancionado por una acción u omisión, si no están expresamente previstas como delito por la Ley Penal vigente al tiempo en que se cometieron, o si la pena o medida de seguridad no se encuentran establecidas en ella.
+A nadie se le impondrá pena, medida de seguridad, ni cualquier otra consecuencia jurídica del delito, sino por la realización de una acción u omisión expresamente prevista como delito en una ley vigente al tiempo de su realización, siempre que concurran los presupuestos señalados en la ley y la pena, la medida de seguridad o cualquier otra consecuencia jurídica, (sic) se encuentre previamente establecida en la ley.
 
-Queda prohibida la aplicación analógica en perjuicio de persona alguna y consecuentemente, nadie podrá ser sancionado por acción u omisión que no corresponda a las descritas por la Ley Penal.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 2°.
 
-Nadie podrá ser sancionado por una acción u omisión descritas en la Ley como delito, si no han sido cometidas con dolo, culpa o preterintención; por lo que queda proscrita toda forma de responsabilidad objetiva.
+No se impondrá pena o medida de seguridad, ni cualquiera otra consecuencia jurídica del delito, si no se acredita la existencia de los elementos del tipo penal, del delito de que se trate.
+
+La ley penal sólo tendrá efecto retroactivo si favorece a la persona imputada.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 3°.
 
-No podrá aplicarse medida de seguridad alguna, sino por la comisión de un hecho previsto como delito y siempre que de éste y de las circunstancias personales del sujeto pueda derivarse la necesidad racional de su aplicación.
+Queda prohibida toda forma de responsabilidad objetiva, por lo que a ninguna persona se le podrá imponer pena, medida de seguridad, o consecuencia jurídica del delito, si no ha realizado la conducta dolosa o culposamente.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 4°.
 
-No podrá imponerse pena ni medida de seguridad alguna, sino por la resolución de autoridad judicial competente. Tampoco alguien podrá ser juzgado por leyes privativas ni por tribunales especiales.
+No se impondrá pena alguna, ni declararse penalmente responsable a una persona, si la acción u omisión no han sido realizadas culpablemente. La medida de la pena estará en relación directa con el grado de culpabilidad de la persona respecto del hecho cometido, así como de la gravedad de éste. En ningún caso podrá imponerse pena alguna que sea mayor al grado de culpabilidad.
+
+Igualmente se requerirá la acreditación de la culpabilidad de la persona para la aplicación de una medida de seguridad, si ésta se impone accesoriamente a la pena y su duración estará en relación directa con el grado de culpabilidad. Para la imposición de cualquiera de las restantes consecuencias jurídicas será necesaria la existencia, al menos, de un acto típico y antijurídico, siempre que de acuerdo con las circunstancias personales del sujeto activo, hubiera merecimiento, necesidad racional e idoneidad de su aplicación en atención a los fines de prevención especial del delito y de reinserción social que con aquéllas pudieran alcanzarse.
+
+Todo imputado será tenido como inocente mientras no se pruebe que cometió el delito que se le imputa y que él lo realizó.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 5°.
 
-Las penas y medidas de seguridad se entienden impuestas en los términos y con las modalidades previstas en este Código y ejecutadas por las autoridades competentes conforme a lo dispuesto por la Ley de Ejecución correspondiente, ajustándose a la resolución judicial respectiva.
+Sólo se impondrá una consecuencia jurídica del delito por resolución de tribunal competente y mediante un procedimiento seguido ante los tribunales previamente establecidos, por lo que ninguna persona podrá ser juzgada por leyes privativas ni por tribunales especiales.
+
+La consecuencia jurídica que resulte de la comisión de un delito no trascenderá de la persona y bienes del sujeto activo.
+
+Quienes intervengan en un acto delictivo responderán cada uno en la medida de su propia culpabilidad.
+
+No podrá restringirse ninguna garantía o derecho de la persona imputada, ni imponerse consecuencia jurídica alguna del delito, con base en la peligrosidad del agente.
+
+Toda determinación deberá fundamentarse en el acto cometido y en el grado de lesión o puesta en peligro al que haya sido expuesto el bien jurídico tutelado.
 
 ## TITULO PRIMERO. LA LEY PENAL
 
@@ -95,13 +117,13 @@ La Ley dictada para regir por tiempo determinado o en una situación excepcional
 
 ### CAPITULO III. APLICACION DE LA LEY EN RELACION DE LAS PERSONAS
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 9°.
 
-Las disposiciones de este Código se aplicarán por igual a todas las personas, sin perjuicio de las previsiones contenidas en la constitución y otras Leyes del Estado.
+Las disposiciones de este Código se aplicarán por igual a todas las personas.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
-
-Las personas menores de dieciocho años que incurran en las conductas previstas por este Código no serán sujetos de sus consecuencias jurídicas.
+Las personas físicas menores de dieciocho años de edad involucradas en la comisión de un hecho típico, responderán conforme a la legislación aplicable.
 
 ### CAPITULO IV. CONCURSO APARENTE DE NORMAS
 
@@ -119,11 +141,29 @@ Las disposiciones generales de este Código se aplicarán por los delitos conten
 
 ### CAPITULO I. CALIFICACION Y FORMAS
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 12.
 
-El delito puede realizarse por acción o por omisión.
+Únicamente será constitutiva de delito la acción u omisión que lesione o ponga en peligro al bien jurídico tutelado por la ley penal.
 
-Será atribuido el resultado típico producido a quien teniendo el deber jurídico de actuar para evitarlo no lo impida.
+En los delitos de resultado material será atribuible el resultado típico producido a quien omita impedirlo, si éste tenía el deber jurídico de evitarlo, si:
+
+I. Es garante del bien jurídico;
+
+II. De acuerdo con las circunstancias podía evitarlo; y
+
+III. Su inactividad es, en su eficacia, equivalente a la actividad prohibida en el tipo.
+
+Es garante del bien jurídico el que:
+
+a) Aceptó efectivamente su custodia;
+
+b) Voluntariamente formaba parte de una comunidad que afronta peligros de la naturaleza;
+
+c) Con una actividad precedente, culposa o fortuita, generó el peligro para el bien jurídico, o
+
+d) se halla en una efectiva y concreta posición de custodia de la vida, la salud o integridad corporal de algún miembro de su familia o de su pupilo.
 
 ###### ARTICULO 13.
 
@@ -131,21 +171,27 @@ Para los efectos de este Código el delito es:
 
 I.- Instantáneo, cuando la consumación se agota en el mismo momento en que se han realizado todos los elementos de la descripción legal;
 
-II.- Permanente o continuo, cuando la consumación se prolonga por un tiempo más o menos largo, y
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
 
-III.- Continuando (sic), cuando con unidad de propósito delictivo y pluralidad de conductas se viola el mismo precepto legal, tratándose de bienes disponibles.
+II.- Permanente, cuando se viola el mismo precepto legal, y la consumación se prolonga en el tiempo.
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
+
+III.- Continuado, cuando con unidad de propósito delictivo, pluralidad de conductas e identidad de sujeto pasivo, se concretan los elementos de un mismo tipo penal.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 14.
 
-El delito puede ser realizado dolosa, culposa o preterintencionalmente.
+El delito puede ser realizado dolosa o culposamente.
 
 Obra dolosamente el que conociendo las circunstancias objetivas del hecho típico, quiere o acepta el resultado prohibido por la Ley.
 
-Obra culposamente el que realiza el hecho, típico que no previó siendo previsible o previó confiando en poder evitarlo, infringiendo un deber de ciudadano que podría y debía observar según las circunstancias y condiciones personales.
-
-Obra preterintencionalmente el que causa un resultado típico más grave al querido o aceptado, si aquél se produce culposamente.
+Obra culposamente el que realiza el hecho típico, que no previó siendo previsible o previó confiando en poder evitarlo, infringiendo un deber de cuidado que podría y debía observar según las circunstancias y condiciones personales.
 
 ### CAPITULO II. TENTATIVA
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 15.
 
@@ -153,29 +199,37 @@ Además del delito consumado, también es punible la tentativa del mismo.
 
 Existe tentativa punible cuando la resolución de cometer un delito se exterioriza ejecutando u omitiendo, en parte o totalmente, los actos que deberían producir o evitar el resultado, si aquellos se interrumpen o el resultado no acontece por causas ajenas a la voluntad del agente.
 
-Existe delito imposible, cuando los medios empleados no sean idóneos para producir el resultado o por inexistencia del bien jurídico u objeto material.
+A falta de la puesta en peligro del bien jurídico, no será punible la tentativa inidónea.
 
-Si el sujeto desistiere espontáneamente de la ejecución o impidiere la consumación del delito no se impondrá pena o medida de seguridad alguna, a no ser que los actos ejecutados u omitidos constituyan por sí mismos delitos.
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2016)</small>
+
+ARTICULO 15 BIS.- Si el sujeto se desiste voluntariamente o de propio impulso de la ejecución o impide la consumación del delito, no se impondrá pena o medida de seguridad alguna por lo que a éste se refiere, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por sí mismos delitos.
+
+El desistimiento del al (sic) autor no beneficia a los partícipes. Para que sea válido el desistimiento de los partícipes o coautores, se requerirá que hayan neutralizado el sentido de su aportación al hecho.
 
 ### CAPITULO III. AUTORIA Y PARTICIPACION
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 16.
 
-Son responsables del delito cometido:
+Las personas pueden intervenir en la realización de un delito, conforme a las siguientes formas de autoría y participación:
 
-I.- Los que lo realicen por sí;
+I.- Quien lo realice por si;
 
-II.- Los que lo realicen conjuntamente con otro;
+II.- Quien lo realice conjuntamente con otro u otros autores;
 
-III.- Los que lo lleven a cabo sirviéndose de otro;
+III.- Quien lo lleve a cabo sirviéndose de otro como instrumento;
 
-IV.- Los que inciten dolosamente a otro a cometerlo;
+IV.- Quien determine dolosamente al autor a cometerlo;
 
-V.- Los que dolosamente presten ayuda o auxilio a otro para su comisión;
+V.- Quien dolosamente preste ayuda o auxilio al autor para su comisión, y
 
-VI.- Los que con posterioridad a su ejecución, auxilien al autor en cumplimiento de una promesa anterior al delito; y
+VI.- Quien con posterioridad a su ejecución, auxilie al autor por acuerdo anterior al delito.
 
-VII.- Los que intervengan con otro en su comisión, aunque no conste quién de ellos produjo el resultado.
+Quienes únicamente intervengan en la planeación o preparación del delito, así como quienes determinen a otro o le presten ayuda o auxilio, sólo responderán si el hecho antijurídico del autor alcanza al menos el grado de tentativa del delito que se quiso cometer.
+
+La inducción y la complicidad solamente serán admisibles en los delitos dolosos.
 
 ###### ARTICULO 17.
 
@@ -193,6 +247,8 @@ Cuando un miembro o representante de una persona jurídica colectiva, con excepc
 
 ### CAPITULO V. CAUSAS EXCLUYENTES DE INCRIMINACION
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 19.
 
 Existe concurso ideal cuando con una sola conducta se cometen varios delitos.
@@ -203,45 +259,51 @@ Existe concurso real cuando con la pluralidad de conductas se cometen varios del
 
 ###### ARTICULO 20.
 
-No hay delito cuando:
+El delito se excluye cuando se actualice alguna causa de atipicidad, de justificación o de inculpabilidad.
 
-I.- La actividad o inactividad del agente sean involuntarias;
+A. Son causas de atipicidad:
 
-II.- Falte alguno de los elementos objetivos de la descripción legal;
+I. Cuando la actividad o la inactividad se realice sin intervención de la voluntad del sujeto activo;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+II. Cuando falte alguno de los elementos que integran la descripción legal del delito de que se trate;
 
-III.- Se repela una agresión real actual o inminente, sin derecho en protección de bienes jurídicos propios o ajenos, siempre que exista necesidad racional de la defensa empleada y no medie provocación suficiente o inmediata por parte del agredido o de la persona a quien se defiende; se presumirá como legítima defensa, salvo prueba en contrario, el hecho de causar un daño a quien, a través de la violencia o de cualquier medio trate de penetrar sin derecho al hogar del agente, al de su familia, a sus dependencias o a los de cualquier otra persona que tenga la obligación de defender, o al sitio donde se encuentren bienes propios o ajenos respecto de los que exista la misma obligación; o bien lo encuentre en alguno de aquellos lugares en circunstancias tales que revelen la probabilidad de una agresión.
+III. Cuando se actúe con el consentimiento del titular del bien jurídico afectado o del legitimado legalmente para otorgarlo, siempre y cuando se cumplan los siguientes requisitos:
 
-En el ejercicio de la legítima defensa en los casos de violencia familiar, el juez tomará en consideración el ejercicio sistemático de la violencia, la posible indefensión en que se encontraba el pasivo y la desigualdad existente;
+a. Que se trate de un bien jurídico disponible;
 
-IV.- Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real actual o inminente, no ocasionado dolosamente por el agente, lesionando otro bien de menor o igual valor que el salvaguardado, siempre que la conducta sea proporcional al peligro y no se tuviera el deber jurídico de afrontar;
+b. Que el titular del bien jurídico, o quien esté legitimado para consentir, tenga la capacidad jurídica para disponer libremente del bien, y
 
-V.- Se obre en virtud de obediencia jerárquica legítima; aún cuando el mandato constituya un delito si esta circunstancia no es notoria ni se pruebe que el agente la conocía.
+c. Que el consentimiento sea expreso o tácito y no medie algún vicio del consentimiento.
 
-VI.- Se obre en forma legítima en cumplimiento de un deber jurídico o en ejercicio de un derecho, siempre que exista necesidad racional del medio empleado para cumplir el deber o ejercer el derecho y no se haga con el solo propósito de perjudicar a otro;
+IV. Cuando se realice la acción o la omisión bajo un error invencible, respecto de alguno de los elementos que integran la descripción legal del delito de que se trate.
 
-VII.- Se actúe con el consentimiento del titular del derecho en los casos en que éste sea disponible de acuerdo con la Ley;
+B. Son Causas de justificación:
 
-VIII.- Se contravenga lo dispuesto en una Ley Penal por impedimento legítima (sic) o insuperable;
+I. El consentimiento presunto. Se presume que hay consentimiento, cuando el hecho se realiza en circunstancias tales que permitan suponer fundadamente que, de haberse consultado al titular del bien o a quien esté legitimado para consentir, éstos hubiesen otorgado el consentimiento;
 
-IX.- Al momento de realizar el hecho típico, el agente padezca enajenación mental, trastorno mental transitorio, desarrollo intelectual retardado, o cualquier otro estado mental, que le impida comprender el carácter ilícito de aquél o conducirse de acuerdo con esa comprensión, excepto en los casos en que el propio agente haya provocado esa incapacidad para cometer el delito.
+II. Legítima defensa: Se repela una agresión real, actual o inminente y sin derecho, en defensa de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa empleada y no medie provocación dolosa suficiente e inmediata por parte del agredido o de su defensor.
 
-Tratándose de enajenación mental y de desarrollo intelectual retardado, se estará siempre a lo dispuesto por el Artículo 47 de este Código. En el caso de trastorno mental transitorio o de cualquier otro estado mental, sólo se estará a lo dispuesto por el Artículo 47 mencionado si el sujeto requiere tratamiento; en caso contrario se le pondrá en absoluta libertad;
+Se presumirá que concurren los requisitos de la legítima defensa, respecto de aquél que cause un daño, a quien a través de la violencia, del escalamiento o por cualquier otro medio trate de penetrar sin derecho, a su hogar o sus dependencias, a los de su familia o los de cualquier persona que tenga el mismo deber de defender o al sitio donde se encuentren bienes jurídicos propios o ajenos de los que tenga la misma obligación; o bien, cuando lo encuentre en alguno de esos lugares, en circunstancias tales que revelen la posibilidad de una agresión;
 
-X.- Se realice el hecho bajo un error invencible respecto a alguno de los elementos esenciales que integran la descripción legal, o, por error igualmente invencible, estime el sujeto activo que su conducta está amparada por una causa de licitud, o cuando el hecho se realice por error invencible sobre la existencia de la Ley o del alcance de ésta.
+III. El estado de necesidad justificante: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de menor valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
 
-Si el error es vencible, se estará a lo dispuesto por el Artículo 56 de este Código;
+IV. El cumplimiento de un deber o ejercicio de un derecho: La acción o la omisión se realicen en cumplimiento de un deber jurídico o en ejercicio de un derecho, siempre que exista necesidad racional de la conducta empleada para cumplirlo o ejercerlo.
 
-XI.- Atentas las circunstancias que concurren en la realización de una conducta antijurídica, no sea racionalmente posible exigir al agente una conducta diversa a la que realizó, en virtud de no haberse podido determinar conforme a derecho, o;
+C. Son causas de inculpabilidad:
 
-XII.- Se produzca un resultado típico por caso fortuito.
+I. Cuando se realice la acción o la omisión bajo un error invencible, respecto de la ilicitud de la conducta, ya sea porque el sujeto desconozca la existencia de la ley o el alcance de la misma o porque crea que está justificada su conducta;
 
-Las causas que excluyen el delito se investigarán y harán valer, en cualquier estado del procedimiento de oficio o a petición de la parte interesada.
+II. Cuando se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
+
+III. Cuando al momento de realizar el hecho típico, el agente no tenga la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión, en virtud de padecer trastorno mental o desarrollo intelectual retardado, a no ser que el sujeto hubiese provocado su trastorno mental para en ese estado cometer el hecho, en cuyo caso responderá por el resultado típico producido en tal situación. Las acciones libres en su causa culposamente cometidas se resolverán conforme a las reglas generales de los delitos culposos.
+
+Cuando la capacidad a que se refiere el párrafo anterior se encuentre considerablemente disminuida, se estará a lo dispuesto en este código.
+
+IV. Cuando en atención a las circunstancias que concurren en la realización de una conducta ilícita, no sea racionalmente exigible al sujeto una conducta diversa a la que realizó, en virtud de no haberse podido conducir conforme a derecho.
 
 ### CAPITULO II. PRISION
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
 ## TITULO TERCERO. PENAS Y MEDIDAS DE SEGURIDAD
 
@@ -293,7 +355,7 @@ XVI.- Las demás que prevenga la Ley.
 
 ###### ARTICULO 22.
 
-La prisión consiste en la privación de la libertad y su duración será de seis meses a cincuenta años o pena vitalicia. Sólo en los casos en que la Ley expresamente lo autorice, se podrá imponer prisión vitalicia.
+La prisión consiste en la privación de la libertad personal y su duración será de seis meses a cincuenta años.
 
 ### CAPITULO V. VIGILANCIA DE LA AUTORIDAD
 
@@ -483,6 +545,8 @@ Si el delito por el que se impone la publicación de sentencia fue cometido a tr
 
 ### CAPITULO XIII. TRATAMIENTO E INTERNAMIENTO O EN LIBERTAD DE IMPUTABLES (SIC) O DE SUJETOS CON IMPUTABILIDAD DISMINUIDA
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 43.
 
 El Juez tornando en cuenta las circunstancias del delito y las propias del delincuente, podrá disponer que éste no vaya a una circunscripción territorial determinada o que no resida en ella. Esta prohibición no excederá de cinco años, salvo cuando se trate de sentenciados por homicidio doloso, lesiones calificadas, violencia familiar y violación, en cuyo caso el juez podrá ampliar la prohibición hasta diez años, a partir de la fecha en que se extinga la sanción principal privativa de libertad.
@@ -519,15 +583,19 @@ Este tratamiento bajo ninguna circunstancia será aplicable a los sentenciados p
 
 ###### ARTICULO 47.
 
-En el caso de los inimputables a que se refiere la Fracción IX del Artículo 20 de este Código, que requieran tratamiento, el juzgador dispondrá el que le sea aplicable, en internamiento o en libertad, previo el procedimiento respectivo. Si se trata de internamiento, el sujeto inimputable será internado en la institución correspondiente para su tratamiento, durante el tiempo necesario para su curación.
+En el caso de los inimputables a que se refiere la Fracción III del apartado C del artículo 20 de este Código, que requieran tratamiento, el juzgador dispondrá el que le sea aplicable, en internamiento o en libertad, previo el procedimiento respectivo. Si se trata de internamiento, el sujeto inimputable será internado en la institución correspondiente para su tratamiento, durante el tiempo necesario para su curación.
 
 Si la inimputabilidad proviene exclusivamente de trastorno mental transitorio, no habrá lugar a imposición de medida de tratamiento alguno, a no ser que el sujeto aún manifieste perturbaciones mentales, sin perjuicio de la responsabilidad de reparar los daños y perjuicios a que hubiere lugar.
 
-Las personas inimputables a que se refiere el primer párrafo de este artículo, podrán ser entregadas por la autoridad judicial o ejecutora, en su caso, a quienes legalmente corresponda hacerse cargo de ellas, siempre que se obliguen a tomar todas las medidas adecuadas para su tratamiento y vigilancia, garantizando por cualquier medio y a satisfacción de las mencionadas autoridades, el cumplimiento de las obligaciones contraídas.
+Las personas inimputables a que se refiere el primer párrafo de este artículo, podrán ser entregadas por la autoridad judicial, a quienes legalmente corresponda hacerse cargo de ellas, siempre que se obliguen a tomar todas las medidas adecuadas para su tratamiento y vigilancia, garantizando por cualquier medio y a satisfacción de las mencionadas autoridades, el cumplimiento de las obligaciones contraídas.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 48.
 
-Si la capacidad del agente de comprender el carácter ilícito del hecho o de determinarse de acuerdo con esa comprensión, no se encuentra totalmente excluida, sino solo notablemente disminuida al momento de la realización del delito, por las causas señaladas en la Fracción IX del Artículo 20 de este Código, a juicio del juzgador, según proceda, se le impondrá hasta una tercera parte de la pena que correspondería el (sic) delito cometido, o la medida de seguridad a que se refiere el artículo anterior, tomando en consideración si dicha disminución de la capacidad fue provocada o no para cometer el delito.
+Si la capacidad del agente de comprender el carácter ilícito del hecho o de determinarse de acuerdo con esa comprensión, no se encuentra totalmente excluida, sino solo notablemente disminuida al momento de la realización del delito, a juicio del juzgador, según proceda, se le impondrá hasta una tercera parte de la pena que correspondería al delito cometido, o la medida de seguridad a que se refiere el artículo anterior, tomando en consideración si dicha disminución de la capacidad fue provocada o no para cometer el delito.
+
+En estos casos quedará subsistente la atribución del hecho a título doloso.
 
 ###### ARTICULO 49.
 
@@ -565,11 +633,15 @@ Cuando se imponga la intervención, el interventor o interventores tendrán toda
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-### CAPITULO II. PUNIBILIDAD DE LOS DELITOS CULPOSOS Y PRETERINTENCIONALES
+### CAPITULO II. PUNIBILIDAD DE LOS DELITOS CULPOSOS
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
 ## TITULO CUARTO. APLICACIONES DE PENAS Y MEDIDAS DE SEGURIDAD
 
 ### CAPITULO III. PUNIBILIDAD EN CASO DE ERROR VENCIBLE
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 52.
 
@@ -583,35 +655,43 @@ Para los fines de la aplicación adecuada de las penas y medidas de seguridad, e
 
 Cuando este Código prevea la disminución o el aumento de una pena con referencia a otra, aquella se fijará aplicando la disminución o el aumento de los términos mínimo y máximo de la punibilidad que sirva de referencia.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2016)</small>
+
 ### CAPITULO IV. PUNIBILIDAD EN CASO DE EXCESO
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
 ### CAPITULO V. PUNIBILIDAD DE LA TENTATIVA Y DEL DELITO IMPOSIBLE
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 54.
 
-Los delitos culposos se penarán con prisión de seis meses a siete años, pero sin exceder de la mitad de la que correspondería si el delito hubiese sido doloso.
+En los casos de delitos culposos, se impondrá la cuarta parte de las penas y medidas de seguridad asignadas por la ley al tipo básico del delito doloso, con excepción de aquellos para los que la ley señale una pena específica o un tratamiento diverso regulado por el ordenamiento legal distinto a este Código. Además se impondrá, en su caso, suspensión o privación definitiva de derechos para ejercer profesión, oficio, autorización, licencia o permiso, por un término igual a la pena de prisión impuesta.
 
-Las demás penas o medidas de seguridad, se aplicarán hasta en la mitad de las correspondientes al delito doloso en cuantía y duración.
+Siempre que al delito doloso corresponda sanción alternativa que incluya una pena no privativa de libertad, aprovechará esta situación al responsable del delito culposo.
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2013)</small>
-
-Se exceptúa de lo establecido en el primer párrafo de este artículo, lo previsto en el artículo 88 bis del presente Código.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 55.
 
-Al responsable de un delito preterintencional, se le aplicará hasta las tres cuartas partes de la pena o medida que correspondería al delito si fuese doloso.
+Sólo se sancionarán como delitos culposos los siguientes: Homicidio, contemplado en el artículo 86; Lesiones, contemplado en (sic) artículo 99 y 100; Aborto, a que se refiere la primera parte del artículo 94 cuando no medie violencia; Daños, a que se refiere el artículo 161 y el 162 en su primera parte cuando se refiere a bienes de valor científico, artístico cultural o de utilidad pública; Delito de Peligro de Devastación, contemplado en el artículo 178; Delitos contra la Ecología, contemplado en el artículo 179; Ataques a las vías y a los medios de comunicación, contemplados en los artículos 184 y 182 primer párrafo; Responsabilidad profesional y técnica establecido (sic) en al artículo 198; Evasión de presos, a que se refieren los artículos 225 y 226; Delitos contra la Riqueza Forestal del Estado, contemplado en la fracción II del artículo 236; Infidelidad de la Custodia de Documentos a que se refiere la fracción I del artículo 245 en el caso de la destrucción de documentos que le hubieren confiado por razón de su cargo, y los demás casos contemplados específicamente en el presente Código y otras disposiciones legales.
 
-### CAPITULO VI. PUNIBILIDAD EN CASO DEL CONCURSO DE DELITOS DELITO CONTINUADO Y AUTORIA INDETERMINADA
+### CAPITULO VI. PUNIBILIDAD EN CASO DEL CONCURSO DE DELITOS, DELITO CONTINUADO Y PARTÍCIPES DEL DELITO
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 56.
 
-Cuando los errores a que se refiere la Fracción X del Artículo 20 de este Código sean vencibles, se impondrá al sujeto que se encuentre en dicha situación hasta una mitad de las penas previstas para el delito de que se trate.
+En casos de error de tipo vencible se excluye el dolo pero quedará subsistente la atribución del hecho a título culposo, siempre y cuando el tipo penal de que se trate admita configurarse culposamente.
+
+En casos de error de prohibición vencible quedará subsistente la atribución del hecho a título doloso, pero la penalidad será de una tercera parte del delito de que se trate.
 
 ### CAPITULO VII. CONMUTACION DE PENAS
 
 ###### ARTICULO 57.
 
-Al que se exceda en los casos de legítima defensa, estado de necesidad, obediencia jerárquica, cumplimiento de un deber o ejercicio de un derecho, a que se refieren respectivamente las Fracciones III, IV, V y VI del Artículo 20, se le impondrá hasta una mitad de la pena que correspondería al delito cometido.
+Al que incurra en exceso en alguna de las causas de justificación se le impondrá la sanción correspondiente al error de prohibición vencible, pero quedará subsistente la atribución del hecho a título doloso.
 
 ### CAPITULO VIII. SUSPENSION CONDICIONAL DE LA EJECUCION DE LA PENA
 
@@ -619,25 +699,27 @@ Al que se exceda en los casos de legítima defensa, estado de necesidad, obedien
 
 La pena o medida de seguridad en caso de tentativa será de hasta las dos terceras partes de la que correspondería si el delito que el agente quiso realizar se hubiere consumado.
 
-En el caso de delito imposible a que se refiere el párrafo tercero del Artículo 15 de este Código, el Juez podrá aplicar al agente, a su discreción y considerando la personalidad de aquél, hasta una tercera parte de la pena que correspondería al delito que quiso realizar o la medida de tratamiento en internamiento o en libertad que corresponda.
-
 Cuando en los casos de tentativa no fuere posible determinar el daño que se pretendió causar, se aplicará hasta dos años de prisión o hasta cincuenta días multa según proceda.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2016)</small>
 
 ### CAPITULO I. REGLAS GENERALES
 
 ###### ARTICULO 59.
 
-En caso de concurso ideal, se aplicará la pena correspondiente al delito que merezca la mayor, la cual podrá aumentarse hasta en una cuarta parte del máximo de su duración, sin que pueda exceder de los máximos señalados en el Título Tercero.
+En caso de concurso ideal, se impondrán las sanciones correspondientes al delito que merezca la mayor penalidad, las cuales podrán aumentarse sin rebasar la mitad del máximo de la duración de las penas correspondientes de los delitos restantes, siempre que las sanciones aplicables sean de la misma naturaleza; cuando sean de diversa naturaleza, podrán imponerse las consecuencias jurídicas señaladas para los restantes delitos, sin que pueda exceder de los máximos señalados en el Título Tercero.
 
-En caso de concurso real, se impondrá la pena correspondiente al delito que merezca la mayor, la cual podrá aumentarse hasta la mitad de las penas correspondientes por cada uno de los demás delitos cometidos, sin que exceda de los máximos señalados en el Título Tercero.
+En caso de concurso real, se impondrá la sanción del delito más grave, la cual podrá aumentarse con las penas que la Ley contempla para cada uno de los delitos restantes, sin que exceda de los máximos señalados en el Título Tercero.
 
 ###### ARTICULO 60.
 
 En caso de delito continuado a que se refiere el Artículo 13 de este Código, la pena correspondiente al delito cometido podrá aumentarse hasta en una mitad más, sin que exceda del máximo previsto en el Título Tercero.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 61.
 
-En caso de autoría indeterminada, se impondrá como pena hasta las tres cuartas partes de la correspondiente al delito de que se trate, de acuerdo con la modalidad respectiva.
+Para los casos señalados en las fracciones IV, V y VI del artículo 16 de este Código, se impondrán hasta las tres cuartas partes de la pena o medida de seguridad señalada para el delito cometido.
 
 ### CAPITULO II. CUMPLIMIENTO DE LA PENA O MEDIDA DE SEGURIDAD
 
@@ -1409,17 +1491,21 @@ Si el sujeto activo fuese servidor público, docente o parte del personal admini
 
 Al que por medio de la violencia física o moral realice cópula con persona de cualquier sexo, se le impondrá prisión de diez a veinticinco años y de setecientos cincuenta a mil quinientos días multa.
 
-Al que realice cópula con persona menor de catorce años de edad o que por cualquier causa no esté en posibilidades de producirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa, se le impondrá prisión de treinta a cincuenta años o prisión vitalicia y de dos mil a tres mil días multa.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
-Al que realice cópula por medio de la violencia física o moral con persona mayor de catorce años de edad y menor de dieciocho años de edad o que por cualquier causa no esté en posibilidades de producirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa, se le impondrá prisión de veinticinco a cincuenta años o prisión vitalicia y de mil quinientos a tres mil días multa.
+Al que realice cópula con persona menor de catorce años de edad o que por cualquier causa no esté en posibilidades de producirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa, se le impondrá prisión de treinta a cincuenta años y de dos mil a tres mil días multa.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+
+Al que realice cópula por medio de la violencia física o moral con persona mayor de catorce años de edad y menor de dieciocho años de edad o que por cualquier causa no esté en posibilidades de producirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa, se le impondrá prisión de veinticinco a cincuenta años y de mil quinientos a tres mil días multa.
 
 A los sentenciados por el delito de violación previsto en este artículo no se le concederán los beneficios comprendidos en la Ley de Normas Mínimas para la Readaptación Social de Sentenciados en el Estado de Quintana Roo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 128.
 
-Al que cometa el delito de violación, se aplicará una pena de prisión de veinticinco a cincuenta años o prisión vitalicia y de mil quinientos a tres mil días multa, en los siguientes casos:
+Al que cometa el delito de violación, se aplicará una pena de prisión de veinticinco a cincuenta años y de mil quinientos a tres mil días multa, en los siguientes casos:
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2010)</small>
 
@@ -1540,6 +1626,8 @@ Este delito se perseguirá por querella.
 (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2010)
 
 ### CAPITULO VI. ADMINISTRACION FRAUDULENTA
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 134.
 
@@ -1853,7 +1941,7 @@ Se impondrá de seis meses a diez años de prisión y hasta quinientos días mul
 
 ###### ARTICULO 155.
 
-Al que por cualquier razón tuviera a su cargo la administración o el cuidado de bienes ajenos, y con ánimo de lucro perjudique al Titular de éstos, alterando las cuentas o condiciones de los contratos haciendo aparecer operaciones o gastos inexistentes o exagerando los reales, ocultando o reteniendo valores o empleándolos indebidamente, se le impondrá las penas previstas para el delito de fraude.
+Al que por cualquier razón tuviera a su cargo la administración o el cuidado de bienes ajenos, y con ánimo de lucro perjudique al Titular de éstos, alterando las cuentas o condiciones de los contratos haciendo aparecer operaciones o gastos inexistentes o exagerando los reales, ocultando o reteniendo valores o empleándolos indebidamente, se le impondrá pena de tres a cinco años de prisión.
 
 ### CAPITULO III. ABANDONO DE NIÑOS, NIÑAS Y ADOLESCENTES
 
@@ -2613,6 +2701,8 @@ Si el agente se valiese de una función pública se le impondrá de seis meses a
 
 ### CAPITULO IV. TRAFICO DE INFLUENCIAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 200.
 
 A los que en forma tumultuaria ataquen a la autoridad para impedir el libre ejercicio de sus funciones o para evitar el cumplimiento de una Ley, se les aplicará prisión de seis meses a dos años.
@@ -2741,9 +2831,15 @@ Este delito se perseguirá de oficio.
 
 Se regulan en este Título los delitos cometidos por servidores públicos.
 
-Para los efectos de este Código, servidor público es toda persona que desempeña un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal, Municipal, Descentralizada, Paraestatal y en sus Fideicomisos.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+
+Para los efectos de este Código, servidor público es toda persona que desempeña un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal, Municipal, Descentralizada, Paraestatal, Fideicomisos y Organismos Constitucionales Autónomos.
 
 Los Servidores Públicos que cometan alguno de los delitos previstos en el presente Título, además de las penas de prisión y de multa que en cada caso se señalen, serán privados del cargo y quedarán inhabilitados para desempeñar otro empleo, cargo o comisión públicos, hasta por el mismo tiempo que el señalado en las penas privativas de libertad, a partir de la extinción de ésta.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2016)</small>
+
+Los delitos previstos en este Título, sólo podrán perseguirse por querella de la parte ofendida, con excepción de aquellos en los que se disponga lo contrario.
 
 ### CAPITULO I. FRAUDE PROCESAL
 
@@ -2779,7 +2875,7 @@ II.- Valiéndose de la información que posea por razón de su empleo, cargo o c
 
 ###### ARTICULO 209.
 
-Se impondrá de seis meses a seis años de prisión y de treinta a trescientos días multa, al servidor público que por sí o por no interpósita persona:
+Se impondrá de seis meses a cinco años de prisión y de treinta a trescientos días multa, al servidor público que por sí o por interpósita persona:
 
 I.- Promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a las responsabilidades inherentes a su empleo, cargo o comisión, o
 
@@ -2799,11 +2895,13 @@ Al particular que de manera espontánea dé u ofrezca dinero o cualquier otra d�
 
 El Juez podrá imponer al cohechador hasta una tercera parte de las penas señaladas en el párrafo anterior, o a su juicio, eximirlo de las mismas, cuando aquél denuncie espontáneamente el delito cometido o cuando hubiere actuado para beneficiar a una persona con la que lo ligue un vínculo familiar, de gratitud o dependencia.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 212.
 
-Al particular que estando obligado legalmente a la custodia, administración o aplicación de recursos del Estado y Municipios, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta la que se les destinó, se le aplicará de seis meses a seis años de prisión y de cincuenta a doscientos cincuenta días multa.
+Al particular que estando obligado legalmente a la custodia, administración o aplicación de recursos del Estado y Municipios, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó, se le aplicará de seis meses a cinco años de prisión y de cincuenta a doscientos cincuenta días multa.
 
-Las mismas penas se aplicarán al que, a sabiendas, adquiera indebidamente o haga figurar como suyos, bienes que un servidor público haya adquirido en contravención a lo dispuesto por la Ley de Responsabilidades de los Funcionarios y Empleados del Estado.
+Las mismas penas se aplicarán al que, a sabiendas, adquiera indebidamente o haga figurar como suyos, bienes que un servidor público haya adquirido en contravención a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo.
 
 ### CAPITULO V. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
 
@@ -2812,6 +2910,10 @@ Las mismas penas se aplicarán al que, a sabiendas, adquiera indebidamente o hag
 Al que rehusare prestar un servicio de interés público al que la Ley lo obligue o desobedeciere un mandato legítimo de la autoridad, se le impondrá prisión de seis meses a un año o trabajo en favor de la comunidad de tres a seis meses.
 
 La misma pena se impondrá al que debiendo declarar ante la autoridad y sin que le aprovechen las excepciones establecidas para hacerlo, se niegue a otorgar la protesta de Ley a declarar.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2016)</small>
+
+Al que sin excusa se negare a comparecer ante la autoridad a emitir su declaración, cuando legalmente se le exija ésta, no será considerado como sujeto de pretensión punitiva en el caso de los párrafos anteriores; pero cuando insista en su desobediencia después de haber sido apremiado por la autoridad judicial o apercibido por la administrativa en su caso, para que comparezca ante ellas y rinda declaración, se aplicará de seis meses a un año de trabajo en favor de la comunidad.
 
 ###### ARTICULO 214.
 
@@ -2825,9 +2927,11 @@ Al que en cualquier forma procure impedir la ejecución de una obra o trabajo p�
 
 Al que por medio de la violencia física o moral, exija a una autoridad la ejecución u omisión de un acto oficial, que esté o no dentro de sus atribuciones, se le impondrá de seis a tres años de prisión.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 217.
 
-Cuando la ley autorice el empleo de medios de apremio para hacer efectivas las determinaciones de la autoridad, solo se consumarán los delitos de resistencia y desobediencia cuando se hubieren agotado tales medios.
+Cuando la ley autorice el empleo de apremio para hacer efectivas las determinaciones de la autoridad, se consumará el delito de desobediencia cuando se hubiere agotado uno de los medios de apremio.
 
 ### CAPITULO VI. ENCUBRIMIENTO
 
@@ -2851,6 +2955,8 @@ Al que verbalmente o por medio de expresiones físicas, ultraje a un servidor p�
 
 ARTICULO 235 BIS.- Se aplicará de uno a seis años de prisión y hasta cien días multa, a cualquier servidor público que omita solicitar y otorgar sin causa debidamente justificada las órdenes de protección a que hace alusión la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 220.
 
 Se impondrá de seis meses a cinco años de prisión y de treinta a cien días multa, al que lleve a cabo cualquiera de las siguientes conductas:
@@ -2867,15 +2973,35 @@ V. Instale en las calles, avenidas, caminos, calzadas, plazas, paseos, pasajes, 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
+### CAPITULO IX. DELITOS CONTRA LOS PRINCIPIOS DEL SISTEMA PENAL ACUSATORIO
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2016)</small>
+
+ARTICULO 235 TER.- Se impondrá de cien a doscientos días multa, al que:
+
+I. Solicite o se decrete la suspensión de la audiencia de manera reiterada e injustificada con el ánimo de exceder en la aplicación de las medidas cautelares;
+
+II. Impida el ejercicio de la defensa privada, de manera injustificada;
+
+III. Oculten de manera dolosa datos de prueba para evitar una defensa técnica;
+
+IV. Altere dolosamente la escena del hecho o del hallazgo con el propósito de destruir elementos probatorios;
+
+V. Oculte, destruya, simule, siembre, obstruya, o modifique algún indicio encontrado en el lugar del hecho con el ánimo de afectar el procedimiento;
+
+VI. Sin estar legalmente facultado para ello, tome audio, video o fotografías sin autorización, con el ánimo de afectar la dignidad humana o la presunción de inocencia, y
+
+VII. Estando legalmente obligado, dilate la puesta a disposición ante la autoridad ministerial o jurisdiccional correspondiente.
+
+La misma pena establecida en el primer párrafo de este artículo, se impondrá al Juez, Fiscal o Agente del Ministerio Público que se ausente de un acto procesal con el propósito de suspenderlo o diferirlo.
+
 ### CAPITULO I. DELITOS CONTRA LA RIQUEZA FORESTAL DEL ESTADO
 
 ### CAPITULO II. INCOMPATIBILIDAD DE LABORES
 
-### CAPITULO III. DELITOS CONTRA EL BUEN DESPACHO DE LA ADMINISTRACIÓN
-
 ## TITULO QUINTO. DELITOS CONTRA LA ECONOMIA PUBLICA ESTATAL
 
-### CAPITULO IV. COALICION INDEBIDA
+### CAPITULO III. DELITOS CONTRA EL BUEN DESPACHO DE LA ADMINISTRACIÓN
 
 ###### ARTICULO 221.
 
@@ -2883,7 +3009,7 @@ Al que para obtener un beneficio indebido para sí o para otro, simule un acto j
 
 Si el juicio que se sigue en contra de un depositario judicial resultare como consecuencia el secuestro de una cosa embargada o depositada con anterioridad, se presumirá que éste fue simulado.
 
-### CAPITULO V. INFIDELIDAD DE LA CUSTODIA DE DOCUMENTOS
+### CAPITULO IV. COALICION INDEBIDA
 
 ###### ARTICULO 222.
 
@@ -2895,7 +3021,7 @@ La misma pena se impondrá al que a sabiendas presente testigos falsos o que por
 
 Al que espontáneamente se retracte de sus falsas declaraciones, siempre y cuando lo haga antes de que se dicte sentencia se le impondrá de seis meses a un año de prisión o de diez a cincuenta días multa.
 
-### CAPITULO I. ABANDONO DE EMPLEO
+### CAPITULO V. INFIDELIDAD DE LA CUSTODIA DE DOCUMENTOS
 
 ###### ARTICULO 224.
 
@@ -2907,7 +3033,7 @@ II.- Al que para que un inocente aparezca culpable de un delito ponga sobre él 
 
 En los casos precedentes, si el imputado es declarado penalmente responsable por razón de las falsas denuncias, se impondrá al denunciante o querella (sic), de dos a cinco años de prisión.
 
-### CAPITULO II. NEGLIGENCIA EN EL DESEMPEÑO DE FUNCION O CARGO
+### CAPITULO I. ABANDONO DE EMPLEO
 
 ###### ARTICULO 225.
 
@@ -2933,9 +3059,7 @@ Si la reaprehensión del evadido se logra por gestiones del responsable de la ev
 
 Al evadido, no se le aplicará sanción alguna, pero si ejerciere violencia en las personas o fuerza en las cosas, o bien actuare de acuerdo con otro u otros detenidos, la pena será de cuatro meses a cuatro años de prisión.
 
-### CAPITULO III. IRRESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO
-
-> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
+### CAPITULO II. NEGLIGENCIA EN EL DESEMPEÑO DE FUNCION O CARGO
 
 ###### ARTICULO 230.
 
@@ -2945,7 +3069,9 @@ A quien quebrante una pena no privativa de libertad distinta a la prevista en el
 
 Al que favorezca el quebrantamiento de la pena o medida de seguridad, se le impondrá de seis meses a un año de prisión. Si se trata de un servidor público que tenga a su cargo el cumplimiento de la pena o medida, la pena de prisión será de un año a un año seis meses y privación del cargo.
 
-### CAPITULO I. APROVECHAMIENTO ILICITO DEL PODER
+### CAPITULO III. IRRESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 231.
 
@@ -3009,7 +3135,9 @@ Se presume que no se tomaron las precauciones ni las providencias indispensables
 
 El órgano jurisdiccional, teniendo en cuenta la naturaleza del hecho, las características personales del sujeto activo y las demás que consignan el Artículo 52 de este Código, podrá imponer en los casos de encubrimiento, la mitad de la sanción que corresponda, debiendo hacer constar las razones en que se funda para determinar tal sanción.
 
-### CAPITULO II. ABUSO DE AUTORIDAD
+### CAPITULO I. APROVECHAMIENTO ILICITO DEL PODER
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 235.
 
@@ -3029,13 +3157,15 @@ VI.- Como defensor sea particular o de oficio sólo se concrete a aceptar el car
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-### CAPITULO I. COHECHO
+### CAPITULO II. ABUSO DE AUTORIDAD
 
-### CAPITULO II. PECULADO
+### CAPITULO I. COHECHO
 
 ## TITULO SEXTO. DELITOS CONTRA LA ADMINISTRACION PUBLICA
 
-### CAPITULO III. CONCUSION
+### CAPITULO II. PECULADO
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 236.
 
@@ -3063,7 +3193,7 @@ Los productos explotados, transportados o adquiridos ilegalmente, así como los 
 
 ## TITULO I (SIC). USURPACION DE FUNCIONES
 
-### CAPITULO IV. INTIMIDACION
+### CAPITULO III. CONCUSION
 
 ###### ARTICULO 238.
 
@@ -3080,6 +3210,10 @@ IV.- Continúe en forma ilegítima ejerciendo las funciones de su empleo, cargo 
 ###### ARTICULO 239.
 
 Cuando en uso de funciones usurpadas se cause un daño a la administración pública o a los particulares, independientemente de las sanciones que correspondan por delitos que se integren, se podrá aumentar la pena señalada en el artículo anterior, hasta dos años más.
+
+### CAPITULO IV. INTIMIDACION
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 240.
 
@@ -3171,7 +3305,7 @@ Las sanciones previstas por este capítulo se impondrán sin detrimento de la re
 
 ###### ARTICULO 252.
 
-Se impondrá de dos a diez años de prisión y de cincuenta a quinientos días multa, a los servidores públicos que en uso de las facultades, medios, atribuciones o recursos que les fueron conferidos:
+Se impondrá de uno a cinco años de prisión y de cincuenta a doscientos cincuenta días multa, a los servidores públicos que en uso de las facultades, medios, atribuciones o recursos que les fueron conferidos:
 
 I.- Obtenga bajo cualquier pretexto, para sí o para cualquier persona, parte del sueldo de uno o más de sus subalternos, dádivas y otros servicios;
 
@@ -3181,7 +3315,9 @@ III.- Obligue a uno de sus subalternos a que le entreguen fondos, valores o cual
 
 IV.- Realice en provecho propio o de cualquier otra persona, actos de desposesión de bienes a un particular;
 
-V.- Satisfaga indebidamente algún interés propio de cualquier persona, o incurra en situación de enriquecimiento ilícito legalmente comprobado.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
+
+V.- Satisfaga indebidamente algún interés propio o de cualquier persona, o incurra en situación de enriquecimiento ilícito, legalmente comprobado.
 
 Se presume que existe enriquecimiento ilícito si durante el tiempo que el servidor Público se encuentra en el desempeño de su cargo, o al separarse de él por haber terminado el período de sus funciones o por cualquier otro motivo estuviera en posesión de bienes, sea por sí o por interpósita persona, que sobrepase notoriamente las posibilidades económicas de acrecentar el patrimonio declarado o conocido a la fecha de su ingreso al servicio, por razón del importe de sus ingresos y de sus gastos ordinarios.
 
@@ -3227,7 +3363,7 @@ Se impondrá de seis meses a tres años de prisión y de diez a cincuenta días 
 
 ###### ARTICULO 256.
 
-Se impondrá de uno a diez años de prisión y de veinticinco a doscientos cincuenta días multa, al servidor público o persona encargada de un servicio público del Estado, Descentralizado o Municipal o comisionado que para usos propios o ajenos, distraiga de su objeto dinero, valores, fincas o cualquier otra cosa pertenecientes al Estado, al Organismo Descentralizado, al Municipio o a un particular, si por razones de su función o cargo los hubiere recibido en administración, en depósito o por otra causa.
+Se impondrá de uno a cinco años de prisión y de veinticinco a doscientos cincuenta días multa, al Servidor Público, comisionado o persona encargada de un servicio público Estatal o Municipal, centralizado o descentralizado, que para usos propios o ajenos, distraiga de su objeto dinero, valores, fincas o cualquier otra cosa pertenecientes al Estado, al Organismo Centralizado o Descentralizado, al Municipio o a un particular, si por razones de su función o cargo los hubiere recibido en administración, en depósito o por otra causa.
 
 ###### ARTICULO 257.
 
@@ -3239,7 +3375,7 @@ Lo dispuesto en el artículo anterior, se aplicará también a los encargados o 
 
 ###### ARTICULO 259.
 
-Al servidor público que por sí o por interpósita persona, utilizando la violencia física o moral, intimide a cualquier persona para evitar que ésta o por un tercero, denuncie, formule querella o aporte información relativa a la presunta comisión de un delito, se le aplicará de dos a siete años de prisión y de treinta a trescientos días multa.
+Al servidor público que por sí o por interpósita persona, utilizando la violencia física o moral, intimide a cualquier persona para evitar que ésta o por un tercero, denuncie, formule querella o aporte información relativa a la presunta comisión de un delito, se le aplicará de seis meses a tres años de prisión y de treinta a ciento cincuenta días multa.
 
 ## TITULO DECIMO. DELITOS EN MATERIA ELECTORAL
 
@@ -3487,7 +3623,7 @@ P.O. 1 DE DICIEMBRE DE 2008.
 
 P.O. 30 DE JUNIO DE 2009.
 
-DECRETO NUMERO 155, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 148, 148 BIS, 148 TER, 149, 149 BIS, 149 TER Y 149 QUÁTER, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+DECRETO NUMERO. 155, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 148, 148 BIS, 148 TER, 149, 149 BIS, 149 TER Y 149 QUÁTER, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
@@ -3750,3 +3886,11 @@ P.O. 29 DE FEBRERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 389 POR EL QUE SE REFORMAN LAS FRACCIONES I, II Y IX DEL ARTÍCULO 176-TER; Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 176-TER, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 23 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 406 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
