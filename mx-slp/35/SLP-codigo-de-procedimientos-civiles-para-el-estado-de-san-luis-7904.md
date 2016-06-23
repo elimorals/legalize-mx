@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2016-05-24"
+last_updated: "2016-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2016.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -1145,11 +1145,9 @@ De la petición y de los documentos dichos el juez mandará notificar al tercero
 
 En estos casos el término concedido al demandado, para contestar la demanda, se ampliará por todo el término concedido al tercero para el mismo efecto, debiendo, en su caso, observarse las disposiciones relativas al nombramiento de un representante común.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
-
-Transcurrido el término concedido al tercero para contestar la demanda, de oficio se ordenará la continuación del juicio por sus trámites legales.
+Transcurrido el término concedido al tercero para contestar la demanda, continuará el juicio por sus trámites legales.
 
 ART. 259.- El demandado formulará la contestación en los términos prevenidos para la demanda.
 
@@ -1169,11 +1167,9 @@ ART. 262.- Si entre las excepciones opuestas hubiere de previo y especial pronun
 
 ART. 263.- Cuando en la sentencia definitiva se declare procedente alguna excepción dilatoria, que no fué de previo pronunciamiento, se abstendrá el juez de fallar la cuestión principal, reservando el derecho del actor.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2016)</small>
-
-ART. 264.- Transcurrido el término del emplazamiento sin haber sido contestada la demanda, de oficio se hará la declaración de rebeldía y se mandará recibir el negocio a prueba, observándose las prescripciones del Capítulo II del Título IX.
+ART. 264.- Transcurrido el término del emplazamiento sin haberse contestado la demanda, a petición de parte se hará la declaración de rebeldía.
 
 Para hacer la declaratoria de rebeldía, el juez examinará escrupulosamente si las citaciones y notificaciones precedentes están hechas al demandado en la forma legal, si el demandante no señaló casa en el lugar del juicio, y si el demandado quebrantó el arraigo.
 
@@ -1183,11 +1179,9 @@ ART. 265.- El demandado que oponga reconvención o compensación, lo hará preci
 
 ART. 266.- Las excepciones supervenientes podrán oponerse en cualquier tiempo hasta antes de la sentencia y dentro de los tres días siguientes al en que la parte que las haga valer tenga conocimiento de ellas. Se substanciarán por cuerda separada y en forma incidental; pero su resolución se reservará para la definitiva.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
-
-ART. 267.- Confesada la demanda en todas sus partes o manifestando el actor su conformidad con la contestación de ella, de oficio se citará para oír sentencia. Si las cuestiones controvertidas fueren puramente de derecho y no de hecho, de oficio o, a petición de parte, se pondrán los autos a disposición de las partes para que aleguen, y la sentencia se deberá pronunciar dentro del término de quince días.
+ART. 267.- Confesada la demanda en todas sus partes o allanándose a ella o manifestando el actor su conformidad con la contestación, previa ratificación, se pronunciará sentencia. Si las cuestiones controvertidas fueren puramente de derecho y no de hecho, se pondrán los autos a disposición de las partes para que aleguen, y la sentencia se pronunciará dentro del término de diez días.
 
 ART. 268.- Queda abolida la práctica de oponer excepciones o defensas contradictorias, aun cuando sea con el carácter de subsidiarias, debiendo los jueces desechar éstas de plano.
 
@@ -1299,13 +1293,9 @@ ART. 289.- Al día siguiente en que termine el período de ofrecimiento de prueb
 
 No se admitirán diligencias de prueba contra derecho, contra la moral o sobre hechos que no han sido controvertidos por las partes, sobre hechos imposibles o notoriamente inverosímiles.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
-
-ART. 290.- Contra el auto que niegue la admisión o desahogo de prueba ofrecida oportunamente, procede el recurso de apelación en el efecto devolutivo; el que la conceda no admitirá ningún recurso.
-
-El auto que niegue la admisión de una prueba promovida después del término del ofrecimiento, no admite recurso alguno.
+ART. 290.- Contra el auto que niegue una prueba de las ofrecidas oportunamente, procede el recurso de apelación en efecto devolutivo; el que la conceda no tendrá recurso alguno. El auto que niegue la recepción de una prueba promovida después del término del ofrecimiento no admite recurso alguno.
 
 ART. 291.- Las pruebas se recibirán durante el período probatorio a medida que se vayan presentando o el juez lo determine, lo cual puede hacer desde el auto de admisión.
 
@@ -1383,19 +1373,17 @@ El juez exhortado recibirá la confesión, pero no podrá declarar confeso a nin
 
 ART. 304.- Cuando el cesionario ignore los hechos, pueden articularse las posiciones al cedente.
 
-ART. 305.- Igualmente pueden articularse posiciones a los gerentes, directores, contadores, cajeros, factores de comercio o dependientes, sobre hechos por ellos mismos ejecutados; pero que se relacionen con las acciones o excepciones que se ventilen y en las que sean parte las instituciones, sociedades o establecimientos industriales o mercantiles a que pertenezcan.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+
+ART. 305.- Igualmente pueden articularse posiciones a los gerentes, directores, contadores, cajeros, factores de comercio o dependientes, sobre hechos por ellos mismos ejecutados; pero que se relacionen con las acciones o excepciones que se ventilen y en las que sean parte las instituciones, sociedades o establecimientos industriales o mercantiles a que pertenezcan. La prueba confesional será inadmisible si se ofrece a cargo de quien no se encuentre dentro de este supuesto y no admitirá recurso alguno.
 
 ART. 306.- Las posiciones deben articularse en términos precisos; no han de ser insidiosas; no han de contener cada una más de un solo hecho y éste ha de ser propio del que declara. Un hecho complejo puede comprenderse en una posición cuando por la íntima relación que exista entre ellos, no pueda afirmarse o negarse uno sin afirmar o negar el otro. Se tienen por insidiosas las preguntas que se dirijan a ofuscar la inteligencia del que ha de responder, con el objeto de obtener una confesión contraria a la verdad.
 
 ART. 307.- Las posiciones deberán concretarse a hechos que sean objeto del debate, debiendo repelerse de oficio las que no reúnan este requisito. El juez deberá ser escrupuloso en el cumplimiento de este precepto.
 
-ART. 308.- Si el citado a absolver posiciones comparece, el juez abrirá el pliego si lo hubiere, e impuesto de ellas, las calificará y aprobará sólo las que se ajusten a lo dispuesto por los artículos 306 y 307.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2016)</small>
-
-Contra la calificación de posiciones no procederá recurso alguno.
+ART. 308.- Si el citado a absolver posiciones comparece, el juez abrirá el pliego si lo hubiere, e impuesto de ellas, las calificará y aprobará sólo las que se ajusten a lo dispuesto por los artículos 306 y 307. Contra la calificación de posiciones no procede recurso alguno.
 
 ART. 309.- Hecha la protesta de decir verdad, el juez procederá al interrogatorio, asentando literalmente las respuestas; y concluída la diligencia, la parte absolvente firmará al margen del pliego de posiciones. Las contestaciones deberán ser afirmativas o negativas, pudiendo agregar el que las dé las explicaciones que crea convenientes y las que el juez con toda amplitud le pida.
 
@@ -1533,11 +1521,9 @@ ART. 341.- Los peritos deberán tener título en la ciencia, arte o industria a 
 
 Si la profesión, el arte o la industria no estuvieren legalmente reglamentados o estándolo, no hubiere peritos en el lugar, podrán ser nombradas personas entendidas, aun cuando no tengan título.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
-
-ART. 342.- Cada parte, dentro de los tres días siguientes a la notificación del auto que ordene el dictamen pericial, nombrará un perito, a no ser que se pusieren de acuerdo en el nombramiento de uno solo. De oficio, el juez nombrará al perito tercero en discordia.
+ART. 342.- Cada parte, dentro de los tres días siguientes a la notificación del auto que ordene el dictamen pericial, nombrará un perito, a no ser que se pusieren de acuerdo en el nombramiento de uno solo. El tercero en discordia será nombrado por el juez.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -1825,17 +1811,13 @@ ART. 407.- La valorización de las pruebas se hará de acuerdo con el presente C
 
 ### CAPITULO VI. De los Alegatos y Citación para Sentencia
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
+ART. 408.- Concluida la recepción de las pruebas ofrecidas, el juez mandará poner los autos a la vista de las partes, por el término de cinco días comunes, para que produzcan sus alegatos.
 
-ART. 408.- Concluida la recepción de las pruebas ofrecidas, el juez, de oficio, mandará poner los autos a la vista de las partes, por el término común de seis días, para que aleguen de buena prueba.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
-
-ART. 409.- Presentados o no los alegatos, una vez transcurrido el término para alegar, el juez, de oficio, dictará auto de citación para sentencia.
+ART. 409.- Presentados o no los alegatos, una vez transcurrido el término concedido para alegar, el juez dictará auto de citación para sentencia.
 
 ### CAPITULO VII. De la Sentencia Ejecutoriada
 
@@ -3777,7 +3759,7 @@ V. Cuando sea necesario esperar la resolución de una cuestión previa o conexa,
 
 VI. En los casos en que la suspensión provenga de cualquier otra situación que impida legalmente la continuación del procedimiento;
 
-VII. Cuando el procedimiento deba ser impulsado de oficio por el juez o tribunal;
+VII. (DEROGADA, P.O. 23 DE JUNIO DE 2016)
 
 VIII. Cuando se haya citado a las partes para oír sentencia;
 
@@ -4255,7 +4237,9 @@ I. Cuando no se le cite al juicio o se le cite en forma distinta de la prevenida
 
 II. Cuando no se le reciban las pruebas que legalmente haya ofrecido, o cuando no se reciban conforme a la ley, y
 
-III. Cuando sin su culpa se reciban, sin su conocimiento, las pruebas ofrecidas por las otras partes, con excepción de las que fueren instrumentos públicos.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
+
+III. Cuando se reciban, sin su conocimiento, las pruebas ofrecidas por las otras partes, con excepción de las que fueren instrumentos públicos.
 
 ART. 937.- Pueden apelar: el litigante si creyere haber recibido algún agravio; los terceros que hayan salido al juicio y los demás interesados a quienes perjudique la resolución judicial.
 
@@ -4275,7 +4259,9 @@ Si no se acompañara la copia de traslado, se prevendrá al apelante para que de
 
 Además, en el propio escrito de referencia se deberán señalar las constancias que deban remitirse al superior para substanciar la alzada, a las cuales podrán adicionarse las que la parte contraria estime necesarias, y las que el juez considere conducentes. Asimismo, el apelante deberá señalar persona y domicilio para oír notificaciones en el lugar de residencia del tribunal.
 
-Si la apelación procediere sólo en efecto devolutivo, la parte apelante deberá exhibir las referidas constancias al interponer el recurso, las cuales deberán ser expedidas a su costa.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+
+Si la apelación procediere sólo en efecto devolutivo, las partes deberán señalar las referidas constancias al interponer el recurso.
 
 Bastará la enumeración sencilla que haga la parte de los errores o violaciones de derecho que, en su concepto, se cometieron en su perjuicio, para tener por expresados los agravios.
 
@@ -4365,11 +4351,7 @@ ART. 952.- Declarada inadmisible la apelación, se devolverán los autos al juez
 
 ART. 953.- Si se declara admisible la apelación, por estar satisfechos los requisitos necesarios para que proceda la substanciación de la misma, la Sala respectiva, al dictar el auto correspondiente, citará a las partes para oír sentencia, misma que deberá pronunciarse dentro del término de quince días.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
-
-ART. 954.- Las sentencias que se dicten sobre modificación o rectificación de actas del estado civil, y nulidad de matrimonios, por las causas expresadas en los artículos, 200, 201, y 207 a 210 del Código Civil del Estado, así como aquéllas en la que se declare procedente la adopción plena, y las que resuelvan sobre paternidad y filiación, serán revisadas de oficio por la Sala del Supremo Tribunal de Justicia que corresponda, con intervención del Ministerio Público, si las partes no promueven el recurso de apelación; y, mientras el Juzgado examina la legalidad del fallo, quedará en suspenso su ejecución.
+ART. 954.- (DEROGADO, P.O. 23 DE JUNIO DE 2016)
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -5668,3 +5650,11 @@ P.O. 24 DE MAYO DE 2016.
 PRIMERO. Este Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0234.- SE REFORMAN Y DEROGAN DIVERSOS ARTÍCULOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
