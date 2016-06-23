@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2016-05-31"
+last_updated: "2016-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JUNIO DE 2016.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -1403,7 +1403,17 @@ II. Las aportaciones ordinarias del Consejo;
 
 III. Los rendimientos devengados por las aportaciones ordinarias; y
 
-IV. Los intereses que generen los préstamos.
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA Y REFORMA DIVERSAS DISPOSICIONES DEL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELACIONADO CON EL FONDO DE RESERVA INDIVIDUALIZADO, D.O.F. 23 DE JUNIO DE 2016)</small>
+
+IV. Los intereses que generen los préstamos;
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA Y REFORMA DIVERSAS DISPOSICIONES DEL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELACIONADO CON EL FONDO DE RESERVA INDIVIDUALIZADO, D.O.F. 23 DE JUNIO DE 2016)</small>
+
+V. Los derechos de crédito y garantías de todo tipo derivados de los préstamos realizados con recursos del Fondo; y,
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA Y REFORMA DIVERSAS DISPOSICIONES DEL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELACIONADO CON EL FONDO DE RESERVA INDIVIDUALIZADO, D.O.F. 23 DE JUNIO DE 2016)</small>
+
+VI. Los derechos de crédito derivados de las inversiones financieras realizadas con recursos del Fondo.
 
 Salen del patrimonio del Fondo, las cantidades de dinero que se entreguen a los servidores públicos en los términos y condiciones previstos en el presente Acuerdo.
 
@@ -1487,13 +1497,21 @@ La sociedad de inversión sólo podrá llevar a cabo las actividades necesarias 
 
 Los servidores públicos se incorporarán al Fondo en forma voluntaria mediante la presentación del formato autorizado por el Consejo, de conformidad con los lineamientos que para tal efecto apruebe la Comisión de Administración.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA Y REFORMA DIVERSAS DISPOSICIONES DEL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELACIONADO CON EL FONDO DE RESERVA INDIVIDUALIZADO, D.O.F. 23 DE JUNIO DE 2016)</small>
+
 ###### Artículo 123.
 
-Los servidores públicos inscritos en el Fondo podrán realizar el retiro total de sus aportaciones, cuando causen baja.
+Los servidores públicos de nivel operativo inscritos en el Fondo podrán realizar el retiro total de sus aportaciones, cuando:
+
+a Se termine la relación laboral, ya sea por renuncia o fallecimiento; o bien,
+
+b Una vez al año, en caso de bajar por cambio de nivel operativo a mando medio o superior.
 
 En caso de fallecimiento del servidor público los recursos se entregarán a sus beneficiarios designados, a falta de éstos, a quien acredite legalmente tener derecho a ellos.
 
 En ambos casos, las solicitudes de pago se tramitarán ante la Dirección General de Servicios al Personal, quien las canalizará a la Institución para el pago correspondiente, quien deberá pagar dentro del plazo que se convenga con la Institución.
+
+El ahorro que tenga el trabajador en el Fondo, deberá ser entregado al trabajador cuando cause baja, o a sus beneficiarios en caso de defunción, sin posibilidad de dejar los recursos en el Fondo.
 
 En ningún otro caso procederá el retiro, con excepción a lo dispuesto en el artículo 125 de este Acuerdo.
 
@@ -11706,3 +11724,13 @@ D.O.F. 31 DE MAYO DE 2016.
 PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 23 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA Y REFORMA DIVERSAS DISPOSICIONES DEL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELACIONADO CON EL FONDO DE RESERVA INDIVIDUALIZADO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se instruye a la Secretaria Ejecutiva de Administración someta a la aprobación de la Comisión de Administración, la modificación de los “Lineamientos para la operación del Fondo de Reserva Individualizado, para el personal de nivel operativo de los órganos jurisdiccionales federales y del Consejo de la Judicatura Federal”, que recojan las reforma (sic) del presente Acuerdo y las demás que resulten necesarias.
