@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-municipal-del-estado-de-michoacan-de-ocampo-104
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-25"
-last_updated: "2014-12-25"
+last_updated: "2016-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2016.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el jueves 25 de diciembre de 2014.
 
@@ -1009,13 +1009,17 @@ Están obligados al pago de los Derechos por abastecimiento de agua potable y po
 
 #### SECCIÓN TERCERA. DEL PAGO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 106.
 
-Los Derechos por la prestación del servicio de abastecimiento de agua potable; y por los de alcantarillado y saneamiento, se pagarán mensual o bimestralmente en la oficina que corresponda, dentro del mes siguiente al mes o bimestre de que se trate, conforme a las cuotas o tarifas que aprueben los ayuntamientos, en términos de lo dispuesto por la Ley del Agua y Gestión de Cuencas para el Estado de Michoacán de Ocampo.
+Los Derechos por la prestación del servicio de abastecimiento de agua potable; y por los de alcantarillado y saneamiento, se pagarán mensual o bimestralmente en la oficina que corresponda, dentro del mes siguiente al mes o bimestre de que se trate, conforme a las cuotas o tarifas que apruebe el Congreso del Estado a propuesta de los ayuntamientos, en términos de lo dispuesto por la Ley del Agua y Gestión de Cuencas para el Estado de Michoacán de Ocampo.
 
 La falta de pago dentro de los plazos a que se refiere el párrafo anterior, causará recargos conforme a la tasa que establezcan las Leyes de Ingresos de los Municipios del Estado de Michoacán de Ocampo; así también multas y otros accesorios de conformidad con lo dispuesto por el Código Fiscal Municipal; los cuales se cubrirán conjuntamente con los Derechos correspondientes, los que serán exigidos por los organismos operadores, en su carácter de autoridades fiscales o por la Autoridad Municipal correspondiente, mediante la aplicación del procedimiento administrativo de ejecución establecido en el Código Fiscal Municipal. Lo dispuesto en este párrafo no será aplicable en el caso del pago anticipado a que se refiere este artículo.
 
-Los usuarios del servicio a que se refiere este Capítulo, podrán optar por el pago anual anticipado de derechos, el cual podrá dar lugar a un estímulo que para el efecto establezcan los ayuntamientos, en las diferentes cuotas o tarifas que aprueben para el Ejercicio Fiscal correspondiente.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+
+Los usuarios del servicio a que se refiere este Capítulo, podrán optar por el pago anual anticipado de derechos, el cual podrá dar lugar a un estímulo que para el efecto establezca el Congreso del Estado a propuesta de los ayuntamientos, en las diferentes cuotas o tarifas que apruebe para el Ejercicio Fiscal correspondiente.
 
 En el caso de que el pago no se realice a cuota fija, sino de acuerdo al consumo, se podrá realizar el prepago anticipado sobre consumo medido, o en su caso, el organismo operador o la autoridad correspondiente realizará la estimación de pago anual tomando como base el consumo del Ejercicio Fiscal inmediato anterior, y en caso de resultar diferencias al final del ejercicio, efectuará el ajuste correspondiente. Asimismo, en caso de que durante el ejercicio sea instalado el medidor y el usuario que haya optado por el pago anual anticipado, pase de pagar cuota fija a cuota por consumo, se realizará el prepago anticipado sobre consumo medido o en su caso realizará la estimación correspondiente al periodo comprendido entre la fecha de instalación del medidor y lo que reste del año, efectuando el ajuste que corresponda por las diferencias.
 
@@ -1744,3 +1748,11 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la Residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a 25 veinticinco días del mes de diciembre del año 2014 dos mil catorce.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO.- MTRO. JAIME DARÍO OSEGUERA MÉNDEZ.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 155 POR EL QUE "SE REFORMA EL ARTÍCULO 106 PÁRRAFOS PRIMERO Y TERCERO, DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
