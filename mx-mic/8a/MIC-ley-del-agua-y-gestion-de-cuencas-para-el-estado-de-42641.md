@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-agua-y-gestion-de-cuencas-para-el-estado-de-42641"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-27"
-last_updated: "2007-08-23"
+last_updated: "2016-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DEL AGUA Y GESTION DE CUENCAS PARA EL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DEL AGUA Y GESTION DE CUENCAS PARA EL ESTADO DE MICHOACAN
+LEY DEL AGUA Y GESTIÓN DE CUENCAS PARA EL ESTADO DE MICHOACÁN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 27 de diciembre de 2004.
 
@@ -519,7 +519,7 @@ V. Los remanentes, frutos, utilidades, productos, intereses, ventas que obtengan
 
 VI. Los demás bienes y derechos que adquiera la Comisión mediante cualquier título legal.
 
-Los bienes que formen parte del patrimonio de la Comisión serán inalienables, (sic) inembargables e imprescriptibles.
+Los bienes que formen parte del patrimonio de la Comisión serán inalienables, inembargables e imprescriptibles.
 
 ###### Artículo 16.
 
@@ -831,11 +831,13 @@ XII. Pagar oportunamente las contribuciones, derechos, aprovechamientos y produc
 
 XIII. Elaborar los programas y presupuestos anuales de ingresos y egresos derivados de la prestación de los servicios públicos;
 
-> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
 
-XIV. Aprobar, durante el mes de diciembre de cada año, a propuesta del organismo operador, las cuotas y tarifas de derechos por el servicio de agua potable, alcantarillado y saneamiento, suministro o transportación de agua potable y manejo de lodos, de acuerdo con los costos reales del servicio, ordenando su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, en los estrados de las oficinas municipales y de los organismos operadores; también podrán difundirse, en su caso en otros medios que permita a los usuarios su conocimiento.
+XIV. Proponer al Congreso del Estado, a más tardar el treinta y uno de agosto del año anterior al que serán aplicadas, las cuotas y tarifas de derechos por el servicio de agua potable, alcantarillado y saneamiento, suministro o transportación de agua potable y manejo de lodos, de acuerdo con los costos reales del servicio. Las cuales deberán ser integradas en la Iniciativa de Ley de Ingresos del Municipio, para el ejercicio fiscal del año que se trate.
 
-En el supuesto de que durante el mes de diciembre del último año de la administración municipal saliente, no se haya aprobado el acuerdo de cabildo a que se refiere el párrafo anterior, la administración municipal entrante podrá, durante los meses de enero y febrero del año al que correspondan las cuotas y tarifas, aprobar y mandar publicar el acuerdo respectivo.
+Una vez publicadas en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, las cuotas y tarifas serán ampliamente difundidas en los estrados de las oficinas municipales y de los organismos operadores, también deberán difundirse en su caso, en otros medios que permita a los usuarios su conocimiento.
+
+En el caso de los Ayuntamientos que concluyen su periodo constitucional no presentaren la propuesta de cuotas y tarifas para el ejercicio fiscal siguiente, dentro del plazo a que se refiere el presente artículo, los Ayuntamientos que inicien su periodo constitucional deberán presentarlas para su aprobación ante el Congreso del Estado, en un plazo no mayor a treinta días naturales contados a partir de la toma de posesión.
 
 XV. Ordenar y ejecutar la suspensión de los servicios públicos, cuando proceda;
 
@@ -1683,11 +1685,11 @@ El prestador de los servicios podrá determinar una estructura tarifaria que tom
 
 La Comisión vigilará la correcta aplicación de las fórmulas y aprobará las tarifas medias calculadas conforme al procedimiento establecido en el artículo anterior, así como la congruencia entre las tarifas medias y la estructura tarifaria correspondiente.
 
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
 ###### Artículo 118.
 
-Las fórmulas para la determinación de las tarifas medias de equilibrio y sus modificaciones, así como las cuotas o tarifas que los Ayuntamientos aprueben con base en ellas, se publicarán en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+Las fórmulas para la determinación de las tarifas medias de equilibrio y sus modificaciones, así como las cuotas o tarifas que con base en ellas los Ayuntamientos propongan al Congreso del Estado para su aprobación, se publicarán en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 ###### Artículo 119.
 
@@ -2016,3 +2018,9 @@ P.O. 23 DE AGOSTO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
+
+P.O. 23 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 155 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 36 FRACCIÓN XIV Y 118 DE LA LEY DEL AGUA Y GESTIÓN DE CUENCAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
