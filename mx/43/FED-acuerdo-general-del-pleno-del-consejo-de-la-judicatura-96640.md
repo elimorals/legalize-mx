@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2016-05-18"
+last_updated: "2016-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JUNIO DE 2016.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -575,7 +575,9 @@ XXVI. Proponer para la autorización del Pleno, las plazas definitivas de nueva 
 
 XXVII. Someter al Pleno para su autorización la creación de nuevas estructuras orgánicas o la modificación de las ya existentes, la adscripción definitiva, retabulación y transferencia de plazas; así como contrataciones temporales por honorarios;
 
-XXVIII. Autorizar comisiones para desempeñar funciones en la Suprema Corte de Justicia de la Nación; en el Tribunal Electoral del Poder Judicial de la Federación o en el Consejo, al personal que ocupe puestos de carrera judicial comprendidos en las fracciones I, II y VIII a X del artículo 110 de la Ley, siempre que exista la solicitud respectiva, en los términos y con los requisitos para su otorgamiento previstos en los convenios al efecto suscritos;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS ARTÍCULOS 35, FRACCIÓN XXVIII, Y 222 DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 23 DE JUNIO DE 2016)</small>
+
+XXVIII. Autorizar comisiones para desempeñar funciones en la Suprema Corte de Justicia de la Nación; en el Tribunal Electoral del Poder Judicial de la Federación o en el Consejo, al personal que ocupe puestos de carrera judicial comprendidos en las fracciones VIII a X del artículo 110 de la Ley, así como de mandos medios, homólogos a mandos medios y personal operativo de las áreas administrativas y de los órganos jurisdiccionales, siempre que exista la solicitud respectiva, en los términos y con los requisitos para su otorgamiento previstos en los convenios al efecto suscritos;
 
 XXIX. Autorizar los calendarios y políticas para la aplicación de incrementos salariales, modificación de tabuladores, estímulos o pagos especiales;
 
@@ -2273,7 +2275,9 @@ El funcionamiento del Instituto de la Judicatura se regirá por la Ley, su propi
 
 Corresponde al Instituto de la Judicatura auxiliar al Consejo en materia de investigación, formación, capacitación y actualización de los miembros del Poder Judicial de la Federación y de quienes aspiren a pertenecer a éste. Para tal fin el Instituto podrá celebrar convenios de colaboración con instituciones públicas, privadas y sociales, informando lo conducente al Pleno.
 
-Los programas y cursos que imparta el Instituto de la Judicatura tendrán como objeto lograr que los integrantes del Poder Judicial de la Federación o quienes aspiren a ingresar a éste, fortalezcan los conocimientos y habilidades necesarios para el adecuado desempeño de la función judicial y administrativa.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTÍCULO 109, PÁRRAFO SEGUNDO, DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE OTROS ACUERDOS GENERALES, D.O.F. 23 DE JUNIO DE 2016)</small>
+
+Corresponde al Instituto de la Judicatura Federal auxiliar al Consejo en materia de investigación, formación, capacitación y actualización de los miembros del Poder Judicial de la Federación y de quienes aspiren a pertenecer a éste. Para el cumplimiento de tal fin el Instituto podrá celebrar convenios o bases de colaboración con autoridades, organismos públicos, instituciones académicas, asociaciones o entes, nacionales o internacionales, informando lo conducente al Pleno.
 
 Para efectos de lo relacionado con la función administrativa, el Instituto de la Judicatura deberá elaborar y proponer al Pleno, previo visto bueno de la Comisión de Administración, el Programa Anual de Capacitación Administrativa, el cual, en su caso, tomará en consideración las necesidades que las áreas administrativas le hayan planteado.
 
@@ -4513,9 +4517,11 @@ Las comisiones que el Pleno otorgue a algún Consejero serán sin perjuicio de a
 
 Cuando un Consejero deba practicar diligencias fuera de las oficinas del Consejo, el Pleno determinará si deben efectuarse con la asistencia de otra persona.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS ARTÍCULOS 35, FRACCIÓN XXVIII, Y 222 DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 23 DE JUNIO DE 2016)</small>
+
 ###### Artículo 222.
 
-El Pleno otorgará comisiones, con o sin goce de sueldo, a los servidores públicos del Poder Judicial de la Federación para desempeñar encomiendas dentro de éste.
+El Pleno otorgará comisiones, con o sin goce de sueldo, a los servidores públicos del Poder Judicial de la Federación de mandos superiores y homólogos a mandos superiores, para desempeñar encomiendas dentro de éste.
 
 ###### Artículo 223.
 
@@ -5440,3 +5446,19 @@ Las disposiciones materia del presente Acuerdo anteriores a la entrada en vigor 
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Las referencias que se hagan en otras disposiciones del Consejo de la Judicatura Federal al concepto de "equidad de género" se entenderán hechas a "igualdad de género", sin perjuicio de lo dispuesto en el transitorio PRIMERO de este acuerdo General.
+
+D.O.F. 23 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS ARTÍCULOS 35, FRACCIÓN XXVIII, Y 222 DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 23 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTÍCULO 109, PÁRRAFO SEGUNDO, DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE OTROS ACUERDOS GENERALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet del Consejo de la Judicatura Federal.
