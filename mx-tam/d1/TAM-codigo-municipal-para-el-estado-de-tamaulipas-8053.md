@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2016-03-10"
+last_updated: "2016-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -651,13 +651,17 @@ LI.- Diseñar el sistema de evaluación del desempeño a nivel municipal, a trav
 
 LII.- Cumplir con las atribuciones que le confieren a los municipios la Ley General de Víctimas, así como la Ley de Protección a las Víctimas para el Estado de Tamaulipas.
 
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2016)</small>
+
+LIII.- Implementar programas sobre el uso de energías renovables y el aprovechamiento sustentable de la energía, así como fomentar la capacitación y conocimiento entre la población sobre su importancia y beneficios.
+
 > <small>(ADICIONADA, P.O. 1 DE MARZO DE 2016)</small>
 
-LIII. Fomentar la solidaridad familiar, los valores, el respeto, la convivencia y el sano esparcimiento de las familias, así como la integración de los adultos mayores en actividades que contribuyan a su mejor desarrollo.
+LIV.- Fomentar la solidaridad familiar, los valores, el respeto, la convivencia y el sano esparcimiento de las familias, así como la integración de los adultos mayores en actividades que contribuyan a su mejor desarrollo.
 
 > <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
 
-LIV.- Las demás que determina este Código o cualquier otra ley y sus reglamentos.
+LV.- Las demás que determina este Código o cualquier otra ley y sus reglamentos.
 
 ###### ARTICULO 50.
 
@@ -961,7 +965,15 @@ VII.- Comisión de Transporte, la cual será nombrada en los municipios del Esta
 
 VIII.- De Transparencia y Acceso a la Información Pública, integrada en forma que se considere la pluralidad política representada en el Ayuntamiento.
 
-IX.- Las demás que determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2016)</small>
+
+IX.- Comisión de Desarrollo Sustentable y Cambio Climático.
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2016)</small>
+
+X.- De Energía.
+
+XI.- Las demás que determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
 
 Para tal efecto, podrán encomendarse dos o más comisiones a cada munícipe.
 
@@ -1141,7 +1153,9 @@ XII.- Las demás que con relación al ramo le encomiende el Ayuntamiento.
 
 El Ayuntamiento, a propuesta del Presidente Municipal, deberá nombrar un Secretario de Desarrollo Urbano y Ecología o, en su caso, un Director de Obras y Servicios Públicos Municipales, quien tendrá las siguientes facultades y obligaciones:
 
-I.- Formular, proponer y ejecutar los programas de obras y servicios públicos que correspondan al Municipio.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
+
+I.- Formular, proponer y ejecutar los programas de obras y servicios públicos municipales, debiendo considerar el uso de energías renovables y el aprovechamiento sustentable de la energía.
 
 II.- Participar en la elaboración de los proyectos de planes de desarrollo urbano que afecten al Municipio.
 
@@ -1335,7 +1349,13 @@ VI.- Promover la participación y colaboración de los vecinos del Municipio en 
 
 VII.- Participar en el Comité de Planeación para el Desarrollo Municipal.
 
-VIII.- Los demás que les fijan las leyes y reglamentos.
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2016)</small>
+
+VIII.- Formular y proponer proyectos para el uso de energías renovables y el aprovechamiento sustentable de la energía en la realización de obras y la prestación de los servicios públicos municipales.
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
+
+IX.- Las demás que le fijen las leyes y reglamentos.
 
 ###### ARTICULO 84.
 
@@ -5868,6 +5888,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 10 DE MARZO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXII-920 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XI DEL ARTÍCULO 72 QUATER, RECORRIÉNDOSE EN SU ORDEN LA ACTUAL FRACCIÓN XI PARA PASAR A SER XII DEL NUMERAL CITADO, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. LXII-955 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
