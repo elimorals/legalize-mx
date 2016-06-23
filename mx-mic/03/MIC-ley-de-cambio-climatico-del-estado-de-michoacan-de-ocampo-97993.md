@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-cambio-climatico-del-estado-de-michoacan-de-ocampo-97993
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-21"
-last_updated: "2014-02-12"
+last_updated: "2016-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97993&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE FEBRERO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2016.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el martes 21 de enero de 2014.
 
@@ -50,6 +48,10 @@ LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MICHOACÁN DE OCAMPO
 ###### ARTÍCULO 1°.
 
 La presente Leyes de orden público, interés social y de observancia en todo el territorio del Estado de Michoacán de Ocampo y establece disposiciones para enfrentar los efectos adversos del cambio climático, en materia de protección al ambiente, desarrollo sustentable, preservación y restauración del equilibrio ecológico.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2016)</small>
+
+Las normas relativas a los derechos humanos, se interpretarán de conformidad con la Constitución Política de los Estados Unidos Mexicanos, así como la Constitución del Estado Libre y Soberano del Estado de Michoacán de Ocampo y de los tratados internacionales de la materia, en los que el Estado mexicano sea parte.
 
 ###### ARTÍCULO 2°.
 
@@ -1120,3 +1122,11 @@ ATENTAMENTE.-«SUFRAGIO EFECTIVO. NO REELECCIÓN».-PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 15 quince días del mes de enero del año 2014 dos mil catorce.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- LIC. FAUSTO VALLEJO FIGUEROA.-EL SECRETARIO DE GOBIERNO.- LIC. JOSÉ JESÚS REYNA GARCÍA. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 148 POR EL QUE “SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 1° DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Único. El presente decreto entrara en vigor al siguiente día de su publicación en el periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
