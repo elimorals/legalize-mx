@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2015-07-14"
+last_updated: "2016-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE JUNIO DE 2016 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2016.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -293,19 +295,21 @@ ART. 60.- Cuando el nacido fuere presentado como hijo de matrimonio se asentará
 
 ART. 61.- Cuando no se presente copia certificada del acta de matrimonio, sólo se asentará el nombre del padre o de la madre cuando éstos lo soliciten por sí o por apoderado en los términos que establece el artículo 36.
 
-La madre no tiene derecho de dejar de reconocer a su hijo. Tiene obligación de que su nombre figure en el acta de nacimiento de su hijo. Si al hacerse la presentación no se da el nombre de la madre, se omitirá ese dato, pero la investigación de la maternidad podrá hacerse ante los tribunales de acuerdo con las disposiciones relativas de este Código.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+
+La madre y el padre no tienen derecho de dejar de reconocer a su hijo. Tienen la obligación de que sus nombres figuren en el acta de nacimiento de su hijo. Si al hacerse la presentación no se da el nombre de la madre o el padre, se omitirá ese dato, pero la investigación de la maternidad o paternidad podrá hacerse ante los tribunales de acuerdo con las disposiciones relativas de este Código.
 
 En estos casos por ningún concepto se asentarán palabras que califiquen a la persona registrada. En cualquier acta de nacimiento que contenga dicha nota, se testarán de oficio dichas palabras por quien tenga a su cargo las actas.
 
 El Oficial del Registro Civil que viole lo dispuesto en el párrafo anterior será destituído de su cargo, sin perjuicio de las sanciones penales que pudieran corresponderle.
 
-ART. 62.- Si el hijo fuere adulterino, podrá asentarse el nombre del padre, casado o soltero, si lo pidiere, pero no podrá asentarse el nombre de la madre cuando sea casada y viva con su marido, a no ser que éste haya desconocido al hijo y exista sentencia ejecutoria que declare que no es hijo suyo.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+ART. 62.- En el acta de nacimiento se deberá asentar el nombre de la madre y/o padre que lo reconozcan como propio, sin importar sí se encuentran casados o no.
 
-ART. 63.- Cuando el hijo nazca de una mujer casada que viva con su esposo, en ningún caso ni a petición de persona alguna, podrá el Oficial del Registro asentar como padre a otro que no sea el mismo esposo, salvo que éste haya desconocido al hijo o bien se demuestre que otra persona es el padre y, en ambos casos, exista sentencia ejecutoria que así lo declare.
+En este caso, se observará lo previsto en los dos últimos párrafos del artículo 61 del presente Código.
 
-En este como en el caso del artículo anterior se observará lo previsto en los dos últimos párrafos del artículo 61.
+ART. 63.- (DEROGADO, P.O. 23 DE JUNIO DE 2016)
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -363,7 +367,9 @@ ART. 82.- Las personas que pretendan contraer matrimonio presentarán solicitud 
 
 ART. 83.- La solicitud a que se refiere el artículo anterior, expresará:
 
-I.- Los nombres, apellidos, edad, ocupación, nacionalidad y domicilio, tanto de los pretendientes como de sus padres, si éstos fueran conocidos. Cuando alguno o ambos pretendientes hayan sido casados, se expresará también el nombre de la persona con quien se celebró el anterior matrimonio, la causa de su disolución y fecha de ésta;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
+
+I.- Los nombres, apellidos, edad, ocupación, nacionalidad y domicilio, tanto de los pretendientes como de sus padres, si éstos fueran conocidos;
 
 II.- Que no tienen impedimento legal para casarse; y
 
@@ -375,7 +381,7 @@ ART. 85.- A la solicitud se acompañará:
 
 I.- Copia certificada del acta de nacimiento o de la cédula de identificación personal de cada uno de los pretendientes;
 
-II.- La constancia de que prestan su consentimiento para que el matrimonio se celebre, las personas a que se refiere el artículo 133;
+II.- (DEROGADA, P.O. 23 DE JUNIO DE 2016)
 
 III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
 
@@ -397,15 +403,11 @@ VI.- Copia certificada del acta de defunción o de divorcio, si alguno de los pr
 
 VII.- Copia de la dispensa de impedimentos si los hubo; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2013)</small>
+VIII.- Constancia de haber recibido pláticas para evitar la violencia familiar, impartidas por el Instituto de la Mujer Tamaulipeca en conjunto con el Instituto Nacional de las Mujeres; y constancia expedida por personal médico de una institución oficial de salud, o médico particular, de que han sido debidamente informados de los riesgos concepcionales.
 
-VIII.- Constancia de haber recibido pláticas para evitar la violencia intrafamiliar, impartidas por el Instituto de la Mujer Tamaulipeca en conjunto con el Instituto Nacional de las Mujeres; y constancia expedida por personal médico de una institución oficial de salud, o médico particular, de que han sido debidamente informados de los riesgos concepcionales.
-
-> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
-
-En el caso de que los contrayentes sean menores de edad y considerando que sólo podrán contraer matrimonio aquellos que de manera compartida estén próximos a ser padre y madre respectivamente, o ya lo sean, deberán de acreditar el cumplimiento de los requisitos antes enunciados y además, que han recibido pláticas del Sistema para el Desarrollo Integral de la Familia del Estado y del Instituto de la Juventud de Tamaulipas. Lo anterior para que estas instituciones hagan de su conocimiento los apoyos a que pueden ser acreedores para continuar con sus estudios y para favorecer, tanto su cuidado y desarrollo como el de sus hijos.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 23 DE JUNIO DE 2016)</small>
 
 ART. 86.- Todos los requisitos mencionados en el artículo que antecede, deberán estar satisfechos a más tardar cuatro días antes de la celebración del matrimonio.
 
@@ -565,25 +567,21 @@ ART. 131.- (DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 ART. 132.- Para contraer matrimonio, el hombre y la mujer deben ser mayores de edad.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+ART. 133.- (DEROGADO, P.O. 23 DE JUNIO DE 2016)
 
-ART. 133.- Quienes siendo menores de dieciocho años pero habiendo cumplido los dieciséis años hayan sido padres o estén próximos a serlo, podrán contraer nupcias con el padre o madre del no nacido o el menor. Los menores de edad no podrán contraer matrimonio sin el consentimiento de sus padres o tutores. A falta de éstos, en caso de irracional disenso o de que revoquen el que hubieren concedido, el Juez otorgará el consentimiento.
+ART. 134.- (DEROGADO, P.O. 23 DE JUNIO DE 2016)
 
-ART. 134.- Si en los casos del artículo anterior, el juez se niega a suplir el consentimiento para que se celebre el matrimonio, los interesados podrán ocurrir al Tribunal Superior, en los términos que disponga la Ley Procesal Civil.
+ART. 135.- (DEROGADO, P.O. 23 DE JUNIO DE 2016)
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+ART. 136.- (DEROGADO, P.O. 23 DE JUNIO DE 2016)
 
-ART. 135.- Los padres, madres o tutores que hayan prestado su consentimiento, firmado la solicitud respectiva y ratificándola ante el Oficial del Registro Civil, no pueden revocarlo después, a menos que haya justa causa para ello.
-
-ART. 136.- El juez que hubiere autorizado a un menor para contraer matrimonio no podrá revocar el consentimiento, una vez que lo haya otorgado, sino por justa causa superveniente.
-
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
-
-ART. 137.- Si los padres, madres o tutores que hayan firmado o ratificado la solicitud de matrimonio fallecieren antes de que se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo, pero siempre que el matrimonio se verifique dentro del término de treinta días.
+ART. 137.- (DEROGADO, P.O. 23 DE JUNIO DE 2016)
 
 ART. 138.- Son impedimentos para celebrar el matrimonio:
 
-I.- La falta de edad requerida por la ley, cuando no haya sido dispensada;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
+
+I.- La falta de edad requerida por la ley;
 
 II.- La falta de consentimiento de los representantes legales, o de la autoridad judicial en sus respectivos casos;
 
@@ -595,9 +593,9 @@ V.- (DEROGADA, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 VI.- El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
 
-VII.- La violencia o miedo grave o cualquiera otra circunstancia que impida la expresión espontánea de la voluntad. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad;
+VII.- La violencia o miedo grave o cualquiera otra circunstancia que impida la expresión espontánea de la voluntad;
 
 VIII.- La embriaguez habitual, el uso no terapéutico de enervantes o estupefacientes, o de psicotrópicos o de cualquiera otra substancia que altere la conducta y que produzca farmacodependencia;
 
@@ -609,7 +607,9 @@ IX.- La impotencia incurable, la sífilis y las enfermedades crónicas e incurab
 
 X.- La persona con discapacidad intelectual con un rango por debajo del 70 de coeficiente intelectual; y
 
-XI.- El vínculo de un matrimonio anterior subsistente al tiempo en que se pretenda contraer otro. De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en línea colateral desigual.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
+
+XI.- El vínculo de un matrimonio anterior subsistente al tiempo en que se pretenda contraer otro. De estos impedimentos sólo es dispensable el parentesco de consanguinidad en línea colateral desigual.
 
 ART. 139.- El adoptante, su cónyuge o los ascendientes de ambos no pueden contraer matrimonio con el adoptado, su cónyuge, o los descendientes de ambos.
 
@@ -657,9 +657,7 @@ ART. 149.- Las discordias conyugales sobre los aspectos a que se contraen los tr
 
 ART. 150.- Los cónyuges mayores de edad tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones y poner las excepciones que a ellos corresponden, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta de la autorización de aquél, salvo lo que se estipule en las capitulaciones matrimoniales sobre la administración y el dominio de los bienes comunes.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
-
-ART. 151.- Los cónyuges menores de edad, tendrán la administración de sus bienes, en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos o gravarlos y un tutor para sus negocios judiciales.
+ART. 151.- (DEROGADO, P.O. 23 DE JUNIO DE 2016)
 
 ART. 152.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 1998)
 
@@ -701,7 +699,7 @@ ART. 162.- El abandono injustificado por más de seis meses del domicilio conyug
 
 ART. 163.- Las capitulaciones matrimoniales, son los pactos que tienen por objeto establecer y regular el régimen patrimonial a que ha de sujetarse el matrimonio. Pueden otorgarse aún antes de la celebración de éste o durante él, y comprender no sólo los bienes de que sean dueños los consortes al tiempo de celebrarlas, sino también los que adquieran después.
 
-ART. 164.- El menor que con arreglo a la ley pueda contraer matrimonio, puede también otorgar capitulaciones, las cuales serán válidas si a su otorgamiento concurren las personas cuyo consentimiento previo es necesario para la celebración del matrimonio.
+ART. 164.- (DEROGADO, P.O. 23 DE JUNIO DE 2016)
 
 ### CAPITULO VI. DE LA SOCIEDAD CONVENCIONAL
 
@@ -881,7 +879,7 @@ ART. 210.- Tampoco se revocarán por ingratitud a no ser que el donante fuere un
 
 ART. 211.- Las donaciones antenupciales son revocables y se entienden revocadas por el adulterio o el abandono injustificado por más de seis meses consecutivos del domicilio conyugal por parte del donatario, cuando el donante fuere el otro cónyuge.
 
-ART. 212.- Los menores pueden hacer donaciones antenupciales, pero sólo con intervención de sus representantes legítimos y previa autorización judicial.
+ART. 212.- (DEROGADO, P.O. 23 DE JUNIO DE 2016)
 
 ART. 213.- Las donaciones antenupciales efectuadas por terceros quedarán sin efecto si el matrimonio dejare de efectuarse.
 
@@ -907,21 +905,219 @@ III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 8
 
 ART. 219.- La acción de nulidad motivada por el error, sólo puede deducirse por el cónyuge engañado, y precisamente dentro de los sesenta días siguientes a la fecha en que se entere del error, pues de no ser así se tendrá por ratificado el consentimiento y quedará subsistente el matrimonio a no ser que exista otra circunstancia que lo anule.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
-ART. 220.- El matrimonio será nulo si los contrayentes son menores de dieciséis años de edad.
+### CAPITULO XII. DEL DIVORCIO
 
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2015)</small>
 
-ART. 221.- La nulidad por falta de consentimiento de los ascendientes sólo podrá alegarse por aquel o aquellos a quienes tocaba prestar dicho consentimiento, y dentro de treinta días contados desde que tenga conocimiento del matrimonio.
+ART. 248.- El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. Podrá solicitarse por uno o ambos cónyuges cuando cualquiera de ellos lo reclame ante la autoridad judicial manifestando su voluntad de no querer continuar con el matrimonio, sin que se requiera señalar la causa por la cual se solicita, siempre que haya transcurrido cuando menos un año desde la celebración del mismo.
 
-ART. 222.- Cesa esta causa de nulidad si dentro del término a que se refiere el artículo anterior, el ascendiente ha consentido expresamente en el matrimonio, o tácitamente, haciendo donación a los hijos en consideración al matrimonio, recibiendo a los consortes a vivir en su casa, presentando a la prole como legítima al Registro Civil, o practicando otros actos que a juicio del Juez sean tan conducentes al efecto, como los expresados.
+Solo se decretará cuando se cumplan los requisitos exigidos por el siguiente artículo.
 
-ART. 223.- La nulidad por falta de consentimiento del tutor podrá pedirse por éste.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2015)</small>
 
-La nulidad por falta de consentimiento del juez corresponde demandarla al Ministerio Público.
+ART. 249.- El cónyuge que unilateralmente desee promover el juicio de divorcio deberá acompañar a su solicitud la propuesta de convenio para regular las consecuencias inherentes a la disolución del vínculo matrimonial, debiendo contener los siguientes requisitos:
 
-En los dos casos a que se refiere este artículo, la acción debe ejercutarse (sic) dentro de los treinta días siguientes contados a partir de la fecha en que se tengan conocimiento de la celebración del matrimonio, pero se extingue la acción si antes de dictarse sentencia ejecutoriada se obtiene la ratificación del tutor o la autorización judicial.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
+
+I.- Las reglas que propone en el tema de la guarda y custodia de los hijos menores o incapaces, conforme los parámetros de los artículos 386 y 387 de este Código;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
+
+II.- Las modalidades que propone para ejercer el derecho de visitas, respetando los horarios de comidas, descanso y estudio de los hijos, conforme los parámetros de los artículos 386 y 387 de este Código;
+
+III.- El modo de atender las necesidades de los hijos y, en su caso, del cónyuge a quien deba darse alimentos, especificando la forma, lugar y fecha de pago de la obligación alimentaria, así como la garantía para asegurar su debido cumplimiento;
+
+IV.- Designación del cónyuge al que corresponderá el uso del domicilio conyugal, en su caso, y del menaje;
+
+V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma de liquidarla, exhibiendo para ese efecto, en su caso, las capitulaciones matrimoniales, el inventario, avalúo y el proyecto de partición; y
+
+VI.- En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes deberá señalarse la compensación, que no podrá ser superior al 50% del valor de los bienes que hubieren adquirido, a que tendrá derecho el cónyuge que, durante el matrimonio, se haya dedicado preponderantemente al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos. El Juez de lo Familiar resolverá atendiendo a las circunstancias especiales de cada caso.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2015)</small>
+
+ART. 250.- Los jueces de lo familiar están obligados a suplir la deficiencia de las partes en el convenio propuesto.
+
+Las limitaciones formales de la prueba que rigen en la materia civil, no deben aplicarse en los casos de divorcio respecto del o los convenios propuestos.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2015)</small>
+
+ART. 251.- En caso de que los cónyuges lleguen a un acuerdo respecto del convenio señalado en el artículo 249 y éste no contravenga ninguna disposición legal, el Juez lo aprobará de plano, decretando el divorcio mediante sentencia, la cual no podrá ser recurrida.
+
+De no ser así, el juez decretará el divorcio mediante sentencia, dejando expedito el derecho de los cónyuges para que lo hagan valer en la vía incidental, exclusivamente por lo que concierne al convenio.
+
+El juez exhortará en la referida sentencia que, previo al inicio de la vía incidental, las partes acudan al procedimiento de mediación a que se refiere, la ley de Mediación para el Estado de Tamaulipas e intenten, a través de dicho procedimiento, llegar a un acuerdo respecto del convenio señalado.
+
+En caso de que las partes, una vez recibida la pre-mediación, no hubieren aceptado el procedimiento, o habiéndolo iniciado no fuera posible llegar a un acuerdo, podrán hacer valer sus derechos por la vía incidental. En el caso de que las partes logren la construcción de un acuerdo por medio del procedimiento de mediación, lo harán del conocimiento del juez.
+
+ART. 252.- (DEROGADO, P.O. 23 DE JUNIO DE 2016)
+
+ART. 253.- Los cónyuges pueden divorciarse por mutuo consentimiento, ocurriendo al juez competente en los términos que ordena la Ley Procesal Civil.
+
+ART. 254.- Los cónyuges que pidan el divorcio por mutuo consentimiento, están obligados a presentar al juez un convenio en el que se fijen los siguientes puntos, en su caso:
+
+I.- Designación de persona a quien sean confiados los hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio;
+
+II.- El modo de satisfacer las necesidades de los hijos, tanto durante el procedimiento, como después de ejecutoriado el divorcio, así como la forma de hacer el pago y la garantía que debe darse para asegurarlo;
+
+III.- La casa que servirá de habitación a cada uno de los esposos durante el procedimiento;
+
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2009)</small>
+
+IV.- La cantidad que por concepto de alimentos un cónyuge deba pagar al otro durante el procedimiento y después de ejecutoriado, la forma de hacer el pago y la garantía que deba darse para asegurarlo;
+
+V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. Para ese efecto se acompañará un inventario y avalúo de todos los bienes y deudas de la sociedad.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2009)</small>
+
+En caso de que la cantidad aprobada por el Juez sea líquida, se incrementará anualmente conforme al aumento del salario mínimo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2016)</small>
+
+ART. 254 BIS.- Procede el divorcio administrativo ante la Oficialía del Registro Civil en que se llevó a cabo el matrimonio, una vez que se agote el procedimiento que establece el presente artículo, y siempre que los cónyuges comparezcan personalmente a manifestar su voluntad de dar por terminado el vínculo matrimonial, para lo cual deberán reunirse los siguientes requisitos:
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2001)</small>
+
+I.- Que se solicite el divorcio administrativo ante el Oficial del Registro Civil respectivo;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2001)</small>
+
+II.- Presentar copia certificada del acta de matrimonio;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2001)</small>
+
+III.- Que los solicitantes se identifiquen plenamente;
+
+IV.- (DEROGADA, P.O. 23 DE JUNIO DE 2016)
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2001)</small>
+
+V.- Que no tengan hijos entre sí, o teniéndolos, sean mayores de edad, siempre que no sean incapaces;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2001)</small>
+
+VI.- En caso de que hayan contraído matrimonio bajo el régimen de sociedad conyugal, que acrediten con copia certificada de la resolución judicial o del convenio notarial correspondiente, haber liquidado la misma;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2001)</small>
+
+VII.- Que la mujer presente original de certificado médico en el que conste que no se encuentra en estado de gravidez.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2001)</small>
+
+El Oficial del Registro Civil, después de haber verificado que los solicitantes cumplieron con los requisitos antes mencionados, levantará un acta en la que hará constar la solicitud de divorcio administrativo y citará a los cónyuges para que se presenten a ratificar la solicitud dentro de un plazo no menor de diez ni mayor de quince días.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2001)</small>
+
+Si los cónyuges ratifican la solicitud, el Oficial del Registro Civil los declarará divorciados, levantando el acta correspondiente ante la presencia de dos testigos y hará la anotación respectiva para la cancelación del matrimonio.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2001)</small>
+
+Los cónyuges que sean declarados divorciados no podrán contraer matrimonio, hasta que transcurra un año a partir de la declaración de divorcio administrativo.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2001)</small>
+
+Si se comprueba que los cónyuges no cumplen con los requisitos exigidos, el divorcio así obtenido no producirá efectos, independientemente de las sanciones previstas en las leyes.
+
+ART. 255.- Sólo cuando haya transcurrido por lo menos un año de la celebración del matrimonio puede pedirse el divorcio por mutuo consentimiento, y será nulo si se efectúa antes. La acción de nulidad en este caso corresponde en cualquier tiempo al Ministerio Público, pero si alguno de los divorciados contrajo nuevas nupcias únicamente podrá ejercitarla dentro de un año a partir del pronunciamiento del divorcio.
+
+ART. 256.- Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento podrán reunirse de común acuerdo en cualquier tiempo con tal de que el divorcio no hubiere sido decretado. No podrán volver a solicitar el divorcio por mutuo consentimiento sino pasado un año desde su reconciliación.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2015)</small>
+
+ART. 257.- El cónyuge que no quiere pedir el divorcio, podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, y el Juez, podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por el matrimonio.
+
+ART. 258.- La reconciliación de los cónyuges pone término al juicio de divorcio en cualquier estado en que se encuentre, si aún no hubiere sentencia ejecutoria. En este caso los interesados deberán denunciar su reconciliación al juez.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2015)</small>
+
+ART. 259.- Desde que se presenta la demanda, la controversia del orden familiar o la solicitud de divorcio o antes, si hubiere urgencia, y solo mientras dure el juicio, se dictarán las medidas provisionales pertinentes; asimismo en los casos de divorcio en que no se llegue a concluir mediante convenio, las medidas subsistirán hasta en tanto se dicte sentencia interlocutoria en el incidente que resuelva la situación jurídica de hijos o bienes, según corresponda y de acuerdo a las disposiciones siguientes:
+
+I.- Separar a los cónyuges en todo caso. Para este efecto, el Juez prevendrá al marido que se separe de la casa conyugal y ordenará se le entregue su ropa y los bienes que sean necesarios para el ejercicio de la profesión, arte u oficio a que está dedicado. Deberá el marido informar al juez el lugar de su residencia. Si sobre esto se suscitare controversia el juez decidirá en la vía incidental;
+
+II.- Prevenir a ambos cónyuges que no se molesten uno a otro en ninguna forma;
+
+III.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
+
+IV.- Fijar las reglas sobre la guarda y custodia de los hijos y el régimen de convivencias, oyendo el parecer de los cónyuges, la opinión de los infantes y privilegiando el interés superior de éstos. Para ello deberá atender las reglas previstas en los diversos 386 y 387 de este Código.
+
+Salvo peligro para el normal desarrollo de los hijos, los menores que se encuentren en período de lactancia, quedarán preferentemente al cuidado de la madre.
+
+V.- Dictar las providencias que se estimen convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes ni en los de la sociedad conyugal, en su caso;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2015)</small>
+
+VI.- Dictar, en su caso, las providencias precautorias que ameriten el estado de embarazo de la mujer; y
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2008)</small>
+
+VII.- La prohibición de ir a un domicilio o lugar determinado para alguno de los cónyuges, así como las medidas necesarias para evitar actos de intimidación, acoso o violencia familiar.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+
+ART. 259 Bis.- En tanto se decrete el divorcio, los cónyuges deben evitar cualquier acto de manipulación encaminado a producir en los hijos rencor o distanciamiento hacia el otro cónyuge. La presencia de todo acto de este tipo será valorada por el Juez y considerada en su resolución.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2008)</small>
+
+ART. 260.- La sentencia de divorcio fijará en definitiva la situación de los hijos, para lo cual el juez gozará de las más amplias facultades para resolver lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según el caso, y en especial a la custodia y al cuidado de los hijos. De oficio o a petición de parte interesada durante el procedimiento, se allegará de los elementos necesarios para ello, debiendo escuchar a ambos progenitores y a los menores, para evitar conductas de violencia familiar o cualquier otra circunstancia que amerite la necesidad de la medida, considerando el interés superior de estos últimos. En todo caso protegerá y hará respetar el derecho de convivencia con los padres, salvo que exista peligro para el menor.
+
+La protección para los menores incluirá las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales podrán ser suspendidas o modificadas.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+
+Dentro de la convivencia, de manera recíproca deberá evitarse todo acto de manipulación de parte de cualquiera de los progenitores o ascendientes encaminado a producir en un menor de edad rechazo, rencor o distanciamiento hacia el otro progenitor. La presencia de todo acto de este tipo podrá ser valorado por el Juez para los efectos procedentes.
+
+ART. 261.- El padre y la madre, aunque pierdan la patria potestad quedan sujetos a todas las obligaciones que tienen para con sus hijos.
+
+ART. 262.- (DEROGADO, P.O. 14 DE JULIO DE 2015)
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1987)</small>
+
+ART. 263.- Ejecutoriada una sentencia de divorcio, el Juez remitirá copia de ella al Oficial del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente.
+
+Habiendo causado ejecutoria el divorcio, se procederá desde luego a la división de los bienes comunes y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades de los hijos, a la subsistencia y a la educación de éstos.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2015)</small>
+
+ART. 264.- En caso de divorcio, el Juez resolverá sobre el pago de alimentos a favor del cónyuge que, teniendo la necesidad de recibirlos, durante el matrimonio se haya dedicado preponderantemente a las labores del hogar, al cuidado de los hijos, esté imposibilitado para trabajar o carezca de bienes; tomando en cuenta las siguientes circunstancias:
+
+I.- La edad y el estado de salud de los cónyuges;
+
+II.- Su calificación profesional y posibilidad de acceso a un empleo;
+
+III.- Duración del matrimonio y dedicación pasada y futura a la familia;
+
+IV.- Colaboración con su trabajo en las actividades del cónyuge;
+
+V.- Medios económicos de uno y otro cónyuge, así como de sus necesidades; y
+
+VI.- Las demás obligaciones que tenga el cónyuge deudor.
+
+En la resolución se fijarán las bases para actualizar la pensión y las garantías para su efectividad. El derecho a los alimentos se extingue cuando el acreedor contraiga nuevas nupcias o se una en concubinato o haya transcurrido un término igual a la duración del matrimonio.
+
+ART. 265.- (DEROGADO, P.O. 14 DE JULIO DE 2015)
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2015)</small>
+
+ART. 266.- En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer matrimonio.
+
+ART. 267.- La muerte de uno de los cónyuges pone fin al juicio de divorcio y los herederos del fallecido tienen los mismos derechos y obligaciones que tendrían si no hubiere existido dicho juicio.
+
+ART. 268.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 1987)
+
+> <small>(REFORMADA SU DENOMINACIÓN. P.O. 24 DE JUNIO DE 2008)</small>
+
+###### ARTÍCULO 220.
+
+El matrimonio será nulo si uno o ambos de las personas contrayentes son menores de dieciocho años de edad.
+
+ART. 221.- (DEROGADO, P.O. 23 DE JUNIO DE 2016)
+
+ART. 222.- (DEROGADO, P.O. 23 DE JUNIO DE 2016)
+
+ART. 223.- (DEROGADO, P.O. 23 DE JUNIO DE 2016)
 
 ART. 224.- El parentesco de consanguinidad no dispensado anula el matrimonio. La acción que nace de esta causa de nulidad puede deducirse por los ascendientes de los cónyuges y por el Ministerio Público, pero si antes de declararse ejecutoriamente la nulidad se obtuviese la dispensa quedará revalidado el matrimonio y surtirá todos sus efectos legales desde el día en que se contrajo.
 
@@ -1028,184 +1224,6 @@ ART. 247.- No será nulo el matrimonio y sólo dará lugar a la sanción adminis
 I.- Cuando se haya contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa;
 
 II.- Cuando no se haya otorgado la previa dispensa que requiere el artículo 141 y cuando se celebre sin que hayan transcurrido los términos fijados en los artículos 140 y 266.
-
-### CAPITULO XII. DEL DIVORCIO
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2015)</small>
-
-ART. 248.- El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. Podrá solicitarse por uno o ambos cónyuges cuando cualquiera de ellos lo reclame ante la autoridad judicial manifestando su voluntad de no querer continuar con el matrimonio, sin que se requiera señalar la causa por la cual se solicita, siempre que haya transcurrido cuando menos un año desde la celebración del mismo.
-
-Solo se decretará cuando se cumplan los requisitos exigidos por el siguiente artículo.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2015)</small>
-
-ART. 249.- El cónyuge que unilateralmente desee promover el juicio de divorcio deberá acompañar a su solicitud la propuesta de convenio para regular las consecuencias inherentes a la disolución del vínculo matrimonial, debiendo contener los siguientes requisitos:
-
-I.- La designación de la persona que tendrá la guarda y custodia de los hijos menores o incapaces;
-
-II.- Las modalidades bajo las cuales el progenitor, que no tenga la guarda y custodia, ejercerá el derecho de visitas, respetando los horarios de comidas, descanso y estudio de los hijos;
-
-III.- El modo de atender las necesidades de los hijos y, en su caso, del cónyuge a quien deba darse alimentos, especificando la forma, lugar y fecha de pago de la obligación alimentaria, así como la garantía para asegurar su debido cumplimiento;
-
-IV.- Designación del cónyuge al que corresponderá el uso del domicilio conyugal, en su caso, y del menaje;
-
-V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma de liquidarla, exhibiendo para ese efecto, en su caso, las capitulaciones matrimoniales, el inventario, avalúo y el proyecto de partición; y
-
-VI.- En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes deberá señalarse la compensación, que no podrá ser superior al 50% del valor de los bienes que hubieren adquirido, a que tendrá derecho el cónyuge que, durante el matrimonio, se haya dedicado preponderantemente al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos. El Juez de lo Familiar resolverá atendiendo a las circunstancias especiales de cada caso.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2015)</small>
-
-ART. 250.- Los jueces de lo familiar están obligados a suplir la deficiencia de las partes en el convenio propuesto.
-
-Las limitaciones formales de la prueba que rigen en la materia civil, no deben aplicarse en los casos de divorcio respecto del o los convenios propuestos.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2015)</small>
-
-ART. 251.- En caso de que los cónyuges lleguen a un acuerdo respecto del convenio señalado en el artículo 249 y éste no contravenga ninguna disposición legal, el Juez lo aprobará de plano, decretando el divorcio mediante sentencia, la cual no podrá ser recurrida.
-
-De no ser así, el juez decretará el divorcio mediante sentencia, dejando expedito el derecho de los cónyuges para que lo hagan valer en la vía incidental, exclusivamente por lo que concierne al convenio.
-
-El juez exhortará en la referida sentencia que, previo al inicio de la vía incidental, las partes acudan al procedimiento de mediación a que se refiere, la ley de Mediación para el Estado de Tamaulipas e intenten, a través de dicho procedimiento, llegar a un acuerdo respecto del convenio señalado.
-
-En caso de que las partes, una vez recibida la pre-mediación, no hubieren aceptado el procedimiento, o habiéndolo iniciado no fuera posible llegar a un acuerdo, podrán hacer valer sus derechos por la vía incidental. En el caso de que las partes logren la construcción de un acuerdo por medio del procedimiento de mediación, lo harán del conocimiento del juez.
-
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
-
-ART. 252.- No pueden alegarse las causas de divorcio cuando haya mediado perdón expreso o tácito. La disposición anterior exceptúa las causales establecidas en las fracciones III, XV, XVI, XX y XXII del artículo 249.
-
-Respecto a las causales establecidas en las fracciones III, XV, XX y XXI del artículo 249, el Juez dictará nuevas medidas de protección o reforzará las antes dictadas a que hace referencia la ley respectiva.
-
-ART. 253.- Los cónyuges pueden divorciarse por mutuo consentimiento, ocurriendo al juez competente en los términos que ordena la Ley Procesal Civil.
-
-ART. 254.- Los cónyuges que pidan el divorcio por mutuo consentimiento, están obligados a presentar al juez un convenio en el que se fijen los siguientes puntos, en su caso:
-
-I.- Designación de persona a quien sean confiados los hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio;
-
-II.- El modo de satisfacer las necesidades de los hijos, tanto durante el procedimiento, como después de ejecutoriado el divorcio, así como la forma de hacer el pago y la garantía que debe darse para asegurarlo;
-
-III.- La casa que servirá de habitación a cada uno de los esposos durante el procedimiento;
-
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2009)</small>
-
-IV.- La cantidad que por concepto de alimentos un cónyuge deba pagar al otro durante el procedimiento y después de ejecutoriado, la forma de hacer el pago y la garantía que deba darse para asegurarlo;
-
-V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. Para ese efecto se acompañará un inventario y avalúo de todos los bienes y deudas de la sociedad.
-
-> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2009)</small>
-
-En caso de que la cantidad aprobada por el Juez sea líquida, se incrementará anualmente conforme al aumento del salario mínimo.
-
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2001)</small>
-
-ART. 254 BIS.- Solo cuando haya transcurrido por lo menos un año de la celebración del matrimonio, procede el divorcio administrativo ante la Oficialía del Registro Civil en que se llevó a cabo el matrimonio, una vez que se agote el procedimiento que establece el presente artículo, y siempre que los cónyuges comparezcan personalmente a manifestar su voluntad de dar por terminado el vínculo matrimonial, para lo cual deberán reunirse los siguientes requisitos:
-
-I.- Que se solicite el divorcio administrativo ante el Oficial del Registro Civil respectivo;
-
-II.- Presentar copia certificada del acta de matrimonio;
-
-III.- Que los solicitantes se identifiquen plenamente;
-
-IV.- Que sean mayores de edad, lo que acreditarán con las copias certificadas de las actas correspondientes;
-
-V.- Que no tengan hijos entre sí, o teniéndolos, sean mayores de edad, siempre que no sean incapaces;
-
-VI.- En caso de que hayan contraído matrimonio bajo el régimen de sociedad conyugal, que acrediten con copia certificada de la resolución judicial o del convenio notarial correspondiente, haber liquidado la misma;
-
-VII.- Que la mujer presente original de certificado médico en el que conste que no se encuentra en estado de gravidez.
-
-El Oficial del Registro Civil, después de haber verificado que los solicitantes cumplieron con los requisitos antes mencionados, levantará un acta en la que hará constar la solicitud de divorcio administrativo y citará a los cónyuges para que se presenten a ratificar la solicitud dentro de un plazo no menor de diez ni mayor de quince días.
-
-Si los cónyuges ratifican la solicitud, el Oficial del Registro Civil los declarará divorciados, levantando el acta correspondiente ante la presencia de dos testigos y hará la anotación respectiva para la cancelación del matrimonio.
-
-Los cónyuges que sean declarados divorciados no podrán contraer matrimonio, hasta que transcurra un año a partir de la declaración de divorcio administrativo.
-
-Si se comprueba que los cónyuges no cumplen con los requisitos exigidos, el divorcio así obtenido no producirá efectos, independientemente de las sanciones previstas en las leyes.
-
-ART. 255.- Sólo cuando haya transcurrido por lo menos un año de la celebración del matrimonio puede pedirse el divorcio por mutuo consentimiento, y será nulo si se efectúa antes. La acción de nulidad en este caso corresponde en cualquier tiempo al Ministerio Público, pero si alguno de los divorciados contrajo nuevas nupcias únicamente podrá ejercitarla dentro de un año a partir del pronunciamiento del divorcio.
-
-ART. 256.- Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento podrán reunirse de común acuerdo en cualquier tiempo con tal de que el divorcio no hubiere sido decretado. No podrán volver a solicitar el divorcio por mutuo consentimiento sino pasado un año desde su reconciliación.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2015)</small>
-
-ART. 257.- El cónyuge que no quiere pedir el divorcio, podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, y el Juez, podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por el matrimonio.
-
-ART. 258.- La reconciliación de los cónyuges pone término al juicio de divorcio en cualquier estado en que se encuentre, si aún no hubiere sentencia ejecutoria. En este caso los interesados deberán denunciar su reconciliación al juez.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2015)</small>
-
-ART. 259.- Desde que se presenta la demanda, la controversia del orden familiar o la solicitud de divorcio o antes, si hubiere urgencia, y solo mientras dure el juicio, se dictarán las medidas provisionales pertinentes; asimismo en los casos de divorcio en que no se llegue a concluir mediante convenio, las medidas subsistirán hasta en tanto se dicte sentencia interlocutoria en el incidente que resuelva la situación jurídica de hijos o bienes, según corresponda y de acuerdo a las disposiciones siguientes:
-
-I.- Separar a los cónyuges en todo caso. Para este efecto, el Juez prevendrá al marido que se separe de la casa conyugal y ordenará se le entregue su ropa y los bienes que sean necesarios para el ejercicio de la profesión, arte u oficio a que está dedicado. Deberá el marido informar al juez el lugar de su residencia. Si sobre esto se suscitare controversia el juez decidirá en la vía incidental;
-
-II.- Prevenir a ambos cónyuges que no se molesten uno a otro en ninguna forma;
-
-III.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;
-
-IV.- Fijar las reglas para el cuidado de los hijos oyendo el parecer de los cónyuges. Los hijos menores de siete años quedarán en poder de la madre, salvo que se ponga en peligro la salud física o mental de los hijos;
-
-V.- Dictar las providencias que se estimen convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes ni en los de la sociedad conyugal, en su caso;
-
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2015)</small>
-
-VI.- Dictar, en su caso, las providencias precautorias que ameriten el estado de embarazo de la mujer; y
-
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2008)</small>
-
-VII.- La prohibición de ir a un domicilio o lugar determinado para alguno de los cónyuges, así como las medidas necesarias para evitar actos de intimidación, acoso o violencia familiar.
-
-> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
-
-ART. 259 Bis.- En tanto se decrete el divorcio, los cónyuges deben evitar cualquier acto de manipulación encaminado a producir en los hijos rencor o distanciamiento hacia el otro cónyuge. La presencia de todo acto de este tipo será valorada por el Juez y considerada en su resolución.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2008)</small>
-
-ART. 260.- La sentencia de divorcio fijará en definitiva la situación de los hijos, para lo cual el juez gozará de las más amplias facultades para resolver lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según el caso, y en especial a la custodia y al cuidado de los hijos. De oficio o a petición de parte interesada durante el procedimiento, se allegará de los elementos necesarios para ello, debiendo escuchar a ambos progenitores y a los menores, para evitar conductas de violencia familiar o cualquier otra circunstancia que amerite la necesidad de la medida, considerando el interés superior de estos últimos. En todo caso protegerá y hará respetar el derecho de convivencia con los padres, salvo que exista peligro para el menor.
-
-La protección para los menores incluirá las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales podrán ser suspendidas o modificadas.
-
-> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
-
-Dentro de la convivencia, de manera recíproca deberá evitarse todo acto de manipulación de parte de cualquiera de los progenitores o ascendientes encaminado a producir en un menor de edad rechazo, rencor o distanciamiento hacia el otro progenitor. La presencia de todo acto de este tipo podrá ser valorado por el Juez para los efectos procedentes.
-
-ART. 261.- El padre y la madre, aunque pierdan la patria potestad quedan sujetos a todas las obligaciones que tienen para con sus hijos.
-
-ART. 262.- (DEROGADO, P.O. 14 DE JULIO DE 2015)
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1987)</small>
-
-ART. 263.- Ejecutoriada una sentencia de divorcio, el Juez remitirá copia de ella al Oficial del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente.
-
-Habiendo causado ejecutoria el divorcio, se procederá desde luego a la división de los bienes comunes y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades de los hijos, a la subsistencia y a la educación de éstos.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2015)</small>
-
-ART. 264.- En caso de divorcio, el Juez resolverá sobre el pago de alimentos a favor del cónyuge que, teniendo la necesidad de recibirlos, durante el matrimonio se haya dedicado preponderantemente a las labores del hogar, al cuidado de los hijos, esté imposibilitado para trabajar o carezca de bienes; tomando en cuenta las siguientes circunstancias:
-
-I.- La edad y el estado de salud de los cónyuges;
-
-II.- Su calificación profesional y posibilidad de acceso a un empleo;
-
-III.- Duración del matrimonio y dedicación pasada y futura a la familia;
-
-IV.- Colaboración con su trabajo en las actividades del cónyuge;
-
-V.- Medios económicos de uno y otro cónyuge, así como de sus necesidades; y
-
-VI.- Las demás obligaciones que tenga el cónyuge deudor.
-
-En la resolución se fijarán las bases para actualizar la pensión y las garantías para su efectividad. El derecho a los alimentos se extingue cuando el acreedor contraiga nuevas nupcias o se una en concubinato o haya transcurrido un término igual a la duración del matrimonio.
-
-ART. 265.- (DEROGADO, P.O. 14 DE JULIO DE 2015)
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2015)</small>
-
-ART. 266.- En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer matrimonio.
-
-ART. 267.- La muerte de uno de los cónyuges pone fin al juicio de divorcio y los herederos del fallecido tienen los mismos derechos y obligaciones que tendrían si no hubiere existido dicho juicio.
-
-ART. 268.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 1987)
-
-> <small>(REFORMADA SU DENOMINACIÓN. P.O. 24 DE JUNIO DE 2008)</small>
 
 ### CAPITULO I. DEL PARENTESCO
 
@@ -1601,7 +1619,9 @@ ART. 346.- El que reconoce a un hijo no tiene derecho a alimentos, si al hacer e
 
 ART. 347.- La investigación de la paternidad está permitida:
 
-I.- En los casos de rapto, estupro o violación, cuando la época del delito coincida con la de la concepción;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
+
+I.- En los casos de secuestro, estupro o violación, cuando la época del delito coincida con la de la concepción;
 
 II.- Cuando el hijo tiene o tuvo la posesión de estado de hijo del presunto padre;
 
@@ -1737,17 +1757,31 @@ ART. 384.- Si el hijo es adoptivo y la adopción la hicieron ambos cónyuges o e
 
 ART. 385.- (DEROGADO, P.O. 5 DE JUNIO DE 1999)
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
-ART. 386.- En caso de separación de quienes ejercen la patria potestad, ambos deberán continuar con el cumplimiento de sus deberes y podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y custodia de los menores. En caso de desacuerdo, el juez resolverá lo conducente oyendo al Ministerio Público.
+ART. 386.- En caso de separación de quienes ejercen la patria potestad, ambos deberán continuar con el cumplimiento de sus deberes y podrán convenir voluntariamente los términos de su ejercicio, particularmente en lo relativo a la guarda y custodia de los menores. En caso de desacuerdo, el juez resolverá lo conducente, atendiendo las particularidades del caso y el entorno académico, social y familiar de las niñas, niños y adolescentes, oyendo al Ministerio Público y respetando el derecho de los menores a emitir su opinión, bajo los parámetros internacionales y protocolos vigentes.
 
-En este supuesto, con base en el interés superior del menor, éste quedará bajo los cuidados y atenciones de uno de ellos. El otro estará obligado a colaborar en su alimentación y conservará los derechos de vigilancia y de convivencia con el menor, conforme a las modalidades previstas en el convenio o resolución judicial.
+En este último supuesto, con base en el interés superior de la infancia, el Juez privilegiará la custodia compartida, buscando que ambos progenitores asuman el pago de alimentación y conservando igualitariamente los derechos de vigilancia, de educación y de convivencia cuando los hijos estén bajo su cuidado y tomando en cuenta las modalidades previstas y señaladas en el convenio o la resolución judicial que al efecto emita el Juez.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+Por custodia compartida se entenderá que quienes ejercen la patria potestad de los hijos también gozan igualitariamente del derecho de que los hijos habiten en su domicilio, que convivan juntos los fines de semana, en los cumpleaños, los periodos vacacionales de semana santa, de verano y diciembre, incluida la posibilidad de viajar; asimismo, de la obligación de proporcionar pensión alimenticia, acudir a las juntas y festejos escolares y, en general el de infundir a los hijos valores positivos e instrucción de civilidad que les permitan en cada etapa de su evolución, lograr un crecimiento y desarrollo físico, cognoscitivo, emocional y social plenos, dentro de un ambiente de bienestar familiar y social.
 
-ART. 387.- Los que ejercen la patria potestad, aun cuando no tengan la custodia, tienen el derecho de convivencia con sus descendientes, salvo que por su conducta o antecedentes exista peligro para éstos.
+En caso de que quienes detenten la patria potestad radiquen en ciudades distintas, se considerará viables para las convivencias los sistemas tecnológicos que permitan entablar la comunicación en tiempo real, pugnando por fomentar la cercanía y convivencia de los progenitores con los hijos sujetos a este régimen.
 
-No podrán impedirse, sin justa causa, las relaciones personales entre el menor y sus parientes. En caso de oposición, a petición de cualquiera de ellos, el juez resolverá lo conducente en atención al interés superior del menor. Solo por mandato judicial podrá limitarse, suspenderse o perderse el derecho de convivencia a que se refiere el párrafo anterior, así como en los casos de suspensión o pérdida de la patria potestad, conforme a las modalidades que para su ejercicio se establezcan en el convenio o resolución judicial.
+Cuando alguno de los que ejerzan la patria potestad impida al otro el ejercicio de los derechos inherentes a la patria potestad, el Juez podrá limitar, modificar o suspender el derecho a la custodia compartida.
+
+El juez, atendiendo al interés superior del infante, con intervención del Ministerio Público y la opinión de los hijos, podrá modificar en cualquier tiempo las reglas de la guarda y custodia y de las convivencias familiares.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+
+ART. 387.- Los que ejercen la patria potestad, aun cuando no tengan la custodia, tienen el derecho de convivencia con sus descendientes, salvo que por su conducta o antecedentes exista peligro para éstos. En tratándose de infantes que se encuentren en período de lactancia o que por su corta edad y condiciones especiales requieran cuidados específicos, quedarán preferentemente al cuidado de la madre, salvo convenio en contrario y previa autorización del Juez.
+
+No podrá impedirse, sin justa causa, las relaciones personales y de convivencia entre el menor y sus parientes, salvo lo señalado en el párrafo anterior.
+
+Sólo por mandato judicial podrá limitarse, suspenderse o perderse el derecho de convivencia, así como en los casos de suspensión o pérdida de la patria potestad, conforme a las modalidades que para su ejercicio se establezcan en el convenio o resolución judicial.
+
+El Juez privilegiará la convivencia libre entre los progenitores y sólo en el supuesto de riesgo fundado de la integridad física, psicológica o emocional de los menores, determinará mediante resolución fundada y motivada, el régimen de convivencia supervisada o asistida, considerando un parámetro que no exceda de 3 horas diarias, salvo que mediante estudio psicológico se evidencie que el aumento de las tres horas diarias no incidirá negativamente en la salud emocional y psicológica de los hijos.
+
+En caso de oposición, a petición de cualquiera de los progenitores, el Juez resolverá lo conducente en atención al interés superior del menor.
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
@@ -1831,17 +1865,17 @@ ART. 406.- Los que ejerzan la patria potestad pueden usar, sin contraprestación
 
 ART. 407.- El derecho de usufructo concedido a las personas que ejercen la patria potestad, se extingue:
 
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+> <small>(REFORMADA, 23 DE JUNIO DE 2016)</small>
 
-I.- Por la emancipación derivada del matrimonio o la mayor edad de los hijos;
+I.- Por la mayoría de edad de las hijas y los hijos;
 
 II.- Por la pérdida de la patria potestad;
 
 III.- Por renuncia.
 
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+> <small>(REFORMADA, 23 DE JUNIO DE 2016)</small>
 
-ART. 408.- Dentro de los seis meses siguientes a la emancipación o la mayoría de edad, los que estuvieron sujetos a patria potestad pueden exigir cuentas de administración a quienes la ejercieron.
+ART. 408.- Dentro de los seis meses siguientes al cumplimiento de la mayoría de edad, los que estuvieron sujetos a patria potestad pueden exigir cuentas de administración a quienes la ejercieron.
 
 ART. 409.- Las personas que ejercen la patria potestad tienen obligación de dar cuenta de la administración de los bienes de los hijos.
 
@@ -1859,7 +1893,7 @@ ART. 413.- La patria potestad se extingue:
 
 I.- Por la muerte del que la ejerce, si no hay otra persona en quien recaiga;
 
-II.- Por la emancipación;
+II.- (DEROGADA, P.O. 23 DE JUNIO DE 2016)
 
 III.- Por la mayor edad del hijo.
 
@@ -7451,7 +7485,7 @@ VII.- Cuando la fianza sea legal o judicial.
 
 ART. 2177.- Para que los beneficios de orden y excusión aprovechen al fiador, son indispensables los requisitos siguientes:
 
-I.- Que el fiador los alegue luego que se le requiera de pago:
+I.- Que el fiador los alegue luego que se le requiera de pago;
 
 II.- Que designe bienes del deudor que basten para cubrir el crédito y que se hallen dentro del distrito judicial en que deba hacerse el pago; y
 
@@ -10200,3 +10234,23 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Por lo que hace a los juicios de divorcio en trámite, será potestativo para cualquiera de las partes acogerse a las reformas establecidas en el presente decreto o, en su caso, seguirán rigiéndose con las disposiciones vigentes anteriores a la publicación del presente decreto hasta en tanto hayan concluido en su totalidad.
+
+P.O. 23 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXII-956 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS Y CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán desarrollándose conforme al procedimiento que se venía aplicando hasta la entrada en vigor del mismo.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones relativas a los delitos de impudicia y feminicidio vigentes hasta la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por dichos delitos previstos y sancionados por los mismos artículos.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
