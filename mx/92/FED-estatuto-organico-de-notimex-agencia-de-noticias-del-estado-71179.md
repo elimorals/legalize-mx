@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-notimex-agencia-de-noticias-del-estado-711
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-12-21"
-last_updated: "2012-09-04"
+last_updated: "2016-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71179&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2009-12-03"
 
 ESTATUTO ORGÁNICO DE NOTIMEX, AGENCIA DE NOTICIAS DEL ESTADO MEXICANO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE SEPTIEMBRE DE 2012.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DE NOTIMEX, AGENCIA DE NOTICIAS DEL ESTADO MEXICANO, PUBLICADO EN EL D.O.F. DE 23 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JUNIO DE 2016 (ABROGADO).
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 21 de diciembre de 2009.
 
@@ -649,7 +651,7 @@ XX. Establecer las directrices metodológicas y de contenido para la elaboració
 
 XXI. Supervisar las acciones de transparencia y rendición de cuentas implementadas por las instancias globalizadoras, para dar cumplimiento a los planes y programas señalados en el Plan Nacional de Desarrollo;
 
-XXII. Conducir, con el apoyo de la Dirección de Asuntos Jurídicos, las relaciones laborales de la Agencia, conforme a los procedimientos que al efecto se establezcan, y (sic)
+XXII. Conducir, con el apoyo de la Dirección de Asuntos Jurídicos, las relaciones laborales de la Agencia, conforme a los procedimientos que al efecto se establezcan, y
 
 > <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1326,3 +1328,11 @@ UNICO.- Las presentes modificaciones y adiciones entrarán en vigor al día sigu
 D.O.F. 4 DE SEPTIEMBRE DE 2012.
 
 Transitorio único del Decreto de Reforma.- Las modificaciones y adiciones realizadas en el presente Estatuto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE NOTIMEX, AGENCIA DE NOTICIAS DEL ESTADO MEXICANO”.]
+
+PRIMERO.- El presente Estatuto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico de Notimex, Agencia de Noticias del Estado Mexicano publicado en el Diario Oficial de la Federación el 21 de diciembre de 2009.
