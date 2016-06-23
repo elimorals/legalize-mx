@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-14909
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-25"
-last_updated: "2014-12-22"
+last_updated: "2016-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de octubre de 1995.
 
@@ -1055,7 +1055,13 @@ VII.- Dirección de Informática Legislativa.
 
 VIII.- Dirección de Archivo General y Biblioteca.
 
-IX.- Las demás que coadyuven a las funciones de las anteriores.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
+
+IX.- Dirección de Concertación Legislativa.
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2016)</small>
+
+X.- Las demás que coadyuven a las funciones de las anteriores.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1349,13 +1355,31 @@ VI.- Promover la traducción y difusión de leyes y decretos a las lenguas de lo
 
 VII.- Crear y llevar el control de la hemeroteca del Poder Legislativo, preservando el acervo hemerográfico.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE JUNIO DE 2016)</small>
+
+### CAPITULO X. DE LA DIRECCION DE CONCERTACION LEGISLATIVA
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2016)</small>
+
+ARTICULO 104 BIS.- Para coadyuvar con los trabajos legislativos de negociación para el logro de acuerdos, consensos o resoluciones habrá una Dirección de Concertación Legislativa.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2016)</small>
+
+ARTICULO 104 TER.- La Dirección de Concertación Legislativa tendrá las siguientes funciones:
+
+I. Promover directrices para auxiliar en los consensos y negociaciones para la toma de decisiones en el proceso legislativo.
+
+II. Fortalecer el trabajo legislativo mediante mecanismos de coordinación y cooperación.
+
+III. Impulsar la conformación de acuerdos o consensos relacionados con iniciativas, proposiciones, propuestas y demás asuntos que requieran de su votación en comisiones o en el pleno, a fin de agilizar el trabajo legislativo.
+
+IV. Recopilar y difundir información veraz para coadyuvar con el logro de acuerdos y resoluciones.
+
+V. Las demás inherentes a la consecución de las anteriores y las que expresamente le señale la Legislatura.
+
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ### CAPITULO UNICO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS DEL PODER LEGISLATIVO
-
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
-
-### CAPITULO I. DE LA INICIACION Y FORMACION DE LEYES
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1363,7 +1387,7 @@ VII.- Crear y llevar el control de la hemeroteca del Poder Legislativo, preserva
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
-### CAPITULO II. DEL DICTAMEN
+### CAPITULO I. DE LA INICIACION Y FORMACION DE LEYES
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1377,7 +1401,7 @@ Las responsabilidades administrativas en que incurran los titulares y personal d
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
-### CAPITULO III. DEL DEBATE
+### CAPITULO II. DEL DICTAMEN
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1431,7 +1455,7 @@ Las proposiciones o proyectos de los Diputados o ciudadanos que no sean Iniciati
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
-### CAPITULO IV. DE LA VOTACION
+### CAPITULO III. DEL DEBATE
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1463,7 +1487,7 @@ La negativa, omisión, negligencia o actitud dilatoria en cumplir lo solicitado,
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
-### CAPITULO V. DE LA EXPEDICION
+### CAPITULO IV. DE LA VOTACION
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1547,7 +1571,7 @@ En la discusión en lo particular, se podrán apartar los artículos, fracciones
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
-### CAPITULO I. DEL JUICIO POLITICO
+### CAPITULO V. DE LA EXPEDICION
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1585,7 +1609,7 @@ Las disposiciones de un proyecto de ley o de decreto que sean declaradas aprobad
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
-### CAPITULO II. DE LA DECLARATORIA DE PROCEDENCIA
+### CAPITULO I. DEL JUICIO POLITICO
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1617,9 +1641,9 @@ En la interpretación, reforma, derogación o abrogación de las Leyes o Decreto
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
-### CAPITULO III. DE LA DESAPARICION DE LOS PODERES MUNICIPALES
+### CAPITULO II. DE LA DECLARATORIA DE PROCEDENCIA
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 138.
 
@@ -1755,9 +1779,9 @@ Cuando a algún Diputado se le instruya Juicio Político, no ejercerá sus funci
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
-### CAPITULO I. DEL DIARIO DE LOS DEBATES
+### CAPITULO III. DE LA DESAPARICION DE LOS PODERES MUNICIPALES
 
-(REUBICADO Y REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 1999)
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 155.
 
@@ -1789,9 +1813,9 @@ La Legislatura remitirá al Procurador General de Justicia del Estado, copia cer
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
-### CAPITULO II. DEL PROTOCOLO
+### CAPITULO I. DEL DIARIO DE LOS DEBATES
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
+(REUBICADO Y REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 158.
 
@@ -1803,9 +1827,9 @@ La Legislatura conocerá de la suspensión y desaparición de los Ayuntamientos;
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
-### CAPITULO III. DEL PUBLICO
+### CAPITULO II. DEL PROTOCOLO
 
-(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 159.
 
@@ -1815,7 +1839,7 @@ Las discusiones y documentos relacionados con las sesiones de carácter secreto,
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
-### CAPITULO IV. DISPOSICIONES ESPECIALES
+### CAPITULO III. DEL PUBLICO
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
@@ -1856,6 +1880,10 @@ El Presidente de la Legislatura nombrará una Comisión de Cortesía compuesta h
 ###### ARTICULO 164.
 
 Si asistieren invitados especiales a las sesiones, el Presidente de la Legislatura los distinguirá mandando que ocupen el Palco de Honor del Recinto Oficial.
+
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+### CAPITULO IV. DISPOSICIONES ESPECIALES
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
@@ -2062,3 +2090,11 @@ P.O. 22 DE DICIEMBRE DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 409 POR EL QUE SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 81 Y SE ADICIONAN LA FRACCIÓN X AL ARTÍCULO 81, EL CAPÍTULO X DENOMINADO "DE LA DIRECCIÓN DE CONCERTACIÓN LEGISLATIVA" DENTRO DEL TÍTULO OCTAVO, DE LAS DEPENDENCIAS DEL PODER LEGISLATIVO, EL ARTÍCULO 104 BIS Y EL ARTÍCULO 104 TER, TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación, publíquese en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Desígnese al Titular de la Dirección de Concertación Legislativa, en los términos regulados en la Ley Orgánica del Poder Legislativo y su Reglamento.
