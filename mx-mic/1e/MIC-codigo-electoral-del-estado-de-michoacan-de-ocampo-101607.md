@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2014-06-29"
+last_updated: "2016-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
 
@@ -4645,9 +4645,17 @@ Los ciudadanos que aspiren a ser registrados como candidatos independientes adem
 
 No podrán ser candidatos independientes:
 
-I. Los que hayan desempeñado, cargo de dirigencia nacional, estatal o municipal en algún partido político, a menos que hayan renunciado al partido, un año antes del día de la jornada electoral; y,
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
 
-II. Los servidores públicos, que desempeñen un cargo de elección popular, a menos que renuncien al partido por el que accedieron al cargo, un mes antes de que se emita la convocatoria respectiva por el Instituto.
+I. Los que hayan desempenpado (sic) cargo de dirigencia nacional, estatal o municipal en alguin (sic) partido poliítico (sic), a menos que hayan renunciado al Partido o perdido su militancia dieciocho meses antes del diía (sic) de la jornada electoral;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
+
+II. Los servidores públicos que desempeñen un cargo de elección popular, a menos que renuncien o hayan perdido su militancia respecto del partido por el que accedieron al cargo antes de la mitad de su mandato; y,
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2016)</small>
+
+III. Los afiliados a algún Partido Político, a menos que renuncien o pierdan su militancia, dieciocho meses antes del día de la jornada electoral.
 
 En las candidaturas independientes, en el caso de ayuntamientos, las candidaturas a regidurías se alternarán las fórmulas de distinto género hasta agotar la lista, integrándose éstas con propietarios y suplentes del mismo género.
 
@@ -4839,7 +4847,9 @@ La declaratoria de candidatos independientes que tendrán derecho a ser registra
 
 I. El Instituto, a través de la Secretaría Ejecutiva verificará la cantidad de manifestaciones de respaldo ciudadano válidas obtenidas por cada uno de los aspirantes a ser registrados candidatos independientes a los distintos cargos de elección popular;
 
-II. De todos los aspirantes registrados a un mismo cargo de elección popular, solamente tendrá derecho a registrarse como candidato independiente aquel que de manera individual, por fórmula o planilla, según sea el caso, obtenga el mayor número de manifestaciones de apoyo válidas; en la demarcación correspondiente siempre y cuando sea mayor al porcentaje que para cada cargo se requiere; y,
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
+
+II. Todos los aspirantes a un mismo cargo de elección popular, tendrain (sic) derecho a ser registrados como candidatos independientes, siempre y cuando cumplan con la totalidad de los requisitos establecidos en éste Código;
 
 III. Si ninguno de los aspirantes registrados obtiene el mínimo de porcentaje de respaldo ciudadano exigido para cada cargo, en base al listado nominal al corte del día 31 de diciembre del año previo al de la elección, el Consejo General declarará desierto el proceso de selección de candidato independiente en la elección de que se trate;
 
@@ -5070,3 +5080,13 @@ ATENTAMENTE.- “SUFRAGIO EFECTIVO. NO REELECCIÓN”.- PRESIDENTE DE LA MESA DI
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 29 veintinueve días del mes de junio del año 2014 dos mil catorce.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR SUBSTITUTO DEL ESTADO.- DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO.- MTRO. JAIME DARIO OSEGUERA MÉNDEZ. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 152 POR EL QUE “SE REFORMAN LAS FRACCIONES I Y II, Y SE ADICIONA LA FRACCIÓN III DEL ARTÍCULO 298, ASÍ COMO REFORMA LA FRACCIÓN II DEL ARTÍCULO 314 DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
