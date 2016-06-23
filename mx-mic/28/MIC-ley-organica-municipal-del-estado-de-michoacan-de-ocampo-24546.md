@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2015-09-30"
+last_updated: "2016-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2016.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -2321,7 +2321,9 @@ I. Determinar la normatividad para el adecuado funcionamiento del Ayuntamiento c
 
 II. Establecer los ordenamientos para la más óptima división administrativa y territorial del municipio;
 
-III. Crear las disposiciones para regular el orden público, la seguridad personal y patrimonial de los habitantes del municipio, la salud pública, la preservación del medio ambiente, la vialidad, el esparcimiento sano, la difusión de la cultura y los demás aspectos fundamentales de la vida comunitaria;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
+
+III. Crear las disposiciones para regular el orden público, la seguridad personal y patrimonial de los habitantes del municipio, la salud pública, la preservación del medio ambiente, la vialidad, el esparcimiento sano, la difusión de la cultura, el respeto de los derechos humanos de todas las personas y los demás aspectos fundamentales de la vida comunitaria;
 
 IV. Definir los lineamientos para el más eficiente funcionamiento de las dependencias, entidades y unidades administrativas municipales;
 
@@ -2940,3 +2942,9 @@ Lo previsto en el segundo párrafo del artículo 17 del presente Decreto, entrar
 ###### ARTÍCULO QUINTO.
 
 Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado. Para su conocimiento y efectos legales conducentes.
+
+P.O. 23 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 149 POR EL QUE “SE REFORMA LA FRACCIÓN III DEL AL (SIC) ARTÍCULO 146 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
