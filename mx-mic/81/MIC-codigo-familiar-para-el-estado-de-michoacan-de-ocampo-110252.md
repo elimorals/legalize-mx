@@ -4,7 +4,7 @@ identifier: "MIC-codigo-familiar-para-el-estado-de-michoacan-de-ocampo-110252"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-09-30"
-last_updated: "2016-06-22"
+last_updated: "2016-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL PRESENTE CÓDIGO, PUBLICADO EN EL P.O. DE 30 DE SEPTIEMBRE DE 2015, SU VIGENCIA INICIARÁ DE FORMA GRADUAL Y EN LOS TÉRMINOS SEÑALADOS EN EL PROPIO TRANSITORIO VÉASE DICHA PUBLICACIÓN OFICIAL.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2016.
 
 Código publicado en la Décima Cuarta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 30 de septiembre de 2015.
 
@@ -607,9 +607,11 @@ Las denuncias anónimas solo se tomarán en consideración cuando vayan acompañ
 
 El Oficial del Registro Civil, antes de remitir el expediente de un impedimento al juez que corresponda, lo pondrá en conocimiento de los interesados y se abstendrá de todo procedimiento ulterior hasta que cause ejecutoria la resolución que decida sobre el impedimento.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+
 ###### Artículo 91.
 
-El Oficial del Registro Civil que a sabiendas autorice un matrimonio para el que haya impedimento legal, así como los que siendo mayores de edad contraigan matrimonio con un menor sin el consentimiento de quien o quienes ejerzan la patria potestad, la tutela o del juez, en sus respectivos casos, incurrirán en los delitos previstos en el Código Penal.
+El Oficial del Registro Civil que a sabiendas autorice un matrimonio para el que haya impedimento legal incurrirá en los delitos previstos en el Código Penal.
 
 ###### Artículo 92.
 
@@ -1057,7 +1059,7 @@ Podrán otorgarse o modificarse durante el matrimonio, ante el juez del domicili
 
 ###### Artículo 162.
 
-El menor de edad que con arreglo a la ley pueda contraer matrimonio, puede también otorgar capitulaciones, las cuales serán válidas si a su otorgamiento concurren las personas cuyo consentimiento previo es necesario para la celebración del matrimonio, cuando estas se formulen al contraerlo.
+(DEROGADO, P.O. 23 DE JUNIO DE 2016)
 
 ###### Artículo 163.
 
@@ -1265,9 +1267,11 @@ La separación puede comprender no solo los bienes de que sean dueños los cóny
 
 La separación de bienes puede ser absoluta o parcial. En la parcial, los bienes que no estén comprendidos en las capitulaciones de separación, podrán ser objeto de la sociedad conyugal que constituyan los cónyuges.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+
 ###### Artículo 193.
 
-Durante el matrimonio, la separación de bienes puede terminar o ser modificada, si así lo convienen los cónyuges. En todo caso, tratándose de menores de edad, intervendrá un tutor especial, debiendo resolver lo conducente el juez del domicilio conyugal.
+Durante el matrimonio, la separación de bienes puede terminar o ser modificada ante el Juez del domicilio conyugal, si así lo convienen los cónyuges.
 
 ###### Artículo 194.
 
@@ -1847,7 +1851,7 @@ De no aceptarse, se aprobará este en lo que exista conformidad, se decretará l
 
 ###### Artículo 289.
 
-El cónyuge menor de edad necesita de un tutor especial para poder solicitar el divorcio por mutuo consentimiento, quien deberá comparecer personalmente a las audiencias que se decreten.
+(DEROGADO, P.O. 23 DE JUNIO DE 2016)
 
 ###### Artículo 290.
 
@@ -7035,27 +7039,27 @@ Toda situación que amerite contienda entre los interesados a que se refiere el 
 
 ###### Artículo 1179.
 
-A falta, por negativa o por imposibilidad de quien o quienes ejerzan la patria potestad o la tutela, el juez del distrito judicial al que pertenezca el domicilio del menor de edad, suplirá el consentimiento.
+(DEROGADO, P.O. 23 DE JUNIO DE 2016)
 
 ###### Artículo 1180.
 
-Deberá acreditarse por el que pretenda contraer matrimonio, encontrarse en alguno de los supuestos del artículo anterior.
+(DEROGADO, P.O. 23 DE JUNIO DE 2016)
 
 ###### Artículo 1181.
 
-Presentada la solicitud, se mandará notificar personalmente a quienes deban dar el consentimiento, para que dentro del término de tres días manifiesten lo que a sus intereses convenga.
+(DEROGADO, P.O. 23 DE JUNIO DE 2016)
 
 ###### Artículo 1182.
 
-Si se ignora su paradero, se publicará un extracto de ella en uno de los principales diarios del lugar en que se tramite, por una sola ocasión, para que dentro del término de diez días naturales, se presenten a ejercitar su derecho.
+(DEROGADO, P.O. 23 DE JUNIO DE 2016)
 
 ###### Artículo 1183.
 
-Pasados los términos que fijan los artículos anteriores, se celebrará una audiencia dentro de los tres días siguientes, en la cual se desahogarán las pruebas ofrecidas, y atendiendo a las particularidades del caso, el juez resolverá lo conducente.
+(DEROGADO, P.O. 23 DE JUNIO DE 2016)
 
 ###### Artículo 1184.
 
-Si antes de concederse la licencia se autoriza por aquellos que deban hacerlo, concluirá el trámite.
+(DEROGADO, P.O. 23 DE JUNIO DE 2016)
 
 ### CAPÍTULO VII. HABILITACIONES PARA COMPARECER A JUICIO
 
@@ -7095,7 +7099,7 @@ II. Adultos mayores que sean víctimas de violencia familiar;
 
 III. Huérfanos menores de edad o personas con discapacidad que queden en el abandono por la muerte, ausencia o imposibilidad de quien los tenga a su cargo; y,
 
-IV. El menor de edad que deseando contraer matrimonio, necesite acudir a la autoridad competente para suplir el consentimiento de quien deba darlo.
+IV. (DEROGADA, P.O. 23 DE JUNIO DE 2016)
 
 ###### Artículo 1190.
 
@@ -7129,39 +7133,27 @@ Inmediatamente que tuviere noticia el juez de que algún huérfano menor de edad
 
 ###### Artículo 1197.
 
-Podrá constituirse el depósito del menor de edad, que desee contraer matrimonio, a fin de que obtenga la autorización correspondiente.
+(DEROGADO, P.O. 23 DE JUNIO DE 2016)
 
 ###### Artículo 1198.
 
-Recibida la solicitud de depósito, se requerirá al interesado para que exprese si la ratifica o no; de no hacerlo, no se llevará a cabo el depósito.
-
-Si la ratificare, procederá el juez a designar depositario, oyendo para ello al menor de edad.
+(DEROGADO, P.O. 23 DE JUNIO DE 2016)
 
 ###### Artículo 1199.
 
-De oponerse el interesado a dicha designación, el juez resolverá de plano atendiendo a las circunstancias del caso.
+(DEROGADO, P.O. 23 DE JUNIO DE 2016)
 
 ###### Artículo 1200.
 
-Al constituir este depósito, se requerirá al que lo haya solicitado, que presente la autorización referida dentro de un término que el juez señalará, atendiendo las circunstancias del caso, el que podrá prorrogarse si fuere necesario, bajo apercibimiento de que, si no la exhibe, cesará el depósito.
+(DEROGADO, P.O. 23 DE JUNIO DE 2016)
 
 ###### Artículo 1201.
 
-El depósito cesará cuando:
-
-I. El juez niegue la suplencia del consentimiento para contraer matrimonio;
-
-II. No se presente la autorización dentro del plazo que para tal efecto le fuere conferido al depositario;
-
-III. El menor de edad desiste de sus pretensiones;
-
-IV. Ocurra el fallecimiento de la persona con quien se pretenda contraer matrimonio; y,
-
-V. No se celebre el matrimonio dentro del plazo de treinta días naturales a partir de la fecha en que se concedió la autorización.
+(DEROGADO, P.O. 23 DE JUNIO DE 2016)
 
 ###### Artículo 1202.
 
-En cualquiera de los casos a que se refiere el artículo anterior, el juez ordenará el regreso del menor de edad a la casa del ascendiente o tutor, levantando el acta respectiva.
+(DEROGADO, P.O. 23 DE JUNIO DE 2016)
 
 ### CAPÍTULO IX. VENTA DE BIENES DE MENORES DE EDAD, PERSONAS CON DISCAPACIDAD Y AUSENTES, Y TRANSACCIÓN SOBRE SUS DERECHOS
 
@@ -7464,3 +7456,9 @@ P.O. 22 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 150 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 23, 101, 127, 133, 295, 296, 297, 298, 299, 301, 302, 303, 304 Y 307; Y SE DEROGAN LOS ARTÍCULOS 128 Y 308, TODOS DEL CÓDIGO FAMILIAR DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 23 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 147 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 91 Y 193; Y SE DEROGAN LOS ARTÍCULOS 162, 289, 1179, 1180, 1181, 1182, 1183, 1184, LA FRACCIÓN IV DEL ARTÍCULO 1189, 1197, 1198, 1199, 1200, 1201, 1202, TODOS DEL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
