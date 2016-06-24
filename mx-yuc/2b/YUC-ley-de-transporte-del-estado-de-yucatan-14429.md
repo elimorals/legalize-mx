@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-transporte-del-estado-de-yucatan-14429"
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-15"
-last_updated: "2016-06-22"
+last_updated: "2016-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "YUC"
 ---
 # LEY DE TRANSPORTE DEL ESTADO DE YUCATAN
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JUNIO DE 2016 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE TRANSPORTE DEL ESTADO DE YUCATÁN
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE JUNIO DE 2016.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL D.O. EL 24 DE JUNIO DE 2016 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL D.O. DE 22 DE JUNIO DE 2016.]</small>
 
 Ley publicada en el Diario Oficial del estado de Yucatán, el sábado 15 de Mayo de 1999.
 
