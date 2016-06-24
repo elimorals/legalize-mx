@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2016-02-27"
+last_updated: "2016-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -899,9 +899,11 @@ En los casos en que no se cuente con Actuario, el Secretario ejercerá sus funci
 
 ### CAPITULO VIII. De los Jueces Auxiliares
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 66.
 
-Habrá un Juez Auxiliar y dos suplentes en cada una de las fracciones de los diferentes municipios del Estado, que serán electos por la asamblea de los ciudadanos que pertenezcan a la comunidad o localidad de que se trate, haciéndose llegar la propuesta de los jueces electos, durante la primera quincena de enero de cada año, al Consejo de la Judicatura, para que otorgue el nombramiento respectivo.
+Habrá un Juez Auxiliar y dos suplentes en cada una de las fracciones de los diferentes municipios del Estado, que serán electos por la asamblea de los ciudadanos que pertenezcan a la comunidad o localidad de que se trate, haciéndose llegar la propuesta de los jueces electos, durante la primera quincena de enero de cada tres años, al Consejo de la Judicatura, para que otorgue el nombramiento respectivo.
 
 La convocatoria para la celebración de la asamblea deberá ser emitida por el Consejo de la Judicatura, en la forma y términos que se establezcan en un acuerdo general.
 
@@ -911,11 +913,13 @@ En las comunidades indígenas, los jueces auxiliares serán designados conforme 
 
 Para ser Juez Auxiliar se requiere ser ciudadano potosino en ejercicio de sus derechos, vecino del lugar, y saber leer y escribir. Este cargo es gratuito y los que lo desempeñen están exentos de cualquier otro cargo concejil.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 68.
 
-Los jueces auxiliares durarán en su cargo un año, o en su caso, hasta que se expida el nombramiento del nuevo Juez, sin perjuicio de que puedan ser nuevamente electos.
+Los jueces auxiliares durarán en su cargo tres años o, en su caso, hasta que se expida el nombramiento del nuevo Juez, pudiendo ser reelectos por una sola ocasión.
 
-Podrán ser suspendidos o removidos mediante causa justificada por el Consejo de la Judicatura, a solicitud de la asamblea comunitaria por la que fueron electos, o por causa grave.
+Podrán ser suspendidos o removidos por el Consejo de la Judicatura por causa justificada y a solicitud de la asamblea comunitaria, o por causa grave.
 
 ###### ARTICULO 69.
 
@@ -2387,7 +2391,7 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 25 DE MARZO DE 2015.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 737.- SE REFORMA LOS ARTÍCULOS, 97 EN SU PÁRRAFO TERCERO, 99 EN SU FRACCIÓN II, Y 102 EN SU PÁRRAFO SEGUNDO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 737.- SE REFORMA LOS ARTÍCULOS, 97 EN SU PÁRRAFO TERCERO, 99 EN SU FRACCIÓN II, Y 102 EN SU PÁRRAFO SEGUNDO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -2412,3 +2416,13 @@ P.O. 27 DE FEBRERO DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto
+
+P.O. 24 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0239.- SE REFORMAN LOS ARTÍCULOS, 66 EN SU PÁRRAFO PRIMERO, Y 68, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado:
+
+SEGUNDO. La disposición contenida en el párrafo primero del artículo 68 que reforma este Decreto, será aplicable a los jueces auxiliares que estén en funciones a la entrada en vigor del presente Decreto, sin perjuicio que hayan sido reelectos.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
