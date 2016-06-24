@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2015-09-17"
+last_updated: "2016-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -635,9 +635,11 @@ La separación de un diputado de su grupo parlamentario, incidirá en el voto po
 
 Un Grupo Parlamentario únicamente podrá modificar su denominación cuando su partido político así lo haga.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 60.
 
-Los grupos parlamentarios se tendrán por legalmente constituidos cuando presenten a la Directiva, los documentos que establezca el Reglamento, lo que deberán hacer en la primera sesión ordinaria de la Legislatura.
+Los grupos parlamentarios se tendrán por legalmente constituidos cuando presenten a la Directiva, los documentos que establezca el Reglamento, lo que deberán hacer en la primera sesión ordinaria de la Legislatura. Es facultad exclusiva de los diputados que integren el grupo parlamentario de un mismo partido político, elegir de entre ellos a su Coordinador.
 
 ## TITULO SEPTIMO. DE LOS ORGANOS, DE LA DIRECTIVA Y DE LA JUNTA DE COORDINACIÓN POLITICA DEL CONGRESO
 
@@ -1963,7 +1965,7 @@ V. Hacer constar en las actas de los procesos de entrega-recepción, por medio d
 
 VI. Asegurar el adecuado mantenimiento de los documentos, garantizando la integridad física y funcional de toda la documentación desde el momento de la emisión, durante su periodo de vigencia, hasta su disposición final.
 
-> <small>[N. DE E. ANTES CAPÍTULO IV, P.O. 7 DE MAYO DE 2013.]</small>
+[N. DE E. ANTES CAPÍTULO IV, P.O. 7 DE MAYO DE 2013.
 
 ### Capítulo V. Del Servicio Parlamentario de Carrera
 
@@ -2340,3 +2342,13 @@ P.O. 17 DE SEPTIEMBRE DE 2015.
 PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0238.- SE REFORMA EL ARTÍCULO 60, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 161, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO UBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Inmediatamente después de entrado en vigor el Decreto, quien ocupare el cargo de Coordinador de Grupo Parlamentario, podrá ser ratificado o removido por los diputados integrantes del mismo, en término de lo dispuesto por los ordenamientos que se modifican.
