@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-proteccion-civil-para-el-estado-de-sinaloa-91813"
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-25"
-last_updated: "2016-02-03"
+last_updated: "2016-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Sinaloa, el viernes 25 de enero de 2013.
 
@@ -1129,6 +1129,10 @@ El Instituto brindará los servicios de asesoría, capacitación y demás en mat
 
 En la Ley de Hacienda del Estado de Sinaloa, se fijarán los servicios por los cuáles el Instituto podrá percibir ingresos por concepto de Derechos.
 
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2016)</small>
+
+Las solicitudes, dictaminaciones, pagos y emisión de documentos o constancias que genere el Instituto podrán ser realizados por medios electrónicos sin que sea afectada su validez jurídica.
+
 ###### Artículo 60.
 
 Las personas físicas o morales que acrediten las competencias y los conocimientos especializados en materia de protección civil, podrán ejercer la actividad de asesoría y capacitación, así como emitir dictámenes técnicos y peritajes en la materia.
@@ -1996,3 +2000,13 @@ P.O. 3 DE FEBRERO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+P.O. 24 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 562 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE GESTIÓN EMPRESARIAL Y REFORMA REGULATORIA, LEY DE FOMENTO A LA INVERSIÓN PARA EL DESARROLLO ECONÓMICO, LEY DE HACIENDA MUNICIPAL, LEY DE CATASTRO, LEY DE AGUA POTABLE Y ALCANTARILLADO, LEY DE PROTECCIÓN CIVIL Y LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+TERCERO. En un plazo de noventa días se deberán realizar las adecuaciones correspondientes a los Reglamentos de la Ley de Hacienda Municipal, Ley de Catastro, Ley de Agua Potable y Alcantarillado, Ley de Protección Civil, y Ley de Gobierno Municipal, todas del Estado, respectivamente, a efecto de establecer el procedimiento para llevar a cabo las solicitudes, dictaminaciones, pagos y emisión de documentos o constancias qua se generen por medios electrónicos.
