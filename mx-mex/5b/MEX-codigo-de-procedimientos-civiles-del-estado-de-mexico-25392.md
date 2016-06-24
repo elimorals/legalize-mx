@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-civiles-del-estado-de-mexico-25392"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-01"
-last_updated: "2016-06-01"
+last_updated: "2016-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN LA G.G. DEL 24 DE JUNIO DE 2016, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE JUNIO DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA LA G.G. DE 24 DE JUNIO DE 2016.]</small>
 
 Código publicado en el Gaceta del Gobierno del Estado de México, el lunes 1 de julio del 2002.
 
@@ -5731,9 +5731,11 @@ Vía de apremio
 
 Procedencia
 
+> <small>(F. DE E., G.G. 24 DE JUNIO DE 2016)</small>
+
 ###### Artículo 2.
 
-325.1.- Se tramitará en este procedimiento especial, el juicio de usucapión o prescripción adquisitiva de buena fe sobre inmuebles con superficie igual o menor a doscientos metros cuadrados y cuyo valor no exceda lo establecido en el artículo 3 fracción XL inciso B), del Código Financiero del Estado de México y Municipios.
+325.1.- Se tramitará en este procedimiento especial, el juicio de usucapión o prescripción adquisitiva de buena fe sobre inmuebles con superficie igual o menor a doscientos metros cuadrados o cuyo valor no exceda lo establecido en el artículo 3 fracción XL inciso B), del Código Financiero del Estado de México y Municipios.
 
 > <small>(ADICIONADO, G.G. 1 DE JUNIO DE 2016)</small>
 
@@ -5769,7 +5771,9 @@ Emplazamiento
 
 El notificador, previo cercioramiento de la identidad del demandado y su domicilio, asentará en el acta relativa los medios por los cuales llega a tal convicción. De encontrarse el demandado, entenderá con éste la diligencia, corriéndole traslado con la demanda y sus anexos, debidamente sellados y cotejados.
 
-En caso de no encontrarse la persona buscada, el emplazamiento se llevara a cabo en términos de los artículos 1.176 y 1.177 de este Código el instructivo se entregará a sus parientes, empleados o a cualquier otra persona que viva o labore en ese domicilio.
+> <small>(F. DE E., G.G. 24 DE JUNIO DE 2016)</small>
+
+En caso de no encontrarse la persona buscada, el emplazamiento se llevará a cabo en términos de los artículos 1.176 y 1.177 de este Código el instructivo se entregará a sus parientes, empleados o a cualquier otra persona que viva o labore en ese domicilio.
 
 De negarse el demandado o la persona con quien se entienda la diligencia a recibir la documentación relativa al emplazamiento, el Notificador la fijará en lugar visible de la puerta de acceso al domicilio y recabará muestras fotográficas de lo anterior.
 
@@ -5863,9 +5867,11 @@ Pruebas admisibles en el juicio sumario de usucapión
 
 Declaración de parte
 
+> <small>(F. DE E., G.G. 24 DE JUNIO DE 2016)</small>
+
 ###### Artículo 2.
 
-325.16.- Las preguntas serán planteadas de manera interrogativa, deben ser claras y versaran sobre hechos y circunstancias de que tenga noticia y que guarden relación con el objeto de la controversia, sin incorporar valoraciones, ni calificaciones.
+325.16.- Las preguntas serán planteadas de manera interrogativa, deben ser claras y versarán sobre hechos y circunstancias de que tenga noticia y que guarden relación con el objeto de la controversia, sin incorporar valoraciones, ni calificaciones.
 
 Para su desahogo, se formularán al declarante las preguntas previamente calificadas de legales por el juez, quien resolverá las objeciones planteadas.
 
@@ -5923,7 +5929,9 @@ Plazo para la celebración de la audiencia de juicio
 
 325.20.- La audiencia de juicio debe celebrarse dentro de los diez días hábiles siguientes al en que se haya fijado la contienda, se haya depurado el proceso o se haya declarado la rebeldía del demandado, según sea el caso.
 
-Si fue admitida la prueba pericial y ambas partes nombraron perito, el plazo a celebrar la audiencia será de veinte días.
+> <small>(F. DE E., G.G. 24 DE JUNIO DE 2016)</small>
+
+Si fue admitida la prueba pericial y ambas partes nombraron perito, el plazo para celebrar la audiencia será de veinte días.
 
 > <small>(ADICIONADO, G.G. 1 DE JUNIO DE 2016)</small>
 
