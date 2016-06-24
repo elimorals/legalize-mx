@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2016-03-12"
+last_updated: "2016-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2016.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -657,15 +657,15 @@ La Comisión de Gobierno se integrará por los Coordinadores de los Grupos Parla
 
 Tendrán derecho a voz y voto los coordinadores de los Grupos Parlamentarios acreditados; los diputados únicos de un partido político o diputados independientes, tendrán exclusivamente derecho a voz.
 
-La Presidencia de la Comisión de Gobierno recaerá en el Coordinador del Grupo Parlamentario que por sí sólo, represente la mayoría absoluta. En caso de que ningún Coordinador de Grupo Parlamentario, por sí sólo, represente la mayoría absoluta, la presidencia recaerá en el Coordinador del Grupo Parlamentario que tenga el mayor número de Diputados. En el caso de que dos o más Grupos Parlamentarios tengan igual número de Diputados, la presidencia la tendrá el del partido político que haya obtenido mayor número de diputaciones de Mayoría Relativa. Si tuvieran el mismo número de diputados de mayoría, la preeminencia la tendrá el que tuviera mayor cantidad de votos en la elección de Diputados.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+La Presidencia de la Comisión de Gobierno Interno deberá elegirse democráticamente mediante el voto de los coordinadores parlamentarios, en función del número de diputados que representen cada uno de ellos, resultando electa la propuesta que sume el mayor número de votos. En caso de que ninguno de ellos alcance la mayoría de votos, la presidencia recaerá en el Coordinador del Grupo Parlamentario que tenga, al momento de dicha elección, el mayor número de Diputados. En el caso de que dos o más Grupos Parlamentarios tengan igual número de Diputados, la presidencia la tendrá el del partido político que haya obtenido mayor número de diputaciones de Mayoría Relativa. Si tuvieran el mismo número de diputados de mayoría, la preeminencia la tendrá el que tuviera mayor cantidad de votos en la elección de Diputados.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 48.
 
-Las resoluciones de la Comisión de Gobierno serán tomadas por mayoría. Cada Coordinador tendrá los votos que correspondan al porcentaje que represente el número de Diputados que formen parte de su grupo parlamentario en relación al total que integren el Congreso.
+Las resoluciones de la Comisión de Gobierno Interno serán tomadas por mayoría. Cada Coordinador tendrá los votos que corresponda al número de diputados que formen parte de su grupo parlamentario.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2015)</small>
 
@@ -901,25 +901,27 @@ Para ser Oficial Mayor se requiere: ser mexicano por nacimiento, mayor de 25 añ
 
 DE LOS GRUPOS PARLAMENTARIOS.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 64.
 
-Los Diputados podrán organizarse en grupos parlamentarios para sostener los principios y lineamientos de sus respectivos partidos y coadyuvar al mejor desarrollo del proceso legislativo, orientando y estimulando la formación de criterios unificados para la concertación de los trámites de los asuntos del Congreso.
+Los Grupos Parlamentarios son las formas de organización que podrán adoptar los diputados para realizar tareas específicas en el Congreso, coadyuvan al mejor desarrollo del proceso legislativo, expresan las corrientes políticas y de opinión representadas en la Legislatura y facilitan la participación de los diputados para el cumplimiento de sus atribuciones legislativas.
 
 En ningún caso los Diputados podrán pertenecer a más de un grupo parlamentario.
 
-> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
 
-El Diputado que renuncie a su grupo parlamentario, se declarará Diputado independiente y de ninguna forma podrán formar un grupo parlamentario por separado; sólo si deciden adherirse a otro grupo, podrán hacerlo al inicio de un periodo ordinario de sesiones, perdiendo la calidad de Diputado independiente.
+Los Diputados que renuncien a sus grupos parlamentarios, se consideran independientes y podrán formar en cualquier momento un grupo parlamentario por separado, debiendo cumplir con los requisitos señalados para ello en esta ley; o adherirse a otro grupo parlamentario, perdiendo la calidad de Diputados independientes. No podrá existir más de un grupo parlamentario independiente.
 
 ###### ARTICULO 65.
 
 Los grupos parlamentarios, con las excepciones previstas en esta Ley, gozarán de idénticos derechos y obligaciones.
 
-> <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 66.
 
-Los grupos parlamentarios estarán integrados por un mínimo de dos Diputados; serán acreditados en la sesión siguiente a la de la instalación de la Legislatura y estarán obligados a presentar una acta en la que conste la decisión de los Diputados de constituirse en grupo parlamentario, especificando la denominación del mismo, lista de sus integrantes, nombre y firma de los Diputados, así como el nombre del Diputado que por mayoría de votos, haya sido designado como Coordinador.
+Los grupos parlamentarios estarán integrados por un mínimo de dos Diputados; serán acreditados en sesión ordinaria y estarán obligados a presentar una acta en la que conste la decisión de los Diputados de constituirse en grupo parlamentario, especificando la denominación del mismo, lista de sus integrantes, nombre y firma de los Diputados, así como el nombre del Diputado que por mayoría de votos, haya sido designado como Coordinador.
 
 > <small>(ADICIONADO, P.O. 27 DE JULIO DE 2013)</small>
 
@@ -1514,3 +1516,9 @@ P.O. 12 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 71 POR EL QUE SE REFORMAN LOS ARTÍCULOS 31, 37, 40 Y 44 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA, ASÍ COMO, EN INCISO E) DEL ARTÍCULO 24, ASÍ MISMO LOS ARTÍCULOS 28, TERCER Y CUARTO PÁRRAFO DEL ARTÍCULO 29, 33 Y 189 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 24 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 114 SE REFORMAN LOS ARTÍCULOS 47, EN SU PÁRRAFO CUARTO, 48, 64, EN SU PÁRRAFO PRIMERO Y TERCERO, Y 66, EN SU PRIMER PÁRRAFO, TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA; ASÍ MISMO SE REFORMAN LOS ARTÍCULOS 39, EN SUS PÁRRAFOS PRIMERO, SEGUNDO Y CUARTO, 40, PÁRRAFO TERCERO, 94, 96 Y 100 Y SE DEROGA EL ARTÍCULO 97 TODOS DEL REGLAMENTO DE LA LEY YA MENCIONADA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al momento de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
