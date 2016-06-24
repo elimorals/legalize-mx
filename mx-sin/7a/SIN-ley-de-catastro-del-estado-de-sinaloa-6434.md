@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-catastro-del-estado-de-sinaloa-6434"
 country: "mx"
 rank: "ley"
 publication_date: "1994-01-10"
-last_updated: "2011-08-26"
+last_updated: "2016-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE CATASTRO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el lunes 10 de enero de 1994.
 
@@ -369,7 +369,17 @@ XIX. Procurar la defensa de los derechos e intereses de los propietarios o posee
 
 XX. Establecer los mecanismos para el debido cumplimiento que en materia de catastro tienen los propietarios o poseedores de bienes inmuebles, servidores públicos, corredores, notarios y demás fedatarios que por disposición legal tengan funciones notariales.
 
-XXI. Cumplir las demás facultades que contribuyan a la eficaz realización del objeto de su creación, las que por acuerdo o convenio le encomienden el C. Gobernador, el Secretario de Hacienda Pública y Tesorería o los Presidentes de los Ayuntamientos, y las demás que por Ley, Decreto o Reglamento les sean conferida.
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2016)</small>
+
+XXI. Coordinar, asesorar y realizar los alineamientos de los predios ubicados en el Estado, en coadyuvancia con los municipios.
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2016)</small>
+
+XXII. Cumplir las demás facultades que contribuyan a la eficaz realización del objeto de su creación, las que por acuerdo o convenio le encomienden el C. Gobernador, el Secretario de Administración y Finanzas o los Presidentes de los Ayuntamientos, y las demás que por Ley, Decreto o Reglamento les sean conferida.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2016)</small>
+
+Las solicitudes, dictaminaciones, pagos y emisión de documentos o constancias que genere el Instituto podrán ser realizados por medios electrónicos sin que sea afectada su validez jurídica.
 
 ### CAPITULO SEXTO. DE LA ORGANIZACION DEL INSTITUTO
 
@@ -945,7 +955,7 @@ EL SECRETARIO DE HACIENDA PUBLICA Y TESORERIA
 
 Marco Antonio Fox Cruz
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS QUE REFORMAN A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS QUE REFORMAN A LA PRESENTE LEY.]</small>
 
 P.O. 21 DE DICIEMBRE DE 1994.
 
@@ -998,3 +1008,13 @@ Artículo Único.- El presente decreto se publicará en el Periódico Oficial "E
 P.O. 26 DE AGOSTO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 24 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 562 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE GESTIÓN EMPRESARIAL Y REFORMA REGULATORIA, LEY DE FOMENTO A LA INVERSIÓN PARA EL DESARROLLO ECONÓMICO, LEY DE HACIENDA MUNICIPAL, LEY DE CATASTRO, LEY DE AGUA POTABLE Y ALCANTARILLADO, LEY DE PROTECCIÓN CIVIL Y LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+TERCERO. En un plazo de noventa días se deberán realizar las adecuaciones correspondientes a los Reglamentos de la Ley de Hacienda Municipal, Ley de Catastro, Ley de Agua Potable y Alcantarillado, Ley de Protección Civil, y Ley de Gobierno Municipal, todas del Estado, respectivamente, a efecto de establecer el procedimiento para llevar a cabo las solicitudes, dictaminaciones, pagos y emisión de documentos o constancias qua se generen por medios electrónicos.
