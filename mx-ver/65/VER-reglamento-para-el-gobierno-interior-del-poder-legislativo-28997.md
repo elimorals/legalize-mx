@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-el-gobierno-interior-del-poder-legislativo-2899
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-17"
-last_updated: "2014-07-08"
+last_updated: "2016-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE JUNIO DE 2016.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 17 de febrero de 2003.
 
@@ -667,6 +667,10 @@ La competencia de las comisiones permanentes deriva de su denominación, con rel
 
 La Comisión Permanente de Equidad, Género y Familia cada año organizará el Parlamento de las Mujeres Veracruzanas en la sede que determine el Pleno o, en su caso, la Diputación Permanente.
 
+> <small>(ADICIONADO, G.O. 24 DE JUNIO DE 2016)</small>
+
+La Comisión Permanente de Trabajo y Previsión Social implementará la semana de la Seguridad Social la última semana del mes de abril de cada año, realizando coloquios o cursos que atañan al tema antes mencionado.
+
 ###### Artículo 62.
 
 En el área de su competencia, las comisiones permanentes ejercerán las funciones de análisis, estudio y dictamen de los asuntos que les fueren turnados por el Pleno o por la Permanente y participarán en las deliberaciones y discusiones de aquél.
@@ -933,7 +937,7 @@ III. Si hubiere duda de algún diputado sobre el sentido de la votación, éste 
 
 IV. El Secretario informará al Presidente de los resultados de la votación y éste, a su vez, hará la declaración de validez de la misma.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 98.
 
@@ -1646,3 +1650,15 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. La instrumentación de este Decreto quedará a cargo de la Coordinación de Informática de la Secretaría General, la que, en su caso, desarrollará la plataforma conducente para asegurar el envío, recepción y protección de datos, dentro de un plazo no mayor a tres meses a partir de la entrada en vigor del presente Decreto.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 24 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 886 QUE ADICIONA UN TERCER PÁRRAFO ALARTÍCULO (SIC) 61 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
