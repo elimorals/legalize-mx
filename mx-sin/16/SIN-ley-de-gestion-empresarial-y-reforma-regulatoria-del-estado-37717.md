@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gestion-empresarial-y-reforma-regulatoria-del-estado-377
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-25"
-last_updated: "2009-06-22"
+last_updated: "2016-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # LEY DE GESTION EMPRESARIAL Y REFORMA REGULATORIA DEL ESTADO DE SINALOA
 
-LEY DE GESTION EMPRESARIAL Y REFORMA REGULATORIA DEL ESTADO DE SINALOA
+LEY DE GESTIÓN EMPRESARIAL Y REFORMA REGULATORIA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 25 de febrero de 2004.
 
@@ -41,9 +41,11 @@ Ley de Gestión Empresarial y Reforma Regulatoria del Estado de Sinaloa
 
 ### Capítulo Único. Del Objeto y Aplicación de la Ley
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2016)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social, de aplicación en todo el Estado, y tiene por objeto:
+La presente Ley es de orden público e interés social, de aplicación en todo el Estado, y tiene por objeto la implementación de la Política Pública de Reforma Regulatoria para el Estado y los Municipios, mediante las acciones siguientes:
 
 I. Establecer las bases de funcionamiento del Programa Estatal de Gestión Empresarial y Reforma Regulatoria;
 
@@ -85,7 +87,7 @@ I. CEDE: Centro de Desarrollo Empresarial;
 
 II. Comisión: Comisión Estatal de Gestión Empresarial y Reforma Regulatoria;
 
-III. Consejo Consultivo: Consejo Consultivo para la Gestión Empresarial y la Reforma Regulatoria;
+III. (DEROGADA, P.O. 24 DE JUNIO DE 2016)
 
 IV. Dependencias: Las secretarías y sus órganos administrativos desconcentrados, las entidades que dependen directamente del Ejecutivo Estatal; los organismos descentralizados estatales, las empresas de participación estatal mayoritaria, los fideicomisos públicos estatales que formen parte de la administración pública paraestatal, en los que el fideicomitente sea alguna de las entidades señaladas; así como las presidencias municipales y sus órganos administrativos desconcentrados, las entidades que dependan directamente de la presidencia municipal, los organismos descentralizados, los fideicomisos y las empresas de participación municipal mayoritaria que formen parte de la administración pública paramunicipal, que celebren convenio con la Comisión;
 
@@ -97,27 +99,39 @@ VII. Ley: Ley de Gestión Empresarial y Reforma Regulatoria del Estado de Sinalo
 
 VIII. Manifestación: Manifestación de Impacto Regulatorio;
 
-IX. Programa: Programa Estatal de Gestión Empresarial y Reforma Regulatoria;
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2016)</small>
 
-X. Secretaría: Secretaría de Desarrollo Económico del Gobierno del Estado;
+IX. Registro: Registro Sinaloense de Trámites y Servicios;
 
-XI. SSARE: Sistema Sinaloense de Apertura Rápida Empresarial y sus diversas modalidades, consistente en todos aquellos mecanismos tendientes a lograr en el menor tiempo posible la realización de los trámites estatales y municipales de apertura de las empresas; y,
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2016)</small>
+
+X. Plan: Plan anual de gestión empresarial, reforma regulatoria y simplificación administrativa derivado del Programa Estatal de Gestión Empresarial y Reforma Regulatoria;
+
+XI. Programa: Programa Estatal de Gestión Empresarial y Reforma Regulatoria;
+
+XII. Secretaría: Secretaría de Desarrollo Económico del Gobierno del Estado;
+
+XIII. SSARE: Sistema Sinaloense de Apertura Rápida Empresarial y sus diversas modalidades, consistente en todos aquellos mecanismos tendientes a lograr en el menor tiempo posible la realización de los trámites estatales y municipales de apertura de las empresas; y,
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
 
-XII. URGE: Unidad Rápida de Gestión Empresarial, cuyo objetivo es ofrecer los servicios de Gestión Empresarial en los Municipios, en otras dependencias y organismos.
+XIV. URGE: Unidad Rápida de Gestión Empresarial, cuyo objetivo es ofrecer los servicios de Gestión Empresarial en los Municipios, en otras dependencias y organismos.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
 
 ###### Artículo 5.
 
-La aplicación de la presente Ley corresponde al Ejecutivo Estatal por conducto de la Secretaría, a los órganos previstos en la misma, a los presidentes municipales y a las autoridades estatales y municipales, en sus respectivos ámbitos de competencia.
+La aplicación de la presente Ley corresponde al Ejecutivo Estatal por conducto de la Comisión, a los órganos previstos en la misma, a los presidentes municipales y a las autoridades estatales y municipales, en sus respectivos ámbitos de competencia.
 
 ###### Artículo 6.
 
 Las disposiciones de esta Ley se aplicarán a los actos de autoridad, procedimientos y resoluciones de las Dependencias, a los servicios que los gobiernos estatal y municipales presten de manera exclusiva y a los contratos que los particulares puedan celebrar con los mismos con motivo de la prestación de servicios públicos, que incidan en la actividad empresarial y en los servicios de atención a la ciudadanía.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
+
 ###### Artículo 7.
 
-Para el cumplimiento y ejecución de la presente Ley, el Ejecutivo Estatal por conducto de la Secretaría o de la Comisión, podrá celebrar convenios de colaboración, coordinación, concertación o asociación con autoridades federales, estatales y municipales, así como con los sectores social, privado y académico. Corresponde al Ejecutivo Estatal la celebración de acuerdos interinstitucionales con uno o varios órganos gubernamentales extranjeros u organizaciones internacionales.
+Para el cumplimiento y ejecución de la presente Ley, el Ejecutivo Estatal por conducto de la Comisión, podrá celebrar convenios de colaboración, coordinación, concertación o asociación con autoridades federales, estatales y municipales, así como con los sectores social, privado y académico. Corresponde al Ejecutivo Estatal la celebración de acuerdos interinstitucionales con uno o varios órganos gubernamentales extranjeros u organizaciones internacionales.
 
 ###### Artículo 8.
 
@@ -139,7 +153,9 @@ Se establece el Programa Estatal de Gestión Empresarial y Reforma Regulatoria, 
 
 El Programa Estatal de Gestión Empresarial y Reforma Regulatoria, tiene los siguientes objetivos:
 
-I. Integrar la acción del Estado y los Municipios para organizar y mejorar su capacidad de respuesta a través de regulaciones claras, sencillas y transparentes;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2016)</small>
+
+I. Integrar la acción de la Federación, el Estado y los Municipios para organizar y mejorar su capacidad de respuesta a través de regulaciones claras, sencillas y transparentes;
 
 II. Conformar una cultura de reforma regulatoria que convoque y sume el interés de la población, así como su participación individual y colectiva;
 
@@ -151,17 +167,15 @@ V. Unir esfuerzos para procurar reducir los tiempos y costos derivados de las di
 
 ###### Artículo 12.
 
-Para el cumplimiento de los fines de la presente Ley y el logro de los objetivos del Programa, se crean los órganos siguientes:
-
-I. La Comisión Estatal de Gestión Empresarial y Reforma Regulatoria; y,
-
-II. El Consejo Consultivo para la Gestión Empresarial y la Reforma Regulatoria.
+(DEROGADO, P.O. 24 DE JUNIO DE 2016)
 
 ### Capítulo Segundo. De la Comisión Estatal de Gestión Empresarial y Reforma Regulatoria
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
+
 ###### Artículo 13.
 
-Se crea la Comisión Estatal de Gestión Empresarial y Reforma Regulatoria, como un organismo público descentralizado de la administración pública estatal con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Desarrollo Económico.
+Se crea la Comisión Estatal de Gestión Empresarial y Reforma Regulatoria como un organismo público descentralizado de la administración pública estatal con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Desarrollo Económico, para el cumplimiento de los fines de la presente Ley y el logro de los objetivos del Programa.
 
 ###### Artículo 14.
 
@@ -173,11 +187,17 @@ La Comisión tendrá las siguientes facultades y obligaciones:
 
 I. Establecer políticas y acciones para contar con un eficiente marco regulatorio estatal, que permita elevar la competitividad al Estado, a los Municipios y a la comunidad empresarial, así como planear y actuar con visión de largo plazo, brindando certeza jurídica a toda actividad económica y mejorando los esquemas de gestión empresarial y ciudadana;
 
-II. Realizar tareas de colaboración con las dependencias estatales, las dependencias y entidades paraestatales de la administración pública federal y de los Municipios, los sectores privado y social, para promover, detectar, revisar y analizar propuestas de reforma regulatoria que impulsen al Estado a lograr competitividad y el liderazgo nacional en la materia;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2016)</small>
 
-III. Establecer un proyecto de gestión empresarial, reforma regulatoria y simplificación administrativa de corto, mediando (sic) y largo plazo, así como los mecanismos de medición de avance;
+II. Realizar tareas de colaboración con las dependencias federales, estatales, y municipales y sus entidades paraestatales, los sectores privado y social, para promover, detectar, revisar y analizar propuestas de reforma regulatoria que impulsen al Estado a lograr competitividad y el liderazgo nacional en la materia;
 
-IV. Instituir mecanismos innovadores de atención y gestión de trámites y servicios, para la instalación, apertura y operación de empresas;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2016)</small>
+
+III. Establecer el Plan, así como los mecanismos de medición de avance y evaluación;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2016)</small>
+
+IV. Instituir los medios digitales en la atención y gestión de trámites y servicios, para la instalación, apertura y operación de empresas;
 
 V. Evaluar, como proceso de mejora continua, las políticas de regulación y los instrumentos que aplican en esta materia en el ámbito nacional e internacional, con el objeto de actualizar, mejorar e implementar aquellas que mayores beneficios aporten al Estado;
 
@@ -205,15 +225,15 @@ XVI. Las demás establecidas por esta Ley, su Reglamento y otras disposiciones l
 
 #### Sección Primera. De los Órganos y Funcionamiento de la Comisión
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
+
 ###### Artículo 16.
 
 La Comisión contará con los siguientes órganos:
 
-I. Una Junta Directiva, como órgano de gobierno;
+I. Una Junta Directiva, como órgano de gobierno; y
 
-II. Una Dirección General, como órgano de administración; y,
-
-III. Un Consejo Consultivo para la Gestión Empresarial y la Reforma Regulatoria, como órgano de consulta y vinculación con los sectores social y privado.
+II. Una Dirección General, como órgano de administración.
 
 ###### Artículo 17.
 
@@ -225,17 +245,27 @@ II. Por el Secretario General de Gobierno;
 
 III. Por el Secretario de Administración y Finanzas;
 
-IV. Por el Secretario de Planeación y Desarrollo;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2016)</small>
 
-V. Por el Secretario de la Contraloría y Desarrollo Administrativo;
+IV. Secretario de Desarrollo Social y Humano;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2016)</small>
+
+V. Titular de la Unidad de Transparencia y Rendición de Cuentas;
 
 VI. Por el Secretario de Agricultura, Ganadería y Pesca;
 
-VII. Por el Coordinador General de Turismo;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2016)</small>
 
-VIII. Por un Presidente Municipal, nombrado por sus homólogos;
+VII. Secretario de Turismo;
 
-IX. Por representantes de los siguientes organismos:
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2016)</small>
+
+VIII. Secretario de Innovación Gubernamental;
+
+IX. Por un Presidente Municipal, nombrado por sus homólogos;
+
+X. Por representantes de los siguientes organismos:
 
 A) Del Consejo para el Desarrollo Económico de Sinaloa;
 
@@ -255,13 +285,21 @@ H) De la Cámara Nacional de la Industria de Restaurantes y Alimentos Condimenta
 
 I) De la Asociación de Mujeres Empresarias de Sinaloa.
 
-X. Por el Director General de la Comisión, quien fungirá como Secretario, sólo con derecho a voz.
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2016)</small>
 
-Los integrantes de la Junta Directiva desempeñarán su cargo en forma honorífica. El suplente del Presidente de la Junta lo será el Subsecretario de Fomento Económico. En los casos a que se refieren las fracciones de la II a la VII, el suplente deberá tener un nivel de Subsecretario. El Presidente Municipal será suplido por otro nombrado por sus homólogos. A los integrantes a que alude la fracción IX los suplirá quién determine el organismo al que representan.
+XI. Por el Director General de la Comisión, quien fungirá como Secretario Técnico.
 
-Los propietarios y suplentes a que se refiere la fracción IX, durarán en su ejercicio un lapso no mayor a cuatro años, pudiendo ser nombrados para otro ejercicio.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
 
-Los integrantes a los que se refieren las fracciones de la I a la IX, tendrán derecho a voz y voto. El Presidente podrá invitar a las personas que considere pertinentes en relación al asunto a tratar, sólo con derecho a voz.
+Los integrantes de la Junta Directiva desempeñarán su cargo en forma honorífica. El suplente del Presidente de la Junta será el Subsecretario que el titular designe. En los casos a que se refieren las fracciones de la II a la VIII, el suplente deberá tener un nivel de Subsecretario. El Presidente Municipal será suplido por otro nombrado por sus homólogos. A los integrantes a que alude la fracción X los suplirá quién determine el organismo al que representan.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
+
+Los propietarios y suplentes a que se refiere la fracción X durarán en su ejercicio un lapso no mayor a cuatro años, pudiendo ser nombrados para otro ejercicio.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
+
+Los integrantes a los que se refieren las fracciones de la I a la X, tendrán derecho a voz y voto. El Presidente podrá invitar a las personas que considere pertinentes en relación al asunto a tratar, sólo con derecho a voz.
 
 ###### Artículo 18.
 
@@ -275,7 +313,9 @@ La Junta Directiva tendrá las siguientes atribuciones:
 
 I. Definir los criterios, prioridades y metas de la Comisión;
 
-II. Autorizar el proyecto de gestión empresarial, reforma regulatoria y simplificación administrativa de corto, mediano y largo plazo, así como los mecanismos de medición de avance;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2016)</small>
+
+II. Autorizar el Programa, así como los mecanismos de medición de avance y evaluación;
 
 III. Aprobar el proyecto de presupuesto anual de la Comisión y su programa para el mismo ejercicio, a propuesta de su Director General;
 
@@ -285,7 +325,7 @@ V. Decidir el uso y destino de los recursos autorizados y la aplicación de ingr
 
 VI. Aprobar a propuesta del Director General, la administración desconcentrada de funciones, programas y recursos;
 
-VII. Evaluar la operación de los instrumentos del Programa Estatal de Gestión Empresarial y Reforma Regulatoria;
+VII. (DEROGADA, P.O. 24 DE JUNIO DE 2016)
 
 VIII. Aprobar el proyecto de Reglamento Interior de la Comisión y someterlo a consideración del Ejecutivo Estatal, para los efectos constitucionales correspondientes; y,
 
@@ -299,7 +339,7 @@ I. Dirigir técnica y administrativamente a la Comisión;
 
 II. Ejecutar los acuerdos de la Junta Directiva;
 
-III. Dar a conocer a la Junta Directiva las propuestas del Consejo Consultivo de la Comisión;
+III. (DEROGADA, P.O. 24 DE JUNIO DE 2016)
 
 IV. Informar a la Junta Directiva sobre el ejercicio de las facultades que esta Ley le otorga;
 
@@ -321,7 +361,9 @@ XII. Coordinar la ejecución de los programas de gestión empresarial y reforma 
 
 XIII. Brindar asesoría técnica y capacitación en materia de reforma regulatoria a las Dependencias;
 
-XIV. Coordinar y operar el CAE, sus Unidades y Módulos, para brindar una atención especializada, integral y de calidad a los particulares, a través de los instrumentos de gestión y asesoría de trámites vigentes, así como de los programas federales, estatales y municipales de apoyo a las empresas;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2016)</small>
+
+XIV. Coordinar y operar sus Unidades y Módulos para brindar una atención especializada, integral y de calidad a los particulares, a través de los instrumentos de gestión y asesoría de trámites vigentes, así como de los programas federales, estatales y municipales de apoyo a las empresas;
 
 XV. Coordinar y operar el Sistema Sinaloense de Apertura Rápida Empresarial y sus diversas modalidades;
 
@@ -337,7 +379,9 @@ XX. Proponer a la Junta Directiva el proyecto de presupuesto anual de la Comisi�
 
 XXI. Promover los servicios que preste la Comisión conforme a su objeto y funciones; de igual manera establecer las alianzas estratégicas con las autoridades federales, estatales y municipales, así como con los sectores social y privado;
 
-XXII. Suscribir en coordinación con el Presidente, convenios de colaboración, coordinación, concertación o asociación con las dependencias, con los Municipios y sus organismos paramunicipales, así como de cooperación técnica y científica con instituciones públicas y privadas, y en general todos aquellos actos en los que la Comisión sea parte;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2016)</small>
+
+XXII. Suscribir en coordinación con el Presidente, convenios de colaboración, coordinación, concertación o asociación con las dependencias federales, estatales y municipales y sus organismos, así como de cooperación técnica y científica con instituciones públicas y privadas, y en general todos aquellos actos en los que la Comisión sea parte;
 
 XXIII. Proponer en el ámbito de su competencia y en coordinación con la Secretaría, de conformidad con la legislación aplicable, la suscripción de acuerdos interinstitucionales a formalizarse con uno o varios órganos gubernamentales extranjeros u organizaciones internacionales, para intercambios o colaboración en relación a la materia;
 
@@ -367,7 +411,9 @@ El patrimonio de la Comisión estará formado por:
 
 I. Los recursos que anualmente le sean asignados en la Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa, que no serán menores al equivalente del cinco por ciento del Impuesto Sobre Nómina del ejercicio anterior;
 
-II. Los subsidios, aportaciones extraordinarias y donativos que anualmente le sean asignados por los gobiernos municipales, para la implementación del Programa y su difusión, así como para la operación y funcionamiento de las Unidades del CAE en los Municipios;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2016)</small>
+
+II. Los subsidios, aportaciones extraordinarias y donativos que anualmente le sean asignados por los gobiernos municipales para la implementación del Programa y su difusión, así como para la operación y funcionamiento de las Unidades Rápidas de Gestión Empresarial en los Municipios;
 
 III. Las aportaciones, subsidios y demás recursos que transfieran a su favor los gobiernos federal, estatal y municipal;
 
@@ -375,77 +421,33 @@ IV. Los subsidios, legados, donaciones y demás liberalidades que reciba de los 
 
 V. Los bienes muebles e inmuebles y los activos que adquiera o reciba para el ejercicio de sus funciones.
 
-#### Sección Segunda. Del Consejo Consultivo para la Gestión Empresarial y la Reforma Regulatoria
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE JUNIO DE 2016)</small>
+
+#### Sección Segunda
 
 ###### Artículo 22.
 
-Se crea el Consejo Consultivo para la Gestión Empresarial y la Reforma Regulatoria, como un órgano de consulta y vinculación con los sectores social y privado.
+(DEROGADO, P.O. 24 DE JUNIO DE 2016)
 
 ###### Artículo 23.
 
-El Consejo Consultivo de la Comisión analizará, opinará y hará propuestas a la Junta Directiva y al Director General sobre las políticas, programas y acciones públicas para la gestión empresarial y reforma regulatoria.
+(DEROGADO, P.O. 24 DE JUNIO DE 2016)
 
 ###### Artículo 24.
 
-El Consejo Consultivo para la Gestión Empresarial y la Reforma Regulatoria, estará integrado por:
-
-I. Un Presidente, que será el Gobernador Constitucional del Estado;
-
-II. Un Vicepresidente, que será el Secretario de Desarrollo Económico;
-
-III. Cinco Consejeros del Gobierno del Estado, que serán el Secretario General de Gobierno, el Secretario de Administración y Finanzas, el Secretario de la Contraloría y Desarrollo Administrativo, el Secretario de Salud y el Secretario de Agricultura, Ganadería y Pesca;
-
-IV. Veintitrés Consejeros, a invitación del Presidente, que serán designados de la siguiente manera:
-
-A) Seis a propuesta del Consejo para el Desarrollo Económico de Sinaloa, de las cuatro regiones del Estado contempladas en su normatividad, preferentemente que representen la diversidad de sectores;
-
-B) Nueve a propuesta de los representantes estatales de los siguientes organismos: Confederación Patronal de la República Mexicana, Cámara Nacional de la Industria y la Transformación, Federación de Cámaras Nacionales de Comercio, Cámara Mexicana de la Industria de la Construcción, Cámara Nacional de la Industria de Restaurantes y Alimentos Condimentados, Confederación de Asociaciones Agrícolas del Estado de Sinaloa, Asociación Mexicana de Mujeres Jefas de Empresas; Ejecutivos de Ventas y Mercadotecnia, A.C.; Asociación de Colegios de Profesionistas;
-
-C) Dos representantes del Sector Turístico;
-
-D) Tres representantes del Sector Académico; y,
-
-E) Tres representantes del Sector Social;
-
-V. Dieciocho Consejeros Municipales, que serán los Presidentes Municipales de cada Municipio del Estado;
-
-VI. Cinco Consejeros de la Federación a invitación del Presidente, que serán los Delegados en el Estado:
-
-A) De la Secretaría de Economía;
-
-B) De la Secretaría del Trabajo y Previsión Social;
-
-C) De la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
-
-D) De la Secretaría de Medio Ambiente y Recursos Naturales; y,
-
-E) De la Procuraduría Federal de Protección al Ambiente.
-
-VII. Tres Diputados del Congreso del Estado nombrados por la Gran Comisión, preferentemente de entre los integrantes de la Comisión de Desarrollo Económico.
-
-Los cargos que desempeñen los Consejeros serán honoríficos y tendrán derecho a voz y voto.
-
-El Presidente en relación a los temas que se vayan a tratar podrá invitar a las personas que estime pertinentes.
+(DEROGADO, P.O. 24 DE JUNIO DE 2016)
 
 ###### Artículo 25.
 
-El Vicepresidente presidirá el Consejo Consultivo en ausencia del Presidente.
-
-Por cada propietario se designará un suplente. Dicha designación y cualquier cambio, deberá ser notificado por escrito al Vicepresidente del Consejo Consultivo, para quedar debidamente acreditado.
+(DEROGADO, P.O. 24 DE JUNIO DE 2016)
 
 ###### Artículo 26.
 
-El Consejo Consultivo sesionará de manera semestral a convocatoria del Presidente o del Vicepresidente.
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
-
-El Consejo Consultivo sesionará de manera específica y bajo consideración y convocatoria del Presidente o del Vicepresidente.
-
-El Consejo Consultivo funcionará conforme a los términos establecidos en el Reglamento de esta Ley.
+(DEROGADO, P.O. 24 DE JUNIO DE 2016)
 
 ###### Artículo 27.
 
-Los acuerdos del Consejo Consultivo serán tomados preferentemente por consenso. Cuando sea necesario someter a votación algún asunto, los acuerdos se tomarán por mayoría y en caso de empate, el Presidente del Consejo Consultivo, o en su ausencia el Vicepresidente, tendrán voto de calidad.
+(DEROGADO, P.O. 24 DE JUNIO DE 2016)
 
 ## Título Tercero. De la Instrumentación del Programa Estatal de Gestión Empresarial y Reforma Regulatoria
 
@@ -459,9 +461,9 @@ La Comisión para el funcionamiento y operación del Programa Estatal de Gestió
 
 I. El Centro de Desarrollo Empresarial;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2016)</small>
 
-II. Las Unidades URGE;
+II. Las Unidades Rápidas de Gestión Empresarial;
 
 III. El Sistema Sinaloense de Apertura Rápida Empresarial;
 
@@ -469,11 +471,19 @@ IV. El Registro Sinaloense de Trámites y Servicios;
 
 V. El Sistema Electrónico de Trámites y Servicios;
 
-VI. El Registro de Personas Acreditadas; y,
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2016)</small>
 
-VII. Los demás que determine la Comisión.
+VI. El Registro de Personas Acreditadas;
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 2009)</small>
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2016)</small>
+
+VII. La Manifestación de Impacto Regulatorio; y,
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2016)</small>
+
+VIII. Las demás que determine la Comisión.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 2009)</small>
 
 ### Capítulo Segundo. Del Centro de Desarrollo Empresarial
 
@@ -489,7 +499,7 @@ Se crea el Centro de Desarrollo Empresarial como instancia para la gestión de t
 
 El CEDE brindará servicios de gestión, asesoría, información y orientación de trámites de competencia federal, estatal y municipal; así como de todos los servicios y programas que ofrece la Secretaría a los empresarios, a particulares y a las diversas instancias del sector público y privado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2009)</small>
 
 ###### Artículo 31.
 
@@ -507,7 +517,7 @@ V. Apoyar a los empresarios y particulares en la realización de trámites ante 
 
 VI. Las demás que establezca la Comisión, esta Ley y otras disposiciones legales, reglamentarias y administrativas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 2009)</small>
 
 ### Capítulo Tercero. De las Unidades Rápidas de Gestión Empresarial
 
@@ -517,7 +527,9 @@ VI. Las demás que establezca la Comisión, esta Ley y otras disposiciones legal
 
 La Comisión podrá instalar URGES en los Municipios y en las Dependencias, y módulos en los institutos, cámaras, asociaciones u organismos de los sectores social y privado, con la finalidad de acercar los servicios a los empresarios en todo el Estado. Para tal efecto la Comisión deberá celebrar el convenio correspondiente, en el cual se establezcan las atribuciones y lineamientos a los que se deberán sujetar el CEDE y los URGES.
 
-Cada URGE que se instale en los Municipios contará con un responsable designado por el Director General de la Comisión, a propuesta del Presidente Municipal, quien coordinará las acciones de la Unidad y será el encargado de llevar a cabo el Programa de Gestión Empresarial y Reforma Regulatoria en el Municipio. Deberá reportar e informar a la Comisión dentro de los primeros cinco días de cada mes, sobre la operación de la Unidad y los avances en reforma regulatoria.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
+
+Cada URGE que se instale en los Municipios contará con un responsable quien coordinará sus acciones, quien será designado por el Director General de la Comisión a propuesta del Presidente Municipal.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
 
@@ -539,7 +551,7 @@ I. Se implementen diversas modalidades para la apertura rápida empresarial, de 
 
 A) La General, que aplica a todos los giros que requieran construcción y dictamen ambiental entre otros;
 
-B) La de Ocho Horas y la modalidad Uno, para ciertos giros comerciales y de servicios; y,
+B) (DEROGADO, P.O. 24 DE JUNIO DE 2016)
 
 C) Otras que podrán crearse en el Reglamento de esta Ley;
 
@@ -567,9 +579,17 @@ I) Informe preventivo;
 
 J) Manifestación de impacto ambiental;
 
-K) Aviso de alta en el registro de impuestos estatales; y,
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
 
-L) Dictamen de impacto vial.
+K) Aviso de alta en el registro de impuestos estatales;
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
+
+L) Dictamen de impacto vial; y,
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2016)</small>
+
+M) Todos aquellos que puedan ser susceptibles de incluirse.
 
 Éste será el único formato requerido para la solicitud de trámites de apertura por las Dependencias involucradas;
 
@@ -581,11 +601,11 @@ IV. Se podrá enlazar con los trámites federales de apertura. Dicho enlace ser�
 
 Las Dependencias estatales y municipales instrumentarán en el ámbito de su competencia el SSARE en sus diversas modalidades.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
 
 ###### Artículo 37.
 
-El SSARE se requisitará a través del Formato Único impreso o en forma electrónica, para su presentación en el CEDE o en las Unidades URGE, de donde se remitirá a la autoridad correspondiente para su dictaminación.
+El SSARE se requisitará a través del Formato Único impreso o en forma electrónica, para su presentación en el CEDE o en las URGE, de donde se remitirá a la autoridad correspondiente para su dictaminación.
 
 ### Capítulo Quinto. Del Registro Sinaloense de Trámites y Servicios
 
@@ -637,11 +657,11 @@ La información a que se refiere el artículo 40 de esta Ley, deberá entregarse
 
 Las Dependencias deberán notificar a la Comisión, cualquier modificación a la información inscrita en el Registro, dentro de los diez días hábiles posteriores a que entre en vigor la disposición que fundamente dicha modificación.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
+
 ###### Artículo 42.
 
-Las Dependencias que ofrezcan trámites y servicios al particular, deberán tener a disposición del público la información que al respecto esté inscrita en el Registro.
-
-Cada Dependencia publicará en el Periódico Oficial "El Estado de Sinaloa" la información registrada.
+Las Dependencias que ofrezcan trámites y servicios, deberán tener a disposición del público la información que al respecto esté inscrita en el Registro.
 
 ###### Artículo 43.
 
@@ -845,7 +865,7 @@ Las Dependencias deberán entregar de manera periódica a la Comisión, la infor
 
 Con el fin de agilizar la gestión gubernamental y empresarial, la actividad económica y el establecimiento, ampliación, reubicación y operación de negocios, la Comisión presentará ante las Dependencias correspondientes, propuestas para la reforma o adición a la normatividad vigente a efecto de adoptar cuando sea conveniente, la figura de afirmativa ficta, mejorar la regulación y evitar la discrecionalidad.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 2009)</small>
 
 ### Capítulo Tercero. Del Sistema de Verificación Empresarial
 
@@ -865,17 +885,17 @@ Con el fin de agilizar la gestión gubernamental y empresarial, la actividad eco
 
 (DEROGADO, P.O. 22 DE JUNIO DE 2009)
 
-### Capítulo Cuarto. De las Sanciones Administrativas por Obstrucción a la Gestión Empresarial y a la Reforma Regulatoria
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE JUNIO DE 2016)</small>
+
+### Capítulo Cuarto. De la Queja por Obstrucción Empresarial
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
 
 ###### Artículo 73.
 
-El Director General de la Comisión presentará a la Secretaría de la Contraloría y Desarrollo Administrativo del Gobierno del Estado o a la Contraloría Municipal correspondiente, las quejas que se reciban en contra de servidores públicos, por incumplimiento a lo previsto en esta Ley, en los términos acordados en el seno de la Junta Directiva.
+La Queja por Obstrucción Empresarial es la manifestación formal ante la Comisión, mediante documento físico o electrónico del empresario o emprendedor, de los actos y hechos ejercidos por servidores públicos que presuntamente le impiden el desarrollo de su empresa.
 
-###### Artículo 74.
-
-Además de los supuestos establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa, el Director General de la Comisión, previo acuerdo de la Junta Directiva, podrá recomendar a la dependencia competente fincar sanciones administrativas a servidores públicos que obstruyan el establecimiento y operación de empresas. El procedimiento para presentar los casos de obstrucción empresarial se hará conforme al Reglamento de esta Ley.
-
-Se considerará obstrucción empresarial, cualquiera de las conductas siguientes:
+Se consideran obstrucción empresarial las siguientes conductas:
 
 I. Incumplimiento de plazos de respuesta establecidos;
 
@@ -883,7 +903,7 @@ II. Uso indebido de la información por atentar contra la naturaleza confidencia
 
 III. Pérdida de documentos;
 
-IV. Solicitud de donaciones o apoyos, para beneficio particular;
+IV. Solicitud de donaciones o apoyos para beneficio particular;
 
 V. Alteración de reglas y procedimientos;
 
@@ -895,59 +915,45 @@ VIII. Manejo indebido de la firma electrónica que pueda generar el otorgar o ne
 
 IX. Negligencia o negativa en la aplicación de un trámite por desconocimiento de la normatividad aplicable; y,
 
-X. Aquellas que incidan en perjuicio del establecimiento y operación de empresas conforme lo determine la Junta Directiva.
+X. Aquéllas que incidan en perjuicio del establecimiento y operación de empresas conforme lo determine la Junta Directiva.
+
+La Queja por Obstrucción Empresarial será un medio alternativo de solución de la problemática del empresario y del emprendedor con el servidor público.
+
+El Director General de la Comisión comunicará a la Unidad de Transparencia y Rendición de Cuentas del Gobierno del Estado o a la Contraloría Municipal correspondiente, las quejas que se reciban en contra de servidores públicos, por incumplimiento a lo previsto en esta Ley, en los términos acordados en el seno de la Junta Directiva.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
+
+###### Artículo 74.
+
+La Junta Directiva determinara si en la queja presentada se cumple con alguno de los supuestos considerados por el artículo anterior como obstrucción empresarial.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
 
 ###### Artículo 75.
 
-Es causa de responsabilidad, el incumplimiento de esta Ley y su Reglamento, y serán aplicables las sanciones previstas en la misma, en la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa y en otras disposiciones aplicables en la materia.
+El Director General de la Comisión, previo acuerdo de la Junta Directiva, podrá realizar recomendaciones en materia de reforma regulatoria a la dependencia involucrada en la queja.
 
-La Dependencia competente podrá imponer las siguientes sanciones:
-
-I. Apercibimiento privado o público;
-
-II. Amonestación privada o pública;
-
-III. Suspensión;
-
-IV. Destitución;
-
-V. Sanción Económica; y,
-
-VI. Inhabilitación para desempeñar empleo, cargo o comisión en el servicio público.
-
-La aplicación de las anteriores sanciones se sujetará a lo dispuesto en los artículos 49, 50, 51, 52, 53 y demás relativos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa, sin perjuicio de la responsabilidad civil o penal en que puedan incurrir los servidores públicos.
+El procedimiento de los casos de obstrucción empresarial se hará conforme al Reglamento de esta Ley.
 
 ###### Artículo 76.
 
-Por lo que corresponde a los servidores públicos federales que incurran en la obstrucción empresarial, la Junta Directiva por conducto del Director General, enviará oficio a la dependencia federal correspondiente, señalando la conducta de obstrucción empresarial, para que en su caso, se proceda a imponer las sanciones procedentes de conformidad con la ley aplicable.
+(DEROGADO, P.O. 24 DE JUNIO DE 2016)
 
 ###### Artículo 77.
 
-La Junta Directiva a través del Director General podrá solicitar a la autoridad competente, aplique la sanción correspondiente a los titulares de las unidades y áreas administrativas que en un mismo empleo, cargo o comisión:
+(DEROGADO, P.O. 24 DE JUNIO DE 2016)
 
-I. Incumpla por dos veces el otorgar respuesta al interesado en el plazo determinado por la legislación, reglamento o decreto aplicable;
-
-II. Incumpla por dos veces lo dispuesto en el artículo 60 fracción II;
-
-III. Incumpla por dos veces en la entrega de la información a inscribirse o modificarse en el Registro Sinaloense de Trámites y Servicios respecto de trámites a realizarse por los particulares para cumplir una obligación, en los plazos señalados en esta Ley;
-
-IV. Incumpla por dos veces en la entrega al responsable de coordinar el proceso de reforma, los anteproyectos de actos a que se refiere el artículo 9° y las manifestaciones correspondientes, para efectos de lo dispuesto en el artículo 53;
-
-V. Exija de manera dolosa, trámites, datos o documentos adicionales a los previstos en el Registro Sinaloense de Trámites y Servicios, en contravención a lo dispuesto en el artículo 44;
-
-VI. Incumpla por dos veces lo dispuesto en el último párrafo del artículo 44; y,
-
-VII. Incumpla dos veces lo dispuesto en el artículo 53.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
 
 ###### Artículo 78.
 
-A los servidores públicos adscritos a la Comisión que en el cumplimiento de sus funciones incurran en responsabilidad, en términos de lo dispuesto en esta Ley, se les aplicarán las sanciones previstas en la misma y en la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa.
+Los servidores públicos adscritos a la Comisión que en cumplimiento de sus funciones incurran en responsabilidad, en términos de lo dispuesto en esta Ley, se sancionarán de conformidad con lo establecido en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa.
 
-> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 2009)</small>
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 2009)</small>
 
 ## Título Quinto. Del Servicio Profesional de Carrera
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 2009)</small>
 
 ### Capitulo único. Principios del Servicio Profesional de Carrera
 
@@ -1015,10 +1021,20 @@ El Secretario de Desarrollo Económico.
 
 Heriberto Félix Guerra.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 22 DE JUNIO DE 2009.
 
 ###### ARTICULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 24 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 562 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE GESTIÓN EMPRESARIAL Y REFORMA REGULATORIA, LEY DE FOMENTO A LA INVERSIÓN PARA EL DESARROLLO ECONÓMICO, LEY DE HACIENDA MUNICIPAL, LEY DE CATASTRO, LEY DE AGUA POTABLE Y ALCANTARILLADO, LEY DE PROTECCIÓN CIVIL Y LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+TERCERO. En un plazo de noventa días se deberán realizar las adecuaciones correspondientes a los Reglamentos de la Ley de Hacienda Municipal, Ley de Catastro, Ley de Agua Potable y Alcantarillado, Ley de Protección Civil, y Ley de Gobierno Municipal, todas del Estado, respectivamente, a efecto de establecer el procedimiento para llevar a cabo las solicitudes, dictaminaciones, pagos y emisión de documentos o constancias qua se generen por medios electrónicos.
