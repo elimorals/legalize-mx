@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-de-alfabetizacion-y-45308"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-14"
-last_updated: "2012-05-18"
+last_updated: "2016-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45308&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE ALFABETIZACIÓN Y EDUCACIÓN BÁSICA PARA ADULTOS DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2012.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE ALFABETIZACIÓN Y EDUCACIÓN BÁSICA PARA ADULTOS DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 24 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2016. (ABROGADA).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 14 de junio de 2005.
 
@@ -151,7 +153,7 @@ XVII. Coordinación de Soporte Técnico y Telecomunicaciones;
 
 > <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
-XVIII. Coordinación de Comunicación Social; y (sic)
+XVIII. Coordinación de Comunicación Social; y
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2012)</small>
 
@@ -355,7 +357,7 @@ XIII. (DEROGADA, P.O. 18 DE MAYO DE 2012)
 
 XIV. (DEROGADA, P.O. 18 DE MAYO DE 2012)
 
-XV. Impulsar propuestas didácticas que faciliten a los usuarios el desarrollo de las competencias necesarias; (sic)
+XV. Impulsar propuestas didácticas que faciliten a los usuarios el desarrollo de las competencias necesarias;
 
 XVI. (DEROGADA, P.O. 8 DE AGOSTO DE 2008)
 
@@ -807,7 +809,7 @@ IX. Actualizar los almacenes de mobiliario, equipo y materiales;
 
 > <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
-X. Elaborar e integrar el sistema contable del INAEBA, que permita obtener los estados financieros, periódicos y extraordinarios del ejercicio presupuestal, así como atender las obligaciones fiscales y contables del Organismo, conforme a la normatividad aplicable; y (sic)
+X. Elaborar e integrar el sistema contable del INAEBA, que permita obtener los estados financieros, periódicos y extraordinarios del ejercicio presupuestal, así como atender las obligaciones fiscales y contables del Organismo, conforme a la normatividad aplicable; y
 
 > <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1137,7 +1139,7 @@ IV. Proporcionar cursos de capacitación de los programas computacionales requer
 
 V. Coordinar y realizar las acciones necesarias para mantener en buen estado la señal satelital, que permita el adecuado uso del Internet requerido por el INAEBA;
 
-VI. Presentar para su autorización al Director de Servicios Escolares y Sistemas de Información, la planeación anual de sus servicios; y (sic)
+VI. Presentar para su autorización al Director de Servicios Escolares y Sistemas de Información, la planeación anual de sus servicios; y
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2012)</small>
 
@@ -1308,3 +1310,33 @@ Artículo Único. El presente Decreto entrará en vigencia el cuarto día siguie
 P.O. 18 DE MAYO DE 2012.
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL " REGLAMENTO INTERNO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE DURANGO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación
+
+Artículo Segundo. Se abroga el Decreto Gubernativo número 228, publicado en el Periódico Oficial del Gobierno del Estado número 94 Segunda Parte, del 14 de junio de 2005, que contiene el Reglamento Interior del Instituto de Alfabetización y Educación Básica para Adultos del Estado de Guanajuato, así como todas aquellas disposiciones normativas que se opongan al presente Decreto Gubernativo.
+
+Continuidad de trámites
+
+Artículo Tercero. Las unidades administrativas que por este Decreto se crean, absorberán los asuntos en trámite hasta su total conclusión de aquellas áreas que venían laborando en el INAEBA y que por medio del presente desaparecen de conformidad a la tabla siguiente:
+
+Anterior Denominación Nueva Denominación
+
+Dirección de Desarrollo Educativo Dirección Académica y Enlace Regional
+
+Direcciones Regionales A, B y C Coordinaciones Regionales Oeste, Centro y Este
+
+Dirección Administrativa Dirección de Administración
+
+Dirección de Planeación Dirección de Planeación y Evaluación
+
+Dirección de Servicios Escolares y Dirección de Control Escolar y Sistemas de Información Tecnologías de la Información
+
+Dirección de Asuntos Jurídicos Consejería Jurídica.
