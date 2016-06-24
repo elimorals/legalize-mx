@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-fomento-a-la-inversion-para-el-desarrollo-economico-1151
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-27"
-last_updated: "2016-02-12"
+last_updated: "2016-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE FOMENTO A LA INVERSIÓN PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 27 de noviembre de 1996.
 
@@ -49,9 +49,11 @@ La presente Ley tiene por objeto impulsar el desarrollo económico del Estado, a
 
 I.- Fomentar la inversión para el desarrollo económico de la Entidad sobre bases sustentables, promoviendo nuevas inversiones y favoreciendo el crecimiento de las ya existentes;
 
-II.- Promover la desregulación económica y simplificación administrativa a fin de crear un entorno altamente favorable y competitivo para impulsar las actividades económicas;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2016)</small>
 
-III.- Establecer la Ventanilla Unica de Gestión Empresarial que facilite el establecimiento y la operación de nuevos negocios;
+II.- Promover la Reforma Regulatoria a fin de crear un entorno altamente favorable y competitivo para impulsar las actividades económicas;
+
+III.- (DEROGADA, P.O. 24 DE JUNIO DE 2016)
 
 IV.- Generar nuevas fuentes de empleo y consolidar las existentes;
 
@@ -99,9 +101,9 @@ b).- Secretaría: Secretaría de Desarrollo Económico del Estado de Sinaloa o l
 
 c).- Codesin: Consejo para el Desarrollo Económico de Sinaloa. Organo mixto que coordinará y vinculará los esfuerzos de los organismos públicos, privados y sociales de la Entidad, relativos a la promoción económica de Sinaloa.
 
-d).- Comité o Comité Estatal de Desregulación: Instancia responsable de estudiar y proponer ante las autoridades competentes, medidas encaminadas a perfeccionar y simplificar leyes y reglamentos que permitan al Estado de Sinaloa contar con un marco jurídico-administrativo moderno y eficiente que favorezca e impulse el crecimiento económico.
+d).- (DEROGADO, P.O. 24 DE JUNIO DE 2016)
 
-e).- Ventanilla Unica o Ventanilla Unica de Gestión Empresarial: Instancia facilitadora dependiente de la Secretaría que tiene como fin coordinar y dar seguimiento integral a los trámites relacionados con la obtención de licencias, permisos y autorizaciones relacionadas con la creación, ampliación, reubicación y operación de establecimientos productivos.
+e).- (DEROGADO, P.O. 24 DE JUNIO DE 2016)
 
 f).- Ceprofies: Certificados de Promoción Fiscal del Estado de Sinaloa: Documento que emite la Comisión Dictaminadora mediante el cual el empresario se hace acreedor de los estímulos fiscales y derechos que esta Ley otorga.
 
@@ -1322,3 +1324,13 @@ P.O. 12 DE FEBRERO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+P.O. 24 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 562 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE GESTIÓN EMPRESARIAL Y REFORMA REGULATORIA, LEY DE FOMENTO A LA INVERSIÓN PARA EL DESARROLLO ECONÓMICO, LEY DE HACIENDA MUNICIPAL, LEY DE CATASTRO, LEY DE AGUA POTABLE Y ALCANTARILLADO, LEY DE PROTECCIÓN CIVIL Y LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+TERCERO. En un plazo de noventa días se deberán realizar las adecuaciones correspondientes a los Reglamentos de la Ley de Hacienda Municipal, Ley de Catastro, Ley de Agua Potable y Alcantarillado, Ley de Protección Civil, y Ley de Gobierno Municipal, todas del Estado, respectivamente, a efecto de establecer el procedimiento para llevar a cabo las solicitudes, dictaminaciones, pagos y emisión de documentos o constancias qua se generen por medios electrónicos.
