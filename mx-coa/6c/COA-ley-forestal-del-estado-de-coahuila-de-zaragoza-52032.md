@@ -4,7 +4,7 @@ identifier: "COA-ley-forestal-del-estado-de-coahuila-de-zaragoza-52032"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-03"
-last_updated: "2014-04-22"
+last_updated: "2016-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY FORESTAL DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 3 de octubre de 2006.
 
@@ -107,7 +107,7 @@ XXIII. Promover la creación, administración y funcionamiento de áreas natural
 
 XXIV. Promover la capacitación para el manejo forestal sustentable;
 
-XXV. Contribuir al funcionamiento y efectividad del sistema integral forestal nacional, regional, estatal y municipal, y (sic)
+XXV. Contribuir al funcionamiento y efectividad del sistema integral forestal nacional, regional, estatal y municipal, y
 
 XXVI. Impulsar la regulación en materia de impacto ambiental relacionada con la actividad forestal.
 
@@ -311,7 +311,9 @@ VII. Expedir, previo a su instalación las licencias o permisos, para el estable
 
 VIII. Diseñar, desarrollar y aplicar incentivos para promover el desarrollo forestal, de conformidad con esta ley, las propias municipales y los lineamientos de la política forestal del país;
 
-IX. Participar en la planeación y ejecución de la reforestación, forestación, restauración de suelos y conservación de los bienes y servicios ambientales forestales, dentro de (sic) ámbito territorial de su competencia;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2016)</small>
+
+IX. Crear y promover programas y proyectos de educación, capacitación, prevención, investigación y cultura forestal;
 
 X. Llevar a cabo, en coordinación con el Gobierno del Estado, acciones de saneamiento en los ecosistemas forestales dentro del ámbito de su competencia;
 
@@ -1234,3 +1236,9 @@ P.O. 17 DE DICIEMBRE DE 2013.
 P.O. 22 DE ABRIL DE 2014.
 
 ÚNICO.- El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 451.- SE REFORMA Y ADICIONA EL ARTÍCULO 13 EN SU FRACCIÓN IX DE LA LEY FORESTAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico oficial del Estado.
