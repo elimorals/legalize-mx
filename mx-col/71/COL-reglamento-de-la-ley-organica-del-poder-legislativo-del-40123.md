@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2016-06-18"
+last_updated: "2016-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2016.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -495,17 +495,23 @@ La Comisión de Gobierno se integrará por los coordinadores de los grupos parla
 
 La presidencia de la Comisión de Gobierno será ejercida por el Coordinador del Grupo Parlamentario, Diputado único de partido político o Diputado independiente que obtenga la mayoría de votos de los integrantes de la misma, quien ejercerá la presidencia durante el ejercicio constitucional de la Legislatura.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2016)</small>
 
 ###### Artículo 39.
 
-La Comisión de Gobierno será presidida por el Coordinador del Grupo Parlamentario que por sí solo represente la mayoría absoluta y, en caso de que ningún coordinador de Grupo Parlamentario, por sí solo la represente, recaerá en el Coordinador del Grupo Parlamentario que tenga el mayor número de diputados en los términos del artículo 47 de la Ley. Cuando según la conformación de la legislatura existan dos Grupos Parlamentarios, sólo se elegirá una secretaría, cuando existan tres o más grupos parlamentarios se elegirán dos secretarias y las vocalías necesarias. Las Secretarías serán ocupadas por los Coordinadores de los Grupos Parlamentarios que ocupen el segundo y tercer lugar por el número de Diputados que representen; los demás coordinadores tendrán el carácter de vocales.
+La Comisión de Gobierno Interno será presidida en los términos previstos por el artículo 47 de la ley. Cuando según la conformación de la legislatura existan dos Grupos Parlamentarios, sólo se elegirá una secretaría. Cuando existan tres o más grupos parlamentarios se elegirán dos secretarías y las vocalías necesarias. Las Secretarías serán ocupadas por los Coordinadores de los Grupos Parlamentarios restantes que ocupen el primer y segundo lugar por el número de diputados que representen; los demás coordinadores tendrán el carácter de vocales.
 
-En caso de que varios Grupos Parlamentarios tengan igual número de Diputados, la preeminencia la tendrá el del partido político que haya obtenido mayor número de diputados de mayoría relativa, si tuvieran el mismo número de diputados de mayoría, la preeminencia la tendrá el que tuviera mayor cantidad de votos en la elección de Diputados.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
+
+En caso de que varios Grupos Parlamentarios tengan igual número de Diputados, la preeminencia la tendrá el del partido político que haya obtenido mayor número de diputados de mayoría relativa, si tuvieran el mismo número de diputados de mayoría, la preeminencia la tendrá el que tuviera mayor cantidad de votos en la elección de Diputados. Para efectos de este artículo, no se contarán como parte del grupo parlamentario correspondiente a los diputados declarados como independientes.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2015)</small>
 
 En caso de cambio del Coordinador del Grupo Parlamentario que presida la Comisión de Gobierno, una vez efectuado éste, se emitirá acuerdo parlamentario reconociéndolo como Presidente de la misma, debiendo comunicarlo a las autoridades e instituciones correspondientes.
 
-Tendrán derecho a voz y voto los coordinadores de los Grupos Parlamentarios acreditados; los diputados únicos de un partido político o diputados independientes, tendrán exclusivamente derecho a voz.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
+
+Tendrán derecho a voz y voto los coordinadores de los Grupos Parlamentarios acreditados; los diputados únicos de un partido político o diputados independientes que no se hayan adherido o conformado un grupo parlamentario, tendrán exclusivamente derecho a voz.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2015)</small>
 
@@ -515,7 +521,9 @@ La Comisión de Gobierno se reunirá por lo menos una vez por semana, durante lo
 
 Independientemente de las reuniones ordinarias, la Comisión de Gobierno podrá celebrar extraordinarias cuantas veces sea necesario o existan asuntos que lo ameriten a juicio del Presidente o de alguno de los Secretarios, previa convocatoria enviada, por lo menos, con veinticuatro horas de anticipación.
 
-El presidente de la Comisión de Gobierno instalará las reuniones descritas en los párrafos anteriores, si se encontraran presentes los diputados que representan las dos terceras partes de los legisladores que integran el Congreso. Si no hubiera quórum en la reunión convocada, se esperará un lapso de 30 minutos, transcurrido el cual se instalará con quien o quienes tengan la representación de la mayoría absoluta de los diputados que integran el Congreso.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
+
+El presidente de la Comisión de Gobierno Interno instalará las reuniones descritas en los párrafos anteriores si se encontraran presentes los coordinadores que representen la mayoría de los votos de la Comisión. Si no hubiere quórum en la sesión convocada, se esperará un lapso de 30 minutos, transcurrido el cual se instalará con quien o quienes estén presentes.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2015)</small>
 
@@ -1457,11 +1465,11 @@ El Director de Comunicación Social, deberá ser preferentemente un licenciado e
 
 En los términos de los artículos 64, 66 y demás aplicables de la Ley, los Diputados postulados por un mismo partido político, podrán integrarse en grupo parlamentario. No podrán formar grupo parlamentario por separado o integrarse a otro, a menos que renuncien al que pertenezcan originalmente.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
 
 ###### Artículo 94.
 
-Los Diputados independientes y los que renuncien al grupo parlamentario al que pertenezcan inicialmente, no podrán formar un grupo propio.
+Los Diputados independientes y los que renuncien al grupo parlamentario al que pertenezcan inicialmente, podrán formar en cualquier momento un grupo parlamentario por separado, debiendo cumplir con los requisitos señalados para ello en la ley; o adherirse a otro grupo parlamentario, perdiendo la calidad de Diputados independientes. No podrá existir más de un grupo parlamentario independiente
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1469,17 +1477,15 @@ Los Diputados independientes y los que renuncien al grupo parlamentario al que p
 
 Los Diputados que hayan sido postulados por una coalición de varios partidos, en los términos del convenio de coalición registrado ante la autoridad electoral, podrán afiliarse a alguno de los grupos formados por cualquiera de esos partidos.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
 
 ###### Artículo 96.
 
-La designación de los coordinadores de los respectivos grupos parlamentarios, se hará en forma interna, aplicando los estatutos y lineamientos de los partidos políticos correspondientes.
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+La designación de los coordinadores de los respectivos grupos parlamentarios, se hará en forma interna, aplicando los estatutos y lineamientos de los partidos políticos correspondientes o en el caso de los diputados independientes, mediante votación de sus integrantes.
 
 ###### Artículo 97.
 
-Sólo al inicio de un período ordinario de sesiones podrá un Diputado cambiarse de un Grupo parlamentario a otro, cumpliendo en lo conducente con el procedimiento para su integración.
+(DEROGADO, P.O. 24 DE JUNIO DE 2016)
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1495,11 +1501,11 @@ En caso de disolución, sus integrantes podrán incorporarse a otro grupo, siemp
 
 Si un partido político se fusiona a otro y ambos tienen grupo parlamentario en el Congreso, se integrará un nuevo grupo con los Diputados que decidan ser miembros del partido resultante de la fusión, disolviéndose en este caso los anteriores.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
 
 ###### Artículo 100.
 
-La Directiva comunicará a la Asamblea, en la sesión más próxima de la constitución, disolución o fusión de cada grupo, así como de cualquier cambio dentro del mismo.
+La Directiva comunicará a la Asamblea, a la brevedad, la constitución, disolución o fusión de cada grupo, así como de cualquier cambio dentro del mismo.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2111,7 +2117,7 @@ Ningún Diputado podrá ausentarse del Recinto Legislativo cuando se esté efect
 
 ###### Artículo 171.
 
-Ningún Diputado podrá votar por si mismo, ni emitir su voto en cuestiones en que tenga interés personal o familiar en los términos del artículo 70 de este Reglamento.
+Ningún Diputado podrá votar por sI mismo, ni emitir su voto en cuestiones en que tenga interés personal o familiar en los términos del artículo 70 de este Reglamento.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2914,3 +2920,9 @@ P.O. 18 DE JUNIO DE 2016.
 ###### ARTICULO ÚNICO.
 
 El presente dictamen entrará en vigor el día de su aprobación. Se publicará en el periódico Oficial "El Estado de Colima".
+
+P.O. 24 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 114 SE REFORMAN LOS ARTÍCULOS 47, EN SU PÁRRAFO CUARTO, 48, 64, EN SU PÁRRAFO PRIMERO Y TERCERO, Y 66, EN SU PRIMER PÁRRAFO, TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA; ASÍ MISMO SE REFORMAN LOS ARTÍCULOS 39, EN SUS PÁRRAFOS PRIMERO, SEGUNDO Y CUARTO, 40, PÁRRAFO TERCERO, 94, 96 Y 100 Y SE DEROGA EL ARTÍCULO 97 TODOS DEL REGLAMENTO DE LA LEY YA MENCIONADA”.]
+
+PRIMERO (SIC).- El presente Decreto entrará en vigor al momento de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
