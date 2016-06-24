@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidades-de-los-servidores-publicos-del-33674"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-29"
-last_updated: "2016-02-05"
+last_updated: "2016-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 29 de agosto de 2003.
 
@@ -435,7 +435,9 @@ III. Formular y ejercer, en su caso, los planes, programas y presupuestos corres
 
 IV. Utilizar los recursos que tengan asignados para el desempeño de su empleo, cargo o comisión, las facultades que le sean atribuidas o la información reservada a que tenga acceso por su función exclusivamente para los fines a que están afectos;
 
-V. Custodiar y cuidar la documentación e información a la cual tenga acceso por razón de su empleo, cargo o comisión, así como los bienes muebles e inmuebles que conserve bajo su cuidado, impidiendo o evitando el uso indebido, sustracción, inutilización, ocultamiento, daños o destrucción;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2016)</small>
+
+V. Custodiar y cuidar la documentación e información a la cual tenga acceso por razón de su empleo, cargo o comisión, así como los bienes muebles, inmuebles y demás recursos públicos que conserve bajo su cuidado o estén bajo su responsabilidad, impidiendo o evitando su uso indebido, sustracción, inutilización, alteración, ocultamiento, daño o destrucción;
 
 VI. Observar buena conducta en su empleo, cargo o comisión, dirigiéndose con respeto, diligencia, imparcialidad y rectitud a las personas con las que tenga relación con motivo de éste;
 
@@ -479,13 +481,21 @@ XX. Tratándose de servidores públicos pertenecientes al Sistema Educativo Esta
 
 XXI. Proporcionar en forma oportuna y veraz, toda la información y datos solicitados por la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos, a efecto de que aquélla pueda cumplir con las facultades y atribuciones que le correspondan;
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2016)</small>
 
-XXII. Hacer pública su negativa, fundándola y motivándola en términos de lo dispuesto por la legislación respectiva, en el supuesto de que decida no aceptar o no cumplir las recomendaciones que les presente la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos; y
+XXII. Hacer pública su negativa, fundándola y motivándola en términos de lo dispuesto por la legislación respectiva, en el supuesto de que decida no aceptar o no cumplir las recomendaciones que les presente la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos;
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2016)</small>
 
-XXIII. Las demás que establezcan las leyes, reglamentos y disposiciones administrativas.
+XXIII. Cumplir con la entrega de los asuntos y recursos públicos bajo su responsabilidad en forma comprensible y completa, de conformidad con lo dispuesto en la Ley de la materia, cuando por cualquier causa se separe de su cargo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE JUNIO DE 2016)</small>
+
+XXIV. Cumplir con los requerimientos de aclaración que se formulen en los términos establecidos en la Ley de la materia, durante la verificación del contenido del acta de entrega de los asuntos y recursos públicos; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE JUNIO DE 2016)</small>
+
+XXV. Las demás que establezcan las leyes, reglamentos y disposiciones administrativas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2006)</small>
 
@@ -639,11 +649,13 @@ Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que
 
 En aquellos casos en que no se causen daños y perjuicios ni exista lucro, la inhabilitación se impondrá cuando se considere pertinente tomando en cuenta la gravedad de la conducta y las circunstancias especiales que rodean los hechos.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 60.
 
-Son faltas graves, el incumplimiento a lo dispuesto por las fracciones III, IV, V, X, XI, XII, XV, XVI y XIX del artículo 46, así como el incumplimiento a lo dispuesto por las fracciones II, IV, V, VI, VII, VIII, IX, XI, XIII, XV y XVI del artículo 47 de esta Ley.
+Son faltas graves, el incumplimiento a lo dispuesto por las fracciones III, IV, V, X, XI, XII, XV, XVI, XIX y XXIII del artículo 46, así como el incumplimiento a lo dispuesto por las fracciones II, IV, V, VI, VII, VIII, IX, XI, XIII, XV y XVI del artículo 47 de esta Ley.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2013)</small>
 
 Así mismo será considerado como falta grave, en caso de los Titulares de los Órganos de Control no den seguimiento hasta su total terminación y/o en su caso aplicar la sanción que corresponda, a las observaciones que sean turnadas por el Congreso del Estado con motivo de la fiscalización superior de las cuentas públicas.
 
@@ -1116,3 +1128,11 @@ P.O. 5 DE FEBRERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 435 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS AL ARTÍCULO 2 FRACCIÓN I, 25 Y 73 INCISO A FRACCIÓN II DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 24 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 502 MEDIANTE EL CUAL SE APRUEBA INICIATIVA CON PROYECTO DE DECRETO POR EL QUE SE REFORMA Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE ENTREGA Y RECEPCIÓN DE LOS ASUNTOS Y RECURSOS PÚBLICOS PARA EL ESTADO DE BAJA CALIFORNIA. ASÍ COMO ADENDA A LA INICIATIVA EN CUESTIÓN, LA CUAL REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ENTREGA Y RECEPCIÓN EN CITA, ASÍ COMO LOS ARTÍCULOS 46 Y 60 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Los órganos de control interno a que se refiere la presente Ley, tendrán un plazo de 30 días naturales, para efectuar en sus reglamentos, manuales y demás normatividad que rija la materia, las actualizaciones que deriven de las reformas aprobadas mediante el presente decreto.
