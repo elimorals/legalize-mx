@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-entrega-y-recepcion-de-los-asuntos-y-recursos-12596"
 country: "mx"
 rank: "ley"
 publication_date: "1998-08-07"
-last_updated: "2013-09-13"
+last_updated: "2016-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12596&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ENTREGA Y RECEPCIÓN DE LOS ASUNTOS Y RECURSOS PÚBLICOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 7 de agosto de 1998.
 
@@ -63,6 +63,14 @@ V.- Organismos Descentralizados de la Administración Pública Estatal y Municip
 
 VI.- Los Tribunales Administrativos y Procuradurías con autonomía jurisdiccional que funcionen en el Estado.
 
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2016)</small>
+
+ARTICULO 2o BIS.- El proceso de entrega y recepción de los asuntos y recursos públicos tiene como objetivo:
+
+I.- Para los servidores públicos salientes, rendir cuentas de los recursos públicos administrados, elaborar y entregar la información que deberá referirse al estado que guarda la administración de la dependencia, departamento, organismo, dirección o entidad de que se trate, así como efectuar la entrega de los bienes y, en general, los conceptos a que se refiere esta Ley, que en el ejercicio de sus funciones hubieran tenido bajo su responsabilidad.
+
+II.- Para los servidores públicos entrantes, la recepción de los recursos y demás conceptos a que se refiere la presente Ley, constituyendo el punto de partida de su actuación al frente de su nueva responsabilidad.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2001)</small>
 
 ###### ARTICULO 3o.
@@ -101,7 +109,9 @@ Los titulares de los poderes del Estado y Municipios y los servidores públicos 
 
 Así mismo, el servidor público entrante, está obligado a recibir el informe y acta respectiva y a revisar su contenido.
 
-La verificación física o revisión que se haga de los diferentes aspectos señalados en el acta de entrega y recepción se realizará dentro de los treinta días naturales siguientes a la firma del documento; para efectos de determinar la existencia de irregularidades, en su caso.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
+
+La verificación física o revisión que se haga de los diferentes aspectos señalados en el acta de entrega y recepción se realizará dentro de los cuarenta y cinco días hábiles siguientes a la firma del documento; para efectos de determinar la existencia de irregularidades, en su caso.
 
 ###### ARTICULO 7o.
 
@@ -155,9 +165,23 @@ Todos los Titulares de las Dependencias y Entidades de la Administración Públi
 
 Asimismo, las comisiones receptoras deberán tomar conocimiento de la situación que guarda la administración, desarrollo y cumplimiento de los programas y proyectos y en su caso obras públicas en proceso, de tal manera que al momento de concretarse la sustitución en la titularidad de los puestos, se continúe la marcha normal de la actividad gubernamental.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], P.O. 24 DE JUNIO DE 2016)</small>
+
+Aunado a lo antes señalado, la autoridad pública entrante tendrá la obligación de desarrollar las actividades previas al cambio administrativo siguientes:
+
+I. Las relativas al conocimiento de lo que en términos de ley debe recibir al momento del cambio; así como las obligaciones y funciones que debe cumplir con motivo del proceso de entrega y recepción de la administración correspondiente;
+
+II. Conocer la normatividad fundamental que incida en el desarrollo de la actividad gubernamental; y
+
+III. Conocer, en su caso, las principales características de las áreas financieras que comprende la hacienda pública respectiva, así como los aspectos generales que implica la actividad que habrá de realizar.
+
 ###### ARTICULO 14.
 
 Con el propósito de dar cumplimiento al contenido de este ordenamiento y hacer posible la entrega oportuna y debida de sus despachos, los servidores públicos sujetos a esta ley deberán mantener permanentemente actualizados sus registros, controles y demás documentación relativa a su gestión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE JUNIO DE 2016)</small>
+
+Aunado a lo antes señalado, los servidores públicos de la administración saliente o los que por cualquier otra causa deban separarse de su cargo, tendrán la obligación de desarrollar con oportunidad y de conformidad con las particularidades de cada área, las actividades previas al cambio administrativo relacionadas con la definición del personal que participará en el proceso de entrega y recepción, así como de otorgar la capacitación necesaria al respecto.
 
 ### CAPITULO TERCERO.
 
@@ -177,13 +201,21 @@ Los titulares salientes de las dependencias, departamentos, organismos, direccio
 
 El servidor público entrante, al tomar posesión, o en su caso, el que quede encargado del despacho, firmará el acta administrativa con asistencia de dos testigos que él mismo designe y de los servidores públicos que asistan nombrados por los órganos de control y vigilancia, conforme a las atribuciones que les otorga la ley respectiva, dando éstos constancia del documento sobre el estado en que se encuentran los asuntos y recursos, recabando un ejemplar del acta correspondiente.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE JUNIO DE 2016)</small>
+
+Para tal efecto deberá notificarse con anticipación al órgano de control y vigilancia correspondiente, la fecha en que se realizará la firma del acta administrativa.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 18.
 
-La verificación del contenido del acta correspondiente deberá realizarse por el servidor público entrante en un término de treinta días naturales contados a partir de la fecha de entrega y recepción del despacho. Durante dicho lapso el servidor público saliente podrá ser requerido para que haga las aclaraciones y proporcione la información adicional que le soliciten.
+La verificación del contenido del acta correspondiente deberá realizarse por el servidor público entrante en un término de cuarenta y cinco días hábiles contados a partir de la fecha de entrega y recepción del despacho. Durante dicho lapso el servidor público saliente podrá ser requerido para que haga las aclaraciones y proporcione la información adicional que le soliciten.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 19.
 
-La Contraloría Interna del Congreso del Estado, la Dirección de Control y Evaluación Gubernamental del Poder Ejecutivo del Estado, la Contraloría del Poder Judicial, las Sindicaturas Municipales, y los Organos de Control correspondientes, en el ámbito de su competencia, vigilarán el cumplimiento de las disposiciones y procedimientos a que se refiere esta Ley.
+La Contraloría Interna del Congreso del Estado, la Dirección de Control y Evaluación Gubernamental del Poder Ejecutivo del Estado, la Contraloría del Poder Judicial, las Sindicaturas Municipales, y las contralorías de los Órganos Constitucionales dotados de Autonomía, en el ámbito de su competencia, vigilarán el cumplimiento de las disposiciones y procedimientos a que se refiere esta Ley.
 
 ## TITULO TERCERO.
 
@@ -201,11 +233,21 @@ Si el servidor público entrante dejare de cumplir esta obligación, incurrirá 
 
 Cuando el servidor público saliente no proceda a la entrega del informe de los asuntos y recursos a su cargo, en los términos de esta ley, será requerido por el órgano de control interno correspondiente, para que en un lapso de quince días hábiles contados a partir de la fecha de su separación, cumpla con esta obligación.
 
-Si el servidor público saliente dejare de cumplir con esta disposición, incurrirá en responsabilidad en los términos de la ley respectiva.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
+
+Si el servidor público saliente dejare de cumplir con esta disposición, incurrirá en responsabilidad en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California. En este caso, el servidor público entrante o, en su caso, el encargado del despacho o la persona que se designe para tales efectos por el superior jerárquico, procederá con la asistencia del órgano de control interno y dos testigos a levantar acta circunstanciada, dejando constancia del estado en que se encuentran los asuntos y recursos de la dependencia, delegación, entidad u organismo paraestatal o municipal de que se trate.
 
 ###### ARTICULO 22.
 
 La entrega del despacho, de recursos y de los asuntos en trámite encomendados al servidor público saliente, no lo exime de las responsabilidades en que hubiere incurrido en los términos de las leyes correspondientes.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2016)</small>
+
+###### ARTICULO 23.
+
+Cuando el servidor público saliente entregue información incomprensible o incompleta; oculte, altere, destruya o inutilice total o parcialmente, sin causa justificada, la información, bienes y recursos que se encontraban bajo su custodia o, en su caso, no atienda los requerimientos de aclaración que se le formulen en el plazo establecido en la presente Ley, incurrirá en responsabilidad, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+
+El servidor público que recibe o sus representantes deberán hacer del conocimiento del órgano de control interno correspondiente, las circunstancias antes señaladas, para que proceda en los términos de la ley respectiva.
 
 DISPOSICIONES TRANSITORIAS:
 
@@ -258,3 +300,11 @@ Las presentes reformas entrarán en vigor al día siguiente de su publicación e
 P.O. 13 DE SEPTIEMBRE DE 2013.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 24 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 502 MEDIANTE EL CUAL SE APRUEBA INICIATIVA CON PROYECTO DE DECRETO POR EL QUE SE REFORMA Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE ENTREGA Y RECEPCIÓN DE LOS ASUNTOS Y RECURSOS PÚBLICOS, PARA EL ESTADO DE BAJA CALIFORNIA. ASÍ COMO ADENDA A LA INICIATIVA EN CUESTIÓN, LA CUAL REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ENTREGA Y RECEPCIÓN EN CITA, ASÍ COMO LOS ARTÍCULOS 46 Y 60 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DE ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Los órganos de control interno a que se refiere la presente Ley, tendrán un plazo de 30 días naturales, para efectuar en sus reglamentos, manuales y demás normatividad que rija la materia, las actualizaciones que deriven de las reformas aprobadas mediante el presente decreto.
