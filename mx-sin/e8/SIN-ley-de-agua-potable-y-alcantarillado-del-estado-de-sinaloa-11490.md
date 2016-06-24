@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-agua-potable-y-alcantarillado-del-estado-de-sinaloa-1149
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-20"
-last_updated: "2014-07-04"
+last_updated: "2016-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2016.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el lunes 20 de febrero de 1984.
 
@@ -520,6 +520,10 @@ C).- Antes de iniciar edificaciones sobre predios que carezcan de servicio de ag
 Las personas enunciadas en las fracciones I y II de este artículo estarán también obligadas a la conexión a la red de alcantarillado en los lugares en que exista este servicio, dentro de los plazos consignados en esta fracción.
 
 Los trabajos necesarios para la instalación de este servicio se llevarán a cabo única y exclusivamente por el personal autorizado de las Juntas, con cargo al usuario, previo pago correspondiente.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2016)</small>
+
+Las solicitudes, dictaminaciones, pagos y emisión de documentos o constancias que genere la presente Ley podrán ser realizados por medios electrónicos sin que sea afectada su validez jurídica.
 
 ###### ARTICULO 24.
 
@@ -1294,3 +1298,13 @@ Artículo Único. El presente decreto entrará en vigor treinta días después d
 P.O. 4 DE JULIO DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+P.O. 24 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 562 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE GESTIÓN EMPRESARIAL Y REFORMA REGULATORIA, LEY DE FOMENTO A LA INVERSIÓN PARA EL DESARROLLO ECONÓMICO, LEY DE HACIENDA MUNICIPAL, LEY DE CATASTRO, LEY DE AGUA POTABLE Y ALCANTARILLADO, LEY DE PROTECCIÓN CIVIL Y LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+TERCERO. En un plazo de noventa días se deberán realizar las adecuaciones correspondientes a los Reglamentos de la Ley de Hacienda Municipal, Ley de Catastro, Ley de Agua Potable y Alcantarillado, Ley de Protección Civil, y Ley de Gobierno Municipal, todas del Estado, respectivamente, a efecto de establecer el procedimiento para llevar a cabo las solicitudes, dictaminaciones, pagos y emisión de documentos o constancias que se generen por medios electrónicos.
