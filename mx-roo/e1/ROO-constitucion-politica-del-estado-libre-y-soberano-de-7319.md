@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2016-06-15"
+last_updated: "2016-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2016.
+
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO 411, PUBLICADO EN EL P.O. 25 DE JUNIO DE 2016, LAS REFERENCIAS QUE SE HAGAN EN OTRAS LEYES DE LA ENTIDAD A LA PROCURADURÍA GENERAL DE JUSTICIA O AL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO, SE ENTENDERÁN AHORA A LA FISCALÍA GENERAL DEL ESTADO Y AL FISCAL GENERAL DEL ESTADO, RESPECTIVAMENTE.]</small>
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -273,7 +275,9 @@ La correspondencia que bajo cualquier forma circule en el Estado, estará exenta
 
 La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley. El derecho a la información será garantizado por el Estado.
 
-El derecho de acceso a la información y la protección de datos personales será garantizado por un órgano público autónomo, especializado, imparcial y colegiado, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, denominado Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
+
+El derecho de acceso a la información y la protección de datos personales será garantizado por un órgano público autónomo, especializado, imparcial y colegiado, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, denominado Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo. El presupuesto de egresos del Instituto no podrá ser menor al cero punto doce por ciento del presupuesto de Egresos del Estado para el ejercicio fiscal de que se trate y en ningún caso, será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos del Instituto será remitido a la Legislatura para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 15 de noviembre del año anterior al ejercicio fiscal que corresponda. En todo caso, el proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
 
 Este órgano garante estará integrado por tres comisionados que durarán en su encargo siete años, serán nombrados en los términos que prevea la ley, procurando la equidad de género y cumpliendo como mínimo con los requisitos previstos en las fracciones I, II, IV, V, VI y VII del artículo 101 de la Constitución Política del Estado Libre y Soberano de Quintana Roo. No podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia, sólo podrán ser removidos de su cargo en los términos del Título Cuarto de esta Constitución y serán sujetos de juicio político.
 
@@ -829,7 +833,9 @@ La Ley General de Instituciones y Procedimientos Electorales establece los requi
 
 Los funcionarios señalados en el párrafo que antecede, no podrán, durante su ejercicio, desempeñar ningún otro empleo, cargo o comisión oficial y sólo podrán recibir percepciones derivadas de actividades profesionales, regalías, derechos de autor o publicaciones siempre que no se afecte la independencia, imparcialidad y equidad que debe regir el ejercicio de su función; también podrán ejercer cargos no remunerados en asociaciones científicas, literarias o de beneficencia.
 
-La retribución que perciban los Consejeros Electorales, así como los Magistrados Electorales, será la prevista en el presupuesto de egresos del Instituto Electoral de Quintana Roo y del Tribunal Electoral de Quintana Roo, respectivamente. Durante los intervalos entre los procesos electorales estarán obligados a realizar tareas de investigación y difusión acerca de temas electorales. La retribución de los Contralores Internos será la misma que se señale para los Consejeros y Magistrados Electorales, según corresponda. En todo caso, el Presupuesto de Egresos del Gobierno del Estado, deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos del Instituto Electoral de Quintana Roo y el Tribunal Electoral de Quintana Roo, sujetándose a lo dispuesto en el artículo 165 de esta Constitución. El Instituto Electoral de Quintana Roo y el Tribunal Electoral de Quintana Roo, presentarán sus respectivos presupuestos de egresos ante la instancia correspondiente para su inclusión en el Presupuesto de Egresos del Estado, del año que corresponda.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
+
+La retribución que perciban los Consejeros Electorales, así como los Magistrados Electorales, será la prevista en el presupuesto de egresos del Instituto Electoral de Quintana Roo y del Tribunal Electoral de Quintana Roo, respectivamente. Durante los intervalos entre los procesos electorales estarán obligados a realizar tareas de investigación y difusión acerca de temas electorales. La retribución de los Contralores Internos será la misma que se señale para los Consejeros y Magistrados Electorales, según corresponda. En todo caso, el Presupuesto de Egresos del Gobierno del Estado, deberá incluir el tabulador desglosado de las remuneraciones que perciban los servidores públicos del Instituto Electoral de Quintana Roo, sujetándose a lo dispuesto en el artículo 165 de esta Constitución. El Instituto Electoral de Quintana Roo, presentará su presupuesto de egresos ante la instancia correspondiente para su inclusión en el Presupuesto de Egresos del Estado, del año que corresponda. El presupuesto de egresos del Tribunal Electoral de Quintana Roo no podrá ser menor al cero punto quince por ciento del presupuesto de Egresos del Estado, para el ejercicio fiscal de que se trate y en ningún caso, será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos del Tribunal, será remitido a la Legislatura, para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 15 de noviembre del año anterior al ejercicio fiscal que corresponda. El proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos del Tribunal, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
 
 El Instituto Electoral de Quintana Roo contará con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por ley.
 
@@ -1037,9 +1043,9 @@ No podrá ser diputado:
 
 I.- El Gobernador en ejercicio, aún cuando se separe definitivamente de su puesto, cualesquiera sea su calidad, el origen y la forma de designación.
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2016)</small>
 
-II.- Los Secretarios de Despacho dependientes del Ejecutivo, el Procurador General de Justicia, el Titular del Órgano de Fiscalización Superior del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces y cualquier otro servidor público que desempeñe cargo público estatal, a menos que se separe definitivamente de su cargo noventa días antes de la fecha de la elección.
+II.- Los Secretarios de Despacho dependientes del Ejecutivo, el Fiscal General del Estado, el Titular del Órgano de Fiscalización Superior del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces y cualquier otro servidor público que desempeñe cargo público estatal, a menos que se separe definitivamente de su cargo noventa días antes de la fecha de la elección.
 
 III.- Los presidentes municipales o quienes ocupen cualquier cargo municipal, a menos que se separe (sic) del mismo 90 días antes de la elección.
 
@@ -1097,6 +1103,10 @@ Los diputados que incumplan con las obligaciones contenidas en las fracciones II
 
 La Legislatura tendrá durante el año dos periodos ordinarios de sesiones que comenzarán, el primero, el 5 de septiembre y el segundo, el 15 de febrero. El primero no podrá prolongarse sino hasta el 15 de diciembre y el segundo hasta el 31 de mayo.
 
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2016)</small>
+
+La Legislatura se reunirá en la capital del Estado, pero podrá cambiar provisionalmente su sede, si así lo acuerdan las dos terceras partes de la totalidad de los diputados.
+
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
 
 ###### ARTICULO 62.
@@ -1143,9 +1153,13 @@ La Legislatura podrá requerir información o documentación al Gobernador del E
 
 La Ley Orgánica del Poder Legislativo de Quintana Roo, regulará el ejercicio de estas facultades.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 67.
 
-La Legislatura se reunirá en la capital del Estado, pero podrá cambiar provisionalmente su sede, si así lo acuerdan las dos terceras partes de la totalidad de los diputados.
+El Poder Legislativo del Estado administrará con autonomía su presupuesto, el cual no podrá ser menor al tres por ciento del Presupuesto de Egresos del Estado para el ejercicio fiscal de que se trate, y en ningún caso, será menor al presupuesto otorgado en el año inmediato anterior.
+
+Si durante el ejercicio fiscal que corresponda se modifica el Presupuesto de Egresos del Estado, no se podrán afectar los presupuestos del Poder Judicial, del Poder Legislativo y de los órganos constitucionales autónomos.
 
 #### SECCION TERCERA. De la Iniciativa y Formación de las Leyes y Decretos
 
@@ -1349,9 +1363,9 @@ XLII.- Determinar el patrimonio familiar señalando los bienes que lo integran, 
 
 XLIII.- Legislar en materia de seguridad social, teniendo como objetivo la permanente superación del nivel de vida de la población, el mejoramiento de su salud y la conservación del medio ambiente, y
 
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2016)</small>
 
-XLIV.- Recibir la protesta de Ley y aprobar o rechazar el nombramiento del Procurador General de Justicia del Estado que efectúe el Gobernador del Estado y que le someta a su consideración, previa entrevista realizada por las Comisiones de Puntos Constitucionales y de Justicia del Congreso del Estado a la persona nombrada en el referido cargo;
+XLIV.- Integrar la lista de candidatos a Fiscal General del Estado; designar y remover a dicho servidor público de conformidad con esta Constitución y la ley de la materia. Designar y remover al Contralor interno de la Fiscalía General del Estado, así como tomarles protesta a ambos servidores públicos;
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -1375,17 +1389,23 @@ XLVIII. Expedir leyes encaminadas a combatir el alcoholismo;
 
 XLIX.- Nombrar a los comisionados del órgano garante previsto en el artículo 21 de ésta Constitución, en los términos establecidos en la ley de la materia.
 
-> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2016)</small>
 
-L.- Expedir todas las leyes y decretos que sean necesarios para hacer efectivas las facultades anteriores.
+L.- Ratificar la designación de los Magistrados del Tribunal de Justicia Administrativa del Estado, que realice el Titular del Poder Ejecutivo del Estado, así como tomarles la protesta de ley, y
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2016)</small>
+
+LI.- Expedir todas las leyes y decretos que sean necesarios para hacer efectivas las facultades anteriores.
 
 #### SECCION QUINTA. De la Diputación Permanente
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 76.
 
-El día de clausura del período de sesiones ordinarias, la Legislatura elegirá por escrutinio secreto y mayoría de votos, una Diputación Permanente compuesta de siete miembros que durarán en su encargo el período de receso para el que fueron designados. El primero de los nombrados será el Presidente y el segundo y tercero, Secretarios, de su Mesa Directiva.
+El día de clausura del período de sesiones ordinarias, la Legislatura elegirá por mayoría de votos, una Diputación Permanente compuesta de siete miembros que durarán en su encargo el período de receso para el que fueron designados. El primero de los nombrados será el Presidente, y el segundo y tercero serán secretarios de la Mesa Directiva.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2002)</small>
 
 Son facultades y obligaciones de la Diputación Permanente:
 
@@ -1411,9 +1431,9 @@ VIII.- Designar a los Magistrados del Tribunal Superior de Justicia del Estado a
 
 IX.- Recibir la protesta de Ley al Gobernador interino, provisional, sustituto o quien haga sus veces;
 
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2016)</small>
 
-X.- Recibir la protesta de Ley y aprobar o rechazar el nombramiento del Procurador General de Justicia del Estado que efectúe el Gobernador del Estado y que le someta a su consideración, previa entrevista realizada por las Comisiones de Puntos Constitucionales y de Justicia a la persona nombrada en el referido cargo.
+X.- Convocar a periodo extraordinario para llevar a cabo la designación o remoción del Fiscal General del Estado, designar y remover al Contralor Interno de la Fiscalía General del Estado, así como tomarle la protesta de ley a este último;
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -1427,17 +1447,23 @@ XII.- Designar mediante el procedimiento previsto en esta Constitución y en las
 
 XIII.- Nombrar a los comisionados del órgano garante previsto en el artículo 21 de ésta Constitución, en los términos establecidos en la ley de la materia.
 
-XIV.- Las demás que le confiera expresamente esta Constitución.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2016)</small>
+
+XIV.- Ratificar la designación de los Magistrados del Tribunal de Justicia Administrativa del Estado, que realice el Titular del Poder Ejecutivo del Estado, así como tomarles la protesta de ley, y
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2016)</small>
+
+XV.- Las demás que le confiera expresamente esta Constitución.
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2002)</small>
 
 #### SECCION SEXTA. De la Fiscalización del Estado
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 77.
 
-El Órgano de Fiscalización Superior del Estado, de la Legislatura, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones en los términos que disponga la ley. Asimismo, contará con personalidad jurídica y patrimonio propio.
+El Órgano de Fiscalización Superior del Estado, de la Legislatura, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones en los términos que disponga la ley. Asimismo, contará con personalidad jurídica y patrimonio propio. El presupuesto de egresos del Órgano de Fiscalización Superior no podrá ser menor al cero punto cinco por ciento del presupuesto de Egresos del Estado, para el ejercicio fiscal de que se trate y en ningún caso, será menor al presupuesto otorgado en el año inmediato anterior.
 
 > <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
 
@@ -1473,27 +1499,27 @@ Las Cuentas Públicas a que se refiere la presente fracción, deberán ser prese
 
 II.- Entregar a la Legislatura Estatal el informe de resultados de la revisión y fiscalización de la cuenta pública, a más tardar el 5 de septiembre del mismo año de su presentación al Órgano de Fiscalización Superior del Estado de Quintana Roo. Dicho informe contendrá al menos, las auditorías practicadas, los dictámenes de su revisión, el apartado correspondiente a la fiscalización del manejo de los recursos estatales o municipales, así como de las participaciones federales o estatales en su caso, por parte de las entidades fiscalizadas y a la verificación del desempeño en el cumplimiento de los objetivos de los programas estatales o municipales, el cumplimiento de las normas de información financiera para el sector público, los resultados de la gestión financiera, la comprobación de que las entidades se ajustaron a la ley de la materia o al presupuesto de egresos que corresponda, el análisis de las desviaciones presupuestarias en su caso, así como también un apartado específico con las observaciones del Órgano de Fiscalización Superior del Estado que incluya las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
 
 Para tal efecto, de manera previa a la presentación del informe del resultado, se darán a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por el Órgano de Fiscalización Superior del Estado para la elaboración del informe del resultado de la revisión de la Cuenta Pública.
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
 
 El Titular del Órgano de Fiscalización Superior del Estado enviará a las entidades fiscalizadas, a más tardar a los 3 días hábiles posteriores a que sea entregado a la Legislatura el informe del resultado, las recomendaciones y acciones promovidas que correspondan para que, en un plazo de hasta 5 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes; en caso de no hacerlo se harán acreedores a las sanciones establecidas en la ley. Este término podrá ser ampliado hasta por 5 días hábiles más, previa petición y si a juicio del Titular del Órgano de Fiscalización Superior así lo amerita el caso en concreto. Los plazos anteriores no aplicarán a los pliegos de observaciones y a las promociones de responsabilidades, las cuales se sujetarán a los procedimientos y términos que establezca la ley.
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
 
 El Órgano de Fiscalización Superior del Estado deberá pronunciarse en un plazo de 15 días hábiles sobre las respuestas emitidas por las entidades fiscalizadas; en caso de no hacerlo, se tendrán por atendidas las recomendaciones y acciones promovidas.
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
 
 En el caso de las recomendaciones al desempeño, las entidades fiscalizadas deberán precisar ante el Órgano de Fiscalización Superior del Estado las mejoras realizadas o, en su caso, justificar su improcedencia.
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
 
 El Órgano de Fiscalización Superior del Estado deberá entregar a la Legislatura, en los meses de julio y noviembre de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas.
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
 
 El Órgano de Fiscalización Superior del Estado tendrá la obligación de guardar reserva respecto de sus actuaciones e informaciones hasta la fecha en que se entregue a la Legislatura el informe de resultados.
 
@@ -1565,11 +1591,13 @@ III.- No pertenecer al estado eclesiástico ni ser ministro de algún culto reli
 
 IV.- No ser militar en servicio activo o ciudadano con mando en los cuerpos de seguridad pública, dentro de los noventa días anteriores a la fecha de la elección.
 
-V.- No ser Secretario de Estado o Jefe de Departamento, Ministro de la Suprema Corte de Justicia de la Nación o Procurador General de Justicia de la Nación, en funciones, dentro de los noventa días anteriores a la fecha de la elección.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
+V.- No ser Secretario de Estado o Jefe de Departamento, Ministro de la Suprema Corte de Justicia de la Nación o Fiscal General de la República, en funciones, dentro de los noventa días anteriores a la fecha de la elección.
 
-VI.- No ser Secretario o Subsecretario del despacho, Director de Organismos Descentralizados o Empresas de Participación Estatal, Oficial Mayor, Procurador General de Justicia del Estado, Titular del Órgano de Fiscalización Superior del Estado o Magistrado del Tribunal Superior de Justicia, a menos que se separe del cargo noventa días antes de la fecha de la elección.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2016)</small>
+
+VI.- No ser Secretario o Subsecretario del despacho, Director de Organismos Descentralizados o Empresas de Participación Estatal, Oficial Mayor, Fiscal General del Estado, Titular del Órgano de Fiscalización Superior del Estado o Magistrado del Tribunal Superior de Justicia, a menos que se separe del cargo noventa días antes de la fecha de la elección.
 
 VII.- No estar comprendido en alguna de las prohibiciones establecidas por el artículo 89 de esta Constitución.
 
@@ -1681,17 +1709,21 @@ XV.- Ejercer el Presupuesto de Egresos.
 
 XVI.- Contratar empréstito (sic) y garantizar obligaciones con aprobación de la Legislatura, y
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 1995)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2016)</small>
 
-XVII. Nombrar, con la aprobación de la Legislatura del Estado o de la Diputación Permanente, en su caso, al Procurador General de Justicia.
+XVII.- Formular y remitir a la Legislatura del Estado, la terna de candidatos a Fiscal General del Estado con base en la lista que para tal efecto reciba de aquélla. Así como instar el procedimiento de remoción del Fiscal General del Estado, por las causas graves que establezca la Ley para tal efecto;
 
 > <small>(REFORMADA, P.O. 30 DE JULIO DE 2013)</small>
 
 XVIII.- Solicitar a la Comisión Nacional de los Derechos Humanos la investigación de hechos que constituyan violaciones graves de Derechos Humanos;
 
-> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2016)</small>
 
-XIX.- Las demás que le confiera esta Constitución y sus Leyes.
+XIX.- Designar a los Magistrados del Tribunal de Justicia Administrativa del Estado, los cuales deberán ser ratificados por la Legislatura del Estado o la Diputación Permanente, en su caso, y
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2016)</small>
+
+XX.- Las demás que le confiera esta Constitución y sus Leyes.
 
 ###### ARTICULO 91.
 
@@ -1749,7 +1781,9 @@ Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por
 
 La Legislatura Estatal, mediante la ley o decreto que al efecto expida, establecerá un Organismo de Protección de los Derechos Humanos, en el marco que otorga el orden jurídico vigente, el cual conocerá de quejas en contra de actos u omisiones de naturaleza administrativa, provenientes de cualquier autoridad o servidor público, del Estado o de los Ayuntamientos que violen estos derechos.
 
-El Organismo que establezca la legislatura se denominará Comisión de los Derechos Humanos del Estado de Quintana Roo; contará con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
+
+El Organismo que establezca la legislatura se denominará Comisión de los Derechos Humanos del Estado de Quintana Roo; contará con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios. El presupuesto de egresos de la Comisión de los Derechos Humanos de Quintana Roo no podrá ser menor al cero punto dieciocho por ciento del presupuesto de Egresos del Estado, para el ejercicio fiscal de que se trate y en ningún caso, será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos de la Comisión, será remitido a la Legislatura, para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 15 de noviembre del año anterior al ejercicio fiscal que corresponda. El proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos de la Comisión, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
 
 La Comisión de los Derechos Humanos del Estado de Quintana Roo, tendrá un Consejo Consultivo integrado por un Presidente y seis Consejeros, que serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Legislatura o, en sus recesos, por la Diputación Permanente, con la misma votación calificada. La ley determinará los procedimientos a seguir para la presentación de las propuestas, la duración del encargo y los requisitos para acceder a éste.
 
@@ -1787,29 +1821,77 @@ III.- Tener modo honesto de vivir.
 
 Tratándose de lo dispuesto en la fracción I del presente artículo, podrá ser dispensable únicamente para el cargo de Secretario de Seguridad Pública.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2016)</small>
 
-### CAPITULO IV. Del Poder Judicial
+### Capítulo IV. De la Fiscalía General del Estado
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 96.
 
-El Ministerio Público estará a cargo de un Procurador General de Justicia y del número de agentes que la ley determine.
+El Ministerio Público se organizará en una Fiscalía General como órgano constitucional autónomo, dotado de personalidad jurídica y patrimonio propio.
 
-Para ser Procurador General de Justicia, se requiere:
+Para ser Fiscal General se requiere:
 
-l.- Ser ciudadano mexicano por nacimiento y nativo de la Entidad o con residencia efectiva no menor de 5 años;
+I.- Ser ciudadano mexicano por nacimiento;
 
-II.- Ser licenciado en derecho con título debidamente registrado;
+II.- Haber nacido en el Estado o tener una residencia efectiva en él no menor de 5 años anteriores a la designación;
 
-III.- Estar en pleno ejercicio de sus derechos políticos, y
+III.- Tener cuando menos treinta y cinco años cumplidos el día de la designación;
 
-IV.- Tener modo honesto de vivir.
+IV.- Ser licenciado en derecho con título y cédula debidamente registrados, con antigüedad mínima de diez años anteriores a la designación;
 
-El Procurador General de Justicia podrá ser removido libremente por el Gobernador del Estado.
+V.- Estar en pleno ejercicio de sus derechos políticos y civiles;
 
-### CAPITULO I. Del Patrimonio
+VI.- Tener modo honesto de vivir, y
+
+VII.- No haber sido condenado por delito doloso.
+
+A.- El Fiscal General del Estado durará en su encargo nueve años, y será designado y removido conforme a lo siguiente:
+
+a) A partir de la ausencia definitiva del Fiscal General del Estado, la Legislatura del Estado contará con veinte días naturales para integrar una lista de diez candidatos al cargo, aprobada por las dos terceras partes de los miembros integrantes de la Legislatura, la cual se enviará al Ejecutivo Estatal.
+
+La presidencia de la Legislatura o de la Diputación Permanente, convocará a los Grupos parlamentarios representados en la Legislatura, para que presenten hasta dos propuestas para ocupar el cargo de Fiscal General del Estado. La Comisión de Puntos Constitucionales de la Legislatura, dictaminará sobre el cumplimiento de los requisitos de los candidatos para integrar la lista a que refiere el párrafo anterior.
+
+b) Recibida la lista a que se refiere el inciso anterior, dentro de los diez días naturales siguientes el Ejecutivo formulará la terna y la enviará a la consideración de la Legislatura del Estado.
+
+c) La Legislatura del Estado, con base en la terna y previa comparecencia de las personas propuestas, designará al Fiscal General del Estado con el voto de las dos terceras partes de los miembros integrantes de la Legislatura, dentro del plazo de diez días naturales.
+
+En caso de que el Ejecutivo no envíe la terna a que se refiere el párrafo anterior, la Legislatura del Estado tendrá diez días naturales para designar al Fiscal General de entre los candidatos de la lista que señala el inciso a) del presente apartado.
+
+d) El Fiscal General del Estado podrá ser removido por la Legislatura del Estado, por determinación de ésta o a solicitud del Ejecutivo Estatal ante la Legislatura del Estado por las causas graves y el procedimiento que establezca la ley. La remoción deberá ser aprobada por el voto de las dos terceras partes de los miembros integrantes de la Legislatura del Estado.
+
+e) En los recesos de la Legislatura del Estado, la Diputación Permanente convocará de inmediato a periodo extraordinario para la designación o remoción del Fiscal General del Estado.
+
+f) Las ausencias del Fiscal General del Estado serán suplidas en los términos que determiné la ley.
+
+B.- Corresponde al Ministerio Público la persecución, ante los tribunales, de todos los delitos del orden común; y, por lo mismo, solicitará las medidas cautelares contra los imputados; buscará y presentará las pruebas que acrediten la participación de éstos en hechos que las leyes señalen como delito; procurará que los juicios en materia penal se sigan con toda regularidad para que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas, e intervendrá en todos los asuntos que la ley determine.
+
+La ley establecerá las bases para la formación y actualización de los servidores públicos de la Fiscalía General del Estado, así como para el desarrollo de la carrera profesional de los mismos, la cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+
+El Fiscal General del Estado presentará anualmente a los Poderes Legislativo y Ejecutivo un informe de actividades. Comparecerá ante el Poder Legislativo cuando se le cite a rendir cuentas o a informar sobre su gestión.
+
+El Fiscal General del Estado y sus agentes, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
+
+C.- La Fiscalía General del Estado administrará con autonomía su presupuesto; el Fiscal General del Estado elaborará el anteproyecto de presupuesto de egresos de la Fiscalía General.
+
+En todo caso, el anteproyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución. El Fiscal General del Estado remitirá dicho anteproyecto a la Legislatura del Estado para su inclusión en el Proyecto de Presupuesto de Egresos del Estado a más tardar el 15 de noviembre del año anterior al ejercicio fiscal que corresponda.
+
+El presupuesto de egresos para la Fiscalía General del Estado no podrá ser menor al dos punto ocho por ciento del Presupuesto de Egresos del Estado para el ejercido fiscal de que se trate, y en ningún caso será menor al presupuesto otorgado en el año inmediato anterior.
+
+La Cuenta Pública de la Fiscalía General del Estado se sujetará a lo dispuesto por esta Constitución y las leyes aplicables en la materia.
+
+D.- La Fiscalía General del Estado contará con una Contraloría Interna con autonomía técnica y de gestión, responsable de la fiscalización, vigilancia y control del uso, manejo y destino de los recursos, así como del desempeño de los órganos, direcciones, funcionarios y personal. El contralor interno de la Fiscalía General del Estado, durará en su encargo seis años y será elegido por el voto de las dos terceras partes de los miembros de la Legislatura del Estado, de entre las propuestas que formulen los Grupos Parlamentarios, con base en los requisitos y en los términos que disponga la ley, y estará sujeto al régimen de responsabilidades públicas previsto por esta Constitución para los Servidores Públicos del Estado.
+
+El Contralor interno de la Fiscalía General del Estado no podrá, durante su ejercicio, desempeñar ningún otro empleo, cargo o comisión oficial y sólo podrá recibir percepciones derivadas de la docencia, regalías, derechos de autor o publicaciones siempre que no se afecte la independencia, imparcialidad y equidad que debe regir el ejercicio de su función; también podrá ejercer cargos no remunerados en asociaciones científicas, literarias o de beneficencia.
+
+La retribución del Contralor interno de la Fiscalía General del Estado será la que corresponda a las obligaciones y responsabilidades del desempeño del cargo.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2016)</small>
+
+### CAPÍTULO V. DEL PODER JUDICIAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 97.
 
@@ -1841,13 +1923,13 @@ El Tribunal Superior de Justicia se integra por nueve magistrados numerarios y e
 
 El Pleno del Tribunal se integrará solamente con los magistrados numerarios, con la excepción de los supuestos previstos en esta Constitución y en la Ley Orgánica del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
 
-Las Salas se integraran por Magistrados Numerarios o Supernumerarios organizadas por materia o circuito, pudiendo ser unitarias o colegiadas con la conformación, integración, jurisdicción y competencia que determine el Pleno con sujeción a la ley. Las Salas Colegiadas se integrarán con tres magistrados. La Sala Constitucional y Administrativa se integrará con un Magistrado Numerario.
+Las Salas se integrarán por Magistrados Numerarios o Supernumerarios organizadas por materia o circuito, pudiendo ser unitarias o colegiadas con la conformación, integración, jurisdicción y competencia que determine el Pleno con sujeción a la ley. Las Salas Colegiadas se integrarán con tres magistrados. La Sala Constitucional se integrará con un Magistrado Numerario.
 
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
 
-Las apelaciones en los juicios de oralidad serán resueltas de forma unitaria o colegiada, por los Magistrados en los casos previstos por la ley o determinación fundada del Pleno, con excepción del Magistrado Presidente, el Magistrado de la Sala Constitucional y Administrativa y el Magistrado Consejero.
+Las apelaciones en los juicios de oralidad serán resueltas de forma unitaria o colegiada, por los Magistrados en los casos previstos por la ley o determinación fundada del Pleno, con excepción del Magistrado Presidente, el Magistrado de la Sala Constitucional y el Magistrado Consejero.
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2014)</small>
 
@@ -1857,11 +1939,11 @@ El Pleno del Tribunal Superior de Justicia de oficio o a petición fundada por p
 
 Cuando las necesidades del servicio de administración de justicia lo amerite, en el Sistema Penal Acusatorio, excepcionalmente el Magistrado Presidente y/o el Magistrado Consejero, podrán integrar Sala, para la resolución de los recursos de su competencia, conforme a la legislación de la materia. En tales casos, el Magistrado Presidente y/o el Magistrado Consejero dirigirán petición al Pleno del Tribunal Superior de Justicia, para que se apruebe su integración a Sala Colegiada o Unitaria, según corresponda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 99.
 
-El Tribunal Superior de Justicia será presidido por un Magistrado que no integrará Sala, exceptuando lo establecido en el último párrafo del Artículo 98 de esta Constitución, designado por el Tribunal en Pleno en el mes de agosto de cada tres años y podrá ser reelecto por una sola vez, para un período de igual duración. A la Sesión de Pleno para designar Presidente del Tribunal Superior de Justicia, se convocará también al Magistrado Consejero para que, con voz y voto, pueda ejercer su derecho a elegir. Cada Sala Colegiada elegirá a su propio Presidente en la primera sesión del año.
+El Tribunal Superior de Justicia será presidido por un Magistrado que no integrará Sala, exceptuando lo establecido en el último párrafo del Artículo 98 de esta Constitución, designado por el Tribunal en Pleno en el mes de agosto de cada seis años y podrá ser reelecto por una sola vez, para un periodo de igual duración. A la Sesión de Pleno para designar Presidente del Tribunal Superior de Justicia, se convocará también al Magistrado Consejero para que, con voz y voto, pueda ejercer su derecho de elegir. Cada Sala Colegiada elegirá a su propio Presidente en la primera sesión del año.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -1937,35 +2019,25 @@ V. Haber residido en el Estado durante los diez años anteriores al día de la d
 
 VI. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se haya separado cinco años anteriores a la fecha de su designación, y
 
-VII. No haber sido Gobernador, Secretario de Despacho o su equivalente, Procurador General de Justicia, Senador, Diputado Federal o Local, ni Presidente Municipal, durante el año previo al día de su designación.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2016)</small>
+
+VII. No haber sido Gobernador, Secretario de Despacho o su equivalente, Fiscal General del Estado, Senador, Diputado Federal o Local, ni Presidente Municipal, durante el año previo al día de su designación.
 
 Los nombramientos de los Magistrados deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica.
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 14 DE MARZO DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SÉPTIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 102.
 
-Los Magistrados del Tribunal Superior de Justicia serán designados conforme al siguiente procedimiento:
+Los Magistrados del Tribunal de Justicia del Estado y de adolescentes, se elegirán de la forma siguiente:
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
+I.- El Consejo de la Judicatura del Poder Judicial del Estado, de conformidad con la Ley Orgánica del Poder Judicial, propondrá seis candidatos por cada cargo a Magistrado remitiendo los expedientes correspondientes al titular del Ejecutivo del Estado, quien de entre ellos formulará una terna por cada magistratura vacante, la cual enviará a la Legislatura del Estado para que designe a un Magistrado con la aprobación de la mayoría de los diputados que integren la legislatura.
 
-I. El Gobernador del Estado someterá una terna a la consideración de la Legislatura del Estado, la cual previa comparecencia de las personas propuestas, hará la designación correspondiente mediante el voto de las dos terceras partes de sus miembros, dentro del plazo de quince días naturales;
-
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
-
-II. Si la Legislatura del Estado no resolviere en el término señalado, rechaza la terna o no alcanza la votación requerida, el Gobernador dentro de los quince días posteriores, propondrá una nueva terna;
-
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
-
-III. Si presentada la segunda terna, a la Legislatura del Estado, ésta la rechaza, se abstiene de resolver, o no reúne la votación requerida dentro del plazo señalado en la fracción I del presente artículo, se llevará a cabo la aprobación mediante el voto secreto de cuando menos la mitad más uno de los Diputados asistentes a la sesión; de no reunirse esta votación, el Gobernador, dentro de los quince días posteriores a la celebración de la sesión, realizará la designación de entre los integrantes de la segunda terna.
-
-En los recesos de la Legislatura, la Diputación Permanente hará el nombramiento con carácter de provisional, en tanto aquella se reúne y emite la aprobación definitiva.
-
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
-
-Las licencias de los Magistrados para separarse temporalmente de sus funciones, por un lapso menor a un mes, podrán ser conferidas por el Pleno del Tribunal Superior de Justicia. Las que excedan de este término requerirán de la autorización expresa de la Legislatura del Estado.
+II.- Si dentro del término de quince días hábiles de haber sometido la terna para Magistrado a la consideración de la Legislatura del Estado, ésta nada resolviere o la rechaza, el derecho pasará al Ejecutivo del Estado, quien nombrará al Magistrado dentro de los candidatos propuestos en la terna señalada en el párrafo que antecede, y lo comunicará al Consejo de la Judicatura del Poder Judicial del Estado, para que éste a su vez proceda a la toma de protesta de ley.
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 028, PUBLICADO EN EL P.O. DE 2 DE JULIO DE 2008, SE MODIFICO LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
 
@@ -2013,11 +2085,13 @@ En los términos que la ley disponga las sesiones del Pleno y de las Salas será
 
 El control constitucional se erige dentro del régimen interior del Estado, como un medio para mantener la eficacia y vigencia de esta Constitución; tiene por objeto dirimir de manera definitiva e inatacable en el orden jurídico estatal, los conflictos que por la constitucionalidad de sus actos o disposiciones generales, surjan en el ámbito interior del Estado entre el Poder Ejecutivo y el Legislativo o entre uno de ellos y los municipios que conforman el Estado, o entre dos o más municipios, sin perjuicio de lo previsto en los artículos 76 fracción VII, 103, 105, 107 y último párrafo de la fracción II del 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 105.
 
-Para el cumplimiento de las atribuciones señaladas en la fracción VIII del artículo 103 de esta Constitución, el Tribunal Superior de Justicia contará con una Sala Constitucional y Administrativa, integrada por un Magistrado numerario, que tendrá competencia para substanciar y formular, en los términos de la Ley respectiva, los correspondientes proyectos de resolución definitiva que se someterán al Pleno del Tribunal Superior de Justicia, en los siguientes medios de control:
+Para el cumplimiento de las atribuciones señaladas en la fracción VIII del Artículo 103 de esta Constitución, el Tribunal Superior de Justicia contará con una Sala Constitucional, integrada por un Magistrado numerario, que tendrá competencia para substanciar y formular, en los términos de la Ley respectiva, los correspondientes proyectos de resolución definitiva que se someterán al Pleno del Tribunal Superior de Justicia, en los siguientes medios de control:
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 I. De las Controversias que, por la constitucionalidad de sus actos o disposiciones generales, con excepción de las que se refieran a la materia electoral, surjan entre:
 
@@ -2035,11 +2109,15 @@ La ley establecerá el plazo para la interposición de la demanda y los casos en
 
 La misma ley establecerá las condiciones para que tengan efectos generales, las resoluciones sobre controversias que impugnen la validez constitucional de disposiciones generales.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+
 II. De las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma de carácter general y esta Constitución, con excepción de las que se refieran a la materia electoral, siempre que se ejerzan dentro de los treinta días naturales siguientes a la fecha de publicación de la norma, por:
 
 A) Cuando menos la tercera parte de los miembros del Congreso del Estado;
 
-B) El Procurador General de Justicia del Estado, en contra de leyes de carácter estatal;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
+
+B) El Fiscal General del Estado, en contra de leyes de carácter estatal;
 
 La admisión de una acción de inconstitucionalidad no dará lugar a la suspensión de la norma impugnada.
 
@@ -2053,121 +2131,157 @@ A) El Gobernador del Estado; o
 
 B) Un Ayuntamiento del Estado.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+
 La resolución que emita el Pleno del Tribunal Superior de Justicia que decrete el reconocimiento de la inconstitucionalidad por omisión legislativa, surtirá sus efectos a partir de su publicación en el Periódico Oficial del Estado.
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
 
 En dicha resolución se determinará un plazo para que se expida la Ley o Decreto de que se trate la omisión, a más tardar en el período ordinario que curse o el inmediato siguiente de la Legislatura del Estado; pudiendo disminuir este plazo cuando el interés público lo amerite.
 
-La Sala Constitucional y Administrativa, de oficio o a petición de parte, también conocerá de las contradicciones de tesis que se contengan en las resoluciones de las demás salas, debiendo presentar el proyecto al Pleno del Tribunal para los efectos de la fracción IX del artículo 103 de esta Constitución. La Ley establecerá los términos en los que el Pleno del Tribunal Superior de Justicia emita jurisprudencia, sobre la interpretación de leyes, decretos y reglamentos locales, así como los requisitos para su interrupción y modificación.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+La Sala Constitucional, de oficio o a petición de parte, también conocerá de las contradicciones de tesis que se contengan en las resoluciones de las demás salas, debiendo presentar el proyecto al Pleno del Tribunal para los efectos de la fracción IX del Artículo 103 de esta Constitución. La Ley establecerá los términos en los que el Pleno del Tribunal Superior de Justicia emita jurisprudencia, sobre la interpretación de leyes, decretos y reglamentos locales, así como los requisitos para su interrupción y modificación.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 106.
 
-La Sala Constitucional y Administrativa conocerá y resolverá de los recursos o medios de defensa que la ley señale como de su competencia, que tengan por objeto dirimir las controversias que se susciten entre los particulares y la administración pública estatal o municipal:
+El Consejo de la Judicatura será un órgano del Poder Judicial del Estado con independencia técnica, de gestión y para emitir sus resoluciones. De conformidad con la Ley, el Consejo estará facultado para expedir reglamentos y disposiciones de carácter general para el adecuado Ejercicio de sus funciones.
 
-I. De los juicios en contra de actos administrativos que las autoridades de la Administración Pública del Estado o de los ayuntamientos dicten, ordenen, ejecuten o traten de ejecutar, en agravio de personas físicas o morales;
-
-II. De los juicios en contra de los actos administrativos de la Administración Pública Paraestatal del Estado o los municipios, cuando actúen con el carácter de autoridades;
-
-III. De los juicios en contra de las resoluciones definitivas dictadas por la Administración Pública del Estado o de los ayuntamientos en las que se determine la existencia de una obligación fiscal, se fije ésta en cantidad líquida o se den las bases para su liquidación, nieguen la devolución de un ingreso indebidamente percibido o cualesquiera otras que causen agravio en materia fiscal;
-
-IV. De los juicios en contra de la falta de contestación de las mismas autoridades, dentro de un término de treinta días naturales, a las promociones presentadas ante ellas por los particulares, a menos que las leyes y reglamentos fijen otros plazos o la naturaleza del asunto lo requiera;
-
-V. De los juicios en contra de resoluciones negativas ficta en materia fiscal, que se configurarán transcurridos cuatro meses a partir de la recepción por parte de las autoridades demandadas competentes de la última promoción presentada por él o los demandantes, a menos que las leyes fiscales fijen otros plazos;
-
-VI. De los juicios en que se demande la resolución positiva ficta, cuando la establezca expresamente las disposiciones legales aplicables y en los plazos en que éstas lo determinen;
-
-VII. De los juicios en que se impugne la negativa de la autoridad a certificar la configuración de la positiva ficta, cuando así lo establezcan las leyes;
-
-VIII. De los juicios que promuevan las autoridades para que sean nulificadas las resoluciones fiscales favorables a las personas físicas o morales y que causen una lesión a la Hacienda Pública del Estado o de los ayuntamientos;
-
-IX. De los demás que expresamente señalen esta Constitución y la ley.
-
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
-
-###### ARTICULO 107.
-
-La Sala Constitucional y Administrativa será competente para conocer y resolver, en única instancia, de las resoluciones del Ministerio Público sobre la reserva de la averiguación previa, el no ejercicio de la acción penal y las resoluciones de sobreseimiento que dicten los jueces con motivo de las peticiones de desistimiento que formule el Ministerio Público.
-
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
-
-###### ARTICULO 108.
-
-El Consejo de la Judicatura será un órgano del Poder Judicial del Estado con independencia técnica, de gestión y para emitir sus resoluciones. De conformidad con la ley, el Consejo estará facultado para expedir reglamentos y disposiciones de carácter general para el adecuado ejercicio de sus funciones.
-
-El Pleno del Tribunal Superior de Justicia podrá solicitar la expedición de aquellos acuerdos generales que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional. El mismo Pleno también podrá revisar y, en su caso, revocar los que el Consejo apruebe, por mayoría de cuando menos siete votos.
+El Pleno del Tribunal Superior de Justicia podrá solicitar la expedición de aquellos acuerdos generales que considere necesarios para asegurar un adecuado Ejercicio de la función jurisdiccional. El mismo Pleno también podrá revisar y, en su caso, revocar los que el Consejo apruebe, por mayoría de cuando menos siete votos.
 
 En los demás casos, las determinaciones del Consejo de la Judicatura serán definitivas e inatacables.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
 
-###### ARTICULO 109.
+###### ARTICULO 107.
 
-El Consejo de la Judicatura del Estado funcionará en Pleno o en comisiones, en los términos que señalen la ley y el reglamento que expida el propio Consejo.
+El Consejo de la Judicatura del Estado funcionará en Pleno o en Comisiones, en los términos que señalen la Ley y el Reglamento que expida el propio Consejo.
 
 Invariablemente en Pleno, conocerá sobre la designación, adscripción, ratificación, licencias, renuncias y remoción de jueces de primera instancia y de paz.
 
 En comisiones ejercerá las funciones de administración, carrera judicial, disciplina y la de adscripción.
 
-Contará en su estructura administrativa, con las unidades de apoyo que se determinen en la ley orgánica y en su reglamento interior.
+Contará en su estructura administrativa, con las unidades de apoyo que se determinen en la Ley Orgánica y en su reglamento interior.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
 
-### CAPITULO II. De la Hacienda Pública
-
-###### ARTICULO 110.
+###### ARTICULO 108.
 
 El Consejo de la Judicatura, se integrará por cinco miembros de los cuales, uno será el Presidente del Tribunal Superior de Justicia, quien lo presidirá; un Magistrado Numerario nombrado por el Pleno del Tribunal Superior de Justicia; un Juez de Primera Instancia nombrado por el Colegio de Jueces, de entre quienes tengan mayor antigüedad, y dos Consejeros Ciudadanos designados por la Legislatura. Los Consejeros no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad.
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
+Los Consejeros Ciudadanos del Consejo de la Judicatura del Estado deberán reunir los mismos requisitos exigidos para ser Magistrado del Tribunal Superior de Justicia; serán designados conforme al procedimiento establecido en el artículo 102 de esta Constitución.
 
-Los Consejeros Ciudadanos del Consejo de la Judicatura del Estado deberán reunir los mismos requisitos exigidos para ser Magistrado del Tribunal Superior de Justicia; serán designados conforme al procedimiento establecido en el Artículo 102 de esta Constitución.
-
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
-
-El Magistrado designado para ocupar el cargo de miembro del Consejo de la Judicatura, distinto del Presidente, no integrará Pleno del Tribunal Superior de Justicia, a excepción de las sesiones de este órgano, que tengan por objeto la elección del Magistrado que presidirá el Tribunal Superior de Justicia, tal como se establece en el párrafo primero del Artículo 99 de esta Constitución.
-
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2014)</small>
+El Magistrado designado para ocupar el cargo de miembro del Consejo de la Judicatura, distinto del Presidente, no integrará Pleno del Tribunal Superior de Justicia, a excepción de las sesiones de este órgano, que tengan por objeto la elección del Magistrado que presidirá el Tribunal Superior de Justicia, tal como se establece en el párrafo primero del artículo 99 de esta Constitución.
 
 El Magistrado distinto del Presidente, excepto en los casos previstos por esta Constitución, y el Juez que ocupen los cargos de Consejeros, no ejercerán funciones jurisdiccionales durante el ejercicio del mismo. En ambos casos ocuparán el cargo de consejeros durante dos años.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2014)</small>
-
 Los Consejeros Ciudadanos durarán en su encargo cinco años, podrán ser reelectos por la Legislatura del Estado o la Diputación Permanente, por una sola vez, para un periodo de igual duración, y solo podrán ser removidos en términos del Título Octavo de esta Constitución. El procedimiento de reelección se sujetará a los términos que establezca la ley.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
-
-Los integrantes del Consejo de Judicatura, con excepción de su Presidente, rendirán la protesta como tales ante el Pleno del Tribunal Superior de Justicia.
-
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+Los integrantes del Consejo de la Judicatura, con excepción de su Presidente, rendirán la protesta como tales ante el Pleno del Tribunal Superior de Justicia.
 
 El Consejo de la Judicatura del Estado propondrá al Pleno del Tribunal Superior de Justicia la división territorial del Estado en distritos y circuitos judiciales, con base en la agrupación de sus municipios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
 
-###### ARTICULO 111.
+###### ARTICULO 109.
 
-El Poder Judicial del Estado administrará con autonomía su presupuesto; el Consejo de la Judicatura elaborará el anteproyecto y lo someterá a la aprobación del Pleno del Tribunal Superior de Justicia. En todo caso, el presupuesto deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución;
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE OCTUBRE DE 2003)</small>
+El Poder Judicial del Estado administrará con autonomía su presupuesto; el Consejo de la Judicatura elaborará el anteproyecto y lo someterá a la aprobación del Pleno del Tribunal Superior de Justicia. En todo caso, el Presupuesto deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución; el Presupuesto de Egresos para el Poder Judicial no podrá ser menor al tres por ciento del Presupuesto de Egresos del Estado para el ejercicio fiscal de que se trate, y en ningún caso será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos será remitido a la Legislatura para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 15 de noviembre del año anterior al ejercicio fiscal que corresponda.
 
 El Presidente del Tribunal Superior de Justicia lo remitirá para su inclusión en el Proyecto de Presupuesto del Estado.
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
-
 La Cuenta Pública del Poder Judicial del Estado será revisada por la Legislatura del Estado, en los términos de esta Constitución y las leyes aplicables y comprenderá los recursos del Poder Judicial considerados en el Fondo para el Mejoramiento en la Administración e Impartición de Justicia.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE OCTUBRE DE 2003)</small>
+La Ley establecerá las bases para el manejo de dicho fondo.
 
-La ley establecerá las bases para el manejo de dicho Fondo.
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2016)</small>
+
+### CAPÍTULO VI. DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
+
+###### ARTICULO 110.
+
+El Tribunal de Justicia Administrativa del Estado de Quintana Roo, es un órgano jurisdiccional autónomo, con personalidad jurídica y patrimonio propio, con autonomía para dictar sus fallos y con jurisdicción plena. La ley establecerá las bases de su organización, funcionamiento, procedimientos y, en su caso, recursos contra sus resoluciones.
+
+La sede del Tribunal de Justicia Administrativa del Estado, será en la capital del Estado de Quintana Roo.
+
+El Tribunal se integrará por tres magistrados, uno de los cuales fungirá como su Presidente, el cual será electo por los miembros del Tribunal, para un período de tres años. El Tribunal de Justicia Administrativa del Estado funcionará en Pleno, de manera permanente.
+
+Para ser Magistrado del Tribunal de Justicia Administrativa del Estado, se requiere:
+
+I.- Ser ciudadano mexicano por nacimiento;
+
+II.- Ser ciudadano quintanarroense, en ejercicio de sus derechos políticos y civiles;
+
+III.- Tener cuando menos treinta y cinco años de edad cumplidos el día de la designación;
+
+IV.- Poseer el día de la designación, título y cédula profesional de Licenciado en Derecho, expedido por la autoridad o institución legalmente facultada para ello, con antigüedad mínima de diez años;
+
+V.- Gozar de buena reputación, y no haber sido condenado por delito doloso;
+
+VI.- Haber residido en el Estado durante los diez años anteriores al día de la designación;
+
+VII.- No pertenecer al Estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se haya separado cinco años anteriores a la fecha de su designación, y
+
+VIII.- No haber sido Gobernador, Secretario de Despacho o su equivalente, Fiscal General del Estado, Senador, Diputado Federal o Local, Presidente Municipal, Magistrado, Integrante o contralor de órgano autónomo constitucional, durante los cinco años previos al día de su designación.
+
+Los Magistrados del Tribunal de Justicia Administrativa serán designados por el Titular del Poder Ejecutivo del Estado y ratificados por el voto de las dos terceras partes de los miembros integrantes de la Legislatura del Estado, o en sus recesos, por las dos terceras partes de los miembros integrantes de la Diputación Permanente, de acuerdo con el procedimiento que establezca la ley y durarán en su encargo siete años, con posibilidad de ser ratificado por un periodo de igual duración. Los Magistrados del Tribunal de Justicia Administrativa del Estado rendirán protesta ante la Legislatura del Estado o la Diputación Permanente, en su caso.
+
+Los Magistrados del Tribunal de Justicia Administrativa del Estado sólo podrán ser removidos de sus cargos por las causas graves que señale la ley.
+
+El Tribunal de Justicia Administrativa del Estado contará con un Secretario General. La ley determinará los requisitos, el procedimiento de designación y el tiempo de duración de su encargo.
+
+Los funcionarios señalados en el presente artículo, no podrán tener, servir o desempeñar al mismo tiempo otro empleo, cargo o comisión diverso, con excepción de la docencia y los cargos honoríficos en instituciones públicas o privadas, asociaciones o sociedades científicas, literarias, culturales, educativas, deportivas, de investigación científica o de beneficencia, cuyo desempeño no perjudique las funciones o labores propias de su cargo.
+
+La retribución que perciban los Magistrados del Tribunal de Justicia Administrativa del Estado, será la equivalente a la de un Magistrado Numerario del Tribunal Superior de Justicia del Estado.
+
+El Presupuesto de Egresos del Tribunal de Justicia Administrativa del Estado, no podrá ser menor al cero punto quince por ciento del presupuesto de Egresos del Estado, para el ejercicio fiscal de que se trate y en ningún caso, será menor al presupuesto otorgado en el año inmediato anterior. Para tal efecto, el proyecto de presupuesto de egresos del Tribunal, será remitido a la Legislatura, para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 15 de noviembre del año anterior al ejercicio fiscal que corresponda. El presupuesto de egresos del Tribunal de Justicia Administrativa del Estado, deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
+
+El Tribunal de Justicia Administrativa del Estado ejercerá directamente su presupuesto aprobado por la Legislatura del Estado, sin sujetarse a las disposiciones de la Secretaría de Finanzas y Planeación del Estado.
+
+La Ley establecerá las condiciones para el ingreso, formación, permanencia, capacitación y actualización de los servidores públicos del Tribunal de Justicia Administrativa del Estado.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
+
+###### ARTICULO 111.
+
+El Tribunal de Justicia Administrativa del Estado de Quintana Roo, tendrá a su cargo:
+
+I.- Dirimir las controversias que se susciten entre la administración pública local y municipal y los particulares, derivados de:
+
+a) Los juicios en contra de actos administrativos que las autoridades de la Administración Pública del Estado o de los Ayuntamientos dicten, ordenen, ejecuten o traten de ejecutar, en agravio de personas físicas o morales;
+
+b) Los juicios en contra de los actos administrativos de la Administración Pública Paraestatal del Estado o los Municipios, cuando actúen con el carácter de autoridades;
+
+c) Los juicios en contra de las resoluciones definitivas dictadas por la Administración Pública del Estado o de los Ayuntamientos en las que se determine la existencia de una obligación fiscal, se fije ésta en cantidad líquida o se den las bases para su liquidación, nieguen la devolución de un ingreso indebidamente percibido o cualesquiera otras que causen agravio en materia fiscal;
+
+d) Los juicios en contra de la falta de contestación de las mismas autoridades, dentro de un término de treinta días naturales, a las promociones presentadas ante ellas por los particulares, a menos que las leyes y reglamentos fijen otros plazos o la naturaleza del asunto lo requiera;
+
+e) Los juicios en contra de resoluciones de negativa ficta en materia fiscal, que se configurarán transcurridos cuatro meses a partir de la recepción por parte de las autoridades demandadas competentes de la última promoción presentada por el o los demandantes, a menos que las leyes fiscales fijen otros plazos;
+
+f) Los juicios en que se demande la resolución de afirmativa ficta, cuando lo establezcan expresamente las disposiciones legales aplicables y en los plazos en que éstas lo determinen;
+
+g) Los juicios en que se impugne la negativa de la autoridad a certificar la configuración de la afirmativa ficta, cuando así lo establezcan las leyes, y
+
+h) Los juicios que promuevan las autoridades para que sean nulificadas las resoluciones fiscales favorables a las personas físicas o morales y que causen una lesión a la Hacienda Pública del Estado o de los Ayuntamientos;
+
+II.- Imponer, en los términos que disponga la ley, las sanciones a los servidores públicos locales y municipales por responsabilidad administrativa grave, y a los particulares que incurran en actos vinculados con faltas administrativas graves;
+
+III.- Fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos locales o municipales;
+
+IV.- Aprobar, modificar o dejar sin efectos la jurisprudencia y tesis relevantes que se deriven de las sentencias del Tribunal de Justicia Administrativa del Estado, y
+
+V.- Las demás atribuciones que expresamente se señalen en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y la Ley.
+
+Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, se observará lo previsto en esta Constitución, sin perjuicio de las atribuciones del Órgano de Fiscalización Superior del Estado sobre el manejo, la custodia y aplicación de recursos públicos.
+
+El Tribunal de Justicia Administrativa del Estado impondrá a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos locales o municipales. Las personas morales serán sancionadas en los mismos términos cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos locales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. La ley establecerá los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
 
 ## TITULO QUINTO. De la División de Poderes
 
-### CAPITULO I. De la División Política, Administrativa y Territorial del Estado
-
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+### CAPITULO I. Del Patrimonio
 
 ###### ARTICULO 112.
 
@@ -2195,9 +2309,7 @@ Estos bienes son inalienables, imprescriptibles e inembargables y no están suje
 
 Los bienes de dominio privado del Estado son los que le pertenecen en propiedad y los que en el futuro ingresen a su patrimonio, por cualesquiera formas de adquisición de la propiedad, no previstos en el artículo precedente.
 
-### CAPITULO II. Del Gobierno Municipal
-
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+### CAPITULO II. De la Hacienda Pública
 
 ###### ARTICULO 115.
 
@@ -2259,7 +2371,7 @@ El Secretario encargado de la hacienda pública del Estado remitirá anualmente 
 
 ## TITULO SEXTO. Del Patrimonio y Hacienda Pública del Estado
 
-### CAPITULO III. De la Autonomía Municipal
+### CAPITULO I. De la División Política, Administrativa y Territorial del Estado
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -3107,7 +3219,7 @@ La extensión y límites de las cabeceras, alcaldías, delegaciones y subdelegac
 
 (REUBICADO Y REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2003)
 
-### CAPITULO IV. De las Funciones y Servicios Públicos
+### CAPITULO II. Del Gobierno Municipal
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -3257,9 +3369,9 @@ La Legislatura del Estado, por acuerdo de las dos terceras partes de sus integra
 
 (REUBICADO Y REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2003)
 
-### CAPITULO V. De la Hacienda Pública
+### CAPITULO III. De la Autonomía Municipal
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 145.
 
@@ -3273,7 +3385,7 @@ Conforme al artículo anterior, la Ley establecerá las bases generales de la ad
 
 (REUBICADO Y REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2003)
 
-### CAPITULO VI. Desarrollo Urbano
+### CAPITULO IV. De las Funciones y Servicios Públicos
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -3347,9 +3459,9 @@ La Legislatura del Estado emitirá las normas que establezcan los procedimientos
 
 (REUBICADO Y REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2003)
 
-### CAPITULO VII. Seguridad Pública
+### CAPITULO V. De la Hacienda Pública
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 153.
 
@@ -3417,7 +3529,7 @@ Los bienes del dominio público municipal son inalienables, imprescriptibles e i
 
 (REUBICADO Y REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2003)
 
-### CAPITULO VIII. Relaciones Laborales
+### CAPITULO VI. Desarrollo Urbano
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -3461,9 +3573,9 @@ En lo conducente y de conformidad a los fines señalados en el párrafo tercero 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2003)</small>
 
-### CAPITULO UNICO. De la Responsabilidad de los Servidores Públicos
+### CAPITULO VII. Seguridad Pública
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 157.
 
@@ -3479,7 +3591,7 @@ Los cuerpos de Seguridad Pública y Tránsito de los Municipios coordinarán sus
 
 (REUBICADO Y REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2003)
 
-### CAPITULO UNICO. De las Reformas a la Constitución
+### CAPITULO VIII. Relaciones Laborales
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -3495,19 +3607,19 @@ Las relaciones laborales entre los Municipios y sus trabajadores se regirán por
 
 ### CAPITULO UNICO. De la Responsabilidad de los Servidores Públicos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 160.
 
-Para los efectos de las responsabilidades a que alude este Título, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, funcionarios y empleados del Gobierno del Estado y de los ayuntamientos y en general, a toda persona que desempeñe un cargo de cualquier naturaleza en los poderes Legislativo, Ejecutivo y Judicial, ayuntamientos, organismos descentralizados de la administración pública estatal o municipal, empresas de participación estatal o municipal y fideicomisos públicos del estado o de los municipios, así como a los funcionarios y empleados del Instituto Electoral de Quintana Roo, del Tribunal Electoral de Quintana Roo y del Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades a que alude este Título, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, funcionarios y empleados del gobierno del Estado y de los ayuntamientos y en general, a toda persona que desempeñe un cargo de cualquier naturaleza en los poderes Legislativo, Ejecutivo y Judicial, ayuntamientos, organismos descentralizados de la administración pública estatal o municipal, empresas de participación estatal o municipal y fideicomisos públicos del estado o de los municipios, así como a los funcionarios y empleados del Instituto Electoral de Quintana Roo, del Tribunal Electoral de Quintana Roo, del Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, de la Fiscalía General del Estado de Quintana Roo y del Tribunal de Justicia Administrativa del Estado de Quintana Roo, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 La Legislatura del Estado expedirá una Ley de Responsabilidades de los Servidores Públicos, así como las demás disposiciones que sancionen conductas que entrañen responsabilidad de los servidores públicos conforme a las siguientes prevenciones:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2016)</small>
 
-I.- Se impondrá mediante juicio político: a la o el Gobernador del Estado, a las y los Diputados de la Legislatura, las y los Magistrados del Tribunal Superior de Justicia, las y los Magistrados del Tribunal Electoral de Quintana Roo, las y los Consejeros de la Judicatura del Poder judicial, las y los Magistrados de los Tribunales Unitarios, a la o al Titular del Órgano de Fiscalización Superior, a las o los comisionados del Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, a las o los Consejeros Electorales del Consejo General, así como a la o el Secretario General del Instituto Electoral de Quintana Roo, las y los Secretarios y Subsecretarios del Despacho, a la o el Procurador General de Justicia del Estado, las y los Directores Generales o sus equivalentes de los organismos descentralizados del Estado o de los Municipios, empresas de participación estatal o municipal, fideicomisos del Estado o de los Municipios y miembros de los Ayuntamientos; sanciones consistentes en destitución del cargo e inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público, cuando incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
+I.- Se impondrá mediante juicio político: a la o el Gobernador del Estado, a las y los Diputados de la Legislatura, las y los Magistrados del Tribunal Superior de Justicia, las y los Magistrados del Tribunal Electoral de Quintana Roo, las y los Consejeros de la Judicatura del Poder Judicial, las y los Magistrados del Tribunal de Justicia Administrativa del Estado, a la o al Titular del Órgano de Fiscalización Superior, a las o los comisionados del Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, a las o los Consejeros Electorales del Consejo General, así como a la o el Secretario General del Instituto Electoral de Quintana Roo, las y los Secretarios y Subsecretarios del Despacho, a la o el Fiscal General del Estado, las y los Directores Generales o sus equivalentes de los organismos descentralizados del Estado o de los Municipios, empresas de participación estatal o municipal, fideicomisos del Estado o de los Municipios y miembros de los Ayuntamientos; sanciones consistentes en destitución del cargo e inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público, cuando incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. Cualquier ciudadano bajo su más estricta responsabilidad y aportando los elementos de prueba, podrá formular denuncia ante la Legislatura, de las conductas a que se refiere esta fracción.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -3580,6 +3692,8 @@ Siempre que se trate de alguno de los servidores públicos especificados en la f
 ## TITULO OCTAVO. (REUBICADO, P.O. 24 DE OCTUBRE DE 2003)
 
 ### CAPITULO UNICO. De las Reformas a la Constitución
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 164.
 
@@ -4696,3 +4810,55 @@ P.O. 15 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 405 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 19 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 25 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 411 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo, con excepción de lo previsto en el artículo séptimo transitorio de este decreto.
+
+SEGUNDO. Una vez que entren en vigor las disposiciones constitucionales relativas a la Fiscalía General del Estado contenidas en este Decreto, se procederá de la siguiente forma:
+
+a) El Procurador General de Justicia del Estado que se encuentre en funciones a la entrada en vigor del presente decreto, quedará designado por el tiempo que establece el artículo 96 de esta Constitución, sin perjuicio del procedimiento de remoción previsto en el inciso d) del apartado A de dicho artículo.
+
+b) La Fiscalía General continuará con los procedimientos jurisdiccionales, administrativos, de responsabilidad o cualquier otro que estuviesen en trámite por parte de la Procuraduría General de Justicia del Estado se concluirán conforme a la normatividad vigente al inicio del procedimiento de que se trate a través de los órganos de la Fiscalía que la Ley señale.
+
+c) Los asuntos en los que la Procuraduría General de Justicia ejerza la representación del Estado de Quintana Roo o del titular del Poder Ejecutivo, que se encuentren en trámite, deberán remitirse dentro de los veinte días hábiles siguientes al Consejero Jurídico del Poder Ejecutivo del Estado quien deberá continuar con la sustanciación de los mismos.
+
+d) La Fiscalía General del Estado de Quintana Roo, continuará aplicando las disposiciones reglamentarias y administrativas que no se opongan al presente Decreto, hasta en tanto el Fiscal General del Estado expida las correspondientes y entren en vigor en su ámbito de competencia.
+
+e) La Secretaría de Finanzas y Planeación del Gobierno del Estado de Quintana Roo, transferirá los recursos asignados a la Procuraduría General de Justicia del Estado en el Presupuesto de Egresos del Estado para el ejercicio fiscal 2016 a la Fiscalía General del Estado.
+
+f) Los recursos humanos, presupuestales, financieros y materiales de la Procuraduría General de Justicia del Estado pasarán al órgano autónomo denominado Fiscalía General del Estado.
+
+g) El Titular de la Dirección General de Visitaduría que se encuentre en funciones a la entrada en vigor del presente decreto, quedará designado como Contralor interno de la Fiscalía General del Estado por el tiempo que establece el artículo 96 apartado D de esta Constitución.
+
+TERCERO. Una vez que entren en vigor las disposiciones constitucionales relativas al Tribunal de Justicia Administrativa del Estado de Quintana Roo, contenidas en este Decreto, se procederá de la siguiente forma:
+
+a) El Titular del Poder Ejecutivo del Estado, deberá designar a más tardar dentro de los quince días naturales siguientes a la entrada en vigor del presente decreto, mediante el procedimiento establecido en la ley, a los Magistrados del Tribunal de Justicia Administrativa del Estado de Quintana Roo.
+
+b) El Tribunal de Justicia Administrativa del Estado de Quintana Roo, como órgano autónomo, con personalidad jurídica y patrimonio propio, quedará instalado para efectos de llevar cabo su organización y funcionamiento interno administrativo, dentro de los quince días posteriores a la designación de los Magistrados, de conformidad con la Constitución Política del Estado Libre y Soberano de Quintana Roo y las leyes respectivas.
+
+Para iniciar su labor jurisdiccional, el Tribunal de Justicia Administrativa del Estado de Quintana Roo, quedará legalmente instalado, previa declaratoria que el mismo emita, el día nueve de enero del año dos mil diecisiete.
+
+c) En tanto queda legalmente instalada la función jurisdiccional del Tribunal de Justicia Administrativa del Estado de Quintana Roo, de conformidad con el inciso inmediato anterior, la Sala Constitucional del Poder Judicial del Estado, seguirá conociendo y substanciando los asuntos que sean competencia del Tribunal de Justicia Administrativa del Estado, de conformidad con las atribuciones establecidas en el artículo 111 de esta Constitución y demás legislación aplicable.
+
+d) La Sala Constitucional del Poder Judicial del Estado, deberá substanciar y concluir aquellos asuntos que se encuentren en trámite y que se hayan iniciado con anterioridad a la Instalación de la función jurisdiccional del Tribunal de Justicia Administrativa, de conformidad con la legislación aplicable.
+
+Asimismo, la Sala Constitucional del Poder Judicial del Estado seguirá conociendo en única instancia, de las resoluciones del Ministerio Público, sobre la reserva de la averiguación previa, el no ejercicio de la acción penal y las resoluciones de sobreseimiento que dicten los jueces con motivo de las peticiones de desistimiento que formule el Ministerio Público, respecto de los asuntos pendientes por substanciarse en el sistema tradicional de justicia penal, de conformidad con la Declaratoria de Incorporación del Sistema Procesal Penal Acusatorio y Oral en los ordenamientos legales del Estado libre y Soberano de Quintana Roo, publicado en el Periódico Oficial del Estado de Quintana Roo, de fecha 6 de junio de 2014.
+
+e) El Magistrado Numerario que conforma la Sala Constitucional del Poder Judicial del Estado, continuará ejerciendo sus funciones y competencias en su encargo por el tiempo que haya sido nombrado, dejando a salvo sus derechos de conformidad con las disposiciones previstas en la Constitución Política del Estado Libre y Soberano de Quintana Roo y la Ley Orgánica del Poder Judicial del Estado.
+
+f) Se faculta a la Secretaría de Finanzas y Planeación del Gobierno del Estado de Quintana Roo, para que efectúe las adecuaciones presupuestales necesarias, así como los traspasos y transferencias que resulten procedentes para el ejercicio fiscal 2016, a efecto de que el Tribunal de Justicia Administrativa del Estado de Quintana Roo, inicie con su correcto funcionamiento.
+
+CUARTO. Las referencias que se hagan en otras leyes de la entidad a la Procuraduría General de Justicia o al Procurador General de Justicia del Estado, se entenderán ahora a la Fiscalía General del Estado y al Fiscal General del Estado, respectivamente.
+
+Asimismo, las referencias que se hagan en otras leyes de la entidad a la Sala Constitucional y Administrativa del Poder Judicial del Estado y sean de competencia del Tribunal de Justicia Administrativa del Estado, en términos de lo establecido en este decreto, se entenderán hechas a éste.
+
+QUINTO. Los porcentajes de presupuesto de egresos establecidos para el Poder Legislativo, el Poder Judicial y órganos autónomos constitucionales, de acuerdo con lo establecido en el presente decreto, deberán aplicarse a partir del Presupuesto de Egresos del Estado, para el ejercicio fiscal 2017.
+
+SEXTO. Por esta única ocasión, quien ejerce la titularidad de la Presidencia del Tribunal Superior de Justicia del Estado a la entrada en vigor del presente decreto, podrá participar en el proceso de designación siguiente como Presidente del Tribunal Superior de Justicia del Estado.
+
+SÉPTIMO. Lo dispuesto en el artículo 102 de este decreto, entrará en vigor a los quince días hábiles posteriores a la entrada en vigor de este decreto.
+
+OCTAVO. Se derogan las disposiciones que se opongan al presente decreto.
