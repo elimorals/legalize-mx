@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2016-05-17"
+last_updated: "2016-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -125,9 +125,9 @@ Los hablantes de lenguas indígenas, tendrán acceso a la educación obligatoria
 
 V.- Infundir el conocimiento y la práctica de la democracia como forma de gobierno y como sistema de vida que permita la participación de todos en el desarrollo político, económico y social del Estado, y en general, en la toma de decisiones para el mejoramiento de la sociedad;
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2016)</small>
 
-VI.- Promover el valor de la justicia, de la observancia de la ley y de la igualdad de derechos entres (sic) las personas;
+VI.- Promover el valor de la justicia, la igualdad de derechos entre las personas y la cultura de la legalidad basada en la integridad de la persona;
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -3882,5 +3882,11 @@ P.O. 7 DE MAYO DE 2016.
 P.O. 17 DE MAYO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25825/LXI/2016 QUE REFORMA LOS ARTÍCULOS 6° DE LA LEY DE ACUACULTURA Y PESCA; 49 Y 50 DE LA LEY DE ATENCIÓN A LA JUVENTUD; 26 DE LA LEY DE BIBLIOTECAS; 7° DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE; 16 DE LA LEY DE DESARROLLO RURAL Y SUSTENTABLE; 7° DE LA LEY DE EDUCACIÓN; 10 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO; 3° DE LA LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL; 4° DE LA LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR; 3° DE LA LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA; 3° DE LA LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS; 4° DE LA LEY ORGÁNICA DEL INSTITUTO DE FOMENTO AL COMERCIO EXTERIOR; 6° DE LA LEY PARA EL DESARROLLO ECONÓMICO Y 8° Y 11 FRACCIÓN II, INCISO C) DE LA LEY DEL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE JALISCO PARA EL DESARROLLO Y LA COMPETITIVIDAD, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 25 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25843/LXI/2016 QUE REFORMA LA FRACCIÓN VI, AL ARTÍCULO 7° DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
