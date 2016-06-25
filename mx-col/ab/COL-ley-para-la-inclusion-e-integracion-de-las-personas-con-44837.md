@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-inclusion-e-integracion-de-las-personas-con-44837"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-07"
-last_updated: "2016-06-18"
+last_updated: "2016-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COL"
 ---
 # LEY PARA LA INCLUSION E INTEGRACION DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA -- ANTES LEY PARA LA INCLUSION DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA -- ANTES LEY PARA LA INTEGRACION Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA --
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE JUNIO DE 2016 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY PARA LA INTEGRACIÓN Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE JUNIO DE 2016.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 7 de mayo de 2005.
 
@@ -239,15 +239,15 @@ El INCODIS procurará que las medidas que se adopten de acatamiento de las dispo
 
 La Secretaría de Planeación en coordinación con el INCODIS serán los responsables de proponer a las instituciones públicas, sociales y privadas de la entidad, acciones, política, planes y programas específicos de concertación, planeación y promoción, que garanticen las condiciones favorables para el desarrollo de las personas con discapacidad.
 
-> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2016)</small>
-
-El INCODIS y la Unidad Estatal de Protección Civil deberán elaborar y actualizar periódicamente, una guía para la atención y protección de las personas con discapacidad en casos de emergencia o siniestro. Dicha guía deberá ser adoptada en todos los inmuebles de las dependencias públicas estatales y municipales, así como estar disponible para consulta de la población en general.
-
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2013)</small>
 
 ###### Artículo 13 Bis.
 
 La Unidad Estatal de Protección Civil en coordinación con el INCODIS planearán acciones adecuadas para garantizar la seguridad y, en su caso, la protección prioritaria de las personas con discapacidad durante situaciones de riesgo y emergencia que pongan en peligro su integridad física.
+
+(ADICIONADO, P.O. 18 DE JUNIO DE 2016) (F. DE E., P.O. 25 DE JUNIO DE 2016)
+
+El INCODIS y la Unidad Estatal de Protección Civil deberán elaborar y actualizar periódicamente, una guía para la atención y protección de las personas con discapacidad en casos de emergencia o siniestro. Dicha guía deberá ser adoptada en todos los inmuebles de las dependencias públicas estatales y municipales, así como estar disponible para consulta de la población en general.
 
 ###### Artículo 14.
 
