@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-establece-las-bases-para-el-otorgamiento-de-premios-389
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-27"
-last_updated: "2014-04-08"
+last_updated: "2016-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2016.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 27 de diciembre de 2003.
 
@@ -93,35 +93,43 @@ Los reconocimientos a que se refiere la ley se entregarán de forma anual; sin e
 
 Se instituye el Consejo Consultivo para el Otorgamiento de Premios como organismo dependiente de la Secretaría General de Gobierno, con la función única de analizar los méritos de los candidatos y dictaminar sobre la procedencia.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
+
 ###### Artículo 9.
 
-El Consejo Consultivo será presidido por el Secretario General de Gobierno o la persona que éste designe y se integrará por un representante de las dependencias y entidades que se indican a continuación:
+El Consejo Consultivo se integrará por:
 
-I. Secretaría de Educación;
+I. Secretaría General de Gobierno, quien lo presidirá;
 
-II. Secretaría de Cultura;
+II. Secretaría de Educación;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+III. Secretaría de Cultura;
 
-III. Secretaría de Planeación, Administración y Finanzas;
+IV. Secretaría de Planeación, Administración y Finanzas;
 
-IV. Universidad de Guadalajara;
+V. Secretaría de Medio Ambiente y Desarrollo Territorial;
 
-V. Consejo Estatal para el Fomento Deportivo y Apoyo a la Juventud;
+VI. Congreso del Estado de Jalisco, a través de la presidencia de la Comisión Legislativa de Cultura;
 
-VI. Consejo Estatal para la Cultura y las Artes;
+VII. Universidad de Guadalajara;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2012)</small>
+VIII. Consejo Estatal para el Fomento Deportivo y Apoyo a la Juventud;
 
-VII. H. Congreso del Estado de Jalisco, a través de la presidencia de la Comisión Legislativa de Cultura;
+IX. Consejo Estatal para la Cultura y las Artes;
 
-VIII. La Federación de Colegios de Profesionistas de Jalisco; y
+X. Consejo Estatal de Ciencia y Tecnología;
 
-IX. Consejo Estatal de Ciencia y Tecnología.
+XI. Instituto Jalisciense de la Juventud; y
+
+XII. La Federación de Colegios de Profesionistas de Jalisco.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
 
 ###### Artículo 10.
 
-El cargo de consejero será honorífico, durará en el cargo tres años, podrá ser reelecto por un período más y deberá nombrarse un suplente por cada consejero propietario.
+El cargo de consejero será honorífico, durará en el cargo tres años, podrá ser reelecto por un período más.
+
+Los integrantes del Consejo designarán a su representante y suplente para que asistan a sus sesiones.
 
 ###### Artículo 11.
 
@@ -187,9 +195,9 @@ VI. Científico: a quien haya realizado estudios, descubrimientos, aportaciones 
 
 VII. Deportivo: a quien se haya destacado por su esfuerzo y alto rendimiento en competencias nacionales o internacionales o cuya conducta deportiva constituya un ejemplo a seguir, y
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2016)</small>
 
-VIII. Forestal: a las personas físicas o jurídicas no gubernamentales que se hayan destacado por su esfuerzo y dedicación en los estudios, descubrimientos de insumos en el mejoramiento forestal e insecticidas para combatir las plagas en general en materia forestal y aportaciones en el manejo sustentable, protección y restauración forestal, cadenas productivas y cultura forestal.
+VIII. Ambiental: a las personas físicas o jurídicas no gubernamentales que se hayan destacado en la preservación, restauración y conservación del equilibrio ecológico, forestal, biodiversidad, desarrollo urbano sustentable, territorial; por el fomento y desarrollo de buenas prácticas ambientales que hayan contribuido al aprovechamiento de las potencialidades ambientales o la protección, conservación y mejoramiento del medio ambiente; o por su esfuerzo y dedicación en los estudios, descubrimientos de insumos en el mejoramiento ambiental y desarrollo sustentable, o por sus aportaciones en materia de acción ante el cambio climático.
 
 ###### Artículo 18.
 
@@ -209,7 +217,9 @@ VI. Académico: a los jóvenes, cuya dedicación y entrega al estudio provoquen 
 
 VII. Deportivo: a quien haya destacado por su esfuerzo y alto rendimiento en competencias nacionales o internacionales, o cuya conducta deportiva constituya un ejemplo a seguir.
 
-Los premios a que se refiere este artículo serán entregados por el Titular del Ejecutivo en ceremonia pública que se efectúe en el marco conmemorativo de la erección del Estado de Jalisco.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
+
+Los premios a que se refiere este capítulo serán entregados por el Titular del Ejecutivo en ceremonia pública que se efectúe en el marco conmemorativo de la erección del Estado de Jalisco.
 
 ### CAPÍTULO CUARTO. De las Condecoraciones
 
@@ -235,7 +245,7 @@ a) Pintura
 
 b) Escultura
 
-c) Poesía
+c) (DEROGADO, P.O. 25 DE JUNIO DE 2016)
 
 d) Música
 
@@ -275,13 +285,25 @@ IX. Condecoración "Fray Antonio Alcalde": a las personas físicas o jurídicas 
 
 X. Condecoración "Salvador López Chávez": a las personas físicas o jurídicas que se hayan distinguido por su espíritu empresarial y de fomento económico; y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2016)</small>
 
-XI. Condecoración "Mariano Bárcena y Ramos", a quien se haya destacado en la labor científica o tecnológica;
+XI. Condecoración "Mariano Bárcena y Ramos": a quien se haya destacado en la labor científica y tecnológica;
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2016)</small>
 
-XII. Condecoración "Juan Rulfo" a quien se haya distinguido en letras.
+XII. Condecoración "Guillermo González Camarena": a jóvenes que se hayan distinguido por su labor en el campo de la innovación, ciencia y tecnología; y
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2016)</small>
+
+XIII. Condecoración "Juan Rulfo" a quienes hayan destacado en el campo artístico en las siguientes modalidades:
+
+a) Poesía;
+
+b) Narrativa;
+
+c) Dramaturgia; y
+
+d) Ensayo literario.
 
 ###### Artículo 20.
 
@@ -289,7 +311,7 @@ Para el otorgamiento de las condecoraciones se seguirá el siguiente procedimien
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-I. Las comisiones legislativas de Educación, de Cultura y de Ciencia y Tecnología del Congreso, emitirán una convocatoria para la entrega de las condecoraciones a más tardar el día treinta de septiembre del año anterior a su entrega y será dirigida a los organismos sociales, colegios de profesionistas, su entrega y será dirigida a los organismos sociales, colegios de profesionistas, universidades y a la sociedad en general, con finalidad de allegarse propuestas de candidatos; la cual será publicada en dos diarios de amplia circulación en el Estado y en la página web del Congreso del Estado de Jalisco. (sic)
+I. Las comisiones legislativas de Educación, de Cultura y de Ciencia y Tecnología del Congreso, emitirán una convocatoria para la entrega de las condecoraciones a más tardar el día treinta de septiembre del año anterior a su entrega y será dirigida a los organismos sociales, colegios de profesionistas, su entrega y será dirigida a los organismos sociales, colegios de profesionistas, universidades y a la sociedad en general, con finalidad de allegarse propuestas de candidatos; la cual será publicada en dos diarios de amplia circulación en el Estado y en la página web del Congreso del Estado de Jalisco.
 
 La convocatoria deberá contener como mínimo las siguientes bases:
 
@@ -426,3 +448,9 @@ DECRETO No. 23974/LIX/12 POR LO QUE SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 9.
 P.O. 8 DE ABRIL DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 25 DE JUNIO DE 2016
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25845/LXI/2016 QUE REFORMA LOS ARTÍCULOS 9, 10, 17, 18 Y 19 DE LA LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor a partir del día de su publicación en el periódico oficial El Estado de Jalisco.
