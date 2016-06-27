@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2016-06-13"
+last_updated: "2016-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "VER"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE- ANTES CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE-
 
-(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 882 PUBLICADO EL TRECE DE JUNIO DE DOS MIL DIECISÉIS, EN EL PERIÓDICO OFICIAL DEL ESTADO DE VERACRUZ, POR EL QUE SE ADICIONARON DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE JUNIO DE 2016.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -159,7 +157,7 @@ El Estado promoverá, en la medida de los recursos presupuestales disponibles, e
 
 Toda persona gozará del derecho a la información, así como al de acceso, rectificación, cancelación y oposición al tratamiento de sus datos personales, frente a los sujetos obligados.
 
-(NOTA: EL 13 DE ABRIL DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 205/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADA CON MAYUSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE ABRIL DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 13 DE ABRIL DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 205/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADAS CON MAYUSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE ABRIL DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(ADICIONADO, G.O. 27 DE ABRIL DE 2016)</small>
 
@@ -1749,6 +1747,10 @@ El Poder Judicial administrará con autonomía su presupuesto, el cual se maneja
 
 El fondo auxiliar para la impartición de justicia estará bajo la administración del Consejo de la Judicatura, y se integrará con los productos y rendimientos que se generen por las inversiones de los depósitos en dinero o valores que se efectúen ante los tribunales, y además con los ingresos por el pago de multas, cauciones o por cualquier otra prestación autorizada por la ley, en ejercicio de las atribuciones del Poder Judicial. Dicho fondo será aplicado exclusivamente al mejoramiento de la impartición de justicia.
 
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2016)</small>
+
+El presupuesto asignado al Poder Judicial podrá ser mayor pero no menor al dos por ciento del total del presupuesto general del Estado, previsto para el ejercicio anual respectivo, y deberá ministrarse conforme al calendario autorizado en los términos que establezca la ley.
+
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
 ###### Artículo 61.
@@ -1935,7 +1937,9 @@ Estos organismos desarrollarán las actividades Estatales siguientes:
 
 I. La procuración de justicia y la vigilancia del cumplimiento de las leyes, de acuerdo con las disposiciones de la Constitución federal que rigen la actuación del ministerio público, para ejercer las acciones correspondientes en contra de los infractores de la ley, así como las que tengan por objeto la efectiva reparación del daño causado y la protección de los derechos de la víctima del acto ilícito.
 
-Esta actividad estará a cargo del organismo autónomo del Estado denominado Fiscalía General.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2016)</small>
+
+Esta actividad estará a cargo del organismo autónomo del Estado denominado Fiscalía General, que para su estricto cumplimiento contará con una autonomía presupuestaria que podrá ser mayor pero no menor al uno punto cinco por ciento del total del presupuesto general del Estado previsto para el ejercicio anual respectivo y que deberá ministrarse conforme al calendario autorizado en los términos que establezca la ley.
 
 La función de procurar justicia encomendada a la Fiscalía General, se regirá por los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad y respeto a los derechos humanos, de acuerdo con las siguientes bases:
 
@@ -12430,3 +12434,21 @@ G.O. 13 DE JUNIO DE 2016.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 27 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 890 QUE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 60 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 27 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 891 QUE REFORMA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN I DEL ARTÍCULO 67 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial. Órgano del Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero. Se otorga un plazo de ciento ochenta días naturales para adecuar la legislación secundaria a la presente reforma.
