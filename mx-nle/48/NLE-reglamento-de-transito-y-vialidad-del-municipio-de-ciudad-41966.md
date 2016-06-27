@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-ciudad-41966
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-26"
-last_updated: "2016-04-11"
+last_updated: "2016-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2016.
+> <small>[N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DEL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 27 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS 60-SESENTA DÍAS NATURALES CONTADOS A PARTIR DEL DÍA SIGUIENTE DE LA PUBLICACIÓN DE DICHO REGLAMENTO EN EL PERIÓDICO OFICIAL DEL ESTADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo de León, el viernes 26 de noviembre del 2004.
 
@@ -2488,3 +2490,29 @@ P.O. 11 DE ABRIL DE 2016.
 Primero.- Las presentes reformas y modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan el contenido de las presentes reformas y modificaciones.
+
+P.O. 27 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 26 DE MAYO DE 2016, SE APRUEBA EL REGLAMENTO DE TRÁNSITO Y VIALIDAD Y DEL MUNICIPIO DE GUADALUPE”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor a los 60-sesenta días naturales contados a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- A partir de la entrada en vigor de este Reglamento, se Abroga el Reglamento de Tránsito y Vialidad del Municipio de Guadalupe, Nuevo León, publicado en el Periódico Oficial del Estado en fecha 26-veintiséis de Noviembre de 2004-dos mil cuatro.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan al presente Reglamento.
+
+CUARTO.- La obligación contenida en el Artículo 49 será aplicable 60-sesenta días naturales, a partir de la entrada en vigor del presente Reglamento.
+
+QUINTO.- El Municipio que así lo determine, contará con 120-ciento veinte días naturales a partir de la entrada en vigor del presente Reglamento, para llevar a cabo los estudios técnicos que permitan determinar el establecimiento de los programas instituidos en los Artículos 125, 126 y 127 del presente Reglamento.
+
+SEXTO.- Se instruye a la Secretaría de Seguridad Pública del Municipio de Guadalupe, Nuevo León, y con el apoyo de las dependencias municipales que correspondan, a que lleve a cabo una campaña de difusión que tenga por objeto dar a conocer lo ordenado en la Sección 5 del Capítulo III y en el Anexo 1, 2 y 3, en los siguientes términos:
+
+I. De Difusión Vial y de Promoción de Rutas: Que comprende toda actividad que a través de medios de comunicación, redes sociales, señalamientos informativos y restrictivos, así como otros medios de difusión, se lleve a cabo para informar a los conductores de vehículos de carga pesada sobre las nuevas disposiciones en la materia; asimismo se deberá informar a las Autoridades Federales y Estatales, Cámaras de la Industria, Comercio y Transporte, que forman parte de las actividades que sobre vehículos de carga pesada se llevan a cabo en el Área Metropolitana de Monterrey. Esta etapa tendrá una duración de 90-noventa días naturales contados a partir de la publicación en el Periódico Oficial del Estado de Nuevo León;
+
+II. Preventiva e Informativa: Que advierte la aplicación de amonestaciones a conductores infractores por un período de 60-sesenta días naturales contados a partir de la conclusión de la campaña de difusión vial y de promoción de rutas; durante la amonestación se continuará con la comunicación de lo ordenado en la presente norma, y,
+
+III. Correctiva: Una vez concluida la etapa Preventiva e Informativa y por espacio de 30-treinta días naturales, la aplicación de la multa tendrá un descuento único del 50%-cincuenta por ciento si ésta es pagada durante los 15-quince días naturales siguientes a la aplicación de dicha multa.
+
+SÉPTIMO.- La aplicación de las sanciones por faltas o violaciones al presente Reglamento, contenidas en el Artículo 164, fracción V, surtirá sus efectos sin concesión, a partir de la conclusión de la campaña preventiva e informativa señalada en el artículo Sexto Transitorio.
+
+OCTAVO.- Gírese el presente al Presidente Municipal para que instruya al Secretario de Ayuntamiento para que remita su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal, y en el sitio Oficial de internet del Municipio.
