@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-procedimientos-civiles-para-el-estado-libre-y-5382"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-12-01"
-last_updated: "2015-12-07"
+last_updated: "2016-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE JULIO DE 2016 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2016.
 
 Código publicado en el Apéndice del Periódico Oficial del Estado de Hidalgo, el 1 de diciembre de 1940.
 
@@ -429,9 +431,13 @@ El Secretario o el encargado de la Oficialía de partes harán constar el día y
 
 Los secretarios cuidarán de que los expedientes sean exactamente foliados, al agregarse cada una de las hojas; rubricarán todas éstas en el centro de los escritos y pondrán el sello de la Secretaría en el fondo del cuaderno, de manera que queden selladas las dos caras.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2016)</small>
+
 ###### Artículo 68.
 
-Los autos y copias en su caso, se entregarán por el secretario directamente a las partes, por medio del conocimiento que deberán firmar éstas. La frase "dar vista", sólo significa que los autos quedan en la Secretaría para que se impongan de ellos los interesados y "correr traslado" para que se entreguen las copias. Las disposiciones de este artículo comprenden al Ministerio Público.
+Las copias de cualquier actuación judicial serán entregadas por el funcionario respectivo, debiéndose firmar el acuse de recibido dentro del expediente. La frase "dar vista" sólo significa que los autos quedan en la Secretaría para que se impongan de ellos los interesados y "correr traslado" para que se entreguen las copias. Las disposiciones de este artículo comprenden al Ministerio Público.
 
 ###### Artículo 69.
 
@@ -691,95 +697,145 @@ De las notificaciones.
 
 Las notificaciones, citaciones y emplazamientos, se efectuarán lo más tarde al tercer día de que se dicten las resoluciones que las prevengan, cuando el Juez o la ley no dispusieren otra cosa. Se impondrá de plano a los infractores de este artículo, una multa que no exceda de veinte pesos.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2016)</small>
 
 ###### Artículo 110.
 
-Las notificaciones se harán personalmente, por lista, por instructivo, por cédula, por edictos, por correo, por telégrafo o, por cualquier medio electrónico, de acuerdo con lo que se dispone en los artículos siguientes.
+Las notificaciones podrán hacerse de forma personal, por lista, por edictos, por correo, por telégrafo, por oficio o por cualquier medio electrónico si lo hubiere a juicio del juez.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2016)</small>
 
 ###### Artículo 111.
 
-Todos los litigantes en el primer escrito o en la primera diligencia judicial, deben designar domicilio ubicado en la población donde resida el juzgado que conoce del juicio para que se hagan las notificaciones personales y se practiquen las diligencias que sean necesarias.
+Todos los litigantes, en el primer escrito o en la primera diligencia judicial, deben designar domicilio ubicado en la población donde resida el juzgado o Tribunal que conoce del juicio para que se hagan las notificaciones personales y se practiquen las diligencias que sean necesarias.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 Igualmente deben designar el domicilio en que ha de hacerse la primera notificación a la persona o personas contra quienes promuevan.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
+
 Cuando un litigante no cumpla con lo prevenido en el primer párrafo de este artículo, las notificaciones, aún las que, conforme a las reglas generales deban hacerse personalmente, se le harán por lista fijada en el tablero que exista para tal efecto en el juzgado o a través del medio electrónico establecido conforme al artículo 110; si faltare a lo dispuesto en el segundo párrafo, no se hará notificación alguna a la persona contra quien promueva hasta que se subsane la omisión.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2016)</small>
 
 ###### Artículo 112.
 
-Entre tanto que un litigante no hiciere nueva designación del domicilio en donde se le hagan las notificaciones personales, seguirán haciéndosele en el que para ello hubiere designado. Si el domicilio no existiere, se encontrare cerrado o en el mismo se negaren a recibir la notificación, ésta se hará por lista o tablero electrónico.
+Entre tanto que un litigante no hiciere nueva designación del domicilio en donde se le hagan las notificaciones personales, seguirán haciéndosele en el que para ello hubiere designado. Si el domicilio no existiere, se encontrare cerrado o en el mismo se negaren a recibir la notificación, ésta se hará por lista o cualquier medio electrónico si lo hubiere.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2016)</small>
 
 ###### Artículo 113.
 
-Será notificado personalmente en el domicilio de los litigantes:
+Será notificado en forma personal:
 
-I.- El emplazamiento del demandado, y siempre que se trate de la primera notificación en el juicio aunque sean diligencias preparatorias;
+I.- El emplazamiento del demandado, conforme con las reglas especiales para su trámite establecidas en este Código;
 
-II.- El auto que ordena la absolución de posiciones o reconocimiento de documentos;
+II.- El auto que ordena la absolución de posiciones o el reconocimiento de documentos atribuidos a las partes;
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 1992)</small>
+III.- La primera resolución que se dicte cuando se dejare de actuar por más de seis meses por cualquier motivo;
 
-III.- La primera resolución que se dicte cuando se dejare de actuar dos meses por cualquier motivo; el auto que no admita pruebas y las sentencias definitivas;
+IV.- La sentencia definitiva;
 
-IV.- Cuando se estime que se trate de un caso urgente y así se ordene;
+V.- El auto que da término para expresión de agravios; y
 
-V.- El requerimiento de un acto a la parte que deba cumplirlo;
+VI.- En los demás casos que la ley o el juzgador así lo dispongan.
 
-VI.- En los demás casos que la ley lo disponga.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2016)</small>
 
 ###### Artículo 114.
 
-Cuando variare el personal de un tribunal, no se proveerá decreto haciendo saber el cambio, sino que al margen del primer proveído que se dictare, después de ocurrido el cambio, se pondrán completos los nombres y apellidos de los nuevos funcionarios. Sólo que el cambio ocurriere cuando el negocio esté pendiente únicamente de la sentencia se mandará hacer saber a las partes, si fuere juicio ordinario y escrito.
+Cuando hubiere cambiado el personal judicial del tribunal, no se proveerá decreto haciendo saber el cambio. No obstante lo anterior, si el cambio fuese de juzgador y ocurriere cuando el negocio esté pendiente del dictado de la sentencia definitiva, se mandará hacer saber a las partes para los efectos legales que correspondan.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2016)</small>
 
 ###### Artículo 115.
 
-La notificación personal se hará personalmente al interesado, a su representante o procurador, o en la casa designada; y si no lo encontrare el notificador, le dejará instructivo en el que hará constar la fecha y hora en que lo entregue, el nombre y apellido del promovente, el Juez o tribunal que manda practicar la diligencia, la determinación que se manda notificar, el juicio, y el nombre y apellido de la persona a quien se entrega, recogiéndole la firma en la razón que se asentará del acto.
+Las notificaciones personales se harán en el domicilio al efecto designado, comunicando a la persona que se notifica, por sí o por conducto de su representante o persona para ello facultada, el contenido de la resolución, dejándole el instructivo correspondiente; o en su caso a través de cualquier medio electrónico si lo hubiere y que lo autorice el Juez.
 
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
+Si no encontrare presente el actuario a la persona que se notifica ni a su representante o persona para ello facultada, se dejará el instructivo con cualquier persona que se encuentre en el domicilio en cuestión, de lo cual se dejará razón en la constancia respectiva.
 
-Las notificaciones personales se podrán hacer por vía telefax, cuando las partes hayan manifestado expresamente su voluntad solicitando se les notifique por ese medio, proporcionando el número de telefax al que deban comunicársele. El Secretario o Actuario agregará el instructivo a los autos, asentando razón en el expediente respectivo. Si por cualquier circunstancia no pasa la comunicación o cambió el número sin dar aviso a la autoridad que conozca, las notificaciones se le harán personalmente en el domicilio señalado.
+Si el domicilio señalado se encontrare cerrado o en el mismo se negaren a atender la notificación, o no existiere o no fuere posible ubicarse, la notificación que debería hacerse en forma personal, se hará por medio de lista.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
+En el instructivo se hará constar la leyenda de ser "instructivo", la fecha y hora en que se hace la notificación; el nombre completo de la persona que se notifica; el juzgador que manda practicar la notificación; el juicio o procedimiento, el número de expediente en que se actúa, y el contenido íntegro y completo de la resolución que se notifique.
+
+En el expediente se agregará constancia de la notificación debidamente autorizada con la firma del actuario, en la cual se asentará el lugar y la fecha de la notificación; el nombre completo de la persona que se notifica; la precisión de la resolución que se notifica, y el nombre completo de la persona a quien se entrega el instructivo. Además, deberá recogerse la firma de la persona que recibió el instructivo o, en su defecto, asentar las razones que se tuvieron para no recabarse esa firma.
+
+En todo caso, si la persona que se pretende notificar, el representante de ésta o la persona facultada por la misma para recibir notificaciones ocurre ante el actuario antes de que se proceda a hacer la notificación personal en el domicilio en cuestión, la notificación se hará en el Juzgado o Coordinación de Actuarios, comunicándole el contenido de la resolución y dejándole el instructivo correspondiente, de lo cual se dejará la constancia correspondiente en autos.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2016)</small>
 
 ###### Artículo 116.
 
 El emplazamiento a juicio se hará de conformidad con las reglas siguientes:
 
-I.- El Actuario, o quien haga las veces, se cerciorará de que la persona que deba ser emplazada, vive, trabaja o tiene su domicilio en la casa o local señalado por el actor para el emplazamiento, indicando los medios que utilizó para cerciorarse;
+I.- El actuario se cerciorará de que la persona que deba ser emplazada vive, trabaja o tiene su domicilio en la casa o local señalado por el actor para el emplazamiento;
 
-II.- Si está presente el demandado o su representante legal, el Actuario notificará la resolución que ordene el emplazamiento y procederá a realizarlo entregando las copias de traslado. En el caso de que el demandado o su representante legal se nieguen a recibir las copias de traslado, el Actuario les prevendrá por una vez, que de no recibirlas serán fijadas en el tablero notificador del juzgado; si prevenidos que fueren no recibieren las copias se procederá a fijarlas en el mencionado tablero y surtirá sus efectos el emplazamiento como si hubieran sido recibidas por el demandado;
+II.- Si está presente el demandado o su representante legal, el actuario le hará saber de la demanda incoada en su contra, le entregará las copias de traslado correspondientes, le indicará el plazo con el que cuenta para formular la contestación a la demanda y le notificará la resolución que ordene el emplazamiento, dejándole un instructivo de notificación que contenga los pormenores previstos en el artículo 115 del (sic) este código;
 
-III.- Si no está presente el interesado o su representante legal, se le dejará citatorio para que espere al Actuario al día hábil siguiente, a una hora determinada. El citatorio se dejará con los parientes o domésticos del interesado o con cualquiera otra persona que viva o trabaje en el domicilio señalado;
+III.- En el caso de que el demandado o su representante se nieguen a atender el emplazamiento o a recibir el instructivo o las copias de traslado, el actuario le prevendrá por una vez que las copias de traslado y el instructivo le serán fijadas en el tablero notificador del Juzgado; si prevenido que fuere, no recibiere el instructivo y las copias de traslado, se procederá a fijarlas en el mencionado tablero y surtirá sus efectos el emplazamiento como si hubieran sido recibidas por el demandado;
 
-IV.- Si no obstante el citatorio, no está presente el interesado o su representante legal, el emplazamiento se hará con cualquier persona que se encuentre en el domicilio señalado, y si estuviere éste cerrado o la persona que se encuentre se negare a recibir las copias de traslado, el Actuario podrá trasladarse al lugar en que habitualmente trabaje el demandado, siempre y cuando el actor haya proporcionado dicho domicilio, sin necesidad de que el Juez dicte determinación para ello, y si no lo encontrase procederá a emplazarlo por estrados, surtiendo efectos conforme a la fracción II.
+IV.- Si no está presente el interesado o su representante legal, se le dejará citatorio para que espere al actuario a una hora hábil determinada, la cual deberá estar comprendida entre las seis y las setenta y dos horas siguientes. El citatorio se dejará con los parientes o domésticos del interesado o con cualquiera otra persona que viva o trabaje en el domicilio señalado. Si no obstante el citatorio, no está presente el interesado o su representante legal, el emplazamiento se hará con cualquier persona que se encuentre en el domicilio señalado, y si estuviere éste cerrado o la persona que se encuentre se negare a recibir las copias de traslado, el actuario procederá a hacer el emplazamiento fijando las copias de traslado y el instructivo respectivo en los tableros notificadores del juzgado, surtiendo efectos conforme con la fracción III de este mismo artículo. No obstante ello, cuando el actor haya proporcionado otro domicilio del demandado o el lugar en el que éste trabaje o tenga el principal asiento de sus negocios, el actuario deberá trasladarse a dicho lugar, sin necesidad de que el juzgador dicte determinación para ello, a efecto de proceder a emplazarlo y si no lo encontrase procederá a emplazarlo a través de la fijación de las copias de traslado y el instructivo en los tableros notificadores del juzgado.
 
-En todos los casos se levantará acta pormenorizada, que firmarán quienes intervengan, sin que la falta de firma, a excepción de la del Actuario, pueda ocasionar nulidad de actuaciones.
+De ser el caso según el cual la persona que se pretende emplazar o el representante de ésta ocurre, con identificación idónea consistente en instrumento público, ante el actuario antes de que se proceda a hacer el emplazamiento, éste se hará en el Juzgado o Coordinación de Actuarios de conformidad con lo previsto en la fracción II de este artículo, de lo cual se dejará la constancia correspondiente en autos.
+
+En todos los casos se levantará acta pormenorizada, autorizada con la firma del actuario, en la que se asienten con claridad los medios empleados para la identificación del domicilio en el que se actúa, la certeza de que el mismo corresponde al demandado y todos los pormenores de la diligencia de emplazamiento. Además, se recogerá la firma de la persona con la que se haya entendido el emplazamiento y, en su caso, el citatorio, así como de las demás personas que hayan intervenido en uno y otro, o, en su defecto, asentar las razones que se tuvieron para no recabarse determinada firma.
 
 ###### Artículo 117.
 
 (DEROGADO, P.O. 18 DE MAYO DE 1992)
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2016)</small>
+
+###### Artículo 117 Bis.
+
+Cuando se trate de notificar o citar por primera vez al Ministerio Público, esto se hará mediante la entrega que haga el actuario al agente del Ministerio Público de la adscripción que corresponda de un instructivo.
+
+La citación o notificación de cualquier otro servidor público o autoridad se hará mediante oficio que se entregue en la oficina que corresponda por conducto del actuario, de correo certificado, de una autoridad idónea o de parte interesada, de lo cual se agregará la constancia del acuse de recibido.
+
 ###### Artículo 118.
 
 (DEROGADO, P.O. 18 DE MAYO DE 1992)
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2016)</small>
+
 ###### Artículo 119.
 
-Cuando se trate de citar a peritos, terceros que sirvan de testigos y personas que no sean parte en el juicio, se puede hacer personalmente o por instructivo en sobre cerrado y sellado conteniendo la determinación del Juez o tribunal que mande practicar la diligencia. Estos instructivos pueden entregarse por conducto de la policía, de las partes mismas o de los notificadores, recogiendo la firma del notificado en el sobre que será devuelto para agregarse a los autos.
+Si se trataré de una notificación por la cual se convoca por vez primera a una persona que debe participar del procedimiento y no fuere posible que la parte interesada la presente, se le notificará en el domicilio que a efecto se señale, para lo cual el actuario se cerciorará de que la persona que deba ser convocada vive, trabaja o tiene su domicilio en la casa o local señalado al efecto; hecho lo cual, si lo hallaré presente, le comunicará la resolución que ordene la notificación, dejándole un instructivo que contenga los pormenores previstos en el artículo 115 del (sic) este Código. Si no está presente, la notificación se hará con cualquier persona que se encuentre en el domicilio señalado, y si la persona que se encuentre se negare a atender la citación, el actuario procederá a hacer la misma por medio de lista. De ser el caso según el cual la persona que se pretende notificar ocurre, con identificación idónea consistente en instrumento público ante el actuario antes de que se proceda a hacer la notificación, ésta se hará en el Juzgado o Coordinación de Actuarios, de lo cual se dejará la constancia correspondiente en autos. Como fuere, se levantará acta pormenorizada, autorizada con la firma del actuario, en la que se asienten con claridad los medios empleados para la identificación del domicilio en el que se actúa, la certeza de que el mismo corresponde a la persona que se notifica y todos los pormenores de la actuación. Además, se recabará la firma de la persona con la que se haya entendido la notificación y de las demás personas que hayan intervenido en uno y otro, o, en su defecto, asentaran las razones que se tuvieron para no recabarse determinada firma.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2016)</small>
 
 ###### Artículo 120.
 
-Cuando se trate de citar testigos, peritos o terceros que no constituyan parte, pueden ser citados también por correo certificado o por telégrafo, en ambos casos a costa del promovente.
+Cuando se trate de citar a peritos, testigos, o personas que no sean parte del juicio, y que no puedan ser presentados por las partes, se hará la citación por medio del actuario mediante la entrega en el domicilio que corresponda de un instructivo, de correo certificado o de los servidores públicos que prevé la Ley Orgánica de Poder Judicial, de lo cual se agregará la constancia del acuse de recibido.
 
-Cuando se haga por telegrama se enviará por duplicado a la Oficina que haya de transmitirlo, la cual devolverá, con el correspondiente recibo, uno de los ejemplares que se agregará al expediente.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2016)</small>
 
 ###### Artículo 121.
 
-Procede la notificación por edictos:
+Procede el emplazamiento o la notificación por edictos:
 
 I.- Cuando se trate de personas inciertas;
 
@@ -789,23 +845,47 @@ En este caso el juicio deberá seguirse con los trámites y solemnidades a que s
 
 III.- En todos los demás casos previstos por la ley.
 
-En los casos de las fracciones I y II, los edictos se publicarán por tres veces consecutivas en el Periódico Oficial del Estado y otro periódico local de los de mayor circulación, haciéndose saber que debe de presentarse el citado dentro de un término que no bajará de quince ni excederá de sesenta días después del último edicto en el Periódico Oficial.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2016)</small>
+
+Al efecto, se publicarán los edictos por tres veces consecutivas en el Periódico Oficial del Estado de Hidalgo y un periódico local de los de mayor circulación, en los que se le haga saber que debe presentarse la persona que se emplaza o notifica dentro de un término no menor de quince ni mayor de sesenta días a partir de que se haga la última publicación en el Periódico Oficial del Estado de Hidalgo.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2016)</small>
+
+Previamente al emplazamiento o la notificación por edictos en términos del párrafo anterior, el juzgador ordenará recabar informe de una autoridad o una institución pública que cuente con registro oficial de personas. Bastará el informe de una sola autoridad o institución para que proceda la notificación por edictos. La autoridad o institución proporcionará los datos de identificación y el último domicilio que aparezca en sus registros de la persona buscada. Esta información no queda comprendida dentro del secreto fiscal o de alguna otra reserva que las autoridades o instituciones estén obligadas a observar conforme con las disposiciones que las rige.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2016)</small>
 
 ###### Artículo 122.
 
-Las sentencias, los autos y demás resoluciones judiciales, no se entienden consentidas, sino cuando, notificada la parte, contesta expresamente de conformidad.
+Las sentencias, los autos y demás resoluciones judiciales se entienden consentidas cuando no se interpone recurso alguno en contra de la misma.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2016)</small>
 
 ###### Artículo 123.
 
-La segunda y ulteriores notificaciones se harán personalmente a los interesados o a sus procuradores si ocurren al Tribunal o Juzgado respectivo en el mismo día en que se listen las resoluciones que hayan de notificarse o al día siguiente dentro de las horas hábiles, o al tercer día antes de las doce horas.
+Las notificaciones que no deban ser personales se harán por medio de lista, la cual se dará por hecha y surtirá sus efectos al día siguiente al de su publicación.
 
-Si las partes o sus procuradores no ocurren al Tribunal o Juzgado a notificarse en los días y horas a que se refiere el párrafo anterior, la notificación se dará por hecha y surtirá sus efectos a las doce horas del último día a que se refiere el mismo párrafo, a condición de que se haya hecho y fijado en lista, o incorporado al sistema computarizado de notificación.
+Al efecto se hará constar en los autos respectivos la fecha de publicación de la resolución que se notifique a través de lista, así como los nombres completos de las personas que quedarán notificadas por ese medio.
+
+De ser el caso según el cual la persona que se pretende notificar ocurre, con identificación idónea consistente en instrumento público, antes de la publicación por lista, la notificación se le hará en el Juzgado, de lo cual se dejará la constancia correspondiente en autos.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2016)</small>
 
 ###### Artículo 124.
 
-Si se probare que el Secretario, Actuario o Testigos de Asistencia no hicieron la notificación personalmente, hallándose la parte en la casa y la misma parte no se hubiere ocultado, serán responsables de los daños y perjuicios, y satisfarán además, una multa de diez a treinta pesos, sin perjuicio de la nulidad de la notificación.
+Diariamente, antes de las doce horas, se deberá fijar en los tableros del Juzgado la lista de notificación debidamente firmada. Asimismo se deberá publicar una versión electrónica de dicha lista en el portal electrónico que al efecto se establezca en la página web del Poder Judicial del Estado de Hidalgo.
+
+Dicha lista se formará con el número de expediente; la fecha de la resolución, y un enunciado que describa de modo sucinto el contenido central de la resolución.
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
@@ -825,9 +905,15 @@ Cuando la persona que debe ser por primera vez notificada residiere en lugar dis
 
 De los términos judiciales.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2016)</small>
+
 ###### Artículo 127.
 
-Los términos judiciales empezarán a correr desde el día siguiente a aquel en que se hubiere hecho el emplazamiento o notificación.
+Las notificaciones o el emplazamiento surten efectos al día siguiente a aquel en que se hubiere hecho.
+
+Por consiguiente, los términos judiciales empezarán a correr desde el día siguiente a aquel en que haya surtido efectos la notificación o emplazamiento.
 
 ###### Artículo 128.
 
@@ -3351,9 +3437,13 @@ Decretado el auto de ejecución, el cual tendrá fuerza de mandamiento en forma,
 
 No es necesario el requerimiento de pago en la ejecución del embargo precautorio, ni en la ejecución de sentencias cuando no fuere hallado el condenado.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2016)</small>
+
 ###### Artículo 523.
 
-Si el deudor, tratándose de juicio ejecutivo, no fuere habido después de habérsele buscado una vez en su domicilio, se le dejará citatorio para hora fija dentro de las veinticuatro siguientes y si no espera, se practicará la diligencia con cualquiera persona que se encuentre en la casa o a falta de ella con el vecino inmediato. Entre la cita de espera y el embargo deben mediar cuando menos tres horas.
+Si el deudor, tratándose de juicio ejecutivo, no fuere habido después de habérsele buscado una vez en su domicilio, se le dejará citatorio para una hora hábil determinada, la cual deberá estar comprendida entre las seis y las setenta y dos horas siguientes, y si no espera, se practicará la diligencia con cualquiera persona que se encuentre en la casa o a falta de ella con el vecino inmediato.
 
 Si no se supiere el paradero del deudor, ni tuviere casa en el lugar, se hará el requerimiento por tres veces consecutivas en el Periódico Oficial y fijando la cédula en los lugares públicos de costumbre y surtirá sus efectos dentro de ocho días, salvo el derecho del actor para pedir providencia precautoria.
 
@@ -3999,7 +4089,11 @@ Procedimiento estando ausente el rebelde.
 
 En toda clase de juicios cuando se constituya en rebeldía un litigante, no compareciendo en el juicio después de citado en forma no se volverá a practicar diligencia alguna en su busca.
 
-Todas las resoluciones que de allí en adelante recaigan en el pleito y cuantas citaciones deben hacérsele, se notificarán por cédulas que se fijen en las puertas de los juzgados o tribunales y ejecutarán en los estrados de los mismos, salvo los casos en que otra cosa se prevenga.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2016)</small>
+
+Todas las resoluciones que de allí en adelante recaigan en el pleito y cuantas citaciones deben hacérsele se le notificarán por medio de lista conforme con lo previsto en el artículo 123 de este Código, salvo los casos en que otra cosa se prevenga.
 
 ###### Artículo 626.
 
@@ -6516,3 +6610,9 @@ CUARTO.- Publíquese el presente Decreto en el Periódico Oficial del Estado.
 P.O. 7 DE DICIEMBRE DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JUNIO DE 2016.
+
+## N. DE E. TRANSITORIO DEL “DECRETO NUM. 673 QUE REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE HIDALGO”.
+
+ÚNICO.- El presente decreto entrará en vigor a los quince días siguientes al de su publicación.
