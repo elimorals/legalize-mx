@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-44-de-coordinacion-fiscal-para-el-estado-y-los-15983
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2015-12-28"
+last_updated: "2016-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 44 DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE JUNIO DE 2016.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 30 de diciembre de 1999.
 
@@ -747,9 +747,55 @@ c) Los ingresos que deriven de convenios de colaboración celebrados con la Fede
 
 De los ingresos que el Estado otorgue a los municipios, derivados de convenios de colaboración, corresponderá a la Legislatura vigilar la debida aplicación de los mismos.
 
-### CAPÍTULO III. De las aportaciones federales
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE JUNIO DE 2016)</small>
 
-### CAPÍTULO IV. De la colaboración administrativa entre los Municipios y el Estado
+### CAPÍTULO II BIS
+
+De la Distribución de los Recursos provenientes del Fondo Para Entidades Federativas y Municipios Productores de Hidrocarburos correspondiente a Regiones Marítimas
+
+> <small>(ADICIONADO, G.O. 28 DE JUNIO DE 2016)</small>
+
+###### Artículo 18 Bis.
+
+Los recursos provenientes del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos correspondientes al Estado de Veracruz, a que hace referencia la Ley de Ingresos sobre Hidrocarburos, ingresarán a través de la Secretaría.
+
+En el caso de áreas contractuales y de asignación que se ubiquen en regiones marítimas, los recursos se distribuirán a los municipios que registren daño al entorno social y ecológico derivado de las actividades de exploración y extracción de hidrocarburos y que incluye los veinticinco municipios del Estado de Veracruz de Ignacio de la Llave, identificados como costeros en el Marco Geoestadístico Nacional 2015 del Instituto Nacional de Estadística y Geografía (INEGI), conforme a lo siguiente:
+
+I. Se estimará el impacto relativo del daño en el entorno social de cada municipio en proporción directa a su número de habitantes, de conformidad con la última información del Censo de Población y Vivienda o proyecto homólogo, realizado por el Instituto Nacional de Estadística y Geografía (INEGI).
+
+II. Se estimará el impacto relativo del daño ecológico de cada municipio en proporción directa a su longitud de litoral de acuerdo con el Marco Geoestadístico 2015 del INEGI; los municipios costeros de los que no es posible considerar este dato, únicamente se tomará en consideración la información referida a la población.
+
+En tal caso, los factores para tal fin serían:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN LA G.O. DE 28 DE JUNIO DE 2016, PÁGINA 4.]</small>
+
+De esta manera, los factores de distribución resultantes de aplicar la fórmula propuesta serían:
+
+> <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 28 DE JUNIO DE 2016, PÁGINA 5.]</small>
+
+> <small>(ADICIONADO, G.O. 28 DE JUNIO DE 2016)</small>
+
+###### Artículo 18 Ter.
+
+Los municipios que reciban estos recursos los deberán aplicar, invertir y ejercer de conformidad con lo siguiente:
+
+I. Inversión en infraestructura para resarcir, entre otros fines, las afectaciones al entorno social y ecológico, que incluye:
+
+a) Rellenos sanitarios, plantas de tratamiento de agua, instalación y mantenimiento de obras de drenaje público, manejo de residuos sólidos, y mejora de calidad de aire, sistemas de abastecimiento, distribución y almacenamiento de agua potable;
+
+b) Obras que preserven áreas naturales, como reforestación y rescate o rehabilitación de ríos y otros cuerpos de agua;
+
+c) Obras que afecten de manera positiva la movilidad urbana, incluyendo sistemas de trenes urbanos, metrocable de transporte o equivalentes;
+
+d) Pavimentación y mantenimiento de calles y caminos locales, construcción de caminos rurales y alimentadores, así como la instalación y mantenimiento de alumbrado público y electrificación; y
+
+e) Obras y equipamiento de protección civil y reconstrucción de infraestructura por desastres naturales.
+
+Hasta el 3% de los recursos para la realización de estudios y evaluación de proyectos que cumplan con los fines específicos del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos. Asimismo, los municipios podrán utilizar los citados recursos como contraparte estatal y en aportación con la Federación, siempre y cuando se trate de proyectos o programas federales destinados a los rubros citados en la fracción I.
+
+Dichos recursos no pierden su naturaleza federal, por lo que para efectos de su ejercicio, aplicación y control, reintegro, transparencia y rendición de cuentas, estarán sujetos a las disposiciones previstas en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, su reglamento y demás disposiciones aplicables.
+
+### CAPÍTULO III. De las aportaciones federales
 
 ###### Artículo 19.
 
@@ -849,7 +895,7 @@ i) Establecer comisiones de trabajo por actividad, a fin de dar seguimiento a la
 
 La organización y funcionamiento de los Consejos de Desarrollo Municipal serán establecidos en el Reglamento que para tal efecto emita la Legislatura.
 
-### CAPITULO V. DE LA EXPEDICION DE LAS LICENCIAS
+### CAPÍTULO IV. De la colaboración administrativa entre los Municipios y el Estado
 
 ###### Artículo 23.
 
@@ -1183,7 +1229,7 @@ MADERO 0.00208161445
 
 84. IXHUATLAN
 
-DEL CAFE 0.00253642040
+EL CAFE 0.00253642040
 
 85. IXHUATLAN DEL
 
@@ -1301,7 +1347,7 @@ AMATLAN 0.00363653972
 
 132. PEROTE 0.00354864338
 
-133. PLATON SANCHEZ 0.00201720255
+133. PLATON SANCHE 0.00201720255
 
 134. PLAYA VICENTE 0.00451235289
 
@@ -1651,6 +1697,8 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
+G.O. 28 DE JUNIO DE 2016.
+
 ###### ARTICULO PRIMERO.
 
 La presente ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
@@ -1658,6 +1706,12 @@ La presente ley entrará en vigor el día siguiente al de su publicación en el 
 ###### ARTICULO SEGUNDO.
 
 Se abroga la Ley Reglamentaria para Establecimientos de Bebidas Alcohólicas contenida en el Decreto número 257, expedido el 24 de junio de 1982 y publicado en el Periódico Oficial del Estado número 79 de fecha 2 de octubre del mismo año, así como sus reformas y adiciones que tuvo durante su vigencia.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 885 QUE ADICIONA LOS ARTÍCULOS 18 BIS Y 18 TER A LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Artículo Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
 
 ###### ARTICULO PRIMERO.
 
