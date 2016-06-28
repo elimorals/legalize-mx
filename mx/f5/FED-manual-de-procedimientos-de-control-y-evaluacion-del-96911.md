@@ -4,7 +4,7 @@ identifier: "FED-manual-de-procedimientos-de-control-y-evaluacion-del-96911"
 country: "mx"
 rank: "manual"
 publication_date: "2013-12-31"
-last_updated: "2013-12-31"
+last_updated: "2016-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96911&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2013-11-21"
 
 MANUAL DE PROCEDIMIENTOS DE CONTROL Y EVALUACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL MANUAL DE PROCEDIMIENTOS DE LA UNIDAD DE CONTROL Y EVALUACIÓN, PUBLICADO EN EL D.O.F. DE 28 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE JUNIO DE 2016 (ABROGADO).
 
 Manual publicado en la Tercera Sección del Diario Oficial de la Federación, el martes 31 de diciembre de 2013.
 
@@ -234,3 +236,27 @@ SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Man
 TERCERO.- Para su mayor difusión, publíquese en la página de Internet del Tribunal Electoral del Poder Judicial de la Federación y en el Diario Oficial de la Federación.
 
 (VÉANSE ANEXOS EN LA TERCERA SECCIÓN DEL D.O.F. DE 31 DE DICIEMBRE DE 2013, PÁGINAS DE LA 17 A LA 53.)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 28 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “MANUAL DE PROCEDIMIENTOS DE LA UNIDAD DE CONTROL Y EVALUACIÓN”.]
+
+PRIMERO. El presente Manual de Procedimientos de Control y Evaluación entrará en vigor el día de su publicación en la página de Intranet del Tribunal Electoral del Poder Judicial de la Federación.
+
+SEGUNDO. Se abroga el Manual de Procedimientos de Control y Evaluación aprobado por el Pleno de la Comisión de Administración mediante acuerdo 289/S11(12-XI-2013) emitido en la Décima Primera Sesión Ordinaria de 2013.
+
+TERCERO. Para su mayor difusión, publíquese en la página de Internet del Tribunal Electoral del Poder Judicial de la Federación y en el Diario Oficial de la Federación.
+
+TRANSITORIOS A LAS MODIFICACIONES APROBADAS MEDIANTE ACUERDO 140/S5(17-V-2016)
+
+PRIMERO. La Comisión de Administración aprueba las reformas y adiciones al Manual de Procedimientos de la Unidad de Control y Evaluación.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el Manual de Procedimientos de la Unidad de Control y Evaluación.
+
+TERCERO. El presente Manual de Procedimientos de la Unidad de Control y Evaluación entrará en vigor el día siguiente de su publicación en la página de Intranet del Tribunal Electoral del Poder Judicial de la Federación.
+
+CUARTO. Para su mayor difusión, publíquese en la página de Internet del Tribunal Electoral del Poder Judicial de la Federación y en el Diario Oficial de la Federación. Adicionalmente hágase del conocimiento de todas las áreas del Tribunal Electoral del Poder Judicial de la Federación, a partir de su entrada en vigor.
+
+QUINTO. Todos los procedimientos que se hayan iniciado con anterioridad a la entrada en vigor de las presentes reformas y adiciones, se seguirán rigiendo por las disposiciones vigentes en el momento de su inicio.
