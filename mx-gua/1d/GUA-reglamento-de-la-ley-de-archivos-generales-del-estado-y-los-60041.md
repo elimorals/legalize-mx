@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-archivos-generales-del-estado-y-los-600
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-15"
-last_updated: "2014-05-23"
+last_updated: "2016-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DE ARCHIVOS GENERALES DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO PARA EL PODER EJECUTIVO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2016.
 
 Reglamento publicado en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de febrero de 2008.
 
@@ -65,7 +65,9 @@ III. Un archivo histórico.
 
 Responsable del Archivo General del Poder Ejecutivo
 
-El Director del Archivo General del Estado adscrito a la Secretaría de Gobierno, fungirá como responsable del Archivo General del Poder Ejecutivo, en los términos del artículo 14 de la Ley de Archivos Generales para el Estado y los Municipios de Guanajuato.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2016)</small>
+
+El titular de la Dirección General del Archivo General del Poder Ejecutivo, adscrito a la Unidad de Transparencia y Archivos del Poder Ejecutivo, tendrá a su cargo el Archivo General del Estado y fungirá como responsable del Archivo General del Poder Ejecutivo, en los términos del artículo 14 de la Ley de Archivos Generales para el Estado y los Municipios de Guanajuato.
 
 ###### Artículo 4.
 
@@ -129,7 +131,7 @@ VI. Realizar visitas a las dependencias y entidades para supervisar la conservac
 
 VII. Proporcionar asesoría en materia archivística a los encargados cuando así lo soliciten;
 
-VIII. Difundir los alcances de este Reglamento entre los encargados de las dependencias y entidades del Poder Ejecutivo; y (sic)
+VIII. Difundir los alcances de este Reglamento entre los encargados de las dependencias y entidades del Poder Ejecutivo; y
 
 IX. Organizar individual o conjuntamente con instituciones culturales y académicas, exposiciones, conferencias, seminarios, entre otros, para promover y difundir actividades de extensión cultural en la materia.
 
@@ -295,7 +297,7 @@ I. Recibir de los archivos de trámite los documentos semiactivos y cotejar que 
 
 II. Colocar preferentemente los expedientes en cajas de archivo e instalarlas en estantería para su manejo;
 
-III. Conservar y seleccionar los expedientes por el tiempo que establezca el Catálogo de Disposición Documental; y (sic)
+III. Conservar y seleccionar los expedientes por el tiempo que establezca el Catálogo de Disposición Documental; y
 
 IV. Elaborar los inventarios documentales de transferencia secundaria o para baja documental, de acuerdo a lo establecido en el Catálogo de Disposición Documental.
 
@@ -343,7 +345,7 @@ I. Recibir del archivo de concentración los expedientes que contengan documento
 
 II. Colocar los expedientes en cajas de archivo e instalarlas en estantería para su manejo;
 
-III. Restaurar, en su caso, los documentos que por su deterioro requieran ser intervenidos; y (sic)
+III. Restaurar, en su caso, los documentos que por su deterioro requieran ser intervenidos; y
 
 > <small>(REFORMADA, P.O. 23 DE MAYO DE 2014)</small>
 
@@ -491,7 +493,7 @@ III. Descripción breve del contenido de cada expediente;
 
 IV. Volumen total de documentos o expedientes;
 
-V. Signatura de instalación; y (sic)
+V. Signatura de instalación; y
 
 > <small>(REFORMADA, P.O. 23 DE MAYO DE 2014)</small>
 
@@ -565,7 +567,9 @@ IV. Un historiador; y
 
 V. Un contador público.
 
-Los integrantes a que se refieren las fracciones III, IV y V, serán designados y removidos por el Secretario de Gobierno, a propuesta del Presidente del Comité Técnico Consultivo.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2016)</small>
+
+Los integrantes a que se refieren las fracciones III, IV y V, serán designados y removidos por el Titular de la Unidad de Transparencia y Archivos del Poder Ejecutivo, a propuesta del Titular de la Presidencia del Comité Técnico Consultivo.
 
 Los integrantes asistirán a las sesiones y ejercerán su derecho a voz y voto.
 
@@ -816,3 +820,23 @@ A estos encargados y a quienes se designen con posterioridad, serán capacitados
 Recursos
 
 Artículo Quinto. La Secretaría de Finanzas, Inversión y Administración proporcionará los recursos necesarios para la implementación del archivo de concentración y programas de capacitación en la materia.
+
+P.O. 28 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO GUBERNATIVO NÚMERO 160, MEDIANTE EL CUAL, SE DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO; Y SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE ARCHIVOS GENERALES DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO PARA EL PODER EJECUTIVO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Nombramientos del Comité Técnico Consultivo
+
+Artículo Segundo. Los nombramientos realizados por el Secretario de Gobierno de los integrantes del Comité Técnico Consultivo previstos en las fracciones III, IV y V del artículo 31 del Reglamento de la Ley de Archivos Generales del Estado y los Municipios de Guanajuato para el Poder Ejecutivo, continuarán vigentes hasta en tanto el Titular de la Unidad de Transparencia y Archivos del Poder Ejecutivo realice las nuevas designaciones, lo que comunicará al titular de la Secretaría de Gobierno.
+
+Transferencia de recursos
+
+Artículo Tercero. En un plazo no mayor de 90 días contado a partir de la entrada en vigencia del presente Decreto Gubernativo, la Secretaría de Gobierno transferirá a la Unidad de Transparencia y Archivos del Poder Ejecutivo, el acervo del Archivo General del Estado, los asuntos en trámite, recursos materiales, financieros y humanos de la Dirección del Archivo General del Estado, así como las actas, documentación, expedientes y asuntos en trámite del Comité Técnico Consultivo y del Sistema Estatal de Archivos Generales de Guanajuato.
+
+Autorizaciones
+
+Artículo Cuarto. El responsable del Archivo General del Poder Ejecutivo podrá autorizar, excepcionalmente y bajo los criterios que fije a las dependencias y entidades del Poder Ejecutivo, que administren sus documentos y expedientes que les correspondan del archivo de concentración, siempre y cuando cuenten con condiciones físicas que garanticen el debido resguardo, conservación y organización de los mismos.
