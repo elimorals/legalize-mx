@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-962
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-15"
-last_updated: "2016-06-17"
+last_updated: "2016-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO DEL ESTADO DE GUANAJUATO
 
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO, PUBLICADO EN EL P.O. DE 15 DE OCTUBRE DE 2013, CUALQUIER REFERENCIA QUE SE HAGA A LA COORDINACIÓN DE INFORMÁTICA, SE ENTENDERÁ HECHA A LA DIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN.</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2016.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 15 de octubre de 2013.
 
@@ -36,8 +38,6 @@ Por lo anteriormente expuesto y con fundamento en las disposiciones legales y co
 DECRETO GUBERNATIVO NÚMERO 57
 
 Artículo Único. Se expide el Reglamento Interior de la Secretaría de Gobierno, para quedar en los siguientes términos:
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO, PUBLICADO EN EL P.O. DE 15 DE OCTUBRE DE 2013, CUALQUIER REFERENCIA QUE SE HAGA A LA COORDINACIÓN DE INFORMÁTICA, SE ENTENDERÁ HECHA A LA DIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN.</small>
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO
 
@@ -95,7 +95,7 @@ e.2) Dirección de lo Contencioso y Procedimientos Administrativos;
 
 e.3) Dirección del Periódico Oficial; y
 
-e.4) Dirección del Archivo General del Estado.
+e.4) (DEROGADO, P.O. 28 DE JUNIO DE 2016)
 
 f) Dirección General de Administración:
 
@@ -745,7 +745,7 @@ II. Dirección de lo Contencioso y Procedimientos Administrativos;
 
 III. Dirección del Periódico Oficial; y
 
-IV. Dirección del Archivo General del Estado.
+IV. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
 
 Facultades de la Dirección General de Asuntos Jurídicos
 
@@ -765,7 +765,7 @@ IV. Intervenir y coadyuvar en el trámite de los recursos administrativos que se
 
 V. Supervisar el funcionamiento del Periódico Oficial del Gobierno del Estado y autorizar las publicaciones de aquellos actos y documentos que no correspondan al Secretario;
 
-VI. Supervisar el funcionamiento del Archivo General del Estado;
+VI. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
 
 VII. Tramitar, previo acuerdo con el Secretario, las concesiones, licencias, permisos y autorizaciones, cuya expedición no esté asignada a otra dependencia estatal;
 
@@ -859,41 +859,9 @@ VI. Las demás que le confiera el Secretario, el Director General de Asuntos Jur
 
 #### Sección Quinta. Dirección del Archivo General del Estado
 
-Facultades de la Dirección del Archivo General del Estado
-
 ###### Artículo 29.
 
-La Dirección del Archivo General del Estado tiene las siguientes facultades:
-
-I. Resguardar, conservar, enriquecer, clasificar, ordenar, valorar, describir y difundir los acervos documentales, hemerográficos, cartográficos, bibliográficos, fotográficos y electrónicos que se encuentren bajo su resguardo;
-
-II. Coordinar, a través de su titular, el Sistema Estatal de Archivos Generales de Guanajuato;
-
-III. A través de su titular, ser responsable del Archivo General del Poder Ejecutivo;
-
-IV. Realizar y coordinar investigaciones históricas y archivísticas;
-
-V. Asesorar a las dependencias y entidades del Poder Ejecutivo, así como a los municipios en materia archivística, cuando lo soliciten;
-
-VI. Organizar, promover y difundir actividades de extensión cultural y archivística;
-
-VII. Publicar el Boletín del Archivo General del Estado;
-
-VIII. Promover la celebración de convenios con instituciones públicas y privadas para el desarrollo de las actividades del Archivo General del Estado;
-
-IX. Suscribir, por conducto de su titular, en su carácter de Coordinador del Sistema Estatal de Archivos Generales de Guanajuato, convenios de colaboración con instituciones públicas y privadas afines para el cumplimiento de las atribuciones del mismo;
-
-X. Tramitar ante la Dirección General de Asuntos Jurídicos, a solicitud de parte legítima, la certificación de documentos que tenga bajo su resguardo;
-
-XI. Restaurar, en su caso, los documentos que estén bajo su resguardo que por su deterioro requieran intervención;
-
-XII. Encuadernar y reencuadernar documentos, publicaciones e impresos que estén bajo su resguardo;
-
-XIII. Conservar la integridad de los documentos de archivo de carácter histórico para proteger la información y su soporte sin que ello implique la sustitución de los mismos;
-
-XIV. Apoyar a la Coordinación de Comunicación Social, con los insumos documentales que ésta le solicite, con motivo de la organización de los actos cívicos del calendario oficial; y
-
-XV. Las demás que le confiera el Secretario, el Director General de Asuntos Jurídicos o se deriven de otras disposiciones normativas.
+(DEROGADO, P.O. 28 DE JUNIO DE 2016)
 
 ### Capítulo VII. Dirección General de Administración
 
@@ -2446,3 +2414,23 @@ P.O. 17 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO GUBERNATIVO NÚMERO 156, MEDIANTE EL CUAL, SE EXPIDE EL REGLAMENTO INTERIOR DEL INSTITUTO DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SE ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO".]
 
 Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 160, MEDIANTE EL CUAL, SE DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO; Y SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE ARCHIVOS GENERALES DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO PARA EL PODER EJECUTIVO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Nombramientos del Comité Técnico Consultivo
+
+Artículo Segundo. Los nombramientos realizados por el Secretario de Gobierno de los integrantes del Comité Técnico Consultivo previstos en las fracciones III, IV y V del artículo 31 del Reglamento de la Ley de Archivos Generales del Estado y los Municipios de Guanajuato para el Poder Ejecutivo, continuarán vigentes hasta en tanto el Titular de la Unidad de Transparencia y Archivos del Poder Ejecutivo realice las nuevas designaciones, lo que comunicará al titular de la Secretaría de Gobierno.
+
+Transferencia de recursos
+
+Artículo Tercero. En un plazo no mayor de 90 días contado a partir de la entrada en vigencia del presente Decreto Gubernativo, la Secretaría de Gobierno transferirá a la Unidad de Transparencia y Archivos del Poder Ejecutivo, el acervo del Archivo General del Estado, los asuntos en trámite, recursos materiales, financieros y humanos de la Dirección del Archivo General del Estado, así como las actas, documentación, expedientes y asuntos en trámite del Comité Técnico Consultivo y del Sistema Estatal de Archivos Generales de Guanajuato.
+
+Autorizaciones
+
+Artículo Cuarto. El responsable del Archivo General del Poder Ejecutivo podrá autorizar, excepcionalmente y bajo los criterios que fije a las dependencias y entidades del Poder Ejecutivo, que administren sus documentos y expedientes que les correspondan del archivo de concentración, siempre y cuando cuenten con condiciones físicas que garanticen el debido resguardo, conservación y organización de los mismos.
