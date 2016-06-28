@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-finanzas-inversion-8885
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-07-27"
-last_updated: "2012-12-21"
+last_updated: "2016-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS, INVERSIÓN Y ADMINISTRACIÓN DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2016.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de julio de 2012.
 
@@ -91,13 +91,19 @@ II. Subsecretaría de Finanzas e Inversión:
 
 a) Dirección General Financiera:
 
-1. Dirección de Operaciones Financieras;
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2016)</small>
 
-2. Dirección de Deuda Pública;
+1. Dirección de Inversiones y Operaciones Financieras;
 
-3. Dirección de Inversiones;
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2016)</small>
 
-4. Coordinación de Control y Seguimiento;
+2. Coordinación de Deuda Pública;
+
+3. (DEROGADO, P.O. 28 DE JUNIO DE 2016)
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2016)</small>
+
+4. Dirección de Control y Seguimiento;
 
 5. Dirección de Egresos;
 
@@ -141,7 +147,7 @@ c) Dirección General de Auditoría Fiscal:
 
 6. Coordinación de Inspección y Notificación Fiscal; y
 
-7. Coordinación de Impuestos Estatales.
+7. (DEROGADO, P.O. 28 DE JUNIO DE 2016)
 
 d) Dirección General de Presupuesto:
 
@@ -157,15 +163,19 @@ d) Dirección General de Presupuesto:
 
 3. Dirección de Análisis y Seguimiento del Gasto Público; y
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-4. Dirección de Proyectos de Inversión.
+4. (DEROGADO, P.O. 28 DE JUNIO DE 2016)
 
 e) Dirección General de Coordinación y Seguimiento de la Inversión Pública:
 
-1. Dirección de Seguimiento de Inversión Pública e Información; y
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2016)</small>
+
+1. Dirección de Estrategia de Inversión Pública;
 
 2. Dirección de Control de la Inversión Pública.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2016)</small>
+
+3. Dirección de Análisis, Evaluación de Proyectos de Inversión y Gestión de Recursos Federales.
 
 f) Dirección General de Contabilidad Gubernamental:
 
@@ -191,11 +201,11 @@ h) Dirección General de Verificación al Comercio Exterior; y (sic)
 
 4. Dirección de Procedimientos Aduaneros.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2016)</small>
 
-i) Coordinación General Hacendaria.
+i) Coordinación de Seguimiento a la Fiscalización.
 
-1. Coordinación de Seguimiento a la Fiscalización.
+1. (DEROGADO, P.O. 28 DE JUNIO DE 2016)
 
 III. Subsecretaría de Administración:
 
@@ -241,11 +251,9 @@ d) Dirección General Administrativa;
 
 3. Dirección de Servicios Generales; y
 
-4. Coordinación Administrativa y de Control Patrimonial.
+4. (DEROGADO, P.O. 28 DE JUNIO DE 2016)
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-e) Unidad de Acceso a la Información Pública del Poder Ejecutivo; y
+e) (DEROGADO, P.O. 28 DE JUNIO DE 2016)
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -333,7 +341,9 @@ XXI. Las demás que las disposiciones legales y reglamentarias le atribuyan, as�
 
 ### Capítulo II. Facultades Generales de los Subsecretarios
 
-Facultades Generales de los Subsecretarios
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 28 DE JUNIO DE 2016)</small>
+
+Facultades
 
 ###### Artículo 6.
 
@@ -341,7 +351,9 @@ Los Subsecretarios, tienen las siguientes facultades generales:
 
 I. Acordar con el Secretario el despacho de los asuntos que les sean encomendados;
 
-II. Ejercer adicionalmente a las facultades que el presente ordenamiento les confiere, las que el Secretario les delegue y las que les correspondan por suplencia;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+II. Ejercer adicionalmente a las facultades que el presente ordenamiento les confiere, las que el Secretario les delegue y las que les correspondan por designación;
 
 III. Cumplir las comisiones que el Secretario les encomiende, así como representar a la Secretaría cuando su titular lo determine;
 
@@ -397,7 +409,9 @@ IV. Supervisar la correcta administración y aplicación de su presupuesto autor
 
 V. Acordar con su superior inmediato el despacho de los asuntos relevantes que les encomiende;
 
-VI. Suscribir los documentos relativos al ejercicio de sus facultades y aquellos que se les señalen por delegación o les correspondan por suplencia;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+VI. Suscribir los documentos relativos al ejercicio de sus facultades y aquellos que se les señalen por delegación o les correspondan por designación;
 
 VII. Ejercer de manera directa cualquiera de las atribuciones encomendadas a las unidades administrativas de su adscripción, cuando lo consideren necesario;
 
@@ -477,9 +491,9 @@ II. Coordinación de Asesores;
 
 III. Procuraduría Fiscal del Estado;
 
-IV. Dirección General Administrativa; y
+IV. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
 
-V. Coordinación de Seguimiento a la Fiscalización.
+V. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
 
 ### Capítulo II. Secretaría Particular
 
@@ -617,11 +631,13 @@ XXIV. Ejercer las atribuciones derivadas de los convenios en materia fiscal, que
 
 XXV. Ordenar a las unidades administrativas de la Secretaría, la cumplimentación de las ejecutorias que le sean notificadas por los órganos jurisdiccionales federales o locales;
 
-XXVI. Asesorar jurídicamente a las unidades administrativas de la Secretaría, en las diversas etapas de los procedimientos de revisión y fiscalización que les sean practicados o en los que intervengan conforme a sus atribuciones, así como interponer los recursos o medios de impugnación previstos en las normas que regulan los procedimientos de revisión y auditorías que se practiquen al Estado en materia de recursos federales, a la cuenta pública del Poder Ejecutivo y a las unidades administrativas y procesos de la Secretaría;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+XXVI. Interponer los recursos o medios de impugnación previstos en las normas que regulan los procedimientos de revisión y auditorías que se practiquen al Estado en materia de recursos federales, a la cuenta pública del Poder Ejecutivo y a las unidades administrativas y procesos de la Secretaría;
 
-XXVII. Coadyuvar jurídicamente con la Unidad de Acceso a la Información Pública del Poder Ejecutivo en la elaboración de las respuestas que emita dicha unidad administrativa en el desarrollo de las diversas fases del procedimiento de acceso a la información pública de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXVII. Coadyuvar jurídicamente con las unidades administrativas de la Secretaría en el desarrollo de las diversas fases del procedimiento de acceso a la información pública de la Administración Pública Estatal;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -767,7 +783,9 @@ VII. Proponer las medidas para la correcta aplicación de las leyes y demás dis
 
 VIII. Coadyuvar en la atención de los procedimientos de revisión practicados por las instancias de fiscalización estatales y federales, en que la Secretaría intervenga;
 
-IX. Asesorar jurídicamente a las unidades administrativas de la Secretaría, en las diversas etapas de los procedimientos de revisión y fiscalización que les sean practicados o en los que intervengan conforme a sus atribuciones, así como interponer los recursos o medios de impugnación previstos en las normas que regulan los procedimientos de revisión y auditorías que se practiquen al Estado en materia de recursos federales, a la cuenta pública del Poder Ejecutivo y a las unidades administrativas y procesos de la Secretaría;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+IX. Interponer los recursos o medios de impugnación previstos en las normas que regulan los procedimientos de revisión y auditorías que se practiquen al Estado en materia de recursos federales, a la cuenta pública del Poder Ejecutivo y a las unidades administrativas y procesos de la Secretaría;
 
 X. Emitir los requerimientos de pago de todo tipo de pólizas de fianzas otorgadas a favor de la Secretaría, así como de sus intereses o de indemnizaciones por mora, cuando procedan en los términos de la normativa aplicable;
 
@@ -875,9 +893,13 @@ VI. Tramitar y resolver las solicitudes de declaratoria de prescripción de los 
 
 VII. Requerir documentos, datos y demás informes para el ejercicio de sus atribuciones;
 
-VIII. Tramitar y resolver a las consultas planteadas por las diversas unidades de la Secretaría, dependencias y entidades de la Administración Pública Estatal, relacionadas con la interpretación administrativa y aplicación de las normas competencia de la Secretaría en materia de los procedimientos de revisión y auditorías practicadas por las instancias de fiscalización;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-IX. Asesorar y asistir a la Coordinación de Seguimiento a la Fiscalización en el ámbito legal de los procedimientos de revisión y auditorías practicadas por las instancias de fiscalización;
+VIII. Asesorar jurídicamente a las unidades administrativas de la Secretaría durante la tramitación de los acuerdos conclusivos promovidos por los contribuyentes ante la Procuraduría de la Defensa del Contribuyente;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+IX. Ordenar a la institución de crédito o casa de bolsa que mantenga en depósito los títulos o valores en los que las afianzadoras tengan invertidas sus reservar técnicas, para que procedan a su venta a precio de mercado, hasta por el monto necesario para cubrir la garantía otorgada al Estado, en términos de lo dispuesto por el artículo 143 del Código Fiscal de la Federación;
 
 X. Proponer, para aprobación superior, los proyectos de recursos o medios de impugnación en los procedimientos de revisión y fiscalización que les sean practicados o en los que intervengan conforme a sus atribuciones;
 
@@ -887,7 +909,9 @@ XII. Emitir los requerimientos de pago de todo tipo de pólizas de fianzas otorg
 
 XIII. Vigilar que las garantías constituidas a favor del Estado se apliquen a favor del Gobierno del Estado, una vez concluido el procedimiento de ejecución respectivo, o se de cumplimiento a las resoluciones que decreten la procedencia del mismo;
 
-XIV. Tramitar los procedimientos de diligencias de información testimonial ad perpetuam, en la vía de jurisdicción voluntaria, para adquirir el dominio pleno de los bienes inmuebles que tiene en posesión el Gobierno del Estado;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XIV. Expedir copias certificadas de las constancias que obren en los archivos de la Secretaría, cuando deban ser exhibidas ante afianzadoras;
 
 XV. Formular, para aprobación superior, sus proyectos de manuales de organización y procedimientos; y
 
@@ -983,9 +1007,9 @@ VII. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2012)
 
 VIII. Dirección General de Verificación al Comercio Exterior; y
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-IX. Coordinación General Hacendaria.
+IX. Coordinación de Seguimiento a la Fiscalización.
 
 > <small>(REFORMADO ACÁPITE, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -1043,13 +1067,37 @@ XV. Coadyuvar en los procesos de concertación de la propuesta de inversión reg
 
 XVI. Coordinar el seguimiento a los procesos de revisión y auditorías que se practiquen en materia de recursos federales transferidos al Estado;
 
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XVII. Coordinar, supervisar y dar seguimiento a los asuntos y procedimientos competencia de las direcciones generales y unidades administrativas de su adscripción;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XVIII. Supervisar el desarrollo de los procesos administrativos competencia de las direcciones generales y unidades administrativas de su adscripción;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XIX. Proponer acciones de mejora continua a los procesos administrativos inherentes a la competencia de las direcciones generales y unidades administrativas de su adscripción;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XX. Dar seguimiento y evaluar las actividades realizadas por las direcciones generales y unidades administrativas de su adscripción;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXI. Gestionar y dar seguimiento ante las instancias federales competentes para la obtención de recursos federales;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXII. Autorizar la validación financiera de los convenios federales en los que se comprenda aportación o concurrencia de recursos estatales;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXIII. Supervisar los trámites y procedimientos que lleven a cabo las Direcciones Generales y unidades administrativas competentes, derivados de la aplicación de la Ley que Regula las Bases del Permiso para el Establecimiento de las Casas de Empeño en el Estado de Guanajuato y sus Municipios y de la Ley que Regula los Establecimientos dedicados a la Compraventa o Adquisición de Vehículos Automotores en Desuso y sus Autopartes, así como en los que se Comercializan, Manejan o Disponen de Metales para Reciclaje, para el Estado de Guanajuato y sus Municipios; y
+
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-XVII. Emitir las directrices para la regulación de la Coordinación General Hacendaria, a fin de coordinar, supervisar y dar seguimiento a los asuntos y procedimientos competencia de las Direcciones Generales y unidades administrativas; y
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-XVIII. Someter para aprobación del Secretario la suficiencia presupuestal para la modificación de las unidades administrativas que requieran las dependencias y entidades y que impliquen cambios en su estructura orgánica.
+XXIV. Someter para aprobación del Secretario la suficiencia presupuestal para la modificación de las unidades administrativas que requieran las dependencias y entidades y que impliquen cambios en su estructura orgánica.
 
 ### Capítulo II. Dirección General Financiera
 
@@ -1059,13 +1107,19 @@ Organización de la Dirección General Financiera
 
 La Dirección General Financiera debe apoyar, coordinar y supervisar el trabajo de las siguientes unidades administrativas:
 
-I. Dirección de Operaciones Financieras;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-II. Dirección de Deuda Pública;
+I. Dirección de Inversiones y Operaciones Financieras;
 
-III. Dirección de Inversiones;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-IV. Coordinación de Control y Seguimiento;
+II. Coordinación de Deuda Pública;
+
+III. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+IV. Dirección de Control y Seguimiento;
 
 V. Dirección de Egresos;
 
@@ -1105,37 +1159,79 @@ XII. Supervisar los pagos del gasto previamente autorizado y programado; y
 
 XIII. Elaborar los trabajos y análisis de carácter financiero que le sean encomendados.
 
-#### Sección Primera. Dirección de Operaciones Financieras
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JUNIO DE 2016)</small>
 
-Facultades de la Dirección de Operaciones Financieras
+#### Sección Primera. Dirección de Inversiones y Operaciones Financieras
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 28 DE JUNIO DE 2016)</small>
+
+Facultades de la Dirección de Inversiones y Operaciones Financieras
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2016)</small>
 
 ###### Artículo 39.
 
-La Dirección de Operaciones Financieras, tiene las siguientes facultades:
+La Dirección de Inversiones y Operaciones Financieras, tiene las siguientes facultades:
 
 I. Coordinar los traspasos de recursos entre instituciones financieras, derivadas de las operaciones de inversión y gasto;
 
-II. Determinar diariamente el total disponible a invertir en base al reporte de recaudación en cuentas concentradoras, a los egresos solicitados y a los vencimientos de inversión del día;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+II. Determinar diariamente el total disponible a invertir con base al reporte de recaudación en cuentas concentradoras, a los egresos solicitados y a los vencimientos de inversión del día;
 
 III. Supervisar la recepción y control de los comprobantes que amparen las operaciones realizadas;
 
 IV. Recibir de la Dirección de Egresos la solicitud de los gastos programados, a fin de cubrir su importe informándole la manera en que fue cubierto;
 
-V. Realizar el registro contable e implementar el control de los movimientos derivados de las operaciones realizadas;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-VI. Supervisar la elaboración del informe diario de movimientos financieros efectuados y su distribución oportuna a las áreas respectivas;
+V. Realizar el registro contable de los movimientos derivados de las operaciones realizadas;
 
-VII. Implementar medidas de control interno de las operaciones y movimientos realizados por la dirección; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-VIII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+VI. Programar, conjuntamente con el Director General, los montos y plazos de inversión acordes a las disponibilidades determinadas, una vez cubiertos los recursos solicitados por la Dirección de Egresos;
 
-#### Sección Segunda. Dirección de Deuda Pública
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-Facultades de la Dirección de Deuda Pública
+VII. Pactar con las instituciones financieras las operaciones de inversión, de acuerdo a las políticas establecidas por el Comité de Inversiones y el Director General;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+VIII. Elaborar un análisis e informar cuando menos de manera mensual, al Director General, de los principales factores económicos y financieros que permitan la adecuada toma de las decisiones e informar lo conducente;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+IX. Informar diariamente, al Director General, de las operaciones de inversión efectuadas así como el estado que guarda la cartera de inversiones financieras;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+X. Revisar los comprobantes de los movimientos financieros efectuados;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XI. Recabar los estados de cuenta mensuales y realizar las conciliaciones de inversión y cuentas bancarias de las diferentes instituciones financieras;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XII. Establecer las medidas de control interno de las operaciones y movimientos realizados por la Dirección; y
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XIII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JUNIO DE 2016)</small>
+
+#### Sección Segunda. Coordinación de Deuda Pública
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 28 DE JUNIO DE 2016)</small>
+
+Facultades de la Coordinación de Deuda Pública
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2016)</small>
 
 ###### Artículo 40.
 
-La Dirección de Deuda Pública, tiene las siguientes facultades:
+La Coordinación de Deuda Pública, tiene las siguientes facultades:
 
 I. Proponer al Director General las normas y procedimientos necesarios para el control de deuda pública;
 
@@ -1151,7 +1247,9 @@ VI. Revisar y controlar la documentación referente a la contratación de deuda 
 
 VII. Llevar el Registro Estatal de Deuda Pública;
 
-VIII. Realizar cortes mensuales del estado que guarda la deuda pública en el control implementado por la Dirección;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+VIII. Realizar cortes mensuales del estado que guarda la deuda pública en el control implementado por la Coordinación;
 
 IX. Solicitar periódicamente a las instituciones financieras acreditantes, información sobre la situación que guardan los créditos u obligaciones contratadas por municipios y otras entidades distintas del Gobierno del Estado, en los cuales se haya otorgado el aval de éste;
 
@@ -1173,45 +1271,35 @@ XVII. Las demás que las disposiciones legales y reglamentarias le atribuyan, as
 
 #### Sección Tercera. Dirección de Inversiones
 
-Facultades de la Dirección de Inversiones
-
 ###### Artículo 41.
 
-La Dirección de Inversiones, tiene las siguientes facultades:
+(DEROGADO, P.O. 28 DE JUNIO DE 2016)
 
-I. Programar, conjuntamente con el Director General y el Director de Operaciones Financieras, los montos y plazos de inversión acordes a las disponibilidades determinadas, una vez cubiertos los recursos solicitados por la dirección de Egresos;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JUNIO DE 2016)</small>
 
-II. Pactar con las instituciones financieras las operaciones de inversión, de acuerdo a las políticas establecidas por el comité de inversiones y el Director General;
+#### Sección Cuarta. Dirección de Control y Seguimiento
 
-III. Llevar un análisis de los principales factores económicos y financieros que permitan la adecuada toma de las decisiones;
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 28 DE JUNIO DE 2016)</small>
 
-IV. Informar al Director de Operaciones Financieras sobre las operaciones de inversión con el fin de que sean realizados los traspasos de recursos de una institución financiera a otra, derivadas de dichas operaciones;
+Facultades de la Dirección de Control y Seguimiento
 
-V. Informar al Director General de las operaciones de inversión efectuadas así como el estado que guarda la cartera de inversiones financieras;
-
-VI. Solicitar y revisar los comprobantes de los movimientos financieros efectuados;
-
-VII. Recabar los estados de cuenta mensuales y realizar las conciliaciones de inversión de las diferentes instituciones financieras;
-
-VIII. Establecer las medidas de control interno de las operaciones y movimientos realizados por la Dirección; y
-
-IX. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
-
-#### Sección Cuarta. Coordinación de Control y Seguimiento
-
-Facultades de la Coordinación de Control y Seguimiento
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2016)</small>
 
 ###### Artículo 42.
 
-La Coordinación de Control y Seguimiento, tendrá tiene (sic) las siguientes facultades:
+La Dirección de Control y Seguimiento, tiene las siguientes facultades:
 
 I. Informar a las diferentes unidades administrativas de la Secretaría, de acuerdo a su ámbito de competencia sobre la recepción, lineamientos, requerimientos y gestiones administrativas, para la aplicación de los recursos que provengan de la Tesorería de la Federación, en los que la Dirección General Financiera sea enlace;
 
-II. Coadyuvar con el Director General en la revisión directa de la operatividad de las diversas áreas adscritas a la Dirección General;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+II. Atender y dar seguimiento en conjunto con la Coordinación de Seguimiento a la Fiscalización, a las auditorías efectuadas a la Dirección General por parte de los entes fiscalizadores;
 
 III. Atender y dar seguimiento a las solicitudes de información de la Unidad de Enlace para el Acceso a la Información Pública;
 
-IV. Elaborar propuesta del anteproyecto de presupuesto de la Dirección General y vigilar la correcta administración y aplicación del presupuesto autorizado, de conformidad con las disposiciones aplicables; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+IV. Verificar y dar seguimiento al registro de las cuentas en el sistema que para tal efecto se establezca, con la finalidad de integrar en forma detallada la información relativa a las cuentas bancarias correspondientes que tengan activas en las instituciones financieras de acuerdo con las disposiciones aplicables en la materia; y
 
 V. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
@@ -1255,7 +1343,9 @@ La Coordinación de Pagos, tiene las siguientes facultades:
 
 I. Efectuar los pagos del gasto previamente autorizado y programado, mediante la suscripción de cheques en forma conjunta con el servidor público autorizado, o bien a través de los portales bancarios;
 
-II. Informar a las diferentes unidades administrativas de la Secretaría que así lo requieran de acuerdo a su ámbito de competencia, sobre las operaciones de pago realizadas;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+II. Generar información a las diferentes unidades administrativas de las dependencias y entidades que así lo requieran de acuerdo a su ámbito de competencia, sobre las operaciones de pago realizadas;
 
 III. Generar y controlar los comprobantes de pago que amparen las operaciones realizadas a través de los portales bancarios;
 
@@ -1347,9 +1437,13 @@ X. Condonar multas y recargos en el área de su competencia, en los términos de
 
 XI. Conceder autorizaciones y prórrogas para el pago en parcialidades de los créditos fiscales, previa garantía del interés fiscal y accesorios legales; o, en su caso, revocarlas;
 
-XII. Proponer al Secretario, por conducto del Subsecretario del ramo, los proyectos de cancelación de créditos incobrables;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-XIII. Vigilar, calcular y tramitar el cobro correcto y oportuno de las participaciones y aportaciones federales que correspondan al Estado y a los municipios, en los términos de la legislación en materia de coordinación fiscal federal y estatal;
+XII. Proponer al Secretario, por conducto del Subsecretario del ramo, los proyectos de cancelación de créditos fiscales incobrables;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XIII. Vigilar y dar seguimiento a la recepción de los ingresos que por participaciones y aportaciones federales correspondan al Estado y a los municipios, en los términos de la legislación en materia de coordinación fiscal federal y estatal;
 
 XIV. Aprobar los valores oficiales de los vehículos usados, para establecer el monto del impuesto por adquisición de vehículos de motor usados;
 
@@ -1362,6 +1456,22 @@ XVII. Organizar y controlar el catastro del Estado;
 XVIII. Expedir las cartas credenciales o constancias de identificación del personal autorizado para la práctica de las notificaciones, requerimientos de pago y demás actos de ejecución de créditos fiscales, estatales o federales coordinados; y
 
 XIX. Llevar a cabo la adjudicación de bienes embargados debido a su abandono, en los términos de la legislación aplicable.
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XX. Supervisar la planeación, organización y dirección del desarrollo de las actividades en las plazas de cobro y áreas administrativas de las carreteras y puentes estatales de cuota;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXI. Coordinar las funciones de expedición, refrendo, modificación, reposición y cancelación de los permisos, así como la imposición de sanciones, relativos a la instalación y funcionamiento de casas de empeño y establecimientos a que se refieren la Ley que Regula las Bases del Permiso para el Establecimiento de las Casas de Empeño en el Estado de Guanajuato y sus Municipios y la Ley que Regula los Establecimientos dedicados a la Compraventa o Adquisición de Vehículos Automotores en Desuso y sus Autopartes, así como en los que se Comercializan, Manejan o Disponen de Metales para Reciclaje, para el Estado de Guanajuato y sus Municipios;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXII. Coordinar las acciones necesarias para integrar y publicar los padrones de los permisos a que se refiere la fracción anterior, en los términos de la normatividad aplicable; y
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXIII. Habilitar a terceros para que realicen las notificaciones, cumpliendo con las formalidades previstas en las disposiciones fiscales estatales y federales aplicables.
 
 #### Sección Primera. Dirección Técnica de Ingresos
 
@@ -1377,29 +1487,37 @@ II. Resolver las consultas que formulen los contribuyentes, en relación con sit
 
 III. Tramitar las solicitudes presentadas por los contribuyentes para el legal funcionamiento de los establecimientos dedicados a las actividades de producción, almacenamiento, distribución, enajenación o consumo de bebidas alcohólicas; y elaborar los dictámenes para acuerdo con el Director General;
 
-IV. Llevar a cabo los procedimientos de reubicación y revocación de las licencias de funcionamiento en materia de alcoholes, y elaborar la resolución administrativa correspondiente, para acuerdo con el Director General;
+IV. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
 
 V. Imponer y condonar multas y recargos en el área de su competencia, en los términos de las disposiciones legales y los lineamientos establecidos por el Secretario;
 
-VI. Elaborar para aprobación del Director General, la tabla de valores oficiales de vehículos usados, con el objeto de establecer el monto del impuesto sobre adquisición de vehículos de motor usados;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-VII. Normar y establecer las políticas y lineamientos, así como participar en la elaboración de instructivos, formas fiscales, avisos, declaraciones, manifestaciones y demás instrumentos requeridos por las disposiciones fiscales;
+VI. Elaborar para aprobación del Director General, la tabla de valores oficiales de vehículos usados, con el objeto de establecer el monto del impuesto sobre adquisición de vehículos de motor usados, así como verificar y en su caso validar la documentación que se presenta en trámites vehiculares;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+VII. Normar y establecer políticas y lineamientos, así como participar en la elaboración de instructivos, formas fiscales, avisos, declaraciones, manifestaciones, emisión o reforma de disposiciones de carácter general, Resolución Miscelánea Fiscal, Acuerdo Administrativo para el cobro de productos y demás instrumentos requeridos por las disposiciones fiscales;
 
 VIII. Elaborar el anteproyecto de iniciativa de Ley de Ingresos para el Estado de Guanajuato, así como propuestas de reformas a las leyes fiscales del Estado, para someterlas a consideración del Director General;
 
-IX. Actualizar anualmente la legislación fiscal del Estado y tramitar su edición;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+IX. Participar con las áreas administrativas competentes de la Secretaría en la actualización y difusión de la legislación fiscal del Estado;
 
 X. Instrumentar programas permanentes de difusión fiscal, para aprobación del Director General;
 
 XI. Controlar y actualizar el padrón de licencias de funcionamiento en materia de alcoholes;
 
-XII. Calificar y en su caso imponer sanciones por violaciones a la Ley de Alcoholes para el Estado;
+XII. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
 
 XIII. Participar en las comisiones y grupos para el estudio y desahogo de asuntos relacionados con la coordinación de la hacienda pública estatal y municipal, que el Director General le asigne;
 
 XIV. Atender y en su caso levantar actas circunstanciadas de quejas o denuncias que presenten particulares, en contra de servidores públicos de la Dirección General de Ingresos;
 
-XV. Participar en la elaboración y revisión de acuerdos y convenios de coordinación fiscal con la Federación y los municipios;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XV. Participar en la elaboración y revisión de acuerdos y convenios relacionados con las facultades de la Dirección General de Ingresos;
 
 XVI. Expedir copias certificadas de los documentos existentes en los archivos de la Dirección General;
 
@@ -1407,7 +1525,39 @@ XVII. Coadyuvar con las unidades administrativas competentes para mantener actua
 
 XVIII. Elaborar el diseño de placas, tarjetas de circulación y otros formatos oficiales, en los términos de la normativa aplicable; y
 
-XIX. Las demás que las disposiciones legales, reglamentarias y administrativas le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XIX. Realizar recorridos, invitaciones y censos para promover la incorporación voluntaria o actualización de datos en el Registro Estatal de Contribuyentes, así como ante el Registro Federal de Contribuyentes, de acuerdo a los Convenios suscritos con la Federación;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XX. Recibir, analizar y resolver las solicitudes para la expedición, refrendo, modificación, reposición y cancelación del permiso para la instalación y funcionamiento de casas de empeño y establecimientos a que se refieren la Ley que Regula las Bases del Permiso para el Establecimiento de las Casas de Empeño en el Estado de Guanajuato y sus Municipios y la Ley que Regula los Establecimientos dedicados a la Compraventa o Adquisición de Vehículos Automotores en Desuso y sus Autopartes, así como en los que se Comercializan, Manejan o Disponen de Metales para Reciclaje, para el Estado de Guanajuato y sus Municipios, así como integrar, actualizar y publicar los padrones de los permisos expedidos, de conformidad con lo establecido en dichas leyes y demás normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXI. Elaborar los formatos de documentos relativos a la solicitud de expedición, refrendo, modificación, reposición y cancelación de los permisos a que se refiere la fracción XX de este artículo y proveer lo conducente a su ejecución;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXII. Requerir a los peticionarios de los permisos señalados en la fracción XX de este artículo, los datos, documentos o cualquier otra información relacionada con la expedición, refrendo, modificación, reposición o cancelación de dichos permisos;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXIII. Sustanciar y resolver el procedimiento administrativo para la imposición de sanciones por infracciones a las leyes señaladas en la fracción XX de este artículo, así como aplicar las sanciones que en su caso se impongan;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXIV. Comunicar a la Procuraduría General de Justicia del Estado sobre el cambio de domicilio o de propietario, así como los casos de clausura o suspensión del servicio prestado por las casas de empeño;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXV. Generar los certificados de la firma electrónica avanzada, para la realización de los trámites y servicios electrónicos, de acuerdo a lo establecido en los Convenios suscritos con la Federación;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXVI. Generar la clave del Registro Federal de Contribuyentes con base en la información de la Clave Única de Registro de Población, de acuerdo a lo establecido en los Convenios suscritos con la Federación; y
+
+XXVII. Las demás que las disposiciones legales, reglamentarias y administrativas le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
 #### Sección Segunda. Dirección de Catastro
 
@@ -1419,19 +1569,29 @@ La Dirección de Catastro, tiene las siguientes facultades:
 
 I. Proponer para aprobación del Director General, las actividades, políticas, procedimientos, programas y en general, los sistemas administrativos que se requieran para el buen funcionamiento del catastro;
 
-II. Realizar los trabajos de levantamiento topográfico, deslindes, determinación de claves y demás operaciones catastrales en el Estado;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-III. Ordenar y efectuar la valuación de los predios ubicados en el Estado, así como realizar la justipreciación de rentas que le sean solicitadas;
+II. Realizar los trabajos de levantamiento geodésico-topográfico y fotogramétrico, deslindes, codificación de identificación de objetos espaciales y demás operaciones catastrales en el Estado;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+III. Ordenar y efectuar la valuación de los inmuebles urbanos, suburbanos y rústicos ubicados en el Estado; así como realizar la justipreciación para la determinación de los rangos de base mínima y máxima de arrendamiento que le sean solicitadas;
 
 IV. Realizar los avalúos a los municipios que así lo soliciten, en los términos de los convenios que al efecto se celebren;
 
 V. Formular y mantener actualizado el Plano General Catastral del Estado;
 
-VI. Integrar la cartografía de los predios urbanos y rústicos, así como realizar y actualizar los planos de las poblaciones del Estado;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-VII. Coadyuvar con los municipios, cuando así lo soliciten, para clasificar los inmuebles en urbanos y rústicos;
+VI. Integrar y actualizar la cartografía digital urbana, suburbana y rústica del Estado;
 
-VIII. Coadyuvar con las autoridades municipales en la aplicación de las disposiciones previstas en la Ley de Fraccionamientos para el Estado de Guanajuato y sus Municipios;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+VII. Coadyuvar con los municipios, cuando así lo soliciten, para clasificar los inmuebles conforme a las zonas catastrales urbanas, suburbanas y rústicas;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+VIII. Coadyuvar con las autoridades estatales y municipales en la aplicación de las disposiciones del Código Territorial para el Estado y los Municipios de Guanajuato;
 
 IX. Proporcionar apoyo a los municipios que así lo requieran, en la atención de las inconformidades que los contribuyentes presenten respecto a los avalúos que se practiquen;
 
@@ -1493,7 +1653,23 @@ XVIII. Expedir certificaciones de los documentos existentes en los archivos de l
 
 XIX. Aplicar las compensaciones procedentes en materia de impuestos estatales y federales coordinados, en los términos de la normativa aplicable; y
 
-XX. Las demás que las disposiciones legales, reglamentarias y administrativas le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XX. Efectuar los trámites de inscripción, bajas, cambios y rectificaciones que procedan en el registro estatal vehicular;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXI. Realizar actos de verificación para mantener actualizado el registro estatal vehicular, conforme a las disposiciones jurídicas aplicables, de acuerdo a lo establecido en los Convenios suscritos con la Federación;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXII. Recibir, y en su caso, requerir los avisos, manifestaciones y demás documentos que conforme a las diversas disposiciones jurídicas federales y estatales aplicables deban presentarse, a fin de mantener actualizado el Sistema Informático previsto en los Convenios suscritos con la Federación;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXIII. Negar el otorgamiento de tarjetas, placas de circulación o cualquier otro documento que permita la circulación de vehículos en el Estado, de acuerdo a lo establecido en los Convenios suscritos con la Federación; y
+
+XXIV. Las demás que las disposiciones legales, reglamentarias y administrativas le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
 #### Sección Cuarta. Dirección de Ejecución
 
@@ -1527,9 +1703,39 @@ XI. Controlar el correcto y oportuno cumplimiento de las obligaciones fiscales f
 
 XII. Inscribir, autorizar y controlar el padrón de ministros ejecutores;
 
-XIII. Proponer al Director General, los proyectos de cancelación de créditos incobrables comprobados a favor del Estado, de conformidad con la legislación aplicable, para la depuración de carteras; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-XIV. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+XIII. Proponer al Director General, los proyectos de cancelación de créditos fiscales incobrables comprobados a favor del Estado, de conformidad con la legislación aplicable, para la depuración de carteras;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XIV. Dejar sin efectos los certificados de sello digital, cuando en el ejercicio de sus atribuciones, los contribuyentes se ubiquen en alguno de los supuestos del artículo 17-H, fracción X, del Código Fiscal de la Federación, de acuerdo a lo establecido en los Convenios suscritos con la Federación;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XV. Solicitar a las entidades financieras o a las sociedades cooperativas de ahorro y préstamo, información sobre el domicilio manifestado por los contribuyentes no localizados u omisos en cuanto a la manifestación de su domicilio fiscal, en los términos de lo establecido en el artículo 10, fracción I, segundo párrafo del Código Fiscal de la Federación;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XVI. Solicitar información sobre cuentas, depósitos, servicios, fideicomisos y créditos o préstamos, otorgados a personas físicas o morales, o cualquier operación, en términos de lo establecido en el artículo 32-B del Código Fiscal de la Federación;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XVII. Llevar a cabo el procedimiento de inmovilización y transferencia de depósitos bancarios, seguros o cualquier otro depósito en moneda nacional o extranjera que se realice en cualquier tipo de cuenta que tenga a su nombre el contribuyente en las entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores, conforme a lo dispuesto en los artículos 156-Bis y 156-Ter del Código Fiscal de la Federación;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XVIII. Tramitar y resolver la entrega de las cantidades excedentes derivadas de la aplicación del procedimiento administrativo de ejecución, de conformidad con el artículo 196 del Código Fiscal de la Federación;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XIX. Publicar, previa validación del área jurídica de la Secretaría, a través de la página electrónica del Servicio de Administración Tributaria, el nombre, denominación o razón social y clave del Registro Federal de Contribuyentes, de aquellos contribuyentes que se ubiquen en alguno de los supuestos del penúltimo párrafo del artículo 69 del Código Fiscal de la Federación, en relación con los ingresos y actividades coordinadas a que se refieren los Convenios suscritos con la Federación;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XX. Proporcionar a las sociedades de información crediticia que obtengan autorización de la Secretaría de Hacienda y Crédito Público, la información de los créditos fiscales federales firmes; y
+
+XXI. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
 #### Sección Quinta. Dirección de Política de Ingresos
 
@@ -1545,7 +1751,9 @@ II. Proponer al Director General la política de ingresos, así como las líneas
 
 III. Formular el proyecto de pronóstico de ingresos del Estado;
 
-IV. Formular, analizar y evaluar estadísticas de la recaudación, a fin de compararlas con las estimaciones, determinando en su caso, la causa de variación y proponer al Director General las medidas para incrementar los ingresos;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+IV. Formular, analizar y evaluar estadísticas de los recursos fiscales para proponer al Director General las medidas que permitan hacer más eficientes dichos recursos;
 
 V. Formular el pronóstico de participaciones que en ingresos federales y estatales le corresponde a los municipios, en los términos de la Ley de Coordinación Fiscal para el Estado de Guanajuato;
 
@@ -1553,9 +1761,13 @@ VI. Dar seguimiento a los ingresos derivados de participaciones federales, así 
 
 VII. Determinar el cálculo de las participaciones que correspondan a los municipios, en los términos de la legislación en materia de coordinación fiscal federal y estatal, y remitirlos a la Dirección General de Contabilidad Gubernamental para efectos de su trámite;
 
-VIII. Elaborar análisis de la fórmula de distribución de las participaciones federales, para ser sometidas a la consideración del Director General;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-IX. Presentar al Director General propuestas para el fortalecimiento del federalismo de la hacienda pública estatal y federal;
+VIII. Elaborar análisis de las fórmulas de distribución de las participaciones federales, para ser sometidas a la consideración del Director General;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+IX. Presentar al Director General propuestas para el fortalecimiento del federalismo de la hacienda pública federal, estatal y municipal;
 
 X. Llevar el control y registro de los acuerdos y minutas de las sesiones de los organismos existentes en materia de coordinación fiscal federal y estatal y de sus grupos de trabajo, dándole seguimiento, de acuerdo con los lineamientos que dicte el Director General;
 
@@ -1563,9 +1775,15 @@ XI. Participar en los grupos y comisiones para estudio y desahogo de asuntos rel
 
 XII. Proporcionar cuando sea solicitada, asesoría a los municipios y a las dependencias y entidades de la Administración Pública Estatal, así como servicios de información en materia fiscal coordinada, a fin de fortalecer sus haciendas públicas;
 
-XIII. Recabar y poner a consideración del Director General, la información relativa a los impuestos asignables, para remitirla a la Secretaría de Hacienda y Crédito Público; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-XIV. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+XIII. Recabar y poner a consideración del Director General, la información relativa a las contribuciones estatales y municipales, para remitirla a la Secretaría de Hacienda y Crédito Público;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XIV. Solicitar a las áreas de la Dirección General la información necesaria para atender y dar seguimiento, en conjunto con la Coordinación de Seguimiento a la Fiscalización, a las revisiones y auditorías efectuadas a la Dirección General;
+
+XV. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
 #### Sección Sexta. Coordinación de Oficinas Recaudadoras
 
@@ -1579,7 +1797,9 @@ I. Supervisar las actividades de las Oficinas Recaudadoras y de las Oficinas Rec
 
 II. Asesorar a las Oficinas Recaudadoras y a las Oficinas Recaudadoras Auxiliares en las políticas administrativas que se implementen por la Secretaría;
 
-III. Atender las solicitudes de las Oficinas Recaudadoras y de las Oficinas Recaudadoras Auxiliares, en relación con el suministro de placas metálicas y tarjetas de circulación, recibos oficiales y recibos-tarjeta;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+III. Atender las solicitudes de las Oficinas Recaudadoras y de las Oficinas Recaudadoras Auxiliares, en relación con el suministro de placas metálicas, tarjetas de circulación, y recibos-tarjeta;
 
 IV. Recibir las solicitudes de licencias sin goce de sueldo, tanto del personal de la Dirección de Recaudación, como de las Oficinas Recaudadoras y de las Oficinas Recaudadoras Auxiliares y turnarlas al Director de Recaudación para su autorización;
 
@@ -1629,17 +1849,31 @@ XIV. Integrar y actualizar el registro estatal de contribuyentes y los padrones 
 
 XV. Integrar y actualizar el padrón vehicular;
 
-XVI. Ejercer las facultades señaladas en el artículo 41 del Código Fiscal de la Federación;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XVI. Ejercer las facultades señaladas en los artículos 41, 41 A y 41 B, del Código Fiscal de la Federación;
 
 XVII. Recibir, controlar y aplicar los certificados de depósito y las garantías judiciales, administrativas, fiscales y otras que se otorguen a favor del Gobierno del Estado;
 
-XVIII. Informar a la Dirección General de Ingresos y a la Procuraduría Fiscal del Estado, sobre los hechos de que tenga conocimiento con motivo del ejercicio de sus facultades, que puedan constituir delitos fiscales, infracciones o delitos de los servidores públicos en el desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XVIII. Informar en un plazo no mayor de 10 días hábiles a la Dirección General de Ingresos y a la Procuraduría Fiscal del Estado, sobre los hechos de que tenga conocimiento con motivo del ejercicio de sus facultades, que puedan constituir delitos fiscales, infracciones o delitos de los servidores públicos en el desempeño de sus funciones;
 
 XIX. Informar en forma periódica a la Dirección de Ejecución sobre el Estado que guarden los expedientes sujetos al procedimiento administrativo de ejecución;
 
 XX. Autorizar previo acuerdo con el Director General de Ingresos, el pago a plazo, ya sea diferido o en parcialidades, de los créditos fiscales estatales y de los derivados de los impuestos federales coordinados, en los términos de las disposiciones legales correspondientes; y
 
-XXI. Las demás que las disposiciones legales, reglamentarias y administrativas les atribuyan, así como aquellas que les confieran el Secretario, el Subsecretario del ramo, el Director General, el Director de Recaudación, el Director Técnico de Ingresos o el Director de Ejecución.
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXI. Solicitar a las entidades financieras o a las sociedades cooperativas de ahorro y préstamo, información sobre el domicilio manifestado por los contribuyentes no localizados u omisos en cuanto a la manifestación de su domicilio fiscal, en los términos de lo establecido en el artículo 10, fracción I, segundo párrafo del Código Fiscal de la Federación;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXII. Solicitar información sobre cuentas, depósitos, servicios, fideicomisos y créditos o préstamos, otorgados a personas físicas o morales, o cualquier operación, en términos de lo establecido en el artículo 32-B del Código Fiscal de la Federación; y
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXIII. Las demás que las disposiciones legales, reglamentarias y administrativas le atribuyan, así como aquellas que e (sic) confieran el Secretario, el Subsecretario del ramo, el Director General, el Director de Recaudación, el Director Técnico de Ingresos o el Director de Ejecución.
 
 Las Oficinas Recaudadoras ejercerán sus atribuciones en el territorio del Municipio en el que se ubiquen. Adicionalmente, las Oficinas Recaudadoras correspondientes a los municipios de San José Iturbide y de San Luis de la Paz, serán indistintamente competentes respecto de los municipios de Atarjea, Santa Catarina, Tierra Blanca y Xichú.
 
@@ -1669,7 +1903,9 @@ VII. Actualizar el registro estatal de contribuyentes y los padrones de los impu
 
 VIII. Actualizar el padrón vehicular;
 
-IX. Informar a la Dirección General de Ingresos y a la Procuraduría Fiscal del Estado, sobre los hechos de que tenga conocimiento con motivo del ejercicio de sus facultades, que puedan constituir delitos fiscales, infracciones o delitos de los servidores públicos en el desempeño de sus funciones; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+IX. Informar en un plazo no mayor de 10 días hábiles a la Dirección General de Ingresos y a la Procuraduría Fiscal del Estado, sobre los hechos de que tenga conocimiento con motivo del ejercicio de sus facultades, que puedan constituir delitos fiscales, infracciones o delitos de los servidores públicos en el desempeño de sus funciones; y
 
 X. Las demás que las disposiciones legales, reglamentarias y administrativas les atribuyan, así como aquellas que les confieran el Secretario, el Subsecretario del ramo, el Director General, el Director de Recaudación, el Director Técnico de Ingresos o el Director de Ejecución.
 
@@ -1693,7 +1929,9 @@ III. Proponer al Director General, las estrategias financieras e inversiones que
 
 IV. Impulsar y gestionar proyectos de ampliación de la infraestructura carretera de cuota, en coordinación con la Secretaría de Obra Pública y demás áreas competentes;
 
-V. Supervisar el desarrollo de las actividades en las plazas de cobro de las carreteras y puentes estatales de cuota;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+V. Coordinar la planeación, organización, dirección y seguimiento del desarrollo de las actividades en las plazas de cobro y áreas administrativas de las carreteras y puentes estatales de cuota;
 
 VI. Proponer al Director General, las cuotas y/o tarifas de peaje que deban establecerse anualmente en la iniciativa de Ley de Ingresos para el Estado de Guanajuato para el Ejercicio Fiscal correspondiente, en coordinación con las áreas competentes; así como también los derechos, productos o tarifas de otros elementos inherentes a la administración, operación y explotación de las carreteras y puentes estatales de cuota y su infraestructura complementaria;
 
@@ -1707,13 +1945,45 @@ X. Someter para aprobación del Director General, los actos, contratos y conveni
 
 XI. Informar mensualmente al Director General, el flujo de ingresos y aforos provenientes de la administración, operación y explotación de las carreteras y puentes estatales de cuota e infraestructura complementaria;
 
-XII. Coadyuvar con las dependencias y áreas competentes en la contratación del aseguramiento de los bienes y servicios a su cargo; así como atender y dar seguimiento a los incidentes y/o siniestros ocurridos en las carreteras y puentes estatales de cuota e infraestructura complementaria y gestionar ante las instancias correspondientes la reparación del daño y/o reposición de los mismos, en su caso;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XII. Coadyuvar con las dependencias y áreas competentes en la contratación de los bienes y servicios a su cargo; así como atender y dar seguimiento a la recuperación de los recursos por los incidentes y/o siniestros ocurridos en las carreteras y puentes estatales de cuota e infraestructura complementaria y gestionar ante particulares involucrados y/o instancias correspondientes la reparación del daño y/o reposición de los bienes de propiedad estatal;
 
 XIII. Elaborar y proponer al Director General, los pronósticos de ingresos y de aforo por la administración, operación y explotación de las carreteras y puentes estatales de cuota y su infraestructura complementaria, para ser incorporados en la iniciativa de Ley de Ingresos para el Estado de Guanajuato para el Ejercicio Fiscal correspondiente;
 
-XIV. Proponer y, en su caso, elaborar en coordinación con la Procuraduría Fiscal del Estado y/o áreas competentes, los proyectos de contratos, convenios y demás actos jurídicos competencia de la Dirección; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-XV. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+XIV. Proponer y, en su caso, elaborar en coordinación con la Procuraduría Fiscal del Estado y/o áreas competentes, los proyectos de contratos, convenios y demás actos jurídicos competencia de la Dirección;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XV. Brindar la información necesaria a la Dirección General de Ingresos y a la Procuraduría Fiscal del Estado, sobre los hechos de que tenga conocimiento con motivo del ejercicio de sus facultades, que puedan constituir infracciones o delitos de los servidores públicos en el desempeño de sus funciones, así como también respecto a los bienes e infraestructura carretera a su cargo;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XVI. Proporcionar en tiempo y forma a la Dirección General de Ingresos, la información a su alcance, para la atención de las solicitudes que reciba en la materia de su competencia;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XVII. Atender las solicitudes de información, de videograbación y/o de cualquier otra a su alcance que requieran las diversas autoridades administrativas, ministeriales y/o jurisdiccionales en ejercicio de atribuciones; así como emitir, ante éstas, en su caso, los informes necesarios, diligenciar y gestionar lo conducente, en lo que respecta a los percances suscitados en las carreteras y puentes estatales de cuota;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XVIII. Ordenar la custodia, hasta el momento de su depósito o entrega correspondiente, de los ingresos producto del peaje y los derivados de los mecanismos relacionados con el mismo, así como los derivados de la administración y explotación de las carreteras y puentes estatales de cuota e infraestructura complementaria;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XIX. Coordinar la recepción, análisis y emisión de los dictámenes técnicos que determinen la viabilidad de las solicitudes de autorización relacionadas con la explotación y aprovechamiento del derecho de vía y zonas aledañas a las carreteras y puentes estatales de cuota, con el apoyo de las dependencias y áreas competentes, en su caso; así como dar seguimiento a las autorizaciones, que, en su caso, se emitan;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XX. Coadyuvar en la regularización de los bienes inmuebles que ocupan y los que en el futuro se adquieran para las carreteras y puentes estatales de cuota e infraestructura complementaria, en coordinación con la Secretaría de Obra Pública y demás áreas competentes;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXI. Supervisar la validación, registro y, en su caso la recepción de los recursos provenientes de las cuotas de peaje y demás fuentes de ingreso que deriven de la administración y explotación de las carreteras y puentes estatales de cuota y de su infraestructura complementaria; y
+
+XXII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
 ### Capítulo IV. Dirección General de Auditoría Fiscal
 
@@ -1735,7 +2005,7 @@ V. Coordinación de Procedimientos Legales de Fiscalización;
 
 VI. Coordinación de Inspección y Notificación Fiscal; y
 
-VII. Coordinación de Impuestos Estatales.
+VII. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
 
 Facultades de la Dirección General de Auditoría Fiscal
 
@@ -1751,9 +2021,13 @@ III. Solicitar de los contribuyentes, responsables solidarios o terceros, datos,
 
 IV. Ordenar y practicar en el domicilio fiscal o establecimientos de los contribuyentes, de los responsables solidarios y de los terceros con ellos relacionados, así como en las oficinas de la autoridad fiscal, visitas domiciliarias, auditorías, inspecciones, actos de vigilancia, verificaciones y registro del valor de los actos o actividades que realicen con el público en general en máquinas registradoras de comprobación fiscal o en los equipos electrónicos de registro fiscal autorizados, y los demás actos que establezcan las disposiciones fiscales federales y estatales, para comprobar el cumplimiento de las obligaciones en materia de impuestos federales coordinados y contribuciones estatales;
 
-V. Ordenar y practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones fiscales relacionadas con la expedición de comprobantes fiscales, con la presentación de las solicitudes o avisos en materia del Registro Federal de Contribuyentes o en su caso del Registro Estatal de Contribuyentes, así como solicitar la exhibición de los comprobantes que amparen la legal posesión o propiedad de las mercancías que vendan;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-VI. Ordenar y practicar la clausura preventiva de los establecimientos de los contribuyentes por no expedir o no entregar comprobantes de sus actividades; que los expedidos no reúnan requisitos fiscales o que los datos asentados en el comprobante correspondan a persona distinta a la que adquiere el bien o contrate el uso o goce temporal de bienes o la prestación de servicios, y en el caso de que el contribuyente no cuente con controles volumétricos;
+V. Ordenar y practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones fiscales relacionadas con la expedición de comprobantes fiscales digitales por internet; con la presentación de solicitudes o avisos en materia del registro federal de contribuyentes o en su caso del registro estatal de contribuyentes; con el uso y operación de los equipos y sistemas electrónicos de registro fiscal y, en su caso, las máquinas registradoras de comprobación fiscal, en establecimientos o locales; con la adhesión en los envases o recipientes de bebidas alcohólicas del marbete o precinto correspondiente o, en su caso, que los envases que contenían dichas bebidas hayan sido destruidos; con la impresión del código de seguridad en las cajetillas de cigarro para su venta en el país y, en su caso, que éste sea auténtico; así como solicitar la exhibición de los comprobantes que amparen la legal posesión o propiedad de los bienes que enajenen;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+VI. Ordenar y practicar la clausura preventiva de los establecimientos de los contribuyentes por no expedir, no entregar o no poner a disposición de los clientes los comprobantes fiscales digitales por internet de sus actividades; que los expedidos no reúnan requisitos fiscales o que los datos asentados en el comprobante correspondan a persona distinta a la que adquiere el bien o contrate el uso o goce temporal de bienes o la prestación de servicios, y en el caso de que el contribuyente no cuente con controles volumétricos;
 
 VII. Designar a los visitadores, auditores, y notificadores; así como al demás personal necesario para la práctica de los actos de su competencia;
 
@@ -1787,7 +2061,9 @@ XXI. Solicitar a las instituciones bancarias, así como a las organizaciones aux
 
 XXII. Determinar los impuestos, su actualización, así como sus accesorios en materia de impuestos federales coordinados y contribuciones estatales, y determinar en cantidad líquida el monto correspondiente que resulte a cargo de los contribuyentes, responsables solidarios y demás obligados, que deriven del ejercicio de las facultades de comprobación;
 
-XXIII. Imponer las multas por infracciones a las disposiciones fiscales que rigen la materia de su competencia;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXIII. Imponer las multas por infracciones a las disposiciones fiscales que rigen la materia de su competencia, así como calificar e imponer las sanciones por violaciones a la Ley de Alcoholes para el Estado de Guanajuato;
 
 XXIV. Determinar la responsabilidad solidaria respecto de créditos fiscales de su competencia;
 
@@ -1817,7 +2093,9 @@ XXXVI. Ejercer las atribuciones y funciones derivadas de los sistemas nacional y
 
 XXXVII. Ordenar y practicar visitas de inspección a los establecimientos que se dediquen a las actividades que regula la Ley de Alcoholes para el Estado de Guanajuato;
 
-XXXVIII. Ordenar y practicar las clausuras de los establecimientos o giros que contravengan las disposiciones de la Ley de Alcoholes para el Estado de Guanajuato, en los casos en que éstas procedan;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXXVIII. Calificar, ordenar, practicar y levantar las clausuras de los establecimientos o giros que contravengan las disposiciones de la Ley de Alcoholes para el Estado de Guanajuato, en los casos en que éstas procedan;
 
 XXXIX. Dar orientación y asistencia a las autoridades municipales coordinadas con el Estado, en materia de inspección fiscal de alcoholes;
 
@@ -1843,6 +2121,66 @@ XLIX. Dar seguimiento en la Dirección General de Ingresos, de los créditos fis
 
 L. Llevar el control y resguardo del archivo de la Dirección General y de las unidades administrativas adscritas a ésta.
 
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+LI. Notificar las resoluciones que emitan las Direcciones Regionales de Auditoría Fiscal «A», «B» y «C», en las que determinen los créditos fiscales;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+LII. Verificar la procedencia de las compensaciones efectuadas por los contribuyentes, así como determinar las compensaciones improcedentes e imponer las multas que correspondan, tanto de contribuciones federales coordinadas como de contribuciones estatales;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+LIII. Ordenar y practicar visitas de inspección y verificación, con las formalidades que establecen la Ley que Regula las Bases del Permiso para el Establecimiento de las Casas de Empeño en el Estado de Guanajuato y sus Municipios, y la Ley que Regula los Establecimientos dedicados a la Compraventa o Adquisición de Vehículos Automotores en Desuso y sus Autopartes, así como en los que se Comercializan, Manejan o Disponen de Metales para Reciclaje, para el Estado de Guanajuato y sus Municipios, y proveer lo conducente a su ejecución;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+LIV. Solicitar el uso de la fuerza pública para ejecutar sus determinaciones, en los casos en los que sea necesario;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+LV. Llevar a cabo el procedimiento establecido en el Código Fiscal de la Federación en aquellos casos en que detecte que un contribuyente ha emitido comprobantes sin contar con los activos, personal, infraestructura o capacidad material, directa o indirectamente, para prestar los servicios o producir, comercializar o entregar bienes que amparan tales comprobantes, o bien, que dichos contribuyentes se encuentren no localizados y se presuma la inexistencia de las operaciones amparadas en tales comprobantes;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+LVI. Dejar sin efectos los certificados de sello digital, cuando en el ejercicio de sus atribuciones, los contribuyentes se ubiquen en alguno de los supuestos del artículo 17-H, fracción X, del Código Fiscal de la Federación, de acuerdo a lo establecido en los Convenios suscritos con la Federación;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+LVII. Suscribir con los contribuyentes los Acuerdos Conclusivos a que se refiere el Título III, Capítulo II del Código Fiscal de la Federación;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+LVIII. Solicitar a las entidades financieras o a las sociedades cooperativas de ahorro y préstamo, información sobre el domicilio manifestado por los contribuyentes no localizados u omisos en cuanto a la manifestación de su domicilio fiscal, en los términos de lo establecido en el artículo 10, fracción I, segundo párrafo del Código Fiscal de la Federación;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+LIX. Requerir información sobre operaciones específicas de conformidad con lo dispuesto en el artículo 31-A del Código Fiscal de la Federación;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+LX. Solicitar información sobre cuentas, depósitos, servicios, fideicomisos y créditos o préstamos, otorgados a personas físicas o morales, o cualquier operación, en términos de lo establecido en el artículo 32-B del Código Fiscal de la Federación;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+LXI. Practicar revisiones electrónicas a los contribuyentes, responsables solidarios o terceros con ellos relacionados, basándose en el análisis de la información y documentación que obre en poder de la autoridad, sobre uno o más rubros o conceptos específicos de una o varias contribuciones, para comprobar el cumplimiento de obligaciones en materia de impuestos federales coordinados;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+LXII. Analizar y resolver las objeciones que se formulen respecto a la participación de los trabajadores en las utilidades de las empresas y dictar las resoluciones que procedan en esta materia, así como las que se desprendan del ejercicio de las facultades de comprobación delegadas en los Convenios suscritos con la Federación;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+LXIII. Publicar, previa validación del área jurídica de la Secretaría, a través de la página electrónica del Servicio de Administración Tributaria, el nombre, denominación o razón social y clave del Registro Federal de Contribuyentes, de aquellos contribuyentes que se ubiquen en alguno de los supuestos del penúltimo párrafo del artículo 69 del Código Fiscal de la Federación, en relación con los ingresos y actividades coordinadas a que se refieren los Convenios suscritos con la Federación;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+LXIV. Sustanciar y resolver los procedimientos de caducidad, reubicación y revocación de las licencias de funcionamiento en materia de alcoholes, conforme a lo establecido en las disposiciones de la Ley de Alcoholes para el Estado de Guanajuato; y
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+LXV. Condonar las multas impuestas por infracciones a la Ley de Alcoholes para el Estado de Guanajuato, así como los recargos generados por el pago extemporáneo del refrendo de las licencias de funcionamiento a que se refiere la citada Ley, en los términos de las disposiciones legales y los lineamientos establecidos por el Secretario.
+
 Las facultades previstas en este artículo, relativas a las disposiciones estipuladas en el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos, estarán referidas a los impuestos federales coordinados, con excepción de las contribuciones y aprovechamientos que deriven de la introducción al territorio nacional de mercancías y vehículos de procedencia extranjera.
 
 #### Sección Primera. Direcciones Regionales de Auditoría Fiscal «A», «B» y «C»
@@ -1857,9 +2195,13 @@ I. Solicitar de los contribuyentes, responsables solidarios o terceros, datos, i
 
 II. Ordenar y practicar en el domicilio fiscal o establecimientos de los contribuyentes, de los responsables solidarios y de los terceros con ellos relacionados, así como en las oficinas de la autoridad fiscal, visitas domiciliarias, auditorías, inspecciones, actos de vigilancia, verificaciones y registro del valor de los actos o actividades que realicen con el público en general en máquinas registradoras de comprobación fiscal o en los equipos electrónicos de registro fiscal autorizados, y los demás actos que establezcan las disposiciones fiscales federales y estatales, para comprobar el cumplimiento de las obligaciones en materia de impuestos federales coordinados y contribuciones estatales;
 
-III. Ordenar y practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones fiscales relacionadas con la expedición de comprobantes fiscales, con la presentación de las solicitudes o avisos en materia del Registro Federal de Contribuyentes o en su caso del Registro Estatal de Contribuyentes, así como solicitar la exhibición de los comprobantes que amparen la legal posesión o propiedad de las mercancías que vendan;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-IV. Ordenar y practicar la clausura preventiva de los establecimientos de los contribuyentes por no expedir o no entregar comprobantes de sus actividades; que los expedidos no reúnan requisitos fiscales o que los datos asentados en el comprobante correspondan a persona distinta a la que adquiere el bien o contrate el uso o goce temporal de bienes o la prestación de servicios, y en el caso de que el contribuyente no cuente con controles volumétricos;
+III. Ordenar y practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones fiscales relacionadas con la expedición de comprobantes fiscales digitales por internet; con la presentación de solicitudes o avisos en materia del registro federal de contribuyentes o en su caso del registro estatal de contribuyentes; con el uso y operación de los equipos y sistemas electrónicos de registro fiscal y, en su caso, las máquinas registradoras de comprobación fiscal, en establecimientos o locales; con la adhesión en los envases o recipientes de bebidas alcohólicas del marbete o precinto correspondiente o, en su caso, que los envases que contenían dichas bebidas hayan sido destruidos; con la impresión del código de seguridad en las cajetillas de cigarro para su venta en el país y, en su caso, que éste sea auténtico; así como solicitar la exhibición de los comprobantes que amparen la legal posesión o propiedad de los bienes que enajenen;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+IV. Ordenar y practicar la clausura preventiva de los establecimientos de los contribuyentes por no expedir, no entregar o no poner a disposición de los clientes los comprobantes fiscales digitales por internet de sus actividades; que los expedidos no reúnan requisitos fiscales o que los datos asentados en el comprobante correspondan a persona distinta a a (sic) que adquiere el bien o contrate el uso o goce temporal de bienes o la prestación de servicios, y en el caso de que el contribuyente no cuente con controles volumétricos;
 
 V. Requerir a los contribuyentes los avisos, manifestaciones y demás documentación que, conforme a las disposiciones fiscales, deban presentarse ante las autoridades fiscales;
 
@@ -1891,13 +2233,17 @@ XVIII. Solicitar a las instituciones bancarias, así como a las organizaciones a
 
 XIX. Determinar los impuestos, su actualización, así como sus accesorios en materia de impuestos federales coordinados y contribuciones estatales, y determinar en cantidad líquida el monto correspondiente que resulte a cargo de los contribuyentes, responsables solidarios y demás obligados, que deriven del ejercicio de las facultades de comprobación;
 
-XX. Imponer las multas por infracciones a las disposiciones fiscales que rigen la materia de su competencia;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XX. Imponer las multas por infracciones a las disposiciones fiscales que rigen la materia de su competencia, así como calificar e imponer sanciones por violaciones a la Ley de Alcoholes para el Estado de Guanajuato;
 
 XXI. Determinar la responsabilidad solidaria respecto de créditos fiscales de su competencia;
 
 XXII. Ordenar y practicar visitas de inspección a los establecimientos que se dediquen a las actividades que regula la Ley de Alcoholes para el Estado de Guanajuato;
 
-XXIII. Ordenar y practicar las clausuras de los establecimientos o giros que contravengan las disposiciones de la Ley de Alcoholes para el Estado de Guanajuato, en los casos en que éstas procedan;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXIII. Calificar, ordenar, practicar y levantar las clausuras de los establecimientos o giros que contravengan las disposiciones de la Ley de Alcoholes para el Estado de Guanajuato, en los casos en que éstas procedan;
 
 XXIV. Ejercer las atribuciones y funciones derivadas de los sistemas nacional y estatal de coordinación fiscal, así como de los acuerdos, convenios y los anexos de éstos, que se celebren dentro del esquema de dicha coordinación con los gobiernos Federal y municipales, así como con los organismos auxiliares;
 
@@ -1907,7 +2253,45 @@ XXVI. Determinar presuntivamente la base o fuente generadora de los impuestos fe
 
 XXVII. Elaborar y rendir mensualmente a la Dirección General, un informe de las actividades realizadas en el ejercicio de las atribuciones que le correspondan a esa unidad administrativa; y
 
-XXVIII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXVIII. Verificar la procedencia de las compensaciones efectuadas por los contribuyentes, así como determinar las compensaciones improcedentes e imponer las multas que correspondan, tanto de contribuciones federales coordinadas como de contribuciones estatales;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXIX. Ordenar y practicar visitas de inspección y verificación, con las formalidades que establecen la Ley que Regula las Bases del Permiso para el Establecimiento de las Casas de Empeño en el Estado de Guanajuato y sus Municipios, y la Ley que Regula los Establecimientos dedicados a la Compraventa o Adquisición de Vehículos Automotores en Desuso y sus Autopartes, así como en los que se Comercializan, Manejan o Disponen de Metales para Reciclaje, para el Estado de Guanajuato y sus Municipios, y proveer lo conducente a su ejecución;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXX. Solicitar el uso de la fuerza pública para ejecutar sus determinaciones, en los casos en los que sea necesario;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXXI. Suscribir con los contribuyentes los Acuerdos Conclusivos a que se refiere el Título III, Capítulo II del Código Fiscal de la Federación;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXXII. Solicitar a las entidades financieras o a las sociedades cooperativas de ahorro y préstamo, información sobre el domicilio manifestado por los contribuyentes no localizados u omisos en cuanto a la manifestación de su domicilio fiscal, en los términos de lo establecido en el artículo 10, fracción I, segundo párrafo del Código Fiscal de la Federación;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXXIII. Requerir información sobre operaciones específicas de conformidad con lo dispuesto en el artículo 31-A del Código Fiscal de la Federación;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXXIV. Solicitar información sobre cuentas, depósitos, servicios, fideicomisos y créditos o préstamos, otorgados a personas físicas o morales, o cualquier operación, en términos de lo establecido en el artículo 32-B del Código Fiscal de la Federación;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXXV. Practicar revisiones electrónicas a los contribuyentes, responsables solidarios o terceros con ellos relacionados, basándose en el análisis de la información y documentación que obre en poder de la autoridad, sobre uno o más rubros o conceptos específicos de una o varias contribuciones, para comprobar el cumplimiento de obligaciones en materia de impuestos federales coordinados;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXXVI. Analizar y resolver las objeciones que se formulen respecto a la participación de los trabajadores en las utilidades de las empresas y dictar las resoluciones que procedan en esta materia, así como las que se desprendan del ejercicio de las facultades de comprobación delegadas en los Convenios suscritos con la Federación; y
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXXVII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del Ramo o su Director General.
 
 Circunscripción Territorial de las Direcciones Regionales de Auditoría Fiscal
 
@@ -1961,13 +2345,19 @@ Facultades de la Coordinación de Procedimientos Legales de Fiscalización
 
 La Coordinación de Procedimientos Legales de Fiscalización, tiene las siguientes facultades:
 
-I. Remitir a la Procuraduría Fiscal del Estado, los asuntos en los que proceda formular querellas y declaratoria de perjuicio del fisco, derivado de los actos de fiscalización de los impuestos federales coordinados;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+I. Remitir a la Procuraduría Fiscal del Estado, los asuntos en los que proceda formular querellas y declaratoria de perjuicio del fisco, derivado de los actos de fiscalización de los impuestos federales coordinados y contribuciones estatales;
 
 II. Designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia;
 
-III. Dar respuesta a las consultas que formulen los contribuyentes que estén siendo objeto de un acto de fiscalización, en materia de impuestos federales coordinados, respecto de la aplicación de las normas fiscales a situaciones reales y concretas;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-IV. Expedir, en caso de ausencia del Director General, las cartas credenciales o constancias de identificación de los servidores públicos que se autoricen para la práctica de las visitas domiciliarias, auditorías, notificaciones, inspecciones, verificaciones y demás actos de comprobación de las obligaciones fiscales;
+III. Dar respuesta a las consultas que formulen los contribuyentes que estén siendo objeto de un acto de fiscalización, en materia de impuestos federales coordinados y contribuciones estatales, respecto de la aplicación de las normas fiscales a situaciones reales y concretas;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+IV. Expedir, en caso de ausencia del Director General, las cartas credenciales o constancias de identificación de los servidores públicos que se autoricen para la práctica de las visitas domiciliarias, auditorías, notificaciones, inspecciones, verificaciones y demás actos de comprobación de las obligaciones fiscales, así como de las derivadas de la Ley que Regula las Bases del Permiso para el Establecimiento de las Casas de Empeño en el Estado de Guanajuato y sus Municipios, y de la Ley que Regula los Establecimientos dedicados a la Compraventa o Adquisición de Vehículos Automotores en Desuso y sus Autopartes, así como en los que se Comercializan, Manejan o Disponen de Metales para Reciclaje, para el Estado de Guanajuato y sus Municipios;
 
 V. Participar en el ámbito de su competencia, en los órganos de coordinación fiscal estatal y municipal y por delegación del Secretario, en el ámbito federal;
 
@@ -2009,33 +2399,9 @@ VII. Las demás que las disposiciones legales, reglamentarias y administrativas 
 
 #### Sección Quinta. Coordinación de Impuestos Estatales
 
-Facultades de la Coordinación de Impuestos Estatales
-
 ###### Artículo 63.
 
-La Coordinación de Impuestos Estatales, tiene las siguientes facultades:
-
-I. Remitir a la Procuraduría Fiscal del Estado, los asuntos en los que proceda formular querellas y declaratoria de perjuicio del fisco, derivado de los actos de fiscalización de las contribuciones estatales;
-
-II. Designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia;
-
-III. Dar respuesta a las consultas que formulen los contribuyentes que estén siendo objeto de un acto de fiscalización, en materia de contribuciones estatales, respecto de la aplicación de las normas fiscales a situaciones reales y concretas;
-
-IV. Expedir, en caso de ausencia del Director General, las cartas credenciales o constancias de identificación de los servidores públicos que se autoricen para la práctica de las visitas domiciliarias, auditorías, notificaciones y demás actos de comprobación de las obligaciones fiscales en materia estatal;
-
-V. Participar en el ámbito de su competencia, en los órganos de coordinación fiscal estatal y municipal;
-
-VI. Expedir certificaciones de los documentos existentes en los archivos de las Direcciones Regionales de Auditoría Fiscal «A», «B» y «C» y de las unidades administrativas adscritas a las mismas, en materia de contribuciones estatales;
-
-VII. Revisar la aplicación de las disposiciones fiscales, normativas y procedimientos internos que deban aplicar las Direcciones Regionales de Auditoría Fiscal «A», «B» y «C», en materia de contribuciones estatales;
-
-VIII. Dar seguimiento en la Procuraduría Fiscal del Estado, de los juicios, investigaciones o procedimientos derivados de actos de fiscalización, en materia de contribuciones estatales;
-
-IX. Dar seguimiento en la Dirección General de Ingresos, de los créditos fiscales, derivados de actos de fiscalización, en materia estatal;
-
-X. Llevar el control y resguardo del archivo de las unidades administrativas adscritas a la Coordinación; y
-
-XI. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o el Director General.
+(DEROGADO, P.O. 28 DE JUNIO DE 2016)
 
 ### Capítulo V. Dirección General De Presupuesto
 
@@ -2053,9 +2419,7 @@ II. Dirección de Control Presupuestal; y (sic)
 
 III. Dirección de Análisis y Seguimiento del Gasto Público.
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-IV. Dirección de Proyectos de Inversión.
+IV. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
 
 Facultades de la Dirección General de Presupuesto
 
@@ -2093,45 +2457,27 @@ XII. Elaborar y proponer al Secretario, por conducto del Subsecretario del ramo,
 
 XIII. Crear o modificar las partidas del clasificador por objeto del gasto, atendiendo a la normativa aplicable;
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+XIV. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
 
-XIV. Integrar y proponer al Secretario, por conducto del Subsecretario del ramo, los proyectos en materia de inversión, que deberán considerarse como prioritarios en la presupuestación;
+XV. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+XVI. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
 
-XV. Proponer al Secretario, por conducto del Subsecretario del ramo, los lineamientos para la formulación y preparación de proyectos de ejecución estatal y regional;
+XVII. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+XVIII. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
 
-XVI. Coordinar los grupos de trabajo y análisis que en materia de inversión se constituyan;
+XIX. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-XVII. Dictaminar la viabilidad de los proyectos presentados por las dependencias y entidades del Ejecutivo Estatal, derivado del proceso de evaluación socioeconómica, previo acuerdo del Subsecretario del ramo;
+XX. Coordinar con la Secretaría de la Transparencia y Rendición de Cuentas y las instancias competentes la vigilancia de la congruencia entre los programas de las dependencias y entidades con el Programa de Gobierno y con los lineamientos generales en materia de gasto, control y evaluación;
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+XXI. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
 
-XVIII. Promover esquemas de capacitación que permitan mejores prácticas en la formulación de proyectos de inversión;
+XXII. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-XIX. Analizar, proponer y promover, en coordinación con las instancias competentes, modalidades de financiamiento alternativo para programas y proyectos de inversión, con la participación de los sectores público, privado y social;
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-XX. Coordinar con la Secretaría de la Transparencia y Rendición de Cuentas y las instancias competentes la vigilancia de la congruencia entre los programas de las dependencias y entidades con el Programa de Gobierno y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación;
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-XXI. Elaborar y proponer al Subsecretario del ramo, la prospectiva presupuestal de los requerimientos de la inversión estatal;
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-XXII. Proponer al Secretario, por conducto del Subsecretario del ramo, los distintos mecanismos de coinversión regional; en los procesos de concertación de la propuesta de inversión, con las dependencias y entidades del Ejecutivo del Estado, así como con los municipios; y
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-XXIII. Identificar los proyectos de infraestructura pública en la propuesta de inversión anual y canalizarlos a las instancias normativas para su análisis, dictamen y priorización.
+XXIII. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -2159,33 +2505,23 @@ V. Asesorar y dar respuesta a las solicitudes de las dependencias y entidades en
 
 VI. Analizar, proponer y emitir opinión sobre los proyectos, reformas y adiciones a las disposiciones legales y administrativas de su competencia; y (sic)
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+VII. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
 
-VII. Proponer al Secretario, por conducto del Subsecretario del ramo, los criterios del proceso de preparación e integración de la propuesta de inversión estatal anual;
+VIII. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-VIII. Coordinar el proceso de conformación de la propuesta de inversión estatal anual;
+IX. Verificar, en coordinación con la Dirección General de Coordinación y Seguimiento de la Inversión Pública, que la propuesta de inversión anual sea congruente con los instrumentos de planeación;
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+X. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
 
-IX. Verificar que la propuesta de inversión anual sea congruente con los instrumentos de planeación;
+XI. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+XII. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
 
-X. Coordinar la identificación de la propuesta del Programa de Obra Pública del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-XI. Someter a aprobación del Secretario, por conducto del Subsecretario del ramo, la prospectiva de la inversión estatal;
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-XII. Diseñar y coordinar la instrumentación del sistema de planificación de las inversiones;
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-XIII. Coordinar la integración de las prioridades de inversión de los municipios a través de las dependencias y entidades de la Administración Pública Estatal; y
+XIII. Llevar a cabo las acciones conducentes para la coordinación con la Secretaría de la Transparencia y Rendición de Cuentas y las instancias competentes respecto a la vigilancia de la congruencia entre los programas de las dependencias y entidades con el Programa de Gobierno y con los lineamientos generales en materia de gasto, control y evaluación; y
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -2247,35 +2583,7 @@ VIII. Las demás que las disposiciones legales y reglamentarias le atribuyan, as
 
 #### Sección Cuarta. Dirección de Proyectos de Inversión
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-Facultades de la Dirección de Proyectos de Inversión
-
-Artículo 68 A. La Dirección de Proyectos de Inversión, tiene las siguientes facultades:
-
-I. Coordinar el proceso de incubación y análisis de integralidad de los proyectos de inversión conforme a las prioridades señaladas en los planes y programas estatales, así como aquellos que acuerde el Titular del Poder Ejecutivo;
-
-II. Identificar aquellos proyectos que podrán considerarse como prioritarios para ser propuestos al Titular del Poder Ejecutivo, a través del Secretario;
-
-III. Asesorar a los líderes de proyectos en el seguimiento puntual de los acuerdos, las gestiones y las negociaciones necesarias para la ejecución de los proyectos prioritarios;
-
-IV. Dar seguimiento a los acuerdos tomados con los líderes o gerentes de los proyectos prioritarios;
-
-V. Brindar a las dependencias y entidades de la Administración Pública Estatal que lo soliciten, asesoría en la estructuración de proyectos de inversión;
-
-VI. Asesorar y, en su caso, coordinar la integración y funcionamiento de los grupos de análisis de proyectos prioritarios, que constituya el Titular del Poder Ejecutivo. En el caso de proyectos de infraestructura se coordinará con la Secretaría de Obra Pública;
-
-VII. Realizar el seguimiento a las gestiones emprendidas por la Administración Pública Estatal con las dependencias, entidades y organismos de la Federación para la obtención de recursos y desarrollo de los proyectos;
-
-VIII. Analizar, en coordinación con las instancias competentes, modalidades de financiamiento alternativo para proyectos de inversión;
-
-IX. Proponer los lineamientos y coordinar el proceso de evaluación socioeconómica de los proyectos de inversión presentados por las dependencias y entidades de la Administración Pública Estatal;
-
-X. Diseñar y proporcionar esquemas de capacitación en materia de proyectos de inversión;
-
-XI. Proponer lineamientos para la preparación y la formulación de proyectos de inversión bajo esquemas de financiamiento alternativo; y
-
-XII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+Artículo 68 A. (DEROGADO, P.O. 28 DE JUNIO DE 2016)
 
 ### Capítulo VI. Dirección General de Coordinación y Seguimiento de la Inversión Pública
 
@@ -2285,9 +2593,15 @@ Organización de la Dirección General de Coordinación y Seguimiento de la Inve
 
 La Dirección General de Coordinación y Seguimiento de la Inversión Pública deberá apoyar, coordinar y supervisar el trabajo de las siguientes unidades administrativas:
 
-I. Dirección de Seguimiento de Inversión Pública e Información; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+I. Dirección de Estrategia de Inversión Pública;
 
 II. Dirección de Control de la Inversión Pública.
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+III. Dirección de Análisis, Evaluación de Proyectos de Inversión y Gestión de Recursos Federales.
 
 Facultades de la Dirección General de Coordinación y Seguimiento de la Inversión Pública
 
@@ -2295,37 +2609,51 @@ Facultades de la Dirección General de Coordinación y Seguimiento de la Inversi
 
 La Dirección General de Coordinación y Seguimiento de la Inversión Pública, tiene las siguientes facultades:
 
-I. Coordinar e implementar el seguimiento y control financiero-presupuestal de los programas de inversión pública en el Estado y los formulados a través de convenios especiales con las dependencias y/o entidades del Gobierno Federal y municipal, en materia de obra pública y servicios relacionados con la misma;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-II. Llevar a cabo el trámite de autorización de recursos de inversión pública estatal, así como las solicitudes de afectación presupuestaria correspondientes, previo acuerdo del Secretario, a través del Subsecretario del ramo;
+I. Coordinar e implementar el seguimiento y control financiero presupuestal de los programas de inversión pública en el Estado y los formulados a través de convenios especiales con las dependencias y/o entidades del gobierno federal y municipal, en materia de obra pública y servicios relacionados con la misma;
 
-III. Afectar presupuestal y contablemente el ejercicio del gasto en la Plataforma Estatal de Información a nivel de obra y/o acción para la liberación de los recursos de inversión pública, previa solicitud de las dependencias, y en su caso a entidades ejecutoras, así como la transferencia de los recursos a las entidades paraestatales y organismos autónomos que controlan su ejercicio del gasto; y a los municipios con base al calendario de ministración de recursos del Ramo 33 del Presupuesto de Egresos de la Federación;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-IV. Llevar a cabo el análisis del comportamiento del gasto de inversión pública y proponer medidas para su óptima aplicación al Secretario, a través del Subsecretario del ramo;
+II. Coordinar el trámite de autorización de recursos de proyectos de inversión pública, así como sus modificaciones cualitativas correspondientes, previo acuerdo del Secretario, a través del Subsecretario del ramo;
 
-V. Establecer y difundir las normas y políticas para la autorización y liberación de los recursos destinados a los proyectos de inversión estatal en obra pública y servicios relacionadas con la misma, previo acuerdo del Secretario, a través del Subsecretario del ramo;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-VI. Apoyar en la gestión y negociación de los recursos financieros con el Gobierno Federal y sus dependencias, previo acuerdo del Secretario, a través del Subsecretario del ramo;
+III. Afectar presupuestal y contablemente el ejercicio del gasto en la Plataforma Estatal de Información a nivel de obra y/o acción para la liberación de los recursos de inversión en obra pública y servicios relacionados con la misma, previa solicitud de las dependencias, entidades, organismos autónomos y de los municipios, con base al calendario de ministración de recursos del Ramo 33 del Presupuesto de Egresos de la Federación que esta Dirección General administra;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+IV. Coordinar el análisis del comportamiento del gasto de inversión pública y proponer medidas para su óptima aplicación al Secretario, a través del Subsecretario del ramo;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+V. Establecer y difundir las normas y políticas para la autorización y liberación de los recursos destinados a los proyectos de inversión estatal, previo acuerdo del Secretario, a través del Subsecretario del ramo;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+VI. Apoyar en la gestión y negociación de los recursos financieros con el gobierno federal y sus dependencias, previo acuerdo del Secretario, a través del Subsecretario del ramo;
 
 VII. Acordar la administración de recursos federales que se manejan a través de cuentas bancarias específicas, provenientes de convenios especiales para la ejecución de obras y servicios relacionados con la misma y llevar a cabo las conciliaciones correspondientes al interior de la Secretaría con las áreas involucradas;
 
 VIII. Coordinar el análisis y gestión de la información en el portal aplicativo de la Secretaría de Hacienda y Crédito Público, de los recursos aplicados en los fondos del Ramo 33 y recursos federales derivados del Presupuesto de Egresos de la Federación que esta dirección general administra;
 
-IX. Proporcionar a las dependencias, entidades y municipios del Estado cuando lo soliciten, asesoría y apoyo técnico en la liberación de los recursos de la inversión pública, así como para el seguimiento y control financiero de los diferentes programas de inversión;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+IX. Proporcionar a las dependencias, entidades y municipios del Estado cuando lo soliciten, asesoría y apoyo técnico en materia de inversión pública;
 
 X. Coadyuvar en las acciones referentes a la elaboración e integración del Informe de Gobierno, que anualmente debe presentar el Ejecutivo Estatal a consideración del Congreso del Estado, buscando la participación activa de las demás dependencias del Ejecutivo;
 
 XI. Participar en la integración y elaboración de la Exposición de Motivos de la iniciativa de Ley del Presupuesto General de Egresos del Estado de Guanajuato, que anualmente debe presentar el Ejecutivo Estatal a consideración del Congreso del Estado; y (sic)
 
-XII. Participar por encargo del Secretario o del Subsecretario del ramo, como representante de la Secretaría, en los órganos de gobierno, fideicomisos, comités, así como en otras actividades en materia de inversión pública.
+XII. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 XIII. Administrar, previo acuerdo del Subsecretario del ramo, la cartera aprobada de programas y proyectos de inversión para su seguimiento, mismos que deberán ser congruentes con los planes y programas estatales;
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-XIV. Proponer al Secretario, por conducto del Subsecretario del ramo, los lineamientos para el proceso de seguimiento y evaluación de la inversión pública;
+XIV. Proponer al Secretario, por conducto del Subsecretario del ramo, los lineamientos para la aplicación de recursos en materia de proyectos de inversión;
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -2335,23 +2663,55 @@ XV. Coadyuvar en la elaboración y ejecución del Programa Estatal de Infraestru
 
 XVI. Apoyar a los titulares de las dependencias y entidades del Ejecutivo en la contratación de los consultores y asesores necesarios para la ejecución y administración de los proyectos prioritarios; y
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-XVII. Promover la elaboración de esquemas de capacitación que permitan mejores prácticas en la ejecución de proyectos.
+XVII. Promover esquemas de capacitación que permitan mejores prácticas de gestión de proyectos de inversión;
 
-#### Sección Primera. Dirección de Seguimiento de Inversión Pública e Información
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-Facultades de la Dirección de Seguimiento de Inversión Pública e Información
+XVIII. Dictaminar la viabilidad de los proyectos presentados por las dependencias y entidades de la administración pública estatal, derivado del proceso de evaluación socioeconómica, previo acuerdo del Subsecretario del ramo;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XIX. Analizar y promover, en coordinación con las instancias competentes, modalidades de financiamiento alternativo para programas y proyectos de inversión con la participación de los sectores público, privado y social;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XX. Administrar y coordinar el proceso del Banco Integrado de Proyectos;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXI. Coordinar la preparación de la propuesta de inversión estatal para su integración al Anteproyecto de la Ley del Presupuesto General de Egresos del Estado de Guanajuato; y
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXII. Coordinar el seguimiento de la ejecución del gasto de inversión pública relativo a los proyectos autorizados, a fin de evaluar el comportamiento de los mismos.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JUNIO DE 2016)</small>
+
+#### Sección Primera. Dirección de Estrategia de Inversión Pública
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 28 DE JUNIO DE 2016)</small>
+
+Facultades de la Dirección de Estrategia de Inversión Pública
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2016)</small>
 
 ###### Artículo 71.
 
-La Dirección de Seguimiento de Inversión Pública e Información, tiene las siguientes facultades:
+La Dirección de Estrategia de Inversión Pública tiene las siguientes facultades:
 
-I. Vigilar que la aplicación de los recursos destinados a la inversión pública, se apeguen a los montos, calendarios y programas autorizados, así como a los términos establecidos en los contratos o convenios federales celebrados con cargo a dichos recursos;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-II. Realizar el análisis de la situación del gasto de inversión pública de los diferentes programas, a fin de evaluar el comportamiento en la ejecución del mismo;
+I. Administrar la cartera de proyectos de inversión pública, apegada a las metas, calendarios y montos autorizados, en congruencia con la planeación estatal;
 
-III. Identificar las acciones emprendidas por las dependencias y entidades ejecutoras, en materia de inversión pública, en cuanto a montos y al logro de las metas y objetivos autorizados;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+II. Analizar la situación del gasto de inversión pública relativo a los proyectos autorizados, a fin de evaluar el comportamiento en la ejecución del mismo, así como proponer los criterios y el proceso de seguimiento para la inversión anual;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+III. Prevalidar los trámites de creación de proyectos de inversión, así como ajustes en alcance, monto y cronograma de los mismos;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -2361,49 +2721,65 @@ V. Establecer mecanismos permanentes de evaluación en los avances de los progra
 
 VI. Analizar e integrar información financiera para la cuenta pública de proyectos de inversión que administra la dirección general, en materia de obra pública y de programas de inversión, para su envío a la Dirección General de Contabilidad Gubernamental;
 
-VII. Coordinar la aplicación de los recursos federales convenidos con dependencias y entidades normativas y ejecutoras, para generar y remitir los reportes requeridos, que por su naturaleza se establezcan en la normativa aplicable;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-VIII. Llevar el seguimiento de los acuerdos y convenios que establezca el Ejecutivo Estatal a través de sus dependencias y entidades, con el Gobierno Federal en materia de obra pública y servicios relacionados con la misma;
+VII. Proponer al Secretario, por conducto del Subsecretario del ramo, los criterios del proceso de preparación e integración de la propuesta de inversión estatal anual;
 
-IX. Establecer el calendario de fechas de pago de las transferencias a los municipios correspondientes al Ramo 33, así como su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato, de conformidad con la Ley de Coordinación Fiscal Federal;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+VIII. Coordinar el proceso de conformación de la propuesta de inversión estatal anual;
+
+IX. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
 
 X. Participar en la coordinación de las acciones tendentes a la elaboración del Informe de Gobierno, e integrar los anexos estadísticos, de inversión pública y de dependencias federales;
 
-XI. Colaborar en mantener actualizados los sistemas que permitan el seguimiento de los recursos financieros en la ejecución de los programas de inversión pública en la Plataforma Estatal de Información;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-XII. Revisar, analizar y gestionar la información en el portal aplicativo de la Secretaría de Hacienda y Crédito Público, de los recursos aplicados en los fondos del Ramo 33 y recursos federales que esta dirección general da seguimiento;
+XI. Colaborar en mantener actualizados los sistemas que permitan el seguimiento de los recursos físicos y financieros en la ejecución de los programas de inversión pública;
 
-XIII. Revisar y procesar la información para la integración de la Exposición de Motivos de la iniciativa de la Ley del Presupuesto General de Egresos del Estado de Guanajuato, que anualmente debe presentar el Ejecutivo Estatal a consideración del Congreso del Estado;
+XII. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
 
-XIV. Participar por encargo del Secretario o del Subsecretario del ramo, y en su caso por el Director General, como representante de la Secretaría, en fideicomisos, comités técnicos y comisiones de apoyo, que realicen actividades en materia de inversión pública; y (sic)
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XIII. Revisar y procesar la información de la Dirección General, para integrarla a la Exposición de Motivos de la iniciativa de la Ley del Presupuesto General de Egresos del Estado de Guanajuato, que anualmente debe presentar el Ejecutivo Estatal a consideración del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XIV. Coordinar la preparación de la propuesta de inversión estatal para su integración al Anteproyecto de la Ley del Presupuesto General de Egresos del Estado de Guanajuato;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 XV. Proponer los criterios y el proceso de seguimiento para la inversión anual;
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-XVI. Coordinar el seguimiento del Sistema de Inversión Estatal;
+XVI. Diseñar y coordinar la instrumentación del sistema de planificación de las inversiones, así como coordinar la identificación de la propuesta del Programa de Obra Pública del Gobierno del Estado;
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-XVII. Coordinar y proponer el proceso de cierre operativo y analizar la inversión del ejercicio fiscal inmediato anterior;
+XVII. Coordinar el proceso de verificación de alcance de los proyectos de inversión del ejercicio fiscal inmediato anterior;
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 XVIII. Coordinar el apoyo a las instancias normativas y ejecutoras en la preparación y el seguimiento del Programa de Obra Pública del Gobierno del Estado;
 
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XIX. Someter a aprobación del Secretario, por conducto del Subsecretario del ramo, la prospectiva de la inversión estatal;
+
+XX. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXI. Apoyar en la elaboración y ejecución del Programa Estatal de Infraestructura en el área de salud y demás programas sectoriales aprobados, previo acuerdo del Subsecretario del ramo;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXII. Apoyar la elaboración de esquemas decapacitación (sic) que permitan mejores prácticas de gestión de proyectos de las dependencias y entidades de la administración pública estatal; y
+
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-XIX. Coordinar el seguimiento del gasto federal en proyectos de inversión estatales;
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-XX. Proponer la contratación de consultores y asesores necesarios para la ejecución y administración de los proyectos prioritarios, en apoyo a los titulares de las dependencias y entidades de la Administración Pública Estatal. En el caso de proyectos de infraestructura se coordinará con la Secretaría de Obra Pública; y
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-XXI. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+XXIII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
 #### Sección Segunda. Dirección de Control de la Inversión Pública
 
@@ -2415,33 +2791,91 @@ La Dirección de Control de la Inversión Pública, tiene las siguientes faculta
 
 I. Llevar a cabo el trámite de la liberación de recursos financieros de los programas de inversión pública, que comprenden la recepción, registro, control y seguimiento financiero;
 
-II. Mantener actualizados los sistemas que permitan el seguimiento de los recursos financieros en la ejecución de los programas de inversión pública en el Estado, realizados con recursos federales, estatales o municipales, vigilando su aplicación racional, con fundamento en la normativa aplicable;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+II. Mantener actualizados en el sistema que para el efecto se establezca, los registros que permitan el control de los recursos financieros en materia de obra pública y servicios relacionados con la misma, de los programas de inversión pública en el Estado, realizados con recursos federales, estatales o municipales, vigilando su aplicación racional, con fundamento en la normativa aplicable;
 
 III. Registrar las afectaciones presupuestales del ejercicio de la inversión pública, de partidas de obra y servicios relacionados con la misma, de los diferentes programas de inversión de recursos estatales, federales y convenios especiales, así como, la elaboración de los reportes correspondientes;
 
-IV. Analizar y dictaminar la procedencia de las solicitudes de afectación presupuestaria provenientes de las dependencias y entidades ejecutoras, respecto a los programas de inversión pública de los recursos federales, estatales y municipales, para emitir la respuesta correspondiente;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+IV. Analizar y dictaminar la procedencia de las solicitudes de afectación presupuestaria provenientes de las dependencias y entidades ejecutoras, respecto a los programas de inversión, relativos a obra pública y servicios relacionados con la misma, de los recursos federales, estatales y municipales, para emitir la respuesta correspondiente;
 
 V. Validar en su caso, la recalendarización del gasto de inversión de las dependencias y entidades, a petición de las mismas;
 
-VI. Asesorar y apoyar a las dependencias, entidades y municipios ejecutores de los programas de inversión, en relación con los requisitos y procedimientos para la liberación, ejercicio y comprobación de los recursos financieros;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-VII. Establecer los mecanismos y procedimientos con las dependencias y entidades ejecutoras de la obra pública, con el fin de conciliar los avances financieros y proponer las acciones pertinentes para su control y seguimiento;
+VI. Asesorar y apoyar a las dependencias, entidades y municipios ejecutores de los programas de inversión, en materia de obra pública y servicios relacionados con la misma, en relación con los requisitos y procedimientos para la liberación, ejercicio y comprobación de los recursos financieros;
 
-VIII. Coordinar y asesorar a las dependencias con asignación de recursos de inversión pública, para la integración del Anexo de Inversión Pública del Informe de Gobierno;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-IX. Revisar, analizar y gestionar la información en el portal aplicativo de la Secretaría de Hacienda y Crédito Público, de los recursos aplicados en los fondos del Ramo 33 que esta dirección administra;
+VII. Establecer los mecanismos y procedimientos con las dependencias y entidades ejecutoras de la obra pública y servicios relacionados con la misma, con el fin de conciliar los avances financieros y proponer las acciones pertinentes para su control y seguimiento;
 
-X. Coadyuvar en la solventación de las diversas auditorias que los entes fiscalizadores realizan a los recursos de inversión pública;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-XI. Proporcionar información financiera para integración de la cuenta pública;
+VIII. Coordinar y asesorar a las dependencias y entidades que cuenten con recursos autorizados, en proyectos de inversión pública, para la integración del Anexo de Inversión Pública del Informe de Gobierno;
 
-XII. Participar por encargo del Secretario o del Subsecretario del ramo, y en su caso por el Director General, como representante de la Secretaría, en fideicomisos, comités técnicos y comisiones de apoyo, que realicen actividades en materia de inversión pública; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+IX. Analizar y gestionar la información en el portal aplicativo de la Secretaría de Hacienda y Crédito Público, de los recursos aplicados en los fondos del Ramo 33 que esta dirección administra;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+X. Proporcionar información en materia de obra pública y servicios relacionados con la misma, para la solventación de las diversas auditorías que los entes fiscalizadores realizan;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XI. Proporcionar información financiera en materia de obra pública y servicios relacionados con la misma, para su integración en la cuenta pública;
+
+XII. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
 
 XIII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-#### Sección Primera. Dirección de Contabilidad del Sector Central
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 28 DE JUNIO DE 2016)</small>
 
-Facultades de la Dirección de Contabilidad del Sector Central
+#### Sección Tercera. Dirección de Análisis, Evaluación de Proyectos de Inversión y Gestión de Recursos Federales
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2016)</small>
+
+Facultades de la Dirección de Análisis, Evaluación de Proyectos de Inversión y Gestión de Recursos Federales
+
+Artículo 72 A. La Dirección de Análisis, Evaluación de Proyectos de Inversión y Gestión de Recursos Federales, tiene las siguientes facultades:
+
+I. Coordinar e implementar mecanismos para acceder a los recursos federales autorizados en el Presupuesto de Egresos de la Federación correspondientes al Ramo General 23;
+
+II. Coadyuvar en la gestión de los recursos correspondientes al Ramo General 23 ante el Gobierno Federal, y atender los requerimientos documentales que establece la normatividad federal, en coordinación con Dependencias y Entidades Estatales;
+
+III. Dar seguimiento a la ministración de los recursos autorizados en el Presupuesto de Egresos de la Federación, así como a los acuerdos y convenios que establezca el Ejecutivo Estatal a través de sus dependencias y entidades con el Gobierno Federal;
+
+IV. Dar seguimiento a la aplicación de los recursos federales destinados a la inversión pública en materia de obra y servicios relacionados con la misma, observando se apeguen a lo establecido en los convenios celebrados con cargo a dichos recursos;
+
+V. Analizar y gestionar la información en el portal aplicativo de la Secretaría de Hacienda y Crédito Público, de los recursos ejercidos en los fondos del Ramo General 33 y de los recursos federales en materia de infraestructura que esta Dirección administra;
+
+VI. Obtener información financiera de las dependencias y entidades federales con representación en el Estado, para la integración de Anexos del Informe de Gobierno;
+
+VII. Coordinar y analizar la información correspondiente a la SFIA, para su integración en el Informe de Gobierno;
+
+VIII. Proporcionar información en materia de inversión en obra pública y servicios relacionados con la misma, para las diversas auditorías que los entes fiscalizadores realizan;
+
+IX. Coordinar la integración y administración del portafolio de proyectos de inversión conforme a las prioridades señaladas en los planes y programas estatales;
+
+X. Brindar a las dependencias y entidades de la Administración Pública Estatal que lo soliciten, asesoría en la estructuración de proyectos de inversión;
+
+XI. Integrar la cartera de proyectos a gestionar con las dependencias, entidades y organismos de la Federación para la obtención de recursos y desarrollo de los proyectos;
+
+XII. Analizar, en coordinación con las instancias competentes, modalidades de financiamiento alternativo para proyectos de inversión;
+
+XIII. Coordinar el proceso de evaluación socioeconómica de los proyectos de inversión presentados por las dependencias y entidades de la Administración Pública Estatal;
+
+XIV. Diseñar y proporcionar esquemas de capacitación en materia de proyectos de inversión;
+
+XV. Coordinar el seguimiento del gasto federal en proyectos de inversión estatales;
+
+XVI. Establecer el calendario de fechas de pago de las transferencias a los municipios correspondientes al Ramo 33, así como su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato, de conformidad con la Ley de Coordinación Fiscal Federal;
+
+XVII. Proponer la contratación de consultores y asesores necesarios para la ejecución y administración de los proyectos prioritarios, en apoyo a los titulares de las dependencias y entidades de la Administración Pública Estatal. En el caso de proyectos de infraestructura se coordinará con la Secretaría de Obra Pública; y
+
+XVIII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
 ### Capítulo VII. Dirección General de Contabilidad Gubernamental
 
@@ -2505,9 +2939,13 @@ XIX. Supervisar la elaboración de las pólizas de diario, de egresos o de la cu
 
 XX. Rendir a la Secretaría de Hacienda y Crédito Público, por conducto de la autoridad fiscal federal correspondiente, la cuenta comprobada diaria y mensual de los ingresos federales coordinados y efectuar la liquidación para compensación de fondos, ajustándose a los sistemas y procedimientos relacionados con la concentración de fondos y valores propiedad de la Federación, previo acuerdo del Secretario, por conducto del Subsecretario del ramo;
 
-XXI. Solventar las observaciones que se realicen a la cuenta pública estatal, por parte del Congreso del Estado, a través de su órgano técnico de fiscalización, en coordinación con la entidad de seguimiento a la fiscalización prevista en el artículo 34;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-XXII. Requerir la información y documentación necesaria a las dependencias y entidades de la Administración Pública Estatal, para el cumplimiento de la solventación de las observaciones presentadas a la cuenta pública estatal;
+XXI. Solventar en conjunto con la Coordinación de Seguimiento a la Fiscalización, las observaciones que se realicen a la cuenta pública estatal, por parte del Congreso del Estado, a través de su órgano técnico de fiscalización;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXII. Requerir en conjunto con la Coordinación de Seguimiento a la Fiscalización, la información y documentación necesaria a las dependencias y entidades de la Administración Pública Estatal, para el cumplimiento de la solventación de las observaciones presentadas a la cuenta pública estatal;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -2519,7 +2957,9 @@ XXV. Proponer, diseñar y determinar los documentos, formatos y otros instrument
 
 XXVI. Coordinarse con la Dirección General de Presupuesto y la Dirección General de Ingresos, para la armonización de los instrumentos técnico presupuestales y contables del egreso e ingreso;
 
-XXVII. Determinar la incorporación en el catálogo de bienes que adquieran las dependencias y entidades paraestatales, a nivel de sub-clase y su respectivo número consecutivo, con el fin de mantener actualizado el catálogo de bienes;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXVII. Determinar en coordinación con la Dirección General de Recursos Materiales y Servicios Generales, la incorporación en el catálogo de bienes que adquieran las dependencias y entidades paraestatales, a nivel de subclase y su respectivo número consecutivo, con el fin de mantener actualizado el catálogo de bienes;
 
 XXVIII. Promover entre los Poderes Legislativo y Judicial, organismos autónomos, entidades paraestatales, dependencias y municipios, las acciones para el desarrollo, actualización y armonización de los sistemas de contabilidad gubernamental en el Estado;
 
@@ -2533,9 +2973,9 @@ XXXII. Revisar, actualizar y proponer los instrumentos administrativos como manu
 
 XXXIII. Ejercer las demás facultades que le confieren las disposiciones administrativas emitidas por el Consejo Nacional de Armonización Contable.
 
-#### Sección Segunda. Dirección de Contabilidad del Sector Paraestatal
+#### Sección Primera. Dirección de Contabilidad del Sector Central
 
-Facultades de la Dirección de Contabilidad del Sector Paraestatal
+Facultades de la Dirección de Contabilidad del Sector Central
 
 ###### Artículo 75.
 
@@ -2545,7 +2985,9 @@ I. Supervisar el registro y control de las operaciones financieras, presupuestal
 
 II. Normar y establecer los lineamientos generales en materia financiera, contable y de control, para su aplicación en las dependencias del sector central;
 
-III. Integrar y analizar la información contable, presupuestal y financiera generada por las dependencias del sector central, con el objeto de formular los estados financieros del Gobierno del Estado para su presentación al Titular del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+III. Integrar y analizar la información contable, presupuestal y financiera generada por las dependencias del sector central;
 
 IV. Formular y coordinar con las áreas involucradas cierres mensuales, con el objeto de proporcionar información para toma de decisiones;
 
@@ -2569,9 +3011,9 @@ XIII. Solicitar a las dependencias la información financiera, presupuestal y ec
 
 XIV. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-#### Sección Tercera. Dirección de Cuenta Pública
+#### Sección Segunda. Dirección de Contabilidad del Sector Paraestatal
 
-Facultades de la Dirección de Cuenta Pública
+Facultades de la Dirección de Contabilidad del Sector Paraestatal
 
 ###### Artículo 76.
 
@@ -2581,7 +3023,9 @@ I. Participar en el diseño e implementación de los sistemas de control y conta
 
 II. Normar y establecer las políticas y lineamientos en materia financiera, contable y de control, para su aplicación en las entidades paraestatales;
 
-III. Revisar y actualizar los catálogos de cuenta para el registro contable de las operaciones de las entidades paraestatales;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+III. Revisar y actualizar los catálogos de cuenta para el registro contable de las operaciones de las entidades paraestatales que hayan adoptado la Plataforma Estatal de Información;
 
 IV. Supervisar el registro y control de las operaciones financieras y contables efectuadas por las entidades paraestatales del Gobierno del Estado;
 
@@ -2595,11 +3039,23 @@ VIII. Consolidar la información contable y financiera de las entidades paraesta
 
 IX. Desarrollar estudios para la mejora de los procesos contables del sector paraestatal, aplicados a la Plataforma Estatal de Información; y
 
-X. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-#### Sección Cuarta. Coordinación de Asesoría y Armonización Contable
+X. Proporcionar asesoría en materia contable, sobre procesos de descentralización, creación y extinción de las entidades que conforman el sector paraestatal;
 
-Facultades de la Coordinación de Asesoría y Armonización Contable
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XI. Coordinar la implementación de la normatividad emitida por el Consejo Nacional de Armonización Contable en materia de Contabilidad Gubernamental de los entes públicos del sector paraestatal;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XII. Proporcionar apoyo y asesoría a las entidades del sector paraestatal en materia de Contabilidad Gubernamental; y
+
+XIII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+
+#### Sección Tercera. Dirección de Cuenta Pública
+
+Facultades de la Dirección de Cuenta Pública
 
 ###### Artículo 77.
 
@@ -2613,7 +3069,9 @@ III. Integrar la información financiera, presupuestal y contable de las depende
 
 IV. Elaborar los cuadros analíticos que conforman la cuenta de la hacienda pública del Gobierno del Estado;
 
-V. Analizar la información mensual de los estados financieros del Gobierno del Estado para la elaboración del informe ejecutivo correspondiente;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+V. Elaborar y analizar la información mensual de los estados financieros del Gobierno del Estado para la realización del informe ejecutivo correspondiente;
 
 VI. Efectuar para aprobación del Director General, el cálculo, registro y control de las participaciones y otros recursos que les correspondan a los municipios, de conformidad con las leyes aplicables, así como efectuar los descuentos respectivos, en coordinación con las unidades administrativas de la Secretaría, competentes en tales materias;
 
@@ -2629,9 +3087,9 @@ XI. Proponer al Director General, el modelo y estructura de la cuenta pública e
 
 XII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-#### Sección Primera. Dirección Operativa
+#### Sección Cuarta. Coordinación de Asesoría y Armonización Contable
 
-Facultades la (sic) Dirección Operativa
+Facultades de la Coordinación de Asesoría y Armonización Contable
 
 ###### Artículo 78.
 
@@ -2641,9 +3099,23 @@ I. Brindar asesoría y capacitación, a los Poderes Legislativo y Judicial, orga
 
 II. Proponer al titular de la unidad administrativa el desarrollo de estudios y proyectos para fortalecer y modernizar los sistemas de contabilidad gubernamental y rendición de la cuenta pública;
 
-III. Proponer al titular de la unidad administrativa, el diseño de mecanismos de control interno, para asegurar y mantener la integridad de la información de los usuarios de la Plataforma Estatal de Información; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-IV. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+III. Coordinarse con la Dirección General de Tecnologías de la Información y Telecomunicaciones para proponer al titular de la unidad administrativa, el diseño de mecanismos de control interno, para asegurar y mantener la integridad de la información de los usuarios de la Plataforma Estatal de Información;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+IV. Apoyar a la Secretaría Técnica del Consejo Estatal de Armonización Contable, en el desarrollo de sus actividades;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+V. Brindar asesoría técnica y capacitación a los Poderes Legislativo y Judicial, organismos autónomos, dependencias, entidades paraestatales y municipios para la adopción e implementación de las disposiciones administrativas emitidas por el Consejo Nacional de Armonización Contable;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+VI. Fungir como la unidad administrativa de enlace entre la Secretaría y los municipios del Estado para coordinar la armonización de su contabilidad, con base en las disposiciones jurídicas aplicables; y
+
+VII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
 ### Capítulo VIII. Dirección General de Carreteras Estatales de Cuota
 
@@ -2659,25 +3131,25 @@ Facultades de la Dirección General de Carreteras Estatales de Cuota
 
 (DEROGADO, P.O. 21 DE DICIEMBRE DE 2012)
 
+#### Sección Primera. Dirección Operativa
+
+Facultades la (sic) Dirección Operativa
+
+###### Artículo 81.
+
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2012)
+
 #### Sección Segunda. Dirección de Administración Financiera
 
 Facultades de la Dirección de Administración Financiera
 
-###### Artículo 81.
+###### Artículo 82.
 
 (DEROGADO, P.O. 21 DE DICIEMBRE DE 2012)
 
 #### Sección Tercera. Coordinación de Evaluación y Seguimiento
 
 Facultades de la Coordinación de Evaluación y Seguimiento
-
-###### Artículo 82.
-
-(DEROGADO, P.O. 21 DE DICIEMBRE DE 2012)
-
-#### Sección Primera. Dirección de Verificación de Mercancías
-
-Facultades de la Dirección de Verificación de Mercancías
 
 ###### Artículo 83.
 
@@ -2715,13 +3187,19 @@ IV. Ordenar y practicar visitas domiciliarias y verificar vehículos de origen o
 
 V. Ordenar y practicar la verificación de vehículos de procedencia extranjera en circulación dentro de la circunscripción territorial del Estado de Guanajuato, aún cuando no se encuentren en movimiento, a fin de comprobar su legal importación, estancia o tenencia, transporte o manejo en territorio nacional, así como para verificar el cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de vehículos de procedencia extranjera, de conformidad con la legislación aplicable;
 
-VI. Ordenar y practicar el embargo precautorio de mercancías de comercio exterior y sus medios de transporte, en los supuestos que establece la Ley Aduanera cuando no se acredite su legal importación, tenencia o estancia en el país, así como respecto de los vehículos de origen o procedencia extranjera que no acrediten su legal estancia en el país;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+VI. Ordenar y practicar el embargo precautorio de mercancías de comercio exterior y sus medios de transporte, en los supuestos que establece la Ley Aduanera cuando no se acredite su legal importación, tenencia o estancia en el país, así como respecto de los vehículos de origen o procedencia extranjera que no acrediten su legal importación, tenencia o estancia en el país;
 
 VII. Iniciar, tramitar y resolver los procedimientos aduaneros que se deriven del ejercicio de sus facultades de comprobación, en los términos que establece la legislación aduanera;
 
-VIII. Verificar el cumplimiento de las regulaciones y restricciones no arancelarias en las mercancías de comercio exterior, cuotas compensatorias e inclusive respecto de las normas oficiales mexicanas aplicables;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-IX. Determinar los impuestos, derechos de trámite aduanero y aplicar las cuotas compensatorias que se originen por la introducción ilegal a territorio nacional de mercancías o vehículos extranjeros, así como su actualización, recargos y demás accesorios, y determinar en cantidad líquida el monto correspondiente que resulte a cargo de los contribuyentes, responsables solidarios y demás obligados, con motivo de la práctica de visitas domiciliarias, actos de verificación, auditorias y revisiones de escritorio, de conformidad con las disposiciones fiscales y aduaneras aplicables;
+VIII. Verificar el cumplimiento de las regulaciones y restricciones no arancelarias en las mercancías y vehículos de comercio exterior, cuotas compensatorias e inclusive respecto de las normas oficiales mexicanas aplicables;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+IX. Determinar los impuestos, derechos de trámite aduanero y aplicar las cuotas compensatorias que se originen por la introducción ilegal a territorio nacional o por no acreditar la legal tenencia o estancia de mercancías o vehículos extranjeros en territorio nacional, así como su actualización, recargos y demás accesorios, y determinar en cantidad líquida el monto correspondiente que resulte a cargo de los contribuyentes, responsables solidarios y demás obligados, con motivo de la práctica de visitas domiciliarias, actos de verificación, auditorias, revisiones de escritorio, de conformidad con las disposiciones fiscales y aduaneras aplicables;
 
 X. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados los hechos u omisiones imputables a éstos, conocidos con motivo de las visitas domiciliarias, haciendo constar dichos hechos y omisiones en la última acta parcial que se levante, así como emitir el oficio de observaciones y el de conclusión tratándose de revisiones de escritorio y prorrogar en su caso, los plazos en que se deban concluir las visitas domiciliarias, auditorias o revisiones de escritorio; así como dejar sin efectos las órdenes correspondientes y reponer, cuando proceda, el procedimiento de visita domiciliaria en términos del Código Fiscal de la Federación;
 
@@ -2753,7 +3231,9 @@ XXIII. Resolver el levantamiento del embargo precautorio y la entrega de las mer
 
 XXIV. Designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia;
 
-XXV. Verificar y, en su caso, determinar conforme a la Ley Aduanera, la naturaleza, estado, origen y demás características de las mercancías de procedencia extranjera, así como determinar, en su caso, su clasificación arancelaria, valor comercial y su valor en aduana;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXV. Verificar y, en su caso, determinar conforme a la Ley Aduanera, la naturaleza, estado, origen y demás características de las mercancías y vehículos de procedencia extranjera, así como determinar, en su caso, su clasificación arancelaria, valor comercial y su valor en aduana;
 
 XXVI. Revisar y, en su caso, modificar o revocar las resoluciones administrativas de carácter individual no favorables a un particular, emitidas por sus subordinados jerárquicamente, en los términos de las disposiciones aplicables;
 
@@ -2763,7 +3243,9 @@ XXVIII. Designar y remover depositarias de las mercancías embargadas dentro del
 
 XXIX. Verificar el correcto cumplimiento de las obligaciones derivadas del régimen aduanero al que hayan sido sometidas las mercancías y los vehículos de procedencia extranjera, excepto aeronaves; incluso aquellas derivadas de los programas de fomento a la exportación otorgados por la Secretaría de Economía;
 
-XXX. Determinar la destrucción, donación, asignación o venta, antes de emitir la resolución definitiva del procedimiento administrativo correspondiente de las mercancías perecederas, de fácil descomposición o deterioro de los animales vivos embargados precautoriamente, de conformidad con lo dispuesto en la legislación federal aplicable;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXX. Determinar la destrucción, donación, asignación o venta, antes de emitir la resolución definitiva del procedimiento administrativo correspondiente de las mercancías perecederas, de fácil descomposición o deterioro, o de los animales vivos embargados precautoriamente, de conformidad con lo dispuesto en la legislación federal aplicable;
 
 XXXI. Declarar que las mercancías y vehículos embargados precautoriamente han causado abandono a favor del fisco federal, de conformidad con lo establecido en la Ley Aduanera y demás legislación federal aplicable;
 
@@ -2773,13 +3255,39 @@ XXXIII. Resolver las solicitudes que formulen los interesados a esta autoridad c
 
 XXXIV. Habilitar días y horas inhábiles para la práctica de notificaciones; y
 
-XXXV. Ejercer las demás facultades que resulten necesarias para la ejecución de las disposiciones estipuladas en el Convenio de Colaboración Administrativa en Materia Fiscal Federal y su anexo en materia de comercio exterior.
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-La Dirección General de Verificación al Comercio Exterior y sus direcciones de área se auxiliarán, en el ejercicio de sus facultades, de verificadores quienes tienen facultades para requerir y recibir documentación y demás elementos de los particulares; así como identificar, determinar el valor y clasificación arancelaria de mercancías de procedencia extranjera; embargar mercancías, medios de transporte y vehículos de procedencia extranjera, en términos de las disposiciones aplicables en materia aduanera; además para llevar a cabo los actos necesarios para cerciorarse del cumplimiento de las disposiciones legales que regulan y gravan la entrada al territorio nacional de mercancías y medios de transporte.
+XXXV. Suscribir con los contribuyentes los Acuerdos Conclusivos a que se refiere el Título III, Capítulo II del Código Fiscal de la Federación;
 
-#### Sección Segunda. Dirección de Visitas Domiciliarias de Comercio Exterior
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-Facultades de la Dirección de Visitas Domiciliarias de Comercio Exterior
+XXXVI. Emitir resoluciones en materia de resarcimientos económicos y en especie;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXXVII. Coordinarse con el Servicio de Administración Tributaria para obtener información y documentación en asuntos fiscales y aduaneros internacionales de su competencia;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXXVIII. Sustituir garantías del interés fiscal durante la tramitación del procedimiento fiscalizador, en términos de las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXXIX. Informar a otras autoridades en la materia de su competencia de los hechos que tenga conocimiento la Dirección General con motivo del ejercicio de sus facultades de comprobación;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XL. Coadyuvar con las distintas Direcciones de Área, en el ejercicio de las facultades previstas en el propio Reglamento para cada una de dichas Direcciones; y
+
+XLI. Ejercer las demás facultades que resulten necesarias para la ejecución de las disposiciones estipuladas en el Convenio de Colaboración Administrativa en Materia Fiscal Federal y su anexo en materia de comercio exterior.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2016)</small>
+
+La Dirección General de Verificación al Comercio Exterior y sus direcciones de área se auxiliarán, en el ejercicio de sus facultades, de visitadores y verificadores quienes tienen facultades para requerir y recibir documentación y demás elementos de los particulares; así como identificar, determinar el valor y clasificación arancelaria de mercancías de procedencia extranjera; embargar mercancías, medios de transporte y vehículos de procedencia extranjera, en términos de las disposiciones aplicables en materia aduanera; además para llevar a cabo los actos necesarios para cerciorarse del cumplimiento de las disposiciones legales que regulan y gravan la entrada al territorio nacional de vehículos, mercancías y medios de transporte. Asimismo, contarán con clasificadores, notificadores y demás personal necesario para el desarrollo de las facultades a que se refiere el presente artículo.
+
+#### Sección Primera. Dirección de Verificación de Mercancías
+
+Facultades de la Dirección de Verificación de Mercancías
 
 ###### Artículo 86.
 
@@ -2813,9 +3321,9 @@ XIII. Imponer las multas que correspondan en el ámbito de su competencia, relac
 
 XIV. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-#### Sección Tercera. Dirección de Programación y Recintos Fiscales
+#### Sección Segunda. Dirección de Visitas Domiciliarias de Comercio Exterior
 
-Facultades de la Dirección de Programación y Recintos Fiscales
+Facultades de la Dirección de Visitas Domiciliarias de Comercio Exterior
 
 ###### Artículo 87.
 
@@ -2855,9 +3363,9 @@ XVI. Designar, en su caso, depositario de las mercancías embargadas dentro del 
 
 XVII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-#### Sección Cuarta. Dirección de Procedimientos Aduaneros
+#### Sección Tercera. Dirección de Programación y Recintos Fiscales
 
-Facultades de la Dirección de Procedimientos Aduaneros
+Facultades de la Dirección de Programación y Recintos Fiscales
 
 ###### Artículo 88.
 
@@ -2893,37 +3401,9 @@ XIV. Expedir certificaciones de los expedientes relativos a los asuntos de su co
 
 XV. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-#### Sección Primera. Coordinación de Seguimiento a la Fiscalización
+#### Sección Cuarta. Dirección de Procedimientos Aduaneros
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-Facultades de la Coordinación de Seguimiento a la Fiscalización
-
-Artículo 89 C. La Coordinación de Seguimiento a la Fiscalización, tiene las siguientes facultades:
-
-I. Proponer, al Secretario, por conducto del Coordinador General Hacendario, las normas y programas para la prevención y atención integral a los procedimientos de revisión y auditorías que se practiquen en materia de los recursos federales transferidos al Estado, la cuenta pública del Poder Ejecutivo, así como los procesos y gestión administrativa o financiera de las unidades administrativas de la Secretaría;
-
-II. Designar previo acuerdo con el Coordinador General Hacendario, al servidor público de la Secretaría, que funja como enlace en los procedimientos de revisión y auditorías o asumir directamente esa función;
-
-III. Atender y dar seguimiento a las diversas etapas de los procedimientos de revisión y auditorías;
-
-IV. Solicitar a las dependencias y entidades de la Administración Pública Estatal, así como a los órganos autónomos, la información, justificación y documentación necesaria para la atención de los requerimientos o la solventación de observaciones derivadas de los procedimientos de revisión y auditorías;
-
-V. Coadyuvar con las unidades administrativas de la Secretaría en la atención y seguimiento de los procedimientos de revisión y auditorías que les sean practicados;
-
-VI. Coordinar, con las unidades administrativas de la Secretaría, la integración de la información relacionada con las auditorías realizadas a las áreas y procesos internos de la Secretaría;
-
-VII. Acordar e implementar, con las dependencias, entidades u órganos autónomos, en su carácter de ejecutores de gasto y, en su caso, con los servidores públicos que se designen como enlaces, el seguimiento a las diversas etapas de los procedimientos de revisión y auditorías;
-
-VIII. Establecer una coordinación directa con la Procuraduría Fiscal del Estado, para la prevención, atención y seguimiento de los procedimientos de revisión y auditorías, así como para la interposición de los recursos o medios de impugnación, en los términos de las normas y programas aprobados en la materia;
-
-IX. Proponer mecanismos para identificar e implementar medidas preventivas y de mejora continua de los procesos inherentes a la ejecución del gasto público;
-
-X. Mantener una comunicación oportuna y eficiente con las unidades administrativas encargadas de la recepción de documentación dirigida al Titular del Poder Ejecutivo del Estado, así como con cualquier otra unidad involucrada en la atención de las auditorías, acordando los instrumentos o mecanismos de coordinación que sean necesarios para tales fines;
-
-XI. Elaborar y presentar al Coordinador General Hacendario, informes trimestrales de seguimiento de las auditorías practicadas en las que la Coordinación haya intervenido; y
-
-XII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario o el Subsecretario del ramo.
+Facultades de la Dirección de Procedimientos Aduaneros
 
 ###### Artículo 89.
 
@@ -2959,51 +3439,49 @@ XIII. Las demás que las disposiciones legales y reglamentarias le atribuyan, as
 
 ### Capítulo X. Coordinación General Hacendaria
 
+Artículo 89 A. (DEROGADO, P.O. 28 DE JUNIO DE 2016)
+
+Artículo 89 B. (DEROGADO, P.O. 28 DE JUNIO DE 2016)
+
+> <small>(REFORMADO SU NUMERACIÓN [N. DE E. ANTES SECCIÓN PRIMERA DEL CAPÍTULO X], P.O. 28 DE JUNIO DE 2016)</small>
+
+### Capítulo XI. Coordinación de Seguimiento a la Fiscalización
+
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-Coordinación General Hacendaria
+Facultades de la Coordinación de Seguimiento a la Fiscalización
 
-Artículo 89 A. La Coordinación General Hacendaria tendrá a su cargo la coordinación, supervisión y seguimiento de los asuntos y procedimientos competencia de las direcciones generales y unidades administrativas adscritas a la Subsecretaría de Finanzas e Inversión.
+Artículo 89 C. La Coordinación de Seguimiento a la Fiscalización, tiene las siguientes facultades:
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+I. Proponer, al Secretario, por conducto del Coordinador General Hacendario, las normas y programas para la prevención y atención integral a los procedimientos de revisión y auditorías que se practiquen en materia de los recursos federales transferidos al Estado, la cuenta pública del Poder Ejecutivo, así como los procesos y gestión administrativa o financiera de las unidades administrativas de la Secretaría;
 
-Facultades de la Coordinación General Hacendaria
+II. Designar previo acuerdo con el Coordinador General Hacendario, al servidor público de la Secretaría, que funja como enlace en los procedimientos de revisión y auditorías o asumir directamente esa función;
 
-Artículo 89 B. La Coordinación General Hacendaria tiene las siguientes facultades:
+III. Atender y dar seguimiento a las diversas etapas de los procedimientos de revisión y auditorías;
 
-I. Coordinar, supervisar y dar seguimiento a los asuntos y procedimientos competencia de las direcciones generales y unidades administrativas;
+IV. Solicitar a las dependencias y entidades de la Administración Pública Estatal, así como a los órganos autónomos, la información, justificación y documentación necesaria para la atención de los requerimientos o la solventación de observaciones derivadas de los procedimientos de revisión y auditorías;
 
-II. Supervisar el desarrollo de los procesos administrativos competencia de las direcciones generales y unidades administrativas;
+V. Coadyuvar con las unidades administrativas de la Secretaría en la atención y seguimiento de los procedimientos de revisión y auditorías que les sean practicados;
 
-III. Proponer acciones de mejora continua a los procesos administrativos inherentes a la competencia de las direcciones generales y unidades administrativas;
+VI. Coordinar, con las unidades administrativas de la Secretaría, la integración de la información relacionada con las auditorías realizadas a las áreas y procesos internos de la Secretaría;
 
-IV. Dar seguimiento y evaluar las actividades realizadas por las direcciones generales y unidades administrativas;
+VII. Acordar e implementar, con las dependencias, entidades u órganos autónomos, en su carácter de ejecutores de gasto y, en su caso, con los servidores públicos que se designen como enlaces, el seguimiento a las diversas etapas de los procedimientos de revisión y auditorías;
 
-V. Gestionar y dar seguimiento previo acuerdo del Subsecretario de Finanzas e Inversión ante las instancias federales competentes para la obtención de recursos federales;
+VIII. Establecer una coordinación directa con la Procuraduría Fiscal del Estado, para la prevención, atención y seguimiento de los procedimientos de revisión y auditorías, así como para la interposición de los recursos o medios de impugnación, en los términos de las normas y programas aprobados en la materia;
 
-VI. Proponer al Subsecretario de Finanzas e Inversión para la validación financiera, los convenios federales en los que se comprenda aportación o concurrencia de recursos estatales;
+IX. Proponer mecanismos para identificar e implementar medidas preventivas y de mejora continua de los procesos inherentes a la ejecución del gasto público;
 
-VII. Representar o suplir en el ámbito de su competencia al Subsecretario de Finanzas e Inversión en aquellos asuntos que éste le encomiende, vinculados con las direcciones generales y unidades administrativas;
+X. Mantener una comunicación oportuna y eficiente con las unidades administrativas encargadas de la recepción de documentación dirigida al Titular del Poder Ejecutivo del Estado, así como con cualquier otra unidad involucrada en la atención de las auditorías, acordando los instrumentos o mecanismos de coordinación que sean necesarios para tales fines;
 
-VIII. Formular proyectos, estudios, informes y emitir opiniones que le solicite el Subsecretario de Finanzas e Inversión;
+XI. Elaborar y presentar al Coordinador General Hacendario, informes trimestrales de seguimiento de las auditorías practicadas en las que la Coordinación haya intervenido; y
 
-IX. Fungir como enlace de la Subsecretaría de Finanzas e Inversión en los asuntos de carácter hacendario competencia de las direcciones generales y de sus unidades administrativas, con otras dependencias y entidades paraestatales federales locales y municipales;
+XII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario o el Subsecretario del ramo.
 
-X. Actuar en representación del Secretario y del Subsecretario de Finanzas e Inversión en los diversos órganos colegiados de las zonas metropolitanas interestatales y estatales constituidas en el Estado; y
-
-XI. Las demás que las disposiciones legales, reglamentarias y administrativas le atribuyan, así como aquellas que le sean conferidas por el Secretario y Subsecretario del ramo.
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+## Título Quinto. Facultades y Organización de la Subsecretaría de Administración y de sus Unidades Administrativas
 
 ### Capítulo I. Facultades y organización de la Subsecretaría de Administración
 
 Organización de la Subsecretaría de Administración
-
-## Título Quinto. Facultades y Organización de la Subsecretaría de Administración y de sus Unidades Administrativas
-
-### Capítulo II. Dirección General de Recursos Humanos
-
-Organización de la Dirección General de Recursos Humanos
 
 ###### Artículo 90.
 
@@ -3019,9 +3497,7 @@ III. Dirección General de Tecnologías de la Información y Telecomunicaciones;
 
 IV. Dirección General Administrativa;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-V. Unidad de Acceso a la Información Pública del Poder Ejecutivo; y
+V. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -3041,9 +3517,13 @@ III. Administrar los recursos de la Red Estatal de Telecomunicaciones y de la Pl
 
 IV. Supervisar la operación del sistema del servicio civil de carrera del Poder Ejecutivo;
 
-V. Coordinar las acciones tendentes a la atención de las solicitudes de acceso a la información pública o de corrección de datos personales, cuyo trámite corresponda a la Secretaría; y (sic)
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-VI. Supervisar la realización de las actividades correspondientes a la certificación de firma electrónica certificada y prestación de servicios relacionados, en términos de las disposiciones aplicables.
+V. Coordinar las acciones tendentes a la atención de las solicitudes de acceso a la información pública o de corrección de datos personales, cuyo trámite corresponda a la Secretaría;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+VI. Supervisar la realización de las actividades correspondientes a la certificación de firma electrónica certificada y prestación de servicios relacionados, en términos de las disposiciones aplicables;
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -3057,9 +3537,9 @@ VIII. Autorizar y difundir, previo acuerdo con el Secretario, el Calendario Ofic
 
 IX. Proponer al Secretario, la modificación de las unidades administrativas que requieran las dependencias y entidades y que impliquen cambios en su estructura orgánica.
 
-### Capítulo III. Dirección General De Recursos Materiales y Servicios Generales
+### Capítulo II. Dirección General de Recursos Humanos
 
-Organización de la Dirección General de Recursos Materiales y Servicios Generales
+Organización de la Dirección General de Recursos Humanos
 
 ###### Artículo 92.
 
@@ -3155,11 +3635,13 @@ I. Proponer, para aprobación superior, las normas y políticas en materia de pr
 
 II. Diseñar, proponer y llevar a cabo evaluaciones sobre el desempeño laboral de los servidores públicos de la Administración Pública del Estado;
 
-III. Regular el ingreso del personal a las dependencias y, en su caso, entidades de la Administración Pública del Estado;
+III. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
 
 IV. Diseñar para aprobación superior y, en su caso, implementar, programas tendentes a mejorar la calidad de vida de los servidores públicos;
 
-V. Estandarizar los procesos de profesionalización, ingreso y evaluación al desempeño para los servidores públicos, en coordinación con la Dirección del Servicio Civil de Carrera; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+V. Estandarizar los procesos de profesionalización y evaluación al desempeño para los servidores públicos de la Administración Púbica Estatal; y
 
 VI. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
@@ -3211,11 +3693,15 @@ II. Dar seguimiento a la implementación del Servicio Civil de Carrera del Poder
 
 III. Efectuar análisis e investigaciones y formular propuestas para el desarrollo del Servicio Civil de Carrera; y
 
-IV. Las demás que se le atribuyan en el Reglamento del Servicio Civil de Carrera del Poder Ejecutivo del Estado de Guanajuato, así como en otras disposiciones legales y reglamentarias, y aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-### Capítulo IV. Dirección General de Tecnologías de la Información y Telecomunicaciones
+IV. Regular y estandarizar el ingreso del personal a las dependencias y, en su caso, entidades de la Administración Pública del Estado; y
 
-Organización de la Dirección General de Tecnologías de la Información y Telecomunicaciones
+V. Las demás que se le atribuyan en el Reglamento del Servicio Civil de Carrera del Poder Ejecutivo del Estado de Guanajuato, así como en otras disposiciones legales y reglamentarias, y aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+
+### Capítulo III. Dirección General De Recursos Materiales y Servicios Generales
+
+Organización de la Dirección General de Recursos Materiales y Servicios Generales
 
 ###### Artículo 98.
 
@@ -3263,7 +3749,9 @@ Facultades la Dirección de Adquisiciones y Suministros
 
 La Dirección de Adquisiciones y Suministros, tiene las siguientes facultades:
 
-I. Integrar el Programa Anual de Adquisiciones del Gobierno del Estado, con base en la información que presenten las dependencias y entidades de la Administración Pública Estatal, y vigilar su ejecución;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+I. Integrar el Programa Anual de Adquisiciones, Arrendamientos y Servicios del Gobierno del Estado, con base en la información que presenten las dependencias y entidades de la Administración Pública Estatal, y vigilar su ejecución;
 
 II. Elaborar el catálogo de bienes materiales de consumo;
 
@@ -3325,7 +3813,9 @@ I. Proponer, para aprobación superior, normas, políticas y procedimientos en m
 
 II. Coordinar, proporcionar, conducir y controlar el mantenimiento y conservación de los bienes muebles e inmuebles del Estado;
 
-III. Realizar las acciones tendentes a la adecuada conservación y mantenimiento de los bienes inmuebles del Estado en coordinación con dependencias y entidades del Ejecutivo que los tengan destinados y así lo soliciten;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+III. Realizar las acciones tendentes a la adecuada conservación y mantenimiento de los bienes inmuebles del Estado en coordinación con dependencias y entidades del Ejecutivo que los tengan destinados;
 
 IV. Proporcionar a los inmuebles en uso de la Administración Pública Estatal, los servicios generales requeridos y, en su caso, aprobar la liberación de los recursos necesarios, cuando así proceda y la unidad administrativa responsable cuente con la capacidad necesaria para atender dichos requerimientos;
 
@@ -3375,9 +3865,7 @@ Facultades de la Coordinación Ejecutiva de Operación
 
 La Coordinación Ejecutiva de Operación, tiene las siguientes facultades:
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-I. Participar, en el Comité de Adquisiciones, Arrendamientos y Contratación de Servicios y en el de Enajenaciones, del Gobierno del Estado, suscribiendo los actos relacionados con el desarrollo de las funciones conferidas dentro de tales comités;
+I. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
 
 II. Coadyuvar con el Director General en la revisión directa de la operatividad de las diversas áreas adscritas a la Dirección General;
 
@@ -3409,71 +3897,15 @@ VI. Llevar a cabo los actos relacionados con los procedimientos administrativos 
 
 VII. Participar en el análisis de las observaciones derivadas de las auditorías realizadas por las autoridades fiscalizadoras y las respuestas pertinentes en coordinación con las unidades responsables dentro del ámbito de competencia de la Dirección General; y
 
-VIII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-### Capítulo V. Dirección General Administrativa
+VIII. Expedir certificaciones de los documentos existentes en los archivos de la Dirección General a la que se encuentra adscrita y de las unidades administrativas adscritas a la misma Dirección; y
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+IX. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-Organización de la Dirección General Administrativa
+### Capítulo IV. Dirección General de Tecnologías de la Información y Telecomunicaciones
 
-Artículo 110 A. La Dirección General Administrativa debe apoyar, coordinar y supervisar el trabajo de las siguientes unidades administrativas:
-
-I. Dirección de Aplicación Presupuestal;
-
-II. Dirección de Recursos Humanos;
-
-III. Dirección de Servicios Generales; y
-
-IV. Coordinación Administrativa y de Control Patrimonial.
-
-Facultades de la Dirección General Administrativa
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-Artículo 110 B. La Dirección General Administrativa tiene las siguientes facultades:
-
-I. Atender los requerimientos de las unidades administrativas de la Secretaría, de acuerdo con los lineamientos generales fijados por el Secretario, por conducto del Subsecretario del ramo;
-
-II. Establecer, previo acuerdo del Subsecretario del ramo, las normas, políticas, sistemas y procedimientos, para la administración de los recursos humanos, presupuestales, materiales y servicios generales de la Secretaría;
-
-III. Administrar los recursos humanos, presupuestales, materiales y servicios generales de la Secretaría, de conformidad con las disposiciones aplicables;
-
-IV. Coordinar el funcionamiento del programa de servicio civil de carrera y sus subsistemas dentro de la Secretaría;
-
-V. Vigilar la correcta aplicación y ejercicio del presupuesto autorizado de la Secretaría, de conformidad con las disposiciones aplicables;
-
-VI. Difundir y vigilar el cumplimiento de las normas aplicables al proceso interno de formulación, ejecución, evaluación y control de los programas y presupuestos de la Secretaría;
-
-VII. Coadyuvar a la integración del anteproyecto de presupuesto de egresos de la Secretaría y vigilar el cumplimiento del presupuesto aprobado;
-
-VIII. Informar periódicamente al Secretario, por conducto del Subsecretario del ramo, así como a los titulares de las unidades administrativas de la Secretaría sobre el ejercicio de los presupuestos autorizados;
-
-IX. Coordinar, controlar y dar seguimiento al mantenimiento y conservación de los bienes muebles e inmuebles a cargo de la Secretaría;
-
-X. Realizar revisiones periódicas a las unidades administrativas de la Secretaría con la finalidad de verificar que los procesos en los que intervengan se ajusten a las disposiciones normativas aplicables, proponiendo en su caso las mejoras o medidas conducentes;
-
-XI. Coordinar la elaboración y actualización de los inventarios de bienes muebles asignados a las unidades administrativas de la Secretaría;
-
-XII. Instrumentar en coordinación con los titulares de las unidades administrativas de la Secretaría, las acciones para la mejor organización y funcionamiento de la dependencia;
-
-XIII. Vigilar y procurar el cabal cumplimiento de las condiciones generales de trabajo por el personal de la Secretaría;
-
-XIV. Organizar y apoyar la realización de eventos especiales de la Secretaría;
-
-XV. Suscribir los contratos de prestación de servicios profesionales, de servicios por honorarios, honorarios asimilados a salarios y servicios eventuales, hasta por el monto que mediante acuerdo determine el Secretario;
-
-XVI. Suscribir los formatos de pagos a terceros y gastos de operación emitidos por las unidades administrativas de la Secretaría, pudiendo delegar esta facultad cuando sea necesario al servidor público que designe;
-
-XVII. Coordinar el programa anual de compras de la Secretaría, así como su aplicación;
-
-XVIII. Coordinar la integración y actualización de los manuales de organización y de sistemas y procedimientos de trabajo que se requieran para el mejor desempeño de las funciones encomendadas a la Secretaría;
-
-XIX. Suscribir los contratos de adquisiciones de bienes muebles y prestación de servicios que requiera la Secretaría, cuando deriven de la adjudicación directa de partidas liberadas y en los casos en que se solicite y autorice la liberación de las mismas; y
-
-XX. Suscribir y autorizar las solicitudes y afectaciones presupuestales correspondientes a las unidades administrativas de la Secretaría, con cargo a su presupuesto aprobado.
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+Organización de la Dirección General de Tecnologías de la Información y Telecomunicaciones
 
 ###### Artículo 106.
 
@@ -3593,17 +4025,25 @@ III. Realizar la gestión de reembolso del fondo revolvente de las diferentes un
 
 IV. Revisar que toda la documentación que se presente para trámite de pago o como comprobación del gasto, cumpla con los requisitos que establecen las disposiciones fiscales y administrativas;
 
-V. Registrar los requerimientos de las unidades administrativas de la Secretaría relacionados con el ejercicio de sus presupuestos autorizados, como: gastos a reserva de comprobar, reserva de recursos para el programa anual de compras, adecuaciones presupuestarias, creación y pago de pasivos, adecuaciones al calendario de gasto, reclasificación de movimientos y registro de intereses y comisiones bancarias;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-VI. Rendir informes periódicos sobre el ejercicio de sus presupuestos autorizados a su Director General para que se hagan del conocimiento de los titulares de las diferentes unidades administrativas de la Secretaría;
+V. Registrar los requerimientos de las unidades administrativas de la Secretaría relacionados con el ejercicio de sus presupuestos autorizados, como: gastos a reserva de comprobar, adecuaciones presupuestarias, creación y pago de pasivos, adecuaciones al calendario de gasto, reclasificación de movimientos y registro de intereses y comisiones bancarias;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+VI. Proporcionar información sobre el ejercicio del presupuesto de cada una de las unidades administrativas de la Secretaría;
 
 VII. Coordinar la integración del anteproyecto de presupuesto de egresos de la Secretaría y vigilar su cumplimiento;
 
 VIII. Llevar el control y realizar las conciliaciones de las cuentas bancarias necesarias para la administración de los fondos revolventes asignados al Despacho del Secretario y a la Dirección General Administrativa; así como la cuenta utilizada para llevar a cabo la gestión de reembolso del fondo revolvente de las unidades administrativas de la Secretaría;
 
-IX. Apoyar a las unidades administrativas de la Secretaría en la elaboración de proyectos de inversión y en su seguimiento;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-X. Integrar, junto con las unidades administrativas de la Secretaría, el reporte mensual de metas e indicadores; y
+IX. Apoyar a las unidades administrativas de la Secretaría en la elaboración y seguimiento de proyectos de inversión;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+X. Dar seguimiento al avance de metas, indicadores y financiero de las unidades administrativas de la Secretaría; y
 
 XI. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
@@ -3619,9 +4059,13 @@ Artículo 110 D. La Dirección de Recursos Humanos tiene las siguientes facultad
 
 I. Administrar los recursos humanos de la Secretaría, a través de la gestión de trámites y servicios ante la Dirección General de Recursos Humanos, así como la vinculación con las diferentes unidades administrativas;
 
-II. Coordinar dentro de la dependencia la implementación, operación y seguimiento al sistema del servicio civil de carrera y los subsistemas que lo integran;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-III. Coordinar el reclutamiento, selección, contratación e inducción del personal que ingrese a la dependencia, bajo los lineamientos establecidos para ello;
+II. Coordinar dentro de la Secretaría la operación y seguimiento al sistema del servicio civil de carrera y los subsistemas que lo integran;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+III. Coordinar el reclutamiento, selección, contratación e inducción del personal que ingrese a la Secretaría, de conformidad a la normatividad aplicable;
 
 IV. Coordinar y dar seguimiento al proceso de evaluación al desempeño de los servidores públicos así como el de estímulos y reconocimientos;
 
@@ -3629,13 +4073,31 @@ V. Coordinar el proceso de profesionalización de los servidores públicos a tra
 
 VI. Coordinar y operar el proceso de elaboración de la nómina, descuentos por incidencias laborales u otros conceptos, del personal adscrito a la Secretaría;
 
-VII. Vigilar el cumplimiento de las disposiciones laborales aplicables a los servidores públicos de la Secretaría;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-VIII. Vigilar y procurar el cabal cumplimiento de las condiciones generales de trabajo por el personal de la Secretaría;
+VII. Vigilar el cumplimiento de las disposiciones laborales aplicables a los servidores públicos adscritos a la Secretaría;
 
-IX. Coordinar la integración y actualización de los manuales de organización y de sistemas y procedimientos de trabajo que se requieran para el mejor desempeño de las funciones encomendadas a la Secretaría; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-X. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del Ramo o su Director General.
+VIII. Vigilar y procurar el cabal cumplimiento de las condiciones generales de trabajo para el personal adscrito a la Secretaría;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+IX. Coordinar la integración y actualización de los manuales de organización y procedimientos que se requieran para el mejor desempeño de las funciones encomendadas a la Secretaría;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+X. Coordinar, supervisar y dar seguimiento a los actos de entrega-recepción de los servidores públicos obligados adscritos a la Secretaría;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XI. Coordinar las actividades para el diagnóstico de los mecanismos de control interno institucional implementado en la Secretaría, para el cumplimiento de los lineamientos aplicables en la materia;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XII. Coordinar las actividades de Desarrollo Institucional de la Secretaría; y
+
+XIII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del Ramo o su Director General.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -3655,11 +4117,87 @@ V. Las demás que se le atribuyan en la Ley sobre el Uso de Medios Electrónicos
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-### Capítulo VI. Unidad de Acceso a la Información Pública del Poder Ejecutivo
+### Capítulo V. Dirección General Administrativa
 
-Facultades de la Unidad de Acceso a la Información Pública del Poder Ejecutivo
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO P.O. 21 DE DICIEMBRE DE 2012)</small>
+Organización de la Dirección General Administrativa
+
+Artículo 110 A. La Dirección General Administrativa debe apoyar, coordinar y supervisar el trabajo de las siguientes unidades administrativas:
+
+I. Dirección de Aplicación Presupuestal;
+
+II. Dirección de Recursos Humanos;
+
+III. Dirección de Servicios Generales; y
+
+IV. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
+
+Facultades de la Dirección General Administrativa
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+Artículo 110 B. La Dirección General Administrativa tiene las siguientes facultades:
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+I. Atender los requerimientos de las unidades administrativas de la Secretaría relacionados con los recursos presupuestales, humanos, materiales y servicios generales, de conformidad con la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+II. Establecer, previo acuerdo del Subsecretario del ramo, las políticas, sistemas y procedimientos, para la administración de los recursos humanos, presupuestales, materiales y servicios generales de la Secretaría;
+
+III. Administrar los recursos humanos, presupuestales, materiales y servicios generales de la Secretaría, de conformidad con las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+IV. Coordinar el funcionamiento del servicio civil de carrera y sus subsistemas dentro de la Secretaría;
+
+V. Vigilar la correcta aplicación y ejercicio del presupuesto autorizado de la Secretaría, de conformidad con las disposiciones aplicables;
+
+VI. Difundir y vigilar el cumplimiento de las normas aplicables al proceso interno de formulación, ejecución, evaluación y control de los programas y presupuestos de la Secretaría;
+
+VII. Coadyuvar a la integración del anteproyecto de presupuesto de egresos de la Secretaría y vigilar el cumplimiento del presupuesto aprobado;
+
+VIII. Informar periódicamente al Secretario, por conducto del Subsecretario del ramo, así como a los titulares de las unidades administrativas de la Secretaría sobre el ejercicio de los presupuestos autorizados;
+
+IX. Coordinar, controlar y dar seguimiento al mantenimiento y conservación de los bienes muebles e inmuebles a cargo de la Secretaría;
+
+X. Realizar revisiones periódicas a las unidades administrativas de la Secretaría con la finalidad de verificar que los procesos en los que intervengan se ajusten a las disposiciones normativas aplicables, proponiendo en su caso las mejoras o medidas conducentes;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XI. Coordinar el programa de actualización de los inventarios de bienes muebles asignados a las unidades administrativas de la Secretaría;
+
+XII. Instrumentar en coordinación con los titulares de las unidades administrativas de la Secretaría, las acciones para la mejor organización y funcionamiento de la dependencia;
+
+XIII. Vigilar y procurar el cabal cumplimiento de las condiciones generales de trabajo por el personal de la Secretaría;
+
+XIV. Organizar y apoyar la realización de eventos especiales de la Secretaría;
+
+XV. Suscribir los contratos de prestación de servicios profesionales, de servicios por honorarios, honorarios asimilados a salarios y servicios eventuales, hasta por el monto que mediante acuerdo determine el Secretario;
+
+XVI. Suscribir los formatos de pagos a terceros y gastos de operación emitidos por las unidades administrativas de la Secretaría, pudiendo delegar esta facultad cuando sea necesario al servidor público que designe;
+
+XVII. Coordinar el programa anual de compras de la Secretaría, así como su aplicación;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XVIII. Coordinar la integración y actualización de los manuales de organización y de procesos y procedimientos que se requieran para el mejor desempeño de las funciones encomendadas a la Secretaría;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XIX. Suscribir los contratos de adquisiciones de bienes muebles y prestación de servicios que requiera la Secretaría, cuando deriven de la adjudicación directa de partidas liberadas y en los casos en que se solicite y autorice la liberación de las mismas;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XX. Suscribir y autorizar las solicitudes y afectaciones presupuestales correspondientes a las unidades administrativas de la Secretaría, con cargo a su presupuesto aprobado; y
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXI. Expedir, cuando así corresponda, las constancias de retenciones de contribuciones aplicables a las operaciones de otorgamiento de uso o goce temporal de inmuebles o prestación de servicios que realicen a favor de la Secretaría.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 #### Sección Tercera. Dirección de Servicios Generales
 
@@ -3669,7 +4207,9 @@ Facultades de la Dirección de Servicios Generales
 
 Artículo 110 E. La Dirección de Servicios Generales tiene las siguientes facultades:
 
-I. Coordinar y supervisar las actividades del personal en las áreas de mantenimiento, impresos, conmutador, vigilancia, intendencia, choferes, jardineros, centro de copiado, oficialía de partes y reparación de equipo de oficina, con el fin de atender oportunamente las necesidades de las áreas solicitantes de dichos servicios, dentro de la Secretaría;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+I. Coordinar y supervisar las actividades del personal en las áreas de mantenimiento, vigilancia, intendencia, jardinería, oficialía de partes, centro de copiado, conmutador y reparación de equipo de oficina, para atender oportunamente las necesidades de las áreas solicitantes de dichos servicios, dentro de la Secretaría;
 
 II. Coordinar las actividades y trámites entre la Dirección General de Recursos Materiales y Servicios Generales y las unidades responsables dentro de la Secretaría, relacionados con solicitudes de mantenimiento a bienes muebles e inmuebles;
 
@@ -3677,63 +4217,65 @@ III. Verificar que la planta emergente de energía esté en óptimas condiciones
 
 IV. Apoyar en la realización de eventos especiales de la Secretaría;
 
-V. Apoyar y coordinar la elaboración del anteproyecto de presupuesto de egresos de los servicios básicos de las unidades administrativas de la Secretaría;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
 
-VI. Mantener actualizados los padrones de los servicios básicos contratados para las unidades responsables de la Secretaría, tales como: agua, energía eléctrica, telefonía móvil y convencional, combustibles y lubricantes;
+V. Apoyar y coordinar la elaboración del anteproyecto de presupuesto de egresos de los servicios básicos y consolidados de las unidades administrativas de la Secretaría;
 
-VII. Controlar, vigilar y analizar los consumos de los servicios básicos de las unidades responsables, dentro de la Secretaría;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+VI. Mantener actualizados los padrones de los servicios básicos contratados para las unidades administrativas de la Secretaría, tales como: agua, energía eléctrica, telefonía móvil y convencional, combustibles y lubricantes;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+VII. Controlar, vigilar y analizar el consumo de los servicios básicos y consolidados de las unidades administrativas dentro de la Secretaría
 
 VIII. Mantener actualizado el padrón vehicular de la Secretaría;
 
 IX. Coordinar y controlar, conjuntamente con las unidades responsables de la Secretaría, el mantenimiento preventivo y correctivo del parque vehicular y aeronaves de la misma;
 
-X. Apoyar y asesorar a las unidades administrativas de la Secretaría en los trámites correspondientes para el caso de siniestros ocurridos a vehículos y aeronaves;
+X. (DEROGADA, P.O. 28 DE JUNIO DE 2016)
 
 XI. Coordinar la ejecución del programa anual de compras de la Secretaría, así como su aplicación; y
 
-XII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XII. Supervisar la asignación y movimientos de los bienes muebles sujetos de ser inventariables de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XIII. Coordinar y vigilar las actividades del programa de actualización de inventarios de bienes muebles de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XIV. Gestionar y dar seguimiento ante la Dirección de Control Patrimonial de la Dirección General de Recursos Materiales y Servicios Generales y las unidades responsables, los trámites de baja de los bienes muebles sujetos de ser inventariables de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XV. Coordinar y dar seguimiento a los siniestros de bienes muebles e inmuebles de la Secretaría, hasta su conclusión; y
+
+XVI. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 #### Sección Cuarta. Coordinación Administrativa y de Control Patrimonial
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-Facultades de la Coordinación Administrativa y de Control Patrimonial
-
-Artículo 110 F. La Coordinación Administrativa y de Control Patrimonial tiene las siguientes facultades:
-
-I. Supervisar la asignación y movimientos de los bienes muebles sujetos de ser inventariables de la Secretaría;
-
-II. Coordinar y vigilar las actividades del programa de actualización de inventarios de bienes muebles de la Secretaría;
-
-III. Gestionar y dar seguimiento ante la Dirección de Control Patrimonial de la Dirección General de Recursos Materiales y Servicios Generales y las unidades responsables, los trámites de baja de los bienes muebles sujetos de ser inventariables de la Secretaría;
-
-IV. Coordinar y dar seguimiento a los siniestros de bienes muebles e inmuebles de la Secretaría, hasta su conclusión;
-
-V. Coordinar, supervisar y dar seguimiento a los actos de entrega-recepción de los servidores públicos obligados adscritos a la Secretaría;
-
-VI. Coordinar las actividades para el diagnóstico del control interno institucional implementados en la Secretaría, para el cumplimiento de los lineamientos aplicables en la materia; y
-
-VII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+Artículo 110 F. (DEROGADO, P.O. 28 DE JUNIO DE 2016)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
+### Capítulo VI. Unidad de Acceso a la Información Pública del Poder Ejecutivo
+
+###### Artículo 111.
+
+(DEROGADO, P.O. 28 DE JUNIO DE 2016)
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ### Capítulo VII. Unidad de Enlace para el Acceso a la Información Pública
 
 Facultades de la Unidad de Enlace para el Acceso a la Información Pública
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-###### Artículo 111.
-
-La Unidad de Acceso a la Información Pública del Poder Ejecutivo estará adscrita administrativamente a la Secretaría, por conducto de la Subsecretaría de Administración, y ejercerá las atribuciones que le confieren la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato y la Ley de Protección de Datos Personales para el Estado y los Municipios de Guanajuato, así como los reglamentos que de ellas deriven.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-### Capítulo Único. Órganos Desconcentrados
-
-Órganos Desconcentrados
 
 ###### Artículo 112.
 
@@ -3743,9 +4285,9 @@ Asimismo, coordinará las actividades que permitan la organización y conservaci
 
 ## Título Sexto
 
-### Capítulo I. Comisión Interna de Programación y Evaluación
+### Capítulo Único. Órganos Desconcentrados
 
-Integración de la Comisión Interna de Programación y Evaluación
+Órganos Desconcentrados
 
 ###### Artículo 113.
 
@@ -3755,9 +4297,9 @@ De acuerdo con las disposiciones legales relativas, el Secretario podrá revocar
 
 ## Título Séptimo. Comisiones Internas
 
-### Capítulo II. Comisión Ingreso-Gasto
+### Capítulo I. Comisión Interna de Programación y Evaluación
 
-Integración y finalidad de la Comisión Ingreso-Gasto
+Integración de la Comisión Interna de Programación y Evaluación
 
 ###### Artículo 114.
 
@@ -3781,9 +4323,9 @@ II. Apoyar al Secretario en la preparación de los programas de modernización a
 
 III. En general, realizar todo tipo de acciones que coadyuven a la consecución de los objetivos y metas de la Secretaría.
 
-### Capítulo I. Suplencias
+### Capítulo II. Comisión Ingreso-Gasto
 
-Suplencias del Secretario
+Integración y finalidad de la Comisión Ingreso-Gasto
 
 ###### Artículo 117.
 
@@ -3819,7 +4361,19 @@ VIII. Difundir oportunamente las estadísticas de finanzas públicas por ingreso
 
 IX. Las demás que le asigne el Secretario en los términos de la normativa aplicable.
 
-## Título Octavo. Suplencias y Relaciones Laborales
+> <small>(REFORMADO SU DENOMINACIÓN, P.O. 28 DE JUNIO DE 2016)</small>
+
+## Título Octavo. Ausencias y Relaciones Laborales
+
+> <small>(REFORMADO SU DENOMINACIÓN, P.O. 28 DE JUNIO DE 2016)</small>
+
+### Capítulo I. Ausencias de los Servidores Públicos
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 28 DE JUNIO DE 2016)</small>
+
+Ausencias del Secretario
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2016)</small>
 
 ### Capítulo II. Relaciones Laborales
 
@@ -3827,13 +4381,17 @@ Relaciones laborales entre el Estado y los trabajadores
 
 ###### Artículo 120.
 
-El Secretario será suplido en sus ausencias, por el Subsecretario que al efecto designe.
+Durante las ausencias del Secretario, el despacho y resolución de los asuntos que le corresponden quedarán a cargo del Subsecretario que para ese efecto designe el propio Titular de la Secretaría.
 
-Suplencias de los servidores públicos
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 28 DE JUNIO DE 2016)</small>
+
+Ausencias de los demás servidores públicos
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2016)</small>
 
 ###### Artículo 121.
 
-Los demás servidores públicos de la Secretaría, serán suplidos en sus ausencias por el servidor público que al efecto designe el Secretario.
+Durante las ausencias de los demás servidores públicos adscritos a la Secretaría, el despacho y resolución de los asuntos que le corresponden a las unidades administrativas que obren a su cargo serán encomendados al servidor público que para ese efecto designe el Secretario.
 
 ###### Artículo 122.
 
@@ -3886,3 +4444,27 @@ Artículo Segundo. La Secretaría deberá realizar las operaciones presupuestale
 Inicio de vigencia en materia de programación y gastos de inversión
 
 Artículo Tercero. En cuanto a las atribuciones conferidas a esta Secretaría en materia de programación y gasto de inversión, derivadas de las reformas y adiciones de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, contenidas en el Decreto Número 287, publicado en el Periódico Oficial del Gobierno del Estado el 18 de Septiembre de 2012, entrarán en vigor a partir del 1 de enero de 2013.
+
+P.O. 28 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO GUBERNATIVO NÚMERO 161, MEDIANTE EL CUAL, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS, INVERSIÓN Y ADMINISTRACIÓN".]
+
+Inicio de vigencia
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto Gubernativo entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Asuntos en trámite
+
+###### ARTÍCULO SEGUNDO.
+
+Con excepción de lo previsto en el párrafo siguiente, los asuntos que a la fecha de entrada en vigor del presente Decreto Gubernativo se encuentren en trámite, serán resueltos hasta su conclusión por las unidades administrativas competentes conforme al presente Decreto.
+
+Los procedimientos iniciados en ejercicio de las facultades contenidas en el artículo 48, fracciones IV y XII del Reglamento Interior de la Secretaría de Finanzas, Inversión y Administración, que se encuentren en trámite o pendientes de resolución a la entrada en vigor del presente Decreto Gubernativo, se tramitarán y resolverán hasta su conclusión por las unidades administrativas competentes conforme al citado Reglamento Interior hasta antes de la entrada en vigor del presente Decreto.
+
+Transferencia de recursos
+
+###### ARTÍCULO TERCERO.
+
+En un plazo no mayor de 90 días contado a partir de la entrada en vigencia del presente Decreto Gubernativo, la Secretaría de Finanzas, Inversión y Administración transferirá a la unidad directamente adscrita al Gobernador del Estado que asuma las funciones de acceso a la información y de archivos, la documentación, expedientes y asuntos en trámite, recursos materiales, financieros y humanos de la Unidad de Acceso a la Información Púbica del Poder Ejecutivo que haya estado adscrita a la citada Secretaría hasta antes de la entrada en vigencia del presente Decreto.
