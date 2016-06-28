@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-productora-nacional-de-biologicos-11511
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-06-14"
-last_updated: "2016-06-14"
+last_updated: "2016-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115112&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2016-05-16"
 ---
 # ESTATUTO ORGANICO DE LA PRODUCTORA NACIONAL DE BIOLOGICOS VETERINARIOS PRONABIVE
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL D.O.F. DEL 28 DE JUNIO DE 2016, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ESTATUTO ORGÁNICO DE LA PRODUCTORA NACIONAL DE BIOLÓGICOS VETERINARIOS "PRONABIVE"
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL D.O.F. DE 28 DE JUNIO DE 2016.</small>
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 14 de junio de 2016.
 
@@ -209,7 +209,9 @@ IX. Las demás que señale la Ley y otras disposiciones jurídicas aplicables, a
 
 Son obligaciones de los miembros de la Junta de Gobierno las siguientes:
 
-I. Asistir a las sesiones ordinarias o extraordinarias. En caso de no asistir el miembro titular, deberá acudir su suplente. En caso de que no pueda concurrir el titular ni el suplente, podrá asistir por única ocasión la persona designada para tal efecto por el miembro titular, el cual no podrá tener un nivel menor al de Director de área, para el caso de los miembros a que se refieren las fracciones II a IV del artículo 8 (sic) del Estatuto;
+> <small>(F. DE E., D.O.F. 28 DE JUNIO DE 2016)</small>
+
+I. Asistir a las sesiones ordinarias o extraordinarias. En caso de no asistir el miembro titular, deberá acudir su suplente. En caso de que no pueda concurrir el titular ni el suplente, podrá asistir por única ocasión la persona designada para tal efecto por el miembro titular, el cual no podrá tener un nivel menor al de Director de área, para el caso de los miembros a que se refieren las fracciones II a IV del artículo 9 del Estatuto;
 
 II. Acudir de manera puntual y permanecer hasta su conclusión a las sesiones de la Junta de Gobierno;
 
