@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-e-inclusion-de-las-personas-con-94481"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2016-04-22"
+last_updated: "2016-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -105,7 +105,9 @@ XXV. Perro guía o animal de servicio. Aquel que habiendo pasado pruebas de sele
 
 XXVI. Persona competente en lengua de señas mexicana: Es la persona que su nivel de lengua de señas, le permite tener interacciones de comunicación con la comunidad de sordos, que cumplan las funciones comunicativas básicas que se requieran de acuerdo a su labor.
 
-XXVII. Persona con discapacidad. Toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+XXVII. Persona con discapacidad. Toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, o un trastorno de talla y peso congénito o adquirido, ya sea permanente o temporal, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás.
 
 XXVIII. Política pública. Todos aquellos planes, programas o acciones que las autoridades Estatales y Municipales desarrollen para asegurar los derechos establecidos en la presente ley;
 
@@ -1107,7 +1109,7 @@ Se derogan todas las disposiciones que se opongan al siguiente decreto.
 
 P.O. 22 DE ABRIL DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO No. 410.- SE ADICIONA EL ARTÍCULO 48 BIS A LA LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 410.- SE ADICIONA EL ARTÍCULO 48 BIS A LA LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1116,3 +1118,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación (sic)
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 457.- SE REFORMA LA FRACCIÓN XXVII DEL ARTÍCULO 2 DE LA LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al siguiente (sic) decreto.
