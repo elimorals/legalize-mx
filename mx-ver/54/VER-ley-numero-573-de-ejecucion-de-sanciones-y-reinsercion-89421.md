@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-573-de-ejecucion-de-sanciones-y-reinsercion-89421"
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-17"
-last_updated: "2013-08-26"
+last_updated: "2016-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "VER"
 
 LEY NÚMERO 573 DE EJECUCIÓN DE SANCIONES Y REINSERCIÓN SOCIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE QUE INICIE SU VIGENCIA EL NUEVO CÓDIGO DE PROCEDIMIENTOS PENALES, SUJETÁNDOSE A LA GRADUALIDAD QUE ÉSTE PREVEA EN SUS DISPOSICIONES.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE JUNIO DE 2016.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Veracruz, el lunes 17 de septiembre de 2012.
 
@@ -1455,13 +1453,15 @@ VIII. Hacer del conocimiento de las autoridades competentes los aspectos relacio
 
 La Dirección General contará con el Casillero Judicial del Estado, donde se llevará el registro pormenorizado de todas aquellas personas a quienes se les haya iniciado una causa penal y, en consecuencia, la resolución que haya puesto fin al proceso, así como la resolución en segunda instancia y, en su caso, la resolución en un juicio de amparo. Esta información será resguardada y manejada con absoluta confidencialidad.
 
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2016)</small>
+
 ###### Artículo 145.
 
-Sólo a las autoridades que los soliciten en ejercicio de sus atribuciones se podrán proporcionar los datos contenidos en el casillero judicial.
+A solicitud de la persona interesada, se otorgará la Carta de No Antecedentes Penales, basada en los datos contenidos en el casillero judicial.
 
 ###### Artículo 146.
 
-Queda prohibido suministrar a particulares los datos contenidos en el casillero judicial, aun a aquellos que soliciten datos sobre su persona.
+(DEROGADO, G.O. 28 DE JUNIO DE 2016)
 
 ### CAPÍTULO CUARTO. Área de Control, Supervisión y Vigilancia
 
@@ -1588,3 +1588,11 @@ Artículo Sexto. En todos los ordenamientos y disposiciones en que se haga menci
 Artículo Séptimo. La Secretaría de Finanzas y Planeación y la Contraloría General, conformarán un Grupo de Trabajo, a fin de determinar la estructura orgánica mínima indispensable que integrará las Secretarías, cuyas funciones se reforman, adicionan o derogan en este instrumento. Las denominaciones de los órganos y áreas administrativas se ajustarán a lo dispuesto en los Lineamientos por los que se establecen los criterios técnico-administrativos para la modificación, elaboración y autorización de las estructuras orgánicas y plantillas de personal de las Dependencias y Entidades de la Administración Pública.
 
 Artículo Octavo. En tanto se expidan las nuevas normas reglamentarias correspondientes, seguirá siendo aplicable en lo que no se oponga a estas reformas, la normatividad reglamentaria vigente.
+
+G.O. 28 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 884 QUE REFORMA EL ARTÍCULO 145 Y DEROGA EL ARTÍCULO 146, AMBOS DE LA LEY DE EJECUCIÓN DE SANCIONES Y REINSERCIÓN SOCIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
