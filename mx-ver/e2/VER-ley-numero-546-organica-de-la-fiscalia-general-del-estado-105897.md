@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-546-organica-de-la-fiscalia-general-del-estado-10589
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-29"
-last_updated: "2015-08-07"
+last_updated: "2016-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 546 ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 887 PUBLICADO EL VEINTIOCHO DE JUNIO DE DOS MIL DIECISÉIS, EN EL PERIÓDICO OFICIAL DEL ESTADO DE VERACRUZ, POR EL QUE SE ADICIONARON DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 LEY NÚMERO 546 ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE JUNIO DE 2016.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 29 de enero de 2015.
 
@@ -385,6 +387,12 @@ II. Visitador General;
 
 III. Fiscal de Investigaciones Ministeriales;
 
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 887 POR EL QUE SE ADICIONÓ ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, G.O. 28 DE JUNIO DE 2016)</small>
+
+III BIS. FISCAL ESPECIALIZADO EN COMBATE A LA CORRUPCIÓN;
+
 IV. Fiscales Regionales;
 
 V. Fiscales Coordinadores Especializados;
@@ -591,6 +599,34 @@ III. Auxiliar a los particulares en la elaboración de las solicitudes de inform
 
 IV. Difundir entre los servidores públicos los beneficios que conlleva divulgar la información pública, los deberes que deban asumirse para su buen uso y conservación, y las responsabilidades que traería consigo la inobservancia de la ley.
 
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 887 POR EL QUE SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, G.O. 28 DE JUNIO DE 2016)</small>
+
+###### Artículo 28 Bis.
+
+Atribuciones en Materia de Combate a la Corrupción.
+
+Las atribuciones en materia de combate a la corrupción, que se ejercerán por conducto de la Fiscalía Especializada en Combate a la Corrupción, comprenden:
+
+I. Ejercer las atribuciones que la Constitución, las leyes, los reglamentos y demás disposiciones jurídicas confieren al Ministerio Público, en materia de investigación y persecución de delitos relacionados con hechos de corrupción;
+
+II. Diseñar e implementar estrategias y líneas de acción para combatir los hechos en materia de corrupción;
+
+III. Implementar planes y programas para detectar la comisión de los hechos que se consideran como delitos en materia de corrupción en el ámbito de su competencia;
+
+IV. Instrumentar mecanismos de colaboración con otras autoridades para la elaboración de estrategias y programas tendientes a combatir los hechos en materia de corrupción;
+
+V. Implementar y fortalecer, en el ámbito de su competencia, mecanismos de cooperación y colaboración con las autoridades de los tres órdenes de gobierno, para la investigación de los hechos en materia de corrupción;
+
+VI. Diseñar e implementar proyectos, estudios y programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad;
+
+VII. Diseñar, integrar e implementar sistemas y mecanismos de análisis de la información fiscal, financiera y contable, para que pueda ser utilizada en las investigaciones;
+
+VIII. Celebrar convenios con instituciones y organismos públicos o privados, nacionales o extranjeros, en el ámbito de su competencia, para prevenir y combatir hechos en materia de corrupción; y
+
+IX. Las demás que en su caso le confieran otras disposiciones legales aplicables.
+
 ## TÍTULO CUARTO
 
 ### CAPÍTULO I. DEL FISCAL GENERAL
@@ -777,6 +813,12 @@ b) Las Fiscalías Especializadas actuarán en la circunscripción territorial qu
 
 c) Las Fiscalías Especializadas contarán con las funciones y estructura administrativa que establezca el reglamento de esta Ley.
 
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 887 POR EL QUE SE ADICIONÓ ESTE INCISO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, G.O. 28 DE JUNIO DE 2016)</small>
+
+D) LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN TENDRÁ COMPETENCIA TERRITORIAL EN TODO EL ESTADO, COORDINÁNDOSE CON TODAS LAS UNIDADES ADMINISTRATIVAS QUE INTEGRAN LA FISCALÍA GENERAL.
+
 II. Sistema de desconcentración regional:
 
 a) La Fiscalía General actuará con base en un sistema de desconcentración regional, por conducto de Fiscales Regionales, quienes serán los superiores jerárquicos de los Fiscales de Distrito que ejercerán sus funciones en las circunscripciones territoriales, denominadas distritos, que establezcan las disposiciones aplicables;
@@ -812,6 +854,96 @@ V. Intervenir en los asuntos relativos a los menores de edad, personas con disca
 VI. Expedir copia de las actuaciones, los documentos y medios de investigación que obren en su poder, con motivo y en ejercicio de sus funciones; y
 
 VII. Las demás que les otorguen las leyes correspondientes.
+
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 887 POR EL QUE SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, G.O. 28 DE JUNIO DE 2016)</small>
+
+###### Artículo 39 Bis.
+
+Del Fiscal Especializado en Combate a la Corrupción.
+
+La Fiscalía Especializada en Combate a la Corrupción es el órgano de la Fiscalía General del Estado previsto en el artículo 67, fracción I, párrafo cuarto, de la Constitución Política del Estado, que para el ejercicio de sus funciones contará con autonomía técnica, administrativa, operativa y presupuestal.
+
+La Fiscalía Especializada en Combate a la Corrupción, además de las previstas en el artículo 28 Bis, tendrá las atribuciones siguientes:
+
+l. Nombrar al personal del área de su adscripción, de conformidad con las disposiciones legales y reglamentarias aplicables;
+
+II. Participar como integrante en el Comité Coordinador del Sistema Local Anticorrupción;
+
+III. Contar con fiscales, peritos, policías de investigación y demás personal que se requiera y sean necesarios para la atención de los asuntos de su competencia, sobre los que ejercerá mando directo en los términos señalados en esta ley;
+
+IV. Proponer, a quien corresponda, el contenido teórico práctico de los programas de capacitación, actualización y especialización respecto del personal adscrito a esta Fiscalía Especializada;
+
+V. Proponer al Fiscal General el nombramiento de los fiscales por designación especial, que reúnan amplia experiencia profesional en la materia;
+
+VI. Coordinar y supervisar la actuación de la policía de investigación adscrita a su área de competencia;
+
+VII. Emitir acuerdos, circulares, instructivos, bases y demás disposiciones administrativas que rijan la organización y actuación de la Fiscalía en el ámbito de su competencia;
+
+VIII. Implementar mecanismos de colaboración con autoridades que ejerzan facultades de fiscalización, a fin de fortalecer el desarrollo de las investigaciones en la materia de su competencia;
+
+IX. Requerir a las instancias de gobierno la información útil o necesaria para las investigaciones, la que por ningún motivo le podrá ser negada, incluso anteponiendo el secreto bancario, fiduciario o cualquiera otro de similar naturaleza;
+
+X. Coadyuvar con otras áreas de la Fiscalía General en el desarrollo de herramientas de inteligencia, investigación y demás que sean necesarias para conocer la evolución de las actividades relacionadas con los hechos en materia de corrupción;
+
+XI. Generar sus propias herramientas para identificar patrones de conducta que pudieran estar relacionados con operaciones con recursos de procedencia ilícita, vinculadas a hechos de corrupción;
+
+XII. Emitir guías y manuales técnicos, junto con las áreas competentes de la Fiscalía General, para la formulación de dictámenes en materia de análisis fiscal, financiero y contable que requieran los fiscales en cumplimiento de sus funciones de investigación y persecución de hechos en materia de corrupción;
+
+XIII. Conducir la investigación para la obtención de datos o medios de prueba relacionados con hechos en materia de corrupción;
+
+XIV. Previo acuerdo con el Fiscal General, llevar a cabo y suscribir la celebración de convenios con las entidades federativas para tener acceso directo a la información disponible en los Registros Públicos de la Propiedad, así como de las unidades de inteligencia patrimonial o equivalentes de las entidades federativas, para la investigación y persecución de los hechos en materia de corrupción;
+
+XV. Dirigir, coordinar y realizar la investigación de los hechos que presuntamente constituyan delitos del fuero común en materia de su competencia;
+
+XVI. Ordenar el aseguramiento de bienes propiedad del imputado, así como de aquellos respecto de los cuales se conduzca como dueño, dueño beneficiario o beneficiario controlador, cuyo valor equivalga al producto, los instrumentos u objetos del hecho delictivo, cuando éstos hayan desaparecido o no se localicen por causa atribuible al imputado;
+
+XVII. Promover la extinción de dominio de los bienes de los imputados o sentenciados, así como de aquellos respecto de los cuales se conduzcan como dueños, dueños beneficiarios o beneficiarios controladores, cuyo valor equivalga a los bienes desaparecidos o no localizados por causas atribuibles al imputado o sentenciado, cuando estos bienes estén relacionados con hechos en materia de corrupción, que sean susceptibles de la acción de extinción de dominio, en los términos de la legislación aplicable;
+
+XVIII. Ejercer la facultad de atracción de las investigaciones que se practiquen en cualquier Unidad Integral de Procuración de Justicia, Unidad de Atención Temprana o Agencia del Ministerio Público o fiscalía dependiente de la Fiscalía General del Estado, que sean de su competencia;
+
+XIX. Solicitar información a las instituciones públicas federales, estatales o municipales, órganos autónomos estatales o federales y, en general, a cualquier entidad pública o privada;
+
+XX. Autorizar el criterio de oportunidad, abstención de investigar y archivo temporal, en términos de lo establecido por el artículo 7 de esta ley;
+
+XXI. Acordar y autorizar, cuando proceda, la propuesta de los Fiscales de su adscripción, la determinación de no ejercicio de la acción penal, previo estudio técnico jurídico de la carpeta de investigación;
+
+XXII. Supervisar y dar seguimiento a los mandamientos emitidos por el órgano jurisdiccional, así como su cumplimiento en los asuntos de su competencia;
+
+XXIII. Procurar que los derechos de la víctima u ofendido sean tutelados, preservando los relativos a la reparación del daño cuando sea procedente;
+
+XXIV. Supervisar el funcionamiento de las unidades administrativas que le estén adscritas;
+
+XXV. Decidir responsablemente sobre el destino de los recursos que le sean asignados, a fin de cubrir todas las necesidades que surjan en el desempeño de sus facultades:
+
+XXVI. Ejercer las atribuciones que el Código Nacional de Procedimientos Penales establece para las Procuradurías Generales de Justicia o Fiscalías Generales, en los procesos penales que sean de su competencia, incluso en los casos en que el proceso deba seguirse conforme a disposiciones anteriores al inicio de la (sic) de dicho ordenamiento; y
+
+XXVII. Las demás que en su caso le confieran otras disposiciones legales y reglamentarias aplicables.
+
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 887 POR EL QUE SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, G.O. 28 DE JUNIO DE 2016)</small>
+
+###### Artículo 39 Ter.
+
+Nombramiento y Remoción del Titular de la Fiscalía Especializada en Combate a la Corrupción.
+
+El titular de la Fiscalía Especializada en Combate a la Corrupción será designado por el Congreso del Estado, en términos del artículo 67 fracción I de la Constitución del Estado, previa convocatoria pública.
+
+El titular de la Fiscalía Especializada en Combate a la Corrupción elaborará su proyecto anual de presupuesto para enviarlo a la Secretaría de Finanzas y Planeación del Gobierno del Estado, por conducto de la Fiscalía General del Estado, para que se integre al Proyecto de Presupuesto de Egresos del Estado, en el que se identificará el monto aprobado para esta Fiscalía durante el correspondiente ejercicio fiscal.
+
+El Fiscal Especializado en Combate a la Corrupción podrá ser removido por el Fiscal General por cualquiera de las causas siguientes:
+
+l. No aprobar las evaluaciones de control de confianza;
+
+II. Hacer uso de sustancias psicotrópicas, estupefacientes, alcohólicas u otras que produzcan efectos similares;
+
+III. Incurrir en causas de responsabilidad en el ejercicio de su encargo, por faltas administrativas graves o penales; o
+
+IV. Incurrir en cualquiera de las hipótesis delictivas perseguidas con motivo de su encargo, en ejercicio de sus funciones.
+
+El Fiscal General deberá informar al Congreso del Estado de la remoción del Fiscal Especializado en Combate a la Corrupción, para efectos de lo previsto en el párrafo final de la fracción I del artículo 67 de la Constitución del Estado.
 
 ### CAPÍTULO VII. DE LA POLICÍA DE INVESTIGACIÓN
 
@@ -1686,3 +1818,15 @@ G.O. 7 DE AGOSTO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 887 PUBLICADO EL VEINTIOCHO DE JUNIO DE DOS MIL DIECISÉIS, EN EL PERIÓDICO OFICIAL DEL ESTADO DE VERACRUZ, POR EL QUE SE ADICIONARON DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+G.O. 28 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 887 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. La fiscalía General del Estado realizará, dentro del plazo previsto por el Artículo Cuarto Transitorio del Decreto 881, por el que se adicionan cuatro párrafos al final de la fracción I del Artículo 67 de la Constitución Política del Estado, las adecuaciones reglamentarias correspondientes, conforme a lo previsto en el presente Decreto.
