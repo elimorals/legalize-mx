@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-centro-nacional-de-control-de-energia-106
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-03-09"
-last_updated: "2016-01-27"
+last_updated: "2016-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106436&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2015-03-02"
 
 ESTATUTO ORGÁNICO DEL CENTRO NACIONAL DE CONTROL DE ENERGÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2016.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL CENTRO NACIONAL DE CONTROL DE ENERGÍA, PUBLICADO EN EL D.O.F. DE 29 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JUNIO DE 2016 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 9 de marzo de 2015.
 
@@ -1012,3 +1014,11 @@ D.O.F. 27 DE ENERO DE 2016.
 PRIMERO.- La presente modificación al Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. La modificación en comento deberá inscribirse en el Registro Público de Organismos Descentralizados, en los términos del penúltimo párrafo del artículo 15 de la Ley Federal de las Entidades Paraestatales.
+
+D.O.F. 29 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL CENTRO NACIONAL DE CONTROL DE ENERGÍA”.]
+
+PRIMERO. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Estatuto Orgánico del Centro Nacional de Control de Energía publicado en el Diario Oficial de la Federación el 9 de marzo de 2015, y su modificación del 27 de enero de 2016.
