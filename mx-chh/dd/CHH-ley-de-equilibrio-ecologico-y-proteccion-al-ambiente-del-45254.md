@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-equilibrio-ecologico-y-proteccion-al-ambiente-del-45254"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-08"
-last_updated: "2015-08-22"
+last_updated: "2016-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2016.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 8 de junio de 2005.
 
@@ -157,7 +157,9 @@ XXV.- ELEMENTOS NATURALES: Los elementos físicos, químicos y biológicos que s
 
 XXVI.- EMERGENCIA ECOLÓGICA: Situación derivada de actividades humanas o fenómenos naturales que al afectar severamente a sus elementos, pone en peligro a uno o varios ecosistemas;
 
-XXVII.- EVALUACIÓN DEL RIESGO AMBIENTAL: Proceso metodológico para determinar la probabilidad o posibilidad de que se produzcan efectos adversos, como consecuencia de la exposición de los seres vivos a las sustancias contenidas en los residuos peligrosos o agentes infecciosos que los forman;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+XXVII. ANÁLISIS DE RIESGO AMBIENTAL.- El documento mediante el cual se da a conocer, a través de un proceso metodológico, la probabilidad o posibilidad de que se produzcan efectos adversos sobre el medio ambiente, que genere un desequilibrio ecológico, y se ponga en riesgo la seguridad de la población como consecuencia de un accidente o incidente generado por la exposición a las sustancias o residuos peligrosos o agentes infecciosos y/o tóxicos que los forman, así como las medidas tendientes a mitigar, minimizar o controlar dichos efectos;
 
 XXVIII.- FAUNA SILVESTRE: Las especies animales que subsisten sujetas a los procesos de selección natural, cuyas poblaciones habitan temporal o permanentemente en el territorio estatal y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación;
 
@@ -175,7 +177,9 @@ XXXIV.- LEY ESTATAL: La presente Ley; así mismo podrá hacerse referencia a ell
 
 XXXV.- LEY GENERAL: La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-XXXVI.- MANIFESTACIÓN DEL IMPACTO AMBIENTAL: El documento mediante el cual se da a conocer, con base en estudios de análisis de riesgo, el impacto ambiental significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+XXXVI. MANIFESTACIÓN DEL IMPACTO AMBIENTAL: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
 
 XXXVII.- MANEJO INTEGRAL: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
 
@@ -543,6 +547,8 @@ Las diversas dependencias del Ejecutivo Estatal ejercerán las atribuciones que 
 
 ### CAPÍTULO III. ÓRGANOS DE COORDINACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 15.
 
 El Ejecutivo del Estado, por conducto de la Secretaría, contará con un órgano de coordinación en materia Ecológica, denominado Consejo Estatal para la Protección al Ambiente y el Desarrollo Sustentable y se integrará por:
@@ -563,7 +569,9 @@ A).- Un representante de cámaras empresariales;
 
 B).- Un representante de organismos de la sociedad civil ecologistas constituidos legalmente;
 
-C).- Un representante de colegios de profesionistas.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
+
+C).- Un representante de colegios de profesionistas en materia ambiental.
 
 Por cada uno de los consejeros titulares, se nombrará un suplente.
 
@@ -957,11 +965,13 @@ La Secretaría, con el auxilio de los Gobiernos Municipales que correspondan, su
 
 En caso de suspensión de la obra o actividad, o cierre de operaciones, se deberá notificar por escrito a la Secretaría con treinta días naturales de anticipación, y presentar la solicitud de certificación de abandono de sitio anexando el estudio respectivo, e informar la fecha exacta del desalojo de las instalaciones.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 49.
 
-La Secretaría establecerá un Registro Estatal de Prestadores de Servicio, en el que deberán inscribirse todos aquellos interesados en realizar evaluaciones del riesgo ambiental, presentando una solicitud con la información y los documentos que acrediten el nivel técnico y académico, en los términos que el reglamento respectivo establezca.
+La Secretaría establecerá un Registro Estatal de Prestadores de Servicio, en el que deberán inscribirse todos aquellos interesados en realizar análisis de riesgo ambiental o manifestaciones de impacto ambiental, presentando una solicitud con la información y los documentos que acrediten el nivel técnico y académico, en los términos que el reglamento o los lineamientos respectivos, establezcan. Los prestadores de servicio deberán contar con título de licenciatura o de posgrado relacionado con el tema ambiental.
 
-Para verificar la capacidad y aptitud de los prestadores de servicios para realizar las manifestaciones de impacto ambiental y los estudios de análisis de riesgo, la Secretaría podrá practicar las investigaciones necesarias.
+Para verificar la capacidad y aptitud de los prestadores de servicio para realizar los análisis de riesgo ambiental y manifestaciones de impacto ambiental, lo Secretaría podrá practicar los investigaciones necesarias.
 
 ###### ARTÍCULO 50.
 
@@ -2043,7 +2053,9 @@ No se admitirán denuncias notoriamente improcedentes o infundadas, así como aq
 
 Si el denunciante solicita a la Secretaría guardar secreto respecto a su identidad por razones de seguridad e interés particular, ésta llevará a cabo el seguimiento de la denuncia conforme a las atribuciones que la presente Ley y demás ordenamientos jurídicos aplicables le otorgan.
 
-Así mismo podrá formularse la denuncia vía telefónica, en cuyo caso el servidor público que la reciba, levantará acta circunstanciada y el denunciante deberá ratificar por escrito, cumpliendo con los requisitos establecidos en el presente, en un término no mayor de tres días hábiles siguientes a la formulación de la denuncia. En caso de no ratificar la denuncia en el término aludido, se tendrá por no presentada.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
+
+Así mismo podrá formularse la denuncia vía telefónica de manera anónima, en cuyo caso el servidor público que la reciba, levantará acta circunstanciada, cumpliendo con los requisitos establecidos en el presente artículo, otorgando un número de folio al denunciante, para que pueda darle seguimiento y conocer el estado que guarda la misma, sin necesidad de que esta sea ratificada.
 
 ###### ARTÍCULO 186.
 
@@ -2649,6 +2661,16 @@ El Titular del Ejecutivo del Estado deberá expedir el Reglamento del Programa d
 
 El presente Decreto entrará en vigor a los ciento ochenta días después de su publicación en el Periódico Oficial del Estado.
 
+P.O. 29 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 1372/2016 II P.O., MEDIANTE EL CUAL SE REFORMA EL CUARTO PÁRRAFO DEL ARTÍCULO 185 DE LA LEY DE ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CHIHUAHUA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 1383/2016 II P.O., MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 5, FRACCIONES XXVII Y XXXVI; 15, PÁRRAFO PRIMERO, FRACCIÓN VI, INCISO C); Y 49, TODOS DE LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CHIHUAHUA".]
+
 ###### ARTÍCULO PRIMERO.
 
 Esta Ley entrará en vigor a los 180 días hábiles siguientes a su publicación en el Periódico Oficial del Estado.
@@ -2658,6 +2680,14 @@ Esta Ley entrará en vigor a los 180 días hábiles siguientes a su publicación
 El Ejecutivo del Estado expedirá el reglamento a que se refiere esta Ley, en un plazo que no excederá de 180 días hábiles, contados a partir de su entrada en vigor.
 
 P.O. 22 DE AGOSTO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Todas aquellas personas que se encuentran inscritas en el Registro Estatal de Prestadores de Servicio, continuarán prestando sus servicios en la elaboración de análisis de riesgo ambiental o manifestaciones de impacto ambiental.
 
 ###### ARTÍCULO TERCERO.
 
