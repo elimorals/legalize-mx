@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2015-12-16"
+last_updated: "2016-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2016.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -725,7 +725,9 @@ La salud reproductiva, en sus actividades, debe incluir la información y orient
 
 La atención materno-infantil comprende las siguientes acciones:
 
-I.- La atención a la mujer en edad reproductiva previo al embarazo, durante el embarazo, el parto y el puerperio.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+I.- La atención a la mujer en edad reproductiva previo al embarazo, durante el embarazo, el parto y el puerperio, que (sic) será prioritaria, y el Estado, a través de las instituciones públicas de salud, llevará a cabo las acciones para cumplir con este derecho fundamental.
 
 II.- La atención del niño y la vigilancia de su crecimiento y desarrollo.
 
@@ -3608,6 +3610,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 16 DE DICIEMBRE DE 2015.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1031/2015 I P.O. MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN IV Y UN PÁRRAFO FINAL A ESTA ÚLTIMA, EL ARTÍCULO 117 DE LA LEY ESTATAL DE SALUD”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1377/2016 II P.O., MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 67, DE LA LEY ESTATAL DE SALUD”.]
 
 ###### ARTÍCULO ÚNICO.
 
