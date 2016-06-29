@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-consejo-municipal-de-desarrollo-48218"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-01-18"
-last_updated: "2012-06-20"
+last_updated: "2016-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48218&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DEL CONSEJO MUNICIPAL DE DESARROLLO RURAL SUSTENTABLE, DEL MUNICIPIO DE CUERNAVACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON LAS MODIFICACIONES PUBLICADAS EN EL P.O. DE 29 DE JUNIO DE 2016, DEBERÁ DE SUSTITUIRSE EN TODO EL REGLAMENTO LA PALABRA COMUNDER POR LA PALABRA COMUNDERS, EN VIRTUD DE QUE EL NOMBRE CORRECTO Y COMPLETO DEL CONSEJO LO ES CONSEJO MUNICIPAL DE DESARROLLO RURAL SUSTENTABLE.]</small>
+
 REGLAMENTO INTERIOR DEL CONSEJO MUNICIPAL DESARROLLO RURAL SUSTENTABLE, DEL MUNICIPIO DE CUERNAVACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2016.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 18 de enero de 2006.
 
@@ -33,7 +35,7 @@ C. ADRIÁN RIVERA PÉREZ, PRESIDENTE MUNICIPAL CONSTITUCIONAL DE CUERNAVACA, MOR
 
 QUE EL HONORABLE AYUNTAMIENTO DE CUERNAVACA, MORELOS, EN USO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, 113 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, 38 FRACCIÓN III, Y 41 FRACCIÓN I DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS, Y
 
-CONSIDERANDO.
+CONSIDERANDO...
 
 Por lo anteriormente expuesto y fundado, este Cuerpo Colegiado tiene a bien aprobar el siguiente
 
@@ -57,17 +59,17 @@ El Consejo Municipal de Desarrollo Rural Sustentable es un órgano colegiado de 
 
 El Consejo Municipal de Desarrollo Rural Sustentable es una instancia consultiva, y de participación de los productores y demás agentes de la sociedad rural de la demarcación, en la definición de prioridades locales, en la planeación de los recursos que la Federación, el Gobierno del Estado y el Municipio acuerden para el apoyo de las inversiones productivas y para el desarrollo rural sustentable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2016)</small>
 
 ###### Artículo 4.
 
-Para efecto de este ordenamiento, se entenderá por:
+Para efecto de éste ordenamiento, se entenderá por:
 
 I.- LEY: la Ley de Desarrollo Rural Sustentable;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
 
-II.- COMUNDER: COMUNDERS, el Consejo Municipal de Desarrollo Rural Sustentable del Municipio de Cuernavaca, Morelos;
+II.- COMUNDERS, el Consejo Municipal de Desarrollo Rural Sustentable del Municipio de Cuernavaca, Morelos;
 
 III.- C.I.: La Comisión Intersecretarial;
 
@@ -83,7 +85,9 @@ VII.- AYUNTAMIENTO el Ayuntamiento Constitucional de Cuernavaca, Morelos;
 
 VIII.- SISTEMA PRODUCTO: Conjunto de elementos y agentes concurrentes de los procesos productivos agropecuarios representativos en el municipio de Cuernavaca en términos de la existencia del cultivo o especie que impulse significativamente la economía de diferentes unidades de producción del municipio, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización; el sistema producto será considerado como una organización productiva;
 
-IX.- PRESIDENTE: el Presidente del COMUNDER;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+IX.- RAMA PRODUCTIVA.- Conjunto de elementos y agentes concurrentes de los procesos productivos representativos en el Municipio de Cuernavaca, que impulsaran de manera significativa la economía en los ámbitos agrícola, pecuario, acuacultura, agroindustrial, comercialización y desarrollo rural, de este Municipio.
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
@@ -147,15 +151,21 @@ I.- El Presidente Municipal, quien lo presidirá;
 
 II.- Los regidores que integran la Comisión de Desarrollo Agropecuario del Ayuntamiento, el Regidor Presidente de la Comisión de Desarrollo Agropecuario, quien será el Coordinador General;
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
 
-III.- El Secretario de Turismo y Fomento Económico, quién además suplirá las ausencias del Presidente Municipal.
+III.- El Secretario de Turismo y Desarrollo Económico, quien suplirá las ausencias del Presidente Municipal.
 
-IV.- El Director de Fomento Agropecuario, y se le designará como Coordinador Operativo;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
 
-V.- Los representantes de: Comisariados Ejidales y de Bienes Comunales, de la propiedad rural y Ayudantes Municipales de los poblados del Municipio de Cuernavaca;
+IV.- El Director General de Desarrollo Rural Sustentable y se le designara como Coordinador Operativo;
 
-VI.- Los funcionarios que representan al gobierno federal en la entidad, determinados por la Ley, como miembro de la Comisión Intersecretarial;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+V.- El Director de Fomento Agropecuario, quien asistirá al Coordinador Operativo.
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+VI.- Los representantes de Comisariados Ejidales y de Bienes Comunales, de la propiedad rural y Ayudantes Municipales de los Poblados Rurales del Municipio de Cuernavaca.
 
 VII.- Los funcionarios que representan al gobierno estatal, homólogos de los funcionarios de la Comisión Intersecretarial;
 
@@ -163,9 +173,17 @@ VIII.- Un representante de la SAGARPA como coordinador técnico federal;
 
 IX.- Los Representantes de las organizaciones sociales y privadas de carácter económico-productivo y social del sector rural representativos en el municipio, debidamente acreditados e inscritos en el registro municipal de organizaciones productivas y sociales del municipio de Cuernavaca, conforme a lo que señalan los artículos 25, párrafo tercero, 143, 145, 146 y 147 de la Ley de Desarrollo Rural Sustentable; 36, y 113, fracciones IV, V y VI de la Ley de Desarrollo Rural Sustentable del Estado de Morelos;
 
-X.- Un Diputado Local en representación del Congreso del Estado de Morelos;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
 
-XI.- Un Representante de las Centrales Campesinas con presencia estatal y representación municipal, que cumpla con los requisitos establecidos en el presente Reglamento;
+X.- Los representantes de productores primarios y agroindustriales, sociales y privadas de carácter económico-productivo y social del sector rural representativos en el municipio, debidamente acreditados e inscritos en el Registro Municipal de Organizaciones Productivas y Sociales del municipio de Cuernavaca, conforme a lo que señalan los artículos 25, párrafo tercero, 143, 145, 146 y 147, de la Ley de Desarrollo Rural Sustentable; 36, y 113, fracciones IV, V y VI, de la Ley de Desarrollo Rural Sustentable del Estado de Morelos;
+
+(REUBICADA, P.O. 29 DE JUNIO DE 2016)
+
+XI.- Un Diputado Local en representación del Congreso del Estado de Morelos;
+
+(REUBICADA, P.O. 29 DE JUNIO DE 2016)
+
+XII.- Un Representante de las Centrales Campesinas con presencia estatal y representación municipal, que cumpla con los requisitos establecidos en el presente Reglamento;
 
 Sólo los representantes de los productores y del Ayuntamiento tendrán voz y voto en las resoluciones y acuerdos del Consejo y podrán designar a un suplente, los representantes gubernamentales federales y estatales, así como de las organizaciones no gubernamentales, sólo tendrán voz informativa y de opinión técnica, sin voto.
 
@@ -197,9 +215,11 @@ Artículo 9 BIS.- Los consejeros permanentes durarán en su cargo el mismo perio
 
 Artículo 9 TER.- Para ser consejero permanente de los productores, se requiere haber sido electo por su organización debidamente acreditada e inscrita en el Registro Municipal de Organizaciones Productivas y Sociales del Municipio de Cuernavaca, bajo los lineamientos de este reglamento.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
+
 ###### Artículo 10.
 
-Los miembros permanentes del COMUNDER, con la excepción prevista en el artículo 7 penúltimo párrafo de este ordenamiento, tendrán derecho a voz y voto; podrán coordinar comisiones o grupos de trabajo y designarán por escrito a un suplente.
+Los miembros permanentes del COMUNDERS, podrán coordinar comisiones o grupos de trabajo y designarán por escrito a un suplente.
 
 Los invitados serán convocados a sesiones en donde se traten asuntos que sean de su interés o competencia y sólo tendrán derecho a voz, tanto en las sesiones plenarias como en las comisiones o grupos de trabajo.
 
@@ -207,9 +227,13 @@ Los invitados serán convocados a sesiones en donde se traten asuntos que sean d
 
 Todos los organismos interesados en participar en el COMUNDER, deberán presentar ante éste y por escrito, sus solicitudes, acompañadas de la documentación que acredite su carácter representativo de las organizaciones e instancias señaladas en la Ley, quedando su aceptación sujeta a la aprobación del Consejo.
 
-## TÍTULO TERCERO. DE LAS FUNCIONES Y RESPONSABILIDADES DEL COMUNDER Y DE SUS INTEGRANTES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JUNIO DE 2016)</small>
 
-### CAPÍTULO I. DE LAS FUNCIONES DEL COMUNDER
+## TÍTULO TERCERO. DE LAS FUNCIONES Y RESPONSABILIDADES DEL COMUNDERS Y DE SUS INTEGRANTES
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JUNIO DE 2016)</small>
+
+### CAPÍTULO I. DE LAS FUNCIONES DEL COMUNDERS
 
 ###### Artículo 12.
 
@@ -245,7 +269,7 @@ XI.- Participar en el establecimiento de una tipología de productores y sujetos
 
 XII.- Articular los planteamientos, proyectos y solicitudes de los productores del Municipio y de sus organizaciones, y
 
-XIII.- Las demás que el COMUNDER acuerde y considere necesarias para alcanzar los fines del desarrollo rural sustentable.
+XIII.- Las demás que el COMUNDER acuerde y considere necesarias para alcanzar los fines del desarrollo rural sustentable;
 
 ###### Artículo 13.
 
@@ -293,7 +317,9 @@ El COMUNDER coadyuvará en la definición de propósitos para otorgar los apoyos
 
 I.- Identificación de inconformidades en la aplicación de los diversos programas del sector, para ser turnadas a las instancias correspondientes;
 
-II.- Definición de regiones fitozoosanitarias y el apoyo en la instalación de la infraestructura necesaria para el equipamiento de cordones sanitarios; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+II.- Definición de regiones fitozoosanitarias y el apoyo en la instalación de la infraestructura necesaria para el equipamiento de cordones fitozoosanitarios; y
 
 III.- Priorizar las demandas, controversias y excepciones, en defensa de los productores del sector rural; de conformidad con las disposiciones vigentes.
 
@@ -309,17 +335,17 @@ El Presidente del Consejo tendrá las siguientes funciones:
 
 I.- Representar al COMUNDER;
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
 
-II.- Convocar por si o a través del Regidor de Desarrollo Agropecuario o del director de Fomento Agropecuario, a las sesiones ordinarias y extraordinarias del COMUNDER;
+II.- Convocar por si o a través del Regidor de Desarrollo Agropecuario o del Director General de Desarrollo Rural Sustentable, a las Sesiones Ordinarias y Extraordinarias del Comunders;
 
 III.- Someter al COMUNDER, para su aprobación, el calendario anual de sesiones mensuales ordinarias;
 
 IV.- Fomentar y coordinar la participación de los integrantes del COMUNDER en las reuniones;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
 
-V.- Formular con el Secretario de Turismo y Fomento Económico y la Comisión Consultiva el programa anual de trabajo para la aprobación del COMUNDER, en congruencia con el Plan Municipal de Desarrollo y el Programa de Desarrollo Rural Sustentable el cuál se integrará al programa del Consejo Distrital;
+V.- Formular con el Director General de Desarrollo Rural Sustentable y la Comisión Consultiva el Programa Anual de Trabajo para la aprobación del COMUNDERS, en congruencia con el Plan Municipal de Desarrollo y el Programa de Desarrollo Rural Sustentable, el cual se integrará al programa del Consejo Distrital y Estatal;
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
@@ -333,7 +359,9 @@ IX.- Proponer al COMUNDER la creación de comisiones especiales de trabajo a má
 
 X.- Designar a su suplente;
 
-XI.- Proponer al pleno del COMUNDER la designación y responsabilidades del representante de éste ante el Consejo Distrital, la SAGARPA y la SEDAGRO;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+XI.- Proponer al Pleno del COMUNDERS la designación y responsabilidades del representante de éste ante el Consejo Distrital, Estatal, la SAGARPA y la SEDAGRO;
 
 XII.- Aquellas otras que el COMUNDER determine.
 
@@ -357,35 +385,49 @@ IV.- Recibir y atender las solicitudes de información o documentación relacion
 
 V.- Realizar trámites y gestiones para el cumplimiento de los acuerdos, normas, programas y proyectos del COMUNDER;
 
-VI.- Presidir las sesiones del COMUNDER en las ausencias del Presidente Municipal;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+VI.- Presidir las sesiones del COMUNDERS en las ausencias del Presidente Municipal y del Presidente Suplente;
 
 > <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2012)</small>
 
-VII.- Gestionar con los niveles de Gobierno Federal y Estatal la asignación de recursos al Municipio para actividades agropecuarias.
+VII.- Gestionar con los niveles de Gobierno Federal y Estatal la asignación de recursos al Municipio para actividades agropecuarias;
 
 > <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2012)</small>
 
 VIII.- Realizar visitas periódicas a las áreas de producción agrícola y pecuaria del Municipio a efecto de conocer y atender las necesidades del sector;
 
-IX.- Las demás que le sean encomendadas por el COMUNDER.
+IX.- Las demás que le sean encomendadas por el COMUNDER;
 
 ### CAPÍTULO IV. DE LAS FUNCIONES DEL COORDINADOR OPERATIVO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2016)</small>
+
 ###### Artículo 18.
 
-Fungirá como Coordinador Operativo del COMUNDER el Director de Fomento Agropecuario, quien tendrá las siguientes funciones:
+Fungirá como Coordinador Operativo del COMUNDERS el Director General de Desarrollo Rural Sustentable, quien tendrá las siguientes funciones:
 
 I.- Asistir operativamente al Presidente y al Coordinador General para el correcto desarrollo de las actividades del COMUNDER;
 
 II.- Gestionar con los niveles de Gobierno Federal y Estatal la asignación de recursos al Municipio para actividades agropecuarias;
 
-III.- Planear, desarrollar y controlar los diferentes programas y coordinarse con las respectivas mesas de trabajo;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+III.- Planear, desarrollar, operar y controlar los diferentes Programas, acciones de Fomento Agropecuario y de Desarrollo Rural Sustentable del Ayuntamiento de Cuernavaca, y coordinarse con las respectivas mesas de trabajo;
 
 IV.- Promover la realización de exposiciones y eventos de comercialización agropecuaria;
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2016)</small>
 
-V.- Las demás que le sean asignadas por el Presidente Municipal y por el COMUNDER.
+V.- Promover Convenios de Desarrollo que impulsen la producción y productividad del Sector Agropecuario Rural.
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+VI.- Resguardar la documentación prevista en los artículos 56, 58, 59 y 60, del presente Reglamento;
+
+(REUBICADA, P.O. 29 DE JUNIO DE 2016)
+
+VII.- Las demás que le sean asignadas por el Presidente Municipal y por el COMUNDER.
 
 ### CAPÍTULO V. DE LAS FUNCIONES DEL COORDINADOR TÉCNICO ESTATAL
 
@@ -535,13 +577,19 @@ VII.- Análisis y validación de proyectos productivos;
 
 VIII.- Vinculación académica y de investigación agropecuaria;
 
-IX.- Comercialización agropecuaria;
+IX.- Comercialización agropecuaria,
 
 X.- Honor y justicia;
 
 XI.- Evaluación financiera; y
 
-XII.- Las demás que a juicio del COMUNDER se requieran para el correcto funcionamiento del Consejo.
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+XII.- Sanidad e Inocuidad Agropecuaria;
+
+(REUBICADA, P.O. 29 DE JUNIO DE 2016)
+
+XIII.- Las demás que a juicio del COMUNDER se requieran para el correcto funcionamiento del Consejo;
 
 Las propuestas de las comisiones serán presentadas al COMUNDER para su aprobación, buscando que ésta se dé, preferentemente, por consenso.
 
@@ -559,11 +607,11 @@ II.- Designar por escrito a su suplente; y
 
 III.- Emitir su voto para definir el sentido de los acuerdos que se tomen en el seno COMUNDER.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
+
 ###### Artículo 32.
 
-Los miembros permanentes del COMUNDER o, en su caso, sus suplentes, tendrán voz y voto en todas y cada una de las sesiones y podrán participar en las comisiones de trabajo que sean de su interés y proponer especialistas en los temas que se traten para que asistan en calidad de invitados.
-
-Lo anterior, sin menoscabo de la excepción prevista en el penúltimo párrafo del artículo 7 de este ordenamiento.
+Los miembros permanentes del COMUNDERS o, en su caso, sus suplentes, podrán participar en las Comisiones de trabajo que sean de su interés y proponer especialistas en los temas que se traten para que asistan en calidad de invitados.
 
 ###### Artículo 33.
 
@@ -607,19 +655,19 @@ El COMUNDER tendrá dos tipos de sesiones: ordinarias y extraordinarias.
 
 El COMUNDER sesionará de forma ordinaria mensualmente de acuerdo al calendario que se apruebe en su primera sesión, previa convocatoria.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
 
 ###### Artículo 42.
 
-Se celebrarán reuniones extraordinarias por convocatoria del Presidente, del Coordinador General, o a solicitud de por lo menos el cincuenta por ciento más uno de los miembros del Consejo, cuando se considere que existen causas suficientes para tal efecto.
+Se celebrarán reuniones extraordinarias por Convocatoria del Presidente, del Coordinador General, del Presidente Suplente, o a solicitud de por lo menos el cincuenta por ciento más uno de los miembros del Consejo, cuando se considere que existen causas suficientes para tal efecto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
 
 ###### Artículo 43.
 
-La convocatoria para sesiones ordinarias, deberá consignar lugar, fecha y hora de la sesión y ser enviada a sus integrantes e invitados por lo menos con tres días naturales de anticipación a la fecha señalada para la celebración de la misma, que además deberá ser difundida a través de los Comisariados y Ayudantes Municipales, así como ser fijada en lugares visibles. El Consejo sesionará regularmente en la cabecera Municipal, sin menoscabo de que por acuerdo mayoritario de la Asamblea del Consejo, pueda hacerlo en cualquier otro lugar del municipio.
+La Convocatoria para Sesiones Ordinarias, deberá consignar lugar, fecha y hora de la Sesión y ser enviada a sus integrantes e invitados por lo menos con tres días naturales de anticipación a la fecha señalada para la celebración de la misma, que además deberá ser difundida a través de los Comisariados y Ayudantes Municipales de poblaciones rurales, así como ser fijada en lugares visibles. El Consejo sesionará regularmente en la Cabecera Municipal, sin menoscabo de que por acuerdo mayoritario de la Asamblea del Consejo, pueda hacerlo en cualquier otro lugar del municipio.
 
-La citación para sesiones extraordinaria (sic) deberá enviarse con al menos veinticuatro horas de anticipación, siguiendo los mismos lineamientos que para las ordinarias.
+La citación para Sesiones Extraordinarias deberá enviarse con al menos veinticuatro horas de anticipación, siguiendo los mismos Lineamientos que para las ordinarias.
 
 ###### Artículo 44.
 
@@ -705,11 +753,11 @@ IV.- Tener participación de los reconocimientos que el pleno otorgue a los prod
 
 ### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
 
 ###### Artículo 55.
 
-Será responsabilidad de la Dirección de Fomento Agropecuario instrumentar, coordinar y actualizar, el registro municipal de organizaciones productivas y sociales del municipio de Cuernavaca.
+Será responsabilidad de la Dirección General de Desarrollo Rural Sustentable, instrumentar, coordinar y actualizar el registro municipal de Organizaciones Productivas y Sociales del municipio de Cuernavaca.
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
@@ -737,11 +785,11 @@ i) Constancia de productor del representante legal;
 
 j) Tener su actividad económica principal en una cadena productiva· agropecuaria o en un sistema producto.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
 
 ###### Artículo 57.
 
-La Dirección de Fomento Agropecuario expedirá una Constancia de Registro a las organizaciones que cumplan con la documentación y requisitos del registro, este documento dará a la organización la posibilidad de participar en el COMUNDER.
+La Dirección General de Desarrollo Rural Sustentable, expedirá una Constancia de Registro a las Organizaciones que cumplan con la documentación y requisitos del registro, este documento dará a la organización la posibilidad de participar en el COMUNDERS.
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
@@ -904,3 +952,11 @@ P.O. 20 DE JUNIO DE 2012.
 PRIMERO.- El presente Acuerdo entrará en vigor el mismo día de su aprobación por Cabildo.. (sic)
 
 SEGUNDO.- Publíquese en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, así como en la Gaceta Municipal.
+
+P.O. 29 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO SO/AC-80/2-VI-2016 SE AUTORIZAN LAS MODIFICACIONES AL REGLAMENTO INTERIOR DEL CONSEJO MUNICIPAL DE DESARROLLO RURAL SUSTENTABLE DE CUERNAVACA".]
+
+PRIMERO.- El presente Acuerdo entrará en vigor el mismo día de su aprobación por el Cabildo.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial que edita el Gobierno del estado de Morelos y en la Gaceta Municipal.
