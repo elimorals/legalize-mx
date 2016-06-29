@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-cambio-climatico-del-estado-de-chihuahua-94976"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-22"
-last_updated: "2013-06-22"
+last_updated: "2016-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2016.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 22 de junio de 2013.
 
@@ -118,6 +118,10 @@ XIII. Programa Estatal: Programa Estatal de Cambio Climático, Documento que con
 XIV. Protocolo de Kioto: Tratado internacional ligado a la Convención Marco que establece compromisos legalmente vinculantes, mecanismos y medidas para limitar o reducir las emisiones de gases de efecto invernadero.
 
 XV. Secretaría: La Secretaría de Desarrollo Urbano y Ecología.
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+XVI. Servicios Ambientales: Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación, entre otros.
 
 ###### Artículo 4.
 
@@ -587,7 +591,9 @@ III. Impulsar el aprovechamiento sustentable de las fuentes superficiales y subt
 
 IV. Identificar medidas de gestión para lograr la adaptación de especies en riesgo y prioritarias, que sean particularmente vulnerables al cambio climático.
 
-V. Impulsar el cobro de derechos y establecimiento de un sistema tarifario por el uso de agua, que incorpore el pago por los servicios ambientales hidrológicos que proporcionan los ecosistemas, a fin de destinar su producto a la conservación de los mismos.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+V. Fomentar la implementación de Servicios Ambientales con el fin de mantener o mejorar la sustentabilidad de los ecosistemas.
 
 VI. Establecer planes de protección y contingencia ambientales en zonas de alta vulnerabilidad, áreas naturales protegidas y corredores biológicos ante eventos meteorológicos extremos.
 
@@ -608,6 +614,26 @@ XIII. Impulsar la adopción de prácticas sustentables de manejo agropecuario, f
 XIV. Atender y controlar los efectos de especies invasoras.
 
 XV. Determinar los posibles escenarios climáticos y económicos que afecten los cultivos tradicionales y, en su caso, promover la reconversión productiva de acuerdo a la vocación natural del suelo y a la eficiencia productiva.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2016)</small>
+
+###### Artículo 41 Bis.
+
+Las Unidades de Mejora de los Servicios Ambientales, que se instrumenten, llevarán a cabo las siguientes actividades:
+
+a) Aplicar en las zonas de mejora, el recurso obtenido a través de los fideicomisos, fondos, fondos concurrentes, donaciones, herencias o por cualquier otro que reciban por medios legales.
+
+b) Establecer esquemas sustentables para el manejo integral de las zonas sujetas a procesos de mejora.
+
+c) Concertar y coordinar esfuerzos, así como gestionar y establecer convenios entre los sectores público, privado y social.
+
+d) Implementar análisis de costo-beneficio de los proyectos.
+
+e) Llevar a cabo y promover la realización de estudios técnicos, por sí, o en colaboración con las autoridades en la materia de los distintos órdenes de gobierno.
+
+f) Proveerse de asistencia técnica especializada en el manejo de programas de mejora de servicios ambientales.
+
+g) Transparentar la información y difundir entre los usuarios de los servicios ambientales, el manejo del gasto, así como los avances y beneficios de los programas de pago por servicios ambientales.
 
 ### CAPÍTULO OCTAVO. DE LA OBLIGACIÓN DE REPORTAR EMISIONES
 
@@ -786,3 +812,13 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los trece días del mes de junio del año dos mil trece.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. RAYMUNDO ROMERO MALDONADO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1382/2016 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 41, FRACCIÓN V; Y SE ADICIONAN EL ARTÍCULO 3 CON UNA FRACCIÓN XVI; Y UN ARTÍCULO 41 BIS, TODOS DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
