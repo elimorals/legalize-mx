@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-elecciones-y-participacion-ciudadana-64679"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-08-27"
-last_updated: "2014-06-30"
+last_updated: "2016-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 27 de agosto de 2008.
 
@@ -116,6 +116,10 @@ XIII. Tribunal Electoral: el Tribunal Electoral del Estado de Chiapas;
 XIV. Consejo General: el Consejo General del organismo público local electoral denominado Instituto de Elecciones y Participación Ciudadana, y
 
 XV. Fiscalía Electoral: la Fiscalía Electoral de la Procuraduría General de Justicia del Estado.
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+XVI. Estatuto: Estatuto del Servicio Profesional Electoral Nacional y del Personal de la Rama Administrativa;
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
@@ -2247,15 +2251,17 @@ Los Consejeros Electorales no podrán dejar de votar los asuntos que sean someti
 
 Los Consejeros Electorales podrán formular voto particular en los asuntos que sean sometidos a consideración del Consejo General, cuando disintieren del criterio mayoritario.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
+
 ###### Artículo 145.
 
 El Consejo General integrará las comisiones que considere necesarias para el desempeño de sus atribuciones con el número de miembros que acuerde en cada caso. Los partidos políticos podrán acreditar a un representante con derecho a voz en cada una de las comisiones, para cuyo efecto el Consejo emitirá el correspondiente reglamento interno.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+Independientemente de lo señalado en el párrafo anterior, el Consejo General integrará las Comisiones de Asociaciones Políticas; Organización Electoral; Educación Cívica y Capacitación; de Quejas y Denuncias; Fiscalización; Participación Ciudadana; así como de Seguimiento al Servicio Profesional Electoral las cuales funcionarán permanentemente y se integrarán por Consejeros Electorales.
 
-Independientemente de lo señalado en el párrafo anterior, el Consejo General integrará las Comisiones de Prerrogativas y Partidos Políticos; Organización Electoral, Capacitación y Educación Cívica, de Quejas y Denuncias, así como de Fiscalización las cuales funcionarán permanentemente y se integrarán exclusivamente por Consejeros Electorales.
+Todas las comisiones se integrarán con un mínimo de tres y un máximo de cinco Consejeros Electorales; podrán participar en ellas, con voz, pero sin voto, los representantes de los partidos políticos, salvo la de Seguimiento al Servicio Profesional Electoral Nacional, la de Quejas y Denuncias y Fiscalización.
 
-Las Comisiones Permanentes contarán con Secretarios Técnicos, que serán los Directores Ejecutivos del ramo, quienes asistirán a las sesiones sólo con derecho de voz.
+Las Comisiones Permanentes contarán con Secretarios Técnicos, que serán los Directores Ejecutivos o Titulares de Unidad del ramo, quienes asistirán a las sesiones sólo con derecho de voz.
 
 En todos los asuntos que se les encomienden, las comisiones deberán presentar un informe, dictamen o proyecto de resolución, según el caso, dentro del plazo que determine este Código o sea fijado por el Consejo General.
 
@@ -2347,9 +2353,9 @@ XXVII. Proponer al Gobernador del Estado un pliego de observaciones y propuestas
 
 XXVIII. Instalar un sistema electrónico de información para recibir y divulgar los resultados preliminares de las elecciones, en términos de las bases y criterios que acuerde el INE;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
 
-XXIX. Observar el Estatuto del Servicio Profesional Electoral Nacional;
+XXIX. Observar el Estatuto.
 
 XXX. Fijar las políticas y los programas generales del Instituto a propuesta de la Junta General Ejecutiva;
 
@@ -2409,7 +2415,9 @@ VIII. Recibir de los partidos políticos las solicitudes de registro de candidat
 
 IX. Presidir la Junta General Ejecutiva e informar al Consejo General de los trabajos de la misma;
 
-X. Someter al Consejo General las propuestas para la creación de nuevas unidades técnicas para el mejor funcionamiento del Instituto;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+X. Someter al Consejo General las propuestas para la creación de nuevas unidades para el mejor funcionamiento del Instituto;
 
 XI. Convocar en tiempo a los partidos políticos, para que nombren a sus representantes a efecto de integrar debidamente y en términos de este Código, el Consejo General y los Consejos Distritales y Municipales electorales;
 
@@ -2433,7 +2441,9 @@ XVIII. Proponer al Consejo General los programas de capacitación de los servido
 
 XIX. Solicitar el auxilio de la fuerza pública para mantener el orden durante la jornada electoral y en las sesiones de los Consejos electorales para garantizar la seguridad de sus integrantes;
 
-XX. Nombrar al personal profesional y técnico electoral necesario con señalamiento de sus funciones, atribuciones, competencias y emolumentos para el desempeño de las actividades del Consejo; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+XX. Nombrar al personal profesional y técnico de la Rama Administrativa, de conformidad con lo establecido en el Estatuto, con señalamiento de sus funciones, atribuciones, competencias y emolumentos para el desempeño de las actividades del Consejo; y,
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
@@ -2447,9 +2457,13 @@ XXII. Suscribir convenio con el INE para que asuma la organización integral del
 
 XXIII. Rendir el informe anual respecto del ejercicio y facultades delegadas u otras materias que le corresponda conocer al INE;
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
 
-XXIV. Las demás que señale este Código y demás ordenamientos aplicables, así como las conferidas por el Consejo General.
+XXIV. Coadyuvar con el INE en el ámbito del Servicio Profesional Electoral Nacional, conforme a las necesidades del servicio;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+XXV. Las demás que señale este Código y demás ordenamientos aplicables, así como las conferidas por el Consejo General.
 
 ###### Artículo 149.
 
@@ -2489,29 +2503,25 @@ XVI. Las demás que le sean conferidas por este Código, el Consejo General y su
 
 ### Capítulo V. De la Junta General Ejecutiva
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
 
 ###### Artículo 150.
 
 La Junta General Ejecutiva del Instituto será presidida por el Presidente del Consejo General; se integrará con el Secretario Ejecutivo y con los titulares de las Direcciones Ejecutivas y General siguientes:
 
-I. De Prerrogativas y Partidos Políticos;
+I. De Asociaciones Políticas;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+II. Educación Cívica y Capacitación Electoral;
 
-II. De Capacitación y Educación Cívica;
+III. De Organización Electoral;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+IV. De Administración;
 
-III. De Organización y Vinculación Electoral;
+V. De Participación Ciudadana;
 
-IV. De Administración.
+VI. Jurídica y de lo Contencioso.
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2014)</small>
-
-V. Jurídica y de lo Contencioso.
-
-El Secretario Ejecutivo presentará al Consejero Presidente, y éste a su vez a consideración del Consejo General, las propuestas para la creación de nuevas unidades técnicas para el mejor funcionamiento del Instituto, de acuerdo con la disponibilidad presupuestal.
+El Secretario Ejecutivo presentará al Consejero Presidente, y éste a su vez a consideración del Consejo General, las propuestas para la creación de nuevas unidades para el mejor funcionamiento del Instituto, de acuerdo con la disponibilidad presupuestal.
 
 ###### Artículo 151.
 
@@ -2535,7 +2545,9 @@ VI. Presentar a consideración del Consejo General el proyecto de dictamen de p�
 
 VII. Formular e integrar el anteproyecto de presupuesto del Instituto para someterlo a la aprobación del Consejo General, por conducto de su Presidente;
 
-VIII. Someter al Consejo General para su aprobación, las propuestas para la creación de nuevas unidades técnicas para el mejor funcionamiento del Instituto; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+VIII. Someter al Consejo General para su aprobación, las propuestas para la creación de nuevas unidades para el mejor funcionamiento del Instituto; y,
 
 IX. Las demás que le encomienden este Código, el Consejo General o su Presidente.
 
@@ -2577,7 +2589,9 @@ IX. Proveer lo necesario para que se publiquen los acuerdos y resoluciones que p
 
 X. Orientar y coordinar las acciones de las Direcciones Ejecutivas de los Consejos Distritales y Municipales electorales; así como proveer a los órganos del Instituto de los elementos necesarios para el cumplimiento de sus funciones;
 
-XI. Integrar y controlar la estructura orgánica de las Direcciones Ejecutivas y General, y demás órganos del Instituto, coadyuvando con el INE en el ámbito del Servicio Profesional Electoral Nacional, conforme a las necesidades del servicio y los recursos presupuestales autorizados;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+XI. Integrar y controlar la estructura orgánica de las Direcciones Ejecutivas y General, y demás órganos del Instituto, coadyuvando en el ámbito del Servicio Profesional Electoral Nacional, en términos del Estatuto y demás lineamientos que emita el INE, conforme a las necesidades del Servicio y los recursos presupuestales autorizados;
 
 XII. Establecer mecanismos de difusión de los resultados de las elecciones de Gobernador, Diputados y miembros de los Ayuntamientos;
 
@@ -2593,7 +2607,9 @@ XVII. Elaborar anualmente de acuerdo con las leyes aplicables, el proyecto del p
 
 XVIII. Someter a la aprobación del Consejo General, en su caso, el convenio que celebre con la autoridad federal electoral en relación con la información y documentos que habrá de aportar el Registro Federal de Electores, para los procesos locales;
 
-XIX. Recibir de la Dirección Ejecutiva de Organización y Vinculación Electoral copias de las actas de sus sesiones y demás documentos relacionados con el proceso electoral recabados de los Consejos Distritales y Municipales electorales;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+XIX. Recibir de la Dirección Ejecutiva de Organización Electoral copias de las actas de sus sesiones y demás documentos relacionados con el proceso electoral recabados de los Consejos Distritales y Municipales electorales;
 
 XX. Llevar el archivo del Consejo General;
 
@@ -2625,7 +2641,17 @@ XXXIII. Coadyuvar con el Contralor General en los procedimientos que este acuerd
 
 XXXIV. Remitir al Secretario del Consejo General del INE los informes sobre las elecciones de Gobernador, diputados y miembros de ayuntamientos; y
 
-XXXV. Las demás que le señalen este Código o el Consejo General.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+XXXV. Informar a la Dirección Ejecutiva del Servicio Profesional Electoral Nacional del INE, respecto de las quejas o denuncias que se reciban, así como de los Procedimientos Laborales disciplinarios que se inicien y resuelvan en contra de los miembros del Servicio del Instituto;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+XXXVI. Resolver el procedimiento laboral disciplinario, en los términos del Estatuto y de los lineamientos que para tal efecto emita el INE;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+XXXVII. Las demás que le señalen este Código o el Consejo General.
 
 ### Capítulo VII. De las Direcciones Ejecutivas
 
@@ -2637,9 +2663,11 @@ Al frente de cada una de las Direcciones de la Junta General, habrá un Director
 
 Los Directores Ejecutivos y General deberán cumplir con los mismos requisitos exigidos para ser Consejero Electoral, y contar con los conocimientos necesarios para el adecuado desarrollo de sus funciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2016)</small>
+
 ###### Artículo 155.
 
-La Dirección Ejecutiva de Prerrogativas y Partidos Políticos tendrá las siguientes atribuciones:
+La Dirección Ejecutiva de Asociaciones Políticas, tendrá las siguientes atribuciones:
 
 I. Recibir las solicitudes de registro de las organizaciones de ciudadanos que hayan cumplido con los requisitos establecidos en este Código para constituirse como partido político o como asociación política, e integrar el expediente respectivo para que el Secretario Ejecutivo lo someta a la consideración del Consejo General;
 
@@ -2659,7 +2687,9 @@ V. Apoyar las gestiones de los partidos políticos y candidatos independientes p
 
 VI. Realizar lo necesario para que los partidos políticos y candidatos independientes ejerzan sus prerrogativas de acceso a los tiempos en radio y televisión, en los términos establecidos por la Constitución Federal, las Leyes Generales la Constitución Particular y lo dispuesto en este Código; apoyando al Consejo General en la organización de debates entre candidatos;
 
-VII. Coadyuvar con los trabajos de la Comisión de Prerrogativas y Partidos Políticos, y asistir a sus sesiones con voz pero sin voto;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+VIl. Coadyuvar con los trabajos de la Comisión de Asociaciones Políticas.
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
@@ -2673,99 +2703,85 @@ XI. Formular las políticas, estrategias, criterios técnicos y lineamientos a q
 
 XII. Las demás que le confiera este Código.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
 
 ###### Artículo 156.
 
-La Dirección Ejecutiva de Capacitación y Educación Cívica tendrá las siguientes atribuciones:
+La Dirección Ejecutiva de Educación Cívica y Capacitación Electoral tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+l. Elaborar y proponer los programas de educación cívica para contribuir al fortalecimiento de la cultura política democrática y la formación ciudadana en la entidad;
 
-I. Elaborar y proponer los programas de educación cívica y, en su caso, los de capacitación electoral que desarrollen los órganos desconcentrados del Instituto;
+II. Coordinar y vigilar el cumplimiento de las estrategias, programas y acciones a que se refieren la fracción anterior;
 
-II. Coordinar y vigilar el cumplimiento de los programas a que se refiere la fracción anterior;
+III. Realizar los estudios y proponer los métodos para la implementación de las estrategias de educación cívica y la instrumentación de los mecanismos de participación ciudadana;
 
-III. Preparar el material didáctico y los instructivos electorales, así como aquellos correspondientes a la organización y desarrollo de los procedimientos de participación ciudadana;
+IV. Elaborar y proponer el material didáctico, y los instructivos electorales de educación cívica;
 
-IV. Orientar a los ciudadanos para el ejercicio de sus derechos y cumplimiento de sus obligaciones político-electorales, además de aquellas concernientes a la participación ciudadana;
+V. Orientar a los ciudadanos para el ejercicio de sus derechos y cumplimiento de sus obligaciones político-electorales, además de aquellas concernientes a la participación ciudadana;
 
-V. Llevar a cabo las acciones necesarias para exhortar a los ciudadanos que no hubiesen cumplido con las obligaciones establecidas en el presente Código, en particular las relativas a inscribirse en el Registro Federal de Electores y las de voto, a que lo hagan;
+VI. Llevar a cabo las acciones necesarias para exhortar a los ciudadanos que no hubiesen cumplido con las obligaciones establecidas en el presente Código, en particular las relativas a inscribirse en el Registro Federal de Electores y las de voto, a que lo hagan;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
-
-VI. Formular el programa de educación cívica y de la cultura político-democrática;
-
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
-
-VII. Coadyuvar con la Secretaria Ejecutiva en el cumplimiento del Estatuto del Servicio Profesional Electoral Nacional;
-
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+VIl. Formular el programa de educación cívica y de la cultura político-democrática;
 
 VIII. Diseñar y promover estrategias para la integración de mesas directivas de casillas y de capacitación electoral cuando esta facultad sea delegada por el INE;
-
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
 IX. Diseñar y proponer campañas de educación cívica en coordinación con la Fiscalía Electoral del Estado;
 
 X. Acordar con el Secretario Ejecutivo los asuntos de su competencia;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
-
-XI. Asistir a las sesiones de la Comisión de Capacitación y Educación Cívica sólo con derecho de voz, y coadyuvar con los trabajos de la misma; y
+XI. Asistir a las sesiones de la Comisión de Educación Cívica y Capacitación Electoral sólo con derecho de voz, y coadyuvar con los trabajos de la misma; y,
 
 XII. Las demás que le confiera este Código.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2014)</small>
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2016)</small>
+
+Artículo 156 bis.- La Dirección Ejecutiva de Participación Ciudadana tendrá las siguientes atribuciones:
+
+l. Elaborar y proponer a la Comisión de Participación Ciudadana, los programas de capacitación en materia de Participación Ciudadana, así como el contenido de los planes de estudio, materiales, manuales e instructivos de educación, capacitación, asesoría y comunicación de los Órganos de Representación Ciudadana, Organizaciones Ciudadanas, y ciudadanía en general;
+
+II. Instrumentar los programas en materia de Participación Ciudadana;
+
+III. Elaborar y proponer a la Comisión de Participación Ciudadana, los proyectos de convocatoria que deba emitir el Instituto Electoral, con motivo del desarrollo de los mecanismos de participación ciudadana previstos en la legislación aplicable;
+
+IV. Coordinar las (sic) procedimientos de participación ciudadana; y,
+
+V. Las demás que le confiera este código y la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
 
 ###### Artículo 157.
 
-La Dirección Ejecutiva de Organización y Vinculación Electoral tiene las siguientes atribuciones:
+La Dirección Ejecutiva de Organización Electoral tiene las siguientes atribuciones:
 
-I. Apoyar la integración, instalación y funcionamiento de los Consejos Distritales y Municipales electorales, así como de las casillas y de sus mesas directivas, tanto para los procesos electorales, como para los de participación ciudadana que lo requieran;
+l. Apoyar la integración, instalación y funcionamiento de los Consejos Distritales y Municipales electorales, así como de las casillas y de sus mesas directivas, tanto para los procesos electorales, como para los de participación ciudadana que lo requieran;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
-
-II. Elaborar los formatos de la documentación electoral con base en los lineamientos que (sic) efecto emita el INE, así como los relativos a los procedimientos de participación ciudadana, conforme a este Código, y someterlos a la consideración del Secretario Ejecutivo para su aprobación por el Consejo General;
-
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+II. Elaborar los formatos de la documentación electoral con base en los lineamientos que a efecto emita el INE, así como los relativos a los procedimientos de participación ciudadana, conforme a este Código, y someterlos a la consideración del Secretario Ejecutivo para su aprobación por el Consejo General;
 
 III. Proveer lo necesario para la impresión y distribución de la documentación y material electoral, así como de los procedimientos de participación ciudadana, en los términos que para tales efectos emita el INE;
 
 IV. Recabar de los Consejos Distritales y Municipales electorales, la documentación relativa a sus sesiones y la de los respectivos procesos electorales, así como de los procedimientos de participación ciudadana, en los cuales tengan participación en términos del presente Código;
 
-V. Proporcionar la documentación necesaria que permita a los Consejos electorales, realizar sus atribuciones;
+V. Desarrollar las actividades que se requieran para garantizar el derecho de los ciudadanos a participar como observadores electorales, de conformidad con las reglas, lineamientos, criterios y formatos que al respecto emita el INE;
 
-VI. Llevar la estadística de las elecciones estatales y de los procedimientos de participación ciudadana;
+VI. Proporcionar la documentación necesaria que permita a los Consejos electorales, realizar sus atribuciones;
 
-VII. Establecer la logística y operativo para obtención de los resultados de las elecciones y de los procedimientos de participación ciudadana;
+VII. Llevar la estadística de las elecciones estatales y de los procedimientos de participación ciudadana;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+VIII. Establecer la logística y operativo para obtención de los resultados de las elecciones y de los procedimientos de participación ciudadana;
 
-VIII. Coadyuvar en el seguimiento a las funciones delegadas por el INE, en términos de la Ley de Instituciones;
+IX. Coadyuvar en el seguimiento a las funciones delegadas por el INE, en términos de la Ley de Instituciones;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+X. Coadyuvar con la elaboración de los Informes que al efecto haya que rendir ante la Unidad Técnica de Vinculación del INE;
 
-IX. Coadyuvar con la elaboración de los Informes que al efecto haya que rendir ante la Unidad Técnica de Vinculación del INE;
-
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
-
-X. Ejecutar los acuerdos y disposiciones relativas a la coordinación con el INE respecto de la organización del proceso electoral;
-
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
-
-XI. Acordar con el Secretario Ejecutivo los asuntos de su competencia;
-
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2014)</small>
+XI. Ejecutar los acuerdos y disposiciones relativas a la coordinación con el INE respecto de la organización del proceso electoral;
 
 XII. Recibir para efectos de información y estadística electoral, copias de los expedientes de todas las elecciones, así como de los procedimientos de participación ciudadana;
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2014)</small>
-
 XIII. Asistir a las sesiones de la Comisión de Organización Electoral sólo con derecho de voz, y coadyuvar con los trabajos de la misma;
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2014)</small>
+XIV. Acordar con el Secretario Ejecutivo los asuntos de su competencia;
 
-XIV. Las demás que le confiera este Código.
+XV. Las demás que le confiera este Código.
 
 ###### Artículo 158.
 
@@ -2943,9 +2959,9 @@ II. Cuando el crecimiento demográfico de las secciones lo exija, se estará a l
 
 a) En caso de que el número de ciudadanos inscritos en la lista nominal de electores correspondiente a una sección sea superior a 1,500 electores, se instalarán en un mismo sitio o local, tantas casillas como resulte de dividir alfabéticamente el número de ciudadanos inscritos en la lista entre setecientos cincuenta;
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
 
-b) Asimismo, cuando las condiciones geográficas de infraestructura y socioculturales de una sección hagan difícil el acceso de todos los electores residentes en ella a un mismo sitio, el Consejo General, por sí o a petición de uno o más partidos políticos, podrá acordar la instalación de una o varias casillas extraordinarias en lugares que ofrezcan un fácil acceso a los electores. El número y su ubicación se determinarán mediante los estudios técnicos y de factibilidad que realice el propio Instituto a través de la Dirección Ejecutiva de Organización y Vinculación Electoral, la que podrá apoyarse en los elementos técnicos e información generados por el Registro Federal de Electores. El acuerdo del Consejo General por el que se determine la instalación de casillas extraordinarias deberá de informarse al Consejo Distrital o Municipal, según sea el caso, dentro de las 72 horas siguientes a su aprobación;
+b) Asimismo, cuando las condiciones geográficas de infraestructura y socioculturales de una sección hagan difícil el acceso de todos los electores residentes en ella a un mismo sitio, el Consejo General, por sí o a petición de uno o más partidos políticos, podrá acordar la instalación de una o varias casillas extraordinarias en lugares que ofrezcan un fácil acceso a los electores. El número y su ubicación se determinarán mediante los estudios técnicos y de factibilidad que realice el propio Instituto a través de la Dirección Ejecutiva de Organización Electoral, la que podrá apoyarse en los elementos técnicos e información generados por el Registro Federal de Electores. El acuerdo del Consejo General por el que se determine la instalación de casillas extraordinarias deberá informarse al Consejo Distrital o Municipal, según sea el caso, dentro de las 72 horas siguientes a su aprobación;
 
 III. En cada casilla se procurará la instalación de mamparas donde los votantes puedan decidir el sentido de su sufragio. El diseño y ubicación de estas mamparas en las casillas se hará de manera que garanticen el secreto del voto; y
 
@@ -3255,7 +3271,9 @@ XII. Fortalecer la planeación electoral y de participación ciudadana con enfoq
 
 XIII. Promover la actualización a los reglamentos, lineamientos, manuales y normatividad administrativa del Instituto, contribuyendo a su simplificación y modernización, que garantice una administración eficiente y una alta precisión en los procesos electorales y de participación ciudadana;
 
-XIV. Promover en coordinación con las Direcciones Ejecutivas de Administración y de Capacitación y Educación Cívica, cursos de capacitación con el propósito de mejorar el servicio administrativo y electoral;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+XIV. Promover en coordinación con las Direcciones Ejecutivas de Administración y de Educación Cívica y Capacitación Electoral, cursos de capacitación con el propósito de mejorar el servicio administrativo y electoral;
 
 XV. Vigilar y verificar el cumplimiento de las obligaciones derivadas de las disposiciones legales, reglamentos, lineamientos, manuales y diversa normatividad vigentes que regulen el funcionamiento del Instituto;
 
@@ -3521,11 +3539,11 @@ Para todo (sic) dispuesto al servicio profesional de los servidores públicos de
 
 Todo el personal del Instituto será considerado de confianza y quedara sujeto al régimen establecido en la fracción XIV, apartado b) del artículo 123 de la Constitución Federal.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
 
 ###### Artículo 218.
 
-Las diferencias o conflictos y sus respectivos servidores serán resueltas por el Tribunal Electoral, conforme al procedimiento previsto en el Libro Sexto de este Código.
+Las diferencias o conflictos del Organismo Público local Electoral y los miembros del Servicio Profesional Electoral y de la Rama Administrativa del Instituto, serán resueltas conforme al Libro Sexto de este Código y del Estatuto.
 
 # Libro Cuarto. Del Proceso Electoral
 
@@ -4129,9 +4147,9 @@ I. El Consejo General solicitará al Registro Federal Electoral en el mes de mar
 
 a) Una vez recibidas las listas nominales de electores, el Consejo General procederá a insacular el 15% de cada sección electoral, sin que en ningún caso el número de insaculados sea menor a cincuenta. Para ello, podrá apoyarse en la información de los listados nominales y el Centro de Cómputo del Instituto Federal Electoral, conforme a los procedimientos que al efecto acuerde;
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
 
-b) A los ciudadanos que resulten seleccionados se les convocará para que asistan a un curso de capacitación que impartirá, en su caso, el personal de la Dirección Ejecutiva de Capacitación y Educación Cívica del Instituto;
+b) A los ciudadanos que resulten seleccionados se les convocará para que asistan a un curso de capacitación que impartirá, en su caso, el personal de la Dirección Ejecutiva de Educación Cívica y Capacitación Electoral del Instituto;
 
 > <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2011)</small>
 
@@ -5405,7 +5423,9 @@ I. Respecto de los partidos políticos:
 
 a) Con amonestación pública;
 
-b) Con multa de mil a diez mil días de salario mínimo general vigente en el Estado, según la gravedad de la falta. En los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes, o de los candidatos para sus propias campañas, se aplicará además un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior;
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
+
+b) Con multa de uno a diez mil días de salario mínimo general, según la gravedad de la falta. En los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes, o de los candidatos para sus propias campañas, se aplicará además un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior;
 
 c) Según la gravedad de la falta, con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución;
 
@@ -5509,7 +5529,9 @@ Se considerará reincidente al infractor que habiendo sido declarado responsable
 
 Las multas deberán ser pagadas en la Dirección Ejecutiva de Administración del Instituto; si el infractor no cumple con su obligación el Instituto dará vista a las autoridades hacendarias a efecto de que procedan a su cobro conforme la legislación aplicable. En el caso de los partidos políticos el monto de las mismas se restara de sus ministraciones de gasto ordinario conforme a lo que se determine en la resolución.
 
-Los recursos obtenidos por la aplicación de sanciones económicas derivadas de infracciones cometidas por los sujetos del régimen sancionador electoral considerados en este Libro, serán destinados al Consejo de Ciencia y Tecnología del Estado de Chiapas, en los términos de las disposiciones aplicables; los recursos serán utilizados para incrementar rubros del presupuesto de egresos del estado para el fortalecimiento de la infraestructura y proyectos estratégicos en materia de ciencia, tecnología e innovación, así como la formación de recursos humanos y no podrán ejercerse en servicios personales ni en conceptos distintos a los mencionados. Para tal efecto, dichos recursos deberán ser entregados a la Secretaría de Hacienda dentro de los treinta días naturales siguientes a la fecha en que se realice el pago o se haga efectivo el descuento, y ésta a su vez deberá canalizarlos al Consejo de Ciencia y Tecnología del Estado de Chiapas en un plazo no mayor a treinta días naturales.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
+
+Los recursos obtenidos por la aplicación de sanciones económicas derivadas de infracciones cometidas por los sujetos del régimen sancionador electoral considerados en este Libro, serán destinados al Consejo de Ciencia y Tecnología del Estado de Chiapas, en los términos de las disposiciones aplicables; los recursos serán utilizados para incrementar rubros del presupuesto de egresos del Estado para el fortalecimiento de la infraestructura y proyectos estratégicos en materia de ciencia, tecnología e innovación, así como la formación de recursos humanos y no podrán ejercerse en servicios personales ni en conceptos distintos a los mencionados. Para tal efecto, dichos recursos deberán ser remitidos al Consejo de Ciencia y Tecnología del Estado de Chiapas dentro de los treinta días hábiles siguientes a la fecha en que se realice el pago o se haga efectivo el descuento.
 
 ###### Artículo 351.
 
@@ -6529,9 +6551,11 @@ En la etapa de cómputos y resultados, el candidato agraviado sólo podrá impug
 
 ### Capítulo Único. Del procedimiento
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
+
 ###### Artículo 444.
 
-El juicio laboral regulado en el presente Título, es el que se deriva del vínculo que surge con motivo del servicio electoral prestado entre uno o varios de sus servidores y las autoridades públicas electorales, abarcando todos los casos en que se presente un litigio, de conformidad con las disposiciones establecidas en el estatuto del servicio profesional electoral o algún otro ordenamiento legal y sin perjuicio de que la relación que origine la controversia, se encuentre regida, en el aspecto sustantivo, por normas administrativas o por disposiciones identificables de algún modo con el derecho del trabajo.
+El juicio laboral regulado en el presente Título, es el que se deriva del vínculo que surge con motivo del servicio electoral prestado entre uno o varios de sus servidores y las autoridades públicas electorales, abarcando todos los casos en que se presente un litigio, de conformidad con las disposiciones establecidas en el Estatuto o algún otro ordenamiento legal y sin perjuicio de que la relación que origine la controversia, se encuentre regida, en el aspecto sustantivo, por normas administrativas o por disposiciones identificables de algún modo con el derecho del trabajo.
 
 ###### Artículo 445.
 
@@ -6555,11 +6579,11 @@ IV. Los principios generales del derecho.
 
 Los trabajadores o funcionarios de cualquiera de los organismos electorales del Estado, que hubiesen sido sancionados o destituidos de su cargo o que se consideren haber sido afectados en sus derechos y prestaciones laborales, podrán inconformarse mediante demanda que presenten directamente ante el Tribunal Electoral, dentro de los quince días hábiles siguientes al que se le notifique la determinación de la autoridad competente de dichos organismos electorales.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
 
 ###### Artículo 448.
 
-Es requisito de procedibilidad del juicio, que el servidor público involucrado haya agotado, en tiempo y forma, las instancias previas que establezcan, en su caso, este Código, los respectivos estatutos del Servicio Profesional Electoral Nacional o el correspondiente reglamento interior.
+Es requisito de procedibilidad del juicio, que el servidor público involucrado haya agotado, en tiempo y forma, las instancias previas que establezcan, en su caso, el Estatuto, este Código y el correspondiente reglamento interior.
 
 ###### Artículo 449.
 
@@ -8611,7 +8635,9 @@ II. La comunicación del Ejecutivo deberá expresar los motivos y las considerac
 
 III. El Consejo General del Instituto sesionará en un plazo no mayor de 10 días naturales a partir de la comunicación a que se refiere la fracción I de este artículo.
 
-IV. El Instituto a través de la Dirección Ejecutiva de Organización y Vinculación Electoral convocará a la ciudadanía a la realización del referendo dentro de los cinco días naturales siguientes a su integración. La convocatoria deberá ser publicada en el periódico oficial y que difundirá al menos en tres ocasiones en los periódicos de mayor circulación y difundida a través de los medios masivos de comunicación en el Estado.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+IV. El Instituto a través de la Dirección Ejecutiva de Participación Ciudadana convocará a la ciudadanía a la realización del referendo dentro de los cinco días naturales siguientes a su integración. La convocatoria deberá ser publicada en el Periódico Oficial y que difundirá al menos en tres ocasiones en los periódicos de mayor circulación y difundida a través de los medios masivos de comunicación en el Estado.
 
 V. En la convocatoria se expresará la fecha en la que se efectuará el referendo, que será entre treinta y sesenta días después de su publicación en el periódico oficial; en todo caso, contendrá las siguientes bases:
 
@@ -9750,3 +9776,21 @@ Artículo Décimo Segundo.- Una vez instalada la Comisión Permanente de Fiscali
 Artículo Décimo Tercero.- Una vez que sean nombrados por el Senado de la República, los Magistrados del Tribunal Electoral del Estado de Chiapas, el Ejecutivo local, a través de la Secretaria de Hacienda, proveerá lo necesario para que en un plazo de 30 días, el Tribunal cuente con los recursos humanos, materiales y financieros para su debido funcionamiento,
 
 Artículo Décimo Cuarto.- Una vez instalado el Tribunal Electoral, procederá dentro de los 30 días siguientes a la aprobación de su reglamento.
+
+P.O. 29 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- El Instituto de Elecciones y Participación Ciudadana, adecuará la normatividad que le rige con base en las disposiciones de esta reforma, dentro de los 120 días a partir de la entrada en vigor del presente Decreto.
+
+Artículo Cuarto.- El Consejo General del Instituto de Elecciones y Participación Ciudadana, a la entrada en vigor del presente Decreto, deberá realizar las adecuaciones administrativas, financieras y presupuestales necesarias para dar debido cumplimiento a las disposiciones del código comicial y del Estatuto.
+
+Artículo Quinto.- A la entrada en vigor del presente Decreto, los asuntos sustanciados ante el Tribunal Electoral del Estado de Chiapas, continuarán desahogándose conforme a las normas vigentes al momento de su inicio y en tanto se realicen las reformas a las disposiciones legales aplicables.
+
+Artículo Sexto.- El Consejo General del Instituto de Elecciones y Participación Ciudadana, para la nueva organización estructural se estará a lo dispuesto por este Código, el Estatuto, el Catálogo de Cargos y Puestos del Servicio Profesional Electoral Nacional y demás normatividad aplicable de acuerdo al sistema del Servicio Profesional Electoral en lo correspondiente al Organismo Público local Electoral, tanto para quienes integren el Servicio Profesional Electoral como para el personal de la Rama Administrativa.
+
+Artículo Séptimo.- El Consejo General del Organismo Público local Electoral, presentará en tiempo y forma ante la Secretaría de Hacienda, la nueva organización estructural para la adecuación presupuestal con base al Estatuto del Servicio Profesional Electoral Nacional y del Personal de la Rama Administrativa.
