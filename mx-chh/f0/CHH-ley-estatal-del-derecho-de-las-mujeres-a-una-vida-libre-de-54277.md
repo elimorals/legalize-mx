@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-del-derecho-de-las-mujeres-a-una-vida-libre-de-5427
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-24"
-last_updated: "2014-07-16"
+last_updated: "2016-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CHIHUAHUA
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 859/2012, PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2016.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2007.
 
@@ -44,6 +42,8 @@ DECRETA
 ###### ARTÍCULO ÚNICO.
 
 Se crea la Ley Estatal del Derecho de las Mujeres a una Vida Libre de Violencia, para quedar de la siguiente manera:
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 859/2012, PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL.</small>
 
 LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
@@ -334,6 +334,10 @@ IV. La Dirección General del DIF Estatal.
 V. Las dependencias y entidades encargadas de aplicar programas en favor de las mujeres en los municipios del Estado. Estas instancias se convocarán a las sesiones en caso de que los temas a tratar sean de su competencia;
 
 VI. Cuatro representantes de las organizaciones de la sociedad civil en el Estado que trabajen con y para las mujeres.
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+VII. Quien presida la Comisión de Igualdad, Género y Familia del Poder Legislativo del Estado.
 
 Podrán ser invitados a las sesiones del Consejo las y los Secretarios, Directores, Directoras, Coordinadores y Coordinadoras Generales o cualquier funcionario o funcionaria de la administración pública estatal, así como asesores externos, cuando por la naturaleza de algún asunto a tratar, y a consideración de la Presidencia del Consejo, sea necesario su punto de vista para la toma de decisiones, mismos que participarán dentro de él, con voz, pero sin voto.
 
@@ -649,17 +653,7 @@ XIV. Las demás previstas para el cumplimiento de esta Ley.
 
 ###### Artículo 33.
 
-Son atribuciones de la Secretaría de Desarrollo Municipal:
-
-I. Participar en la elaboración y ejecución del Programa, y en el diseño de nuevos modelos de prevención y erradicación de la violencia contra las mujeres;
-
-II. Promover una adecuada coordinación con los municipios a fin de erradicar la violencia contra las mujeres;
-
-III. Brindar la asesoría que requieran los municipios a fin de suscribir convenios y acuerdos de colaboración con autoridades estatales, para el eficaz cumplimiento del Programa;
-
-IV. Convocar, concertar, coordinar y promover la integración y participación de los municipios en el Sistema; y
-
-V. Las demás previstas para el cumplimiento de esta Ley.
+(DEROGADO, P.O. 29 DE JUNIO DE 2016)
 
 ###### Artículo 34.
 
@@ -976,3 +970,11 @@ P.O. 16 DE JULIO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1366/2016 II P.O., MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 17 Y SE DEROGA EL ARTÍCULO 33, AMBOS DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
