@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-seguridad-publica-del-estado-de-quintana-roo-98705"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-24"
-last_updated: "2013-12-24"
+last_updated: "2016-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2016.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 24 de diciembre de 2013.
 
@@ -43,9 +43,11 @@ LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE QUINTANA ROO
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2016)</small>
+
 ###### Artículo 1.
 
-La presente ley es de orden público e interés social y de observancia general en todo el territorio del Estado de Quintana Roo, tiene por objeto:
+La presente Ley es de orden público e interés social y de observancia general en todo el territorio del Estado de Quintana Roo, tiene por objeto:
 
 I. Regular la función de la Seguridad Pública y la prestación de los servicios a cargo del Estado, los Municipios y las instancias auxiliares legalmente constituidas de conformidad a esta ley y a la normatividad aplicable;
 
@@ -53,7 +55,9 @@ II. Establecer las bases generales de coordinación entre el Estado, los Municip
 
 III. Fijar las condiciones generales para la profesionalización y servicio de carrera del personal e Instituciones Policiales, de Seguridad Pública y de Procuración de Justicia del Estado y de los Municipios.
 
-La ley se aplicará atendiendo a las disposiciones que en la materia establecen:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2016)</small>
+
+La Ley se aplicará atendiendo a las disposiciones que en la materia establecen:
 
 a) La Constitución Política de los Estados Unidos Mexicanos;
 
@@ -63,7 +67,9 @@ c) La Ley General del Sistema Nacional de Seguridad Pública;
 
 d) La Ley Orgánica de la Administración Pública del Estado;
 
-e) La Ley Orgánica de la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
+
+e) Ley Orgánica de la Fiscalía General del Estado.
 
 f) La Ley de Ejecución de Penas y medidas Judiciales del Estado de Quintana Roo;
 
@@ -265,9 +271,11 @@ El Estado y los Municipios establecerán los mecanismos e instrumentos necesario
 
 ### CAPÍTULO PRIMERO. DE LAS AUTORIDADES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2016)</small>
+
 ###### Artículo 14.
 
-Son Autoridades en materia de Seguridad Pública:
+Son autoridades en materia de Seguridad Pública:
 
 A. Estatales:
 
@@ -279,7 +287,9 @@ III. El Secretario de Seguridad Pública;
 
 IV. Los Magistrados, Jueces en Materia Penal y de Justicia para Adolescentes del Tribunal Superior de Justicia del Estado;
 
-V. El Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+V. El Fiscal General del Estado.
 
 VI. El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública; y
 
@@ -911,9 +921,11 @@ Las Corporaciones de Servicio Municipal, únicamente podrán ser creadas o supri
 
 ### CAPÍTULO SEXTO. DEL SERVICIO PÚBLICO DE ESCOLTA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2016)</small>
+
 ###### Artículo 47.
 
-Es de interés público proteger la integridad física de los servidores públicos del Poder Ejecutivo y Judicial del Estado que acrediten encontrarse en situación de riesgo en razón de la naturaleza propia de su encomienda, esto en razón de que generen o hayan generado acciones de investigación, persecución de delitos, administración e impartición de justicia y mantenimiento del orden y la paz pública durante el ejercicio del encargo, para tal efecto se constituye el servicio público de escolta.
+Es de interés público proteger la integridad física de los servidores públicos del Poder Ejecutivo, Legislativo y Judicial por la naturaleza propia de su encomienda, esto en razón de que generen o hayan generado acciones de investigación, persecución y legislación de delitos, administración e impartición de justicia y mantenimiento del orden y la paz pública, así como administración de recursos públicos y personal, durante el ejercicio del encargo, para tal efecto se constituye el servicio público de escolta.
 
 El servicio público de escolta será una unidad administrativa de la Secretaría de Seguridad Pública.
 
@@ -921,47 +933,61 @@ El servicio público de escolta será una unidad administrativa de la Secretarí
 
 El servicio público de escolta tiene como finalidad proveer la protección que se indica en el artículo que antecede; la organización y funcionamiento del mismo se preverá en el reglamento respectivo que al efecto se expida, atendiendo las disposiciones que se contemplan en la presente ley.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
+
 ###### Artículo 49.
 
-En el presupuesto del Poder Ejecutivo se contemplarán los recursos pertinentes para proveer al servicio público de escolta de todo lo necesario para desempeñar correctamente la función asignada.
+En el presupuesto del Poder Ejecutivo se contemplarán los recursos pertinentes para proveer el servicio público de escolta de todo lo necesario para desempeñar correctamente la función asignada. Por cuestiones de seguridad, será considerada información reservada o confidencial toda la relacionada a los escoltas asignados a ex funcionarios así como los recursos materiales que les sean asignados.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
 
 ###### Artículo 50.
 
 El servicio público de escolta tendrá dos órganos de decisión respecto del otorgamiento de la protección a servidores y ex servidores públicos: El Comité de Autorización de Escoltas a Servidores Públicos y el Comité de Autorización de Escoltas a Ex Servidores Públicos.
 
-El Comité de Autorización de Escoltas para Servidores Públicos que se encuentren en funciones se integra con el Secretario de Gobierno, el Secretario de Seguridad Pública y el Procurador General de Justicia de la entidad, presidiendo el primero.
+El Comité de Autorización de Escoltas para Servidores Públicos que se encuentren en funciones se integra con el Secretario de Gobierno, el Secretario de Seguridad Pública y el Fiscal General de Justicia de la Entidad, presidiendo el primero.
 
-El Comité de Autorización de Escoltas para Ex Servidores Públicos se integra con el Secretario de Gobierno, Secretario de Hacienda y el Oficial Mayor del Gobierno del Estado, presidiendo el primero. Concurren solamente con voz al Comité referido, el Secretario de Seguridad Pública y el Procurador General de Justicia.
+El Comité de Autorización de Escoltas para Ex Servidores Públicos se integra con el Secretario de Gobierno, Secretario de Finanzas y Planeación y el Oficial Mayor del gobierno del Estado, presidiendo el primero. Concurren solamente con voz al Comité referido, el Secretario de Seguridad Pública y el Fiscal General.
 
-En todos los casos, la petición de los interesados para solicitar la protección por medio del servicio público de escolta se deberá dirigir al Comité correspondiente y para otorgarse, se requerirá al menos el voto mayoritario de los integrantes del respectivo Comité.
+En todos los casos, el Comité determinará el número de escoltas y recursos materiales que sean asignados a cada ex funcionario de los referidos en el artículo 47.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
 
 ###### Artículo 51.
 
-El Gobernador del Estado tendrá derecho a continuar con la protección, de manera automática; así como, para su cónyuge e hijos, una vez que haya concluido el encargo.
+El Gobernador del Estado tendrá derecho a continuar con la protección de manera automática; así como para su cónyuge e hijos, una vez que haya concluido el encargo por un tiempo irrevocable de 15 años.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2016)</small>
 
 ###### Artículo 52.
 
-Tendrá derecho a continuar con la protección, cualquier otro ex servidor público del Poder Ejecutivo y Judicial que tenga la necesidad de ser protegido, en razón de los servicios prestados en materia de seguridad pública, procuración e impartición de justicia, previa solicitud que formule al Comité de Autorización respectivo, a más tardar en los quince días naturales posteriores a la conclusión del encargo.
+Tendrá derecho a continuar con la protección, cualquier otro ex servidor público del Poder Ejecutivo, Legislativo y Judicial que en razón de los servicios prestados en materia de seguridad pública, procuración e impartición de justicia, legislación sobre delitos o en las Secretarías de Gobierno, Finanzas y Planeación y de la Gestión Pública, que por sus funciones estrechamente vinculadas a los servicios citados anteriormente dentro de la administración pública y los Poderes Legislativo y Judicial del Estado y que tenga la necesidad de ser protegido.
 
-La respuesta y en su caso, el otorgamiento de la protección, deberá producirse dentro de las 48 horas siguientes a la recepción de la solicitud de mérito.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 29 DE JUNIO DE 2016)</small>
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
 
 ###### Artículo 53.
 
-Los ex servidores públicos para gozar del servicio público de escolta requieren haber desempeñado el cargo durante dos años como mínimo. La protección se otorgará por un tiempo igual al que se estuvo en funciones, prorrogable por un término igual, en tanto que el interesado acredite ante el comité correspondiente que subsista la necesidad.
+Los ex servidores públicos para gozar del servicio público de escolta requieren haber desempeñado el cargo durante dos años como mínimo. La protección se otorgará hasta por 8 años.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2016)</small>
 
 ###### Artículo 54.
 
-El número de personal, equipo, vehículos y demás instrumentos para la protección de los ex servidores públicos, no será mayor de la mitad de los que éstos contaban mientras desempeñaron el encargo.
+El número de personal, equipo, vehículos y demás instrumentos para la protección de los ex servidores públicos, no será menor de los que éstos contaban mientras desempeñaron el encargo.
 
 Los miembros de las escoltas y recursos materiales que les sean asignados, únicamente podrán destinarse a funciones de protección, seguridad, custodia y vigilancia de las personas a la (sic) que se le haya asignado en términos del presente capitulo.
 
-El servicio de escolta se revocará cuando los servidores públicos a que se refiere el presente capitulo:
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
 
-a) Lo soliciten por escrito al Comité correspondiente;
+El Servicio de escolta se revocará cuando concluya el tiempo por el que fueron asignados.
 
-b) Desempeñen otro cargo en materia de seguridad, procuración, administración e impartición de justicia o que por sus funciones tengan derecho a escolta, y
+a) (DEROGADO, P.O. 29 DE JUNIO DE 2016)
 
-c) Cuando incurran en la comisión de un delito considerado como grave por la Legislación Penal Federal o Estatal.
+b) (DEROGADO, P.O. 29 DE JUNIO DE 2016)
+
+c) (DEROGADO, P.O. 29 DE JUNIO DE 2016)
 
 ### CAPÍTULO SÉPTIMO. DE LA RELACIÓN JURÍDICA ENTRE LAS INSTITUCIONES POLICIALES Y SUS INTEGRANTES
 
@@ -2863,7 +2889,9 @@ III. El Secretario de Seguridad Pública, quién suplirá al Secretario de Gobie
 
 IV. El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública, quien fungirá como Secretario del Consejo Estatal;
 
-V. El Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+V. El Fiscal General del Estado.
 
 VI. El Comisario General de la Policía Estatal;
 
@@ -2999,13 +3027,17 @@ Cuando surja alguna controversia entre los integrantes del Consejo Estatal, con 
 
 ### CAPÍTULO QUINTO. DE LAS COMISIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2016)</small>
+
 ###### Artículo 219.
 
-El Consejo Estatal establecerá comisiones colegiadas en las que participe un Presidente Municipal, un representante de las siguientes Instituciones:
+El Consejo Estatal establecerá comisiones colegiadas en las que participe un presidente municipal, un representante de las siguientes instituciones:
 
 I. Secretaría de Seguridad Pública;
 
-II. Procuraduría General de Justicia del Estado; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+II. Fiscalía General del Estado.
 
 III. Un representante de cualquiera de las instituciones federales que integran el Consejo Estatal.
 
@@ -3199,9 +3231,11 @@ Cuando para el cumplimiento de la función de seguridad pública sea necesaria l
 
 En el Estado se establecerán Consejos Municipales, encargados de la coordinación, planeación y supervisión del servicio de seguridad pública en sus respectivos ámbitos de gobierno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2016)</small>
+
 ###### Artículo 233.
 
-Los Consejos Municipales estarán integrados por:
+Los Consejos Municipales, estarán integrados por:
 
 I. El Presidente Municipal, quien lo presidirá;
 
@@ -3217,7 +3251,9 @@ VI. El Comisario General o su equivalente en el Ayuntamiento correspondiente;
 
 VII. El Comandante de la Policía Federal en la plaza;
 
-VIII. Un representante del Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+VIII. Un representante del Fiscal General del Estado.
 
 IX. Un representante de la Policía Estatal; y
 
@@ -3741,9 +3777,11 @@ Estos fondos se entregarán mensualmente por la Secretaría de Finanzas y Planea
 
 Los Municipios reportarán trimestralmente a la Secretaría Ejecutiva, el ejercicio de los recursos de los fondos estatales y el avance en el cumplimiento de las metas, así como las modificaciones realizadas a los convenios de colaboración y sus anexos técnicos en la materia o el acuerdo correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2016)</small>
+
 ###### Artículo 298.
 
-Las aportaciones estatales que reciban la Secretaría, la Procuraduría General de Justicia y los Municipios, se destinarán exclusivamente a los siguientes rubros:
+Las aportaciones estatales que reciban la Secretaría, la Fiscalía General del Estado y los Municipios, se destinarán exclusivamente a los siguientes rubros:
 
 I. Reclutamiento, formación, selección, evaluación y depuración de los recursos humanos vinculados con tareas de seguridad pública y procuración de justicia;
 
@@ -3757,21 +3795,25 @@ V. Construcción, mejoramiento o ampliación de las instalaciones para la procur
 
 VI. Seguimiento y evaluación de los programas señalados.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
+
 ###### Artículo 299.
 
-Los recursos para el otorgamiento de estímulos económicos para los agentes del Ministerio Público y peritos de la Procuraduría General de Justicia del Estado, policías investigadores, policías y de custodia, tendrán el carácter de no regularizables en los Presupuestos de Egresos del Estado y los municipios de los ejercicios subsecuentes. Las responsabilidades laborales que deriven de tales recursos estarán a cargo de cada instancia, en los términos de la presente ley.
+Los recursos para el otorgamiento de estímulos económicos para los agentes del Ministerio Público y peritos de la Fiscalía General del Estado, policías investigadores, policías y de custodia, tendrán el carácter de no regularizables en los Presupuestos de Egresos del Estado y los Municipios de los ejercicios subsecuentes. Las responsabilidades laborales que deriven de tales recursos estarán a cargo de cada instancia, en los términos de la presente Ley.
 
-Dichos recursos deberán aplicarse conforme a los programas derivados de la Política Estatal de Seguridad Pública, acordados con la Procuraduría General de Justicia, la Secretaría de Seguridad Pública Estatal y los Municipios, conforme a la ley.
+Dichos recursos deberán aplicarse conforme a los programas derivados de la Política Estatal de Seguridad Pública, acordados con la Fiscalía General del Estado, la Secretaría de Seguridad Pública y los Municipios, conforme a la Ley.
 
 ###### Artículo 300.
 
 Serán materia de anexos específicos entre el Estado y los municipios, los programas de la Red Estatal de Telecomunicaciones para la Seguridad Pública, Procuración de Justicia y el Servicio Telefónico de Emergencia 066, el sistema de denuncia anónima 089 y del Centro de Control, Computo y Comando.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
+
 ###### Artículo 301.
 
-El control en el manejo de los recursos estatales a que se refiere este Capítulo, quedará a cargo de la dependencia que los ejerce; asimismo, la evaluación y fiscalización de dichos recursos quedará a cargo de la Secretaría Ejecutiva del Sistema Estatal de Seguridad Pública, la Secretaría de la Contraloría del Estado, la Secretaría de Finanzas y Planeación y del Órgano de Fiscalización Superior del Estado, en sus respectivos ámbitos de competencia.
+El control en el manejo de los recursos estatales a que se refiere este Capítulo, quedará a cargo de la dependencia que los ejerce; asimismo, la evaluación y fiscalización de dichos recursos quedará a cargo de la Secretaría Ejecutiva del sistema Estatal de Seguridad Pública, la Secretaría de la Gestión Pública, la Secretaría de Finanzas y Planeación y del Órgano de Fiscalización Superior del Estado, en sus respectivos ámbitos de competencia.
 
-La Procuraduría General de Justicia y los Municipios, proporcionarán al Ejecutivo del Estado la información financiera, operativa y estadística que les sea requerida por conducto de la Secretaría Ejecutiva del Sistema Estatal de Seguridad Pública.
+La Fiscalía General del Estado y los Municipios, proporcionarán al Ejecutivo del Estado la información financiera, operativa y estadística que les sea requerida por conducto de la Secretaría Ejecutiva del Sistema Estatal de Seguridad Pública.
 
 ###### Artículo 302.
 
@@ -3816,3 +3858,17 @@ LIC. ROBERTO BORGE ANGULO.
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 M. EN A. JOSÉ GABRIEL CONCEPCIÓN MENDICUTI LORÍA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 415 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE QUINTANA ROO".]
+
+###### ARTÍCULO PRIMERO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en el Periódico Oficial del Estado de Quintana Roo.
