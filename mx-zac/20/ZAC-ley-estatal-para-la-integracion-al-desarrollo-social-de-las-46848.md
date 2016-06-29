@@ -4,7 +4,7 @@ identifier: "ZAC-ley-estatal-para-la-integracion-al-desarrollo-social-de-las-468
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-05"
-last_updated: "2016-01-20"
+last_updated: "2016-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY ESTATAL PARA LA INTEGRACION AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD
 
-LEY ESTATAL PARA LA INTEGRACIÓN AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD
+LEY ESTATAL PARA LA INTEGRACIÓN AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 5 de noviembre de 2005.
 
@@ -246,6 +246,14 @@ XXVI. Enlace Municipal: unidad administrativa creada dentro de la estructura org
 > <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2014)</small>
 
 XXVII. Competencia: conocimientos, habilidades, actitudes, valores, que se ponen en juego para resolver los problemas que enfrenta el individuo cotidianamente.
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+XXVIII. Perro guía o animal de servicio: aquel que ha sido certificado en centros especializados para la asistencia, acompañamiento, conducción, compañía y auxilio de personas con discapacidad; y
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+XXIX. Comité: Comité para la Certificación de Perros Guía.
 
 ### CAPÍTULO III. De los Derechos de las Personas con Discapacidad
 
@@ -1203,6 +1211,20 @@ Los servicios de albergues y centros comunitarios, tienen como objeto atender la
 
 Se consideran barreras arquitectónicas, todos aquellos elementos de construcción que dificulten, entorpezcan o impidan a las personas con discapacidad, su libre desplazamiento en espacios exteriores o interiores del sector público, social o privado, así como aquellos que dificulten, entorpezcan o impidan el uso de los servicios e instalaciones de los mismos.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2016)</small>
+
+###### Artículo 85 Bis.
+
+Para garantizar el derecho de accesibilidad de las personas con discapacidad, el Estado y los municipios deberán:
+
+I. Adecuar los espacios públicos, abiertos y cerrados, para garantizar el libre desplazamiento de las personas con discapacidad;
+
+II. Construir vías de circulación peatonal continuas y a nivel, o bien, contar con los elementos necesarios que superen los cambios de nivel en los cruces de calles y accesos a espacios públicos;
+
+III. Implementar guías e información especiales para las personas con discapacidad o debilidad visual, a fin de facilitar y agilizar su desplazamiento seguro y efectivo; y
+
+IV. Permitir el libre acceso de perros guía, sillas de ruedas, andaderas, bastones y demás apoyos necesarios, por parte de las personas que presenten alguna limitación para su movilidad o desplazamiento.
+
 ###### Artículo 86.
 
 En materia de movilidad y barreras arquitectónicas, esta Ley reconoce y protege, a favor de las personas con discapacidad, los siguientes derechos:
@@ -1227,9 +1249,9 @@ III. Proteger y facilitar de manera solidaria, el disfrute de bienes y servicios
 
 a) Las concesiones del auto transporte de pasajeros del Estado, prevendrán la reserva de un lugar, que será distinguido con el logotipo universal de las personas con discapacidad, mismo que tendrá preferencia sobre los demás usuarios de este servicio;
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
 
-b) Las instalaciones para espectáculos públicos tales como teatros, cines, lienzos charros, plazas de toros o instalaciones provisionales que se usen con fines similares, reservarán en áreas preferentes y populares, espacios adecuados y accesibles para personas con discapacidad. A estos lugares se les distinguirá igualmente con el logotipo universal. Los ayuntamientos garantizarán y vigilarán el cumplimiento de esta disposición; y
+b) Las instalaciones para espectáculos públicos tales como teatros, cines, lienzos charros, plazas de toros o instalaciones provisionales que se usen con fines similares, reservarán en áreas preferentes y populares, espacios adecuados y accesibles para personas con discapacidad, posibilitándoles el uso de ayudas técnicas, perros guía o animal de servicio u otros apoyos. A estos lugares se les distinguirá igualmente con el logotipo universal. Los ayuntamientos garantizarán y vigilarán el cumplimiento de esta disposición; y
 
 c) Los estacionamientos tendrán zonas preferentes para vehículos en los que viajen personas con discapacidad, tanto en la vía pública como en lugares de acceso público.
 
@@ -1245,9 +1267,95 @@ II. Ampliaciones, recuperación y modificación de edificios, calles, callejones
 
 III. Los proyectos de construcción de conjuntos habitacionales que constituyan un complejo arquitectónico, que deberán incluir las directrices a que deban sujetarse, a fin de que tales inmuebles resulten de fácil acceso para las personas con discapacidad.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2016)</small>
+
+###### Artículo 88 Bis.
+
+El Estado y municipios garantizarán a las personas con discapacidad que usan perro guía o animal de servicio, las facilidades para el acceso, recorrido y permanencia del mismo en los espacios públicos, así como de su traslado en trasportes públicos.
+
+El acceso del perro guía o animal de servicio a los espacios con pago de entrada o peaje no implicará pago adicional, salvo que su movilización constituya la prestación de un servicio agregado.
+
+Los perros guía o animales de servicio que deriven de programas de entrenamiento gubernamentales o de apoyo asistencial, serán donados a los usuarios de escasos recursos que así lo requieran, o cubiertos con aportaciones mínimas. Las instancias de asistencia social del Gobierno del Estado procurarán convocar a instituciones públicas y privadas, tanto nacionales como extranjeras, para formar fondos de apoyo a estas actividades.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2016)</small>
+
+###### Artículo 88 Ter.
+
+Son lugares de libre acceso a las personas con discapacidad en compañía de sus perros guía o animales de servicio, los siguientes:
+
+I. Los lugares de esparcimiento al aire libre, como parques, jardines y otros espacios de uso público, incluidos los centros de recreación, parques de diversiones y complejos de entretenimiento;
+
+II. Los locales e instalaciones donde se realicen espectáculos públicos o desarrollen actividades recreativas;
+
+III. Los asilos, hogares para la atención a los adultos mayores, centros de rehabilitación y establecimientos similares, públicos o privados;
+
+IV. Los edificios públicos, cuyo acceso no se encuentre prohibido o restringido al público en general;
+
+V. Los centros educativos, deportivos y de salud, públicos y privados de todos los niveles y grados, modalidades y especialidades;
+
+VI. Los museos, bibliotecas, teatros, salas de cine, de exposiciones y conferencias, almacenes, tiendas, despachos profesionales y centros comerciales;
+
+VII. Los espacios de uso público de las estaciones de autobús, ferrocarril, aeropuertos y paradas de vehículos de transporte;
+
+VIII. Los hoteles, restaurantes, establecimientos turísticos y cualquier otro lugar abierto al público en el que se presten servicios relacionados con el turismo;
+
+IX. Los transportes públicos y los servicios urbanos de transportes de viajeros y autos de alquiler de competencia del Estado y los municipios; y
+
+X. En general, cualquier otro lugar, local o establecimiento de uso público o privado de atención al público.
+
+En el caso de que la infraestructura no permita el adecuado desplazamiento a las personas con discapacidad acompañadas de perros guía, se procurará, cuando sea posible, un recorrido alterno.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2016)</small>
+
+###### Artículo 88 Quáter.
+
+Se crea el Comité para la Certificación de Perros Guía como órgano técnico de apoyo, dependiente de la Subsecretaría para la Inclusión de las Personas con Discapacidad.
+
+El Comité será presidido por el titular de la Subsecretaría y contará con tres vocales, que serán personas de la sociedad civil con conocimientos amplios en la materia y cuyos cargos serán honoríficos.
+
+El Comité se reunirá conforme lo establezca su reglamento, en el que además se determinarán los procedimientos para su operación, y en sus sesiones conocerá de los asuntos que le encomiende la presente Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2016)</small>
+
+###### Artículo 88 Quinquies.
+
+Todo perro guía debe ser acreditado por el Comité para la Certificación de Perros Guía. La acreditación se concederá previa comprobación de que el perro reúne las condiciones higiénico-sanitarias, de adiestramiento y de aptitud para auxiliar a personas con discapacidad.
+
+Las certificaciones otorgadas por otras entidades y países a perros guía, deberán ser revalidadas por el Comité.
+
+Los perros guía o animales de servicio deberán estar identificados, mediante la colocación en lugar visible, del distintivo que le otorgue el Comité. También deberán estar identificados permanentemente mediante microchip, según acuerde el Comité.
+
+El usuario de animales de servicio, previo requerimiento, deberá exhibir su identificación que lo acredite como la persona autorizada para su uso, expedida por el Comité, así como documentación que acredite las condiciones sanitarias que se mencionan en el artículo siguiente.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2016)</small>
+
+###### Artículo 88 Sexies.
+
+El usuario de un perro guía o animal de servicio deberá cumplir, además de las obligaciones que señala la normativa vigente, con las siguientes:
+
+I. Mantener al perro guía o animal de servicio a su lado, con la correa y arnés correspondientes, en los lugares, establecimientos y transportes a que se refiere esta Ley;
+
+II. Llevar identificado de forma visible al perro guía o animal de servicio, llevando consigo la documentación sanitaria, cuando sea requerido para ello;
+
+III. Utilizar al perro de asistencia para aquellas funciones para las que fue entrenado, atendiendo siempre a las normas de higiene y seguridad en los lugares públicos o de uso público, en la medida en que su deficiencia visual o discapacidad le permita;
+
+IV. Cumplir y procurar que los demás cumplan los principios de respeto, defensa, convivencia pacífica, trato digno y protección del perro guía; y
+
+V. Garantizar el adecuado nivel de bienestar e higiene del perro guía, a efecto de proporcionarle una buena calidad de vida.
+
 ###### Artículo 89.
 
 Las barreras arquitectónicas en los inmuebles del servicio público estatal o municipal, deberán ser eliminadas o en su caso, adaptadas para brindar el libre acceso a las personas con discapacidad. Será responsabilidad del servidor público titular de cada dependencia o entidad, el vigilar que los espacios antiguos, actuales y de nueva creación, cuenten con dicha especificación.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2016)</small>
+
+De la misma forma, en los inmuebles referidos en el párrafo anterior se deberán cumplir los siguientes principios:
+
+I. Carácter universal y adaptado para todas las personas;
+
+II. Señalización e inclusión de tecnologías para facilitar el acceso y desplazamiento y así posibiliten a las personas el uso de ayudas técnicas, perro guía, animal de servicio u otros apoyos; y
+
+III. Adecuación progresiva de las instalaciones.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
@@ -1550,3 +1658,13 @@ P.O. 20 DE ENERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 468.- SE REFORMA LA LEY PARA LA INTEGRACIÓN AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 29 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 572.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL PARA LA INTEGRACIÓN AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD."]
+
+Primero. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo. La Secretaría de Desarrollo Social del Gobierno del Estado, a través de la Subsecretaría para la Inclusión de Personas con Discapacidad, dentro del término de noventa días, reformará su reglamento interno para adicionar normas específicas a fin de ejecutar lo dispuesto en la presente reforma, relativas a la identificación, entrenamiento y certificación de perros guía.
+
+Tercero. Se derogan todas las disposiciones que contravengan al presente Decreto.
