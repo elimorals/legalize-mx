@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2016-06-11"
+last_updated: "2016-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "CHH"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 58/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1364/2016 II P.O., PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIHUAHUA DE ONCE DE JUNIO DE DOS MIL DIECISÉIS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2016.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -2913,6 +2911,8 @@ IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, 
 
 V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 Art. 165 ter.- El Estado y los municipios no podrán contraer obligaciones o empréstitos sino cuando se destinen a inversiones públicas productivas y a su refinanciamiento o reestructura, mismas que deberán realizarse bajo las mejores condiciones del mercado, inclusive los que contraigan organismos descentralizados, empresas públicas y fideicomisos y, en el caso del Estado, adicionalmente para otorgar garantías respecto al endeudamiento de los municipios.
@@ -4423,6 +4423,12 @@ Conforme lo dispone el Artículo 202 de la Constitución Política del Estado, e
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2016)</small>
+
+###### ARTÍCULO TERCERO.
+
+El último párrafo del artículo 165 TER, de este Decreto, entrará en vigor en la misma fecha en que lo hagan las disposiciones establecidas en el Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de disciplina financiera de las entidades federativas y los municipios, publicado en el Diario Oficial de la Federación del 26 de mayo de 2015, con relación a lo previsto en el Artículo Quinto Transitorio de dicho Decreto Federal.
+
 P.O. 27 DE ENERO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 1329/2016 XIII P.E., MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 27 TER, PÁRRAFO TERCERO; 37, PÁRRAFO ÚLTIMO; Y 40, TODOS ELLOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA; POR EXTENSIÓN DE LOS RESOLUTIVOS A LAS ACCIONES DE INCONSTITUCIONALIDAD 67/2015 Y SUS ACUMULADAS 72/2015 Y 82/2015, Y 92/2015 Y SUS ACUMULADAS 94/2015 Y 96/2015, Y EN VÍA DE CONSECUENCIA, SE REFORMAN Y DEROGAN DIVERSOS PRECEPTOS DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA".]
@@ -4470,3 +4476,11 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 ###### ARTÍCULO SEGUNDO.
 
 El ARTÍCULO PRIMERO del presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado; en tanto el ARTÍCULO SEGUNDO correspondiente a las reformas de la Ley Orgánica de la Fiscalía General del Estado, lo hará un día después de que entre en vigor la reforma constitucional.
+
+P.O. 29 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1403/2016 XV P.E., MEDIANTE EL CUAL SE ADICIONA UN ARTÍCULO TERCERO TRANSITORIO AL DECRETO NO. 951/2015 IX P.E”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
