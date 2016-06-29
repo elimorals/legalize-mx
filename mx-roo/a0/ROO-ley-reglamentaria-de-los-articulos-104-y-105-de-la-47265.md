@@ -4,7 +4,7 @@ identifier: "ROO-ley-reglamentaria-de-los-articulos-104-y-105-de-la-47265"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-16"
-last_updated: "2005-12-16"
+last_updated: "2016-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY REGLAMENTARIA DE LOS ARTÍCULOS 104 Y 105 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 16 de diciembre de 2005.
 
@@ -47,9 +47,11 @@ La presente ley es reglamentaria de los Artículos 104 y 105 de la Constitución
 
 El control constitucional se erige dentro del régimen interior del Estado, como un medio para mantener la eficacia y vigencia de esta Constitución; tiene por objeto dirimir de manera definitiva e inatacable en el orden jurídico estatal, los conflictos que por la constitucionalidad de sus actos o disposiciones generales, surjan en el ámbito interior del Estado entre el Poder Ejecutivo y el Legislativo o entre uno de ellos y los municipios que conforman el Estado, o entre dos o más municipios, sin perjuicio de lo previsto en los Artículos 76 fracción VII, 103, 105, 107 y último párrafo de la fracción II del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2016)</small>
+
 ###### Artículo 2.
 
-La Sala Constitucional y Administrativa del Tribunal Superior de Justicia del Estado, es competente para conocer y substanciar, con base en las disposiciones de esta ley, el procedimiento que regule las controversias constitucionales, las acciones de inconstitucionalidad y las acciones por omisión legislativa, previstas en el Artículo 105 de la Constitución Política del Estado.
+La Sala Constitucional del Tribunal Superior de Justicia del Estado, es competente para conocer y substanciar, con base en las disposiciones de esta ley, el procedimiento que regule las controversias constitucionales, las acciones de inconstitucionalidad y las acciones por omisión legislativa, previstas en el Artículo 105 de la Constitución Política del Estado.
 
 Corresponde al Pleno del Tribunal Superior de Justicia resolver sobre las mismas.
 
@@ -59,7 +61,9 @@ Los procedimientos de control constitucional se regirán por las disposiciones d
 
 Para los efectos de esta Ley se entenderá por:
 
-Sala: La Sala Constitucional y Administrativa del Tribunal Superior de Justicia del Estado;
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
+
+Sala: La Sala Constitucional del Tribunal Superior de Justicia del Estado:
 
 Pleno: El Pleno del Tribunal Superior de Justicia del Estado.
 
@@ -734,3 +738,25 @@ LIC. FÉLIX ARTURO GONZÁLEZ CANTO
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 EDUARDO ELÍAS ESPINOSA ABUXAPQUI
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 414 POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO; Y POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO, Y DE LA LEY REGLAMENTARIA DE LOS ARTÍCULOS 104 Y 105 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Por esta única ocasión, el primer Magistrado del Tribunal de Justicia Administrativa del Estado que se designe por el titular del Poder Ejecutivo del Estado, fungirá como Presidente del Tribunal por el primer período.
+
+TERCERO. El Tribunal de Justicia Administrativa del Estado de Quintana Roo, como órgano autónomo, con personalidad jurídica y patrimonio propio, quedará instalado para efectos de llevar a cabo su organización y funcionamiento interno administrativo, dentro de los quince días posteriores a la designación de los Magistrados, de conformidad con la Constitución Política del Estado Libre y Soberano de Quintana Roo y las leyes respectivas.
+
+Para iniciar su labor jurisdiccional, el Tribunal de Justicia Administrativa del Estado de Quintana Roo, quedará legalmente instalado el día nueve de enero del año dos mil diecisiete, previa declaratoria que el mismo emita.
+
+CUARTO. Una vez instalado el Tribunal de Justicia Administrativa en términos de lo establecido en el primer párrafo del artículo tercero transitorio, deberá emitir el Reglamento Interno del Tribunal y demás normatividad que resulte necesaria para su organización y funcionamiento, en un plazo no mayor a sesenta días naturales. Asimismo, el Pleno del Tribunal deberá nombrar al Secretario General, dentro de los treinta días hábiles posteriores de la instalación a que refiere el primer párrafo del artículo tercero transitorio.
+
+QUINTO.- En tanto queda legalmente instalada la función jurisdiccional del Tribunal de Justicia Administrativa del Estado de Quintana Roo, de conformidad con el artículo inmediato anterior, la Sala Constitucional del Poder Judicial del Estado, seguirá conociendo y substanciando los asuntos que sean competencia del Tribunal de Justicia Administrativa del Estado, de conformidad con las atribuciones establecidas en el artículo 111 de la Constitución Política del Estado Libre y Soberano de Quintana Roo y demás legislación aplicable.
+
+SEXTO. La Sala Constitucional del Poder Judicial del Estado, deberá substanciar y concluir aquellos asuntos que se encuentren en trámite y que se hayan iniciado con anterioridad a la instalación de la función jurisdiccional del Tribunal de Justicia Administrativa, de conformidad con la legislación aplicable.
+
+SÉPTIMO. Se Derogan todas aquellas disposiciones que contravengan al presente decreto.
