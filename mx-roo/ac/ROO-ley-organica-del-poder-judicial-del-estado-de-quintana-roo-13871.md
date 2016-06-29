@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2015-12-30"
+last_updated: "2016-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -495,11 +495,11 @@ Los Magistrados separados del cargo con licencia concedida por la Legislatura de
 
 #### Sección Séptima. Del Presidente del Tribunal Superior de Justicia
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
 
 ###### Artículo 38.
 
-El Presidente del Tribunal Superior de Justicia del Estado, durará en su cargo tres años, y podrá ser reelecto por una sola vez, para un periodo de igual duración.
+El Presidente del Tribunal Superior de Justicia del Estado, durará en su cargo seis años, y podrá ser reelecto por una sola vez, para un periodo de igual duración.
 
 > <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
@@ -635,47 +635,21 @@ Contra las determinaciones administrativas del Presidente del Tribunal, podrá i
 
 ### CAPITULO II. DE LOS TRIBUNALES UNITARIOS
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
 
 ###### Artículo 47.
 
-Para el cumplimiento de las atribuciones señaladas en la fracción VIII, del artículo 103, de la Constitución Política del Estado, el Tribunal superior de Justicia, contará con una Sala constitucional y Administrativa, integrada por un Magistrado Numerario, que tendrá competencia para substanciar y formular, en los términos de la ley respectiva los correspondientes proyectos de resolución definitiva que se someterán al Pleno del Tribunal Superior de justicia, de las controversias constitucionales, acciones de inconstitucionalidad y acciones por omisión legislativa.
+Para el cumplimiento de las atribuciones señaladas en la fracción VIII, del artículo 103, de la Constitución Política del Estado, el Tribunal Superior de Justicia, contará con una Sala Constitucional, integrada por un Magistrado Numerario, que tendrá competencia para substanciar y formular, en los términos de la ley respectiva los correspondientes proyectos de resolución definitiva que se someterán al Pleno del Tribunal Superior de justicia, de las controversias constitucionales, acciones de inconstitucionalidad y acciones por omisión legislativa.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
 
 ###### Artículo 48.
 
-La Sala Constitucional y Administrativa será competente para conocer de los asuntos establecidos en los artículos 104, 105, 106 y 107 de la Constitución Política del Estado de Quintana Roo, de conformidad con lo estipulado en las leyes correspondientes.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+La Sala Constitucional será competente para conocer de los asuntos establecidos en los artículos 104 y 105 de la Constitución Política del Estado de Quintana Roo, de conformidad con lo estipulado en las leyes correspondientes.
 
 ###### Artículo 49.
 
-La Sala Constitucional y Administrativa, en todo caso conocerá en única instancia:
-
-I.- De los juicios en contra de actos administrativos que las autoridades de la Administración Pública del Estado o de los ayuntamientos dicten, ordenen, ejecuten o traten de ejecutar, en agravio de personas físicas o morales;
-
-II.- De los juicios en contra de los actos administrativos de la Administración Pública Paraestatal del Estado o los municipios, cuando actúen con el carácter de autoridades;
-
-III.- De los juicios en contra de las resoluciones definitivas dictadas por la Administración Pública del Estado o de los ayuntamientos en las que se determine la existencia de una obligación fiscal, se fije ésta en cantidad líquida o se den las bases para su liquidación, nieguen la devolución de un ingreso indebidamente percibido o cualesquiera otras que causen agravio en materia fiscal;
-
-IV.- De los juicios en contra de la falta de contestación de las mismas autoridades, dentro de un término de treinta días naturales, a las promociones, presentadas ante aquellas por los particulares, a menos que las leyes y reglamentos fijen otros plazos o la naturaleza del asunto lo requiera;
-
-V.- De los juicios en contra de resoluciones negativa ficta en materia fiscal, que se configurarán transcurridos cuatro meses a partir de la recepción por parte de las autoridades demandadas competentes de la última promoción presentada por el o los demandantes, a menos que las leyes fiscales fijen otros plazos;
-
-VI.- De los juicios en que se demande la resolución positiva ficta, cuando la establezca expresamente las disposiciones legales aplicables y en los plazos en que éstas lo determinen;
-
-VII. De los juicios en que se impugne la negativa de la autoridad a certificar la configuración de la positiva ficta, cuando así lo establezcan las leyes;
-
-VIII.- De los juicios que promuevan las autoridades para que sean nulificadas las resoluciones fiscales favorables a las personas físicas o morales y que causen una lesión a la Hacienda Pública del Estado o de los Ayuntamientos;
-
-IX.- De las resoluciones del Ministerio Público sobre la reserva de la averiguación previa, el no ejercicio de la acción penal y las resoluciones de sobreseimiento que dicten los jueces con motivo de las peticiones de desistimiento que formule el Ministerio Público;
-
-X.- De los conflictos que se susciten entre los Poderes del Estado, los Municipios, Organismos Públicos descentralizados, y sus trabajadores, entre aquellos y los Sindicatos, y entre éstos, a que se refiere la ley que regula las relaciones laborales del Estado, los Municipios, Organismos Públicos descentralizados, y sus trabajadores;
-
-XI.- De los actos de registros de los sindicatos previstos en la ley a que se refiere la fracción inmediata anterior; y
-
-XII.- De los demás que expresamente señalen la Constitución estatal y la ley.
+(DEROGADO, P.O. 29 DE JUNIO DE 2016)
 
 ###### Artículo 50.
 
@@ -3568,3 +3542,23 @@ TERCERO. Los juicios iniciados en el Distrito Judicial de Cancún, con anteriori
 CUARTO. Remítase copia del presente Decreto a los poderes públicos de la Federación, de las Entidades Federativas y del Distrito Federal, así como a los demás poderes del Estado de Quintana Roo, para su conocimiento y efectos a que haya lugar.
 
 QUINTO. Remítase copia del presente Decreto a la Procuraduría General de Justicia, al Instituto de la Defensoría Pública del Estado, al Centro de Justicia Alternativa, a la Secretaría de Seguridad Pública y a los Honorables Ayuntamientos, todos del Estado de Quintana Roo, para los efectos correspondientes.
+
+P.O. 29 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 414 POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO; Y POR El QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO, Y DE LA LEY REGLAMENTARIA DE LOS ARTÍCULOS 104 Y 105 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Por esta única ocasión, el primer Magistrado del Tribunal de Justicia Administrativa del Estado que se designe por el titular del Poder Ejecutivo del Estado, fungirá como Presidente del Tribunal por el primer período.
+
+TERCERO. El Tribunal de Justicia Administrativa del Estado de Quintana Roo, como órgano autónomo, con personalidad jurídica y patrimonio propio, quedará instalado para efectos de llevar o cabo su organización y funcionamiento interno administrativo, dentro de los quince días posteriores a la designación de los Magistrados, de conformidad con la Constitución Política del Estado Libre y Soberano de Quintana Roo y las leyes respectivas.
+
+Para iniciar su labor jurisdiccional, el Tribunal de Justicia Administrativa del Estado de Quintana Roo, quedará legalmente instalado el día nueve de enero del año dos mil diecisiete, previa declaratoria que el mismo emita.
+
+CUARTO. Una vez instalado el Tribunal de Justicia Administrativa en términos de lo establecido en el primer párrafo del artículo tercero transitorio, deberá emitir el Reglamento Interno del Tribunal y demás normatividad que resulte necesaria para su organización y funcionamiento, en un plazo no mayor a sesenta días naturales. Asimismo, el Pleno del Tribunal deberá nombrar al Secretario General, dentro de los treinta días hábiles posteriores de la instalación a que refiere el primer párrafo del artículo tercero transitorio.
+
+QUINTO.- En tanto queda legalmente instalada la función jurisdiccional del Tribunal de Justicia Administrativa del Estado de Quintana Roo, de conformidad con el artículo inmediato anterior, la Sala Constitucional del Poder Judicial del Estado, seguirá conociendo y substanciando los asuntos que sean competencia del Tribunal de Justicia Administrativa del Estado, de conformidad con las atribuciones establecidas en el artículo 111 de la Constitución Política del Estado Libre y Soberano de Quintana Roo y demás legislación aplicable.
+
+SEXTO. La Sala Constitucional del Poder Judicial del Estado, deberá substanciar y concluir aquellos asuntos que se encuentren en trámite y que se hayan iniciado con anterioridad a la instalación de la función jurisdiccional del Tribunal de Justicia Administrativa, de conformidad con la legislación aplicable.
+
+SÉPTIMO. Se Derogan todas aquellas disposiciones que contravengan al presente decreto.
