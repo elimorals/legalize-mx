@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2016-06-23"
+last_updated: "2016-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 29 DE JUNIO DE 2016, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 29 DE JUNIO DE 2016.]</small>
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -3491,9 +3491,9 @@ Comete el delito de abandono de obligaciones alimenticias el que sin motivo just
 
 Al responsable del delito de abandono de obligaciones alimenticias se le impondrá una sanción de seis meses a tres años de prisión, privación de derechos relativos a la familia y entrega de las cantidades que no fueron oportunamente suministradas a la familia.
 
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 23 DE JUNIO DE 2016) (F. DE E., P.O. 29 DE JUNIO DE 2016)
 
-La misma pena se aplicará a quien estando obligado a informar acerca de los ingresos de quienes deban cumplir con la obligación alimentaria desobedezcan la orden judicial de hacerlo o informen con datos falsos,
+La misma pena se aplicará a quien estando obligado a informar acerca de los ingresos de quienes deban cumplir con la obligación alimentaria desobedezcan la orden judicial de hacerlo o informen con datos falsos.
 
 Para establecer las cantidades que el inculpado deberá entregar a la parte ofendida se seguirán las reglas siguientes:
 
