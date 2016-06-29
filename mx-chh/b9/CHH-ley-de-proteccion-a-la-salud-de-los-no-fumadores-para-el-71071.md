@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-a-la-salud-de-los-no-fumadores-para-el-71071"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-07"
-last_updated: "2015-02-07"
+last_updated: "2016-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 7 de noviembre de 2009.
 
@@ -301,7 +301,7 @@ La Secretaría promoverá entre la población en general actividades alusivas a 
 
 Quien comercie, venda, o suministre productos del tabaco, tendrá las siguientes obligaciones:
 
-l. Mantener un anuncio situado al interior del establecimiento con las leyendas sobre la prohibición de comercio, venta o suministro a menores;
+I. Mantener un anuncio situado al interior del establecimiento con las leyendas sobre la prohibición de comercio, venta o suministro a menores;
 
 II. En caso de existir duda en cuanto a la mayoría de edad, solicitar a la persona que se presente a adquirir productos del tabaco, que exhiba una identificación oficial con fotografía;
 
@@ -389,7 +389,9 @@ X. Elevadores de cualquier edificio, ya sea público o privado;
 
 XI. Establecimientos mercantiles dedicados al hospedaje;
 
-XII. Establecimientos mercantiles y espacios cerrados donde se expendan al público alimentos y bebidas para su consumo en el lugar, y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
+
+XII. Establecimientos mercantiles y espacios cerrados donde se expendan al público alimentos y bebidas y estos se consuman en dichos lugares, tales como: restaurantes, bares, discotecas y otros de similar naturaleza, y
 
 XIII. En general, en todo lugar cerrado al que tenga acceso el público.
 
@@ -586,6 +588,14 @@ P.O. 15 DE DICIEMBRE DE 2012.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 7 DE FEBRERO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1376/2016 II P.O., MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 22 DE LA LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
