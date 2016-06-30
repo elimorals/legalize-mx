@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2016-04-08"
+last_updated: "2016-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2016.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -1191,9 +1191,15 @@ VIII. La protección y preservación de áreas de reserva ecológica;
 
 IX. La instalación y operación de confinamientos y, en general, depósitos de residuos o desechos en el territorio del Estado;
 
-X. Los tocantes a la protección de los animales; y,
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2016)</small>
 
-XI. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+X. Los relativos a la protección de los animales;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2016)</small>
+
+XI. Los relacionados con el desarrollo sustentable; entendiéndose este concepto como la interrelación de los factores económico, social y ambiental; y,
+
+XII. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
 
 ###### ARTÍCULO 75.
 
@@ -3924,3 +3930,15 @@ Remítase el presente Decreto al Gobernador del Estado para su publicación en e
 ###### ARTÍCULO TERCERO.
 
 Todos los asuntos turnados a la actual Comisión de Equidad y Género, se entenderán remitidos a la Comisión de Igualdad de Género.
+
+P.O. 30 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 156 POR EL QUE “SE REFORMA LA FRACCIÓN X, SE RECORRE LA FRACCIÓN XI Y PASA A SER XII Y SE ADICIONA UNA NUEVA FRACCIÓN XI, DEL ARTÍCULO 74 DE LA LEY ORGÁNICA DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su aprobación por el Pleno del Congreso del Estado de Michoacán de Ocampo, en términos del segundo párrafo del artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Gobernador del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
