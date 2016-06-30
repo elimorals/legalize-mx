@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2015-07-07"
+last_updated: "2016-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2016.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -807,31 +807,41 @@ Todo diputado podrá asistir a las reuniones de las comisiones ordinarias y espe
 
 ###### ARTICULO 53.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2013)</small>
+1. La Diputación Permanente es el órgano del Congreso a cargo de la vigencia del Poder Legislativo en la vida constitucional del Estado durante los recesos, la cual será electa en la última sesión de cada período ordinario de sesiones.
 
-1. La Diputación Permanente es el órgano del Congreso a cargo de la vigencia del Poder Legislativo en la vida constitucional del Estado durante los recesos, la cual será nombrada en la última sesión de cada período ordinario de sesiones.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2016)</small>
 
-2. La Diputación Permanente se integra en los términos dispuestos por la Constitución Política del Estado y ejerce las atribuciones que la misma le otorga.
+2. La Diputación Permanente se integra por siete Diputados, un Presidente, dos Secretarios y cuatro Vocales; así como tres suplentes, en los términos dispuestos por la Constitución Política del Estado y con las atribuciones que la misma le otorga.
 
 3. Si por causa extraordinaria el Congreso suspende sus sesiones o culmina el periodo ordinario sin haber electo a la Diputación Permanente, actuará como tal la última Mesa Directiva del Congreso.
 
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2016)</small>
 
-4. Para la elección de la Diputación Permanente se observarán las previsiones establecidas en el artículo 15 de esta Ley.
+4. El Grupo Parlamentario que por sí mismo tenga la mayoría absoluta contará con cuatro de los siete Diputados que conforman la Diputación Permanente, el Grupo Parlamentario que tenga la segunda mayoría contará con dos Diputados en su integración, el séptimo Diputado corresponderá a una de las agrupaciones por afiliación partidista que se determine incluir en la propuesta y que no constituya Grupo Parlamentario, con base en los acuerdos que se produzcan para ese efecto por la Junta de Coordinación Política; dos de los Suplentes corresponderán uno para cada uno de los Grupos Parlamentarios que cuenten con la primera y segunda mayoría en la integración de este órgano legislativo, quienes actuarán en suplencia de cualquiera de los miembros de sus respectivos Grupos Parlamentarios, y un tercer suplente del séptimo Diputado corresponderá a cualquiera de las agrupaciones por afiliación partidista que no constituya Grupo Parlamentario, también con base en los acuerdos conducentes.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2016)</small>
+
+5. La propuesta para la elección de la Diputación Permanente será presentada al Pleno por un integrante de la Junta de Coordinación Política, cuya votación se realizará por cédula, y se comunicará a los órganos señalados en el párrafo 5 del artículo 18 del presente ordenamiento.
 
 ###### ARTICULO 54.
 
 1. En los recesos del Congreso, el presidente de la Diputación Permanente ejercerá, en lo conducente, las atribuciones que esta ley confiere al presidente de la Mesa Directiva.
 
-2. Las faltas del presidente o cualquiera de los secretarios, serán cubiertas por el suplente.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2016)</small>
 
-3. A falta de quórum en la Diputación Permanente, por la falta absoluta de algunos de sus miembros, el diputado que quede convocará a los diputados más inmediatos para que integren la Diputación Permanente, quienes funcionarán con el carácter de interinos mientras cesen los impedimentos de los que la integran o se reúna el Congreso. En este caso, el diputado que convoque ejercerá la presidencia, aunque no la tenga por nombramiento del Congreso y nombrará al o los secretarios.
+2. Las faltas del Presidente, secretarios o vocales, serán cubiertas por los suplentes, conforme a lo dispuesto por el artículo 53 de esta ley.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2016)</small>
+
+3. A falta de quórum en la Diputación Permanente, por la falta absoluta de algunos de sus miembros, el Diputado que quede convocará a los diputados más inmediatos para que integren la Diputación Permanente, quienes funcionarán con el carácter de interinos mientras cesen los impedimentos de los que la integran o se reúna el Congreso. En este caso, el Diputado que convoque ejercerá la presidencia, aunque no la tenga por nombramiento del Congreso y nombrará al o los secretarios y demás integrantes.
 
 ###### ARTICULO 55.
 
-1. La Diputación Permanente se instalará en la misma fecha en que concluya el periodo ordinario en el cual fue electa, y así lo comunicará a los órganos señalados en el párrafo 5 del artículo 18 de esta ley.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2016)</small>
+
+1. La Diputación Permanente entrará en funciones al concluir el período ordinario en el cual fue electa.
 
 2. La Diputación Permanente deberá celebrar, cuando menos, una sesión semanal, en el Recinto del Congreso.
 
@@ -841,9 +851,13 @@ Todo diputado podrá asistir a las reuniones de las comisiones ordinarias y espe
 
 1. Los asuntos que se hallen a cargo de las comisiones ordinarias al concluir el periodo inmediato anterior, serán responsabilidad de la Diputación Permanente durante el receso.
 
-2. Los asuntos referidos en el párrafo anterior y los que se reciban durante el receso deberán ser dictaminados por la Diputación Permanente, la que dará cuenta con ellos al Congreso en el período ordinario siguiente o en la sesión extraordinaria que se celebre, si se encuentran incluidos en la convocatoria a esta última.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2016)</small>
 
-3. La Diputación Permanente, sin embargo, no podrá dictaminar sobre asuntos que correspondan a la Comisión Instructora o a las comisiones especiales.
+2. Los asuntos referidos en el párrafo anterior y los que se reciban durante el receso quedarán a cargo de la Diputación Permanente para dictamen, la que dará cuenta con ellos al Congreso en el período ordinario siguiente o en la sesión extraordinaria que se celebre, si se encuentran incluidos en la convocatoria a esta última.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2016)</small>
+
+3. La Diputación Permanente, sin embargo, no podrá resolver los asuntos que correspondan a la Comisión Instructora.
 
 ###### ARTICULO 57.
 
@@ -2746,3 +2760,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las reformas que mediante el presente Decreto se efectúan a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, entrarán en vigor a partir de la expedición del mismo.
+
+P.O. 30 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXII-971 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS Y DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
