@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2016-04-27"
+last_updated: "2016-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2016.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -903,11 +903,11 @@ Los Ayuntamientos del Estado remitirán sus correspondientes iniciativas de Leye
 
 Las sesiones del Congreso del Estado serán públicas, salvo cuando la ley señale que deban tener el carácter de reservadas.
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2016)</small>
 
 ###### Art. 48.
 
-El Congreso antes de cerrar cada período de sesiones nombrará de su seno una Diputación Permanente compuesta de tres miembros propietarios y un suplente que funcionarán mientras no vuelva a reunirse el Congreso.- El primer nombrado asumirá la Presidencia y los dos últimos actuarán de Secretarios.
+El Congreso antes de cerrar cada período de sesiones nombrará de su seno una Diputación Permanente compuesta por un Presidente, dos Secretarios y cuatro vocales, asimismo se nombrarán tres suplentes, y funcionará mientras no vuelva a reunirse el Congreso.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -1215,17 +1215,17 @@ VII. Hacer lo demás que prohibe esta Constitución.
 
 ### CAPITULO IV. De la Diputación Permanente
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2016)</small>
 
 ###### Art. 60.
 
-En la última sesión de cada período ordinario de sesiones, el Congreso nombrará una Comisión que se denominará Diputación Permanente, compuesta de tres Diputados, un Presidente y dos Secretarios, nombrará igualmente un Suplente.
+En la última sesión de cada período ordinario de sesiones, el Congreso nombrará una Comisión que se denominará Diputación Permanente, compuesta por siete Diputados: un Presidente, dos Secretarios y cuatro vocales, asimismo se nombrarán tres suplentes.
 
-(REUBICADO, P.O. 5 DE JULIO DE 1986)
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2016)</small>
 
 ###### Art. 61.
 
-La Diputación Permanente funcionará durante los períodos de receso del Congreso y aun cuando hubiere sesiones extraordinarias.
+La Diputación Permanente se instalará al concluir el período ordinario en el cual fue electa y funcionará dentro de los períodos de receso, aún cuando hubiere Sesiones Extraordinarias.
 
 ###### Art. 62.
 
@@ -1235,9 +1235,9 @@ Son atribuciones de la Diputación Permanente:
 
 I.- Velar por la observancia de la Constitución y de las Leyes;
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2016)</small>
 
-II.- Dictaminar sobre los asuntos que quedaren pendientes al terminar el período de sesiones ordinarias del Congreso y sobre los que admita, así como recibir las observaciones que envíe el Ejecutivo a los proyectos de leyes y decretos del Congreso y presentar estos dictámenes y observaciones en la primera sesión ordinaria del nuevo período de sesiones, o en sesión extraordinaria del Pleno, si formaran parte de los asuntos que motiven la convocatoria de la misma;
+II. Dictaminar sobre los asuntos que quedaren pendientes al terminar el período de sesiones ordinarias del Congreso y sobre los que admita, salvo aquellos que deban ser resueltos por la Comisión Instructora, así como recibir las observaciones que envíe el Ejecutivo a los proyectos de leyes y decretos del Congreso y presentar estos dictámenes y observaciones en la primera sesión ordinaria del nuevo período de sesiones, o en sesión extraordinaria del Pleno, si formaran parte de los asuntos que motiven la convocatoria de la misma;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -4461,7 +4461,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 El Congreso del Estado deberá llevar a cabo las adecuaciones conducentes a la legislación Estatal en materia de transparencia, acceso a la información y de protección de datos personales a más tardar a los 60 días naturales, de la entrada en vigor del presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DECLARAN REFORMADAS Y DEROGADAS DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE LA REFORMA POLÍTICA DE LA CIUDAD DE MÉXICO”.]
+P.O. 30 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXII-971 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS Y DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XXIX-X AL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS”.]
 
