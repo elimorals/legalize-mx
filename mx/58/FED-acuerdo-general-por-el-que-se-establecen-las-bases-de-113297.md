@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-por-el-que-se-establecen-las-bases-de-113297"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-03-07"
-last_updated: "2016-03-07"
+last_updated: "2016-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113297&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-12-08"
 
 ACUERDO GENERAL POR EL QUE SE ESTABLECEN LAS BASES DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LA DEFENSORÍA PÚBLICA ELECTORAL PARA PUEBLOS Y COMUNIDADES INDÍGENAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE JUNIO DE 2016.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 7 de marzo de 2016.
 
@@ -197,9 +197,19 @@ VI. No haber ocupado un cargo de elección popular, ni haber sido registrado com
 
 VII. Contar con experiencia probada de cuando menos cinco años en el desempeño de actividades propias del cargo.
 
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 30 DE JUNIO DE 2016)
+
 ###### ARTÍCULO 8.
 
 Para ser Defensora o Defensor se requiere, además de los requisitos señalados en las fracciones I, II, III, V y VI del artículo anterior, contar con título y cédula profesionales de licenciatura en Derecho expedidos legalmente con una antigüedad mínima de tres años y con experiencia probada en el cargo por igual plazo.
+
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2016)</small>
+
+Para el caso de presentarse una vacancia de urgente ocupación en los puestos de Defensora o Defensor, la Titular lo informará de inmediato a la Comisión, por conducto de su Secretaría, y propondrá a la candidata o candidato que habrá de cubrir la plaza vacante, quien deberá cumplir los requisitos establecidos en este artículo. [Adicionado mediante Acuerdo 180/S6(14-VI-2016)].
+
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2016)</small>
+
+Dicho nombramiento será de carácter temporal para cubrir las necesidades del servicio, pero la persona que haya sido designada podrá permanecer en el puesto si aprueba los cursos y exámenes que al efecto se implementen, en términos de lo dispuesto en el artículo 6, fracción II del presente Acuerdo. [Adicionado mediante Acuerdo 180/S6(14-VI-2016)].
 
 ###### ARTÍCULO 9.
 
@@ -255,9 +265,17 @@ XIII. Proponer a la Comisión las medidas que estime convenientes para lograr el
 
 XIV. Realizar visitas periódicas a los pueblos y comunidades indígenas para llevar a cabo análisis y diagnósticos sobre sus sistemas normativos internos y la situación que impera en relación al respeto de los derechos político-electorales de sus integrantes, previa autorización de la Comisión de Administración;
 
-XV. Rendir informes semestrales sobre el funcionamiento, resultados y servicios que presta la Defensoría; y
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2016)</small>
 
-XVI. Las demás que le confieran las disposiciones aplicables.
+XV. Rendir informes semestrales sobre el funcionamiento, resultados y servicios que presta la Defensoría;
+
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2016)</small>
+
+XVI. Informar a la Comisión las vacancias de urgente ocupación en los puestos de Defensora o Defensor y proponer a la candidata o candidato que habrá de cubrirlas; y [Adicionado mediante Acuerdo 180/S6(14-VI-2016)].
+
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2016)</small>
+
+XVII. Las demás que le confieran las disposiciones aplicables. [Modificado mediante Acuerdo 180/S6(14-VI-2016)].
 
 ###### ARTÍCULO 12.
 
@@ -311,7 +329,7 @@ El servicio de asesoría electoral se prestará cuando:
 
 I. Medie solicitud expresa de parte interesada que deberá ser en todo caso un pueblo, comunidad indígena, alguna de las personas que los integren o su representante colectivo, y
 
-II. Se solicite la orientación, guía e instrucción técnica sobre la naturaleza, contenido y alcances de los derechos político-electorales constitucionales, convencionales y legales, establecidos en favor los pueblos y comunidades indígenas.
+II. Se solicite la orientación, guía e instrucción técnica sobre la naturaleza, contenido y alcances de los derechos político-electorales constitucionales, convencionales y legales, establecidos en favor (sic) los pueblos y comunidades indígenas.
 
 ###### ARTÍCULO 16.
 
@@ -386,3 +404,15 @@ CERTIFICA
 Que el presente documento en 18 fojas, corresponde al Acuerdo General por el que se establecen las Bases de Organización y Funcionamiento de la Defensoría Pública Electoral para Pueblos y Comunidades Indígenas, aprobado por la Comisión de Administración mediante acuerdo 315/S11(17-XI-2015), emitido en la Décima Primera Sesión Ordinaria celebrada el 17 de noviembre de 2015, que obra en los archivos de la Coordinación de Asuntos Jurídicos. DOY FE.
 
 México, Distrito Federal, 8 de diciembre de 2015.- El Secretario de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, Jorge Enrique Mata Gómez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 30 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LAS REFORMAS APROBADAS POR LA COMISIÓN DE ADMINISTRACIÓN MEDIANTE ACUERDO 180/S6(14-VI-2016) AL “ACUERDO GENERAL POR EL QUE SE ESTABLECEN LAS BASES DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LA DEFENSORÍA PÚBLICA ELECTORAL PARA PUEBLOS Y COMUNIDADES INDÍGENAS”.]
+
+PRIMERO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Acuerdo.
+
+TERCERO. Para su mayor difusión, publíquese en las páginas de Intranet e Internet del Tribunal Electoral del Poder Judicial de la Federación.
