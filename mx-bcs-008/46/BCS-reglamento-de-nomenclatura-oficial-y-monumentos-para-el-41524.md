@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-de-nomenclatura-oficial-y-monumentos-para-el-41524"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-10"
-last_updated: "2004-10-10"
+last_updated: "2016-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,9 @@ state: "BCS"
 
 REGLAMENTO DE NOMENCLATURA OFICIAL Y MONUMENTOS PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DE NOMENCLATURA OFICIAL Y MONUMENTOS PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 30 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 10 de octubre de 2004.
 
@@ -317,3 +319,17 @@ Los rubros o materias que regula el presente reglamento deberán atenderse de ma
 PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
 
 SEGUNDO.- Para integrar el primer Consejo Consultivo, el Secretario Municipal hará las invitaciones respectivas siguiendo el procedimiento establecido en este Reglamento, dentro del mes siguiente en que el acuerdo entre en vigor.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 30 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DICTAMEN QUE PRESENTA LA COMISIÓN EDILICIA DE ESTUDIOS LEGISLATIVOS Y REGLAMENTARIOS, MEDIANTE EL CUAL SE APRUEBA EL NUEVO REGLAMENTO DE NOMENCLATURA OFICIAL Y MONUMENTOS PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR".]
+
+PRIMERO.- Este Reglamento entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur. Se abroga el Reglamento publicado en el Boletín Oficial del Gobierno del Estado número 57, de fecha 10 de octubre del 2004.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente reglamento. Para integrar el primer Consejo Consultivo, el Secretario Municipal hará las invitaciones respectivas siguiendo el procedimiento establecido en este Reglamento, dentro de los 30 días naturales siguientes en que el presente reglamento entre en vigor.
+
+TERCERO.- Por conducto del C. Secretario General Municipal de este H. XII Ayuntamiento de Los Cabos, Baja California Sur, gírese atento oficio al C. Secretario General de Gobierno, a efecto de que se sirva publicar en el Boletín Oficial del Gobierno del Estado de Baja California Sur, los presentes acuerdos.
+
+CUARTO.- Una vez aprobada y publicada en el Boletín Oficial del Gobierno del Estado la reforma propuesta, se turne por conducto de la Secretaria General Municipal, a la Dirección Municipal de Asuntos Jurídicos, Legislativos y Reglamentarios, a la Dirección de Transparencia y Acceso a la Información Pública, así como a Comunicación Social para su difusión en la página Web del Ayuntamiento, y en la gaceta oficial del ayuntamiento de los cabos, Baja California Sur.
