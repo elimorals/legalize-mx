@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-hacienda-y-credito-8649
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-09-11"
-last_updated: "2016-03-30"
+last_updated: "2016-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8649&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-09-06"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE JUNIO DE 2016.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 11 de septiembre de 1996.
 
@@ -415,9 +415,17 @@ I. Servicio de Administración Tributaria;
 
 II. Comisión Nacional Bancaria y de Valores;
 
-III. Comisión Nacional de Seguros y Fianzas, y
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2016)</small>
 
-IV. Comisión Nacional del Sistema de Ahorro para el Retiro.
+III. Comisión Nacional de Seguros y Fianzas;
+
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2016)</small>
+
+IV. Comisión Nacional del Sistema de Ahorro para el Retiro, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE JUNIO DE 2016)</small>
+
+V. Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales.
 
 Las Unidades, las Subprocuradurías, las Subtesorerías y las Direcciones Generales, estarán integradas por los Jefes de Unidad, Subprocuradores, Subtesoreros, Directores Generales, Secretarios Técnicos, Directores Generales Adjuntos, Directores, Subdirectores, Jefes de Departamento, de Oficina, de Sección y de Mesa, por los Coordinadores, Supervisores, Auditores, Ayudantes de Auditor y por los demás servidores públicos que señale este Reglamento, así como por el personal que se requiera para satisfacer las necesidades del servicio.
 
@@ -7787,11 +7795,11 @@ El Órgano Interno de Control contará en su estructura con un área administrat
 
 Para la más eficaz atención y el eficiente despacho de los asuntos de su competencia, la Secretaría podrá contar con los órganos administrativos desconcentrados que le estarán jerárquicamente subordinados y a los que se les otorgarán autonomía técnica y facultades ejecutivas para resolver sobre materias específicas dentro del ámbito de competencia que se determine en cada caso, de conformidad con las normas que al efecto establezca el instrumento legal respectivo, el cual deberá ser publicado en el Diario Oficial de la Federación.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2016)</small>
 
 ###### Artículo 98-C.
 
-El Servicio de Administración Tributaria, la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas y la Comisión Nacional del Sistema de Ahorro para el Retiro, tendrán la organización y las atribuciones que establezcan los ordenamientos legales y reglamentarios por los que fueron creados.
+El Servicio de Administración Tributaria, la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas, la Comisión Nacional del Sistema de Ahorro para el Retiro y la Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales, tendrán la organización y las atribuciones que establezcan las leyes o, en su caso, los ordenamientos emitidos por el Presidente de la República, por los que fueron creados.
 
 > <small>(DEROGADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
@@ -8268,3 +8276,15 @@ D.O.F. 30 DE MARZO DE 2016.
 [N DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE CREA LA AUTORIDAD FEDERAL PARA EL DESARROLLO DE LAS ZONAS ECONÓMICAS ESPECIALES Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Secretaría de Hacienda y Crédito Público, con cargo a su presupuesto, asignará los recursos humanos, financieros y materiales que requiera la Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales para el inicio de sus actividades, conforme a las disposiciones jurídicas aplicables.
+
+TERCERO.- Dentro de los 120 días contados a partir de la entrada en vigor del presente Decreto, el Titular de la Secretaría de Hacienda y Crédito Público someterá a consideración del Titular del Ejecutivo Federal, el proyecto de Reglamento Interior de la Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales.
+
+CUARTO.- La atribución prevista en el artículo 4, fracción XVII, del artículo PRIMERO del presente Decreto, entrará en vigor una vez que las facultades en materia de administración de bienes inmuebles de propiedad federal se transfieran de la Secretaría de la Función Pública a la Secretaría de Hacienda y Crédito Público, en términos de las disposiciones jurídicas aplicables.
