@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-fomento-y-desarrollo-economico-para-el-estado-de-49480"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-20"
-last_updated: "2015-07-10"
+last_updated: "2016-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY DE FOMENTO Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2015.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE FOMENTO ECONÓMICO Y COMPETITIVIDAD DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 30 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2016 (ABROGADA).
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 20 de febrero de 2006.
 
@@ -542,3 +544,21 @@ B.O. 10 DE JULIO DE 2015.
 ###### ARTICULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 30 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2354 SE EXPIDE LA LEY DE FOMENTO ECONÓMICO Y COMPETITIVIDAD DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se abroga la Ley de Fomento y Desarrollo Económico para el Estado de Baja California Sur, publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur el 20 de febrero de 2006.
+
+TERCERO.- El Titular de la Secretaría deberá convocar en un plazo máximo de 30 días posteriores a la entrada en vigor de la presente Ley a los miembros del Consejo, a efecto de que celebren la sesión de instalación de dicho órgano, y ordene la publicación de dicha instalación en el Boletín Oficial del Gobierno del Estado de Baja California Sur. Asimismo, para tales efectos y dentro del referido plazo, deberá designar a los dos representantes de las instituciones de educación superior.
+
+CUARTO.- Se le concede al Titular del Poder Ejecutivo del Estado un término de hasta 120 días contados a partir de la entrada en vigor de la presente Ley, para emitir su Reglamento correspondiente.
+
+QUINTO.- En tanto no se expida el Reglamento citado en el Artículo anterior, la Secretaría y la Secretaría de Finanzas y Administración, podrán emitir las disposiciones de carácter general que consideren necesarias para la aplicación de la Ley.
+
+SEXTO.- En tanto se emite el Reglamento citado en los Artículos Cuarto y Quinto Transitorios, el Consejo acordará las medidas tendientes a regular su funcionamiento y el de sus órganos de trabajo.
+
+SÉPTIMO.- En caso de que existan recursos económicos presupuestados para la Secretaría en el Ejercicio Fiscal de 2016 destinados al Fomento de la Inversión para el Desarrollo Económico del Estado, la Secretaría de Finanzas y Administración del Gobierno del Estado de Baja California Sur, deberá en su caso, tomar las medidas necesarias para que estos pasen a formar parte del Fondo de Desarrollo Económico y Competitividad señalado en el Capítulo Séptimo de este ordenamiento.
