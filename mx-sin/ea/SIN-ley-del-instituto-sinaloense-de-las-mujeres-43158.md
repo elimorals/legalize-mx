@@ -4,7 +4,7 @@ identifier: "SIN-ley-del-instituto-sinaloense-de-las-mujeres-43158"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-10"
-last_updated: "2005-01-10"
+last_updated: "2016-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DEL INSTITUTO SINALOENSE DE LAS MUJERES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el lunes 10 de enero de 2005.
 
@@ -127,9 +127,15 @@ XV. Concertar y suscribir acuerdos de colaboración con organismos gubernamental
 
 XVI. Actuar como órgano de consulta, capacitación y asesoría de las dependencias y entidades de la Administración Pública Estatal y Municipal, así como de los sectores social y privado, en materia de equidad de género y de igualdad de oportunidades para las mujeres, cuando así lo requieran;
 
-XVII. Instituir acciones que promuevan la igualdad de los derechos y obligaciones para los hombres y las mujeres en el seno de las familias y en la sociedad; y,
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-XVIII. Las demás que le confieran otras disposiciones legales y reglamentarias.
+XVII. Instituir acciones que promuevan la igualdad de los derechos y obligaciones para los hombres y las mujeres en el seno de las familias y en la sociedad;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2016)</small>
+
+XVIII. Promover la inclusión de la perspectiva de género con una visión transversal en la ciencia, la tecnología y la innovación, así como una participación equitativa de mujeres y hombres en todos los ámbitos del Sistema Estatal de Ciencia, Tecnología e Innovación; y,
+
+XIX. Las demás que le confieran otras disposiciones legales y reglamentarias.
 
 ### Capítulo Tercero. De la estructura orgánica y funcionamiento del Instituto
 
@@ -510,3 +516,13 @@ Juan S. Millán Lizárraga.
 El Secretario General de Gobierno
 
 Gonzalo M. Armienta Calderón
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 568 DEL H. CONGRESO DEL ESTADO.- SE REFORMAN DIVERSAS DISPOSICIONES Y SE ADICIONA LA FRACCIÓN XXIII AL ARTÍCULO 2, DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
