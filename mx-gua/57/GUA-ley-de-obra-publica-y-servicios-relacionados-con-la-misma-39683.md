@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-39683
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-25"
-last_updated: "2013-06-07"
+last_updated: "2016-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39683&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, PUBLICADA EN EL P.O. DE 20 DE ABRIL DE 2018, ORDENAMIENTO QUE ENTRA EN VIGOR SESENTA DÍAS POSTERIORES A SU PUBLICACIÓN.]</small>
+
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de mayo de 2004.
 
@@ -1437,11 +1439,9 @@ El contratista que no reintegre dicho saldo en el plazo señalado, cubrirá los 
 
 La contratante podrá eximir al contratista del otorgamiento de la garantía de cumplimiento, cuando se den los siguientes supuestos:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
-
-I.- Cuando se trate de contratos o bien de convenios modificatorios cuyo importe no rebase el monto de 2,500 veces el salario mínimo diario vigente en el Estado de Guanajuato, en estos casos no se otorgará porcentaje alguno de anticipo;
+I.- Cuando se trate de contratos o bien de convenios modificatorios cuyo importe no rebase el monto de 2,500 veces la Unidad de Medida y Actualización diaria; en estos casos no se otorgará porcentaje alguno de anticipo;
 
 II.- Tratándose de Organismos Públicos Autónomos por Ley; y
 
@@ -1845,7 +1845,9 @@ El costo de financiamiento estará sujeto a las variaciones de la tasa de inter�
 
 El ajuste de costos que corresponda a los trabajos ejecutados conforme a las estimaciones correspondientes, deberá cubrirse por parte de la contratante, a solicitud del contratista, a más tardar dentro de los treinta días naturales siguientes a la fecha en que el ente público resuelva por escrito el aumento o reducción respectivo; y
 
-VI.- En relación con los costos de mano de obra, los incrementos o decrementos serán calculados conforme a lo establecido por los indicadores de la Comisión Nacional de Salarios Mínimos o en su caso, previa demostración fehaciente y con autorización del titular de la contratante, de acuerdo al factor de demanda. El factor de demanda será previamente investigado y analizado de acuerdo a la zona de influencia de la ejecución de la obra y autorizado por la Secretaría.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+VI.- En relación con los costos de mano de obra, los incrementos o decrementos serán calculados conforme la Unidad de Medida y Actualización o en su caso, previa demostración fehaciente y con autorización del titular de la contratante, de acuerdo al factor de demanda. El factor de demanda será previamente investigado y analizado de acuerdo a la zona de influencia de la ejecución de la obra y autorizado por la Secretaría.
 
 El factor de salario real permanecerá fijo, hasta la terminación de los trabajos contratados, incluyendo convenios, debiendo considerar los ajustes a las prestaciones que para tal efecto determine la Ley del Instituto Mexicano del Seguro Social, dándoles un trato similar a un ajuste de costos.
 
@@ -2238,3 +2240,9 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
