@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-sistema-de-seguridad-publica-del-estado-de-103697"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2016-04-12"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 12 DE ABRIL DE 2016 NO APLICA AL ARTICULADO DEL DECRETO LEGISLATIVO 77 PUBLICADO EN EL P.O. DE 18 DE MARZO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de noviembre de 2014.
 
@@ -2439,7 +2437,9 @@ Las sanciones consistirán en:
 
 I. Amonestación;
 
-II. Multa desde cien hasta diez mil salarios mínimos vigentes en el estado de Guanajuato;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+II. Multa desde cien hasta diez mil veces la Unidad de Medida y Actualización diaria;
 
 III. Suspensión de actividades hasta por un año con difusión pública; y
 
@@ -2850,3 +2850,9 @@ P.O. 18 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 77, DE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE EMITE LA LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS; SE ADICIONA UN CAPÍTULO IV, AL TÍTULO CUARTO, SECCIÓN TERCERA, DEL LIBRO SEGUNDO DENOMINADO "DELITOS EN MATERIA DE TRANSPORTE PÚBLICO", QUE SE INTEGRA POR EL ARTÍCULO 235 BIS, DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO; SE REFORMA Y ADICIONA A (SIC) LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Artículo del Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
