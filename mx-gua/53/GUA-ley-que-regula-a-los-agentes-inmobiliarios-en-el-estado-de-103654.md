@@ -4,7 +4,7 @@ identifier: "GUA-ley-que-regula-a-los-agentes-inmobiliarios-en-el-estado-de-1036
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-21"
-last_updated: "2014-11-21"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY QUE REGULA A LOS AGENTES INMOBILIARIOS EN EL ESTADO DE GUANAJUATO
 
-> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTÍCULO PRIMERO TRANSITORIO DE LA PRESENTE LEY ENTRARÁ EN VIGOR EL 1 DE ENERO DE 2015.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 21 de noviembre de 2014.
 
@@ -379,7 +377,9 @@ Tipos de sanciones
 
 El incumplimiento de las disposiciones de esta Ley por parte de los agentes inmobiliarios, dará lugar a las siguientes sanciones:
 
-I. Multa de 10 hasta de 100 veces el salario mínimo vigente en el Estado; y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+I. Multa de 10 hasta de 100 veces la Unidad de Medida y Actualización diaria: y
 
 II. Cancelación de la acreditación de agente inmobiliario.
 
@@ -458,3 +458,11 @@ MIGUEL MÁRQUEZ MÁRQUEZ
 EL SECRETARIO DE GOBIERNO
 
 ANTONIO SALVADOR GARCÍA LÓPEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
