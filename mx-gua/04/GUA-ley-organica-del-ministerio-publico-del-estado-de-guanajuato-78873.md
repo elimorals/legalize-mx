@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-ministerio-publico-del-estado-de-guanajuato-78
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-24"
-last_updated: "2014-11-28"
+last_updated: "2016-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 24 de diciembre de 2010.
 
@@ -761,7 +761,7 @@ IV. Motivo, que se clasifica en:
 
 a) Tipo de evento; y
 
-b) Subtipo de evento;
+b) Subtipo de evento.
 
 V. La ubicación del evento;
 
@@ -1883,7 +1883,9 @@ Las sanciones consistirán en:
 
 I. Amonestación. Consiste en la llamada de atención o advertencia que se le formula al servidor público para que no incurra en otra falta administrativa y lo conmina a rectificar su conducta, misma que se hará constar por escrito y se anexará al expediente individual para referencia;
 
-II. Multa. Consiste en el pago al Estado de una suma de dinero que se fije por días multa. El día multa equivale al salario mínimo general vigente en el Estado al momento de cometerse la falta;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
+
+II. Multa. Consiste en el pago al Estado de una suma de dinero que se fije por días multa. El día multa equivale a una Unidad de Medida y Actualización diaria vigente al momento de cometerse la falta;
 
 La multa podrá ser de uno a trescientos días y su monto se hará efectivo a través del procedimiento administrativo de ejecución previsto para los créditos fiscales y lo recaudado será destinado para integrar el Fondo para la Atención y Apoyo a las Víctimas y a los Ofendidos del Delito del Estado de Guanajuato;
 
@@ -2350,3 +2352,9 @@ TRANSITORIOS DEL DECRETO
 Inicio de vigencia
 
 Artículo Único. El presente Decreto entrará en vigencia en los términos que se precisan en cada uno de los artículos que lo conforman.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN".]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
