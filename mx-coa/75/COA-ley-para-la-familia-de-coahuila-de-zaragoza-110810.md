@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-familia-de-coahuila-de-zaragoza-110810"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2016-06-10"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -29,7 +29,7 @@ DEL MISMO MODO, CORRESPONDE AL CONSEJO DE LA JUDICATURA DETERMINAR LA GRADUALIDA
 
 LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 15 de diciembre de 2015.
 
@@ -1186,6 +1186,10 @@ De la sociedad conyugal.
 El régimen de sociedad conyugal consiste en la integración y administración de un patrimonio común, diferente de los patrimonios propios de los cónyuges.
 
 El dominio de los bienes comunes reside en ambos cónyuges mientras subsista la sociedad.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2016)</small>
+
+Los bienes adquiridos por herencia, legado, donación y don de la fortuna no formarán parte de la sociedad conyugal y pertenecerán de manera exclusiva al cónyuge que los adquiera, por lo tanto, toda convención en contra de este principio se tendrá por no puesta.
 
 ###### Artículo 175.
 
@@ -3921,9 +3925,15 @@ Toda familia tiene derecho a disfrutar de una vivienda digna y decorosa.
 
 Para los efectos de este título se entiende por familia a las personas que se encuentran unidas por lazos de solidaridad, respeto, ayuda mutua y afectividad libremente aceptados con la finalidad de llevar una comunidad de vida, contribuyendo a la satisfacción de las necesidades de subsistencia de sus integrantes. Por lo tanto, pueden constituir el patrimonio familiar con el objeto de proteger jurídica y económicamente a su familia, cualquier persona que la integre.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2016)</small>
+
+También podrán constituir patrimonio familiar las personas que conformen un hogar unipersonal, entendiéndose por estos los integrados por una sola persona, en cuyo caso los beneficios serán para quien lo constituye siendo aplicables las disposiciones de este capítulo en lo conducente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
+
 ###### Artículo 600.
 
-El patrimonio de la familia está compuesto por todos aquellos bienes constituidos para la satisfacción de las necesidades mínimas de subsistencia y desarrollo de los miembros del núcleo familiar en los términos de esta ley.
+El patrimonio de la familia está compuesto por todos aquellos bienes constituidos para la satisfacción de las necesidades mínimas de subsistencia y desarrollo de los miembros del núcleo familiar, o en su caso, de la persona que constituya un hogar unipersonal, en los términos de esta ley.
 
 Son susceptibles de constituir el patrimonio de la familia los bienes inmuebles, y muebles, en los términos del artículo 612 de este ordenamiento.
 
@@ -3946,6 +3956,10 @@ El derecho establecido en el artículo 601 de este ordenamiento es intransmisibl
 ###### Artículo 605.
 
 En caso de muerte del constituyente del patrimonio de la familia, si le sobreviven personas que tengan los derechos que concede el artículo 601 de esta ley, continuará existiendo el citado patrimonio sin dividirse, mientras subsista el derecho de éstas o de una de ellas sobre dicho patrimonio.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2016)</small>
+
+Tratándose de patrimonio de familia constituido por persona que conforma un hogar unipersonal, en caso de muerte del constituyente se extingue dicho patrimonio, sin perjuicio de los derechos que tengan sus acreedores alimentarios sobre los bienes.
 
 ###### Artículo 606.
 
@@ -3977,23 +3991,31 @@ Sólo puede constituirse el patrimonio de la familia, con bienes sitos en el mun
 
 El patrimonio de la familia podrá establecerse por cualquiera de las personas a que se refiere el artículo 599 de esta ley y por el tutor o tutriz, cuando administre bienes pertenecientes a niñas o niños.
 
-Por cada familia, sólo puede constituirse un patrimonio de la clase reglamentada en este capítulo, y serán inexistentes los que se constituyan subsistiendo el primero.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
+Por cada familia o persona que constituya un hogar unipersonal, sólo puede constituirse un patrimonio de la clase reglamentada en este capítulo, y serán inexistentes los que se constituyan subsistiendo el primero.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
 ###### Artículo 612.
 
 Son objeto del patrimonio de familia:
 
-I. La casa, cualquiera que sea su valor, siempre que se trate de un inmueble destinado a la habitación de la familia.
+I. La casa habitación de la familia, o en su caso, de la persona que constituya un hogar unipersonal.
 
-II. El mobiliario y equipo de la vivienda familiar, siempre que estén perfectamente identificados y su valor no exceda de tres mil salarios mínimos general diario vigente en el Estado.
+II. El menaje de la vivienda a que se refiere la fracción anterior.
 
-III. El vehículo destinado para uso y beneficio de la familia.
+III. El vehículo destinado para uso y beneficio de la familia, o en su caso, de la persona que constituya un hogar unipersonal.
 
-IV. El equipo y herramienta de la industria que le sirva de sustento económico, con un valor de hasta tres mil salarios mínimos general diario vigente en el Estado.
+IV. Los libros, biblioteca, escritorios, útiles, instrumentos computacionales y demás equipo y herramienta de la industria que le sirva de sustento económico, con un valor diario de hasta tres mil unidades de medida y actualización.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
 ###### Artículo 613.
 
-Para constituir el patrimonio de la familia, el interesado presentará por escrito una solicitud (sic) la autoridad judicial de su domicilio, manifestando su voluntad para la constitución, designando con toda precisión los bienes que se pretende afectar, a fin de poder acordarse oportunamente la inscripción del patrimonio en el Registro Público, y ofrecerá pruebas sobre los hechos a que se refiere el artículo siguiente.
+Para constituir el patrimonio de la familia, el interesado presentará por escrito una solicitud ante la autoridad judicial de su domicilio, manifestando su voluntad para la constitución, designando con toda precisión los bienes que se pretende afectar, a fin de poder acordarse oportunamente la inscripción del patrimonio en el Registro Público, y ofrecerá pruebas sobre los hechos a que se refiere el artículo siguiente.
+
+El Ministerio Público y la Procuraduría para Niños, Niñas y la Familia serán oídos en la constitución, ampliación, reducción y extinción del patrimonio de la familia.
 
 ###### Artículo 614.
 
@@ -4003,7 +4025,9 @@ I. Que es mayor de edad o que está emancipado.
 
 II. Que está domiciliado en el lugar donde se quiere constituir el patrimonio.
 
-III. La existencia de la familia a cuyo favor se va a constituir el patrimonio y que es miembro de la misma.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+III. La existencia de la familia a cuyo favor se va a constituir el patrimonio y que es miembro de la misma, o que se trate de persona que conforma un hogar unipersonal a que se refiere el artículo 599.
 
 IV. Que son propiedad del constituyente los bienes destinados al patrimonio de la familia y que no reportan gravámenes fuera de las servidumbres.
 
@@ -4097,9 +4121,13 @@ Del cumplimiento de habitar la casa, según lo dispuesto en el artículo anterio
 
 El patrimonio de la familia se extingue, en cualquiera de los casos siguientes:
 
-I. Cuando todos los beneficiarios cesen de tener derecho de percibir alimentos.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-II. Cuando sin causa justificada, la familia deje de habitar, por un año, la casa que debe servirle de morada, o de cultivar por su cuenta y por dos años consecutivos, la parcela que forma parte de ese patrimonio.
+I. Cuando todos los beneficiarios cesen de tener derecho de percibir alimentos, salvo que se trate de persona que conforme un hogar unipersonal a que se refiere el artículo 599.
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+II. Cuando sin causa justificada, la familia o la persona que constituya un hogar unipersonal deje de habitar, por un año, la casa que debe servirle de morada, o de cultivar por su cuenta y por dos años consecutivos, la parcela que forma parte de ese patrimonio.
 
 III. Cuando se demuestre que hay gran necesidad o notoria utilidad en la extinción del patrimonio de la familia, para quienes tienen sobre éste los derechos que concede el artículo 601 de esta ley.
 
@@ -4139,9 +4167,13 @@ II. Cuando los bienes muebles que integran el patrimonio familiar, por causas po
 
 Extinguido el patrimonio de la familia, los bienes que lo formaban vuelven al pleno dominio del que lo constituyó, si la extinción se verifica en vida del mismo, y en su caso se transmitirán a los herederos del constituyente.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
 ###### Artículo 640.
 
-El Ministerio Público y la Procuraduría para Niños, Niñas y la Familia serán oídos en la constitución, ampliación, reducción y extinción del patrimonio de la familia.
+La constitución, ampliación, reducción y extinción del patrimonio de la familia voluntario también podrá llevarse a cabo por el interesado ante Notario Público del lugar donde se encuentren los bienes, quien hará constar su intervención en escritura pública cumpliendo con las disposiciones de este capítulo y de la Ley del Notariado para el Estado de Coahuila de Zaragoza.
+
+Cuando exista oposición del Ministerio Público o de la Procuraduría para Niños, Niñas y la Familia, el Notario Público suspenderá su actuación y remitirá lo actuado ante su fe a la autoridad judicial competente para que resuelva lo conducente.
 
 ## TÍTULO DÉCIMO PRIMERO. DE LOS CONSEJOS DE FAMILIA
 
@@ -4356,3 +4388,21 @@ P.O. 10 DE JUNIO DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 494.- SE REFORMAN LOS ARTÍCULOS 613 Y 640 DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; ASÍ MISMO, SE REFORMAN LOS ARTÍCULOS 728, 735 Y 755 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 495.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA; ASÍ MISMO, SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 715 Y 727 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- En los distritos judiciales en los cuales no haya iniciado su vigencia la Ley para la Familia de Coahuila de Zaragoza y el Código de Procedimientos Familiares para el Estado de Coahuila de Zaragoza, la vigencia de las disposiciones de la presente reforma relativas a estos ordenamientos, entrarán en vigor conforme a la gradualidad determinada por el Consejo de la Judicatura del Poder Judicial del Estado prevista en los artículos primero y segundo transitorios del decreto 477 publicado en el Periódico Oficial del Gobierno del Estado el día 10 de junio de 2016.
+
+TERCERO.- Las reformas del Código Civil para el Estado de Coahuila de Zaragoza contenidas en el presente decreto entrarán en vigor al día siguiente de su publicación en los distritos judiciales o municipios en los que no haya iniciado su vigencia la Ley para la Familia de Coahuila de Zaragoza.
+
+Una vez que entre en vigor la Ley para la Familia conforme al primero y segundo transitorios del decreto 477, quedarán derogados los artículos del Código Civil para el Estado de Coahuila de Zaragoza incluidos en el presente decreto.
