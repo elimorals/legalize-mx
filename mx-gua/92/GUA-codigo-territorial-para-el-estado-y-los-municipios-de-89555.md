@@ -4,7 +4,7 @@ identifier: "GUA-codigo-territorial-para-el-estado-y-los-municipios-de-89555"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-09-25"
-last_updated: "2013-10-22"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de septiembre de 2012.
 
@@ -5337,13 +5337,21 @@ Los fraccionamientos y desarrollos en condominio, se clasifican en:
 
 I. Habitacionales: aquéllos conformados por viviendas o unidades para uso habitacional y que, a su vez, se clasifican en:
 
-a) Populares: aquéllos conformados por viviendas o unidades cuyo monto, al término de su edificación, no exceda del valor que resulte de multiplicar por once el salario mínimo general diario vigente en el Estado, elevada esa cantidad al año;
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
-b) De interés social: aquéllos conformados por viviendas o unidades que sean susceptibles de ser adquiridas por trabajadores de bajos ingresos, sujetos a subsidio federal, estatal o municipal para adquisición de vivienda, o por viviendas o unidades cuyo monto, al término de su edificación, no exceda del valor que resulte de multiplicar por veinticinco el salario mínimo general diario vigente en el Estado, elevada esta cantidad al año;
+a) Populares: aquéllos conformados por viviendas o unidades cuyo monto, al término de su edificación, no exceda del valor que resulte de multiplicar por once la Unidad de Medida y Actualización diaria, elevada esa cantidad al año;
 
-c) Residenciales: aquéllos que se ubiquen dentro de los centros de población delimitados en los programas municipales, cuyas viviendas o lotes se destinan a uso habitacional unifamiliar, cuyo monto, al término de su edificación, sea igual o mayor al valor que resulte de multiplicar por veinticinco el salario mínimo general diario vigente en el Estado, elevada esta cantidad al año; y
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
-d) Campestres: aquéllos que se ubiquen fuera de los centros de población delimitados en los programas municipales, cuyos lotes se destinan a uso habitacional unifamiliar, cuyo monto, al término de su edificación, sea igual o mayor al valor que resulte de multiplicar por veinticinco el salario mínimo general diario vigente en el Estado, elevada esta cantidad al año;
+b) De interés social: aquéllos conformados por viviendas o unidades que sean susceptibles de ser adquiridas por trabajadores de bajos ingresos, sujetos a subsidio federal, estatal o municipal para adquisición de vivienda, o por viviendas o unidades cuyo monto, al término de su edificación, no exceda del valor que resulte de multiplicar por veinticinco la Unidad de Medida y Actualización diaria, elevada esta cantidad al año;
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
+c) Residenciales: aquéllos que se ubiquen dentro de los centros de población delimitados en los programas municipales, cuyas viviendas o lotes se destinan a uso habitacional unifamiliar, cuyo monto, al término de su edificación, sea igual o mayor al valor que resulte de multiplicar por veinticinco la Unidad de Medida y Actualización diaria, elevada esta cantidad al año; y
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
+d) Campestres: aquéllos que se ubiquen fuera de los centros de población delimitados en los programas municipales, cuyos lotes se destinan a uso habitacional unifamiliar, cuyo monto, al término de su edificación, sea igual o mayor al valor que resulte de multiplicar por veinticinco la Unidad de Medida y Actualización diaria, elevada esta cantidad al año;
 
 II. Turísticos, recreativo-deportivos: aquéllos en los· que, además del uso habitacional, se realizan o fomentan actividades de esparcimiento, turísticas, deportivas o recreativas, que se ubican en las zonas determinadas para este uso en el programa municipal;
 
@@ -5991,11 +5999,13 @@ Además, se propiciará que la oferta de vivienda digna refleje los costos de su
 
 Vivienda de interés social y popular o económica
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
 ###### Artículo 462.
 
-Para los efectos de este Título, se entiende por vivienda de interés social, aquélla que sea adquirida o susceptible de ser adquirida por trabajadores de bajo ingreso sujetos a subsidio federal, estatal o municipal para adquisición de vivienda; en caso de no existir un programa de subsidios, se considerará aquélla cuyo monto al término de su edificación, no exceda del valor que resulte de multiplicar por veinticinco el salario mínimo general diario vigente en el Estado, elevada esta cantidad al año.
+Para los efectos de este Título, se entiende por vivienda de interés social, aquélla que sea adquirida o susceptible de ser adquirida por trabajadores de bajo ingreso sujetos a subsidio federal, estatal o municipal para adquisición de vivienda; en caso de no existir un programa de subsidios, se considerará aquélla cuyo monto al término de su edificación, no exceda del valor que resulte de multiplicar por veinticinco la Unidad de Medida y Actualización diaria, elevada esta cantidad al año.
 
-Se entiende por vivienda popular o económica, aquélla cuyo monto al término de su edificación, no exceda del valor que resulte de multiplicar por once el salario mínimo general diario vigente en el Estado, elevada esta cantidad al año.
+Se entiende por vivienda popular o económica, aquélla cuyo monto al término de su edificación, no exceda del valor que resulte de multiplicar por once la Unidad de Medida y Actualización diaria, elevada esta cantidad al año.
 
 Vivienda vertical
 
@@ -7083,7 +7093,9 @@ III. La suspensión temporal o definitiva, total o parcial, de trabajos, servici
 
 IV. Revocación de los permisos otorgados;
 
-V. Multa equivalente al importe de cincuenta a diez mil días de salario mínimo vigente en la entidad, al momento de cometerse la infracción; y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+V. Multa equivalente al importe de cincuenta a diez mil veces la Unidad de Medida y Actualización diaria vigente al momento de cometerse la infracción; y
 
 VI. Reparación del daño.
 
@@ -7275,7 +7287,7 @@ EL SECRETARIO DE GOBIERNO
 
 ROMÁN CIFUENTES NEGRETE
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 25 DE JUNIO DE 2013.
 
@@ -7284,3 +7296,9 @@ Artículo Único. El presente Decreto entrará en vigor al cuarto día siguiente
 P.O. 22 DE OCTUBRE DE 2013.
 
 Artículo Único. El presente Decreto entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
