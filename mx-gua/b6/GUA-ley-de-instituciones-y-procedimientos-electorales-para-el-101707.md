@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-instituciones-y-procedimientos-electorales-para-el-10170
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-27"
-last_updated: "2015-12-29"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101707&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de junio de 2014.
 
@@ -621,9 +621,11 @@ Los partidos políticos tendrán derecho al financiamiento público local de sus
 
 I. Para el sostenimiento de actividades ordinarias permanentes:
 
-a) El Consejo General determinará anualmente el monto total por distribuir entre los partidos políticos nacionales conforme a lo siguiente: multiplicará el número total de ciudadanos inscritos en el padrón electoral local al 31 de julio de cada año, por el cuarenta por ciento del salario mínimo diario vigente para el Distrito Federal.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
-De la misma forma se realizará la distribución entre los partidos políticos locales: se multiplicará el número total de ciudadanos inscritos en el padrón electoral local al 31 de julio de cada año, por el cuarenta por ciento del salario mínimo diario vigente para el estado de Guanajuato;
+a) El Consejo General determinará anualmente el monto total por distribuir entre los partidos políticos nacionales conforme a lo siguiente: multiplicará el número total de ciudadanos inscritos en el padrón electoral local al 31 de julio de cada año, por el cuarenta por ciento de la Unidad de Medida y Actualización diaria.
+
+De la misma forma se realizará la distribución entre los partidos políticos locales: se multiplicará el número total de ciudadanos inscritos en el padrón electoral local al 31 de julio de cada año, por el cuarenta por ciento de la Unidad de Medida y Actualización diaria;
 
 b) El resultado de las operaciones realizadas en el inciso anterior constituye el financiamiento público anual a los partidos políticos por sus actividades ordinarias permanentes y se distribuirá entre los partidos políticos de la siguiente forma: el treinta y cinco por ciento del monto total en partes iguales y el sesenta y cinco por ciento restante se distribuirá en proporción igual a la que represente el número de votos logrados en la anterior contienda electoral de diputados locales.
 
@@ -2253,7 +2255,9 @@ I. Apercibimiento;
 
 II. Amonestación;
 
-III. Multa de cincuenta hasta cinco mil veces el salario mínimo diario general vigente en el Estado. En caso de reincidencia se podrá aplicar hasta el doble de la cantidad señalada;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+III. Multa de cincuenta hasta cinco mil veces la Unidad de Medida y Actualización diaria. En caso de reincidencia se podrá aplicar hasta el doble de la cantidad señalada;
 
 IV. Auxilio de la fuerza pública; y
 
@@ -4251,7 +4255,9 @@ I. Respecto de los partidos políticos:
 
 a) Con amonestación pública;
 
-b) Con multa de cincuenta a mil días de salario mínimo general vigente en el Estado, según la gravedad de la falta. En los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes, o de los candidatos para sus propias campañas, con un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior;
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
+b) Con multa de cincuenta a mil veces la Unidad de Medida y Actualización diaria, según la gravedad de la falta. En los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes, o de los candidatos para sus propias campañas, con un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior:
 
 c) Según la gravedad de la falta, con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público que les corresponda a los partidos políticos, por el periodo que señale la resolución;
 
@@ -4263,7 +4269,9 @@ II. Respecto de los aspirantes, precandidatos o candidatos a cargos de elección
 
 a) Con amonestación pública;
 
-b) Con multa de hasta mil días de salario mínimo general vigente en el estado, y
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
+b) Con multa de hasta mil veces la Unidad de Medida y Actualización diaria, y
 
 c) Con la pérdida del derecho del precandidato infractor a ser registrado como candidato o, en su caso, si ya está hecho el registro, con la cancelación del mismo. Cuando las infracciones cometidas por aspirantes o precandidatos a cargos de elección popular, sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político de que se trate. Así como en el caso del precandidato que resulte electo en el proceso interno, el partido político no podrá registrarlo como candidato.
 
@@ -4271,7 +4279,9 @@ III. Respecto de los candidatos independientes:
 
 a) Con amonestación pública;
 
-b) Con multa de hasta mil días de salario mínimo general vigente para el estado, y
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
+b) Con multa de hasta mil veces la Unidad de Medida y Actualización diaria, y
 
 c) Con la pérdida del derecho del aspirante infractor a ser registrado como Candidato Independiente o, en su caso, si ya hubiera sido registrado, con la cancelación del mismo.
 
@@ -4279,7 +4289,9 @@ IV. Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos pol
 
 a) Con amonestación pública;
 
-b) En caso de reincidencia, con multa de hasta mil días de salario mínimo general vigente en el estado.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
+b) En caso de reincidencia, con multa de hasta mil veces la Unidad de Medida y Actualización diaria.
 
 Para la individualización de las sanciones a que se refiere esta fracción, la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción; las condiciones socioeconómicas del infractor; las condiciones externas y los medios de ejecución; la reincidencia en el incumplimiento de obligaciones y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
 
@@ -4287,7 +4299,9 @@ V. Respecto de las organizaciones de ciudadanos que pretendan constituir partido
 
 a) Con amonestación pública;
 
-b) Con multa de hasta cinco mil días de salario mínimo general vigente en el estado, según la gravedad de la falta, y
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
+b) Con multa de hasta cinco mil veces la Unidad de Medida y Actualización diaria, según la gravedad de la falta, y
 
 c) Con la cancelación del procedimiento tendente a obtener el registro como partido político nacional.
 
@@ -4295,11 +4309,15 @@ VI. Respecto de las organizaciones sindicales, laborales o patronales, o de cual
 
 a) Con amonestación pública, y
 
-b) Con multa de hasta cinco mil días de salario mínimo general vigente en el Estado, según la gravedad de la falta.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
+b) Con multa de hasta cinco mil veces la Unidad de Medida y Actualización diaria, según la gravedad de la falta.
 
 VII. Respecto a los servidores públicos de cualquiera de los poderes públicos del Estado, del órgano de gobierno municipal, de los organismos autónomos, de las dependencias y entidades de la administración pública estatal y municipal, y cualquier otro ente público estatal o municipal, se estará a lo siguiente:
 
-a) Con amonestación, suspensión, destitución del cargo o multa de hasta cien veces el salario mínimo general vigente en el estado:
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
+a) Con amonestación, suspensión, destitución del cargo o multa de hasta cien veces la Unidad de Medida y Actualización diaria:
 
 1. A los servidores públicos, estatales o municipales por no prestar el auxilio y colaboración que les sea requerida por los órganos del Instituto Electoral, en tiempo y forma;
 
@@ -4311,7 +4329,9 @@ a) Con amonestación, suspensión, destitución del cargo o multa de hasta cien 
 
 5. A los funcionarios electorales que por negligencia extravíen paquetes que contengan votos.
 
-b) Con suspensión, destitución del cargo, inhabilitación para obtener algún cargo público hasta por tres años o multa de hasta ciento cincuenta veces el salario mínimo general vigente en el Estado:
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
+b) Con suspensión, destitución del cargo, inhabilitación para obtener algún cargo público hasta por tres años o multa de hasta ciento cincuentaveces (sic) la Unidad de Medida y Actualización diaria:
 
 1. Al servidor público, estatal o municipal, que presente o haga valer un documento electoral alterado, así como que altere o inutilice alguno;
 
@@ -5876,3 +5896,9 @@ Artículo Noveno. De conformidad a lo estipulado en el Reglamento de Entrega Rec
 Término para la adecuación reglamentaria
 
 Artículo Décimo. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de esta reforma, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
