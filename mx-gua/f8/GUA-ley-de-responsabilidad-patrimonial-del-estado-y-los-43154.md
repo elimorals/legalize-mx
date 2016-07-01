@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-responsabilidad-patrimonial-del-estado-y-los-43154"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-07"
-last_updated: "2013-06-07"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 7 de enero de 2005
 
@@ -119,23 +119,31 @@ Si de una misma actividad administrativa irregular se generasen más de un daño
 
 Las indemnizaciones por daño material se sujetarán a las condiciones y límites siguientes:
 
-I.- Se cubrirán al cien por ciento, las indemnizaciones cuya cuantificación en dinero no exceda de quinientas veces el salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-II.- Se cubrirán entre un setenta por ciento a un cien por ciento, las indemnizaciones cuya cuantificación en dinero exceda de quinientas veces pero no de cinco mil veces el salario mínimo general vigente en el Estado;
+I.- Se cubrirán al cien por ciento, las indemnizaciones cuya cuantificación en dinero no exceda de quinientas veces la Unidad de Medida y Actualización diaria;
 
-III.- Se cubrirán entre un sesenta por ciento a un setenta por ciento, las indemnizaciones cuya cuantificación en dinero exceda de cinco mil veces pero no de diez mil veces el salario mínimo general vigente en el Estado; y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-IV.- Se cubrirán entre un treinta por ciento a un sesenta por ciento, las indemnizaciones cuya cuantificación en dinero exceda de diez mil veces el salario mínimo general vigente en el Estado.
+II.- Se cubrirán entre un setenta por ciento a un cien por ciento, las indemnizaciones cuya cuantificación en dinero exceda de quinientas veces pero no de cinco mil veces la Unidad de Medida y Actualización diaria;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+III.- Se cubrirán entre un sesenta por ciento a un setenta por ciento, las indemnizaciones cuya cuantificación en dinero exceda de cinco mil veces pero no de diez mil veces la Unidad de Medida y Actualización diaria; y
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+IV.- Se cubrirán entre un treinta por ciento a un sesenta por ciento, las indemnizaciones cuya cuantificación en dinero exceda de diez mil veces la Unidad de Medida y Actualización diaria.
 
 ###### Artículo 12.
 
 El monto del daño material se sujetará a la práctica de un avalúo, que tenderá a establecer el valor comercial, los frutos que en su caso hubiere podido producir la cosa objeto del avalúo y todas las circunstancias que puedan influir en la determinación del valor comercial.
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
 ###### Artículo 13.
 
-Cuando el daño se cause a las personas y produzca la muerte, incapacidad total permanente, parcial permanente, total temporal o parcial temporal, el grado de ella se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. Para calcular la indemnización que corresponda se tomará como base el salario mínimo general vigente en la Entidad y se atenderá al número de días que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo. En caso de muerte, la presentación de la reclamación de la indemnización, así como su disfrute corresponderá a los herederos legítimos de la víctima.
+Cuando el daño se cause a las personas y produzca la muerte, incapacidad total permanente, parcial permanente, total temporal o parcial temporal, el grado de ella se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. Para calcular la indemnización que corresponda se tomará como base la Unidad de Medida y Actualización diaria y se atenderá al número de días que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo. En caso de muerte, la presentación de la reclamación de la indemnización, así como su disfrute corresponderá a los herederos legítimos de la víctima.
 
 ###### Artículo 14.
 
@@ -155,9 +163,11 @@ La actualización del monto de la indemnización se obtendrá multiplicando dich
 
 El Índice Nacional de Precios al Consumidor será el que publique el Banco de México. En los casos en que el índice correspondiente al mes anterior al más reciente del período, no haya sido publicado, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
 ###### Artículo 17.
 
-Cuando el daño ocasionado al particular le produzca incapacidad para trabajar, y carezca de las prestaciones que otorgan las instituciones públicas de seguridad social para el sostenimiento personal durante el término de la incapacidad, la indemnización incluirá el equivalente a un salario mínimo vigente en el Estado, mientras subsista la imposibilidad de trabajar.
+Cuando el daño ocasionado al particular le produzca incapacidad para trabajar, y carezca de las prestaciones que otorgan las instituciones públicas de seguridad social para el sostenimiento personal durante el término de la incapacidad, la indemnización incluirá el equivalente a una Unidad de Medida y Actualización diaria, mientras subsista la imposibilidad de trabajar.
 
 ###### Artículo 18.
 
@@ -239,7 +249,9 @@ Las autoridades acordarán la acumulación de los expedientes de los procedimien
 
 Las reclamaciones de indemnización por responsabilidad patrimonial notoriamente improcedentes serán desechadas de plano por la autoridad ante la cual se presenten.
 
-A quien promueva una reclamación de indemnización notoriamente improcedente en los términos del Artículo 26 o afirme hechos falsos u omita los que le consten en relación con dicha reclamación, se le impondrá una multa cuyo monto será equivalente de veinte a ciento veinte días de salario mínimo general vigente en el Estado. La multa será impuesta, sin trámite alguno, por la autoridad ante quien se haya presentado la reclamación.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
+A quien promueva una reclamación de indemnización notoriamente improcedente en los términos del artículo 26 o afirme hechos falsos u omita los que le consten en relación con dicha reclamación, se le impondrá una multa cuyo monto será equivalente de veinte a ciento veinte veces la Unidad de Medida y Actualización diaria. La multa será impuesta, sin trámite alguno, por la autoridad ante quien se haya presentado la reclamación.
 
 Los sujetos obligados deberán denunciar ante el Ministerio Público a toda persona que directa o indirectamente participe, coadyuve, asista o simule la producción de algún daño con el propósito de acreditar indebidamente la responsabilidad patrimonial de éstos o de obtener alguna de las indemnizaciones a que se refiere esta Ley.
 
@@ -389,7 +401,9 @@ Las autoridades, para hacer cumplir sus determinaciones, podrán emplear en este
 
 I.- Apercibimiento;
 
-II.- Multa del equivalente de uno a treinta días de salario mínimo general vigente en el Estado, al momento en que se realizó la conducta que motivó el medio de apremio; y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+II.- Multa del equivalente de una a treinta veces la Unidad de Medida y Actualización diaria vigente, al momento en que se realizó la conducta que motivó el medio de apremio; y
 
 III.- El auxilio de la fuerza pública.
 
@@ -506,3 +520,9 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN".]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
