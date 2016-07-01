@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-salud-del-estado-de-guanajuato-5448"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-08"
-last_updated: "2014-06-10"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE SALUD DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de agosto de 1986.
 
@@ -2703,27 +2703,27 @@ IV.- La calidad de reincidente del infractor; y
 
 V.- El beneficio obtenido por el infractor como resultado de la infracción.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 294.
 
-Se sancionarán con multa equivalente hasta mil veces el salario mínimo general diario vigente en el Estado, la violación a las disposiciones contenidas en los Artículos 166, 172, 174, 175, 176, 180, 193, 211, 216, 228 y 232.
+Se sancionarán con multa equivalente hasta mil veces la Unidad de Medida y Actualización diaria, la violación a las disposiciones contenidas en los artículos 166, 172, 174, 175, 176, 180, 193, 211, 216, 228 y 232.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 295.
 
-Se sancionará con multa equivalente de mil hasta cuatro mil veces el salario mínimo general diario vigente en el Estado, la violación a las disposiciones contenidas en los Artículos 212 y 276.
+Se sancionará con multa equivalente de mil hasta cuatro mil veces la Unidad de Medida y Actualización diaria, la violación a las disposiciones contenidas en los Artículos 212 y 276.
 
 ###### ARTICULO 296.
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 297.
 
-Las infracciones no previstas en este Capítulo en lo que respecta a salubridad local serán sancionadas con multa equivalente hasta por quinientas veces el salario mínimo general diario vigente en el Estado, atendiendo a lo establecido en el Artículo 293 de esta Ley.
+Las infracciones no previstas en este Capítulo en lo que respecta a salubridad local serán sancionadas con multa equivalente hasta por quinientas veces la Unidad de Medida y Actualización diaria, atendiendo a lo establecido en el Artículo 293 de esta Ley.
 
 ###### ARTICULO 298.
 
@@ -3090,3 +3090,9 @@ Artículo Único. El Decreto de derogación de diversos artículos de la Ley de 
 Inicio de vigencia del Decreto
 
 Artículo Único. El presente Decreto iniciará su vigencia a los ciento veinte días al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
