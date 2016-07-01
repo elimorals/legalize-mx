@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-alcoholes-para-el-municipio-de-ensenada-baja-2791
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-10"
-last_updated: "2015-10-16"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 10 de enero de 2003.
 
@@ -85,9 +85,13 @@ El objeto del presente ordenamiento es regular la venta, almacenaje y consumo de
 
 La venta, almacenaje y consumo público de bebidas alcohólicas, sólo podrán realizarse en los establecimientos o lugares que establezca éste ordenamiento, previo permiso que para tal efecto, otorgue el Ayuntamiento de Ensenada o el Ejecutivo municipal en su caso.
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)
+
 ###### ARTÍCULO 3.
 
 Para los efectos de éste Reglamento, se entenderá por:
+
+(REPUBLICADA, P.O. 1 DE JULIO DE 2016)
 
 I. Ley.- La Ley para la Venta, Almacenaje y Consumo Público de Bebidas Alcohólicas del Estado de Baja California.
 
@@ -131,7 +135,13 @@ XX. Regularización.- Procedimiento que realiza el Ayuntamiento para otorgar per
 
 XXI. Co-titularidad.- Es la autorización por el presidente municipal a una persona física y una persona moral a compartir los derechos para operar un establecimiento mercantil, donde se expenda bebidas alcohólicas y/o cerveza, únicamente en envase cerrado. Estas licencias deberán reunir todos los requisitos exigidos por este reglamento.
 
+(REPUBLICADA, P.O. 1 DE JULIO DE 2016)
+
 XXII. Cancelación.- Resolución emitida por el ejecutivo municipal, mediante la cual queda sin efecto el permiso, conforme al procedimiento establecido en el presente ordenamiento.
+
+> <small>(ADICIONADA, P.O. 1 DE JULO DE 2016)</small>
+
+XXIII.- CERVECERÍA ARTESANAL: Espacio donde se almacena para su venta en envase abierto o cerrado, cerveza de producción propia y/o de un diverso productor de cerveza artesanal, como actividad principal;
 
 ###### ARTÍCULO 4.
 
@@ -327,7 +337,11 @@ V.- Rendir reporte diario de actividades por escrito al Director de Alcoholes y 
 
 VI.- Las demás que señale el presente ordenamiento.
 
+(REPUBLICADO, P.O. 1 DE JULIO DE 2016)
+
 ### CAPITULO TERCERO. CLASIFICACIÓN DE BEBIDAS ALCOHÓLICAS Y DEFINICIÓN DE ESTABLECIMIENTOS DE VENTA, ALMACENAJE Y CONSUMO PÚBLICO
+
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)
 
 ###### ARTÍCULO 17.
 
@@ -341,7 +355,11 @@ b).- Bebidas de contenido alcohólico medio.- bebidas cuya graduación alcohóli
 
 c).- Bebidas de contenido alcohólico alto.- bebidas cuya graduación alcohólica a la temperatura de 15° centígrados sea mayor a 20.1% de alcohol por volumen, pero que no exceda de 55% de alcohol por volumen.
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)
+
 II.- Categoría:
+
+(REPUBLICADO, P.O. 1 DE JULIO DE 2016)
 
 a) Bebidas alcohólicas fermentadas.- Las bebidas alcohólicas producto de la fermentación de materias de origen vegetal, pudiendo contener gas carbónico de origen endógeno, ingredientes o aditivos, sin adicionar alcohol de calidad, común o aguardiente de uva o de azúcar, y cuyo contenido de alcohol por volumen a la temperatura de quince grados centígrados, sea mayor de dos por ciento pero que no exceda del veinte por ciento.
 
@@ -351,7 +369,13 @@ c) Vinos generosos.- Las bebidas alcohólicas elaboradas con no menos de sesenta
 
 d) Licores.- Las bebidas alcohólicas producto de la destilación de hierbas, frutas, granos o esencias, cuyo contenido de alcohol por volumen a la temperatura de quince grados centígrados, sea mayor del veinte por ciento pero que no exceda del cincuenta y cinco por ciento; y,
 
+(REPUBLICADO, P.O. 1 DE JULIO DE 2016)
+
 e) Cerveza.- La bebida fermentada elaborada con malta, lúpulo y agua potable o con infusiones de cualquier semilla farinácea, procedente de gramíneas o leguminosas, raíces o frutos feculentos o azúcares como adjunto de malta con adición de lúpulos o sucedáneos de éstos, siempre que su contenido alcohólico esté entre 2 y 6 grados Gay Lussac.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2016)</small>
+
+f).- CERVEZA ARTESANAL: Bebida fermentada elaborada con malta, lúpulo, levadura y agua potable, no utilizando productos transgénicos ni aditivos químicos que alteren su composición y desarrollo natural en su proceso de fermentación, con contenido alcohólico entre 2 y 12 grados Gay Lussac, producida en centros independientes, ajena totalmente a cualquier consorcio, grupo o sociedad dedicada a la comercialización o producción de cerveza diversa a la artesanal,
 
 ###### ARTÍCULO 18.
 
@@ -375,9 +399,11 @@ VI.- Depósito, Agencia y Sub-agencia.- Son los establecimientos cuya actividad 
 
 VII.- Bodega.- Establecimiento habilitado exclusivamente para almacenar bebidas alcohólicas mercancías diversas para su posterior distribución al mayoreo; y
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)
+
 ###### ARTÍCULO 20.
 
-Establecimientos susceptibles de ser autorizados para la venta almacenaje y consumo dentro del establecimientos de bebidas alcohólicas cualquiera que sea su graduación en su modalidad de envase abierto, con o sin alimentos.
+Establecimientos susceptibles de ser autorizados para la venta almacenaje y consumo dentro del establecimientos (sic) de bebidas alcohólicas cualquiera que sea su graduación en su modalidad de envase abierto, con o sin alimentos.
 
 I.- Fonda, Lonchería, Coctelerías, Centro Botanero, Restaurante.- Establecimiento mercantil cuya actividad principal es la venta de alimentos preparados y susceptible de vender para consumo dentro del establecimiento, bebidas alcohólicas, cualquiera que sea su graduación.
 
@@ -399,9 +425,23 @@ IX.- Centro de espectáculos, Cabaret.- Establecimiento mercantil cuya actividad
 
 X.- Eventos.- Son todos los eventos temporales en donde se congrega la gente para celebrar o degustar, que se lleven a cabo en el territorio municipal, en los que se expenden, y consumen, bebidas alcohólicas, vinos de mesa, licores o cerveza en envase abierto, los días de lunes a domingo en el horario autorizado para tal efecto. En cada evento se requerirá el permiso por escrito de la autoridad municipal competente, especificando en el mismo la clasificación de las bebidas alcohólicas para su consumo y venta al publico lo cual solo podrá hacerse por personas mayores de edad y en envase desechable, así mismo, no deberá permitirse la venta y consumo a personas que no acrediten su mayoría de edad.
 
-I (SIC).- Establecimientos Vitivinícolas.- Son aquellos espacios en donde se producen y/o se almacenan y/o se venden vinos de mesa propios de producción exclusivamente regional; en envase cerrado, abierto o al copeo como actividad principal. Pudiendo ser vinícola, bodega o mostrador comercial.
+XI.- (DEROGADA, P.O. 1 DE JULIO DE 2016)
 
-ARTÍCULO 22 (SIC).- Para el caso de la explotación de servicios adicionales, se requerirá autorización por parte de la Secretaria del Ayuntamiento, los cuales podrán solicitarse, por semana o fracción de la misma. Estos podrán incorporarse de manera definitiva al permiso, previo pago de derechos, que para tal efecto señale la Ley de Ingresos del Municipio, siempre y cuando sean autorizados por el Presidente Municipal.
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2016)</small>
+
+###### ARTÍCULO 21.
+
+Establecimientos susceptibles de ser autorizados para la venta, almacenaje y consumo dentro del establecimientos (sic) de bebidas alcohólicas en su modalidad de envase abierto o cerrado, con o sin alimentos.
+
+I.- Establecimientos Vitivinícolas.- Son aquellos espacios en donde se producen y/o se almacenan y/o se venden vinos de mesa propios de producción exclusivamente regional; en envase cerrado, abierto o al copeo como actividad principal. Pudiendo ser vinícola, bodega o mostrador comercial.
+
+II.- Establecimiento de Cerveza Artesanal: Espacio en donde se almacena y/o se vende cerveza artesanal de producción propia en envase cerrado o abierto como actividad principal, con o sin alimentos;
+
+III.- Microcervecería.- Se entiende aquel establecimiento independiente donde se produce y almacena para su distribución y venta, cerveza artesanal, de producción propia así como de un diverso productor de cerveza artesanal, siempre que el capital para realizar dicha actividad no intervenga con una inversión mayor al 25 % de una diversa persona física o moral dedicada a la industria de la producción cervecera, y cuenta con sala de degustación con música en vivo o grabada, área en el interior o exterior para dar servicios y cuyo volumen de producción de cerveza artesanal no exceda los cinco millones de hectolitros anuales.
+
+###### ARTÍCULO 22.
+
+Para el caso de la explotación de servicios adicionales, se requerirá autorización por parte de la Secretaria del Ayuntamiento, los cuales podrán solicitarse, por semana o fracción de la misma. Estos podrán incorporarse de manera definitiva al permiso, previo pago de derechos, que para tal efecto señale la Ley de Ingresos del Municipio, siempre y cuando sean autorizados por el Presidente Municipal.
 
 Se entiende por Servicios Adicionales:
 
@@ -575,11 +615,23 @@ g).- Discoteca, Café Cantante, Centro de Espectáculos, etc. De 10 a.m. a 03:00
 
 h).- Salones Sociales: Quedará a juicio de la autoridad municipal, la autorización, el aumento o disminución del horario de operación, dependiendo la zona de ubicación y en los casos en los que se afecte la paz, tranquilidad e interés social de los vecinos aledaños a los establecimientos.
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)
+
 ###### ARTÍCULO 28.
 
 Los establecimientos mencionados en el artículo 21 del presente reglamento, expenderán bebidas alcohólicas respetando el siguiente horario:
 
-a).- Establecimientos Vitivinícolas de 09:.00 a.m. a 24:00 hrs.
+(REPUBLICADO, P.O. 1 DE JULIO DE 2016)
+
+a) Establecimientos Vitivinícolas de 09:.00 a.m. a 24:00 hrs.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2016)</small>
+
+b) Establecimiento de Cerveza Artesanal de 10:00 am. a 24:00 hrs.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2016)</small>
+
+c) Microcerveceria de 10:00 am. a 24 hrs.
 
 ###### ARTÍCULO 29.
 
@@ -1380,3 +1432,9 @@ SEGUNDO.- La presente reforma al artículo 25 con relación a las distancias, no
 P.O. 16 DE OCTUBRE DE 2015.
 
 > <small>[N. DE E. EL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMAR EL ARTÍCULO 23 ASÍ COMO SU FRACCIÓN XIII DEL REGLAMENTO DE ALCOHOLES, DEL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA, RELATIVO AL DICTAMEN 030/2015”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA ADICIONAR LA FRACCIÓN XXIII DEL ARTÍCULO 3, INCISO F DEL ARTÍCULO 17, 21, INCISOS B Y C DEL ARTÍCULO 28 Y SE DEROGA LA FRACCIÓN XI DEL ARTÍCULO 20 DEL REGLAMENTO DE ALCOHOLES, RELATIVO A DICTAMEN 13/2016”.]
+
+ÚNICO.- Siendo aprobada la presente reforma, incorpórese al libro de actas y publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para efectos de iniciar la vigencia al siguiente día de su publicación en todo el territorio del Municipio de Ensenada.
