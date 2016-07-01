@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-al-servicio-del-4466"
 country: "mx"
 rank: "estatuto"
 publication_date: "1972-10-21"
-last_updated: "2014-12-30"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Estatuto publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 21 de octubre de 1972.
 
@@ -385,7 +385,9 @@ Si durante la incapacidad por gravidez, tuviera lugar el período vacacional del
 
 En caso de adopción la madre trabajadora tendrá derecho a una licencia por maternidad por 6 semanas a partir de la resolución judicial que la establezca.
 
-IV.- En el período de lactancia tendrán dos reposos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+IV.- En el período de lactancia tendrán dos reposos extraordinarios por día, de media hora cada uno para alimentar a sus hijos, para ello la dependencia o entidad designará un lugar adecuado e higiénico denominado lactario, en caso de que concurran varias dependencias o entidades en un mismo inmueble se podrá designar un lactario común.
 
 V.- Durante los períodos de descanso a que se refiere este artículo, percibirán su salario íntegro;
 
@@ -2206,3 +2208,13 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 30 DE DICIEMBRE DE 2014.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 476.- SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 32 DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA; ASÍ MISMO, SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 59 DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- La Secretaría de Salud del Estado contará con un plazo de quince días para emitir los lineamientos necesarios para la aplicación del presente decreto, contados a partir de la entrada en vigor del mismo.
+
+TERCERO.- Las dependencias o entidades de los Poderes del Estado tendrán un plazo de treinta días para la implementación de sus lactarios, contados a partir de que la Secretaría de Salud del Estado emita los lineamientos a que se refiere el artículo anterior.
