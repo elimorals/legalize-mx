@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-alcoholes-para-el-estado-de-guanajuato-5273"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-18"
-last_updated: "2015-07-07"
+last_updated: "2016-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ALCOHOLES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de diciembre de 1992.
 
@@ -461,9 +461,11 @@ IX.- LOS ALMACENES, DISTRIBUIDORAS VINICOLAS, DEPOSITOS Y EXPENDIOS DE BEBIDAS D
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
+
 ###### ARTICULO 29.
 
-SON INFRACCIONES A LAS DISPOSICIONES DE ESTA LEY LAS QUE A CONTINUACION SE SEÑALAN Y A CADA UNA SE IMPONDRA MULTA EQUIVALENTE AL NUMERO DE VECES QUE SE INDICAN DEL SALARIO MINIMO DIARIO QUE RIJA EN EL ESTADO, CUANDO:
+SON INFRACCIONES A LAS DISPOSICIONES DE ESTA LEY LAS QUE A CONTINUACIÓN SE SEÑALAN Y A CADA UNA SE IMPONDRÁ MULTA EQUIVALENTE AL NÚMERO DE VECES QUE SE INDICAN DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN DIARIA, CUANDO:
 
 I.- NO TENGA LA LICENCIA NECESARIA PARA EL EJERCICIO DE SU ACTIVIDAD, MULTA DE 60 A 300 VECES;
 
@@ -862,3 +864,9 @@ P.O. 7 DE JULIO DE 2015.
 Artículo Primero. El presente decreto entrará en vigor el día siguiente al de publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. Los titulares de las licencias de funcionamiento expedidas con anterioridad a la entrada en vigor del presente Decreto, podrán acudir en cualquier momento ante la Secretaría de Finanzas, Inversión y Administración a designar los beneficiarios a que se refiere el artículo 10 fracción VII, de la Ley de Alcoholes para el Estado de Guanajuato, conforme a las disposiciones generales que al efecto emita la citada Secretaría.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
