@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-penales-para-el-estado-de-4832"
 country: "mx"
 rank: "codigo"
 publication_date: "1959-04-02"
-last_updated: "2015-07-07"
+last_updated: "2016-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
 
 > <small>N. DE E. EL PRESENTE ORDENAMIENTO SERÁ ABROGADO PROGRESIVAMENTE POR LOS ARTÍCULOS PRIMERO Y TERCERO TRANSITORIOS DE LA LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 3 DE SEPTIEMBRE DE 2010, POR LO QUE SE SUGIERE CONSULTARLOS AL FINAL DE ESTE ORDENAMIENTO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 2 de abril de 1959.
 
@@ -447,9 +447,9 @@ Son correcciones disciplinarias:
 
 I.- Apercibimiento;
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-II.- Multa del equivalente de 1 a 200 días del salario mínimo general vigente en el estado al momento y lugar que se cometa la falta que amerite corrección. Si el infractor fuese jornalero, obrero o trabajador, la multa no deberá exceder de un día de salario y tratándose de trabajadores no asalariados, el equivalente a un día de su ingreso;
+II.- Multa del equivalente de 1 a 200 veces la Unidad de Medida y Actualización diaria vigente al momento que se cometa la falta que amerite corrección. Si el infractor fuese jornalero, obrero o trabajador, la multa no deberá exceder de un día de salario y tratándose de trabajadores no asalariados, el equivalente a un día de su ingreso;
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1986)</small>
 
@@ -469,9 +469,9 @@ En vista de lo que manifieste el interesado, el funcionario que la hubiere impue
 
 El Ministerio Público en la averiguación previa, y los tribunales, podrán emplear, para hacer cumplir sus determinaciones, los siguientes medios de apremio:
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-I.- Multa del equivalente de 1 a 200 días del salario mínimo general vigente en el estado al momento y lugar en que se realizó la conducta que motivó el medio de apremio. Si el infractor fuese jornalero, obrero o trabajador, la multa no deberá exceder de un día de salario y tratándose de trabajadores no asalariados, el equivalente a un día de su ingreso.
+I.- Multa del equivalente de 1 a 200 veces la Unidad de Medida y Actualización diaria vigente al momento en que se realizó la conducta que motivó el medio de apremio. Si el infractor fuese jornalero, obrero o trabajador, la multa no deberá exceder de un día de salario y tratándose de trabajadores no asalariados, el equivalente a un día de su ingreso.
 
 II.- Auxilio de la fuerza pública; y
 
@@ -3113,11 +3113,9 @@ Todo inculpado tendrá derecho durante la averiguación previa o el proceso a se
 
 I.- Que garantice el monto estimado de la reparación del daño.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2013)</small>
-
-Tratándose de delitos que afecten la vida o la integridad corporal, y a falta de pruebas específicas respecto al daño causado, el tribunal o el Ministerio Público tomará como base el salario mínimo general vigente en el estado al momento del hecho y las disposiciones que sobre riesgos de trabajo establezca la Ley Federal del Trabajo;
+Tratándose de delitos que afecten la vida o la integridad corporal, y a falta de pruebas específicas respecto al daño causado, el tribunal o el Ministerio Público tomará como base la Unidad de Medida y Actualización vigente al momento del hecho y las disposiciones que sobre riesgos de trabajo establezca la Ley Federal del Trabajo;
 
 II.- Que caucione el cumplimiento de las obligaciones a su cargo, que la Ley establece en razón del proceso; y
 
@@ -3179,23 +3177,23 @@ La caución consistente en depósito en efectivo, se hará por el inculpado o po
 
 Cuando la garantía consista en hipoteca, el inmueble no deberá tener gravamen alguno y su valor fiscal será, cuando menos, de tres veces el monto de la suma fijada como caución.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
 ###### Art. 394.
 
-Cuando se ofrezca como garantía, fianza personal por cantidad que no exceda del equivalente a la percepción durante seis meses del salario mínimo general vigente, quedará bajo la responsabilidad del Juzgador la apreciación que haga de la solvencia e idoneidad del fiador para que la garantía no resulte ilusoria.
+Cuando se ofrezca como garantía, fianza personal por cantidad que no exceda del equivalente a seis meses de la Unidad de Medida y Actualización diaria, quedará bajo la responsabilidad del Juzgador la apreciación que haga de la solvencia e idoneidad del fiador para que la garantía no resulte ilusoria.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
 ###### Art. 395.
 
-Cuando la garantía exceda del equivalente a la percepción durante seis meses del salario mínimo general, el fiador deberá comprobar que tiene bienes raíces en el Estado, inscritos en el Registro Público de la Propiedad, cuyo valor sea, cuando menos, tres veces el monto de la cantidad señalada como garantía, salvo cuando se trate de empresas afianzadoras legalmente constituídas y autorizadas.
+Cuando la garantía exceda del equivalente a seis meses de la Unidad de Medida y Actualización diaria, el fiador deberá comprobar que tiene bienes raíces en el Estado, inscritos en el Registro Público de la Propiedad, cuyo valor sea, cuando menos, tres veces el monto de la cantidad señalada como garantía, salvo cuando se trate de empresas afianzadoras legalmente constituidas y autorizadas.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
 ###### Art. 396.
 
-Cuando se ofrezca como garantía fianza personal por cantidad que exceda del equivalente a la percepción durante seis meses del salario mínimo general o hipoteca, a fin de que el Juzgador califique la solvencia, se deberá presentar certificado de libertad de gravámenes, que comprenda un término de veinte años, y constancia de estar al corriente en el pago de las contribuciones respectivas.
+Cuando se ofrezca como garantía fianza personal por cantidad que exceda del equivalente a seis meses de la Unidad de Medida y Actualización diaria, o hipoteca, a fin de que el Juzgador califique la solvencia, se deberá presentar certificado de libertad de gravámenes, que comprenda un término de veinte años, y constancia de estar al corriente en el pago de las contribuciones respectivas.
 
 ###### Art. 397.
 
@@ -3571,11 +3569,11 @@ Si la resolución fuere afirmativa y la causa se hubiere fundado en hechos que n
 
 Concluído el término probatorio, dentro de las cuarenta y ocho horas siguientes se pronunciará la resolución, contra la que no habrá recurso alguno.
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
 ###### Art. 444.
 
-Cuando se deseche la recusación se impondrá al recusante por concepto de multa el equivalente de hasta 200 días de salario mínimo general vigente en el estado.
+Cuando se deseche la recusación se impondrá al recusante por concepto de multa el equivalente de hasta 200 veces la Unidad de Medida y Actualización diaria.
 
 ###### Art. 445.
 
@@ -4153,11 +4151,13 @@ La multa pagada injustamente será devuelta con actualización.
 
 No procederá la indemnización cuando la sentencia condenatoria sobre la que absuelve, haya sido propiciada por uno conducta negligente o de mala fe atribuible al sentenciado o a la defensa.
 
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
 
 ###### Art. 526 Quinquies.
 
-La indemnización se calculará con base en el promedio diario de los ingresos percibidos por el sentenciado durante el mes anterior a la privación injustificada de su libertad o al indebido internamiento o inhabilitación, pero esa base diaria no podrá exceder de veinte salarios mínimos generales vigentes en el Estado al momento en que haya iniciado la medida injustamente padecida, con los incrementos que haya habido durante el periodo correspondiente. Cuando se desconozca el promedio diario de ingresos, la base para el cálculo será el salario mínimo general diario vigente en el Estado en el momento en que se inició la injusta privación de libertad o inhabilitación, tomando en cuento también sus incrementos.
+La indemnización se calculará con base en el promedio diario de los ingresos percibidos por el sentenciado durante el mes anterior a la privación injustificada de su libertad o al indebido internamiento o inhabilitación, pero esa base diaria no podrá exceder de veinte veces la Unidad de Medida y Actualización diaria vigente al momento en que haya iniciado la medida injustamente padecida, con los incrementos que haya habido durante el periodo correspondiente. Cuando se desconozca el promedio diario de ingresos, la base para el cálculo será la Unidad de Medida y Actualización diaria vigente en el momento en que se inició la injusta privación de libertad o inhabilitación, tomando en cuenta también sus incrementos.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 Para los efectos de la determinación de la indemnización, se computará el tiempo que, el que tiene derecho o la indemnización, haya sido sujeto a una medida restrictiva o privativa de la libertad.
 
@@ -4566,3 +4566,9 @@ Artículo Único. El presente Decreto entrará en vigencia al día siguiente al 
 P.O. 7 DE JULIO DE 2015.
 
 Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
