@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-archivos-generales-del-estado-y-los-municipios-de-56058"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-15"
-last_updated: "2013-06-07"
+last_updated: "2016-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56058&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ARCHIVOS GENERALES DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de junio de 2007.
 
@@ -347,9 +347,11 @@ III. Destitución para los casos de las fracciones I, IV y V.
 
 Las sanciones previstas en el artículo anterior se aplicarán con base en el procedimiento y parámetros de las sanciones establecidos en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, sin perjuicio de la responsabilidad penal o civil en que pudieran incurrir.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
 ###### Artículo 35.
 
-Incurrirán en infracción a la presente Ley los particulares que por cualquier motivo alteren, adapten o modifiquen los documentos de archivo, por lo que se harán acreedores a una multa que va desde los cinco hasta los trescientos días de salario mínimo general vigente en el Estado al momento de cometerse la falta, sin perjuicio de la responsabilidad penal o civil en que pudieran incurrir.
+Incurrirán en infracción a la presente ley los particulares que por cualquier motivo alteren, adapten o modifiquen los documentos de archivo, por lo que se harán acreedores a una multa que va desde cinco hasta trescientas veces la Unidad de Medida y Actualización diaria vigente al momento de cometerse la falta, sin perjuicio de la responsabilidad penal o civil en que pudieran incurrir.
 
 ###### Artículo 36.
 
@@ -404,3 +406,9 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
