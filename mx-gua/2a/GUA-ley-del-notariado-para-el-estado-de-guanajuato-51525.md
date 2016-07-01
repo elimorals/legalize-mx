@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-notariado-para-el-estado-de-guanajuato-51525"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-22"
-last_updated: "2012-09-25"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 22 de agosto de 2006.
 
@@ -1415,7 +1415,9 @@ Los notarios responsables del incumplimiento de las obligaciones derivadas de es
 
 I. Amonestación por escrito;
 
-II. Multa de diez a doscientos días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+II. Multa de diez a doscientas veces la Unidad de Medida y Actualización diaria;
 
 III. Suspensión hasta por seis meses; y
 
@@ -1985,7 +1987,7 @@ EL SECRETARIO DE GOBIERNO
 
 SAMUEL ALCOCER FLORES
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 25 DE SEPTIEMBRE DE 2012.
 
@@ -1996,3 +1998,9 @@ Artículo Segundo. El Ejecutivo del Estado deberá adecuar el Reglamento de la L
 Artículo Tercero. Los procedimientos administrativos iniciados antes de la entrada en vigor del presente Decreto, se tramitarán y resolverán de conformidad con las disposiciones vigentes al momento de su inicio.
 
 Artículo Cuarto. Las acciones y los procesos de certificación notarial realizados por los notarios de conformidad con las disposiciones vigentes, serán considerados para los efectos de los procesos de certificación notarial que se implementan mediante el presente Decreto.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN".]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
