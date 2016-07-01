@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2016-05-03"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -955,11 +955,11 @@ El Oficial del Registro Civil que autorice un matrimonio teniendo conocimiento d
 
 Los Oficiales del Registro Civil sólo podrán negarse a autorizar un matrimonio, cuando por los términos de la solicitud, por el conocimiento de los interesados o por denuncia en forma, tuvieren noticia de que para alguno de los pretendientes, o para los dos, exista un impedimento no dispensado para poder contraer matrimonio.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
 ###### Art. 115.
 
-El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será castigado con una multa equivalente a cuarenta días de salario mínimo vigente en la entidad y en caso de reincidencia, con la destitución de su cargo.
+El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será castigado con una multa equivalente a cuarenta veces la Unidad de Medida y Actualización diaria y en caso de reincidencia, con la destitución de su cargo.
 
 ###### Art. 116.
 
@@ -2605,9 +2605,9 @@ El deudor alimentista no podrá pedir que se incorpore a su familia el que debe 
 
 Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a la necesidad del que debe recibirlos.
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
-Determinados por convenio o sentencia, los alimentos tendrán una actualización automática mínima equivalente al aumento porcentual anual correspondiente al salario mínimo general vigente, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción.
+Determinados por convenio o sentencia, los alimentos tendrán una actualización automática mínima equivalente al aumento porcentual anual correspondiente a la Unidad de Medida y Actualización diaria, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción.
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2009)</small>
 
@@ -5163,13 +5163,17 @@ Sólo puede constituirse el patrimonio familiar con bienes sitos en el municipio
 
 Cada familia sólo puede constituir un patrimonio con aportación de bienes de uno o varios miembros del núcleo familiar o de la familia, compuesta ésta por los parientes consanguíneos hasta el segundo grado. Los que se constituyan con posterioridad no producirán efecto legal alguno, subsistiendo el primero.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
 
 ###### Art. 778.
 
-El valor comercial máximo de los bienes afectos al patrimonio familiar, será la cantidad que resulte de multiplicar por ciento diez el salario mínimo general vigente en la entidad, elevado al año en la fecha en que se constituye el patrimonio.
+El valor comercial máximo de los bienes afectos al patrimonio familiar, será la cantidad que resulte de multiplicar por ciento diez la Unidad de Medida y Actualización diaria, elevada al año en la fecha en que se constituye el patrimonio.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2008)</small>
 
 Cuando el valor comercial señalado en el peritaje o avalúo presentado por el constituyente produzca duda en el juez, éste ordenará a costa del interesado la realización de un nuevo peritaje o avalúo por parte de otro perito.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2008)</small>
 
 Los bienes que hayan quedado afectos al patrimonio familiar gozarán de los privilegios que establece este capítulo, aun cuando aumenten de valor por el solo transcurso del tiempo o por mejoras útiles o necesarias.
 
@@ -6703,7 +6707,7 @@ El poseedor de buena fe a que se refiere el artículo anterior no responde del d
 
 ###### Art. 1060.
 
-El que posee por menos de un año, a título traslativo de dominio y con mala fe, siempre que no haya obtenido la posesión por medio delictuoso, está obligado:
+El que posee por menos de un año, a título traslativo de dominio y con mala fe, siempre que no haya obtenido la posesión por un medio delictuoso, está obligado:
 
 I. A restituir los frutos percibidos;
 
@@ -6859,7 +6863,7 @@ Los frutos civiles pertenecen al usufructuario en proporción del tiempo que dur
 
 ###### Art. 1090.
 
-En caso de que el uufructo (sic) comprendiera cosas que se deterioren por el uso, el usufructuario tendrá derecho a servirse de ellas, empleándolas según su destino; no estará obligado a restituirlas al concluir el usufructo, sino en el estado en que se encuentren; pero tiene obligación de indemnizar al propietario del deterioro que hubieren sufrido por dolo o negligencia.
+En caso de que el usufructo comprendiera cosas que se deterioren por el uso, el usufructuario tendrá derecho a servirse de ellas, empleándolas según su destino; no estará obligado a restituirlas al concluir el usufructo, sino en el estado en que se encuentren; pero tiene obligación de indemnizar al propietario del deterioro que hubieren sufrido por dolo o negligencia.
 
 ###### Art. 1091.
 
@@ -8241,7 +8245,7 @@ En los concursos en que haya promesa de recompensa para los que llenaren ciertas
 
 ###### Art. 1365.
 
-El promitente deberá, antes de la celebración del concurso, designar la persona o personas que decidirán a quién o a quienes de los concursantes se otorga la recompensa.
+El promitente deberá, antes de la celebración del concurso, designar la persona o personas que decidirán a quién o a quiénes de los concursantes se otorga la recompensa.
 
 ###### Art. 1366.
 
@@ -8417,9 +8421,9 @@ Cuando sin el empleo de mecanismos, instrumentos, etc., a que se refiere el art�
 
 La reparación del daño debe consistir, a elección del ofendido, en el restablecimiento de la situación anterior, cuando ello sea posible, o en el pago de daños y perjuicios.
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
-Cuando el daño se cause a las personas y produzca la muerte, incapacidad total permanente, parcial permanente, total temporal o parcial temporal, el grado de ella se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. Para calcular la indemnización que corresponda se tomará como base el salario mínimo general vigente en la Entidad y se atenderá al número de días que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo. En caso de muerte la indemnización corresponderá a los herederos legítimos de la víctima.
+Cuando el daño se cause a las personas y produzca la muerte, incapacidad total permanente, parcial permanente, total temporal o parcial temporal, el grado de ella se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. Para calcular la indemnización que corresponda se tomará como base la Unidad de Medida y Actualización diaria y se atenderá al número de días que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo. En caso de muerte la indemnización corresponderá a los herederos legítimos de la víctima.
 
 Los créditos por indemnización cuando la víctima fuere un asalariado son intransferibles, y se cubrirán preferentemente en una sola exhibición, salvo convenio entre las partes.
 
@@ -10405,7 +10409,7 @@ Debe hacerse saber de una manera fehaciente, al que goza del derecho de preferen
 
 ###### Art. 1804.
 
-Si se ha concedido un plazo para pagar el precio, el que tiene el derecho de preferencia no puede prevalerce (sic) de este término, si no da las seguridades necesarias de que pagará el precio al expirar el plazo.
+Si se ha concedido un plazo para pagar el precio, el que tiene el derecho de preferencia no puede prevalerse de este término, si no da las seguridades necesarias de que pagará el precio al expirar el plazo.
 
 ###### Art. 1805.
 
@@ -10911,7 +10915,7 @@ Tratándose de fincas destinadas para habitación no surtirá efectos el conveni
 
 ###### Art. 1910.
 
-Si durante la vigencia del contrato de arrendamiento, por cualquier motivo se verificare la transmisión de la propiedad del predio arrendado, al arrendamiento subsistirá en los términos del contrato. Respecto al pago de las rentas, el arrendatario tendrá obligación de pagar al nuevo propietario la renta estipulada en el contrato, desde la fecha en que se le notifique judicial o extrajudicialmente ante notario o ante dos testigos haberse otorgado el correspondiente título de propiedad, aun cuando alegue haber pagado al primer propietario; a no ser que el adelanto de rentas aparezca expresamente estipulado en el mismo contrato de arrendamiento.
+Si durante la vigencia del contrato de arrendamiento, por cualquier motivo se verificare la transmisión de la propiedad del predio arrendado, al (sic) arrendamiento subsistirá en los términos del contrato. Respecto al pago de las rentas, el arrendatario tendrá obligación de pagar al nuevo propietario la renta estipulada en el contrato, desde la fecha en que se le notifique judicial o extrajudicialmente ante notario o ante dos testigos haberse otorgado el correspondiente título de propiedad, aun cuando alegue haber pagado al primer propietario; a no ser que el adelanto de rentas aparezca expresamente estipulado en el mismo contrato de arrendamiento.
 
 ###### Art. 1911.
 
@@ -11313,11 +11317,11 @@ VIII. Por evicción de la cosa dada en arrendamiento.
 
 Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado. Si no se ha señalado tiempo, se observará lo que disponen los artículos 1982 y 1983.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
 
 ###### Art. 1992.
 
-En los contratos de arrendamientos por tiempo determinado, tendrá derecho el inquilino, siempre que esté al corriente en el pago de las rentas, a que se le prorrogue hasta por un año ese contrato. Para ese fin el arrendatario deberá notificar al arrendador su deseo de prorrogar el contrato antes de llegar al término de su vencimiento. Podrá el arrendador incrementar la renta en la misma proporción que haya aumentado el salario mínimo durante el tiempo de vigencia del contrato.
+En los contratos de arrendamientos por tiempo determinado, tendrá derecho el inquilino, siempre que esté al corriente en el pago de las rentas, a que se le prorrogue hasta por un año ese contrato. Para ese fin el arrendatario deberá notificar al arrendador su deseo de prorrogar el contrato antes de llegar al término de su vencimiento. Podrá el arrendador incrementar la renta en la misma proporción que haya aumentado la Unidad de Medida y Actualización diaria durante el tiempo de vigencia del contrato.
 
 Quedan exceptuados de la obligación de prorrogar el contrato de arrendamiento los propietarios que vayan a ocupar el inmueble, para su propio uso o de su cónyuge o parientes en primer grado. También quedan exceptuados de dicha prórroga los propietarios que pretendan reconstruir la finca cuando ésta amenaza ruina o que pretendan hacerle modificaciones o mejoras con un costo no menor del veinticinco por ciento de su valor comercial, previa la aprobación de la obra por la oficina respectiva.
 
@@ -14745,7 +14749,7 @@ Si el legado fuera de prestación periódica, que deba concluir en un día que e
 
 ###### Art. 2620.
 
-Si el día en que deba comenzar el legado fuere seguro, sea que se sepa o no cuándo ha de llegar, el que ha (sic) entregar la cosa legada tendrá, respecto de ella, los derechos y las obligaciones de un usufructuario.
+Si el día en que deba comenzar el legado fuere seguro, sea que se sepa o no cuándo ha de llegar, el que ha de entregar la cosa legada tendrá, respecto de ella, los derechos y las obligaciones de un usufructuario.
 
 ###### Art. 2621.
 
@@ -15405,7 +15409,7 @@ Cuando el testador ignore el idioma del país, concurrirán al acto y firmarán 
 
 ###### Art. 2760.
 
-Tanto el notario como los testigos que intervengan en cualquier testamento deberán conocer al testador o cerciorarse de algún modo de su identidad y de que se halla en su cabal juicio y libre de cualquier coacción.
+Tanto el notario como los testigos que intervengan en cualquier testamento deberán conocer al testador o cerciorarse de algún modo de su identidad, y de que se halla en su cabal juicio y libre de cualquier coacción.
 
 ###### Art. 2761.
 
@@ -16663,7 +16667,7 @@ Si el testador hubiere legado alguna pensión o renta vitalicia, sin gravar con 
 
 ###### Art. 3013.
 
-En el proyecto de partición se expresará la parte que del capital o fondo afecte a la pensión, corresponderá a cada uno de los herederos luego que aquélla se extinga.
+En el proyecto de partición se expresará la parte que del capital o fondo afecto a la pensión, corresponderá a cada uno de los herederos luego que aquélla se extinga.
 
 ###### Art. 3014.
 
@@ -17280,3 +17284,9 @@ P.O. 3 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 87, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2191, 2195, 2201 Y 2205 DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
