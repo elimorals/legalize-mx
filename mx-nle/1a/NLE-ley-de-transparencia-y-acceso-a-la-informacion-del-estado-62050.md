@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transparencia-y-acceso-a-la-informacion-del-estado-62050
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-19"
-last_updated: "2015-12-21"
+last_updated: "2016-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62050&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2015.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN, PUBLICADA EN EL P.O. DE 1 DE JULIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial en el Estado de Nuevo León, el sábado 19 de julio de 2008.
 
@@ -2129,7 +2131,7 @@ EL C. OFICIAL MAYOR DE GOBIERNO
 
 ALFREDO GERARDO GARZA DE LA GARZA
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 30 DE SEPTIEMBRE DE 2009.
 
@@ -2172,3 +2174,39 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Se derogan todas las disposiciones que contravengan al presente decreto.
 
 Tercero.- La Comisión de Transparencia y Acceso a la Información del Estado de Nuevo León contará con un plazo de 80 días naturales para adecuar su normatividad interna.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 119. POR EL QUE SE EXPIDE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN".]
+
+Primero. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Se abroga la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León, y sus posteriores reformas, publicada en el Periódico Oficial del Estado de fecha 19 de julio de 2008, a excepción de lo establecido en el Artículo Décimo Transitorio del presente Decreto, sin perjuicio de las siguientes disposiciones Transitorias.
+
+Tercero. Las solicitudes presentadas de conformidad con la ley que se abroga de acuerdo al Transitorio Segundo de este Decreto, así como los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto, se sustanciarán conforme a las disposiciones vigentes al momento de su inicio, ante las autoridades que los hubieren iniciado.
+
+Cuarto. La Comisión de Transparencia y Acceso a la Información, creada en virtud de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León que se abroga de conformidad con el artículo Segundo Transitorio de este Decreto, continuará sus funciones bajo el amparo de la Ley que se expide mediante este Decreto, en la forma como se encuentra conformada, y sus integrantes continuarán en el ejercicio de sus funciones en los términos que fueron designados.
+
+Sin perjuicio de lo dispuesto por el artículo Tercero Transitorio de este Decreto, los integrantes de la Comisión de Transparencia y Acceso a la Información ejercerán las atribuciones que les correspondan de acuerdo a este Decreto.
+
+La Comisión expedirá los lineamientos necesarios para el ejercicio de sus atribuciones y para ajustarse orgánicamente de conformidad con lo previsto en la presente Ley, dentro de los cuatro meses siguiente (sic) a la entrada en vigor del presente Decreto.
+
+Quinto. Los sujetos obligados deberán realizar los ajustes administrativos y designaciones necesarias para cumplir con lo previsto en la presente Ley, dentro de los 180 días siguiente (sic) a la entrada en vigor del presente Decreto.
+
+Sexto. No se podrán reducir o ampliar en otros ordenamientos estatales ni en la reglamentación municipal los plazos vigentes en la normatividad de la materia en perjuicio de los solicitantes de información.
+
+Séptimo. Los sujetos obligados se incorporarán a la Plataforma Nacional de Transparencia, en los términos que establezcan los lineamientos que emita el Sistema Nacional.
+
+Octavo. De acuerdo a lo referido en el párrafo tercero del artículo Octavo Transitorio, del Decreto mediante el cual se expide la Ley General de Transparencia y Acceso a la Información Pública publicado en el Diario Oficial de la Federación de fecha 4 de mayo de 2015, en tanto entren en vigor los lineamientos que regularán la forma, términos y plazos en que los sujetos obligados deberán cumplir con las obligaciones de transparencia, a que se refieren los Capítulos del I al IV del Título Quinto de la presente Ley, los sujetos obligados deberán mantener y actualizar en sus respectivas páginas de Internet la información a que están obligados conforme a la ley que se abroga de acuerdo al artículo Segundo Transitorio de este Decreto.
+
+Noveno. Para el efecto del cumplimiento de las obligaciones genéricas y específicas a las que se refiere la presente Ley, el Congreso del Estado aprobará, a más tardar dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, un programa de reorganización administrativa que deberá, comprender, al menos, las normas y criterios para la homologación programática, presupuestal, contable y organizacional de los grupos legislativos; las obligaciones del Congreso y de los grupos legislativos en cuanto sujetos obligados respecto a los recursos que a través de éstos se asigna a los legisladores; el tratamiento fiscal y presupuestal de los ingresos, prestaciones, apoyos y recursos, en dinero o especie, que reciban los legisladores para realizar la función legislativa y de gestión; el régimen laboral del personal adscrito a los grupos legislativos, las comisiones y los legisladores, así como las reglas relativas al uso, custodia, administración y disposición de los recursos públicos que no tengan la condición de dietas o contraprestaciones laborales. Las obligaciones genéricas y específicas que corresponden al Congreso del Estado se harán efectivas conforme se implementen los programas de reorganización administrativa.
+
+Décimo. En tanto no se expida la Ley General en materia de datos personales en posesión de sujetos obligados, permanecerá vigente la normatividad local en la materia.
+
+Décimo Primero. Para efecto de que la sucesión en la designación de los Comisionados se realice de manera escalonada, por única la designación para sustituir a los dos comisionados propietarios cuyo periodo termina en 2018 será cubierta designando, en su momento, a uno por 7 años y otro por 6 años, los nombramientos posteriores a los anteriores, serán por siete años, tal y como lo contempla la presente ley en su artículo 49.
+
+Décimo Segundo. Todos los documentos que fueron reservados en términos de la Ley que se abroga, no perderán dicha calidad.
+
+Décimo Tercero. En un término de 180 días a partir de la publicación de la presente Ley, deberá quedar instalado el Sistema Estatal a que hace referencia los artículos del 27 al 37 de la presente Ley.
+
+Décimo Cuarto. Una vez que entre en vigor el presente Decreto el Comisionado Supernumerario, en un término de 120-ciento veinte días naturales gozará de las mismas facultades y atribuciones que le otorga la Ley a un Comisionado Propietario.
