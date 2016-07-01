@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-ingresos-para-el-estado-de-guanajuato-para-el-111510"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2015-12-29"
-last_updated: "2015-12-29"
+last_updated: "2016-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE INGRESOS PARA EL ESTADO DE GUANAJUATO PARA EL EJERCICIO FISCAL DE 2016
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en la Décima Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 29 de diciembre de 2015.
 
@@ -127,7 +127,11 @@ b) Derechos por prestación de servicios: $1,331,325,776.00
 
 1. Derechos por trabajos catastrales $0.00
 
-2. Derechos por servicios de tránsito: $728,490,279.00
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
+
+2. Derechos por servicios de movilidad
+
+en materia de tránsito: $728,490,279.00
 
 2.1) Por ministración de placas metálicas
 
@@ -139,9 +143,17 @@ y tarjeta de circulación $201,929,743.00
 
 vehículos de motor $54,975,591.00
 
-2.4) Por otros servicios de tránsito $34,732,439.00
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
-3. Derechos por servicios de transporte: $19,723,063.00
+2.4) Por otros servicios de movilidad en
+
+materia de tránsito $34,732,439.00
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
+
+3. Derechos por servicios de movilidad en
+
+materia de transporte: $19,723,063.00
 
 3.1) Por el otorgamiento de concesión para
 
@@ -159,7 +171,11 @@ concesión para la explotación del servicio
 
 público de transporte $3,370,101.00
 
-3.4) Por otros servicios de transporte $4,402,752.00
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
+3.4) Por otros servicios de movilidad en
+
+materia de transporte $4,402,752.00
 
 4. Derechos por servicios del Registro Civil $145,644,611.00
 
@@ -1045,7 +1061,9 @@ Tratándose de los predios rústicos que se sujeten al procedimiento de regulari
 
 Los avalúos que realice la Secretaría de Finanzas, Inversión y Administración sólo se cobrarán cuando se hagan a solicitud del contribuyente o de parte interesada.
 
-### CAPÍTULO TERCERO. DERECHOS POR SERVICIOS DE TRÁNSITO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JULIO DE 2016)</small>
+
+### CAPÍTULO TERCERO. DERECHOS POR SERVICIOS DE MOVILIDAD EN MATERIA DE TRÁNSITO
 
 Derechos por servicios de tránsito
 
@@ -1137,7 +1155,19 @@ V. Expedición de constancia de historial del
 
 registro estatal de antecedentes de tránsito $44.00
 
-### CAPÍTULO CUARTO. DERECHOS POR SERVICIOS DE TRANSPORTE
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2016)</small>
+
+VI. Por constancia anual de cumplimiento
+
+de requisitos para el funcionamiento como
+
+escuela de manejo a conductores de
+
+vehículos particulares $2,131.00
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JULIO DE 2016)</small>
+
+### CAPÍTULO CUARTO. DERECHOS POR SERVICIOS DE MOVILIDAD EN MATERIA DE TRANSPORTE
 
 Derechos por servicios (sic) transporte
 
@@ -1197,11 +1227,15 @@ I. Permiso eventual de transporte público,
 
 por mes o fracción de mes $116.00
 
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
 II. Permiso para la prestación del servicio
 
 especial de transporte, por mes o fracción
 
-de mes $45.00
+de mes, a excepción del servicio especial
+
+de transporte ejecutivo $45.00
 
 III. Trámite de transmisión de derechos
 
@@ -1292,6 +1326,32 @@ XX. Por impresión de consulta electrónica de
 no infracción $61.00
 
 XXI. Constancia de despintado $48.00
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2016)</small>
+
+XXII. Permiso de servicio especial de
+
+transporte ejecutivo, por año $2,107.00
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2016)</small>
+
+XXIII. Permiso anual de transporte público:
+
+a) Para personas con discapacidad o movilidad
+
+reducida $2,057.00
+
+b) De carga en general y de materiales para
+
+construcción $2,057.00
+
+c) Turístico $4, 453.00
+
+d) Grúa $4,453.00
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2016)</small>
+
+XXIV. Autorización de sitio o base de contratación $790.00
 
 Tratándose de instituciones de seguridad o de servicio social, los permisos para prestar los servicios señalados en la fracción II de este artículo, están exentos del pago de este derecho.
 
@@ -1395,7 +1455,9 @@ I. Por inscripción de escritura o documento registrable que contenga:
 
 a) Adquisición de vivienda de interés social y popular o económico $206.00
 
-b) Adquisición de lote en que intervengan organismos públicos de fomento a la vivienda o de lotes cuyo valor no exceda de 5 veces el salario mínimo general elevado al año $206.00
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
+b) Adquisición de lote en que intervengan organismos públicos de fomento a la vivienda o de lotes cuyo valor no exceda de 5 veces el valor de la Unidad de Medida y Actualización anual $206.00
 
 c) En caso de compraventa entre particulares en que intervengan organismos públicos como otorgantes del crédito, se pagará conforme al inciso a) de esta fracción.
 
@@ -1609,7 +1671,9 @@ y telesecundaria $26.00
 
 b) Nivel de educación secundaria $33.00
 
-Cuando se trate de niños y adolescentes bajo la tutela del Estado, de manera temporal o permanente, la reposición de los certificados a que se refieren los incisos a) y b) de esta fracción, no tendrá costo.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
+Cuando se trate de niños y adolescentes bajo la tutela del Estado, de manera temporal o permanente, la reposición de los certificados a que se refieren los incisos a) y b) de esta fracción, no tendrá costo; así como tampoco la reposición de dichos certificados cuando se expidan de forma electrónica.
 
 c) Tipo de educación medio-superior $48.00
 
@@ -2219,6 +2283,10 @@ f) Costo mensual por materia de maestría
 
 y/o especialidad $618.00
 
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2016)</small>
+
+VI. Por la realización de examen extraordinario, en el tipo de educación medio superior $50.00
+
 Los ingresos que se perciban por estos conceptos, serán recaudados por las Entidades y se destinarán para su operación y mantenimiento, mismos que deberán ser reportados a la Secretaría de Finanzas, Inversión y Administración de conformidad con los lineamientos que ésta establezca.
 
 Las Entidades podrán autorizar y establecer descuentos generales a efecto de incentivar el pago anticipado, o en su caso favorecer con cuotas disminuidas a quienes por su condición social y académica requieran del apoyo mediante la figura de becas, de conformidad con la normatividad que rige a los mismos.
@@ -2653,11 +2721,15 @@ Multa del refrendo anual de placas metálicas
 
 El incumplimiento a las obligaciones señaladas en el artículo 7 de esta Ley, tratándose de vehículos de motor, remolques y semirremolques, será sancionado con multa de $514.00 a $1,200.00. Por lo que se refiere a motocicletas, bicimotos y vehículos similares, el incumplimiento será sancionado con multa de $74.00 a $235.00
 
-Multa por derechos de tránsito
+> <small>(REFORMADO SU ACÁPITE, P.O. 1 DE JULIO DE 2016)</small>
+
+Multa por derechos de movilidad
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
 
 ###### Artículo 36.
 
-En materia de derechos de tránsito por registro, circulación y control de vehículos, de conformidad con lo regulado por la Ley de Hacienda y la Ley de Tránsito y Transporte, ambas para el Estado de Guanajuato, se cobrarán las siguientes multas:
+En materia de derechos de movilidad por registro, circulación y control de vehículos, de conformidad con lo regulado por la Ley de Hacienda para el Estado de Guanajuato y la Ley de Movilidad del Estado de Guanajuato y sus Municipios, se cobrarán las siguientes multas:
 
 I. Por la presentación extemporánea
 
@@ -2701,9 +2773,13 @@ II. Por la de embargo; y
 
 III. Por la de remate.
 
-Cuando el 2% del adeudo sea inferior a dos veces el salario mínimo general vigente en el Estado, se cobrará este último.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
-En ningún caso, los gastos a que se refieren cada una de las fracciones anteriores podrán exceder de la cantidad que represente tres veces el salario mínimo general vigente en el Estado mensual que corresponda.
+Cuando el 2% del adeudo sea inferior a dos veces el valor de la Unidad de Medida y Actualización diaria, se cobrará este último.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
+En ningún caso, los gastos a que se refieren cada una de las fracciones anteriores podrán exceder de la cantidad que represente tres veces el valor de la Unidad de Medida y Actualización mensual que corresponda.
 
 ## TÍTULO OCTAVO. TRANSFERENCIAS FEDERALES
 
@@ -2760,3 +2836,11 @@ MIGUEL MÁRQUEZ MÁRQUEZ
 EL SECRETARIO DE GOBIERNO
 
 ANTONIO SALVADOR GARCÍA LÓPEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 105, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INGRESOS PARA EL ESTADO DE GUANAJUATO PARA EL EJERCICIO FISCAL DE 2016”.]
+
+Artículo Único. El presente Decreto entrará en vigor a los quince días hábiles siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
