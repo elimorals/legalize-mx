@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-responsabilidades-administrativas-de-los-servidores-4483
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-10"
-last_updated: "2015-09-25"
+last_updated: "2016-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley Publicada en el Periódico Oficial del Estado de Guanajuato, el martes 10 de mayo de 2005.
 
@@ -445,11 +445,17 @@ III.- Destitución e inhabilitación de uno a veinte años, cuando se incurra en
 
 IV.- Sanción económica en caso de incurrir en alguna conducta que se considere grave en términos del artículo 21 de esta Ley, conforme a lo siguiente:
 
-a) Se aplicará una sanción económica de un tanto un tercio hasta un tanto un medio del monto del lucro, beneficio o ventaja obtenida o del daño o perjuicio causado, cuando éste sea menor o igual a 500 salarios mínimos vigentes en el Estado.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
-b) Se aplicará una sanción económica mayor a un tanto un medio hasta dos tantos un medio del monto del lucro, beneficio o ventaja obtenida o del daño o perjuicio causado, cuando éste sea superior a 500 salarios mínimos pero que no rebase los 1000 salarios mínimos vigentes en el Estado.
+a) Se aplicará una sanción económica de un tanto un tercio hasta un tanto un medio del monto del lucro, beneficio o ventaja obtenida o del daño o perjuicio causado, cuando éste sea menor o igual a 500 veces la Unidad de Medida y Actualización diaria.
 
-c) Se aplicará una sanción económica mayor a dos tantos un medio hasta tres tantos del monto del lucro, beneficio o ventaja obtenida o del daño o perjuicio causado, cuando éste sea superior a los 1000 salarios mínimos vigentes en el Estado.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
+b) Se aplicará una sanción económica mayor a un tanto un medio hasta dos tantos un medio del monto del lucro, beneficio o ventaja obtenida o del daño o perjuicio causado, cuando éste sea superior a 500 veces la Unidad de Medida y Actualización diaria, pero que no rebase 1000 veces la Unidad de Medida y Actualización diaria.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
+c) Se aplicará una sanción económica mayor a dos tantos un medio hasta tres tantos del monto del lucro, beneficioo ventaja obtenida o del daño o perjuicio causado, cuando éste sea superior a 1000 veces la Unidad de Medida y Actualización diaria.
 
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
@@ -671,9 +677,11 @@ Durante la investigación o en cualquier etapa del procedimiento de responsabili
 
 En contra del acuerdo que determine el inicio del procedimiento no procederá recurso alguno. El acuerdo que determine el archivo del asunto se podrá recurrir por el quejoso o denunciante ante el Tribunal de lo Contencioso Administrativo en los términos del Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
 ###### Artículo 35.
 
-Si el órgano de control respectivo determina que la queja o denuncia fue interpuesta en forma maliciosa o sin motivo alguno, se impondrá al quejoso o a su representante o a ambos, una multa de veinte a ciento veinte salarios mínimos tomando como base el salario mínimo general vigente en el Estado de Guanajuato y de acuerdo a las circunstancias particulares y específicas de la queja planteada.
+Si el órgano de control respectivo determina que la queja o denuncia fue interpuesta en forma maliciosa o sin motivo alguno, se impondrá al quejoso o a su representante o a ambos, una multa de veinte a ciento veinte veces la Unidad de Medida y Actualización diaria y de acuerdo a las circunstancias particulares y específicas de la queja planteada.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -761,11 +769,9 @@ Cuando la Ley no señale término para la práctica de alguna diligencia o para 
 
 Para el cumplimiento de las atribuciones que les confiere esta Ley, así como para mantener el buen orden y exigir que se les guarde el respeto y consideración debidos durante la investigación y en el procedimiento de responsabilidad administrativa, así como para hacer cumplir sus determinaciones, los órganos de control podrán emplear los siguientes medios de apremio:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
-
-I.- Multa de hasta veinte veces el salario mínimo general vigente en el Estado;
+I.- Multa de hasta veinte veces la Unidad de Medida y Actualización diaria;
 
 II.- Auxilio de la fuerza pública, y
 
@@ -1071,9 +1077,9 @@ VII.- Los que desempeñen servicios de atención o resolución de trámites dire
 
 VIII.- Los que realicen adquisiciones o comercialicen bienes y servicios, y
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-IX.- Los que perciban remuneraciones mayores a un monto bruto que sea igual o mayor de quince salarios mínimos vigentes elevados al mes; y
+IX.- Los que perciban remuneraciones mayores a un monto bruto que sea igual o mayor de quince veces la Unidad de Medida y Actualización mensual; y
 
 > <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1228,5 +1234,11 @@ Artículo Segundo. Las responsabilidades y sanciones administrativas por conduct
 Artículo Tercero. Los procedimientos de responsabilidad administrativa por conductas cometidas con anterioridad a la vigencia del presente decreto, continuarán su trámite con la normativa con la que se iniciaron, hasta su conclusión.
 
 P.O. 25 DE SEPTIEMBRE DE 2015.
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
