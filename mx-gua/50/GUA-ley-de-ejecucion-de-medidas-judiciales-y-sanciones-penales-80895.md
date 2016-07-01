@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-ejecucion-de-medidas-judiciales-y-sanciones-penales-8089
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-15"
-last_updated: "2016-01-29"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY DE EJECUCIÓN DE MEDIDAS JUDICIALES Y SANCIONES PENALES DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE ENERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de abril de 2011.
 
@@ -685,11 +683,13 @@ Garantía prendaria
 
 La garantía prendaria deberá recaer sobre bienes muebles enajenables propiedad del garante y podrá formalizarse documentalmente ante el Juez de Control correspondiente. En este tipo de garantía sólo será admisible la entrega jurídica de los bienes; en su caso, el Ministerio Público y el que tenga derecho a la reparación del daño podrán oponerse a la constitución de la garantía prendaria, dentro de los tres días siguientes de haber sido notificados personalmente. La garantía será otorgada en forma de prenda por el inculpado o por un tercero. El valor de los bienes otorgados en prenda deberá ser por lo menos dos tantos más del monto fijado por institución autorizada o por perito fiscal certificado.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
 Fianza Personal
 
 ###### Artículo 52.
 
-Cualquier tercero, que tenga capacidad para obligarse y bienes suficientes para responder de la obligación que garantiza, podrá otorgar fianza personal siempre y cuando el monto de la garantía económica que haya sido fijado no exceda del equivalente a doscientos días de salario mínimo general vigente en el estado en el momento en que se otorgue la fianza. La fianza se otorgará por escrito ante el Juez de Control; el fiador deberá responder las preguntas que le formule el juez para conocer su solvencia y acreditarla documentalmente. El valor de la fianza personal será por lo menos de dos tantos del monto fijado. El documento en el que conste la fianza, quedará en resguardo del Encargado de Sala.
+Cualquier tercero, que tenga capacidad para obligarse y bienes suficientes para responder de la obligación que garantiza, podrá otorgar fianza personal siempre y cuando el monto de la garantía económica que haya sido fijado no exceda del equivalente a doscientas vecesla (sic) Unidad de Medida y Actualización diaria vigente en el momento en que se otorgue la fianza. La fianza se otorgará por escrito ante el Juez de Control; el fiador deberá responder las preguntas que le formule el juez para conocer su solvencia y acreditarla documentalmente. El valor de la fianza personal será por lo menos de dos tantos del monto fijado. El documento en el que conste la fianza, quedará en resguardo del Encargado de Sala.
 
 Depósito de valores
 
@@ -2288,3 +2288,9 @@ Artículo Noveno. De conformidad a lo estipulado en el Reglamento de Entrega Rec
 Término para la adecuación reglamentaria
 
 Artículo Décimo. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de esta reforma, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
