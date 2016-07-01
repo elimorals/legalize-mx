@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-contrataciones-publicas-para-el-estado-de-guanajuato-104
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-26"
-last_updated: "2014-12-26"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY DE CONTRATACIONES PÚBLICAS PARA EL ESTADO DE GUANAJUATO
 
-> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTÍCULO PRIMERO TRANSITORIO DEL PRESENTE ORDENAMIENTO, ENTRARÁ EN VIGOR EL 1 DE FEBRERO DE 2015.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en la Décima Quinta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 26 de diciembre de 2014.
 
@@ -243,9 +241,11 @@ Las adquisiciones, arrendamientos y contratación de servicios que se lleven a c
 
 Adquisición de bienes muebles usados o reconstruidos
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
 ###### Artículo 12.
 
-Para determinar la conveniencia de la adquisición de bienes muebles usados o reconstruidos, los sujetos de la ley deberán realizar un estudio de costo beneficio, con el que se demuestre la conveniencia de su adquisición comparativamente con bienes nuevos; el citado estudio deberá acompañarse con el respectivo avalúo, expedido éste dentro de los seis meses previos, cuando el bien tenga un valor superior a cien mil veces el salario mínimo general vigente en el Estado.
+Para determinar la conveniencia de la adquisición de bienes muebles usados o reconstruidos, los sujetos de la ley deberán realizar un estudio de costo beneficio, con el que se demuestre la conveniencia de su adquisición comparativamente con bienes nuevos; el citado estudio deberá acompañarse con el respectivo avalúo, expedido éste dentro de los seis meses previos, cuando el bien tenga un valor superior a cien mil veces la Unidad de Medida y Actualización diaria.
 
 Obligaciones de los sujetos de la ley
 
@@ -1633,9 +1633,11 @@ No se impondrán sanciones cuando se haya incurrido en infracción por causa de 
 
 Multa e inhabilitación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
+
 ###### Artículo 127.
 
-Los licitantes, postores o proveedores que cometan las infracciones contenidas en el artículo 125 de esta ley, serán sancionados con una multa por un importe equivalente de veinte a quinientos salarios mínimos vigentes en el Estado elevado al mes, e inhabilitación temporal para participar en los procedimientos de contratación y celebrar contratos por el periodo de tres meses a cinco años. La sanción que se imponga deberá ser proporcional al costo de la prestación contratada.
+Los licitantes, postores o proveedores que cometan las infracciones contenidas en el artículo 125 de esta ley, serán sancionados con una multa por un importe equivalente de veinte a quinientas veces la Unidad de Medida y Actualización diaria elevada al mes, e inhabilitación temporal para participar en los procedimientos de contratación y celebrar contratos por el periodo de tres meses a cinco años. Lo sanción que se imponga deberá ser proporcional al costo de la prestación contratada.
 
 Tratándose de reincidencia se impondrá una multa por un monto de hasta el doble de la impuesta con anterioridad, sin perjuicio de la inhabilitación antes referida.
 
@@ -2058,3 +2060,11 @@ MIGUEL MÁRQUEZ MÁRQUEZ
 EL SECRETARIO DE GOBIERNO
 
 ANTONIO SALVADOR GARCÍA LÓPEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN".]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
