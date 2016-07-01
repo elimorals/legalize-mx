@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-animal-del-estado-de-guanajuato-107450"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-21"
-last_updated: "2015-04-21"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY PARA LA PROTECCIÓN ANIMAL DEL ESTADO DE GUANAJUATO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 30 DE MARZO DE 2016.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 21 de abril de 2015.
 
@@ -751,7 +749,9 @@ I. Apercibimiento;
 
 II. Amonestación por escrito; y
 
-III. Multa por el equivalente de uno a doscientos días de salario mínimo general diario vigente en el Estado, al momento de imponer la sanción.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+III. Multa por el equivalente de una a doscientas veces la Unidad de Medida y Actualización diaria vigente al momento de imponer la sanción.
 
 En caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto.
 
@@ -806,3 +806,11 @@ MIGUEL MÁRQUEZ MÁRQUEZ
 EL SECRETARIO DE GOBIERNO
 
 ANTONIO SALVADOR GARCÍA LÓPEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
