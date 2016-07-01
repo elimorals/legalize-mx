@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-los-municipios-del-estado-de-guanajuato-53
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "2015-09-25"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -483,7 +483,9 @@ El personal oficial que intervenga en las investigaciones, estudios técnicos, o
 
 Las autoridades fiscales, para hacer cumplir sus determinaciones podrán utilizar, además de las medidas que se prevengan en otras leyes aplicables, a las siguientes:
 
-I.- Imponer multa de cinco a treinta días de salario mínimo.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+I.- Imponer multa de cinco a treinta veces la Unidad de Medida y Actualización diaria.
 
 II.- Solicitar el auxilio de la fuerza pública.
 
@@ -721,11 +723,17 @@ XI.- No cubrir los requisitos exigidos por los distintos ordenamientos fiscales.
 
 se impondrá multa por cada una de las infracciones previstas en el artículo anterior, como sigue:
 
-I.- Las comprendidas en las fracciones I, II, y XI la cantidad que represente de 1.5 a 20 veces el salario mínimo general diario que corresponda.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-II.- Las comprendidas en las fracciones III, IV, V y VI la cantidad que represente 2 a 30 veces el salario mínimo general diario que corresponda.
+I.- Las comprendidas en las fracciones I, II, y XI, la cantidad que represente de 1.5 a 20 veces la Unidad de Medida y Actualización diaria.
 
-III.- Las comprendidas en las fracciones VIII, IX, y X la cantidad que represente de 4 a 40 veces el salario mínimo general diario que corresponda.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+II.- Las comprendidas en las fracciones III, IV, V y VI, la cantidad que represente 2 a 30 veces la Unidad de Medida y Actualización diaria.
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+III.- Las comprendidas en las fracciones VIII, IX, y X, la cantidad que represente de 4 a 40 veces la Unidad de Medida y Actualización diaria.
 
 IV.- La comprendida en la fracción VII, hasta dos tantos del monto evadido, en caso de que no se pueda precisar la cantidad de la prestación fiscal omitida se impondrá la sanción que establece la fracción anterior.
 
@@ -751,9 +759,13 @@ VII.- Exigir o recibir bajo el título de cooperación o colaboración u otro se
 
 Se impondrá multa por cada una de las infracciones previstas en el artículo anterior, como sigue:
 
-I.- Las comprendidas en las fracciones I, III, V y VI la cantidad que represente el equivalente de 2 a 20 veces el salario mínimo general diario que corresponda.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-II.- Las comprendidas en las fracciones II, IV y VII la cantidad que represente el equivalente de 2 a 40 veces el salario mínimo general diario que corresponda.
+I.- Las comprendidas en las fracciones I, III, V y VI, la cantidad que represente el equivalente de 2 a 20 veces la Unidad de Medida y Actualización diaria.
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+II.- Las comprendidas en las fracciones II, IV y VII, la cantidad que represente el equivalente de 2 a 40 veces la Unidad de Medida y Actualización diaria.
 
 ###### ARTICULO 73.
 
@@ -783,9 +795,13 @@ IX.- Resistirse por cualquier medio a las visitas de inspección o auditorías, 
 
 Se impondrá multa por cada una de las infracciones previstas en el artículo anterior, como sigue:
 
-I.- Las comprendidas en las fracciones I, IV, VII y IX la cantidad que represente el equivalente de 2 a 15 veces el salario mínimo general diario que corresponda.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-II.- Las comprendidas en las fracciones II, III, V, VI y VIII la cantidad que represente el equivalente de 2 a 10 veces el salario mínimo general diario que corresponda.
+I.- Las comprendidas en las fracciones I, IV, VII y IX, la cantidad que represente el equivalente de 2 a 15 veces la Unidad de Medida y Actualización diaria.
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+II.- Las comprendidas en las fracciones II, III, V, VI y VIII, la cantidad que represente el equivalente de 2 a 10 veces la Unidad de Medida y Actualización diaria.
 
 ###### ARTICULO 75.
 
@@ -799,13 +815,19 @@ II.- Ser cómplice en cualquier forma no prevista, en la comisión de infraccion
 
 Se impondrá multa por cada una de las infracciones previstas en el Artículo anterior, como sigue:
 
-I.- La comprendida en la fracción I la cantidad que represente el equivalente de 5 a 50 veces el salario mínimo general diario que corresponda.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-II.- La comprendida en la fracción II la cantidad que represente el equivalente de 2 a 20 veces el salario mínimo general diario que corresponda.
+I.- La comprendida en la fracción I, la cantidad que represente el equivalente de 5 a 50 veces la Unidad de Medida y Actualización diaria.
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+II.- La comprendida en la fracción II, la cantidad que represente el equivalente de 2 a 20 veces la Unidad de Medida y Actualización diaria.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 77.
 
-Las cantidades que resulten de la aplicación de cuotas expresadas en salarios mínimos en este Título, se ajustarán de acuerdo con la siguiente:
+Las cantidades que resulten de la aplicación de cuotas expresadas en la Unidad de Medida y Actualización diaria en este Título, se ajustarán de acuerdo con la siguiente:
 
 TABLA
 
@@ -933,7 +955,7 @@ II.- En los demás casos, la preferencia corresponderá al fisco que tenga el ca
 
 En los casos en que la coincidencia se presente ante el fisco del Municipio y autoridades diversas a las fiscales, la preferencia respecto de los créditos fiscales, se sujetará a las siguientes reglas:
 
-l. Los créditos a favor del fisco del Municipio son preferentes a cualesquiera otros, con excepción de los créditos con garantía hipotecaria o prendaria, de alimentos, de salarios o sueldos devengados en el último año o de indemnizaciones a los obreros de acuerdo con la Ley Federal del Trabajo;
+I. Los créditos a favor del fisco del Municipio son preferentes a cualesquiera otros, con excepción de los créditos con garantía hipotecaria o prendaria, de alimentos, de salarios o sueldos devengados en el último año o de indemnizaciones a los obreros de acuerdo con la Ley Federal del Trabajo;
 
 II. En el caso de las garantías hipotecarias y, en su caso, las prendarias, se requiere que se encuentren debidamente inscritas en el Registro Público de la Propiedad; y
 
@@ -1197,7 +1219,9 @@ El remate deberá ser convocado para una fecha dentro de los 30 días siguientes
 
 La convocatoria se fijará en los sitios visibles y usuales de las Oficinas Ejecutoras y en los lugares públicos que se juzgue conveniente.
 
-En caso de que el valor de los bienes exceda de una cantidad equivalente a cinco veces el salario mínimo general diario que corresponda, elevado al año, la convocatoria se publicara por una sola vez en el periódico oficial del gobierno del estado y en uno de los periódicos de mayor circulación dos veces con intervalo de 7 días. La última publicación se hará cuando menos 10 días antes de la fecha de remate.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
+En caso de que el valor de los bienes exceda de una cantidad equivalente a cinco veces la Unidad de Medida y Actualización diaria elevada al año, la convocatoria se publicará por una sola vez en el Periódico Oficial del Gobierno del Estado y en uno de los periódicos de mayor circulación dos veces con intervalo de 7 días, la última publicación se hará cuando menos 10 días antes de la fecha de remate.
 
 ###### ARTICULO 123.
 
@@ -1579,9 +1603,11 @@ B).- Los que perteneciendo a particulares, estén destinados a un servicio públ
 
 C).- Los que sean propiedad de asociaciones, fundaciones e instalaciones de beneficencia y asistencia social, siempre que estén destinados directamente a los fines de las mismas.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
 
-D).- Las casas-habitación que pertenezcan a jubilados y pensionados, o al cónyuge, concubina, concubinario, viudo o viuda de éstos, así como las personas de sesenta años o más edad. Este beneficio se otorgará a una sola casa-habitación y cuyo valor fiscal no exceda de cuarenta veces el salario mínimo general diario elevado al año, que corresponda al lugar donde se encuentre el inmueble.
+D).- Las casas-habitación, que pertenezcan a jubilados y pensionados, o al cónyuge, concubina, concubinario, viudo o viuda de éstos, así como las personas de sesenta años o más de edad. Este beneficio se otorgará a una sola casa-habitación y cuyo valor fiscal no exceda de cuarenta veces la Unidad de Medida y Actualización diaria elevada al año.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 En caso de que el valor del inmueble exceda el límite señalado en el presente inciso, se deberá aplicar la tasa correspondiente sobre el excedente; y
 
@@ -1592,6 +1618,10 @@ E).- Las casas.-habitación adquiridas con financiamiento otorgado por el Instit
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
 En los supuestos de que estos inmuebles se realicen ampliaciones o mejoras a las construcciones, por éstas se causará el impuesto sobre el valor determinado por avalúo, aplicándose la tasa correspondiente, durante la vigencia del crédito para la adquisición; al término de éste, tributará la totalidad del inmueble bajo el régimen general de Ley.
+
+> <small>[N. DE E. EN EL P.O. DE 1 DE JULIO DE 2016 PÁGINA 98, SE ADIVIERTE LA REFERENCIA DE ESTE PÁRRAFO, SIN EMBARGO, DE CONFORMIDAD CON EL DECRETO NÚMERO 29, PUBLICADO EN EL P.O. 26 DE DICIEMBRE DE 1997, FUE REFORMADO EL CONTENIDO DEL ANTEPENÚLTIMO PÁRRAFO]</small>
+
+En relación al…(sic)
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -1785,25 +1815,23 @@ Cuando el inmueble no haya sufrido modificaciones, el valor del mismo, a elecci�
 
 En todas las operaciones se reducirá el valor del inmueble de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 1993)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-I.- La cantidad que represente diez veces el salario mínimo general diario elevado al año, que corresponda en el área geográfica donde se encuentre ubicado el bien inmueble;
+I.- La cantidad que represente diez veces la Unidad de Medida y Actualización diaria elevada al año;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
 
-II.- La cantidad que represente quince veces el salario mínimo general diario elevado al año, que corresponda en el área geográfica donde se encuentre ubicado el inmueble, cuando se trate de casas habitación de interés social, en los términos del artículo 462 del Código Territorial para el Estado y los Municipios de Guanajuato.
+II.- La cantidad que represente quince veces la Unidad de Medida y Actualización diaria elevada al año, cuando se trate de casas habitación de interés social, en los términos del artículo 462 del Código Territorial para el Estado y los Municipios de Guanajuato.
 
 El mismo monto se reducirá tratándose de casas habitación adquiridas mediante financiamiento otorgado por el Instituto de Seguridad Social del Estado de Guanajuato; Instituto del Fondo Nacional de la Vivienda para los Trabajadores; Fondo Nacional de Habitaciones Populares; Fondo de Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado o por el Fondo de la Vivienda para los Miembros del Ejército, Fuerza Aérea y Armada; y
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
 
-III.- La cantidad que represente veinte veces el salario mínimo general elevado al año, que corresponda en el área geográfica donde se encuentre ubicado el inmueble, cuando se trate de vivienda popular, cuyo valor no exceda del monto previsto en el artículo 462 del Código Territorial para el Estado y los Municipios de Guanajuato.
+III.- La cantidad que represente veinte veces la Unidad de Medida y Actualización diaria elevada al año, cuando se trate de vivienda popular, cuyo valor no exceda del monto previsto en el artículo 462 del Código Territorial para el Estado y los Municipios de Guanajuato.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MAYO DE 1993)</small>
 
 La reducción a que se refieren las fracciones II y III se aplicará siempre y cuando sea la única propiedad o posesión del contribuyente, en caso contrario, se estará a lo dispuesto por la fracción I de este artículo.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 182.
 
@@ -2648,3 +2676,9 @@ P.O. 25 DE SEPTIEMBRE DE 2015.
 Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. Para los efectos de la legislación aplicable que refiera al impuesto sobre traslación de dominio se entenderá en lo sucesivo el impuesto sobre adquisición de bienes inmuebles.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN".]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
