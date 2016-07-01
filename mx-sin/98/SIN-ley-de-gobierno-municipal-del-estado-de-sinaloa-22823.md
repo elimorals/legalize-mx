@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gobierno-municipal-del-estado-de-sinaloa-22823"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2016-06-24"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial de Estado de Sinaloa, el lunes 26 de noviembre de 2001.
 
@@ -147,13 +147,17 @@ El reglamento mediante el cual se otorguen facultades de representación legal y
 
 El Presidente Municipal, en su calidad de alcalde de la comuna, será el órgano ejecutivo del Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
 ###### Artículo 17.
 
-El Presidente Municipal, Síndico Procurador y Regidores de los Ayuntamientos, de elección popular directa, durarán en su cargo tres años y no podrán ser electos para el período inmediato. Quienes por elección directa, por nombramiento o designación de parte de alguna autoridad desempeñen las funciones propias de dichos cargos, independientemente de la denominación que se les dé no podrán ser electos para el período inmediato. Estos servidores públicos, si tienen el carácter de propietarios, no podrán ser electos para el período inmediato como suplentes, pero los suplentes si podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
+El Presidente Municipal, Síndico Procurador y Regidores de los Ayuntamientos, de elección popular directa, durarán en su cargo tres años y podrán ser electos consecutivamente para los mismos cargos para un período adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. Quienes por elección indirecta, por nombramiento o designación de parte de alguna autoridad, desempeñen las funciones propias de dichos cargos, independientemente de la denominación que se les dé, podrán ser electos para el período inmediato.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
 
 ###### Artículo 18.
 
-Los ayuntamientos iniciarán sus funciones el día primero de enero del año siguiente al de su elección, previa protesta que otorguen ante el Ayuntamiento saliente en sesión solemne que se celebrará el día anterior.
+Los Ayuntamientos iniciarán sus funciones el día primero de noviembre del año de su elección, previa protesta que otorguen ante el Ayuntamiento saliente en sesión solemne que se celebrará el día anterior.
 
 Cada Ayuntamiento notificará inmediatamente de su toma de posesión a los Poderes del Estado y a los demás ayuntamientos.
 
@@ -1582,3 +1586,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
 
 TERCERO. En un plazo de noventa días se deberán realizar las adecuaciones correspondientes a los Reglamentos de la Ley de Hacienda Municipal, Ley de Catastro, Ley de Agua Potable y Alcantarillado, Ley de Protección Civil, y Ley de Gobierno Municipal, todas del Estado, respectivamente, a efecto de establecer el procedimiento para llevar a cabo las solicitudes, dictaminaciones, pagos y emisión de documentos o constancias qua se generen por medios electrónicos.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 573 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA LOS ARTÍCULOS 17 Y 18, PÁRRAFO PRIMERO DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. El presente Decreto no será aplicable a los integrantes de los Ayuntamientos que se encuentren en funciones a la fecha de inicio de vigencia del mismo.
