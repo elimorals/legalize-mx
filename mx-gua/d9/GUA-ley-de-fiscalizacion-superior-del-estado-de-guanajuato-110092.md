@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fiscalizacion-superior-del-estado-de-guanajuato-110092"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-25"
-last_updated: "2015-09-25"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR A LOS NOVENTA DÍAS NATURALES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en la Décima Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 25 de septiembre de 2015.
 
@@ -743,7 +741,9 @@ III. También procederá la incosteabilidad durante el procedimiento y previo a 
 
 IV. Por incobrabilidad, una vez que ya exista sentencia favorable, cuando en la ejecución de sentencia se actualicen los supuestos previstos en la fracción II.
 
-En los casos previstos en las fracciones II y III de este artículo, el daño causado al patrimonio o a la hacienda pública, no deberá exceder de doscientas veces el salario mínimo general diario vigente en la zona, al momento que se haya emitido el acuerdo.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
+En los casos previstos en las fracciones II y III de este artículo, el daño causado al patrimonio o a la hacienda pública, no deberá exceder de doscientas veces la Unidad de Medida y Actualización diaria, vigente al momento que se haya emitido el acuerdo.
 
 Para los casos anteriores, el sujeto de fiscalización deberá efectuar el dictamen correspondiente, en donde se justifiquen con el soporte documental pertinente, las acciones o circunstancias que respalden los supuestos sobre los cuales se determinará el no ejercicio o la no ejecución de la acción civil sobre los probables responsables.
 
@@ -797,9 +797,11 @@ c) Promoción de las responsabilidades a que haya lugar.
 
 Cuantía
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
 ###### Artículo 76.
 
-Las multas que aplique la Auditoría Superior a los servidores públicos, personas físicas o morales, cuando éstos no atiendan los requerimientos que la misma les formule, serán de cien a cuatrocientos días de salario mínimo general vigente en el Estado. La reincidencia se castigará con una multa de hasta el doble a la ya impuesta.
+Las multas que aplique la Auditoría Superior a los servidores públicos, personas físicas o morales, cuando éstos no atiendan los requerimientos que la misma les formule, serán de cien a cuatrocientos días de la Unidad de Medida y Actualización diaria. La reincidencia se castigará con una multa de hasta el doble a la ya impuesta.
 
 Individualización de la multa
 
@@ -1202,3 +1204,11 @@ MIGUEL MÁRQUEZ MÁRQUEZ
 EL SECRETARIO DE GOBIERNO
 
 ANTONIO SALVADOR GARCÍA LÓPEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
