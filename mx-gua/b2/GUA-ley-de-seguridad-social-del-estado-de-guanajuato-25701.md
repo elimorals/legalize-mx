@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-seguridad-social-del-estado-de-guanajuato-25701"
 country: "mx"
 rank: "ley"
 publication_date: "2002-08-16"
-last_updated: "2015-04-21"
+last_updated: "2016-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25701&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 16 de agosto de 2002.
 
@@ -543,9 +543,11 @@ Tendrán derecho a la Indemnización del seguro de vida, los beneficiarios desig
 
 Será nula toda cesión del seguro de vida a favor de terceras personas.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
 ###### Artículo 51.
 
-El importe del seguro de vida será el equivalente a dos mil días del salario mínimo general vigente en el Estado a la fecha del fallecimiento. En caso de muerte accidental, la cual será determinada por la autoridad competente, el importe del seguro se duplicará.
+El importe del seguro de vida será el equivalente a dos mil veces la Unidad de Medida y Actualización diaria vigente a la fecha del fallecimiento. En caso de muerte accidental, la cual será determinada por la autoridad competente, el importe del seguro se duplicará.
 
 ###### Artículo 52.
 
@@ -697,11 +699,11 @@ El importe de la ayuda de despensa será de al menos siete días del salario mí
 
 Las dependencias, entidades, organismos autónomos, poderes o municipios que dejen de estar afiliados al Instituto, cubrirán el servicio médico y la ayuda de despensa de sus pensionistas. En caso de su desaparición, quedarán a cargo de la entidad pública que haya asumido la mayor parte de las funciones.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
 ###### Artículo 70.
 
-Cuando un pensionista por incapacidad permanente total, invalidez, vejez o jubilación, fallezca, el Instituto otorgará una ayuda para gastos de funeral, equivalente a trescientos noventa días de salario mínimo general vigente en el Estado. Dicho pago se hará a los deudos o a las personas que se hubieren hecho cargo de los gastos mencionados, quienes deberán exhibir copla certificada del acta de defunción y constancias de las erogaciones que hicieron.
+Cuando un pensionista por incapacidad permanente total, invalidez, vejez o jubilación, fallezca, el Instituto otorgará una ayuda para gastos de funeral, equivalente a trescientas noventa veces la Unidad de Medida y Actualización diaria. Dicho pago se hará a los deudos o a las personas que se hubieren hecho cargo de los gastos mencionados, quienes deberán exhibir copia certificada del acta de defunción y constancias de las erogaciones que hicieron.
 
 > <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2015)</small>
 
@@ -1766,3 +1768,9 @@ tercer año de vigencia 2017 cuatro días
 cuarto año de vigencia 2018 cinco días
 
 Artículo Tercero. Tendrán derecho a recibir la prestación adicional referida en el artículo 70 A correspondiente a 2015, los pensionistas que hayan disfrutado de una pensión al 31 de diciembre de 2014.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
