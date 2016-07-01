@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-proyectos-de-prestacion-de-servicios-para-el-estado-7545
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-11"
-last_updated: "2013-06-07"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75453&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE PROYECTOS DE PRESTACIÓN DE SERVICIOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el viernes 11 de junio de 2010.
 
@@ -873,9 +873,11 @@ Los sujetos de la ley serán responsables de la administración y control de los
 
 Autoridad facultada para sancionar y monto de la multa
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
+
 ###### Artículo 64.
 
-Los licitadores o inversionistas proveedores que violen cualquier disposición de esta ley serán sancionados por el Órgano de Control Interno con multa equivalente a una cantidad entre mil y cinco mil veces el salario mínimo general vigente en el Estado elevada al mes, en la fecha de la infracción.
+Los licitadores o inversionistas proveedores que violen cualquier disposición de esta ley serán sancionados por el Órgano de Control Interno con multa equivalente a una cantidad entre mil y cinco mil veces la Unidad de Medida y Actualización diaria elevada al mes, en la fecha de la infracción.
 
 Dentro de los quince días naturales siguientes a la fecha en que tengan conocimiento de alguna violación a esta ley, los sujetos de la ley remitirán al Órgano de Control Interno la documentación comprobatoria de los hechos presuntamente constitutivos de la violación en que se hubiere incurrido.
 
@@ -956,3 +958,9 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
