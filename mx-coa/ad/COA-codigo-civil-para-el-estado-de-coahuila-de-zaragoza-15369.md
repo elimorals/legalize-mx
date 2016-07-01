@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2016-06-10"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de junio de 1999.
 
@@ -4677,6 +4677,8 @@ ARTÍCULO 604 BIS. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 495 PUBLICADO EN EL P.O. 1 DE JULIO DE 2016, SE ADVIERTE LA ADICIÓN DEL SEGUNDO PÁRRAFO AL PRESENTE ARTÍCULO, A SABER: "Son susceptibles de constituir el patrimonio de la familia los bienes inmuebles, y muebles a que refiere el artículo 727 de este ordenamiento". PARA CONSULTAR EL CONTENIDO DEL PRIMER PÁRRAFO, VÉASE TEXTO ANTERIOR AL DECRETO PUBLICADO EN EL P.O. DE 15 DE DICIEMBRE DE 2015 Y REFORMADO EL 10 DE JUNIO DE 2016, EN RAZÓN A LA GRADUALIDAD DE LA DEROGACIÓN DE ESTE ARTÍCULO EN LOS DIVERSOS DISTRITOS JUDICIALES.]</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 715.
@@ -4749,11 +4751,27 @@ ARTÍCULO 604 BIS. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
+[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 495 PUBLICADO EN EL P.O. 1 DE JULIO DE 2016, SE ADVIERTE LA REFORMA DEL PRESENTE ARTÍCULO, A SABER: " Son objeto del patrimonio de familia:
+
+I. La casa, cualquiera que sea su valor, siempre que se trate de un inmueble destinado a la habitación de la familia.
+
+II. El menaje de la vivienda a que se refiere la fracción anterior.
+
+III. El vehículo destinado para uso y beneficio de la familia.
+
+IV. Los libros, biblioteca, escritorios, útiles, instrumentos computacionales y demás equipo y herramienta de la industria que le sirva de sustento económico, con un valor de hasta tres mil salarios mínimos general diario vigente en el Estado.
+
+El valor de los bienes afectados al patrimonio de la familia, será el del lugar donde se encuentren los bienes en que se constituya el patrimonio.
+
+El incremento que sobrevenga respecto al valor de los mismos, originado por cualquier causa, no los sustrae del régimen que los salvaguarda, por lo que tal incremento o excedente, tampoco será embargable; pero el valor original o su incremento, sí podrán disminuirse para encuadrarse dentro de los límites establecidos en las fracciones anteriores". VÉASE TEXTO ANTERIOR AL DECRETO PUBLICADO EN EL P.O. DE 15 DE DICIEMBRE DE 2015 Y REFORMADO EL 10 DE JUNIO DE 2016, EN RAZÓN A LA GRADUALIDAD DE LA DEROGACIÓN DE ESTE ARTÍCULO EN LOS DIVERSOS DISTRITOS JUDICIALES.]
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 727.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 494 PUBLICADO EN EL P.O. 1 DE JULIO DE 2016, SE ADVIERTE LA ADICIÓN DEL SEGUNDO PÁRRAFO AL PRESENTE ARTÍCULO, A SABER: "El Ministerio Público y la Procuraduría para Niños, Niñas y la Familia serán oídos en la constitución, ampliación, reducción y extinción del patrimonio de la familia". PARA CONSULTAR EL CONTENIDO DEL PRIMER PÁRRAFO, VÉASE TEXTO ANTERIOR AL DECRETO PUBLICADO EN EL P.O. DE 15 DE DICIEMBRE DE 2015 Y REFORMADO EL 10 DE JUNIO DE 2016, EN RAZÓN A LA GRADUALIDAD DE LA DEROGACIÓN DE ESTE ARTÍCULO EN LOS DIVERSOS DISTRITOS JUDICIALES.]</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -21088,3 +21106,21 @@ P.O. 10 DE JUNIO DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 494.- SE REFORMAN LOS ARTÍCULOS 613 Y 640 DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; ASÍ MISMO, SE REFORMAN LOS ARTÍCULOS 728, 735 Y 755 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 495.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA; ASÍ MISMO, SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 715 Y 727 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- En los distritos judiciales en los cuales no haya iniciado su vigencia la Ley para la Familia de Coahuila de Zaragoza y el Código de Procedimientos Familiares para el Estado de Coahuila de Zaragoza, la vigencia de las disposiciones de la presente reforma relativas a estos ordenamientos, entrarán en vigor conforme a la gradualidad determinada por el Consejo de la Judicatura del Poder Judicial del Estado prevista en los artículos primero y segundo transitorios del decreto 477 publicado en el Periódico Oficial del Gobierno del Estado el día 10 de junio de 2016.
+
+TERCERO.- Las reformas del Código Civil para el Estado de Coahuila de Zaragoza contenidas en el presente decreto entrarán en vigor al día siguiente de su publicación en los distritos judiciales o municipios en los que no haya iniciado su vigencia la Ley para la Familia de Coahuila de Zaragoza.
+
+Una vez que entre en vigor la Ley para la Familia conforme al primero y segundo transitorios del decreto 477, quedarán derogados los artículos del Código Civil para el Estado de Coahuila de Zaragoza incluidos en el presente decreto.
