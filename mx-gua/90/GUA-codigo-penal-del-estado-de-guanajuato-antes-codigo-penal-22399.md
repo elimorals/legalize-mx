@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2016-05-27"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -595,15 +595,13 @@ En caso de incumplimiento de los sustitutivos de libertad condicionada o trabajo
 
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
 ###### Artículo 51.
 
-La multa es la sanción pecuniaria consistente en el pago al Estado de una suma de dinero que se fije en la sentencia por días multa. El día multa equivale al salario mínimo general vigente en el Estado al momento de consumarse el delito. El Estado destinará el importe de la multa al Fondo Auxiliar para la Impartición de Justicia.
+La multa es la sanción pecuniaria consistente en el pago al Estado de una suma de dinero que se fije en la sentencia por días multa. El día multa equivale a la Unidad de Medida y Actualización diaria, vigente al momento de consumarse el delito. El Estado destinará el importe de la multa al Fondo Auxiliar para la Impartición de Justicia.
 
-Por lo que respecta al delito continuado, se atenderá al salario mínimo general vigente en el Estado al momento en que se realizó la última conducta y para el permanente el que esté en vigor en el momento en que haya cesado el hecho.
+Por lo que respecta al delito continuado, se atenderá a la Unidad de Medida y Actualización diaria vigente al momento en que se realizó la última conducta y para el permanente el que esté en vigor en el momento en que haya cesado el hecho.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -1073,13 +1071,11 @@ l.- La sola formulación de la acusación o de conclusiones acusatorias, lleva i
 
 Para el aseguramiento de bienes deberá mediar instancia del Ministerio Público.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
 ###### Artículo 99
 
-m.- En caso de lesiones y homicidio, a falta de pruebas específicas respecto al daño causado, los jueces y tribunales tomarán como base el salario mínimo general vigente en el Estado al momento del hecho y las disposiciones que sobre riesgos de trabajo establezca la Ley Federal de Trabajo.
+m.- En caso de lesiones y homicidio, a falta de pruebas específicas respecto al daño causado, los jueces y tribunales tomarán como base la Unidad de Medida y Actualización diaria, vigente al momento del hecho y las disposiciones que sobre riesgos de trabajo establezca la Ley Federal del Trabajo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -2347,33 +2343,29 @@ Cuando se cometan con posterioridad al fallecimiento de la persona ofendida, só
 
 A quien se apodere de una cosa mueble y ajena, sin consentimiento de quien legítimamente pueda disponer de ella, se le aplicarán las siguientes sanciones:
 
-> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-I.- De dos meses a seis meses de prisión y de cinco a diez días multa, cuando la cuantía del robo no exceda del equivalente a veinte veces el salario mínimo general vigente en el Estado en la fecha de su comisión.
+I. De dos meses a seis meses de prisión y de cinco a diez días multa, cuando la cuantía del robo no exceda del equivalente a veinte veces la Unidad de Medida y Actualización diaria, vigente en la fecha de su comisión.
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-II.- De seis meses a dos años de prisión y de diez a veinte días multa, cuando la cuantía del robo exceda de veinte veces el salario mínimo general vigente en el Estado en la fecha de su comisión, pero no de doscientas.
+II. De seis meses a dos años de prisión y de diez a veinte días multa, cuando la cuantía del robo exceda de veinte veces la Unidad de Medida y Actualización diaria vigente en la fecha de su comisión, pero no de doscientas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+III. De dos a cuatro años de prisión y de veinte a cuarenta días multa, cuando la cuantía del robo exceda de doscientas veces la Unidad de Medida y Actualización diaria, pero no de cuatrocientas.
 
-III.- De dos a cuatro años de prisión y de veinte a cuarenta días multa, cuando el robo exceda de doscientas veces el salario mínimo general vigente en el Estado, pero no de cuatrocientas.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+IV. De tres a siete años de prisión y de treinta a setenta días multa, cuando la cuantía del robo exceda de cuatrocientas veces la Unidad de Medida y Actualización diaria, pero no de ochocientas.
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-IV.- De tres a siete años de prisión y de treinta a setenta días multa, cuando la cuantía del robo exceda de cuatrocientas veces el salario mínimo general vigente en el Estado, pero no de ochocientas.
+V. De cuatro a diez años de prisión y de cuarenta a cien días multa, cuando la cuantía del robo exceda de ochocientas veces la Unidad de Medida y Actualización diaria.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
-
-V.- De cuatro a diez años de prisión y de cuarenta a cien días multa, cuando exceda de ochocientas veces el salario mínimo general vigente en el Estado.
-
-Cuando se modifique la pena por variación del salario mínimo general vigente en el Estado, no se aplicará lo dispuesto en el artículo 4o. de este Código.
+Cuando se modifique la pena por variación de la Unidad de Medida y Actualización, no se aplicará lo dispuesto en el artículo 4o. de este Código.
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
@@ -2489,11 +2481,9 @@ II. Detente, custodie, adquiera, venda, destace, comercialice, trafique, pignore
 
 III. En su calidad de autoridad intervenga en las operaciones precisadas en las fracciones que anteceden.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
-
-Si el valor del ganado, sus productos o subproductos, es de cuando menos ciento cincuenta veces el salario mínimo, se aplicará de dos a diez años de prisión y de veinte a cien días multa.
+Si el valor del ganado, sus productos o subproductos, es de cuando menos ciento cincuenta veces la Unidad de Medida y Actualización diaria, se aplicará de dos a diez años de prisión y de veinte a cien días multa.
 
 > <small>(ADICIONADO, P.O. 20 DE MAYO DE 2016)</small>
 
@@ -4242,3 +4232,9 @@ P.O. 27 DE MAYO DE 2016.
 Artículo Primero. El presente decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. En un término de cinco años, contados a partir del inicio de vigencia del presente Decreto, el Congreso del Estado deberá determinar, mediante un procedimiento de evaluación, si el presente decreto ha logrado los objetivos esperados, si ha sido suficientemente efectiva y eficiente en su implementación y si ha tenido los impactos esperados; a efecto de implementar las reformas que resulten necesarias para la mejor implementación de las disposiciones normativas contenidas en este ordenamiento normativo, lo anterior independientemente de las iniciativas de reforma, adición o derogación que se presenten.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN".]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
