@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-el-estado-de-guanajuato-42425"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-27"
-last_updated: "2014-12-16"
+last_updated: "2016-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el lunes 27 de diciembre de 2004.
 
@@ -125,9 +125,9 @@ XII.- Las prestaciones de servicio de comedor, bono de transporte, uniformes de 
 
 XIII.- Primas de seguros por gastos médicos o de vida; y
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-XIV.- Las despensas en dinero o en especie, cuando su monto no rebase el 40% del salario mínimo general vigente en el Estado.
+XIV.- Las despensas en dinero o en especie, cuando su monto no rebase el 40% de la Unidad de Medida y Actualización diaria.
 
 ###### Artículo 5.
 
@@ -1014,3 +1014,9 @@ Artículo Primero. El presente Decreto entrará en vigor a partir del 1 de enero
 Artículo Segundo. Se derogan las disposiciones legales que se opongan al presente Decreto.
 
 Artículo Tercero. Los contribuyentes del Régimen de Incorporación Fiscal, registrados con anterioridad al ejercicio fiscal de 2014 en el Régimen de Pequeños Contribuyentes, podrán acceder al beneficio previsto en la tabla de reducción que se adiciona al artículo 27 por medio de este Decreto, siempre y cuando hayan cumplido con sus obligaciones fiscaleshasta (sic) el ejercicio fiscal de 2013.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
