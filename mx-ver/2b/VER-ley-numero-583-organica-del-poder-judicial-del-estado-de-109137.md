@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-583-organica-del-poder-judicial-del-estado-de-109137
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-04"
-last_updated: "2015-08-04"
+last_updated: "2016-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109137&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 583 ORGANICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 PUBLICADO EL PRIMERO DE JULIO DE DOS MIL DIECISÉIS, EN EL PERIÓDICO OFICIAL DEL ESTADO DE VERACRUZ, POR EL QUE SE REFORMARON, ADICIONARON Y DEROGARON DIVERSOS PRECEPTOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 LEY NÚMERO 583 ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el martes 4 de agosto de 2015.
 
@@ -633,21 +635,23 @@ Los presidentes de las salas de los tribunales del Poder Judicial serán suplido
 
 #### Sección Primera. Integración y funcionamiento
 
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 POR EL QUE SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2016)</small>
+
 ###### Artículo 34.
 
-El Tribunal de lo Contencioso Administrativo es el órgano especializado del Poder Judicial, con atribuciones para dirimir las controversias que se susciten entre particulares y las autoridades de la administración pública estatal o municipal, los organismos autónomos previstos en el artículo 67, fracciones III y IV, de la Constitución Política del Estado, la Universidad Veracruzana y demás instituciones de educación superior a las que la ley otorgue autonomía, en funciones de derecho público; así como las que promueva la autoridad que resulte afectada por un acto definitivo de la administración pública, atendiendo a la competencia que señalen la presente Ley, el Código de Procedimientos Administrativos para el Estado y demás normativa aplicable.
+El Tribunal de lo Contencioso Administrativo es el órgano especializado del Poder Judicial, con atribuciones para dirimir las controversias que se susciten entre particulares y las autoridades de la administración pública estatal o municipal, los organismos autónomos previstos en el artículo 67, fracciones III y IV, de la Constitución Política del Estado, la Universidad Veracruzana y demás instituciones de educación superior a las que la ley otorgue autonomía, en funciones de derecho público; así como las que promueva la autoridad que resulte afectada por un acto definitivo de la administración pública estatal o municipal, atendiendo a la competencia que señalen la presente Ley, el Código de Procedimientos Administrativos para el Estado y demás normativa aplicable; así como para dar cumplimiento a la legislación en materia de anticorrupción en el ámbito de competencia jurisdiccional del Estado.
+
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 POR EL QUE SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2016)</small>
 
 ###### Artículo 35.
 
-El Tribunal de lo Contencioso Administrativo funcionará en Pleno y en salas; se compondrá por siete magistrados, uno de los cuales formará parte del Consejo de la Judicatura y no integrará sala.
+El Tribunal de lo Contencioso Administrativo funcionará en Pleno y en salas; se compondrá por diez magistrados, uno de los cuales formará parte del Consejo de la Judicatura y no integrará sala. Habrá una Sala Superior, una sala especializada en materia anticorrupción y tres salas regionales. El Pleno se integrará por todos los magistrados adscritos a salas: la Sala Superior por tres magistrados, la sala especializada en materia anticorrupción por tres magistrados, y las salas regionales en forma unitaria. El Pleno, la Sala Superior, la sala especializada en materia anticorrupción, y las salas regionales, contarán con un secretario de acuerdos, secretarios de estudio y cuenta, actuarios y el personal administrativo que requieran para su buen funcionamiento, nombrados conforme a lo señalado por esta Ley. El secretario de acuerdos de la Sala Superior fungirá como tal en el Pleno del Tribunal.
 
-Habrá una sala superior y tres salas regionales.
-
-El Pleno se integrará por todos los magistrados adscritos a salas: la sala superior, por tres magistrados; y las salas regionales, en forma unitaria.
-
-El Pleno, la sala superior y las salas regionales contarán con un secretario de acuerdos, secretarios de estudio y cuenta, actuarios y el personal administrativo que requieran para su buen funcionamiento, nombrados conforme a lo señalado por esta Ley y a la disponibilidad presupuestal. El secretario de acuerdos de la sala superior fungirá como tal en el Pleno del
-
-Tribunal.
+Los Magistrados del Tribunal de lo Contencioso Administrativo, serán suplidos en sus faltas temporales que no excedan de diez días consecutivos, por el Secretario de Acuerdos de la sala correspondiente.
 
 #### Sección Segunda. Atribuciones
 
@@ -673,29 +677,159 @@ VIII. Dar cuenta al Consejo de la Judicatura de las irregularidades de que tenga
 
 IX. Las demás que deriven de las disposiciones legales estatales.
 
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 POR EL QUE SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2016)</small>
+
 ###### Artículo 37.
 
-El Pleno sesionará con la asistencia de, por lo menos, cuatro de sus integrantes, y sus acuerdos se tomarán por mayoría de votos de los presentes, quienes sólo podrán abstenerse de votar en los casos en que tengan impedimento legal. Cuando exista empate, el presidente tendrá voto de calidad.
+El Pleno sesionará con la asistencia de por lo menos cinco de sus integrantes, y sus acuerdos se tomarán por mayoría de votos de los presentes, quienes sólo podrán abstenerse de votar en los casos en que tengan impedimento legal. Cuando exista empate, el presidente tendrá voto de calidad.
 
-###### Artículo 38.
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 POR EL QUE SE REFORMÓ ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-La sala superior tendrá su sede oficial en el municipio de Xalapa-Enríquez y tendrá competencia para:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE JULIO DE 2016)</small>
 
-I. Resolver los recursos de revisión que se interpongan en contra de las resoluciones de las salas regionales;
+###### ARTÍCULO 38.
+
+LA SALA SUPERIOR TENDRÁ SU SEDE OFICIAL EN EL MUNICIPIO DE XALAPA-ENRÍQUEZ, VERACRUZ DE IGNACIO DE LA LLAVE Y TENDRÁ COMPETENCIA PARA:
+
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 POR EL QUE SE REFORMÓ ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2016)</small>
+
+I. RESOLVER LOS RECURSOS DE REVISIÓN QUE SE INTERPONGAN EN CONTRA DE LAS RESOLUCIONES DE LAS SALAS;
 
 II. Resolver los recursos de reclamación que se interpongan en contra de los acuerdos de trámite dictados por el presidente del Tribunal;
 
-III. Conocer las excitativas para la impartición de justicia que promuevan las partes, cuando los magistrados de las salas regionales no dicten la resolución que corresponda dentro de los plazos señalados por la ley;
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 POR EL QUE SE REFORMÓ ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-IV. Girar mandamientos, en el ámbito de su competencia, a las salas regionales, para encomendarles la realización de alguna diligencia;
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2016)</small>
 
-V. Calificar las excusas o impedimentos de los magistrados del Tribunal;
+III. CONOCER LAS EXCITATIVAS PARA LA IMPARTICIÓN DE JUSTICIA QUE PROMUEVAN LAS PARTES, CUANDO LOS MAGISTRADOS DE LAS SALAS NO DICTEN LA RESOLUCIÓN QUE CORRESPONDA DENTRO DE LOS PLAZOS SEÑALADOS POR LA LEY;
 
-VI. Resolver los conflictos de competencia que se susciten entre las salas regionales;
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 POR EL QUE SE REFORMÓ ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-VII. Conocer del incumplimiento de las sentencias de las salas regionales; y
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2016)</small>
 
-VIII. Conocer de los demás asuntos que establezcan la Constitución y las leyes del Estado.
+IV. GIRAR MANDAMIENTOS A LAS SALAS, EN EL ÁMBITO DE SU COMPETENCIA, PARA ENCOMENDARLES LA REALIZACIÓN DE ALGUNA DILIGENCIA;
+
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 POR EL QUE SE REFORMÓ ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2016)</small>
+
+V. CALIFICAR LAS EXCUSAS O IMPEDIMENTOS DE LOS MAGISTRADOS DEL TRIBUNAL. EN EL CASO DE LA SALA ESPECIALIZADA EN MATERIA ANTICORRUPCIÓN, SE DEBERÁ ESTAR A LAS REGLAS DE SUPLENCIA PARA LA CONFORMACIÓN DE LA SALA;
+
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 POR EL QUE SE REFORMÓ ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2016)</small>
+
+VI. RESOLVER LOS CONFLICTOS DE COMPETENCIA QUE SE SUSCITEN ENTRE LAS SALAS;
+
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 POR EL QUE SE REFORMÓ ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2016)</small>
+
+VII. CONOCER DEL INCUMPLIMIENTO DE LAS SENTENCIAS DE LAS SALAS; Y
+
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 POR EL QUE SE REFORMÓ ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2016)</small>
+
+VIII. CONOCER DE LOS DEMÁS ASUNTOS QUE ESTABLEZCAN LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA CONSTITUCIÓN DEL ESTADO, LAS LEYES GENERALES, Y LAS DEMÁS LEYES APLICABLES EN EL ESTADO.
+
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 POR EL QUE SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, G.O. 1 DE JULIO DE 2016)</small>
+
+###### Artículo 38 Bis.
+
+La sala especializada en materia anticorrupción del Tribunal de lo Contencioso Administrativo tendrá su residencia en Xalapa-Enríquez, Veracruz de Ignacio de la Llave, y tendrá competencia en el Estado para:
+
+I. Designar de entre sus integrantes a su presidente;
+
+II. Conocer de:
+
+a) Las Responsabilidades Administrativas de los Servidores Públicos y Particulares vinculados con faltas graves promovidas por la Contraloría General del Estado y los Órganos Internos de Control de los entes públicos estatales o municipales, o por el Órgano de Fiscalización Superior del Estado, para la imposición de las sanciones que correspondan, en términos de lo dispuesto por la Ley de Responsabilidades Administrativas vigente para el Estado. Así como fincar a los responsables el pago de las indemnizaciones y sanciones que deriven de los daños y perjuicios que afecten a la Hacienda Pública estatal o municipal, o al Patrimonio de los entes públicos estatales o municipales.
+
+Bajo ninguna circunstancia se entenderá que la atribución de la sala especializada en materia anticorrupción, para imponer sanciones a particulares por actos u omisiones vinculadas con faltas administrativas graves, se contrapone o menoscacaba (sic) la facultad que cualquier ente público posea para imponer sanciones a particulares en los términos de la legislación aplicable.
+
+b) Los procedimientos, resoluciones definitivas, recursos o actos administrativos, dictados por la autoridad estatal o municipal, que impongan sanciones a los servidores públicos y a los particulares, cuando estos últimos ejerzan recursos económicos procedentes de la Hacienda Pública estatal o municipal;
+
+c) Los asuntos que le sean turnados para sancionar responsabilidades administrativas que la ley determine como graves en casos de servidores públicos y de los particulares que participen en dichos actos;
+
+d) El recurso por medio del cual se califica como grave la falta administrativa que se investiga contra un servidor público;
+
+e) Los juicios interpuestos contra servidores públicos por las responsabilidades administrativas que la ley respectiva determine como graves;
+
+f) Los juicios contra particulares donde se les impute responsabilidad administrativa por actos vinculados con otros servidores públicos derivados de los juicios a que hace referencia el inciso anterior; y
+
+g) Los demás casos que establezcan las leyes generales respecto a los tribunales administrativos en materia anticorrupción.
+
+III. Imponer los medios de apremio para hacer cumplir sus resoluciones;
+
+IV. Imponer las medidas precautorias y cautelares que le soliciten en términos de lo establecido en la Ley de Responsabilidades Administrativas vigente para el Estado, cuando sean procedentes, con una duración no mayor a noventa días hábiles;
+
+V. Fincar responsabilidades administrativas a los servidores públicos y particulares en los casos que la legislación determine como graves, e imponer a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública estatal o municipal, o al patrimonio de los entes públicos estatales o municipales;
+
+VI. Imponer a los particulares que intervengan en actos vinculados con faltas administrativas graves inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas, así como posibles nombramientos o encargos públicos del orden estatal, municipal o intermunicipal, según corresponda;
+
+VII. Sancionar a las personas morales cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. En estos casos podrá procederse a la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos, estatales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que sea definitiva;
+
+VIII. A petición de su Magistrado Presidente, solicitar al Pleno de la Sala Superior que se realicen las gestiones necesarias ante las autoridades competentes para garantizar las condiciones que permitan a los Magistrados de la propia sala especializada en materia de anticorrupción, ejercer con normalidad y autonomía sus atribuciones;
+
+IX. Dar seguimiento y proveer la ejecución de las resoluciones que emita;
+
+X. Atender los mandamientos de la Sala Superior en el ámbito de su competencia;
+
+XI. Solicitar el auxilio de las salas regionales para la realización de diligencias fuera de su jurisdicción territorial;
+
+XII. Proponer, en su respectivo ámbito, reformas al Reglamento Interior del Tribunal de lo Contencioso Administrativo;
+
+XIII. Rendir oportunamente al presidente del Tribunal un informe bimestral de las actividades de la sala; y
+
+XIV. Las señaladas en las demás leyes como competencia exclusiva de la sala especializada en materia anticorrupción.
+
+Las resoluciones definitivas de la sala especializada en materia anticorrupción, se tomarán por mayoría de votos, por lo que para la validez de las sesiones se requerirá siempre de la presencia de tres Magistrados.
+
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 POR EL QUE SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, G.O. 1 DE JULIO DE 2016)</small>
+
+###### Artículo 38 Ter.
+
+Los Magistrados de la sala especializada en materia anticorrupción tendrán las siguientes atribuciones:
+
+I. Admitir, prevenir, reconducir o mejor proveer, la acción de responsabilidades contenida en el informe de presunta responsabilidad administrativa;
+
+II. Admitir o tener por contestada la demanda, en sentido negativo;
+
+III. Admitir o rechazar la intervención del tercero;
+
+IV. Admitir, desechar o tener por no ofrecidas las pruebas;
+
+V. Admitir, desechar y tramitar los incidentes y recursos que le competan, formular los proyectos de resolución, de aclaraciones de la resolución y someterlos a la consideración de la sala especializada en materia anticorrupción;
+
+VI. Dictar los acuerdos o providencias de trámite necesarios para instruir el procedimiento sancionatorio, incluyendo la imposición de las medidas de apremio necesarias para hacer cumplir sus determinaciones, acordar las promociones de las partes y los informes de la (sic) autoridades y atender la correspondencia necesaria, autorizándola con su firma;
+
+VII. Formular el proyecto de resolución definitiva y, en su caso, el que recaiga a la instancia de apelación o ejecutoria;
+
+VIII. Dictar los acuerdos y providencias relativas a las medidas cautelares provisionales en los términos de la Ley de Responsabilidades Administrativas vigente para el Estado, así como proponer a la sala especializada en materia anticorrupción, el proyecto de resolución correspondiente a la medida cautelar definitiva que se estime procedente;
+
+IX. Proponer a la sala especializada en materia anticorrupción la designación del perito tercero;
+
+X. Solicitar la debida integración del expediente para un mejor conocimiento de los hechos en la búsqueda de la verdad material; asimismo los Magistrados podrán acordar la exhibición de cualquier documento que tenga relación con los mismos, ordenar la práctica de cualquier diligencia o proveer la preparación y desahogo de la prueba pericial cuando se planteen cuestiones de carácter técnico y no hubiere sido ofrecida por las partes en el procedimiento de investigación;
+
+XI. Dirigir la audiencia de vista con el personal de apoyo administrativo y jurisdiccional que requiera;
+
+XII. Dar seguimiento y proveer la ejecución de las resoluciones que emita;
+
+XIII. Coadyuvar con las autoridades competentes para el mejor desempeño de sus funciones;
+
+XIV. Proponer al Consejo de la judicatura, por conducto del Tribunal de lo contencioso administrativo, el nombramiento, remoción y liquidación del Secretario de Acuerdos, Secretarios de Estudio y Cuenta, Actuarios y demás personal administrativo de la Sala Especializada, con excepción de los defensores jurídicos;
+
+XV. Solicitar a la autoridad correspondiente, la exhibición de cualquier documento que tenga relación con los hechos; y
+
+XVI. Las demás que les correspondan conforme a las disposiciones legales aplicables.
 
 ###### Artículo 39.
 
@@ -721,7 +855,9 @@ c) Actos que dicte, ordene, ejecute o trate de ejecutar de manera unilateral la 
 
 d) Actos administrativos que se configuren por el silencio de la autoridad;
 
-e) Resoluciones dictadas por la autoridad, que impongan sanciones a los servidores públicos que hubiesen incurrido en responsabilidad administrativa;
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 POR EL QUE SE DEROGÓ ESTE INCISO, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+e) (DEROGADO, G.O. 1 DE JULIO DE 2016)
 
 f) Resoluciones favorables a los particulares que causen lesión al interés público, cuya nulidad demande la autoridad;
 
@@ -2788,3 +2924,29 @@ DR. JAVIER DUARTE DE OCHOA
 GOBERNADOR DEL ESTADO
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 PUBLICADO EL PRIMERO DE JULIO DE DOS MIL DIECISÉIS, EN EL PERIÓDICO OFICIAL DEL ESTADO DE VERACRUZ, POR EL QUE SE REFORMARON, ADICIONARON Y DEROGARON DIVERSOS PRECEPTOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+G.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 892 QUE REFORMA LOS ARTÍCULOS 34, 35, 37 Y 38; ADICIONA LOS ARTÍCULOS 38 BIS Y 38 TER, Y DEROGA EL INCISO E) DE LA FRACCIÓN I DEL ARTÍCULO 40, TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial Órgano del Gobierno del Estado.
+
+Segundo. Se instruye al Ejecutivo del Estado, a través de la Secretaría de Finanzas y Planeación, a hacer inmediatamente los ajustes presupuestales correspondientes y dotar al Poder Judicial del Estado de los recursos necesarios para dar debido cumplimiento al presente Decreto.
+
+Tercero. Se deroga cualquier disposición que contravenga el presente Decreto
+
+Cuarto. Todos los procedimientos que se encuentren en trámite en el Tribunal con anterioridad a este Decreto, se seguirán tramitando ante las mismas instancias hasta su conclusión.
+
+Quinto. El Titular del Poder Ejecutivo del Estado deberá proponer en una sola terna a los tres aspirantes para ser designados Magistrados, quienes deberán ser nombrados por el Congreso del Estado de conformidad con la Constitución Política del Estado, dentro de los 30 días naturales siguientes a la vigencia del presente Decreto.
+
+En caso de que la terna no sea aprobada, el titular del Poder Ejecutivo del Estado enviará tantas ternas, como sean necesarias.
+
+Sexto. Se concede al Pleno del Tribunal de lo Contencioso Administrativo del Estado, un término de hasta 30 días naturales, a partir de la entrada en vigor del presente Decreto, para adecuar su normatividad interna al contenido del mismo. El Reglamento Interior del Tribunal de lo Contencioso Administrativo vigente a la entrada en vigor del presente Decreto, seguirá aplicándose en aquello que no se oponga al mismo.
+
+Séptimo. Son atribuciones del Pleno del Tribunal Superior de Justicia, adscribir a los Magistrados de la Sala Especializada en Materia Anticorrupción, quienes mantendrán su adscripción al menos durante los primeros cinco años del ejercicio de su encargo sin perjuicio de que puedan permanecer en dichas adscripciones durante todo su encargo.
+
+Octavo. Una vez designados los Magistrados de la sala especializada en materia anticorrupción deberán proponer al Consejo de la Judicatura, por conducto del Presidente del Tribunal de lo Contencioso Administrativo, el nombramiento del Secretario de Acuerdos, de los Secretarios de Estudio y Cuenta, Actuarios y demás personal administrativo de la sala especializada; quienes a su vez deberán ser nombrados y entrar en funciones dentro de los 30 días siguientes
