@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-educacion-para-el-estado-de-guanajuato-83211"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-07"
-last_updated: "2016-01-29"
+last_updated: "2016-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 29 DE ENERO DE 2016 NO APLICA AL ARTICULADO DEL DECRETO 64 PUBLICADO EN EL P.O. DE 29 DE DICIEMBRE DE 2015.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 7 de octubre de 2011.
 
@@ -711,7 +709,7 @@ Difusión educativa
 
 ###### Artículo 53.
 
-El Ejecutivo Estatal, para contribuir a una mejor convivencia humana, promoverá con los medios de comunicación, la difusión del objeto, fines, criterios de orientación, valores e ideales de la educación, así como las actividades educativas, artísticas, culturales, cívicas y físico-deportivas en todas sus manifestaciones para fortalecer el Sistema Educativo Estatal.
+El Ejecutivo Estatal, para contribuir a una mejor convivencia humana, promoverá con los medios de comunicación, la difusión del objeto, fines, criterios de orientación, valores e ideales de la educación, así como las actividades educativas, artísticas, culturales, cívicas y físicode-portivas en todas sus manifestaciones para fortalecer el Sistema Educativo Estatal.
 
 ## TÍTULO CUARTO. SISTEMA EDUCATIVO ESTATAL
 
@@ -1471,11 +1469,23 @@ Los materiales educativos son el conjunto de medios con los cuales el educador f
 
 Calendario escolar
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
+
 ###### Artículo 88.
 
-El calendario escolar determinado por la Secretaría de Educación Pública contiene doscientos días de clase para los educandos de conformidad con la Ley General de Educación. La Secretaría podrá ajustar el calendario escolar cuando ello resulte necesario en atención a requerimientos específicos de la entidad.
+El calendario escolar, determinado por la Secretaría de Educación Pública, contiene una duración mínima de ciento ochenta y cinco días y una máxima de doscientos días efectivos de clase, de conformidad con la Ley General de Educación.
 
-En los días hábiles marcados en el calendario escolar, las horas de labor en las instituciones educativas se dedicarán a la práctica docente y a las actividades educativas con los educandos conforme a lo previsto en los planes y programas de estudio, así como a aquellas actividades inherentes a su proceso de formación integral.
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2016)</small>
+
+Las autoridades escolares, entendidas como el personal que lleva a cabo funciones de dirección o supervisión en los sectores, zonas o centros escolares, previa autorización de la Secretaría y de conformidad con los lineamientos que expida la Secretaría de Educación Pública, podrán ajustar el calendario escolar al que se refiere el párrafo anterior. Dichos ajustes deberán prever las medidas para cubrir los planes y programas de estudio aplicables.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2016)</small>
+
+La Secretaria deberá autorizar los ajustes al calendario escolar cuando ello resulte necesario, en atención a los requerimientos específicos de la entidad.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
+En los días efectivos de clase marcados en el calendario escolar, las horas de labor en las instituciones educativas se dedicarán a la práctica docente y a las actividades educativas con los educandos conforme a lo previsto en los planes y programas de estudio, así como a aquellas actividades inherentes a su proceso de formación integral.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
@@ -1485,13 +1495,21 @@ La suspensión de clases y las actividades no previstas en los planes y programa
 
 De presentarse interrupciones por causas de fuerza mayor o caso fortuito, la Secretaría y la SICES, en el ámbito de su competencia, tomarán las medidas para recuperar los correspondientes días y horas a fin de dar cumplimiento a los planes y programas de estudio.
 
-Si la modificación al calendario escolar implica más de los doscientos días de clase para los educandos, los educadores serán debidamente remunerados por los días laborados adicionales al calendario.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
 
-Publicación del calendario escolar
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 1 DE JULIO DE 2016)</small>
+
+Publicación del calendario escolar y sus ajustes
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
 
 ###### Artículo 89.
 
-El calendario escolar de la entidad deberá ser publicado en el Periódico Oficial del Gobierno del Estado y en los diarios de mayor circulación en la entidad.
+La Secretaría publicará en el Periódico Oficial de (sic) Gobierno del Estado y en su página de internet las autorizaciones de ajustes al calendario escolar determinado por la Secretaría de Educación Pública, en los términos de la Ley General de Educación y los lineamientos que emita esa dependencia federal.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2016)</small>
+
+La SICES igualmente publicará en su página de internet el calendario escolar determinado por la Secretaría de Educación Pública por lo que hace a escuelas normales y formadoras de docentes en educación básica.
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE MARZO DE 2014)</small>
 
@@ -2313,7 +2331,9 @@ Sanciones a particulares
 
 Las infracciones enumeradas en el artículo anterior tratándose de particulares se sancionarán con:
 
-I. Multa por el equivalente de uno hasta cinco mil veces el salario mínimo general diario vigente en la entidad y en la fecha en que se cometa la infracción. Los montos de las multas podrán duplicarse en el caso de reincidencia;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+I. Multa por el equivalente de una hasta cinco mil veces la Unidad de Medida y Actualizacióndiaria (sic) vigente en la fecha en que se cometa la infracción. Los montos de las multas podrán duplicarse en el caso de reincidencia;
 
 II. Suspensión de las actividades de las instituciones educativas con autorización o reconocimiento de validez oficial, según corresponda; y
 
@@ -2569,9 +2589,9 @@ Artículo Segundo. El Gobernador del Estado contará con un plazo de hasta noven
 
 Transferencia de recursos
 
-Artículo Tercero. Las secretarías de Educación y de Desarrollo Económico Sustentable transferirá a la Secretaría de Innovación, Ciencia y Educación Superior, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones que tuviere encomendadas en materia de educación superior, innovación y economía del conocimiento, a través de la entrega-recepción respectiva.
+Artículo Tercero. Las secretarías de Educación y de Desarrollo Económico Sustentable transferirán a la Secretaría de Innovación, Ciencia y Educación Superior, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones que tuviere encomendadas en materia de educación superior, innovación y economía del conocimiento, a través de la entrega-recepción respectiva.
 
-El Consejo de Ciencia y Tecnología transferirán a la Secretaría de Innovación, Ciencia y Educación Superior, los asuntos jurídicos, administrativos, recursos humanos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo con el que se atiende la competencia en materia de ciencia, tecnología e innovación, a través de la entrega-recepción respectiva.
+El Consejo de Ciencia y Tecnología transferirá a la Secretaría de Innovación, Ciencia y Educación Superior, los asuntos jurídicos, administrativos, recursos humanos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo con el que se atiende la competencia en materia de ciencia, tecnología e innovación, a través de la entrega-recepción respectiva.
 
 El personal de ambas dependencias y del Concyteg, conforme a su estatus laboral pasará a integrar la nueva Secretaría de Innovación, Ciencia y Educación Superior, sin menoscabo de los derechos adquiridos de los trabajadores.
 
@@ -2610,3 +2630,17 @@ Artículo Noveno. De conformidad a lo estipulado en el Reglamento de Entrega Rec
 Término para la adecuación reglamentaria
 
 Artículo Décimo. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de esta reforma, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 108, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. La implementación de las modificaciones al calendario escolar surtirá efectos a partir del ciclo lectivo inmediato posterior a la fecha de entrada en vigor del presente Decreto.
