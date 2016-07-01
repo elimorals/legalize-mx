@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2016-05-27"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -713,7 +713,9 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 I. Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
 
-II. Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil, y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+II. Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil, además de impulsar, la instalación de lactarios en las dependencias o entidades públicas, así como en las instituciones de educación superior pública o privada.
 
 III. Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarréicos y las infecciones respiratorias agudas de los menores de 5 años;
 
@@ -3260,3 +3262,13 @@ P.O. 27 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 415.- SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 150 Y LA FRACCIÓN D) Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 156 DE LA LEY ESTATAL DE SALUD; ASÍ MISMO, SE MODIFICA LA FRACCIÓN XXIII DEL ARTÍCULO 64 DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 476.- SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 32 DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA; ASÍ MISMO, SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 59 DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- La Secretaría de Salud del Estado contará con un plazo de quince días para emitir los lineamientos necesarios para la aplicación del presente decreto, contados a partir de la entrada en vigor del mismo.
+
+TERCERO.- Las dependencias o entidades de los Poderes del Estado tendrán un plazo de treinta días para la implementación de sus lactarios, contados a partir de que la Secretaría de Salud del Estado emita los lineamientos a que se refiere el artículo anterior.
