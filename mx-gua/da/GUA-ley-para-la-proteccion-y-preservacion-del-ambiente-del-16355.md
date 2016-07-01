@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-y-preservacion-del-ambiente-del-16355"
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-08"
-last_updated: "2015-12-29"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA PROTECCIÓN Y PRESERVACIÓN DEL AMBIENTE DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 8 de febrero de 2000.
 
@@ -2007,7 +2007,9 @@ I.- Apercibimiento;
 
 II.- Amonestación;
 
-III.- Multa por el equivalente de veinte a veinte mil días de salario mínimo general vigente en el Estado, en el momento de imponer la sanción;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+III.- Multa por el equivalente de veinte a veinte mil doscientas veces la Unidad de Medida y Actualización diaria vigente en el momento de imponer la sanción;
 
 IV.- Clausura temporal o definitiva, parcial o total, cuando:
 
@@ -2059,9 +2061,13 @@ En los casos en que se imponga como sanción la clausura temporal, la Procuradur
 
 Los bienes decomisados tendrán alguno de los siguientes destinos:
 
-I.- Venta directa en aquellos casos en que el valor de lo decomisado no exceda de cinco mil veces el salario mínimo general vigente en el Estado al momento de imponer la sanción;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-II.- Remate en subasta pública cuando el valor de lo decomisado exceda de cinco mil veces el salario diario mínimo general vigente en el Estado al momento de imponer la sanción; y
+I.- Venta directa en aquellos casos en que el valor de lo decomisado no exceda de cinco mil veces la Unidad de Medida y Actualización diaria vigente al momento de imponer la sanción;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+II.- Remate en subasta pública cuando el valor de lo decomisado exceda de cinco mil veces la Unidad de Medida y Actualización diaria vigente al momento de imponer la sanción; y
 
 III.- Donación a organismos públicos e instituciones científicas o de enseñanza superior o de beneficencia pública, según la naturaleza del bien decomisado y de acuerdo a las funciones y actividades que realice el donatario, siempre y cuando no sean lucrativas.
 
@@ -2454,3 +2460,9 @@ Artículo Noveno. De conformidad a lo estipulado en el Reglamento de Entrega Rec
 Término para la adecuación reglamentaria
 
 Artículo Décimo. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de esta reforma, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTO, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN.”]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
