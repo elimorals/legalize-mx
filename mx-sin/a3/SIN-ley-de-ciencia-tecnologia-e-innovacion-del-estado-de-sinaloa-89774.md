@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-sinaloa-89
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-17"
-last_updated: "2012-10-17"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 17 de octubre de 2012.
 
@@ -87,9 +87,17 @@ XIX. Consolidar la realización del Programa Especial para impulsar la competiti
 
 XX. Facilitar el establecimiento de mecanismos de cooperación nacional e internacional que favorezcan la realización de proyectos de investigación, de desarrollo tecnológico y la creación de capital humano;
 
-XXI. Promover una cultura del conocimiento, la creatividad y la innovación tecnológica, que fortalezca e impulse el desarrollo de la sociedad de Sinaloa; y,
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-XXII. Impulsar, mediante la investigación científica, el desarrollo tecnológico y la innovación, en aquellas áreas estratégicas como la biotecnología agropecuaria, alimentaria y nutracéutica; las tecnologías de información; el turismo; energías renovables, y aquellas otras, que se consideren para el desarrollo económico y social del Estado.
+XXI. Promover una cultura del conocimiento, la creatividad y la innovación tecnológica, que fortalezca e impulse el desarrollo de la sociedad de Sinaloa;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+XXII. Impulsar, mediante la investigación científica, el desarrollo tecnológico y la innovación, en aquellas áreas estratégicas como la biotecnología agropecuaria, alimentaria y nutracéutica; las tecnologías de información; el turismo; energías renovables, y aquellas otras, que se consideren para el desarrollo económico y social del Estado; y,
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2016)</small>
+
+XXIII. Promover la inclusión de la perspectiva de género con una visión transversal en la ciencia, la tecnología y la innovación, así como una participación equitativa de mujeres y hombres en todos los ámbitos del Sistema Estatal de Ciencia, Tecnología e Innovación.
 
 ###### ARTÍCULO 3.
 
@@ -201,7 +209,11 @@ VIII. Rendición de cuentas: Los sujetos de los apoyos que resulten beneficiados
 
 Posteriores apoyos económicos se otorgarán en función del cumplimiento y de la calidad de los resultados e impactos de las propuestas apoyadas, salvaguardando la información confidencial que por motivos de propiedad industrial o alguna otra causa pactada con los sujetos de apoyo. Los informes de proyectos y propuestas apoyadas a instituciones de educación superior, centros públicos de investigación o alguna otra entidad de gobierno, podrán ser de acceso público;
 
-IX. Resultados e impacto: Además de la factibilidad, pertinencia y calidad de las propuestas de apoyo, se tomará en cuenta de manera especial, los resultados e impacto que éstas tendrán en el desarrollo económico y social del Estado;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+IX. Resultados e impacto: Además de la factibilidad, pertinencia y calidad de las propuestas de apoyo, se tomará en cuenta de manera especial, los resultados e impacto que éstas tendrán en el desarrollo económico y social del Estado.
+
+En la medida de lo posible se deberá incluir información de manera diferenciada entre mujeres y hombres a fin de que se pueda medir el impacto y la incidencia de las políticas y programas en materia de desarrollo científico, tecnológico e innovación;
 
 X. Consulta y participación: Para la toma de decisiones en materia de políticas generales, prioridades, programas, presupuestos, procesos de evaluación y asignación de recursos en materia de ciencia, tecnología e innovación, se atenderá la participación y consulta de las comunidades académica, científica, tecnológica y los sectores públicos, estatal y municipal, privado y social, en los términos del Plan Estatal de Desarrollo y el Programa Especial;
 
@@ -209,7 +221,11 @@ XI. Libertad de investigación: Los apoyos en materia de investigación científ
 
 Los instrumentos de apoyo no afectarán la libertad de investigación científica y tecnológica, sin perjuicio de la regulación o limitaciones que por motivos de seguridad, salud, ética o de cualquier otra causa de interés público determinen las disposiciones legales;
 
-XII. Revisión y actualización de políticas: Las políticas y estrategias de apoyo a la investigación científica, el desarrollo tecnológico y la innovación deberán ser revisadas y actualizadas cada tres años por el Consejo General, conforme a un esfuerzo permanente de evaluación de resultados y tendencias del avance científico y tecnológico, así como su impacto en la solución de necesidades;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+XII. Revisión y actualización de políticas: Las políticas y estrategias de apoyo a la investigación científica, el desarrollo tecnológico y la innovación deberán ser revisadas y actualizadas cada tres años por el Consejo General, conforme a un esfuerzo permanente de evaluación de resultados y tendencias del avance científico y tecnológico, así como su impacto en la solución de necesidades.
+
+Asimismo, deberán buscar el mayor efecto benéfico de dichas actividades, en la enseñanza y el aprendizaje de la ciencia y la tecnología, en la calidad de la educación, particularmente de la educación superior, en la vinculación con el sector productivo y de servicios; así como incentivar la participación equilibrada y sin discriminación entre mujeres y hombres y el desarrollo de las nuevas generaciones de investigadores y tecnólogos;
 
 XIII. Vinculación: Las entidades responsables de la aplicación de la presente ley, promoverán las acciones necesarias para asegurar una estrecha colaboración gobierno (sic), comunidad académica y de investigación y empresas para asegurar que el conocimiento científico y tecnológico generado se vincule con necesidades y oportunidades para el desarrollo económico y social del Estado;
 
@@ -401,7 +417,9 @@ XII. Apoyar a las dependencias y entidades de la Administración Pública Estata
 
 XIII. Promover la certificación tecnológica de las empresas, verificando el cumplimiento de convenios permanentes celebrados para la realización de actividades de investigación científica y desarrollo tecnológico, en coordinación con las autoridades competentes;
 
-XIV. Suministrar oportunamente los apoyos a proyectos autorizados, supervisar su ejecución y evaluar sus resultados e impactos obtenidos;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+XIV. Suministrar oportunamente los apoyos a proyectos autorizados, supervisar su ejecución y evaluar sus resultados e impactos obtenidos, debiendo tomar en consideración la perspectiva de género;
 
 XV. Diseñar las bases, criterios y reglas; y operar los programas de becas para la formación de recursos humanos en ciencia, tecnología e innovación;
 
@@ -990,3 +1008,13 @@ C. Gerardo O. Vargas Landeros
 El Secretario de Desarrollo Económico
 
 C. Eduardo Ortiz Hernández
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 568 DEL H. CONGRESO DEL ESTADO.- SE REFORMAN DIVERSAS DISPOSICIONES Y SE ADICIONA LA FRACCIÓN XXIII AL ARTÍCULO 2, DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
