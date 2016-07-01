@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-profesiones-para-el-estado-de-guanajuato-48160"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-20"
-last_updated: "2015-12-29"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE PROFESIONES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el martes 20 de diciembre de 2005.
 
@@ -331,7 +331,7 @@ XIX. Aprobar las propuestas que genere el Consejo de Profesionistas del Estado d
 
 XX. Requerir en cualquier tiempo a los colegios de profesionistas que le comprueben el número de socios que lo integran;
 
-XXI. Autorizar el costo del proceso de certificación profesional o sus refrendos, y
+XXI. Autorizar el costo del proceso de certificación profesional o sus refrendos; y
 
 XXII. Las demás que se deriven de esta Ley, de su reglamento y de otras disposiciones jurídicas aplicables, así como aquéllas que le asigne el Gobernador del Estado.
 
@@ -891,6 +891,8 @@ La Secretaría, inscribirá en el libro de registro respectivo la anotación de 
 
 ### CAPÍTULO XIII. DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
 ###### Artículo 67.
 
 Se consideran infracciones por parte de los profesionistas:
@@ -945,17 +947,23 @@ IX. Incumplir con las demás obligaciones establecidas en esta Ley, su reglament
 
 ###### Artículo 70.
 
-Las sanciones con motivo de las infracciones mencionadas en el capítulo anterior consistirán en multa de 5 a 500 veces el salario mínimo general vigente en el Estado, en el caso de profesionistas; y multa por el equivalente de 50 a 3000 veces el salario mínimo general vigente en el Estado de Guanajuato, en la fecha en que se cometa la infracción, respecto de colegios de profesionistas. Multas que se duplicarán en caso de reincidencia.
+Las sanciones con motivo de las infracciones mencionadas en el capítulo anterior consistirán en multa de 5 a 500 veces la Unidad de Medida y Actualización diaria, en el caso de profesionistas; y multa por el equivalente de 50 a 3000 veces la Unidad de Medida y Actualización diaria, en la fecha en que se cometa la infracción, respecto de colegios de profesionistas. Multas que se duplicarán en caso de reincidencia.
 
 ###### Artículo 71.
 
 Se sancionarán con multa, las conductas u omisiones señaladas en el artículo 67, dentro de los parámetros siguientes:
 
-l. De 5 a 170 veces el salario mínimo general vigente en el Estado de Guanajuato en la fecha en que se cometa la infracción, en el caso de las fracciones III, VII, VIII, IX y X;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-II. De 171 a 335 veces el salario mínimo general vigente en el Estado de Guanajuato en la fecha en que se cometa la infracción, en el caso de las fracciones II, IV, V y VI, y.
+I. De 5 a 170 veces la Unidad de Medida y Actualización diaria vigente en la fecha en que se cometa la infracción, en el caso de las fracciones III, VII, VIII, IX y X;
 
-III. De 336 a 500 veces el salario mínimo general vigente en el Estado de Guanajuato en la fecha en que se cometa la infracción, en el caso de la fracción l.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+II. De 171 a 335 veces la Unidad de Medida y Actualización diaria vigente en la fecha en que se cometa la infracción, en el caso de las fracciones II, IV, V y VI, y
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+III. De 336 a 500 veces la Unidad de Medida y Actualización diaria vigente en la fecha en que se cometa la infracción, en el caso de la fracción I.
 
 La Secretaría cumplimentará las resoluciones judiciales relativas a suspensión o inhabilitación para el ejercicio profesional, realizando los registros correspondientes.
 
@@ -963,11 +971,17 @@ La Secretaría cumplimentará las resoluciones judiciales relativas a suspensió
 
 Se sancionarán con multa, las conductas u omisiones señaladas en el artículo 69, dentro de los parámetros siguientes:
 
-I. De 50 a 1,043 veces el salario mínimo general vigente en el Estado de Guanajuato en la fecha en que se cometa la infracción, en el caso de las fracciones I, II y IX;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-II. De 1,044 a 2,037 veces el salario mínimo general vigente en el Estado de Guanajuato en la fecha en que se cometa la infracción, en el caso de las fracciones III, V y VI, y
+l. De 50 a 1,043 veces la Unidad de Medida y Actualización diaria vigente en la fecha en que se cometa la infracción, en el caso de las fracciones I, II y IX;
 
-III. De 2,038 a 3,000 veces el salario mínimo general vigente en el Estado de Guanajuato en la fecha en que se cometa la infracción, en el caso de las fracciones IV, VII, y VIII.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+II. De 1,044 a 2,037 veces la Unidad de Medida y Actualización diaria vigente en la fecha en que se cometa la infracción, en el caso de las fracciones III, V y VI, y
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+III. De 2,038 a 3,000 veces la Unidad de Medida y Actualización diaria vigente en la fecha en que se cometa la infracción, en el caso de las fracciones IV, VII, y VIII.
 
 ###### Artículo 73.
 
@@ -1278,3 +1292,9 @@ Artículo Noveno. De conformidad a lo estipulado en el Reglamento de Entrega Rec
 Término para la adecuación reglamentaria
 
 Artículo Décimo. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de esta reforma, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTO, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN.”]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
