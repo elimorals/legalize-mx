@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "2015-10-02"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE OCTUBRE DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -195,11 +193,11 @@ El tribunal que resuelva la incompetencia declarará de oficio la nulidad.
 
 Competencia por materia.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
 ###### Art. 23.
 
-Los Jueces Menores son competentes para conocer exclusivamente de negocios contenciosos cuya cuantía no sea mayor de la cantidad que resulte de multiplicar por dos mil el salario mínimo diario vigente en el Estado de Guanajuato.
+Los Jueces Menores son competentes para conocer exclusivamente de negocios, contenciosos cuya cuantía no sea mayor de la cantidad que resulte de multiplicar por dos mil la Unidad de Medida y Actualización diaria.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 1999)</small>
 
@@ -511,9 +509,9 @@ Son correcciones disciplinarias:
 
 I.- Apercibimiento;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1988)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-II.- Multa del equivalente de 1 a 15 días del salario mínimo general vigente en el momento y lugar que se cometa la falta que amerite corrección. Si el infractor fuese jornalero, obrero o trabajador, la multa no deberá exceder de un día de salario y tratándose de trabajadores no asalariados, el equivalente a un día de su ingreso;
+II.- Multa del equivalente de 1 a 15 veces la Unidad de Medida y Actualización diaria vigente en el momento y lugar que se cometa la falta que amerite corrección. Si el infractor fuese jornalero, obrero o trabajador, la multa no deberá exceder de una Unidad de Medida y Actualización diaria y tratándose de trabajadores no asalariados, el equivalente a un día de su ingreso.
 
 III.- Suspensión de empleo hasta por quince días.
 
@@ -537,9 +535,9 @@ Por una ocasión, sobre una cuestión concreta, de forma oficiosa o a petición 
 
 Los tribunales, para hacer cumplir sus determinaciones, pueden emplear cualesquiera de los siguientes medios de apremio:
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1988)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-I.- Multa del equivalente de 1 a 30 días de salario mínimo general vigente en el momento y lugar en que se realizó la conducta que motivo el medio de apremio. Si el infractor fuese jornalero, obrero o trabajador, la multa no deberá exceder de un día de salario y tratándose de trabajadores no asalariados, el equivalente a un día de su ingreso.
+I.- Multa del equivalente de 1 a 30 veces la Unidad de Medida y Actualización diaria vigente en el momento y lugar en que se realizó la conducta que motivo el medio de apremio. Si el infractor fuese jornalero, obrero o trabajador, la multa no deberá exceder de una Unidad de Medida y Actualización diaria y tratándose de trabajadores no asalariados, el equivalente a un día de su ingreso.
 
 II.- El auxilio de la fuerza pública.
 
@@ -2051,9 +2049,9 @@ II.- Ciento veinte días naturales si el lugar está comprendido fuera del terri
 
 Los términos anteriores podrá ampliarlos prudentemente el juez, cuando la parte interesada justifique la necesidad de la ampliación.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
-A quien pida y obtenga la apertura de un término extraordinario y no justifique debidamente la no realización del acto procesal para el que se concedió tal término, se le impondrá una multa que irá de uno hasta trescientos días de salario mínimo general diario vigente en el Estado.
+A quien pida y obtenga la apertura de un término extraordinario y no justifique debidamente la no realización del acto procesal para el que se concedió tal término, se le impondrá una multa que irá de una hasta trescientas veces la Unidad de Medida y Actualización diaria.
 
 ###### Art. 300.
 
@@ -2549,6 +2547,10 @@ III.- Las consentidas expresamente por las partes, sus representantes legítimos
 
 En los casos de las fracciones primera y tercera del artículo anterior, las sentencias causan ejecutoria por ministerio de la ley; en los casos de la fracción II se requiere declaración judicial, la que será hecha, a petición de parte. La declaración se hará por el tribunal de apelación, en la resolución que declare desierto el recurso. Si la sentencia no fuere recurrida, previa certificación de esta circunstancia por la secretaría, la declaración la hará el juez que la haya pronunciado, y, en caso de desistimiento, será hecha por el tribunal ante el que éste se haya hecho valer.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2016)</small>
+
+En las sentencias que resuelvan cuestiones en materia familiar, si no fueren recurridas por las partes, el Juez oficiosamente hará la declaración de ejecutoriedad, previa certificación por la secretaría del tribunal, de que habiendo transcurrido el plazo a las partes para recurrir la sentencia, no se interpuso recurso alguno.
+
 La declaración de que una sentencia ha causado ejecutoria no admite ningún recurso.
 
 ## TITULO SEGUNDO.
@@ -2813,7 +2815,9 @@ Si la medida se refiere a alimentos provisionales, bastará que el acreedor alim
 
 El juez despachará sin más trámite la medida precautoria, fijando en la resolución que la ordene la cantidad que periódicamente deba ministrarse y ordenará que se otorgue la correspondiente garantía de que se ministrarán, requiriéndose al deudor alimentario del pago inmediato de la pensión provisional y, en caso de no otorgarse, que se le embarguen bienes suficientes de su propiedad para garantizarlos.
 
-Cuando se trate de un asalariado, el juez podrá fijar la pensión provisional de manera proporcional a los ingresos que recibe el deudor alimentario. Si trabaja por su cuenta o tiene un negocio propio y no se tiene información de sus ingresos, por lo menos otorgará un salario mínimo correspondiente a la actividad del deudor.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
+Cuando se trate de un asalariado, el juez podrá fijar la pensión provisional de manera proporcional a los ingresos que recibe el deudor alimentario. Si trabaja por su cuenta o tiene un negocio propio y no se tiene información de sus ingresos, por lo menos otorgará una Unidad de Medida y Actualización diaria, correspondiente a la actividad del deudor.
 
 La medida se notificará de inmediato a la persona física o moral de quien reciba ingresos el deudor alimentario, ordenándole para que se haga entrega de la pensión provisional al que exige alimentos.
 
@@ -5999,7 +6003,9 @@ Cuando el oferente manifieste su imposibilidad por sí mismo de hacer que se pre
 
 Los testigos serán citados por lo menos con tres días de anticipación al día en que deban declarar, apercibiéndoles que en caso de no acudir se hará uso de la fuerza pública para hacerles comparecer.
 
-Si no se lograre la comparecencia del testigo se declarará desierto el desahogo de su testimonio. La misma declaración procederá en caso de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, imponiéndose al oferente una multa de uno a treinta días de salario mínimo general vigente en el Estado.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
+Si no se lograre la comparecencia del testigo se declarará desierto el desahogo de su testimonio. La misma declaración procederá en caso de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, imponiéndose al oferente una multa de una a treinta veces la Unidad de Medida y Actualización diaria.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7578,3 +7584,15 @@ Artículo Octavo. Las organizaciones de asistencia social que realicen cualquier
 Designación de representantes de la sociedad civil ante el Sistema
 
 Artículo Noveno. Por única ocasión el Gobernador del Estado designará en forma directa a los representantes de la sociedad civil ante el Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes previstos en la fracción XIII del artículo 91.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 97, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 366, RECORRIÉNDOSE EL ACTUAL PÁRRAFO SEGUNDO COMO TERCERO, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
