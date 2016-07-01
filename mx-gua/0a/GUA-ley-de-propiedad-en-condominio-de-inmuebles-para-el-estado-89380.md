@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-propiedad-en-condominio-de-inmuebles-para-el-estado-8938
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-11"
-last_updated: "2012-09-11"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89380&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre del 2012.
 
@@ -1121,15 +1121,25 @@ Sanción de multa
 
 La unidad administrativa municipal podrá sancionar a los condóminos, poseedores, administradores o integrantes del Comité de Vigilancia que incumplan con las obligaciones previstas en esta Ley, la escritura constitutiva del régimen, el reglamento interno o el reglamento municipal correspondiente, con multa:
 
-I. De uno a diez días de salario mínimo vigente en el Estado, cuando se hubieren dañado los bienes, servicios o áreas de uso común por un mal uso o negligencia. Esta sanción se aplicará con independencia de la obligación del pago del daño o restablecimiento del mismo;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-II. De quince a treinta días de salario mínimo vigente en el Estado, cuando incumplan con las prohibiciones señaladas en las fracciones II y III del artículo 20, así como con la obligación establecida en el artículo 54 de esta Ley;
+I. De uno a diez veces la Unidad de Medida y Actualización diaria, cuando se hubieren dañado los bienes, servicios o áreas de uso común por un mal uso o negligencia. Esta sanción se aplicará con independencia de la obligación del pago del daño o restablecimiento del mismo;
 
-III. De veinte a treinta días de salario mínimo vigente en el Estado, por la inobservancia de los (sic) establecido en las fracciones V, VIII, IX y X del artículo 20 de esta Ley;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-IV. De veinte a cuarenta días de salario mínimo vigente en el Estado, cuando contravengan lo dispuesto en la fracción IV del artículo 20 y en el artículo 22 de esta Ley; y
+II. De quince a treinta veces la Unidad de Medida y Actualización diaria, cuando incumplan con las prohibiciones señaladas en las fracciones II y III del artículo 20, así como con la obligación establecida en el artículo 54 de esta Ley;
 
-V. De cincuenta a trescientos días de salario mínimo vigente en el Estado, cuando se transgreda lo estipulado en las fracciones I, VI y VII del artículo 20 de esta Ley.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+III. De veinte a treinta veces la Unidad de Medida y Actualización diaria, por la inobservancia de los (sic) establecido en las fracciones V, VIII, IX y X del artículo 20 de esta Ley;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+IV. De veinte a cuarenta veces la Unidad de Medida y Actualización diaria, cuando contravengan lo dispuesto en la fracción IV del artículo 20 y en el artículo 22 de esta Ley; y
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+V. De cincuenta a trescientas veces la Unidad de Medida y Actualización diaria, cuando se transgreda lo estipulado en las fracciones I, VI y VII del artículo 20 de esta Ley.
 
 Para la aplicación de las sanciones establecidas en este artículo, la unidad administrativa municipal considerará la gravedad de la falta cometida, la magnitud de la afectación causada y la capacidad económica del infractor.
 
@@ -1234,3 +1244,11 @@ HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
 EL SECRETARIO DE GOBIERNO
 
 ROMÁN CIFUENTES NEGRETE
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
