@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-proceso-penal-para-el-estado-de-guanajuato-76480"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-03"
-last_updated: "2016-05-20"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO Y TRANSITORIO TERCERO DEL DECRETO NÚMERO 192, PUBLICADO EN EL P.O. DE 25 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO SE INCORPORA AL RÉGIMEN JURÍDICO DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES QUE ENTRARÁ EN VIGOR DE MANERA INTEGRAL EN EL ESTADO DE GUANAJUATO, A PARTIR DEL DÍA 1 DE JUNIO DE 2016, Y SEGUIRÁ RIGIENDO PARA LOS ACTOS COMETIDOS Y LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA VIGENCIA DEL CITADO CÓDIGO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 3 de septiembre de 2010.
 
@@ -349,9 +349,11 @@ Cuando las circunstancias del caso ameriten adoptar medidas especiales para aseg
 
 Medidas disciplinarias
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
+
 ###### Artículo 33.
 
-Cuando se compruebe que las partes o sus representantes han actuado con temeridad, evidente mala fe, han realizado gestiones asumiendo actitudes dilatorias o cometido falta grave, sin perjuicio de otro tipo de responsabilidades, el tribunal podrá apercibirlas y en caso de persistencia, podrá imponer una multa de hasta doscientos días de salario mínimo general diario vigente en el Estado.
+Cuando se compruebe que las partes o sus representantes han actuado con temeridad, evidente mala fe, han realizado gestiones asumiendo actitudes dilatorias o cometido falta grave, sin perjuicio de otro tipo de responsabilidades, el tribunal podrá apercibirlas y en caso de persistencia, podrá imponer una multa de hasta doscientas veces la Unidad de Medida y Actualización diaria.
 
 Cuando el tribunal estime que existe la posibilidad de imponer multa, dará traslado al presunto infractor, a efecto de que se manifieste sobre la falta y ofrezca los medios de prueba de descargo, que se recibirán y desahogarán de inmediato. Si el hecho ocurre en audiencia, el procedimiento se realizará en ella.
 
@@ -441,7 +443,9 @@ I. Para el cumplimiento de sus determinaciones, podrá utilizar los siguientes m
 
 a) Apercibimiento;
 
-b) Multa de uno a doscientos días de salario mínimo general diario vigente en el Estado; o
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
+b) Multa de uno a doscientas veces la Unidad de Medida y Actualización diaria; o
 
 c) Uso de la fuerza pública.
 
@@ -451,7 +455,9 @@ II. Son medidas disciplinarias las siguientes:
 
 a) Apercibimiento;
 
-b) Multa de uno a doscientos días de salario mínimo general diario vigente en el Estado;
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
+b) Multa de uno a doscientas veces la Unidad de Medida y Actualización diaria;
 
 c) Uso de la fuerza pública; o
 
@@ -901,7 +907,9 @@ I. Para el cumplimiento de sus determinaciones, podrá utilizar los siguientes m
 
 a) Apercibimiento;
 
-b) Multa de uno a doscientos días de salario mínimo general diario vigente en el Estado; o
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
+b) Multa de uno a doscientas veces la Unidad de Medida y Actualización diaria; o
 
 c) Uso de la fuerza pública.
 
@@ -911,7 +919,9 @@ II. Son medidas disciplinarias las siguientes:
 
 a) Apercibimiento;
 
-b) Multa de uno a doscientos días de salario mínimo general diario vigente en el Estado;
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
+b) Multa de uno a doscientas veces la Unidad de Medida y Actualización diaria;
 
 c) Uso de la fuerza pública; o
 
@@ -2291,9 +2301,11 @@ No procederá la indemnización cuando la sentencia condenatoria sobre la que ab
 
 Bases para el cálculo de la indemnización
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
+
 ###### Artículo 207.
 
-La indemnización se calculará con base en el promedio diario de los ingresos percibidos por el sentenciado durante el mes anterior a la privación injustificada de su libertad o al indebido internamiento o inhabilitación, pero esa base diaria no podrá exceder de veinte salarios mínimos generales vigente en el Estado al momento en que haya iniciado la medida injustamente padecida, con los incrementos que haya habido durante el periodo correspondiente. Cuando se desconozca el promedio diario de ingresos, la base para el cálculo será el salario mínimo general diario vigente en el Estado en el momento en que se inició la injusta privación de libertad o inhabilitación, tomando en cuenta también sus incrementos.
+La indemnización se calculará con base en el promedio diario de los ingresos percibidos por el sentenciado durante el mes anterior a la privación injustificada de su libertad o al indebido internamiento o inhabilitación, pero esa base diaria no podrá exceder de veinte veces la Unidad de Medida y Actualización diaria vigente al momento en que haya iniciado la medida injustamente padecida, con los incrementos que haya habido durante el periodo correspondiente. Cuando se desconozca el promedio diario de ingresos, la base para el cálculo será una Unidad de Medida y Actualización diaria vigente en el momento en que se inició la injusta privación de libertad o inhabilitación, tomando en cuenta también sus incrementos.
 
 Para los efectos de la determinación de la indemnización, se computará el tiempo que, el que tiene derecho a la indemnización, haya sido sujeto a una medida restrictiva o privativa de la libertad.
 
@@ -5870,3 +5882,9 @@ P.O. 20 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 92, DE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO Y DE LA LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
