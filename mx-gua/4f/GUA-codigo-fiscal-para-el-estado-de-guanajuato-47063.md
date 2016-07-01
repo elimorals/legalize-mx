@@ -4,7 +4,7 @@ identifier: "GUA-codigo-fiscal-para-el-estado-de-guanajuato-47063"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-11-25"
-last_updated: "2014-05-23"
+last_updated: "2016-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO FISCAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Código publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 25 de noviembre de 2005.
 
@@ -1133,11 +1133,13 @@ La solicitud dará lugar a la suspensión del procedimiento administrativo de ej
 
 Sólo procederá la condonación de multas que hayan quedado firmes y siempre que un acto administrativo conexo no sea materia de impugnación.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 89.
 
-Las multas aplicables a las infracciones señaladas en este código, se determinarán, según corresponda, en porcentajes de las contribuciones omitidas o en montos determinables entre uno mínimo y otro máximo por su equivalencia al salario mínimo general diario vigente en el área geográfica a la que corresponde el estado de Guanajuato, al momento de la comisión de la infracción.
+Las multas aplicables a las infracciones señaladas en este Código, se determinarán, según corresponda, en porcentajes de las contribuciones omitidas o en montos determinables entre uno mínimo y otro máximo por su equivalencia a la Unidad de Medida y Actualización diaria vigente al momento de la comisión de la infracción.
 
-En caso de infracciones continuas, la equivalencia será con el salario mínimo general diario vigente al momento que la conducta sea descubierta por las autoridades fiscales o hayan cesado sus efectos.
+En caso de infracciones continuas, la equivalencia será con la Unidad de Medida y Actualización diariavigente (sic) al momento que la conducta sea descubierta por las autoridades fiscales o hayan cesado sus efectos.
 
 ###### ARTÍCULO 90.
 
@@ -1277,19 +1279,33 @@ Los servidores públicos, que en ejercicio de sus funciones, conozcan de hechos 
 
 Son infracciones relacionadas con el Registro Estatal de Contribuyentes las que a continuación se indican, y les corresponderá la sanción que en cada caso se señala:
 
-I. No solicitar la inscripción cuando se está obligado a ello o hacerlo fuera de los plazos legales, salvo cuando la solicitud se presente de manera espontánea. Se excluye de responsabilidad por la comisión de esta infracción a las personas cuya solicitud de inscripción debe ser legalmente efectuada por otra, inclusive cuando dichas personas queden subsidiariamente obligadas a solicitar su inscripción: Multa de 25 hasta 250 veces el salario mínimo general diario;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-II. No incluir en las manifestaciones para su inscripción todas las actividades por las que sea contribuyente habitual: Multa de 25 hasta 250 veces el salario mínimo general diario;
+I. No solicitar la inscripción cuando se está obligado a ello o hacerlo fuera de los plazos legales, salvo cuando la solicitud se presente de manera espontánea. Se excluye de responsabilidad por la comisión de esta infracción a las personas cuya solicitud de inscripción debe ser legalmente efectuada por otra, inclusive cuando dichas personas queden subsidiariamente obligadas a solicitar su inscripción: Multa de 25 hasta 250 veces la Unidad de Medida y Actualización diaria;
 
-III. Obtener más de un número de registro para el cumplimiento de sus obligaciones: Multa de 25 hasta 250 veces el salario mínimo general diario;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-IV. No presentar solicitud de inscripción a nombre de un tercero cuando legalmente se esté obligado a ello o hacerlo extemporáneamente, salvo cuando la solicitud se presente espontáneamente: Multa de 25 hasta 250 veces el salario mínimo general diario;
+II. No incluir en las manifestaciones para su inscripción todas las actividades por las que sea contribuyente habitual: Multa de 25 hasta 250 veces la Unidad de Medida y Actualización diaria;
 
-V. No presentar los avisos al registro o hacerlo extemporáneamente, salvo cuando la presentación sea espontánea: Multa de 25 hasta 250 veces el salario mínimo general diario;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-VI. No citar la clave del registro o utilizar alguna no asignada por la autoridad fiscal, en las declaraciones, avisos, solicitudes, promociones y demás documentos que se presenten ante las autoridades fiscales y jurisdiccionales, cuando se esté obligado conforme a la ley: Multa de 25 hasta 250 veces el salario mínimo general diario, y
+III. Obtener más de un número de registro para el cumplimiento de sus obligaciones: Multa de 25 hasta 250 veces la Unidad de Medida y Actualización diaria;
 
-VII. Señalar como domicilio fiscal para efectos del registro estatal de contribuyentes, un lugar distinto del que corresponda conforme a este código: Multa de 25 hasta 250 veces el salario mínimo general diario.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+IV. No presentar solicitud de inscripción a nombre de un tercero cuando legalmente se esté obligado a ello o hacerlo extemporáneamente, salvo cuando la solicitud se presente espontáneamente: Multa de 25 hasta 250 veces la Unidad de Medida y Actualización diaria;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+V. No presentar los avisos al registro o hacerlo extemporáneamente, salvo cuando la presentación sea espontánea: Multa de 25 hasta 250 veces la Unidad de Medida y Actualización diaria;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+VI. No citar la clave del registro o utilizar alguna no asignada por la autoridad fiscal, en las declaraciones, avisos, solicitudes, promociones y demás documentos que se presenten ante las autoridades fiscales y jurisdiccionales, cuando se esté obligado conforme a la Ley: Multa de 25 hasta 250 veces la Unidad de Medida y Actualización diaria, y
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+VII. Señalar como domicilio fiscal para efectos del registro estatal de contribuyentes, un lugar distinto del que corresponda conforme a este Código: Multa de 25 hasta 250 veces la Unidad de Medida y Actualización diaria.
 
 ### Capítulo Tercero. De las Infracciones y Sanciones Relacionadas con la Obligación de Presentar Declaraciones, Solicitudes, Avisos, Informaciones o Expedir Constancias
 
@@ -1297,23 +1313,41 @@ VII. Señalar como domicilio fiscal para efectos del registro estatal de contrib
 
 Son infracciones relacionadas con la presentación de declaraciones, solicitudes, avisos, informaciones o expedir constancias, las que a continuación se indican y les corresponderá la sanción que en cada caso se señala:
 
-I. No presentar las declaraciones, las solicitudes, los avisos o las constancias que exijan las disposiciones fiscales o presentarlos a requerimiento de las autoridades fiscales. No cumplir los requerimientos de las autoridades fiscales para presentar alguno de los documentos a que se refiere esta fracción, o cumplirlos fuera de los plazos señalados en los mismos: Multa de 25 hasta 250 veces el salario mínimo general diario;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-II. Presentar las declaraciones, las solicitudes, los avisos, o expedir constancias, incompletos, con errores o en forma distinta a lo señalado por las disposiciones fiscales. Lo anterior no será aplicable tratándose de la presentación de la solicitud de inscripción al registro estatal de contribuyentes: Multa de 25 hasta 250 veces el salario mínimo general diario;
+I. No presentar las declaraciones, las solicitudes, los avisos o las constancias que exijan las disposiciones fiscales o presentarlos a requerimiento de las autoridades fiscales. No cumplir los requerimientos de las autoridades fiscales para presentar alguno de los documentos a que se refiere esta fracción, o cumplirlos fuera de los plazos señalados en los mismos: Multa de 25 hasta 250 veces la Unidad de Medida y Actualización diaria;
 
-III. Presentar declaraciones, solicitudes, avisos, datos, informes y documentos a que se refieren las dos fracciones anteriores, alterados o falsificados: Multa de 25 hasta 250 veces el salario mínimo general diario;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-IV. Usar más de un número de registro para el cumplimiento de sus obligaciones: Multa de 25 hasta 250 veces el salario mínimo general diario;
+II. Presentar las declaraciones, las solicitudes, los avisos, o expedir constancias, incompletos, con errores o en forma distinta a lo señalado por las disposiciones fiscales. Lo anterior no será aplicable tratándose de la presentación de la solicitud de inscripción al registro estatal de contribuyentes: Multa de 25 hasta 250 veces la Unidad de Medida y Actualización diaria;
 
-V. Presentar solicitudes que sin derecho den lugar a una devolución o compensación: Multa de 25 hasta 250 veces el salario mínimo general diario;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-VI. Declarar ingresos menores a los percibidos: Multa de 25 hasta 250 veces el salario mínimo general diario;
+III. Presentar declaraciones, solicitudes, avisos, datos, informes y documentos a que se refieren las dos fracciones anteriores, alterados o falsificados: Multa de 25 hasta 250 veces la Unidad de Medida y Actualización diaria;
 
-VII. Omitir la presentación de anexos en las declaraciones y avisos fiscales: Multa de 25 hasta 250 veces el salario mínimo general diario;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-VIII. No presentar la información, manifestando las razones por las cuales no se determina impuesto a pagar o saldo a favor, por alguna de las obligaciones que los contribuyentes deban cumplir de conformidad con lo dispuesto por el artículo 59 de este código: Multa de 25 hasta 250 veces el salario mínimo general diario, y
+IV. Usar más de un número de registro para el cumplimiento de sus obligaciones: Multa de 25 hasta 250 veces la Unidad de Medida y Actualización diaria;
 
-IX. No proporcionar la información relativa a los clientes que soliciten la impresión de comprobantes fiscales en términos del artículo 58 de este código, dentro del plazo que establecen las disposiciones fiscales o presentarla incompleta o con errores: Multa de 25 hasta 250 veces el salario mínimo general diario.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+V. Presentar solicitudes que sin derecho den lugar a una devolución o compensación: Multa de 25 hasta 250 veces la Unidad de Medido y Actualización diario;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+VI. Declarar ingresos menores a los percibidos: Multa de 25 hasta 250 veces la Unidad de Medida y Actualización diaria;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+VII. Omitir la presentación de anexos en las declaraciones y avisos fiscales: Multa de 25 hasta 250 veces la Unidad de Medida y Actualización diaria;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+VIII. No presentar la información, manifestando las razones por las cuales no se determina impuesto a pagar o saldo a favor, por alguna de las obligaciones que los contribuyentes deban cumplir de conformidad con lo dispuesto por el artículo 59 de este Código: Multa de 25 hasta 250 veces la Unidad de Medida y Actualización diaria, y
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+IX. No proporcionar la información relativa a los clientes que soliciten la impresión de comprobantes fiscales en términos del artículo 58 de este Código, dentro del plazo que establecen las disposiciones fiscales o presentarla incompleta o con errores: Multa de 25 hasta 250 veces la Unidad de Medida y Actualización diaria.
 
 ### Capítulo Cuarto. De las Infracciones y Sanciones Relacionadas con la Obligación del Pago de las Contribuciones
 
@@ -1321,11 +1355,17 @@ IX. No proporcionar la información relativa a los clientes que soliciten la imp
 
 Son infracciones relacionadas con la obligación del pago de las contribuciones, las que a continuación se indican y les corresponderá la sanción que en cada caso se señala:
 
-I. No pagar en forma total o parcial las contribuciones en los plazos señalados por las leyes fiscales: Multa de 25 hasta 250 veces el salario mínimo general diario;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-II. No efectuar en los términos de las disposiciones fiscales los pagos provisionales de una contribución: Multa de 25 hasta 250 veces el salario mínimo general diario, y
+I. No pagar en forma total o parcial las contribuciones en los plazos señalados por las leyes fiscales: Multa de 25 hasta 250 veces la Unidad de Medida y Actualización diaria;
 
-III. Incumplir el pago de las obligaciones fiscales, como consecuencia de inexactitudes, simulaciones, falsificaciones y otras maniobras o beneficiarse de un estímulo fiscal, sin tener derecho a ello: Multa de 150 hasta 500 veces el salario mínimo general diario.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+II. No efectuar en los términos de las disposiciones fiscales los pagos provisionales de una contribución: Multa de 25 hasta 250 veces la Unidad de Medida y Actualización diaria, y
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+III. Incumplir el pago de las obligaciones fiscales, como consecuencia de inexactitudes, simulaciones, falsificaciones y otras maniobras o beneficiarse de un estímulo fiscal, sin tener derecho a ello: Multa de 150 hasta 500 veces la Unidad de Medida y Actualización diaria.
 
 ### Capítulo Quinto. De las Infracciones y Sanciones Relacionadas con la Obligación de Llevar Contabilidad
 
@@ -1333,23 +1373,41 @@ III. Incumplir el pago de las obligaciones fiscales, como consecuencia de inexac
 
 Son infracciones relacionadas con la obligación de llevar contabilidad, las que a continuación se indican, y les corresponderá la sanción que en cada caso se señala:
 
-I. No llevar contabilidad en los términos que requieran las disposiciones fiscales, llevarla en forma distinta o en lugares distintos a los señalados en dichas disposiciones: Multa de 25 hasta 250 veces el salario mínimo general diario;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-II. No llevar algún libro o registro especial a que obliguen las disposiciones fiscales; no hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos, inexactos o fuera de los plazos respectivos: Multa de 25 hasta 250 veces el salario mínimo general diario;
+I. No llevar contabilidad en los términos que requieran las disposiciones fiscales, llevarla en forma distinta o en lugares distintos a los señalados en dichas disposiciones: Multa de 25 hasta 250 veces la Unidad de Medida y Actualización diaria;
 
-III. Llevar doble juego de libros sociales con distinto contenido: Multa de 25 hasta 250 veces el salario mínimo general diario;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-IV. Destruir, inutilizar o no conservar los libros, archivos y documentación comprobatoria, por el plazo que establezcan las disposiciones fiscales: Multa de 50 hasta 500 veces el salario mínimo general diario;
+II. No llevar algún libro o registro especial a que obliguen las disposiciones fiscales; no hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos, inexactos o fuera de los plazos respectivos: Multa de 25 hasta 250 veces la Unidad de Medida y Actualización diaria;
 
-V. Hacer, mandar hacer o permitir en su contabilidad anotaciones, asientos, cuentas, nombres, cantidades o datos falsos; alterar, raspar o tachar en perjuicio del fisco cualquier anotación o constancia hecha en la contabilidad, o mandar hacer o permitir que se hagan alteraciones, raspaduras o tachaduras: Multa de hasta un tanto del importe de la contribución omitida. En caso de que no pueda precisarse el monto de dicha contribución, la multa será de 25 hasta 250 veces el salario mínimo general diario;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-VI. No expedir o no entregar comprobante de sus actividades, cuando las disposiciones fiscales lo establezcan, o expedirlos sin requisitos fiscales: Multa de 25 hasta 250 veces el salario mínimo general diario;
+III. Llevar doble juego de libros sociales con distinto contenido: Multa de 25 hasta 250 veces la Unidad de Medida y Actualización diaria;
 
-VII. Expedir comprobantes fiscales asentando nombre, denominación, razón social o domicilio de persona distinta a la que adquiere el bien, contrate el uso o goce temporal de bienes o el uso de servicios: Multa de 25 hasta 250 veces el salario mínimo general diario;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-VIII. No tener en operación o no registrar el valor de los actos o actividades con el público en general en las máquinas registradoras de comprobación fiscal, o en los equipos y sistemas electrónicos de registro fiscal autorizados por las autoridades fiscales, cuando se esté obligado a ello en los términos de las disposiciones fiscales: Multa de 25 hasta 250 veces el salario mínimo general diario, y
+IV. Destruir, inutilizar o no conservar los libros, archivos y documentación comprobatoria, por el plazo que establezcan las disposiciones fiscales: Multa de 50 hasta 500 veces la Unidad de Medida y Actualización diaria;
 
-IX. Microfilmar o grabar en discos ópticos o en cualquier otro medio que autorice la Secretaria de Hacienda y Crédito Público mediante disposiciones de carácter general, documentación o información para efectos fiscales sin cumplir con los requisitos que establecen las disposiciones relativas: Multa de 25 hasta 250 veces el salario mínimo general diario.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+V. Hacer, mandar hacer o permitir en su contabilidad anotaciones, asientos, cuentas, nombres, cantidades o datos falsos; alterar, raspar o tachar en perjuicio del fisco cualquier anotación o constancia hecha en la contabilidad, o mandar hacer o permitir que se hagan alteraciones, raspaduras o tachaduras: Multa de hasta un tanto del importe de la contribución omitida. En caso de que no pueda precisarse el monto de dicha contribución, la multa será de 25 hasta 250 veces la Unidad de Medida y Actualización diaria;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+VI. No expedir o no entregar comprobante de sus actividades, cuando las disposiciones fiscales lo establezcan, o expedirlos sin requisitos fiscales: Multa de 25 hasta 250 veces la Unidad de Medida y Actualización diaria;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+VII. Expedir comprobantes fiscales asentando nombre, denominación, razón social o domicilio de persona distinta a la que adquiere el bien, contrate el uso o goce temporal de bienes o el uso de servicios: Multa de 25 hasta 250 veces la Unidad de Medida y Actualización diaria:
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+VIII. No tener en operación o no registrar el valor de los actos o actividades con el público en general en las máquinas registradoras de comprobación fiscal, o en los equipos y sistemas electrónicos de registro fiscal autorizados por las autoridades fiscales, cuando se esté obligado a ello en los términos de las disposiciones fiscales: Multa de 25 hasta 250 veces la Unidad de Medida y Actualización diaria, y
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+IX. Microfilmar o grabar en discos ópticos o en cualquier otro medio que autorice la Secretaria de Hacienda y Crédito Público mediante disposiciones de carácter general, documentación o información para efectos fiscales sin cumplir con ·los requisitos que establecen las disposiciones relativas: Multa de 25 hasta 250 veces la Unidad de Medida y Actualización diaria.
 
 ### Capítulo Sexto. De las Infracciones y Sanciones Relacionadas con el Ejercicio de las Facultades de Comprobación
 
@@ -1357,19 +1415,33 @@ IX. Microfilmar o grabar en discos ópticos o en cualquier otro medio que autori
 
 Son infracciones relacionadas con el ejercicio de la facultad de comprobación, las que a continuación se indican, y les corresponderá la sanción que en cada caso se señala:
 
-I. Oponerse u obstaculizar la iniciación o desarrollo de las visitas de inspección y auditorías: Multa de 50 hasta 500 veces el salario mínimo general diario;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-II. No suministrar los datos e informes que legalmente exijan las autoridades fiscales: Multa de 50 hasta 500 veces el salario mínimo general diario;
+I. Oponerse u obstaculizar la iniciación o desarrollo de las visitas de inspección y auditorías: Multa de 50 hasta 500 veces la Unidad de Medida y Actualización diaria;
 
-III. No proporcionar la contabilidad o parte de ella, y en general, los elementos que se requieran para comprobar el cumplimiento de obligaciones propias o de terceros: Multa de 50 hasta 500 veces el salario mínimo general diario;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-IV. No conservar la contabilidad o parte de ella, así como la correspondencia que los visitadores les dejen en depósito: Multa de 125 hasta 620 veces el salario mínimo general diario;
+II. No suministrar los datos e informes que legalmente exijan las autoridades fiscales: Multa de 50 hasta 500 veces la Unidad de Medida y Actualización diaria;
 
-V. No suministrar los datos e informes sobre clientes y proveedores que legalmente exijan las autoridades fiscales o no los relacionen con la clave que les corresponda, cuando así lo soliciten dichas autoridades: Multa de 50 hasta 500 veces el salario mínimo general diario;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-VI. Divulgar o hacer uso personal o indebido de la información confidencial proporcionada por terceros independientes que afecte su posición competitiva a que se refiere el artículo 75, fracción IV de este código: Multa de 125 hasta 620 veces el salario mínimo general diario, y
+III. No proporcionar la contabilidad o parte de ella, y en general, los elementos que se requieran para comprobar el cumplimiento de obligaciones propias o de terceros: Multa de 50 hasta 500 veces la Unidad de Medida y Actualización diaria;
 
-VII. Declarar falsamente que cumplen los requisitos que se señalan en el artículo 96 de este código: Multa de 125 hasta 620 veces el salario mínimo general diario.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+IV. No conservar la contabilidad o parte de ella, así como la correspondencia que los visitadores les dejen en depósito: Multa de 125 hasta 620 veces la Unidad de Medida y Actualización diaria;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+V. No suministrar los datos e informes sobre clientes y proveedores que legalmente exijan las autoridades fiscales o no los relacionen con la clave que les corresponda, cuando así lo soliciten dichas autoridades: Multa de 50 hasta 500 veces la Unidad de Medida y Actualización diaria;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+VI. Divulgar o hacer uso personal o indebido de la información confidencial proporcionada por terceros independientes que afecte su posición competitiva a que se refiere el artículo 75, fracción IV de este Código: Multa de 125 hasta 620 veces la Unidad de Medida y Actualización diaria, y
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+VII. Declarar falsamente que cumplen los requisitos que se señalan en el artículo 96 de este Código: Multa de 125 hasta 620 veces la Unidad de Medida y Actualización diaria.
 
 ### Capítulo Séptimo. De las Infracciones y Sanciones cuya Responsabilidad Recae sobre Terceros
 
@@ -1377,31 +1449,57 @@ VII. Declarar falsamente que cumplen los requisitos que se señalan en el artíc
 
 Son infracciones cuya responsabilidad corresponde a terceros, las que a continuación se indican y a cada uno corresponderá la sanción que en cada caso se señala:
 
-I. No proporcionar avisos, informes, datos y documentos, o no exhibirlos en el plazo fijado por las disposiciones fiscales o no aclararlos cuando las autoridades lo soliciten: Multa de 25 hasta 250 veces el salario mínimo general diario;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-II. Presentar avisos, informes, datos y documentos referidos en la fracción anterior, incompletos o inexactos: Multa de 25 hasta 250 veces el salario mínimo general diario;
+I. No proporcionar avisos, informes, datos y documentos, o no exhibirlos en el plazo fijado por las disposiciones fiscales o no aclararlos cuando las autoridades lo soliciten: Multa de 25 hasta 250 veces la Unidad de Medida y Actualización diaria;
 
-III. Proporcionar avisos, informes, datos y documentos a que se refieren las fracciones anteriores, alterados o falsificados: Multa de 50 hasta 500 veces el salario mínimo general diario;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-IV. Autorizar o hacer constar documentos, inventarios, estados financieros, asientos o datos falsos, cuando actúen como contadores, comisarios, peritos o testigos: Multa de 125 hasta 620 veces el salario mínimo general diario;
+II. Presentar avisos, informes, datos y documentos referidos en la fracción anterior, incompletos o inexcctos (sic): Multa de 25 hasta 250 veces la Unidad de Medida y Actualización diaria;
 
-V. Asesorar o aconsejar a los contribuyentes para omitir el pago de una contribución, o para infringir las disposiciones fiscales; contribuir a la alteración, inscripción de cuentas, asientos o datos falsos en los libros de contabilidad o en los documentos que se exhiban, o en algún hecho preparatorio de los apuntados, cuando así se acredite: Multa de 50 hasta 500 veces el salario mínimo general diario;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-VI. No prestar a las autoridades fiscales el auxilio necesario para la determinación y cobro de una prestación fiscal, en los casos en que tengan obligación de hacerlo, de acuerdo con las disposiciones fiscales: Multa de 25 hasta 500 veces el salario mínimo general diario;
+III. Proporcionar avisos, informes, datos y documentos a que se refieren las fracciones anteriores, alterados o falsificados: Multa de 50 hasta 500 veces la Unidad de Medida y Actualización diaria;
 
-VII. Alterar o destruir sellos oficiales: Multa de 50 hasta 500 veces el salario mínimo general diario;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-VIII. Oponerse u obstaculizar el inicio o desarrollo de las visitas domiciliarias: Multa de 50 hasta 500 veces el salario mínimo general diario;
+IV. Autorizar o hacer constar documentos, inventarios, estados financieros, asientos o datos falsos, cuando actúen como contadores, comisarios, peritos o testigos: Multa de 125 hasta 620 veces la Unidad de Medida y Actualización diaria;
 
-IX. Asesorar o aconsejar a los contribuyentes para omitir el pago de una contribución, colaborar a la alteración, inscripción de cuentas, asientos o datos falsos en la contabilidad o en los documentos que se expidan, cuando así se acredite: Multa de 50 hasta 500 veces el salario mínimo general diario;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-X. Participar, auxiliar o coadyuvar en cualquier forma no prevista, en la comisión de infracciones fiscales: Multa de 50 hasta 500 veces el salario mínimo general diario;
+V. Asesorar o aconsejar a los contribuyentes para omitir el pago de una contribución, o para infringir las disposiciones fiscales; contribuir a la alteración, inscripción de cuentas, asientos o datos falsos, en los libros de contabilidad o en los documentos que se exhiban, o en algún hecho preparatorio de los apuntados, cuando así se acredite: Multa de 50 hasta 500 veces la Unidad de Medida y Actualización diaria;
 
-XI. No destinar al pago de contribuciones las cantidades ministradas por los contribuyentes para ese efecto, cuando exista la obligación para ello: Multa de 125 hasta 620 veces el salario mínimo general diario;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-XII. Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso ilegal de ellos: Multa de 125 hasta 620 veces el salario mínimo general diario, y
+VI. No prestar a las autoridades fiscales el auxilio necesario para la determinación y cobro de una prestación fiscal, en los casos en que tengan obligación de hacerlo, de acuerdo con las disposiciones fiscales: Multa de 25 hasta 500 veces la Unidad de Medida y Actualización diaria;
 
-XIII. Consentir o tolerar que se inscriban a su nombre en el registro estatal de contribuyentes negociaciones ajenas; percibir a nombre propio ingresos gravables que correspondan a otra persona, cuando esto traiga como consecuencia la omisión de una obligación fiscal: Multa de 125 hasta 620 veces el salario mínimo general diario.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+VII. Alterar o destruir sellos oficiales: Multa de 50 hasta 500 veces la Unidad de Medida y Actualización diaria;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+VIII. Oponerse u obstaculizar el inicio o desarrollo de las visitas domiciliarias: Multa de 50 hasta 500 veces la Unidad de Medida y Actualización diaria;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+IX. Asesorar o aconsejar a los contribuyentes para omitir el pago de una contribución, colaborar a la alteración, inscripción de cuentas, asientos o datos falsos en la contabilidad o en los documentos que se expidan, cuando así se acredite: Multa de 50 hasta 500 veces la Unidad de Medida y Actualización diaria;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+X. Participar, auxiliar o coadyuvar en cualquier forma no prevista, en la comisión de infracciones fiscales: Multa de 50 hasta 500 veces la Unidad de Medida y Actualización diaria;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+XI. No destinar al pago de contribuciones las cantidades ministradas por los contribuyentes para ese efecto, cuando exista la obligación para ello: Multa de 125 hasta 620 veces la Unidad de Medida y Actualización diaria;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+XII. Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso ilegal de ellos: Multa de 125 hasta 620 veces la Unidad de Medida y Actualización diaria, y
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+XIII. Consentir o tolerar que se inscriban a su nombre en el registro estatal de contribuyentes negociaciones ajenas; percibir a nombre propio ingresos gravables que correspondan a otra persona, cuando esto traiga como consecuencia la omisión de una obligación fiscal: Multa de 125 hasta 620 veces la Unidad de Medida y Actualización diaria.
 
 ### Capítulo Octavo. De la Clausura
 
@@ -1529,9 +1627,11 @@ Tratándose de actos relativos al procedimiento administrativo de ejecución, el
 
 Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán a cargo de quien incurrió en el incumplimiento, los honorarios que establece este código.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 115.
 
-Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de diez veces el salario mínimo general diario del área geográfica a la que corresponda el estado de Guanajuato.
+Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de diez veces la Unidad de Medida y Actualización diaria.
 
 ###### ARTÍCULO 116.
 
@@ -2031,7 +2131,9 @@ El remate deberá ser convocado al día siguiente de haber quedado firme el aval
 
 La convocatoria se fijará en el sitio visible y usual de la oficina recaudadora y en los lugares públicos que se juzgue conveniente.
 
-En el caso de que el valor de los bienes exceda de una cantidad equivalente a cinco veces el salario mínimo general diario en el estado, elevado al año, la convocatoria se publicará en uno de los periódicos de mayor circulación del estado de Guanajuato, dos veces con intervalo de siete días. La última publicación se hará cuando menos diez días antes de la fecha del remate.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
+En el caso de que el valor de los bienes exceda de una cantidad equivalente a cinco veces la Unidad de Medida y Actualización diaria, elevada al año, la convocatoria se publicará en uno de los periódicos de mayor circulación del Estado de Guanajuato, dos veces con intervalo de siete días. La última publicación se hará cuando menos diez días antes de la fecha del remate.
 
 ###### ARTÍCULO 172.
 
@@ -2451,10 +2553,8 @@ P.O. 23 DE MAYO DE 2014.
 
 Artículo Único. El presente Decreto entrará en vigencia el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 149.- POR EL QUE SE REFORMAN LAS FRACCIONES XIV Y XXVIII DEL ARTÍCULO 3 DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO”.]
+P.O. 1 DE JULIO DE 2016.
 
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN".]
 
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
-
-TERCERO. Se derogan las disposiciones de menor jerarquía que se opongan al presente Decreto.
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
