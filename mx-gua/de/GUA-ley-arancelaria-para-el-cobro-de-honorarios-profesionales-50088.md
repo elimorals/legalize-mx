@@ -4,7 +4,7 @@ identifier: "GUA-ley-arancelaria-para-el-cobro-de-honorarios-profesionales-50088
 country: "mx"
 rank: "ley"
 publication_date: "2006-03-31"
-last_updated: "2007-05-15"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ARANCELARIA PARA EL COBRO DE HONORARIOS PROFESIONALES DE ABOGADOS Y NOTARIOS Y DE COSTAS PROCESALES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 31 de marzo de 2006.
 
@@ -63,13 +63,17 @@ Las reclamaciones y acciones sobre honorarios profesionales deberán plantearse 
 
 La tramitación o sustanciación para la liquidación de costas procesales ha de realizarse mediante incidente de liquidación de las mismas, en los términos previstos por el Código de Procedimientos Civiles para el Estado de Guanajuato para los incidentes que no tienen señalada tramitación especial.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
 ###### Artículo 7.
 
-Para todos los efectos de aplicación de la presente Ley, deberá entenderse el vocablo salario o salarios, como equivalente al monto en dinero del salario mínimo general vigente en nuestra Entidad Federativa en el momento que se haga la reclamación por concepto de honorarios profesionales o por concepto de costas procesales.
+Para todos los efectos de aplicación de la presente Ley, deberá entenderse el vocablo unidades, como equivalente al monto en dinero de la Unidad de Medida y Actualización diaria vigente en el momento que se haga la reclamación por concepto de honorarios profesionales o por concepto de costas procesales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
 
 ###### Artículo 8.
 
-Si los abogados o los notarios, a solicitud del cliente, o por requerirlo así el negocio encomendado, salieren del lugar de su residencia cobrarán además de los honorarios profesionales que correspondan conforme a la presente Ley, el importe de cinco a diez salarios por día o fracción, desde el momento de su salida hasta el de su regreso. Los abogados o notarios además tendrán derecho a cobrar cinco días de salario por cada cincuenta kilómetros de ida e igual cuota por el regreso a su residencia.
+Si los abogados o los notarios, a solicitud del cliente, o por requerirlo así el negocio encomendado, salieren del lugar de su residencia cobrarán además de los honorarios profesionales que correspondan conforme a la presente Ley, el importe de cinco a diez veces la Unidad de Medida y Actualización diaria o fracción, desde el momento de su salida hasta el de su regreso. Los abogados o notarios además tendrán derecho a cobrar cinco veces la Unidad de Medida y Actualización diaria por cada cincuenta kilómetros de ida e igual cuota por el regreso a su residencia.
 
 La parte condenada al pago de costas, en los casos a que se refiere el párrafo anterior, estará obligada a cubrirlas, únicamente cuando la presencia del abogado o del notario que prestó los servicios fuera del lugar de su residencia, hubiere sido necesaria para atender el asunto.
 
@@ -109,33 +113,55 @@ Si varias personas encomendaren un negocio, todas ellas serán solidariamente re
 
 En los juicios civiles y mercantiles, por concepto de honorarios profesionales, o en su caso por concepto de costas procesales se cobrará:
 
-l. De cinco a veinte salarios, por la vista de actuaciones judiciales, expedientes administrativos o cualquiera otra clase de documentos;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-II. De dos a diez salarios, por conferencias o consultas. Si se diere dictamen por escrito, de cinco a veinte salarios;
+I. De cinco a veinte veces la Unidad de Medida y Actualización diaria, por la vista de actuaciones judiciales, expedientes administrativos o cualquiera otra clase de documentos;
 
-III. Hasta un 5% de lo que se controvierta, por los escritos de demanda y contestación en que se opongan excepciones. En los negocios no valuables en dinero, se cobrará, según su importancia dificultad, de diez a cien salarios;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-IV. Un salario por escritos de mero trámite;
+II. De dos a diez veces la Unidad de Medida y Actualización diaria, por conferencias o consultas. Si se diere dictamen por escrito, de cinco a veinte veces la Unidad de Medida y Actualización diaria;
 
-V. De cuatro a diez salarios, por escritos en que se promueva o conteste un incidente o se interponga un recurso;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-VI. De dos a cinco salarios, por escritos en que se solicite recepción de pruebas;
+III. Hasta un 5% de lo que se controvierta, por los escritos de demanda y contestación en que se opongan excepciones. En los negocios no valuables en dinero, se cobrará, según su importancia y dificultad, de diez a cien veces la Unidad de Medida y Actualización diaria;
 
-VII. Cinco salarios, por interrogatorios de preguntas, de repreguntas y de posiciones;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-VIII. De cinco a diez salarios, por asistencia a juntas, audiencias, almonedas, remates o cualquiera otra diligencia judicial o administrativa;
+IV. Una Unidad de Medida y Actualización diaria, por escritos de mero trámite;
 
-IX. Un día de salario, por notificación de cualquier forma que se haga, y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-X. De dos a cinco salarios, por alegatos o informes a la vista, cuando se presenten apuntes, en el principal o en incidentes de difícil derecho, o en recursos.
+V. De cuatro a diez veces la Unidad de Medida y Actualización diaria, por escritos en que se promueva o conteste un incidente o se interponga un recurso;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+VI. De dos a cinco veces la Unidad de Medida y Actualización diaria, por escritos en que se solicite recepción de pruebas;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+VII. Cinco veces la Unidad de Medida y Actualización diaria, por interrogatorios de preguntas, de repreguntas y de posiciones;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+VIII. De cinco a diez veces la Unidad de Medida y Actualización diaria, por asistencia a juntas, audiencias, almonedas, remates o cualquiera otra diligencia judicial o administrativa;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+IX. Una Unidad de Medida y Actualización diaria, por notificación en cualquier forma que se haga, y
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+X. De dos a cinco veces la Unidad de Medida y Actualización diaria, por alegatos o informes a la vista, cuando se presenten apuntes, en el principal o en incidentes de difícil derecho, o en recursos.
 
 Además de los montos en dinero que resulten aplicando la tarifa anterior, a los trabajos desempeñados, se cobrará sobre el monto de la suerte principal hasta un 10%.
 
 En negocios no valuables en dinero, el aumento sobre el monto de los trabajos desempeñados, de acuerdo a este artículo, podrá ser hasta de otro tanto más.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
 ###### Artículo 16.
 
-En las transacciones judiciales o extrajudiciales, en las que intervengan los abogados, tratándose de negocios valuables en dinero, podrán cobrar hasta un 15% de la suerte principal; y en los negocios no valuables en dinero, podrán cobrar los abogados, además de la tarifa contenida en el artículo 15 de esta Ley, de diez a cien salarios.
+En las transacciones judiciales o extrajudiciales, en las que intervengan los abogados, tratándose de negocios valuables en dinero, podrán cobrar hasta un 15% de la suerte principal; y en los negocios no valuables en dinero, podrán cobrar los abogados, además de la tarifa contenida en el artículo 15 de esta Ley, de diez a cien veces la Unidad de Medida y Actualización diaria.
 
 ### CAPÍTULO III. Juicios sucesorios
 
@@ -143,15 +169,25 @@ En las transacciones judiciales o extrajudiciales, en las que intervengan los ab
 
 En los juicios testamentarios o intestamentarios, los abogados cobrarán:
 
-l. De cinco a cien salarios, por los escritos en que se promueve el juicio;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-II. De cinco a cien salarios, por la asistencia a la junta en que se haga la declaratoria de herederos y nombramiento de albacea;
+I. De cinco a cien veces la Unidad de Medida y Actualización diaria, por los escritos en que se promueve el juicio;
 
-III. De cinco a cien salarios, por la formación de inventarios;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-IV. De cinco a cien salarios, por la cuenta de administración;
+II. De cinco a cien veces la Unidad de Medida y Actualización diaria, por la asistencia a la junta en que se haga la declaratoria de herederos y nombramiento de albacea;
 
-V. De cinco a cien salarios, por el proyecto de partición, y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+III. De cinco a cien veces la Unidad de Medida y Actualización diaria, por la formación de inventarios;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+IV. De cinco a cien veces la Unidad de Medida y Actualización diaria, por la cuenta de administración;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+V. De cinco a cien veces la Unidad de Medida y Actualización diaria, por el proyecto de partición, y
 
 VI. Por los demás escritos y por las notificaciones, procederá el cobro de las tarifas señaladas en el artículo 15 de esta Ley.
 
@@ -161,15 +197,25 @@ VI. Por los demás escritos y por las notificaciones, procederá el cobro de las
 
 En los juicios penales, los abogados cobrarán:
 
-l. De diez a cincuenta salarios, por promover y obtener la libertad provisional bajo caución;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-II. De cinco a cincuenta salarios, por promover y obtener libertad anticipada, indulto o por gestionar la reducción, conmutación o sustitución de pena;
+I. De diez a cincuenta veces la Unidad de Medida y Actualización diaria, por promover y obtener la libertad provisional bajo caución;
 
-III. De cinco a cincuenta salarios, por alegatos de defensa en cualquier instancia;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-IV. De cinco a veinte salarios, por asistencia a audiencias o cualquier otra diligencia;
+II. De cinco a cincuenta veces la Unidad de Medida y Actualización diaria, por promover y obtener libertad anticipada, indulto o por gestionar la reducción, conmutación o sustitución de pena;
 
-V. Dos salarios, por notificación, en cualquier forma que se haga, y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+III. De cinco a cincuenta veces la Unidad de Medida y Actualización diaria, por alegatos de defensa en cualquier instancia;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+IV. De cinco a veinte veces la Unidad de Medida y Actualización diaria, por asistencia a audiencias o cualquier otra diligencia;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+V. Dos veces la Unidad de Medida y Actualización diaria, por notificación, en cualquier forma que se haga, y
 
 VI. Por todos los demás trámites, se cobrará de acuerdo a los montos señalados en el artículo 15 de esta Ley.
 
@@ -195,43 +241,77 @@ a) Del 0.5 al 2%, cuando se trate de enajenación de inmuebles cuyo valor sea de
 
 b) Cuando se trate de enajenaciones de inmuebles cuyo valor exceda de $600,000.00, se aplicará lo dispuesto en el inciso anterior con un incremento hasta del 0.5% sobre el excedente;
 
-II. De cincuenta a cien salarios, por testamento público abierto sin inventario;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-III. Se podrán incrementar los honorarios profesionales de la fracción anterior, hasta ciento cincuenta salarios, por testamento público con inventario;
+II. De cincuenta a cien veces la Unidad de Medida y Actualización diaria, por testamento público abierto sin inventario;
 
-IV. De quince a cincuenta salarios, por la elaboración de poder que otorgue persona física o moral civil;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-V. De treinta a sesenta salarios, por la elaboración de poder que otorgue persona moral mercantil;
+III. Se podrán incrementar los honorarios profesionales de la fracción anterior, hasta ciento cincuenta veces la Unidad de Medida y Actualización diaria, por testamento público con inventario;
 
-VI. Por la protocolización de sucesiones, se cobrarán los porcentajes previstos en la fracción I, con un incremento de cincuenta a cien salarios por la especialización que implica el acto jurídico;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+IV. De quince a cincuenta veces la Unidad de Medida y Actualización diaria, por la elaboración de poder que otorgue persona física o moral civil;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+V. De treinta a sesenta veces la Unidad de Medida y Actualización diaria, por la elaboración de poder que otorgue persona moral mercantil;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+VI. Por la protocolización de sucesiones, se cobrarán los porcentajes previstos en la fracción I, con un incremento de cincuenta a cien veces la Unidad de Medida y Actualización diaria, por la especialización que implica el acto jurídico;
 
 VII. Del 0.5 al 2% del valor de los bienes de la sucesión, además de las cuotas previstas en la fracción I, por la tramitación notarial de sucesiones y el otorgamiento de la escritura pública respectiva;
 
-VIII. El importe de cien salarios, más veinte salarios por cada unidad de que se componga el conjunto, por la constitución de condominios;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-IX. De diez a cincuenta salarios por hora, más gastos de traslado, en su caso, por la fe de hechos y el levantamiento del acta respectiva;
+VIII. El importe de cien veces la Unidad de Medida y Actualización diaria, más veinte veces la Unidad de Medida y Actualización diaria, por cada unidad de que se componga el conjunto, por la constitución de condominios;
 
-X. De diez a cincuenta salarios, por la realización de interpelaciones;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-XI. De veinte a setenta salarios, por cancelación de hipoteca;
+IX. De diez a cincuenta veces la Unidad de Medida y Actualización diaria por hora, más gastos de traslado, en su caso, por la fe de hechos y el levantamiento del acta respectiva;
 
-XII. De veinte a cincuenta salarios, por la ratificación de convenios y contratos;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-XIII. De dos a cien salarios, por el cotejo y certificación de documentos;
+X. De diez a cincuenta veces la Unidad de Medida y Actualización diaria, por la realización de interpelaciones;
 
-XIV. De diez a cuarenta salarios, por el otorgamiento de autorización de ascendientes para que descendientes puedan salir del país;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-XV. De veinte a cien salarios, por la elaboración de contratos privados;
+XI. De veinte a setenta veces la Unidad de Medida y Actualización diaria, por cancelación de hipoteca;
 
-XVI. De cuarenta a doscientos salarios, por la constitución de asociaciones o sociedades civiles o mercantiles;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
-XVII. De treinta a cincuenta salarios, por la protocolización de actas de asamblea;
+XII. De veinte a cincuenta veces la Unidad de Medida y Actualización diaria, por la ratificación de convenios y contratos;
 
-XVIII. De treinta a cincuenta salarios, por la redacción de actas de asamblea;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+XIII. De dos a cien veces la Unidad de Medida y Actualización diaria, por el cotejo y certificación de documentos;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+XIV. De diez a cuarenta veces la Unidad de Medida y Actualización diaria, por el otorgamiento de autorización de ascendientes para que descendientes puedan salir del país;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+XV. De veinte a cien veces la Unidad de Medida y Actualización diaria, por la elaboración de contratos privados;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+XVI. De cuarenta a doscientas veces la Unidad de Medida y Actualización diaria, por la constitución de asociaciones o sociedades civiles o mercantiles;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+XVII. De treinta a cincuenta veces la Unidad de Medida y Actualización diaria, por la protocolización de actas de asamblea;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+XVIII. De treinta a cincuenta veces la Unidad de Medida y Actualización diaria, por la redacción de actas de asamblea;
 
 XIX. Por la constitución de fideicomisos, se cobrará de acuerdo al valor del negocio, las tarifas contempladas en este arancel para la enajenación de inmuebles, y
 
-XX. De cuatro a diez salarios, por consultas.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+XX. De cuatro a diez veces la Unidad de Medida y Actualización diaria, por consultas.
 
 Cuando los servicios notariales se presten con urgencia requerida por el cliente, las tarifas contempladas en este artículo, podrán incrementarse hasta un 50% más de su valor asignado.
 
@@ -255,8 +335,16 @@ EL SECRETARIO DE GOBIERNO
 
 RICARDO TORRES ORIGEL
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 15 DE MAYO DE 2007.
 
 Artículo Único. Este Decreto entrará en vigor al cuarto día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
