@@ -4,7 +4,7 @@ identifier: "COA-codigo-procesal-civil-para-el-estado-de-coahuila-de-zaragoza-15
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-29"
-last_updated: "2016-06-10"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 29 de junio de 1999.
 
@@ -9857,7 +9857,17 @@ Quedan exceptuados de embargo:
 
 I. Los bienes que constituyen el patrimonio de familia, desde su inscripción en el Registro Público, en los términos establecidos por la Ley para la Familia de Coahuila de Zaragoza.
 
-II. La casa en la que se establezca el hogar conyugal, siempre que su valor según avalúo catastral no exceda del equivalente a veinticinco veces el salario mínimo general diario vigente en el lugar de su ubicación, elevado al año.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
+
+II. La casa en la que se establezca el hogar conyugal, siempre que su valor según avalúo catastral no exceda del equivalente al valor diario vigente de veinticinco unidades de medida y actualización, elevado al año.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2016)</small>
+
+Asimismo, la casa en la que habiten las personas adultas mayores de sesenta años de edad, siempre y cuando se reúnan los siguientes requisitos:
+
+A) Que el valor de la vivienda no exceda del equivalente al valor diario vigente de veinticinco unidades de medida y actualización vigentes, elevado al año; y
+
+B) Que únicamente sea propietario de ese inmueble.
 
 III. El menaje de casa constituido por los utensilios de cocina, el lecho cotidiano, los vestidos y los muebles de uso ordinario del deudor, de su cónyuge o de sus hijos que vivan con él y a sus expensas, siempre que no sean de lujo a criterio del ejecutor, a menos que el crédito provenga del precio del respectivo bien.
 
@@ -13402,3 +13412,15 @@ P.O. 10 DE JUNIO DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE JULIO DE 2016.
+
+(N. DE E. TRANSITORIOS DEL “DECRETO NO. 495.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA; ASÍ MISMO, SE RE FORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 715 Y 727 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- En los distritos judiciales en los cuales no haya iniciado su vigencia la Ley para la Familia de Coahuila de Zaragoza y el Código de Procedimientos Familiares para el Estado de Coahuila de Zaragoza, la vigencia de las disposiciones de la presente reforma relativas a estos ordenamientos, entrarán en vigor conforme a la gradualidad determinada por el Consejo de la Judicatura del Poder Judicial del Estado prevista en los artículos primero y segundo transitorios del decreto 477 publicado en el Periódico Oficial del Gobierno del Estado el día 10 de junio de 2016.
+
+TERCERO.- Las reformas del Código Civil para el Estado de Coahuila de Zaragoza contenidas en el presente decreto entrarán en vigor al día siguiente de su publicación en los distritos judiciales o municipios en los que no haya iniciado su vigencia la Ley para la Familia de Coahuila de Zaragoza.
+
+Una vez que entre en vigor la Ley para la Familia conforme al primero y segundo transitorios del decreto 477, quedarán derogados los artículos del Código Civil para el Estado de Coahuila de Zaragoza incluidos en el presente decreto.
