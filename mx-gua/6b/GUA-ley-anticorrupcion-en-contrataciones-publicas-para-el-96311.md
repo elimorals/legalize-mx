@@ -4,7 +4,7 @@ identifier: "GUA-ley-anticorrupcion-en-contrataciones-publicas-para-el-96311"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-18"
-last_updated: "2013-10-18"
+last_updated: "2016-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96311&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS PARA EL ESTADO DE GUANAJUATO
 
-> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO NÚMERO 89, LA PRESENTE LEY ENTRARA EN VIGOR A LOS NOVENTA DÍAS SIGUIENTES DE SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 18 de octubre de 2013.
 
@@ -301,7 +299,9 @@ Las medidas de apremio y disciplinarias, serán las siguientes:
 
 l. Apercibimiento; y
 
-II. Multa, de cien a dos mil días de salario mínimo general vigente en el Estado.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+II. Multa, de cien a dos mil veces la Unidad de Medida y Actualización diaria.
 
 Toda medida deberá estar debidamente fundada y motivada.
 
@@ -321,7 +321,9 @@ Las sanciones administrativas que deban imponerse por la comisión de las infrac
 
 I. Tratándose de personas físicas:
 
-a) Sanción económica equivalente a la cantidad de mil hasta dos millones de veces el salario mínimo general vigente en el Estado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
+
+a) Sanción económica equivalente a la cantidad de mil hasta dos millones de veces la Unidad de Medida y Actualización diaria.
 
 Para el caso de contrataciones públicas realizadas, en términos de los ordenamientos legales en materia de contrataciones públicas, si la multa máxima prevista en el primer párrafo de este inciso resulta menor al treinta por ciento del monto del contrato, se impondrá una sanción económica de entre el treinta y hasta el treinta y cinco por ciento del monto del contrato si este último le fue adjudicado al infractor, y
 
@@ -329,7 +331,9 @@ b) Inhabilitación para participar en contrataciones públicas en el estado de G
 
 II. Cuando se trate de personas morales:
 
-a) Sanción económica equivalente a la cantidad de mil hasta dos millones de veces el salario mínimo diario general vigente en el Estado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
+
+a) Sanción económica equivalente a la cantidad de mil hasta dos millones de veces la Unidad de Medida y Actualización diaria.
 
 Para el caso de contrataciones públicas realizadas; en términos de los ordenamientos legales en materia de contrataciones públicas, si la multa máxima prevista en el primer párrafo de este inciso resulta menor al treinta por ciento del monto del contrato, se impondrá una sanción económica de entre el treinta y hasta el treinta y cinco por ciento del monto del contrato si este último le fue adjudicado al infractor, y
 
@@ -436,3 +440,11 @@ MIGUEL MÁRQUEZ MÁRQUEZ
 EL SECRETARIO DE GOBIERNO
 
 ANTONIO SALVADOR GARCÍA LÓPEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN".]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
