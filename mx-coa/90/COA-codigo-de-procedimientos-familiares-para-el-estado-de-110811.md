@@ -4,7 +4,7 @@ identifier: "COA-codigo-de-procedimientos-familiares-para-el-estado-de-110811"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-12-15"
-last_updated: "2016-06-10"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 477 PUBLICADO EN EL P.O. 10 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS 180 DÍAS SIGUIENTES A SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EN EL DISTRITO JUDICIAL QUE DETERMINE EL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO, CONFORME AL ACUERDO QUE EMITA PARA TALES EFECTOS]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el martes 15 de diciembre de 2015.
 
@@ -2183,6 +2183,12 @@ Legitimación para solicitar la constitución del patrimonio de la familia
 
 El patrimonio de la familia podrá constituirse por las personas que integran la familia, en los términos previstos por la Ley para la Familia de Coahuila de Zaragoza, y por el tutor o tutriz que administre bienes del niño o de la niña.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2016)</small>
+
+También podrán constituirlo las personas que conformen un hogar unipersonal, en los términos de la Ley para la Familia del Estado de Coahuila de Zaragoza.
+
 ###### Artículo 247.
 
 Hechos por acreditar ante la autoridad judicial competente
@@ -2191,7 +2197,11 @@ Para constituir el patrimonio de la familia, el solicitante deberá acreditar lo
 
 I. Ser mayor de edad o que está emancipado.
 
-II. Ser miembro de la familia a cuyo favor se constituirá el patrimonio, salvo el caso del tutor o tutriz.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+II. Ser miembro de la familia a cuyo favor se constituirá el patrimonio, salvo el caso del tutor o tutriz y de las personas que conformen un hogar unipersonal.
 
 III. Estar domiciliado en el lugar en donde se quiere constituir el patrimonio.
 
@@ -2462,3 +2472,15 @@ P.O. 10 DE JUNIO DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 495.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA; ASÍ MISMO, SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 715 Y 727 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- En los distritos judiciales en los cuales no haya iniciado su vigencia la Ley para la Familia de Coahuila de Zaragoza y el Código de Procedimientos Familiares para el Estado de Coahuila de Zaragoza, la vigencia de las disposiciones de la presente reforma relativas a estos ordenamientos, entrarán en vigor conforme a la gradualidad determinada por el Consejo de la Judicatura del Poder Judicial del Estado prevista en los artículos primero y segundo transitorios del decreto 477 publicado en el Periódico Oficial del Gobierno del Estado el día 10 de junio de 2016.
+
+TERCERO.- Las reformas del Código Civil para el Estado de Coahuila de Zaragoza contenidas en el presente decreto entrarán en vigor al día siguiente de su publicación en los distritos judiciales o municipios en los que no haya iniciado su vigencia la Ley para la Familia de Coahuila de Zaragoza.
+
+Una vez que entre en vigor la Ley para la Familia conforme al primero y segundo transitorios del decreto 477, quedarán derogados los artículos del Código Civil para el Estado de Coahuila de Zaragoza incluidos en el presente decreto.
