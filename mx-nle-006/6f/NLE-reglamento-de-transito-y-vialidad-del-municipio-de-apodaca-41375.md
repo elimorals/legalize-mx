@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-apodaca-4137
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-06"
-last_updated: "2014-12-10"
+last_updated: "2016-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE APODACA, NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DEL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE APODACA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 1 DE JULIO DE 2016, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS SESENTA DÍAS NATURALES CONTADOS A PARTIR DEL DÍA SIGUIENTE AL DE SU PUBLICACIÓN.]</small>
+
 REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE APODACA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 6 de octubre de 2004.
 
@@ -3633,3 +3635,29 @@ PRIMERO.- Que se apruebe la reforma por modificación al artículo 136 Fracción
 SEGUNDO.- Que se apruebe la iniciativa de reforma del REGLAMENTO DE TRANSITO Y VIALIDAD, después de cumplir con la Consulta Pública por el término de 5-cinco días hábiles.
 
 TERCERO.- Que se giren instrucciones para que se publique en el Periódico Oficial del Estado, para iniciar su vigencia quedando sin efecto las disposiciones anteriores y que se opongan al mismo.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE APRUEBA EL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE APODACA, N.L.”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor a los 60-sesenta días naturales contados a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- A partir de la entrada en vigor de este Reglamento, se Abroga el Reglamento de Tránsito y Vialidad del Municipio de Apodaca, Nuevo León, publicado en el Periódico Oficial del Estado de Nuevo León en fecha 06-seis de Octubre de 2004-dos mil cuatro.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan al presente Reglamento.
+
+CUARTO.- La obligación contenida en el Artículo 49 será aplicable 60-sesenta días naturales, a partir de la entrada en vigor del presente Reglamento.
+
+QUINTO.- El Municipio que así lo determine, contará con 120-ciento veinte días naturales a partir de la entrada en vigor del presente Reglamento, para llevar a cabo los estudios técnicos que permitan determinar el establecimiento de los programas instituidos en los Artículos 125, 126 y 127 del presente Reglamento.
+
+SEXTO.- Se instruye a la Secretaría de Seguridad Pública y Vialidad del Municipio de Apodaca, Nuevo León y con el apoyo de las dependencias municipales que correspondan, a que lleve a cabo una campaña de difusión que tenga por objeto dar a conocer lo ordenado en la Sección 5 del Capítulo III y en el Anexo 1 y 2, en los siguientes términos:
+
+I. De Difusión Vial y de Promoción de Rutas: Que comprende toda actividad que a través de medios de comunicación, redes sociales, señalamientos informativos y restrictivos, así como otros medios de difusión, se lleve a cabo para informar a los conductores de vehículos de transporte de carga pesada sobre las nuevas disposiciones en la materia; asimismo se deberá informar a las Autoridades Federales y Estatales, Cámaras de la Industria, Comercio y Transporte, que forman parte de las actividades que sobre vehículos de transporte de carga pesada se llevan a cabo en el Área Metropolitana de Monterrey. Esta etapa tendrá una duración de 90-noventa días naturales contados a partir de la publicación en el Periódico Oficial del Estado de Nuevo León;
+
+II. Preventiva e Informativa: Que advierte la aplicación de amonestaciones a conductores infractores por un período de 60-sesenta días naturales contados a partir de la conclusión de la campaña de difusión vial y de promoción de rutas; durante la amonestación se continuará con la comunicación de lo ordenado en la presente norma, y,
+
+III. Correctiva: Una vez concluida la etapa Preventiva e Informativa y por espacio de 30-treinta días naturales, la aplicación de la multa tendrá un descuento único del 50%-cincuenta por ciento si ésta es pagada durante los 15-quince días naturales siguientes a la aplicación de dicha multa.
+
+SÉPTIMO.- La aplicación de las sanciones por faltas o violaciones al presente Reglamento, contenidas en el Artículo 164, fracción V, surtirá sus efectos sin concesión, a partir de la conclusión de la campaña preventiva e informativa señalada en el Artículo Sexto Transitorio.
+
+OCTAVO.- Gírese al Secretario del R. Ayuntamiento para que remita su publicación en el Periódico Oficial del Estado de Nuevo León, en la Gaceta Municipal, y en el sitio Oficial de internet del Municipio.
