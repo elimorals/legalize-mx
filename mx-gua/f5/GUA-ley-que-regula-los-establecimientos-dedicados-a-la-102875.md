@@ -4,7 +4,7 @@ identifier: "GUA-ley-que-regula-los-establecimientos-dedicados-a-la-102875"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-17"
-last_updated: "2015-04-21"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY QUE REGULA LOS ESTABLECIMIENTOS DEDICADOS A LA COMPRAVENTA O ADQUISICIÓN DE VEHÍCULOS AUTOMOTORES EN DESUSO Y SUS AUTOPARTES, ASÍ COMO EN LOS QUE SE COMERCIALIZAN, MANEJAN O DISPONEN DE METALES PARA RECICLAJE, PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 17 de octubre de 2014.
 
@@ -457,7 +457,9 @@ La Secretaría o los ayuntamientos, según sea el caso, para la ejecución de la
 
 Las infracciones a las disposiciones de esta Ley serán sancionadas con:
 
-I. Multa de cincuenta hasta cinco mil veces el salario mínimo general vigente en el estado; y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+I. Multa de cincuenta hasta cinco mil veces la Unidad de Medida y Actualización diaria; y
 
 II. Cancelación del permiso.
 
@@ -564,3 +566,9 @@ Artículo Primero. El artículo segundo del presente Decreto entrará en vigenci
 Transferencia de expedientes a la Secretaría de Finanzas, Inversión y Administración
 
 Artículo Segundo. La Secretaría de Desarrollo Económico Sustentable transferirá a la Secretaría de Finanzas, Inversión y Administración, los expedientes en trámite vinculados con lo establecido en el artículo segundo transitorio del Decreto número 185, mediante el cual se expidió la Ley que Regula los Establecimientos dedicados a la Compraventa o Adquisición de Vehículos Automotores en Desuso y sus Autopartes, así como en los que se Comercializan, Manejan o Disponen de Metales para Reciclaje, para el Estado de Guanajuato y sus Municipios.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
