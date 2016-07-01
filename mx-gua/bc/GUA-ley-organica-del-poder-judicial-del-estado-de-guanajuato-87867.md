@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-judicial-del-estado-de-guanajuato-87867"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-05-22"
-last_updated: "2015-10-02"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 2 DE OCTUBRE DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 22 de mayo de 2012.
 
@@ -2365,7 +2363,7 @@ Licencias de magistrados
 
 ###### Artículo 159.
 
-A los magistrados podrán concederse licencias DE MÁS DE SEIS MESES por causa de enfermedad. El titular del Poder Ejecutivo o el Consejo del Poder Judicial, según corresponda por el origen de la propuesta para su designación, someterá la licencia a la aprobación del Congreso del Estado.e
+A los magistrados podrán concederse licencias DE MÁS DE SEIS MESES por causa de enfermedad. El titular del Poder Ejecutivo o el Consejo del Poder Judicial, según corresponda por el origen de la propuesta para su designación, someterá la licencia a la aprobación del Congreso del Estado.
 
 Consecuencia por inasistencia a laborar al término de la licencia
 
@@ -3257,9 +3255,11 @@ Los servidores públicos del Poder Judicial asignados a estas oficinas harán co
 
 Multa por queja o denuncia maliciosa
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
 ###### Artículo 226.
 
-Si el Pleno del Supremo Tribunal de Justicia o el Consejo del Poder Judicial estimaren que la queja o denuncia fue interpuesta maliciosamente, se impondrá al promovente o a su representante o abogado, o a ambos, una multa de treinta a ciento veinte días de salario mínimo, tomando como base el vigente en el Estado de Guanajuato al momento de interponerse.
+Si el Pleno del Supremo Tribunal de Justicia o el Consejo del Poder Judicial estimaren que la queja o denuncia fue interpuesta maliciosamente, se impondrá al promovente o a su representante o abogado, o a ambos, una multa de treinta a ciento veinte veces la Unidad de Medida y Actualización diaria vigente al momento de interponerse.
 
 Medidas administrativas de corrección o remedio inmediato
 
@@ -3807,15 +3807,13 @@ Supuestos en los que no procede la indemnización
 
 No procederá la indemnización cuando la sentencia condenatoria sobre la que se declare el reconocimiento de inocencia, haya sido propiciada por una conducta negligente o de mala fe atribuible al inculpado o a la defensa.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
-
 Bases para el cálculo de la indemnización
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
 
 ###### Artículo 283.
 
-La indemnización se calculará con base en el promedio diario de los ingresos percibidos por el sentenciado durante el mes anterior a la privación injustificada de su libertad o al indebido internamiento o inhabilitación, pero esa base diaria no podrá exceder de veinte salarios mínimos generales vigente en el Estado al momento en que haya iniciado la medida injustamente padecida, con los incrementos que haya habido durante el período correspondiente. Cuando se desconozca el promedio diario de ingresos, la base para el cálculo será el salario mínimo general diario vigente en el Estado en el momento en que se inició la injusta privación de libertad o inhabilitación, tomando en cuenta también sus incrementos.
+La indemnización se calculará con base en el promedio diario de los ingresos percibidos por el sentenciado durante el mes anterior a la privación injustificada de su libertad o al indebido internamiento o inhabilitación, pero esa base diaria no podrá exceder de veinte veces la Unidad de Medida y Actualización diaria vigente al momento en que haya iniciado la medida injustamente padecida, con los incrementos que haya habido durante el periodo correspondiente. Cuando se desconozca el promedio diario de ingresos, la base para el cálculo será la Unidad de Medida y Actualización diaria vigente en el momento en que se inició la injusta privación de libertad o inhabilitación, tomando en cuenta también sus incrementos.
 
 Para los efectos de la determinación de la indemnización, se computará el tiempo que, el que tiene derecho a la indemnización, haya sido sujeto a una medida restrictiva o privativa de la libertad.
 
@@ -3980,3 +3978,9 @@ Artículo Octavo. Las organizaciones de asistencia social que realicen cualquier
 Designación de representantes de la sociedad civil ante el Sistema
 
 Artículo Noveno. Por única ocasión el Gobernador del Estado designará en forma directa a los representantes de la sociedad civil ante el Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes previstos en la fracción XIII del artículo 91.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
