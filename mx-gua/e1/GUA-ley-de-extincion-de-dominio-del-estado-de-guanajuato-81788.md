@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-extincion-de-dominio-del-estado-de-guanajuato-81788"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-21"
-last_updated: "2013-06-07"
+last_updated: "2016-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY DE EXTINCION DE DOMINIO DEL ESTADO DE GUANAJUATO
 
-LEY DE EXTINCÓN DE DOMINIO DEL ESTADO DE GUANAJUATO
+LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Ley publicada en la Quinta Parte del Periódico Oficial del Estado de Guanajuato, el martes 21 de junio de 2011.
 
@@ -417,7 +417,9 @@ I. Para el cumplimiento de sus determinaciones, podrá utilizar los siguientes m
 
 a) Apercibimiento;
 
-b) Multa de uno a doscientos días de salario mínimo general diario vigente en el Estado; o
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+b) Multa de uno a doscientas veces la Unidad de Medida y Actualización diaria; o
 
 c) Uso de la fuerza pública.
 
@@ -427,7 +429,9 @@ II. Son medidas disciplinarias las siguientes:
 
 a) Apercibimiento;
 
-b) Multa de uno a doscientos días de salario mínimo general diario vigente en el Estado;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+b) Multa de una a doscientas veces la Unidad de Medida y Actualización diaria;
 
 c) Uso de la fuerza pública; o
 
@@ -447,7 +451,9 @@ I. Para el cumplimiento de sus determinaciones, podrá utilizar los siguientes m
 
 a) Apercibimiento;
 
-b) Multa de uno a doscientos días de salario mínimo general diario vigente en el Estado; o
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+b) Multa de una a doscientas veces la Unidad de Medida y Actualización diaria; o
 
 c) Uso de la fuerza pública.
 
@@ -457,7 +463,9 @@ II. Son medidas disciplinarias las siguientes:
 
 a) Apercibimiento;
 
-b) Multa de uno a doscientos días de salario mínimo general diario vigente en el Estado;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+b) Multa de una a doscientas veces la Unidad de Medida y Actualización diaria;
 
 c) Uso de la fuerza pública; o
 
@@ -711,9 +719,11 @@ IV. Las demás determinaciones que considere pertinentes.
 
 Presencia de los intervinientes en la audiencia
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
 ###### Artículo 65.
 
-La audiencia de desahogo de pruebas y formulación de alegatos, se celebrará estén o no presentes las partes, excepto el Agente especializado, quien siempre deberá comparecer. La ausencia de los peritos o testigos que el Juez especializado haya citado para la audiencia tampoco impedirá su celebración, pero se impondrá a quienes debidamente notificados, no hayan acudido sin causa justa, una multa de hasta cien días de salario mínimo general vigente en el Estado.
+La audiencia de desahogo de pruebas y formulación de alegatos, se celebrará estén o no presentes las partes, excepto el Agente especializado, quien siempre deberá comparecer. La ausencia de los peritos o testigos que el Juez especializado haya citado para la audiencia tampoco impedirá su celebración, pero se impondrá a quienes debidamente notificados, no hayan acudido sin causa justa, una multa de hasta cien veces la Unidad de Medida y Actualización diaria.
 
 Desahogo de las pruebas
 
@@ -972,3 +982,9 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTO, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN.”]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
