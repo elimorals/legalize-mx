@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimiento-y-justicia-administrativa-para-el-56710
 country: "mx"
 rank: "codigo"
 publication_date: "2007-08-17"
-last_updated: "2015-10-02"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 CÓDIGO DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE OCTUBRE DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
 
 Código Publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 17 de agosto de 2007.
 
@@ -263,7 +261,9 @@ I. Apercibimiento;
 
 II. Amonestación;
 
-III. Multa equivalente al monto de diez a doscientos días de salario mínimo general diario vigente en el Estado. Si el infractor fuere jornalero, obrero o trabajador, la multa no deberá exceder de un día de salario y tratándose de personas no asalariadas, el equivalente a un día de su ingreso;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+III. Multa equivalente al monto de diez a doscientas veces la Unidad de Medida y Actualización diaria. Si el infractor fuere jornalero, obrero o trabajador, la multa no deberá exceder de un día de salario y tratándose de personas no asalariadas, el equivalente a un día de su ingreso;
 
 IV. Expulsión del local, en caso necesario; o
 
@@ -285,7 +285,9 @@ Las autoridades, para hacer cumplir sus determinaciones, podrán emplear, en el 
 
 I. Apercibimiento;
 
-II. Multa equivalente al monto de diez a doscientos días de salario mínimo general diario vigente en el Estado. Si el infractor fuere jornalero, obrero o trabajador, la multa no deberá exceder de un día de salario y tratándose de personas no asalariadas, el equivalente a un día de su ingreso;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+II. Multa equivalente al monto de diez a doscientas veces la Unidad de Medida y Actualización diaria. Si el infractor fuere jornalero, obrero o trabajador, la multa no deberá exceder de un día de salario y tratándose de personas no asalariadas, el equivalente a un día de su ingreso;
 
 III. Requerimiento al superior jerárquico de la autoridad obligada al cumplimiento de un mandato en el caso del Tribunal o Juzgados; y
 
@@ -2259,7 +2261,9 @@ La suspensión a que se refiere este artículo procede de oficio y se concederá
 
 Tratándose de asuntos de carácter fiscal, se concederá la suspensión, si quien la solicita garantiza el interés fiscal dentro de los tres días siguientes contados a partir del día en que se solicitó la suspensión, ante las oficinas exactoras correspondientes, en cualquiera de las formas previstas por la legislación fiscal correspondiente.
 
-El juzgador podrá conceder la suspensión, sin necesidad de que se garantice el importe del crédito, cuando el asunto planteado no rebase la cantidad que resulte de multiplicar por ciento cincuenta el salario mínimo general diario vigente en el Estado de Guanajuato. El auto que dispense el otorgamiento de la garantía no será recurrible.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
+El juzgador podrá conceder la suspensión, sin necesidad de que se garantice el importe del crédito, cuando el asunto planteado no rebase la cantidad que resulte de multiplicar por ciento cincuenta la Unidad de Medida y Actualización diaria. El auto que dispense el otorgamiento de la garantía no será recurrible.
 
 ###### Artículo 277.
 
@@ -2475,7 +2479,9 @@ I. El acto o resolución impugnado se hayan dictado fuera de procedimiento, o ha
 
 II. El actor manifieste suma ignorancia; o
 
-III. El asunto planteado no rebase la cantidad de multiplicar por ciento cincuenta el salario mínimo general diario vigente en el Estado.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+
+III. El asunto planteado no rebase la cantidad de multiplicar por ciento cincuenta la Unidad de Medida y Actualización diaria.
 
 ###### Artículo 302.
 
@@ -2601,7 +2607,9 @@ Sin perjuicio de lo anterior, en aquellos casos en que así lo solicite la autor
 
 Artículo 307 P. En caso que el Tribunal advierta que alguna persona modificó, alteró, destruyó o provocó la pérdida de información contenida en el Sistema Informático del Tribunal, se tomarán las medidas de protección necesarias, para evitar dicha conducta hasta que concluya el juicio, el cual se continuará tramitando a través de un juicio en forma escrita. Si el responsable es usuario del Sistema, se cancelará su Firma Electrónica Avanzada, Clave de Acceso y Contraseña para ingresar al Sistema Informático y no tendrá posibilidad de volver a promover juicios en línea.
 
-Sin perjuicio de lo anterior, y de las responsabilidades penales respectivas, se impondrá al responsable una multa de trescientos a quinientas veces el salario mínimo general vigente en el Estado al momento de cometer la infracción.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+
+Sin perjuicio de lo anterior, y de las responsabilidades penales respectivas, se impondrá al responsable una multa de trescientas a quinientas veces la Unidad de Medida y Actualización diaria, vigente al momento de cometer la infracción.
 
 > <small>(ADICIONADO, P.O. 15 DE MAYO DE 2015)</small>
 
@@ -2777,9 +2785,11 @@ El recurso deberá interponerse por escrito, ante el juzgador que conozca del as
 
 Admitido el recurso, el juzgador requerirá a la autoridad contra la que se haya interpuesto, para que rinda informe sobre la materia de la queja, dentro del término de tres días y, dentro de los tres días siguientes dictará la resolución que proceda. La falta o deficiencia del informe, establece la presunción de ser ciertos los hechos respectivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
+
 ###### Artículo 327.
 
-Si se resuelve que hubo exceso o defecto en el cumplimiento de la sentencia, dejará sin efectos la resolución que motivó la queja y concederá al servidor público responsable diez días para que dé cumplimiento debido al fallo, señalando la forma y términos precisados en la sentencia, conforme a los cuales deberá cumplir y le impondrá una multa equivalente a la cantidad de treinta a trescientos días de salario mínimo general diario vigente en el Estado.
+Si se resuelve que hubo exceso o defecto en el cumplimiento de la sentencia, dejará sin efectos la resolución que motivó la queja y concederá al servidor público responsable diez días para que dé cumplimiento debido al fallo, señalando la forma y términos precisados en la sentencia, conforme a los cuales deberá cumplir y le impondrá una multa equivalente a la cantidad de treinta a trescientas veces la Unidad de Medida y Actualización diaria.
 
 En caso de que haya repetición del acto o resolución anulado, el juzgador hará la declaratoria correspondiente, dejándolos sin efectos, y le notificará al servidor público responsable, ordenándole que se abstenga de incurrir en nuevas repeticiones.
 
@@ -2892,3 +2902,9 @@ Artículo Octavo. Las organizaciones de asistencia social que realicen cualquier
 Designación de representantes de la sociedad civil ante el Sistema
 
 Artículo Noveno. Por única ocasión el Gobernador del Estado designará en forma directa a los representantes de la sociedad civil ante el Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes previstos en la fracción XIII del artículo 91.
+
+P.O. 1 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
