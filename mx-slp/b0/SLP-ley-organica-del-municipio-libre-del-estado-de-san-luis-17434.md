@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2016-04-28"
+last_updated: "2016-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1275,7 +1275,9 @@ XV. Coadyuvar con las autoridades federales y estatales cuando así proceda, par
 
 XVI. Cuidar el funcionamiento de la Junta Municipal de Reclutamiento;
 
-XVII. En los municipios que no cuenten con Oficial Mayor, atender lo relativo a las relaciones laborales con los empleados del Ayuntamiento;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2016)</small>
+
+XVII. En los municipios que no cuenten con Oficial Mayor, atender lo relativo a las relaciones laborales con los empleados del Ayuntamiento. Así como elaborar y revisar permanentemente, con el concurso de las demás dependencias municipales, los manuales de, organización; y de procedimientos; que requiera la administración pública municipal;
 
 XVIII. Imponer sanciones a quienes corresponda, por violación al Reglamento Interior del Ayuntamiento, y
 
@@ -1393,7 +1395,9 @@ VII. Controlar el servicio de mantenimiento de vehículos, maquinaria, mobiliari
 
 VIII. Participar en la entrega recepción de las unidades administrativas, de las dependencias y entidades municipales, conjuntamente con el Síndico y el Contralor Interno;
 
-IX. Expedir los nombramientos del personal que hayan dado el Cabildo o el Presidente Municipal, y atender lo relativo a las relaciones laborales con los empleados al servicio del Ayuntamiento, y
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2016)</small>
+
+IX. Expedir los nombramientos del personal que hayan dado el Cabildo o el Presidente Municipal; atender lo relativo a las relaciones laborales con los empleados al servicio del Ayuntamiento; así como elaborar y, revisar permanentemente, con el concurso de las demás dependencias municipales, los manuales de, organización; y de procedimientos; que requiera la administración pública municipal, y
 
 X. Las demás que le señalen las leyes y reglamentos municipales.
 
@@ -2884,3 +2888,11 @@ P.O. 28 DE ABRIL DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 2 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0233.- SE ADICIONA LA LEY QUE ESTABLECE LAS BASES PARA LA EMISIÓN DE BANDOS DE POLICÍA Y GOBIERNO, Y ORDENAMIENTOS DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ Y SE REFORMA LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
