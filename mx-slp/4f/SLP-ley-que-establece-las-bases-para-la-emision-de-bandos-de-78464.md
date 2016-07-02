@@ -4,7 +4,7 @@ identifier: "SLP-ley-que-establece-las-bases-para-la-emision-de-bandos-de-78464"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-02"
-last_updated: "2010-12-02"
+last_updated: "2016-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78464&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY QUE ESTABLECE LAS BASES PARA LA EMISION DE BANDOS DE POLICIA Y GOBIERNO, Y ORDENAMIENTOS DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI
 
-LEY QUE ESTABLECE LAS BASES PARA LA EMISION DE BANDOS DE POLICIA Y GOBIERNO, Y ORDENAMIENTOS DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI
+LEY QUE ESTABLECE LAS BASES PARA LA EMISIÓN DE BANDOS DE POLICÍA Y GOBIERNO, Y ORDENAMIENTOS DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2016.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el jueves 2 de diciembre de 2010.
 
@@ -273,6 +273,114 @@ III. Ser publicados en la Gaceta Municipal en caso de que el municipio cuente co
 
 Las circulares internas, instructivos, manuales, formatos y cualesquier otro acto de similar naturaleza, no pueden constituirse en actos legislativos autónomos, ni desvirtuar, modificar o alterar el contenido de un ordenamiento municipal. Tampoco pueden imponer cargas u obligaciones a los particulares.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JULIO DE 2016)</small>
+
+### Capítulo VI. De los Manuales de Organización
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2016)</small>
+
+###### ARTICULO 18.
+
+Los ayuntamientos expedirán los manuales de organización; y de procedimientos, relativos al funcionamiento de cada dependencia administrativa, en un plazo no mayor a ciento ochenta días contados a partir de la toma de protesta de sus miembros; y, posteriormente, deberán actualizarlos en el mes de enero de cada año.
+
+El manual de organización deberá contener cuando menos:
+
+I. Introducción;
+
+II. Objetivo del manual;
+
+III. Misión y visión;
+
+IV. Antecedentes históricos;
+
+V. Marco jurídico;
+
+VI. Atribuciones;
+
+VII. Estructura orgánica;
+
+VIII. Funciones;
+
+IX. Organigrama;
+
+X. Descripción y perfil de los puestos, y
+
+XI. Glosario de términos.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2016)</small>
+
+###### ARTICULO 19.
+
+Para los efectos del artículo anterior se entiende por:
+
+I. Antecedentes históricos: se refiere a las principales transformaciones sobre la organización y funcionamiento del gobierno municipal correspondiente, en orden cronológico, que indique las disposiciones jurídico-administrativas que hayan dado origen y/o modificado la estructura organizacional del mismo;
+
+II. Atribuciones: las competencias que marca la ley, deben de darle su amplitud y su limitación, determinan su ámbito de competencia. Se deberá hacer una trascripción textual y completa de las atribuciones de la unidad administrativa con base en la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí, sus reglamentos, y demás disposiciones administrativas;
+
+III. Descripción y perfil de los puestos: descripción de los puestos que conforman cada dependencia administrativa. Para tal efecto, se define el puesto como el cargo que desempeña un trabajador;
+
+IV. Estructura orgánica: descripción precisa de las actividades que corresponden a cada una de las dependencias administrativas que conforman la estructura municipal, en la que se definen responsabilidades y funciones respecto de las relaciones de jerarquía. La estructura orgánica debe coincidir con el organigrama;
+
+V. Funciones: constituyen el conjunto de actividades afines, a través de las cuales se alcanzará el desarrollo de las atribuciones y objetivos planteados. Las funciones deberán ordenarse de acuerdo a la importancia y naturaleza del área que se trate. Las funciones descritas para cada órgano administrativo serán las más relevantes con relación al ámbito de su competencia e, incluirán sólo las de carácter sustantivo; la descripción de las funciones deberá iniciarse con un verbo en infinitivo;
+
+VI. Glosario de términos: corresponde al listado alfabético de definiciones de aquellas palabras o términos utilizados en el documento, y que pueden prestarse a confusión en virtud de que no siempre tienen la misma acepción o no son ampliamente conocidos;
+
+VII. Introducción: es la explicación general respecto del contenido del manual, estructura; propósitos; ámbito de aplicación y, en su caso, las actualizaciones realizadas; se debe establecer las personas a quiénes va dirigido; y cuándo, y cómo se harán las actualizaciones;
+
+VIII. Marco jurídico: las disposiciones jurídicas relacionadas por orden jerárquico, que dan origen a la organización, que establecen su creación y sus atribuciones, así como aquéllas que regulan su funcionamiento. Se deberá ordenar y jerarquizar los documentos jurídico-administrativos vigentes, en forma descendente;
+
+IX. Misión y visión: la misión es la razón de ser de la institución, la cual explica su existencia. Es una declaración que describe su propósito fundamental.
+
+La visión es la imagen que la institución se plantea a largo plazo, respecto de las expectativas a futuro;
+
+X. Objetivo del Manual: el propósito de establecer de manera formal una cultura organizacional; proporcionar un instrumento técnico-administrativo que norme la elaboración de los manuales con uniformidad, contenido, y presentación que permita optimizar la eficiencia en la organización y funcionamiento de las unidades administrativas del municipio; su redacción será clara y en párrafos breves; además, la primera parte de su contenido deberá expresar: qué se hace; y la segunda, para qué se hace, y
+
+XI. Organigrama: representación gráfica de la estructura orgánica.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JULIO DE 2016)</small>
+
+### Capítulo VII. De los Manuales de Procedimientos
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2016)</small>
+
+###### ARTICULO 20.
+
+Manual de procedimientos, o de operación, es el instrumento que establece los mecanismos esenciales para el desempeño organizacional de las unidades administrativas del gobierno municipal por el cual se definen las actividades necesarias que deben desarrollar cada una de las áreas y dependencias municipales, su intervención en las diferentes etapas del proceso, sus responsabilidades y formas de participación. Es una guía de trabajo, que se complementa con diagramas, o cuadros.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2016)</small>
+
+###### ARTICULO 21.
+
+Los manuales de procedimientos, o de operación de los ayuntamientos deberán contener como mínimo:
+
+I. Portada;
+
+II. Índice;
+
+III. Introducción;
+
+IV. Objetivo del manual;
+
+V. Marco jurídico;
+
+VI. Denominación, y propósito del procedimiento;
+
+VII. Políticas de operación, normas y lineamientos;
+
+VIII. Descripción del procedimiento;
+
+IX. Diagrama de flujo;
+
+X. Documentos de referencia;
+
+XI. Registros;
+
+XII. Glosario, y
+
+XIII. Anexos.
+
+Una vez que sean aprobados, o autorizados, por el presidente municipal, los manuales de, organización; y de procedimientos, que contengan los requisitos señalados en los artículos 18, 19, 20 y 21, de la presente Ley, deberán mandarse publicar en el Periódico Oficial del Estado.
+
 ## TRANSITORIOS
 
 PRIMERO. Se abroga la Ley que Establece las Bases para la Emisión de Bandos de Policía y Gobierno, y Ordenamientos de los Municipios del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado en la edición extraordinaria del dos de febrero de dos mil dos, como Decreto Legislativo 271.
@@ -302,3 +410,13 @@ El Secretario General de Gobierno
 Lic. Marco Antonio Aranda Martínez
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0233.- SE ADICIONA LA LEY QUE ESTABLECE LAS BASES PARA LA EMISIÓN DE BANDOS DE POLICÍA Y GOBIERNO, Y ORDENAMIENTOS DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ Y SE REFORMA LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
