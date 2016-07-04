@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2016-06-15"
+last_updated: "2016-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -489,9 +489,11 @@ INTERVENCIÓN DEL ESTADO PARA PROTEGER A LA FAMILIA. El Gobierno del Estado de M
 
 Reconociéndose a la familia como el fundamento primordial de la sociedad y del Estado.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 22.
 
-BASES DE LA FAMILIA MORELENSE. La familia Morelense es una agrupación natural que tiene su fundamento en una relación, estable entre hombre y mujer y su plena realización en la filiación libre, consciente, responsable e informada, aceptada y dirigida por la pareja, unidas por el vínculo del parentesco, del matrimonio o del concubinato, a la que se le reconoce personalidad jurídica.
+BASES DE LA FAMILIA MORELENSE. La familia Morelense es una agrupación natural que tiene su fundamento en una relación, estable entre dos personas y su plena realización en la filiación libre, consciente, responsable e informada, aceptada y dirigida por la pareja, unidas por el vínculo del parentesco, del matrimonio o del concubinato, a la que se le reconoce personalidad jurídica.
 
 ###### ARTÍCULO 23.
 
@@ -521,11 +523,11 @@ CLASES DE PARENTESCO.- Este Código reconoce únicamente los parentescos de cons
 
 PARENTESCO POR CONSANGUINIDAD. El parentesco de consanguinidad es el que existe entre personas que descienden de un mismo progenitor, o el equivalente por adopción plena.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 28.
 
-PARENTESCO DE AFINIDAD. El parentesco de afinidad es el que se contrae por el matrimonio, entre el varón y los parientes consanguíneos de la mujer, y entre la mujer y los parientes consanguíneos del varón.
+PARENTESCO DE AFINIDAD. El parentesco de afinidad es el que se contrae por el matrimonio, es decir, entre un cónyuge y los parientes consanguíneos del otro.
 
 ###### ARTÍCULO 28 Bis.
 
@@ -825,9 +827,11 @@ V.- Datos del expediente o causa jurisdiccional de la que deriva su inscripción
 
 ### CAPÍTULO I. DEL CONCUBINATO Y DE LOS ESPONSALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 65.
 
-CONCUBINATO. Es la unión de hecho de un hombre y una mujer, ambos libres de matrimonio y sin impedimento para contraerlo, que viven de forma constante y permanente, generando derechos y obligaciones al procrear hijos o manteniendo la convivencia.
+CONCUBINATO. Es la unión de hecho de dos personas, ambas libres de matrimonio y sin impedimento para contraerlo, que viven de forma constante y permanente, generando derechos y obligaciones al procrear hijos o manteniendo la convivencia.
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
@@ -845,13 +849,11 @@ Para acreditar el concubinato, el Juez deberá tomar en consideración que los c
 
 GENERALIDADES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 68.
 
-NATURALEZA DEL MATRIMONIO. El matrimonio es la unión voluntaria y libre de un hombre y una mujer, con igualdad de derechos y obligaciones con la posibilidad de procreación de hijos y de ayudarse mutuamente. Cualquier condición contraria a estas finalidades se tendrá por no puesta.
-
-El vínculo matrimonial se extingue por la muerte o presunción de ésta de uno de los cónyuges, por divorcio o por declaración de nulidad.
+NATURALEZA DEL MATRIMONIO. El matrimonio es la unión voluntaria y libre de dos personas, con igualdad de derechos y obligaciones, con el propósito de desarrollar una comunidad de vida y ayudarse mutuamente. Cualquier condición contraria a estas finalidades se tendrá por no puesta. El vínculo matrimonial se extingue por la muerte o presunción de ésta de uno de los cónyuges, por divorcio o por declaración de nulidad.
 
 ###### ARTÍCULO 69.
 
@@ -861,17 +863,19 @@ SOLEMNIDAD DEL MATRIMONIO. El matrimonio debe celebrarse ante los funcionarios q
 
 ESTABLECIMIENTO DEL MATRIMONIO POR EL ESTADO. El Estado establece el matrimonio, como el medio reconocido por el Derecho, para crear una familia.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 71.
 
-PROTECCIÓN DEL ESTADO A LA INSTITUCIÓN DEL MATRIMONIO. El Estado protegerá la institución del matrimonio, por ser el fundamento de la familia y la conservación de la especie.
+PROTECCIÓN DEL ESTADO A LA INSTITUCIÓN DEL MATRIMONIO. El Estado protegerá la institución del matrimonio, por ser uno de los fundamentos de la familia.
 
 ### CAPÍTULO III. DE LOS REQUISITOS PARA CONTRAER MATRIMONIO
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 72.
 
-EDAD PARA CONTRAER MATRIMONIO. Para contraer matrimonio el varón y la mujer necesitan haber cumplido dieciocho años. El Juez de lo Familiar puede únicamente conceder dispensas de edad cuando ambos pretendientes comparezcan ante él de manera voluntaria, siempre que éstos hayan cumplido los dieciséis años de edad y cuenten con el respectivo consentimiento de quienes deban otorgarlo en términos del artículo 73 del presente código.
+EDAD PARA CONTRAER MATRIMONIO. Para contraer matrimonio los contrayentes necesitan haber cumplido dieciocho años. El Juez de lo Familiar puede únicamente conceder dispensas de edad cuando ambos pretendientes comparezcan ante él de manera voluntaria, siempre que éstos hayan cumplido los dieciséis años de edad y cuenten con el respectivo consentimiento de quienes deban otorgarlo en términos del artículo 73 del presente Código.
 
 ###### ARTÍCULO 73.
 
@@ -955,9 +959,9 @@ XVIII.- Las demás que señale este Código.
 
 IMPEDIMENTOS DISPENSABLES. Son impedimentos dispensables:
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2016)</small>
 
-I.- No tener la edad de 18 años el hombre y la mujer, si no han obtenido el consentimiento conforme a las reglas de los artículos 72 y 73 de este Código.
+I.- No tener la edad de 18 años los contrayentes, si no han obtenido el consentimiento conforme a las reglas de los artículos 72 y 73 de este Código.
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -1033,15 +1037,17 @@ En caso de desacuerdo el Juez de lo Familiar resolverá lo conducente.
 
 ACTIVIDADES LÍCITAS DE LOS CÓNYUGES. Los cónyuges podrán desempeñar cualquier actividad excepto las que dañen la moral de la familia o la estructura de ésta.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 91.
 
-CAPACIDAD DE LOS MAYORES DE EDAD CASADOS. El marido y la mujer mayores de edad tienen capacidad para administrar, contratar o disponer de sus bienes propios, ejercitar las pretensiones u oponer las defensas que a ellos corresponden sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta de la autorización de aquél, salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de los bienes.
+CAPACIDAD DE LOS MAYORES DE EDAD CASADOS. Los cónyuges mayores de edad tienen capacidad para administrar, contratar o disponer de sus bienes propios, ejercitar las pretensiones u oponer las defensas que a ellos corresponden sin que para tal objeto necesiten consentimiento, salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de los bienes. Si se ejercen las pretensiones civiles que tenga uno, contra el otro, la prescripción entre los consortes no corre mientras dure el matrimonio.
 
-Si se ejercen las pretensiones civiles que tenga uno, contra el otro, la prescripción entre los consortes no corre mientras dure el matrimonio.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 92.
 
-LIMITACIONES A LOS CONSORTES MENORES DE EDAD. El marido y la mujer menores de edad tendrán la administración de sus bienes, en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos.
+LIMITACIONES A LOS CÓNYUGES MENORES DE EDAD. Los cónyuges menores de edad tendrán la administración de sus bienes, en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos.
 
 ###### ARTÍCULO 93.
 
@@ -1233,21 +1239,27 @@ Serán también propios de cada uno de los consortes los salarios, sueldos, emol
 
 ADMINISTRACIÓN DE ALGUNOS BIENES ADQUIRIDOS POR LOS CONSORTES. Los bienes que los cónyuges adquieran en común por donación, herencia, legado, por título gratuito o por don de la fortuna, entretanto se hace la división, serán administrados por ambos o por uno de ellos con acuerdo del otro; pero en este caso, el que administre será considerado como mandatario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 122.
 
-SERVICIOS HONORÍFICOS ENTRE CÓNYUGES. Ni el marido podrá cobrar a la mujer ni ésta a aquél, retribución u honorario alguno por los servicios personales que le prestare, o por los consejos y asistencia que le diere.
+SERVICIOS HONORÍFICOS ENTRE CÓNYUGES. Los cónyuges no podrán cobrarse entre sí, retribución u honorario alguno por los servicios personales que se prestar en (sic) mutuamente, o por los consejos y asistencia que se diere (sic) entre sí.
 
 > <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2007)</small>
 
 En caso de que uno de los cónyuges se ausentara o estuviera impedido por alguna otra causa que no fuera originado por una enfermedad, el cónyuge que se encargare temporalmente de la administración de sus bienes, tendrá derecho a que se le retribuya por este servicio, en proporción a la actividad desarrollada.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 123.
 
-PARTICIPACIÓN DEL USUFRUCTO ENTRE CÓNYUGES. El marido y la mujer que ejerzan la patria potestad se dividirán entre sí, por partes iguales, la mitad del usufructo que la Ley les concede, correspondiendo la otra mitad del usufructo a los sujetos a la patria potestad.
+PARTICIPACIÓN DEL USUFRUCTO ENTRE CÓNYUGES. Los cónyuges que ejerzan la patria potestad se dividirán entre sí, por partes iguales, la mitad del usufructo que la Ley les concede, correspondiendo la otra mitad del usufructo a los sujetos a la patria potestad.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 124.
 
-RECIPROCIDAD CONYUGAL DE PAGO POR DAÑOS Y PERJUICIOS. El marido responde a la mujer y ésta a aquél de los daños y perjuicios que le cause por dolo, culpa o negligencia.
+RECIPROCIDAD CONYUGAL DE PAGO POR DAÑOS Y PERJUICIOS. Los cónyuges responden entre sí de los daños y perjuicios que le cause por dolo, culpa o negligencia.
 
 ### CAPÍTULO X. DE LAS DONACIONES ANTENUPCIALES
 
@@ -6360,3 +6372,11 @@ SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de 
 TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
 
 CUARTA. En un plazo no mayor a 120 días hábiles contados a partir del día siguiente al de la entrada en vigor del presente Decreto, deberán realizarse las modificaciones necesarias al Reglamento de la Ley del Registro Público de la Propiedad y del Comercio del Estado de Morelos y al Reglamento de la Ley del Notariado del Estado de Morelos y demás disposiciones jurídicas de igual o menor rango jerárquico normativo aplicable.
+
+P.O. 4 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS CINCUENTA Y SIETE POR EL QUE SE REFORMAN DISTINTAS DISPOSICIONES DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS Y DEL CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS PARA LA REGULACIÓN DE LA FIGURA JURÍDICA DEL MATRIMONIO ENTRE PERSONAS DEL MISMO SEXO”].
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos que indica el artículo 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
