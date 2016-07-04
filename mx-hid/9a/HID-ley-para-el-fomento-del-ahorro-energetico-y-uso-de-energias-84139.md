@@ -4,7 +4,7 @@ identifier: "HID-ley-para-el-fomento-del-ahorro-energetico-y-uso-de-energias-841
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2011-12-05"
+last_updated: "2016-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84139&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA EL FOMENTO DEL AHORRO ENERGÉTICO Y USO DE ENERGÍAS RENOVABLES DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2016.
 
 Ley publicada en Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -59,7 +59,7 @@ I.- Fomentar en el Estado la eficiencia energética y el aprovechamiento de las 
 
 II.- Establecer los mecanismos e instrumentos mediante los cuales el Estado y los Ayuntamientos apoyarán la investigación, desarrollo, innovación técnica y tecnológica para la aplicación generalizada de la eficiencia energética y las energías renovables en la Entidad; y
 
-III.- Regular la integración, estructura y funcionamiento de la Comisión Estatal de Fomento y Ahorro de Energía, denominado también “CEFAEN”.
+III.- (DEROGADA, P.O. 4 DE JULIO DE 2016)
 
 ###### Artículo 2.
 
@@ -68,6 +68,10 @@ Para los efectos de esta Ley se entenderá por:
 I.- Ahorro de Energía. La racionalización de los procesos y consumos energéticos, para aumentar la eficiencia de sus usos y evitar consumos innecesarios;
 
 II.- Autoabastecimiento. Corresponde a la acción que no constituye servicio público, en el que una persona física o moral genera energía para su propio consumo y de manera aislada;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2016)</small>
+
+II Bis.- Ayuntamientos. Órgano de Gobierno municipal a través del cual, el pueblo en ejercicio de su voluntad política, realiza la autogestión de los intereses de una comunidad;
 
 III.- Balance Estatal de Energía. Es el estudio referido al conjunto de relaciones de equilibrio dentro del territorio Estatal para el período de un año, la cuantificación de los flujos físicos del proceso de producción, intercambio, transformación y consumo final de energías renovables y no renovables; los recursos energéticos existentes y la evaluación potencial de energías renovables en el Estado;
 
@@ -81,7 +85,9 @@ VII.- Biomasa. Como recurso energético, es la materia orgánica de plantas y an
 
 VIII.- Cogeneración. Aprovechamiento doble de un combustible para proporcionar calor de proceso y generación energética, que no sea destinado al servicio público de energía eléctrica;
 
-IX.- Comisión. La Comisión Estatal de Fomento y Ahorro de Energía, denominado también “CEFAEN”;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2016)</small>
+
+IX.- Comisión. El órgano administrativo desconcentrado denominado Comisión Estatal de Fomento y Ahorro de Energía, subordinado a la Secretaría de Planeación, Desarrollo Regional y Metropolitano;
 
 X.- Diversificación Energética. El aprovechamiento integral de los recursos energéticos primarios disponibles, enfatizando la utilización de las energías renovables;
 
@@ -97,9 +103,13 @@ XV.- Geotermia. Es el calor de origen geológico que proviene del magma del inte
 
 XVI.- Ley. Ley para el Fomento del Ahorro Energético y uso de Energías Renovables;
 
-XVII.- Programa Estatal. El Programa Estatal de Energías Renovables;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2016)</small>
 
-XVIII.- Secretaría. La Secretaría de Desarrollo Económico; y
+XVII.- Programa Estatal. El Programa Estatal de Desarrollo Energético Sustentable;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2016)</small>
+
+XVIII.- Secretaría. La Secretaría de Planeación, Desarrollo Regional y Metropolitano; y
 
 XIX.- Transición Energética. Conversión de la generación de energía con recursos no renovables por renovables.
 
@@ -113,7 +123,7 @@ I.- La Secretaría;
 
 II.- Los Ayuntamientos; y
 
-III.- La Comisión.
+III.- (DEROGADA, P.O. 4 DE JULIO DE 2016)
 
 ###### Artículo 4.
 
@@ -123,7 +133,9 @@ I.- Proponer la política estatal para el fomento de la eficiencia energética y
 
 II.- Proponer la previsión de los recursos necesarios para la promoción de la eficiencia energética y las energías renovables en la Entidad, para que sean contemplados en el proyecto de presupuesto de egresos del Gobierno del Estado de Hidalgo, para el ejercicio fiscal que corresponda;
 
-III.- Aprobar el Programa Estatal de Energías Renovables; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2016)</small>
+
+III.- Elaborar el Programa Estatal; y
 
 IV.- Las demás que en esta materia le otorguen esta Ley u otros ordenamientos.
 
@@ -153,211 +165,133 @@ VII.- Las demás que le otorgue esta Ley u otros ordenamientos.
 
 #### SECCIÓN I. DEL OBJETO Y ATRIBUCIONES DE LA COMISIÓN
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2016)</small>
+
 ###### Artículo 7.
 
-La COMISION ESTATAL DE FOMENTO Y AHORRO DE ENERGIA, denominado también “CEFAEN”, es un Organismo Descentralizado de la Administración Pública del Estado de Hidalgo, con personalidad jurídica y patrimonio propios y con domicilio en la ciudad de Pachuca de Soto, Hidalgo; sin detrimento de establecer Unidades Administrativas en otros municipios.
+Se crea a la Comisión Estatal de Fomento y Ahorro de Energía como un órgano administrativo desconcentrado subordinado a la Secretaría; tendrá por objeto fomentar la generación de energía, a través de fuentes alternas y asegurar la aplicación de programas de ahorro mediante la planeación, promoción, desarrollo y fomento de proyectos industriales, comerciales, de distribución, abasto y de vivienda.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2016)</small>
 
 ###### Artículo 8.
 
-La Comisión tendrá por objeto fomentar la generación de energía, a través de fuentes alternas y asegurar la aplicación de programas de ahorro mediante la planeación, promoción, desarrollo y fomento de proyectos industriales, comerciales, de distribución, abasto y de vivienda.
+La Comisión, para el cumplimiento de su objeto, tendrá las siguientes atribuciones:
 
-Para el cumplimiento de su objeto, el Organismo tendrá las siguientes atribuciones:
+I. Impulsar, en coordinación con el sector eléctrico, con los distintos niveles de Gobierno y con particulares, la formalización de acuerdos para el mejoramiento y conservación de la infraestructura eléctrica del Estado;
 
-I.- Impulsar, en coordinación con el Organismo del sector eléctrico, los distintos niveles de Gobierno y con particulares, la formalización de acuerdos para el mejoramiento y conservación de la infraestructura eléctrica del Estado;
+II. Proponer al Ejecutivo del Estado la celebración de convenios de colaboración y coordinación con institutos de investigación, instituciones académicas y los sectores empresarial y gubernamental, así como con Entidades Paraestatales del Gobierno Federal;
 
-II.- Celebrar convenios de colaboración y coordinación con institutos de investigación, instituciones académicas y los sectores empresarial y gubernamental, así como con Entidades Paraestatales del Gobierno Federal;
+III. Proponer a la Secretaría, en congruencia con el Plan Estatal de Desarrollo, los programas, las políticas y las prioridades relativas al desarrollo tecnológico del sistema energético del Estado;
 
-III.- Establecer, en congruencia con el Plan Estatal de Desarrollo los programas, las políticas y las prioridades relativas al desarrollo tecnológico del sistema energético del Estado;
+IV. Proponer al Ejecutivo del Estado la creación de comités o subcomités técnicos especializados, para la evaluación de proyectos de inversión y de investigación en materia de energía en el Estado;
 
-IV.- Proponer la creación de comités o subcomités técnicos especializados, para la evaluación de proyectos de inversión y de investigación en materia de Energía en el Estado;
+V. Promover, impulsar y participar con el sector eléctrico en la formulación de programas y proyectos, para incrementar la infraestructura eléctrica del Estado, a fin de satisfacer la demanda del aparato productivo y las necesidades prioritarias de la población;
 
-V.- Promover, impulsar y participar con el sector eléctrico en la formulación de programas y proyectos, para incrementar la infraestructura eléctrica del Estado, a fin de satisfacer la demanda del aparato productivo y las necesidades prioritarias de la población;
+VI. Establecer y coordinar mecanismos permanentes de Participación Estatal y Municipal, así como generar acuerdos con los representantes de los sectores social y privado, con el fin de emprender acciones que fortalezcan el ahorro y uso eficiente de energía;
 
-VI.- Establecer y coordinar mecanismos permanentes de Participación Estatal y Municipal, así como generar acuerdos con los representantes de los sectores social y privado, con el fin de emprender acciones que fortalezcan el ahorro y uso eficiente de energía;
+VII. Promover e impulsar en los Ayuntamientos, proyectos que permitan el ahorro energético, uso y generación de energías renovables;
 
-VII.- Promover e impulsar en los municipios, proyectos que permitan el ahorro energético, uso y generación de energías renovables;
+VIII. Asesorar a los Ayuntamientos en la elaboración de sus programas y proyectos, en materia de ahorro de energía;
 
-VIII.- Asesorar a los Gobiernos Municipales en la elaboración de sus programas y proyectos, en materia de ahorro de energía;
+IX. Impulsar, fomentar y difundir los estudios relacionados con la utilización de fuentes alternas de energía, así como la aplicación de tecnologías para el ahorro así como el uso racional y eficiente de energía;
 
-IX.- Impulsar, fomentar y difundir los estudios relacionados con la utilización de fuentes alternas de energía, así como la aplicación de tecnologías para el ahorro así como el uso racional y eficiente de energía;
+X. Promover e impulsar en las distintas ramas del sector productivo, proyectos innovadores para la instalación de fuentes alternas de energía, sustentables y económicamente viables;
 
-X.- Promover e impulsar en las distintas ramas del sector productivo, proyectos innovadores para la instalación de fuentes alternas de energía, sustentables y económicamente viables;
+XI. Fungir como un órgano técnico rector de las Dependencias y Entidades de la Administración Pública Estatal, a fin de supervisar y aprobar los proyectos en materia de ahorro y uso eficiente de energía, así como de los proyectos inherentes al alumbrado público, iluminación y generación de energía eléctrica a través de paneles solares.
 
-XI.- Fungir como órgano técnico de consulta y asesoría de las Dependencias y Entidades de la Administración Pública Estatal, Ayuntamientos y particulares cuando así lo soliciten, en materia de ahorro y uso eficiente de energía eléctrica;
+Aquellos municipios que no cuenten con marco normativo en la materia, deberán someter a la aprobación de dicho órgano técnico, sus proyectos de ahorro y uso eficiente de energía eléctrica.
 
-XII.- Celebrar con la Federación, Estados y Municipios, los convenios y acuerdos que se requieran para el cumplimiento del objeto del Organismo;
+Asimismo, fungir como órgano técnico de consulta y asesoría a particulares que así lo soliciten, en materia de ahorro y uso eficiente de energía eléctrica;
 
-XIII.- Difundir el conocimiento de la Ley del Servicio Público de Energía Eléctrica y su Reglamento, así como el de la presente Ley, en los diferentes ámbitos de competencia; y
+XII. Participar en los convenios y acuerdos que celebre el Ejecutivo del Estado con la Federación, Estados y Municipios que se requieran para el cumplimiento del objeto de la Ley;
 
-XIV.- Las demás que señale la Ley y demás disposiciones aplicables.
+XIII. Difundir las disposiciones de la presente Ley y demás normatividad en la materia dentro los diferentes ámbitos de competencia; y
+
+XIV. Las demás que señale esta Ley y demás normatividad aplicable.
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE JULIO DE 2016)</small>
 
 #### SECCIÓN II. ÓRGANOS DE ADMINISTRACIÓN
 
 ###### Artículo 9.
 
-La Administración de la Comisión estará a cargo de:
-
-I.- La Junta de Gobierno; y
-
-II.- La Dirección General
+(DEROGADO, P.O. 4 DE JULIO DE 2016)
 
 ###### Artículo 10.
 
-La Junta de Gobierno es el Órgano Supremo de la Comisión y estará integrada por:
-
-I.- Un Presidente, que será el Gobernador del Estado;
-
-II.- El Secretario de Desarrollo Económico;
-
-III.- El Secretario de Finanzas y Administración;
-
-IV.- El Secretario de Obras Públicas y Ordenamiento Territorial;
-
-V.- El Secretario de Planeación, Desarrollo Regional y Metropolitano;
-
-VI.- El Secretario de Contraloría y Transparencia Gubernamental;
-
-VII.- El Director General de la Comisión Estatal del Agua;
-
-VIII.- Un Representante de la Secretaría de Energía;
-
-IX.- Un Representante de la Comisión Nacional para el Ahorro de Energía; y
-
-X.- El Delegado Estatal del Banco Nacional de Obras y Servicios Públicos.
-
-Por cada miembro propietario habrá un suplente, con nivel de Director General como mínimo, quien será designado por el Titular y contará con las facultades de los propietarios, en caso de ausencia de éstos.
+(DEROGADO, P.O. 4 DE JULIO DE 2016)
 
 ###### Artículo 11.
 
-Las sesiones que celebre la Junta de Gobierno podrán ser ordinarias o extraordinarias. Las sesiones ordinarias se llevarán a cabo cuando menos cuatro veces al año en forma trimestral y las extraordinarias las veces que sean necesarias. Serán válidas las sesiones cuando se encuentren presentes la mayoría de sus miembros. En caso de ausencia del Presidente, la sesión será presidida por su suplente. El Presidente o quien presida la sesión tendrá voto de calidad en caso de empate. En la primera sesión del año, el Director General presentará a la Junta de Gobierno el calendario de sesiones ordinarias, teniendo el Presidente, facultad para convocar a los demás miembros a la celebración de sesiones extraordinarias.
-
-Los acuerdos serán tomados por mayoría de votos de los miembros presentes. De cada sesión se levantará acta circunstanciada, misma que será firmada por los asistentes. El Director General del Organismo asistirá a las sesiones con voz pero sin voto. Podrán integrarse a las sesiones de la Junta de Gobierno con carácter de invitados a los Delegados en el Estado u otros servidores públicos de las Dependencias y Entidades de la Administración Pública Federal, que tengan a su cargo acciones en materia de energía, en general a todos aquellos que se estime que con sus opiniones puedan coadyuvar a la mejor realización de la función del Organismo, con voz pero sin voto.
+(DEROGADO, P.O. 4 DE JULIO DE 2016)
 
 ###### Artículo 12.
 
-La Junta de Gobierno tendrá las siguientes facultades y obligaciones:
+(DEROGADO, P.O. 4 DE JULIO DE 2016)
 
-I.- Establecer, en congruencia con el Plan Estatal de Desarrollo y el Programa Estatal de Energías Renovables, las políticas generales del Organismo, las prioridades relativas a capacitación, producción, productividad, finanzas, investigación, desarrollo tecnológico y administración general de la “CEFAEN”;
-
-II.- Aprobar el Presupuesto Financiero de Mediano Plazo, el Programa Operativo Anual y, en su caso, sus modificaciones, así como el presupuesto de ingresos y egresos del Organismo. Lo anterior sujetándose a las disposiciones legales aplicables, al Plan Estatal de Desarrollo, al Programa Estatal de Energías Renovables y a las asignaciones de ingresos, egresos y financiamiento autorizados;
-
-III.- Aprobar de acuerdo con las Leyes y Reglamentos aplicables, las bases y programas generales que regulen los convenios, contratos, o acuerdos que deba celebrar el Organismo con terceros en obras públicas. El Director General y en su caso, los servidores públicos que deban de intervenir de conformidad con el Estatuto Orgánico, realizarán tales actos bajo su responsabilidad con sujeción a las directrices fijadas por la Junta de Gobierno;
-
-IV.- Aprobar la concertación de los créditos para el financiamiento del Organismo, así como observar los lineamientos que dicten las autoridades competentes en materia de manejo de disponibilidad financiera;
-
-V.- Expedir las normas o bases generales con arreglo a las cuales, cuando fuere necesario, el Director General pueda disponer de los activos fijos del Organismo que no correspondan a las operaciones propias del objeto del mismo;
-
-VI.- Aprobar anualmente, previo informe del Comisario y el dictamen del auditor externo, los estados financieros del Organismo y autorizar su publicación;
-
-VII.- Aprobar y expedir el Estatuto Orgánico de la CEFAEN y sus modificaciones;
-
-VIII.- Aprobar la estructura básica del Organismo y sus modificaciones y nombrar o remover, a propuesta del Director General, a los servidores públicos que ocupen cargos con las dos jerarquías administrativas inmediatamente inferiores a las de aquél, en los términos que señale el Estatuto Orgánico;
-
-IX.- Autorizar a propuesta del Presidente y cuando menos de la tercera parte de sus miembros, la creación de comités especializados para apoyar la programación estratégica y la supervisión de la marcha normal del Organismo;
-
-X.- Aprobar conforme a la Ley, la constitución de reservas y aplicación de adelantos tecnológicos que permitan elevar la productividad y eficiencia;
-
-XI.- Analizar y aprobar, en su caso, los informes periódicos que rinda el Director General, con la intervención que corresponda al Comisario;
-
-XII.- Aprobar los manuales de organización, procedimientos y de servicios al público del Organismo; y
-
-XIII.- Las demás que le confiera la presente Ley y disposiciones aplicables.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 4 DE JULIO DE 2016)</small>
 
 #### SECCIÓN III. DE LA DIRECCIÓN GENERAL
 
 ###### Artículo 13.
 
-El Director General, será designado y en su caso, removido libremente por el Gobernador del Estado.
+(DEROGADO, P.O. 4 DE JULIO DE 2016)
 
-El Director General tendrá las facultades y obligaciones siguientes:
-
-I.- Representar legalmente al Organismo y llevar a cabo todos los actos jurídicos necesarios para el cumplimiento de sus obligaciones de acuerdo con los lineamientos que establezca la Junta de Gobierno, formular querellas y otorgar el perdón legal, ejecutar y desistirse de acciones judiciales e inclusive del juicio de amparo y delegar dicha representación, otorgando, sustituyendo y revocando para tal efecto, poderes notariales generales o especiales con las facultades que le competen, entre ellas las que requieran cláusula especial;
-
-II.- Llevar a cabo los actos de administración, de dominio, para pleitos y cobranzas, emitir, avalar y negociar títulos de crédito; así como obligar al Organismo cambiariamente, con todas las facultades que requieran cláusula especial conforme a la Ley y sustituir y delegar esta representación en uno o más apoderados para que las ejerzan individual o conjuntamente;
-
-III.- Comprometer asuntos en arbitraje y realizar transacciones comerciales financieras, con la autorización de la Junta de Gobierno;
-
-IV.- Formular el Programa Estatal de Energías Renovables, así como el Programa Operativo Anual del Organismo y presentarlos para su aprobación a la Junta de Gobierno;
-
-V.- Presentar para su aprobación a la Junta de Gobierno el Estatuto Orgánico de la CEFAEN;
-
-VI.- Elaborar los manuales de organización, procedimientos y de servicios al público del Organismo y presentarlos a la Junta de Gobierno para su aprobación;
-
-VII.- Establecer los métodos que permitan el óptimo aprovechamiento de los bienes muebles e inmuebles del Organismo;
-
-VIII.- Proponer a la Junta de Gobierno el nombramiento o la remoción de los servidores públicos del Organismo, de los dos niveles inmediatos inferiores al Director General y designar al resto del personal del mismo, conforme a las asignaciones globales del presupuesto y de gasto corriente aprobado por la Junta de Gobierno;
-
-IX.- Recabar información y elementos estadísticos que reflejen el cumplimiento del objeto de la Entidad para así poder mejorar la gestión de la misma;
-
-X.- Establecer los sistemas de seguimiento y control necesarios para alcanzar las metas u objetivos propuestos;
-
-XI.- Presentar anualmente a la Junta de Gobierno el informe del desempeño de las actividades del Organismo; incluidos los estados financieros correspondientes;
-
-XII.- Establecer los mecanismos de evaluación que destaquen la eficiencia y eficacia con que se desempeña el Organismo y presentar a la Junta de Gobierno, por lo menos dos veces al año, la evaluación de gestión con el detalle que previamente se acuerde con la propia Junta y escuchando al Comisario, tomando las acciones correspondientes para corregir las deficiencias que se detectaren;
-
-XIII.- Ejecutar las disposiciones generales y acuerdos de la Junta de Gobierno;
-
-XIV.- Dirigir el desarrollo de las actividades técnicas, administrativas y de control del Organismo y dictar los acuerdos tendientes a dicho fin;
-
-XV.- Establecer y conservar actualizados los procedimientos, sistemas y aplicación de los servicios del Organismo.
-
-XVI.- Crear indicadores de calidad, de gestión y de desempeño que permitan medir los objetivos alcanzados y la manera en que las estrategias básicas sean cumplidas, atendiendo los informes que en materia de control de auditoría le sean turnados y vigilando la implantación de las medidas correctivas a que hubiere lugar;
-
-XVII.- Representar al Gobierno del Estado ante el organismo suministrador de energía eléctrica y los relacionados con su ahorro y uso eficiente; y
-
-XIX.- Las demás que sean necesarias para el cumplimiento del objeto del Organismo y las que le sean asignadas por la Junta de Gobierno, la Ley y las disposiciones legales aplicables.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 4 DE JULIO DE 2016)</small>
 
 #### SECCIÓN IV. DEL PATRIMONIO DE LA COMISIÓN
 
 ###### Artículo 14.
 
-El Patrimonio de la Comisión se integra con:
+(DEROGADO, P.O. 4 DE JULIO DE 2016)
 
-I.- Los ingresos que pudiera obtener por la prestación de servicios, productos o aprovechamientos en cumplimiento de su objeto;
-
-II.- Las aportaciones, participaciones, subsidios y apoyos que le otorguen las Dependencias y Entidades de los Gobiernos Federal, Estatal y Municipales y en general las personas físicas y morales para el cumplimiento de su objeto;
-
-III.- Los legados y donaciones otorgadas en su favor y los fideicomisos en los que se le señale como fideicomisario;
-
-IV.- Los bienes muebles e inmuebles de su propiedad y los que adquiera por cualquier título legal; y
-
-V.- Las utilidades, dividendos, intereses, rendimientos y en general todo ingreso que pudiera adquirir por cualquier título legal.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE JULIO DE 2016)</small>
 
 #### SECCIÓN V. DE LA VIGILANCIA DE LA COMISIÓN
 
 ###### Artículo 15.
 
-La vigilancia de la Comisión estará a cargo de un Comisario Propietario, designado por la Secretaría de Contraloría y Transparencia Gubernamental, lo anterior sin perjuicio de que el Organismo integre en su estructura su propio Órgano Interno de Control.
+(DEROGADO, P.O. 4 DE JULIO DE 2016)
 
 ###### Artículo 16.
 
-El Comisario, evaluará el desempeño general y por funciones del Organismo, realizará estudios sobre la eficiencia con la que ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y en general, solicitará la información para efectuar los actos que requiera el adecuado cumplimiento de sus funciones sin perjuicio de las tareas que la Secretaría de Contraloría y Transparencia Gubernamental le asigne de conformidad con la Ley. Para el adecuado cumplimiento de sus funciones la Junta de Gobierno y el Director General deberán proporcionar la información que le solicite el Comisario.
+(DEROGADO, P.O. 4 DE JULIO DE 2016)
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 4 DE JULIO DE 2016)</small>
 
 #### SECCIÓN VI. DE LAS RELACIONES LABORALES DE LA COMISIÓN
 
 ###### Artículo 17.
 
-Las relaciones de trabajo entre la Comisión y su personal de base se regirán por la Ley de los Trabajadores al Servicio de los Gobiernos Estatal y Municipales así como de los Organismos Descentralizados del Estado de Hidalgo.
+(DEROGADO, P.O. 4 DE JULIO DE 2016)
 
-#### SECCIÓN VII. DEL PROGRAMA ESTATAL DE ENERGÍAS RENOVABLES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE JULIO DE 2016)</small>
+
+#### SECCIÓN VII. DEL PROGRAMA ESTATAL DE DESARROLLO ENERGÉTICO SUSTENTABLE
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2016)</small>
 
 ###### Artículo 18.
 
-Para la elaboración, ejecución y evaluación del Programa Estatal de Energías Renovables, participarán, de acuerdo a las atribuciones correspondientes, los sectores públicos federal, estatal, municipal, y los sectores social y privado, y tendrá como objetivos:
+Para la elaboración, ejecución y evaluación del Programa Estatal, participarán, de acuerdo a las atribuciones correspondientes, los sectores públicos federal, estatal, municipal, y los sectores social y privado, y tendrá como objetivos:
 
 I.- Fijar las políticas para el desarrollo integral y sostenible de las actividades para el fomento del ahorro energético, la eficiencia energética y el uso de las energías renovables en el Estado;
 
 II.- Determinar los objetivos y metas que orientarán las acciones de planeación y programación de las actividades de fomento de la eficiencia energética y las energías renovables en el Estado;
 
-III.- Establecer los mecanismos de coordinación y concertación con los ayuntamientos de los municipios del Estado, el Gobierno Federal y con los sectores privado y social, a fin de lograr su participación en la ejecución del Programa Estatal de Energías Renovables;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2016)</small>
+
+III.- Establecer los mecanismos de coordinación y concertación con los ayuntamientos de los municipios del Estado, el Gobierno Federal y con los sectores privado y social, a fin de lograr su participación en la ejecución del Programa Estatal;
 
 IV.- Valorar el potencial de las actividades en materia de eficiencia energética, producción y consumo de energías renovables y no renovables; y
 
 V.- Determinar los parámetros de estructura, financieros y operativos para el desarrollo de los proyectos y subprogramas establecidos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2016)</small>
+
 ###### Artículo 19.
 
-El Programa Estatal de Energías Renovables contendrá por lo menos los siguientes aspectos:
+El Programa Estatal contendrá por lo menos los siguientes aspectos:
 
 I.- Diagnóstico de los principales problemas en materia de eficiencia energética y de energías renovables en el Estado y en los municipios;
 
@@ -373,7 +307,9 @@ VI.- Objetivos, estrategias y líneas de acción;
 
 VII.- Proyectos y lineamientos como medidas de aplicación;
 
-VIII.- Mecanismos para la ejecución de las acciones previstas en el Programa Estatal de Energías Renovables;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2016)</small>
+
+VIII.- Mecanismos para la ejecución de las acciones previstas en el Programa Estatal;
 
 IX.- Indicadores de desempeño; y
 
@@ -401,9 +337,11 @@ Los Poderes Legislativo, Ejecutivo y Judicial, así como los Gobiernos Municipal
 
 #### SECCIÓN II. DE LA APLICACIÓN DE LAS FUENTES RENOVABLES DE ENERGÍA EN ACTIVIDADES ECONÓMICAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2016)</small>
+
 ###### Artículo 22.
 
-En aplicación de las fuentes renovables de energía en las actividades económicas, la Comisión, podrá:
+En la aplicación de las fuentes renovables de energía en las actividades económicas, la Secretaría a través de la Comisión, podrá:
 
 I.- Establecer programas de apoyo específico para el desarrollo de la industria, relacionada con la generación de energía, a través de fuentes renovables;
 
@@ -413,9 +351,11 @@ III.- Elaborar un catálogo con las principales empresas relacionadas con el mer
 
 #### SECCIÓN III. DE LAS FUENTES RENOVABLES DE ENERGÍA EN LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2016)</small>
+
 ###### Artículo 23.
 
-En la aplicación de las fuentes renovables de energía en materia de investigación científica y tecnológica, la Comisión, podrá:
+En la aplicación de las fuentes renovables de energía en materia de investigación científica y tecnológica, la Secretaría a través de la Comisión, podrá:
 
 I.- Establecer un Programa para el desarrollo tecnológico y aprovechamiento de las fuentes renovables de energía en proyectos de alto impacto social y económico;
 
@@ -425,9 +365,11 @@ III.- Establecer un Programa para la formación de recursos humanos relacionados
 
 #### SECCIÓN IV. DE LAS FUENTES RENOVABLES DE ENERGÍA EN LA PROTECCIÓN Y PRESERVACIÓN DEL AMBIENTE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2016)</small>
+
 ###### Artículo 24.
 
-En la aplicación de las fuentes renovables de energía en la protección y preservación del medio ambiente, la Comisión, podrá:
+En la aplicación de las fuentes renovables de energía en la protección y preservación del medio ambiente, la Secretaría a través de la Comisión, podrá:
 
 I.- Establecer, con apego a normas oficiales, los lineamientos para utilizar energías renovables en actividades industriales, con el propósito de mitigar emisiones contaminantes y sus efectos nocivos en el medio ambiente;
 
@@ -439,9 +381,11 @@ IV.- Diseñar programas para la utilización de las fuentes renovables de energ�
 
 #### SECCIÓN V. DE LAS FUENTES RENOVABLES DE ENERGÍA EN EL DESARROLLO SOCIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2016)</small>
+
 ###### Artículo 25.
 
-En la aplicación de las fuentes renovables de energía en el desarrollo social, la Comisión, podrá:
+En la aplicación de las fuentes renovables de energía en el desarrollo social, la Secretaría a través de la Comisión, podrá:
 
 I.- Asesorar al Gobierno del Estado, los Municipios, en la planeación y diseño de centros de población y de desarrollo industrial, comercial y de servicios considerando el uso de las fuentes de energía renovable, para permitir la convivencia armónica del ser humano con el medio ambiente;
 
@@ -453,17 +397,21 @@ IV.- Proponer a los Municipios, la adecuación de sus reglamentos en materia de 
 
 V.- Proponer al Estado y a los Municipios, la aplicación de energía renovable en monumentos, parques urbanos, comunidades rurales y otros elementos que condicionen el equilibrio ecológico.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2016)</small>
+
 ###### Artículo 26.
 
-El Estado y los Municipios, a través de la Comisión, deberán asegurar la participación de las comunidades locales, regionales y de los grupos e individuos interesados, en el seguimiento de los proyectos que empleen fuentes de energía renovable, mediante reuniones y consultas públicas convocadas por las autoridades competentes, además de cualquier otro método que garantice el cumplimiento de los compromisos del proyecto con la sociedad en todo caso se procurará lograr el mayor beneficio social.
+El Estado y los Municipios, deberán asegurar la participación de las comunidades locales, regionales y de los grupos e individuos interesados, en el seguimiento de los proyectos que empleen fuentes de energía renovable, mediante reuniones y consultas públicas convocadas por las autoridades competentes, además de cualquier otro método que garantice el cumplimiento de los compromisos del proyecto con la sociedad en todo caso se procurará lograr el mayor beneficio social.
 
 ### CAPÍTULO V. DE LA ENERGÍA SOLAR Y EÓLICA
 
 #### SECCIÓN I. DE LA APLICACIÓN DE LA ENERGIA SOLAR EN LA VIVIENDA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2016)</small>
+
 ###### Artículo 27.
 
-La Comisión, elaborará las normas técnicas para la construcción de vivienda que considere la utilización de eco-técnicas y de ingeniería ambiental, así como de aprovechamiento de fuentes alternas de energía, para lo cual deberá considerar los siguientes aspectos:
+La Secretaría elaborará las normas técnicas para la construcción de vivienda que considere la utilización de eco-técnicas y de ingeniería ambiental, así como de aprovechamiento de fuentes alternas de energía, para lo cual deberá considerar los siguientes aspectos:
 
 I.- El aprovechamiento de la energía solar en calentadores de agua;
 
@@ -531,9 +479,11 @@ En el proceso de entrega de los fraccionamientos, quedará sujeto a la realizaci
 
 A las personas físicas o morales que aprovechen la energía eólica, les será aplicable, en lo conducente, la regulación relacionada con el derecho para el aprovechamiento de la energía solar en lo que resulte aplicable de acuerdo con esta Ley.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2016)</small>
+
 ###### Artículo 34.
 
-La Comisión establecerá un programa de fomento para instalar Parques Eoloeléctricos en el Estado, que incluirá la definición para la celebración de los convenios entre los desarrolladores con los propietarios o poseedores de predios.
+La Secretaría formulará un programa de fomento para instalar Parques Eoloeléctricos en el Estado, que incluirá la definición para la celebración de los convenios entre los desarrolladores con los propietarios o poseedores de predios.
 
 ###### Artículo 35.
 
@@ -547,9 +497,11 @@ Los permisos una vez otorgados no podrán ser revocados, sin previa audiencia de
 
 #### SECCIÓN I. DEL RÉGIMEN LEGAL DE EXPLOTACIÓN DE LA BIOMASA MUNICIPAL COMO FUENTE DE ENERGÍA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2016)</small>
+
 ###### Artículo 36.
 
-Como una de las formas de reuso de los residuos orgánicos municipales, la Comisión establecerá el Programa para el Aprovechamiento de la Biomasa Municipal para fines energéticos.
+Como una de las formas de reuso de los residuos orgánicos municipales, la Secretaría formulará el Programa para el Aprovechamiento de la Biomasa Municipal para fines energéticos.
 
 Dentro del referido programa deberá contemplarse lo siguiente:
 
@@ -607,9 +559,11 @@ VI.- Calefacción.
 
 #### SECCIÓN I. DEL FOMENTO DE LA DIVERSIFICACIÓN ENERGÉTICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2016)</small>
+
 ###### Artículo 41.
 
-La Comisión deberá establecer un programa para promover los sistemas de cogeneración y autoabastecimiento entre el sector privado en el Estado, siempre que no sea destinado al servicio público de energía eléctrica, de acuerdo con las siguientes modalidades:
+La Secretaría deberá formular un programa para promover los sistemas de cogeneración y autoabastecimiento entre el sector privado en el Estado, siempre que no sea destinado al servicio público de energía eléctrica, de acuerdo con las siguientes modalidades:
 
 I.- Generación y consumo en el mismo sitio;
 
@@ -653,37 +607,21 @@ VIII.- Definición de los criterios generales y técnicos para una morfología u
 
 IX.- Definición de los criterios generales y técnicos para una tipología arquitectónica de acuerdo a los géneros de edificios.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2016)</small>
+
 ### CAPÍTULO VIII. DEL FONDO
 
 ###### Artículo 45.
 
-El Ejecutivo Estatal creará un Fondo anual, con el fin de garantizar la instrumentación de los programas y subprogramas derivados del Programa Estatal de Energías Renovables. Dicho Fondo será operado por la Comisión.
-
-Los recursos del Fondo podrán provenir, entre otras, de las siguientes fuentes:
-
-I.- Por una partida específica del Presupuesto de Egresos del Estado, debiendo ser ésta mayor a la autorizada en el presupuesto del ejercicio fiscal inmediato anterior, conforme a la disponibilidad presupuestal del Estado;
-
-II.- Aportaciones de los municipios;
-
-III.- Aportaciones voluntarias de personas físicas o morales; y
-
-IV.- Aportaciones de organizaciones de cooperación o investigación.
+(DEROGADO, P.O. 4 DE JULIO DE 2016)
 
 ###### Artículo 46.
 
-Para tener acceso a los recursos del Fondo, los proyectos deberán cumplir con los requisitos que para ese efecto se contemplen en las reglas de operación que emita la Comisión.
+(DEROGADO, P.O. 4 DE JULIO DE 2016)
 
 ###### Artículo 47.
 
-Los recursos del Fondo, apoyarán la eficiencia energética y el fomento de las energías renovables a través de:
-
-I.- Incentivar la generación de electricidad en conexión con las redes del Sistema Eléctrico Nacional por parte del Suministrador, dando prioridad a las empresas del estado principalmente a pequeñas y medianas empresas, destinada para su venta a dicha entidad paraestatal;
-
-II.- Apoyar el desarrollo de tecnologías para el aprovechamiento de las fuentes renovables de energía, con fines de diversidad energética y desarrollo industrial;
-
-III.- Incentivar los proyectos de autoabastecimiento, cogeneración o pequeña producción, que a partir de fuentes renovables provean energía eléctrica a comunidades aisladas y de bajos recursos que no cuenten con este servicio, siempre y cuando no sean destinados al servicio público de energía eléctrica. Dichos proyectos podrán estar aislados de las redes eléctricas o en conexión con las mismas; y
-
-IV.- Apoyar el desarrollo de las aplicaciones distintas a la generación eléctrica de las fuentes renovables de energía, tales como la utilización de la energía solar, energía eólica, ahorro de energía en edificaciones, entre otras, procurando siempre que las acciones en materia de eficiencia energética y energías renovables, contribuyan a la conservación de un ambiente limpio.
+(DEROGADO, P.O. 4 DE JULIO DE 2016)
 
 ## TRANSITORIOS
 
@@ -732,3 +670,29 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 670 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA EL FOMENTO DEL AHORRO ENERGÉTICO Y USO DE ENERGÍAS RENOVABLES DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado de Hidalgo y entrará en vigor el 1° de julio del 2016.
+
+SEGUNDO. Se extingue el Organismo Descentralizado denominado Comisión Estatal de Fomento y Ahorro de Energía. No obstante, la Junta de Gobierno de ese Organismo, quedará desinstalada una vez que apruebe la Evaluación Programática Presupuestal, el estado del Ejercicio del Presupuesto y los Estados Financieros del Ejercicio Fiscal 2016, conforme a la legislación y normatividad aplicables.
+
+TERCERO. Los recursos presupuestales, financieros y materiales propiedad de la extinta Comisión Estatal de Fomento y Ahorro de Energía, cualquiera que sea su origen, serán incorporados al Estado de Hidalgo, para que a través de la Secretaría de Finanzas y Administración, sean reasignados a la Secretaría de Planeación, Desarrollo Regional y Metropolitano, para continuar con los proyectos, obras y acciones en materia energética.
+
+CUARTO. El Estado de Hidalgo, a través de la Secretaría de Planeación, Desarrollo Regional y Metropolitano, asumirá los derechos y obligaciones que se deriven de los convenios, contratos y cualquier acto jurídico o administrativo que haya celebrado la extinta Comisión Estatal de Fomento y Ahorro de Energía.
+
+QUINTO. En un plazo no mayor a 60 días a partir de la entrada en vigor del presente Decreto, la Secretaría de Planeación, Desarrollo Regional y Metropolitano deberá adecuar su reglamento interior, a fin de incluir a la Comisión Estatal de Fomento y Ahorro de Energía como un órgano administrativo desconcentrado, subordinado a esa Secretaria, atendiendo a la normatividad aplicable.
+
+SEXTO. La Secretaría de Planeación, Desarrollo Regional y Metropolitano, a través del titular de la Dirección General de Administración, en su carácter de liquidador, tendrá las facultades enunciadas en el artículo 42 del Reglamento de la Ley de Entidades Paraestatales del Estado de Hidalgo y contará con la facultad jurídica para presentar el aviso de cancelación del Registro Federal de Contribuyentes de la extinta Comisión Estatal de Fomento y Ahorro de Energía, y demás actos que se requieran para tal efecto.
+
+SÉPTIMO. La Secretaría de Contraloría y Transparencia Gubernamental, en el ámbito de su competencia, gestionará las acciones pertinentes a efecto de que se practique una auditoría externa a la extinta Comisión Estatal de Fomento y Ahorro de Energía, de conformidad a lo establecido en la Ley Orgánica de la Administración Pública para el Estado de Hidalgo y en el Reglamento Interior de esa Dependencia.
+
+Asimismo, y en coordinación con la Secretaría de Planeación, Desarrollo Regional y Metropolitano, realizarán el acta de conclusión de actividades de ese Organismo, de conformidad a lo establecido en la Ley Orgánica de la Administración Pública para el Estado de Hidalgo y en el Reglamento Interior de esa Dependencia.
+
+OCTAVO. La Secretaría de Finanzas y Administración, dejará sin efectos la clave programática-presupuestal de la extinta Comisión Estatal de Fomento y Ahorro de Energía.
+
+NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
