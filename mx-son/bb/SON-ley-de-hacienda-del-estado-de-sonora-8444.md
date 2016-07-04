@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2016-06-09"
+last_updated: "2016-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,7 +21,11 @@ state: "SON"
 ---
 # LEY DE HACIENDA DEL ESTADO DE SONORA
 
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
+
 LEY DE HACIENDA DEL ESTADO DE SONORA
+
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE JUNIO DE 2016.
 
@@ -3353,7 +3357,7 @@ Estas contribuciones se recaudarán en la misma forma y simultáneamente con los
 
 ### Capítulo Tercero. Servicios por la Expedición, Revalidación y Canje de Licencias Para la Venta de Bebidas con Contenido Alcohólico
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
 
 ###### Artículo 297.
 
@@ -3475,7 +3479,7 @@ Cuando el pago de derechos deba efectuarse con posterioridad a la prestación de
 
 ### Capítulo Cuarto. Servicios de Ganadería
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
 
 ###### Artículo 301.
 
@@ -3487,7 +3491,7 @@ Los derechos por servicios de empadronamiento a que se refieren diversos precept
 
 ### Capítulo Quinto. Servicios por Expedición, Inscripción y Registro de Títulos y por Autorización para ejercer cualquier Profesión o Especialidad
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -3869,7 +3873,7 @@ t).- Hoteles o Moteles Rurales $2,083.00
 
 Cuando se realice el canje de la licencia correspondiente, no se cobrarán los derechos de revalidación contenida en la fracción II de este artículo.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -3877,7 +3881,7 @@ Cuando se realice el canje de la licencia correspondiente, no se cobrarán los d
 
 Las personas físicas o morales titulares de licencias o permisos para operar alguno o algunos de los establecimientos a que se refiere el Artículo 302 de este Capítulo, deberán presentar el aviso de inscripción ante el registro estatal de contribuyentes en la oficina recaudadora que corresponda a su domicilio fiscal.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
@@ -3903,7 +3907,7 @@ Cuando se lleven a cabo traspasos, cambios de propietarios o de razón social y 
 
 ### Capítulo Sexto. Por Servicios de Certificaciones, Constancias y Autorizaciones
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -3981,7 +3985,7 @@ i) (DEROGADO, B.O. 2 DE ABRIL DE 2007)
 
 ### Capítulo Séptimo. Servicios prestados por la Dirección General de Notarías
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -4011,7 +4015,7 @@ del punto anterior, por cada prórroga. N$ 50.00
 
 ### Capítulo Octavo. De los servicios prestados por la Dirección General de Documentación y Archivo
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -4175,7 +4179,7 @@ servidor público. $176.00
 
 ### Capítulo Noveno. Servicios por Expedición de Placas de Vehículos, Revalidaciones, Licencias para Manejar y Permisos
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -4255,7 +4259,7 @@ a).- Por notario y por cada año de búsqueda. $150.00
 
 ### Capítulo Décimo. Derechos por Servicios en materia de Autotransportes y Otros
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -4333,7 +4337,7 @@ XI.- Por la expedición de constancias del archivo administrativo de Servidores 
 
 ### Capítulo Décimo Primero. Servicios del Registro Público de la Propiedad y del Comercio
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
 
 > <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 91, PUBLICADO EN EL B.O. 19 DE DICIEMBRE DE 2013, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
 
@@ -4489,7 +4493,7 @@ Las placas que se expidan para la circulación de vehículos tendrán el caráct
 
 Las autoridades estatales o municipales competentes en el Estado, en la actualización del registro de vehículos por altas, revalidación, cambios o bajas de placas, deberán cerciorarse que no existan adeudos por concepto de contribuciones en materia vehicular, correspondientes a los últimos 5 años. En caso de que existan adeudos, dichas autoridades procederán a llevar a cabo su cobro, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -4537,7 +4541,7 @@ Las placas de demostración causarán derechos conforme a la tarifa de transport
 
 En el caso a que se refiere el párrafo anterior, se expedirá un juego de placas en el año, por cada 5 vehículos que se tengan en venta, al momento de la solicitud del servicio.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
@@ -4553,7 +4557,7 @@ Tratándose de baja de placas por robo de vehículo previa la acreditación de l
 
 Tratándose de baja de placas en caso de robo, previa acreditación de la presentación de la denuncia respectiva ante la autoridad competente, el Estado estará obligado a otorgar un descuento del cincuenta por ciento en el costo por concepto de expedición del nuevo juego de placas.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -4687,7 +4691,7 @@ Cuando la expedición o renovación de licencias de conducir sea solicitada con 
 
 Las licencias descritas en el presente artículo deberán incluir una póliza de seguro de responsabilidad civil a favor del titular de la licencia, sin que dicha póliza impacte en el costo de la referida licencia. Condicionada dicha póliza al pago de un deducible hasta por la cantidad de 200 veces el salario mínimo diario vigente en la ciudad de Hermosillo por parte del titular de la licencia y el seguro que incluirá la licencia de conducir vigente será hasta una responsabilidad de $50,000.00 pesos, por lo que deberán presupuestarse los recursos necesarios para que la Secretaría de Hacienda licite la póliza que cubra lo previsto en este párrafo, debiendo contratarse una empresa que se encuentre debidamente registrada ante la Comisión Nacional de Seguros y Fianzas y dicha empresa deberá contar con garantías de servicio en siniestros debidamente estipuladas en las condiciones del seguro de referencia al deducible citado y hasta el monto de garantía de responsabilidad señalado, cantidades éstas que han sido especificadas con anterioridad.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -4735,7 +4739,7 @@ hasta diez días. $ 70.00
 
 motocicletas y motonetas. $ 75.00
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
@@ -4751,7 +4755,7 @@ La expedición, canje o baja de placas, así como la expedición de las licencia
 
 La Secretaría de Hacienda deberá mantener permanentemente actualizado el Registro Estatal Vehicular, así como el Registro de Licencias para conducir vehículos, para lo cual podrá celebrar convenios de colaboración administrativa con los municipios del Estado.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -5095,7 +5099,7 @@ Las personas físicas o morales titulares de concesiones o permisos para operar 
 
 ### Capítulo Décimo Tercero. Servicios del Registro Civil
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -5281,13 +5285,13 @@ $5,000.00
 
 VI.- Tratándose del testamento publico simplificado o de títulos de propiedad que expidan los entes públicos facultados, derivados de programas oficiales para satisfacer necesidades de vivienda, los derechos por los servicios registrales señalados en los puntos e incisos aquí enunciados se reducirán en un 75%.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
 
 ###### Artículo 322.
 
 Las tarifas de este Capítulo cuando comprendan dos o más cuotas y ya sean especificadas o proporcionales, se aplicarán progresivamente y acumulativamente.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -5307,7 +5311,7 @@ Asimismo, se exceptúan de los derechos por registro de documentos públicos o p
 
 ### Capitulo Décimo Cuarto. Otros Servicios
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -5507,7 +5511,7 @@ El Ejecutivo del Estado por conducto de la dependencia que corresponda, previo e
 
 Dichos Servicios no causarán el pago de la Contribución para el Fortalecimiento a la Infraestructura Educativa.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -5535,13 +5539,13 @@ II.- Por la búsqueda que se efectúe para la localización de un acta, de uno a
 
 1.- Por la expedición de certificados de inexistencia respectivo. $50.00
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
 Artículo 325 Bis B.- La expedición de documentos que realice la Institución del Registro Civil a otro estado causará el derecho correspondiente al servicio solicitado; independientemente de los derechos que se causen deberá pagarse el costo de envío que determine el usuario.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
 
 Artículo 325 Bis C.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
