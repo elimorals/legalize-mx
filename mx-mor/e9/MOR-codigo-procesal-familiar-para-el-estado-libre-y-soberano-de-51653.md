@@ -4,7 +4,7 @@ identifier: "MOR-codigo-procesal-familiar-para-el-estado-libre-y-soberano-de-516
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2016-06-15"
+last_updated: "2016-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2016.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -1475,7 +1475,9 @@ Si se trata de persona moral en el domicilio social, y en sus oficinas o princip
 
 El notificador deberá cerciorarse de que el señalamiento reúne estas circunstancias antes de hacerlo, pudiendo ser autorizado para notificarlo personalmente en el lugar donde habitualmente trabaje o en cualquier lugar en que se encuentre la persona física o representante emplazado dentro de la jurisdicción; pero en este caso, deberá entenderse directamente con la persona que se trate, y el notificador hará constar específicamente en la diligencia los medios de que se valió para identificarlo, comprobar su personalidad en caso de representación y demás particulares;
 
-III. El emplazamiento se entenderá directamente con el interesado si estuviere presente, entregándose copia de la demanda y demás documentos y del auto o proveído que deba notificarse. Si la persona a quien se hace el emplazamiento no fuere encontrada en su domicilio se le dejará citatorio y demás para hora fija, dentro de las horas hábiles del día siguiente. En caso de que no espere, se le hará la notificación por cédula. La célula (sic) en estos casos se entregará a los parientes o domésticos del interesado, o a cualquier otra persona adulta que viva en la casa, después de que el notificador se haya cerciorado de que allí tiene su domicilio la persona que debe ser citada, de todo lo cual asentará razón en las diligencias. La cédula contendrá mención del juicio de que se trate y la inserción de auto o proveído que deba notificarse, y se entregará junto con las copias del traslado. La persona que recoja deberá firmar por su recibo, y si se rehusare a hacerlo, se pondrá razón en la diligencia, debiendo expresarse el nombre de ella o la manifestación de que se negó a darlo. Si se informare al notificador que el emplazado está ausente del lugar del juicio se hará constar esta circunstancia a efecto de que el juez determine lo que proceda. Solo podrá hacerse el emplazamiento por cédula cuando se realice en el domicilio del emplazado y éste no se encuentre presente; en los demás casos deberá hacerse personal y directamente, aún en el lugar en donde el demandado se encuentre, previa identificación;
+III. El emplazamiento se entenderá directamente con el interesado si estuviere presente, entregándose copia de la demanda y demás documentos y del auto o proveído que deba notificarse. Si la persona a quien se hace el emplazamiento no fuere encontrada en su domicilio se le dejará citatorio y demás para hora fija, dentro de las horas hábiles del día siguiente. En caso de que no espere, se le hará la notificación por cédula. La célula (sic) en estos casos se entregará a los parientes o domésticos del interesado, o a cualquier otra persona adulta que viva en la casa, después de que el notificador se haya cerciorado de que allí tiene su domicilio la persona que debe ser citada, de todo lo cual asentará razón en las diligencias. La cédula contendrá mención del juicio de que se trate y la inserción de auto o proveído que deba notificarse, y se entregará junto con las copias del traslado.
+
+La persona que recoja deberá firmar por su recibo, y si se rehusare a hacerlo, se pondrá razón en la diligencia, debiendo expresarse el nombre de ella o la manifestación de que se negó a darlo. Si se informare al notificador que el emplazado está ausente del lugar del juicio se hará constar esta circunstancia a efecto de que el juez determine lo que proceda. Solo podrá hacerse el emplazamiento por cédula cuando se realice en el domicilio del emplazado y éste no se encuentre presente; en los demás casos deberá hacerse personal y directamente, aún en el lugar en donde el demandado se encuentre, previa identificación;
 
 IV. Cuando la persona a quien deba emplearse radique dentro de la República, pero fuera del Estado de Morelos, y fuere conocido su domicilio, el emplazamiento se le hará por despacho o exhorto de acuerdo con la forma prevista en el capítulo anterior. Si una vez despachado el exhorto sobreviniere un cambio de domicilio de la persona a quien se pretende emplazar, dentro de la jurisdicción del juez requerido, éste se entenderá facultado para hacer el emplazamiento en el nuevo domicilio, sin necesidad de nuevo exhorto basando que así lo pida la parte interesada ente (sic) el juez exhortado;
 
@@ -1885,9 +1887,11 @@ PRINCIPIO DE ORALIDAD. El despacho judicial de las controversias que regula este
 
 Para estos efectos se entiende por oralidad; el predominio de la palabra hablada, la inmediatividad procesal, la identidad física del Juez, la concentración procesal y la inimpugnabilidad de las providencias que resuelven incidentes.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 189.
 
-PRINCIPIO DE EQUIDAD DE GÉNERO. El juzgador deberá interpretar las disposiciones contenidas en este Código de manera tal que se otorguen los mismos derechos al varón y a la mujer, excepción hecha a esta última en virtud de la gestación, lactancia y del derecho de los hijos menores de siete años de quedar al cuidado de su madre, siempre y cuando no se ponga en peligro la salud física o mental del menor.
+PRINCIPIO DE EQUIDAD DE GÉNERO. El juzgador deberá interpretar las disposiciones contenidas en este Código de manera tal que se otorguen los mismos derechos al varón y a la mujer, más aún cuando esta última procree, excepción hecha a esta última en virtud de la gestación, lactancia y del derecho de los hijos menores de siete años de quedar al cuidado de su madre, siempre y cuando no se ponga en peligro la salud física o mental del menor, o se determine que ello es contrario al interés superior de la niñez para el propio juzgador.
 
 ###### ARTÍCULO 190.
 
@@ -3523,9 +3527,11 @@ MODALIDAD DE PROCEDIMIENTO APLICABLE A LOS JUICIOS QUE VERSEN SOBRE NULIDAD DE M
 
 I. Si la demanda fuere entablada por uno solo de los cónyuges, al admitirse o antes si hubiere urgencia, se dictarán provisionalmente y sólo mientras dure el juicio, las medidas siguientes:
 
-A.- Separar a los cónyuges en todo caso. Para este efecto el Juez prevendrá al marido que se separe de la casa conyugal y ordenará se le entregue su ropa y los bienes que sean necesarios para el ejercicio de su profesión, arte u oficio a que está dedicado; deberá el marido informar al Juez el lugar de su residencia. Si sobre esto se suscitare controversia el Juez decidirá urgentemente oyendo a ambos cónyuges.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2016)</small>
 
-Sólo a solicitud de la mujer se le autorizará a separarse del hogar conyugal. Deberá la mujer informar al Juez el lugar de su residencia y el Juez ordenará se le entreguen su ropa y los bienes que sean necesarios para el ejercicio de la profesión, arte u oficio a que se dedica.
+A.- Separar a los cónyuges en todo caso. Para este efecto el Juez prevendrá al cónyuge demandado que se separe de la casa conyugal y ordenará se le entregue su ropa y los bienes que sean necesarios para el ejercicio de su profesión, arte u oficio a que está dedicado; cónyuge que deberá informar al Juez el lugar de su residencia. Si sobre esto se suscitare controversia el Juez decidirá urgentemente oyendo a ambos cónyuges.
+
+Sólo a solicitud propia se le autorizará al cónyuge demandante separarse del hogar conyugal; mismo que deberá informar al Juez el lugar de su residencia y el Juez ordenará se le entreguen su ropa y los bienes que sean necesarios para el ejercicio de la profesión, arte u oficio a que se dedica.
 
 El Juez proveerá lo necesario para asegurar el manejo del hogar en tanto se resuelve la situación definitiva.
 
@@ -4237,9 +4243,11 @@ Los cónyuges de común acuerdo podrán solicitar su separación temporal por un
 
 ## TÍTULO OCTAVO. REGLAS PARA DIRIMIR CONTROVERSIAS ENTRE CÓNYUGES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 505.
 
-REGLAS PARA DIRIMIR CONTROVERSIAS ENTRE CÓNYUGES. Las diferencias que surjan entre marido y mujer se tramitarán conforme a las reglas siguientes:
+REGLAS PARA DIRIMIR CONTROVERSIAS ENTRE CÓNYUGES. Las diferencias que surjan entre los cónyuges se tramitarán conforme a las reglas siguientes:
 
 I. Sobre la obligación de los cónyuges de vivir juntos;
 
@@ -6942,3 +6950,11 @@ SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de 
 TERCERA.- Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
 
 CUARTA.- En un plazo no mayor a 120 días hábiles contados a partir del día siguiente al de la entrada en vigor del presente Decreto, deberán realizarse las modificaciones necesarias al Reglamento de la Ley del Registro Público de la Propiedad y del Comercio del Estado de Morelos y al Reglamento de la Ley del Notariado del Estado de Morelos y demás disposiciones jurídicas de igual o menor rango jerárquico normativo aplicable.
+
+P.O. 4 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS CINCUENTA Y SIETE POR EL QUE SE REFORMAN DISTINTAS DISPOSICIONES DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS Y DEL CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS PARA LA REGULACIÓN DE LA FIGURA JURÍDICA DEL MATRIMONIO ENTRE PERSONAS DEL MISMO SEXO”.]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos que indica el artículo 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
