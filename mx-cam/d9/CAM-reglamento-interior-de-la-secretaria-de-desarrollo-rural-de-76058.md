@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-secretaria-de-desarrollo-rural-de-760
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-19"
-last_updated: "2010-05-19"
+last_updated: "2016-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76058&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO RURAL DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO RURAL DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 4 DE JULIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2016 (ABROGADA).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 19 de mayo de 2010.
 
@@ -800,3 +802,15 @@ Cuarto.- Cuando en el presente Reglamento se dé una nueva o distinta denominaci
 Dado en el Palacio de Gobierno, residencia del Poder Ejecutivo del Estado, en la Ciudad de San Francisco de Campeche, Municipio y Estado de Campeche, Estados Unidos Mexicanos, a los quince días del mes de abril del año dos mil diez.
 
 Lic. Fernando Eutimio Ortega Bernés, Gobernador Constitucional del Estado.- Dr. Everardo Aceves Navarro, Secretario de Desarrollo Rural.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO RURAL DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE".]
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Rural publicado en el Periódico Oficial del Estado No. 4509, el día 19 de mayo de 2010.
+
+Tercero.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente Reglamento.
