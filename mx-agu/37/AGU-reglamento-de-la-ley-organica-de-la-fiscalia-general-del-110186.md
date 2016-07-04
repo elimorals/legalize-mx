@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-ley-organica-de-la-fiscalia-general-del-110186
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-10-05"
-last_updated: "2015-11-09"
+last_updated: "2016-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2016.
 
 Reglamento publicado en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de octubre de 2015.
 
@@ -131,7 +131,9 @@ I.II.- Dirección de Investigaciones Foráneas.
 
 II.- Dirección General de Investigación Especializada.
 
-III.- Subdirección de Atención Temprana.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2016)</small>
+
+III.- Dirección de Atención Temprana
 
 > <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -425,7 +427,9 @@ Al frente de la Vice Fiscalía de Investigación de Delitos, estará el Vice Fis
 
 I. Supervisar, vigilar y revisar la debida integración y la secuela de las averiguaciones previas y de las carpetas de investigación, así como llevar el control de las mismas;
 
-II. Vigilar y coordinar el desempeño del Director General de Investigación del Delito, Director General de Investigación Especializada y de la Subdirección de Atención Temprana;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2016)</small>
+
+II. Vigilar y coordinar el desempeño del Director General de Investigación del Delito, Director General de Investigación Especializada y del Director de Atención Temprana;
 
 III. Auxiliar al Fiscal General en la vigilancia de la constitucionalidad y legalidad de las actuaciones de la Fiscalía;
 
@@ -465,9 +469,11 @@ XX. Estará a cargo de la Vice Fiscalía de Investigación del Delito, la Unidad
 
 XXI. Las demás que les señalen las disposiciones legalesy (sic) reglamentarias, y las que les sean conferidas por el Fiscal General, directamente o por delegación, así como las de la competencia de las Unidades Administrativas y Sustantivas a su cargo.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2016)</small>
+
 ###### Artículo 16.
 
-El Vice Fiscal de Investigación de Delitos se auxiliaráde (sic) la Dirección General de Investigación del Delito, la Dirección General de Investigación Especializada, la Dirección Central de Investigaciones, la Dirección de Investigaciones Foráneas y de la Subdirección de Atención Temprana; y tendrá adscritas las Unidades Administrativas y Sustantivasque (sic) se señalan en la Ley Orgánica, el presente reglamento y las que determinen el Fiscal General para el correcto funcionamiento de la Fiscalía.
+El Vice Fiscal de Investigación de Delitos se auxiliará de la Dirección General de Investigación del Delito, la Dirección General de Investigación Especializada, la Dirección Central de Investigaciones, la Dirección General de Investigaciones Foráneas y de la Dirección de Atención Temprana; y tendrá adscritas las Unidades Administrativas y Sustantivas que se señalan en la Ley Orgánica, el presente reglamento y las que determine el Fiscal General para el correcto funcionamiento de la Fiscalía.
 
 ### CAPÍTULO SEGUNDO. De las Direcciones Generales
 
@@ -633,11 +639,15 @@ Los Fiscales o agentes del Ministerio Público adscritos a la Dirección Central
 
 Para la atención de los delitos cuya investigación y persecución requiera de mayores exigencias técnicas, el Fiscal General acordará la creación de unidades especializadas, las cuales se organizarán y ejercerán las funciones que se fijen en el acuerdo de creación respectivo.
 
-### CAPÍTULO QUINTO. De la Subdirección de Atención Temprana
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE JULIO DE 2016)</small>
+
+### CAPÍTULO QUINTO. De la Dirección de Atención Temprana
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2016)</small>
 
 ###### Artículo 28.
 
-El Subdirector de Atención Temprana tendrá lassiguientes (sic) facultades y obligaciones:
+El Director de Atención Temprana tendrá las siguientes facultades y obligaciones:
 
 I. Canalizar al público a las áreas o departamentos que correspondan según sus intereses y, en su caso, a otras instituciones generando un oficio de canalización;
 
@@ -2394,5 +2404,11 @@ Lo anterior en cumplimiento de lo dispuesto en el artículo Cuarto Transitorio, 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 9 DE NOVIEMBRE DE 2015.
+
+> <small>[N. DE E. EL "REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO AGUASCALIENTES", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES.]</small>
+
+P.O. 4 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DE “REFORMAS AL REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO”.]
 
 > <small>[N. DE E. EL "REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO AGUASCALIENTES", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES.]</small>
