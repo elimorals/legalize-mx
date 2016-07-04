@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2016-01-18"
+last_updated: "2016-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 22 Y 29 DE SEPTIEMBRE DE 2016, NÚMERO 24 SECCIÓN I Y NÚMERO 26 SECCIÓN II, PÁGINAS 2 Y 3, Y 2 RESPECTIVAMENTE, EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE DICIEMBRE DE 2015.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 18 DE ENERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE JULIO DE 2016.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -55,9 +55,11 @@ El ejercicio del Poder Ejecutivo se deposita en un solo individuo que se denomin
 
 Para el ejercicio de sus atribuciones y el despacho de los asuntos de orden administrativo que correspondan al Poder Ejecutivo, la administración pública será directa y paraestatal.
 
-> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Integran la administración pública directa las siguientes dependencias: Secretarías y Procuraduría General de Justicia del Estado.
+> <small>(REFORMADO, B.O. 4 DE JULIO DE 2016)</small>
+
+Integran la administración pública directa las Secretarias.
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
@@ -187,7 +189,9 @@ IV. Oficina de Enlace y Cooperación Institucional.
 
 Además de las áreas descritas contará con las unidades y personal que se determinen para el debido cumplimiento de sus funciones. Las atribuciones de estas unidades se especificarán en los ordenamientos jurídicos respectivos.
 
-Para el debido cumplimiento de las facultades encomendadas la Oficina del Ejecutivo podrá contratar prestadores externos de servicios.
+> <small>(REFORMADO, B.O. 4 DE JULIO DE 2016)</small>
+
+Para el debido cumplimiento de las facultades encomendadas la Oficina del Ejecutivo podrá contratar prestadores externos de servicios, dicha prestación se contratará y regulará conforme a las disposiciones del Código Civil y del Código de Procedimientos Civiles, ambos para el Estado de Sonora.
 
 > <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
@@ -249,7 +253,9 @@ III. Director General de Estudios y Proyectos Estratégicos.
 
 Además de las áreas descritas contará con las unidades y personal que se determinen para el debido cumplimiento de sus funciones. Las atribuciones de estas unidades se especificarán en los ordenamientos jurídicos respectivos.
 
-Para el debido cumplimiento de las funciones encomendadas la Secretaría Técnica del Ejecutivo podrá contratar prestadores externos de servicios.
+> <small>(REFORMADO, B.O. 4 DE JULIO DE 2016)</small>
+
+Para el debido cumplimiento de las funciones encomendadas la Secretaría Técnica del Ejecutivo podrá contratar prestadores externos de servicios, dicha prestación se contratará y regulará conforme a las disposiciones del Código Civil y del Código de Procedimientos Civiles, ambos para el Estado de Sonora.
 
 > <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
@@ -281,7 +287,9 @@ XI. Las demás que le señalen las disposiciones legales aplicables y las que le
 
 ARTICULO 4 BIS 7.- La Coordinación Ejecutiva de Administración contará con las unidades y personal que se determinen para el debido cumplimiento de sus funciones. Las atribuciones de estas unidades se especificarán en los ordenamientos jurídicos respectivos.
 
-Para el debido cumplimiento de las facultades encomendadas la Coordinación Ejecutiva de Administración podrá contratar prestadores externos de servicios.
+> <small>(REFORMADO, B.O. 4 DE JULIO DE 2016)</small>
+
+Para el debido cumplimiento de las facultades encomendadas la Coordinación Ejecutiva de Administración podrá contratar prestadores externos de servicios, dicha prestación se contratará y regulará conforme a las disposiciones del Código Civil y del Código de Procedimientos Civiles, ambos para el Estado de Sonora.
 
 > <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
@@ -301,15 +309,23 @@ La constitución de las empresas de participación estatal mayoritaria, de las s
 
 Las leyes, decretos, reglamentos, acuerdos, circulares y órdenes que suscriba el Gobernador del Estado, en ejercicio de sus funciones constitucionales, en todo caso, deberán ser refrendados con la firma del Secretario de Gobierno y comunicados por éste. Sin este requisito no surtirán efectos legales.
 
-> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 4 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 7.
 
-Corresponde al Titular del Ejecutivo Estado nombrar y remover libremente a los Secretarios, al Procurador General de Justicia y a los demás trabajadores de confianza cuyo nombramiento o remoción no corresponda a otra autoridad.
+Corresponde al Titular del Ejecutivo (sic) Estado nombrar y remover libremente a los Secretarios y a los demás trabajadores de confianza cuyo nombramiento o remoción no corresponda a otra autoridad; así como someter a consideración del Congreso la ratificación del nombramiento del Fiscal General de Justicia y de los Fiscales especializados.
 
-Asimismo, compete al Titular del Ejecutivo Estado nombrar y remover libremente a los demás trabajadores de la Administración Pública Directa, en los términos y conforme a los requisitos que dispongan los ordenamientos jurídicos respectivos, pudiendo delegar por Acuerdo esta facultad en el funcionario que designe, sin perjuicio de su ejercicio directo cuando lo juzgue conveniente.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, B.O. 4 DE JULIO DE 2016)</small>
+
+Asimismo, compete al Titular del Ejecutivo del Estado nombrar y remover libremente a los demás trabajadores de la Administración Pública Directa, en los términos y conforme a los requisitos que dispongan los ordenamientos jurídicos respectivos, pudiendo delegar, según sea el caso, por Acuerdo o mediante oficio esta facultad en el funcionario que designe, sin perjuicio de su ejercicio directo cuando lo juzgue conveniente.
+
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
 El Acuerdo a que se refiere el párrafo anterior, deberá publicarse en el Boletín Oficial del Gobierno del Estado.
+
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
 Queda prohibido al Ejecutivo Estatal hacer entrega de numerario o bienes en especie a servidores públicos de confianza de primer nivel, a título de bono, indemnización, compensación, o cualquier otro concepto semejante o análogo, por dejar de prestar sus servicios a la conclusión del sexenio o dentro del año inmediato anterior.
 
@@ -347,6 +363,14 @@ Las dependencias de la administración pública directa tendrán igual rango y e
 
 Los titulares de las dependencias a que se refiere esta ley ejercerán sus funciones por acuerdo del Gobernador del Estado.
 
+> <small>(ADICIONADO, B.O. 4 DE JULIO DE 2016)</small>
+
+El Gobernador del Estado podrá delegar las facultades y obligaciones previstas en la Constitución, al servidor público que éste determine. Esta delegación podrá efectuarse mediante acuerdo u oficio en los casos que el Titular del Ejecutivo así lo considere, salvo aquellas expresamente señaladas en la Constitución que deban ser ejercidas directamente por el Gobernador.
+
+> <small>(ADICIONADO, B.O. 4 DE JULIO DE 2016)</small>
+
+Las facultades y obligaciones correspondientes al Gobernador del Estado, previstas en la presente Ley, así como en los ordenamientos de carácter secundario y reglamentario podrán ser delegables mediante oficio suscrito por el Titular del Ejecutivo, sin que medie acuerdo publicado en el Boletín Oficial.
+
 > <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 12.
@@ -370,6 +394,14 @@ Los manuales de organización, de procedimientos y de servicios al público, deb
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 Los reglamentos interiores de las dependencias deberán publicarse en el Boletín Oficial del Gobierno del Estado.
+
+> <small>(ADICIONADO, B.O. 4 DE JULIO DE 2016)</small>
+
+En las ausencias temporales o definitivas se podrá designar un encargado de despacho el cual ejercerá las atribuciones y facultades que la Ley y los reglamentos correspondientes prevean para el Titular de la dependencia.
+
+> <small>(ADICIONADO, B.O. 4 DE JULIO DE 2016)</small>
+
+Los titulares de las dependencias y los subsecretarios podrán solicitar licencia temporal hasta por sesenta días naturales, la cual podrá ser concedida a juicio del Titular del Ejecutivo en los términos solicitados. En esos casos operará la figura de encargado de despacho prevista en el presente artículo.
 
 ###### ARTICULO 15.
 
@@ -405,11 +437,13 @@ Cuando exista duda respecto de la competencia de las dependencias para la atenci
 
 ### CAPITULO II. DE LA COMPETENCIA DE LAS DEPENDENCIAS DE LA ADMINISTRACION PUBLICA DIRECTA
 
-> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, B.O. 4 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 21.
 
-El Procurador General de Justicia tendrá a su cargo la organización, funcionamiento, jurisdicción, competencia, facultades y obligaciones de la institución del Ministerio Público, se regirá por lo dispuesto en la Constitución Política del Estado, en la Ley Orgánica respectiva y en las demás leyes.
+El Fiscal General de Justicia tendrá a su cargo la organización, funcionamiento, jurisdicción, competencia, facultades y obligaciones de la institución del Ministerio Público, se regirá por lo dispuesto en la Constitución Política del Estado, en la Ley Orgánica respectiva y en las demás leyes.
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -445,13 +479,11 @@ IX.- Secretaría de Desarrollo Social;
 
 X.- Secretaría del Trabajo;
 
-> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], B.O. 4 DE JULIO DE 2016)</small>
 
 XI.- Secretaría de Seguridad Pública;
 
-> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
-
-XII.- Procuraduría General de Justicia; y
+XII.- (DEROGADA, B.O. 4 DE JULIO DE 2016); y
 
 > <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
@@ -535,7 +567,21 @@ XXX. Atender los asuntos que le planteen los organismos de la sociedad civil org
 
 XXXI. Coordinar, supervisar e implementar los planes, proyectos y programas de los siguientes entes: Centro Estatal de Desarrollo Municipal; Consejo Estatal de Población; y Comisión Estatal para el Desarrollo de los Pueblos y Comunidades Indígenas;
 
-XXXII. Las demás que le sean conferidas por la Constitución, leyes, reglamentos, acuerdos y ordenamientos legales.
+> <small>(REFORMADA, B.O. 4 DE JULIO DE 2016)</small>
+
+XXXII.- Coordinar y supervisar las actividades que desarrolle el Instituto Sonorense de la Mujer;
+
+> <small>(ADICIONADA, B.O. 4 DE JULIO DE 2016)</small>
+
+XXXIII.- Coordinar y supervisar las actividades del Sistema Integral para la Protección de Niñas, Niños y Adolescentes;
+
+> <small>(ADICIONADA, B.O. 4 DE JULIO DE 2016)</small>
+
+XXXIV.- Coordinar la Seguridad Pública en la Entidad, en casos de perturbación grave del orden, casos fortuitos o de fuerza mayor, o cuando a juicio del Titular del Ejecutivo del Estado, deba intervenir; y
+
+> <small>(ADICIONADA, B.O. 4 DE JULIO DE 2016)</small>
+
+XXXV.- Las demás que le sean conferidas por la Constitución, leyes, reglamentos, acuerdos y ordenamientos legales.
 
 > <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
@@ -547,11 +593,15 @@ La Secretaría de la Consejería Jurídica le corresponde ejercer las facultades
 
 I. Brindar asesoría y apoyo técnico jurídico en forma directa al Titular del Ejecutivo del Estado, en todos aquellos asuntos que éste le encomiende;
 
-II. Representar legalmente al Titular del Ejecutivo del Estado y a la administración pública estatal en toda clase de juicios en que sea parte o autoridad responsable, pudiendo delegar ésta, en subalternos o terceros;
+> <small>(REFORMADA, B.O. 4 DE JULIO DE 2016)</small>
 
-Para el caso de delegar a terceros la representación del Titular del Ejecutivo del Estado y de la administración pública estatal, ésta podrá efectuarse mediante el otorgamiento de poder ante notario público;
+II. Representar legalmente al Titular del Ejecutivo del Estado y a la administración pública estatal, ante cualquier autoridad judicial o administrativa en toda clase de juicios, acciones, controversias, procedimientos, indagatorias o requerimientos, pudiendo delegar ésta, en subalternos o terceros;
 
-III. Coordinar a las áreas jurídicas de las dependencias, paraestatales, entidades, organismos administrativos desconcentrados, fideicomisos, organismos auxiliares y demás oficinas de la Administración Pública Estatal y demás oficinas de la Administración Pública Estatal, con excepción de la materia fiscal;
+Para el caso de delegar a terceros la representación del Titular del Ejecutivo del Estado, de la administración pública estatal y paraestatal, ésta podrá efectuarse mediante el otorgamiento de poder ante notario público;
+
+> <small>(REFORMADA, B.O. 4 DE JULIO DE 2016)</small>
+
+III. Coordinar a las áreas jurídicas de las dependencias de la administración pública estatal, paraestatales, entidades, organismos administrativos desconcentrados, fideicomisos, organismos auxiliares y demás oficinas de la administración pública estatal, con excepción de la materia fiscal;
 
 IV. Someter a consideración del Titular del Ejecutivo Estado, para que éste ejerza con mayores elementos de decisión la facultad prevista en el artículo 79, fracción XI de la Constitución Política de Sonora, las propuestas de titulares de las Unidades Jurídicas de las dependencias, órganos administrativos desconcentrados, paraestatales, entidades, organismos, fideicomisos y demás oficinas de la Administración Pública Estatal que se señalan en los artículos 17, 22, 45, 46 y 47 de esta Ley;
 
@@ -599,7 +649,9 @@ ARTICULO 23 BIS 1.- La Secretaría de la Consejería Jurídica estará integrada
 
 Las atribuciones y funciones Subsecretarías y demás áreas que integren la Consejería se establecerán en las leyes, reglamentos, manuales y demás ordenamientos legales correspondientes.
 
-La Secretaría de la Consejería Jurídica, para el debido cumplimiento de sus funciones, podrá contratar prestadores externos de servicios.
+> <small>(REFORMADO, B.O. 4 DE JULIO DE 2016)</small>
+
+La Secretaría de la Consejería Jurídica, para el debido cumplimiento de sus funciones, podrá contratar prestadores externos de servicios, dicha prestación se contratará y regulará conforme a las disposiciones del Código Civil y del Código de Procedimientos Civiles, ambos para el Estado de Sonora.
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -1248,6 +1300,10 @@ XI.- Promover programas relativos al desarrollo integral de los pueblos y las co
 > <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
 XII. Coordinar las acciones, planes y programas que sean implementados por el Instituto Sonorense de la Mujer, que propicien y faciliten la plena incorporación de la mujer en la vida económica, política, cultural y social.
+
+> <small>(ADICIONADA, B.O. 4 DE JULIO DE 2016)</small>
+
+XIII. Coordinar las acciones del Instituto Sonorense de la Juventud, de la Comisión Estatal del Deporte y de la Comisión del Vivienda del Estado.
 
 B. En materia de desarrollo regional:
 
@@ -2322,3 +2378,17 @@ Los derechos de los trabajadores que se transfieren a la Secretaría de Hacienda
 Artículo Séptimo.- Cuando en otras leyes se otorgue denominación distinta a alguna dependencia, cuyas funciones y facultades estén contempladas en el presente Decreto, para el cumplimiento de las mismas y las que se establezcan por convenios celebrados con autoridades federales o municipales, dicha competencia se entenderá concedida a la dependencia que determine el presente Decreto.
 
 Artículo Octavo.- Se tendrán por conferidas a la Secretaría de Hacienda las atribuciones que en otras Leyes y Reglamentos se otorgan a Oficialía Mayor.
+
+B.O. 4 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 77, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA".]
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+Artículo Segundo.- Las Secretarías de Gobierno y de la Consejería Jurídica contarán con un plazo de noventa días para llevar a cabo las modificaciones a sus reglamentos y demás normatividad.
+
+Artículo Tercero.- Las atribuciones previstas en la Ley Orgánica del Poder Ejecutivo al Procurador General de Justicia del Estado, se entenderán transferidas al Fiscal General de Justicia del Estado hasta en tanto entre en vigor la Ley Orgánica de la Fiscalía General de Justicia u ordenamientos complementarios.
+
+Los artículos 3o, párrafo segundo, 7, párrafo primero y 21, que se reforman mediante el presente Decreto, entrarán en vigor hasta que sea publicada en el Boletín Oficial del Gobierno del Estado, la Ley número 96, que reforma y adiciona diversas disposiciones de la Constitución Política del Estado de Sonora, relacionada al Sistema Estatal Anticorrupción.
+
+Artículo Cuarto.- Se deroga cualquier disposición que contravenga lo emitido en el presente Decreto.
