@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2016-06-13"
+last_updated: "2016-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -85,7 +85,9 @@ VIII.- La información relativa a las condiciones, recursos y servicios de salud
 
 IX.- La educación para la salud;
 
-X.- La orientación y vigilancia en materia de nutrición;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2016)</small>
+
+X.- La orientación y vigilancia en materia de nutrición, sobrepeso y obesidad.
 
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2012)</small>
 
@@ -1742,5 +1744,11 @@ SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto
 P.O. 13 DE JUNIO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 142 DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO.- El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 4 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 669 QUE REFORMA LA FRACCIÓN X, DEL INCISO A), DEL ARTÍCULO 3, DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO.- El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
