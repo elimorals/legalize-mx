@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2016-05-25"
+last_updated: "2016-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2016.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -3008,11 +3008,13 @@ III.- Los planes y los programas de la Administración Pública, tendrán su ori
 
 En el Sistema de Planeación Democrática, el Congreso del Estado tendrá la intervención que señale la Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2016)</small>
+
+###### ARTÍCULO 120.
+
+El matrimonio es la unión voluntaria de dos personas, con igualdad de derechos y obligaciones, con el propósito de desarrollar una comunidad de vida y ayudarse mutuamente. La celebración, registro y certificación de los hechos y actos constitutivos, modificativos o extintivos del estado civil de las personas, son de exclusiva competencia del Registro Civil en los términos que establezcan las leyes de la materia y tendrán la fuerza y validez que las mismas les atribuyan.
+
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2009)</small>
-
-###### Artículo 120.
-
-El matrimonio es la unión voluntaria de un hombre y una mujer, con igualdad de derechos y obligaciones con la posibilidad de procreación de hijos y de ayudarse mutuamente. La celebración, registro y certificación de los hechos y actos constitutivos, modificativos o extintivos del estado civil de las personas, son de exclusiva competencia del Registro Civil en los términos que establezcan las leyes de la materia y tendrán la fuerza y validez que las mismas les atribuyan.
 
 En el estado se garantizará el derecho a la identidad de las personas a través del registro de nacimiento gratuito.
 
@@ -4937,3 +4939,13 @@ SEGUNDA. Las reformas, adiciones y derogaciones contenidas en el presente Decret
 TERCERA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto, así como quedan sin efectos los actos derivados.
 
 CUARTA. Se instruye a la Secretaría de Asuntos Legislativos y Parlamentarios, que informe a la Cámara de Senadores del Congreso de la Unión, que se ha dado cumplimiento al Punto de Acuerdo mediante el cual exhortaban a este Congreso, a fin de que en el marco del Día Mundial del Agua 2013, y en el ámbito de sus respectivas competencias, homologaran la reforma de derecho al acceso al agua en sus Constituciones locales.
+
+P.O. 4 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS CINCUENTA Y SEIS POR EL QUE SE REFORMA EL ARTÍCULO 120 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, PARA LA REGULACIÓN DE LA FIGURA JURÍDICA DEL MATRIMONIO ENTRE PERSONAS DEL MISMO SEXO”.]
+
+PRIMERA.- Aprobado el presente Decreto por el Poder Reformador local y hecha la declaratoria correspondiente se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- La reforma contenida en el presente Decreto formará parte de la Constitución Política del Estado Libre y Soberano de Morelos desde el momento en que se haga la Declaratoria a que se refiere la disposición precedente, en términos de lo dispuesto por el artículo 147, fracción II, de la propia Constitución.
+
+TERCERA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
