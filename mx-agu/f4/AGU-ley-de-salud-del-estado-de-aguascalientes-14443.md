@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2016-06-06"
+last_updated: "2016-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -649,9 +649,17 @@ VIII.- La disponibilidad de medicamentos y otros insumos esenciales para la salu
 
 IX.- La promoción del mejoramiento de la nutrición;
 
-X.- La asistencia social a los grupos más vulnerables; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2016)</small>
 
-XI.- Las demás que establezca esta Ley o disposiciones legales aplicables.
+X.- La asistencia social a los grupos más vulnerables;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2016)</small>
+
+XI.- La prevención y el control de las discapacidades auditivas y visuales, sujeto a los planes, programas y presupuesto autorizados por las autoridades competentes; y
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2016)</small>
+
+XII.- Las demás que establezca esta Ley o las disposiciones legales aplicables.
 
 ###### ARTICULO 41.
 
@@ -3332,3 +3340,11 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Los procedimientos penales iniciados con antelación al inicio de vigencia de este Decreto, se regirán por las disposiciones vigentes al momento de su inicio.
+
+P.O. 4 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 351.- REFORMAS Y ADICIONES A LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación, en el Periódico Oficial del Estado.
