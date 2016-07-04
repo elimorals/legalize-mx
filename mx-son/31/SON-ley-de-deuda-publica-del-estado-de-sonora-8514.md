@@ -4,7 +4,7 @@ identifier: "SON-ley-de-deuda-publica-del-estado-de-sonora-8514"
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-06"
-last_updated: "2013-06-27"
+last_updated: "2016-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8514&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE JULIO DE 2016.
 
 Ley publicada en la Sección Cuarta del Boletín Oficial del Estado de Sonora, el jueves 6 de julio de 1995.
 
@@ -405,6 +405,10 @@ Los estados de ingresos y egresos dictaminados deberán contener una explicació
 
 En caso de entidades paraestatales y paramunicipales que estén constituidas como sociedades mercantiles, los estados financieros deberán prepararse y dictaminarse conforme a los principios de contabilidad generalmente aceptados.
 
+> <small>(ADICIONADO, B.O. 4 DE JULIO DE 2016)</small>
+
+Quedarán exceptuados de la obligación de tener estados de ingresos y egresos dictaminados y publicados, aquellos Municipios cuya población sea menor a cien mil habitantes, según el último censo de población oficial emitido por el Instituto Nacional de Estadística y Geografía y los organismos descentralizados y empresas de participación municipal mayoritaria de los mismos.
+
 (NOTA: EL 17 DE NOVIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 163/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE JUNIO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
@@ -598,3 +602,11 @@ B.O. 27 DE JUNIO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 4 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 72, QUE ADICIONA UN QUINTO PÁRRAFO AL ARTÍCULO 19 DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
