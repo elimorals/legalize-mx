@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-sistema-de-informacion-para-el-estado-de-campeche-98863
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-27"
-last_updated: "2013-12-27"
+last_updated: "2016-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98863&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DEL SISTEMA DE INFORMACIÓN PARA EL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el viernes 27 de diciembre de 2013.
 
@@ -69,6 +69,8 @@ VIII. Sentar las bases para la coordinación de las labores que en materia de ca
 
 IX. Establecer las bases para la configuración del Sistema Estatal de Catastro como Subsistema de Información de Interés Estatal, con visión de aplicación con múltiples propósitos en diferentes órdenes jurídicos y administrativos intervinientes en la planeación y gestión del territorio.
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2016)
+
 ###### Artículo 3.
 
 Para efectos de esta Ley, se entenderá por:
@@ -109,7 +111,9 @@ XIV. INEGI: El Instituto Nacional de Estadística y Geografía.
 
 XV. INFOCAM: El Instituto de Información Estadística, Geográfica y Catastral del Estado de Campeche.
 
-XVI. Sistema de Gestión Catastral: Herramienta digital para lograr la integración y funcionamiento del Catastro Multifinalitario y permitir la captura, almacenamiento, custodia, seguridad, consulta, reproducción, verificación, administración y transmisión de la información catastral y que tiene como principal objetivo simplificar, automatizar y agilizar el procedimiento en las oficinas catastrales. El Sistema de Gestión comprende, asimismo, el conjunto de sistemas de cómputo, datos gráficos, geográficos, alfanuméricos y documentales relacionados entre sí que contienen los registros relativos a la identificación plena y datos reales de los inmuebles en cada Municipio de la entidad.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2016)</small>
+
+XVI. Secretaría de Planeación: La Secretaría de Planeación de la Administración Pública del Estado de Campeche.
 
 XVII. Sistema Estatal de Información: Conjunto de relaciones institucionales que se organizan y ordenan para garantizar la disponibilidad, generación y uso de la que se considere Información de Interés Estatal.
 
@@ -135,9 +139,11 @@ e) Las Delegaciones o Representaciones Federales en el Estado podrán ser consid
 
 Cuando el INFOCAM genere información se considerará como Unidad para efectos de esta Ley.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2016)</small>
+
 ###### Artículo 4.
 
-La aplicación de la presente Ley corresponde al COPLADECAM y al INFOCAM, sin perjuicio de las atribuciones que correspondan a otras dependencias de la Administración Pública Estatal conforme a otras disposiciones legales.
+La aplicación de la presente Ley corresponde a la Secretaría de Planeación, al COPLADECAM y al INFOCAM, sin perjuicio de las atribuciones que le correspondan a otras dependencias y entidades de la Administración Pública Estatal conforme a otras disposiciones legales aplicables.
 
 ## TÍTULO SEGUNDO. DEL SISTEMA DE INFORMACIÓN ESTATAL
 
@@ -173,13 +179,17 @@ V. Elaborar, conservar, administrar, difundir, evaluar y retroalimentar la infor
 
 ### CAPÍTULO SEGUNDO. DE LA COORDINACIÓN DEL SISTEMA ESTATAL DE INFORMACIÓN
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2016)</small>
+
 ###### Artículo 8.
 
-El COPLADECAM será el órgano rector del Sistema Estatal de Información, vinculado directamente con el INJUCAM, para la integración de la información de interés estatal.
+La Secretaría de Planeación será el órgano coordinador del Sistema Estatal de Estadística e Información. El COPLADECAM en coordinación con el INFOCAM serán los encargados de procurar la integración de la información de interés estatal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2016)</small>
 
 ###### Artículo 9.
 
-El COPLADECAM, a través de su Presidente, tendrá las siguientes funciones en materia de información:
+La Secretaría de Planeación tendrá las siguientes funciones en materia de información:
 
 I. Determinar y jerarquizar los objetivos y metas a alcanzar por el Sistema, así como definir las acciones generales necesarias para ello;
 
@@ -437,17 +447,25 @@ Cuando una Unidad desaparezca o se desincorpore, el Instituto deberá conservar 
 
 ### CAPÍTULO PRIMERO. DE LAS FUNCIONES Y ATRIBUCIONES DEL INFOCAM
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2016)</small>
+
 ###### Artículo 35.
 
-El INFOCAM es un organismo público descentralizado de la Administración Pública Estatal, con autonomía técnica y de gestión, personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Gobierno, responsable de normar y coordinar el Sistema Estatal de Información Estadística, Geográfica y Catastral.
+El INFOCAM es un organismo público descentralizado de la Administración Pública Estatal, con autonomía técnica y de gestión, personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Planeación, responsable de operar y procurar la integración y funcionalidad del Sistema Estatal de Información Estadística, Geográfica y Catastral.
+
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2016)
 
 ###### Artículo 36.
 
 El INFOCAM tendrá como objetivos prioritarios:
 
-I. Procurar la integración y funcionalidad del Sistema Estatal de Información que garantice información estadística, geográfica y catastral pertinente, de calidad, veraz, oportuna y científicamente sustentada, para contribuir con el Sistema de Planeación Estatal, en la optimización de la toma de decisiones públicas y coadyuvar al desarrollo general del Estado;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2016)</small>
 
-II. Coadyuvar con el COPLADECAM como un organismo técnico que integre, procese, analice, evalúe y de seguimiento a la información, con apego a las fracciones VII y VIII del artículo 17 de la Ley de Planeación del Estado de Campeche; coadyuvar en lo relacionado con las funciones de planeación del desarrollo, en términos del artículo 45 de la Ley Orgánica de la Administración Pública del Estado de Campeche, y coadyuvar con las dependencias y demás entidades de la Administración Pública con relación a la ejecución y funcionalidad de los sistemas de información estatal;
+I. Procurar la integración y funcionalidad del Sistema Estatal de Información que garantice la información estadística, geográfica y catastral pertinente, de calidad, veraz, oportuna y científicamente sustentada, para contribuir con el Sistema Estatal de Planeación Democrática en la optimización de la toma de decisiones públicas, y coadyuvar al desarrollo general del Estado;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2016)</small>
+
+II. Coadyuvar con el COPLADECAM como un organismo técnico que integre, procese, analice, evalúe y de seguimiento a la información, conforme a las disposiciones de la Ley de Planeación del Estado de Campeche; coadyuvar en lo relacionado con las funciones de planeación del desarrollo, en los términos que establezca la Ley Orgánica de la Administración Pública del Estado de Campeche; y coadyuvar con las dependencias y demás entidades de la Administración Pública con relación a la ejecución y funcionalidad de los sistemas de información estatal;
 
 III. En materia de información geográfica, coordinar los procesos de captación, procesamiento, creación, actualización, modernización y administración de la información; garantizar su precisión, utilidad y oportunidad; contribuir con la certeza geográfica del territorio y apoyar con instrumentos geográficos y territoriales las tareas de planeación y toma de decisiones;
 
@@ -579,33 +597,33 @@ VII. Los ingresos que reciba por cualquier otro concepto.
 
 La administración del INFOCAM estará a cargo de su Junta de Gobierno, a través de su Director General.
 
+> <small>(REFORMAD0, P.O. 4 DE JULIO DE 2016)</small>
+
 ###### Artículo 47.
 
 La Junta de Gobierno estará integrada por:
 
-I. Un Presidente, que será el Secretario de Gobierno;
+I.- Un Presidente, que será el o la Titular de la Secretaría de Planeación;
 
-II. Un Vicepresidente Ejecutivo, que será el Coordinador General del COPLADECAM;
+II.- Seis vocales, los cuales serán los o las titulares de la Secretaría de:
 
-III. Un Secretario Técnico, que será el Director General del INFOCAM;
+a) Desarrollo Económico;
 
-IV. Siete Vocales, los cuales serán:
+b) Desarrollo Rural;
 
-a. El Secretario de Desarrollo Industrial y Comercial;
+c) Desarrollo Urbano, Obras Públicas e Infraestructura;
 
-b. El Secretario de Desarrollo Rural;
+d) Desarrollo Social y Humano;
 
-c. El Secretario de Desarrollo Urbano y Obras Públicas;
+e) De la Contraloría; y
 
-d. El Secretario de Desarrollo Social y Regional;
-
-e. El Secretario de la Contraloría; y
-
-f. El Secretario de Finanzas.
+f) De Finanzas.
 
 Los integrantes de la Junta de Gobierno podrán nombrar suplentes quienes, por excepción, podrán asistir a las reuniones con las mismas funciones que los titulares, salvo las mencionadas como indelegables por la Ley Orgánica de la Administración Pública del Estado de Campeche.
 
 El cargo de miembro de la Junta de Gobierno será honorifico, por lo que no dará derecho a la percepción de retribución alguna en numerario o en especie por su desempeño.
+
+El o la titular de la Dirección General del INFOCAM realizará la función de Secretario Técnico, encargado de realizar las convocatorias correspondientes y elaborar las actas de las sesiones de la Junta de Gobierno.
 
 ###### Artículo 48.
 
@@ -899,9 +917,11 @@ III. Las autoridades competentes para el levantamiento geodésico y para realiza
 
 IV. Las autoridades locales para la organización de los catastros de los municipios y para la realización del levantamiento geodésico de los límites aceptados o reconocidos de los municipios.
 
+> <small>(REFORMAD0, P.O. 4 DE JULIO DE 2016)</small>
+
 ###### Artículo 68.
 
-Los procesos y actos específicos de registro o catastración de inmuebles sujetos a cualquier régimen de tenencia dentro del territorio del Estado, y su aplicación con propósitos múltiples, se regularán conforme a lo dispuesto por la ley de la materia.
+Los procesos y actos específicos de registro o catastración de inmuebles sujetos a cualquier régimen de tenencia dentro del territorio del Estado, y su aplicación con propósitos múltiples, se regularán conforme a lo dispuesto por la legislación vigente en materia catastral en el Estado de Campeche y demás normatividad aplicable.
 
 ## TÍTULO QUINTO. DE LAS FALTAS ADMINISTRATIVAS Y DE LAS SANCIONES
 
@@ -958,3 +978,13 @@ Dado en el Salón de Sesiones del Palacio Legislativo, en la Ciudad de San Franc
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado de Campeche, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los diecinueve días del mes de marzo del año dos mil trece.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- El SECRETARIO DE GOBIERNO, LIC. WILLIAM ROBERTO SARMIENTO URBINA.- RUBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 61 POR EL QUE SE "REFORMAN LOS ARTÍCULOS 3, 4, 8, 9, 35, 36, 47 Y 68 DE LA LEY DEL SISTEMA DE INFORMACIÓN PARA EL ESTADO DE CAMPECHE".]
+
+Primero.- El presente decreto entrará en vigor a los tres días después de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico Estatal, que se opongan al contenido del presente decreto.
