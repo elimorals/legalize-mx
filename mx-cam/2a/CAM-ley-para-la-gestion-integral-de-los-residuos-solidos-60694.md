@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-la-gestion-integral-de-los-residuos-solidos-60694"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-04"
-last_updated: "2008-03-04"
+last_updated: "2016-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # LEY PARA LA GESTION INTEGRAL DE LOS RESIDUOS SOLIDOS URBANOS, DE MANEJO ESPECIAL Y PELIGROSO DEL ESTADO DE CAMPECHE
 
-LEY PARA LA GESTION INTEGRAL DE LOS RESIDUOS SOLIDOS URBANOS, DE MANEJO ESPECIAL Y PELIGROSO DEL ESTADO DE CAMPECHE
+LEY PARA LA GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS URBANOS, DE MANEJO ESPECIAL Y PELIGROSO DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2016.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el martes 4 de marzo de 2008.
 
@@ -85,9 +85,11 @@ XII. Brindar certeza jurídica a la participación privada en la gestión integr
 
 En todo lo no previsto en la presente ley, se aplicarán, en lo conducente, los criterios, principios y demás disposiciones contenidos en la Ley General para la Prevención y Gestión Integral de los Residuos, y en su caso, el Código de Procedimientos Civiles del Estado de Campeche.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2016)</small>
+
 ###### Artículo 4.
 
-Para el cumplimiento de los objetivos de la presente ley y de las disposiciones que de ella emanen, son aplicables las definiciones siguientes:
+Para el cumplimiento de los objetivos de la presente Ley y de las disposiciones que de ella emanen, son aplicables las definiciones siguientes:
 
 I. Acopio.- Acción tendiente a reunir residuos en un lugar determinado, autorizado, apropiado, para su recolección y posterior manejo o disposición final;
 
@@ -127,6 +129,10 @@ XVIII. Pequeño Generador.- Establecimiento industrial, comercial o de servicios
 
 XIX. Plan de manejo.- Instrumento de gestión que contiene el conjunto de acciones y medios dispuestos para facilitar la devolución y acopio de productos de consumo que al desecharse se convierten en residuos, a fin de que sean enviados a instalaciones en las que se sujetarán a procesos que permitirán su reciclaje, aprovechamiento económico, tratamiento o disposición final ambientalmente adecuados;
 
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2016)</small>
+
+XIX BIS. Procuraduría: La Procuraduría de Protección al Ambiente del Estado;
+
 XX. Proceso productivo.- Conjunto de actividades relacionadas con la extracción, beneficio, transformación, procesamiento o utilización de materiales para producir bienes y servicios;
 
 XXI. Producto.- Bien que generan los procesos productivos a partir de la utilización de materiales primarios o secundarios;
@@ -153,7 +159,9 @@ XXXI. Residuos Sólidos Urbanos.- Los generados en la casa habitación, que resu
 
 XXXII. Reutilización.- El empleo de un material o residuo previamente empleado; sin que medie un proceso de transformación:
 
-XXXIII. Secretaría.- La Secretaría de Ecología del Gobierno del Estado.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2016)</small>
+
+XXXIII. Secretaría: La Secretaría de Medio Ambiente y Recursos Naturales del Estado de Campeche.
 
 ### CAPÍTULO III. DISTRIBUCIÓN DE COMPETENCIAS Y COORDINACIÓN
 
@@ -191,7 +199,7 @@ XIV. Coadyuvar al gobierno estatal en la integración de los subsistemas de info
 
 XV. Formular, establecer y evaluar los sistemas de manejo ambiental del Gobierno Estatal;
 
-XVI. Registrar y, en su caso autorizar, las obras y actividades relacionadas con la instalación y operación de sitios e infraestructura y para el traslado de residuos sólidos urbanos; (sic)
+XVI. Registrar y, en su caso autorizar, las obras y actividades relacionadas con la instalación y operación de sitios e infraestructura y para el traslado de residuos sólidos urbanos;
 
 ###### Artículo 6.
 
@@ -465,7 +473,7 @@ Se consideran como Residuos Sólidos Urbanos los generados en la casa habitació
 
 ###### Artículo 19.
 
-Se consideran Residuos de Manejo Especial aquéllos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos conforme a la normatividad ambiental vigente o como residuos sólidos urbanos, o que son producidos por Grandes Generadores de Residuos Sólidos Urbanos; (sic)
+Se consideran Residuos de Manejo Especial aquéllos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos conforme a la normatividad ambiental vigente o como residuos sólidos urbanos, o que son producidos por Grandes Generadores de Residuos Sólidos Urbanos;
 
 ###### Artículo 20.
 
@@ -1047,9 +1055,11 @@ Y será obligación de la Secretaría informar de manera inmediata y por escrito
 
 ### CAPÍTULO I. INSPECCIÓN Y VIGILANCIA
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2016)</small>
+
 ###### Artículo 99.
 
-La Secretaría, cumpliendo con las formalidades del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, a través de personal debidamente acreditado y autorizado, podrá realizar actos de inspección y vigilancia para la verificación del cumplimiento de esta Ley.
+La Secretaría, a través de la Procuraduría, cumpliendo con las formalidades del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, a través de personal debidamente acreditado y autorizado, podrá realizar actos de inspección, vigilancia, determinación de infracciones y sus sanciones y procedimientos administrativos, y resolver sobre los recursos legales para la verificación del cumplimiento de esta Ley.
 
 ###### Artículo 100.
 
@@ -1254,3 +1264,11 @@ En cumplimiento de lo dispuesto por los Artículos 48, 49 y 71 fracción XVIII d
 Dado en el Palacio del Gobierno del Estado, en San Francisco de Campeche, Campeche, a los tres días del mes de marzo del año dos mil ocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CARLOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, M. EN D. RICARDO MEDINA FARFAN. RÚBRICAS.
+
+P.O. 4 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 60 POR EL QUE “SE ADICIONA UNA FRACCIÓN XIX BIS Y SE REFORMA LA FRACCIÓN XXXIII DEL ARTÍCULO 4; Y SE REFORMA EL ARTÍCULO 99 DE LA LEY PARA LA GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS URBANOS, DE MANEJO ESPECIAL Y PELIGROSO DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
