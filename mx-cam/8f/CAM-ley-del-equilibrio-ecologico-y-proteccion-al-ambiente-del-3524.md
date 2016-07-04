@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-3524"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-22"
-last_updated: "2012-08-30"
+last_updated: "2016-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CAMPECHE
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 235, POR EL CUAL SE EXPIDE EL CÓDIGO PENAL DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 20 DE JULIO DE 2012, SE DEROGAN LOS TIPOS PENALES CONTENIDOS EN LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CAMPECHE.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 22 de junio de 1994.
 
@@ -129,6 +129,10 @@ XXII.- PRESERVACION: El conjunto de políticas y medidas para mantener las condi
 
 XXIII.- PREVENCION: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
 
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2016)</small>
+
+XXIII bis.- PROCURADURIA: La Procuraduría de Protección al Ambiente del Estado;
+
 XXIV.- PROTECCION: El conjunto de políticas y medidas para mejorar el ambiente, prevenir y controlar su deterioro;
 
 XXV.- RECURSO NATURAL: El elemento natural susceptible de ser aprovechado en beneficio del hombre;
@@ -147,7 +151,9 @@ XXXI.- SISTEMAS DE DRENAJE Y ALCANTARILLADO ESTATAL O MUNICIPAL: Conjunto de dis
 
 XXXII.- SECRETARIA FEDERAL: La Secretaría de Desarrollo Social de la Administración Pública Federal;
 
-XXXIII.- SECRETARIA ESTATAL: La Secretaría de Desarrollo Social de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2016)</small>
+
+XXXIII.- SECRETARÍA ESTATAL: La Secretaría de Medio Ambiente y Recursos Naturales del Estado de Campeche;
 
 XXXIV.- TRATAMIENTO DE AGUAS RESIDUALES: Proceso a que se someten las aguas residuales, con el objeto de disminuir o eliminar los contaminantes que se les hayan incorporado; y
 
@@ -1705,7 +1711,9 @@ El Gobierno del Estado y los Ayuntamientos propondrán al Ejecutivo Federal la c
 
 Para los asuntos de la jurisdicción estatal y municipal regulados en la presente Ley y disposiciones que de la misma emanen, en la aplicación de las disposiciones referentes a los actos de inspección y vigilancia, determinación de infracciones, sus sanciones y procedimientos administrativos, al igual que sus recursos, son competentes:
 
-I.- En el ámbito estatal, la Subsecretaría de Desarrollo Urbano y Medio Ambiente de la Secretaría Estatal, y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2016)</small>
+
+I.- En el ámbito estatal, la Secretaría a través de la Procuraduría de Protección al Ambiente del Estado, y
 
 II.- En el ámbito municipal, el Presidente del Ayuntamiento respectivo.
 
@@ -2026,3 +2034,11 @@ PRIMERO.- El presente decreto entrará en vigor a los quince días después de s
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan a este decreto.
 
 TERCERO.- La Secretaría Estatal contará con 90 días hábiles para la realización y/o actualización de los convenios a que haya lugar.
+
+P.O. 4 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 60 POR EL QUE "SE ADICIONA UNA FRACCIÓN XXIII BIS Y SE REFORMA LA FRACCIÓN XXXIII DEL ARTÍCULO 3; Y SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 168 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
