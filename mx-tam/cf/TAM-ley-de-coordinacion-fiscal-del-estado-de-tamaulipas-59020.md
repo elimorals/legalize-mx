@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-fiscal-del-estado-de-tamaulipas-59020"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2015-12-17"
+last_updated: "2016-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2016.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -909,6 +909,24 @@ P.O. 17 DE DICIEMBRE DE 2015.
 
 DECRETO No. LXII-744, POR EL QUE SE ADICIONA EL ARTÍCULO 4 BIS DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS.
 
-###### ARTÍCULO ÚNICO.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2016)</small>
+
+###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2016)</small>
+
+###### ARTÍCULO SEGUNDO.
+
+El porcentaje correspondiente a los Municipios del Estado, de la recaudación del Impuesto sobre Tenencia o Uso de Vehículos de carácter estatal establecido en el artículo 44 de la Ley de Coordinación Fiscal del Estado de Tamaulipas, no obstante lo establecido en el citado artículo, durante el año 2016 será equivalente al 37 por ciento de los ingresos obtenidos por dicho Impuesto.
+
+Este porcentaje será distribuido en proporción a la recaudación que se obtenga de dichos conceptos, conforme al domicilio declarado por el contribuyente al efectuar su pago
+
+P.O. 5 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXII-965, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO ÚNICO TRANSITORIO Y SE ADICIONA UN ARTÍCULO SEGUNDO TRANSITORIO AL DECRETO NO. LXII-744, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO NO. 151 DE FECHA 17 DE DICIEMBRE DEL 2015”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor el día de su publicación.
