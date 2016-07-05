@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-procuraduria-general-de-justicia-del-99981"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-12-24"
-last_updated: "2015-12-30"
+last_updated: "2016-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,11 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2015.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 5 DE JULIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEXTO TRANSITORIO DEL DECRETO 413, PUBLICADO EN EL P.O. 5 DE JULIO DE 2016, TODA MENCIÓN DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO O DEL PROCURADOR GENERAL DE JUSTICIA, EN LEYES, REGLAMENTOS Y DEMÁS DISPOSICIONES JURÍDICAS, SE ENTENDERÁN REFERIDAS A LA FISCALÍA GENERAL DEL ESTADO O AL FISCAL GENERAL, RESPECTIVAMENTE.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2016 (ABROGADO).
 
 Ley publicada en el Número 113 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 24 de diciembre de 2013.
 
@@ -3558,3 +3562,49 @@ TERCERO. Los juicios iniciados en el Distrito Judicial de Cancún, con anteriori
 CUARTO. Remítase copia del presente Decreto a los poderes públicos de la Federación, de las Entidades Federativas y del Distrito Federal, así como a los demás poderes del Estado de Quintana Roo, para su conocimiento y efectos a que haya lugar.
 
 QUINTO. Remítase copia del presente Decreto a la Procuraduría General de Justicia, al Instituto de la Defensoría Pública del Estado, al Centro de Justicia Alternativa, a la Secretaría de Seguridad Pública y a los Honorables Ayuntamientos, todos del Estado de Quintana Roo, para los efectos correspondientes.
+
+P.O. 5 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 413 POR EL QUE SE EXPIDE LA LEY DE FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO”.]
+
+Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado de Quintana Roo, publicada el veinticuatro de diciembre del año dos mil trece, y se derogan todas las disposiciones que se opongan a•la presente ley, salvo lo dispuesto en los siguientes artículos.
+
+Tercero. Los fondos públicas asignados o pertenecientes a la Fiscalía General del Estado, se regirán por las leyes en materia de manejo de recursos públicos y administración financiera vigentes. El Fiscal General del Estado y demás servidores públicos que administren y/o ejecuten dichos fondos, adquieren el carácter de ejecutor responsable de los mismos, a partir de que los reciban.
+
+Cuarto. La Fiscalía General del Estado, continuará aplicando las disposiciones reglamentarias y administrativas que no se opongan a la presente ley, hasta en tanto el Fiscal General expida y mande publicar las correspondientes, y éstas entren en vigor en su ámbito de competencia.
+
+Quinto. La Secretaría de Finanzas y Planeación del Gobierno del Estado de Quintana Roo, transferirá los recursos asignados a la Procuraduría General de Justicia del Estado en el Presupuesto de Egresos del Estado para el ejercicio fiscal 2016 a la Fiscalía General del Estado.
+
+Sexto. Las facultades atribuidas al Procurador General de Justicia• en las leyes, reglamentos y demás disposiciones jurídicas se entenderán conferidas al Fiscal General, siempre que sean compatibles con el carácter de órgano constitucional autónomo de la Fiscalía General del Estado y sus atribuciones contenidas en la presente ley.
+
+La mención de la Procuraduría General de Justicia del Estado o del Procurador General de Justicia, en leyes, reglamentos y demás disposiciones jurídicas, se entenderán referidas a la Fiscalía General del Estado o al Fiscal General, respectivamente, en los términos precisados en el párrafo anterior.
+
+Séptimo. En cuanto a los bienes y recursos de la Fiscalía General del Estado, se deberá observar lo siguiente:
+
+a) La Fiscalía General del Estado, determinará las áreas o unidades administrativas, bienes y el número de personal requerido para el cumplimiento de la operación inicial de las funciones a su cargo.
+
+b) Conservará al personal y bienes que sean necesarios para el cumplimiento de las funciones de investigación y persecución de los delitos, las áreas administrativas y las generales, derivadas de los ordenamientos legales que son inherentes a las atribuciones a su cargo, manteniendo dicho personal sus derechos laborales.
+
+c) Las demás áreas que no son inherentes a las funciones de la Fiscalía General del Estado, plenamente identificadas en personal y bienes, se transfieren a las instancias que de acuerdo a sus funciones corresponden dependientes del Poder Ejecutivo del Estado.
+
+d) El Fiscal General del Estado, expedirá los nombramientos del personal a su cargo, así como la normatividad necesaria para el cumplimiento de las funciones de la Fiscalía General del Estado;
+
+e) La relación laboral o administrativa de los servidores públicos de la Fiscalía General del Estado, se regirá por la normatividad aplicable. Los servidores Públicos que con anterioridad a la entrada en vigor de la presente ley se encontraban prestando sus servicios en la Procuraduría General de Justicia del Estado de Quintana Roo, seguirán conservando su misma calidad, antigüedad, derechos laborales y de seguridad Social que le correspondan ante la Fiscalía General del Estado.
+
+Las condiciones generales de trabajo y demás disposiciones que se encontraban vigentes antes de la fecha de entrada en vigor de la presente ley, continuarán aplicándose para el personal de base.
+
+f) Los recursos financieros y presupuestales asignados o con que actualmente cuenta la Procuraduría General de Justicia del Estado, incluyendo los derechos derivados de los fondos vigentes, pasaran a formar parte de la Fiscalía General del Estado;
+
+g) La Fiscalía General del Estado asume y se subroga en todas y cada uno de los derechos y de las obligaciones derivadas de las relaciones establecidas por la Procuraduría General de Justicia del Estado con integrantes del sector público, privado, social y académico.
+
+h) Se continuarán aplicando las disposiciones vigentes a la entrada en vigor de la presente Ley, relativas a sueldos, prestaciones, antigüedad, escalafón, tabuladores y a la administración de los recursos humanos, en tanto el Fiscal General dicta la modificación que considere necesaria, por lo que las condiciones generales de trabajo y demás disposiciones legales y contractuales que se ajusten a la ley de la materia, continuarán vigentes, en tanto el Fiscal General dicta lo conducente.
+
+i) El patrimonio administrado por la Procuraduría General de Justicia del Estado, integrado por bienes muebles, inmuebles, derechos, licencias, títulos, armas, cartuchos, chalecos, equipo de seguridad, tecnología, sistemas informáticos, dinero en efectivo o en documentos, órdenes de pago, valores, documentos, pólizas, obligaciones, contratos, convenios, acuerdos y cualquier otro que le éste asignado, de uso propio o de terceros, pasaran a formar parte del patrimonio de la Fiscalía General del Estado, quien podrá ejecutar las acciones de cualquier naturaleza necesarias para su administración, conservación y defensa, por lo que se le deberá transmitir su dominio.
+
+j) Hasta en tanto se realice la transmisión a favor de la Fiscalía General del Estado de lo dispuesto en el inciso que antecede dicho órgano constitucional autónomo continuará ejerciendo el uso de los citados bienes y realizará lo necesario para continuar con el disfrute de los mismos, ejerciendo las acciones legales necesarias para su defensa.
+
+Octavo. La Fiscalía Generar del Estado, continuará con los procedimientos jurisdiccionales, administrativos, de responsabilidad o cualquier otro, que estuviesen en trámite por parte de la Procuraduría General de Justicia del Estado a la entrada en vigor de esta ley, y se concluirán conforme a la normatividad vigente al inicio del procedimiento de que se trate, a través de los órganos de la Fiscalía General del Estado que esta Ley y las disposiciones reglamentarias señalen.
+
+Noveno. Los asuntos en los que la Procuraduría General de Justicia ejerza la representación del Estado de Quintana Roo o del titular del Poder Ejecutivo, que se encuentren en trámite, deberán remitirse dentro de los veinte días hábiles siguientes al Consejero Jurídico del Poder Ejecutivo del Estado, quien deberá continuar con la sustanciación de los mismos.
