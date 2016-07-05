@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-para-la-75705"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-07-16"
-last_updated: "2016-04-28"
+last_updated: "2016-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75705&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-06-29"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL PARA LA PROTECCIÓN Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JULIO DE 2016.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 16 de julio de 2010.
 
@@ -93,7 +93,9 @@ d) De Planeación y Administración.
 
 IV. Direcciones Generales
 
-a) De Desarrollo Financiero, Estadístico y Operativo;
+> <small>(REFORMADO, D.O.F. 5 DE JULIO DE 2016)</small>
+
+a) De Desarrollo Financiero, Estadístico y de Tecnologías de Información;
 
 b) De Educación Financiera;
 
@@ -113,11 +115,15 @@ g) De Delegaciones Centro-Occidente;
 
 h) De Delegaciones Norte-Sur;
 
-i) De Bienes y Servicios;
+i) (DEROGADO, D.O.F. 5 DE JULIO DE 2016)
 
-j) De Personal y Organización, y
+> <small>(REFORMADO, D.O.F. 5 DE JULIO DE 2016)</small>
 
-k) De Planeación.
+j) De Administración; y
+
+> <small>(REFORMADO, D.O.F. 5 DE JULIO DE 2016)</small>
+
+k) De Planeación y Organización.
 
 V. Direcciones
 
@@ -181,27 +187,27 @@ r) Enlace y Análisis Regional Centro-Occidente;
 
 s) Enlace y Análisis Regional Norte-Sur;
 
-t) De Adquisiciones;
+> <small>(REFORMADO, D.O.F. 5 DE JULIO DE 2016)</small>
+
+t) De Recursos Materiales y Servicios Generales;
 
 u) De Gestión y Control Documental;
 
-v) De Servicios Generales;
+v) (DEROGADO, D.O.F. 5 DE JULIO DE 2016)
 
 w) De Administración de Personal;
 
-x) De Desarrollo de Personal;
+x) (DEROGADO, D.O.F. 5 DE JULIO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 5 DE JULIO DE 2016)</small>
 
-y) De Organización y Selección de Personal;
+y) De Organización.
 
 > <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
 z) De Programación y Finanzas, y
 
-> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
-
-aa) De Informática y Telecomunicaciones.
+aa) (DEROGADO, D.O.F. 5 DE JULIO DE 2016)
 
 V Bis. (DEROGADA, D.O.F. 29 DE MAYO DE 2015)
 
@@ -247,7 +253,9 @@ Se adscriben a la Presidencia: la Secretaría Técnica, las Vicepresidencias Té
 
 I. A la Vicepresidencia Técnica, las Direcciones Generales de:
 
-a) Desarrollo Financiero, Estadístico y Operativo;
+> <small>(REFORMADO, D.O.F. 5 DE JULIO DE 2016)</small>
+
+a) Desarrollo Financiero, Estadístico y de Tecnologías de Información;
 
 b) Educación Financiera, y
 
@@ -277,11 +285,15 @@ b) Delegaciones Norte-Sur.
 
 IV. A la Vicepresidencia de Planeación y Administración, las Direcciones Generales de:
 
-a) Bienes y Servicios;
+a) (DEROGADO, D.O.F. 5 DE JULIO DE 2016)
 
-b) Personal y Organización, y
+> <small>(REFORMADO, D.O.F. 5 DE JULIO DE 2016)</small>
 
-c) Planeación.
+b) Administración, y
+
+> <small>(REFORMADO, D.O.F. 5 DE JULIO DE 2016)</small>
+
+c) Planeación y Organización.
 
 IV Bis. (DEROGADA, D.O.F. 29 DE MAYO DE 2015)
 
@@ -475,9 +487,11 @@ Los Directores de Área, Delegados Regionales, Subdirectores, Subdelegados o Jef
 
 Con excepción de las fracciones I, III, IV y VI anteriores, los Delegados Regionales, en el ámbito de su competencia, tendrán las atribuciones señaladas en el presente artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE JULIO DE 2016)</small>
+
 ###### Artículo 14.
 
-Corresponde a la Dirección General de Desarrollo Financiero, Estadístico y Operativo, el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección General de Desarrollo Financiero, Estadístico y de Tecnologías de Información, el ejercicio de las siguientes atribuciones:
 
 I. Actuar como enlace con las dependencias y entidades de la Administración Pública Federal en asuntos relacionados con el ejercicio de sus atribuciones, en coordinación con la Dirección General de Servicios Legales;
 
@@ -509,9 +523,9 @@ XIII. Formular observaciones a la aplicación de las comisiones que cobren las s
 
 XIV. Vigilar el comportamiento de las comisiones o cargos máximos y mínimos que cobren las sociedades financieras de objeto múltiple, entidades no reguladas, por las operaciones y servicios que presten, para darlos a conocer al público en general;
 
-> <small>(ADICIONADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2016)</small>
 
-XIV Bis. Diseñar, desarrollar, administrar y optimizar el sitio web de la Comisión Nacional, en coordinación con las áreas técnicas correspondientes;
+XIV Bis. Diseñar, desarrollar y optimizar el sitio web de la Comisión Nacional, en coordinación con las áreas técnicas correspondientes;
 
 XV. Solicitar y analizar la información que reporten las áreas de atención a Usuarios, respecto de los servicios proporcionados por la Comisión Nacional a los Usuarios, así como elaborar los análisis estadísticos que deriven de esa información;
 
@@ -525,11 +539,13 @@ XIX. Establecer los criterios para evaluar la información que reporten las áre
 
 XX. Proporcionar información sobre la situación de los servicios que prestan las Instituciones Financieras y sus niveles de atención;
 
-> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2016)</small>
 
-XXI. Formular, desarrollar, implementar y actualizar los procesos de atención a Usuarios y manuales de procedimientos inherentes, en coordinación con las unidades administrativas correspondientes, turnándolos a la Dirección General de Personal y Organización para su registro y difusión;
+XXI. Formular, desarrollar, implementar y actualizar los procesos de atención a Usuarios y manuales de procedimientos inherentes, en coordinación con las unidades administrativas correspondientes, turnándolos a la Dirección General de Planeación y Organización para su registro y difusión;
 
-XXII. Diseñar, desarrollar, administrar, actualizar y optimizar los sistemas y herramientas automatizados que soportan las operaciones de las áreas técnicas y de atención a Usuarios, así como capacitar al personal que los aplique;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XXII. Diseñar, desarrollar, administrar, actualizar y optimizar los sistemas y herramientas automatizados de todas las unidades administrativas de la Comisión Nacional, así como capacitar al personal que los aplique;
 
 XXIII. Elaborar y actualizar los manuales de usuario de sistemas y herramientas automatizados correspondientes;
 
@@ -565,13 +581,41 @@ XXXII. Vigilar que las Instituciones Financieras cumplan con las disposiciones l
 
 XXXIII. Llevar a cabo la supervisión de las Instituciones Financieras, en el ámbito de su respectiva competencia;
 
-> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2016)</small>
 
-XXXIV. Ordenar, previa opinión de la Dirección General de Servicios Legales, e informar al Comité de Supervisión, los programas de cumplimiento forzoso, que llevarán a cabo las Instituciones Financieras con motivo de las observaciones e irregularidades detectadas en las facultades de supervisión, dentro de su respectivo ámbito de competencia, y
+XXXIV. Ordenar, previa opinión de la Dirección General de Servicios Legales, e informar al Comité de Supervisión, los programas de cumplimiento forzoso, que llevarán a cabo las Instituciones Financieras con motivo de las observaciones e irregularidades detectadas en las facultades de supervisión, dentro de su respectivo ámbito de competencia;
 
-> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2016)</small>
 
-XXXV. Notificar la opinión que la Dirección General de Servicios Legales dé a los proyectos de estatutos presentados por aquellos interesados en constituirse como Sociedad Financiera de Objeto Múltiple.
+XXXV. Notificar la opinión que la Dirección General de Servicios Legales dé a los proyectos de estatutos presentados por aquellos interesados en constituirse como Sociedad Financiera de Objeto Múltiple;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XXXVI. Determinar y dirigir la implantación y actualización de la infraestructura en tecnologías de la información de la Comisión Nacional, para dotar de elementos informáticos y herramientas de telecomunicaciones que apoyen el cumplimiento de las funciones de las áreas y de los objetivos institucionales;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XXXVII. Dictaminar, dirigir, supervisar y evaluar los procedimientos de adquisición de bienes y servicios de informática, redes y telecomunicaciones de la Comisión Nacional, vigilando su cumplimiento, así como emitir la normativa que a éstos corresponda, en coordinación con la Dirección General de Servicios Legales;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XXXVIII. Dictaminar los sistemas informáticos que requieran las unidades administrativas de la Comisión Nacional en el desempeño de sus atribuciones;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XXXIX. Dar mantenimiento y soporte técnico a las instalaciones de cómputo, telecomunicaciones y bancos de datos de la Comisión Nacional, e integrar la conectividad informática necesaria para el enlace con organismos públicos y privados, nacionales e internacionales;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XL. Apoyar y asistir técnicamente la instalación y servicio de los sistemas automatizados desarrollados en la Comisión Nacional;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XLI. Establecer, supervisar y evaluar el cumplimiento de las normas y políticas de seguridad para el uso y salvaguarda de los equipos e instalaciones de cómputo, telecomunicaciones, telefonía y bancos de datos de la Comisión Nacional, así como supervisar y evaluar las acciones preventivas y correctivas en la materia, y
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XLII. Administrar los sitios electrónicos de la Comisión Nacional, dentro de la red mundial de información (Intranet/Internet), en coordinación con las unidades administrativas responsables de los contenidos.
 
 > <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2014)</small>
 
@@ -875,9 +919,9 @@ XXVIII. Remitir a la Dirección General de Arbitraje y Sanciones, en un plazo qu
 
 XXIX. Turnar a la Dirección General de Servicios Legales, en un plazo no mayor a cinco días hábiles, contados a partir del día siguiente a aquél en que los haya recibido, los recursos de revisión con el expediente respectivo para su substanciación, y desechar por improcedentes aquellos que se refieran a actos distintos a los que prevé el artículo 99 de la Ley; 50 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros y 110 de la Ley de Instituciones de Crédito, según corresponda, y
 
-> <small>(ADICIONADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2016)</small>
 
-XXX. Elaborar la información estadística relacionada con los servicios proporcionados conforme a sus atribuciones, para su remisión a la Dirección General de Desarrollo Financiero y Operativo.
+XXX. Elaborar la información estadística relacionada con los servicios proporcionados conforme a sus atribuciones, para su remisión a la Dirección General de Desarrollo Financiero, Estadístico y de Tecnologías de Información.
 
 (REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011) (F. DE E. D.O.F. 9 DE NOVIEMBRE DE 2011)
 
@@ -947,9 +991,9 @@ XXI. Representar a la Comisión Nacional en los comités técnicos de los fideic
 
 XXII. Solicitar a las instituciones financieras y autoridades competentes, la información y/o documentación necesarias para desempeñar adecuadamente las funciones que le competen;
 
-> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2016)</small>
 
-XXIII. Atender y resolver las consultas de las Instituciones Financieras y de los Usuarios y en coordinación con la Dirección General de Desarrollo Financiero, Estadístico y Operativo en materia financiera y contable;
+XXIII. Atender y resolver las consultas de las Instituciones Financieras y de los Usuarios y en coordinación con la Dirección General de Desarrollo Financiero, Estadístico y de Tecnologías de Información en materia financiera y contable;
 
 XXIV. Recibir y tramitar las solicitudes de los Usuarios que se presuman beneficiarios de algún seguro de vida, ya sean individuales o colectivos, incluyendo aquellos que se obtienen por la contratación de productos y servicios financieros;
 
@@ -959,7 +1003,9 @@ XXV. Coordinar la forma y términos en que se atenderán las solicitudes de los 
 
 XXVI. Participar en el diseño y ejecución de los programas de capacitación permanente para los Defensores de la Comisión Nacional;
 
-XXVII. Elaborar la información estadística relacionada con los servicios proporcionados conforme a sus atribuciones, para su remisión a la Dirección General de Desarrollo Financiero y Operativo;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XXVII. Elaborar la información estadística relacionada con los servicios proporcionados conforme a sus atribuciones, para su remisión a la Dirección General de Desarrollo Financiero, Estadístico y de Tecnologías de Información;
 
 > <small>(REFORMADA, D.O.F. 29 DE MAYO DE 2015)</small>
 
@@ -1001,11 +1047,15 @@ V. Emitir los criterios jurídicos a seguir por la Comisión Nacional, en relaci
 
 VI. Difundir entre las unidades administrativas de la Comisión Nacional las disposiciones normativas que regulan al sistema financiero mexicano o cualquier otra disposición jurídica que pueda ser del interés del organismo;
 
-VII. Compilar las disposiciones jurídicas y administrativas, la jurisprudencia y la doctrina que se relaciona con el sistema financiero mexicano y turnarlas para su sistematización a la Dirección General de Desarrollo Financiero, Estadístico y Operativo, en un plazo no mayor a diez días hábiles, contados a partir del día siguiente a aquél en que se hayan publicado en el Diario Oficial de la Federación;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+VII. Compilar las disposiciones jurídicas y administrativas, la jurisprudencia y la doctrina que se relaciona con el sistema financiero mexicano y turnarlas para su sistematización a la Dirección General de Desarrollo Financiero, Estadístico y de Tecnologías de Información, en un plazo no mayor a diez días hábiles, contados a partir del día siguiente a aquél en que se hayan publicado en el Diario Oficial de la Federación;
 
 VIII. Elaborar estudios jurídicos y de derecho comparado relacionados con el sistema financiero mexicano, y proponer, en su caso, a la Dirección General de Educación Financiera la publicación de los mismos;
 
-IX. Proponer a la Dirección General de Desarrollo Financiero, Estadístico y Operativo, con base en la información derivada de los procedimientos a cargo de la Vicepresidencia Jurídica, la elaboración de recomendaciones dirigidas a las Instituciones Financieras;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+IX. Proponer a la Dirección General de Desarrollo Financiero, Estadístico y de Tecnologías de Información, con base en la información derivada de los procedimientos a cargo de la Vicepresidencia Jurídica, la elaboración de recomendaciones dirigidas a las Instituciones Financieras;
 
 X. Emitir recomendaciones a las autoridades federales sobre los aspectos jurídicos de iniciativas de leyes, anteproyectos y proyectos de reglamentos, acuerdos, circulares, bases y demás ordenamientos relacionados con las actividades de la Comisión Nacional;
 
@@ -1025,7 +1075,9 @@ XVI. Revisar y autorizar los convenios, contratos y demás actos jurídicos que 
 
 XVII. Otorgar asesoría jurídica a las unidades administrativas de la Comisión Nacional respecto de la contratación de obras públicas, adquisición y enajenación de bienes, arrendamientos y la prestación de servicios de cualquier naturaleza;
 
-XVIII. Asesorar a la Dirección General de Bienes y Servicios en el procedimiento de conciliación a que se refieren la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas, así como participar en el procedimiento administrativo de rescisión de contratos o pedidos previsto en las citadas leyes;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XVIII. Asesorar a la Dirección General de Administración en el procedimiento de conciliación a que se refieren la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas, así como participar en el procedimiento administrativo de rescisión de contratos o pedidos previsto en las citadas leyes;
 
 XIX. Fungir como enlace técnico entre la Comisión Nacional y la Comisión Federal de Mejora Regulatoria;
 
@@ -1035,7 +1087,9 @@ XXI. Someter a la consideración de la Comisión Federal de Mejora Regulatoria l
 
 XXII. Dictaminar las políticas, lineamientos, procedimientos, criterios y demás documentos normativos internos que pretendan emitir las unidades administrativas del organismo;
 
-XXIII. Gestionar la publicación en el Diario Oficial de la Federación de las disposiciones, resoluciones o avisos que deban emitirse conforme a la Ley, la Ley General de Organizaciones y Actividades Auxiliares del Crédito, la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, este Estatuto Orgánico y demás disposiciones aplicables, con excepción de aquellas que correspondan a la Dirección General de Bienes y Servicios;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XXIII. Gestionar la publicación en el Diario Oficial de la Federación de las disposiciones, resoluciones o avisos que deban emitirse conforme a la Ley, la Ley General de Organizaciones y Actividades Auxiliares del Crédito, la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, este Estatuto Orgánico y demás disposiciones aplicables, con excepción de aquellas que correspondan a la Dirección General de Administración;
 
 > <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
 
@@ -1059,9 +1113,9 @@ XXIX. Ordenar el remate de valores invertidos propiedad de las Instituciones y S
 
 XXX. Atender, substanciar y resolver los recursos de revisión que se interpongan en contra de las resoluciones que emitan las diversas unidades administrativas de la Comisión Nacional, en términos de las disposiciones legales aplicables;
 
-> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2016)</small>
 
-XXX Bis. Revisar y emitir opinión a los proyectos de estatutos, que le haga llegar la Dirección General de Desarrollo Financiero Estadístico y Operativo, que presenten los interesados en constituirse como Sociedad Financiera de Objeto Múltiple, para que esta última les notifique dicha opinión;
+XXX Bis. Revisar y emitir opinión a los proyectos de estatutos, que le haga llegar la Dirección General de Desarrollo Financiero, Estadístico y de Tecnologías de Información, que presenten los interesados en constituirse como Sociedad Financiera de Objeto Múltiple, para que ésta última les notifique dicha opinión;
 
 XXXI. Solicitar información o documentación a las unidades administrativas de la Comisión Nacional, necesarias para el ejercicio de las atribuciones establecidas en el presente Estatuto;
 
@@ -1179,7 +1233,9 @@ XVI. Emitir el acuerdo de abstención de sanción a las Instituciones Financiera
 
 XVII. Fungir como secretario del Comité de Abstención de Sanciones;
 
-XVIII. Turnar a la Dirección General de Planeación, en un plazo no mayor a treinta días hábiles, contado a partir de la fecha en que haya quedado firme, la información relativa a las multas impuestas por la Comisión Nacional, para los efectos del artículo 23, fracción XIII, del presente Estatuto Orgánico;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XVIII. Turnar a la Dirección General de Planeación y Organización, en un plazo no mayor a treinta días hábiles, contado a partir de la fecha en que haya quedado firme, la información relativa a las multas impuestas por la Comisión Nacional, para los efectos del artículo 23, fracción XIII, del presente Estatuto Orgánico;
 
 XIX. Ordenar, previa solicitud de la Dirección General de Evaluación y Vigilancia, la suspensión de la celebración de nuevas operaciones y servicios similares a las Entidades Financieras, en los casos previstos en el artículo 13 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, y
 
@@ -1241,11 +1297,13 @@ XII. Fijar las acciones para que las Delegaciones Regionales convoquen a sesiona
 
 XIII. Colaborar con las Delegaciones Regionales en el desarrollo de acciones específicas para el mejoramiento de los servicios de atención a los Usuarios;
 
-XIV. Establecer y mantener relaciones con autoridades e Instituciones Financieras, así como con organizaciones e instituciones estatales públicas y privadas, en coordinación con la Dirección General de Desarrollo Financiero, Estadístico y Operativo, para intercambiar estudios e información financiera;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2016)</small>
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
+XIV. Establecer y mantener relaciones con autoridades e Instituciones Financieras, así como con organizaciones e instituciones estatales públicas y privadas, en coordinación con la Dirección General de Desarrollo Financiero, Estadístico y de Tecnologías de Información, para intercambiar estudios e información financiera;
 
-XV. Conocer de la información obtenida por la Dirección General de Desarrollo Financiero, Estadístico y Operativo, para los fines de supervisión y evaluación del desempeño de las Delegaciones Regionales;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XV. Conocer de la información obtenida por la Dirección General de Desarrollo Financiero, Estadístico y de Tecnologías de Información, para los fines de supervisión y evaluación del desempeño de las Delegaciones Regionales;
 
 XVI. Gestionar en el ámbito de su competencia, previo acuerdo del Presidente y del Vicepresidente de Delegaciones, la celebración de acuerdos de coordinación y convenios con las autoridades federales o locales, con los sectores social y/o privado, con las Instituciones Financieras, asociaciones, organismos u otras agrupaciones, supervisando el cumplimiento de los compromisos que de ellos se deriven;
 
@@ -1269,47 +1327,13 @@ Las atribuciones establecidas en el presente artículo serán ejercidas directam
 
 ###### Artículo 21.
 
-Corresponde a la Dirección General de Bienes y Servicios el ejercicio de las siguientes atribuciones:
+(DEROGADO, D.O.F. 5 DE JULIO DE 2016)
 
-I. Formular las políticas, bases, criterios y lineamientos de la Comisión Nacional en materia de adquisiciones, arrendamientos y servicios;
-
-II. Formular, proponer, instrumentar, ejecutar, controlar y evaluar los programas de la Comisión Nacional, en materia de adquisiciones, arrendamientos y servicios;
-
-III. Vigilar el cumplimiento de la normativa en materia de adquisiciones, arrendamientos y servicios;
-
-IV. Celebrar convenios y contratos, previa opinión de la Dirección General de Servicios Legales, para la contratación y adquisición de bienes, arrendamientos y servicios;
-
-V. Gestionar en el Diario Oficial de la Federación las publicaciones relacionadas con los procesos de licitación, así como aquellas que les soliciten las unidades administrativas de la Comisión Nacional, con excepción de las previstas en el artículo 19, fracción XXIII, del presente Estatuto Orgánico;
-
-VI. Atender el procedimiento de conciliación a que se refieren la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
-
-VII. Formular las políticas, bases, criterios y lineamientos de la Comisión Nacional en materia de almacenes y enajenación de bienes y verificar su cumplimiento;
-
-VIII. Formular, proponer, instrumentar, ejecutar, controlar y evaluar los programas de la Comisión Nacional, en materia de almacenes y enajenación de bienes muebles e inmuebles;
-
-IX. Vigilar el cumplimiento de la normativa en materia de almacenes y enajenación de bienes;
-
-X. Supervisar los sistemas de control e inventarios de bienes muebles e inmuebles;
-
-XI. Formular las políticas, bases, criterios y lineamientos de la Comisión Nacional en materia de servicios generales, protección civil, ahorro de energía y administración sustentable;
-
-XII. Formular, proponer, instrumentar, ejecutar, controlar y evaluar los programas de la Comisión Nacional en materia de servicios generales, protección civil, ahorro de energía y administración sustentable;
-
-XIII. Vigilar el cumplimiento de la normativa en materia de servicios generales, protección civil, ahorro de energía y administración sustentable;
-
-XIV. Formular las políticas, bases, criterios y lineamientos de la Comisión Nacional en materia de organización y conservación de archivos y verificar su cumplimiento;
-
-XV. Formular, proponer, instrumentar, ejecutar, controlar y evaluar los programas de la Comisión Nacional, en materia de organización y conservación de archivos, así como, los servicios de mensajería local y foránea, y
-
-XVI. Vigilar el cumplimiento de la normativa en materia de organización y conservación de archivos.
-
-> <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
-
-Las atribuciones establecidas en el presente artículo serán ser (sic) ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Adquisiciones, las contenidas en las fracciones I a X; el de Servicios Generales, las contenidas en las fracciones XI a XIII, y el de Gestión y Control Documental, las contenidas en las fracciones XIV a XVI.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE JULIO DE 2016)</small>
 
 ###### Artículo 22.
 
-Corresponde a la Dirección General de Personal y Organización el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección General de Administración el ejercicio de las siguientes atribuciones:
 
 I. Negociar y proponer, previa validación de la Dirección General de Servicios Legales, las condiciones laborales de la Comisión Nacional;
 
@@ -1325,9 +1349,7 @@ III. Determinar y establecer guías para los procesos de reclutamiento, selecci�
 
 IV. Coordinar la elaboración del anteproyecto de presupuesto anual y mensual del Capítulo de Servicios Personales, así como autorizar y supervisar el ejercicio del mismo;
 
-> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
-
-V. Instrumentar los programas y acciones de modernización y simplificación administrativa determinados por la autoridad competente;
+V. (DEROGADA, D.O.F. 5 DE JULIO DE 2016)
 
 VI. Vigilar el cumplimiento de las Condiciones Generales de Trabajo y, en general, de la normativa que rija las relaciones de trabajo de la Comisión Nacional;
 
@@ -1395,41 +1417,99 @@ XXV Quáter. (DEROGADA, D.O.F. 29 DE MAYO DE 2015)
 
 XXVI. Controlar y mantener actualizado el registro de las estructuras orgánicas y ocupacionales de la Comisión Nacional, ante las autoridades competentes, y vigilar que sus unidades administrativas se ajusten a las mismas;
 
-> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+XXVII. (DEROGADA, D.O.F. 5 DE JULIO DE 2016)
 
-XXVII. Desarrollar y aplicar, en coordinación con las unidades administrativas de la Comisión Nacional, la evaluación del desempeño al personal adscrito a las mismas;
+XXVIII. (DEROGADA, D.O.F. 5 DE JULIO DE 2016)
 
-> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+XXIX. (DEROGADA, D.O.F. 5 DE JULIO DE 2016)
 
-XXVIII. Coordinar con las unidades administrativas de la Comisión Nacional, la difusión, elaboración y actualización de las disposiciones normativas internas de la Comisión Nacional;
+XXX. (DEROGADA, D.O.F. 5 DE JULIO DE 2016)
 
-> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2016)</small>
 
-XXIX. Organizar y coordinar, con la participación de las demás unidades administrativas, la implementación y actualización del Modelo Estándar de Control Interno Institucional, de conformidad con lo dispuesto en la normativa en la materia;
-
-> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2012)</small>
-
-XXX. Organizar y coordinar, con la participación de las demás unidades administrativas, la implementación y actualización del Proceso de Administración de Riesgos Institucional, de conformidad con lo dispuesto en la normativa en la materia;
-
-> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2012)</small>
-
-XXXI. Participar con la Dirección General de Servicios Legales en la actualización del Estatuto Orgánico de la Comisión Nacional, y
+XXXI. Participar con la Dirección General de Servicios Legales en la actualización del Estatuto Orgánico de la Comisión Nacional;
 
 XXXII. (DEROGADA, D.O.F. 29 DE MAYO DE 2015)
 
-> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2015)</small>
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2016)</small>
 
-Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el Director de Administración de Personal, las contenidas en las fracciones I, III, IV y VI a XVIII, el Director de Desarrollo de Personal, las contenidas en las fracciones II, IV y XIX a XXV Ter y el Director de Organización y Selección de Personal, las contenidas en las fracciones III, V y XXVI a XXXI.
+XXXIII. Formular las políticas, bases, criterios y lineamientos de la Comisión Nacional en materia de adquisiciones, arrendamientos y servicios;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XXXIV. Formular, proponer, instrumentar, ejecutar, controlar y evaluar los programas de la Comisión Nacional, en materia de adquisiciones, arrendamientos y servicios;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XXXV. Vigilar el cumplimiento de la normativa en materia de adquisiciones, arrendamientos y servicios;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XXXVI. Celebrar convenios y contratos, previa opinión de la Dirección General de Servicios Legales, para la contratación y adquisición de bienes, arrendamientos y servicios;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XXXVII. Gestionar en el Diario Oficial de la Federación las publicaciones relacionadas con los procesos de licitación, así como aquellas que les soliciten las unidades administrativas de la Comisión Nacional, con excepción de las previstas en el artículo 19, fracción XXIII, del presente Estatuto Orgánico;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XXXVIII. Atender el procedimiento de conciliación a que se refieren la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XXXIX. Formular las políticas, bases, criterios y lineamientos de la Comisión Nacional en materia de almacenes y enajenación de bienes y verificar su cumplimiento;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XL. Formular, proponer, instrumentar, ejecutar, controlar y evaluar los programas de la Comisión Nacional, en materia de almacenes y enajenación de bienes muebles e inmuebles;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XLI. Vigilar el cumplimiento de la normativa en materia de almacenes y enajenación de bienes;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XLII. Supervisar los sistemas de control e inventarios de bienes muebles e inmuebles;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XLIII. Formular las políticas, bases, criterios y lineamientos de la Comisión Nacional en materia de servicios generales, protección civil, ahorro de energía y administración sustentable;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XLIV. Formular, proponer, instrumentar, ejecutar, controlar y evaluar los programas de la Comisión Nacional en materia de servicios generales, protección civil, ahorro de energía y administración sustentable;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XLV. Vigilar el cumplimiento de la normativa en materia de servicios generales, protección civil, ahorro de energía y administración sustentable;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XLVI. Formular las políticas, bases, criterios y lineamientos de la Comisión Nacional en materia de organización y conservación de archivos y verificar su cumplimiento;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XLVII. Formular, proponer, instrumentar, ejecutar, controlar y evaluar los programas de la Comisión Nacional, en materia de organización y conservación de archivos, así como, los servicios de mensajería local y foránea, y
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XLVIII. Vigilar el cumplimiento de la normativa en materia de organización y conservación de archivos.
+
+> <small>(REFORMADO, D.O.F. 5 DE JULIO DE 2016)</small>
+
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el Director de Administración de Personal, las contenidas en las fracciones I a IV, VI a XXVI y XXXI; el Director de Recursos Materiales y Servicios Generales, las contenidas en las fracciones XXXIII a XLII; el Director de Gestión y Control Documental, las contenidas en las fracciones XLIII a XLVIII.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE JULIO DE 2016)</small>
 
 ###### Artículo 23.
 
-Corresponde a la Dirección General de Planeación el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección General de Planeación y Organización el ejercicio de las siguientes atribuciones:
 
 I. Asegurar que las acciones de la Comisión Nacional se encuentren enmarcadas en el Plan Nacional de Desarrollo (PND) y dentro del Programa Nacional de Financiamiento y Desarrollo (PRONAFIDE) dirigiendo y coordinando las actividades programático presupuestales y de ejecución del gasto, y los servicios en materia de tecnologías de la información;
 
 II. Administrar los recursos financieros y patrimoniales de la Comisión Nacional, para consolidar la información financiera y contable del organismo y asegurar su disponibilidad;
 
-III. Determinar y dirigir la implantación y actualización de la infraestructura en tecnologías de la información de la Comisión Nacional, para dotar de elementos informáticos y herramientas de telecomunicaciones que apoyen el cumplimiento de las funciones de las áreas y de los objetivos institucionales;
+III. (DEROGADA, D.O.F. 5 DE JULIO DE 2016)
 
 IV. Integrar y armonizar el programa institucional anual y los programas de largo plazo de la Comisión Nacional;
 
@@ -1459,21 +1539,41 @@ XV. Suscribir, avalar y negociar títulos de crédito, previa autorización del 
 
 XVI. Recibir el pago de los derechos, multas y accesorios correspondientes;
 
-XVII. Dictaminar, dirigir, supervisar y evaluar los procedimientos de adquisición de bienes y servicios de informática, redes y telecomunicaciones de la Comisión Nacional, vigilando su cumplimiento, así como emitir la normativa que a éstos corresponda, en coordinación con la Dirección General de Servicios Legales;
+XVII. (DEROGADA, D.O.F. 5 DE JULIO DE 2016)
 
-XVIII. Dictaminar y desarrollar los sistemas informáticos que requieran las unidades administrativas de la Comisión Nacional en el desempeño de sus atribuciones;
+XVIII. (DEROGADA, D.O.F. 5 DE JULIO DE 2016)
 
-XIX. Dar mantenimiento y soporte técnico a las instalaciones de cómputo, telecomunicaciones y bancos de datos de la Comisión Nacional, e integrar la conectividad informática necesaria para el enlace con organismos públicos y privados, nacionales e internacionales;
+XIX. (DEROGADA, D.O.F. 5 DE JULIO DE 2016)
 
-XX. Apoyar y asistir técnicamente la instalación y servicio de los sistemas automatizados desarrollados en la Comisión Nacional;
+XX. (DEROGADA, D.O.F. 5 DE JULIO DE 2016)
 
-XXI. Establecer, supervisar y evaluar el cumplimiento de las normas y políticas de seguridad para el uso y salvaguarda de los equipos e instalaciones de cómputo, telecomunicaciones, telefonía y bancos de datos de la Comisión Nacional, así como supervisar y evaluar las acciones preventivas y correctivas en la materia; y
+XXI. (DEROGADA, D.O.F. 5 DE JULIO DE 2016)
 
-XXII. Desarrollar y administrar los sitios electrónicos de la Comisión Nacional, dentro de la red mundial de información (Intranet/Internet), en coordinación con las unidades administrativas responsables de los contenidos.
+XXII. (DEROGADA, D.O.F. 5 DE JULIO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2016)</small>
 
-Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el Director de Informática y Telecomunicaciones, las contenidas en las fracciones III y XVII a XXII; el Director de Programación y Finanzas, las contenidas en las fracciones I, II, IV a XVI.
+XXIII. Instrumentar los programas y acciones de modernización y simplificación administrativa determinados por la autoridad competente;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XXIV. Desarrollar y aplicar, en coordinación con las unidades administrativas de la Comisión Nacional, la evaluación del desempeño al personal adscrito a las mismas;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XXV. Coordinar con las unidades administrativas de la Comisión Nacional, la difusión, elaboración y actualización de las disposiciones normativas internas de la Comisión Nacional;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XXVI. Organizar y coordinar, con la participación de las demás unidades administrativas, la implementación y actualización del Modelo Estándar de Control Interno Institucional, de conformidad con lo dispuesto en la normativa en la materia, y
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XXVII. Organizar y coordinar, con la participación de las demás unidades administrativas, la implementación y actualización del Proceso de Administración de Riesgos Institucional, de conformidad con lo dispuesto en la normativa en la materia.
+
+> <small>(REFORMADO, D.O.F. 5 DE JULIO DE 2016)</small>
+
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el Director de Programación y Finanzas, las contenidas en las fracciones I, II, y V a XVI; el Director de Organización, las contenidas en las fracciones IV, y XXIII a XXVII.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE MARZO DE 2012)</small>
 
@@ -1647,7 +1747,9 @@ III. Proporcionar a los Usuarios información relacionada con los servicios que 
 
 IV. Difundir entre los Usuarios los programas que las Instituciones Financieras otorguen en beneficio de los mismos;
 
-V. Atender las solicitudes de información del público, respecto de los índices de reclamaciones contra las Instituciones Financieras y el porcentaje de dichas reclamaciones que se resuelven a favor de los Usuarios, con base en los estudios estadísticos elaborados por la Dirección General de Desarrollo Financiero, Estadístico y Operativo;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+V. Atender las solicitudes de información del público, respecto de los índices de reclamaciones contra las Instituciones Financieras y el porcentaje de dichas reclamaciones que se resuelven a favor de los Usuarios, con base en los estudios estadísticos elaborados por la Dirección General de Desarrollo Financiero, Estadístico y de Tecnologías de Información;
 
 > <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
 
@@ -1759,13 +1861,17 @@ XLIII. Preparar la información estadística relacionada con la Delegación Regi
 
 XLIV. Aplicar, de conformidad con la normativa aplicable, los recursos humanos, materiales y financieros que le sean asignados para su operación regular y para el desarrollo de programas vigentes;
 
-> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2016)</small>
 
-XLV. Realizar, coordinar y formalizar la adquisición de bienes y contratación de arrendamientos y servicios requeridos para el óptimo desarrollo de las actividades encomendadas, previa opinión de la Dirección General de Bienes y Servicios;
+XLV. Realizar, coordinar y formalizar la adquisición de bienes y contratación de arrendamientos y servicios requeridos para el óptimo desarrollo de las actividades encomendadas, previa opinión de la Dirección General de Administración;
 
-XLVI. Enviar a la Dirección General de Planeación con la periodicidad que ésta determine, los informes sobre el ejercicio del presupuesto y los avances en la ejecución de sus programas, así como los estados financieros correspondientes a los programas y partidas de presupuesto;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2016)</small>
 
-XLVII. Proporcionar la información contable de acuerdo con los lineamientos que establezca la Dirección General de Planeación;
+XLVI. Enviar a la Dirección General de Planeación y Organización con la periodicidad que ésta determine, los informes sobre el ejercicio del presupuesto y los avances en la ejecución de sus programas, así como los estados financieros correspondientes a los programas y partidas de presupuesto;
+
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2016)</small>
+
+XLVII. Proporcionar la información contable de acuerdo con los lineamientos que establezca la Dirección General de Planeación y Organización;
 
 XLVIII. Hacer del conocimiento de las autoridades superiores de la Comisión Nacional, las irregularidades observadas en el ejercicio de sus funciones;
 
@@ -1984,3 +2090,11 @@ Primero. Las presentes reformas y adiciones entrarán en vigor al siguiente día
 Segundo. Las actuaciones que hayan sido iniciadas por unidades administrativas distintas a las competentes, de acuerdo a las presentes reformas y adiciones serán concluidas por aquellas áreas a las cuales este ordenamiento les otorga las atribuciones correspondientes.
 
 Tercero. Los Consejos Consultivos Regionales deberán ser instalados a los treinta días hábiles siguientes a la entrada en vigor de las presentes reformas y adiciones. Fenecido dicho término los Consejos Consultivos Estatales y Locales quedarán extintos.
+
+D.O.F. 5 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS, ADICIONES Y DEROGACIONES AL ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL PARA LA PROTECCIÓN Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS".]
+
+PRIMERO. Las presentes reformas, adiciones y derogaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las actuaciones que hayan sido iniciadas por unidades administrativas distintas a las competentes, de acuerdo a las presentes reformas, adiciones y derogaciones serán concluidas por aquellas áreas a las cuales este ordenamiento les otorga las atribuciones correspondientes.
