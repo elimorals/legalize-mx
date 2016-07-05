@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-forestal-51142"
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-08-07"
-last_updated: "2016-01-21"
+last_updated: "2016-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51142&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2006-03-07"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL FORESTAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE ENERO DE 2016.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO POR EL QUE SE DA A CONOCER EL ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL FORESTAL, PUBLICADO EN EL D.O.F. DE 5 DE JULIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JULIO DE 2016 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 7 de agosto de 2006.
 
@@ -1026,3 +1028,15 @@ D.O.F. 21 DE ENERO DE 2016.
 PRIMERO.- Las presentes modificaciones al Estatuto Orgánico de la Comisión Nacional Forestal, entrarán en vigor a partir del día de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Inscríbase en el Registro Público de Organismos Descentralizados.
+
+D.O.F. 5 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DA A CONOCER EL ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL FORESTAL”.]
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico de la Comisión Nacional Forestal publicado en el Diario Oficial de la Federación el 7 de agosto de 2006 y sus modificaciones.
+
+TERCERO.- Inscríbase en el Registro Público de Organismos Descentralizados.
+
+CUARTO.- La CONAFOR, dentro de un plazo de cuatro meses contados a partir de la entrada en vigor del presente Estatuto, deberá modificar su Manual de Organización y Funcionamiento.
