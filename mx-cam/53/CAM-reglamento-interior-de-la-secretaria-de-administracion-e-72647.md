@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-secretaria-de-administracion-e-72647"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-01-27"
-last_updated: "2015-10-12"
+last_updated: "2016-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN E INNOVACIÓN GUBERNAMENTAL DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2015.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN E INNOVACIÓN GUBERNAMENTAL DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 5 DE JULIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Campeche, el miércoles 27 de enero de 2010.
 
@@ -742,3 +744,13 @@ P.O. 12 DE OCTUBRE DE 2015.
 Primero.- El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones reglamentarias y administrativas en lo que se opongan al contenido del presente Acuerdo.
+
+P.O. DE 5 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN E INNOVACIÓN GUBERNAMENTAL DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE".]
+
+Primero.- El presente Reglamento Interior entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga el Reglamento Interior de la Secretaría de Administración e Innovación Gubernamental de la Administración Pública del Estado de Campeche publicado en el Periódico Oficial del Estado No. 4440 el día 27 de enero de 2010, así como el Acuerdo del Ejecutivo del Estado por el que se Modifica el Reglamento Interior de la Secretaría de Administración e Innovación Gubernamental de la Administración Pública del Estado de Campeche publicado en el Periódico Oficial del Estado No. 0048 de fecha 12 de octubre de 2015.
+
+Tercero.- Se derogan todas las disposiciones legales, reglamentarias y administrativas de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente Reglamento Interior.
