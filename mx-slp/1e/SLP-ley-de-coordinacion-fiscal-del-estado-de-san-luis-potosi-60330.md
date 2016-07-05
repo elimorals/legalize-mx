@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-coordinacion-fiscal-del-estado-de-san-luis-potosi-60330"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-26"
-last_updated: "2016-03-03"
+last_updated: "2016-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 26 de enero de 2008.
 
@@ -79,9 +79,11 @@ VII. SISTEMA DE COORDINACION FISCAL DEL ESTADO DE SAN LUIS POTOSI: al conjunto d
 
 ### CAPITULO II. Del Sistema de Coordinación Fiscal del Estado de San Luis Potosí
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2016)</small>
+
 ###### ARTICULO 4°.
 
-La Legislatura del Estado determina anualmente, las bases, montos y plazos en que los municipios participarán del veinte por ciento del Fondo General de Participaciones, que el Estado reciba en los términos de la Ley de Coordinación Fiscal, así como del Impuesto Sobre Tenencia o Uso de Vehículos; dichas bases, montos y plazos se deberán publicar en el Periódico Oficial del Estado, a más tardar el día treinta y uno de enero del año para el que sean vigentes dichas disposiciones.
+La Legislatura del Estado determinará anualmente, las bases, montos y plazos en que los municipios participarán del veinte por ciento del Fondo General de Participaciones, que el Estado reciba en los términos de la Ley de Coordinación Fiscal. Dichas bases, montos y plazos se deberán publicar en el Periódico Oficial del Estado, a más tardar el día treinta y uno de enero del año para el que sean vigentes dichas disposiciones.
 
 ###### ARTICULO 5°.
 
@@ -95,21 +97,25 @@ De la participación establecida a favor del Estado, en el Impuesto Especial Sob
 
 De la participación federal establecida del Impuesto Sobre Automóviles Nuevos a favor del Estado, los municipios participarán del veinte por ciento.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2016)</small>
+
 ###### ARTICULO 8°.
 
-Del Impuesto a la Venta Final de Gasolinas y Diesel a que se refiere a las fracciones I y II del artículo 4-A de la Ley de Coordinación Fiscal, que corresponda al Estado, los municipios participarán de un veinte por ciento.
+Del Impuesto previsto como cuota del artículo 2-A fracción II de la Ley del Impuesto Especial Sobre Producción y Servicios a que se refieren las fracciones I y II del artículo 4-A de la Ley de Coordinación Fiscal, que corresponda al Estado, los municipios participarán de un veinte por ciento.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 11 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 9°.
 
-De los recursos que le corresponden al Estado del Fondo de Fiscalización, los municipios participarán del veinte por ciento.
+De los recursos que le corresponden al Estado del Fondo de Fiscalización y Recaudación, los municipios participarán del veinte por ciento.
 
 El Fondo a que se refiere el párrafo anterior de este artículo, se distribuirá en forma trimestral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2016)</small>
+
 ###### ARTICULO 10.
 
-Los municipios participarán del cien por ciento del importe del Impuesto Sobre Nómina efectivamente pagado por ellos mismos, sin incluir sus accesorios, siempre y cuando el municipio de que se trate, cumpla con informar a más tardar el día veinte de cada mes al Ejecutivo del Estado, a través de la Secretaría, los importes de:
+Los municipios participarán del cien por ciento del importe del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal efectivamente pagado por ellos mismos, sin incluir sus accesorios, siempre y cuando el municipio de que se trate, cumpla con informar a más tardar el día veinte de cada mes al Ejecutivo del Estado, a través de la Secretaría, los importes de:
 
 l. Impuesto predial recaudado, desglosado por predio, y el saldo pendiente de cobrar, al cierre de cada mes, y
 
@@ -141,21 +147,9 @@ Si al finalizar el año resultare un excedente del segundo fondo distribuible, s
 
 De darse el caso de creación de nuevos municipios, para los efectos de este artículo, se sumará el número de habitantes tanto de la nueva cabecera municipal, como de las comunidades rurales que lo integren, pero siempre con base en los datos del último Censo General de Población o Conteo. El coeficiente así obtenido se restará del que correspondía al municipio o municipios de donde se segregue el área que integrará al nuevo municipio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
 ###### ARTICULO 13.
 
-La cantidad que a cada municipio corresponda, de la recaudación estatal participable por concepto del Impuesto Sobre Tenencia o Uso de Vehículos, será calculada de la siguiente forma:
-
-Del veinte por ciento distribuible entre los municipios, se formarán dos fondos:
-
-l. El primer fondo conformado por un noventa por ciento del total distribuible, que se asignará de acuerdo a lo siguiente: el noventa y cinco por ciento con base al número de habitantes con que cuenten, de acuerdo al último Censo General de Población o Conteo, publicado por el Instituto Nacional de Estadística, Geografía e Informática; el cuatro por ciento de acuerdo al índice municipal de pobreza que se establece en el artículo 35 de la Ley de Coordinación Fiscal; y el uno por ciento restante, en proporción inversa a las participaciones que por población tenga cada municipio, y
-
-II. El segundo fondo constituido por el diez por ciento del total distribuible, que se utilizará hasta donde alcance, para resarcir a aquéllos municipios que con este nuevo sistema de reparto, lleguen a percibir menos de lo (sic) recibieron en el mismo mes del año inmediatamente anterior al que corresponda la participación. En caso de ser insuficiente este segundo fondo, la distribución de los recursos existentes será proporcional a la diferencia en la percepción.
-
-Si al finalizar el año resultare un excedente del segundo fondo distribuible, se repartirá conforme a los coeficientes aprobados por la Legislatura del Estado, para cada uno de los municipios.
-
-De darse el caso de creación de nuevos municipios, para los efectos de este artículo, se sumará el número de habitantes tanto de la nueva cabecera municipal, como de las comunidades rurales que lo integren, pero siempre con base en los datos del último Censo General de Población o Conteo. El coeficiente así obtenido se restará del que correspondía al municipio o municipios de donde se segregue el área que integrará al nuevo municipio.
+(DEROGADO, P.O. 5 DE JULIO DE 2016)
 
 ###### ARTICULO 14.
 
@@ -163,13 +157,41 @@ Los municipios participarán en la distribución del Fondo de Fomento Municipal,
 
 Del ciento por ciento distribuible entre los municipios, se formarán dos fondos:
 
-I. El primer fondo conformado con un noventa por ciento del total distribuible, que se asignará de acuerdo a lo siguiente: el noventa y cinco por ciento con base al número de habitantes con que cuenten, de acuerdo al último Censo General de Población o Conteo, publicado por el Instituto Nacional de Estadística, Geografía e Informática; el cuatro por ciento de acuerdo al índice municipal de pobreza que se indica en el artículo 35 de la Ley de Coordinación Fiscal; y el uno por ciento restante en proporción inversa a las participaciones que por población tenga cada municipio, y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2016)</small>
 
-II. El segundo fondo constituido con el diez por ciento del total distribuible, se utilizará hasta donde alcance, para resarcir a aquéllos municipios que con este nuevo sistema de reparto, lleguen a percibir menos de lo que recibieron en el mismo mes del año inmediatamente anterior al que corresponda la participación. En caso de ser insuficiente este segundo fondo, la distribución de los recursos existentes será proporcional a la diferencia en la percepción.
+I. El primer fondo conformado con un noventa por ciento del total distribuible, que se asignará de acuerdo a lo siguiente: el noventa y cinco por ciento con base al número de habitantes con que cuenten, de acuerdo al último Censo General de Población o Conteo, publicado por el Instituto Nacional de Estadística y Geografía; el cuatro por ciento de acuerdo al índice municipal de pobreza que se indica en el artículo 35 de la Ley de Coordinación Fiscal; y el uno por ciento restante en proporción inversa a las participaciones que por población tenga cada municipio;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2016)</small>
+
+II. El segundo fondo constituido con el diez por ciento del total distribuible, se utilizará hasta donde alcance, para resarcir a aquellos municipios que con este nuevo sistema de reparto, lleguen a percibir menos de lo que recibieron en el mismo mes del año inmediatamente anterior al que corresponda la participación. En caso de ser insuficiente este segundo fondo, la distribución de los recursos existentes será proporcional a la diferencia en la percepción, y
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2016)</small>
+
+III. Si al finalizar el año resultare un excedente del segundo fondo distribuible, estará sujeto a que el municipio de que se trate haya dado cumplimiento a lo dispuesto en el artículo 14 Bis de esta Ley.
+
+El excedente del fondo de aquellos municipios que no cumplieron, se repartirá entre los demás municipios de acuerdo al cálculo de nuevos factores de redistribución.
 
 Si al finalizar el año resultare un excedente del segundo fondo distribuible, se repartirá conforme a los coeficientes aprobados por la Legislatura del Estado, para cada uno de los municipios.
 
 De darse el caso de creación de nuevos municipios, para los efectos de este artículo se sumará el número de habitantes tanto de la nueva cabecera municipal, como de las comunidades rurales que lo integren, pero siempre con base en los datos del último Censo General de Población o Conteo. El coeficiente así obtenido se restará del que correspondía al municipio o municipios de donde se segregue el área que integrará al nuevo municipio.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2016)</small>
+
+ARTICULO 14 BIS. El Estado, a través de la Secretaría de Finanzas, tiene la obligación de informar a la Unidad de Coordinación con Entidades Federativas de la Secretaría de Hacienda y Crédito Público, a más tardar el treinta de abril de cada año, las cifras anuales de recaudación del impuesto predial, y de derechos por el suministro de agua potable de sus municipios, ya que éstas constituyen un factor importante para la determinación de los coeficientes de distribución de las participaciones federales que a nivel nacional le corresponden a nuestro Estado.
+
+Para cumplir en tiempo y forma con la entrega de esta información, cada municipio deberá coadyuvar en la integración de la misma, por lo que serán responsables de:
+
+I. Entregar a más tardar en la primera quincena de marzo de cada año a la Secretaría de Finanzas, las cifras anuales de recaudación del impuesto predial, y derechos por suministro de agua, del año de calendario al que corresponda la información de acuerdo con los formatos cuestionarios que para tal efecto les proporcione la Secretaría de Finanzas;
+
+II. El impuesto predial, y los derechos de suministro de agua, serán las cantidades efectivamente recaudadas en el año de calendario de que se trate, independientemente del ejercicio en que se haya causado, descontando las devoluciones que se hayan efectuado.
+
+III. Tratándose de municipios que estén coordinados con el Estado en materia de contribuciones inmobiliarias, este les proporcionará las cifras de recaudación del impuesto predial del año de que se trate;
+
+IV. En caso de que el municipio cobre los derechos de agua mediante los organismos operadores de agua potable, éste solicitará la información del organismo, y la entregará en los términos indicados en el presente artículo;
+
+V. El municipio deberá justificar, en su caso, los incrementos en la recaudación, y proporcionar la información adicional que se le solicite, así como aclara y/o corregir las inconsistencias que se le hayan observado, y
+
+VI. En caso de que el municipio no cumpla con lo anterior, se sujetará a lo dispuesto en el párrafo segundo de la fracción III del artículo 14 de esta Ley.
 
 ###### ARTICULO 15.
 
@@ -191,9 +213,11 @@ II. El segundo fondo constituido con el diez por ciento del total distribuible f
 
 De darse el caso de creación de nuevos municipios, para los efectos de este artículo, se sumará el número de habitantes tanto de la nueva cabecera municipal, como de las comunidades rurales que lo integren, pero siempre con base en los datos del último Censo General de Población o Conteo. El coeficiente así obtenido se restará del que correspondía al municipio o municipios de donde se segregue el área que integrará al nuevo municipio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2016)</small>
+
 ###### ARTICULO 18.
 
-Los municipios participarán en el Fondo de Fiscalización, que se distribuirá de acuerdo a lo siguiente:
+Los municipios participarán en el Fondo de Fiscalización y Recaudación que se distribuirá de acuerdo a lo siguiente:
 
 Del veinte por ciento distribuible entre los municipios se formarán dos fondos:
 
@@ -213,19 +237,39 @@ La Secretaría, una vez identificada la asignación mensual que le corresponda a
 
 De conformidad con lo dispuesto en el último párrafo del artículo 7°. de la Ley de Coordinación Fiscal, la liquidación definitiva se determinará a más tardar dentro de los cinco meses siguientes al cierre de cada ejercicio fiscal, tomando en cuenta las cantidades que se hubieren afectado provisionalmente.
 
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2016)</small>
+
+ARTICULO 19 BIS. Los municipios participarán en la distribución del Fondo de Extracción de Hidrocarburos, en un veinte por ciento que se asignará de la forma siguiente:
+
+I. El noventa y cinco por ciento con base al número de habitantes con que cuenten, de acuerdo a los datos que hubiera dado a conocer el Instituto Nacional de Estadística y Geografía para la Entidad;
+
+II. El cuatro por ciento de acuerdo al índice municipal de pobreza que se indica en el artículo 35 de la Ley de Coordinación Fiscal, y
+
+III. El uno por ciento restante en proporción inversa a las participaciones que por población tenga cada municipio.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2016)</small>
+
+###### ARTICULO 19.
+
+TER. Los municipios participarán del cien por ciento de la recaudación que se obtenga del Impuesto sobre la Renta que efectivamente se entere a la Federación, correspondiente al salario del personal que preste o desempeñe un servicio personal subordinado para el mismo municipio, sus organismos autónomos o entidades paramunicipales, siempre que sea efectivamente pagado por los entes mencionados con cargo a sus participaciones o ingresos locales, y además cumplan con los requisitos establecidos en el artículo 99 fracción III de la Ley del Impuesto sobre la Renta, en relación con lo establecido en las reglas 2.7.5.1; 2.7.5.2 y 2.7.5.3. de la Resolución Miscelánea Fiscal 2015, publicada el 30 de diciembre de 2014, en lo que se refiere a la expedición de Comprobante Fiscal Digitalizado, en lo que resulta aplicable por concepto de nóminas y otras retenciones.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2016)</small>
+
 ###### ARTICULO 20.
 
-Las participaciones que correspondan a los municipios son inembargables e imprescriptibles.
+Las participaciones que correspondan a los municipios son inembargables, no pueden afectarse a fines específicos ni estar sujetas a retención, salvo aquéllas correspondientes al Fondo General de Participaciones, al Fondo de Fomento Municipal, a que se refiere el artículo 9 de la Ley de Coordinación Fiscal y a los recursos provenientes de las cuotas previstas en el artículo 2-A fracción II de la Ley del Impuesto Especial sobre Producción y Servicios, a que se refiere el artículo 4-A fracción I, de la Ley de Coordinación Fiscal, que podrán ser afectadas en garantía, como fuente de pago o en ambas modalidades, respecto de obligaciones que contraigan con la Federación, las instituciones de crédito, que operen en territorio nacional o con personas físicas o morales de nacionalidad mexicana, con autorización del Congreso del Estado e inscritas en el Registro Público Único de conformidad con el Capítulo VI del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios a favor de la Federación, e inscritas a petición del Estado en el registro de la Secretaría de Finanzas del Gobierno del Estado.
 
-La compensación entre el derecho del municipio a recibir participaciones y las obligaciones que tengan con la Federación, Estado, municipios y particulares, por créditos de cualquier naturaleza, operarán con fundamento en las disposiciones de la Ley de Deuda Pública Municipal del Estado de San Luis Potosí; Código Fiscal del Estado; y demás legislación aplicable.
+Respecto de los recursos provenientes de las cuotas previstas en el artículo 2-A fracción II de la Ley del Impuesto Especial sobre Producción y Servicios, a que se refiere el artículo 4- A fracción I, de la Ley de Coordinación Fiscal, que podrán ser afectadas en garantía, en ningún caso debe exceder del veinticinco por ciento de los recursos que les correspondan.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+De las participaciones a que se refiere el párrafo anterior, tratándose de obligaciones pagaderas en dos o más ejercicios fiscales, para cada año podrá destinarse al servicio de las mismas, lo que resulte mayor entre aplicar el porcentaje a los recursos correspondientes al año de que se trate, o a los recursos correspondientes al año en que las obligaciones hayan sido contratadas.
 
-El Estado podrá realizar pagos, entre otros, por concepto del suministro de energía eléctrica, por cuenta de los municipios con cargo a sus participaciones, cuando así lo soliciten; o cuando las participaciones hayan sido afectadas en garantía de adeudos, entre los cuales estará la que se efectué en el rubro referido con antelación, y éstos no se hayan satisfecho, previo a la aplicación de las disposiciones contenidas en la Ley de Deuda Pública Municipal del Estado de San Luis Potosí.
+Se calcularán para cada ejercicio fiscal y serán entregadas por conducto de la Secretaría de Finanzas directamente, o a través de los mecanismos generales de distribución que la misma determine, el día veinticinco de cada mes o al día hábil siguiente en caso de ser inhábil.
 
-Las cantidades que obtengan los municipios por concepto del Impuesto a la Venta Final de Gasolinas y Diesel, podrá afectarse en los términos del artículo 9º de la Ley de Coordinación Fiscal, siempre que la afectación correspondiente en ningún caso exceda del veinticinco por ciento de los recursos que les corresponden.
+Sin perjuicio de lo anterior, los municipios podrán celebrar convenio con la Secretaría de Finanzas, para que reserve con la periodicidad que los propios municipios determinen, una parte de sus participaciones, que serán restituidas para solventar de acuerdo a su interés los compromisos a su cargo, respetando la autonomía política y administrativa de éstos.
 
-Por lo que respecta a las participaciones a que se refiere el párrafo anterior, tratándose de obligaciones pagaderas en dos o más ejercicios fiscales, para cada año podrá destinarse al servicio de las mismas, lo que resulte mayor entre aplicar el porcentaje a los recursos correspondientes al año de que se trate, o a los recursos correspondiente al año en que las obligaciones hayan sido contratadas.
+La compensación entre el derecho del municipio a recibir participaciones, y las obligaciones que tengan con la Federación, Estado, municipios y particulares, por créditos de cualquier naturaleza, operarán con fundamento en las disposiciones de la Ley de Deuda Pública del Estado y Municipios de San Luis Potosí; Código Fiscal del Estado; y demás legalización aplicable.
+
+El Estado podrá realizar pagos, entre otros, por concepto de suministro de energía eléctrica, por cuenta de los municipios con cargo a sus participaciones, cuando así lo soliciten; o cuando las participaciones hayan sido afectadas en garantía de adeudos, entre los cuales estará la que se efectúe en el rubro referido con antelación, y éstos no se hayan satisfecho, previo a la aplicación de las disposiciones contenidas en la Ley de Deuda Pública del Estado y Municipios de San Luis Potosí.
 
 ###### ARTICULO 21.
 
@@ -440,3 +484,13 @@ SÉPTIMO. Los lineamientos a que se refiere el artículo 72 de la Ley que se exp
 OCTAVO. Los ejecutores del gasto deberán contar con el sistema de evaluación del desempeño a que se refiere el artículo 79 de la Ley que se expide en el artículo Segundo de este Decreto, en un periodo no mayor de un año a partir de la entrada en vigor de la Ley. Tratándose de los municipios, este periodo se podrá ampliar por un año más. Las disposiciones a que se refiere el párrafo tercero del citado artículo deberán emitirse a más tardar dentro de los ciento ochenta días siguientes a la publicación de la Ley.
 
 NOVENO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
+
+P.O. 5 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0240.- SE REFORMA (SIC) LOS ARTÍCULOS, 4°, 8°, 9° EN SU PÁRRAFO PRIMERO, 10 EN SU PÁRRAFO PRIMERO, 14 EN SUS FRACCIONES, I Y II, 18 EN SU PÁRRAFO PRIMERO, Y 20; ADICIONA A Y LOS ARTÍCULOS, 14 LA FRACCIÓN III, 14 BIS, 19 BIS, Y 19 TER; Y DEROGA EL ARTÍCULO 13, DE Y A LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El contenido del artículo 13 que deroga el presente Decreto, seguirá aplicándose sólo por lo que se refiere al Impuesto sobre Tenencia y Uso de Vehículos de ejercicios anteriores a 2015, que se encuentran pendientes de pago.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
