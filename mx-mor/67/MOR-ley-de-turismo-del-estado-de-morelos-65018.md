@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-turismo-del-estado-de-morelos-65018"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-10"
-last_updated: "2016-03-09"
+last_updated: "2016-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65018&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TURISMO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 10 de diciembre de 2008.
 
@@ -53,9 +53,11 @@ Para lo no previsto en este ordenamiento serán de aplicación supletoria, la Le
 
 Los lineamientos emanados de la presente Ley, serán acordes a lo establecido por la Organización Mundial de Turismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2016)</small>
+
 ###### Artículo 2.
 
-Para los efectos de esta Ley, se entiende por:
+Para efectos de esta Ley se entiende como:
 
 Secretaría Federal: Secretaría de Turismo de la Administración Pública Federal.
 
@@ -88,6 +90,10 @@ Turismo Gastronómico: La opción turística decisiva y enfocada a todo tipo de 
 > <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
 
 Turismo de Salud: La opción turística enfocada a todo tipo de personas que se trasladan fuera de su lugar de residencia con el propósito de rehabilitarse o para mejorar su estado de salud en el Estado de Morelos.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
+
+Turismo Sustentable: Es toda actividad turística realizada de manera responsable con el medio ambiente, respetando los usos, costumbres y tradiciones de las comunidades receptoras, procurando el beneficio y crecimiento económico de las comunidades locales y, conservando el patrimonio natural y cultural de las comunidades anfitrionas.
 
 ###### Artículo 3.
 
@@ -159,7 +165,7 @@ XXIII. En general, la realización de toda clase de actividades que tiendan a fo
 
 ###### Artículo 4.
 
-Toda persona tiene derecho a disfrutar del turismo como una expresión del crecimiento sostenido de su tiempo libre, descanso y esparcimiento, quedando prohibido todo tipo de discriminación en razón del género, edad, estado civil, idioma, raza, nacionalidad, condición social o económica, cultural, político (sic), religioso (sic), preferencia sexual, discapacidad y condición de salud.
+Toda persona tiene derecho a disfrutar del turismo como una expresión del crecimiento sostenido de su tiempo libre, descanso y esparcimiento, quedando prohibido todo tipo de discriminación en razón del género, edad, estado civil, idioma, raza, nacionalidad, condición social o económica, cultural, político, religioso, preferencia sexual, discapacidad y condición de salud.
 
 ### CAPÍTULO II. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
@@ -511,23 +517,17 @@ La Secretaría informará y evaluará ante el Consejo Estatal de Turismo, de man
 
 ### CAPÍTULO III (SIC). DEL TURISMO SUSTENTABLE Y DE NATURALEZA
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+
 ###### Artículo 28.
 
-Para efectos de esta Ley se entiende por turismo sustentable aquella que se lleva a cabo para:
+Para efectos de esta Ley se entiende por Turismo Sustentable aquel que cumple con las siguientes directrices:
 
-I. Promover el mejoramiento de la oferta turística, de manera que las autoridades competentes busquen las medidas de protección, conservación y mejoramiento de los atractivos naturales y culturales, así como de los servicios y facilidades que constituyen o puedan ser un atractivo para el turismo, buscando a su vez el respeto a las costumbres y tradiciones de las comunidades;
+I. Ecológica: Son las acciones que buscan una compatibilidad entre la actividad social de la comunidad y la preservación del ecosistema y la biodiversidad de un sitio o destino determinado ocasionando el menor impacto al medio ambiente.
 
-II. Buscar el uso racional de la riqueza turística para la generación de empleo, una mayor captación de divisas y derrama económica el beneficio de la población en su conjunto, así como de las empresas y prestadores de servicios turísticos;
+II. Socio-Cultural: Es la actividad que aprecia, respeta y valora el patrimonio de las comunidades anfitrionas, manifestado a través de la arquitectura civil o religiosa, gastronomía, festividades, usos, costumbres y cualquier otra expresión de la actividad humana.
 
-III. Facilitar la integración de las comunidades a proyectos turísticos, de acuerdo con las propuestas que presenten las autoridades federales, estatales y municipales;
-
-IV. Intervenir en la solución de necesidades de carácter social en las zonas de influencia de desarrollos turísticos, y
-
-V. Promover de manera especial una cultura de protección y preservación del medio ambiente, orientada a la práctica y desarrollo de una actividad turística.
-
-> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2010)</small>
-
-VI. Respetar la autenticidad sociocultural de las comunidades anfitrionas, conservando sus atractivos culturales, sus valores tradicionales y arquitectónicos.
+III. Sostenibilidad Económica: Es aquel que involucra de manera regular y efectiva a los pobladores de las comunidades anfitrionas, generando beneficios para su desarrollo.
 
 ###### Artículo 29.
 
@@ -1154,3 +1154,15 @@ P.O. 9 DE MARZO DE 2016.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano del Gobierno del Estado de Morelos.
+
+P.O. 6 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS TREINTA Y OCHO POR EL QUE SE ADICIONA UN ÚLTIMO CONCEPTO AL ARTÍCULO 2 Y SE REFORMA EL ARTÍCULO 28, AMBOS DE LA LEY DE TURISMO DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad”, órgano del Gobierno del Estado de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones contrarias a la presente reforma.
+
+CUARTA.- El Titular del Poder Ejecutivo contará con un plazo de noventa días hábiles para realizar las adiciones y modificaciones correspondientes al Reglamento de la Ley de Turismo que demanda la presente reforma.
