@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109622"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-17"
-last_updated: "2015-06-17"
+last_updated: "2016-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2016.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 17 de junio de 2015.
 
@@ -1591,7 +1591,13 @@ XXII. Impulsar y promover el reconocimiento y ejercicio de los derechos de las n
 
 XXIII. Gestionar ante las autoridades correspondientes, la aplicación de las sanciones a que se hagan acreedores los infractores de la presente Ley.
 
-XXIV. Las demás que les confieran otras disposiciones aplicables para la atención integral de la familia y grupos vulnerables.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2016)</small>
+
+XXIV. En aquellos municipios en los que no exista Ministerio Público, o se encuentre ausente, podrá ordenar fundada y motivadamente, bajo su más estricta responsabilidad, la aplicación de medidas urgentes de protección especial, cuando exista riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, dando aviso de inmediato al Ministerio Público más cercano y a la autoridad jurisdiccional competente, dentro del término previsto en el artículo 182 de esta Ley.
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2016)</small>
+
+XXV. Las demás que les confieran otras disposiciones aplicables para la atención integral de las niñas, niños y adolescentes.
 
 ###### Artículo 136.
 
@@ -1973,29 +1979,229 @@ Los Sistemas Estatal y Municipales de Protección Integral, contarán con órgan
 
 ## Título Décimo. De las Medidas de Protección a Favor de Niñas, Niños y Adolescentes
 
-### Capítulo Único. Generalidades
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 6 DE JULIO DE 2016)</small>
+
+### Capítulo I. Generalidades
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 168.
 
-Las medidas de protección a favor de niñas, niños y adolescentes, podrán ser solicitadas al ministerio público competente, por las Procuradurías de Protección Estatal y Municipales, cualquier autoridad estatal o municipal, así como por cualquier ciudadano que tenga conocimiento de que alguna niña, niño o adolescente se encuentre en riesgo inminente su vida, integridad o libertad.
+Las medidas de protección, son disposiciones dictadas por autoridad competente, con el objeto de suspender los efectos de acciones u omisiones de autoridades o particulares que vulneren los derechos de niñas, niños o adolescentes, a fin de proteger y garantizar los derechos de éstos.
+
+Las medidas de protección, se clasifican de la siguiente manera:
+
+I. Medidas de Protección de Restitución.
+
+II. Medidas de Protección Especial.
+
+III. Medidas Urgentes de Protección Especial.
+
+Dichas medidas están enfocadas a colocar a niñas, niños y adolescentes en una situación en la que todos sus derechos estén garantizados para que accedan a tantos servicios del Estado, como sea necesario para lograr la restitución de sus derechos.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 169.
 
-La imposición de medidas urgentes de protección especial idóneas, serán solicitadas cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, debiendo el ministerio público decretarlas a más tardar, durante las siguientes 3 horas a la recepción de la solicitud, dando aviso de inmediato a la autoridad jurisdiccional competente. Son medidas urgentes de protección especial en relación con niñas, niños y adolescentes, además de las establecidas en la legislación aplicable, las siguientes:
+Son autoridades competentes para ordenar las medidas de protección enunciadas en este título, el Ministerio Público, la autoridad jurisdiccional, la Procuraduría de Protección Estatal y los titulares de las Procuradurías de Protección Municipales.
 
-I. El ingreso de una niña, niño o adolescente a un Centro de Asistencia Social.
+La Procuraduría de Protección Estatal, podrá ordenar o solicitar las medidas de protección de restitución, medidas de protección especial y medidas urgentes de protección especial, en todo el Estado. Las personas que funjan como titulares de las Procuradurías Municipales están obligadas a ordenar o solicitar cualquier tipo de medidas de protección dentro de la demarcación territorial donde ejerzan sus funciones.
 
-II. La atención médica inmediata por parte de alguna institución de Salud.
-
-Dentro de las 24 horas siguientes a la imposición de la medida urgente de protección, el órgano jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 170.
+
+Las autoridades competentes, deberán llevar el registro de las órdenes de medidas de protección solicitadas, decretadas, en trámite y concluidas, e informar a la Procuraduría de Protección Estatal para integrar el Registro Estatal de Órdenes de Protección, en términos del respectivo reglamento.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+
+###### Artículo 171.
+
+Las niñas, niños y adolescentes tienen derecho a ser informados sobre el estado y probable curso de su situación legal y social cuando se dicte alguna de las medidas de protección previstas en el presente Título, mediante un lenguaje claro y acorde a su edad y nivel de desarrollo evolutivo, cognoscitivo y madurez.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+
+###### Artículo 172.
+
+Las medidas de protección concluirán:
+
+I. Cuando hayan cesado los efectos de la situación de riesgo, violencia o vulneración de derechos de las niñas, niños y adolescentes, objeto por el cual se emitieron.
+
+II. Cuando quede sin materia, al extinguirse el motivo que originó su expedición.
+
+III. Hasta en el término de seis meses, una vez agotadas todas las medidas necesarias para la ejecución de la misma.
+
+IV. Cuando previa solicitud, debidamente fundada y motivada, de la Procuraduría de Protección Estatal o las Procuradurías de Protección Municipales, el órgano jurisdiccional competente o el ministerio público, determine el cese de los efectos de la medida de protección.
+
+La autoridad que emitió la medida de protección, en términos del presente artículo, deberá acordar la conclusión de la medida, fundando y motivando su determinación, debiendo notificar por escrito a quien haya solicitado la misma, y en el caso de que se ignore la identidad o el domicilio del peticionario, se notificará a la Procuraduría de Protección Estatal.
+
+Lo anterior sin perjuicio que de existir la necesidad de una nueva medida de protección, podrá solicitarse o dictarse, bajo el interés superior de la infancia.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
+
+### Capítulo II. De las Medidas de Protección de Restitución
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+
+###### Artículo 173.
+
+Las medidas de protección de restitución son las disposiciones dictadas por las Procuradurías de Protección Estatal o Procuradurías de Protección Municipales, de carácter administrativo, dirigidas a organismos federales, estatales y municipales, públicos, privados y sociales, y particulares, según corresponda, para intervenir en el ámbito de su competencia, al cumplimiento de los planes de restitución de derechos de niñas, niños y adolescentes. Estas medidas no deben afectar a las medidas de protección especial o urgentes de protección especial que se soliciten o emitan, con la finalidad de prevenir o sustraer a la niña, niño o adolescente del riesgo, amenaza o afectación de cualquiera de sus derechos.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+
+###### Artículo 174.
+
+Las medidas de protección de restitución pueden consistir en:
+
+I. La inclusión de la niña, niño o adolescente y su familia en forma conjunta o separada, en programas de asistencia social, de salud y educativos; así como actividades deportivas, culturales, artísticas o cualquier otra actividad recreativa al que puedan incorporarse por sus características.
+
+II. El exhorto al cumplimento del reconocimiento de quienes ejerzan la patria potestad, tutela o guarda y custodia de la niña, niño o adolescente, a través de una declaratoria por escrito en la que admite su responsabilidad y reconoce el compromiso de respetar sus derechos.
+
+III. La separación inmediata de la niña, niño o adolescente de la actividad laboral.
+
+IV. Ordenar el registro de nacimiento de niñas, niños y adolescentes, de conformidad con la normatividad aplicable.
+
+V. La reintegración de la niña, niño o adolescente a su núcleo familiar, cuando las personas que acrediten ejercer la patria potestad, tutoría o la guarda y custodia, no tenga limitados sus derechos por resolución de autoridad competente.
+
+VI. Las demás que resulten necesarias para salvaguardar los derechos de las niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
+
+### Capítulo III. De las Medidas de Protección Especiales
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+
+###### Artículo 175.
+
+Las medidas de protección especiales son disposiciones ordenadas para proteger y garantizar los derechos de niñas, niños y adolescentes cuando se detecten actos u omisiones que vulneran sus derechos y que no actualicen hechos considerados como delitos, y es necesario para su eficacia, transgredir derechos de terceros. Estas medidas no deben afectar a las medidas urgentes de protección especial, y pueden consistir en:
+
+I. La separación temporal de niñas, niños y adolescentes de las personas que ejerzan la patria potestad o de sus tutores y, en términos de las disposiciones aplicables, de las personas que los tengan bajo su guarda y custodia, cuando por sus acciones u omisiones pongan en riesgo gravemente los derechos de los mismos, siempre y cuando dichas acciones u omisiones no constituyan un delito.
+
+II. El resguardo temporal de niñas, niños y adolescentes por parte de un integrante de la familia de origen, de la familia extensa, de una familia de acogida o de un centro de asistencia social, en dicho orden de preferencia, que en términos de la fracción anterior, hayan sido separados de las personas que ejerzan la patria potestad o de sus tutores y, en términos de las disposiciones aplicables, de las personas que los tengan bajo su guarda y custodia.
+
+III. La orden de tratamiento psicológico de niñas, niños o adolescentes y de su familia, así como su capacitación en materia de derechos de la infancia, fortalecimiento familiar, derechos humanos y prevención de la violencia familiar.
+
+IV. La inclusión de quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes en medidas de rehabilitación y asistencia terapéutica; misma que sólo será decretada por el órgano jurisdiccional competente.
+
+V. Las demás que resulten necesarias para salvaguardar los derechos de las niñas, niños y adolescentes, que no actualicen hechos considerados como delitos, y sea necesario para su eficacia, transgredir derechos de terceros.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+
+###### Artículo 176.
+
+La Procuraduría de Protección Estatal o en su caso, las Procuradurías de Protección Municipales, ordenarán las medidas de protección especial, previstas en el artículo anterior, cuando tengan la sospecha fundada de la violación de los derechos de niñas, niños y adolescentes, debiendo hacer del conocimiento del órgano jurisdiccional competente sobre las mismas, en el término de tres días hábiles a partir de haber ejecutado la medida de protección especial correspondiente, para su ratificación, modificación o cancelación.
+
+La Procuraduría de Protección Estatal, o en su caso, las Procuradurías de Protección Municipales, presentarán ante el órgano jurisdiccional competente, la solicitud de ratificación de la medida, expresando los hechos y argumentos que justifiquen la necesidad de la medida de protección dictada, acompañada con lo siguiente:
+
+I. Estudio de trabajo social.
+
+II. Valoración Psicológica.
+
+III. Demás datos con que se cuenten y acrediten la necesidad de la medida.
+
+La Procuraduría de Protección Estatal, o en su caso, las Procuradurías de Protección Municipales, presentarán ante el órgano jurisdiccional competente, la solicitud de las medidas de protección especial previstas en la fracción IV del artículo 175, expresando los hechos y argumentos que justifiquen la necesidad de dictar la medida de protección especial respectiva, acompañada con los requisitos previstos en el párrafo anterior.
+
+Dentro de los tres días hábiles siguientes a partir de la recepción de la solicitud de medidas de protección especial o de la solicitud de la ratificación de la medida de protección especial dictada por la Procuraduría de Protección Estatal o las Procuradurías de Protección Municipales, el órgano jurisdiccional competente deberá emitir la medida de protección especial que corresponda, o en su caso, ratificar, modificar o cancelar las medidas de protección especial vigentes.
+
+En caso de que la autoridad jurisdiccional determine cancelar la medida de protección especial, la Procuraduría de Protección Estatal o las Procuradurías de Protección Municipales, dejarán sin efecto la medida una vez que le sea notificada la determinación, y realizarán las acciones que correspondan para que las cosas vuelvan al estado en que se encontraban antes de la aplicación de la medida de protección especial.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
+
+###### Artículo 177.
+
+Las medidas de protección especial pueden ser solicitadas por escrito, en forma verbal o por cualquier otro medio de comunicación que sea eficaz, a la Procuraduría de Protección Estatal o las Procuradurías de Protección Municipales, según sea el caso, por:
+
+I. La niña, niño o adolescente que sufra de alguna afectación a sus derechos.
+
+II. Cualquier persona, institución pública o privada que tenga conocimiento de una situación de riesgo, amenaza o afectación de derechos de niñas, niños o adolescentes.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
+
+###### Artículo 178.
+
+La solicitud de medidas de protección especial, deberán cumplir con los requisitos siguientes:
+
+I. Datos de identificación de la niña, niño o adolescente.
+
+II. Descripción que conforman la vulneración de la niña, niño o adolescente.
+
+III. Lugar donde ocurren los hechos de vulneración.
+
+La Procuraduría de Protección Estatal o las Procuradurías de Protección Municipales, según sea el caso, una vez recibida la solicitud de la medida especial de protección, en términos del artículo anterior, deberán realizar la (sic) acciones tendentes para detectar la posible vulneración de los derechos de la niña, niño o adolescente, y cuando corresponda, emitirá o solicitará la medida de protección especial, en un plazo no mayor a quince días hábiles a partir de recibida la solicitud.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2016)</small>
+
+### Capítulo IV. De las Medidas Urgentes de Protección Especial
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
+
+###### Artículo 179.
+
+Las medidas urgentes de protección especial son disposiciones que el Ministerio Público, ordenará de oficio o a petición de parte, para proteger, garantizar y resguardar los derechos de niñas, niños y adolescentes cuando exista riesgo inminente contra la vida, la libertad, integridad de éstos o circunstancias de hecho que puedan constituir delitos de conformidad con las leyes penales.
+
+Las medidas urgentes de protección especial que la autoridad determine, serán vinculantes para todas las autoridades estatales y municipales, y deberán darle cumplimiento inmediatamente después de recibir la orden respectiva, en el ámbito de su competencia.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
+
+###### Artículo 180.
+
+Las medidas urgentes de protección especial pueden ser solicitadas por escrito, en forma verbal o por cualquier otro medio de comunicación que sea eficaz por:
+
+I. La niña, niño o adolescente que sufra de alguna afectación a sus derechos.
+
+II. La Procuraduría de Protección Estatal, o las Procuradurías de Protección Municipales.
+
+III. Cualquier persona, institución pública o privada que tenga conocimiento de una situación de riesgo, amenaza o afectación de la vida, la libertad, integridad de niñas, niños o adolescentes.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
+
+###### Artículo 181.
+
+Cuando se solicite la imposición de medidas urgentes de protección especial, se deberá manifestar los hechos y argumentos que justifiquen las mismas. Son medidas urgentes de protección especial, en relación con niñas, niños y adolescentes, además de las establecidas en el Código Nacional de Procedimientos Penales, las siguientes:
+
+I. El acogimiento residencial de la niña, niño o adolescente afectado, cuando se encuentre en peligro su vida, integridad o libertad, como último recurso una vez agotada la posibilidad del acogimiento por parte de la familia extensa o ampliada.
+
+II. La separación inmediata de la persona que maltrate a un niño, niña o adolescente del entorno de éstos.
+
+III. Prohibición de acercarse o comunicarse con la niña, niño o adolescente, hasta por 60 días naturales, pudiéndose prorrogar por el término de 30 días o hasta que cese el riesgo, de conformidad con el interés superior de la niña, niño o adolescente.
+
+IV. La orden de tratamiento médico, psicológico o psiquiátrico de la niña, niño o adolescente o de su madre, padre, representante o responsable, en especial los servicios de salud de emergencia previstos en los artículos 29 y 30 de la Ley General de Víctimas.
+
+V. Las demás que resulten necesarias para salvaguardar los derechos de las niñas, niños y adolescentes cuando exista riesgo inminente contra la vida, la libertad, integridad de éstos o circunstancias de hecho que puedan constituir delitos de conformidad con las leyes penales.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
+
+###### Artículo 182.
+
+La Procuraduría de Protección Estatal y los titulares de las Procuradurías de Protección Municipales, podrán ordenar mediante determinación administrativa, fundando y motivando, las medidas urgentes de protección especial que deberán cumplirse de inmediato con auxilio de las instituciones de seguridad pública competente, cuando no exista Ministerio Público o cuando se encuentre ausente del territorio de su adscripción, dando aviso de inmediato al ministerio público más cercano.
+
+El Ministerio Público, y en su caso la Procuraduría de Protección Estatal o las Procuradurías de Protección Municipales, deberán decretar las medidas urgentes de protección especial a más tardar dentro de las tres horas siguientes a partir de la recepción de la solicitud. Una vez impuesta la medida urgente de protección, dentro del término de doce horas, el Ministerio Público, y en su caso la Procuraduría de Protección Estatal o las Procuradurías de Protección Municipales, darán aviso al órgano jurisdiccional competente quien en el término de veinticuatro horas siguientes a la imposición de la medida urgente de protección, deberá pronunciarse sobre la ratificación, modificación o cancelación de la medida que se encuentre vigente.
+
+En caso de incumplimiento de las medidas urgentes de protección especial, la Procuraduría de Protección Estatal o las Procuradurías de Protección Municipales podrán solicitar la imposición de las medidas de apremio correspondientes a la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
+
+###### Artículo 183.
+
+En caso de que la autoridad jurisdiccional determine cancelar la medida urgente de protección especial decretada por el Ministerio Público, y en su caso por la Procuraduría de Protección Estatal o las Procuradurías de Protección Municipales, éste la dejará sin efecto una vez que le sea notificada la determinación y ordenará a la autoridad encargada de ejecutarla que las cosas vuelvan al estado en que se encontraban antes de la aplicación de la medida.
+
+En los demás casos, se estará a lo que determine la autoridad jurisdiccional en la resolución respectiva.
+
+## Título Décimo Primero. De las Infracciones Administrativas
+
+### Capítulo Único. De las Infracciones y Sanciones Administrativas
+
+> <small>(ADICIONADO [N. DE E. REUBICADO -ANTES ARTÍCULO 170-], P.O. 6 DE JULIO DE 2016)</small>
+
+###### Artículo 184.
 
 Los servidores públicos, personal de instituciones de salud, educación, deportivas o culturales, empleados o trabajadores de establecimientos sujetos al control, administración o coordinación de aquéllas que, en el ejercicio de sus funciones o actividades o con motivo de ellas, indebidamente impidan el ejercicio de algún derecho o nieguen la prestación del servicio al que están obligados, a las niñas, niños o adolescentes, serán sujetos a las sanciones administrativas y demás que resulten aplicables, en términos de las disposiciones correspondientes.
 
 No se considerarán como negación al ejercicio de un derecho, las molestias que sean consecuencia de sanciones legales, que sean inherentes o incidentales a éstas o derivadas de un acto legítimo de autoridad.
 
-###### Artículo 171.
+> <small>(ADICIONADO [N. DE E. REUBICADO -ANTES ARTÍCULO 171-], P.O. 6 DE JULIO DE 2016)</small>
+
+###### Artículo 185.
 
 Se consideran infracciones a la presente Ley:
 
@@ -2007,7 +2213,9 @@ III. Respecto de profesionales en trabajo social o psicología que intervengan e
 
 IV. Las demás contravenciones a lo dispuesto en la presente Ley.
 
-###### Artículo 172.
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO -ANTES ARTÍCULO 172-], P.O. 6 DE JULIO DE 2016)</small>
+
+###### Artículo 186.
 
 A quienes incurran en las infracciones previstas en las fracciones I, II y III del artículo anterior, se sancionará con:
 
@@ -2015,7 +2223,7 @@ I. Apercibimiento.
 
 II. Amonestación por escrito.
 
-III. Multa de hasta mil quinientos días de salario mínimo general vigente en el Estado, al momento de realizarse la conducta sancionada.
+III. Multa de hasta mil quinientos días de salario mínimo general, al momento de realizarse la conducta sancionada.
 
 IV. Arresto Administrativo hasta por treinta y seis horas.
 
@@ -2033,9 +2241,9 @@ b) Al inicio del segundo o ulterior procedimiento exista resolución previa que 
 
 c) Que entre el inicio del procedimiento y la resolución que haya causado estado no hayan transcurrido más de diez años.
 
-### Capítulo Único. De las Infracciones y Sanciones Administrativas
+> <small>(ADICIONADO [N. DE E. REUBICADO -ANTES ARTÍCULO 173-], P.O. 6 DE JULIO DE 2016)</small>
 
-###### Artículo 173.
+###### Artículo 187.
 
 Para la determinación de la sanción, las autoridades competentes deberán considerar:
 
@@ -2049,21 +2257,27 @@ IV. La condición económica del infractor.
 
 V. La reincidencia del infractor.
 
-###### Artículo 174.
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO -ANTES ARTÍCULO 174-], P.O. 6 DE JULIO DE 2016)</small>
+
+###### Artículo 188.
 
 Las sanciones previstas en esta Ley se aplicarán por las siguientes autoridades:
 
-I. La dependencia o entidad de la Administración Pública Estatal o Municipal que resulte competente, en los casos de las fracciones I y II del artículo 171 de esta Ley.
+I. La dependencia o entidad de la Administración Pública Estatal o Municipal que resulte competente, en los casos de las fracciones I y II del artículo 185 de esta Ley.
 
 II. Tratándose de servidores públicos, así como empleados o trabajadores de establecimientos sujetos al control, administración o coordinación, del Poder Judicial del Estado; el Honorable Congreso del Estado; órganos con autonomía constitucional, o del Tribunal Superior de Justicia del Estado, las sanciones serán impuestas por los órganos que establezcan sus respectivos ordenamientos legales.
 
-III. El Sistema DIF- Chiapas, en los casos de la fracción III del artículo 171 de esta Ley.
+III. El Sistema DIF- Chiapas, en los casos de la fracción III del artículo 185 de esta Ley.
 
-###### Artículo 175.
+> <small>(ADICIONADO [N. DE E. REUBICADO -ANTES ARTÍCULO 175-], P.O. 6 DE JULIO DE 2016)</small>
+
+###### Artículo 189.
 
 Contra las sanciones que las autoridades estatales o municipales impongan en cumplimiento de esta Ley, se podrá interponer el recurso de revisión previsto en la Ley de Procedimientos Administrativos para el Estado de Chiapas.
 
-###### Artículo 176.
+> <small>(ADICIONADO [N. DE E. REUBICADO -ANTES ARTÍCULO 176-], P.O. 6 DE JULIO DE 2016)</small>
+
+###### Artículo 190.
 
 Para los efectos de este Título, a falta de disposición expresa y en lo que no contravenga a esta Ley, se aplicará supletoriamente la Ley de Procedimientos Administrativos para el Estado de Chiapas.
 
@@ -2105,4 +2319,14 @@ De conformidad con la fracción I del artículo 44 de la Constitución Política
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda, Secretario General de Gobierno.- Rúbricas.
 
-## Título Décimo Primero. De las Infracciones Administrativas
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 235 DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Todas las modificaciones a las disposiciones reglamentarias derivadas de lo establecido en el presente Decreto, deberán ser expedidas, en un término no mayor a 90 días hábiles, siguientes a la entrada en vigor del presente Decreto.
+
+Artículo Tercero.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
