@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-fiscalizacion-del-instituto-nacional-electoral-10
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-01-22"
-last_updated: "2016-05-30"
+last_updated: "2016-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104964&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-23"
 
 REGLAMENTO DE FISCALIZACIÓN DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE JULIO DE 2016.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 22 de enero de 2015.
 
@@ -151,7 +151,7 @@ REGLAMENTO DE FISCALIZACIÓN
 
 ## Título I.. Disposiciones Generales
 
-> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 1.
 
@@ -193,6 +193,8 @@ g) Aspirantes, precandidatos, candidatos y candidatos independientes a cargos de
 
 2. Los partidos políticos nacionales con acreditación para participar en elecciones locales, tendrán el mismo trato que un partido político local en el ámbito de las elecciones locales y las obligaciones materia de este Reglamento.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 3. Los partidos, aspirantes, precandidatos, candidatos, candidatos independientes locales y federales deberán inscribirse en el Sistema de Registro Nacional de Candidatos de conformidad con los Lineamientos y requisitos que para tal efecto disponga el Instituto. La cuenta de correo electrónico proporcionada en el Registro Nacional de Candidatos, será la base para que los sujetos obligados reciban avisos electrónicos, comunicados e información relacionada con los procesos de fiscalización a cargo del Instituto.
 
 Una vez realizada la inscripción en el Sistema antes citado, el Instituto entregará a cada aspirante, precandidato, candidato, y candidato independiente la cuenta de ingreso al Sistema de Contabilidad en Línea para la consulta de sus operaciones.
@@ -201,119 +203,233 @@ Una vez realizada la inscripción en el Sistema antes citado, el Instituto entre
 
 ###### Artículo 4.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Glosario
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 1. Para los efectos de este Reglamento se entenderá por:
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 a) Agrupaciones: agrupaciones políticas nacionales.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 b) Afiliado o militante: ciudadano que, en pleno goce y ejercicio de sus derechos político-electorales, se registra libre, voluntaria e individualmente a un partido político en los términos que para esos efectos disponga el partido en su normatividad interna, independientemente de su denominación, actividad y grado de participación.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 c) Alianza Partidaria: Figura mediante la cual dos o más partidos políticos, sin mediar coalición, pueden postular a un mismo candidato a un cargo de elección en el ámbito local.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 d) Aspirante: persona que tiene interés en obtener el apoyo ciudadano para postularse como candidato independiente.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 e) Candidato: ciudadano registrado ante el Instituto o ante el Organismo Público Local Electoral por un partido político o coalición en las modalidades que prevé la Ley de Instituciones.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 f) Candidato Independiente: ciudadano que obtiene el registro mediante Acuerdo de la autoridad electoral que corresponda, habiendo cumplido los requisitos que para tal efecto establecen la Ley de Instituciones y las leyes locales en la materia.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 g) Candidatura Común: Figura mediante la cual dos o más partidos políticos, sin mediar coalición, pueden postular a un mismo candidato a un cargo de elección en el ámbito local.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 h) Catálogo de Cuentas: Catálogo de Cuentas Único y Homogéneo que contiene una lista analítica ordenada por niveles de forma escalonada, sistemática y homogénea de las cuentas que integran la contabilidad del sujeto obligado.
 
-i) CDD: Comités Directivos Distritales u órganos equivalentes de los partidos políticos.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
-j) CDE: Comités Directivos Estatales u órganos equivalentes de los Partidos Políticos Nacionales.
+CDD: Comités Directivos Distritales u órganos equivalentes de los partidos políticos.
 
-k) CDM: Comités Directivos Delegacionales o Comités Directivos Municipales de los partidos políticos.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
 
-l) CEE: Comité Ejecutivo Estatal u órgano equivalente de los partidos políticos locales.
+i) CDE: Comités Directivos Estatales u órganos equivalentes de los Partidos Políticos Nacionales.
 
-m) CEN: Comité Ejecutivo Nacional u órgano equivalente de los Partidos Políticos Nacionales.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
 
-n) CNBV: Comisión Nacional Bancaria y de Valores.
+j) CDM: Comités Directivos Delegacionales o Comités Directivos Municipales de los partidos políticos.
 
-o) Coalición total: aquella en la que los partidos políticos coaligados postulan en un mismo proceso federal o local, a la totalidad de sus candidatos a puestos de elección popular bajo una misma Plataforma Electoral.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
 
-p) Coalición parcial: aquella en la que los partidos políticos coaligados postulan en un mismo proceso federal o local, al menos al cincuenta por ciento de sus candidatos a puestos de elección popular bajo una misma Plataforma Electoral.
+k) CEE: Comité Ejecutivo Estatal u órgano equivalente de los partidos políticos locales.
 
-q) Coalición flexible: aquella en la que los partidos políticos coaligados postulan en un mismo Proceso Electoral Federal o local, al menos a un veinticinco por ciento de candidatos a puestos de elección popular bajo una misma Plataforma Electoral.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
 
-r) Comisión: Comisión de Fiscalización del Consejo General del Instituto.
+l) CEN: Comité Ejecutivo Nacional u órgano equivalente de los Partidos Políticos Nacionales.
 
-s) Complemento: Al elemento que permite incluir información adicional en el Comprobante Fiscal Digital por Internet (CFDI) para un sector o actividad específica, permitiendo que la información adicional sea protegida por el sello digital de la Factura Electrónica.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
 
-t) Consejo General: Consejo General del Instituto.
+m) CNBV: Comisión Nacional Bancaria y de Valores.
 
-u) Constitución: Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
 
-v) Diario Oficial: Diario Oficial de la Federación.
+n) Coalición total: aquella en la que los partidos políticos coaligados postulan en un mismo proceso federal o local, a la totalidad de sus candidatos a puestos de elección popular bajo una misma Plataforma Electoral.
 
-w) Días hábiles: los días laborables, con excepción de los sábados, los domingos, los no laborables en términos de ley y aquellos en los que no haya actividad en el Instituto y por horas hábiles las comprendidas entre las nueve y las dieciocho horas. Cuando no se precise, los días se entenderán como hábiles.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
 
-x) FIEL: Firma Electrónica Avanzada que constituye el conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de éstos, la cual produce los mismos efectos jurídicos que la firma autógrafa.
+o) Coalición parcial: aquella en la que los partidos políticos coaligados postulan en un mismo proceso federal o local, al menos al cincuenta por ciento de sus candidatos a puestos de elección popular bajo una misma Plataforma Electoral.
 
-y) Instituto: Instituto Nacional Electoral.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
 
-z) Junta Municipal: Son localidades que por su extensión y población no llegaron a ser municipios, pero tienen una cabecera municipal y dependen del ayuntamiento del municipio.
+p) Coalición flexible: aquella en la que los partidos políticos coaligados postulan en un mismo Proceso Electoral Federal o local, al menos a un veinticinco por ciento de candidatos a puestos de elección popular bajo una misma Plataforma Electoral.
 
-aa) Ley de Partidos: Ley General de Partidos Políticos.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
 
-bb) Ley de Instituciones: Ley General de Instituciones y Procedimientos Electorales.
+q) Comisión: Comisión de Fiscalización del Consejo General del Instituto.
 
-cc) Medio magnético: archivo digital en formato que permita su lectura y manipulación o uso sin restricciones o candados de seguridad.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
 
-dd) NIF: Normas de Información Financiera emitidas por el Consejo Mexicano de Normas de Información Financiera.
+r) Complemento: Al elemento que permite incluir información adicional en el Comprobante Fiscal Digital por Internet (CFDI) para un sector o actividad específica, permitiendo que la información adicional sea protegida por el sello digital de la Factura Electrónica.
 
-ee) Organizaciones de observadores: organizaciones de observadores electorales en elecciones federales.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
 
-ff) Organismos Públicos Locales: Organismos Públicos Locales en materia electoral.
+s) Consejo General: Consejo General del Instituto.
 
-gg) Organización de ciudadanos: organización de ciudadanos que notifiquen al Instituto el propósito de obtener su registro como Partido Político Nacional.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
 
-hh) Organizaciones sociales: personas morales con personalidad jurídica propia, que pueden ejercer funciones propias de fundaciones, centros de formación política o institutos de investigación o capacitación y que coadyuvan con el partido con actividades específicas y capacitación, promoción y desarrollo del liderazgo político de las mujeres.
+t) Constitución: Constitución Política de los Estados Unidos Mexicanos.
 
-ii) Partidos: Partidos Políticos Nacionales y partidos políticos con registro local.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
 
-jj) PAT: Programa Anual de Trabajo.
+u) Diario Oficial: Diario Oficial de la Federación.
 
-kk) Persona políticamente expuesta: las que señale el artículo 95 bis de la Ley General de Organizaciones y Actividades Auxiliares de Crédito.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
 
-ll) Precandidato: ciudadano que conforme a la Ley de Partidos y a los Estatutos de un partido político, participa en el proceso de selección interna de candidatos para ser postulado como candidato a cargo de elección popular.
+v) Días hábiles: los días laborables, con excepción de los sábados, los domingos, los no laborables en términos de ley y aquellos en los que no haya actividad en el Instituto y por horas hábiles las comprendidas entre las nueve y las dieciocho horas. Cuando no se precise, los días se entenderán como hábiles.
 
-mm) RFC: Registro Federal de Contribuyentes.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
 
-nn) Reglamento: Reglamento de Fiscalización.
+w) FIEL: Firma Electrónica Avanzada que constituye el conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de éstos, la cual produce los mismos efectos jurídicos que la firma autógrafa.
 
-oo) Representantes generales y de casilla: ciudadanos registrados por los partidos políticos y los candidatos independientes ante el Instituto Nacional Electoral u Órgano Electoral Local, para representarlos en las casillas asignadas, vigilando la legalidad de las actividades desarrolladas durante la Jornada Electoral.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
 
-pp) Responsable de finanzas: órgano o persona responsable de la administración del patrimonio y recursos financieros y de la presentación de los informes de los sujetos obligados.
+x) Instituto: Instituto Nacional Electoral.
 
-qq) Salario mínimo: salario mínimo general diario vigente en el Distrito Federal.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
 
-rr) SAE: Servicio de Administración y Enajenación de Bienes Asegurados.
+y) Junta Municipal: Son localidades que por su extensión y población no llegaron a ser municipios, pero tienen una cabecera municipal y dependen del ayuntamiento del municipio.
 
-ss) SAT: Servicio de Administración Tributaria.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
 
-tt) Secretaría Ejecutiva: Secretaría Ejecutiva del Instituto.
+z) Ley de Partidos: Ley General de Partidos Políticos.
 
-uu) SHCP: Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
 
-vv) Simpatizante: persona que se adhiere espontáneamente a un sujeto obligado, por afinidad con las ideas que éste postula, sin llegar a vincularse por el acto formal de la afiliación.
+aa) Ley de Instituciones: Ley General de Instituciones y Procedimientos Electorales.
 
-ww) Sistema de Contabilidad en Línea: sistema de contabilidad en línea de los partidos políticos, coaliciones, aspirantes, precandidatos, candidatos y candidatos independientes que el Instituto ha denominado como Sistema Integral de Fiscalización (SIF).
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
 
-xx) Sistema de Registro Nacional de Candidatos: Sistema Nacional de Registro de Precandidatos y Candidatos propiedad del Instituto que, a través de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, se ocupa para administrar el registro e inscripción de Aspirantes, Precandidatos, Candidatos y Candidatos Independientes.
+bb) Medio magnético: archivo digital en formato que permita su lectura y manipulación o uso sin restricciones o candados de seguridad.
 
-yy) Sujetos obligados: los señalados en el artículo 3, numeral 1 del Reglamento.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
 
-zz) Tipo de campaña: las correspondientes a los tipos de elección en cada ámbito. En el ámbito de elección federal son: Presidente, Senadores y Diputados; en el ámbito local son: gobernadores, Jefe de Gobierno del Distrito Federal, Jefes Delegacionales para el Distrito Federal, diputados locales y presidentes municipales o ayuntamiento, según la legislación local.
+cc) NIF: Normas de Información Financiera emitidas por el Consejo Mexicano de Normas de Información Financiera.
 
-aaa) Tribunal Electoral: Tribunal Electoral del Poder Judicial de la Federación.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
 
-bbb) UIF: Unidad de Inteligencia Financiera de la Secretaría de Hacienda y Crédito Público.
+dd) Organizaciones de observadores: organizaciones de observadores electorales en elecciones federales.
 
-ccc) Unidad Técnica: Unidad Técnica de Fiscalización de la Comisión de Fiscalización del Consejo General del Instituto.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+ee) Organismos Públicos Locales: Organismos Públicos Locales en materia electoral.
+
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+ff) Organización de ciudadanos: organización de ciudadanos que notifiquen al Instituto el propósito de obtener su registro como Partido Político Nacional.
+
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+gg) Organizaciones sociales: personas morales con personalidad jurídica propia, que pueden ejercer funciones propias de fundaciones, centros de formación política o institutos de investigación o capacitación y que coadyuvan con el partido con actividades específicas y capacitación, promoción y desarrollo del liderazgo político de las mujeres.
+
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+hh) Partidos: Partidos Políticos Nacionales y partidos políticos con registro local.
+
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+ii) PAT: Programa Anual de Trabajo.
+
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+jj) Persona políticamente expuesta: las que señale el artículo 95 bis de la Ley General de Organizaciones y Actividades Auxiliares de Crédito.
+
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+kk) Precandidato: ciudadano que conforme a la Ley de Partidos y a los Estatutos de un partido político, participa en el proceso de selección interna de candidatos para ser postulado como candidato a cargo de elección popular.
+
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+ll) RFC: Registro Federal de Contribuyentes.
+
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+mm) Reglamento: Reglamento de Fiscalización.
+
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+nn) Representantes generales y de casilla: ciudadanos registrados por los partidos políticos y los candidatos independientes ante el Instituto Nacional Electoral u Órgano Electoral Local, para representarlos en las casillas asignadas, vigilando la legalidad de las actividades desarrolladas durante la Jornada Electoral.
+
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+oo) Responsable de finanzas: órgano o persona responsable de la administración del patrimonio y recursos financieros y de la presentación de los informes de los sujetos obligados.
+
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+pp) Salario mínimo: salario mínimo general diario vigente en el Distrito Federal.
+
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+qq) SAE: Servicio de Administración y Enajenación de Bienes Asegurados.
+
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+rr) SAT: Servicio de Administración Tributaria.
+
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+ss) Secretaría Ejecutiva: Secretaría Ejecutiva del Instituto.
+
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+tt) SHCP: Secretaría de Hacienda y Crédito Público.
+
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+uu) Simpatizante: persona que se adhiere espontáneamente a un sujeto obligado, por afinidad con las ideas que éste postula, sin llegar a vincularse por el acto formal de la afiliación.
+
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+vv) Sistema de Contabilidad en Línea: sistema de contabilidad en línea de los partidos políticos, coaliciones, aspirantes, precandidatos, candidatos y candidatos independientes que el Instituto ha denominado como Sistema Integral de Fiscalización (SIF).
+
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+ww) Sistema de Registro Nacional de Candidatos: Sistema Nacional de Registro de Precandidatos y Candidatos propiedad del Instituto que, a través de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, se ocupa para administrar el registro e inscripción de Aspirantes, Precandidatos, Candidatos y Candidatos Independientes.
+
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+xx) Sujetos obligados: los señalados en el artículo 3, numeral 1 del Reglamento.
+
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+yy) Tipo de campaña: las correspondientes a los tipos de elección en cada ámbito. En el ámbito de elección federal son: Presidente, Senadores y Diputados; en el ámbito local son: gobernadores, Jefe de Gobierno del Distrito Federal, Jefes Delegacionales para el Distrito Federal, diputados locales y presidentes municipales o ayuntamiento, según la legislación local.
+
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+zz) Tribunal Electoral: Tribunal Electoral del Poder Judicial de la Federación.
+
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+aaa) UIF: Unidad de Inteligencia Financiera de la Secretaría de Hacienda y Crédito Público.
+
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+bbb) Unidad Técnica: Unidad Técnica de Fiscalización de la Comisión de Fiscalización del Consejo General del Instituto.
 
 > <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2016)</small>
 
@@ -393,7 +509,11 @@ Procedimiento de notificación
 
 ###### Artículo 9.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Tipos de notificaciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 1. Las notificaciones podrán hacerse de las formas siguientes:
 
@@ -423,6 +543,8 @@ d) Automática, se entenderá hecha al momento de la aprobación por el Consejo 
 
 e) Si se acordó el engrose de la resolución, la notificación se hará por oficio. Por comparecencia, cuando el interesado, su representante o su autorizado acuda a notificarse directamente ante el órgano que corresponda. En este caso, se asentará razón en autos y se agregará copia simple de la identificación oficial del compareciente.
 
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
 f) Por vía electrónica, mediante el sistema o mecanismo que implemente el Instituto, atendiendo a las reglas siguientes:
 
 I. Deberá ser a solicitud de parte y el solicitante deberá contar con un nombre de usuario y contraseña que proporcionará el Instituto;
@@ -441,9 +563,7 @@ VII. Las notificaciones se harán a más tardar dentro de 24 horas siguientes al
 
 VIII. El sistema deberá garantizar la debida entrega y recepción de las notificaciones a los usuarios.
 
-IX. En el caso de notificaciones de errores y omisiones derivadas de la entrega de los informes respectivos que se tengan que realizar a partidos políticos, aspirantes, precandidatos y candidatos, a cargos de elección federal y local y cuyos plazos se encuentren claramente establecidos en la Ley de Partidos o en la Ley de Instituciones, se realizarán de forma automática a la cuenta que el Instituto les proporciona en el Sistema de Contabilidad en Línea.
-
-X. En el caso de las notificaciones a que se refiere la fracción anterior, que se tengan que realizar a los candidatos independientes, éstos a más tardar en la fecha de la presentación de sus Informes deberán informar, por escrito a la Unidad Técnica, si desean que la notificación se efectúe de manera personal o por correo electrónico a la cuenta que el Instituto les proporciona en el Sistema de Contabilidad en Línea. Si a la fecha señalada no informan su decisión, se entenderá que optaron porque la notificación se efectué por correo electrónico.
+IX. En el caso de notificaciones de errores y omisiones derivadas (sic) la entrega de los informes respectivos que se tengan que realizar a partidos políticos, aspirantes, precandidatos y candidatos, a cargos de elección federal y local y cuyos plazos se encuentren claramente establecidos en la Ley de Partidos o en la Ley de Instituciones, se realizarán de forma automática a la cuenta que el Instituto les proporciona en el Sistema de Contabilidad en Línea.
 
 > <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2016)</small>
 
@@ -651,7 +771,7 @@ d) Firma autógrafa.
 
 ### CAPÍTULO 1.. CAPTACIÓN DE LAS OPERACIONES
 
-> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 17.
 
@@ -879,9 +999,15 @@ e) Para su determinación, el procedimiento a utilizar será el de valor razonab
 
 ###### Artículo 28.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Determinación de sub valuaciones o sobre valuaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 1. Para que un gasto sea considerado como sub valuado o sobre valuado, se estará a lo siguiente:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 a) Con base en los criterios de valuación dispuestos en el artículo 27 y en el numeral 7 del artículo 25 del presente Reglamento, la Unidad Técnica deberá identificar gastos cuyo valor reportado sea inferior o superior en una quinta parte, en relación con los determinados a través del criterio de valuación.
 
@@ -925,11 +1051,17 @@ b) Personalizado: Erogaciones que realizan partidos o coaliciones para invitar a
 
 ###### Artículo 30.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Ámbitos de elección y tipos de campaña
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 1. Para la identificación de los ámbitos de elección y tipo de campaña deberá considerarse lo siguiente:
 
 a) Son ámbitos de elección para los procesos electorales, el federal y el local.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 b) Son tipos de campaña en el ámbito federal: Presidente de los Estados Unidos Mexicanos, Senadores y Diputados del Congreso de la Unión; en el ámbito local: Gobernadores, Jefe de Gobierno del Distrito Federal, Diputados a los órganos legislativos locales, Presidentes Municipales o Ayuntamientos, Juntas Municipales y Presidentes de Comunidad, según lo establezcan las disposiciones locales, así como Jefes Delegacionales.
 
@@ -951,6 +1083,8 @@ c) Campañas locales. El resultado de multiplicar el gasto genérico o conjunto 
 
 ###### Artículo 32.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Criterios para la identificación del beneficio
 
 1. Se entenderá que se beneficia a una campaña electoral cuando:
@@ -963,15 +1097,23 @@ c) Por ámbito geográfico se entenderá la entidad federativa. Cuando entre las
 
 d) En el acto en el que se distribuya propaganda de cualquier tipo y todos los servicios contratados o aportados para ese acto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 2. Para identificar el beneficio de los candidatos y siempre que en la propaganda no se haga referencia a alguno o algunos de ellos, se considerarán los criterios siguientes:
 
 a) Tratándose de la propaganda utilitaria, en razón de su distribución según lo señale el correspondiente kardex, notas de entrada y salida de almacén y cualquier otra evidencia documental que le genere convicción a la autoridad del beneficio.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 b) En el caso de la propaganda en anuncios espectaculares, en función del ámbito geográfico donde sean colocados dichos anuncios conforme a lo dispuesto en el numeral 1, inciso c), del presente artículo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 c) En el caso de la propaganda exhibida en salas de cine, de acuerdo al ámbito geográfico donde se ubiquen conforme a lo dispuesto en el numeral 1, inciso c), del presente artículo.
 
 d) Respecto a la propaganda difundida en internet se considerarán la totalidad de las candidaturas a nivel nacional del partido o coalición, siempre y cuando no se advierta la referencia a uno o varios candidatos.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 e) Por lo que se refiere a los gastos de producción de radio y televisión, se considerarán las precampañas, campañas, precandidatos y candidatos en función al contenido del mensaje y al ámbito geográfico en el que se difunda, de acuerdo con el catálogo de cobertura que apruebe el Comité de Radio y Televisión vigente.
 
@@ -979,7 +1121,11 @@ f) Tratándose de gastos en diarios, revistas y medios impresos será en funció
 
 g) Tratándose de gastos en actos de campaña se considerará como campañas beneficiadas únicamente aquellas donde los candidatos correspondan a la zona geográfica en la que se lleva a cabo el evento; siempre y cuando hayan participado en el evento mediante la emisión de mensajes trasmitidos por sí mismos, por terceros o mediante la exhibición de elementos gráficos que hagan alusión a ellos.
 
-h) Tratándose de gastos relativos a estructuras electorales o partidistas de campaña, se considerarán como campañas beneficiadas aquellas para las que el personal integrante de la estructura de que se trate, haya realizado sus actividades. En el caso de no contar con la identificación de las campañas para las que prestaron sus servicios, se ubicará conforme al municipio o delegación, distrito federal o local, según sea el caso, que corresponda al domicilio de cada persona integrante de la estructura.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+h) Tratándose de gastos relativos a estructuras electorales o partidistas de campaña, se considerarán como campañas beneficiadas aquellas para las que el personal integrante de la estructura de que se trate, haya realizado sus actividades. En el caso de no contar con la identificación de las campañas para las que prestaron sus servicios, se ubicará conforme al municipio o delegación, Distrito federal o local, según sea el caso, que corresponda al domicilio de cada persona integrante de la estructura.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 i) En el caso de que se localicen gastos personalizados que contravengan lo dispuesto en el artículo 219 del Reglamento de Fiscalización, deberá reconocerse el beneficio a las campañas de los candidatos identificados con los gastos de que se trate, independientemente de quién haya contratado el bien o servicio. Por campaña beneficiada se entenderá aquélla que se vea favorecida por la erogación de gastos, donaciones o aportaciones, y que tenga como finalidad difundir o promocionar alguno de los siguientes elementos: al candidato, a la coalición que lo postula, al cargo de elección por el que se contiende, o al partido político.
 
@@ -987,15 +1133,25 @@ i) En el caso de que se localicen gastos personalizados que contravengan lo disp
 
 ###### Artículo 32 Bis.
 
+> <small>(ADICIONADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Tratamiento de la propaganda institucional o genérica
+
+> <small>(ADICIONADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 1. Cuando un partido político incurra en la prohibición a que se refiere el artículo 219 de este reglamento, además de la sanción que corresponda al partido político, se aplicarán los siguientes criterios para la identificación del beneficio:
 
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 a) Si la propaganda genérica en medios de comunicación impresos, internet, servicios de llamada telefónica y gastos de producción en radio y televisión, o cualquier otro de naturaleza análoga, tiene una difusión a nivel nacional, se entenderá que beneficia a los candidatos postulados por el partido que se observa en la propaganda, incluyendo las candidaturas comunes, alianzas partidarias y coaliciones.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 b) Si en la propaganda genérica en medios de comunicación impresos, internet, servicios de llamada telefónica y gastos de producción en radio y televisión, o cualquier otro de naturaleza análoga con difusión a nivel nacional, existe algún elemento que identifique una coalición, se entenderá que beneficia a los candidatos federales de la coalición y a los locales, independientemente de la procedencia partidista del candidato que se hubiere pactado en el convenio de coalición.
 
-c) En caso de existir propaganda genérica a favor de un partido político en entidades federativas en las que dicho partido haya suscrito convenios de coalición, postulado candidaturas comunes o candidatos en alianzas partidarias, ya sea en el ámbito federal o local, se entenderá que se beneficia a todos los candidatos contemplados en dichos convenios o figuras, independientemente de su origen partidista, y los postulados por el partido político en lo individual.
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
+c) En caso de existir propaganda genérica a favor de un partido político en Entidades Federativas en las que dicho partido haya suscrito convenios de coalición, postulado candidaturas comunes o candidatos en alianzas partidarias, ya sea en el ámbito federal o local, se entenderá que se beneficia a todos los candidatos contemplados en dichos convenios o figuras, independientemente de su origen partidista, y los postulados por el partido político en lo individual.
 
 > <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2016)</small>
 
@@ -1005,7 +1161,11 @@ c) En caso de existir propaganda genérica a favor de un partido político en en
 
 ###### Artículo 33.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Requisitos de la contabilidad
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 1. La contabilidad de los sujetos obligados, deberá observar las reglas siguientes:
 
@@ -1018,6 +1178,8 @@ c) Los registros contables serán analíticos y deberán efectuarse en el mes ca
 d) Utilizar el Manual General de Contabilidad que incluye la Guía Contabilizadora y el Catálogo de Cuentas que emita la Comisión.
 
 e) Llevar la contabilidad en el domicilio fiscal y a través del Sistema de Contabilidad en Línea que para tal efecto proporcione el Instituto.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 f) Los partidos, coaliciones, aspirantes, precandidatos, candidatos y candidatos independientes, podrán procesar su contabilidad a través del Sistema de Contabilidad en Línea en un lugar distinto a su domicilio fiscal, siempre y cuando dicha información se presente a la autoridad de conformidad con los Lineamientos para la operación y manejo del Sistema de Contabilidad en Línea del Instituto.
 
@@ -1085,15 +1247,19 @@ Facultades para la verificación de los sistemas de los sujetos obligados
 
 ###### Artículo 37.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Obligación de utilizar el Sistema de Contabilidad en Línea
 
 1. Los partidos, coaliciones, precandidatos y candidatos y los aspirantes y candidatos independientes, deberán registrar sus operaciones a través del Sistema de Contabilidad en Línea, que para tales efectos disponga el Instituto, en apego a lo dispuesto por el artículo 40 del presente Reglamento.
 
 2. La Comisión instruirá a la Unidad Técnica, la supervisión de la captura de las operaciones y emitirá un reporte mensual, que será publicado en la página del Instituto.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 3. Las correcciones y aclaraciones que realicen los sujetos obligados derivadas de la revisión de la Autoridad en el oficio de errores y omisiones, deberán ser invariablemente capturadas a través del Sistema. En ningún caso se aceptará información por escrito o en medio magnético, a excepción de aquella documentación expresamente establecida en este Reglamento.
 
-> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2016)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 37 Bis.
 
@@ -1107,7 +1273,7 @@ b) Carga por lotes o carga masiva de pólizas contables.
 
 c) Registro directo a los sujetos beneficiados, como resultado del llenado de la cédula de gastos prorrateados.
 
-> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 38.
 
@@ -1123,7 +1289,7 @@ Registro de las operaciones en tiempo real
 
 5. El registro de operaciones fuera del plazo establecido en el numeral 1 del presente artículo, será considerado como una falta sustantiva y sancionada de conformidad con los criterios establecidos por el Consejo General del Instituto.
 
-> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2016)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 38 Bis.
 
@@ -1137,6 +1303,8 @@ Registro de las operaciones por lotes
 
 ###### Artículo 39.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Del Sistema en Línea de Contabilidad
 
 1. El Sistema de Contabilidad en Línea es un medio informático que cuenta con mecanismos de seguridad que garanticen la integridad de la información en él contenida.
@@ -1149,7 +1317,9 @@ b) El acceso, la configuración, administración y operación del Sistema de Con
 
 c) La consulta de información pública por parte de la ciudadanía.
 
-3. En todo caso, a través del Sistema de Contabilidad en Línea los partidos, coaliciones, aspirantes, precandidatos, candidatos y candidatos independientes deberán cumplir con lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+3. En todo caso, a través del Sistema de Contabilidad en Línea los partidos, coaliciones, aspirantes, precandidatos, candidatos y, candidatos independientes deberán cumplir con lo siguiente:
 
 a) Los registros contables deberán identificar cada operación, relacionándola con la documentación comprobatoria, la cual deberá corresponder con los informes respectivos.
 
@@ -1175,9 +1345,15 @@ k) Las balanzas de comprobación deberán contener los nombres de las cuentas a 
 
 l) Los auxiliares contables de las cuentas que integran la contabilidad, deberán contener el saldo inicial del periodo, el detalle por póliza contable o movimiento de todos los cargos o abonos que se hayan efectuado en el mismo periodo, así como su saldo final.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 m) En el registro de las pólizas contables deberán proporcionar el detalle de la información que permita identificar los datos de la operación, especificando los datos de la póliza, si es de ingreso, egreso o diario, así como la fecha de la operación y en su caso el periodo al cual corresponde.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Para el caso de campaña y precampaña, se deberá identificar si es una operación de prorrateo, y para el caso del proceso ordinario si la información de la póliza corresponde a gasto programado.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 En el registro del movimiento contable se deberá señalar el nombre de las cuentas contables que se afectan, el concepto del movimiento, en su caso el RFC, folio fiscal y la cuenta CLABE; y señalar el tipo de evidencia que se agrega como soporte documental.
 
@@ -1185,11 +1361,15 @@ En el registro del movimiento contable se deberá señalar el nombre de las cuen
 
 5. El responsable de finanzas del CEN de cada partido, así como los aspirantes y candidatos independientes, serán responsables de designar a las personas autori-zadas (sic) para tener acceso al Sistema de Contabilidad en Línea, así como para registrar y consultar las operaciones que les correspondan.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 6. La documentación soporte en versión electrónica y la imagen de las muestras o testigos comprobatorios de los registros contables de los partidos, coaliciones, aspirantes, precandidatos, candidatos y candidatos independientes, deberán ser incorporados en el Sistema de Contabilidad en Línea en el momento de su registro, conforme el plazo establecido en el presente Reglamento en su artículo 38, incluyendo al menos un documento soporte de la operación.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 7. Para la implementación y operación del Sistema de Contabilidad en Línea se atenderá al manual del usuario emitido para tal efecto por la Comisión.
 
-> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 40.
 
@@ -1221,7 +1401,11 @@ Registro de operaciones
 
 ###### Artículo 42.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Cortes convencionales
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 1. El Sistema de Contabilidad en Línea deberá permitir hacer cortes convencionales a fin de cumplir con la formalidad de la entrega de información consistente en auxiliares contables, balanzas de comprobación, estados financieros para el periodo ordinario, informes anuales, trimestrales, de precampaña y de campaña para el cumplimiento de los plazos establecidos en (sic) artículos 239 y 240 del Reglamento.
 
@@ -1265,7 +1449,11 @@ Características cualitativas de los comprobantes de las operaciones
 
 ###### Artículo 46.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Requisitos de los comprobantes de las operaciones
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 1. Los comprobantes de las operaciones a que se refiere el artículo anterior, deben reunir los requisitos establecidos en los artículos 29 y 29-A del Código Fiscal de la Federación. Adicionalmente, el comprobante deberá contener la información que permita identificar el proceso y el sujeto obligado a favor de quien se realiza el gasto, a través del complemento que para tal efecto publique el SAT en su página de Internet, mismo que debe contener la identificación de las campañas beneficiadas.
 
@@ -1397,6 +1585,8 @@ Actividades vulnerables
 
 ###### Artículo 54.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Requisitos para abrir cuentas bancarias
 
 1. Las cuentas bancarias deberán cumplir con los requisitos siguientes:
@@ -1406,6 +1596,8 @@ a) Ser de la titularidad del sujeto obligado y contar con la autorización del r
 b) Las disposiciones de recursos deberán realizarse a través de firmas mancomunadas.
 
 c) Una de las dos firmas mancomunadas deberá contar con la autorización o visto bueno del responsable de finanzas, cuando éste no vaya a firmarlas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 2. Se deberá abrir una cuenta bancaria para el manejo exclusivo de recursos, conforme a lo siguiente:
 
@@ -1459,9 +1651,15 @@ x) CBFTE: Recepción y administración de los recursos que reciba el Frente.
 
 y) CBC: Cuenta bancaria concentradora utilizada para realizar pagos de la campaña y transferencias a todas las demás cuentas.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 z) CBCC-CL: Cuenta bancaria para candidaturas comunes o alianzas partidarias, en el caso de campañas locales, que deberá ser abierta por cada partido político que postule al candidato.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 aa) CBJM-CL: Cuenta bancaria para Juntas Municipales, en el caso de campañas locales, que deberá ser abierta por cada candidato postulado.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 ab) CBPC-CL: Cuenta bancaria para Presidencias de comunidad, en el caso de campañas locales, que deberá ser abierta por cada candidato postulado.
 
@@ -1619,7 +1817,11 @@ Requisitos de las inversiones en valores
 
 ###### Artículo 63.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Manejo de recursos de las coaliciones a través de fideicomisos
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 1. Para el manejo de sus recursos, las coaliciones podrán:
 
@@ -1646,6 +1848,8 @@ IX. La Unidad Técnica llevará el control de tales contratos y verificará que 
 X. El fideicomiso no podrá extinguirse antes que se presente al Consejo General, el Dictamen Consolidado correspondiente a los informes de campaña presentados por la coalición.
 
 b) Convenir en que uno de los partidos que integran la coalición, será el responsable de administrar y distribuir a las cuentas bancarias de la misma y de los candidatos de ésta, los recursos que todos los partidos integrantes destinen a ese objeto, de conformidad con lo que determine el convenio respectivo y lo que acuerde el responsable de finanzas de la coalición. Para lo anterior, se deberá utilizar una cuenta concentradora destinada exclusivamente a recibir tales recursos y a realizar las transferencias a las cuentas CBN-COA, CBE-COA, y a las de los candidatos de la coalición. Las cuentas bancarias a que se refiere el artículo 54 del Reglamento deberán abrirse a nombre de ese partido. Los candidatos o el responsable de finanzas de la coalición, deberán recabar la documentación comprobatoria de los egresos que realicen, la cual será expedida a nombre del partido designado, y deberá contener su RFC. El partido designado por la coalición deberá constar en el convenio de coalición correspondiente. El responsable de finanzas de la coalición deberá reunir todos los comprobantes, la contabilidad, los estados de cuenta y demás documentación relativa a las cuestiones financieras de la coalición y de sus candidatos, y la entregará al partido designado, el cual deberá conservarla. El responsable de finanzas de la coalición será responsable de su presentación ante la autoridad electoral, así como de presentar las aclaraciones o rectificaciones que le sean requeridas.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 2. Para efecto de los fideicomisos de las candidaturas comunes y alianzas partidarias, se seguirán en lo aplicable, las mismas reglas que para las coaliciones dispone este Reglamento; y que los casos particulares que se presenten en la materia deben ser resueltos por la Comisión.
 
@@ -1887,7 +2091,11 @@ Tomas físicas de los bienes muebles e inmuebles
 
 ###### Artículo 77.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Gastos por amortizar
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 1. En la cuenta contable "Gastos por Amortizar", se deberán registrar las compras de propaganda electoral o propaganda utilitaria. Las salidas de estos materiales deberán:
 
@@ -1897,21 +2105,31 @@ b) Indicar cuando los partidos realicen compras para varias campañas.
 
 2. En caso de que un evento específico donde se distribuyan este tipo de bienes, tenga relación con las campañas de diversos candidatos, deberá utilizarse el criterio de prorrateo establecido en el Reglamento.
 
-3. A través de la cuenta contable antes referida, se deberán administrar las entradas y salidas del almacén, asíì (sic) como la asignación de propaganda a precampaña o campaña específica y los actos de precampaña o campaña a los que se haya destinado la propaganda o en caso de propaganda utilitaria para operación ordinaria, el comité, Distrito o entidad a dónde se envía, para ello el partido, coalición, precandidato, candidato, aspirante o candidato independiente, deberá cumplir con lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+3. A través de la cuenta contable antes referida, se deberán administrar las entradas y salidas del almacén, así como la asignación de propaganda a precampaña o campaña específica y los actos de precampaña o campaña a los que se haya destinado la propaganda o en caso de propaganda utilitaria para operación ordinaria, el comité, Distrito o entidad a dónde se envía, para ello el partido, coalición, precandidato, candidato, aspirante o candidato independiente, deberá cumplir con lo siguiente:
 
 a) Las notas de entrada, además del número de folio, deberán contener el registro de la fecha de entrada de la propaganda, la descripción, el número de bienes y nombre y firma de quien recibe.
 
-b) Las notas de salida deberán contener el número de folio, la fecha de salida, el número de unidades, el destino, en su caso, la identificación de la precampaña o campaña beneficiada y los actos de precampaña o campaña a los que se haya destinado la propaganda, así como el distrito, entidad o lugar a donde se envían, el nombre y la firma de quien recibe.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+b) Las notas de salida deberán contener el número de folio, la fecha de salida, el número de unidades, el destino, en su caso, la identificación de la precampaña o campaña beneficiada y los actos de precampaña o campaña a los que se haya destinado la propaganda, así como el Distrito, entidad o lugar a donde se envían, el nombre y la firma de quien recibe.
 
 c) Los kardex son los documentos a través de los cuales se controlan las unidades totales recibidas, así como las salidas por movimiento, éste debe incluir el registro del número de folio de la nota de entrada o salida, la fecha del movimiento, la cantidad de unidades, en su caso el número de la factura de compra, la fecha de compra, el nombre del proveedor y la firma del funcionario responsable de su registro y control.
 
 d) Los bienes o productos que se controlen a través de la cuenta "Gastos por amortizar", deberán ser inventariados al treinta y uno de diciembre de cada ejercicio, así como en el mes inmediato anterior al del inicio de las precampañas y campañas y durante el mes posterior a la conclusión de las precampañas y campañas. El inventario deberá ser aprobado por el responsable de finanzas del CEN u órgano equivalente del partido.
 
-e) Cuando las salidas de almacén se realicen para distribuir o asignar bienes o productos a campañas o precampañas, la nota de salida deberá especificar el tipo de campaña, y los actos de precampaña o campaña a los que se haya destinado la propaganda, el distrito electoral, la localidad, la fecha de la salida del almacén, la fecha del evento, el número de productos o bienes a asignar o distribuir, el nombre y firma de quien entrega, asíì (sic) como el nombre y firma de quien recibe.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+e) Cuando las salidas de almacén se realicen para distribuir o asignar bienes o productos a campañas o precampañas, la nota de salida deberá especificar el tipo de campaña, y los actos de precampaña o campaña a los que se haya destinado la propaganda, el Distrito electoral, la localidad, la fecha de la salida del almacén, la fecha del evento, el número de productos o bienes a asignar o distribuir, el nombre y firma de quien entrega, así como el nombre y firma de quien recibe.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 f) Para el caso de que se controle propaganda utilitaria o electoral que contenga el nombre, lema o datos que permitan la asignación de bienes o productos a una precampaña o campaña beneficiada, se deberá registrar en el kardex respectivo el nombre completo de la campaña y el candidato y los actos de precampaña o campaña a los que se haya destinado la propaganda, y se deberá adjuntar una fotografía de la muestra, misma que será parte integrante del kardex respectivo.
 
 4. Podrán llevar la administración física del almacén en distritos electorales o entidades de la República, pero cada uno de los centros de acopio, administración y distribución, deberán contar con las notas de entrada y salida de almacén y kardex, en estricto cumplimiento de los requisitos señalados en este artículo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 5. En caso de que la factura permita identificar plenamente al candidato beneficiado el gasto deberá aplicarse directamente a la campaña beneficiada, sin necesidad de registrarlo en la cuenta de gastos por amortizar; caso en el que se deberá elaborar un kardex conforme a lo dispuesto en el inciso f) del numeral 3 del presente artículo.
 
@@ -2073,7 +2291,11 @@ Del tratamiento administrativo de los beneficios fiscales
 
 ###### Artículo 89.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Financiamiento a través de créditos otorgados por instituciones financieras reguladas
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 1. Los sujetos obligados podrán contratar créditos bancarios o con garantía hipotecaria, para su financiamiento, sujetándose a las reglas siguientes:
 
@@ -2097,9 +2319,13 @@ d) Los sujetos obligados no podrán ofrecer garantías líquidas, ni cuentas por
 
 e) Los sujetos obligados deberán elaborar un informe pormenorizado sobre el contrato de apertura de crédito o su equivalente.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 2. El crédito deberá ser aprobado y formalizado por escrito, mediante acta o equivalente realizada por el órgano establecido para ello, en los Estatutos del partido político o su equivalente para el resto de los sujetos obligados; de igual forma deberán ser aprobadas las condiciones del crédito, las cuales podrán ser validadas y ratificadas mediante acta o equivalente, por el mismo órgano que los haya autorizado, o en su caso, por el órgano de vigilancia del propio instituto político.
 
-3. Los créditos se deberán celebrar a tasas de mercado, para ello los sujetos obligados deberán informar a la Unidad Técnica, previo a la formalización del crédito, las condiciones del mismo plazo, tasas del crédito, y en su caso garantía, a efecto de que dicha Unidad valide su razonabilidad.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+3. Los créditos se deberán celebrar a tasas de mercado, para ello los sujetos obligados deberán informar a la Unidad Técnica, previo a la formalización del crédito, las condiciones del mismo, plazo, tasas del crédito, y en su caso garantía, a efecto de que dicha Unidad valide su razonabilidad.
 
 4. La Comisión con el apoyo de la Unidad Técnica, podrá evaluar situaciones excepcionales del sujeto obligado, para lo cual emitirá un dictamen sobre la capacidad de endeudamiento. Entre dichas situaciones estarán los créditos hipotecarios o los créditos que estén garantizados con hipotecas.
 
@@ -2405,9 +2631,13 @@ c) Los ingresos derivados de actividades de autofinanciamiento, además de la fi
 
 ###### Artículo 104.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Control de las aportaciones de aspirantes, precandidatos, candidatos independientes y candidatos
 
 1. Las aportaciones de precandidatos, aspirantes, candidatos y candidatos independientes, deberán depositarse en la cuenta bancaria exclusiva para la administración de los gastos tendentes a obtener el apoyo ciudadano de la precampaña o campaña, según corresponda.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 2. Las aportaciones por montos superiores al equivalente a noventa días de salario mínimo, invariablemente deberán realizarse mediante transferencia o cheque nominativo de la cuenta de la persona que realiza la aportación. El monto se determinará considerando la totalidad de aportaciones realizadas por una persona física, siendo precampaña o campaña, o bien, en la obtención del apoyo ciudadano.
 
@@ -2419,7 +2649,7 @@ Adicionalmente, para las aportaciones en especie que realicen los aspirantes, pr
 
 5. Deberá cumplir con los límites establecidos en artículo 56, numeral 2, de la Ley de General.
 
-> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2016)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 104 Bis.
 
@@ -2457,6 +2687,8 @@ e) Los servicios prestados a los sujetos obligados que sean determinados por la 
 
 ###### Artículo 106.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Ingresos en especie
 
 1. Tanto los ingresos en especie de cualquier naturaleza como los ingresos en efectivo, se entenderán como ingresos que computarán al financiamiento privado al que tienen derecho a recibir los partidos políticos en términos del artículo 56, numeral 2 de la Ley de Partidos.
@@ -2464,6 +2696,8 @@ Ingresos en especie
 2. Si una aportación en especie representa un beneficio a una precampaña o campaña, se acumulará a los gastos en los informes respectivos y computará para el tope de gastos correspondiente.
 
 3. En caso de que el bien aportado corresponda a propaganda en bardas, el aportante deberá presentar las facturas que amparen la compra de los materiales, diseño, pinta, limpieza y en su caso, asignación de espacio. El valor de registro será invariablemente nominal, al valor consignado en los documentos.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 4. No se podrán realizar aportaciones en especie de ningún bien o servicio, cuando el aportante sea socio y participe en el capital social de la persona moral que provea el bien o servicio objeto de la aportación, en términos de lo establecido en el artículo 121 de este Reglamento.
 
@@ -2795,7 +3029,7 @@ Requisitos de los pagos
 
 6. Cada pago realizado, deberá ser plenamente identificado con la o las operaciones que le dieron origen, los comprobantes respectivos y sus pólizas de registro contable.
 
-> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 127.
 
@@ -2905,7 +3139,11 @@ Reconocimientos por actividades políticas de campaña
 
 ###### Artículo 135.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Identificación del beneficio en el pago del REPAP
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 1. Las pólizas contables de egresos, en donde se registren los reconocimientos por actividades políticas, deberán especificar en la descripción de la misma:
 
@@ -2945,7 +3183,11 @@ PRODUCCIÓN DE SPOTS
 
 ###### Artículo 138.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Control de gastos en producción de spots
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 1. Los comprobantes de los gastos efectuados por los sujetos obligados con derecho a la prerrogativa de tiempos en radio y televisión, deberán especificar el concepto del servicio prestado, sean pagos de servicios profesionales, uso de equipo técnico, locaciones o estudios de grabación y producción, así como los demás inherentes al mismo objetivo. Asimismo, estos comprobantes deberán ser emitidos a nombre del sujeto obligado y deberán cumplir con lo dispuesto en el artículo 46 del Reglamento.
 
@@ -3107,7 +3349,7 @@ APARTADO 7 BIS.
 
 GASTOS DE EVENTOS POLÍTICOS Y CASAS DE PRECAMPAÑA Y CAMPAÑA
 
-> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2016)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 143 Bis.
 
@@ -3117,7 +3359,7 @@ Control de agenda de eventos políticos
 
 2. En caso de cancelación de un evento político, los sujetos obligados deberán reportar dicha cancelación, a más tardar 48 horas después de la fecha en la que iba a realizarse el evento.
 
-> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2016)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 143 Ter.
 
@@ -3137,9 +3379,13 @@ FACILIDADES ADMINISTRATIVAS EN MATERIA DE CONTABILIDAD
 
 ###### Artículo 144.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Comprobantes de gastos de Organizaciones de observadores
 
 1. Los gastos que realicen las Organizaciones de observadores deberán estar vinculados únicamente con las actividades relacionadas directamente con la observación electoral.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 2. Los comprobantes de los gastos realizados, deberán ser emitidos a nombre de la organización de observadores y cumplir con lo dispuesto en el artículo 46 del Reglamento.
 
@@ -3201,7 +3447,11 @@ Requisitos de gastos operativos de Organizaciones de observadores
 
 ###### Artículo 150.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Del control de las transferencias
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 I. Transferencias de recursos federales.
 
@@ -3213,15 +3463,21 @@ I. Transferencias de recursos federales.
 
 4. Las coaliciones correspondientes a campañas electorales federales, podrán realizar transferencias en efectivo y en especie, a las cuentas concentradoras, precandidatos y candidatos postulados por la coalición.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 5. En caso de que, en las cuentas bancarias utilizadas para el manejo de recursos en las campañas electorales federales, existan remanentes, deberán ser reintegrados a alguna cuenta CBCEN o CBE de la entidad federativa que se trate, en tanto no se oponga a lo establecido por el artículo 222 Bis.
 
-II. Transferencias de recursos locales.
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
+Transferencias de recursos locales.
 
 6. Los Comités Ejecutivos Estatales, podrán realizar transferencias en efectivo y en especie, para la operación ordinaria a sus Comités Directivos Municipales o Delegacionales, a sus Organizaciones Sociales; en el caso de campañas electorales locales, a las cuentas Concentradoras, a la Coalición, precandidatos y candidatos de la misma entidad federativa que se trate.
 
 7. La cuenta Concentradora correspondiente a campañas electorales locales podrá realizar transferencias en efectivo y en especie, a las Coaliciones, precandidatos y candidatos postulados por los partidos.
 
 8. Las coaliciones correspondientes a campañas electorales locales, podrán realizar transferencias en efectivo y en especie, a las cuentas concentradoras, precandidatos y candidatos postulados por la coalición.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 9. En caso de que, en las cuentas bancarias utilizadas para el manejo de recursos en las campañas electorales locales, existan remanentes, deberán ser reintegrados a alguna cuenta CBCEE de la entidad federativa que se trate, en tanto no se oponga a lo establecido por el artículo 222 Bis.
 
@@ -3297,7 +3553,11 @@ Tipos de transferencias para CDE´s
 
 ###### Artículo 156.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Requisitos de transferencias a campañas locales
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 1. Las transferencias en efectivo del CEN a los estados para el financiamiento de campañas locales, deberán cumplir con lo siguiente:
 
@@ -3312,6 +3572,8 @@ d) Las cuentas bancarias abiertas para la administración de campañas locales y
 e) El partido podrá solicitar la ampliación del plazo de cancelación de la cuenta, previa solicitud debidamente fundada y motivada dirigida a la Comisión. La solicitud se deberá realizar previo al plazo de vencimiento.
 
 f) Los gastos para campañas locales y municipales se pagarán sólo de la cuenta CBECL-(PARTIDO)-(CAMPAÑA LOCAL)-(ESTADO) o CBCM-(PARTIDO)-(CAMPAÑA MUNICIPAL)-(ESTADO), abiertas para ese fin y deberán ser documentados conforme lo establece el Reglamento.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 g) A más tardar treinta días después de la Jornada Electoral, o a la fecha de cancelación de la cuenta contable, lo que ocurra primero, los saldos remanentes en la cuenta bancaria, así como los saldos en cuentas por cobrar y cuentas por pagar, deberán ser reintegrados al CEN del partido político o al CDD y para el caso de coaliciones, el reintegro a la cuenta bancaria y a la contabilidad se realizará en porcentajes idénticos a los de la aportación realizada a la coalición, asignando y seleccionando uno a uno los activos, entre el número de partidos coaligados. Las disposiciones de este inciso se realizarán en tanto no se oponga a lo establecido por el artículo 222 Bis.
 
@@ -3401,6 +3663,8 @@ Control de transferencias de partidos políticos
 
 ###### Artículo 163.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Conceptos de gasto que integran las actividades específicas y de capacitación, promoción y desarrollo del liderazgo político de las mujeres
 
 1. El Consejo General, a través de la Comisión, en los términos del artículo 51, numeral 1, inciso a) fracciones IV y V e inciso c) de la Ley de Partidos, vigilará que los proyectos realizados por los partidos destinen el gasto programado en los rubros siguientes:
@@ -3434,6 +3698,8 @@ VI. Todo gasto necesario para la organización, desarrollo y difusión de las ac
 2. Además, de lo señalado en el numeral anterior, los partidos deberán subclasificar los rubros mencionados con base en el tipo de gasto.
 
 3. Los partidos deberán elaborar y ejecutar los proyectos con base en lo establecido en el manual y lineamientos para el gasto programado, los cuales son documentos vinculantes, mismos que serán proporcionados por la Unidad Técnica, previa aprobación de la Comisión.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 4. Todos los gastos realizados para el desarrollo de las actividades referidas en este artículo deberán ser pagados en el ejercicio fiscal correspondiente.
 
@@ -4121,6 +4387,8 @@ c) Gastos de propaganda en diarios, revistas y otros medios impresos: comprenden
 
 ###### Artículo 199.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 De los conceptos de campaña y acto de campaña
 
 1. Se entiende como campaña electoral, al conjunto de actividades llevadas a cabo por los partidos políticos nacionales y locales, las coaliciones, los candidatos y los candidatos independientes registrados para la obtención del voto.
@@ -4128,6 +4396,8 @@ De los conceptos de campaña y acto de campaña
 2. Se entiende por actos de campaña, a las reuniones públicas, asambleas, marchas y en general aquéllos en que los candidatos o voceros de los partidos políticos se dirigen al electorado para promover sus candidaturas.
 
 3. Se entiende por propaganda electoral el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la campaña electoral producen y difunden los partidos políticos, los candidatos registrados y sus simpatizantes, con el propósito de presentar ante la ciudadanía las candidaturas registradas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 4. Se entenderán como gastos de campaña los siguientes conceptos:
 
@@ -4138,6 +4408,8 @@ b) Gastos operativos de la campaña: comprenden los sueldos y salarios del perso
 c) Gastos de propaganda en diarios, revistas y otros medios impresos: comprenden los realizados en cualquiera de esos medios, tales como inserciones pagadas, anuncios publicitarios y sus similares, tendentes a la obtención del voto. En todo caso, tanto el partido y candidato contratante, como el medio impreso, deberán identificar con toda claridad que se trata de propaganda o inserción pagada.
 
 d) Gastos de producción de los mensajes para radio y televisión: comprenden los realizados para el pago de servicios profesionales; uso de equipo técnico, locaciones o estudios de grabación y producción, así como los demás inherentes al mismo objetivo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 e) Gastos de anuncios pagados en internet: Comprenden los realizados en inserciones, banners, tweets, anuncios, cuentas de redes sociales, páginas de Internet, así como otros similares por los que se haya efectuado un gasto y tengan como finalidad promover la campaña de un partido político o candidato.
 
@@ -4193,11 +4465,15 @@ c) Las campañas electorales de los partidos, coaliciones y candidatos independi
 
 ###### Artículo 203.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 De los gastos identificados a través de Internet
 
 1. Serán considerados como gastos de campaña, además de los señalados en el artículo 76 de la Ley de Partidos, los que la Unidad Técnica mediante pruebas selectivas, identifique o determine, con base en la información difundida en internet de los partidos, coaliciones, precandidatos, aspirantes, candidatos y candidatos independientes.
 
 2. Derivado de los hallazgos descritos en el numeral anterior, podrá realizar confirmaciones con terceros.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 3. Independientemente de lo anterior, la Unidad Técnica deberá solicitar a los proveedores de servicios en páginas de internet y redes sociales información respecto de contratación de publicidad o cualquier otro servicio relacionado con dichos proveedores en beneficio de los sujetos obligados.
 
@@ -4421,7 +4697,7 @@ Bardas
 
 2. Deberán conservar y presentar fotografías de la publicidad utilizada en bardas, indicando su ubicación exacta.
 
-> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2016)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 216 Bis.
 
@@ -4469,9 +4745,13 @@ b) Los honorarios, sueldos, viáticos o gastos de transporte, de los funcionario
 
 ###### Artículo 218.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Procedimiento para el prorrateo del gasto conjunto o genérico
 
 1. Los gastos de campaña sujetos de prorrateo, son los identificados en el artículo 29 del Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 2. Las cuentas bancarias para la administración de recursos para gastos de precampaña y campaña, deberán ser utilizadas de manera exclusiva para la recepción de ingresos y generación de pagos de la precampaña o campaña, sin incluir otro tipo de gastos.
 
@@ -4480,6 +4760,8 @@ a) Para campañas, el gasto será prorrateado entre las campañas beneficiadas, 
 > <small>[N. DE E.VÉASE TABLA EN LA TERCERA SECCIÓN DEL D.O.F. DEL 30 DE MAYO DE 2016, PÁGINA 65.]</small>
 
 I. En términos de lo dispuesto en el inciso l) del numeral 2 del artículo 83 de la Ley de Partidos, en los casos de campaña federal, si se suman más de dos candidatos a senadores o diputados que coincidan en el mismo ámbito geográfico, el porcentaje se dividirá entre los que se involucren según la campaña que corresponda. Este mismo supuesto será aplicable al caso de las campañas locales.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 b) Para campañas locales: Tratándose de los casos, en los que se promocione a dos o más candidatos a cargos de elección popular en el ámbito local, para la distribución de los gastos de campaña se estará a lo siguiente:
 
@@ -4497,7 +4779,7 @@ VI. Para asignar el porcentaje de participación del gasto, se dividirá el tope
 
 VII. Con base en el porcentaje determinado en el inciso anterior, se calculará el monto que le corresponde reconocer en su informe de gastos de campaña a cada candidato beneficiado, con base en el valor nominal del gasto a distribuir o, en su caso, en la parte proporcional que corresponda.
 
-> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2016)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 218 Bis.
 
@@ -4507,7 +4789,7 @@ Prorrateo en precampañas
 
 2. La forma de prorratear este gasto se hará conforme a los criterios establecidos en los artículos 29, 30, 31, 32 y 218 del Reglamento.
 
-> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 219.
 
@@ -4523,11 +4805,7 @@ c) El número máximo de candidatos en los que se podrá distribuir el gasto suj
 
 d) En el caso en el que las disposiciones anteriores no se cumplan, los partidos involucrados serán sancionados de conformidad con los criterios establecidos por el Consejo General.
 
-2. El partido que hubiere sido designado como responsable de finanzas de la coalición, deberá separar los gastos que realice en beneficio propio y en beneficio de la coalición.
-
-3. La Comisión podrá emitir criterios adicionales para orientar la determinación de la campaña beneficiada por gastos conjuntos.
-
-> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2016)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 219 Bis.
 
@@ -4593,7 +4871,7 @@ Distribución de activos adquiridos durante las campañas
 
 #### SECCIÓN 6.. DEL REINTEGRO DEL FINANCIAMIENTO PÚBLICO DE CAMPAÑA
 
-> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2016)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 222 Bis.
 
@@ -4625,6 +4903,8 @@ En caso de no cumplir con la obligación descrita en el párrafo anterior, el Co
 
 ###### Artículo 223.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Responsables de la rendición de cuentas
 
 1. El responsable de finanzas del sujeto obligado, será el responsable de la autorización en el Sistema de Contabilidad en Línea o en su caso, de la presentación de los informes, su contenido y su documentación comprobatoria.
@@ -4655,6 +4935,8 @@ a) Acreditar la capacitación impartida por el CEN o CEE's.
 
 b) Vigilar el estricto cumplimiento del Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 5. Los aspirantes y candidatos independientes, serán responsables de:
 
 a) Presentar su informe de apoyo ciudadano y de campaña.
@@ -4677,7 +4959,11 @@ i) Los aspirantes y candidatos independientes, serán responsables solidarios re
 
 j) La entrega de documentación comprobatoria de ingresos y gastos, en estricto cumplimiento al presente Reglamento.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 k) Presentar junto con su informe de apoyo ciudadano y de campaña, en el formato que defina la Unidad Técnica, el informe que permita identificar su capacidad económica y los últimos estados de cuenta de las asociaciones civiles empleadas para la obtención del apoyo ciudadano y de campaña, mismos que tendrán el carácter de confidenciales y cuyos datos privados serán resguardados en términos de la Ley Federal de Acceso a la Información y Protección de Datos Personales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 6. Los precandidatos y candidatos postulados por los partidos o coalición, serán responsables de:
 
@@ -4699,7 +4985,9 @@ h) Verificar que los egresos realizados sean pagados con cheque de la cuenta ban
 
 i) La entrega de documentación comprobatoria de ingresos y gastos al partido o coalición, en estricto cumplimiento al presente Reglamento.
 
-j) Presentar junto con su informe precampaña o campaña, en el formato que defina la Unidad Técnica, el informe que permita identificar su capacidad económica, información que tendrá el carácter de confidencial y cuyos datos privados serán resguardados en términos de la Ley Federal de Acceso a la Información y Protección de Datos Personales.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
+j) Presentar junto con su informe (sic) precampaña o campaña, en el formato que defina la Unidad Técnica, el informe que permita identificar su capacidad económica, información que tendrá el carácter de confidencial y cuyos datos privados serán resguardados en términos de la Ley Federal de Acceso a la Información y Protección de Datos Personales.
 
 7. Los partidos serán responsables de:
 
@@ -4747,7 +5035,7 @@ d) Solicitar o recibir recursos mediante aportaciones o donativos, en dinero o e
 
 i) Entregar la documentación comprobatoria de ingresos y gastos al partido o coalición, en estricto cumplimiento al presente Reglamento.
 
-> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2016)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 223 Bis.
 
@@ -4977,7 +5265,11 @@ Estados Financieros que deben preparar
 
 ###### Artículo 232.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Generación de informes a través del Sistema de Contabilidad en Línea
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 1. Los informes generados por el Sistema de Contabilidad en Línea, serán:
 
@@ -5033,7 +5325,11 @@ e) De cada precampaña y campaña local.
 
 ###### Artículo 235.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Medios y plazos de presentación para partidos y coaliciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 1. Los sujetos obligados deberán generar y presentar mediante el Sistema de Contabilidad en Línea, los informes siguientes:
 
@@ -5095,9 +5391,13 @@ Obligados a presentar
 
 ###### Artículo 239.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Formato en el que se reportan
 
-1. Los informes de precampaña federal o local, deberán generarse y presentarse a través del Sistema de Contabilidad en Línea.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+1. Los informes de precampaña federal o local, generarse y presentarse a través del en el (sic) Sistema de Contabilidad en Línea y en el Reglamento.
 
 2. Deberán incluir la totalidad de los ingresos recibidos y de los gastos efectuados por cada uno de los precandidatos, desde que éstos son registrados como tales hasta la postulación del candidato ganador correspondiente y en los casos de candidato único, desde el reconocimiento del partido hasta la postulación.
 
@@ -5117,7 +5417,11 @@ Contenido de los informes
 
 ###### Artículo 241.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Documentación anexa al informe
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 1. Junto con los informes de precampaña deberán adjuntarse a través del Sistema de Contabilidad en Línea:
 
@@ -5127,7 +5431,7 @@ b) El formato de origen de los recursos aplicados a precampaña que contenga los
 
 c) Los estados de cuenta bancarios de todas las cuentas señaladas en el Reglamento, así como las conciliaciones bancarias correspondientes al periodo en el que hayan durado las precampañas electorales.
 
-d) (DEROGADO, D.O.F. 30 DE MAYO DE 2016)
+d) (DEROGADO, D.O.F. 30 DE MAYO DE 2016) (REPUBLICADO, D.O.F. 6 DE JULIO DE 2016)
 
 e) El informe a que se refiere el artículo 143 del Reglamento.
 
@@ -5141,7 +5445,7 @@ i) La documentación comprobatoria de los ingresos que se reciban y los egresos 
 
 j) Copia de la credencial para votar de los precandidatos, en medio magnético.
 
-> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 242.
 
@@ -5159,7 +5463,11 @@ Plazos de presentación
 
 ###### Artículo 243.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Sujetos obligados
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 1. Se deberá presentar un informe por cada una de las campañas en que el partido, coalición o candidato independiente haya contendido a nivel federal o local, especificando los gastos ejercidos en el ámbito territorial correspondiente; así como el origen de los recursos que se hayan utilizado para financiar la campaña. En consecuencia, de acuerdo con las elecciones federales y locales registradas, deberán presentar:
 
@@ -5169,17 +5477,27 @@ b) Informe por cada fórmula de candidatos a Senadores de la República por el p
 
 c) Informe por cada fórmula de candidatos a Diputados por el principio de mayoría relativa que hayan registrado ante las autoridades electorales.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 d) Informe por la campaña del candidato a Gobernador o Jefe de Gobierno de la Entidad Federativa de que se trate.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 e) Informe por cada candidato a ocupar cargo en el ayuntamiento, Jefatura Delegacional, Junta municipal o Presidente de comunidad de que se trate.
 
-f) Informe por cada fórmula de candidatos a Diputados al Congreso Local o Asamblea Legislativa, de la Entidad Federativa
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+f) Informe por cada fórmula de candidatos a Diputados al Congreso Local o Asamblea Legislativa, de la Entidad Federativa.
 
 2. Los candidatos por el principio de representación proporcional que realicen gastos de campaña, deberán presentar el informe respectivo.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 3. Los gastos reportados por los candidatos plurinominales, deberán identificar la campaña beneficiada de los candidatos de mayoría relativa, los cuáles serán prorrateados entre las campañas beneficiadas de la circunscripción correspondiente, según lo establecido en el artículo 218 del Reglamento.
 
-4. Para efecto de las candidaturas comunes y alianzas partidarias, se deberá presentar un informe por cada uno de los partidos políticos integrantes de la misma
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
+4. Para efecto de las candidaturas comunes y alianzas partidarias, se deberá presentar un informe por cada uno de los partidos políticos integrantes de la misma.
 
 > <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2016)</small>
 
@@ -5211,7 +5529,11 @@ Contenido de los informes
 
 ###### Artículo 246.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Documentación anexa de informes presentados
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 1. Junto con los informes de campaña deberán adjuntarse a través del Sistema de Contabilidad en Línea:
 
@@ -5295,7 +5617,7 @@ i) En un anexo se mencionarán todos los gastos centralizados que hayan ejercido
 
 j) Los estados de cuenta bancarios de todas las cuentas señaladas en el Reglamento, incluidas las establecidas para gastos de campaña, así como las conciliaciones bancarias correspondientes a los meses que hayan durado las campañas electorales.
 
-k) (DEROGADO, D.O.F. 30 DE MAYO DE 2016)
+k) (DEROGADO, D.O.F. 30 DE MAYO DE 2016) (REPUBLICADO, D.O.F. 6 DE JULIO DE 2016)
 
 l) El Inventario de activo fijo adquirido y el recibido por las aportaciones de uso o goce temporal, realizadas durante el periodo de campaña, en hoja de cálculo de forma impresa y en medio magnético.
 
@@ -5453,7 +5775,7 @@ h) La documentación comprobatoria de los ingresos que se reciban y los egresos 
 
 i) Copia de la credencial para votar del aspirante en medio magnético.
 
-> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 252.
 
@@ -5489,7 +5811,11 @@ Tipos de informes
 
 ###### Artículo 255.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Informe anual
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 1. El CEN, CEE, u órganos equivalentes de los partidos políticos, deberán generar y presentar cada uno a través del Sistema de Contabilidad en Línea, un informe de los ingresos y egresos utilizados para el desarrollo de sus actividades ordinarias correspondientes a cada ejercicio.
 
@@ -5499,15 +5825,21 @@ Informe anual
 
 ###### Artículo 256.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Contenido del informe
 
 1. En el informe anual deberán reportarse por separado la totalidad de los ingresos obtenidos y de los egresos realizados, mismos que deberán ser debidamente registrados de conformidad con lo establecido en el Catálogo de Cuentas.
 
 2. Respecto del informe anual de los partidos deberán reportarse los gastos efectuados con motivo de la realización de sus precampañas, así como los ingresos utilizados para financiar dichos gastos.
 
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
 3. También deberán reportarse los gastos efectuados con motivo de la realización de sus procesos de selección interna para la elección de titulares de los órganos de dirección en el CEN, CDE, CEE, CDD y CDM, así como el origen de los recursos con los que sufragaron dichos gastos.
 
 4. Finalmente, el informe anual de los partidos deberá considerar para su elaboración, los saldos finales de los ingresos y gastos de campaña dictaminados. En caso de que se encuentre dentro de la revisión del informe anual que un partido hubiere reportado gastos de campaña que no fueron reportados en el informe correspondiente, estos deberán sumarse a los topes de gastos de campaña.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 5. Los gastos efectuados con motivo de la realización de los procesos de selección interna para la elección de titulares de los órganos de dirección en el CEN, CEE y en los CDE's, se apegarán a lo dispuesto en el Artículo 199 del Reglamento, así también los gastos de propaganda en diarios, revistas y otros medios impresos, así como producción de mensajes para radio y televisión, anuncios espectaculares, salas de cine e internet, se deberá observar lo dispuesto en los artículos 138, 208, 211, 214 y 215 del Reglamento por cada uno de los candidatos internos, y las referencias a los candidatos se entenderán hechas a los candidatos internos; asimismo, se deberán reportar los ingresos utilizados para financiar dichos gastos.
 
@@ -5523,9 +5855,13 @@ c) Destinar anualmente por lo menos el tres por ciento del financiamiento públi
 
 ###### Artículo 257.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Documentación adjunta al informe anual
 
-1. Junto con los informes anuales que presenten los partidos deberán remitir a la Unidad Técnica:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+1. Junto con los informes anuales que presenten los partidos políticos, deberán remitir a la Unidad Técnica:
 
 a) La autorización y firma del auditor externo designado por el partido, de conformidad con el artículo 78, numeral 1, inciso b), fracción IV de la Ley de Partidos. No será necesario que el auditor externo certifique las modificaciones que se realicen con motivo de los requerimientos que emita la autoridad durante la revisión.
 
@@ -5545,7 +5881,9 @@ h) En el caso de las cuentas bancarias: los contratos de apertura que no fueron 
 
 i) El balance general, el estado de actividades y el estado de flujos de efectivo o estado de cambios en la situación financiera al treinta y uno de diciembre del año al que corresponda, que incluyan la totalidad de las operaciones efectuadas a nivel nacional.
 
-j) (DEROGADO, D.O.F. 30 DE MAYO DE 2016)
+j) (DEROGADO, D.O.F. 30 DE MAYO DE 2016) (REPUBLICADO, D.O.F. 6 DE JULIO DE 2016)
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 k) Los controles de folios de los recibos correspondientes al financiamiento de militantes y simpatizantes, que se expidan en cada entidad federativa; así como de los recibos que se expidan para las campañas federales, para las campañas internas y para las aportaciones que se reciban a través del mecanismo de llamadas telefónicas.
 
@@ -5558,6 +5896,8 @@ n) El inventario físico del activo fijo, en hoja de cálculo, de forma impresa 
 o) La documentación e información señalada en el artículo 261 del Reglamento.
 
 p) La relación de los proveedores y prestadores de servicios con los cuales realice operaciones, que durante el periodo objeto de revisión, superen los quinientos días de salario mínimo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 q) El estado de situación patrimonial por contabilidad, en el que se manifiesten los activos, pasivos y patrimonio, así como un informe detallado de los bienes inmuebles propiedad del partido que corresponda.
 
@@ -5579,15 +5919,19 @@ v) En caso de los partidos que hayan perdido su registro, la documentación comp
 
 ###### Artículo 258.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Contenido del informe
 
-1. En el informe trimestral se reportarán los ingresos obtenidos y los gastos ordinarios realizados por el CEN, CDE, CEE, CDM y CDD u órganos equivalentes de los partidos políticos, durante el periodo que corresponda. Todos los ingresos y los gastos que se reporten deberán estar debidamente registrados en la contabilidad del CEN o CEE, respectivamente.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2016)</small>
+
+1. En el informe trimestral se reportarán los ingresos obtenidos y los gastos ordinarios realizados por el CEN, CDE, CEE, CDM y CDD u órganos equivalentes de los partidos políticos, durante el periodo que corresponda. Todos los ingresos y los gastos que se reporten deberán estar debidamente registrados en la contabilidad del CEN o CEE, respectivamente
 
 2. Se deberá reportar como saldo inicial, el saldo final de todas las cuentas contables de caja, bancos y, en su caso, inversiones en valores correspondientes al trimestre inmediato anterior.
 
 3. Durante los ejercicios en los que exista proceso electoral, los partidos no están obligados a la presentación del informe trimestral.
 
-> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 259.
 
@@ -5853,11 +6197,11 @@ Notificaciones
 
 1. Las notificaciones a las Organizaciones de Ciudadanos se realizarán de conformidad a lo establecido en el artículo 9 del Reglamento.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 6 DE JULIO DE 2016)</small>
 
-### CAPÍTULO 6.. CANDIDATURAS COMUNES Y ALIANZAS PARTIDIARIAS (SIC)
+### CAPÍTULO 6.. CANDIDATURAS COMUNES Y ALIANZAS PARTIDARIAS
 
-> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2016)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 276 Bis.
 
@@ -5869,7 +6213,7 @@ Reglas de carácter general
 
 3. Para la imposición de sanciones se considerará el porcentaje de aportaciones que, de acuerdo al Dictamen correspondiente, se realizaron por cada partido en beneficio de la candidatura.
 
-> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2016)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 276 Ter.
 
@@ -5877,7 +6221,7 @@ Responsables de la rendición de cuentas
 
 1. Para efecto de los aspectos administrativos y de rendición de cuentas de los candidatos postulados por candidatura común o alianza partidaria, se seguirá en lo aplicable, las mismas reglas que para los partidos políticos dispone este Reglamento; y que los casos particulares que se presenten en la materia deben ser resueltos por la Comisión.
 
-> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2016)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 276 Quater.
 
@@ -5885,7 +6229,7 @@ Presentación de Informe
 
 1. Para efecto de las candidaturas comunes o alianzas partidarias, se deberá presentar un informe por cada uno de los partidos políticos integrantes de la misma, apegándose al formato establecido por la autoridad electoral de acuerdo a las mismas reglas que para los partidos políticos dispone este Reglamento.
 
-> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 Artículo 276 Quintus.
 
@@ -5949,15 +6293,23 @@ r) La relación mensual de los nombres de los aportantes y, en su caso, las cuen
 
 ###### Artículo 278.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Avisos al Consejo General
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 1. Los partidos deberán realizar los siguientes avisos al Consejo General:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 a) La información detallada de cada contrato celebrado durante el periodo de precampaña y campaña, en un plazo máximo de setenta y dos horas al de su suscripción conforme a lo establecido en el artículo 61, numeral 1, inciso f), fracción III de la Ley de Partidos, a través del sistema que para los efectos provea la Unidad Técnica.
 
 b) Los tipos de aportaciones, montos y frecuencia con los que los militantes realizarán aportaciones al partido político, dentro de los primeros quince días de cada ejercicio fiscal conforme a lo establecido en el artículo 56, numeral 2, inciso c) de la Ley de Partidos.
 
-2. (DEROGADO, D.O.F. 30 DE MAYO DE 2016)
+2. (DEROGADO, D.O.F. 30 DE MAYO DE 2016) (REPUBLICADO, D.O.F. 6 DE JULIO DE 2016)
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 3. Los partidos no podrán recibir bienes o servicios cuando los proveedores o prestadores de servicios no se encuentren inscritos o se encuentren con situación de baja en el Registro Nacional de Proveedores de conformidad con el artículo 356 del Reglamento.
 
@@ -6197,7 +6549,11 @@ e) Una vez transcurrido el plazo antes descrito, la Unidad Técnica contará con
 
 ###### Artículo 292.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Informes trimestrales
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 1. Los informes a que se refiere el artículo 78, numeral 1, inciso a) de la Ley de Partidos, serán generados a través del Sistema de Contabilidad en Línea y validados por el responsable de finanzas para su correspondiente presentación.
 
@@ -7145,9 +7501,13 @@ Plazos para el pago
 
 ###### Artículo 356.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Disposiciones generales
 
 1. En términos de lo dispuesto por la fracción XXI, del artículo 7 de la Ley General de Delitos Electorales, solo podrán proveer bienes y servicios a los partidos políticos, candidatos y candidatos independientes los proveedores inscritos en el Registro Nacional de Proveedores, de conformidad con lo establecido en el presente Reglamento.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 2. Para efectos de la obligación contenida en el párrafo anterior, será un proveedor obligado a inscribirse en el Registro Nacional de Proveedores las personas físicas o morales que vendan, enajenen, arrenden o proporcionen bienes o servicios de manera onerosa a los partidos, coaliciones o candidatos independientes, destinados para su operación ordinaria, precampañas o campañas, cuyo valor de la operación sea igual o superior al equivalente a mil quinientos días de salario mínimo, realizado en una o múltiples operaciones en el mismo periodo considerando como el inicio de periodo, el momento en que comenzó a realizar operaciones con los sujetos obligados y como fin del periodo el 31 de diciembre del mismo año, lo cual deberá refrendar en el caso de continuar en el mismo supuesto en el ejercicio inmediato siguiente al de su registro.
 
@@ -7175,13 +7535,17 @@ Requisitos para el registro
 
 ###### Artículo 358.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Lista de proveedores
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 1. Una vez validada la información y documentación por la Unidad Técnica, se publicará en la página principal del Instituto el listado de los proveedores inscritos en el Registro Nacional de Proveedores, así como el de los proveedores a los que se hubiese cancelado su registro al situarse en las causales señaladas en el numeral 1, del artículo 360 del presente Reglamento, la cual se actualizará de manera periódica.
 
 2. La Unidad Técnica deberá informar trimestralmente a la Comisión de las altas, bajas y modificaciones al Registro Nacional de Proveedores, así como del resultado de las confirmaciones realizadas en términos de lo dispuesto por el inciso b), del numeral 2, del artículo 261 del presente Reglamento.
 
-> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 359.
 
@@ -7189,7 +7553,7 @@ Actualización de datos de localización
 
 1. Los proveedores obligados a inscribirse en el Registro Nacional de Proveedores deberán efectuar a través de este medio las modificaciones de domicilio fiscal, acta constitutiva, representante legal o similar, utilizando para tal efecto su FIEL, dentro de los veinte días hábiles posteriores a su realización.
 
-> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2016)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 359 Bis.
 
@@ -7203,7 +7567,11 @@ Refrendo del Registro
 
 ###### Artículo 360.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Causales de cancelación del registro
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 1. La Unidad Técnica propondrá a la Comisión, la cancelación de la solicitud del Registro Nacional de Proveedores, por:
 
@@ -7213,11 +7581,19 @@ b) Ser reportado por la UIF, como persona física o moral vinculada a operacione
 
 c) A petición del propio proveedor.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 d) Por no refrendar el registro ante el Instituto de acuerdo a los Lineamientos que para este efecto publique el mismo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 e) Por liquidación o disolución de la sociedad.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 f) Por causa de muerte tratándose de persona física.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 2. La Unidad Técnica informará trimestralmente a la Comisión el listado de los proveedores a los que se hubiese realizado la cancelación del registro en el Registro Nacional de Proveedores.
 
@@ -7231,7 +7607,7 @@ Validación de información con autoridades
 
 2. La Unidad Técnica deberá solicitar a la UIF, informe si los RFC de las personas físicas y morales inscritas en el Registro Nacional de Proveedores, han sido reportados bajo el estatuto de operaciones inusuales o relevantes o en su caso, si existe algún proceso en curso por operaciones con recursos de procedencia ilícita.
 
-> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2016)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 361 Bis.
 
@@ -7533,7 +7909,7 @@ b) Relación de activo fijo que deberá contener: Tipo de cuenta, fecha de adqui
 
 2. Los pagos realizados para estos efectos, deberán efectuarse mediante cheque o transferencia de una cuenta bancaria.
 
-> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2016)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 380 Bis.
 
@@ -7559,7 +7935,11 @@ De las atribuciones de liquidación de partidos políticos
 
 ###### Artículo 381.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Del nombramiento
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 1. Cuando se actualice cualquiera de las causales de pérdida o cancelación de registro previstas en el artículo 94 de la Ley de Partidos, la Comisión deberá designar de forma inmediata a un Interventor, quien será el responsable del patrimonio del Partido Político Nacional en liquidación.
 
@@ -7603,9 +7983,15 @@ d) De esta diligencia se elaborará el acta correspondiente que deberá ser firm
 
 ###### Artículo 383.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Remuneración al liquidador
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 1. El Interventor tendrá derecho a una remuneración o pago de honorarios por su labor, la cual será determinada por la Secretaría Ejecutiva con el apoyo de la Unidad Técnica y la Dirección Ejecutiva de Administración, para su definición y concreción. A efecto de cumplir con esta obligación, el Instituto incluirá en el proyecto de presupuesto correspondiente, una partida que cubra el pago de los servicios profesionales de al menos dos Interventores.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 2. Tratándose de la pérdida o cancelación del registro del partido político, la Secretaría Ejecutiva, acordará con la Dirección Ejecutiva de Administración la forma, términos y condiciones en las que se remunerarán los servicios del Interventor durante el procedimiento de liquidación previsto en el Reglamento. Los recursos erogados para el pago de la remuneración de los Interventores se incluirán en los adeudos del partido político en liquidación, de forma tal que si fuera factible su recuperación sean reintegrados a la Federación o a la Tesorería de la entidad federativa que corresponda.
 
@@ -7653,6 +8039,8 @@ f) Cumplir con las demás obligaciones que otras leyes y el Reglamento determine
 
 ###### Artículo 385.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Procedimientos a desarrollar durante el periodo de prevención
 
 1. El partido político que se ubique en alguno de los supuestos previstos en el artículo 94 de la Ley de Partidos, entrará en un periodo de prevención, comprendido éste a partir de que, de los cómputos que realicen los consejos distritales del Instituto se desprende que un partido político nacional o local, no obtuvo el tres por ciento de la votación a que se refiere el artículo antes mencionado y hasta que, en su caso, el Tribunal Electoral confirme la declaración de pérdida de registro emitida por la Junta General Ejecutiva.
@@ -7660,6 +8048,8 @@ Procedimientos a desarrollar durante el periodo de prevención
 2. Durante el periodo de prevención, la Comisión podrá establecer las previsiones necesarias para salvaguardar los recursos del partido político y los intereses de orden público, así como los derechos de terceros.
 
 3. Durante el periodo de prevención, el partido solo podrá pagar gastos relacionados con nóminas e impuestos, por lo que deberá suspender cualquier pago a proveedores o prestadores de servicios, de igual forma serán nulos los contratos, compromisos, pedidos, adquisiciones u obligaciones celebradas, adquiridas o realizados durante el periodo de prevención.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 4. En caso de que un partido político local se encuentre en alguno de los supuestos por los que pierda el registro de acuerdo a la legislación local, el Organismo Público Local que corresponda, inmediatamente deberá dar aviso a la Secretaría Ejecutiva respecto al proceso de liquidación que realizará.
 
@@ -8001,21 +8391,33 @@ Obligaciones de los partidos políticos
 
 ###### Artículo 404.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Reglas de Publicidad de la información
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 1. La publicidad de la información relacionada con los procedimientos de fiscalización que establece el Reglamento se sujetará a las siguientes reglas:
 
 a) Serán publicados en el portal de internet del Instituto, una vez que el Consejo General apruebe el Dictamen Consolidado y la Resolución que ponga a su consideración la Comisión, los siguientes:
 
-I. (DEROGADO, D.O.F. 30 DE MAYO DE 2016)
+I. (DEROGADA, D.O.F. 30 DE MAYO DE 2016) (REPUBLICADA, D.O.F. 6 DE JULIO DE 2016)
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 6 DE JULIO DE 2016)</small>
 
 II. El estado consolidado de situación patrimonial, entendido como los resultados totales de los estados financieros.
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 6 DE JULIO DE 2016)</small>
+
 III. El listado de proveedores con los que hayan celebrado operaciones que superen los quinientos días de salario mínimo, el cual deberá incluir gastos por proveedor con nombre, y producto o servicio adquirido.
 
-IV. (DEROGADO, D.O.F. 30 DE MAYO DE 2016)
+IV. (DEROGADA, D.O.F. 30 DE MAYO DE 2016) (REPUBLICADA, D.O.F. 6 DE JULIO DE 2016)
+
+> <small>(REFORMADOA [N. DE E. REPUBLICADA], D.O.F. 6 DE JULIO DE 2016)</small>
 
 V. Los listados que incluyan monto, nombre y fecha de las aportaciones que reporten los partidos políticos provenientes de sus simpatizantes y militantes.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 6 DE JULIO DE 2016)</small>
 
 VI. Reporte final de ingresos y egresos a nivel candidatura de los periodos de precampaña, obtención de apoyo ciudadano y campaña respectivamente, así como el detalle de las operaciones registradas por el sujeto obligado y las identificadas por la autoridad, el cual será generado por la Unidad Técnica (sic) través del sistema en línea de contabilidad.
 
@@ -8025,7 +8427,11 @@ VI. Reporte final de ingresos y egresos a nivel candidatura de los periodos de p
 
 ###### Artículo 405.
 
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
+
 Información pública
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 6 DE JULIO DE 2016)</small>
 
 a) Sin perjuicio de lo dispuesto en el artículo anterior y sin que medie petición de parte, se establece que la siguiente información deberá hacerse del conocimiento público, independientemente de que la Comisión no hubiese emitido el Dictamen Consolidado o que el Consejo General no hubiese aprobado la Resolución correspondiente; a través de la página de Internet del Instituto:
 
@@ -8039,15 +8445,27 @@ IV. El listado y monto de las aportaciones de origen privado que reciban los suj
 
 V. Los informes que presenten los sujetos obligados, tal como hayan sido enviados a la Unidad Técnica a partir de su fecha de presentación.
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 6 DE JULIO DE 2016)</small>
+
 VI. La base de datos del resultado del monitoreo de espectaculares, de propaganda en vía pública, de diarios, revistas y otros medios impresos, así como el resultado de las visitas de verificación. Esta información se organizará por períodos de treinta días y sólo una vez vencido ese plazo, y transcurridos cinco días adicionales, se deberá publicar de forma electrónica en la página del Instituto.
 
-VII. Los gastos realizados por los sujetos obligados identificados por fecha de realización, indicando, fecha de contratación, proveedor, bien o servicio contratado, y monto de contratación.
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 6 DE JULIO DE 2016)</small>
+
+VII. Los gastos realizados por los sujetos obligados identificados por fecha de realización, indicando, fecha de contratación, proveedor, bien o servicio contratado, y monto de contratación
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 6 DE JULIO DE 2016)</small>
 
 VIII. El detalle de los avisos previos de contratación, así como, de los requerimientos de contratación de partidos, coaliciones y candidatos.
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 6 DE JULIO DE 2016)</small>
+
 IX. De forma semanal, la agenda de eventos políticos reportada por los sujetos obligados en los periodos de precampaña, obtención de apoyo ciudadano y campaña.
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 6 DE JULIO DE 2016)</small>
+
 X. Los gastos reportados por los sujetos obligados en la realización de eventos políticos por cada corte convencional.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 6 DE JULIO DE 2016)</small>
 
 XI. El listado de los procedimientos sancionadores que se encuentren en trámite, especificando cuando menos los datos consistentes en número de expediente, fecha de inicio del procedimiento, nombre del denunciante, nombre del denunciado, síntesis de los hechos denunciados, fecha de última actuación.
 
@@ -8124,3 +8542,19 @@ Segundo. Las notificaciones por vía electrónica, sólo podrán realizarse una 
 Tercero. En tanto no se publique el complemento a que hace referencia el artículo 46 numeral 1, segundo párrafo, del presente Reglamento, bastará que los comprobantes que se expidan a favor de los sujetos obligados cumplan con los requisitos establecidos en los artículos 29 y 29-A del Código Fiscal de la Federación.
 
 Cuarto. Para las campañas electorales que se desarrollen en 2016 y respecto a la obligación descrita en el numeral cuarto del Artículo 222 Bis, la Unidad Técnica podrá estimar los saldos a devolver y presentarlos al Consejo General, hasta 30 días después de aprobado el Dictamen de gastos de campaña.
+
+D.O.F. 6 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE FISCALIZACIÓN, APROBADO EL DIECINUEVE DE NOVIEMBRE DE DOS MIL CATORCE EN SESIÓN EXTRAORDINARIA DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL MEDIANTE EL ACUERDO INE/CG263/2014, MODIFICADO A SU VEZ MEDIANTE EL ACUERDO INE/CG350/2014".]
+
+Primero. Las disposiciones relativas al registro de operaciones correspondientes al periodo de precampaña, campaña y de actividades ordinarias en el Sistema de Contabilidad en Línea aplicarán a partir del 1 de enero de 2016.
+
+Segundo. Las notificaciones por vía electrónica, sólo podrán realizarse una vez que el Instituto haya implementado el sistema o modalidad mencionados en el artículo 9, numeral 1, inciso f).
+
+Tercero. En tanto no se publique el complemento a que hace referencia el artículo 46 numeral 1, segundo párrafo, del presente Reglamento, bastará que los comprobantes que se expidan a favor de los sujetos obligados cumplan que los requisitos establecidos en los artículos 29 y 29-A del Código Fiscal de la Federación.
+
+Cuarto. Para las campañas electorales que se desarrollen en 2016 y respecto a la obligación descrita en el numeral cuarto del Artículo 222 Bis, la Unidad Técnica podrá estimar los saldos a devolver y presentarlos al Consejo General, hasta 30 días después de aprobado el Dictamen de gastos de campaña.
+
+> <small>[N. DE E. SE TRANSCRIBE EL PUNTO TERCERO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+TERCERO. La modificación al Reglamento de Fiscalización entrará en vigor a partir del día siguiente de su aprobación por el Consejo General del Instituto Nacional Electoral.
