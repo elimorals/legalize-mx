@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2016-07-04"
+last_updated: "2016-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -499,11 +499,11 @@ BASES DE LA FAMILIA MORELENSE. La familia Morelense es una agrupación natural q
 
 DEL RESPETO ENTRE LOS INTEGRANTES DE LA FAMILIA. Los integrantes de la familia tienen derecho a que los demás miembros respeten su integridad física y psíquica, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contarán con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.
 
-(REFORMADO, P.O. 14 DE MAYO DE 2008) (F. DE E., P.O. 18 DE JUNIO DE 2008)
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 24.
 
-DE LA VIOLENCIA EN LA FAMILIA. Por Violencia Familiar se considera el acto de poder u omisión intencional dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica y emocional, sexual, patrimonial o económica a cualquier miembro de la familia dentro o fuera del domicilio familiar, con quien tenga parentesco consanguíneo, por afinidad o civil, por vínculo de matrimonio, concubinato y que tiene por efecto causar daño o sufrimiento.
+DE LA VIOLENCIA EN LA FAMILIA. Por Violencia Familiar se considera el uso de la fuerza física o moral, así como las omisiones graves que ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física, sexual, psíquica, emocional, patrimonial o económica, como actos de poder u omisión, intencional dirigidos a dominar, someter controlar o agredir, tanto en el ámbito público como en el privado independientemente de que pueda producir o no lesiones, siempre y cuando el agresor y agredido guarden un vínculo directo en cualquiera de las hipótesis contenidas en este Código para el parentesco por consanguinidad o tengan parentesco por afinidad, una relación de matrimonio o concubinato.
 
 ###### ARTÍCULO 25.
 
@@ -590,6 +590,14 @@ OBLIGACIÓN ALIMENTARIA DE LOS ASCENDIENTES.- Los padres están obligados a dar 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 Para lo cual el Juzgador, de oficio, hará uso de las facultades en materia de prueba y de la posibilidad de decretar diligencias probatorias, contenidas en los artículos 301 y 302 del Código Procesal Familiar del Estado de Morelos.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
+
+La pensión alimenticia derivada de una sentencia de reconocimiento de paternidad, debe ser retroactiva al momento del nacimiento del menor.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
+
+El juzgador, para determinar el monto de la pensión, valorara las causas que dieron origen al juicio de reconocimiento de paternidad y las posibilidades del deudor alimentario.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -6380,3 +6388,19 @@ P.O. 4 DE JULIO DE 2016.
 PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos que indica el artículo 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+P.O. 6 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS TREINTA Y CINCO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS Y SE REFORMA EL ARTÍCULO 24, DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, EN MATERIA DE VIOLENCIA FAMILIAR”.]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 6 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS CUARENTA Y DOS POR EL QUE SE ADICIONAN UN TERCER Y CUARTO PÁRRAFO, RECORRIÉNDOSE EL SUBSECUENTE DEL ARTÍCULO 38 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
