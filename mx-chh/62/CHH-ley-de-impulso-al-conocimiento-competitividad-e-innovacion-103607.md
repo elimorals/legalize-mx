@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-impulso-al-conocimiento-competitividad-e-innovacion-1036
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-15"
-last_updated: "2014-11-19"
+last_updated: "2016-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE IMPULSO AL CONOCIMIENTO, COMPETITIVIDAD E INNOVACIÓN TECNOLÓGICA PARA EL DESARROLLO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2016.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial, el sábado 15 de noviembre de 2014.
 
@@ -365,7 +365,9 @@ Integración del Consejo General. Se crea el Consejo General para Impulsar el Co
 
 I. Un Presidente, que será el Titular del Poder Ejecutivo del Estado.
 
-II. Un Vicepresidente, que será el Secretario de Economía y que podrá suplir al Presidente en su ausencia, a propuesta del Titular del Poder Ejecutivo del Estado.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2016)</small>
+
+II. Un Vicepresidente, que será nombrado por el Titular del Poder Ejecutivo del Estado y que podrá suplirlo en su ausencia.
 
 III. Por la Administración Pública Estatal, los titulares de las siguientes Secretarías y Directores Generales o equivalentes de organismos públicos descentralizados:
 
@@ -373,17 +375,41 @@ a. La Secretaría de Hacienda.
 
 b. La Secretaría de Educación, Cultura y Deporte.
 
-c. La Secretaría del Trabajo y Previsión Social.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
 
-d. La Secretaría de Salud.
+c) La Secretaría de Economía.
 
-e. La Secretaría de Desarrollo Rural.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
 
-f. La Secretaría de Desarrollo Urbano y Ecología.
+d) La Secretaría del Trabajo y Previsión Social.
 
-g. El Consejo de Desarrollo Económico de Chihuahua.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
 
-IV. El Director General del Instituto de Innovación y Competitividad, quien tendrá el carácter de Secretario Ejecutivo.
+e) La Secretaría de Salud.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+
+f) La Secretaría de Desarrollo Rural.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+
+g) La Secretaría de Desarrollo Urbano y Ecología.
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2016)</small>
+
+IV. Por la Iniciativa Privada.
+
+a) El Presidente del Consejo para el Desarrollo Económico de Chihuahua.
+
+b) El Vicepresidente del Consejo para el Desarrollo Económico de Chihuahua.
+
+c) El Presidente del Consejo Estatal Agropecuario de Chihuahua.
+
+d) Tres empresarios representativos de las regiones del Estado de Chihuahua, que serán invitados por el Presidente del Consejo de Desarrollo Económico de Chihuahua.
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2016)</small>
+
+V. El Director General del Instituto de Innovación y Competitividad, quien tendrá el carácter de Secretario Ejecutivo.
 
 Los miembros del Consejo General desempeñarán sus funciones de manera honorífica, por lo que no recibirán remuneración alguna por su participación en el mismo.
 
@@ -631,17 +657,27 @@ VII. Las demás que establezca esta Ley, otros ordenamientos legales y el Reglam
 
 Integración de la Junta Directiva. La Junta Directiva estará integrada por:
 
-I. Un Presidente, que será el Titular de la Secretaría de Economía.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2016)</small>
 
-II. Los titulares de las Secretarías de Hacienda; de Desarrollo Urbano y Ecología; de Desarrollo Rural; de Educación, Cultura y Deporte, y de Salud.
+I. Un Presidente, que será el Titular de la Secretaría de Economía. El Titular del Ejecutivo Estatal será el Presidente Honorario de la Junta Directiva y conducirá los trabajos siempre que asista a sus reuniones.
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2016)</small>
+
+II. Los Titulares de las Secretarías de Hacienda; de Desarrollo Rural y de Educación, Cultura y Deporte.
 
 III. Dos titulares de las Instituciones de Educación Superior más importantes en el Estado de Chihuahua, que se destaquen por su enfoque y priorización a la investigación, desarrollo tecnológico e innovación, que serán seleccionados e invitados por el Consejo General.
 
-IV. El Titular de uno de los Centros Públicos de Investigación más importantes en el Estado de Chihuahua, mismo que será invitado por el Consejo General.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+IV. Los Titulares de dos de los Centros Públicos de Investigación más importantes en el Estado de Chihuahua, mismos que serán invitados por el Consejo General.
 
-V. Un empresario representante del sector productivo, designado de entre los seis a que se refiere el último párrafo del presente artículo.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2016)</small>
+
+V. El Presidente del Consejo para el Desarrollo Económico del Estado de Chihuahua.
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2016)</small>
+
+VI. El Vicepresidente del Consejo para el Desarrollo Económico del Estado de Chihuahua.
 
 Además contará con un Secretario, que será el Director General, con voz pero sin voto.
 
@@ -649,9 +685,7 @@ En caso de ausencia, los titulares podrán nombrar a un suplente con nivel no in
 
 El Reglamento Interior del Instituto establecerá el mecanismo de definición de los integrantes de la Junta Directiva que comprenden las fracciones III y IV anteriores, la formalidad y periodicidad de las sesiones de la Junta Directiva, que no podrá ser menor a seis veces al año, los mecanismos para la toma y validez de sus resoluciones, así como las facultades de sus integrantes en el funcionamiento y operación de la misma.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
-
-Así mismo, contará con la presencia permanente de seis empresarios representantes del sector productivo que tengan cobertura y representatividad estatal, nombrados en los términos del reglamento interior, uno de los seis formará parte de la Junta Directiva, con derecho a voz y voto, los cinco restantes únicamente tendrán derecho a voz.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 22.
 
@@ -1292,3 +1326,11 @@ P.O. 19 DE NOVIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 1034/2015 I P.O., MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 8, FRACCIONES II, III, EN SUS INCISOS C), D), E), F) Y G), Y IV; Y 21, FRACCIONES, I, II, IV Y V; SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 8, ASÍ COMO EL ARTÍCULO 21 CON LA FRACCIÓN VI, Y SE DEROGA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 21, DE LA LEY DE IMPULSO AL CONOCIMIENTO, COMPETITIVIDAD E INNOVACIÓN TECNOLÓGICA DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto Entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
