@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2016-06-15"
+last_updated: "2016-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 15 DE JUNIO DE 2016 NO APLICA AL ARTICULADO DEL DECRETO 454 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2016.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -231,7 +229,7 @@ Dicho en términos muy generales, un Código Penal es el catálogo de las conduc
 
 Se estima necesario revisar esa sistemática. Si el ser humano es el eje de la vida social, el depositario de los más altos valores políticos y morales, la razón de ser de la sociedad y el Estado, resulta natural que el catálogo de los delitos se inicie con aquéllos que afectan a la persona humana, y ante todo con los que vulneran el bien jurídico de más alto rango: la vida. Es por ello que estas conductas aparecen en la primera porción del Libro Segundo. Posteriormente figuran, en sendos agrupamientos típicos, los delitos contra el orden familiar, contra la sociedad y contra el Estado. De este modo se sigue una ordenación lógica consecuente con el compromiso humanista de la sociedad mexicana, al que sirve, en su propio espacio, el ordenamiento penal.
 
-También se ha revisado la ordenación de las "familias" o agrupamientos de delitos dentro de cada título o capítulo, con el propósito de colocar en primer término los que lesionan bienes de mayor rango o causan daños o peligros de mayor gravedad, y ubicar en seguida aquellos otros delitos de la misma especie que lesionan bienes menos relevantes o lo hacen con menor intensidad.
+También se ha revisado la ordenación de las "familias" o agrupamientos de delitos dentro de cada título y capítulo, con el propósito de colocar en primer término los que lesionan bienes de mayor rango o causan daños o peligros de mayor gravedad, y ubicar en seguida aquellos otros delitos de la misma especie que lesionan bienes menos relevantes o lo hacen con menor intensidad.
 
 Se obedece a la moderna tendencia de ampliar, en términos razonables, el número de los delitos perseguibles por instancia del ofendido o de la persona legitimada para formular querella. Con ello se procura concentrar la actuación oficiosa del Estado en las conductas ilícitas más graves, donde el interés social persecutorio prevalece sobre cualquier otra consideración particular. La persecución por querella permite evitar la vía jurisdiccional cuando es conveniente y razonable hacerlo, y promover, al través de la composición legítima entre la víctima y el victimario, una solución juiciosa al litigio penal, tomando en cuenta, sobre todo, la posibilidad de satisfacción de los intereses del ofendido.
 
@@ -1657,9 +1655,7 @@ De las lesiones que a una persona cause un animal, será responsable el que con 
 
 ###### ARTICULO 122.
 
-Se sancionará con hasta una mitad más de la sanción correspondiente a las lesiones inferidas, a quien las cause en los casos previstos en el artículo 107.
-
-Además, se podrá privar al agente de los derechos que tenga con respecto al ofendido, inclusive los de carácter sucesorio, cuando el delito recaiga en persona sobre la que ejerza patria potestad, tutela o custodia.
+(DEROGADO, P.O. 6 DE JULIO DE 2016)
 
 ###### ARTICULO 123.
 
@@ -2579,31 +2575,21 @@ Las sanciones previstas en este Capítulo se reducirán en una mitad cuando el a
 
 ### CAPITULO I BIS. VIOLENCIA FAMILIAR
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2008) (F. DE E., P.O. 18 DE JUNIO DE 2008)
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
 
-###### ARTICULO 202 Bis.
+ARTICULO 202 BIS.- Comete el delito de violencia familiar el miembro de la familia que realice un acto de poder u omisión intencional dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, emocional, sexual, patrimonial o económica, a cualquier miembro de la familia dentro o fuera del domicilio familiar, con quien tenga parentesco consanguíneo, por afinidad, por vínculo de matrimonio o concubinato y que tiene por efecto causar daño o sufrimiento.
 
-Comete el delito de violencia familiar el miembro de la familia que realice un acto de poder u omisión intencional dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica y emocional, sexual, patrimonial o económica a cualquier miembro de la familia dentro o fuera del domicilio familiar, con quien tenga parentesco consanguíneo, por afinidad o civil, por vínculo de matrimonio, concubinato y que tiene por efecto causar daño o sufrimiento.
+Al que cometa el delito de violencia familiar se le impondrá de dos a seis años de prisión, doscientos a quinientos días multa, perdida de los derechos que tenga con respecto al ofendido, inclusive los de carácter sucesorio, patria potestad o tutela, así como la obligación de recibir tratamiento psicológico específico para su rehabilitación.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2008)</small>
-
-Al que cometa el delito de violencia familiar se le impondrán de dos a cinco años de prisión, doscientos a quinientos días-multa, así como la obligación de recibir tratamiento psicológico específico para su rehabilitación.
+Este delito se perseguirá de oficio.
 
 > <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2004)</small>
 
-El delito se perseguirá por querella de la parte ofendida, salvo que la víctima sea menor de edad o incapaz, en cuyo caso se perseguirá de oficio.
+ARTICULO 202 TER.- Se equipara al delito de violencia familiar y se le impondrán las mismas sanciones a que se refiere el artículo precedente, a quien realice los actos señalados en el artículo anterior, en contra de una persona que esté bajo su guardia, protección, cuidado o educación o instrucción con motivo del desempeño de su trabajo, siempre y cuando habiten la misma casa.
 
 > <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2004)</small>
 
-###### ARTICULO 202 Ter.
-
-Se equipara al delito de violencia familiar y se le impondrán las mismas sanciones a que se refiere el artículo precedente, a quien realice los actos señalados en el artículo anterior, en contra de una persona que esté bajo su guardia, protección, cuidado o educación o instrucción con motivo del desempeño de su trabajo, siempre y cuando habiten la misma casa.
-
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2004)</small>
-
-###### ARTICULO 202 Quater.
-
-En los casos de violencia familiar el agente del Ministerio Público acordará las medidas preventivas necesarias para salvaguardar la integridad física y psíquica, o ambas, de la víctima, y exhortará al probable responsable para que se abstenga de cualquier conducta que sea ofensiva para la víctima. En todos los casos el agente del Ministerio Público solicitará al juez dicte las medidas precautorias que considere pertinentes.
+ARTICULO 202 QUATER.- En los casos de violencia familiar el agente del Ministerio Público acordará las medidas preventivas necesarias para salvaguardar la integridad física y psíquica, o ambas, de la víctima, y exhortará al probable responsable para que se abstenga de cualquier conducta que sea ofensiva para la víctima. En todos los casos el agente del Ministerio Público solicitará al juez dicte las medidas precautorias que considere pertinentes.
 
 ###### ARTICULO 196.
 
@@ -3227,7 +3213,9 @@ III. Provoque intencionalmente o por negligencia un incendio forestal.
 
 IV. Realizar cualquier tipo de aprovechamiento de recursos naturales dentro de las áreas naturales protegidas de interés estatal o municipal, sin la autorización correspondiente.
 
-V. Autorice, descargue, deposite, infiltre o derrame aguas residuales, sin previo tratamiento de carácter industrial, comercial de servicios y agropecuarios, desechos o contaminantes en las aguas o en los subsuelos de jurisdicción estatal o municipal, que causen daños a la salud pública, la flora, la fauna o los ecosistemas.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2016)</small>
+
+V. Autorice, ordene, descargue, deposite, infiltre o derrame aguas residuales, sin previo tratamiento de carácter industrial, comercial de servicios y agropecuarios, desechos o contaminantes en las aguas, barrancas o en los subsuelos de jurisdicción estatal o municipal, que causen daños a la salud pública, la flora, la fauna o los ecosistemas.
 
 VI. Descargar, depositar o infiltrar contaminantes en los suelos o subsuelos, que provoquen o puedan provocar daños graves a la salud pública, la flora, la fauna o los ecosistemas.
 
@@ -3241,7 +3229,9 @@ X. Rebase el doble de los parámetros y límites permisibles en las normas ofici
 
 XI. Fabricar, almacenar, comercializar, transportar, importar o disponer sustancias o materiales contaminantes sin la autorización correspondiente que provoquen o puedan provocar daños graves a la salud pública, la flora, la fauna o los ecosistemas.
 
-A quién por acción u omisión culposa cometa alguna de las conductas a que se refiere el presente artículo, se le impondrá pena de 3 días a 3 años de prisión, y multa por el equivalente de 50 a 5000 días de salario mínimo general vigente en el Estado de Morelos. Se impondrá pena de 3 a 8 años de prisión, y multa por el equivalente de 500 a 20,000 días de salario mínimo general vigente en el Estado de Morelos, al que los cometa en forma dolosa.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+
+A quién por acción u omisión culposa cometa alguna de las conductas a que se refiere el presente artículo, se le impondrá pena de 3 días a 3 años de prisión, y multa por el equivalente de 50 a 5000 del valor diario de la Unidad de Medida y Actualización. Se impondrá pena de 3 a 8 años de prisión, y multa por el equivalente de 500 a 20,000 del valor diario de la Unidad de Medida y Actualización, al que los cometa en forma dolosa.
 
 ## TITULO DECIMO SEPTIMO. DELITOS COMETIDOS EN EL EJERCICIO DE UNA ACTIVIDAD PROFESIONAL, ARTISTICA O TECNICA
 
@@ -4794,3 +4784,19 @@ P.O. 1 DE JUNIO DE 2016.
 PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 6 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS TREINTA Y CINCO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS Y SE REFORMA EL ARTÍCULO 24 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, EN MATERIA DE VIOLENCIA FAMILIAR”.]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 6 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS CUARENTA POR EL QUE SE REFORMA LA FRACCIÓN V Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 242 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
