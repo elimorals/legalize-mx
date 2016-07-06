@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-rural-sustentable-del-estado-de-morelos-67318
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-04"
-last_updated: "2014-12-10"
+last_updated: "2016-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67318&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de marzo de 2009.
 
@@ -83,9 +83,11 @@ XIII. Promover la coordinación entre los tres ámbitos de gobierno y la concert
 
 XIV. Diseñar e implementar los apoyos directos, estímulos fiscales, créditos, fianzas, seguros, fondos, fideicomisos o cualquier otro instrumento económico que permitan el desarrollo de la infraestructura a lo largo de la cadena productiva, así como el fortalecimiento de esquemas modernos de comercialización y mercado, que permitan la mejora del productor.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+
 ###### Artículo 3.
 
-Para los beneficios de esta Ley en el ámbito estatal, son sujetos, los ejidos, comunidades indígenas y las organizaciones o asociaciones de carácter nacional, estatal, regional, municipal y localidades de pobladores del medio rural que se constituyan o estén constituidas de conformidad con las leyes vigentes y, en general, toda persona física o moral que, de manera individual o colectiva, realice preponderantemente actividades en el medio rural.
+Para los beneficios de esta Ley en el ámbito estatal, son sujetos, los pequeños productores, incluyendo a los de autoconsumo, los ejidos, comunidades indígenas y las organizaciones o asociaciones de carácter nacional, estatal, regional, municipal y localidades de pobladores del medio rural que se constituyan o estén constituidas de conformidad con las leyes vigentes y, en general, toda persona física o moral que, de manera individual o colectiva, realice preponderantemente actividades en el medio rural.
 
 ###### Artículo 4.
 
@@ -1546,3 +1548,11 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para lo
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 6 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS TREINTA Y CUATRO POR EL QUE SE REFORMA EL ARTÍCULO 3 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE MORELOS, CON LA FINALIDAD DE INCLUIR COMO BENEFICIARIOS DE ESTA LEY A LOS PEQUEÑOS PRODUCTORES, ASÍ COMO TAMBIÉN A LOS DE AUTOCONSUMO”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XXVII, incisos a), b) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
