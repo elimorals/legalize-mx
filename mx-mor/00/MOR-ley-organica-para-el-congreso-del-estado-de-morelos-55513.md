@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2016-06-08"
+last_updated: "2016-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY ORGANICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE SEPTIEMBRE DE 2016 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -817,7 +819,7 @@ Las comisiones legislativas contarán con un Secretario Técnico y el personal d
 
 Dentro de los treinta días siguientes a la conclusión de cada período ordinario de sesiones, los Presidentes de las comisiones legislativas, presentarán por escrito al Presidente de la Mesa Directiva, el informe de sus actividades correspondiente al período inmediato anterior en el que se incluya una relación de los asuntos dictaminados y pendientes.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 59.
 
@@ -827,7 +829,7 @@ Las Comisiones Ordinarias serán las siguientes:
 
 2. Hacienda, Presupuesto y Cuenta Pública.
 
-3. Gobernación y Gran Jurado.
+3. Gobernación, Gran Jurado y Ética Legislativa.
 
 4. Educación y Cultura.
 
@@ -851,17 +853,13 @@ Las Comisiones Ordinarias serán las siguientes:
 
 14. Desarrollo Agropecuario.
 
-15. Medio Ambiente:
+15. Medio Ambiente.
 
 16. Recursos Naturales y Agua.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
+17. Pueblos Indígenas.
 
-17. Pueblos Indígenas;
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2016)</small>
-
-18. Igualdad de Género.
+18. Equidad de Género.
 
 19. De la Juventud.
 
@@ -881,7 +879,17 @@ Las Comisiones Ordinarias serán las siguientes:
 
 27. Deporte.
 
-28. Investigación y Relaciones Interparlamentarias.
+28. Investigación y Relaciones Interparlamentarias
+
+29. Transparencia, Protección de Datos personales y Anticorrupción.
+
+30. Familia.
+
+31. Atención a la Diversidad Sexual.
+
+32. Conflictos Agrarios.
+
+33. Atención a Víctimas.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -947,9 +955,11 @@ X. Dictaminar los asuntos que se refieran a la desincorporación de bienes de do
 
 XII (SIC).- Todas aquellas que la Constitución Política del Estado, la presente Ley y las leyes relativas a la materia hacendaría, le confieran.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+
 ###### Artículo 62.
 
-La Comisión de Gobernación y Gran Jurado conocerá y dictaminará de los asuntos siguientes:
+La Comisión de Gobernación, Gran Jurado Y Ética Legislativa conocerá y dictaminará de los asuntos siguientes:
 
 I. Los que se relacionen con la división territorial del estado y de los municipios;
 
@@ -959,15 +969,25 @@ III. Los referentes a la convocatoria para elecciones extraordinarias;
 
 IV. Los asuntos que impliquen conflictos políticos, que sean competencia del Congreso del Estado;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2009)</small>
-
 V. Los asuntos relacionados con la responsabilidad de los servidores públicos que se mencionan en el Título Séptimo de la Constitución Política del Estado y la Ley Estatal de Responsabilidades de los Servidores Públicos, incluso los de declaración de procedencia de responsabilidad penal;
 
 VI. Los relacionados con la desaparición de un ayuntamiento, la revocación del mandato de alguno de sus miembros, la suspensión de la totalidad de sus integrantes; o la suspensión de alguno de ellos;
 
-VII. Los relativos a la creación, desaparición o fusión de municipios; y
+VII. Los relativos a la creación, desaparición o fusión de municipios;
 
-VIII. Las demás que el pleno del Congreso del Estado le confiera.
+VIII. Promoverá le (sic) Ética Legislativa;
+
+IX. prevenir actos contrarios a los señalados en el Código de ética del Congreso del estado;
+
+X. Absolver las consultas que se le interpongan y resolver en primera instancia las denuncias que se formulen de acuerdo con el Código de ética del Congreso del estado.
+
+XI. Organizar cursos de ética y valores, para los diputados y el personal del Congreso del Estado;
+
+XII. Presentar y dictaminar iniciativas relativas a la ética legislativa;
+
+XIII. Los demás que señale el código de Ética del Congreso del Estado de Morelos; y
+
+XIV. Las demás que el pleno del Congreso del Estado le confiera.
 
 ###### Artículo 63.
 
@@ -1089,13 +1109,13 @@ V. Conocer y opinar sobre la política cooperativa, así como promover la educac
 
 VI. En general de todos los asuntos que en cumplimiento de sus funciones y atribuciones le sean turnados, para su atención y todos aquellos que le encomiende la normatividad de la materia.
 
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 70 Bis.
 
 La Comisión de Desarrollo Social será competente para conocer y dictaminar, en su caso, los siguientes asuntos:
 
-I. Analizar, revisar y dar seguimiento a los temas enfocados en el desarrollo social tales como educación, salud, empleo, vivienda, alimentación, desigualdad y pobreza, adultos mayores y familia.
+I. Analizar, revisar y dar seguimiento a los temas enfocados en el desarrollo social tales como educación, salud, empleo, vivienda, alimentación, desigualdad y pobreza y adultos mayores.
 
 II. Impulsar la transparencia en la asignación y aplicación de los recursos destinados a los diversos programas del sector social, con el fin de cuidar que lleguen a sus destinatarios con suficiencia, oportunidad y sin condicionamientos políticos.
 
@@ -1434,6 +1454,104 @@ d) Representar al Congreso ante los organismos gubernamentales, del sector produ
 e) Coordinarse con otra u otras comisiones para tratar temas comunes o relacionados con sus atribuciones; y
 
 f) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
+
+###### Artículo 83 Quáter.
+
+A la Comisión (sic) Transparencia, Protección de Datos Personales y Anticorrupción, le corresponde conocer y dictaminar, en su caso, los siguientes asuntos:
+
+I. Conocer y dictaminar las iniciativas de reforma relacionadas con la transparencia y acceso a la información pública;
+
+II. Conocer, analizar y dictaminar lo referente a las iniciativas sobre combate a la corrupción;
+
+III. Conocer, analizar y dictaminar lo referente a las iniciativas sobre la protección de datos personales;
+
+IV. Organizar foros de consulta a efecto de recibir y realizar propuestas que tiendan a mejorar la aplicación o en su caso adecuación de la legislación en materia de transparencia, protección de datos personales y combate a la corrupción;
+
+V. Establecer las relaciones de trabajo con otra u otras comisiones para tratar los temas de transparencia, protección de datos personales y combate a la corrupción;
+
+VI. Representar al Congreso del Estado ante los organismos gubernamentales del sector público, privado y de la sociedad civil cuando se aborden temas de Transparencia, Protección de Datos Personales y combate a la corrupción;
+
+VII. Todos aquellos asuntos que le sean turnados y que no sean competencia de otra comisión.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
+
+Artículo 83 Quintus.- Corresponde a la Comisión de la Familia:
+
+I. Conocer y dictaminar las iniciativas que en materia de Derecho Familiar se presenten;
+
+II. Establecer mecanismos de participación de todos los integrantes de la sociedad para promover el respeto y reconocimiento de la familia;
+
+III. Promover y organizar foros de consulta, para conocer la opinión de la sociedad, de las asociaciones civiles y de los especialistas en la materia, a fin de plantear reformas legislativas necesarias para el beneficio de las familias de la entidad;
+
+IV. Implementar mecanismos de comunicación y coordinación con las instancias gubernamentales en la materia, para coadyuvar con el desarrollo e implementación de políticas en favor de la familia;
+
+V. Promover estudios y diagnósticos de investigación relacionados con la familia, como instrumentos de consulta y apoyo en la creación y diseño de las políticas públicas en la materia;
+
+VI. Dar impulso a políticas públicas que incidan en forma eficiente y eficaz en la cultura de convivencia y respeto a la familia y su integración, así como de sus integrantes;
+
+VII. Coadyuvar con el Sistema Estatal para el Desarrollo Integral de la Familia, para el fortalecimiento y atención de los problemas sociales que competen a dicho Sistema;
+
+VIII. Conocer y opinar sobre los asuntos relacionados con el interés superior de la niñez;
+
+IX. Fomentar los valores familiares y su fortalecimiento, y;
+
+X. Todos aquellos asuntos en la materia que se (sic) sean turnados.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
+
+Artículo 83 Sextus.- Corresponde a la Comisión de Atención a la Diversidad Sexual:
+
+I. Conocer y dictaminar de las iniciativas de reforma que versen sobre la comunidad LGBTTTI;
+
+II. Organizar actos y eventos que propicien las actividades de tolerancia y respeto a la comunidad LGBTTTI;
+
+III. Dar seguimiento a las recomendaciones emitidas por las Comisiones de Derechos Humanos tanto nacionales (sic) estatales en materia de violaciones a los derechos humanos de los integrantes de la comunidad LGBTTTI.
+
+IV. Divulgar las propuestas, ideas y debates de los actos y eventos de la Comunidad LGBTTTI;
+
+V. Conocer y emitir recomendaciones sobre los diversos programas sobre respeto de la Comunidad LGBTTTI;
+
+VI. Implementar e impulsar foros que involucren a diversas instituciones federales, estatales y municipales en materia de respeto sobre derechos de la Comunidad LGBTTTI, y
+
+VII. Los demás asuntos que le sean turnados y que no sean competencia de otra comisión.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
+
+Artículo 83 Septimus.- La Comisión de Conflictos Agrarios será competente para conocer y dictaminar, en su caso, los siguientes asuntos:
+
+I. Conocerá de todos los asuntos que se relacionan con la prevención, la solución de conflictos y organización de la tenencia de la tierra en la entidad;
+
+II. Analizará, revisará y dará seguimiento a lo relacionado con los conflictos en terrenos comunales y ejidales para propiciar la paz social;
+
+III. Coadyuvará con las Entidades, Dependencias, Instituciones y Municipios que estén relacionados en conflictos agrarios;
+
+IV. Solicitar la comparecencia ante la comisión o el Pleno, de las autoridades ejidales y comunales en el Estado, cuando exista un conflicto;
+
+V. Coadyuvar como enlace entre los poderes Ejecutivo, Legislativo y Judicial y las Autoridades Agrarias para lograr acuerdos y proponer medidas de solución ante los conflictos agrarios, así como, propiciar la certeza jurídica de la tenencia de la tierra;
+
+VI. Vigilara el respeto a los derechos humanos de los núcleos agrarios, y;
+
+VII. En general de todos los asuntos que en cumplimiento de sus funciones y atribuciones le sean turnados, para su atención y todos aquellos que le encomiende la normatividad de la materia.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
+
+Artículo 83 Octavus.- Corresponde a la Comisión de Atención a Víctimas, el conocimiento y dictamen de los asuntos siguientes:
+
+I. Conocer y dictaminar sobre las iniciativas concernientes a la legislación en materia de víctimas del delito;
+
+II. Conocer y opinar sobre los asuntos relacionados con la violación de los derechos y garantías de las víctimas;
+
+III. Los relativos a la creación de instituciones y organizaciones de apoyo a las víctimas en el estado;
+
+IV. Ser el enlace legislativo con la Comisión Ejecutiva de Atención a Víctimas del delito y de Violaciones a los Derechos Humanos para la Atención a las Víctimas;
+
+V. Otorgar seguimiento a los acuerdos y resoluciones adoptadas por la Comisión Ejecutiva de Atención a Víctimas del Delito y de Violaciones a los Derechos Humanos;
+
+VI. Atención, canalización y seguimiento de las víctimas a las instituciones correspondientes de atención a víctimas; y,
+
+VII. Todos aquellos asuntos que le sean turnados y no sean materia de otra Comisión.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -2508,6 +2626,14 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 P.O. 8 DE JUNIO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS TREINTA Y TRES POR EL QUE SE REFORMAN LOS ARTÍCULOS 59 NUMERAL 18, 62 Y 75 FRACCIONES II, III Y VI DE LA LEY ORGANICA PARA EL CONGRESO DEL ESTADO DE MORELOS".]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos para los efectos a que se refiere la fracción XVII, inciso a, del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente decreto entrará en vigor el día de su aprobación por el Pleno de este Congreso.
+
+P.O. 6 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SETECIENTOS TREINTA Y SEIS POR EL QUE SE REFORMAN LOS ARTÍCULOS 59, 62 Y 70 BIS Y SE ADICIONAN LOS ARTÍCULOS 83 QUÁTER, 83 QUINTUS, 83 SEXTUS, 83 SEPTIMUS Y 83 OCTAVUS A LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS".]
 
 PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos para los efectos a que se refiere la fracción XVII, inciso a, del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
 
