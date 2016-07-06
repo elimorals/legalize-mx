@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2015-08-19"
+last_updated: "2016-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -779,13 +779,37 @@ La Secretaría de Salud de Morelos coadyuvará con las autoridades educativas co
 
 ### CAPÍTULO IV. USUARIOS DE LOS SERVICIOS DE SALUD Y PARTICIPACIÓN DE LA COMUNIDAD
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+
 ###### Artículo 55.
 
-Para los efectos de esta Ley, se considera usuario de servicios de salud a toda persona que requiera y obtenga los que presten los sectores público, social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en esta Ley y demás disposiciones aplicables.
+Para los efectos de esta Ley, se considera usuario de servicios de salud a toda persona que requiera y obtenga servicios de atención médica que presten los sectores público, social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en esta Ley y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 56.
 
-Los usuarios tendrán derecho a obtener servicios de salud en forma oportuna y de calidad garantizada, y a recibir atención profesional y éticamente responsable, así como trato respetuoso y digno por parte de los profesionales, técnicos y auxiliares.
+Los usuarios de los servicios de salud tendrán derecho a:
+
+1.- Una atención en forma oportuna y de calidad;
+
+2.- Una atención profesional y éticamente responsable, así como trato respetuoso y digno por parte de los profesionales, técnicos y auxiliares de la salud;
+
+3.- A exigir la reserva de la información relacionada con el acto médico y su historia clínica, con las excepciones que la ley establezca;
+
+4.- A no ser sometida, sin su consentimiento, a exploración, tratamiento, pruebas y/o análisis con fines docentes;
+
+5.- A no ser objeto de investigación científica para la aplicación de medicamentos y/o tratamientos, sin que medie previamente la firma del Consentimiento Informado por el paciente competente o el de la persona llamada legalmente a darlo en caso de estar impedida;
+
+6.- A no ser discriminado en razón de cualquier enfermedad o padecimiento que le afectare;
+
+7.- A que se le brinde información veraz, oportuna, completa y en su lengua, sobre las características del servicio, las condiciones económicas de la prestación y demás términos y condiciones del servicio;
+
+8.- A que se le dé en términos comprensibles y en su lengua, información completa y continua sobre su padecimiento, incluyendo el diagnóstico, pronóstico y alternativas de tratamiento, así como sobre los riesgos, contraindicaciones, precauciones y advertencias de los medicamentos que se le prescriban y administren;
+
+9.- A que se le comunique todo lo necesario para que pueda dar su consentimiento informado, previo a la aplicación de cualquier procedimiento o tratamiento, así como negarse a éste; y
+
+10.-A que se le entregue un Resumen Clínico al finalizar su estancia en el establecimiento de salud y, si lo solicita, copia (sic) su Expediente Clínico.
 
 ###### Artículo 57.
 
@@ -4426,3 +4450,11 @@ SEGUNDO.- Remítase el presente Decreto al titular del Poder Ejecutivo para los 
 TERCERO.- Se deberán realizar las modificaciones reglamentarias a que haya lugar en un plazo no mayor a 90 días naturales contados a partir de la vigencia del presente Decreto.
 
 CUARTO.- La Secretaría de Salud y los Servicios de Salud de Morelos deberán instrumentar las acciones en materia de planeación y capacitación que se requieran para cumplir con el objeto del presente Decreto.
+
+P.O. 6 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SETECIENTOS TREINTA Y SIETE POR EL QUE SE REFORMAN LOS ARTÍCULOS 55 Y 56 DE LA LEY DE SALUD DEL ESTADO DE MORELOS".]
+
+PRIMERA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70 , fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
