@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2016-07-04"
+last_updated: "2016-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2016.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -49,6 +49,10 @@ DISPOSICIONES PRELIMINARES.
 ###### Artículo 1.
 
 El Estado de Morelos, es Libre, Soberano e Independiente. Con los límites geográficos legalmente reconocidos, es parte integrante de los Estados Unidos Mexicanos, y en consecuencia, adopta para su régimen interior la forma de Gobierno republicano, representativo, democrático, laico y popular; tendrá como base de su organización política y administrativa, el Municipio Libre, siendo su Capital la Ciudad de Cuernavaca.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
+
+Todo Poder Público dimana del pueblo y se instituye para su beneficio.
 
 > <small>(ADICIONADO, P.O. 25 DE MAYO DE 2016)</small>
 
@@ -268,11 +272,11 @@ III.- Residir habitualmente en el territorio del Estado.
 
 Son derechos del ciudadano morelense:
 
-I.- Votar y participar activamente en las elecciones populares y en los procesos de plebiscito y referéndum a los que se convoque, en los términos que señale la Ley;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
+I.- Votar, ser votado y participar activamente en los procesos electorales y de participación ciudadana que correspondan, previstos en esta Constitución y la normativa aplicable.
 
-Los ciudadanos morelenses radicados en el extranjero solo podrán participar en las elecciones para Gobernador del Estado, en los términos que señala la ley.
+Los ciudadanos morelenses radicados en el extranjero solo podrán participar en las elecciones para Gobernador del Estado, en los términos que señala la ley;
 
 > <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)</small>
 
@@ -406,11 +410,21 @@ Los habitantes de Morelos que ingresen a los Institutos de Salud Pública del Es
 
 DE LA PARTICIPACION CIUDADANA.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 19
 
-Bis.- Esta Constitución reconoce como medios de participación ciudadana al Plebiscito, al Referéndum, a la Iniciativa Popular, la revocación de mandatoy (sic) la rendición de cuentas.
+bis.- Esta Constitución reconoce como medios de participación ciudadana al Plebiscito, al Referéndum, a la Iniciativa Popular y la rendición de cuentas.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
+
+Asimismo, la participación ciudadana tendrá lugar en la planeación estatal y municipal, en los términos previstos por esta Constitución.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
+
+Los mecanismos de participación ciudadana pueden tener origen popular o provenir de autoridad pública, según sean promovidos o presentados directamente mediante solicitud avalada por firmas ciudadanas o por una autoridad, en los términos de la normativa aplicable.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
 
 A.- DE LOS MEDIOS DE PARTICIPACIÓN CIUDADANA
 
@@ -486,57 +500,11 @@ La iniciativa popular corresponde a cualquier ciudadano del Estado.
 
 No podrán ser objeto de Iniciativa Popular las materias señaladas por esta Constitución para el caso de improcedencia del Referéndum.
 
-IV.- La Revocación de Mandato, constituye un procedimiento mediante el cual la comunidad electoral, o una parte significativa de ella, puede promover la destitución de los representantes o mandatarios electos, antes de que concluyan su periodo, mediante comicios especiales donde se les confirme o destituya, sin necesidad de agotar la instancia de juicio político, en los casos de fuero constitucional. Las causas por las que podrá promoverse revocación de mandato son:
-
-a) Incumplimiento de compromisos contraídos en campaña, por lo tanto los candidatos a puestos de elección popular deberán tomar sus propuestas de campaña como programas de gobierno o en su caso, planes de desarrollo, de llegar a resultar electos. Para efectos de lo anterior, las propuestas referidas deberán ser depositadas y constatadas ante el Instituto Estatal Electoral disponiéndose su cumplimiento como obligatorio.
-
-b) Pérdida de legitimidad, a través del incumplimiento constante en las obligaciones derivadas del ejercicio del cargo, que se consagren en la legislación respectiva.
-
-c) Actos de corrupción política como el uso ilegítimo de información privilegiada, el tráfico de influencias, el caciquismo, el soborno, extorsiones, malversación, prevaricación, compadrazgo, cooptación, nepotismo e impunidad.
-
-d) Violación de derechos humanos conforme a lo establecido en la legislación vigente aplicable.
-
-e) La connivencia, entendida esta como el asentamiento o tolerancia para con las faltas a la normatividad e incluso delitos que cometan sus subordinados.
-
-El número de ciudadanos que deberá suscribir la solicitud de Revocación de Mandato deberá ser el veinte por ciento de los ciudadanos inscritos en la lista nominal de electores del Estado o de la que corresponda al municipio o distrito electoral, según sea el caso.
-
-Procederá la revocación cuando de los comicios especiales convocados al efecto se obtenga un número igual al de los votos que para ser electo obtuvo el servidor público o representante popular en cuestión, más uno.
-
-En caso de resultar procedente la revocación de mandato, se estará a lo dispuesto en la presente Constitución
+IV.- (DEROGADA, P.O. 6 DE JULIO DE 2016)
 
 V.- La Rendición de Cuentas, como medio por el cual el Consejo de Participación Ciudadana podrá solicitar información a los funcionarios públicos estatales o municipales, mandatarios y representantes populares, así como a los servidores públicos en general.
 
-B.- DEL CONSEJO ESTATAL DE PARTICIPACIÓN CIUDADANA.
-
-1.- El Consejo Estatal de Participación Ciudadana es un organismo permanente encargado de la calificación de procedencia de los medios de participación ciudadana contemplado en esta Constitución, así como de observación y evaluación del trabajo gubernamental y legislativo; formado por quince representantes de la sociedad civil debiendo acreditar los siguientes requisitos:
-
-I. Tener un amplio reconocimiento por su compromiso de servicio a la Sociedad.
-
-II. No ser empleado de gobierno o funcionario público.
-
-III. Estar inscrito en el padrón electoral de Morelos.
-
-IV. Tener por lo menos 10 años de residencia en el Estado.
-
-V. No ser, ni haber sido en el año inmediato anterior, integrante de las dirigencias de partidos políticos a nivel municipal, estatal o federal.
-
-El cargo de Consejero será honorífico. Cada Consejero tendrá un suplente y si cualquiera de ellos (titular o suplente) fuera nombrado funcionario o empleado del Gobierno, automáticamente será substituido.
-
-El Consejo trabajará en forma colegiada y expedirá su Reglamento interno con base en lo establecido en esta Constitución y en la Ley reglamentaria.
-
-Entre los objetivos del Consejo estará además el promover y desarrollar Planes y programas a largo plazo, que sirvan de base para los Programas Anuales de Desarrollo de los Gobiernos en el Estado.
-
-2.- El Consejo será el organismo encargado de calificar la procedencia o improcedencia de las solicitudes de Plebiscito, Referéndum, Revocación de Mandato, Iniciativa Popular y Rendición de Cuentas que se presenten.
-
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
-
-El Consejo Estatal de Participación Ciudadana, con el apoyo ejecutivo del Organismo Público Electoral de Morelos, se encargará de preparar, desarrollar, vigilar y calificar los procesos de Revocación de Mandato, Rendición de Cuentas, Referéndum y de Plebiscito, que sean promovidos de conformidad con la Constitución Política del Estado y la Ley de la materia.
-
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
-
-Corresponde al Organismo Público Electoral de Morelos, la organización, desarrollo, cómputo y declaración de resultados en los mecanismos de participación ciudadana previstos por la Legislación Local.
-
-En ningún caso la ausencia de texto normativo impedirá que se ejerzan los derechos de los ciudadanos.
+B. (DEROGADO, P.O. 6 DE JULIO DE 2016)
 
 ## TITULO SEGUNDO.
 
@@ -562,27 +530,37 @@ No podrán reunirse dos o más poderes en una sola persona o corporación, ni en
 
 Los Poderes Públicos residirán en la Ciudad de Cuernavaca; pero por causas graves podrán translardarse (sic) temporalmente a otro lugar.
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2016)</small>
 
-### CAPITULO II.
+### CAPITULO II. INSTITUCIONES Y PROCESOS ELECTORALES Y DE PARTICIPACIÓN CIUDADANA
 
-INSTITUCIONES Y PROCESOS ELECTORALES.
-
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2016)</small>
 
 ###### Artículo 23.
 
-Los procesos electorales del Estado, se efectuarán conforme a las bases que establecen la presente Constitución y las Leyes de la materia y se sujetarán a los principios de constitucionalidad, certeza, legalidad, independencia, imparcialidad, equidad, objetividad, definitividad, profesionalismo, máxima publicidad y paridad de género.
+Los procesos electorales y de participación ciudadana del Estado, se efectuarán conforme a las bases que establecen la presente Constitución y las Leyes de la materia y se sujetarán a los principios de constitucionalidad, certeza, legalidad, independencia, imparcialidad, equidad, objetividad, definitividad, profesionalismo, máxima publicidad y paridad de género.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 Las fórmulas para Diputados al Congreso del Estado que registren los Partidos Políticos, tanto en el caso de mayoría relativa, como de representación proporcional, estarán compuestas cada una por un Propietario y un Suplente ambos del mismo género. La Lista de Representación Proporcional de Diputados al Congreso del Estado, se integrarán alternando las fórmulas de distinto género para garantizar el principio de paridad hasta agotar la lista.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
 Las listas de candidatos a Regidores que presenten los Partidos Políticos, se registrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente del mismo género. Con el objeto de garantizar la paridad de género, la lista de regidores alternará las fórmulas de distinto género, hasta agotar la lista correspondiente.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 En el caso de candidatos de mayoría relativa al Congreso del Estado, y con objeto de garantizar la paridad de género, la mitad de los distritos se integrará con candidatos de un género diferente. En ningún caso se admitirán criterios que tengan como resultado que alguno de los géneros le sea (sic) asignados exclusivamente aquellos distritos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
 En el caso de candidatos independientes que se registren para contender por el principio de mayoría relativa, la fórmula de propietario y suplente, deberá estar integrada por el mismo género.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
 Cada Partido Político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a Legisladores Locales. Éstos deberán ser objetivos y asegurar condiciones de igualdad entre géneros.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 Las elecciones de los Poderes Legislativo, Ejecutivo y de los Ayuntamientos se realizarán en las mismas fechas en que se efectúen las federales. La duración de las campañas será de sesenta días para la elección de Gobernador, y cuarenta y cinco días para Diputados Locales y Ayuntamientos. Las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
 
@@ -618,49 +596,111 @@ b) El tiempo en medios de comunicación establecido como derecho de los Partidos
 
 c) Los recursos públicos prevalecerán sobre los de origen privado, los cuales se fijarán conforme a la normatividad en la materia.
 
-V. La organización de las elecciones, es una función estatal que se realiza a través (sic) Organismo Público Electoral de Morelos, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2016)</small>
 
-Las elecciones locales estarán a cargo del Organismo Público Electoral de Morelos y podrá delegarla al Instituto Nacional de Elecciones en los términos de esta Constitución y la Ley en la materia.
+V.- La organización de las elecciones, es una función estatal que se realiza a través del Instituto Morelense de Procesos Electorales y Participación Ciudadana, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos.
 
-El Organismo Público Electoral de Morelos ejercerá las funciones en las siguientes materias:
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+
+Las elecciones locales estarán a cargo del Instituto Morelense de Procesos Electorales y Participación Ciudadana y podrá delegarla al Instituto Nacional Electoral en los términos de esta Constitución y la Ley en la materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE JULIO DE 2016)</small>
+
+El Instituto Morelense de Procesos Electorales y Participación Ciudadana, es un organismo público local electoral autónomo, dotado de personalidad jurídica y patrimonio propio, en cuya integración concurren los partidos políticos y la ciudadanía, en términos de la normativa aplicable.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE JULIO DE 2016)</small>
+
+Será autoridad en la materia electoral y de participación ciudadana, profesional en su desempeño, autónomo en su funcionamiento e independiente en sus decisiones, conforme lo determinela (sic) normativa aplicable, se estructurará con órganos de dirección, ejecutivos y técnicos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2016)</small>
+
+El Instituto Morelense de Procesos Electorales y Participación Ciudadana, ejercerá las funciones en las siguientes materias:
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 1. Derechos y el acceso a las prerrogativas de los candidatos y Partidos Políticos;
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
 2. Educación cívica;
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 3. Preparación de la jornada electoral;
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
 4. Impresión de documentos y la producción de materiales electorales;
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 5. Escrutinios y cómputos en los términos que señale la Ley;
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
 6. Declaración de validez y el otorgamiento de constancias en las elecciones locales;
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 7. Cómputo de la elección del Titular del Poder Ejecutivo;
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
 8. Resultados preliminares; encuestas o sondeos de opinión; observación electoral, y conteos rápidos, conforme a los lineamientos establecidos;
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 9. Organización, desarrollo, cómputo y declaración de resultados en los mecanismos de participación ciudadana que prevea la legislación local;
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
 10. Todas las no reservadas al Instituto Nacional Electoral; y
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 11. Las que determine la normatividad correspondiente.
 
-Corresponde al Instituto Nacional Electoral designar y remover a los integrantes del órgano superior de dirección del Organismo Público Electoral de Morelos.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
 
-Al Organismo Público Electoral de Morelos se le dispondrán los medios necesarios para acceder al Servicio Profesional Electoral.
+Corresponde al Instituto Nacional Electoral designar y remover a los integrantes del órgano superior de dirección del Instituto Morelense de Procesos Electorales y Participación Ciudadana.
 
-El Consejo Estatal de Participación Ciudadana, calificará la procedencia o improcedencia de las solicitudes de plebiscito, referéndum o revocación de mandato y se encargará de la organización, dirección y vigilancia de estos procedimientos de participación ciudadana, con la participación ejecutiva del Organismo Público Electoral de Morelos, salvaguardando los derechos ciudadanos, de conformidad con el artículo 19 Bis de esta Constitución y la ley reglamentaria.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
 
-A solicitud expresa del Organismo Público Electoral de Morelos, el Instituto Nacional Electoral asumirá la organización integral del proceso electoral correspondiente, con base en el convenio que celebren, en el que se establecerá de manera fehaciente las circunstancias de tiempo, modo y lugar que justifique la solicitud. A petición de los Partidos Políticos y con cargo a sus prerrogativas, en los términos que establezca la Ley, el Instituto Nacional Electoral podrá organizar las elecciones de sus dirigentes responsables de sus Órganos de Dirección.
+Al Instituto Morelense de Procesos Electorales y Participación Ciudadana, se le dispondrán los medios necesarios para acceder al Servicio Profesional Electoral.
 
-El Organismo Público Electoral de Morelos podrá, con la aprobación de la mayoría de votos de su Consejo, solicitar al Instituto Nacional Electoral la asunción parcial de alguna actividad propia de la función electoral que les corresponde. Dicho Instituto resolverá sobre la asunción parcial en los términos establecidos en la legislación general de la materia.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+
+El Instituto Morelense de Procesos Electorales y Participación Ciudadana, calificará la procedencia o improcedencia de las solicitudes de plebiscito, referéndum o revocación de mandato y se encargará de la organización, dirección y vigilancia de estos procedimientos de participación ciudadana, salvaguardando los derechos ciudadanos, de conformidad con el artículo 19 Bis de esta Constitución y la normativa aplicable.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+
+Los mecanismos de participación ciudadana que se convoquen, se deberán efectuar en tiempos electorales.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+
+El Instituto Morelense de Procesos Electorales y Participación Ciudadana, expedirá su propio Estatuto, con el que regulará su organización y funcionamiento internos, conforme a las bases que establece esta Constitución y demás normativa aplicable.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+
+A solicitud expresa del Instituto Morelense de Procesos Electorales y Participación Ciudadana, el Instituto Nacional Electoral asumirá la organización integral del proceso electoral correspondiente, con base en el convenio que celebren, en el que se establecerá de manera fehaciente las circunstancias de tiempo, modo y lugar que justifique la solicitud. A petición de los Partidos Políticos y con cargo a sus prerrogativas, en los términos que establezca la Ley, el Instituto Nacional Electoral podrá organizar las elecciones de sus dirigentes responsables de sus Órganos de Dirección.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+
+El Instituto Morelense de Procesos Electorales y Participación Ciudadana podrá, con la aprobación de la mayoría de votos de su Consejo, solicitar al Instituto Nacional Electoral la asunción parcial de alguna actividad propia de la función electoral que les corresponde. Dicho Instituto resolverá sobre la asunción parcial en los términos establecidos en la legislación general de la materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE JULIO DE 2016)</small>
 
 La solicitud a que se refiere el párrafo anterior podrá presentarse en cualquier momento del proceso electoral de que se trate y, en su caso, sólo tendrá efectos durante el mismo.
 
-En el caso de la facultad de atracción a que se refiere el inciso c), del Apartado C, de la Base V, del artículo 41, de la Constitución Política de los Estados Unidos Mexicanos, la petición sólo podrá formularse por al menos cuatro de los Consejeros Electorales del Consejo del Organismo Público Electoral de Morelos.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE JULIO DE 2016)</small>
 
-VI. El Organismo Público Electoral de Morelos, se integrará por un Consejero Presidente y seis Consejeros Electorales, con derecho a voz y voto, un Secretario Ejecutivo y un representante por cada uno de los Partidos Políticos con registro, quienes concurrirán a las sesiones sólo con derecho a voz.
+En el caso de la facultad de atracción a que se refiere el inciso c), del Apartado C, de la Base V, del artículo 41, de la Constitución Política de los Estados Unidos Mexicanos, la petición sólo podrá formularse por al menos cuatro de los Consejeros Electorales del Consejo del Instituto Morelense de Procesos Electorales y Participación Ciudadana.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2016)</small>
+
+VI.- El Instituto Morelense de Procesos Electorales y Participación Ciudadana, se integrará por un Consejero Presidente y seis Consejeros Electorales, con derecho a voz y voto, un Secretario Ejecutivo y un representante por cada uno de los Partidos Políticos con registro, quienes concurrirán a las sesiones sólo con derecho a voz.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 El Consejero Presidente y los Consejeros Electorales serán designados por el Consejo General del Instituto Nacional Electoral, en los términos previstos por la normatividad aplicable.
 
@@ -668,19 +708,27 @@ El Consejero Presidente y los Consejeros Electorales serán designados por el Co
 
 El Consejero Presidente y los Consejeros Electorales Estatales deberán ser originarios del Estado de Morelos o contar con una residencia efectiva de por lo menos cinco años anteriores a su designación y, al igual que la persona titular del órgano interno de control, deberán cumplir con los requisitos y el perfil que acredite su idoneidad para el cargo que establezca la normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
 En caso de que ocurra una vacante de Consejero Electoral Estatal, el Consejo General del Instituto Nacional Electoral hará la designación correspondiente en términos que establece la Ley en la materia. Si la vacante se verifica durante los primeros cuatro años de su encargo, se elegirá un sustituto para concluir el período. Si la falta ocurriese dentro de los últimos tres años, se elegirá a un Consejero para un nuevo período.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 El Consejero Presidente y los Consejeros Electorales Estatales, tendrán un período de desempeño de siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la Ley en la materia.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
 El Consejero Presidente y los Consejeros Electorales Estatales y demás servidores públicos que establezca la Ley en la materia, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
 
-La fiscalización de todos los ingresos y egresos del Organismo Público Electoral de Morelos, estará a cargo de un órgano interno de control, mismo que tendrá autonomía técnica y de gestión.
+La fiscalización de todos los ingresos y egresos del Instituto Morelense de Procesos Electorales y Participación Ciudadana, estará a cargo de un órgano interno de control, mismo que tendrá autonomía técnica y de gestión.
 
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
 
-La persona titular del órgano interno de control del Organismo Público Electoral de Morelos, será designado por el Congreso del Estado con el voto de las dos terceras partes de sus miembros, en la forma y términos que determine la normativa aplicable. Durará seis años en el cargo y sólo podrá ser designado para un periodo más. Estará adscrito administrativamente al Consejero Presidente y mantendrá la coordinación técnica necesaria con la Entidad Superior de Auditoría y Fiscalización.
+La persona titular del órgano interno de control del Instituto Morelense de Procesos Electorales y Participación Ciudadana, será designado por el Congreso del Estado con el voto de las dos terceras partes de sus miembros, en la forma y términos que determine la normativa aplicable. Durará seis años en el cargo y sólo podrá ser designado para un periodo más. Estará adscrito administrativamente al Consejero Presidente y mantendrá la coordinación técnica necesaria con la Entidad Superior de Auditoría y Fiscalización.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
 VII. El Tribunal Electoral del Estado de Morelos, es la Autoridad Electoral Jurisdiccional Local en materia electoral que gozará de autonomía técnica y de gestión en su funcionamiento e independencia en sus decisiones. Deberán cumplir sus funciones bajo los principios de certeza, imparcialidad, objetividad, legalidad y probidad.
 
@@ -820,9 +868,9 @@ II.- Los Magistrados Electorales o los Secretarios del Tribunal Electoral del Es
 
 III.- Los Secretarios o Subsecretarios de Despacho, el Fiscal General del Estado de Morelos, los Fiscales y Fiscales Especializados, los Magistrados del Tribunal Superior de Justicia, Tribunal de Justicia Administrativa del Estado de Morelos y Tribunal Unitario de Justicia para Adolescentes, los Jueces de Primera Instancia, los Agentes del Ministerio Público, los administradores de rentas Estatales o Municipales, los Delegados o equivalentes de la Federación, los miembros del Ejército en servicio activo y los Jefes o Mandos Superiores de Policía de Seguridad Pública Estatal o Municipal y los Presidentes Municipales o los titulares de algún Órgano Político-Administrativo, ni ejercer bajo circunstancia alguna las mismas funciones, salvo que se separe del cargo noventa días antes de la fecha de la elección;
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2016)</small>
 
-IV.- El Consejero Presidente o los Consejeros Electorales del Organismo Público Electoral de Morelos, el Secretario Ejecutivo o el Director Ejecutivo del Organismo Público Electoral del Estado, salvo que se separen del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate; y los Comisionados del Instituto Morelense de Información Pública y Estadística, aún si se separan de sus funciones, conforme a lo dispuesto en el artículo 23 de la presente Constitución;
+IV.- El Consejero Presidente o los Consejeros Electorales del Instituto Morelense de Procesos Electorales y Participación Ciudadana, el Secretario Ejecutivo o el Director Ejecutivo del Organismo Público Electoral del Estado, salvo que se separen del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate; y los Comisionados del Instituto Morelense de Información Pública y Estadística, aún si se separan de sus funciones, conforme a lo dispuesto en el artículo 23 de la presente Constitución;
 
 V.- Quienes pertenezcan al Servicio Profesional Electoral, salvo que se separen del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
 
@@ -900,7 +948,9 @@ Para la revisión de la cuenta pública, el Congreso del Estado se apoyará en l
 
 El Congreso concluirá la revisión de la Cuenta Pública a más tardar el 31 de octubre del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del Informe General Ejecutivo del resultado de la Fiscalización Superior, a que se refiere el artículo 84 de esta Constitución, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Entidad Superior de Auditoría y Fiscalización, seguirán su curso en términos de lo dispuesto en dicho artículo.
 
-Los Poderes Legislativo, Ejecutivo y Judicial, el Organismo Público Electoral del Estado, el Tribunal Electoral del Estado de Morelos, Municipios así como los organismos públicos con autonomía reconocida en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado, deberán incluir dentro de su proyecto de presupuesto, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estas propuestas deberán observar el procedimiento que para la aprobación del Presupuesto de Egresos del Estado, establezcan las disposiciones constitucionales y legales aplicables.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+
+Los Poderes Legislativo, Ejecutivo y Judicial, el Instituto Morelense de Procesos Electorales y Participación Ciudadana, el Tribunal Electoral del Estado de Morelos, Municipios así como los organismos públicos con autonomía reconocida en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado, deberán incluir dentro de su proyecto de presupuesto, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estas propuestas deberán observar el procedimiento que para la aprobación del Presupuesto de Egresos del Estado, establezcan las disposiciones constitucionales y legales aplicables.
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2008)</small>
 
@@ -1242,17 +1292,17 @@ L.- (DEROGADA, P.O. 18 DE FEBRERO DE 2015)
 
 LI.- (DEROGADA, P.O. 18 DE FEBRERO DE 2015)
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2016)</small>
 
-LII.- Expedir el Bando Solemne para dar a conocer en todo el Estado, la declaración de Gobernador electo que hubiere hecho el Organismo Público Electoral de Morelos o el Tribunal Electoral del Estado de Morelos, en su caso;
+LII.- Expedir el Bando Solemne para dar a conocer en todo el Estado, la declaración de Gobernador electo que hubiere hecho el Instituto Morelense de Procesos Electorales y Participación Ciudadana o el Tribunal Electoral del Estado de Morelos, en su caso;
 
 > <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
 
 LIII.- Aprobar por la mayoría simple de los integrantes de la Legislatura, la solicitud de remoción del Fiscal General del Estado que presente el Titular del Poder Ejecutivo del Estado.
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2016)</small>
 
-LIV.- Solicitar al Consejo de Participación Ciudadana y al Organismo Público Electoral de Morelos se lleven a cabo los procesos de referéndum y plebiscito; y al Instituto Morelense de Información Pública y Estadística que realice algún sondeo, encuesta o estadística, para cumplir con sus funciones;
+LIV.- Solicitaral (sic) Instituto Morelense de Procesos Electorales y Participación Ciudadana, que se lleven a cabo los procesos de participación ciudadana que corresponda, en términos de la normativa aplicable.
 
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2002)</small>
 
@@ -1566,9 +1616,9 @@ b). El Gobernador interino, el provisional, o el ciudadano que bajo cualquiera d
 
 VI.- Los Presidentes Municipales si no se separan de sus funciones 90 días antes del día de la elección; y
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2016)</small>
 
-VII.- El Consejero Presidente y los Consejeros Electorales del Organismo Público Electoral de Morelos, los Magistrados del Tribunal Electoral del Estado de Morelos, así como el personal directivo del Organismo Público Electoral de Morelos ni los Comisionados del Instituto Morelense de Información Pública y Estadística, aún si se separan de sus funciones, conforme a lo dispuesto en el artículo 23 de la presente Constitución.
+VII.- El Consejero Presidente y los Consejeros Electorales del Organismo Público Electoral de Morelos, los Magistrados del Tribunal Electoral del Estado de Morelos, así como el personal directivo del Instituto Morelense de Procesos Electorales y Participación Ciudadana, ni los Comisionados del Instituto Morelense de Información Pública y Estadística, aún si se separan de sus funciones, conforme a lo dispuesto en el artículo 23 de la presente Constitución.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
@@ -1794,9 +1844,9 @@ XXX.- Conducir las acciones que conforme a la Ley y en concurrencia con los Muni
 
 XXXI.- Intervenir en todos los negocios en que el Estado sea parte o en los que se vea afectado el interés público.
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2016)</small>
 
-XXXII.- Solicitar al Consejo de Participación Ciudadana y al Organismo Público Electoral de Morelos inicien los procesos de Plebiscito, Referéndum y Revocación de Mandato en los términos que disponga la Constitución y la Ley de la Materia;
+XXXII.- Solicitar al Instituto Morelense de Procesos Electorales y Participación Ciudadana, inicie los procesos de Plebiscito y Referéndum en los términos que disponga la Constitución y la normativa aplicable;
 
 (REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 29 DE NOVIEMBRE DE 2000)
 
@@ -2468,9 +2518,9 @@ XI.- Conceder licencias a los Magistrados del Tribunal Superior que no excedan d
 
 XII.- Dirimir las controversias que se susciten entre los Poderes Legislativo y Ejecutivo, por Leyes o actos de aquél que este último considere contrarias a la Constitución del Estado.
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2016)</small>
 
-XIII.- Dirimir las controversias que se susciten entre el Instituto Morelense de Información Pública y Estadística y el Poder Legislativo o el Poder Ejecutivo del Estado, o entre el primero y los Municipios, o el Organismo Público Electoral de Morelos, o la Universidad Autónoma del Estado de Morelos o cualquier Órgano Estatal regulado por esta Constitución. El procedimiento que se sustancie ante el Tribunal Superior de Justicia se sujetará al procedimiento previsto en el artículo 100 de esta Constitución;
+XIII.- Dirimir las controversias que se susciten entre el Instituto Morelense de Información Pública y Estadística y el Poder Legislativo o el Poder Ejecutivo del Estado, o entre el primero y los Municipios, o el Instituto Morelense de Procesos Electorales y Participación Ciudadana, o la Universidad Autónoma del Estado de Morelos o cualquier Órgano Estatal regulado por esta Constitución. El procedimiento que se sustancie ante el Tribunal Superior de Justicia se sujetará al procedimiento previsto en el artículo 100 de esta Constitución;
 
 XIV.- (DEROGADA, P.O. 22 DE MARZO DE 1995)
 
@@ -2914,9 +2964,9 @@ III.- Saber leer y escribir.
 
 IV.- No ser ministro de algún culto, salvo que hubiere dejado de serlo con la anticipación y en la forma que establezca la ley reglamentaria del Artículo 130 de la Constitución Federal.
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2016)</small>
 
-V.- No ser Consejero Presidente o Consejero Electoral del Organismo Público Electoral de Morelos ni Magistrado del Tribunal Electoral del Estado de Morelos, así como formar parte del personal directivo del Organismo Público Electoral de Morelos, aún si se separan de sus funciones, conforme a lo dispuesto en el Artículo 23 de la presente Constitución;
+V.- No ser Consejero Presidente o Consejero Electoral del Instituto Morelense de Procesos Electorales y Participación Ciudadana, ni Magistrado del Tribunal Electoral del Estado de Morelos, así como formar parte del personal directivo del Organismo Público Electoral de Morelos, aún si se separan de sus funciones, conforme a lo dispuesto en el Artículo 23 de la presente Constitución;
 
 VI.- Tampoco podrán ser, los que tuvieren mando de fuerza pública, si no se separan de su cargo o puesto noventa días antes del día de la elección; y
 
@@ -3008,6 +3058,10 @@ III.- Los planes y los programas de la Administración Pública, tendrán su ori
 
 En el Sistema de Planeación Democrática, el Congreso del Estado tendrá la intervención que señale la Ley.
 
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
+
+Las discusiones que, en su caso, se realicen para la formulación de la política pública de participación democrática, deberán realizarse en escenarios presenciales o a través de medios electrónicos cuando sea posible, utilizando las tecnologías de la información y las comunicaciones.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 120.
@@ -3018,13 +3072,11 @@ El matrimonio es la unión voluntaria de dos personas, con igualdad de derechos 
 
 En el estado se garantizará el derecho a la identidad de las personas a través del registro de nacimiento gratuito.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 121.
 
-La Educación que se imparta en la Entidad, deberá ser de calidad con equidad y garantizada por el Estado, a través de las Unidades Gubernamentales que estime pertinentes, ajustándose estrictamente a las disposiciones del artículo 3° y demás relacionados de la Constitución Política de los Estados Unidos Mexicanos, a efecto de asegurar el máximo aprendizaje de los educandos, a través de la participación social; así como la implementación de mecanismos y procedimientos de control que aseguren la evaluación y capacitación permanente de los docentes, tanto de Instituciones Públicas como particulares con autorización o reconocimiento oficial.
+El Estado garantizará que la educación que se imparta en la entidad, sea de calidad, inclusiva y con equidad, a través de las Unidades Gubernamentales que estime pertinentes, ajustándose estrictamente a las disposiciones del artículo 3° y demás relacionados de la Constitución Política de los Estados Unidos Mexicanos, a efecto de asegurar el máximo aprendizaje de los educandos, a través de la participación social; así como la implementación de mecanismos y procedimientos de control que aseguren la evaluación y capacitación permanente de los docentes, tanto de Instituciones Públicas como particulares con autorización o reconocimiento oficial.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3184,7 +3236,9 @@ DEL SISTEMA ESTATAL ANTICORRUPCIÓN.
 
 Se establece el Sistema Estatal Anticorrupción, como instancia coordinadora entre las autoridades competentes en la prevención, detección, investigación y sanción de responsabilidades administrativas y hechos de corrupción, el cual se conformará y ajustará a lo dispuesto en la propia Constitución y la normativa aplicable.
 
-Para los efectos de las responsabilidades a que se refiere este Título, se reputan como servidores públicos a los integrantes de los Poderes Legislativo, Ejecutivo y Judicial, así como de los Ayuntamientos, el Consejero Presidente y los consejeros electorales del Organismo Público Electoral de Morelos, el Comisionado Presidente y los comisionados del Instituto Morelense de Información Pública y Estadística, los Magistrados del Tribunal Electoral del Estado de Morelos, los Magistrados del Tribunal de Justicia Administrativa del Estado de Morelos, el Magistrado del Tribunal Unitario de Justicia para Adolescentes y en general todo aquel que desempeñe un cargo, comisión empleo de cualquier naturaleza en la Administración Pública Estatal o Paraestatal o en las Entidades, organismos públicos autónomos e instituciones mencionadas en esta Constitución. El Sistema Estatal contará con un Comité de Participación Ciudadana, integrado por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+
+Para los efectos de las responsabilidades a que se refiere este Título, se reputan como servidores públicos a los integrantes de los Poderes Legislativo, Ejecutivo y Judicial, así como de los Ayuntamientos, el Consejero Presidente y los consejeros electorales del Instituto Morelense de Procesos Electorales y Participación Ciudadana, el Comisionado Presidente y los comisionados del Instituto Morelense de Información Pública y Estadística, los Magistrados del Tribunal Electoral del Estado de Morelos, los Magistrados del Tribunal de Justicia Administrativa del Estado de Morelos, el Magistrado del Tribunal Unitario de Justicia para Adolescentes y en general todo aquel que desempeñe un cargo, comisión empleo de cualquier naturaleza en la Administración Pública Estatal o Paraestatal o en las Entidades, organismos públicos autónomos e instituciones mencionadas en esta Constitución. El Sistema Estatal contará con un Comité de Participación Ciudadana, integrado por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley.
 
 Al Gobernador sólo se le podrá exigir responsabilidad durante su cargo, mediante Juicio Político, por violación expresa y calificada como grave a esta Constitución, ataques a la libertad electoral y al derecho de participación ciudadana y por delitos graves del orden común.
 
@@ -3236,9 +3290,9 @@ La Comisión correspondiente del Congreso del Estado, instruirá el expediente s
 
 En demandas del orden civil que se entablen contra cualquier servidor público no se requerirá de declaración de procedencia.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
 
-Para proceder penalmente en contra de los Secretarios de Despacho, el Auditor General de la Entidad Superior de Auditoría y Fiscalización, el Fiscal General del Estado, los Magistrados del Tribunal de Justicia Administrativa del Estado de Morelos, los Magistrados del Tribunal Electoral del Estado de Morelos, el Magistrado del Tribunal Unitario de Justicia para Adolescentes, así como el Consejero Presidente y los Consejeros Electorales del Organismo Público Electoral de Morelos, el Comisionado Presidente y los Comisionados del Instituto Morelense de Información Pública y Estadística, los Presidentes Municipales, Síndicos y Regidores, por la comisión de delitos durante el tiempo de su cargo, no se requerirá la Declaratoria del Congreso del Estado en la que señale si ha lugar o no a la formación de causa.
+Para proceder penalmente en contra de los Secretarios de Despacho, el Auditor General de la Entidad Superior de Auditoría y Fiscalización, el Fiscal General del Estado, los Magistrados del Tribunal de Justicia Administrativa del Estado de Morelos, los Magistrados del Tribunal Electoral del Estado de Morelos, el Magistrado del Tribunal Unitario de Justicia para Adolescentes, así como el Consejero Presidente y los Consejeros Electorales del Instituto Morelense de Procesos Electorales y Participación Ciudadana, el Comisionado Presidente y los Comisionados del Instituto Morelense de Información Pública y Estadística, los Presidentes Municipales, Síndicos y Regidores, por la comisión de delitos durante el tiempo de su cargo, no se requerirá la Declaratoria del Congreso del Estado en la que señale si ha lugar o no a la formación de causa.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
 
@@ -4949,3 +5003,25 @@ PRIMERA.- Aprobado el presente Decreto por el Poder Reformador local y hecha la 
 SEGUNDA.- La reforma contenida en el presente Decreto formará parte de la Constitución Política del Estado Libre y Soberano de Morelos desde el momento en que se haga la Declaratoria a que se refiere la disposición precedente, en términos de lo dispuesto por el artículo 147, fracción II, de la propia Constitución.
 
 TERCERA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 6 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS CINCUENTA Y OCHO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN MATERIA DE PARTICIPACIÓN CIUDADANA”.]
+
+PRIMERA.- Aprobado el presente Decreto por el Poder Reformador Local y hecha la declaratoria correspondiente, remítase al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano Oficial de difusión del Gobierno del estado de Morelos; lo anterior, conforme a dispuesto por los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- Las reformas, adiciones y derogaciones contenidas en el presente Decreto, forman parte de esta Constitución, desde el momento mismo en que se realizó la declaratoria a que se refiere el artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+CUARTA.- Dentro de un plazo de ciento veinte días hábiles, contados a partir del día siguiente al que entre en vigor el presente Decreto, el Congreso del Estado de Morelos, deberá realizar las adecuaciones necesarias al marco normativo vigente, a efecto de realizar su homologación con los términos establecidos en el presente Decreto.
+
+P.O. 6 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS CINCUENTA Y NUEVE POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 121 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA.- Aprobado el presente Decreto por el Poder Reformador local y hecha la declaratoria correspondiente se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial "Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- Las reformas contenidas en el presente Decreto formarán parte de la Constitución Política del Estado Libre y Soberano de Morelos desde el momento en que se haga la Declaratoria a que se refiere la disposición precedente, en términos de lo dispuesto por el artículo 147, fracción II, de la propia Constitución.
+
+TERCERA.- Una vez hecha la declaratoria correspondiente, el Congreso del Estado de Morelos, cuenta con ciento ochenta días hábiles para realizar las modificaciones correspondientes a la Ley de Educación del Estado de Morelos y, en estricto apego a la distribución de competencias en la materia, establecidas en (sic) Ley General de Educación, garantizar la educación inclusiva en nuestro Estado.
