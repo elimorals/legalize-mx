@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-74-2008-del-pleno-del-consejo-de-la-64378"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-11-19"
-last_updated: "2010-07-22"
+last_updated: "2016-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64378&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2008-10-15"
 ---
 # ACUERDO GENERAL 74/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO AL USO DE VIDEOCONFERENCIA COMO UN METODO ALTERNATIVO PARA EL DESAHOGO DE DILIGENCIAS JUDICIALES]
 
-ACUERDO GENERAL 74/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE PONE A DISPOSICION DE LOS ORGANOS JURISDICCIONALES EL USO DE LA VIDEOCONFERENCIA COMO UN METODO ALTERNATIVO PARA EL DESAHOGO DE DILIGENCIAS JUDICIALES
+ACUERDO GENERAL 74/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE PONE A DISPOSICIÓN DE LOS ORGANOS JURISDICCIONALES EL USO DE LA VIDEOCONFERENCIA COMO UN METODO ALTERNATIVO PARA EL DESAHOGO DE DILIGENCIAS JUDICIALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE JULIO DE 2016.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 19 de noviembre de 2008.
 
@@ -169,9 +169,23 @@ Lo encontramos en el artículo 16 del Código Federal de Procedimientos Penales 
 
 “…En el proceso, los tribunales presidirán los actos de prueba, recibirán por sí mismos, las declaraciones. En las diligencias podrán emplearse, según el caso, a juicio del funcionario que las practique, la taquigrafía, el dictáfono y cualquier otro medio de prueba que tenga por objeto reproducir imágenes y sonidos, y el medio empleado se hará constar en el acta respectiva….”
 
-Dentro de las principales ventajas que ofrece este sistema se encuentra el eficientar el tiempo empleado en la tramitación de las causas penales o juicios en general, la reducción de los gastos en cuanto a erogación de los costos del desplazamiento de las partes de un punto a otro, evitar el traslado de un punto a otro de inculpados con un perfil criminológico alto, examen de testigos, peritos, o terceros que se encuentren fuera del lugar del juicio, permitiendo a su vez surta su efecto el principio de inmediación judicial de la prueba, toda vez que a través de este medio el juez del Proceso puede percatarse de los pormenores de la diligencia como el comportamiento procesal de las partes, gesticulaciones, etc., y todos aquellos detalles que en su momento le permitan emitir una sentencia con el sustento de haber presenciado el acto de prueba, entre otras ventajas.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL PROTOCOLO PARA EL USO DE LA VIDEOCONFERENCIA EN LOS JUZGADOS DE DISTRITO EN MATERIA PENAL Y DE PROCESOS PENALES FEDERALES DEL SIMILAR 74/2008, QUE PONE A DISPOSICIÓN DE LOS ÓRGANOS JURISDICCIONALES EL USO DE LA VIDEOCONFERENCIA COMO UN MÉTODO ALTERNATIVO PARA EL DESAHOGO DE DILIGENCIAS JUDICIALES, D.O.F. 6 DE JULIO DE 2016)</small>
 
-Lo que caracteriza a los sistemas de videoconferencia es que funcionan bajo las mismas técnicas y principios, pues en la mismas, invariablemente conlleva la preparación de una señal digital, la transmisión digital y desde luego el procesamiento de la señal digital que se recibe a través del monitor que se emplee.
+Tratándose del sistema penal acusatorio el fundamento es el artículo 51 del Código Nacional de Procedimientos Penales, que establece:
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL PROTOCOLO PARA EL USO DE LA VIDEOCONFERENCIA EN LOS JUZGADOS DE DISTRITO EN MATERIA PENAL Y DE PROCESOS PENALES FEDERALES DEL SIMILAR 74/2008, QUE PONE A DISPOSICIÓN DE LOS ÓRGANOS JURISDICCIONALES EL USO DE LA VIDEOCONFERENCIA COMO UN MÉTODO ALTERNATIVO PARA EL DESAHOGO DE DILIGENCIAS JUDICIALES, D.O.F. 6 DE JULIO DE 2016)</small>
+
+“La videoconferencia en tiempo real u otras formas de comunicación que se produzcan con nuevas tecnologías podrán ser utilizadas para la recepción y transmisión de medios de prueba y la realización de actos procesales, siempre y cuando se garantice previamente la identidad de los sujetos que intervengan en dicho acto.”
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL PROTOCOLO PARA EL USO DE LA VIDEOCONFERENCIA EN LOS JUZGADOS DE DISTRITO EN MATERIA PENAL Y DE PROCESOS PENALES FEDERALES DEL SIMILAR 74/2008, QUE PONE A DISPOSICIÓN DE LOS ÓRGANOS JURISDICCIONALES EL USO DE LA VIDEOCONFERENCIA COMO UN MÉTODO ALTERNATIVO PARA EL DESAHOGO DE DILIGENCIAS JUDICIALES, D.O.F. 6 DE JULIO DE 2016)</small>
+
+Dentro de las principales ventajas que ofrece este sistema se encuentra el eficientar el tiempo empleado en la tramitación de las causas penales o juicios en general, la reducción de los gastos en cuanto a erogación de los costos del desplazamiento de las partes de un punto a otro, evitar el traslado de un punto a otro de imputados con un perfil criminológico alto, examen de testigos, peritos, o terceros que se encuentren fuera del lugar del juicio, permitiendo a su vez surta su efecto el principio de inmediación judicial de la prueba, toda vez que a través de este medio el juez puede percatarse de los pormenores de la diligencia como el comportamiento procesal de las partes, gesticulaciones, etc., y todos aquellos detalles que en su momento le permitan emitir una sentencia con el sustento de haber presenciado el acto de prueba, entre otras ventajas.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL PROTOCOLO PARA EL USO DE LA VIDEOCONFERENCIA EN LOS JUZGADOS DE DISTRITO EN MATERIA PENAL Y DE PROCESOS PENALES FEDERALES DEL SIMILAR 74/2008, QUE PONE A DISPOSICIÓN DE LOS ÓRGANOS JURISDICCIONALES EL USO DE LA VIDEOCONFERENCIA COMO UN MÉTODO ALTERNATIVO PARA EL DESAHOGO DE DILIGENCIAS JUDICIALES, D.O.F. 6 DE JULIO DE 2016)</small>
+
+Lo que caracteriza a los sistemas de videoconferencia es que funcionan bajo las mismas técnicas y principios, pues en la (sic) mismas, invariablemente conlleva la preparación de una señal digital, la transmisión digital y desde luego el procesamiento de la señal digital que se recibe a través del monitor que se emplee.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL PROTOCOLO PARA EL USO DE LA VIDEOCONFERENCIA EN LOS JUZGADOS DE DISTRITO EN MATERIA PENAL Y DE PROCESOS PENALES FEDERALES DEL SIMILAR 74/2008, QUE PONE A DISPOSICIÓN DE LOS ÓRGANOS JURISDICCIONALES EL USO DE LA VIDEOCONFERENCIA COMO UN MÉTODO ALTERNATIVO PARA EL DESAHOGO DE DILIGENCIAS JUDICIALES, D.O.F. 6 DE JULIO DE 2016)</small>
 
 Una vez que se ha producido la digitalización de la señal, las transmisiones de videoconferencia pueden ir sobre cualquier vía tanto terrestre (cable, fibra óptica) como aérea (satélite, microondas).
 
@@ -467,13 +481,19 @@ En la planeación y preparación de una diligencia por videoconferencia, deberá
 
 Al decretarse la fecha y hora en que vaya a tener verificativo se sugiere señalar una fecha prudente, más no remota, a fin de que la Dirección de Redes del Consejo de la Judicatura Federal prevea la implementación de la logística para su desahogo, tomando en cuenta además la ubicación de las sedes. En la inteligencia que en ese lapso de tiempo puede llamarse la atención de las partes a fin de que propongan el desahogo de diversas probanzas a través de este medio, tratando en todo momento y de manera escrupulosa la optimización de los tiempos de transmisión, por lo que el trabajo de preparación del evento resulta crucial para garantizar la calidad del mismo y el cumplimiento de sus objetivos.
 
-Para aquéllos casos que a criterio del titular del juzgado que decrete la necesidad de la práctica de una diligencia de naturaleza urgente, deberá proveer lo conducente y avisarlo de manera inmediata a la Dirección de Redes del Consejo de la Judicatura Federal, a fin de que, sin mayor demora implemente la logística e instale el equipo receptor y transmisor de las imágenes y sonidos que serán transmitidos en tiempo real por la videoconferencia.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL PROTOCOLO PARA EL USO DE LA VIDEOCONFERENCIA EN LOS JUZGADOS DE DISTRITO EN MATERIA PENAL Y DE PROCESOS PENALES FEDERALES DEL SIMILAR 74/2008, QUE PONE A DISPOSICIÓN DE LOS ÓRGANOS JURISDICCIONALES EL USO DE LA VIDEOCONFERENCIA COMO UN MÉTODO ALTERNATIVO PARA EL DESAHOGO DE DILIGENCIAS JUDICIALES, D.O.F. 6 DE JULIO DE 2016)</small>
 
-Para efecto del presente protocolo, se considera diligencias urgentes las previstas en el artículo 71, párrafo Segundo del Código Federal de Procedimientos Penales, esto es, toda (sic) aquéllas diligencias tendentes a resolver la situación jurídica de los inculpados.
+Para aquéllos casos que a criterio del juez que decrete la necesidad de la práctica de una diligencia de naturaleza urgente, deberá proveer lo conducente y avisarlo de manera inmediata a la Dirección de Redes del Consejo de la Judicatura Federal, a fin de que, sin mayor demora implemente la logística e instale el equipo receptor y transmisor de las imágenes y sonidos que serán transmitidos en tiempo real por la videoconferencia.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL PROTOCOLO PARA EL USO DE LA VIDEOCONFERENCIA EN LOS JUZGADOS DE DISTRITO EN MATERIA PENAL Y DE PROCESOS PENALES FEDERALES DEL SIMILAR 74/2008, QUE PONE A DISPOSICIÓN DE LOS ÓRGANOS JURISDICCIONALES EL USO DE LA VIDEOCONFERENCIA COMO UN MÉTODO ALTERNATIVO PARA EL DESAHOGO DE DILIGENCIAS JUDICIALES, D.O.F. 6 DE JULIO DE 2016)</small>
+
+Para efecto del presente protocolo, se consideran diligencias urgentes las previstas en el artículo 71, párrafo segundo, del Código Federal de Procedimientos Penales, esto es, toda (sic) aquéllas diligencias tendentes a resolver la situación jurídica de los inculpados; y tratándose del proceso penal acusatorio, las señaladas en el artículo 94, párrafo tercero del Código Nacional de Procedimientos Penales, como son las relativas a providencias precautorias, puesta del imputado a disposición del órgano jurisdiccional, resolver la legalidad de la detención, formulación de la imputación, resolver sobre la procedencia de las medidas cautelares en su caso y decidir sobre la procedencia de su vinculación a proceso.
 
 2.1. Desahogo de la videoconferencia.
 
-Cuando las sedes de la videoconferencia corresponda al lugar donde el Titular del Juzgado de Distrito que la ha decretado, ejerza jurisdicción y en los casos que solicite vía exhorto el auxilio en sus labores de otro juzgado de Distrito en el país, se comisionará a uno o más secretarios, dependiendo de la modalidad de la videoconferencia, esto es punto a punto (entre dos sedes) o bien multipunto (entre múltiples sedes) a fin de que, en la fecha y hora señalados se constituyan en la sede que corresponda y que se haya señalado como el lugar donde se recepcionará las imágenes y sonidos que serán transmitidas a la otras sede donde el titular del juzgado de Distrito que la haya decretado esté presidiendo la diligencia, debidamente asistido del Secretario de Acuerdos que autorice y de fe, y una vez establecido el enlace, en ambas o en las múltiples sedes, invariablemente, se observen las siguientes formalidades:
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL PROTOCOLO PARA EL USO DE LA VIDEOCONFERENCIA EN LOS JUZGADOS DE DISTRITO EN MATERIA PENAL Y DE PROCESOS PENALES FEDERALES DEL SIMILAR 74/2008, QUE PONE A DISPOSICIÓN DE LOS ÓRGANOS JURISDICCIONALES EL USO DE LA VIDEOCONFERENCIA COMO UN MÉTODO ALTERNATIVO PARA EL DESAHOGO DE DILIGENCIAS JUDICIALES, D.O.F. 6 DE JULIO DE 2016)</small>
+
+Cuando las sedes de la videoconferencia corresponda al lugar donde el Titular del Juzgado de Distrito que la ha decretado, ejerza jurisdicción y en los casos que solicite vía exhorto el auxilio en sus labores de otro juzgado de Distrito en el país, el titular de éste comisionará a uno o más actuarios o secretarios, dependiendo de la modalidad de la videoconferencia, esto es punto a punto (entre dos sedes) o bien multipunto (entre múltiples sedes) a fin de que, en la fecha y hora señalados se constituyan en la sede que corresponda y que se haya señalado como el lugar donde se recepcionará las imágenes y sonidos que serán transmitidas a la otra sede donde el titular del juzgado de Distrito que la haya decretado esté presidiendo la diligencia, debidamente asistido del Secretario de Acuerdos que autorice y de fe, y una vez establecido el enlace, en ambas o en las múltiples sedes, invariablemente, se observen las siguientes formalidades:
 
 a) Certificación de la hora e inicio de la diligencia, en la que haga constar además mediante su descripción detallada la marca y numero de serie del equipo que se esté empleando, describa también las imágenes que se están proyectando y que en el acto de la certificación esté percibiendo por medio del sentido de la vista y oído.
 
@@ -486,6 +506,10 @@ d) Identificar debidamente a las personas que vayan a participar en la diligenci
 e) Si es el inculpado quien participa directamente en la diligencia materia de la videoconferencia invariablemente deberá estar asistido de su defensor, excepto el caso de que la diligencia que se (sic) transmitida a través de la videoconferencia, se trate de la audiencia de información a que se refiere el artículo 41 del Código Federal de Procedimientos Penales, dada su naturaleza meramente informativa.
 
 f) De igual forma, deberá tomarse en consideración que el artículo 22 del Código Federal de Procedimientos Penales exige como formalidad que cada diligencia se levante en acta por separado.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL PROTOCOLO PARA EL USO DE LA VIDEOCONFERENCIA EN LOS JUZGADOS DE DISTRITO EN MATERIA PENAL Y DE PROCESOS PENALES FEDERALES DEL SIMILAR 74/2008, QUE PONE A DISPOSICIÓN DE LOS ÓRGANOS JURISDICCIONALES EL USO DE LA VIDEOCONFERENCIA COMO UN MÉTODO ALTERNATIVO PARA EL DESAHOGO DE DILIGENCIAS JUDICIALES, D.O.F. 6 DE JULIO DE 2016)</small>
+
+Tratándose del sistema penal acusatorio los Jueces de Distrito especializados de dicho sistema, adscritos a los Centros de Justicia Penal Federal podrán comisionar indistintamente a notificadores, asistentes de despacho judicial o asistentes de constancias y registro para el desahogo de las videoconferencias. En todo caso se deberán observar las formalidades previstas en el Código Nacional de Procedimientos Penales, atendiendo al tipo de diligencia.”
 
 2.1.2. El Coordinador de videoconferencia.
 
@@ -704,3 +728,11 @@ La instalación del sistema de videoconferencias se realizará a la mayor breved
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 74/2008, del Pleno del Consejo de la Judicatura Federal, que Pone a Disposición de los Organos Jurisdiccionales el Uso de la Videoconferencia como un Método Alternativo para el Desahogo de Diligencias Judiciales.
+
+D.O.F. 6 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL PROTOCOLO PARA EL USO DE LA VIDEOCONFERENCIA EN LOS JUZGADOS DE DISTRITO EN MATERIA PENAL Y DE PROCESOS PENALES FEDERALES DEL SIMILAR 74/2008, QUE PONE A DISPOSICIÓN DE LOS ÓRGANOS JURISDICCIONALES EL USO DE LA VIDEOCONFERENCIA COMO UN MÉTODO ALTERNATIVO PARA EL DESAHOGO DE DILIGENCIAS JUDICIALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
