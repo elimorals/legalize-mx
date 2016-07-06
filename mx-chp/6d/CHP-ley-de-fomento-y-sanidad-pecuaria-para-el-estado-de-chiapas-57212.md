@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-fomento-y-sanidad-pecuaria-para-el-estado-de-chiapas-572
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-12"
-last_updated: "2007-09-12"
+last_updated: "2016-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY DE FOMENTO Y SANIDAD PECUARIA PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE FOMENTO Y SANIDAD PECUARIA PARA EL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 6 DE JULIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2016 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 12 de septiembre de 2007.
 
@@ -2986,3 +2988,17 @@ Dado en el salón de Sesiones del Honorable Congreso del Estado de Chiapas, en l
 De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia; promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los veintinueve días del mes de agosto del año dos mil siete.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “DECRETO NO. 236 LEY DE FOMENTO Y SANIDAD PECUARIA PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga la Ley de Fomento y Sanidad Pecuaria para el Estado de Chiapas, publicada en (sic) Periódico Oficial número 045, Segunda Sección, Tomo III, de fecha 12 de septiembre de 2007, y el Acuerdo por el que se incorporan 35 nuevos municipios del Estado de Chiapas; a la Región "A" con respecto a las enfermedades de Tuberculosis y Brucelosis, publicado en el Periódico Oficial del Estado, número 054 de fecha 24 de octubre de 2007.
+
+Artículo Tercero.- Todos los Comités, Directivas, y demás organismos y organizaciones previstas en la presente Ley, deberán constituirse en un término de noventa días naturales a partir de la entrada en vigor de la presente Ley; y deberán emitir sus lineamientos, manuales o reglas de operación en el plazo antes señalado, mismas que serán a convocatoria de la Secretaría.
+
+Artículo Cuarto.- El titular de la Secretaría del Campo, deberá someter a consideración y aprobación del titular del Poder Ejecutivo Estatal, el proyecto del reglamento de la presente Ley y demás normatividad que resulte aplicable, en un plazo no mayor a noventa días hábiles siguientes a la publicación del presente Decreto.
