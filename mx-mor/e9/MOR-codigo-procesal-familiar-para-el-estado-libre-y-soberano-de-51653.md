@@ -4,7 +4,7 @@ identifier: "MOR-codigo-procesal-familiar-para-el-estado-libre-y-soberano-de-516
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2016-07-04"
+last_updated: "2016-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2016.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -1475,9 +1475,7 @@ Si se trata de persona moral en el domicilio social, y en sus oficinas o princip
 
 El notificador deberá cerciorarse de que el señalamiento reúne estas circunstancias antes de hacerlo, pudiendo ser autorizado para notificarlo personalmente en el lugar donde habitualmente trabaje o en cualquier lugar en que se encuentre la persona física o representante emplazado dentro de la jurisdicción; pero en este caso, deberá entenderse directamente con la persona que se trate, y el notificador hará constar específicamente en la diligencia los medios de que se valió para identificarlo, comprobar su personalidad en caso de representación y demás particulares;
 
-III. El emplazamiento se entenderá directamente con el interesado si estuviere presente, entregándose copia de la demanda y demás documentos y del auto o proveído que deba notificarse. Si la persona a quien se hace el emplazamiento no fuere encontrada en su domicilio se le dejará citatorio y demás para hora fija, dentro de las horas hábiles del día siguiente. En caso de que no espere, se le hará la notificación por cédula. La célula (sic) en estos casos se entregará a los parientes o domésticos del interesado, o a cualquier otra persona adulta que viva en la casa, después de que el notificador se haya cerciorado de que allí tiene su domicilio la persona que debe ser citada, de todo lo cual asentará razón en las diligencias. La cédula contendrá mención del juicio de que se trate y la inserción de auto o proveído que deba notificarse, y se entregará junto con las copias del traslado.
-
-La persona que recoja deberá firmar por su recibo, y si se rehusare a hacerlo, se pondrá razón en la diligencia, debiendo expresarse el nombre de ella o la manifestación de que se negó a darlo. Si se informare al notificador que el emplazado está ausente del lugar del juicio se hará constar esta circunstancia a efecto de que el juez determine lo que proceda. Solo podrá hacerse el emplazamiento por cédula cuando se realice en el domicilio del emplazado y éste no se encuentre presente; en los demás casos deberá hacerse personal y directamente, aún en el lugar en donde el demandado se encuentre, previa identificación;
+III. El emplazamiento se entenderá directamente con el interesado si estuviere presente, entregándose copia de la demanda y demás documentos y del auto o proveído que deba notificarse. Si la persona a quien se hace el emplazamiento no fuere encontrada en su domicilio se le dejará citatorio y demás para hora fija, dentro de las horas hábiles del día siguiente. En caso de que no espere, se le hará la notificación por cédula. La célula (sic) en estos casos se entregará a los parientes o domésticos del interesado, o a cualquier otra persona adulta que viva en la casa, después de que el notificador se haya cerciorado de que allí tiene su domicilio la persona que debe ser citada, de todo lo cual asentará razón en las diligencias. La cédula contendrá mención del juicio de que se trate y la inserción de auto o proveído que deba notificarse, y se entregará junto con las copias del traslado. La persona que recoja deberá firmar por su recibo, y si se rehusare a hacerlo, se pondrá razón en la diligencia, debiendo expresarse el nombre de ella o la manifestación de que se negó a darlo. Si se informare al notificador que el emplazado está ausente del lugar del juicio se hará constar esta circunstancia a efecto de que el juez determine lo que proceda. Solo podrá hacerse el emplazamiento por cédula cuando se realice en el domicilio del emplazado y éste no se encuentre presente; en los demás casos deberá hacerse personal y directamente, aún en el lugar en donde el demandado se encuentre, previa identificación;
 
 IV. Cuando la persona a quien deba emplearse radique dentro de la República, pero fuera del Estado de Morelos, y fuere conocido su domicilio, el emplazamiento se le hará por despacho o exhorto de acuerdo con la forma prevista en el capítulo anterior. Si una vez despachado el exhorto sobreviniere un cambio de domicilio de la persona a quien se pretende emplazar, dentro de la jurisdicción del juez requerido, éste se entenderá facultado para hacer el emplazamiento en el nuevo domicilio, sin necesidad de nuevo exhorto basando que así lo pida la parte interesada ente (sic) el juez exhortado;
 
@@ -2482,6 +2480,10 @@ Las defensas o contrapretensiones legales que oponga, cualquiera que sea su natu
 En la misma contestación el demandado puede hacer valer la reconvención; de dicho escrito se dará traslado al actor para que conteste en el plazo de seis días, debiendo este último, al desahogarlo, referirse exclusivamente a los hechos, y a las pretensiones aducidos por la contraria como fundamento de la reconvención o compensación.
 
 Si el demandado quiere llamar a juicio a un tercero, deberá manifestarlo en el mismo escrito de contestación. La petición posterior no será tramitada.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
+
+Tratándose de controversia familiar en contra del Oficial del Registro Civil, se formulará la contestación de la demanda dentro del plazo de cinco días.
 
 ###### ARTÍCULO 276.
 
@@ -5425,7 +5427,9 @@ También será relevado si presenta cuentas y éstas no son aprobadas, si la fal
 
 VIII. El depositario deberá entregar los bienes depositados tan pronto como lo ordene el juez. Si no cumple, se le apremiará con arresto hasta por quince días.
 
-El depositario será penalmente responsable por la falta de entrega de los bienes embargados cuando sea requerido judicialmente para ello. Igualmente será penalmente responsable en los casos de desposesión o pérdida de los bienes embargados por cualquier acto judicial o de otra índole, estará obligado a ponerlo en conocimiento del juzgado dentro de las veinticuatro horas siguientes, y si faltare al cumplimiento de esta obligación será civil y penalmente responsable en la misma forma que lo sería en el caso de haber dispuesto de los bienes embargados. También será responsable el depositario por usar o permitir el uso de los bienes embargados o por demérito que éstos sufran por su culpa o negligencia.
+El depositario será penalmente responsable por la falta de entrega de los bienes embargados cuando sea requerido judicialmente para ello.
+
+Igualmente será penalmente responsable en los casos de desposesión o pérdida de los bienes embargados por cualquier acto judicial o de otra índole, estará obligado a ponerlo en conocimiento del juzgado dentro de las veinticuatro horas siguientes, y si faltare al cumplimiento de esta obligación será civil y penalmente responsable en la misma forma que lo sería en el caso de haber dispuesto de los bienes embargados. También será responsable el depositario por usar o permitir el uso de los bienes embargados o por demérito que éstos sufran por su culpa o negligencia.
 
 ###### ARTÍCULO 635.
 
@@ -6958,3 +6962,11 @@ P.O. 4 DE JULIO DE 2016.
 PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos que indica el artículo 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+P.O. 6 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS TREINTA Y NUEVE POR EL QUE ADICIONA UN PÁRRAFO AL FINAL DEL ARTÍCULO 275 DEL CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado de Morelos.
