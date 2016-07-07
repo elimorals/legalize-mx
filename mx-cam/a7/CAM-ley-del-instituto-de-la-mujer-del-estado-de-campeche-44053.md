@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-instituto-de-la-mujer-del-estado-de-campeche-44053"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-05"
-last_updated: "2004-07-05"
+last_updated: "2016-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DEL INSTITUTO DE LA MUJER DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el día 5 de julio de 2004.
 
@@ -41,39 +41,43 @@ LEY DEL INSTITUTO DE LA MUJER DEL ESTADO DE CAMPECHE
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 1.
 
-Las disposiciones de esta Ley son de orden público y de observancia general en todo el Estado de Campeche, en materia de equidad de género e igualdad de derechos y oportunidades entre hombres y mujeres.
+Las disposiciones de esta Ley son de orden público y de observancia general en todo el Estado de Campeche, en materia de igualdad de derechos y oportunidades entre mujeres y hombres.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 2.
 
-La presente ley tiene por objeto:
+La presente Ley tiene por objeto:
 
-I. Garantizar la igualdad de derecho y oportunidad para mujeres y hombres;
+I. Garantizar y promover la igualdad de derecho y oportunidades para mujeres y hombres;
 
-II. Promover la equidad de géneros;
+II. Coordinar las políticas públicas en favor de las mujeres;
 
-III. Coordinar las políticas públicas en favor de las mujeres;
+III. Crear al Instituto de la Mujer del Estado de Campeche, así como determinar sus facultades y obligaciones;
 
-IV. Crear al Instituto de la Mujer del Estado de Campeche, así como determinar sus facultades y obligaciones;
+IV. Establecer el Consejo Consultivo Ciudadano del Instituto de la Mujer del Estado de Campeche y determinar sus atribuciones; y
 
-V. Establecer el Consejo Consultivo Ciudadano del Instituto de la Mujer del Estado de Campeche y determinar sus atribuciones; y
-
-VI. Diseñar el Programa Estatal para las Mujeres.
+V. Diseñar el Programa Estatal para las Mujeres.
 
 ###### ARTÍCULO 3.
 
 Esta ley garantiza a todas las mujeres que se encuentren en el territorio del Estado de Campeche, sin diferencia de edad, estado civil, idioma, cultura, origen, raza, condición social, capacidad diferente, actividad, profesión, preferencia sexual y creencias religiosas, la participación en los programas, acciones o servicios que deriven de la presente ley.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 4.
 
-Para los efectos de esta ley, debe entenderse por:
+Para los efectos de esta ley debe entenderse por:
 
-I. Igualdad: Concepto por el cual, mujeres y hombres como seres humanos con la misma dignidad disfrutan con justicia y libertad de los beneficios de una sociedad organizada, tiene la capacidad de ofrecer las mismas oportunidades para ambos géneros, con las responsabilidades que con esto conlleva;
+I. Igualdad.- Concepto por el cual, mujeres y hombres como seres humanos con la misma dignidad, disfrutan con justicia y libertad de los beneficios de una sociedad organizada que tiene la capacidad de ofrecer las mismas oportunidades para ambos géneros, con las responsabilidades que con esto conlleva;
 
-II. Género: Concepto que se refiere al conjunto de valores, atributos y representaciones de mujeres y hombres;
+II. Género: Concepto que se refiere a los valores, atributos, roles y representaciones que la sociedad asigna a mujeres y hombres;
 
-III. Equidad de género: Concepto conforme el cual hombres y mujeres acceden con justicia e igualdad, al uso, control y beneficio de los bienes y servicios de la sociedad, incluyendo aquellos socialmente valorados como oportunidades y estímulos con la finalidad de lograr la participación equitativa de las mujeres en la toma de decisiones y acciones afirmativas en todos los ámbitos de la vida política, económica, social, cultural, familiar, laboral y de educación;
+III. Igualdad de género.- situación en la que mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultura (sic) y familiar.
 
 IV. Perspectiva de género: La metodología y mecanismo que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, justificándose con base en las diferencias biológicas entre hombres y mujeres;
 
@@ -83,313 +87,277 @@ VI. El Instituto: El Instituto de la Mujer del Estado de Campeche;
 
 VII. La Junta de Gobierno: La Junta de Gobierno del Instituto;
 
-VIII. La Dirección General: La Dirección General del Instituto de la Mujer del Estado de Campeche; y
+VIII. La Dirección General: La Dirección General del Instituto de la Mujer del Estado de Campeche;
 
-IX. El Consejo: El Consejo Consultivo Ciudadano del Instituto de la Mujer del Estado de Campeche.
+IX. El Consejo: El Consejo Consultivo Ciudadano del Instituto de la Mujer del Estado de Campeche;
+
+X. Paridad.- Estrategia política que tiene como objetivo garantizar una participación equilibrada de mujeres y hombres en todos los ámbitos de la sociedad, particularmente en la toma de decisiones;
+
+XI. Empoderamiento.- Proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades; y
+
+XII. Transversalidad.- Incorporar la Perspectiva de la igualdad de género en los distintos niveles y etapas que conforman el proceso de formulación, ejecución y evaluación de las políticas públicas de manera que las mujeres y los hombres puedan beneficiarse del impacto de la distribución de los recursos y no se perpetúe la desigualdad de género.
 
 ### CAPÍTULO II. DEL INSTITUTO
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 5.
 
-El Instituto es un organismo público descentralizado de la Administración Estatal, con personalidad jurídica y patrimonio propios, encargado de promover, elaborar y ejecutar las políticas públicas del Estado a favor de las mujeres.
+El Instituto de la Mujer es un organismo descentralizado de la Administración Pública del Estado de Campeche, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Desarrollo Social y Humano de la Administración Pública del Estado, cuyo objeto es la promoción, elaboración, difusión y ejecución de las políticas públicas que sirvan como eje para lograr la igualdad de género y garantizar el respeto a los derechos humanos de las mujeres, con un enfoque mayor en la no discriminación, el respeto a sus derechos sexuales y reproductivos, y la no violencia contra las mujeres en el Estado de Campeche.
 
-El domicilio del Instituto se encuentra en la Ciudad de Campeche, sin menoscabo de que amplíe sus servicios en el territorio del Estado, pudiendo establecer oficinas de representación en los Municipios del Estado, directamente o mediante convenios de coordinación y colaboración con los Ayuntamientos, organismos públicos, privados y sociales. El Instituto Estatal de la Mujer estará sectorizado a la Secretaría de Gobierno.
+Su domicilio legal se establecerá en la ciudad de San Francisco de Campeche, capital del Estado de Campeche, sin perjuicio de poder establecer oficinas de representación en todos los Municipios del Estado de Campeche, directamente o a través de convenios celebrados con los HH. Ayuntamientos, con otros organismos públicos y con organismos privados.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 6.
 
-El Instituto goza de autonomía financiera, programática, técnica y de gestión para el diseño de sus programas conforme a lo previsto en la Ley de Planeación del Estado de Campeche, que le permitan cumplir con sus atribuciones, objetivos y fines.
+El Instituto elaborará los planes sectoriales que le permitan cumplir con sus atribuciones y objetivos, en coordinación con la Secretaría de Planeación, conforme a lo establecido en la Ley de Planeación del Estado de Campeche.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 7.
 
-El Instituto tiene los siguientes objetivos específicos:
+El objetivo principal del Instituto consistirá en promover, proteger, difundir y garantizar los derechos humanos de las mujeres contenidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados Internacionales de los que el Estado mexicano sea parte, en la Constitución Política del Estado de Campeche y, en general, de toda la legislación que contenga derechos y obligaciones de las mujeres.
 
-I. Promover, proteger y difundir los derechos, obligaciones y valores de las mujeres consagrados en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Campeche, los Tratados Internacionales de los que forme parte los Estados Unidos Mexicanos y, en particular, a las normas relativas a los Derechos Humanos y libertades fundamentales de las mujeres;
-
-II. La coordinación, seguimiento y evaluación de los programas, proyectos y acciones, y la concertación social indispensable para su implementación;
-
-III. La promoción de la cultura de la no violencia, la no discriminación contra las mujeres y de la equidad de género para el fortalecimiento de la democracia;
-
-IV. Fomentar la voluntad política para establecer, modificar, desarrollar o hacer cumplir la base jurídica que garantice la igualdad de las mujeres fundada en la dignidad humana;
-
-V. Promover, dar seguimiento y evaluar las políticas públicas destinadas a asegurar la igualdad de oportunidades y la no discriminación hacia las mujeres;
-
-VI. Promover e impulsar en las mujeres el acceso al empleo y al comercio e informar sobre las condiciones de trabajo apropiadas en condiciones de igualdad con los hombres;
-
-VII. Diseñar e implementar medidas de capacitación e información destinadas a mujeres y hombres con la finalidad de sensibilizarlos en el respeto a los derechos de la mujer; lograr su desarrollo con la participación plena en las responsabilidades familiares; así como la protección de su salud;
-
-VIII. Generar proyectos productivos y fomentar movimientos sociales que favorezcan una nueva cultura de participación femenil;
-
-IX. Promover la protección y apoyo de las mujeres que se encuentren en situaciones de vulnerabilidad;
-
-X. Definir e instrumentar una política estatal sobre la mujer que le permita incorporarse plenamente al desarrollo del Estado;
-
-XI. Promover coordinadamente con dependencias y entidades de la administración pública estatal, en el ámbito de sus competencias, las acciones destinadas a mejorar el nivel de vida de las mujeres, así como sus expectativas sociales, culturales, políticas, económicas y de derechos;
-
-XII. Fomentar una cultura de respeto y reconocimiento al trabajo y experiencia de las mujeres;
-
-XIII. Promover de manera organizada la superación de los rezagos educativos y mejorar las oportunidades de educación de las mujeres;
-
-XIV. Fortalecer la participación cívica, cultural y artística de las mujeres, mediante programas sistemáticos y continuos;
-
-XV. Promover entre los órganos de Gobierno, los organismos autónomos previstos en la Constitución Política del Estado de Campeche, entre los gobiernos Municipales y entre la iniciativa privada, el escalafón para el ascenso de las mujeres en el área laboral, asimismo, el que no le sea requerido para su ingreso, el Certificado o Constancia de Gravidez, creando con esto una nueva cultura laboral;
-
-XVI. Promover esquemas de ampliación del número de guarderías y sus horarios, acordes a las necesidades laborales y educativas de las mujeres;
-
-XVII. Ejecutar una política de coordinación permanente entre las dependencias y entidades de la administración pública federal, estatal y municipal y coordinarse con los sectores social y privado para la promoción de los derechos de las mujeres;
-
-XVIII. Abrir espacios de participación equitativa para las mujeres e impulsar su incorporación en la toma de decisiones en los diversos sectores políticos, sociales, económicos y culturales;
-
-XIX. Realizar la investigación y llevar a cabo la incorporación necesaria para el diseño y evaluación de las políticas públicas, que lleven a la integración plena de las mujeres en la toma de decisiones de la vida cívica, política, económica, cultural, del entorno ecológico y laboral;
-
-XX. Sistematizar la investigación sobre los temas que más influyen amplia o limitadamente en la sociedad, como lo son la educación, desarrollo sustentable, fuerza laboral, movimientos migratorios, reproducción familiar, matrimonio, vida conyugal, familia y desarrollo humano de las mujeres;
-
-XXI. Otorgar atención especial a las mujeres de las comunidades indígenas, promoviendo entre ellas, el respeto a los derechos humanos, la revaloración de los derechos específicos al género, y a su cultura;
-
-XXII. Asesorar al Ejecutivo del Estado, a través de sus dependencias y entidades en la formulación y programación de las políticas públicas y acciones relacionadas con el desarrollo de la mujer; así como asesorar a los sectores privado y social;
-
-XXIII. Elaborar programas especiales de atención a madres solteras, en especial, a las mujeres embarazadas en edad temprana;
-
-XXIV. Realizar programas de empleo alternativo para las mujeres que se dedican a la prostitución;
-
-XXV. Difundir a través de cualquier medio de comunicación, la revalorización del papel que desempeñan las mujeres en la sociedad;
-
-XXVI. Elaborar estudios, generar estadísticas y difundir todo tipo de datos sobre las condiciones de vida de la población femenina en Campeche, que permitan conocer el estado que guardan las mujeres con relación a sus derechos, la discriminación y violencia, así como oportunidades de igualdad con los hombres, a fin de generar una conciencia favorable hacia las mujeres y su revalorización;
-
-XXVII. Llevar acciones concretas a favor de las trabajadoras domésticas, la defensa de sus derechos y la revalorización de su labor económicamente activa;
-
-XVIII. Llevar a cabo programas que tiendan a resolver el problema de violencia intrafamiliar, así como para prevenir los delitos contra la integridad física, económica, psicológica y sexual de las mujeres;
-
-XXIX. Asesorar a las mujeres sobre sus derechos de género contenidos en los ordenamientos legales federales y estatales;
-
-XXX. Diseñar y promover ante el Sistema Estatal de Salud, programas y acciones que den acceso a las mujeres a servicios integrales de atención a la salud en condiciones de calidad, calidez y prevención, tomando en cuenta las características particulares de su ciclo de vida, su condición social y su ubicación geográfica, garantizando la cobertura y la calidad de la asistencia médica a todas las mujeres radicadas en el Estado de Campeche;
-
-XXXI. Impulsar el acceso de las mujeres a los créditos para vivienda;
-
-XXXII. Garantizar el respeto pleno a la integridad de la mujer en los centros donde laboran;
-
-XXXIII. Proponer estímulos fiscales a los patrones para la capacitación y adiestramiento de las trabajadoras; así como proponer programas de capacitación dirigidos a las desempleadas; e
-
-XXXIV. Impulsar la creación de fuentes de empleo y el financiamiento de créditos productivos, sociales y de servicios;
-
-Dichos objetivos son de carácter enunciativos, no limitativos, pudiéndose atender todo lo relacionado a la naturaleza jurídica de el Instituto.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 8.
 
-El Instituto tiene las siguientes atribuciones:
+Para el cumplimiento de su objetivo, el Instituto tendrá las siguientes atribuciones:
 
-I. Diseñar y evaluar políticas públicas con perspectiva de género que permitan la equidad entre hombres y mujeres;
+I. Coordinar, dar seguimiento y evaluar los programas, proyectos y acciones, y la concertación social indispensable en su implementación;
 
-II. Estimular e impulsar la incorporación de la perspectiva de género en los programas de trabajo de cada dependencia del Ejecutivo, así como en el Plan Estatal de Desarrollo;
+II. Promover la cultura de la No violencia contra las mujeres, la No discriminación contra las mujeres y la igualdad de género para el fortalecimiento de la democracia;
 
-III. Propiciar, cuando proceda, el indulto a las mujeres sentenciadas por delitos del fuero común;
+III. Implementar la transversalidad de la perspectiva de género en los planes, programas y proyectos del Estado, que conlleven la integración de las mujeres a la vida económica y política del Estado;
 
-IV. Fomentar la incorporación de la perspectiva de género en la planeación, desarrollo, programación y aplicación de presupuestos de las diferentes dependencias gubernamentales;
+IV. Diseñar e Implementar medidas de capacitación y formación profesional de hombres y mujeres, con la finalidad de sensibilizarlos en el respeto a los derechos de las mujeres en los ámbitos familiar y laboral;
 
-V. Promover estudios e investigaciones para instrumentar un sistema de información, registro, seguimiento y evaluación de las condiciones sociales, políticas, económicas y culturales de las mujeres en los distintos ámbitos de la sociedad;
+V. Fomentar movimientos sociales que favorezcan una cultura de igualdad entre mujeres y hombres.
 
-VI. Definir con base en el Plan Estatal de Desarrollo, el Programa Estatal de la Mujer y ejecutar las acciones necesarias para su cumplimiento;
+VI. Promover la protección y apoyo de las mujeres que se encuentran en situaciones de vulnerabilidad;
 
-VII. Promover dentro de los órganos de Gobierno, de los organismos autónomos previstos en la Constitución Política del Estado de Campeche y entre los Gobiernos Municipales, para que cuenten con una unidad de Equidad de Género, sin que esto propicie la creación de nuevas plazas o áreas administrativas;
+VII. Promover acciones encaminadas al empoderamiento de las mujeres, sin importar su origen étnico, preferencias sexuales, nivel económico, social y cultural, o cualquier otro atributo que pudiera ser discriminatorio, mediante la realización de acciones destinadas a mejorar el nivel de vida de las mujeres;
 
-VIII. Actuar como órgano de consulta, capacitación y asesoría de las dependencias y entidades de la administración estatal, municipal y de los sectores social y privado en materia de igualdad de oportunidades entre mujeres y hombres;
+VIII. Realizar investigaciones, estudios y estadísticas en materia de igualdad de género y violencia contra las mujeres, que permitan conocer las condiciones de vida de las mujeres en el Estado, con la finalidad de que se tomen las medidas necesarias para lograr la igualdad entre mujeres y hombres;
 
-IX. Servir de enlace con las comisiones de equidad de género del H. Congreso de la Unión, del Congreso del Estado así como con la Unidad Administrativa en la materia del H. Tribunal Superior de Justicia del Estado;
+IX. Promover de forma coordinada con las dependencias y entidades de la administración pública estatal, programas especiales de atención a mujeres embarazadas, con atención especial a niñas y adolescentes embarazadas;
 
-X. Participar y organizar reuniones y ferias estatales, regionales y municipales con la finalidad de intercambiar experiencias e información relacionada con el entorno femenino;
+X. Gestionar, de forma coordinada con las dependencias y entidades de la administración pública estatal así como con las instituciones del ámbito privado, programas de asistencia social para las mujeres que se dedican a la prostitución;
 
-XI. Coadyuvar al cumplimiento de los objetivos del Instituto Nacional de las Mujeres;
+XI. Asesorar a las mujeres sobre la protección de sus derechos humanos contenidos en la Constitución Federal, en los tratados y demás instrumentos internacionales, en ordenamientos generales, estatales y municipales, así como sobre las autoridades a las que deberán acudir para su ejercicio, defensa y protección;
 
-XII. Colaborar en el diseño de programas educativos para ser aplicados por la instancia correspondiente, en los diferentes niveles de educación en los que se difunda la equidad entre los géneros;
+XII. Llevar a cabo programas enfocados en conseguir la erradicación de todos los tipos de violencia contra las mujeres en el Estado;
 
-XIII. Asegurar que los programas y proyectos en las comunidades y pueblos indígenas se respeten y rescaten los valores que enaltecen la condición de ser mujer;
+XIII. Diseñar y promover ante el sistema estatal de salud, programas y acciones que den acceso a las mujeres a servicios integrales de atención y prevención a la salud en condiciones de calidad y calidez, tomando en cuenta las características particulares de su ciclo de vida, su condición social y su ubicación geográfica y que garanticen la cobertura y la calidad de la asistencia médica a todas las mujeres radicadas en el Estado de Campeche.
 
-XIV. Diseñar, implementar y evaluar los programas destinados a la prevención y erradicación de la violencia contra las mujeres;
+XIV. Proponer e impulsar la creación de programas de capacitación a mujeres desempleadas y la creación de fuentes de autoempleo, así como el financiamiento de créditos productivos, sociales y de servicios;
 
-XV. Revisar de manera permanente la normatividad jurídica estatal que pueda contener cualquier forma de discriminación por razones de género, y propiciar su modificación;
+XV. Ejecutar una política de coordinación permanente entre las dependencias y entidades de la administración pública federal, estatal y municipal y coordinarse con los sectores sociales y privado para la promoción de los derechos de las mujeres;
 
-XVI. Propiciar la coordinación, colaboración y participación del Gobierno Estatal, Municipal y de la sociedad civil, así como con el Instituto Nacional de las Mujeres para llevar a cabo las tareas correspondientes a los temas de equidad de género;
+XVI. Garantizar el respeto pleno a la integridad de las mujeres en los centros donde laboran;
 
-XVII. Impulsar el enfoque de la perspectiva de género en la elaboración de programas sectoriales, institucionales o de las dependencias y entidades de la administración pública estatal para establecer los tiempos de aplicación, las estrategias y operación de los mismos;
+XVII. Brindar contención emocional y asesoría psicológica a las mujeres que se encuentren en situación de violencia;
 
-XVIII. Concertar y celebrar acuerdos y convenios con los poderes estatales y gobiernos municipales, y en su caso, con los sectores social, privado, nacionales e internacionales, para establecer las políticas, acciones y programas tendientes a propiciar la igualdad de oportunidades para hombres y mujeres y la no discriminación de las mujeres;
+XVIII. Diseñar y evaluar políticas públicas con perspectiva de género que permitan la igualdad entre hombres y mujeres;
 
-XIX. Impulsar la cooperación estatal, nacional e internacional para el apoyo financiero y técnico en materia de equidad de género de conformidad con las disposiciones aplicables;
+XIX. Estimular e impulsar la incorporación de la perspectiva de género en los programas de trabajo de cada dependencia del Ejecutivo, así como en el Plan Estatal de Desarrollo;
 
-XX. Recibir y canalizar propuestas, solicitudes, sugerencias e inquietudes de la mujer a los organismos públicos, privados y sociales que correspondan;
+XX. Gestionar y propiciar, cuando proceda, el indulto a las mujeres sentenciadas por delitos del fuero común;
 
-XXI. Elaborar su presupuesto de egresos conforme lo establece la Ley de Control Presupuestal y Gasto Público del Estado de Campeche;
+XXI. Fomentar la incorporación de la perspectiva de género en la planeación, desarrollo, programación y aplicación de presupuestos de las diferentes dependencias gubernamentales;
 
-XXII. Ser representante del Poder Ejecutivo del Estado ante las autoridades federales, municipales, administrativas, judiciales, legislativas, organizaciones privadas, sociales y organismos internacionales, así como en foros, convenciones, encuentros y demás reuniones en las que el Ejecutivo solicite su participación para el análisis, información y toma de decisiones sobre la situación de las mujeres en el Estado, dicha atribución la ejercerá cuando el ejecutivo lo disponga;
+XXII. Promover estudios e investigaciones para instrumentar un sistema de información, registro, seguimiento y evaluación de las condiciones sociales, políticas, económicas y culturales de las mujeres en los distintos ámbitos de la sociedad;
 
-XXIII. Promoción de programas integrales que contribuyan a erradicar las causas estructurales de la pobreza, apoyo y protección de los derechos laborales, apoyo a la micro y pequeñas empresas dirigidas por mujeres, así como el reconocimiento y valoración de su contribución del trabajo no remunerado para la economía y el bienestar de la familia;
+XXIII. Definir con base en el Plan Estatal de Desarrollo, el Programa Estatal de la Mujer y ejecutar las acciones necesarias para su cumplimiento;
 
-XXIV. Las demás que le otorgue la presente ley y otros ordenamientos legales y reglamentarios.
+XXIV. Promover dentro de los órganos de Gobierno, de los organismos autónomos previstos en la Constitución Política del Estado de Campeche y entre los Gobiernos Municipales, la creación de una unidad administrativa de Igualdad de Género, sin que esto propicie la creación de nuevas plazas o áreas administrativas;
+
+XXV. Actuar como órgano de consulta, capacitación y asesoría de las dependencias y entidades de la administración estatal, municipal y de los sectores social y privado en materia de igualdad de oportunidades entre mujeres y hombres;
+
+XXVI. Servir de enlace con las comisiones de igualdad de género del H. Congreso de la Unión, del H. Congreso del Estado así como con la unidad administrativa en la materia del H. Tribunal Superior de Justicia del Estado;
+
+XXVII. Participar y organizar reuniones y eventos estatales, regionales y municipales con la finalidad de intercambiar experiencias e información relacionada con el entorno de las mujeres;
+
+XXVIII. Coadyuvar al cumplimiento de los objetivos del Instituto Nacional de las Mujeres;
+
+XXIX. Colaborar en el diseño de programas educativos para ser aplicados por las instancias correspondientes, en los diferentes niveles de educación en los que se difunda la igualdad de género;
+
+XXX. Asegurar que los programas y proyectos en las comunidades y pueblos indígenas se respeten y rescaten los valores que enaltecen la condición de ser mujer indígena;
+
+XXXI. Diseñar, implementar y evaluar los programas destinados a la prevención y erradicación de la violencia contra las mujeres;
+
+XXXII. Revisar de manera permanente la normatividad jurídica estatal que pueda contener cualquier forma de discriminación por razones de género, y propiciar su modificación;
+
+XXXIII. Propiciar la coordinación, colaboración y participación con el Gobierno Estatal, Municipal y de la sociedad civil, así como con el Instituto Nacional de las Mujeres para llevar a cabo las tareas correspondientes a los temas de Igualdad de género;
+
+XXXIV. Impulsar el enfoque de la perspectiva de género en la elaboración de programas sectoriales, institucionales o de las dependencias y entidades de la administración pública estatal para establecer los tiempos de aplicación, las estrategias y operación de los mismos;
+
+XXXV. Concertar y celebrar acuerdos y convenios con los poderes federales, estatales y gobiernos municipales, y en su caso, con los sectores social, privado, nacionales e internacionales, para establecer las políticas, acciones y programas tendientes a propiciar la igualdad de oportunidades para hombres y mujeres y la no discriminación de las mujeres;
+
+XXXVI. Impulsar la cooperación estatal, nacional e internacional para el apoyo financiero y técnico en materia de igualdad de género de conformidad con las disposiciones aplicables;
+
+XXXVII. Recibir y canalizar propuestas, solicitudes, sugerencias e inquietudes de la mujer a los organismos públicos, privados y sociales que correspondan;
+
+XXXVIII. Elaborar su presupuesto de egresos conforme a lo establecido en la Ley de Control Presupuestal y Responsabilidad Hacendaria del Estado de Campeche;
+
+XXXIX. Ser representante del Poder Ejecutivo del Estado ante las autoridades federales, municipales, administrativas, judiciales, legislativas, organizaciones privadas, sociales y organismos internacionales, así como en foros, convenciones, encuentros y demás reuniones en las que el Ejecutivo solicite su participación para el análisis, información y toma de decisiones sobre la situación de las mujeres en el Estado; dicha atribución la ejercerá cuando el ejecutivo lo disponga;
+
+XL. Promover programas integrales que contribuyan a erradicar las causas estructurales de la pobreza, apoyo y protección de los derechos laborales, apoyo a la micro y pequeñas empresas dirigidas por mujeres, así como el reconocimiento y valoración de su contribución del trabajo no remunerado para la economía y el bienestar de la familia; y
+
+XLI. Las demás que le otorgue la presente ley y otros ordenamientos legales y reglamentarios.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 9.
 
-El Instituto se integra por:
+La administración del Instituto estará a cargo de su Junta de Gobierno y de su Directora General.
 
-I. La Junta de Gobierno;
-
-II. La Dirección General;
-
-III. El Consejo Consultivo Ciudadano;
-
-IV. Las oficinas de representación municipales que establezca el Instituto directamente o a través de convenios de colaboración y;
-
-V. El Órgano de Control Interno.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 10.
 
-El Instituto, elaborará, coordinará y ejecutará, las acciones previstas en el Programa Estatal de la Mujer, orientadas a promover el desarrollo integral de las mujeres y que constituyan los lineamientos a seguir dentro del Plan Estatal de Desarrollo, en condiciones de equidad y género.
+El Instituto elaborará, coordinará y ejecutará las acciones previstas en el Programa Estatal de la Mujer, mismas que deberán estar encaminadas a promover, difundir e implementar la igualdad de género en el Estado, conforme a lo establecido en el Plan Estatal de Desarrollo.
 
 ### CAPÍTULO III. DE LA JUNTA DE GOBIERNO
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 11.
 
 La Junta de Gobierno es el órgano superior de gobierno del Instituto y estará integrado por:
 
-I. Un Presidente, que será el Ejecutivo Estatal;
+I. Un Presidente o Presidenta, que será el o la titular de la Secretaría de Desarrollo Social y Humano; y
 
-II. Un Vicepresidente, que será el Secretario de Gobierno;
+II. Nueve Vocales, quienes tendrán derecho a voz y voto, que serán los o las titulares de:
 
-III. Nueve Vocales, quienes tendrán derecho a voz y voto, que serán:
+a) La Secretaría de Finanzas;
 
-a) El Secretario de Finanzas y Administración;
+b) La Secretaría de Salud;
 
-b) El Secretario de Salud;
+c) La Secretaría de Cultura;
 
-c) El Secretario de Desarrollo Social;
+d) La Secretaría de Educación,
 
-d) El Secretario de Educación, Cultura y Deporte;
+e) La Secretaría de Seguridad Pública;
 
-e) El Coordinador de Seguridad Pública, Vialidad y Transporte;
+f) La Fiscalía General del Estado;
 
-f) El Procurador General de Justicia;
+g) La Secretaría de Trabajo y Previsión Social;
 
-g) La Presidenta del Sistema Estatal para el Desarrollo Integral de la Familia (DIF).
+h) La Secretaría de la Contraloría;
 
-h) El Presidente de la Comisión Estatal de los Derechos Humanos, y
+i) La Comisión de Derechos Humanos del Estado.
 
-i) El Secretario de la Contraloría.
+A las sesiones de la Junta de Gobierno asistirá como invitado o invitada permanente, con derecho a voz pero sin voto, el Presidente o Presidenta del Sistema Estatal de Desarrollo Integral de la Familia.
 
-IV.- Un invitado permanente, quien tendrá voz y no voto.
+La Directora General del Instituto fungirá como Secretaria Técnica de la Junta de Gobierno con voz, pero sin voto.
 
-La Directora General del Instituto fungirá como Secretaria Técnica de la Junta de Gobierno con voz, pero sin voto; así como aquellos representantes de otras dependencias o entidades estatales, instituciones públicas, privadas o sociales, que sean invitados expresamente por la Junta de Gobierno.
+Cada miembro propietario de la Junta de Gobierno, designará suplente a efecto de que el mismo represente en casos (sic) ausencia. El cargo de miembro de la Junta de Gobierno será honorífico, por lo que no dará derecho a la percepción de alguna retribución en numerario o especie por su desempeño.
 
-El invitado permanente será el (la) representante del Consejo Consultivo Ciudadano.
-
-Cada miembro titular de la Junta de Gobierno, designará un suplente a efecto de que el mismo lo represente en sus ausencias con capacidad de decisión.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 12.
 
-La Junta de Gobierno, con la aprobación de la mayoría de sus asistentes, de acuerdo al tema que se trate en su agenda, podrá invitar a los representantes de otras dependencias e instituciones públicas federales, estatales o municipales, así como a organizaciones privadas y sociales, no comprendidas en el artículo anterior, los que tendrán derecho a voz y no a voto en la sesión o sesiones correspondientes.
+La Junta de Gobierno, con la aprobación de la mayoría de sus asistentes, de acuerdo al tema que se trate en su agenda, podrá invitar a representantes de otras dependencias e instituciones públicas federales, estatales o municipales, así como a organizaciones privadas y sociales, no comprendidas en el artículo anterior, los que tendrán derecho a voz y no a voto en la sesión o sesiones correspondientes.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 13.
 
-Para el cumplimiento de las atribuciones la Junta de Gobierno tendrá las siguientes facultades:
+Son atribuciones de la Junta de Gobierno del Instituto:
 
 I. Establecer, en congruencia con los programas sectoriales, las políticas generales y definir las prioridades a las que deberá sujetarse el Instituto;
 
-II. Aprobar el presupuesto, informes de actividades y estados financieros anuales del Instituto y autorizar su publicación;
+II. Aprobar el presupuesto, informes de actividades y estados financieros actuales del Instituto y autorizar su publicación;
 
-III. Crear las Representaciones Municipales, así como nombrar a las titulares de las mismas, a propuesta de la Directora General;
+III. Fomentar la creación de representaciones municipales del Instituto, que sean necesarias para cumplir con sus objetivos;
 
-IV. Aprobar, de acuerdo con las leyes aplicables, las políticas, bases y programas generales que regulen los convenios, contratos y acuerdos que deba celebrar el Instituto;
+IV. Aprobar, conforme a las leyes aplicables, las políticas, bases y programas generales que regulen los convenios, contratos y acuerdos que deba celebrar el Instituto;
 
-V. Establecer, observando la ley, las normas necesarias para la adquisición, arrendamiento y enajenación de inmuebles que el Instituto requiera;
+V. Fijar las condiciones generales del trabajo del Instituto con sus trabajadores;
 
-VI. Aprobar, en términos de ley, el Reglamento Interno y los Manuales de Procedimientos que correspondan;
+VI. Aprobar y expedir el Reglamento Interior y los Manuales de Organización y de Procedimientos del Instituto;
 
-VII. Fijar las condiciones generales de trabajo;
+VII. Analizar y aprobar los informes periódicos que rinda la Directora General del Instituto; y
 
-VII. Analizar, y en su caso, aprobar los informes periódicos que rinda la Directora General;
+VIII. Las demás que establezcan otras disposiciones legales y reglamentarias.
 
-IX. Nombrar al responsable de área de Control Interno, de acuerdo a lo señalado en la Ley Reglamentaria del capítulo XVII de la Constitución Política del Estado.
+Las atribuciones de la Junta de Gobierno previstas en las fracciones II, III, VI y VII de este artículo son indelegables.
 
-X. Las demás que atribuya esta ley, Reglamento Interno y disposiciones legales.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 14.
 
-La Junta de Gobierno celebrará sesiones ordinarias cada tres meses y extraordinarias cuantas veces sea necesario, a solicitud de la presidencia o de cuando menos una tercera parte de sus integrantes.
-
-La convocatoria será notificada con una antelación de cuando menos tres días hábiles, para sesiones ordinarias y de un día hábil para las extraordinarias. La inasistencia de sus integrantes deberá de comunicarse a la presidencia cuarenta y ocho horas antes de la celebración de las sesiones ordinarias y doce horas antes para las extraordinarias.
-
-La Junta de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus integrantes. Las resoluciones se tomarán por votación mayoritaria de los presentes y la presidencia tendrá voto de calidad en caso de empate.
-
-Los acuerdos de la Junta de Gobierno versarán sobre los asuntos incluidos en el orden del día, salvo supuestos de urgencia que se darán a conocer a la Junta de Gobierno con ese carácter.
+La junta de Gobierno sesionará con la periodicidad que se establezca en el Reglamento Interior del Instituto, y sesionará válidamente con la asistencia de la mitad más uno de sus integrantes y siempre que la mayoría sean representantes de la Administración Pública Estatal, salvo las excepciones que se establezcan en el Reglamento interior, el que también establecerá la forma y la temporalidad con la que deba emitirse la convocatoria.
 
 ### CAPÍTULO IV. DE LA DIRECCIÓN GENERAL
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 15.
 
-La titularidad de la Dirección General del Instituto debe recaer en una mujer, la cual deberá reunir los siguientes requisitos:
+La Dirección General del Instituto estará a cargo de una mujer, quien deberá cumplir con los siguientes requisitos:
 
-I. Ser ciudadana mexicana en pleno ejercicio de sus derechos;
+I. Ser ciudadana mexicana en pleno goce de sus derechos civiles y políticos;
 
-II. Tener 25 años cumplidos el día de su designación;
+II. Tener por lo menos veinticinco años cumplidos al día de su designación;
 
-III. Haber residido en el Estado durante los diez años anteriores al día de la designación;
+III. Tener una residencia mínima en el Estado de tres años anteriores al día de su designación;
 
-IV. Haber obtenido el título profesional en grado de licenciatura o equivalente y/o trayectoria en actividades de atención a la mujer, o tener experiencia alguna en el servicio público o privado con cinco años de experiencia por los menos;
+IV. Contar con título profesional de licenciatura en derecho, en psicología, en administración pública, en trabajo social, o en cualquier otra afín a los objetivos del Instituto;
 
-V. Ser persona de reconocida solvencia moral y profesional; y
+V. No haber obtenido sentencia condenatoria por la comisión de delitos graves ni estar inhabilitada para el ejercicio del servicio público; y
 
-VI. Que no ostente cargo de dirigencia en algún partido político al día de su designación.
+VI. No ser dirigente de ningún partido político ni asociación religiosa.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 16.
 
-El Ejecutivo del Estado, quien es Presidente de la Junta de Gobierno, propondrá una terna de mujeres, siendo la Junta de Gobierno quien designe entre la propuesta presentada, a la Directora del Instituto de la Mujer del Estado de Campeche.
+La Directora General será nombrada por el Gobernador del Estado o, a indicación de éste, por el o la titular de la dependencia coordinadora de sector.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 17.
 
-Las ausencias por períodos de más de treinta días hábiles de la Titular de la Dirección del Instituto, serán suplidas por la persona que la Junta de Gobierno designe.
+Las ausencias de las y los servidores públicos del Instituto serán suplidas de la forma en que se establezca en el Reglamento Interior del Instituto.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 18.
 
-La titular del Instituto tendrá las siguientes facultades:
+La Directora General del Instituto tendrá las siguientes facultades:
 
-I. Formar parte de la Junta de Gobierno, con derecho a voz;
+I. Administrar y representar legalmente al Instituto;
 
-II. Administrar y representar legalmente al Instituto;
+II. Convocar a las sesiones de la Junta del Gobierno;
 
-III. Convocar las sesiones de la Junta de Gobierno;
+III. Celebrar y otorgar toda clase de actos y documentos inherentes al objeto del Instituto;
 
-IV. Celebrar y otorgar toda clase de actos y documentos inherentes al objeto del Instituto;
+IV. Instrumentar, ejecutar y vigilar el cumplimiento de los acuerdos de la Junta de Gobierno;
 
-V. Instrumentar, ejecutar y vigilar el cumplimiento de los acuerdos de la Junta de Gobierno;
+V. Elaborar y presentar a la aprobación de la Junta de Gobierno el Reglamento Interior y los Manuales de Organización y Procedimientos del Instituto;
 
-VI. Presentar a consideración y, en su caso, aprobación de la Junta de Gobierno, el Reglamento Interno, la organización general del organismo y los manuales de procedimientos;
+VI. Formular anualmente el anteproyecto de presupuesto del Instituto y someterlo a aprobación de la Junta de Gobierno;
 
-VII. Presentar a consideración y, en su caso, aprobación de la Junta de Gobierno, el Reglamento Interior del Instituto, así como el Manual de Procedimientos Administrativos;
+VII. Ejercer el presupuesto del Instituto con sujeción a las disposiciones legales, reglamentarias y administrativas aplicables;
 
-VIII. Formular los programas institucionales de corto, mediano y largo plazos;
+VIII. Presentar a la Junta de Gobierno para su aprobación, los proyectos de programas, informes y estados financieros del Instituto y los que específicamente le solicite aquélla;
 
-IX. Formular anualmente el anteproyecto de presupuesto del Instituto para someterlo a la aprobación de la Junta de Gobierno;
+IX. Establecer los sistemas de control necesarios para alcanzar las metas u objetivos propuestos;
 
-X. Ejercer el presupuesto del Instituto con sujeción a las disposiciones legales, reglamentarias y administrativas aplicables;
+X. Someter a la Junta de Gobierno su informe anual de desempeño y darlo a conocer a la sociedad en general mediante su publicación en la página electrónica del Instituto;
 
-XI. Presentar a la Junta de Gobierno para su aprobación, los proyectos de programas, informes y estados financieros del Instituto y los que específicamente le solicite aquella;
+XI. Recabar información y elementos estadísticos sobre las funciones del Instituto para mejoras (sic) su desempeño;
 
-XII. Nombrar o remover al personal administrativo del Instituto; suscribir en su caso, los contratos que regulen las relaciones laborales de la entidad con sus trabajadores;
+XII. Integrar el Consejo Consultivo Ciudadano;
 
-XIII. Establecer los sistemas de control necesarios para alcanzar las metas u objetivos propuestos;
+XIII. Otorgar poderes generales y especiales con las facultades que les competan, entre ellas las que requieran autorización o cláusula especial;
 
-XIV. Someter a la Junta de Gobierno el informe anual sobre el desempeño de las funciones del Instituto, invitando a dicha sesión al Presidente del Tribunal Superior de Justicia del Estado y al Presidente de la Gran Comisión del H. Congreso del Estado y darlo a conocer a la sociedad mediante su publicación;
+XIV. Definir las políticas de instrumentación de los sistemas de control que fueren necesarios, así como tomar las decisiones correspondientes para corregir las deficiencias que se detectan y presentar a la Junta de Gobierno informes periódicos sobre los objetivos del sistema de control; y
 
-XV. Recabar información y elementos estadísticos sobre las funciones del Instituto, para mejorar su desempeño;
-
-XVI. Integrar el Consejo Consultivo Ciudadano;
-
-XVII. Proponer a la Junta de Gobierno, las políticas generales que en materia de equidad de género, de igualdad de oportunidades y de trato para las mujeres habrá de seguir el Instituto ante los órganos gubernamentales y las organizaciones privadas o no gubernamentales, estatales, nacionales e internacionales;
-
-XVIII. Someter a la consideración, proyectos de informes anuales, así como los especiales que serán presentados a la Junta de gobierno.
-
-XIX. Otorgar poderes para pleitos y cobranzas.
-
-XX. Cumplir y hacer cumplir los sistemas de control que determine el Contralor Interno, encaminados para alcanzar las metas u objetivos propuestos en los programas y presupuestos.
-
-XXI. Las demás que le confieran esta ley, el Reglamento Interior del Instituto o las derivadas de los acuerdos de la Junta de Gobierno.
+XV. Las demás que establezcan otras disposiciones legales y reglamentarias.
 
 ### CAPÍTULO V. DEL CONSEJO CONSULTIVO CIUDADANO
 
@@ -397,23 +365,31 @@ XXI. Las demás que le confieran esta ley, el Reglamento Interior del Instituto 
 
 El Instituto contará con un Consejo Consultivo Ciudadano, que será el órgano de representación ciudadana del Instituto.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 20.
 
-El Consejo Consultivo Ciudadano será un órgano asesor y promotor de las acciones que se emprendan en beneficio de las mujeres en el marco de esta ley, así como un órgano de análisis, evaluación y seguimiento de las políticas públicas, programas, proyectos y acciones que se realicen con el mismo propósito. Estará integrado por un número de doce, cuyos participantes no percibirán remuneración, emolumento o compensación alguna y se seleccionarán entre las personas representativas de los diferentes sectores de la sociedad; así como también, por un representante del Tribunal Superior de Justicia y dos representantes de la Comisión de Equidad y Género, Atención a Grupos Vulnerables y Etnias Indígenas del Congreso del Estado.
+El Consejo Consultivo Ciudadano será un órgano asesor y promotor de las acciones que se emprendan en beneficio de las mujeres en el marco de esta ley, así como un órgano de análisis, evaluación y seguimiento de las políticas públicas, programas, proyectos y acciones que se realicen con el mismo propósito. Estará integrado por un número de doce personas, quienes no percibirán remuneración, emolumento o compensación alguna y se seleccionarán entre las personas representativas de los diferentes sectores de la sociedad; así como también, por un o una representante del Tribunal Superior de Justicia y un representante de cada una de las Comisiones de Igualdad de Género y, de Atención a Grupos Vulnerables del H. Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 21.
 
-Las integrantes del Consejo Consultivo Ciudadano durarán en su cargo tres años, pudiendo permanecer un período más. Los nuevos integrantes deberán representar a organizaciones distintas de las representadas en el período inmediato anterior. El Consejo Consultivo Ciudadano presentará un informe anual a la Junta de Gobierno.
+Las y los integrantes del Consejo Consultivo Ciudadano durarán en su cargo tres años y podrán permanecer un período más. Los y las que inicien en el cargo deberán representar a organizaciones distintas de las representadas en el período inmediato anterior. El Consejo Consultivo Ciudadano presentará un informe anual a la Junta de Gobierno.
 
 ###### ARTÍCULO 22.
 
 El Consejo Consultivo Ciudadano colaborará con el Instituto en los casos siguientes:
 
-I. Fungir como órgano de asesoría y consulta del Instituto en lo relativo al programa nacional para la igualdad de oportunidades y no discriminación contra las mujeres y en los demás asuntos en materia de equidad de género y mujeres que sean sometidas a consideración;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2016)</small>
+
+I. Fungir como órgano de asesoría y consulta del Instituto en lo relativo al programa nacional para la igualdad de oportunidades y no discriminación contra las mujeres, y en los demás asuntos en materia de Igualdad de género y mujeres que sean sometidos a consideración;
 
 II. Impulsar y favorecer la participación de los sectores interesados en las acciones relacionadas con el objeto de esta ley;
 
-III. Promover vínculos de coordinación con los responsables de las iniciativas a favor de la equidad e igualdad de oportunidades de las mujeres en las instancias de gobierno, así como con los sectores y organizaciones de la sociedad en general;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2016)</small>
+
+III. Promover vínculos de coordinación con los y las responsables de las iniciativas a favor de la igualdad de oportunidades de las mujeres en las instancias de gobierno, así como con los sectores y organizaciones de la sociedad en general;
 
 IV. Apoyar el fortalecimiento de las organizaciones de mujeres y de las que trabajen a favor de las mujeres;
 
@@ -447,25 +423,37 @@ El Instituto podrá celebrar convenios de coordinación con los Ayuntamientos qu
 
 PARA LAS MUJERES
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 25.
 
-El Instituto solicitará a los titulares de las dependencias y entidades de la administración pública estatal, a los titulares de los órganos de impartición de justicia estatal, así como al Congreso del Estado, su colaboración, a efecto de que le remitan la información pertinente en materia de equidad de género y derechos de las mujeres, así como su colaboración dentro del área de su competencia, en la elaboración, ejecución y seguimiento del Programa Estatal para las Mujeres.
+El Instituto solicitará a los y las titulares de las dependencias y entidades de la administración pública estatal, a los y las titulares de los órganos de impartición de justicia estatal, así como al Congreso del Estado, su colaboración a efecto de que le remitan la información pertinente en materia de igualdad de género y derechos de las mujeres, así como su colaboración dentro del área de su competencia, en la elaboración, ejecución y seguimiento del Programa Estatal para las Mujeres.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 26.
 
 Las autoridades y servidores públicos estatales y municipales proporcionarán al Instituto la información y datos que éste les solicite, en los términos de los acuerdos que al efecto se celebren.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 27.
 
-Las dependencias y entidades de la administración pública estatal, los órganos de impartición de justicia estatal, así como el Congreso del Estado, en el ejercicio de sus atribuciones y funciones incorporarán el enfoque de género en sus políticas, programas y acciones institucionales.
+Las dependencias y entidades de la administración pública estatal, los órganos de impartición de justicia estatal, así como el H. Congreso del Estado, en el ejercicio de sus atribuciones y funciones incorporarán el enfoque de género en sus políticas, programas y acciones institucionales.
 
-Como resultado de la evaluación del Programa Estatal para las Mujeres, el Instituto podrá emitir opiniones y propuestas dirigidas a los legisladores, autoridades y servidores públicos a que se refiere el párrafo anterior, relacionadas con la ejecución del citado Programa.
+Como resultado de la evaluación del Programa Estatal para las Mujeres, el Instituto podrá emitir opiniones y propuestas dirigidas a las y los legisladores, autoridades y servidores públicos que se refiere el párrafo anterior, relacionadas con la ejecución del citado Programa.
 
-### CAPÍTULO VIII. DEL ÓRGANO DE CONTROL INTERNO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JULIO DE 2016)</small>
+
+### CAPÍTULO VIII. DEL ÓRGANO DE VIGILANCIA Y DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 28.
 
-El Órgano de Control Interno es el área de apoyo que tiene a su cargo ejercer, dentro del ámbito del Instituto, las atribuciones que la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche confiere a los órganos internos de control.
+El Instituto contará con un órgano de vigilancia integrado por una o un comisario público y su suplente designados por la Secretaría de la Contraloría de la Administración Pública del Estado y tendrá las facultades que señala la Ley de la Administración Pública Paraestatal del Estado de Campeche.
+
+Además, el Instituto contará con un órgano interno de control cuyo personal estará presupuestal y orgánicamente adscrito a la Secretaría de la Contraloría, con las facultades que establece la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche
 
 ### CAPÍTULO IX. DEL PATRIMONIO Y
 
@@ -501,19 +489,25 @@ El Instituto queda sometido a las reglas de contabilidad, presupuesto y gasto p�
 
 ### CAPÍTULO X. DEL RÉGIMEN LABORAL
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 34.
 
-Para efectos de la presente Ley, los servidores públicos del Instituto regirán su relación laboral, de conformidad con la Ley de los Trabajadores al Servicio del Gobierno del Estado de Campeche, a su Reglamento Interior de Trabajo y a las disposiciones jurídicas que se dicten por el Instituto.
+Para efectos de la presente Ley, las y los servidores públicos del Instituto regirán su relación laboral conforme a lo establecido en la Ley de los Trabajadores al Servicio del Gobierno del Estado de Campeche y a las condiciones generales de trabajo que para tal efecto se establezcan.
 
 ### CAPÍTULO XI. DISPOSICIONES COMPLEMENTARIAS
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 35.
 
-El Instituto solicitará a los titulares de las dependencias y entidades de la administración pública estatal, los titulares de los órganos de impartición de justicia estatal, así como al presidente de la Gran Comisión o Comisión de Gobierno y Administración del Congreso del Estado, la información pertinente en materia de equidad de género y de las mujeres, así como su colaboración en el área de su competencia, en la elaboración, ejecución y seguimiento del programa para la igualdad de oportunidades y no discriminación contra las mujeres.
+El Instituto solicitará a las y los titulares de las dependencia y entidades de la administración pública estatal, a los órganos de impartición de justicia y a la Junta de Administración y Gobierno del H. Congreso del Estado, la información pertinente en materia de Igualdad de Género, así como su colaboración en el área de su competencia, en la elaboración, ejecución y seguimiento del Programa para la igualdad de oportunidades y no discriminación contra las Mujeres.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 36.
 
-Las autoridades y servidores públicos estatales y municipales deberán proporcionar al Instituto la información y datos que éste les solicite, en los términos de los acuerdos y/o convenios que al efecto se celebren.
+Las autoridades y las y los servidores públicos estatales y municipales deberán proporcionar al Instituto la información y datos que este les solicite, en los términos de los acuerdos y convenios que al efecto se celebren.
 
 ###### ARTÍCULO 37.
 
@@ -542,3 +536,17 @@ En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XXVIII 
 Dado en el Palacio de gobierno del Estado, en Campeche, el día cinco de julio del año dos mil cuatro.
 
 WEL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CARLOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS FELIPE ORTEGA RUBIO.- RUBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 62 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, LAS FRACCIONES I Y III DEL ARTÍCULO 22, 25, 26, 27, LA DENOMINACIÓN DEL CAPÍTULO VIII PARA QUEDAR COMO CAPÍTULO VIII “DEL ÓRGANO DE VIGILANCIA Y DEL ÓRGANO INTERNO DE CONTROL”, 28, 34, 35 Y 36, TODOS DE LA LEY DEL INSTITUTO DE LA MUJER DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en todo lo que se opongan al contenido de este decreto.
+
+TERCERO.- La nueva Junta de Gobierno del Instituto deberá realizar su sesión de instalación en un plazo no mayor a treinta días naturales posteriores a la entrada en vigor del presente decreto.
+
+CUARTO.- La nueva Junta de Gobierno deberá emitir el Reglamento Interior del Instituto en un plazo no mayor a sesenta días naturales posteriores a la entrada en vigor del presente decreto.
