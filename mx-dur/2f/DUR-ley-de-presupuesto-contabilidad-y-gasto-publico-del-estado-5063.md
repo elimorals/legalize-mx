@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-5063
 country: "mx"
 rank: "ley"
 publication_date: "1980-08-14"
-last_updated: "2014-02-16"
+last_updated: "2016-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2016.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el 14 de Agosto de 1980.
 
@@ -377,11 +377,11 @@ La Secretaría de Finanzas girará las instrucciones sobre la forma y términos 
 
 Asimismo, examinará periódicamente el funcionamiento del sitema (sic) y los procedimientos de contabilidad de cada Entidad y podrá autorizar expresamente su modificación o simplificación.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 44.
 
-Los estados financieros y demás información financiera presupuestal y contable que emanen de las contabilidades de las Entidades comprendidas en el Presupuesto de Egresos del Estado, serán consolidadas por la Secretaría de Finanzas, la que será responsable de formular la Cuenta Anual de Gasto Estatal y someterlo a la consideración del Gobernador del Estado, para su presentación al Congreso del Estado en los términos del Artículo 70 Fracción XIV de la Constitución Política del Estado.
+Los estados financieros y demás información financiera presupuestal y contable que emanen de las contabilidades de las Entidades comprendidas en el Presupuesto de Egresos del Estado, serán consolidadas por la Secretaría de Finanzas, la que será responsable de formular la Cuenta Anual de Gasto Estatal y someterlo a la consideración del Gobernador del Estado, para su presentación al Congreso del Estado, en los términos del Artículo 98 Fracción XXIV de la Constitución Política del Estado.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1984)</small>
 
@@ -405,11 +405,11 @@ Por lo que respecta al ejercicio del Gasto Público Municipal, éste se ejercer�
 
 Los Municipios llevarán su propia contabilidad, la que estará constituida con las mismas cuentas que establece el Artículo 40 de esta Ley. Debiendo formular su Catálogo de Cuentas, similar al que utiliza la Secretaría de Finanzas.
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 48.
 
-Los Municipios presentarán ante el Congreso del Estado, durante la segunda quincena del mes de Marzo de cada año, la Cuenta Pública del año anterior para su aprobación.
+Los Municipios presentarán ante el Congreso del Estado, a más tardar en el mes de febrero de cada año, la Cuenta Pública del año anterior para su aprobación.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1984)</small>
 
@@ -552,6 +552,14 @@ P.O. 21 DE DICIEMBRE DE 1995.
 UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 16 DE FEBRERO DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 7 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 560.- QUE CONTIENE REFORMAS A LOS ARTÍCULOS 44 Y 48 DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE DURANGO”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
