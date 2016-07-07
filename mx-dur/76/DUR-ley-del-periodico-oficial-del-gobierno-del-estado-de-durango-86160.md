@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-periodico-oficial-del-gobierno-del-estado-de-durango-86
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-29"
-last_updated: "2011-12-29"
+last_updated: "2016-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DEL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de diciembre de 2011.
 
@@ -75,7 +75,9 @@ III. Secretario. El Secretario General de Gobierno;
 
 IV. Estado. El Estado Libre y Soberano de Durango;
 
-V. Periódico Oficial. El Periódico Oficial del Gobierno Constitucional del Estado de Durango, y
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2016)</small>
+
+V. Periódico Oficial. El Periódico Oficial del Gobierno del Estado de Durango, y
 
 VI. Poderes del Estado. Los Poderes Legislativo, Ejecutivo y Judicial del Estado de Durango.
 
@@ -283,9 +285,11 @@ Cuando la autoridad emisora del documento objeto de corrección solicite una fe 
 
 En los índices, trimestrales y anual, se especificarán las erratas de que haya sido objeto el documento publicado, mediante los datos de localización del Periódico Oficial.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
+
 ###### Artículo 25.
 
-En el caso de leyes o decretos que hayan sido devueltos con observaciones por el Gobernador y fuesen aprobados por las dos terceras partes de los Diputados presentes de acuerdo al artículo 52 de la Constitución Política del Estado Libre y Soberano de Durango, deberán ser publicadas a más tardar dentro de los cinco días hábiles, a partir de su recepción.
+En el caso de leyes o decretos que hayan sido devueltos con observaciones por el Gobernador y fuesen aprobados por las dos terceras partes de los diputados presentes de acuerdo al artículo 80 de la Constitución Política del Estado Libre y Soberano de Durango, deberán ser publicadas a más tardar dentro de los cinco días hábiles, a partir de su recepción.
 
 ###### Artículo 26.
 
@@ -384,3 +388,13 @@ C. P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ING. HECTOR EDUARDO VELA VALENZUELA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 558.- QUE CONTIENE REFORMAS A LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE DURANGO".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
