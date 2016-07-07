@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-el-otorgamiento-de-becas-y-estimulos-56642"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-14"
-last_updated: "2011-12-08"
+last_updated: "2016-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56642&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE REGULA EL OTORGAMIENTO DE BECAS Y ESTÍMULOS EDUCATIVOS DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE JULIO DE 2016.
 
 Ley publicada en la Edición Especial No. 5 al Boletín Oficial del Estado de Sonora, el martes 14 de agosto de 2007.
 
@@ -389,13 +389,21 @@ Las relaciones de trabajo entre el Instituto y sus trabajadores se regirán por 
 
 Las modalidades de becas y estímulos educativos disponibles en el Gobierno del Estado, son de manera enunciativa y no limitativa, las siguientes:
 
+> <small>(REFORMADA, B.O. 7 DE JULIO DE 2016)</small>
+
 I.- Becas:
 
-A) Para alumnos de escuelas públicas: Las orientadas a apoyar a los alumnos inscritos en instituciones educativas oficiales que cuentan con un promedio sobresaliente;
+A) Para alumnos de escuelas públicas de educación primaria y secundaria: Las orientadas a apoyar a los alumnos inscritos en instituciones educativas oficiales que cuentan con un promedio sobresaliente;
 
-B) Para alumnos de escuelas particulares: Las orientadas a apoyar a los alumnos inscritos en instituciones educativas particulares que cuentan con un promedio sobresaliente; y
+B) Para alumnos de escuelas particulares de educación básica: Las orientadas a apoyar a los alumnos inscritos en instituciones educativas particulares que cuentan con un promedio igual o superior a 9.0;
 
-C) Especiales: Las orientadas a apoyar a alumnos con alguna discapacidad de las previstas en la Ley de Integración Social para Personas con Discapacidad y aquellos que habitan en comunidades indígenas, en zonas rurales o urbanas marginadas y en condiciones de pobreza extrema; y
+C) Para alumnos de escuelas particulares de educación media superior y superior: las orientadas a apoyar a los alumnos inscritos en instituciones educativas particulares que cuentan con un promedio de 8.5 o superior y que sean alumnos regulares;
+
+D) Especiales para alumnos de escuelas públicas de educación primaria y secundaria: Las orientadas a apoyar a alumnos inscritos en instituciones educativas públicas y que tengan alguna discapacidad de las previstas en la Ley de Integración Social para Personas con Discapacidad, a aquellos que habitan en comunidades indígenas, en zonas rurales o urbanas marginadas en condiciones de pobreza extrema, a hijos de madres jefas de familia, a hijos de padres que tengan alguna discapacidad de las previstas en la Ley de Integración Social para Personas con Discapacidad, a hijos de padre que aporte el único sustento económico de la familia, a hijo e hijas de padres desempleados y/o jubilados que cuenten con promedio aprobatorio y sin materias reprobadas;
+
+E) Para alumnos de escuelas públicas de educación media superior: las orientadas a apoyar a los alumnos inscritos en instituciones educativas públicas que cuentan con un promedio de 8.5 o superior y que sean alumnos regulares; y
+
+F) Para los alumnos de escuelas públicas de educación superior: Las orientadas a apoyar a los alumnos inscritos en instituciones públicas de educación superior, que sean alumnos regulares, no debiendo adeudar asignaturas de ciclos escolares anteriores y cursar las materias de acuerdo con el plan de estudios correspondiente; quedarán exentos de este requisito los siguientes casos; alumnos inscritos en el Registro Nacional de Víctimas, inscritos en el primer y segundo año de su plan de estudios y provenir de un hogar cuyo ingreso (sic) igual o menor a cuatro salarios mínimos per cápita mensuales.
 
 II.- Estímulos educativos:
 
@@ -413,7 +421,9 @@ F) Al talento emprendedor: Los orientados a reconocer e incentivar a los alumnos
 
 G) Al desarrollo integral: Los orientados a reconocer e incentivar a los alumnos de escasos recursos económicos que requieran de un apoyo económico para asistir a cursos o congresos o realizar viajes de estudios, misiones comerciales o prácticas profesionales fuera del Estado.
 
-Las becas señaladas en el inciso B) de la fracción I del presente artículo no consistirán en la entrega de numerario sino en la deducción correspondiente al monto de la colegiatura del becario por parte de las instituciones educativas particulares que cuenten con autorización o reconocimiento de validez oficial de estudios otorgados por la Secretaría, en términos de la legislación aplicable.
+> <small>(REFORMADO, B.O. 7 DE JULIO DE 2016)</small>
+
+Las becas señaladas en los incisos B) y C) de la fracción I del presente artículo no consistirán en la entrega de numerario sino en la deducción del porcentaje que la Junta Directiva acuerde correspondiente al monto de la colegiatura del becario por parte de las instituciones educativas particulares que cuenten con autorización o reconocimiento de validez oficial de estudios otorgados por la Secretaría, en términos de la legislación aplicable.
 
 Además de las modalidades de becas y estímulos educativos anteriores, el Gobierno del Estado podrá ofrecer y otorgar otras con fines educativos, debiendo observar para tal efecto las disposiciones previstas en la presente Ley y su Reglamento.
 
@@ -461,37 +471,47 @@ II.- No haber reprobado materia alguna durante el ciclo escolar inmediato anteri
 
 III.- Llenar, firmar y entregar oportunamente la solicitud respectiva, acompañando a la misma los documentos que acrediten su desempeño académico, deportivo, cultural, cívico, emprendedor y su situación económica, según corresponda, conforme a lo establecido en el Reglamento de la presente Ley.
 
+> <small>(REFORMADO, B.O. 7 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 31.
 
 Además de los requisitos generales aplicables a los aspirantes a recibir beca o estímulo educativo, en el caso específico de las becas para alumnos de escuelas públicas y particulares y estímulos a la excelencia, para estudios de posgrado, deportivo, cultural, cívico, emprendedor y al desarrollo integral, se requerirán los siguientes:
 
-I.- Para el caso de las becas para alumnos de escuelas públicas y particulares, acreditar un promedio general igual o superior a 9.0, tanto en educación básica como en los niveles medio superior y superior;
+I.- Para el caso de las becas especiales contempladas en el inciso D) del artículo 25 de esta Ley, tener un promedio aprobatorio y sin materias reprobadas;
 
-II.- Para el caso de los estímulos a la excelencia, se deberá acreditar un promedio general de 10;
+II.- Para el caso de las becas para alumnos de escuelas públicas de educación primaria y secundaria, tener promedio sobresaliente y no haber reprobado;
 
-III.- Para el caso de los estímulos para estudios de posgrado, deportivo, cultural, cívico y emprendedor, se deberá acreditar un promedio general obtenido en el ciclo escolar en curso o inmediato anterior igual o superior a 8.0 y su talento correspondiente con pruebas de aptitud o reconocimientos obtenidos a nivel nacional o internacional. Excepcionalmente se considerarán reconocimientos obtenidos a nivel regional; y
+III.- Para el caso de las becas para alumnos de escuelas particulares, los de primaria y secundaria deberán acreditar un promedio general igual o superior a 9.0, priorizando alumnos solicitantes con discapacidad. Para el caso de educación media superior y superior, los alumnos deberán contar con un promedio de 8.5 o superior;
 
-IV.- Para el caso de los estímulos al desarrollo integral, se deberá acreditar un promedio general obtenido en el ciclo escolar en curso o inmediato anterior igual o superior a 8.5.
+IV.- Para el caso de los estímulos a la excelencia, se deberá acreditar un promedio general de 10 y se garantizará la beca atendiendo lo dispuesto en el artículo 25 de esta Ley;
+
+V.- Para el caso de las becas para alumnos de escuelas públicas de educación superior, ser alumno regular, no adeudar asignaturas de ciclos escolares anteriores y cursar las materias de acuerdo con el plan de estudios que corresponde, los alumnos de licenciatura a partir del quinto semestre y los alumnos de técnico superior universitario a partir del cuarto semestre deberán tener un promedio general mínimo de 8.0;
+
+VI.- Para el caso de los estímulos para estudios de posgrado, deportivo, cultural, cívico y emprendedor, se deberá acreditar un promedio general obtenido en el ciclo escolar en curso o inmediato anterior igual o superior a 8.0 y su talento correspondiente con pruebas de aptitud o reconocimientos obtenidos a nivel nacional o internacional. Excepcionalmente se considerarán reconocimientos obtenidos a nivel regional; y
+
+VII.- Para el caso de los estímulos al desarrollo integral, se deberá acreditar un promedio general obtenido en el ciclo escolar en curso o inmediato anterior igual o superior a 8.5.
+
+> <small>(REFORMADO, B.O. 7 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 32.
 
-Los criterios para la selección de becarios serán, sin guardar orden jerárquico entre éstos, los siguientes:
+Los criterios para la selección de becarios serán, guardando un orden jerárquico entre éstos, los siguientes:
 
-I.- Alumnos que cuenten con un promedio sobresaliente y sean de escasos recursos económicos;
+I.- Alumnos con alguna discapacidad de las previstas en la Ley de Integración Social para Personas con Discapacidad y sean de escasos recursos económicos;
 
-II.- Alumnos que habiten en comunidades indígenas, en zonas rurales o urbanas marginadas y en condiciones de pobreza extrema;
+II.- Alumnos en condiciones de pobreza extrema;
 
-III.- Alumnos cuyo padre sea desempleado, jubilado o con discapacidad de acuerdo a lo dispuesto por la Ley de Integración Social para Personas con Discapacidad y de escasos recursos económicos;
+III.- Alumnos que habiten en comunidades indígenas, en zonas rurales o urbanas marginadas y sean de escasos recursos económicos;
 
-IV.- Alumnos cuya madre sea viuda o soltera y de escasos recursos económicos;
+IV.- Alumnos que dependan de sus abuelos y que sean de escasos recursos económicos;
 
-V.- Alumnos que requieran desplazarse a lugares distintos a los de su residencia para realizar sus estudios y de escasos recursos económicos;
+V.- Alumnos cuya madre sea jefa de familia, viuda o soltera o cuyo padre sea el único sustento económico familiar y sean de escasos recursos económicos;
 
-VI.- Alumnos con alguna discapacidad de las previstas en la Ley de Integración Social para Personas con Discapacidad; y
+VI.- Alumnos cuya madre o padre sea (sic) desempleados, jubilados o con discapacidad de acuerdo a lo dispuesto por la Ley de Integración Social para Personas con Discapacidad y sean de escasos recursos económicos;
 
-VII.- Alumnos que dependan de sus abuelos y que sean de escasos recursos económicos.
+VII.- Alumnos que cuenten con un promedio sobresaliente y sean de escasos recursos económicos; y
 
-En el caso de becas especiales, los criterios anteriores sólo serán aplicables en supuestos en los que, por igualdad de circunstancias, sea necesario aplicar criterios adicionales para la asignación de las mismas.
+VIII.- Alumnos que requieran desplazarse a lugares distintos a los de su residencia para realizar sus estudios y de escasos recursos económicos.
 
 ###### ARTÍCULO 33.
 
@@ -593,7 +613,7 @@ Una vez desahogadas las pruebas o concluido el plazo señalado en el párrafo an
 
 ###### ARTÍCULO 40.
 
-El Gobierno del Estado de Sonora contará con un Fondo de Becas de Posgrado para Jóvenes Sonorenses, el cual tendrá como objetivo impulsar el desarrollo y la formación académica de jóvenes sonorenses mediante el otorgamiento de becas de posgrado que faciliten su acceso a programas de calidad de dicho nivel educativo en el país o en el extranjero, buscando potencializar sus habilidades, bajo el compromiso del becario de aplicar, una vez terminado (sic) sus estudios, sus conocimientos en beneficio social, tecnológico, científico, económico, político, académico o cultural del Estado de Sonora.
+El Gobierno del Estado de Sonora contará con un Fondo de Becas de Posgrado para Jóvenes Sonorenses, el cual tendrá como objetivo impulsar el desarrollo y la formación académica de jóvenes sonorenses mediante el otorgamiento de becas de posgrado que faciliten su acceso a programas de calidad de dicho nivel educativo en el país o en el extranjero, buscando potencializar sus habilidades, bajo el compromiso del becario de aplicar, una vez terminado sus estudios, sus conocimientos en beneficio social, tecnológico, científico, económico, político, académico o cultural del Estado de Sonora.
 
 > <small>(ADICIONADO, B.O. 8 DE DICIEMBRE DE 2011)</small>
 
@@ -808,3 +828,11 @@ Para el próximo ejercicio fiscal, el Congreso del Estado de Sonora tomará las 
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 7 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 74, QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY QUE REGULA EL OTORGAMIENTO DE BECAS Y ESTÍMULOS EDUCATIVOS DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno el (sic) Estado de Sonora.
