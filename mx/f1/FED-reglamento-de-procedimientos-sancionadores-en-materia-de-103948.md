@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-procedimientos-sancionadores-en-materia-de-103948
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-12-22"
-last_updated: "2016-05-30"
+last_updated: "2016-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103948&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-11-19"
 
 REGLAMENTO DE PROCEDIMIENTOS SANCIONADORES EN MATERIA DE FISCALIZACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JULIO DE 2016.
 
 Reglamento publicado en la Quinta Sección del Diario Oficial de la Federación, el lunes 22 de diciembre de 2014.
 
@@ -259,6 +259,8 @@ XXIII. Unidad Técnica: Unidad Técnica de Fiscalización.
 
 Supletoriedad
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 7 DE JULIO DE 2016)</small>
+
 1. Para la tramitación, sustanciación y resolución de los procedimientos objeto de este reglamento, a falta de disposición expresa, se aplicará supletoriamente la Ley General y la Ley del Sistema.
 
 > <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2016)</small>
@@ -279,7 +281,11 @@ Competencia
 
 2. La Unidad Técnica es el órgano responsable de tramitar y sustanciar los procedimientos en materia de fiscalización para formular los Proyectos de Resolución que presente a la Comisión y, en su caso, proponer las sanciones correspondientes.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 7 DE JULIO DE 2016)</small>
+
 3. Si de los hechos investigados se advierte una posible violación a disposiciones legales que no se encuentren relacionadas con esta materia, la Unidad Técnica deberá hacerlo del conocimiento a las autoridades competentes o, en su caso, se ordenará una vista a través de la Resolución respectiva que apruebe el Consejo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 7 DE JULIO DE 2016)</small>
 
 4. Cuando se considere necesario que otras autoridades tengan conocimiento de las resoluciones recaídas a los procedimientos por su relación con los efectos de las mismas, se les remitirá copia de la misma.
 
@@ -289,7 +295,11 @@ Competencia
 
 Vistas
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 7 DE JULIO DE 2016)</small>
+
 1. Los órganos desconcentrados del Instituto auxiliarán a la Unidad Técnica en las labores que le solicite, de acuerdo al manual, que para esos efectos apruebe la Comisión.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 7 DE JULIO DE 2016)</small>
 
 2. La Unidad Técnica deberá capacitar a los órganos desconcentrados para el auxilio de sus funciones.
 
@@ -311,7 +321,11 @@ Notificaciones
 
 4. Por regla general la notificación se desarrolla en un acto y por tanto se entenderá efectuada en la fecha asentada en el acta correspondiente, regla que también se aplicará cuando la diligencia se prolongue por causa justificada imputable a quien se notifica;
 
-5. La Unidad Técnica podrá autorizar al personal a su cargo para que realice las diligencias de notificación en los plazos correspondientes. Asimismo, podrá auxiliarse de las Juntas Locales y Distritales o del área de notificaciones que el Instituto determine, quiénes designarán al personal para realizarlas en cuyo caso, y si la urgencia lo amerita, podrán remitir dichas diligencias por correo electrónico a la cuenta que la Unidad Técnica determine para tal efecto, sin que esto exima a los responsables de las Juntas Locales y Distritales para que realicen el envío de las constancias originales de forma física, y
+> <small>(REFORMADO, D.O.F. 7 DE JULIO DE 2016)</small>
+
+5. La Unidad Técnica podrá autorizar al personal a su cargo para que realice las diligencias de notificación en los plazos correspondientes. Asimismo, podrá auxiliarse de las Juntas Locales y Distritales o del área de notificaciones que el Instituto determine, quiénes designarán al personal para realizarlas en cuyo caso, y si la urgencia lo amerita, podrán remitir dichas diligencias por correo electrónico a la cuenta que la Unidad Técnica determine para tal efecto, sin que esto exima a los responsables de las Juntas Locales y Distritales para que realicen el envío de las constancias originales de forma física; y
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 7 DE JULIO DE 2016)</small>
 
 6. Las notificaciones podrán hacerse de manera personal, por oficio, o por la vía electrónica que para tales efectos disponga la Unidad Técnica.
 
@@ -320,6 +334,8 @@ Notificaciones
 ###### Artículo 8.
 
 Tipo de Notificaciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 7 DE JULIO DE 2016)</small>
 
 1. Las notificaciones se harán:
 
@@ -342,6 +358,8 @@ II. Las notificaciones a coaliciones se realizarán en las oficinas del partido 
 d) Automática, se entenderá hecha al momento de la aprobación por el Consejo de la Resolución que ponga fin a un procedimiento, si el interesado, quejoso o denunciado es un Partido o Candidato Independiente, siempre y cuando su representante se encuentre en la sesión. Si se acordó el engrose de la Resolución, la notificación se hará por oficio.
 
 e) Por comparecencia, cuando el interesado, representante o autorizado acuda a notificarse directamente ante el órgano que corresponda. En este caso, se asentará razón en autos y se agregará copia simple de la identificación oficial del compareciente.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 7 DE JULIO DE 2016)</small>
 
 Por vía electrónica, mediante el sistema o mecanismo que implemente el Instituto, atendiendo a las reglas siguientes:
 
@@ -396,6 +414,8 @@ h) Extracto del documento que se notifica.
 i) Datos referentes al órgano que dictó el acto a notificar.
 
 j) Nombre y firma del notificado y notificador.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 7 DE JULIO DE 2016)</small>
 
 2. En todos los casos, al practicar una notificación personal, se dejará en el expediente la cédula respectiva y copia del auto o Resolución, asentando la razón de la diligencia.
 
@@ -587,6 +607,8 @@ IV. Recabar tomas fotográficas o video del lugar u objeto inspeccionado.
 
 V. Firma del funcionario que concurra a la diligencia.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 7 DE JULIO DE 2016)</small>
+
 2. La Unidad Técnica podrá solicitar el apoyo y colaboración de la Oficialía Electoral para practicar las diligencias que se estimen necesarias para la debida sustanciación de los procedimientos de su competencia, las cuales se llevarán a cabo conforme al reglamento correspondiente, quedando obligada a remitir a la Unidad Técnica las constancias derivadas de su intervención.
 
 > <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2016)</small>
@@ -711,9 +733,15 @@ Presentación
 
 1. Las quejas o denuncias en materia de fiscalización de los sujetos obligados podrán ser presentados ante cualquier órgano del Instituto u Organismo Público Local.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 7 DE JULIO DE 2016)</small>
+
 2. En caso que hayan sido presentadas ante un órgano distinto de la Unidad Técnica, éste deberá remitirlo de forma inmediata por correo electrónico a la cuenta que la Unidad Técnica determine, sin que esto exima el envío de las constancias en forma física en un plazo no mayor a 48 horas contadas a partir de su recepción, para que ésta determine lo conducente. Todos los órganos distintos a la Unidad Técnica que reciban una queja o denuncia sobre cualquier asunto en materia de fiscalización al momento de su recepción deberán describir toda la documentación que se presente.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 7 DE JULIO DE 2016)</small>
+
 3. Cuando la Unidad Técnica así lo solicite, los órganos desconcentrados de este Instituto, podrán apoyar y colaborar en la realización de las diligencias que se estimen necesarias para la debida sustanciación de los procedimientos instruidos por dicha Unidad.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 7 DE JULIO DE 2016)</small>
 
 4. En caso de que se deleguen las facultades de fiscalización, las quejas o denuncias relacionadas con financiamiento proveniente de las entidades federativas, deberán presentarse ante el Organismo Público Local correspondiente.
 
@@ -726,6 +754,8 @@ Presentación
 ###### Artículo 29.
 
 Requisitos
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 7 DE JULIO DE 2016)</small>
 
 1. Toda queja deberá ser presentada por escrito, así como cumplir con los requisitos siguientes:
 
@@ -741,7 +771,9 @@ V. Aportar los elementos de prueba, aun con carácter indiciario, con los que cu
 
 VI. El carácter con que se ostenta el quejoso según lo dispuesto en el presente artículo.
 
-VII. Relacionar todas y cada una de las pruebas que ofrezca con cada uno de los hechos narrados en su escritorio inicial de queja o denuncia.
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 7 DE JULIO DE 2016)</small>
+
+VII. Relacionar todas y cada una de las pruebas que ofrezca con cada uno de los hechos narrados en su escrito inicial de queja o denuncia.
 
 2. En caso que la queja sea presentada en representación de un partido, podrá hacerse por medio de las personas siguientes:
 
@@ -763,6 +795,8 @@ III. Representante legal debidamente autorizado, quien debe presentar copia del 
 
 Improcedencia
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 7 DE JULIO DE 2016)</small>
+
 1. El procedimiento será improcedente cuando:
 
 I. Los hechos narrados en la denuncia resulten notoriamente inverosímiles, o aun siendo ciertos, no configuren en abstracto algún ilícito sancionable a través de este procedimiento.
@@ -773,11 +807,17 @@ III. Se omita cumplir con alguno de los requisitos previstos en el numeral 1, fr
 
 IV. La queja sea presentada después de los tres años siguientes a la fecha en que se hayan suscitado los hechos que se denuncian.
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 7 DE JULIO DE 2016)</small>
+
 V. La queja se refiera a hechos imputados a los sujetos obligados que hayan sido materia de alguna Resolución aprobada en otro procedimiento en materia de fiscalización resuelto por el Consejo y que haya causado estado.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 7 DE JULIO DE 2016)</small>
 
 VI. La Unidad Técnica resulte incompetente para conocer los hechos denunciados. En estos casos, sin mayor trámite y a la brevedad se resolverá de plano sobre la incompetencia, y el expediente se remitirá a la autoridad u órgano que resulte competente para conocer del asunto.
 
-VII. El denunciado sea un partido o agrupación política que haya perdido su registro en fecha anterior a la presentación de la queja
+> <small>(REFORMADA, D.O.F. 7 DE JULIO DE 2016)</small>
+
+VII. El denunciado sea un partido o agrupación política que haya perdido su registro en fecha anterior a la presentación de la queja.
 
 2. La Unidad Técnica realizará de oficio el estudio de las causas de improcedencia del procedimiento; en caso de advertir que se actualiza una de ellas elaborará el Proyecto de Resolución respectivo.
 
@@ -787,15 +827,21 @@ VII. El denunciado sea un partido o agrupación política que haya perdido su re
 
 Desechamiento
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 7 DE JULIO DE 2016)</small>
+
 1. La Unidad Técnica elaborará y someterá a la aprobación de la Comisión el Proyecto de Resolución que determine el desechamiento correspondiente, atendiendo a los casos siguientes:
 
 I. Se desechará de plano el escrito de queja, sin que anteceda prevención a la parte denunciante, cuando no se cumplan los requisitos del artículo 29, numeral 1, fracciones I o III, o bien, se actualice alguno de los supuestos señalados en las fracciones II, IV, V, VI o VII del numeral 1 del artículo 30 del Reglamento.
 
 II. Se actualice alguna causal de improcedencia contenida en el numeral 1, fracciones I y III del artículo 30 del Reglamento, sin que se desahogue la prevención, cuando proceda, en el plazo establecido.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 7 DE JULIO DE 2016)</small>
+
 2. El desechamiento de una queja en ningún momento prejuzga sobre el fondo del asunto, por lo que la Unidad Técnica podrá ejercer sus atribuciones legales cuando se presente una nueva queja respecto de los mismos hechos.
 
-3. Cuando se actualice el supuesto establecido en el artículo 440, numeral 1, inciso e) de la Ley General, se dará vista a la Secretaría para la ejecución de las sanción correspondiente una vez que la Resolución correspondiente haya quedado firme.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 7 DE JULIO DE 2016)</small>
+
+3. Cuando se actualice el supuesto establecido en el artículo 440, numeral 1, inciso e) de la Ley General, se dará vista a la Secretaría para la ejecución de las (sic) sanción correspondiente una vez que la Resolución correspondiente haya quedado firme.
 
 > <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2016)</small>
 
@@ -803,9 +849,11 @@ II. Se actualice alguna causal de improcedencia contenida en el numeral 1, fracc
 
 Sobreseimiento
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 7 DE JULIO DE 2016)</small>
+
 1. El procedimiento podrá sobreseerse cuando:
 
-I. Esta fracción quede sin efectos.
+I. Esta fracción queda sin efectos.
 
 II. El procedimiento respectivo haya quedado sin materia.
 
@@ -815,7 +863,11 @@ II. El procedimiento respectivo haya quedado sin materia.
 
 Prevención
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 7 DE JULIO DE 2016)</small>
+
 1. En caso que el escrito de queja no cumpla con los requisitos previstos en las fracciones IV, V, ó VI del numeral 1 del artículo 29; o en la fracción I del artículo 30; ambos del Reglamento, la Unidad Técnica emitirá un acuerdo en el que otorgue al quejoso un plazo de tres días hábiles improrrogables contados a partir del día en que surta efectos la notificación personal realizada, a fin de subsanar las omisiones, previniéndole que de no hacerlo, se desechará el escrito de queja.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 7 DE JULIO DE 2016)</small>
 
 2. Lo señalado en el párrafo que antecede resulta aplicable para el caso de que, aun habiendo contestado la prevención, y derivado del análisis que de ella haga la autoridad, ésta resulte insuficiente, no aporte elementos novedosos o verse sobre cuestiones distintas al requerimiento formulado.
 
@@ -829,7 +881,11 @@ Sustanciación
 
 2. Hecho lo anterior, la Unidad Técnica fijará en los Estrados del Instituto, durante setenta y dos horas, el acuerdo de admisión del procedimiento y la cédula de conocimiento, notificando al denunciado el inicio del mismo, corriéndole traslado con copia simple de las constancias que obren en el expediente y se procederá a la instrucción correspondiente.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 7 DE JULIO DE 2016)</small>
+
 3. La facultad de la autoridad electoral para fincar responsabilidades en materia de fiscalización prescribe en el plazo de cinco años, contados a partir de la fecha asentada en el acuerdo de inicio o admisión.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 7 DE JULIO DE 2016)</small>
 
 4. La Unidad Técnica contará con noventa días para presentar los Proyectos de Resolución de los procedimientos ante la Comisión, computados a partir de la fecha en que se emita el acuerdo de inicio o admisión.
 
@@ -861,7 +917,13 @@ III. Las demás autoridades y organismos públicos autónomos, en el ámbito de 
 
 ###### Artículo 36 Bis.
 
-Sólo podrán acceder a aquella información y documentación, que obrando en el expediente, haya sido recabada por la autoridad fiscalizadora como consecuencia de la investigación, o bien, aquella en donde consten datos personales, cuando ésta tenga que ver con la determinación de la existencia de los hechos objeto del procedimiento y la responsabilidad de los denunciados, pero únicamente podrá ser consultada in situ, y sin posibilidad de reproducirla en cualquier forma, lo anterior, a efecto de salvaguardar la confidencialidad y reserva de la misma.
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 7 DE JULIO DE 2016)</small>
+
+Las partes en los procedimientos oficiosos y de queja en materia de fiscalización, podrán tener acceso al expediente en el que estén involucrados, y consultar las constancias en todo tiempo durante la sustanciación del mismo.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JULIO DE 2016)</small>
+
+No podrán acceder a aquella información y documentación, que obrando en el expediente, haya sido recabada por la autoridad fiscalizadora como consecuencia de la investigación, o bien, aquella en donde consten datos personales, lo anterior, a efecto de salvaguardar la confidencialidad y reserva de la misma.
 
 > <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2016)</small>
 
@@ -905,9 +967,15 @@ Quejas relacionadas con precampaña
 
 Quejas relacionadas con Campaña
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 7 DE JULIO DE 2016)</small>
+
 1. El Consejo resolverá a más tardar en la sesión en el que se apruebe el Dictamen y la Resolución relativos a los informes de campaña, las quejas relacionadas con las campañas electorales, que contengan hechos que presuntamente vulneren la normatividad en materia de fiscalización, siempre y cuando hayan sido presentadas hasta quince días antes de la aprobación de los mismos.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 7 DE JULIO DE 2016)</small>
+
 2. En caso de que el escrito de denuncia sea presentado en fecha posterior a la referida en el numeral 1 de este artículo, en aras de la correcta administración de justicia y para salvaguardar el derecho al debido proceso, la misma será sustanciada conforme a las reglas y plazos previstos para las quejas referidas en el Capítulo anterior, y será resuelta cuando la Unidad cuente con todos los elementos de convicción idóneos, aptos y suficientes, que permitan considerar que el expediente se encuentra debidamente integrado. Así mismo, se deberá relacionar el listado de las quejas no resueltas en la Resolución correspondiente al informe de campaña respectivo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 7 DE JULIO DE 2016)</small>
 
 3. Se dará vista al Tribunal Electoral del Poder Judicial de la Federación, para los efectos legales conducentes, cuando encontrándose en el supuesto referido en el numeral 2 de este artículo, las quejas resulten fundadas por la actualización del rebase al tope de gastos de campaña respectivo, así como por la utilización de recursos de procedencia ilícita o recursos públicos en las campañas.
 
@@ -917,13 +985,17 @@ Quejas relacionadas con Campaña
 
 De la sustanciación
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 7 DE JULIO DE 2016)</small>
+
 1. Para la tramitación y sustanciación de las quejas reguladas en este Capítulo, se estará a lo establecido en el Capítulo anterior, aplicando las reglas siguientes:
 
 a. El órgano del Instituto que reciba la queja deberá remitirla en un plazo de 24 horas a la Unidad Técnica;
 
 b. La Unidad Técnica de Vinculación será el conducto para la remisión inmediata de los escritos de queja y vistas ordenadas por los Organismos Públicos Locales;
 
-c. Una vez recibida la queja por la Unidad Técnica, determinará lo que en derecho proceda, y
+> <small>(REFORMADO, D.O.F. 7 DE JULIO DE 2016)</small>
+
+c. Una vez recibida la queja por la Unidad Técnica, determinará lo que en derecho proceda; y
 
 d. Las personas físicas, morales y autoridades, están obligadas a responder los requerimientos en un plazo máximo de cuarenta y ocho horas, contadas a partir que surta sus efectos la notificación.
 
@@ -936,6 +1008,8 @@ d. Las personas físicas, morales y autoridades, están obligadas a responder lo
 ###### Artículo 42.
 
 Contenido de la Resolución
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 7 DE JULIO DE 2016)</small>
 
 1. La Resolución deberá contener:
 
@@ -979,7 +1053,9 @@ f) Las causas, razonamientos y fundamentos legales que sustenten el sentido de l
 
 g) En su caso, la consideración sobre las circunstancias y la gravedad de la falta, calificación de la conducta e individualización de la sanción.
 
-IV. Puntos resolutivos que contengan:
+> <small>(REFORMADA PRIMER PÁRRAFO [N. DE E. REPUBLICADA], D.O.F. 7 DE JULIO DE 2016)</small>
+
+IV. IV. (SIC) Puntos resolutivos que contengan:
 
 a) El sentido de la Resolución.
 
@@ -993,7 +1069,9 @@ e) De ser procedente, el seguimiento para la cuantificación del beneficio.
 
 f) La orden de notificar la Resolución de mérito. En caso de que la queja hubiese sido presentada en representación de un partido, por medio de alguna de las personas detalladas en el numeral 2 del artículo 29, la notificación de la Resolución se hará de manera automática, en términos de lo dispuesto en el presente Reglamento.
 
-g) La mención de ser recurrible a través del medio de impugnación respectivo, y
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 7 DE JULIO DE 2016)</small>
+
+g) La mención de ser recurrible a través del medio de impugnación respectivo; y
 
 > <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2016)</small>
 
@@ -1035,6 +1113,8 @@ III. Que la Resolución mediante la cual se sancionó al infractor, con motivo d
 
 ###### Artículo 44.
 
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], D.O.F. 7 DE JULIO DE 2016)</small>
+
 La Unidad Técnica de Fiscalización, por conducto de la Comisión de Fiscalización, en cada sesión ordinaria, deberá informar al Consejo General del estado jurídico que guarden los procedimientos sancionadores que se encuentren en trámite, especificando cuando menos los datos consistentes en número de expediente, fecha de inicio del procedimiento, nombre del denunciante, nombre del denunciado, síntesis de los hechos denunciados y fecha de última actuación.
 
 TERCERO. El presente Reglamento entrará en vigor al día siguiente de su aprobación por el Consejo General del Instituto Nacional Electoral.
@@ -1062,6 +1142,20 @@ TERCERO. Hágase del conocimiento de la Sala Superior del Tribunal Electoral del
 CUARTO. El presente Acuerdo entrará en vigor a partir de su aprobación por el Consejo General.
 
 QUINTO. Toda vez que han sido resueltos todos los medios de impugnación relacionados con el reglamento en comento, publíquese de manera íntegra en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE MODIFICA EL REGLAMENTO DE PROCEDIMIENTOS SANCIONADORES EN MATERIA DE FISCALIZACIÓN, APROBADO EL DIECINUEVE DE NOVIEMBRE DE DOS MIL CATORCE EN SESIÓN EXTRAORDINARIA DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL MEDIANTE EL ACUERDO INE/CG264/2014”.]
+
+ÚNICO. Lo dispuesto (sic) los artículos 7, numeral 6, y 8, numeral 1, inciso f), en cuanto a notificaciones electrónicas se refiere, será aplicable hasta en tanto el Instituto cuente con el sistema o mecanismo electrónico en el que se pueda verificar la entrega y recepción de las notificaciones.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO POR EL QUE SE MODIFICA EL REGLAMENTO DE PROCEDIMIENTOS SANCIONADORES EN MATERIA DE FISCALIZACIÓN.]</small>
+
+SEGUNDO. La modificación al Reglamento de Procedimientos Sancionadores en Materia de Fiscalización entrará en vigor al día siguiente de su aprobación por el Consejo General del Instituto Nacional Electoral.
+
+TERCERO. Notifíquese el presente Acuerdo a los Organismos Públicos Locales, con la finalidad de que lo hagan del conocimiento de los sujetos obligados en el ámbito local.
+
+CUARTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
 
 ## TÍTULO TERCERO. DE LAS RESOLUCIONES Y SANCIONES
 
