@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-justicia-fiscal-y-administrativa-del-estado-de-78586"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-23"
-last_updated: "2015-09-20"
+last_updated: "2016-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78586&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE JUSTICIA FISCAL Y ADMINISTRATIVA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 2010.
 
@@ -371,7 +371,7 @@ Para efectos de las notificaciones, emplazamientos, requerimientos, visitas e in
 
 Las notificaciones de los actos administrativos se harán:
 
-l.- Personalmente o por correo certificado con acuse de recibo del Servicio Postal Mexicano firmado por aquél con quien deba entenderse la diligencia, cuando se trate de la primera notificación en el asunto; cuando se deje de actuar más de dos meses, cuando se requiera documentación o informes, cuando se trate de la resolución del procedimiento, de citatorios, requerimientos y todo acto que pueda ser recurrido;
+I.- Personalmente o por correo certificado con acuse de recibo del Servicio Postal Mexicano firmado por aquél con quien deba entenderse la diligencia, cuando se trate de la primera notificación en el asunto; cuando se deje de actuar más de dos meses, cuando se requiera documentación o informes, cuando se trate de la resolución del procedimiento, de citatorios, requerimientos y todo acto que pueda ser recurrido;
 
 II.- Mediante mensajería, correo ordinario y telegrama, cuando se trate de actos distintos de los señalados en la fracción anterior;
 
@@ -493,7 +493,7 @@ Si antes del vencimiento del término los interesados manifestaran su decisión 
 
 Ponen fin al procedimiento administrativo:
 
-l.- La resolución definitiva del mismo;
+I.- La resolución definitiva del mismo;
 
 II.- El desistimiento;
 
@@ -613,7 +613,7 @@ La autoridad administrativa fundará y motivará su resolución, considerando:
 
 I.- Los datos que se hubieren producido o puedan producirse;
 
-Il.- El carácter intencional o no de la acción u omisión constitutiva de la infracción;
+II.- El carácter intencional o no de la acción u omisión constitutiva de la infracción;
 
 III.- La gravedad de la infracción;
 
@@ -1165,9 +1165,9 @@ En el mismo acuerdo de admisión, se admitirán o desecharán las pruebas ofreci
 
 El Magistrado desechará la demanda, cuando:
 
-l.- Requerida la ratificación de contenido y firma de la demanda, esta no sea ratificada ante la Sala correspondiente en el término concedido al efecto;
+I.- Requerida la ratificación de contenido y firma de la demanda, esta no sea ratificada ante la Sala correspondiente en el término concedido al efecto;
 
-Il.- Encontrare motivo indudable y manifiesto de improcedencia; y
+II.- Encontrare motivo indudable y manifiesto de improcedencia; y
 
 III.- En los supuestos a que se refiere el artículo 137 de esta Ley.
 
@@ -1177,7 +1177,7 @@ El actor tendrá derecho a ampliar su demanda dentro de los diez días siguiente
 
 I.- Cuando se demande una Negativa Ficta o la declarativa de configuración de la Positiva Ficta;
 
-Il.- Cuando los fundamentos y motivos del acto impugnado sean conocidos por el actor hasta que se conteste la demanda;
+II.- Cuando los fundamentos y motivos del acto impugnado sean conocidos por el actor hasta que se conteste la demanda;
 
 III.- Cuando con motivo de la contestación, se introduzcan cuestiones que sin violar el primer párrafo del artículo 152 de esta Ley, no sean conocidas por el actor al presentar la demanda; y
 
@@ -1405,7 +1405,7 @@ Las causales de improcedencia que se prevén en el presente artículo, serán ex
 
 Procede el sobreseimiento del juicio cuando:
 
-l.- El demandante se desista expresamente de la acción intentada;
+I.- El demandante se desista expresamente de la acción intentada;
 
 II.- El actor fallezca durante el juicio, siempre que no se trate de derechos transmisibles;
 
@@ -1719,7 +1719,7 @@ La audiencia deberá suspenderse cuando no se hayan resuelto los incidentes de p
 
 Se interrumpe el procedimiento por las siguientes causas:
 
-l.- Muerte de alguna de las partes o de su representante legal;
+I.- Muerte de alguna de las partes o de su representante legal;
 
 II.- Disolución o quiebra de la persona moral que intervenga como parte en el juicio; y
 
@@ -1783,7 +1783,7 @@ Causarán ejecutoria las siguientes sentencias.
 
 I.- Las que no admitan recurso alguno;
 
-Il.- Las que, admitiendo algún recurso, no fueren recurridas o habiéndolo sido, se haya desechado o hubiese resultado infundado, o bien, desista de él quien lo promueve; y
+II.- Las que, admitiendo algún recurso, no fueren recurridas o habiéndolo sido, se haya desechado o hubiese resultado infundado, o bien, desista de él quien lo promueve; y
 
 III.- Las consentidas expresamente por las partes o sus representantes legales.
 
@@ -1911,7 +1911,7 @@ IV. Sobreseer el recurso interpuesto.
 
 Los Magistrados, para hacer cumplir sus determinaciones o para imponer el orden podrán, de acuerdo a la gravedad de la falta, hacer uso de los siguientes:
 
-l.- Medios de apremio:
+I.- Medios de apremio:
 
 a). Apercibimiento;
 
@@ -2105,9 +2105,11 @@ XII. Que le señalen otras leyes y reglamentos.
 
 ### CAPÍTULO VII
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 255.
 
-(DEROGADO, P.O. 1 DE FEBRERO DE 2015)
+Para ser Magistrado del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado se deben cumplir los requisitos que establece la Constitución Política del Estado Libre y Soberano de Durango, en sus artículos 110 y 115.
 
 ###### ARTÍCULO 256.
 
@@ -2224,3 +2226,11 @@ P.O. 20 DE SEPTIEMBRE DE 2015.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
+
+P.O. 7 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 559.- QUE CONTIENE REFORMA AL ARTÍCULO 255 DE LA LEY DE JUSTICIA FISCAL Y ADMINISTRATIVA DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
