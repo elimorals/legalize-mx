@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-proteccion-civil-85662"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-25"
-last_updated: "2012-04-30"
+last_updated: "2016-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE PROTECCIÓN CIVIL DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE PROTECCIÓN CIVIL, PUBLICADO EN LA G.O. DE 7 DE JULIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 30 DE ABRIL DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE JULIO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 25 de enero de 2012.
 
@@ -784,3 +784,21 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 7 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DE PROTECCIÓN CIVIL".]
+
+Primero. El presente reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se abroga el Reglamento Interior de la Secretaría de Protección Civil, publicado en la Gaceta Oficial número extraordinario 29 de fecha 25 de enero de 2012.
+
+Tercero. Se derogan todas aquellas disposiciones reglamentarias y administrativas que se opongan a lo establecido en este reglamento.
+
+Cuarto. La Secretaría deberá emitir los Manuales de Organización y Procedimientos, en un plazo no mayor a 180 días a partir de la vigencia de este reglamento.
+
+En tanto se expiden los Manuales de Organización y Procedimientos, se aplicarán los existentes, estando el titular de la Secretaría facultado para resolver las cuestiones que al efecto se presenten.
+
+Quinto. Los asuntos que en virtud de la entrada en vigor de este reglamento deban transferirse de un área administrativa a otra, continuarán su trámite hasta su conclusión en la que se iniciaron; salvo que por su naturaleza especial deban ser resueltos por el área que los reciba, en cuyo caso les serán remitidos de inmediato.
