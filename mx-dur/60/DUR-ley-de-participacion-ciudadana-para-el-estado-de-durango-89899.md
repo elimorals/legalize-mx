@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-participacion-ciudadana-para-el-estado-de-durango-89899"
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-20"
-last_updated: "2012-09-20"
+last_updated: "2016-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 20 de septiembre de 2012.
 
@@ -131,7 +131,7 @@ XIV. Padrón Electoral: La lista nominal de electores del Consejo Estatal del In
 
 XV. Presidente: El Presidente Municipal del Municipio que corresponda y
 
-XVI. Tribunal: El Tribunal Electoral del Poder Judicial del Estado; (sic)
+XVI. Tribunal: El Tribunal Electoral del Poder Judicial del Estado;
 
 ### CAPÍTULO II. DE LOS DERECHOS Y OBLIGACIONES DE LOS CIUDADANOS
 
@@ -141,9 +141,11 @@ La participación en los mecanismos señalados en esta Ley, es un derecho y una 
 
 En el plebiscito, referéndum y consulta popular, el voto es universal, libre, secreto, directo, personal e intransferible.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
+
 ###### Artículo 6.
 
-Tendrán derecho a intervenir en los mecanismos de participación ciudadana, en los términos que marca esta Ley, los ciudadanos duranguenses en pleno ejercicio de sus derechos, inscritos en el padrón y en la lista nominal, que cuenten con credencial para votar y no estén dentro de los supuestos establecidos en el artículo 22 de la Constitución Local.
+Tendrán derecho a intervenir en los mecanismos de participación ciudadana, en los términos que marca esta Ley, los ciudadanos duranguenses en pleno ejercicio de sus derechos, inscritos en el padrón y en la lista nominal, que cuenten con credencial para votar y no estén dentro de los supuestos establecidos en los párrafos segundo y tercero del artículo 55 de la Constitución Local.
 
 ### CAPÍTULO III. DE LOS ÓRGANOS COMPETENTES EN LA APLICACIÓN DE LA LEY
 
@@ -738,3 +740,13 @@ C. P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 PROFR. JAIME FERNANDEZ SARACHO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 563.- QUE CONTIENE REFORMA EL ARTÍCULO 6 DE LA LEY DE PARTICIPACION CIUDADANA PARA EL ESTADO DE DURANGO".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
