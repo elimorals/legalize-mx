@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2015-05-14"
+last_updated: "2016-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2016.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -5511,7 +5511,7 @@ ART. 1439.- El depósito en la Dirección General de Notarías se hará personal
 
 > <small>(REFORMADO, P.O. 12 DE JULIO DE 2007)</small>
 
-ART. 1440.- En el sobre cerrado que contenga el duplicado del testamento ológrafo se pondrá la siguiente constancia expedida por el Director General de Notarías: "Recibí el pliego cerrado que el señor... afirma contiene original de su testamento ológrafo, del cual, según afirmación del mismo señor, existe dentro de este sobre un duplicado". Se pondrá luego el lugar y la fecha en que se extiende la constancia, que será firmada por el Director, poniéndose también al calce la firma del testador y de los testigos de identificación.
+ART. 1440.- En el sobre cerrado que contenga el duplicado del testamento ológrafo se pondrá la siguiente constancia expedida por el Director General de Notarías: "Recibí el pliego cerrado que el señor.... afirma contiene original de su testamento ológrafo, del cual, según afirmación del mismo señor, existe dentro de este sobre un duplicado". Se pondrá luego el lugar y la fecha en que se extiende la constancia, que será firmada por el Director, poniéndose también al calce la firma del testador y de los testigos de identificación.
 
 > <small>(REFORMADO, P.O. 12 DE JULIO DE 2007)</small>
 
@@ -6617,7 +6617,9 @@ La acreditación de la intención maliciosa de difundir las informaciones contem
 
 Se entenderá por intención maliciosa cuando el que difunda la información falsa o errónea tuviera conocimiento de ella con antelación y que, sabedor de ello la publicitó, o cuando sin conocer la veracidad de la misma, lo hizo con la intención de afectar a un tercero.
 
-La reparación del daño no operará en beneficio de los servidores públicos que se encuentren contemplados en el artículo 116 de la Constitución Política del Estado Libre y Soberano de Durango, salvo cuando prueben que el acto de difusión se realizó con intención maliciosa.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
+
+La reparación del daño no operará en beneficio de los servidores públicos que se encuentren contemplados en el artículo 175 de la Constitución Política del Estado Libre y Soberano de Durango, salvo cuando prueben que el acto de difusión se realizó con intención maliciosa.
 
 ART. 1801.- Las personas que han causado en común un daño, son responsables solidariamente hacia la víctima por la reparación a que están obligadas de acuerdo con disposiciones de este Capítulo.
 
@@ -9093,7 +9095,7 @@ I.- Si el trabajo del industrial pudiera hacerse por otro, su cuota será la que
 
 II.- Si el trabajo no pudiere ser hecho por otro, su cuota será igual a la del socio capitalista que tenga más,
 
-III.- Si sólo hubiere un socio industrial y otro capitalista, se dividirán entre sí por partes iguales las ganancias,
+III.- Si sólo hubiere un socio industrial y otro capitalista, se dividirán entre sí por partes iguales las ganancias.
 
 IV.- Si son varios los socios industriales y están en el caso de la fracción II, llevarán entre todos la mitad de las ganancias y la dividirán entre sí por convenio y, a falta de éste, por decisión arbitral.
 
@@ -10520,3 +10522,11 @@ P.O. 14 DE MAYO DE 2015.
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se oponga (sic) a la presente.
+
+P.O. 7 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 561.- QUE CONTIENE REFORMA AL PÁRRAFO SEXTO DEL ARTÍCULO 1800 TER DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
