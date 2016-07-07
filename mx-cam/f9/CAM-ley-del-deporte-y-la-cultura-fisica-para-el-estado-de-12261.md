@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-deporte-y-la-cultura-fisica-para-el-estado-de-12261"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-24"
-last_updated: "1998-06-24"
+last_updated: "2016-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # LEY DEL DEPORTE Y LA CULTURA FISICA PARA EL ESTADO DE CAMPECHE
 
-LEY DEL DEPORTE Y LA CULTURA FISICA PARA EL ESTADO DE CAMPECHE
+LEY DEL DEPORTE Y LA CULTURA FÍSICA PARA EL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche el miércoles 24 de junio de 1998.
 
@@ -421,6 +421,18 @@ IV.- El establecimiento de programas de recreación.
 
 V.- La elaboración de programas de adecuación física y deportiva para personas de la tercera edad con alguna discapacidad funcional.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2016)</small>
+
+VI.- Ejecutar la política municipal en materia de cultura física y deporte, en congruencia con la política nacional y estatal;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2016)</small>
+
+VII.- Suscribir convenios y acuerdos de colaboración y coordinación en materia de cultura física y deporte con otras instancias de gobierno.
+
 ###### Artículo 42.
 
 Para el desarrollo de sus programas, el Municipio deberá establecer un programa de construcción y mantenimiento de instalaciones deportivas que incluya:
@@ -432,6 +444,12 @@ II.- La necesidad de que los espacios puedan ser utilizados para diversas activi
 III.- La participación de la comunidad en la planeación y construcción de las instalaciones, aportando una cuarta parte de la obra en efectivo, especie o mano de obra;
 
 IV.- Un Consejo de Administración, integrado por miembros de la comunidad y un representante del ayuntamiento.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2016)</small>
+
+V.- Procurar que todas las instalaciones y espacios destinados a la práctica del deporte y la cultura física, cuenten con los servicios necesarios para sus fines y que tengan acondicionamiento para el acceso a personas con discapacidad.
 
 ###### Artículo 43.
 
@@ -724,3 +742,11 @@ Salón de Sesiones del Palacio Legislativo, Campeche, Cam., a 23 de junio de 199
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los veintitrés días del mes de junio del año de mil novecientos noventa y ocho.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, L.A. JOSE ANTONIO GONZALEZ CURI.- EL SECRETARIO DE GOBIERNO, LIC. RICARDO A. OCAMPO FERNANDEZ..- RUBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 63 POR EL QUE “SE ADICIONA UNA FRACCIÓN VI Y UNA FRACCIÓN VII AL ARTÍCULO 41, Y UNA FRACCIÓN V AL ARTÍCULO 42 DE LA LEY DEL DEPORTE Y LA CULTURA FÍSICA PARA EL ESTADO DE CAMPECHE”.]
+
+ÚNICO.- El presente decreto entrará en vigor a los diez días siguientes de su publicación en el Periódico Oficial del Estado.
