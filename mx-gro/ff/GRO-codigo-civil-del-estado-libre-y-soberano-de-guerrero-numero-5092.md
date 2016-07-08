@@ -4,7 +4,7 @@ identifier: "GRO-codigo-civil-del-estado-libre-y-soberano-de-guerrero-numero-509
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-02"
-last_updated: "2015-07-24"
+last_updated: "2016-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 358
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el martes 2 de marzo de 1993.
 
@@ -146,6 +146,14 @@ Los magistrados, jueces y agentes del ministerio público incurren en responsabi
 ###### Artículo 25.
 
 Son personas físicas o naturales todos los seres humanos. La personalidad jurídica de éstas comienza con el nacimiento y termina con la muerte, pero desde que un ser humano es concebido queda bajo la protección de la ley y se le tiene por nacido para los efectos previstos en este Código.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2016)</small>
+
+###### Artículo 25 Bis.
+
+Toda persona física tiene derecho a su identidad y el Estado está obligado a garantizarlo.
+
+La identidad de toda persona física se encuentra conformada por un nombre propio, así como por su historia filial y genealógica, el reconocimiento de la personalidad jurídica y la nacionalidad.
 
 ###### Artículo 26.
 
@@ -1633,9 +1641,13 @@ La falsificación de las actas y la inserción en ellas de circunstancias o decl
 
 Los actos y actas del estado civil del propio oficial, de su cónyuge, ascendientes y descendientes y de cualquiera de ellos, no podrán autorizarse por el propio oficial; se asentarán en las formas correspondientes autorizándose por el oficial de la adscripción más próxima.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
+
 ###### Artículo 316.
 
-Los vicios o defectos que haya en las actas, sujetan al oficial del Registro Civil a las penas establecidas en la legislación correspondiente. Cuando no son substanciales no producen la nulidad del acto; pero la nulidad de éste y la falsedad de las formas del Registro Civil, sólo podrán probarse judicialmente.
+Los vicios o defectos que haya en las actas, sujetan al Oficial del Registro Civil a las penas establecidas en la legislación correspondiente. Cuando no son substanciales no producen la nulidad del acto; pero la falsedad de las formas del Registro Civil, deberán probarse judicialmente.
+
+En caso de existir duplicidad de registro de nacimiento en el que sólo variará la fecha del alumbramiento o del registro, procederá el trámite de nulidad ante la Coordinación Técnica del Sistema Estatal del Registro Civil del Estado, bajo el procedimiento que establezca la Ley de la materia.
 
 ###### Artículo 317.
 
@@ -1655,9 +1667,21 @@ En caso de irregularidades que puedan presuponer la comisión de un delito, dar�
 
 ### Capítulo II. De las actas de nacimiento y de reconocimiento de hijos
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
+
 ###### Artículo 320.
 
-Las declaraciones de nacimiento se harán dentro de los treinta días siguientes a éste. El recién nacido, será presentado al oficial del Registro Civil en su oficina, o en el lugar donde aquél se encuentre.
+Las declaraciones de nacimiento se harán de manera inmediata, presentando a la persona a registrar ante el oficial del registro civil o solicitando la comparecencia del mismo al lugar donde se encuentre esta. El registro y la expedición de la primera copia certificada del acta de nacimiento deberán ser gratuitos.
+
+Los médicos, cirujanos o parteras que hubiesen atendido el parto, deberán dar aviso del nacimiento al oficial del registro civil, anexando copia del certificado único de nacimiento, inmediatamente de ocurrido aquel. La misma obligación tiene el administrador del hospital o clínica, sea público o particular, cuando proceda.
+
+Recibido el aviso, el oficial del registro civil tomará las medidas legales que sean necesarias a fin de que se levante el acta de nacimiento, conforme a las disposiciones relativas.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2016)</small>
+
+###### Artículo 320 Bis.
+
+Los médicos, cirujanos, parteras y administradores de los hospitales o clínicas públicas y particulares tienen la obligación de inscribirse ante la Secretaría de Salud del Estado a fin de que ésta, en coordinación con el Registro Civil, lleve un control sobre la expedición y distribución de los formatos de certificados únicos de nacimiento.
 
 ###### Artículo 321.
 
@@ -15748,3 +15772,11 @@ Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado para 
 ###### ARTÍCULO QUINTO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero y en el Portal web de este Honorable Congreso del Estado, para el conocimiento general.
+
+P.O. 8 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 216, POR EL QUE SE REFORMAN LOS ARTÍCULOS 316 Y 320 Y SE ADICIONAN LOS ARTÍCULOS 25 BIS Y 320 BIS DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358".]
+
+PRIMERO. El presente Decreto surtirá efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
+
+SEGUNDO. Las autoridades de salud y del registro civil deberán realizar las acciones necesarias para la aplicación de lo establecido en el artículo 320 del Código Civil del Estado Libre y Soberano de Guerrero número 358.
