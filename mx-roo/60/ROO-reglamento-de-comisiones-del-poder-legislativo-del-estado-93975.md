@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-comisiones-del-poder-legislativo-del-estado-93975
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-09"
-last_updated: "2014-12-22"
+last_updated: "2016-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO DE COMISIONES DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2016.
 
 Reglamento publicado en el número extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 9 de abril de 2013.
 
@@ -545,9 +545,11 @@ Ningún miembro de las comisiones tendrá retribución extraordinaria por el des
 
 Para efectos del Artículo anterior, se exceptúa la Comisión de Concertación y Prácticas Parlamentarias que se integrará por el Representante o Coordinador de cada uno de los Grupos Parlamentarios con presencia en la Cámara.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2016)</small>
+
 ###### Artículo 38.
 
-La integración de la Comisión Instaladora será elegida por la Diputación Permanente en escrutinio secreto y por mayoría de votos.
+La integración de la Comisión Instaladora será elegida por la mayoría simple de los Diputados electos que se encuentren presentes en la sesión correspondiente.
 
 La integración de las Comisiones transitorias de investigación y de procesos jurisdiccionales será elegida por el Pleno de la Legislatura a propuesta de la Gran Comisión.
 
@@ -601,7 +603,7 @@ IV. Presentar votos particulares, cuando su opinión disienta de la resolución 
 
 V. Solicitar la a (sic) opinión o informes técnicos, de un experto en la materia, para el estudio y análisis y dictamen de algún asunto, con la aprobación de la mayoría de los integrantes; y
 
-VI. Los demás que le sean conferidas por la Ley Orgánica, el Reglamento Interior de la Legislatura, este Reglamento y demás disposiciones que emita el Pleno; (sic)
+VI. Los demás que le sean conferidas por la Ley Orgánica, el Reglamento Interior de la Legislatura, este Reglamento y demás disposiciones que emita el Pleno;
 
 ###### Artículo 43.
 
@@ -742,3 +744,11 @@ P.O. 22 DE DICIEMBRE DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 412 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO, EL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA LEGISLATURA DEL ESTADO DE QUINTANA ROO Y EL REGLAMENTO DE COMISIONES DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se derogan las disposiciones vigentes que contravengan lo dispuesto en el presente Decreto.
