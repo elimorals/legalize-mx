@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-115474"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-07-06"
-last_updated: "2016-07-06"
+last_updated: "2016-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115474&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2016-06-28"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE CREA EL FONDO PARA LA ADMINISTRACION DE LOS RECURSOS PROVENIENTES DE SENTENCIAS QUE DERIVEN DE LAS ACCIONES COLECTIVAS DIFUSAS, A QUE SE REFIERE EL ARTICULO 624 DEL CODIGO FEDERAL DE PROCEDIMIENTOS CIVILES]
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE JULIO DE 2016 EN EL D.O.F. , SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL FONDO PARA LA ADMINISTRACIÓN DE LOS RECURSOS PROVENIENTES DE SENTENCIAS QUE DERIVEN DE LAS ACCIONES COLECTIVAS DIFUSAS, A QUE SE REFIERE EL ARTÍCULO 624 DEL CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 8 DE JULIO DE 2016.]</small>
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el miércoles 6 de julio de 2016.
 
@@ -209,9 +209,11 @@ f Demás valoraciones realizadas para su otorgamiento.
 
 El dictamen a que se refiere este artículo, será presentado ante el Comité Técnico, el cual resolverá lo procedente.
 
+> <small>(F. DE E., D.O.F. 8 DE JULIO DE 2016)</small>
+
 ###### Artículo 13.
 
-En el supuesto de que el solicitante cuente con un Acuerdo del titular del órgano jurisdiccional, únicamente se deberá acompañar la copia certificada de dicho Acuerdo; y la documentación a que se refieren los incisos a) al e) y g) del artículo 12 de este Acuerdo, para lo cual el Secretario Técnico de la Comisión de Administración dará trámite atendiendo a los términos del Acuerdo.
+En el supuesto de que el solicitante cuente con un Acuerdo del titular del órgano jurisdiccional, únicamente se deberá acompañar la copia certificada de dicho Acuerdo; y la documentación a que se refieren los incisos a) al e) y g) del artículo 9 de este Acuerdo, para lo cual el Secretario Técnico de la Comisión de Administración dará trámite atendiendo a los términos del Acuerdo.
 
 ###### Artículo 14.
 
@@ -329,7 +331,9 @@ III Elaborar y suscribir las actas de las sesiones para la aprobación del Comit
 
 IV Certificar las copias de las actas que se generen con motivo de las sesiones, así como los demás documentos que obren en los archivos del propio Comité Técnico, cuando proceda su expedición;
 
-V Elevar al análisis y en su caso determinación del Comité Técnico, el expediente que presente el Secretario Técnico de la Comisión de Administración, así como el proyecto de dictamen a que se refiere el artículo 13 del presente Acuerdo;
+> <small>(F. DE E., D.O.F. 8 DE JULIO DE 2016)</small>
+
+V Elevar al análisis y en su caso determinación del Comité Técnico, el expediente que presente el Secretario Técnico de la Comisión de Administración, así como el proyecto de dictamen a que se refiere el artículo 12 del presente Acuerdo;
 
 VI Rendir el informe a que se refiere el artículo 16 del presente Acuerdo;
 
