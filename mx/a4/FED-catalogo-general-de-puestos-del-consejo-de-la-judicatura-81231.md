@@ -4,7 +4,7 @@ identifier: "FED-catalogo-general-de-puestos-del-consejo-de-la-judicatura-81231"
 country: "mx"
 rank: "otro"
 publication_date: "2011-05-11"
-last_updated: "2011-05-11"
+last_updated: "2016-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81231&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2011-05-02"
 ---
 # CATALOGO GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-CATALOGO GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL
+CATÁLOGO GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE JULIO DE 2016.
 
 Catálogo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 11 de mayo de 2011.
 
@@ -103,7 +103,9 @@ I.1 Tipo.
 
 El Tipo se refiere a la clasificación jurídica del puesto conforme a lo que se señala en los artículos 110, 181 y 182 de la Ley Orgánica del Poder Judicial de la Federación y los Acuerdos Generales del Pleno del Consejo de la Judicatura Federal, considerando tres categorías relacionadas con las funciones que desarrollan los servidores públicos que los ocupan: CONFIANZA, CARRERA JUDICIAL y BASE. A continuación se detallan los puestos agrupados de acuerdo a esta clasificación:
 
-I.1.1. Confianza (CF), corresponde a los puestos que tienen a su cargo funciones de dirección, inspección, vigilancia y fiscalización y, en su caso, de apoyo especializado, asesoría y de ayuda y seguridad a servidores públicos superiores. Los puestos en esta categoría son los que se mencionan o se ubican en el supuesto a que hace referencia el Artículo 181 de la Ley Orgánica del Poder Judicial de la Federación, teniendo 57 puestos de confianza conforme a las siguientes nomenclaturas:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE JULIO DE 2016)</small>
+
+I.1.1. Confianza (CF), corresponde a los puestos que tienen a su cargo funciones de dirección, inspección, vigilancia y fiscalización y, en su caso, de apoyo especializado, asesoría y de ayuda y seguridad a servidores públicos superiores. Los puestos en esta categoría son los que se mencionan o se ubican en el supuesto a que hace referencia el Artículo 181 de la Ley Orgánica del Poder Judicial de la Federación, teniendo 58 puestos de confianza conforme a las siguientes nomenclaturas:
 
 1. CONSEJERO
 
@@ -215,9 +217,13 @@ I.1.1. Confianza (CF), corresponde a los puestos que tienen a su cargo funciones
 
 55. ANALISTA
 
-56. TECNICO ADMINISTRATIVO
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2016)</small>
 
-57. OFICIAL DE SEGURIDAD
+56. ANALISTA A
+
+57. TÉCNICO ADMINISTRATIVO
+
+58. OFICIAL DE SEGURIDAD
 
 I.1.2. Carrera Judicial (CJ), corresponde a los puestos que coadyuvan directamente en la función de impartición de justicia. Los puestos en esta categoría son los enunciados en el Artículo 110 de la Ley Orgánica del Poder Judicial de la Federación adscritos a Tribunales de Circuito y Juzgados de Distrito, teniendo 5 puestos de carrera judicial conforme a las siguientes nomenclaturas:
 
@@ -373,7 +379,9 @@ I.2.4 Homólogos a mandos medios (4), considera los puestos de nivel salarial 13
 
 25. AUXILIAR ITINERANTE
 
-I.2.5 Operativos (5), integra puestos de nivel salarial 25, 26, 27, 28, 29A, 29, 30, 31, 32 y 33 cuyos ocupantes son servidores públicos que auxilian en el funcionamiento de los Organos Jurisdiccionales y áreas administrativas del Consejo, con responsabilidad restringida a la ejecución y a los resultados señalados para el desempeño de sus actividades, bajo supervisión superior. En esta categoría se tienen 24 puestos:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE JULIO DE 2016)</small>
+
+I.2.5 Operativos (5), integra puestos de nivel salarial 25, 26, 27, 28, 29A, 29, 30, 31, 32 y 33 cuyos ocupantes son servidores públicos que auxilian en el funcionamiento de los Órganos Jurisdiccionales y áreas administrativas del Consejo, con responsabilidad restringida a la ejecución y a los resultados señalados para el desempeño de sus actividades, bajo supervisión superior. En esta categoría se tienen 25 puestos:
 
 1. ANALISTA JURIDICO SISE
 
@@ -405,23 +413,27 @@ I.2.5 Operativos (5), integra puestos de nivel salarial 25, 26, 27, 28, 29A, 29,
 
 15. ANALISTA
 
-16. OFICIAL DE SEGURIDAD
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2016)</small>
 
-17. TECNICO ADMINISTRATIVO
+16. ANALISTA A
 
-18. TECNICO ESPECIALIZADO
+17. OFICIAL DE SEGURIDAD
 
-19. EDUCADORA
+18. TÉCNICO ADMINISTRATIVO
 
-20. ANALISTA ADMINISTRATIVO
+19. TÉCNICO ESPECIALIZADO
 
-21. AUXILIAR DE SERVICIOS GENERALES
+20. EDUCADORA
 
-22. NIÑERA
+21. ANALISTA ADMINISTRATIVO
 
-23. COCINERA
+22. AUXILIAR DE SERVICIOS GENERALES
 
-24. OFICIAL DE SERVICIOS Y MANTENIMIENTO
+23. NIÑERA
+
+24. COCINERA
+
+25. OFICIAL DE SERVICIOS Y MANTENIMIENTO
 
 I.3 Rama.
 
@@ -525,7 +537,9 @@ I.3.4 Apoyo y Asesoría a SPS (04), integra puestos de nivel salarial 7, 8, 9A, 
 
 14. SECRETARIO PARTICULAR DE JUEZ DE DISTRITO
 
-I.3.5 Administrativa (05), integra puestos de nivel salarial 12, 13, 14, 21, 23, 24, 25, 28, 29, 30 y 31, con funciones de apoyo administrativo bajo supervisión superior, requeridas para la operación de las áreas administrativas de su adscripción, como son la dirección y supervisión de áreas, y recursos asignados para la prestación de servicios o realización de trámites en un ámbito específico; la compilación y análisis de información; captura y validación de datos; manejo de equipos de cómputo; operación de sistemas de información; integración de expedientes; manejo de archivos; transcripción de documentos; atención telefónica y de visitantes, entre otras. En esta rama se tienen los siguientes 13 puestos:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE JULIO DE 2016)</small>
+
+I.3.5 Administrativa (05), integra puestos de nivel salarial 12, 13, 14, 21, 23, 24, 25, 28, 29, 30 y 31, con funciones de apoyo administrativo bajo supervisión superior, requeridas para la operación de las áreas administrativas de su adscripción, como son la dirección y supervisión de áreas, y recursos asignados para la prestación de servicios o realización de trámites en un ámbito específico; la compilación y análisis de información; captura y validación de datos; manejo de equipos de cómputo; operación de sistemas de información; integración de expedientes; manejo de archivos; transcripción de documentos; atención telefónica y de visitantes, entre otras. En esta rama se tienen los siguientes 14 puestos:
 
 1. COORDINADOR DE AREAS
 
@@ -547,11 +561,13 @@ I.3.5 Administrativa (05), integra puestos de nivel salarial 12, 13, 14, 21, 23,
 
 10. SECRETARIA A
 
-11. ANALISTA
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2016)</small>
 
-12. TECNICO ADMINISTRATIVO
+12. ANALISTA A
 
-13. ANALISTA ADMINISTRATIVO
+13. TÉCNICO ADMINISTRATIVO
+
+14. ANALISTA ADMINISTRATIVO
 
 I.3.6 Técnica (06), integra puestos de nivel salarial 21, 24, 25, 27, 30 y 32, con funciones de especialidad técnica bajo supervisión superior, requeridas para la prestación de los servicios que proporcionan las áreas administrativas de su adscripción, realizando auditorías, dictámenes, recomendaciones preventivas y correctivas; desarrollo de proyectos y estudios; trámite y seguimiento de asuntos; recepción y atención a enfermos y pacientes; enseñanza y cuidado infantil, entre otras. En esta rama se tienen los siguientes 10 puestos:
 
@@ -621,9 +637,13 @@ II.3 Agrupación de Puestos según su Clasificación.
 
 Los siguientes cuadros incorporan la agrupación general de los puestos considerando su agregación de acuerdo a la clasificación por Tipo, Grupo y Rama e identificando la Clave de Puesto, Nivel y Rango salarial correspondientes.
 
-II.3.1 Del Tipo Confianza existen 57 puestos distribuidos en 5 grupos y 7 ramas, como sigue:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE JULIO DE 2016)</small>
 
-> <small>N. DE E. VEASE CUADRO EN EL D.O.F. DE 11 DE MAYO DE 2011, PAGINAS DE LA 94 A LA 96</small>
+II.3.1 Del Tipo Confianza existen 58 puestos distribuidos en 5 grupos y 7 ramas, como sigue:
+
+> <small>[N. DE E. VÉASE CUADRO EN EL D.O.F. DE 11 DE MAYO DE 2011, PÁGINAS DE LA 94 A LA 96.]</small>
+
+> <small>[N. DE E. VÉASE REFORMA AL CUADRO EN LA TERCERA SECCIÓN DEL D.O.F. DE 8 DE JULIO DE 2016, PÁGINAS 37 Y 38.]</small>
 
 II.3.2 Del Tipo Carrera Judicial se tienen 5 puestos distribuidos en 2 grupos y 1 rama, como sigue:
 
@@ -635,9 +655,13 @@ II.3.3 Del Tipo Base se tienen 13 puestos distribuidos en 1 grupo y 4 ramas, com
 
 II.4 Tabla de Puestos.
 
-Con la finalidad de facilitar la identificación de los 75 puestos que se incluyen en esta actualización, se relacionan a continuación por orden de nivel salarial, de mayor a menor:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE JULIO DE 2016)</small>
 
-> <small>N. DE E. VEASE TABLA EN EL D.O.F. DE 11 DE MAYO DE 2011, PAGINAS DE LA 97 A LA 98.</small>
+Con la finalidad de facilitar la identificación de los 76 puestos que se incluyen en esta actualización, se relacionan a continuación por orden de nivel salarial, de mayor a menor:
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 11 DE MAYO DE 2011, PÁGINAS DE LA 97 A LA 98.]</small>
+
+> <small>[N. DE E. VÉASE REFORMA AL CUADRO EN LA TERCERA SECCIÓN DEL D.O.F. DE 8 DE JULIO DE 2016, PÁGINAS 39 Y 40.]</small>
 
 Nota:
 
@@ -649,7 +673,9 @@ III. OBJETIVO DE LOS PUESTOS
 
 En este apartado se describe el objetivo del puesto para el Consejo, es decir, la razón funcional motivo de su existencia, destacando los elementos fundamentales de su contribución en la operación Institucional.
 
-> <small>N. DE E. VEASE TABLA EN EL D.O.F. DE 11 DE MAYO DE 2011, PAGINAS DE LA 99 A LA 104.</small>
+> <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 11 DE MAYO DE 2011, PÁGINAS DE LA 99 A LA 104.]</small>
+
+> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN LA TERCERA SECCIÓN DEL D.O.F. DE 8 DE JULIO DE 2016, PÁGINA 41.]</small>
 
 IV. POLITICAS
 
@@ -689,7 +715,9 @@ IV.3 Restricciones para la Adscripción de Puestos
 
 La asignación de los puestos depende de la plantilla de plazas autorizada y de la disponibilidad presupuestal del ejercicio para los órganos jurisdiccionales y áreas administrativas del Consejo, en cuanto al tipo de puesto que puede ser adscrito en cada caso se deberán considerar las siguientes restricciones:
 
-> <small>N. DE E. VEASE TABLA EN EL D.O.F. DE 11 DE MAYO DE 2011, PAGINAS DE LA 105 A LA 108.</small>
+> <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 11 DE MAYO DE 2011, PÁGINAS DE LA 99 A LA 104.]</small>
+
+> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN LA TERCERA SECCIÓN DEL D.O.F. DE 8 DE JULIO DE 2016, PÁGINA 41.]</small>
 
 GLOSARIO
 
@@ -732,3 +760,9 @@ Tabulador General de Sueldos y Prestaciones.- Listado en que se consigna los sal
 Unidades administrativas.- Las Ponencias de los Consejeros, Secretarías Ejecutivas y Direcciones Generales.
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNANDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que la actualización al Catálogo General de Puestos del Consejo de la Judicatura Federal, fue aprobada por el Pleno del propio Consejo, en sesión ordinaria de nueve de marzo de dos mil once, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Esquinca Muñoa, César Alejandro Jáuregui Robles y Jorge Moreno Collado.- México, Distrito Federal, a dos de mayo de dos mil once.- Conste.- Rúbrica.
+
+D.O.F. 8 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LAS “MODIFICACIONES AL CATÁLOGO GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL”.]
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL.
