@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-495-del-registro-civil-del-estado-de-guerrero-79768"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-04"
-last_updated: "2015-05-29"
+last_updated: "2016-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 495 DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado en Alcance I, el Martes 4 de enero de 2011.
 
@@ -55,9 +55,13 @@ El Registro Civil es la institución de orden público y de interés social, por
 
 El estado civil de las personas sólo se comprueba con las constancias relativas del Registro Civil, ningún otro documento ni medio de prueba es admisible para comprobar el estado civil, con excepción de los casos previstos por la Ley.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
+
 ###### Artículo 4.
 
-El Estado de Guerrero reconoce la necesidad de inscribir e integrar jurídicamente a la niñez, por lo que les otorgará el derecho a la identidad a las niñas y niños desde su nacimiento a un año de nacidos, mediante el registro gratuito de su nacimiento.
+El Estado de Guerrero garantizará el derecho a la identidad de las niñas y los niños para que sean registrados en forma inmediata a su nacimiento, mediante la expedición gratuita de la primera copia certificada del acta correspondiente, conforme a lo establecido en esta Ley y su Reglamento.
 
 ###### Artículo 5.
 
@@ -89,7 +93,11 @@ III. Proporcionar a las autoridades competentes, los informes registrales que é
 
 IV. Custodiar la documentación a la cual tenga acceso y para responsabilizarle administrativamente deberán firmar, un convenio o carta de confidencialidad, misma que se celebrará entre la Coordinación Técnica del Sistema Estatal del Registro Civil, sus servidores públicos, los Ayuntamientos y el personal de las oficialías de registro civil; y no podrán disponer, conservar o transmitir por ningún medio la información capturada, divulgar, informar o dar resultados que se generen ni antes, durante o al término del desarrollo de los proyectos.
 
-La Coordinación Técnica del Sistema Estatal del Registro Civil, se reservará el derecho de la difusión y propiedad de las actividades, proyectos, programas informáticos y manuales que se realicen y deriven de los mismos, sin detrimento de las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Guerrero; y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
+
+La Coordinación Técnica del Sistema Estatal del Registro Civil, se reservará el derecho de la difusión y propiedad de las actividades, proyectos, programas informáticos y manuales que se realicen y deriven de los mismos, sin detrimento de las sanciones previstas en la Ley Número 695 de Responsabilidades de los Servidores Públicos del Estado y Municipios de Guerrero; y
 
 V. Las demás que esta ley y otros ordenamientos aplicables les confieran.
 
@@ -128,6 +136,12 @@ II. Establecer en coordinación con el Registro Nacional de Población e Identif
 III. Utilizar en los actos registrales, en la expedición de las copias certificadas y de las constancias, medios electrónicos, informáticos y de comunicación para el Archivo Estatal y las Oficialías del Registro Civil, logrando la óptima conservación de los documentos;
 
 IV. Conocer y resolver los procedimientos de aclaración o rectificación administrativa de acuerdo a lo establecido por esta Ley;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2016)</small>
+
+IV Bis. Anular las actas de nacimiento cuando exista duplicidad de registros únicamente en relación a las fechas de nacimiento y de registro, de conformidad con el procedimiento establecido en la presente Ley;
 
 V. Instalar, en coordinación con los Ayuntamientos, un sistema informático que establezca una red que cubra todo el territorio estatal, que a su vez permita la conexión con la red nacional;
 
@@ -277,6 +291,12 @@ XXV. Expedir las constancias de inexistencia de registros, de acuerdo a los resu
 
 XXVI. Autorizar los registros extemporáneos de nacimiento y defunción, siempre y cuando se cumpla con los requisitos señalados por la presente Ley y por las leyes aplicables;
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2016)</small>
+
+XXVI Bis. Autorizar la nulidad de las actas de nacimiento cuando exista duplicidad de registro;
+
 XXVII. Respetar y vigilar el cumplimiento de los convenios, para el adecuado funcionamiento del sistema nacional para la solicitud, trámite y obtención de copias certificadas de actas foráneas del Registro Civil;
 
 XXVIII. Ordenar el cotejo y la compulsa de las actas que integran los libros de las Oficialías del Registro Civil, con los que correspondan al Archivo Estatal;
@@ -411,7 +431,11 @@ II. Testar al reverso, los tantos de que consten los registros al momento de lle
 
 III. Exigir y garantizar la aplicación de los requisitos que la ley prevé, para la celebración de los actos y la inscripción de los mismos en las formas relativas al estado civil de las personas;
 
-IV. Autorizar con su firma autógrafa, electrónica o digital, la expedición de certificaciones de los registros y constancias que obren en los formatos, libros y base de datos del Archivo Estatal de la Oficialía del Registro Civil a su cargo. Por firma electrónica se entenderá lo establecido en el artículo 21 fracción XIV segundo párrafo de la presente Ley;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2016)</small>
+
+IV. Autorizar con su firma autógrafa, electrónica o digital, la expedición de certificaciones de los registros y constancias que obren en los formatos, libros y base de datos del Archivo Estatal de la Oficialía del Registro Civil a su cargo. Por firma electrónica se entenderá lo establecido en el artículo 22 fracción XV segundo párrafo de la presente Ley;
 
 V. Solicitar oportunamente y tener en existencia: los formatos para la inscripción de los actos del estado civil de las personas, los formatos para la expedición de las certificaciones, dispositivos electrónicos para el manejo de la información registral, y el material necesario para el ejercicio de sus funciones;
 
@@ -451,15 +475,23 @@ XXII. Realizar y participar en las campañas, jornadas, programas de registros y
 
 XXIII. Anotar la leyenda “cancelada” en los registros, cuando no hayan cubierto suficientemente los requisitos, o cuando los interesados se hayan negado a continuar el acto. En este caso, el Oficial del Registro Civil anotará la razón por la cual no continuó, y glosará los ejemplares en el volumen correspondiente;
 
-XXIV. Expedir órdenes de inhumación o cremación en su caso, mediante presentación de las copias del acta de defunción, certificado médico de defunción, y demás requisitos que establezcan las leyes en la materia;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+XXIV. (DEROGADA, P.O. 8 DE JULIO DE 2016)
 
 XXV. Enviar por escrito a la Coordinación Técnica del Sistema Estatal del Registro Civil, las propuestas para mejorar y dar eficiencia a los servicios que presta la Institución;
 
-XXVI. Conceder licencia para el traslado de cadáveres o restos de un lugar a otro, siempre y cuando se hayan cumplido los requisitos sanitarios, exhibiendo, para tal efecto, el permiso respectivo;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+XXVI. (DEROGADA, P.O. 8 DE JULIO DE 2016)
 
 XXVII. Levantar oportunamente el registro de defunción de los fallecimientos reportados por el Ministerio Público de su competencia;
 
-XXVIII. Avisar a la Oficialía del Registro Civil correspondiente y a la Coordinación Técnica del Sistema Estatal del Registro Civil, de los actos registrales asentados en su oficina y que se relacionen con los que obren en aquélla, para llevar a cabo la anotación marginal correspondiente;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2016)</small>
+
+XXVIII. Avisar a la Coordinación Técnica del Sistema Estatal del Registro Civil, de los actos registrales asentados en su oficina y que se relacionen con los que obren en aquélla, para llevar a cabo la anotación marginal correspondiente;
 
 XXIX. Atender las consultas en materia registral, que requieran las autoridades y los particulares solicitantes;
 
@@ -909,13 +941,27 @@ El Oficial del Registro Civil que tenga conocimiento de que existen dos o más r
 
 El Oficial del Registro Civil que tenga conocimiento de la existencia de una inscripción anterior deberá abstenerse de asentar o inscribir otra sobre el mismo acto, la desobediencia de lo anterior se sancionará con la destitución de su cargo, independientemente de las responsabilidades de carácter penal que se deriven conforme a la ley.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2016)</small>
+
 ###### Artículo 84.
 
-Cuando exista duplicidad de registros, la Coordinación Técnica del Sistema Estatal del Registro Civil y los Oficiales del Registro Civil, podrán expedir copia certificada, sólo después de que los interesados presenten copia certificada de la sentencia ejecutoriada del juicio de nulidad de alguno de los registros, a la Coordinación Técnica del Sistema Estatal del Registro Civil y a la Oficialía respectiva.
+Cuando exista duplicidad de registros, la Coordinación Técnica del Sistema Estatal del Registro Civil y los Oficiales del Registro Civil, podrán expedir copia certificada, sólo después de que los interesados presenten copia certificada de la sentencia ejecutoriada del juicio de nulidad o constancia del procedimiento administrativo de alguno de los registros a la Coordinación Técnica del Sistema Estatal del Registro Civil y a la Oficialía respectiva.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2016)</small>
+
+Con excepción de la duplicidad de registro a que hace referencia la fracción IV Bis del artículo 12 y XXVI Bis del artículo 22 de la presente Ley.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
 
 ###### Artículo 85.
 
-Cuando la Coordinación Técnica del Sistema Estatal del Registro Civil y las Oficialías del Registro Civil reciban copia certificada de la sentencia ejecutoriada del juicio de nulidad, procederán a realizar la anotación marginal en el acta respectiva y darán de baja los registros nulificados de la base de datos.
+Cuando la Coordinación Técnica del Sistema Estatal del Registro Civil y las Oficialías del Registro Civil reciban copia certificada de la sentencia ejecutoriada del juicio de nulidad o constancia del procedimiento administrativo, procederán a realizar la anotación marginal en el acta respectiva y darán de baja los registros nulificados de la base de datos.
 
 ### CAPÍTULO VII. DEL DIVORCIO ADMINISTRATIVO
 
@@ -943,9 +989,13 @@ II. Oficio dirigido al Coordinador Técnico del Sistema Estatal del Registro Civ
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
+
 ###### Artículo 90.
 
-Los procedimientos administrativos de rectificación y aclaración de actas del estado civil, deberán solicitarse a la Coordinación Técnica del Sistema Estatal del Registro Civil en forma directa o a través de las Oficialías del Registro Civil de la Cabecera Municipal donde tuvo lugar el acto registral. Se iniciarán, tramitaran y resolverán con arreglo a las disposiciones del capítulo I, II, III y IV de la presente Ley.
+Los procedimientos administrativos de rectificación, aclaración y nulidad de actas del estado civil, deberán solicitarse a la Coordinación Técnica del Sistema Estatal del Registro Civil en forma directa o a través de las Oficialías del Registro Civil de la Cabecera Municipal donde tuvo lugar el acto registral. Se iniciaran, tramitaran y resolverán con arreglo a las disposiciones de los capítulos I, II, III, III Bis y IV de la presente Ley.
 
 ###### Artículo 91.
 
@@ -969,6 +1019,30 @@ VIII.- La enumeración precisa y concreta de las peticiones; y
 
 IX.- Las pruebas que se ofrezcan, en su caso.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2016)</small>
+
+###### Artículo 91 Bis.
+
+Las solicitudes de nulidad de las actas del estado civil, se deberán realizar por escrito en el que se señale:
+
+I.- La autoridad a la que se dirige;
+
+II.- El nombre del peticionario y, en su caso, de quien promueve en su nombre;
+
+III.- El domicilio para recibir notificaciones, que deberá estar ubicado en el territorio del estado;
+
+IV.- El nombre y domicilio de la o las Oficialías del Registro Civil donde se hayan realizado los registros;
+
+V.- Los datos del acta de la cual se solicita su nulidad;
+
+VI.- Los datos del acta de la cual se solicita su vigencia;
+
+VII.- Una relación clara y sucinta de los hechos, motivos y fundamentos de la solicitud; y
+
+VIII.- Las pruebas que se ofrezcan para acreditar los hechos de su solicitud.
+
 ###### Artículo 92.
 
 El particular deberá adjuntar a su petición:
@@ -981,13 +1055,33 @@ III.- Los documentos públicos y privados que contengan el nombre o los datos co
 
 IV.- Los documentos que ofrezca como pruebas, en su caso.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2016)</small>
+
+Tratándose de las solicitudes de nulidad de acta del estado civil, el solicitante deberá adjuntar a su petición lo siguiente:
+
+I.- El documento que acredite su personalidad, cuando no se gestione a nombre propio;
+
+II.- Las copias certificadas de las actas, tanto de la que se solicita la nulidad, como de la que se pide se mantenga su vigencia; y
+
+III.- Los documentos y probanzas que justifiquen la nulidad de acta que demanda.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
+
 ###### Artículo 93.
 
-Cuando el escrito de aclaración o rectificación administrativa carezca de algún requisito formal o no se adjunten los documentos respectivos se requerirá al promovente para que, en un plazo de tres días corrija o complete el escrito o exhiba los documentos ofrecidos, apercibiéndole que en caso de no hacerlo, se tendrá por no presentado el escrito o las pruebas, según el caso.
+Cuando el escrito de aclaración, rectificación o nulidad administrativa carezca de algún requisito formal o no se adjunten los documentos respectivos, se requerirá al promovente para que, en un plazo de tres días corrija o complete el escrito o exhiba los documentos ofrecidos, apercibiéndole que en caso de no hacerlo, se tendrán (sic) por no presentado el escrito o las pruebas, según el caso.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2016)</small>
 
 ###### Artículo 94.
 
-Pueden solicitar la rectificación o aclaración administrativa de las actas del Registro Civil:
+Podrán solicitar la rectificación, aclaración o nulidad de las actas del Registro Civil:
 
 I. Las personas de cuyo estado civil se trate;
 
@@ -1017,21 +1111,33 @@ Cuando la Coordinación Estatal del Registro Civil requiera el apoyo de otras in
 
 Cuando en el procedimiento sea necesario el desahogo de las pruebas ofrecidas, la Coordinación Técnica del Sistema Estatal del Registro Civil fijará el día y hora dentro de un plazo no mayor de diez días siguientes a la presentación de la promoción inicial.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
+
 ###### Artículo 99.
 
-Ejecutoriadas las resoluciones, sea que concedan a nieguen la aclaración o la rectificación administrativas de las actas del estado civil, se enviaran un tanto al Oficial del Registro Civil correspondiente y otro al Jefe del Archivo Estatal, para que efectúen las anotaciones correspondientes.
+Ejecutoriadas las resoluciones sea que concedan o nieguen la aclaración, rectificación o nulidad administrativa de la (sic) actas del estado civil, se enviarán un tanto al Oficial del Registro Civil correspondiente y otro al Jefe del Archivo Estatal, para que efectúe (sic) las anotaciones respectivas.
 
 ###### Artículo 100.
 
 A falta de disposición expresa en esta Ley, se aplicará en forma supletoria, el Código Procesal Civil del Estado de Guerrero y los Principios Generales del Derecho.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
+
 ###### Artículo 101.
 
-En los procedimientos de aclaración o rectificación administrativa, no tendrá aplicación el principio de preclusión, en cuanto signifique un obstáculo para el logro de la verdad.
+En los procedimientos de aclaración, rectificación o nulidad administrativa, no tendrá aplicación el principio de preclusión, en cuanto signifique un obstáculo para el logro de la verdad.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2016)</small>
 
 ###### Artículo 102.
 
-En los procedimientos de aclaración y rectificación, se admitirán toda clase de pruebas, excepto las que resulten inútiles para la decisión del asunto.
+En los procedimientos de aclaración, rectificación o nulidad administrativa, se admitirán toda clase de pruebas, excepto la (sic) que resulten ociosas para la decisión del asunto.
 
 Las autoridades administrativas ordenaran, admitirán y desahogaran, en todo tiempo, la práctica, recepción o ampliación de cualquier prueba, siempre y cuando sean necesarias y conducentes para el conocimiento de la verdad sobre el asunto.
 
@@ -1137,13 +1243,47 @@ Para los casos en que sean las Oficialías del Registro Civil quienes conozcan d
 
 V. Ejecutoriada la resolución que declare procedente o improcedente la rectificación solicitada, se comunicará a la Oficialía del Registro Civil correspondiente y al Archivo del Sistema Estatal del Registro Civil, para la anotación respectiva en sus archivos.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2016)</small>
+
+### CAPÍTULO III BIS. DE LA NULIDAD ADMINISTRATIVA
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2016)</small>
+
+###### Artículo 109 Bis.
+
+El interesado o su representante legal presentarán la solicitud de nulidad administrativa de acta de estado civil, por escrito a la Coordinación Técnica del Sistema Estatal del Registro Civil o ante el oficial del Registro Civil que corresponda.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2016)</small>
+
+###### Artículo 109 Bis 1.
+
+La nulidad administrativa de acta de estado civil, procederá cuando exista duplicidad de la misma, por lo que hace a las fechas de nacimiento y de registro.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2016)</small>
+
+###### Artículo 109 Bis 2.
+
+El procedimiento para la nulidad de actas del estado civil, se llevara a cabo en la forma siguiente:
+
+I. Presentada la solicitud, la autoridad administrativa la analizará y la admitirá a trámite asignándole el número progresivo de expediente que corresponda. En el acuerdo que da a (sic) trámite a la solicitud, en su caso, señalará fecha y hora para la audiencia de pruebas y alegatos.
+
+II. Integrado el expediente respectivo y desahogadas las probanzas de referencia, la Coordinación Técnica del Sistema Estatal del Registro Civil, pronunciará la resolución que en derecho corresponda, dentro de un término no mayor a diez días hábiles.
+
+III. Ejecutoriada la resolución pronunciada por la autoridad competente, se comunicará a la Oficialía del Registro Civil correspondiente y al Archivo del Sistema Estatal del Registro Civil, para la anotación respectiva en sus archivos.
+
 ### CAPÍTULO IV
 
 DE LA AUDIENCIA.
 
 ### CAPÍTULO V. DE LOS MEDIOS DE IMPUGNACIÓN
-
-### CAPÍTULO VI. DE LA QUEJA
 
 ###### Artículo 110.
 
@@ -1165,7 +1305,7 @@ Concluido el desahogo de las prueba, las partes podrán alegar por escrito o ver
 
 Una vez oídos los alegatos de las partes, la autoridad administrativa podrá reservarse el dictado de la sentencia dentro de un término no mayor de diez días.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VI. DE LA QUEJA
 
 ###### Artículo 114.
 
@@ -1200,6 +1340,8 @@ La Coordinación Técnica del Sistema Estatal del Registro Civil resolverá en d
 ###### Artículo 118.
 
 Las resoluciones no impugnadas en términos legales causan estado por ministerio de ley.
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 119.
 
@@ -1426,3 +1568,11 @@ Remítase el presente Decreto a la Coordinación Técnica del Sistema Estatal de
 ###### ARTÍCULO CUARTO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, en la página web y las redes sociales de internet del Honorable Congreso del Estado y en dos diarios de mayor circulación en la entidad para su divulgación.
+
+P.O. 8 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 217, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 495 DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor a los treinta días después del día de su publicación en el Periódico Oficial del Gobierno (sic) Estado de Guerrero.
+
+SEGUNDO. Los asuntos que hayan sido iniciados hasta antes de la entrada en vigor del presente Decreto, seguirán su trámite acorde a la normatividad vigente en el momento de su inicio y hasta su conclusión.
