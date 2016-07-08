@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-sistema-estatal-de-proteccion-civil-prevencion-y-109860
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-18"
-last_updated: "2015-09-18"
+last_updated: "2016-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL, PREVENCIÓN Y MITIGACIÓN DE DESASTRES PARA EL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2016.
 
 Ley Publicada en el Sumario del Periódico Oficial del Estado de Querétaro el viernes 18 de septiembre de 2015.
 
@@ -145,7 +145,9 @@ XXXV. Medidas ejecutorias, las medidas coercitivas aplicadas solamente por la au
 
 XXXVI. Mitigación, las medidas tomadas durante la emergencia, con el objetivo de reducir los impactos negativos en la población, su patrimonio y su medio ambiente;
 
-XXXVII. Norma Oficial, las Normas Oficiales Mexicanas aplicables, emitidas por la Secretaría de Salud, Secretaría de Energía, Secretaría de Comunicación y Transporte, entre otras, en materia de regulación de los servicios de salud y atención médica prehospitalaria;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2016)</small>
+
+XXXVII. Norma Oficial, las Normas Oficiales Mexicanas emitidas por la Secretaría de Salud, Secretaría de Energía, Secretaría de Comunicaciones y Transportes, y las demás que resulten aplicables al cumplimiento del objeto de la presente Ley;
 
 XXXVIII. Particulares debidamente entrenados y capacitados en Protección Civil, las personas con registro expedido por la autoridad competente de protección civil, que por voluntad propia participan en actividades operativas de la protección civil, que cuentan con requisitos concretos de aptitud física y mental, reciben capacitación específica en la materia y se rigen por normas reglamentarias, lineamientos o convenio específico, mediante el cual se determina las características y reglamento de operación propio y reconocen como su comandante al titular de la Coordinación Estatal;
 
@@ -435,7 +437,9 @@ X. Realizar investigaciones en materia de gestión de riesgos;
 
 XI. Proponer la celebración de convenios de coordinación;
 
-XII. Integrar y actualizar los registros estatales de protección civil previstos en esta Ley y su reglamento;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2016)</small>
+
+XII. Integrar y actualizar los registros municipales y estatales de protección civil previstos en esta Ley y su reglamento, privilegiando la simplificación administrativa mediante la utilización de servicios en línea;
 
 XIII. Promover el desarrollo de planes y programas para la formación de especialistas en la materia;
 
@@ -715,7 +719,9 @@ a) El Subprograma de Prevención;
 
 9. Equipo de identificación y accesorios para brigadistas: Adquisición de equipo para protección personal de brigadistas (casco, chaleco, botas), y/o distintivos de identificación (chaleco, gorra y silbato). Adjuntar fotografías y constancia de firma de recibido a estos últimos.
 
-10. Capacitación: Impartición de cursos de capacitación (de 8 horas cada uno mínimo) al personal de la Unidad Interna y brigadistas, en materia de primeros auxilios, contra incendio, simulacros y evacuación, y búsqueda y rescate y los que se requieran atendiendo al análisis de riesgos del inmueble. Adjuntar para su validación constancias expedidas por instructores con registro vigente (al día que se presenta el programa interno) ante la Unidad Estatal de Protección Civil, acompañado del listado de asistencia y evidencia fotográfica actual.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
+
+10. Capacitación: Impartición de cursos de capacitación (de 8 horas cada uno mínimo) al personal de la Unidad Interna y brigadistas, en materia de primeros auxilios, contra incendio, simulacros y evacuación, y búsqueda y rescate y los que se requieran atendiendo al análisis de riesgos del inmueble. Adjuntar para su validación constancias expedidas por instructores con registro vigente (al día que se presenta el programa interno) ante la Coordinación Estatal de Protección Civil, acompañado del listado de asistencia y evidencia fotográfica actual.
 
 11. Difusión y concientización: Establecimiento de una estrategia de distribución de impresos que describan las medidas de seguridad y de respuesta a emergencias que se hayan implementado en el inmueble. Adjuntar ejemplares e información utilizada.
 
@@ -1517,9 +1523,21 @@ IV. Constancias de servicio de supresión de fugas, a través de central de fuga
 
 V. Programa Interno de Protección Civil;
 
-VI. Empadronar ante la Coordinación Estatal, el total del parque vehicular que utilicen para el transporte, comercialización y distribución de Gas Licuado de Petróleo en el Estado; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2016)</small>
 
-VII. Las demás que establezca el reglamento respectivo.
+VI. Empadronar ante las Coordinaciones Municipales y la Coordinación Estatal, el total del parque vehicular que utilicen para el transporte, comercialización y distribución de Gas Licuado de Petróleo en el Estado;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2016)</small>
+
+VII. Póliza de seguro vigente, sobre sus instalaciones y vehículos que transporten, distribuyan y/o comercialicen Gas Licuado de Petróleo, que ampare daños a terceros;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JULIO DE 2016)</small>
+
+VIII. Constancia que acredite haber cumplido con el Procedimiento para la Evaluación de la Conformidad (PEC), previsto en la Norma Oficial Mexicana NOM-007-SESH-2010; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JULIO DE 2016)</small>
+
+IX. Las demás que establezca el reglamento respectivo.
 
 ###### Artículo 113.
 
@@ -1529,9 +1547,21 @@ I. Se encuentre clausurada o bajo procedimiento administrativo que no le permita
 
 II. Tener como antecedente infracción impuesta por la Secretaría de Energía y haya transcurrido un año sin regularizar la situación;
 
-III. Cuando de acuerdo a estudios técnicos emitidos por la Unidad de Verificación en materia de Gas L.P no se garantice la seguridad de las instalaciones o vehículos que transporten, almacenen, distribuyan o comercialicen Gas Licuado de Petróleo en el Estado; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2016)</small>
 
-IV. Las demás que establezca el reglamento respectivo.
+III. Cuando de acuerdo a estudios técnicos emitidos por la Unidad de Verificación en materia de Gas Licuado de Petróleo no se garantice la seguridad de las instalaciones o vehículos que transporten, almacenen, distribuyan o comercialicen Gas Licuado de Petróleo en el Estado;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2016)</small>
+
+IV. No acreditar haber cumplido con el Procedimiento para la Evaluación de la Conformidad (PEC), previsto en la Norma Oficial Mexicana NOM-007-SESH-2010.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JULIO DE 2016)</small>
+
+V. No exhiba póliza de seguro vigente que ampare daños a terceros; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JULIO DE 2016)</small>
+
+VI. Las demás que establezca el reglamento respectivo.
 
 Capítulo Decimoprimero
 
@@ -1813,9 +1843,21 @@ XXVII. Ejecutar, ordenar o propiciar actos u omisiones que impidan u obstaculice
 
 XXVIII. La omisión, por persona física o moral, en dar aviso inmediato al sistema de llamadas de emergencia y las autoridades competentes de una emergencia o desastre, cuando conforme a las circunstancias pudiera hacerlo, sin riesgo propio o de terceros o cuando se esté en posibilidad de evitar una emergencia o desastre y no lo haga;
 
-XXIX. No dar cumplimiento a los requerimientos de la Unidad Estatal de Protección Civil o Unidad Municipal correspondiente, relativos a proporcionar información y documentación necesaria para cumplir adecuadamente con las facultades que le confiere esta Ley y su reglamento; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2016)</small>
+
+XXIX. No dar cumplimiento a los requerimientos de la Coordinación Estatal de Protección Civil o Coordinación Municipal de Protección Civil correspondiente, relativos a proporcionar información y documentación necesaria para cumplir adecuadamente con las facultades que le confiere esta Ley y su reglamento;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2016)</small>
 
 XXX. Utilizar la línea de emergencia para realizar llamadas falsas y con ello activar los servicios de emergencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JULIO DE 2016)</small>
+
+XXXI. No contar con el Registro vigente o refrendo vigente ante la Coordinación Estatal de Protección Civil; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JULIO DE 2016)</small>
+
+XXXII. No contar con póliza de seguro vigente que ampare daños a terceros, en los casos que así se requiera.
 
 ###### Artículo 144.
 
@@ -1883,7 +1925,9 @@ VIII. De 100 hasta 5000 vsmgz, por incurrir en cualquiera de las conductas previ
 
 IX. De 100 hasta 10000 vsmgz, por incurrir en cualquiera de las conductas previstas en las fracciones XV, XVI y XXI del artículo 143;
 
-X. De 100 hasta 20000 vsmgz, por incurrir en cualquiera de las conductas previstas en las fracciones XVIII, XIX y XXV, XXVI, XXVIII del artículo 143;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2016)</small>
+
+X. De 100 hasta 20000 vsmgz, por incurrir en cualquiera de las conductas previstas en las fracciones XVIII, XIX, XXV, XXVI, XXVIII, XXXI y XXXII del artículo 143;
 
 XI. De 150 hasta 200 vsmgz, por incurrir en cualquiera de las conductas previstas en las fracciones X, XI y XII del artículo 143; y
 
@@ -1986,3 +2030,15 @@ Lic. Juan Carlos Espinosa Larracoechea
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL, PREVENCIÓN Y MITIGACIÓN DE DESASTRES PARA EL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Todas las referencias hechas a VSMGZ (Veces el Salario Mínimo General Diario Vigente en la Zona) en la Ley del Sistema Estatal de Protección Civil, Prevención y Mitigación de Desastres para el Estado de Querétaro, se entenderán referidas al valor del factor de cálculo, en adelante VFC, previsto en la Ley del Factor de Cálculo del Estado de Querétaro, en relación con el artículo 5 de la Ley de Hacienda del Estado de Querétaro.
