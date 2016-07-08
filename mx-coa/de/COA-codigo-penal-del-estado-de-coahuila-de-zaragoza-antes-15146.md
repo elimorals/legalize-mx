@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2016-05-31"
+last_updated: "2016-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -705,11 +705,21 @@ ARTÍCULO 45 (MODALIDADES AGRAVANTES EN CIERTOS DELITOS CULPOSOS)
 
 El delito culposo se sancionará desde una cuarta parte del mínimo, hasta la mitad del máximo de las penas y medidas de seguridad que correspondan al delito doloso, además de suspensión o inhabilitación desde tres días, hasta el tiempo de duración de la pena de prisión impuesta, para realizar la actividad mediante la cual se cometió la conducta culposa, si respecto de la misma se requiere autorización, licencia, concesión o permiso, cuando se trate de homicidio, lesiones o daños cuya realización sea culposa, en los que concurra alguno de los supuestos siguientes:
 
-I. (Agravación por condición personal que motiva la culpa). Uno de los motivos de la conducta culposa al manejar un vehículo automotriz o maquinaria cuando se causa el resultado, sea el estado de ebriedad o el derivado del consumo de narcóticos cuya venta esté considerada como delito por la ley.
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2016)</small>
 
-II. (Agravación por las condiciones en que se transportan cosas). Uno de los motivos que origina el resultado en virtud de la conducta culposa realizada, sea por las condiciones no permitidas en que se transporten las personas o cosas al prestar un servicio público de transporte de las mismas, si el agente sabe de dichas condiciones, y aun cuando se carezca de la concesión, autorización, licencia o permiso que debieran haberse obtenido, o los mismos estén vencidos o suspendidos.
+I. (Agravación por condición personal que motiva la culpa). Uno de los motivos de la conducta culposa al manejar maquinaria cuando se causa el resultado, sea el estado de ebriedad o el derivado del consumo de narcóticos cuya venta esté considerada como delito por la ley.
 
-III. (Agravación por las condiciones del transporte). Uno de los motivos que origina el resultado en virtud de la conducta culposa realizada, sea por las condiciones defectuosas o irregulares en que se halla el vehículo al prestar un servicio público de transporte de personas o de cosas, si el agente sabe de dichas condiciones, aun cuando carezca de la concesión, autorización, licencia o permiso que debieran haberse obtenido, o los mismos estén vencidos o suspendidos.
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2016)</small>
+
+II. (Agravación por condición personal que motiva la culpa al manejar vehículo automotriz). Uno de los motivos de la conducta culposa al manejar vehículo automotriz cuando se causa el resultado, sea el estado de ebriedad o el derivado del consumo de narcóticos cuya venta esté considerada como delito por la ley, utilizar el teléfono celular con las manos, así como exceder los límites de velocidad establecidos por las disposiciones para circulación de vehículos.
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2016)</small>
+
+III. (Agravación por las condiciones en que se transportan cosas). Uno de los motivos que origina el resultado en virtud de la conducta culposa realizada, sea por las condiciones no permitidas en que se transporten las personas o cosas al prestar un servicio público de transporte de las mismas, si el agente sabe de dichas condiciones, y aun cuando se carezca de la concesión, autorización, licencia o permiso que debieran haberse obtenido, o los mismos estén vencidos o suspendidos.
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2016)</small>
+
+IV. (Agravación por las condiciones del transporte). Uno de los motivos que origina el resultado en virtud de la conducta culposa realizada, sea por las condiciones defectuosas o irregulares en que se halla el vehículo al prestar un servicio público de transporte de personas o de cosas, si el agente sabe de dichas condiciones, aun cuando carezca de la concesión, autorización, licencia o permiso que debieran haberse obtenido, o los mismos estén vencidos o suspendidos.
 
 Si quien maneje el vehículo a que se hace referencia en el párrafo precedente, no es dueño, titular o beneficiario de la concesión, autorización, licencia o permiso, y con independencia de la responsabilidad del conductor, respecto a cualquiera de los dueños, titulares o beneficiarios directos de la concesión, autorización o permiso, o que deberían haber obtenido, así como respecto a cualquiera de los administradores o encargados del servicio, que supiera de las condiciones defectuosas del vehículo en el que se prestaría aquél y no proveyó sobre la reducción del riesgo, se le aplicará la punibilidad prevista en el párrafo primero del artículo 44 de este código.
 
@@ -5923,7 +5933,7 @@ AMPLIACIÓN DE LA REPARACIÓN DEL DAÑO POR CONSECUENCIAS ESPECÍFICAS DE VIOLAC
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-### CAPÍTULO SEGUNDO. PRIVACIÓN DE LA LIBERTAD CON FINES SEXUALES
+### CAPITULO SEGUNDO. PRIVACIÓN DE LA LIBERTAD CON FINES SEXUALES
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
 
@@ -7060,3 +7070,11 @@ P.O. 31 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 468.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; ASÍ MISMO, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 467.- SE MODIFICA LA FRACCIÓN I, II, III Y SE ADICIONA UNA FRACCIÓN IV AL ARTÍCULO 45 DEL CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
