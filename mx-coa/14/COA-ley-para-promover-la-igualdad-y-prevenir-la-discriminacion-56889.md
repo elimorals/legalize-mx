@@ -4,7 +4,7 @@ identifier: "COA-ley-para-promover-la-igualdad-y-prevenir-la-discriminacion-5688
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-24"
-last_updated: "2016-06-28"
+last_updated: "2016-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 24 de agosto de 2007.
 
@@ -104,6 +104,56 @@ XX. Titular del Ejecutivo: El Gobernador Constitucional del Estado de Coahuila.
 > <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2016)</small>
 
 XXI. Trato diferenciado: La forma de considerar a las personas con discapacidad o movilidad limitada, adultos mayores, mujeres en periodo de gestación y en general toda persona que se encuentren (sic) en un estado de vulnerabilidad temporal o permanente, mediante una atención preferente y adecuada.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2016)</small>
+
+ARTÍCULO 3 BIS. Se consideran tipos de discriminación las siguientes:
+
+a.- Discriminación racial o étnica: tiene lugar cuando una persona, o grupo humano, es tratada como inferior por su pertenencia a una determinada raza o etnia.
+
+b.- Discriminación por Provincia o localidad de origen: se da cuando existe un trato a alguien de manera menos favorable porque él o ella provienen de un lugar en particular, por su grupo étnico o acento o porque se cree que tienen antecedentes étnicos particulares. La discriminación por origen nacional también significa tratar a alguien de manera menos favorable en el trabajo debido a su matrimonio u otra relación con alguien de una nacionalidad en particular. Es el tipo de discriminación que sufren aquellos que no son originarios del país o lugar en el que residen, por aquellos que nacieron en el país o tienen mayor antigüedad en él o en un lugar específico
+
+c.- Discriminación religiosa: se da cuando una persona, o grupo de personas, recibe un trato desfavorable por no practicar la creencia religiosa mayoritaria de la sociedad en la que vive o por no profesar creencia alguna.
+
+d.- Discriminación política: tiene lugar cuando algunas personas no pueden expresar libremente sus convicciones políticas porque viven bajo el yugo de gobiernos totalitarios o dictatoriales.
+
+e.- Discriminación por Género: es aquella en la que a una persona se le niega un servicio, una oportunidad, o el acceso a un determinado lugar, el acceso a la justicia, a la atención médica, de forma injustificada aludiendo solamente a su género, puede ser a un hombre o a una mujer.
+
+f.- Discriminación por Orientación, Tendencia, Inclinación o Preferencia sexual: se expresa como el rechazo a un patrón de atracción sexual, erótica, emocional o amorosa de un determinado grupo de personas definidas por su sexo que se alejan del canon predominante. El rechazo se puede dar entre y hacia las propias orientaciones sexuales tales como la heterosexualidad (atracción hacia personas del sexo opuesto), la homosexualidad (atracción hacia personas del mismo sexo) y la bisexualidad (atracción hacia personas de ambos sexos), sin descartar otros tipos de orientación sexual que se desprendan de la diversidad de prácticas emocionales-amorosas-sexuales derivadas de las identidades Lésbico-Gay Homosexual-Bisexual Transgénero. Dichas personas son víctimas de linchamiento moral y hasta físico por no compartir una práctica sexual convencional, o por ser parte de algún orden o movimiento preestablecido en defensa de sus derechos.
+
+g.- Discriminación de nivel cultural y económico: Se produce cuando algunas personas consideran a otras inferiores por no haber tenido acceso a la misma formación cultural o por no disfrutar de una buena situación o posición económica.
+
+h.- Discriminación por Compensación o Igualdad Salarial: se presenta cuando no se recibe igual pago por igual trabajo en el mismo establecimiento, por el hecho de ser hombre-mujer o mujer-hombre. No es necesario que los trabajos sean idénticos, sino que deben ser substancialmente iguales. Es el contenido del trabajo y no los títulos de trabajo lo que determina si los trabajos son substancialmente iguales. Dicha discriminación se da cuando los empleadores no pagan salarios iguales a hombres y mujeres que realizan trabajos que requieren igual habilidad, esfuerzo y responsabilidad y que se realizan bajo condiciones de trabajo similares dentro del mismo establecimiento.
+
+i.- Discriminación estética, vestimenta o aspecto físico: se produce cuando una persona es tratada de forma inferior porque su imagen personal o vestimenta no encaja con el ideal de belleza establecido en la sociedad en la que vive. Es aquella en la que a la persona se le rechaza no solo por su color de piel si no por su complexión, estatura, salud, etcétera. Esta forma de discriminación se encuentra frecuentemente presente en las siguientes situaciones: Ofertas de trabajo que exigen una buena "presencia física"; Negación de la entrada a lugares de ocio, amparándose en el derecho de admisión.
+
+j.- Discriminación por Condiciones de salud: se produce cuando algunas personas son tratadas con cierto recelo o desprecio por el hecho de estar enfermas. La discriminación basada en condiciones de salud, afecta, sobre todo, a personas infectadas por enfermedades sexualmente transmitidas (VIH, SIDA, especialmente) y a personas con algún tipo de discapacidad.
+
+k.- Discriminación por VIH-Sida: el sida es una enfermedad socialmente estigmatizada ya que, según diversos reportes estadísticos-médicos, la principal vía de contagio, a pesar de las campañas de prevención que se han realizado a escala mundial durante los últimos años, sigue siendo la actividad sexual no protegida. Este estigma ocasiona que en la sociedad se discrimine a grupos tales como homosexuales, sexoservidores/as, mujeres, transexuales, bisexuales, entre otros.
+
+l.- Discriminación por discapacidad: se manifiesta cuando una persona es menospreciada o infravalorada por sufrir algún tipo de discapacidad, bien sea física o mental.
+
+m.- Discriminación por Sobre peso y Obesidad: se presenta cuando el sujeto ya sea niño-niña, joven, adulto o adulto mayor, hombre o mujer atraviesa una condición de Sobre peso u Obesidad, y dicha condición, lo expone a burlas, a trato desigual, al desempleo, a la exclusión de alguna actividad deportiva o recreativa, o algún tipo de agresión o de aislamiento social; víctima de igual manera de cualquier otra práctica discriminatoria bajo los entendidos de que no está en condiciones de salud apropiada para realizar algún tipo de tarea.
+
+n.- Discriminación por Embarazo: se presenta cuando por condición de embarazo en el caso específico de la mujer se le niega la contratación dentro de un trabajo, o es expuesta a burlas o comentarios despectivos debido a los prejuicios de compañeros o clientes de trabajo. Es el tipo de discriminación que se ejerce en contra de las mujeres embarazadas en el trabajo, la escuela o en la sociedad en general.
+
+ñ.- Discriminación hacia los Adultos Mayores: la discriminación que se ejerce hacia esta población está relacionada principalmente con la percepción de que son socialmente improductivos, así como con la escasa valoración que se hace de su experiencia y capacidades, negándoles la posibilidad de incorporarse a los espacios laborales o en su extremo ser víctimas de la explotación y de los abusos.
+
+o.- Discriminación hacia la Mujer: se expresa particularmente en todas aquellas prácticas violentas o de trato desigual prevalentes en todas las culturas. Se ejerce en el ámbito doméstico y laboral, provocada por patrones de una cultura patriarcas (sic) que se manifiesta en todo tipo de opresión: desde ser violentadas sexualmente, hasta la conculcación de sus derechos, tales como: transgresión de los deseos, motivaciones y libertad; omisión, ofensa, discriminación, descalificación, uso no permitido de su cuerpo e intromisión en su sexualidad.
+
+p.- Discriminación hacia los Jóvenes y adolescentes
+
+Dicha discriminación se da cuando se les asocia con una serie de prejuicios que hacen más compleja su integración. Se les ha estigmatizado como irresponsables, sin ambiciones ni compromiso con su país o entorno y, más grave aún, se les criminaliza. No se les reconoce las formas de organización o asociación como las denominadas tribus urbanas, entre otro tipo de afiliaciones, y sobre todo no se les genera las condiciones laborales, educativas o de fomento cultural apropiadas para su propio crecimiento y formación.
+
+q.- Discriminación hacia las Niñas y niños: se da cuando existen violaciones a los derechos de las niñas y los niños, o cuando se presentan prácticas de maltrato o castigo en alguna de sus tipologías o representaciones que atentan con el desarrollo biológico, psicológico, emocional, social y espiritual del niño-niña. Dichas prácticas pueden presentarse dentro del propio hogar, los espacios educativos, o diferentes contextos de interacción social.
+
+r.- Discriminación hacia los Migrantes y Refugiados: se presenta cuando existe una violación de sus derechos, la explotación económica, la inseguridad social, el menosprecio y el racismo, así como el riesgo de muerte, son los principales elementos que definen la situación de vida de quienes han optado por la migración como una estrategia de vida y de superación.
+
+s.- Discriminación por Analfabetismo o Nivel Académico: Es la discriminación que se realiza en contra de las personas que no saben leer o que poseen un nivel académico menor (primario, secundario o trunco), se da en especial a la hora de solicitar trabajos, e incluso en los que no se precisa del conocimiento básico escolarizado, así como también se da cuando las personas analfabetas o con los estudios truncos, pretenden iniciar estudios de nuevo, siendo humillados y maltratados por alumnos o docentes.
+
+t.- Discriminación por Lengua: ocurre cuando una persona es tratada diferente a causa de su lengua original o nativa u otras características de su manera de hablar. No debe de ser motivo para acceder a un empleo o a una beca educativa.
+
+u.- Discriminación Múltiple: Este tipo de discriminación sucede cuando un individuo pertenece a más de una minoría o grupo con tendencia a ser discriminado. Dicha discriminación puede ser transversal a todos los tipos de discriminación antes señaladas.
 
 ###### ARTÍCULO 4.
 
@@ -896,6 +946,18 @@ SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
 P.O. 28 DE JUNIO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 458.- SE ADICIONA LA FRACCIÓN III DEL ARTÍCULO 2 DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al siguiente decreto
+
+P.O. 8 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 472.- SE ADICIONA EL ARTÍCULO 3 BIS, A LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ###### ARTÍCULO PRIMERO.
 
