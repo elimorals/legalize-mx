@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-para-el-gobierno-interior-de-la-legislatura-del-7336
 country: "mx"
 rank: "reglamento"
 publication_date: "1975-04-15"
-last_updated: "2013-04-09"
+last_updated: "2016-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA LEGISLATURA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el martes 15 de abril de 1975.
 
@@ -69,39 +69,27 @@ II.- Instalar la Junta Preparatoria o, en su caso, presidir la Junta Previa de c
 
 Sin necesidad de citación alguna, los presuntos Diputados, se reunirán en el Recinto Oficial de la Legislatura, a las 19:00 horas del día 17 de Marzo del año de renovación de miembros del Poder Legislativo del Estado para celebrar la primera Junta Preparatoria, pero de no haber quórum deberá constituirse en Junta Previa y señalar fecha y hora para nueva reunión, debiendo citar directamente y mediante la publicación de avisos en el Periódico Oficial del Estado, a quienes no se hubiesen presentado. El Quórum para la celebración de cualquier Junta Preparatoria, se formará con más de la mitad de los presuntos Diputados a quienes se les haya extendido su credencial de acceso.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
 
 ###### Artículo 5o.
 
-En la primera Junta Preparatoria que se reuna se elegirán de entre los presuntos Diputados, en escrutinio secreto y por mayoría de votos, un Presidente, un Secretario, y un suplente, los que presidirán todas las Juntas Preparatorias que se celebren.
+En la Junta Preparatoria que se reúna, se elegirán de entre los presuntos Diputados, de viva voz en votación nominal y por mayoría simple de votos, un Presidente, Un Vicepresidente y un Secretario.
 
 ###### Artículo 6o.
 
 Instalada la Mesa Directiva de las Juntas Preparatorias, concluirán las funciones de la Comisión Instaladora, la cual se retirará del recinto oficial de la Legislatura, a fin de que los presuntos diputados procedan a la calificación de sus miembros, de conformidad a la disposición constitucional respectiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
-
 ###### Artículo 7o.
 
-Constituida la primera Junta Preparatoria, el Oficial Mayor de la Legislatura hará entrega inventariada a la Mesa Directiva, de los expedientes y documentos que obren en su poder y le hayan sido turnados por los Organismos Electorales competentes. Acto seguido se procederá a la elección en escrutinio secreto y por mayoría de votos de dos Comisiones Dictaminadoras integradas por tres presuntos Diputados cada una, a las cuales se entregarán los documentos y expedientes respectivos para que procedan al dictamen de la elección, bajo las siguientes reglas:
-
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1981)</small>
-
-I.- La primera Comisión dictaminará sobre la legitimidad de la elección de los demás presuntos Diputados.
-
-II.- La segunda comisión elaborará el dictamen sobre la elección de los miembros integrantes de la primera comisión.
-
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1981)</small>
-
-III.- Para la calificación de la elección de los Diputados de representación proporcional, la Comisión Dictaminadora respectiva presentará su dictamen para cada partido politico, en el que se vigilará se haya observado el procedimiento y obtenido el porcentaje de la votación total a que se refiere el articulo 53 bis de la Constitución Política del Estado y la Ley Reglamentaria.
+(DEROGADO, P.O. 8 DE JULIO DE 2016)
 
 ###### Artículo 8o.
 
-A más tardar el 24 de marzo las comisiones dictaminadoras deberán haber entregado los dictamenes de, cuando menos, la mayoría de presuntos diputados, a fin de que puedan (sic) constituirse el quórum legal para la instalación de la Legislatura.
+(DEROGADO, P.O. 8 DE JULIO DE 2016)
 
 ###### Artículo 9o.
 
-Cada dictamen se calificará unitariamente por mayoría de votos de los diputados presentes y su resolución será definitiva e inatacable.
+(DEROGADO, P.O. 8 DE JULIO DE 2016)
 
 ###### Artículo 10.
 
@@ -117,11 +105,11 @@ Acto seguido el Presidente tomará asiento y bajo la misma fórmula tomará la p
 
 Igual protesta está obligado a rendir cada uno de los Diputados que se presentaren con posterioridad, previa calificación de la Legislatura de la elección correspondiente y dictamen de la Comisión que al efecto se nombre conforme al artículo 7 de este Reglamento.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE MAYO DE 1982)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
 
 ###### Artículo 12.
 
-Rendida la protesta, los Diputados procederán a la elección en escrutinio secreto y por mayoría de votos de un Presidente, un Vicepresidente y un Secretario, quienes pasarán a ejercer sus respectivos cargos. En esta ocasión se elegirá también a un Secretario Suplente para los efectos del Artículo 16 de este Reglamento.
+Rendida la protesta, los diputados procederán a la elección por mayoría simple de votos de un Presidente, un Vicepresidente y un Secretario, quienes pasarán a ejercer sus respectivos cargos. En esta ocasión se elegirá también a un Secretario Suplente para los efectos del artículo 16 de este Reglamento.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
 
@@ -157,27 +145,11 @@ Para la Celebración del Segundo Período Ordinario de sesiones y para los conse
 
 Al elegir al Secretario se elegirá también a un Secretario Suplente que lo sustituya en sus ausencias temporales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO Y REUBICADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
 
 ###### Artículo 17.
 
-El Presidente y Vicepresidente serán electos en escrutinio secreto y por mayoría de votos, para ejercer sus funciones durante un mes. Estos no podrán ser reelectos en el mismo período de sesiones.
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 23 DE NOVIEMBRE DE 1981)</small>
-
-Los ejercicios mensuales estarán divididos en la forma siguiente:
-
-I.- El primer mes del primer período de sesiones ordinarias comprenderá: De la fecha de apertura, el 26 de marzo, al 25 de abril de cada año.
-
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
-
-El segundo mes comprenderá del 26 de abril al 26 de Mayo, fecha en que concluye el primer Período Ordinario de sesiones.
-
-II.- El primer mes del segundo periodo comprendera: De la fecha de apertura, el 24 de noviembre hasta el 23 de diciembre, y el segundo: Del 24 de diciembre hasta la fecha de clausura, que será el 24 de enero.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE NOVIEMBRE DE 1981)</small>
-
-El segundo mes comprenderá del 24 de Diciembre al 24 de Enero, fecha en que concluye el segundo Período Ordinario de sesiones.
+El Presidente y Vicepresidente serán electos por mayoría simple de votos, para ejercer sus funciones durante un mes. Éstos no podrán ser reelectos en el mismo periodo de sesiones.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
 
@@ -259,7 +231,7 @@ X.- Nombrar las Comisiones cuyo objeto sea de mera ceremonia y protocolo.
 
 XI.- Por conducto del Secretario, hacer del conocimiento de la Legislatura al principio de cada sesión de los asuntos que han de tratarse y conjuntamente elaborar el orden del día de la sesión siguiente ordenando al Secretario proceda con la debida anticipación a comunicar a las dependencias del Ejecutivo cuando vaya a tratarse algún asunto de su competencia.
 
-XII.- Firmar los nombramientos o remoción de sus empleados y los de la Contaduría Mayor de Hacienda, acordada por la Legislatura.
+XII.- (DEROGADA, P.O. 8 DE JULIO DE 2016)
 
 XIII.- Citar a sesiones extraordinarias, por sí o a solicitud del Ejecutivo, cuando así se estime conveniente.
 
@@ -271,7 +243,7 @@ XV.- Compeler a las Comisiones a nombre de la Legislatura, para la presentación
 
 > <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1981)</small>
 
-XVI.- Aplicar las sanciones contenidas en el párrafo final del artículo 60 Constitucional y las dispuestas en el artículo 64 del propio ordenamiento, y (sic)
+XVI.- Aplicar las sanciones contenidas en el párrafo final del artículo 60 Constitucional y las dispuestas en el artículo 64 del propio ordenamiento, y
 
 > <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1981)</small>
 
@@ -281,11 +253,11 @@ XVII.- Contestar a nombre de la Legislatura en términos generales las considera
 
 XVIII.- Representar a la Legislatura en los actos cívicos y culturales o delegar esa representación en favor de otro Diputado.
 
-(REUBICADO, P.O. 23 DE NOVIEMBRE DE 1981)
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
 
 ###### Artículo 24.
 
-La falta de cumplimiento de las obligaciones del Presidente pueden ser motivo de sustitución, por el Vicepresidente, si así lo acuerda la Legislatura a moción de uno o más diputados y por votación calificada de las dos terceras partes de los presentes.
+La falta de cumplimiento de las obligaciones del Presidente puede ser motivo de sustitución, por el Vicepresidente, si así lo acuerda la Legislatura a moción de uno o más diputados y por votación de mayoría simple de los miembros presentes.
 
 ### CAPITULO III
 
@@ -339,7 +311,7 @@ VIII.- Asentar y firmar en los expedientes los trámites que se le dieren, y las
 
 IX.- Asentar en un libro especial, en orden cronológico y a la letra, las leyes y decretos expedidos por la Legislatura.
 
-X.- Registrar las Leyes Federales expedidas por el Congreso de la Unión.
+X.- (DEROGADA, P.O. 8 DE JULIO DE 2016)
 
 XI.- Firmar conjuntamente con el Presidente, los nombramientos y remociones de los empleados de la Legislatura y de la Contaduría Mayor de Hacienda.
 
@@ -463,9 +435,11 @@ I.- Se presentarán por escrito y firmados por su (sic) autores ante el Presiden
 
 II.- Al término de las intervenciones se someterá a votación si se admite o no a discusión la proposición, y de aceptarse pasará a comisión. En caso contrario se tendrá por desechada.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
+
 ###### Artículo 39.
 
-A propuesta de cualquier diputado, y solo en los casos de urgencia y ovia (sic) resolución calificada por mayoría de votos, podrá la Legislatura dar curso a las proposiciones, iniciativas o dictámenes en tiempo distinto del señalado y someterlos a debate inmediatamente después de su lectura.
+A propuesta de cualquier diputado, y sólo en los casos de urgencia y obvia resolución por mayoría simple de votos, podrá la Legislatura dar curso a las proposiciones, iniciativas o dictámenes en tiempo distinto del señalado y someterlos a debate inmediatamente después de su lectura.
 
 ###### Artículo 40.
 
@@ -713,9 +687,11 @@ Antes de remitirse una ley al Ejecutivo para que sea promulgada, deberá asentar
 
 De las Votaciones.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
+
 ###### Artículo 92.
 
-Habrá tres clases de votaciones nominales, económicas y por cédula. Nunca podrá haber votaciones por aclamación.
+Habrá dos clases de votaciones nominales y económicas.
 
 ###### Artículo 93.
 
@@ -741,25 +717,31 @@ III.- Cuando lo pida un diputado y sea apoyado por la mayoría.
 
 Las demás votaciones sobre resoluciones de la Legislatura seran económicas, que se practicará poniéndose de pie o levantando la mano los diputados que aprueben y permaneciendo sentados los que reprueben.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
+
 ###### Artículo 96.
 
-Las votaciones para elegir personas, se harán por cedulas, que se entregarán al Presidente y éste las depositará, sin leerlas en una ánfora que al efecto se colocará en la Mesa.
+Las votaciones para elegir personas, se hará de manera nominal, en la que el Diputado de viva voz, desde su curul, emitirá su voto a favor de la persona que corresponda.
 
 ###### Artículo 97.
 
-Concluida la votación, el Secretario sacará las cédulas, una despues de otra, y las leerá en alta voz, y anotará los nombres de las personas que en ella aparecieren y el número de votos que a cada uno le tocare. Leída la cédula, se pasará a manos del Presidente para que le conste el contenido de ella y pueda reclamar cualquier equivocación que se advierta. Finalmente, se hará el cómputo de votos.
+(DEROGADO, P.O. 8 DE JULIO DE 2016)
 
 ###### Artículo 98.
 
-Una vez hecho el cómputo de los sufragios depositados para la elección de personas, la Secretaria dará cuenta al Presidente del resultado de la votación quien pronunciará el resultado.
+(DEROGADO, P.O. 8 DE JULIO DE 2016)
 
 ###### Artículo 99.
 
 Todas las votaciones se verificarán por mayoria absoluta, a no ser en aquellos casos en que la Constitución y este reglamento exigen votación calificada.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
+
 ###### Artículo 100.
 
-Para calificar los casos en que los asuntos son de urgente y obvia resolución, se requieren las dos terceras partes de los votos presentes.
+Para calificar los casos en que los asuntos son de urgente y obvia resolución, se requiere la votación de la mayoría simple de los diputados presentes.
+
+Se considerará un asunto de urgente y obvia resolución, cuando se requiera dar trámite ágil y expedito a un asunto legislativo, sin que éste tenga que ser remitido por la Mesa Directiva a la Comisión correspondiente, para que siga su proceso legislativo correspondiente. En este caso, cualquier diputado puede solicitar al Presidente de la Mesa Directiva, que el asunto se desahogue en el momento mismo de su presentación dada su relevancia y urgencia, circunstancia que deberá ser valorada y aprobada en su caso por el Pleno.
 
 ###### Artículo 101.
 
@@ -787,9 +769,11 @@ Las leyes votadas por la Legislatura, se expedirán bajo esta fórmula: "La Legi
 
 De la Diputación Permanente.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
+
 ###### Artículo 105.
 
-El día de la clausura de cada período de sesiones ordinarias, la Legislatura eligirá (sic) en escrutinio secreto y mayoría de votos, una Diputación Permanente compuesta de tres miembros que durarán en su cargo el tiempo intermedio entre los periodos de sesiones ordinarias. El primero de los nombrados será el Presidente y los otros dos secretarios.
+El día de la clausura de cada período de sesiones ordinarias, la Legislatura elegirá mediante votación nominal y mayoría de votos, una Diputación Permanente compuesta de siete miembros que durarán en su cargo el tiempo intermedio entre los períodos de sesiones ordinarias. El primero de los nombrados será el Presidente y los otros dos Secretarios.
 
 ###### Artículo 106.
 
@@ -901,9 +885,11 @@ El Oficial Mayor entrará a ejercer su cargo, con los requisitos y bajo la respo
 
 El personal de la Oficialía Mayor será el que fije el Presupuesto de Egresos. El nombramiento y remoción de ese personal se hará por la Legislatura.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
+
 ###### Artículo 127.
 
-La remoción del Oficial Mayor se hará por la Legislatura a moción de cualquier miembro de ella, con plena justificación, por votación de las dos terceras partes de sus miembros.
+La designación y remoción del Oficial Mayor se hará por la Gran Comisión del Congreso del Estado, a moción de cualquier miembro de ella, con plena justificación, por votación de la mayoría simple de sus miembros.
 
 ###### Artículo 128.
 
@@ -999,8 +985,16 @@ TERCERO.- El Tribunal Electoral, el Instituto Electoral, el Instituto de Transpa
 
 P.O. 9 DE ABRIL DE 2013.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 254 POR EL QUE SE EXPIDE EL REGLAMENTO DE COMISIONES DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO; Y SE DEROGA EL CAPÍTULO VI “DE LAS COMISIONES” DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA LEGISLATURA”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 254 POR EL QUE SE EXPIDE EL REGLAMENTO DE COMISIONES DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO; Y SE DEROGA EL CAPÍTULO VI "DE LAS COMISIONES" DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA LEGISLATURA".]
 
 PRIMERO.- El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones reglamentarias que se opongan al presente Reglamento.
+
+P.O. 8 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 412 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO, EL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA LEGISLATURA DEL ESTADO DE QUINTANA ROO, Y EL REGLAMENTO DE COMISIONES DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se derogan las disposiciones vigentes que contravengan lo dispuesto en el presente Decreto.
