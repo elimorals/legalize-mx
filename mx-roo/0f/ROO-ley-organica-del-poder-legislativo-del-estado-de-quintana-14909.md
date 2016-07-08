@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-14909
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-25"
-last_updated: "2016-06-23"
+last_updated: "2016-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de octubre de 1995.
 
@@ -71,7 +71,7 @@ Ninguna autoridad podrá ejecutar mandamientos judiciales o administrativos sobr
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
-###### Artículo 6.
+###### ARTICULO 6.
 
 Las atribuciones que la Constitución Política del Estado otorga a la Legislatura del Estado y a la Diputación Permanente, así como las que otorguen otras leyes, se ejercerán conforme a lo dispuesto por esta Ley y su Reglamento.
 
@@ -93,11 +93,11 @@ Para la instalación de la Legislatura, la Diputación Permanente saliente convo
 
 a) El Secretario de la Diputación Permanente dará lectura a la lista de los Diputados que hayan resultado electos y comprobando que se tiene la asistencia de más de la mitad del total de sus miembros, dará cuenta al Presidente de la Diputación Permanente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
 
-b) El Presidente pedirá a los Diputados electos que se encuentren presentes que en escrutinio secreto y por mayoría de votos procedan a elegir a la Comisión Instaladora de la Legislatura.
+b) El Presidente pedirá a los diputados electos que se encuentren presentes, que organizados por fracción parlamentaria o en su caso como diputado independiente, presenten su propuesta con la fórmula de Presidente, Vicepresidente y Un Secretario para la integración de la Comisión Instaladora.
 
-La Comisión Instaladora de la Legislatura se integrará con un Presidente, un Vicepresidente y un Secretario.
+El Presidente instruirá al Secretario de la Diputación Permanente para que proceda a dar lectura a las propuestas presentadas y las someta a consideración de los Diputados electos que se encuentren presentes, para que de viva voz, en votación nominal y por mayoría simple de votos, procedan a elegir a la Comisión Instaladora de la Legislatura.
 
 c) Integrada la Comisión Instaladora, la Diputación Permanente se retirará del Recinto Oficial y la Comisión electa pasará a ocupar su lugar, a fin de que se proceda a la instalación de la Legislatura.
 
@@ -111,9 +111,15 @@ e) Acto seguido, el Presidente tomará asiento y bajo la misma fórmula tomará 
 
 f) Inmediatamente después de la protesta de los Diputados, el Presidente de la Comisión declarará constituida la Legislatura, bajo la siguiente fórmula: "La (aquí el número ordinal de la Legislatura que corresponda) Legislatura del Estado Libre y Soberano de Quintana Roo, se declara legalmente constituida"; acto seguido nombrará una Comisión de Cortesía para que lo comunique a los titulares de los Poderes Ejecutivo y Judicial del Estado.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
+
 ###### ARTICULO 8.
 
-Instalada la Legislatura, los Diputados procederán a la elección en escrutinio secreto y por mayoría de votos de la Mesa Directiva, eligiendo al Presidente y Vicepresidente del Primer Mes del Primer Período Ordinario de Sesiones del Primer Año de Ejercicio Constitucional, y al Secretario y Pro-Secretario para el Primer Ejercicio anual, con lo que concluirá la sesión de instalación.
+Instalada la Legislatura, los diputados electos que se encuentren presentes, que organizados por fracción parlamentaria o en su caso como diputado independiente, presenten su propuesta con la fórmula de integración de la Mesa Directiva, para Presidente y Vicepresidente del Primer Mes del Primer Período Ordinario de Sesiones del Primer Año de Ejercicio Constitucional, y del Secretario y Pro-Secretario para el Primer Ejercicio anual de la Legislatura.
+
+El Presidente instruirá al Secretario de la Comisión Instaladora, para que someta a consideración del Pleno las propuestas presentadas, y tome la votación nominal de viva voz de los diputados presentes.
+
+Posteriormente, el Secretario dará a conocer la fórmula que obtuvo la mayoría de votos, con lo que concluirá la sesión de instalación.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -295,11 +301,11 @@ XLVIII.- Expedir todas las leyes y decretos que sean necesarios para hacer efect
 
 ### CAPITULO I. DE SU ELECCION E INTEGRACION
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 17.
 
-La Mesa Directiva conducirá las sesiones del Pleno de la Legislatura conforme a las atribuciones que le otorgue la presente Ley y su Reglamento a cada uno de sus miembros. Se integrará con un Presidente, un Vicepresidente, un Secretario y un Pro-Secretario, electos en escrutinio secreto y por mayoría de votos.
+La Mesa Directiva conducirá las sesiones del Pleno de la Legislatura conforme a las atribuciones que le otorgue la presente Ley y su Reglamento a cada uno de sus miembros. Se integrará con un Presidente, un Vicepresidente, un Secretario y un Pro-Secretario.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -316,6 +322,14 @@ El Secretario y el Pro-Secretario se elegirán para el ejercicio anual, en la mi
 Diez días antes de la apertura de cada período de sesiones ordinarias, con excepción de lo previsto en el Artículo 8 de la presente Ley, los Diputados elegirán en sesión previa, para el primer mes del primer período, al Presidente, al Vicepresidente, al Secretario y al Pro-secretario, y para el primer mes del segundo período, únicamente al Presidente y Vicepresidente.
 
 En la última sesión de cada primer o segundo mes, la Legislatura elegirá para el siguiente mes, al Presidente y al Vicepresidente, quienes asumirán sus cargos en la sesión siguiente a aquélla en que hubieren sido electos.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2016)</small>
+
+Para estos efectos, los diputados organizados por fracción parlamentaria o en su caso como diputado independiente, presentarán al presidente de la Mesa Directiva, su propuesta con la fórmula de Presidente y Vicepresidente.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2016)</small>
+
+El Presidente instruirá al Secretario de la Mesa Directiva, para que proceda a dar lectura a las propuestas presentadas y las someta a consideración de los diputados que se encuentren presentes, para que de viva voz, en votación nominal y por mayoría simple de votos de los miembros presentes, procedan a elegir a la Presidencia y Vicepresidencia de la Mesa Directiva.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE MARZO DE 2010)</small>
 
@@ -349,11 +363,9 @@ Corresponde a la Mesa Directiva, bajo la autoridad de su Presidente, preservar l
 
 ### CAPITULO II. DE LA PRESIDENCIA Y VICEPRESIDENCIA DE LA MESA DIRECTIVA
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
-
 ###### ARTICULO 25.
 
-El Presidente de la Mesa Directiva tendrá la representación del Poder Legislativo durante su encargo.
+(DEROGADO, P.O. 8 DE JULIO DE 2016)
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -557,11 +569,17 @@ Las Comisiones ordinarias serán:
 
 26.- Comisión de Concertación y Prácticas Parlamentarias.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 36.
 
-Las Comisiones ordinarias se integrarán por regla general con cinco Diputados designados por acuerdo del Pleno de la Legislatura, con excepción de la Comisión de Concertación y Prácticas Parlamentarias que se integrará por el Representante o Coordinador de cada uno de los Grupos Parlamentarios con presencia en la Cámara, y sus funciones serán exclusivamente las que le confiera el Reglamento de esta ley.
+Las Comisiones ordinarias se integrarán por regla general con cinco Diputados designados por acuerdo del Pleno de la Legislatura, con excepción de la Comisión de Concertación y Prácticas Parlamentarias que se integrará por el Representante o Coordinador de cada uno de los Grupos Parlamentarios y con los diputados independientes de la Legislatura, y sus funciones serán exclusivamente las que le confiera el Reglamento de esta ley.
+
+Los diputados organizados por fracción parlamentaria o en su caso como diputado independiente, presentarán al Presidente de la Mesa Directiva su propuesta de integración de las Comisiones Ordinarias a que se refiere el artículo 35 de esta Ley, conformada cada fórmula por Presidente, Secretario y tres vocales de cada una de dichas comisiones.
+
+El Presidente instruirá al Secretario de la Mesa Directiva para que proceda a dar lectura a las propuestas presentadas y las someta a consideración de los diputados presentes, para que de viva voz en votación nominal y por mayoría simple de votos, procedan a elegir la integración de las Comisiones Ordinarias del Congreso del Estado.
+
+En caso de advertir alguna omisión o error en la integración de las propuestas, el Secretario informará al Presidente para efecto de que le solicite a los diputados organizados por fracción parlamentaria o en su caso, a los diputados independientes, a que subsanen tal circunstancia.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -627,13 +645,15 @@ Cuando alguno de los miembros de una Comisión disienta de la resolución adopta
 
 La Gran Comisión será integrada por los Presidentes de las Comisiones Ordinarias de Puntos Constitucionales, Puntos Legislativos y Técnica Parlamentaria, Justicia, Hacienda, Presupuesto y Cuenta y Asuntos Municipales.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 45.
 
-Inmediatamente después de que se hayan integrado las Comisiones a las que se refiere el artículo anterior, se reunirán sus Presidentes para nombrar de entre ellos, en escrutinio secreto y por mayoría de votos, al Presidente, al Secretario y a los tres Vocales de la Gran Comisión.
+Inmediatamente después de que se hayan integrado las Comisiones a las que se refiere el artículo anterior, se reunirán sus Presidentes para nombrar de entre ellos, de viva voz y por mayoría simple al Presidente, Secretario y tres Vocales de la Gran Comisión.
 
-El Presidente de la Gran Comisión tendrá el carácter de Coordinador del Poder Legislativo.
+El Presidente de la Gran Comisión tendrá el carácter de Coordinador del Poder Legislativo y de representante del mismo, ante cualquier autoridad administrativa o judicial.
+
+El Presidente de la Gran Comisión firmará conjuntamente con el Secretario, los nombramientos de los titulares de las Dependencias del Poder Legislativo.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -703,9 +723,9 @@ VII.- Desahogar las consultas respecto de la aplicación e interpretación de es
 
 C) Es materia Administrativa:
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2016)</small>
 
-I.- Someter los nombramientos, renuncias, licencias y remociones de los titulares de las dependencias del Poder Legislativo a la consideración del Pleno.
+I.- Designar y remover a los titulares de las Dependencias del Poder Legislativo, a moción de cualquier miembro de ella, con plena justificación y por votación de la mayoría simple de sus miembros.
 
 II.- Nombrar y remover, por conducto de la Oficialía Mayor, a los demás, empleados de las dependencias del Poder Legislativo.
 
@@ -759,11 +779,15 @@ La Diputación Permanente se compondrá de siete miembros que durarán en su enc
 
 La Diputación Permanente será presidida por una Mesa Directiva que se integrará con un Presidente y dos Secretarios.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 54.
 
-En la misma sesión de clausura del Período de Sesiones Ordinarias del Congreso, el Pleno de la Legislatura en escrutinio secreto y por mayoría de votos, elegirá a los integrantes de la Diputación Permanente. El primero de los nombrados será el Presidente y los otros dos Secretarios de la Mesa Directiva de la Diputación Permanente.
+En la misma sesión de clausura del Período de Sesiones Ordinarias del Congreso, los diputados organizados por fracción parlamentaria o en su caso como diputado independiente, presentarán su propuesta para la integración de la Diputación Permanente que se integrará por siete miembros, para que el Pleno de la Legislatura los elija.
+
+La propuesta a que se refiere el párrafo anterior deberá precisar quiénes de los miembros propuestos, fungirán como Presidente y los dos Secretarios de la Diputación Permanente.
+
+El Presidente de la Mesa Directiva instruirá al Secretario para que proceda a dar lectura a las propuestas presentadas y las someta a consideración de los diputados presentes, para que aquellos, de viva voz en votación nominal y por mayoría simple de votos, procedan a elegirlos.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1063,11 +1087,9 @@ IX.- Dirección de Concertación Legislativa.
 
 X.- Las demás que coadyuven a las funciones de las anteriores.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
-
 ###### ARTICULO 82.
 
-Las Dependencias del Poder Legislativo estarán a cargo de un titular nombrado por el Pleno de la Legislatura a propuesta de la Gran Comisión y por el personal necesario para la ejecución de sus funciones previsto en el Presupuesto de Egresos.
+(DEROGADO, P.O. 8 DE JULIO DE 2016)
 
 > <small>(REFORMADO, P.O. 6 DE JUNIO DE 2008)</small>
 
@@ -1075,11 +1097,11 @@ Las Dependencias del Poder Legislativo estarán a cargo de un titular nombrado p
 
 Para ser titular de las Dependencias del Poder Legislativo, se exigirán los requisitos señalados en el Artículo 95 de la Constitución Política del Estado, con excepción del titular de la Dirección de Apoyo Jurídico, quien además deberá ser abogado o licenciado en derecho, con título y cédula profesional expedidos por autoridad o institución legalmente facultadas para ello. Tratándose del titular del Instituto de Investigaciones Legislativas además de los requisitos establecidos en el Artículo 95 de la Constitución Política del Estado, se requerirá ser abogado o licenciado en derecho, con título y cédula profesional expedidos por autoridad o institución legalmente facultadas para ello y contar preferentemente con experiencia en el área de investigación.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 84.
 
-Para relevar a los titulares de las Dependencias del Poder Legislativo, se requerirá plena justificación calificada por el voto de las dos terceras partes de los miembros de la Legislatura.
+La designación y remoción de los titulares de las Dependencias del Poder Legislativo, se hará por la Gran Comisión del Congreso del Estado, a moción de cualquier miembro de ella, con plena justificación, por votación de la mayoría simple de sus miembros.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1441,11 +1463,11 @@ Si el autor de la iniciativa fuere el Titular del Ejecutivo, la Legislatura podr
 
 Dada la primera lectura, si no hay observaciones conforme a los artículos anteriores, pasará desde luego a la Comisión o Comisiones que señale el Presidente, para su estudio, análisis y dictamen.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 112.
 
-En los casos de urgencia u obvia resolución calificados por el voto de las dos terceras partes de los Diputados presentes, se podrá dar curso a las iniciativas dispensando de su lectura y dictamen, procediendo a discutirse en ese mismo momento, observándose las formalidades reglamentarias del debate.
+En los casos de urgencia u obvia resolución calificados por el voto de la mayoría simple de los Diputados presentes, se podrá dar curso a las iniciativas dispensando de su lectura y dictamen, procediendo a discutirse en ese mismo momento, observándose las formalidades reglamentarias del debate.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1751,7 +1773,9 @@ Concluida la etapa de conclusiones y alegatos, el Presidente de la Legislatura p
 
 Reanudada la sesión, se concederá el uso de la palabra a un miembro del Jurado y a otro que lo solicitare. No podrán hacer uso de la palabra más de dos oradores.
 
-Al concluir el último orador, se tomará votación nominal. Cada miembro del Jurado dirá si el servidor público es o no responsable, o con la palabra "SI" o "NO". Esta votación podrá ser sustituida por cédula, si así lo pidiere algún Diputado y lo acordare el Pleno.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
+
+Al concluir el último orador, se tomará votación nominal. Cada miembro del Jurado dirá si el servidor público es o no responsable, o con la palabra “sí” o “no”.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -2098,3 +2122,11 @@ P.O. 23 DE JUNIO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación, publíquese en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Desígnese al Titular de la Dirección de Concertación Legislativa, en los términos regulados en la Ley Orgánica del Poder Legislativo y su Reglamento.
+
+P.O. 8 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 412 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO, EL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA LEGISLATURA DEL ESTADO DE QUINTANA ROO Y EL REGLAMENTO DE COMISIONES DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se derogan las disposiciones vigentes que contravengan lo dispuesto en el presente Decreto.
