@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-instituto-tabasqueno-de-59405"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-19"
-last_updated: "2015-09-02"
+last_updated: "2016-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL INSTITUTO TABASQUEÑO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2016.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 19 de enero de 2008.
 
@@ -153,9 +153,11 @@ Todas las decisiones y funciones del Instituto son competencia originaria del Pl
 
 Las sesiones del Órgano de Gobierno serán convocadas por el Presidente o por los dos Consejeros restantes y se desarrollarán conforme a las disposiciones que rigen el funcionamiento del Pleno.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+
 ###### Artículo 18.
 
-Quienes ocupen cargo de Secretario Ejecutivo o Director en el Instituto deberán cubrir los siguientes requisitos:
+Quienes ocupen cargo de Secretario Ejecutivo, Directores, Titular del Órgano de Control Interno o de las Unidades Administrativas en el Instituto, deberán cubrir los siguientes requisitos:
 
 I. Ser ciudadano tabasqueño;
 
@@ -868,3 +870,11 @@ P.O. 2 DE SEPTIEMBRE DE 2015.
 PRIMERO. Las presentes Reformas entrarán en vigor al siguiente día hábil de su aprobación por parte del Pleno del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.
 
 SEGUNDO. Para la debida difusión del contenido del presente acuerdo del pleno, se ordena su publicación en el Órgano de Difusión Oficial del Gobierno del Estado, así como en la página web del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública del Estado.
+
+P.O. 9 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE "SE REFORMA EL ARTÍCULO 18 DEL REGLAMENTO INTERIOR DEL INSTITUTO TABASQUEÑO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA".]
+
+PRIMERO.- La presente Reforma entrará en vigor al siguiente día hábil de su aprobación por parte del Pleno del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.
+
+SEGUNDO.- Para la debida difusión del contenido del presente acuerdo del Pleno, se ordena su publicación en el Órgano de Difusión Oficial del Gobierno del Estado, así como en la página web del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública del Estado.
