@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-a-la-cultura-del-estado-de-jalisco-19325"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-21"
-last_updated: "2015-03-28"
+last_updated: "2016-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19325&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FOMENTO A LA CULTURA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2016.
 
 Ley Publicada en el Periódico Oficial el 21 de diciembre de 2000 Sección II.
 
@@ -91,11 +91,11 @@ IX. Reconocer como gestor cultural a toda persona que actúe como agente de camb
 
 Cultura es el conjunto de elementos tangibles e intangibles, así como los valores que a través del tiempo construyen un sistema significante de la realidad, que define la identidad específica de una comunidad y vincula a sus miembros con respecto de ésta, bajo esquemas de identidad individual y sentido de pertenencia social.
 
-> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
 
 ###### Artículo 2 Ter.
 
-El Estado y los ayuntamientos promoverán los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa.
+El Estado y los ayuntamientos promoverán los medios para la difusión y el desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa, atendiendo al principio de no discriminación.
 
 ###### Artículo 3.
 
@@ -1044,3 +1044,9 @@ P.O. 8 DE ABRIL DE 2014.
 P.O. 28 DE MARZO DE 2015.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco".
+
+P.O. 9 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 25849/LXI/16 QUE REFORMA EL ARTÍCULO 2° TER DE LA LEY DE FOMENTO A LA CULTURA DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial EI Estado de Jalisco.
