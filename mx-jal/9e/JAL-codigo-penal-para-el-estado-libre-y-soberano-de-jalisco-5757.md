@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2015-12-01"
+last_updated: "2016-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -4001,15 +4001,11 @@ Se impondrán de veinticinco a cuarenta y cinco años de prisión al que dolosam
 
 ###### Art. 225.
 
-Comete el delito de infanticidio la madre que, para ocultar su deshonra, prive de la vida a su hijo, dentro de las 72 horas del nacimiento.
+(DEROGADO, P.O. 9 DE JULIO DE 2016)
 
 ###### Art. 226.
 
-A la que cometa el delito de infanticidio, se le impondrán de seis a diez años de prisión; igual pena se le aplicará si el infante es producto de una violación y se trata de mujer soltera.
-
-Si en la muerte del infante tomare participación un médico, cirujano, enfermera, comadrona o partera, estos serán sancionados como homicidas, sin perjuicio de suspenderlos durante el mismo término de la pena corporal en el ejercicio de su profesión, oficio o respectiva actividad.
-
-Para que proceda la aplicación de la pena de infanticidio, se requiere que la mujer no tenga mala fama; que haya ocultado su embarazo; que el nacimiento del infante haya sido oculto y no se hubiere inscrito en el Registro Civil y que, además, no sea habido en matrimonio o concubinato. En caso contrario, se aplicarán las sanciones del homicidio simple y, si no se llenan los extremos legales del infanticidio, se aplicarán las penas del parricidio.
+(DEROGADO, P.O. 9 DE JULIO DE 2016)
 
 ### CAPITULO V. Fraude
 
@@ -5697,19 +5693,19 @@ Cuarto. En caso de no haber designación de Auditor Superior del Estado al día 
 
 Quinto. Los sujetos auditables podrán acogerse a los procedimientos y disposiciones que establece la presente ley en la revisión de las cuentas públicas o estados financieros correspondientes a los ejercicios fiscales que no se hubieren dictaminado por la Auditoría Superior del Estado, mediante solicitud dirigida al Auditor Superior del Estado de Jalisco.
 
-La Auditoria Superior del Estado, en las revisiones a que se refiere el párrafo anterior, tendrá todas las atribuciones previstas en esta ley y en la reforma constitucional que le da fundamento, debiendo observar los principios rectores de la fiscalización superior de legalidad, certeza, independencia, objetividad imparcialidad, posterioridad, anualidad y profesionalismo; de la misma forma, los servidores públicos de la Auditoría Superior deberán cumplir con las obligaciones que les impone esta ley.
+La Auditoría Superior del Estado, en las revisiones a que se refiere el párrafo anterior, tendrá todas las atribuciones previstas en esta ley y en la reforma constitucional que le da fundamento, debiendo observar los principios rectores de la fiscalización superior de legalidad, certeza, independencia, objetividad, imparcialidad, posterioridad, anualidad y profesionalismo; de la misma forma, los servidores públicos de la Auditoría Superior deberán cumplir con las obligaciones que les impone esta ley.
 
 Los sujetos auditables y fiscalizables que soliciten la revisión prevista en el presente artículo tendrán un término de quince días a partir de la entrega de su solicitud para proporcionar el domicilio al que se refiere el artículo 5 de esta ley.
 
 En caso que los sujetos auditables que no se acojan a este decreto, la revisión de sus cuentas se harán con las disposiciones de la Ley de Fiscalización Superior del Estado de Jalisco, vigente en el ejercicio fiscal de su gestión, es decir, 2006, 2007 y 2008.
 
-Sexto. En tanto se establece la infraestructura y el procedimiento necesario para la utilización de la firma electrónica por las entidades auditables y la Auditoria Superior, las entidades auditables que opten en enviar su documentación justificativa y comprobatoria de las cuentas públicas y de los informes de avance de gestión financiera en medios magnéticos o electrónicos las enviarán conforme al procedimiento estipulado por los acuerdos del Auditor Superior relativos a la presentación de las cuentas públicas por estos medios.
+Sexto. En tanto se establece la infraestructura y el procedimiento necesario para la utilización de la firma electrónica por las entidades auditables y la Auditoría Superior, las entidades auditables que opten en enviar su documentación justificativa y comprobatoria de las cuentas públicas y de los informes de avance de gestión financiera en medios magnéticos o electrónicos las enviarán conforme al procedimiento estipulado por los acuerdos del Auditor Superior relativos a la presentación de las cuentas públicas por estos medios.
 
-Séptimo. Los recursos materiales, técnicos y financieros que actualmente están afectos o destinados a la Auditoria Superior, pasarán a formar parte del patrimonio del órgano dotado con autonomía técnica y de gestión denominado Auditoria Superior.
+Séptimo. Los recursos materiales, técnicos y financieros que actualmente están afectos o destinados a la Auditoría Superior, pasarán a formar parte del patrimonio del órgano dotado con autonomía técnica y de gestión denominado Auditoría Superior.
 
-Octavo. Todos los recursos humanos asignados a la actual Auditoría Superior pasarán a formar parte de la plantilla de personal del órgano dotado con autonomía técnica y de gestión denominado Auditoría Superior. Por lo cual, deberán respetarse los derechos laborales de los servidores públicos de la Auditoria Superior, y las Condiciones Generales para los Trabajadores al Servicio del Poder Legislativo del Estado de Jalisco, incluso ante la reestructuración administrativa.
+Octavo. Todos los recursos humanos asignados a la actual Auditoría Superior pasarán a formar parte de la plantilla de personal del órgano dotado con autonomía técnica y de gestión denominado Auditoría Superior. Por lo cual, deberán respetarse los derechos laborales de los servidores públicos de la Auditoría Superior, y las Condiciones Generales para los Trabajadores al Servicio del Poder Legislativo del Estado de Jalisco, incluso ante la reestructuración administrativa.
 
-Noveno. El Poder Legislativo, en conjunto con la Auditoria Superior del Estado de Jalisco y el Poder Ejecutivo, llevarán a cabo las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto.
+Noveno. El Poder Legislativo, en conjunto con la Auditoría Superior del Estado de Jalisco y el Poder Ejecutivo, llevarán a cabo las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto.
 
 Para tal efecto, una vez designado el Auditor Superior, deberá presentar a la Junta de Coordinación Política, así como a la Comisión de Hacienda y Presupuestos del Congreso del Estado, el anteproyecto de presupuesto de la Auditoría Superior del Estado.
 
@@ -6140,3 +6136,9 @@ P.O. 1 DE DICIEMBRE DE 2015.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. El Titular del Poder Ejecutivo del Estado de Jalisco deberá actualizar el Reglamento de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Jalisco, considerando lo señalado en el presente decreto, en un plazo no mayor a sesenta días, contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 9 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25848/LXI/16 QUE DEROGA LOS ARTÍCULOS 225 Y 226 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+ÚNICO. EI presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
