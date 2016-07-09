@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-accion-ante-el-cambio-climatico-del-estado-de-10960
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-27"
-last_updated: "2015-08-27"
+last_updated: "2016-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2016.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 27 de agosto de 2015.
 
@@ -87,9 +87,17 @@ XV. Promover políticas que permitan efectuar la restauración de áreas degrada
 
 XVI. Fortalecer las capacidades de adaptación en materia de cambio climático a nivel estatal, regional y sectorial;
 
-XVII. Generar elementos para la integración y el mejoramiento del desempeño de los componentes del Sistema Estatal de Planeación Democrática relativos al objeto y contenido de esta Ley, en cada etapa del proceso de planeación; y
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2016)</small>
 
-XVIII. Contribuir al cumplimiento de las obligaciones internacionales y las metas nacionales a mediano y largo plazo en materia de cambio climático, y promover tanto las políticas nacionales como las de índole local.
+XVII. Generar elementos para la integración y el mejoramiento del desempeño de los componentes del Sistema Estatal de Planeación Democrática relativos al objeto y contenido de esta Ley, en cada etapa del proceso de planeación;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2016)</small>
+
+XVIII. Contribuir al cumplimiento de las obligaciones internacionales y las metas nacionales a mediano y largo plazo en materia de cambio climático, y promover tanto las políticas nacionales como las de índole local; y
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2016)</small>
+
+XIX. Impulsar la investigación científica a fin de regular los mecanismos de modificación artificial del clima del Estado de Jalisco.
 
 ###### Artículo 4.
 
@@ -2011,7 +2019,7 @@ Los resultados de las evaluaciones deberán ser considerados en la formulación,
 
 ## TRANSITORIOS
 
-Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
 
 Artículo Segundo. El Poder Ejecutivo del Estado deberá generar el reglamento de la presente ley dentro de los ocho meses siguientes a la entrada en vigor de la misma.
 
@@ -2064,3 +2072,11 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25854/LXI/16 QUE REFORMA EL ARTÍCULO 6°, EN SUS FRACCIONES XXVI, SEGUNDO PÁRRAFO, XXVII Y SE ADICIONA LA FRACCIÓN XXVIII A LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; REFORMA EL ARTÍCULO 3°, EN SUS FRACCIONES XVII, XVIII, Y SE ADICIONA LA FRACCIÓN XIX DE LA LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
