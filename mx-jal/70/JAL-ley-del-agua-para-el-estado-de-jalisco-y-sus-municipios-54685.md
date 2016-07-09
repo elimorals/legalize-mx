@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-agua-para-el-estado-de-jalisco-y-sus-municipios-54685"
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-24"
-last_updated: "2015-02-21"
+last_updated: "2016-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "JAL"
 ---
 # LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 25296/LX/15, SE ABROGA EL DIVERSO 21915/LVIII/07 PUBLICADO EN EL P.O. DE 9 DE OCTUBRE DE 2007.</small>
-
 LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2016.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 24 de febrero de 2007.
 
@@ -401,9 +399,11 @@ Los grupos académicos, colegios de profesionales, especialistas, asociaciones y
 
 ### CAPÍTULO III. De la programación hídrica
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2016)</small>
+
 ###### Artículo 14.
 
-La Comisión será responsable de la formulación, seguimiento, evaluación y actualización de la programación hídrica estatal, con el concurso de las autoridades municipales, los usuarios y la sociedad en general, atendiendo a las prioridades que establezca la Ley de Aguas Nacionales y su Reglamento, las disposiciones contenidas en la Ley de Planeación, y en coordinación con las Secretarías de Desarrollo Urbano, la de Desarrollo Rural del Estado y la del Medio Ambiente y Desarrollo Sustentable. El resultado se plasmará en el Programa Hídrico Estatal.
+La Comisión será responsable de la formulación, seguimiento, evaluación y actualización de la programación hídrica estatal, con el concurso de las autoridades municipales, los usuarios y la sociedad en general, atendiendo a las prioridades que establezca la Ley de Aguas Nacionales y su Reglamento, las disposiciones contenidas en la Ley de Planeación, y en coordinación con las Secretarías de Infraestructura y Obra Pública, de Desarrollo Rural del Estado y la de Medio Ambiente y Desarrollo Territorial. El resultado se plasmará en el Programa Hídrico Estatal.
 
 En el reglamento de esta Ley, se establecen los términos y reglas para la participación de las autoridades estatales, municipales, los usuarios del agua y la sociedad organizada en el proceso de programación hídrica.
 
@@ -491,7 +491,9 @@ Son autoridades responsables de vigilar la observancia de la presente Ley, en el
 
 I. La Comisión;
 
-II. La Secretaría de Medio Ambiente para el Desarrollo Sustentable;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2016)</small>
+
+II. La Secretaría de Medio Ambiente y Desarrollo Territorial;
 
 III. La Secretaría de Desarrollo Rural; y
 
@@ -551,7 +553,9 @@ XVIII. Elaborar anualmente un informe de los avances y estado general de gestió
 
 XIX. Proponer las políticas públicas, estrategias, criterios y lineamientos que regulen la prestación de los servicios públicos de agua potable, alcantarillado, tratamiento y disposición de aguas residuales en el estado;
 
-XX. Mantener actualizadas las normas técnicas, observando las disposiciones que la Secretaría de Desarrollo Rural, la Secretaría de Desarrollo Urbano del Estado, la Secretaría de Medio Ambiente y Desarrollo Sustentable, la Comisión Nacional y otras dependencias federales tienen fijadas en la materia, incluyendo la estructuración de precios unitarios y preparación de presupuestos base conforme a lo establecido en las propias normas técnicas;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2016)</small>
+
+XX. Mantener actualizadas las normas técnicas, observando las disposiciones que la Secretaría de Desarrollo Rural, la Secretaría de Infraestructura y Obra Pública, la Secretaría de Medio Ambiente y Desarrollo Territorial, la Comisión Nacional y otras dependencias federales tienen fijadas en la materia, incluyendo la estructuración de precios unitarios y preparación de presupuestos base conforme a lo establecido en las propias normas técnicas;
 
 XXI. Determinar los usos de las aguas de jurisdicción estatal;
 
@@ -559,7 +563,9 @@ XXII. Participar en coordinación con la Comisión Nacional y escuchando al Cons
 
 XXIII. Intervenir en el ámbito de su competencia y de conformidad con la legislación aplicable, en la supervisión y validación de los programas de obras de agua potable, alcantarillado y saneamiento de carácter público o privado que se realicen en el Estado;
 
-XXIV. Formular en coordinación con la Secretaría de Finanzas, la Secretaría de Desarrollo Urbano, la Secretaría de Desarrollo Rural, los Ayuntamientos de la Entidad y el COPLADE, los programas anuales de inversión del sector público en obras hidráulicas, de agua potable, alcantarillado y saneamiento en el Estado;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2016)</small>
+
+XXIV. Formular en coordinación con la Secretaría de Planeación, Administración y Finanzas, la Secretaría de Infraestructura y Obra Pública, la Secretaría de Desarrollo Rural, los Ayuntamientos de la Entidad y el COPLADE, los programas anuales de inversión del sector público en obras hidráulicas, de agua potable, alcantarillado y saneamiento en el Estado;
 
 XXV. Proponer, aplicar y dar seguimiento a criterios y políticas de asignación de apoyos estatales para el estudio, proyecto, diseño, construcción, rehabilitación, mejoramiento y operación de los sistemas de agua potable, alcantarillado, tratamiento y disposición de aguas residuales;
 
@@ -665,17 +671,25 @@ II. El Director General de la Comisión, quien será nombrado por el resto de lo
 
 III. Los siguientes vocales:
 
-a) El titular o representante de la Secretaría del Medio Ambiente para Desarrollo Sustentable;
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+
+a) El titular o representante de la Secretaría de Medio Ambiente y Desarrollo Territorial;
 
 b) El titular o representante de la Secretaría de Salud;
 
-c) El titular o representante de la Secretaría de Desarrollo Urbano;
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+
+c) El titular o representante de la Secretaría de Infraestructura y Obra Pública;
 
 d) El titular o representante de la Secretaría de Desarrollo Rural;
 
-e) El titular o representante de la Secretaría de Promoción Económica;
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
 
-f) El titular o representante de la Secretaría de Finanzas;
+e) El titular o representante de la Secretaría de Desarrollo Económico;
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+
+f) El titular o representante de la Secretaría de Planeación, Administración y Finanzas;
 
 g) El titular o representante de la Contraloría del Estado;
 
@@ -1567,9 +1581,11 @@ IX. Las causas de rescisión o restricción establecidas en esta Ley; y
 
 X. Las infracciones y sanciones de las partes.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+
 ###### Artículo 92.
 
-Los adeudos a cargo de los usuarios y a favor de los Organismos Operadores, exclusivamente para efectos de cobro, tendrán solamente en el caso de no existir contratos de adhesión, el carácter de créditos fiscales, para cuya recuperación los funcionarios encargados de las Haciendas municipales o los servidores públicos que determine cada municipio y la Secretaría de Finanzas del Estado, en el caso de que los servicios sean prestados por el Estado, aplicarán el procedimiento administrativo de ejecución, incluyendo la liquidación fiscal, cuando resulte apropiado.
+Los adeudos a cargo de los usuarios y a favor de los Organismos Operadores, exclusivamente para efectos de cobro, tendrán solamente en el caso de no existir contratos de adhesión, el carácter de créditos fiscales, para cuya recuperación los funcionarios encargados de las Haciendas municipales o los servidores públicos que determine cada municipio y la Secretaría de Planeación, Administración y Finanzas del Estado, en el caso de que los servicios sean prestados por el Estado, aplicarán el procedimiento administrativo de ejecución, incluyendo la liquidación fiscal, cuando resulte apropiado.
 
 ###### Artículo 93.
 
@@ -1919,7 +1935,9 @@ Los ayuntamientos serán la autoridad competente para iniciar el procedimiento s
 
 La Comisión Estatal será la autoridad competente para supervisar, tratándose de materias de su competencia conforme a esta Ley. Asimismo, podrá ejercer las facultades que le deleguen las autoridades federales, incluyendo las relacionadas con los procedimientos sancionadores.
 
-Las atribuciones de inspección y vigilancia, imposición de medidas de seguridad determinación de infracciones, y aplicación de sanciones, establecidas de conformidad con la legislación ambiental estatal, con otras disposiciones legales, normativas y reglamentarias aplicables, así como las derivadas de los convenios y acuerdos de coordinación entre la Federación, el Estado y en su caso los municipios, serán ejercidas por la secretaría de Medio Ambiente para el Desarrollo Sustentable, a través de la Procuraduría Estatal de Protección al Ambiente del Estado de Jalisco.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+
+Las atribuciones de inspección y vigilancia, imposición de medidas de seguridad determinación de infracciones, y aplicación de sanciones, establecidas de conformidad con la legislación ambiental estatal, con otras disposiciones legales, normativas y reglamentarias aplicables, así como las derivadas de los convenios y acuerdos de coordinación entre la Federación, el Estado y en su caso los municipios, serán ejercidas por la Secretaría de Medio Ambiente y Desarrollo Territorial, a través de la Procuraduría Estatal de Protección al Ambiente del Estado de Jalisco.
 
 ###### Artículo 106.
 
@@ -2072,5 +2090,11 @@ P.O. 21 DE FEBRERO DE 2015.
 P.O. 21 DE FEBRERO DE 2015.
 
 DECRETO NÚMERO 25297/LX/15, POR EL QUE SE REFORMAN LOS ARTÍCULOS 35 FRACCIONES I Y II, Y 88; Y SE ADICIONAN LAS FRACCIONES XII, XIII Y XIV AL ARTÍCULO 35, Y UN ARTÍCULO QUINTO TRANSITORIO A LA LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 9 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 25852/LXI/16 QUE REFORMA LOS ARTÍCULOS 14, PRIMER PÁRRAFO, 20, FRACCIÓN II, 23, FRACCIONES XX Y XXIV, 25, FRACCIÓN III, INCISOS A), C), E) Y F), 92 Y 105, TERCER PÁRRAFO, DE LA LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
