@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2016-02-03"
+last_updated: "2016-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2016.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -2229,7 +2229,7 @@ No se actualizará el delito tratándose de programas preventivos, educativos o 
 
 ###### Artículo 184.
 
-A quien pague o prometa pagarle con dinero u otra ventaja de cualquier naturaleza a una persona menor de dieciocho años o a un tercero para que aquélla sostenga relaciones o actos sexuales o eróticos, se le impondrá prisión de uno a tres años y de cincuenta a doscientos días multa, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
+A quien pague o prometa pagarle con dinero u otra ventaja de cualquier naturaleza a una persona menor de dieciocho años o a un tercero para que aquélla sostenga relaciones o actos sexuales o eróticos, se le impondrá prisión de uno a tres años y de cincuenta a doscientos días de multa, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE MAYO DE 2014)</small>
 
@@ -2836,6 +2836,10 @@ III. Distrajera o desviara en perjuicio de alguien el curso de aguas para usarla
 ###### Artículo 233.
 
 Si el despojo se realiza por dos o más personas, además de las penas señaladas en el artículo anterior, se aplicarán a los autores intelectuales y a quienes dirijan la ejecución, de uno a seis años de prisión.
+
+(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE JULIO DE 2016]
+
+Si el despojo se realiza en contra de una persona adulta mayor en estado de vulnerabilidad, las penas a imponer se incrementarán en una tercera parte.
 
 ###### Artículo 234.
 
@@ -4776,6 +4780,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 3 DE FEBRERO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1134/2015 I P.O. MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 30, FRACCIÓN II; 87 FRACCIÓN IV Y 193 EN SU PRIMER PÁRRAFO; Y SE ADICIONAN LOS ARTÍCULOS 30, CON UNA FRACCIÓN IV; 68 EN SU INCISO B, CON UNA FRACCIÓN X; Y 87 CON UNA FRACCIÓN VI, TODOS DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1392/2016 XIV P.E., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 233 DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO ÚNICO.
 
