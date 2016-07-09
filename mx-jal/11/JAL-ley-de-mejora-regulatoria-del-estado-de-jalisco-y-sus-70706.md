@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-mejora-regulatoria-del-estado-de-jalisco-y-sus-70706"
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-24"
-last_updated: "2009-10-24"
+last_updated: "2016-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE MEJORA REGULATORIA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2016.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el sábado 24 de octubre de 2009.
 
@@ -41,13 +41,17 @@ Se expide la Ley de Mejora Regulatoria del Estado de Jalisco y sus Municipios, p
 
 ###### Artículo 1.
 
-1. La presente Ley es de interés público y de observancia general en el Estado de Jalisco, aplicable a todos los actos, procedimientos y resoluciones emanadas de la Administración Pública Estatal, de sus organismos públicos descentralizados, en materia de mejora regulatoria económica y simplificación administrativa, y su aplicación le corresponde a las Secretarías de Promoción Económica y de Administración en el ámbito estatal.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+
+1. La presente Ley es de interés público y de observancia general en el Estado de Jalisco, aplicable a todos los actos, procedimientos y resoluciones emanadas de la Administración Pública Estatal, de sus organismos públicos descentralizados, en materia de mejora regulatoria económica y simplificación administrativa, y su aplicación le corresponde a la Secretaría de Desarrollo Económico y la Secretaria de Planeación, Administración y Finanzas;
 
 2. Respecto del ámbito municipal, la presente ley constituirá bases generales a desarrollarse en los respectivos reglamentos municipales.
 
-###### Artículo 2.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
 
-1. De conformidad con los principios constitucionales, el Estado y los Municipios podrán celebrar convenios de coordinación, a efecto de establecer mecanismos para impulsar la mejora regulatoria a nivel municipal, contando con el apoyo y coordinación de la Secretaría de Promoción Económica del Estado.
+Artículo 2
+
+1. De conformidad con los principios constitucionales, el Estado y los Municipios podrán celebrar convenios de coordinación, a efecto de establecer mecanismos para impulsar la mejora regulatoria a nivel municipal, contando con el apoyo y coordinación de la Secretaría de Desarrollo Económico.
 
 ###### Artículo 3.
 
@@ -129,7 +133,9 @@ XVI. Trámite: En el marco de un procedimiento administrativo, cualquier gestió
 
 ###### Artículo 7.
 
-1. Los Municipios del Estado que determinen adherirse a los procesos establecidos en la presente Ley mediante Convenio de Coordinación que al efecto suscriban con la Secretaría de Promoción Económica del Estado, deberán delimitar en dicho convenio el contenido y las acciones que se aplicarán en el orden municipal correspondiente.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+
+1. Los Municipios del Estado que determinen adherirse a los procesos establecidos en la presente Ley mediante Convenio de Coordinación que al efecto suscriban con la Secretaría de Desarrollo Económico, deberán delimitar en dicho convenio el contenido y las acciones que se aplicarán en el orden municipal correspondiente.
 
 2. En ningún caso, la firma del convenio a que se refiere este artículo limitará atribución u obligación alguna del Municipio.
 
@@ -165,7 +171,9 @@ IV. Establecer los mecanismos de coordinación y colaboración interinstituciona
 
 ###### Artículo 12.
 
-1. La Secretaría de Promoción Económica será la encargada, en el ámbito estatal, de la organización, programación y ejecución de los programas y acciones en materia de mejora regulatoria y simplificación administrativa, y para ello deberá:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2016)</small>
+
+1. La Secretaría de Desarrollo Económico será la encargada, en el ámbito estatal, de la organización, programación y ejecución de los programas y acciones en materia de mejora regulatoria y simplificación administrativa, y para ello deberá:
 
 I. Elaborar anualmente el Programa Estatal de Mejora Regulatoria en congruencia con los objetivos, políticas, estrategias, lineamientos y metas previstos en los Planes Nacional y Estatal de Desarrollo y con el Programa Federal sobre la materia, que se encuentren vigentes;
 
@@ -185,7 +193,9 @@ VIII. Promover la descentralización, desconcentración, regionalización y simp
 
 IX. Coordinar, actualizar y vigilar la aplicación del Registro Público de Trámites Estatales;
 
-X. Promover e impulsar la realización de trámites a través de medios electrónicos, en coordinación con la Secretaría de Administración;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2016)</small>
+
+X. Promover e impulsar la realización de trámites a través de medios electrónicos, en coordinación con la Secretaría de Planeación, Administración y Finanzas;
 
 XI. Proponer a las autoridades de la administración pública estatal y, en su caso, municipal la apertura y operación de Centros Integrales de Negocios, atendiendo la estrategia de regionalización establecida por el Gobierno Estatal; y asesorar a las autoridades que así lo soliciten, para la implementación y seguimiento de los Centros Integrales de Negocios;
 
@@ -195,13 +205,17 @@ XIII. Fomentar y fortalecer en la ciudadanía y en las autoridades de la adminis
 
 XIV. Promover ante los organismos financieros nacionales e internacionales la obtención de recursos relacionados con la implementación del proceso o herramientas de mejora regulatoria en la infraestructura comercial, social y administrativa;
 
-XV. Difundir, por medios impresos y recursos tecnológicos, el proceso de mejora regulatoria en la entidad, además de promover la elaboración de Cartas Compromiso Ciudadanas por parte de las dependencias y organismos estatales competentes, o los municipales que lo soliciten, en coordinación con la Secretaría de Administración;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2016)</small>
+
+XV. Difundir, por medios impresos y recursos tecnológicos, el proceso de mejora regulatoria en la entidad, además de promover la elaboración de Cartas Compromiso Ciudadanas por parte de las dependencias y organismos estatales competentes, o los municipales que lo soliciten, en coordinación con la Secretaría de Planeación, Administración y Finanzas;
 
 XVI. Presentar un informe anual de actividades ante el COMERJAL;
 
 XVII. Capacitar a los servidores públicos involucrados en el proceso, a través de seminarios y talleres en materia de mejora regulatoria;
 
-XVIII. Proponer y promover, en coordinación con la Secretaría de Administración, la realización de procesos de reingeniería de trámites en las Dependencias estatales, así como la adopción de sistemas de certificación de calidad, una vez que se hayan logrado los resultados esperados, para garantizar la adecuada presentación de los servicios a los usuarios;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2016)</small>
+
+XVIII. Proponer y promover, en coordinación con la Secretaría de Planeación, Administración y Finanzas, la realización de procesos de reingeniería de trámites en las Dependencias estatales, así como la adopción de sistemas de certificación de calidad, una vez que se hayan logrado los resultados esperados, para garantizar la adecuada presentación de los servicios a los usuarios;
 
 XIX. Coordinar al Comité de Mejora Regulatoria del Estado de Jalisco, y
 
@@ -211,7 +225,9 @@ XX. Las demás que le confieran las disposiciones jurídicas aplicables.
 
 ###### Artículo 13.
 
-1. La Secretaría de Administración, con base en las atribuciones que le otorga la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, apoyará la aplicación de las acciones relacionadas con el proceso de mejora regulatoria, particularmente en lo concerniente a:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2016)</small>
+
+l. La Secretaría de Planeación, Administración y Finanzas, con base en las atribuciones que le otorga la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, apoyará la aplicación de las acciones relacionadas con el proceso de mejora regulatoria, particularmente en lo concerniente a:
 
 I. Desarrollar estrategias de Gobierno Electrónico que faciliten la realización de trámites y procesos que involucren la participación de las dependencias y organismos estatales, o de las instancias municipales que soliciten su asesoría e intervención, con el fin de agilizarlos, estandarizarlos y evitar o reducir al máximo las actitudes discrecionales de las autoridades involucradas, en beneficio de los particulares; y considerará las sugerencias en el tema que haga el COMERJAL;
 
@@ -219,15 +235,21 @@ II. Crear, atendiendo a la disponibilidad presupuestal, Unidades o Centros Infor
 
 III. Proponer estrategias relacionadas con el establecimiento de kioscos y otros medios electrónicos que permitan la realización de trámites;
 
-IV. Promover, en coordinación con la Secretaría de Promoción Económica, la elaboración de Cartas Compromiso Ciudadanas entre las dependencias y organismos estatales, así como en los municipales que lo soliciten formalmente, brindándoles asesoría y apoyo en la revisión y aplicación de la reingeniería de sus procesos;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2016)</small>
 
-V. Diseñar el sistema para el establecimiento del Registro Estatal de Personas Acreditadas (REPA), en coordinación con la Secretaría de Promoción Económica y las dependencias y organismos estatales involucrados, así como con las instancias municipales que lo soliciten de manera formal, y
+IV. Promover, en coordinación con la Secretaría de Desarrollo Económico, la elaboración de Cartas Compromiso Ciudadanas entre las dependencias y organismos estatales, así como en los municipales que lo soliciten formalmente, brindándoles asesoría y apoyo en la revisión y aplicación de la reingeniería de sus procesos;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2016)</small>
+
+V. Diseñar el sistema para el establecimiento del Registro Estatal de Personas Acreditadas (REPA), en coordinación con la Secretaría de Desarrollo Económico y las dependencias y organismos estatales involucrados, así como con las instancias municipales que lo soliciten de manera formal; y
 
 VI. Las demás que le confieran otras disposiciones jurídicas en materia de mejora regulatoria.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+
 ###### Artículo 14.
 
-1. Los titulares de las dependencias estatales, centralizadas o descentralizadas, así como los Municipios que hayan celebrado el convenio de coordinación en la materia conforme al artículo 2 de esta Ley, deberán designar mediante oficio dirigido al titular de la Secretaría de Promoción Económica a los representantes de cada dependencia u organismo, con nivel de Director General o equivalente, quienes serán los responsables de llevar a cabo el procedimiento de mejora regulatoria en su dependencia, de coordinarse con la Secretaría de Promoción Económica, y de inscribir y actualizar los datos a que se refiere el Título V de esta Ley.
+1. Los titulares de las dependencias estatales, centralizadas o descentralizadas, así como los Municipios que hayan celebrado el convenio de coordinación en la materia conforme al artículo 2 de esta Ley, deberán designar mediante oficio dirigido al titular de la Secretaría de Desarrollo Económico a los representantes de cada dependencia u organismo, con nivel de Director General o equivalente, quienes serán los responsables de llevar a cabo el procedimiento de mejora regulatoria en su dependencia, de coordinarse con la Secretaría de Desarrollo Económico, y de inscribir y actualizar los datos a que se refiere el Título V de esta Ley.
 
 ## TÍTULO TERCERO. Del Comité de Mejora Regulatoria del Estado de Jalisco
 
@@ -241,9 +263,13 @@ VI. Las demás que le confieran otras disposiciones jurídicas en materia de mej
 
 I. Un Presidente que estará a cargo del C. Gobernador del Estado;
 
-II. Un Vicepresidente, que será el Secretario de Promoción Económica;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2016)</small>
 
-III. Un Secretario Técnico, que será el Director General de Mejora Regulatoria de la Secretaría de Promoción Económica, y
+II. Un Vicepresidente, que será el Secretario de Desarrollo Económico;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2016)</small>
+
+III. Un Secretario Técnico, que será el Director General de Mejora Regulatoria de la Secretaría de Desarrollo Económico; y
 
 IV. Vocales previa invitación.
 
@@ -327,19 +353,27 @@ c. Puntos Constitucionales, Estudios Legislativos y Reglamentos;
 
 d. Desarrollo Municipal;
 
-e. Gobernación;
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
 
-f. Medio Ambiente y Desarrollo Sustentable;
+e. Secretaría de Planeación, Administración y Finanzas;
 
-g. Asuntos Metropolitanos;
+f. (DEROGADO, P.O. 9 DE JULIO DE 2016)
 
-h. Desarrollo Regional;
+g. (DEROGADO, P.O. 9 DE JULIO DE 2016)
 
-i. Desarrollo Urbano;
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+
+h. Secretaría de Medio Ambiente y Desarrollo Territorial;
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+
+i. Secretaría de Infraestructura y Obra Pública;
 
 j. Justicia, y
 
-k. Planeación para el Desarrollo.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+
+k. Secretaría de Movilidad;
 
 IV. Del Poder Judicial, el Presidente del Supremo Tribunal de Justicia del Estado de Jalisco, el Presidente del Tribunal de lo Administrativo y un consejero del Consejo de la Judicatura;
 
@@ -393,7 +427,9 @@ e. Federación de Asociaciones de Colonos de Jalisco, y
 
 f. Liga de Comunidades Agrarias.
 
-3. Cada uno de los integrantes citados en esta fracción, deberá designar por escrito ante la Secretaría de Promoción Económica, un suplente que tendrá los mismos derechos y obligaciones que el Titular en el COMERJAL.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+
+3. Cada uno de los integrantes citados en esta fracción, deberá designar por escrito ante la Secretaría de Desarrollo Económico, un suplente que tendrá los mismos derechos y obligaciones que el Titular en el COMERJAL.
 
 4. La participación en este consejo será honorífica por lo que no se recibirá remuneración económica alguna por la integración al mismo. Los representantes de organizaciones privadas o sociales, en ningún caso tendrán el carácter de servidores públicos por su participación en este comité.
 
@@ -527,9 +563,11 @@ IX. Difundir ampliamente entre los sectores público, social y privado, los avan
 
 2. Estos acuerdos en ningún caso serán vinculantes para las autoridades municipales o para el órgano depositario del Poder Legislativo en el estado.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+
 ###### Artículo 29.
 
-1. Para la operación y coordinación del COMERJAL, el Vicepresidente y Secretario Técnico harán uso de los recursos asignados a la Secretaria de Promoción Económica en las partidas presupuestales autorizadas correspondientes.
+1. Para la operación y coordinación del COMERJAL, el Vicepresidente y Secretario Técnico harán uso de los recursos asignados a la Secretaría de Desarrollo Económico en las partidas presupuéstales autorizadas correspondientes.
 
 ## TÍTULO CUARTO. De las Manifestaciones de Impacto Regulatorio
 
@@ -581,9 +619,11 @@ V. Anteproyectos relativos a salubridad pública, y
 
 VI. Anteproyectos en materia electoral, educativa y notarial.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+
 ###### Artículo 34.
 
-1. Estarán exentos de la obligación de elaborar y presentar la MIR, y por ende de su dictaminación, cuando los anteproyectos no tengan impacto económico; lo cual será valorado y resuelto por la Secretaría de Promoción Económica, de conformidad con el reglamento, siempre y cuando la dependencia o entidad generadora de la iniciativa solicite la exención por escrito a la Secretaría en mención, señalando los razonamientos y en su caso, fundamentos del porqué la propuesta no genera costos, además deberá de anexar una copia del anteproyecto respectivo.
+1. Estarán exentos de la obligación de elaborar y presentar la MIR, y por ende de su dictaminación, cuando los anteproyectos no tengan impacto económico; lo cual será valorado y resuelto por la Secretaría de Desarrollo Económico, de conformidad con el reglamento, siempre y cuando la dependencia o entidad generadora de la iniciativa solicite la exención por escrito a la Secretaría en mención, señalando los razonamientos y en su caso, fundamentos del porqué la propuesta no genera costos, además deberá de anexar una copia del anteproyecto respectivo.
 
 ###### Artículo 35.
 
@@ -603,27 +643,37 @@ III. Introduce definiciones, clasificaciones, caracterizaciones o cualquier otro
 
 ###### Artículo 37.
 
-1. Las Dependencias estatales y municipales que hayan suscrito convenio de coordinación conforme al artículo 2 de esta Ley, presentarán ante la Secretaría de Promoción Económica los anteproyectos relativos a trámites y requisitos que afecten o modifiquen la carga administrativa para la ciudadanía en los trámites y servicios que realicen ante sus dependencias acompañados de una MIR del anteproyecto.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+
+1. Las Dependencias estatales y municipales que hayan suscrito convenio de coordinación conforme al artículo 2 de esta Ley, presentarán ante la Secretaría de Desarrollo Económico los anteproyectos relativos a trámites y requisitos que afecten o modifiquen la carga administrativa para la ciudadanía en los trámites y servicios que realicen ante sus dependencias acompañados de una MIR del anteproyecto.
 
 2. El procedimiento contemplado en este capítulo no será obligatorio para los Ayuntamientos o el Congreso del Estado y en ningún caso, substituirá los procedimientos legislativos que en atención a la normatividad aplicable dichas autoridades llevan a cabo.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+
 ###### Artículo 38.
 
-1. Cuando la Secretaría de Promoción Económica reciba un anteproyecto y su Manifestación de Impacto Regulatorio, lo hará del conocimiento del COMERJAL.
+1. Cuando la Secretaría de Desarrollo Económico reciba un anteproyecto y su Manifestación de Impacto Regulatorio, lo hará del conocimiento del COMERJAL.
 
 ###### Artículo 39.
 
-1. La Secretaría de Promoción Económica deberá emitir un dictamen sobre los anteproyectos y sus MIR, a más tardar treinta días hábiles después de su presentación, siempre y cuando cumpla con los aspectos básicos señalados en el artículo 32 y demás relacionados de la presente Ley; sin embargo, se podrá requerir información complementaria, adicional o aclaratoria hasta por dos ocasiones, a la Dependencia estatal encargada del proyecto, lo cual suspenderá el plazo de dictaminación señalado hasta que se cumpla con el requerimiento.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+
+1. La Secretaría de Desarrollo Económico deberá emitir un dictamen sobre los anteproyectos y sus MIR, a más tardar treinta días hábiles después de su presentación, siempre y cuando cumpla con los aspectos básicos señalados en el artículo 32 y demás relacionados de la presente Ley; sin embargo, se podrá requerir información complementaria, adicional o aclaratoria hasta por dos ocasiones, a la Dependencia estatal encargada del proyecto, lo cual suspenderá el plazo de dictaminación señalado hasta que se cumpla con el requerimiento.
 
 2. La Dependencia estatal requerida tendrá un plazo máximo de diez días hábiles para cumplir con el requerimiento mencionado en el párrafo anterior, de lo contrario se tendrá por no presentada la documentación para trámite de dictaminación.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+
 ###### Artículo 40.
 
-1. En caso de que la Secretaría de Promoción Económica resuelva dentro del plazo señalado en el artículo anterior, que la MIR o el anteproyecto en cuestión presenta inconsistencias y proponga modificaciones con probabilidad de alto impacto económico, podrá condicionar a que la dependencia estatal correspondiente, que con cargo a su presupuesto, efectúe la designación oficial de un experto que deberá revisar la manifestación de impacto regulatorio y complementarla, para que el anteproyecto pueda someterse a un nuevo al (sic) procedimiento de dictaminación de MIR ante la Secretaría de Promoción Económica.
+1. En caso de que la Secretaría de Desarrollo Económico resuelva dentro del plazo señalado en el artículo anterior, que la MIR o el anteproyecto en cuestión presenta inconsistencias y proponga modificaciones con probabilidad de alto impacto económico, podrá condicionar a que la dependencia estatal correspondiente, que con cargo a su presupuesto, efectúe la designación oficial de un experto que deberá revisar la manifestación de impacto regulatorio y complementaria, para que el anteproyecto pueda someterse a un nuevo al (sic) procedimiento de dictaminación de MIR ante la Secretaría.
 
 ###### Artículo 41.
 
-1. Los dictámenes deberán considerar las opiniones de los miembros del COMERJAL que reciba la Secretaría de Promoción Económica, respecto de los anteproyectos y las manifestaciones, y contener por lo menos los siguientes aspectos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2016)</small>
+
+1. Los dictámenes deberán considerar las opiniones de los miembros del COMERJAL que reciba la Secretaría de Desarrollo Económico, respecto de los anteproyectos y las manifestaciones, y contener por lo menos los siguientes aspectos:
 
 I. Observaciones acerca de las acciones regulatorias propuestas que no estén justificadas;
 
@@ -633,17 +683,23 @@ III. Una opinión de la Manifestación, o en su caso, el señalamiento de las mo
 
 ###### Artículo 42.
 
-1. El contenido de los dictámenes que emita la Secretaría de Promoción Económica en materia de lo establecido en este título, será de observancia obligatoria y la Dependencia estatal a cargo del anteproyecto deberá considerar y hacer las correcciones al anteproyecto señaladas en el dictamen.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+
+1. El contenido de los dictámenes que emita la Secretaría de Desarrollo Económico en materia de lo establecido en este título, será de observancia obligatoria y la Dependencia estatal a cargo del anteproyecto deberá considerar y hacer las correcciones al anteproyecto señaladas en el dictamen.
 
 2. En caso de diferencias o controversia entre la Dependencia dictaminadora y la titular del anteproyecto, respecto al fondo de las observaciones se resolverá en los términos de lo señalado por el artículo 8 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+
 ###### Artículo 43.
 
-1. La Dependencia estatal competente para aprobar los anteproyectos, debe solicitar y considerar la Manifestación de Impacto Regulatorio y el dictamen que emita la Secretaría de Promoción Económica.
+1. La Dependencia estatal competente para aprobar los anteproyectos, debe solicitar y considerar la Manifestación de Impacto Regulatorio y el dictamen que emita la Secretaría de Desarrollo Económico.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
 
 ###### Artículo 44.
 
-1. En caso de que algún anteproyecto esté encaminado a resolver una situación de emergencia, se podrá solicitar a la Secretaría de Promoción Económica que emita un dictamen especial reconociendo tal circunstancia, para que dicho anteproyecto no se someta al procedimiento regular de MIR y dictaminación señalado en este título; dicha solicitud se acompañará de una justificación y un análisis sintetizado de la norma que cubra los aspectos básicos de una MIR, los cuales se establecen en el articulo 32 de esta ley.
+1. En caso de que algún anteproyecto esté encaminado a resolver una situación de emergencia, se podrá solicitar a la Secretaría de Desarrollo Económico que emita un dictamen especial reconociendo tal circunstancia, para que dicho anteproyecto no se someta al procedimiento regular de MIR y dictaminación señalado en este título; dicha solicitud se acompañará de una justificación y un análisis sintetizado de la norma que cubra los aspectos básicos de una MIR, los cuales se establecen en el artículo 32 de esta ley.
 
 ###### Artículo 45.
 
@@ -661,9 +717,11 @@ III. Una opinión de la Manifestación, o en su caso, el señalamiento de las mo
 
 2. En esta base de datos se concentrarán datos e información general de trámites y servicios que se realizan ante las dependencias de la administración pública estatal y de los Municipios que hayan celebrado el convenio (sic) coordinación correspondiente conforme al artículo 2 de esta Ley.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+
 ###### Artículo 48.
 
-1. La Secretaría de Promoción Económica estará a cargo de la elaboración, diseño, seguimiento y publicidad de los datos e información que se inscriban en el REPTE.
+1. La Secretaría de Desarrollo Económico estará a cargo de la elaboración, diseño, seguimiento y publicidad de los datos e información que se inscriban en el REPTE.
 
 ###### Artículo 49.
 
@@ -671,7 +729,9 @@ III. Una opinión de la Manifestación, o en su caso, el señalamiento de las mo
 
 ###### Artículo 50.
 
-1. El Registro será público y se hará del conocimiento general a través de un Portal en Internet y de los medios que la Secretaría de Promoción Económica considere idóneos para su publicidad.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+
+l. El Registro será público y se hará del conocimiento general a través de un Portal en Internet y de los medios que la Secretaría de Desarrollo Económico considere idóneos para su publicidad.
 
 2. La información mínima que deberá contener el REPTE respecto a los trámites y servicios, será la siguiente:
 
@@ -707,9 +767,11 @@ X. Demás que señale el reglamento de la presente Ley.
 
 1. Los procedimientos y actualización de los datos e información del REPTE, así como el funcionamiento y operación del mismo, se establecerán en el Reglamento de la presente Ley.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+
 ###### Artículo 53.
 
-1. La legalidad y el contenido de la información que se inscriba en ei (sic) REPTE, será responsabilidad de las dependencias gubernamentales que la emitan. La Secretaría de Promoción Económica es responsable de la inscripción de la información proporcionada como se le presentó.
+1. La legalidad y el contenido de la información que se inscriba en el REPTE, será responsabilidad de las dependencias gubernamentales que la emitan. La Secretaría de Desarrollo Económico es responsable de la inscripción de la información proporcionada como se le presentó.
 
 ## TÍTULO SEXTO. Del Registro Estatal de Personas Acreditadas
 
@@ -717,13 +779,17 @@ X. Demás que señale el reglamento de la presente Ley.
 
 1. Se crea el Registro Estatal de Personas Acreditadas, en adelante REPA, con el objeto de documentar por una sola vez la información sobre la constitución y funcionamiento de las personas jurídicas y la correspondiente a las personas físicas que así lo deseen, válida para realizar trámites y servicios ante todas las dependencias del Poder Ejecutivo del Estado de Jalisco, para lo cual se emitirá al interesado una clave de identificación personalizada y se integrará una base de datos.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+
 ###### Artículo 55.
 
-1. La Secretaría de Administración será la dependencia encargada de coordinar la creación y funcionamiento del REPA.
+1. La Secretaría de Planeación, Administración y Finanzas será la dependencia encargada de coordinar la creación y funcionamiento del REPA.
 
 ###### Artículo 56.
 
-1. La inscripción en el REPA será voluntaria y a solicitud de parte por escrito ante la Secretaría de Administración, a la cual se deberá anexar, sin perjuicio de lo que señale el Reglamento, los siguientes documentos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2016)</small>
+
+1. La inscripción en el REPA será voluntaria y a solicitud de parte por escrito ante la Secretaría de Planeación, Administración y Finanzas, a la cual se deberá anexar, sin perjuicio de lo que señale el Reglamento, los siguientes documentos:
 
 I. En el caso de personas jurídicas, testimonio del acta constitutiva y estatutos inscritos en el Registro Público de la Propiedad y de Comercio que corresponda y la Cédula de Identificación Fiscal, así como copia certificada de los poderes de los representantes, y
 
@@ -743,21 +809,27 @@ II. En el caso de personas físicas, copia de identificación oficial con fotogr
 
 ## TÍTULO SÉPTIMO. Del Sistema de Apertura Rápida de Empresas y de Centros Integrales de Negocios
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+
 ###### Artículo 60.
 
-1. El Sistema de Apertura Rápida es un esquema dirigido a los Municipios, por lo que la Secretaría de Promoción Económica se encargará de apoyar y asesorar a los Municipios, que libremente lo soliciten y acepten, en la implementación de este sistema en coordinación de las Dependencias Federales competentes.
+1. El Sistema de Apertura Rápida es un esquema dirigido a los Municipios, por lo que la Secretaría de Desarrollo Económico se encargará de apoyar y asesorar a los Municipios, que libremente lo soliciten y acepten, en la implementación de este sistema en coordinación de (sic) las Dependencias Federales competentes.
 
 ###### Artículo 61.
 
 1. Los Centros Integrales de Negocios, son oficinas administrativas en las que se concentran varios trámites y servicios para la apertura y desarrollo de negocios y tienen por objeto propiciar la apertura rápida de empresas ofreciendo una atención integral, ordenada y eficaz que facilite y simplifique todos los aspectos relacionados con los trámites y servicios que establecen o prestan las autoridades estatales o municipales.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+
 ###### Artículo 62.
 
-1. La Secretaría de Promoción Económica asesorará técnica y operativamente a las autoridades que así lo soliciten, para la implementación y operación eficiente de los Centros Integrales de Negocios, además podrá sugerir la celebración de convenios de coordinación con las dependencias necesarias para la creación y el funcionamiento de dichos Centros.
+1. La Secretaría de Desarrollo Económico asesorará técnica y operativamente a las autoridades que así lo soliciten, para la implementación y operación eficiente de los Centros Integrales de Negocios, además podrá sugerir la celebración de convenios de coordinación con las dependencias necesarias para la creación y el funcionamiento de dichos Centros.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
 
 ###### Artículo 63.
 
-1. La Secretaría de Promoción Económica deberá dar seguimiento al desempeño de los Centros Integrales de Negocios en los que haya participado para su implementación y operación, y según corresponda, podrá proponer las mejoras y actualizaciones necesarias.
+1. La Secretaría de Desarrollo Económico deberá dar seguimiento al desempeño de los Centros Integrales de Negocios en los que haya participado para su implementación y operación, y según corresponda, podrá proponer las mejoras y actualizaciones necesarias.
 
 ## TÍTULO OCTAVO. De las Infracciones y Sanciones
 
@@ -765,11 +837,13 @@ II. En el caso de personas físicas, copia de identificación oficial con fotogr
 
 1. Las infracciones administrativas que se generen por el incumplimiento al contenido de la presente Ley o de su Reglamento, se sancionarán de conformidad con lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, sin perjuicio de las demás sanciones que resulten aplicables.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+
 ###### Artículo 65.
 
-1. En caso de que algún usuario pretenda presentar alguna queja en contra de servidores públicos por incumplimiento a lo previsto en esta Ley, la Secretaría de Promoción Económica deberá orientarlos para que la presenten ante la Contraloría del Estado o la Dependencia Pública correspondiente en el ámbito de sus atribuciones para atención de estos asuntos.
+1. En caso de que algún usuario pretenda presentar alguna queja en contra de servidores públicos por incumplimiento a lo previsto en esta Ley, la Secretaría deberá orientarlos para que la presenten ante la Contraloría del Estado o la Dependencia Pública correspondiente en el ámbito de sus atribuciones para atención de estos asuntos.
 
-2. Asimismo, si las quejas recibidas son respecto a infracciones cometidas en el marco de esta Ley, por servidores públicos federales, la Secretaría de Promoción Económica remitirá las quejas por oficio a la Dependencia Federal correspondiente para la valoración del asunto.
+2. Asimismo, si las quejas recibidas son respecto a infracciones cometidas en el marco de esta Ley, por servidores públicos federales, la Secretaría de Desarrollo Económico remitirá las quejas por oficio a la Dependencia Federal correspondiente para la valoración del asunto.
 
 ###### Artículo 66.
 
@@ -834,3 +908,11 @@ El Secretario General de Gobierno
 LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25851/LXI/16 QUE REFORMA LOS ARTÍCULOS 1, 2, 7, 12, 13, 14, 16, 29, 34, 37, 38, 39, 40, 41, 42, 43, 44, 48, 50, 53, 55, 56, 60, 62, 63 y 65 DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
