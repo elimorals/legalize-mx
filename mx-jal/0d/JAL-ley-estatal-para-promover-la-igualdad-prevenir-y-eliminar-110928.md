@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-para-promover-la-igualdad-prevenir-y-eliminar-11092
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-17"
-last_updated: "2015-12-17"
+last_updated: "2016-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2016.
 
 Ley publicada en la Sección LXIV del Periódico Oficial del Estado de Jalisco, el jueves 17 de diciembre de 2015.
 
@@ -491,21 +491,49 @@ f) El Consejo Estatal Indígena; y
 
 g) La Universidad de Guadalajara, que será representada por un investigador de reconocido prestigio en la materia de la Ley.
 
-III. Cuatro Consejeros ciudadanos representantes de la sociedad civil, mismos que serán nombrados por mayoría simple del Congreso, a propuesta de las organizaciones de la sociedad civil.
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2016)</small>
 
-Los integrantes del Consejo participarán en el mismo de manera honorífica, con derecho al uso de la voz y el voto en las sesiones del mismo, y no recibirán emolumentos, gratificaciones ni remuneraciones adicionales por el desempeño de tal representación. Los Consejeros Ciudadanos durarán en su representación cuatro años, con posibilidad de ser reelectos. Todos los consejeros, en el ejercicio de su representación, estarán sujetos al régimen legal de responsabilidades para los servidores públicos del Estado, en los términos precisados por la legislación de la materia.
+III. Cuatro Consejeros ciudadanos representantes de la sociedad civil.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+
+Los integrantes del Consejo tendrán derecho a voz y voto, el cargo es honorífico y no recibirán remuneraciones adicionales por el desempeño de tal representación, estarán sujetos al régimen legal de responsabilidades para los servidores públicos del Estado, a excepción de los consejeros ciudadanos.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
 
 ###### Artículo 34.
 
-Los Consejeros ciudadanos deberán reunir los siguientes requisitos:
+La designación de los consejeros ciudadanos se regirá por el siguiente procedimiento:
+
+I. La Comisión de Derechos Humanos del Congreso del Estado emitirá convocatoria para elegir consejeros ciudadanos dentro de los sesenta días anteriores a que concluya la representación de los consejeros en funciones;
+
+II. La convocatoria será dirigida a las organizaciones de la sociedad civil para que presenten candidatos a consejeros ciudadanos propietarios y suplentes, cada organización podrá proponer hasta cuatro candidatos por cada tipo;
+
+III. Recibidas las propuestas, la comisión legislativa de Derechos Humanos elaborará el dictamen correspondiente en el que establecerán el listado de todos los ciudadanos que cumplieron con los requisitos de elegibilidad; y
+
+IV. El Congreso del Estado en pleno nombrará por mayoría simple los consejeros titulares y por cada uno a un suplente, dentro de los diez días previos a que concluyan la representación los consejeros en funciones;
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2016)</small>
+
+###### Artículo 34 Bis.
+
+Los candidatos a consejeros deberán reunir los siguientes requisitos:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
-II. Demostrar conocimiento y trabajo de la temática social de discriminación y derechos humanos; y
+II. Demostrar conocimiento y trabajo en materia de discriminación o defensa de los derechos humanos;
 
-III. Contar con reconocimiento entre los grupos de la Sociedad Civil Organizada por su probidad, honestidad y capacidad.
+III. Contar con reconocimiento entre los grupos de la Sociedad Civil Organizada por su probidad, honestidad y capacidad;
 
-El Consejo podrá, a propuesta de su presidente, aprobar la incorporación como integrante de mismo, con derecho a voz pero no a voto, a otras entidades, organismos públicos, no gubernamentales, académicos y de expertos en temas vinculados con la igualdad de trato y oportunidades.
+IV. Tener residencia en el estado de Jalisco durante los tres años previos al día de la designación; y
+
+V. Ser propuesto para la representación por alguna organización de la sociedad civil.
+
+Los consejeros electos durarán en su encargo cuatro años, con posibilidad de ser reelectos por una sola ocasión.
+
+Los consejeros ciudadanos suplentes actuarán en casos de ausencia temporal mayor a 30 días o definitiva del titular respectivo, el suplente será convocado por el propio consejo a través de su presidente.
+
+El Consejo podrá, a propuesta de su presidente, invitar, con derecho a voz, a otras dependencias, entidades, organismos públicos o no, académicos o de expertos en temas vinculados cuando lo considere conveniente.
 
 #### SECCIÓN SEGUNDA. DE LAS ATRIBUCIONES Y OBLIGACIONES
 
@@ -776,3 +804,11 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE JULIO DE 2016.
+
+> <small>[N. DE E. TRANSITORIO “DECRETO 25850/LXI/16 QUE REFORMA LOS ARTÍCULOS 33 Y 34 Y ADICIONA UN ARTÍCULO 34 BIS DE LA LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO, ASÍ COMO SE REFORMA EL ARTÍCULO 79 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]</small>
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
