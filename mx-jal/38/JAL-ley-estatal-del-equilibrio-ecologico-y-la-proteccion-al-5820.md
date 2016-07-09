@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2014-12-23"
+last_updated: "2016-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -313,11 +313,17 @@ XXV. Crear, administrar y aplicar el Fondo Estatal de Protección al Ambiente;
 
 XXVI. Proponer al titular del Poder Ejecutivo las bases para la celebración del concurso denominado "Premio Estatal al Cuidado del Medio Ambiente" que será entregado al o a los municipios que hayan cumplido con los Criterios Ambientales y de Gestión Ambiental de la presente ley.
 
-Las bases a las que se refiere la presente fracción serán aprobadas mediante acuerdo que deberá ser publicado en el periódico oficial El Estado de Jalisco; y
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+Las bases a las que se refiere la presente fracción serán aprobadas mediante acuerdo que deberá ser publicado en el periódico oficial El Estado de Jalisco;
 
-XXVII. Las demás que le confieren las disposiciones legales y reglamentos aplicables, en materia ambiental.
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2016)</small>
+
+XXVII. Impulsar la investigación científica a fin de regular los mecanismos de modificación artificial del clima del Estado de Jalisco; y
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2016)</small>
+
+XXVIII. Las demás que le confieren las disposiciones legales y reglamentos aplicables, en materia ambiental.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -2400,3 +2406,9 @@ DECRETO NÚMERO 24848/LX/14, POR EL QUE SE REFORMAN LOS ARTÍCULOS 112, 113 Y 11
 P.O. 23 DE DICIEMBRE DE 2014.
 
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 9 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25854/LXI/16 QUE REFORMA EL ARTÍCULO 6°, EN SUS FRACCIONES XXVI, SEGUNDO PÁRRAFO, XXVII Y SE ADICIONA LA FRACCIÓN XXVIII A LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; REFORMA EL ARTÍCULO 3°, EN SUS FRACCIONES XVII, XVIII, Y SE ADICIONA LA FRACCIÓN XIX DE LA LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
