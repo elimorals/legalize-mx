@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2015-09-19"
+last_updated: "2016-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -2747,6 +2747,10 @@ La resolución que aprueba el convenio no admite recurso, la que la niegue, ser�
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 La aprobación y ejecución del convenio en su caso, no estará sujeto al pago de ningún impuesto o derecho de índole estatal.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2016)</small>
+
+La audiencia de conciliación no será obligatoria en los supuestos de los artículos 389, 404, fracciones IV y XI, 574, fracción I y 598, fracción IV, del Código Civil del Estado de Jalisco, para tal efecto, las partes o su representante legal deberán manifestar bajo protesta de decir verdad tener temor de nueva violencia en su contra. En este caso se tendrá como causa justificable para efectos del párrafo segundo del presente artículo.
 
 ### CAPITULO II.
 
@@ -9485,3 +9489,9 @@ TERCERO. Los procedimientos de extinción de dominio comenzados antes de la entr
 CUARTO. Hasta en tanto no inicien sus funciones los jueces especializados en extinción de dominio, los jueces civiles de primera instancia o mixtos serán competentes para conocer de la aplicación de la Ley de Extinción de Dominio del Estado de Jalisco que se expide a través del presente Decreto.
 
 QUINTO. Se autoriza al titular del Poder Ejecutivo del Estado para que, por conducto de la Secretaría de Planeación, Administración y Finanzas, realice las modificaciones y adecuaciones presupuestales y administrativas necesarias para el debido cumplimiento de este decreto.
+
+P.O. 9 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25854/LXI/16 QUE ADICIONA UN PÁRRAFO DÉCIMO AL ARTÍCULO 282 BIS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
