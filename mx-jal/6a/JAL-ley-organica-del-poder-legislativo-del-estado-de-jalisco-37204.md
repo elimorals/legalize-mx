@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2015-12-31"
+last_updated: "2016-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2016.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -1719,9 +1719,17 @@ I. La normatividad aplicable en el Estado, para la difusión, protección, defen
 
 II. La integración y funcionamiento de la Comisión Estatal de Derechos Humanos;
 
-III. La revisión de la legislación, con el objeto de establecer propuestas tendientes a garantizar la igualdad, equidad y tolerancia, así como evitar la discriminación en los distintos grupos sociales; y
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2016)</small>
 
-IV. Las políticas planes y programas para el fortalecimiento de los Derechos Humanos.
+III. La revisión de la legislación, con el objeto de establecer propuestas tendientes a garantizar la igualdad, equidad y tolerancia, así como evitar la discriminación en los distintos grupos sociales;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2016)</small>
+
+IV. La elección y en su caso la ratificación de los consejeros ciudadanos del Consejo para Prevenir y Eliminar la Discriminación en el Estado de Jalisco en los términos de la ley en la materia; y
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2016)</small>
+
+V. Las políticas, planes y programas para el fortalecimiento de los Derechos Humanos.
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2007)</small>
 
@@ -2931,7 +2939,7 @@ III. Parte Resolutiva que es la propuesta que se pone a consideración de la Asa
 
 1. Si hay discusión, el Presidente forma una lista en la que inscriba a quienes deseen hablar a favor o en contra del dictamen, concediendo alternativamente el uso de la palabra a los que se hayan inscrito, debiendo llamarlos por el orden de la lista y comenzando por el inscrito en contra.
 
-2. En el caso de que sólo existiera lista de oradores a favor, una vez deshogada (sic) ésta, se declara agotada la discusión.
+2. En el caso de que sólo existiera lista de oradores a favor, una vez deshogada ésta, se declara agotada la discusión.
 
 ###### Artículo 171.
 
@@ -4408,3 +4416,9 @@ II. Se instruye a la Dirección de Comunicación Social para que de a conocer la
 III. Se instruye a la Secretaría General para que semestralmente haga una evaluación de la página electrónica "Congreso Jalisco Abierto" y, en su caso, proponga a la Junta de Coordinación Política otras herramientas derivadas de las tecnologías de la información.
 
 QUINTO. Los asuntos pendientes de resolver por las comisiones de Ciencia y Tecnología, para el Desarrollo Humano y la Familia, Equidad de Género, Participación Ciudadana y Acceso a la Información Pública, Readaptación Social y Vialidad, Transporte y Comunicaciones deben ser remitidos a las comisiones de Innovación, Ciencia y Tecnología, Familia, Desarrollo Humano e Integración Social, Igualdad de Género, Participación Ciudadana, Transparencia y Acceso a la Información Pública, de Readaptación y Reinserción Social y de Movilidad y Transporte, respectivamente, para continuar su trámite y concluirse, observando las disposiciones de esta ley.
+
+P.O. 9 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 25850/LXI/16 QUE REFORMA LOS ARTÍCULOS 33 Y 34 Y ADICIONA UN ARTÍCULO 34 BIS DE LA LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO, ASÍ COMO SE REFORMA EL ARTÍCULO 79 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
