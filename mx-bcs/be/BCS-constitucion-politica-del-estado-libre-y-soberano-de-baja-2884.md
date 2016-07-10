@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2016-06-22"
+last_updated: "2016-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2016.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -929,11 +929,15 @@ Cuando algún diputado deje de asistir por más de cinco sesiones continuas del 
 
 También incurrirán en responsabilidad, que la misma ley sancionará, los partidos políticos que habiendo postulado candidatos en una elección, acuerden que sus miembros que resultaren electos, no se presenten a desempeñar sus funciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2016)</small>
+
+55.- Durante el Primer Periodo Ordinario de Sesiones de cada año de ejercicio Constitucional del Congreso del Estado, el Gobernador del Estado presentará un informe por escrito, en el que exponga el estado que guarda la Administración Pública del Estado; sin exceder del 15 de noviembre del año que corresponda. En el último año de ejercicio constitucional del Gobernador enviará el informe antes del 10 de septiembre.
+
 > <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
 
-55.- En la apertura del Primer Periodo Ordinario de Sesiones de cada año de ejercicio Constitucional del Congreso del Estado, el Gobernador del Estado presentará un informe por escrito, en el que exponga el estado que guarda la Administración Pública del Estado.
-
 El Congreso realizará el análisis del informe y podrá solicitar por escrito al Gobernador del Estado ampliar la información respecto de algún asunto en particular, y citar a los Secretarios de Despacho o su equivalente, Procurador General de Justicia u otro funcionario de la Administración Pública Estatal Centralizada o Paraestatal, para dar cuenta al Congreso del Estado de dichos asuntos.
+
+> <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
 
 Cuando se trate del estudio de algún asunto o proyecto sobre la materia a cargo de los Secretarios de Despacho, Procurador General o cualquier otro servidor público o titular de la Administración Pública Estatal, Paraestatal u Organismo Autónomo, el Congreso podrá citarlos a comparecer bajo protesta de decir verdad.
 
@@ -1307,11 +1311,17 @@ Cuando la falta absoluta de Gobernador ocurriese en los cuatro últimos años de
 
 73.- Si al inicio de un período constitucional no se presenta el Gobernador electo, o la elección no estuviere hecha y declarada, cesará sin embargo el Gobernador cuyo período haya concluido y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador Interino, el que designe el Congreso del Estado, o en su falta, con el carácter de Provisional el que designe la Comisión Permanente, procediéndose conforme a lo dispuesto en los párrafos primero y segundo del artículo anterior.
 
-74.- En las ausencias o faltas temporales del Gobernador del Estado se observarán las siguientes disposiciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2016)</small>
+
+74.- En las ausencias o faltas temporales del Gobernador del Estado, atendiendo la naturaleza de cada caso, se observarán las siguientes disposiciones:
 
 I.- Si la ausencia no excede de treinta días, será suplido por el Secretario General de Gobierno, dándose aviso al Congreso del Estado; y
 
 II.- Si la falta temporal excede de treinta días, el Congreso del Estado o la Comisión Permanente, en su caso, designará un Gobernador Interino o Provisional, en los términos de esta Constitución.
+
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 2016)</small>
+
+Para los efectos de la fracción I del presente artículo, no se computará como ausencia la salida del territorio estatal del Gobernador para realizar actos relacionados con sus derechos personales, de gestión o representación del gobierno.
 
 75.- Para ser Gobernador Substituto, Interino o Provisional, se requieren los mismos requisitos señalados por el artículo 69.
 
@@ -3662,3 +3672,9 @@ SEGUNDO.- La Ley de Mejora Regulatoria para el Estado de Baja California Sur y s
 TERCERO.- La Ley de Desarrollo Rural Sustentable para el Estado de Baja California Sur y sus municipios deberá ser expedida en un plazo de 30 días naturales contados a partir de la entrada en vigor del presente Decreto.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 10 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 2356 SE REFORMAN EL PRIMER PÁRRAFO DEL NUMERAL 55 Y PRIMER PÁRRAFO DEL NUMERAL 74, Y SE ADICIONA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 74, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
