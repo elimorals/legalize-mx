@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-civiles-para-el-estado-de-baja-11601"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-05-23"
-last_updated: "2014-12-10"
+last_updated: "2016-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2016.
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 23 de mayo de 1997.
 
@@ -1251,9 +1251,11 @@ Cuando un juez o magistrado se excuse sin causa legítima, cualquiera de las par
 
 ### CAPITULO II. De la recusación
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2016)</small>
+
 ###### Artículo 173.
 
-Cuando los magistrados, jueces o secretarios no se inhibieren a pesar de existir alguno de los impedimentos expresados, procede la recusación que siempre se fundará en causa legal. Únicamente procederá la recusación sin causa contra los jueces, cuando la interponga el demandado precisamente al contestar la demanda.
+Cuando los magistrados, jueces o secretarios no se inhibieren a pesar de existir alguno de los impedimentos expresados, procede la recusación que siempre se fundará en una causa legal.
 
 ###### Artículo 174.
 
@@ -6346,3 +6348,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los procedimientos y demás asuntos relacionados con la materia a que se refiere el presente Decreto, iniciados con anterioridad a la entrada en vigor de la reforma, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.
+
+B.O. 10 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUMERO 2364 SE REFORMA EL ARTÍCULO 173 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado Libre y Soberano de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
