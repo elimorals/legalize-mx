@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-estructura-y-operacion-del-fideicomiso-68696"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-06-01"
-last_updated: "2010-09-13"
+last_updated: "2016-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 REGLAMENTO DE ESTRUCTURA Y OPERACION DEL FIDEICOMISO COMPLEJO TRES CENTURIAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 2010.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DEL FIDEICOMISO COMPLEJO TRES CENTURIAS, PUBLICADO EN EL P.O. DE 11 DE JULIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2016 (ABROGADA).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 1 de junio de 2009.
 
@@ -302,3 +304,13 @@ P.O. 13 DE SEPTIEMBRE DE 2010.
 PRIMERO. Las presentes reformas, entrarán en vigor el día trece de mayo (sic) del dos mil diez.
 
 SEGUNDO. Las peticiones que se hayan solicitado con anterioridad al inicio de la vigencia de las presentes reformas se resolverán conforme a la normatividad vigente.
+
+P.O. 11 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL " REGLAMENTO INTERNO DEL FIDEICOMISO COMPLEJO TRES CENTURIAS".]
+
+PRIMERO: El presente reglamento que fuera aprobado por el Comité Técnico del Fideicomiso Complejo Tres Centurias el 24 de mayo de 2016, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se abroga el Reglamento de Estructura y Operación del Fideicomiso Complejo Tres Centurias, publicado en la Sección Primera del Periódico Oficial del Estado de Aguascalientes el 1° de junio de 2009, así como sus reformas publicadas el 13 de septiembre de 2010, en la Sección Primera del Periódico Oficial del Estado de Aguascalientes.
+
+TERCERO: Este reglamento podrá ser modificado, adicionado y/o actualizado en cualquier momento por la Administración del Complejo Tres Centurias, cuando así se estime conveniente, con ratificación del Comité Técnico del Fideicomiso Complejo Tres Centurias.
