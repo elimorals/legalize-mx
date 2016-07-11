@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-transparencia-y-acceso-a-la-informacion-68559"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-20"
-last_updated: "2009-05-20"
+last_updated: "2016-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "MIC"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE CHILCHOTA, MICHOACAN
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE CHILCHOTA, MICHOACÁN, PUBLICADO EN EL P.O. DE 11 DE JULIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 20 de mayo de 2009.
 
@@ -402,3 +404,25 @@ Conforme a lo dispuesto por el artículo 145, segundo párrafo de la Ley Orgáni
 DADO Y APROBADO EN SESIÓN DEL H. AYUNTAMIENTO DE CHILCHOTA, MICHOACÁN; A LOS 6 SEIS DÍAS DEL MES DE ABRIL DEL AÑO 2009 DOS MIL NUEVE.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO, NO REELECCION.- ING. PEDRO VILLALOBOS BAUTISTA, PRESIDENTE MUNICIPAL.- LlC. VÍCTOR MANUEL MERCADO MERCADO, SÍNDICO MUNICIPAL.- REGIDORES, PROFR. JUAN BALTAZAR SANTOS.- C. JOSÉ LUÍS RAMÍREZ JASSO.- C. MARÍA DE JESÚS RUBIO PANIAGUA.- C. JUAN MENDOZA MURILLO.- PROFR ANTONIO PULIDO BALTASAR.- C. JUAN MAGAÑA HURTADO.- C. BENEDICTO GREGORIO CAMPOS. (Firmados)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE CHILCHOTA, MICHOACÁN".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los puntos no previstos en el presente Reglamento, serán resueltos por el Ayuntamiento.
+
+###### ARTÍCULO TERCERO.
+
+Se deroga el Reglamento de Transparencia y Acceso a la Información Pública de Chilchota, publicado el día 20 de mayo de 2009 en la Cuarta Sección del Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO CUARTO.
+
+Conforme a lo dispuesto por el artículo 145, segundo párrafo de la Ley Orgánica Municipal, se ordena su debida publicación para su observancia en el Periódico Oficial del Estado.
