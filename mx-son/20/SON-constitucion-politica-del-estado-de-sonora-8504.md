@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2016-04-12"
+last_updated: "2016-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE JULIO DE 2016.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -637,11 +637,13 @@ Los Diputados rendirán la protesta de Ley ante el Congreso o ante la Diputació
 
 Instalación y funcionamiento del Congreso.
 
-> <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-###### Artículo 35.
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2016)</small>
 
-El Congreso del Estado se instalará el día 16 de septiembre del año de su elección.
+###### ARTÍCULO 35.
+
+El Congreso del Estado se instalará el día primero de septiembre del año de su elección.
 
 > <small>(REFORMADO, B.O. 12 DE ABRIL DE 2016)</small>
 
@@ -669,17 +671,23 @@ En todos los casos en que por cualquiera causa desaparezca el Congreso, el Ejecu
 
 Para designar el Congreso electo en la forma establecida en el Artículo anterior, se añadirá al número que le corresponda la palabra "BIS", si dentro del periodo constitucional del Congreso desaparecido se instalare el nuevo.
 
-> <small>(REFORMADO, B.O. 16 DE JULIO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-###### Artículo 41.
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2016)</small>
 
-El Congreso tendrá, durante el año, dos periodos de sesiones ordinarias y dos periodos de sesiones extraordinarias. Los periodos de sesiones ordinarias serán: el primero desde el 16 de septiembre hasta el 15 de diciembre y, el segundo, desde el día 01 de marzo hasta el día último de junio. Ambos periodos podrán prorrogarse. Los periodos de sesiones extraordinarias serán: el primero desde la terminación del primer periodo de sesiones ordinarias hasta el día último de febrero y, el segundo, desde la terminación del segundo periodo de sesiones ordinarias hasta el 15 de septiembre.
+###### ARTÍCULO 41.
+
+El Congreso tendrá, durante el año, dos periodos de sesiones ordinarias y dos periodos de sesiones extraordinarias. Los periodos de sesiones ordinarias serán: el primero desde el 01 de septiembre hasta el 15 de diciembre y, el segundo, desde el día 01 de febrero hasta el 30 de abril. Ambos periodos podrán prorrogarse. Los periodos de sesiones extraordinarias serán: el primero desde la terminación del primer periodo de sesiones ordinarias hasta el 31 de enero y, el segundo, desde la terminación del segundo periodo de sesiones ordinarias hasta el 31 de agosto.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE JULIO DE 2016)</small>
+
+###### ARTÍCULO 42.
+
+Sin perjuicio de su función legislativa ordinaria, en el primer periodo de sesiones ordinarias el Congreso se ocupará de discutir y aprobar las leyes y presupuestos de ingresos y egresos para el año siguiente. En las mismas condiciones, a más tardar el 15 de octubre, el Congreso deberá examinar y calificar las cuentas públicas del año anterior.
 
 > <small>(REFORMADO, B.O. 7 DE OCTUBRE DE 2004)</small>
-
-###### Artículo 42.
-
-Sin perjuicio de su función legislativa ordinaria, en el primer periodo de sesiones ordinarias el Congreso se ocupará de modo preferente de discutir y aprobar las leyes y presupuestos de ingresos y egresos para el año siguiente. En las mismas condiciones, el segundo periodo se destinará, preferentemente, a examinar las cuentas públicas del año anterior y a calificarlas dentro de los cinco meses siguientes a partir de la fecha límite de su presentación ante el Congreso.
 
 Durante los periodos de sesiones extraordinarias la Diputación Permanente ejecutará y vigilará un sistema que será regulado por la ley secundaria para concluir los trabajos que se encuentren pendientes a cargo de las comisiones dictaminadoras, así como para iniciar o continuar cualquier otro trabajo propio de dichas comisiones con el objeto de que éstas reciban y se avoquen al análisis, discusión y, en su caso, dictamen de cualquier iniciativa que se presente durante dichos periodos. Para este último efecto, las iniciativas que se reciban en periodos de sesiones extraordinarias serán turnadas a comisiones por la Diputación Permanente, iniciándose de inmediato los trabajos que correspondan a menos de que uno de los integrantes de dicha Permanente reclame el turno que se le haya dado al asunto, en cuyo caso se incluirá el mismo, para decisión definitiva de turno, en la siguiente sesión que celebre el Pleno del Congreso.
 
@@ -3465,10 +3473,26 @@ La presente Ley entrará en vigor el día siguiente de su publicación en el Bol
 
 Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el cómputo respectivo y la remitan al Titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado, en caso de resultar aprobada.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 066.- QUE CONTIENE REFORMAS Y DEROGACIONES A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL, PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO”.]
+B.O. 11 DE JULIO DE 2016.
 
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 88, QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA”.]
 
-SEGUNDO. A partir de la entrada en vigor del presente decreto, toda mención o alusión a la Procuraduría de Protección al Ambiente del Estado de Durango, en cualquier ordenamiento legal, se entenderá referido a la Secretaría de Recursos Naturales y Medio Ambiente.
+###### ARTÍCULO PRIMERO.
 
-TERCERO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto.
+La presente Ley entrará en vigor a partir del inicio del primer periodo de sesiones ordinarias correspondiente al segundo año del ejercicio constitucional de la LXI Legislatura del Congreso del Estado, previo cómputo que se realice de la aprobación o rechazo que emitan los Ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, a fin de dar cumplimiento a lo establecido por la Constitución Política del Estado de Sonora en su artículo 163.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el cómputo respectivo y la remitan al Titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado, en caso de resultar aprobada.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efectos de lo dispuesto por los artículos 35 y 41 constitucionales que se reforman mediante la presente Ley, se estará a lo siguiente:
+
+A) El segundo periodo de sesiones extraordinarias del tercer año del ejercicio constitucional de la LXI Legislatura culminará el día 15 de septiembre de 2018.
+
+B) Por única ocasión, el primer periodo de sesiones ordinarias del primer año del ejercicio constitucional de la LXII Legislatura dará inicio el 16 de septiembre de 2018.
+
+C) Los diputados del Congreso del Estado para integrar la LXII Legislatura, serán electos por el periodo comprendido del 16 de septiembre de 2018 hasta el último minuto del 31 de agosto del año 2021.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado a más tardar el 30 de junio de 2017, deberá llevar a cabo las modificaciones necesarias para la adecuación de la legislación secundaria en materia electoral, a efecto de homogenizarla a las disposiciones que contiene la presente Ley.
