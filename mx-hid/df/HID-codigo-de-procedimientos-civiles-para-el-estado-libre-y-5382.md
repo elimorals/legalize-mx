@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-procedimientos-civiles-para-el-estado-libre-y-5382"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-12-01"
-last_updated: "2016-06-27"
+last_updated: "2016-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE JULIO DE 2016 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE HIDALGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 11 DE JULIO DE 2016.]</small>
 
 Código publicado en el Apéndice del Periódico Oficial del Estado de Hidalgo, el 1 de diciembre de 1940.
 
@@ -6615,4 +6615,6 @@ P.O. 27 DE JUNIO DE 2016.
 
 ## N. DE E. TRANSITORIO DEL “DECRETO NUM. 673 QUE REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE HIDALGO”.
 
-ÚNICO.- El presente decreto entrará en vigor a los quince días siguientes al de su publicación.
+> <small>(F. DE E., P.O. 11 DE JULIO DE 2016)</small>
+
+ÚNICO.- El presente decreto entrará en vigor a los quince días siguientes al de su publicación, en tal razón, las reformas objeto del mismo serán aplicables tanto a los juicios que se encuentran en trámite, como a los que se inicien a partir de su entrada en vigor.
