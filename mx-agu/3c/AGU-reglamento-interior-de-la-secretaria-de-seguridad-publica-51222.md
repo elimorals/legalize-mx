@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-seguridad-publica-51222
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-07-31"
-last_updated: "2013-11-20"
+last_updated: "2016-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51222&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2016.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 31 de julio de 2006.
 
@@ -61,13 +61,15 @@ Todos aquellos supuestos y circunstancias no previstas en este Reglamento se reg
 
 Para el trámite y resolución de los asuntos de su competencia, el Secretario se auxiliará de las Direcciones Generales que contarán con la estructura orgánica y el personal necesario para el cumplimiento de sus funciones, y que son las siguientes:
 
-I. Dirección General de Transporte;
+I. (DEROGADA, P.O. 11 DE JULIO DE 2016)
 
-II. Dirección General de Reeducación Social;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
+
+II. Dirección General de Reinserción Social;
 
 III. Dirección General de Prevención al Narcotráfico;
 
-IV. Dirección General de Prevención del Delito y Política Criminal;
+IV. (DEROGADA, P.O. 11 DE JULIO DE 2016)
 
 V. Dirección General de Seguridad Pública y Vialidad;
 
@@ -79,7 +81,7 @@ Asimismo la Secretaría contará con las demás unidades administrativas subalte
 
 I. El Departamento de Asuntos Internos;
 
-II. El Centro de Control y Evaluación del Personal; y
+II. (DEROGADA, P.O. 11 DE JULIO DE 2016)
 
 III. El Centro Estatal de Telecomunicaciones C4 (Control, Comando, Comunicación y Cómputo)
 
@@ -133,7 +135,9 @@ I. Establecer, dirigir y controlar las políticas de la Secretaría, así como p
 
 II. Proponer al titular del Ejecutivo en el Estado a la persona que ocupará el cargo de Director General de Seguridad Pública y Vialidad, Director Operativo de la Policía Estatal, Subdirector de la Policía Estatal y Primer Comandante de la Policía Estatal;
 
-III. Proponer al Gobernador Constitucional del Estado, las personas que serán los titulares de las Direcciones Generales de la Secretaría, del Departamento de Asuntos Internos, del Centro Estatal de Telecomunicaciones C4, y del Centro de Control y Evaluación del Personal;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
+
+III. Proponer al Gobernador Constitucional del Estado, las personas que serán los titulares de las Direcciones Generales de la Secretaría, del Departamento de Asuntos Internos y del Centro Estatal de Telecomunicaciones C4;
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
@@ -285,195 +289,121 @@ VI.- Realizar las actas administrativas que sean necesarias en el cumplimiento d
 
 VII.- Las que le señale el Director General del cual dependan.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2016)</small>
+
 ## TITULO SEGUNDO. DE LA DIRECCION GENERAL DE TRANSPORTE
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2016)</small>
 
 ### CAPITULO PRIMERO. Generalidades
 
 ###### Artículo 21.
 
-El presente título tiene por objeto, regular la estructura y funcionamiento de la Dirección General de Transporte de la Secretaría de Seguridad Pública.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
 ###### Artículo 22.
 
-La Dirección General de Transporte es una dependencia del Ejecutivo del Estado adscrita y subordinada a la Secretaría de Seguridad Pública, la cual tiene a su cargo el ejercicio de las atribuciones que le asignan la Constitución Política de los Estados Unidos Mexicanos, La Constitución Política del Estado Libre y Soberano de Aguascalientes, la Ley de Seguridad Pública del Estado, el Código Urbano del Estado de Aguascalientes, la normatividad vigente en materia de transporte y el resto de los ordenamientos y relacionados tanto de la Federación como del Estado, así como las encomendadas por el propio titular del Ejecutivo Estatal.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
 ###### Artículo 23.
 
-Al frente de la Dirección General de Transporte estará el Director General quien, para el estudio, planeación, despacho y resolución de los asuntos que en razón de estas atribuciones son de su competencia, se auxiliará de las Direcciones de Area y Jefes de Departamento que le sean adscritas.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
 ###### Artículo 24.
 
-La Dirección General de Transporte en ejercicio de las facultades que le son delegadas, por conducto de su titular o personal adscrito, tiene por objeto el despacho de los siguientes asuntos:
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
-I. Realizar todos los trámites jurídicos y administrativos necesarios para que el Gobernador Constitucional del Estado o Secretario de Seguridad Pública en ejercicio del acuerdo delegatorio respectivo otorgue, expida, cancele y revoque concesiones relativas al transporte público en el Estado;
-
-II. Realizar todos los trámites jurídicos y administrativos necesarios para que el Secretario de Seguridad Pública otorgue, expida, cancele y revoque permisos, licencias y demás autorizaciones relativas al transporte de público en el Estado;
-
-III. Inspeccionar y vigilar la situación física, mecánica y legal, tanto interior como exterior de los vehículos de transporte público que transiten por las carreteras y caminos de jurisdicción estatal, así como sancionar el incumplimiento de las normas legales aplicables;
-
-IV. Verificar las condiciones físicas de los operadores del transporte público y privado que transiten por las carreteras y caminos de jurisdicción estatal;
-
-V. Diseñar y autorizar las rutas de transporte público previo dictamen de factibilidad de la Secretaría de Planeación y Desarrollo Regional, así como determinar las rutas que utilizarán los concesionarios de transporte público;
-
-VI. Realizar las acciones técnicas, jurídicas y operativas necesarias para el debido control y regulación del transporte en el Estado;
-
-VII. Autorizar, regular y sancionar la publicidad en los vehículos de transporte público en el Estado;
-
-VIII. Vigilar, controlar y sancionar el uso de las concesiones y permisos del servicio de transporte público referente a todas las modalidades en los términos de las leyes respectivas;
-
-IX. Solicitar el apoyo de la Dirección General de Seguridad Pública y Vialidad del Estado y las autoridades de Seguridad Pública y Vialidad de los Municipios para el cumplimiento de sus fines;
-
-X. Proponer al titular del Poder Ejecutivo, por conducto del Secretario de Seguridad Pública, la regulación de tarifas para el servicio de transporte público;
-
-XI. Integrar los expedientes, emitir acuerdos y desahogar los procedimientos por las solicitudes, renovaciones, revocaciones, suspensiones, requisas y cancelaciones de las concesiones y permisos de servicio de transporte público;
-
-XII. Fungir como Secretario Ejecutivo del Consejo Consultivo del Transporte Público del Estado;
-
-XIII. Elaborar los dictámenes técnicos para la expedición de concesiones y permisos;
-
-XIV. Resolver las solicitudes planteadas a la Secretaría en materia de Transporte Público;
-
-XV. Vigilar que los operadores de las unidades de servicio de transporte público estén sometidos a revisiones médicas que sean necesarias para la prestación del servicio de transporte público que incluyan exámenes antidoping, y en su caso realizarlas directamente valiéndose del personal técnico necesario para el efecto;
-
-XVI. Realizar mediante operativos la inspección que corresponda a las unidades de transporte público en carreteras y caminos vecinales estatales;
-
-XVII. Coordinar con las autoridades federales o municipales los operativos especiales correspondientes en materia de transporte;
-
-XVIII. Establecer los mecanismos de participación ciudadana que tiendan a mejorar el servicio de transporte dando la participación que le corresponda a los Municipios de la Entidad;
-
-XIX. Resolver los procedimientos administrativos y recursos promovidos por los interesados;
-
-XX. Resolver previa integración del expediente respectivo y del desahogo del procedimiento correspondiente sobre las solicitudes de los concesionarios relativas a la cesión, transmisión y regularización de las concesiones, en los términos de las leyes aplicables;
-
-XXI. Ejecutar sus decisiones y resoluciones que conforme a las leyes se emitan;
-
-XXII. Cuando el caso lo amerite solicitar el auxilio de la fuerza pública para el cumplimiento de sus funciones;
-
-XXIII. Resolver y ejecutar sanciones y medidas de seguridad para los concesionarios o permisionarios de transporte público por incumplimiento a las normas vigentes;
-
-XXIV. Expedir los lineamientos y normas técnicas mediante los manuales respectivos;
-
-XXV. Aprobar los programas anuales de capacitación, actualización y adiestramiento para los operadores y demás personal que participa en la prestación del servicio público de transporte, en su caso, a los concesionarios, de conformidad con el Programa Estatal de Transporte;
-
-XXVI. Vigilar que los vehículos de transporte privado no presten ningún tipo de servicio público y en su caso detenerlos cuando estos no cuenten con el permiso correspondiente;
-
-XXVII. Detener e impedir la circulación de vehículos de transporte público que no cumplan con la normatividad vigente y aplicable;
-
-XXVIII. Recibir y resolver las quejas ciudadanas en contra de los concesionarios y permisionarios del transporte público;
-
-XXIX. Colaborar con la Dirección General de Seguridad Pública y Vialidad en materia de su competencia;
-
-XXX. Detener e impedir la circulación de los vehículos de transporte publico, cuando fuera del plazo otorgado no cumplan con las observaciones de la revisión vehicular;
-
-XXXI. Detener, impedir y retirar de la circulación los vehículos de transporte público que no cuenten con seguro vigente;
-
-XXXII. Sancionar a los conductores cuando incurran en violaciones a la normatividad vigente en transporte público;
-
-XXXIII. Suspender o desactivar temporalmente la unidad de transporte público, hasta en tanto no cumpla con los requisitos de ley para prestar el servicio;
-
-XXXIV. Sancionar cuando el vehículo autorizado para la prestación del servicio público sea cambiado o sustituido sin previo aviso a la Dirección General de Transporte Público;
-
-XXXV. Detener e impedir la circulación de los vehículos de transporte publico, cuando éstos no cumplan con el modelo que señalen las leyes respectivas en cuanto a su vigencia o vida útil;
-
-XXXVI. Determinar los colores, rótulos y características que distinguirán al transporte publico en el Estado en cualquiera de sus modalidades de otros medios de transporte que permitan su identificación inmediata;
-
-XXXVII. Cancelar o suspender los permisos temporales que para la prestación del servicio de transporte público fueron otorgados, cuando incurran los permisionarios en violaciones a las leyes respectivas;
-
-XXXVIII. Representar legalmente a la Dirección General a su cargo en los procedimientos jurisdiccionales y administrativos o cualquier otro asunto de carácter legal previo acuerdo y en coordinación con la Dirección General Jurídica;
-
-XXXIX. Intervenir y rendir los informes en los juicios de amparo y demás procedimientos legales por actos de autoridades de la Dirección General, interponer los recursos que legalmente correspondan, previo acuerdo y en coordinación con la Dirección General Jurídica;
-
-XL. Organizar y controlar el archivo de expedientes, concesiones, permisos, licencias, solicitudes, suspensiones, revocaciones y de toda la información de la Dirección General de Transporte Público;
-
-XLI. Las demás que le confiera (sic) las leyes relativas y aplicables y el Secretario de Seguridad Pública.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2016)</small>
 
 ### CAPITULO SEGUNDO. De la Organización
 
 ###### Artículo 25.
 
-La Dirección General de Transporte, para el estudio, planeación y despacho de sus atribuciones, tendrá las siguientes unidades administrativas:
-
-I. Dirección Operativa de Transporte Público:
-
-a) Jefatura de Supervisión;
-
-b) Jefatura de Supervisión de Contaminantes.
-
-II. Dirección Normativa de Transporte Público;
-
-c) Jefatura de Taxis;
-
-d) Jefatura de Transporte Urbano;
-
-e) Jefatura de Transporte Suburbano;
-
-f) Jefatura de otras modalidades.
-
-III. Dirección de Planeación.
-
-a) Jefatura de Modernización;
-
-b) Jefatura de Planeación.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
 ###### Artículo 26.
 
-Las Direcciones, Jefaturas y demás unidades administrativas a cargo de la Dirección General de Transporte, realizarán las actividades que les correspondan de acuerdo a este reglamento y la naturaleza que les impone la denominación de su puesto, sin perjuicio de que realicen las tareas que les encomiende el Director General de Transporte para el cumplimiento de cualquiera de las obligaciones y fines de la Dirección General a efecto de equilibrar las cargas de trabajo y buscar la excelencia del Transporte Público en el Estado en beneficio de la los usuarios.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
-## TITULO TERCERO. DE LA DIRECCION GENERAL DE REEDUCACION SOCIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE JULIO DE 2016)</small>
+
+## TITULO TERCERO. DE LA DIRECCION GENERAL DE REINSERCION SOCIAL
 
 ### CAPITULO PRIMERO. Generalidades
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2016)</small>
+
 ###### Artículo 27.
 
-El presente título tiene por objeto, regular la estructura y funcionamiento de la Dirección General de Reeducación Social de la Secretaría de Seguridad Pública.
+El presente título tiene por objeto, regular la estructura y funcionamiento de la Dirección General de Reinserción Social, de la Secretaría de Seguridad Pública.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2016)</small>
 
 ###### Artículo 28.
 
-La Dirección General de Reeducación Social es una dependencia del Ejecutivo del Estado adscrita y subordinada a la Secretaría de Seguridad Pública, la cual tiene a su cargo organizar, dirigir y administrar el Sistema Penitenciario del Estado así como la ejecución de penas y medidas de seguridad a que se refiere la Legislación Penal vigente en el Estado en términos de las atribuciones que le asignan la Constitución Política de los Estados Unidos Mexicanos, La Constitución Política del Estado Libre y Soberano de Aguascalientes, la Ley de Seguridad Pública del Estado, la normatividad vigente en materia de ejecución de sentencias y el resto de los ordenamientos y relacionados tanto de la Federación como del Estado, así como las encomendadas por el propio titular del Ejecutivo Estatal.
+La Dirección General de Reinserción Social; se encuentra adscrita y subordinada a la Secretaría de Seguridad Pública, la cual tiene a su cargo organizar, dirigir y administrar el Sistema Penitenciario del Estado así como la ejecución material de penas y medidas de seguridad a que se refiere el Código Penal vigente en el Estado en términos de las atribuciones que le asignan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, la Ley del Sistema Estatal de Seguridad Pública del Estado, la normatividad vigente en materia de ejecución de sanciones penales y el resto de los ordenamientos y relacionados tanto de la Federación como del Estado, así como las encomendadas por el propio titular del Ejecutivo Estatal.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2016)</small>
 
 ###### Artículo 29.
 
-Al frente de la Dirección General de Reeducación Social estará el Director General quien, para el estudio, planeación, despacho y resolución de los asuntos que en razón de estas atribuciones son de su competencia, se auxiliará de las Direcciones de Area y Jefes de Departamento que le sean adscritas y previstas en este reglamento, y en los demás ordenamientos legales aplicables.
+Al frente de la Dirección General de Reinserción Social; estará el Director General quien, para el estudio, planeación, despacho y resolución de los asuntos que en razón de estas atribuciones son de su competencia, se auxiliará de las Direcciones de área y Jefes de Departamento que le sean adscritas y previstas en este reglamento, y en los demás ordenamientos legales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2016)</small>
 
 ###### Artículo 30.
 
-A la Dirección General de Reeducación Social por conducto de su titular o personal adscrito, le corresponde el despacho y ejercicio de las siguientes funciones:
+A la Dirección General de Reinserción Social; por conducto de su titular o personal adscrito, le corresponde el despacho y ejercicio de las siguientes funciones:
 
-I. Organizar, administrar y dirigir el funcionamiento de los Centros de Prevención y Reeducación Social en el Estado, de Reintegración y Tutelar para Menores Infractores;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
+
+I. Organizar, administrar y dirigir el funcionamiento de los Centros de Reinserción Social en el Estado, Centro Estatal para el Desarrollo del Adolescentes (sic); y de la Unidad Estatal de Medidas Cautelares y Salidas Alternas;
 
 II. Elaborar los expedientes técnicos correspondientes a las solicitudes de extradición, amnistía, indulto, preliberación y libertad preparatoria y lo referente al traslado de reos;
 
-III. Ejecutar las penas y medidas de seguridad impuestas por el Poder Judicial del Estado y de la Federación;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
 
-IV. Diseñar y proponer e implementar los planes y programas de prevención y reeducación social para menores infractores;
+III. Administrar, ejecutar y vigilar las medidas cautelares y el cumplimiento de las condiciones impuestas con motivo de la suspensión condicional del proceso;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
+
+IV. Diseñar y proponer e implementar los planes y programas de prevención y reinserción social para adolescentes infractores;
 
 V. Registrar y controlar a toda persona sujeta a prisión preventiva por orden de los tribunales del Estado, Federales y de cualquier otra Autoridad competente;
 
-VI. Gestionar el pago de la multa decretada por la Autoridad Judicial, así como también el de la reparación del daño;
+VI. (DEROGADA, P.O. 11 DE JULIO DE 2016)
 
 VII. Vigilar y dictar las medidas adecuadas para el cumplimiento de la suspensión, privación e inhabilitación de derechos civiles, de empleos cargos públicos, funciones, comisiones y profesiones;
 
 VIII. Vigilar y hacerse cargo de la publicación especial de sentencia;
 
-IX. Llevar un registro de conmutaciones, suspensiones condicionadas de ejecución, sustitución de pena de prisión y medidas de seguridad que se determinen por los tribunales del Estado;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
 
-X. Promover y resolver las solicitudes de beneficios de la preliberación y libertad preparatoria conforme lo marca la ley;
+IX. Llevar un registro de conmutaciones, suspensiones condicionadas de ejecución, sustitución de pena de prisión y medidas de seguridad que se determinen por los tribunales del Estado; así como un registro de medidas cautelares y de las suspensiones condicionales del proceso;
 
-XI. Procurar la reeducación de los internos en base a la educación, capacitación, trabajo y formación de los mismos;
+X. (DEROGADA, P.O. 11 DE JULIO DE 2016)
 
-XII. Resolver lo relativo a la extinción de la facultad de ejecutar penas, conforme a lo establecido por la Legislación Penal vigente en el Estado;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
+
+XI. Lograr la reinserción de los internos en base al respeto de los derechos humanos, trabajo, capacitación para el mismo, educación, salud y el deporte;
+
+XII. (DEROGADA, P.O. 11 DE JULIO DE 2016)
 
 XIII. Adecuar las penas y medidas de seguridad en base a las modificaciones legales que se presenten durante el cumplimiento de las sentencias;
 
-XIV. Resolver conforme a la Legislación Penal vigente en el Estado y al presente Reglamento las cuestiones relativas a las penas y medidas de seguridad durante la cuarta etapa del procedimiento penal;
+XIV. (DEROGADA, P.O. 11 DE JULIO DE 2016)
 
 XV. Certificar copias de los documentos originales que obren en los archivos del Sistema Penitenciario que legalmente pueda ser proporcionada;
 
 XVI. Expedir copias, simples o certificadas, de las constancias de los expedientes de ejecución a defensores legalmente autorizados;
 
-XVII. Celebrar Convenios, acuerdos y demás instrumentos jurídicos relativos a la prevención, reeducación social y reintegración de los internos;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
 
-XVIII. Representar legalmente a la Dirección General de Prevención y Reeducación Social en los procedimientos jurisdiccionales y administrativos o cualquier otro asunto de carácter legal;
+XVII. Celebrar convenios, acuerdos y demás instrumentos jurídicos relativos a la prevención, reinserción social y reintegración de los internos;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
+
+XVIII. Representar legalmente a la Dirección General de Reinserción Social en los procedimientos jurisdiccionales y administrativos o cualquier otro asunto de carácter legal;
 
 XIX. Intervenir y rendir los informes en los juicios de amparo por actos de autoridades de la Dirección e interponer los recursos que legalmente corresponda;
 
@@ -481,61 +411,107 @@ XX. Delegar, durante sus ausencias, la representación legal para los procedimie
 
 XXI. Generar, controlar y actualizar, por conducto de su personal jurídico un expediente físico e informático único por cada persona sujeta a custodia penitenciaria, que abarque todos los aspectos jurídicos, técnicos, administrativos y disciplinarios;
 
-XXII. Las demás señaladas en la normatividad y regulación penitenciaria.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
+
+XXII. Coordinar los esfuerzos de las instancias involucradas en el Centro de Reinserción Social y Productiva de Aguascalientes; y
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2016)</small>
+
+XXIII. Las demás señaladas en la normatividad y regulación penitenciaria.
 
 ### CAPITULO SEGUNDO. De la Organización
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2016)</small>
+
 ###### Artículo 31.
 
-La Dirección General de Reeducación Social, para el estudio, planeación y despacho de sus atribuciones, tendrá las siguientes unidades administrativas:
+La Dirección General de Reinserción Social; para el estudio, planeación y despacho de sus atribuciones, tendrá las siguientes unidades administrativas:
 
-I. Dirección del Centro de Reeducación Social para Varones Aguascalientes.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
 
-II. Dirección del Centro de Reeducación Social para Varones del Llano.
+I. Dirección del Centro de Reinserción Social para Varones Aguascalientes;
 
-III. Dirección del Centro de Reeducación Social para Mujeres.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
 
-IV. Dirección del Centro de Reeducación Social de Mínima Seguridad.
+II. Dirección del Centro de Reinserción Social para Varones del Llano;
 
-V. Dirección del Consejo Tutelar para Menores.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
 
-VI. Jefatura Jurídica.
+III. Dirección del Centro de Reinserción Social para Mujeres;
 
-VII. Jefatura Administrativa.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
 
-VIII. Jefatura de Custodia y Seguridad Penitenciaria.
+IV. Dirección del Centro de Reinserción Social de Mínima Seguridad;
 
-IX. Jefatura Técnica.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
 
-X. Jefatura de Desarrollo Formativo.
+V. Dirección del Centro Estatal para el Desarrollo del Adolescente;
 
-XI. Jefatura de Tratamientos en Libertad.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
+
+VI. Dirección del Centro de Reinserción Social y Productiva de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
+
+VII. Dirección de la Unidad Estatal de Medidas Cautelares y Salidas Alternas;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
+
+VIII. Jefatura Jurídica;
+
+IX. Jefatura Administrativa;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
+
+X. Jefatura de Custodia y Seguridad Penitenciaria;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
+
+XI. Jefatura Técnica;
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2016)</small>
+
+XII. Jefatura de Desarrollo Formativo; y
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2016)</small>
+
+XIII. Jefatura de Tratamientos en Libertad.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2016)</small>
 
 ###### Artículo 32.
 
-Para los efectos de este Reglamento se contempla al Tutelar para Menores en su estricto carácter de órgano administrativo y económico dependiente del Ejecutivo del Estado según lo señala el Artículo 13 de la Ley de Consejos Tutelares y de Reeducación Social para Menores del Estado de Aguascalientes, como auxiliar de la Dirección General de Reeducación Social y subordinado a ella en tales aspectos, esto sin perjuicio de lo dispuesto por el Artículo 18 de la citada Ley.
+Para los efectos de este Reglamento se contempla al Centro Estatal para el Desarrollo del Adolescente en su estricto carácter de órgano administrativo y económico dependiente del Ejecutivo del Estado de acuerdo a la normatividad aplicable.
 
 ### CAPITULO TERCERO. De las Direcciones de los Centros
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2016)</small>
+
 ###### Artículo 33.
 
-Son funciones de los Directores de los Centros de Reeducación Social y del Centro Tutelar para Menores:
+Son funciones de los Directores de los Centros de Reinserción Social y del Centro Estatal para el Desarrollo del Adolescente:
 
 I. Vigilar la aplicación del presente Reglamento, de los Manuales e Instructivos que deriven del mismo, así como el resto de los ordenamientos aplicables en la materia;
 
 II. Vigilar el cumplimiento exacto de la pena de prisión, otorgando en tiempo la libertad absoluta o virtual de aquellos internos que compurguen su pena;
 
-III. Cumplir las órdenes de libertad que se concedan por la Dirección General;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
+
+III. Cumplir las órdenes de libertad que se concedan por la autoridad jurisdiccional;
 
 IV. Resolver los asuntos, relacionados con el funcionamiento de la Institución;
 
-V. Supervisar directamente las instalaciones y el proceso de reeducación de los internos;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
+
+V. Supervisar directamente las instalaciones y el proceso de reinserción social de los internos;
 
 VI. Recibir en audiencia a los internos que lo soliciten;
 
 VII. Presidir el Consejo Técnico Interdisciplinario con derecho a voto en caso de empate;
 
-VIII. Representar al Centro ante las diferentes autoridades;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
+
+VIII. Representar legalmente al Centro ante las diferentes autoridades;
 
 IX. Ordenar la ejecución de correctivos disciplinarios a los internos, determinados por el Consejo Técnico Interdisciplinario;
 
@@ -543,21 +519,29 @@ X. Autorizar la visita familiar, íntima o de otra índole al interno del Centro
 
 XI. Administrar la adecuada aplicación de los recursos humanos, financieros y materiales del Centro;
 
-XII. Informar diariamente por escrito a la Dirección General de Reeducación Social, las actividades, y en casos de emergencia por cualquier otro medio;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
 
-XIII. Ejecutar los programas de reeducación que con base a la educación, trabajo y reintegración social establezca el Gobierno del Estado a través de la Dirección General;
+XII. Informar diariamente por escrito a la Dirección General de Reinserción Social, las actividades, y en casos de emergencia por cualquier otro medio;
 
-XIV. Ejecutar las órdenes de libertad que se concedan por la Dirección General;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
+
+XIII. Ejecutar los programas de reinserción que con base en el respeto a los derechos humanos, trabajo, capacitación para el mismo; educación, salud y el deporte establezca el Gobierno del Estado a través de la Dirección General;
+
+XIV. (DEROGADA, P.O. 11 DE JULIO DE 2016)
 
 XV. Informar a la Dirección General sobre las libertades otorgadas; y
 
-XVI. Las demás que le confiera este Reglamento y/o le ordene el Director General de Reeducación Social.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
+
+XVI. Las demás que le confiera este Reglamento y/o le ordene el Director General de Reinserción Social.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2016)</small>
 
 ###### Artículo 34.
 
-Las Direcciones, Jefaturas y demás unidades administrativas a cargo de la Dirección General de Reeducación Social, realizarán las actividades que les correspondan de acuerdo a este Reglamento y la naturaleza que les impone la denominación de su puesto, sin perjuicio de que realicen las tareas que les encomiende el Director General de Reeducación Social para el cumplimiento de cualquiera de las obligaciones y fines de la misma a efecto de equilibrar las cargas de trabajo.
+Las Direcciones, Jefaturas y demás unidades administrativas a cargo de la Dirección General de Reinserción Social, realizarán las actividades que les correspondan de acuerdo a este Reglamento y la naturaleza que les impone la denominación de su puesto, sin perjuicio de que realicen las tareas que les encomiende el Director General de Reinserción Social para el cumplimiento de cualquiera de las obligaciones y fines de la misma a efecto de equilibrar las cargas de trabajo.
 
-El funcionamiento general de esta Dirección General será regulado en el Reglamento Interior de la Dirección General de Reeducación Social, de los Centros de Reeducación Social para Varones, Mujeres, de Mínima Seguridad y del Centro Tutelar Para Menores.
+El funcionamiento general de esta Dirección General será regulado en el Reglamento Interior de la Dirección General de Reinserción Social, de los Centros de Reinserción Social para Varones Aguascalientes, El Llano, para Mujeres, de Reinserción Social y Productiva, de Mínima Seguridad, del Centro Estatal para el Desarrollo del Adolescente y de la Unidad Estatal de Medidas Cautelares y Salidas Alternas.
 
 ## TITULO CUARTO
 
@@ -657,127 +641,41 @@ El personal Operativo de la Dirección que nos ocupa será personal operativo de
 
 Las Direcciones, Jefaturas y demás unidades administrativas a cargo de la Dirección General de Prevención al Narcotráfico, realizarán las actividades que les correspondan de acuerdo a este Reglamento y la naturaleza que les impone la denominación de su puesto sin perjuicio de que realicen las tareas que les encomiende el director general para el cumplimiento de cualquiera de las obligaciones y fines de la Dirección General a efecto de equilibrar las cargas de trabajo y el inmediato cumplimiento de los fines de la misma.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2016)</small>
+
 ## TITULO QUINTO. DE LA DIRECCION GENERAL DE POLITICA CRIMINAL Y PREVENCION DEL DELITO
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2016)</small>
 
 ### CAPITULO PRIMERO. Generalidades
 
 ###### Artículo 41.
 
-El presente Título de este Reglamento tiene por objeto, regular la estructura y funcionamiento de la Dirección General de Política Criminal y Prevención del Delito, Dirección de Vinculación Institucional, Comités de Seguridad y Dirección del Sistema Estatal de Información Sobre Seguridad Pública.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
 ###### Artículo 42.
 
-La Dirección General de Política Criminal y Prevención del Delito, es una dependencia del Ejecutivo del Estado adscrita y subordinada a la Secretaría de Seguridad Pública, la cual tiene a su cargo el ejercicio de las atribuciones que le asignan la Constitución Política de los Estados Unidos Mexicanos, La Constitución Política del Estado Libre y Soberano de Aguascalientes, la Ley de Seguridad Pública del Estado, y el resto de la normatividad vigente y relacionada tanto de la Federación como del Estado, así como las encomendadas por el propio titular del Ejecutivo Estatal.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
 ###### Artículo 43.
 
-A la Dirección General de Política Criminal y Prevención del Delito, por conducto de su Director General y personal adscrito, le corresponde el ejercicio de las atribuciones y el cumplimiento de las siguientes obligaciones:
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
-I. Formular una política criminal de alcance y observancia estatal, que contribuya a preservar el orden y la paz públicos de manera coordinada y homogénea;
-
-II. Homologar los criterios de la política criminal de prevención de las conductas antijurídicas en el ámbito de competencia del Estado en coordinación con los Municipios, observando las actualizaciones y evoluciones de la política criminal nacional que considere la familia, educación, la salud, el trabajo, los menores infractores, los niños de la calle, la cultura, el deporte, la recreación y la normatividad misma;
-
-III. Definir los principios de la política criminal para aplicarse en los programas orientados a la prevención del delito y conductas infractoras, con la participación de instituciones gubernamentales, académicas y civiles que desarrollen programas y acciones en el área de la criminología;
-
-IV. Formular una guía básica de los principios elementales de la política criminal, aplicables al Programa de Prevención del Delito;
-
-V. Realizar investigaciones y estudios de campo a nivel internacional, nacional, estatal y municipal que posibiliten diagnósticos sobre las conductas infractoras y el estado de la delincuencia, mismos que permitan sugerir al Secretario de Seguridad Pública y a los Directores Generales de la Secretaría, la política criminal a seguirse en el Estado buscando la real prevención del delito;
-
-VI. Promover la capacitación de los recursos humanos de las Instituciones gubernamentales, académicas y civiles vinculadas a la seguridad pública, en el manejo y aplicación de la política de prevención;
-
-VII. Realizar estudios sobre la aplicación de la política criminal de prevención para determinar su continuidad, modificaciones o adecuaciones;
-
-VIII. Promover el desarrollo de programas de capacitación en el área de prevención del delito y conductas infractoras para educadores, en los distintos niveles de enseñanza;
-
-IX. Establecer objetivos a corto, mediano y largo plazo en política criminal que se traduzcan en un mejoramiento de los servicios de la Secretaría de Seguridad Pública y en beneficios reales para la población del Estado mediante la prevención del delito;
-
-X. Establecer los instrumentos para la medición eficaz y real del cumplimiento de los objetivos de la política criminal del Estado;
-
-XI. Convocar a los Directores Generales de la Secretaría para la realización de investigaciones conjuntas en materia de política criminal y prevención del delito;
-
-XII. Inducir y organizar la participación de la sociedad en el programa de Prevención del Delito, de conformidad con lo dispuesto en la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública;
-
-XIII. Promover la normatividad en coordinación y acuerdo con la Dirección General Jurídica de la Secretaría que regule la atención de los menores de edad y niños de la calle, a fin de que contemple medidas de orientación social y de prevención de conductas infractoras;
-
-XIV. Revisar y proponer la actualización del marco jurídico en coordinación y previo acuerdo con la Dirección General Jurídica, que posibilite la prevención del delito y conductas infractoras a través de actividades culturales, deportivas y recreativas;
-
-XV. Proponer la revisión de la legislación penal y penitenciaria, sugiriendo en su caso, las reformas a las mismas para la regulación y adecuada reinserción social del preliberado, en coordinación y previo acuerdo con la Dirección General de Reeducación Social y la Dirección General Jurídica;
-
-XVI. Actualizar y difundir los manuales de organización, procedimientos y servicios al público de las dependencias estatales y municipales que participen en las acciones de prevención del delito;
-
-XVII. Propiciar que la población coadyuve con las autoridades en la planeación, supervisión, ejecución y evaluación de las acciones que en materia de prevención del delito se programen en los tres órdenes de gobierno;
-
-XVIII. Promover la organización de Consejos y Comités Municipales de Consulta y Participación Ciudadana en la Prevención del Delito;
-
-XIX. Asegurar que los Consejos y Comités Municipales de Consulta y Participación Ciudadana desarrollen sus programas y actividades en forma coordinada y congruente con la normatividad establecida;
-
-XX. Motivar la participación ciudadana en las actividades programadas por los Consejos y Comités Municipales o asociaciones, de cara a la prevención del delito;
-
-XXI. Alentar la elaboración de materiales educativos diversos, como manuales para comunidades urbanas y rurales así como videos y cápsulas informativas de naturaleza multimedia, en materia de prevención del delito;
-
-XXII. Inducir acciones conjuntas con las autoridades de salud, educación desarrollo social y familiar, dirigidas a la prevención integral del delito y la violencia intrafamiliar;
-
-XXIII. Alentar y difundir programas orientados a la prevención y tratamiento de la violencia intrafamiliar;
-
-XXIV. Estimular, mediante acciones reales derivadas de los estudios e investigaciones realizadas, la participación de todos los sectores de la población en la prevención del delito, y la coordinación de las mismas;
-
-XXV. Crear las figuras técnicas eficaces que permitan participar a la población del Estado de una forma activa, real y segura en materia de la prevención del delito;
-
-XXVI. Reportar al menos cada mes al Secretario de Seguridad Pública los avances de sus investigaciones y los resultados obtenidos de los programas implementados;
-
-XXVII. Coordinarse con los titulares de las otras Direcciones Generales de la Secretaría para el mejor funcionamiento de la misma;
-
-XXVIII. Crear bancos de información que permitan el establecimiento de programas especiales que conlleven a la formación de una estrategia de prevención y combate a la delincuencia, así como a la coordinación para tal fin de los diferentes cuerpos policiales;
-
-XXIX. Sugerir a las áreas de inteligencia e información de la Secretaría de Seguridad Pública, la implementación de acciones concretas que permitan obtener resultados a corto, mediano y largo plazo en labores de prevención del delito;
-
-XXX. Conformar el Sistema Estatal de Estadística Criminal, de acuerdo a lo dispuesto por la Ley de Seguridad Pública del Estado de Aguascalientes;
-
-XXXI. Dictar y ejecutar todas las actuaciones que sean necesarias para el cumplimiento de sus atribuciones;
-
-XXXII. Realizar las acciones necesarias para el cuidado y resguardo de la información a su cargo;
-
-XXXIII. Formular y proponer al Secretario previo acuerdo con el Director General Jurídico de la Secretaría los proyectos de iniciativas de leyes o decretos que estime necesarios para el buen funcionamiento de la política criminal y el logro eficaz de la prevención del delito;
-
-XXXIV. Proporcionar la información y/o documentación necesaria al Secretario, para que éste o el propio Director General, den cuenta al Honorable Congreso del Estado, según sean requeridos, del estado que guarden las acciones de Política Criminal;
-
-XXXV. Establecer las comisiones, consejos, comités y unidades de coordinación, asesoría, apoyo técnico y control, que requiera el funcionamiento operativo y administrativo de la Dirección General;
-
-XXXVI. Certificar, las copias de las constancias y documentos originales que se encuentren en los archivos de la Dirección a su Cargo cuando le sean solicitadas y sea procedente expedirlas conforme a la Ley, y que no se trate de asuntos de carácter confidencial;
-
-XXXVII. Coordinarse con los Directores Generales de la Secretaría para controlar las diferentes áreas de información de la Secretaría, buscando el tratamiento adecuado para la mejor utilización y el resguardo confidencial de la misma;
-
-XXXVIII. Representar legalmente a la Dirección General a su cargo en los procedimientos jurisdiccionales y administrativos o cualquier otro asunto de carácter legal, en coordinación y previo acuerdo con la Dirección General Jurídica;
-
-XXXIX. Intervenir y rendir los informes en los juicios de amparo por actos de autoridades de la Dirección, interponer los recursos que legalmente correspondan en coordinación y previo acuerdo de la Dirección General Jurídica de la Secretaría; y
-
-XL. Las demás que le atribuyan expresamente las leyes, reglamentos y acuerdos; las que le sean conferidas por el Secretario, las que les correspondan a las unidades administrativas que le sean adscritas y las que por los avances de la ciencia y de la investigación en materia de política criminal sean necesarias para el logro eficaz de la prevención del delito.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2016)</small>
 
 ### CAPITULO SEGUNDO. De la Organización
 
 ###### Artículo 44.
 
-La Dirección General de Prevención del Delito y Política Criminal, para el estudio, planeación y despacho de sus atribuciones, tendrá las siguientes unidades administrativas y operativas:
-
-a). Dirección de Vinculación Institucional y Comités de Seguridad;
-
-- Jefatura de Comités de Seguridad;
-
-- Jefatura de Vinculación Institucional;
-
-b). Dirección del Sistema Estatal de Información Sobre Seguridad Pública;
-
-- Jefatura de Información y Estadística Servicio de Redes;
-
-- Jefatura de Análisis Delictivo y Diagnóstico Criminal.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
 ###### Artículo 45.
 
-Es obligación de las Direcciones la realización de investigación científica y práctica constante sobre los temas de su competencia para el mejoramiento de los servicios de seguridad que le son encomendados.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
 ###### Artículo 46.
 
-Las Direcciones, Jefaturas y demás unidades administrativas a cargo de la Dirección General de Política Criminal y Prevención del Delito, realizarán las actividades que les corresponda de acuerdo a este Reglamento y la naturaleza que les impone la denominación de su puesto sin perjuicio de que realicen las tareas que les encomiende el Director General de Política Criminal y Prevención del Delito para el cumplimiento de cualquiera de las obligaciones y fines de la Dirección General Jurídica a efecto de equilibrar las cargas de trabajo y buscar la excelencia en servicio jurídico a la Secretaría y a la ciudadanía interesada.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
 ## TITULO SEXTO. DE LA DIRECCION GENERAL DE SEGURIDAD PUBLICA Y VIALIDAD
 
@@ -801,7 +699,9 @@ II. Vigilar y cuidar el orden público en el territorio del Estado para proteger
 
 III. Ejecutar la Política Estatal en materia de Seguridad Pública, a través de acciones de planeación, programación, concertación, colaboración, coordinación, ejecución y seguimiento, con respeto absoluto a las atribuciones Constitucionales de las instancias que intervengan;
 
-IV. A través de la Policía Estatal prevenir el delito, vigilar y regular el tránsito de vehículos en carreteras y caminos vecinales del Estado, quien será la encargada de conformidad con la Ley de Seguridad Pública del Estado de Aguascalientes y la Ley de Vialidad del Estado de Aguascalientes, de formular las boletas de infracciones y sancionar lo que en derecho corresponda por las violaciones a éstas, en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
+
+IV. A través de la Policía Estatal prevenir el delito, vigilar y regular el tránsito de vehículos en carreteras y caminos vecinales del Estado, quien será la encargada de conformidad con la Ley del Sistema Estatal de Seguridad Pública del Estado de Aguascalientes y la Ley de Vialidad del Estado de Aguascalientes, de formular las boletas de infracciones y sancionar lo que en derecho corresponda por las violaciones a éstas, en el ámbito de su competencia;
 
 V. Calificar las boletas de infracción y en su caso la cancelación de las mismas y autorizar la devolución de vehículos automotores cuando legalmente proceda;
 
@@ -823,7 +723,9 @@ XIII. Por acuerdo del Secretario recibir, analizar y en su caso, autorizar, las 
 
 XIV. Realizar por conducto de su personal los actos jurídicos necesarios para que se publique en el Periódico Oficial del Estado la lista de las empresas y personas de seguridad privada autorizadas para la prestación de tales servicios;
 
-XV. En coordinación con la Dirección General de Transporte llevar el registro de las concesiones de transporte del servicio público en general, comprobando los datos proporcionados en las solicitudes;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
+
+XV. Colaborar en el registro de las concesiones de transporte del servicio público en general, cuando así le sea solicitado;
 
 XVI. Otorgar, expedir, cancelar, suspender y revocar tarjetas de circulación, permisos para circular sin placas ni tarjeta de circulación, y licencias para conducir vehículos de motor, y en su caso permisos provisionales para menores de edad;
 
@@ -1221,9 +1123,11 @@ Las facultades y obligaciones del área de asuntos internos, de su titular y de 
 
 Los miembros del área de asuntos internos, son personal de confianza.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2016)</small>
+
 ###### Artículo 65.
 
-El miembro del área de asuntos internos que se niegue a ser evaluado por el Centro de Control y Evaluación del Personal a que se refiere este Reglamento, será sancionado con la pérdida de confianza y dará lugar a la destitución de su cargo, sin responsabilidad para la Secretaría de Seguridad Pública.
+El miembro del área de asuntos internos que se niegue a ser evaluado por el Centro de Evaluación y Control de Confianza, será sancionado con la pérdida de confianza y dará lugar a la destitución de su cargo, sin responsabilidad para la Secretaría de Seguridad Pública.
 
 ## TITULO DECIMO. DE LAS EVALUACIONES Y CONTROL PERIODICO DEL PERSONAL
 
@@ -1241,265 +1145,147 @@ Al efecto, es obligatorio para todos los elementos de la Policía y de las corpo
 
 En caso de negativa o de la no presentación de los exámenes o evaluaciones sin mediar causa justificada, se tendrán por no aprobadas. La no presentación sin que exista causa justificada de las evaluaciones o exámenes será considerada como falta grave a los principios de profesionalización y de observancia de las normas de disciplina y orden, previstos en la Ley de Seguridad Pública, y constituirá causal de destitución en los términos de dicho ordenamiento, sin responsabilidad para la Secretaría o corporación a la que pertenezcan.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2016)</small>
+
 ###### Artículo 68.
 
-Todo el Personal de la Secretaría deberá practicarse los exámenes médicos, físicos, psicológicos, psiquiátricos, toxicológicos, del entorno social y situación patrimonial, poligráficos y demás que señalen otras disposiciones aplicables cuando así lo determine el Secretario, los cuales se realizarán a través del Centro de Control y Evaluación del Personal.
+Todo el Personal de la Secretaría deberá practicarse los exámenes médicos, físicos, psicológicos, psiquiátricos, toxicológicos, del entorno social y situación patrimonial, poligráficos y demás que señalen otras disposiciones aplicables cuando así lo determine el Secretario, los cuales se realizarán a través del Centro de Evaluación y Control de Confianza.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2016)</small>
 
 ### CAPITULO SEGUNDO. Del Centro de Control y la Evaluación del Personal
 
 ###### Artículo 69.
 
-El Centro de Control y Evaluación del Personal es una unidad de apoyo adscrita de manera directa al Secretario de Seguridad Pública, para la prevención del delito, la profesionalización del personal de la Secretaría, el mantenimiento de la honorabilidad y confianza de la Secretaría en su personal y es el encargado de los procesos de control y evaluación que se practiquen al personal de las diferentes corporaciones de seguridad en el Estado, corporaciones auxiliares de seguridad en la entidad, personal de la Secretaría de Seguridad Pública, particulares para fines propios, previo pago de los derechos respectivos y las demás que la ley prevea, para comprobar el cumplimiento de los principios de actuación que establece la Constitución Política de los Estados Unidos Mexicanos, la Ley que establece las bases de Coordinación del Sistema Nacional de Seguridad Pública, la Ley de Seguridad Pública del Estado de Aguascalientes, la Ley de Responsabilidades de los Servidores Públicos del Estado, el presente Reglamento y demás normatividad aplicable.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
 ###### Artículo 70.
 
-Para el logro de sus fines el Centro tendrá las siguientes facultades:
-
-I. Determinar, dirigir, llevar a cabo y calificar los procesos y evaluaciones de control que se practiquen y obtengan del personal de las diferentes corporaciones de seguridad publica estatales, municipales en los casos que legalmente sea procedente y demás personas sometidas a tales procesos y evaluaciones;
-
-II. Evaluar en los términos a que se refiere el punto anterior al personal de Asuntos Internos de la Secretaría de Seguridad Pública, por lo menos cada veinticuatro meses;
-
-III. Comunicar los resultados de todas las evaluaciones que se practiquen por el Centro y las negativas del personal a ser evaluado al Secretario de Seguridad Publica, a la persona que designe el Secretario o al titular de la corporación a la que pertenezca el elemento evaluado;
-
-IV. Establecer, integrar y actualizar una base de datos que contenga los resultados de los procesos de control y evaluación de cada una de las personas que hayan sido sometidas al mismo;
-
-V. Resguardar los expedientes que se integran en el proceso de evaluación, mismos que serán confidenciales;
-
-VI. En coordinación con las autoridades correspondientes realizar las acciones de control y evaluación a que se refiere el artículo anterior;
-
-VII. Coordinar sus actividades con otras Direcciones u órganos de la Secretaría que realicen funciones de supervisión, formación, capacitación, control y evaluación;
-
-VIII. Apoyar técnicamente al Área de Asuntos Internos, a la Dirección General Jurídica y al Consejo de Honor y Justicia de la Secretaría de Seguridad Pública cuando éstos se lo soliciten;
-
-IX. Participar en los procedimientos del Servicio Civil de Carrera;
-
-X. Las demás que le sean ordenadas por el Secretario.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
 ###### Artículo 71.
 
-El personal de las diferentes corporaciones de seguridad en el Estado, de las corporaciones auxiliares de seguridad en la entidad, y las demás personas que la ley y este reglamento prevean se someterán a las evaluaciones que establezca el Centro, en los términos de los convenios respectivos que existan para el efecto.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
 ###### Artículo 72.
 
-Las evaluaciones practicadas por el Centro se conducirán con estricto respeto a los principios de legalidad, igualdad, confidencialidad, eficiencia, profesionalismo, lealtad, imparcialidad, respeto a los derechos humanos y garantías individuales de los evaluados.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
 ###### Artículo 73.
 
-El titular y demás personal del Centro de Control y Evaluación del Personal no deberán pertenecer a la carrera o sistema policial, deberán aprobar las evaluaciones a que se refiere el presente reglamento y las demás evaluaciones internas o externas que señale el Secretario y serán expertos en las áreas que les correspondan, quienes además deberán acreditar tener estudios profesionales en áreas afines a su puesto.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
 ###### Artículo 74.
 
-El titular y el personal adscrito a esta unidad administrativa se someterá a un proceso externo de evaluación por lo menos cada veinticuatro meses, que será determinado por el Secretario de Seguridad Pública y encomendado a una institución pública o privada de notorio prestigio y seriedad.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
 ###### Artículo 75.
 
-El Centro, será la única área de la Secretaría encargada de las evaluaciones poligráficas.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
 ###### Artículo 76.
 
-El Centro para el desarrollo de sus funciones podrá solicitar apoyo a las demás unidades administrativas de la Secretaría.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
 ###### Artículo 77.
 
-Todo lo no previsto en este título será regulado por los manuales que para el efecto se expidan.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2016)</small>
 
 ### CAPITULO TERCERO. Estructura y Funcionamiento
 
 ###### Artículo 78.
 
-El presente capítulo tiene por objeto establecer disposiciones normativas que regulan la estructura administrativa y funcionamiento del Centro de Control y Evaluación del Personal.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
 ###### Artículo 79.
 
-El Centro de Control y Evaluación del Personal, es un órgano que tiene como función realizar las evaluaciones psicológicas, poligráficas y demás que determine el propio Centro, el Secretario o el titular de la corporación que corresponda al personal de las diferentes corporaciones de seguridad en el Estado y corporaciones auxiliares en la entidad, en base a las facultades directas de la Secretaría o a los convenios de colaboración que para el efecto se suscriban con las diversas instancias federales, estatales y municipales, con la finalidad de verificar el cumplimiento de los principios de actuación que les establece la Constitución Política de los Estados Unidos Mexicanos, la Ley que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, la Ley de Seguridad Publica para el Estado de Aguascalientes y demás normatividad aplicable.
-
-El Centro de Control y Evaluación del Personal, brindará a las corporaciones de seguridad en el Estado y corporaciones auxiliares en la entidad, el apoyo para que cuenten con recursos humanos leales y honestos a través de las evaluaciones al personal de las mismas.
-
-Las evaluaciones se practicarán cuando así lo determine el Centro, el Secretario o el titular de la corporación que corresponda o en los casos en que las corporaciones realizaren promociones de elementos para el cumplimiento de mas y nuevas responsabilidades, reasignación de funciones que no necesariamente impliquen aumento en las responsabilidades o en el servicio, o en el supuesto de asignación de los mismos a grupos especiales donde por la naturaleza de las funciones a desarrollar implique la verificación de la confiabilidad. Las evaluaciones a los elementos en general deberán ser cuando menos cada veinticuatro meses.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
 ###### Artículo 80.
 
-Compete al Secretario de Seguridad Pública a través del Director de el Centro de Control y Evaluación del Personal, el debido cumplimiento del presente reglamento.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
 ###### Artículo 81.
 
-Para efectos del presente título se entenderá por:
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
-Centro.- El Centro de Control y Evaluación del Personal;
-
-Director.- El Director de el Centro de Control y Evaluación del Personal;
-
-Corporaciones.- A las Corporaciones de Seguridad en el Estado y Corporaciones Auxiliares de Seguridad en la Entidad.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2016)</small>
 
 ### CAPITULO CUARTO. De la Organización del Centro
 
 ###### Artículo 82.
 
-Son autoridades del Centro:
-
-I. El Gobernador Constitucional del Estado;
-
-II. El Secretario de Seguridad Pública en el Estado;
-
-III. El Director del el Centro de Control y Evaluación del Personal.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
 ###### Artículo 83.
 
-Para el despacho, atención y desarrollo de las funciones correspondientes al Centro, este contara con la siguiente estructura orgánica:
-
-I. Un Director;
-
-II. Un jefe de Psicología;
-
-III. Un jefe de Poligrafía.
-
-Además contará con el personal profesional, técnico y administrativo que se requiera para el mejor desempeño de las actividades del Centro.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
 ###### Artículo 84.
 
-La información almacenada en la base de datos que se establezca en el Centro, deberá contener los resultados de la evaluación del personal de las corporaciones así como las negativas del personal a someterse a las citadas evaluaciones y será considerada confidencial y reservada.
-
-El personal adscrito al Centro que utilice indebidamente la información a que se refiere el párrafo anterior será sancionado conforme a la Legislación Penal, a la Ley de Responsabilidades de los Servidores Públicos y demás normatividad aplicable en el Estado.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
 ###### Artículo 85.
 
-Ninguna persona ajena al Centro podrá permanecer en sus oficinas e instalaciones, salvo en el caso de (sic) se trate de personal sujeto a evaluación.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
-Será responsabilidad del director y titulares de área la estricta observancia a esta disposición, y la infracción a la misma será causa para iniciar proceso administrativo por responsabilidad.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2016)</small>
 
 ### CAPITULO QUINTO. Del Director
 
 ###### Artículo 86.
 
-El trámite de los asuntos de la competencia del Centro corresponde al Director, quien podrá apoyarse con los titulares de las áreas adscritas al mismo.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
 ###### Artículo 87.
 
-Son obligaciones del Director:
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
-I. Determinar, coordinar, aplicar y calificar los procesos de evaluación que se realicen al personal para comprobar el cumplimiento de los principios de actuación que les establece la Ley de Seguridad Publica para el Estado de Aguascalientes;
-
-II. A través de los exámenes psicológicos y poligráficos, comprobar que el personal de las corporaciones cumpla con la conducta ética y de personalidad apegados a los principios de actuación que establece la Ley de seguridad Publica para el Estado de Aguascalientes y demás disposiciones jurídicas aplicables;
-
-III. Determinar las características, términos y procedimientos con que se practicaran evaluaciones al personal de las Corporaciones;
-
-IV. Informar el resultado de las evaluaciones al Secretario de Seguridad Publica o a la persona que éste designe, y en su caso a la autoridad correspondiente en el que se encuentre adscrito el personal evaluado, previa autorización de éste;
-
-V. Conducir los procesos de evaluación con respeto a los Derechos Humanos y observando los principios de legalidad, igualdad, eficiencia, profesionalismo, honradez, lealtad e imparcialidad;
-
-VI. Integrar, alimentar y actualizar una base de datos que contenga los resultados de la evaluación de cada elemento evaluado;
-
-VII. Resguardar los expedientes que se integren en el proceso por un periodo mínimo de cinco años, después de que el elemento evaluado hubiere dejado de prestar sus servicios para alguna corporación de seguridad pública, mismos que serán confidenciales;
-
-VIII. Coordinar con las autoridades correspondientes las acciones de evaluación que se llevaran a cabo;
-
-IX. Abstenerse de proporcionar información de los resultados de las evaluaciones, salvo a las autoridades a que se refiere el presente Reglamento;
-
-X. Mantener en buen estado los instrumentos y materiales de trabajo que le han sido asignados para el desempeño de sus funciones;
-
-XI. Abstenerse de utilizar la información obtenida de las evaluaciones para fines ajenos a sus funciones;
-
-XII. Abstenerse de indagar en asuntos considerados de carácter privado que no se relacionen con la información necesaria y estrictamente indispensable para efectos de evaluación que será del conocimiento previo a la prueba por el evaluado;
-
-XIII. Capacitarse permanentemente, y vigilar que el personal del Centro haga lo mismo;
-
-XIV. Difundir las actividades del Centro;
-
-XV. Las demás que se deriven del presente reglamento, de los demás ordenamientos aplicables y de las ordenadas por el Secretario de Seguridad Publica.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2016)</small>
 
 ### CAPITULO SEXTO. Del Area de Psicología
 
 ###### Artículo 88.
 
-El área de Psicología será responsabilidad de un jefe y las funciones correspondientes, son las evaluaciones y dictámenes del personal de las Corporaciones en lo relativo al perfil de personalidad requerido para los puestos desempeñados o que pretendan desempeñar.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
 ###### Artículo 89.
 
-Corresponde al Área de Psicología:
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
-1. Evaluar y dictaminar si el personal cumple con el perfil de personalidad para el desarrollo del puesto;
-
-2. Emplear técnicas e instrumentos de evaluación eficaces y confiables;
-
-3. Ser imparcial en la toma de decisiones, al evaluar al personal de las corporaciones;
-
-4. Realizar entrevistas Psicológicas al personal de las corporaciones obteniendo los datos necesarios para la apertura del expediente respectivo;
-
-5. Aplicar exámenes psicológicos, en los cuales se observe el perfil de personalidad y el coeficiente intelectual del evaluado;
-
-6. Alimentar y actualizar la base de datos con la información que contenga los resultados de las evaluaciones realizadas al personal de las corporaciones;
-
-7. Abstenerse de utilizar los instrumentos y/o materiales de trabajo para fines ajenos a sus funciones;
-
-8. Abstenerse de indagar en asuntos considerados de carácter privado que no se relacionen con la información necesaria para efectos de la evaluación; y
-
-9. Las demás que se deriven del presente reglamento y las encomendadas por el Director.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2016)</small>
 
 ### CAPITULO SEPTIMO. Del Area de Poligrafía
 
 ###### Artículo 90.
 
-El área de Poligrafía será responsabilidad de un jefe.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
 ###### Artículo 91.
 
-Las funciones correspondientes al Área de Poligrafía son:
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
-1. Evaluar y dictaminar si el personal de las corporaciones cumple los principios de actuación requeridos para las funciones que desempeñan;
-
-2. Observar que en las evaluaciones poligráficas se respeten los Derechos Humanos;
-
-3. Realizar evaluaciones con el debido consentimiento escrito del personal que se someta al mismo, e informar previamente cual será el método a utilizar y los temas a tratar; y
-
-4. Mantener en estricta confidencialidad los expedientes que se generen en el proceso de evaluación.
-
-De la Evaluación Poligráfica:
-
-1. Cada pregunta que se vaya a realizar durante el examen deberá ser leída y explicada previamente. En ningún caso se administraran preguntas sorpresa a modo de trampa;
-
-2. Dar el consentimiento para la aplicación de la prueba y firmar la autorización por escrito; en caso de negativa del elemento, éste deberá firmar su negativa a ser sometido a la evaluación, debiendo señalar los motivos o razones de su negativa;
-
-3. La manifestación voluntaria debe ser libre, patente, específica e inequívoca;
-
-4. En evaluaciones periódicas deberán notificarse previamente y por escrito a los sujetos de la evaluación;
-
-5. La prueba poligráfica no deberá ser la única evaluación;
-
-6. No podrá utilizarse esta prueba como única causa o motivo para iniciar proceso administrativo o penal de un elemento;
-
-7. El evaluado previamente al examen autorizará la utilización de los resultados para los fines del Centro y de la Secretaría.
-
-Del desahogo de la evaluación poligráfica:
-
-1. El tema del que se trate la evaluación será sólo laboral, salvo temas periféricos que pueden ser personales y que sean estrictamente necesarios para realizar la evaluación;
-
-2. La prueba deberá ser aplicada por un experto con estudios profesionales, que deberá acreditarse como tal con credencial con fotografía expedida por el Secretario de Seguridad Pública;
-
-3. Deberá ser un (sic) en lugar privado sin ningún tipo de ruido ambiente e interrupciones;
-
-4. En la habitación donde se realiza la prueba solo podrá estar el poligrafista y el evaluado;
-
-5. El elemento evaluado podrá solicitar la suspensión de la evaluación no obstante que ésta hubiere iniciado, debiendo firmar el elemento constancia de suspensión y explicar también por escrito el motivo de la misma;
-
-6. El evaluado, el personal y los visitantes del Centro se abstendrán de introducir armas y alimentos al área de evaluación.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2016)</small>
 
 ### CAPITULO OCTAVO. De los Dictámenes
 
 ###### Artículo 92.
 
-Un dictamen es la opinión emitida por el Centro a partir de la integración de los resultados de la evaluación psicológica y poligráfica, que en conjunto permite conocer la personalidad, inteligencia y la observación del cumplimiento de los principios de actuación del personal de las corporaciones.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
 ###### Artículo 93.
 
-El dictamen se realizara en forma individualizada a cada uno del personal evaluado y tiene como finalidad determinar el cumplimiento de los requisitos de permanencia e ingreso de las dependencias.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
 ###### Artículo 94.
 
-Podrán practicarse exámenes y evaluaciones a particulares previa autorización por escrito del sujeto del estudio y en los términos de este reglamento y previo pago de los derechos correspondientes, para los fines que al interesado convengan y que el evaluado autorice por escrito.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
 ###### Artículo 95.
 
-La autorización para la práctica de evaluaciones a particulares será discrecional del Secretario siendo en todo momento prioritarias las evaluaciones al personal de la Secretaría, a las corporaciones de seguridad pública, y demás entidades gubernamentales.
+(DEROGADO, P.O. 11 DE JULIO DE 2016)
 
 ## TITULO DECIMO PRIMERO. DEL CENTRO ESTATAL DE TELECOMUNICACIONES C4 (CONTROL, COMANDO, COMUNICACION Y COMPUTO
 
@@ -1582,3 +1368,11 @@ SECRETARIO DE SEGURIDAD PUBLICA.
 P.O. 20 DE NOVIEMBRE DE 2013.
 
 ÚNICO.- La presente reforma entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DE LAS "REFORMAS AL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA Y AL REGLAMENTO DEL SISTEMA PENITENCIARIO EN EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas entrarán en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
