@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-biblioteca-publica-jesus-corral-57607
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-04-11"
-last_updated: "2005-04-11"
+last_updated: "2016-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LA BIBLIOTECA PUBLICA "JESUS CORRAL RUIZ"
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA BIBLIOTECA PÚBLICA JESÚS CORRAL RUIZ, PUBLICADO EN EL B.O. DE 11 DE JULIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE JULIO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección V del Boletín Oficial del Estado de Sonora, el lunes 11 de abril de 2005.
 
@@ -401,3 +403,21 @@ Dirección General
 Departamento de Departamento de Departamento
 
 Atención a Usuarios Procesos Técnicos de Contabilidad
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 11 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA BIBLIOTECA PÚBLICA JUESÚS CORRAL RUIZ”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Biblioteca Pública Jesús Corral Ruiz, publicado en el Boletín Oficial número 29, de fecha 11 de abril de 2005 y demás disposiciones reglamentarias que se opongan al presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Los manuales de Organización, de Procedimientos y, en su caso, de Servicios al Público de la Biblioteca deberán actualizarse dentro de los sesenta días posteriores a la publicación del presente Reglamento Interior. En tanto se expiden los mencionados manuales administrativos, el Director General queda facultado para resolver las cuestiones que se presenten en relación con los mismos.
