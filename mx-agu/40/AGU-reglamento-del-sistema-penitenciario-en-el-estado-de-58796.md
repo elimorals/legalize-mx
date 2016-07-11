@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-sistema-penitenciario-en-el-estado-de-58796"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-14"
-last_updated: "2008-01-14"
+last_updated: "2016-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "AGU"
 
 REGLAMENTO DEL SISTEMA PENITENCIARIO EN EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2016.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de enero de 2008.
 
@@ -48,7 +48,9 @@ El presente reglamento salvaguardará el respeto absoluto de los derechos humano
 
 Para los efectos de este Reglamento, se entenderá por:
 
-I. Centro.- Cada uno de los Centros de Reeducación y Reintegración Social del Estado femenil y varonil destinados a la ejecución de penas privativas de libertad y medidas de seguridad, así como a la prisión preventiva;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
+
+I. Centro.- Los establecidos en el artículo 5º del presente Reglamento;
 
 II. Consejo.- El Consejo Técnico Interdisciplinario de cada uno de los Centros;
 
@@ -90,15 +92,37 @@ Las disposiciones del presente Reglamento, los Manuales y demás normas aplicabl
 
 El Sistema Estatal Penitenciario se integra con los siguientes Centros:
 
-I. Centro de Reeducación Social para varones "Aguascalientes";
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
 
-II. Centro de Reeducación Social para varones "El Llano";
+I.- Centro de Reinserción Social para Varones (sic) Aguascalientes;
 
-III. Centro de Reeducación Social "Femenil";
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
 
-IV. Centro de Reintegración Social; y
+II.- Centro de Reinserción Social para Varones del Llano;
 
-V. El Departamento de Tratamiento en libertad.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
+
+III.- Centro de Reinserción Social para Mujeres;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
+
+IV.- Centro de Reinserción Social de Mínima Seguridad;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
+
+V.- Centro Estatal para el Desarrollo del Adolescente;
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2016)</small>
+
+VI.- Centro de Reinserción Social y Productiva de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2016)</small>
+
+VII.- Unidad Estatal de Medidas Cautelares y Salidas Alternas; y
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2016)</small>
+
+VIII.- Departamento de Tratamiento en Libertad.
 
 El Secretario podrá determinar mediante acuerdo el nivel de seguridad de los Centros de Reeducación Social, así como que uno o más de éstos sean exclusivamente para procesados o sentenciados.
 
@@ -1819,3 +1843,13 @@ Lic. Juan Ángel José Pérez Talamantes.
 El Secretario de Seguridad Pública,
 
 Lic. Filiberto Ramírez Lara.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DE LAS “REFORMAS AL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA Y AL REGLAMENTO DEL SISTEMA PENITENCIARIO EN EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas entrarán en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
