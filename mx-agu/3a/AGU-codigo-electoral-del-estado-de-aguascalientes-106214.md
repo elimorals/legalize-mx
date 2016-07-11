@@ -4,7 +4,7 @@ identifier: "AGU-codigo-electoral-del-estado-de-aguascalientes-106214"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-03-02"
-last_updated: "2015-03-02"
+last_updated: "2016-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2016.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de marzo de 2015.
 
@@ -3209,6 +3209,10 @@ Las multas deberán ser pagadas en la Dirección Administrativa del Instituto; s
 
 En el caso de los partidos políticos, el monto de las mismas se restará de sus ministraciones de gasto ordinario conforme a lo que se determine en la resolución.
 
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2016)</small>
+
+Los recursos obtenidos por la aplicación de sanciones económicas derivadas de infracciones cometidas por los sujetos del régimen sancionador electoral considerados en este Capítulo, serán destinados al Instituto para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes.
+
 ### CAPÍTULO I. De las Responsabilidades Administrativas
 
 ###### ARTÍCULO 252.
@@ -5211,6 +5215,14 @@ II. En el Ejercicio Fiscal correspondiente al año 2016, la primera porción que
 
 III. En el primer semestre del Ejercicio Fiscal correspondiente al año 2017, la primera porción que se distribuirá de forma igualitaria será del 37.5%, mientras que la segunda porción que se entregará a los partidos políticos de manera proporcional, de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados locales inmediata anterior, será del 62.5%. A partir del segundo semestre del Ejercicio Fiscal del año 2017, se aplicará la distribución establecida en el artículo 33 de este Código.
 
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2016)</small>
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+La jornada electoral ordinaria del año 2018 se celebrará el primer domingo de julio, en términos de lo dispuesto por el Artículo Segundo Transitorio, Fracción II, inciso a) del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos en materia política-electoral, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014; así como por el Artículo Décimo Primero Transitorio de la Ley General de Instituciones y Procedimientos Electorales, publicada en el Diario Oficial de la Federación el 23 de mayo de 2014; en relación con el Artículo Tercero Transitorio del Decreto Número 69 por el que se reformó la Constitución Política del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado el 28 de julio de 2014.
+
+Para tal efecto, se faculta al Consejo General del Instituto Estatal Electoral de Aguascalientes, para ajustar los plazos establecidos en el Código Electoral del Estado de Aguascalientes para la celebración del Proceso Electoral Ordinario 2017-2018.
+
 Al Ejecutivo para su promulgación y publicación.
 
 Dado en el Salón de Sesiones “Soberana Convención Revolucionaria de Aguascalientes”, del Palacio Legislativo, a los quince días del mes de febrero del año dos mil quince.
@@ -5236,3 +5248,21 @@ Dip. Oswaldo Rodríguez García,
 SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 26 de febrero de 2015.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 354: SE ADICIONA UN ARTÍCULO DÉCIMO PRIMERO AL DECRETO NÚMERO 152, QUE CONTIENE EL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 355.- SE ADICIONA EL ARTÍCULO 251 DEL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
