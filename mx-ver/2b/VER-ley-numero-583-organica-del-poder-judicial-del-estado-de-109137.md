@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-583-organica-del-poder-judicial-del-estado-de-109137
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-04"
-last_updated: "2016-07-01"
+last_updated: "2016-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109137&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 583 ORGANICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 PUBLICADO EL PRIMERO DE JULIO DE DOS MIL DIECISÉIS, EN EL PERIÓDICO OFICIAL DEL ESTADO DE VERACRUZ, POR EL QUE SE REFORMARON, ADICIONARON Y DEROGARON DIVERSOS PRECEPTOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 LEY NÚMERO 583 ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE JULIO DE 2016.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el martes 4 de agosto de 2015.
 
@@ -239,9 +237,11 @@ La retribución que corresponda a los servidores públicos del Poder Judicial se
 
 #### Sección Primera. Integración y funcionamiento
 
+> <small>(REFORMADO, G.O. 12 DE JULIO DE 2016)</small>
+
 ###### Artículo 11.
 
-El Tribunal Superior de Justicia se integrará con treinta magistrados, y funcionará en Pleno y en salas. Quedan comprendidos dentro de éstos, los magistrados visitadores, así como el magistrado que represente a este tribunal ante el Consejo de la Judicatura.
+El Tribunal Superior de Justicia se integrará con treinta y tres magistrados, y funcionará en Pleno y en salas. Quedan comprendidos dentro de éstos, el Magistrado Presidente, los magistrados visitadores y aquellos que integran las Salas en materia Civil, Penal, de Responsabilidad Juvenil, Constitucional y la Sala en Materia de Familia, en términos del artículo 24 de esta Ley.
 
 ###### Artículo 12.
 
@@ -493,9 +493,11 @@ El Titular de la Unidad de Género será designado por el Presidente del Tribuna
 
 #### Sección Cuarta. De las Salas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE JULIO DE 2016)</small>
+
 ###### Artículo 24.
 
-El Tribunal Superior de Justicia contará con las siguientes salas colegiadas: una Sala Constitucional, cuatro Salas Penales y tres Salas Civiles, integrada cada una de ellas por tres magistrados, de entre los que se elegirá a su presidente, el cual fungirá por un año, con la posibilidad de ser reelegido de forma inmediata por una sola ocasión.
+El Tribunal Superior de Justicia contará con las siguientes salas colegiadas: una Sala Constitucional, cuatro Salas Penales, tres Salas Civiles, y una Sala en Materia de Familia, integrada cada una de ellas por tres magistrados, de entre los que se elegirá a su presidente, el cual fungirá por un año, con la posibilidad de ser reelegido de forma inmediata por una sola ocasión.
 
 El Tribunal contará también con una Sala de Responsabilidad Juvenil, integrada con un solo magistrado.
 
@@ -611,7 +613,9 @@ V. Los demás que establezcan la Constitución y las leyes del Estado.
 
 Las salas civiles serán competentes para conocer y resolver de los asuntos siguientes:
 
-I. De los recursos de apelación que se interpongan en contra de las resoluciones dictadas por los jueces de primera instancia en materia civil, familiar y mercantil en jurisdicción concurrente;
+> <small>(REFORMADA, G.O. 12 DE JULIO DE 2016)</small>
+
+I. De los recursos de apelación que se interpongan en contra de las resoluciones dictadas por los jueces de primera instancia en materia civil y mercantil en jurisdicción concurrente;
 
 II. Del recurso de queja y del juicio de responsabilidad civil, de acuerdo con lo que disponga la ley;
 
@@ -622,6 +626,22 @@ IV. De la calificación de las excusas y recusaciones de los jueces de primera i
 V. De los recursos en materia de extinción de dominio, en términos de la ley respectiva; y
 
 VI. Los demás que establezcan la Constitución y las leyes del Estado.
+
+> <small>(ADICIONADO, G.O. 12 DE JULIO DE 2016)</small>
+
+###### Artículo 31 Bis.
+
+La Sala en Materia de Familia tendrá su sede oficial en el municipio de Xalapa-Enríquez, Veracruz de Ignacio de la Llave, y será competente para conocer y resolver de los asuntos siguientes:
+
+I. De los recursos de apelación y queja que les correspondan y que se interpongan en contra de las resoluciones dictadas en materia familiar;
+
+II. De las excusas y recusaciones de los jueces en materia de familia;
+
+III. De las competencias que se susciten en materia familiar entre los juzgados del mismo orden y de los demás que determinen las leyes; y
+
+IV. Los demás que establezcan la Constitución y las Leyes del Estado.
+
+Para el desempeño de los asuntos encomendados, la Sala en Materia de Familia contará, cuando menos, con un Secretario de Acuerdos, nueve Secretarios de Estudio y Cuenta, un Actuario y la planta de servidores públicos de la administración de justicia que fije el presupuesto de egresos.
 
 ###### Artículo 32.
 
@@ -1439,35 +1459,19 @@ Tendrán las mismas atribuciones que los secretarios de acuerdos de juzgados de 
 
 ###### Artículo 86.
 
-En cada congregación habrá un juez de comunidad. El desempeño de esta función será honorífico.
+(DEROGADO, G.O. 12 DE JULIO DE 2016)
 
 ###### Artículo 87.
 
-Para ser juez de comunidad se requiere:
-
-I. Ser mexicano por nacimiento y vecino de la comunidad;
-
-II. Contar con veintiún años de edad al día de la designación;
-
-III. Saber leer y escribir; y
-
-IV. Gozar de buena reputación.
+(DEROGADO, G.O. 12 DE JULIO DE 2016)
 
 ###### Artículo 88.
 
-Los jueces de comunidad tendrán las atribuciones siguientes:
-
-I. Practicar las diligencias que les encomienden los jueces de primera instancia, menores y municipales;
-
-II. Conocer, en casos urgentes y flagrantes, de los delitos que se cometan en su comunidad, a efecto de preservar las pruebas y asegurar a los responsables, a quienes pondrán inmediatamente a disposición del fiscal del distrito judicial o del municipio;
-
-III. Intervenir en conflictos que se susciten entre vecinos de la comunidad, procurando avenirlos u orientarlos para que acudan ante la autoridad competente; y
-
-IV. Las demás que establezcan las leyes del Estado.
+(DEROGADO, G.O. 12 DE JULIO DE 2016)
 
 ###### Artículo 89.
 
-Los jueces de comunidad actuarán con un secretario, que podrá ser accidental, o con dos testigos de asistencia.
+(DEROGADO, G.O. 12 DE JULIO DE 2016)
 
 ### CAPÍTULO V. DISPOSICIONES COMUNES A LOS ÓRGANOS JURISDICCIONALES
 
@@ -2950,3 +2954,29 @@ Sexto. Se concede al Pleno del Tribunal de lo Contencioso Administrativo del Est
 Séptimo. Son atribuciones del Pleno del Tribunal Superior de Justicia, adscribir a los Magistrados de la Sala Especializada en Materia Anticorrupción, quienes mantendrán su adscripción al menos durante los primeros cinco años del ejercicio de su encargo sin perjuicio de que puedan permanecer en dichas adscripciones durante todo su encargo.
 
 Octavo. Una vez designados los Magistrados de la sala especializada en materia anticorrupción deberán proponer al Consejo de la Judicatura, por conducto del Presidente del Tribunal de lo Contencioso Administrativo, el nombramiento del Secretario de Acuerdos, de los Secretarios de Estudio y Cuenta, Actuarios y demás personal administrativo de la sala especializada; quienes a su vez deberán ser nombrados y entrar en funciones dentro de los 30 días siguientes
+
+G.O. 12 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 894 POR EL QUE SE DEROGAN LOS ARTÍCULOS 86, 87, 88 Y 89 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial Órgano del Gobierno del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que contravenga el presente Decreto.
+
+G.O. 12 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 895 QUE REFORMA LOS ARTÍCULOS 11, 24 Y 31 Y ADICIONA UN ARTICULO 31 BIS, A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se instruye al Ejecutivo del Estado, a través de la Secretaría de Finanzas y Planeación, a hacer inmediatamente los ajustes presupuestales correspondientes, y dotar al Poder Judicial del Estado, de los recursos necesarios para dar debido cumplimiento al presente Decreto.
+
+TERCERO. Se deroga cualquier disposición que contravenga al presente Decreto.
+
+CUARTO. Todos los procedimientos en segunda instancia en materia familiar, que se encuentren en trámite en las salas del Tribunal Superior de Justicia con anterioridad a este Decreto, se seguirán tramitando ante las mismas instancias hasta su conclusión.
+
+QUINTO. El Ejecutivo del Estado propondrá al Honorable Congreso del Estado la terna correspondiente para que de conformidad con el artículo 33 fracción XIX de la Constitución Política del Estado sean aprobados, cumpliéndose de esta manera con los treinta y tres magistrados integrantes del Tribunal Superior de Justicia.
+
+En caso de que la terna no sea aprobada, el Titular del Poder Ejecutivo del Estado enviará tantas ternas como sean necesarias.
+
+SEXTO. Se concede al Pleno del Tribunal Superior de Justicia del Estado un término de hasta treinta días naturales a partir de la entrada en vigor del presente Decreto para adecuar su normatividad interna al contenido del mismo.
