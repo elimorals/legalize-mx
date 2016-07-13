@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-aseo-urbano-del-municipio-de-cuernavaca-62121"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-23"
-last_updated: "2014-08-06"
+last_updated: "2016-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "MOR"
 
 REGLAMENTO DE ASEO URBANO DEL MUNICIPIO DE CUERNAVACA, MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2016.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 23 de julio de 2008.
 
@@ -116,7 +116,11 @@ XVI.- Residuo peligroso: Todo aquel residuo en cualquier estado físico, que por
 
 XVII.- Secretaría: la Secretaría de Infraestructura Urbana, Obras y Servicios Públicos;
 
-XVIII.- Servicio especial de recolección: Es la acción de recolectar residuos sólidos provenientes de grandes generadores, cuyo peso exceda de diez toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2016)</small>
+
+XVIII.- Servicio especial de recolección: es la acción que se encuentra a cargo del municipio, de recolectar residuos sólidos provenientes de grandes generadores, cuyo peso sea igual o superior a 27.39 kilogramos diarios, multiplicados por 365 días del año, o su equivalente en otra unidad de medida.
+
+Queda prohibido a personas físicas y morales, consideradas como grandes generadores de residuos sólidos, celebrar contrato con particulares, para la prestación de este servicio, que no tengan autorización del Ayuntamiento, debiendo para tal efecto, requerir a dichos particulares acrediten tener la autorización por parte del Ayuntamiento.
 
 XIX.- Servicio de recolección domiciliaria: Es la acción de recolectar residuos sólidos provenientes de casa habitación y en su caso de establecimientos comerciales en general, siempre y cuando no se consideren como grandes generadores;
 
@@ -306,9 +310,11 @@ II.- Bolsas debidamente cerradas, no retornables, y
 
 III.- En los casos anteriores los residuos de que se trate deberán ser previamente clasificados en orgánicos e inorgánicos.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2016)</small>
+
 ###### Artículo 19.
 
-Los recipientes conteniendo residuos sólidos municipales cuyo peso exceda de 27.39 kilogramos que provengan de establecimientos industriales, comerciales, de servicios, talleres, restaurantes, establos, oficinas, sitios de espectáculos o cualquier otro giro lucrativo, se deben transportar por cuenta del generador al centro de transferencia o al sitio de disposición final que disponga el Ayuntamiento, debiendo cubrir el pago que para tal concepto establece la Ley de Ingresos Municipal. En su caso, se puede hacer uso del servicio especial de recolección de residuos a domicilio por contrato, mediante el pago de derechos establecido en el ordenamiento legal invocado y demás disposiciones legales aplicables.
+Los recipientes conteniendo residuos sólidos municipales cuyo peso exceda de 27.39 kilogramos diarios, que provengan de establecimientos industriales, comerciales, de servicios, talleres, restaurantes, establos, oficinas, sitios de espectáculos o cualquier otro giro lucrativo, se deben recolectar y transportar por el propio Ayuntamiento, o por la persona física o moral a la que el municipio autorice por contrato o concesión la prestación del servicio, al centro de transferencia o al sitio de disposición final que establezca el propio Ayuntamiento, debiendo cubrir el generador, el pago que para tal concepto establece la Ley de Ingresos Municipal.
 
 ###### Artículo 20.
 
@@ -816,7 +822,7 @@ C).- Que la infracción no sea considerada grave;
 
 D).- Por cada hora de trabajo a favor de la comunidad, se permuten cuatro horas de arresto;
 
-F).- La ejecución del trabajo a favor de la comunidad será coordinada por el Juez Cívico y supervisada por la Secretaría, debiendo informar a su término al Juez Cívico;
+F) (SIC).- La ejecución del trabajo a favor de la comunidad será coordinada por el Juez Cívico y supervisada por la Secretaría, debiendo informar a su término al Juez Cívico;
 
 G).- Que el trabajo se realice sin restricción de horario, siempre y cuando la jornada no exceda la legal, y
 
@@ -999,3 +1005,13 @@ P.O. 6 DE AGOSTO DE 2014.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”; órgano de difusión oficial que edita el Gobierno del Estado de Morelos.
 
 SEGUNDO.- Publíquese el presente Acuerdo en la Gaceta Municipal.
+
+P.O. 13 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO SO/AC-92/16-VI-2016 POR EL QUE SE MODIFICAN LOS ARTÍCULOS 4, FRACCIÓN XVIII Y 19, DEL REGLAMENTO DE ASEO URBANO DEL MUNICIPIO DE CUERNAVACA; ASÍ COMO EL 131, FRACCIÓN XX, DEL BANDO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE CUERNAVACA, MORELOS”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su aprobación por el Cabildo.
+
+SEGUNDO.- Publíquese en el Periódico Oficial “Tierra y Libertad” Órgano de difusión del Gobierno del estado de Morelos y en la Gaceta Municipal.
+
+TERCERO.- Se instruye a las Secretarías del Ayuntamiento; de Asuntos Jurídicos y de Infraestructura Urbana, Obras y Servicios Públicos, para que realicen los trámites y procedimientos que resulten necesarios para el cumplimiento del presente Acuerdo.
