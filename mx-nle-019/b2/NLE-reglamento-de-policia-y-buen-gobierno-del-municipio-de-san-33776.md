@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-san-3377
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-25"
-last_updated: "2016-03-04"
+last_updated: "2016-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 25 de agosto de 2003.
 
@@ -71,41 +71,45 @@ III. Secretario de Finanzas y Tesorero Municipal;
 
 IV. Secretario de Seguridad Pública Municipal;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2016)</small>
 
-V. Director de Jueces Calificadores;
-
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
-
-VI. Director de Policía;
+V. Director General de Policía y Tránsito;
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-VII. Director de Tránsito;
+VI. Director de Jueces Calificadores;
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-VIII. Director del Centro de Control, Comando y Comunicaciones;
+VII. Director de Policía;
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-IX. Director de Prevención del Delito;
+VIII. Director de Tránsito;
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-X. Juez Calificador en turno;
+IX. Director del Centro de Control, Comando y Comunicaciones;
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-XI. Elementos de la Policía Municipal debidamente autorizados;
+X. Director de Prevención del Delito;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+XI. Juez Calificador en turno;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+XII. Elementos de la Policía Municipal debidamente autorizados;
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2016)</small>
 
-XII. Alcaide, Comisario y/o responsable del área de celdas municipales; y
+XIII. Alcaide, Comisario y/o responsable del área de celdas municipales; y
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2016)</small>
 
-XIII. Todos aquellos Servidores Públicos a quienes se les otorgue facultades para la aplicación del presente Reglamento.
+XIV. Todos aquellos Servidores Públicos a quienes se les otorgue facultades para la aplicación del presente Reglamento.
 
 ###### ARTÍCULO 7.
 
@@ -986,3 +990,11 @@ P.O. 4 DE MARZO DE 2016.
 [N. DE. E. ARTÍCULO TRANSITORIO DEL “ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 25 DE FEBRERO DE 2016, SE APRUEBA LA INICIATIVA DE REFORMA DE DIVERSOS REGLAMENTOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
 
 ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 13 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE “SE APRUEBAN LAS REFORMAS DE LOS 5 ORDENAMIENTOS MUNICIPALES A FIN DE INSTITUIR LA FIGURA DEL DIRECTOR GENERAL DE POLICÍA Y TRÁNSITO DE LA SECRETARÍA DE SEGURIDAD PÚBLICA MUNICIPAL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado y para su mayor difusión deberá publicarse en la Gaceta Municipal.
