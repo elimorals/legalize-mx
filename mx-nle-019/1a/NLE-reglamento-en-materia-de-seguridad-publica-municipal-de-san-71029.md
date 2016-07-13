@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-en-materia-de-seguridad-publica-municipal-de-san-710
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-30"
-last_updated: "2016-03-04"
+last_updated: "2016-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71029&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO EN MATERIA DE SEGURIDAD PÚBLICA MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de octubre de 2009.
 
@@ -39,7 +39,7 @@ PRESENTE.-
 
 A los integrantes de la Comisión de Gobierno y Reglamentación de este Republicano Ayuntamiento de San Pedro de los Garza, García, Nuevo León, nos fue turnada por el Licenciado Fernando Berlanga, Presidente Municipal del Municipio para su estudio y dictamen la INICIATIVA DE REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA, GARCÍA, NUEVO LEÓN, el cual presentamos consignando en el apartado de "RESULTANDOS", los hechos relacionados con su proceso de creación y en el de "CONSIDERANDOS" las argumentaciones de carácter jurídico aplicables, por lo que con fundamento en lo dispuesto por el artículo 58 y 72 del Reglamento para el Gobierno Interior del Republicano Ayuntamiento ésta Comisión emite el siguiente dictamen:
 
-RESULTANDOS.
+RESULTANDOS...
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2016)</small>
 
@@ -165,29 +165,33 @@ I. El C. Presidente Municipal;
 
 II. El Secretario de Seguridad Pública Municipal;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2016)</small>
 
-III. El Director de Policía;
-
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
-
-IV. El Director de Tránsito;
+III. El Director General de Policía y Tránsito;
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-V. El Director del Centro de Control, Comando y Comunicaciones;
+IV. El Director de Policía;
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-VI. El Director de Prevención del Delito;
+V. El Director de Tránsito;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+VI. El Director del Centro de Control, Comando y Comunicaciones;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+VII. El Director de Prevención del Delito;
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2016)</small>
 
-VII. El Coordinador de las Áreas de información; y
+VIII. El Coordinador de las Áreas de información; y
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2016)</small>
 
-VIII. La Comisión de Honor y Justicia.
+IX. La Comisión de Honor y Justicia.
 
 # LIBRO SEGUNDO. DE LA REGULACION DEL FUNCIONAMIENTO DE LA POLICIA PREVENTIVA MUNICIPAL
 
@@ -257,31 +261,35 @@ b) Promover una cultura de legalidad, de la denuncia ciudadana y de la prevenci�
 
 ### CAPITULO I. ESTRUCTURA JERARQUICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 11.
 
-Los Cuerpos de Seguridad Pública Municipal, tendrán la siguiente estructura jerárquica:
+Los Cuerpos de Seguridad Municipal, tendrán la siguiente estructura jerárquica:
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
 I. El Secretario de Seguridad Pública Municipal;
 
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2016)</small>
+
+II. El Director General de Policía y Tránsito;
+
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-II. El Director de Policía;
+III. El Director de Policía;
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-III. El Director de Tránsito;
+IV. El Director de Tránsito;
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2016)</small>
 
-IV. El Director del Centro de Control, Comando y Comunicaciones; y
+V. El Director del Centro de Control, Comando y Comunicaciones; y
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2016)</small>
 
-V. El Director de Prevención del Delito.
+VI. El Director de Prevención del Delito.
 
 ### CAPITULO II. ESTRUCTURA OPERATIVA
 
@@ -979,23 +987,31 @@ VIII. Los integrantes podrán ser cambiados de adscripción, con base en las nec
 
 Las jerarquías que integran la carrera policial serán las siguientes:
 
-I. Comisario;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2016)</small>
 
-II. Inspector;
+I. Comisario General;
 
-III. Subinspector;
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2016)</small>
 
-IV. Oficial;
+II. Comisario Jefe;
 
-V. Suboficial;
+III. Inspector;
 
-VI. Policía Primero;
+IV. Subinspector;
 
-VII. Policía Segundo;
+V. Oficial;
 
-VIII. Policía Tercero; y
+VI. Suboficial;
 
-IX. Policía Raso.
+VII. Policía Primero;
+
+VIII. Policía Segundo;
+
+IX. Policía Tercero; y
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2016)</small>
+
+X. Policía.
 
 ### CAPITULO II. DE LA PERMANENCIA EN EL SERVICIO
 
@@ -1503,25 +1519,29 @@ II. El Secretario del R. Ayuntamiento;
 
 III. El Secretario de Seguridad Pública Municipal;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2016)</small>
 
-IV. El Director de Policía;
-
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
-
-V. El Director de Tránsito;
+IV. El Director General de Policía y Tránsito;
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-VI. El Director del Centro de Control, Comando y Comunicaciones
+V. El Director de Policía;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+VI. El Director de Tránsito;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+VII. El Director del Centro de Control, Comando y Comunicaciones;
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2016)</small>
 
-VII. El Director de Prevención del Delito; y
+VIII. El Director de Prevención del Delito; y
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2016)</small>
 
-VIII. El Coordinador de Programas de Atención Social y Prevención.
+IX. El Coordinador de Programas de Atención Social y Prevención.
 
 ###### ARTÍCULO 113.
 
@@ -1778,3 +1798,11 @@ P.O. 4 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 25 DE FEBRERO DE 2016, SE APRUEBA LA INICIATIVA DE REFORMA DE DIVERSOS REGLAMENTOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
 
 ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 13 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE “SE APRUEBAN LAS REFORMAS DE LOS 5 ORDENAMIENTOS MUNICIPALES A FIN DE INSTITUIR LA FIGURA DEL DIRECTOR GENERAL DE POLICÍA Y TRÁNSITO DE LA SECRETARÍA DE SEGURIDAD PÚBLICA MUNICIPAL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado y para su mayor difusión deberá publicarse en la Gaceta Municipal.
