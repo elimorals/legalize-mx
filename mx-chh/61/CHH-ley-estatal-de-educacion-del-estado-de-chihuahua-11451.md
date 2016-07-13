@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2016-02-13"
+last_updated: "2016-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2016.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -183,7 +183,9 @@ V. Difundir el conocimiento y la práctica de la democracia como la forma de gob
 
 VI. Fomentar e implementar en los planteles educativos la Cultura de la Legalidad, promoviendo el valor de la justicia, de la observancia de la Ley y de la igualdad de los individuos ante ésta, así como propiciar el conocimiento de los derechos humanos y el respeto a los mismos;
 
-VII. Fomentar actitudes que estimulen la investigación y la innovación científica y tecnológica;
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2016)</small>
+
+VII. Fomentar actitudes que estimulen la investigación y la innovación científica y tecnológica, así como su comprensión, aplicación y uso responsable;
 
 VIII. Promover la apreciación y expresión artística, y difundir los bienes y valores de la cultura universal, en especial aquellos que constituyen el patrimonio cultural de la Entidad y de la Nación;
 
@@ -355,9 +357,9 @@ s. Programas federales y estatales; y
 
 t. Ludotecas;
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2016)</small>
 
-u. Centros de Prevención de Deserción Escolar, y
+u. Centros para la Prevención del Ausentismo y la Deserción Escolar.
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2013)</small>
 
@@ -539,9 +541,9 @@ XLIII. Coadyuvar en la actualización y vigilar la aplicación del Sistema de Co
 
 XLIV. Informar a los padres de familia o tutores de los educandos que presenten problemas de conducta, para que, en su caso, sean canalizados a través de la estructura educativa, a las instancias de apoyo psicológico, para que se determinen alternativas de solución, o bien, si deben ser remitidos ante el DIF Estatal, con el fin de que reciban el tratamiento necesario.
 
-> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2016)</small>
 
-XLV. Crear y sostener un sistema estatal de prevención de deserción escolar para estudiantes del Estado.
+XLV. Crear y sostener un sistema estatal de prevención, detección temprana, atención y erradicación del ausentismo y la deserción escolar para estudiantes del Estado.
 
 > <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
 
@@ -574,6 +576,10 @@ LII. Instrumentar un sistema accesible a los ciudadanos y docentes para la prese
 > <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2015)</small>
 
 LIII. Vigilar que en las instituciones de educación básica y media superior, públicas y privadas, no se condicione el acceso o permanencia del alumnado a la adquisición de útiles escolares, uniformes y demás enseres u objetos vinculados al proceso de enseñanza aprendizaje, en establecimientos específicos, de cierta marca o determinada calidad.
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2016)</small>
+
+LIV. Fomentar el uso responsable y seguro de las tecnologías de la información y la comunicación en el sistema educativo estatal, para apoyar el aprendizaje de los estudiantes, ampliar sus competencias para la vida y favorecer su inserción en la sociedad del conocimiento, con base en los lineamientos generales que emita la Autoridad Educativa Federal.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -967,7 +973,9 @@ El personal docente y de apoyo y asistencia a la educación que labore en los di
 
 En todas las instituciones del tipo básico, deberán integrarse los organismos que a continuación se mencionan y funcionarán de acuerdo a la normatividad correspondiente:
 
-I. El consejo técnico-escolar, es un órgano colegiado y consultivo de la dirección del plantel. Es responsabilidad de este consejo realizar sistemática y permanentemente funciones de evaluación y seguimiento del proceso enseñanza-aprendizaje;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2016)</small>
+
+I. El consejo técnico-escolar, es un órgano colegiado y consultivo de la dirección del plantel. Es responsabilidad de este consejo realizar sistemática y permanentemente funciones de evaluación y seguimiento del proceso enseñanza-aprendizaje, así como proponer estrategias y acciones para la detección temprana, prevención y atención del ausentismo y deserción escolar;
 
 II. En las secundarias funcionarán además las academias por asignaturas;
 
@@ -2225,6 +2233,10 @@ I. Promover y apoyar actividades extraescolares de carácter cívico, cultural, 
 
 II. Coadyuvar a nivel estatal en actividades de seguridad escolar, protección civil y emergencia escolar;
 
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2016)</small>
+
+II Bis. Proponer estrategias y acciones para la detección temprana, prevención y atención del ausentismo y deserción escolar.
+
 > <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 III. Opinar en asuntos pedagógicos y conocer las demandas y necesidades que emanen de la participación social en la educación a través de los consejos escolares y municipales, conformando los requerimientos a nivel estatal para gestionar su apoyo y resolución ante las instancias competentes;
@@ -2427,9 +2439,9 @@ IV. Proyectos estratégicos; y
 
 V. Líneas de acción; e
 
-> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2016)</small>
 
-VI. Instrumentos para prevenir la deserción escolar.
+VI. Instrumentos para prevenir, detectar, atender y erradicar el ausentismo y la deserción escolar.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE MARZO DE 2014)</small>
 
@@ -2487,7 +2499,9 @@ Dichas medidas estarán dirigidas, de manera preferente, a los grupos y regiones
 
 ARTÍCULO 153 BIS.- Para alcanzar la equidad en la educación, las Autoridades Educativas Estatal y Municipal, en el ámbito de sus respectivas competencias y con la participación que en términos de la Ley General de Educación corresponda a la Autoridad Educativa Federal, atendiendo además, en lo conducente, a las obligaciones previstas en dicha Ley, llevarán a cabo las acciones siguientes:
 
-I. Atenderán de manera especial las escuelas en que, por estar en localidades aisladas, zonas urbanas marginadas o comunidades indígenas, sea considerablemente mayor la posibilidad de atrasos o deserciones, mediante la asignación de elementos de mejor calidad, para enfrentar los problemas educativos de dichas localidades.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2016)</small>
+
+I. Atenderán de manera especial las escuelas en que, por estar en localidades aisladas, zonas urbanas marginadas o comunidades indígenas, sea considerablemente mayor la posibilidad de atrasos, ausentismo o deserciones, mediante la asignación de elementos de mejor calidad, para enfrentar los problemas educativos de dichas localidades.
 
 II. Desarrollarán programas de apoyo a los maestros que presten sus servicios en localidades aisladas y zonas urbanas marginadas, a fin de fomentar el arraigo en sus comunidades y cumplir con el calendario escolar.
 
@@ -4062,6 +4076,22 @@ La actual Asociación Estatal de Padres de Familia contará con un plazo de 180 
 P.O. 13 DE FEBRERO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 1242/2015 I P.O. MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 168 DE LA LEY ESTATAL DE EDUCACIÓN Y SE ADICIONA UN PÁRRAFO SEGUNDO A LA MISMA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 1395/2016 XIV P.E., MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 13, EN SUS FRACCIONES III, INCISO U) Y XLV; 29 FRACCIÓN I; 150 FRACCIÓN VI, Y 153 BIS, FRACCIÓN I; SE ADICIONA LA FRACCIÓN II BIS AL ARTÍCULO 136, TODOS DE LA LEY ESTATAL DE EDUCACIÓN".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 1396/2016 XIV P.E., MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 8 Y SE ADICIONA UNA FRACCIÓN LIV AL ARTÍCULO 13, AMBOS DE LA LEY ESTATAL DE EDUCACIÓN".]
 
 ###### ARTÍCULO ÚNICO.
 
