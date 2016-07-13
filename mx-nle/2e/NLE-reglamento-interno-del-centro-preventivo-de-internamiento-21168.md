@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interno-del-centro-preventivo-de-internamiento-21168
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-16"
-last_updated: "2016-03-04"
+last_updated: "2016-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERNO DEL CENTRO PREVENTIVO DE INTERNAMIENTO DISTRITAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de marzo de 2001.
 
@@ -105,11 +105,11 @@ El Centro es la Institución donde se interna a las personas que se encuentran c
 
 El Centro podrá recibir a las personas que remitan en calidad de internos, por haber cometido faltas al Reglamento de Policía y Buen Gobierno de San Pedro Garza García, Nuevo León; o en su defecto que se encuentren bajo la presunción de la comisión de un hecho delictuoso dentro del cuarto Distrito Judicial en el Estado.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2016)</small>
 
 ###### Artículo 5.
 
-El Centro estará bajo la Dirección Administrativa de un Comandante de Policía con facultades de supervisor; tendrá como jefes superiores el Director de Policía y el Secretario de Seguridad Pública Municipal.
+El Centro estará bajo la Dirección Administrativa de un Comandante de Policía con facultades de supervisor; tendrá como jefes superiores el Director de Policía, el Director General de Policía y Tránsito y el Secretario de Seguridad Pública Municipal.
 
 ### CAPITULO II. COMPETENCIA, RESPONSABILIDADES Y FUNCIONES
 
@@ -127,15 +127,23 @@ II. El Secretario del R. Ayuntamiento.
 
 III. El Secretario de Seguridad Municipal.
 
-IV. El Director de Jueces Calificadores.
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2016)</small>
 
-V. Los Jueces Calificadores.
+IV. El Director General de Policía y Tránsito.
 
-VI. El Comandante de Barandilla.
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2016)</small>
+
+V. El Director de Policía.
+
+VI. El Director de Jueces Calificadores.
+
+VII. Los Jueces Calificadores.
+
+VIII. El Comandante de Barandilla.
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-VII. Los Oficiales de Policía adscritos a la Barandilla y a las diferentes áreas en el edificio de la Secretaría de Seguridad Pública Municipal.
+IX. Los Oficiales de Policía adscritos a la Barandilla y a las diferentes áreas en el edificio de la Secretaría de Seguridad Pública Municipal.
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
@@ -545,11 +553,11 @@ e) Los detenidos que forman parte de una corporación policial deberán ser inte
 
 f) Se tendrán las consideraciones del caso a las personas de la tercera edad, así como a las personas discapacitados y a los detenidos por delitos culposos.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2016)</small>
 
 ###### Artículo 41.
 
-Por ningún motivo se internará en el Centro a persona alguna que sea remitida por alguna autoridad administrativa o judicial, si no se presenta el oficio o boleta de internamiento, el cual deberá contener los datos de la persona que será internada, así como la firma y sello de la autoridad ordenadora, el cual deberá estar dirigido al titular de la Secretaría de Seguridad Pública Municipal, al Director de Policía o al Comandante de Policía responsable del Centro debiéndose acompañar el dictamen médico correspondiente elaborado en la fecha y hora reciente del internamiento.
+Por ningún motivo se internará en el Centro a persona alguna que sea remitida por alguna autoridad administrativa o judicial, si no se presenta el oficio o boleta de internamiento, el cual deberá contener los datos de la persona que será internada, así como la firma y sello de la autoridad ordenadora, el cual deberá estar dirigido al titular de la Secretaría de Seguridad Pública Municipal, al Director General de Policía y Tránsito, al Director de Policía o al Comandante de Policía responsable del Centro debiéndose acompañar el dictamen médico correspondiente elaborado en la fecha y hora reciente del internamiento.
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
@@ -679,11 +687,11 @@ El personal de barandilla al prestar sus servicios deberá realizarlo con la deb
 
 Como medida de seguridad entre los cambios de turno del personal de barandilla, deberán realizar una revisión en el área de celdas, a fin de contabilizar todos (sic) y cada una de las personas que se encuentren internas y a disposición de las diversas autoridades. De igual forma se realizará una revisión a las instalaciones del área de celdas para verificar los objetos personales del interno que no sean de los prohibidos y verificar los accesos a dichas celdas y lugares de ventilación para evitar en todo momento que algún interno se evada de la justicia.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2016)</small>
 
 ###### Artículo 58.
 
-Cualquier irregularidad que se detecte en el área de celdas deberá ser reportada al Secretario de Seguridad Pública Municipal, al Director de Policía y al Director de Jueces Calificadores mediante un parte informativo sobre los hechos que en forma concreta se describan y se tomarán las medidas de seguridad pertinentes.
+Cualquier irregularidad que se detecte en el área de celdas deberá ser reportada al Secretario de Seguridad Pública Municipal, al Director General de Policía y Tránsito, al Director de Policía y al Director de Jueces Calificadores mediante un parte informativo sobre los hechos que en forma concreta se describan y se tomarán las medidas de seguridad pertinentes.
 
 ### CAPITULO X. DE LOS TRASLADOS Y EL PERSONAL
 
@@ -806,3 +814,11 @@ P.O. 4 DE MARZO DE 2016.
 [N. DE TRANSITORIO DEL “ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 25 DE FEBRERO DE 2016, SE APRUEBA LA INICIATIVA DE REFORMA DE DIVERSOS REGLAMENTOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN".]
 
 ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 13 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE “SE APRUEBAN LAS REFORMAS DE LOS 5 ORDENAMIENTOS MUNICIPALES A FIN DE INSTITUIR LA FIGURA DEL DIRECTOR GENERAL DE POLICÍA Y TRÁNSITO DE LA SECRETARÍA DE SEGURIDAD PÚBLICA MUNICIPAL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado y para su mayor difusión deberá publicarse en la Gaceta Municipal.
