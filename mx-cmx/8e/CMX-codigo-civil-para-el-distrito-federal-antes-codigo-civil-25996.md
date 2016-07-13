@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2015-03-10"
+last_updated: "2016-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 13 DE JULIO DE 2016.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -263,7 +263,9 @@ El domicilio legal de una persona física es el lugar donde la ley le fija su re
 
 Se reputa domicilio legal:
 
-I.- Del menor de edad no emancipado, el de la persona a cuya patria potestad está sujeto;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2016)</small>
+
+I.- Del menor de edad, el de la persona o cuya patria potestad está sujeto;
 
 II.- Del menor de edad que no esté bajo la patria potestad y del mayor incapacitado, el de su tutor;
 
@@ -775,9 +777,9 @@ II.- Que no tienen impedimento legal para casarse, y
 
 III.- Que es su voluntad unirse en matrimonio.
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2016)</small>
 
-Este escrito deberá ser firmado por los solicitantes, y asimismo contener su huella digital.
+Este escrito deberá ser firmado por los solicitantes y deberá contener su huella digital. La voluntad deberá confirmarse y verificarse ante la autoridad del Registro Civil.
 
 > <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
 
@@ -803,33 +805,41 @@ Al escrito al que se refiere el artículo anterior, se acompañará:
 
 I. Copia certificada del acta de nacimiento de los pretendientes;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+II. (DEROGADA, G.O. 13 DE JULIO DE 2016)
 
-II. La constancia de que otorguen su consentimiento las personas a que se refiere el artículo 148 de este Código, para que el matrimonio se celebre.
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2016)</small>
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+III. Constancia de que los pretendientes han otorgado de manera indubitable su consentimiento;
 
-III. Un documento público de identificación de cada pretendiente o algún otro medio que acredite su identidad de conformidad con lo que establezca el Reglamento del Registro Civil.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 13 DE JULIO DE 2016)</small>
 
-IV.- (DEROGADA, G.O. 13 DE ENERO DE 2004)
+IV. Documento público de identificación de cada pretendiente o algún otro medio que acredite su identidad, de conformidad con lo que establezca el Reglamento del Registro Civil;
 
-V.- El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejarse de presentar ese convenio ni aun a pretexto de que los pretendientes carecen de bienes, pues en tal caso, versará sobre los que adquieran durante el matrimonio. Al formarse el convenio se tendrá en cuenta lo que disponen los artículos 189 y 211, y el Oficial del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesiten saber a efecto de que el convenio quede debidamente formulado.
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2016)</small>
 
-Si de acuerdo con lo dispuesto en el artículo 185 fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de esa escritura.
+V. Declaración de ambos pretendientes, bajo protesta de decir verdad, de no haber sido sentenciados por violencia familiar;
 
-VI.- Copia del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente.
+En caso de que alguno de los pretendientes haya sido sentenciado por violencia familiar, es necesario que el otro pretendiente entregue al juez una declaración en la que manifieste conocer de la situación y que a pesar de ello, mantiene su voluntad de contraer matrimonio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2016)</small>
 
-> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 2008)</small>
+VI. El convenio que los pretendientes celebren con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el régimen de separación de bienes;
 
-VII. La manifestación, por escrito y bajo protesta de decir verdad, en el caso de que alguno de los contrayentes haya concluido el proceso para la concordancia sexo-genérica, establecido en el Capítulo IV Bis del Título Séptimo del Código de Procedimientos Civiles para el Distrito Federal, misma que tendrá el carácter de reservada; y
+El convenio deberá presentarse aun cuando lo (sic) pretendientes carezcan de bienes, pues en tal caso, versarán sobre los que adquieran durante el matrimonio. el convenio deberá tomar en cuenta lo que dispone el artículo 189 y 211; el Oficial del Registro Civil explicará a los pretendientes todo lo concerniente al mismo, a efecto de que el convenio quede debidamente formulado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
+Si de conformidad con el artículo 185 fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañara un testimonio de esa escritura.
 
-> <small>(ADICIONADA, G.O. 10 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2016)</small>
 
-VIII. Copia de la dispensa de impedimentos, si los hubo.
+VII. Copia del acta de defunción del cónyuge fallecido, si alguno de los pretendientes es viudo o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente;
+
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2016)</small>
+
+VIII. La manifestación, por escrito y bajo protesta de decir verdad, en el caso de que alguno de los pretendientes haya concluido el proceso para la concordancia sexogenérica, establecido en el Capítulo IV Bis, del Título Séptimo del Código de Procedimientos Civiles para el Distrito Federal, misma que tendrá el carácter de reservada; y
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2016)</small>
+
+IX. Copia de la dispensa de impedimentos, si los hubo.
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -837,11 +847,11 @@ VIII. Copia de la dispensa de impedimentos, si los hubo.
 
 En el caso de que los pretendientes, por falta de conocimientos, no puedan redactar el convenio a que se refiere la fracción V del artículo anterior, tendrá obligación de redactarlo el Juez del Registro Civil, con los datos que los mismos pretendientes le suministren.
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 100.
 
-El Juez del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deben prestar su consentimiento, reconozcan ante él y por separado sus firmas.
+El juez del Registro Civil a quien se presente solicitud de matrimonio con los requisitos enumerados en los artículos anteriores, hará que los pretendientes reconozcan ante él y por separado sus firmas y sostengan su voluntad para contraerlo, ponderando la veracidad de que alguno de los contrayentes no haya sido sentenciado por violencia familiar.
 
 > <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
@@ -873,33 +883,33 @@ El acta de matrimonio contendrá la siguiente información:
 
 I. Los nombres, apellidos, edad, ocupación, domicilio, lugar de nacimiento y nacionalidad de los contrayentes;
 
-II. (REFORMADA [N. DE E. DEROGADA], G.O. 29 DE JULIO DE 2010)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 13 DE JULIO DE 2016)</small>
 
-> <small>(REFORMADA, G.O. 29 DE JULIO DE 2010)</small>
+II. Los nombres, apellidos, ocupación, domicilio y nacionalidad de los padres;
 
-III. Los nombres, apellidos, ocupación, domicilio y nacionalidad de los padres;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2016)</small>
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+III. Que no hubo impedimento para el matrimonio o que éste se dispensó;
 
-IV.- En su caso, el consentimiento de quien ejerza la patria potestad, la tutela o las autoridades que deban suplirlo;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2016)</small>
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1979)</small>
+IV. La declaración de los pretendientes de ser su voluntad unirse en matrimonio; y la de haber quedado unidos, que hará el juez en nombre de la Ley y de la sociedad;
 
-V.- Que no hubo impedimento para el matrimonio o que éste se dispensó;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2016)</small>
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1979)</small>
+V. La manifestación de los pretendientes de que contraen matrimonio bajo régimen de sociedad conyugal o de separación de bienes;
 
-VI.- La declaración de los pretendientes de ser su voluntad unirse en matrimonio, y la de haber quedado unidos, que hará el Juez en nombre de la Ley y de la sociedad;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2016)</small>
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1979)</small>
+VI. La declaración de ambos pretendientes de no haber sido sentenciados por violencia familiar y en su caso, la declaración de que uno de los pretendientes tiene conocimiento de esa situación y aun así es su voluntad contraer matrimonio; y
 
-VII.- La manifestación de los cónyuges de que contraen matrimonio bajo el régimen de sociedad conyugal o de separación de bienes;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2016)</small>
+
+VII. Que se cumplieron las formalidades exigidas por el artículo anterior.
 
 VIII.- (DEROGADA, G.O. 13 DE ENERO DE 2004)
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
-
-IX. Que se cumplieron las formalidades exigidas por el artículo anterior.
+IX. (DEROGADA, G.O. 13 DE JULIO DE 2016)
 
 > <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
@@ -915,11 +925,11 @@ En el acta se imprimirán las huellas digitales de los contrayentes.
 
 La celebración conjunta de matrimonios no exime al Juez del cumplimiento estricto de las solemnidades a que se refieren los artículos anteriores.
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 104.
 
-Los pretendientes que declaren maliciosamente un hecho falso, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente. Lo mismo se hará con las personas que falsamente se hicieren pasar por padres o tutores de los pretendientes.
+Los contrayentes que declaren maliciosamente un hecho falso, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente.
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -965,11 +975,11 @@ Los Jueces del Registro Civil sólo podrán negarse a autorizar un matrimonio, c
 
 El Juez del Registro Civil, que sin motivo justificado, retarde la celebración de un matrimonio, será sancionado la primera vez con multa de $1,000.00 y en caso de reincidencia con destitución del cargo.
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 113.
 
-El Juez del Registro Civil que reciba una solicitud de matrimonio, exigirá de los pretendientes, bajo protesta de decir verdad, todas las declaraciones que estime convenientes a fin de asegurarse de su identidad y de su aptitud para contraer matrimonio.
+El juez del Registro Civil que reciba solicitud de matrimonio, exigirá de los pretendientes, bajo protesta de decir verdad, todas las declaraciones que estime convenientes a fin de asegurarse de su identidad, aptitud e inexistencia de antecedentes de violencia familiar, para contraer matrimonio.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE ENERO DE 2004)</small>
 
@@ -1307,15 +1317,11 @@ Matrimonio es la unión libre de dos personas para realizar la comunidad de vida
 
 Serán nulos los pactos que hagan los contrayentes, en contravención a lo señalado en el artículo anterior.
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2016)</small>
 
-###### Artículo 148.
+###### ARTICULO 148.
 
-Para contraer matrimonio es necesario que ambos contrayentes sean mayores de edad.
-
-Los menores de edad podrán contraer matrimonio, siempre que ambos hayan cumplido dieciséis años. Para tal efecto, se requerirá del consentimiento del padre o la madre o en su defecto el tutor; y a falta o por negativa o imposibilidad de éstos, el Juez de lo Familiar suplirá dicho consentimiento, el cual deberá ser otorgado atendiendo a las circunstancias especiales del caso.
-
-En caso de que la contrayente se encuentre en estado de gravidez, y así lo acredite a través del certificado médico respectivo el Juez del Registro Civil, a petición del padre o la madre podrá dispensar el requisito a que se refiere el párrafo anterior, pero en ningún caso podrá ser otorgada dicha dispensa a menores de 14 años.
+Para contraer matrimonio es necesario que ambos contrayentes hayan cumplido 18 años de edad.
 
 ###### ARTICULO 149.
 
@@ -1333,23 +1339,17 @@ En caso de que la contrayente se encuentre en estado de gravidez, y así lo acre
 
 (DEROGADO, G.O. 25 DE MAYO DE 2000)
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
-
 ###### ARTICULO 153.
 
-Quien ejerza la patria potestad, o el tutor que ha prestado su consentimiento firmando la solicitud respectiva y ratificándola ante el Juez del Registro Civil, no puede revocarlo después, a menos que haya causa justa para ello.
-
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+(DEROGADO, G.O. 13 DE JULIO DE 2016)
 
 ###### ARTICULO 154.
 
-Si el que ejerce la patria potestad, o tutor que ha firmado o ratificado la solicitud de matrimonio falleciere antes de que se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto tendría el derecho de otorgarlo, pero siempre que el matrimonio se verifique dentro del término fijado en el artículo 101.
-
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+(DEROGADO, G.O. 13 DE JULIO DE 2016)
 
 ###### ARTICULO 155.
 
-El Juez de lo Familiar que hubiere autorizado a un menor para contraer matrimonio, no podrá revocar el consentimiento, sino por causa superveniente.
+(DEROGADO, G.O. 13 DE JULIO DE 2016)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -1361,9 +1361,7 @@ Son impedimentos para celebrar el matrimonio:
 
 I.- La falta de edad requerida por la Ley;
 
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
-
-II.- La falta de consentimiento del que, o los que ejerzan la patria potestad, el tutor o el Juez de lo Familiar en sus respectivos casos;
+II.- (DEROGADA, G.O. 13 DE JULIO DE 2016)
 
 > <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -1371,7 +1369,9 @@ III.- El parentesco de consanguinidad, sin limitación de grado en línea recta 
 
 IV.- El parentesco de afinidad en línea recta, sin limitación alguna;
 
-V.- El adulterio habido entre las personas que pretendan contraer matrimonio, cuando ese adulterio haya sido judicialmente comprobado;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2016)</small>
+
+V.- La violencia familiar cometida por alguno de los pretendientes;
 
 VI.- El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
 
@@ -1511,17 +1511,15 @@ Los cónyuges podrán desempeñar cualquier actividad siempre que sea lícita y 
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1974)
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 172.
 
-Los cónyuges mayores de edad tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite uno de los cónyuges el consentimiento del otro, salvo en lo relativo a los actos de administración y de dominio de los bienes comunes.
-
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+Los cónyuges tiene (sic) capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite uno de los cónyuges el consentimiento del otro, salvo en lo relativo a los actos de administración y de dominio de los bienes comunes.
 
 ###### ARTICULO 173.
 
-Los cónyuges menores de edad tendrán la administración de sus bienes conforme a lo establecido en el artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales, en términos de lo dispuesto por el artículo 643 de este ordenamiento.
+(DEROGADO, G.O. 13 DE JULIO DE 2016)
 
 ###### ARTICULO 174.
 
@@ -1563,7 +1561,7 @@ Las capitulaciones matrimoniales se otorgarán antes de la celebración del matr
 
 ###### ARTICULO 181.
 
-El menor que con arreglo a la ley pueda contraer matrimonio, puede también otorgar capitulaciones, las cuales serán válidas si a su otorgamiento concurren las personas cuyo consentimiento previo es necesario para la celebración del matrimonio.
+(DEROGADO, G.O. 13 DE JULIO DE 2016)
 
 ###### ARTICULO 182.
 
@@ -1635,11 +1633,11 @@ Las capitulaciones matrimoniales en que se constituya la sociedad conyugal, cons
 
 En este caso, la alteración que se haga de las capitulaciones deberá también otorgarse en escritura pública, haciendo la respectiva anotación en el Protocolo en que se otorgaron las primitivas capitulaciones, y en la inscripción del Registro Público de la Propiedad. Sin llenar estos requisitos, las alteraciones no producirán efecto contra tercero.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 187.
 
-La sociedad conyugal puede terminar durante el matrimonio, si así lo convienen los cónyuges; pero si éstos son menores de edad, deben intervenir tanto en la modificación, como en la disolución de la sociedad, prestando su consentimiento, las personas a que se refiere el artículo 148.
+La sociedad conyugal puede terminar durante el matrimonio, si así lo convienen los cónyuges.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
@@ -1805,11 +1803,11 @@ Puede haber separación de bienes en virtud de capitulaciones anteriores al matr
 
 La separación de bienes puede ser absoluta o parcial. En el segundo caso, los bienes que no estén comprendidos en las capitulaciones de separación, serán objeto de la sociedad conyugal que deben constituir los esposos.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 209.
 
-Durante el matrimonio, la separación de bienes puede terminar o ser modificada, si así lo convienen los cónyuges. En todo caso, tratándose de menores de edad, deben intervenir, prestando su consentimiento, las personas a que se refiere el artículo 148.
+Durante el matrimonio, la separación de bienes puede terminar o ser modificada, si así lo convienen los cónyuges.
 
 ###### ARTICULO 210.
 
@@ -1965,35 +1963,21 @@ III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 9
 
 La acción de nulidad que nace del error, sólo puede deducirse por el cónyuge engañado; pero si éste no denuncia el error dentro de los treinta días siguientes a que lo advierte, se tiene por ratificado el consentimiento y queda subsistente el matrimonio, a no ser que exista algún otro impedimento que lo anule.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2009)</small>
-
 ###### ARTICULO 237.
 
-El matrimonio de una persona menor de edad, dejará de ser causa de nulidad cuando la persona menor hubiere llegado a los dieciocho años, y ni ésta ni su cónyuge hubieren intentado la nulidad.
-
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+(DEROGADO, G.O. 13 DE JULIO DE 2016)
 
 ###### ARTICULO 238.
 
-La nulidad por falta de consentimiento de los que ejercen la patria potestad, sólo podrá alegarse por aquel o aquellos a quienes tocaba prestar dicho consentimiento, y dentro de treinta días contados desde que tengan conocimiento del matrimonio.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MAYO DE 2000)</small>
+(DEROGADO, G.O. 13 DE JULIO DE 2016)
 
 ###### ARTICULO 239.
 
-Cesa la causa de nulidad a que se refiere el artículo anterior:
-
-I.- Si han pasado los treinta días sin que se haya pedido;
-
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
-
-II.- Si dentro de este término, los que ejercen la patria potestad han consentido expresamente en el matrimonio, o tácitamente, haciendo donación a los hijos en consideración al matrimonio, recibiendo a los consortes a vivir en su casa, presentando a la descendencia como de los cónyuges en el Registro Civil, o practicando otros actos que, a juicio del Juez de lo Familiar, sean tan conducentes al efecto, como los expresados.
+(DEROGADO, G.O. 13 DE JULIO DE 2016)
 
 ###### ARTICULO 240.
 
-La nulidad por falta de consentimiento del tutor o del juez, podrá pedirse dentro del término de treinta días por cualquiera de los cónyuges, o por el tutor; pero dicha causa de nulidad cesará si antes de presentarse demanda en forma sobre ella se obtiene la ratificación del tutor o la autorización judicial, confirmando el matrimonio.
+(DEROGADO, G.O. 13 DE JULIO DE 2016)
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -2007,9 +1991,7 @@ La acción que nace de esta clase de nulidad y la que dimana del parentesco de a
 
 ###### ARTICULO 243.
 
-La acción de nulidad que nace de la causa prevista en la fracción V del artículo 156, podrá deducirse por el cónyuge ofendido o por el Ministerio Público, en el caso de disolución del matrimonio anterior por causa de divorcio; y sólo por el Ministerio Público, si este matrimonio se ha disuelto por muerte del cónyuge ofendido.
-
-En uno y en otro caso, la acción debe intentarse dentro de los seis meses siguientes a la celebración del matrimonio de los adúlteros.
+(DEROGADO, G.O. 13 DE JULIO DE 2016)
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -2197,11 +2179,11 @@ Los jueces de lo familiar están obligados a suplir la deficiencia de las partes
 
 Las limitaciones formales de la prueba que rigen en la materia civil, no deben aplicarse en los casos de divorcio respecto del o los convenios propuestos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 272.
 
-Procede el divorcio administrativo cuando habiendo transcurrido un año o más de la celebración del matrimonio, ambos cónyuges convengan en divorciarse, sean mayores de edad, hayan liquidado la sociedad conyugal de bienes, si están casados bajo ese régimen patrimonial, la cónyuge no esté embarazada, no tengan hijos en común o teniéndolos sean mayores de edad, y éstos no requieran alimentos o alguno de los cónyuges. El Juez del Registro Civil, previa identificación de los cónyuges, y ratificando en el mismo acto la solicitud de divorcio, levantará un acta en que los declarará divorciados y hará la anotación correspondiente en la del matrimonio anterior.
+Procede el divorcio administrativo cuando habiendo transcurrido un año o más de la celebración del matrimonio, ambos cónyuges convengan en divorciarse, hayan liquidado la sociedad conyugal de bienes, si están casados bajo ese régimen patrimonial, la cónyuge no esté embarazada, no tengan hijos en común o teniéndolos sean mayores de edad, y éstos no requieran alimentos o alguno de los cónyuges. El juez del Registro Civil, previa identificación de los cónyuges, y ratificando en el mismo acto la solicitud de divorcio, levantará un acta en que los declarará divorciados y hará la anotación correspondiente en la del matrimonio anterior.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -3759,9 +3741,9 @@ Al efecto, el precio de la venta se depositará en una institución de crédito,
 
 El derecho de usufructo concedido a las personas que ejercen la patria potestad, se extingue:
 
-> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 1970)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2016)</small>
 
-I.- Por la emancipación derivada del matrimonio o la mayor edad de los hijos;
+I.- Por la mayor edad de los hijos;
 
 II.- Por la pérdida de la patria potestad;
 
@@ -14752,3 +14734,9 @@ DÉCIMO SEGUNDO. El Comité de Supervisión, Vigilancia y Seguimiento emitirá e
 DÉCIMO TERCERO. Una vez publicados los reglamentos y lineamientos, previstos en la presente Ley, quedará abrogada la Ley de Albergues Públicos y privados para Niñas y Niños del Distrito Federal.
 
 DÉCIMO CUARTO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+G.O. 13 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
