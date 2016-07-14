@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-escolar-para-el-estado-de-tamaulipas-60669"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-27"
-last_updated: "2008-03-27"
+last_updated: "2016-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60669&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD ESCOLAR PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 27 de marzo de 2008.
 
@@ -51,13 +51,23 @@ La presente ley tiene por objeto:
 
 l. Establecer las normas conforme a las cuales se llevarán a cabo las acciones en materia de seguridad escolar;
 
-II. Procurar la creación de vínculos permanentes entre los diversos elementos que interactúan en el ámbito de la comunidad escolar y la propia sociedad, así como establecer las bases para el funcionamiento de los organismos encargados de diseñar y aplicar las políticas que surjan sobre la base de dicha comunicación; y
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
 
-III. Regular las acciones, proyectos y programas en la materia de corto, mediano y largo plazo, que permitan su seguimiento y evaluación constante, así como una eventual rectificación; en todo caso, se dará prioridad a su implementación en las zonas de alta incidencia de inseguridad pública.
+II. Procurar la creación de vínculos permanentes entre los diversos elementos que interactúan en el ámbito de la comunidad escolar y la propia sociedad, así como establecer las bases para el funcionamiento de los organismos encargados de diseñar y aplicar las políticas que surjan sobre la base de dicha comunicación;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
+
+III. Regular las acciones, proyectos y programas en la materia de corto, mediano y largo plazo, que permitan su seguimiento y evaluación constante, así como una eventual rectificación; en todo caso, se dará prioridad a su implementación en las zonas de alta incidencia de inseguridad pública; y
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2016)</small>
+
+IV. Impulsar acciones para generar un clima de seguridad en la comunidad escolar y su entorno, para fortalecer de manera integral una cultura de la prevención.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 3.
 
-La prevención y adopción de medidas y acciones en materia de seguridad escolar son responsabilidad de las autoridades educativas, las que propiciarán acuerdos y acciones con la autoridad estatal de seguridad pública y con los Ayuntamientos, en el ámbito de competencia. Igualmente, establecerán vínculos con los sectores público, privado, social y la población en general, para el estricto cumplimiento de lo previsto en esta ley.
+La prevención y adopción de medidas y acciones en materia de seguridad escolar son responsabilidad del Gobierno del Estado y los ayuntamientos, de acuerdo a su ámbito de competencia, con la participación de los sectores público, privado, social y en general de sus habitantes, en los términos de esta ley y de los reglamentos que de ella se deriven.
 
 ###### ARTICULO 4.
 
@@ -87,9 +97,21 @@ I.- La Ley de Seguridad Pública para el Estado;
 
 II.- La Ley de Educación para el Estado;
 
-III.- Ley de los Derechos de las Niñas y Niños en el Estado; y
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
 
-IV.- La Ley General de Educación.
+III.- La Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Tamaulipas;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
+
+IV.- La Ley General de Educación;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2016)</small>
+
+V.- La Ley de Protección Civil para el Estado de Tamaulipas; y
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2016)</small>
+
+VI.- La Ley de Salud para el Estado de Tamaulipas.
 
 ### CAPITULO II. DE LAS AUTORIDADES EN MATERIA DE SEGURIDAD ESCOLAR
 
@@ -105,9 +127,25 @@ III. El Secretario de Educación;
 
 IV. El Procurador General de Justicia del Estado;
 
-V. Los Ayuntamientos; y
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
 
-VI. Los órganos de gobierno de los organismos públicos descentralizados, cuya coordinación administrativa sectorial corresponda a la Secretaría de Educación.
+V. Los Ayuntamientos;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
+
+VI. El Secretario de Salud;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2016)</small>
+
+VII. El Director General de Protección Civil;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2016)</small>
+
+VIII. Las Unidades Municipales de Protección Civil; y
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2016)</small>
+
+IX. Los órganos de gobierno de los organismos públicos descentralizados, cuya coordinación administrativa sectorial corresponda a la Secretaría de Educación.
 
 ###### ARTICULO 8.
 
@@ -147,9 +185,15 @@ III. Concentrar el registro de las brigadas en la Entidad;
 
 IV. Formular y desarrollar programas y realizar las acciones que le competan en materia de seguridad escolar, coordinándose, en su caso, con las demás dependencias de la administración estatal, según sus respectivas esferas de competencia, con los municipios de la Entidad y con la sociedad en general;
 
-V. Aplicar, en la esfera de su competencia, esta ley, sus reglamentos, así como vigilar su observancia; y
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
 
-VI. Las demás atribuciones que esta ley y otras disposiciones legales le encomienden.
+V. Aplicar, en la esfera de su competencia, esta ley, sus reglamentos, así como vigilar su observancia;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2016)</small>
+
+VI. Proponer que en la toma de decisiones, en materia de esta ley, las autoridades o instancias respectivas consideren las necesidades específicas para cada una de las regiones del Estado que comprenden los 43 municipios; y
+
+VII. Las demás atribuciones que esta ley y otras disposiciones legales le encomienden.
 
 ###### ARTICULO 11.
 
@@ -175,9 +219,19 @@ II. Establecer y promover las líneas de colaboración de la comunidad en genera
 
 III. Propiciar la organización de eventos en los que se destaque y estimule la participación y activismo de los miembros de la comunidad en favor de la seguridad escolar;
 
-IV. Coordinarse permanentemente con la comunidad escolar para aplicar los programas existentes relativos a la prevención de problemas de conducta o inseguridad, exaltando la importancia y función de las disposiciones jurídicas y de los cuerpos de seguridad pública; y
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
 
-V. Las demás que deriven de esta ley y de otras disposiciones aplicables.
+IV. Coordinarse permanentemente con la comunidad escolar para aplicar los programas existentes relativos a la prevención de problemas de conducta o inseguridad, exaltando la importancia y función de las disposiciones jurídicas y de los cuerpos de seguridad pública;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
+
+V. Proveer, conforme a la disponibilidad presupuestal aprobada, de infraestructura vial y de señalización en las calles aledañas a los espacios educativos para garantizar la seguridad en el entorno del plantel educativo correspondiente;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2016)</small>
+
+VI. Instruir a la Unidad Municipal de Protección Civil y de Bomberos, para que participen en las acciones que se implementen para la seguridad escolar en los planteles educativos; y
+
+VII. Las demás que deriven de esta ley y de otras disposiciones aplicables.
 
 ###### ARTICULO 13.
 
@@ -193,13 +247,17 @@ IV.- Las demás atribuciones que esta ley y otras disposiciones legales encomien
 
 ### CAPITULO III. DE LOS AUXILIARES EN MATERIA DE SEGURIDAD ESCOLAR
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2016)</small>
+
 ###### ARTICULO 14.
 
-Son auxiliares en materia de seguridad escolar:
+Son auxiliares en materia de Seguridad Escolar en los planteles:
 
-I.- Los directivos de los planteles educativos; y
+I.- Los directivos de los planteles educativos;
 
-II.- Las Brigadas de Seguridad Escolar.
+II.- Las Brigadas de Seguridad Escolar, y
+
+III.- Los Consejos escolares de participación social en las escuelas.
 
 ###### ARTICULO 15.
 
@@ -237,11 +295,13 @@ VIII.- Las demás acciones que conforme a esta ley y otras disposiciones aplicab
 
 Las brigadas son instancias de apoyo para la aplicación de la presente ley, cuyo coordinador será el enlace con las autoridades.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2016)</small>
+
 ###### ARTICULO 17.
 
-En cada plantel escolar oficial de educación pública del Estado, se integrará una Brigada.
+En cada escuela de educación pública dependiente de la Secretaría de Educación de Tamaulipas, se integrará una brigada.
 
-En el caso de los centros educativos que dependan del Gobierno Federal, se podrán suscribir convenios de colaboración para la ejecución de la presente ley.
+Las escuelas particulares de educación básica, media superior y superior que cuenten con autorización y reconocimiento de validez oficial de estudios otorgados por la Secretaría, respectivamente, se sujetarán a las disposiciones que en la materia emita dicha autoridad.
 
 ###### ARTICULO 18.
 
@@ -303,9 +363,17 @@ I.- La participación de los vecinos en la consolidación de los programas y act
 
 II.- La colaboración en la vigilancia vecinal tendiente a proteger el patrimonio y entorno escolares;
 
-III.- La participación de la autoridad municipal, en las actividades de seguridad escolar; y
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
 
-IV.- Las demás que, siendo compatibles con esta ley, sean necesarias para el cumplimiento de sus objetivos.
+III.- La participación de la autoridad municipal, en las actividades de seguridad escolar;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
+
+IV.- La difusión de acciones en materia de protección civil al interior de los planteles; y
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2016)</small>
+
+V.- Las demás que, siendo compatibles con esta ley y sus reglamentos, sean necesarios u oportunos para el cumplimiento de sus objetivos.
 
 ### CAPITULO IV. DE LA SEGURIDAD ESCOLAR
 
@@ -349,6 +417,60 @@ III.- Forma y tiempo en que deberán ser regresadas (sic) a sus propietarios los
 
 IV.- Causas y motivos de infracciones, así como sus sanciones.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JULIO DE 2016)</small>
+
+### CAPITULO VI. DEL PROGRAMA DE SEGURIDAD ESCOLAR
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2016)</small>
+
+###### ARTICULO 30.
+
+El Programa de Seguridad Escolar deberá establecer la impartición del mismo durante los cuatro primeros meses del año escolar, de cursos de capacitación de seguridad en las escuelas dirigidos a todo el personal docente, administrativo y de apoyo que labore en el plantel respectivo.
+
+Los cursos de capacitación a que se refiere el párrafo anterior, deberán contemplar las acciones de emergencia que tendrán que llevar a cabo los integrantes de un determinado plantel escolar, así como indicar las áreas más seguras a las que deberán acudir cuando en calles aledañas, en el perímetro escolar o en el mismo interior del plantel, se presenten acontecimientos extraordinarios, producto de la naturaleza o generados por el hombre, que amenacen con poner en riesgo la seguridad de la comunidad escolar.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2016)</small>
+
+###### ARTICULO 31.
+
+Los cursos de capacitación del Programa de Seguridad Escolar que se impartan en las escuelas, dentro de los acontecimientos extraordinarios descritos en el segundo párrafo del artículo anterior, deberán contemplar, al menos, los siguientes eventos;
+
+I.- Protocolo en caso de disturbios;
+
+II.- Protocolo para llamadas de extorsión;
+
+III.- Despliegues policiacos,
+
+IV.- Protocolo en caso de personas armadas;
+
+V.- Protocolo en caso de detonaciones de armas de fuego, objeto explosivo o extraño en el plantel;
+
+VI.- Contingencia por fuga de gas o algún tipo de químico;
+
+VII.- Contingencia meteorológicas;
+
+VIII.- Manual de recomendaciones para padres, directores, maestros y alumnos en caso de situaciones de emergencia; y
+
+IX.- Guía de teléfonos de emergencia.
+
+Es obligación del personal docente, administrativo y de apoyo, asistir a los cursos de capacitación del Programa de Seguridad Escolar que se impartan en el plantel donde presten sus servicios.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JULIO DE 2016)</small>
+
+### CAPITULO VII. DE LA OBSERVANCIA DE ESTA LEY
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2016)</small>
+
+###### ARTICULO 32.
+
+Las infracciones a la presente ley serán sancionadas de acuerdo a la legislación aplicable, por la autoridad que corresponda en cada caso.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2016)</small>
+
+###### ARTICULO 33.
+
+La omisión en la aplicación de la normatividad a que se refiere el artículo anterior, se considerará una falta grave, que se sancionará de acuerdo a la Ley de Responsabilidad de Servidores Públicos.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -368,3 +490,25 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los diez días del mes de enero del año dos mil ocho.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTlNEZ TORRES.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL " DECRETO NO. LXII-978, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD ESCOLAR PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo del Estado expedirá el reglamento de esta ley, que deberá publicarse en el Periódico Oficial del Estado.
+
+###### ARTICULO TERCERO.
+
+El Secretario de Educación cuenta con un plazo de ciento ochenta días naturales, a partir de la publicación del presente decreto, para expedir la reglamentación y el programa de seguridad escolar correspondiente que deberá poner a consideración del ejecutivo.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado, a través de las dependencias a su cargo y las que se señalan en el artículo 7 de la Ley presente ley, cuenta con un plazo de trescientos sesenta y cinco días naturales, contados a partir de la publicación del presente decreto, para acreditar a la totalidad del personal docente, administrativo y de apoyo, que labora en las instituciones educativas, donde aplique la presente ley.
