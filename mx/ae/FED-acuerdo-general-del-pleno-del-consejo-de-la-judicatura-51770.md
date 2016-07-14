@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2015-11-26"
+last_updated: "2016-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2016.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -627,7 +627,9 @@ I. Ser de nacionalidad mexicana;
 
 II. Encontrarse en pleno ejercicio de sus derechos;
 
-III. Tener título de licenciado en derecho expedido legalmente;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA LOS ARTÍCULOS 50 Y 51 DEL ACUERDO GENERAL DEL PROPIO PLENO, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, EN MATERIA DE NOMBRAMIENTOS, D.O.F. 14 DE JULIO DE 2016)</small>
+
+III. Tener título y cédula profesional de licenciado en derecho, expedidos por autoridad competente;
 
 IV. Haber aprobado el examen de aptitud o de categoría superior;
 
@@ -647,7 +649,9 @@ I. Ser de nacionalidad mexicana;
 
 II. Encontrarse en pleno ejercicio de sus derechos;
 
-III. Tener título de licenciado en derecho expedido legalmente;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA LOS ARTÍCULOS 50 Y 51 DEL ACUERDO GENERAL DEL PROPIO PLENO, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, EN MATERIA DE NOMBRAMIENTOS, D.O.F. 14 DE JULIO DE 2016)</small>
+
+III. Tener título y cédula profesional de licenciado en derecho, expedidos por autoridad competente;
 
 IV. Tener experiencia profesional mínima de tres años;
 
@@ -2002,3 +2006,15 @@ SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su
 TERCERO. Los nombramientos, cualquiera que sea su naturaleza, otorgados con anterioridad a la entrada en vigor del presente Acuerdo, que se encuentren en las nuevas hipótesis de los artículos 72 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales; y 18 bis del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo; continuarán sus efectos con todas sus consecuencias jurídicas hasta su conclusión.
 
 En todo caso, los titulares de los órganos jurisdiccionales, así como de las áreas administrativas, deberán dar aviso a la Dirección General de Recursos Humanos de la existencia de los nombramientos a que se refiere el párrafo anterior.
+
+D.O.F. 14 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA LOS ARTÍCULOS 50 Y 51 DEL ACUERDO GENERAL DEL PROPIO PLENO, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, EN MATERIA DE NOMBRAMIENTOS".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Los servidores públicos que ocupen los cargos previstos en los preceptos que se reforman, cuyo nombramiento se hubiese otorgado acreditando únicamente contar con título de licenciado en derecho sin haber presentado su cédula profesional, deberán exhibir esta última ante la Dirección General de Recursos Humanos dentro de los 6 meses siguientes a la entrada en vigor del presente Acuerdo, o de lo contrario se iniciarán los procedimientos correspondientes.
+
+La Dirección General de Recursos Humanos deberá hacer del conocimiento la instrucción a que se refiere el párrafo anterior a los servidores públicos que cuenten con los nombramientos a que se refieren los artículos 51 y 52 del citado Acuerdo General.
