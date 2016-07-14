@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-desarrollo-social-para-el-estado-de-tamaulipas-41923"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-24"
-last_updated: "2014-04-03"
+last_updated: "2016-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 24 de noviembre de 2004.
 
@@ -65,11 +65,11 @@ La elaboración del Programa Estatal y de los Programas Municipales de Desarroll
 
 Los programas que en esta materia se formulen son parte del Sistema Estatal de Planeación del Desarrollo Social y deben orientarse al cumplimiento del objeto de esta ley.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 12.
 
-El Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social, Cultura y Deporte, coordinará la correspondencia entre el Programa Estatal, el Nacional y los Municipales de Desarrollo Social.
+El Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social, coordinará la correspondencia entre el Programa Estatal, el Nacional y los Municipales de Desarrollo Social.
 
 ###### ARTICULO 13.
 
@@ -215,7 +215,7 @@ III.- Cumplir con la normatividad de los programas.
 
 Con el propósito de asegurar la igualdad y la eficacia de los programas sociales, el Ejecutivo del Estado y los Ayuntamientos de los Municipios, en el ámbito de sus competencias, integrarán el Padrón Único de Beneficiarios de los Programas Sociales.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2016)</small>
 
 ### Capítulo Unico
 
@@ -257,7 +257,7 @@ X.- Fomentar el cuidado del medio ambiente, el aprovechamiento de los recursos n
 
 ###### ARTICULO 32.
 
-La Secretaría de Desarrollo Social, Cultura y Deporte será responsable de la integración y actualización de los datos relativos al Padrón Unico de Beneficiarios de los Programas Sociales del Gobierno del Estado y podrá convenir con los gobiernos municipales la integración de los beneficiarios de sus programas sociales al padrón estatal.
+La Secretaría de Desarrollo Social será responsable de la integración y actualización de los datos relativos al Padrón Único de Beneficiarios de los Programas Sociales del Gobierno del Estado y podrá convenir con los gobiernos municipales la integración de los beneficiarios de sus programas sociales al padrón estatal.
 
 ###### ARTICULO 33.
 
@@ -365,15 +365,15 @@ El Ejecutivo del Estado brindará financiamiento a personas en situación de des
 
 ## Título IX. Del Sistema Estatal de Planeación del Desarrollo Social
 
-###### ARTICULO 51.
+###### ARTÍCULO 51.
 
-Se instituye el Sistema Estatal de Planeación del Desarrollo Social, con la coordinación y concertación del Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social, Cultura y Deporte, y la concurrencia y colaboración de las dependencias y entidades estatales relacionadas con la materia, los Municipios, los sectores social y privado, y la sociedad civil, de conformidad con la Ley Estatal de Planeación y en concordancia con el Sistema Nacional de Desarrollo Social.
+Se instituye el Sistema Estatal de Planeación del Desarrollo Social, con la coordinación y concertación del Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social, y la concurrencia y colaboración de las dependencias y entidades estatales relacionadas con la materia, los Municipios, los sectores social y privado, y la sociedad civil, de conformidad con la Ley Estatal de Planeación y en concordancia con el Sistema Nacional de Desarrollo Social.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2016)</small>
 
-###### ARTICULO 52.
+###### ARTÍCULO 52.
 
-La Secretaría de Desarrollo Social, Cultura y Deporte, en el marco del Sistema Estatal de Planeación del Desarrollo Social, coordinará los programas sociales, obras, acciones, apoyos e inversiones para el cumplimiento de los principios rectores, vertientes y objetivos de la Política Estatal de Desarrollo Social.
+La Secretaría de Desarrollo Social, en el marco del Sistema Estatal de Planeación del Desarrollo Social, coordinará los programas sociales, obras, acciones, apoyos e inversiones para el cumplimiento de los principios rectores, vertientes y objetivos de la Política Estatal de Desarrollo Social.
 
 ###### ARTICULO 53.
 
@@ -391,9 +391,9 @@ IV.- Fomentar la participación de la sociedad civil, y en general, de los secto
 
 Corresponden al Ejecutivo del Estado, en el ámbito de su competencia, las atribuciones siguientes:
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
 
-I.- Formular y ejecutar el Programa Estatal de Desarrollo Social, a través de la Secretaría de Desarrollo Social, Cultura y Deporte;
+I.- Formular y ejecutar el Programa Estatal de Desarrollo Social, a través de la Secretaría de Desarrollo Social;
 
 II.- Convenir acciones y programas sociales con el Ejecutivo Federal;
 
@@ -431,11 +431,11 @@ IX.- Informar a la sociedad sobre las acciones en torno al desarrollo social; y
 
 X.- Las demás señaladas en la presente ley y otras disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2016)</small>
 
-###### ARTICULO 56.
+###### ARTÍCULO 56.
 
-Corresponden a la Secretaría de Desarrollo Social, Cultura y Deporte las siguientes atribuciones:
+Corresponden a la Secretaría de Desarrollo Social las siguientes atribuciones:
 
 I.- Proyectar y coordinar la Planeación Estatal del Desarrollo Social;
 
@@ -493,35 +493,75 @@ En los casos en que el cumplimiento de los programas sociales previstos en los C
 
 ###### ARTICULO 60.
 
-La evaluación tiene por objeto la permanente revisión de resultados en el mejoramiento del nivel de vida de las personas en situación de marginación y pobreza, y la actualización del proceso de desarrollo social, así como revisar periódicamente el cumplimiento de los objetivos de los programas sociales, sus metas y acciones.
+La evaluación de la Política de Desarrollo Social estará a Cargo de la Comisión Estatal de Evaluación de la Política de Desarrollo Social, que podrá realizarla por sí mismo o a través de uno o varios organismos independientes del ejecutor del programa, y tiene por objeto, revisar periódicamente el cumplimiento del objetivo social de los programas, metas y arciones de la Política de Desarrollo Social, para corregirlos, modificarlos, adicionarlos, reorientados o suspenderlos total o parcialmente.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 61.
 
-Las evaluaciones deberán ser objetivas, imparciales y oportunas.
+Los organismos evaluadores independientes que podrán participar serán instituciones de educación superior, de investigación científica u organizaciones no lucrativas. Cuando las evaluaciones se lleven a cabo por un organismo distinto de la Comisión, éste emitirá la convocatoria correspondiente y designará al adjudicado.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2016)</small>
+
+ARTICULO 61 BIS.- Para la evaluación de resultados, los programas sociales de manera invariable deberán incluir los indicadores de resultados, gestión y servicios para medir su cobertura, calidad e impacto. Las dependencias del Ejecutivo Estatal, o municipales, ejecutoras de los programas a evaluar, proporcionarán toda la información y las facilidades necesarias para la realización de la evaluación.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2016)</small>
+
+ARTICULO 61 TER.- Los indicadores de resultados que se establezcan deberán reflejar el cumplimiento de los objetivos sociales de los programas, metas y acciones de la Política Estatal de Desarrollo Social.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2016)</small>
+
+ARTICULO 61 QUATER.- Los indicadores de gestión y servicios que se establezcan deberán reflejar los procedimientos y la calidad de los servicios de los programas, metas y acciones de la Política Estatal de Desarrollo Social.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2016)</small>
+
+ARTICULO 61 QUINQUIES.- La evaluación será anual, definiendo como periodo del primero de mayo al treinta de abril y podrá también ser multianual en los casos que así se determine.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2016)</small>
+
+ARTICULO 61 SEXIES.- De acuerdo con los resultados de las evaluaciones, la Comisión Estatal de Evaluación de la Política de Desarrollo Social podrá emitir las sugerencias y recomendaciones que considere pertinentes al Ejecutivo Estatal y hacerlas del conocimiento público.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2016)</small>
+
+ARTICULO 61 SEPTIES.- Los resultados de las evaluaciones serán publicados en el Periódico Oficial del Estado y deberán ser entregados a la Comisión de Desarrollo Social del Congreso del Estado de Tamaulipas.
 
 ###### ARTICULO 62.
 
 Se crea la Comisión Estatal de Evaluación de la Política de Desarrollo Social, como un instrumento de coordinación para la evaluación de las políticas y programas de desarrollo social que ejecuten las dependencias públicas.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2016)</small>
 
-###### ARTICULO 63.
+###### ARTÍCULO 63.
 
-La Comisión Estatal de Evaluación de la Política de Desarrollo Social será presidida por el Secretario de Desarrollo Social, Cultura y Deporte y estará integrada por los titulares de las Secretarías de Educación, de Salud, de Desarrollo Económico y del Empleo y de Obras Públicas, Desarrollo Urbano y Ecología, los presidentes municipales, organismos del sector social y privado y académicos relacionados con la materia.
+La Comisión Estatal de Evaluación de la Política de Desarrollo Social será presidida por el Secretario de Desarrollo Social, y estará integrada por el titular de la Secretaría General de Gobierno, de la Secretaría de Finanzas, de la Secretaría de Desarrollo Económico y Turismo, de la Secretaría del Trabajo y Asuntos Jurídicos, de la Secretaría de Educación, de la Secretaría de Desarrollo Rural, de la Secretaría de Salud, de la Secretaría de Desarrollo Urbano y Medio Ambiente y de la Procuraduría General de Justicia, el Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, los presidentes municipales, organismos del sector social y privado y académicos relacionados con la materia.
 
 ###### ARTICULO 64.
 
 La Comisión Estatal de Evaluación de la Política de Desarrollo Social tendrá las funciones siguientes:
 
-I.- Coordinar la evaluación de las políticas y programas sociales que ejecuten las dependencias públicas;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
+
+I.- La evaluación de las políticas y programas sociales que ejecuten las dependencias públicas, se podrá realizar directamente por la Comisión o por medio de organismos independientes con capacidad técnica y conocimiento amplio de la materia de desarrollo social.
+
+Los organismos evaluadores independientes deberán ser instituciones de educación superior, de investigación científica u organizaciones sin fines de lucro.
+
+Cuando la evaluación se lleva a cabo por un organismo distinto de la Comisión Estatal de Evaluación de la Política de Desarrollo Social, ésta emitirá la convocatoria correspondiente y designará al ganador de la misma.
+
+Las evaluaciones deberán incluir los indicadores establecidos en términos del artículo 56 fracción X de esta ley.
+
+Los indicadores de resultado que se establezcan deberán reflejar el cumplimiento de los objetivos sociales de los programas, metas y acciones de la Política Estatal de Desarrollo Social, en concordancia con la Política Nacional de Desarrollo Social.
+
+Los indicadores de gestión y servicios que se establezcan deberán reflejar los procedimientos y la calidad de los servicios de los programas, metas y acciones de la Política Estatal de Desarrollo Social;
 
 II.- Revisar la concordancia entre los programas sociales y los principios y objetivos de la Política Estatal de Desarrollo Social;
 
-III.- Emitir recomendaciones sobre el desempeño de los programas sociales;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
+
+III.- Emitir recomendaciones sobre el desempeño de los programas sociales, así como proponer, en su caso, corregirlos, modificarlos, adicionarlos, reorientarlos o suspenderlos total o parcialmente;
 
 IV.- Emitir opiniones sobre la Política Estatal de Desarrollo Social;
 
-V.- Emitir recomendaciones sobre el desempeño de los programas sociales; y
+V.- (DEROGADA, P.O. 14 DE JULIO DE 2016)
 
 VI.- Promover el establecimiento de convenios de colaboración con instituciones públicas, sociales y privadas para llevar a cabo tareas de evaluación de los programas sociales.
 
@@ -531,11 +571,11 @@ VI.- Promover el establecimiento de convenios de colaboración con instituciones
 
 Conforme a la legislación correspondiente, aquellos servidores públicos que en ejercicio de sus funciones contravengan u ordenen contravenir los principios y preceptos establecidos en la presente ley, se harán acreedores a las medidas disciplinarias administrativas, civiles y penales aplicables por la autoridad competente.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
 
-###### ARTICULO 66.
+###### ARTÍCULO 66.
 
-En los términos de la ley, la Secretaría de Desarrollo Social, Cultura y Deporte deberá denunciar ante el órgano de control estatal, las acciones que presumiblemente constituyan irregularidades.
+En los términos de la ley, la Secretaría de Desarrollo Social deberá denunciar ante el órgano de control estatal, las acciones que presumiblemente constituyan irregularidades.
 
 ## Título XII. De la Publicación y Publicidad de los Programas Sociales
 
@@ -571,11 +611,17 @@ VI.- Participación social: Derecho de las personas y organizaciones a interveni
 
 VII.- Sustentabilidad: Preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de los recursos naturales, para mejorar la calidad de vida y la productividad de las personas, sin comprometer la satisfacción de las necesidades de las generaciones futuras;
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
 
-VIII.- Respeto a la diversidad: Reconocimiento en términos de origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, las opiniones, preferencias, estado civil o cualquiera otra, para superar toda condición de discriminación y promover un desarrollo con igualdad y respeto a las diferencias; y
+VIII.- Respeto a la diversidad: Reconocimiento en términos de origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, las opiniones, preferencias, estado civil o cualquiera otra, para superar toda condición de discriminación y promover un desarrollo con igualdad y respeto a las diferencias;
 
-IX.- Transparencia: La información relativa al desarrollo social es pública en los términos de las leyes en la materia.
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
+
+IX.- Transparencia: La información relativa al desarrollo social es pública en los términos de las leyes en la materia; y
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2016)</small>
+
+X.- Perspectiva de género: Metodología que permite identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de mujeres y hombres, que se pretende justificar con base en las diferencias biológicas o culturales entre ambos.
 
 ###### ARTICULO 6°.
 
@@ -671,13 +717,15 @@ La planeación del desarrollo social incluirá los programas estatal y municipal
 
 ### Capítulo I. Del Objeto e Integración
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2016)</small>
 
 ### Capítulo II. De las Competencias y Atribuciones
 
 ### Capítulo III. De los Convenios para el Desarrollo Social entre el Estado y los Municipios
 
 ### Capítulo I. Del Objeto y Características de la Evaluación
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2016)</small>
 
 ### Capítulo II. De la Comisión Estatal de Evaluación de la Política de Desarrollo Social
 
@@ -750,3 +798,11 @@ P.O. 3 DE ABRIL DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXII-979, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 5°. FRACCIONES VIII Y IX, 12, 32, 51, 52, 54 FRACCIÓN I, 56 PÁRRAFO ÚNICO, 60, 61, 63, 64 FRACCIONES I, III Y IV Y 66; Y ADICIONA UNA FRACCIÓN X AL ARTÍCULO 5°. Y LOS ARTÍCULOS 61 BIS, 61 TER, 61 QUATER, 61 QUINQUIES, 61 SEXIES Y 61 SEPTIES; Y DEROGA LA FRACCIÓN V DEL ARTÍCULO 64 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial Estado.
