@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-ingresos-del-estado-de-tamaulipas-para-el-ejercicio-1108
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2015-12-17"
-last_updated: "2015-12-17"
+last_updated: "2016-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110822&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE INGRESOS DEL ESTADO DE TAMAULIPAS PARA EL EJERCICIO FISCAL 2016
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 17 de diciembre de 2015.
 
@@ -45,7 +45,9 @@ LEY DE INGRESOS DEL ESTADO DE TAMAULIPAS PARA EL EJERCICIO FISCAL 2016.
 
 En el ejercicio fiscal de 2016, el Gobierno del Estado de Tamaulipas percibirá los ingresos provenientes de los conceptos y en las cantidades estimadas que a continuación se enumeran:
 
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE DICIEMBRE DE 2015, PÁGINAS DE LA 10 A LA 13.</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE DICIEMBRE DE 2015, PÁGINAS DE LA 10 A LA 13.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. DE 14 DE JULIO DE 2016, PÁGINAS DE LA 10 A LA 13;]</small>
 
 ###### ARTÍCULO 2.
 
@@ -102,3 +104,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los catorce días del mes de diciembre del año dos mil quince.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HERMINIO GARZA PALACIOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXII-967, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 1 DE LA LEY DE INGRESOS DEL ESTADO DE TAMAULIPAS PARA EL EJERCICIO FISCAL 2016”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
