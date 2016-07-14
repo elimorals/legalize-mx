@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transito-del-estado-de-tamaulipas-antes-ley-de-8214"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "2014-11-25"
+last_updated: "2016-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "TAM"
 
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS, SE DEROGA LO REFERENTE A TRANSPORTE PÚBLICO, PUBLICADO EN EL P.O. DEL 12 DE FEBRERO DE 2002]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS, SE DEROGA LO REFERENTE A TRANSPORTE PÚBLICO, PUBLICADO EN EL P.O. DE 12 DE FEBRERO DE 2002.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el lunes 30 de noviembre de 1987.
 
@@ -171,11 +171,11 @@ III.- Por el servicio que prestan.
 
 Las disposiciones reglamentarias estatales o las de los municipios, establecerán lo que corresponda a cada categoría.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2016)</small>
 
-###### ARTICULO 9º.
+###### ARTICULO 9°.
 
-Toda persona residente en el Estado de Tamaulipas, que sea propietario de vehículos automotores a los que esta Ley se refiere, previo a ponerlos en circulación deberá registrarlos en la Secretaría; dicho requisito se comprobará mediante la portación adecuada de las placas, la calcomanía o engomado correspondiente a ésta, copia de la tarjeta de circulación y, en su caso, la acreditación de la revisión mecánica, mismos que deberán llevarse en el vehículo.
+Toda persona residente del Estado de Tamaulipas que sea propietario de vehículos automotores a los que esta Ley se refiere, previo a ponerlos en circulación deberán de registrarlos en la Secretaria; dicho requisito se comprobará mediante la portación adecuada de las placas, la calcomanía o engomado correspondiente a ésta, copia de la tarjeta de circulación, seguro de responsabilidad civil de daños contra terceros y, en su caso la acreditación de la revisión mecánica, mismos que deberán llevarse en el vehículo.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -206,6 +206,12 @@ Cualquier alteración de los documentos del vehículo, será sancionada de acuer
 Es obligación de las autoridades de tránsito poner a disposición de la dependencia correspondiente, todo vehículo automotor del que no se acredite la legítima propiedad; así como también impedirán la circulación de aquéllos vehículos automotores que no cumplan con las previsiones del artículo 9 de la presente ley.
 
 Una vez satisfechos dichos requisitos, se autorizará su circulación, previo pago de las infracciones a que se hiciera merecedor.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2016)</small>
+
+###### ARTICULO 14 Bis.
+
+Todo vehículo automotor que circule por las vías públicas en el Estado y sus municipios, deberá contar y portar en el vehículo, póliza de seguro vigente para responder de los daños a terceros, en su persona o bienes, que con motivo del uso del vehículo automotor pudiera producirse a usuarios, peatones, conductores o terceros, en su persona o patrimonio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
@@ -257,7 +263,9 @@ III. Igualmente, se consultará al interesado si es su intención registrase com
 
 ARTICULO 19 BIS.- Son obligaciones de los conductores:
 
-I. Usar el cinturón de seguridad por todos los ocupantes de los vehículos de motor, a excepción de las motocicletas;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
+
+I. Usar el cinturón de seguridad por todos los ocupantes de los vehículos de motor, a excepción de las motocicletas, y contar con seguro de responsabilidad civil de daños contra terceros;
 
 II. Usar casco y lentes protectores para los ocupantes de motocicletas;
 
@@ -309,7 +317,7 @@ La administración pública estatal proveerá de los establecimientos oficiales 
 
 Se entenderá que un vehículo automotor circula de manera provisional en el territorio estatal, si permanece por seis o más meses en el territorio estatal.
 
-Independientemente de lo anterior, todo vehículo automotor que circule por las vías públicas en el Estado y sus municipios, deberá contar y portar en el vehículo, con póliza de seguro vigente para responder de los daños a terceros, en su persona o bienes, que con motivo del uso de un vehículo automotor pudiera producirse a usuarios, peatones, conductores o terceros, en su persona o patrimonio.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 14 DE JULIO DE 2016)</small>
 
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
@@ -752,3 +760,11 @@ En un plazo no mayor a 60 días a partir de la entrada en vigor del presente Dec
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan el presente Decreto.
+
+P.O. 14 DE JULIO DE 2016.
+
+[TRANSITORIO DEL “DECRETO NO. LXII-981, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 9° Y 19 BIS FRACCIÓN I; SE ADICIONA EL ARTÍCULO 14 BIS; Y SE DEROGA EL PÁRRAFO CUARTO DEL ARTÍCULO 21, DE LA LEY DE TRÁNSITO”.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
