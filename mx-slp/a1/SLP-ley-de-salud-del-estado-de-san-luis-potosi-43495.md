@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2016-04-28"
+last_updated: "2016-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -827,7 +827,7 @@ Los Servicios de Salud en el Estado coadyuvarán con las autoridades educativas 
 
 ### CAPITULO V. Atención Materno-Infantil
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 38.
 
@@ -939,11 +939,13 @@ Para que tal denuncia pueda tener curso legal, bastará el señalamiento de los 
 
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
-###### ARTICULO 51.
+###### ARTÍCULO 51.
 
-La atención médica ginecológica de la madre durante el embarazo, el parto y el puerperio.
+La atención materna infantil tiene carácter prioritario y comprende las siguientes acciones:
 
-I. La atención de la madre durante el embarazo, el parto y el puerperio;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
+
+I. La atención médica ginecológica de la madre durante el embarazo, el parto y el puerperio, incluyendo la atención psicológica que requiera;
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
 
@@ -979,9 +981,9 @@ En la organización y operación de los servicios de salud destinadas a la atenc
 
 I. Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de las personas usuarias;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
 
-II. Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil;
+II. Acciones de orientación, seguimiento y vigilancia institucional, fomento a la lactancia materna, orientación durante el embarazo sobre el manejo y uso de alimentos con alto valor nutricional y bajo contenido calórico, resaltando su importancia durante la etapa gestacional y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno -infantil;
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
 
@@ -4122,6 +4124,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 28 DE ABRIL DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0205.- SE REFORMAN LOS ARTÍCULOS 71 Y 71 QUATER, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0253.- SE REFORMAN LOS ARTÍCULOS 51 EN SU PÁRRAFO PRIMERO Y EN SU FRACCIÓN I, Y 54 EN SU FRACCIÓN II, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
