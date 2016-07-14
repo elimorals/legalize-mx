@@ -4,7 +4,7 @@ identifier: "VER-ley-del-servicio-publico-de-carrera-en-la-administracion-34320"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-10"
-last_updated: "2003-10-10"
+last_updated: "2016-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY DEL SERVICIO PUBLICO DE CARRERA EN LA ADMINISTRACION PUBLICA CENTRALIZADA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY DEL SERVICIO PUBLICO DE CARRERA EN LA ADMINISTRACION PUBLICA CENTRALIZADA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+LEY DEL SERVICIO PÚBLICO DE CARRERA EN LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE JULIO DE 2016.
 
 Ley publicada en la Gaceta Oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave, el viernes 10 de octubre de 2003.
 
@@ -89,21 +89,25 @@ I. Director General;
 
 II. Director de Área;
 
-III. Subdirector de Área;
+III. (DEROGADA, G.O. 14 DE JULIO DE 2016)
 
-IV. Jefe de Departamento;
+IV. (DEROGADA, G.O. 14 DE JULIO DE 2016)
 
-V. Jefe de Oficina; y
+V. (DEROGADA, G.O. 14 DE JULIO DE 2016)
 
-VI. Los homólogos de los puestos a que hacen referencia las anteriores fracciones.
+> <small>(REFORMADA, G.O. 14 DE JULIO DE 2016)</small>
+
+VI. Los homólogos o equivalentes de los puestos a que hacen referencia las fracciones I y II anteriores.
 
 ###### Artículo 5.
 
 Cuando se creen categorías o cargos no comprendidos en el artículo anterior, su clasificación y calidad de puestos de confianza se determinará expresamente por la disposición normativa que formalice su creación.
 
+> <small>(REFORMADO, G.O. 14 DE JULIO DE 2016)</small>
+
 ###### Artículo 6.
 
-Para el caso de las personas que ocupen puestos de confianza en la Secretaría de Seguridad Pública, Secretaría de Salud y Asistencia, Secretaría de Educación y Cultura y en la Procuraduría General de Justicia del Estado, sus respectivos comités dictaminadores determinarán los puestos de confianza que deban pertenecer al Servicio Público de Carrera, en atención a la naturaleza específica de las funciones de cada puesto y a las disposiciones que rigen la organización y funcionamiento de dichas dependencias. Las resoluciones que en esta materia acuerden dichos comités deberán someterse, por conducto de la Secretaría, a la aprobación de la Comisión.
+Para el caso de las personas que ocupen puestos de confianza en la Secretaría de Seguridad Pública, Secretaría de Salud y Secretaría de Educación, sus respectivos comités dictaminadores determinarán los puestos de confianza que deban pertenecer al Servicio Público de Carrera, en atención a la naturaleza específica de las funciones de cada puesto y a las disposiciones que rigen la organización y funcionamiento de dichas dependencias. Las resoluciones que en esta materia acuerden dichos comités deberán someterse, por conducto de la Secretaría, a la aprobación de la Comisión.
 
 ###### Artículo 7.
 
@@ -574,3 +578,15 @@ A t e n t a m e n t e
 Sufragio efectivo. No reelección
 
 Licenciado Miguel Alemán Velazco, Gobernador del Estado.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 14 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 896 QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 364 ESTATAL DEL SERVICIO CIVIL Y DE LA LEY NÚMERO 584 DEL SERVICIO PÚBLICO DE CARRERA EN LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA, AMBOS ORDENAMIENTOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
+
+Tercero. La Secretaría de Finanzas y Planeación, y la Contraloría General, contarán con un plazo de 90 días para realizar las acciones procedentes que cumplan lo dispuesto en el presente Decreto.
