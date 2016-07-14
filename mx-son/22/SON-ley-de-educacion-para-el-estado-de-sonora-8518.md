@@ -4,7 +4,7 @@ identifier: "SON-ley-de-educacion-para-el-estado-de-sonora-8518"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2015-11-26"
+last_updated: "2016-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE NOVIEMBRE DE 2015.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 14 DE JULIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE JULIO DE 2016 (ABROGADA).
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 30 de diciembre de 1994.
 
@@ -2630,3 +2632,23 @@ DECRETO NÚMERO 13 POR EL QUE SE ADICIONA UN ARTÍCULO 7o TER A LA LEY DE EDUCAC
 ###### ARTICULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 14 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 97, DE EDUCACIÓN PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Educación para el Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado, Edición Especial Número 19, de fecha 30 de diciembre de 1994 y sus respectivas reformas.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a la presente ley.
+
+###### ARTÍCULO CUARTO.
+
+Las autoridades educativas y los organismos descentralizados al suscribir los convenios a que se refiere el artículo 61 de la Ley General del Servicio Profesional Docente, dicho precepto, definirán los criterios específicos que en su caso podrán observar un ciclo escolar para quienes se encuentren con nombramiento definitivo de permanencia y dos ciclos escolares para quienes se encuentren en periodo de inducción en la función.
