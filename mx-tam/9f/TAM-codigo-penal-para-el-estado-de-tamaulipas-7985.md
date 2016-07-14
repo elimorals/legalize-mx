@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2016-06-29"
+last_updated: "2016-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 29 DE JUNIO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -3905,6 +3903,10 @@ En caso de que no se acredite el feminicidio, se aplicarán las reglas del homic
 
 Al servidor público que retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia se le impondrá pena de prisión de tres a ocho años y de quinientos a mil quinientos días multa, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos.
 
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2016)</small>
+
+ARTICULO 337 TER.- Al responsable del delito de homicidio de un agente policiaco en servicio, integrante de las instituciones policiales del Estado, se le impondrá de 20 a 50 años de prisión y multa de mil a cinco mil días de salario.
+
 ### CAPITULO X. VIOLENCIA FAMILIAR
 
 > <small>(REFORMADO P.O. 26 DE MAYO DE 2015)</small>
@@ -5926,6 +5928,14 @@ Las disposiciones relativas a los delitos de impudicia y feminicidio vigentes ha
 ###### ARTÍCULO CUARTO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXII-974 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 337 TER AL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO OCTAVO.
 
