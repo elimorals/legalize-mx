@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-urbano-del-estado-de-tamaulipas-52285"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-25"
-last_updated: "2014-04-03"
+last_updated: "2016-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de abril de 2006.
 
@@ -2175,6 +2175,30 @@ III. El retiro de instalaciones accesorias.
 
 3. En el caso de las violaciones cometidas por los servidores públicos, se aplicarán las normas que regulen la responsabilidad de dichos servidores.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2016)</small>
+
+ARTÍCULO 99 BIS.
+
+Constituyen violaciones cometidas por servidores públicos a esta ley, las siguientes:
+
+I. Autorizar o dar curso a documentos, contratos, convenios, acuerdos o cualquier otro acto jurídico que contravengan lo dispuesto en esta ley, reglamentos, programas, decretos o resoluciones administrativas relativas al desarrollo urbano en el Estado;
+
+II. Proporcionar los informes o documentos a que se refiere la fracción anterior, con datos alterados o falsificados;
+
+III. Cooperar con los infractores o facilitarles en cualquier forma la violación a las disposiciones de la presente ley, y demás disposiciones reglamentarias;
+
+IV. Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan, revelar los datos confidenciales o aprovecharse de ellos;
+
+V. Exigir a los particulares, bajo el título de colaboración u otra semejante, cualquier prestación pecuniaria o de otra índole no prevista en esta ley y demás disposiciones relativas; y
+
+VI. Coadyuvar con particulares o constituir en lo individual asentamientos humanos irregulares en predios que no reúnan las condiciones exigidas por la Ley.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2016)</small>
+
+ARTÍCULO 99 TER.
+
+A los servidores públicos que incurran en las violaciones descritas en el artículo anterior, se les sancionará de acuerdo a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas, sin perjuicio de las responsabilidades penal y civil en que hubieren incurrido.
+
 ###### ARTÍCULO 100.
 
 1. Son infracciones a esta ley y a los programas en ella señalados, las siguientes:
@@ -2464,6 +2488,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 El otorgamiento de licencias de uso de suelo de estaciones de servicio denominadas gasolineras, deberá sujetarse a las disposiciones aplicables en materia de protección civil, ambiental, de comunicaciones y demás administrativas pertinentes.
 
 P.O. 3 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXII-969 MEDIANTE EL CUAL SE ADICIONAN LOS ARTÍCULOS 99 BIS Y 99 TER A LA LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
