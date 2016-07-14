@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2016-03-05"
+last_updated: "2016-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE MARZO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2016.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -935,9 +933,15 @@ XIII.- Crear y suprimir empleos públicos del Estado. Al aprobar el presupuesto 
 
 XIV.- Autorizar al Gobernador para contratar empréstitos a nombre del Estado, siempre que sean para la ejecución de obras o inversiones de beneficio social, salvo los que contrate en caso de emergencia por causa de desastre, señalando en todo caso los recursos con que deben cubrirse;
 
-XV.- Facultar al Gobernador para avalar los empréstitos o financiamientos que obtengan los ayuntamientos de los municipios del Estado y sus organismos, siempre que de los estudios practicados al efecto, aparezca demostrada la necesidad y utilidad de la obra o inversión para la cual los haya gestionado la autoridad municipal. Asimismo para avalar los que obtengan otros organismos públicos o sociales, a condición de que sean destinados al beneficio de la comunidad.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-En todo convenio que el Gobierno celebre con cualquier ayuntamiento se estipulará que la recuperación de lo que aquél llegare a pagar como avalista, quedará garantizada con la afectación de las participaciones tributarias que reciba el ayuntamiento, ya sean federales o locales;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
+
+XV.- Autorizar al Gobernador, así como a los ayuntamientos, para contratar empréstitos a nombre del Estado, y el Municipio, siempre que se destinen a inversiones públicas productivas, y a su refinanciamiento o reestructura, mismas que se deberán realizar bajo las mejores condiciones del mercado, inclusive los que contraigan los organismos descentralizados, empresas públicas, y fideicomisos; y en el caso del Estado, adicionalmente para otorgar garantías respecto al endeudamiento de los municipios. Lo anterior con base en la ley correspondiente, por los conceptos, y hasta por los montos que el Congreso del Estado apruebe. El Gobernador del Estado informará de su ejercicio al rendir la cuenta pública. En ningún caso se podrán destinar empréstitos para cubrir gasto corriente.
+
+El Congreso del Estado, por el voto de las dos terceras partes de sus miembros presentes, deberá autorizar los montos máximos para, en las mejores condiciones del mercado, contratar dichos empréstitos y obligaciones, previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago.
+
+Sin perjuicio de lo anterior, el Estado o los municipios podrán contratar obligaciones para cubrir sus necesidades a corto plazo, sin rebasar los límites máximos y condiciones que establezca la Ley General que expida el Congreso de la Unión. Las obligaciones a corto plazo deberán liquidarse a más tardar tres meses antes del término del periodo de gobierno correspondiente, y no podrán contratarse nuevas obligaciones durante ese tiempo;
 
 XVI.- Decretar la desafectación de bienes destinados al dominio público y al uso común;
 
@@ -3172,3 +3176,9 @@ TERCERO. Los magistrados del actual Tribunal de lo Contencioso Administrativo de
 CUARTO. Los recursos humanos, materiales, financieros, y presupuestales con que cuenta el Tribunal de lo Contencioso Administrativo de San Luis Potosí, incluyendo todos sus bienes, pasarán a formar parte del Tribunal Estatal de Justicia Administrativa, en los términos que determine la ley correspondiente.
 
 QUINTO. Los trabajadores de base sindicalizable que se encuentren prestando sus servicios en el Tribunal de lo Contencioso Administrativo de San Luis Potosí, seguirán conservando su misma calidad y derechos laborales que les corresponden, ante el Tribunal Estatal de Justicia Administrativa.
+
+P.O. 14 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0237.- SE REFORMA EL ARTÍCULO 57 EN SU FRACCIÓN XV, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO”.]
+
+ÚNICO. Este Decreto Legislativo entrará en vigor en la misma fecha en que lo haga la ley reglamentaria a que se refiere el Transitorio Segundo de la reforma Constitucional Federal, de fecha 26 de mayo de 2015.
