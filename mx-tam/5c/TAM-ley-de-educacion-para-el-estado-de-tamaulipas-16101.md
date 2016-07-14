@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2015-12-17"
+last_updated: "2016-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -236,6 +236,10 @@ XXVIII.- Promover y fomentar la lectura y el libro; y
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 2014)</small>
 
 XXIX.- Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tenga la capacidad de comprender el significado del hecho o para resistirlo.
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2016)</small>
+
+XXX.- Promover el espíritu emprendedor a partir de actitudes creativas, la confianza en sí mismo, el sentido crítico, la iniciativa personal, el trabajo en equipo y la capacidad para asumir responsabilidades.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2014)</small>
 
@@ -2150,6 +2154,14 @@ P.O. 9 DE DICIEMBRE DE 2015.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 17 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXII-976 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XXX AL ARTÍCULO 8 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
