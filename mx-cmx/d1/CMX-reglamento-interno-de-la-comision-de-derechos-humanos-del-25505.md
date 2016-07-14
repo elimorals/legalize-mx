@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-la-comision-de-derechos-humanos-del-25505
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-01"
-last_updated: "2014-12-23"
+last_updated: "2016-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25505&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,11 +22,11 @@ issue_date: "2002-06-20"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE NOVIEMBRE DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 23 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE JULIO DE 2016.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 1 de agosto de 2002.
+
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DE LA “REFORMA AL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL”, PUBLICADA EN LA G.O. 14 DE JULIO DE 2016, LAS REFERENCIAS QUE SE HAGAN EN LA NORMATIVA INTERNA A LA CONSULTORÍA GENERAL JURÍDICA, SE ENTENDERÁN HECHAS A LA DIRECCIÓN GENERAL JURÍDICA DE ESTA COMISIÓN.]</small>
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
@@ -82,9 +82,9 @@ XII. (DEROGADA, G.O. 3 DE MAYO DE 2011)
 
 XIII. Ley de Transparencia: Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, y
 
-> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 14 DE JULIO DE 2016)</small>
 
-XIV. OIP: Oficina de Información Pública de la Comisión de Derechos Humanos del Distrito Federal;
+XIV. UT: Unidad de Transparencia de la Comisión de Derechos Humanos del Distrito Federal.
 
 > <small>(ADICIONADA, G.O. 4 DE ENERO DE 2008)</small>
 
@@ -93,6 +93,10 @@ XV. COTECIAD: Comité Técnico Institucional de Administración de Documentos;
 > <small>(ADICIONADA, G.O. 4 DE ENERO DE 2008)</small>
 
 XVI. Unidades Desconcentradas: Son las oficinas adscritas a la Dirección General de Quejas y Orientación que acercan los servicios de la Comisión a las personas en el Distrito Federal.
+
+> <small>(ADICIONADA, G.O. 14 DE JULIO DE 2016)</small>
+
+XVII. OSACDPCM: Oficina de Seguimiento a la Aplicación de la Convención sobre Derechos de las Personas con Discapacidad, en la Ciudad de México.
 
 (REFORMADO, G.O. 24 DE ABRIL DE 2003) (F. DE E., G.O. 22 DE MAYO DE 2003)
 
@@ -446,9 +450,9 @@ ARTÍCULO 26 QUÁTER.- Para el cumplimiento de sus atribuciones, la Coordinació
 
 I. (DEROGADA, G.O. 2 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, G.O. 14 DE JULIO DE 2016)</small>
 
-II. Una Dirección de Agendas en Derechos Humanos;
+II. Una Dirección de Agendas en Derechos Humanos, que fungirá como Oficina de Seguimiento a la Aplicación de la Convención sobre Derechos de las Personas con Discapacidad, en la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
@@ -462,21 +466,95 @@ IV. Una Dirección de Relatorías, y
 
 V. El personal profesional, técnico y administrativo necesario para el cumplimiento de sus atribuciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE JULIO DE 2016)</small>
 
-ARTÍCULO 26 QUINTUS.- La Dirección General Jurídica es el área de apoyo que auxiliará a la o el Presidente en la orientación del discurso en materia de derechos humanos para todos los productos y resoluciones que emita esta Comisión. Para el cumplimiento de sus atribuciones contará con:
+ARTÍCULO 26 QUINTUS.- La Dirección General Jurídica es el área de apoyo que auxiliará a la o el Presidente en la orientación del discurso en materia de derechos humanos para todos los productos y resoluciones que emita esta Comisión; y, fungirá como Unidad de Transparencia. Para el cumplimiento de sus atribuciones contará con:
 
 > <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2010)</small>
 
 I. Una Dirección de Asuntos Jurídicos, y
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 14 DE JULIO DE 2016)</small>
 
-II. Una Dirección de la Oficina de Información Pública; y
+II. Una Dirección de Procedimientos de Transparencia; y
 
 > <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
 III. El personal profesional, técnico y administrativo necesario para el cumplimiento de sus atribuciones.
+
+> <small>(ADICIONADO, G.O. 14 DE JULIO DE 2016)</small>
+
+ARTÍCULO 26 SEXTUS.- La Oficina de Seguimiento a la Aplicación de la Convención sobre los Derechos de las Personas con Discapacidad, que mantendrá una comunicación estrecha con la Secretaría Ejecutiva, se encargará de coordinar el trabajo que realizan las distintas áreas de la Comisión, conducentes a dar seguimiento a la aplicación de la Convención por parte de las autoridades locales en el ámbito de competencia de este Organismo, en tanto (sic) Mecanismo de seguimiento de dicha Convención.
+
+La OSACDPCM deberá presentar un informe bimestral a la Presidencia de la Comisión, quien lo pondrá en conocimiento del Consejo.
+
+La OSACDPCM podrá solicitar la opinión de un grupo de asesores, en el que participará la sociedad civil.
+
+Bajo el principio de uso máximo de recursos, la OSACDPCM se comprometerá a que todos los procedimientos, instrumentos y documentación para el seguimiento de la Convención estén disponibles en formatos accesibles para las personas con discapacidad; así como, en su caso, proporcionar los sistemas de apoyo para la toma de decisiones.
+
+> <small>(ADICIONADO, G.O. 14 DE JULIO DE 2016)</small>
+
+ARTÍCULO 26 SÉPTIMUS.- Son atribuciones de la OSACDPCM las siguientes:
+
+I. Coordinarse con la Secretaría Ejecutiva para realizar su función de Mecanismo de Seguimiento de la Convención sobre Derechos de las Personas con Discapacidad, en la Ciudad de México.
+
+II. Coordinarse con la Dirección Ejecutiva de Educación por los Derechos Humanos, para realizar acciones encaminadas a sensibilizar, concientizar, educar, capacitar y formar a las autoridades del Gobierno de la Ciudad de México sobre los derechos de las personas con discapacidad y sus mecanismos de garantía nacionales e internacionales, en particular, respecto de las resoluciones del Comité de Derechos de las Personas con Discapacidad;
+
+III. Colaborar con la Relatoría por los Derechos de las Personas con Discapacidad en la organización de actividades de difusión relacionadas con la aplicación de la Convención como eventos, foros, talleres, etcétera, que contribuyan en la promoción de los derechos de las personas con discapacidad y el cumplimiento de las recomendaciones emitidas a México por el Comité sobre los Derechos de las Personas con Discapacidad;
+
+IV. Colaborar con la Relatoría por los Derechos de las Personas con Discapacidad, para brindar orientación a las organizaciones de la sociedad civil que lo requieran, a fin de que puedan presentar quejas o denuncias ante la Comisión, relativas a violaciones de derechos de las personas con discapacidad a efecto de que sean investigadas;
+
+V. Colaborar en el Programa de Defensa en la realización de operativos, visitas e inspecciones a instituciones que brinden servicios o alberguen a personas con discapacidad, a efecto de verificar el cumplimiento de los estándares de derechos humanos y/o de las cuales se reciba denuncia por presuntas violaciones de derechos de las personas con discapacidad, como parte de la investigación de quejas y/o en la realización de informes competencia de la Comisión. Estas visitas se podrán realizar sin previo aviso;
+
+VI. Promover, a través de la Relatoría por los Derechos de las Personas con Discapacidad, actividades para la integración y participación de la sociedad civil en el seguimiento de la aplicación de la Convención por parte de las instancias públicas de la Ciudad de México;
+
+VII. Analizar la información solicitada al grupo de asesores, y retomar lo que considere pertinente para el fortalecimiento de los trabajos del Mecanismo;
+
+VIII. Opinar sobre los proyectos de recomendación emitidos por las Visitadurías, que estén relacionados con los derechos de las personas con discapacidad, a efecto de poder realizar observaciones encaminadas a impulsar la aplicación, por parte de la o las autoridades recomendadas, de la Convención Sobre los Derechos de las Personas con Discapacidad;
+
+IX. Proponer a la Dirección Ejecutiva de Vinculación Estratégica, la presentación de comunicaciones individuales cuando personas con discapacidad, sus familiares y/o organizaciones de la sociedad civil que los representan, deseen presentar casos ante órganos internacionales jurisdiccionales y no jurisdiccionales de protección a los derechos humanos, a efecto de que valore la procedencia de la petición;
+
+X. Colaborar con el Centro de Investigación Aplicada en Derechos Humanos y la Relatoría por los Derechos de las Personas con Discapacidad en la realización de estudios e investigaciones en materia de derechos humanos de las personas con discapacidad, así como, de informes que les sean solicitados sobre el avance en el cumplimiento de la Convención por parte del Gobierno de la Ciudad de México, conforme a la normatividad y lineamientos editoriales de la Comisión;
+
+XI. Colaborar con la Dirección Ejecutiva de Asuntos Legislativos y Evaluación y la Relatoría por los Derechos de las Personas con Discapacidad en la revisión de la legislación, reglamentos, prácticas administrativas e institucionales en vigor y proyectos de ley y otras propuestas, relacionados con el tema de discapacidad, a efecto de verificar que sean conformes con la Convención Sobre los Derechos de las Personas con Discapacidad y los derechos humanos;
+
+XII. Coordinarse con otros mecanismos de seguimiento de la Convención;
+
+XIII. Proponer a la Coordinación de Vinculación con la Sociedad Civil y de Políticas Públicas de la Comisión acciones concretas en el Programa Operativo Anual, para el seguimiento de la Convención sobre los Derechos de las Personas con Discapacidad;
+
+XIV. Asesorar a las áreas de la Comisión a fin de que éstas cumplan con las actividades de promoción, protección y supervisión de la aplicación de la Convención;
+
+XV. Coordinarse con las distintas áreas de la Comisión para generar los insumos relacionados con los derechos de las personas con discapacidad que, en su caso, deban ser incluidos en sus respectivos informes, así como, elaborar los pronunciamientos y propuestas relacionadas con el tema y requeridas para ser incorporadas en los posicionamientos o recomendaciones que la Comisión realice;
+
+XVI. Proporcionar insumos que fortalezcan las actuaciones del Programa de Defensa relacionados con la presunta violación a los derechos de las personas con discapacidad, a partir del conocimiento especializado de la OSACDPCM;
+
+XVII. Promover la incorporación de la perspectiva de género en todas las actividades y trabajos relacionados con sus funciones;
+
+XVIII. Coordinarse con los demás órganos y áreas de apoyo en las actividades ante los organismos nacionales o internacionales en materia de derechos humanos de las personas con discapacidad;
+
+XIX. Celebrar reuniones con la sociedad civil para analizar temas relacionados con los derechos de las personas con discapacidad;
+
+XX. Realizar las demás actividades que le encomiende la Coordinación de Vinculación con la Sociedad Civil y de Políticas Públicas de la Comisión, necesarias para el cumplimiento del mandato convencional;
+
+XXI. Rendir los informes que requiera la Presidencia de la Comisión, y
+
+XXII. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos.
+
+> <small>(ADICIONADO, G.O. 14 DE JULIO DE 2016)</small>
+
+ARTÍCULO 26 OCTAVUS.- La OSACDPCM podrá solicitar la opinión de un grupo de asesores en derechos de las personas con discapacidad, para el mejor desarrollo y fortalecimiento de sus funciones.
+
+El grupo de asesores únicamente será de carácter consultivo y estará compuesto por 6 integrantes: las o los titulares de la Cuarta Visitaduría, la Secretaría Ejecutiva, la Relatoría por los Derechos de las Personas con Discapacidad, y 3 personas de la sociedad civil quienes serán invitadas por la Comisión de Derechos Humanos del Distrito Federal, atendiendo a su especialidad. El titular de la OSACDPCM presidirá el grupo de asesores.
+
+Las y los integrantes de la sociedad civil que participen en el grupo de asesores serán elegidos por la OSACDPCM en coordinación con la Secretaría Ejecutiva.
+
+Las personas de la sociedad civil que integren el grupo de asesores deberán tener experiencia reconocida en materia de derechos humanos de las personas con discapacidad ya sea en sociedad civil o en la academia.
+
+Es atribución del grupo de asesores emitir las opiniones que le solicite la OSACDPCM necesarias para coadyuvar con la solución de asuntos que atiende el Mecanismo.
+
+El titular de la OSACDPCM tomará la decisión final en aquellos casos en donde no se logre un consenso del grupo.
+
+Las opiniones que emita el grupo de asesores deberán ser entregadas por escrito a la OSACDPCM.
 
 > <small>(F. DE E., G.O. 7 DE NOVIEMBRE DE 2014)</small>
 
@@ -742,9 +820,13 @@ XVII. Realizar las actividades tendientes a la búsqueda y procuración de fondo
 
 XVIII. Diseñar y Coordinar las políticas y mecanismos de comunicación intra-institucional, y
 
-> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, G.O. 14 DE JULIO DE 2016)</small>
 
-XIX. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos.
+XIX. Participar en el grupo de asesores que brindará su opinión especializada a la OSACDPCM para dar seguimiento a la Convención Sobre Derechos de las Personas con Discapacidad, por parte de las autoridades locales en el ámbito de competencia de la Comisión, y
+
+> <small>(ADICIONADA, G.O. 14 DE JULIO DE 2016)</small>
+
+XX. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
 
@@ -776,7 +858,9 @@ IV. Diseñar estrategias para la construcción de ciudadanía activa con enfoque
 
 V. Dirigir la instrumentación e implementación de la Red de Promoción Ciudadana para el ejercicio de los derechos humanos en la ciudad;
 
-VI. (DEROGADA, G.O. 2 DE DICIEMBRE DE 2010)
+> <small>(ADICIONADA, G.O. 14 DE JULIO DE 2016)</small>
+
+VI. Promover, proteger y supervisar la aplicación de la Convención sobre Derechos de las Personas con Discapacidad, en la Ciudad de México.
 
 VII. (DEROGADA, G.O. 2 DE DICIEMBRE DE 2010)
 
@@ -838,13 +922,13 @@ III. Revisar y, en su caso, formular los proyectos de modificaciones legislativa
 
 IV. Proponer y preparar los medios de control constitucional que corresponda ejercer a esta Comisión;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 14 DE JULIO DE 2016)</small>
 
-V. Recibir, valorar, registrar y dar trámite a las solicitudes de información pública de ejercicio de los derechos de acceso, rectificación, cancelación y oposición a través de la OIP, hasta la entrega de la respuesta a la o el solicitante;
+V. Recibir, valorar, registrar y dar trámite a las solicitudes de información pública de ejercicio de los derechos de acceso, rectificación, cancelación y oposición, a través de la Dirección de Procedimientos de Transparencia, hasta la entrega de la respuesta a la o el solicitante;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 14 DE JULIO DE 2016)</small>
 
-VI. Coordinar todas las acciones para la debida operación de la OIP, tanto al interior como al exterior de la Comisión;
+VI. Coordinar todas las acciones para la debida operación de la Dirección de Procedimientos de Transparencia, tanto al interior como al exterior de la Comisión;
 
 > <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
@@ -858,13 +942,17 @@ VIII. Brindar apoyo y asesoría jurídica a los órganos y áreas de apoyo de la
 
 IX. Revisar la motivación y fundamentación legal de la documentación oficial;
 
-> <small>(REFORMADA, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 14 DE JULIO DE 2016)</small>
 
-X. Expedir y certificar copias de los documentos y constancias que obren en los archivos de las áreas de apoyo de la Comisión, y
+X. A través de su titular y de la Dirección de Asuntos Jurídicos, expedir y certificar copias de los documentos y constancias que obren en los archivos de las áreas y órganos de apoyo de la Comisión;
 
-> <small>(ADICIONADA, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 14 DE JULIO DE 2016)</small>
 
-XI. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos.
+XI. Realizar, a través de su personal, las notificaciones que sean necesarias para el ejercicio de sus funciones; y
+
+> <small>(ADICIONADA, G.O. 14 DE JULIO DE 2016)</small>
+
+XII. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos.
 
 > <small>(F. DE E., G.O. 7 DE NOVIEMBRE DE 2014)</small>
 
@@ -1306,7 +1394,13 @@ IX. Instaurar los procedimientos administrativos disciplinarios internos, con mo
 
 X Recibir, substanciar y resolver los recursos de revocación que se presenten en contra de las resoluciones en los procedimientos señalados en la fracción anterior, de conformidad con la Ley Federal de Responsabilidades de los Servidores Públicos aplicable, así como defender los intereses de la Contraloría Interna en cualquier medio de impugnación, y
 
-XI. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos.
+> <small>(REFORMADA, G.O. 14 DE JULIO DE 2016)</small>
+
+XI. A través de su titular, expedir y certificar copias de los documentos y constancias que obren en sus archivos.
+
+> <small>(ADICIONADA, G.O. 14 DE JULIO DE 2016)</small>
+
+XII. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos.
 
 ### CAPÍTULO IV. Del Consejo de la Comisión
 
@@ -1590,6 +1684,10 @@ Las Visitadurías Generales serán identificadas de la manera siguiente: Primera
 
 Cada Visitaduría General tendrá a su cargo la tramitación de los procedimientos de investigación que se inicien de oficio o mediante queja. En este último supuesto, de conformidad con la asignación que lleve a cabo la Dirección General de Quejas y Orientación. La o el Presidente podrá acordar que un caso determinado sea conocido específicamente por una Visitaduría.
 
+> <small>(ADICIONADO, G.O. 14 DE JULIO DE 2016)</small>
+
+En el caso específico de la Cuarta Visitaduría General, ésta participará en el grupo de asesores que brindará su opinión especializada a la OSACDPCM para dar seguimiento a la Convención Sobre Derechos de las Personas con Discapacidad, por parte de las autoridades locales en el ámbito de competencia de la Comisión.
+
 > <small>(REFORMADO, G.O. 4 DE ENERO DE 2008)</small>
 
 ###### ARTÍCULO 69.
@@ -1743,6 +1841,10 @@ X. Organizar y dirigir las visitas e inspecciones a las Oficinas Administrativas
 > <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
 
 XI. Las demás que les confiera el presente Reglamento, la o el Presidente y los ordenamientos internos.
+
+> <small>(ADICIONADO, G.O. 14 DE JULIO DE 2016)</small>
+
+Se entiende que las o los Directores(as) de Área de las Visitadurías, en el ejercicio de sus funciones, actuarán con el carácter de visitadores adjuntos.
 
 > <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
 
@@ -2677,3 +2779,17 @@ G.O. 4 DE NOVIEMBRE DE 2014.
 PRIMERO. Las presentes reformas al Reglamento Interno de la Comisión de Derechos Humanos del Distrito Federal, aprobadas en sesión ordinaria de fecha 30 de octubre, entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal, derogando las disposiciones que las contravengan.
 
 SEGUNDO. Las adecuaciones a la normativa interna deberán presentarse dentro del término de ciento ochenta días hábiles posteriores a la entrada en vigor, para su aprobación ante el Consejo de la Comisión.
+
+G.O. 14 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA AL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL”.]
+
+PRIMERO. Las presentes reformas al Reglamento Interno de la Comisión de Derechos Humanos del Distrito Federal, aprobadas en sesión ordinaria de fecha primero de julio de 2016, entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México, quedando sin efectos todas aquellas disposiciones que lo contravengan.
+
+SEGUNDO. Las referencias que se hagan en la normativa interna a la Consultoría General Jurídica, se entenderán hechas a la Dirección General Jurídica de esta Comisión.
+
+TERCERO. Las adecuaciones a la normativa interna deberán presentarse dentro del término de ciento ochenta días hábiles posteriores a la entrada en vigor, para su aprobación ante el Consejo de la Comisión.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO 9/2016 DEL CONSEJO DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL, POR EL QUE SE APRUEBA REFORMAR Y ADICIONAR DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL”.]
+
+ÚNICO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
