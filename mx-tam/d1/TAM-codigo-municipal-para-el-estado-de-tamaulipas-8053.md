@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2016-06-23"
+last_updated: "2016-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
-EL CIUDADANO DOCTOR EMILIO MARTINEZ MANAUTUO, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
+EL CIUDADANO DOCTOR EMILIO MARTINEZ MANAUTOU, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
 
 Que el Honorable Congreso del Estado, se ha servido expedir el siguiente
 
@@ -603,7 +603,9 @@ XXXVI.- Prevenir y combatir, conforme a las leyes, los juegos prohibidos, la vag
 
 XXXVII.- Cumplir y hacer cumplir las disposiciones legales en materia de elecciones, cultos y consejos de tutelas.
 
-XXXVIII.- Formular la estadística municipal.
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
+
+XXXVIII.- Recopilación, organización, bajo los criterios de máxima publicidad, difusión y transparencia de la información relativa a la estadística municipal.
 
 XXXIX.- Rendir a la población, por conducto del Presidente Municipal, un informe anual detallado sobre el estado que guardan los negocios municipales.
 
@@ -659,9 +661,11 @@ LIII.- Implementar programas sobre el uso de energías renovables y el aprovecha
 
 LIV.- Fomentar la solidaridad familiar, los valores, el respeto, la convivencia y el sano esparcimiento de las familias, así como la integración de los adultos mayores en actividades que contribuyan a su mejor desarrollo.
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2016)</small>
 
-LV.- Las demás que determina este Código o cualquier otra ley y sus reglamentos.
+LV.- Fomentar y promover, la integración y la participación ciudadana a través de las organizaciones de la sociedad civil.
+
+LVI.- Las demás que determina este Código o cualquier otra ley y sus reglamentos.
 
 ###### ARTICULO 50.
 
@@ -853,7 +857,13 @@ V.- Concurrir a las ceremonias cívicas y a los demás actos a que fueren citado
 
 VI.- Citar a sesiones extraordinarias del Ayuntamiento si no lo hace el Presidente Municipal, en los términos de este Código y su Reglamento Interior.
 
-VII.- Las demás que les otorguen la Ley y reglamentos.
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2016)</small>
+
+VII.- Proponer al Ayuntamiento un plan anual de trabajo de sus respectivas comisiones y podrán generar propuestas para las diversas áreas de la administración municipal; así como la adopción de las medidas que estimen pertinentes para el mejor desempeño de sus funciones.
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
+
+VIII.- Las demás que les otorguen la Ley y Reglamentos.
 
 ### CAPITULO IX. DE LOS SINDICOS
 
@@ -935,9 +945,11 @@ DEL REGIMEN ADMINISTRATIVO.
 
 El Ayuntamiento, durante el mes de octubre del año de la elección, nombrará entre sus miembros comisiones que vigilarán el ramo de la administración municipal que se les encomiende.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2016)</small>
+
 ###### ARTICULO 63.
 
-Las comisiones estudiarán y propondrán al Ayuntamiento los proyectos de solución a los problemas de su conocimiento, a efecto de atender todas las ramas de la Administración Municipal.
+Las comisiones tienen por objeto el estudio, análisis y la elaboración de dictámenes y/o propuestas al Ayuntamiento en pleno, a efecto de atender los problemas de su conocimiento de los distintos ramos de la Administración Pública Municipal.
 
 ###### ARTICULO 64.
 
@@ -973,9 +985,21 @@ IX.- Comisión de Desarrollo Sustentable y Cambio Climático.
 
 X.- De Energía.
 
-XI.- Las demás que determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2016)</small>
+
+XI.- De Estadística Municipal.
+
+XII.- Las demás que determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
 
 Para tal efecto, podrán encomendarse dos o más comisiones a cada munícipe.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2016)</small>
+
+ARTICULO 64 BIS.- Las Comisiones del Ayuntamiento deberán sesionar por lo menos una vez por mes.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2016)</small>
+
+ARTICULO 64 TER.- Las Comisiones rendirán al Ayuntamiento un informe anual de las labores que desarrollen sus respectivas comisiones.
 
 ### CAPITULO XII. DE LOS ORGANOS AUXILIARES
 
@@ -5896,6 +5920,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 23 DE JUNIO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. LXII-955 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXII-977 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
