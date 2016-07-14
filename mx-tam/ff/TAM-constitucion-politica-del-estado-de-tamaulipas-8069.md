@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2016-06-30"
+last_updated: "2016-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2016.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -309,13 +309,17 @@ Para garantizar el derecho de acceso a la información y de protección de datos
 
 VI. El derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, saludable, aceptable y asequible. El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo la participación de la Federación, las entidades federativas y los municipios, así como la participación de la ciudadanía para la consecución de dichos fines; y
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
 
-VII. El derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento; y
+VII. El derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento;
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
 
-VIII. El derecho a la cultura física y la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes en la materia.
+VIII. El derecho a la cultura física y la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes en la materia; y
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2016)</small>
+
+IX. El derecho de acceder de manera libre y universal a internet.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 1986)</small>
 
@@ -2107,7 +2111,9 @@ IV.- No haber ocupado por lo menos durante el año previo al día de la designac
 
 V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ###### Art. 112.
 
@@ -2139,9 +2145,7 @@ II.- De la acción de inconstitucionalidad local, para impugnar normas generales
 
 Las sentencias dictadas para resolver los asuntos planteados conforme a las fracciones I y II de este artículo, que declaren inconstitucional una norma general, tendrán efectos generales cuando sean votados por las dos terceras partes de los integrantes del Pleno Supremo Tribunal de Justicia, a partir de la fecha en que sean publicadas en el Periódico Oficial del Estado o de la fecha posterior a la publicación que la propia resolución ordene.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2015)</small>
 
 ###### Art. 114.
 
@@ -4469,11 +4473,13 @@ P.O. 30 DE JUNIO DE 2016.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XXIX-X AL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS”.]
+P.O. 14 DE JULIO DE 2016.
 
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXII-973, QUE REFORMA LAS FRACCIONES VII Y VIII DEL ARTÍCULO 17; Y ADICIONA UNA FRACCIÓN IX AL MISMO ARTÍCULO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
 
-D.O.F. 15 DE AGOSTO DE 2016.
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 11 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS”.]
 
