@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2016-04-21"
+last_updated: "2016-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -705,9 +705,9 @@ VI.- Atención a la salud de la mujer en todos los aspectos;
 
 VII.- La salud sexual y reproductiva de las personas, que incluye la planificación familiar;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
 
-VIII.- La salud mental y adicciones;
+VIII.- La salud mental, las adicciones, así como la detección y atención de la depresión, y prevención el (sic) suicidio;
 
 > <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -777,9 +777,11 @@ Así mismo, se exime del cobro cuando del estudio socioeconómico determine que 
 
 Los conflictos suscitados entre los usuarios y prestadores de servicios médicos, podrán ser sometidos a la Comisión Estatal de Arbitraje Médico, la que con autonomía técnica y administrativa emitirá opiniones, acuerdos y laudos imparciales, con el objeto de contribuir a su solución.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2016)</small>
+
 ###### ARTICULO 23.
 
-Los establecimientos particulares para el internamiento de enfermos, prestarán sus servicios en forma gratuita a personas de escasos recursos, en la proporción y términos que señale el reglamento correspondiente.
+Los establecimientos particulares para el internamiento de enfermos, prestarán sus servicios en forma gratuita a personas de escasos recursos disponiendo, de ser necesario, al menos un 5% del total de camas de que dispongan, en los términos que señale el reglamento correspondiente.
 
 ###### ARTICULO 24.
 
@@ -811,9 +813,9 @@ La atención materno-infantil y del adolescente comprende las siguientes accione
 
 I.- Atención de la mujer durante el embarazo, el parto y el puerperio;
 
-> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
 
-II.- Vigilancia y cuidados de la madre y el producto de la gestación, desde la concepción y hasta su nacimiento; así mismo, la atención del recién nacido, con enfoque de prevención control y tratamiento oportuno de los padecimientos comunes en la etapa neonatal;
+II.- Vigilancia y cuidados de la madre y el producto de la gestación, desde la concepción y hasta su nacimiento; así mismo, la atención del recién nacido, con enfoque de prevención, control y tratamiento oportuno de los padecimientos comunes en la etapa neonatal. Las instituciones de salud, deberán atender de manera inmediata a las embarazadas que presenten síntomas de trabajo de parto, en cualquier período de la gestación, sin exigirles documentos de trámite;
 
 III.- La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna;
 
@@ -3678,3 +3680,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo Estatal deberá expedir el Reglamento Interior de la Comisión Estatal para la Protección contra Riesgos Sanitarios, en un plazo no mayor a 120 días naturales a partir de la entrada en vigor del presente Decreto.
+
+P.O. 14 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXII-968 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 17, FRACCIÓN VIII, 23 Y 29, FRACCIÓN II, DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
