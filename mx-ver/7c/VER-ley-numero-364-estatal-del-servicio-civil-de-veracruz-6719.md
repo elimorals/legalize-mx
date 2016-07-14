@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-364-estatal-del-servicio-civil-de-veracruz-6719"
 country: "mx"
 rank: "ley"
 publication_date: "1992-04-04"
-last_updated: "2015-12-07"
+last_updated: "2016-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6719&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ESTATAL DEL SERVICIO CIVIL DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE JULIO DE 2016.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 4 de abril de 1992.
 
@@ -81,17 +81,27 @@ Para los efectos de esta Ley, los trabajadores al servicio de las Entidades Púb
 
 Son trabajadores de confianza:
 
-I.- Los que integran la planta de la oficina del Gobernador del Estado, así como aquellos cuyo nombramiento o ejercicio requiera la aprobación expresa de los Titulares de los Poderes del Estado, o los Municipios;
+> <small>(REFORMADA, G.O. 14 DE JULIO DE 2016)</small>
 
-II.- Los Titulares de las distintas Dependencias o los responsables de las unidades u órganos en la estructura administrativa de las Entidades Públicas, hasta el nivel de jefe de sección o su equivalente;
+I. Los que integran la planta de la oficina del Gobernador del Estado, así como aquellos cuyo nombramiento o ejercicio requiera la aprobación expresa de los Titulares de los Poderes del Estado, desde el nivel de Director o equivalente hasta el cargo o empleo de mayor jerarquía;
 
-III.- Los que dentro de las Entidades Públicas realicen funciones de dirección, inspección, vigilancia, fiscalización, manejo de fondos o valores, auditoría, planeación, supervisión, control directo de adquisiciones, responsables de los almacenes e inventarios, investigación, investigación científica, asesoría o consultoría;
+> <small>(REFORMADA, G.O. 14 DE JULIO DE 2016)</small>
+
+II. Los Titulares de las distintas Dependencias o los responsables de las unidades u órganos en la estructura administrativa estatal, desde el nivel de Director o equivalente hasta el cargo o empleo de mayor jerarquía;
+
+> <small>(REFORMADA, G.O. 14 DE JULIO DE 2016)</small>
+
+III. Los que dentro de la administración pública estatal realicen funciones de dirección, inspección, vigilancia, fiscalización, manejo de fondos o valores, auditoría, planeación, supervisión, control directo de adquisiciones, responsables de los almacenes e inventarios, investigación, investigación científica, asesoría o consultoría, desde el nivel de Director o equivalente hasta el cargo o empleo de mayor jerarquía;
 
 IV.- Los Secretarios Particulares o Privados; el personal adscrito presupuestalmente a las Secretarías Particulares o Ayudantías, así como los destinados presupuestalmente, o que realicen trabajos personales y directos para los servidores públicos a que se refieren las fracciones I y II de este artículo;
 
-V.- Los Agentes y Secretarios del Ministerio Público, de la Policía Judicial y los miembros de las Policías Preventivas;
+> <small>(REFORMADA, G.O. 14 DE JULIO DE 2016)</small>
 
-VI.- En el Poder Legislativo y en el Poder Judicial, todas las categorías y cargos que con clasificación de confianza consigne el catálogo de empleos respectivo para cada uno de esos Poderes.
+V. Los Agentes y Secretarios de la Fiscalía General, de la policía ministerial y los miembros de la policía estatal que con ese carácter consignen sus respectivas leyes orgánicas o especiales;
+
+> <small>(REFORMADA, G.O. 14 DE JULIO DE 2016)</small>
+
+VI. En el Poder Legislativo y en el Poder Judicial, todas las categorías y cargos que con clasificación de confianza consignen sus respectivas leyes orgánicas o especiales, y el catálogo de empleos respectivos;
 
 > <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2015)</small>
 
@@ -113,9 +123,15 @@ La clasificación de los puestos de confianza en las Entidades Públicas, atendi
 
 Los trabajadores de las Entidades Públicas se clasificarán conforme a sus propios catálogos generales de puestos que establezcan dentro de su régimen interno, de conformidad con los lineamientos de esta Ley; dichas entidades públicas están obligadas a formular y actualizar anualmente sus catálogos de puestos, para lo que se escuchará la opinión de los sindicatos respectivos.
 
+> <small>(REFORMADO, G.O. 14 DE JULIO DE 2016)</small>
+
 ###### ARTICULO 10.
 
-Los trabajadores de base podrán tener el carácter de definitivos o temporales, de acuerdo al tipo de nombramiento que se les otorgue.
+Los trabajadores de base tendrán el carácter de definitivos, de acuerdo al tipo de nombramiento que se les otorgue, de conformidad con lo dispuesto por esta Ley y demás leyes aplicables.
+
+Se entenderá por interinato a la contratación de cualquier persona que cubra a un trabajador de base por razones de licencia, vacaciones, incapacidad por motivos de salud o enfermedad, discapacidad parcial o total, o por razón de procedimientos judiciales o administrativos de naturaleza laboral.
+
+El interinato se considerará una relación de trabajo por tiempo fijo u obra determinada, acotada al tiempo que se actualice por cualquiera de las razones a que se refiere el párrafo anterior y no generará derechos de titularidad sobre la plaza de que se trate, a menos que durante el desempeño del interinato acontezca la terminación de la relación laboral del trabajador de base en los términos que previenen los artículos 36 y 37 de la presente Ley.
 
 ###### ARTICULO 11.
 
@@ -1864,3 +1880,13 @@ G.O. 7 DE DICIEMBRE DE 2015.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 14 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 896 QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 364 ESTATAL DEL SERVICIO CIVIL Y DE LA LEY NÚMERO 584 DEL SERVICIO PÚBLICO DE CARRERA EN LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA, AMBOS ORDENAMIENTOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
+
+Tercero. La Secretaría de Finanzas y Planeación, y la Contraloría General, contarán con un plazo de 90 días para realizar las acciones procedentes que cumplan lo dispuesto en el presente Decreto.
