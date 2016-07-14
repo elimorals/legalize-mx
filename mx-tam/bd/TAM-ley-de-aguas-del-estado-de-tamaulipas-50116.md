@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2013-03-05"
+last_updated: "2016-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -89,7 +89,9 @@ VI. Establecer e implementar un sistema de índices de gestión que permita moni
 
 ###### Artículo 2.
 
-Para efectos de esta Ley, se entenderá por:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2016)</small>
+
+Para los efectos de esta Ley se entenderá por:
 
 I. Agua Cruda: El agua que se encuentra en los cuerpos receptores nacionales o estatales, sin tratamiento alguno, y que es extraída e introducida a la línea de producción de los servicios por medio del sistema de captación de agua.
 
@@ -343,13 +345,17 @@ LXXI. Uso doméstico: La utilización de agua de uso público urbano para uso pa
 
 LXXII. Uso industrial: La utilización de agua en el proceso productivo de las empresas, industrias o parques industriales;
 
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
 
-LXXIII. Uso Público: La utilización de agua de uso público urbano para el uso de edificios públicos; y
+LXXIII. Uso Público: La utilización de agua de uso público urbano para el uso de edificios públicos;
 
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
 
-LXXIV. Usuarios: Las personas físicas o morales que reciban los servicios públicos.
+LXXIV. Usuarios: Las personas físicas o morales que reciban los servicios públicos; y
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2016)</small>
+
+LXXV. Indicadores de Gestión: Cifras que permiten de manera objetiva medir y evaluar el desempeño de una organización.
 
 ## TITULO SEGUNDO. DE LAS AUTORIDADES
 
@@ -2833,6 +2839,36 @@ Las resoluciones que resuelvan el recurso administrativo de revocación podrán 
 
 Contra los actos dictados dentro del procedimiento administrativo de ejecución que apliquen los organismos operadores o, en su defecto, la Comisión, procederán los medios de impugnación que establece el Código Fiscal del Estado.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 14 DE JULIO DE 2016)</small>
+
+## TITULO DECIMO PRIMERO. DE LA INVESTIGACION Y DESARROLLO TECNOLOGICO DEL AGUA
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE JULIO DE 2016)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2016)</small>
+
+###### Artículo 203.
+
+La Comisión a fin de garantizar el suministro de agua en cantidad y calidad adecuadas a la población del Estado, realizará la investigación y desarrollo de nuevas tecnologías en el uso y aprovechamiento de este recurso para la prestación de servicios públicos así como, el registro de lo que realicen instituciones afines mediante las actividades siguientes:
+
+I. La investigación y desarrollo de nuevas tecnologías en el uso y aprovechamiento del agua para la prestación de los servicios públicos en coordinación con instituciones de educación superior, así como el registro de los avances que sobre la materia logre el Instituto Mexicano de Tecnología del Agua y otras instituciones afines e impulsar su aplicación, difusión y transferencia;
+
+II. La orientación y coordinación con instituciones de educación superior en la ejecución de programas de investigación, desarrollo tecnológico, consultoría especializada, información técnica, formación y capacitación de alto nivel en materia de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, de geohidrología, hidrología e hidráulica de acuíferos y ríos del Estado para atender la demanda de los servicios públicos y asegurar el aprovechamiento y manejo sustentable e integral del agua para los mismos;
+
+III. Fortalecer los centros e instituciones de investigación y docencia orientados a la investigación, desarrollo, adaptación, innovación y transferencia tecnológica en la materia;
+
+IV. Fomentar, a través de convenios que al efecto celebre con los centros e instituciones de investigación y docencia del Estado, acciones de investigación y desarrollo tecnológico en materia de agua, incluyendo su difusión, y la formación, actualización y capacitación de recursos humanos;
+
+V. La exploración de fuentes no tradicionales y de innovación tecnológica de abastecimiento de agua;
+
+VI. El establecimiento en coordinación con las autoridades competentes de los mecanismos de regulación para el cumplimiento de normas y certificar la calidad del equipo y maquinaria asociados al uso y aprovechamiento del agua; la promoción de la cultura del agua, considerando este bien como un recurso vital, escaso y que requiere el cuidado de su calidad y desarrollo sustentable;
+
+VII. La participación con autoridades competentes en la elaboración de proyectos de normas sobre calidad del agua y en la acreditación de laboratorios; el establecimiento de indicadores de gestión en el ámbito de competencia estatal; y
+
+VIII. La elaboración y coordinación de los demás programas y proyectos análogos para la evaluación de los mismos.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -2970,5 +3006,13 @@ Previo a incluir en el precio de cada metro cubico de agua el porcentaje relativ
 P.O. 5 DE MARZO DE 2013.
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXII-975, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
