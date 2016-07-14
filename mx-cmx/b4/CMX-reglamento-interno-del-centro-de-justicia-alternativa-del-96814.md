@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-del-centro-de-justicia-alternativa-del-96814
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-12-10"
-last_updated: "2013-12-10"
+last_updated: "2016-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96814&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2013-11-20"
 
 REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA CIUDAD DE MÉXICO , PUBLICADO EN LA G.O. DE 14 DE JULIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 14 DE JULIO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 10 de diciembre de 2013.
 
@@ -1517,3 +1519,21 @@ EL SECRETARIO GENERAL DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 (Firma)
 
 LIC. ALFREDO ÁLVAREZ CÁRDENAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. DE 14 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO 23-23/2016 POR EL QUE SE APRUEBA EL “REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERA. El presente Acuerdo de Reforma Integral al Reglamento Interno del Centro de Justicia Alternativa del Tribunal Superior de Justicia de la Ciudad de México entrará en vigor el día de su publicación en el Boletín Judicial del Tribunal Superior de Justicia de la Ciudad de México.
+
+SEGUNDA. Se abroga el Reglamento Interno del Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal aprobado por el Consejo de la Judicatura del Distrito Federal en su sesión del 1° de octubre de 2013, mediante Acuerdo 38-44/2013 y se derogan las disposiciones que se opongan al presente Acuerdo.
+
+TERCERA. Se otorga a los mediadores privados certificados que deban actualizar su registro, un plazo no mayor a cuarenta y cinco días a partir de la entrada en vigor del presente Acuerdo, para que realicen los trámites de renovación de registro previstos en el artículo 43 de la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal. Una vez terminado el plazo, el Centro de Justicia Alternativa y el Instituto de Estudios Judiciales del Tribunal Superior de Justicia de la Ciudad de México, depurarán el Registro que contiene el Padrón de Mediadores Privados Certificados y elaborarán y publicarán la relación de los mediadores privados certificados con registro vigente. Así mismos se liberarán los números que ocupaban aquellos mediadores privados que hayan dejado de actualizar su registro.
+
+Los mediadores privados certificados que desempeñen actualmente un cargo público no estarán sujetos a dicho plazo, sino a partir de la fecha en la que dejen de ocuparlo, en la medida en la que comuniquen formalmente, mediante carta dirigida a la Dirección General del Centro de Justicia Alternativa del Tribunal Superior de Justicia de la Ciudad de México, a la que se adjuntará copia certificada de su nombramiento, dentro del plazo a que se refiere el párrafo anterior.
+
+CUARTA. El Sistema de Mediación a Cargo de Secretarios Actuarios a que se refiere el primer párrafo del artículo 85 del Reglamento, será aprobado por el Consejo de la Judicatura de la Ciudad de México y en su aplicación participarán los Consejeros de la Judicatura de la Comisión de Medios Alternos del propio Consejo.
+
+QUINTA. Para mayor difusión publíquese el presente Acuerdo en la Gaceta Oficial de la Ciudad de México.
