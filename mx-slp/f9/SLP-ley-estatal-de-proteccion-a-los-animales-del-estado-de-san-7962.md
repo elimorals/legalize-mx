@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-proteccion-a-los-animales-del-estado-de-san-7962
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-17"
-last_updated: "2016-02-13"
+last_updated: "2016-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 17 de marzo de 1995.
 
@@ -545,6 +545,10 @@ Inventario de Especies Silvestres.
 
 Las personas físicas o instituciones que realicen investigaciones con animales domésticos y silvestres, habrán de hacerlo de acuerdo a los artículos que se mencionan en esta Ley, y en especial a los que se refieren al bienestar de los animales; en caso de que se sacrifiquen se recurrirá a las autoridades correspondientes.
 
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2016)</small>
+
+ARTICULO 58 BIS.- En la docencia y, en la investigación científica, se deberá promover la sustitución del uso de animales vivos por cadáveres de procedencia ética, dibujos, fotografías, vídeos, modelos, maniquíes, simulación por computadora o cualquier otro medio similar.
+
 ###### ARTICULO 59.
 
 Será requisito de cumplimiento obligatorio, que los animales utilizados en experimentos de disección o mutilación grave, sean insensibilizados previamente, y posteriormente sacrificados.
@@ -958,6 +962,14 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 13 DE FEBRERO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0166.- SE REFORMA EL ARTÍCULO 77; Y DEROGA EL ARTÍCULO 25, DE LA LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 0252 [0253].- "SE ADICIONA EL ARTÍCULO 58 BIS A LA LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
