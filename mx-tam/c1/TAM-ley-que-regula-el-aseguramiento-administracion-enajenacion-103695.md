@@ -4,7 +4,7 @@ identifier: "TAM-ley-que-regula-el-aseguramiento-administracion-enajenacion-1036
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2014-11-25"
+last_updated: "2016-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103695&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY QUE REGULA EL ASEGURAMIENTO, ADMINISTRACIÓN, ENAJENACIÓN Y DISPOSICIÓN FINAL DE VEHÍCULOS AUTOMOTORES, ACCESORIOS O COMPONENTES ABANDONADOS PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de noviembre de 2014.
 
@@ -271,6 +271,12 @@ III. Entregar los bienes señalados en las fracciones que anteceden, al interesa
 
 El producto de la enajenación de los vehículos, accesorios o componentes declarados abandonados, serán considerados como aprovechamientos para el Estado, integrándose al erario a través de la Dependencia normativa en la materia.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2016)</small>
+
+En caso de que los vehículos, accesorios o componentes declarados abandonados hayan estado o estén en depósitos o áreas que no son del Estado, previo a integrar al erario público los aprovechamientos correspondientes, se cubrirá el adeudo por el resguardo de que se trate, mismo que solo podrá ser hasta el 50% del valor total del precio de la enajenación de que se trate.
+
 ###### ARTÍCULO 30.
 
 El precio de venta de los desechos ferrosos o chatarra, será determinado por el valor en el mercado.
@@ -324,3 +330,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los seis días del mes de noviembre del año dos mil catorce.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HERMINIO GARZA PALACIOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE JULIO DE 2016.
+
+[TRANSITORIO DEL “DECRETO NO. LXII-980, MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 29 DE LA LEY QUE REGULA EL ASEGURAMIENTO. ADMINISTRACIÓN. ENAJENACIÓN Y DISPOSICIÓN FINAL DE VEHÍCULOS AUTOMOTORES. ACCESORIOS O COMPONENTES ABANDONADOS PARA EL ESTADO DE TAMAULIPAS”.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor 90 días después de su publicación en el Periódico Oficial del Estado.
