@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-administracion-publica-para-el-municipio-60268
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2015-11-20"
+last_updated: "2016-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2016.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de febrero de 2008.
 
@@ -1395,73 +1395,139 @@ III.- Tener título profesional como Licenciado en Contaduría, o Licenciado en 
 
 IV.- No estar sujeto a proceso, ni haber sido condenado por delito intencional, ni destituido o inhabilitado en juicio de responsabilidad como funcionario público.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 15 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 61.
 
 A la Tesorería le corresponde el despacho de los asuntos previstos en la Ley de Hacienda Municipal, Ley de Ingresos del Municipio de Ensenada, Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Baja California y el propio Reglamento de la Administración Pública del Municipio de Ensenada; y tendrá las siguientes funciones:
 
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
+
 I.- Formular y someter a la consideración del Ayuntamiento, y en su oportunidad aplicar, la política hacendaria del gobierno municipal y los programas financieros y crediticios de la Administración Municipal Centralizada y Descentralizada;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
 
 II.- Proponer Al Presidente Municipal, los dictámenes técnicos respecto de proyectos de inversión, así como los criterios de administración de la deuda pública municipal;
 
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
+
 III.- Conducir la política administrativa, fiscal y financiera de la Administración Pública Municipal aprobada por el Ayuntamiento;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
 
 IV.- Fungir como cabeza de sector de la administración pública municipal en materia de planeación, administración finanzas e informática;
 
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
+
 V.- Informar al Presidente Municipal de la situación que guarda el manejo de la deuda pública municipal;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
 
 VI.- Coordinar y participar en la formulación de los programas de inversión de la Administración Pública Municipal;
 
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
+
 VII.- Coordinar los programas relacionados con la administración de recursos humanos, materiales, financieros, tributarios e informáticos de la Administración Pública Municipal;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
 
 VIII.- Sistematizar el presupuesto anual de ingresos y egresos del Municipio;
 
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
+
 IX.- Elaborar y mantener actualizado un sistema de información de las finanzas municipales, cubriendo todas las etapas del proceso de ingreso-gasto, además de dar seguimiento al rendimiento de la aplicación de los recursos;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
 
 X.- Proponer y diseñar los criterios generales para la racionalidad y disciplina presupuestal del gasto público;
 
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
+
 XI.- Coordinar con las dependencias centralizadas, la estructura programática;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
 
 XII.- Elaborar el análisis anual de impacto presupuestario;
 
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
+
 XIII.- Coordinar la elaboración trimestral de los avances programáticos de las dependencias y entidades de su sector;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
 
 XIV.- Analizar y evaluar sistemáticamente el comportamiento y evolución de los ingresos municipales;
 
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
+
 XV.- Diseñar políticas y proponer programas que propicien y consoliden la cultura tributaria de los contribuyentes;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
 
 XVI.- Coordinar y asesorar respecto de las operaciones requeridas por el propio municipio y por las dependencias y órganos auxiliares, referentes a contratos de crédito y otorgar opinión de todos aquellos actos que comprometan financieramente a la administración municipal, apegándose a las políticas, normas y procedimientos de la administración municipal y a la legislación correspondiente;
 
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
+
 XVII.- Representar a la Administración Municipal ante fideicomisos y organismos de administración pública dependientes del estado, donde se tramiten operaciones en las que financieramente se puedan beneficiar o afectar el patrimonio municipal;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
 
 XVIII.- Definir los ingresos y egresos del gobierno municipal, tomando en cuenta las necesidades de recursos para la ejecución del Plan Municipal de Desarrollo y sus programas;
 
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
+
 XIX.- Recibir de las dependencias y entidades, sus anteproyectos de presupuesto de egresos para ser incluidos en el proyecto de presupuesto de egresos del Municipio, realizar los análisis correspondientes, y orientar a dichas dependencias y entidades en relación con las erogaciones que propongan;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
 
 XX.- Formular y presentar oportunamente a consideración del Presidente Municipal, los proyectos de iniciativa de ley de ingresos, y presupuesto de egresos municipales para ser aprobados por el Ayuntamiento;
 
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
+
 XXI.- Orientar a las entidades en la formulación de sus anteproyectos de presupuestos de egresos, cuando éstos no queden comprendidos en el presupuesto de egresos municipal;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
 
 XXII.- Presentar al Presidente Municipal para que éste las someta a consideración del Ayuntamiento, las solicitudes de modificaciones, transferencias y ampliaciones de presupuesto que formulen las dependencias y entidades, dándolas a conocer previamente al Síndico Procurador para su visto bueno;
 
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
+
 XXIII.- Recaudar y administrar las contribuciones municipales, de acuerdo con las disposiciones legales en vigor;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
 
 XXIV.- Cumplir y hacer cumplir las leyes, reglamentos, convenios, y demás disposiciones legales de carácter fiscal;
 
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
+
 XXV.- Administrar la deuda pública de acuerdo con las disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
 
 XXVI.- Ejercer el gasto público del Gobierno Municipal y llevar su control, seguimiento y evaluación;
 
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
+
 XXVII.- Integrar los programas de inversión de la Administración Pública Municipal, y vigilar el ejercicio de los recursos de los mismos;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
 
 XXVIII.- Emisión de circulares que regulen operaciones de acuerdo a la normatividad vigente;
 
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
+
 XXIX.- Participar en la realización de los convenios financieros y ejercer las atribuciones que deriven de éstos;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2014)</small>
 
 XXX.- Tener a disposición del Órgano Superior de Fiscalización del Estado las cuentas, informes contables y financieros, en los términos de la Ley de Fiscalización Superior para el Estado de Baja California, previa entrega al Ayuntamiento;
 
-XXXI.- Las demás que expresamente le encomienden las leyes y reglamentos o le instruya el Presidente.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
+
+XXXI.- Resguardar el depósito por concepto de costo de estudios técnicos de los proyectos de las obras de urbanización de que se trate; la garantía para la terminación de las obras de urbanización; y la fianza para garantizar la conservación de las obras de urbanización, que por estos conceptos realice el fraccionador, mediante oficio que previamente le gire el Director de Catastro y Control Urbano, hasta el cumplimiento de la etapa de construcción que ampare la garantía y la fianza de que se trate.
+
+> <small>(REFORMADA [N. DE. ADICIONADA], P.O. 15 DE JULIO DE 2016)</small>
+
+XXXII.- Las demás que expresamente le encomienden las leyes y reglamentos o le instruya el Presidente.
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
 
@@ -1641,13 +1707,23 @@ III. Capacitación.
 
 La Dirección de Recursos Materiales, tendrá a su cargo la revisión y autorización de órdenes de pedido y requisiciones, la ejecución de las determinaciones que tome el Comité de Adquisiciones en que será miembro participante, la custodia y administración del Almacén de la administración central, así como aquello que le encomiende el Oficial Mayor y los demás reglamentos y Leyes vigentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 69.
 
-La Dirección de Administración de Bienes Patrimoniales tendrá a su cargo el control, supervisión y la custodia de los bienes municipales, incluyendo en éstos a los Bienes Muebles, Inmuebles y el Archivo Municipal, así como la operatividad de los talleres encargados del mantenimiento de los vehículos propiedad del Gobierno Municipal.
+La Dirección de Administración de Bienes Patrimoniales tendrá a su cargo el control, supervisión y la custodia de los bienes municipales, incluyendo en éstos a los Bienes Muebles, Inmuebles y el Archivo Municipal, así como la operatividad de los talleres encargados del mantenimiento de los vehículos propiedad del Gobierno Municipal. Los monumentos y placas conmemorativas, se consideran como bienes inmuebles de conformidad con el Código Civil para el Estado de Baja California, por lo que su registro, control, supervisión, custodia y mantenimiento son responsabilidad de la Dirección de Administración de Bienes Patrimoniales, quien se coordinará para dicho fin con el Consejo de Nomenclatura y Monumentos de Ensenada y de la Dirección de Servicios Públicos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2016)</small>
 
-Los monumentos y placas conmemorativas, se consideran como bienes inmuebles de conformidad con el Código Civil para el Estado de Baja California, por lo que su registro, control, supervisión, custodia y mantenimiento son responsabilidad de la Dirección de Administración de Bienes Patrimoniales, quien se coordinará para dicho fin con el Consejo de Nomenclatura y Monumentos de Ensenada y de la Dirección de Servicios Públicos.
+Tratándose de las áreas de donación incluidas en el acuerdo de autorización del fraccionamiento de que se trate y una vez publicado en el Periódico Oficial del Estado de Baja California, el Director de administración de bienes patrimoniales deberá asegurarse que éstas sean inscritas en el Registro Público de la Propiedad y el Comercio del Estado de Baja California.
+
+> <small>(REFORMADO [N. DE ADICIONADO], P.O. 15 DE JULIO DE 2016)</small>
+
+Una vez inscrito el acuerdo de autorización referido en el párrafo anterior, deberá notificar al Director de Catastro y Control Urbano, para que se continúe con el procedimiento para llevar a cabo las acciones de urbanización, de no haberse realizado la inscripción por parte del fraccionador no se podrá llevar a cabo ninguna acción de urbanización.
+
+> <small>(REFORMADO [N. DE ADICIONADO], P.O. 15 DE JULIO DE 2016)</small>
+
+Deberá adicionalmente dar cumplimiento al procedimiento para la aceptación de donaciones contemplado en la Norma Técnica No. 3.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE FEBRERO DE 2014)</small>
 
@@ -1661,35 +1737,47 @@ Los monumentos y placas conmemorativas, se consideran como bienes inmuebles de c
 
 (DEROGADO, P.O. 14 DE FEBRERO DE 2014)
 
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 72.
 
-La Dirección de Catastro y Control Urbano tendrá como función, integrar y administrar el catastro inmobiliario municipal, que se estructura con el conjunto de registros, padrones y documentos que permitan la identificación, localización, descripción, deslinde, cartografía, y valuación de todos los bienes inmuebles ubicados en el territorio municipal; conducir los procedimientos y emitir la autorización de acciones de urbanización, de acciones para la ejecución de edificaciones, la implementación del régimen de propiedad en condominio, y las que deriven en materia de uso de suelo e imagen urbana, ejerciendo las funciones de que en lo indicado se confieren al Ayuntamiento en la Ley de Desarrollo Urbano del Estado de Baja California, y las Leyes, Reglamentos y normatividad que de ella emanen, los acuerdos y convenios que al respecto suscriba el Gobierno municipal, así como las que le instruya el Presidente Municipal, ejerciendo las atribuciones que se confieren al Ayuntamiento en la Ley de Catastro Inmobiliario del Estado de Baja California, así como las que le establece el reglamento municipal de la materia.
+La Dirección de Catastro y Control Urbano tendrá como obligaciones de manera enunciativa más no limitativa las siguientes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+I.- integrar y administrar el catastro inmobiliario municipal, que se estructura con el conjunto de registros, padrones y documentos que permitan la identificación, localización, descripción, deslinde, cartografía, y valuación de todos los bienes inmuebles ubicados en el territorio municipal;
 
-Para el cumplimiento de lo señalado en el párrafo anterior, la Dirección de Catastro, Control Urbano tendrá bajo su cargo las siguientes áreas; una sub dirección y ocho departamentos:
+II.- Conducir los procedimientos y emitir la autorización de acciones de urbanización, de acciones para la ejecución de edificaciones, la implementación del régimen de propiedad en condominio, y las que deriven en materia de uso de suelo e imagen urbana, en cumplimiento a lo dispuesto en la Ley de Desarrollo Urbano del Estado de Baja California, las Leyes, Reglamentos y demás normatividad que de ella emanen, los acuerdos y convenios que al respecto suscriba el Gobierno municipal.
 
-I. Subdirección
+III.- Aquellas que se encuentre (sic) previstas para su cumplimiento en la Ley de Catastro Inmobiliario del Estado de Baja California, así como las que le establece el reglamento municipal de la materia.
 
-II. Valuación Inmobiliaria;
+IV.- Hacer del conocimiento mediante oficio al Director de Administración de Bienes Patrimoniales la publicación en el Periódico Oficial del Estado de Baja California el acuerdo de autorización de fraccionamiento en el cual se definen y determinan las áreas de donación que se harán a favor del Municipio.
 
-III. Registro Inmobiliario;
+V.- Coordinarse con los titulares de las dependencias de la administración pública federal, estatal y municipal, que respecto de las acciones de urbanización, intervengan en el cumplimiento de las disposiciones que para tal efecto se establezcan en las Leyes, Reglamentos, Normas Técnicas y convenios en materia de fraccionamientos.
 
-IV. Cartografía;
+VI.- Aquellas que le instruya el Presidente Municipal.
 
-V. Usos de suelo;
+Quedarán exceptuadas aquellas facultades previstas en las Leyes, Reglamentos, los acuerdos, convenios que al respecto suscriba el Gobierno municipal y demás normatividad que se confieran de forma exclusiva al Ayuntamiento en materia de Desarrollo Urbano y Catastro Inmobiliario.
 
-VI. Fraccionamientos;
+Para el cumplimiento de sus obligaciones, funciones y atribuciones, la dirección de Catastro, Control Urbano se encuentra integrado de la siguiente manera:
 
-VII. Licencias de construcción;
+I.- Dirección
 
-VIII. Inspecciones y Denuncias; y
+I. I.- Subdirección
 
-> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+I.I.1.- Valuación Inmobiliaria;
 
-IX. Ingeniería de Tránsito.
+I.I.2.- Registro Inmobiliario;
+
+I.I.3.- Cartografía;
+
+I.I.4.- Usos de suelo;
+
+I.I.5.- Fraccionamientos;
+
+I.I.6.- Licencias de construcción;
+
+I.I.7.- Inspecciones y Denuncias; y
+
+I.I.8.- Ingeniería de Tránsito.
 
 La Dirección de Catastro y Control Urbano, contará con una oficina de despacho en la Zona Sur del Municipio.
 
@@ -1793,21 +1881,23 @@ VI. Proponer la aplicación de multas a la Dirección.
 
 VII. Las demás que le encomiende el Director de Ecología.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 76.
 
-La Dirección de Infraestructura, tendrá las atribuciones de Realizar los estudios técnicos y los proyectos ejecutivos, programar, planear, organizar, licitar, coordinar, dar seguimiento, controlar, vigilar y ejecutar las obras publicas que determine y realice el Gobierno Municipal, el Plan Municipal de Desarrollo, los convenios con los Gobiernos Estatal y Federal, los acordados por el Ayuntamiento o instruidos por el Presidente Municipal, por si o mediante invitación o licitación pública de acuerdo a la ley de Obra Pública Estatal o Federal según corresponda, leyes, Reglamentos y manuales de procedimientos establecidos
+La Dirección de Infraestructura, tendrá las atribuciones de Realizar los estudios técnicos y los proyectos ejecutivos, programar, planear, organizar, licitar, coordinar, dar seguimiento, controlar, vigilar y ejecutar las obras publicas que determine y realice el Gobierno Municipal, el Plan Municipal de Desarrollo, los convenios con los Gobiernos Estatal y Federal, los acordados por el Ayuntamiento o instruidos por el Presidente Municipal, por si o mediante invitación o licitación pública de acuerdo a la Ley de Obra Pública Estatal o Federal según corresponda, Leyes, Reglamentos y manuales de procedimientos establecidos.
 
-Para su ejecución contará con las siguientes subdirecciones:
+Tratándose de acciones de urbanización, auxiliará al Director de Catastro y Control Urbano, fijando los montos por concepto de pago de costos de estudios técnicos de los proyectos de las obras de urbanización de que se trate; la garantía para la terminación de las obras de urbanización; y la fianza para garantizar la conservación de las obras de urbanización, que por estos conceptos realice el fraccionador, hasta el cumplimiento de la etapa de construcción que ampare la garantía y la fianza de que se trate.
 
-I. Subdirección de Proyectos, y
-
-II. Subdirección de Obras.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 77.
 
-La Dirección de Servicios Públicos tendrá a su cargo la prestación de los servicios de mantenimiento, conservación y reconstrucción de vialidades y áreas públicas, y contará con el apoyo de los siguientes departamentos:
+La Dirección de Servicios Públicos estará a cargo de un Director quien tendrá la obligación de prestar los servicios de mantenimiento, conservación y reconstrucción de vialidades y áreas públicas, así como determinar los avalúos sobre los bienes inmuebles propiedad del Ayuntamiento con motivo de los daños que sean ocasionados por los ciudadanos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE JULIO DE 2016)</small>
+
+Para el cumplimiento de sus atribuciones y obligaciones contará con el apoyo de los siguientes departamentos:
 
 I.- Limpia;
 
@@ -1825,6 +1915,12 @@ VII.- Departamento de Vialidades, y
 
 VIII.- Administración del Centro Histórico.
 
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2016)</small>
+
+ARTÍCULO 77 BIS.- El Director de Servicios Públicos tendrá la obligación de realizar la inspección de los daños ocasionados a los bienes propiedad del Municipio de Ensenada, para lo cual se apoyará de los jefes de los departamentos correspondientes.
+
+Para llevar a cabo la reparación del daño patrimonial, deberá determinar y emitir el avalúo que corresponda en un término no mayor a 24 horas, contadas a partir de la notificación que le haga el Juez Calificador.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE FEBRERO DE 2014)</small>
 
 ### CAPITULO SEXTO. DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA
@@ -1841,7 +1937,7 @@ II.- Tener suficiente instrucción, capacidad y honestidad a juicio del Ayuntami
 
 III.- No estar sujeto a proceso, ni haber sido condenado por delito intencional, ni destituido o inhabilitado en juicio de responsabilidad como funcionario público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2014)</small>
+(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE JULIO DE 2016) (REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2014)
 
 ###### ARTÍCULO 79.
 
@@ -1877,7 +1973,15 @@ XIII.- Coordinar los programas de selección, formación, instrucción, capacita
 
 XIV.- Autorizar, dar seguimiento y evaluar la operación y funcionamiento de los programas de formación, instrucción, capacitación, adiestramiento y especialización de los cuerpos de seguridad privada;
 
-XV.- Las demás que establezcan las Leyes, Bases de Coordinación en materia de seguridad pública, Reglamentos o le instruya el Presidente.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
+
+XV.- Notificar y remitir al Síndico Procurador y al Director de Servicios Públicos en un término que no exceda de 12 horas, el parte de novedades relativo a los daños ocasionados por alguna persona a los bienes propiedad del Municipio de Ensenada.
+
+Tratándose de los daños ocasionados a cámaras de seguridad y patrullas, el parte de novedades se notificará y remitirá exclusivamente al Síndico Procurador.
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2016)</small>
+
+XVI.- Las demás que establezcan las Leyes, Bases de Coordinación en materia de seguridad pública, Reglamentos o le instruya el Presidente.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
@@ -2820,3 +2924,15 @@ P.O. 20 DE NOVIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMA AL ARTÍCULO 69 DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA; REFORMA LOS ARTÍCULOS 4 Y 10 DEL REGLAMENTO DE BIENES PATRIMONIALES; REFORMA EL ARTÍCULO 1 Y ADICIONAR EL INCISO H DEL ARTÍCULO 4 DEL REGLAMENTO DEL CONSEJO DE NOMENCLATURA Y MONUMENTOS DE ENSENADA, BAJA CALIFORNIA”.]
 
 ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial para el Estado de Baja California.
+
+P.O. 15 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMAR LOS ARTÍCULOS 61, 69, 72 Y 76 DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, RELATIVO A DICTAMEN 017/2016”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
+
+P.O. 15 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMAR LOS ARTÍCULOS 77 Y 79, Y ADICIONAR EL ARTÍCULO 77 BIS DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, Y REFORMAR EL ARTÍCULO 4 DEL REGLAMENTO INTERIOR DE LA SINDICATURA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA, RELATIVO A DICTAMEN 018/2016”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
