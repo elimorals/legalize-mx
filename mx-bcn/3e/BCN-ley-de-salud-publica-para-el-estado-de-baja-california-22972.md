@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2015-12-11"
+last_updated: "2016-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -289,9 +289,9 @@ I.- Proporcionar servicios de salud a toda la población del Estado y mejorar la
 
 II.- Contribuir al adecuado desarrollo demográfico del Estado;
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
 
-III.- Colaborar al bienestar de la población, mediante servicios de asistencia social, principalmente a menores en estado de abandono, farmacodependientes en situación de calle, ancianos desamparados y discapacitados, fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y social;
+III.- Colaborar al bienestar de la población, mediante servicios de asistencia social, principalmente a menores en estado de abandono, farmacodependientes en situación de calle, ancianos desamparados, discapacitados y en las comunidades indígenas, fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y social;
 
 IV.- Impulsar el desarrollo del individuo, de la familia y de la comunidad, así como la integración social y el crecimiento físico y mental de la niñez;
 
@@ -395,9 +395,13 @@ XIII.- Ejecutar permanentemente una campaña estatal de donación altruista de s
 
 XIV.- Realizar las acciones que sean necesarias a fin de contar con ambulancias equipadas para trasladar a aquellas personas que requieran atención médica de urgencia y se encuentren en zonas marginadas. Estas ambulancias deberán de ubicarse en puntos estratégicos para una mejor cobertura y reducción de los tiempos de traslado; y
 
-> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
 
-XV.- Las demás atribuciones que se deriven de la Ley General de Salud, de la Ley Orgánica de la Administración Pública del Estado, de esta Ley y demás ordenamientos aplicables.
+XV.- Diseñar y ejecutar políticas públicas que garanticen el acceso a una alimentación balanceada, para combatir el sobrepeso, obesidad, desnutrición, y trastornos de conducta alimentaria y cuyos avances y resultados sean objeto de evaluación.
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2016)</small>
+
+XVI.- Las demás atribuciones que se deriven de la Ley General de Salud, de la Ley Orgánica de la Administración Pública del Estado, de esta Ley y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 12.
 
@@ -481,7 +485,9 @@ Para los efectos del derecho a la protección de la salud, se consideran servici
 
 I.- La atención médica integral que comprende la atención médica integrada de carácter preventivo, acciones curativas, paliativas y de rehabilitación, incluyendo la atención de urgencias.
 
-Para efectos de esta fracción la atención médica de carácter preventivo consiste en realizar todas las acciones de prevención y promoción para la protección de la salud, de acuerdo a la edad, sexo y determinantes físicos y psíquicos de las personas, realizadas preferentemente en una sola consulta.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2016)</small>
+
+Para efectos de esta fracción la atención médica de carácter preventivo consiste en realizar todas las acciones de prevención y promoción para la protección de la salud, de acuerdo a la edad, sexo y determinantes físicos y psíquicos de las personas, realizadas preferentemente en una sola consulta, así mismo comprenderá la atención pre hospitalaria, la cual, se entenderá como la otorgada al paciente cuya condición clínica se considera que pone en peligro la vida, un órgano o su función, con el fin de lograr la limitación del daño y su estabilización orgánico-funcional, desde los primeros auxilios hasta la llegada y entrega a un establecimiento para la atención médica con servicio de urgencias, así como durante el traslado entre diferentes establecimientos a bordo de una ambulancia.
 
 II.- La atención materno infantil;
 
@@ -757,17 +763,17 @@ Para los efectos de esta Ley, se entiende por asistencia social el conjunto de a
 
 La prestación de servicios de asistencia social será regulada por los ordenamientos legales aplicables en la materia, debiendo intervenir las Autoridades Sanitarias en aquellos asuntos relacionados con los servicios de salud.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2015)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 15 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 36.
 
-Los integrantes del Sistema Estatal de Salud, deberán dar atención preferente e inmediata a menores, farmacodependiente en situación de calle o abandono, personas con capacidades diferentes, migrantes y ancianos sometidos en cualquier forma de maltrato que pongan en peligro su salud física o mental.
+Los integrantes del Sistema Estatal de Salud, deberán dar atención preferente e inmediata a menores, farmacodependiente en situación de calle o abandono, personas con capacidades diferentes y ancianos sometidos en cualquier forma de maltrato que pongan en peligro su salud física o mental.
+
+De igual forma en los municipios del Estado en los que existan pueblos y comunidades indígenas, procurarán conforme a la disponibilidad presupuestal contar por lo menos con un médico, enfermera o traductor en el centro de salud que las atienda, que hable la lengua indígena predominante del lugar, y cuente con los conocimientos sobre la cultura y costumbres indígenas, para la atención de su población.
 
 Asimismo, darán esa atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física o mental o el normal desarrollo psicosomático de los individuos.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
-
-En estos casos, las instituciones de salud del Estado, podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de los menores, farmacodependiente en situación de calle o abandono, personas con capacidades diferentes, migrantes y ancianos, sin perjuicio de dar intervención a las Autoridades competentes.
+En estos casos, las instituciones de salud del Estado, podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de los menores, farmacodependiente en situación de calle o abandono, personas con capacidades diferentes y ancianos, sin perjuicio de dar intervención a las Autoridades competentes
 
 #### SECCION VII. DE LOS PRESTADORES DE SERVICIOS DE SALUD
 
@@ -843,9 +849,13 @@ En el caso de urgencia o que el usuario se encuentre en estado de incapacidad tr
 
 Los usuarios de los servicios de salud en general, contarán con facilidades para acceder a una segunda opinión.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 46.
 
-Las instituciones públicas y privadas, y particulares que tengan conocimiento de alguna persona que requiera la prestación urgente de servicios de salud, deberán proporcionar inmediatamente la atención médica, sin perjuicio de su posterior remisión a otras instituciones.
+Las instituciones públicas y privadas, y particulares que tengan conocimiento de alguna persona que requiera la prestación urgente de servicios de salud, deberán proporcionar inmediatamente la atención médica pre-hospitalaria, sin perjuicio de su posterior remisión a otras instituciones.
+
+El personal encargado de proporcionar la atención médica pre-hospitalaria, deberá de cumplir con los parámetros que para tal efecto dispongan las normas oficiales mexicanas y lo previsto en el artículo 79 de la Ley General de Salud.
 
 ###### ARTÍCULO 47.
 
@@ -975,7 +985,7 @@ XII.- Realizar las demás acciones que directa o indirectamente contribuyan al f
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
-ARTÍCULO 50 TER 3.- Para el logro operativo de sus fines, se deberá conformar la Unidad Coordinadora de Procuración de Órganos y Tejidos de Seres Humanos, qué será parte integrante del Centro de Trasplantes y Procuración de Órganos y Tejidos y estará subordinada a esta última, en el entendido de que el objetivo principal de dicho grupo operativo, es facilitar y gestionar los procesos para la obtención de órganos y tejidos de seres humanos con fines de trasplantes, dentro de las diferentes instituciones de salud en el estado, que expresamente lo soliciten y con estricto apego a los lineamientos aplicables en esta materia.
+ARTÍCULO 50 TER 3.- Para el logro operativo de sus fines, se deberá conformar la Unidad Coordinadora de Procuración de Órganos y Tejidos de Seres Humanos, que será parte integrante del Centro de Trasplantes y Procuración de Órganos y Tejidos y estará subordinada a esta última, en el entendido de que el objetivo principal de dicho grupo operativo, es facilitar y gestionar los procesos para la obtención de órganos y tejidos de seres humanos con fines de trasplantes, dentro de las diferentes instituciones de salud en el estado, que expresamente lo soliciten y con estricto apego a los lineamientos aplicables en esta materia.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1075,7 +1085,7 @@ IV.- Desarrollar y aplicar acciones de prevención, tratamiento y rehabilitació
 
 > <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
 
-ARTÍCULO 50 QUINQUES.- El Banco Estatal de Sangre, será el establecimiento autorizado a cargo de la Secretaria de Salud Pública del Estado; para obtener, analizar, fraccionar, preparar, conservar, aplicar y proveer sangre humana y sus componentes sanguíneos. El cual tendrá una sede en cada uno de los municipios del Estado; pudiendo abastecer a otros bancos de sangre de Instituciones de Salud Pública en el Estado.
+ARTÍCULO 50 QUINQUES (SIC).- El Banco Estatal de Sangre, será el establecimiento autorizado a cargo de la Secretaria de Salud Pública del Estado; para obtener, analizar, fraccionar, preparar, conservar, aplicar y proveer sangre humana y sus componentes sanguíneos. El cual tendrá una sede en cada uno de los municipios del Estado; pudiendo abastecer a otros bancos de sangre de Instituciones de Salud Publica en el Estado.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
@@ -1365,9 +1375,17 @@ V.- La descontaminación microbiana o parasitaria, desinfección de zonas, habit
 
 VI.- La destrucción o control de vectores y reservorios y de fuentes de infección naturales o artificiales, cuando representen peligro para la salud;
 
-VII.- La inspección de pasajeros que puedan ser portadores de gérmenes, así como la de equipajes, medios de transporte, mercancías y otros objetos que puedan ser fuentes o vehículos de agentes patógenos; y
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
 
-VIII.- Las demás que determinen las disposiciones aplicables.
+VII.- La inspección de pasajeros que puedan ser portadores de gérmenes, así como la de equipajes, medios de transporte, mercancías y otros objetos que puedan ser fuentes o vehículos de agentes patógenos;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
+
+VIII.- La prevención de la rickettsiosis, mediante la fumigación y desparasitación de los animales que se encuentren bajo su responsabilidad o cuidado; y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2016)</small>
+
+IX.- Las demás que determinen las disposiciones aplicables.
 
 ###### ARTÍCULO 78.
 
@@ -3156,3 +3174,29 @@ DECRETO No. 317, POR EL QUE SE APRUEBA LA REFORMA AL PÁRRAFO SEGUNDO DEL ARTÍC
 P.O. 11 DE DICIEMBRE DE 2015.
 
 ÚNICO.- EI presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 497 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 19 Y 46 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- Las presentes reformas, entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 498 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LAS FRACCIONES VII Y VIII, ASÍ COMO LA ADICIÓN DE LA FRACCIÓN IX AL ARTÍCULO 77 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 15 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 499 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN XV, ADICIONA UNA FRACCIÓN XVI AL ARTÍCULO 11 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 15 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 495 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN III DEL ARTÍCULO 7 Y LA ADICIÓN AL ARTÍCULO 36 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
