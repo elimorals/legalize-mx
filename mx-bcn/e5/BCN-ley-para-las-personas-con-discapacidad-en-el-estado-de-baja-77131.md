@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-las-personas-con-discapacidad-en-el-estado-de-baja-771
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-15"
-last_updated: "2015-11-20"
+last_updated: "2016-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2016.
 
 Ley publicada en la Sección III al Periódico Oficial del Estado de Baja California, el viernes 15 de octubre de 2010.
 
@@ -79,9 +79,9 @@ X.- El respeto a la evolución de las facultades de los niños y las niñas con 
 
 Para los efectos de esta Ley se entenderá por:
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
 
-I.- Ajustes razonables: Son las modificaciones, adaptaciones o adecuaciones necesarias, que se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio de sus derechos y libertades fundamentales; siempre que no imponga una carga desproporcionada o indebida, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
+I.- Ayudas técnicas: Aquellos dispositivos tecnológicos que contribuyen a la movilidad y comunicación de las personas con discapacidad;
 
 II.- Barreras físicas: A los obstáculos que dificultan, entorpecen, impiden o que ponen en riesgo la integridad de las personas con discapacidad en su desplazamiento o comunicación, en espacios interiores o exteriores, sean públicos o privados, así como en el uso de herramientas, dispositivos y servicios comunitarios;
 
@@ -127,73 +127,69 @@ XIV.- Educación No Escolar o Informal: Aquella que permite adquirir y acumular 
 
 XV.- Educación Mixta: Toda actividad educativa, organizada y sistemática realizada fuera del marco del ámbito oficial, para facilitar determinadas clases de aprendizaje a subgrupos particulares de la población;
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
 
-XVI.- Elementos de asistencia: A los dispositivos tecnológicos, materiales, animales o humanos como maestra sombra, asistente personal, persona cuidadora o familia cuidadora que permitan habilitar, rehabilitar o compensar una o más discapacidades de la persona;
+XVI.- Equiparación de Oportunidades: Al proceso de adecuaciones, mejoras y ajustes necesarios en el entorno jurídico, social, cultural, de bienes y servicios, que faciliten a las personas con discapacidad una integración, convivencia y participación en igualdad de oportunidades y posibilidades con el resto de la población;
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
 
-XVII.- Equiparación de Oportunidades: Al Proceso de adecuaciones, mejoras y ajustes necesarios en el entorno jurídico, social, cultural, de bienes y servicios, que faciliten a las personas con discapacidad una integración, convivencia y participación en igualdad de oportunidades y posibilidades con el resto de la población;
+XVII.- Estenografía Proyectada: Es el oficio y la técnica de transcribir un monólogo o dialogo oral de manera simultánea a su desenvolvimiento y, así como proyectar el texto resultante por medios electrónicos visuales;
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
 
-XVIII.- Estenografía Proyectada: Es el oficio y la técnica de transcribir un monólogo o dialogo oral de manera simultánea a su desenvolvimiento y, así como proyectar el texto resultante por medios electrónicos visuales;
+XVIII.- Estimulación Temprana: Atención brindada a niños y niñas de entre 0 y 6 años para potenciar y desarrollar al máximo sus posibilidades físicas, intelectuales, sensoriales y afectivas, mediante programas sistemáticos y secuenciados que abarquen todas las áreas del desarrollo humano, sin forzar el curso natural de su maduración;
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
 
-XIX.- Estimulación Temprana: Atención brindada a niños y niñas de entre 0 y 6 años para potenciar y desarrollar al máximo sus posibilidades físicas, intelectuales, sensoriales y afectivas, mediante programas sistemáticos y secuenciados que abarquen todas las áreas del desarrollo humano, sin forzar el curso natural de su maduración;
+XIX.- Familia cuidadora: Al conjunto de personas, que dedican una importante actividad diaria al cuidado de sujetos con dependencias o discapacidades;
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
 
-XX.- Familia cuidadora: Al conjunto de personas, que dedican una importante actividad diaria al cuidado de sujetos con dependencias o discapacidades;
+XX.- Habilitación: Al proceso mediante el cual se dota por primera vez a la persona, de una capacidad o habilidad que le otorgue una mejor calidad de vida, y consiste en brindar asistencia multidisciplinaria y especializada, a la persona que sufre deficiencia congénita o desde temprana edad;
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
 
-XXI.- Habilitación: Al proceso mediante el cual se dota por primera vez a la persona, de una capacidad o habilidad que le otorgue una mejor calidad de vida, y consiste en brindar asistencia multidisciplinaria y especializada, a la persona que sufre deficiencia congénita o desde temprana edad;
+XXI.- Lengua de Señas: A la Lengua que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística; XXIII (SIC).- Ley: A la Ley para las Personas con Discapacidad en el Estado de Baja California;
 
-> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
 
-XXII.- Lengua de Señas: A la Lengua que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística;
+XXII.- Maestra sombra: Es una extensión del profesor, proporcionando atención a aquellos que lo necesitan más;
 
-> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
 
-XXIII.- Ley: A la Ley para las Personas con Discapacidad en el Estado de Baja California;
+XXIII.- Organizaciones: A las organizaciones sociales constituidas legalmente para el cuidado, atención o salvaguarda de los derechos de las personas con discapacidad o que busquen apoyar y facilitar su participación en las decisiones relacionadas con el diseño, aplicación y evaluación de programas para su desarrollo e integración social;
 
-> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
 
-XXIV.- Maestra sombra: Es una extensión del profesor, proporcionando atención a aquellos que lo necesitan más;
+XXIV.- Persona con Discapacidad: Toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás;
 
-> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
 
-XXV.- Organizaciones: A las organizaciones sociales constituidas legalmente para el cuidado, atención o salvaguarda de los derechos de las personas con discapacidad o que busquen apoyar y facilitar su participación en las decisiones relacionadas con el diseño, aplicación y evaluación de programas para su desarrollo e integración social;
+XXV.- Persona cuidadora: Son las personas o instituciones que se hacen cargo de las personas con algún nivel de dependencia. Son por tanto padres, madres, hijos/as, familiares, personal contratado o voluntario;
 
-> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
 
-XXVI.- Persona con Discapacidad: Toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás;
+XXVI.- Persona dependiente: un estado en que se encuentran las personas que, por razones ligadas a la falta o a la pérdida de autonomía física, psíquica o intelectual tienen necesidad de asistencia o de ayudas importantes para realizar actos corrientes de la vida ordinaria;
 
-> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
 
-XXVII.- Persona cuidadora: son las personas o instituciones que se hacen cargo de las personas con algún nivel de dependencia. Son por tanto padres, madres, hijos/as, familiares, personal contratado o voluntario;
+XXVII.- Perro de asistencia: Los perros educados y adiestrados en centros especializados y oficialmente reconocidos, para prestar asistencia y auxilio a personas con alguna discapacidad;
 
-> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
 
-XXVIII.- Persona dependiente: un estado en que se encuentran las personas que, por razones ligadas a la falta o a la pérdida de autonomía física, psíquica o intelectual tienen necesidad de asistencia o de ayudas importantes para realizar actos corrientes de la vida ordinaria;
+XXVIII.- Rehabilitación: Al proceso de duración limitada y con un objetivo definido, de orden médico, neuropsicológico, social y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel físico, mental o sensorial óptimo, permitiendo compensar la pérdida de una función, así como proporcionarle una mejor integración social;
 
-> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
 
-XXIX.- Rehabilitación: Al proceso de duración limitada y con un objetivo definido, de orden médico, neuropsicológico, social y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel físico, mental o sensorial óptimo, permitiendo compensar la pérdida de una función, así como proporcionarle una mejor integración social;
+XXIX.- Sistema de Escritura Braille: Sistema para la comunicación representado mediante signos en relieve, leídos en forma táctil por las personas ciegas;
 
-> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
 
-XXX.- Sistema de Escritura Braille: Sistema para la comunicación representado mediante signos en relieve, leídos en forma táctil por las personas ciegas;
+XXX.- Subcomité Especial: Subcomité Especial de Asistencia Social a Personas con Discapacidad, órgano integrante del Comité de Planeación para el Desarrollo del Estado creado mediante acuerdo publicado en el Periódico Oficial del Estado de fecha 25 de agosto de 1995;
 
-> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
 
-XXXI.- Subcomité Especial: Subcomité Especial de Asistencia Social a Personas con Discapacidad, órgano integrante del Comité de Planeación para el Desarrollo del Estado creado mediante acuerdo publicado en el Periódico Oficial del Estado de fecha 25 de agosto de 1995;
-
-> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2012)</small>
-
-XXXII.- Terapia conductual: consiste en enseñar al paciente a emitir respuestas adaptativas ante los estímulos que les provocan respuestas inadaptadas, bien sea con un desaprendizaje o extinción de la conducta inadecuada, bien sea aprendiendo un comportamiento más adecuado.
+XXXI.- Terapia conductual: Consiste en enseñar al paciente a emitir respuestas adaptativas ante los estímulos que les provocan respuestas inadaptadas, bien sea con un desaprendizaje o extinción de la conducta inadecuada, bien sea aprendiendo un comportamiento más adecuado.
 
 ### CAPÍTULO II. DERECHOS DE LAS PERSONAS CON DISCAPACIDAD
 
@@ -203,9 +199,11 @@ XXXII.- Terapia conductual: consiste en enseñar al paciente a emitir respuestas
 
 Las personas con discapacidad gozarán de todos los derechos inherentes al ser humano, así como los establecidos en el marco jurídico nacional e internacional, por lo que cualquier distinción, exclusión o restricción por motivos de discapacidad que tenga el propósito o el efecto de obstaculizar o dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de condiciones, de todos los derechos humanos y libertades fundamentales en los ámbitos político, económico, social, cultural, civil o de otro tipo, será considerada discriminación por motivo de discapacidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 5.
 
-Ade más (sic) de lo establecido en el artículo anterior, esta Ley reconoce y protege los siguientes derechos:
+Además de lo establecido en el artículo anterior, esta Ley reconoce y protege los siguientes derechos:
 
 > <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
 
@@ -231,9 +229,9 @@ VIII. Ser sujeto de un programa para contar con una vivienda digna y accesible a
 
 IX. Contar con atención igual y trato equitativo;
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
 
-X. A la implementación del Diseño Universal, para la accesibilidad en condiciones dignas y seguras en los espacios públicos abiertos o cerrados, de cualquier índole, acompañados de los elementos de asistencia necesarios;
+X.- A la implementación del Diseño Universal de accesibilidad a fin de contar con las facilidades necesarias de acceso y desplazamiento en el interior de espacios laborales, comerciales y recreativos, así como en transportes públicos, incluido el uso de ayudas técnicas, perros de asistencia u otros apoyos;
 
 XI. Tener fácil acceso a la información y atención de las dependencias del estado; y
 
@@ -367,9 +365,13 @@ XI. Impulsar programas específicos de apoyo a la familia cuidadora, para que pu
 
 XII. Establecer los convenios de coordinación con las Organizaciones de la Sociedad Civil que tengan por objeto la atención de las discapacidades, cuando no pueda proveer el servicio demandado por la ciudadanía y requiera canalizar a personas con discapacidad para su debida atención;
 
-> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
 
-XIII. Las demás que resulten de la aplicación de la presente Ley y demás ordenamientos legales aplicables a la materia.
+XIII.- Brindar información sobre los centros especializados en el adiestramiento de perros de asistencia, nacionales o extranjeros, a las personas con discapacidad que así lo requieran; y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2016)</small>
+
+XIV.- Las demás que resulten de la aplicación de la presente Ley y demás ordenamientos legales aplicables a la materia.
 
 > <small>(ADICIONADO, P.O. 6 DE ENERO DE 2012)</small>
 
@@ -667,7 +669,7 @@ I.- Elaborar el Padrón Estatal de Personas con Discapacidad, que contabilice la
 
 II.- Contar con un registro de las organizaciones civiles de rehabilitación, productivas, educativas, de capacitación, de beneficencia, asistencia, gremiales, sindicales que desempeñen actividades de asistencia social en beneficio de las personas con discapacidad;
 
-III.- Mantener actualizados los datos de registros de las personas con discapacidad en el Sistema de Información Básica en Materia de Asistencia Social:
+III.- Mantener actualizados los datos de registros de las personas con discapacidad en el Sistema de Información Básica en Materia de Asistencia Social;
 
 > <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
 
@@ -845,7 +847,9 @@ h) Las demás que le confieran esta Ley y otros ordenamientos legales y reglamen
 
 ## TÍTULO TERCERO. DEL CONSEJO CONSULTIVO PARA PERSONAS CON DISCAPACIDAD DEL ESTADO
 
-### CAPÍTULO ÚNICO. DE LOS SERVIDORES PÚBLICOS
+### CAPÍTULO III. DEL ACCESO A ESPACIOS PÚBLICOS A PERSONAS CON DISCAPACIDAD ACOMPAÑADOS DE PERROS DE ASISTENCIA
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 36.
 
@@ -898,6 +902,10 @@ XV. Rendir un informe público anual sobre el cumplimiento de sus objetivos, y
 > <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
 
 XVI. Expedir en tiempo y forma su Reglamento Interno.
+
+### CAPÍTULO ÚNICO. DE LOS SERVIDORES PÚBLICOS
+
+> <small>[N. DE E. ANTES ARTÍCULO 54, P.O. 15 DE JULIO DE 2016.]</small>
 
 ###### ARTÍCULO 38.
 
@@ -1023,19 +1031,113 @@ El Consejo podrá determinar la creación de comisiones, tanto de carácter perm
 
 El Consejo se regirá en lo que hace a su organización, estructura y funcionamiento, además de lo dispuesto por la Ley, por lo que establezca el reglamento que se expida para tal efecto.
 
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2016)</small>
+
+ARTÍCULO 53 BIS.- El Consejo se apoyará del Subcomité Especial de Asistencia Social para Personas con Discapacidad, para la acreditación de perros de asistencia utilizados en el Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 54.
 
-Los servidores públicos de las Dependencias y Entidades mencionados en el artículo 7 fracción I de la presente Ley, deberán de tratar con respeto, dignidad, diligencia, imparcialidad a las personas con discapacidad que acudan a solicitar la intervención en virtud de las funciones establecidas en la presente Ley. Así mismo, deberán de ejercitar los Planes, Programas y Presupuestos realizados conforme a la Ley de Presupuesto aplicable.
+Toda persona con discapacidad tiene derecho al acceso, recorridos y permanencia junto a su perro de asistencia, en los espacios públicos, incluido el transporte público. El acceso del perro de asistencia a los espacios públicos que implique un pago de entrada o peaje, no implicará pago adicional para la persona con discapacidad, salvo que su movilización constituya la prestación de un servicio agregado.
 
-> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2013)</small>
-
-De igual forma las dependencias y entidades a que se refiere el párrafo anterior y que proporcionen servicios al público, destinarán una ventanilla de atención preferente para las personas con discapacidad.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 55.
 
-El incumplimiento a lo establecido en el artículo que antecede, la Persona con discapacidad podrá acudir a la Dirección y Evaluación Gubernamental a interponer el procedimiento Disciplinario Administrativo, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+Los perros de asistencia pueden ser clasificados de la siguiente manera:
+
+I.- Perro guía: Aquel que es adiestrado para guiar a una persona con discapacidad visual o visual y auditiva;
+
+II.- Perro de servicio: Aquel que es adiestrado para prestar ayuda en las actividades de la vida diaria, tanto al entorno privado como al entorno externo, a las personas con una discapacidad física;
+
+III.- Perro de señalización de sonidos: Aquel que es adiestrado para avisar a las personas con discapacidad auditiva de diferentes sonidos e indicarles la fuente de procedencia;
+
+IV.- Perro de aviso: Aquel que es adiestrado para dar una alerta médica a las personas que padecen enfermedades que puedan necesitar su servicio; y
+
+V.- Perro para personas con autismo: Aquel que es adiestrado para cuidar de la integridad física, controlar situaciones de emergencia y guiar a la persona con este tipo de discapacidad.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2016)</small>
+
+###### ARTÍCULO 56.
+
+El Comité reconocerá la acreditación de la condición de perro de asistencia siempre que su usuario demuestre que aquél:
+
+I.- Está entrenado en un centro oficialmente autorizado para la práctica de perros de asistencia;
+
+II.- Cumple la normatividad sanitaria vigente;
+
+III.- Está vinculado a la asistencia o auxilio de la persona que lo usa para los fines previstos en la presente Ley; y
+
+IV.- Contribuye a disminuir los efectos de la discapacidad de su usuario.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2016)</small>
+
+###### ARTÍCULO 57.
+
+El reconocimiento de la condición de perro de asistencia se mantendrá durante toda su vida y sólo perderá dicha condición cuando se presenten las causas que establezca el Reglamento de esta Ley. La pérdida de la condición de perro de asistencia será declarada por el Comité, el cual procederá a la revocación de la acreditación.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2016)</small>
+
+###### ARTÍCULO 58.
+
+Los perros de asistencia serán identificados mediante la colocación, en lugar visible, del distintivo que les otorgue el Comité.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2016)</small>
+
+###### ARTÍCULO 59.
+
+El usuario del perro de asistencia, previo requerimiento, deberá exhibir la identificación expedida por el Comité que lo acredite como la persona autorizada para el uso del mismo, así como la documentación que acredite las condiciones sanitarias siguientes:
+
+I.- Inspección veterinaria anual en la cual se demuestre que el perro de asistencia no padece ninguna enfermedad transmisible al hombre; y
+
+II.- Cartilla de vacunación del perro de asistencia.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2016)</small>
+
+###### ARTÍCULO 60.
+
+El usuario del perro de asistencia no podrá ejercitar los derechos reconocidos en esta Ley, cuando:
+
+I.- Se trate de situaciones de grave peligro inminente para el usuario, para terceras personas o para el propio perro de asistencia;
+
+II.- El animal presente síntomas visibles de enfermedad o heridas que por su tamaño o aspecto supongan un presumible riesgo para las personas; o
+
+III.- Se evidencie la falta de aseo o de atención respecto del animal.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2016)</small>
+
+###### ARTÍCULO 61.
+
+El poseedor de un perro de asistencia deberá cumplir con las obligaciones que señala la normatividad vigente en la materia y, en particular, con las siguientes:
+
+I.- Mantener al perro a su lado, con la correa y arnés que en su caso sea necesario, en los espacios y transportes a que se refiere esta Ley;
+
+II.- Utilizar al perro de asistencia para aquellas funciones para las que fue entrenado, atendiendo siempre a las normas de higiene y seguridad en los lugares públicos, en la medida en que su discapacidad lo permita;
+
+III.- Garantizar el adecuado nivel de bienestar e higiene del perro de asistencia, a efecto de proporcionarle una buena calidad de vida; y
+
+IV.- Tratándose de vehículos de alquiler, mantener al perro de asistencia, preferentemente, en la parte trasera del vehículo, a los pies de la persona con discapacidad. No obstante, se podrán ocupar asientos delanteros, teniendo el perro de asistencia a sus pies, especialmente en los trayectos de largo recorrido.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2016)</small>
+
+###### ARTÍCULO 62.
+
+El incumplimiento de lo dispuesto con relación al libre acceso de personas con discapacidad y sus perros de asistencia a los espacios públicos mencionados, será sancionado en los términos de esta Ley.
 
 ## TÍTULO CUARTO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS
+
+###### ARTÍCULO 63.
+
+Los servidores públicos de las Dependencias y Entidades mencionados en el artículo 7 fracción I de la presente Ley, deberán de tratar con respeto, dignidad, diligencia, imparcialidad a las personas con discapacidad que acudan a solicitar la intervención en virtud de las funciones establecidas en la presente Ley. Así mismo, deberán de ejercitar los Planes, Programas y Presupuestos realizados conforme a la Ley de Presupuesto aplicable.
+
+De igual forma las dependencias y entidades a que se refiere el párrafo anterior y que proporcionen servicios al público, destinarán una ventanilla de atención preferente para las personas con discapacidad.
+
+> <small>[N. DE E. ANTES ARTÍCULO 55, P.O. 15 DE JULIO DE 2016.]</small>
+
+###### ARTÍCULO 64.
+
+El incumplimiento a lo establecido en el artículo que antecede, la Persona con discapacidad podrá acudir a la Dirección y Evaluación Gubernamental a interponer el procedimiento Disciplinario Administrativo, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
 
 ## TRANSITORIOS
 
@@ -1114,3 +1216,11 @@ SEGUNDO: Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado 
 P.O. 20 DE NOVIEMBRE DE 2015.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 15 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 496 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 3, 5 FRACCIÓN X, 8 FRACCIÓN XIII, 54 Y 55, ASÍ COMO LA ADICIÓN DE UNA FRACCIÓN XIV AL ARTÍCULO 8, UN CAPÍTULO III "DEL ACCESO A ESPACIOS PÚBLICOS A PERSONAS CON DISCAPACIDAD ACOMPAÑADOS DE PERROS DE ASISTENCIA" AL TÍTULO TERCERO Y DE LOS ARTÍCULOS 53 BIS, 56, 57, 58, 59, 60, 61 Y 62, SE RECORRE EL TÍTULO CUARTO "DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS", Y DE LOS ARTÍCULOS 63 Y 64, TODOS DE LA LEY DE PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado contará con 90 días naturales posteriores a la publicación de este Decreto a efecto de realizar las adecuaciones reglamentarias y administrativas que resulten necesarias a efecto de instrumentar la acreditación de perros de asistencia.
