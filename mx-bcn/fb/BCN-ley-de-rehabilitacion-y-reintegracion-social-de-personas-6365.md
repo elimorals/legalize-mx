@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-rehabilitacion-y-reintegracion-social-de-personas-6365"
 country: "mx"
 rank: "ley"
 publication_date: "1995-10-13"
-last_updated: "2012-03-16"
+last_updated: "2016-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6365&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY DE REHABILITACION Y REINTEGRACION SOCIAL DE PERSONAS CON PROBLEMAS DE DROGADICCION Y ALCOHOLISMO PARA EL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 28 DE OCTUBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE REHABILITACIÓN Y REINTEGRACIÓN SOCIAL DE PERSONAS CON PROBLEMAS DE DROGADICCIÓN Y ALCOHOLISMO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 13 de octubre de 1995.
 
@@ -49,6 +51,44 @@ La presente Ley es de Orden Público y de interés social, su objeto es regular 
 
 El Estado y la Sociedad asumen la tarea de brindar oportunidades de rehabilitación y reintegración a la vida productiva a personas con problemas de drogadicción y alcoholismo, mediante la creación de centros de rehabilitación y capacitación que otorguen tratamiento y atiendan los aspectos físicos, mentales y sociales en forma conjunta cuando sea posible, con los padres, tutores, cónyuges, hijos o quienes mantengan lazos firmes de la unión con el drogadicto o alcohólico.
 
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2016)</small>
+
+ARTICULO 2 BIS.- Para los efectos de la presente ley se entiende por:
+
+I.- Adicción o dependencia: Conjunto de fenómenos del comportamiento, cognoscitivos y fisiológicos, que se desarrollan luego del consumo repetido de una sustancia psicoactiva;
+
+II.- Adicto o farmacodependiente: Persona con dependencia a una o más sustancias psicoactivas.
+
+III.- Adicto en recuperación: Persona que ha dejado de utilizar sustancias psicoactivas y está en un proceso de reinserción social.
+
+IV.- Alcoholismo: Síndrome de dependencia o adicción al alcohol etílico.
+
+V.- Centro de rehabilitación: Lugar público, social o privado, cualquiera que sea su denominación, fijo o móvil, en el que se presten servicios de prevención, tratamiento y rehabilitación a personas con problemas de adicción;
+
+VI.- Droga: Cualquier sustancia natural o artificial que, introducida dentro del organismo humano, pueda modificar una o más funciones de la persona, la percepción de la realidad así como su capacidad volitiva y sea capaz de generar adicción o dependencia e implique efectos nocivos para la salud y el bienestar individual o social;
+
+VII.- Prevención: Conjunto de actuaciones dirigidas a eliminar o modificar los factores de riesgo asociados al consumo de drogas o a otras conductas adictivas, con la finalidad de evitar que éstas se produzcan, se retrase su inicio, o bien que no se conviertan en un problema para la persona o su entorno social;
+
+VIII.- Rehabilitación del adicto: Proceso por el cual un individuo con un trastorno de uso de sustancias psicoactivas alcanza un estado óptimo de salud, funcionamiento psicológico y bienestar social.
+
+IX.- Reinserción social: Conjunto de acciones dirigidas a promover un estilo de vida mejor al de quien usa, abusa o depende de sustancias psicoactivas, y a lograr un mejor funcionamiento interpersonal y social.
+
+X.- Tratamiento: Todas aquellas medidas dirigidas a dar cobertura sanitaria, psicológica y social a las personas afectadas por adicciones, como consecuencia del uso o abuso de sustancias, las actividades o los instrumentos descritos en los apartados anteriores, y que incluye:
+
+a) Asistencia: Parte del proceso de atención orientada a la desintoxicación y tratamiento de trastornos físicos y psicológicos causados por el consumo o que están asociados al mismo, que incluye todos los tratamientos que permitan una mejora de las condiciones de vida de los pacientes. En la asistencia se incluyen los procesos de desintoxicación, deshabituación, reducción de riesgos, reducción de daños y los programas libres de drogas.
+
+b) Desintoxicación: Proceso terapéutico que tiene como objetivo la interrupción de la intoxicación producida por una sustancia psicoactiva exógena al organismo humano.
+
+c) Deshabituación: Conjunto de técnicas terapéuticas encaminadas al aprendizaje de estrategias que permitan enfrentarse a los factores de riesgo asociados al trastorno adictivo, con el objetivo final de controlar su dependencia.
+
+d) Reducción de riesgos: Estrategias de intervención orientadas a modificar las conductas susceptibles de aumentar los efectos especialmente graves para la salud asociados al uso de drogas o productos que generen conductas adictivas.
+
+e) Reducción de daños: Estrategias de intervención dirigidas a disminuir los efectos especialmente negativos que pueden producir algunas formas de uso de drogas, o las patologías asociadas.
+
+f) Rehabilitación: Es la fase de la atención terapéutica que se orienta a la recuperación o al aprendizaje de estrategias y comportamientos que permitan o faciliten la incorporación y convivencia social.
+
+g) Incorporación social: Proceso de inserción o reinserción de la persona que padece una drogodependencia u otra adicción, en el medio familiar, social, educativo y laboral con unas condiciones que le permitan llevar una vida autónoma y responsable en igualdad de condiciones que el resto de ciudadanos.
+
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 3.
@@ -58,6 +98,26 @@ La presente Ley, tiene su fundamento en los artículos 106 de la Constitución P
 ###### ARTICULO 4.
 
 Las disposiciones de esta Ley se aplicarán sin perjuicio de las contenidas en otras leyes sobre cuestiones específicas que se relacionan con las materias que regula este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2016)</small>
+
+ARTICULO 4 BIS.- Los usuarios de los servicios y centros públicos y privados relacionados con las adicciones tienen los derechos siguientes:
+
+I.- A la información y acceso sobre los servicios a los que la persona se pueda adherir considerando en cada momento, los requisitos y exigencias que plantea su tratamiento;
+
+II.- A la confidencialidad;
+
+III.- A recibir un tratamiento integral adecuado desde un centro autorizado;
+
+IV.- A la voluntariedad para iniciar y acabar un tratamiento, salvo los casos en que éste sea obligatorio por orden de autoridad competente, por prescripción médica o por autorización de algún familiar bajo su estricta responsabilidad;
+
+V.- A la información completa y comprensible sobre el proceso de tratamiento que sigue, así como a recibir informe por escrito sobre su situación y el tratamiento que ha seguido o está siguiendo;
+
+VI.- A la igualdad de acceso a los dispositivos asistenciales;
+
+VII.- Al respeto de su personalidad, dignidad e intimidad, sin que se les pueda discriminar por ninguna causa; y
+
+VIII.- Los demás que establezca la presente ley y la normatividad aplicable.
 
 > <small>(REFORMADO, P.O. 21 DE ENERO DE 2000)</small>
 
@@ -394,3 +454,9 @@ P.O. 16 DE MARZO DE 2012
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 15 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 500 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE LOS ARTÍCULOS 2 BIS Y 4 BIS DE LA LEY DE REHABILITACIÓN Y REINTEGRACIÓN SOCIAL DE PERSONAS CON PROBLEMAS DE DROGADICCIÓN Y ALCOHOLISMO PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente adición entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
