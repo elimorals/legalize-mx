@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-cultura-del-estado-9051
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-05"
-last_updated: "2014-03-26"
+last_updated: "2016-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90517&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE CULTURA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA TERCERA DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE CULTURA, PUBLICADO EN EL P.O. DE 15 DE JULIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2016. (ABROGADA).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2012.
 
@@ -938,3 +940,21 @@ TERCERA. Se derogan todas las disposiciones normativas de igual o menor rango je
 CUARTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; y en los artículos 6, fracción XXXV, y 24, fracción I, del Reglamento Interior de la Secretaría de Gobierno; la Secretaría de Cultura del Poder Ejecutivo Estatal, dentro del plazo de diez días hábiles a que hace referencia la Disposición Primera Transitoria para la entrada en vigor del presente Instrumento, debe informar a la diversa Secretaría de Gobierno, los cambios de denominación y supresión de las unidades administrativas de aquella, sufridos en virtud de este Decreto, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los funcionarios y servidores públicos titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
 
 QUINTA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, la Secretaría de Cultura del Poder Ejecutivo Estatal, deberá realizar los trámites correspondientes para la identificación y asignación de plazas ante la diversa Secretaría de Administración, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
+
+P.O. 15 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE CULTURA”.]
+
+PRIMERA. El presente Reglamento iniciará su vigencia a los 10 días hábiles siguientes a la fecha de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Dentro de un plazo de 60 días hábiles, contados a partir de la entrada en vigor del presente Reglamento, la Secretaría de Cultura deberá actualizar los Manuales Administrativos, descriptivos de puestos y demás instrumentos administrativos que correspondan.
+
+TERCERA. Se abroga el Reglamento Interior de la Secretaría de Cultura, publicado en el Periódico Oficial "Tierra y Libertad" número 5048, de fecha 05 de diciembre de 2012, así como se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente instrumento.
+
+CUARTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; y en los artículos 11, fracción XXXV, y 18, fracción XXVI, del Reglamento Interior de la Secretaría de Gobierno; la Secretaría de Cultura, dentro del plazo de 10 días hábiles, contados a la entrada en vigor del presente instrumento, deberá informar a la diversa Secretaría de Gobierno del Poder Ejecutivo Estatal, los cambios de denominación y supresión de las Unidades Administrativas de aquella, sufridos por virtud del presente Reglamento, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los funcionarios y servidores públicos titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+QUINTA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, la Secretaría de Cultura, deberá realizar los trámites correspondientes para la identificación y asignación de plazas ante la diversa Secretaría de Administración, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
+
+SEXTA. Los asuntos que se encuentren en trámite a la entrada en vigor de este Reglamento a cargo de las Unidades Administrativas cuya denominación se modifica o cambia de adscripción, o en su caso, se suprimen, serán continuados en su tramitación por la Unidad Administrativa que corresponda, sin perjuicio de lo señalado en las disposiciones transitorias anteriores.
+
+SÉPTIMA. Los conflictos que se susciten por la aplicación e interpretación del presente Reglamento, serán resueltos por la persona titular de la Secretaría de Cultura.
