@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-para-el-uso-y-aprovechamiento-del-derecho-de-via-298
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-09-13"
-last_updated: "1999-09-13"
+last_updated: "2016-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO PARA EL USO Y APROVECHAMIENTO DEL DERECHO DE VIA DE CARRETERAS ESTATALES Y ZONAS LATERALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE JULIO DE 2016.
 
 Reglamento publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 13 de septiembre de 1999.
 
@@ -221,9 +221,11 @@ Tratándose de obras que por su complejidad, trascendencia y alto riesgo en su p
 
 Cuando la solicitud carezca de algún requisito o no se adjunten los documentos respectivos, la Junta requerirá al interesado para que en un plazo de tres días hábiles corrija o complete la solicitud, o exhiba los documentos omitidos, apercibiéndolo que de no hacerlo, se tendrá por no presentada la solicitud.
 
+> <small>(REFORMADO, G.G. 15 DE JULIO DE 2016)</small>
+
 ###### ARTICULO 12.
 
-La Junta dará respuesta a las solicitudes recibidas dentro del plazo de treinta días hábiles contados a partir del día siguiente al en que se presente la solicitud. Cuando se requiera al interesado para que cumpla con los requisitos omitidos o proporcione los documentos necesarios para resolver, el plazo comenzará a correr desde que el requerimiento haya sido cumplido.
+La Junta dará respuesta a las solicitudes recibidas dentro del plazo de quince días hábiles contados a partir del día siguiente al en que se presente la solicitud. Cuando se requiera al interesado para que cumpla con los requisitos omitidos o proporcione los documentos necesarios para resolver, el plazo comenzará a correr desde que el requerimiento haya sido cumplido.
 
 ###### ARTICULO 13.
 
@@ -616,3 +618,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. ARTURO UGALDE MENESES
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 15 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL EJECUTIVO DEL ESTADO POR EL QUE SE REFORMA EL ARTÍCULO 12 DEL REGLAMENTO PARA EL USO Y APROVECHAMIENTO DEL DERECHO DE VÍA DE CARRETERAS ESTATALES Y ZONAS LATERALES".]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Acuerdo.
