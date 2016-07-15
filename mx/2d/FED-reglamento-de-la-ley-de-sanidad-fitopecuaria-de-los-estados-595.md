@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-sanidad-fitopecuaria-de-los-estados-595
 country: "mx"
 rank: "reglamento"
 publication_date: "1980-01-18"
-last_updated: "1980-01-18"
+last_updated: "2016-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=595&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1979-12-31"
 
 REGLAMENTO DE LA LEY DE SANIDAD FITOPECUARIA DE LOS ESTADOS UNIDOS MEXICANOS. EN MATERIA DE SANIDAD VEGETAL
 
-TEXTO ORIGINAL.
+[N. D E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY FEDERAL DE SANIDAD VEGETAL, PUBLICADO EN LA EDICIÓN VESPERTINA DEL D.O.F. DE 15 DE JULIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JULIO DE 2016 (ABROGADA).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 18 de enero de 1980.
 
@@ -2176,3 +2178,65 @@ PRIMERO.- El presente reglamento entrará en vigor a partir del día siguiente d
 SEGUNDO.- Se abroga el Reglamento de Policía Sanitaria Agrícola del 5 de julio de 1927, publicado en el "Diario Oficial" de la Federación del 16 de julio del mismo año, quedando derogadas todas las disposiciones en materia de sanidad vegetal en lo que se opongan al Reglamento.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, siendo los treinta días del mes de diciembre de mil novecientos setenta y nueve.-José López Portillo.- Rúbrica.- El Secretario de Agricultura y Recursos Hidráulicos, Francisco Merino Rábago.- Rúbrica.-El Secretario de Salubridad y Asistencia, Emilio Martínez Manautou.- Rúbrica.- El Secretario de comercio, Jorge de la Vega Domínguez.- Rúbrica.- El Secretario de Hacienda y Crédito Público, David Ibarra Muñoz.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Emilio Mújica Montoya.- Rúbrica.- El Secretario de Gobernación, Enrique Olivares Santana.- Rúbrica.- El Secretario de Relaciones Exteriores, Jorge Castañeda.- Rúbrica.- El Secretario de Patrimonio y Fomento Industrial, José Andrés Oteyza.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 15 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL " REGLAMENTO DE LA LEY FEDERAL DE SANIDAD VEGETAL”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de la Ley de Sanidad Fitopecuaria de los Estados Unidos Mexicanos en Materia de Sanidad Vegetal publicado el 18 de enero de 1980 en el Diario Oficial de la Federación y se derogan todas las disposiciones administrativas que se opongan al presente Reglamento.
+
+TERCERO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Reglamento deberán cubrirse con cargo al presupuesto aprobado a las dependencias y entidades de la Administración Pública Federal, en el Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente.
+
+CUARTO. El reconocimiento de puntos de Inspección internacional con que cuenten los particulares a la fecha de entrada en vigor del presente Reglamento, tendrán (sic) vigencia hasta el vencimiento de su autorización, y su renovación deberá ajustarse a las disposiciones señaladas en este ordenamiento.
+
+QUINTO. Se otorgará un plazo de un año a partir de la fecha de entrada en vigor del presente Reglamento, para que todos los puntos de Inspección y sus actividades relacionadas con la importación, se ubiquen y realicen en territorio nacional.
+
+SEXTO. Continuará la vigencia de las autorizaciones y Aprobaciones otorgadas por la Secretaría a las personas físicas o morales expedidas con anterioridad a la fecha de entrada en vigor de este Reglamento.
+
+SÉPTIMO. Las personas físicas y morales autorizadas como Terceros Especialistas en materias de Sistemas de Reducción de Riesgos de Contaminación en la Producción Primaria de los Vegetales previamente a la fecha de entrada en vigor del presente Reglamento, podrán realizar las actividades de Verificación y Certificación por un plazo de dos años contado a partir de la fecha de entrada en vigor de este ordenamiento, por lo que una vez terminado dicho periodo los Terceros Especialistas sólo podrán realizar la evaluación de la conformidad estando adscritos a un Organismo de Certificación, Unidad de Verificación o Laboratorio de Pruebas, conforme a la Ley Federal sobre Metrología y Normalización.
+
+OCTAVO. Los Puntos de Verificación Interna que se encuentren en operación mantendrán la vigencia de su autorización hasta su vencimiento, al término del cual deberán sujetarse a los términos previstos en el presente Reglamento para fines de la renovación de la autorización que en su caso se solicite.
+
+NOVENO. En tanto la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación emite los requisitos fitosanitarios específicos correspondientes para la importación de tubérculos de papa para consumo y procesamiento, se aplicará lo dispuesto en el artículo 55, apartado A, fracciones XX a XXXI del presente Reglamento, además de las siguientes:
+
+I. El Embarque será producido comercialmente a partir de semillas certificadas, para ello se deberá proporcionar en los Puntos de Entrada del país una copia de la declaración basada en las declaraciones de los productores y documentos de apoyo que se haya presentado a la autoridad fitosanitaria del País de Origen, misma que deberá indicar que las papas en el cargamento fueron producidas directamente a partir de semillas de papa certificada;
+
+II. Los Embarques estén en paquetes de 9.09 kg (20 libras) o menos;
+
+III. Las especificaciones para el cumplimiento de las Medidas Fitosanitarias a que se refiere este transitorio, incluyendo la lista de Plagas Cuarentenarias específicas se establecerá en un Plan de Trabajo Binacional suscrito entre la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación a través del Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria y la autoridad fitosanitaria competente del País de Origen;
+
+IV. Las papas frescas para procesamiento de todos los países son elegibles para importar a México siempre y cuando las papas cumplan con todos los requisitos señalados para las papas frescas para consumo con las excepciones siguientes:
+
+a) Los Embarques no requieren estar en paquetes al consumidor del tamaño de 9.09 kg. o menos;
+
+b) Los Embarques no requieren Tratamiento con el inhibidor de la germinación, y
+
+c) Los Embarques no requieren ser lavados pero deben estar libres de suelo.
+
+Además, la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación establecerá criterios específicos que deberán cumplir los importadores de papa para el procesamiento o uso industrial a fin de asegurar el destino final del producto;
+
+V. Los destinos de los Embarques más allá del kilómetro 26 de la línea fronteriza estén limitados a municipios en México y Ciudad de México de una población superior a 100,000 habitantes;
+
+VI. Las papas deben ser lavadas y recibir un Tratamiento para inhibir la germinación, para estos efectos, además se deberá realizar lo siguiente:
+
+a) Las papas deberán ser tratadas con un inhibidor de la germinación en la línea de empaque dos semanas después de haber sido cosechadas de acuerdo con las restricciones de la etiqueta y el uso correcto del producto;
+
+b) Las papas almacenadas menos de tres meses deberán ser tratadas con inhibidor de la germinación en el almacén o en la línea de empaque;
+
+c) Las papas almacenadas de tres a cinco meses, deberán ser tratadas dos veces en el almacén y nuevamente en la línea de empaque, y
+
+d) Una aplicación final del inhibidor de la germinación se realizará después que las papas han sido lavadas. El importador deberá presentar al Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria copia de la documentación comprobatoria que el exportador haya entregado al certificador, tales como, la declaración de productor y registros de la empacadora que demuestre que las papas han sido tratadas correctamente con el inhibidor de la germinación para cada aplicación requerida;
+
+VII. Para efectos de la Inspección, cinco papas de cada paquete se cortarán y se examinarán para detectar síntomas internos y los signos de bacterias, nematodos e insectos, y
+
+VIII. La certificación fitosanitaria que emita el País de Origen deberá avalar que los Embarques cumplen con las Inspecciones fitosanitarias correspondientes, así como con los requisitos fitosanitarios de importación, señalando en su declaración adicional el tipo de Plaga de la que se encuentra libre la mercancía; el área reglamentada para dicha Plaga o Plagas, de ser el caso, y que se cumple con el Plan de Trabajo Binacional a que se refiere la fracción III de este transitorio.
+
+DÉCIMO. La Secretaría tendrá un plazo de hasta seis meses contados a partir de la publicación del presente Reglamento para expedir las Disposiciones Legales Aplicables en el ámbito de su competencia y que deriven de este ordenamiento.
+
+La Secretaría tendrá un plazo de hasta doce meses contados a partir de la entrada en vigor del presente Reglamento, para emitir los acuerdos y disposiciones para el reconocimiento o certificación de Sistemas de Reducción de Riesgos de Contaminación en la Producción Primaria de Vegetales, que incluirá el reconocimiento de buen uso y manejo de Plaguicidas en la Producción Primaria de Vegetales, el reconocimiento de Buenas Prácticas Agrícolas de la actividad de cosecha en la Producción Primaria de Vegetales y las reglas generales para el uso del distintivo de Sistemas de Reducción de Riesgos de Contaminación.
+
+DÉCIMO PRIMERO. El Consejo Nacional Consultivo Fitosanitario deberá quedar instalado a los ciento ochenta días siguientes a la entrada en vigor del presente Reglamento. La designación del primer presidente y secretario técnico de este Consejo corresponderá a su Junta Directiva, que a la fecha de publicación del presente Reglamento en el Diario Oficial de la Federación se encuentre en operación.
