@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-21-2016-del-pleno-del-consejo-de-la-114782"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-05-24"
-last_updated: "2016-05-24"
+last_updated: "2016-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114782&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-05-16"
 
 ACUERDO GENERAL 21/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO DÉCIMO SEGUNDO DE DISTRITO EN EL ESTADO DE TAMAULIPAS, CON RESIDENCIA EN CIUDAD VICTORIA; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO, DE LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JULIO DE 2016.
 
 Acuerdo publicado en la primera sección del Diario Oficial de la Federación, el martes 24 de mayo de 2016.
 
@@ -55,17 +55,21 @@ Su domicilio estará en Boulevard Tamaulipas, No. 1626, Colonia Periodistas, có
 
 Toda la correspondencia y trámites relacionados con los asuntos de la competencia del órgano jurisdiccional de que se trata, deberán dirigirse y realizarse en el domicilio indicado.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 41/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE JULIO DE 2016)</small>
+
 ###### Artículo 2.
 
-El dieciséis de julio de dos mil dieciséis, iniciará funciones el Juzgado Décimo Segundo de Distrito en el Estado de Tamaulipas, con residencia en Ciudad Victoria, con la plantilla autorizada para ese órgano jurisdiccional.
+El dieciséis de agosto de dos mil dieciséis, iniciará funciones el Juzgado Décimo Segundo de Distrito en el Estado de Tamaulipas, con residencia en Ciudad Victoria, con la plantilla autorizada para ese órgano jurisdiccional.
 
 ###### Artículo 3.
 
 Desde la fecha señalada en el artículo 2 del presente Acuerdo, la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Tamaulipas, con residencia en Ciudad Victoria, prestará servicio también al órgano jurisdiccional de que se trata.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 41/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE JULIO DE 2016)</small>
+
 ###### Artículo 4.
 
-Durante el periodo que comprenderá del dieciséis al treinta y uno de julio de dos mil dieciséis, los nuevos asuntos que se presenten en la Oficina de Correspondencia Común en días y horas hábiles, se remitirán al Juzgado Décimo Segundo de Distrito en el Estado de Tamaulipas a través del sistema computarizado que se utiliza para esos efectos, con excepción de los asuntos relacionados los cuales serán turnados al órgano respectivo que cuente con los antecedentes conforme a lo dispuesto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales.
+Durante el periodo que comprenderá del dieciséis al treinta y uno de agosto de dos mil dieciséis, los nuevos asuntos que se presenten en la Oficina de Correspondencia Común en días y horas hábiles, se remitirán al Juzgado Décimo Segundo de Distrito en el Estado de Tamaulipas a través del sistema computarizado que se utiliza para esos efectos, con excepción de los asuntos relacionados los cuales serán turnados al órgano respectivo que cuente con los antecedentes conforme a lo dispuesto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales.
 
 Para la recepción de asuntos urgentes que se reciban en días y horas inhábiles durante el periodo de exclusión de turno señalado, se estará a lo indicado en el calendario del rol de turnos vigente durante dicho periodo, de conformidad con el artículo transitorio TERCERO del presente Acuerdo.
 
@@ -99,33 +103,41 @@ El Pleno del Consejo de la Judicatura Federal y las Comisiones de Creación de N
 
 ## TRANSITORIOS
 
-PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de julio de dos mil dieciséis, con excepción de lo previsto en el transitorio CUARTO, el cual iniciará su vigencia a partir de la aprobación del mismo.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 41/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE JULIO DE 2016)</small>
+
+PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de agosto de dos mil dieciséis, con excepción de lo previsto en los transitorios TERCERO, que lo hará el primero de agosto de dos mil dieciséis; y CUARTO, cuya vigencia iniciará a partir de la aprobación del mismo.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Se modifica el rol de guardias en días y horas inhábiles de los Juzgados de Distrito en el Estado de Tamaulipas, con residencia en Ciudad Victoria, para quedar como sigue:
 
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 41/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE JULIO DE 2016)</small>
+
 ORDEN DEL TURNO DE LA GUARDIA PARA RECIBIR ASUNTOS URGENTES EN DÍAS Y HORAS INHÁBILES EN LOS JUZGADOS DE DISTRITO EN EL ESTADO DE TAMAULIPAS, CON RESIDENCIA EN CIUDAD VICTORIA.
 
-PERIODO DE GUARDIA AÑO 2016 ÓRGANO JURISDICCIONAL AL
+PERIODO DE GUARDIA AÑO 2016 ÓRGANO JURISDICCIONAL AL QUE
 
-QUE CORRESPONDE LA GUARDIA
+CORRESPONDE LA GUARDIA
 
-Del 11 al 18 de julio. Juzgado Primero
+Del 1 al 8 de agosto Juzgado Primero
 
-Del 18 al 25 de julio. Juzgado Segundo
+Del 8 al 15 de agosto Juzgado Segundo
 
-Del 25 de julio al 1 de agosto. Juzgado Décimo Primero
+Del 15 al 22 de agosto. Juzgado Decimoprimero
 
-Del 1 al 8 de agosto. Juzgado Décimo Segundo
+Del 22 al 29 de agosto. Juzgado Decimosegundo
 
-Del 8 al 15 de agosto. Juzgado Primero
+Del 29 de agosto al 5 de septiembre. Juzgado Primero
 
-Del 15 al 22 de agosto. Juzgado Segundo
+Del 5 al 12 de septiembre. Juzgado Segundo
 
-Del 22 al 29 de agosto. Juzgado Décimo Primero
+Del 12 al 19 de septiembre. Juzgado Decimoprimero
 
-Del 29 de agosto al 5 de septiembre. Juzgado Décimo Segundo
+Del 19 al 26 de septiembre. Juzgado Decimosegundo
+
+Del 26 de septiembre al 3 de octubre. Juzgado Primero
+
+Del 3 al 10 de octubre Juzgado Segundo
 
 Y así, sucesivamente conforme al orden establecido.
 
@@ -134,3 +146,13 @@ El Juzgado de Distrito que se encuentre de guardia deberá informar a la oficina
 CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 21/2016, del Pleno del Consejo de la Judicatura Federal, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funciones del Juzgado Décimo Segundo de Distrito en el Estado de Tamaulipas, con residencia en Ciudad Victoria; así como a las reglas de turno, sistema de recepción, registro y distribución de asuntos entre los juzgados de Distrito, de la entidad federativa y residencia indicados, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de veinte de abril de dos mil dieciséis, por unanimidad de votos de los señores Consejeros: Presidente Ministro Luis María Aguilar Morales, Felipe Borrego Estrada, Rosa Elena González Tirado, Martha María del Carmen Hernández Álvarez, Alfonso Pérez Daza, Manuel Ernesto Saloma Vera y J. Guadalupe Tafoya Hernández.- Ciudad de México, a dieciséis de mayo de dos mil dieciséis.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 15 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 41/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 21/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO DÉCIMO SEGUNDO DE DISTRITO EN EL ESTADO DE TAMAULIPAS, CON RESIDENCIA EN CIUDAD VICTORIA, ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO, DE LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
