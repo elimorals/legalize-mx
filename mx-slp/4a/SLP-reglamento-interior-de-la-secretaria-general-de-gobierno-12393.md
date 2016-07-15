@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-secretaria-general-de-gobierno-12393"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-01-23"
-last_updated: "2015-03-07"
+last_updated: "2016-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2016.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de San Luis Potosí, el viernes 23 de enero de 1998.
 
@@ -222,6 +222,10 @@ III.- Desempeñar las comisiones que el Secretario les encomiende y representar 
 IV.- Coordinar con otros servidores públicos de la Secretaría las labores que les hayan sido encomendadas;
 
 V.- Suscribir los documentos relativos al ejercicio de sus atribuciones, así como los concernientes a los asuntos que les sean delegados o les correspondan por suplencia;
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2016)</small>
+
+El Subsecretario Jurídico y de Servicios, podrá intervenir con la representación jurídica del Gobernador del Estado y del Secretario General de Gobierno, en todos los juicios del orden civil, laboral, amparo, penal, contencioso administrativo, agrario, y en general en todos los negocios en que participen como parte o con cualquier carácter en el que tengan interés jurídico, a saber de manera enunciativa más no limitativa: ejercer representación con el carácter de apoderado legal; firmar en los juicios de amparo, en nombre y representación del Gobernador del Estado y del Secretario General de Gobierno, en ausencia de éstos, los informes previos y justificados que deban rendir cuando sean señalados como autoridades responsables; con facultades para acreditar delegados, rendir pruebas, alegar, realizar promociones y atender requerimientos, e interponer los recursos que procedan; representarlo en todos y cada uno de los medios de control constitucional jurisdiccionales y no jurisdiccionales; proseguir la tramitación de todos los procesos y procedimientos, ofrecer todas las pruebas y medios de convicción a su alcance o que resulten procedentes, intervenir en las audiencias e interponer o hacer valer, los recursos legales o medios de impugnación que procedan y, en general, realizar toda clase de trámites y actuaciones que correspondan para la adecuada defensa de los intereses del Gobernador y del Secretario General de Gobierno.
 
 VI.- Proporcionar, previo acuerdo con el Secretario, la información, los datos o la cooperación que les sean requeridos internamente o por otras dependencias del Ejecutivo del Estado, conforme a las políticas establecidas al respecto;
 
@@ -477,7 +481,9 @@ XVI.- Tramitar los recursos administrativos que competa resolver al Gobernador d
 
 XVII.- Ejecutar los actos jurídicos necesarios para que la Secretaría General de Gobierno, con la asistencia del Procurador General de Justicia, reivindique la propiedad del Estado;
 
-XVIII.- Elaborar, o en su caso, revisar los informes previos y justificados en los juicios de amparo en que el Ejecutivo del Estado sea señalado como autoridad responsable; y presentar éstos en ausencia de aquél, e intervenir como delegado en la tramitación de los juicios de amparo promovidos en contra de actos de cualquiera de las autoridades del Poder Ejecutivo, a excepción de la Procuraduría General de Justicia y de los Tribunales Administrativos;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
+
+XVIII.- Sin distinción a lo consignado en el segundo párrafo de la fracción V, del artículo 8° del presente Reglamento, subscribir, o en su caso, revisar los informes previos y justificados, requerimientos o recursos en los juicios de amparo en los que el Gobernador del Estado y el Secretario General de Gobierno sean señalados como autoridades responsables; y presentar éstos en ausencia de aquellos, e intervenir como delegado en la tramitación de los juicios de amparo promovidos contra de actos de cualquiera de las autoridades del Poder Ejecutivo, a excepción de la Procuraduría General de Justicia y de los Tribunales Administrativos; y en ausencia el Subsecretario Jurídico y de Servicios, ejercer las facultades contenidas en el segundo párrafo de la fracción V, del artículo 8° del presente Reglamento.
 
 XIX.- Participar en la formulación del Programa Operativo Anual de la Secretaría y aportar la información conducente;
 
@@ -595,7 +601,7 @@ ARTICULO 21 BIS.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INT
 
 > <small>(ADICIONADO, P.O. 21 DE ENERO DE 2013)</small>
 
-ARTICULO 21 TER. Compete a la Dirección Asuntos (sic) de Coordinación Interinstitucional y Seguimiento de Programas:
+ARTICULO 21 TER. Compete a la Dirección (sic) Asuntos de Coordinación Interinstitucional y Seguimiento de Programas:
 
 I. Colaborar en la conducción y coordinación de las relaciones que competen al Secretario con los Poderes Estatales y Federales y con Instituciones políticas;
 
@@ -1071,4 +1077,12 @@ Tercero. Realícense las gestiones administrativas necesarias para que se lleve 
 
 P.O. 7 DE MARZO DE 2015.
 
-Primero (sic). El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JULIO DE 2016.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE “SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN V DEL ARTÍCULO 8 °, Y SE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 16, DEL REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO”.]</small>
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+Segundo. Se abrogan todas aquellas disposiciones que se opongan al presente decreto administrativo.
