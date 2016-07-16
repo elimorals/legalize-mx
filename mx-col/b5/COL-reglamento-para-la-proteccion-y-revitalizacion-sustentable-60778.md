@@ -4,7 +4,7 @@ identifier: "COL-reglamento-para-la-proteccion-y-revitalizacion-sustentable-6077
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-12"
-last_updated: "2008-04-12"
+last_updated: "2016-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # REGLAMENTO PARA LA PROTECCION Y REVITALIZACION SUSTENTABLE DE INMUEBLES EN EL CENTRO HISTORICO DE LA CIUDAD DE COLIMA
 
-REGLAMENTO PARA LA PROTECCION Y REVITALIZACION SUSTENTABLE DE INMUEBLES EN EL CENTRO HISTORICO DE LA CIUDAD DE COLIMA
+REGLAMENTO PARA LA PROTECCIÓN Y REVITALIZACIÓN SUSTENTABLE DE INMUEBLES EN EL CENTRO HISTÓRICO DE LA CIUDAD DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2016.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 12 de abril de 2008.
 
@@ -31,7 +31,7 @@ El L.E. MARIO ANGUIANO MORENO, Presidente Municipal de Colima, con las facultade
 
 Que en Sesión Extraordinaria celebrada el 7 de marzo de 2008, el Honorable Cabildo Municipal de Colima aprobó por unanimidad el siguiente:
 
-CONSIDERANDO:.
+CONSIDERANDO:...
 
 Por lo antes expuesto y fundado, esta Comisión de Gobernación y Reglamentos, tiene a bien someter a consideración de este H. Cabildo el siguiente:
 
@@ -249,7 +249,7 @@ g. Representante del Colegio de Ingenieros Civiles del Estado de Colima;
 
 h. Representante de la Universidad de Colima;
 
-i. Representante del Tecnológico de Colima; y (sic)
+i. Representante del Tecnológico de Colima; y
 
 j. Cronista del Municipio.
 
@@ -425,9 +425,9 @@ En caso de que por cualquier medio la Dirección General de Desarrollo Urbano se
 
 I.- Notificará al propietario o poseedor del inmueble de su obligación de realizar las obras de mantenimiento o restauración en el mismo, señalándole en forma específica en qué consisten éstas, informándole a la vez de los apoyos que se tienen para ello, debiendo acordar con el Consejo Técnico de la Junta el proyecto y su calendario, mismos que les ayudará a realizar en un plazo de 15 días naturales, y su ejecución se deberá sujetar al calendario convenido entre las partes.
 
-II.- Transcurrido el plazo acordado en la fracción anterior, sin que se hubieren efectuado las obras señaladas, o que en su caso, se haya negado el propietario o poseedor a concertar los acuerdos correspondientes, se impondrá una multa de 50 a 100 días de salario mínimo general vigente en el Estado; asimismo se le fijará un plazo de 10 días naturales para firmar un convenio en el que se establezca el nuevo calendario de ejecución de los conceptos de obra pendientes, mismo que deberá respetarse puntualmente.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2016)</small>
 
-De no comparecer a suscribir el convenio a que se refiere el párrafo anterior, o suscrito que sea éste, sin que sean ejecutadas las obras respectivas dentro del plazo acordado en dicho convenio, se impondrá una multa que puede ser hasta de dos veces el monto de la multa originalmente impuesta.
+II.- Transcurrido el plazo acordado en la fracción anterior, sin que se hubieren efectuado las obras señaladas, o que en su caso, se haya negado el propietario o poseedor a concertar los acuerdos correspondientes, se impondrá una multa de 50 a 100 Unidades de Medida y Actualización; asimismo se le fijará un plazo de 10 días naturales para firmar un convenio en el que se establezca el nuevo calendario de ejecución de los conceptos de obra pendientes, mismo que deberá respetarse puntualmente.
 
 ###### Artículo 44.
 
@@ -439,9 +439,9 @@ El Ayuntamiento, para la conservación y mejora de la imagen del Centro Históri
 
 I.- Notificará al propietario o poseedor del inmueble de su obligación de realizar las obras de bardeo en el mismo, informándole a la vez de los apoyos que se tienen para ello, debiendo acordar con el Consejo Técnico de la Junta el proyecto y su calendario, mismos que les ayudará a realizar en un plazo de 15 días naturales, y su ejecución se deberá sujetar al calendario convenido entre las partes.
 
-II.- Transcurrido el plazo acordado en la fracción anterior sin que se hubieren efectuado las obras señaladas, o que en su caso, se haya negado el propietario o poseedor a concertar los acuerdos correspondientes, se impondrá una multa de 200 a 300 días de salario mínimo general vigente en el Estado; asimismo se le fijará un plazo de 10 días naturales para firmar un convenio en el que se establezca el nuevo calendario de ejecución de los conceptos de obra pendientes, mismo que deberá respetarse puntualmente.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2016)</small>
 
-De no comparecer a suscribir el convenio a que se refiere el párrafo anterior, o suscrito que sea éste, sin que sean ejecutadas las obras respectivas dentro del plazo acordado en dicho convenio, se impondrá una multa que puede ser hasta de dos veces el monto de la multa originalmente impuesta.
+II.- Transcurrido el plazo acordado en la fracción anterior sin que se hubieren efectuado las obras señaladas, o que en su caso, se haya negado el propietario o poseedor a concertar los acuerdos correspondientes, se impondrá una multa de 200 a 300 Unidades de Medida y Actualización; asimismo se le fijará un plazo de 10 días naturales para firmar un convenio en el que se establezca el nuevo calendario de ejecución de los conceptos de obra pendientes, mismo que deberá respetarse puntualmente.... (sic)
 
 ###### Artículo 46.
 
@@ -512,3 +512,13 @@ Sexto.- Las autoridades competentes en la aplicación del presente Reglamento, c
 Dado en el Salón de Sesiones de Cabildo del H. Ayuntamiento Constitucional de Colima, en Sesión celebrada el día cuatro del mes de abril de 2008
 
 LIC. MARIO ANGUIANO MORENO, Presidente Municipal. Rúbrica.- LIC. JULIO CÉSAR MARÍN VELÁZQUEZ COTTIER, Secretario del H. Ayuntamiento. Rúbrica.- C.P. JOSÉ ANTONIO OROZCO SANDOVAL, Síndico Municipal. Rúbrica.- REGIDORES: PROFR. NICOLÁS CONTRERAS CORTÉS, Rúbrica.- C. GONZALO VERDUZCO GENIS, Regidor. Rúbrica.- LIC. IGNACIA MOLINA VILLARREAL, Rúbrica. C.P. LEONOR DE LA MORA BEJAR, Rúbrica.- LIC. VÍCTOR JACOBO VÁZQUEZ CERDA, Rúbrica. JOSÉ VERDUZCO MORENO, Rúbrica.- LIC. MARGARITA PADILLA CAMBEROS, Rúbrica.- LIC. ELIA BEATRIZ CÁRDENAS W., Rúbrica.- LIC. PATRICIA LUGO BARRIGA, Rúbrica.- ARQ. MILTON DE ALVA GUTIÉRREZ, Rúbrica.- ING. ARMANDO GONZALEZ MANZO, Rúbrica.-
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE MODIFICA DIVERSOS REGLAMENTOS DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL, RELATIVOS A LA DESINDEXACIÓN DEL SALARIO MINÍMO”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias que se opongan a las modificaciones contenidas en el presente acuerdo
