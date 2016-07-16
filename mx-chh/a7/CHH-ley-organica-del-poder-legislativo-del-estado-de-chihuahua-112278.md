@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2016-01-20"
+last_updated: "2016-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "CHH"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 16 DE JULIO DE 2016, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL PRIMERO DE OCTUBRE DE 2016.]</small>
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 16 DE JULIO DE 2016.]</small>
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -87,9 +87,11 @@ El Congreso del Estado tendrá su sede en la capital del Estado y sesionará en 
 
 Podrá declararse Recinto Oficial cualquier otro lugar, mediante formal Decreto.
 
+> <small>(F. DE E., P.O. 16 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 8.
 
-El Recinto del Congreso es inviolable. La fuerza pública está impedida a tener acceso al mismo, salvo con autorización o a solicitud (sic) quien presida la Mesa Directiva y quedará bajo su mando.
+El Recinto del Congreso es inviolable. La fuerza pública está impedida a tener acceso al mismo, salvo con autorización o a solicitud de quien presida la Mesa Directiva y quedará bajo su mando.
 
 ###### ARTÍCULO 9.
 
@@ -1317,7 +1319,9 @@ X.- Supervisar y, en su caso, hacer efectivo el cumplimiento de las políticas y
 
 XI.- Solicitar a la Secretaría de Administración los apoyos correspondientes para el cumplimiento de las atribuciones conferidas.
 
-XII.- Presentar a la Secretaría de Administración, el proyecto de su presupuesto anual para su validación e inclusión al anteproyecto del Presupuesto (sic) Egresos del Congreso.
+> <small>(F. DE E., P.O. 16 DE JULIO DE 2016)</small>
+
+XII.- Presentar a la Secretaría de Administración, el proyecto de su presupuesto anual para su validación e inclusión al anteproyecto del Presupuesto de Egresos del Congreso.
 
 XIII.- Ejercer el presupuesto asignado, bajo los lineamientos que establezca la Secretaría de Administración.
 
@@ -1373,7 +1377,9 @@ XV.- Integrar los archivos para realizar la entrega-recepción, de los asuntos d
 
 XVI.- Solicitar a la Secretaría de Administración los apoyos correspondientes para el cumplimiento de las atribuciones conferidas.
 
-XVII.- Presentar a la Secretaría de Administración, el proyecto de su presupuesto anual para su validación e inclusión al anteproyecto del Presupuesto (sic) Egresos del Congreso.
+> <small>(F. DE E., P.O. 16 DE JULIO DE 2016)</small>
+
+XVII.- Presentar a la Secretaría de Administración, el proyecto de su presupuesto anual para su validación e inclusión al anteproyecto del Presupuesto de Egresos del Congreso.
 
 XVIII.- Ejercer el presupuesto asignado, bajo los lineamientos que establezca la Secretaría de Administración.
 
@@ -1405,9 +1411,11 @@ V.- No haber sido titular de alguna de las dependencias del Gobierno del Estado,
 
 El desempeño del cargo de Auditor Superior es incompatible con cualquier otro empleo, cargo o comisión de la Federación o de los Entes Fiscalizables, por los cuales se perciba remuneración.
 
+> <small>(F. DE E., P.O. 16 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 135.
 
-No es aplicable lo dispuesto en el párrafo (sic) anterior, a quien ejerza, cuando menos desde dos años antes al día de su designación, actividades docentes en instituciones educativas oficiales de cualquier nivel e instituciones de investigación científica.
+No es aplicable lo dispuesto en el artículo anterior, a quien ejerza, cuando menos desde dos años antes al día de su designación, actividades docentes en instituciones educativas oficiales de cualquier nivel e instituciones de investigación científica.
 
 ### CAPÍTULO VIII. DE LA UNIDAD DE IGUALDAD DE GÉNERO
 
@@ -1441,7 +1449,9 @@ II.- Planear, desarrollar y ejecutar los servicios de investigación, estudio y 
 
 III.- Sistematizar la legislación y reglamentación, histórica y vigente, de la Federación, entidades federativas y municipios, así como tratados internacionales.
 
-IV.- Presentar a la Secretaría de Administración, el proyecto de su presupuesto anual para su validación e inclusión al anteproyecto del Presupuesto (sic) Egresos del Congreso.
+> <small>(F. DE E., P.O. 16 DE JULIO DE 2016)</small>
+
+IV.- Presentar a la Secretaría de Administración, el proyecto de su presupuesto anual para su validación e inclusión al anteproyecto del Presupuesto de Egresos del Congreso.
 
 V.- Ejercer el presupuesto asignado, bajo los lineamientos que establezca la Secretaría de Administración.
 
@@ -1803,9 +1813,11 @@ Si hubiese votos particulares, estos se anexarán al dictamen de que se trate.
 
 Las discusiones de los dictámenes y demás asuntos inherentes a los mismos, se llevarán a cabo en los términos del Reglamento Interior y Prácticas Parlamentarias.
 
+> <small>(F. DE E., P.O. 16 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 192.
 
-En el Reglamento a que se refiere el artículo anterior, deberán quedar expresamente contenidos, por los (sic) menos, los siguientes aspectos:
+En el Reglamento a que se refiere el artículo anterior, deberán quedar expresamente contenidos, por lo menos, los siguientes aspectos:
 
 I.- Se discutirá y será votado primero en lo general, es decir, en su conjunto y en torno a su idea fundamental y, después, en lo particular.
 
@@ -2151,7 +2163,9 @@ IV.- Las donaciones, herencias y legados que se hicieren a su favor.
 
 V.- Los intereses, rentas y demás rendimientos financieros que generen las operaciones que realice.
 
-V (SIC).- Todos los demás ingresos y bienes que le correspondan o adquiera por cualquier otro medio legal.
+> <small>(F. DE E., P.O. 16 DE JULIO DE 2016)</small>
+
+VI.- Todos los demás ingresos y bienes que le correspondan o adquiera por cualquier otro medio legal.
 
 ###### ARTÍCULO 246.
 
