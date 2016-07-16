@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-del-derecho-de-las-mujeres-a-una-vida-libre-de-5427
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-24"
-last_updated: "2016-06-29"
+last_updated: "2016-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2016.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2007.
 
@@ -91,7 +91,7 @@ Las medidas que se deriven de la presente Ley, garantizarán la prevención, la 
 
 Los principios rectores del derecho de las mujeres a una vida libre de violencia, que deberán ser observados en la elaboración y ejecución de las políticas públicas, son:
 
-l. La igualdad jurídica y la equidad entre la mujer y el hombre;
+I. La igualdad jurídica y la equidad entre la mujer y el hombre;
 
 II. El respeto a la dignidad humana de las mujeres;
 
@@ -103,7 +103,7 @@ IV. La libertad y autonomía de las mujeres.
 
 Para los efectos de esta Ley se entiende por:
 
-l. Ley: La Ley Estatal del Derecho de las Mujeres a una Vida Libre de Violencia.
+I. Ley: La Ley Estatal del Derecho de las Mujeres a una Vida Libre de Violencia.
 
 II. Sistema: El Sistema Estatal para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia.
 
@@ -141,7 +141,7 @@ XV. Prevención.- Son aquellas medidas o acciones gubernamentales encaminadas a 
 
 Los tipos de violencia contra las mujeres son:
 
-l. Violencia física: Es cualquier acto que inflige daño a la mujer a través del uso de la fuerza física, sustancias, armas u objetos y que puede provocar lesiones.
+I. Violencia física: Es cualquier acto que inflige daño a la mujer a través del uso de la fuerza física, sustancias, armas u objetos y que puede provocar lesiones.
 
 II. Violencia sexual: Es cualquier acto u omisión que atenta o limita el derecho a la libertad y seguridad sexuales de las mujeres en el ámbito público o privado, independientemente de quien la perpetre.
 
@@ -168,6 +168,10 @@ I. Violencia familiar: Es el acto abusivo de poder u omisión intencional dirigi
 II. Violencia institucional: Son los actos u omisiones de las y los servidores públicos que discriminen o tengan como fin o resultado dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
 
 III. Violencia laboral y docente: Es todo acto u omisión ejercido en abuso de poder por personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica, que daña su autoestima, salud, integridad, libertad y seguridad, impide su desarrollo y atenta contra la igualdad.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2016)</small>
+
+De igual modo, constituye violencia laboral la negativa ilegal a contratar a la víctima, o a respetar su permanencia o condiciones generales de trabajo; así como la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, el impedimento a las mujeres de llevar a cabo el período de lactancia previsto en la ley, y todo tipo de discriminación por condición de género.
 
 IV. Violencia en la comunidad: Son los actos individuales o colectivos que transgreden derechos fundamentales de las mujeres en el ámbito público y propician su denigración, discriminación, marginación o exclusión.
 
@@ -237,7 +241,7 @@ La protección y asistencia a las mujeres víctimas o en situación de riesgo de
 
 Los derechos de las mujeres protegidos por esta Ley son:
 
-l. La vida;
+I. La vida;
 
 II. La libertad;
 
@@ -257,7 +261,7 @@ VIII. El patrimonio.
 
 Las mujeres víctimas de cualquier tipo y modalidad de violencia tendrán los siguientes derechos:
 
-l. Protección inmediata y efectiva por parte de las autoridades;
+I. Protección inmediata y efectiva por parte de las autoridades;
 
 II. Trato digno, privacidad y respeto durante cualquier entrevista o actuación como víctima de violencia;
 
@@ -315,7 +319,7 @@ El Consejo estará integrado por las personas que ocupen la titularidad de:
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-l. La Secretaría de Desarrollo Social, a cargo de la presidencia;
+I. La Secretaría de Desarrollo Social, a cargo de la presidencia;
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
@@ -349,7 +353,7 @@ Las y los Consejeros titulares de las dependencias de Gobierno del Estado y de l
 
 Son atribuciones del Consejo:
 
-l. Fungir como órgano de planeación, coordinación de acciones y decisorio del Sistema, a fin de orientar las políticas y acciones en la materia;
+I. Fungir como órgano de planeación, coordinación de acciones y decisorio del Sistema, a fin de orientar las políticas y acciones en la materia;
 
 II. Aprobar el Programa y los programas especiales, y evaluar su cumplimiento, por lo menos anualmente;
 
@@ -473,7 +477,7 @@ XII. Las demás que esta Ley y otros ordenamientos aplicables le confieran.
 
 Corresponde a la Secretaría de Desarrollo Social:
 
-l. Presidir las sesiones del Consejo;
+I. Presidir las sesiones del Consejo;
 
 II. Emitir la convocatoria para la celebración de todo tipo de sesiones del Consejo;
 
@@ -531,7 +535,7 @@ XXII. Las demás previstas para el cumplimiento de la presente ley.
 
 Corresponde al Instituto Chihuahuense de la Mujer:
 
-l. Presidir, en ausencia de la o el Presidente, las sesiones del Consejo;
+I. Presidir, en ausencia de la o el Presidente, las sesiones del Consejo;
 
 II. Participar en la elaboración y ejecución del Programa, y en el diseño de nuevos modelos de prevención y erradicación de la violencia contra las mujeres;
 
@@ -577,7 +581,7 @@ XIX. Las demás previstas para el cumplimiento de esta Ley.
 
 Corresponde a la Fiscalía General del Estado:
 
-l. Participar en la elaboración y ejecución del Programa, y en el diseño de nuevos modelos de prevención y erradicación de la violencia contra las mujeres;
+I. Participar en la elaboración y ejecución del Programa, y en el diseño de nuevos modelos de prevención y erradicación de la violencia contra las mujeres;
 
 II. Informar al Consejo sobre la ejecución de las acciones de su competencia contenidas en el Programa, con la finalidad de evaluar su eficacia;
 
@@ -689,7 +693,7 @@ XIII. Las demás previstas para el cumplimiento de esta Ley.
 
 Corresponde a los Municipios de la Entidad:
 
-l. Diseñar, formular y aplicar, en concordancia con el Consejo, la política municipal orientada a erradicar la violencia contra las mujeres;
+I. Diseñar, formular y aplicar, en concordancia con el Consejo, la política municipal orientada a erradicar la violencia contra las mujeres;
 
 II. Participar con las autoridades estatales en la conformación y consolidación del Sistema;
 
@@ -735,7 +739,7 @@ También, deberán incluir en todo momento, espacios para la capacitación, cert
 
 El diseño de programas para la prevención de la violencia familiar debe atender, entre otras, las siguientes consideraciones:
 
-l. El nivel de vulnerabilidad de las víctimas o su situación de riesgo;
+I. El nivel de vulnerabilidad de las víctimas o su situación de riesgo;
 
 II. La información estadística sobre los tipos y modalidades de violencia que se registran en las diferentes zonas geográficas;
 
@@ -974,6 +978,14 @@ El presente Decreto entrará en vigor el día siguiente de su publicación en el
 P.O. 29 DE JUNIO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1366/2016 II P.O., MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 17 Y SE DEROGA EL ARTÍCULO 33, AMBOS DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1375/2016 II P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD, LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, CÓDIGO ADMINISTRATIVO PARA EL ESTADO Y LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO”.]
 
 ###### ARTÍCULO ÚNICO.
 
