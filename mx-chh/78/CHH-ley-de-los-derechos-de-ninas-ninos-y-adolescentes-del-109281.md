@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2015-06-03"
+last_updated: "2016-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR EL 1 DE ENERO DE 2016.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2016.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -501,7 +499,7 @@ V. No haber sido condenado por delitos dolosos.
 
 VI. Presentar constancia de la institución de asistencia privada en la que indique que las personas profesionales en trabajo social o psicología o carreras afines, son personas empleadas asalariadas con remuneración mensual fija.
 
-VII. DIF Estatal por conducto de la Procuraduría de Protección expedirán (sic) las autorizaciones correspondientes y llevarán (sic) un registro de las mismas.
+VII. DIF Estatal por conducto de la Procuraduría de Protección expedirán las autorizaciones correspondientes y llevarán un registro de las mismas.
 
 ###### Artículo 40.
 
@@ -632,6 +630,14 @@ I. Reducir la morbilidad y mortalidad.
 II. Asegurar la prestación de la asistencia médica y sanitaria que sean necesarias, haciendo hincapié en la atención primaria.
 
 III. Promover en todos los grupos de la sociedad, en particular, en quienes ejerzan la patria potestad, tutela, guarda o custodia, los principios básicos de la salud y nutrición, las ventajas de la lactancia materna, la higiene, el saneamiento ambiental y las medidas de prevención de accidentes.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2016)</small>
+
+Asimismo, facilitar espacios apropiados en los centros de salud, con el propósito que las madres trabajadoras tengan la posibilidad de amamantar a sus hijos e hijas o, en su caso, extraerse la leche materna.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2016)</small>
+
+Tratándose de mujeres que se encuentran recluidas en los centros de reinserción social, se asegurará que dicha lactancia se realice en condiciones apropiadas.
 
 IV. Adoptar medidas tendentes a la eliminación (sic) las prácticas culturales, usos y costumbres que sean perjudiciales para la salud de niñas, niños y adolescentes.
 
@@ -1883,7 +1889,7 @@ Para cumplir con lo anterior, se podrán celebrar los convenios necesarios entre
 
 ###### Artículo 156.
 
-La Procuraduría de Protección será la instancia garante de la observancia y restitución de los derechos de niñas, niños y adolescentes, por ello ejercerá asimismo la tutela del Estado y por tanto le corresponde la aplicación del procedimiento administrativo para la protección de niñas, niños y adolescentes en situación de riesgo o desamparo, tendrá facultades exclusivas para determinar y aplicar (sic) imponer una o más las medidas de protección y restitución en un solo caso, siempre que se encuentre justificado y sirva para proteger o garantizar los derechos previstos en esta Ley.
+La Procuraduría de Protección será la instancia garante de la observancia y restitución de los derechos de niñas, niños y adolescentes, por ello ejercerá asimismo la tutela del Estado y por tanto le corresponde la aplicación del procedimiento administrativo para la protección de niñas, niños y adolescentes en situación de riesgo o desamparo, tendrá facultades exclusivas para determinar y aplicar imponer una o más las medidas de protección y restitución en un solo caso, siempre que se encuentre justificado y sirva para proteger o garantizar los derechos previstos en esta Ley.
 
 La Representación en Suplencia será ejercida por la Procuraduría de Protección por conducto de sus unidades administrativas, mediante la representación de niñas, niños y adolescentes bajo su tutela en los procedimientos administrativos y judiciales en que estos se vean involucrados, sin perjuicio de la representación social que corresponda al Ministerio Público.
 
@@ -2288,3 +2294,13 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los dos días del mes de junio del año dos mil quince.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. MARIO TREVIZO SALAZAR. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1375/2016 II P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD, LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, CÓDIGO ADMINISTRATIVO PARA EL ESTADO Y LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
