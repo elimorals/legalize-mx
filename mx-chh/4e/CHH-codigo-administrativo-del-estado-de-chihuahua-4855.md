@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2015-04-01"
+last_updated: "2016-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2016.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -519,11 +519,19 @@ Cuando necesitare aumentarse, en casos excepcionales, la duración de cualquier 
 
 Por cada seis días de trabajo, disfrutará el trabajador cuando menos de un día completo con goce de salario íntegro.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 92.
 
-Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de otros dos, después del mismo. Durante la lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos, procurándose adecuar un espacio para ello.
+Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto, y de otros dos, después del mismo.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2016)</small>
+
+Durante la lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno, o un descanso por día, de una hora, para amamantar a sus hijos o hijas; o bien, para extraerse la leche en un lugar adecuado e higiénico que, para tal efecto, destine la institución o dependencia.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2016)</small>
+
+Cuando esto no sea posible, y previo acuerdo con la o el titular de la dependencia, se reducirá en una hora su jornada de trabajo, durante el periodo señalado.
 
 > <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2015)</small>
 
@@ -11116,6 +11124,14 @@ P.O. 14 DE ENERO DE 2015.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 1 DE ABRIL DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1375/2016 II P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD, LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, CÓDIGO ADMINISTRATIVO PARA EL ESTADO Y LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO”.]
 
 ###### ARTÍCULO ÚNICO.
 
