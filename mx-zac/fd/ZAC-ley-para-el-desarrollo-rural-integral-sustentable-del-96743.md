@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-el-desarrollo-rural-integral-sustentable-del-96743"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-30"
-last_updated: "2013-11-30"
+last_updated: "2016-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA EL DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2016.
 
 Ley publicada en el Suplemento 2 del Periódico Oficial del Estado de Zacatecas, el sábado 30 de noviembre de 2013.
 
@@ -191,9 +191,13 @@ VIII. Impulsar programas de conservación, restauración y aprovechamiento de lo
 
 IX. Crear centros de investigación de alto nivel tomando como base las cadenas productivas de los sistemas producto locales más importantes, en donde se capaciten y actualicen técnicamente a los sujetos involucrados en dichas cadenas;
 
-X. Promover el desarrollo de actividades alternativas como el turismo rural, las artesanías, los servicios, la actividad extractiva; como alternativa de empleo para hombres, mujeres y jóvenes del campo, y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2016)</small>
 
-XI. Fomentar la inversión pública y privada para la construcción de infraestructura básica, productiva y de servicios, necesaria para el desarrollo rural.
+X. Promover la investigación científica y tecnología (sic) en materia agropecuaria, forestal, acuícola y agroindustrial; por medio de la participación y colaboración con las universidades públicas y privadas, estatales, nacionales y extranjeras, así como con el sector empresarial.
+
+XI. Promover el desarrollo de actividades alternativas como el turismo rural, las artesanías, los servicios, la actividad extractiva; como alternativa de empleo para hombres, mujeres y jóvenes del campo, y
+
+XII. Fomentar la inversión pública y privada para la construcción de infraestructura básica, productiva y de servicios, necesaria para el desarrollo rural.
 
 Principios
 
@@ -1009,6 +1013,10 @@ Impulso a la investigación
 
 La Secretaría impulsará la investigación, el desarrollo, transferencia y apropiación de ciencia y tecnología, que favorezcan el desarrollo de la población rural, a través de convenios con organismos públicos, privados y sociales dedicados a dichas actividades.
 
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2016)</small>
+
+También impulsará programas y políticas públicas que promuevan la difusión y apropiación de conocimientos científicos y tecnológicos en las actividades económicas del sector rural. Para ello se trabajará de manera coordinada con universidades públicas y privadas así como con el sector privado que esté vinculado con el sector agropecuario.
+
 Promoción de la ciencia y tecnología
 
 ###### Artículo 61.
@@ -1019,13 +1027,17 @@ I. Facilitar el acceso, a la sociedad rural, a la ciencia y tecnología, involuc
 
 II. Promover y fomentar la investigación socioeconómica del medio rural, y
 
-III. Crear centros de investigación agropecuaria avanzada, con la participación y colaboración de instituciones educativas públicas y privadas que permitan elevar la productividad y competitividad del sector rural en el Estado.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2016)</small>
+
+III. Crear centros de investigación agropecuaria avanzada, con la participación y colaboración de instituciones educativas públicas y privadas así como con el sector privado que permitan elevar la productividad y competitividad del sector rural en el Estado.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2016)</small>
 
 SEITT
 
 ###### Artículo 62.
 
-El Consejo Zacatecano, a través de la Secretaría, establecerá el Sistema Estatal de Investigación y Transferencia de Tecnología SEITT, con la participación de oferentes de tecnologías y usuarios potenciales, las instituciones académicas y los representantes del Consejo Zacatecano de Ciencia, Tecnología e Innovación, con el objeto de obtener nuevas alternativas tecnológicas aplicables al desarrollo rural integral sustentable.
+El Consejo Zacatecano, a través de la Secretaría, establecerá el Sistema Estatal de Investigación y Transferencia de Tecnología SEITT, con la participación de científicos, oferentes de tecnologías y usuarios potenciales, las instituciones académicas y los representantes del Consejo Zacatecano de Ciencia, Tecnología e Innovación, con el objeto de obtener nuevas alternativas tecnológicas aplicables al desarrollo rural integral sustentable.
 
 ### CAPÍTULO VI. De la capacitación y asistencia técnica
 
@@ -1482,3 +1494,11 @@ PROFR. FRANCISCO ESCOBEDO VILLEGAS.
 EL SECRETARIO DEL CAMPO
 
 LIC. ENRIQUE GUADALUPE FLORES MENDOZA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O.16 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 601.- SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE ZACATECAS”.]
+
+Único. El presente Decreto deberá publicarse en el Periódico Oficial, Órgano de Gobierno del Estado y entrará en vigor al día siguiente al de su publicación.
