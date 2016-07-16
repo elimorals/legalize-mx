@@ -4,7 +4,7 @@ identifier: "COL-reglamento-para-la-fabricacion-y-venta-de-tortillas-para-el-553
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-21"
-last_updated: "2009-10-17"
+last_updated: "2016-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 ---
 # REGLAMENTO PARA LA FABRICACION Y VENTA DE TORTILLAS PARA EL MUNICIPIO DE COLIMA, COLIMA
 
-REGLAMENTO PARA LA FABRICACION Y VENTA DE TORTILLAS
+REGLAMENTO PARA LA FABRICACIÓN Y VENTA DE TORTILLAS PARA EL MUNICIPIO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2016.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 21 de abril de 2007.
 
@@ -169,7 +169,7 @@ V. Las demás que le confieran las Leyes y el presente Reglamento.
 
 Son facultades del Director de Inspección y Licencias.
 
-I. Recibir las solicitudes de licencia y turnarlas al Departamento de Expedición Licencias (sic) para estudio y dictamen.
+I. Recibir las solicitudes de licencia y turnarlas al Departamento de Expedición (sic) Licencias para estudio y dictamen.
 
 II. Notificar al interesado, la respuesta que recaiga a la solicitud de Licencia.
 
@@ -179,7 +179,7 @@ IV. Emitir órdenes de vista de inspección.
 
 V. Calificar las actas de inspección, que con motivo de la inspección y vigilancia llevada a cabo por los inspectores, se levanten, para que siendo procedentes las remita al Tesorero Municipal para la sanción correspondiente.
 
-VI. En coordinación con la PROFECO y la Secretaría de Salud y previo acuerdo que se celebre o cuando cualquiera de estas autoridades pida la coadyuvancia del Ayuntamiento, realizar inspecciones tortillerías (sic) y en los establecimientos, a fin de constatar el estado en que se fabrican y/o comercializan las Tortillas.
+VI. En coordinación con la PROFECO y la Secretaría de Salud y previo acuerdo que se celebre o cuando cualquiera de estas autoridades pida la coadyuvancia del Ayuntamiento, realizar inspecciones (sic) tortillerías y en los establecimientos, a fin de constatar el estado en que se fabrican y/o comercializan las Tortillas.
 
 VII. Previa autorización del C. Presidente Municipal y el Tesorero instrumentar las acciones de coordinación para el control de la comercialización de las tortillas, con los Sectores Sociales, Privados y Asociaciones Civiles.
 
@@ -519,19 +519,27 @@ III.- Clausura definitiva.
 
 IV.- Revocación de la Licencia o Permiso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2016)</small>
+
 ###### Artículo 38.
 
-Las sanciones administrativas de naturaleza económica, cuando se incurra en alguna de las hipótesis señaladas en el Artículo 35, se determinará en salarios mínimos, conforme al presente Reglamento de acuerdo a lo siguiente:
+Las sanciones administrativas de naturaleza económica, cuando se incurra en alguna de las hipótesis señaladas en el Artículo 35, se determinará (sic) en Unidades de Medida y Actualización, conforme al presente Reglamento de acuerdo a lo siguiente:
 
-I. Se impondrá una multa cuyo importe no será menor al equivalente a 10 ni mayor de 150 días de salarios mínimos a quienes incurran en alguna de las infracciones que señalan los incisos b), h), i) y k).
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2016)</small>
 
-II. Se impondrá una multa cuyo importe no será menor al equivalente a 20 ni mayor a 150 días de salario mínimo a quienes incurran en laguna de las infracciones que señalan los incisos a), e), f) y g).
+I. Se impondrá una multa cuyo importe no será menor al equivalente a 10 ni mayor de 150 Unidades de Medida y Actualización a quienes incurran en alguna de las infracciones que señalan los incisos b), h), i) y k), del artículo 35 de este reglamento.
 
-III. Se impondrá una multa cuyo importe no será menor al equivalente a 50 ni mayor de 150 días de salario mínimo a quienes incurran en las infracciones que señala el inciso c).
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2009)</small>
+II. Se impondrá una multa cuyo importe no será menor al equivalente a 20 ni mayor a 150 Unidades de Medida y Actualización a quienes incurran en alguna de las infracciones que señalan los incisos a), e), f) y g), del artículo 35 de este reglamento.
 
-IV. Se impondrá una multa cuyo importe no será menor al equivalente a 30 ni mayor de 200 días de salario mínimo a quienes incurran en las infracciones que señalan los incisos d), j), y m).
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2016)</small>
+
+III. Se impondrá una multa cuyo importe no será menor al equivalente a 50 ni mayor de 150 Unidades de Medida y Actualización a quienes incurran en las infracciones que señala el inciso c), del artículo 35 de este reglamento.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2016)</small>
+
+IV. Se impondrá una multa cuyo importe no será menor al equivalente a 30 ni mayor de 200 Unidades de Medida y Actualización a quienes incurran en las infracciones que señalan los incisos d), j) y m).
 
 > <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2009)</small>
 
@@ -664,3 +672,11 @@ L.I.C. MARIO ANGUIANO MORENO, Presidente Municipal. Rúbrica.- LIC. JULIO CESAR 
 P.O. 17 DE OCTUBRE DE 2009.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 16 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO QUE MODIFICA DIVERSOS REGLAMENTOS DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL, RELATIVOS A LA DESINDEXACIÓN DEL SALARIO MINÍMO".]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias que se opongan a las modificaciones contenidas en el presente acuerdo
