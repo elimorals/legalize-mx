@@ -4,7 +4,7 @@ identifier: "COL-ley-sobre-los-derechos-de-los-pueblos-y-comunidades-102318"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-30"
-last_updated: "2016-03-12"
+last_updated: "2016-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102318&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY SOBRE LOS DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 30 de agosto de 2014.
 
@@ -395,9 +395,33 @@ III. Promover el desarrollo equitativo y sustentable de las comunidades y pueblo
 
 IV. Promover estudios sociodemográficos para la plena identificación de los integrantes de los (sic) comunidades y pueblos indígenas;
 
-V. Llevar a cabo el proceso de selección de quienes habrán de representar a los pueblos y comunidades indígenas dentro del Consejo; y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2016)</small>
 
-VI. Las demás que señale la presente Ley y otros ordenamientos aplicables.
+V. Realizar investigaciones y estudios para el desarrollo integral de los pueblos indígenas;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2016)</small>
+
+VI. Asesorar y apoyar en materia indígena a las organizaciones de los sectores social y privado que lo soliciten;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2016)</small>
+
+VII. Desarrollar programas de capacitación para las dependencias y entidades de la Administración Pública Estatal, así como para los municipios que lo soliciten, con el fin de mejorar la atención de las necesidades de los pueblos indígenas;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2016)</small>
+
+VIII. Implementar programas de difusión dirigidos a las poblaciones indígenas para dar a conocer las leyes vigentes, el funcionamiento del sistema judicial y el de las instituciones que integran el Estado;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2016)</small>
+
+IX. Fungir como centro de mediación, en los términos de la Ley de Justicia Alternativa del Estado;
+
+> <small>(ADICIONADA [N. DE E. ANTES FRACCIÓN V], P.O. 16 DE JULIO DE 2016)</small>
+
+X. Llevar a cabo el proceso de selección de quienes habrán de representar a los pueblos y comunidades indígenas dentro del Consejo; y
+
+> <small>(ADICIONADA [N. DE E. ANTES FRACCIÓN VI], P.O. 16 DE JULIO DE 2016)</small>
+
+XI. Las demás que señale la presente Ley y otros ordenamientos aplicables.
 
 ###### Artículo 15.
 
@@ -741,9 +765,13 @@ El Estado y los municipios, en el ámbito de sus respectivas competencias, y en 
 
 Las comunidades podrán asociarse en términos de esta Ley para acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra establecidas en la Constitución Política de los Estados Unidos Mexicanos, y con las limitaciones que al respecto ésta previene, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2016)</small>
+
 ###### Artículo 60.
 
-El Estado en coordinación con las comunidades indígenas, desarrollará programas encaminados a la recopilación, investigación y desarrollo de las prácticas tradicionales indígenas de conservación y explotación de los recursos naturales.
+La Secretaría General de Gobierno del Estado, en coordinación con la Secretaría de Cultura del Gobierno del Estado, un representante de la Procuraduría General de Justicia del Estado, un representante del Poder Judicial, un representante de la Comisión Legislativa de Derechos Humanos, Asuntos Indígenas y Atención al Migrante, un representante por municipio de los grupos indígenas que existan en el mismo, nombrado por la Comisión de Asuntos Indígenas del Ayuntamiento de que se trate, el cronista municipal de cada Ayuntamiento, y dos historiadores de reconocido prestigio en la Entidad, y demás personal idóneo de instituciones académicas, gubernamentales y privadas que se considere conveniente; conformarán una comisión investigadora para desarrollar planes de trabajo encaminados a la investigación documental y de campo sobre los usos, costumbres y especificaciones culturales de los diversos pueblos indígenas de la Entidad, con el objeto de que realicen un estudio autorizado para ser tomado en consideración por las autoridades encargadas de procurar e impartir justicia en aquellos asuntos en que personas indígenas sean parte, individual o colectivamente.
+
+El resultado de la investigación realizada por la Comisión señalada en el párrafo anterior deberá publicase en el Periódico Oficial "El Estado de Colima".
 
 ###### Artículo 61.
 
@@ -865,11 +893,59 @@ El Estado velará por la salud, bienestar y respeto a los adultos mayores, procu
 
 Los indígenas oriundos de otras entidades federativas que residan temporal o permanentemente en el territorio del Estado, tendrán en todo tiempo el derecho de invocar frente a cualquier autoridad, las prerrogativas que otorgan a los integrantes de los pueblos y comunidades indígenas la Constitución Federal y la particular del Estado, así como lo dispuesto por la presente Ley.
 
-### CAPÍTULO XII. DE LAS SANCIONES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE JULIO DE 2016)</small>
+
+### CAPÍTULO XII. DEL DESARROLLO ECONOMICO SUSTENTABLE
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2016)</small>
 
 ###### Artículo 82.
 
-En caso de incumplimiento a las disposiciones contenidas en la presente Ley, será motivo de responsabilidad y se sancionará en términos de lo previsto en la Ley Estatal de Responsabilidades de los Servidores Públicos.
+El Estado y los municipios promoverán el desarrollo equilibrado y armónico de las comunidades indígenas y las demás poblaciones de la entidad.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2016)</small>
+
+###### Artículo 83.
+
+El Estado, a través de las instancias correspondientes, implementará en las comunidades indígenas de la entidad, programas y proyectos productivos conjuntos, que tengan como objetivo primordial el desarrollo económico de esas comunidades.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2016)</small>
+
+En los programas y proyectos productivos conjuntos, se evitara el intermediarismo y se fomentará el aprovechamiento directo que genere la comercialización de sus recursos y productos.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2016)</small>
+
+###### Artículo 84.
+
+Las autoridades estatales y municipales competentes, a petición de las comunidades indígenas, otorgarán a estas, asistencia técnica y financiera para el óptimo acceso y aprovechamiento de los recursos estatales y federales.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2016)</small>
+
+###### Artículo 85.
+
+El Estado, en coordinación con las autoridades federales, coadyuvará con las autoridades municipales, a fin de ofrecerles capacitación para identificar formalmente las necesidades prioritarias de los programas comunitarios, en la planeación e información presupuestal.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2016)</small>
+
+###### Artículo 86.
+
+El Estado impulsará el establecimiento de empresas cuya propiedad corresponda a las propias comunidades indígenas con la finalidad de optimizar la utilización de las materias primas y fomentar la creación de fuentes de empleo en las comunidades indígenas.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2016)</small>
+
+###### Artículo 87.
+
+El Estado y los municipios, deberán en la realización de sus planes y programas de desarrollo, incorporar propuestas que realicen las comunidades indígenas para su propio beneficio.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO XII], P.O. 16 DE JULIO DE 2016)
+
+### CAPÍTULO XIII. DE LAS SANCIONES
+
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 82], P.O. 16 DE JULIO DE 2016)</small>
+
+###### Artículo 88.
+
+En caso de incumplimiento a las disposiciones contenidas en la presente Ley, será motivo de responsabilidad y se sancionará en términos de lo previsto en la Ley Estatal de Responsabilidades de los Servidores Públicos o la legislación penal.
 
 ## TRANSITORIOS
 
@@ -900,3 +976,11 @@ P.O. 12 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 64 POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 6, Y SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 19, DE LA LEY SOBRE LOS DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Colima".
+
+P.O. 16 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 118 POR EL QUE SE REFORMAN LAS FRACCIONES V Y VI; SE ADICIONAN LAS FRACCIONES VII, VIII, IX, X Y XI, AL ARTÍCULO 14, HACIÉNDOSE EL CORRIMIENTO SUBSECUENTE DE LAS ACTUALES FRACCIONES V Y VI; SE REFORMA EL ARTÍCULO 60; SE ADICIONA UN NUEVO CAPÍTULO XII, DENOMINADO "DEL DESARROLLO ECONÓMICO SUSTENTABLE" INTEGRADO POR LOS ARTÍCULOS 82, 83, 84, 85, 86 Y 87, PASANDO EL ACTUAL CAPÍTULO XII, A SER XIII, CON EL NUEVO ARTÍCULO 88; TODOS DE LA LEY SOBRE LOS DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- La Comisión a que se refiere el artículo 60 de la presente Ley, deberá conformarse en un término no mayor de 60 días, una vez que entre en vigor el presente decreto.
