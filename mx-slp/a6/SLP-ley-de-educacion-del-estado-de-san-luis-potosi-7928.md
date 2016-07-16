@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2016-06-11"
+last_updated: "2016-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -72,6 +72,10 @@ En el sistema educativo estatal deberá asegurarse que la participación del edu
 ###### ARTICULO 4°.
 
 Todos los individuos tienen derecho a recibir educación de calidad, con las mismas oportunidades de acceso al sistema educativo estatal, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2016)</small>
+
+En San Luis Potosí se reconoce el derecho a la educación de calidad, de las adolescentes que son madres, y a las madres solteras; por ello, se privilegiará su retorno a la escuela, procurando tener espacios integrales para ellas, sus hijas e hijos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2014)</small>
 
@@ -813,13 +817,17 @@ I. Secretaría de Cultura: historia, costumbres y tradiciones;
 
 II. Instituto Nacional de Estadística y Geografía; y, Consejo Estatal de Población: geografía;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2016)</small>
 
-III. Secretaría de Ecología y Gestión Ambiental: aspectos relacionados con ecología, ecosistemas y cambio climático, y
+III. Secretaría de Ecología y Gestión Ambiental: aspectos relacionados con ecología, ecosistemas y cambio climático;
 
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2016)</small>
 
-IV. La Coordinación Estatal de Protección Civil, en el ámbito de sus atribuciones.
+IV. La Coordinación Estatal de Protección Civil, en el ámbito de sus atribuciones, y
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2016)</small>
+
+V. El Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas del Estado: rescate, promoción y conocimiento de la cultura, usos, costumbres y tradiciones indígenas.
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2008)</small>
 
@@ -833,7 +841,7 @@ Sin menoscabo de la propuesta realizada a la Secretaría de Educación Pública 
 
 La Autoridad Educativa Local realizará revisiones y evaluaciones sistemáticas y continuas de los planes y programas de estudio a que se refiere el presente artículo, para vigilar su cumplimiento y recoger informaciones que permitan mantenerlos permanentemente actualizados; en el caso de los programas de educación normal y demás para la formación de maestros en educación básica deberán de mantenerse actualizados conforme a los parámetros y perfiles a los que se refiere la Ley General del Servicio Profesional Docente.
 
-> <small>N. DE E. EL DECRETO 565 SEÑALA QUE SE REFORMA EL PÁRRAFO ÚLTIMO DEL PRESENTE ARTÍCULO, SIN EMBARGO, DEL ANÁLISIS A DICHO DECRETO, SE ADVIERTE QUE CORRESPONDE AL PENÚLTIMO PÁRRAFO, EN RAZÓN DE QUE EL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO FUE ADICIONADO MEDIANTE DECRETO 531 PUBLICADO EN EL P.O. DE 5 DE ABRIL DE 2014.</small>
+> <small>[N. DE E. EL DECRETO 565 SEÑALA QUE SE REFORMA EL PÁRRAFO ÚLTIMO DEL PRESENTE ARTÍCULO, SIN EMBARGO, DEL ANÁLISIS A DICHO DECRETO, SE ADVIERTE QUE CORRESPONDE AL PENÚLTIMO PÁRRAFO, EN RAZÓN DE QUE EL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO FUE ADICIONADO MEDIANTE DECRETO 531 PUBLICADO EN EL P.O. DE 5 DE ABRIL DE 2014.]</small>
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014)</small>
 
@@ -965,7 +973,7 @@ El sistema educativo estatal de formación, actualización, capacitación y supe
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
 
-l.- Coordinar las instituciones de formación continua, actualización, capacitación y superación de docentes en la Entidad, lo que deberá de realizarse dentro del marco de los lineamientos, medidas, y demás acciones que resulten de la aplicación de la Ley General del Servicio Profesional Docente;
+I.- Coordinar las instituciones de formación continua, actualización, capacitación y superación de docentes en la Entidad, lo que deberá de realizarse dentro del marco de los lineamientos, medidas, y demás acciones que resulten de la aplicación de la Ley General del Servicio Profesional Docente;
 
 II.- Desarrollar acciones de investigación educativa para proponer contenidos regionales, susceptibles de ser incluidos en los planes y programas de estudio;
 
@@ -1503,7 +1511,7 @@ ARTICULO 90 BIS.- (DEROGADO, P.O. 14 DE ENERO DE 2014)
 
 ARTICULO 90 TER.- Las asociaciones de padres de familia tienen las siguientes atribuciones:
 
-l.- Proponer y promover, en coordinación con las autoridades escolares y educativas, las acciones necesarias para el mejoramiento de los establecimientos escolares y de su funcionamiento;
+I.- Proponer y promover, en coordinación con las autoridades escolares y educativas, las acciones necesarias para el mejoramiento de los establecimientos escolares y de su funcionamiento;
 
 II.- Reunir fondos para los fines de mejoramiento en la infraestructura escolar.
 
@@ -1561,7 +1569,7 @@ Las autoridades educativas deberán estructurar el sistema de consejos de partic
 
 ARTICULO 91 TER.- Los consejos escolares tienen las siguientes atribuciones; además de las conferidas por los lineamientos que para su organización y funcionamiento, expida la Secretaría de Educación del Gobierno del Estado de, San Luis Potosí:
 
-l.- Conocer el calendario escolar, las metas educativas, y el avance de las actividades escolares, con el objeto de coadyuvar con el docente a su mejor realización;
+I.- Conocer el calendario escolar, las metas educativas, y el avance de las actividades escolares, con el objeto de coadyuvar con el docente a su mejor realización;
 
 II.- Conocer los resultados de las evaluaciones que realicen las autoridades educativas;
 
@@ -1589,7 +1597,7 @@ Consejos análogos pueden operar en las escuelas particulares de educación bás
 
 ARTICULO 91 QUATER.- La autoridad educativa estatal para asegurar el apoyo de la sociedad en el logro de los fines de la educación de calidad, promoverá, en los términos de las disposiciones aplicables, además de los consejos escolares, la operación de los:
 
-l. Consejo Municipal de Participación Social en la educación, integrado por las autoridades municipales, padres de familia y representantes de sus asociaciones, maestros distinguidos y directivos de escuelas, representantes de la organización sindical de los maestros quienes acudirán como representantes de los intereses laborales de los trabajadores, así como representantes de organizaciones de la sociedad civil, cuyo objeto social sea la educación y demás interesados en el mejoramiento de ésta, y
+I. Consejo Municipal de Participación Social en la educación, integrado por las autoridades municipales, padres de familia y representantes de sus asociaciones, maestros distinguidos y directivos de escuelas, representantes de la organización sindical de los maestros quienes acudirán como representantes de los intereses laborales de los trabajadores, así como representantes de organizaciones de la sociedad civil, cuyo objeto social sea la educación y demás interesados en el mejoramiento de ésta, y
 
 II. Consejo Estatal de Participación Social en la educación, como órgano de consulta, orientación y apoyo, que contribuya a elevar la calidad de la educación, integrado por padres de familia y representes de sus asociaciones, maestros y representantes de su organización sindical quienes acudirán como representantes de los intereses laborales de los trabajadores, instituciones formadoras de maestros, autoridades educativas estatales y municipales, organizaciones de la sociedad civil cuyo objeto social sea la educación, así como los sectores social y productivo de la Entidad, especialmente interesados en la educación.
 
@@ -2231,8 +2239,16 @@ INDICE
 
 LEY DE EDUCACION DEL ESTADO DE SAN LUIS POTOSI
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 0224.- SE DEROGAN LOS ARTÍCULOS, 46 BIS, Y 46 TER, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0224.- SE DEROGAN LOS ARTÍCULOS, 46 BIS, Y 46 TER, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 16 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0370.- SE REFORMA EL ARTÍCULO 43 EN SUS FRACCIONES, III, Y IV; Y ADICIONA A LOS ARTÍCULOS, 4° EL PÁRRAFO SEGUNDO, Y 43 LA FRACCIÓN V, DE Y A LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
