@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2016-06-29"
+last_updated: "2016-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2016.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -739,9 +739,13 @@ IV.- La protección de la integración y del bienestar familiar.
 
 V.- La aplicación del tamiz neonatal y que este se actualice progresivamente, privilegiando las enfermedades endémicas del Estado.
 
-(ADICIONADA, P.O. 19 DE JUNIO DE 2013) (F. DE E., P.O. 26 DE JUNIO DE 2013)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2016)</small>
 
-VI.- El fomento de la lactancia materna.
+VI.- El fomento de la lactancia materna y la creación de bancos de leche materna en los establecimientos de salud que cuenten con servicios neonatales.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2016)</small>
+
+En dichos establecimientos se prohíbe la publicidad y promoción de la utilización de fórmulas lácteas por parte de las madres en personas menores de 6 meses, así como la entrega de muestras gratis, de las referidas fórmulas.
 
 ###### Artículo 68.
 
@@ -3618,6 +3622,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 29 DE JUNIO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1377/2016 II P.O., MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 67, DE LA LEY ESTATAL DE SALUD”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1375/2016 II P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD, LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, CÓDIGO ADMINISTRATIVO PARA EL ESTADO Y LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DE ESTADO”.]
 
 ###### ARTÍCULO ÚNICO.
 
