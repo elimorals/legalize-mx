@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1151
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-02"
-last_updated: "2016-06-02"
+last_updated: "2016-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el jueves 2 de junio de 2016.
 
@@ -409,7 +409,7 @@ La publicación de la información deberá indicar el sujeto obligado encargado 
 
 ###### Artículo 34.
 
-El Instituto de oficio o a petición de los particulares, verificarán (sic) el cumplimiento que los sujetos obligados den a las disposiciones previstas en este Título.
+El Instituto de oficio o a petición de los particulares, verificarán el cumplimiento que los sujetos obligados den a las disposiciones previstas en este Título.
 
 Las denuncias presentadas por los particulares podrán realizarse en cualquier momento, de conformidad con el procedimiento señalado en la presente Ley.
 
@@ -1079,7 +1079,9 @@ La resolución debe ser fundada y motivada e invariablemente debe pronunciarse s
 
 El Instituto debe notificar la resolución al denunciante y al sujeto obligado, dentro de los tres días siguientes a su emisión.
 
-Las resoluciones que emita el Instituto, a que se refiere este Capítulo, son definitivas e inatacables para los sujetos obligados. El particular podrá impugnar la resolución por medio del recurso de inconformidad ante el Instituto Nacional, o por la vía del juicio de amparo que corresponda, en los términos de la legislación aplicable.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2016)</small>
+
+Las resoluciones que emita el Instituto, a que se refiere este Capítulo, son definitivas e inatacables para los sujetos obligados. El particular podrá impugnar la resolución por la vía del juicio de amparo que corresponda, en los términos de la legislación aplicable.
 
 El sujeto obligado deberá cumplir con la resolución en un plazo de quince días, a partir del día siguiente al en que se le notifique la misma.
 
@@ -1321,7 +1323,7 @@ La solicitud se tendrá por no presentada cuando los solicitantes no atiendan el
 
 ###### Artículo 98.
 
-Los sujetos obligados deberán otorgar acceso a los Documentos que se encuentren en sus archivos o que estén obligados a documentar de acuerdo con sus facultades, competencias o funciones en el formato en que el solicitante manifieste, de entre aquellos formatos existentes, conforme a las características físicas de la información o del lugar donde se encuentre (sic) así lo permita.
+Los sujetos obligados deberán otorgar acceso a los Documentos que se encuentren en sus archivos o que estén obligados a documentar de acuerdo con sus facultades, competencias o funciones en el formato en que el solicitante manifieste, de entre aquellos formatos existentes, conforme a las características físicas de la información o del lugar donde se encuentre así lo permita.
 
 En el caso de que la información solicitada consista en bases de datos se deberá privilegiar la entrega de la misma en Formatos Abiertos.
 
@@ -2680,3 +2682,11 @@ DADO en la Sala de Sesiones de la Honorable Sexagésima Primera Legislatura del 
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 DADO en el Despacho del Poder Ejecutivo del Estado a los dos días del mes de junio de dos mil dieciséis. EL GOBERNADOR DEL ESTADO DE ZACATECAS.- MIGUEL ALEJANDRO ALONSO REYES. EL SECRETARIO GENERAL DE GOBIERNO.- JAIME SANTOYO CASTRO. Rúbricas
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 614.- SE REFORMA EL ARTÍCULO 66 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS”.]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
