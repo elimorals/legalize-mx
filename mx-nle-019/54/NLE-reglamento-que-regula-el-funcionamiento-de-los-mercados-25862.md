@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-que-regula-el-funcionamiento-de-los-mercados-25862"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-11-25"
-last_updated: "2016-03-04"
+last_updated: "2016-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25862&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO QUE REGULA EL FUNCIONAMIENTO DE LOS MERCADOS RODANTES Y EL EJERCICIO DEL COMERCIO AMBULANTE DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de noviembre de 1992.
 
@@ -315,7 +315,9 @@ I.- Amonestación.
 
 II.- Apercibimiento por escrito.
 
-III.- Multa de una a 200 veces el salario mínimo.
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
+
+III.- Multa de una a 200 cuotas. Por cuota se entenderá el valor diario de la Unidad de Medida y Actualización vigente al año que corresponda.
 
 IV.- Suspensión temporal del permiso de uno a ocho días de comercio efectivo, ya sea que la infracción se presente en forma individual o colectiva.
 
@@ -472,5 +474,11 @@ LIC. JOSE G. ABRAHAM SALINAS.
 P.O. 4 DE MARZO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 25 DE FEBRERO DE 2016, SE APRUEBA LA INICIATIVA DE REFORMA DE DIVERSOS REGLAMENTOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 18 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE "SE APRUEBAN LAS REFORMAS A LOS 19 REGLAMENTOS DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
 
 ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
