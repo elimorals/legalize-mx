@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-procuraduria-general-de-la-republica-68589"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-05-29"
-last_updated: "2014-12-24"
+last_updated: "2016-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68589&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-05-27"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE JULIO DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de mayo de 2009.
 
@@ -383,13 +383,23 @@ VII. Sobre la admisión de los elementos de prueba aportados o las diligencias s
 
 El Procurador General de la República ejercerá autoridad jerárquica sobre todo el personal de la Procuraduría General de la República.
 
-El Procurador General de la República emitirá los acuerdos, circulares, instructivos, bases y demás normas administrativas necesarias que rijan la actuación de las unidades administrativas y órganos técnicos y administrativos, centrales y desconcentrados, de la Procuraduría General de la República, así como de agentes del Ministerio Público de la Federación, agentes de la Policía Federal Ministerial, oficiales ministeriales, visitadores y peritos.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2016)</small>
+
+El Procurador General de la República, sin perjuicio de las facultades concedidas en esta ley al Fiscal Especializado en materia de delitos relacionados con hechos de corrupción para expedir normas administrativas necesarias que rijan la actuación de dicha Fiscalía, emitirá los acuerdos, circulares, instructivos, bases y demás normas administrativas necesarias que rijan la actuación de las unidades administrativas y órganos técnicos y administrativos, centrales y desconcentrados, de la Procuraduría General de la República, así como de agentes del Ministerio Público de la Federación, agentes de la Policía Federal Ministerial, oficiales ministeriales, visitadores y peritos.
 
 ###### Artículo 10.
 
 Para el despacho de los asuntos que competen a la Procuraduría General de la República y al Ministerio Público de la Federación conforme a la Constitución Política de los Estados Unidos Mexicanos, el presente ordenamiento y demás disposiciones aplicables, el Procurador General de la República se auxiliará de:
 
 I. Subprocuradores;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 18 DE JULIO DE 2016)</small>
+
+I Bis. Fiscales Especializados;
 
 II. Oficial Mayor;
 
@@ -410,6 +420,106 @@ IX. Agregados;
 X. Agentes del Ministerio Público de la Federación, agentes de la Policía Federal Ministerial, oficiales ministeriales, visitadores y peritos, y
 
 XI. Directores, subdirectores, subagregados, jefes de departamento, titulares de órganos y unidades técnicos y administrativos, centrales y desconcentrados, y demás servidores públicos que establezca el reglamento de esta ley y otras disposiciones aplicables.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2016)</small>
+
+###### Artículo 10 Bis.
+
+La Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción es el órgano con autonomía técnica y operativa para investigar y perseguir los hechos que la ley considera como delitos por hechos de corrupción.
+
+Contará con el personal sustantivo, directivo, administrativo y auxiliar capacitados para el debido cumplimiento de sus funciones, así como con las unidades administrativas necesarias para el seguimiento de las investigaciones.
+
+La Fiscalía Especializada para el desarrollo de sus funciones se auxiliará de la unidad administrativa en materia de Servicios Periciales, la cual en su caso, deberá dar trámite y desahogo al peritaje solicitado en el término que al efecto establezca el Ministerio Público y que resulte acorde con la complejidad del peritaje a realizar.
+
+Asimismo, la Fiscalía contará con Agentes del Ministerio Público Especializados en combate a los hechos que la ley considera como delitos en materia de corrupción.
+
+Su titular presentará anualmente al Procurador General de la República un informe sobre actividades sustantivas y sus resultados, el cual será público, en términos de lo previsto en la Ley General de Transparencia y Acceso a la Información Pública, y demás disposiciones aplicables en la materia. Dicho informe será remitido a su vez, al Comité Coordinador del Sistema Nacional Anticorrupción y al Senado de la República.
+
+El titular de la Fiscalía, al igual que su personal de confianza, agentes del Ministerio Público de la Federación, agentes de la Policía Federal Ministerial y peritos miembros del Servicio Profesional de Carrera o de designación especial estarán sujetos a la Ley General de Responsabilidades Administrativas, así como al régimen especial de la materia previsto en esta ley. Su actuación será fiscalizada por la Auditoría Superior de la Federación, la Visitaduría General y el Órgano Interno de Control, conforme a sus respectivas competencias.
+
+El titular de la Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción elaborará su anteproyecto de presupuesto para enviarlo a la Secretaría de Hacienda y Crédito Público por conducto de la Procuraduría General de la República, para que se integre en el Proyecto de Presupuesto de Egresos de la Federación correspondiente que envíe para su aprobación a la Cámara de Diputados.
+
+En el Presupuesto de Egresos de la Federación se identificará el monto aprobado a esta Fiscalía para el respectivo ejercicio fiscal.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2016)</small>
+
+###### Artículo 10 Ter.
+
+La Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción contará con las siguientes atribuciones:
+
+I. Ejercer las atribuciones que la Constitución, las leyes, los Reglamentos y demás disposiciones jurídicas confieren al Ministerio Público de la Federación en lo relativo a los hechos que la ley considera como delitos en materia de corrupción, con excepción de los cometidos por servidores públicos de la Procuraduría General de la República, supuesto en el cual se estará a lo dispuesto en el artículo 21 de esta ley;
+
+II. Participar como integrante en el Comité Coordinador del Sistema Nacional Anticorrupción, atendiendo las bases establecidas en el artículo 113 de la Constitución Política de los Estados Unidos Mexicanos y en la ley general correspondiente;
+
+III. Nombrar, previo acuerdo con el Procurador General de la República, a los titulares de las unidades administrativas y direcciones generales de la Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción, salvo aquellas que no realicen funciones sustantivas, en cuyo caso, el nombramiento y su remoción serán exclusivos del Fiscal Especializado;
+
+IV. Contar con los agentes del Ministerio Público de la Federación y policías de investigación, miembros del servicio profesional de carrera, que le estarán adscritos y resulten necesarios para la atención de los casos que correspondan a la Fiscalía, sobre los que ejercerá mando directo en términos de lo dispuesto por esta ley y su reglamento.
+
+Para los efectos de lo dispuesto en esta fracción presentará solicitud debidamente sustentada y justificada ante el Consejo de Profesionalización, que resolverá lo conducente procurando que se guarde un equilibrio y proporcionalidad en la asignación del personal ministerial considerando los requerimientos operacionales de las diversas unidades administrativas y órganos desconcentrados de la institución y la disponibilidad presupuestaria;
+
+V. Proponer al Procurador General de la República el nombramiento de los agentes del Ministerio Público por designación especial que reúnan amplia experiencia profesional en la materia de corrupción, en términos de lo dispuesto por los artículos 37 y 38 de esta ley;
+
+VI. Proponer a la unidad administrativa competente el contenido teórico práctico de los programas de capacitación, actualización y especialización a que se refiere el artículo 33 de esta ley, respecto de los agentes del Ministerio Público adscritos a la Fiscalía Especializada;
+
+VII. Coordinar y supervisar la actuación de la policía de investigación en los términos de lo dispuesto en el artículo 21 Constitucional;
+
+VIII. Diseñar e implementar estrategias y líneas de acción para combatir los hechos que la ley considera como delitos en materia de corrupción;
+
+IX. Implementar planes y programas destinados a detectar la comisión de los hechos que la ley considera como delitos en materia de corrupción en el ámbito de su competencia. Dichos planes y programas deberán ser aprobados por el Procurador General de la República;
+
+X. Instrumentar mecanismos de colaboración con otras autoridades para la elaboración de estrategias y programas tendientes a combatir los hechos que la ley considera como delitos en materia de corrupción;
+
+XI. Emitir los acuerdos, circulares, instructivos, bases y demás normas administrativas necesarias que rijan la actuación de la Fiscalía en el ámbito de su competencia.
+
+Los acuerdos, circulares, instructivos, bases y demás normas administrativas emitidas por parte del Fiscal Especializado en materia de delitos relacionados con hechos de corrupción, que sean necesarios para regular la actuación de la Fiscalía Especializada a su cargo en ningún caso podrán contradecir las normas administrativas emitidas por el Procurador General de la República. En caso de contradicción, se estará a lo dispuesto en el artículo 15 del Reglamento de esta ley, resolviendo la actualización, derogación o abrogación de la norma emitida por el fiscal especializado.
+
+En su caso, se propondrá al Procurador General de la República la actualización, derogación o abrogación de las normas expedidas por éste;
+
+XII. Fortalecer e implementar, en el ámbito de su competencia, mecanismos de cooperación y colaboración con autoridades de los tres órdenes de gobierno para la investigación de los hechos que la ley considera como delitos en materia de corrupción;
+
+XIII. Diseñar e implementar proyectos, estudios y programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad en materia de los hechos que la ley considera como delitos en materia de corrupción;
+
+XIV. Implementar mecanismos de colaboración con autoridades que ejerzan facultades de fiscalización a fin de fortalecer el desarrollo de las investigaciones;
+
+XV. Requerir a las instancias de gobierno la información que resulte útil o necesaria para sus investigaciones, la que por ningún motivo le podrá ser negada, incluso anteponiendo el secreto bancario, fiduciario o cualquiera otro de similar naturaleza;
+
+XVI. Diseñar, integrar e implementar sistemas y mecanismos de análisis de la información fiscal, financiera y contable para que pueda ser utilizada por ésta y otras unidades competentes de la Procuraduría, en especial la relacionada con la investigación de los hechos que la ley considera como delitos en materia de corrupción;
+
+XVII. Coadyuvar con otras áreas competentes de la Procuraduría, en el desarrollo de herramientas de inteligencia con metodologías interdisciplinarias de análisis e investigación de las distintas variables criminales, socioeconómicas y financieras, para conocer la evolución de las actividades relacionadas con los hechos que la ley considera como delitos en materia de corrupción;
+
+XVIII. Generar sus propias herramientas metodológicas para el efecto de identificar los patrones de conducta que pudieran estar relacionados con operaciones con recursos de procedencia ilícita;
+
+XIX. Emitir guías y manuales técnicos, en conjunto con la Coordinación General de Servicios Periciales y la Unidad Especializada en Análisis Financiero para la formulación de dictámenes en materia de análisis fiscal, financiero y contable que requieran los agentes del Ministerio Público de la Federación en el cumplimiento de sus funciones de investigación y persecución de los hechos que la ley considera como delitos en materia de corrupción;
+
+XX. Conducir la investigación para la obtención de datos o medios de prueba vinculados a hechos que la ley considera como delitos en materia de corrupción;
+
+XXI. Suscribir programas de trabajo y proponer al Procurador General de la República la celebración de convenios con las entidades federativas para tener acceso directo a la información disponible en los Registros Públicos de la Propiedad así como de las unidades de inteligencia patrimonial de las entidades federativas, para la investigación y persecución de los hechos que la ley considera como delitos en materia de corrupción;
+
+XXII. Ejercer la facultad de atracción de los delitos del orden común en términos de las disposiciones jurídicas aplicables;
+
+XXIII. Dirigir, coordinar y realizar la investigación de los hechos que presuntamente constituyan delitos del fuero federal en materia de su competencia y del orden común, en los que ejerza la facultad de atracción, en términos de las disposiciones jurídicas aplicables;
+
+XXIV. Ordenar el aseguramiento de bienes propiedad del imputado, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga al producto, los instrumentos u objetos del hecho delictivo cuando éstos hayan desaparecido o no se localicen por causa atribuible al imputado;
+
+XXV. Promover la extinción de dominio de los bienes de los imputados o sentenciados, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga a los bienes desaparecidos o no localizados por causa atribuible al imputado o sentenciado, cuando estos bienes estén vinculados con hechos que la ley considera como delitos en materia de corrupción que sean susceptibles de la acción de extinción de dominio, en los términos de la legislación aplicable;
+
+XXVI. Decidir responsablemente sobre el destino de los recursos que le sean asignados, a fin de cubrir todas las necesidades que surjan en el desempeño de sus facultades;
+
+XXVII. Someter a consideración del Procurador General de la República el ejercicio de las facultades que le otorga el artículo 107 Constitucional a efecto de solicitar a la Suprema Corte de Justicia de la Nación el ejercicio de su facultad de atracción, en los casos que ésta proceda y que sean de su competencia, y
+
+XXVIII. Las demás que en su caso le confieran otras disposiciones legales aplicables.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2016)</small>
+
+###### Artículo 10 Quáter.
+
+Las fiscalías especializadas se equiparan jerárquica y administrativamente a una Subprocuraduría y sus titulares deberán ser ciudadanos mexicanos por nacimiento; tener cuando menos treinta y cinco años cumplidos el día de la designación; contar, con antigüedad mínima de diez años, con título profesional de licenciado en derecho; gozar de buena reputación, y no haber sido condenado por delito doloso.
 
 ###### Artículo 11.
 
@@ -462,6 +572,12 @@ El sistema a que se refiere el párrafo que antecede también abarcará la infor
 El personal de la Procuraduría General de la República se organizará como sigue:
 
 I. Los agentes del Ministerio Público de la Federación, los agentes de la Policía Federal Ministerial y los peritos, quedarán sujetos al Servicio Profesional de Carrera, salvo en los casos previstos en los artículos 37 y 38, en los términos de los artículos 21 y 123, apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos, del reglamento respectivo y demás disposiciones aplicables;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2016)</small>
+
+El Fiscal Especializado fundada y motivadamente, podrá solicitar al Consejo de Profesionalización la destitución de los agentes del Ministerio Público y de la policía que le estén adscritos cuando no cumplan con los requisitos para permanecer en su cargo.
 
 II. El personal de base deberá aprobar las evaluaciones de control de confianza, del desempeño y de competencias profesionales que establece esta ley y estará sujeto al sistema de profesionalización que establezcan las disposiciones aplicables. En caso de que resulten no aptos, se darán por terminados los efectos del nombramiento, conforme a lo dispuesto por la Ley Federal de Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del Artículo 123 Constitucional, y
 
@@ -530,6 +646,24 @@ La Visitaduría General es el órgano de evaluación técnico-jurídica, supervi
 La Visitaduría General tendrá libre acceso a los expedientes, documentos e información que se encuentren bajo la autoridad de los agentes del Ministerio Público de la Federación, agentes de la Policía Federal Ministerial, oficiales ministeriales, peritos o demás auxiliares del Ministerio Público de la Federación a quienes se realiza una visita, así como a las instalaciones correspondientes y la documentación, el equipo y los elementos que ahí se encuentren, de conformidad con lo dispuesto en esta ley, su reglamento y los acuerdos relativos del Procurador General de la República.
 
 Los servidores públicos de la Visitaduría General serán nombrados en los términos que determine el reglamento de esta ley, y desempeñarán las atribuciones que en el mismo se les confieran, así como en los acuerdos que emita el Procurador General de la República.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2016)</small>
+
+Los delitos en que incurran los servidores públicos de la Visitaduría General incluyendo a su titular serán investigados y perseguidos por el Procurador General de la República o por el servidor público en quien se delegue la facultad.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2016)</small>
+
+Las faltas administrativas que cometan los servidores públicos de la Visitaduría General incluyendo a su titular, en términos de lo previsto en el régimen especial de la materia previsto en los Capítulos VIII y IX de esta ley, con excepción de las que se prevén en la Ley General de Responsabilidades Administrativas que corresponden al Órgano Interno de Control, serán investigadas y sustanciadas por el Procurador General de la República o por el servidor público en quien se delegue la facultad, quien podrá imponer las sanciones que correspondan.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2016)</small>
+
+Cuando la Visitaduría tenga conocimiento de hechos que pudieran ser constitutivos de una falta administrativa, sin perjuicio de sus facultades establecidas en esta ley, deberá presentar la denuncia correspondiente como parte ante el Órgano Interno de Control para que éste proceda en los términos de la Ley General de Responsabilidades Administrativas.
 
 ### CAPÍTULO III. De los auxiliares del Ministerio Público de la Federación
 
@@ -1317,9 +1451,15 @@ Los efectos de la certificación a que se refiere el artículo 59, respecto del 
 
 Los servidores públicos de la Procuraduría General de la República y en general toda persona que desempeñe un cargo, comisión o empleo de cualquier naturaleza en la misma, están sujetos al régimen de responsabilidades a que se refiere la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, de conformidad con lo dispuesto en el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2016)</small>
+
 ###### Artículo 80.
 
-El órgano interno de control en la Procuraduría General de la República ejercerá las funciones que le otorga la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y demás disposiciones aplicables.
+El Órgano Interno de Control en la Procuraduría General de la República, dependiente de la Secretaría de la Función Pública, ejercerá sus atribuciones conforme a las leyes, reglamentos y demás disposiciones jurídicas que rigen la actuación de esa Secretaría de Estado.
+
+Las faltas administrativas en que incurran los servidores públicos de la Procuraduría General de la República que no encuadren en el régimen especial previsto en los Capítulos VIII y IX de esta ley, serán del conocimiento del Órgano Interno de Control en los términos de la Ley General de Responsabilidades Administrativas.
 
 ###### Artículo 81.
 
@@ -1454,3 +1594,15 @@ Tercero.- En tanto se expiden las adecuaciones al Reglamento de la Ley Orgánica
 D.O.F. 24 DE DICIEMBRE DE 2014.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA".]
+
+Primero.- El presente Decreto entrará en vigor a partir del nombramiento que el Senado de la República realice del Titular de la Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción, creada en términos de lo establecido en el segundo párrafo del Artículo Décimo Octavo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia político-electoral, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014, a través del Acuerdo A/011/14 por el que se crea la Fiscalía Especializada en materia de Delitos relacionados con Hechos de Corrupción y se establecen sus atribuciones, publicado en el Diario Oficial de la Federación el 12 de marzo de 2014.
+
+Segundo.- Para la operación de la Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción durante el ejercicio 2016, se estará a lo previsto en el Artículo Tercero Transitorio del Decreto de Presupuesto de Egresos 2016.
+
+Tercero.- La Cámara de Diputados realizará las acciones necesarias para proveer de recursos a la Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción. El presupuesto aprobado deberá cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales necesarios para cumplir con sus funciones.
+
+Cuarto.- Todas las disposiciones que se opongan al presente Decreto quedarán derogadas a partir de su entrada en vigor.
