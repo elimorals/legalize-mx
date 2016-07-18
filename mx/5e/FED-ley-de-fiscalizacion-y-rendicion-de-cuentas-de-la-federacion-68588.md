@@ -4,7 +4,7 @@ identifier: "FED-ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion-68
 country: "mx"
 rank: "ley"
 publication_date: "2009-05-29"
-last_updated: "2010-06-18"
+last_updated: "2016-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68588&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LFRCF"
 ---
 # LEY DE FISCALIZACION Y RENDICION DE CUENTAS DE LA FEDERACION
 
-LEY DE FISCALIZACION Y RENDICION DE CUENTAS DE LA FEDERACION
+LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DE LA FEDERACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JUNIO DE 2010.
+[N. D E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DE LA FEDERACIÓN, PUBLICADA EN LA EDICIÓN VESPERTINA DEL D.O.F. DE 18 DE JULIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE JULIO DE 2016 (ABROGADA).
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de mayo de 2009.
 
@@ -1238,8 +1240,28 @@ México, D.F., a 30 de abril de 2009.- Dip. Cesar Horacio Duarte Jaquez, Preside
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiocho de mayo de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 18 DE JUNIO DE 2010.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DE LA FEDERACIÓN; Y SE REFORMAN EL ARTÍCULO 49 DE LA LEY DE COORDINACIÓN FISCAL, Y EL ARTÍCULO 70 DE LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO.- Las referencias, remisiones o contenidos del presente Decreto que estén vinculados con la aplicación de la Ley General del Sistema Nacional Anticorrupción, de la Ley General de Responsabilidades Administrativas y de las nuevas facultades del Tribunal Federal de Justicia Administrativa, entrarán en vigor cuando dichos ordenamientos se encuentren vigentes.
+
+TERCERO.- Se abroga la Ley de Fiscalización y Rendición de Cuentas de la Federación, publicada en el Diario Oficial de la Federación el 29 de mayo de 2009, conforme a lo dispuesto en los artículos transitorios subsecuentes y se derogan todas las disposiciones legales que contravengan o se opongan a la presente Ley.
+
+CUARTO.- Los procedimientos administrativos iniciados de conformidad con la Ley de Fiscalización y Rendición de Cuentas de la Federación que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la presente Ley, se resolverán hasta su conclusión definitiva, en términos de la Ley de Fiscalización y Rendición de Cuentas de la Federación que se abroga, así como los que se deriven de las funciones de fiscalización y revisión hasta la Cuenta de la Hacienda Pública Federal del año 2015.
+
+QUINTO.- Las funciones de fiscalización y revisión de la Auditoría Superior de la Federación previstas en la presente Ley entrarán en vigor a partir de la Cuenta de la Hacienda Pública Federal del año 2016.
+
+SEXTO.- Las funciones de fiscalización y revisión para el ejercicio del año en curso y de ejercicios anteriores entrarán en vigor al día siguiente de la publicación del presente Decreto.
+
+SÉPTIMO.- La Auditoría Superior de la Federación y la Cámara de Diputados, por lo que hace a la Unidad de Evaluación y Control, deberán actualizar sus reglamentos interiores conforme a lo previsto en esta Ley en un plazo no mayor a 180 días hábiles contados a partir de la vigencia de la presente Ley.
+
+OCTAVO.- La Auditoría Superior de la Federación deberá actualizar y, en su caso, publicar la normatividad que conforme a sus atribuciones deba expedir en un plazo no mayor a 180 días hábiles contados a partir de la vigencia de la presente Ley.
