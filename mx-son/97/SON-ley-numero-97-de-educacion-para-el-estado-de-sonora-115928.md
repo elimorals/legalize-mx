@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-97-de-educacion-para-el-estado-de-sonora-115928"
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-14"
-last_updated: "2016-07-14"
+last_updated: "2016-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # LEY NUMERO 97, DE EDUCACION PARA EL ESTADO DE SONORA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE JULIO DE 2016 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 18 DE JULIO DE 2016.]</small>
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 14 de julio de 2016.
 
@@ -978,6 +978,12 @@ Se derogan todas las disposiciones que se opongan a la presente ley.
 ###### ARTÍCULO CUARTO.
 
 Las autoridades educativas y los organismos descentralizados al suscribir los convenios a que se refiere el artículo 61 de la Ley General del Servicio Profesional Docente, dicho precepto, definirán los criterios específicos que en su caso podrán observar un ciclo escolar para quienes se encuentren con nombramiento definitivo de permanencia y dos ciclos escolares para quienes se encuentren en periodo de inducción en la función.
+
+> <small>(F. DE E., B.O. 18 DE JULIO DE 2016)</small>
+
+###### ARTÍCULO QUINTO.
+
+De conformidad con lo que establecen los artículos transitorios segundo y tercero del decreto por el que se reforman los artículos 3° y 31 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 09 de febrero de 2012, se deberán incluir en el presupuesto del Estado, de manera gradual y creciente, los recursos para garantizar el cumplimiento de la obligación del Estado de proporcionar cobertura total en educación media superior a más tardar en el ciclo escolar 2021-2022.
 
 Comuníquese al Titular del Poder Ejecutivo para su sanción y publicación en el Boletín Oficial del Gobierno del Estado.- SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO. Hermosillo, Sonora, 30 de junio de 2016. C. DAVID HOMERO PALAFOX CELAYA, DIPUTADO PRESIDENTE.- RÚBRICA. C. JOSÉ ANGÉL ROCHÍN LÓPEZ, DIPUTADO SECRETARIO.- RÚBRICA.- C. JOSÉ LUIS CASTILLO GODÍNEZ, DIPUTADO SECRETARIO.- RÚBRICA.
 
