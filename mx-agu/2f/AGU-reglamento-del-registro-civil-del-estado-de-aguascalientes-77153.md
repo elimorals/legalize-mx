@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-registro-civil-del-estado-de-aguascalientes-7715
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-01"
-last_updated: "2010-11-01"
+last_updated: "2016-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,15 @@ state: "AGU"
 ---
 # REGLAMENTO DEL REGISTRO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-REGLAMENTO DE LA DIRECCION GENERAL DEL REGISTRO CIVIL DEL ESTADO DE AGUASCALIENTES
+REGLAMENTO DE LA DIRECCIÓN GENERAL DEL REGISTRO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2016.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 1 de noviembre de 2010.
 
 ING. LUIS ARMANDO REYNOSO FEMAT, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, en ejercicio de la facultad que me confiere la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y los Artículos 10 y 11 de la Ley Orgánica de la Administración Pública del Gobierno del Estado;
 
-CONSIDERANDO:.
+CONSIDERANDO:...
 
 En esta tesitura el Código Civil para el Estado Libre y Soberano de Aguascalientes, establece las normas a que está sujeta la Dirección del Registro Civil en el Estado como un Registro de carácter público y de interés social, por medio de la cual el Estado inscribe y da publicidad a los actos constitutivos o modificativos del estado civil de las personas; que del contenido de los preceptos relativos se desprende la obligación y la necesidad en algunos casos, de reglamentar determinadas acciones para el buen funcionamiento de la Dirección General; implica la claridad de conceptos y normas a que está sujeto el trabajo de los servidores públicos que en dicha entidad laboran; que para cumplir eficazmente con ello, se hace necesario actualizar la reglamentación, las atribuciones de la misma, abrogando el reglamento existente, debido a que no contempla con fidelidad como se realizan actualmente los actos registrales, incluyendo algunos trámites que con el desarrollo e implementación de las nuevas tecnologías de la información en la operación del mismo, así como las modificaciones que ha sufrido el Código Civil desde la publicación del Reglamento interno que actualmente rige al Registro Civil y los cambios en los procedimientos para llevar a cabo la inscripción y dación de publicidad de los actos del estado civil de las personas, dando cumplimiento a lo establecido por el Titular del Ejecutivo Estatal en el Plan Estatal de Desarrollo directriz 2 reto 10 correspondiente a la Gobernabilidad y el reto 7 que tipifica la participación democrática, referenciando la cohesión y dinámica poblacional en el rubro de la Modernización Integral del Registro Civil. Por tales razones, he tenido a bien expedir el nuevo Reglamento Interno del Registro Civil en los siguientes términos:
 
@@ -121,9 +121,11 @@ b) Los pagos por derechos correspondientes deben efectuarse, en los lugares prev
 
 El Registro Civil para el debido cumplimiento de sus funciones contará orgánicamente con la siguiente estructura:
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2016)</small>
+
 ###### Artículo 4°.
 
-Dirección General, al frente de la cual se encuentra un Director General del Registro Civil, se auxiliará del Subdirector, Coordinadores, Jefes de Departamento y encargados de Secciones necesarias para el ejercicio de sus funciones.
+Dirección General, al frente de la cual se encuentra un Director General del Registro Civil, se auxiliará de un Director Jurídico, de dos Coordinadores y de los Encargados de Secciones necesarios para el ejercicio de sus funciones.
 
 a) La designación del Director General se realiza bajo nombramiento emitido por el C. Gobernador Constitucional del Estado de Aguascalientes;
 
@@ -157,9 +159,13 @@ II. Dar cumplimiento cabal a las diversas disposiciones jurídicas aplicables al
 
 III. Implementar programas y métodos que contribuyan a la mejor aplicación y empleo de los elementos técnicos y humanos del sistema registral, para lograr la eficacia y eficiencia del mismo;
 
-IV. Proponer al Secretario General de Gobierno, el nombramiento y cambio de los titulares de las Jefaturas de Departamento que conforman la Dirección General del Registro Civil;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
 
-V. Establecer políticas de rotación de personal de acuerdo a las necesidades del servicio, incluyendo a los Oficiales del Registro Civil, a jurisdicción distinta de aquella para la que hubieren sido designados originalmente, así como a los Jefes de Departamento y Secciones que conforman la Dirección General del Registro Civil;
+IV. Proponer al Secretario General de Gobierno, el nombramiento y cambio de los Encargados de Secciones que conforman la Dirección General del Registro Civil;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
+
+V. Establecer políticas de rotación de personal de acuerdo a las necesidades del servicio, incluyendo a los Oficiales del Registro Civil, a jurisdicción distinta de aquella para la que hubieren sido designados originalmente, así como a los Encargados de Secciones que conforman la Dirección General del Registro Civil;
 
 VI. Proponer la apertura de nuevas Oficialías de acuerdo a las necesidades sociodemográficas del Estado;
 
@@ -187,7 +193,9 @@ XVII. Cumplir los acuerdos e instrucciones del Secretario General de Gobierno y 
 
 XVIII. Establecer los lineamientos tendientes a unificar los criterios en la práctica registral, los que tendrán vigencia y obligatoriedad, a partir de la fecha en que sean comunicados al personal de la Dirección General del Registro Civil;
 
-XIX. Apoyar y vigilar a las Coordinaciones de Oficialías y de Informática en el procedimiento de asignación de la Clave Única de Registro de Población, ordenar la concentración de la información de los registros y anotaciones marginales, para ser enviadas oportunamente a las dependencias y entidades de la administración pública Federal, con las que se han celebrado previamente acuerdos al respecto. Asimismo, ordenar la elaboración de la información que sea requerida por el Registro Nacional de Población e Identificación Personal, para la actualización del Registro Nacional de ciudadanos y el de menores de edad;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
+
+XIX. Apoyar y vigilar a la Coordinación de Oficialías en el procedimiento de asignación de la Clave Única de Registro de Población, ordenar la concentración de la información de los registros y anotaciones marginales para ser enviadas oportunamente a las dependencias y entidades de la administración pública Federal, con las que se han celebrado previamente acuerdos al respecto. Asimismo, ordenar la elaboración de la información que sea requerida por el Registro Nacional de Población e Identificación Personal, para la actualización del Registro Nacional de ciudadanos y el de menores de edad;
 
 XX. Establecer los programas de capacitación, del personal de la Dirección del Registro Civil;
 
@@ -241,269 +249,47 @@ XLIV. Proporcionar los datos que le sean solicitados por las Embajadas y Consula
 
 XLV. Solicitar asesoría consultiva y técnica a la Secretaría General de Gobierno, así como al Registro Nacional de Población e Identificación Personal;
 
-XLVI. Ordenar a los Coordinadores (Administrativo, de Informática o de Oficialías), realizar las supervisiones ordinarias o extraordinarias necesarias a los apéndices, bases de datos y documentos relacionados con los actos registrales celebrados en las Secciones de la Dirección General, Oficialías Locales, Foráneas y Oficinas descentralizadas, las mismas se harán en presencia del Oficial del Registro Civil o Jefe de Sección correspondiente y los resultados se asentarán en un Acta circunstanciada que al efecto se elabore, la cual deberá firmarse por el personal que haya intervenido, designado previamente por el Director General. La supervisión podrá ser de carácter físico, técnico o informático.
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
 
-En caso de encontrar anomalías, serán turnadas a las autoridades competentes para su evaluación y aplicación de las medidas correspondientes que las leyes y estatutos jurídicos que nos rigen, y conforme a lo establecido en el artículo 16 del presente reglamento, la periodicidad de las supervisiones extraordinarias no podrá ser en un plazo mayor a 6 meses y las ordinarias se realizarán mensualmente;
+XLVI. Ordenar a los Coordinadores de Formatos Valorados y de Oficialías, realizar las supervisiones ordinarias o extraordinarias necesarias a los apéndices, bases de datos y documentos relacionados con los actos registrales celebrados en las Secciones de la Dirección General, Oficialías Locales, Foráneas y Oficinas descentralizadas, las mismas se harán en presencia del Oficial del Registro Civil o encargado de Sección correspondiente y los resultados se asentarán en un Acta circunstanciada que al efecto se elabore, la cual deberá firmarse por el personal que haya intervenido, designado previamente por el Director General. La supervisión podrá ser de carácter físico o técnico. En caso de encontrar anomalías, serán turnadas a las autoridades competentes para su evaluación y aplicación de las medidas correspondientes que las leyes y estatutos jurídicos que nos (sic) rigen, y conforme a lo establecido en el artículo 16 del presente reglamento, la periodicidad de las supervisiones extraordinarias no podrá ser en un plazo mayor a 6 meses y las ordinarias se realizarán mensualmente;
 
-XLVII. El Director General será suplido en sus ausencias temporales por el Subdirector en un plazo que no exceda los 20 días; y
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
 
-XLVIII. Las demás que establezca el presente Reglamento y otros ordenamientos jurídicos aplicables; (sic)
+XLVII. El Director General será suplido en sus ausencias temporales por el Director Jurídico en un plazo que no exceda los 20 días; y
+
+XLVIII. Las demás que establezca el presente Reglamento y otros ordenamientos jurídicos aplicables;
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2016)</small>
 
 ###### Artículo 5°.
 
-Subdirección del Registro Civil adscrita a la Dirección General, al frente de la cual se encuentra un Subdirector, se auxiliará de los Coordinadores, Jefes de Departamento y Encargados de Secciones necesarias para el ejercicio de sus funciones:
+El Director Jurídico adscrito a la Dirección General, será designado por el Secretario General de Gobierno a propuesta del Director General del Registro Civil y suplido en sus ausencias temporales por el Coordinador de Oficialías en un plazo que no exceda los 20 días.
 
-a) La designación del Subdirector se realiza bajo nombramiento emitido por el C. Gobernador Constitucional del Estado de Aguascalientes;
+Para ser Director Jurídico del Registro Civil se requiere:
 
-b) El Subdirector depende del Director General;
+I. Ser ciudadano mexicano, mayor de 25 años de edad y estar en ejercicio de sus derechos y contar con plena capacidad legal;
 
-c) Para ser Subdirector del Registro Civil se requiere:
+II. Contar con título de Licenciatura en Derecho, cédula profesional vigente y debidamente registrada ante el Registro Nacional de Profesiones;
 
-1) Ser ciudadano mexicano, mayor de 25 años de edad y menor de 65 años, estar en ejercicio de sus derechos y contar con plena capacidad legal;
+III. Acreditar práctica profesional en materia civil por un término mínimo de cinco años anteriores a su nombramiento;
 
-2) Contar con título de Licenciatura en Derecho, cédula profesional vigente y debidamente registrada ante el Registro Nacional de Profesiones;
+IV. No encontrarse inhabilitado para ejercer la profesión, gozar de buena reputación personal y profesional;
 
-3) Acreditar práctica profesional en materia civil por un término mínimo de cinco años anteriores a su nombramiento;
+V. No tener antecedentes penales por delito culposo y ser de reconocida probidad; y
 
-4) No encontrase (sic) inhabilitado para ejercer la profesión, gozar de buena reputación personal y profesional;
+VI. No ser ministro de algún culto religioso o militar en servicio activo.
 
-5) No tener antecedentes penales por delito culposo, ser de reconocida probidad; y
-
-6) No ser ministro de algún culto religioso o militar en servicio activo;
-
-d) Son facultades y atribuciones de la Subdirección:
-
-I. Vigilar el cumplimiento de las disposiciones legales así como de los acuerdos y circulares que se emitan;
-
-II. Auxiliar al Director General en la coordinación administrativa, de oficialías y de informática del Registro Civil;
-
-III. Proporcionar a los oficiales del Registro Civil ya sean locales o foráneos, así como a los encargados de sección, los apoyos de carácter jurídico, administrativo y técnico necesarios para llevar a cabo sus actividades;
-
-IV. Identificar las necesidades de las oficialías del Registro Civil, con respecto a recursos humanos y materiales necesarios para su adecuado funcionamiento;
-
-V. Proponer al Director General la delimitación en la jurisdicción de cada oficialía;
-
-VI. Elaborar informes mensual y anual de las actividades de la Dirección General del Registro Civil;
-
-VII. Proponer al Director General los programas de capacitación, actualización y profesionalización del personal del Registro Civil, de acuerdo a las necesidades detectadas, para la mejor prestación del servicio;
-
-VIII. Determinar la suplencia de los Oficiales del Registro Civil en sus ausencias de carácter temporal;
-
-IX. Coordinar las funciones del Registro Civil, proponiendo al Director General los planes, programas y métodos que contribuyan a la mejor aplicación y empleo de los elementos jurídicos, técnicos y humanos para el eficaz funcionamiento del mismo;
-
-X. Llevar el control y administración de las hojas valoradas, manteniendo la debida coordinación con la Secretaria de Finanzas;
-
-XI. Llevar un catálogo con los datos generales de los oficiales del Registro Civil con fotografía y la firma registrada para el desempeño de su función;
-
-XII. El Subdirector será suplido en sus ausencias temporales por el Coordinador de Oficialías en un plazo que no exceda los 20 días; y
-
-XIII. Las demás funciones que el Director General le asigne.
-
-###### Artículo 6°.
-
-Coordinaciones del Registro Civil, adscritas a la Dirección General, al frente se encuentra un Coordinador, coadyuvarán entre sí y se auxiliará de los Jefes de Departamento y Encargados de Secciones necesarias para el ejercicio de sus funciones:
-
-a) Se dividen en 3 Coordinaciones:
-
-1) Coordinación Administrativa;
-
-2) Coordinación de Informática; y
-
-3) Coordinación de Oficialías;
-
-b) La designación de las Coordinaciones se realiza bajo nombramiento emitido por el C. Gobernador Constitucional del Estado de Aguascalientes;
-
-c) Las Coordinaciones dependen de la Dirección General y la Subdirección; y
-
-d) Para ser Coordinador del Registro Civil se requiere:
-
-1) Ser ciudadano mexicano, mayor de 25 años de edad y menor de 65 años, estar en ejercicio de sus derechos y contar con plena capacidad legal;
-
-2) Contar con título de Licenciatura y cédula profesional vigente, acreditar práctica profesional en la misma, experiencia en un puesto similar por un término mínimo de 3 años anteriores a su nombramiento;
-
-3) No encontrase (sic) inhabilitado para ejercer la profesión, gozar de buena reputación personal y profesional;
-
-4) No tener antecedentes penales por delito culposo, ser de reconocida probidad; y
-
-5) No ser ministro de algún culto religioso o militar en servicio activo.
-
-###### Artículo 7°.
-
-Son facultades y atribuciones de la Coordinación Administrativa:
-
-I. Cumplir y hacer cumplir los acuerdos y circulares que se emitan;
-
-II. Llevar el registro de firmas y rúbricas auténticas de los Oficiales del Registro Civil;
-
-III. Poner en conocimiento del Director General y al Subdirector, de las ausencias, faltas, omisiones en que incurran los Oficiales del Registro Civil y demás empleados administrativos;
-
-IV. Llevar el control del personal en cuanto a entradas, salidas, permisos, días económicos, y demás prestaciones, realizando las incidencias correspondientes haciendo el trámite ante la Dirección Administrativa de la Secretaria General de Gobierno;
-
-V. Proponer a la Dirección General, los estímulos al personal que se requieran para eficiente (sic) el servicio del Registro Civil;
-
-VI. Auxiliar a la Subdirección en las actividades de capacitación del personal del Registro Civil;
-
-VII. Convocar a reuniones de trabajo de los Oficiales del Registro Civil;
-
-VIII. Elaborar los informe (sic) mensual y anual de las actividades de la Dirección General del Registro Civil;
-
-IX. Proporcionar el suministro de material de trabajo a las diversas Secciones, Oficialías y Oficinas descentralizadas;
-
-X. Mantener actualizado el inventario de los bienes muebles e inmuebles asignados para las funciones del Registro Civil, Oficialías Locales, Foráneas, Registro Civil Móvil y Oficinas Descentralizadas;
-
-XI. Administrar a cada oficialía de acuerdo a sus necesidades, los formatos de hojas valoradas, previo el pago de los derechos ante la Secretaria de Finanzas;
-
-XII. Solicitar la licitación de la compra de Formatos de Asentamientos y de papel valorado para la expedición de certificaciones de todo tipo de Actas y Constancias de Inexistencia;
-
-XIII. Informar al Registro Nacional de Población de las Altas y Bajas de lo (sic) Oficiales del Registro Civil;
-
-XIV. Coadyuvar con la Dirección General y la Secretaría General de Gobierno en la comprobación de de (sic) los Recursos Federales y Estatales tipificados en los anexos de transferencias que la Federación realiza a través del Registro Nacional de Población y el Gobierno del Estado a través de la Dirección General del Registro Civil perteneciente a la Secretaría General de Gobierno, enviando copias de las facturas certificadas por la Contraloría General del Estado, al órgano de fiscalización de la Secretaría de Gobernación, mismos que deberán corresponder al ejercicio fiscal en curso, para su compulsa y posterior aprobación;
-
-XV. Diseñar el manual de procedimientos y operaciones de la Dirección General del Registro Civil;
-
-XVI. Llevar el control y dotar de las hojas de formato valorado y papelería a los Centros de Atención y de Servicio del Gobierno del Estado;
-
-XVII. Diseñar y actualizar el Organigrama del Registro Civil;
-
-XVIII. Suministrar los insumos necesarios para el desempeño de las funciones propias de la institución, dotándole a su personal y a cada Sección correspondiente con los insumos y material necesario para su operación;
-
-XIX. Elaborar y solicitar mensualmente a la Dirección Administrativa de la Secretaría General de Gobierno, las requisiciones para dar puntual cumplimiento a la fracción anterior;
-
-XX. Gestionar ante la Dirección Administrativa de la Secretaría General de Gobierno la comprobación de los viáticos y gastos realizados por la Dirección General del Registro Civil;
-
-XXI. Representar al Director General en los procesos de Licitación que se lleven a cabo por parte de misma (sic) en las compras de cualquier índole que así lo requieran;
-
-XXII. El Coordinador Administrativo será suplido en sus ausencias temporales por el colaborador más cercano en un plazo que no exceda los 20 días; y
-
-XXII (SIC). Las demás funciones que le sean encomendadas por el Director General y el Subdirector de contenido Administrativo.
-
-###### Artículo 8°.
-
-Son facultades y atribuciones de la Coordinación de Informática:
-
-I. Llevar a cabo todas las actividades que sean necesarias para la implantación, mantenimiento, actualización y adecuado funcionamiento del sistema informático de captura de datos relativos a los Actos de estado civil de las personas, para la debida emisión de las Constancias y Actas que sean solicitadas por los usuarios del servicio;
-
-II. Llevar el registro y control de las Claves de Acceso del sistema al personal autorizado;
-
-III. Informar al Director General del mal uso que de ellas se haga por parte del persona (sic);
-
-IV. Poner en conocimiento al Director General y Subdirector, de las fallas y deficiencias del sistema, para su inmediata resolución;
-
-V. Impartir y gestionar cursos de capacitación al personal del Registro Civil;
-
-VI. Convocar a reuniones de trabajo de los Oficiales del Registro Civil, en el área relativa a manejo de sistemas de informática;
-
-VII. Elaborar los informes mensual y anual de las actividades de la Dirección General del Registro Civil en lo que corresponde al aspecto Informático;
-
-VIII. Mantener actualizado el inventario de los equipos de cómputo, bienes muebles y accesorios para su adecuado servicio, que sean asignados para las funciones del Registro Civil;
-
-IX. Administrar y la (sic) conservar el correcto funcionamiento de la red de comunicaciones del Registro Civil;
-
-X. Formular los manuales técnicos y del usuario de los sistemas que se implanten para la captura de los datos relacionados con el registro de los actos del estado civil de las personas;
-
-XI. Elaborar, analizar y resguardar los respaldos informáticos, respecto a los hechos y actos del estado civil de las personas, que se generan en toda la Dirección General del Registro Civil;
-
-XII. Archivar los instrumentos informáticos de respaldos de información respecto de los asentamientos, movimientos y actualización realizados en la base de datos del Registro Civil, previendo la copias de los respaldos por duplicado como medida de seguridad, esto se llevará a cabo diariamente;
-
-XIII. Trabajar en coordinación con los tres niveles de Gobierno, a orden expresa del Director General, previa autorización de la Secretaría General de Gobierno;
-
-XIV. Coadyuvar en la verificación de lo establecido en el artículo 4 inciso b) fracción XXXIX, referente a las facultades y atribuciones del Director General, de acuerdo a lo que establece y tipifica dicho ordenamiento Interinstitucional en el estricto ámbito de su competencia, puntualizando que cualquier movimiento deberá ser informado y autorizado por el Director General;
-
-XV. Realizar el envío mensual de la información y la documentación que debe remitirse la (sic) Registro Nacional de Población e Identificación Personal, conforme a lo establecido en el convenio signado con éste, supervisando el correcto asentamiento de la Clave Única de Registro de Población, en todas las Oficialías del Registro Civil;
-
-XVI. Presentar al inicio de la toma de posesión de su cargo un proyecto estratégico de modernización integral del Registro Civil, ante el Director General y Subdirector para su aprobación y puesta en marcha, estableciendo claramente los indicadores y objetivos a cumplir;
-
-XVII. El Coordinador de Informática será suplido en sus ausencias temporales por el colaborador más cercano en un plazo que no exceda los 20 días; y
-
-XVIII. Las demás funciones que le sean encomendadas por el Director General y Subdirector, relacionadas con los sistemas informáticos a su cargo.
-
-###### Artículo 9°.
-
-Son facultades y atribuciones de la Coordinación de Oficialías.
-
-I. Realizar los estudios socio demográficos que deben realizarse en los Municipios a fin de proponer a la (sic) Director General y Subdirector, la creación de nuevas Oficialías o el cambio de ubicación de las ya existentes;
-
-II. Vigilar el cumplimiento de las disposiciones legales, las circulares que se emitan, así como de las recomendaciones que se dicten para el adecuado manejo y mantenimiento de los sistemas de informática y equipos de cómputo;
-
-III. Enviar a la Subdirección el registro de firmas y rúbricas auténticas de los Oficiales del Registro Civil;
-
-IV. Supervisar los "Formatos del Registro Civil" y los apéndices de los registros relativos al estado civil de las personas, realizados en todas las Oficialías del Registro Civil;
-
-V. Verificar que las correcciones de los registros se transcriban en los volúmenes que obran en los archivos, y en la base de datos del sistema informático autorizado;
-
-VI. Revisar que los volúmenes existentes en los archivos de las Oficialías se encuentren en perfecto estado;
-
-VII. Supervisar que se efectúen las anotaciones que correspondan en los volúmenes de los "Formatos del Registro Civil" de las Oficialías y en la base de datos del sistema informático autorizado;
-
-VIII. Vigilar que las Oficialías cuenten con los "Formatos del Registro Civil" y los elementos materiales y sistemáticos necesarios para asentar los registros del estado civil de las personas;
-
-IX. Poner en conocimiento de la Coordinación Administrativa, las ausencias, faltas y omisiones en que incurran los Oficiales del Registro Civil;
-
-X. Proponer a la (sic) Director General y Subdirector, la delimitación de la jurisdicción de cada Oficialía, sobre la base de los estudios correspondientes;
-
-XI. Realizar visitas de supervisión a las Oficialías, cuando menos una vez cada mes;
-
-XII. Realizar, en coordinación con la Subdirección, programas permanentes de capacitación para Oficiales del Registro Civil, que permita la actualización de los conocimientos teóricos y prácticos que conforman el marco jurídico, para la elaboración de registros, expedición de Constancias y Actas, mediante procedimientos mecánicos, electrónicos, y/o informáticos y demás elementos necesarios para el desempeño de la función registral;
-
-XIII. Resolver las dudas y consultas que los Oficiales del Registro Civil le formulen en el desempeño de sus funciones;
-
-XIV. Coordinar con las autoridades de los Ayuntamientos, la difusión de los servicios del Registro Civil;
-
-XV. Elaborar informes mensual y anual de actividades;
-
-XVI. Cumplir con todas las funciones que le encomienden el Director General o el Subdirector;
-
-XVII. Gestionar la ubicación de las Oficialías Locales y foráneas, en edificios Gubernamentales, Estatales, Federales y Delegaciones Municipales;
-
-XVIII. El Coordinador de Oficialías será suplido en sus ausencias temporales, por el colaborador más cercano en un plazo que no exceda los 20 días; y
-
-XIX. Las demás funciones que le sean encomendadas por el Director General y el Subdirector.
-
-###### Artículo 10.
-
-Las Jefaturas de Departamento, adscritas a la Dirección General, al frente se encuentra un Jefe del Departamento, coadyuvarán entre sí y se auxiliará de los Encargados de Secciones necesarias para el ejercicio de sus funciones.
-
-a) La designación de las Jefaturas de Departamento se realiza bajo nombramiento emitido por el C. Secretario General de Gobierno, a propuesta del Director General;
-
-b) Se dividen en 3 Jefaturas de Departamento:
-
-1) Jefatura del Departamento Jurídico;
-
-2) Jefatura del Departamento de Estadística; y
-
-3) Jefatura del Departamento de Archivo;
-
-c) Las Jefaturas de Departamento dependen de la Dirección General y la Subdirección; y
-
-d) Para ser Jefe del Departamento del Registro Civil se requiere:
-
-1) Ser ciudadano mexicano, mayor de 25 años de edad y menor de 65 años, estar en ejercicio de sus derechos y contar con plena capacidad legal;
-
-2) Contar con Título de Licenciatura y cédula Profesional vigente debidamente registrada ante el Registro Nacional de Profesiones;
-
-3) Acreditar práctica profesional por un término mínimo de 3 años anteriores a su nombramiento;
-
-4) No encontrase (sic) inhabilitado para ejercer la profesión, gozar de buena reputación personal y profesional;
-
-5) No tener antecedentes penales por delito culposo, ser de reconocida probidad;
-
-6) No ser ministro de algún culto religioso o militar en servicio activo; y
-
-7) Acreditar examen psicométrico y valoración de conocimientos por parte de la Secretaría de Gestión e Innovación, que valide que son aptos para el desempeño de sus funciones por la importancia y responsabilidad de su cargo.
-
-###### Artículo 11.
-
-Son facultades y atribuciones del jefe del departamento Jurídico:
+La Dirección Jurídica tendrá las siguientes atribuciones:
 
 I. Emitir los criterios normativos para el buen funcionamiento del Registro Civil, conforme a las disposiciones jurídicas aplicables;
 
-II. Auxiliar al Director General y Subdirector en todo lo relacionado con los trámites, procedimientos administrativos o jurisdiccionales de contenido jurídico en los que la Dirección General del Registro Civil es parte interesada;
+II. Auxiliar al Director General en todo lo relacionado con los trámites, procedimientos administrativos o jurisdiccionales de contenido jurídico en los que la Dirección General del Registro Civil es parte interesada;
 
 III. Asesorar jurídicamente a los oficiales del Registro Civil en el trámite de asentamiento de los hechos y actos del estado civil de las personas;
 
-IV. Auxiliar al Director General y al Subdirector a levantar las actas de hechos de los servidores públicos adscritos al Registro Civil, para luego turnarlas a la instancia competente;
+IV. Auxiliar al Director General a levantar las actas de hechos de los servidores públicos adscritos al Registro Civil, para luego turnarlas a la instancia competente;
 
-V. Presentar la denuncia de hechos ante el Agente del Ministerio Público correspondiente, en caso de pérdida o destrucción de "Formatos Asentamientos, hojas valoradas, volúmenes de libros, documentos y apéndices";
+V. Presentar la denuncia de hechos ante el Agente del Ministerio Público correspondiente, en caso de pérdida o destrucción de formatos, asentamientos, hojas valoradas, volúmenes de libros, documentos y apéndices;
 
 VI. Proponer cursos de capacitación para el personal actualizándolos sobre las modificaciones a los ordenamientos legales aplicables al Registro Civil;
 
@@ -511,13 +297,155 @@ VII. Levantar las actas circunstanciadas de supervisión a los oficiales del Reg
 
 VIII. Contestar demandas de cualquier tipo, con firma y aprobación del Director General;
 
-IX. El jefe del departamento Jurídico será suplido en sus ausencias temporales por el colaborador más cercano en un plazo que no exceda los 20 días; y
+XI (SIC). Vigilar el cumplimiento de las disposiciones legales, así como de los acuerdos y circulares que se emitan;
 
-X. Realizar las demás funciones propias de su profesión, que le encomiende el Director General y el Subdirector.
+X. Proporcionar a los oficiales del Registro Civil ya sean locales o foráneos, así como a los Encargados de Sección, los apoyos de carácter jurídico necesarios para llevar a cabo sus actividades;
+
+XI. Identificar las necesidades de las oficialías del Registro Civil, con respecto a recursos humanos y materiales necesarios para su adecuado funcionamiento;
+
+XII. Proponer al Director General la delimitación en la jurisdicción de cada oficialía;
+
+XIII. Elaborar informes mensual y anual de las actividades de la Dirección General del Registro Civil;
+
+XIV. Proponer al Director General los programas de capacitación, actualización y profesionalización del personal del Registro Civil, de acuerdo a las necesidades detectadas para la mejor prestación del servicio;
+
+XV. Determinar la suplencia de los Oficiales del Registro Civil en sus ausencias de carácter temporal;
+
+XVI. Coordinar las funciones del Registro Civil, proponiendo al Director General los planes, programas y métodos que contribuyan a la mejor aplicación y empleo de los elementos jurídicos, técnicos y humanos para el eficaz funcionamiento del mismo; y
+
+XVII. Las demás funciones que el Director General le asigne.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2016)</small>
+
+###### Artículo 6°.
+
+Coordinaciones del Registro Civil adscritas a la Dirección General, al frente se encuentra un Coordinador, coadyuvarán entre sí y se auxiliarán de los Encargados de Secciones necesarios para el ejercicio de sus funciones.
+
+El Registro Civil contará con las siguientes Coordinaciones:
+
+1) Coordinación de Formatos Valorados; y
+
+2) Coordinación de Oficialías.
+
+Para ser Coordinador del Registro Civil se requiere:
+
+1) Ser ciudadano mexicano, mayor de 25 años de edad, estar en ejercicio de sus derechos y contar con plena capacidad legal;
+
+2) No encontrarse inhabilitado para ejercer la profesión, gozar de buena reputación personal y profesional;
+
+3) No tener antecedentes penales por delito culposo, ser de reconocida probidad; y
+
+4) No ser ministro de algún culto religioso o militar en servicio activo.
+
+Los Coordinadores de Formatos Valorados y de Oficialías serán suplidos en sus ausencias temporales por el servidor público inmediato inferior en un plazo que no exceda los 20 días.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2016)</small>
+
+###### Artículo 7°.
+
+Son facultades y atribuciones de la Coordinación de Formatos Valorados:
+
+I. Cumplir y hacer cumplir los acuerdos y circulares que se emitan;
+
+II. Guardar, custodiar y administrar los formatos valorados;
+
+III. Administrar a las Oficialías Locales, Foráneas, Registro Civil Móvil y Oficinas Descentralizadas, al área de actas foráneas, al archivo, a los Centros de Atención y Servicios, y de acuerdo a sus necesidades, los formatos de hojas valoradas, previo el pago de los derechos ante la Secretaría de Finanzas; así mismo administrará al área de nacimientos de la oficina central con motivo de la primer acta gratuita, comprobando el encargado del área que corresponda la entrega;
+
+IV. Solicitar la licitación de la compra de formatos de asentamientos y de papel valorado para la expedición de certificaciones de todo tipo de actas y constancias de Inexistencia;
+
+V. Coadyuvar con la Dirección General y la Secretaría General de Gobierno en la comprobación de los recursos federales y estatales tipificados en los anexos de transferencias que la Federación realiza a través del Registro Nacional de Población y el Gobierno del Estado a través de la Dirección General del Registro Civil perteneciente a la Secretaría General de Gobierno, enviando copias de las facturas certificadas por la Secretaría de Fiscalización y Rendición de Cuentas, a la Dirección Administrativa de la Secretaría General de Gobierno, mismos que deberán corresponder al ejercicio fiscal en curso, para su compulsa y posterior aprobación;
+
+VI. Suministrar los insumos necesarios para el desempeño de las funciones propias de la institución, dotándole al personal y a cada sección de los insumos y materiales necesarios para su operación;
+
+VII. Elaborar y solicitar mensualmente a la Dirección Administrativa de la Secretaría General de Gobierno, las requisiciones para dar puntual cumplimiento a la fracción anterior;
+
+VIII. Informar de forma inmediata al Director General de las anomalías que se presenten debido a la administración de los formatos valorados entregados a los Oficiales del Registro Civil y demás empleados administrativos;
+
+IX. Elaborar un informe mensual y anual de los pagos realizados por la venta de formatos valorados, por los Oficiales del Registro Civil y demás personal;
+
+X. Conservar los recibos originales expedidos por la Secretaría de Finanzas que avalen la venta de los formatos valorados expedidos; y
+
+XI. Las demás funciones que le sean encomendadas por el Director General.
+
+###### Artículo 8°.
+
+(DEROGADO, P.O. 18 DE JULIO DE 2016)
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2016)</small>
+
+###### Artículo 9°.
+
+Son facultades y atribuciones de la Coordinación de Oficialías:
+
+I. Realizar los estudios socio demográficos que deben realizarse en los Municipios a fin de proponer al Director General, la creación de nuevas Oficialías o el cambio de ubicación de las ya existentes;
+
+II. Vigilar el cumplimiento de las disposiciones legales y de las circulares que se emitan, así como de las recomendaciones que se dicten para el adecuado manejo y mantenimiento de los sistemas de informática y equipos de cómputo;
+
+III. Enviar a la Dirección Jurídica el registro de firmas y rúbricas auténticas de los Oficiales del Registro Civil;
+
+IV. Supervisar los formatos del Registro Civil y los apéndices de los registros relativos al estado civil de las personas, realizados en todas las Oficialías del Registro Civil;
+
+V. Verificar que las correcciones de los registros se transcriban en los volúmenes que obran en los archivos, y en la base de datos del sistema informático autorizado;
+
+VI. Revisar que los volúmenes existentes en los archivos de las Oficialías se encuentren en perfecto estado;
+
+VII. Supervisar que se efectúen las anotaciones que correspondan en los volúmenes de los formatos del Registro Civil, de las Oficialías y en la base de datos del sistema informático autorizado;
+
+VIII. Vigilar que las Oficialías cuenten con los formatos del Registro Civil y los elementos materiales y sistemáticos necesarios para asentar los registros del estado civil de las personas;
+
+IX. Poner en conocimiento de la Dirección Administrativa de la Secretaría General de Gobierno, las ausencias, faltas y omisiones en que incurran los Oficiales del Registro Civil;
+
+X. Proponer al Director General la delimitación de la jurisdicción de cada Oficialía, sobre la base de los estudios correspondientes;
+
+XI. Realizar visitas de supervisión a las Oficialías, cuando menos una vez cada mes;
+
+XII. Realizar en coordinación con la Dirección Jurídica, programas permanentes de capacitación para Oficiales del Registro Civil, que permita la actualización de los conocimientos teóricos y prácticos que conforman el marco jurídico, para la elaboración de registros, expedición de constancias y actas, mediante procedimientos mecánicos, electrónicos, y/o informáticos y demás elementos necesarios para el desempeño de la función registral;
+
+XIII. Resolver las dudas y consultas que los Oficiales del Registro Civil le formulen en el desempeño de sus funciones;
+
+XIV. Coordinar con las autoridades de los Ayuntamientos, la difusión de los servicios del Registro Civil;
+
+XV. Elaborar informes mensual y anual de actividades;
+
+XVI. Cumplir con todas las funciones que le encomienden el Director General y el Director Jurídico;
+
+XVII. Gestionar la ubicación de las Oficialías locales y foráneas, en edificios gubernamentales, estatales, federales y delegaciones municipales; y
+
+XVIII. Las demás funciones que le sean encomendadas por el Director General y el Director Jurídico.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2016)</small>
+
+###### Artículo 10.
+
+Los Encargados de Secciones, adscritas a la Dirección General, se dividen en:
+
+1) Encargado de la Sección de Estadística; y
+
+2) Encargado de la Sección de Archivo.
+
+Para ser Encargado de Sección del Registro Civil se requiere:
+
+1) Ser ciudadano mexicano, mayor de 25 años de edad y estar en ejercicio de sus derechos y contar con plena capacidad legal;
+
+2) Acreditar práctica profesional por un término mínimo de 3 años anteriores a su nombramiento;
+
+3) No encontrase inhabilitado para ejercer la profesión, gozar de buena reputación personal y profesional;
+
+4) No tener antecedentes penales por delito culposo, ser de reconocida probidad;
+
+5) No ser ministro de algún culto religioso o militar en servicio activo; y
+
+6) Acreditar examen psicométrico y valoración de conocimientos por parte de la Secretaría de Gestión e Innovación, que valide que son aptos para el desempeño de sus funciones por la importancia y responsabilidad de su cargo.
+
+###### Artículo 11.
+
+(DEROGADO, P.O. 18 DE JULIO DE 2016)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2016)</small>
 
 ###### Artículo 12.
 
-Son facultades y atribuciones del Departamento de Estadística:
+Son facultades y atribuciones de la Sección de Estadística:
 
 I. Recabar la información estadística de las oficialías del Registro Civil y las oficinas descentralizadas de los registros de los hechos y actos del estado civil de las personas que se realicen en la Entidad;
 
@@ -539,9 +467,11 @@ IX. El jefe del departamento de Estadística será suplido en sus ausencias temp
 
 X. Realizar las demás funciones que le encomiende el Director General y el Subdirector.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2016)</small>
+
 ###### Artículo 13.
 
-Son facultades y atribuciones del Departamento de Archivo:
+Son facultades y atribuciones de la Sección de Archivo:
 
 I. Conservar y resguardar los libros que contienen las actas de los Asentamientos, documentos y apuntes que se relacionen con los actos regístrales del Registro Civil;
 
@@ -2120,3 +2050,13 @@ Ing. Luis Armando Reynoso Femat.
 EL C. SECRETARIO GENERAL DE GOBIERNO.
 
 Lic. Juan Ángel José Pérez Talamantes.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DE LAS "REFORMAS AL REGLAMENTO DEL REGISTRO CIVIL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al siguiente día de su publicación en el Periódico Oficial del Estado.
