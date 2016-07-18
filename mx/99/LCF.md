@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "2016-04-27"
+last_updated: "2016-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCF"
 
 LEY DE COORDINACIÓN FISCAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE JULIO DE 2016.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 27 de diciembre de 1978.
 
@@ -966,7 +966,7 @@ V.- Fondo de Aportaciones Múltiples;
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-VI.- Fondo de Aportaciones para la Educación Tecnológica y de Adultos, y (sic)
+VI.- Fondo de Aportaciones para la Educación Tecnológica y de Adultos, y
 
 (ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998
 
@@ -1466,19 +1466,15 @@ Los Estados, el Distrito Federal, los Municipios y las Demarcaciones Territorial
 
 Las entidades federativas enterarán al ente ejecutor local del gasto, el presupuesto que le corresponda en un máximo de cinco días hábiles, una vez recibida la ministración correspondiente de cada uno de los Fondos contemplados en el Capítulo V del presente ordenamiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 49.
 
-Las aportaciones y sus accesorios que con cargo a los Fondos a que se refiere este Capítulo reciban las entidades y, en su caso, los municipios y las demarcaciones territoriales del Distrito Federal, no serán embargables, ni los gobiernos correspondientes podrán, bajo ninguna circunstancia, gravarlas ni afectarlas en garantía o destinarse a mecanismos de fuente de pago, salvo por lo dispuesto en los artículos 50, 51 y 52 de esta Ley. Dichas aportaciones y sus accesorios, en ningún caso podrán destinarse a fines distintos a los expresamente previstos en los artículos 26, 29, 33, 37, 40, 42, 45 y 47 de esta Ley.
+Las aportaciones y sus accesorios que con cargo a los Fondos a que se refiere este Capítulo reciban las entidades y, en su caso, los municipios las alcaldías de la Ciudad de México, no serán embargables, ni los gobiernos correspondientes podrán, bajo ninguna circunstancia, gravarlas ni afectarlas en garantía o destinarse a mecanismos de fuente de pago, salvo por lo dispuesto en los artículos 50, 51 y 52 de esta Ley. Dichas aportaciones y sus accesorios, en ningún caso podrán destinarse a fines distintos a los expresamente previstos en los artículos 26, 29, 33, 37, 40, 42, 45 y 47, así como lo dispuesto en el presente artículo de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2016)</small>
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
-
-Las aportaciones federales serán administradas y ejercidas por los gobiernos de las entidades federativas y, en su caso, de los municipios y las demarcaciones territoriales del Distrito Federal que las reciban, conforme a sus propias leyes, salvo en el caso de los recursos para el pago de servicios personales previsto en el Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo, en el cual se observará lo dispuesto en el artículo 26 de esta Ley. En todos los casos deberán registrarlas como ingresos propios que deberán destinarse específicamente a los fines establecidos en los artículos citados en el párrafo anterior.
+Las aportaciones federales serán administradas y ejercidas por los gobiernos de las entidades federativas y, en su caso, de los municipios y las alcaldías de la Ciudad de México que las reciban, conforme a sus propias leyes en lo que no se contrapongan a la legislación federal, salvo en el caso de los recursos para el pago de servicios personales previsto en el Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo, en el cual se observará lo dispuesto en el artículo 26 de esta Ley. En todos los casos deberán registrarlas como ingresos que deberán destinarse específicamente a los fines establecidos en los artículos citados en el párrafo anterior.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1500,17 +1496,23 @@ II.- Recibidos los recursos de los fondos de que se trate por las Entidades Fede
 
 La supervisión y vigilancia no podrán implicar limitaciones ni restricciones, de cualquier índole, en la administración y ejercicio de dichos Fondos;
 
-> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
 
-III.- La fiscalización de las Cuentas Públicas de las entidades, los municipios y las demarcaciones territoriales del Distrito Federal, será efectuada por el Poder Legislativo local que corresponda, por conducto de su Contaduría Mayor de Hacienda u órgano equivalente conforme a lo que establezcan sus propias leyes, a fin de verificar que las dependencias del Ejecutivo Local y, en su caso, de los municipios y las demarcaciones territoriales del Distrito Federal, respectivamente aplicaron los recursos de los fondos para los fines previstos en esta Ley;
+III.- La fiscalización sobre el ejercicio de los recursos de los Fondos a que se refiere el presente Capítulo corresponde a la Auditoría Superior de la Federación en los términos de la Ley de Fiscalización y Rendición de Cuentas de la Federación;
 
-> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
 
-IV.- La Auditoría Superior de la Federación de la Cámara de Diputados del Congreso de la Unión, al fiscalizar la Cuenta Pública Federal que corresponda, verificará que las dependencias del Ejecutivo Federal cumplieron con las disposiciones legales y administrativas federales y, por lo que hace a la ejecución de los recursos de los Fondos a los que se refiere este capítulo, la misma se realizará en términos del Título Tercero de la Ley de Fiscalización Superior de la Federación, y
+IV.- La Auditoría Superior de la Federación de la Cámara de Diputados del Congreso de la Unión, al fiscalizar la Cuenta Pública Federal que corresponda, verificará que las dependencias del Ejecutivo Federal cumplieron con las disposiciones legales y administrativas federales y, por lo que hace a la ejecución de los recursos de los Fondos a los que se refiere este capítulo, la misma se realizará en términos de la Ley de Fiscalización y Rendición de Cuentas de la Federación.
 
-> <small>(ADICIONADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+Para efectos de la fiscalización a que se refiere el párrafo anterior y con el objeto de fortalecer el alcance, profundidad, calidad y seguimiento de las revisiones realizadas por la Auditoría Superior de la Federación, se transferirá a ésta el 0.1 por ciento de los recursos de los fondos de aportaciones federales aprobados en el Presupuesto de Egresos de la Federación, con excepción del componente de servicios personales previsto en el Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo.
 
-V.- El ejercicio de los recursos a que se refiere el presente capítulo deberá sujetarse a la evaluación del desempeño a que se refiere el artículo 110 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. Los resultados del ejercicio de dichos recursos deberán ser evaluados, con base en indicadores, por instancias técnicas independientes de las instituciones que los ejerzan, designadas por las entidades, a fin de verificar el cumplimiento de los objetivos a los que se encuentran destinados los Fondos de Aportaciones Federales conforme a la presente Ley. Los resultados de las evaluaciones deberán ser informados en los términos del artículo 48 de la presente Ley.
+La Secretaría deducirá el monto correspondiente de los Fondos antes referidos, y lo transferirá a la Auditoría Superior de la Federación a más tardar el último día hábil del mes de junio de cada ejercicio fiscal;
+
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
+
+V. El ejercicio de los recursos a que se refiere el presente capítulo deberá sujetarse a la evaluación del desempeño en términos del artículo 110 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. Los resultados del ejercicio de dichos recursos deberán ser evaluados, con base en indicadores, a fin de verificar el cumplimiento de los objetivos a los que se encuentran destinados los Fondos de Aportaciones Federales conforme a la presente Ley, incluyendo, en su caso, el resultado cuando concurran recursos de la (sic) entidades federativas, municipios o demarcaciones territoriales de la Ciudad de México.
+
+Para efectos de la evaluación a que se refiere el párrafo anterior, se transferirá hasta el 0.05 por ciento de los recursos de los fondos de aportaciones federales aprobados en el Presupuesto de Egresos de la Federación, con excepción del componente de servicios personales previsto en el Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo, al mecanismo que para tal efecto establezca la Secretaría de Hacienda y Crédito Público
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1530,11 +1532,9 @@ Cuando las autoridades de las entidades federativas, de los municipios o de las 
 
 Por su parte, cuando la entidad de fiscalización del Poder Legislativo local, detecte que los recursos de los Fondos no se han destinado a los fines establecidos en esta Ley, deberá hacerlo del conocimiento inmediato de la Auditoría Superior de la Federación de la Cámara de Diputados del Congreso de la Unión.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2016)</small>
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
-
-Las responsabilidades administrativas, civiles y penales en que incurran los servidores públicos federales o locales por el manejo o aplicación indebidos de los recursos de los Fondos a que se refiere este Capítulo, serán determinadas y sancionadas por las autoridades federales o locales competentes, en los términos de las leyes aplicables.
+Las responsabilidades administrativas, civiles y penales en que incurran los servidores públicos federales o locales por el manejo o aplicación indebidos de los recursos de los Fondos a que se refiere este Capítulo, serán determinadas y sancionadas por las autoridades federales, en los términos de las leyes federales aplicables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2337,3 +2337,23 @@ DÉCIMO NOVENO.- Las obligaciones establecidas en los Capítulos I, II y III del
 VIGÉSIMO.- El Consejo Nacional de Armonización Contable deberá emitir, en un plazo máximo de 180 días naturales siguientes a la entrada en vigor del presente Decreto, las normas necesarias para identificar el gasto realizado con recursos provenientes de ingresos de libre disposición, transferencias federales etiquetadas y deuda pública, en los términos definidos en el artículo 2 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 VIGÉSIMO PRIMERO.- Las menciones que en las leyes, reglamentos, decretos y cualquier disposición administrativa, así como en contratos, convenios y cualquier instrumento jurídico se hagan a la Ley General de Deuda Pública, se entenderán referidas a la Ley Federal de Deuda Pública.
+
+D.O.F. 18 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DE LA FEDERACIÓN; Y SE REFORMAN EL ARTÍCULO 49 DE LA LEY DE COORDINACIÓN FISCAL, Y EL ARTÍCULO 70 DE LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO.- Las referencias, remisiones o contenidos del presente Decreto que estén vinculados con la aplicación de la Ley General del Sistema Nacional Anticorrupción, de la Ley General de Responsabilidades Administrativas y de las nuevas facultades del Tribunal Federal de Justicia Administrativa, entrarán en vigor cuando dichos ordenamientos se encuentren vigentes.
+
+TERCERO.- Se abroga la Ley de Fiscalización y Rendición de Cuentas de la Federación, publicada en el Diario Oficial de la Federación el 29 de mayo de 2009, conforme a lo dispuesto en los artículos transitorios subsecuentes y se derogan todas las disposiciones legales que contravengan o se opongan a la presente Ley.
+
+CUARTO.- Los procedimientos administrativos iniciados de conformidad con la Ley de Fiscalización y Rendición de Cuentas de la Federación que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la presente Ley, se resolverán hasta su conclusión definitiva, en términos de la Ley de Fiscalización y Rendición de Cuentas de la Federación que se abroga, así como los que se deriven de las funciones de fiscalización y revisión hasta la Cuenta de la Hacienda Pública Federal del año 2015.
+
+QUINTO.- Las funciones de fiscalización y revisión de la Auditoría Superior de la Federación previstas en la presente Ley entrarán en vigor a partir de la Cuenta de la Hacienda Pública Federal del año 2016.
+
+SEXTO.- Las funciones de fiscalización y revisión para el ejercicio del año en curso y de ejercicios anteriores entrarán en vigor al día siguiente de la publicación del presente Decreto.
+
+SÉPTIMO.- La Auditoría Superior de la Federación y la Cámara de Diputados, por lo que hace a la Unidad de Evaluación y Control, deberán actualizar sus reglamentos interiores conforme a lo previsto en esta Ley en un plazo no mayor a 180 días hábiles contados a partir de la vigencia de la presente Ley.
+
+OCTAVO.- La Auditoría Superior de la Federación deberá actualizar y, en su caso, publicar la normatividad que conforme a sus atribuciones deba expedir en un plazo no mayor a 180 días hábiles contados a partir de la vigencia de la presente Ley.
