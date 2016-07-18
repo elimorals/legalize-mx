@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-nomenclatura-de-vias-y-espacios-abiertos-25882"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-10-25"
-last_updated: "2016-03-04"
+last_updated: "2016-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE NOMENCLATURA DE VÍAS Y ESPACIOS ABIERTOS PÚBLICOS DE SAN PEDRO GARZA GARCÍA, N. L
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 25 de octubre de 1996.
 
@@ -56,6 +56,10 @@ e) VÍAS PÚBLICAS: Espacios públicos destinados para el transito de personas, 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
 f) COMISIÓN: La Comisión de Seguridad Pública Municipal y Nomenclatura del Republicano Ayuntamiento de San Pedro Garza García.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2016)</small>
+
+g) Cuota: El valor diario de la Unidad de Medida y Actualización vigente al año que corresponda.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2016)</small>
 
@@ -195,15 +199,25 @@ VI. No solicitar para los nuevos fraccionamientos la aprobación de la nomenclat
 
 Será competente para la aplicación de las sanciones la Secretaría del Republicano Ayuntamiento y en todo caso deberá tomar en cuenta la gravedad de la falta, las circunstancias del caso, las condiciones socioeconómicas del infractor, así como la reincidencia. Las sanciones que se aplicarán a los infractores del presente Reglamento serán:
 
-I. Si la infracción cometida es la prevista en la fracción I. del artículo anterior, se sancionará con una multa de 10 a 50 veces el salario mínimo general vigente en la zona y la reposición del señalamiento.
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
 
-II. Si la infracción cometida es la prevista en la fracción II o III del artículo anterior, se sancionará con una multa de 5 a 35 veces el salario mínimo vigente en la zona.
+I. Si la infracción cometida es la prevista en la fracción I. del artículo anterior, se sancionará con una multa de 10 a 50 cuotas y la reposición del señalamiento.
 
-III. Si la infracción cometida es la prevista en la fracción IV del artículo anterior, se le sancionará con multa de 8 a 40 veces de salario mínimo vigente en la zona, y la reposición del señalamiento.
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
 
-IV. Si la infracción cometida es la prevista en la fracción V del artículo anterior, se le sancionará con una multa de 5 a 20 veces el salario mínimo vigente en la zona.
+II. Si la infracción cometida es la prevista en la fracción II o III del artículo anterior, se sancionará con una multa de 5 a 35 cuotas.
 
-V. Si la infracción cometida es la prevista en la fracción VI del artículo anterior, se le sancionará con una multa de 100 a 400 veces el salario mínimo vigente en la zona.
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
+
+III. Si la infracción cometida es la prevista en la fracción IV del artículo anterior, se le sancionará con multa de 8 a 40 cuotas, y la reposición del señalamiento.
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
+
+IV. Si la infracción cometida es la prevista en la fracción V del artículo anterior, se le sancionará con una multa de 5 a 20 cuotas.
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
+
+V. Si la infracción cometida es la prevista en la fracción VI del artículo anterior, se le sancionará con una multa de 100 a 400 cuotas.
 
 ### CAPÍTULO V. DEL RECURSO DE INCONFORMIDAD
 
@@ -262,5 +276,11 @@ CUARTO.- Para todos los efectos de este Reglamento se entiende como supletoria l
 P.O. 4 DE MARZO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 25 DE FEBRERO DE 2016, SE APRUEBA LA INICIATIVA DE REFORMA DE DIVERSOS REGLAMENTOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 18 DE JULIO DE 2016.
+
+> <small>[N. DE E. TRANSITORIO POR EL QUE “SE APRUEBAN LAS REFORMAS A LOS 19 REGLAMENTOS DE GARZA GARCÍA, NUEVO LEÓN”.]</small>
 
 ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
