@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-escudo-municipal-de-san-pedro-garza-garcia-67325
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-25"
-last_updated: "2016-03-04"
+last_updated: "2016-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67325&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DEL ESCUDO MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de febrero de 2009.
 
@@ -149,11 +149,17 @@ Compete al Presidente Municipal, vigilar el debido cumplimiento de este Reglamen
 
 Toda infracción a las disposiciones contenidas en el presente Reglamento, se sancionará por la Secretaría del Republicano Ayuntamiento, a través de la Dirección de Jueces Calificadores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 14.
 
-La sanción a la infracción cometida por cualquier ciudadano al presente Reglamento, que no constituyan delito conforme a lo previsto en el Código Penal para el Estado de Nuevo León, que impliquen desacato o falta de respeto al escudo municipal, se castigarán, según su gravedad y la condición del infractor, con multa hasta por el equivalente a doscientas cincuenta veces el salario mínimo, o con arresto hasta por treinta y seis horas. Si la infracción se comete con fines de lucro, la multa podrá imponerse hasta por el equivalente a mil veces el salario mínimo.
+La sanción a la infracción cometida por cualquier ciudadano al presente Reglamento, que no constituyan delito conforme a lo previsto en el Código Penal para el Estado de Nuevo León, que impliquen desacato o falta de respeto al escudo municipal, se castigarán, según su gravedad y la condición del infractor, con multa hasta por el equivalente a doscientas cincuenta cuotas, o con arresto hasta por treinta y seis horas. Si la infracción se comete con fines de lucro, la multa podrá imponerse hasta por el equivalente a mil cuotas.
 
 Procederá la sanción de decomiso para los artículos que reproduzcan ilícitamente el escudo municipal.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2016)</small>
+
+Para los efectos de las sanciones establecidas en el presente Reglamento, por cuota se entenderá el valor diario de la Unidad de Medida y Actualización vigente al año que corresponda.
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
@@ -256,5 +262,11 @@ SECRETARIO DEL R. AYUNTAMIENTO
 P.O. 4 DE MARZO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 25 DE FEBRERO DE 2016, SE APRUEBA LA INICIATIVA DE REFORMA DE DIVERSOS REGLAMENTOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 18 DE JULIO DE 2016.
+
+> <small>[N. DE E. TRANSITORIO “SE APRUEBAN LAS REFORMAS A LOS 19 REGLAMENTOS DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]</small>
 
 ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
