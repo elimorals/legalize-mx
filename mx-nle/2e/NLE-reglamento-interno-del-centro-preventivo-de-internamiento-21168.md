@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interno-del-centro-preventivo-de-internamiento-21168
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-16"
-last_updated: "2016-07-13"
+last_updated: "2016-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERNO DEL CENTRO PREVENTIVO DE INTERNAMIENTO DISTRITAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de marzo de 2001.
 
@@ -491,13 +491,17 @@ a) Amonestación.
 
 b) Suspensión de visita familiar.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2016)</small>
 
-c) Si está cumpliendo un arresto administrativo se le incrementará su sanción en multa y en arresto, siempre que no sea mayor a los 50 salarios que marca el reglamento, así como el arresto que no exceda del término de 36 horas.
+c) Si está cumpliendo un arresto administrativo se le incrementará su sanción en multa y en arresto, siempre que no sea mayor a las 50 cuotas que marca el reglamento, así como el arresto que no exceda del término de 36 horas.
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 d) En el supuesto caso en que el interno realice con su conducta, un hecho u omisión que de acuerdo con la ley pudiese tipificar algún delito, se dará vista a la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2016)</small>
+
+Para los efectos de las sanciones establecidas en el presente Reglamento, por cuota se entenderá el valor diario de la Unidad de Medida y Actualización vigente al año que corresponda.
 
 > <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
@@ -822,3 +826,9 @@ P.O. 13 DE JULIO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado y para su mayor difusión deberá publicarse en la Gaceta Municipal.
+
+P.O. 18 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE "SE APRUEBAN LAS REFORMAS A LOS 19 REGLAMENTOS DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN".]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
