@@ -4,7 +4,7 @@ identifier: "LGCG"
 country: "mx"
 rank: "ley_general"
 publication_date: "2008-12-31"
-last_updated: "2016-04-27"
+last_updated: "2016-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCG"
 
 LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE JULIO DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 2008.
 
@@ -916,23 +916,31 @@ En las cuentas bancarias productivas específicas se manejarán exclusivamente l
 
 Los recursos federales sólo podrán ser transferidos por las dependencias y entidades de la Administración Pública Federal a dichas cuentas bancarias productivas específicas, a través de las tesorerías de las entidades federativas, salvo en el caso de ministraciones relacionadas con obligaciones de las entidades federativas o municipios, así como las demarcaciones territoriales del Distrito Federal, que estén garantizadas con la afectación de sus participaciones o aportaciones federales, en términos de lo dispuesto por los artículos 9, 50 y 51 de la Ley de Coordinación Fiscal y los demás casos previstos en las disposiciones legales aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE JULIO DE 2016)</small>
 
 ###### Artículo 70.
 
-Los gobiernos de las entidades federativas, de los municipios y demarcaciones territoriales del Distrito Federal, deberán observar lo siguiente para la integración de la información financiera relativa a los recursos federales transferidos:
+Los gobiernos de las entidades federativas, de los municipios y alcaldías de la Ciudad de México, deberán observar lo siguiente para la integración de la información financiera relativa a los recursos federales transferidos:
+
+> <small>(ADICIONADA, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 I. Mantener registros específicos de cada fondo, programa o convenio debidamente actualizados, identificados y controlados, así como la documentación original que justifique y compruebe el gasto incurrido. Dicha documentación se presentará a los órganos competentes de control y fiscalización que la soliciten;
 
+> <small>(ADICIONADA, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
+
 II. Cancelar la documentación comprobatoria del egreso con la leyenda "Operado" o como se establezca en las disposiciones locales, identificándose con el nombre del fondo de aportaciones, programa o convenio respectivo;
+
+> <small>(ADICIONADA, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 III. Realizar en términos de la normativa que emita el consejo, el registro contable, presupuestario y patrimonial de las operaciones realizadas con los recursos federales conforme a los momentos contables y clasificaciones de programas y fuentes de financiamiento;
 
+> <small>(ADICIONADA, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
+
 IV. Dentro del registro contable a que se refiere la fracción anterior, concentrar en un solo apartado todas las obligaciones de garantía o pago causante de deuda pública u otros pasivos de cualquier naturaleza, con contrapartes, proveedores, contratistas y acreedores, incluyendo la disposición de bienes o expectativa de derechos sobre éstos, contraídos directamente o a través de cualquier instrumento jurídico considerado o no dentro de la estructura orgánica de la administración pública correspondiente, y la celebración de actos jurídicos análogos a los anteriores y, sin perjuicio de que dichas obligaciones tengan como propósito canje o refinanciamiento de otras o de que sea considerado o no como deuda pública en los ordenamientos aplicables, y
 
-V. Coadyuvar con la fiscalización de las cuentas públicas, conforme a lo establecido en el artículo 49, fracciones III y IV, de la Ley de Coordinación Fiscal y demás disposiciones aplicables. Para ello, las instancias fiscalizadoras competentes verificarán que los recursos federales que reciban las entidades federativas, los municipios y las demarcaciones territoriales del Distrito Federal, se ejerzan conforme a los calendarios previstos y de acuerdo con las disposiciones aplicables del ámbito federal y local.
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
+
+V. Coadyuvar con la fiscalización de los recursos públicos federales, conforme a lo establecido en la Ley de Fiscalización y Rendición de Cuentas de la Federación. Para ello, la Auditoría Superior de la Federación verificará que los recursos federales que reciban las entidades federativas, los municipios y alcaldías de la Ciudad de México, se ejerzan conforme a los calendarios previstos y de acuerdo con las disposiciones aplicables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1495,3 +1503,23 @@ DÉCIMO NOVENO.- Las obligaciones establecidas en los Capítulos I, II y III del
 VIGÉSIMO.- El Consejo Nacional de Armonización Contable deberá emitir, en un plazo máximo de 180 días naturales siguientes a la entrada en vigor del presente Decreto, las normas necesarias para identificar el gasto realizado con recursos provenientes de ingresos de libre disposición, transferencias federales etiquetadas y deuda pública, en los términos definidos en el artículo 2 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 VIGÉSIMO PRIMERO.- Las menciones que en las leyes, reglamentos, decretos y cualquier disposición administrativa, así como en contratos, convenios y cualquier instrumento jurídico se hagan a la Ley General de Deuda Pública, se entenderán referidas a la Ley Federal de Deuda Pública.
+
+D.O.F. 18 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DE LA FEDERACIÓN; Y SE REFORMAN EL ARTÍCULO 49 DE LA LEY DE COORDINACIÓN FISCAL, Y EL ARTÍCULO 70 DE LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO.- Las referencias, remisiones o contenidos del presente Decreto que estén vinculados con la aplicación de la Ley General del Sistema Nacional Anticorrupción, de la Ley General de Responsabilidades Administrativas y de las nuevas facultades del Tribunal Federal de Justicia Administrativa, entrarán en vigor cuando dichos ordenamientos se encuentren vigentes.
+
+TERCERO.- Se abroga la Ley de Fiscalización y Rendición de Cuentas de la Federación, publicada en el Diario Oficial de la Federación el 29 de mayo de 2009, conforme a lo dispuesto en los artículos transitorios subsecuentes y se derogan todas las disposiciones legales que contravengan o se opongan a la presente Ley.
+
+CUARTO.- Los procedimientos administrativos iniciados de conformidad con la Ley de Fiscalización y Rendición de Cuentas de la Federación que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la presente Ley, se resolverán hasta su conclusión definitiva, en términos de la Ley de Fiscalización y Rendición de Cuentas de la Federación que se abroga, así como los que se deriven de las funciones de fiscalización y revisión hasta la Cuenta de la Hacienda Pública Federal del año 2015.
+
+QUINTO.- Las funciones de fiscalización y revisión de la Auditoría Superior de la Federación previstas en la presente Ley entrarán en vigor a partir de la Cuenta de la Hacienda Pública Federal del año 2016.
+
+SEXTO.- Las funciones de fiscalización y revisión para el ejercicio del año en curso y de ejercicios anteriores entrarán en vigor al día siguiente de la publicación del presente Decreto.
+
+SÉPTIMO.- La Auditoría Superior de la Federación y la Cámara de Diputados, por lo que hace a la Unidad de Evaluación y Control, deberán actualizar sus reglamentos interiores conforme a lo previsto en esta Ley en un plazo no mayor a 180 días hábiles contados a partir de la vigencia de la presente Ley.
+
+OCTAVO.- La Auditoría Superior de la Federación deberá actualizar y, en su caso, publicar la normatividad que conforme a sus atribuciones deba expedir en un plazo no mayor a 180 días hábiles contados a partir de la vigencia de la presente Ley.
