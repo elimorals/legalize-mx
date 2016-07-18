@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-servicio-municipal-de-bomberos-de-san-pedro-2148
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-05-16"
-last_updated: "2016-03-04"
+last_updated: "2016-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DEL SERVICIO MUNICIPAL DE BOMBEROS DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de mayo de 2001.
 
@@ -263,7 +263,7 @@ Es obligación de los fraccionadores, propietarios y poseedores de construccione
 
 ###### ARTICULO 19.
 
-Cualquiera (sic) persona moral o física que realice trabajos en la vía pública y deteriore u oculte los sistemas de protección de incendios, deberán resarcir los daños ocasionados o someterse a las sanciones correspondientes de acuerdos (sic) con las leyes y reglamentos aplicables a la materia.
+Cualquiera persona moral o física que realice trabajos en la vía pública y deteriore u oculte los sistemas de protección de incendios, deberán resarcir los daños ocasionados o someterse a las sanciones correspondientes de acuerdos (sic) con las leyes y reglamentos aplicables a la materia.
 
 ###### ARTICULO 20.
 
@@ -341,13 +341,19 @@ II.- Secretario de Ordenamiento y Desarrollo Urbano; y
 
 III.- Secretario de Finanzas y Tesorería Municipal.
 
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2016)</small>
+
+ARTICULO 34 BIS.- Para que los efectos de la sanción, por cuota se entenderá el valor diario de la Unidad de Medida y Actualización vigente al año que corresponda.
+
 ###### ARTICULO 35.
 
 Con independencia de las sanciones que señalan otras disposiciones legales, la falta de cumplimiento a las normas de este reglamento y a las determinaciones y requerimientos que con fundamento en él se dicten, dará lugar a la imposición de las siguientes sanciones:
 
 I.- Amonestación;
 
-II.- Multa por el equivalente de 5 a 250 cuotas diarias de salario mínimo general vigente en el municipio, en el momento de la infracción correspondiente;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
+
+II.- Multa por el equivalente de 5 a 250 cuotas;
 
 III.- Clausura temporal o definitiva, parcial o total;
 
@@ -363,17 +369,29 @@ VII.- Arresto hasta por 36-treinta y seis horas.
 
 Los hechos que a continuación se describen darán lugar a aplicar al responsable las sanciones económicas siguientes:
 
-I.- De 5 y hasta 50 cuotas diarias de salario mínimo por desatender dos cédulas citatorias de manera consecutiva;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
 
-II.- De 10 y hasta 100 cuotas diarias de salario mínimo por el hecho de proferir insultos o amenazas al personal municipal y al del Patronato de Bomberos de Nuevo León, A.C., en la ejecución de las visitas de inspección y demás diligencias;
+I.- De 5 y hasta 50 cuotas por desatender dos cédulas citatorias de manera consecutiva;
 
-III.- De 20 y hasta 200 cuotas diarias de salario mínimo por retirar los sellos de suspensión, clausura, aseguramiento o inmovilización impuestos por la autoridad municipal;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
 
-IV.- De 50 y hasta 250 cuotas diarias de salario mínimo por violar una medida de seguridad mediante el uso, operación o disposición de equipos, materiales, bienes afectados por una medida de seguridad o sanción administrativa;
+II.- De 10 y hasta 100 cuotas por el hecho de proferir insultos o amenazas al personal municipal y al del Patronato de Bomberos de Nuevo León, A.C., en la ejecución de las visitas de inspección y demás diligencias;
 
-V.- De 10 y hasta 100 cuotas diarias de salario mínimo por omitir rendir los informes y avisos que por resolución o acuerdo de la autoridad le sean requeridos en los plazos establecidos para ello;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
 
-VI.- De 15 y hasta 150 cuotas diarias de salario mínimo por obstaculizar las prácticas de las diligencias ordenadas por la autoridad;
+III.- De 20 y hasta 200 cuotas por retirar los sellos de suspensión, clausura, aseguramiento o inmovilización impuestos por la autoridad municipal;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
+
+IV.- De 50 y hasta 250 cuotas por violar una medida de seguridad mediante el uso, operación o disposición de equipos, materiales, bienes afectados por una medida de seguridad o sanción administrativa;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
+
+V.- De 10 y hasta 100 cuotas por omitir rendir los informes y avisos que por resolución o acuerdo de la autoridad le sean requeridos en los plazos establecidos para ello;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
+
+VI.- De 15 y hasta 150 cuotas por obstaculizar las prácticas de las diligencias ordenadas por la autoridad.
 
 ###### ARTICULO 37.
 
@@ -415,9 +433,11 @@ II.- El encender fogatas en el área de la sierra madre que comprende al municip
 
 III.- Las demás que expresamente prevé este reglamento.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2016)</small>
+
 ###### ARTICULO 43.
 
-Todas aquellas faltas que no se encuentren previstas en este reglamento se sancionarán con multa de 10 a 100 cuotas diarias de salario mínimo vigente en el Estado, para lo cual se observará para su calificación, lo señalado por el artículo 33 de este reglamento.
+Todas aquellas faltas que no se encuentren previstas en este reglamento se sancionarán con multa de 10 a 100 cuotas, para lo cual se observará para su calificación, lo señalado por el artículo 33 de este reglamento.
 
 ### Capitulo IX. DE LOS PLAZOS Y NOTIFICACIONES
 
@@ -514,5 +534,11 @@ SECRETARIO DEL R. AYUNTAMIENTO
 P.O. 4 DE MARZO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 25 DE FEBRERO DE 2016, SE APRUEBA LA INICIATIVA DE REFORMA DE DIVERSOS REGLAMENTOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 18 DE JULIO DE 2016.
+
+> <small>[N. DE E. TRANSITORIO POR EL QUE SE “APRUEBAN LAS REFORMAS A LOS 19 REGLAMENTOS DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]</small>
 
 ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
