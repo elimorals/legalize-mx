@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-san-3377
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-25"
-last_updated: "2016-07-13"
+last_updated: "2016-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 25 de agosto de 2003.
 
@@ -133,7 +133,7 @@ IV. Poner a disposición de las autoridades competentes a los detenidos, cuando 
 
 V. Poner a disposición de las autoridades competentes, a los menores que hayan sido detenidos.
 
-Vl. Llevar un registro de todas las personas puestas a su disposición; y
+VI. Llevar un registro de todas las personas puestas a su disposición; y
 
 VII. Las demás que le confieren las leyes o los reglamentos.
 
@@ -241,7 +241,7 @@ IX. Efectuar bailes en domicilio particular para el público en general con fine
 
 X. (DEROGADA, P.O. 18 DE JULIO DE 2011)
 
-Xl. Efectuar bailes en salones clubes y centros sociales sin el permiso correspondiente;
+XI. Efectuar bailes en salones clubes y centros sociales sin el permiso correspondiente;
 
 XII. Permitir, tolerar o promover cualquier tipo de juego de azar en los cuales se crucen apuestas sin el permiso de la Autoridad correspondiente; y
 
@@ -289,7 +289,7 @@ X. Conducir vehículos, bajo los efectos de drogas o tóxicos;
 
 XI. Provocar falsas alarmas en reuniones públicas o privadas;
 
-XIl. Solicitar con falsas alarmas, los servicios de la Policía, ambulancias, bomberos o de establecimientos médicos o asistenciales públicos o privados;
+XII. Solicitar con falsas alarmas, los servicios de la Policía, ambulancias, bomberos o de establecimientos médicos o asistenciales públicos o privados;
 
 XIII. Dañar o mover las señales públicas del lugar donde hubiesen sido colocadas por la Autoridad;
 
@@ -505,11 +505,11 @@ III. Trabajo a favor de la Comunidad;
 
 IV. Multa y arresto inconmutable de 8-ocho horas hasta 36-treinta y seis horas. Aplicable al artículo 14 fracciones IX y X, del presente Reglamento;
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 26.
 
-Si la sanción a aplicar fuese una multa, ésta podrá ser de entre 1-una y hasta 250-doscientas cincuenta cuotas. Se entiende como cuota, el equivalente a un día de salario mínimo general vigente de la zona económica a la que corresponda el Municipio.
+Si la sanción a aplicar fuese una multa, ésta podrá ser de entre 1-una y hasta 250-doscientas cincuenta cuotas. Se entenderá por cuota el valor diario de la Unidad de Medida y Actualización vigente al año que corresponda.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
 
@@ -563,7 +563,7 @@ I. Apercibimiento.
 
 II. Multa;
 
-lII. Arresto hasta por 36 treinta y seis horas; y
+III. Arresto hasta por 36 treinta y seis horas; y
 
 IV. Auxilio de la fuerza pública.
 
@@ -893,7 +893,7 @@ PRIMERO.- se abroga el Reglamento de Policía y Buen Gobierno, publicado en el P
 
 SEGUNDO.- En virtud de que el presente reglamento ha sido homologado en sus disposiciones con los Reglamentos de Policía y Buen Gobierno de los municipios de Apodaca, Gral. Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza y Santa Catarina, para la modificación o derogación del mismo se procurará llevar a cabo bajo el consenso de los municipios señalados.
 
-TERCERO.- Se derogan todas disposiciones (sic) municipales que contravengan lo dispuesto en el presente Reglamento.
+TERCERO.- Se derogan todas (sic) disposiciones municipales que contravengan lo dispuesto en el presente Reglamento.
 
 TERCERO. Mándese Publicar en el Periódico Oficial del Estado el nuevo reglamento señalado en el punto anterior, para los efectos de su entrada en vigor, y posteriormente ordénese publicar en la Gaceta Municipal.
 
@@ -915,7 +915,7 @@ SECRETARIO DEL R. AYUNTAMIENTO
 
 RÚBRICA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 P.O. 27 DE SEPTIEMBRE DE 2004.
 
@@ -998,3 +998,9 @@ P.O. 13 DE JULIO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado y para su mayor difusión deberá publicarse en la Gaceta Municipal.
+
+P.O. 18 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE “SE APRUEBAN LAS REFORMAS A LOS 19 REGLAMENTOS DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
