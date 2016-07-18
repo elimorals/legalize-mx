@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-desarrollo-73747"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-26"
-last_updated: "2015-10-02"
+last_updated: "2016-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73747&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SUSTENTABLE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2015.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SUSTENTABLE, PUBLICADO EN EL P.O. DE 18 DE JULIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Nuevo León, el viernes 26 de febrero de 2010.
 
@@ -1356,3 +1358,27 @@ P.O. 2 DE OCTUBRE DE 2015.
 PRIMERO.- Las reformas al presente Reglamento Interior entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las unidades administrativas que se crean al amparo del presente Reglamento, serán habilitadas con personal y recursos materiales una vez que se cuente con la autorización de suficiencia presupuestal emitida por la Secretaría de Finanzas y Tesorería General del Estado. Mientras no se expida la autorización de suficiencia presupuestal para la contratación de personal y equipamiento, el Secretario facultará a los servidores públicos actualmente adscritos a la Secretaría de Desarrollo Sustentable, para que en forma honoraria ejerzan las atribuciones conferidas a las referidas unidades administrativas.
+
+P.O. 18 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SUSTENTABLE”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Desarrollo Sustentable publicado en el Periódico Oficial del Estado en fecha 26 de febrero del año 2010.
+
+###### ARTÍCULO TERCERO.
+
+Las atribuciones en materia de agua, energía, movilidad y transporte, así como de parques y vida silvestre que asume la Secretaría con motivo de la reestructuración de la Administración Pública Estatal, serán ejercidas por ésta, una vez que se realicen las reformas legales que permitan asumir la competencia respecto de cada una de dichas materias.
+
+###### ARTÍCULO CUARTO.
+
+En concordancia con lo señalado en el Artículo Tercero Transitorio del presente Reglamento, se autoriza al Secretario de Finanzas y Tesorero General del Estado y al Secretario de Administración, en el ámbito de sus respectivas competencias, para que una vez asumida la competencia de los asuntos a que se refiere dicho numeral, transfieran a la Secretaría de Desarrollo Sustentable, el personal, recursos materiales e infraestructura adscritos a la Agencia para la Racionalización y Modernización del Sistema de Transporte Público del Estado de Nuevo León, al Consejo Estatal de Transporte y Vialidad, al Sistema Integral del Tránsito Metropolitano, a Parques y Vida Silvestre del Estado de Nuevo León, y al Instituto del Agua del Estado de Nuevo León, así como el presupuesto que tienen asignado conforme a la Ley de Egresos del Estado de Nuevo León, sujeto a la programación y suficiencia presupuestaria que determine el primero de ellos.
+
+###### ARTÍCULO QUINTO.
+
+Se instruye a la Contraloría y Transparencia Gubernamental para que, conforme a lo señalado en los artículos Tercero y Cuarto Transitorios, en su momento, lleve a cabo el proceso de entrega-recepción correspondiente.
