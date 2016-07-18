@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-los-propietarios-o-poseedores-de-animales-44802
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-04-13"
-last_updated: "2016-03-04"
+last_updated: "2016-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA LOS PROPIETARIOS O POSEEDORES DE ANIMALES DOMÉSTICOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 13 de abril de 2005.
 
@@ -859,9 +859,11 @@ La clausura temporal o definitiva, sea parcial o total, se decretará en los cas
 
 Cuando la infracción al presente Reglamento tenga implícita la inobservancia de algún otro ordenamiento legal, sea Municipal, Estatal o Federal, la Autoridad dará aviso a la Autoridad competente, para que ésta se encargue de la aplicación de las sanciones que correspondan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2016)</small>
+
 ###### Artículo 52.
 
-Para los efectos de la sanción, por cuota se entenderá el monto de 1-un día de salario mínimo vigente en el lugar en que se cometa la infracción, al momento de ésta.
+Para los efectos de la sanción, por cuota se entenderá el valor diario de la Unidad de Medida y Actualización vigente al año que corresponda.
 
 Para imponer las sanciones la Autoridad considerará la gravedad de la conducta, los daños y perjuicios causados; la intención con la cuál fue cometido y los antecedentes, circunstancias y situación socioeconómica del infractor.
 
@@ -1052,5 +1054,11 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 4 DE MARZO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 25 DE FEBRERO DE 2016, SE APRUEBA LA INICIATIVA DE REFORMA DE DIVERSOS REGLAMENTOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 18 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE "SE APRUEBAN LAS REFORMAS A LOS 19 REGLAMENTOS DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN".]
 
 ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
