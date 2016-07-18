@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-proteccion-ambiental-y-desarrollo-65915"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-17"
-last_updated: "2016-03-04"
+last_updated: "2016-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA LA PROTECCIÓN AMBIENTAL Y DESARROLLO SUSTENTABLE PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 17 de diciembre de 2008.
 
@@ -189,9 +189,11 @@ XI. Contaminantes: Toda materia o energía en cualesquiera de sus estados físic
 
 XII. Cuerpo receptor: La corriente, depósito de agua, cauce o bienes del dominio público del Estado o Municipios en donde se descargan, infiltran o inyectan aguas residuales;
 
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2016)</small>
 
-XII BIS. DAP: Diámetro a la altura de pecho, es decir diámetro medido a 1.20-un metro veinte centímetros de altura a partir del nivel del suelo.
+XII BIS. CUOTA: El valor diario de la Unidad de Medida y Actualización vigente al año que corresponda.
+
+XII BIS I. DAP: Diámetro a la altura de pecho, es decir diámetro medido a 1.20-un metro veinte centímetros de altura a partir del nivel del suelo.
 
 XIII. Descargas: El vertimiento o desalojo, intencional, por fuga, avería o accidente de aguas residuales tratadas o sin tratar vertidas directamente a cuerpos de agua, terrenos o al sistema de alcantarillado y demás que establezcan las normas estatales o federales.
 
@@ -1799,9 +1801,9 @@ LV. Cualquier acción u omisión que contravengan lo dispuesto en este Reglament
 
 Para las sanciones aplicables por las infracciones o conductas violatorias establecidas en el artículo 163 de este Reglamento, se aplicará la siguiente matriz de sanciones. La sanción no dispensa del cumplimiento de la obligación de reponer el arbolado en los términos del artículo 118 del presente Reglamento.
 
-> <small>N. DE E. VÉASE LA TABLA EN EL P. O. DE 17 DE DICIEMBRE DE 2008, PÁGINAS DE LA 122 A LA 127.</small>
+> <small>[N. DE E. VÉASE LA TABLA EN EL P.O. DE 17 DE DICIEMBRE DE 2008, PAGINAS DE LA 122 A LA 127.]</small>
 
-> <small>N. DE E. VÉASE REFORMAS A LA TABLA, P.O. DE 14 DE OCTUBRE DE 2009, PÁGINA 37; P.O. DE 5 DE NOVIEMBRE DE 2012, PÁGINAS DE LA 35 A LA 37.</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. DE 14 DE OCTUBRE DE 2009, PÁGINA 37; P.O. DE 5 DE NOVIEMBRE DE 2012, PÁGINAS DE LA 35 A LA 37; Y P.O. DE 18 DE JULIO DE 2016, PÁGINA 50.]</small>
 
 ###### Artículo 165.
 
@@ -2038,5 +2040,11 @@ Se deroga cualquier disposición que contravenga el presente Reglamento.
 P.O. 4 DE MARZO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 25 DE FEBRERO DE 2016, SE APRUEBA LA INICIATIVA DE REFORMA DE DIVERSOS REGLAMENTOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 18 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE "SE APRUEBA DAR INICIO A LA CONSULTA PÚBLICA RESPECTO DE LA INICIATIVA DE ADICIÓN, DEL REGLAMENTO PARA LA PROTECCIÓN AMBIENTAL Y DESARROLLO SUSTENTABLE DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, N. L.".]
 
 ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
