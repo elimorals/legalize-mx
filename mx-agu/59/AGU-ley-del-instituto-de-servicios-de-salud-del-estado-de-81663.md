@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-servicios-de-salud-del-estado-de-81663"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-13"
-last_updated: "2011-06-13"
+last_updated: "2016-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81663&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL INSTITUTO DE SERVICIOS DE SALUD DEL ESTADO DE AGUASCALlENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de junio de 2011.
 
@@ -347,43 +347,15 @@ Para el cumplimiento de las funciones del Comisario Público, la Junta de Gobier
 
 ###### ARTÍCULO 26.
 
-Para la prestación de los servicios de salud, el Instituto se auxiliará, entre otros, de los siguientes hospitales:
-
-I. Centenario Hospital Miguel Hidalgo;
-
-II. Hospital de Psiquiatría "Dr. Gustavo León Mojica García";
+(DEROGADO, P.O. 18 DE JULIO DE 2016)
 
 ###### ARTÍCULO 27.
 
-Los hospitales, enunciados en el Artículo anterior, serán unidades administrativas del Instituto, dotadas de autonomía de gestión, estarán sujetas a la normatividad administrativa y financiera del Instituto, y orientarán sus acciones bajo las siguientes bases:
-
-I. Proporcionarán servicios médicos a toda persona que lo solicite;
-
-II. La prestación de sus servicios estará regida por un criterio de universalidad, sin distinción de raza, género, clase o condición social;
-
-III. La atención médica que proporcionen deberá ser retribuida mediante cuotas de recuperación que se establecerán atendiendo a las condiciones socioeconómicas de los usuarios, que aportará el usuario o la persona que funja como responsable del mismo ante el hospital, de acuerdo a la investigación socioeconómica que se realice; y
-
-IV. En ningún caso, la recuperación de cuotas deberá desvirtuar la función social del hospital de que se trate y, en su caso, se podrá exceptuar del pago a que se refiere la Fracción anterior, por resolución judicial o administrativa, así como a los usuarios que acrediten imposibilidad económica para hacerlo.
+(DEROGADO, P.O. 18 DE JULIO DE 2016)
 
 ###### ARTÍCULO 28.
 
-Los hospitales, enunciados en el Artículo 26 de la Ley, tendrán en el ámbito de su especialidad y competencia, las siguientes atribuciones:
-
-I. Contribuir al desarrollo y ejecución de los programas prioritarios en materia de las especialidades con que cuenta;
-
-II. Apoyar la ejecución de los programas sectoriales de salud en el ámbito de su competencia;
-
-III. Proporcionar servicios de salud en aspectos preventivos, curativos y de rehabilitación en las especialidades con que cuenta;
-
-IV. Proporcionar consulta externa, atención hospitalaria y servicios de urgencia a la población, en el ámbito de sus especialidades;
-
-V. Administrar los recursos inherentes a la prestación de los servicios correspondientes, de conformidad con las normas, políticas y procedimientos aplicables;
-
-VI. Fomentar la investigación y la formación de recursos humanos en el campo de la salud, en coordinación con instituciones públicas y privadas, nacionales e internacionales;
-
-VII. Establecer y mantener congruencia y racionalidad en sus acciones y programas, de acuerdo a las políticas que determine la Secretaría y el Instituto; y
-
-VIII. Las demás que le correspondan conforme a la Ley, le instruya el Director General y le confieran las demás disposiciones aplicables.
+(DEROGADO, P.O. 18 DE JULIO DE 2016)
 
 ## TÍTULO CUARTO. DISPOSICIONES ADMINISTRATIVAS
 
@@ -484,3 +456,41 @@ Carlos Lozano de la Torre.
 EL JEFE DE GABINETE,
 
 Lic. Antonio Javier Aguilera García.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 356.- LEY DEL CENTENARIO HOSPITAL MIGUEL HIDALGO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos humanos, financieros y materiales que se encuentran asignados al Centenario Hospital Miguel Hidalgo como unidad administrativa del ISSEA, necesarios para el cumplimiento de su objeto y objetivos específicos, pasarán a formar parte del Hospital, debiendo realizarse dichas transferencias a partir de la entrada en vigencia del presente Decreto, mismas que deberán concluir a más tardar el día 1° de enero del año 2017.
+
+###### ARTÍCULO TERCERO.
+
+Los derechos laborales de los trabajadores serán respetados en todos sus términos, en virtud de la sustitución patronal que operará.
+
+###### ARTÍCULO CUARTO.
+
+El reglamento interior y los manuales de organización y procedimientos del Hospital deberán publicarse dentro (sic) los ciento ochenta días del inicio de vigencia del presente ordenamiento.
+
+###### ARTÍCULO QUINTO.
+
+Los ingresos que percibe el Centenario Hospital Miguel Hidalgo como unidad administrativa del ISSEA, contemplados en la Ley de Ingresos para el Estado de Aguascalientes para el ejercicio fiscal 2016, a partir de la fecha de entrada en vigor del presente Decreto se entenderán como percibidos para todos los efectos legales por el Hospital, no obstante lo anterior, en el período de transición, el ISSEA podrá recaudar los recursos correspondientes, mismos que deberán ser transferidos al Hospital.
+
+###### ARTÍCULO SEXTO.
+
+Los recursos financieros federales que se destinan actualmente al ISSEA para la operación, programas e inversión del Centenario Hospital Miguel Hidalgo como unidad administrativa del ISSEA, podrán ser transferidos por el ISSEA y en su caso por la Secretaría de Finanzas del Estado, a favor del Hospital durante el ejercicio fiscal del año 2016.
+
+###### ARTÍCULO SÉPTIMO.
+
+Para el período de transición del Hospital, este último, el ISSEA y en su caso las dependencias correspondientes del Poder Ejecutivo podrán celebrar convenios y acuerdos administrativos para acordar la forma, términos y condiciones para la transferencia de recursos humanos, materiales y financieros a favor del Hospital durante el ejercicio fiscal del año 2016, con el fin de asegurar el adecuado funcionamiento de este último.
+
+###### ARTÍCULO OCTAVO.
+
+Se autoriza el ejercicio del gasto del Hospital durante el ejercicio fiscal del año 2016, debiendo observar todas las disposiciones aplicables del Presupuesto de Egresos del Estado de Aguascalientes para el ejercicio fiscal del año 2016, Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaría del Estado de Aguascalientes y sus Municipios y demás normas relativas y aplicables al gasto público.
