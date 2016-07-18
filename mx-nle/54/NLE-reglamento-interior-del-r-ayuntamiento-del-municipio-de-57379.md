@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-r-ayuntamiento-del-municipio-de-57379"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-22"
-last_updated: "2016-01-06"
+last_updated: "2016-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de octubre de 2007.
 
@@ -34,8 +34,6 @@ REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DEL MUNICIPIO DE GENERAL ESCOBEDO, N.L.
 EXPOSICIÓN DE MOTIVOS.
 
 Por lo anteriormente expuesto y fundando, nos permitimos poner a su consideración, y en su caso, aprobación, el:
-
-> <small>[N. DE E. EL ACUERDO PUBLICADO EN EL P.O. DE 14 DE SEPTIEMBRE DE 2015, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
 
 REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DEL MUNICIPIO DE GENERAL ESCOBEDO, N.L.
 
@@ -1303,6 +1301,10 @@ XI. Servicios Públicos Municipales; y
 
 XII. Derechos Humanos.
 
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2016)</small>
+
+XIII. Igualdad de Género.
+
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
@@ -1564,6 +1566,30 @@ VIII. Los que le sean encomendadas (sic) por el Ayuntamiento o por el Presidente
 IX. Promover acciones coordinadas con los organismos públicos y sociales protectores de los derechos humanos para el estudio y la difusión de los mismos en el Municipio; y
 
 X. Las demás que le confiera el Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2016)</small>
+
+###### Artículo 94 Bis.
+
+Son atribuciones de la Comisión de Igualdad de Género las siguientes:
+
+I. Promover la planeación del desarrollo municipal, bajo una perspectiva de igualdad de género.
+
+II. Fomentar la generación y aplicación de mecanismos que permitan el acceso de la mujer a los beneficios de los programas municipales en condiciones de Igualdad.
+
+III. Gestionar que los apoyos y recursos que se soliciten, ya sea individualmente o a través de organizaciones o asociaciones cumplan en su distribución con el principio de igualdad de género.
+
+IV. Establecer coordinación con Institutos e instancias similares para desarrollar proyectos o programas a favor de las Mujeres.
+
+V. Fomentar la creación de los espacios de expresión para que las mujeres puedan dar a conocer sus necesidades e inquietudes sin distinción o discriminación.
+
+VI. Impulsar en el municipio los programas que a favor de las mujeres promuevan organismos nacionales e internacionales y diseñar y aplicar los propios.
+
+VII. Proponer las políticas que fortalezcan la existencia de ambientes laborales libres de discriminación al interior del Municipio de General Escobedo.
+
+VIII. Promover la inclusión de talleres, asesorías, cursos y capacitación en materia de perspectiva de género y no discriminación al interior del Municipio; y
+
+IX. Todas las demás necesarias para cumplir la normativa federal en el tema de igualdad de género.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
@@ -2138,3 +2164,11 @@ Segundo.- Los procedimientos y demás actos jurídicos que se encuentren en trá
 P.O. 6 DE ENERO DE 2016.
 
 > <small>[N. DE E. “LA REFORMA POR MODIFICACIÓN DEL REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DEL MUNICIPIO DE GENERAL ESCOBEDO, N.L.”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.]</small>
+
+P.O. 18 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE "SE APRUEBA LA REFORMA POR ADICIÓN DE LA FRACCIÓN XIII, DEL ARTÍCULO 82, Y DEL ARTÍCULO 94 BIS, DEL REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DE GENERAL ESCOBEDO, N.L.".]
+
+Primero.- La presente reforma al Reglamento en mención, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá dársele difusión en la Gaceta Municipal y en el sitio oficial de Internet de este municipio.
+
+Segundo.- Los procedimientos y demás actos jurídicos que se encuentren en trámite a la entrada en vigor de la presente reforma, serán resueltos conforme a las normas vigentes al momento de su inicio.
