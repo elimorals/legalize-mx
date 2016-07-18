@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-99563"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-11"
-last_updated: "2016-06-21"
+last_updated: "2016-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2016.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 11 de marzo de 2014.
 
@@ -1319,9 +1319,33 @@ III. Coordinar su vinculación con la educación preescolar;
 
 IV. Estimular el incremento del número de centros de desarrollo infantil para atender la demanda de las madres trabajadoras;
 
-V. Comprobar que el personal adscrito a las instituciones de educación inicial sea egresado de educación normal en cualquiera de sus especialidades o egresado de educación superior y técnica que tenga la formación y el perfil profesional acorde a la función que desempeña, de acuerdo a los requerimientos señalados por la Autoridad Educativa; y
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
 
-VI. Desarrollar programas de orientación y apoyo para los padres o tutores a fin de que la educación que den a sus hijos o pupilos en el hogar pueda aplicar principios y métodos de la educación inicial.
+V. Comprobar que el personal adscrito a las instituciones de educación inicial sea egresado de educación normal en cualquiera de sus especialidades o egresado de educación superior y técnica que tenga la formación y el perfil profesional acorde a la función que desempeña, de acuerdo a los requerimientos señalados por la Autoridad Educativa;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
+
+VI. Desarrollar programas de orientación y apoyo para los padres o tutores a fin de que la educación que den a sus hijos o pupilos en el hogar pueda aplicar principios y métodos de la educación inicial;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2016)</small>
+
+VII. Promover la universalización y fortalecer la educación inicial en el Estado;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2016)</small>
+
+VIII. Colaborar con el Instituto de Servicios de Salud del Estado de Aguascalientes para la difusión, distribución de materiales educativos, impartición de cursos a mujeres en gestación y padres de familia, sobre temas referentes al embarazo, parto, lactancia y educación inicial de las niñas y niños, con énfasis a los primeros cuatro años de vida;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2016)</small>
+
+IX. Promover programas educativos para las personas del Sistema Educativo Estatal y padres de familia, con el objeto de que se comprenda la educación desde el vientre materno hasta su ingreso en la educación preescolar obligatoria, y que se promueva la paternidad responsable y comprometida. De igual manera se deben crear programas multidisciplinarios e intersectoriales, que promuevan el trabajo de manera conjunta con la madre, padre, familia y comunidad.
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2016)</small>
+
+X. Promover la educación inicial en la población infantil menor de cuatro años de edad que impulse el desarrollo de habilidades y capacidades que faciliten la asimilación del conocimiento y aprendizaje futuro en las instituciones educativas del Estado y sus organismos descentralizados y las instituciones particulares con autorización o reconocimiento de validez oficial de Estudios; y
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2016)</small>
+
+XI. Impulsar acuerdos interinstitucionales e intersectoriales a nivel federal y estatal entre las instancias involucradas, estableciendo una estrategia de vinculación y aplicación de un nuevo modelo de atención educativa inicial, en el que se consideren la actualización y formación permanente de las personas del Sistema Educativo Estatal, a través de convenios, donde se describan las responsabilidades y compromisos.
 
 En el caso de educación inicial los particulares deberán, contar con personal que acredite la preparación adecuada para impartir educación; contar con instalaciones y demás personal que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la autoridad educativa determine; cumplir los requisitos a que alude el Artículo 21 de la Ley General de Educación; presentar las evaluaciones que correspondan, de conformidad con lo dispuesto en esta Ley y demás disposiciones correspondientes que deriven en el marco del Sistema Nacional de Evaluación Educativa, y tomar las medidas a que se refiere el artículo 42 de la Ley General de Educación, así como facilitar la inspección y vigilancia de las autoridades competentes.
 
@@ -2420,3 +2444,19 @@ Como fondo de garantía del apoyo económico a que hace referencia el presente D
 ###### ARTÍCULO TERCERO.
 
 En un plazo no mayor a los 180 días naturales contados a partir de que inicie su vigencia el presente Decreto, se deberán emitir las reglas de operación conducentes.
+
+P.O. 18 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 352.- SE REFORMA Y ADICIONA EL ARTÍCULO 93 DE LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La obligación del Estado de promover la universalidad de la educación inicial, se cumplirá de manera gradual y progresiva a partir del ciclo escolar 2016-2017 y hasta lograr la cobertura total en sus diversas modalidades en la entidad a más tardar en el ciclo escolar 2030-2031.
+
+###### ARTÍCULO TERCERO.
+
+En un plazo no mayor a los 180 días naturales contados a partir de que inicie su vigencia el presente decreto, se deberán realizar las adecuaciones reglamentarias conducentes.
