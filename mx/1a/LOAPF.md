@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2015-12-30"
+last_updated: "2016-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE JULIO DE 2016.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -268,11 +268,11 @@ d) Realizar acciones de orientación y difusión con los beneficiarios para gara
 
 En el reglamento interior de cada una de las Secretarías de Estado que será expedido por el Presidente de la República, se determinarán las atribuciones de sus unidades administrativas, así como la forma en que los titulares podrán ser suplidos en sus ausencias.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 19.
 
-El titular de cada Secretaría de Estado expedirá los manuales de organización, de procedimientos y de servicios al público necesarios para su funcionamiento, los que deberán contener información sobre la estructura orgánica de la dependencia y las funciones de sus unidades administrativas, así como sobre los sistemas de comunicación y coordinación y los principales procedimientos administrativos que se establezcan. Los manuales y demás instrumentos de apoyo administrativo interno, deberán mantenerse permanentemente actualizados. Los manuales de organización general deberán publicarse en el Diario Oficial de la Federación. En cada una de las dependencias y entidades de la administración pública federal, se mantendrán al corriente los escalafones de los trabajadores, y se establecerán los sistemas de estímulos y recompensas que determine la ley y las condiciones generales de trabajo respectivas.
+El titular de cada Secretaría de Estado expedirá los manuales de organización, de procedimientos y de servicios al público necesarios para su funcionamiento, los que deberán contener información sobre la estructura orgánica de la dependencia y las funciones de sus unidades administrativas, así como sobre los sistemas de comunicación y coordinación y los principales procedimientos administrativos que se establezcan. Los manuales y demás instrumentos de apoyo administrativo interno, deberán mantenerse permanentemente actualizados. Los manuales de organización general deberán publicarse en el Diario Oficial de la Federación, mientras que los manuales de procedimientos y de servicios al público deberán estar disponibles para consulta de los usuarios y de los propios servidores públicos, a través del registro electrónico que opera la Secretaría de la Función Pública. En cada una de las dependencias y entidades de la Administración Pública Federal, se mantendrán al corriente los escalafones de los trabajadores, y se establecerán los sistemas de estímulos y recompensas que determinen la ley y las condiciones generales de trabajo respectivas.
 
 > <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
@@ -318,7 +318,7 @@ Cuando alguna Secretaría de Estado o la Oficina de la Presidencia de la Repúbl
 
 ### CAPÍTULO II. De la Competencia de las Secretarías de Estado y Consejería Jurídica del Ejecutivo Federal
 
-> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2016)</small>
 
 ###### Artículo 5.
 
@@ -367,6 +367,8 @@ Secretaría de Economía;
 Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
 Secretaría de Comunicaciones y Transportes;
+
+Secretaría de la Función Pública;
 
 Secretaría de Educación Pública;
 
@@ -726,9 +728,7 @@ X.- Establecer y revisar los precios y tarifas de los bienes y servicios de la a
 
 XI.- Cobrar los impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos federales en los términos de las leyes aplicables y vigilar y asegurar el cumplimiento de las disposiciones fiscales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
 
 XII.- Organizar y dirigir los servicios aduanales y de inspección;
 
@@ -758,83 +758,49 @@ XIX.- Coordinar la evaluación que permita conocer los resultados de la aplicaci
 
 XX.- Fijar los lineamientos que se deben seguir en la elaboración de la documentación necesaria para la formulación del Informe Presidencial e integrar dicha documentación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
 
-> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+XXI.- Establecer normas, políticas y lineamientos en materia de desincorporación de activos de la Administración Pública Federal;
 
-XXI.- Coordinar el desarrollo administrativo integral en las dependencias y entidades de la Administración Pública Federal, y emitir las normas para que los recursos humanos y patrimoniales y los procedimientos técnicos de la misma, sean aprovechados y aplicados, respectivamente, con criterios de eficiencia y simplificación administrativa;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2013)</small>
-
-XXII.- Emitir políticas, normas, lineamientos y procedimientos en materia de adquisiciones, arrendamientos, servicios y obras públicas y servicios relacionados con las mismas de la Administración Pública Federal; emitir y en su caso opinar sobre las normas relacionadas con la desincorporación de activos; administrar el sistema COMPRANET, llevar los procedimientos de conciliación en dichas materias, en términos de las disposiciones respectivas y aplicar la Ley de Firma Electrónica Avanzada;
+XXII.- (DEROGADA, D.O.F. 18 DE JULIO DE 2016)
 
 XXIII.- Vigilar el cumplimiento de las obligaciones derivadas de las disposiciones en materia de planeación nacional, así como de programación, presupuestación, contabilidad y evaluación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
 
-> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+XXIV.- Ejercer el control presupuestario de los servicios personales y establecer normas y lineamientos en materia de control del gasto en ese rubro;
 
-XXIV.- Conducir las políticas, establecer las normas y emitir las autorizaciones y criterios correspondientes en materia de planeación y administración de recursos humanos, contratación y remuneraciones del personal, Servicio Profesional de Carrera en la Administración Pública Federal, estructuras orgánicas y ocupacionales, y ejercer el control presupuestario de los servicios personales, con las respectivas normas de control de gasto en ese rubro;
+XXV.- (DEROGADA, D.O.F. 18 DE JULIO DE 2016)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XXVI.- (DEROGADA, D.O.F. 18 DE JULIO DE 2016)
 
-> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+XXVII.- (DEROGADA, D.O.F. 18 DE JULIO DE 2016)
 
-XXV.- Llevar y normar el registro de servidores públicos de la Administración Pública Federal, incluyendo sus declaraciones patrimoniales y su seguimiento, así como la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas, en los términos de los ordenamientos aplicables;
+XXVIII.- (DEROGADA, D.O.F. 18 DE JULIO DE 2016)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2013)</small>
-
-XXVI.- Determinar los perfiles que deberán cubrir los titulares y personal de las auditorías preventivas de las dependencias y entidades de la Administración Pública Federal, así como las disposiciones generales para su organización, funcionamiento y régimen disciplinario; señalar los órganos desconcentrados o entes similares que se consideren que deban contar en forma directa con unidades de auditoría preventiva, o determinar los órganos desconcentrados y entidades paraestatales que por su dimensión puedan ser auditados por la unidad de auditoría preventiva de su sector correspondiente;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2013)</small>
-
-XXVII.- Coordinar y supervisar el sistema de control gubernamental, establecer las bases generales para la realización de auditorías internas, transversales y externas, y expedir las normas que regulen los instrumentos y procedimientos en dichas materias en las dependencias y entidades de la Administración Pública Federal;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2013)</small>
-
-XXVIII.- Designar a los comisarios de las entidades de la Administración Pública Federal, así como normar sus atribuciones y desempeño;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
 
 XXIX.- Conducir la política inmobiliaria de la Administración Pública Federal, salvo por lo que se refiere a las playas, zona federal marítimo terrestre, terrenos ganados al mar o cualquier depósito de aguas marítimas y demás zonas federales; administrar los inmuebles de propiedad federal cuando no estén asignados a alguna dependencia o entidad, así como llevar el registro público de la propiedad inmobiliaria federal y el inventario general correspondiente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
 
 XXX.- Regular la adquisición, arrendamiento, enajenación, destino o afectación de los bienes inmuebles de la Administración Pública Federal y, en su caso, representar el interés de la Federación; expedir las normas y procedimientos para la formulación de inventarios, para la realización y actualización de los avalúos sobre dichos bienes, así como expedir normas técnicas, autorizar y, en su caso, proyectar, construir, rehabilitar, conservar o administrar, directamente o a través de terceros, los edificios públicos y, en general, los bienes inmuebles de la Federación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XXXI.- (DEROGADA, D.O.F. 18 DE JULIO DE 2016)
 
-> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2013)</small>
+XXXII.- (DEROGADA, D.O.F. 18 DE JULIO DE 2016)
 
-XXXI.- Coordinar políticas de desarrollo de indicadores por dependencia y entidad que estimulen el desempeño y cumplimiento de resultados de los órganos y servidores públicos de la Administración Pública Federal;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2013)</small>
-
-XXXII.- Emitir normas, lineamientos y manuales que integren disposiciones y criterios que impulsen la simplificación administrativa;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
 
 XXXIII.- Reivindicar los bienes propiedad de la Nación, en los términos de las disposiciones aplicables; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
 
 XXXIV.- Los demás que le atribuyan expresamente las leyes y reglamentos.
 
@@ -1598,11 +1564,71 @@ XXVI.- Promover y, en su caso, organizar la capacitación, investigación y el d
 
 XXVII.- Los demás que expresamente le fijen las leyes y reglamentos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 37.
 
-(DEROGADO, D.O.F. 2 DE ENERO DE 2013)
+A la Secretaría de la Función Pública corresponde el despacho de los siguientes asuntos:
+
+I. Organizar y coordinar el sistema de control interno y la evaluación de la gestión gubernamental; inspeccionar el ejercicio del gasto público federal y su congruencia con los presupuestos de egresos, así como concertar con las dependencias y entidades de la Administración Pública Federal y validar los indicadores para la evaluación de la gestión gubernamental, en los términos de las disposiciones aplicables;
+
+II. Expedir las normas que regulen los instrumentos y procedimientos de control interno de la Administración Pública Federal, para lo cual podrá requerir de las dependencias competentes la expedición de normas complementarias para el ejercicio del control administrativo. Lo anterior, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador del Sistema Nacional Anticorrupción;
+
+III. Vigilar, en colaboración con las autoridades que integren el Comité Coordinador del Sistema Nacional Anticorrupción, el cumplimiento de las normas de control interno y fiscalización, así como asesorar y apoyar a los órganos internos de control de las dependencias y entidades de la Administración Pública Federal;
+
+IV. Coordinar y supervisar el sistema de control interno, establecer las bases generales para la realización de auditorías internas, transversales y externas; expedir las normas que regulen los instrumentos y procedimientos en dichas materias en las dependencias y entidades de la Administración Pública Federal y en la Procuraduría General de la República, así como realizar las auditorías que se requieran en éstas, en sustitución o apoyo de sus propios órganos internos de control;
+
+V. Vigilar el cumplimiento, por parte de las dependencias y entidades de la Administración Pública Federal y de la Procuraduría General de la República, de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio;
+
+VI. Organizar y coordinar el desarrollo administrativo integral en las dependencias y entidades de la Administración Pública Federal y emitir las normas para que los recursos humanos, patrimoniales y los procedimientos técnicos de la misma, sean aprovechados y aplicados, respectivamente, con criterios de eficacia, legalidad, eficiencia y simplificación administrativa; así como, realizar o encomendar las investigaciones, estudios y análisis necesarios sobre estas materias;
+
+VII. Conducir las políticas, establecer las normas y emitir las autorizaciones y criterios correspondientes en materia de planeación y administración de recursos humanos, contratación del personal, Servicio Profesional de Carrera en la Administración Pública Federal, estructuras orgánicas y ocupacionales, de conformidad con las respectivas normas de control de gasto en materia de servicios personales;
+
+VIII. Realizar, por sí o a solicitud de la Secretaría de Hacienda y Crédito Público o la coordinadora de sector correspondiente, auditorías, revisiones y evaluaciones a las dependencias y entidades de la Administración Pública Federal, con el objeto de examinar, fiscalizar y promover la eficiencia y legalidad en su gestión y encargo;
+
+IX. Fiscalizar directamente o a través de los órganos internos de control, que las dependencias y entidades de la Administración Pública Federal y la Procuraduría General de la República cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Federal;
+
+X. Designar y remover a los auditores externos de las entidades, así como normar y controlar su desempeño;
+
+XI. Designar y remover para el mejor desarrollo del sistema de control y evaluación de la gestión gubernamentales, delegados de la propia Secretaría ante las dependencias y órganos desconcentrados de la Administración Pública Federal centralizada y comisarios públicos de los órganos de vigilancia de las entidades de la Administración Pública Paraestatal y de la Procuraduría General de la República; así como normar y controlar su desempeño;
+
+XII. Designar y remover a los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública Federal y de la Procuraduría General de la República, así como de las unidades administrativas equivalentes en las empresas productivas del Estado, quienes dependerán jerárquica y funcionalmente de la Secretaría de la Función Pública, asimismo, designar y remover a los titulares de las áreas de auditoría, quejas y responsabilidades de los citados órganos internos de control; quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales Federales, representando al Titular de dicha Secretaría;
+
+XIII. Colaborar en el marco del Sistema Nacional Anticorrupción y del Sistema Nacional de Fiscalización, en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes;
+
+XIV. Implementar las acciones que acuerde el Sistema Nacional Anticorrupción, en términos de las disposiciones aplicables;
+
+XV. Informar periódicamente al Comité Coordinador del Sistema Nacional Anticorrupción, así como al Ejecutivo Federal, sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades de la Administración Pública Federal y de la Procuraduría General de la República, así como del resultado de la revisión del ingreso, manejo, custodia y ejercicio de recursos públicos federales, y promover ante las autoridades competentes, las acciones que procedan para corregir las irregularidades detectadas;
+
+XVI. Llevar y normar el registro de servidores públicos de la Administración Pública Federal, recibir y registrar las declaraciones patrimoniales y de intereses que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas;
+
+XVII. Atender las quejas e inconformidades que presenten los particulares con motivo de convenios o contratos que celebren con las dependencias y entidades de la Administración Pública Federal y de la Procuraduría General de la República, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes;
+
+XVIII. Conocer e investigar las conductas de los servidores públicos de la Administración Pública Federal que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley General de Responsabilidades Administrativas, por sí, o por conducto de los órganos internos de control que correspondan a cada área de la Administración Pública Federal; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal Federal de Justicia Administrativa y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
+
+XIX. Establecer mecanismos internos para la Administración Pública Federal que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
+
+XX. Aprobar y registrar las estructuras orgánicas y ocupacionales de las dependencias y entidades de la Administración Pública Federal y de la Procuraduría General de la República y sus modificaciones; previo dictamen presupuestal favorable de la Secretaría de Hacienda y Crédito Público;
+
+XXI. Establecer y conducir la política general de las contrataciones públicas reguladas por la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas, propiciando las mejores condiciones de contratación conforme a los principios de eficiencia, eficacia, economía, transparencia, imparcialidad y honradez; emitir las normas, lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en materia de dichas contrataciones públicas; proporcionar, en su caso, asesoría normativa con carácter preventivo en los procedimientos de contratación regulados por las mencionadas leyes que realicen las dependencias y entidades de la Administración Pública Federal y promover, con la intervención que corresponda a otras dependencias de la Administración Pública Federal, la coordinación y cooperación con los Poderes de la Unión, los órganos constitucionales autónomos, las entidades federativas y demás entes públicos encargados de regímenes de contratación pública, con excepción de las empresas productivas del Estado, a efecto de propiciar en lo procedente la homologación de políticas, normativas y criterios en materia de contrataciones públicas, que permita contar con un sistema de contrataciones públicas articulado a nivel nacional;
+
+XXII. Definir la política de gobierno digital, gobierno abierto y datos abiertos en el ámbito de las dependencias y entidades de la Administración Pública Federal;
+
+XXIII. Formular y conducir en apego y de conformidad con las bases de coordinación que establezca el Comité Coordinador del Sistema Nacional Anticorrupción, la política general de la Administración Pública Federal para establecer acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere; así como promover dichas acciones hacia la sociedad;
+
+XXIV. Ejercer las facultades que la Constitución le otorga a los órganos internos de control para revisar, mediante las auditorías a que se refiere el presente artículo, el ingreso, manejo, custodia y ejercicio de recursos públicos federales;
+
+XXV. Implementar las políticas de coordinación que promueva el Comité Coordinador del Sistema Nacional Anticorrupción, en materia de combate a la corrupción en la Administración Pública Federal;
+
+XXVI. Emitir normas, lineamientos específicos y manuales que, dentro del ámbito de su competencia, integren disposiciones y criterios que impulsen la simplificación administrativa, para lo cual deberán tomar en consideración las bases y principios de coordinación y recomendaciones generales que emita el Comité Coordinador del Sistema Nacional Anticorrupción;
+
+XXVII. Seleccionar a los integrantes de los órganos internos de control, garantizando la igualdad de oportunidades en el acceso a la función pública, atrayendo a los mejores candidatos para ocupar los puestos, a través de procedimientos transparentes, objetivos y equitativos;
+
+XXVIII. Emitir el Código de Ética de los servidores públicos del gobierno federal y las Reglas de Integridad para el ejercicio de la función pública, y
+
+XXIX. Las demás que le encomienden expresamente las leyes y reglamentos.
+
+El nombramiento del Secretario de la Función Pública que somete el Presidente de la República a ratificación del Senado de la República, deberá estar acompañado de la declaración de interés de la persona propuesta, en los términos previstos en la Ley General de Responsabilidades Administrativas.
 
 ###### ARTICULO 38.
 
@@ -2050,21 +2076,23 @@ ARTICULO 43 TER.- La Administración Pública Centralizada contará con Órganos
 
 Los Órganos Reguladores Coordinados en Materia Energética se regirán por las disposiciones aplicables a la Administración Pública Centralizada y el régimen especial que, en su caso, prevea la ley que los regula.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 44.
 
-Los titulares de las dependencias y entidades de la Administración Pública Federal serán responsables de mantener el control interno y de gestión de la dependencia o entidad que encabecen, con el apoyo de unidades de auditoría preventiva. Los propios titulares tendrán la obligación de nombrar a los auditores preventivos de su respectiva dependencia y entidad, con base en los perfiles que establezca la Secretaría de Hacienda y Crédito Público, para apoyar la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, al óptimo desempeño de servidores públicos y órganos, a la modernización continua y desarrollo eficiente de la gestión administrativa y al correcto manejo de los recursos públicos.
+Los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública Federal y de sus áreas de auditoría, quejas y responsabilidades, serán responsables de mantener el control interno de la dependencia o entidad a la que se encuentren adscritos. Asimismo, tendrán como función apoyar la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, así como al óptimo desempeño de servidores públicos y órganos, a la modernización continua y desarrollo eficiente de la gestión administrativa y al correcto manejo de los recursos públicos. Los órganos internos de control de las sociedades nacionales de crédito, así como aquéllos de otras entidades que cuenten con un régimen específico de control interno, se sujetarán a las funciones y organización establecidas en las disposiciones mediante las que se crea la respectiva entidad.
 
-Las unidades de auditoría preventiva se regirán por las leyes y disposiciones sobre adquisiciones, obra pública, presupuesto, contabilidad, fiscalización superior, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción y otras afines a la materia, y por las disposiciones generales que emita la Secretaría de Hacienda y Crédito Público respecto de dichos asuntos, sobre la organización, funcionamiento y supervisión de los sistemas de control interno, además de las de auditoría preventiva, mejora de gestión en las dependencias y entidades de la Administración Pública Federal y presentación de informes por parte de dichas unidades. Las unidades de auditoría preventiva formarán parte del sistema nacional de fiscalización, e incorporarán en su ejercicio las normas técnicas y códigos de ética, de conformidad con las mejores prácticas, que considere el referido sistema.
+Los órganos internos de control, en ejercicio de su función de auditoría, prevista en la fracción XXIV del artículo 37 de esta Ley, se regirán por las leyes y disposiciones sobre adquisiciones, obra pública, presupuesto, contabilidad, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción y otras afines a la materia y por las bases y principios de coordinación que emitan el Comité Coordinador del Sistema Nacional Anticorrupción y la Secretaría de la Función Pública respecto de dichos asuntos, así como sobre la organización, funcionamiento y supervisión de los sistemas de control interno, mejora de gestión en las dependencias y entidades de la Administración Pública Federal y presentación de informes por parte de dichos órganos.
 
-Las unidades de auditoría preventiva de cada dependencia y entidad formularán en el mes de noviembre su plan anual de trabajo y de auditorías.
+Las unidades encargadas de la función de auditoría de la Secretaría de la Función Pública y los órganos internos de control de la Administración Pública Federal formarán parte del Sistema Nacional de Fiscalización e incorporarán en su ejercicio las normas técnicas y códigos de ética, de conformidad con la Ley General del Sistema Nacional Anticorrupción y las mejores prácticas que considere el referido sistema.
 
-En los meses de mayo y noviembre entregarán informes tanto al titular de la dependencia o entidad de que se trate, así como a la Secretaría de Hacienda y Crédito Público, sobre hallazgos en la gestión y recomendaciones en relación con las acciones correctivas, preventivas y oportunidades de mejora respecto de la calidad y eficiencia de los distintos procesos internos y ejecución de los programas, así como sobre la eficiencia y eficacia en la administración de los recursos humanos, materiales y financieros y de los servicios generales, además de los correspondientes a la situación de desempeño y el ejercicio del gasto; y en su caso, sobre la relación de los procedimientos abiertos por causas disciplinarias, de presunta responsabilidad administrativa y de sanciones aplicadas por la propia unidad de auditoría preventiva, así como de las denuncias presentadas ante la autoridad competente por actos de corrupción. Con base en dichos informes, tanto las dependencias y entidades, así como la Secretaría de Hacienda y Crédito Público, formularán las recomendaciones pertinentes para mejora de la gestión.
+Las unidades a que se refiere el párrafo anterior y los órganos internos de control formularán en el mes de noviembre su plan anual de trabajo y de evaluación.
 
-Los titulares de las dependencias y entidades encabezarán comités de control y desempeño institucional para el seguimiento y evaluación general de la gestión, conforme a las disposiciones que establezca la Secretaría de Hacienda y Crédito Público.
+Los titulares de las unidades encargadas de la función de auditoría de la Secretaría de la Función Pública y de los órganos internos de control, en los meses de mayo y noviembre entregarán informes al titular de dicha Secretaría, sobre hallazgos en la gestión y recomendaciones en relación con las acciones correctivas, preventivas y oportunidades de mejora respecto de la calidad y eficiencia de los distintos procesos internos y sobre la relación de los procedimientos por faltas administrativas y de sanciones aplicadas por los órganos internos de control; las acciones de responsabilidad presentadas ante el Tribunal Federal de Justicia Administrativa y las sanciones correspondientes; las denuncias por actos de corrupción que presenten ante la Fiscalía Especializada en Combate a la Corrupción; así como un informe detallado del porcentaje de los procedimientos iniciados por los órganos internos de control que culminaron con una sanción firme y a cuánto ascienden, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del informe.
+
+Con base en dichos informes, así como de las recomendaciones y las bases y principios de coordinación que emita el Comité Coordinador del Sistema Nacional Anticorrupción, tanto las dependencias y entidades, así como la Secretaría de la Función Pública, implementarán las acciones pertinentes para mejora de la gestión.
+
+Conforme a lo dispuesto en las leyes en la materia, así como en las bases y principios de coordinación emitidas por el Comité Coordinador del Sistema Nacional Anticorrupción, los titulares de los órganos internos de control encabezarán comités de control y desempeño institucional para el seguimiento y evaluación general de la gestión.
 
 ### CAPITULO UNICO. De la Administración Pública Paraestatal
 
@@ -2128,13 +2156,13 @@ Atendiendo a la naturaleza de las actividades de dichas entidades, el titular de
 
 ARTICULO 49 BIS.- (DEROGADO, D.O.F. 14 DE MAYO DE 1986)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 50.
 
-Las relaciones entre el Ejecutivo Federal y las entidades paraestatales, para fines de congruencia global de la Administración Pública Paraestatal, con el sistema nacional de planeación y con los lineamientos generales en materia de gasto, financiamiento y evaluación, se llevarán a cabo en la forma y términos que dispongan las leyes, por conducto de la Secretaría de Hacienda y Crédito Público, sin perjuicio de las atribuciones que competan a la dependencia coordinadora del sector correspondiente.
+Las relaciones entre el Ejecutivo Federal y las entidades paraestatales, para fines de congruencia global de la Administración Pública Paraestatal con el sistema nacional de planeación y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación, se llevarán a cabo en la forma y términos que dispongan las leyes, por conducto de las Secretarías de Hacienda y Crédito Público y de la Función Pública, en el ámbito de sus respectivas competencias, sin perjuicio de las atribuciones que competan a la coordinadora del sector correspondiente.
+
+Las Secretarías de Hacienda y Crédito Público y de la Función Pública emitirán los criterios para la clasificación de las entidades paraestatales conforme a sus objetivos y actividades, en aquellas que cumplan una función institucional y las que realicen fines comerciales con el propósito de, en su caso, establecer mecanismos diferenciados que hagan eficiente su organización, funcionamiento, control y evaluación. Dichos mecanismos contemplarán un análisis sobre los beneficios y costos de instrumentar prácticas de gobierno corporativo en las entidades con fines comerciales, a efecto de considerar la conveniencia de su adopción.
 
 ###### ARTICULO 51.
 
@@ -2608,11 +2636,7 @@ D.O.F. 2 DE ENERO DE 2013.
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-Segundo.- Las modificaciones previstas en el presente Decreto para los artículos 26, 31, 37, 44, y 50 de esta Ley exclusivamente por lo que se refiere a la desaparición y transferencia de las atribuciones de la Secretaría de la Función Pública, entrarán en vigor en la fecha en que el órgano constitucional autónomo que se propone crear en materia anticorrupción entre en funciones, conforme a las disposiciones constitucionales y legales que le den existencia jurídica.
-
-Al expedir los ordenamientos reglamentarios de la reforma constitucional correspondiente, el Congreso de la Unión revisará que el control interno y el sistema integral de control y evaluación gubernamental sean congruentes con las atribuciones que le sean conferidas a dicho órgano y compatibles con las bases y principios del Sistema Nacional de Fiscalización, para lo cual realizará las reformas legales a que haya lugar.
-
-Entre tanto se expiden y entran en vigor las disposiciones a que se refiere este artículo, la Secretaría de la Función Pública continuará ejerciendo sus atribuciones conforme a los ordenamientos vigentes al momento de expedición de este Decreto.
+Segundo.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL EN MATERIA DE CONTROL INTERNO DEL EJECUTIVO FEDERAL, D.O.F. 18 DE JULIO DE 2016)
 
 Tercero.- El Titular del Poder Ejecutivo Federal deberá expedir la reforma a los reglamentos interiores de las Secretarías de Estado afectadas por el presente Decreto, así como de la Oficina de la Presidencia de la República, en un plazo no mayor a noventa días naturales, contados a partir de la entrada en vigor del presente Decreto.
 
@@ -3027,3 +3051,27 @@ Las secretarías de Hacienda y Crédito Público y de la Función Pública reali
 Las erogaciones que, en su caso, realicen las dependencias a que se refiere el párrafo anterior en cumplimiento a este Decreto, se cubrirán con cargo a sus respectivos presupuestos aprobados para el ejercicio fiscal correspondiente.
 
 Séptimo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+D.O.F. 18 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL EN MATERIA DE CONTROL INTERNO DEL EJECUTIVO FEDERAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en el Decreto por el que se expide la Ley General de Responsabilidades Administrativas.
+
+SEGUNDO. Se deroga el Segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013.
+
+TERCERO. Por lo que respecta a las atribuciones de la Secretaría de Hacienda y Crédito Público a que se refieren las fracciones XXIX, XXX y XXXIII del artículo 31 de la Ley Orgánica de la Administración Pública Federal, éstas entrarán en vigor cuando el Titular del Poder Ejecutivo Federal expida las reformas a los reglamentos interiores de las Secretarías de Estado afectadas por el presente Decreto, las cuales deberán realizarse en un plazo no mayor a noventa días naturales, contados a partir de la entrada en vigor del presente Decreto, y que deberán prever las modificaciones necesarias para la readscripción de los órganos desconcentrados que corresponda.
+
+Las facultades con que cuentan las unidades administrativas y órganos desconcentrados que, por virtud del presente Decreto, pasen a formar parte de otras dependencias, continuarán vigentes en términos de los reglamentos interiores que las rigen, hasta en tanto sean emitidos los nuevos reglamentos interiores, conforme a lo dispuesto en el párrafo anterior.
+
+Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+
+Los recursos humanos, financieros y materiales con que cuenten las unidades administrativas de las dependencias cuyas funciones cambian por este Decreto a otras Secretarías de Estado, se transferirán a éstas, a fin de apoyar el cumplimiento de los programas y metas que les corresponden.
+
+Los oficiales mayores de las dependencias a que se refiere el presente Decreto serán responsables del proceso de transferencia de los recursos mencionados, por lo que proveerán y acordarán lo necesario para dar cumplimiento al presente Decreto, así como de la elaboración de la información necesaria para la integración de la Cuenta Pública en el ámbito de su competencia.
+
+La Secretaría de Hacienda y Crédito Público podrá dictar los lineamientos y disposiciones de carácter general que estime necesarios para la transferencia de los recursos humanos, financieros y materiales y la debida ejecución de lo dispuesto en este artículo.
+
+Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las Secretarías cuyas funciones se reforman por virtud de este Decreto, se entenderán referidas a las dependencias que, respectivamente, adquieren tales funciones, de manera enunciativa, las contenidas en la Ley General de Bienes Nacionales.
+
+Los programas aprobados en el Presupuesto de Egresos de la Federación para el ejercicio fiscal 2016 continuarán siendo ejecutados hasta el final de dicho ejercicio por las dependencias que hayan mantenido o a las que les hayan sido transferidas las atribuciones y unidades administrativas u organismos desconcentrados relacionadas con dichos programas.
