@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-proteccion-civil-en-el-municipio-de-san-pedro-622
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-30"
-last_updated: "2016-03-04"
+last_updated: "2016-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE PROTECCIÓN CIVIL EN EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 30 de junio de 2008.
 
@@ -41,7 +41,7 @@ Por lo anteriormente expuesto y fundado y de conformidad con lo establecido en l
 
 REGLAMENTO DE PROTECCIÓN CIVIL EN EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA. NUEVO LEÓN
 
-### CAPITULO l. DISPOSICIONES GENERALES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 1.
 
@@ -61,9 +61,9 @@ IV. AUXILIO.- Acciones destinadas primordialmente a salvaguardar la vida, la sal
 
 V. (DEROGADA, P.O. 6 DE OCTUBRE DE 2010)
 
-> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
 
-V BIS CUOTA: Cantidad económica calculada conforme al equivalente a un salario mínimo general vigente en el área geográfica que corresponde al Municipio de San Pedro Garza García, Nuevo León.
+V BIS CUOTA: El valor diario de la Unidad de Medida y Actualización vigente al año que corresponda;
 
 VI. DAMNIFICADO.- Persona que sufre en su integridad física o en sus bienes daños de consideración, provocados directamente por los efectos de un desastre; también se consideran damnificados a sus dependientes económicos. Es aplicable este concepto, a la persona que por la misma causa haya perdido su ocupación o empleo, requiriendo consecuentemente del apoyo gubernamental para sobrevivir en condiciones dignas;
 
@@ -185,9 +185,9 @@ IV. Como Secretario Técnico, el Director de Protección Civil Municipal.
 
 El Consejo Municipal de Protección Civil, tendrá, además, las siguientes atribuciones:
 
-I.-·Alertar y coordinar la participación ciudadana en la formulación y ejecución de los programas destinados a satisfacer las necesidades presentes y futuras de protección civil de la población del Municipio;
+I.- Alertar y coordinar la participación ciudadana en la formulación y ejecución de los programas destinados a satisfacer las necesidades presentes y futuras de protección civil de la población del Municipio;
 
-II.- Elaborar y presentar dentro de los primeros tres meses de cada .año, para su aprobación al Republicano Ayuntamiento, el Programa Municipal de Protección Civil;
+II.- Elaborar y presentar dentro de los primeros tres meses de cada año, para su aprobación al Republicano Ayuntamiento, el Programa Municipal de Protección Civil;
 
 III.- Vigilar el adecuado uso y aplicación de los recursos materiales y humanos necesarios .para la prevención y atención de emergencias o desastres y hacer posible la disponibilidad permanente de los mismos;
 
@@ -697,7 +697,7 @@ I.- Queda prohibido que los vehículos de carga de cualquier capacidad que porte
 
 II.- Queda exenta de estas disposiciones las pipas de gas y gasolina y otros derivados del petróleo que distribuyen éste producto a granel y las de gasolina que distribuyen exclusivamente a estaciones de servicio o a industrias establecidas;
 
-III.- Los vehículos que transporten gas o gasolina u otros materiales similares por su peligrosidad, deberán de ser conducidos a baja velocidad dentro de la zona urbana del Municipio atendiendo a los dispuesto (sic) en el Reglamento de Tránsito Municipal;
+III.- Los vehículos que transporten gas o gasolina u otros materiales similares por su peligrosidad, deberán de ser conducidos a baja velocidad dentro de la zona urbana del Municipio atendiendo a los (sic) dispuesto en el Reglamento de Tránsito Municipal;
 
 IV.- La transportación, carga y descarga de productos tóxicos .y explosivos en la industria, deberán sujetarse a las rutas y horarios que la Autoridad Municipal determine;
 
@@ -1039,7 +1039,7 @@ j) Durante las horas hábiles, contará con elementos policíacos, protección c
 
 k) Contará con un sistema interno contra incendios, conforme a las necesidades operativas,
 
-I) Los locales, puestos o áreas dispuestas a la venta deberán contar con las distancias necesarias para el tránsito libre de personas y unidades de emergencia.
+l) Los locales, puestos o áreas dispuestas a la venta deberán contar con las distancias necesarias para el tránsito libre de personas y unidades de emergencia.
 
 m) Los locatarios tendrán que presentar un certificado para el combate y ataque de incendios con materiales peligrosos.
 
@@ -1245,13 +1245,13 @@ I.- Amonestación;
 
 II.- Clausura temporal o definitiva, total o parcial de los establecimientos;
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
 
-III.- Multa equivalente al monto de 30 a 5,000 días de salario mínimo general, vigente en la zona económica a la que pertenece el Municipio al momento de la comisión de la infracción;
+III.- Multa de 30 a 5,000 cuotas;
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
 
-IV.- En caso de reincidencia, el monto de la multa podrá ser incrementado sin exceder de 10,000 días de salario mínimo general, así como la clausura definitiva;
+IV.- En caso de reincidencia, el monto de la multa podrá ser incrementado sin exceder de 10,000 cuotas, así como la clausura definitiva;
 
 V.- Suspensión de obras, instalaciones o servicios; y
 
@@ -1424,5 +1424,11 @@ Artículo Tercero. Para lo no previsto por este Reglamento, se seguirá el proce
 P.O. 4 DE MARZO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 25 DE FEBRERO DE 2016, SE APRUEBA LA INICIATIVA DE REFORMA DE DIVERSOS REGLAMENTOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 18 DE JULIO DE 2016.
+
+> <small>[N. DE E. TRANSITORIO POR EL QUE SE “APRUEBAN LAS REFORMAS A LOS 19 REGLAMENTOS DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]</small>
 
 ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
