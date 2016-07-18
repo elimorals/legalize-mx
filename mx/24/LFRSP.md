@@ -4,7 +4,7 @@ identifier: "LFRSP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1982-12-31"
-last_updated: "2016-03-24"
+last_updated: "2016-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFRSP"
 
 LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE JULIO DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 31 de diciembre de 1982.
 
@@ -36,73 +36,35 @@ DECRETO
 
 "El Congreso de los Estados Unidos Mexicanos, decreta:
 
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO TERCERO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, A LA FECHA DE ENTRADA EN VIGOR DE LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, TODAS LAS MENCIONES A LA LEY FEDERAL DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS PREVISTAS EN LAS LEYES FEDERALES Y LOCALES ASÍ COMO EN CUALQUIER DISPOSICIÓN JURÍDICA, SE ENTENDERÁN REFERIDAS A LA "LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS".]</small>
+
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO QUINTO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, A LA FECHA DE ENTRADA EN VIGOR DE LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, TODAS LAS REFERENCIAS QUE EN LAS LEYES SE HAGA AL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA, SE ENTENDERÁN REFERIDAS AL "TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA".]</small>
+
 LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-> <small>(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS, POR LO QUE SE REFIERE A LA MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 13 DE MARZO DE 2002)</small>
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)</small>
 
 ## TITULO PRIMERO
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)</small>
 
 ### CAPITULO UNICO. Disposiciones Generales
 
 ###### ARTICULO 1o.
 
-Esta ley tiene por objeto reglamentar el Título Cuarto Constitucional en materia de:
-
-I.- Los sujetos de responsabilidad en el servicio público;
-
-II.- Las obligaciones en el servicio público;
-
-III.- Las responsabilidades y sanciones administrativas en el servicio público, así como las que se deban resolver mediante juicio político;
-
-IV.- Las autoridades competentes y los procedimientos para aplicar dichas sanciones;
-
-V.- Las autoridades competentes y los procedimientos para declarar la procedencia del procesamiento penal de los servidores públicos que gozan de fuero y,
-
-VI.- El registro patrimonial de los servidores públicos.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 2o.
 
-Son sujetos de esta Ley, los servidores públicos mencionados en el párrafo primero y tercero del artículo 108 Constitucional y todas aquellas personas que manejen o apliquen recursos económicos federales.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 3o.
 
-Las autoridades competentes para aplicar la presente Ley serán:
-
-I.- Las Cámaras de Senadores y Diputados al Congreso de la Unión;
-
-(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
-
-I Bis.- La Asamblea Legislativa del Distrito Federal;
-
-(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
-
-II.- La Secretaría de Contraloría y Desarrollo Administrativo;
-
-III.- Las dependencias del Ejecutivo Federal;
-
-(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
-
-IV.- El órgano ejecutivo local del Gobierno del Distrito Federal;
-
-V.- (DEROGADA POR ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE CREA LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 26 DE MAYO DE 1995)
-
-> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 1995)</small>
-
-VI. El Consejo de la Judicatura del Distrito Federal;
-
-> <small>(REFORMADA POR LA FRACCIÓN III DEL ARTÍCULO DÉCIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGÁNICA DEL TRIBUNAL FISCAL DE LA FEDERACIÓN, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-VII.- El Tribunal Federal de Justicia Fiscal y Administrativa;
-
-VIII.- Los Tribunales de Trabajo, en los términos de la legislación respectiva;
-
-IX.- Los demás órganos jurisdiccionales que determinen las leyes.
-
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1992)</small>
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 4o.
 
-Cuando los actos u omisiones materia de las acusaciones queden comprendidos en más de uno de los casos sujetos a sanción y previstos en el artículo 109 Constitucional, los procedimientos respectivos se desarrollarán en forma autónoma e independiente según su naturaleza y por la vía procesal que corresponda, debiendo las autoridades a que alude el artículo anterior turnar las denuncias a quien deba conocer de ellas. No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ## TITULO SEGUNDO. Procedimientos ante el Congreso de la Unión en materia de juicio político y declaración de procedencia
 
@@ -432,543 +394,207 @@ En el caso de que la declaratoria de las Cámaras se refiera a gobernadores, dip
 
 En todas las cuestiones relativas al procedimiento no previstas en esta Ley, así como en la apreciación de las pruebas, se observarán las disposiciones del Código Federal de Procedimientos Penales. Asimismo, se atenderán, en lo conducente, las del Código Penal.
 
-> <small>(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS, ÚNICAMENTE POR LO QUE RESPECTA AL ÁMBITO FEDERAL, D.O.F. 13 DE MARZO DE 2002)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)</small>
 
 ## TITULO TERCERO. Responsabilidades Administrativas
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)</small>
 
 ### CAPITULO I. Sujetos y obligaciones del servidor público
 
 ###### ARTICULO 46.
 
-Incurren en responsabilidad administrativa los servidores públicos a que se refiere el artículo 2o. de esta Ley.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JULIO DE 1992)</small>
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 47.
 
-Todo servidor público tendrá las siguientes obligaciones, para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben ser observadas en el desempeño de su empleo, cargo o comisión, y cuyo incumplimiento dará lugar al procedimiento y a las sanciones que correspondan, sin perjuicio de sus derechos laborales, así como de las normas específicas que al respecto rijan en el servicio de las fuerzas armadas:
-
-I.- Cumplir con la máxima diligencia el servicio que le sea encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique abuso o ejercicio indebido de un empleo, cargo o comisión;
-
-II.- Formular y ejecutar legalmente, en su caso, los planes, programas y presupuestos correspondientes a su competencia, y cumplir las leyes y otras normas que determinen el manejo de recursos económicos públicos;
-
-III.- Utilizar los recursos que tengan asignados para el desempeño de su empleo, cargo o comisión, las facultades que le sean atribuidas o la información reservada a que tenga acceso por su función exclusivamente para los fines a que están afectos;
-
-IV.- Custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, conserve bajo su cuidado o a la cual tenga acceso, impidiendo o evitando el uso, la sustracción, destrucción, ocultamiento o inutilización indebidas de aquéllas;
-
-> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 2016)</small>
-
-V.- Observar buena conducta en su empleo, cargo o comisión, tratando con respeto, diligencia, igualdad y sin discriminación a las personas con las que tenga relación con motivo de éste;
-
-> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 2016)</small>
-
-VI.- Observar en la dirección de sus inferiores jerárquicos un trato digno, de respeto y no discriminación y abstenerse de incurrir en agravio, desviación o abuso de autoridad;
-
-VII.- Observar respeto y subordinación legítimas con respecto a sus superiores jerárquicos inmediatos o mediatos, cumpliendo las disposiciones que éstos dicten en el ejercicio de sus atribuciones;
-
-> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1992)</small>
-
-VIII.- Comunicar por escrito al titular de la dependencia o entidad en la que presten sus servicios, las dudas fundadas que le suscite la procedencia de las órdenes que reciba;
-
-IX.- Abstenerse de ejercer las funciones de un empleo, cargo o comisión después de concluido el período para el cual se le designó o de haber cesado, por cualquier otra causa, en el ejercicio de sus funciones;
-
-> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 2016)</small>
-
-X.- Abstenerse de disponer o autorizar a un subordinado a no asistir sin causa justificada a sus labores por más de quince días continuos o treinta discontinuos en un año, así como de otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones o en su caso no otorgar licencias de maternidad o paternidad de conformidad con las disposiciones aplicables;
-
-XI.- Abstenerse de desempeñar algún otro empleo, cargo o comisión oficial o particular que la Ley le prohiba.
-
-XII.- Abstenerse de autorizar la selección, contratación, nombramiento o designación de quien se encuentre inhabilitado por resolución firme de la autoridad competente para ocupar un empleo, cargo o comisión en el servicio público.
-
-XIII.- Excusarse de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquéllos de los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte.
-
-XIV.- Informar por escrito al jefe inmediato y en su caso, al superior jerárquico, sobre la atención, trámite o resolución de los asuntos a que hace referencia la fracción anterior y que sean de su conocimiento; y observar sus instrucciones por escrito sobre su atención, tramitación y resolución, cuando el servidor público no pueda abstenerse de intervenir en ellos;
-
-XV.- Abstenerse, durante el ejercicio de sus funciones de solicitar, aceptar o recibir, por sí o por interpósita persona, dinero, objetos mediante enajenación a su favor en precio notoriamente inferior al que el bien de que se trate y que tenga en el mercado ordinario, o cualquier donación, empleo, cargo o comisión para sí, o para las personas a que se refiere la fracción XIII, y que procedan de cualquier persona física o moral cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público de que se trate en el desempeño de su empleo, cargo o comisión y que implique intereses en conflicto. Esta prevención es aplicable hasta un año después de que se haya retirado del empleo, cargo o comisión;
-
-XVI.- Desempeñar su empleo, cargo o comisión sin obtener o pretender obtener beneficios adicionales a las contraprestaciones comprobables que el Estado le otorga por el desempeño de su función, sean para él o para las personas a las que se refiere la fracción XIII;
-
-XVII.- Abstenerse de intervenir o participar indebidamente en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción de cualquier servidor público, cuando tenga interés personal, familiar o de negocios en el caso, o pueda derivar alguna ventaja o beneficio para él o para las personas a las que se refiere la fracción XIII;
-
-> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1992)</small>
-
-XVIII.- Presentar con oportunidad y veracidad, las declaraciones de situación patrimonial, en los términos establecidos por esta ley;
-
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-XIX.- Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba de la Secretaría de la Función Pública, conforme a la competencia de ésta;
-
-> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1992)</small>
-
-XX.- Supervisar que los servidores públicos sujetos a su dirección, cumplan con las disposiciones de este artículo; y denunciar por escrito, ante el superior jerárquico o la contraloría interna, los actos u omisiones que en ejercicio de sus funciones llegare a advertir respecto de cualquier servidor público que pueda ser causa de responsabilidad administrativa en los términos de esta ley, y de las normas que al efecto se expidan;
-
-> <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 1991)</small>
-
-XXI.- Proporcionar en forma oportuna y veraz, toda la información y datos solicitados por la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos, a efecto de que aquélla pueda cumplir con las facultades y atribuciones que le correspondan.
-
-> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 2013)</small>
-
-XXI bis.- Las recomendaciones que les presente la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos, y en el supuesto de que se decida no aceptar o no cumplir las recomendaciones, deberá hacer pública su negativa, fundándola y motivándola en términos de lo dispuesto por el Apartado B, del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos y por el artículo 46 de la Ley de la Comisión Nacional de los Derechos Humanos;
-
-XXII.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público; y
-
-> <small>(ADICIONADA, D.O.F. 21 DE JULIO DE 1992)</small>
-
-XXIII.- Abstenerse, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra pública, con quien desempeñe un empleo, cargo o comisión en el servicio público, o bien con las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Secretaría a propuesta razonada, conforme a las disposiciones legales aplicables, del titular de la dependencia o entidad de que se trate. Por ningún motivo podrá celebrarse pedido o contrato alguno con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
-
-XXIV.- La (sic) demás que le impongan las leyes y reglamentos.
-
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-Cuando el planteamiento que formule el servidor público a su superior jerárquico deba ser comunicado a la Secretaría de la Función Pública, el superior procederá a hacerlo sin demora, bajo su estricta responsabilidad, poniendo el trámite en conocimiento del subalterno interesado. Si el superior jerárquico omite la comunicación a la Secretaría de la Función Pública, el subalterno podrá practicarla directamente informando a su superior acerca de este acto.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 48.
 
-Para los efectos de esta Ley se entenderá por Secretaría a la Secretaría de la Función Pública.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
-(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
-
-Para los mismos efectos, se entenderá por superior jerárquico al titular de la dependencia y, en el caso de las entidades, al coordinador del sector correspondiente, el cual aplicará las sanciones cuya imposición se le atribuya a través de la contraloría interna de su dependencia.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)</small>
 
 ### CAPITULO II. Sanciones administrativas y procedimientos para aplicarlas
 
 ###### ARTICULO 49.
 
-En las dependencias y entidades de la Administración Pública se establecerán unidades específicas, a las que el público tenga fácil acceso, para que cualquier interesado pueda presentar quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos, con las que se iniciará, en su caso, el procedimiento disciplinario correspondiente.
-
-La Secretaría establecerá las normas y procedimientos para que las instancias del público sean atendidas y resueltas con eficiencia.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 50.
 
-La Secretaría, el superior jerárquico y todos los servidores públicos tienen la obligación de respetar y hacer respetar el derecho a la formulación de las quejas y denuncias a las que se refiere el artículo anterior y de evitar que con motivo de éstas se causen molestias indebidas al quejoso.
-
-Incurre en responsabilidad el servidor público que por sí o por interpósita persona, utilizando cualquier medio, inhiba al quejoso para evitar la formulación o presentación de quejas y denuncias, o que con motivo de ello realice cualquier conducta injusta u omita una justa y debida que lesione los intereses de quienes las formulen o presenten.
-
-(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 51.
 
-Las Cámaras de Senadores y Diputados del Congreso de la Unión, así como la Asamblea Legislativa del Distrito Federal establecerán los órganos y sistemas para identificar, investigar y determinar las responsabilidades derivadas del incumplimiento de las obligaciones establecidas en el artículo 47, así como para aplicar las sanciones establecidas en el presente capítulo, conforme a la legislación respectiva y por lo que hace a su competencia.
-
-Asimismo, y por lo que hace a su competencia, las autoridades jurisdiccionales a que se refieren las fracciones VII a X del artículo 3o., determinarán los órganos y sistemas para los efectos a que se refiere el párrafo anterior, en los términos de sus legislaciones respectivas.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 52.
 
-Los servidores públicos de la Secretaría que incurran en responsabilidad por incumplimiento de las obligaciones establecidas en el artículo 47 serán sancionados conforme al presente Capítulo por la contraloría interna de dicha Secretaría. El titular de esta contraloría será designado por el Presidente de la República y sólo será responsable administrativamente ante él.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 53.
 
-Las sanciones por falta administrativa consistirán en:
-
-I.- Apercibimiento privado o público;
-
-> <small>(F. DE E., D.O.F. 10 DE MARZO DE 1983)</small>
-
-II.- Amonestación privada o pública
-
-III.- Suspensión;
-
-IV.- Destitución del puesto;
-
-V.- Sanción económica; e
-
-VI.- Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
-
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1992)</small>
-
-Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños y perjuicios, será de un año hasta diez años si el monto de aquéllos no excede de doscientas veces el salario mínimo mensual vigente en el Distrito Federal, y de diez a veinte años si excede de dicho límite. Este último plazo de inhabilitación también será aplicable por conductas graves de los servidores públicos.
-
-> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 1992)</small>
-
-Para que una persona que hubiere sido inhabilitada en los términos de ley por un plazo mayor de diez años, pueda volver a desempeñar un empleo, cargo o comisión en el servicio público una vez transcurrido el plazo de la inhabilitación impuesta, se requerirá que el titular de la dependencia o entidad a la que pretenda ingresar, dé aviso a la Secretaría, en forma razonada y justificada, de tal circunstancia.
-
-> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 1992)</small>
-
-La contravención a lo dispuesto por el párrafo que antecede será causa de responsabilidad administrativa en los términos de esta ley, quedando sin efectos el nombramiento o contrato que en su caso se haya realizado.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 54.
 
-Las sanciones administrativas se impondrán tomando en cuenta los siguientes elementos:
-
-I.- La gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las disposiciones de esta Ley o las que se dicten con base en ella;
-
-II.- Las circunstancias socioeconómicas del servidor público;
-
-III.- El nivel jerárquico, los antecedentes y las condiciones del infractor;
-
-IV.- Las condiciones exteriores y los medios de ejecución;
-
-V.- La antigüedad del servicio;
-
-VI.- La reincidencia en el incumplimiento de obligaciones; y
-
-VII.- El monto del beneficio, daño o perjuicio económicos derivado del incumplimiento de obligaciones.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 55.
 
-En caso de aplicación de sanciones económicas por beneficios obtenidos y daños y perjuicios causados por incumplimiento de las obligaciones establecidas en el Artículo 47, se aplicarán dos tantos del lucro obtenido y de los daños y perjuicios causados.
-
-Las sanciones económicas establecidas en este artículo se pagarán una vez determinadas en cantidad líquida, en su equivalencia en salarios mínimos vigentes al día de su pago, conforme al siguiente procedimiento:
-
-I.- La sanción económica impuesta se dividirá entre la cantidad líquida que corresponda y el salario mínimo mensual vigente en el Distrito Federal al día de su imposición, y
-
-II.- El cociente se multiplicará por el salario mínimo mensual vigente en el Distrito Federal al día del pago de la sanción.
-
-Para los efectos de esta Ley se entenderá por salario mínimo mensual, el equivalente a treinta veces el salario mínimo diario vigente en el Distrito Federal.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 56.
 
-Para la aplicación de las sanciones a que hace referencia el artículo 53 se observarán las siguientes reglas:
-
-I.- El apercibimiento, la amonestación y la suspensión del empleo, cargo o comisión por un período no menor de tres días ni mayor de tres meses, serán aplicables por el superior jerárquico;
-
-II.- La destitución del empleo, cargo o comisión de los servidores públicos, se demandará por el superior jerárquico de acuerdo con los procedimientos consecuentes con la naturaleza de la relación y en los términos de las leyes respectivas;
-
-III.- La suspensión del empleo, cargo o comisión durante el período al que se refiere la fracción I, y la destitución de los servidores públicos de confianza, se aplicarán por el superior jerárquico;
-
-IV.- La Secretaría promoverá los procedimientos a que hacen referencia las fracciones II y III, demandando la destitución del servidor público responsable o procediendo a la suspensión de éste cuando el superior jerárquico no lo haga. En este caso, la Secretaría desahogará el procedimiento y exhibirá las constancias respectivas al superior jerárquico;
-
-> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1992)</small>
-
-V.- La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público, será aplicable por resolución que dicte la autoridad competente, y
-
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
-
-VI.- Las sanciones económicas serán aplicadas por la contraloría interna de la dependencia o entidad.
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 57.
 
-Todo servidor público deberá denunciar por escrito a la contraloría interna de su dependencia o entidad los hechos que, a su juicio, sean causa de responsabilidad administrativa imputables a servidores públicos sujetos a su dirección.
-
-La contraloría interna de la dependencia o entidad determinará si existe o no responsabilidad administrativa por el incumplimiento de las obligaciones de los servidores públicos, y aplicará las sanciones disciplinarias correspondientes.
-
-El superior jerárquico de la dependencia o entidad respectiva enviará a la Secretaría copia de las denuncias cuando se trate de infracciones graves o cuando, en su concepto, y habida cuenta de la naturaleza de los hechos denunciados, la Secretaría deba, directamente, conocer el caso o participar en las investigaciones.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 58.
 
-La Secretaría aplicará las sanciones correspondientes a los contralores internos de las dependencias cuando éstos incurran en actos u omisiones que impliquen responsabilidad administrativa.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 59.
 
-Incurrirán en responsabilidad administrativa los servidores públicos de las contralorías internas que se abstengan injustificadamente de sancionar a los infractores o que, al hacerlo, no se ajusten a lo previsto por esta Ley. La Secretaría informará de ello al Titular de la dependencia y aplicará las sanciones correspondientes.
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 60.
 
-La contraloría interna de cada dependencia o entidad será competente para imponer sanciones disciplinarias.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 61.
 
-Si la contraloría interna de la dependencia o el coordinador de sector en las entidades tuvieran conocimiento de hechos que impliquen responsabilidad penal, darán vista de ellos a la Secretaría y a la autoridad competente para conocer del ilícito.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 62.
 
-Si de las investigaciones y auditorías que realice la Secretaría apareciera la responsabilidad de los servidores públicos, informará a la contraloría interna de la dependencia correspondiente o al coordinador sectorial de las entidades, para que proceda a la investigación y sanción disciplinaria por dicha responsabilidad, si fuera de su competencia. Si se trata de responsabilidad mayores (sic) cuyo conocimiento sólo compete a la Secretaría, ésta se avocará directamente al asunto, informando de ello al Titular de la dependencia y a la contraloría interna de la misma para que participe o coadyuve en el procedimiento de determinación de responsabilidades.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 63.
 
-La dependencia y la Secretaría, en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estimen pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de cien veces el salario mínimo diario vigente en el Distrito Federal.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 64.
 
-La Secretaría impondrá las sanciones administrativas a que se refiere este Capítulo mediante el siguiente procedimiento:
-
-I.- Citará al presunto responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día y hora en que tendrá verificativo dicha audiencia y su derecho a ofrecer pruebas y alegar en la misma lo que a su derecho convenga, por sí o por medio de un defensor.
-
-También asistirá a la audiencia el representante de la dependencia que para tal efecto se designe.
-
-Entre la fecha de la citación y la de la audiencia deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles;
-
-> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1992)</small>
-
-II.- Desahogadas las pruebas, si las hubiere, la Secretaría resolverá dentro de los treinta días hábiles siguientes, sobre la inexistencia de responsabilidad o imponiendo al infractor las sanciones administrativas correspondientes y notificará la resolución al interesado dentro de las setenta y dos horas, a su jefe inmediato, al representante designado por la dependencia y al superior jerárquico;
-
-III.- Si en la audiencia la Secretaría encontrara que no cuenta con elementos suficientes para resolver o advierta elementos que impliquen nueva responsabilidad administrativa a cargo del presunto responsable o de otras personas, podrá disponer la práctica de investigaciones y citar para otra u otras audiencias; y
-
-IV.- En cualquier momento, previa o posteriormente al citatorio al que se refiere la fracción I del presente artículo, la Secretaría podrá determinar la suspensión temporal de los presuntos responsables de sus cargos, empleos o comisiones, si a su juicio así conviene para la conducción o continuación de las investigaciones. La suspensión temporal no prejuzga sobre la responsabilidad que se impute. La determinación de la Secretaría hará constar expresamente esta salvedad.
-
-La suspensión temporal a que se refiere el párrafo anterior suspenderá los efectos del acto que haya dado origen a la ocupación del empleo, cargo o comisión, y regirá desde el momento en que sea notificada al interesado o éste quede enterado de la resolución por cualquier medio. La suspensión cesará cuando así lo resuelva la Secretaría, independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere el presente artículo en relación con la presunta responsabilidad de los servidores públicos.
-
-Si los servidores suspendidos temporalmente no resultaren responsables de la falta que se les imputa, serán restituidos en el goce de sus derechos y se les cubrirán las percepciones que debieran percibir durante el tiempo en que se hallaron suspendidos.
-
-Se requerirá autorización del Presidente de la República para dicha suspensión si el nombramiento del servidor público de que se trate incumbe al titular del Poder Ejecutivo. Igualmente se requerirá autorización de la Cámara de Senadores, o en su caso de la Comisión Permanente, si dicho nombramiento requirió ratificación de éste en los términos de la Constitución General de la República.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 65.
 
-En los procedimientos que se sigan para investigación y aplicación de sanciones ante las contralorías internas de las dependencias, se observarán, en todo cuanto sea aplicable a las reglas contenidas en el artículo anterior.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 66.
 
-Se levantará acta circunstanciada de todas las diligencias que se practiquen, que suscribirán quienes intervengan en ellas, apercibidos de las sanciones en que incurran quienes falten a la verdad.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 67.
 
-El Titular de la dependencia o entidad podrá designar un representante que participe en las diligencias. Se dará vista de todas las actuaciones a la dependencia o entidad en la que el presunto responsable presta sus servicios.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 68.
 
-Las resoluciones y acuerdos de la Secretaría y de las dependencias durante el procedimiento al que se refiere este Capítulo constarán por escrito, y se asentarán en el registro respectivo, que comprenderá las secciones correspondientes a los procedimientos disciplinarios y a las sanciones impuestas, entre ellas, en todo caso, las de inhabilitación.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 69.
 
-La Secretaría expedirá constancias que acrediten la no existencia de registro de inhabilitación, que serán exhibidas, para los efectos pertinentes, por las personas que sean requeridas para desempeñar un empleo, cargo o comisión en el servicio público.
-
-> <small>(REFORMADO POR LA FRACCIÓN III DEL ARTÍCULO DÉCIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGÁNICA DEL TRIBUNAL FISCAL DE LA FEDERACIÓN, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 70.
 
-Los servidores públicos sancionados podrán impugnar ante el Tribunal Federal de Justicia Fiscal y Administrativa las resoluciones administrativas por las que se les impongan las sanciones a que se refiere este Capítulo. Las resoluciones anulatorias firmes dictadas por ese Tribunal, tendrán el efecto de que la dependencia o entidad en la que el servidor público preste o haya prestado sus servicios, lo restituya en el goce de los derechos de que hubiese sido privado por la ejecución de las sanciones anuladas, sin perjuicio de lo que establecen otras leyes.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JULIO DE 1992)</small>
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 71.
 
-Las resoluciones por las que se impongan sanciones administrativas, podrán ser impugnadas por el servidor público ante la propia autoridad, mediante el recurso de revocación que se interpondrá dentro de los quince días siguientes a la fecha en que surta efectos la notificación de la resolución recurrida.
-
-La tramitación del recurso se sujetará a las normas siguientes:
-
-I.- Se iniciará mediante escrito en el que deberán expresarse los agravios que a juicio del servidor público le cause la resolución, acompañando copia de ésta y constancia de la notificación de la misma, así como la proposición de las pruebas que considere necesario rendir;
-
-II.- La autoridad acordará sobre la admisibilidad del recurso y de las pruebas ofrecidas, desechando de plano las que no fuesen idóneas para desvirtuar los hechos en que se base la resolución.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 21 DE JULIO DE 1992)</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1992)</small>
-
-III.- Desahogadas las pruebas, si las hubiere, la autoridad emitirá resolución dentro de los treinta días hábiles siguientes, notificándolo al interesado en un plazo no mayor de setenta y dos horas.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 72.
 
-La interposición del recurso suspenderá la ejecución de la resolución recurrida, si lo solicita el promovente, conforme a estas reglas:
-
-> <small>(F. DE E., D.O.F. 10 DE MARZO DE 1983)</small>
-
-I.- Tratándose de sanciones económicas, si el pago de éstas se garantiza en los términos que prevenga el Código Fiscal de la Federación; y
-
-II.- Tratándose de otras sanciones, se concederá la suspensión si concurren los siguientes requisitos;
-
-a) Que se admita el recurso;
-
-b) Que la ejecución de la resolución recurrida produzca daños o perjuicios de imposible reparación en contra del recurrente; y
-
-c) Que la suspensión no traiga como consecuencia la consumación o continuación de actos u omisiones que impliquen perjuicios al interés social o al servicio público.
-
-> <small>(REFORMADO POR LA FRACCIÓN III DEL ARTÍCULO DÉCIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGÁNICA DEL TRIBUNAL FISCAL DE LA FEDERACIÓN, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 73.
 
-El servidor público afectado por las resoluciones administrativas que se dicten conforme a esta Ley, podrá optar entre interponer el recurso de revocación o impugnarlas directamente ante el Tribunal Federal de Justicia Fiscal y Administrativa.
-
-La resolución que se dicte en el recurso de revocación será también impugnable ante el Tribunal Federal de Justicia Fiscal y Administrativa.
-
-> <small>(REFORMADO POR LA FRACCIÓN III DEL ARTÍCULO DÉCIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGÁNICA DEL TRIBUNAL FISCAL DE LA FEDERACIÓN, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 74.
 
-Las resoluciones absolutorias que dicte el Tribunal Federal de Justicia Fiscal y Administrativa podrán ser impugnadas por la Secretaría o por el superior jerárquico.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 75.
 
-La ejecución de las sanciones administrativas impuestas en resolución firme se llevará a cabo de inmediato en los términos que disponga la resolución. La suspensión, destitución o inhabilitación que se impongan a los servidores públicos de confianza, surtirán efectos al notificarse la resolución y se considerarán de orden público.
-
-Tratándose de los servidores públicos de base, la suspensión y la destitución se sujetarán a lo previsto en la ley correspondiente.
-
-Las sanciones económicas que se impongan constituirán créditos fiscales a favor del Erario Federal, se harán efectivas mediante el procedimiento económico-coactivo de ejecución, tendrán la prelación pevista (sic) para dichos créditos y se sujetarán en todo a las disposiciones fiscales aplicables a esta materia.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 76.
 
-Si el servidor público presunto responsable confesare su responsabilidad por el incumplimiento de las obligaciones a que hace referencia la presente Ley, se procederá de inmediato a dictar resolución, a no ser que quien conoce del procedimiento disponga la recepción de pruebas para acreditar la veracidad de la confesión. En caso de que se acepte la plena validez probatoria de la confesión, se impondrá al interesado dos tercios de la sanción aplicable, si es de naturaleza económica, pero en lo que respecta a indemnización, ésta en todo caso deberá ser suficiente para cubrir los daños y perjuicios causados, y siempre deberá restituirse cualquier bien o producto que se hubiese percibido con motivo de la infracción. Quedará a juicio de quien resuelve disponer o no la suspensión, separación o inhabilitación.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JULIO DE 1992)</small>
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 77.
 
-Para el cumplimiento de las atribuciones que les confiere esta Ley, la Secretaría y el superior jerárquico podrán emplear los siguientes medios de apremio:
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
-> <small>(F. DE E., D.O.F. 10 DE MARZO DE 1983)</small>
-
-I.- Sanción económica de hasta veinte veces el salario mínimo diario vigente en el Distrito Federal;
-
-II.- Auxilio de la fuerza pública.
-
-Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que prevenga la legislación penal.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-ARTICULO 77 bis.- Cuando en el procedimiento administrativo disciplinario se haya determinado la responsabilidad del servidor público y que la falta administrativa haya causado daños y perjuicios a particulares, éstos podrán acudir a las dependencias, entidades o a la Secretaría de la Función Pública, para que ellas directamente reconozcan la responsabilidad de indemnizar la reparación del daño en cantidad líquida y, en consecuencia, ordenar el pago correspondiente, sin necesidad de que los particulares acudan a la instancia judicial o cualquier otra.
-
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
-
-El Estado podrá repetir de los servidores públicos el pago de la indemnización hecha a los particulares.
-
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
-
-Si el órgano del Estado niega la indemnización, o si el monto no satisface al reclamante, se tendrán expeditas, a su elección, la vía administrativa o judicial.
-
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
-
-Cuando se haya aceptado una recomendación de la Comisión de Derechos Humanos en la que se proponga la reparación de daños y perjuicios, la autoridad competente se limitará a su determinación en cantidad líquida y la orden de pago respectiva.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+ARTICULO 77 bis.- (DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 78.
 
-Las facultades del superior jerárquico y de la Secretaría para imponer las sanciones que esta ley prevé se sujetarán a lo siguiente:
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
-> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1992)</small>
-
-I.- Prescribirán en un año si el beneficio obtenido o el daño causado por el infractor no excede de diez veces el salario mínimo mensual vigente en el Distrito Federal, y
-
-II.- En los demás casos prescribirán en tres años.
-
-> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 1992)</small>
-
-El plazo de prescripción se contará a partir del día siguiente a aquél en que se hubiera incurrido en la responsabilidad o a partir del momento en que hubiese cesado, si fue de carácter continuo.
-
-> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 1992)</small>
-
-En todos los casos la prescripción a que alude este precepto se interrumpirá al iniciarse el procedimiento administrativo previsto por el artículo 64.
-
-> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 1994)</small>
-
-III.- El derecho de los particulares a solicitar la indemnización de daños y perjuicios, prescribirá en un año, a partir de la notificación de la resolución administrativa que haya declarado cometido (sic) la falta administrativa.
-
-> <small>(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS, ÚNICAMENTE POR LO QUE RESPECTA AL ÁMBITO FEDERAL, D.O.F. 13 DE MARZO DE 2002)</small>
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)</small>
 
 ## TITULO CUARTO
 
-### CAPITULO UNICO. Registro patrimonial de los servidores públicos
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)</small>
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1992)</small>
+### CAPITULO UNICO. Registro patrimonial de los servidores públicos
 
 ###### ARTICULO 79.
 
-La Secretaría llevará el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos de las dependencias y entidades de la Administración Pública Federal, así como de los órganos jurisdiccionales a que se refieren las fracciones VII a IX del artículo 3o., en los términos de esta Ley y demás disposiciones aplicables.
-
-(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
-
-Las atribuciones que este Título otorga a la Secretaría, a las Cámaras de Senadores y Diputados del Congreso de la Unión y a la Asamblea Legislativa del Distrito Federal.
-
-Para los efectos del párrafo que antecede, las citadas autoridades conforme a la legislación respectiva, determinarán los órganos encargados de ejercer dichas atribuciones, así como los sistemas que se requieran para tal propósito.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JULIO DE 1992)</small>
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 80.
 
-Tienen la obligación de presentar declaraciones de situación patrimonial, ante la autoridad competente, conforme a lo dispuesto por el artículo 79, bajo protesta de decir verdad, en los términos que esta Ley señala:
-
-I.- En el Congreso de la Unión: Diputados y Senadores, Oficiales Mayores, Tesoreros y Directores de las Cámaras, y Contador Mayor de Hacienda;
-
-(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
-
-I Bis.- En la Asamblea Legislativa del Distrito Federal: los Diputados, Oficial Mayor, Tesorero, Directores, Subdirectores y Jefes de Departamento de la misma;
-
-II.- En el Poder Ejecutivo Federal: Todos los funcionarios, desde el nivel de jefes de departamentos hasta el de Presidente de la República, además de los previstos en las fracciones IV, V y IX de este artículo;
-
-III.- En la Administración Pública Paraestatal: Directores Generales, gerentes generales, subdirectores generales, subgerentes generales, directores, gerentes, subdirectores y servidores públicos equivalentes de los órganos descentralizados, empresas de participación estatal mayoritaria y sociedades y asociaciones asimiladas y fideicomisos públicos;
-
-(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
-
-IV.- En el órgano ejecutivo local del gobierno del Distrito Federal: todos los funcionarios, desde el nivel a que se refiere la fracción II hasta el Jefe de Gobierno del Distrito Federal, incluyendo Delegados Políticos, Subdelegados y Jefes de Departamento de las Delegaciones;
-
-V.- En la Procuraduría General de la República y en la Procuraduría General de Justicia del Distrito Federal: Todos los funcionarios, desde el nivel mencionado en la fracción II hasta los de Procurador General de la República y Procurador General de Justicia del Distrito Federal, incluyendo a Agentes del Ministerio Público y policías judiciales;
-
-VI.- En el Poder Judicial Federal: Ministros de la Suprema Corte de Justicia de la Nación, Magistrados de Circuito, Jueces de Distrito, secretarios judiciales y actuarios de cualquier categoría o designación;
-
-(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
-
-VII.- En el Tribunal de lo Contencioso Administrativo del Distrito Federal, Magistrados y Secretarios o sus equivalentes;
-
-> <small>(REFORMADA POR LA FRACCIÓN III DEL ARTÍCULO DÉCIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGÁNICA DEL TRIBUNAL FISCAL DE LA FEDERACIÓN, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-VIII.- En el Tribunal Federal de Justicia Fiscal y Administrativa, en los tribunales de trabajo y en los demás órganos jurisdiccionales que determinen las leyes: Magistrados, miembros de junta y Secretarios o sus equivalentes; y
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-IX.- En la Secretaría de la Función Pública: Todos los servidores públicos de confianza.
-
-> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 1992)</small>
-
-El servidor público que en su declaración de situación patrimonial faltare a la verdad en relación con lo que es obligatorio manifestar en términos de esta Ley, será suspendido, y cuando por su importancia lo amerite, destituido e inhabilitado de tres meses a tres años.
-
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-Asimismo, deberán presentar las declaraciones a que se refiere este artículo, los demás servidores públicos de las dependencias y entidades de la Administración Pública Federal y de los órganos jurisdiccionales a que se refieren las fracciones VII a IX del artículo 3o., que determine el Secretario de la Función Pública, mediante disposiciones generales debidamente motivadas y fundadas.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 81.
 
-La declaración de situación patrimonial deberá presentarse en los siguientes plazos:
-
-I.- Dentro de los sesenta días naturales siguientes a la toma de posesión;
-
-II.- Dentro de los treinta días naturales siguientes a la conclusión del encargo; y
-
-III.- Durante el mes de mayo de cada año deberá presentarse la declaración de situación patrimonial, acompañada de una copia de la declaración anual presentada por personas físicas para los efectos de la Ley del Impuesto Sobre la Renta, salvo que en ese mismo año se hubiese presentado la declaración a que se refiere la fracción I.
-
-Si transcurrido el plazo a que hace referencia la fracción I, no se hubiese presentado la declaración correspondiente, sin causa justificada, quedará sin efectos el nombramiento respectivo previa declaración de la Secretaría. Lo mismo ocurrirá cuando se omita la declaración contemplada en la fracción III.
-
-> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 1992)</small>
-
-Para el caso de omisión, sin causa justificada, en la presentación de la declaración a que alude la fracción II, se inhabilitará al infractor por un año.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 82.
 
-La Secretaría expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar la declaración de situación patrimonial, así como los manuales e instructivos que indicarán lo que es obligatorio declarar.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 83.
 
-En la declaración inicial y final de situación patrimonial se manifestarán los bienes inmuebles, con la fecha y valor de adquisición.
-
-En las declaraciones anuales se manifestarán sólo las modificaciones al patrimonio, con fecha y valor de adquisición. En todo caso se indicará el medio por el que se hizo la adquisición.
-
-Tratándose de bienes muebles, la Secretaría decidirá, mediante acuerdo general, las características que deba tener la declaración.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 84.
 
-Cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor público, la Secretaría podrá ordenar, fundando y motivando su acuerdo, la práctica de visitas de inspección y auditorías. Cuando estos actos requieran orden de autoridad judicial, la Secretaría hará ante ésta la solicitud correspondiente.
-
-Previamente a la inspección o al inicio de la auditoría, se dará cuenta al servidor público de los hechos que motivan estas actuaciones y se le presentarán las actas en que aquéllos consten, para que exponga lo que en derecho le convenga.
-
-> <small>(F. DE E., D.O.F. 10 DE MARZO DE 1983)</small>
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 85.
 
-El servidor público a quien se practique visita de investigación o auditoría podrá interponer inconformidad ante la Secretaría contra los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los cinco días siguientes a la conclusión de aquéllas, en el que se expresará los motivos de inconformidad y ofrecerá las pruebas que considere necesario acompañar o rendir dentro de los treinta días siguientes a la presentación del recurso.
-
-Todas las actas que se levanten con motivo de la visita deberán ir firmadas por el servidor público y los testigos que para tal efecto designe. Si el servidor público o los testigos se negaren a firmar, el visitador lo hará constar, sin que estas circunstancias afecten el valor probatorio que, en su caso, posea el documento.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 86.
 
-Serán sancionados en los términos que disponga el Código Penal los servidores públicos que incurran en enriquecimiento ilícito.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 87.
 
-Para los efectos de esta Ley y del Código Penal, se computarán entre los bienes que adquieran los servidores públicos o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge y sus dependientes económicos directos, salvo que se acredite que éstos los obtuvieron por sí mismos y por motivos ajenos al servidor público.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 88.
 
-Durante el desempeño de su empleo, cargo o comisión, y un año después, los servidores públicos no podrán solicitar, aceptar o recibir por sí, o por interpósita persona, dinero o cualquier otra donación, servicio, empleo, cargo o comisión para sí, o para las personas a que se refiere la fracción XIII del artículo 47 y que procedan de cualquier persona cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público en el desempeño de su empleo, cargo o comisión, que determinen conflicto de intereses.
-
-Para los efectos del párrafo anterior, no se considerarán los que reciba el servidor público en una o más ocasiones, de una misma persona física o moral de las mencionadas en el párrafo precedente, durante un año, cuando el valor acumulado durante ese año no sea superior a diez veces el salario mínimo diario vigente en el Distrito Federal en el momento de su recepción.
-
-En ningún caso se podrán recibir de dichas personas títulos valor, bienes inmuebles o cesiones de derechos sobre juicios o controversias en las que se dirima la titularidad de los derechos de posesión o de propiedad sobre bienes de cualquier clase.
-
-Se castigará como cohecho las conductas de los servidores públicos que violen lo dispuesto en este artículo y serán sancionados en términos de la legislación penal.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 89.
 
-Cuando los servidores públicos reciban obsequios, donativos o beneficios en general de los que se mencionan en el artículo anterior y cuyo monto sea superior al que en él se establece o sean de los estrictamente prohibidos, deberán informar de ello a la autoridad que la Secretaría determine a fin de ponerlos a su disposición. La autoridad correspondiente llevará un registro de dichos bienes.
-
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 ###### ARTICULO 90.
 
-La Secretaría de la Función Pública hará al Ministerio Público, en su caso, declaratoria de que el funcionario sujeto a la investigación respectiva, en los términos de la presente Ley, no justificó la procedencia lícita del incremento sustancial de su patrimonio de los bienes adquiridos o de aquéllos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivos del mismo.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, D.O.F. 18 DE JULIO DE 2016)
 
 (ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
@@ -1151,3 +777,69 @@ D.O.F. 24 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, Y LA LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en los transitorios siguientes.
+
+Segundo. Dentro del año siguiente a la entrada en vigor del presente Decreto, el Congreso de la Unión y las Legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, deberán expedir las leyes y realizar las adecuaciones normativas correspondientes de conformidad con lo previsto en el presente Decreto.
+
+Tercero. La Ley General de Responsabilidades Administrativas entrará en vigor al año siguiente de la entrada en vigor del presente Decreto.
+
+En tanto entra en vigor la Ley a que se refiere el presente Transitorio, continuará aplicándose la legislación en materia de Responsabilidades Administrativas, en el ámbito federal y de las entidades federativas, que se encuentre vigente a la fecha de entrada en vigor del presente Decreto.
+
+El cumplimiento de las obligaciones previstas en la Ley General de Responsabilidades Administrativas, una vez que ésta entre en vigor, serán exigibles, en lo que resulte aplicable, hasta en tanto el Comité Coordinador del Sistema Nacional Anticorrupción, de conformidad con la ley de la materia, emita los lineamientos, criterios y demás resoluciones conducentes de su competencia.
+
+Los procedimientos administrativos iniciados por las autoridades federales y locales con anterioridad a la entrada en vigor de la Ley General de Responsabilidades Administrativas, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+A la fecha de entrada en vigor de la Ley General de Responsabilidades Administrativas, todas las menciones a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos previstas en las leyes federales y locales así como en cualquier disposición jurídica, se entenderán referidas a la Ley General de Responsabilidades Administrativas.
+
+Una vez en vigor la Ley General de Responsabilidades Administrativas y hasta en tanto el Comité Coordinador del Sistema Nacional Anticorrupción determina los formatos para la presentación de las declaraciones patrimonial y de intereses, los servidores públicos de todos los órdenes de gobierno presentarán sus declaraciones en los formatos que a la entrada en vigor de la referida Ley General, se utilicen en el ámbito federal.
+
+Con la entrada en vigor de la Ley General de Responsabilidades Administrativas quedarán abrogadas la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, la Ley Federal Anticorrupción en Contrataciones Públicas, y se derogarán los Títulos Primero, Tercero y Cuarto de la Ley Federal de Responsabilidades de los Servidores Públicos, así como todas aquellas disposiciones que se opongan a lo previsto en la Ley General de Responsabilidades Administrativas.
+
+Cuarto. La Ley General del Sistema Nacional Anticorrupción, entrará en vigor al día siguiente de la publicación del presente Decreto, sin perjuicio de lo previsto en el Tercero Transitorio anterior y en los párrafos siguientes.
+
+Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, la Cámara de Senadores, deberá designar a los integrantes de la Comisión de Selección.
+
+La Comisión de Selección nombrará a los integrantes del Comité de Participación Ciudadana, en los términos siguientes:
+
+a. Un integrante que durará en su encargo un año, a quién corresponderá la representación del Comité de Participación Ciudadana ante el Comité Coordinador.
+
+b. Un integrante que durará en su encargo dos años.
+
+c. Un integrante que durará en su encargo tres años.
+
+d. Un integrante que durará en su encargo cuatro años.
+
+e. Un integrante que durará en su encargo cinco años.
+
+Los integrantes del Comité de Participación Ciudadana a que se refieren los incisos anteriores se rotarán la representación ante el Comité Coordinador en el mismo orden.
+
+La sesión de instalación del Comité Coordinador del Sistema Nacional Anticorrupción, se llevará a cabo dentro del plazo de sesenta días naturales posteriores a que se haya integrado en su totalidad el Comité de Participación Ciudadana en los términos de los párrafos anteriores.
+
+La Secretaría Ejecutiva deberá iniciar sus operaciones, a más tardar a los sesenta días siguientes a la sesión de instalación del Comité Coordinador del Sistema Nacional Anticorrupción. Para tal efecto, el Ejecutivo Federal proveerá los recursos humanos, financieros y materiales correspondientes en términos de las disposiciones aplicables.
+
+Quinto. La Ley Orgánica del Tribunal Federal de Justicia Administrativa, entrará en vigor al día siguiente de la publicación del presente Decreto, sin perjuicio de lo previsto en el Tercero Transitorio anterior y en los párrafos siguientes.
+
+A partir de la entrada en vigor de la Ley a que se refiere el presente transitorio, se abroga la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa, publicada en el Diario Oficial de la Federación el seis de diciembre del año dos mil siete.
+
+El Reglamento Interior del Tribunal que se encuentre vigente a la entrada en vigor de la Ley, seguirá aplicándose en aquello que no se oponga a ésta, hasta que el Pleno General expida el nuevo Reglamento Interior de conformidad con lo previsto en este ordenamiento, lo cual deberá hacer en un plazo de noventa días a partir de la entrada en vigor de la Ley.
+
+Los servidores públicos que venían ejerciendo encargos administrativos que desaparecen o se transforman conforme a lo dispuesto por esta Ley, continuarán desempeñando los mismos cargos hasta que la Junta de Gobierno y Administración acuerde la creación de los nuevos órganos administrativos y decida sobre las designaciones mediante acuerdos específicos.
+
+Los Magistrados del Tribunal Federal de Justicia Fiscal y Administrativa que a la entrada en vigor de la presente Ley se encuentren en ejercicio de sus cargos, continuarán en ellos hasta concluir el periodo para el cual fueron designados, de acuerdo con la Ley que se abroga. Al término de dicho periodo entregarán la Magistratura, sin perjuicio de que el Tribunal pueda proponerlos, previa evaluación de su desempeño, de ser elegibles, para ser nombrados como Magistrados en términos de lo dispuesto por esta Ley.
+
+Los juicios iniciados con anterioridad a la entrada en vigor de la Ley Orgánica del Tribunal Federal de Justicia Administrativa y aquellos que se verifiquen antes de la entrada en vigor de la Ley General de Responsabilidades Administrativas, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
+
+En los casos de nombramientos de Magistrados que integren la Tercera Sección, y las Salas Especializadas en materia de Responsabilidades Administrativas, el Titular del Ejecutivo Federal deberá enviar sus propuestas al Senado, a más tardar en el periodo ordinario de Sesiones del Congreso de la Unión inmediato anterior a la entrada en vigor de la Ley General de Responsabilidades Administrativas.
+
+Los Magistrados a que se refiere el párrafo anterior, mantendrán su adscripción a la Sección Tercera y a las Salas Especializadas en materia de Responsabilidades Administrativas, al menos durante los primeros cinco años del ejercicio de su encargo. Lo anterior, sin perjuicio de que los Magistrados podrán permanecer en dichas adscripciones durante todo su encargo, de conformidad con lo previsto en la fracción VII del artículo 16 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa.
+
+A partir de la entrada en vigor de la Ley General de Responsabilidades Administrativas, el Tribunal contará con cinco Salas Especializadas en materia de Responsabilidades Administrativas, de conformidad con lo previsto en el artículo 37 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa y hasta en tanto, al menos, el Pleno ejercita la facultad a que se refiere a la fracción XI del artículo 16 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa que se expide por virtud del presente Decreto.
+
+Para efectos del artículo 52 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa, el Presidente del Tribunal Federal de Justicia Fiscal y Administrativa, no podrá ser nombrado Presidente del Tribunal Federal de Justicia Administrativa en el periodo inmediato al que concluye.
+
+Todas las referencias que en las leyes se haga al Tribunal Federal de Justicia Fiscal y Administrativa, se entenderán referidas al Tribunal Federal de Justicia Administrativa.
