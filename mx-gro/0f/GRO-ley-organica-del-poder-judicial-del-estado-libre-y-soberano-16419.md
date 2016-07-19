@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-judicial-del-estado-libre-y-soberano-164
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-05-24"
-last_updated: "2014-08-01"
+last_updated: "2016-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16419&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 129
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO NÚMERO 501, PUBLICADO EN EL P.O. DE 1 DE AGOSTO DE 2014, VÉASE ARTÍCULO PRIMERO TRANSITORIO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 24 de mayo de 2000.
 
@@ -279,17 +277,15 @@ GUERRERO, comprende las municipalidades de: Mártir de Cuilapan y Tixtla de Guer
 
 HIDALGO, comprende las municipalidades de: Atenango del Río, Buenavista de Cuellar, Cocula, Copalillo, Huitzuco de los Figueroa, Iguala de la Independencia, y Tepecoacuilco de Trujano; su cabecera en Iguala de la Independencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
-
-LA MONTAÑA, comprende las municipalidades de: Atlamajalcingo del Monte, Cochoapa El Grande, Iliantenco, Malinaltepec y Tlacoapa; su cabecera en Malinaltepec.
+LA MONTAÑA, comprende las municipalidades de: Atlamajalcingo del Monte, Iliatenco, Malinaltepec y Tlacoapa; su cabecera en Malinaltepec.
 
 MINA, comprende las municipalidades de: Coyuca de Catalán, Cutzamala de Pinzón, Tlalchapa, Pungarabato y Zirándaro; su cabecera en Coyuca de Catalán.
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2016)</small>
 
-MORELOS, comprende las municipalidades de: Acatepec, Alcozauca de Guerrero, Cochoapa el Grande, Copanatoyac, Metlatónoc, Olinalá, Tlalixtaquilla de Maldonado, Tlapa de Comonfort, Xalpatláhuac y Zapotitlán Tablas; su cabecera en Tlapa de Comonfort.
+MORELOS, comprende las municipalidades de: Acatepec, Alcozauca de Guerrero, Copanatoyac, Cochoapa El Grande, Metlatónoc, Olinalá, Tlalixtaquilla de Maldonado, Tlapa de Comonfort, Xalpatláhuac y Zapotitlán Tablas; su cabecera en Tlapa de Comonfort.
 
 MONTES DE OCA, comprende las municipalidades de: Coahuayutla de José María Izazaga y La Unión de Isidoro Montes de Oca; su cabecera en La Unión.
 
@@ -2880,3 +2876,15 @@ Los actuales Presidentes de las Salas colegiadas del Tribunal Superior de Justic
 ###### ARTÍCULO DÉCIMO.
 
 Con motivo de las reformas realizadas por virtud del presente decreto, a los actuales magistrados supernumerarios del Tribunal Superior de Justicia del Estado, se les denominará magistrados, que es la que les confiere la Constitución Política del Estado Libre y Soberano de Guerrero.
+
+P.O. 19 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 215, QUE REFORMAN LOS PÁRRAFOS 14 Y 16 DEL ARTÍCULO 8 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 129; Y ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 4 DE LA LEY NÚMERO 848 DE DEFENSA PÚBLICA DEL ESTADO DE GUERRERO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas, que se opongan a lo dispuesto en el presente Decreto.
+
+TERCERO.- Los juicios iniciados antes de la entrada en vigor del presente Decreto, deberán continuar su trámite, hasta su total conclusión, en el Distrito Judicial de La Montaña. Asimismo, el Consejo de la Judicatura del Poder Judicial deberá realizar los trámites administrativos necesarios para que los jueces adscritos en el Distrito Judicial de Morelos puedan atender de manera adecuada los asuntos que se inicien con motivo de la presente reubicación de adscripción de la municipalidad de Cochoapa El Grande, una vez entrada en vigor la presente reforma.
+
+Por su parte, la Defensoría Pública del Poder Judicial, deberá realizar las gestiones necesarias a efecto de dar cumplimento (sic) al presente Decreto y garantizar la cobertura de defensores que hablen una lengua materna y estén debidamente capacitados en perspectiva de género.
