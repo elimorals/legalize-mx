@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-848-de-defensoria-publica-del-estado-de-guerrero-844
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-06"
-last_updated: "2012-02-29"
+last_updated: "2016-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 848 DE DEFENSA PÚBLICA DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 6 de diciembre de 2011.
 
@@ -100,6 +100,10 @@ VII. Independencia, y
 VIII. Equilibrio procesal.
 
 El servicio de defensa pública deberá ser adecuado, técnico e integral, y sensible a la resolución de conflictos mediante mecanismos alternos. El Defensor Público deberá mantener informados a los usuarios del mismo sobre el desarrollo e impacto de los procedimientos, buscando la comprensión de las condiciones y la confianza del usuario.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2016)</small>
+
+En los distritos judiciales donde exista más del 40 por ciento de la población indígena se deberá garantizar la defensa pública en lenguas indígenas con perspectiva de género.
 
 ###### Artículo 5.
 
@@ -866,3 +870,15 @@ El Ejecutivo del Estado, atendiendo lo dispuesto en los artículos 21 y 60 de la
 ###### ARTÍCULO SEGUNDO.
 
 Remítase al Titular del Poder Ejecutivo para su promulgación y Publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 215, QUE REFORMAN LOS PÁRRAFOS 14 y 16 DEL ARTÍCULO 8 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 129; Y ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 4 DE LA LEY NÚMERO 848 DE DEFENSA PÚBLICA DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas, que se opongan a lo dispuesto en el presente Decreto.
+
+TERCERO.- Los juicios iniciados antes de la entrada en vigor del presente Decreto, deberán continuar su trámite, hasta su total conclusión, en el Distrito Judicial de La Montaña. Asimismo, el Consejo de la Judicatura del Poder Judicial deberá realizar los trámites administrativos necesarios para que los jueces adscritos en el Distrito Judicial de Morelos puedan atender de manera adecuada los asuntos que se inicien con motivo de la presente reubicación de adscripción de la municipalidad de Cochoapa El Grande, una vez entrada en vigor la presente reforma.
+
+Por su parte, la Defensoría Pública del Poder Judicial, deberá realizar las gestiones necesarias a efecto de dar cumplimento al presente Decreto y garantizar la cobertura de defensores que hablen una lengua materna y estén debidamente capacitados en perspectiva de género.
