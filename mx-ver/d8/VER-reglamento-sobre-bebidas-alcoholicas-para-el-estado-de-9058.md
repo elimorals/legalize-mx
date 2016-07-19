@@ -4,7 +4,7 @@ identifier: "VER-reglamento-sobre-bebidas-alcoholicas-para-el-estado-de-9058"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-02-13"
-last_updated: "2015-06-15"
+last_updated: "2016-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9058&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 REGLAMENTO SOBRE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE JUNIO DE 2015.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO SOBRE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 19 DE JULIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE JULIO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el jueves 13 de febrero de 1992.
 
@@ -432,3 +434,15 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Tercero. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+G.O. 19 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO SOBRE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. Publíquese en la Gaceta Oficial, órgano de Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+Tercero. Se abroga el Reglamento sobre bebidas alcohólicas para el Estado de Veracruz de Ignacio de la Llave, expedido el 20 de junio de 1991.
+
+Cuarto. Se abroga cualquier disposición que se contraponga al presente Decreto.
