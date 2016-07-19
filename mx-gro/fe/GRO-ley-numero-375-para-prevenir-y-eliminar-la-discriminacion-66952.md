@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-375-para-prevenir-y-eliminar-la-discriminacion-66952
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-20"
-last_updated: "2009-02-20"
+last_updated: "2016-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY NUMERO 375 PARA PREVENIR Y ELIMINAR LA DISCRIMINACION EN EL ESTADO DE GUERRERO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL LA LEY NÚMERO 214 PARA PREVENIR, COMBATIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 19 DE JULIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY NUMERO 375 PARA PREVENIR Y ELIMINAR LA DISCRIMINACION EN EL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 20 de febrero de 2009.
 
@@ -490,3 +492,25 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. GUILLERMO RAMÍREZ RAMOS.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL LA “LEY NÚMERO 214 PARA PREVENIR, COMBATIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE GUERRERO”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Se abroga la Ley Número 375 para Prevenir y Eliminar la Discriminación en el Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado número 15 de fecha 20 de febrero de 2009.
+
+TERCERO. El Consejo Estatal, iniciará funciones una vez que el Congreso del Estado le asigne su presupuesto anual.
+
+CUARTO. En un término de 30 días contados a partir de la entrada en vigor de la presente Ley, se deberá nombrar al Director General del Consejo Estatal.
+
+QUINTO. La designación de la Junta de Gobierno deberá realizarse dentro de los 90 días siguientes a la publicación de la Ley, la cual deberá emitir los lineamientos que regulen la aplicación de las medidas previstas en los artículos 82 y 83 de la presente Ley.
+
+SEXTO. El Director General del Consejo Estatal someterá a la aprobación de la Junta de Gobierno el proyecto del Reglamento Interior dentro de los 120 días siguientes a su nombramiento.
+
+SÉPTIMO. El Programa Estatal, deberá de presentarse dentro de los 120 días naturales siguientes a la instalación del Consejo Estatal.
+
+OCTAVO. Una vez designado el Director General del Consejo Estatal, la Secretaría de Finanzas y Administración proveerá, con sujeción a las previsiones que para tal efecto estén contenidas en el Presupuesto de Egresos del Estado, los recursos necesarios para dar inicio a las actividades del Consejo y la Secretaría de Contraloría y Transparencia Gubernamental, llevará a cabo las acciones necesarias en su ámbito de competencia.
