@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-876-de-entrega-recepcion-de-las-administraciones-661
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-12"
-last_updated: "2013-01-04"
+last_updated: "2016-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66125&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY NUMERO 876 DE ENTREGA - RECEPCION DE LAS ADMINISTRACIONES PUBLICAS DEL ESTADO Y MUNICIPIOS DE GUERRERO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY NÚMERO 213 DE ENTREGA RECEPCIÓN DE LAS ADMINISTRACIONES PÚBLICAS DEL ESTADO Y MUNICIPIOS DE GUERRERO, PUBLICADA EN EL P.O. DE 19 DE JULIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY NÚMERO 876 DE ENTREGA - RECEPCIÓN DE LAS ADMINISTRACIONES PÚBLICAS DEL ESTADO Y MUNICIPIOS DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2016 (ABROGADA).
 
 Ley publicada en el Alcance 2 al No. 100 del Periódico Oficial del Estado de Guerrero, el viernes 12 de diciembre de 2008.
 
@@ -502,3 +504,13 @@ P.O. 4 DE ENERO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo Estatal, para los efectos legales conducentes.
+
+P.O. 19 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 213 DE ENTREGA RECEPCIÓN DE LAS ADMINISTRACIONES PÚBLICAS DEL ESTADO Y MUNICIPIOS DE GUERRERO".]
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Las normas jurídicas que regulan la Entrega Recepción de la Administración Pública Estatal y Municipal en el Estado se sujetarán a lo establecido en la presente Ley.
+
+TERCERO. Se abroga la Ley número 876 de Entrega-Recepción de las Administraciones Públicas del Estado y Municipios de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado número 100 Alcance II, con fecha 12 de diciembre de 2008.
