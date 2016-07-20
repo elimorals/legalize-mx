@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2016-07-06"
+last_updated: "2016-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2016.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -526,9 +526,11 @@ El poder Público del Estado se divide, para su ejercicio, en Legislativo, Ejecu
 
 No podrán reunirse dos o más poderes en una sola persona o corporación, ni encomendarse el Legislativo a un Congreso formado por un número de diputados menor al previsto en el artículo 116 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2016)</small>
+
 ###### Artículo 22.
 
-Los Poderes Públicos residirán en la Ciudad de Cuernavaca; pero por causas graves podrán translardarse (sic) temporalmente a otro lugar.
+Los poderes públicos residirán en la Ciudad de Cuernavaca y en segundo término en su Zona Metropolitana, pero por causas graves podrán trasladarse temporalmente a otro lugar.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2016)</small>
 
@@ -574,7 +576,9 @@ III. La normatividad señalará las reglas a que se sujetará el financiamiento 
 
 El financiamiento público para los Partidos Políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las de carácter específico y las tendientes a la obtención del voto durante los Procesos Electorales. Se otorgará conforme a lo siguiente y a lo que disponga la Ley normativa de la materia:
 
-a) El financiamiento público del Estado para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral por el sesenta y cinco por ciento del salario mínimo diario vigente en el Distrito Federal.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2016)</small>
+
+a) El financiamiento público del Estado para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral por el sesenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización que se determine por el Instituto Nacional de Estadística y Geografía.
 
 El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los Partidos Políticos en forma igualitaria y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de Diputados inmediata anterior;
 
@@ -1123,6 +1127,10 @@ e).- A trabajo igual corresponderá salario igual sin tener en cuenta el sexo.
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
 f).- Sólo podrán hacerse retenciones, descuentos o embargos al salario, en los casos previstos en las Leyes.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2016)</small>
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -2153,6 +2161,14 @@ En todo caso, dicho señalamiento deberá respetar las bases previstas en la Con
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
 
 Los poderes Legislativo, Ejecutivo y Judicial, los Ayuntamientos, las entidades públicas, así como los organismos públicos autónomos establecidos por esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado, deberán incluir dentro de su proyecto de presupuesto, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2016)</small>
+
+Para determinar la cuantía del pago de obligaciones y supuestos previstos en las leyes estatales y las disposiciones jurídicas que de ellas emanan conforme a esta Constitución, se tomará como unidad de cuenta el valor diario de la Unidad de Medida y Actualización que se determine por el Instituto Nacional de Estadística y Geografía.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2016)</small>
+
+Las obligaciones y supuestos denominados en la citada Unidad de Medida y Actualización, se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional, en la inteligencia de que deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de esta última a la fecha correspondiente.
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
@@ -5025,3 +5041,27 @@ PRIMERA.- Aprobado el presente Decreto por el Poder Reformador local y hecha la 
 SEGUNDA.- Las reformas contenidas en el presente Decreto formarán parte de la Constitución Política del Estado Libre y Soberano de Morelos desde el momento en que se haga la Declaratoria a que se refiere la disposición precedente, en términos de lo dispuesto por el artículo 147, fracción II, de la propia Constitución.
 
 TERCERA.- Una vez hecha la declaratoria correspondiente, el Congreso del Estado de Morelos, cuenta con ciento ochenta días hábiles para realizar las modificaciones correspondientes a la Ley de Educación del Estado de Morelos y, en estricto apego a la distribución de competencias en la materia, establecidas en (sic) Ley General de Educación, garantizar la educación inclusiva en nuestro Estado.
+
+P.O. 20 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS CUARENTA Y CINCO POR EL QUE SE REFORMAN Y ADICIONAN, DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, RESPECTO DE LA DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERA.- Aprobado el presente Decreto por el Poder Reformador local y hecha la declaratoria correspondiente se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- Las reformas contenidas en el presente Decreto formarán parte de la Constitución Política del Estado Libre y Soberano de Morelos desde el momento en que se haga la Declaratoria a que se refiere la disposición precedente, en términos de lo dispuesto por el artículo 147, fracción II, de la propia Constitución.
+
+TERCERA.- Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes estatales así como las disposiciones jurídicas que de ellas emanan, se entenderán referidas a la Unidad de Medida y Actualización que se determine por el Instituto Nacional de Estadística y Geografía.
+
+CUARTA.- Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan el presente Decreto; sin perjuicio de lo anterior, se deberá realizar la armonización del marco jurídico estatal para eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y hacer su sustitución correspondiente.
+
+QUINTA.- La vigencia de la presente reforma no afectará a los actos jurídicos y administrativos que hayan tomado al salario mínimo como índice, unidad, base, medida o referencia, por lo que éstos se mantendrán en sus términos, salvo en los casos en que la normativa aplicable permita que, por la voluntad de las partes, puedan modificarse por la Unidad de Medida y Actualización a que se refiere este instrumento. En lo no previsto, se estará a las disposiciones jurídicas respectivas y lo resuelto por la autoridad competente.
+
+P.O. 20 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS CUARENTA Y SEIS POR EL QUE SE REFORMA EL ARTÍCULO 22 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA.- Aprobado el presente Decreto por el Poder Reformador Local y hecha la declaratoria correspondiente, remítase al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano Oficial de difusión del Gobierno del estado de Morelos; lo anterior, conforme a (sic) dispuesto por los artículos 44 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos, y el artículo 145 del Reglamento para el Congreso del Estado de Morelos.
+
+SEGUNDA.- Las reformas, adiciones y derogaciones contenidas en el presente Decreto forman parte de esta Constitución desde el momento mismo en que se realizó la declaratoria a que se refiere el artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto, así como quedan sin efectos los actos derivados.
