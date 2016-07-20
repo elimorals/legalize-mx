@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-que-regula-los-establecimientos-donde-se-vende-y-458
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-15"
-last_updated: "2005-08-15"
+last_updated: "2016-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO QUE REGULA LOS ESTABLECIMIENTOS DONDE SE VENDE Y/O CONSUME CERVEZA Y/O BEBIDAS ALCOHOLICAS, EN EL MUNICIPIO DE HIGUERAS, NUEVO LEON
 
-REGLAMENTO QUE REGULA LOS ESTABLECIMIENTOS DONDE SE VENDE Y/O CONSUME CERVEZA Y/O BEBIDAS ALCOHOLICAS EN EL MUNICIPIO DE HIGUERAS, NUEVO LEON
+REGLAMENTO QUE REGULA LOS ESTABLECIMIENTOS DONDE SE VENDE Y/O CONSUME CERVEZA Y/O BEBIDAS ALCOHOLICAS EN EL MUNICIPIO DE HIGUERAS, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO QUE REGULA LOS ESTABLECIMIENTOS DE VENTA, EXPENDIO O CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE HIGUERAS, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 20 DE JULIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2016. (ABROGADA).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 15 de agosto de 2005.
 
@@ -473,7 +475,7 @@ V. Poseer, en el área de pasajeros de un vehículo, una botella, lata u otro en
 
 VI. Obsequiar o vender bebidas alcohólicas a los oficiales de tránsito, agentes de policía, militares y demás encargados de la seguridad pública cuando estén en servicio o porten uniforme, así como a los inspectores en servicio en este establecimiento;
 
-VII. Proporcionar datos falsos sobre su edad para obtener bebidas alcohólicas, en el caso de ser menor de edad; y (sic)
+VII. Proporcionar datos falsos sobre su edad para obtener bebidas alcohólicas, en el caso de ser menor de edad; y
 
 VIII. En la aplicación de este Reglamento se considerará que una persona se encuentra en evidente estado de ebriedad o bajo el efecto evidente de psicotrópicos, cuando derivado del consumo de alcohol etílico o sustancias presente alteraciones en la coordinación, la respuesta de reflejos, la alteración del equilibrio o del lenguaje.
 
@@ -1190,3 +1192,17 @@ SEXTA REGIDORA
 C. ING. JERONIMO RODRIGUEZ ALVIZO
 
 SINDICO PRIMERO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL REGLAMENTO QUE REGULA LOS ESTABLECIMIENTOS DE VENTA, EXPENDIO O CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE HIGUERAS, NUEVO LEÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento que Regula los Establecimientos donde se Vende Y/O Consume Cerveza Y/O Bebidas Alcohólicas en el Municipio de Higueras, Nuevo León, publicado en el Periódico Oficial del Estado de fecha 15 de Agosto de 2005.
