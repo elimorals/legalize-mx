@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2016-05-18"
+last_updated: "2016-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,135 +21,23 @@ state: "CHP"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE LA PÁGINA ELECTRONICA DEL DIARIO OFICIAL DE LA FEDERACIÓN EN : www.dof.gob.mx/2023/INE/CGord202302_27_ap_24.pdf.]</small>
+CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS
 
-ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE DETERMINA VIABLE LA INCORPORACIÓN DEL DATO EN LA CREDENCIAL PARA VOTAR QUE RECONOZCA A LAS PERSONAS NO BINARIAS, EN ACATAMIENTO A LAS SENTENCIAS DICTADAS EN LOS EXPEDIENTES SM-JDC-396/2020 Y SM-JDC-1011/2021 POR LA SALA REGIONAL MONTERREY DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN; ASÍ COMO, QUE SE IDENTIFIQUE EN LA CREDENCIAL PARA VOTAR COMO PERSONA NO BINARIA SOLO EN EL APARTADO DE SEXO, A QUIENES MANIFIESTEN SU DESEO DE QUE SE LES RECONOZCA CON ESE CARÁCTER SIN PRESENTAR DOCUMENTO DE IDENTIDAD
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2016.
 
-TEXTO ORIGINAL.
+Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
-Acuerdo publicado en el Número 14 del Diario Oficial de la Federación, el miércoles 19 de abril de 2023.
+TIBURCIO FERNANDEZ RUIZ, General de División del Ejército Nacional y Gobernador Constitucional del Estado Libre y Soberano de Chiapas, a sus habitantes hago saber:
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Instituto Nacional Electoral.- Consejo General.- INE/CG123/2023.
+Que la H. XXVIII Legislatura del mismo, ha tenido a bien decretar:
 
-ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE DETERMINA VIABLE LA INCORPORACIÓN DEL DATO EN LA CREDENCIAL PARA VOTAR QUE RECONOZCA A LAS PERSONAS NO BINARIAS, EN ACATAMIENTO A LAS SENTENCIAS DICTADAS EN LOS EXPEDIENTES SM-JDC-396/2020 Y SM-JDC-1011/2021 POR LA SALA REGIONAL MONTERREY DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN; ASÍ COMO, QUE SE IDENTIFIQUE EN LA CREDENCIAL PARA VOTAR COMO PERSONA NO BINARIA SOLO EN EL APARTADO DE SEXO, A QUIENES MANIFIESTEN SU DESEO DE QUE SE LES RECONOZCA CON ESE CARÁCTER SIN PRESENTAR DOCUMENTO DE IDENTIDAD
+La XXVIII Legislatura Constitucional del Estado Libre y Soberano de Chiapas, con su carácter de Asamblea Constituyente, en nombre del Pueblo decreta la siguiente:
 
-GLOSARIO
+> <small>N. DE E. LAS REFORMAS APROBADAS EN EL DECRETO NÚMERO 263, POR LA SEXAGÉSIMA CUARTA LEGISLATURA, MODIFICÓ DE MANERA SUSTANCIAL EL TEXTO DE LA CONSTITUCIÓN, DEBIDO A LO ANTERIOR SE PRESENTA EL TEXTO PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DEL 27 DE JUNIO DE 2011.</small>
 
-CADH Convención Americana sobre Derechos Humanos.
+CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS
 
-CIDH Comisión Interamericana de Derechos Humanos.
-
-CNV Comisión Nacional de Vigilancia.
-
-Corte IDH Corte Interamericana de Derechos Humanos.
-
-CPV Credencial(es) para Votar.
-
-CPEUM/ Constitución Constitución Política de los Estados Unidos Mexicanos.
-
-CRFE Comisión del Registro Federal de Electores.
-
-CURP Clave Única de Registro de Población.
-
-DERFE Dirección Ejecutiva del Registro Federal de Electores.
-
-DOF Diario Oficial de la Federación.
-
-JDC Juicio para la Protección de los Derechos Político-
-
-Electorales del Ciudadano.
-
-INE/Instituto Instituto Nacional Electoral.
-
-INEGI Instituto Nacional de Estadística y Geografía.
-
-JLE-AGS Junta Local Ejecutiva del Instituto Nacional Electoral
-
-en el Estado de Aguascalientes.
-
-LFPED Ley Federal para Prevenir y Eliminar la Discriminación.
-
-LGBTTTIQ+ Comunidad o grupo cuya orientación sexual, identidad
-
-de género, expresión de género y/o características
-
-sexuales corresponden a personas lesbianas, gais,
-
-bisexuales, trans (transgénero, travesti, transexual),
-
-queer y otras, como no binarias, intersexuales, etc.
-
-LGIPE Ley General de Instituciones y Procedimientos
-
-Electorales.
-
-LGP Ley General de Población.
-
-OPL Organismo Público Local.
-
-Principios de Principios sobre la aplicación de la legislación
-
-Yogyakarta internacional de derechos humanos en relación con la
-
-orientación sexual y la identidad de género.
-
-RENAPO Registro Nacional de Población e Identidad.
-
-SCJN Suprema Corte de Justicia de la Nación.
-
-TEEA Tribunal Electoral del Estado de Aguascalientes.
-
-TEPJF Tribunal Electoral del Poder Judicial de la Federación.
-
-ANTECEDENTES
-
-[…]
-
-CONSIDERANDOS
-
-[…]
-
-En razón de lo expuesto en las consideraciones de hecho y de derecho, este Consejo General en ejercicio de sus facultades emite los siguientes:
-
-ACUERDOS
-
-PRIMERO. Se determina viable la modificación de los datos que contiene la Credencial para Votar, para efecto de incorporar el identificador que corresponde a las personas no binarias, en acatamiento a las sentencias dictadas en los expedientes SM-JDC-396/2020 y SM-JDC-1011/2021 por la Sala Monterrey del Tribunal Electoral del Poder Judicial de la Federación; así como, que se identifique en la credencial como persona no binaria solo en el apartado de sexo, a quienes manifiesten su deseo de que se les reconozca con ese carácter sin presentar documento de identidad, de conformidad con el considerando tercero del presente acuerdo, en los siguientes términos:
-
-1. A las personas que soliciten su Credencial para Votar en la que se les reconozca como no binarias y presenten su documento de identidad, ya sea acta de nacimiento o carta de naturalización en el que se les identifique como tal, se le expedirá la credencial con el identificador “X”, tanto en el campo del sexo, como en los datos de información y control que se localizan en la misma.
-
-2. A las personas que soliciten su Credencial para Votar en la que se les reconozca como no binarias y no presenten su documento de identidad, ya sea acta de nacimiento o carta de naturalización en los que se les identifique como tal, se les expedirá la credencial con el identificador “X” únicamente en el campo de sexo, sin que se modifiquen los datos de información y control que se localizan en la credencial, tales como la clave de elector, la Clave Única del Registro de Población, la zona de lectura mecánica, entre otras; puesto que, para ello, deviene necesario contar con dicho documento de identidad que refleje esa identidad de género, a fin de que haya concordancia entre ambos registros.
-
-SEGUNDO. Se instruye a la Dirección Ejecutiva del Registro Federal de Electores, a realizar un estudio para analizar la viabilidad para que las personas trans que soliciten su Credencial para Votar en la que se les reconozca como mujer u hombre no presenten su documento de identidad, ya sea acta de nacimiento o carta de naturalización en los que se les identifique como tal, se les expedirá la credencial con el identificador “M” o “H” acorde con su identidad de género únicamente en el campo de sexo, sin que se modifiquen los datos de información y control que se localizan en la Credencial para Votar, tales como la clave de elector, la Clave Única del Registro de Población, la zona de lectura mecánica, entre otras; puesto que, para ello, deviene necesario contar con dicho documento de identidad que refleje esa identidad de género, a fin de que haya concordancia entre ambos registros. El estudio deberá ser presentado en la Comisión del Registro Federal de Electores para los efectos conducentes.
-
-TERCERO. Se instruye a la Dirección Ejecutiva del Registro Federal de Electores, a realizar los ajustes necesarios a los sistemas informáticos, a los procedimientos técnico-operativos, a la capacitación de la estructura operativa involucrada en la operación de los Módulos de Atención Ciudadana, así como evaluar la necesidad de aprobar ajustes al modelo de la Credencial para Votar en territorio nacional y desde el extranjero con la finalidad de que el Instituto Nacional Electoral esté en condiciones de expedir la misma con el dato que reconozca a las personas no binarias.
-
-CUARTO. Se instruye a la Dirección Ejecutiva del Registro Federal de Electores, a informar mensualmente a la Comisión Nacional de Vigilancia y a la Comisión del Registro Federal de Electores sobre los avances de los ajustes realizados a los sistemas informáticos, a los procedimientos técnico-operativos, así como a la capacitación de la estructura operativa involucrada en la operación de los Módulos de Atención Ciudadana.
-
-QUINTO. Se aprueba que, hasta en tanto se realicen los ajustes conducentes a los sistemas informáticos, a los procedimientos técnico-operativos, así como a la capacitación de la estructura operativa involucrada en la operación de los Módulos de Atención Ciudadana, los trámites que solicite la ciudadanía con el dato en la Credencial para Votar que las reconozca como personas no binarias, se atenderán de manera particular mediante un mecanismo de excepción no automatizado que impacte en el dato de sexo que se imprime en la credencial, pero que no considere cambios en la clave de elector y otros datos de información y control.
-
-SEXTO. Se instruye a la Dirección Ejecutiva del Registro Federal de Electores, por conducto de la Junta Local Ejecutiva del Instituto Nacional Electoral en el Estado de Aguascalientes, a notificar personalmente a las personas solicitantes en el domicilio que señalaron para dichos efectos; y, por conducto de la Dirección Jurídica de este Instituto, a informar a la Sala Regional Monterrey del Tribunal Electoral del Poder Judicial de la Federación el cumplimiento dado a los expedientes SM-JDC-396/2020 y SM-JDC-1011/2021.
-
-SÉPTIMO. El presente acuerdo entrará en vigor a partir de su aprobación por parte de este Consejo General.
-
-OCTAVO. Publíquese el presente acuerdo en la Gaceta Electoral, en el portal electrónico del Instituto Nacional Electoral y en el Diario Oficial de la Federación.
-
-El presente Acuerdo fue aprobado en lo general en sesión ordinaria del Consejo General celebrada el 27 de febrero de 2023, por votación unánime de las y los Consejeros Electorales, Norma Irene De La Cruz Magaña, Doctor Uuc-kib Espadas Ancona, Doctora Adriana Margarita Favela Herrera, Maestro José Martín Fernando Faz Mora, Carla Astrid Humphrey Jordán, Doctor Ciro Murayama Rendón, Maestra Dania Paola Ravel Cuevas, Maestro Jaime Rivera Velázquez, Doctor José Roberto Ruiz Saldaña, Maestra Beatriz Claudia Zavala Pérez y del Consejero Presidente, Doctor Lorenzo Córdova Vianello.
-
-Se aprobó en lo particular el numeral 2 del Punto de Acuerdo Primero, en los términos del Proyecto de Acuerdo originalmente circulado, por nueve votos a favor de las y los Consejeros Electorales, Norma Irene De La Cruz Magaña, Doctora Adriana Margarita Favela Herrera, Maestro José Martín Fernando Faz Mora, Carla Astrid Humphrey Jordán, Doctor Ciro Murayama Rendón, Maestra Dania Paola Ravel Cuevas, Maestro Jaime Rivera Velázquez, Maestra Beatriz Claudia Zavala Pérez y del Consejero Presidente, Doctor Lorenzo Córdova Vianello, y dos votos en contra de los Consejeros Electorales, Doctor Uuc-kib Espadas Ancona y Doctor José Roberto Ruiz Saldaña.
-
-Se aprobó en lo particular el Punto de Acuerdo Segundo, por ocho votos a favor de las y los Consejeros Electorales, Doctora Adriana Margarita Favela Herrera, Maestro José Martín Fernando Faz Mora, Carla Astrid Humphrey Jordán, Doctor Ciro Murayama Rendón, Maestra Dania Paola Ravel Cuevas, Maestro Jaime Rivera Velázquez, Maestra Beatriz Claudia Zavala Pérez y del Consejero Presidente, Doctor Lorenzo Córdova Vianello, y tres votos en contra de los Consejeros Electorales, Norma Irene De La Cruz Magaña, Doctor Uuc-kib Espadas Ancona y Doctor José Roberto Ruiz Saldaña.
-
-El Consejero Presidente del Consejo General, Dr. Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Lic. Edmundo Jacobo Molina.- Rúbrica.
-
-El Acuerdo y el anexo pueden ser consultados en las siguientes direcciones electrónicas:
-
-Página INE:
-
-https://www.ine.mx/sesion-ordinaria-del-consejo-general-27-de-febrero-de-2023/
-
-Página DOF
-
-www.dof.gob.mx/2023/INE/CGord202302_27_ap_24.pdf
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 ## TÍTULO PRIMERO. DEL ESTADO Y SU TERRITORIO
 
@@ -1157,7 +1045,9 @@ XXVII. Emitir la convocatoria para elecciones extraordinarias en los términos q
 
 XXVIII. Pedir la protección de los poderes de la Unión en caso de trastorno o sublevación interior, si no lo hubiere hecho antes el Ejecutivo del Estado.
 
-XXIX. Disponer mediante Decreto, el traslado de los Poderes a algún punto del Estado, fuera de la Capital, cuando las circunstancias lo exijan, bien sea por conmoción popular o para celebrar actos cívicos o conmemorativos.
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2016)</small>
+
+XXIX. Celebrar Sesiones del Pleno del Congreso del Estado o de la Comisión Permanente en su caso, fuera de su recinto Oficial previo acuerdo de la Junta de Coordinación Política.
 
 XXX. Recibir del Órgano de Fiscalización Superior del Congreso del Estado, los informes a que se refiere la fracción III, del artículo 31, de esta Constitución.
 
@@ -1949,7 +1839,9 @@ El Consejo de la Judicatura es un órgano del Poder Judicial, con independencia 
 
 El Consejo de la Judicatura se integrará por cinco miembros, que serán designados de la forma siguiente:
 
-I. Dos serán representantes del Poder Judicial, de los cuales uno será el Presidente del Tribunal Superior de Justicia, que también lo será del Consejo, y el otro será designado por el Tribunal Constitucional de entre los jueces de primera instancia.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2016)</small>
+
+I. Dos serán representantes del Poder Judicial, de los cuales uno será el Presidente del Tribunal Superior de Justicia, que también lo será del Consejo, y el otro será designado por el Tribunal Constitucional de entre los miembros de carrera judicial que integran el Poder Judicial del Estado.
 
 II. Dos consejeros designados por el Pleno del Congreso del Estado o por la Comisión Permanente, en su caso.
 
@@ -4714,3 +4606,19 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 Artículo Tercero.- Dentro del plazo de sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto, deberán llevarse a cabo las reformas a los ordenamientos legales aplicables, a fin de adecuarlas a lo previsto en este Decreto; así como expedirse la Ley orgánica respectiva.
+
+P.O. 18 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 210 POR EL QUE SE ESTABLECE LA VIGÉSIMA NOVENA REFORMA A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 20 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 243 DECRETO POR EL QUE SE ESTABLECE LA TRIGÉSIMA REFORMA A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
