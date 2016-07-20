@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2016-05-18"
+last_updated: "2016-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2016.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -1839,7 +1839,9 @@ El Consejo de la Judicatura es un órgano del Poder Judicial, con independencia 
 
 El Consejo de la Judicatura se integrará por cinco miembros, que serán designados de la forma siguiente:
 
-I. Dos serán representantes del Poder Judicial, de los cuales uno será el Presidente del Tribunal Superior de Justicia, que también lo será del Consejo, y el otro será designado por el Tribunal Constitucional de entre los jueces de primera instancia.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2016)</small>
+
+I. Dos serán representantes del Poder Judicial, de los cuales uno será el Presidente del Tribunal Superior de Justicia, que también lo será del Consejo, y el otro será designado por el Tribunal Constitucional de entre los miembros de carrera judicial que integran el Poder Judicial del Estado.
 
 II. Dos consejeros designados por el Pleno del Congreso del Estado o por la Comisión Permanente, en su caso.
 
@@ -4612,3 +4614,11 @@ P.O. 18 DE MAYO DE 2016.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 20 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 243 DECRETO POR EL QUE SE ESTABLECE LA TRIGÉSIMA REFORMA A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
