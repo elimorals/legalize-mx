@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-del-museo-morelense-de-arte-popular-101661"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-07-02"
-last_updated: "2014-12-24"
+last_updated: "2016-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MOR"
 ---
 # ESTATUTO ORGANICO DEL MUSEO MORELENSE DE ARTE POPULAR
 
-ESTATUTO ORGÁNICO DEL MUSEO MORELENSE DE ARTE POPULAR
+ESTATUTO ORGÁNICO DEL MUSEO MORELENSE DE ARTE POPULAR DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LAS FE DE ERRATAS PUBLICADAS EN EL PERIÓDICO OFICIAL DEL 27 DE AGOSTO DE 2014 Y 24 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2016.
 
 Estatuto publicado en el Periódico Oficial del Estado de Morelos, el miércoles 2 de julio de 2014.
 
@@ -59,7 +57,9 @@ II. Coordinador, a la persona Titular de la Coordinación del MMAPO;
 
 III. Decreto, al Decreto número mil trescientos noventa y nueve, por el que se crea el Organismo Público Descentralizado denominado Museo Morelense de Arte Popular;
 
-IV. Direcciones, a la Dirección Administrativa y a la Dirección Operativa del MMAPO;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2016)</small>
+
+IV. Direcciones, a la Dirección de Planeación y a la Dirección de Exposiciones del MMAPO;
 
 V. Estatuto, al presente Estatuto Orgánico;
 
@@ -117,9 +117,13 @@ III. Un Órgano Interno de Control.
 
 Para el desempeño de sus funciones, el MMAPO contará además, con las siguientes unidades administrativas:
 
-I. Una Dirección Administrativa, y
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2016)</small>
 
-II. Una Dirección Operativa.
+I. Una Dirección de Planeación, y
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2016)</small>
+
+II. Una Dirección de Exposiciones.
 
 Las Unidades Administrativas estarán integradas por las personas titulares respectivas y demás personal técnico y administrativo, necesario para la eficaz atención de los asuntos de su competencia y desempeño de sus atribuciones, de acuerdo a lo que disponga la Junta Directiva, con base en la suficiencia presupuestal autorizado para ello; cuyas funciones serán normadas por los Manuales Administrativos que se aprueben y emitan, así como por los Lineamientos, Políticas y Programas que la Junta Directiva y la Coordinación establezcan, en términos de las disposiciones jurídicas aplicables.
 
@@ -135,7 +139,9 @@ La Junta Directiva, además de las atribuciones señaladas en los artículos 65,
 
 I. Supervisar el ejercicio de los presupuestos anuales de ingresos y egresos y demás medidas de control que estime necesarias;
 
-II. Atender, en los términos de la Legislación aplicable, las Políticas, Bases y Programas Generales que regulen las obras públicas, adquisiciones, arrendamientos y prestación de servicios en relación con bienes muebles e inmuebles que requiera el MMAPO, en coordinación con la Dirección Administrativa del MMAPO, y
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2016)</small>
+
+II. Atender, en los términos de la Legislación aplicable, las Políticas, Bases y Programas Generales que regulen las obras públicas, adquisiciones, arrendamientos y prestación de servicios en relación con bienes muebles e inmuebles que requiera el MMAPO, en coordinación con la Dirección de Planeación del MMAPO, y
 
 III. Las demás que establezcan otras disposiciones jurídicas aplicables y leyes en la materia.
 
@@ -287,9 +293,11 @@ XIII. Cumplir y hacer cumplir, las Leyes, Reglamentos, Acuerdos, Decretos, y dem
 
 XIV. Las demás que les delegue el Coordinador o le confieran otras disposiciones jurídicas aplicables en el ámbito de su competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2016)</small>
+
 ###### Artículo 20.
 
-La persona titular de la Dirección Administrativa tendrá las siguientes atribuciones específicas:
+La persona titular de la Dirección de Planeación tendrá las siguientes atribuciones específicas:
 
 I. Diseñar las Políticas, Normas, Sistemas y Procedimientos necesarios para la programación, diseño del presupuesto y administración del capital humano, del capital material, de los servicios de contabilidad y los recursos financieros del MMAPO;
 
@@ -313,9 +321,11 @@ X. Elaborar los resguardos de los muebles propiedad del MMAPO, y
 
 XI. Proponer al Coordinador, Las normas y Lineamientos para la operación, promoción y realización de eventos en las áreas del MMAPO, que para tal efecto sean susceptibles de la prestación de algún servicio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2016)</small>
+
 ###### Artículo 21.
 
-La persona titular de la Dirección Operativa tendrá las siguientes atribuciones específicas:
+La persona titular de la Dirección de Exposiciones tendrá las siguientes atribuciones específicas:
 
 I. Planear, organizar, controlar y supervisar los mecanismos de promoción, y comercialización del Arte Popular, en colaboración con el Coordinador;
 
@@ -387,7 +397,9 @@ El Subcomité de Adquisiciones se integra de acuerdo a lo dispuesto por el artí
 
 I. El Coordinador, quien lo presidirá;
 
-II. La persona titular de la Dirección Administrativa, quien fungirá como Secretario Técnico;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2016)</small>
+
+II. La persona titular de la Dirección de Planeación quien fungirá como Secretario Técnico;
 
 > <small>(F. DE E. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -474,3 +486,21 @@ EL DIRECTOR GENERAL DE MUSEOS Y EXPOSICIONES DE LA SECRETARÍA DE CULTURA, EN SU
 JOSÉ GUADALUPE GARCÍA VALTIERRA
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL MUSEO MORELENSE DE ARTE POPULAR”.]
+
+PRIMERA. El presente Decreto iniciará su vigencia a los 05 días hábiles siguientes a la fecha de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones reglamentarias o administrativas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto por el presente instrumento.
+
+TERCERA. Dentro de un plazo de 30 días hábiles siguientes a la vigencia del presente instrumento, la persona titular de la Coordinación del Museo Morelense de Arte Popular deberá inscribir las reformas y modificaciones realizadas al Estatuto Orgánico de este último, en el Registro Público de los Organismos Descentralizados del estado de Morelos, en cumplimiento a lo dispuesto en el artículo 86, fracción II, de la Ley Orgánica de la Administración Pública del Estado de Morelos.
+
+CUARTA. Dentro de un plazo de 60 días hábiles posteriores a la entrada en vigor del presente Decreto, el Museo Morelense de Arte Popular realizará las adecuaciones necesarias a sus Manuales Administrativos, en tanto sucede esto, se mantendrán vigentes los actuales en lo que no se opongan al presente instrumento, con la aplicación por cada Unidad Administrativa, según su ámbito de competencia.
+
+QUINTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; 11, fracción XXXV, y 18, fracción XXVI, del Reglamento Interior de la Secretaría de Gobierno; el Museo Morelense de Arte Popular, dentro de un plazo de 05 días hábiles, contados a partir de la entrada en vigor del presente Decreto, deberá informar a la Secretaría de Gobierno del Poder Ejecutivo Estatal, las modificaciones realizadas por virtud de este instrumento.
+
+SEXTA. Los conflictos que se susciten por la aplicación e interpretación del presente Decreto serán resueltos por la Junta Directiva del Museo Morelense de Arte Popular.
