@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-prevencion-y-gestion-integral-de-los-residuos-10170
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-21"
-last_updated: "2014-06-21"
+last_updated: "2016-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2016.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 21 de junio de 2014.
 
@@ -263,7 +263,9 @@ XVIII. Coadyuvar con el Ejecutivo Estatal en la integración del subsistema esta
 
 XIX. Celebrar convenios, acuerdos y contratos con los sectores público, privado y social en materia de esta Ley.
 
-XX. Vigilar el cumplimiento de las disposiciones de esta Ley, de su reglamento, de las Normas Oficiales Mexicanas y demás normatividad en materia de residuos sólidos urbanos.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2016)</small>
+
+XX. Vigilar el cumplimiento de las disposiciones de esta Ley, de su reglamento, del Código Municipal, de las Normas Oficiales Mexicanas y demás normatividad en materia de residuos sólidos urbanos.
 
 XXI. Ordenar y practicar visitas domiciliarias de inspección y vigilancia e implementar demás acciones encaminados al cumplimiento de los objetivos de esta Ley.
 
@@ -988,3 +990,13 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los treinta días del mes de mayo del año dos mil catorce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. RAYMUNDO ROMERO MALDONADO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 1371/2016 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 177 BIS, INCLUYENDO SU TÍTULO, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA, Y LA FRACCIÓN XX DEL ARTÍCULO 8, DE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
