@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2016-01-20"
+last_updated: "2016-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2016.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -3213,21 +3213,17 @@ Son objeto de éste derecho, el aseo de los lugares de uso común, la recolecci�
 
 Se exceptúa de lo anterior, a los particulares que depositen residuos sólidos en los lugares que al efecto establezca la autoridad municipal, por sus propios medios, con cargo a su propio peculio y que su actividad no sea con fines lucrativos. La autoridad municipal difundirá la localización de los centros de recepción de residuos sólidos gratuitos en este caso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE JULIO DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+DERECHOS POR LOS SERVICIOS DE LIMPIEZA DE PREDIOS BALDÍOS O NO EDIFICADOS Y VIVIENDAS O EDIFICACIONES ABANDONADAS
 
-DERECHOS POR LOS SERVICIOS DE LIMPIEZA DE PREDIOS BALDIOS O NO EDIFICADOS
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+ARTICULO 177 BIS.- Los propietarios de predios baldíos o no edificados, de viviendas, construcciones o edificaciones abandonadas, que se ubiquen en las zonas urbanas o suburbanas de los municipios, y reflejen mal aspecto y falta de conservación en relación con los inmuebles que colinden, están obligados a realizar la limpieza de los mismos para evitar la proliferación de focos de infección y prevenir que se conviertan en espacios de inseguridad para las personas y contribuir a la buena imagen del Municipio.
 
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+Es objeto de este derecho por limpieza de predios baldíos o no edificados, y de viviendas, construcciones o edificaciones abandonadas, los servicios de limpieza de los mismos, cuando menos en el exterior, por lo que el Municipio requerirá a los propietarios, a través de la notificación respectiva, el cumplimiento de la obligación a que se refiere el párrafo anterior.
 
-ARTICULO 177 BIS.- Los propietarios de predios baldíos o no edificados que se ubiquen en las zonas urbanas o suburbanas de los municipios, están obligados a realizar la limpieza de los mismos para evitar la proliferación de focos de infección y prevenir que se conviertan en espacios de inseguridad para las personas y contribuir a la buena imagen del Municipio.
-
-Es objeto de este derecho por limpieza de predios baldíos o no edificados, los servicios de limpieza de los mismos, por lo que el Municipio requerirá a los propietarios, a través de la notificación respectiva, el cumplimiento de la obligación a que se refiere el párrafo anterior.
-
-En caso de incumplimiento por parte del propietario del predio, el servicio de limpieza será prestado por el Municipio con cargo al propietario del inmueble, de conformidad a lo establecido en la ley de ingresos municipal.
+En caso de incumplimiento por parte del propietario del predio o inmueble, el servicio de limpieza será prestado por el Municipio con cargo al propietario del mismo, de conformidad a lo establecido en la ley de ingresos municipal.
 
 DERECHOS POR SERVICIO DE BOMBEROS
 
@@ -4690,3 +4686,11 @@ Los Ayuntamientos que opten por la creación de las Gacetas Municipales, deberá
 ###### ARTÍCULO TERCERO.
 
 Remítase copia de la (sic) presente Decreto a cada uno de los sesenta y siete municipios integrantes de nuestra Entidad, para su conocimiento.
+
+P.O. 20 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1371/2016 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 177 BIS, INCLUYENDO SU TÍTULO, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA, Y LA FRACCIÓN XX DEL ARTÍCULO 8, DE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
