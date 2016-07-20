@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2016-07-06"
+last_updated: "2016-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2016.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1397,9 +1397,9 @@ El inculpado puede rechazar el perdón que se le otorga. En este caso, continuar
 
 El indulto extingue la potestad de ejecutar la sanción. El Ejecutivo podrá conceder indulto conforme a las siguientes reglas:
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2016)</small>
 
-I. Por delitos comunes, salvo homicidio doloso, violación, secuestro y terrorismo, cuando el sentenciado hubiese prestado importantes servicios a la Nación o al Estado, o hubiere delinquido por motivos políticos o sociales y existan datos que revelen efectiva reinserción social; y
+I. Por los delitos comunes, salvo abigeato, homicidio doloso, violación, secuestro, terrorismo, cuando el sentenciado hubiese prestado importantes servicios a la Nación o al Estado, o hubiere delinquido por motivos políticos o sociales y existan datos que releven (sic) efectiva reinserción social, y
 
 II. Por delitos políticos, a discreción del Ejecutivo.
 
@@ -2135,7 +2135,7 @@ Las autoridades educativas de los centros escolares, las de las instituciones de
 
 ### CAPITULO II. ABIGEATO
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2016)</small>
 
 ## TITULO OCTAVO. DELITOS CONTRA EL PRESTIGIO
 
@@ -2371,9 +2371,15 @@ Al que se apodere de una cosa mueble ajena, sin consentimiento del dueño o del 
 
 ###### ARTICULO 179.
 
-Al que se apodere de una o más cabezas de ganado equino, bovino, caprino, ovino, porcino, sin consentimiento de quien legalmente pueda disponer de las mismas, se le impondrán de cinco a veinte años de prisión y de noventa a mil quinientos días multa.
+Al que se apodere de una o más cabezas de ganado equino, bovino, caprino, ovino, porcino o sus híbridos, sin consentimiento de quien legalmente pueda disponer de las mismas, se le impondrán de cinco a veinte años de prisión y de noventa a mil quinientos días multa.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
 
 Quien se apodere de cualquier otra especie pecuaria no comprendida en el párrafo anterior, será sancionado de conformidad con el presente delito.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2016)</small>
+
+El juez deberá ordenar el decomiso de los bienes que fueren utilizados como medio o instrumento para la comisión del ilícito.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2015)</small>
 
@@ -2409,17 +2415,29 @@ Se aumentarán hasta en una tercera parte las sanciones previstas en este capít
 
 I. En corrales construidos exprofesamente para el encierro del ganado, sea en zona urbana o en campo despoblado;
 
-II. Encontrándose los animales a bordo de vehículos de transporte público o privado;
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2016)</small>
 
-III. Cuando se cometa el delito en campo abierto o paraje solitario;
+II. Cuando se cometa de noche;
 
-IV. Con violencia contra las personas para cometer el delito, para facilitarse la fuga o para conservar el ganado. Independientemente de que la violencia se haga al propietario de los animales, o a su legitimo poseedor, o a sus familiares, dependientes, trabajadores, o a cualquier persona que en el acto de la comisión se halle con estas, o a la que pretenda impedir la comisión del delito;
+II (SIC). Encontrándose los animales a bordo de vehículos de transporte público o privado;
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2016)</small>
+
+III. Cuando se cometa el delito en campo abierto o paraje solitario aprovechando la falta de vigilancia del ganado;
+
+IV. Con violencia contra las personas para cometer el delito, para facilitarse la fuga o para conservar el ganado. Independientemente de que la violencia se haga al propietario de los animales, o a su legítimo poseedor, o a sus familiares, dependientes, trabajadores, o cualquier persona que en el acto de la comisión se halle con estas, o a la que pretenda impedir la comisión del delito;
 
 V. Cuando se cometa por una o más personas armadas, o que utilicen o porten otros objetos peligrosos o intimidatorios;
 
-VI. Cuando el agente activo se valga para cometer el delito, de identificaciones falsas o inexistentes órdenes de autoridad;
+VI. Cuando el agente activo se valga para cometer el delito, de identificaciones falsas o inexistentes ordenes de autoridad;
 
-VII. Con quebranto de la confianza o seguridad derivadas de una relación de servicio como, trabajo u hospitalidad.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2016)</small>
+
+VII. Con quebranto de la confianza o seguridad derivada de una relación de servicio como, trabajo u hospitalidad, y
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2016)</small>
+
+VIII. Cuando se generen daños a la propiedad donde se resguarda el ganado.
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 1999)</small>
 
@@ -2427,11 +2445,11 @@ VII. Con quebranto de la confianza o seguridad derivadas de una relación de ser
 
 Cuando el agente activo que comete el delito o participe en él, sea servidor público, se le aplicarán además de las penas previstas en este capítulo, la destitución del puesto, empleo, cargo o comisión público encomendado y quedará inhabilitado de tres a seis años para desempeñar cualquier otra función pública.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 183.
 
-A quien a sabiendas de que es producto de abigeato, almacene, posea o transporte ganado, carnes, pieles, u otros derivados, se le impondrán de seis meses a dos años de prisión y hasta ciento ochenta días multa.
+A quien de manera injustificada almacene, posea o transporte ganado, carnes, pieles, u otros derivados, producto del abigeato, se le impondrán de dos a ocho años de prisión y de noventa hasta mil quinientos días multa.
 
 ### CAPITULO VII. INSOLVENCIA FRAUDULENTA EN PERJUICIO DE ACREEDORES
 
@@ -4800,3 +4818,13 @@ P.O. 6 DE JULIO DE 2016.
 PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 20 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO QUINIENTOS SETENTA Y OCHO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, EN RELACIÓN AL DELITO DE ABIGEATO”.]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva de conformidad con los articulo (sic) 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
