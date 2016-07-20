@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-turismo-del-estado-de-morelos-65018"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-10"
-last_updated: "2016-07-06"
+last_updated: "2016-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65018&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TURISMO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 10 de diciembre de 2008.
 
@@ -337,9 +337,11 @@ IV. Preservar la limpieza del patrimonio turístico, así como de los caminos qu
 
 V. No realizar ni inducir acciones que puedan ser ofensivas o discriminatorias en contra de la comunidad, sus integrantes o de sus tradiciones.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2016)</small>
+
 ###### Artículo 12.
 
-La Secretaría vigilará el cumplimiento de las medidas de protección al turista establecidas por esta Ley, así mismo combatirá y evitará toda práctica que lesione los intereses del turista, para lo cual podrá coordinarse con las dependencias y entidades de la Administración Pública Federal y las Autoridades Estatales y Municipales competentes.
+La Secretaría vigilará el cumplimiento de las medidas de protección al turista establecidas por esta Ley; y coordinará ante las entidades correspondientes y los prestadores de servicios turísticos la promoción de los (sic) mismas bajo el principio de accesibilidad a las personas con discapacidad, así mismo, combatirá y evitará toda práctica que lesione los intereses del turista, para lo cual podrá coordinarse con las dependencias y entidades de la Administración Pública Federal y las Autoridades Estatales y Municipales competentes.
 
 ###### Artículo 13.
 
@@ -348,6 +350,24 @@ La Secretaría estudiará y propondrá medidas tendientes a reforzar la segurida
 ###### Artículo 14.
 
 La Secretaría elaborará y ejecutará programas de concientización para los prestadores de servicios turísticos, para evitar violaciones a los ordenamientos legales en perjuicio del turista.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2016)</small>
+
+Artículo 14 bis.- La Secretaría garantizará que dentro de las políticas y programas que se establezcan para la atención y asistencia de turistas en el Estado, se contemple la accesibilidad para que las personas con discapacidad tengan acceso y disfrute en igualdad de condiciones de las instalaciones, servicios y productos que ofrecen los prestadores de servicios turísticos.
+
+En los programas y políticas que se adopten para el Turismo Accesible, se deben tomar en cuenta las siguientes directrices:
+
+a) Sensibilización de los prestadores de servicios turísticos;
+
+b) Fomento de la implementación de infraestructura accesible;
+
+c) Implementación de medidas informativas que ofrece la Secretaría y los prestadores de servicios turísticos con accesibilidad para las personas discapacitadas;
+
+d) Elaboración y aplicación de programas de calidad turista, con criterios de accesibilidad e inclusión, de acuerdo a la normatividad aplicable;
+
+e) Registro de destinos turísticos que faciliten el uso y disfrute de su infraestructura a personas con discapacidad; y,
+
+f) Exhibición visible de listas con servicios de apoyo y asistencia a turistas con alguna discapacidad, entre otras que estime convenientes la Secretaría.
 
 ### CAPÍTULO IV. DE LA INTEGRACIÓN DEL SECTOR TURÍSTICO
 
@@ -1166,3 +1186,11 @@ SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de 
 TERCERA.- Se derogan todas las disposiciones contrarias a la presente reforma.
 
 CUARTA.- El Titular del Poder Ejecutivo contará con un plazo de noventa días hábiles para realizar las adiciones y modificaciones correspondientes al Reglamento de la Ley de Turismo que demanda la presente reforma.
+
+P.O. 20 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS CINCUENTA Y CUATRO POR EL QUE SE REFORMA EL ARTÍCULO 12 Y SE ADICIONA EL ARTÍCULO 14 BIS, AMBOS DE LA LEY DE TURISMO DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo; para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado de Morelos.
