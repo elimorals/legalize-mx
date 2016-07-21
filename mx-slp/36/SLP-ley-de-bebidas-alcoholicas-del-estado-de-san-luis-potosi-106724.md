@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bebidas-alcoholicas-del-estado-de-san-luis-potosi-106724
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-19"
-last_updated: "2015-03-19"
+last_updated: "2016-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 19 de marzo de 2015.
 
@@ -125,9 +125,17 @@ XXXV. Supermercados: establecimientos que por su estructura y construcción cuen
 
 XXXVI. Teatro: establecimiento que se dedica a la proyección o escenificación de eventos especiales, artísticos, culturales, o cualquier otro tipo de producción afín, con el propósito de explotación comercial o cultural, y que cuenta con equipamiento e infraestructura de servicio de restaurante completo, donde se venden bebidas alcohólicas para su consumo inmediato y en el interior del mismo;
 
-XXXVII. Titular de la licencia: persona física o moral a nombre de la cual se encuentra ésta; y que puede ser el propietario o poseedor del establecimiento, y
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2016)</small>
 
-XXXVIII. Otros: instalaciones de servicio al público tales como jardines, o salones de fiesta; centros de convenciones que se rentan para eventos sociales; estadios; arenas de box y lucha libre; plazas de toros; lienzos charros; carriles para carreras de caballos; palenques móviles; centros de espectáculos o de entretenimiento; palenque permanente; y lugares donde se desarrollan espectáculos deportivos, artísticos y ferias estatales, regionales o municipales.
+XXXVII. Titular de la licencia: persona física o moral a nombre de la cual se encuentra ésta; y que puede ser el propietario o poseedor del establecimiento;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2016)</small>
+
+XXXVIII. Otros: instalaciones de servicio al público tales como jardines, o salones de fiesta; centros de convenciones que se rentan para eventos sociales; estadios; arenas de box y lucha libre; plazas de toros; lienzos charros; carriles para carreras de caballos; palenques móviles; centros de espectáculos o de entretenimiento; palenque permanente; y lugares donde se desarrollan espectáculos deportivos, artísticos y ferias estatales, regionales o municipales; y
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2016)</small>
+
+XXXIX. Terrazas: espacios ubicados en el exterior de los establecimientos a que se refieren las fracciones, XXVI, XXVII, y XXXIII de este artículo, los que, para su operación, deberán contar con las autorizaciones que correspondan de uso de suelo y funcionamiento otorgadas por la autoridad municipal. Debiendo, en su caso, garantizar la cobertura de reparación o reposición de los daños que, por su funcionamiento, se pueda (sic) causar a los espacios públicos en los que se ubiquen.
 
 ###### ARTÍCULO 3º.
 
@@ -755,7 +763,7 @@ SÉPTIMO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 Lo tendrá entendido el Ejecutivo del Estado, lo hará publicar, circular y obedecer.
 
-D A D O en el salón de sesiones "Ponciano Arriaga Leija" del Honorable Congreso del Estado, el veinticuatro de febrero de dos mil quince.
+D A D O en el salón de sesiones “Ponciano Arriaga Leija” del Honorable Congreso del Estado, el veinticuatro de febrero de dos mil quince.
 
 Diputado Presidente, Crisógono Sánchez Lara; Diputado Primer Secretario, José Francisco Martínez Ibarra; Diputada Segunda Secretaría, Marianela Villanueva Ponce. (Rúbricas).
 
@@ -774,3 +782,13 @@ El Secretario General de Gobierno
 Lic. José Eduardo González Sierra
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0257.- SE REFORMA EL ARTÍCULO 2° EN SUS FRACCIONES, XXXVII, Y XXXVIII; Y ADICIONA AL MISMO ARTÍCULO 2° LA FRACCIÓN XXXIX, DE Y A (SIC) LA LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
