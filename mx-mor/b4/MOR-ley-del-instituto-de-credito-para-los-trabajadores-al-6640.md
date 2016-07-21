@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-instituto-de-credito-para-los-trabajadores-al-6640"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-04"
-last_updated: "2014-05-28"
+last_updated: "2016-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "MOR"
 ---
 # LEY DEL INSTITUTO DE CREDITO PARA LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE AGOSTO DE 2016 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
+> <small>[N. DE E. EL DECRETO NÚMERO NOVECIENTOS OCHENTA Y OCHO, EXPEDIDO POR LA QUINCUAGÉSIMA TERCERA LEGISLATURA, PUBLICADO EN EL P.O. DE 21 DE JULIO DE 2016, MODIFICÓ DE MANERA INTEGRAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
+
 LEY DEL INSTITUTO DE CRÉDITO PARA LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -49,367 +53,737 @@ Que por lo anteriormente expuesto, esta H. Cuadragésima Segunda Legislatura Con
 
 LEY DEL INSTITUTO DE CREDITO PARA LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO
 
-### CAPITULO I. DEL OBJETO Y LOS SUJETOS DE LA LEY
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2000)</small>
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### ARTICULO 1o.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-Se crea un Instituto denominado "Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado", con el objeto de mejorar integralmente las condiciones de vida de los trabajadores del Gobierno del Estado de Morelos.
+###### Artículo 1.
 
-###### ARTICULO 2o.
+La presente Ley es de observancia general, orden público e interés social, así como obligatoria para los sujetos señalados en este ordenamiento, y tiene por objeto regular el otorgamiento de las prestaciones que brinda el Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado de Morelos a sus afiliados, conforme a su Reglamento y la normativa aplicable.
 
-Al Instituto de Crédito para los servidores públicos del Gobierno del Estado se le reconoce el carácter de organismo público descentralizado Estatal, con personalidad jurídica, patrimonio, órgano de Gobierno y Administración Propia, con domicilio en la Ciudad de Cuernavaca, Morelos.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2000)</small>
+###### Artículo 2.
 
-###### ARTICULO 3o.
+La interpretación de la presente Ley corresponde a la persona Titular del Poder Ejecutivo Estatal, a través de la Secretaría o Dependencia coordinadora del sector al que pertenezca el Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado de Morelos, con la opinión de la persona titular de la Dirección General de dicho Instituto.
 
-Para los efectos de esta Ley se denominará al Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado, como "EL INSTITUTO" y a los Servidores Públicos y a los Trabajadores al Servicio del Estado, como "LOS TRABAJADORES".
+A falta de disposición expresa, se aplicará supletoriamente la Ley de Procedimiento Administrativo para el Estado de Morelos, el Código Civil para el Estado Libre y Soberano de Morelos y el Código Procesal Civil para el Estado Libre y Soberano de Morelos, así como los principios de simplificación administrativa y los principios generales del derecho.
 
-###### ARTICULO 4o.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-"EL INSTITUTO" tendrá por objeto otorgar préstamos Quirografarios, Especiales e Hipotecarios a los servidores públicos del Gobierno del Estado.
+###### Artículo 3.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2000)</small>
+Para efectos de la presente Ley se entenderá por:
 
-###### ARTICULO 5o.
+I. Acreditado, a la persona física que ya no cotiza al Instituto pero que tiene obligaciones con aquél, con motivo de la vigencia de un crédito o alguna otra circunstancia;
 
-Son sujetos de esta Ley con las obligaciones y derechos que la misma impone:
+II. Afiliado, al trabajador o pensionista que, conforme a lo señalado en el Capítulo IV de la presente Ley, cotiza al Instituto y recibe los beneficios que éste otorga;
 
-I.- Los tres Poderes del Gobierno del Estado de Morelos;
+III. Amortización, al método por el cual se liquida un crédito en pagos parciales;
 
-II.- Las Instituciones y Organismos Públicos, coordinados y descentralizados de carácter estatal, siempre que no estén afectos a un régimen distinto; y
+IV. Aportación, a la cantidad en dinero que cubre el ente obligado por cada afiliado para que reciba los beneficios que otorga la presente Ley, correspondientes al 6% de las percepciones constantes de los afiliados;
 
-III.- Los servidores públicos o trabajadores al servicio del Estado que desempeñen un empleo, cargo o comisión de vigencia determinada o indefinida, de base, de confianza o supernumerario.
+V. Beneficiario, a la persona física o moral designada por el afiliado para recibir las cuotas que aportó al Instituto;
 
-###### ARTICULO 6o.
+VI. Capacidad de pago, a la posibilidad del afiliado de ser sujeto del otorgamiento de un crédito conforme al cálculo que determine su disponibilidad financiera para cubrir el crédito hasta su totalidad;
 
-Quedan excluidos de los beneficios de esta Ley, los Trabajadores a Lista de Raya, los sujetos a Contrato Civil o Laboral y los que desempeñen actividades eventuales o los de emergencia.
+VII. Consejo Directivo, al órgano de gobierno del Instituto;
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2000)</small>
+VIII. Comité Técnico de Créditos Hipotecarios, al órgano colegiado integrado en términos del Estatuto Orgánico y demás normativa aplicable, que revisa y aprueba los créditos hipotecarios;
 
-###### ARTICULO 7o.
+IX. Cuota, a la cantidad en dinero que cubre el afiliado mediante la retención y remisión del ente obligado, para que dicho afiliado reciba los beneficios que le otorga la presente Ley;
 
-La observancia de esta Ley será obligatoria para las Entidades públicas y sus trabajadores cuando formalicen convenio con el Instituto para su afiliación.
+X. Crédito, al préstamo en dinero o en especie que concede el Instituto al afiliado, con el otorgamiento de una garantía en los términos o condiciones que para cada caso aplique;
 
-El Instituto podrá celebrar convenios con los Ayuntamientos de la Entidad para otorgar parcial o totalmente las prestaciones consignadas en esta Ley.
+XI. Director General, a la persona titular del Instituto;
 
-### CAPITULO II. EL INSTITUTO, SU PATRIMONIO Y DE LAS OBLIGACIONES ECONOMICAS
+XII. Ente obligado, al ente institucional incorporado conforme lo establece el artículo 25 de la presente Ley, y obligado a enterar las aportaciones, así como a retener a los afiliados las cuotas y los pagos de las amortizaciones respecto de los créditos otorgados, enterando dichos conceptos para que el afiliado reciba los beneficios que el Instituto otorga;
 
-###### ARTICULO 8o.
+XIII. Estatuto Orgánico, al Estatuto Orgánico del Instituto;
 
-El Instituto es el encargado de la correcta aplicación y cumplimiento de esta Ley.
+XIV. Gobernador, a la persona titular del Poder Ejecutivo Estatal;
 
-###### ARTICULO 9o.
+XV. Instituto, al organismo público descentralizado denominado Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado de Morelos;
 
-Para cubrir las obligaciones del Instituto, así como satisfacer los gastos de su Administración se constituye un patrimonio con los siguientes Bienes y Derechos:
+XVI. Interés ordinario, a la tasa que se aplica sobre el capital insoluto generado durante el plazo pactado o la vigencia del crédito, cuya tasa se estipulará en el Reglamento y demás normativa aplicable;
 
-I.- Un fondo social permanente.
+XVII. Interés moratorio, a la tasa que se aplica sobre el saldo del crédito a partir del incumplimiento del pago puntual del mismo hasta su total liquidación; así como a la tasa que se aplica sobre los enteros extemporáneos que realice el ente obligado, cuyas tasas se estipularán en el Reglamento y demás normativa aplicable;
 
-II.- Aportaciones ordinarias a cargo de los servidores públicos, iguales al 6% de sus remuneraciones periódicas vigentes en los términos del Artículo 13 de esta Ley.
+XVIII. Ley, al presente instrumento jurídico;
 
-III.- Las aportaciones ordinarias de las Entidades Públicas sobre la base de cantidades iguales al importe de las aportaciones de los servidores públicos.
+XIX. Ley Orgánica, a la Ley Orgánica de la Administración Pública del Estado de Morelos;
 
-IV.- Las aportaciones extraordinarias que acuerden en común las Entidades Públicas, Servidores Públicos, los Organismos coordinados y descentralizados y sus Trabajadores.
+XX. Manuales Administrativos, a los Manuales de Organización, de Políticas y Procedimientos y demás instrumentos normativos aprobados por el Instituto, mediante los cuales se indican los pasos que deban seguirse para el desarrollo de cada una de las actividades de las unidades administrativas que lo conforman;
 
-V.- Los intereses, productos financieros y rentas que obtenga el Instituto por cualquier título.
+XXI. Pensionista, a la persona física que recibe periódicamente una cantidad de dinero por concepto de pensión;
 
-VI.- Los bienes muebles, inmuebles, derechos y créditos de toda clase que constituyen el patrimonio del Instituto.
+XXII. Percepción constante, al salario integrado por la suma de los emolumentos en efectivo que, en forma constante, recibe el afiliado por la prestación de sus servicios subordinados a los entes obligados;
 
-VII.- Los bienes inmuebles, derechos y créditos de toda clase que en lo futuro adquiera el Instituto.
+XXIII. Reintegro a entes obligados, a la cantidad en dinero que el ente obligado retiene vía nómina al afiliado y es enterada al Instituto de manera inexacta;
 
-VIII.- Las percepciones que obtenga en el caso que prevee el Artículo 14 de esta Ley.
+XXIV. Reintegro a afiliados o acreditados, a la cantidad en dinero que se devuelve derivada de un cobro improcedente;
 
-###### ARTICULO 10.
+XXV. Reglamento, al Reglamento de la presente Ley, y
 
-Las obligaciones de esta Institución con los Servidores Públicos nacen concomitantemente con el pago de las aportaciones ordinarias a que están obligados.
+XXVI. Sujetos obligados, a los afiliados y acreditados, entes obligados, personal del Instituto, integrantes del Consejo Directivo y a todos aquellos que se ubiquen en los supuestos previstos en esta Ley.
 
-###### ARTICULO 11.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-El Gobierno del Estado y las demás Instituciones cuyos Servidores Públicos son sujetos de la presente Ley, deberán dar aviso al Instituto dentro de los diez días siguientes a la fecha en que ocurran, de las altas y bajas de Trabajadores, así como de las modificaciones de los salarios sujetos al descuento.
+### CAPÍTULO II. DEL INSTITUTO
 
-###### ARTICULO 12.
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2016)</small>
 
-Tienen el carácter de forzosas las aportaciones a cargo de los Servidores Públicos, Coordinados y Descentralizados, por consiguiente quedan obligados a consentir los descuentos que se lleven a cabo sobre sus sueldos.
+#### SECCIÓN PRIMERA. DEL OBJETO Y FUNCIONES DEL INSTITUTO
 
-###### ARTICULO 13.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-El porcentaje de aportaciones de los Servidores Públicos beneficiarios de esta Ley, a que se refiere el Artículo 9o., fracción II, se deducirá de su salario presupuestal, entendiéndose como tal, la remuneración que consigne el Presupuesto de Egresos correspondiente, con relación a la Categoría que corresponda al Servidor Público.
+###### Artículo 4.
 
-###### ARTICULO 14.
+Se crea el Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado de Morelos como organismo público descentralizado, sectorizado mediante acuerdo que expida el Gobernador al efecto, en términos de la Ley Orgánica; con personalidad jurídica, patrimonio propio, autonomía jerárquica respecto de la Administración Pública Central y sin fines de lucro, con domicilio en la ciudad de Cuernavaca, estado de Morelos.
 
-La demora en el pago de una o más de las aportaciones a cargo de los obligados será causa para la suspensión inmediata de los derechos que se les concede conforme a esta Ley, una vez cubierto el adeudo, serán reanudados sus servicios y obligaciones correspondientes.
+No obstante, para el mejor desarrollo de sus funciones, el Instituto podrá establecer Delegaciones en el Estado cuando así lo requiera, conforme a la suficiencia presupuestal autorizada para ello.
 
-###### ARTICULO 15.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-Todo adeudo por aportaciones ordinarias con un plazo mayor de un mes a partir de su vencimiento causará intereses moratorios a la tasa del 12% anual a favor del Instituto, y el trabajador deberá cubrirlo en un término no mayor de un año.
+###### Artículo 5.
 
-###### ARTICULO 16.
+El Instituto tiene por objeto procurar el bienestar social de los afiliados y sus familias a través del otorgamiento de prestaciones económicas y sociales.
 
-Los Trabajadores que presten sus servicios de manera compatible en dos o más Dependencias tuteladas por la presente Ley, aportarán el porcentaje correspondiente a la suma de los salarios presupuestales que perciban.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-###### ARTICULO 17.
+###### Artículo 6.
 
-El Gobierno del Estado y las demás Entidades Públicas reguladas por la presente Ley, deberán descontar y retener las aportaciones correspondientes a los Trabajadores a su servicio, enviando al Instituto las nóminas en las que consten los descuentos efectuados dentro de los tres días siguientes a la fecha del pago respectivo. El entero de las aportaciones retenidas deberá efectuarse quincenalmente al Instituto.
+El Instituto, para el cumplimiento de su objeto, además de las previstas en el Estatuto Orgánico, el Reglamento y demás normativa aplicable, de manera enunciativa más no limitativa, tendrá las atribuciones siguientes:
 
-###### ARTICULO 18.
+I. Brindar seguridad social a los afiliados en materia de vivienda, mediante el otorgamiento de créditos hipotecarios;
 
-Cuando las aportaciones ordinarias que se han establecido en favor del Instituto, así como los productos y recursos propios de que disponga no sean suficientes para cubrir los servicios y demás obligaciones a su cargo, el déficit que se presente, cualquiera que sea su monto, deberá absolverse oportunamente por las Entidades Públicas, sus Trabajadores, los Organismos Coordinados, descentralizados y sus Trabajadores, en la proporción que a cada uno de ellos les corresponda.
+II. Proporcionar en forma directa o con la intermediación de las instituciones federales, estatales o municipales competentes, así como con aquellas que integran el sistema bancario mexicano, financiamiento oportuno y a bajas tasas de interés, a las personas a que estén destinados los programas de vivienda que instrumente el propio Instituto;
 
-###### ARTICULO 19.
+III. Otorgar prestaciones económicas a corto, mediano y largo plazo, conforme lo dispuesto por la presente Ley, su Reglamento y demás normativa aplicable;
 
-Las aportaciones de las Entidades Públicas tienen el carácter de obligatorias, y por consiguiente deberán consignarse en la partida que corresponda a sus respectivos Presupuestos de Egresos.
+IV. Otorgar servicios sociales de odontología y optometría, en términos de lo dispuesto en la presente Ley, su Reglamento y demás normativa aplicable, y
 
-###### ARTICULO 20.
+V. Brindar cualquier otra prestación que satisfaga las necesidades de los afiliados, previa aprobación y en los términos que determine el Consejo Directivo.
 
-Los Trabajadores o sus familiares en su caso, tendrán derecho a la devolución de las cuotas que hayan aportado al Instituto en los siguientes casos:
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-a).- Cuando el Trabajador fallezca; y,
+###### Artículo 7.
 
-b).- Cuando se separe definitivamente del servicio.
+El Instituto conducirá sus actividades con sujeción a las disposiciones del Plan Estatal de Desarrollo, a la presente Ley, a los programas sectoriales correspondientes, a las políticas y lineamientos de la Secretaría o Dependencia coordinadora de su sector, así como a las disposiciones jurídicas que sean aplicables.
 
-En este último caso la devolución se hará transcurrido un año de la fecha de la separación del Trabajador.
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2016)</small>
 
-###### ARTICULO 21.
+#### SECCIÓN SEGUNDA. DEL PATRIMONIO DEL INSTITUTO
 
-La devolución de las aportaciones a que se refiere el precepto anterior, podrá ser retenida por el Instituto en el caso de Trabajadores que tengan adeudos con el Instituto.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-###### ARTICULO 22.
+###### Artículo 8.
 
-El Instituto concederá a los Trabajadores, beneficiarios de la presente Ley, tres tipos de Préstamos: Quirografarios, Especiales e Hipotecarios, utilizando a título de inversión los fondos y las reservas de su patrimonio.
+El patrimonio del Instituto se constituirá por:
 
-###### ARTICULO 23.
+I. Un fondo social permanente;
 
-En toda clase de préstamos los abonos periódicos a que queda obligado el deudor, sumados a los demás descuentos, no podrán ser mayores al 50% de sus percepciones computables en los términos de la presente Ley.
+II. Las aportaciones de los entes obligados;
 
-Sección 1a. DE LOS PRESTAMOS QUIROGRAFARIOS.
+III. Las aportaciones extraordinarias que se acuerden con los entes obligados;
 
-###### ARTICULO 24.
+IV. Las aportaciones extraordinarias que acuerden en común los afiliados;
 
-Los préstamos quirografarios que se otorguen a los trabajadores quedan sujetos a las siguientes reglas:
+V. Las cuotas de recuperación recibidas por los servicios que se otorguen;
 
-a).- Tiene derecho a un préstamo quirografario el trabajador que haya hecho aportaciones al Instituto por un período mínimo de seis meses;
+VI. Las cuotas no reclamadas por el afiliado o beneficiario, una vez transcurridos cinco años a partir de la separación del servicio o el fallecimiento del afiliado, salvo resolución judicial;
 
-b).- El préstamo se otorgará mediante garantía por aval, a satisfacción del Instituto.
+VII. El fondo de reserva para cuentas incobrables, incosteables e ilocalizables;
 
-c).- El importe del crédito será hasta de un año de salario presupuestal, cuando las aportaciones del trabajador sean iguales o mayores al monto del préstamo, en caso contrario el importe del crédito no será mayor de cinco meses, y,
+VIII. Los intereses, productos financieros, rentas y otros que se obtengan por cualquier título;
 
-d).- El monto del préstamo lo formarán el capital y los intereses calculados durante el plazo concedido para el pago del mismo.
+IX. Los bienes inmuebles y muebles que forman parte del activo fijo y los que en lo futuro adquiera o se adjudique el Instituto;
 
-### CAPITULO III. DE LOS PRESTAMOS
+X. Los que se obtengan por donaciones, herencias, legados y fideicomisos que se hagan o constituyan a favor del Instituto, y
 
-###### ARTICULO 25.
+XI. Cualquier otro concepto legalmente obtenido o constituido en favor del Instituto.
 
-Los préstamos quirografarios causarán un interés anual del 14% sobre saldos insolutos.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-###### ARTICULO 26.
+###### Artículo 9.
 
-Los Trabajadores de Confianza y los Supernumerarios podrán obtener préstamos Quirografarios, conforme a las mismas reglas establecidas en esta Ley para los Trabajadores de Base, mediante la aportación de garantías especiales que el Consejo Directivo exija, conforme a las disposiciones de esta Ley.
+Las cuotas de los afiliados correspondientes al 6% de su percepción constante, serán utilizadas preferentemente para el otorgamiento de créditos y se devolverán en los supuestos previstos en el Reglamento y demás normativa aplicable.
 
-###### ARTICULO 27.
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2016)</small>
 
-El Consejo Directivo del Instituto determinará el porcentaje de los intereses a que se refiere el Artículo anterior, que habrá de destinar para crear el Fondo de Reserva especial, destinado a la recuperación financiera en los casos de pérdida de préstamos.
+#### SECCIÓN TERCERA. DE LA ESTRUCTURA ORGÁNICA DEL INSTITUTO
 
-###### ARTICULO 28.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-Los préstamos Quirografarios y sus intereses los cubrirá el deudor con abonos iguales quincenales en un plazo no mayor de dieciocho meses y sólo se concederá un nuevo préstamo de esta clase cuando se encuentre liquidado el anterior. Sin embargo podrá renovarse o ampliarse en su monto o plazo si han transcurrido a partir de la fecha en que fue concedido cinco quincenas.
+###### Artículo 10.
 
-### CAPITULO IV. DEL GOBIERNO Y LA ADMINISTRACION
+Para el cumplimiento de su objeto, el Instituto contará con los siguientes órganos:
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+I. Un Consejo Directivo;
 
-###### ARTICULO 29.
+II. Un Director General, y
 
-Transcurrido un año del vencimiento de Préstamos Quirografarios sin que éstos hubiesen sido cubiertos por los deudores, su importe se cubrirá con el Fondo de Reserva Especial, independientemente de que el Instituto proceda a hacer efectivo el adeudo en los términos legales que procedan.
+III. Un Órgano Interno de Control.
 
-Sección 2a. DE LOS PRESTAMOS ESPECIALES.
+Además, el Instituto contará con un Comité Técnico de Créditos Hipotecarios cuya naturaleza, objeto, integración y atribuciones se establecerán en el Estatuto Orgánico.
 
-###### ARTICULO 30.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-Los préstamos Especiales con garantía colateral están destinados a resolver problemas económicos urgentes del Trabajador, y tiene por objeto aliviar la situación económica apremiante del Servidor Público y su familia. El Instituto calificará y aprobará en su caso, las anteriores circunstancias, fijando asimismo las condiciones de la garantía colateral.
+###### Artículo 11.
 
-###### ARTICULO 31.
+Para el cumplimiento y desarrollo de sus funciones, el Instituto contará con las unidades administrativas que se determinen en el Estatuto Orgánico y sus Manuales Administrativos correspondientes, conforme a la disponibilidad presupuestal autorizada para ello.
 
-El préstamo Especial deberá cubrirse dentro de un plazo no mayor de veinticuatro meses mediante pagos periódicos iguales o en una sola exhibición. Se documentará con arreglo a los títulos Ejecutivos Mercantiles y los intereses se exhibirán sobre saldos insolutos en un proceso de amortización financiera. En ningún caso se concederá la renovación o ampliación de esta clase de préstamos.
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2016)</small>
 
-Sección 3a. DE LOS PRESTAMOS HIPOTECARIOS.
+#### SECCIÓN CUARTA. DEL CONSEJO DIRECTIVO
 
-###### ARTICULO 32.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-Los Trabajadores con más de tres años de cotización al Instituto, tendrán derecho a préstamos hipotecarios, los que serán otorgados por acuerdo expreso del Consejo Directivo y serán destinados exclusivamente a resolver el problema de la habitación familiar.
+###### Artículo 12.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+El Consejo Directivo es la máxima autoridad del Instituto y se integra por:
 
-El Instituto podrá contratar, con asesoría de las Secretarías de Obras Públicas, y de Desarrollo Sustentable del Poder Ejecutivo del Estado de Morelos, según sea el caso, el desarrollo de Programas de Vivienda que satisfagan la demanda de sus trabajadores.
+I. El Gobernador, quien lo presidirá por sí o por conducto del representante que designe al efecto;
 
-###### ARTICULO 33.
+II. Una persona representante del Poder Legislativo que, en ningún caso, podrá ser un Diputado al Congreso del Estado, en términos de lo previsto en la fracción V del artículo 81 de la Ley Orgánica;
 
-Los préstamos Hipotecarios se destinarán exclusivamente a:
+III. Una persona representante del Poder Judicial, que será la persona titular de la Presidencia del Tribunal Superior de Justicia del Estado;
 
-I.- Adquisición de terrenos para la construcción de casa-habitación del Trabajador.
+IV. La persona titular de la Secretaría de Hacienda del Poder Ejecutivo Estatal;
 
-II.- Adquisición o construcción de casas-habitación para el Trabajador y su familia.
+V. La persona titular de la Secretaría de Gobierno del Poder Ejecutivo Estatal;
 
-III.- Para realizar mejoras, reparaciones o ampliaciones de las mismas.
+VI. La persona titular de la Secretaría del Trabajo del Poder Ejecutivo Estatal;
 
-IV.- Para pagos de gravámenes que soporte el inmueble.
+VII. La persona titular de la Secretaría de Administración del Poder Ejecutivo Estatal;
 
-###### ARTICULO 34.
+VIII. La persona que ocupe la Consejería Jurídica del Poder Ejecutivo Estatal;
 
-El préstamo Hipotecario se cubrirá en un plazo no mayor de quince años, con las amortizaciones mensuales que fije el Consejo Directivo y que no excederá del 50% de las percepciones sobre las que se practiquen los descuentos para el Instituto. Podrán exceptuarse de la anterior disposición los Trabajadores que comprueben tener otros ingresos permanentes computables, en cuyo caso el monto del descuento será proporcional a la suma de sus ingresos totales.
+IX. La persona titular de la Secretaría General del Sindicato Único de Trabajadores del Poder Ejecutivo del Estado de Morelos y Entidades Paraestatales;
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2000)</small>
+X. La persona titular de la Secretaría General del Sindicato Único de Trabajadores al Servicio del Poder Judicial del Estado de Morelos;
 
-###### ARTICULO 35.
+XI. La persona titular de la Secretaría General del Sindicato Único de Trabajadores al Servicio del Poder Legislativo del Estado de Morelos, y
 
-Los préstamos hipotecarios que otorgue el Instituto a los trabajadores, causarán un interés anual ordinario sobre saldos insolutos, conforme a la siguiente tasa anual:
+XII. Una Persona representante de la Sección XIX del Sindicato Nacional de Trabajadores de la Educación.
 
-a).- La tasa aplicable a los trabajadores cuyo sueldo básico de cotización sea de 1 a 2 salarios mínimos mensuales vigentes en el Estado será del 6.0%.
+Los cargos de los integrantes del Consejo Directivo serán honoríficos, por lo que no recibirán retribución, emolumento ni compensación alguna por su desempeño.
 
-b).- La tasa aplicable a los trabajadores cuyo sueldo básico de cotización sea de 2.05 a 3 salarios mínimos mensuales vigentes en el Estado será del 8.0%; y
+Por cada integrante propietario, deberá designarse, por escrito, un suplente, el cual contará con las mismas facultades que el propietario. Dichos suplentes deberán contar con el nivel jerárquico inmediato inferior.
 
-c).- La tasa aplicable a los trabajadores cuyo sueldo básico de cotización sea de 3.05 ó más salarios mínimos mensuales vigentes en el Estado será del 10.0%.
+Para el caso de que el representante que designe el Gobernador para fungir como presidente del Consejo Directivo, sea un integrante de éste último en términos del presente artículo, dicho integrante deberá designar a su vez a la persona que lo supla, a fin de evitar la concentración de votos en una sola persona para la toma de decisiones.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2000)</small>
+En las sesiones del Consejo Directivo participarán el Director General y el Comisario Público con derecho a voz, pero sin voto.
 
-###### ARTICULO 36.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-Los préstamos hipotecarios que se otorguen a los trabajadores cubrirán hasta el 100% del valor comercial del inmueble, conforme al avalúo que formule el Instituto o alguna Institución Bancaria, el cual no excederá en ningún caso del valor que el Consejo Directivo del Instituto determine anualmente. En caso de que los trabajadores lo solicitaren, el préstamo hipotecario podrá ampliarse hasta un 10% más del monto aprobado para cubrir los gastos de escrituración e impuesto que genere la compraventa.
+###### Artículo 13.
 
-###### ARTICULO 37.
+En las sesiones del Consejo Directivo, previa solicitud y autorización, podrá asistir un invitado nombrado por los representantes de las Asociaciones de Pensionados del Gobierno del Estado de Morelos, Ayuntamientos, Entidades estatales y municipales.
 
-Tratándose de créditos hipotecarios destinados a mejoras, ampliaciones o reparaciones de casas-habitación, la garantía se fincará sobre todo el inmueble.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-###### ARTICULO 38.
+###### Artículo 14.
 
-Los préstamos hipotecarios serán acordados y despachados conforme el número progresivo de registro de solicitud y de acuerdo con el programa anual de inversiones del Instituto y tendrá las siguientes preferencias:
+El Consejo Directivo sesionará en forma ordinaria cuando menos seis veces al año y de manera extraordinaria las veces que sea necesario, cuando se trate de asuntos urgentes o de imperiosa necesidad, en la forma y términos que establezca el Estatuto Orgánico y demás normativa aplicable.
 
-a).- Préstamos para dirimir gravámenes.
+El Consejo Directivo sesionará legalmente con la asistencia de la mitad más uno de la totalidad de sus integrantes; los acuerdos se aprobarán por mayoría de votos de sus miembros presentes. En caso de empate, el presidente tendrá voto de calidad, conforme a la normativa aplicable.
 
-b).- Préstamos para comprar o construir casa-habitación, con o sin terreno urbanizado.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-c).- Préstamos destinados a realizar reparaciones y ampliaciones de las casas-habitación propiedad de los sujetos a esta Ley, y,
+###### Artículo 15.
 
-d).- Préstamos para otras finalidades.
+El Consejo Directivo, además de las señaladas en la Ley Orgánica y otros ordenamientos jurídicos aplicables, cuenta con las atribuciones no delegables siguientes:
 
-Sólo se concederá el préstamo hipotecario destinado a dirimir gravámenes, siempre que se haya construido con antelación a la solicitud del crédito, y la garantía real en favor del Instituto sea en primer lugar.
+I. Cumplir y vigilar que se acaten las disposiciones contenidas en la presente Ley, su Reglamento, la Ley Orgánica, el Estatuto Orgánico y demás normativa aplicable;
 
-###### ARTICULO 39.
+II. Aprobar, expedir y remitir a la autoridad competente para su publicación el Estatuto Orgánico;
 
-Todo aquel que solicite un préstamo hipotecario está obligado a cumplir con los requisitos que se le exijan para la operación, así como a pagar los gastos de avalúo, notariales o de otra índole. El Instituto queda facultado para deducir el importe de estos gastos del total del préstamo; y en su caso, a ordenar los descuentos que correspondan de las percepciones del deudor. Esta clase de préstamos podrán ser ampliados pero no renovados ni en su plazo, ni en su importe, las ampliaciones se otorgarán previo el examen técnico ordenado por el Instituto, a fin de determinar si resulta aconsejable para mantener en condición de habitabilidad el inmueble relacionado con la operación primaria. A quien se le haya hecho un préstamo hipotecario no tendrá derecho a que se le conceda otro mientras permanezca insoluto el anterior; y sólo se le otorgará un nuevo préstamo de esta clase cuando hayan transcurrido dos años de haberse liquidado el anterior, y siempre que el dinero se destine a dirimir gravámenes o para ampliar o efectuar reparaciones en la casa propiedad del solicitante.
+III. Aprobar las reservas financieras que propongan el Director General para asegurar la recuperación de las cuentas incobrables e incosteables derivadas del otorgamiento de créditos, así como las incobrables de los entes obligados;
 
-###### ARTICULO 40.
+IV. Aprobar otras inversiones cuando las tasas de rendimiento sean mayores a la oferta del sistema financiero mexicano, conforme al Reglamento y demás normativa aplicable;
 
-Los préstamos Hipotecarios destinados a la construcción o compra de casas-habitación solo se concederán, en su caso, a quien demuestre, a satisfacción del Instituto, carecer de una casa-habitación de su propiedad.
+V. Autorizar la adquisición o, en su caso, la enajenación de bienes inmuebles del Instituto, a propuesta del Director General, conforme a lo previsto en la presente Ley, su Reglamento y demás normativa aplicable;
 
-> <small>(REFORMADO, [N. DE E. ADICIONADO] P.O. 23 DE AGOSTO DE 2000)</small>
+VI. Autorizar a propuesta del Director General, la baja y destino final de los bienes muebles cuando fuere necesario, conforme al Reglamento y la normativa aplicable;
 
-Los bienes inmuebles adjudicados judicial o extrajudicialmente al Instituto por la recuperación de créditos podrán enajenarse a los trabajadores de acuerdo con los procedimientos para el otorgamiento de créditos hipotecarios, debiendo satisfacerse los requisitos previstos en esta Ley y su reglamento.
+VII. Aprobar y proponer la modificación o expedición, según corresponda, de proyectos relacionados con la presente Ley, el Estatuto Orgánico, así como las Condiciones Generales de Trabajo y demás instrumentos normativos que se requieran para el cumplimiento del objeto del Instituto, en coordinación con las demás autoridades competentes y conforme las disposiciones jurídicas aplicables;
 
-###### ARTICULO 41.
+VIII. Aprobar los programas de créditos propuestos por el Director General;
 
-El Instituto vigilará que los beneficiarios de créditos hipotecarios, sean asegurados hasta que el crédito sea cubierto, para que en caso de su fallecimiento el empréstito se cancele en favor de los familiares señalados por el Trabajador. El importe de la prima correspondiente quedará a cargo del beneficiario del crédito.
+IX. Aprobar la creación de órganos de apoyo necesarios para la operación del Instituto;
 
-###### ARTICULO 42.
+X. Designar y cambiar, a propuesta del Director General, a los servidores públicos del Instituto que se determinen en el Estatuto Orgánico;
 
-En los casos de Trabajadores que se vean impedidos por separación y otras causas graves, calificadas así por el Instituto, de cubrir los abonos del crédito hipotecario; del contrato de venta con garantía hipotecaria; con reserva de dominio; o de promesa de venta; se les concederá, a su solicitud, un plazo de espera hasta de seis meses, transcurridos los cuales deberán reanudar sus pagos, cubriendo el adeudo anterior en el plazo y condiciones señaladas por el Instituto.
+XI. Autorizar, cuando se justifique, la contratación de un despacho externo para que realice la recuperación de la cartera vencida, conforme al Reglamento y la normativa aplicable, y
 
-###### ARTICULO 43.
+XII. Aprobar, a solicitud del Director General, los criterios para condonar los intereses moratorios a los entes obligados, afiliados y acreditados.
 
-El Gobierno y la Administración del Instituto, estará a cargo de un Consejo Directivo y un Director.
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2016)</small>
 
-El Consejo Directivo estará integrado por nueve Consejeros, de la siguiente manera:
+#### SECCIÓN QUINTA. DE LA DIRECCIÓN GENERAL
 
-a).- El Gobernador del Estado, quien lo presidirá, por sí o por un representante que designe al efecto;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-b).- Un representante de la Secretaría de Hacienda;
+###### Artículo 16.
 
-c).- Un representante de la Secretaría de la Contraloría;
+La administración del Instituto estará a cargo del Director General quien será nombrado y removido libremente por el Gobernador, o previo acuerdo con la Secretaría o Dependencia coordinadora del sector al que pertenece el Instituto, dicha designación quedará a cargo del Consejo Directivo, en términos de lo dispuesto por la Ley Orgánica.
 
-d).- Un representante de la Secretaría de Administración;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-e).- Un representante Sindical del Poder Ejecutivo del Estado;
+###### Artículo 17.
 
-f).- Un representante Sindical del Poder Judicial del Estado;
+Para ser Director General es necesario contar con los requisitos que se establecen en el artículo 83 de la Ley Orgánica.
 
-g).- Un representante Sindical del Poder Legislativo del Estado;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-h).- Un representante del Poder Judicial; y
+###### Artículo 18.
 
-i).- Un representante del Poder Legislativo.
+El Director General, además de las conferidas por la Ley Orgánica y demás normativa aplicable, cuenta con las atribuciones siguientes:
 
-###### ARTICULO 44.
+I. Atender las solicitudes que le sean planteadas por los afiliados, acreditados, beneficiarios o terceros;
 
-El Director del Instituto tendrá únicamente voz informativa en el Consejo y será designado y removido libremente por el C. Gobernador del Estado de Morelos.
+II. Autorizar la suspensión de trámites a los afiliados en los que presenten documentos o instrumentos presuntamente apócrifos;
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+III. Proponer al Consejo Directivo la apertura de Delegaciones del Instituto, dentro del territorio estatal;
 
-###### ARTICULO 45.
+IV. Nombrar y remover libremente al personal del Instituto conforme a la normativa aplicable y cuya designación no esté a cargo del Consejo Directivo;
 
-Los acuerdos se tomarán por mayoría de votos de los miembros del Consejo Directivo que asistan a la Sesión. Para que haya quórum legal para sesionar, será necesaria la presencia de cinco de sus miembros.
+V. Proponer al Consejo Directivo las modificaciones a la estructura orgánica;
 
-###### ARTICULO 46.
+VI. Vigilar la correcta aplicación de los recursos financieros del Instituto;
 
-Son facultades y obligaciones del Consejo Directivo:
+VII. Informar al Consejo Directivo en cada sesión ordinaria, el número de créditos hipotecarios aprobados por el Comité Técnico de Créditos Hipotecarios;
 
-a).- Cumplir y hacer cumplir todas las disposiciones de esta Ley.
+VIII. Proponer al Consejo Directivo proyectos de reforma al marco jurídico que regula al Instituto que requieran de su aprobación, modificación o creación;
 
-b).- Administrar el patrimonio y autorizar sus inversiones.
+IX. Proponer al Consejo Directivo los programas de crédito que estime convenientes;
 
-c).- Planificar las operaciones del Instituto y aprobar sus presupuestos anuales.
+X. Someter a la autorización del Consejo Directivo las adecuaciones presupuestales necesarias, sin rebasar el monto autorizado anualmente y, en su caso, ejercerlas, y
 
-d).- Nombrar y remover libremente al Personal del Instituto.
+XI. Determinar las medidas necesarias para asegurar que los afiliados, acreditados y entes obligados cumplan las obligaciones y se respeten sus derechos establecidos en la presente Ley, su Reglamento y demás normativa aplicable.
 
-e).- Formular, aprobar y poner en vigor el reglamento interno del Instituto.
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2016)</small>
 
-f).- Revisar los estados contables mensuales y los balances anuales del patrimonio, para autorizarlos.
+#### SECCIÓN SEXTA. DEL ÓRGANO INTERNO DE CONTROL
 
-g).- Proponer al Ejecutivo del Estado los proyectos de reformas a esta Ley y la expedición de sus reglamentos.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-h).- (DEROGADO, P.O. 23 DE AGOSTO DE 2000)
+###### Artículo 19.
 
-i).- Acordar o realizar todos aquellos actos que sean convenientes para la mejor administración del Instituto.
+El Instituto contará con un Órgano Interno de Control, que dependerá del Consejo Directivo, el cual estará a cargo de un Comisario Público propietario y un suplente, designados por la Secretaría de la Contraloría del Poder Ejecutivo Estatal, de conformidad con lo dispuesto por la Ley Orgánica, el cual tendrá como finalidad apoyar la función directiva y promover el mejoramiento de gestión del Instituto.
 
-###### ARTICULO 47.
+Las funciones del Comisario Público se realizarán de acuerdo con las políticas que dicte la Secretaría de la Contraloría del Poder Ejecutivo Estatal y se sujetarán a las disposiciones normativas establecidas en la Ley Orgánica.
 
-El Director del Instituto tendrá las obligaciones y facultades siguientes:
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2000)</small>
+#### SECCIÓN SÉPTIMA. DE LAS SUPLENCIAS Y LAS RESPONSABILIDADES
 
-I.- Representar al Instituto ante toda clase de autoridades y personas de derecho público o privado, con todas las facultades, aún aquellas que requieran autorización especial, que corresponden a los apoderados generales para pleitos y cobranzas, actos de administración y de riguroso dominio en términos del artículo 2762 del Código Civil del Estado de Morelos;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-II.- Presentar a la consideración del Consejo Directivo:
+###### Artículo 20.
 
-a).- Los proyectos de los presupuestos anuales de ingresos, egresos y el programa de inversiones.
+Las suplencias del Director General y de las personas titulares de las unidades administrativas del Instituto se regirán por lo previsto en el Estatuto Orgánico.
 
-b).- Las proposiciones para las designaciones, movimientos y licencias del personal del Instituto.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-c).- Los estados mensuales de contabilidad, balances anuales y cortes de caja del patrimonio; y,
+###### Artículo 21.
 
-d).- Los proyectos de reformas o adiciones a los reglamentos internos.
+Los integrantes del Consejo Directivo, así como el personal de apoyo administrativo y operativo que, en el desempeño de sus funciones, incurran en acciones u omisiones previstas en la Ley Estatal de Responsabilidades de los Servidores Públicos, serán sujetos al respectivo procedimiento administrativo sancionador.
 
-III.- Ejecutar los acuerdos del Consejo Directivo.
+En su caso, también podrán ser sujetos a las sanciones previstas en la legislación penal, cuando además hubieran incurrido en la comisión de conductas delictivas.
 
-IV.- Organizar y cuidar la administración del Instituto.
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2016)</small>
 
-V.- Convocar a Sesiones ordinarias y extraordinarias del Consejo Directivo.
+#### SECCIÓN OCTAVA. DE LAS RELACIONES LABORALES
 
-VI.- Despachar los acuerdos del Consejo y la correspondencia del Instituto.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-VII.- Informar cada año al Consejo Directivo en los primeros diez días del mes de Enero, del estado financiero del patrimonio y del cumplimiento de las obligaciones económicas a cargo del Instituto.
+###### Artículo 22.
 
-> <small>(REFORMADA, [N. DE E. ADICIONADA] P.O. 23 DE AGOSTO DE 2000)</small>
+Las relaciones laborales entre el Instituto y sus trabajadores se regirán por las Condiciones Generales de Trabajo y demás normativa aplicable.
 
-VIII.- Otorgar, sustituir y revocar poderes generales y especiales, con todas las facultades, aún las que requieran cláusula especial;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-> <small>(REFORMADA, [N. DE E. ADICIONADA] P.O. 23 DE AGOSTO DE 2000)</small>
+###### Artículo 23.
 
-IX.- Presentar denuncias, formular querellas y otorgar perdón, así como ejercitar y desistirse de acciones judiciales aún las del juicio de amparo y formular y absolver posiciones; y
+Las funciones y perfiles de los servidores públicos asignados al Instituto serán definidos en los Manuales Administrativos aprobados por el Consejo Directivo.
 
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2000)</small>
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2016)</small>
 
-X.- Todas las demás que le confiera la presente Ley o le señale el Consejo Directivo.
+#### SECCIÓN NOVENA. DISPOSICIONES FINALES
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 24.
+
+Los casos no previstos en el presente Capítulo se resolverán mediante acuerdo del Consejo Directivo, conforme a las disposiciones jurídicas aplicables y las consideraciones realizadas por la Secretaría o Dependencia coordinadora del sector al que pertenece el Instituto.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+### CAPÍTULO III. DE LOS ENTES OBLIGADOS
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 25.
+
+Son entes obligados para efectos de esta Ley:
+
+I. El Poder Ejecutivo Estatal;
+
+II. El Poder Legislativo Estatal;
+
+III. El Poder Judicial Estatal;
+
+IV. Los Ayuntamientos del estado de Morelos y sus organismos auxiliares;
+
+V. Los organismos autónomos constitucionales del estado de Morelos, y
+
+VI. Los organismos auxiliares de la Administración Pública Estatal.
+
+Los entes a que se refieren las fracciones IV, V y VI del presente artículo, se obligan en los términos de la presente Ley y del convenio de incorporación que suscriban con el Instituto.
+
+Quedan excluidos de los beneficios de esta Ley los sujetos señalados en el segundo párrafo del artículo 2 de la Ley del Servicio Civil del Estado de Morelos.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 26.
+
+Los entes obligados tienen a su cargo:
+
+I. Proporcionar seguridad social en materia de vivienda a través del Instituto, a los servidores públicos o pensionistas con los que guarden relación laboral o, en su caso, administrativa;
+
+II. Avisar al Instituto dentro de los diez días naturales siguientes a la fecha en que ocurran las altas, bajas y modificaciones salariales sujetas a cotización de los afiliados;
+
+III. Enterar en tiempo y forma las cuotas, aportaciones y las amortizaciones de los créditos otorgados;
+
+IV. Registrar el número de días laborados y la percepción constante de los afiliados;
+
+V. Enviar al Instituto con anticipación de al menos tres días hábiles al pago de la nómina de sus trabajadores, los archivos electrónicos en los que consten las retenciones por concepto de cuotas, créditos y aportaciones, así como las percepciones constantes de los afiliados o cualquier otro elemento que, al efecto, sea requerido;
+
+VI. Proporcionar los elementos necesarios para precisar la existencia de actos, derechos u obligaciones que le solicite el Instituto respecto de los afiliados;
+
+VII. Informar, cuando así lo solicite el Instituto, situaciones específicas o genéricas, a efecto de verificar la información que sea proporcionada por los afiliados, y
+
+VIII. Las demás responsabilidades que les imponga el Consejo Directivo para el cumplimiento del objeto de la Ley.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 27.
+
+Además de lo previsto en el artículo anterior, los entes obligados deberán enterar al Instituto, dentro de los primeros treinta días naturales a la fecha de corte de nómina, el monto de sus aportaciones, así como las retenciones realizadas a los afiliados por concepto de cuotas y créditos otorgados.
+
+El incumplimiento de esta obligación dará origen al pago de intereses moratorios a razón de la tasa prevista en el Reglamento y demás normativa aplicable.
+
+(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 28.
+
+La demora en el pago de las aportaciones y cuotas por más de treinta días naturales a cargo de los entes obligados, será causa para la suspensión inmediata de los servicios que les concede esta Ley por conducto del Instituto a los respectivos afiliados; una vez cubierto el total del adeudo en mora, dichos servicios serán reanudados.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+### CAPÍTULO IV. DE LOS AFILIADOS, AVALES Y DEUDORES SOLIDARIOS
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2016)</small>
+
+#### SECCIÓN PRIMERA. DE LOS AFILIADOS
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 29.
+
+Tienen la calidad de afiliados, con los derechos y obligaciones que otorga esta Ley:
+
+I. Los trabajadores al servicio de alguno de los entes obligados, y
+
+II. Los pensionistas que continúen cotizando al Instituto.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 30.
+
+Los derechos y las obligaciones del Instituto con los afiliados, nacen concomitantemente con el pago de las cuotas y las aportaciones.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 31.
+
+Los afiliados para que reciban las prestaciones establecidas en esta Ley, deberán cumplir con los requisitos que determine el Instituto, previstos en el Reglamento y demás normativa aplicable.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 32.
+
+La autorización de los créditos está sujeta a la capacidad de pago del afiliado, conforme lo determine el Reglamento y la normativa aplicable.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 33.
+
+Los afiliados que soliciten y obtengan cualquier tipo de crédito, se obligan a cubrir el número de parcialidades estipuladas en los instrumentos jurídicos respectivos y por los montos convenidos, aun y cuando esas no le sean retenidas vía nómina por el ente obligado.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 34.
+
+Los afiliados, además de cubrir el capital, quedan obligados a cubrir el interés ordinario sobre saldo insoluto y, en su caso, el interés moratorio, conforme lo establezca el Reglamento y la normativa aplicable.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 35.
+
+Las prestaciones económicas otorgadas a los afiliados son personales e intransferibles.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 36.
+
+Los afiliados impedidos para acudir a tramitar los créditos correspondientes, podrán solicitarlos a través de tercera persona, siempre y cuando se le otorgue poder notarial con las facultades necesarias para ello. El importe máximo será el equivalente al monto de sus aportaciones y no podrán solicitar créditos para mediano y largo plazo.
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2016)</small>
+
+#### SECCIÓN SEGUNDA. DE LOS AVALES
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 37.
+
+El aval es el afiliado que se obliga, con tal carácter, en forma conjunta, solidaria y mancomunada con otro afiliado con calidad de deudor, al cumplimiento y pago, en su caso, de la obligación principal, intereses ordinarios, intereses moratorios y demás gastos accesorios, salvo los criterios establecidos por acuerdo del Consejo Directivo con relación a los intereses moratorios.
+
+REFORMADO, P.O. 21 DE JULIO DE 2016)
+
+###### Artículo 38.
+
+El aval autorizará por escrito al Instituto que, mediante la base de datos que existe en su sistema informático, verifique que:
+
+I. Es servidor público en activo o pensionista, requisito que acreditará con su comprobante de pago inmediato anterior a la fecha en que sea propuesto como aval;
+
+II. Su capacidad de pago y de endeudamiento, no rebase el porcentaje de ingresos nominales que, al efecto, se establezca en la normativa aplicable, y
+
+III. Únicamente tenga un crédito avalado a favor de otro servidor público.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 39.
+
+El aval autorizará por escrito que, en caso de que el Instituto no reciba el pago de las amortizaciones del crédito de su avalado, ese le sea descontado vía nómina hasta cubrir la totalidad del adeudo.
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2016)</small>
+
+#### SECCIÓN TERCERA. DE LOS DEUDORES SOLIDARIOS
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 40.
+
+El deudor solidario será preferentemente el cónyuge o el concubinario o concubina del afiliado; también podrán serlo un pariente por consanguinidad hasta el cuarto grado o persona que no dependa económicamente del afiliado, pero que compruebe a satisfacción del Instituto su solvencia económica.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+### CAPÍTULO V. DE LAS APORTACIONES, CUOTAS Y RETENCIONES
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 41.
+
+Tienen el carácter de obligatorias las aportaciones a cargo de los entes obligados, cuya base de cotización será el 6% sobre las percepciones constantes de los afiliados, las cuales deberán quedar consignadas en sus respectivos Presupuestos de Egresos.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 42.
+
+Tienen el carácter de obligatorias las cuotas a cargo de los afiliados, cuya base de cotización será el 6% sobre sus percepciones constantes, mismas que serán retenidas por los entes obligados y enteradas al Instituto en términos de lo dispuesto en la presente Ley y demás normativa aplicable.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 43.
+
+Tienen el carácter de obligatorias las retenciones que el ente obligado descuente de las percepciones constantes a los afiliados, por concepto de créditos que como deudor principal o aval haya suscrito.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 44.
+
+Las cuotas constituyen un fondo de garantía a favor del Instituto en caso de adeudo del afiliado o acreditado.
+
+El Instituto podrá disponer de las cuotas en caso de incumplimiento en el pago del crédito, en términos de la normativa aplicable.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 45.
+
+El afiliado deberá avisar inmediatamente por escrito al Instituto cuando inicie su trámite de pensión, con el fin de salvaguardar sus cuotas y éstas no sean aplicadas a sus adeudos.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 46.
+
+El afiliado tendrá derecho a la devolución de sus cuotas en caso de baja del servicio, pasado un año de su separación correspondiente; excepto que cuente con uno o más créditos vigentes; en este supuesto, serán aplicadas al saldo de esos créditos, de conformidad con lo previsto en la normativa aplicable.
+
+El derecho de los afiliados a la devolución de sus cuotas prescribe en un plazo de cinco años, conforme a lo que se establezca en la normativa aplicable.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 47.
+
+El beneficiario designado por el afiliado o el tutor interino determinado por autoridad judicial competente, en caso de estado de interdicción del afiliado, tendrá derecho a la devolución de las cuotas, en términos de lo dispuesto en la normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 48.
+
+En caso de fallecimiento del afiliado, tendrán derecho a la devolución inmediata de las cuotas, sus beneficiarios o la persona física o jurídica determinada por resolución de autoridad competente.
+
+En este caso, la devolución de las cuotas prescribe en cinco años, contados a partir del día siguiente al de la fecha de su última aportación, según lo establezca la normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 49.
+
+El ente obligado podrá solicitar al Instituto reintegros por pagos improcedentes en un plazo no mayor a treinta días naturales, contados a partir de la fecha de pago de nómina de los afiliados. En el caso de las nóminas del mes de diciembre, el Instituto sólo realizará pagos por este concepto, si son solicitados por el ente obligado durante los primeros veinte días naturales del mes de enero del ejercicio presupuestal siguiente.
+
+Los reintegros no podrán ser retenidos por el ente obligado del total de los enteros que debe realizar al Instituto por concepto de cuotas, aportaciones y retenciones de créditos o servicios.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 50.
+
+El afiliado que preste servicios compatibles en dos o más entes obligados, cotizará conforme lo señale el Reglamento.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE JULIO DE 2016)</small>
+
+### CAPÍTULO VI. DE LAS PRESTACIONES ECONÓMICAS
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 51.
+
+Los afiliados al Instituto que se encuentren al corriente de sus aportaciones y cuotas, tendrán derecho a las prestaciones económicas a que se refiere el presente Capítulo, en igualdad de condiciones, conforme a lo previsto en la normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 52.
+
+En cualquier caso, el capital y los intereses deberán pagarse en amortizaciones catorcenales, quincenales, mensuales o el plazo determinado por el ente obligado, según corresponda.
+
+Las primas de los seguros aplicables, se cubrirán conforme a lo dispuesto en la normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 53.
+
+El Instituto se abstendrá de otorgar créditos al afiliado que como deudor principal o aval presente mora en sus pagos.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 54.
+
+Los bienes inmuebles adjudicados judicial o extrajudicialmente por el Instituto, con motivo de la recuperación de créditos, se regirán en lo conducente por la Ley General de Bienes del Estado de Morelos; empero, se autoriza de manera general al Instituto para enajenarlos, fuera de subasta pública, adjudicándolos preferentemente a los servidores públicos o una persona física o moral particular conforme al procedimiento establecido en el Reglamento.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 55.
+
+Los bienes muebles adjudicados judicial o extrajudicialmente al Instituto por la recuperación de créditos, serán susceptibles de enajenación, mediante el proceso que establece la normativa de la materia aplicable.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 56.
+
+El Instituto podrá implementar los programas de créditos que estime convenientes.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE JULIO DE 2016)</small>
+
+#### SECCIÓN PRIMERA. DE LOS CRÉDITOS A LARGO PLAZO
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 57.
+
+Los créditos hipotecarios se ubican en la modalidad de largo plazo, y serán destinados exclusivamente para atender las necesidades en materia de vivienda.
+
+Los bienes inmuebles materia de crédito deberán ubicarse dentro del territorio del estado de Morelos.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 58.
+
+Los créditos hipotecarios se otorgarán con los siguientes fines:
+
+I. Adquisición de vivienda;
+
+II. Dirimir gravamen en bien inmueble propio;
+
+III. Construcción en terreno propio, y
+
+IV. Remodelación, ampliación o mejora en bien inmueble propio.
+
+Los créditos hipotecarios serán revisados y aprobados por el Comité Técnico de Créditos Hipotecarios.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 59.
+
+Los créditos hipotecarios se otorgarán a los afiliados conforme lo dispuesto en la presente Ley y la normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 60.
+
+El Director General podrá conceder un plazo de espera de hasta de seis meses, sin causar intereses moratorios, por una sola ocasión durante la vigencia del crédito hipotecario, previa solicitud que por escrito presente el afiliado que se separe del servicio público, siempre y cuando se encuentre al corriente en sus pagos.
+
+El plazo de espera no implica una ampliación de la vigencia del crédito, por lo que éste deberá cubrirse en el plazo originalmente pactado en el contrato con interés y garantía hipotecaria.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE JULIO DE 2016)</small>
+
+#### SECCIÓN SEGUNDA. DE LOS CRÉDITOS A MEDIANO PLAZO
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 61.
+
+Los créditos a mediano plazo son aquellos que se pagan en un plazo máximo de seis años, de conformidad con lo dispuesto en la normativa aplicable.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE JULIO DE 2016)</small>
+
+#### SECCIÓN TERCERA. DE LOS CRÉDITOS A CORTO PLAZO
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 62.
+
+Los créditos a corto plazo satisfacen necesidades emergentes del afiliado con un plazo de amortización de hasta veinticuatro meses de conformidad con lo dispuesto en la normativa aplicable.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE JULIO DE 2016)</small>
+
+### CAPÍTULO VII. DE LAS PRESTACIONES SOCIALES
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 63.
+
+Las prestaciones sociales que el Instituto otorga a sus afiliados tienen como objeto complementar las diversas prestaciones económicas, y son las siguientes:
+
+I. Servicios de odontología;
+
+II. Servicios de optometría, y
+
+III. Cualquier otra que proponga el Director General a la aprobación del Consejo Directivo.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 64.
+
+Las prestaciones sociales que brinde el Instituto estarán sujetas a lo dispuesto por la normativa aplicable.
 
 T R A N S I T O R I O S :
 
@@ -488,3 +862,25 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 21 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO NOVECIENTOS OCHENTA Y OCHO POR EL QUE SE REFORMA DE MANERA INTEGRAL LA LEY DEL INSTITUTO DE CRÉDITO PARA LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE MORELOS, CON EL PROPÓSITO DE RATIFICAR SU COMPETENCIA Y ATRIBUCIONES”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+CUARTA. Dentro de un plazo no mayor a sesenta días hábiles, contados a partir del día siguiente al de la entrada en vigor del presente Decreto, deberá instalarse con su nueva integración el Consejo Directivo del Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado.
+
+QUINTA. Dentro de un plazo no mayor a ciento veinte días hábiles, contados a partir de la instalación del Consejo Directivo a que se hace referencia en la disposición transitoria que antecede, deberá expedirse el Estatuto Orgánico del Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado, en términos de la normativa aplicable.
+
+SEXTA. Dentro del mismo plazo a que hace referencia la disposición anterior, se deberá expedir el Reglamento de la Ley del Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado.
+
+SÉPTIMA. Dentro del plazo de ciento ochenta días hábiles, contados a partir del día siguiente a la entrada en vigor del presente Decreto, se deberán adecuar o celebrar los convenios de incorporación respectivos.
+
+OCTAVA. Dentro de un plazo de diez días hábiles, contados a partir del inicio de la vigencia de este Decreto, el Director General deberá solicitar en el Registro Público de los Organismos Descentralizados del Estado de Morelos, a cargo de la Secretaría de Hacienda del Poder Ejecutivo Estatal, la inscripción de este instrumento jurídico, de conformidad con lo dispuesto en el artículo 86 de la Ley Orgánica de la Administración Pública del Estado de Morelos.
+
+NOVENA. Los créditos y servicios concedidos con antelación al inicio de la vigencia del presente Decreto se regirán conforme a las disposiciones bajo las cuales fueron aprobados.
