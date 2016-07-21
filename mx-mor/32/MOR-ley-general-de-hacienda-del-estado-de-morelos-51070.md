@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2016-02-17"
+last_updated: "2016-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "MOR"
 ---
 # LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE AGOSTO DE 2016 EN EL PERIÓDICO OFICIAL DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO NÚMERO CIENTO VEINTIUNO, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 8 DE DICIEMBRE DE 2015, VÉASE SU ARTÍCULO SEGUNDO TRANSITORIO.]</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2015.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 17 DE FEBRERO DE 2016.]
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -2561,25 +2559,19 @@ B) FUENTES MÓVILES
 
 1.5. Holograma tipo E"; exento
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
 2. Por otorgamiento de autorización para establecer, equipar
 
-y operar un verificentro o centro de diagnóstico de
+y operar un verificentro, por cada equipo analizador de gases,
 
-emisiones contaminantes en el Estado de Morelos,
+en los términos de la Ley del Equilibrio Ecológico y la Protección
 
-por cada equipo analizador de gases, con vigencia de
+al Ambiente del Estado de Morelos y la Convocatoria que
 
-cinco años: $51,813.00
+corresponda $51,813.00
 
-3. Por la renovación de la autorización para establecer,
-
-equipar y operar verificentro o centro de diagnóstico
-
-de emisiones contaminantes en el Estado de Morelos,
-
-por cada equipo analizador de gases, con vigencia de
-
-cinco años: $51,813.00
+3. (DEROGADO, P.O. 21 DE JULIO DE 2016)
 
 4. Por la alta de un técnico verificador de
 
@@ -2741,9 +2733,11 @@ D) Venta de planta frutal a público en general (por unidad):
 
 IV. EN MATERIA DE GESTIÓN INTEGRAL DE RESIDUOS:
 
-A) Autorizaciones en materia de gestión integral de residuos en sus
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2016)</small>
 
-diferentes modalidades:
+A) Autorizaciones o concesiones en materia de gestión integral
+
+de residuos en sus diferentes modalidades:
 
 1. De transporte de residuos sólidos urbanos y de manejo
 
@@ -2777,7 +2771,7 @@ de acopio de residuos sólidos urbanos y de manejo especial:
 
 4. De capacidad de tratamientos térmicos, químicos,
 
-físicos o biológicos dé residuos sólidos urbanos·
+físicos o biológicos dé residuos sólidos urbanos•
 
 y de manejo especial:
 
@@ -2824,6 +2818,74 @@ urbanos y de manejo especial: $1,274.00
 proyectos comerciales, de servicios, habitacionales en
 
 centros urbanos o ecoturísticos o agropecuarios: $8.00
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2016)</small>
+
+8. De operación y administración de plantas de valorización
+
+de residuos sólidos y comercialización de productos y
+
+subproductos
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+8.1. Plantas o unidades de valorización de residuos
+
+Sólidos $51,813.00
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+8.2. Comercialización de productos y subproductos
+
+derivados de la actividad $51,813.00
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+8.3. Plantas industriales de metanización de la
+
+fracción orgánica de residuos sólidos urbanos
+
+$51,813.00
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2016)</small>
+
+9. Disposición de residuos sólidos urbanos a los
+
+Ayuntamientos del Estado de Morelos
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+9.1. Por tonelada de residuos mezclados
+
+$58.00
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+9.2. Por tonelada de residuos separados
+
+(separación primaria al 100%) $58.00
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2016)</small>
+
+10. Disposición de residuos sólidos urbanos a
+
+particulares
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+10.1. Por tonelada $210.00
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2016)</small>
+
+11. Combustible Derivado de Residuos
+
+(CDR)
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+11.1. Por kcal de acuerdo a su valor promedio
+
+$0.05
 
 B) Manifiesto de entrega-recepción de residuos sólidos
 
@@ -5023,7 +5085,7 @@ TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico n
 
 P.O. 8 DE DICIEMBRE DE 2015.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CIENTO VEINTIUNO POR EL QUE SE, REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CIENTO VEINTIUNO POR EL QUE SE, REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS”.]
 
 PRIMERO.- REMÍTASE EL PRESENTE DECRETO AL TITULAR DEL PODER EJECUTIVO DEL ESTADO, PARA LOS EFECTOS DE LO DISPUESTO POR LOS ARTÍCULOS 44, 47 Y 70, FRACCIÓN XVII, INCISO A), DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
@@ -5046,3 +5108,15 @@ El SUBSIDIO A QUE SE REFIERE LA PRESENTE DISPOSICIÓN TRANSITORIA, NO OTORGA A L
 > <small>(F. DE E., P.O. 17 DE FEBRERO DE 2016)</small>
 
 LA PRESENTE DISPOSICIÓN ESTARÁ VIGENTE HASTA EL 30 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO NOVECIENTOS NOVENTA Y CUATRO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS Y DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS, EN MATERIA DE VERIFICACIÓN VEHICULAR Y EMISIONES A LA ATMÓSFERA".]
+
+P.O. 21 DE JULIO DE 2016.
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. En un plazo no mayor a 180 días hábiles contados a partir del día siguiente al que dé inicio la vigencia del presente Decreto, deberán actualizarse o modificarse las disposiciones reglamentarias que derivan de los instrumentos legislativos reformados.
+
+CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
