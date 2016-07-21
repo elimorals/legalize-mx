@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-15645"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-22"
-last_updated: "2016-05-04"
+last_updated: "2016-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE AGOSTO DE 2016 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial Sección Segunda, el miércoles 22 de diciembre de 1999.
 
@@ -45,7 +47,7 @@ De esta manera los motivos que impulsaron la reforma a la legislación ambiental
 
 En términos generales esta Ley materia del presente dictamen parte de una perspectiva preventiva y no punitiva, es decir, se considera que en la medida en que se cumplan medidas anticipadas señaladas por la Ley, se evitarán acciones que causen desequilibrio ecológico o que atenten contra el ambiente, y por lo tanto las sanciones. Así mismo, ésta Ley es dinámica en la medida en que deja espacios para posibilitar la adaptación necesaria a la cambiante situación ambiental y a la evolución del conocimiento, a la vez que permite la articulación con otros preceptos legales, tales como el Código Penal.
 
-Por otra parte, de acuerdo a la nueva etapa del federalismo que coordina la soberanía de los Estados, la libertad de los Municipios así como las facultades constitucionales del Gobierno Federal, y que ha permitido el avance de las políticas de descentralización y desconcentración en diversas materias hacia las Entidades Federativas y los Municipios, y a su vez posibilita que estos puedan asumir mayores responsabilidades en materia ambiental, para atender de manera directa los problemas de cada localidad. Ésta Ley clarifica la injerencia de los actores definiendo la competencia de las autoridades y la integración de los diferentes niveles de gobierno. A su vez reconoce la participación de la sociedad en las tareas ambientales a través de ciertos organismos establecidos y amplía los márgenes legales de participación ciudadana en la gestión ambiental por medio de mecanismos tales como la denuncia popular, el acceso a la información ambiental y la posibilidad de impugnar por vía jurídica los actos que dañen al ambiente en contravención de la normatividad vigente.
+Por otra parte, de acuerdo a la nueva etapa del federalismo que coordina la soberanía de los Estados, la libertad de los Municipios así como las facultades constitucionales del Gobierno Federal, y que ha permitido el avance de las políticas de descentralización y desconcentración en diversas materias hacia las Entidades Federativas y los Municipios, y a su vez posibilita que estos puedan asumir mayores responsabilidades en materia ambiental, para atender de manera directa los problemas de cada localidad. Ésta Ley clarifica la injerencia de los actores definiendo la competencia de las autoridades y la integración de los diferentes niveles de gobierno. A su vez reconoce la participación de la sociedad en las tareas ambientales a través de ciertos organismos establecidos y amplia los márgenes legales de participación ciudadana en la gestión ambiental por medio de mecanismos tales como la denuncia popular, el acceso a la información ambiental y la posibilidad de impugnar por vía jurídica los actos que dañen al ambiente en contravención de la normatividad vigente.
 
 Respecto a la estructura el documento pretende ser un instrumento claro en cuanto a lenguaje y mecanismos, así mismo de fácil consulta, y manejo. En este sentido la estructura que se presenta en el índice, los cuatro primeros títulos definen aspectos generales, la política, el papel del Estado y la participación social. Los tres siguientes corresponden a la preservación del equilibrio ecológico a través del aprovechamiento de los elementos naturales y de la protección de la biodiversidad y del ambiente.
 
@@ -1703,9 +1705,147 @@ III. Realicen investigaciones de tecnología cuya aplicación disminuya la gener
 
 IV. Ubiquen o relocalicen sus instalaciones para evitar emisiones contaminantes en zonas urbanas.
 
-### CAPÍTULO III. Prevención y control de la contaminación del agua y de los recursos acuáticos
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE JULIO DE 2016)</small>
 
-### CAPÍTULO IV. Prevención y control de la contaminación del suelo
+### CAPITULO II BIS. De los centros de verificación
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+ARTÍCULO 126 BIS. La Secretaría otorgará, atendiendo a las necesidades de los servicios de verificación de fuentes móviles de su competencia, y previa convocatoria pública y posterior solicitud, autorizaciones a los interesados que cumplan los requisitos correspondientes.
+
+Para tal efecto, la Secretaría publicará las convocatorias en el Periódico Oficial, en las cuales se determinarán los elementos materiales y humanos y demás condiciones que deberán reunir los centros de verificación para obtener la autorización, las normas y procedimientos de verificación que se deberán observar, así como el número y ubicación de las instalaciones de los verificadores ambientales.
+
+Los interesados en obtener autorización para establecer, equipar y operar centros de verificación vehicular obligatoria con reconocimiento oficial, deberán presentar solicitud ante la Secretaría, reuniendo los requisitos que se establezcan en el Reglamento correspondiente de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+ARTÍCULO 126 TER. Quienes realicen verificaciones de vehículos automotores y entreguen los documentos que acrediten su aprobación sin contar con la autorización correspondiente, serán sancionados en los términos de esta Ley y las demás disposiciones jurídicas aplicables.
+
+Será revocada la autorización a los centros de verificación vehicular que presten el servicio de verificación a un vehículo, realizando pruebas trampeadas con la finalidad de modificar los resultados para lograr la aprobación de emisiones de algún vehículo, como son:
+
+I. Alterar el equipo o la toma de la muestra;
+
+II. Verificar un vehículo para aprobar otro;
+
+III. Capturar la información de identidad de un vehículo que no corresponda al que realmente efectuó la prueba;
+
+IV. Usar cualquier dispositivo o sistema no autorizado; y
+
+V. Las demás que se establezcan en el Reglamento correspondiente de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+ARTÍCULO 126 QUATER. Los centros de verificación vehicular deberán obtener y mantener vigentes las siguientes pólizas de:
+
+I. Fianza para garantizar el cumplimiento de las obligaciones y condiciones establecidas en esta Ley, el Reglamento correspondiente de la misma, el Programa de Verificación Vehicular, la autorización y circulares correspondientes, expedida por compañía autorizada por el equivalente a once mil quinientas veces el valor diario de la Unidad de Medida y Actualización;
+
+II. Fianza que garantice el buen uso, posesión, manejo, extravío, destrucción, pérdida por cualquier motivo o deterioro de la constancia de verificación que se utilice en el Programa de Verificación Vehicular vigente; así como la devolución oportuna del remanente de la documentación oficial, al término de cada uno de los periodos de verificación o en el caso de que el centro de verificación vehicular deje de prestar el servicio y cuidado de los documentos referidos, considerando el valor unitario, por un monto total y cantidad que se considere conveniente por la Secretaría, conforme se establezca en el Reglamento correspondiente de la presente Ley. La vigencia de esta fianza deberá renovarse durante el tiempo en que permanezca en vigor la autorización; y
+
+III. Seguro que ampare las constancias de verificación vehicular que se utilicen en el Programa de Verificación Vehicular vigente, contra los riesgos de incendio, inundación, robo con violencia o asalto y terremoto, considerando el valor unitario, por un monto total y cantidad que se considere conveniente por la Secretaría, conforme se establezca en el Reglamento correspondiente de la presente Ley. La vigencia de este seguro deberá renovarse durante el tiempo en que permanezca en vigor la autorización.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+ARTÍCULO 126 QUINTUS. La autorización a que se refiere este Capítulo tendrá la vigencia que se indique en la convocatoria, la que podrá darse por terminada cuando:
+
+I. La Secretaría modifique las condiciones conforme a las que deberá prestarse el servicio;
+
+II. Concluya el término de la autorización;
+
+III. Proceda la revocación de la autorización en los términos de la presente Ley; y
+
+IV. Las demás causas que se establezcan en el Reglamento correspondiente de la presente Ley.
+
+Para efectos de lo dispuesto en la fracción I, la Secretaría publicará en el Periódico Oficial "Tierra y Libertad" y en un diario de circulación estatal, las nuevas condiciones que se deberán cumplir, con la anticipación que se establezca en el Reglamento correspondiente de la presente Ley.
+
+Cuando los incumplimientos que se detecten en los centros de verificación sean atribuibles a los proveedores de maquinaria, equipos y servicios, estos serán responsables en términos de lo dispuesto por esta Ley.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+ARTÍCULO 126 SEXTUS. Las personas titulares de los centros de verificación vehicular están obligados a:
+
+I. Operar conforme a los sistemas, procedimientos, instalaciones, equipos, plazos y condiciones establecidos en esta Ley, las normas oficiales mexicanas, normas ambientales que establezca la Secretaría, el Reglamento correspondiente de la presente Ley, el programa de verificación vigente, la convocatoria, autorización y circulares correspondientes y demás normativa aplicable;
+
+II. Que el personal del centro de verificación vehicular esté debidamente capacitado y acreditado por la Secretaría;
+
+III. Mantener sus instalaciones y equipos calibrados en las condiciones requeridas por la normativa vigente y por la Secretaría, observando los requisitos que fije la misma para la debida prestación del servicio de verificación vehicular y conforme a la normativa aplicable;
+
+IV. Destinar exclusivamente a la verificación de emisiones contaminantes sus establecimientos respectivos, sin efectuar en éstos reparaciones mecánicas, venta de refacciones automotrices o cualquier otra actividad industrial, o realizar actividades comerciales o de servicios sin autorización de la Secretaría;
+
+V. Abstenerse de recibir documentación reportada como robada, falsificada o notoriamente alterada como soporte de las verificaciones vehiculares;
+
+VI. Llevar un registro con la información de las verificaciones efectuadas y remitir a la Secretaría los datos obtenidos en los términos fijados por ésta;
+
+VII. Dar aviso inmediato a la Secretaría cuando dejen de prestar el servicio de verificación vehicular o los equipos e instalaciones no funcionen debidamente, en cuyo caso se abstendrán de realizar verificaciones hasta en tanto se acredite que los mismos funcionen correctamente;
+
+VIII. Conservar en depósito y manejar debidamente los documentos que reciban de la Secretaría para acreditar la aprobación de la verificación vehicular, hasta que éstos sean entregados al interesado y, en su caso, adheridos a la fuente emisora de contaminantes;
+
+IX. Dar aviso inmediato a la Secretaría y presentar las denuncias correspondientes, en caso de robo o uso indebido de los documentos utilizados para acreditar la aprobación de la verificación vehicular;
+
+X. Enviar a la Secretaría, en los términos establecidos por ésta, la documentación e información requerida para la supervisión y control de la verificación;
+
+XI. Mantener durante las horas de funcionamiento a un representante legal y recibir las verificaciones administrativas que ordene la Secretaría en cualquier momento;
+
+XII. Que sus establecimientos cuenten con los elementos distintivos determinados por la Secretaría;
+
+XIII. Cobrar las tarifas autorizadas por la Secretaría por la prestación del servicio de verificación vehicular;
+
+XIV. Mantener en vigor la fianza correspondiente durante la vigencia de la autorización para prestar el servicio de verificación vehicular;
+
+XV. Corroborar que el equipo y programa de cómputo que se le instale para proporcionar el servicio de verificación vehicular, sea la versión autorizada por la Secretaría; de lo contrario, abstenerse de proporcionar el servicio;
+
+XVI. Abstenerse de ceder los derechos amparados por la autorización otorgada a su favor; y
+
+XVII. Las demás que se establezcan en el Reglamento correspondiente de la presente Ley.
+
+Cuando los centros de verificación vehicular incumplan con alguna de las normas establecidas en la presente Ley; la Secretaría podrá iniciar el procedimiento administrativo con base en la documentación e información que proporcionen o con la que disponga la Secretaría.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+ARTÍCULO 126 SEPTIMUS.- Por cada verificación vehicular que realicen los prestadores de servicios autorizados, expedirán a los interesados una constancia con los resultados, la cual contendrá la siguiente información:
+
+I. Fecha de la verificación vehicular y número de folio de la constancia;
+
+II. Identificación del prestador de servicios autorizado y de quien efectuó la verificación vehicular;
+
+III. Indicación de las normas oficiales o técnicas ecológicas locales aplicadas en la verificación vehicular;
+
+IV. Determinación del resultado de la verificación vehicular;
+
+V. Marca, submarca, año-modelo, número de placas de circulación y de serie; y
+
+VI. Las demás que señalen las normas oficiales, el Reglamento correspondiente de la presente Ley, el programa de verificación, la convocatoria, la autorización y circulares respectivas.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+ARTÍCULO 126 OCTAVUS. El original de la constancia de verificación se entregará al propietario o poseedor de la fuente emisora de contaminantes, adhiriendo inmediatamente, en caso de ser aprobatoria, el documento respectivo en un lugar visible de la propia fuente, que no obstaculice la visibilidad del conductor.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+ARTÍCULO 126 NONUS. Los proveedores de equipos y servicios para la operación de los centros de verificación vehicular deberán contar con la autorización de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+
+ARTÍCULO 126 DECIMUS. Los proveedores de equipos, programas de cómputo y servicios para la operación de centros de verificación de emisiones generadas por fuentes móviles están obligados a:
+
+I. Suministrar equipos, programas de cómputo y servicios que cumplan con la normativa correspondiente, proporcionando los manuales de operación;
+
+II. Garantizar que el personal que efectúe la instalación, suministro y mantenimiento esté debidamente capacitado y acreditado ante la Secretaría;
+
+III. En su caso, prestar los servicios de mantenimiento a los equipos instalados cerciorándose de que están calibrados y en óptimas condiciones, y observar que éstos cumplan con los requisitos que fije la Secretaría;
+
+IV. Llevar un registro con la información de las operaciones de mantenimiento y reparación de equipos y remitir un informe mensual a la Secretaría;
+
+V. Dar aviso a la Secretaría cuando dejen de prestar el servicio de suministro y mantenimiento de equipos y programas de cómputo;
+
+VI. Presentar y mantener en vigor una fianza que establezca la Secretaría conforme lo establezca el Reglamento correspondiente de la presente Ley, para garantizar el cumplimiento de las obligaciones y la confidencialidad de los sistemas de seguridad, durante la vigencia de la autorización, misma que se hará efectiva en los casos que la prestación del servicio contravenga las disposiciones aplicables;
+
+VII. Prestar sus servicios de conformidad con los contratos autorizados por la Secretaría;
+
+VIII. Dar una póliza de fianza a los centros de verificación, para garantizar el cumplimiento por sus servicios que incluya mano de obra y refacciones; y
+
+IX. Las demás que establezca el Reglamento correspondiente de la presente Ley.
+
+### CAPÍTULO III. Prevención y control de la contaminación del agua y de los recursos acuáticos
 
 ###### ARTÍCULO 127.
 
@@ -1811,7 +1951,7 @@ La Secretaría, con la participación que en su caso corresponda a la autoridad 
 
 Corresponderá a la Secretaría y a las autoridades municipales, la vigilancia del cumplimiento de las condiciones particulares de descarga y las Normas Oficiales Mexicanas de las aguas residuales provenientes de las plantas de tratamiento que descarguen a los sistemas de drenaje y alcantarillado de jurisdicción estatal o municipal.
 
-### CAPÍTULO V. Actividades consideradas de riesgo y bajo riesgo
+### CAPÍTULO IV. Prevención y control de la contaminación del suelo
 
 ###### ARTÍCULO 141.
 
@@ -1907,9 +2047,7 @@ No podrán otorgarse autorizaciones para la importación de estos compuestos cua
 
 Los propietarios o poseedores de terrenos erosionados, en proceso de erosión o desprovistos de vegetación en concertación con las autoridades competentes, ejecutarán las medidas de protección y restauración de los mismos.
 
-### CAPÍTULO VI
-
-Prevención y control de la contaminación ocasionada por ruido, vibraciones, energía térmica y lumínica y olores.
+### CAPÍTULO V. Actividades consideradas de riesgo y bajo riesgo
 
 ###### ARTÍCULO 151.
 
@@ -1945,7 +2083,9 @@ Cuando para garantizar la seguridad de los vecinos de una industria que lleve a 
 
 Los diferentes niveles de gobierno definirán las bases a fin de coordinar acciones respecto de las actividades contempladas en el presente capítulo.
 
-### CAPÍTULO VII. Contaminación visual y protección del paisaje
+### CAPÍTULO VI
+
+Prevención y control de la contaminación ocasionada por ruido, vibraciones, energía térmica y lumínica y olores.
 
 ###### ARTÍCULO 156.
 
@@ -1973,7 +2113,7 @@ Los gobiernos municipales deberán incorporar, en sus bandos y reglamentos, disp
 
 Cualquier actividad no cotidiana que se realice en los centros de población cuyas emisiones de ruido, vibraciones, energía térmica y lumínica, rebasen o puedan rebasar los límites máximos establecidos por las Normas Oficiales Mexicanas, requieren permiso de la autoridad municipal competente.
 
-### CAPÍTULO VIII. Prevención y control de emergencias ecológicas y contingencias ambientales
+### CAPÍTULO VII. Contaminación visual y protección del paisaje
 
 ###### ARTÍCULO 160.
 
@@ -2015,7 +2155,7 @@ VI.- Contravengan esta Ley u otros ordenamientos aplicables a la materia.
 
 Los municipios deberán incorporar en sus bandos de policía y gobierno y reglamentos, disposiciones que regulen obras, actividades y elementos publicitarios, a fin de evitar el deterioro del paisaje rural y urbano, y evitar la contaminación visual procurando crear una imagen armónica de los centros de población.
 
-### CAPÍTULO I. Disposiciones generales
+### CAPÍTULO VIII. Prevención y control de emergencias ecológicas y contingencias ambientales
 
 ###### ARTÍCULO 161.
 
@@ -2025,7 +2165,7 @@ La prevención y control de las emergencias ecológicas y de las contingencias a
 
 SEGURIDAD Y SANCIONES
 
-### CAPÍTULO II. Inspección y vigilancia
+### CAPÍTULO I. Disposiciones generales
 
 ###### ARTÍCULO 162.
 
@@ -2039,7 +2179,7 @@ Tratándose de materias referidas en ésta Ley que se encuentran reguladas por l
 
 El Gobierno Estatal y los Municipales propondrán al Ejecutivo Federal la celebración de acuerdos de coordinación para realizar actos de inspección y vigilancia para la verificación del cumplimiento de asuntos de orden federal en materia del equilibrio ecológico y la protección al ambiente.
 
-### CAPÍTULO III. Medidas de seguridad
+### CAPÍTULO II. Inspección y vigilancia
 
 ###### ARTÍCULO 164.
 
@@ -2101,7 +2241,7 @@ En los casos en que el infractor realice las medidas correctivas de urgente apli
 
 En los casos en que proceda, la autoridad estatal hará del conocimiento del Ministerio Público la realización de actos u omisiones constatados en el ejercicio de sus facultades que pudieran configurar uno o más delitos.
 
-### CAPÍTULO IV. Sanciones administrativas
+### CAPÍTULO III. Medidas de seguridad
 
 ###### ARTÍCULO 174.
 
@@ -2119,9 +2259,9 @@ La Secretaría podrá promover ante la autoridad competente, la ejecución de al
 
 ###### ARTÍCULO 175.
 
-Cuando la Secretaría ordene alguna de las medidas de seguridad previstas en esta Ley, indicará al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de las medidas de seguridad impuestas.
+Cuando la Secretaría ordene alguna de las medidas de seguridad previstas en ésta Ley, indicará al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de las medidas de seguridad impuestas.
 
-### CAPÍTULO V. Recurso de revisión
+### CAPÍTULO IV. Sanciones administrativas
 
 ###### ARTÍCULO 176.
 
@@ -2135,7 +2275,7 @@ III. Arresto administrativo hasta por treinta y seis horas.
 
 IV. La suspensión o revocación de las concesiones, licencias, permisos o autorizaciones correspondientes que hayan sido otorgados por la Secretaría;
 
-V. Remisión de vehículos a los depósitos correspondientes;
+V. (DEROGADA, P.O. 21 DE JULIO DE 2016)
 
 VI. El decomiso de los instrumentos, ejemplares, productos o subproductos directamente relacionados con infracciones relativas a daños al equilibrio ecológico o al medio ambiente; y
 
@@ -2373,7 +2513,7 @@ III. Donación a organismos públicos e instituciones científicas o de enseñan
 
 IV. Destrucción cuando se trate de productos o subproductos, de flora y fauna silvestre, de productos forestales plagados o que tengan alguna enfermedad que impida su aprovechamiento, así como artefactos de pesca y caza prohibidos por las disposiciones jurídicas aplicables.
 
-### CAPÍTULO VI. Delitos Ambientales
+### CAPÍTULO V. Recurso de revisión
 
 ###### ARTÍCULO 193.
 
@@ -2435,7 +2575,7 @@ VII. Cuando se trate de instrumentos, armas de caza, artes de pesca y demás obj
 
 Tratándose de obras o actividades que contravengan las disposiciones de ésta Ley, los programas de ordenamiento ecológico, las declaratorias de áreas naturales protegidas o los reglamentos y Normas Oficiales Mexicanas derivadas de la misma, las personas físicas y morales de las comunidades afectadas tendrán derecho a impugnar los actos administrativos correspondientes, así como a exigir que se lleven a cabo las acciones necesarias para que sean observadas las disposiciones jurídicas aplicables, siempre que demuestren en el procedimiento que dichas obras o actividades originan o pueden originar daño a los recursos naturales, la salud pública o la calidad de vida. Para tal efecto, deberán interponer el recurso administrativo de revisión a que se refiere este capítulo.
 
-### CAPÍTULO VII. Denuncia Ciudadana
+### CAPÍTULO VI. Delitos Ambientales
 
 ###### ARTÍCULO 199.
 
@@ -2448,6 +2588,8 @@ La Secretaría proporcionará, en las materias de su competencia y con el concur
 ###### ARTÍCULO 200.
 
 Los delitos ambientales estarán señalados en el Código Penal del Estado de Morelos en el Título correspondiente.
+
+### CAPÍTULO VII. Denuncia Ciudadana
 
 ###### ARTÍCULO 201.
 
@@ -2746,3 +2888,15 @@ SEGUNDA.- El presente Decreto entrará en vigor a partir del día siguiente de s
 TERCERA.- Se derogan todas las disposiciones de igual o menos rango jerárquico normativo que contravengan al presente Decreto.
 
 CUARTA.- En un plazo no mayor a 120 días hábiles contados a partir del día siguiente al de la entrada en vigor del presente Decreto, deberán realizarse las modificaciones necesarias a las disposiciones jurídicas reglamentarias aplicables.
+
+P.O. 21 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO NOVECIENTOS NOVENTA Y CUATRO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS Y DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS, EN MATERIA DE VERIFICACIÓN VEHICULAR Y EMISIONES A LA ATMÓSFERA".]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. En un plazo no mayor a 180 días hábiles contados a partir del día siguiente al que dé inicio la vigencia del presente Decreto, deberán actualizarse o modificarse las disposiciones reglamentarias que derivan de los instrumentos legislativos reformados.
+
+CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
