@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-fondo-morelos-antes-ley-del-instituto-morelense-69623"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-12"
-last_updated: "2013-10-16"
+last_updated: "2016-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DEL FONDO MORELOS - ANTES LEY DEL INSTITUTO MORELENSE PARA EL FINANCIAMIENTO DEL SECTOR PRODUCTIVO-
 
-LEY DEL INSTITUTO MORELENSE PARA EL FINANCIAMIENTO DEL SECTOR PRODUCTIVO
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 10 DE AGOSTO DE 2016 Y 14 DE SEPTIEMBRE DE 2016 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2013.
+LEY DEL FONDO MORELOS
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 12 de agosto de 2009.
 
@@ -37,291 +39,339 @@ LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELO
 
 Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
 
-LEY DEL INSTITUTO MORELENSE PARA EL FINANCIAMIENTO DEL SECTOR PRODUCTIVO
+> <small>[N. DE E. EL DECRETO NÚMERO NOVECIENTOS NOVENTA Y TRES EXPEDIDO POR LA QUINCUAGÉSIMA TERCERA LEGISLATURA, PUBLICADO EN EL P.O. DE 21 DE JULIO DE 2016, REFORMÓ DE MANERA INTEGRAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO”.]</small>
 
-### CAPÍTULO I. Objeto y Aplicación de la Ley
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JULIO DE 2016)</small>
 
-###### ARTÍCULO 1.
+LEY DEL FONDO MORELOS
 
-La presente Ley es de orden público e interés social y de observancia general en el Estado de Morelos.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-###### ARTÍCULO 2.
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-El objeto de la presente Ley es coadyuvar en el fomento y promoción del desarrollo económico del Estado de Morelos, a través del otorgamiento de financiamiento al sector productivo del mismo, personas físicas o morales, micro, pequeña y mediana empresa, teniendo como primicia esencial que en lo posible, las condiciones del financiamiento otorgado sean mejores o en su caso, equivalentes a las que ofrezca el mercado.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-###### ARTÍCULO 3.
+###### Artículo 1.
+
+La presente Ley es de observancia general, orden público e interés social, así como obligatoria para los sujetos señalados en este ordenamiento, y tiene por objeto contribuir al desarrollo económico del estado de Morelos, a través del otorgamiento de financiamiento al sector productivo, con especial énfasis en las micro, pequeñas y medianas empresas, a condiciones competitivas de mercado.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 2.
+
+La interpretación de la presente Ley corresponde a la persona Titular del Poder Ejecutivo Estatal, a través de la Secretaría o Dependencia coordinadora del sector al que pertenezca el Fondo Morelos, con la opinión de la persona titular de la Dirección General de dicho Fondo.
+
+A falta de disposición expresa, se aplicará supletoriamente la Ley de Procedimiento Administrativo para el Estado de Morelos, el Código Civil para el Estado Libre y Soberano de Morelos y el Código Procesal Civil para el Estado Libre y Soberano de Morelos, así como los principios de simplificación administrativa y los principios generales del derecho.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 3.
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. INSTITUTO: Al Instituto Morelense para el Financiamiento del Sector Productivo;
+I. Consejo Directivo, al órgano de gobierno del Fondo Morelos;
 
-II. LEY: Ley del Instituto Morelense para el Financiamiento del Sector Productivo;
+II. Director General, a la persona titular del Fondo Morelos;
 
-III. REGLAMENTO: El Reglamento de la Ley del Instituto Morelense para el Financiamiento del Sector Productivo;
+III. Estatuto Orgánico, al Estatuto Orgánico del Fondo Morelos;
 
-IV. CONSEJO DIRECTIVO: El Consejo Directivo del Instituto Morelense para el Financiamiento del Sector Productivo; y
+IV. Fondo Morelos, al organismo público descentralizado denominado Instituto Morelense para el Financiamiento del Sector Productivo;
 
-V. SECTOR PRODUCTIVO: Personas físicas, personas morales, micro, pequeña y mediana empresa que lleven a cabo actividades productivas en el Estado de Morelos.
+V. Gobernador, a la persona Titular del Poder Ejecutivo Estatal;
 
-### CAPÍTULO II. Del Instituto y su Patrimonio
+VI. Ley, al presente instrumento jurídico;
 
-###### ARTÍCULO 4.
+VII. Ley Orgánica, a la Ley Orgánica de la Administración Pública del Estado de Morelos;
 
-La aplicación de este ordenamiento corresponde al Ejecutivo Estatal, por conducto del Instituto.
+VIII. Manuales Administrativos, a los Manuales de Organización, de Políticas y Procedimientos y demás instrumentos normativos aprobados por el Fondo Morelos, mediante los cuales se indican los pasos que deban seguirse para el desarrollo de cada una de las actividades de las unidades administrativas que lo conforman;
 
-###### ARTÍCULO 5.
+IX. Sector productivo, a las personas físicas y morales que lleven a cabo actividades productivas en el estado de Morelos, y
 
-Se crea el Instituto Morelense para el Financiamiento del Sector Productivo como Organismo Público Descentralizado, con personalidad jurídica, patrimonio, Órgano de Gobierno y administración propios, con domicilio legal en la Ciudad de Cuernavaca, Morelos, cuyo objeto será el financiamiento del sector productivo, mediante el diseño e instrumentación de productos financieros acordes a la realidad de la actividad económica local, procurando en lo posible, que las condiciones del financiamiento otorgado sean mejores o en su caso, equivalentes a las que ofrezca el mercado.
+X. Reserva crediticia, al monto que se constituye para respaldar posibles pérdidas de acuerdo al grado de riesgo de la cartera crediticia.
 
-###### ARTÍCULO 6.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-El Instituto tendrá las siguientes atribuciones:
+### CAPÍTULO II. DEL INSTITUTO
 
-I. Otorgar financiamiento en las mejores condiciones del mercado, para atender oportunamente los proyectos de las personas o entidades del sector productivo que requieran de su apoyo, a través de alguno de los programas que para tal efecto implemente;
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2016)</small>
+
+#### SECCIÓN PRIMERA. DEL OBJETO Y LAS FUNCIONES DEL FONDO MORELOS
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 4.
+
+Se crea el Instituto Morelense para el Financiamiento del Sector Productivo, al que también podrá referirse como Fondo Morelos, como organismo público descentralizado, sectorizado mediante acuerdo que expida el Gobernador al efecto en términos de la Ley Orgánica; con personalidad jurídica y patrimonio propios, y con domicilio en la ciudad de Cuernavaca, estado de Morelos.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 5.
+
+El Fondo Morelos tiene por objeto el otorgamiento de financiamiento a las actividades primaria, secundaria y terciaria del sector productivo; así como el diseño, desarrollo e implementación de productos y programas a condiciones competitivas, que impulsen el desarrollo económico del Estado, conforme a las Reglas de Operación que al efecto se emitan.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 6.
+
+El Fondo Morelos tendrá las siguientes atribuciones:
+
+I. Otorgar financiamiento a condiciones competitivas, para atender oportunamente las necesidades del sector productivo que lo solicite, a través de alguno de los productos o programas que para tal efecto se implementen;
 
 II. Prestar los servicios de asesoría financiera que se requieran, para la consecución de los proyectos y actividades del sector productivo;
 
-III. Promover y en su caso, apoyar mediante el otorgamiento de financiamiento más sencillo y accesible que otros existentes, el desarrollo de proyectos y actividades productivas con viabilidad y rentabilidad económica en los renglones que sean prioritarios para el desarrollo del Estado de Morelos, a fin de que contribuyan a la generación y conservación de empleos que propicien una mejor distribución de la riqueza;
+III. Desarrollar productos y programas de financiamiento que apoyen el desarrollo de proyectos y actividades productivas viables y económicamente rentables que permitan elevar la productividad y la competitividad, la generación de mayores y mejores fuentes de empleo y el incremento del Producto Interno Bruto a nivel estatal;
 
-IV. Incrementar los financiamientos otorgados, a efecto de que sea mayor el número de personas o entidades que integran el sector productivo, las que tengan acceso al mismo, procurando en todo momento el impulso a los proyectos y actividades provenientes de los diversos sectores de la población, con excepción de la actividad eminentemente agrícola y pecuaria primaria;
+IV. Fungir como eje de desarrollo, otorgando financiamiento a través de un procedimiento sencillo y enfocado, con productos y programas de conveniente accesibilidad e incluyentes;
 
-V. Llevar a cabo todos los actos tendientes al otorgamiento, contratación, administración y recuperación de los financiamientos que se otorguen;
+V. Llevar a cabo todos los actos tendientes al desarrollo, otorgamiento, contratación, administración y recuperación de los financiamientos que se otorguen;
 
-VI. Captar fuentes de fondeos para el financiamiento al sector productivo, en concordancia a los programas que opere para tales fines;
+VI. Celebrar convenios con la Banca de Desarrollo, Organismos Internacionales y otros Intermediarios Financieros Especializados, que le permitan la obtención de recursos para el fondeo de los productos y programas que opere en el cumplimiento de sus fines;
 
-VII. Apoyar al sector productivo en la identificación, difusión, orientación, evaluación, asesoría y tramitación de proyectos productivos, de infraestructura y sociales viables, sea ésta industrial, comercial o de servicios;
+VII. Apoyar al sector productivo en la identificación, difusión, orientación, evaluación, asesoría y tramitación de proyectos productivos;
 
-VIII. Proporcionar capacitación de acuerdo con las reglas de operación financieras que para tal fin se emitan y con ello contribuir al desarrollo de la entidad;
+VIII. Proporcionar asistencia y orientación técnica sobre los productos y programas de financiamiento de acuerdo a las necesidades productivas de cada solicitante;
 
-IX. Preservar y mantener su capital, garantizando la sustentabilidad de su operación, mediante la canalización eficiente y transparente de recursos; y
+IX. Preservar y mantener su capital, garantizando la sustentabilidad de su operación, mediante la canalización eficiente y transparente de recursos, y
 
-X. Las demás que le confiera la Ley, el Reglamento, las demás disposiciones legales aplicables y el Consejo Directivo.
+X. Las demás que le confiera la Ley, el Estatuto Orgánico así como otras disposiciones jurídicas aplicables.
 
-###### ARTÍCULO 7.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-Para cubrir las obligaciones del Instituto, así como para sufragar los gastos de su administración, se constituye un patrimonio con los siguientes bienes y derechos:
+###### Artículo 7.
+
+El Fondo Morelos conducirá sus actividades con sujeción a las disposiciones del Plan Estatal de Desarrollo, a la presente Ley, a los programas sectoriales correspondientes, a las políticas y lineamientos de la Secretaría o Dependencia coordinadora de su sector, así como a las disposiciones jurídicas que sean aplicables.
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2016)</small>
+
+#### SECCIÓN SEGUNDA. DEL PATRIMONIO DEL FONDO MORELOS
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+###### Artículo 8.
+
+El patrimonio del Fondo Morelos se constituye por:
 
 I. Los recursos que le sean asignados en el Presupuesto de Egresos del Estado de Morelos;
 
 II. Los ingresos que obtengan por la prestación de los servicios que otorgue en cumplimiento de sus fines;
 
-III. Los subsidios, subvenciones, aportaciones y demás ingresos provenientes de los Gobiernos Federal, Estatal y Municipal y en general de las personas físicas y morales para el cumplimiento de sus fines;
+III. Los subsidios, subvenciones, aportaciones y demás ingresos provenientes de los Gobiernos Federal, Estatal y Municipal y, en general, del sector productivo por el cumplimiento de sus fines;
 
-IV. Las aportaciones, donativos, legados, herencias y en general, cualquier recurso que reciba a título gratuito de entidades públicas o privadas;
+IV. Las aportaciones, donativos, legados, herencias y, en general, cualquier recurso que reciba a título gratuito de entidades públicas o privadas;
 
-V. Los intereses y productos financieros que obtenga el Instituto por cualquier título;
+V. Los intereses y productos financieros que obtenga por cualquier título;
 
-VI. Los bienes muebles, inmuebles, derechos y créditos de toda clase que actualmente constituyen el patrimonio del Fondo para el Financiamiento de las Empresas de Solidaridad del Estado de Morelos y los que en el futuro adquiera el Instituto, incluso aquellos que se evalúen convenientes de la recuperación de cartera incobrable que una vez agotado el proceso judicial se adjudique el instituto;
+VI. Los bienes muebles, inmuebles y derechos que actualmente constituyen el patrimonio del Fondo Morelos y los que en el futuro adquiera, incluso aquellos que se evalúen convenientes de la recuperación de cartera incobrable que una vez agotado el proceso judicial se adjudique el Fondo Morelos;
 
 VII. Los rendimientos que se obtengan por la inversión de los fondos líquidos;
 
-VIII. Las comisiones, primas, rendimientos, utilidades, intereses, dividendos y demás recursos en general, provenientes de la realización de sus fines, cualquiera que sea su género y origen, en función de las distintas operaciones que celebre el Instituto; y
+VIII. Las comisiones, primas, rendimientos, utilidades, intereses, dividendos y demás recursos en general, provenientes de la realización de sus fines, cualquiera que sea su género y origen, en función de las distintas operaciones que celebre el Fondo Morelos, y
 
-IX. La cartera vigente, administrativa, vencida y contenciosa que actualmente es patrimonio del Fondo para el Financiamiento de las Empresas de Solidaridad del Estado de Morelos y las que en su oportunidad correspondan al Instituto.
+IX. La cartera vigente, administrativa, vencida y contenciosa del Fondo Morelos.
 
-###### ARTÍCULO 8.
+Los bienes inmuebles adjudicados judicial o extrajudicialmente por el Fondo Morelos, con motivo de la recuperación de créditos, se regirán en lo conducente por la Ley General de Bienes del Estado de Morelos; empero, se autoriza de manera general al Fondo Morelos para enajenarlos, fuera de subasta pública, adjudicándolos conforme al procedimiento establecido en las disposiciones reglamentarias que se emitan por el Consejo Directivo.
 
-El gobierno, la administración y la dirección del Instituto estará a cargo de:
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2016)</small>
 
-I. Un Consejo Directivo; y (sic)
+#### SECCIÓN TERCERA. DE LA ESTRUCTURA ORGÁNICA DEL FONDO MORELOS
 
-II. Un Director General.
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2013)</small>
+Artículo 8 (Sic). Para el cumplimiento de su objeto, el Fondo Morelos contará con los siguientes órganos:
 
-III. Un órgano de vigilancia.
+I. Un Consejo Directivo;
 
-###### ARTÍCULO 9.
+II. Un Director General, y
 
-El Consejo Directivo es la autoridad suprema del Instituto y estará integrado de la siguiente manera:
+III. Un Órgano Interno de Control.
 
-(ADICIONADA, P.O. 16 DE OCTUBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL TEXTO ORIGINAL PUBLICADO EL 12 DE DE AGOSTO DE 2009, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-I. El Gobernador del Estado o el representante que éste designe, quien fungirá como Presidente;
+###### Artículo 9.
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2013)</small>
+Para el cumplimiento y desarrollo de sus funciones, el Fondo Morelos contará con las unidades administrativas que se determinen en el Estatuto Orgánico y sus Manuales Administrativos correspondientes, conforme a la disponibilidad presupuestal autorizada para ello.
 
-II. La persona titular de la Secretaría de Economía;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2013)</small>
+### CAPÍTULO III. DEL CONSEJO DIRECTIVO
 
-III. La persona titular de la Secretaría de Hacienda;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-IV. El titular de la Secretaría de Turismo;
+###### Artículo 10.
 
-V. El titular de la Delegación en el Estado de Morelos de la Secretaría de Economía del Gobierno Federal;
+El Consejo Directivo es el máximo órgano de gobierno del Fondo Morelos y se integra de la siguiente manera:
 
-VI. El titular de la Oficialía Mayor;
+I. El Gobernador, quien lo presidirá por sí o por conducto del representante que designe al efecto;
 
-VII. El titular de la Representación Estatal del Fondo Nacional de Apoyo para las Empresas en Solidaridad (FONAES); y
+II. La persona titular de la Secretaría de Economía del Poder Ejecutivo Estatal;
 
-> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN VII, PERO DEL ANÁLISIS DE LA PUBLICACIÓN DE 16 DE OCTUBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER VIII.</small>
+III. La persona titular de la Secretaría de Gobierno del Poder Ejecutivo Estatal;
 
-VIII. Un representante de la Universidad Autónoma del Estado de Morelos.
+IV. La persona titular de la Secretaría de Administración del Poder Ejecutivo Estatal;
 
-De conformidad con el orden del día de cada sesión, se podrá invitar a personas competentes o interesadas en los temas a tratar.
+V. La persona titular de la Secretaría de Hacienda del Poder Ejecutivo Estatal;
 
-Por cada miembro propietario habrá un suplente, quien será designado por el titular y que contará con las mismas facultades que los propietarios en caso de ausencia de éstos.
+VI. La persona titular de la Secretaría de Turismo del Poder Ejecutivo Estatal;
 
-> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2013)</small>
+VII. La persona titular de la Secretaría de Desarrollo Agropecuario del Poder Ejecutivo Estatal;
 
-Para el caso de que el representante que designe el Gobernador del Estado para fungir como Presidente del Consejo Directivo sea un integrante de este último, en términos del presente artículo; dicho integrante deberá designar a su vez a la persona que lo supla, a fin de evitar la concentración de votos en una sola persona para la toma de decisiones.
+VIII. La persona titular de la Secretaría de Innovación, Ciencia y Tecnología del Poder Ejecutivo Estatal, y
 
-Los integrantes del Consejo Directivo durarán en su encargo por todo el tiempo que subsista su designación y sus nombramientos serán honoríficos.
+IX. La persona titular de la Secretaría de Desarrollo Social del Poder Ejecutivo Estatal.
 
-### CAPÍTULO III. Del Gobierno y la Administración
+El Consejo Directivo designará un secretario técnico, a propuesta de su presidente.
 
-###### ARTÍCULO 10.
+Los cargos de los integrantes del Consejo Directivo serán honoríficos, por lo que no recibirán retribución, emolumento ni compensación alguna por su desempeño.
 
-El Consejo Directivo sesionará en forma ordinaria o extraordinaria. Las sesiones ordinarias se llevarán a cabo cuando menos seis veces al año, y las extraordinarias las veces que sean necesarias.
+Por cada integrante propietario, deberá designarse, por escrito, un suplente, el cual contará con las mismas facultades que el propietario. Dichos suplentes deberán contar con el nivel jerárquico de Director General.
 
-Las sesiones serán válidas cuando se encuentren presentes la mitad más uno de sus miembros. En caso de ausencia del Presidente del Consejo Directivo, la sesión será presidida por el suplente. El Presidente, o quien presida la sesión, tendrá voto de calidad en caso de empate.
+Para el caso de que el representante que designe el Gobernador para fungir como presidente del Consejo Directivo, sea un integrante de este último en términos del presente artículo, dicho integrante deberá designar a su vez a la persona que lo supla, a fin de evitar la concentración de votos en una sola persona para la toma de decisiones.
 
-###### ARTÍCULO 11.
+En las sesiones del Consejo Directivo participarán el Director General y el Comisario Público con derecho a voz, pero sin voto. Así también, podrá invitarse a participar únicamente con voz, a otros servidores públicos que se estime conveniente.
 
-En las Sesiones del Consejo Directivo será indispensable la presencia del Comisario y del Director General, quienes por la naturaleza de sus funciones, solamente asistirán con voz, pero sin voto.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-###### ARTÍCULO 12.
+###### Artículo 11.
 
-El Consejo Directivo, funcionará y sesionará en términos que prevea el Reglamento.
+El Consejo Directivo sesionará en forma ordinaria cuando menos seis veces al año y de manera extraordinaria las veces que sea necesario, cuando se trate de asuntos urgentes o de imperiosa necesidad, en la forma y términos que establezca el Estatuto Orgánico y demás normativa aplicable.
 
-### CAPÍTULO IV. Órgano de Vigilancia
+El Consejo Directivo sesionará legalmente con la asistencia de la mitad más uno de la totalidad de sus integrantes; los acuerdos se aprobarán por mayoría de votos de sus miembros presentes. En caso de empate, el presidente tendrá voto de calidad, conforme a la normativa aplicable.
 
-###### ARTÍCULO 13.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-El Consejo Directivo tendrá las siguientes facultades:
+###### Artículo 12.
 
-I. Establecer en congruencia con la planeación estatal, las políticas generales y las prioridades a las que deberá sujetarse el Instituto para el cumplimiento de sus fines;
+El Consejo Directivo, además de las señaladas en la Ley Orgánica y otros ordenamientos jurídicos aplicables, cuenta con las atribuciones siguientes:
 
-II. Aprobar el programa financiero correspondiente, los programas de acción, así como el Programa Operativo Anual del Instituto, el Presupuesto de Ingresos y Egresos y sus modificaciones, en los términos de la legislación aplicable, a propuesta del Director General;
+I. Delegar en el Director General facultades para la celebración de diferentes acuerdos, convenios o contratos para la obtención de recursos a través de las diversas fuentes de fondeo nacionales o extranjeras afines al objeto del Fondo Morelos, así como para la inversión de fondos líquidos afectos al patrimonio del mismo, bajo las condiciones que el mismo Consejo Directivo determine;
 
-III. Delegar en el Director General del Instituto, facultades para la celebración de diferentes acuerdos, convenios o contratos para la captación y operación de recursos a través de las diversas fuentes de fondeo nacionales o extranjeras, con los sectores público, privado y social, así como para la inversión de fondos líquidos afectos al patrimonio del Instituto, para beneficio del Instituto y bajo los mecanismos y lineamientos que al efecto determine el Consejo Directivo;
+II. Aprobar las Reglas de Operación de los productos y programas de financiamiento a propuesta del Director General, los Manuales Administrativos, así como todas las demás disposiciones reglamentarias que rijan la organización, el funcionamiento, el control y la evaluación del Fondo Morelos, así como sus modificaciones;
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2013)</small>
+III. Analizar y, en su caso, aprobar los informes trimestrales y el anual que rinda el Director General sobre el desempeño del Fondo Morelos, con la intervención que corresponda al Comisario Público;
 
-IV. Aprobar la estructura básica del Instituto y las modificaciones que procedan a la misma, así como el Reglamento;
+IV. Revisar, aprobar y ordenar, en su caso, la publicación de los informes trimestrales y anuales, según corresponda conforme a la normativa aplicable, así como los estados financieros, que rinda el Director General sobre el desempeño del Fondo Morelos, con las respectivas observaciones que realice el Comisario Público y los dictámenes de auditoría;
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2013)</small>
+V. Analizar y, en su caso, aprobar el ejercicio del gasto de la cuenta pública y el programa de actividades;
 
-V. Aprobar y expedir las Reglas de Operación Financiera, el Estatuto Orgánico, así como todas las demás disposiciones reglamentarias que rijan la organización, funcionamiento, control y evaluación del Instituto, así como sus modificaciones;
+VI. Delegar en el Director General, la creación de los Comités especializados que vigilen el cumplimiento de las políticas de financiamiento y operación del Fondo Morelos;
 
-VI. Aprobar las disposiciones jurídico administrativas y los mecanismos orientados a mejorar la organización y funcionamiento del Instituto, en su caso;
+VII. Aprobar la creación de reservas crediticias;
 
-VII. Designar a propuesta del Director General a los servidores públicos de mandos medios, aprobar sus sueldos y prestaciones;
+VIII. Autorizar con sujeción a las disposiciones jurídicas aplicables, los donativos que se otorguen a favor del Fondo Morelos y verificar que los mismos se apliquen a los fines señalados;
 
-VIII. Analizar y en su caso, aprobar los informes trimestrales y anual que rinda el Director General sobre el desempeño del Instituto, con la intervención que corresponda al Comisario,
+IX. Delegar en el Director General la autorización para la condonación de intereses moratorios, penas o cualquier otra comisión que se establezca con cargo a terceros, facultad que dicho funcionario deberá llevar a cabo bajo los mecanismos y lineamientos que al efecto determine el Consejo Directivo;
 
-IX. Analizar y en su caso aprobar el ejercicio del gasto de la cuenta pública y el programa de actividades;
+X. Aprobar la implementación de los mecanismos necesarios para un adecuado saneamiento de cartera crediticia;
 
-X. Delegar en el Director General, la creación de Comités especializados para apoyar la programación estratégica y la supervisión de la marcha normal del Instituto;
+XI. Establecer las normas y bases para realizar los procesos de restructuración de operaciones y la cancelación de adeudos a favor del Fondo Morelos y a cargo de terceros, en los casos de notoria imposibilidad práctica de su cobro;
 
-XI. Aprobar la creación de reservas cuando así lo permita el estado financiero del Instituto y su aplicación;
+XII. Establecer las normas y lineamientos para el ejercicio de los recursos que conformen el patrimonio del Fondo Morelos, a efecto de satisfacer los requerimientos de gasto corriente, así como legales y administrativos del mismo;
 
-XII. Autorizar con sujeción a las disposiciones legales relativas, los donativos que se otorguen a favor del Instituto y verificar que los mismos se apliquen a los fines señalados;
+XIII. Delegar en el Director General la autorización para el otorgamiento de recursos adicionales a financiamientos previamente autorizados;
 
-XIII. Delegar en el Director General la autorización para la condonación de intereses moratorios, penas o cualquier otra comisión que se establezca con cargo a terceros, facultad que dicho funcionario deberá llevar a cabo bajo los mecanismos y lineamientos que al efecto determine el Consejo Directivo;
+XIV. Autorizar el establecimiento, en el territorio estatal, de oficinas de representación del Fondo Morelos, y
 
-XIV. Aprobar anualmente, previo informe del Comisario y dictamen de los auditores externos, los Estados Financieros y el Estado del Ejercicio del Presupuesto del Instituto y ordenar la publicación de los mismos;
+XV. Proponer el desarrollo de programas y productos que impulsen el crecimiento del Fondo Morelos como una Institución de fondeo.
 
-XV. Implementar los mecanismos necesarios para un adecuado saneamiento de cartera crediticia;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-XVI. Establecer las normas y bases para realizar los procesos de restructuración de operaciones y la cancelación de adeudos a favor del Instituto y a cargo de terceros, en los casos de notoria imposibilidad práctica de su cobro;
+### CAPÍTULO IV. DE LA DIRECCIÓN GENERAL
 
-XVII. Establecer las normas y lineamientos para el ejercicio de los recursos que conformen el patrimonio del Instituto, a efecto de satisfacer los requerimientos de gasto corriente, así como legales y administrativos del mismo;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-XVIII. Delegar en el Director General la autorización para el otorgamiento de recursos adicionales, a financiamientos o proyectos previamente autorizados; y
+###### Artículo 13.
 
-XIX. Las demás que le confiera la Ley, el Reglamento y demás disposiciones legales aplicables.
+La administración del Fondo Morelos estará a cargo del Director General quien será nombrado y removido libremente por el Gobernador, o previo acuerdo con la Secretaría o Dependencia coordinadora del sector al que pertenece el Fondo Morelos, dicha designación quedará a cargo del Consejo Directivo, en términos de lo dispuesto por la Ley Orgánica.
 
-Hecha excepción de las referidas en las fracciones III, X, XIII y XVIII, las facultades del Consejo Directivo son no delegables.
+Para ser Director General es necesario contar con los requisitos que se establecen en el artículo 83 de la Ley Orgánica y tener experiencia en el ramo financiero.
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-###### ARTÍCULO 14.
+###### Artículo 14.
 
-La administración del Instituto estará a cargo del Director General, quien será designado y removido libremente por el Gobernador del Estado, debiendo cubrir los requisitos que marca la Ley Orgánica de la Administración Pública del Estado de Morelos y tener experiencia en el ramo financiero.
+El Director General, además de las conferidas por la Ley Orgánica y demás normativa aplicable, cuenta con las atribuciones siguientes:
 
-### CAPÍTULO V. De las Relaciones Laborales del Instituto
+I. Celebrar cualquier tipo de acto jurídico encaminado a la obtención de recursos para el fondeo del Fondo Morelos en el cumplimiento de sus fines;
 
-###### ARTÍCULO 15.
+II. Informar al Consejo Directivo sobre los acuerdos, convenios, contratos y cualquier otro acto jurídico que celebre el Fondo Morelos;
 
-El Director General del Instituto tendrá las siguientes atribuciones:
+III. Elaborar, presentar y proponer para su aprobación al Consejo Directivo la estructura orgánica, el Estatuto Orgánico, las Reglas de Operación de productos y programas y las demás disposiciones reglamentarias relacionadas con la organización, funcionamiento, control y evaluación del Fondo Morelos;
 
-I. Representar legalmente al Instituto ante toda clase de autoridades y personas de derecho público y privado, con todas las facultades que corresponden a los apoderados generales para pleitos y cobranzas, actos de administración y actos de dominio, con facultades para desistirse del juicio de amparo, presentar denuncias o querellas y otorgar el perdón y absolver posiciones, ejercitar y desistirse de acciones judiciales correspondientes y arbitraje; con todas las facultades generales y especiales, aún aquellas que requieran autorización o cláusula especial conforme a la ley, en los términos del Código Civil para el Estado Libre y Soberano de Morelos y además correlativos de los Estados de la República, sin más limitaciones que las señaladas en las leyes de la materia o por el Consejo Directivo; con facultades para actos de administración en materia laboral, aún las que requieran cláusula especial conforme a la ley de la materia; asimismo, para otorgar, sustituir y revocar poderes generales y especiales, con todas las facultades, aún las que requieran cláusula especial en uno o más apoderados, los cuales podrán actuar de forma conjunta o individual; con facultad para obligar al Instituto cambiariamente, suscribir, otorgar, endosar y negociar títulos de crédito y concertar las operaciones de crédito; con poder especial para abrir y manejar cuentas bancarias y girar en ellas a favor del Instituto, de conformidad con lo dispuesto por la Ley, el Reglamento y demás ordenamientos aplicables que sean necesarios para la operación del Instituto, y en general ejercer los actos de representación y mandato que sean necesarios para el desempeño de sus funciones;
+IV. Elaborar y presentar para su aprobación al Consejo Directivo los Manuales Administrativos, reglas de operación, políticas de financiamiento y cualquier otra reglamentación necesaria para el cumplimiento de sus fines;
 
-II. Formular los programas de acción y el programa financiero correspondiente, así como el Programa Operativo Anual y los Presupuestos de Ingresos y Egresos del Instituto y presentarlos para su aprobación o modificación al Consejo Directivo;
+V. Presentar al Consejo Directivo para su aprobación, las normas y bases para los procesos de reestructuración de operaciones y la cancelación de adeudos a cargo de terceros y a favor del Fondo Morelos, cuando fuere notoriamente imposible la práctica de sus cobros;
 
-III. Celebrar los acuerdos, convenios o contratos que se requieran para la adecuada y eficaz operación del Instituto;
+VI. Dirigir el desarrollo de las actividades técnicas y administrativas, así como de control y evaluación del Fondo Morelos y dictar los acuerdos pertinentes para estos propósitos;
 
-IV. Celebrar cualquier tipo de acto jurídico encaminado a la captación de recursos necesarios para el cumplimiento de los fines del Instituto;
+VII. Establecer los sistemas de control y evaluación de gestión del Fondo Morelos, a fin de contar con información fidedigna y oportuna sobre el cumplimiento de los objetivos y metas, así como de desempeño institucional para la toma de decisiones y presentar al Consejo Directivo un informe, previa opinión del Comisario;
 
-V. Informar al Consejo Directivo sobre los acuerdos, convenios o contratos que celebre el Instituto;
+VIII. Establecer los mecanismos de evaluación que destaquen la eficiencia y la eficacia con que se desempeñe el Fondo Morelos y presentar al Consejo Directivo la evaluación de la gestión, para emprender acciones de mejora continua;
 
-VI. Elaborar y presentar para su aprobación al Consejo Directivo la estructura orgánica del Instituto y sus modificaciones;
+IX. Realizar las transacciones comerciales y financieras que se requieran, para el cumplimiento del objetivo del Fondo Morelos;
 
-VII. Elaborar y presentar a la consideración del Consejo Directivo para su aprobación, el Estatuto Orgánico, Reglamento, así como las disposiciones reglamentarias correspondientes para la organización, funcionamiento, control y evaluación del Instituto;
+X. Establecer los instrumentos para controlar la calidad de los suministros y programas de recepción que aseguren la continuidad en la prestación de los servicios;
 
-VIII. Elaborar los manuales de organización, reglas de operación, procedimientos y políticas de servicios al público del Instituto y presentarlos al Consejo Directivo para su aprobación;
+XI. Establecer y conservar actualizados los procedimientos y sistemas de información, así como su aplicación para garantizar un servicio de calidad del Fondo Morelos;
 
-IX. Presentar al Consejo Directivo para su aprobación, las normas y bases para cancelar adeudos a cargo de terceros y a favor del Instituto, cuando fuere notoriamente imposible la práctica de sus cobros;
+XII. Determinar y presentar al Consejo Directivo mecanismos en materia de saneamiento de cartera crediticia;
 
-X. Dirigir el desarrollo de las actividades técnicas y administrativas, así como de control y evaluación del Instituto y dictar los acuerdos pertinentes para estos propósitos;
+XIII. Identificar las necesidades y diseñar el alcance y operatividad de los productos y programas de financiamiento, a fin de satisfacer la demanda del mercado productivo e incrementar las operaciones del Fondo Morelos;
 
-XI. Proponer al Consejo Directivo el nombramiento de los servidores públicos de mandos medios del Instituto, la propuesta de sus sueldos y demás prestaciones;
+XIV. Desarrollar y presentar al Consejo Directivo metodología para la determinación de reservas crediticias, y
 
-XII. Remover libremente al personal del Instituto, así como conceder las licencias que procedan;
+XV. Vigilar que las reservas crediticias se mantengan en los niveles determinados por el Consejo Directivo y, en su caso reconstituirlas.
 
-XIII. Establecer los sistemas de control y evaluación de gestión del Instituto, a fin de contar con información fidedigna y oportuna sobre el cumplimiento de los objetivos y metas, así como de desempeño institucional para la toma de decisiones y presentar al Consejo Directivo un informe, previa opinión del Comisario;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-XIV. Presentar en forma trimestral y anual al Consejo Directivo, con la intervención que corresponda al Comisario, el informe de desempeño de las actividades del Instituto, incluido el ejercicio del Presupuesto de Ingresos y Egresos y los Estados Financieros correspondientes;
+### CAPÍTULO V. DEL ÓRGANO INTERNO DE CONTROL
 
-XV. Establecer los mecanismos de evaluación que destaquen la eficiencia y la eficacia con que se desempeñe el Instituto y presentar al Consejo Directivo la evaluación de la gestión, para emprender acciones de mejora continua;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-XVI. Ejecutar las disposiciones generales y acuerdos del Consejo Directivo;
+###### Artículo 15.
 
-XVII. Realizar las transacciones comerciales y financieras que se requieran, para el cumplimiento del objetivo del Instituto;
+El Fondo Morelos contará con un Órgano Interno de Control, que dependerá del Consejo Directivo, el cual estará a cargo de un Comisario Público propietario y un suplente, designados por la Secretaría de la Contraloría del Poder Ejecutivo Estatal, de conformidad con lo dispuesto por la Ley Orgánica, el cual tendrá como finalidad apoyar la función directiva y promover el mejoramiento de gestión del Fondo Morelos.
 
-XVIII. Establecer mecanismos y procedimientos que permitan el óptimo aprovechamiento de los bienes muebles e inmuebles del Instituto;
+Las funciones del Comisario Público se realizarán de acuerdo con las políticas que dicte la Secretaría de la Contraloría del Poder Ejecutivo Estatal y se sujetarán a lo dispuesto por la Ley Orgánica y demás normativa.
 
-XIX. Establecer los instrumentos para controlar la calidad de los suministros y programas de recepción que aseguren la continuidad en la prestación de los servicios;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-XX. Establecer y conservar actualizados los procedimientos y sistemas de información, así como su aplicación para garantizar un servicio de calidad del Instituto; y
+### CAPÍTULO VI. DE LAS SUPLENCIAS Y LAS RESPONSABILIDADES
 
-XXI. Las demás que le confiera la Ley, el Reglamento, las demás disposiciones legales aplicables y el Consejo Directivo.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
 ###### Artículo 16.
 
-El Órgano de Vigilancia del Instituto estará integrado por un Comisario Público propietario y un suplente, designados por la Secretaría de la Contraloría del Estado. Formará parte de la estructura del Instituto y sus actividades tendrán como finalidad apoyar la función directiva y promover el mejoramiento de gestión del mismo; sus facultades y obligaciones se realizarán de acuerdo a las instrucciones que dicte la Secretaría de la Contraloría del Estado de Morelos.
+Las suplencias del Director General y de las personas titulares de las unidades administrativas del Fondo Morelos se regirán por lo previsto en el Estatuto Orgánico.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
 ###### Artículo 17.
 
-Son atribuciones del Comisario Público:
+Los integrantes del Consejo Directivo, así como el personal de apoyo administrativo y operativo que, en el desempeño de sus funciones, incurran en acciones u omisiones previstas en la Ley Estatal de Responsabilidades de los Servidores Públicos, serán sujetos al respectivo procedimiento administrativo sancionador.
 
-I. Evaluar la actividad general y funciones del Instituto;
+En su caso, también podrán ser sujetos a las sanciones previstas en la legislación penal, cuando además hubieran incurrido en la comisión de conductas delictivas.
 
-II. Realizar los estudios sobre la eficiencia con la cual se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como lo referente a los ingresos;
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE JULIO DE 2016)</small>
 
-III. Emitir la opinión respectiva a los Estados Financieros que el Instituto emita mensualmente;
+### CAPÍTULO VII. DE LAS RELACIONES LABORALES
 
-IV. Inspeccionar cuando menos dos veces al año, los libros de registro y demás documentos del Instituto, así como realizar arqueos de fondos y revisión de las cuentas bancarias y de inversión, enviando al Consejo Directivo un informe de sus actividades;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
-V. Intervenir en la revisión de los Estados Financieros de fin de cada ejercicio;
+###### Artículo 18.
 
-VI. Proponer se inserten en el orden del día de las Sesiones del Consejo Directivo, los puntos que crea pertinente tratar;
+Las relaciones laborales entre el Fondo Morelos y sus trabajadores se regirán por las Condiciones Generales de Trabajo y demás normativa aplicable.
 
-VII. Asistir a las Sesiones del Consejo Directivo, en las que tendrá voz, pero no voto;
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
 
-VIII. Formar parte del Subcomité para el Control de las Adquisiciones del Instituto;
+###### Artículo 19.
 
-IX. Vigilar las operaciones del Instituto;
+Las funciones y perfiles de los servidores públicos asignados al Fondo Morelos serán definidos en los Manuales Administrativos aprobados por el Consejo Directivo.
 
-X. Recibir las quejas y denuncias que se presenten por el incumplimiento a lo previsto en esta Ley y darles el curso legal correspondiente, de conformidad con la normatividad aplicable; y
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
 
-XI. Las demás que le encomiende el Consejo Directivo, el Reglamento Interior de la Secretaría de la Contraloría del Estado y demás disposiciones relativas y aplicables.
+###### Artículo 20.
 
-###### ARTÍCULO 18.
-
-El Instituto contará con los servidores públicos y personal necesario para el buen desempeño de sus actividades, en los términos que apruebe el Consejo Directivo, con base en su Presupuesto de Egresos, quienes tendrán las facultades y obligaciones establecidas en el Reglamento y demás disposiciones normativas del Instituto y regirán su relación laboral con éste, de conformidad con las leyes de la materia aplicables.
+Los casos no previstos en el presente Capítulo se resolverán mediante acuerdo del Consejo Directivo, conforme a las disposiciones jurídicas aplicables y las consideraciones realizadas por la Secretaría o Dependencia coordinadora del sector al que pertenece el Fondo Morelos.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -398,3 +448,21 @@ SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERA. En un plazo no mayor a treinta días hábiles, contados a partir de la entrada en vigor del presente Decreto, deberá instalarse el Consejo Directivo del Instituto Morelense para el Financiamiento del Sector Productivo que por virtud del presente Decreto se modifica.
 
 CUARTA. El Consejo Directivo del Instituto Morelense para el financiamiento del Sector Productivo, contará con un plazo de treinta días hábiles, a partir de la fecha de su instalación, para realizar las reformas pertinentes a su Estatuto Orgánico.
+
+P.O. 21 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO NOVECIENTOS NOVENTA Y TRES POR EL QUE SE REFORMA DE MANERA INTEGRAL LA LEY DEL INSTITUTO MORELENSE PARA EL FINANCIAMIENTO DEL SECTOR PRODUCTIVO".]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado para los efectos a que se refieren los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan las disposiciones legales y administrativas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+CUARTA. Dentro de un plazo no mayor a sesenta días hábiles, contados a partir del día siguiente al de la entrada en vigor del presente Decreto, deberá instalarse con su nueva integración el Consejo Directivo del Fondo Morelos.
+
+QUINTA. Dentro de un plazo de ciento veinte días hábiles a partir de la instalación del Consejo Directivo a que se hace referencia en la disposición transitoria que antecede, deberá reformarse el Estatuto Orgánico del Fondo Morelos, en términos de la normativa aplicable.
+
+SEXTA. Los convenios, contratos y demás compromisos u obligaciones del Instituto Morelense para el Financiamiento del Sector Productivo, denominado también como Fondo Morelos, no se verán afectados en su vigencia o validez con motivo de la expedición de este instrumento, menos aún, sus obligaciones y derechos derivados de sus relaciones de trabajo y en materia de seguridad social.
+
+SÉPTIMA. Dentro de un plazo de diez días hábiles, contados a partir del inicio de la vigencia de este Decreto, el Director General del Fondo Morelos deberá solicitar en el Registro Público de los Organismos Descentralizados del Estado de Morelos, a cargo de la Secretaría de Hacienda del Poder Ejecutivo Estatal, la inscripción de este instrumento jurídico, de conformidad con lo dispuesto en el artículo 86 de la Ley Orgánica de la Administración Pública del Estado de Morelos.
