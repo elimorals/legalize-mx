@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-transporte-del-estado-de-campeche-61645"
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-09"
-last_updated: "2008-06-09"
+last_updated: "2016-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE TRANSPORTE DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2016.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 9 de junio de 2008.
 
@@ -363,7 +363,13 @@ XXVI. Denunciar ante la autoridad correspondiente, cuando se presuma la comisió
 
 XXVII. Informar a las Secretarías de Finanzas y Administración, y de Seguridad Pública, respecto del otorgamiento de concesiones y permisos, y de la aplicación de sanciones a prestadores del servicio de transporte;
 
-XXVIII. Todas las demás que le confieran otros ordenamientos legales y el reglamento de la presente Ley.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2016)</small>
+
+XXVIII. Adoptar las medidas necesarias para prevenir y erradicar la violencia de género y todas las formas de acoso sexual y hostigamiento en las unidades de servicio público de transporte;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2016)</small>
+
+XXIX.- Todas las demás que le confieran otros ordenamientos legales y el reglamento de la presente Ley
 
 ###### ARTÍCULO 26.
 
@@ -1724,3 +1730,13 @@ En cumplimiento de lo dispuesto por los Artículos 48, 49 y 71 Fracción XVIII d
 Dado en el Palacio del Gobierno del Estado, en San Francisco de Campeche, Campeche, a los seis días de junio del año dos mil ocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CARLOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, M. EN D. RICARDO MEDINA FARFAN. RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 64 POR EL QUE “SE REFORMA LA FRACCIÓN XXVIII Y SE ADICIONA UNA FRACCIÓN XXIX AL ARTÍCULO 25 DE LA LEY DE TRANSPORTE DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
