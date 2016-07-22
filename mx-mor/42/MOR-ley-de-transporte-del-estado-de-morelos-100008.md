@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-transporte-del-estado-de-morelos-100008"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-26"
-last_updated: "2015-08-05"
+last_updated: "2016-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,15 @@ state: "MOR"
 ---
 # LEY DE TRANSPORTE DEL ESTADO DE MORELOS
 
+(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA, EL VEINTIDÓS DE JULIO DE DOS MIL DIECISÉIS, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA, EL VEINTIDÓS DE JULIO DE DOS MIL DIECISÉIS, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
 LEY DE TRANSPORTE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de marzo de 2014.
 
@@ -449,9 +455,25 @@ IV. La persona Titular de la unidad encargada de obras públicas.
 
 El Reglamento Municipal, establecerá lo relativo a la organización y funcionamiento del Concejo Municipal de Transporte. Además, se contemplará la participación de particulares que presten el Servicio de Transporte Público en el territorio del Municipio con voz pero sin voto.
 
-## TÍTULO TERCERO. DEL PROGRAMA ESTATAL DE DESARROLLO DEL TRANSPORTE
+(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE REFORMA LA DENOMINACIÓN DE ESTE TÍTULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-### CAPÍTULO ÚNICO
+(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE REFORMA LA DENOMINACIÓN DE ESTE TÍTULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JULIO DE 2016)</small>
+
+## TÍTULO TERCERO. DEL PROGRAMA ESTATAL DE DESARROLLO DEL TRANSPORTE Y DE LAS ZONAS DE TRÁNSITO CONTROLADO
+
+(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE REFORMA LA DENOMINACIÓN DE ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE REFORMA LA DENOMINACIÓN DE ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2016)</small>
+
+### CAPÍTULO PRIMERO. DEL PROGRAMA ESTATAL
 
 ###### Artículo 24.
 
@@ -471,11 +493,51 @@ Para los fines del artículo anterior, el Secretario tomará en cuenta los recur
 
 Los Ayuntamientos, podrán emitir opinión al Programa Estatal de Desarrollo del Transporte, en lo que respecta al ámbito territorial de su competencia, llevándose a cabo en el inicio del sexenio o en su revisión.
 
-### CAPÍTULO ÚNICO
+(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE JULIO DE 2016)</small>
+
+### CAPÍTULO SEGUNDO. DE LAS ZONAS DE TRÁNSITO CONTROLADO
+
+(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2016)</small>
+
+###### Artículo 26 Bis.
+
+Para efectos de esta Ley, las zonas de tránsito controlado son sistemas de control y regulación del tránsito en zonas urbanas específicas de las ciudades.
+
+Estas zonas serán determinadas por la Secretaría, conjuntamente con otras autoridades estatales y municipales competentes, de conformidad con la normativa aplicable.
+
+(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2016)</small>
+
+###### Artículo 26 Ter.
+
+Las zonas de tránsito controlado comprenderán los siguientes aspectos:
+
+I. Priorización del tránsito peatonal, mediante la ejecución de programas y proyectos que incentiven la infraestructura peatonal, integrando los conceptos de accesibilidad universal;
+
+II. Regulación de la operación de los sistemas de transporte, considerando los sistemas no motorizados y, en su caso, la interconexión de modos de transporte, y
+
+III. Las demás que determine el Reglamento.
 
 ## TÍTULO CUARTO. DEL CONSEJO CONSULTIVO DE TRANSPORTE
 
-### CAPÍTULO PRIMERO. DE LOS SERVICIOS DE TRANSPORTE PÚBLICO
+### CAPÍTULO ÚNICO
 
 ###### Artículo 27.
 
@@ -559,7 +621,7 @@ Para la integración del Consejo, cada dos años, el Titular de la Secretaría, 
 
 ## TÍTULO QUINTO. DE LOS SERVICIOS DE TRANSPORTE
 
-### CAPÍTULO SEGUNDO. DEL SERVICIOS DE TRANSPORTE PRIVADO
+### CAPÍTULO PRIMERO. DE LOS SERVICIOS DE TRANSPORTE PÚBLICO
 
 ###### Artículo 32.
 
@@ -595,7 +657,7 @@ III. Servicio de Grúas.- Es el que se presta en vehículos equipados con elevad
 
 Se entenderá por arrastre y salvamento: El conjunto de maniobras necesarias para poner sobre el camino a los vehículos accidentados, sus partes o su carga, y así efectuar la acción propia del arrastre. Para la operación de servicio de arrastre y salvamento se deberá contar con el tipo de grúa que para cada caso señale el Reglamento respectivo.
 
-### CAPÍTULO TERCERO. DEL SERVICIO DE TRANSPORTE PARTICULAR
+### CAPÍTULO SEGUNDO. DEL SERVICIOS DE TRANSPORTE PRIVADO
 
 ###### Artículo 36.
 
@@ -617,7 +679,7 @@ VII. Giros Restringidos.- Es el que se presta en vehículos que requieren tener 
 
 VIII. Servicios Funerarios.- Son aquellos que se efectúan para el traslado de cadáveres de personas para su inhumación o incineración.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO TERCERO. DEL SERVICIO DE TRANSPORTE PARTICULAR
 
 ###### Artículo 37.
 
@@ -641,11 +703,77 @@ Los permisos particulares que refiere este precepto, serán otorgados por la Dir
 
 Los funcionarios que contravengan lo establecido en el presente artículo, serán acreedores a las sanciones establecidas en el Ley Estatal de Responsabilidades de los Servidores Públicos.
 
-### CAPÍTULO PRIMERO. DE LAS CONCESIONES
+(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE JULIO DE 2016)</small>
+
+### CAPÍTULO CUARTO. DEL SISTEMA INTEGRADO DE TRANSPORTE MASIVO
+
+(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2016)</small>
+
+###### Artículo 38 Bis.
+
+Corresponde a la Secretaría la planeación del desarrollo de la movilidad y el transporte, atendiendo a políticas y proyectos sustentables que produzcan la mayor satisfacción de los usuarios y la minimización de las externalidades negativas, considerando un Sistema que atienda, de manera integral y masiva, los desplazamientos de las personas.
+
+Se entiende como transporte masivo el que permite el traslado de mayor número de usuarios en tiempos cortos y largos trayectos, con visión regional y conurbada, cuyas características en la prestación del servicio sean la seguridad, la comodidad y la confiabilidad, utilizando vehículos adecuados para tener emisiones contaminantes atmosféricas reducidas.
+
+(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2016)</small>
+
+###### Artículo 38 Ter.
+
+El Sistema Integrado de Transporte Masivo fungirá como medio de coordinación de la Secretaría con las autoridades y dependencias federales, con la inclusión de los sectores social y privado, que coadyuven a desarrollar un servicio accesible a la mayoría de la población, que tenga como objetivos:
+
+I. Gestionar proyectos de infraestructura de transporte masivo con alta rentabilidad social, en sus diversas modalidades, que permitan acciones de cofinanciamiento con las autoridades locales, propiciando la participación de la inversión privada, y
+
+II. Promover el fortalecimiento institucional de las autoridades locales en materia de planeación, regulación y administración de sistemas integrados de transporte público urbano, conurbado, metropolitano y suburbano.
+
+(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2016)</small>
+
+###### Artículo 38 Quater.
+
+El Sistema Integrado de Transporte Masivo se establecerá mediante los siguientes elementos mínimos:
+
+I. Infraestructura y equipamiento de transporte masivo, y
+
+II. Unidades vehiculares especializadas.
+
+Adicionalmente, en este Sistema podrá contarse con otros elementos, tales como el sistema de telemetría y los mecanismos de pago o prepago de los servicios; lo anterior en los términos que al efecto señale el Reglamento.
+
+Para el funcionamiento y operación del Sistema Integrado de Transporte Masivo, la Secretaría y los sectores social y privado podrán constituir fondos cuyos recursos serán administrados y operados a través de uno o varios fideicomisos, mismos que deberán contar con un Comité Técnico, estando obligados, cuando menos, a:
+
+I. Administrar cautelosamente los recursos, a fin de permitir el cumplimiento efectivo de sus fines;
+
+II. Crear mecanismos e incentivos para nutrirse de recursos, y
+
+III. Realizar las previsiones necesarias a fin de procurarse solvencia.
+
+Los recursos de los fideicomisos se aplicarán para los fines que se determinen en el instrumento que los constituya y rija.
 
 ## TÍTULO SEXTO. DE LOS SERVICIOS AUXILIARES DEL TRANSPORTE
 
-### CAPÍTULO SEGUNDO. DE LA DURACIÓN DE LAS CONCESIONES
+### CAPÍTULO ÚNICO
 
 ###### Artículo 39.
 
@@ -685,7 +813,7 @@ La operación y explotación de terminales, o en su caso, de bases, talleres de 
 
 ## TÍTULO SÉPTIMO. DE LAS CONCESIONES Y PERMISOS
 
-### CAPÍTULO TERCERO. DE LA NULIDAD DE LA CESIÓN DE DERECHOS DEL TÍTULO DE CONCESIÓN
+### CAPÍTULO PRIMERO. DE LAS CONCESIONES
 
 ###### Artículo 44.
 
@@ -805,9 +933,41 @@ El otorgamiento de una concesión obliga a proteger de manera efectiva a los usu
 
 El Gobernador Constitucional del Estado de Morelos, evitará el monopolio del transporte, en consecuencia, las personas físicas no podrán ser titulares de más de tres concesiones; en el caso de las personas morales, será necesario que haya cuando menos un socio por cada tres concesiones, cada socio deberá limitar sus aportaciones a la explotación de tres vehículos, sin perjuicio de las sumas que fuere necesario aportar para el establecimiento de los servicios auxiliares del transporte. La misma limitación deberá observarse durante el término de vigencia de la sociedad y, por tanto, ningún socio podrá aumentar su participación social ni adquirir acciones de la sociedad concesionaria en una proporción que exceda a la autorizada en este artículo. Tratándose de personas físicas, la concesión que en su favor expida el Gobernador Constitucional del Estado de Morelos, será explotada con un sólo vehículo.
 
+(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2016)</small>
+
 ###### Artículo 54.
 
-Las personas físicas titulares de concesión, podrán constituir sociedades mercantiles de las permitidas por las Leyes mexicanas, con la aportación en goce o en titularidad de sus concesiones. Sin que ello conlleve a la pérdida de la titularidad como concesionario; la disolución de la Asociación se realizará de acuerdo a lo establecido en la Ley General de Sociedades Mercantiles.
+Las personas físicas titulares de concesiones, preferentemente morelenses en términos de la presente Ley, podrán incorporarse o conformarse en personas morales constituidas como empresas, con la aportación en goce al equivalente de su concesión; la disolución de la asociación se realizará de acuerdo a lo establecido en la normativa aplicable.
+
+(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2016)</small>
+
+###### Artículo 54 Bis.
+
+La concesión para la prestación del servicio en zonas metropolitanas y corredores troncales de transporte masivo, únicamente se otorga a las personas morales constituidas en empresas que cumplan los requisitos establecidos en esta Ley, su Reglamento y demás disposiciones jurídicas y administrativas aplicables, debiendo conservar durante la vigencia, el tipo de sociedad, objeto social exclusivo para transporte y sus servicios auxiliares, personalidad jurídica y razón social con la que obtuvo la concesión, así como el número de accionistas y capital social.
+
+(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2016)</small>
+
+###### Artículo 54 Ter.
+
+La concesión otorgada a las personas morales constituidas en empresas, autoriza y ampara la cantidad de vehículos que arrojen los estudios de factibilidad realizados en la zona donde habrá de prestarse el servicio de transporte público de pasajeros con o sin itinerario fijo.
 
 ###### Artículo 55.
 
@@ -855,7 +1015,7 @@ XIV. Lugar y fecha de expedición y firma de la autoridad concedente.
 
 Las ampliaciones de itinerario o itinerarios pueden ser solicitadas al Municipio por los usuarios, concesionarios o bien por la Secretaría.
 
-### CAPÍTULO CUARTO. DEL PROCEDIMIENTO DE CONCURSO
+### CAPÍTULO SEGUNDO. DE LA DURACIÓN DE LAS CONCESIONES
 
 ###### Artículo 58.
 
@@ -895,7 +1055,7 @@ c) Tarjetón que autoriza la prestación del servicio, y
 
 d) Seguro o en su caso, fondo de garantía que ampare la responsabilidad civil por los montos que para tal efecto fije la Ley de Caminos, Puentes y Auto Transporte Federal y el Reglamento de Auto Transporte Federal y Servicios Auxiliares.
 
-### CAPÍTULO QUINTO. DE LA EXTINCIÓN DE LAS CONCESIONES
+### CAPÍTULO TERCERO. DE LA NULIDAD DE LA CESIÓN DE DERECHOS DEL TÍTULO DE CONCESIÓN
 
 ###### Artículo 62.
 
@@ -937,7 +1097,7 @@ En caso de que no se pusieran de acuerdo, el Secretario emitirá la Convocatoria
 
 Si el titular de la concesión es demandado por alimentos, la autoridad judicial, sólo podrá decretar medida cautelar, sobre el producto de los derechos de explotación y no sobre la concesión.
 
-### CAPÍTULO SEXTO. DE LOS PERMISOS
+### CAPÍTULO CUARTO. DEL PROCEDIMIENTO DE CONCURSO
 
 ###### Artículo 67.
 
@@ -971,7 +1131,7 @@ IV. En la fecha establecida para el concurso, se calificará la procedencia de l
 
 V. Posterior a la publicación referida en la fracción que antecede, en los siguientes treinta días, el Secretario expedirá, previo el pago de los derechos correspondientes, el título de concesión, que contendrá lo establecido en el artículo 56 de este ordenamiento.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO QUINTO. DE LA EXTINCIÓN DE LAS CONCESIONES
 
 ###### Artículo 68.
 
@@ -1045,7 +1205,7 @@ XIV. Modificar la cláusula de exclusión de extranjeros cuando se trate de soci
 
 XV. Por las demás causas que señale la presente Ley, y el Reglamento o cualquier otra disposición jurídica y administrativa aplicable.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO SEXTO. DE LOS PERMISOS
 
 ###### Artículo 72.
 
@@ -1243,7 +1403,7 @@ V. Cuando así lo ordene la autoridad Judicial o Administrativa competentes.
 
 ## TÍTULO DÉCIMO. DE LA CAPACITACIÓN
 
-### CAPÍTULO PRIMERO. DE LAS OBLIGACIONES DE LOS CONCESIONARIOS Y PERMISIONARIOS
+### CAPÍTULO ÚNICO
 
 ###### Artículo 88.
 
@@ -1281,7 +1441,7 @@ II. Certificar los cursos requeridos por la Dirección General de Transporte, pa
 
 ## TÍTULO DÉCIMO PRIMERO. DEL REGISTRO PÚBLICO ESTATAL DE TRANSPORTE
 
-### CAPÍTULO SEGUNDO. DE LAS OBLIGACIONES DE LOS OPERADORES DEL TRANSPORTE PÚBLICO
+### CAPÍTULO ÚNICO
 
 ###### Artículo 93.
 
@@ -1339,7 +1499,7 @@ Toda información deberá solicitarse por escrito y será proporcionada por el r
 
 ## TÍTULO DÉCIMO SEGUNDO. DE LAS OBLIGACIONES DE LOS CONCESIONARIOS, PERMISIONARIOS Y OPERADORES DEL TRANSPORTE PÚBLICO
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO PRIMERO. DE LAS OBLIGACIONES DE LOS CONCESIONARIOS Y PERMISIONARIOS
 
 ###### Artículo 99.
 
@@ -1419,7 +1579,7 @@ A fin de garantizar los principios de generalidad, regularidad, seguridad y efic
 
 Los vehículos autorizados para la prestación del Servicio de Transporte Público de pasajeros, se ajustarán a los lineamientos que la Secretaría emita respecto de aspectos técnicos, de mantenimiento, conservación, renovación, de seguridad, capacidad, comodidad, así como a las condiciones de accesibilidad para personas discapacitadas, adultos mayores, mujeres en período de gestación. En ningún caso podrá prestarse el Servicio de Transporte Público de pasajeros con vehículos cuyo año o modelo sea superior a 10 años.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO SEGUNDO. DE LAS OBLIGACIONES DE LOS OPERADORES DEL TRANSPORTE PÚBLICO
 
 ###### Artículo 102.
 
@@ -1583,7 +1743,7 @@ La Secretaría, podrá autorizar el establecimiento de tarifas especiales, previ
 
 ## TÍTULO DÉCIMO QUINTO. DE LA PUBLICIDAD EN LOS VEHÍCULOS DE TRANSPORTE
 
-### CAPÍTULO PRIMERO. DE LAS INFRACCIONES Y SANCIONES
+### CAPÍTULO ÚNICO
 
 ###### Artículo 114.
 
@@ -1643,7 +1803,7 @@ En caso de reincidencia, se procederá a la cancelación de la autorización. En
 
 ## TÍTULO DÉCIMO SEXTO. DE LA INSPECCIÓN Y VIGILANCIA
 
-### CAPÍTULO SEGUNDO. DE LAS CAUSAS DE REMISIÓN DE VEHÍCULOS A LOS DEPÓSITOS VEHICULARES
+### CAPÍTULO ÚNICO
 
 ###### Artículo 123.
 
@@ -1693,7 +1853,7 @@ En caso de que un supervisor detecte un vehículo operando Servicios de Transpor
 
 ## TÍTULO DÉCIMO SÉPTIMO. DE LAS INFRACCIONES, SANCIONES, DEL PROCEDIMIENTO PARA SU APLICACIÓN
 
-### CAPÍTULO TERCERO. DE LA IMPUGNACIÓN DE LAS SANCIONES
+### CAPÍTULO PRIMERO. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 130.
 
@@ -1821,7 +1981,7 @@ El operador del transporte público, cuyo gafete haya sido cancelado no tendrá 
 
 Para el caso de suspensión, el interesado podrá solicitar la devolución cuando haya transcurrido el tiempo de la suspensión.
 
-### CAPÍTULO CUARTO. DEL PROCEDIMIENTO DE CANCELACIÓN, SUSPENSIÓN Y REVOCACION DE LAS CONCESIONES Y PERMISOS
+### CAPÍTULO SEGUNDO. DE LAS CAUSAS DE REMISIÓN DE VEHÍCULOS A LOS DEPÓSITOS VEHICULARES
 
 ###### Artículo 139.
 
@@ -1851,7 +2011,7 @@ XI. Cuando el operador del transporte público ponga en riesgo evidente la segur
 
 XII. Cuando se impida la operación del servicio de transporte en perjuicio de terceros.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO TERCERO. DE LA IMPUGNACIÓN DE LAS SANCIONES
 
 ###### Artículo 140.
 
@@ -1860,6 +2020,8 @@ El procedimiento para la impugnación en la aplicación de sanciones previstas p
 ###### Artículo 141.
 
 El procedimiento de cancelación, revocación o nulidad de concesiones y permisos, deberá ajustarse a lo establecido en este ordenamiento y al procedimiento contenido en la Ley de Procedimiento Administrativo para el Estado de Morelos.
+
+### CAPÍTULO CUARTO. DEL PROCEDIMIENTO DE CANCELACIÓN, SUSPENSIÓN Y REVOCACION DE LAS CONCESIONES Y PERMISOS
 
 ###### Artículo 142.
 
@@ -1888,6 +2050,8 @@ La persona física que haya dejado de ser titular de una concesión o permiso po
 Las concesiones o permisos que se otorguen fuera de los procedimientos y requisitos que señala la presente Ley serán nulos. Para declarar la nulidad de las concesiones, se estará a lo dispuesto por la Ley de Procedimiento Administrativo del Estado de Morelos.
 
 ## TÍTULO DÉCIMO OCTAVO. DEL RECURSO DE REVISIÓN
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 147.
 
@@ -1944,3 +2108,23 @@ P.O. 5 DE AGOSTO DE 2015.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA, EL VEINTIDÓS DE JULIO DE DOS MIL DIECISÉIS, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA, EL VEINTIDÓS DE JULIO DE DOS MIL DIECISÉIS, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+P.O. 22 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE "DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPORTE DEL ESTADO DE MORELOS Y DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. En un plazo no mayor a 180 días hábiles contados a partir del día siguiente al que dé inicio la vigencia del presente Decreto, deberán expedirse, actualizarse o modificarse las disposiciones reglamentarias que derivan de los instrumentos legislativos reformados.
+
+CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+QUINTA. Se autoriza al Poder Ejecutivo Estatal, a través de la (sic) Secretarías de Hacienda y de Movilidad y Transporte, para que realice las acciones necesarias para la constitución de los fideicomisos a que se refiere el presente Decreto.
