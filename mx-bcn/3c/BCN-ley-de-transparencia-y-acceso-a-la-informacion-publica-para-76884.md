@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-768
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-01"
-last_updated: "2015-11-20"
+last_updated: "2016-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2016.
 
 Ley publicada en la Sección II al Periódico Oficial del Estado de Baja California, el viernes 1 de octubre de 2010.
 
@@ -1047,7 +1047,7 @@ I.- Sea extemporáneo;
 
 II.- Exista cosa juzgada;
 
-III.- Se recurra una resolución que no haya sido emitido (sic) por el sujeto obligado; o,
+III.- Se recurra una resolución que no haya sido emitido por el sujeto obligado; o,
 
 IV.- Se esté tramitando ante los tribunales competentes algún recurso o medio de defensa interpuesto por el recurrente, respecto del mismo acto o resolución.
 
@@ -1169,7 +1169,11 @@ PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación
 
 SEGUNDO.- Se abroga la Ley de Acceso a la Información Pública para el Estado de Baja California, publicada en el Periódico Oficial No. 36, de fecha 12 de Agosto de 2005.
 
-TERCERO.- En todas las disposiciones legales en las que se haga mención a la Ley de Acceso a la Información Pública para el Estado de Baja California, se entenderán referidas a la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2016)</small>
+
+TERCERO.- Los sujetos obligados deberán expedir o modificar sus reglamentos internos a más tardar dentro de los noventa días naturales contados a partir de la publicación de esta Ley, en el Periódico Oficial del Estado.
+
+Respecto a la obligación de los sujetos obligados para publicar en su página de internet la información a la que aluden los capítulos II y III del Título Quinto de esta Ley, el plazo será el que estableció el Consejo Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales en los Lineamientos técnicos generales para la publicación, homologación y estandarización de la información de las obligaciones establecidas en el Título Quinto y en la fracción IV del artículo 31 de la Ley General de Transparencia y Acceso a la Información Pública, que deben de difundir los sujetos obligados en los portales de internet y en la plataforma nacional de transparencia, publicados el 4 de mayo del 2016, en el Diario Oficial de la Federación.
 
 CUARTO.- Los asuntos que se encuentren en trámite, serán substanciados conforme al procedimiento previsto en la Ley anterior.
 
@@ -1207,7 +1211,7 @@ CUAUHTÉMOC CARDONA BENAVIDES.
 
 SECRETARIO GENERAL DE GOBIERNO.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 4 DE OCTUBRE DE 2013.
 
@@ -1224,3 +1228,9 @@ SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicac
 P.O. 20 DE NOVIEMBRE DE 2015.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 22 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 531 MEDIANTE EL CUAL SE REFORMA AL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA".]
+
+UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
