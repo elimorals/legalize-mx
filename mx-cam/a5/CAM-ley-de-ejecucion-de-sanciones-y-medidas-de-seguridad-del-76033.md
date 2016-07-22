@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-ejecucion-de-sanciones-y-medidas-de-seguridad-del-76033"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-23"
-last_updated: "2011-06-17"
+last_updated: "2016-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76033&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE EJECUCION DE SANCIONES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE CAMPECHE
 
-LEY DE EJECUCION DE SANCIONES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE CAMPECHE
+LEY DE EJECUCIÓN DE SANCIONES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO DEL DECRETO NÚMERO 65, PUBLICADO EN EL P.O. DE 22 DE JULIO DE 2016, SE DECLARA QUE A PARTIR DE LA ENTRADA EN VIGOR DE LA LEY NACIONAL DE EJECUCIÓN PENAL, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL DÍA 16 DE JUNIO DE 2016, QUEDA ABROGADO EL PRESENTE ORDENAMIENTO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 23 de julio de 2010.
 
@@ -2692,3 +2694,37 @@ Al entrar en vigor la Ley de Ejecución en cita se abrogan la Ley de Ejecución 
 TERCERO. La Secretaría de Seguridad Pública y Protección a la Comunidad tendrá 90 días contados a partir de la entrada en vigor de la Ley de Ejecución de Sanciones y Medidas de Seguridad del Estado de Campeche para expedir los reglamentos que resulten necesarios para la aplicación de la norma en mención.
 
 CUARTO. Para el caso de que al momento de iniciar vigencia la Ley de Ejecución de Sanciones y Medidas de Seguridad del Estado de Campeche la legislación adjetiva penal vigente en la entidad no contenga el sistema acusatorio adversarial para los procesos penales, todas las referencias al juez de control y tribunal de juicio oral contenidas en la Ley de Ejecución en cita, se entenderán hechas a los jueces de primera instancia en materia penal.
+
+P.O. 22 DE JULIO DE 2016.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL DECRETO NÚMERO 65 QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+D E C R E T O
+
+La LXII Legislatura del Congreso del Estado de Campeche decreta:
+
+Número 65
+
+DECLARATORIA DE ENTRADA EN VIGOR EN EL ESTADO DE CAMPECHE DE LA LEY NACIONAL DE EJECUCIÓN PENAL.
+
+###### ARTÍCULO PRIMERO.
+
+Se declara que la Ley Nacional de Ejecución Penal, publicada en el Diario Oficial de la Federación el día 16 de junio de 2016, ha sido incorporada al marco jurídico del Estado de Campeche y, en consecuencia, establecerá las normas que deban observarse durante el internamiento por prisión preventiva, en la ejecución de penas y en las medidas de seguridad impuestas como consecuencia de una resolución judicial, así como que empezará a regular los procedimientos para resolver las controversias que surjan con motivo de la ejecución penal y los medios para lograr la reinserción social.
+
+###### ARTÍCULO SEGUNDO.
+
+Se declara que a partir de la entrada en vigor de la Ley Nacional de Ejecución Penal, quedó abrogada la Ley de Ejecución de Sanciones y Medidas de Seguridad del Estado de Campeche.
+
+Los procedimientos que se encuentren en trámite a la entrada en vigor del presente ordenamiento, continuarán con su sustanciación de conformidad con la legislación aplicable al inicio de los mismos, debiendo aplicar los mecanismos de control jurisdiccional previstos en la presente Ley, de acuerdo con el principio pro persona establecido en el artículo 1° de la Constitución Política de los Estados Unidos Mexicanos.
+
+A partir de la entrada en vigor del presente decreto, se derogan todas las disposiciones normativas que contravengan el mismo.
+
+T R A N S I T O R I O S
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Remítase copia de este decreto para su conocimiento a los Poderes Legislativo, Ejecutivo y Judicial de la Federación; Ejecutivo y Judicial del Estado de Campeche; Legislativo, Ejecutivo y Judicial de las demás entidades federativas; así como a los HH. Ayuntamientos del Estado; y a todas aquellas autoridades a las que les resulte de observancia obligatoria.
+
+Tercero.- El Consejo para la implementación del Sistema de Justicia Penal en el Estado de Campeche, (por su acrónimo "CISJUPE"), en su carácter de instancia de coordinación en el ámbito estatal, deberá difundir la presente declaratoria para su conocimiento general, a través de los medios de comunicación masiva.
+
+Cuarto.- Los Poderes Ejecutivo, Legislativo y Judicial del Estado, tomarán oportunamente todas las previsiones necesarias para el cumplimiento de los efectos que se deriven de la presente declaratoria.
