@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-del-deporte-11534"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2012-05-09"
+last_updated: "2016-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DEL DEPORTE EN EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2016.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el viernes 21 de febrero de 1997.
 
@@ -215,9 +215,17 @@ VI.- Proponer y realizar estudios e investigaciones en materia deportiva, consid
 
 VII.- Evaluar permanentemente la práctica del deporte y la cultura física en el Estado, proponiendo los lineamientos que considere adecuados para el cumplimiento de los fines de esta Ley;
 
-VIII.- Promover el otorgamiento de estímulo a las personas que destaquen en alguna actividad deportiva; y
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2016)</small>
 
-IX.- Las demás que le otorgue esta Ley, su reglamento y demás normas reglamentarias y estatutarias, aplicables.
+VIII. Promover el otorgamiento de estímulo a las personas que destaquen en alguna actividad deportiva;
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2016)</small>
+
+IX. Proponer planes y programas que contribuyan a fomentar, promover y estimular el desarrollo de la activación física, la cultura física y el deporte, considerando el pleno reconocimiento a la equidad e igualdad hacia las personas con discapacidad, con la colaboración de la Comisión Estatal Coordinadora de Personas con Discapacidad; y
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2016)</small>
+
+X. Las demás que le otorgue esta Ley, su Reglamento y demás normas reglamentarias y estatutarias, aplicables.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
@@ -286,6 +294,10 @@ Los deportistas profesionales deberán inscribirse en el Registro Estatal del De
 ###### ARTICULO 20.
 
 Para gozar de los estímulos y apoyos que se otorguen a los deportistas, será condición indispensable, su inscripción individual o colectiva en el Registro Estatal del Deporte.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2016)</small>
+
+En el caso de los deportistas con alguna discapacidad, se brindarán las facilidades legales y administrativas posibles que autoricen las autoridades competentes, para cumplir con la condición señalada en el párrafo anterior.
 
 ## TITULO II. DE LA PARTICIPACION DE LOS MUNICIPIOS EN EL SISTEMA ESTATAL DEL DEPORTE
 
@@ -449,13 +461,33 @@ Las personas físicas y jurídicas cuya actividad primordial sea la enseñanza, 
 
 El Gobernador del Estado, promoverá la constitución de un fondo estatal para el desarrollo del deporte, con la participación de los sectores público, social y privado.
 
-### CAPITULO I. DE LAS SANCIONES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE JULIO DE 2016)</small>
+
+### CAPITULO IV. DEL FOMENTO AL DEPORTE ADAPTADO
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2016)</small>
+
+ARTICULO 30 BIS.- El Consejo Estatal del Deporte en su respectivo ámbito de competencia, en coordinación con las Asociaciones Civiles de Deporte para personas con discapacidad además de las facultades previstas en el artículo 14 de la presente Ley tendrá las siguientes:
+
+I. Proponer las condiciones básicas que serán consideradas para el aprovechamiento y realización de las actividades encaminadas a la inclusión en la vida deportiva de personas con discapacidad, respetándose siempre los derechos de igualdad, libertad, accesibilidad, inclusión, autonomía personal, no discriminación y de participación;
+
+Las condiciones mencionadas en el párrafo anterior, estarán conforme a los principios previstos en el artículo primero de la Constitución Política de los Estados Unidos Mexicanos y regirán de manera enunciativa mas no limitativa.
+
+II. Concientizar y motivar el interés integrador y socializador para una mejor inclusión en la vida social de las personas con discapacidad, con apego a los principios y derechos de la presente Ley; y
+
+III. Impulsar el desarrollo de talento de las personas con alguna discapacidad, inculcando la propia superación personal.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2016)</small>
+
+ARTICULO 30 TER.- Las autoridades y personas que tengan participación en la actividad deportiva de una persona con discapacidad promoverán, respetarán, protegerán y garantizarán los derechos humanos de las personas con discapacidad atendiendo a los principios y derechos establecidos en esta Ley.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2016)</small>
+
+ARTICULO 30 QUATER.- El Consejo Estatal del Deporte en coordinación con la Comisión Estatal Coordinadora de Personas con Discapacidad podrá emitir opinión en relación a la suscripción de convenios por parte del Gobierno del Estado con Instituciones Públicas o Privadas, Organismos, Asociaciones y Federaciones para el desarrollo o fomento de actividades del deporte adaptado, en beneficio de los deportistas con discapacidad, para su inclusión en el Programa Estatal del Deporte.
 
 ## TITULO IV. DE LAS SANCIONES ADMINISTRATIVAS Y RECURSOS DEL DEPORTE
 
-### CAPITULO II. DE LOS RECURSOS
-
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2001)</small>
+### CAPITULO I. DE LAS SANCIONES
 
 ###### ARTICULO 31.
 
@@ -525,9 +557,9 @@ b).- Limitación o cancelación de apoyos en el Programa Estatal del Deporte;
 
 c).- Suspensión temporal o definitiva de su participación en eventos deportivos.
 
-### CAPITULO UNICO. DE LAS INSTALACIONES DEPORTIVAS
+### CAPITULO II. DE LOS RECURSOS
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2001)</small>
 
 ###### ARTICULO 33.
 
@@ -544,6 +576,10 @@ Para impugnar la determinación que resuelva el Recurso de Inconformidad, proced
 ## TITULO V. DE LAS INSTALACIONES DEPORTIVAS ESTATALES
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE ENERO DE 2001)</small>
+
+### CAPITULO UNICO. DE LAS INSTALACIONES DEPORTIVAS
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 35.
 
@@ -632,3 +668,11 @@ El presente Decreto entrará en vigor al día hábil siguiente de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 22 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL DEPORTE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
