@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-derechos-humanos-del-estado-de-queretaro-109773"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-03"
-last_updated: "2016-02-05"
+last_updated: "2016-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE DERECHOS HUMANOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 3 de septiembre de 2015.
 
@@ -121,7 +121,7 @@ Toda persona podrá denunciar ante la Defensoría, probables conductas violatori
 
 ###### Artículo 5.
 
-La Defensoría, a petición ciudadana, podrá emitir interpretaciones sobre disposiciones legales que presumiblemente violenten disposiciones en materia de Derechos Humanos, mismas que sólo tendrán efectos de opinión del organismo, las cuales no serán vinculatorias.
+(DEROGADO, P.O. 22 DE JULIO DE 2016)
 
 ###### Artículo 6.
 
@@ -187,7 +187,9 @@ La Defensoría tiene las siguientes atribuciones:
 
 I. Conocer, investigar, desahogar y aplicar los procedimientos que le correspondan conforme a lo señalado en la presente Ley;
 
-II. Conocer e investigar, a petición de parte o de oficio, probables violaciones a los Derechos Humanos, por actos u omisiones de carácter administrativo en que incurran servidores públicos, estatales o municipales o en las que algún otro agente social incurra en ilícitos con la tolerancia o anuencia de algún servidor público o autoridad estatal o municipal;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2016)</small>
+
+II. Conocer e investigar, a petición de parte o de oficio, probables violaciones a los Derechos Humanos, por actos u omisiones de carácter administrativo en que incurran servidores públicos estatales o municipales.
 
 III. Emitir recomendaciones generales, públicas y no vinculatorias, por violaciones a los Derechos Humanos;
 
@@ -267,7 +269,9 @@ La Defensoría estará a cargo de un Presidente, quien deberá reunir para su de
 
 I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles;
 
-II. Tener título de Licenciatura en Derecho y contar con un mínimo de ocho años de experiencia laboral en trabajos relacionados con la defensa de los Derechos Humanos;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2016)</small>
+
+II. Tener preferentemente título de Licenciatura en Derecho y contar con experiencia en materia de Derechos Humanos o actividades a fines (sic) reconocidas en leyes mexicanas y los instrumentos jurídicos internacionales y tener cumplidos treinta y cinco años de edad, el día de su elección.
 
 III. No ser o haber sido dirigente nacional, estatal o municipal de partido o asociación política en los últimos seis años;
 
@@ -275,11 +279,15 @@ IV. No desempeñar o haber desempeñado cargo de elección popular en los últim
 
 V. Ser de reconocida honradez y rectitud;
 
-VI. No haber sido condenado por delito doloso, mediante sentencia ejecutoriada;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2016)</small>
+
+VI. Gozar de buena reputación y no haber sido condenado, mediante sentencia ejecutoriada por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la pena;
 
 VII. Estar vinculado, tener conocimiento y experiencia en materia de derechos humanos y de las condiciones sociales, políticas, económicas y culturales del Estado; y
 
-VIII. Haber residido en el Estado, durante los últimos seis años previos a la elección.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2016)</small>
+
+VIII. Haber residido en el Estado, durante los últimos tres años previos a la elección.
 
 ###### Artículo 20.
 
@@ -293,7 +301,9 @@ Para la elección del Presidente, la Mesa Directiva solicitará a la Junta de Co
 
 Recibida la solicitud referida en el artículo anterior, la Junta emitirá la convocatoria respectiva, en la que se establecerán los requisitos y el procedimiento de evaluación de los candidatos a ocupar el cargo de Presidente; misma que se hará del conocimiento público en los términos que para tal efecto se disponga.
 
-La convocatoria estará dirigida a las organizaciones representativas de los distintos sectores de la sociedad, a los organismos públicos y privados promotores o defensores de los derechos humanos y a la ciudadanía en general, a efecto de que manifiesten sus opiniones sobre los candidatos y formulen propuestas de la persona que a su juicio deba ser electa como Presidente; se publicará cuando menos con seis meses de anticipación a la fecha de la elección del Presidente o en un plazo no mayor a un mes posterior a la remoción del Presidente en funciones.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2016)</small>
+
+La convocatoria estará dirigida a las organizaciones representativas de los distintos sectores de la sociedad, a los organismos públicos y privados promotores o defensores de los Derechos Humanos y a la ciudadanía en general, a efecto de que manifiesten sus opiniones sobre los candidatos y formulen propuestas de la persona que a su juicio deba ser electa como Presidente; se publicará cuando menos con un mes de anticipación a la fecha de la elección del Presidente o en un plazo no mayor a un mes posterior a la remoción del Presidente en funciones.
 
 Dicha publicación deberá realizarse al menos en dos ocasiones, con diferencia de siete días entre cada una de ellas, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", en la página electrónica de la Legislatura y en uno de los periódicos impresos de mayor circulación en el Estado, que determine la Junta de Concertación Política.
 
@@ -343,7 +353,9 @@ VIII. Celebrar, en los términos de la legislación aplicable, acuerdos, bases d
 
 IX. Proponer a los integrantes del Consejo, el proyecto de presupuesto anual de la Defensoría, el cual, una vez aprobado, se le dará trámite legal conducente;
 
-X. Emitir las recomendaciones públicas autónomas y acuerdos que resulten de las investigaciones realizadas por los visitadores, informes y demás resoluciones, cuando las autoridades estatales o municipales no cumplan con su obligación de promover, respetar, proteger y garantizar los Derechos Humanos, así como aplicar el control difuso de la constitucionalidad y convencionalidad y formular las denuncias o quejas ante las autoridades competentes, cuando de una investigación en curso se presuma la comisión de un delito o conducta probamente (sic) irregular de carácter administrativo;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2016)</small>
+
+X. Emitir las recomendaciones públicas autónomas y acuerdos que resulten de las investigaciones realizadas por los visitadores, informes y demás resoluciones, cuando las autoridades estatales o municipales no cumplan con su obligación de promover, respetar, proteger y garantizar los Derechos Humanos, así como formular las denuncias o quejas ante las autoridades competentes, cuando de una investigación en curso se presuma la comisión de un delito o conducta probamente irregular de carácter administrativo;
 
 XI. Asesorar a las personas víctimas de violaciones de Derechos Humanos;
 
@@ -381,7 +393,9 @@ El Consejo funcionará en sesiones ordinarias y extraordinarias; sus integrantes
 
 Las sesiones ordinarias se verificarán cuando menos una vez al mes; las extraordinarias se convocarán por el Presidente o mediante solicitud que formulen tres miembros del Consejo, cuando se estime que hay razones de importancia para ello.
 
-La información contenida en las actas del Consejo se considerará reservada, salvo el orden del día de cada sesión.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2016)</small>
+
+La información contenida en las actas del Consejo será pública, así como el orden del día de cada sesión.
 
 ###### Artículo 31.
 
@@ -407,9 +421,11 @@ La Secretaría Ejecutiva es el órgano dedicada (sic) a la educación, difusión
 
 Los promotores de Derechos Humanos que integren la Secretaría Ejecutiva impulsarán la política de educación y promoción de los Derechos Humanos que encabece la Defensoría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 2016)</small>
+
 ###### Artículo 33.
 
-El Secretario Ejecutivo durará en su cargo hasta cinco años, con posibilidad de ratificación para un período igual. Será designado por mayoría calificada de los integrantes de la Legislatura, a propuesta del Presidente de la Defensoría, quien, para tal efecto, deberá sugerir a tres candidatos que cumplan con los siguientes requisitos:
+El Secretario Ejecutivo será designado por el Presidente de la Defensoría, quien para su selección deberá vigilar que cumpla con los siguientes requisitos:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
 
@@ -447,17 +463,15 @@ VIII. Las demás que le sean conferidas por el Consejo y las disposiciones legal
 
 ### Capítulo VI. Del Visitador General
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2016)</small>
+
 ###### Artículo 35.
 
-El Visitador General será designado por (sic) Legislatura en los mismos términos establecidos para el Secretario Ejecutivo; durará en su cargo cinco años, con posibilidad de ratificación hasta por un período igual, por una sola vez.
+El Visitador General será designado por el Presidente de la Defensoría.
 
-Para el caso de que uno o más de los candidatos a Visitador General que integren la terna propuesta por el Presidente no cumplan con los requisitos señalados, la misma será desechada por acuerdo de la Mesa Directiva, solicitando al Presidente que proponga nueva terna en un plazo no mayor a 15 días, en la nueva terna en la que se podrá incluir a los candidatos que sí hayan cumplido con los requisitos de ley.
-
-El Visitador General, para el desarrollo de sus funciones, contará con plazas de Visitadores Adjuntos, Visitadores Adjuntos Auxiliares y demás personal, el que estará bajo su cargo. Su distribución y funcionamiento se sujetará a lo dispuesto en el reglamento.
+Para el desarrollo de sus funciones, contará con plazas de Visitadores Adjuntos, Visitadores Adjuntos Auxiliares y demás personal, el que estará bajo su cargo. Su distribución y funcionamiento se sujetará a lo dispuesto en el reglamento.
 
 El Visitador General suplirá las ausencias del Presidente en funciones.
-
-Podrá ser removido bajo el procedimiento establecido para la remoción del Presidente, por incurrir en alguna de las causas graves establecidas en el artículo 131 de la presente Ley.
 
 ###### Artículo 36.
 
@@ -475,11 +489,15 @@ Los Visitadores Adjuntos serán designados por el Visitador General; lo auxiliar
 
 Las suplencias de los Visitadores Adjuntos y del resto del personal de la Defensoría, se sujetarán a lo dispuesto en el Reglamento Interior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 2016)</small>
+
 ###### Artículo 37.
 
-El Visitador General, tiene las siguientes facultades:
+El Visitador General, tiene las siguientes atribuciones:
 
-I. Designar a los Visitadores Adjuntos;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2016)</small>
+
+I. Designar a los Visitadores Adjuntos y Visitadores Adjuntos Auxiliares;
 
 II. Coordinar el trabajo del personal a su cargo;
 
@@ -607,9 +625,11 @@ La queja respectiva deberá presentarse por escrito o por comparecencia; en caso
 
 Cuando los quejosos o denunciantes se encuentren recluidos en un centro de detención o reclusorio, sus escritos deberán ser transmitidos a la Defensoría, sin demora alguna, por los encargados de dichos centros o reclusorios o aquellos podrán entregarse directamente al Visitador General o a los Visitadores Adjuntos.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2016)</small>
+
 ###### Artículo 48.
 
-Cuando el quejoso solicite que su nombre se mantenga en la más estricta reserva, la Defensoría resolverá conforme a la circunstancia particular de la queja. Los testigos podrán solicitar la confidencialidad de sus nombres.
+El nombre del quejoso se mantendrá bajo la más estricta reserva a menos de que manifieste su voluntad por hacerlo público; de igual forma, se mantendrá bajo reserva los nombres de los testigos, quienes solo por petición expresa podrán hacerlo público.
 
 ###### Artículo 49.
 
@@ -865,9 +885,9 @@ En cualquier momento de la investigación, fundada la presunción de que se viol
 
 El proyecto del acuerdo de responsabilidad deberá contener lo siguiente:
 
-I. Aceptación expresa sobre los hechos y los Derechos Humanos violentados;
+I. (DEROGADA, P.O. 22 DE JULIO DE 2016)
 
-II. Delimitación de la responsabilidad institucional sobre los hechos;
+II. (DEROGADA, P.O. 22 DE JULIO DE 2016)
 
 III. Medidas de sanción y prevención tomadas al interior de la institución contra los servidores públicos implicados en los hechos, en respuesta a la violación de derechos; y
 
@@ -891,9 +911,11 @@ El rechazo de la segunda propuesta agotará la vía del acuerdo de responsabilid
 
 La Defensoría deberá brindar a la autoridad correspondiente la asesoría que requiera para la adecuada formulación del proyecto de acuerdo de responsabilidad.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2016)</small>
+
 ###### Artículo 95.
 
-El incumplimiento del acuerdo de responsabilidad podrá hacerse público y se notificará a la Legislatura, para que ésta solicite la comparecencia de quien considere necesario, para explicar las causas de dicho incumplimiento.
+El incumplimiento del acuerdo de responsabilidad podrá generar la continuidad del trámite de queja.
 
 ### Capítulo X. Del recurso de queja y del recurso de impugnación
 
@@ -1025,15 +1047,11 @@ Para la investigación de las quejas en materia de discriminación, se estará a
 
 ###### Artículo 116.
 
-Cuando se presente una queja por probables conductas discriminatorias realizadas por particulares, la Defensoría iniciará el procedimiento conciliatorio.
+(DEROGADO, P.O. 22 DE JULIO DE 2016)
 
 ###### Artículo 117.
 
-La Defensoría notificará al particular que probablemente haya cometido conductas discriminatorias del contenido de la queja, haciéndole saber que, si así lo desea, podrá someter la misma al procedimiento conciliatorio.
-
-En caso de que las partes lo acepten, deberá celebrarse la audiencia de conciliación, dentro de los cinco días hábiles siguientes a la fecha de la notificación al particular, contando con un plazo de ocho días hábiles para manifestar si es su deseo someterse al procedimiento de conciliación.
-
-Para este efecto, se deberá privilegiar el diálogo y el acuerdo entre las partes. Si cualquiera de ellas o ambas no aceptan el procedimiento conciliatorio de la Defensoría, ésta atenderá la queja correspondiente y brindará orientación al quejoso para que acuda ante las instancias judiciales o administrativas correspondientes e iniciará la investigación conforme a lo dispuesto en la presente Ley.
+(DEROGADO, P.O. 22 DE JULIO DE 2016)
 
 ### Capítulo I. Del procedimiento para la remoción
 
@@ -1053,9 +1071,11 @@ Cuando la naturaleza del caso lo requiera, por su importancia o gravedad, el Pre
 
 De igual manera, podrá efectuar pronunciamientos o propuestas generales o específicas, sin que constituyan una recomendación, concretándose a una opinión jurídica.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2016)</small>
+
 ###### Artículo 121.
 
-Cuando se haya solicitado la confidencialidad de la identidad, no se incluirán los datos personales del quejoso en los informes anuales o especiales.
+En los informes anuales o especiales, no se incluirán los datos personales del quejoso.
 
 ## Título Sexto. De la remoción del Presidente de la Defensoría de los Derechos Humanos de Querétaro
 
@@ -1113,7 +1133,7 @@ Para efectos de esta Ley, se consideran causas graves las siguientes:
 
 I. El incumplimiento reiterado y sistemático de las obligaciones que la presente Ley le impone;
 
-II. La negativa injustificada a iniciar procedimiento de queja de algún ciudadano ante una notoria violación de Derechos Humanos;
+II. (DEROGADA, P.O. 22 DE JULIO DE 2016)
 
 III. El desacato de una orden judicial;
 
@@ -1123,7 +1143,7 @@ V. Revelar o divulgar información contenida en expedientes o constancias relati
 
 VI. Pronunciarse de forma anticipada sobre el sentido de las recomendaciones, mientras no sean aprobadas y dadas a conocer públicamente por la Defensoría, conforme a los procedimientos que esta Ley mandata;
 
-VII. La ausencia laboral por más de tres días sin autorización de la Legislatura;
+VII. (DEROGADA, P.O. 22 DE JULIO DE 2016)
 
 VIII. Ostentar su cargo para obtener beneficios indebidos de cualquier naturaleza;
 
@@ -1190,3 +1210,11 @@ P.O. 5 DE FEBRERO DE 2016.
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 22 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE QUERÉTARO”.]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+SEGUNDO.- Quedan abrogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente ordenamiento.
