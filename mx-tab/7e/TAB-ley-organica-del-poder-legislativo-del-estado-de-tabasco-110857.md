@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-legislativo-del-estado-de-tabasco-110857
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-12-23"
-last_updated: "2015-12-23"
+last_updated: "2016-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2016.
 
 Ley publicada en el Suplemento D del Periódico Oficial del Estado de Tabasco, el miércoles 23 de diciembre de 2015.
 
@@ -773,9 +773,11 @@ En el ejercicio de dichas funciones, tratándose de las comparecencias, solicitu
 
 Los Diputados además de formar parte de las comisiones para las que fueren designados, podrán participar en las sesiones de otras comisiones, con voz pero sin voto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2016)</small>
+
 ###### Artículo 75.
 
-Para el desempeño de sus funciones, el Congreso cuenta con las siguientes Comisiones ordinarias:
+para el desempeño de sus funciones, el Congreso cuenta con las siguientes Comisiones Ordinarias:
 
 I. Asuntos de la Frontera Sur;
 
@@ -791,7 +793,9 @@ VI. Derechos Humanos;
 
 VII. Desarrollo Agropecuario, Forestal y Pesquero;
 
-VIII. Educación y Cultura;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2016)</small>
+
+VIII. Educación, Cultura, Ciencia y Tecnología.
 
 IX. Energía, Recursos Naturales y Protección Ambiental;
 
@@ -1704,3 +1708,15 @@ SECRETARIO DE GOBIERNO.
 LIC. JUAN JOSÉ PERALTA FÓCIL.
 
 COORDINADOR GENERAL DE ASUNTOS JURÍDICOS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 012 POR EL QUE "SE REFORMA LA FRACCIÓN VIII, DEL ARTÍCULO 75, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El correspondiente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+TERCERO.- En el Reglamento correspondiente inclúyanse las nuevas atribuciones de la Comisión de Educación, Cultura, Ciencia y Tecnología.
