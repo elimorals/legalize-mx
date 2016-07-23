@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-h-congreso-del-estado-libre-y-7786"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-08-28"
-last_updated: "2013-04-06"
+last_updated: "2016-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2013.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 23 DE JULIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2016 (ABROGADA).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 28 de agosto de 1993.
 
@@ -1766,3 +1768,15 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. DE 23 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 025 POR EL QUE “SE EXPIDE EL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior del H. Congreso del Estado, de fecha 27 de julio de 1993, expedido por la LIV Legislatura del Estado Libre y Soberano de Tabasco y publicado en el suplemento "A" al Periódico Oficial del Gobierno del Estado número 5319, de fecha 28 de agosto de 1993.
+
+TERCERO.- El Congreso del Estado contará con un plazo de 180 días hábiles, a partir de la entrada en vigor del presente Reglamento, para prestar los servicios del Diario de los Debates, Versión Estenográfica y de la Gaceta Parlamentaria.
+
+CUARTO.- El Congreso del Estado contará con plazo hasta el día primero de Enero del año 2017 para hacer las adecuaciones presupuestales, a fin de crear la Unidad de Evaluación de Desempeño y la Unidad de Capacitación y Formación Permanente.
