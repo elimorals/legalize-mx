@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108527"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2016-06-23"
+last_updated: "2016-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACAN DE OCAMPO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE JULIO DE 2016 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE JULIO DE 2016.]</small>
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 2 de junio de 2015.
 
@@ -453,17 +453,11 @@ Las autoridades estatales y municipales, estarán obligadas de manera subsidiari
 
 Las leyes estatales en el ámbito de sus respectivas competencias, establecerán como edad mínima para contraer matrimonio los 18 años.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2016)</small>
+(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2016) (F. DE E., P.O. 25 DE JULIO DE 2016)
 
-CAPIÌTULO (SIC) IX
-
-DERECHO DE ACCESO A UNA VIDA LIBRE DE MALTRATO O VIOLENCIA Y A LA INTEGRIDAD PERSONAL
+### CAPÍTULO IX. DERECHO DE ACCESO A UNA VIDA LIBRE DE MALTRATO O VIOLENCIA Y A LA INTEGRIDAD PERSONAL
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2016)</small>
-
-### CAPÍTULO X. DERECHO A LA PROTECCIÓN DE LA SALUD Y A LA SEGURIDAD SOCIAL
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 23 DE JUNIO DE 2016)</small>
 
 ###### Artículo 32.
 
@@ -487,7 +481,9 @@ IV. Garantizar su reincorporación a la vida cotidiana, en un ambiente que fomen
 
 V. Elaborar protocolos de atención en los que se considere su situación familiar, su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como para la reparación integral del daño.
 
-### CAPÍTULO XI. DERECHO A LA INCLUSIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES CON DISCAPACIDAD
+### CAPÍTULO X. DERECHO A LA PROTECCIÓN DE LA SALUD Y A LA SEGURIDAD SOCIAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 23 DE JUNIO DE 2016)</small>
 
 ###### Artículo 33.
 
@@ -543,7 +539,7 @@ Las autoridades estatales y municipales en el ámbito de sus respectivas compete
 
 Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, deben desarrollar políticas para fortalecer la salud materna infantil y aumentar la esperanza de vida.
 
-### CAPÍTULO XII. DERECHO A LA EDUCACIÓN
+### CAPÍTULO XI. DERECHO A LA INCLUSIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES CON DISCAPACIDAD
 
 ###### Artículo 36.
 
@@ -569,7 +565,7 @@ VII. Disponer acciones que permitan ofrecerles cuidados elementales gratuitos, a
 
 VIII. Establecer mecanismos que permitan la recopilación periódica y sistemática de información y estadística de niñas, niños y adolescentes con discapacidad, que permita una adecuada formulación de políticas públicas en la materia. Dichos reportes deberán desagregarse, al menos, por sexo, edad, escolaridad, municipio y tipo de discapacidad.
 
-### CAPÍTULO XIII. DERECHO AL DESCANSO, AL DEPORTE Y ESPARCIMIENTO
+### CAPÍTULO XII. DERECHO A LA EDUCACIÓN
 
 ###### Artículo 38.
 
@@ -657,7 +653,7 @@ III. Establecer mecanismos gratuitos de atención, asesoría, orientación y pro
 
 IV. Establecer y aplicar las sanciones que correspondan a las personas responsables de centros de asistencia social, personal docente o servidores públicos que realicen, promuevan, propicien, toleren o no denuncien actos de acoso o violencia escolar, conforme a lo dispuesto en esta Ley, en la Ley para la Atención de la Violencia Escolar para el Estado de Michoacán y demás disposiciones jurídicas aplicables.
 
-### CAPÍTULO XIV. DERECHOS DE LA LIBERTAD DE CONVICCIONES ÉTICAS, PENSAMIENTO, CONCIENCIA, RELIGIÓN Y CULTURA
+### CAPÍTULO XIII. DERECHO AL DESCANSO, AL DEPORTE Y ESPARCIMIENTO
 
 ###### Artículo 41.
 
@@ -669,7 +665,7 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 Las niñas, niños y adolescentes tienen derecho al deporte, a que se le fomente la educación física y a practicar con libertad de elección, las disciplinas deportivas que les permitan la realización de sus aptitudes, capacidades físicas y psicológicas.
 
-### CAPÍTULO XV. DERECHOS A LA LIBERTAD DE EXPRESIÓN Y DE ACCESO A LA INFORMACIÓN
+### CAPÍTULO XIV. DERECHOS DE LA LIBERTAD DE CONVICCIONES ÉTICAS, PENSAMIENTO, CONCIENCIA, RELIGIÓN Y CULTURA
 
 ###### Artículo 42.
 
@@ -699,7 +695,7 @@ VI. Garantizar que los docentes cuenten con formación en educación intercultur
 
 VII. Lo dispuesto en este capítulo se ejercerá en concordancia con el derecho a la educación y no será limitativo del deber de educación de los padres o de quienes ejerzan la patria potestad, tutela o guarda y custodia, de guiar y orientar a niñas, niños y adolescentes en el ejercicio de estos derechos, a fin de que contribuya con su desarrollo integral.
 
-### CAPÍTULO XVI. DERECHO A LA PARTICIPACIÓN
+### CAPÍTULO XV. DERECHOS A LA LIBERTAD DE EXPRESIÓN Y DE ACCESO A LA INFORMACIÓN
 
 ###### Artículo 44.
 
@@ -739,7 +735,7 @@ Niñas, niños y adolescentes tienen derecho, de manera individual y colectiva, 
 
 Se garantiza el ejercicio de este derecho, especialmente en todo procedimiento que conduzca a una decisión que afecte sus derechos, garantías e intereses, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez, de acuerdo al interés superior de la niñez.
 
-### CAPÍTULO XVII. DERECHO DE ASOCIACIÓN Y REUNIÓN
+### CAPÍTULO XVI. DERECHO A LA PARTICIPACIÓN
 
 ###### Artículo 47.
 
@@ -751,7 +747,7 @@ Las autoridades estatales y municipales, fomentarán la participación de niñas
 
 Es responsabilidad del Estado, de la sociedad civil y de las instituciones públicas y privadas, diseñar los mecanismos que den un peso específico a la opinión de niñas, niños y adolescentes, en todos los aspectos que determinen su vida y su desarrollo, sin menoscabo del deber de cuidado y orientación de quienes ejercen la patria potestad, tutela o custodia.
 
-### CAPÍTULO XVIII. DERECHO A LA INTIMIDAD
+### CAPÍTULO XVII. DERECHO DE ASOCIACIÓN Y REUNIÓN
 
 ###### Artículo 48.
 
@@ -769,7 +765,7 @@ I. Promoverán la participación social de niñas, niños y adolescentes en conc
 
 II. Atenderán, al establecerse los planes de urbanización, desarrollo y organización del espacio comunitario a la libre y segura convivencia de niñas, niños y adolescentes en su comunidad;
 
-### CAPÍTULO XIX. DERECHO A LA SEGURIDAD JURÍDICA Y AL DEBIDO PROCESO
+### CAPÍTULO XVIII. DERECHO A LA INTIMIDAD
 
 ###### Artículo 49.
 
@@ -799,7 +795,7 @@ En los procedimientos ante órganos jurisdiccionales, se podrá solicitar ante l
 
 El órgano jurisdiccional federal competente, con base en este artículo y en las disposiciones jurídicas aplicables, podrá requerir a las empresas de prestación de servicios en materia de medios electrónicos que realicen las acciones necesarias para el cumplimiento de las medidas cautelares que ordene.
 
-### CAPÍTULO XX. DERECHOS PARA NIÑAS, NIÑOS Y ADOLESCENTES MIGRANTES
+### CAPÍTULO XIX. DERECHO A LA SEGURIDAD JURÍDICA Y AL DEBIDO PROCESO
 
 ###### Artículo 52.
 
@@ -855,7 +851,7 @@ V. Tener acceso gratuito a asistencia jurídica, psicológica y cualquier otra n
 
 VI. Adoptar las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes que presuntamente son víctimas de la comisión de un delito o violación a sus derechos humanos.
 
-### CAPÍTULO XXI. DERECHO DE ACCESO A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN, ASÍ COMO A LOS SERVICIOS DE RADIODIFUSIÓN Y TELECOMUNICACIONES
+### CAPÍTULO XX. DERECHOS PARA NIÑAS, NIÑOS Y ADOLESCENTES MIGRANTES
 
 ###### Artículo 55.
 
@@ -873,15 +869,15 @@ El Sistema Estatal DIF enviará al Sistema Nacional DIF la información en el mo
 
 En ningún caso una situación migratoria irregular de niñas, niños o adolescentes, preconfigurará por sí misma la comisión de un delito, ni se prejuzgará la comisión de ilícitos por el hecho de encontrarse en condición migratoria irregular.
 
-### CAPÍTULO XXII. DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA, GUARDA O CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
+### CAPÍTULO XXI. DERECHO DE ACCESO A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN, ASÍ COMO A LOS SERVICIOS DE RADIODIFUSIÓN Y TELECOMUNICACIONES
 
-### CAPÍTULO XXIII. CENTROS DE ASISTENCIA SOCIAL
+### CAPÍTULO XXII. DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA, GUARDA O CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
 
 ###### Artículo 56.
 
 Niñas, Niños y Adolescentes tienen derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, para ello, las autoridades del Estado darán todas las facilidades a efecto de coordinarse con la Secretaría de Comunicaciones y Transportes, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión.
 
-### CAPÍTULO XXIV. AUTORIDADES EN LA PROTECCIÓN Y RESTITUCIÓN INTEGRAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
+### CAPÍTULO XXIII. CENTROS DE ASISTENCIA SOCIAL
 
 ###### Artículo 57.
 
@@ -923,7 +919,7 @@ Al efecto, la Procuraduría de Protección ejercerá la representación coadyuva
 
 Cuando existan indicios de conflicto de intereses entre quienes ejerzan la representación originaria o de éstos con niñas, niños y adolescentes o por una representación deficiente o dolosa, a petición del Ministerio Público, de la Procuraduría de Protección o de oficio, el órgano jurisdiccional o administrativo que conozca del asunto, deberá sustanciar por vía incidental, un procedimiento sumario de restricción, suspensión o revocación de la representación originaria, según sea el caso, para efectos de que la Procuraduría de Protección ejerza la representación en suplencia.
 
-### CAPÍTULO XXV. DISTRIBUCIÓN DE COMPETENCIAS
+### CAPÍTULO XXIV. AUTORIDADES EN LA PROTECCIÓN Y RESTITUCIÓN INTEGRAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
 ###### Artículo 60.
 
@@ -1013,7 +1009,7 @@ Sin perjuicio de las atribuciones que las disposiciones jurídicas aplicables es
 
 La Procuraduría de Protección será coadyuvante de la Procuraduría de Protección Federal en la supervisión que se realice a las instalaciones de los centros de asistencia social, en términos de lo previsto en la Ley General y Estatal de Asistencia Social.
 
-### CAPÍTULO XXVI. SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MICHOACÁN
+### CAPÍTULO XXV. DISTRIBUCIÓN DE COMPETENCIAS
 
 ###### Artículo 68.
 
@@ -1023,7 +1019,7 @@ Las políticas públicas emprendidas por dichas autoridades garantizarán el goc
 
 Los principios de esta Ley orientarán la actuación de las autoridades gubernamentales del Estado y de los municipios, encargados de la defensa y representación jurídica, asistencia, provisión, prevención, protección y participación de niñas, niños y adolescentes.
 
-### CAPÍTULO XXVII. PROCURADURÍA DE PROTECCIÓN
+### CAPÍTULO XXVI. SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MICHOACÁN
 
 ###### Artículo 69.
 
@@ -1097,11 +1093,15 @@ XXIII. Garantizar la protección de los derechos de niñas, niños y adolescente
 
 XXIV. Garantizar que niñas, niños y adolescentes tengan acceso a agua potable para su consumo e higiene; y,
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE JUNIO DE 2016)</small>
+> <small>(F. DE E., P.O. 25 DE JULIO DE 2016)</small>
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
 
 XXV. Establecer mecanismos para impedir el acceso a espectáculos que promuevan o difundan violencia de cualquier tipo, que pongan en riesgo la salud mental y física de las niñas, niños y adolescentes.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JUNIO DE 2016)</small>
+> <small>(F. DE E., P.O. 25 DE JULIO DE 2016)</small>
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2016)</small>
 
 XXVI. Promover campañas de difusión para prevenir cualquier forma de maltrato o violencia, de venta, trata de personas, explotación, abandono o crueldad, abuso sexual, psicológico o físico.
 
@@ -1181,7 +1181,7 @@ XI. Impulsar la participación de las organizaciones privadas dedicadas a la pro
 
 XII. Las demás que establezcan las autoridades estatales y municipales y aquellas que deriven del cumplimiento de lo dispuesto en la Ley General.
 
-### CAPÍTULO XXVIII. SISTEMA ESTATAL DE PROTECCIÓN INTEGRAL
+### CAPÍTULO XXVII. PROCURADURÍA DE PROTECCIÓN
 
 ###### Artículo 74.
 
@@ -1205,7 +1205,7 @@ VII. Actuar con interés jurídico ante los tribunales del Estado, en todo juici
 
 VIII. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
 
-### CAPÍTULO XXIX. SECRETARÍA EJECUTIVA
+### CAPÍTULO XXVIII. SISTEMA ESTATAL DE PROTECCIÓN INTEGRAL
 
 ###### Artículo 75.
 
@@ -1325,7 +1325,7 @@ El nombramiento de Procurador de Protección deberá ser aprobado por la Junta d
 
 La Procuraduría Estatal de Protección contará con representaciones regionales a efecto de lograr la mayor presencia y cobertura posible en los municipios.
 
-### CAPÍTULO XXX. SISTEMAS MUNICIPALES DE PROTECCIÓN INTEGRAL
+### CAPÍTULO XXIX. SECRETARÍA EJECUTIVA
 
 ###### Artículo 80.
 
@@ -1435,7 +1435,7 @@ XX. Celebrar convenios de coordinación en la materia;
 
 XXI. Las demás que le otorguen otras disposiciones jurídicas aplicables.
 
-### CAPÍTULO XXXI. ORGANISMO DE PROTECCIÓN DE LOS DERECHOS HUMANOS
+### CAPÍTULO XXX. SISTEMAS MUNICIPALES DE PROTECCIÓN INTEGRAL
 
 ###### Artículo 86.
 
@@ -1487,7 +1487,7 @@ IV. Contar con al menos cinco años de experiencia en las áreas correspondiente
 
 V. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
 
-### CAPÍTULO XXXII. PROGRAMAS ESTATAL Y MUNICIPALES
+### CAPÍTULO XXXI. ORGANISMO DE PROTECCIÓN DE LOS DERECHOS HUMANOS
 
 ###### Artículo 88.
 
@@ -1509,9 +1509,9 @@ En casos excepcionales, el Presidente Municipal podrá ser suplido por el Síndi
 
 Los integrantes del Sistema Municipal de Protección Integral nombrarán un suplente que deberá tener el nivel inmediato inferior al que le corresponda a su titular.
 
-### CAPÍTULO XXXIII. EVALUACIÓN Y DIAGNÓSTICO
+### CAPÍTULO XXXII. PROGRAMAS ESTATAL Y MUNICIPALES
 
-### CAPÍTULO XXXIV. INFRACCIONES Y SANCIONES ADMINISTRATIVAS
+### CAPÍTULO XXXIII. EVALUACIÓN Y DIAGNÓSTICO
 
 ###### Artículo 90.
 
