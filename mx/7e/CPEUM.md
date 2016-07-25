@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2016-01-29"
+last_updated: "2016-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JULIO DE 2016.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -2457,6 +2457,10 @@ XXIX-V. Para expedir la ley general que distribuya competencias entre los órden
 > <small>(ADICIONADA, D.O.F. 26 DE MAYO DE 2015)</small>
 
 XXIX-W. Para expedir leyes en materia de responsabilidad hacendaria que tengan por objeto el manejo sostenible de las finanzas públicas en la Federación, los Estados, Municipios y el Distrito Federal, con base en el principio establecido en el párrafo segundo del artículo 25;
+
+> <small>(ADICIONADA, D.O.F. 25 DE JULIO DE 2016)</small>
+
+XXIX-X. Para expedir la ley general que establezca la concurrencia de la federación, las entidades federativas, los municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de derechos de las víctimas.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
@@ -8044,13 +8048,11 @@ Dentro de las funciones que correspondan a las Alcaldías, la Constitución Pol�
 
 Las competencias de las Alcaldías, a que se refiere el presente artículo Transitorio, deberán distribuirse entre el Alcalde y el Concejo de la Alcaldía, en atención a lo dispuesto en la Base VI del Apartado A del artículo 122 constitucional, reformado mediante el presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 246 QUE REFORMA LAS LEYES DE INGRESOS DE LOS MUNICIPIOS DE MINATITLÁN Y TUXPAN DEL ESTADO DE VERACRUZ, CORRESPONDIENTES AL EJERCICIO FISCAL 2019; Y LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN, ORIZABA, TIERRA BLANCA Y VERACRUZ, TODOS DEL ESTADO DE VERACRUZ”.]
+D.O.F. 25 DE JULIO DE 2016.
 
-Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del Estado.
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XXIX-X AL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS”.]
 
-Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-G.O. 15 DE OCTUBRE DE 2019.
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 292 QUE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 73 DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS, RECORRIÉNDOSE LAS SUBSECUENTES; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 230 DEL CÓDIGO HACENDARIO MUNICIPAL, ASÍ COMO A DIVERSAS DISPOSICIONES DE LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN, MINATITLÁN, MISANTLA, PAPANTLA, ORIZABA, TIERRA BLANCA, VERACRUZ Y XALAPA, TODOS PARA EL ESTADO DE VERACRUZ”.]
 
