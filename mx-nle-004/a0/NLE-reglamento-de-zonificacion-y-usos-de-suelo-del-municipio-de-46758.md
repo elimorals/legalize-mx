@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-zonificacion-y-usos-de-suelo-del-municipio-de-467
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-16"
-last_updated: "2016-06-08"
+last_updated: "2016-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46758&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ZONIFICACIÓN Y USOS DE SUELO DEL MUNICIPIO DE ALLENDE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 31 de octubre de 2005.
 
@@ -1889,7 +1889,7 @@ Las notarios públicos, al autorizar actos o contratos relativos a lotes pertene
 
 ### CAPITULO III. DE LAS LICENCIAS PARA FRACCIONAMIENTOS HABITACIONALES DE ALTA DENSIDAD DE URBANIZACION INMEDIATA
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 160.
 
@@ -1897,53 +1897,89 @@ Los fraccionamientos habitacionales de alta densidad de urbanización inmediata 
 
 ZONA NORTE
 
-Nor-Este Camino a Piedras Blancas a colindar con Carretera a San Antonio
+Nor-Este Camino a Piedras Blancas entre Calle Paseo Real y
 
-Sur-Este Calle 5 de Mayo entre Calle Jiménez y Camino a Piedras Blancas
+Calle 5 de Mayo
 
-Sur-Oeste Calle Jiménez entre la calle 5 de Mayo y Camino a San Antonio
+Norte Prolongación virtual de Calle Paseo Real entre
 
-Nor-Oeste Carretera a San Antonio entre Calle Jiménez y Camino a Piedras Blancas.
+Camino a Piedras Blancas y prolongación virtual de
 
-ZONA SUR “A”
+Calle Balcones de la Arboleda
 
-Nor-Oeste Calle Simón Bolivar entre Carretera Nacional y Calle Zuazua
+Sur-Este Calle 5 de Mayo entre Camino a Piedras Blancas y Calle
 
-Nor-Este Calle Zuazua entre Calle Simón Bolivar y Calle Juana Zapata, con un quiebre al Sur hasta la Calle Pablo C. Olmelas a colindar con Río Ramos
+Venustiano Carranza
 
-Sur-Este Río Ramos entre Carretera Nacional y Calle Pablo C. Omelas
+Sur-Oeste Prolongación virtual de Calle Venustiano Carranza entre Calle
 
-Sur-Oeste Carretera Nacional entre Calle Simón Bolívar y Rio Ramos
+5 de Mayo y Calle Balcones de la Arboleda
 
-ZONA SUR “B” POLIGONO 1
+Nor-Oeste Calle Balcones de la Arboleda entre Prolongación virtual de
 
-Nor-Oeste Camino al Cerrito entre Fraccionamiento Residencial Los Encinos y Camino denominado No. 9
+Calle Venustiano Carranza y Prolongación virtual de Calle
 
-Nor-Este Camino denominado No. 9 entre Camino al Cerrito y Carretera al Fraile
+Paseo Real.
 
-Sur-Oeste Colinda con el Fraccionamiento Residencial Los Encinos y en parte con el Polígono 2 Sur B entre Carretera al Fraile y Camino al Cerrito
+ZONA SUR "A"
 
-Sur-Este Carretera al Fraile entre Fraccionamiento Los Encinos y Camino denominado No. 9
+Nor-Oeste Calle Simón Bolívar entre Carretera Nacional y Calle Zuazua.
 
-ZONA SUR “B” POLIGONO 2
+Nor-Este Calle Zuazua entre Calle Simón Bolívar y Calle Juana
 
-Nor-Oeste Arroyo Mireles entre Calle Zuazua y Sendero Existente
+Zapata, con un quiebre al Sur hasta la Calle Pablo C.
 
-Nor-Este Sendero Existente entre Arroyo Mireles y Carretera al Fraile
+Ornelas a colindar con Río Ramos.
 
-Sur-Este Carretera al Fraile entre Sendero Existente y Calle Zuazua
+Sur-Este Río Ramos entre Carretera Nacional y Calle Pablo C. Ornelas.
 
-Sur-Oeste Calle Zuazua entre Carretera al Fraile y Arroyo Mireles
+Sur-Oeste Carretera Nacional entre Calle Simón Bolívar y Río Ramos.
 
-ZONA SUR “B” POLIGONO 3
+ZONA SUR "B" POLIGONO 1
 
-Nor-Oeste Camino al Cerrito entre Camino No. 9 y Camino No. 7 (siguiendo la línea imaginaria)
+Nor-Oeste Camino al Cerrito entre Fraccionamiento Residencial Los
 
-Nor-Este Camino No. 7 (siguiendo la línea imaginaria), entre Camino al Cerrito y Carretera al Fraile
+Encinos y Camino denominado No. 9.
+
+Nor-Este Camino denominado No. 9 entre Camino al Cerrito y
+
+Carretera al Fraile.
+
+Sur-Oeste Colinda con el Fraccionamiento Residencial Los
+
+Encinos y en parte con el Polígono 2 Sur B entre
+
+Carretera al Fraile y Camino al Cerrito
+
+Sur-Este Carretera al Fraile entre Fraccionamiento Los Encinos y
+
+Camino denominado No. 9.
+
+ZONA SUR "B" POLIGONO 2
+
+Nor-Oeste Arroyo Mireles entre Calle Zuazua y Sendero Existente.
+
+Nor-Este Sendero Existente entre Arroyo Mireles y Carretera al Fraile.
+
+Sur-Este Carretera al Fraile entre Sendero Existente y Calle Zuazua.
+
+Sur-Oeste Calle Zuazua entre Carretera al Fraile y Arroyo Mireles.
+
+ZONA SUR "B" POLIGONO 3
+
+Nor-Oeste Camino al Cerrito entre Camino No. 9 y Camino No. 7
+
+(siguiendo la línea imaginaria)
+
+Nor-Este Camino No. 7 (siguiendo la línea imaginaria), entre
+
+Camino al Cerrito y Carretera al Fraile
 
 Sur-Oeste Camino No. 9 entre Carretera al Fraile y Camino al Cerrito
 
-Sur-Este Carretera al Fraile entre Camino No. 7 (siguiendo la línea imaginaria) y Camino No. 9
+Sur-Este Carretera al Fraile entre Camino No. 7 (siguiendo la línea
+
+imaginaria) y Camino No. 9
 
 > <small>(REFORMADO, P.O. 16 DE ABRIL DE 2008)</small>
 
@@ -2412,5 +2448,11 @@ La modificación y adición aprobadas a este Reglamento de Zonificación y Usos 
 P.O. 8 DE JUNIO DE 2016.
 
 > <small>[N. DE E. TRANSITORIO POR EL QUE “SE APRUEBAN LAS REFORMAS DEL REGLAMENTO DE ZONIFICACIÓN Y USOS DE SUELO DEL MUNICIPIO DE ALLENDE, NUEVO LEÓN”.]</small>
+
+UNICO.- La presente reforma al Reglamento entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 02 DE JULIO DE 2016, SE APRUEBA LA REFORMA DEL ARTÍCULO 160 DEL REGLAMENTO DE ZONIFICACIÓN Y USOS DE SUELO DEL MUNICIPIO DE ALLENDE, N.L.”.]
 
 UNICO.- La presente reforma al Reglamento entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
