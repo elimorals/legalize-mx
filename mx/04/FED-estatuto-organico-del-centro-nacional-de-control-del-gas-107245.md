@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-centro-nacional-de-control-del-gas-107245
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-04-13"
-last_updated: "2016-03-16"
+last_updated: "2016-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107245&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2015-03-17"
 
 ESTATUTO ORGÁNICO DEL CENTRO NACIONAL DE CONTROL DEL GAS NATURAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE MARZO DE 2016.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL CENTRO NACIONAL DE CONTROL DEL GAS NATURAL, PUBLICADO EN EL D.O.F. DE 25 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JULIO DE 2015 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 13 de abril de 2015.
 
@@ -1218,3 +1220,11 @@ D.O.F. 16 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DE LAS "MODIFICACIONES AL ESTATUTO ORGÁNICO DEL CENTRO NACIONAL DE CONTROL DEL GAS NATURAL”.]
 
 ÚNICO.- La presente modificación al Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE JULIO DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL CENTRO NACIONAL DE CONTROL DEL GAS NATURAL”.]
+
+PRIMERO. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Estatuto Orgánico del Centro Nacional de Control del Gas Natural, publicado en el Diario Oficial de la Federación el trece de abril de dos mil quince, y su modificación del dieciséis de marzo de dos mil dieciséis.
