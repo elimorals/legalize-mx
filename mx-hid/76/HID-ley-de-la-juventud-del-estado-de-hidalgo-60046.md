@@ -4,7 +4,7 @@ identifier: "HID-ley-de-la-juventud-del-estado-de-hidalgo-60046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2012-10-22"
+last_updated: "2016-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2016.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -78,6 +78,10 @@ VII.- Director.- Director del Instituto Hidalguense de la Juventud;
 VIII.- Programa.- Programa Estatal de Atención a la Juventud; y
 
 IX.- Ley.- Ley de la Juventud del Estado de Hidalgo.
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2016)</small>
+
+X.- Consejo.- El Consejo Consultivo de la Juventud.
 
 ###### Artículo 3.
 
@@ -801,7 +805,9 @@ IX.- Las demás que señalen esta Ley y demás disposiciones legales aplicables.
 
 ## TÍTULO CUARTO. DEL PROGRAMA ESTATAL DE ATENCIÓN A LA JUVENTUD
 
-### CAPÍTULO II. DEL CONSEJO CONSULTIVO
+### CAPÍTULO II. DEL CONSEJO CONSULTIVO DE LA JUVENTUD
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2016)</small>
 
 ###### Artículo 71.
 
@@ -853,33 +859,119 @@ El Programa deberá Publicarse en el Periódico Oficial del Estado de
 
 Hidalgo.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JULIO DE 2016)</small>
+
 ### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES Y SANCIONES
 
 ###### Artículo 76.
 
-El Instituto contará con un Consejo Consultivo, el cual tiene las siguientes atribuciones:
+El Instituto contará con un Consejo Consultivo de la Juventud, que será un órgano plural y participativo, democrático e incluyente encargado de representar a la juventud en el diseño y revisión de las políticas dirigidas a este sector;
 
-I.- Asesorar, proponer, opinar y apoyar al Instituto en la elaboración y ejecución del
+Estará encargado de analizar, proponer, revisar y dar seguimiento a las acciones y estrategias que tengan como objetivo incorporar a las y los jóvenes al desarrollo del Estado.
 
-Programa; y
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2016)</small>
 
-II.- Vigilar el cumplimiento de las disposiciones establecidas en la presente Ley, en términos de una efectiva ejecución del Programa.
+###### Artículo 76 Bis.
+
+El Consejo Consultivo de la Juventud tiene las siguientes funciones:
+
+I.- Asesorar, proponer, opinar y apoyar al Instituto en la elaboración y ejecución del Programa;
+
+II.- Vigilar el cumplimiento de las disposiciones establecidas en la presente Ley, en términos de una efectiva ejecución del Programa;
+
+III.- Proponer de manera colegiada la creación o modificación de las políticas públicas en materia de juventud.
+
+IV.- Vigilar el cumplimiento de los objetivos del Programa Estatal de Atención a la Juventud.
+
+V.- Mantener actualizado el contenido de la Agenda Estatal de Juventud; y
+
+VI.- Formular sugerencias a las entidades públicas, sobre la transversalización de las acciones dirigidas a la juventud en el Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JULIO DE 2016)</small>
 
 ###### Artículo 77.
 
-El Consejo está integrado de la siguiente forma:
+El Consejo Estatal de la Juventud estará integrado de la siguiente forma:
 
-I.- Por el Director del Instituto, en su caso;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2016)</small>
 
-II.- Por los Diputados integrantes de la Comisión de Juventud del Congreso del Estado Libre y Soberano de Hidalgo;
+I.- Por el Director del Instituto;
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2016)</small>
+
+II.- Por los Diputados integrantes de la Comisión de la Niñez, la Juventud, el Deporte y la Familia del Congreso del Estado Libre y Soberano de Hidalgo;
 
 III.- Por un representante de una organización no gubernamental que tenga estrecha vinculación con la problemática juvenil;
 
 IV.- Por un representante de los sectores económico y productivo del Estado, el cual tenga participación activa y directa en el desarrollo de programas para jóvenes;
 
-V.- Por un representante de los Comités Municipales de la Juventud, correspondientes a cada región del Estado; y
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2016)</small>
+
+V.- Por 17 miembros de la sociedad civil, que representarán las siguientes regiones administrativas del Estado:
+
+Región 1 Pachuca de Soto
+
+Región 2 Tulancingo de Bravo
+
+Región 3 Tula de Allende
+
+Región 4 Huichapan
+
+Región 5 Zimapán
+
+Región 6 Ixmiquilpan
+
+Región 7 Actopan
+
+Región 8 Meztitlán
+
+Región 9 Molango de Escamilla
+
+Región 10 Huejutla de Reyes
+
+Región 11 Apan
+
+Región 12 Tizayuca
+
+Región 13 Tenango de Doria
+
+Región 14 Tepeji del Río
+
+Región 15 Atotonilco el Grande
+
+Región 16 Jacala de Ledezma
+
+Región 17 Zacualtipán de Ángeles
 
 VI.- Por un representante del Consejo Consultivo Ciudadano del Estado de Hidalgo.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2016)</small>
+
+###### Artículo 77 Bis.
+
+Los miembros de la sociedad civil que conformen el Consejo Consultivo de la Juventud, serán elegidos, previa Convocatoria abierta, emitida por el Instituto Hidalguense de la Juventud a través del Director General; durarán en su cargo dos años y podrán ser removidos libremente, por acuerdo de las dos terceras partes de los integrantes del Consejo y deberán reunir los siguientes requisitos:
+
+I.- Ser ciudadano mexicano.
+
+II.- Tener entre 18 y 29 años.
+
+III.- Tener residencia mínima de tres años en el Estado.
+
+IV.- Contar con el aval o ser propuesto (a) por alguna dependencia pública, privada o social.
+
+V.- No ocupar cargo o función pública al momento de la publicación de la Convocatoria, y
+
+VI.- Presentar acta de nacimiento, currículum vitae, carta exposición de motivos.
+
+Los cargos en el consejo serán honoríficos y por su desempeño no se percibirá retribución alguna.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2016)</small>
+
+###### Artículo 77 Ter.
+
+El Consejo Consultivo de la Juventud, deberá sesionar en pleno una vez al mes y en forma extraordinaria, cuando sea expresamente convocado para ello, por el Director General del Instituto.
+
+Las sesiones ordinarias o extraordinarias del Pleno del Consejo se celebrarán si la concurrencia alcanza la mitad más uno de la totalidad de los integrantes y se encuentra completa la Directiva.
 
 ###### Artículo 78.
 
@@ -942,3 +1034,9 @@ P.O. 22 DE OCTUBRE DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 25 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 676 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE JUVENTUD DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
