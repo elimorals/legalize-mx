@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2016-04-25"
+last_updated: "2016-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE JULIO DE 2016.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -71,11 +71,11 @@ La soberanía estatal reside esencial y originariamente en el pueblo del Estado 
 
 ## TITULO SEGUNDO. De los Principios Constitucionales, los Derechos Humanos y sus Garantías
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE JULIO DE 2016)</small>
 
 ###### Artículo 5.
 
-En el Estado de México todos los individuos son iguales y tienen las libertades, derechos y garantías que la Constitución Federal, esta Constitución, los Tratados Internacionales en materia de derechos fundamentales de los que el Estado Mexicano sea parte y las leyes del Estado establecen.
+En el Estado de México todas las personas gozarán de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales en los que el Estado mexicano sea parte, en esta Constitución y en las leyes que de ésta emanen, por lo que gozarán de las garantías para su protección, las cuales no podrán restringirse ni suspenderse salvo en los casos y bajo las condiciones que la Constitución Política de los Estados Unidos Mexicanos establece.
 
 > <small>(ADICIONADO, G.G. 3 DE MAYO DE 2012)</small>
 
@@ -85,9 +85,9 @@ Las normas relativas a los derechos humanos se interpretarán de conformidad con
 
 Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
 
-> <small>(REFORMADO, G.G. 13 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, G.G. 25 DE JULIO DE 2016)</small>
 
-Queda prohibida toda discriminación motivada por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas. El Estado garantizará la vigencia del principio de igualdad, combatiendo toda clase de discriminación.
+Queda prohibida toda discriminación motivada por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, orientación sexual e identidad de género, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas. El Estado garantizará la vigencia del principio de igualdad, combatiendo toda clase de discriminación.
 
 > <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
@@ -259,11 +259,11 @@ Toda persona tiene derecho al acceso a la gestión pública a través del uso de
 
 Los habitantes del Estado gozan del derecho a que les sea respetado su honor, su crédito y su prestigio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE JULIO DE 2016)</small>
 
 ###### Artículo 7.
 
-Las leyes del Estado no podrán establecer sanciones que priven a algún individuo de la vida o confisquen sus bienes.
+Las leyes del Estado no podrán establecer sanciones que priven de la vida a las personas, confisquen sus bienes, ni penas crueles, inhumanas o degradantes.
 
 > <small>(ADICIONADO, G.G. 14 DE NOVIEMBRE DE 2011)</small>
 
@@ -475,15 +475,39 @@ Asimismo, podrán coadyuvar en la identificación y precisión de las demandas y
 
 La ley determinará las formas de participación de estas organizaciones, y la designación de contralores sociales para vigilar el cumplimiento de las actividades señaladas en el párrafo anterior.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE JULIO DE 2016)</small>
 
 ###### Artículo 16.
 
-La Legislatura del Estado establecerá un organismo autónomo para la protección de los derechos humanos que otorga el orden jurídico mexicano, el cual conocerá de quejas en contra de actos u omisiones de naturaleza administrativa, provenientes de cualquier autoridad o servidor público del Estado, o de los municipios que violen los derechos humanos. Este organismo formulará recomendaciones públicas no vinculatorias; así como denuncias y quejas ante las autoridades respectivas.
+La Legislatura del Estado establecerá un organismo autónomo para la protección de los derechos humanos que reconoce el orden jurídico mexicano, el cual conocerá de quejas en contra de actos u omisiones de naturaleza administrativa, provenientes de cualquier autoridad o servidor público del Estado, o de los municipios que violen los derechos humanos. Este organismo formulará recomendaciones públicas no vinculatorias, así como denuncias y quejas ante las autoridades respectivas.
 
 > <small>(REFORMADO, G.G. 3 DE MAYO DE 2012)</small>
 
 El organismo no será competente tratándose de asuntos electorales y jurisdiccionales.
+
+> <small>(ADICIONADO, G.G. 25 DE JULIO DE 2016)</small>
+
+El organismo que establecerá la Legislatura del Estado se denominará Comisión de Derechos Humanos del Estado de México, contará con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propio.
+
+> <small>(ADICIONADO, G.G. 25 DE JULIO DE 2016)</small>
+
+Toda autoridad o servidor público está obligado a responder las Recomendaciones que les presente este organismo. Cuando las Recomendaciones emitidas no sean aceptadas o cumplidas, éstos deberán fundar, motivar y hacer pública su negativa. La Legislatura podrá llamar, a solicitud del organismo a las autoridades o servidores públicos responsables para que comparezcan ante dicho órgano, a efecto de que expliquen el motivo de su negativa o de incumplimiento.
+
+> <small>(ADICIONADO, G.G. 25 DE JULIO DE 2016)</small>
+
+La Comisión de Derechos Humanos del Estado de México tendrá un Consejo Consultivo integrado por un presidente, un secretario técnico y cinco consejeros ciudadanos, estos últimos elegidos por el voto de las dos terceras partes de los miembros presentes de la Legislatura o, en sus recesos, por la Diputación Permanente, con la misma votación calificada. Los consejeros ciudadanos durarán en su cargo tres años, salvo que fuesen propuestos y ratificados para un segundo periodo.
+
+> <small>(ADICIONADO, G.G. 25 DE JULIO DE 2016)</small>
+
+El Presidente de la Comisión de los Derechos Humanos del Estado de México, quien lo será también del Consejo Consultivo, será elegido en los mismos términos del párrafo anterior y durara en su encargo cuatro años, podrá ser reelecto por una sola vez y removido de sus funciones en los términos del Título Séptimo de esta Constitución.
+
+> <small>(ADICIONADO, G.G. 25 DE JULIO DE 2016)</small>
+
+Para los efectos de la elección del Presidente y de los consejeros ciudadanos, la Legislatura estatal deberá establecer mecanismos de consulta pública, con la sociedad civil, organismos públicos y privados que tengan por objeto la protección y defensa de los derechos humanos. Con base en dicha consulta, que deberá ser transparente, la comisión legislativa que corresponda propondrá una terna de candidatos, de la cual se elegirá a quien ocupe el cargo, en los términos y condiciones que señale la ley correspondiente.
+
+> <small>(ADICIONADO, G.G. 25 DE JULIO DE 2016)</small>
+
+El Presidente de la Comisión de Derechos Humanos del Estado de México presentará, anualmente a los Poderes del Estado, un informe de actividades, de manera personal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE FEBRERO DE 2011)</small>
 
@@ -1311,9 +1335,17 @@ XLIX. Convocar a consultas populares en los términos de esta Constitución y de
 
 L. Nombrar a los comisionados del organismo autónomo garante en materia de transparencia, acceso a la información pública y protección de datos personales.
 
-> <small>(ADICIONADA, G.G. 8 DE JUNIO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-LI. Las demás que la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, las leyes federales o las del Estado, le atribuyan.
+> <small>(REFORMADA, G.G. 25 DE JULIO DE 2016)</small>
+
+LI. Ratificar los nombramientos que el Gobernador haga de los servidores públicos que integren su gabinete, cuando opte por un gobierno de coalición, con excepción del titular en el ramo de seguridad pública.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.G. 25 DE JULIO DE 2016)</small>
+
+LII. Las demás que la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, las leyes federales o las del Estado le atribuyan.
 
 > <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -1491,7 +1523,7 @@ III. Promulgar y publicar las leyes, decretos o acuerdos que expida la Legislatu
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-IV. Expedir los reglamentos necesarios para la ejecución y cumplimiento de las leyes y decretos expedidos por la Legislatura;
+IV. Expedir los reglamentos necesarios para la ejecución y cumplimiento de las leyes y decretos expedidos por la Legislatura.
 
 V. Presentar ante la Legislatura del Estado iniciativas de ley o decreto;
 
@@ -1621,9 +1653,19 @@ XLVI. Solicitar a la Legislatura las consultas populares sobre los temas de tras
 
 XLVII. Objetar los nombramientos de los comisionados del organismo autónomo garante en materia de transparencia, acceso a la información pública y protección de datos personales hechos por la Legislatura, en los términos establecidos en esta Constitución y en la Ley.
 
-> <small>(ADICIONADA, G.G. 8 DE JUNIO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XLVIII. Las demás que la Constitución General de la República, la presente Constitución, las Leyes Federales o las del Estado y sus respectivos reglamentos le atribuyen.
+> <small>(REFORMADA, G.G. 25 DE JULIO DE 2016)</small>
+
+XLVIII. Optar en cualquier momento por un gobierno de coalición con uno o varios de los partidos políticos representados en la Legislatura del Estado.
+
+El gobierno de coalición se regulará por el convenio y el programa respectivos, los cuales deberán ser aprobados por mayoría de los Diputados presentes en la sesión del pleno de la Legislatura donde se discuta. Si la Legislatura se encontrara en receso la Diputación Permanente convocará de inmediato a la Legislatura del Estado a un periodo extraordinario. El convenio establecerá las causas de la disolución del gobierno de coalición.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.G. 25 DE JULIO DE 2016)</small>
+
+XLIX. Las demás que la Constitución General de la República, la presente Constitución, las leyes federales o las del Estado y sus respectivos reglamentos le atribuyen.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -4116,3 +4158,25 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial “Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 25 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 102.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 61, FRACCIÓN LI, Y 77, FRACCIÓN XLVIII, Y SE ADICIONAN LA FRACCIÓN LII AL ARTÍCULO 61 Y LA FRACCIÓN XLIX AL ARTÍCULO 77 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno”.
+
+SEGUNDO. Las reformas a los artículos 61, fracciones LI y LII y 77, fracciones XLVIII y XLIX de la Constitución Política del Estado Libre y Soberano de México entrarán en vigor el 16 de septiembre de 2017.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 25 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 103.- POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO Y CUARTO DEL ARTÍCULO 5, EL PÁRRAFO PRIMERO DEL ARTÍCULO 7, EL PÁRRAFO PRIMERO DEL ARTÍCULO 16 Y ADICIONA SEIS ÚLTIMOS PÁRRAFOS AL MISMO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México deberá realizar las modificaciones correspondientes a la normatividad del Organismo, dentro de los ciento veinte días hábiles siguientes a la entrada en vigor de este Decreto.
+
+CUARTO. Se dejan sin efecto las disposiciones que se opongan al presente decreto.
