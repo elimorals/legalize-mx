@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-responsabilidades-de-los-servidores-publicos-573
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-24"
-last_updated: "2014-11-12"
+last_updated: "2016-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 24 de octubre de 2007.
 
@@ -85,17 +85,23 @@ II. Lugar y fecha de la presentación del escrito.
 
 III. El nombre del quejoso o denunciante. En caso de que sean varios los quejosos o denunciantes deberán designar un representante común a quien se le harán las notificaciones que correspondan. Para el caso de que no se realice la designación del representante común, la autoridad tendrá como representante a cualquiera de ellos.
 
-IV. El nombre y cargo del o los servidores públicos a quienes se les imputan los hechos, en caso de que sean de su conocimiento o la manifestación bajo protesta de decir verdad que lo desconocen.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2014)</small>
+
+IV. El nombre, domicilio oficial y cargo del o los servidores públicos a quienes se les imputan los hechos, en caso de que sean de su conocimiento, o la manifestación bajo protesta de decir verdad que los desconocen.
 
 V. Relación sucinta de los hechos materia de su queja o denuncia, señalando de manera precisa el acto imputado, así como las circunstancias en que se realizo, tales como: lugar, hora y fecha.
 
 VI. Señalar domicilio en el lugar donde se siga el procedimiento, para que se le notifique el primer acuerdo que recaiga sobre la queja o denuncia presentada y en su caso la resolución definitiva. En este caso, será notificado siempre y cuando los actos u omisiones que deriven en responsabilidad provoquen un detrimento en la esfera patrimonial del quejoso o denunciante.
 
-VII. En caso de que el quejoso o denunciante cuente con elementos de prueba, deberá adjuntarlos a la queja o denuncia. Tratándose de juicio político, la aportación de dichos elementos será esencial.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2014)</small>
+
+VII. En caso de que el quejoso o denunciante cuente con elementos de prueba, deberá adjuntarlos a la queja o denuncia, relacionando el hecho que pretende acreditar con cada prueba. Tratándose de juicio político, la aportación de dichos elementos será esencial.
 
 VIII. Firma autógrafa del quejoso o denunciante.
 
-En caso de que el quejoso o denunciante comparezca personalmente ante la autoridad, esta deberá recibir su declaración, asentando en ella el lugar, fecha, hora, sus generales, así como una relación sucinta de los hechos motivo de la comparecencia. Dichos datos deberán cubrir en esencia, los requisitos enumerados en las fracciones anteriores.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2014)</small>
+
+En caso de que el quejoso o denunciante comparezca personalmente ante la autoridad, esta deberá recibir su declaración, asentando en ella el lugar, fecha, hora, sus generales, así como una relación sucinta de los hechos, motivo de la comparecencia, señalando de manera precisa el acto imputado y las circunstancias de modo, tiempo y lugar en que se realizó. En este supuesto se deberán cubrir los requisitos enumerados en las fracciones anteriores.
 
 ###### ARTÍCULO 5.
 
@@ -375,7 +381,9 @@ IX. Abstenerse de autorizar la selección, contratación, nombramiento o designa
 
 X. Excusarse de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal familiar o de negocios, incluyendo aquellos de los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el Servidor Público o las personas antes referidas formen o hayan formado parte;
 
-XI. Presentar ante la autoridad competente, con oportunidad y veracidad la declaración de situación patrimonial en los términos de Ley;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2016)</small>
+
+XI. Presentar ante la autoridad competente, con oportunidad y veracidad las declaraciones de intereses y de situación patrimonial, en los términos de Ley. Así como autorizar su publicidad en los casos previstos en el segundo párrafo del artículo 78 de esta Ley;
 
 XII. Abstenerse, durante el ejercicio de sus funciones de solicitar, aceptar o recibir por sí o por interpósita persona, dinero u objetos, mediante enajenación a su favor, o en precio notoriamente inferior a aquel al que el bien de que se trate tenga en el mercado ordinario, o cualquier donación, empleo, cargo o comisión para sí, o para las personas a que se refiere la fracción IX, y que procedan de cualquier persona física o moral cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el Servidor Público de que se trate en el desempeño de su empleo, cargo o comisión y que implique intereses en conflicto. Esta prevención es aplicable hasta un año después de que se haya retirado del empleo, cargo o comisión;
 
@@ -423,11 +431,19 @@ XXII. Abstenerse de autorizar jubilaciones, pensiones, haberes de retiro o liqui
 
 XXIII. Cumplir, en tiempo y forma, con aquellas disposiciones transitorias de leyes y decretos, que en virtud de su competencia deba llevar a cabo.
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2012)</small>
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2014)</small>
+
+XXIV. Cumplir con lo establecido en el último párrafo, del artículo 1°, de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2014)</small>
+
+XXV. Realizar el procedimiento establecido en la Ley de Entrega Recepción de la Administración Pública para el Estado de Morelos y sus Municipios, en los términos señalados en la misma, en caso de que el servidor público concluya su función, renuncie o por cualquier otra causa se separe de su empleo, cargo o comisión.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 28.
 
-Se consideran graves las infracciones o violaciones a los deberes establecidos por las fracciones II, III, IV, VIII, IX, X, XI, XII, XV y XVI a la XXIII del artículo anterior.
+Se consideran graves las infracciones o violaciones a los deberes establecidos por las fracciones II, III, IV, VIII, IX, X, XI, XII, XV Y XVI a XXIV del artículo anterior.
 
 ###### ARTÍCULO 29.
 
@@ -498,6 +514,10 @@ IV. Cuando se trate de infracciones a los deberes contenidos en las fracciones X
 V. En los casos previstos en las fracciones XVII a XXIII del artículo anterior y en general, cuando la conducta desplegada por el servidor público responsable se advierta que causa daños o perjuicios al servicio y al erario público, la sanción será de destitución o inhabilitación hasta por ocho años, debiéndose imponer la multa prevista en la fracción III del artículo anterior.
 
 VI. Cuando del resultado de la conducta del servidor público se desprende además que se pusieron en riesgo inminente o se afectaron significativamente los intereses jurídicos del Estado o los valores máximos que el Estado tutela a sus gobernados, como son la vida, la salud y su libertad, se impondrá como sanción la inhabilitación por doce años para ejercer el servicio público, debiéndose imponer también la multa prevista por la fracción III del artículo anterior.
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2014)</small>
+
+VII. Cuando del resultado de la conducta del servidor público se desprenda cualquier práctica discriminatoria, se impondrá como sanción suspensión del cargo, empleo o comisión por nueve meses sin goce de sueldo o inhabilitación hasta por tres años para ejercer el servicio público.
 
 ### CAPÍTULO II. NOTIFICACIONES Y TÉRMINOS
 
@@ -641,7 +661,9 @@ En el supuesto que el servidor público suspendido temporalmente no resultare re
 
 El servidor público en contra de quien se instaure el procedimiento de responsabilidad administrativa, formulará su contestación a la queja o denuncia dentro del plazo de quince días hábiles, refiriéndose a cada uno de los hechos que se le imputan, admitiéndolos o negándolos, expresando los que ignore por no ser propios o refiriéndose como considere que ocurrieron. Cuando el probable responsable aduzca hechos o Derecho incompatibles con los señalados por el actor en la queja o denuncia, se tendrá por contestada en sentido negativo de éstos últimos. El silencio y las evasivas harán que se tengan por admitidos los hechos y el Derecho sobre los que no se suscitó controversia. La negación de los hechos no entraña la admisión del Derecho, salvo lo previsto en el párrafo siguiente.
 
-Se presumirán confesados los hechos de la queja o denuncia que se deje de contestar; sin embargo, se tendrá por contestada en sentido negativo en los casos en que el emplazamiento se hubiere hecho por edictos.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2014)</small>
+
+La falta de contestación de la queja o denuncia presumirá la aceptación de los hechos, la cual para constituir prueba plena debe ser adminiculada con otros probatorios que la favorezcan; sin embargo, se tendrá por contestada en sentido negativo, en los casos en que el emplazamiento se hubiere hecho por edictos.
 
 ###### ARTÍCULO 49.
 
@@ -661,7 +683,9 @@ Si el denunciado quiere llamar a procedimiento a un tercero, deberá manifestarl
 
 El ofrecimiento de pruebas se realizará conjuntamente con la contestación de la queja o denuncia, salvo que se trate de pruebas supervenientes.
 
-Son admisibles como medios de prueba aquellos elementos que puedan producir convicción en el ánimo de la autoridad sancionadora acerca de los hechos controvertidos o dudosos, salvo la confesional, declaración de parte y aquellas contrarias al derecho, a la moral y a las buenas costumbres.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2014)</small>
+
+Son admisibles como medios de prueba, aquellos elementos que puedan producir convicción en el ánimo de la autoridad sancionadora acerca de los hechos controvertidos o dudosos, salvo la confesional por posiciones, declaración de parte y aquellas contrarias a derecho, a la moral y a las buenas costumbres.
 
 ###### ARTÍCULO 53.
 
@@ -771,7 +795,9 @@ V. Las condiciones exteriores del servidor público, como el ambiente y medios l
 
 VI. Los medios de ejecución utilizados por el servidor público al momento de cometer la falta administrativa. Deberá considerarse si el servidor público actuó premeditada, intencional o dolosamente, así como el ánimo de su actuación; y
 
-VII. La reincidencia en el incumplimiento de las obligaciones impuestas por la función pública a todos los servidores públicos. Para este efecto deberán considerarse las sanciones administrativas, penales, sentencias civiles, laborales o de cualquier otra naturaleza, impuestas al servidor público en ejercicio de sus atribuciones y que hayan sido declaradas firmes por las autoridades competentes.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2014)</small>
+
+VIII (SIC). La reincidencia en el incumplimiento de las obligaciones impuestas por la función pública a todos los servidores públicos. Para tal efecto, se considera que existe reincidencia cuando al servidor público de que se trate se le haya impuesto, por resolución firme de autoridad competente, otra sanción derivada de responsabilidad administrativa.
 
 ###### ARTÍCULO 66.
 
@@ -893,9 +919,17 @@ III. De conclusión. Dentro de los treinta días naturales siguientes a la concl
 
 La Secretaría de la Contraloría del Estado, el Consejo de la Judicatura y Auditoría Superior de Fiscalización, deberán publicar, respectivamente, el reglamento y el catálogo de servidores públicos obligados a rendir su declaración patrimonial.
 
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2016)</small>
+
+En la Administración Pública Estatal, los servidores públicos titulares de las Secretarías, Dependencias y Entidades, así como aquellos que ocupen cargos inferiores hasta el nivel jerárquico de Subsecretario o equivalente, además de los directores generales de la administración paraestatal, deberán autorizar que se hagan públicas sus declaraciones de intereses y de situación patrimonial, en la versión que establezca la Secretaría de la Contraloría del Poder Ejecutivo Estatal, en la cual se determinarán los datos del declarante que deban hacerse públicos conforme a los principios de máxima publicidad y transparencia, sin perjuicio de la protección de datos personales de terceros. Dichos servidores harán público además el cumplimiento de sus obligaciones fiscales.
+
 ###### ARTÍCULO 79.
 
 El servidor público que no presente su declaración de bienes en los plazos previstos por el artículo 77 y en la forma y tiempo establecidos por las autoridades receptoras en su reglamentación interna, se hará acreedor a multa de un mínimo de ocho a un máximo de veinte días de salario mínimo general vigente en el Estado de Morelos.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2016)</small>
+
+Se aplicará la misma sanción para los servidores públicos que incumplan lo dispuesto por el segundo párrafo del artículo inmediato anterior.
 
 ###### ARTÍCULO 80.
 
@@ -1076,3 +1110,15 @@ P.O. 12 DE NOVIEMBRE DE 2014.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 25 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SETECIENTOS CINCUENTA Y TRES POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS, EN MATERIA DE PUBLICITACIÓN DE LAS DECLARACIONES DE INTERESES Y DE SITUACIÓN PATRIMONIAL, ASÍ COMO DEL CUMPLIMIENTO DE OBLIGACIONES FISCALES".]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, incisos a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. En un plazo no mayor a 180 días hábiles, contados a partir del día siguiente al que dé inicio la vigencia del presente Decreto, deberán actualizarse o modificarse las disposiciones reglamentarias que derivan del instrumento legislativo reformado.
+
+CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
