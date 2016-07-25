@@ -4,7 +4,7 @@ identifier: "HID-ley-que-crea-el-centro-estatal-de-trasplantes-de-organos-77397"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-22"
-last_updated: "2010-11-22"
+last_updated: "2016-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY QUE CREA EL CENTRO ESTATAL DE TRASPLANTES DE ORGANOS, TEJIDOS Y CELULAS DE SERES HUMANOS PARA EL ESTADO DE HIDALGO
 
-LEY QUE CREA EL CENTRO ESTATAL DE TRASPLANTES DE ORGANOS, TEJIDOS Y CELULAS DE SERES HUMANOS PARA EL ESTADO DE HIDALGO
+LEY QUE CREA EL CENTRO ESTATAL DE TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS DE SERES HUMANOS PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 22 de noviembre de 2010.
 
@@ -69,7 +69,9 @@ II.- CADÁVER: Cuerpo humano en el que se haya comprobado la pérdida de la vida
 
 III.- CERTIFICADO DE DEFUNCIÓN: Documento expedido por los médicos que practiquen los exámenes correspondientes en el cuerpo del donante;
 
-IV.- CEETRA: Centro Estatal de Trasplantes del Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2016)</small>
+
+IV.- CEETRA: El órgano administrativo desconcentrado denominado Centro Estatal de Trasplantes de Órganos, Tejidos y Células de Seres Humanos para el Estado de Hidalgo, subordinado a la Secretaría de Salud del Estado;
 
 V.- CENATRA: Centro Nacional de Trasplantes;
 
@@ -91,7 +93,9 @@ XIII.- ÓRGANO: Entidad morfológica compuesta por la agrupación de tejidos dif
 
 XIV.- RECEPTOR: Persona que recibe para su uso terapéutico un órgano, tejido o células humanas;
 
-XV.- SECRETARÍA: Secretaría de Salud del Estado de Hidalgo y/o los Servicios de Salud de Hidalgo;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2016)</small>
+
+XV.- SECRETARÍA: La Secretaría de Salud del Estado de Hidalgo;
 
 XVI.- TEJIDO: Entidad morfológica compuesta por la agrupación de células de la misma naturaleza, ordenadas con regularidad y que desempeñen una misma función; y
 
@@ -101,9 +105,11 @@ XVII.- TRASPLANTE: Transferencia de un órgano, tejido o célula de una parte de
 
 Compete a la Secretaría, la aplicación de esta ley a través de la COPRISEH, y en cuanto al control sanitario se estará a lo dispuesto en la Ley General de Salud.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2016)</small>
+
 ###### Artículo 5.
 
-Corresponde al CEETRA cumplir con las normas oficiales mexicanas en la materia, destinadas a la disposición de órganos, tejidos, células y cadáveres humanos en el Estado de Hidalgo.
+Corresponde a la Secretaría, a través del CEETRA, cumplir con las normas oficiales mexicanas en la materia, destinadas a la disposición de órganos, tejidos, células y cadáveres de seres humanos en el Estado de Hidalgo.
 
 ###### Artículo 6.
 
@@ -113,27 +119,35 @@ El Ejecutivo, por conducto de la Secretaría, dará cumplimiento a los ordenamie
 
 Compete a la Secretaría:
 
-I.- Coordinar al CEETRA, conforme a los términos que previene la presente Ley;
+I.- (DEROGADA, P.O. 25 DE JULIO DE 2016)
 
-II.- Dirigir las políticas de salud en materia de donación y trasplantes de órganos, tejidos y células de seres humanos, para lo cual se apoyará en el CENATRA, del Centro Nacional de Trasfusión Sanguínea y en el CEETRA;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2016)</small>
+
+II.- Dirigir las políticas de salud en materia de disposición y trasplantes de órganos, tejidos y células de seres humanos, para lo cual se coordinará en lo conducente, a través del CEETRA, con el CENATRA y los Centros Nacional y Estatal de la Transfusión Sanguínea;
 
 III.- Regular el manejo, conservación y disposición de cadáveres humanos en los términos de esta Ley, a través del órgano desconcentrado denominado COPRISEH;
 
-IV.- Emitir el Estatuto Orgánico, los instructivos, circulares y formas que se requieran para la aplicación de la presente Ley;
+IV.- (DEROGADA, P.O. 25 DE JULIO DE 2016)
 
 V.- Promover la cultura de la donación de órganos tejidos y células de seres humanos con fines de trasplante entre la población hidalguense, para coadyuvar en el tratamiento o curación de los pacientes que las requieran; y
 
 VI.- Fomentar, propiciar y desarrollar programas de estudio e investigación relacionados con la disposición de órganos, tejidos, células y cadáveres de seres humanos, particularmente en lo que respecta a trasplantes, trasfusiones y otros procedimientos terapéuticos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JULIO DE 2016)</small>
+
 ###### Artículo 8.
 
-La disposición de órganos, tejidos y células de seres humanos para trasplantes, con propósitos terapéuticos, docentes y de investigación, que practique el CEETRA se realizará conforme a las disposiciones legales aplicables, en coordinación con:
+La disposición de órganos, tejidos y células de seres humanos para trasplantes con propósitos terapéuticos, docentes y de investigación, que se lleven a cabo en los establecimientos del Sistema Estatal de Salud, se realizará conforme a las disposiciones legales aplicables en coordinación con:
 
 I.- Las Autoridades Sanitarias Federales;
 
-II.- El Centro Nacional de Trasplantes (CENATRA); y
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2016)</small>
 
-III.- Los Centros Estatales de Trasplantes u órganos similares de otras Entidades Federativas y el Distrito Federal.
+II.- El CENATRA; y
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2016)</small>
+
+III.- La autoridad competente en el Estado de Hidalgo.
 
 ###### Artículo 9.
 
@@ -145,9 +159,11 @@ II.- Usos terapéuticos; y
 
 III.- Propósitos de enseñanza o investigación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JULIO DE 2016)</small>
+
 ###### Artículo 10.
 
-En el caso de la disposición total o parcial de los cuerpos para después de la muerte, el consentimiento del disponente originario deberá otorgarse ante notario público o en forma fehaciente y registrarse en el CEETRA o CENATRA.
+En el caso de disposición parcial o total del cuerpo humano para después de la muerte, el consentimiento del disponente originario deberá otorgarse de conformidad con los preceptos legales aplicables.
 
 Los médicos tratantes deberán percatarse del cumplimiento de los requisitos antes indicados y de ser procedente, entregarán el cuerpo u órgano al beneficiario, recabando previamente la opinión de un médico legista, conforme a lo que establezca, sobre el particular, el Reglamento de la presente Ley.
 
@@ -179,23 +195,29 @@ En ningún caso se podrá disponer de órganos, tejidos, células o cadáveres d
 
 ### CAPÍTULO II. DEL CENTRO ESTATAL DE TRASPLANTES
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2016)</small>
+
 ###### Artículo 13.
 
-Se crea el Centro Estatal de Trasplantes de Órganos, Tejidos y Células de Seres Humanos para el Estado de Hidalgo, como un Organismo Descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios, el cual estará integrado al sector que coordina la Secretaría, para que, concurrentemente con la Federación, atienda este importante renglón, como lo establece el Artículo 339 de la Ley General de Salud.
+Se crea el Centro Estatal de Trasplantes de Órganos, Tejidos y Células de Seres Humanos para el Estado de Hidalgo, como un órgano administrativo desconcentrado subordinado a la Secretaría, con autonomía técnica-operativa y funcional.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2016)</small>
 
 ###### Artículo 14.
 
-El CEETRA tendrá por objeto promover, apoyar y coordinar las acciones en materia de trasplantes y donación de órganos, tejidos y células de seres humanos que realizan las instituciones de salud con fines terapéuticos; así como, fomentar la cultura de la donación y la capacitación de recursos humanos en la materia, dentro del marco de la Ley General de Salud, la Ley de Salud para el Estado de Hidalgo y la presente Ley.
-
-El CEETRA tendrá su domicilio en el municipio de Pachuca de Soto, Hidalgo, pudiendo establecer unidades operativas en las regiones o municipios del Estado.
+El Centro Estatal de Trasplantes de Órganos, Tejidos y Células de Seres Humanos para el Estado de Hidalgo tendrá por objeto promover, apoyar y coordinar las acciones en materia de trasplantes y disposición de órganos, tejidos y células de seres humanos que realizan las instituciones de salud con fines terapéuticos, así como fomentar la cultura de su disposición altruista y la capacitación de recursos humanos en la materia, en observancia a la Ley General de Salud, a la Ley de Salud para el Estado de Hidalgo y sus respectivas disposiciones reglamentarias.
 
 ### CAPÍTULO III. DE LAS ATRIBUCIONES DEL CENTRO ESTATAL DE TRASPLANTES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JULIO DE 2016)</small>
+
 ###### Artículo 15.
 
-El CEETRA tendrá las siguientes atribuciones:
+El CEETRA, tendrá las siguientes funciones:
 
-I.- Decidir y vigilar, dentro de su ámbito de competencia, la asignación de órganos, tejidos y células de seres humanos para trasplantes y, en general, de las actividades relacionadas con éstos y de los establecimientos que realizan dichas asignaciones;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2016)</small>
+
+I.- Coadyuvar, en el ámbito de su competencia, con las instituciones de salud al trámite, procedimiento para la asignación de órganos, tejidos y células de seres humanos para trasplantes y, todas aquellas actividades relacionadas, así como vigilar, dentro de su ámbito de competencia, que la asignación de órganos, tejidos y células de seres humanos para trasplantes se realicen de conformidad con las disposiciones jurídicas aplicables;
 
 II.- Realizar acciones tendientes a garantizar a la población del Estado el respeto y la protección del derecho a la libre donación de órganos, tejidos y células de seres humanos, así como de ser sujeto de trasplante de éstos;
 
@@ -231,241 +253,109 @@ g).- Los profesionales de las disciplinas para la salud debidamente registrados 
 
 XI.- Proporcionar el formato en que deba registrarse el consentimiento de donación expresa de la persona que desea ser donante de órganos, tejidos y/o células de seres humanos; así como, el de consentimiento de donación tácita que realicen las personas a que se refiere el Artículo 324 de la Ley General de Salud;
 
-XII.- Emitir opiniones, acuerdos y resoluciones técnicas relacionadas con la donación y trasplantes de órganos, tejidos y células de seres humanos; así como, con los procedimientos de los mismos, actividades relacionadas con éstas y respecto a los establecimientos autorizados en que se realicen dichos actos, ya sea de manera oficiosa, o bien, cuando éstas le sean requeridas por las autoridades sanitarias Federales y Estatales, así también, por las autoridades judiciales del fuero común o del fuero Federal;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2016)</small>
 
-XIII.- Fomentar y promover la cultura de donación de órganos, tejidos y células de seres humanos en coordinación con las autoridades sanitarias en el Estado. Hacer constar el mérito y altruismo de los donadores y sus familiares mediante la expedición de los testimonios correspondientes;
+XII.- Emitir opiniones técnicas relacionadas con la donación y trasplantes de órganos, tejidos y células de seres humanos; así como, con los procedimientos de los mismos, actividades relacionadas con éstas y respecto a los establecimientos autorizados en que se realicen dichos actos, ya sea de manera oficiosa, o bien, cuando éstas le sean requeridas por las autoridades competentes;
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2016)</small>
+
+XIII.- Fomentar y promover la cultura de donación de órganos, tejidos y células de seres humanos en coordinación con las autoridades sanitarias en el Estado. Hacer constar el mérito y altruismo de los donadores y sus familiares mediante la expedición de los testimonios correspondientes, cuando así proceda;
 
 XIV.- Proporcionar al CENATRA la información correspondiente al Estado, en los términos de los Acuerdos de coordinación que se celebren;
 
 XV.- Constituir y validar grupos de apoyo técnicos y consultivos que coadyuven en el fomento de la cultura de la donación de órganos, tejidos y células de seres humanos o, en todo caso que, sus actividades principales tiendan a facilitar los procesos para su procuración con fines de trasplantes dentro de las diferentes Instituciones de Salud del Estado que expresamente lo soliciten, observando la normatividad aplicable a la materia;
 
-XVI.- Efectuar acciones de coordinación con las diferentes Dependencias y Autoridades Federales y Estatales para el logro de su objeto y cumplimiento de sus funciones y atribuciones;
+XVI.- (DEROGADA, P.O. 25 DE JULIO DE 2016)
 
-XVII.- Planear, programar, administrar y ejercer los recursos que le sean autorizados para sus programas; así como las aportaciones que reciba de otras personas e instituciones;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2016)</small>
 
-XVIII.- Realizar actos, convenios, contratos y demás instrumentos jurídicos que sean necesarios para el logro de sus objetivos y para el cumplimiento de sus atribuciones;
+XVII.- Planear, programar, administrar y coordinar el desarrollo de sus programas;
 
-XIX.- Coadyuvar, con las autoridades competentes, en la prevención y combate del tráfico ilegal de órganos, tejidos y células de seres humanos; y
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2016)</small>
+
+XVIII.- Participar en actos, convenios, contratos y demás instrumentos jurídicos en materia de donación y trasplantes de órganos, tejidos y células de seres humanos;
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2016)</small>
+
+XIX.- Coadyuvar, con las autoridades competentes, en la prevención y combate de la disposición ilícita de órganos, tejidos y células de seres humanos; y
 
 XX.- Las demás que esta Ley y otras disposiciones le confieren para el cumplimiento de su objetivo.
 
-### CAPÍTULO IV. DEL PATRIMONIO
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE JULIO DE 2016)</small>
+
+### CAPÍTULO IV
 
 ###### Artículo 16.
 
-El patrimonio del CEETRA estará constituido por:
+(DEROGADO, P.O. 25 DE JULIO DE 2016)
 
-I.- Los bienes muebles e inmuebles, así como los derechos que adquiera;
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE JULIO DE 2016)</small>
 
-II.- Las aportaciones que los Gobiernos Federal, Estatal y Municipal le concedan;
-
-III.- Los derechos que tenga sobre recursos que le sean proporcionados por el Gobierno Federal, Estatal y Municipal;
-
-IV.- Las cuotas de recuperación que reciba por los servicios que preste;
-
-V.- Los rendimientos y demás ingresos que obtenga de la inversión de los recursos a que se refieren las fracciones anteriores;
-
-VI.- Las concesiones, permisos, licencias y autorizaciones que se le otorguen conforme a la Ley; y
-
-VII.- En general, todos los bienes, derechos y obligaciones que impliquen utilidad económica o sean susceptibles de estimación pecuniaria y que se obtengan por cualquier título legal.
-
-### CAPÍTULO V. DE LOS ÓRGANOS DE GOBIERNO DEL CENTRO ESTATAL DE TRASPLANTES
+### CAPÍTULO V
 
 ###### Artículo 17.
 
-El CEETRA contará con los siguientes órganos de gobierno:
-
-I.- Junta de Gobierno; y
-
-II.- Director General del CEETRA.
+(DEROGADO, P.O. 25 DE JULIO DE 2016)
 
 ###### Artículo 18.
 
-La Junta de Gobierno estará integrada por:
-
-I.- Presidente, el Secretario de Salud y Director General de los Servicios de Salud de Hidalgo o la persona que él designe;
-
-II.- Secretario, el Director del Hospital que designe el Presidente;
-
-III.- Vocal, el Secretario de la Contraloría del Estado;
-
-IV.- Vocal, el Procurador General de Justicia en el Estado;
-
-V.- Vocal, el Director General del Sistema para el Desarrollo Integral de la Familia;
-
-VI.- Vocal, el Delegado Estatal del Instituto Mexicano del Seguro Social;
-
-VII.- Vocal, el Delegado Estatal del Instituto de Seguridad Social al Servicio de los Trabajadores del Estado; y
-
-VIII.- Vocal, el representante de la Comisión para la Protección Contra Riesgos Sanitarios del Estado de Hidalgo.
-
-El Presidente podrá invitar a las sesiones de la Junta de Gobierno a representantes de instituciones privadas o públicas Federales, Estatales o Municipales, que guarden relación con el objeto del CEETRA, quienes participarán solamente con derecho a voz; con excepción de los que formen parte de la Junta de Gobierno.
-
-Los integrantes de la Junta de Gobierno tendrán carácter honorífico y, por su desempeño, no percibirán retribución, emolumentos o compensación económica alguna. Podrán designar un suplente que cubrirá sus ausencias.
+(DEROGADO, P.O. 25 DE JULIO DE 2016)
 
 ###### Artículo 19.
 
-Las sesiones de la Junta de Gobierno serán presididas por el Presidente, o en ausencia de éste, por el Secretario. Ésta sesionará válidamente, con la asistencia de la mayoría de sus integrantes y, sus decisiones se tomarán por mayoría de votos. En caso de empate, el Presidente, o en su caso, el Secretario, tendrán voto de calidad.
+(DEROGADO, P.O. 25 DE JULIO DE 2016)
 
 ###### Artículo 20.
 
-La Junta de Gobierno sesionará con la periodicidad que señale el estatuto orgánico, sin que pueda ser menor de cuatro veces al año. Podrá celebrar las sesiones extraordinarias que se requieran, a juicio del Presidente, quienes circularán la convocatoria respectiva, por conducto del Director General del CEETRA, por lo menos con cinco días hábiles de anticipación a la fecha de su celebración, en los términos y condiciones que señale el Reglamento de esta Ley.
+(DEROGADO, P.O. 25 DE JULIO DE 2016)
 
 ###### Artículo 21.
 
-La Junta de Gobierno tendrá las funciones siguientes:
-
-I.- Definir las políticas en materia de donación y trasplante de órganos, tejidos y células de seres humanos a seguir por el CEETRA, en congruencia con los Planes y Programas Nacionales y Estatales;
-
-II.- Supervisar las donaciones y trasplantes de órganos, tejidos y células de seres humanos, de las actividades relacionadas con éstos y de los establecimientos en que se realicen dichos actos y que sean de su conocimiento;
-
-III.- Vigilar y autorizar las investigaciones en las que, en su desarrollo, se utilicen órganos y tejidos de seres humanos con excepción de la sangre, así como, de injerto y trasplante que se pretendan realizar con fines de investigación, previa opinión de la autoridad sanitaria federal;
-
-IV.- Hacer constar el mérito de altruismo de los donadores y sus familiares mediante la expedición de los testimonios correspondientes;
-
-V.- Establecer las cuotas de recuperación y regular las aportaciones que los participantes entreguen en forma voluntaria, determinando y vigilando su correcta aplicación;
-
-VI.- Aprobar los proyectos y programas del CEETRA y presentarlos, a consideración de las Autoridades Estatales de Salud, para su trámite;
-
-VII.- Autorizar las obras que sean necesarias para el cumplimiento del objeto del CEETRA;
-
-VIII.- Aprobar la estructura orgánica básica del CEETRA, así como, las modificaciones que procedan;
-
-IX.- Analizar y, en su caso, aprobar los informes que periódicamente rinda el Director General;
-
-X.- Aprobar el Estatuto Orgánico del Organismo y los manuales de organización, procedimientos y servicios al público;
-
-XI.- Aprobar la creación de nuevas unidades de investigación, capacitación y servicio;
-
-XII.- Aprobar, las actas de las sesiones realizadas y hacer constar en ellas, los acuerdos tomados por la propia Junta de Gobierno;
-
-XIII.- Autorizar la creación de comisiones de apoyo y determinar las bases de su funcionamiento;
-
-XIV.- Discutir y aprobar, en su caso, los proyectos de inversión que se propongan;
-
-XV.- Examinar, discutir y aprobar, en su caso, los planes y programas que se propongan, así como, los informes de actividades presupuestarias y estados financieros que se presenten a su consideración;
-
-XVI.- Aprobar de acuerdo con las Leyes aplicables, las políticas, bases y programas generales que regulen los convenios, contratos y acuerdos que debe celebrar el CEETRA con las diversas Autoridades Federales, Estatales y Municipales, así como, con particulares y otros organismos del sector social y privado para el logro de sus fines;
-
-XVII.- Delegar las funciones que requieran para el cumplimiento de los objetivos y fines del CEETRA; y
-
-XVIII.- Las demás que sean necesarias para el adecuado ejercicio de las facultades señaladas en el Estatuto Orgánico.
+(DEROGADO, P.O. 25 DE JULIO DE 2016)
 
 ###### Artículo 22.
 
-El Presidente de la Junta de Gobierno tendrá las siguientes atribuciones:
-
-I.- Presidir las sesiones de la Junta de Gobierno;
-
-II.- Representar a la Junta de Gobierno;
-
-III.- Someter a la consideración de la Junta de Gobierno los lineamientos que se requieran para la operatividad del CEETRA;
-
-IV.- Proponer la designación y, en su caso, solicitar la remoción del Director General del CEETRA; y
-
-V.- Las demás que le sean necesarias para el buen funcionamiento del mismo.
+(DEROGADO, P.O. 25 DE JULIO DE 2016)
 
 ###### Artículo 23.
 
-El Secretario de la Junta de Gobierno tendrá las siguientes atribuciones:
-
-I.- Convocar a las sesiones de la Junta de Gobierno;
-
-II.- Asistir a las sesiones de la Junta de Gobierno;
-
-III.- Formular, por acuerdo de la Junta de Gobierno, la orden del día de los asuntos que deban tratarse en sesiones ordinarias y extraordinarias;
-
-IV.- Elaborar las actas correspondientes a dichas sesiones, las que presentará para que, en su caso, sean aprobadas y que tendrá bajo su custodia;
-
-V.- Proporcionar al Director General del CEETRA copia de las actas de sesiones ordinarias y extraordinarias para su conocimiento y ejecución;
-
-VI.- Emitir su voto respecto de los asuntos que se sometan al acuerdo del Órgano de Gobierno; y
-
-VII.- Las demás funciones que le sean encomendadas por la Junta de Gobierno.
+(DEROGADO, P.O. 25 DE JULIO DE 2016)
 
 ###### Artículo 24.
 
-Los Vocales de la Junta de Gobierno tendrán las siguientes funciones:
-
-I.- Asistir a las sesiones de la Junta de Gobierno;
-
-II.- Emitir su voto respecto de los asuntos que se sometan al acuerdo de la Junta de Gobierno; y
-
-III.- Aquellas funciones que les sean encomendadas por la Junta de Gobierno.
+(DEROGADO, P.O. 25 DE JULIO DE 2016)
 
 ###### Artículo 25.
 
-Para ser Director General del CEETRA se requiere:
-
-I.- Ser ciudadano mexicano;
-
-II.- Contar, al día de la designación, preferentemente, con cinco años de experiencia profesional en materia de trasplantes;
-
-III.- Poseer, el día del nombramiento, título profesional de médico cirujano, expedido y registrado por las autoridades educativas correspondientes; de preferencia, con especialidad en materia de trasplantes;
-
-IV.- No desempeñar, durante su función, ninguna otra actividad pública, salvo en los ramos de docencia o beneficencia pública;
-
-V. Gozar de buena reputación y no haber sido condenado por delito doloso, que merezca una pena privativa de libertad; y
-
-VI.- No contar con inhabilitación vigente para desempeñarse en un cargo, empleo o comisión en la Administración Pública.
+(DEROGADO, P.O. 25 DE JULIO DE 2016)
 
 ###### Artículo 26.
 
-Corresponden al Director General del CEETRA las siguientes atribuciones:
+(DEROGADO, P.O. 25 DE JULIO DE 2016)
 
-I.- Representar legalmente al CEETRA, con las facultades de un apoderado general para pleitos y cobranzas y actos de administración, así como, para aquéllas que requieran cláusula especial conforme a la Ley, quedando facultado para delegar dicha representación en uno o más apoderados para que las ejerzan individual o conjuntamente;
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE JULIO DE 2016)</small>
 
-II.- Proponer a la Junta de Gobierno, para su aprobación, las políticas, proyectos y programas de actividades del CEETRA;
-
-III.- Ejecutar los acuerdos y resoluciones que emita la Junta de Gobierno;
-
-IV.- Dirigir técnica y administrativamente el funcionamiento del CEETRA;
-
-V.- Realizar la asignación de los órganos, tejidos y células de seres humanos para los pacientes, tomando como referencia el criterio establecido en el Artículo 336 de la Ley General de Salud y presentar un informe detallado de dichas asignaciones a la Junta de Gobierno en cada sesión ordinaria;
-
-VI.- Organizar y dirigir el registro estatal de trasplantes, de donadores, de receptores, de profesionales de salud y de establecimientos autorizados;
-
-VII.- Formular el anteproyecto de presupuesto anual del CEETRA y someterlo a la consideración de la Junta de Gobierno para su aprobación;
-
-VIII.- Ordenar la práctica de auditorías, internas y externas, que estime necesarias e implementar las medidas de control convenientes;
-
-IX.- Rendir un informe anual ante la Junta de Gobierno o cada vez que ésta lo solicite, en relación a los avances de los programas establecidos, las metas alcanzadas y los estados financieros;
-
-X.- Nombrar y remover al personal del CEETRA;
-
-XI.- Asistir a las sesiones de la Junta de Gobierno, cuando ésta lo convoque, sólo con derecho a voz;
-
-XII.- Registrar las actas de las sesiones de la Junta de Gobierno en el libro que, para el efecto, se lleve e integrarlas para su archivo, acompañadas de la información presentada y analizada en la sesión correspondiente;
-
-XIII.- Celebrar acuerdos y convenios de coordinación con Dependencias y Entidades Federales, Estatales y Municipales, instituciones públicas y con organismos del sector privado y social, en materia de la competencia del CEETRA, previa autorización de la Junta de Gobierno;
-
-XIV.- Elaborar el proyecto de Estatuto Orgánico y manuales de organización y procedimientos y demás instrumentos de apoyo administrativo del CEETRA;
-
-XV.- Crear y organizar los Comités Técnicos de Apoyo que sean necesarios para el mejor funcionamiento del CEETRA;
-
-XVI.- Realizar los actos administrativos y jurídicos que sean necesarios para el cumplimiento del objeto del CEETRA; y
-
-XVII.- Las demás que señale la presente Ley, el Estatuto Orgánico del CEETRA y otras disposiciones legales.
-
-### CAPÍTULO VI. DE LA VIGILANCIA DEL CEETRA
+### CAPÍTULO VI
 
 ###### Artículo 27.
 
-La vigilancia del CEETRA estará a cargo de un Comisario quien será nombrado y removido por la Secretaría de Contraloría.
+(DEROGADO, P.O. 25 DE JULIO DE 2016)
 
 ###### Artículo 28.
 
-El Comisario evaluará el desempeño general del CEETRA, y por áreas específicas, su nivel de eficiencia, el apego a las disposiciones legales vigentes, el cumplimiento de sus metas y programas, así como el manejo de sus ingresos y egresos, pudiendo solicitar, y estando el CEETRA obligado a proporcionar toda la información que requiera para la adecuada realización de sus funciones, sin perjuicio de las acciones que directamente competen a la Secretaría de Contraloría.
+(DEROGADO, P.O. 25 DE JULIO DE 2016)
 
 ###### Artículo 29.
 
-El Órgano Interno de Control del CEETRA, formará parte integrante de su estructura y su titular será nombrado y removido por la Secretaría de la Contraloría. Este Órgano estará adscrito jerárquica, técnica y funcionalmente a dicha Dependencia, y tendrá, a su cargo, las funciones relativas al control y vigilancia de la gestión pública de éste, conforme a lo dispuesto por los reglamentos aplicables y los lineamientos que emita la propia Secretaría.
+(DEROGADO, P.O. 25 DE JULIO DE 2016)
 
-### CAPÍTULO VII. DE LAS RELACIONES LABORALES DEL CENTRA
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE JULIO DE 2016)</small>
+
+### CAPÍTULO VII
 
 ###### Artículo 30.
 
-Las relaciones de trabajo entre el CEETRA y su personal se regirán por la Ley de los Trabajadores al Servicio de los Gobiernos Estatal y Municipal, así como de los Organismos Descentralizados para el Estado de Hidalgo.
+(DEROGADO, P.O. 25 DE JULIO DE 2016)
 
 ### CAPÍTULO VIII. DE LOS DISPONENTES
 
@@ -700,3 +590,15 @@ EL GOBERNADOR CONSTITUCIONAL
 DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 677 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY QUE CREA EL CENTRO ESTATAL DE TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS DE SERES HUMANOS PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se extingue el Organismo Descentralizado denominado Centro Estatal de Trasplantes de Órganos, Tejidos y Células de Seres Humanos para el Estado de Hidalgo.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
