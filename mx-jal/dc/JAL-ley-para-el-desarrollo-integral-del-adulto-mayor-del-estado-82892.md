@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-integral-del-adulto-mayor-del-estado-828
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-15"
-last_updated: "2016-06-16"
+last_updated: "2016-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 15 de septiembre de 2011.
 
@@ -333,9 +333,17 @@ VII. A la educación y la información:
 
 a) A recibir educación de conformidad con lo establecido en artículo 3.° de la Constitución Política de los Estados Unidos Mexicanos;
 
-b) A que las instituciones educativas, públicas y privadas estatales y municipales promuevan la inclusión en sus planes y programas de estudios de los adultos mayores, abonando a su capacitación y desarrollo, y
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2016)</small>
 
-c) Recibir información sobre las instituciones públicas cuya función es la de implementar programas para su atención integral y para la proyección de un plan de vida a futuro con calidad y productividad.
+b) A que las instituciones educativas, públicas y privadas estatales y municipales promuevan la inclusión en sus planes y programas de estudios de los adultos mayores, abonando a su capacitación y desarrollo.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2016)</small>
+
+c) Recibir información sobre las instituciones públicas cuya función es la de implementar programas para su atención integral y para la proyección de un plan de vida a futuro con calidad y productividad, y
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2016)</small>
+
+d) A recibir de parte de las instituciones públicas correspondientes, la capacitación necesaria en el uso de las nuevas tecnologías de la información y comunicación.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -487,9 +495,17 @@ X. Crear los mecanismos o instancias correspondientes para el cumplimiento de es
 
 XI. Procurar la implementación de módulos de atención y de capacitación del personal de dependencias públicas y privadas que atiendan a los adultos mayores;
 
-XII. Promover el posicionamiento de la cartilla de salud de los adultos mayores a través de las instituciones públicas y privadas, y
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2016)</small>
 
-XIII. Establecer páginas electrónicas en las dependencias públicas que tengan un área (banner) específica de servicios de atención para los adultos mayores.
+XII. Promover el posicionamiento de la cartilla de salud de los adultos mayores a través de las instituciones públicas y privadas;
+
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2016)</small>
+
+XIII. Establecer páginas electrónicas en las dependencias públicas que tengan un área (banner) específica de servicios de atención para los adultos mayores; y
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2016)</small>
+
+XIV. Promover y fomentar la investigación científica y desarrollo tecnológico, enfocados en mejorar la calidad de vida de los adultos mayores.
 
 ### CAPÍTULO II. DE LA SECRETARÍA DE DESARROLLO HUMANO
 
@@ -1338,3 +1354,9 @@ P.O. 16 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 25836/LXI/16 QUE REFORMA Y DEROGA DIVERSOS ARTÍCULOS DEL CÓDIGO DE ASISTENCIA SOCIAL Y DE LA LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 26 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25855/LXI/16 QUE REFORMA LOS INCISOS B) Y C) Y ADICIONA UN INCISO D), DE LA FRACCIÓN VII DEL ARTÍCULO 6 Y ADICIONA UNA FRACCIÓN XIV DEL ARTÍCULO 21 DE LA LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
