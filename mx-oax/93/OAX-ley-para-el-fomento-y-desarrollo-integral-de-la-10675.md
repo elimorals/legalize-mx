@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-fomento-y-desarrollo-integral-de-la-10675"
 country: "mx"
 rank: "ley"
 publication_date: "1990-04-04"
-last_updated: "1990-04-04"
+last_updated: "2016-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY PARA EL FOMENTO Y DESARROLLO INTEGRAL DE LA CAFETICULTURA EN EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚM. 2005.- MEDIANTE EL CUAL SE ABROGA EL DECRETO NÚMERO 27 QUE APRUEBA LA LEY PARA EL FOMENTO Y DESARROLLO INTEGRAL DE LA CAFETICULTURA EN EL ESTADO DE OAXACA, EMITIDO EL 06 DE FEBRERO DE 1990 Y PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE OAXACA, EL 4 DE ABRIL DE 1990, PUBLICADO EN EL P.O. DE 26 DE JULIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el 4 de abril de 1990.
 
@@ -256,3 +258,25 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. ILDEFONSO ZORRILLA CUEVAS.
 
 Al C. ....
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2005.- MEDIANTE EL CUAL SE ABROGA EL DECRETO NÚMERO 27 QUE APRUEBA LA LEY PARA EL FOMENTO Y DESARROLLO INTEGRAL DE LA CAFETICULTURA EN EL ESTADO DE OAXACA, EMITIDO EL 06 DE FEBRERO DE 1990 Y PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE OAXACA, EL 4 DE ABRIL DE 1990”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas las disposiciones normativas de igual o menor rango, que se opongan o contravengan al presente Decreto.
+
+TERCERO. El personal que labora en el Consejo Estatal del Café de Oaxaca, será reubicado por la Secretaría de Administración, del Poder Ejecutivo del Estado, respetando sus derechos laborales, mismos que seguirán rigiéndose de acuerdo a las disposiciones de la Ley del Servicio Civil para los Empleados del Gobierno del Estado de Oaxaca; para este trámite la Secretaría de Administración preverá la viabilidad operacional.
+
+CUARTO. Los bienes muebles e inmuebles que bajo resguardo opere en este momento el Consejo Estatal del Café de Oaxaca (CECAFE), pasarán a formar parte del inventario de la Secretaría de Administración.
+
+QUINTO. Se autoriza a la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura realizar ante las Secretarías de Finanzas, de Administración y de la Contraloría y Transparencia Gubernamental, los actos y procedimientos administrativos, presupuestarios y contables necesarios para la total liquidación del Consejo Estatal del Café de Oaxaca.
+
+Los asuntos jurídicos y administrativos en trámite ante instancias judiciales y administrativas, serán atendidos hasta su resolución por la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura.
+
+SEXTO. Los archivos administrativos, legales y fiscales generados por el Consejo Estatal del Café de Oaxaca (CECAFE), deberán quedar en custodia del Archivo General del Poder Ejecutivo hasta los plazos de conservación que estos hubieren definitivo (sic).
+
+SÉPTIMO. La Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura del Gobierno del Estado de Oaxaca, de conformidad con lo establecido en el artículo 44 de la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca y la Ley de Desarrollo Rural Sustentable del Estado de Oaxaca, será la ejecutora de los programas y subprogramas relativos a la cafeticultura y todo lo relacionado con el Sistema-Producto Café en el Estado.
