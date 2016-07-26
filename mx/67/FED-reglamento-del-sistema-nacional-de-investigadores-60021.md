@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sistema-nacional-de-investigadores-60021"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-21"
-last_updated: "2015-05-21"
+last_updated: "2016-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60021&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-12-07"
 
 REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE JULIO DE 2016.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 21 de marzo de 2008.
 
@@ -63,7 +63,9 @@ I. Cátedras CONACYT, las plazas académicas del CONACYT, que son comisionadas a
 
 II. CONACYT, el Consejo Nacional de Ciencia y Tecnología.
 
-III. Constancia de adscripción, documento oficial que acredita los servicios establecidos en el contrato o convenio institucional que el investigador tiene con la institución donde labora.
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2016)</small>
+
+III. Comprobante de adscripción, documento oficial que acredita los servicios establecidos en el contrato o convenio institucional que el investigador tiene con la institución donde labora de acuerdo con el formato que establezca el CONACYT.
 
 IV. Convenio con el investigador, instrumento jurídico en el cual se hacen constar los términos y condiciones del apoyo que se concede al investigador con adscripción en dependencias, entidades, instituciones de educación superior o centros de investigación del país.
 
@@ -135,6 +137,14 @@ d. Las comisiones revisoras, y
 
 e. La Junta de Honor.
 
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2016)</small>
+
+f. El Comité de Investigadores Eméritos, y
+
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2016)</small>
+
+g. Las comisiones transversales.
+
 Instancias personales:
 
 a. El Secretario Ejecutivo, y
@@ -163,7 +173,9 @@ VI. El Director del SNI;
 
 VII. El Subsecretario de Educación Superior de la Secretaría de Educación Pública;
 
-VIII. El Titular de la Unidad de Planeación y Evaluación de Políticas Educativas de la Secretaría de Educación Pública;
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2016)</small>
+
+VIII. El Subsecretario de Planeación, Evaluación y Coordinación de la Secretaría de Educación Pública;
 
 IX. El Coordinador General del Foro Consultivo Científico y Tecnológico, y
 
@@ -267,11 +279,11 @@ VII. Area VII Ingenierías, y
 
 VIII. Las demás que determine el Consejo de Aprobación.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2016)</small>
 
 ###### Artículo 13.
 
-Las comisiones dictaminadoras se integrarán por catorce miembros; en ellas se procurará equilibrio y paridad entre disciplinas, instituciones, género y regiones.
+Las comisiones dictaminadoras se integrarán por lo menos con catorce miembros y las transversales con al menos diez; en ellas se procurará equilibrio y paridad entre disciplinas, instituciones, género y regiones.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2012)</small>
 
@@ -337,15 +349,21 @@ Por cada una de las áreas del conocimiento indicadas en el Artículo 12 del pre
 
 Las comisiones revisoras tendrán por objeto conocer, dictaminar y recomendar respecto de los recursos de reconsideración de las solicitudes de ingreso, reingreso o prórroga al SNI, que les presenten por escrito los participantes inconformes, a través del Secretario Ejecutivo, mediante dictamen en el cual emitirán las recomendaciones correspondientes al Consejo de Aprobación por conducto del Secretario Ejecutivo.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JULIO DE 2016)</small>
 
 ###### Artículo 23.
 
-Cada una de las comisiones revisoras se integrará con siete miembros, que serán designados por el Secretario Ejecutivo; seis de ellos se seleccionarán de entre los investigadores que hayan formado parte de la Comisión Dictaminadora correspondiente en años anteriores y uno de la vigente, preferentemente su presidente.
+Cada una de las comisiones revisoras se integrará por lo menos, con siete miembros que serán designados por el Secretario Ejecutivo. Todos ellos se seleccionarán de entre los investigadores que hayan formado parte de la Comisión Dictaminadora correspondiente en años anteriores y uno de la vigente, preferentemente su presidente.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2012)</small>
 
 En su conformación se procurará equilibrio y paridad entre disciplinas, instituciones, género y regiones.
 
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2012)</small>
+
 Los miembros de las comisiones revisoras durarán en su cargo un año a partir de su designación y ésta será honorífica, personal e intransferible.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2012)</small>
 
 Los nombres de los integrantes de cada Comisión Revisora se harán del conocimiento público, con oportunidad, en el sitio de internet del CONACYT.
 
@@ -457,7 +475,9 @@ III. Recibir las solicitudes que los investigadores presenten al SNI y remitirla
 
 IV. Supervisar el adecuado funcionamiento de los mecanismos de evaluación y operación del SNI;
 
-V. Coordinar el funcionamiento de las comisiones;
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2016)</small>
+
+V. Coordinar el funcionamiento de las comisiones y subcomisiones;
 
 VI. Fungir como Secretario Técnico del Consejo de Aprobación y de la Junta de Honor del SNI;
 
@@ -507,9 +527,13 @@ Las solicitudes de ingreso o reingreso al SNI deberán acompañarse de:
 
 I. El currículum vitae, en el formato que establezca el CONACYT y que estará disponible en su página electrónica;
 
-II. La documentación probatoria de los productos científicos o tecnológicos y de formación de recursos humanos que sustenten su solicitud. Los documentos deberán presentarse completos. Cuando lo consideren necesario, las comisiones dictaminadoras podrán requerir mayor información a los solicitantes, en el marco del presente Reglamento, y
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2016)</small>
 
-III. En los casos de primer ingreso, además deberán entregar copia de documentos oficiales que acrediten nacionalidad, edad y grados obtenidos. En caso de ser extranjero, el documento que acredite su legal estancia en el país.
+II. La producción científica o tecnológica y de formación de recursos humanos que sustenten la solicitud, en el formato y las condiciones que se establezcan en la convocatoria correspondiente. Cuando lo consideren necesario, las comisiones dictaminadoras podrán requerir mayor información a los solicitantes, en el marco del presente Reglamento, y
+
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2016)</small>
+
+III. En los casos de primer ingreso, además deberán entregar copia de documentos oficiales que acrediten nacionalidad, edad y grados obtenidos. En caso de ser extranjero, el documento que acredite su legal estancia en el país. Estos documentos se entregarán en los formatos y con las condiciones establecidos en la convocatoria correspondiente.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2012)</small>
 
@@ -875,17 +899,21 @@ b. Para los científicos y tecnólogos que laboran en instituciones de educació
 
 Los miembros del SNI podrán recibir el estímulo económico correspondiente a cada categoría y nivel cuando cumplan los siguientes requisitos:
 
-I. Tener un contrato o convenio institucional vigente para realizar actividades de investigación científica o tecnológica en alguna de las dependencias, entidades, instituciones de educación superior o centros de investigación de los sectores público, privado o social de México que tengan por objeto el desarrollo de actividades de investigación científica o tecnológica. Los servicios establecidos en el contrato o convenio deberán ser por al menos 20 horas a la semana, y ser acreditados por medio de documento oficial original y actualizado.
+> <small>(REFORMADA PRIMER PÁRRAFO, D.O.F. 26 DE JULIO DE 2016)</small>
+
+I. Tener un contrato o convenio institucional vigente para realizar actividades de investigación científica o tecnológica en alguna de las dependencias, entidades, instituciones de educación superior o centros de investigación de los sectores público, privado o social de México que tengan por objeto el desarrollo de actividades de investigación científica o tecnológica. Los servicios establecidos en el contrato o convenio deberán ser por al menos 20 horas a la semana, y ser acreditados por medio de documento proporcionado en el formato y con las condiciones que establezca este Sistema.
 
 > <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2014)</small>
 
 Para los investigadores que ocupen las Cátedras CONACYT, se entenderá que desarrollan las actividades de investigación científica o tecnología en la Institución beneficiada a la cual fueron comisionados por el CONACYT.
 
-La constancia de adscripción deberá especificar, además de las horas semanales de compromiso con la institución, las funciones asignadas, el inicio y término de la relación, y deberá ser suscrita por la autoridad facultada para ello. El documento no podrá tener una antigüedad superior a tres meses a la fecha que se presenta y deberá entregarse por la vía en que el SNI lo requiera.
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2016)</small>
 
-> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2014)</small>
+El comprobante de adscripción deberá especificar, además de las horas semanales de compromiso con la institución, las funciones asignadas, el inicio y término de la relación, y deberá ser suscrita por la autoridad facultada para ello. El documento no podrá tener una antigüedad superior a tres meses a la fecha que se presenta.
 
-Los investigadores que ocupen las Cátedras CONACYT deberán presentar constancia de adscripción emitida por el mismo CONACYT, indicando la Institución beneficiada a la cual están comisionados, indicando las horas semanales de compromiso y las funciones asignadas, haciendo referencia a su estatus de investigadores de Cátedras CONACYT.
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2016)</small>
+
+Los investigadores que ocupen las Cátedras CONACYT deberán presentar comprobante de adscripción emitido por el mismo CONACYT, indicando la institución beneficiada a la cual están comisionados, indicando las horas semanales de compromiso y las funciones asignadas, haciendo referencia a su estatus de investigadores de Cátedras CONACYT.
 
 II. En el caso de instituciones o centros de los sectores privado y social, éstos deberán estar inscritos en el RENIECYT y deberán tener suscrito y vigente un convenio de colaboración con el SNI, en cuyo caso podrán tener el estímulo económico que especifique dicho convenio.
 
@@ -943,29 +971,19 @@ IV. Por dedicarse a actividades diferentes a la investigación, por motivo de un
 
 Esta fracción no aplica a aquellos Investigadores Nacionales que se acojan al Artículo 77.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JULIO DE 2016)</small>
 
 ###### Artículo 72.
 
-El pago de los estímulos se reanudará a partir de la fecha en que se eliminen las causas que originaron la suspensión y en ningún caso se pagarán retroactivamente.
-
-En caso de incumplimiento a lo señalado en el presente Reglamento, los pagos realizados durante el periodo en falta serán considerados como pagos en demasía por lo que el investigador deberá reintegrarlos al SNI.
+El pago de los estímulos se reanudará a partir de la fecha en que se eliminen las causas que originaron la suspensión y sólo se pagará retroactivamente en el caso de los investigadores nacionales eméritos.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2012)</small>
 
+En caso de incumplimiento a lo señalado en el presente Reglamento, los pagos realizados durante el periodo en falta serán considerados como pagos en demasía por lo que el investigador deberá reintegrarlos al SNI.
+
 ###### Artículo 73.
 
-El estímulo económico se cancelará:
-
-I. Cuando dejen de cumplir con los requisitos a que se refiere el Artículo 67 del presente Reglamento;
-
-II. Por no suscribir el convenio con el CONACYT;
-
-III. Por pérdida de la distinción, y
-
-IV. Por renuncia expresa al estímulo económico.
-
-Para efectos del presente Artículo, la cancelación del estímulo económico a que se refieren las fracciones I, II y IV será por el plazo de vigencia de la distinción, pudiendo ser beneficiado nuevamente con la siguiente distinción otorgada.
+(DEROGADO, D.O.F. 26 DE JULIO DE 2016)
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2012)</small>
 
@@ -1027,23 +1045,37 @@ V. No tener parentesco o relación de negocios con el investigador, y
 
 VI. No ser becario del CONACYT.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JULIO DE 2016)</small>
 
 ###### Artículo 80.
 
-El solicitante deberá entregar al SNI, al menos con de quince días anticipación a la fecha de incorporación propuesta, los siguientes documentos:
+El solicitante deberá entregar al SNI, al menos con quince días de anticipación a la fecha de incorporación propuesta, en el formato y las condiciones establecidos por el CONACYT, los siguientes documentos:
 
-I. Solicitud escrita rubricada por el Investigador Nacional en el formato que establezca el CONACYT y que estará disponible en su página electrónica;
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2016)</small>
+
+I. Solicitud del Investigador Nacional en el formato que está disponible en la página electrónica del CONACYT;
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2012)</small>
 
 II. Currículum vítae único;
 
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2012)</small>
+
 III. Documento oficial que acredite su edad;
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2012)</small>
 
 IV. Comprobante de estudios, y
 
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2012)</small>
+
 V. Programa de actividades de investigación avalado por el Investigador Nacional.
 
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2012)</small>
+
 El solicitante será incorporado como ayudante a partir de la fecha de aprobación de la propuesta por parte del Director del SNI.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2012)</small>
 
 La duración máxima e improrrogable del estímulo económico para un mismo ayudante será de tres años.
 
@@ -1101,7 +1133,9 @@ I. Suscribir en el periodo establecido y en su caso, un convenio con el CONACYT,
 
 II. Presentar anualmente al Director del SNI una constancia de adscripción actualizada;
 
-III. Notificar al SNI sobre cualquier cambio en su situación laboral, contractual o académica dentro de los primeros treinta días naturales posteriores a éste, enviar la documentación probatoria correspondiente;
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2016)</small>
+
+III. Notificar al SNI sobre cualquier cambio en su situación laboral, contractual o académica dentro de los primeros treinta días naturales posteriores a éste y enviar la documentación probatoria correspondiente;
 
 IV. Notificar de inmediato al SNI, a través del Director del mismo, cualquier irregularidad que se presente en el pago de los estímulos económicos y reintegrar de inmediato los que se reciban en exceso sin tener derecho a ello;
 
@@ -1159,11 +1193,9 @@ La Junta de Honor conocerá de los casos que se presenten en contra de los Inves
 
 ### CAPITULO XVII. DISPOSICIONES FINALES
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2012)</small>
-
 ###### Artículo 89.
 
-Con el propósito de fortalecer al SNI y la vinculación de sus miembros con las instituciones y cuerpos científicos y académicos en los que desarrollan su labor, el SNI promoverá la suscripción de cartas compromiso o convenios de colaboración con las dependencias, entidades, instituciones de educación superior o centros de investigación de los sectores público y privado, a fin de que las instituciones provean información, entre otras, sobre las categorías y formas de colaboración que tienen establecidas para el desarrollo de las actividades científicas y académicas, personal que se reconoce como facultado para expedir las constancias de adscripción a que se refiere el Artículo 67, fracción I del presente Reglamento, y los casos de cambio de adscripción o terminación de la relación con los investigadores. El SNI informará a estas instituciones, sobre el estado que guardan en el SNI los Investigadores Nacionales vigentes, que desarrollan su labor en ellas.
+(DEROGADO, D.O.F. 26 DE JULIO DE 2016)
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2012)</small>
 
@@ -1256,3 +1288,13 @@ SEGUNDO.- Una vez que las presentes modificaciones entren en vigor, podrán apli
 D.O.F. 21 DE MAYO DE 2015.
 
 ÚNICO.- La presente reforma al Reglamento del Sistema Nacional de Investigadores entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES”.]
+
+PRIMERO. Las reformas al presente Reglamento entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las presentes reformas tendrán efectos retroactivos siempre y cuando sea en beneficio de los investigadores. Además, la retroactividad será aplicable en la operación administrativa del Sistema Nacional de Investigadores.
+
+TERCERO. La interpretación del Reglamento del Sistema Nacional de Investigadores, así como los asuntos no previstos en éste, serán resueltos por el Secretario Ejecutivo del propio Sistema, con la opinión de la Unidad de Asuntos Jurídicos del Consejo Nacional de Ciencia y Tecnología.
