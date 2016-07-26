@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de-599
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-28"
-last_updated: "2014-09-08"
+last_updated: "2016-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 235 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE JULIO DE 2016.
 
 Ley publicada en el Núm. Ext. 65 a la Gaceta Oficial del Estado de Veracruz, el jueves 28 de febrero de 2008.
 
@@ -209,6 +209,62 @@ V. Violencia Institucional: Son los actos u omisiones de las y los servidores p�
 
 VI. Violencia Feminicida: Forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar tolerancia social e indiferencia del Estado y puede culminar en homicidio y otras formas de muerte violenta de mujeres.
 
+> <small>(ADICIONADA, G.O. 26 DE JULIO DE 2016)</small>
+
+VII. Violencia Política. Son los actos u omisiones cometidos en contra de una mujer o sus familias, que le causen un daño físico, psicológico, sexual, económico o de otra índole, resultado de prejuicios de género, que tengan como objeto impedir su participación en campañas políticas, o restringir el ejercicio de un cargo público, o provocarla a tomar decisiones en contra de su voluntad o de la ley.
+
+> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2016)</small>
+
+Constituye violencia política:
+
+> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2016)</small>
+
+a) Impedir u obstaculizar el ejercicio de sus derechos político-electorales mediante la restricción de recursos, ocultamiento de información, aplicación de sanciones sin motivación y fundamentación, amenazas o amedrentamiento hacia su persona o familiares;
+
+> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2016)</small>
+
+b) Registrar mayoritariamente mujeres como candidatas en distritos electorales en los que el partido que las postule hubiere obtenido el más bajo porcentaje de votación en las anteriores elecciones, sean municipales, estatales o federales;
+
+> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2016)</small>
+
+c) Proporcionar de forma dolosa a las mujeres candidatas o electas, titulares o suplentes o designadas para una función pública, información falsa o imprecisa que las induzca al inadecuado ejercicio de sus funciones políticas públicas;
+
+> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2016)</small>
+
+d) Obligar o instruir a las mujeres a realizar u omitir actos incompatibles a las funciones públicas propias de su encargo;
+
+> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2016)</small>
+
+e) Asignarles responsabilidades que limiten el ejercicio de su función pública;
+
+> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2016)</small>
+
+f) Evitar por cualquier medio que las mujeres electas, titulares o suplentes o nombradas para una función pública, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones, impidiendo o suprimiendo el derecho a voz y voto en igualdad de condición que los hombres;
+
+> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2016)</small>
+
+g) Proporcionar al Organismo Público Local Electoral datos falsos o información incompleta o errónea de la identidad de la mujer o mujeres candidatas a algún cargo de elección popular, con la finalidad de limitar o impedir su participación;
+
+> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2016)</small>
+
+h) Impedir o restringir a las mujeres, la reincorporación al cargo público al que fueren nombradas o electas, posterior al ejercicio de una licencia o permiso justificado;
+
+> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2016)</small>
+
+i) Coartar o impedir el uso de las facultades inherentes en la Constitución y los ordenamientos jurídicos electorales, para proteger sus derechos frente a los actos que violenten o restrinjan el ejercicio de su representación política;
+
+> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2016)</small>
+
+j) Efectuar cualquier acto de discriminación previsto en la Constitución, o en la Ley para Prevenir y Eliminar la Discriminación en el Estado de Veracruz, o en el Artículo 196 del Código Penal para el Estado de Veracruz y que tengan como resultado impedir, negar, anular o menoscabar el ejercicio de los derechos humanos de las mujeres electas o en el ejercicio de su representación política;
+
+> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2016)</small>
+
+k) Publicar o revelar información personal, privada o falsa, de las mujeres candidatas, electas, designadas o en el ejercicio de su representación política, con el objetivo de difamar o menoscabar su dignidad humana, y obtener con estas acciones, la renuncia y/o licencia al cargo electo o en ejercicio; y
+
+> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2016)</small>
+
+l) Obligar, intimidar o amenazar a suscribir documentos, a participar de proyectos o adoptar decisiones en contra de su voluntad o del interés público, aprovechándose de su representación política.
+
 ### CAPÍTULO III. DE LA VIOLENCIA EN EL ÁMBITO FAMILIAR
 
 ###### Artículo 9.
@@ -261,17 +317,25 @@ Los gobiernos estatal y municipal se organizarán, realizarán las adecuaciones 
 
 Los gobiernos estatal y municipal aplicarán inmediatamente las medidas establecidas en esta Ley ante la ocurrencia de esta forma extrema de violencia de género.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 26 DE JULIO DE 2016)</small>
+
+### CAPÍTULO VIII. DE LA VIOLENCIA POLÍTICA
+
+> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2016)</small>
+
+###### Artículo 13 Bis.
+
+Las autoridades estatales, municipales y los organismos autónomos en el ámbito de sus competencias, garantizarán a las mujeres el acceso y ejercicio pleno de sus derechos de participación política.
+
 ### CAPÍTULO I. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ### CAPÍTULO II. DEL PROGRAMA PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ### CAPÍTULO I. DE LA COMPETENCIA ESTATAL
 
-### CAPÍTULO II. DE LA COMPETENCIA DE LOS AYUNTAMIENTOS
-
 ## TÍTULO TERCERO. DEL SISTEMA Y DEL PROGRAMA PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-### CAPÍTULO I. DE LA ATENCIÓN A LAS VÍCTIMAS
+### CAPÍTULO II. DE LA COMPETENCIA DE LOS AYUNTAMIENTOS
 
 ###### Artículo 14.
 
@@ -315,7 +379,7 @@ V. Las acciones conjuntas para la protección de las mujeres víctimas de violen
 
 VI. Las relacionadas con las anteriores que sean necesarias para incrementar la eficacia de las medidas y acciones tendientes a erradicar la violencia de género contra las mujeres.
 
-### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS
+### CAPÍTULO I. DE LA ATENCIÓN A LAS VÍCTIMAS
 
 ###### Artículo 17.
 
@@ -353,7 +417,7 @@ El Ejecutivo Estatal propondrá en el Presupuesto de Egresos, asignar una partid
 
 ## TÍTULO CUARTO. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
-### CAPÍTULO III. DE LAS MEDIDAS REEDUCATIVAS Y DE LOS CENTROS DE REEDUCACIÓN PARA LAS PERSONAS AGRESORAS
+### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS
 
 ###### Artículo 19.
 
@@ -537,7 +601,7 @@ VII. Aplicar los principios y derechos de esta Ley y de cualquier otro Instrumen
 
 VIII. Proporcionar al Instituto, información sobre los casos relacionados con cualquiera de los tipos y modalidades de la violencia señaladas en la Ley, para la integración del Banco Estatal de Datos.
 
-### CAPÍTULO I. DE LA ALERTA DE VIOLENCIA DE GÉNERO
+### CAPÍTULO III. DE LAS MEDIDAS REEDUCATIVAS Y DE LOS CENTROS DE REEDUCACIÓN PARA LAS PERSONAS AGRESORAS
 
 ###### Artículo 22.
 
@@ -573,7 +637,7 @@ XIV. Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 ## TÍTULO QUINTO. DE LA ATENCIÓN A LAS VÍCTIMAS, DE LOS REFUGIOS Y DE LOS CENTROS DE REEDUCACIÓN PARA LAS PERSONAS AGRESORAS
 
-### CAPÍTULO II. DE LAS ÓRDENES DE PROTECCIÓN
+### CAPÍTULO I. DE LA ALERTA DE VIOLENCIA DE GÉNERO
 
 ###### Artículo 23.
 
@@ -618,6 +682,8 @@ Se prohíbe someter a la víctima a mecanismos de conciliación, de mediación y
 ###### Artículo 26.
 
 La persona agresora deberá participar en los programas de reeducación integral, por mandato de autoridad competente.
+
+### CAPÍTULO II. DE LAS ÓRDENES DE PROTECCIÓN
 
 ###### Artículo 27.
 
@@ -884,3 +950,11 @@ G.O. 8 DE SEPTIEMBRE DE 2014.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+G.O. 26 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 893 QUE ADICIONA LA FRACCIÓN VII Y LOS INCISOS A) A L) AL ARTÍCULO 8, EL CAPÍTULO VIII AL TÍTULO SEGUNDO Y EL ARTÍCULO 13 BIS DE ESTE TÍTULO, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
