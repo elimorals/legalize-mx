@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de-599
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-28"
-last_updated: "2014-09-08"
+last_updated: "2016-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,245 +21,205 @@ state: "VER"
 ---
 # LEY NUMERO 235 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NÚMERO 235 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SISTEMA DE RADIO Y TELEVISIÓN DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2025.
 
-Ley publicada en el Núm. Ext. 65 a la Gaceta Oficial del Estado de Veracruz, el jueves 28 de febrero de 2008.
+Ley publicada en la Sección Sexta del Periódico Oficial del Estado de Nuevo León, el miércoles 16 de mayo de 2018.
 
-Al margen un sello que dice: Estados Unidos Mexicanos. Gobernador del Estado de Veracruz de Ignacio de la Llave.
+MANUEL FLORENTINO GONZÁLEZ FLORES, GOBERNADOR INTERINO DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN, A TODOS SUS HABITANTES HAGO SABER: Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
 
-Año del Centenario del Natalicio del doctor Gonzalo Aguirre Beltrán.
+DECRETO
 
-Xalapa-Enríquez, Ver., a 25 de febrero de 2008
+NÚM…… 385
 
-Oficio número 0054/2008
+Artículo Único.- Se expide la Ley que crea el Organismo Público Descentralizado denominado Sistema de Radio y Televisión de Nuevo León, para quedar como sigue:
 
-Fidel Herrera Beltrán, Gobernador del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, a sus habitantes sabed:
-
-Que la Sexagésima Primera Legislatura del Honorable Congreso del Estado se ha servido dirigirme la siguiente Ley para su promulgación y publicación:
-
-Al margen un sello que dice: Estados Unidos Mexicanos. Poder Legislativo.- Estado Libre y Soberano de Veracruz de Ignacio de la Llave.
-
-La Sexagésima Primera Legislatura del Honorable Congreso del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, en uso de la facultad que le confieren los artículos 33, fracción I, y 38 de la Constitución Política Local; 18 fracción I y 47 segundo párrafo de la Ley Orgánica del Poder Legislativo; 75 y 76 del Reglamento para el Gobierno Interior del Poder Legislativo; y en nombre del pueblo, expide la siguiente:
-
-L E Y Número 235
-
-De Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Veracruz de Ignacio de la Llave
+LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SISTEMA DE RADIO Y TELEVISIÓN DE NUEVO LEÓN
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO ÚNICO. DE LA NATURALEZA Y OBJETIVOS
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social; tiene por objeto definir y establecer los tipos y modalidades de violencia contra las mujeres y las niñas, para que los gobiernos del estado y municipal realicen las acciones encaminadas a su prevención, atención, sanción y erradicación; atentos a los principios de coordinación y concurrencia gubernamental.
+Se crea el Sistema de Radio y Televisión de Nuevo León, como un Organismo Público Descentralizado, con personalidad jurídica y patrimonio propio y con autonomía de gestión para el cumplimiento de su objeto y atribuciones. Las actividades del Sistema de Radio y Televisión de Nuevo León, son de interés público y de carácter social, educativo, científico y cultural, sin fines de lucro.
+
+El Sistema de Radio y Televisión de Nuevo León, tendrá su domicilio legal en Monterrey, Nuevo León, y podrá contar con oficinas y/o estaciones retransmisoras, agencias o sucursales en cualquiera de los Municipios del Estado.
 
 ###### Artículo 2.
 
-Los objetivos específicos de esta Ley son:
+Para efectos de esta Ley se entenderá por:
 
-I. Establecer las bases y principios de la política gubernamental y de Estado para garantizar a las mujeres, desde una perspectiva de género, el acceso a una vida libre de violencia a través de medidas integrales de prevención, atención, sanción y erradicación de la violencia de género contra las mujeres y las niñas;
+I. Director General: El Director General del Organismo Público Descentralizado denominado Sistema de Radio y Televisión de Nuevo León;
 
-II. Garantizar los derechos de las mujeres y las niñas, de conformidad con los instrumentos internacionales en la materia, aprobados por nuestro país, que les permita el acceso a una vida libre de violencia, proveyendo la eliminación de las condiciones políticas, sociales, económicas y culturales que justifican, alientan y reproducen la violencia de género contra las mujeres, para generar mecanismos institucionales de aplicación de políticas de gobierno integrales con perspectiva de género;
+II. Junta de Gobierno: La Junta de Gobierno del Organismo Público Descentralizado denominado Sistema de Radio y Televisión de Nuevo León; y
 
-III. Garantizar la protección institucional especializada de las mujeres víctimas de violencia de género, de sus hijas e hijos y de las instituciones, profesionales, denunciantes, testigos y demás personas intervinientes;
-
-IV. Asegurar el acceso rápido, transparente y eficaz de las mujeres víctimas de violencia de género a la procuración e impartición de justicia;
-
-V. Homologar, definir, impulsar y ejecutar la política integral de gobierno para la prevención de la violencia contra las mujeres y las niñas, la atención de las víctimas y su acceso a la justicia, y la sanción y la reeducación de las personas agresoras;
-
-VI. Favorecer la recuperación y la construcción del pleno goce de los Derechos Humanos para las mujeres víctimas de violencia de género; y
-
-VII. Asegurar la concurrencia, alineación y optimización de recursos e instrumentos de todo tipo que garanticen la vigencia de los Derechos Humanos de las Mujeres.
+III. Sistema de Radio y Televisión: El Organismo Público Descentralizado denominado Sistema de Radio y Televisión de Nuevo León.
 
 ###### Artículo 3.
 
-En la elaboración y ejecución de las políticas públicas de gobierno, estatal y municipal, se observarán los siguientes principios:
+El Sistema de Radio y Televisión de Nuevo León es un organismo de vocación cultural, educativa, social y tiene por objeto:
 
-I. La igualdad jurídica entre la mujer y el hombre;
+I. Elaborar, producir y transmitir programas culturales promoviendo la identidad regional, urbana y rural;
 
-II. El respeto a la dignidad humana de las mujeres;
+II. Difundir, divulgar y promover el conocimiento, la apreciación y el disfrute de expresiones artísticas, intelectuales y populares, los avances científicos y tecnológicos, así como orientar sobre prácticas sanitarias y preservación ecológica, fomentar el deporte y, en general, coadyuvar en los programas educativos orientados a fortalecer la formación integral de los educandos;
 
-III. La no discriminación; y
+III. Ofrecer una programación alternativa que permita al público contar con opciones de contenido social, cultural, educacional, científico y deportivo;
 
-IV. La libertad de las mujeres.
+IV. Facilitar el acceso a la comunidad a servicios que promuevan su desarrollo integral mediante información útil y oportuna, especialmente en materia educativa y de salud; y
+
+V. Elaborar, producir y transmitir programas de radio y televisión, sin fines lucrativos, de conformidad con las disposiciones normativas aplicables a la materia.
 
 ###### Artículo 4.
 
-Para los efectos de la presente Ley se entenderá por:
+Para el cumplimiento de su objeto, el Sistema de Radio y Televisión de Nuevo León, tendrá las siguientes facultades:
 
-I. Acoso sexual: Forma de violencia consistente en cualquier tipo de molestia de connotación sexual hacia la mujer, valiéndose de una posición jerárquica derivada de relaciones laborales, escolares, domésticas o de cualquier otra índole que implique subordinación, sea ésta emocional, de género o psicológica;
+I. Administrar y operar las estaciones de radio y televisión concesionadas o permisionadas al Gobierno del Estado de Nuevo León, en los términos de las disposiciones aplicables;
 
-II. Actualización: Proceso permanente de formación, desde la perspectiva de género, con la finalidad de incorporar a la administración y gestión pública los avances y nuevas concepciones en materia de igualdad, equidad y derechos humanos de las mujeres;
+II. Planear, producir y transmitir programas de radio y televisión que tengan como fin propiciar la comunicación entre individuos, grupos e instituciones, promover el diálogo social, coordinar esfuerzos de la sociedad y del gobierno, recoger y difundir la opinión ciudadana, coadyuvar a difundir los derechos y obligaciones del ciudadano y en general, informar a la población sobre los hechos que sucedan a nivel local, nacional e internacional;
 
-III. Alerta de Violencia de Género: Conjunto de acciones gubernamentales de emergencia, derivadas de la declaratoria emitida por la autoridad competente, para enfrentar y erradicar la violencia feminicida en un territorio determinado;
+III. Adquirir, arrendar, recibir en comodato o en donación y, en general, contratar el uso o goce temporal de los bienes muebles o inmuebles necesarios para la prestación de los servicios a su cargo, en los términos de los ordenamientos jurídicos aplicables;
 
-IV. Atención: Es el conjunto de servicios especializados, integrales y gratuitos proporcionados por las instancias gubernamentales a cualquier mujer víctima de violencia de género, a sus hijas e hijos y cuya finalidad es el fortalecimiento del ejercicio pleno de los derechos de las mujeres y su empoderamiento;
+IV. Celebrar los convenios que se requieran para su operación y para la consecución de sus objetivos;
 
-V. Celotipia: Ejercicio de violencia, sometimiento, control, manipulación y dominio sobre las mujeres causado por la pasión de los celos;
+V. Difundir la cultura en la sociedad, dando especial énfasis a las diversas manifestaciones culturales, artísticas, científicas y sociales de la entidad, para propiciar la identidad y solidaridad de los habitantes del Estado;
 
-VI. Debida Diligencia: Obligación que se deriva de la responsabilidad del Estado de hacer lo máximo para reconocer, proteger y garantizar los derechos de las mujeres;
+VI. Informar a la sociedad sobre los acontecimientos relevantes de carácter político, económico, social, cultural y aquéllos que sean de interés de la población, en los ámbitos local, nacional e internacional;
 
-VII. Derechos Humanos de las Mujeres y las Niñas: Son los contenidos en la Declaración Universal de los Derechos Humanos, la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer, la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer y demás instrumentos internacionales en la materia;
+VII. Transmitir la programación que determine la ley o la autoridad competente; y
 
-VIII. Empoderamiento de las Mujeres: Proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
-
-IX. Erradicación: Conjunto de acciones y políticas públicas diseñadas con la finalidad de eliminar las condiciones estructurales de la violencia de género, como la desigualdad entre las mujeres y los hombres que derivan en los diferentes tipos y modalidades de la violencia contra las mujeres, los estereotipos, valores, actitudes y creencias misóginas y androcéntricas, así como la finalidad de garantizar las condiciones para la vigencia y ejercicio pleno de los derechos humanos de las mujeres;
-
-X. Especialización: Conocimientos específicos construidos desde la perspectiva de género que deben articularse con la disciplina académica de las y los funcionarios, a fin de aplicar y asegurar la igualdad entre mujeres y hombres, los derechos humanos de las mujeres y el derecho de las mujeres a una vida libre de violencia;
-
-XI. Formación General: Premisas teóricas, metodológicas y conceptos fundamentales sobre la perspectiva de género que deben recibir todas y todos los servidores públicos que integran la Administración Pública, con la finalidad de incorporar esta visión al diseño, ejecución, seguimiento y evaluación de las políticas, las acciones y los programas de su competencia, así como en sus relaciones laborales;
-
-XII. Hostigamiento Sexual: Conducta o acción reiterada con fines lascivos que una persona infiere a una mujer o niña, la cual le cause molestia, miedo, terror, zozobra o angustia y que conlleva a un estado de indefensión y de riesgo para la víctima;
-
-XIII. Instituto: Instituto Veracruzano de las Mujeres;
-
-XIV. Ley General: Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
-
-XV. Ley: Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Veracruz de Ignacio de la Llave;
-
-XVI. Misoginia: Conductas de odio hacia la mujer;
-
-XVII. Modalidades de Violencia: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres;
-
-XVIII. Modelos de Prevención, Atención, Sanción y Erradicación de la violencia contra las mujeres y las niñas: Conjunto de estrategias que reúnen las medidas y las acciones integrales gubernamentales para garantizar la seguridad, el ejercicio de los derechos de las mujeres y su acceso a una vida libre de violencia en todas las esferas de su vida;
-
-XIX. Órdenes de Protección: Actos de protección y de urgente aplicación en función del interés superior de la víctima; son medidas precautorias y cautelares;
-
-XX. Persona Agresora: Persona que inflige cualquier tipo de violencia contra las mujeres;
-
-XXI. Perspectiva de Género: Visión científica, analítica y política sobre las mujeres y los hombres que propone eliminar las causas de la opresión de género, como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad, la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
-
-XXII. Políticas de Gobierno: Conjunto de orientaciones y directrices dictadas a fin de guiar las acciones dirigidas a asegurar los principios y derechos consagrados en la Ley, para abatir las desigualdades entre las mujeres y los hombres y garantizar el ejercicio pleno de los derechos humanos de las mujeres y las niñas;
-
-XXIII. Presupuestos con Perspectiva de Género: Presupuestos que en su diseño, implementación y evaluación consideran los intereses y necesidades de mujeres y hombres con el fin de garantizar y priorizar la integración transversal de la política de género en planes, programas y acciones gubernamentales;
-
-XXIV. Prevención: Estrategias y acciones coordinadas y anticipadas para evitar la violencia contra las mujeres, las actitudes y los estereotipos existentes en la sociedad acerca de las mujeres y los hombres;
-
-XXV. Programa Nacional: Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, en el ámbito nacional;
-
-XXVI. Programa: Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, en el Estado de Veracruz de Ignacio de la Llave;
-
-XXVII. Refugios: Albergues, centros o establecimientos constituidos por instituciones gubernamentales y por asociaciones civiles para la atención y protección de las mujeres y sus familias que han sido víctimas de violencia;
-
-XXVIII. Sanción.- Medida dictada por la autoridad, cuya aplicación deriva de la comisión de cualquiera de los actos de violencia regulados por esta Ley;
-
-XXIX. Sexismo: Diversas formas de manifestación de la creencia fundamentada en una serie de mitos y mistificaciones, de la superioridad del sexo masculino sobre el sexo femenino, creencia que resulta en una serie de privilegios para los hombres y de discriminaciones y violencia para las mujeres;
-
-XXX. Sistema Estatal: Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres y las Niñas;
-
-XXXI. Sistema Nacional: Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
-
-XXXII. Tipos de Violencia: Actos u omisiones que dañan la dignidad, la integridad y la libertad de las mujeres; y
-
-XXXIII. Víctima: Mujer de cualquier edad a quien se le inflige cualquier tipo de violencia.
+VIII. Adoptar el sistema de multiprogramación para distribuir más de un canal de programación en el mismo espectro radioeléctrico de transmisión, otorgado por el Instituto Federal de Telecomunicaciones.
 
 ###### Artículo 5.
 
-El Congreso del Estado, al decretar el Presupuesto de Egresos, verificará la asignación de recursos a las partidas, programas e instituciones públicas, cuyo objeto sea garantizar el derecho de las mujeres a una vida libre de violencia.
+Para el cumplimiento de sus fines, el Sistema de Radio y Televisión de Nuevo León, se financiará con presupuesto público que garantice su operación y podrá tener fuentes de ingresos adicionales de conformidad con lo establecido en la Ley de la materia.
 
 ###### Artículo 6.
 
-Cuando alguno de los actos u omisiones considerados en el presente ordenamiento constituya delito, se aplicarán las disposiciones establecidas en la ley penal del estado. Asimismo, para efectos de reconocimiento de paternidad y cumplimiento de las obligaciones inherentes a ésta, se aplicarán los procedimientos establecidos en las leyes de la materia.
+Para lograr agilidad y funcionalidad en la aplicación y desarrollo de las políticas gubernamentales, el Sistema de Radio y Televisión de Nuevo León estará bajo la coordinación de la Secretaría General de Gobierno.
 
 ## TÍTULO SEGUNDO. TIPOS Y MODALIDADES DE LA VIOLENCIA
 
-### CAPÍTULO I. DE LOS TIPOS DE VIOLENCIA
+### CAPÍTULO II. DEL PATRIMONIO
 
 ###### Artículo 7.
 
-Son tipos de violencia contra las mujeres:
+El Sistema de Radio y Televisión de Nuevo León se regirá por los siguientes principios estratégicos:
 
-I. La violencia psicológica: Acto u omisión que dañe la estabilidad psíquica y/o emocional de la mujer; consistente en amedrentar, negligencia, abandono, celotipia, insultos, humillaciones, denigración, marginación, infidelidad, comparaciones destructivas, rechazo y restricción a la autodeterminación;
+I. Universalidad: La difusión debe estar al alcance de los ciudadanos sin discriminación alguna;
 
-II. La violencia física: Acto que inflige daño usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas, o ambas;
+II. Diversidad: Los servicios de radiodifusión deben diversificarse en tres direcciones:
 
-III. La violencia sexual: Acto que degrada o daña el cuerpo y/o la sexualidad de la víctima, que atenta contra su libertad, dignidad e integridad, como una expresión de abuso de poder que implica la supremacía sobre la mujer, al denigrarla o concebirla como objeto; se considera como tal, la discriminación o imposición vocacional, la regulación de la fecundidad o la inseminación artificial no consentidas, la prostitución forzada, la pornografía infantil, la trata de niñas y mujeres, la esclavitud sexual, el acceso carnal violento, las expresiones lascivas, el hostigamiento sexual, la violación, los tocamientos libidinosos sin consentimiento o la degradación de las mujeres en los medios de comunicación como objeto sexual;
+a) Géneros de programas ofrecidos;
 
-IV. La violencia patrimonial: Acto u omisión que afecta la supervivencia de la víctima; se manifiesta en la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima;
+b) Audiencias determinadas; y
 
-V. La violencia económica: Acción u omisión de la persona agresora que afecta la supervivencia económica de la víctima; se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral; también se considerará como tal, el no reconocimiento de la paternidad y/o el incumplimiento de las obligaciones que se derivan de la misma;
+c) Temas discutidos.
 
-VI. La violencia obstétrica: Apropiación del cuerpo y procesos reproductivos de las mujeres por personal de salud, que se expresa en un trato deshumanizador, en un abuso de medicalización y patologización de los procesos naturales, trayendo consigo pérdida de autonomía y capacidad de decidir libremente sobre sus cuerpos y sexualidad; se consideran como tal, omitir la atención oportuna y eficaz de las emergencias obstétricas, obligar a la mujer a parir en posición supina y con las piernas levantadas, existiendo los medios necesarios para la realización del parto vertical, obstaculizar el apego precoz del niño o niña con su madre sin causa médica justificada, negándole la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer, alterar el proceso natural del parto de bajo riesgo, mediante el uso de técnicas de aceleración, sin obtener el consentimiento voluntario, expreso e informado de la mujer y practicar el parto por vía de cesárea, existiendo condiciones para el parto natural, sin obtener el consentimiento voluntario, expreso e informado de la mujer; y
+III. Independencia editorial: La difusión pública es un foro para las ideas, en donde circula información, opiniones y críticas con independencia editorial, y
 
-VII. Cualesquiera otras que lesionen o sean susceptibles de dañar la dignidad, la integridad o libertad de las mujeres.
+IV. Diferenciación: El Sistema de Radio y Televisión de Nuevo León se diferenciará por la innovación al crear nuevos espacios y producciones.
 
-### CAPÍTULO II. DE LAS MODALIDADES DE LA VIOLENCIA
+### CAPÍTULO IIII (SIC). DE LA ESTRUCTURA ORGÁNICA Y FUNCIONAL
 
 ###### Artículo 8.
 
-Son modalidades de violencia contra las mujeres:
+El patrimonio del Sistema de Radio y Televisión de Nuevo León estará constituido por:
 
-I. Violencia de Género: Cualquier acción u omisión, basada en el género, que les cause a las mujeres de cualquier edad, daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público y que se expresa en amenazas, agravios, maltrato, lesiones, y daños asociados a la exclusión, la subordinación, la discriminación y la explotación de las mujeres y que es consubstancial a la opresión de género en todas sus modalidades afectando sus derechos humanos. La violencia de género contra las mujeres involucra tanto a las personas como a la sociedad, comunidades, relaciones, prácticas e instituciones sociales, y al Estado que la reproduce al no garantizar la igualdad, al perpetuar formas legales, jurídicas, judiciales, políticas androcéntricas y de jerarquía de género y al no dar garantías de seguridad a las mujeres durante todo su ciclo de vida;
+I. Los bienes inmuebles y muebles que se adquieran para cumplir con su objeto;
 
-II. La Violencia en el ámbito familiar y la violencia en el ámbito familiar Equiparada: Acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar, ejercida por personas que tengan o hayan tenido relación de parentesco, concubinato o que mantengan o hayan mantenido una relación de hecho con la víctima;
+II. Las transferencias, subsidios y aportaciones que hagan a su favor los Gobiernos Federal, Estatal y Municipales;
 
-III. La violencia laboral y/o escolar:
+III. Los derechos de autor que provengan de la producción de obras para radio o televisión; y
 
-> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+IV. Los bienes créditos y derechos que adquiera legalmente, que deberán destinarse exclusivamente para el cumplimiento del objeto del Sistema de Radio y Televisión de Nuevo León.
 
-a) Violencia Laboral: Acto u omisión en abuso de poder que daña la autoestima, salud, integridad, libertad y seguridad de la víctima, e impide su desarrollo y atenta contra la igualdad; constituye violencia laboral la negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo; la descalificación de trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, el impedimento a las mujeres de llevar a cabo el periodo de lactancia previsto en la Ley y todo tipo de discriminación por condición de género; se ejerce por las personas que tienen un vínculo laboral o análogo con la víctima, independientemente de la relación jerárquica; y
+Las instalaciones y el equipo que forman parte del patrimonio del Sistema Estatal de Radio y Televisión de Nuevo León solo podrán ser utilizados para el cumplimiento de sus objetivos.
 
-b) Violencia Escolar: Conductas que dañan la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, condición étnica, condición académica, limitaciones y/o características físicas, que les infligen maestras o maestros, personal directivo, administrativo, técnico, de intendencia, o cualquier persona prestadora de servicios en las instituciones educativas. Lo es también las imágenes de la mujer con contenidos sexistas en los libros de texto, y el hostigamiento sexual.
-
-IV. Violencia en la Comunidad: Actos individuales o colectivos que transgreden derechos fundamentales de las mujeres y propician su degradación, discriminación, marginación o exclusión en el ámbito público;
-
-V. Violencia Institucional: Son los actos u omisiones de las y los servidores públicos de cualquier orden de gobierno, resultado de prejuicios de género, patrones estereotipados de comportamiento o prácticas sociales y culturales basadas en conceptos de inferioridad de las mujeres o de subordinación a los hombres, que discriminen o tengan como fin dilatar, obstaculizar, impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia; y
-
-VI. Violencia Feminicida: Forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar tolerancia social e indiferencia del Estado y puede culminar en homicidio y otras formas de muerte violenta de mujeres.
-
-### CAPÍTULO III. DE LA VIOLENCIA EN EL ÁMBITO FAMILIAR
+### CAPÍTULO IV. DE LA JUNTA DE GOBIERNO
 
 ###### Artículo 9.
 
-Los modelos de prevención, atención, sanción y erradicación que establezcan los gobiernos estatal y municipal, para proteger a las víctimas de violencia en el ámbito familiar, deberán contemplar:
+El Sistema de Radio y Televisión de Nuevo León contará con los siguientes órganos:
 
-I. Proporcionar atención, asesoría jurídica y tratamiento psicológico especializado y gratuito a las víctimas, que favorezcan su empoderamiento y reparen el daño causado por dicha violencia;
+I. La Junta de Gobierno;
 
-II. Aplicar a la persona agresora, las medidas reeducativas, integrales, especializadas y gratuitas, para erradicar las conductas violentas, eliminando los estereotipos de supremacía de género, y los patrones machistas y misóginos que generaron su violencia;
+II. La Dirección General; y
 
-III. Evitar que la atención que reciban la víctima y la persona agresora sea proporcionada por el mismo personal profesional y en el mismo lugar; en ningún caso podrán brindar atención aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia;
+III. El Consejo Consultivo Ciudadano.
 
-IV. Favorecer la separación y alejamiento de la persona agresora respecto de la víctima; y
-
-V. Favorecer la instalación y el mantenimiento de refugios para la víctima y sus hijas e hijos.
-
-### CAPÍTULO IV. DE LA VIOLENCIA LABORAL Y ESCOLAR
+### CAPÍTULO V. DE LA DIRECCION GENERAL
 
 ###### Artículo 10.
 
-Los gobiernos estatal y municipal en el marco de sus respectivas competencias, al establecer políticas públicas que garanticen el derecho de las mujeres y las niñas a una vida libre de violencia en sus relaciones laborales y/o escolares, deberán:
+Para llevar a cabo las labores de vigilancia de la operación del Sistema de Radio y Televisión de Nuevo León, habrá un Comisario cuya designación y funciones se regirán conforme a lo establecido en la fracción VI del artículo 33 de la Ley Orgánica de la Administración Pública para el Estado de Nuevo León, la Ley de Administración Financiera para el Estado de Nuevo León y demás disposiciones jurídicas aplicables.
 
-I. Reivindicar la dignidad de las mujeres en todos los ámbitos de la vida;
-
-II. Establecer mecanismos que favorezcan la erradicación de esta modalidad de la violencia en escuelas y centros laborales privados o públicos, mediante acuerdos y convenios con instituciones escolares, empresas y sindicatos; y
-
-III. Proporcionar atención psicológica y legal, especializada y gratuita, a quien sea víctima de violencia de género.
-
-### CAPÍTULO V. DE LA VIOLENCIA EN LA COMUNIDAD
+### CAPÍTULO VI. DEL CONSEJO CONSULTIVO CIUDADANO
 
 ###### Artículo 11.
 
-Los gobiernos estatal y municipal en el ámbito de sus competencias deben garantizar a las mujeres la erradicación de la violencia en la comunidad, a través de:
+La Junta de Gobierno es el órgano colegiado superior del Sistema de Radio y Televisión de Nuevo León y estará integrada por:
 
-I. La educación libre de estereotipos y la información de alerta sobre el estado de riesgo que enfrentan las mujeres en una sociedad desigual y discriminatoria;
+I. El Titular del Poder Ejecutivo del Estado, quien tendrá el carácter de presidente honorario del Sistema de Radio y Televisión de Nuevo León;
 
-II. El diseño de un sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres; y
+II. El Secretario General de Gobierno, quien tendrá el carácter de Presidente Ejecutivo;
 
-III. El establecimiento de un banco de datos estatal sobre las órdenes de protección y de las personas sujetas a ellas, para realizar las acciones de política criminal que correspondan y faciliten el intercambio de información entre las instancias responsables.
+III. El Director General, quien tendrá el carácter de Secretario Técnico, y
 
-### CAPÍTULO VI. DE LA VIOLENCIA INSTITUCIONAL
+IV. Cinco vocales que serán:
+
+a) El Secretario de Finanzas y Tesorero General del Estado, quien ocupará la Presidencia en las ausencias del Secretario General de Gobierno;
+
+b) Secretario de Educación;
+
+c) Secretario de Administración;
+
+d) Presidente del Consejo para la Cultura y las Artes de Nuevo León; y
+
+e) Presidente del Consejo Consultivo Ciudadano.
+
+Asistirán en calidad de invitados permanentes cinco integrantes del Consejo Consultivo Ciudadano, con voz pero sin voto.
+
+### CAPÍTULO VII. DEL DEFENSOR DE AUDIENCIAS
 
 ###### Artículo 12.
 
-Los gobiernos estatal y municipal se organizarán, realizarán las adecuaciones que correspondan en el ámbito administrativo y proporcionarán la especialización y actualización profesional que requieran los servidores públicos, para garantizar en el ejercicio de sus funciones, el derecho de las mujeres a una vida libre de violencia.
+La Junta de Gobierno tendrá las siguientes atribuciones:
 
-### CAPÍTULO VII. DE LA VIOLENCIA FEMINICIDA
+I. Establecer, en congruencia con la Ley de Planeación Estratégica del Estado de Nuevo León y el Plan Estatal de Desarrollo, las políticas generales, políticas internas y definir las prioridades a las que deberá sujetarse el Sistema de Radio y Televisión de Nuevo León;
+
+II. Aprobar el programa de trabajo y el anteproyecto de presupuesto de ingresos y egresos del Sistema de Radio y Televisión de Nuevo León, que anualmente presentará el Director General;
+
+III. Aprobar los estados financieros del Sistema de Radio y Televisión de Nuevo León, así como la cuenta pública de la misma, a fin de que sean remitidos a la Secretaría de Finanzas y Tesorería General del Estado, en los términos de la legislación aplicable;
+
+IV. Aprobar el informe anual de las actividades que elabore el Director General;
+
+V. Conocer el informe anual que rinda el Comisario;
+
+VI. Aprobar el Reglamento Interior del Sistema de Radio y Televisión de Nuevo León;
+
+VII. Otorgar, sustituir y/o revocar poderes generales o especiales para actos de dominio, administración, laboral, pleitos y cobranzas, con todas las facultades generales y especiales que requieran cláusula especial en los términos del artículo 2448 del Código Civil vigente en el Estado; poder para realizar actos en materia laboral y poder cambiario para suscribir, endosar y negociar títulos y operaciones de crédito exclusivamente para el cumplimiento del objeto del Sistema de Radio y Televisión de Nuevo León;
+
+VIII. Integrar comités de trabajo para la consecución del objeto y fines del Sistema de Radio y Televisión de Nuevo León, estableciendo, para tal efecto, las facultades y obligaciones de cada comité especializado;
+
+IX. Aprobar la estructura administrativa y operativa del Sistema de Radio y Televisión de Nuevo León, de conformidad con lo dispuesto por la presente Ley;
+
+X. Aprobar el programa de inversión del Sistema de Radio y Televisión de Nuevo León, que incluya los programas de obras públicas y adquisiciones; así como los programas de realización de mejoras, obras e infraestructura sobre los bienes e instalaciones que sean patrimonio del Sistema de Radio y Televisión de Nuevo León, en los términos de las disposiciones jurídicas aplicables;
+
+XI. Coordinar la planeación financiera del sistema y autorizar la contratación de financiamiento de coro (sic) y mediano plazo que requiera exclusivamente para el desarrollo del objeto del Sistema de Radio y Televisión de Nuevo León en los términos de las disposiciones jurídicas aplicables;
+
+XII. Aceptar donaciones y aportaciones de personas y organizaciones, siempre que no impliquen injerencia sobre la programación, contenidos, trasmisiones y decisiones internas del Sistema;
+
+XIII. Autorizar la enajenación o gravámenes de bienes inmuebles patrimonio del Sistema de Radio y Televisión de Nuevo León de conformidad a la normatividad aplicable; y
+
+XIV. Las demás que establezca esta Ley, otras disposiciones jurídicas aplicables y el Reglamento Interior del Sistema de Radio y Televisión de Nuevo León.
+
+### CAPÍTULO VIII. DE LAS REGLAS DE GESTIÓN DEL SISTEMA DE RADIO Y TELEVISION DE NUEVO LÉON Y LAS RELACIONES LABORALES
 
 ###### Artículo 13.
 
-Los gobiernos estatal y municipal aplicarán inmediatamente las medidas establecidas en esta Ley ante la ocurrencia de esta forma extrema de violencia de género.
+La Junta de Gobierno celebrará las sesiones ordinarias semestralmente, y las extraordinarias cuando sea necesario a juicio del Presidente Ejecutivo del Sistema. La junta de gobierno se reunirá cada seis meses con el Consejo Consultivo Ciudadano.
 
 ### CAPÍTULO I. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
@@ -275,81 +235,27 @@ Los gobiernos estatal y municipal aplicarán inmediatamente las medidas establec
 
 ###### Artículo 14.
 
-Los gobiernos estatal y municipal se coordinarán para la integración y funcionamiento del Sistema Estatal, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres y niñas.
+El Secretario Técnico, por instrucciones del Presidente Ejecutivo de la Junta, convocará a las sesiones por escrito, con antelación de cuando menos tres días hábiles para sesiones ordinarias o un día natural si se trata de extraordinarias, indicando lugar, fecha y hora en que se celebrará la sesión respectiva, así como, adjuntando el orden del día y la documentación correspondiente.
 
-El Sistema Estatal estará en coordinación con el Sistema Nacional y deberá crear los mecanismos para recabar, de manera homogénea, la información sobre la violencia contra las mujeres, e integrarla al Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres, así como a los Diagnósticos Estatal y Nacional sobre todas las formas de violencia contra las mujeres y las niñas.
-
-Todas las medidas que lleven a cabo los gobiernos estatal y municipal deberán ser realizadas sin discriminación alguna; por ello, considerarán el idioma, la edad, la condición social, la condición étnica, la preferencia sexual, o cualquier otra condición.
+De las sesiones de la Junta se levantará acta en la que consten los acuerdos tomados en las sesiones, las cuales serán firmadas por los asistentes. El Secretario Técnico será responsable de formular las actas y llevar registro de los acuerdos de las sesiones.
 
 ###### Artículo 15.
 
-El Sistema Estatal se conformará con:
-
-I. La Secretaría de Gobierno, cuyo titular lo presidirá;
-
-II. Un representante del Poder Judicial del estado;
-
-III. Una representante del Poder Legislativo, que será la Presidenta de la Comisión Permanente de Equidad, Género y Familia del Congreso del estado;
-
-IV. La titular del Instituto Veracruzano de las Mujeres, que fungirá como Secretaria Ejecutiva del Sistema;
-
-V. Tres mujeres representantes de organizaciones civiles especializadas, con probado currículo en trabajo relativo a los Derechos Humanos de las Mujeres y un mínimo de experiencia de cinco años, designadas por el Congreso a propuesta de las Comisiones Unidas de Equidad, Género y Familia y de Derechos Humanos y Grupos Vulnerables del Congreso del Estado; y
-
-VI. Dos mujeres representantes de instituciones de investigación, especializadas en los Derechos Humanos de las Mujeres, designadas por el Congreso del Estado a propuesta de la Universidad Veracruzana.
-
-La Secretaría Ejecutiva elaborará el proyecto de Reglamento del Sistema y, previa la consideración de los miembros, lo presentará al Ejecutivo del estado para su promulgación.
+La Junta de Gobierno sesionará válidamente con la asistencia de la mayoría (sic) sus integrantes, entre los cuales deberán estar presentes el Presidente Ejecutivo, así como el Secretario Técnico de la misma.
 
 ###### Artículo 16.
 
-Son materia de coordinación entre los gobiernos estatal y municipal:
-
-I. La prevención, la atención, la sanción y la erradicación de la violencia de género contra las mujeres y la atención especializada de las víctimas;
-
-II. La formación, especialización y actualización del personal encargado de su prevención, atención, sanción y erradicación;
-
-III. La reeducación de las personas que ejercen la violencia;
-
-IV. El suministro, el intercambio y la sistematización de todo tipo de información en la materia;
-
-V. Las acciones conjuntas para la protección de las mujeres víctimas de violencia de género de conformidad con las disposiciones legales e instrumentos en la materia; y
-
-VI. Las relacionadas con las anteriores que sean necesarias para incrementar la eficacia de las medidas y acciones tendientes a erradicar la violencia de género contra las mujeres.
+Las resoluciones se tomarán por votación mayoritaria de los presentes. El Presidente de la Junta de Gobierno tendrá voto de calidad en caso de empate. El Secretario Técnico acudirá con voz pero no con voto.
 
 ### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS
 
 ###### Artículo 17.
 
-El Sistema elaborará y el Ejecutivo estatal expedirá el Programa; será coordinado por la Secretaría de Gobierno y contendrá las acciones con perspectiva de género para:
-
-I. Impulsar y fomentar el conocimiento, la promoción y el respeto a los derechos humanos de las mujeres y las niñas;
-
-II. Transformar los modelos socioculturales de conducta de mujeres y hombres, incluyendo la formulación de programas y acciones de educación formal y no formal, en todos los niveles educativos y de instrucción, con la finalidad de prevenir, atender y erradicar las conductas estereotipadas que permiten, fomentan y toleran la violencia contra las mujeres;
-
-III. Educar, especializar y actualizar, en materia de derechos humanos de las mujeres y niñas al personal encargado de la procuración de justicia, policías y demás funcionarios encargados de las políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
-
-IV. Formar, especializar y actualizar, en materia de derechos humanos de las mujeres y niñas al personal encargado de la impartición de justicia, a fin de dotarle de instrumentos que le permita juzgar con perspectiva de género;
-
-V. Aplicar las medidas reeducativas, integrales, especializadas y gratuitas a la persona agresora para erradicar las conductas violentas, eliminando los estereotipos de supremacía de género y los patrones machistas y misóginos que generaron su violencia;
-
-VI. Fomentar y apoyar programas de educación pública y privada, destinados a concientizar a la sociedad sobre las causas y las consecuencias de la violencia contra las mujeres;
-
-VII. Diseñar programas de atención y capacitación a víctimas que les permita participar plenamente en todos los ámbitos de la vida;
-
-VIII. Promover que los medios de comunicación eviten fomentar la violencia contra las mujeres y que favorezcan la erradicación de todos los tipos de violencia, para fortalecer el respeto a los derechos humanos y la dignidad de las mujeres y de las niñas;
-
-IX. Garantizar la investigación y la elaboración de diagnósticos sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
-
-X. Publicar semestralmente la información general y estadística sobre los casos de violencia contra las mujeres para integrar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres;
-
-XI. Promover la inclusión prioritaria en el Plan Estatal de Desarrollo de las medidas y las políticas de gobierno para erradicar la violencia contra las mujeres;
-
-XII. Promover la cultura de denuncia de la violencia contra las mujeres, procurando la eficacia de las instituciones para garantizar su seguridad y su integridad, el respeto a su dignidad y a su libertad; y
-
-XIII. Diseñar un modelo integral de atención, respeto y ejercicio pleno de los derechos humanos de las mujeres que deberán instrumentar las instituciones, las unidades de atención y los refugios que atiendan a víctimas.
+Los cargos que desempeñen los miembros de la Junta de Gobierno serán honoríficos.
 
 ###### Artículo 18.
 
-El Ejecutivo Estatal propondrá en el Presupuesto de Egresos, asignar una partida presupuestal para garantizar el cumplimiento de los objetivos del Sistema y del Programa.
+El Sistema de Radio y Televisión de Nuevo León contará con la estructura administrativa y operativa que le apruebe la Junta de Gobierno, cuyas funciones se determinarán en su Reglamento Interior, siempre conforme a las políticas de administración y racionalidad en el gasto que determine el Titular del Poder Ejecutivo.
 
 ## TÍTULO CUARTO. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
@@ -357,219 +263,95 @@ El Ejecutivo Estatal propondrá en el Presupuesto de Egresos, asignar una partid
 
 ###### Artículo 19.
 
-Son facultades y obligaciones del Gobierno del estado:
-
-I. Garantizar el ejercicio pleno del derecho de las mujeres a una vida libre de violencia;
-
-II. Formular y conducir la política estatal integral desde la perspectiva de género para prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
-
-III. Vigilar el cabal cumplimiento de la presente Ley y de los instrumentos internacionales aplicables;
-
-IV. Difundir la presente Ley, por todos los medios públicos y a través de los medios de comunicación, en español y en las lenguas indígenas habladas en el estado;
-
-V. Coordinar y aplicar el Programa Estatal auxiliándose de las demás autoridades;
-
-VI. Educar en los derechos humanos a las mujeres en su lengua materna;
-
-VII. Asegurar la difusión y promoción de los derechos de las mujeres indígenas con base en el reconocimiento de la composición multiétnica del estado;
-
-VIII. Vigilar que los usos y costumbres de la sociedad no atenten contra los derechos humanos de las mujeres;
-
-IX. Coordinar la creación de programas de reeducación y reinserción social con perspectiva de género para las personas agresoras;
-
-X. Realizar a través del Instituto Veracruzano de las Mujeres y con el apoyo de las instancias locales, campañas de información, con énfasis en la doctrina de la protección integral de los derechos humanos de las mujeres, en el conocimiento de las leyes, las medidas y los programas que las protegen, así como de los recursos jurídicos que las asisten;
-
-XI. Impulsar la formación y actualización de acuerdos interinstitucionales de coordinación entre las diferentes instancias de gobierno, de manera que sirvan de cauce para lograr la atención integral de las víctimas;
-
-XII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
-
-XIII. Coadyuvar con las instituciones públicas o privadas dedicadas a la atención de víctimas;
-
-XIV. Ejecutar medidas específicas, que sirvan de herramientas de acción para la prevención, atención, sanción y erradicación de la violencia contra las mujeres en todos los ámbitos, en un marco de integralidad y promoción de los derechos humanos;
-
-XV. Promover y realizar investigaciones con perspectiva de género sobre las causas y las consecuencias de la violencia contra las mujeres, y sobre la efectividad de la aplicación de las medidas para su prevención, atención, sanción y erradicación;
-
-XVI. Promover ante las autoridades competentes la adopción de las medidas de protección previstas en esta Ley y demás disposiciones aplicables que requiere la mujer o la niña que haya sido víctima de violencia;
-
-XVII. Evaluar y considerar la eficacia de las acciones del Programa, con base en los resultados de las investigaciones previstas en esta Ley;
-
-XVIII. Rendir un informe anual sobre los avances del Programa, ante el Congreso del Estado;
-
-XIX. Instar a los medios de comunicación para que no promuevan imágenes sexistas estereotipadas de mujeres y hombres para superar patrones de conducta generadores de violencia; al mismo tiempo, promover la adopción de códigos de ética por parte de los medios de comunicación, tendientes a erradicar la violencia de género contra las mujeres y las niñas y la promoción de sus Derechos Humanos;
-
-XX. Recibir de las organizaciones sociales y civiles propuestas y recomendaciones sobre la prevención, atención, sanción y erradicación de la violencia contra las mujeres, a fin de mejorar los mecanismos para su erradicación;
-
-XXI. Impulsar la participación de los organismos civiles y sociales dedicados a la promoción y defensa de los derechos humanos de las mujeres en la ejecución de los programas estatales;
-
-XXII. Desarrollar todos los mecanismos necesarios para el cumplimiento de la presente Ley; establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa Estatales;
-
-XXIII. Impulsar la creación de refugios para la atención y protección de las mujeres víctimas y de sus hijos e hijas, conforme al modelo de atención diseñado por el Sistema Estatal de acuerdo a lo establecido en la Ley General;
-
-XXIV. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley, así como para establecer como agravantes los delitos contra la vida y la integridad cuando éstos sean cometidos contra mujeres, por su condición de género;
-
-XXV. Proveer los recursos presupuestarios, humanos y materiales, en coordinación con las autoridades que integran el Sistema Estatal y el Programa Estatal;
-
-XXVI. A través de la Secretaría de Gobierno, realizar un diagnóstico estatal y otros estudios complementarios de manera periódica con perspectiva de género sobre todas las formas de violencia contra las mujeres, en todos los ámbitos, que proporcione información objetiva para la elaboración de políticas gubernamentales en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
-
-XXVII. A través de la Secretaría de Desarrollo Social y Medio Ambiente:
-
-a. Realizar acciones tendientes a mejorar las condiciones de las mujeres y sus familias que se encuentren en situación de exclusión y de pobreza;
-
-b. Crear Unidades de Atención Integral y Protección a las mujeres víctimas de violencia; y
-
-c. Crear Refugios para las víctimas conforme al modelo de atención diseñado por el Sistema Nacional.
-
-XXVIII. A través de la Secretaría de Seguridad Pública:
-
-a). Diseñar con una visión transversal, la política integral para la prevención de delitos violentos contra las mujeres;
-
-b). Formar y especializar en los términos de la presente Ley, al personal de las diferentes instancias policiales para atender los casos de violencia contra las mujeres;
-
-c). Establecer las acciones y medidas que se deberán tomar para la reeducación y reinserción social de las personas agresoras;
-
-d). Entregar un informe mensual al Instituto, sobre casos de violencia de género, de conformidad con los lineamientos y formatos que para tal efecto, elabore dicho organismo; y
-
-e). Implementar acciones de prevención y erradicación del turismo sexual infantil y la trata de personas.
-
-XXIX. A través de la Secretaría de Educación:
-
-a). Integrar en las políticas educativas los principios de igualdad, equidad y no discriminación entre mujeres y hombres, y el respeto pleno a los derechos humanos;
-
-b). Desarrollar programas educativos, en todos los niveles de escolaridad, que fomenten la cultura de una vida libre de violencia contra las mujeres, así como el respeto a su dignidad, integridad y libertad;
-
-c). Garantizar el derecho de mujeres a la educación, a la alfabetización y al acceso, permanencia y conclusión de estudios en todos los niveles, a través de la obtención de becas y otro tipo de subvenciones;
-
-d). Capacitar al personal docente en derechos humanos de las mujeres;
-
-e). Incorporar en los programas educativos, en todos los niveles de la instrucción, el respeto a los derechos humanos de las mujeres, así como contenidos educativos tendientes a modificar los modelos de conducta sociales y culturales que impliquen prejuicios y que estén basados en la idea de la inferioridad de las mujeres y en funciones estereotipadas asignadas a las mujeres y a los hombres; y
-
-f) Eliminar de los programas educativos los materiales que hagan apología de la violencia contra las mujeres o contribuyan a la promoción de estereotipos que discriminen y fomenten la desigualdad entre mujeres y hombres.
-
-XXX. A través de la Secretaría de Salud:
-
-a). En el marco de la política de salud integral de las mujeres, diseñar con perspectiva de género la política de prevención, atención, sanción y erradicación de la violencia en su contra; y
-
-b). Crear programas de capacitación para el personal del sector salud, respecto de la violencia contra las mujeres y garantizar la atención a las víctimas y la aplicación de la NOM 190-SSA1-1999: Prestación de Servicios de Salud;
-
-XXXI. A través de la Secretaría de Trabajo, Previsión Social y Productividad:
-
-a). Establecer las políticas públicas transversales y con perspectiva de género que garanticen el derecho de las mujeres a una vida libre de violencia en sus relaciones laborales;
-
-b). Vigilar el respeto de los derechos laborales de las mujeres, tanto en el ámbito público como privado, estableciendo las condiciones para eliminar la discriminación de las mujeres por razones de género para el acceso al trabajo;
-
-c). Implementar proyectos especiales de crédito a la palabra para mujeres víctimas de violencia;
-
-d). Implementar proyectos especiales para mujeres empresarias, indígenas y campesinas víctimas de violencia; y
-
-e). Diseñar y ejecutar programas especiales de capacitación técnica y productividad para mujeres víctimas de violencia.
-
-XXXII. A través de la Procuraduría General de Justicia del Estado, garantizar mecanismos expeditos en la procuración de justicia para asegurar el acceso de las mujeres a la justicia plena; y
-
-XXXIII. Las demás que le confieran esta Ley u otros ordenamientos aplicables.
+El Director General será nombrado y removido libremente por el Titular del Poder Ejecutivo.
 
 ###### Artículo 20.
 
-Corresponde al Instituto:
+Para ser Director general se deberá cumplir con los siguientes requisitos:
 
-I. Fungir como Secretaría Ejecutiva del Sistema Estatal, a través de su titular;
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos;
 
-II. Integrar las investigaciones promovidas por las dependencias de la Administración Pública Estatal y Organismos Descentralizados, Organizaciones de la Sociedad Civil, Universidades e Instituciones de Educación Superior e Investigación, sobre las causas, características y consecuencias de la violencia en contra de las mujeres, así como la evaluación de las medidas de prevención, atención, sanción y erradicación, y la información derivada de cada una de las instituciones encargadas de promover los derechos humanos de las mujeres en el estado y los municipios y dar a conocer públicamente los resultados;
+II. Tener por lo menos tres años de experiencia en medios de comunicación;
 
-III. Proponer a las autoridades encargadas de la aplicación de la Ley, los programas, las medidas y las acciones que considere pertinentes, con la finalidad de erradicar la violencia de género;
+III. Carta bajo protesta de decir verdad en la que manifieste no haber sido sentenciado con pena privativa de libertad por delito doloso, y
 
-IV. Colaborar con las instituciones del Sistema Estatal en el diseño y evaluación del modelo de atención a víctimas en los refugios;
-
-V. Coadyuvar en la creación de unidades de atención integral y protección a las víctimas de violencia prevista en la Ley;
-
-VI. Canalizar a las víctimas a programas de atención integral que les permitan participar activamente en la vida pública, privada y social;
-
-VII. Promover y vigilar que la atención ofrecida en las diversas instituciones públicas o privadas, sea proporcionada por especialistas en la materia, sin prejuicios ni discriminación alguna;
-
-VIII. Difundir el respeto a los derechos humanos de las mujeres y promover que las instancias de gobierno garanticen la integridad, la dignidad y la libertad de las mujeres;
-
-IX. Coadyuvar en la creación de refugios para las víctimas conforme al modelo de atención diseñado por el Sistema Nacional;
-
-X. Coadyuvar en la promoción del conocimiento de los derechos, de los procesos y los mecanismos para acceder a la atención, prevención y erradicación de la violencia contra las mujeres;
-
-XI. Difundir por todos los medios de comunicación el contenido de esta Ley, y en las lenguas indígenas principales habladas en el estado;
-
-XII. Solicitar a las dependencias, entidades y organismos del estado la información necesaria para integrar y actualizar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres;
-
-XIII. Integrar y actualizar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres de acuerdo con los lineamientos y formatos que él mismo determine;
-
-XIV. Rendir un informe público anual al Sistema Estatal sobre los avances de los programas, estatal y municipales, relativos a la atención, prevención, sanción y erradicación de la violencia contra las mujeres;
-
-XV. Promover investigaciones sobre las causas y las consecuencias de la violencia contra las mujeres y a las niñas;
-
-XVI. Revisar y evaluar la eficacia en la eliminación de las causas de la violencia y en el impulso del adelanto de las mujeres y la equidad entre los géneros, de las acciones, las políticas públicas y los programas estatales;
-
-XVII. Impulsar la participación de las organizaciones de la sociedad civil dedicadas a la promoción y defensa de los derechos humanos de las mujeres, en la ejecución de los programas estatales;
-
-XVIII. Solicitar en representación de las mujeres víctimas menores de 18 años las medidas de protección conducentes;
-
-XIX. Instrumentar en coordinación con instancias integrantes del Sistema Estatal, programas y campañas que contribuyan a la prevención y erradicación de la violencia de género;
-
-XX. Prestar servicios jurídicos gratuitos y especializados de orientación, asesoría y defensa a las víctimas de violencia en los términos de esta Ley;
-
-XXI. Diseñar e instrumentar la formación de las y los servidores públicos, vía cursos, seminarios, talleres, diplomados y/o especialidades académicas;
-
-XXII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
-
-XXIII. Las demás previstas para el cumplimiento de la presente Ley.
+IV. No estar impedido para prestar servicios públicos en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
 
 ###### Artículo 21.
 
-Corresponde al Sistema Estatal para el Desarrollo Integral de la Familia:
+Al Director General le corresponde lo siguiente:
 
-I. Garantizar, en la atención de la violencia contra las mujeres y las niñas, el respeto a los derechos de la víctima consagrados en esta Ley;
+I. Administrar los recursos materiales, financieros y humanos y representar legalmente al Sistema de Radio y Televisión de Nuevo León;
 
-II. Remitir a la víctima a servicios médicos, psicológicos y/o jurídicos especializados, cuando lo requiera;
+II. Formular los planes y programas institucionales de corto, mediano y largo plazo, así como los presupuestos de la misma y presentarlos para su aprobación a la Junta de Gobierno;
 
-III. Brindar información, asistencia y asesoría jurídica y, en caso de requerirse, remitir a la víctima a un refugio o albergue;
+III. Someter a la Junta de Gobierno el programa anual de trabajo y el anteproyecto de presupuesto de ingresos y egresos del Sistema de Radio y Televisión de Nuevo León para su aprobación;
 
-IV. Solicitar en representación de las mujeres víctimas menores de 18 años las medidas de protección conducentes;
+IV. Presentar a la Junta de Gobierno los estados financieros y los informes de cuenta pública para su aprobación y remitirlos a la Secretaría de Finanzas y Tesorería General del Estado, una vez que sean aprobados;
 
-V. Solicitar la tutela, guarda y custodia de la víctima, cuando ésta sea niña o mujer con discapacidad y/o que no cuente con las condiciones necesarias para valerse por sí misma, a favor de cualquier persona que tenga con ella parentesco por consanguinidad o afinidad, con excepción de la persona agresora;
+V. Presentar a la Junta de Gobierno las propuestas de Iniciativas de reformas, para la actualización del marco normativo del Sistema de Radio y Televisión de Nuevo León;
 
-VI. Adecuar o crear modelos de atención que favorezcan el empoderamiento de la víctima y reparen el daño causado por la violencia, acorde con los lineamientos señalados en esta Ley;
+VI. Aprobar los manuales de organización, procedimientos, el Código de Ética y criterios de programación del Sistema de Radio y Televisión de Nuevo León;
 
-VII. Aplicar los principios y derechos de esta Ley y de cualquier otro Instrumento y/o Tratado Internacional de protección de los derechos humanos de las mujeres y las niñas; y
+VII. Dirigir y ejecutar la planeación, producción o transmisión de los programas de radio y televisión promoviendo la identidad regional y urbana;
 
-VIII. Proporcionar al Instituto, información sobre los casos relacionados con cualquiera de los tipos y modalidades de la violencia señaladas en la Ley, para la integración del Banco Estatal de Datos.
+VIII. Difundir programas culturales entre la población del Estado, promoviendo la identidad regional, urbana y rural;
+
+IX. Ofrecer una programación alternativa que permita al público contar con opciones de contenido social, cultural, educacional y deportivo;
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2025)</small>
+
+IX BIS. Difundir actividades de los Poderes del Estado: Ejecutivo, Legislativo y Judicial, que convengan al desarrollo integral de las audiencias.
+
+Lo anterior, podrá ser realizado mediante convenios de colaboración que establezcan la forma, tiempo de transmisión y, en su caso, los costos que deberá cubrir al Sistema de Radios (sic) y Televisión de Nuevo León el Poder Público interesado, considerando que podrán hacer uso de sus propios recursos de grabación, producción y difusión así como de sus capacidades existentes, como el contenido pregrabado o en vivo que pueda ser retransmitido en su horario de programación.
+
+Dichos convenios, deberán garantizar que la programación informativa no afecte los contenidos fundamentales que fomentan la cultura, la educación y el desarrollo social;
+
+X. Crear y operar mecanismos para que la sociedad se involucre en el mejoramiento permanente de la Radio y Televisión y se logre una real identificación y sentido de permanencia;
+
+XI. Administrar la operación de los títulos de concesión otorgados al Gobierno del Estado de Nuevo León, en los términos de las disposiciones aplicables;
+
+XII. Coordinar y llevar a cabo acciones de planeación, producción y transmisión de programas de radio y televisión que tengan como fin propiciar la comunicación entre individuos, grupos e instituciones, promover el diálogo social, recoger y difundir la opinión ciudadana, coadyuvar a difundir los derechos y obligaciones del ciudadano y en general, informar a la población sobre los hechos que sucedan a nivel local, nacional e internacional;
+
+XIII. Difundir, divulgar y promover el conocimiento, la apreciación y el disfrute de expresiones artísticas, intelectuales y populares, los avances científicos y tecnológicos, así como orientar sobre prácticas sanitarias y preservación ecológica, fomentar el deporte y, en general, coadyuvar en los programas educativos orientados a fortalecer la formación integral de los educandos;
+
+XIV. Delegar en el personal a su cargo las funciones necesarias para la realización de actos concretos, así como integrar grupos de trabajo para el cumplimiento del objeto del Sistema de Radio y Televisión de Nuevo León;
+
+XV. Designar al Titular de la Unidad de Transparencia y al Comité de Transparencia en términos de la Ley de la materia;
+
+XVI. Certificar las copias de documentos que obren en sus archivos y que se relacionen con el ejercicio de sus atribuciones;
+
+XVII. Fungir como Secretario Técnico de la Junta de Gobierno del Sistema de Radio y Televisión de Nuevo León y asistir a las sesiones con voz pero sin voto;
+
+XVIII. Contratar, nombrar y remover al personal administrativo y operativo del Sistema de Radio y Televisión de Nuevo León, así como aceptar las renuncias, autorizar las licencias, y en general, cumplir con todas las responsabilidades en materia de recursos humanos;
+
+XIX. Representar al Sistema de Radio y Televisión de Nuevo León ante cualquier autoridad, organismo descentralizado Federal, Estatal o Municipal, personas físicas o morales de derecho público o privado, con todas las facultades que correspondan a los apoderados generales para pleitos y cobranzas y actos de administración en los términos del Artículo 2448 del Código Civil del Estado y su correlativo, el Artículo 2554 del Código Civil Federal suscribir, otorgar y endosar títulos de crédito exclusivamente para el cumplimiento del objeto del Sistema de Radio y Televisión de Nuevo León. En materia laboral tendrá además la representación legal del sistema ante las autoridades que corresponda. Para ejercer actos de dominio y operaciones de crédito exclusivamente para el cumplimiento del objeto del Sistema de Radio y Televisión de Nuevo León, el Director General se sujetará a la autorización previa de la Junta de Gobierno, quien aprobará la celebración de actos específicamente determinados y bajo las condiciones que se fijen al respecto por la mencionada Junta de Gobierno, observando en su caso, las disposiciones legales aplicables;
+
+XX. Celebrar contratos y convenios con autoridades federales, estatales y municipales, con organismos públicos y privados y con particulares, que sean necesarios para el cumplimiento del objeto del Sistema de Radio y Televisión de Nuevo León, así como gestionar ante dichas autoridades los permisos, autorizaciones y concesiones que se requieran;
+
+XXI. Aceptar donaciones y aportaciones de personas y organizaciones; y
+
+XXII. Las demás que señalen las demás disposiciones jurídicas aplicables y le confieran la Junta de Gobierno.
 
 ### CAPÍTULO I. DE LA ALERTA DE VIOLENCIA DE GÉNERO
 
 ###### Artículo 22.
 
-Corresponde a las autoridades y entidades municipales:
+El Sistema de Radio y Televisión de Nuevo León contará con un Consejo Consultivo Ciudadano, como órgano de opinión y consulta en el ámbito de los objetos y facultades del propio Sistema.
 
-I. Coordinar medidas y acciones con el gobierno del Estado en la integración y funcionamiento del Sistema Estatal;
+El Consejo Consultivo Ciudadano estará integrado de la siguiente forma:
 
-II. Instrumentar y articular, en concordancia con la política estatal, la política municipal orientada a erradicar la violencia contra las mujeres;
+I. Presidente ciudadano, quien lo presidirá;
 
-III. Garantizar la formación y capacitación a quienes integran la corporación policíaca para el cumplimiento eficiente de su responsabilidad;
+II. Secretario Ejecutivo;
 
-IV. Garantizar que la corporación policíaca actúe con diligencia en la ejecución de las órdenes de protección de emergencia y de prevención;
+III. Delegado Propietario;
 
-V. Participar en la ejecución y evaluación de las acciones previstas en el Programa Estatal;
+IV. Delegado Suplente; y
 
-VI. Formular, ejecutar y evaluar el Programa Municipal de Prevención, Atención, Sanción y Erradicación de la violencia contra las Mujeres;
+V. Dos vocales ciudadanos uno con experiencia en el ramo de la radiodifusión.
 
-VII. Promover, en coordinación con el gobierno estatal, cursos de formación, especialización y actualización sobre violencia de género y derechos humanos de las mujeres y niñas, a las personas que atienden a víctimas;
-
-VIII. Apoyar los programas de reeducación integral para las personas agresoras en los términos previstos en la Ley;
-
-IX. Promover programas educativos sobre la igualdad y la equidad entre los géneros para eliminar la violencia contra las mujeres;
-
-X. Apoyar la creación de las Unidades de Atención de las Víctimas de Violencia garantizando que la atención a las mujeres indígenas sea realizada por mujeres y en su propia lengua;
-
-XI. Apoyar la creación de refugios seguros para las víctimas;
-
-XII. Llevar a cabo, de acuerdo con el Sistema Estatal, programas de información a la sociedad sobre los Derechos Humanos de las mujeres y sobre la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
-
-XIII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
-
-XIV. Las demás previstas en esta Ley y en otras disposiciones aplicables.
+Los cargos del Consejo Consultivo Ciudadano serán honoríficos, y por tanto, no remunerados. Los miembros del Consejo Consultivo Ciudadano designarán, de entre ellos mismos, al Secretario Técnico del propio Consejo.
 
 ## TÍTULO QUINTO. DE LA ATENCIÓN A LAS VÍCTIMAS, DE LOS REFUGIOS Y DE LOS CENTROS DE REEDUCACIÓN PARA LAS PERSONAS AGRESORAS
 
@@ -577,115 +359,101 @@ XIV. Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 ###### Artículo 23.
 
-Las autoridades estatal y municipal, en el ámbito de sus respectivas competencias, deberán prestar atención a la víctima, consistente en:
+Para poder ser designado como vocal ciudadano del Consejo Consultivo Ciudadano se requiere:
 
-I. Fomentar la adopción y aplicación de acciones y programas, por medio de los cuales se les brinde protección;
+I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos, y residente en el Estado de Nuevo León;
 
-II. Otorgar la atención a víctimas por parte de las diversas instituciones del ámbito de la salud, así como de atención y de servicio, tanto públicas como privadas;
+II. Ser mayor de 30 años de edad; y
 
-III. Proporcionar a las víctimas, la atención médica, psicológica y jurídica, de manera integral, gratuita, expedita y en el idioma que hable la víctima; si ésta fuere indígena deberá ser asistida por un intérprete que hable exactamente su misma lengua;
-
-IV. Crear refugios seguros para las víctimas; y
-
-V. Informar y turnar a la autoridad competente los casos de violencia de que tenga conocimiento.
+III. Para ser miembro del Consejo Consultivo se requiere, contar con título profesional o experiencia en el ramo de la comunicación, ya sea profesional, docente o de investigación.
 
 ###### Artículo 24.
 
-Las víctimas de cualquier forma de violencia tendrán los derechos siguientes:
-
-I. Ser tratadas con respeto a su integridad, dignidad y libertad;
-
-II. Contar con protección inmediata y efectiva de las autoridades;
-
-III. Recibir información veraz, suficiente y en su idioma, que le permita decidir sobre las opciones de atención;
-
-IV. Contar con asesoría jurídica gratuita y expedita; si la víctima no hablare español deberá ser asistida por un intérprete que hable exactamente su misma lengua;
-
-V. Recibir información médica y psicológica; si la víctima no hablare español deberá ser asistida por un intérprete que hable exactamente su misma lengua;
-
-VI. Contar con un refugio, mientras lo necesiten;
-
-VII. En los casos de violencia familiar, las mujeres que tengan hijas y/o hijos podrán acudir con ellos a los refugios;
-
-VIII. Ser valoradas y educadas libres de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación, o que las revictimice; y
-
-IX. Los demás que deriven de esta Ley.
+El titular del Poder Ejecutivo del Estado en los términos de la Ley de Participación Ciudadana para el Estado de Nuevo León y su Reglamento constituirá el Consejo Consultivo Ciudadano del Sistema de Radio y Televisión de Nuevo León.
 
 ###### Artículo 25.
 
-Se prohíbe someter a la víctima a mecanismos de conciliación, de mediación y/o cualquier otro alternativo con la persona agresora, en tanto dure la situación de violencia.
+(sic) Consejo Consultivo Ciudadano tendrá las siguientes funciones y atribuciones:
+
+I. Analizar, proponer y asesorar a la Junta de Gobierno y al Director General sobre los objetivos y políticas de programación, contenidos y estructura de las transmisiones de radio y televisión y los eventos a cargo del Sistema de Radio y Televisión de Nuevo León;
+
+II. Integrar diagnósticos, estudios, opiniones y recomendaciones sobre la programación y funcionamiento del Sistema de Radio y Televisión de Nuevo León, y presentarlos a la Dirección General y la Junta de Gobierno;
+
+III. Proponer al Sistema de Radio y Televisión de Nuevo León programas que fomenten el desarrollo cultural de la comunidad en su sentido más amplio, democrático, participativo y plural, de los distintos sectores de la comunidad;
+
+IV. Colaborar con el Sistema de Radio y Televisión de Nuevo León para elevar el nivel de los contenidos y comunicación pública cultural, en busca de los niveles de excelencia cultural nacional y mundial;
+
+V. Las demás que le designen los ordenamientos jurídicos aplicables.
 
 ###### Artículo 26.
 
-La persona agresora deberá participar en los programas de reeducación integral, por mandato de autoridad competente.
+El funcionamiento interno del Consejo Consultivo Ciudadano será regulado por la Ley de Participación Ciudadana para el Estado Nuevo León.
 
 ###### Artículo 27.
 
-El Instituto propondrá al Sistema, el Modelo de Atención y refugios para las víctimas.
-
-Los gobiernos estatal y municipal se coordinarán con los diversos sectores social y privado para fomentar la creación de refugios para la atención a las víctimas de violencia.
-
-Corresponde a los refugios, desde la perspectiva de género:
-
-I. Aplicar el Programa Estatal;
-
-II. Velar por la seguridad de las mujeres y de las niñas que se encuentren en ellos;
-
-III. Proporcionar a las mujeres la atención necesaria para su recuperación física y psicológica, que les permita participar plenamente en la vida pública, social y privada;
-
-IV. Dar información a las víctimas sobre las instituciones encargadas de prestar asesoría jurídica gratuita;
-
-V. Brindar a las víctimas la información necesaria que les permita decidir sobre las opciones de atención; y
-
-VI. Contar con el personal debidamente capacitado y especializado en la materia, para proporcionar los servicios y realizar las acciones inherentes a la prevención, protección y atención de las personas que se encuentren en ellos.
-
-VII. Los refugios instalados por organizaciones civiles funcionarán de acuerdo con el Programa Estatal y el modelo de atención aprobado por el Sistema Estatal.
+El Sistema de Radio y Televisión de Nuevo León contará con un Defensor de las Audiencias que será designado por el Director del Sistema de Radio y Televisión de Nuevo León. El periodo de encargo del Defensor de la Audiencia será hasta de dos años, mismo que podrá ser prorrogable hasta por dos ocasiones, pudiendo ser removido con causa justificada, en cualquier momento por el Director General.
 
 ###### Artículo 28.
 
-Para prestar servicios en los refugios de atención a las víctimas se deberá cumplir con los siguientes requisitos:
-
-I. Ser personal calificado, con formación teórica y experiencia en la atención a la violencia de género;
-
-II. No tener antecedentes de haber sido sancionado por ejercer algún tipo o modalidad de violencia; y
-
-III. Las demás que señale el Reglamento de esta Ley.
+El Defensor de la Audiencia será el responsable de recibir, documentar, procesar y dar seguimiento a las observaciones, quejas, sugerencias, peticiones o señalamientos de las personas que componen la audiencia.
 
 ###### Artículo 29.
 
-Los refugios deberán ser lugares seguros para la víctima; no se proporcionará su ubicación a personas no autorizadas para acudir a ellos.
+Los requisitos para ser Defensor de las Audiencias y las atribuciones a su cargo se sujetarán a lo establecido en la Ley Federal de Telecomunicaciones y Radiodifusión.
 
 ###### Artículo 30.
 
-Los refugios prestarán a la víctima y, en su caso, a sus hijas e hijos, los siguientes servicios especializados y gratuitos:
-
-I. Hospedaje;
-
-II. Alimentación;
-
-III. Vestido y calzado;
-
-IV. Servicio médico;
-
-V. Asesoría jurídica;
-
-VI. Apoyo psicológico;
-
-VII. Programas reeducativos integrales a fin de que logren estar en condiciones de participar plenamente en la vida pública, social y privada;
-
-VIII. Capacitación, para que puedan adquirir conocimientos para el desempeño de una actividad laboral; y
-
-IX. Bolsa de trabajo, con la finalidad de que puedan tener una actividad laboral remunerada en caso de que lo soliciten.
+El Sistema de Radio y Televisión de Nuevo León queda sometido a las reglas de contabilidad, presupuesto y gasto público, aplicables a la Administración Pública Paraestatal, de conformidad con lo establecido por la Ley de Administración Financiera para el Estado de Nuevo León y demás normatividad aplicable.
 
 ###### Artículo 31.
 
-La permanencia de las víctimas en los refugios no podrá ser mayor a tres meses, a menos de que persista su inestabilidad física, psicológica o su situación de riesgo.
-
-Para este efecto, el personal médico, psicológico y jurídico del refugio evaluará la condición de las víctimas.
+Las relaciones del Sistema de Radio y Televisión de Nuevo León con la Administración Pública Central se regirán por lo dispuesto en la Ley Orgánica de la Administración Pública para el Estado de Nuevo León.
 
 ###### Artículo 32.
 
-En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad.
+Las relaciones laborales entre el Sistema de Radio y Televisión de Nuevo León y su personal, se regirán por la Ley del Servicio Civil del Estado de Nuevo León y demás disposiciones jurídicas aplicables.
+
+T R A N S I T O R I O S
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Para el cumplimiento del presente Decreto, el Ejecutivo queda autorizado para modificar y redistribuir las partidas del Presupuesto de Egresos para el presente ejercicio fiscal, sin exceder los montos autorizados.
+
+Tercero.- La Junta de Gobierno del Sistema de Radio y Televisión de Nuevo León deberá quedar instalada en un plazo no mayor de 90 días hábiles, contados a partir del inicio de vigencia de este Decreto.
+
+Cuarto.- El Consejo Consultivo Ciudadano del Organismo Público Descentralizado Denominado Sistema de Radio y Televisión de Nuevo León, deberá instalarse en un plazo no mayor a 120 días naturales a partir de la entrada en vigor del presente Decreto.
+
+Quinto.- La Junta de Gobierno aprobará el Reglamento Interior del Organismo Público Descentralizado denominado Sistema de Radio y Televisión de Nuevo León en un plazo no mayor de 120 días hábiles, contados a partir de la fecha de su instalación.
+
+Sexto.- Las referencias que las disposiciones legales hagan a la Secretaría General de Gobierno por conducto de la Dirección de Televisión Estatal y Radio Nuevo León, se entenderán conferidas al Organismo Público Descentralizado denominado Sistema de Radio y Televisión de Nuevo León.
+
+Séptimo.- Los recursos humanos, materiales y financieros que se encuentren asignados a la Dirección de Televisión Estatal y Radio Nuevo León, dependiente de la Secretaría General de Gobierno, serán transferidos de inmediato al Organismo Público Descentralizado denominado Sistema de Radio y Televisión de Nuevo León.
+
+Octavo.- El actual encargado de Televisión Estatal y Radio Nuevo León, continuará en el ejercicio de su cargo como responsable del Organismo que se crea al amparo del presente Decreto. Así mismo el personal de la Dirección de Televisión Estatal y Radio Nuevo León de la Secretaría General de Gobierno que en virtud de esta disposición modifique su adscripción, al organismo que se crea al amparo del Presente Decreto, conservará sus derechos laborales conforme a la Ley.
+
+Por lo tanto, envíese al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial del Estado.
+
+Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital a los veinticinco días del mes de abril de dos mil dieciocho.
+
+PRESIDENTA: DIP. KARINA MARLEN BARRÓN PERALES; PRIMERA SECRETARIA: DIP. LETICIA MARLENE BENVENUTTI VILLARREAL; SEGUNDA SECRETARIA: DIP. LUDIVINA RODRÍGUEZ DE LA GARZA.- Rúbricas.-
+
+Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, al día 07 de mayo de 2018.
+
+EL C. GOBERNADOR INTERINO DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
+
+MANUEL FLORENTINO GONZÁLEZ FLORES
+
+EL C. SECRETARIO GENERAL DE GOBIERNO
+
+GENARO ALANÍS DE LA FUENTE
+
+EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
+
+CARLOS ALBERTO GARZA IBARRA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE MAYO DE 2025.
 
 ###### Artículo 33.
 
@@ -884,3 +652,7 @@ G.O. 8 DE SEPTIEMBRE DE 2014.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 98. SE ADICIONA LA FRACCIÓN IX BIS AL ARTÍCULO 21 DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SISTEMA DE RADIO Y TELEVISIÓN DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
