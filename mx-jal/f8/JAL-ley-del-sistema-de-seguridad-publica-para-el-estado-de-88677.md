@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-88677"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-21"
-last_updated: "2016-05-24"
+last_updated: "2016-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO 24988/LX/14 QUE REFORMA Y DEROGA DIVERSOS ARTÍCULOS, PUBLICADO EN EL P.O. DE 27 DE SEPTIEMBRE DE 2014, ENTRA EN VIGOR CONFORME A LA DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO Y DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES AL ORDEN JURÍDICO DEL ESTADO DE JALISCO, APROBADA MEDIANTE DECRETO 24864/LX/14, PUBLICADO EN FECHA 11 DE ABRIL DEL 2014, PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL EL ESTADO DE JALISCO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 21 de julio de 2012.
 
@@ -1815,23 +1815,29 @@ El procedimiento de separación iniciará una vez que concluyan los procesos rel
 
 El procedimiento se iniciará de oficio por la institución de seguridad pública a la cual se encuentre adscrito.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2016)</small>
+
 ###### Artículo 132.
 
-Iniciado el procedimiento, se emplazará al denunciado para que comparezca a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de dos días hábiles posteriores a la notificación. En el escrito respectivo se le informará al denunciado de la infracción que se le imputa y se le correrá traslado del procedimiento, para que manifieste lo que a su derecho corresponda, debiendo señalar domicilio en el lugar donde se instaura el procedimiento para recibir notificaciones o correo electrónico, apercibiéndolo que en caso de no hacerlo, éstas le serán notificadas por estrados.
+Iniciado el procedimiento, se emplazará al denunciado para que comparezca a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cinco días hábiles posteriores a la notificación. En el escrito respectivo se le informará al denunciado de la infracción que se le imputa y se le correrá traslado del procedimiento, para que manifieste lo que a su derecho corresponda, debiendo señalar domicilio en el lugar donde se instaura el procedimiento para recibir notificaciones o correo electrónico, apercibiéndolo que en caso de no hacerlo, éstas le serán notificadas por estrados.
 
 ###### Artículo 133.
 
 El elemento operativo, sujeto al presente procedimiento especial, actuará personalmente o por conducto de apoderado quien en todo caso deberá ser un abogado o licenciado en derecho con cédula profesional que lo acredite como tal para su legal defensa, en los términos del Código de Procedimientos Civiles del Estado de Jalisco, el cual será supletorio para el presente procedimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2016)</small>
+
 ###### Artículo 134.
 
-La audiencia de pruebas y alegatos se llevará a cabo de manera ininterrumpida, en forma oral y será conducida por la institución de seguridad pública, debiéndose levantar constancia de su desarrollo.
+La audiencia de pruebas y alegatos se llevará a cabo en forma oral y será conducida por la institución de seguridad pública, debiéndose levantar constancia de su desarrollo.
 
 La autoridad instructora tendrá la facultad de realizar la certificación de las actuaciones del presente procedimiento, quien podrá delegar dicha atribución a quien se designe para ese efecto conforme a su reglamento.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2016)</small>
+
 ###### Artículo 135.
 
-En el procedimiento especial no serán admitidas más pruebas que la documental, la valoración de las pruebas será conforme al Código de procedimientos Civiles del Estado de Jalisco, supletorio del presente procedimiento.
+En el procedimiento especial serán admisibles todas las pruebas que establece el Código de Procedimientos Civiles del Estado, mismas que deberán ser desahogadas y valoradas en lo conducente de conformidad con las reglas previstas en dicho ordenamiento.
 
 ###### Artículo 136.
 
@@ -1839,7 +1845,9 @@ La falta de asistencia por parte del elemento operativo no impedirá la celebrac
 
 I. Abierta la audiencia, la autoridad hará del conocimiento al elemento operativo o apoderado las causas que se le imputan en una intervención no mayor de quince minutos, resumiendo el hecho que motivó la denuncia y la relación de las pruebas que existen en el procedimiento;
 
-II. Una vez hecho lo anterior se le dará el uso de la voz al elemento operativo o a su apoderado, en un tiempo no mayor a treinta minutos, para que responda a los señalamientos, ofreciendo las pruebas documentales que a su juicio desvirtúen la imputación que se realiza;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2016)</small>
+
+II. Una vez hecho lo anterior se le dará el uso de la voz al elemento operativo o a su apoderado para que responda a los señalamientos, ofreciendo las pruebas que a su juicio desvirtúen la imputación que se realiza;
 
 III. La instancia de la institución de seguridad pública resolverá sobre la admisión de pruebas y acto seguido procederá a su desahogo, y
 
@@ -2506,3 +2514,9 @@ Recibida la propuesta, el Gobernador del Estado tendrá un plazo de hasta 15 dí
 ###### ARTÍCULO NOVENO.
 
 El Gobernador del Estado deberá realizar los ajustes presupuestarios necesarios conforme sea procedente para cumplir con lo previsto en el presente decreto.
+
+P.O. 26 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25856/LXI/16 QUE REFORMA LOS ARTÍCULOS 132, 134 PÁRRAFO PRIMERO, 135 Y 136 FRACCIÓN II DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
