@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-los-municipios-del-estado-de-tabasco-35393"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-12-03"
-last_updated: "2016-05-14"
+last_updated: "2016-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de diciembre de 2003.
 
@@ -333,7 +333,7 @@ Se considera válidamente instalado un Ayuntamiento con la presencia de la mayor
 
 Los miembros del Ayuntamiento, el secretario del mismo, directores, así como los titulares de los organismos paramunicipales, estarán obligados a comparecer ante el Congreso del Estado, o ante la comisión que éste designe, cuando la Legislatura estime necesario recabar alguna información relativa a los ayuntamientos y acorde a las atribuciones del servidor público de que se trate. La citación se hará a través del presidente municipal, quien determinará lo conducente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ### CAPÍTULO II. De la Instalación y proceso de entrega-recepción de los Ayuntamientos
 
@@ -877,7 +877,7 @@ Para estudiar, examinar y resolver los problemas del Municipio y vigilar que se 
 
 Las comisiones presentarán al Ayuntamiento las propuestas de solución a los problemas de su conocimiento, a efecto de atender los ramos de la administración municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 46.
 
@@ -1021,7 +1021,7 @@ I. Hacienda Municipal;
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
-ll. Obras, ordenamiento territorial y servicios municipales;
+II. Obras, ordenamiento territorial y servicios municipales;
 
 III. Fomento del desarrollo;
 
@@ -1087,7 +1087,11 @@ También se declarará desaparecido un Ayuntamiento en caso de renuncia o falta 
 
 En el caso de que se puedan celebrar nuevas elecciones, un Concejo Municipal se encargará provisionalmente de las funciones del Ayuntamiento en tanto toman posesión los nuevos integrantes de éste.
 
-Los concejales deben reunir los mismos requisitos que esta Ley exige para los regidores.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2016)</small>
+
+Los concejales deben reunir los mismos requisitos que esta Ley exige para los regidores. En forma obligatoria se deberá considerar la paridad de género en la conformación del Concejo, así como en las fórmulas de Concejales propietarios y suplentes. El Concejo Municipal deberá reproducir el mismo equilibrio de género que existía en el Ayuntamiento desaparecido.
 
 ###### Artículo 57.
 
@@ -1165,11 +1169,17 @@ Para aplicar la suspensión o revocación a que se refieren los artículos 59 y 
 
 Si alguno de los miembros propietarios de los ayuntamientos dejara de desempeñar su cargo, será sustituido por su suplente.
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-Si se tratare del presidente municipal, éste será sustituido por su suplente o, en su caso, por uno de los regidores o por un vecino del Municipio; en los dos últimos supuestos, cualquiera de ellos será designado por la mayoría de los integrantes del Ayuntamiento.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2016)</small>
 
-Cuando el número de regidores en funciones, aún llamados los suplentes y que no se trate del presidente municipal, no sea suficiente para que los actos del Ayuntamiento tengan validez, la Legislatura del Estado designará de entre los vecinos a los sustitutos.
+Si se tratare de quien ocupa la Presidencia Municipal, será sustituido por su suplente o, en su caso, por uno de los regidores o por un vecino del Municipio que deberán de ser del mismo género de la persona que genera la vacante; en los dos últimos supuestos, cualquiera de ellos será designado por la mayoría de los integrantes del Ayuntamiento.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2016)</small>
+
+Cuando el número de regidores en funciones, aun llamados los suplentes, y que no se trate del presidente municipal, no sea suficiente para que los actos del Ayuntamiento tengan validez, la Legislatura del Estado designará de entre los vecinos a los sustitutos. En éste último caso, la Legislatura del Estado deberá salvaguardar la paridad de género que originalmente tenía el Ayuntamiento.
 
 De no ser posible lo señalado en los párrafos anteriores, la Legislatura declarará suspendido el Ayuntamiento, para proceder en los términos legales.
 
@@ -1637,11 +1647,11 @@ XIV. Proporcionar, en congruencia con su disponibilidad presupuestal, la capacit
 
 XV. Las demás que le atribuyan expresamente las leyes, reglamentos, y las que le encomiende directamente el Ayuntamiento o el presidente municipal.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE FEBRERO DE 2008)</small>
 
 ### CAPÍTULO IX. De la Dirección de Fomento Económico y Turismo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 83.
 
@@ -1687,7 +1697,7 @@ XI. Coadyuvar para la integración de comités turísticos municipales, como ór
 
 XII. Las demás que le atribuyan expresamente las leyes, reglamentos, y las que le encomiende directamente el Ayuntamiento o el presidente municipal.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ### CAPÍTULO X. De la Dirección de Obras, Ordenamiento Territorial y Servicios Municipales
 
@@ -1947,7 +1957,7 @@ V. Proponer al Cabildo las normas internas y reglamentos para el buen funcionami
 
 VI. Las demás que le atribuyan expresamente las leyes, reglamentos, y las que le encomiende directamente el Ayuntamiento o el presidente municipal.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 13 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE DICIEMBRE DE 2006)</small>
 
 ### CAPÍTULO XV BIS. De la Dirección de Atención a las Mujeres
 
@@ -1977,7 +1987,7 @@ X.- Elaborar y proponer al Presidente Municipal, las iniciativas de reglamentaci
 
 XI.- Las demás que le atribuyan expresamente las leyes, reglamento y las que le encomienden directamente el Ayuntamiento o el presidente municipal.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE OCTUBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE OCTUBRE DE 2008)</small>
 
 ### CAPÍTULO XV TER. De la Dirección de Protección Ambiental y Desarrollo Sustentable
 
@@ -2035,7 +2045,7 @@ XXI.- Atender los demás asuntos que en materia de preservación y restauración
 
 Artículo 94 quáter. El titular la (sic) Dirección de Protección Ambiental y Desarrollo Sustentable, además de los requisitos previstos en el párrafo segundo del artículo 75 de esta Ley, preferentemente deberá contar con título profesional o técnico en la materia.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ### CAPÍTULO XV QUATER. De la Unidad de Protección Civil, del Sistema Municipal de Protección Civil y de los Consejos Municipales de Protección Civil
 
@@ -2251,7 +2261,7 @@ V. Tener vigente sus derechos políticos y no haber sido condenado por delito do
 
 VI. No ser propietario o administrador de establecimientos, donde se expendan licores o bebidas embriagantes en la comunidad donde pretenda ser electo;
 
-VII. No haber ocupado ese mismo cargo en el período inmediato anterior; y
+VII. (DEROGADA, P.O. 27 DE JULIO DE 2016)
 
 VIII. Las demás que se señalen en la convocatoria correspondiente.
 
@@ -2296,6 +2306,10 @@ Cuando por alguna causa la elección no pueda llevarse a cabo en la fecha previs
 Las autoridades que resulten electas entrarán en funciones dentro de los ocho días siguientes a la comunicación del resultado. El presidente municipal tomará la protesta de ley y dará posesión a los delegados, subdelegados, jefes de sector y de sección.
 
 Los delegados, subdelegados, jefes de sector y sección durarán en su cargo tres años, pudiendo ser removidos por el Ayuntamiento en cualquier tiempo por causa justificada, que calificará este mismo órgano, llamándose en ese caso a los suplentes y si éstos no se presentaren, el Ayuntamiento designará al substituto, de entre los vecinos de la demarcación respectiva.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2016)</small>
+
+Los delegados y subdelegados, podrán ser reelectos para el periodo inmediato por una sola ocasión. Para tales efectos, podrán participar como aspirantes en el proceso de elección siguiente a su encargo; tiempo durante el cual deberán permanecer temporalmente separados del cargo previa licencia del cabildo
 
 Las autoridades salientes deberán entregar las instalaciones de la delegación o área de que se trate, mediante un acta pormenorizada de activos y bienes, así como una relación de documentos y correspondencia que obren en su poder.
 
@@ -2487,7 +2501,7 @@ Los servicios públicos prestados directamente por el Ayuntamiento, serán admin
 
 Los ayuntamientos prestarán los servicios públicos a su cargo pero podrán concesionar los que no afectan la estructura y organización municipal, a personas físicas o jurídicas colectivas, prefiriendo en igualdad de circunstancias a vecinos del Municipio. Asimismo podrán celebrar contratos con particulares sobre administración de obras, así como sobre prestación de servicios públicos que generen ingresos. En este supuesto, sin perjuicio de lo previsto en esta Ley, aplicarán en lo conducente, las disposiciones previstas para las licitaciones públicas, debiendo además publicar en el Periódico Oficial del Estado, el acto administrativo por el que determinan la concesión o el contrato respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2009)</small>
 
 ###### Artículo 130.
 
@@ -3281,7 +3295,7 @@ IV. Indicar el uso de suelo del predio;
 
 V. La exposición de motivos en que se fundamente la solicitud; además de la mención del acto jurídico que habrá de formalizarla;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
@@ -3295,13 +3309,13 @@ Tratándose de personas jurídicas colectivas se expresará su denominación, do
 
 VIII. Superficie, medidas, linderos y ubicación exacta del inmueble, acompañando el plano correspondiente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 IX. Certificación del Registro Público de la Propiedad y del Comercio, de que el solicitante, cuando es un particular, y el predio se destina para una vivienda, no es propietario de algún inmueble;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 X. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2009)
 
@@ -3311,7 +3325,7 @@ XII. Certificación de que el inmueble no tiene un valor arqueológico, históri
 
 Una vez recibida la solicitud, el Cabildo emitirá por acuerdo de las dos terceras partes de sus integrantes la resolución que corresponda, sujetándose a lo señalado en esta Ley y a las demás disposiciones aplicables, ordenándose la publicación de los resolutivos correspondientes en el Periódico Oficial del Estado. Asimismo, en su oportunidad se deberán inscribir el o los títulos de propiedad que se expidan.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
@@ -3741,7 +3755,7 @@ LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 13 DE DICIEMBRE DE 2006.
 
@@ -3862,3 +3876,21 @@ PRIMERO.- El correspondiente decreto entrará en vigor al día siguiente de su p
 SEGUNDO.- Los procedimientos legales que se encuentren aun en Litigio por parte del Poder Ejecutivo del Estado hasta antes de la entrada en vigor del presente decreto deberán seguirse hasta su conclusión, notificándose lo conducente al municipio representado.
 
 TERCERO.- Los municipios o Ayuntamientos que deban tramitar juicios de cualquier naturaleza fuera del estado deberán de realizarlo de manera directa, por si o a través de sus representantes legales mediante poder o mandato que se otorgue para tal efecto.
+
+P.O. 27 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 020 ARTÍCULO SEGUNDO POR EL QUE “SE REFORMAN LOS ARTÍCULOS 56 Y 62 DE LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del 30 de junio del año 2017.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones en lo que se opongan al presente decreto.
+
+P.O. 27 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 021 POR EL QUE “SE DEROGA LA FRACCIÓN VII DEL ARTICULO 102 Y SE ADICIONA EL PÁRRAFO TERCERO AL ARTICULO 105, POR LO QUE EL TEXTO DEL ACTUAL SE RECORRE PARA QUEDAR COMO PÁRRAFO CUARTO, TODOS DE LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El correspondiente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+TERCERO.- Las presentes disposiciones serán aplicables, en su caso, a partir de quienes resulten electos en el proceso de elección de delegados y subdelegados a celebrarse por los ayuntamientos del Estado de Tabasco en el periodo constitucional 2018-2021.
