@@ -4,7 +4,7 @@ identifier: "TAB-ley-electoral-y-de-partidos-politicos-del-estado-de-tabasco-101
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-02"
-last_updated: "2016-03-19"
+last_updated: "2016-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ELECTORAL Y DE PARTIDOS POLÍTICOS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 2 de julio de 2014.
 
@@ -403,6 +403,12 @@ III. Integrantes de los Ayuntamientos, cada 3 años.
 
 5. Los ciudadanos que deseen participar como Candidatos Independientes a los distintos cargos de elección popular en el Estado, se sujetarán a las reglas y procedimientos que establecen la Constitución Local y la presente Ley.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE JULIO DE 2016)</small>
+
+6. Toda fórmula de candidatos, sea de mayoría relativa o de representación proporcional, deberá integrarse por un propietario y será complementada con un suplente del mismo género.
+
 # LIBRO TERCERO. DE LOS PARTIDOS POLÍTICOS
 
 ## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
@@ -417,7 +423,11 @@ III. Integrantes de los Ayuntamientos, cada 3 años.
 
 4. Los Partidos Políticos son formas de organización política y constituyen entidades de interés público, con personalidad jurídica y patrimonio propio, que tienen como fin promover la participación del pueblo en la vida democrática del estado, contribuir a la integración de la representación popular, y como organización de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios o ideas que postulen y mediante el sufragio universal, libre, secreto, directo, personal e intransferible.
 
-5. Los Partidos Políticos locales garantizarán la paridad de género en las candidaturas a diputados al Congreso del Estado y regidores locales. Los criterios que al efecto establezcan deberán ser objetivos y asegurar condiciones de igualdad entre géneros.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2016)</small>
+
+5. Los Partidos Políticos locales garantizarán la paridad de género en las candidaturas a diputados al Congreso del Estado y regidores locales. Los criterios que al efecto establezcan, deberán ser objetivos y asegurar condiciones de igualdad entre géneros. Sin excepción alguna, las fórmulas de candidatos deberán estar integradas con un propietario y un suplente del mismo género.
 
 6. En ningún caso serán admisibles criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellos distritos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
 
@@ -5058,3 +5068,11 @@ P.O. 19 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL DECRETO 005 POR EL QUE “SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO 118 DE FECHA 2 DE JULIO DE 2014 PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE TABASCO, SUPLEMENTO C N° 7494”.]
 
 ÚNICO.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 020 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 32 Y 33 DE LA LEY ELECTORAL Y DE PARTIDOS POLÍTICOS DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del 30 de junio del año 2017.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones en lo que se opongan al presente decreto.
