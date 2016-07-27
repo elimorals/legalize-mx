@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-del-comite-de-planeacion-para-el-desarrollo-del-5698
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-08"
-last_updated: "2007-08-08"
+last_updated: "2016-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 REGLAMENTO DEL COMITE DE PLANEACION PARA EL DESARROLLO DEL MUNICIPIO DE CUERNAVACA, MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 8 de agosto de 2007.
 
@@ -147,17 +147,21 @@ VI.- Los integrantes del Cabildo.
 
 VII.- Los representantes de las dependencias y entidades de la Administración Pública Federal y Estatal que operen proyectos y programas en el municipio.
 
-VIII.- Los presidentes de los comisariados ejidales y de bienes comunales del Municipio.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JULIO DE 2016)</small>
 
-IX.- Los representantes de los grupos de población indígenas.
+VIII.- Los Titulares de las Autoridades Auxiliares Municipales (Ayudantes y Delegados)
 
-X.- Los representantes de las organizaciones obreras, campesinas, colonos, comerciantes y de transportistas.
+IX.- Los presidentes de los comisariados ejidales y de bienes comunales del Municipio.
 
-XI.- Los representantes de las organizaciones empresariales.
+X.- Los representantes de los grupos de población indígenas.
 
-XII.- Los diputados federal y estatal, cuyo distrito electoral se ubique en el Municipio.
+XI.- Los representantes de las organizaciones obreras, campesinas, colonos, comerciantes y de transportistas.
 
-XIII.- Los representantes de las instituciones de investigación y de educación superior, cuyas instalaciones se ubiquen en el municipio.
+XII.- Los representantes de las organizaciones empresariales.
+
+XIII.- Los diputados federal y estatal, cuyo distrito electoral se ubique en el Municipio.
+
+XIV.- Los representantes de las instituciones de investigación y de educación superior, cuyas instalaciones se ubiquen en el municipio.
 
 ###### Artículo 15.
 
@@ -365,6 +369,14 @@ VI.- El Regidor titular de la Comisión de Desarrollo Urbano, Vivienda y Obras P
 
 VII.- Un Regidor por cada una de las fracciones políticas con representación al interior del Ayuntamiento.
 
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2016)</small>
+
+VIII.- El Secretario de Infraestructura Urbana, Obras y Servicios Públicos; y
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2016)</small>
+
+IX.- El Tesorero Municipal
+
 ###### Artículo 29.
 
 El Consejo Permanente tendrá las siguientes atribuciones:
@@ -385,11 +397,17 @@ DE LOS SUBCOMITÉS SECTORIALES
 
 Son instalados tomando en cuenta la estructura de los programas del Plan Municipal de Desarrollo y la organización del Ayuntamiento, estos Subcomités tienen la tarea de proponer e instrumentar las políticas de desarrollo y mejora de cada sector.
 
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2016)</small>
+
+Así como verificar que los representantes de las dependencias y entidades sectorizadas programen los proyectos y acciones coordinadas de acuerdo con los planes y programas de los tres órdenes de gobierno.
+
 DE LOS SUBCOMITÉS ESPECIALES
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2016)</small>
 
 ###### Artículo 31.
 
-Se instalan a partir de la identificación de los temas prioritarios y estratégicos del municipio, para proponer e instrumentar las políticas y estrategias de desarrollo específicas.
+Los Subcomités Especiales se instalarán a partir de la identificación de los temas prioritarios y estratégicos del municipio, para proponer e instrumentar las políticas, estrategias de desarrollo específicas y dar seguimiento para que los proyectos y acciones coordinadas de las diferentes dependencias y entidades sectorizadas se diseñen de acuerdo a los planes y programas de los gobiernos federal y estatal.
 
 DE LOS ORGANISMOS AUXILIARES
 
@@ -419,7 +437,37 @@ III.- Proponer ante la asamblea plenaria convenios específicos con el nivel est
 
 IV.- Efectuar la evaluación anual del funcionamiento del Comité, así como de los programas y acciones, en términos de obras y servicios que los tres ámbitos de gobierno desarrollen en el municipio.
 
-V.- Realizar los trabajos de control y evaluación que le encomiende el Presidente, la Asamblea Plenaria o la Comisión Permanente.
+(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE JULIO DE 2016]
+
+V.- Asegurar la congruencia de los planes, objetivos, estrategias, prioridades y programas municipales, estatales y nacionales, relacionados con el sector o tema especial de competencia.
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2016)</small>
+
+VI.- Presentar a la Asamblea Plenaria, o en su caso, al Consejo Permanente del COPLADEMUN, el programa anual de trabajo del Subcomité para su correspondiente (sic)
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2016)</small>
+
+VII.- Atender y dar seguimiento a las peticiones ciudadanas de obras, acciones o que envíe la Coordinación General del COPLADEMUN.
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2016)</small>
+
+VIII.- Realizar los trabajos que le encomiende la Asamblea Plenaria o el Consejo Permanente del COPLADEMUN.
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2016)</small>
+
+IX.- Proponer medidas para concertar e inducir el desarrollo de las actividades de los sectores social y privado en el sector o tema especial que le corresponda.
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2016)</small>
+
+X.- Vigilar que las dependencias y entidades de las administraciones públicas federal y estatal que forman parte del sector o tema especial, realicen el seguimiento y la evaluación de la ejecución de los programas, proyectos y acciones de las que son responsables.
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2016)</small>
+
+XI.- Realizar las reuniones extraordinarias que sean necesarias para el cumplimiento de los objetivos estratégicos del Plan Municipal de Desarrollo.
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2016)</small>
+
+XII.- Presentar el informe anual de actividades del Subcomité a la Asamblea Plenaria, o en su caso al Consejo Permanente del COPLADEMUN para su correspondiente aprobación.
 
 DE LAS SESIONES
 
@@ -614,3 +662,17 @@ C. ERIKA CORTÉS MARTÍNEZ
 SECRETARIA DEL AYUNTAMIENTO
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO SO/AC-97/30-VI-2016 POR EL QUE SE APRUEBAN LAS MODIFICACIONES AL REGLAMENTO DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO DEL MUNICIPIO DE CUERNAVACA, ESPECÍFICAMENTE SE REFORMA EL ARTÍCULO 14, FRACCIÓN VIII, RECORRIÉNDOSE EN SU ORDEN LAS FRACCIONES SUBSECUENTES, EL ARTÍCULO 28 ADICIONÁNDOSE DOS FRACCIONES LA VIII Y IX, EL ARTÍCULO 30 ADICIONÁNDOSE UN SEGUNDO PÁRRAFO, SE REFORMA EL ARTICULO 31, PRIMER PÁRRAFO, Y EL ARTÍCULO 32 ADICIONÁNDOSE LAS FRACCIONES V, VI, VII, VIII, IX, X, XI, Y XII RESPECTIVAMENTE".]
+
+###### ARTÍCULO PRIMERO.
+
+Se instruye a la Secretaría del Ayuntamiento y demás áreas municipales involucradas, a realizar los trámites conducentes para el debido cumplimiento del presente Acuerdo.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
