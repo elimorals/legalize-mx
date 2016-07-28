@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-libro-quinto-del-codigo-administrativo-del-24562
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-13"
-last_updated: "2006-02-21"
+last_updated: "2016-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24562&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO DEL LIBRO QUINTO DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE FEBRERO DE 2006.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DEL LIBRO QUINTO DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 28 DE JULIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE JULIO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el miércoles 13 de marzo de 2002.
 
@@ -3570,3 +3572,23 @@ PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de la fecha de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 28 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DEL LIBRO QUINTO DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Reglamento del Libro Quinto del Código Administrativo del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno", el 13 de marzo de 2002.
+
+CUARTO. La Secretaría de Desarrollo Urbano y Metropolitano dispondrá de lo necesario para que las funciones y servicios de carácter municipal, regulados por el Código en materia de planeación de desarrollo urbano y de autorización de uso del suelo, se transfieran a los municipios del Estado de manera ordenada, conforme al programa de transferencia que presente dicha Secretaría, en un plazo no mayor de noventa días contados a partir de la recepción de las correspondientes solicitudes por parte de los municipios.
+
+En tanto se realiza la transferencia a que se refiere el presente artículo, las funciones y servicios de competencia municipal, que a la entrada en vigor de este Reglamento, sean ejercidas o prestados por el Gobierno del Estado de México, seguirán ejerciéndose y prestándose por éste en los términos y condiciones vigentes.
+
+QUINTO. Las disposiciones del presente Reglamento, que regulen atribuciones municipales estarán vigentes respecto del territorio de cada municipio, hasta la entrada en vigor del presente Reglamento.
+
+SEXTO. Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente Reglamento, serán tramitados y resueltos conforme a las disposiciones vigentes al inicio de su sustanciación.
+
+SÉPTIMO. Los planes municipales de desarrollo urbano deberán ajustarse a lo dispuesto en este Reglamento en un plazo no mayor a doce meses contados a partir de la entrada en vigor del mismo.
