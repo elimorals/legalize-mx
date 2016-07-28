@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2016-07-25"
+last_updated: "2016-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE JULIO DE 2016.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
 EL CIUDADANO GENERAL AGUSTIN MILLAN, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes, sabed, que:
 
 "La XXVI Legislatura Constitucional del Estado de México, en funciones de Constituyente, de acuerdo con el Decreto y autorización expedidos por el Ciudadano Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Unión, el veintidós de marzo y catorce de abril del año en curso, respectivamente; así como con el Decreto número cinco expedido por el Ciudadano Gobernador Preconstitucional del Estado, el dieciséis de abril de mil novecientos diecisiete, decreta la siguiente:
+
+> <small>[N. DE E. DE CONFORMIDAD A LO DISPUESTO EN EL TRANSITORIO SEXTO DEL DECRETO DE REFORMAS A LA PRESENTE CONSTITUCIÓN, PUBLICADO EN LA G.G. DE 28 DE JULIO DE 2016, TODAS LAS REFERENCIAS QUE EN LA LEGISLACIÓN, NORMATIVIDAD Y CONVENIOS SE HAGAN A LA PROCURADURÍA GENERAL DE JUSTICIA SE TENDRÁN POR HECHAS A LA FISCALÍA GENERAL DE JUSTICIA, SALVO QUE SE CONTRAPONGAN AL PRESENTE DECRETO, CASO EN EL CUAL SE ENTENDERÁN HECHAS A FAVOR DE LA DEPENDENCIA, ENTIDAD O PERSONA A LA QUE COMPETA DICHA ATRIBUCIÓN O FACULTAD.]</small>
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
@@ -269,11 +271,13 @@ Las leyes del Estado no podrán establecer sanciones que priven de la vida a las
 
 No se considerará confiscación la aplicación, el decomiso o la extinción del dominio de bienes que se haga de conformidad con el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 28 DE JULIO DE 2016)</small>
 
 ###### Artículo 8.
 
-Nadie estará exceptuado de las obligaciones que las leyes le impongan, salvo en los casos de riesgo, siniestro o desastre, en cuya situación el Gobernador del Estado de acuerdo con los titulares de las secretarías del Poder Ejecutivo y el Procurador General de Justicia, acordará la aplicación de las normas necesarias para hacerles frente, pero éstas deberán ser por un tiempo limitado y de carácter general y únicamente por lo que hace a las zonas afectadas.
+Nadie estará exceptuado de las obligaciones que las leyes le impongan, salvo en los casos de riesgo, siniestro o desastre, en cuya situación el Gobernador del Estado de acuerdo con los titulares de las secretarías del Poder Ejecutivo dictará los acuerdos necesarios para hacer frente a la contingencia, los cuales deberán ser por un tiempo limitado y de carácter general y únicamente por lo que hace a las zonas afectadas; el Fiscal General de Justicia únicamente tendrá voz.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -1585,7 +1589,9 @@ XXV. Dictar las disposiciones necesarias para la instalación y funcionamiento d
 
 XXVI. Prestar apoyo a los poderes Legislativo y Judicial y a los ayuntamientos, cuando le sea solicitado, para el ejercicio de sus funciones;
 
-XXVII. Cumplir con las previsiones constitucionales relativas al Ministerio Público;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+XXVII. (DEROGADA, G.G. 28 DE JULIO DE 2016)
 
 XXVIII. Conducir y administrar los ramos de la administración pública del gobierno del Estado, dictando y poniendo en ejecución las políticas correspondientes mediante las acciones públicas y los procedimientos necesarios para este fin;
 
@@ -1693,51 +1699,117 @@ El Secretario General de Gobierno y los demás titulares de las dependencias del
 
 #### SECCION TERCERA. Del Ministerio Público y de la Seguridad Pública
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.G. 28 DE JULIO DE 2016)</small>
 
 ###### Artículo 81.
 
-Corresponde al ministerio público y a las policías la investigación de los delitos y a aquél, el ejercicio de la acción penal. Los particulares podrán ejercer la acción penal ante la autoridad judicial en los casos previstos en la ley.
+La investigación de los delitos corresponde al Ministerio Público y a las policías, las cuales actuarán bajo la conducción y mando de aquél en el ejercicio de esta función.
 
-Las policías actuarán bajo la conducción y mando del ministerio público en la investigación de los delitos.
+La persecución de los delitos y la decisión del ejercicio de la acción penal ante los órganos jurisdiccionales corresponden, en forma autónoma, al Ministerio Público. Los particulares podrán ejercer la acción penal ante la autoridad judicial y hacer la persecución del delito en los casos previstos en la ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Las policías del Estado auxiliarán al Ministerio Público en el cumplimiento de sus atribuciones.
 
-> <small>(REFORMADO, G.G. 27 DE NOVIEMBRE DE 2014)</small>
+Todas las autoridades del Estado y los municipios, deben cumplir los requerimientos del Ministerio Público en ejercicio de sus atribuciones.
 
-El Ministerio Público podrá aplicar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que establezca el Código Nacional de Procedimientos Penales.
+El Ministerio Público solicitará las medidas cautelares contra los imputados y providencias precautorias, buscará y presentará las pruebas que acrediten la participación de éstos en hechos que las leyes señalen como delitos, aplicará medidas de protección, procurará que los procesos en materia penal se sigan con regularidad para que la impartición de justicia sea pronta y expedita, pedirá la aplicación de las penas e intervendrá en todos los asuntos que la Ley determine.
 
-> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2012)</small>
+Asimismo, podrá aplicar mecanismos alternativos de solución de controversias, criterios de oportunidad para el ejercicio de la acción penal y formas anticipadas de terminación del procedimiento, en los supuestos y condiciones que establezcan las leyes.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 28 DE JULIO DE 2016)</small>
 
 ###### Artículo 82.
 
-El Ministerio Público hará efectivos los derechos del Estado y en los casos previstos por la ley intervendrá en los juicios que afecten a quienes se otorgue especial protección, así como también en los procedimientos de ejecución de sentencias.
+El Ministerio Público hará efectivos los derechos del Estado en los casos que incidan en el ámbito de su competencia y en los casos previstos por la ley intervendrá en los juicios que afecten a quienes se otorgue especial protección, así como también en los procedimientos de ejecución de sentencias penales.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 28 DE JULIO DE 2016)</small>
 
 ###### Artículo 83.
 
-El Ministerio Público estará a cargo de un Procurador General de Justicia y de un Subprocurador General, así como de los subprocuradores y agentes del Ministerio Público auxiliados por el personal que determine la Ley Orgánica respectiva.
+El Ministerio Público se integra en una Fiscalía General de Justicia, órgano público autónomo, dotado de personalidad jurídica y patrimonio propios con autonomía presupuestal, técnica y de gestión, así como con capacidad para decidir sobre el ejercicio de su presupuesto, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las demás leyes aplicables, la cual estará a cargo de un Fiscal General.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+La ley establecerá las bases para la formación y profesionalización de los servidores públicos de la Fiscalía General de Justicia, así como para el desarrollo del servicio de carrera, el cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+
+Los servidores públicos de la Fiscalía General del Estado de México, se regirán por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 28 DE JULIO DE 2016)</small>
+
+###### Artículo 83 Bis.
+
+La Fiscalía General de Justicia será responsable de definir las políticas, lineamientos y visión estratégica para el cumplimiento de sus atribuciones, en los términos que establezca su Ley y los demás ordenamientos jurídicos aplicables.
+
+Las policías se ajustarán a las políticas y lineamientos generales que emita la Fiscalía General de Justicia para la investigación y persecución de delitos.
+
+Su organización se regirá por los ejes de desconcentración territorial y especialización, de manera que otorgue el mejor servicio a los habitantes del Estado.
+
+Asimismo contará con las unidades administrativas necesarias para el ejercicio de sus funciones, de conformidad con las normas aplicables y la disponibilidad presupuestal.
+
+La Fiscalía General de Justicia contará con las fiscalías en materia de delitos electorales y anticorrupción, cuyos titulares serán nombrados y removidos por el Fiscal General y estarán jerárquicamente subordinados a éste.
+
+El nombramiento y la remoción referidos podrán ser objetados por el voto de las dos terceras partes de los miembros presentes de la Legislatura del Estado en el plazo de diez días hábiles, a partir de la notificación de éstos.
+
+Si la Legislatura se encontrará en receso, la Diputación Permanente convocará de inmediato a la Legislatura del Estado, a un periodo extraordinario, para objetar la designación o remoción, de conformidad con el procedimiento establecido.
+
+Si la Legislatura del Estado no se pronunciare y notificare su decisión durante el plazo referido, se entenderá que no tiene objeción.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 28 DE JULIO DE 2016)</small>
+
+###### Artículo 83 Ter.
+
+El Fiscal General durará en su cargo nueve años y será designado y removido conforme al siguiente procedimiento:
+
+A partir de la ausencia definitiva del Fiscal General, la Legislatura contará con un plazo improrrogable de veinte días naturales para integrar y enviar al Ejecutivo una lista de hasta diez candidatos al cargo, que surgirá del dictamen que emita la Legislatura de acuerdo al procedimiento que se establezca en la Ley, la cual deberá ser aprobada por las dos terceras partes de los miembros presentes en el Pleno de la Legislatura del Estado.
+
+Recibida la lista a que se refiere el párrafo anterior, dentro de los diez días siguientes el Ejecutivo formulará una terna y la enviará a la consideración de la Legislatura.
+
+Si el Ejecutivo no recibe la lista en el plazo antes señalado, enviará libremente a la Legislatura una terna y designará provisionalmente al Fiscal General, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, el Fiscal General designado podrá formar parte de la terna.
+
+La Legislatura, con base en la terna y previa comparecencia de las personas propuestas, designará al Fiscal General con el voto de las dos terceras partes de los miembros presentes dentro del plazo de diez días.
+
+En caso que el Ejecutivo no envíe la terna a que se refiere el párrafo anterior, la Legislatura tendrá diez días para designar al Fiscal General de entre los candidatos de la lista a que se refiere este artículo.
+
+Si la Legislatura no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo designará al Fiscal General de entre los candidatos que integren la lista o, en su caso, la terna respectiva.
+
+El Fiscal General presentará anualmente a los Poderes Legislativo y Ejecutivo del Estado un informe de actividades y comparecerá ante la Legislatura del Estado cuando se le cite a rendir cuentas o a informar sobre su gestión.
+
+El Fiscal General presentará de manera directa a la Legislatura su proyecto de presupuesto, para su incorporación al Presupuesto de Egresos de cada Ejercicio Fiscal, el cual no podrá ser reducido respecto del autorizado para el ejercicio anterior.
+
+El Fiscal General y sus agentes serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 28 DE JULIO DE 2016)</small>
 
 ###### Artículo 84.
 
-Para ser Procurador General de Justicia se requiere:
+Para ser Fiscal General de Justicia se requiere:
 
-I. Ser mexicano por nacimiento y vecino del Estado, con una residencia efectiva no menor de tres años, en pleno goce de sus derechos;
+I. Ser mexicano por nacimiento y vecino del Estado, mínimo por dos años al día de su designación, en pleno goce de sus derechos;
 
-II. Tener más de 30 años de edad;
+II. Tener cuando menos 35 años de edad cumplidos al día de su designación;
 
-III. Poseer título de licenciado en derecho expedido por autoridad legalmente facultada para ello y tener por lo menos cinco años de ejercicio profesional;
+III. Poseer título de licenciado en derecho expedido por institución educativa legalmente facultada para ello y tener por lo menos diez años de ejercicio profesional;
 
-IV. No haber sido condenado por sentencia ejecutoria por delitos intencionales que ameriten pena privativa de la libertad; y
+IV. No haber sido condenado por sentencia ejecutoria por delitos dolosos que ameriten pena privativa de la libertad;
 
-V. Ser de honradez y probidad notorias.
+V. Ser honrado y gozar de buena reputación; y
 
-El Gobernador del Estado designará al Procurador General de Justicia, pero el nombramiento deberá ser ratificado por la Legislatura, con el voto de las dos terceras partes de los diputados presentes. En el caso de que el nombramiento sea rechazado, el Ejecutivo hará un segundo que podrá ser aprobado con el voto de la mayoría simple.
+VI. Tener experiencia en la investigación y persecución de los delitos, así como en la administración pública.
+
+El Fiscal General podrá ser removido por el Ejecutivo Estatal por las causas graves que establezca la ley. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes de la Legislatura del Estado dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General será restituido en el ejercicio de sus funciones. Si la Legislatura no se pronuncia al respecto, se entenderá que no existe objeción.
+
+En los recesos de la Legislatura del Estado, su Diputación Permanente la convocará de inmediato a sesiones extraordinarias para la designación o formulación de objeción a la remoción del Fiscal General.
+
+Las ausencias del Fiscal General serán suplidas en los términos que determine la ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1903,7 +1975,11 @@ IV. Poseer título profesional de licenciado en derecho expedido por las institu
 
 V. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratara de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público inhabilitará para el cargo, cualquiera que haya sido la pena; y
 
-VI. No ser Secretario del despacho, Procurador General de Justicia del Estado, Senador, Diputado federal o local, o Presidente Municipal, a menos que se separe de su puesto un año antes del día de su designación.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 28 DE JULIO DE 2016)</small>
+
+VI. No haber ocupado el cargo de Secretario del despacho, Fiscal General de Justicia, Senador, Diputado federal o local, o Presidente Municipal, a menos que se separe de su puesto un año antes del día de su designación.
 
 > <small>(REFORMADO, G.G. 25 DE JULIO DE 2007)</small>
 
@@ -2443,11 +2519,13 @@ Para los efectos de las responsabilidades a que alude este título, se considera
 
 La Ley de Responsabilidades regulará sujetos, procedimientos y sanciones en la materia.
 
-> <small>(REFORMADO, G.G. 8 DE JUNIO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 28 DE JULIO DE 2016)</small>
 
 ###### Artículo 131.
 
-Los diputados de la Legislatura del Estado, los magistrados y los integrantes del Consejo de la Judicatura del Tribunal Superior de Justicia, los magistrados del Tribunal de lo Contencioso Administrativo, los titulares de las dependencias del Poder Ejecutivo y el Procurador General de Justicia y los integrantes de los órganos superiores de los organismos a los que la presente Constitución les otorga autonomía son responsables de los delitos graves del orden común que cometan durante su encargo y de los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones. El Gobernador lo será igualmente, pero durante el período de su ejercicio sólo podrá ser acusado por delitos graves del orden común y por delitos contra la seguridad del Estado.
+Los diputados de la Legislatura del Estado, los magistrados y los integrantes del Consejo de la Judicatura del Tribunal Superior de Justicia, los magistrados del Tribunal de lo Contencioso Administrativo, los titulares de las dependencias del Poder Ejecutivo y el Fiscal General de Justicia y los integrantes de los órganos superiores de los organismos a los que la presente Constitución les otorga autonomía, son responsables de los delitos graves del orden común que cometan durante su encargo y de los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones. El Gobernador lo será igualmente, pero durante el período de su ejercicio sólo podrá ser acusado por delitos graves del orden común y por delitos contra la seguridad del Estado.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -4180,3 +4258,39 @@ SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 TERCERO. El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México deberá realizar las modificaciones correspondientes a la normatividad del Organismo, dentro de los ciento veinte días hábiles siguientes a la entrada en vigor de este Decreto.
 
 CUARTO. Se dejan sin efecto las disposiciones que se opongan al presente decreto.
+
+G.G. 28 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 104.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 8, 81, 82, 83, 84, 91 EN SU FRACCIÓN VI y 131. SE ADICIONAN LOS ARTÍCULOS 83 BIS, 83 TER. SE DEROGAN LA FRACCIÓN XXVII DEL ARTÍCULO 77 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor en la misma fecha en que lo hagan las normas secundarias necesarias que expida la Legislatura por virtud de las adiciones, reformas y derogaciones a que se refiere el presente Decreto, siempre que se haga por el propio Poder Legislativo la declaratoria expresa de entrada en vigor de la autonomía constitucional de la Fiscalía General de Justicia.
+
+El Gobernador del Estado, una vez que entren en vigor las normas secundarias necesarias expedidas por la Legislatura, enviará a ésta, una terna, en la que se incluirá al titular actual de la Procuraduría General de Justicia, para nombrar al Fiscal General. En caso de que el titular actual de la Procuraduría General de Justicia resultare electo, éste fungirá en su encargo por única ocasión por siete años, salvo los casos establecidos en el presente Decreto.
+
+TERCERO. La Ley de la materia fijará las fiscalías y vicefiscalías regionales y especializadas, órganos de supervisión y control interno, unidades de policía científica, de servicios periciales, de justicia restaurativa y demás unidades administrativas para el ejercicio de sus funciones, de conformidad con las normas aplicables y la disponibilidad presupuestal.
+
+La designación de los fiscales en materia de delitos electorales y de combate a la corrupción, se realizará dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto, conforme lo dispuesto en la Ley de Fiscalía General de Justicia.
+
+CUARTO. A partir de la entrada en vigor de las reformas a que se refiere el artículo SEGUNDO transitorio, los recursos humanos, presupuestales, financieros y materiales de la Procuraduría General de Justicia pasarán a la Fiscalía General de Justicia.
+
+Los recursos humanos operativos para ingresar al servicio de carrera, deberán cumplir los requisitos de permanencia que se establezcan en la Ley de la Fiscalía para ingresar a la nueva Institución en los dos años siguientes a la entrada en vigor del presente Decreto, de lo contrario se ordenará su separación, o reasignación de las plazas si esto fuese posible, en este último caso, el Gobierno del Estado deberá dotarle al órgano autónomo la disponibilidad presupuestal para la creación de plazas equivalentes a las del personal que se reasigna dentro de los treinta días hábiles siguientes a que la Fiscalía le notifique el resultado de la evaluación a la Secretaría de Finanzas, a efecto de no reducir su estado de fuerza ni impactar el presupuesto del nuevo órgano.
+
+Todo el personal de la Fiscalía General será operativo, conforme la Ley de la Fiscalía, por lo que no tendrá personal de base. La Secretaría de Finanzas del Estado deberá dotarle al órgano autónomo de suficiencia presupuestal para crear las plazas operativas en el mismo número de las reasignadas para no afectar sus funciones.
+
+Asimismo, estará sujeto al control de confianza conforme la normatividad aplicable. La relación de la Fiscalía con sus servidores públicos será de carácter administrativo, en términos de lo dispuesto por el artículo 123, apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos.
+
+QUINTO. Los procedimientos substanciados en la Procuraduría General de Justicia y los asuntos que deba asumir la Fiscalía General de Justicia serán atendidos de inmediato por el personal que sea transferido a la misma.
+
+Los asuntos que sean de la Procuraduría General de Justicia del Estado de México, serán distribuidos por el Fiscal General, en términos de las disposiciones que se emitan.
+
+SEXTO. Todas las referencias que en la legislación, normatividad y convenios se hagan a la Procuraduría General de Justicia se tendrán por hechas a la Fiscalía General de Justicia, salvo que se contrapongan al presente Decreto, caso en el cual se entenderán hechas a favor de la dependencia, entidad o persona a la que competa dicha atribución o facultad.
+
+SÉPTIMO. Conforme a las disposiciones aplicables, el régimen presupuestario del organismo creado en los términos del presente Decreto, deberá garantizar la libre administración, la no transferencia y la suficiencia de recursos públicos. Lo anterior, para que el órgano esté en condiciones de dar cumplimiento a los planes y programas que formule en observancia de su Ley.
+
+La Fiscalía General de Justicia tendrá sus propios recursos para el servicio de carrera de su personal, desde la formación inicial hasta la profesionalización.
+
+OCTAVO. La Legislatura del Estado deberá aprobar los recursos necesarios para la correcta transición de la Procuraduría General de Justicia como dependencia del Ejecutivo Estatal a la Fiscalía General de Justicia como órgano autónomo. Las partidas presupuestales deberán señalarse de manera inmediata en el presupuesto de egresos siguiente al ejercicio fiscal en que entre en vigor el presente Decreto. Este presupuesto deberá destinarse al diseño y planeación estratégica, los cambios organizacionales y de gestión, la construcción y operación de la infraestructura, el equipamiento y las tecnologías de la información y comunicación propias del órgano autónomo y la profesionalización necesaria para agentes del Ministerio Público, policías peritos, facilitadores de mecanismos alternativos y demás personal de la Institución.
+
+Se destinarán los recursos necesarios para la instalación y operación de la Fiscalía General de Justicia para el año de su entrada en vigor.
