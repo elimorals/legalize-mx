@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2016-03-18"
+last_updated: "2016-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -1549,9 +1549,9 @@ I.- Cumplir con lo dispuesto en el artículo 3o. de la Constitución Política d
 
 II.- Cumplir con los planes y programas de estudio que las autoridades educativas competentes hayan determinado o considerado procedentes.
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
 
-III.- Proporcionar un mínimo del 5% de becas de la población escolar inscrita en los establecimientos educativos particulares de conformidad con el reglamento respectivo. Las becas que las escuelas particulares concedan a los hijos o familiares de sus trabajadores no deberán considerarse dentro del porcentaje a otorgar. El porcentaje a otorgar se podrá distribuir en becas completas o parciales, no menores del 25% del costo de la colegiatura. Las becas serán otorgadas en los términos que fijen las autoridades administrativas del plantel, en coordinación con la asociación de padres de familia y debidamente sancionadas por la autoridad competente.
+III.- Proporcionar un mínimo de 5% de becas a la población inscrita en los establecimientos educativos particulares de conformidad con el reglamento respectivo. Las becas que las escuelas particulares concedan a los hijos o familiares de sus trabajadores no deberán de considerarse dentro del porcentaje a otorgar. El porcentaje a otorgar se podrá distribuir en becas completas o parciales, no menores del 25% del costo de la colegiatura. Las becas serán otorgadas en los términos que fijen las autoridades administrativas del plantel, procurando aplicar criterios de equidad entre hombres y mujeres, en coordinación con la asociación de padres de familia y debidamente sancionadas por la autoridad competente.
 
 IV.- Rendir semestralmente las estadísticas correspondientes a la Secretaría de Educación y Bienestar Social respecto a la organización, administración, escolaridad y aspectos técnicos de las instituciones, y
 
@@ -2076,3 +2076,9 @@ P.O. 18 DE MARZO DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Ejecutivo del Estado, deberá formular la estructura administrativa para la creación de las áreas necesarias para el cumplimiento de este Decreto y la modificación de los reglamentos respectivos para el cabal cumplimiento de la presente reforma, en un plazo máximo de 180 días.
+
+P.O. 29 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 516 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL TERCER PÁRRAFO DEL ARTÍCULO 78 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
