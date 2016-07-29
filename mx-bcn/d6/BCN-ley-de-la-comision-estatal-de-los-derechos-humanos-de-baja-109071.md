@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-comision-estatal-de-los-derechos-humanos-de-baja-1090
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-10"
-last_updated: "2015-07-10"
+last_updated: "2016-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 10 de julio de 2015.
 
@@ -361,9 +361,15 @@ IX.- Las demás que le señale la presente Ley, el Presidente de la Comisión y 
 
 ### CAPÍTULO SÉPTIMO. DEL PROCEDIMIENTO ANTE LA COMISIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2016)</small>
+
 ###### Artículo 26.
 
-Las personas físicas o morales, afectadas en sus derechos humanos o en los de sus integrantes, o cualquier persona que tenga conocimiento de presuntas violaciones a los derechos humanos, podrán ocurrir ante la Comisión a presentar directamente o por medio de sus representantes, las quejas o denuncias respectivas.
+Las personas físicas o morales, afectadas en sus derechos humanos o en los de sus integrantes, o cualquier persona que tenga conocimiento de presuntas violaciones a los derechos humanos, podrán ocurrir ante la Comisión a presentar directamente o por medio de sus representantes, las quejas o denuncias respectivas. Tratándose de menores de edad podrán presentarla sin necesidad de que a su nombre las formule un representante cuando se ponga en peligro su vida, libertad o integridad física, esto en atención a la protección del interés superior de los derechos (sic) niñas, niños y adolescentes que marca la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de la materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2016)</small>
+
+En este último caso la Comisión hará de forma inmediata del conocimiento a las personas que ejerzan la patria potestad, tutela guarda o custodia de los menores sobre la denuncia presentada para los efectos conducentes, exceptuando cuando se trate que el denunciado sea quien ejerza la patria potestad o tutela.
 
 Bajo ninguna circunstancia se le negará al Presidente o a los Visitadores Generales el acceso a personas, dependencias o documentos que a su juicio sean relevantes en las investigaciones que realicen en el desempeño de sus funciones, salvo lo previsto en diversos ordenamientos aplicables.
 
@@ -694,3 +700,11 @@ GOBERNADOR DEL ESTADO
 FRANCISCO RUEDA GÓMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 523 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 26 DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
