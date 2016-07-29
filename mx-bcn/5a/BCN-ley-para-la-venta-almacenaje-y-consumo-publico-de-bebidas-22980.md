@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-22980
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2013-08-30"
+last_updated: "2016-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -123,6 +123,10 @@ b).- Bebidas alcohólicas fermentadas.- Las bebidas alcohólicas producto de la 
 
 c).- Cervezas.- Las bebidas fermentadas elaboradas con malta de cebada, lúpulo, levadura y agua o con infusiones de cualquier semilla farinácea procedente de gramíneas o leguminosas, raíces o frutos feculentos o azúcares como adjuntos de la malta, con adición de lúpulo o sucedáneos de éste y cuyo contenido de alcohol a la temperatura de quince grados centígrados, sea mayor a dos por ciento por volumen pero que no exceda de doce por ciento por volumen;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2016)</small>
+
+Dentro de esta categoría se comprende la cerveza artesanal, entendiéndose por esta, la bebida fermentada elaborada principalmente con malta de cebada, lúpulo, levadura y agua potable, no utilizando productos transgénicos ni aditivos químicos que alteren su composición y desarrollo natural en su proceso de fermentación, cuyo contenido de alcohol a la temperatura de quince grados centígrados, sea mayor a dos por ciento por volumen, pero que no exceda de doce por ciento por volumen.
+
 d).- Licores.- Las bebidas alcohólicas producto de la destilación de hierbas, frutas, granos o esencias, cuyo contenido de alcohol por volumen a la temperatura de quince grados centígrados, sea mayor del veinte por ciento pero que no exceda del cincuenta y cinco por ciento;
 
 e).- Vinos generosos.- Las bebidas alcohólicas elaboradas con no menos de setenta y cinco por ciento de vino de uva fresca o vino de uva pasa en generosos dulces o no menos de noventa por ciento de vino de uva fresca o vino de uva pasa en generosos secos y que además del alcohol procedente de su fermentación, se adiciona de alcohol de calidad o común o aguardiente de uva y azúcar y cuyo contenido de alcohol por volumen a la temperatura de quince grados centígrados, sea de quince por ciento pero que no exceda de veinte por ciento; y
@@ -152,6 +156,10 @@ a).- Establecimientos susceptibles de ser autorizados para la venta de bebidas a
 5).- Licorería.- Establecimiento mercantil cuya actividad es la venta de bebidas alcohólicas en envase cerrado al menudeo y mercancías relacionadas con su consumo externo; y
 
 6).- Depósito.- Establecimiento mercantil cuya actividad exclusiva sea la venta en envase cerrado de bebidas alcohólicas clasificadas en los incisos a), c), e) y f), de la fracción V, de este artículo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2016)</small>
+
+7).- Boutique de Cerveza Artesanal.- Establecimiento mercantil especializado en la venta de cerveza artesanal, hecha en México, en envase cerrado al menudeo, mercancías relacionadas con su consumo externo.
 
 b).- Establecimientos susceptibles de ser autorizados para la actividad de almacenaje para su venta:
 
@@ -184,6 +192,18 @@ d).- Establecimientos susceptibles de ser autorizados para la venta para consumo
 8).- Café Cantante.- Establecimiento mercantil cuya actividad exclusiva es proporcionar esparcimiento mediante música en vivo o grabada, espectáculos artísticos y pista de baile; y
 
 9).- Centro de Espectáculos.- Establecimiento mercantil cuya actividad exclusiva es proporcionar esparcimiento mediante la presentación de espectáculos públicos y que cuente con las instalaciones para tal efecto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2016)</small>
+
+10).- Sala de degustación para la venta exclusiva de cerveza artesanal.- Establecimiento mercantil cuya actividad exclusiva es la venta para consumo de cerveza artesanal hecha en México con o sin alimentos y que cuente con música grabada o en vivo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2016)</small>
+
+e).- Establecimiento susceptible de ser autorizado para almacenaje, distribución y venta para el consumo de cerveza artesanal en envase abierto y cerrado, con o sin alimentos:
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2016)</small>
+
+1.- Microcervecería.- Se entiende aquel establecimiento independiente donde se produce y almacena para su distribución y venta, cerveza artesanal, de producción propia así como un diverso productor de cerveza artesanal, y cuenta con sala de degustación con música en vivo o grabada, área en el interior o exterior para dar servicio, autorizado en los términos de la normatividad aplicable.
 
 X.- Permiso.- La autorización por escrito que expide la autoridad competente para realizar la actividad de venta, almacenaje para su venta o venta para consumo de bebidas con graduación alcohólica;
 
@@ -227,9 +247,11 @@ El Consejo nombrará de entre sus miembros ciudadanos, a un representante en cal
 
 En el Reglamento se establecerá la organización y funcionamiento del consejo.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 9.
 
-De la zonificación.- Para la expedición de permisos que autoricen cualesquiera de las actividades, los municipios deberán observar la zonificación de usos de suelo compatibles con las actividades relativas a la venta, almacenaje para su venta o venta para consumo de bebidas alcohólicas, con el fin de desalentar la proliferación e intensidad de uso de estos establecimientos o giros en zonas escolares, residenciales o industriales, o próximas a éstas.
+De la zonificación.- Para la expedición de permisos que autoricen cualquiera de las actividades, los Municipios deberán observar la zonificación de usos de suelo compatible con las actividades relativas a la producción para su venta, venta, almacenaje para su venta o venta para consumo de bebidas alcohólicas, con el fin de desalentar la proliferación e intensidad de uso de estos establecimientos o giros en zonas escolares, residenciales o industriales o próximas a estas.
 
 ### CAPÍTULO TERCERO. DE LOS PERMISOS MUNICIPALES
 
@@ -246,6 +268,10 @@ Los permisos permanentes serán otorgados por acuerdo de Cabildo del Ayuntamient
 La expedición de los permisos y la autorización de servicios adicionales, así como la modificación y revalidación anual de los mismos y los demás trámites que se generen con motivo de la aplicación de esta Ley y los reglamentos Municipales, causarán los derechos que determinen las Leyes de Ingresos Municipales correspondientes, excepto cuando la actividad solicitada se refiera exclusivamente al establecimiento o giro de restaurante con venta para consumo con alimentos, de vinos de mesa de producción nacional. En este caso, el permiso que se otorgue contendrá la condición de que el permisionario únicamente venda para consumo o almacene en el establecimiento, vinos de mesa que lleven impreso en su etiqueta la leyenda "Hecho en México", perdiendo el beneficio al momento de vender, almacenar o permitir el consumo de cualquier otro tipo de bebida alcohólica o vinos de mesa de origen distinto al Mexicano.
 
 La actividad se autorizará en los establecimientos que reúnan los requisitos de uso de suelo, de impacto social, de salud, de presentación, de seguridad y de construcción, previstos en las leyes y reglamentos respectivos, así como en esta ley y la reglamentación municipal de la materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2016)</small>
+
+A fin de impulsar el desarrollo económico generado por el sector de la cerveza artesanal de Baja California, se procurará el otorgamiento de permisos a precio preferencial para “Microcervecería” “Sala de degustación para la venta exclusiva de cerveza artesanal” y “boutique de cerveza artesanal”, con base a lo dispuesto en las leyes y reglamentos municipales.
 
 ###### ARTÍCULO 11.
 
@@ -313,7 +339,7 @@ I.- Permitir el acceso en cualquier día y hora hábil del establecimiento o gir
 
 II.- Adoptar las medidas necesarias para evitar el ingreso al establecimiento de personas menores de dieciocho años de edad, exhibiendo en los lugares visibles al exterior, la prohibición expresa, excepto en establecimientos con permiso expedido exclusivamente para el giro de restaurante o fonda;
 
-III.- Adoptar y mantener en óptimas condiciones, las medidas de seguridad e higiene que la autoridad municipal le determine, y (sic)
+III.- Adoptar y mantener en óptimas condiciones, las medidas de seguridad e higiene que la autoridad municipal le determine, y
 
 IV.- Mostrar las constancias correspondientes a los permisos y autorizaciones, conforme le sea requerido por las autoridades.
 
@@ -343,7 +369,7 @@ II.- Se propicie el consumo inmoderado de bebidas con graduación alcohólica y 
 
 III.- Se deteriore la calidad de vida de un determinado asentamiento humano;
 
-IV.- Se propicie la observación de conductas perniciosas para menores de edad o se perturbe la tranquilidad de los vecinos que asistan a algún establecimiento educativo, de salud, centro deportivo, religioso, recreativo u otros de reunión de menores, de conformidad con las condiciones que se establezcan en la reglamentación Municipal, y (sic)
+IV.- Se propicie la observación de conductas perniciosas para menores de edad o se perturbe la tranquilidad de los vecinos que asistan a algún establecimiento educativo, de salud, centro deportivo, religioso, recreativo u otros de reunión de menores, de conformidad con las condiciones que se establezcan en la reglamentación Municipal, y
 
 > <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
@@ -457,7 +483,7 @@ V.- Por no permitir el ingreso al establecimiento o giro, a los inspectores comi
 
 VI.- Por actos graves que realicen el permisionario, los encargados, empleados o sus dependientes, dentro o fuera del establecimiento o giro y que pongan en peligro la seguridad personal de los asistentes o se altere el orden público;
 
-VII.- Por no informar a la autoridad municipal, de la suspensión de actividades o el cambio de denominación del establecimiento o giro; y (sic)
+VII.- Por no informar a la autoridad municipal, de la suspensión de actividades o el cambio de denominación del establecimiento o giro; y
 
 > <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
@@ -632,3 +658,11 @@ P.O. 30 DE AGOSTO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 29 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 506 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 6, 9 Y 10 DE LA LEY PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el periódico oficial, del Estado de Baja California.
+
+SEGUNDO.- Los H. Ayuntamientos de los Municipios del Estado de Baja California, cuentan con un plazo de 60 días para realizar las adecuaciones a sus correspondientes reglamentos conforme a esta Reforma.
