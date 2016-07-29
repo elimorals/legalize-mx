@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-juventud-del-estado-de-baja-california-82158"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-11"
-last_updated: "2016-04-08"
+last_updated: "2016-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el lunes 11 de julio de 2011.
 
@@ -341,6 +341,10 @@ Lo anterior bajo las consideraciones de la igualdad de oportunidades y trato, en
 
 El Estado y los Municipios contemplarán en sus planes y programas de gobierno estrategias y líneas de acción para impulsar el empleo juvenil, bolsas de trabajo, capacitación laboral, financiamiento para proyectos productivos, el autoempleo, así como políticas públicas en coordinación con el Gobierno Federal, que promuevan la oportunidad de trabajo para los jóvenes.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2016)</small>
+
+En los referidos planes y programas también se buscará otorgar apoyos para jóvenes estudiantes que durante sus periodos vacacionales desarrollen actividades sociales y comunitarias.
+
 ###### ARTÍCULO 36.
 
 Las políticas de empleo juvenil que formulen el Estado y los Municipios dirigidas a jóvenes menores de edad, deberán observar las normas de protección especial y supervisión exhaustiva que impone la legislación nacional e internacional.
@@ -354,6 +358,10 @@ El Estado y los Municipios fomentaran el desarrollo de políticas públicas que 
 Las funciones que desempeñe un empleado joven en su primer empleo deberán ser adecuadas al nivel de formación y preparación académica.
 
 Las empresas que contraten a jóvenes en la modalidad de primer empleo recibirán los beneficios y estímulos económicos que señale la normatividad fiscal y económica.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2016)</small>
+
+De igual forma se proporcionarán los beneficios económicos y estímulos que al efecto señale la normatividad fiscal y económica, a las empresas que proporcionen empleos temporales a jóvenes estudiantes durante sus periodos vacacionales.
 
 ###### ARTÍCULO 38.
 
@@ -709,19 +717,43 @@ VIII.- Un representante de la Secretaría de Educación y Bienestar Social;
 
 IX.- Un representante de la Secretaría de Protección al Ambiente;
 
-X.- Un representante del Instituto del Deporte y la Cultura Física;
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
-XI.- Un representante por cada uno de los Municipios;
+X.- Un representante de la Secretaría de Planeación y Finanzas;
 
-XII.- Tres representantes de instituciones académicas de los niveles medio superior y superior de los sectores público y privado que deseen participar;
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
-XIII.- Cinco representantes de organizaciones juveniles del Estado;
+XI.- Un representante de la Secretaría de Desarrollo Económico;
 
-XIV.- Un representante del sector económico y productivo que tenga participación activa y directa en el desarrollo de políticas y programas para jóvenes;
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
-XV.- Tres representantes de organismos de la sociedad civil organizada que realicen actividades de respaldo, impulso, apoyo o fortalecimiento (sic) los jóvenes, y
+XII.- Un representante del Instituto del Deporte y la Cultura Física;
 
-XVI.- Dos jóvenes que se hayan destacado en cualquiera de los ámbitos artístico, educativo, cultural, deportivo, social, profesional o ambiental.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
+
+XIII.- Un representante por cada uno de los Municipios;
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
+
+XIV.- Tres representantes de instituciones académicas de los niveles medio superior y superior de los sectores público y privado que deseen participar;
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
+
+XV.- Cinco representantes de organizaciones juveniles del Estado;
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
+
+XVI.- Un representante del sector económico y productivo que tenga participación activa y directa en el desarrollo de políticas y programas para jóvenes;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2016)</small>
+
+XVII.- Tres representantes de organismos de la sociedad civil organizada que realicen actividades de respaldo, impulso, apoyo o fortalecimiento los jóvenes, y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2016)</small>
+
+XVIII.- Dos jóvenes que se hayan destacado en cualquiera de los ámbitos artístico, educativo, cultural, deportivo, social, profesional o ambiental.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 29 DE JULIO DE 2016)</small>
 
 A las sesiones del Consejo podrán asistir como invitados con derecho a voz, otras instancias de gobierno, organismos privados y estudiantes, así como especialistas e investigadores en materia de juventud que por sus conocimientos y aportaciones puedan contribuir al cumplimiento de sus funciones, previa convocatoria por el Director.
 
@@ -731,9 +763,11 @@ El Consejo sesionará cuando menos dos veces al año de manera ordinaria y de ma
 
 Los acuerdos del Consejo se tomarán por mayoría de los presentes; en caso de empate, el Presidente ejercerá su voto de calidad. De cada sesión del Consejo se levantará el acta correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 70.
 
-Para la elección de los consejeros previstos en las fracciones XII, XIII, XIV, XV y XVI del artículo 68 de la presente Ley, el Instituto emitirá una convocatoria pública que establezca las bases, lineamientos y requisitos que regirán dicha elección, atendiendo a criterios de representatividad y desempeño.
+Para la elección de los consejeros previstos en las fracciones XIV, XV, XVI, XVII y XVIII del artículo 68 de la presente ley, el Instituto emitirá una convocatoria pública que establezca las bases, lineamientos y requisitos que regirán dicha elección, atendiendo a criterios de representatividad y desempeño.
 
 Dichos consejeros durarán en sus cargos cuatro años y podrán ser removidos por faltar sin causa justificada a tres sesiones continuas.
 
@@ -1021,7 +1055,13 @@ XX.- Promover el uso óptimo del tiempo libre de los jóvenes, ampliando sus esp
 
 XXI.- Recibir y canalizar propuestas y sugerencias e inquietudes de la juventud a los organismos públicos, privados y sociales que correspondan;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 29 DE JULIO DE 2016)</small>
+
 XXII.- Impulsar ante las autoridades educativas, el ingreso de los jóvenes a la educación básica, media superior y superior, alentando y estimulando su permanencia a través de la gestión de becas, créditos y apoyos que les permitan dar continuidad a su formación educativa;
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2016)</small>
+
+En la gestión de becas, créditos y apoyos se observarán los criterios que aseguren la transparencia, la ayuda preferente a grupos vulnerables, así como la no discrecionalidad.
 
 XXIII.- Fomentar y difundir entre los jóvenes el acceso a nuevas tecnologías de información y comunicación;
 
@@ -1434,3 +1474,11 @@ El presente Decreto entrará en vigor el día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto no tendrá aplicación retroactiva para el Segundo Parlamento de la Juventud de Baja California ni para sus integrantes, quienes concluyen su cargo en el presente año, una vez concluida la duración del año, computado a partir de su instalación.
+
+P.O. 29 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 514 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 35, 37, 68, 70 Y 83 DE LA LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Dentro de un plazo no mayor al de seis meses, el Instituto de la Juventud del Estado emitirá los criterios para la gestión de becas, créditos y apoyos a que se refiere el presente Decreto.
