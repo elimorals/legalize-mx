@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-761
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-08-06"
-last_updated: "2015-07-03"
+last_updated: "2016-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76164&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 6 de agosto de 2010.
 
@@ -823,9 +823,11 @@ XVI.- Dar vista a la Visitaduría General de las irregularidades que detecte de 
 
 XVII.- Las demás que les encomiende el Director del Sistema Estatal de Justicia Alternativa Penal, y aquellas que les confieran las disposiciones normativas aplicables.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 42.
 
-La Coordinación de Orientación y Atención Temprana contará con un titular que dependerá directamente de la Jefatura de Zona, y contará con Agentes del Ministerio Público Orientadores, así como con la estructura y demás servidores públicos necesarios para el cumplimiento de sus atribuciones.
+La Coordinación de Orientación y Atención Temprana estará a cargo de un titular que dependerá directamente de la Jefatura de Zona y, asimismo, contará con Agentes del Ministerio Público así como con la estructura y demás servidores públicos necesarios para el cumplimiento de sus atribuciones.
 
 ###### ARTÍCULO 43.
 
@@ -833,7 +835,9 @@ La Coordinación de Orientación y Atención Temprana tendrá las siguientes atr
 
 I.- Participar en la organización y evaluación de los sistemas de recepción de querellas y denuncias;
 
-II.- Vigilar la atención adecuada de los Agentes del Ministerio Público Orientadores hacia los usuarios del servicio, para mantener la prestación de un servicio de la (sic) calidad;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
+
+II.- Vigilar la atención adecuada de sus Agentes del Ministerio Público hacia los usuarios del servicio, para mantener la prestación de un servicio de la (sic) calidad;
 
 III.- Acatar las acciones que le sean encomendadas para optimizar el uso de los recursos a su cargo;
 
@@ -845,7 +849,9 @@ VI.- Dar vista a la Jefatura de Zona de las irregularidades que detecte en los s
 
 VII.- Atender los lineamientos establecidos para la debida coordinación con las demás áreas de la Procuraduría, para el desempeño de sus funciones;
 
-VIII.- Garantizar que los Agentes del Ministerio Público Orientadores, remitan en tiempo y forma los asuntos a los Agentes del Ministerio Público que llevarán a cabo la investigación correspondiente;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
+
+VIII.- Garantizar que sus Agentes del Ministerio Público, remitan en tiempo y forma los asuntos a los Agentes del Ministerio Público que llevarán a cabo la investigación correspondiente;
 
 IX.- Mantener actualizados los indicadores, estadística, evaluación y auditorías del área a su cargo;
 
@@ -855,9 +861,11 @@ XI.- Asegurar la adecuada aplicación de la facultad de abstenerse de investigar
 
 XII.- Las demás que le encomiende la Jefatura de Zona y aquellas que le confieran las disposiciones normativas aplicables.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 44.
 
-Los Agentes del Ministerio Público Orientadores tendrán las siguientes facultades y obligaciones:
+Los Agentes del Ministerio Público adscritos a la Coordinación de Orientación y Orientación Temprana tendrán las siguientes facultades y obligaciones:
 
 I.- Orientar a los usuarios que solicitan los servicios de la Procuraduría;
 
@@ -877,9 +885,11 @@ VIII.- Rendir los informes de autoridad que se le requieran conforme a derecho; 
 
 IX.- Las demás que les asigne el titular de la Coordinación de Orientación y Atención Temprana y aquellas que les confieran las disposiciones normativas aplicables.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 45.
 
-La Coordinación de Medios Alternativos de Justicia Penal estará a cargo de un titular, el cual dependerá directamente de la Jefatura de Zona, y contará con Agentes del Ministerio Público Mediador y Especialistas, así como la estructura y demás servidores públicos necesarios para el cumplimiento de sus atribuciones.
+La Coordinación de Medios Alternativos de Justicia Penal estará a cargo de un titular el cual dependerá directamente de la Jefatura de Zona, y contará con Agentes del Ministerio Público, Facilitadores, así como la estructura y demás servidores públicos necesarios para el cumplimiento de sus atribuciones.
 
 ###### ARTÍCULO 46.
 
@@ -887,11 +897,17 @@ La Coordinación de Medios Alternativos de Justicia Penal tendrá las siguientes
 
 I.- Proporcionar el servicio de mediación, conciliación y proceso restaurativo bajo los estándares indicados de calidad y con apego a los principios que rigen a los medios alternativos de justicia penal previstos en la Ley de la materia;
 
-II.- Asegurar el apego a los procedimientos de los medios alternativos de justicia penal, así como de calidad establecidos para la operación y administración de su área;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
 
-III.- Vigilar la atención adecuada de los Agentes del Ministerio Público Mediador y Especialistas hacia los usuarios del servicio, para mantener la prestación de un servicio de calidad;
+II.- Asegurar el apego a los procedimientos y principios de los medios alternativos de justicia penal, así como de calidad establecidos para la operación y administración de su área;
 
-IV.- Supervisar que los Agentes del Ministerio Público Mediador y Especialistas promuevan la aplicación de los medios alternativos de justicia penal, en los casos que procedan;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
+
+III.- Vigilar la atención adecuada de sus Agentes del Ministerio Público y Facilitadores hacia los usuarios del servicio, para mantener la prestación de un servicio de calidad;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
+
+IV.- Supervisar que sus Agentes del Ministerio Público y Facilitadores promuevan la aplicación de los medios alternativos de justicia penal, en los casos que procedan;
 
 V.- Acatar las acciones que le sean encomendadas para optimizar el uso de los recursos a su cargo;
 
@@ -909,33 +925,53 @@ XI.- Rendir los informes de autoridad que se le requieran conforme a derecho; y,
 
 XII.- Las demás que le encomiende la Jefatura de Zona y aquellas que le confieran las disposiciones normativas aplicables.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 47.
 
-Son facultades y obligaciones del Agente del Ministerio Público Mediador:
+Son facultades y obligaciones de los Agentes del Ministerio Público adscritos a la Coordinación de Medios Alternativos de Justicia Penal:
 
 I.- Aplicar los lineamientos establecidos para programar las funciones y actividades de los servidores público a su cargo;
 
-II.- Supervisar que los Especialistas observen los procedimientos de los medios alternativos de justicia penal;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
 
-III.- Vigilar la atención adecuada de los Especialistas hacia los usuarios del servicio, para mantener la prestación de un servicio de la (sic) calidad;
+II.- Supervisar que los Facilitadores observen los procedimientos de los medios alternativos de justicia penal;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
+
+III.- Vigilar la atención adecuada de los Facilitadores hacia los usuarios del servicio, para mantener la prestación de un servicio de la (sic) calidad;
 
 IV.- Recibir a los usuarios, así como solicitudes de servicio de solución de controversias por los medios alternativos de justicia penal;
 
-V.- Verificar que los convenios sean redactados de manera clara y precisa, de forma tal que no quede duda en su interpretación y no afecten el interés público o perjudiquen los derechos de terceros;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
 
-VI.- Sancionar los convenios celebrados por las partes ante los Especialistas;
+V.- Verificar que los convenios o acuerdos sean redactados de manera clara y precisa, de forma tal que no quede duda en su interpretación y no afecten el interés público o perjudiquen los derechos de terceros;
 
-VII.- Vigilar el debido seguimiento de los convenios y acuerdos realizados en la Dirección del Sistema Estatal de Justicia Alternativa Penal, y en su caso, autorizar la aplicación de las medidas conducentes para reconciliar el cumplimiento acordado;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
 
-VIII.- Rendir los informes de autoridad que se le requieran conforme a derecho; y,
+VI.- Sancionar los convenios o acuerdos celebrados por las partes ante los Facilitadores;
 
-IX.- Las demás que le asigne la Coordinación de Medios Alternativos de Justicia y aquellas que le confieran las disposiciones normativas aplicables.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
+
+VII.- Aquellas que le asigne la Coordinación de Medios Alternativos de Justicia Alternativa Penal;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
+
+VIII.- Rendir los informes de autoridad que se le requieran conforme a derecho;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
+
+IX.- Las demás que le confieran las disposiciones normativas aplicables.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 48.
 
-Los Especialistas, además de lo previsto en la Ley de la materia, tendrán las siguientes facultades y obligaciones:
+Los Facilitadores, además de lo previsto en la ley de la materia, tendrán las siguientes facultades y obligaciones:
 
-I.- Apoyar al Agente del Ministerio Público Mediador a lograr acuerdos y metas en las labores relacionadas con la aplicación de medios alternativos de justicia penal;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
+
+I.- Apoyar al Agente del Ministerio Público adscrito a la Coordinación de medios Alternativos de Justicia Penal a lograr acuerdos y metas en las labores relacionadas con la aplicación de medios alternativos de justicia penal;
 
 II.- Proporcionar a las partes la información de las reglas y el trámite a seguir en los procedimientos de medios alternativos de justicia penal;
 
@@ -947,9 +983,13 @@ V.- Registrar la información sobre las diversas etapas de los procedimientos de
 
 VI.- Registrar detalladamente la forma de terminación del caso;
 
-VII.- Dar seguimiento, registrar e informar sobre las actuaciones posteriores de los convenios y acuerdos que hayan celebrado con su intervención, y en su caso, proponer al Agente del Ministerio Público Mediador las medidas conducentes para reconciliar el cumplimiento acordado; y,
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
 
-VIII.- Las demás que les asigne el Agente del Ministerio Público Mediador y aquellas que les confieran las disposiciones normativas aplicables.
+VII.- Dar seguimiento, registrar e informar sobre las actuaciones posteriores de los convenios y acuerdos que hayan celebrado con su intervención, y en su caso, proponer a dicho Agente del Ministerio Público las medidas conducentes para reconciliar el cumplimiento acordado;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
+
+VIII.- Las demás que les asigne dicho Agente del Ministerio Público y aquellas que les confieran las disposiciones normativas aplicables.
 
 ### CAPÍTULO CUARTO. SUBPROCURADURÍAS DE ZONA
 
@@ -2935,9 +2975,11 @@ VIII.- No estar suspendido ni haber sido destituido o inhabilitado por resoluci�
 
 IX.- Contar con la certificación del Centro de Control de Confianza a que se refiere la Ley de Seguridad Pública del Estado.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 145.
 
-Para ocupar los cargos de Director de Averiguaciones Previas, Director de Control de Procesos, Director de Averiguaciones Previas y Control de Procesos, Coordinador de Procesos, Coordinador de Interprocuradurías, Coordinador de Unidad de Investigación, Agente del Ministerio Público titular de la Unidad de Investigación, Coordinador de Zona Especializado en Adolescentes, Coordinador de Orientación y Atención Temprana, Coordinador de Medios Alternativos de Justicia Penal, Coordinador del Área de Responsabilidades, Jefe de Zona de la Dirección de Justicia Alternativa, Jefe de Zona de la Visitaduría General, Agente del Ministerio Público Mediador, Agente del Ministerio Público Orientador, Agente del Ministerio Público Supervisor y Agente del Ministerio Público Consultor, deberán reunirse los requisitos que señala el artículo 24 de la Ley, con las excepciones siguientes:
+Para ocupar los cargos de Director de Averiguaciones Previas, Director de Control de Procesos, Director de Averiguaciones Previas y Control de Procesos, Coordinador de Procesos, Coordinador de Interprocuradurías, Coordinador de Unidad de Investigación, Agente del Ministerio Público titular de la Unidad de Investigación, Coordinador de Zona Especializado en Adolescentes, Coordinador de Orientación y Atención Temprana, Coordinador de Medios Alternativos de Justicia Penal, Coordinador del Área de Responsabilidades, Jefe de Zona de la Dirección de Justicia Alternativa, Jefe de Zona de la Visitaduría General, Agente del Ministerio Público adscrito a la Coordinación de Medios Alternativos de Justicia Penal, Agente del Ministerio Público adscrito a la Coordinación de Orientación y Atención Temprana, de la Dirección del Sistema Estatal de Justicia Alternativa Penal, Agente del Ministerio Público Supervisor y Agente del Ministerio Público Consultor, deberán reunirse los requisitos que señala el artículo 24 de la Ley, con las excepciones siguientes:
 
 I.- Para desempeñarse como Director de Averiguaciones Previas, Director de Control de Procesos, Director de Averiguaciones Previas y Control de Procesos, Coordinador de Unidad de Investigación, Coordinador de Zona Especializado en Adolescentes, Coordinador de Orientación y Atención Temprana, Coordinador de Medios Alternativos de Justicia Penal, Coordinador del Área de Responsabilidades, Jefe de Zona de la Dirección de Justicia Alternativa y Jefe de Zona de la Visitaduría General, el aspirante deberá acreditar haber ocupado un cargo similar o afín por un período de cinco años al día de la designación.
 
@@ -2945,7 +2987,9 @@ II.- El Agente del Ministerio Público Supervisor y Agente del Ministerio Públi
 
 III.- Para fungir como Coordinador de Unidad de Investigación, Agente titular de la Unidad de Investigación, Agente del Ministerio Público Supervisor y Agente del Ministerio Público Consultor se deberá aprobar el curso que establece el proceso de selección mediante convocatoria para Agentes del Ministerio Público del Nuevo Sistema.
 
-IV.- Para aspirar al cargo de Coordinador de Orientación y Atención Temprana, Coordinador de Medios Alternativos de Justicia Penal, Jefe de Zona de la Dirección de Justicia Alternativa, Agente del Ministerio Público Mediador y Agente del Ministerio Público Orientador se deberá acreditar haber recibido capacitación especializada en mediación, conciliación o proceso restaurativo brindada por instituciones u organizaciones reconocidas.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
+
+IV.- Para aspirar al cargo de Coordinador de Orientación y Atención Temprana, Coordinador de Medios Alternativos de Justicia Penal, Jefe de Zona de la Dirección de Justicia Alternativa, Agente del Ministerio Público adscrito a la Coordinación de Medios Alternativos de Justicia Penal y Agente del Ministerio Público adscrito a la Coordinación de Orientación y Atención Temprana, de la Dirección del Sistema Estatal de Justicia Alternativa Penal se deberá acreditar haber recibido capacitación especializada en mediación, conciliación o proceso restaurativo brindada por instituciones u organizaciones reconocidas.
 
 ###### ARTÍCULO 146.
 
@@ -3521,7 +3565,7 @@ B) Agente de Ministerio Público Investigador "C".
 
 C) Agente de Ministerio Público Investigador "B".
 
-D) Agente del Ministerio Público Investigador “A”.
+D) Agente del Ministerio Público Investigador "A".
 
 E) Coordinador de Unidad de Investigación.
 
@@ -3529,11 +3573,19 @@ II.- Carrera: Ministerio Público de Justicia Alternativa
 
 Categorías
 
-A) Agente del Ministerio Público Orientador
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
-B) Agente de Ministerio Público Mediador
+A) Agente del Ministerio Público adscrito a la Coordinación de Orientación y Atención Temprana, de la Dirección del Sistema Estatal de Justicia Alternativa Penal.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
+
+B) Agente de Ministerio Público adscrito a la Coordinación de Medios Alternativos de Justicia Penal.
 
 C) Coordinador de Orientación y Atención Temprana
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2016)</small>
+
+D) Coordinador de Medios Alternativos de Justicia Penal, de la Dirección del Sistema Estatal de Justicia Alternativa Penal.
 
 III.- Carrera: Investigador Policial
 
@@ -4040,3 +4092,11 @@ P.O. 3 DE JULIO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO DEL EJECUTIVO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 42, 43, 44, 45, 46, 47, 48, 145 Y 212, DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrara en vigor el día de su publicación en el Periódico Oficial del Estado.
