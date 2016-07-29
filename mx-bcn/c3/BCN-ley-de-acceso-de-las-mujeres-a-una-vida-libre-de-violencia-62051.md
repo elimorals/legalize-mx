@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2016-03-18"
+last_updated: "2016-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -39,17 +39,23 @@ LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJ
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de la presente Ley son de orden público, interés social y observancia general en el Estado de Baja California, y tienen por objeto establecer las bases para regular y garantizar el acceso de las mujeres a una vida libre de violencia, así como los mecanismos de coordinación entre el Gobierno del Estado y los Gobiernos Municipales. Favoreciendo su desarrollo y bienestar desde la perspectiva de género, conforme a los principios de igualdad y no discriminación contemplados en la Constitución Política de los Estados Unidos Mexicanos, la Ley General y los Instrumentos Internacionales aplicables.
+Las disposiciones de la presente Ley son de orden público, interés social y observancia general en el Estado de Baja California, y tienen por objeto establecer las bases para prevenir, atender, sancionar y erradicar la violencia contra las mujeres y garantizarles el acceso a una vida libre de violencia, así como los mecanismos de coordinación entre el Gobierno del Estado y los Gobiernos Municipales. Favoreciendo su desarrollo y bienestar desde la perspectiva de género, conforme a los principios de igualdad y no discriminación contemplados en la Constitución Política de los Estados Unidos Mexicanos, la Ley General y los Instrumentos Internacionales aplicables.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
 ###### Artículo 2.
 
-La presente Ley obliga al Gobierno del Estado y a los Gobiernos Municipales, en el ámbito de sus respectivas competencias a expedir las normas legales correspondientes, y tomar las medidas presupuestales y administrativas que permitan garantizar el derecho de las mujeres a una vida libre de violencia, cumpliendo con los objetivos del Sistema y del Programa Estatal.
+La presente Ley obliga al Gobierno del Estado y a los Gobiernos Municipales, en el ámbito de sus respectivas competencias a expedir las normas legales y reglamentarias correspondientes, y tomar las medidas presupuestales y administrativas que permitan garantizar el derecho de las mujeres a una vida libre de violencia, cumpliendo con los objetivos del Sistema y del Programa Estatal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2016)</small>
 
 ###### Artículo 3.
 
-Para elaborar e implementar políticas públicas que promuevan la erradicación de la violencia en contra de las mujeres, las instancias de gobierno deberán tomar en cuenta los siguientes principios rectores:
+Para elaborar e implementar políticas públicas que promuevan el acceso de las mujeres a una vida libre de violencia, las instancias de gobierno estatal y las municipales deberán tomar en cuenta los siguientes principios rectores:
 
 I. El respeto a la vida y la libertad de las mujeres;
 
@@ -87,15 +93,27 @@ IX. Modalidades de Violencia: Las manifestaciones y ámbitos de ocurrencia en qu
 
 X. Misoginia: Las conductas de odio contra la mujer por el hecho de serlo, se manifiesta a través de omisiones u actos violentos o crueles contra ella por el hecho de ser mujer;
 
-XI. Agresor: Persona que ejerce cualquier modalidad de violencia contra la mujer, y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
 
-XII. Derechos Humanos de las Mujeres: Los derechos inalienables e imprescriptibles consagrados en las Convenciones e Instrumentos Internacionales en la materia de discriminación y violencia de género.
+XI. Agresor: Persona que ejerce cualquier modalidad de violencia contra la mujer;
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
+
+XII. Derechos Humanos de las Mujeres: Refiere a los derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre la Eliminación de Todos (sic) las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem Do Pará) y demás instrumentos internacionales en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+
+XIII. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+
+XIV. Alerta de violencia de género: Es el conjunto de acciones gubernamentales de emergencia para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
 ###### Artículo 5.
 
-Para efectos de la presente ley, la perspectiva de género es la visión analítica y política respecto de las mujeres y hombres, con base a la cual deberán diseñarse las políticas públicas y programarse las acciones legislativas, administrativas, económicas y culturales de las instituciones públicas y privadas; orientadas a eliminar toda causa de desigualdad, injusticia y jerarquización de personas, con motivo del género y a contribuir la equidad en el acceso a los derechos y oportunidades de desarrollo.
+Para efectos de la presente ley, la perspectiva de género es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones.
 
 ### CAPÍTULO II. TIPOS Y MODALIDADES DE VIOLENCIA
 
@@ -137,45 +155,99 @@ VI. Violencia Obstétrica.- Toda conducta, acción u omisión que ejerza el pers
 
 VII. Cualesquiera otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2016)</small>
+
 ### CAPÍTULO III. ORDENES DE PROTECCIÓN
 
 ###### Artículo 7.
 
-Se considera violencia familiar el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica o sexual a las mujeres, dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
+Violencia Familiar: Se considera violencia familiar el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica o sexual a las mujeres, dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
 
 > <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 Los gobiernos estatal y municipales en forma coordinada, implementarán y operarán un sistema de información en el que se registren exclusivamente las denuncias e investigaciones de violencia familiar; lo que permitirá a las autoridades preventivas e investigadoras correspondientes, detectar en forma inmediata la reincidencia de todo agresor, a efecto de determinar en forma eficaz las medidas necesarias para salvaguardar la integridad de la víctima.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2016)</small>
+
 ###### Artículo 8.
 
-El Gobierno del Estado y los Municipales, en materia de violencia familiar procurarán:
+El Gobierno del Estado y los gobiernos Municipales, en materia de violencia familiar deberán desarrollar los modelos de atención, prevención, sanción y erradicación, que son el conjunto de medidas y acciones para proteger a las víctimas de violencia familiar, como parte de la obligación del Estado, de garantizar a las mujeres su seguridad y ejercicio pleno de sus derechos humanos y deberán:
 
-I. El establecimiento de Unidades Especializadas para la atención psicojurídica de las mujeres víctimas de violencia;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
 
-II. No utilizar procedimientos de mediación o conciliación ante instancias administrativas, por resultar inviables en una relación de sometimiento entre el agresor y la víctima, y
+I. Impulsar Unidades Especializadas para la atención psicológica y jurídica de las mujeres víctimas de violencia;
 
-III. Emitir normas técnicas en los diferentes niveles de atención, para los centros de atención y refugios.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
+
+II. Proporcionar de manera gratuita los servicios de atención, trabajo social, asesoría jurídica y tratamientos psicológicos especializados y gratuitos a las víctimas, que favorezcan su empoderamiento y reparen el daño causado por dicha violencia;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
+
+III. Brindar servicios reeducativos integrales, especializados y gratuitos a la víctima y al agresor para erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía masculina, y los patrones machistas que generaron su violencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+
+IV. Evitar que la atención que reciban la Victima y el Agresor sea proporcionada por la misma persona y en el mismo lugar. En ningún caso podrán brindar atención, aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+
+V. No utilizar procedimientos de mediación o conciliación ante instancias administrativas, por resultar inviables en una relación de sometimiento entre el agresor y la víctima;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+
+VI. Emitir normas técnicas en los diferentes niveles de atención, para los centros de atención, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+
+VII. Favorecer y promover la instalación y mantenimiento de refugios para las víctimas y sus hijas e hijos.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
 ###### Artículo 9.
 
-Se considera violencia laboral la negativa ilegal de contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo, a la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género.
+Violencia Laboral: Se considera violencia laboral la negativa ilegal de contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo, a la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
 ###### Artículo 10.
 
-Se considera violencia docente a las conductas que dañan la autoestima de las alumnas por motivos de discriminación en razón de su sexo, edad o condición social, académica, limitaciones y/o características físicas, que les causen sus maestros o maestras.
+Violencia Docente: Se considera violencia docente a las conductas que dañan la autoestima de las alumnas por motivos de discriminación en razón de su sexo, edad o condición social, académica, limitaciones y/o características físicas, que les causen sus maestros o maestras.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2016)</small>
 
 ###### Artículo 11.
 
-Las políticas públicas del Gobierno del Estado y los Municipales, en materia de violencia laboral y docente, con independencia de que pudiesen constituir dichas conductas algún ilícito sancionado en la legislación de la materia, considerarán:
+Las políticas públicas del Gobierno del Estado y los gobiernos Municipales, en materia de violencia laboral y docente, con independencia de que pudiesen constituir dichas conductas algún ilícito sancionado en la legislación de la materia, considerarán:
 
 I. El impacto psicoemocional que generan en quien las recibe;
 
-II. Las diferentes formas de discriminación contra las mujeres, que se pueden presentar en razón de su género, alguna discapacidad, edad, religión, estado civil, pertenencia a alguna etnia;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
 
-III. La adhesión a convenios o protocolos para eliminar estas modalidades de violencia, y
+II. Establecer normatividad interna que garantice espacios públicos gubernamentales libres de violencia contra las mujeres en su entorno laboral burocrático y reivindique la dignidad de la mujer al servicio del estado;
 
-IV. La evaluación de sus políticas públicas en forma volitiva, de los sectores públicos, privados o sociales.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
+
+III. Encabezar la difusión y campañas permanentes para que el sector privado desarrolle políticas que garantice espacios laborales libres de violencia contra las mujeres y reivindique la dignidad de la mujer en la iniciativa privada;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
+
+IV. Diseñar programas integrales que brinden servicios reeducativos para víctimas y agresores;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+
+V. El impacto psicoemocional que generan en quien las recibe;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+
+VI. Las diferentes formas de discriminación contra las mujeres, que se pueden presentar en razón de su género, alguna discapacidad, edad, religión, estado civil, pertenencia a alguna etnia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+
+VII. La adhesión a convenios o protocolos para eliminar estas modalidades de violencia, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+
+VIII. La evaluación de sus políticas públicas en forma volitiva, de los sectores públicos, privados o sociales.
 
 > <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
 
@@ -215,25 +287,35 @@ XII.- Discriminen a la mujer electa designada o en el ejercicio de la función p
 
 XIII.- Presionen o induzcan a las autoridades electas o designadas a presentar renuncia al cargo.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
+
 ###### Artículo 12.
 
-Se entiende por violencia institucional, los actos u omisiones de los servidores públicos, de cualquier orden de gobierno, que discriminen, dilaten, obstaculicen o impidan el goce y ejercicio de los derechos humanos de las mujeres así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
+Violencia Institucional: Se entiende por violencia institucional, los actos u omisiones de los servidores públicos, de cualquier orden de gobierno, que discriminen, dilaten, obstaculicen o impidan el goce y ejercicio de los derechos humanos de las mujeres así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
 ###### Artículo 13.
 
-El Gobierno del Estado y los Municipales tienen la obligación de organizar el aparato gubernamental de tal forma que sean capaces de asegurar, en el ejercicio de sus funciones, el derecho de las mujeres a una vida libre de violencia, debiendo prevenir, atender, sancionar y reparar el daño que se les ocasiona.
+El Gobierno del Estado y los gobiernos Municipales tienen la obligación de organizar el aparato gubernamental de tal forma que sean capaces de asegurar, en el ejercicio de sus funciones, el derecho de las mujeres a una vida libre de violencia, debiendo prevenir, atender, investigar, sancionar y reparar el daño que se les ocasiona.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
 ###### Artículo 14.
 
-Incurrirán en responsabilidad administrativa los servidores públicos del Gobierno del Estado y de los Gobiernos Municipales, que en el ejercicio de su cargo o comisión, contravengan los principios y disposiciones que consagra la presente Ley o no den debido y cabal cumplimiento a las normas que de ella emanan, o bien, lleven a cabo cualquier práctica discriminatoria o de tolerancia de la violencia de género, y serán sancionados de conformidad con lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+Incurrirán en responsabilidad administrativa los servidores públicos del Gobierno del Estado y de los Gobiernos Municipales, que en el ejercicio de su cargo o comisión, contravengan los principios y disposiciones que consagra la presente Ley o no den debido y cabal cumplimiento a las normas que de ella emanan, o bien, lleven a cabo cualquier práctica discriminatoria, dilatoria o de tolerancia de la violencia de género, y serán sancionados de conformidad con lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
 ###### Artículo 15.
 
-Se entiende por violencia en la comunidad, los actos individuales o colectivos que transgreden derechos fundamentales de las mujeres y propician su denigración, discriminación, marginación o exclusión en el ámbito público.
+Violencia en la comunidad: Se entiende por violencia en la comunidad, los actos individuales o colectivos que transgreden derechos fundamentales de las mujeres y propician su denigración, discriminación, marginación o exclusión en el ámbito público.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2016)</small>
 
 ###### Artículo 16.
 
-El Gobierno del Estado y los Municipales, en tanto no se elimine la violencia en la comunidad, en perjuicio de las mujeres, establecerán las siguientes estrategias:
+El Gobierno del Estado y los Municipales, en tanto no se erradique la violencia en la comunidad, en perjuicio de las mujeres, establecerán las siguientes estrategias:
 
 I. Obtendrán la percepción individual y como grupo de las mujeres, del posible estado de riesgo en que se encuentran, en una sociedad que discrimina;
 
@@ -241,17 +323,53 @@ II. El monitoreo de las poblaciones o municipios, donde haya un incremento de la
 
 III. Impulsarán la cultura jurídica, de legalidad y de denuncia de actos violentos, públicos o privados, contra las mujeres;
 
-IV. El registro y seguimiento de las órdenes de protección que se emitan por las autoridades competentes, y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
 
-V. La implementación de acciones en materia de seguridad pública a favor de las mujeres.
+IV. El registro y seguimiento de las órdenes de protección que se emitan por las autoridades competentes;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
+
+V. La implementación de acciones en materia de seguridad pública a favor de las mujeres, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+
+VI. La reeducación que eliminé estereotipos de supremacía masculina, y los patrones machistas que generaron su violencia, la información de alerta sobre el estado de riesgo que enfrentan las mujeres en una sociedad desigual y discriminatoria.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
 ###### Artículo 17.
 
-Se entiende por violencia feminicida, la forma extrema de violencia de género en contra de las mujeres, producto de la violación de sus derechos humanos, en cualquier ámbito, que puede implicar impunidad y culminar en el homicidio o cualquier forma de muerte violenta de las mujeres.
+Violencia Feminicida: Se entiende por violencia feminicida, la forma extrema de violencia de género en contra de las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que puede implicar impunidad y culminar en la comisión de los delitos de feminicidio, homicidio o cualquier forma de muerte violenta de las mujeres.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2016)</small>
 
 ###### Artículo 18.
 
-Ante fenómenos de violencia feminicida, el Gobierno del Estado y los Municipios, o en su caso, cada uno de ellos, procurarán la protección del entorno común, disponiendo de las medidas adecuadas para garantizar la seguridad de las mujeres, el cese de la violencia en su contra y la eliminación de las situaciones de desigualdad en que se encuentren. Asignando los recursos presupuestales necesarios, que incluyan la posibilidad de hacer del conocimiento público el motivo de la alerta, así como las medidas a implementar.
+Ante conductas de violencia feminicida, el Gobierno del Estado y los Municipios, o en su caso, cada uno de ellos, procurarán la protección del entorno común, disponiendo de las medidas preventivas para garantizar la seguridad de las mujeres; y en su caso, el cese de la violencia en su contra y la eliminación de las situaciones de desigualdad en que se encuentren.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO] , P.O. 29 DE JULIO DE 2016)</small>
+
+En caso que se emita una declaración de alerta de violencia de género; a que se refiere la Ley General, se deberán implementar las siguientes estrategias:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+
+I. El Sistema Estatal sesionará inmediatamente para coordinar las acciones encaminadas a abatirla;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+
+II. Implementar las acciones preventivas, de seguridad y justicia, para enfrentar y abatir la violencia feminicida, dando parte al Ministerio Público para su intervención conducente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+
+III. Colaborar en la elaboración de reportes especiales sobre la zona y el comportamiento de los indicadores de la violencia contra las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+
+IV. Asignar los recursos presupuestales necesarios para hacer frente a la contingencia de alerta de violencia de género contra las mujeres a que se refiere la Ley General, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+
+V. Hacer del conocimiento público el motivo de la alerta de violencia de género contra las mujeres, y la zona territorial que abarcan las medidas a implementar.
 
 ###### Artículo 19.
 
@@ -267,11 +385,19 @@ II. Otorgar a las víctimas de violencia, servicios médicos, jurídicos y psico
 
 III. Implementar medidas tendientes a determinar la responsabilidad del Estado, y la posible comisión u omisión por parte de autoridades locales, que constituyan violaciones a los derechos humanos, así como el diseño, adecuación e instrumentación de políticas y acciones públicas, orientadas a solventar las acciones que dieron causa o contribuyeron a la problemática de violencia contra las mujeres.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2016)</small>
 
 ###### Artículo 20.
 
-La Alerta de Violencia de Género, a la que se refiere la Ley General, podrá solicitarse por los organismos de derechos humanos locales, nacional o internacionales, así como por los organismos de la sociedad civil, ya sea en forma directa a la Secretaría Ejecutiva del Sistema Nacional, o a través de la Secretaría Técnica del Sistema Estatal.
+La Alerta de Violencia de Género, a la que se refiere la Ley General, podrá solicitarse por los organismos de derechos humanos locales, nacional o internacionales, así como por los organismos de la sociedad civil, ya sea en forma directa a la Secretaría Ejecutiva del Sistema Nacional, o a través de la Secretaría Técnica del Sistema Estatal, cuando:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+
+I. Exista temor fundado de la posible comisión de delitos de feminicidio, homicidio o delitos del orden común contra la vida, la libertad, la integridad y la seguridad de las mujeres, que perturben la paz social en un territorio determinado y la sociedad así lo reclame, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+
+II. Exista un agravio comparado que impida el ejercicio pleno de los derechos humanos de las mujeres.
 
 ### CAPÍTULO IV. REFUGIOS PARA VICTIMAS
 
@@ -397,7 +523,7 @@ En el caso del o los agresores, éstos deberán participar obligatoriamente en l
 
 ### CAPÍTULO VI. DEL PROGRAMA ESTATAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2016)</small>
 
 ###### Artículo 31.
 
@@ -437,13 +563,17 @@ h) El Instituto de Cultura de Baja California.
 
 IV. Los Gobiernos Municipales a través de su respectiva instancia de la mujer, o a falta de ésta, quien tenga a su cargo la implementación de mecanismos para el adelanto de las mujeres en la administración pública municipal.
 
-> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
 
-V. Un Diputado del Poder Legislativo del Estado de Baja California, quien presida la Comisión de Equidad y Género.
+V. Un Diputado del Poder Legislativo del Estado de Baja California, quien presida la Comisión para la Igualdad entre Mujeres y Hombres.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2016)</small>
 
 VI. Un Magistrado del Poder Judicial del Estado de Baja California, quien presida el Tribunal Superior de Justicia y el Consejo de la Judicatura.
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2016)</small>
+
+VII. Dos representantes de la sociedad civil, que participarán con derecho a voz y serán electos de acuerdo a la Reglamentación que para tal efecto emita el Ejecutivo Estatal.
 
 ###### Artículo 33.
 
@@ -473,19 +603,25 @@ Las particularidades del funcionamiento, organización y atribuciones de los int
 
 ###### Artículo 35.
 
-La Secretaría Técnica del Sistema Estatal propondrá para su validación al mismo, un Programa Estatal con perspectiva de protección a la mujer, que sea congruente con el Programa Nacional y con el Plan Estatal de Desarrollo y los Municipales, respectivamente, teniendo como objetivos los siguientes:
+La Secretaría Técnica del Sistema Estatal propondrá para su validación al mismo, un Programa Estatal con perspectiva de género, que sea congruente con el Programa Nacional y con el Plan Estatal de Desarrollo y los Municipales, respectivamente, teniendo como objetivos los siguientes:
 
 I. Fomentar y promover el conocimiento y el respeto a los derechos humanos de las mujeres establecidos en esta Ley y los Tratados Internacionales adoptados por nuestro país como obligatorios;
 
 II. Transformar los modelos socioculturales de conducta de las mujeres y los hombres con la finalidad de prevenir, atender y erradicar las conductas estereotipadas que permiten, fomentan o toleran la violencia contra las mujeres;
 
-III. Educar y capacitar en materia de derechos humanos de las mujeres, y los conceptos contenidos en esta Ley, a los servidores públicos relacionados con la atención a cualquier modalidad de violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
+
+III. Educar y capacitar en materia de derechos humanos de las mujeres, y los conceptos contenidos en esta Ley, a los servidores públicos relacionados con la atención a cualquier modalidad de violencia contra las mujeres, particularmente al personal encargando (sic) de la impartición de justicia, a fin de dotarles de instrumentos que permitan juzgar con perspectiva de género;
 
 IV. Ofrecer servicios gratuitos y especializados, por medio de las dependencias públicas, así como apoyar a las instituciones privadas, encargadas de la atención y protección de mujeres víctimas de violencia;
 
-V. Impulsar y apoyar programas de educación oficiales;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
 
-VI. Promover la instrumentación de programas de atención y capacitación a mujeres ofendidas, que les permitan participar plenamente en todos los ámbitos de la vida;
+V. Impulsar y apoyar programas de educación pública y privada, que se destinen a concientizar a la sociedad sobre las causas y las consecuencias de la violencia contra las mujeres;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
+
+VI. Diseñar programas de atención y capacitación a mujeres y a víctimas, que les permitan participar plenamente en todos los ámbitos de la vida;
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
@@ -493,7 +629,9 @@ VII. Publicar semestralmente la información general y estadística sobre los ca
 
 VIII. Promover la cultura de denuncia de la violencia contra las mujeres, y
 
-IX. Diseñar un modelo integral de atención a los derechos fundamentales de las mujeres.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
+
+IX. Diseñar un modelo integral de atención a los derechos humanos y ciudadanía de las mujeres, que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas.
 
 ### CAPÍTULO VIII. DE LOS PODERES LEGISLATIVO Y JUDICIAL
 
@@ -539,9 +677,17 @@ XI. Difundir el contenido de esta Ley;
 
 XII. Coadyuvar con la Federación y los Gobiernos Municipales para el cumplimiento de los objetivos de la Ley General y la presente Ley;
 
-XIII. La capacitación del personal a su cargo en materia de derechos de las mujeres, políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres, y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
 
-XIV. Todas aquellas que se requieran para tener un Estado libre de violencia de género.
+XIII. La capacitación del personal a su cargo en materia de derechos de las mujeres, políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+
+XIV. Proveer de los recursos presupuestarios, humanos y materiales a las entidades de la Administración Pública Estatal que integran el Sistema, en concordancia con el Programa Estatal, y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA -ANTES FRACCIÓN XIV-], P.O. 29 DE JULIO DE 2016)</small>
+
+XV. Todas aquellas que se requieran para tener un Estado libre de violencia de género.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
@@ -549,7 +695,7 @@ XIV. Todas aquellas que se requieran para tener un Estado libre de violencia de 
 
 Corresponde a la Secretaría de Seguridad Pública:
 
-l. Capacitar al personal del cuerpo de policía estatal y promover la capacitación de los cuerpos municipales en cuanto a la atención de casos de violencia en contra de las mujeres;
+I. Capacitar al personal del cuerpo de policía estatal y promover la capacitación de los cuerpos municipales en cuanto a la atención de casos de violencia en contra de las mujeres;
 
 II. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
 
@@ -619,7 +765,9 @@ I. La elaboración del Programa Estatal, que deberá ser sometido a consideraci�
 
 II. Diseñar la política transversal en el estado, para que todas las Dependencias de Gobierno adopten la perspectiva de género;
 
-III. Asesorar al Sistema en la elaboración del Programa para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
+
+III. Asesorar al Sistema en el proceso de validación y seguimiento al cumplimiento del Programa para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
 IV. Fungir como Secretaria Técnica del Sistema;
 
@@ -631,7 +779,9 @@ VII. Realizar diagnósticos, investigaciones, estudios e informes sobre el cumpl
 
 VIII. Integrar un registro de los programas y subprogramas estatales que contemplen acciones de prevención, atención, sanción y erradicación de la violencia, en coordinación con las dependencias y entidades de la Administración Pública Estatal, y recibir los de los Municipios;
 
-IX. Colaborar con las dependencias, entidades e instituciones del Estado, de igual forma, con las instancias de la mujer municipales, para diseñar y evaluar modelos de atención a las mujeres víctimas de violencia;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
+
+IX. Colaborar con las dependencias, entidades e instituciones del Estado, de igual forma, con las instancias de la mujer municipales, para diseñar, ejecutar y evaluar modelos de atención a las mujeres víctimas de violencia;
 
 X. Promover que las víctimas de violencia reciban servicios de educación y capacitación para el fortalecimiento de sus habilidades y desarrollo personal;
 
@@ -641,13 +791,25 @@ XII. Establecer los indicadores para la evaluación de la Administración Públi
 
 XIII. Promover una imagen de las mujeres, libre de prejuicios y estereotipos, así como la eliminación del lenguaje sexista y/o misógino;
 
-XIV. Impulsar la creación de refugios para víctimas directas e indirectas de cualquier modalidad de violencia, en especial la familiar, con los tipos que ésta implique, y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
 
-XV. Celebrar convenios de cooperación, coordinación y concertación con empresas, organizaciones patronales y sindicatos, para promover los derechos de las mujeres en los ámbitos público y privado.
+XIV. Impulsar la creación de refugios para víctimas directas e indirectas de cualquier modalidad de violencia, en especial la familiar, con los tipos que ésta implique;
 
-> <small>(ADICIONADA P.O. 31 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
 
-XVI.- Conforme a lo previsto por la Ley General, recibir y en su caso, dar seguimiento a las solicitudes de alerta de violencia de género.
+XV. Fortalecer los refugios existentes de atención para víctimas directas e indirectas de cualquier modalidad de violencia, con los tipos que ésta implique;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
+
+XVI. Celebrar convenios de cooperación, coordinación y concertación con empresas, organizaciones patronales y sindicatos, para promover los derechos de las mujeres en los ámbitos público y privado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+
+XVII. Impulsar la creación de unidades o módulos especializados de atención y protección a las víctimas de violencia, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+
+XVIII. Conforme a lo previsto por la Ley General, dar seguimiento a las solicitudes de alerta de violencia de género.
 
 ###### Artículo 44.
 
@@ -838,3 +1000,15 @@ P.O. 18 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 455 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 32 Y LA ADICIÓN DEL ARTÍCULO 44 BIS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 515 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN V Y LA ADICIÓN DE LA FRACCIÓN VII DEL ARTÍCULO 32 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 522 MEDIANTE EL CUAL SE APRUEBAN REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO: El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado, órgano de difusión del Poder Ejecutivo del Estado Libre y Soberano de Baja California.
