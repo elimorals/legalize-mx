@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-honorable-congreso-del-estado-libre-880
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-26"
-last_updated: "2016-04-26"
+last_updated: "2016-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE ABRIL DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 26 de marzo de 2012.
 
@@ -775,7 +773,13 @@ c) La denominación de años o días festivos oficiales en materia cultural;
 
 d) El otorgamiento de reconocimientos y estímulos cívicos; y
 
-e) Las demás que le confiera este Reglamento, las leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
+
+e) Iniciativas que soliciten la inscripción de nombres, leyendas o apotegmas en el Muro de Honor del Honorable Congreso del Estado; y
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2016)</small>
+
+f) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
 
 > <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
 
@@ -1601,9 +1605,35 @@ Para atender una situación no prevista en el Reglamento, el Presidente podrá d
 
 ### CAPÍTULO II. DE LAS DISTINCIONES DEL CONGRESO
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 165.
 
-El Congreso del Estado podrá realizar inscripciones dentro del Recinto, en los espacios adecuados para tal fin, conforme a los criterios para las inscripciones en el Muro de Honor del Recinto Legislativo del Congreso del Estado que emitan los Órganos Legislativos correspondientes. Para ello, deberá presentarse Iniciativa en los términos de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla y este Reglamento.
+El Congreso del Estado podrá realizar inscripciones dentro del Recinto, en los espacios adecuados para tal fin. En este caso, deberá presentarse Iniciativa en los términos de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla y este Reglamento, y deberá observarse lo siguiente:
+
+Al incorporar un nombre, leyenda o apotegma en el Muro de Honor del Congreso del Estado, se deberá considerar lo siguiente:
+
+a) Instalarse de la parte máxima superior hasta llegar a la parte inferior de la columna que se autorice para ello;
+
+b) El tamaño de letra deberá ser uniforme y de las mismas dimensiones de las ya instaladas;
+
+c) El tipo de letra deberá ser trajan; y
+
+d) El material de las letras deberá ser zamak aleado por zinc, aluminio, magnesio y cobre; y serán cubiertas por un baño de oro hasta alcanzar color similar de las que ya se encuentran inscritas.
+
+La inscripción se hará en el espacio físico adecuado para ello, el que será determinado por la Junta de Gobierno y Coordinación Política.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2016)</small>
+
+ARTÍCULO 165 BIS.- Las inscripciones de nombres, leyendas o apotegmas tendrán como objetivo rendir homenaje a un personaje, institución o suceso histórico de trascendencia para nuestro país y estado.
+
+Cuando se proponga la inscripción del nombre o nombres de ciudadanas mexicanas o mexicanos deberá haber transcurrido cuando menos, un periodo no menor a cinco años desde su fallecimiento.
+
+En caso de extranjeros, deberá ser un periodo no menor a diez años desde su fallecimiento y haber residido en el Estado al menos tres años.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2016)</small>
+
+ARTÍCULO 165 TER.- La Comisión competente resolverá sobre las propuestas de inscripción presentadas valorando los méritos, virtudes, grado de eminencia, aportaciones y servicios a la patria o a la humanidad; sujetándose a los principios de imparcialidad, objetividad y transparencia, y atendiendo a criterios de validez universal.
 
 ###### ARTÍCULO 166.
 
@@ -1769,11 +1799,11 @@ XVIII.- Comisionar a servidores públicos del Congreso para que realicen las dil
 
 XIX.- Las demás que le señalen la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, el presente Reglamento, el Estatuto del Servicio Profesional de Carrera Legislativa del Poder Legislativo del Estado o le asigne el Presidente de la Junta de Gobierno y Coordinación Política o la Mesa Directiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 178.
 
-Para el ejercicio de sus funciones y el despacho de los asuntos que le competen, la Secretaría General contará con las Direcciones y Unidad administrativas siguientes:
+Para el ejercicio de sus funciones y el despacho de los asuntos que le competen, la Secretaría General contará con las Direcciones siguientes:
 
 I.- Dirección General de Servicios Legislativos;
 
@@ -1787,9 +1817,11 @@ IV.- Dirección General de Comunicación y Vinculación;
 
 V.- (DEROGADA, P.O. 29 DE MARZO DE 2016); y
 
-VI.- Unidad de Acceso a la Información.
+VI.- (DEROGADA, P.O. 29 DE JULIO DE 2016)
 
-La Secretaría General, las Direcciones Generales y la Unidad de Acceso a la Información, contarán con el número de Coordinaciones, Jefaturas de Departamento y servidores públicos que sean necesarios para el cumplimiento de sus funciones.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
+
+La Secretaría General y las Direcciones Generales contarán con el número de Coordinaciones, Jefaturas de Departamento y servidores públicos que sean necesarios para el cumplimiento de sus funciones.
 
 ###### ARTÍCULO 179.
 
@@ -2579,19 +2611,25 @@ La Dirección General de Administración y Finanzas, contará con el número de 
 
 (DEROGADO, P.O. 29 DE MARZO DE 2016)
 
-### CAPÍTULO VII. DE LA UNIDAD DE ACCESO A LA INFORMACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JULIO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
+### CAPÍTULO VII. DE LA UNIDAD DE TRANSPARENCIA
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 212.
 
-La Secretaría General contará con una Unidad de Acceso a la Información, que será la instancia operativa encargada de coordinar el cumplimiento de la Ley de la materia, su Reglamento y demás disposiciones aplicables, así como fungir como vínculo entre los solicitantes y el Congreso del Estado y poner a disposición de los ciudadanos la información pública.
+El Congreso del Estado contará con una Unidad de Transparencia, que será el área operativa encargada de coordinar el cumplimiento de la Ley de la materia, su Reglamento y demás disposiciones aplicables, así como ser vínculo entre los solicitantes y el Congreso del Estado y poner a disposición de los ciudadanos la información pública. Dependerá orgánicamente de la Presidencia de la Junta de Gobierno y Coordinación Política.
 
-Para el ejercicio de sus funciones y el despacho de los asuntos que le competen, el Titular de la Unidad acordará lo conducente con el Secretario General.
+Para el ejercicio de sus funciones y el despacho de los asuntos que le competen, el Titular de la Unidad acordará lo conducente con el Presidente de la Junta de Gobierno y Coordinación Política.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 213.
 
-Corresponde a la Unidad de Acceso a la Información las atribuciones y obligaciones establecidas en la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla y el Reglamento correspondiente para la transparencia y acceso a la información pública del Poder Legislativo del Estado de Puebla.
+Corresponde a la Unidad de Transparencia las funciones y atribuciones establecidas en la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, en la Ley General de Transparencia y Acceso a la Información Pública, en la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla y en el Reglamento correspondiente para la transparencia y acceso a la información pública del Congreso del Estado Libre y Soberano de Puebla.
+
+La Unidad de Transparencia contará con el número de servidores públicos que sean necesarios para el cumplimiento de sus funciones y atribuciones, de conformidad con los ordenamientos aplicables.
 
 ## TÍTULO NOVENO. DE LA CONTRALORÍA INTERNA
 
@@ -3056,3 +3094,21 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Sin perjuicio de lo anterior, los asuntos que se encuentren en trámite o en proceso en las áreas de los órganos legislativos y administrativos a la entrada en vigor de la presente disposición materia del presente Decreto, se seguirán tramitando hasta su conclusión.
+
+P.O. 29 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA Y DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las solicitudes de acceso que se encuentren en trámite o en proceso en la Unidad de Acceso a la Información del Congreso del Estado Libre y Soberano de Puebla, a la entrada en vigor del presente Decreto, se seguirán tramitando hasta su conclusión en la Unidad de Transparencia del Congreso del Estado Libre y Soberano de Puebla.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL INCISO E) DE LA FRACCIÓN XXXIII DEL ARTÍCULO 48 Y EL 165, Y ADICIONA EL INCISO F) A LA FRACCIÓN XXXIII DEL ARTÍCULO 48, EL 165 BIS Y EL 165 TER, TODOS DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
