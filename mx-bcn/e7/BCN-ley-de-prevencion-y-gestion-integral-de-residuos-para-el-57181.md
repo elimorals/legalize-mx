@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-prevencion-y-gestion-integral-de-residuos-para-el-57181"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-28"
-last_updated: "2015-06-12"
+last_updated: "2016-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 28 de septiembre de 2007.
 
@@ -105,6 +105,10 @@ X. Programa Municipal: Programa Municipal para la Prevención y Gestión Integra
 
 XI. Relleno sanitario: Obra de infraestructura que involucra métodos y obras de ingeniería para la disposición final de los residuos sólidos urbanos y de manejo especial, con el fin de controlar, a través de la compactación e infraestructura adicional, los impactos ambientales;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+
+XI BIS. Residuos Electrónicos: son aquellos productos usados, caducos, retirados del comercio o desechados, manufacturados por las industrias de la electrónica o de tecnologías de la información, que requieren de corriente eléctrica o campos electromagnéticos para su operación o funcionamiento, y cuya vida útil haya terminado incluyendo los aditamentos, accesorios, periféricos, consumibles y subconjuntos que los componen al momento de ser desechados.
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
 
 XII. Secretaría: Secretaría de Protección al Ambiente del Estado de Baja California, y
@@ -173,6 +177,10 @@ XIV. Autorizar y regular la prestación de servicios que tengan por objeto el ma
 
 XV. Autorizar al generador de residuos de manejo especial que realice el manejo integral de sus residuos, ya sea dentro o fuera de sus instalaciones;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+
+XV BIS. Autorizar y llevar el control de las instalaciones para el manejo integral de los residuos electrónicos a que se refiere el artículo 4, fracción XI BIS, de la presente Ley;
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
 
 XVI. Otorgar, revocar y, en su caso, negar los permisos o autorizaciones derivadas de la presente Ley; así como solicitar la cancelación o revocación del permiso o licencia a la autoridad otorgante, cuando esta sea distinta a la Secretaria;
@@ -192,6 +200,18 @@ XIX. Elaborar e implementar entre los sujetos obligados, el sistema de manifiest
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
 
 XX. Suspender proyectos, obras y actividades por no contar con la licencia, permiso o autorización correspondiente, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+
+XX BIS. Promover la educación, participación social y capacitación continuas de personas y grupos u organizaciones de todos los sectores de la sociedad, con el objeto de contribuir al cambio de hábitos negativos para el ambiente, en la producción y consumo de bienes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+
+XX BIS I. Crear mecanismos para la participación responsable, activa y efectiva de todos los sectores sociales, en las acciones tendientes a prevenir la generación, aprovechar el valor y lograr una gestión integral de los residuos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+
+XX BIS II. Promover la investigación, desarrollo y aplicación de tecnologías, equipos, sistemas y procesos que eliminen, reduzcan o minimicen la liberación al ambiente y la transferencia de uno a otro de sus elementos, de contaminantes provenientes del manejo de los residuos de su competencia;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
 
@@ -294,6 +314,10 @@ XV. El establecimiento de acciones orientadas a recuperar las áreas degradadas 
 XVI. La participación pública en la formulación de planes, programas y ordenamientos jurídicos relacionados con la gestión integral de los residuos, así como el acceso público a la información sobre todos los aspectos relacionados con ésta;
 
 XVII. Los planes de manejo realizados por los particulares, seguirán en todo momento ligados al manejo de residuos, debiendo las autoridades competentes respetarlos aun y cuando los cambios políticos demanden lo contrario; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+
+XVII BIS. Promover la cultura, educación y capacitación ambiental, así como la participación del sector social y privado, para el manejo integral de los residuos de manejo especial;
 
 XVIII. Los demás que establezca el reglamento de esta Ley y otros ordenamientos jurídicos aplicables.
 
@@ -1210,3 +1234,9 @@ SEGUNDO.- Los Municipios del Estado de Baja California, deberán adoptar o adecu
 P.O. 12 DE JUNIO DE 2015.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 512 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 4, 5, 7 DE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
