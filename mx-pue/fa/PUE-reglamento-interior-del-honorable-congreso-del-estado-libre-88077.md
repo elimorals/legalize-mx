@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-honorable-congreso-del-estado-libre-880
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-26"
-last_updated: "2016-04-26"
+last_updated: "2016-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,387 +21,131 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MÉXICO
+REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
 
-Ley publicada en la Sección Tercera en la Gaceta del Gobierno del Estado de México, el miércoles 5 de febrero de 2014.
+Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 26 de marzo de 2012.
 
-ERUVIEL ÁVILA VILLEGAS, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
+DECRETO del Honorable Congreso del Estado, por el que expide el REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
-Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
+Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- LVIII Legislatura.- H. Congreso del Estado de Puebla.
 
-DECRETO NÚMERO 198
+RAFAEL MORENO VALLE ROSAS, Gobernador Constitucional del Estado Libre y Soberano de Puebla, a sus habitantes sabed:
 
-LA H. “LVIII” LEGISLATURA DEL ESTADO DE MÉXICO
+Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
-DECRETA:
+EL HONORABLE QUINCUAGÉSIMO OCTAVO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-REFORMADA SU DENOMINACIÓN, G.G. 18 DE DICIEMBRE DE 2014)
+CONSIDERANDO.
 
-Ley de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil en el Estado de México
+Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I, 63 fracción II, 64 y 67 de la Constitución Política del Estado Libre y Soberano de Puebla; 102, 115, 119, 123 fracción I, 134 y 135 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 20, 21, 22, 23 y 24 fracción I del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide el siguiente:
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO SIN NÚMERO, MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA Y AL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, PUBLICADO EN EL P.O. 15 DE ABRIL DE 2013, LAS REFERENCIAS QUE A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO SE HAGAN EN TODO INSTRUMENTO LEGAL, JURÍDICO O ADMINISTRATIVO Y NORMA EN SENTIDO FORMAL O MATERIAL A LA COMISIÓN GENERAL INSPECTORA DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO O A SU TITULAR, SE ENTENDERÁN HECHAS A LA COMISIÓN GENERAL INSPECTORA DE LA AUDITORÍA SUPERIOR DEL ESTADO O A SU RESPECTIVO TITULAR.</small>
+
+REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO ÚNICO. DEL OBJETO
 
-###### Artículo 1.
+###### ARTÍCULO 1.
 
-La presente Ley es de orden público, interés social y observancia general para el Estado de México.
+El presente Reglamento tiene como objeto normar la organización del Congreso de Estado, su funcionamiento y el proceso legislativo, con el fin de hacer eficiente su estructura y actividad.
 
 ## TÍTULO SEGUNDO. DEL RECINTO OFICIAL DEL PODER LEGISLATIVO
 
-### CAPÍTULO II. De los derechos de las niñas y niños
-
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+### CAPÍTULO ÚNICO. DEL RECINTO, SALAS DE COMISIONES Y COMITÉS, EL SALÓN DE PLENOS Y LAS GALERÍAS
 
 #### SECCIÓN PRIMERA. DEL RECINTO
 
-###### Artículo 2.
+###### ARTÍCULO 2.
 
-La presente Ley tiene por objeto:
+El Recinto Legislativo es el conjunto arquitectónico que alberga al Congreso del Estado, incluyendo el Salón Miguel Hidalgo, Salas de Comisiones y Comités, oficinas, patios, estacionamiento y demás bienes inmuebles destinados para su funcionamiento.
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+###### ARTÍCULO 3.
 
-I. Garantizar a las niñas y niños, el acceso a los servicios de atención, cuidado y desarrollo integral en condiciones de igualdad, calidad, calidez, seguridad y protección adecuadas;
+La Junta de Gobierno y Coordinación Política, garantizará a través de los Órganos Técnico Administrativos que todos los Órganos Legislativos cuenten con los espacios adecuados, dentro del Recinto Legislativo, para el desempeño de sus funciones y desarrollo de sus reuniones.
 
-> <small>(REFORMADA, G.G. 11 DE MAYO DE 2023)</small>
+###### ARTÍCULO 4.
 
-II. Regular las bases, condiciones y procedimientos mínimos para la creación, administración, funcionamiento, monitoreo y verificación de ambientes seguros y libres de violencia de los Centros de Atención, Cuidado y Desarrollo Integral Infantil;
+Los Órganos de Representación, los Diputados y los Órganos Técnicos Administrativos, contarán con espacios dentro del Recinto, así como con los recursos humanos, técnicos y materiales suficientes para el desempeño de sus funciones.
 
-III. Establecer la concurrencia entre el Estado y los municipios en la regulación de los Centros de Atención, Cuidado y Desarrollo Integral Infantil;
+El Presidente de la Junta de Gobierno y Coordinación Política tendrá la responsabilidad de vigilar que se haga buen uso de los espacios del Congreso del Estado, asignados a los Órganos de Representación y Diputados.
 
-IV. Salvaguardar el ejercicio pleno de los derechos de las niñas y niños en los Centros de Atención, Cuidado y Desarrollo Integral Infantil.
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2014)</small>
-
-###### Artículo 3.
-
-La aplicación de la presente Ley corresponde a las dependencias del Poder Ejecutivo del Estado, y a los municipios que en la esfera de su competencia emitan autorizaciones, permisos, licencias o dictámenes para el funcionamiento de los centros de atención, cuidado o desarrollo integral infantil.
-
-La interpretación de esta Ley corresponde al Consejo Estatal para la Prestación de Servicios de Atención, Cuidado y Desarrollo Integral Infantil del Estado de México.
-
-###### Artículo 4.
-
-Son sujetos de la presente Ley, las dependencias públicas, organismos auxiliares y los particulares que presten los servicios para la atención, cuidado y desarrollo integral infantil, así como los usuarios de los Centros de Atención, quienes además de cumplir con la normatividad aplicable, deberán observar lo dispuesto por la presente Ley.
-
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+Si ocurriere algún daño a los espacios o bienes muebles del Congreso del Estado, por algún Diputado, será cubierto con recursos de éstos, de conformidad con la normatividad administrativa aplicable.
 
 #### SECCIÓN SEGUNDA. DEL SALÓN DE PLENO, Y DE LAS SALAS DE COMISIONES Y COMITÉS
 
-###### Artículo 5.
+###### ARTÍCULO 5.
 
-Los prestadores del servicio para la atención, cuidado y desarrollo integral infantil, ya sean públicos, privados, sociales y mixtos deben garantizar la seguridad, calidad e higiene de dicho servicio.
+El Salón de Pleno será el lugar dentro del Recinto Legislativo donde se reúnan los Diputados a sesionar.
 
-###### Artículo 6.
+###### ARTÍCULO 6.
 
-Los prestadores de servicios para la atención, cuidado y desarrollo integral infantil quedan sujetos a las disposiciones legales y administrativas aplicables y a lo dispuesto en la presente Ley.
+Las Salas de Comisiones y Comités serán las instalaciones del Congreso del Estado destinadas para que sus integrantes se reúnan con el fin de examinar, discutir, analizar, deliberar y dictaminar los asuntos turnados a las mismas.
 
-###### Artículo 7.
+###### ARTÍCULO 7.
 
-Para efectos de la presente Ley, se entiende por:
+Cuando asistan a las Sesiones Plenarias, de Comisiones o de Comités invitados especiales, funcionarios de los Poderes Ejecutivo o Judicial o de los diferentes órdenes de Gobierno, éstos ocuparán un lugar dentro del Salón de Pleno o las Salas, y no podrán intervenir en el desarrollo de las sesiones, salvo lo dispuesto en la Ley y este Reglamento.
 
-I. Centros de Atención: A las instalaciones donde se prestan servicios de atención física, psicológica, sanitaria, alimentaria, educación inicial, cuidado y desarrollo integral infantil a niñas y niños, desde los cuarenta y tres días de nacido y hasta los cuatro años de edad;
+La Mesa Directiva o el Presidente de la Comisión o Comité asignará el lugar o lugares que ocuparán los invitados especiales.
 
-II. Consejo: Al Consejo Estatal para la Prestación de Servicios de Atención, Cuidado y Desarrollo Integral Infantil del Estado de México;
-
-III. Desarrollo Integral Infantil: Al derecho que tienen las niñas y los niños a formarse física, mental, emocional y socialmente, en condiciones de igualdad;
-
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
-
-IV. Ley: A la Ley de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil en el Estado de México;
-
-V. Ley General: A la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil;
-
-VI. Medidas Cautelares: A las que emitan las autoridades competentes conforme con la presente Ley, para salvaguardar y proteger la vida y la integridad de las niñas y los niños, con motivo de la prestación de los servicios de atención, cuidado y desarrollo integral infantil;
-
-VII. Modalidades y Tipos: A las modalidades y los tipos del servicio de atención, cuidado y desarrollo integral infantil que refiere la presente Ley;
-
-VIII. Política Pública: A la política pública para la prestación de servicios de atención, cuidado y desarrollo integral infantil del Estado de México;
-
-IX. Prestadores de servicios: A las personas físicas o jurídicas colectivas que cuenten con autorización emitida por la autoridad competente, para instalar y operar uno o varios centros de atención en cualquier modalidad y tipo;
-
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
-
-X. Programa Integral: al Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento.;
-
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
-
-XI. Programa Específico: Al Programa Específico de Protección Civil;
-
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
-
-XII. Programa Interno: Al Programa Interno de Protección Civil;
-
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
-
-XIII. Registro Estatal: Al Registro de Centros de Atención que operen bajo cualquier modalidad y tipo en el territorio del Estado de México;
-
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
-
-XIV. Servicios de atención, cuidado y desarrollo integral infantil: A las medidas dirigidas a las niñas y los niños en los centros de atención, consistentes en la atención física, psicológica, sanitaria, alimentaria, educación inicial y cuidado para su desarrollo integral;
-
-> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
-
-XV. Usuario: Al padre, la madre, el tutor o quienes ejerzan la guarda o custodia del niño o niña, que utilice los servicios de un Centro de Atención, en cualquier modalidad y tipo.
+De igual manera, deberán disponerse lugares en el Salón de Pleno o en las Salas, para los Servidores Públicos del Congreso, así como para el equipo de apoyo que brinda asesoría a los Diputados.
 
 #### SECCIÓN TERCERA. DE LAS GALERÍAS
 
-###### Artículo 8.
+###### ARTÍCULO 8.
 
-Los poderes Legislativo, Judicial, Ejecutivo y los ayuntamientos, así como sus organismos auxiliares y órganos constitucionales, en el ámbito de sus respectivas competencias, garantizarán la vigencia y observancia de los derechos de las niñas y niños sujetos a la prestación de los servicios de atención, cuidado o desarrollo integral, conforme a lo establecido en normas constitucionales, tratados internacionales y leyes aplicables.
+En el Salón de Pleno, habrá un lugar denominado Galerías, destinado al público que concurra a presenciar las Sesiones del Congreso del Estado. Las puertas se abrirán antes de comenzar las Sesiones Plenarias y sólo se cerrarán en el momento que las Sesiones se levanten, cuando haya Sesiones Secretas, o sea necesario cerrarlas para restaurar el orden.
 
-###### Artículo 9.
+###### ARTÍCULO 9.
 
-Los niños y las niñas sujetos a la prestación de los servicios de atención, cuidado y desarrollo integral infantil, tendrán derecho:
+Las personas que concurran a las Galerías del Congreso del Estado, deberán guardar respetuoso silencio y compostura, por lo que, durante el desarrollo de las Sesiones, se prohíbe el uso de teléfonos celulares, radio localizadores o cualquier otro instrumento que contravenga con lo preceptuado en este artículo.
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+###### ARTÍCULO 10.
 
-l. A ser tratados con tolerancia y comprensión en el ejercicio pleno de sus derechos en función de su edad y madurez;
+Los que perturben de cualquier modo el orden en las Galerías, serán retirados del Recinto en el mismo acto. Pero si la falta motivare la comisión de algún delito, serán consignados a la autoridad competente.
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+###### ARTÍCULO 11.
 
-II. A ser tratados ellos o los usuarios sin discriminación de ningún tipo;
+Si las medidas adoptadas no bastaren para contener el desorden, el Presidente de la Mesa Directiva podrá levantar la Sesión correspondiente y en su caso, continuarla cuando se reestablezca (sic) el orden.
 
-III. A recibir servicios de calidad y con calidez, por parte de personal apto, suficiente y que cuente con la formación o capacidades desde un enfoque de los derechos humanos de la niñez y, en su caso, de los indígenas y de los discapacitados;
+###### ARTÍCULO 12.
 
-IV. A un entorno seguro, afectivo y libre de violencia;
+Si el Presidente de la Mesa Directiva lo considera conveniente, podrá solicitar el auxilio de la fuerza pública, quedando la misma bajo sus órdenes.
 
-V. A la atención y promoción de su salud;
-
-VI. A expresar su opinión libremente en todos los asuntos que les afecten, teniéndose debidamente en cuenta sus opiniones en función de su edad y madurez;
-
-VII. A recibir la alimentación que les permita tener una nutrición adecuada;
-
-VIII. A recibir orientación y educación apropiada y acorde con su edad, enfocadas a lograr su desarrollo físico, cognitivo, afectivo y social hasta el máximo de sus posibilidades;
-
-IX. Al descanso, al juego y al esparcimiento;
-
-X. Al cuidado y protección contra actos u omisiones que puedan afectar su integridad física o psicológica.
-
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
-
-###### Artículo 10.
-
-En todo momento prevalecerá el interés superior de las niñas y niños, especialmente al recibir los servicios para la atención, cuidado y desarrollo integral infantil.
-
-###### Artículo 11.
-
-A fin de garantizar su interés superior, las niñas y niños tienen derecho a recibir los servicios para su atención, cuidado y desarrollo integral en condiciones de calidad, calidez, seguridad, protección y respeto a sus derechos, identidad e individualidad.
-
-###### Artículo 12.
-
-Con el fin de garantizar el cumplimiento de los servicios a que se refiere esta Ley, en los Centros de Atención se contemplarán, al menos las siguientes actividades:
-
-I. Alimentación adecuada y suficiente para su nutrición;
-
-II. Apoyo al desarrollo biológico, cognoscitivo, psicomotriz y socio-afectivo;
-
-III. Atención médica en caso de urgencia, la cual podrá brindarse en el Centro de Atención por personal debidamente certificado o a través de instituciones de salud públicas o privadas;
-
-IV. Descanso, esparcimiento, juego y actividades recreativas propias de la edad;
-
-V. Enseñanza del lenguaje y comunicación incluyendo, en su caso, lenguas indígenas, sistema braille o el de señas;
-
-VI. Fomento a la comprensión y ejercicio de los derechos de las niñas y los niños;
-
-VII. Fomento al cuidado de la salud;
-
-VIII. Información y apoyo a los padres, tutores o quienes tengan la responsabilidad del cuidado o crianza, para fortalecer la comprensión de sus funciones en la educación de las niñas y los niños;
-
-IX. Protección y seguridad;
-
-X. Supervisión e inspección efectiva en materia de salud y protección civil.
+El Presidente de la Mesa Directiva valorará abrir nuevamente las galerías, esto, una vez restaurado el orden, si estima que las garantías de seguridad son las adecuadas.
 
 ## TÍTULO TERCERO. DE LOS DIPUTADOS
 
-### CAPÍTULO III. De la competencia estatal y municipal
+### CAPÍTULO I. GENERALIDADES
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+###### ARTÍCULO 13.
 
-###### Artículo 13.
+El Congreso del Estado se instalará por Legislaturas, llevando a cabo sus actividades en periodos de sesiones, de acuerdo con lo dispuesto por la Constitución Política del Estado Libre y Soberano de Puebla, la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla y este Reglamento.
 
-Para garantizar la aplicación y el cumplimiento del objeto de la presente Ley, corresponde a las dependencias del Ejecutivo, organismos auxiliares y autónomos, así como autoridades municipales en el ejercicio de sus atribuciones, lo siguiente:
+###### ARTÍCULO 14.
 
-l. Al Sistema para el Desarrollo Integral de la Familia:
+Los Diputados deben asistir con puntualidad a las Sesiones del Congreso y de la Comisión Permanente, así como a las de las Comisiones y de los Comités de los que formen parte, permaneciendo en ellas hasta que concluyan; no tendrán preferencia de lugar, y guardarán el decoro que corresponde a su investidura.
 
-a) Autorizar el inicio de operaciones de los centros de atención operados por los sistemas municipales del DIF.
+###### ARTÍCULO 15.
 
-b) Promover la participación y coordinación con los sistemas municipales del DIF para apoyar la adecuada operación del servicio.
+Los Diputados tendrán los mismos derechos, obligaciones y prerrogativas, sin importar su filiación política o sistema de elección.
 
-c) Difundir entre los sistemas municipales del DIF las normas y lineamientos que regirán el desarrollo del servicio.
+###### ARTÍCULO 16.
 
-> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+Cuando un Diputado no pudiere asistir o permanecer en la Sesión, deberá comunicarlo al Presidente del Órgano Legislativo correspondiente, quien podrá otorgar la justificación correspondiente. Lo mismo sucederá cuando se trate de enfermedad u otro motivo grave.
 
-d) Proporcionar la capacitación necesaria que requieren las personas auxiliares educativas y docentes que operen el Programa de Estimulación Temprana, en coordinación con los sistemas municipales del DIF.
+###### ARTÍCULO 17.
 
-> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+Para el caso de las inasistencias de los Diputados a las Sesiones de Comisiones y Comités, se observará lo dispuesto en el Capítulo respectivo del presente Reglamento.
 
-e) Promover en coordinación con los sistemas municipales del DIF que personal docente y auxiliar cuenten con el perfil profesional requerido en la normatividad aplicable.
+###### ARTÍCULO 18.
 
-f) Garantizar que los insumos alimentarios que integren las raciones y dotaciones, cumplan con las especificaciones técnicas y normas vigentes.
+En los recesos del Pleno del Congreso, los Diputados deberán cumplir con lo establecido en la Constitución Política del Estado Libre y Soberano.
 
-> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
-
-g) Coordinarse con la Secretaría de Educación, Ciencia, Tecnología e Innovación para el seguimiento y vigilancia educativa.
-
-h) Realizar visitas de supervisión periódicas a los centros de atención operadas por el Sistema para el Desarrollo Integral de la Familia y los sistemas municipales del DIF.
-
-i) Dar de baja a los centros de atención operados por el Sistema para el Desarrollo Integral de la Familia y los sistemas municipales del DIF que incumplan con las disposiciones jurídicas aplicables.
-
-j) Operar el Registro Estatal.
-
-k) Coadyuvar en la elaboración del Programa Estatal de Prestación de Servicios de Atención, Cuidado y Desarrollo Integral Infantil del Estado de México.
-
-l) Participar en la elaboración del Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento.
-
-m) Las demás que le confieran otros ordenamientos jurídicos aplicables.
-
-II. A la Secretaría de Salud:
-
-a) Coadyuvar en la elaboración del Programa Estatal de Prestación de Servicios de Atención, Cuidado y Desarrollo Integral Infantil del Estado de México.
-
-b) Participar en la elaboración del Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento.
-
-c) Otorgar a través de la COPRISEM el Aviso de Funcionamiento y Aviso de Responsable Sanitario, conforme a lo dispuesto por la Norma Oficial Mexicana NOM-032-SSA3-2010.
-
-d) Emitir los lineamientos que establezcan el procedimiento para otorgar el Aviso de Funcionamiento y Aviso de Responsable Sanitario.
-
-e) Informar al Sistema para el Desarrollo Integral de la Familia a través del Registro Estatal, la emisión del Aviso de Funcionamiento y de Responsable Sanitario que otorgue a los particulares.
-
-f) Establecer programas de formación, actualización y capacitación para el personal que labore en los centros de atención.
-
-g) Las demás necesarias para el cumplimiento del modelo de atención con enfoque integral para la educación inicial.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRFAFO], G.G. 5 DE ABRIL DE 2024)</small>
-
-III. A la Secretaría de Educación, Ciencia, Tecnología e Innovación:
-
-a) Expedir los lineamientos para la aplicación del modelo de atención con enfoque integral para la educación inicial.
-
-b) Orientar a los prestadores de servicios de desarrollo integral infantil en la aplicación del modelo de atención con enfoque integral para la educación inicial y los agentes educativos.
-
-c) Realizar cursos de capacitación, cuando se soliciten por los prestadores de servicios de desarrollo integral infantil respecto al modelo de atención con enfoque integral para la educación inicial y de los agentes educativos.
-
-d) Expedir el dictamen a los prestadores de servicios de desarrollo integral infantil que apliquen el modelo de atención con enfoque integral para la educación inicial.
-
-e) Supervisar la aplicación del modelo de atención con enfoque integral para la educación inicial, cuando sean centros que hayan obtenido dictamen.
-
-f) Informar al Sistema para el Desarrollo Integral de la Familia a través del Registro Estatal las autorizaciones que se otorguen a los particulares.
-
-g) Coadyuvar en la elaboración del Programa Estatal de Prestación de Servicios de Atención, Cuidado y Desarrollo Integral Infantil del Estado de México.
-
-h) Participar en la elaboración del Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento.
-
-i) Establecer programas de formación, actualización y capacitación para el personal que labore en los centros de atención.
-
-j) Las demás necesarias para el cumplimiento del modelo de atención con enfoque integral para la educación inicial.
-
-IV. Secretaría General de Gobierno:
-
-a) Establecer la metodología para la elaboración de programas internos y específicos de protección civil.
-
-b) Proponer políticas y estrategias para el desarrollo de programas en la materia.
-
-c) Expedir y actualizar la aplicación de normas técnicas estatales y demás disposiciones en la materia.
-
-d) Promover y difundir la cultura de protección civil.
-
-e) Realizar visitas colegiadas focalizadas para verificar el cumplimiento de las disposiciones en materia de protección civil, en coordinación con los municipios.
-
-f) Coadyuvar en la elaboración del Programa Estatal de Prestación de Servicios de Atención, Cuidado y Desarrollo Integral Infantil del Estado de México.
-
-g) Participar en la elaboración del Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento.
-
-h) Establecer programas de formación, actualización y capacitación para el personal que labore en los centros de atención.
-
-i) Emitir el dictamen en materia de protección civil para los centros de atención,
-
-j) Realizar visitas de verificación en coordinación con las autoridades municipales.
-
-k) Las demás que le confieran otros ordenamientos jurídicos.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRFAFO], G.G. 5 DE ABRIL DE 2024)</small>
-
-V. Secretaría de Bienestar:
-
-a) Coadyuvar en la elaboración del Programa Estatal de Prestación de Servicios de Atención, Cuidado y Desarrollo Integral Infantil del Estado de México.
-
-b) Participar en la elaboración del Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento.
-
-c) Establecer programas de formación, actualización y capacitación para el personal que labore en los centros de atención.
-
-d) Difundir en los centros de atención las normas y lineamientos que regirán el desarrollo del servicio.
-
-e) Realizar visitas de verificación en los centros de atención, conforme a lo establecido en la Ley General, la presente Ley, su Reglamento y las diferentes normas oficiales mexicanas en la materia.
-
-f) Las demás que le confieran otros ordenamientos jurídicos.
-
-VI. A la Comisión de Derechos Humanos del Estado de México:
-
-a) Elaborar y ejecutar programas de investigación, estudio, capacitación, enseñanza, promoción y difusión de los derechos humanos de niñas y niños.
-
-> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
-
-b) Coordinar acciones con la Secretaría de Educación, Ciencia, Tecnología e Innovación con el fin de promover y fomentar la cultura del reconocimiento y respeto de los derechos humanos.
-
-c) Proporcionar orientación y asesoría jurídica a las personas que lo soliciten.
-
-d) Conocer de quejas o iniciar de oficio investigaciones sobre presuntas violaciones a derechos humanos de niñas y niños por actos u omisiones de naturaleza administrativa de cualquier autoridad o servidor público estatal o municipal.
-
-e) Coadyuvar en la elaboración del Programa Estatal de Prestación de Servicios de Atención, Cuidado y Desarrollo Integral Infantil del Estado de México.
-
-f) Participar en la elaboración del Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento.
-
-g) Las demás que le confieran otros ordenamientos jurídicos aplicables.
-
-VII. Ayuntamientos:
-
-a) Otorgar a los particulares la autorización para la apertura e inicio de actividades de los centros de atención, previo cumplimiento de las disposiciones contenidas en esta Ley.
-
-b) Informar al Registro Estatal, a través del Sistema para el Desarrollo Integral de la Familia del Estado de México, las autorizaciones que se otorguen a los particulares.
-
-c) Establecer programas de formación, actualización y capacitación para el personal que labore en los centros de atención.
-
-d) Realizar las visitas de verificación correspondientes conforme a lo establecido en la Ley General, la presente Ley, su Reglamento y las diferentes normas oficiales mexicanas en la materia.
-
-e) Aplicar las sanciones correspondientes en su materia, como consecuencia del incumplimiento la presente Ley y respectivo Reglamento.
-
-f) Vigilar el establecimiento y operación de las unidades internas de protección civil de los centros de atención.
-
-g) Supervisar la elaboración y registro del Programa Específico o Interno de Protección Civil.
-
-h) Coadyuvar en la realización de simulacros de protección civil, por lo menos seis veces al año, en coordinación con las autoridades competentes.
-
-i) Efectuar en coordinación con la Secretaría General de Gobierno, cuando menos cada seis meses, visitas de verificación con el objeto de constatar que los centros de atención cuenten con señales preventivas, prohibitivas, informativas de emergencia y de obligación, así como contar con salidas de emergencia, libres de obstáculos, que las puertas abran en sentido al flujo y que cuenten con un mecanismo que permita abrirlas desde el interior mediante una operación simple de empuje o que permitan una rápida apertura manual.
-
-j) Revisar que los centros de atención cuenten con equipo para la atención de emergencias.
-
-###### Artículo 14.
-
-Las disposiciones relativas a la prestación de servicios para la atención, cuidado y desarrollo integral infantil que se emitan por parte de la administración pública estatal y municipal, en el ámbito de sus respectivas competencias, deberán sujetarse a la presente Ley y a la Ley General.
-
-###### Artículo 15.
-
-Las autoridades estatales y municipales, en el ámbito de su competencia, verificarán que las disposiciones relativas a las materias y servicios señalados en el artículo anterior y su cumplimiento, se apeguen a lo dispuesto en las normas oficiales mexicanas aplicables.
-
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
-
-###### Artículo 16.
-
-Las autoridades competentes adoptarán las medidas para garantizar la seguridad de las niñas y los niños y llevarán a cabo campañas de prevención y denuncia de irregularidades en las instalaciones y sobre las condiciones del servicio de atención, cuidado o desarrollo integral infantil.
-
-###### Artículo 17.
-
-El Estado de México participará en la rectoría de los servicios para la atención, cuidado y desarrollo integral infantil y tendrá la responsabilidad indeclinable en la autorización, funcionamiento, monitoreo, supervisión y evaluación de dichos servicios en los términos de la Ley General y de esta Ley.
-
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
-
-###### Artículo 18.
-
-La prestación de los servicios para la atención, cuidado y desarrollo integral infantil podrá otorgarse por las dependencias y entidades estatales o municipales o a través de las personas del sector social o privado, en términos de las disposiciones aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 18 Bis.
 
@@ -413,323 +157,207 @@ Al respecto, una vez concluida la comisión, deberán elaborar un informe detall
 
 En tal sentido, es responsabilidad de los Diputados cumplir con sus obligaciones legislativas, así como evitar que éstos interfieran con su asistencia a las Sesiones de Pleno, Comisiones y Comités.
 
-### CAPÍTULO IV. De la política pública de prestación de Servicios de Atención, Cuidado y Desarrollo Integral Infantil
+### CAPÍTULO II. DE LAS PRERROGATIVAS DE LOS DIPUTADOS
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+###### ARTÍCULO 19.
 
-###### Artículo 19.
+Los Diputados tendrán las prerrogativas siguientes:
 
-Son atribuciones de las autoridades competentes en materia de prestación de servicios de atención, cuidado o desarrollo integral infantil, además de las establecidas en la Ley General, las siguientes:
+I.- Contar con los recursos humanos, materiales y financieros que les permitan desempeñar con eficacia y dignidad su cargo; y
 
-I. Asesorar a los gobiernos municipales en la elaboración y ejecución de sus respectivos programas, de acuerdo al Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento;
+II.- Disponer de los servicios de comunicación y demás servicios con que cuente el Congreso del Estado para el desarrollo de su función.
 
-II. Brindar orientación para que los prestadores del servicio de atención, cuidado y desarrollo integral infantil cumplan rigurosamente con la normatividad referida en la fracción anterior;
+Las solicitudes de los Diputados, con base en las prerrogativas enunciadas, estarán sujetas a las limitaciones legales y a la disponibilidad de los recursos presupuestarios, financieros, administrativos y humanos del Congreso del Estado.
 
-III. Celebrar convenios de coordinación en la materia con los demás órdenes de gobierno, para alcanzar los fines de la presente Ley;
+### CAPÍTULO III. DE LAS SUPLENCIAS, VACANTES Y LICENCIAS AL CARGO DE DIPUTADO
 
-IV. Coadyuvar con el Consejo Nacional;
+###### ARTÍCULO 20.
 
-> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+Los Diputados pueden dejar de ejercer temporalmente sus funciones por los motivos siguientes:
 
-V. Establecer y operar el Registro Estatal, a través del Sistema para el Desarrollo Integral de la Familia del Estado de México, en coordinación con las secretarías de Educación, Ciencia, Tecnología e Innovación, de Bienestar, de Salud y los ayuntamientos;
+I.- Licencia;
 
-VI. Decretar las medidas cautelares necesarias a los Centros de Atención;
+II.- Declaración de haber lugar a formación de causa; y
 
-VII. Determinar los indicadores que permitan evaluar la aplicación del Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento a que se refiere la fracción I de este artículo;
-
-VIII. Difundir los principios generales de esta Ley entre los usuarios y los prestadores de servicios de atención, cuidado y desarrollo integral infantil, así como la normatividad que establezca los mínimos necesarios para la prestación del servicio en materia de salubridad, infraestructura, equipamiento, seguridad y protección civil;
-
-IX. Elaborar, aplicar y evaluar el Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento, cuyas directrices deberán atender al objeto de la presente Ley, así como a los fines del Consejo;
-
-X. Establecer mecanismos eficaces que permitan a las niñas y los niños con discapacidad, recibir atención especializada, de conformidad con las disposiciones de la materia;
-
-XI. Fomentar la realización de estudios e investigaciones en la materia;
-
-XII. Hacer del conocimiento de la autoridad competente toda aquella conducta o hecho que pueda constituir un ilícito;
-
-XIII. Imponer las sanciones que correspondan a su ámbito de competencia, por el incumplimiento a las disposiciones de esta Ley;
-
-XIV. Organizar el Consejo Estatal, así como promover el cumplimiento de sus objetivos;
-
-XV. Promover y celebrar convenios de concertación con los sectores privado y social, para el impulso, fomento y desarrollo de los fines de la presente Ley;
-
-XVI. Verificar, en su ámbito de competencia, que la prestación de los servicios cumpla con los estándares de calidad y seguridad que exige el principio de interés superior de la niñez;
-
-XVII. Las demás que les señalen esta Ley y otras disposiciones jurídicas.
-
-### CAPÍTULO V. Del Consejo Estatal para la Prestación de Servicios de Atención, Cuidado y Desarrollo Integral Infantil del Estado de México
-
-###### Artículo 20.
-
-Son atribuciones de los municipios en materia de atención, cuidado y desarrollo integral infantil:
-
-I. Celebrar convenios de coordinación en la materia con los demás órdenes de gobierno, para alcanzar los fines de la presente Ley;
-
-II. Coadyuvar con la prestación de servicios para la atención, cuidado y desarrollo integral infantil, así como en la integración y operación del Registro;
-
-III. Elaborar, aprobar, ejecutar y evaluar el Programa Municipal en Materia de Prestación de Servicios de Atención, Cuidado y Desarrollo Integral Infantil, de conformidad con el objeto de la presente Ley. Para tal efecto se considerarán las directrices previstas en el Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento;
-
-IV. Determinar los indicadores que permitan evaluar la aplicación del Programa a que se refiere la fracción III de este artículo;
-
-V. Fomentar la realización de estudios e investigaciones en la materia;
-
-VI. Formular, conducir y evaluar la política municipal en materia de prestación de servicios para la atención, cuidado y desarrollo integral infantil, en congruencia con las políticas, tanto Estatal, como Federal en la materia;
-
-VII. Hacer del conocimiento de la autoridad competente toda aquella conducta o hecho que pueda constituir un ilícito;
-
-VIII. Imponer las sanciones, en el ámbito de su competencia, a las que se refiere la presente Ley;
-
-IX. Promover y celebrar convenios de concertación con los sectores privado y social, para las acciones tendientes a favorecer la prestación de servicios para la atención, cuidado y desarrollo integral infantil, en los términos de la presente Ley;
-
-X. Verificar en su ámbito de competencia, que la prestación de los servicios cumpla con los estándares de calidad y seguridad que exige el principio del interés superior de la niñez;
-
-XI. Vigilar el cumplimiento de esta Ley y demás disposiciones aplicables en su ámbito de competencia que se relacionen y deriven de la misma, por parte de los prestadores de servicios para la atención, cuidado y desarrollo integral infantil;
-
-XII. Decretar las medidas precautorias necesarias a los Centros de Atención, autorizados por el municipio en cualquier modalidad o tipo;
-
-XIII. Las demás que les señale esta Ley y otras disposiciones legales.
+III.- Causas de fuerza mayor.
 
 #### SECCIÓN PRIMERA. LICENCIA
 
-###### Artículo 21.
+###### ARTÍCULO 21.
 
-Es prioritaria y de interés público la política gubernamental que se formule, ejecute y evalúe en materia de prestación de los servicios a que se refiere la presente Ley, la cual será determinada por el Consejo y permitirá la coordinación de esfuerzos de los distintos órdenes de gobierno y de los sectores público, social y privado, en términos del Programa Estatal en materia de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil.
+Los Diputados tendrán derecho a solicitar licencia, en el ejercicio del cargo por las siguientes causas:
 
-###### Artículo 22.
+I.- Enfermedad que incapacite el desempeño de la función;
 
-La Política Pública deberá velar por el cumplimiento de los siguientes objetivos:
+II.- Optar por el desempeño de una comisión o empleo de la Federación, del Gobierno del Estado, de alguna otra Entidad Federativa y de los Municipios, por el que se disfrute de remuneración económica;
 
-I. Contribuir al mejoramiento progresivo y al fortalecimiento de los servicios para la atención, cuidado y desarrollo integral infantil;
+III.- Ocupar un cargo dentro de algún partido político;
 
-II. Definir criterios estandarizados de calidad y seguridad;
+IV.- Postularse a otro cargo de elección popular, cuando tal licencia sea una condición establecida en las normas internas del partido político o en las disposiciones electorales correspondientes; y
 
-III. Fomentar la equidad de género;
+V.- Para desahogar trámites o comparecencias ante la autoridad competente, por procesos judiciales o jurisdiccionales.
 
-IV. Garantizar criterios cuantitativos y cualitativos de los servicios, de conformidad con las prioridades que defina el Consejo, y de los requerimientos y características de los modelos de atención;
+###### ARTÍCULO 22.
 
-V. Garantizar el reconocimiento de la dignidad de las niñas y los niños, a partir de la creación de las condiciones necesarias de respeto, protección y ejercicio pleno de sus derechos;
+Cuando un Diputado solicite licencia para separarse del cargo por más de treinta días o por tiempo indefinido mayor de treinta días, deberá hacerlo por escrito, y el Pleno del Congreso, o en su caso, la Comisión Permanente, podrán concederla mediante resolución que se publicará en el Periódico Oficial del Estado.
 
-VI. Promover el acceso de las niñas y los niños con discapacidad, que se encuentren en situación de calle, que habiten en el medio rural, migrantes o jornaleros agrícolas, comunidades indígenas, en situación de riesgo o vulnerabilidad y en general población que habite en zonas marginadas o de extrema pobreza, a los servicios que señala esta Ley, sin importar sus condiciones económicas, físicas, intelectuales o sensoriales;
+Cuando se trate de licencias menores de treinta días o por tiempo indefinido menor a treinta días, será la Mesa Directiva o la Comisión Permanente, quien las conocerá, acordará y concederá, informando de estas al Pleno, dicha resolución se publicará en el Periódico Oficial del Estado.
 
-VII. Promover pautas de convivencia familiar y comunitaria fundadas en el respeto, protección y ejercicio de los derechos de niñas y niños.
+###### ARTÍCULO 23.
 
-###### Artículo 23.
+En el caso del artículo anterior, cuando la licencia la conceda el Pleno o la Comisión Permanente, se llamará al Suplente respectivo, quien rendirá la protesta constitucional en los mismos términos que los Diputados propietarios y a partir de entonces, percibirá la dieta correspondiente.
 
-En el diseño, implementación, monitoreo y evaluación de la Política Estatal y en la aplicación e interpretación de la presente Ley, se deberá atender a los siguientes principios:
+###### ARTÍCULO 24.
 
-I. Interés superior de la niñez: Que será eje rector para la toma de decisiones de los padres o tutores, directivos y personal de los centros de atención, quienes deberán actuar privilegiando el bienestar del menor;
+Si la licencia fuere otorgada por enfermedad o accidente que impidiere al Diputado el ejercicio de su cargo hasta por tres meses, disfrutará de la dieta correspondiente, pero si transcurren estos y la causa continúa, se llamará al Suplente, acordándose respecto del Diputado enfermo o incapacitado lo que la Mesa Directiva o la Comisión Permanente estimen conveniente, considerando las circunstancias de cada caso.
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+###### ARTÍCULO 25.
 
-II. Calidad: Los servicios de los centros de atención se proveerán de manera eficiente y eficaz, conforme a los estándares y normas oficiales correspondientes y la mejora continua;
+Las licencias que conceda el Congreso del Estado, no podrán ser a más de la mitad de sus integrantes de manera simultánea.
 
-III. Desarrollo de las niñas y los niños: En todos los aspectos de su vida, ya sean físicos, emocionales, psicosociales, cognitivos, sociales, educativos o culturales;
-
-IV. Equidad de género;
-
-V. No discriminación e igualdad de derechos;
-
-VI. Participación de niñas y niños en todos los asuntos que les atañen;
-
-VII. Participación, el derecho y obligación de las madres, padres o tutores a colaborar en los objetivos de los Centros de Atención, velando por el debido cuidado de las niñas y los niños, especialmente en materia de seguridad e higiene;
-
-VIII. Respeto: En todo momento se deberá proteger la dignidad, integridad y derechos fundamentales de las niñas y los niños;
-
-IX. Seguridad: Salvaguardar el derecho a la vida, la integridad física y psicológica, promoviendo espacios educativos libres de violencia escolar.
-
-###### Artículo 24.
-
-La Política Pública será evaluada por el Consejo, para conocer el grado de cumplimiento de los principios, objetivos, criterios, lineamientos y directrices a seguir por las dependencias y entidades en la materia, así como medir el impacto de la prestación de los servicios en las niñas y los niños.
-
-###### Artículo 25.
-
-El Consejo llevará a cabo la evaluación a través de uno o varios organismos independientes que podrán ser instituciones de educación superior, de investigación científica u organizaciones no gubernamentales sin fines de lucro.
+De ser aprobada por el Pleno, la Mesa Directiva o la Comisión Permanente, la licencia comenzará a surtir efectos en los términos solicitados.
 
 #### SECCIÓN SEGUNDA. DECLARACIÓN DE HABER LUGAR A FORMACIÓN DE CAUSA
 
-###### Artículo 26.
+###### ARTÍCULO 26.
 
-El Consejo es una instancia de consulta y coordinación, a través de la cual se dará seguimiento continuo a las acciones que tengan por objeto promover mecanismos interinstitucionales, que permitan establecer políticas públicas y estrategias de atención en la materia.
+Una vez declarado que ha lugar a formación de causa contra un Diputado, quedará suspendido en el ejercicio de sus funciones y se llamará al Suplente. Si éste fuere absolutorio, se le reintegrará la parte que dejó de percibir, acordando el Congreso del Estado lo que proceda para que se dé cumplimiento a esta disposición.
 
 #### SECCIÓN TERCERA. CAUSAS DE FUERZA MAYOR
 
-###### Artículo 27.
+###### ARTÍCULO 27.
 
-Son atribuciones del Consejo:
+Si el Diputado enfermare de gravedad, el Presidente de la Mesa Directiva nombrará una comisión integrada por dos Diputados para que lo visiten y conozcan de sus necesidades, a fin de dar cuenta al Congreso del Estado, para que éste, con base en los informes, acuerde lo procedente.
 
-I. Aprobar su reglamento y normas de operación;
+La comisión nombrada informará oportunamente al Pleno el estado de salud del enfermo. Dicha información será considerada como reservada.
 
-II. Formular, conducir y evaluar la Política Pública que permita la conjunción de esfuerzos de los distintos órdenes de gobierno y de los sectores público, privado y social en la promoción de condiciones favorables al cuidado y desarrollo integral de las niñas y los niños;
+###### ARTÍCULO 28.
 
-III. Impulsar la coordinación interinstitucional, así como la concertación de acciones entre los sectores público, social y privado;
+Si algún Diputado falleciere, el Presidente de la Junta de Gobierno y Coordinación Política suscribirá la esquela correspondiente, ordenando su publicación en los diarios de mayor circulación en el Estado, además de proporcionar a la familia del fallecido los recursos necesarios para los gastos del funeral, independientemente de las prestaciones de Ley.
 
-IV. Impulsar la investigación y la generación de estudios que contribuyan a la toma de decisiones y la planeación de políticas públicas vinculadas con el objeto de esta Ley;
+Asimismo, quedará en la Dirección General de Administración y Finanzas del Congreso del Estado, el monto equivalente a quince meses de dieta, a efecto de que sean puestos a disposición de quien legalmente tenga derecho a la misma.
 
-V. Impulsar programas conjuntos de capacitación y seguimiento para el personal que labora en los Centros de Atención;
+El Presidente nombrará una Comisión de Diputados para que concurra al duelo, haciendo participe el fallecimiento, por oficio, a los otros Poderes del Estado, a los de la Federación y a las Legislaturas de los Estados.
 
-VI. Promover ante las instancias competentes la certificación de competencias laborales para el personal que preste sus servicios en los Centros de Atención;
+###### ARTÍCULO 29.
 
-VII. Promover el diseño y uso de indicadores, así como la implementación de mecanismos de seguimiento y evaluación de la cobertura y calidad de los servicios que se ofrecen;
-
-VIII. Promover el monitoreo ciudadano y el acceso a la información de los programas de servicios de atención, cuidado y desarrollo integral infantil, a fin de garantizar la transparencia y el uso eficiente de los recursos públicos;
-
-IX. Promover la ampliación de la cobertura y la calidad de los servicios a través de esquemas diversificados y regionalizados;
-
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
-
-X. Promover la participación de las familias, la sociedad, las niñas y los niños, en el caso de estos últimos de acuerdo con su edad y madurez;
-
-XI. Promover los mecanismos de corresponsabilidad y solidaridad entre la sociedad civil y las diferentes dependencias y entidades que integran el Consejo.
-
-> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
-
-XII. Coadyuvar con el Consejo Nacional;
-
-> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
-
-XIII. Elaborar el Programa Estatal en materia de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil.
-
-###### Artículo 28.
-
-Son objetivos del Consejo:
-
-I. Coordinar esfuerzos de las dependencias y entidades que conforman el Consejo, para promover mecanismos que permitan mejorar la calidad de los servicios para la atención, cuidado y desarrollo integral infantil;
-
-II. Diseñar políticas públicas, estrategias y acciones coordinadas para asegurar la atención integral a niñas y niños;
-
-III. Generar y ejecutar acciones de gobierno para ofrecer un servicio de atención, cuidado y desarrollo integral infantil con criterios comunes de calidad, a través del fomento de actividades de capacitación, certificación, supervisión y seguimiento de los servicios.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
-
-###### Artículo 29.
-
-El Consejo se integrará con las personas titulares de las siguientes dependencias:
-
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
-
-l. Del Sistema para el Desarrollo Integral de la Familia del Estado de México, quien lo presidirá;
-
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
-
-II. De la Secretaría de Salud;
-
-> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
-
-III. De la Secretaría de Educación, Ciencia, Tecnología e Innovación;
-
-IV. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
-
-V. De la Secretaría General de Gobierno;
-
-> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
-
-VI. De la Secretaría de Bienestar;
-
-VII. De la Comisión de Derechos Humanos del Estado de México.
-
-El Consejo podrá invitar a organizaciones sociales y especialistas en la materia, los cuales participarán en las sesiones únicamente con voz y para efectos de opinión.
+Si el sepelio se verifica el día de la Sesión, ésta se suspenderá en señal de duelo.
 
 #### SECCIÓN CUARTA. DE LAS FALTAS INJUSTIFICADAS
 
-###### Artículo 30.
+###### ARTÍCULO 30.
 
-Los titulares podrán designar un suplente, el cual deberá tener, al menos, nivel jerárquico de director general o equivalente. El cargo de consejero será honorífico.
+Al faltar un Diputado a más de tres sesiones consecutivas sin causa justificada o sin autorización previa, se entenderá que renuncia a concurrir al Congreso del Estado por el resto del Periodo, debiendo presentarse hasta el periodo inmediato Ordinario y no tendrá derecho a percibir su dieta desde la primera Sesión a que faltare. En estos casos se llamará al Suplente respectivo.
 
-### CAPÍTULO VI. Del Registro Estatal de los Centros de Atención del Estado de México
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+### CAPÍTULO IV. DE LA SUPLENCIA POR SUSPENSIÓN O PÉRDIDA DE LA CONDICIÓN DE DIPUTADO
 
 #### SECCIÓN PRIMERA. DE LA SUPLENCIA
 
-###### Artículo 31.
+###### ARTÍCULO 31.
 
-Los integrantes del Consejo se reunirán en sesiones ordinarias por lo menos dos veces al año, para dar seguimiento a las acciones acordadas entre sus integrantes.
+La suplencia procede cuando un Diputado Propietario:
+
+I.- No acuda a tomar posesión del cargo dentro de los términos constitucionales establecidos;
+
+II.- Obtenga licencia por más de treinta días;
+
+III.- No se presente a más de tres Sesiones consecutivas, sin causa justificada;
+
+IV.- Desempeñe una Comisión o empleo de la Federación, del Gobierno del Estado, de alguna Entidad Federativa, de los Municipios o cualquier empleo remunerado del sector público, sin la licencia previa del Congreso del Estado, con excepción de las actividades que desempeñen en instituciones y asociaciones docentes, científicas, culturales y de investigación;
+
+V.- Fallezca;
+
+VI.- Padezca una enfermedad que provoque una incapacidad que le impida el desempeño del cargo; y
+
+VII.- Tenga imposibilidad jurídica determinada por una autoridad competente.
 
 #### SECCIÓN SEGUNDA. DE LA REINCORPORACIÓN LEGISLATIVA
 
-###### Artículo 32.
+###### ARTÍCULO 32.
 
-El Consejo podrá sesionar de forma extraordinaria para atender asuntos que merezcan atención inmediata, las cuales serán convocadas por su Presidente a propuesta de cualquiera de los integrantes.
+El Diputado con licencia que comunique la reincorporación al ejercicio de su cargo presentará escrito firmado y dirigido al Presidente de la Mesa Directiva o Comisión Permanente.
+
+El Presidente lo comunicará en la siguiente Sesión y de inmediato al Diputado Suplente en funciones.
+
+El Diputado Propietario ejercerá el desempeño de sus funciones, el mismo día de la presentación de su escrito de reincorporación sin menoscabo de sus derechos, prerrogativas y obligaciones.
 
 ## TÍTULO CUARTO. ÓRGANOS LEGISLATIVOS
 
-### CAPÍTULO VII. De las modalidades y tipos
+### CAPÍTULO I. DE LA MESA DIRECTIVA
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+###### ARTÍCULO 33.
 
-###### Artículo 33.
+Para el desempeño de sus funciones, la Mesa Directiva, podrá disponer del personal de los Órganos Técnicos Administrativos y de los recursos materiales que estén a disposición del Congreso del Estado.
 
-Los integrantes del Consejo intercambiarán y analizarán información y datos referentes a los temas de su competencia, con el fin de cumplir con los objetivos establecidos.
+###### ARTÍCULO 34.
 
-###### Artículo 34.
+La Mesa Directiva emitirá el Orden del Día de las Sesiones del Pleno, a propuesta del Presidente de la Mesa Directiva, con la aprobación de la Junta de Gobierno y Coordinación Política, misma que se hará del conocimiento de los Diputados integrantes de la Legislatura.
 
-El Presidente del Consejo deberá entregar un informe por escrito y de forma anual a la Legislatura del Estado, el cual deberá ser publicado en el Periódico Oficial Gaceta del Gobierno y a través de los medios que se consideren pertinentes.
+En caso de que la Junta de Gobierno y Coordinación Política no celebre reunión para la aprobación del Orden del Día, los Presidentes de la Junta de Gobierno y Coordinación Política y de la Mesa Directiva lo elaborarán, el cual se enviará a los Coordinadores y Representantes Legislativos para su conocimiento y comentarios procedentes. En caso de no existir comentario alguno se integrará el mismo, haciéndolo del conocimiento de los Diputados integrantes de la Legislatura.
 
-###### Artículo 35.
+El Orden del Día se integrará con las comunicaciones oficiales, peticiones de particulares, los asuntos que reciba de los Poderes del Estado, Federación, Municipios o los Organismos Públicos, las iniciativas de Ley, Decretos o Acuerdos, resoluciones y demás asuntos generales que se hagan del conocimiento a este Poder Legislativo.
 
-El Consejo podrá integrar a los titulares de otras dependencias que presten servicios para la atención, cuidado y desarrollo integral infantil, o cuyo ámbito de atribuciones esté vinculado con estos servicios, así como a los representantes de los municipios que presten servicios para la atención, cuidado y desarrollo integral infantil.
+Tendrán prioridad aquellos asuntos que impliquen un mayor interés público y los que por término constitucional, legal o reglamentario, requieran discusión y votación inmediata en el Pleno.
 
-###### Artículo 36.
+###### ARTÍCULO 35.
 
-El Consejo contará con una Secretaría Técnica que será responsable de coordinar las acciones objeto del mismo y cuya designación estará sujeta a las disposiciones de su Reglamento.
+El Presidente de la Mesa Directiva o de la Comisión Permanente mandará publicar vía electrónica el Orden del Día en el Portal de Internet del Poder Legislativo, asimismo, se enviará a los correos electrónicos de los Diputados, a más tardar a las catorce horas del día anterior a la Sesión que corresponda, salvo que los Órganos Legislativos sesionen para dictaminación después de esta hora.
 
-###### Artículo 37.
+###### ARTÍCULO 36.
 
-La operación y funcionamiento del Consejo se regularán por las disposiciones de esta ley y su Reglamento.
+Previo al desahogo del Orden del Día, la Mesa Directiva cuidará que se cumplan los requisitos de registro de asistencia y declaración de quórum.
 
-### CAPÍTULO VIII. De las medidas de salud, seguridad y protección civil
+###### ARTÍCULO 37.
 
-###### Artículo 38.
+La Junta de Gobierno y Coordinación Política podrá proponer la inclusión de puntos en el Orden del Día que no se encuentren originalmente aprobados. Para ello, deberá hacer la solicitud al Presidente de la Mesa Directiva, quien ordenará que el asunto se distribuya a los Diputados en forma electrónica y a solicitud de algún Diputado en forma impresa, antes de ponerse a consideración del Pleno.
 
-El Registro Estatal estará a cargo del Sistema para el Desarrollo Integral de la Familia del Estado de México y tendrá por objeto:
+### CAPÍTULO II. DE LA COMISIÓN PERMANENTE
 
-I. Coadyuvar al cumplimiento de los objetivos de esta Ley, con la ejecución de la Política Pública y con las actividades del Consejo;
+###### ARTÍCULO 38.
 
-II. Concentrar la información de los Centros de Atención que presten servicios para la atención, cuidado y desarrollo integral infantil en el Estado de México;
+La Comisión Permanente turnará a las Comisiones o Comités los expedientes que se formen, para su estudio y análisis.
 
-III. Contar con un control estadístico que contribuya a la definición de políticas públicas a que se refiere esta Ley;
+###### ARTÍCULO 39.
 
-IV. Facilitar la supervisión de los Centros de Atención;
+En la primera Sesión de la Comisión Permanente se acordará, preferentemente, el día y hora en que habrán de celebrar sus Sesiones, las que se verificarán cuando menos una vez por semana, en el Salón Miguel Hidalgo del Congreso del Estado.
 
-V. Identificar a los prestadores de servicios para la atención, cuidado y desarrollo integral infantil en cualquiera de sus modalidades y tipos, así como mantener actualizada la información que lo conforma.
+Las Sesiones de la Comisión Permanente podrán efectuarse en lugar distinto al Salón Miguel Hidalgo.
 
-###### Artículo 39.
+La Comisión Permanente se integrará conforme lo establecido en la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla.
 
-En todo momento se deberá proteger y garantizar la integridad y el buen uso de los datos personales de prestadores de servicios, empleados y usuarios del servicio.
+En caso de ausencia del Presidente, será el Secretario quien asuma las funciones, designando de entre los Vocales integrantes a un Secretario. En ausencia del Presidente y del Secretario, por acuerdo de los Vocales de la Comisión Permanente se designará dentro de éstos quien asumirá dichas funciones por esa Sesión.
 
-###### Artículo 40.
+###### ARTÍCULO 40.
 
-El Registro Estatal deberá orientarse por los principios de máxima publicidad, transparencia y legalidad, cumpliendo con la normatividad en la materia.
+La Comisión Permanente no suspenderá sus trabajos cuando el Congreso celebre Sesiones Extraordinarias.
 
-###### Artículo 41.
+###### ARTÍCULO 41.
 
-Cuando las autoridades competentes emitan permisos, licencias o autorizaciones a que se refiere esta Ley, además de llevar su propio registro, procederán a informar al Registro Estatal dicha emisión. El registro deberá actualizarse cada seis meses.
+Cuando las circunstancias exijan que se celebren Sesiones Extraordinarias o que éstas se efectúen en un lugar fuera de la sede del Congreso, la convocatoria será firmada por el Presidente y el Secretario, sin necesidad de expedir un Decreto.
 
-### CAPÍTULO IX. De la admisión y entrega del niño o niña
+### CAPÍTULO III. DE LA JUNTA DE GOBIERNO Y COORDINACIÓN POLÍTICA
 
-###### Artículo 42.
+###### ARTÍCULO 42.
 
-Los Centros de Atención públicos, privados, mixtos o cualquiera que preste sus servicios en la entidad, deberán informar al Registro Estatal el número de sujetos de atención bajo su responsabilidad y las condiciones de la prestación del servicio en materia educativa, de salud y de protección civil, además de la información que les sea solicitada acorde al objeto de esta Ley.
+La Junta de Gobierno y Coordinación Política como órgano plural y colegiado podrá adoptar la toma de sus decisiones de la manera siguiente:
 
-###### Artículo 43.
+I.- Por Consenso.- Es el acuerdo producido por consentimiento unánime de todos los Coordinadores y Representantes Legislativos integrantes de la Junta de Gobierno y Coordinación Política; o
 
-El Registro deberá proporcionar al Registro Nacional, cuando menos, la siguiente información:
+II.- Por Voto Ponderado.- En caso de no existir el consenso, se votará mediante el sistema de voto ponderado en el cual, los Coordinadores y Representantes Legislativos tiene tantos votos como Diputados de su Grupo o Representación Legislativa.
 
-I. Ubicación del Centro de Atención;
+###### ARTÍCULO 43.
 
-II. Fecha de inicio de operaciones;
+Para la existencia del quórum legal de la Junta de Gobierno y Coordinación Política se requiere cumplir con lo siguiente:
 
-III. Capacidad instalada y, en su caso, ocupada;
+I.- La asistencia de la mayoría de los Diputados Coordinadores y Representantes Legislativos integrantes de la Junta de Gobierno y Coordinación Política; o
 
-IV. Modalidad y modelo de atención bajo el cual opera;
+II.- La suma de los votos ponderados de los Grupos y Representaciones Legislativas represente la mayoría absoluta del total de votos del Congreso.
 
-V. Identificación del prestador del servicio, sea persona física o jurídica colectiva;
+###### ARTÍCULO 44.
 
-VI. Identificación, en su caso, del representante legal.
+Cuando la Junta de Gobierno y Coordinación Política no pudiera reunirse para aprobar la firma de algún convenio, el Presidente de éste Órgano Legislativo podrá suscribirlo, debiendo informar a los Diputados integrantes del mismo en la sesión inmediata.
 
-###### Artículo 44.
-
-Los centros de atención tendrán la modalidad de públicos, cuando sean financiados o administrados por las autoridades competentes o los municipios, serán de modalidad privada, cuando su financiamiento, operación y administración solo corresponde a particulares y tendrán la modalidad mixta, cuando las autoridades competentes o los municipios, participen en el financiamiento, instalación o administración con instituciones sociales o privadas.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 44 Bis.
 
@@ -737,395 +365,709 @@ La Junta de Gobierno y Coordinación Política será el órgano encargado de con
 
 En este sentido, no podrá otorgarse autorización alguna, cuando éstas puedan interferir con el cumplimiento a las obligaciones legislativas.
 
-### CAPÍTULO X. De las Autorizaciones
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+### CAPÍTULO IV. DE LAS COMISIONES Y COMITÉS
 
 #### SECCIÓN PRIMERA. DE LAS COMISIONES GENERALES
 
-###### Artículo 45.
+###### ARTÍCULO 45.
 
-En función de su capacidad instalada, los Centros de Atención se clasifican en:
+Para el despacho de los asuntos que le corresponde conocer al Congreso, se nombrarán Comisiones Generales, las cuales analizarán, estudiarán, examinarán, dictaminarán y resolverán las determinaciones que para el efecto se les turnen, disponiendo de los recursos necesarios para el desempeño de sus funciones.
 
-I. Tipo 1: Cuando tengan una capacidad instalada para dar servicio hasta a 10 sujetos de atención;
+###### ARTÍCULO 46.
 
-II. Tipo 2: Con capacidad instalada para dar servicio de 11 hasta 50 sujetos de atención;
+Las Comisiones Generales, dentro de su ámbito de competencia, estudiarán, analizarán y dictaminarán las iniciativas que les sean turnadas, debiendo participar en las discusiones que al efecto realice el Pleno del Congreso del Estado, de conformidad con lo establecido en el presente Reglamento y en la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla.
 
-III. Tipo 3: Con capacidad instalada para dar servicio de 51 hasta 100 sujetos de atención;
+###### ARTÍCULO 47.
 
-IV. Tipo 4: Con capacidad instalada para dar servicio a más de 100 sujetos de atención.
+Las Comisiones Generales, con relación a los asuntos de su competencia, emitirán sus resoluciones en forma colegiada, teniendo sus integrantes derecho a voz y voto.
 
-###### Artículo 46.
+###### ARTÍCULO 48.
 
-Todos los Centros de Atención, deberán ser administrados por personal profesional o capacitado de acuerdo al tipo de servicio. Para determinar si la capacidad de las instalaciones es la adecuada, se considerará la proporción existente entre cada sujeto de atención con la superficie del inmueble y con el número de personal profesional o capacitado, tomando como referente mínimo la normatividad reglamentaria dispuesta para las dependencias y entidades de la administración pública estatal, incluyendo los organismos de seguridad social.
+La competencia de las Comisiones Generales se deriva de su propia denominación, en correspondencia a las respectivas áreas de la Administración Pública Estatal y Municipal, de manera enunciativa más no limitativa conocerán de:
 
-###### Artículo 47.
+I.- GOBERNACIÓN Y PUNTOS CONSTITUCIONALES:
 
-Los Centros de Atención se sujetarán a las disposiciones contenidas en esta Ley, en la Ley General y en las normas oficiales mexicanas en materia de prestación de servicios de asistencia social para menores y para el control de la nutrición, crecimiento y desarrollo de los niños, y deberán prestar atención física, psicológica, sanitaria, alimentaria y educación inicial.
+a) Revocación de mandato y suspensiones de Presidentes, Regidores y Síndicos Municipales;
 
-###### Artículo 48.
+b) Cuestiones de carácter político y de autoridad;
 
-Los Centros de Atención deberán contar con un seguro que cubra daños derivados por la forma en que operan, y que causen daños físicos o psicológicos al menor, seguro que será determinado conforme a la directriz que se establezca en la Política Pública.
+c) Iniciativas de reformas Constitucionales Federal y Local;
+
+d) Creación, modificación y adecuación del marco jurídico local que determine el Presidente de la Mesa Directiva;
+
+e) Elecciones estatales;
+
+f) Iniciativas en materia administrativa de los Poderes del Estado que no sean competencia específica de otras Comisiones;
+
+g) Controversias que se susciten por límites territoriales, entre dos o más Municipios del Estado;
+
+h) Creación, fusión y supresión de Municipios;
+
+i) Suspensión o desaparición de Ayuntamientos;
+
+j) Responsabilidad de servidores públicos, en el ámbito de su competencia;
+
+k) Conocer y resolver respecto de las solicitudes de la calidad de poblano; y
+
+l) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+II.- PROCURACIÓN Y ADMINISTRACIÓN DE JUSTICIA:
+
+a) Asuntos y/o peticiones relacionadas con la adecuación del marco jurídico en materia de Procuración e impartición de justicia; y
+
+b) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+III.- HACIENDA Y PATRIMONIO MUNICIPAL:
+
+a) Leyes de Ingresos y Hacendarias del Estado y de los Municipios;
+
+b) Patrimonio Estatal y Municipal, de conformidad con la legislación aplicable;
+
+c) Convenios, Contratos y avales que celebre el Estado, o las instituciones públicas o privadas, a favor del Estado, los Municipios o de las entidades de la administración pública estatal o municipal, que sean sometidos a conocimiento y autorización del Congreso, en términos de la legislación aplicable;
+
+d) Enajenación de bienes o constitución de derechos reales propiedad del Gobierno del Estado o de los Municipios, en términos de la legislación aplicable; y
+
+e) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+IV.- PRESUPUESTO Y CRÉDITO PÚBLICO:
+
+a) Adecuar el marco jurídico local con la finalidad de realizar las modificaciones y armonizaciones necesarias en materia de deuda pública, presupuesto, contabilidad y gasto público estatal y municipal;
+
+b) Ley de Egresos del Estado;
+
+c) Expedir y reformar los ordenamientos legales necesarios a fin de cumplir estrictamente con los lineamientos relacionados con deuda pública, presupuesto, contabilidad y gasto público estatal y municipal;
+
+d) Estudiar y proponer las modificaciones a las bases para que el Estado y los Municipios, así como los Organismos Descentralizados puedan contraer obligaciones derivadas de financiamientos y empréstitos destinados a inversiones públicas productivas; y
+
+e) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+V.- DESARROLLO RURAL:
+
+a) La legislación que tienda a la proyección y crecimiento de las actividades productivas agropecuarias y forestales en el Estado;
+
+b) Solicitar al Ejecutivo del Estado celebre convenios con la Federación, las Entidades Federativas y los Municipios para fortalecer el desarrollo rural, agropecuario y forestal;
+
+c) Analizar y proponer al Gobierno del Estado la implementación de nuevos avances tecnológicos que promuevan de manera eficaz el desarrollo rural; y
+
+d) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+VI.- DESARROLLO SOCIAL:
+
+a) La legislación que en materia de desarrollo social sea necesaria para el mejoramiento de la calidad de vida de la población;
+
+b) Adecuación del marco normativo para el establecimiento de acciones o programas tendientes a combatir la pobreza extrema; y
+
+c) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+VII.- COMUNICACIONES E INFRAESTRUCTURA:
+
+a) Actualizar, revisar, modificar y estudiar el marco jurídico que regule las comunicaciones, así como la infraestructura en la Entidad, con la finalidad de establecer los mecanismos necesarios para el eficaz desarrollo en la materia;
+
+b) Adecuar la legislación en la materia para que permita al Poder Ejecutivo que las obras de infraestructura respondan a las necesidades de la sociedad; y
+
+c) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+VIII.- TRANSPORTES:
+
+a) Impulsar un marco jurídico que regule el transporte en la Entidad, con la finalidad de establecer los mecanismos necesarios para el eficaz desarrollo en la materia;
+
+b) Proponer a las Dependencias y Organismos el establecimiento de vínculos de intercambio de información, análisis de sistema y servicios de transporte eficiente, competitivo y seguro; y
+
+c) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+IX.-SALUD:
+
+a) Desarrollar acciones que contribuyan a fortalecer el derecho a la salud como una necesidad básica, mediante la revisión y actualización del marco jurídico aplicable en la materia;
+
+b) Estudiar los asuntos relacionados con el fortalecimiento de los vínculos entre los tres niveles de gobierno para consolidar y eficientar la atención en los sistemas de salud; y
+
+c) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2014)</small>
+
+X.- Educación:
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2014)</small>
+
+a) La legislación en materia de educación;
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2014)</small>
+
+b) Solicitar al Ejecutivo del Estado la celebración de convenios que tiendan a la creación de instituciones educativas;
+
+> <small>(F. DE E., P.O. 10 DE FEBRERO DE 2014)</small>
+
+c) La denominación de años o días festivos oficiales en materia educativa;
+
+> <small>(F. DE E., P.O. 10 DE FEBRERO DE 2014)</small>
+
+d) El otorgamiento de reconocimientos y estímulos en materia educativa; y
+
+e) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+XI.- TRABAJO, COMPETITIVIDAD Y PREVISIÓN SOCIAL:
+
+a) Actualizar el marco normativo en materia laboral, de previsión y seguridad social, de las que sean competencia del Estado;
+
+b) Proponer adecuaciones a la legislación en el ámbito laboral y competencia estatal;
+
+c) Coadyuvar con las instancias correspondientes en la generación de empleos; y
+
+d) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+XII.- DERECHOS HUMANOS:
+
+a) Adecuar los ordenamientos en materia de defensa de los Derechos Humanos en la Entidad;
+
+b) Recepción de quejas y denuncias acerca de presuntas violaciones a los derechos humanos, a fin de turnarlas a la Comisión Nacional de Derechos Humanos o a la Comisión de Derechos Humanos del Estado; y
+
+c) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2013)</small>
+
+XIII.- IGUALDAD DE GÉNERO:
+
+a) Revisar y actualizar el marco jurídico necesario a fin de hacer cumplir las obligaciones en materia de igualdad entre mujeres y hombres en el Estado de Puebla;
+
+b) Desarrollar, fomentar e impulsar la inclusión de la perspectiva de género en la elaboración, desarrollo y seguimiento de todas las actuaciones que afecten, directa o indirectamente, a la comunidad;
+
+c) Dar seguimiento a las certificaciones que en materia de equidad y género obtenga el Congreso del Estado, así como promover el logro de otras;
+
+d) Evaluar el cumplimiento de las obligaciones adquiridas en el ámbito de su competencia de las certificaciones que tenga el Congreso del Estado;
+
+e) Incorporar al interior del Poder Legislativo políticas y acciones con perspectiva de género, de modo que se establezca en todas ellas el objetivo general de eliminar las desigualdades y promover la igualdad de mujeres y hombres;
+
+f) Conocer y aprobar los documentos que someta a su consideración el Comité de Equidad y Género del Congreso del Estado;
+
+g) Conocer y realizar la fase de investigaciones de las quejas y denuncias por discriminación, acoso y hostigamiento sexual al interior del Congreso del Estado, remitiéndolas a la Contraloría Interna del Congreso; y
+
+h) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+XIV.- ASUNTOS INDÍGENAS:
+
+a) Redactar, analizar y generar iniciativas que tengan como objeto combatir cualquier práctica discriminatoria e impulsar el desarrollo integral y sustentable de los Pueblos y Comunidades Indígenas;
+
+b) Impulsar mecanismos jurídicos de desarrollo de los grupos indígenas en la Entidad, fortaleciendo sus usos, costumbres, lenguas, culturas e idiosincrasia;
+
+c) Fortalecer el marco jurídico que garantice la participación de los Pueblos y Comunidades Indígenas en la sociedad; y
+
+d) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2013)</small>
+
+XV.- INSPECTORA DE LA AUDITORÍA SUPERIOR DEL ESTADO:
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+
+a) Supervisar y evaluar a la Auditoría Superior del Estado de Puebla, sin perjuicio de la autonomía que le confiere la Constitución Política del Estado Libre y Soberano de Puebla y la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla;
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+
+b) Ser el conducto de comunicación y coordinación entre el Congreso del Estado y la Auditoría Superior del Estado de Puebla;
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+
+c) Recibir de la Auditoría Superior del Estado de Puebla, los informes del Resultado de la Fiscalización Superior de las Cuentas Públicas de los Sujetos de Revisión, que éste le remita en cualquiera de los periodos de sesiones a que se refiere el artículo 50 de la Constitución Política del Estado Libre y Soberano de Puebla y turnarlos al Pleno del Congreso del Estado para su dictaminación;
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+
+d) Recibir de la Auditoría Superior del Estado de Puebla, los informes relativos a la (sic) Cuentas Públicas que se encuentran pendientes o en proceso de revisión, turnándolos al Pleno del Congreso del Estado;
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+
+e) Solicitar a la Auditoría Superior del Estado de Puebla, sin menoscabo de las facultades de éste, la práctica de visitas, inspecciones y auditorías a los Sujetos de Revisión;
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+
+f) Informar al término de cada Periodo Ordinario de Sesiones respecto del ejercicio del presupuesto del Congreso del Estado y de la Auditoría Superior del Estado de Puebla;
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+
+g) La Revocación del mandato y suspensiones de Presidentes, Regidores y Síndicos Municipales, en asuntos de la competencia de la Auditoría Superior del Estado de Puebla;
+
+h) Responsabilidades administrativas de los servidores públicos, cuando éstas deriven del informe del resultado de la fiscalización superior; y
+
+i) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+XVI.- SEGURIDAD PÚBLICA:
+
+a) Adecuar y actualizar el marco jurídico relativo a la conservación de la seguridad, el orden público y la paz social;
+
+b) Conocer y participar en las acciones que implemente el Comité de Protección Civil del Congreso del Estado; y
+
+c) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+XVII.- PROTECCIÓN CIVIL:
+
+a) Revisar y actualizar el marco jurídico relativo a la materia, a fin de llevar a cabo la implementación de los mecanismos necesarios para la protección y prevención de la población ante la eventualidad de un riesgo, emergencia o desastre;
+
+b) Implementar acciones de prevención y atención de contingencias naturales al interior del Congreso del Estado;
+
+c) Participar y vigilar en las acciones del Comité de Protección Civil del Congreso del Estado; y
+
+d) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+XVIII.- DESARROLLO ECONÓMICO:
+
+a) Adecuar y analizar la legislación tendiente a la promoción del desarrollo económico de las diferentes regiones del Estado;
+
+b) Adecuar y analizar la normatividad que promueva el incremento de la actividad económica y el mayor rendimiento de los factores económicos en la Entidad;
+
+c) Promover la celebración de los convenios que celebre el Congreso del Estado con el Gobierno del Estado, el Gobierno Federal, las Entidades Federativas y los Municipios, así como con los sectores privado y social, para la promoción del desarrollo económico; y
+
+d) Las demás que le confiera este Reglamento o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+XIX.- MEDIO AMBIENTE:
+
+a) Adecuar el marco jurídico para la preservación del medio ambiente y de los recursos naturales;
+
+b) Modificar la legislación de la materia para fomentar la participación ciudadana para la solución de los problemas ambientales;
+
+c) Promover ante las autoridades competentes la implementación de políticas públicas en la preservación del medio ambiente y el manejo sustentable de los recursos naturales;
+
+d) Promover y fomentar la preservación de los recursos naturales y procurar las medidas legislativas necesarias para su aprovechamiento y conservación; y
+
+e) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+XX.- MIGRACIÓN Y ASUNTOS INTERNACIONALES:
+
+a) Coadyuvar con las instancias competentes, tanto nacionales como de otro país, en el apoyo integral a los poblanos que se encuentren en territorio extranjero y a sus familiares, en términos de la legislación aplicable;
+
+b) Adecuar la legislación aplicable en la materia; y
+
+c) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+XXI.- ASUNTOS MUNICIPALES:
+
+a) Orientar a los gobiernos municipales sobre las funciones que les correspondan, así como coadyuvar en la solución de los planteamientos o de las diferencias que se susciten entre los mismos;
+
+b) Revisar y adecuar la legislación municipal en el Estado; y
+
+c) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+XXII.- CIENCIA Y TECNOLOGÍA:
+
+a) La legislación en materia de ciencia y tecnología;
+
+b) Analizar y proponer a las autoridades competentes los procesos que hagan posible la definición de prioridades, asignación y optimización de recursos del Gobierno Estatal y Federal para la ciencia y la tecnología;
+
+c) Promover los esfuerzos realizados en materia de ciencia y tecnología;
+
+d) Solicitar a las instancias administrativas competentes acciones y políticas en materia de ciencia y tecnología;
+
+e) Desarrollar eventos, foros y concursos en la materia;
+
+f) Promover las relaciones con Instituciones y Centros de Educación Superior de investigación científica nacional y extranjera; y
+
+g) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+XXIII.- JUVENTUD Y DEPORTE:
+
+a) La legislación en materia de juventud y deporte;
+
+b) Promover la participación de la juventud ante las Instituciones, Organismos Públicos y Privados, Estatales o Nacionales en la vida social, política, económica, cultural y deportiva;
+
+c) Solicitar la celebración de convenios que tiendan a la creación de instituciones deportivas; y
+
+d) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+XXIV.- ATENCIÓN A PERSONAS CON DISCAPACIDAD:
+
+a) Adecuar y analizar la legislación aplicable que permita una mayor atención a las personas que sufran cualquier tipo de discapacidad;
+
+b) Vincular a este sector con las autoridades para lograr la plena inclusión e integración de las personas con discapacidad en un marco de igualdad de oportunidades, en todos los ámbitos de la vida;
+
+c) Proponer acciones en pro de las personas con discapacidad; y
+
+d) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+XXV.- INSTRUCTORA:
+
+a) Substanciar los procedimientos de juicio político y de declaración de procedencia, en términos de la normatividad de la materia;
+
+b) Practicar las diligencias necesarias para comprobar la conducta o hecho materia de la denuncia, así como precisar la intervención que haya tenido el servidor público denunciado, esto conforme a la ley de la materia; y
+
+c) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+XXVI.- TRANSPARENCIA Y ACCESO A LA INFORMACIÓN:
+
+a) Garantizar la transparencia y el acceso a la información pública del Poder Legislativo;
+
+b) Vigilar el cumplimiento de las obligaciones de transparencia del Poder Legislativo como Sujeto Obligado de la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla;
+
+c) Promover y vigilar la protección de datos personales en posesión de este Poder Legislativo;
+
+d) Establecer los criterios, procedimientos y órganos para garantizar el acceso a la información pública, la transparencia y la protección de datos personales;
+
+e) Proponer y revisar los criterios de clasificación, desclasificación y custodia de la información reservada y confidencial del Poder Legislativo;
+
+f) La legislación que permita garantizar la transparencia, el acceso a la información y la protección de datos personales; y
+
+g) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+XXVII.- TURISMO:
+
+a) Actualizar, analizar y adecuar la legislación que tienda a la proyección y crecimiento de las actividades turísticas;
+
+b) Solicitar la celebración de convenios que celebre el Gobierno del Estado con la Federación, Entidades Federativas y Municipios para el desarrollo turístico;
+
+c) Fomentar la regulación turística y el fortalecimiento de la estructura de las instancias encargadas; y
+
+d) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+XXVIII.- DESARROLLO URBANO:
+
+a) Actualizar el marco jurídico que garantice el desarrollo sustentable en la Entidad;
+
+b) Solicitar a las instancias del Ejecutivo del Estado la fundación de centros de población, declaratorias sobre provisiones, reservas, usos y destinos de áreas; y
+
+c) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+XXIX.- VIVIENDA:
+
+a) Revisar y adecuar el marco jurídico en materia de vivienda;
+
+b) Proponer e impulsar las reformas legislativas que incrementen las posibilidades de acceso a una vivienda digna;
+
+c) Impulsar el desarrollo habitacional sustentable;
+
+d) Proponer la vinculación con el Gobierno Federal, Estados, Municipios e Instituciones en beneficio del sector vivienda; y
+
+e) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+XXX.- ASUNTOS METROPOLITANOS:
+
+a) Adecuar, analizar, actualizar e impulsar la consolidación de una legislación en materia metropolitana;
+
+b) Solicitar a las autoridades competentes celebren acuerdos sobre el desarrollo metropolitano; y
+
+c) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+XXXI.- GRUPOS VULNERABLES:
+
+a) Adecuar, analizar y actualizar el marco jurídico que permita una mayor atención a grupos vulnerables;
+
+b) Solicitar al Ejecutivo del Estado la implementación de políticas públicas que les beneficien y contribuyan a eliminar la discriminación;
+
+c) Vincular a este sector con las autoridades para lograr la plena inclusión e integración, en un marco de igualdad de oportunidades, en todos los ámbitos de la vida; y
+
+d) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+XXXII.- ORGANIZACIONES NO GUBERNAMENTALES:
+
+a) Legislación en materia de Organizaciones No Gubernamentales; y
+
+b) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
+
+XXXIII.- Cultura:
+
+a) La legislación en materia de cultura;
+
+b) Solicitar al Ejecutivo del Estado la celebración de convenios que tiendan a la creación de instituciones culturales;
+
+> <small>(F. DE E., P.O. 10 DE FEBRERO DE 2014)</small>
+
+c) La denominación de años o días festivos oficiales en materia cultural;
+
+d) El otorgamiento de reconocimientos y estímulos cívicos; y
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
+
+e) Iniciativas que soliciten la inscripción de nombres, leyendas o apotegmas en el Muro de Honor del Honorable Congreso del Estado; y
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2016)</small>
+
+f) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
+
+XXXIV.- Participación Ciudadana:
+
+a) Adecuar el marco jurídico local en materia de participación ciudadana, con la finalidad de realizar las modificaciones y armonizaciones necesarias para implementar los instrumentos correspondientes en la materia;
+
+b) Proponer e impulsar las actividades legislativas que permitan incrementar la participación ciudadana;
+
+c) Promover y garantizar la participación ciudadana en la toma de decisiones; y
+
+d) Las demás que le confiera este Reglamento, las leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+XXXV.- DE LA FAMILIA Y SU DESARROLLO INTEGRAL:
+
+a) Revisar el marco normativo en el que se establece todo lo relacionado a la familia, a su protección y desarrollo, así como el de asistencia social y desarrollo humano;
+
+b) Revisar la normatividad, política, planes y programas de desarrollo humano y asistencia social a nivel nacional;
+
+c) Atender las políticas públicas que vean a la familia poblana de manera integral, a través de la colaboración e interrelación del Poder Legislativo con los sistemas estatal y municipales de desarrollo integral de la familia en el Estado de Puebla;
+
+d) Organizar foros, mesas de trabajo, estudios y demás acciones de investigación que estén encaminadas a fortalecer y sobretodo garantizar que aterricen en la realidad social, los derechos de la familia;
+
+e) Dar seguimiento de manera integral, a las políticas públicas nacionales, estatales y municipales que impactan en el territorio del Estado de Puebla en temas relacionados con la familia, siempre desde una posición de respeto a los valores de: libertad, equidad, igualdad de derechos y deberes, solidaridad y respeto recíproco, y
+
+f) Las demás que se deriven de su denominación de atender el derecho de familia.
 
 #### SECCIÓN SEGUNDA. DE LAS COMISIONES TRANSITORIAS
 
-###### Artículo 49.
+###### ARTÍCULO 49.
 
-Para la prestación del servicio de atención, cuidado y desarrollo integral infantil, se deberá cumplir con lo dispuesto en esta Ley, así como en las disposiciones y ordenamientos jurídicos correspondientes en cuanto a salubridad, infraestructura, equipamiento, seguridad, protección civil y medidas de higiene de los Centros de Atención, en cualquiera de sus modalidades, incluidos los servicios educativos, de descanso, juego y esparcimiento, y otros relacionados con el objeto de esta Ley.
+El Congreso del Estado contará con Comisiones Transitorias las cuales pueden ser las siguientes:
 
-> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+I.- Comisiones Especiales, se constituyen para tratar asuntos que no sean competencia de las Generales, conocerán específicamente de los hechos que hayan motivado su integración y dejarán de existir cuando hayan cumplido el objeto para el que fueron creadas o bien por determinación del Pleno; o
 
-###### Artículo 49 Bis.
+II.- Comisiones de Protocolo o de Cortesía, son aquellas que a propuesta del Presidente de la Mesa Directiva o de la Comisión Permanente, se constituyen con la finalidad de atender un acto breve, mismas que se establecerán y funcionarán conforme lo establecido en la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla y de este Reglamento.
 
-Los centros deberán sujetarse a los programas respectivos en los términos siguientes:
+###### ARTÍCULO 50.
 
-l. Programa Integral: Al conjunto de acciones para lograr una vigilancia del cumplimiento de la presente Ley y para garantizar el mejoramiento progresivo y el fortalecimiento de los servicios para la atención, cuidado y desarrollo integral infantil;
-
-II. Programa Específico: Es el conjunto de principios de carácter técnico, encaminados a prevenir los posibles efectos de los agentes perturbadores, circunscrito a un tiempo y espacio determinados, que debe observarse en los inmuebles de los sectores privado y social en los que se presten servicios de atención, cuidado y desarrollo integral infantil, para salvaguardar la integridad física de las personas;
-
-III. Programa Interno: Es el conjunto de principios de carácter técnico, encaminados a prevenir los posibles efectos de los agentes perturbadores y que debe observarse en los inmuebles del sector público en los que se presten servicios de atención, cuidado y desarrollo integral infantil, para salvaguardar la integridad física de las personas.
-
-###### Artículo 50.
-
-El ingreso de las niñas y de los niños a los servicios para la atención, cuidado y desarrollo integral infantil, se hará de conformidad con los requisitos previstos en las disposiciones normativas aplicables a cada caso, y se garantizará la no discriminación de los menores, padres, madres o tutores legales.
+Es atribución de la Junta de Gobierno y Coordinación Política proponer al Pleno del Congreso la constitución e integración de las Comisiones Especiales.
 
 #### SECCIÓN TERCERA. DE LOS COMITÉS
 
-###### Artículo 51.
+###### ARTÍCULO 51.
 
-Los Centros de Atención, para admitir a un niño o a una niña, deberán suscribir y de sujetarse a un contrato de adhesión que se celebre con el padre, madre, tutor, o con quienes, en tal caso, ejerzan la patria potestad o custodia sobre el menor, especificando como mínimo la prestación del servicio, la persona o personas autorizadas para recoger al menor y la tolerancia para su entrada y salida.
+El Congreso del Estado contará, para su funcionamiento administrativo, con Comités, que tendrán las atribuciones siguientes:
 
-###### Artículo 52.
+I.- ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS:
 
-Los Centros de Atención del sector público, se regularán conforme a su propio reglamento interno.
+a) Adjudicar los contratos de bienes, arrendamientos y servicios a cargo del Congreso del Estado;
 
-### CAPÍTULO XI. De la certificación
+b) Adquirir y administrar los bienes muebles que realice la administración o el órgano administrativo de este Poder Legislativo, debiendo realizar los estudios de factibilidad correspondientes, considerando la posible adquisición mediante arrendamiento con opción a compra;
 
-###### Artículo 53.
+c) Promover acciones que optimicen el trabajo de los servidores públicos del Congreso, para lograr la capacitación, preparación y superación profesional, laboral y personal, en coordinación con el Comité del Servicio Profesional de Carrera Legislativa, con sujeción a los lineamientos establecidos en el Estatuto del Servicio Profesional de Carrera Legislativa del Poder Legislativo del Estado;
 
-Para admitir a un niño o niña en un Centro de Atención se deberán presentar, al menos, los siguientes documentos:
+d) Emitir criterios para la elaboración del anteproyecto del Presupuesto de Egresos del Congreso del Estado, cuidando que sea el suficiente para cubrir sus necesidades, incluyendo el Programa de Incentivos a la Productividad y Eficiencia al personal que labora en el Congreso del Estado;
 
-I. Acta de nacimiento;
+e) Mantener actualizado el control de inventarios, manejo de materiales y utilización de áreas propiedad o a resguardo del Poder Legislativo;
 
-II. Certificado médico general;
+f) Colaborar con los servidores públicos responsables, para la conservación y uso de los bienes muebles e inmuebles y recursos materiales y técnicos, propiedad del Poder Legislativo; y
 
-III. Cartilla de vacunación;
+g) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
 
-IV. Copia de la Clave Única de Registro de Población del niño o de la niña y de los padres;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2014)</small>
 
-V. La constancia expedida por autoridad competente, que acredite la tutela legal, la patria potestad o la custodia del menor, en su caso;
+II.- DIARIO DE DEBATES, CRÓNICA LEGISLATIVA Y ASUNTOS EDITORIALES:
 
-VI. Identificación oficial de los padres o tutores;
+a) Instrumentar, aplicar y vigilar los lineamientos de la archivística y biblioteconomía para el resguardo, conservación y difusión del acervo documental y bibliográfico en el Congreso del Estado, a efecto de facilitar su consulta institucional y pública;
 
-VII. Comprobante de domicilio;
+b) Supervisar las labores que desempeñen los servidores públicos responsables de las áreas de archivo y biblioteca;
 
-VIII. Las fotografías del menor, padres o tutores que dicte la política del Centro de Atención para los fines correspondientes.
+c) Establecer el servicio de préstamo y consulta de bibliografía y documentos, señalando las normas adecuadas para tal efecto;
 
-###### Artículo 54.
+d) Realizar las gestiones que permitan recuperar los documentos de trascendencia histórica propiedad del Congreso, que se encuentren en poder de instituciones públicas, privadas y particulares; así como enriquecer y actualizar el acervo bibliográfico;
 
-Los Centros de Atención que presten el servicio de educación especial deberán contar con la infraestructura, servicios, personal capacitado para la atención adecuada de las niñas y los niños con discapacidad transitoria o definitiva, así como aquellos con aptitudes sobresalientes o con requerimientos educativos específicos.
+e) Difundir el acervo del archivo que se considere de interés para el público en general;
 
-###### Artículo 55.
+f) Publicar revistas o ediciones periódicas con los Decretos y Acuerdos aprobados por el Congreso del Estado que resulten de interés general; y
 
-Los niños y las niñas sólo serán entregados al usuario o a las personas autorizadas para recogerlos, previa exhibición de la credencial expedida por el Centro de Atención.
+g) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
 
-###### Artículo 56.
+III.- GESTORÍA Y QUEJAS:
 
-Las autoridades competentes y los municipios, en el ámbito de sus respectivas competencias, y conforme lo determine el Reglamento, otorgarán la autorización respectiva a los centros de atención cuando los interesados cumplan las disposiciones de la presente Ley, el Reglamento aplicable y los requisitos siguientes:
+a) Atender las solicitudes y quejas de las personas que de manera pacífica, respetuosa y ordenada se dirijan al Congreso del Estado, turnándolas a las Dependencias, Entidades o Comisiones Generales de acuerdo al ámbito de su competencia;
 
-I. Presentar la solicitud en la que se indique: el nombre de la persona física o jurídica colectiva que desea prestar el servicio, la población por atender, los servicios que se proponen ofrecer, los horarios de funcionamiento, el personal con que se contará y la ubicación exacta del Centro de Atención en la que se precise en un croquis de localización, en tal caso, las calles, vialidades o avenidas y su sentido de circulación autorizado;
+b) Dar seguimiento a los asuntos que el Congreso del Estado, por medio de este Comité, remita a las diferentes dependencias y entidades a que hace referencia el inciso anterior;
 
-II. Contar con una póliza de seguro ante eventualidades que pongan en riesgo la vida y la integridad física de niñas y niños durante su permanencia en los Centros de Atención. Dicha póliza deberá cubrir la responsabilidad civil y riesgos profesionales del prestador del servicio frente a terceros a consecuencia de un hecho que cause daño. Las condiciones de las pólizas deberán ajustarse a lo dispuesto por las disposiciones en la materia;
+c) Prestar atención a los asuntos planteados al Congreso del Estado que no correspondan en particular a otro órgano del mismo;
 
-III. Contar con un Reglamento Interno;
+d) Definir las políticas y lineamientos para la mejor atención ciudadana y eficaz gestoría; y
 
-IV. Contar con manuales técnico-administrativos de operación y de seguridad;
+e) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
 
-V. Contar con un Programa de Trabajo que contenga las actividades que se desarrollarán en los Centros de Atención;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2014)</small>
 
-VI. Contar con la infraestructura, instalaciones y equipamiento que garanticen la prestación del servicio en condiciones de seguridad para niñas, niños y el personal;
+IV.- INNOVACIÓN Y TECNOLOGÍA:
 
-VII. Contar con un Programa Interno de Protección Civil de conformidad con la presente Ley, la Ley General y demás disposiciones legales y reglamentarias en la materia. El cual deberá contener por lo menos, el estado en el que se encuentra el inmueble, las instalaciones, el equipo y el mobiliario utilizado para la prestación del servicio y deberá ser aprobado por las direcciones de protección civil estatal o municipal, según sea el caso;
+a) Supervisar el diseño y actualización de los medios de consulta electrónicos con los que cuente el Congreso del Estado, incluyendo el sitio oficial de Internet;
 
-VIII. Cumplir con las licencias, permisos y demás autorizaciones en materia de protección civil, uso de suelo, funcionamiento, ocupación, seguridad y operaciones, seguridad estructural del inmueble y aspectos de carácter sanitario. En sus ámbitos de competencia las autoridades mencionadas deberán atender, en un término no mayor de 45 días hábiles, las solicitudes presentadas en tal sentido;
+b) Planear el crecimiento informático del sistema de red del Congreso del Estado, con base en los adelantos en la materia;
 
-IX. Contar con documentos oficiales expedidos por autoridad competente que acrediten la aptitud y capacitación requerida de las personas que prestarán los servicios;
+c) Propiciar la instalación, actualización y mantenimiento del sistema de consulta electrónica de los documentos de relevancia del Congreso del Estado;
 
-X. Contar con toda la información que se requiera sobre los recursos financieros y humanos, así como del mobiliario, equipo, material didáctico y de consumo para operar;
+d) Coadyuvar, por conducto de las instancias adecuadas, en la digitalización de la documentación y acervo con que cuenta el Congreso del Estado, a fin de facilitar a la población su acceso y consulta; y
 
-XI. Cumplir con los requerimientos previstos para la modalidad y tipo correspondiente que establezca el Reglamento de esta Ley, las disposiciones normativas y las normas oficiales mexicanas aplicables.
+e) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+V.- COMUNICACIÓN SOCIAL:
 
-###### Artículo 57.
+a) Difundir las actividades legislativas del Congreso del Estado, a fin de lograr un mayor acercamiento con la sociedad;
 
-Las guarderías, estancias y centros de atención del Instituto de Seguridad Social del Estado de México y Municipios, del Sistema para el Desarrollo Integral de la Familia del Estado de México y de los Servicios Educativos Integrados al Estado de México serán autorizadas por estos organismos, bajo el régimen de absoluta responsabilidad y previo cumplimiento de las disposiciones legales aplicables, informando de ello al Registro Estatal.
+b) Coadyuvar con la instancia respectiva, en el establecimiento de una comunicación permanente en materia legislativa con los Congresos Federal, Estatales y la Asamblea Legislativa del Distrito Federal, a fin de coordinar esfuerzos de adecuación del marco jurídico legal existente, que propicien el mejor desarrollo de la Entidad; y
 
-Las guarderías, estancias y centros de atención de organismos descentralizados, autónomos y de otros poderes serán autorizados por estos bajo el régimen de absoluta responsabilidad y previo cumplimiento de las disposiciones legales aplicables.
+c) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
 
-Las guarderías, estancias y centros de atención dependientes de los municipios serán autorizados por estos bajo el régimen de absoluta responsabilidad y previo cumplimiento de las disposiciones legales aplicables.
+###### ARTÍCULO 52.
 
-Las guarderías, estancias y centros de atención solicitados por particulares serán autorizados por la autoridad municipal que corresponda al domicilio en el que se presten los servicios, previo cumplimiento de las disposiciones legales aplicables.
+Los Comités deberán presentar anualmente a la Junta de Gobierno y Coordinación Política, por conducto de su Presidente, un informe escrito respecto de los trabajos realizados en el mismo.
 
-Cuando los servicios de guarderías, estancias o centros sean prestados por la modalidad mixta estos serán autorizados por la instancia pública respectiva, con la cual el sector social o privado acuerde la prestación del servicio.
+### CAPÍTULO V. DE LAS SESIONES DE COMISIONES Y COMITÉS
 
-Las autorizaciones a que se refiere el artículo anterior tendrán vigencia de un año sin perjuicio de lo dispuesto en las disposiciones legales y administrativas aplicables.
+###### ARTÍCULO 53.
 
-Ningún centro de atención podrá prestar servicios para la atención, cuidado y desarrollo integral infantil sin contar con las autorizaciones respectivas.
+Todas las Comisiones Generales, Especiales y Comités deberán instalarse formalmente durante los treinta días naturales posteriores a su nombramiento por el Pleno del Congreso.
 
-###### Artículo 58.
+###### ARTÍCULO 54.
 
-Las autoridades establecerán programas de formación, actualización, capacitación, en materia educativa, de salud y de protección civil, para el personal que labore en los Centros de Atención.
+Las Comisiones Generales y Comités sesionarán por lo menos una vez al mes, o las que sean necesarias, según el caso lo amerite.
 
-###### Artículo 59.
+###### ARTÍCULO 55.
 
-La certificación deberá ser renovada de forma anual.
+Las sesiones de las Comisiones y Comités se celebrarán en el Recinto Oficial del Poder Legislativo, pero podrán realizarse en lugar distinto, si así lo acuerda la mayoría de sus integrantes.
 
-###### Artículo 60.
+###### ARTÍCULO 56.
 
-Los prestadores de servicios para la atención, cuidado y desarrollo integral infantil promoverán la capacitación de su personal, por lo que deberán brindarles las facilidades necesarias para este efecto, de acuerdo a la modalidad correspondiente y sin perjuicio de lo establecido por la legislación laboral.
+Las sesiones serán públicas, excepto cuando lo acuerden los integrantes de la Comisión o Comité.
 
-El personal de los Centros de Atención no deberá contar con antecedente penal o administrativo por los delitos de lesiones, violación, estupro, pederastia o cualquier otro delito que sea incompatible para el trato con un menor.
+###### ARTÍCULO 57.
 
-###### Artículo 61.
+Las Comisiones y Comités deberán realizar las funciones que se les atribuya conforme lo establecido en la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla. Asimismo, el Presidente, Secretario y Vocales de las mismas desempeñarán las atribuciones que les confiere dicho ordenamiento.
 
-El Estado y los ayuntamientos implementarán acciones dirigidas a capacitar y certificar anualmente al personal que labora en los Centros de Atención.
+###### ARTÍCULO 58.
 
-Concluida la vigencia de la certificación, el personal estará inhabilitado para laborar con los menores.
+La convocatoria a sesión de Comisión o Comité corresponderá a su Presidente. Cuando el Presidente no convoque en los términos del artículo anterior, la convocatoria podrá ser suscrita válidamente con la firma de la mayoría simple de los demás integrantes.
 
-###### Artículo 62.
+###### ARTÍCULO 59.
 
-Los ayuntamientos, en coordinación con el Consejo, determinarán las competencias, capacitación y aptitudes con las que deberá contar el personal que pretenda laborar en los Centros de Atención y determinarán los tipos de exámenes a los que deberá someterse dicho personal, a fin de garantizar la salud, la educación, la seguridad y la integridad física y psicológica de niñas y niños.
+Cuando la Comisión o Comité responsable de convocar a sesión conjunta no lo hiciera dentro del término establecido, el Presidente de cualquiera de éstas podrá hacerlo, de conformidad con lo establecido en la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla.
 
-###### Artículo 63.
+###### ARTÍCULO 60.
 
-El personal que labore en los Centros de Atención garantizará un ambiente de respeto en el marco de los derechos de las niñas y los niños.
+Una vez turnada una iniciativa o asunto, la Comisión o Comité podrá acordar la metodología de trabajo para su estudio, análisis y discusión.
 
-###### Artículo 64.
+###### ARTÍCULO 61.
 
-Las Secretarías de Educación, Ciencia, Tecnología e Innovación, de Salud y de Seguridad y los ayuntamientos, en el ámbito de sus respectivas competencias y conforme lo determine su reglamentación, deberán efectuar, cuando menos cada seis meses, visitas de verificación a los Centros de Atención y aplicarán, cuando proceda, las sanciones correspondientes, sin perjuicio de la supervisión y seguimiento que realicen las autoridades federales en el ámbito de su competencia.
+Las sesiones de Comisiones o Comités deberán iniciar a más tardar diez minutos después de la hora fijada para tal efecto.
 
-Estas verificaciones deben ser realizadas garantizando la seguridad, atención y cuidados necesarios hacia las niñas y los niños de los Centro de Atención.
+###### ARTÍCULO 62.
 
-###### Artículo 65.
+A las sesiones de Comisiones o Comités, por tratarse de reuniones de trabajo, podrán asistir sus integrantes, servidores públicos del Poder Legislativo y el personal de apoyo que acrediten los propios Diputados.
 
-Las visitas de verificación a las que se refiere el artículo anterior tendrán por objetivos los siguientes:
+###### ARTÍCULO 63.
 
-I. Vigilar mediante la práctica de la inspección al Centro de Atención, el cumplimiento de los requisitos y obligaciones impuestos por esta Ley y su Reglamento, por parte de los prestadores de servicios para la atención, cuidado y desarrollo integral infantil;
+El personal de apoyo acreditado ante el Presidente de la Comisión o Comité por los Grupos o Representaciones Legislativas, podrá participar en las reuniones, únicamente con voz, a solicitud de cualquier integrante de ésta, y con la autorización del Presidente.
 
-II. Notificar oportunamente a la autoridad responsable, de la detección oportuna de cualquier riesgo para la integridad física o psicológica de las niñas y los niños y requerir de ésta su inmediata actuación.
+Es obligación del personal de apoyo contribuir al buen desarrollo de las sesiones, así como de las reuniones de trabajo, conduciéndose en éstas con orden y respeto hacia los presentes; de lo contrario, podrán ser llamados al orden y, en su caso, retirados de la reunión, a propuesta del Presidente o de la mayoría de los integrantes de la Comisión o Comité.
 
-###### Artículo 66.
+###### ARTÍCULO 64.
 
-El personal comisionado para llevar a cabo las visitas de verificación, deberá estar provisto del documento oficial que lo acredite como tal, así como de la orden escrita, fundada y motivada, expedida por la autoridad correspondiente, en la que se precisará el lugar y los servicios que han de inspeccionarse, el objeto que se persigue, el personal del Centro de Atención con el que se llevará a cabo la diligencia, así como la fecha y el lugar.
+En las sesiones de trabajo de las Comisiones o Comités no habrá límite en las participaciones, ni en el tiempo de las mismas. Cuando por razones de extensión en el tiempo de los trabajos de una sesión, a solicitud de un integrante y con la aprobación de la mayoría de los miembros de la Comisión o Comité, podrá decretarse un receso, continuar con los trabajos o bien, suspenderse aquélla, aun sin estar agotado el orden del día, debiendo acordarse por mayoría el momento de reanudación de los trabajos, no siendo necesario en este caso que se realice una convocatoria en términos de Ley.
 
-###### Artículo 67.
+En el caso de que estuviera por iniciar una Sesión del Pleno del Congreso, el Presidente de la Comisión o Comité deberá suspender los trabajos, debiendo fijar fecha y hora para reanudar la reunión, siempre que no interfiera con otra sesión plenaria.
 
-El personal autorizado, al iniciar la inspección, se identificará plenamente con la persona con quien se entienda la diligencia, le exhibirá la orden respectiva, entregándole copia de ésta y la requerirá para que en el acto designe los dos testigos.
+###### ARTÍCULO 65.
 
-###### Artículo 68.
+Sólo por urgencia, de manera extraordinaria y con el permiso del Presidente de la Mesa Directiva, las Comisiones y Comités podrán reunirse en horas en que el Pleno esté sesionando.
 
-En toda inspección se levantará acta en la que se harán constar en forma circunstanciada los actos, hechos u omisiones que se hubiesen presentado durante la diligencia.
+###### ARTÍCULO 66.
 
-###### Artículo 69.
+Previo a la apertura de la sesión, el Secretario pasará lista de los integrantes de la Comisión o Comité, a efecto de comprobar la existencia de quórum. Para que se realice la reunión, deberán estar presentes la mayoría de los integrantes del Órgano Legislativo.
 
-El inspector deberá sugerir las medidas correctivas, si encuentra irregularidades durante la visita de verificación, mismas que quedarán asentadas en el acta.
+En caso de no existir quórum, se asentará en el acta la inasistencia de los Diputados y se citará para la siguiente sesión en términos de Ley.
 
-###### Artículo 70.
+Tratándose de reunión de Comisiones Unidas, el quórum se computará en forma independiente por Comisión, aun cuando un mismo Diputado sea integrante de más de una.
 
-La autoridad correspondiente deberá denunciar ante el Ministerio Público todas aquellas conductas que puedan constituir delitos.
+###### ARTÍCULO 67.
 
-###### Artículo 71.
+Si a la Sesión no concurre el Presidente o éste y el Secretario, los integrantes de la Comisión o Comité podrán ser nombrados, por mayoría de votos de los Diputados presentes, para asumir la función o funciones correspondientes. Este nombramiento sólo tendrá efectos para dicha reunión.
 
-Al finalizar la inspección, el acta se firmará por la persona con la que se entendió la diligencia, por dos testigos y por el personal autorizado, dejando copia al interesado, aunque se haya negado a firmar dicha acta.
+###### ARTÍCULO 68.
 
-###### Artículo 72.
+El Presidente someterá el orden del día a consideración de los integrantes de la Comisión o Comité, mismo que podrá ser modificado por acuerdo de éstos, a propuesta de uno de sus integrantes y con la aprobación de la mayoría.
 
-Las irregularidades detectadas, se harán del conocimiento al Ayuntamiento o autoridad correspondiente, de forma inmediata y por oficio, para su pronta atención, conocimiento y para los demás efectos legales a que haya lugar.
+###### ARTÍCULO 69.
 
-###### Artículo 73.
+Las discusiones se harán en lo general y después en lo particular.
 
-Si el propietario o representante del Centro de Atención o la persona que se encuentre en el Centro y con la que se lleve a cabo la diligencia, se niega a firmar el acta motivo de la visita de verificación, tal situación se hará constar en la misma acta. La negativa de firma no invalida de ninguna forma los efectos de la visita.
+Para tal efecto, el Secretario dará lectura a los documentos conducentes, a menos que la lectura sea dispensada.
 
-###### Artículo 74.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
 
-El Consejo, en coordinación con los municipios, implementará el Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento, el cual tendrá los siguientes objetivos:
+###### ARTÍCULO 70.
 
-I. Garantizar el mejoramiento progresivo y el fortalecimiento de los servicios de atención, cuidado y desarrollo integral infantil;
+En el supuesto que un Servidor Público asista a la Sesión de una Comisión o Comité, esté podrá imponerse del expediente respectivo en la Secretaría del Órgano Legislativo correspondiente, en la Secretaría General del Congreso del Estado, la Dirección General de Asuntos Jurídicos, de Estudios y Proyectos Legislativos o en donde la primera instruya.
 
-II. Establecer los mecanismos de colaboración técnico operativa para lograr una vigilancia efectiva del cumplimiento de la presente Ley y de la normatividad que regula los servicios;
+###### ARTÍCULO 71.
 
-III. Evitar la discrecionalidad y la corrupción en la asignación de autorizaciones para prestar servicios para la atención, cuidado y desarrollo integral infantil;
+Al abrirse la discusión de alguno de los asuntos turnados a los Órganos Legislativos, podrán los ciudadanos referidos en el artículo anterior, con autorización del Presidente, informar a la Comisión o Comité respectivo sobre la opinión del Poder Ejecutivo del Estado, del Tribunal Superior de Justicia o de los Ayuntamientos, en el asunto de que se trate y exponer en su apoyo cuantos fundamentos estimen convenientes.
 
-IV. Garantizar la detección y corrección oportuna de cualquier riesgo para la integridad física o psicológica de niñas y niños.
+###### ARTÍCULO 72.
 
-###### Artículo 75.
+Los Servidores Públicos que asistan a las Sesiones de Comisiones o Comités, no podrán hacer proposiciones ni adicionar las presentadas por los Diputados; se limitarán a exponer y desarrollar la opinión del Ejecutivo del Estado, del Tribunal Superior de Justicia o de los Ayuntamientos, a rendir los informes que se les pidan y a contestar las interpelaciones que se les dirijan en alguno de esos sentidos. Los representantes de los Poderes y de los Ayuntamientos se retirarán en el momento de la votación.
 
-La madre, el padre, el tutor o la persona que tenga la responsabilidad de cuidado y crianza, podrá solicitar la intervención de la autoridad correspondiente para reportar cualquier irregularidad o incumplimiento a la normatividad o factor que pueda constituir un riesgo en los Centros de Atención.
+###### ARTÍCULO 73.
 
-###### Artículo 76.
+Las Comisiones y Comités, por sí o por acuerdo del Pleno, a través del Presidente de la Junta de Gobierno y Coordinación Política, podrán solicitar a las Entidades del Gobierno del Estado, todos los instrumentos y copias de documentos que resulten necesarios para el despacho de los asuntos de su competencia y atribuciones.
 
-Las autoridades verificadoras competentes podrán imponer medidas disciplinarias en los Centros de Atención cuando adviertan situaciones que pudieran poner en riesgo la integridad de las niñas y los niños.
+En el supuesto de que la información o documentación solicitada tenga el carácter de reservada, se estará a lo dispuesto en la legislación aplicable.
 
-###### Artículo 77.
+###### ARTÍCULO 74.
 
-Cualquier ciudadano podrá denunciar las conductas que constituyan una probable infracción a esta Ley.
+Cuando a juicio de los integrantes de la Comisión, expresado a través del voto mayoritario correspondiente, se considere que la naturaleza o trascendencia de un determinado asunto lo justifican, podrán disponer que una iniciativa de Ley, Decreto o Acuerdo sea difundida entre la sociedad, ya sea por medios electrónicos, publicaciones o a través de la realización de eventos o consultas públicas.
 
-###### Artículo 78.
+###### ARTÍCULO 75.
 
-A efecto de prevenir situaciones de riesgo a la salud e integridad de los niños y las niñas, se deberán imponer las medidas cautelares siguientes:
+La grabación de las Sesiones y reuniones de trabajo de las Comisiones y Comités, deberá ser aprobada por la mayoría de los Diputados integrantes de las mismas.
 
-I. Recomendación escrita, en la que se fije un plazo de hasta treinta días para corregir la causa que le dio origen;
+###### ARTÍCULO 76.
 
-II. Apercibimiento escrito, el cual procederá en caso de que no se atienda la recomendación en el plazo establecido, señalándose un término de hasta diez días para corregir la causa que lo motivó;
+Las Comisiones y Comités, por conducto de su Presidente, a efecto de obtener información y auxilio para sus trabajos, podrán además:
 
-III. Suspensión parcial de actividades en el Centro de Atención, que se mantendrá hasta en tanto se corrija la situación que le dio origen;
+I.- Solicitar la comparecencia de peritos o personas competentes en la materia, a efecto de obtener elementos necesarios para el trabajo de la Comisión o Comité;
 
-IV. Suspensión total de actividades en el Centro de Atención.
+II.- Realizar y promover, previo acuerdo del Presidente de la Junta de Gobierno y Coordinación Política, la realización de Foros, Consultas Ciudadanas y Mesas de Trabajo respecto de las Iniciativas turnadas a ellas;
 
-###### Artículo 79.
+III.- Realizar encuestas o estudios en cuestiones de su competencia, siempre que no esté ya constituida una Comisión o Comité con ese propósito, de acuerdo con la disponibilidad presupuestal del Congreso;
 
-Los plazos a que se refiere el artículo anterior podrán ampliarse, siempre y cuando ello se justifique a partir de la situación específica que originó la medida.
+IV.- Solicitar la comparecencia de particulares, cuando sea necesario; y
 
-###### Artículo 80.
+V.- Realizar cualquier acción acordada por sí o por disposición de la Mesa Directiva o de la Junta de Gobierno y Coordinación Política, que les permita optimizar el desarrollo de sus funciones.
 
-La autoridad podrá suspender total o parcialmente actividades, con independencia de las demás medidas cautelares, cuando la causa lo amerite.
+###### ARTÍCULO 77.
 
-###### Artículo 81.
+Una vez que algún Dictamen haya sido aprobado o no por el Pleno del Congreso, el asunto deberá archivarse como concluido. Aprobado un proyecto de Ley, Decreto o Acuerdo, no podrá, en ningún caso, tratarse su derogación sino pasado un Periodo Ordinario de Sesiones; pero alguno o algunos de sus artículos podrán formar parte de otro proyecto.
 
-Los ayuntamientos y las dependencias de la administración pública, en sus respectivos ámbitos de competencia, podrán aplicar las siguientes sanciones, como consecuencia del incumplimiento de esta Ley y su reglamento:
+###### ARTÍCULO 78.
 
-I. Amonestación con apercibimiento, cuando las infracciones sean menores y no reiteradas, entendiéndose por infracciones menores las que se cometan por error o ignorancia, siempre y cuando no hayan afectado la seguridad o salud de los menores. En la amonestación se apercibirá al infractor para que de forma inmediata corrija los actos u omisiones detectadas y que por su naturaleza transgredan la Ley o las demás disposiciones legales o reglamentarias;
+El Presidente vigilará la elaboración del proyecto de Dictamen respectivo, que será sometido a la consideración de la Comisión o Comité.
 
-II. Amonestación pública, cuando la infracción menor sea reiterada;
+Las observaciones que se formulen al proyecto de Dictamen, serán incorporadas a éste, en los términos que acuerden sus integrantes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+###### ARTÍCULO 79.
 
-III. Multa de 500 a 10,000 veces el valor diario de la Unidad de Medida y Actualización vigente, cuando:
+Todas las decisiones que se tomen durante las Sesiones de Comisiones o Comités, deberán aprobarse por mayoría absoluta de votos, salvo en las excepciones señaladas por la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla o el presente ordenamiento.
 
-a). Exista reiteración en faltas menores.
+###### ARTÍCULO 80.
 
-b). Se impida total o parcialmente el desarrollo de la visita por parte de los supervisores correspondientes.
+Cuando se discuta un dictamen y se expresen votos particulares, se le comunicará al Presidente de la Comisión o Comité para el trámite respectivo.
 
-c). Se elaboren los alimentos ofrecidos a niñas y niños sin apego a los requisitos mínimos de alimentación balanceada o de higiene establecidos en la norma oficial para el control de la nutrición, crecimiento y desarrollo de los niños.
+###### ARTÍCULO 81.
 
-d). Se modifique la estructura del inmueble o la distribución de los espacios sin contar con los permisos de la autoridad competente.
+Los integrantes de la Comisión o Comité podrán solicitar que en el dictamen se exprese el sentido de su voto y, en su caso, las razones del mismo.
 
-e). Se incumpla con las medidas de salud y de atención médica en los términos que establezca la normatividad correspondiente.
+El voto particular deberá engrosarse al dictamen y el Presidente de la Comisión lo enviará al Presidente de la Mesa Directiva por escrito, junto con el dictamen aprobado, con el fin de que se publique en la Gaceta.
 
-f). Se realice por parte del personal de los Centros de Atención, algún acto de discriminación contra cualquier niño, niña, o de sus padres o tutores.
+###### ARTÍCULO 82.
 
-La multa no será condonable y se hará efectiva por las autoridades fiscales del Estado o del Ayuntamiento respectivo, a través del procedimiento administrativo de ejecución, en los términos previstos por las disposiciones legales aplicables.
+Los dictámenes además de reunir los requisitos contemplados en el artículo 154 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, deberán ir firmados por todos los miembros de la Comisión o Comité.
 
-IV. Suspensión temporal de la autorización, en los casos siguientes:
+###### ARTÍCULO 83.
 
-a). Cuando no se cuente con el personal competente o suficiente para brindar los servicios para la atención, cuidado y desarrollo integral infantil.
+Cuando exista empate en alguna votación, deberá repetirse inmediatamente en la misma reunión, en caso de que resulte empate por segunda vez, el asunto deberá de discutirse y votarse en una reunión posterior.
 
-b). Cuando no se regularice la situación que dio origen a la imposición de la multa o por no haberla cubierto.
+###### ARTÍCULO 84.
 
-c). Por realizar actividades con niñas y niños fuera de las instalaciones del Centro de Atención sin el previo consentimiento y por escrito de los padres, tutores o quienes tengan la responsabilidad de su atención, cuidado y crianza.
+Cuando alguna Comisión o Comité apruebe un Dictamen de Ley, Decreto o Acuerdo, deberá ser remitido a la Mesa Directiva para que se proceda a su inclusión en el Orden del Día de la Sesión que corresponda.
 
-d). Por el incumplimiento de los requisitos de autorización.
+###### ARTÍCULO 85.
 
-e). Por el descuido por parte del personal del Centro de Atención que ponga en peligro la salud o la integridad física o psicológica de las niñas y los niños.
+Los Diputados que falten a una reunión de Comisión o Comité sin causa justificada, serán exhortados a cumplir con su responsabilidad por el Presidente de la misma.
 
-f). Por reincidir en alguna de las causas que originen las sanciones contenidas en el artículo que antecede.
+Los Diputados que falten injustificadamente en dos ocasiones consecutivas a las reuniones de Comisiones o Comités, recibirán un apercibimiento, a petición del Presidente de la misma, por parte de la Mesa Directiva.
 
-g). Por la pérdida de la vida o por la existencia de lesiones graves en una niña o niño, en tanto se deslinde la responsabilidad al Centro de Atención o personal relacionado con el mismo.
+Los Diputados que acumulen tres faltas injustificadas consecutivas, serán amonestados por el Presidente de la Mesa Directiva durante la Sesión del Pleno, para que expongan si pueden o no continuar en la Comisión o Comité, y en su caso, soliciten un permiso para ausentarse temporalmente de la misma. Asimismo, serán sancionados por cada falta con un día de dieta.
 
-La suspensión temporal no podrá exceder de un año y durará en tanto la autoridad determine que se han solventado las irregularidades, en tal caso.
-
-V. Revocación de la autorización y cancelación del registro, cuando concurran las siguientes causas:
-
-a). Pérdida de la vida o la existencia de lesiones graves en una niña o niño, acreditadas mediante resolución judicial y que sean atribuibles en razón del incumplimiento de las disposiciones contenidas en la presente Ley.
-
-b). Comisión de cualquier delito sexual acreditado al personal del Centro de Atención mediante resolución judicial.
-
-c). Falta de regularización oportuna de la situación que dio origen a la imposición de una suspensión temporal, de tal forma que las causas que originaron a la misma sigan vigentes.
-
-d). Interrupción sin causa justificada de las actividades del Centro de Atención por un lapso mayor de 5 días naturales.
-
-e). Realización reiterada de actividades diferentes a las autorizadas.
-
-A las personas a las que se les revoque la autorización no se les expedirá nueva licencia de funcionamiento.
-
-###### Artículo 82.
-
-Son parámetros para calificar las infracciones y para individualizar las sanciones los siguientes:
-
-I. La gravedad de la infracción;
-
-II. El riesgo o daño que se haya producido o pueda producirse en la salud de las niñas y los niños, así como de las demás personas;
-
-III. Las condiciones socioeconómicas del infractor;
-
-IV. La calidad de reincidente del infractor, en tal caso;
-
-V. La naturaleza y demás circunstancias que sirvan para individualizar la sanción.
-
-###### Artículo 83.
-
-Las sanciones administrativas serán independientes de las penales que resulten como consecuencia de la comisión de delitos en contra de niñas y niños en los Centros de Atención, Cuidado y Desarrollo Integral Infantil, de acuerdo a lo establecido en la legislación penal correspondiente.
-
-> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
-
-###### Artículo 84.
-
-Las violaciones a los preceptos de esta Ley, sus reglamentos y disposiciones que de ella emanen, por parte de los servidores públicos, constituyen infracción y serán sancionados en los términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
-
-> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
-
-###### Artículo 85.
-
-Contra los actos y las resoluciones que dicten las autoridades en materia de autorizaciones, licencias o permisos para el funcionamiento de los centros de atención los particulares podrán interponer el recurso de inconformidad ante la propia autoridad o acudir ante el Tribunal de Justicia Administrativa del Estado de México.
-
-T R A N S I T O R I O S
-
-PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
-
-SEGUNDO. Las disposiciones reglamentarias de esta Ley deberán ser expedidas por el Ejecutivo del Estado y los Ayuntamientos dentro de los noventa días hábiles siguientes a la entrada en vigor de la presente Ley.
-
-TERCERO. Los prestadores del servicio de atención, cuidado y desarrollo integral infantil que se encuentren operando con anterioridad a la entrada en vigor de esta Ley, contarán con un plazo de un año a partir de la entrada en vigor de la Ley para adecuar los Centros de Atención y emitir reglamentos a fin de obtener la autorización respectiva, condonándose durante ese periodo el pago de derechos municipales por dicho concepto.
-
-CUARTO. El Consejo a que se refiere esta Ley deberá instalarse dentro de los sesenta días hábiles siguientes a la entrada en vigor de la Ley y tendrá noventa días hábiles contados a partir de su instalación para elaborar un diagnóstico sobre el estado que guardan los Centros de Atención en el Estado de México.
-
-QUINTO. Los órdenes de Gobierno estatal y municipal deberán adoptar medidas presupuestales y técnicas, para garantizar la consecución de los objetivos de esta Ley.
-
-Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
-
-Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los veintiún días del mes de enero del año dos mil catorce.- Presidenta.- Dip. Adriana de Lourdes Hinojosa Céspedes.- Secretarios.- Dip. Gerardo del Mazo Morales.- Dip. María Teresa Garza Martínez.- Dip. Sergio Mancilla Zayas.- Rúbricas.
-
-Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
-
-Toluca de Lerdo, Méx., a 5 de febrero de 2014.
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MÉXICO
-
-DR. ERUVIEL ÁVILA VILLEGAS
-
-(RÚBRICA).
-
-EL SECRETARIO GENERAL DE GOBIERNO
-
-MTRO. EFRÉN T. ROJAS DÁVILA
-
-(RÚBRICA).
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-G.G. 18 DE DICIEMBRE DE 2014.
-
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-TERCERO. El Ejecutivo del Estado expedirá las disposiciones reglamentarias de esta Ley dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Decreto.
-
-CUARTO. El Consejo contará con sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto, para elaborar el Programa Estatal de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, mismo que deberá de ser publicado en el Periódico Oficial "Gaceta del Gobierno".
-
-QUINTO. El Consejo y los ayuntamientos tendrán sesenta días hábiles contados a partir de la publicación del Programa Estatal de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil para elaborar el Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del Funcionamiento.
-
-G.G. 20 DE DICIEMBRE DE 2016.
+Los Diputados que sumen cuatro faltas injustificadas de manera consecutiva, serán amonestados por escrito a través de la Junta de Gobierno y Coordinación Política, la que emitirá una resolución sobre la situación del Diputado y en su caso, valorará si procede proponer al Pleno su remoción en la Comisión o Comité respectivo, sin menoscabo de aplicar la sanción económica a que se hace referencia en el párrafo que antecede.
 
 ###### ARTÍCULO 86.
 
@@ -1153,9 +1095,7 @@ Para ejecutar las sanciones económicas a que se refiere el artículo 85 del pre
 
 ## TÍTULO QUINTO. DEL PROCESO LEGISLATIVO
 
-### CAPÍTULO XII. De las visitas de verificación
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+### CAPÍTULO I. DE LAS SESIONES
 
 ###### ARTÍCULO 90.
 
@@ -1275,7 +1215,7 @@ Cuando por falta de quórum no pudiere iniciarse una Sesión a la hora estableci
 
 Las Sesiones Públicas Extraordinarias que convoque la Comisión Permanente, se verificarán cuando lo apruebe la mayoría de los Diputados presentes, a propuesta del Ejecutivo del Estado o de los Diputados, y en ellas única y exclusivamente se tratará el o los asuntos que las motiven.
 
-### CAPÍTULO XIII. Del régimen disciplinario
+### CAPÍTULO II. DEL CEREMONIAL
 
 ###### ARTÍCULO 105.
 
@@ -1347,7 +1287,7 @@ Una vez concluido cada Periodo Ordinario, serán convocadas todas aquellas perso
 
 Dicho evento se podrá desarrollar en el Salón Miguel Hidalgo, y en el mismo, el Presidente de la Junta de Gobierno y Coordinación Política preguntará a dichas personas: "¿Protestáis sin reserva alguna cumplir con las obligaciones que la Constitución Política del Estado Libre y Soberano de Puebla establece para los poblanos, así como conducirse con estricto apego al orden jurídico de la Entidad?" Los interrogados deberán contestar: "Sí. Protesto". El Presidente dirá entonces: "Si no lo hiciereis así, que el Estado y los Poblanos os lo demanden".
 
-### CAPÍTULO XIV. De las medidas cautelares
+### CAPÍTULO III. DE LOS TRÁMITES
 
 ###### ARTÍCULO 120.
 
@@ -1381,7 +1321,7 @@ En el caso de los asuntos en que se deba preguntar al Pleno si se toman en consi
 
 Cuando se ponga a discusión un asunto, el Presidente lo anunciará agitando la campanilla y diciendo: "ESTÁ A DISCUSIÓN" (en lo general y en lo particular, según el caso). "LOS CIUDADANOS DIPUTADOS QUE DESEEN HACER USO DE LA PALABRA EN PRO O EN CONTRA, FORMARÁ UNA LISTA DE FORMA MANUAL O SOLICITARLO DE MANERA ELECTRÓNICA". El Presidente les concederá el uso de la palabra en el orden de inscripción; pero en ambos casos se observará lo prescrito en el Capítulo de los Debates. Agotado el debate, el Presidente interrogará: "¿SE CONSIDERA EL ASUNTO SUFICIENTEMENTE DISCUTIDO?". Si se resuelve por la afirmativa, se procederá desde luego a recoger la votación que corresponda. No habiendo discusión el Presidente dirá: "NO HABIENDO QUIEN HAGA USO DE LA PALABRA, SE PROCEDE A RECOGER LA VOTACIÓN NOMINAL", tratándose de ésta. Siendo asunto que deba resolverse en votación económica, dirá: "NO HABIENDO QUIEN HAGA USO DE LA PALABRA, EN VOTACIÓN ECONÓMICA SE CONSULTA SI SE APRUEBA; LOS CIUDADANOS DIPUTADOS QUE ESTÉN POR LA AFIRMATIVA, SÍRVANSE MANIFESTARLO PONIÉNDOSE DE PIE". A continuación hará la declaratoria que corresponda.
 
-### CAPÍTULO XV. De las sanciones
+### CAPÍTULO IV. DE LOS DEBATES
 
 ###### ARTÍCULO 123.
 
@@ -1665,9 +1605,35 @@ Para atender una situación no prevista en el Reglamento, el Presidente podrá d
 
 ### CAPÍTULO II. DE LAS DISTINCIONES DEL CONGRESO
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 165.
 
-El Congreso del Estado podrá realizar inscripciones dentro del Recinto, en los espacios adecuados para tal fin, conforme a los criterios para las inscripciones en el Muro de Honor del Recinto Legislativo del Congreso del Estado que emitan los Órganos Legislativos correspondientes. Para ello, deberá presentarse Iniciativa en los términos de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla y este Reglamento.
+El Congreso del Estado podrá realizar inscripciones dentro del Recinto, en los espacios adecuados para tal fin. En este caso, deberá presentarse Iniciativa en los términos de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla y este Reglamento, y deberá observarse lo siguiente:
+
+Al incorporar un nombre, leyenda o apotegma en el Muro de Honor del Congreso del Estado, se deberá considerar lo siguiente:
+
+a) Instalarse de la parte máxima superior hasta llegar a la parte inferior de la columna que se autorice para ello;
+
+b) El tamaño de letra deberá ser uniforme y de las mismas dimensiones de las ya instaladas;
+
+c) El tipo de letra deberá ser trajan; y
+
+d) El material de las letras deberá ser zamak aleado por zinc, aluminio, magnesio y cobre; y serán cubiertas por un baño de oro hasta alcanzar color similar de las que ya se encuentran inscritas.
+
+La inscripción se hará en el espacio físico adecuado para ello, el que será determinado por la Junta de Gobierno y Coordinación Política.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2016)</small>
+
+ARTÍCULO 165 BIS.- Las inscripciones de nombres, leyendas o apotegmas tendrán como objetivo rendir homenaje a un personaje, institución o suceso histórico de trascendencia para nuestro país y estado.
+
+Cuando se proponga la inscripción del nombre o nombres de ciudadanas mexicanas o mexicanos deberá haber transcurrido cuando menos, un periodo no menor a cinco años desde su fallecimiento.
+
+En caso de extranjeros, deberá ser un periodo no menor a diez años desde su fallecimiento y haber residido en el Estado al menos tres años.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2016)</small>
+
+ARTÍCULO 165 TER.- La Comisión competente resolverá sobre las propuestas de inscripción presentadas valorando los méritos, virtudes, grado de eminencia, aportaciones y servicios a la patria o a la humanidad; sujetándose a los principios de imparcialidad, objetividad y transparencia, y atendiendo a criterios de validez universal.
 
 ###### ARTÍCULO 166.
 
@@ -1833,11 +1799,11 @@ XVIII.- Comisionar a servidores públicos del Congreso para que realicen las dil
 
 XIX.- Las demás que le señalen la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, el presente Reglamento, el Estatuto del Servicio Profesional de Carrera Legislativa del Poder Legislativo del Estado o le asigne el Presidente de la Junta de Gobierno y Coordinación Política o la Mesa Directiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 178.
 
-Para el ejercicio de sus funciones y el despacho de los asuntos que le competen, la Secretaría General contará con las Direcciones y Unidad administrativas siguientes:
+Para el ejercicio de sus funciones y el despacho de los asuntos que le competen, la Secretaría General contará con las Direcciones siguientes:
 
 I.- Dirección General de Servicios Legislativos;
 
@@ -1851,9 +1817,11 @@ IV.- Dirección General de Comunicación y Vinculación;
 
 V.- (DEROGADA, P.O. 29 DE MARZO DE 2016); y
 
-VI.- Unidad de Acceso a la Información.
+VI.- (DEROGADA, P.O. 29 DE JULIO DE 2016)
 
-La Secretaría General, las Direcciones Generales y la Unidad de Acceso a la Información, contarán con el número de Coordinaciones, Jefaturas de Departamento y servidores públicos que sean necesarios para el cumplimiento de sus funciones.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
+
+La Secretaría General y las Direcciones Generales contarán con el número de Coordinaciones, Jefaturas de Departamento y servidores públicos que sean necesarios para el cumplimiento de sus funciones.
 
 ###### ARTÍCULO 179.
 
@@ -2405,9 +2373,9 @@ X.- Las demás que le asigne el Secretario General y el Director General.
 
 Asimismo, la Dirección General de Comunicación y Vinculación contará con dos Jefaturas de Departamento, las cuales tendrán las funciones siguientes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2016)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2016) (F. DE E., P.O. 26 DE ABRIL DE 2016)
 
-A. Jefatura de Enlace Institucional:
+A. Jefatura de Enlace con Medios:
 
 > <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
 
@@ -2429,9 +2397,9 @@ V.- Elaborar los comunicados de prensa y la síntesis informativa, verificando s
 
 VI.- Las demás que le asigne el Secretario General, el Director General o los Coordinadores.
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
+(REFORMADO, P.O. 29 DE MARZO DE 2016) (F. DE E., P.O. 26 DE ABRIL DE 2016)
 
-B. Jefatura de Enlace con Medios:
+B. Jefatura de Enlace Institucional:
 
 I.- Ejecutar el programa de vinculación institucional e interinstitucional del Congreso del Estado, garantizando el cumplimiento de éste mediante el fortalecimiento de los vínculos de colaboración con los diversos actores considerados;
 
@@ -2643,19 +2611,25 @@ La Dirección General de Administración y Finanzas, contará con el número de 
 
 (DEROGADO, P.O. 29 DE MARZO DE 2016)
 
-### CAPÍTULO VII. DE LA UNIDAD DE ACCESO A LA INFORMACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JULIO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
+### CAPÍTULO VII. DE LA UNIDAD DE TRANSPARENCIA
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 212.
 
-La Secretaría General contará con una Unidad de Acceso a la Información, que será la instancia operativa encargada de coordinar el cumplimiento de la Ley de la materia, su Reglamento y demás disposiciones aplicables, así como fungir como vínculo entre los solicitantes y el Congreso del Estado y poner a disposición de los ciudadanos la información pública.
+El Congreso del Estado contará con una Unidad de Transparencia, que será el área operativa encargada de coordinar el cumplimiento de la Ley de la materia, su Reglamento y demás disposiciones aplicables, así como ser vínculo entre los solicitantes y el Congreso del Estado y poner a disposición de los ciudadanos la información pública. Dependerá orgánicamente de la Presidencia de la Junta de Gobierno y Coordinación Política.
 
-Para el ejercicio de sus funciones y el despacho de los asuntos que le competen, el Titular de la Unidad acordará lo conducente con el Secretario General.
+Para el ejercicio de sus funciones y el despacho de los asuntos que le competen, el Titular de la Unidad acordará lo conducente con el Presidente de la Junta de Gobierno y Coordinación Política.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 213.
 
-Corresponde a la Unidad de Acceso a la Información las atribuciones y obligaciones establecidas en la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla y el Reglamento correspondiente para la transparencia y acceso a la información pública del Poder Legislativo del Estado de Puebla.
+Corresponde a la Unidad de Transparencia las funciones y atribuciones establecidas en la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, en la Ley General de Transparencia y Acceso a la Información Pública, en la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla y en el Reglamento correspondiente para la transparencia y acceso a la información pública del Congreso del Estado Libre y Soberano de Puebla.
+
+La Unidad de Transparencia contará con el número de servidores públicos que sean necesarios para el cumplimiento de sus funciones y atribuciones, de conformidad con los ordenamientos aplicables.
 
 ## TÍTULO NOVENO. DE LA CONTRALORÍA INTERNA
 
@@ -3103,78 +3077,38 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 20 DE NOVIEMBRE DE 2015.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 178.- POR QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD".]
+## [N. DE E. TRANSITORIOS DEL DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XXXIII Y XXXIV DEL ARTÍCULO 123, Y ADICIONA LA FRACCIÓN XXXV AL ARTÍCULO 123 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO Y SOBERANO DE PUEBLA, Y ADICIONA LA FRACCIÓN XXXV AL ARTÍCULO 48 DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
-SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+SEGUNDO. Los asuntos en trámite que se encuentren turnados a la Comisión Especial de la Familia y su Desarrollo Integral con motivo de la entrada en vigor de este Decreto deberán pasar a la Comisión Ordinaria de la Familia y su Desarrollo Integral.
 
-TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
-CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+P.O. 29 DE MARZO DE 2016.
 
-QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA Y DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
-SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-G.G. 11 DE MAYO DE 2023.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 159.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, DE LA LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MÉXICO, DE LA LEY DE RESPONSABILIDAD PATRIMONIAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO, DE LA LEY PARA PREVENIR Y ATENDER EL ACOSO ESCOLAR EN EL ESTADO DE MÉXICO, Y DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CONSEJO ESTATAL PARA EL DESARROLLO INTEGRAL DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE MÉXICO".]
+TERCERO. Sin perjuicio de lo anterior, los asuntos que se encuentren en trámite o en proceso en las áreas de los órganos legislativos y administrativos a la entrada en vigor de la presente disposición materia del presente Decreto, se seguirán tramitando hasta su conclusión.
 
-PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+P.O. 29 DE JULIO DE 2016.
 
-SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA Y DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
 
-TERCERO. Las dependencias encargadas de aplicar la reforma, realizarán en el presente ejercicio fiscal, una reconducción o ajustes necesarios a su presupuesto, a efecto de poder llevar a cabo su implementación.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-G.G. 22 DE JUNIO DE 2023.
+SEGUNDO. Las solicitudes de acceso que se encuentren en trámite o en proceso en la Unidad de Acceso a la Información del Congreso del Estado Libre y Soberano de Puebla, a la entrada en vigor del presente Decreto, se seguirán tramitando hasta su conclusión en la Unidad de Transparencia del Congreso del Estado Libre y Soberano de Puebla.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA".]
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+P.O. 29 DE JULIO DE 2016.
 
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL INCISO E) DE LA FRACCIÓN XXXIII DEL ARTÍCULO 48 Y EL 165, Y ADICIONA EL INCISO F) A LA FRACCIÓN XXXIII DEL ARTÍCULO 48, EL 165 BIS Y EL 165 TER, TODOS DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
 
-TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
-
-Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
-
-QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
-
-G.G. 5 DE ABRIL DE 2024.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
-
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
-
-CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
-
-Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
-
-Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
-
-Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
-
-Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
-
-QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
-
-SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
-
-SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
-
-OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
-
-NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
-
-DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
-
-DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
-
-DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
