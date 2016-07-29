@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-cultura-fisica-y-deportes-del-estado-de-baja-104257"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2016-03-18"
+last_updated: "2016-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104257&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
 
 Ley publicada en la Sección VIII del Periódico Oficial del Estado de Baja California, el miércoles 31 de diciembre de 2014.
 
@@ -1797,15 +1797,21 @@ II.- Recurso de apelación, el cual se podrá promover ante la CAAD en los casos
 
 Para efectos de este artículo, se entiende por estructura deportiva estatal según sea el caso, la distribución y orden que guardan entre sí las autoridades deportivas y los integrantes del asociacionismo deportivo del estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 205.
 
-Para la aplicación de sanciones por faltas a estatutos, reglamentos y ordenamientos de conducta, los organismos deportivos que pertenecen al SECUDE habrán de prever lo siguiente:
+La aplicación de sanciones por infracciones a sus estatutos y reglamentos deportivos, corresponde:
 
 I.- Un apartado dentro de sus estatutos que considere las infracciones y sanciones correspondientes, de acuerdo a su disciplina deportiva, el procedimiento para imponer dichas sanciones y el derecho de audiencia a favor del presunto infractor;
 
 II.- Los criterios para considerar las infracciones con el carácter de leves, graves y muy graves; y
 
 III.- Los procedimientos para interponer los recursos establecidos en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2016)</small>
+
+En caso de aplicación de sanciones a menores de edad, por acatar instrucciones de su entrenador, cuerpo técnico o representante legal, deberán ser impuestas a estos últimos, para dejar a salvo el derecho del menor a continuar con la práctica de la disciplina deportiva de que se trate.
 
 ###### ARTÍCULO 206.
 
@@ -1932,3 +1938,9 @@ P.O. 18 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 445 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 31, EN LA FRACCIÓN VI, ADICIONANDO UNA FRACCIÓN VII A LA LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 29 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 513 MEDIANTE EL CUAL SE APRUEBA LA REFORMA POR LA CUAL SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 205 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
