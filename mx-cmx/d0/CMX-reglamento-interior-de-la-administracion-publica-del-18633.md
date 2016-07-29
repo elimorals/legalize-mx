@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2016-06-16"
+last_updated: "2016-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 16 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 29 DE JULIO DE 2016.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -12168,9 +12168,19 @@ C) Dirección General de Obras y Desarrollo Urbano;
 
 D) Dirección General de Servicios Urbanos;
 
-E) Dirección General de Desarrollo Social; y
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2016)</small>
+
+E) Dirección General de Desarrollo Social;
 
 F) Dirección General de Desarrollo Delegacional.
+
+> <small>(ADICIONADO, G.O. 29 DE JULIO DE 2016)</small>
+
+G) Dirección Ejecutiva de Cultura; y
+
+> <small>(ADICIONADO, G.O. 29 DE JULIO DE 2016)</small>
+
+H) Dirección Ejecutiva de Desarrollo Sustentable.
 
 > <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -14914,33 +14924,33 @@ DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y
 
 La Dirección General de Servicios Urbanos tendrá además de las señaladas en el artículo 127, las siguientes atribuciones:
 
-I. Dar mantenimiento a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquellos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial;
+I. (DEROGADA, G.O. 29 DE JULIO DE 2016)
 
-II. Brindar mantenimiento a las escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial, así como atender y vigilar su adecuado funcionamiento, de conformidad con la normatividad que al efecto expida la Dependencia competente;
+II. (DEROGADA, G.O. 29 DE JULIO DE 2016)
 
-III. Dar mantenimiento a los parques y mercados públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
+III. (DEROGADA, G.O. 29 DE JULIO DE 2016)
 
 IV. Prestar en su demarcación territorial los servicios de suministro de agua potable y alcantarillado, que no estén asignados a otra Dependencia o Entidad, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes; y
 
-V. Dar mantenimiento a las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades primarias y secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias.
+V. (DEROGADA, G.O. 29 DE JULIO DE 2016)
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(ADICIONADO, G.O. 29 DE JULIO DE 2016)</small>
 
 ###### Artículo 160 Bis.
 
-La Dirección General Administración (sic) tendrá además de las señaladas en el artículo 125, la siguiente atribución:
+La Dirección General de Administración tendrá además de las señaladas en el artículo 125, la siguiente atribución:
 
 I. Administrar el acervo documental de la Delegación.
 
-> <small>(ADICIONADO, G.O. 1 DE JULIO DE 2013)</small>
+> <small>(ADICIONADO, G.O. 29 DE JULIO DE 2016)</small>
 
 ###### Artículo 160 Ter.
 
-La Dirección General de Obras y Desarrollo Urbano tendrá además de las señaladas en el artículo 126, la siguiente atribución:
+La Dirección General de Desarrollo Social tendrá además de las señaladas en el artículo 128, la siguiente atribución:
 
-I. Brindar mantenimiento a las escuelas, mercados, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial.
+I. Promover, coordinar e implementar programas encaminados a fortalecer el tejido social de los pueblos originarios y de la población indígena radicada en la demarcación territorial.
 
-> <small>(ADICIONADO, G.O. 1 DE JULIO DE 2013)</small>
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
 ###### Artículo 161.
 
@@ -14948,109 +14958,117 @@ Corresponde a la Dirección General de Desarrollo Delegacional:
 
 I. Coordinar y dar seguimiento a los programas de simplificación administrativa, modernización y mejoramiento de la atención al público, que se implementen al interior del Órgano Político-Administrativo;
 
-II. Promover y conducir el Programa de Desarrollo Económico del Órgano Político-Administrativo;
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2016)</small>
 
-III. Promover la participación en el Comité de Fomento Económico de la demarcación territorial, de los órganos representativos de las actividades económicas;
+II. Formular y ejecutar los programas de simplificación administrativa, modernización y mejoramiento de atención al público, tomando en cuenta la opinión y lineamientos que al efecto dicte la Oficialía Mayor;
 
-IV. Ejecutar acciones tendientes a la promoción de proyectos de inversión que contribuyan al crecimiento económico, la protección y la generación de empleos;
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2016)</small>
 
-V. Coadyuvar en la promoción y desarrollo de la microempresa, propiciando la participación de diversos sectores, en proyectos viables de desarrollo económico, en atención a las características económicas y poblacionales de la demarcación territorial;
+III. Asegurar el funcionamiento de la Ventanilla Única Delegacional de conformidad con el marco jurídico y administrativo aplicable;
 
-VI. Implementar acciones tendientes a la realización de ferias, exposiciones y eventos vinculados a la promoción de actividades culturales y recreativas dentro de la demarcación territorial del Órgano Político-Administrativo;
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2016)</small>
 
-VII. Establecer vínculos interinstitucionales tendientes al desarrollo de programas y proyectos en materia de fomento a la cultura;
+IV. Asegurar el funcionamiento del Centro de Servicios y Atención Ciudadana de conformidad con el marco jurídico y administrativo aplicable;
 
-VIII. Promover y apoyar la realización de actividades culturales que se realicen en la demarcación territorial del Órgano Político-Administrativo;
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2016)</small>
 
-IX. Impulsar el desarrollo de programas encaminados a la realización de actividades culturales, tales como, danza, teatro, música, artes plásticas y literarias;
+V. Llevar a cabo el seguimiento de las acciones y propuestas que se recojan durante los recorridos y audiencias públicas que lleve a cabo el titular del Órgano Político-Administrativo;
 
-X. Llevar a cabo acciones tendientes a promover la incorporación de barrios regenerados al patrimonio cultural de la demarcación territorial del Órgano Político-Administrativo y del Distrito Federal;
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2016)</small>
 
-XI. Instrumentar acciones de fomento tendientes a la realización de ferias, exposiciones y congresos vinculados a la promoción de actividades industriales, comerciales y económicas dentro de la demarcación territorial;
+VI. Establecer e implementar las bases para promover la participación y organización ciudadana;
 
-XII. Promover, dentro del ámbito de competencia y de conformidad con las disposiciones jurídicas y administrativas aplicables y con las directrices que fije el titular del Órgano Político-Administrativo, acciones de promoción de inversión inmobiliaria, tanto del sector público como privado, para la vivienda, equipamiento y servicios;
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2016)</small>
 
-XIII. Implementar acciones de preservación y restauración del equilibrio ecológico, y de protección al medio ambiente de conformidad a las disposiciones jurídicas y administrativas aplicables;
+VII. Determinar las metodologías de diagnóstico, que permita detectar y atender las problemáticas que presentan los habitantes de la demarcación territorial;
 
-XIV. Revisar los informes preventivos, así como conocer las manifestaciones de impacto ambiental, que en relación con las construcciones y establecimientos soliciten los particulares, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2016)</small>
 
-XV. Vigilar el cumplimiento de las disposiciones en materia ambiental, aplicando las sanciones que correspondan cuando se trate de actividades y establecimientos cuya vigilancia no corresponda a las Dependencias, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+VIII. Asegurar que las demandas de organizaciones sociales, representaciones vecinales y ciudadanía se atiendan mediante el diálogo y la negociación;
 
-XVI. Difundir los programas y estrategias relacionados con la preservación del equilibrio ecológico y la protección al ambiente, en coordinación con la Secretaría del Medio Ambiente;
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2016)</small>
 
-XVII. Formular y difundir programas de educación comunitaria, social y privada para la preservación y restauración de los recursos naturales y la protección al ambiente;
+IX. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como los que se establezcan en las disposiciones jurídicas vigentes.
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
+X. (DEROGADA, G.O. 29 DE JULIO DE 2016)
 
-XVIII. Formular y ejecutar los programas de simplificación administrativa, modernización y mejoramiento de atención al público, tomando en cuenta la opinión y lineamientos que al efecto dicte la Contraloría General;
+XI. (DEROGADA, G.O. 29 DE JULIO DE 2016)
 
-XIX. Elaborar, promover, fomentar y ejecutar los proyectos productivos, que en el ámbito de la jurisdicción del Órgano Político-Administrativo protejan e incentiven el empleo, de acuerdo a los programas, lineamientos y políticas que en materia de fomento, desarrollo e inversión económica emitan las Dependencias correspondientes;
+XII. (DEROGADA, G.O. 29 DE JULIO DE 2016)
 
-XX. Coordinar y dar seguimiento a los programas que lleve a cabo el Órgano Político-Administrativo o en los cuales participe, en materia de desarrollo económico, modernización y desarrollo tecnológico, capacitación y fomento al empleo, preservación y mejoramiento del medio ambiente y fomento cultural;
+XIII. (DEROGADA, G.O. 29 DE JULIO DE 2016)
 
-XXI. Llevar a cabo el seguimiento de las acciones y propuestas que se recojan durante los recorridos y audiencias públicas que lleve a cabo el titular del Órgano Político-Administrativo;
+XIV. (DEROGADA, G.O. 29 DE JULIO DE 2016)
 
-XXII. Realizar acciones de promoción y coordinación para la instalación, funcionamiento y seguimiento de los Subcomités de Desarrollo Económico Delegacionales a fin de apoyar iniciativas de inversión para impulsar a los sectores productivos de su demarcación territorial, así como observar la normatividad que los regula, y coordinar y dar seguimiento a dichos Subcomités;
+XV. (DEROGADA, G.O. 29 DE JULIO DE 2016)
 
-XXIII. Realizar acciones tendientes a la promoción turística de la demarcación territorial del Órgano Político- Administrativo y del Distrito Federal; y
+XVI. (DEROGADA, G.O. 29 DE JULIO DE 2016)
 
-XXIV. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
+XVII. (DEROGADA, G.O. 29 DE JULIO DE 2016)
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
+XVIII. (DEROGADA, G.O. 29 DE JULIO DE 2016)
+
+XIX. (DEROGADA, G.O. 29 DE JULIO DE 2016)
+
+XX. (DEROGADA, G.O. 29 DE JULIO DE 2016)
+
+XXI. (DEROGADA, G.O. 29 DE JULIO DE 2016)
+
+XXII. (DEROGADA, G.O. 29 DE JULIO DE 2016)
+
+XXIII. (DEROGADA, G.O. 29 DE JULIO DE 2016)
+
+XXIV. (DEROGADA, G.O. 29 DE JULIO DE 2016)
+
+> <small>(ADICIONADO, G.O. 29 DE JULIO DE 2016)</small>
 
 ###### Artículo 161 Bis.
 
-Corresponde a la Dirección General de Participación Ciudadana y Prevención del Delito:
+Corresponde a la Dirección Ejecutiva de Cultura:
 
-I. Establecer las bases para promover la participación y organización ciudadana, orientada a conocer y respetar las leyes y normas sociales, que regulan la convivencia y el Estado de Derecho, para prevenir el delito y crear una Cultura de Legalidad.
+I. Promover y apoyar la realización de actividades culturales y recreativas dentro de la demarcación territorial;
 
-II. Establecer vínculos con el Instituto Electoral del Distrito Federal (IEDF) y el Instituto Federal Electoral (IFE), en los procesos de participación ciudadana, conforme a lo dispuesto en sus respectivos ordenamientos jurídicos.
+II. Impulsar los proyectos relacionados con el fomento de actividades culturales;
 
-III. Diseñar, planear, promover, ejecutar, dar seguimiento y evaluación de los programas y acciones de participación vecinal y ciudadana en la demarcación territorial.
+III. Fomentar acuerdos con instituciones públicas o privadas, nacionales o extranjeras, para promover las acciones culturales y artísticas en la demarcación territorial;
 
-IV. Determinar el diseño y elaboración de diagnósticos que permitan tener un mayor conocimiento de la problemática que aqueja a la ciudadanía en la demarcación territorial.
+IV. Promover la preservación del patrimonio cultural, artístico e histórico, ubicado en la demarcación territorial de conformidad con la normatividad aplicable;
 
-V. Atender la demanda que en materia de seguridad planteen los diversos sectores de la sociedad.
+V. Difundir las tradiciones de los pueblos y barrios originarios que integran la demarcación territorial;
 
-VI. Proponer al Jefe Delegacional las acciones encaminadas a proteger y prevenir la integridad de quienes habitan y transitan en la demarcación territorial.
+VI. Asegurar que las actividades recreativas y turísticas a realizarse en la demarcación territorial;
 
-VII. Generar y dirigir programas para la difusión y promoción de la prevención integral del delito dirigido a niños, jóvenes y comunidad en general, en coordinación con diferentes niveles de Gobierno e Instituciones Públicas y Privadas.
+VII. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como los que se establezcan en las disposiciones jurídicas vigentes.
 
-VIII. Coordinar y establecer una comunicación permanente con los Comités Ciudadanos, dentro de la demarcación territorial, así como con las redes de participación ciudadana de las Coordinaciones Territoriales de Seguridad Pública y Procuración de Justicia.
-
-IX. Proponer al Comité de Seguridad Pública Delegacional acuerdos de colaboración con autoridades locales y federales para fortalecer la política de prevención del delito.
-
-X. Coordinar la formación de servidores públicos adscritos al Órgano Político-Administrativo, personal docente y/o académico de las escuelas en sus distintos niveles, representantes vecinales y ciudadanía en general de la demarcación territorial en materia de prevención del delito y seguridad vecinal.
-
-XI. Las demás que les atribuyan expresamente los ordenamientos jurídicos y administrativos correspondientes, así como los que de manera directa le asigne el titular del Órgano Político-Administrativo y las que se establezcan en los Manuales Administrativos.
-
-> <small>(ADICIONADO, G.O. 1 DE JULIO DE 2013)</small>
+> <small>(ADICIONADO, G.O. 29 DE JULIO DE 2016)</small>
 
 ###### Artículo 161 Ter.
 
-Corresponde a la Dirección General de Protección Civil y Geomática:
+Corresponde a la Dirección Ejecutiva de Desarrollo Sustentable.
 
-I. Elaborar y ejecutar en coordinación con las autoridades competentes el Programa de Protección Civil del Órgano Político- Administrativo;
+I. Fomentar el desarrollo económico privilegiando el aprovechamiento sustentable;
 
-II. Recibir, evaluar y en su caso aprobar los programas internos y especiales de protección civil en los inmuebles delegacionales, establecimientos comerciales y mercantiles, inmuebles de uso habitacional y todos aquellos que se encuentren en la demarcación territorial, de conformidad con las disposiciones jurídicas aplicables;
+II. Proponer las políticas económicas a desarrollar en el Órgano Político-Administrativo dentro de su competencia;
 
-III. Dar debida y oportuna atención a las demandas ciudadanas recibidas en la unidad o en los Centros de Servicios y Atención Ciudadana o por otro medio en materia de protección civil;
+III. Impulsar la ejecución de proyectos encaminados a fomentar el empleo en los distintos sectores de la demarcación territorial;
 
-IV. Fomentar la cultura de protección civil en la Delegación;
+IV. Instrumentar acciones de fomento tendientes a la realización de ferias, exposiciones y congresos vinculados a la promoción de actividades industriales, comerciales y económicas dentro de la demarcación territorial;
 
-V. Supervisar la debida y correcta aplicación de la legislación en materia de protección civil;
+V. Difundir los programas de fomento económico en coordinación con las instancias competentes, que permitan coadyuvar a la creación y modernización de las empresas en la demarcación territorial;
 
-VI. Proponer al Jefe Delegacional las acciones en materia de Protección Civil y prevención de desastres o emergencias;
+VI. Administrar y preservar las áreas naturales protegidas en la demarcación territorial de conformidad con la normatividad aplicable;
 
-VII. Coordinar, dirigir y supervisar a los equipos especializados de Protección Civil en el caso de contingencias;
+VII. Impulsar la colaboración con las autoridades competentes, en la conservación, restauración, manejo y aprovechamiento sustentable de las áreas naturales protegidas, suelo de conservación, áreas verdes urbanas, áreas de valor ambiental y en general de los recursos naturales de la demarcación territorial;
 
-VIII. Coordinar la supervisión de simulacros en los diversos inmuebles de la demarcación territorial;
+VIII. Implementar acciones de preservación y restauración del equilibrio ecológico, y de protección al medio ambiente de conformidad a las disposiciones jurídicas y administrativas aplicables;
 
-XIX (SIC). Evaluar y proponer medidas de mitigación en peligros geológicos.
+IX. Dictaminar la procedencia de la poda, derribo o trasplante de árboles en la zona urbana de los centros de población y emitir la opinión técnica respectiva cuando se trate de poblados rurales localizados en el suelo de conservación;
 
-X. Implementar políticas de manejo y planeación al entorno enfocadas en salvaguardar la seguridad de los riesgos geológicos en la demarcación
+X. Impulsar la generación de programas y planes de conservación para la restauración de los recursos naturales y servicios ambientales en el suelo de conservación y áreas naturales protegidas de la demarcación territorial, en coordinación con las autoridades competentes;
 
-XI. Las demás que les atribuyan expresamente los ordenamientos jurídicos y administrativos correspondientes, así como los que de manera directa le asigne el titular del Órgano Político-Administrativo y las que se establezcan en los Manuales Administrativos.
+XI. Implementar las medidas de mitigación, compensación y prevención ambiental; y
+
+XII. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como los que se establezcan en las disposiciones jurídicas vigentes.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -19099,3 +19117,21 @@ PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación.
 
 TERCERO.- A la Dirección Ejecutiva de Agentes de Seguridad Procesal, se le transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezca la Secretaría de Finanzas y la Oficialía Mayor durante el mes de junio del año en curso.
+
+G.G. 29 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Los asuntos competencia de las Unidades Administrativas que se adscriben al Órgano Político-Administrativo, serán tramitados y resueltos por éstas, atendiendo las instrucciones de su Titular.
+
+CUARTO.- A las Unidades Administrativas de nueva creación, se les transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezca la Secretaría de Finanzas y la Oficialía Mayor.
+
+QUINTO.- El Órgano Político-Administrativo deberá adecuar su estructura orgánica y elaborar su Manual Administrativo en los plazos y condiciones que establezca la Oficialía Mayor.
+
+SEXTO.- Las referencias hechas en ordenamientos e instrumentos administrativos a las Unidades Administrativas que por virtud de este Decreto hubieran dejado de tener competencia en la materia que regulan, se entenderán hechas a aquellas que cuenten con las facultades correspondientes.
+
+SÉPTIMO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Decreto.
