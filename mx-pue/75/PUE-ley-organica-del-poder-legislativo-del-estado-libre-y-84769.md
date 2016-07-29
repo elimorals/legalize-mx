@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2016-03-29"
+last_updated: "2016-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -2001,9 +2001,11 @@ El Secretario General del Congreso desempeñará su encargo por el periodo de un
 
 El Secretario General depende de la Junta de Gobierno y Coordinación Política, coordinará sus actividades con la Mesa Directiva y con los demás Órganos Legislativos, de Representación y Técnicos Administrativos, establecidos en la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 206.
 
-Para el ejercicio de sus funciones y el despacho de los asuntos que le competen, la Secretaría General contará con las Direcciones Generales y Unidades siguientes:
+Para el ejercicio de sus funciones y el despacho de los asuntos que le competen, la Secretaría General contará con las Direcciones Generales siguientes:
 
 I.- Dirección General de Servicios Legislativos;
 
@@ -2017,11 +2019,11 @@ IV.- Dirección General de Comunicación y Vinculación;
 
 V.- (DEROGADA, P.O. 29 DE MARZO DE 2016); y
 
-VI.- Unidad de Acceso a la Información.
+VI.- (DEROGADA, P.O. 29 DE JULIO DE 2016)
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
-La Secretaría General, las Direcciones Generales y las Unidades, contarán con el número de Coordinaciones, Jefaturas de Departamento y servidores públicos de confianza y de base que sean necesarios para el cumplimiento de sus funciones de conformidad con la presente Ley, su Reglamento interior y demás ordenamientos aplicables.
+La Secretaría General y las Direcciones Generales contarán con el número de Coordinaciones, Jefaturas de Departamento y servidores públicos de confianza y de base que sean necesarios para el cumplimiento de sus funciones de conformidad con la presente Ley, su Reglamento Interior y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 207.
 
@@ -2281,6 +2283,8 @@ Se considerará que el Ejecutivo está conforme con el proyecto, cuando no lo de
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES EN MATERIA DE TRANSPARENCIA
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 234.
 
 Los procedimientos especiales son aquellos que requieren de un trámite distinto al procedimiento legislativo ordinario, su tramitación se realizará de conformidad con lo previsto por la Constitución Política del Estado Libre y Soberano de Puebla, esta Ley, su Reglamento Interior, las leyes especiales que los contemplen y demás disposiciones aplicables.
@@ -2289,11 +2293,13 @@ Los procedimientos especiales son aquellos que requieren de un trámite distinto
 
 ###### ARTÍCULO 235.
 
-El Congreso del Estado garantizará y respetará el derecho de acceso a la información pública y protección de datos personales, de conformidad con lo previsto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Puebla, la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla, el Reglamento para la Transparencia y Acceso a la información Pública del Poder Legislativo del Estado de Puebla y demás ordenamientos aplicables.
+El Congreso del Estado garantizará y respetará el derecho de acceso a la información pública, así como la protección de datos personales, de conformidad con lo previsto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Puebla, la Ley General de Transparencia y Acceso a la Información Pública, la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla, el Reglamento para la Transparencia y Acceso a la Información Pública del Congreso del Estado Libre y Soberano de Puebla y demás ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 236.
 
-El Congreso del Estado cuenta con una Unidad de Acceso a la Información, que es la instancia operativa encargada de coordinar el cumplimiento de la Ley de la materia, su Reglamento y demás disposiciones aplicables, así como fungir como vínculo entre los solicitantes y el Congreso del Estado y poner a disposición de los ciudadanos la información pública.
+El Congreso del Estado contará con una Unidad de Transparencia, que será el área operativa encargada de coordinar el cumplimiento de la Ley de la materia, su Reglamento y demás disposiciones aplicables, así como ser vínculo entre los solicitantes y el Congreso del Estado y poner a disposición de los ciudadanos la información pública. Dependerá orgánicamente de la Presidencia de la Junta de Gobierno y Coordinación Política.
 
 ###### ARTÍCULO 237.
 
@@ -2496,3 +2502,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Sin perjuicio de lo anterior, los asuntos que se encuentren en trámite o en proceso en las áreas de los órganos legislativos y administrativos a la entrada en vigor de la presente disposición materia del presente Decreto, se seguirán tramitando hasta su conclusión.
+
+P.O. 29 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA Y DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las solicitudes de acceso que se encuentren en trámite o en proceso en la Unidad de Acceso a la Información del Congreso del Estado Libre y Soberano de Puebla, a la entrada en vigor del presente Decreto, se seguirán tramitando hasta su conclusión en la Unidad de Transparencia del Congreso del Estado Libre y Soberano de Puebla.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
