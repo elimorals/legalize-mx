@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2016-06-29"
+last_updated: "2016-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -635,21 +635,47 @@ Contra las determinaciones administrativas del Presidente del Tribunal, podrá i
 
 ### CAPITULO II. DE LOS TRIBUNALES UNITARIOS
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
 ###### Artículo 47.
 
-Para el cumplimiento de las atribuciones señaladas en la fracción VIII, del artículo 103, de la Constitución Política del Estado, el Tribunal Superior de Justicia, contará con una Sala Constitucional, integrada por un Magistrado Numerario, que tendrá competencia para substanciar y formular, en los términos de la ley respectiva los correspondientes proyectos de resolución definitiva que se someterán al Pleno del Tribunal Superior de justicia, de las controversias constitucionales, acciones de inconstitucionalidad y acciones por omisión legislativa.
+Para el cumplimiento de las atribuciones señaladas en la fracción VIII del artículo 103 de la Constitución Política del Estado, el Tribunal Superior de Justicia contará con una Sala Constitucional y Administrativa, integrada por un Magistrado Numerario, que tendrá competencia para substanciar y formular, en los términos de la ley respectiva los correspondientes proyectos de resolución definitiva que se someterán al Pleno del Tribunal Superior de justicia, de las controversias constitucionales, acciones de inconstitucionalidad y acciones por omisión legislativa.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
 ###### Artículo 48.
 
-La Sala Constitucional será competente para conocer de los asuntos establecidos en los artículos 104 y 105 de la Constitución Política del Estado de Quintana Roo, de conformidad con lo estipulado en las leyes correspondientes.
+La Sala Constitucional y Administrativa será competente para conocer de los asuntos establecidos en los artículos 104 y 105 de la Constitución Política del Estado de Quintana Roo, de conformidad con lo estipulado en las leyes correspondientes.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2016)</small>
 
 ###### Artículo 49.
 
-(DEROGADO, P.O. 29 DE JUNIO DE 2016)
+La Sala Constitucional y Administrativa, en todo caso conocerá en única instancia:
+
+I. De los juicios en contra de actos administrativos que las autoridades de la Administración Pública del Estado o de los ayuntamientos dicten, ordenen, ejecuten o traten de ejecutar, en agravio de personas físicas o morales;
+
+II. De los juicios en contra de los actos administrativos de la Administración Pública Paraestatal del Estado o los municipios, cuando actúen con el carácter de autoridades;
+
+III. De los juicios en contra de las resoluciones definitivas dictadas por la Administración Pública del Estado o de los ayuntamientos en las que se determine la existencia de una obligación fiscal, se fije ésta en cantidad líquida o se den las bases para su liquidación, nieguen la devolución de un ingreso indebidamente percibido o cualesquiera otras que causen agravio en materia fiscal;
+
+IV. De los juicios en contra de la falta de contestación de las mismas autoridades, dentro de un término de treinta días naturales, a las promociones, presentadas ante aquellas por los particulares, a menos que las leyes y reglamentos fijen otros plazos o la naturaleza del asunto lo requiera;
+
+V. De los juicios en contra de resoluciones de negativa ficta en materia fiscal, que se configurarán transcurridos cuatro meses a partir de la recepción por parte de las autoridades demandadas competentes de la última promoción presentada por el o los demandantes, a menos que las leyes fiscales fijen otros plazos;
+
+VI. De los juicios en que se demande la resolución de afirmativa ficta, cuando la establezca expresamente las disposiciones legales aplicables y en los plazos en que éstas lo determinen;
+
+VII. De los juicios en que se impugne la negativa de la autoridad a certificar la configuración de la afirmativa ficta, cuando así lo establezcan las leyes;
+
+VIII. De los juicios que promuevan las autoridades para que sean nulificadas las resoluciones fiscales favorables a las personas físicas o morales y que causen una lesión a la Hacienda Pública del Estado o de los Ayuntamientos;
+
+IX. De los demás que expresamente señalen la Constitución estatal y la ley.
 
 ###### Artículo 50.
 
@@ -2309,7 +2335,7 @@ El Consejo de la Judicatura o su Presidente, podrá ordenar la celebración de a
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-### CAPÍTULO VI. DEL INGRESO, FORMACIÓN Y PERMANENCIA DE LOS SERVIDORES PÚBLICOS DEL PODER JUDICIAL DEL ESTADO
+### CAPÍTULO VI. DEL INGRESO, DE LA FORMACIÓN Y PERMANENCIA DE LOS SERVIDORES PÚBLICOS DEL PODER JUDICIAL DEL ESTADO
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -3562,3 +3588,9 @@ QUINTO.- En tanto queda legalmente instalada la función jurisdiccional del Trib
 SEXTO. La Sala Constitucional del Poder Judicial del Estado, deberá substanciar y concluir aquellos asuntos que se encuentren en trámite y que se hayan iniciado con anterioridad a la instalación de la función jurisdiccional del Tribunal de Justicia Administrativa, de conformidad con la legislación aplicable.
 
 SÉPTIMO. Se Derogan todas aquellas disposiciones que contravengan al presente decreto.
+
+P.O. 29 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 437 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO, Y DE LA LEY REGLAMENTARIA DE LOS ARTÍCULOS 104 Y 105 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO."]
+
+ÚNICO. El presente Decreto entrará en vigor cuando inicie su vigencia el Decreto por el que se reforman: los artículos 75 fracción XLIV; 76 fracción X; 98 párrafos tercero y cuarto, 105 y 160 primer párrafo y fracción I; y se derogan: la fracción L al artículo 75, la fracción XIV al artículo 76, la fracción XIX al artículo 90, el capítulo VI del Título Quinto denominado "Del Tribunal de Justicia Administrativa del Estado de Quintana Roo" y los artículos 110 y 111, todos de la Constitución Política del Estado Libre y Soberano de Quintana Roo
