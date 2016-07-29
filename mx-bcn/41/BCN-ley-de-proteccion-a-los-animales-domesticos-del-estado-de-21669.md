@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-a-los-animales-domesticos-del-estado-de-21669
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-08"
-last_updated: "2015-10-09"
+last_updated: "2016-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21669&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 8 de diciembre de 1997.
 
@@ -371,17 +371,19 @@ La captura por motivos de salud pública, de perros y otros animales que deambul
 
 Un animal capturado podrá ser reclamado por su dueño dentro de 72 horas siguientes, exhibiéndose el correspondiente documento de propiedad o acreditando la posesión.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
-En caso de que el animal no sea reclamado a tiempo por su dueño, las autoridades privilegiarán la promoción de medidas necesarias para su adopción; en caso de no llevarse a cabo dicha adopción en un lapso pertinente, podrán sacrificarlo, empleando para ello los métodos que se describen en el artículo 43 de esta ley, quedando expresamente prohibido el proceder a ello por medio de golpes o ahorcamiento, así como el uso de ácidos corrosivos, estricnina, warfarina, cianuro, arsénico, cloruro de potasio u otras sustancias similares.
+En caso de que el animal no sea reclamado a tiempo por su dueño, las autoridades privilegiarán la promoción de medidas necesarias para su adopción, entre ellas, la apertura a la colaboración de las asociaciones protectoras de animales para que en conjunto realicen campañas y eventos de adopción. Todos los animales dispuestos para adopción deberán entregarse esterilizados.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
-Los municipios contarán con una fosa destinada a la inhumación de cadáveres y restos de animales en los lugares autorizados por la Secretaría de Protección al Ambiente del Estado.
+En caso de no llevarse a cabo dicha adopción en un lapso pertinente o en el que se convenga con las sociedades protectoras de animales, podrán sacrificarlo, empleando para ello los métodos que se describen en el artículo 43 de esta ley, quedando expresamente prohibido el proceder a ello por medio de golpes o ahorcamiento; utilizar ácidos corrosivos, estricnina, warfarina, cianuro, arsénico, cloruro de potasio u otras sustancias similares, así como aplicar cualquier otro método de matanza o eutanasia que no esté permitido en las normas oficiales mexicanas correspondientes.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 49.
 
-Para los efectos del artículo anterior, los centros antirrábicos y dependencias similares aceptarán el asesoramiento y colaboración de representantes de las sociedades protectoras de animales, siempre y cuando estas lo hayan solicitado formalmente a través de convenios especiales en que se les faculte a intervenir. Además, deberán emplear en el manejo y sacrificio de animales a individuos con un grado de instrucción suficiente para atender su tarea.
+Para el cumplimiento de sus funciones, los centros antirrábicos y dependencias similares aceptarán el asesoramiento y colaboración de representantes de las sociedades protectoras de animales, siempre y cuando estas lo hayan solicitado formalmente a través de convenios especiales en que se les faculte a intervenir. Además, deberán emplear en el manejo y sacrificio de animales a individuos con un grado de instrucción suficiente para atender su tarea.
 
 ### CAPITULO IX. DE LOS CADAVERES DE ANIMALES
 
@@ -600,3 +602,9 @@ DECRETO NÚMERO 254, POR EL QUE SE APRUEBA LA REFORMA A LOS ARTÍCULOS 1 Y 48 DE
 P.O. 9 DE OCTUBRE DE 2015.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 29 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 510 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 48 Y 49 DE LA LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
