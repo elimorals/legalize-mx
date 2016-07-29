@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-generales-en-materia-de-clasificacion-y-114116"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2016-04-15"
-last_updated: "2016-04-15"
+last_updated: "2016-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114116&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-03-18"
 
 LINEAMIENTOS GENERALES EN MATERIA DE CLASIFICACIÓN Y DESCLASIFICACIÓN DE LA INFORMACIÓN, ASÍ COMO PARA LA ELABORACIÓN DE VERSIONES PÚBLICAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JULIO DE 2016.
 
 Lineamientos publicados en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de abril de 2016.
 
@@ -625,9 +625,33 @@ En caso de que el documento, se hubiere solicitado impreso, se realizará la imp
 
 #### SECCIÓN III. DE LA ELABORACIÓN DE VERSIONES PÚBLICAS DE LA INFORMACIÓN CONTENIDA EN LAS OBLIGACIONES DE TRANSPARENCIA, EN CASOS DE EXCEPCIÓN
 
-Sexagésimo segundo. Además de los requisitos establecidos con anterioridad, no se podrán omitir de las versiones públicas, los elementos esenciales que muestren la información contenida en las obligaciones de transparencia y deberán ser aprobadas por el Comité de Transparencia respectivo.
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 2016)</small>
 
-Sexagésimo tercero. La información contenida en las obligaciones de transparencia, se regirá por lo dispuesto en la Ley General y en las leyes aplicables que deberán observar los sujetos obligados.
+Sexagésimo segundo. Las versiones públicas siempre requerirán de la aprobación del Comité de Transparencia y de un formato que permita conocer las razones y argumentos debidamente fundados y motivados de las partes que han sido testadas en una versión pública.
+
+Lo anterior se llevará a cabo de la siguiente manera:
+
+a) En los casos de las versiones públicas derivadas de la atención a una solicitud de acceso a información pública o que derive de la resolución de una autoridad competente, se llevarán a cabo mediante la aplicación de la prueba de daño o de interés público, según corresponda, en el caso de información susceptible de clasificarse como reservada; así como de la información confidencial.
+
+b) En los casos de las versiones públicas elaboradas sólo para efectos del cumplimiento de las obligaciones de transparencia establecidas en los Títulos Quinto de la Ley General, Tercero de la Ley Federal y las análogas de las leyes locales de transparencia, bastará con que sean aprobadas por el Comité de Transparencia en sesión especial, conforme a las disposiciones aplicables que exijan la elaboración de versión pública. En dicha sesión se detallará la debida fundamentación y motivación que exija este ejercicio de clasificación. Asimismo, no se podrán omitir de las versiones públicas los elementos esenciales que muestren la información contenida en las obligaciones de transparencia.
+
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 2016)</small>
+
+Sexagésimo tercero. Para la elaboración de todo tipo de versión pública, ya sea para el cumplimiento a obligaciones de transparencia o bien, derivadas de la atención a una solicitud de información o del mandatado de autoridad competente, los Sujetos Obligados elaborarán una leyenda ya sea en carátula o en colofón que rija a todo documento sometido a versión pública.
+
+En dicha leyenda inscrita en la carátula o en colofón se deberá señalarse (sic) lo siguiente:
+
+I. El nombre del área del cual es titular quien clasifica.
+
+II. La identificación del documento del que se elabora la versión pública.
+
+III. Las partes o secciones clasificadas, así como las páginas que la conforman.
+
+IV. Fundamento legal, indicando el nombre del ordenamiento, el o los artículos, fracción(es), párrafo(s) con base en los cuales se sustente la clasificación; así como las razones o circunstancias que motivaron la misma.
+
+V. Firma del titular del área. Firma autógrafa de quien clasifica.
+
+VI. Fecha y número del acta de la sesión de Comité donde se aprobó la versión pública.
 
 #### SECCIÓN IV. DE LAS ACTAS, MINUTAS, ACUERDOS Y VERSIONES ESTENOGRÁFICAS DONDE INTERVENGAN SERVIDORES PÚBLICOS
 
@@ -713,7 +737,13 @@ TERCERO. Una vez que esté en funcionamiento la Plataforma Nacional, publíquese
 
 CUARTO. Los presentes lineamientos entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-QUINTO. Hasta en tanto el Sistema Nacional de Transparencia establezca los lineamientos para la implementación de la Plataforma Nacional y ésta entre en operación, los organismos garantes y los sujetos obligados en el ámbito federal, de las entidades federativas y municipios, realizarán la publicación los índices de expedientes clasificados como reservados y las solicitudes de ampliación del periodo de reserva, a las que se refieren los lineamientos décimo segundo, y trigésimo sexto, respectivamente a través de los medios que determine para tal efecto el Sistema Nacional de Transparencia.
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 2016)</small>
+
+QUINTO. Hasta en tanto el Sistema Nacional de Transparencia establezca los lineamientos para la implementación de la Plataforma Nacional y ésta entre en operación, los organismos garantes y los sujetos obligados en el ámbito federal, de las entidades federativas y municipios, realizarán la publicación (sic) los índices de expedientes clasificados como reservados y las solicitudes de ampliación del periodo de reserva, a las que se refieren los lineamientos décimo segundo, y trigésimo sexto, respectivamente a través de los medios que determine para tal efecto el Sistema Nacional de Transparencia.
+
+La primera publicación de los índices de expedientes clasificados como reservados, que deberá efectuarse de conformidad con la Ley General de Transparencia y Acceso a la Información Pública, y los Lineamientos generales en materia de clasificación y desclasificación de la información, así como para la elaboración de versiones públicas; se realizará en enero de 2017 e incluirá la información comprendida de mayo de 2016 a diciembre del mismo año.
+
+Dicha publicación deberá realizarse de conformidad con el procedimiento que se disponga en los Lineamientos para la implementación y operación de la Plataforma Nacional de Transparencia.
 
 SEXTO. Una vez que entren en vigor los presentes lineamientos quedan derogadas las disposiciones que se opongan a los mismos.
 
@@ -728,3 +758,15 @@ OCTAVO. Las referencias que se realicen en los presentes lineamientos, respecto 
 Así lo acordó el Pleno del Consejo Nacional del Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, en su primera sesión extraordinaria de dos mil dieciséis, celebrada el dieciocho de marzo del presente año, en la Ciudad de México, lo que se certifica y se hace constar, con fundamento en los artículos 31 fracción XI de la Ley General; 12 fracción XII y 13 fracción VII del Reglamento del Consejo Nacional del Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales.
 
 La Presidenta del Consejo Nacional del Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, Ximena Puente de la Mora.- Rúbrica.- El Secretario Ejecutivo del Consejo Nacional del Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, Federico Guzmán Tamayo.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 29 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDOS POR LOS QUE SE MODIFICAN LOS ARTÍCULOS SEXAGÉSIMO SEGUNDO, SEXAGÉSIMO TERCERO Y QUINTO TRANSITORIO DE LOS LINEAMIENTOS GENERALES EN MATERIA DE CLASIFICACIÓN Y DESCLASIFICACIÓN DE LA INFORMACIÓN, ASÍ COMO PARA LA ELABORACIÓN DE VERSIONES PÚBLICAS”.]
+
+Primero. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos, como administrador general de la Plataforma Nacional de Transparencia, desarrollará las herramientas tecnológicas para implementar el Sistema de Índice de expedientes clasificados como reservados, en términos del décimo segundo y décimo cuarto de los Lineamientos Generales en materia de Clasificación y Desclasificación de la Información, así como para la Elaboración de Versiones Públicas.
+
+Tercero. Se instruye al Secretario Ejecutivo para que publique el presente Acuerdo en el Diario Oficial de la Federación y a los integrantes del Sistema Nacional para su publicación en sus respectivas páginas electrónicas.
