@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2016-03-18"
+last_updated: "2016-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -1677,6 +1677,26 @@ V. El otorgamiento de todo tipo de autorizaciones, licencias, registros o permis
 
 VI. El diseño de indicadores de calidad ambiental.
 
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2016)</small>
+
+ARTÍCULO 111 BIS.- El Poder Ejecutivo y los Municipios, en el ámbito de sus respectivas competencias, elaborarán y promoverán la implementación de instrumentos económicos para quienes:
+
+I. Reconviertan los procesos productivos con el objeto de prevenir y controlar la contaminación atmosférica, principalmente en la zona rural;
+
+II. Provean o adquieran equipo o tecnología que contribuya a reducir y controlar las emisiones de contaminantes o de gases de efecto invernadero a la atmósfera;
+
+III. Incorporen en sus procesos productivos el uso de energías renovables;
+
+IV. Preserven zonas forestales de conformidad con las disposiciones de la Ley General de Desarrollo Forestal Sustentable y demás disposiciones legales aplicables;
+
+V. Realicen actividades de conservación de la cubierta forestal y de reforestación, de conformidad con las disposiciones legales aplicables;
+
+VI. Favorezcan la conservación del uso de suelo silvícola;
+
+VII. Reduzcan o sustituyan el uso de sustancias agotadoras de la capa de ozono en sus procesos productivos; y
+
+VIII. Realicen las demás actividades que al efecto se determinen como prioritarias y tengan por objeto mejorar la prevención y control de la contaminación atmosférica.
+
 #### SECCIÓN II. Facultades
 
 ###### ARTÍCULO 112.
@@ -1731,9 +1751,15 @@ XIV. Requerir la instalación de equipos o sistemas de control de emisiones a qu
 
 XV. Aplicar las normas oficiales mexicanas y normas ambientales estatales para la protección de la atmósfera, en las materias y supuestos de su competencia; y
 
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
+
+XVI. Ordenar la clausura temporal, parcial o total, de los puntos de ventas de cohetes, petardos y otros artificios pirotécnicos, cuando conforme a los sistemas de monitoreo de la calidad del aire determinen que la contaminación ambiental representa un riesgo para las personas, en base a la aplicación de una o más normas oficiales mexicanas en materia de calidad del aire.
+
+Los establecimientos mercantiles que corresponda, de forma inmediata deberán atender las medidas preventivas que se le requieran; y
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ENERO DE 2010)</small>
 
-XVI. Las demás que tengan por objeto dar cumplimiento a lo dispuesto en la presente Ley.
+XVII. Las demás que tengan por objeto dar cumplimiento a lo dispuesto en la presente Ley.
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DEL DECRETO NO. 341, PUBLICADO EN EL P.O. DE 5 DE ENERO DE 2010, EL PRESENTE ARTICULO HA SIDO MODIFICADO EN SU ESTRUCTURA, PARA QUEDAR CONFORMADO POR NUEVE FRACCIONES.</small>
 
@@ -3086,3 +3112,15 @@ P.O. 18 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 458 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 8, 27, 29 Y 39, ASIMISMO SE ADICIONA UNA SECCIÓN IV AL TÍTULO TERCERO DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma a los artículos 8, 27, 29 y 39 y la adición de la Sección IV denominada Corredores Biológicos al Título Tercero a la Ley de Protección al Ambiente para el Estado de Baja California, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P. O. 29 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 508 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN XVI Y SE RECORRE LA SIGUIENTE FRACCIÓN XVII, AL ARTÍCULO 112 DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA]
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 509 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 111 BIS, A LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
