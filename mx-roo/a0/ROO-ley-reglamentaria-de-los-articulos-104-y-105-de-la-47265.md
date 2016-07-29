@@ -4,7 +4,7 @@ identifier: "ROO-ley-reglamentaria-de-los-articulos-104-y-105-de-la-47265"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-16"
-last_updated: "2016-06-29"
+last_updated: "2016-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY REGLAMENTARIA DE LOS ARTÍCULOS 104 Y 105 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 16 de diciembre de 2005.
 
@@ -47,11 +47,13 @@ La presente ley es reglamentaria de los Artículos 104 y 105 de la Constitución
 
 El control constitucional se erige dentro del régimen interior del Estado, como un medio para mantener la eficacia y vigencia de esta Constitución; tiene por objeto dirimir de manera definitiva e inatacable en el orden jurídico estatal, los conflictos que por la constitucionalidad de sus actos o disposiciones generales, surjan en el ámbito interior del Estado entre el Poder Ejecutivo y el Legislativo o entre uno de ellos y los municipios que conforman el Estado, o entre dos o más municipios, sin perjuicio de lo previsto en los Artículos 76 fracción VII, 103, 105, 107 y último párrafo de la fracción II del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2016)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2016)</small>
 
 ###### Artículo 2.
 
-La Sala Constitucional del Tribunal Superior de Justicia del Estado, es competente para conocer y substanciar, con base en las disposiciones de esta ley, el procedimiento que regule las controversias constitucionales, las acciones de inconstitucionalidad y las acciones por omisión legislativa, previstas en el Artículo 105 de la Constitución Política del Estado.
+La Sala Constitucional y Administrativa del Tribunal Superior de Justicia del Estado, es competente para conocer y substanciar, con base en las disposiciones de esta ley, el procedimiento que regule las controversias constitucionales, las acciones de inconstitucionalidad y las acciones por omisión legislativa, previstas en el Artículo 105 Apartado A de la Constitución Política del Estado.
 
 Corresponde al Pleno del Tribunal Superior de Justicia resolver sobre las mismas.
 
@@ -61,9 +63,11 @@ Los procedimientos de control constitucional se regirán por las disposiciones d
 
 Para los efectos de esta Ley se entenderá por:
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-Sala: La Sala Constitucional del Tribunal Superior de Justicia del Estado:
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
+
+Sala: La Sala Constitucional y Administrativa del Tribunal Superior de Justicia del Estado;
 
 Pleno: El Pleno del Tribunal Superior de Justicia del Estado.
 
@@ -760,3 +764,9 @@ QUINTO.- En tanto queda legalmente instalada la función jurisdiccional del Trib
 SEXTO. La Sala Constitucional del Poder Judicial del Estado, deberá substanciar y concluir aquellos asuntos que se encuentren en trámite y que se hayan iniciado con anterioridad a la instalación de la función jurisdiccional del Tribunal de Justicia Administrativa, de conformidad con la legislación aplicable.
 
 SÉPTIMO. Se Derogan todas aquellas disposiciones que contravengan al presente decreto.
+
+P.O. 29 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 437 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO, Y DE LA LEY REGLAMENTARIA DE LOS ARTÍCULOS 104 Y 105 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+ÚNICO. El presente Decreto entrará en vigor cuando inicie su vigencia el Decreto por el que se reforman: los artículos 75 fracción XLIV; 76 fracción X; 98 párrafos tercero y cuarto, 105 y 160 primer párrafo y fracción I; y se derogan: la fracción L al artículo 75, la fracción XIV al artículo 76, la fracción XIX al artículo 90, el capítulo VI del Título Quinto denominado "Del Tribunal de Justicia Administrativa del Estado de Quintana Roo" y los artículos 110 y 111, todos de la Constitución Política del Estado Libre y Soberano de Quintana Roo
