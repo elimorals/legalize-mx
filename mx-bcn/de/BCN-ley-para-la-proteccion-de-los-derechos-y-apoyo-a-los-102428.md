@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-proteccion-de-los-derechos-y-apoyo-a-los-102428"
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-12"
-last_updated: "2015-11-20"
+last_updated: "2016-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS Y APOYO A LOS MIGRANTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 12 de septiembre de 2014.
 
@@ -273,21 +273,41 @@ Corresponde al Sistema Estatal para el Desarrollo Integral de la Familia:
 
 I. Proporcionar asistencia social para la atención de niñas, niños y adolescentes migrantes no acompañados que requieran servicios para su protección, privilegiando su interés superior;
 
-II. Otorgar facilidades de estancia y garantizar la protección de niñas, niños y adolescentes migrantes no acompañados en tanto el Instituto resuelva su situación migratoria, conforme a las disposiciones legales en la materia;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
 
-III. Coadyuvar con el Instituto en la implementación de acciones que permitan brindar una atención adecuada a los migrantes que por diferentes factores o la combinación de ellos, enfrentan situaciones de mayor vulnerabilidad como son los niños, niñas y adolescentes migrantes; y
+II. Procurar prioritariamente la reunificación familiar en los casos de niños, niñas y adolescentes migrantes no acompañados, siempre y cuando esta sea acorde a su interés superior. De no proceder la reunificación familiar, se deberán buscar otras alternativas, que garanticen sus derechos y su bienestar,
 
-IV. Las demás que señale esta ley, su reglamento y demás disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
+
+III. Garantizar que en ningún momento los niños, niñas y adolescentes migrantes no acompañados, estarán en una estación migratoria; sino en centros de atención específicos del DIF, como albergues, módulos, estancias, casas de asistencia u otra similar, que esté (sic) debidamente habilitadas para brindarles protección y asistencia
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
+
+IV. Otorgar facilidades de estancia y garantizar la protección de niñas, niños y adolescentes migrantes no acompañados en tanto el Instituto resuelva su situación migratoria, conforme a las disposiciones legales en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+
+V. Coadyuvar con el Instituto en la implementación de acciones que permitan brindar una atención adecuada a los migrantes que por diferentes factores o la combinación de ellos, enfrentan situaciones de mayor vulnerabilidad como son los niños, niñas y adolescentes migrantes; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA ANTES FRACCIÓN V], P.O. 29 DE JULIO DE 2016)</small>
+
+VI. Las demás que señale esta ley, su reglamento y demás disposiciones jurídicas aplicables.
 
 ### CAPÍTULO OCTAVO. DE LA PROTECCIÓN A MIGRANTES
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
+
 ###### ARTÍCULO 30.
 
-Todos los migrantes en situación migratoria irregular tienen derecho a ser tratados sin discriminación alguna y con el debido respeto a sus derechos humanos.
+Todos los migrantes en situación migratoria irregular tienen derecho a ser tratados sin discriminación alguna y con el debido respeto a sus derechos humanos. Tratándose de niños, niñas y adolescentes migrantes no acompañados, la protección y respeto de los derechos humanos deberá ser preponderante para todas las autoridades del Estado y los Municipios, que se conducirán de conformidad a las disposiciones previstas en el artículo 112 de la Ley de Migración y todas aquellas que resulten aplicables.
 
 ###### ARTÍCULO 31.
 
 Las autoridades estatales y municipales tendrán la obligación de proteger la integridad y el respeto a los derechos humanos de las personas extranjeras identificadas como víctimas de delitos, respetando su derecho a decidir declarar o denunciar hechos presuntamente constitutivos de delito ante las autoridades judiciales o ministeriales.
+
+(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2016]
+
+Cuando se trate de niños, niñas y adolescentes migrantes no acompañados, que requieran servicios para su protección, las autoridades estatales y municipales tendrán la obligación de ponerlos de manera inmediata, bajo la protección y custodia del Sistema Estatal para el Desarrollo Integral de la Familia, para que reciban la atención mencionada en el artículo 29 del presente ordenamiento, en tanto resuelva su situación migratoria.
 
 ### CAPÍTULO NOVENO. DE LAS SANCIONES
 
@@ -332,3 +352,9 @@ SECRETARIO GENERAL DE GOBIERNO
 P.O. 20 DE NOVIEMBRE DE 2015.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 29 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 507 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 29, 30 Y 31 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS Y APOYO A LOS MIGRANTES PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
