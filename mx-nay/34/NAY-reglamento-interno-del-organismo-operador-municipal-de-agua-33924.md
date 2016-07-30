@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interno-del-organismo-operador-municipal-de-agua-339
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-07-26"
-last_updated: "2003-07-26"
+last_updated: "2016-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33924&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,19 +20,23 @@ state: "NAY"
 ---
 # REGLAMENTO INTERNO DEL ORGANISMO OPERADOR MUNICIPAL DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LA YESCA, NAYARIT
 
-REGLAMENTO INTERNO DEL ORGANISMO OPERADOR MUNICIPAL DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LA YESCA, NAYARIT
+REGLAMENTO INTERNO DEL ORGANISMO OPERADOR MUNICIPAL DEL AGUA POTABLE Y ALCANTARILLADO Y SANEAMIENTO DE LA YESCA, NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2016.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el sábado 26 de julio de 2003.
 
 MINUTA
 
-Minuta que se formula con motivo de la reunión celebrada a las 10:00 hrs. del día 06 de Junio del 2003 con el objeto de revisar y aprobar el Reglamento Interno del Organismo Operador Municipal de Agua Potable, Alcantarillado y Saneamiento de La Yesca, Nayarit.
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2016)</small>
+
+Minuta que se formula de la reunión celebrada a las 10.00 hrs. del día 06 de junio del 2003 con el objeto de revisar y aprobar el reglamento interno del Organismo Operador Municipal de Agua Potable Y Alcantarillado y Saneamiento de la Yesca, Nayarit
 
 El C. J. Jesús Montoya Toribio, Presidente de la Junta de Gobierno puso a consideración de los asistentes la orden del día que fue la siguiente:
 
 I.- Lista de Asistencia.
+
+[N. DE E. DE CONFORMIDAD CON LA MODIFICACIÓN A MINUTA Y REGLAMENTO INTERNO DEL ORGANISMO OPERADOR DE AGUA POTABLE Y ALCANTARILLADO Y SANEAMIENTO DE LA YESCA, NAYARIT, VÉASE CAMBIO DE DENOMINACIÓN A DICHO REGLAMENTO, P.O. 30 DE JULIO DE 2016, PÁGINA 2].
 
 II.- Revisión y aprobación del Reglamento Interno del Organismo Operador Municipal de Agua Potable, Alcantarillado y Saneamiento de La Yesca, Nayarit.
 
@@ -1107,3 +1111,9 @@ C. (SIC)
 VICEPRESIDENTE DEL CONSEJO CONSULTIVO
 
 C. (SIC)
+
+P.O. 30 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "MODIFICACIÓN DEL REGLAMENTO INTERNO DEL ORGANISMO OPERADOR DE AGUA POTABLE Y ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE LA YESCA, NAYARIT".]
+
+> <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NAYARIT.]</small>
