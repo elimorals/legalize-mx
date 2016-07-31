@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2016-07-10"
+last_updated: "2016-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2016.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -869,9 +869,9 @@ III.- Estar en pleno goce de sus derechos y tener residencia efectiva no menor d
 
 I.- El Gobernador en ejercicio, aun cuando se separe definitivamente de su puesto, cualesquiera que sea su calidad, el origen y la forma de su designación;
 
-> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, B.O. 31 DE JULIO DE 2016)</small>
 
-II.- Los Secretarios de Despacho o su equivalente del Poder Ejecutivo, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Jueces, los Magistrados del Tribunal Estatal Electoral, los Presidentes Municipales y funcionarios federales en el Estado, a menos que se separen de su cargo sesenta días naturales antes de la fecha de las elecciones cuando se renueve el Congreso del Estado y Ayuntamientos. Cuando se renueve el Titular del Poder Ejecutivo Estatal, Diputados y Ayuntamientos, la separación del cargo deberá ser al menos noventa días naturales antes de la fecha de las elecciones.
+II.- Los Secretarios de Despacho del Poder Ejecutivo, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los miembros del Consejo de la Judicatura, los Jueces y cualquiera otra persona que desempeñe cargo público estatal, a menos que se separe definitivamente de su cargo sesenta días naturales antes de la fecha de las elecciones.
 
 III.- (DEROGADA, B.O. 27 DE JUNIO DE 2014)
 
@@ -1085,9 +1085,9 @@ XIX.- Declarar si ha lugar o no al proceso a que se refiere el Artículo 159 de 
 
 XX.- Elegir la Diputación Permanente;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE JULIO DE 2016)</small>
 
-XXI.- Resolver respecto a la elección y remoción de los Magistrados del Tribunal Superior de Justicia, así como resolver respecto a la reelección o no reelección de los mismos.
+XXI.- Resolver respecto a la elección y remoción de los Magistrados del Tribunal Superior de Justicia, así como resolver respecto a la reelección o no reelección de los mismos. Así como la remoción de los Consejeros de la Judicatura.
 
 > <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2010)</small>
 
@@ -1096,6 +1096,26 @@ Dichas resoluciones serán definitivas e inatacables, por lo que no procederá j
 > <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
 
 Asimismo, otorgar o negar su aprobación a las licencias por más de un mes y conocer de las renuncias de los Magistrados del Tribunal Superior de Justicia que le someta el Gobernador del Estado.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2016)</small>
+
+Así mismo deberá elegir al Representante del Congreso como miembro del Consejo de la Judicatura de la terna propuesta por la Junta de Gobierno y Coordinación Política, en base a una propuesta que presente cada una de las Fracciones Parlamentarias.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2016)</small>
+
+Resultará electo de la terna quien en votación secreta, por cédula, reúna el voto de las dos terceras partes de los miembros del Congreso, debiendo tomar protesta ante el mismo Pleno del Congreso.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2016)</small>
+
+De no reunirse la votación requerida se presentará una nueva terna dentro de un plazo máximo de diez días naturales requiriéndose la misma votación del párrafo anterior.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2016)</small>
+
+En caso de que la segunda terna propuesta no alcance la votación requerida, se presentará una tercera terna dúrante los diez días siguientes, donde se elegirá el integrante representante del Congreso para el Consejo de la Judicatura por la mayoría de los integrantes presentes del Congreso.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2016)</small>
+
+Una vez concluido el procedimiento se le tomará protesta y se enviará al Ejecutivo del Estado para su publicación en el Boletín Oficial del Gobierno del Estado.
 
 XXII.- Legislar en todo lo relativo a la administración pública;
 
@@ -1339,7 +1359,9 @@ Tampoco podrá ocupar el cargo para el período inmediato, el Gobernador interin
 
 Por ningún motivo podrán ser Gobernador:
 
-I.- Los Secretarios de Despacho o su equivalente del Poder Ejecutivo, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Jueces, los Magistrados del Tribunal Estatal Electoral, Diputados Locales, los Presidentes Municipales, funcionarios federales en el Estado, a menos que se separen de su cargo noventa días naturales antes de la fecha de las elecciones.
+> <small>(REFORMADA, B.O. 31 DE JULIO DE 2016)</small>
+
+I.- Los Secretarios de Despacho o su equivalente del Poder Ejecutivo, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura, los Jueces, los Magistrados del Tribunal Estatal Electoral, Diputados Locales, los Presidentes Municipales, funcionarios federales en el Estado, a menos que se separen de su cargo noventa días naturales antes de la fecha de las elecciones.
 
 II.- Los militares en servicio activo y los ciudadanos que tengan mando en los cuerpos de seguridad pública en el distrito electoral respectivo, si no se separan de sus cargos noventa días anteriores al de la elección; y
 
@@ -1429,7 +1451,9 @@ XX.- Rendir al Congreso un informe anual del Estado que guarde la administració
 
 XXI.- Presentar al Congreso, al término de su período constitucional, una memoria sobre el estado que guarden los asuntos públicos;
 
-XXII.- Facilitar al Poder Judicial el auxilio que requiera para el ejercicio de sus funciones;
+> <small>(REFORMADA, B.O. 31 DE JULIO DE 2016)</small>
+
+XXII.- Facilitar al Poder Judicial el auxilio que requiera para el ejercicio de sus funciones y concurrir a la integración del Consejo de la Judicatura, nombrando a uno de sus miembros, el cual deberá reunir los requisitos conforme a las bases que señala esta Constitución y rendir protesta ante el Ejecutivo Estatal.
 
 > <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
 
@@ -1637,6 +1661,10 @@ La elección del Presidente de la Comisión Estatal de los Derechos Humanos, as�
 
 87.- Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y Jueces del fuero común, en los términos de esta Constitución.
 
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2016)</small>
+
+La administración, vigilancia y disciplina del Poder Judicial del Estado, con excepción del Tribunal Superior de Justicia estarán a cargo del Consejo de la Judicatura, en los términos que establezca la Ley Orgánica del Poder Judicial del Estado de Baja California Sur y conforme a las bases que señala esta Constitución.
+
 > <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
 
 88.- Corresponde al Tribunal Superior de Justicia y Jueces del Estado la función jurisdiccional en los asuntos del fuero común, lo mismo que en auxilio a los del orden federal, en los casos que expresamente se la concedan las Leyes:
@@ -1689,9 +1717,9 @@ XI.- Los Jueces de Ejecución; y
 
 XII.- Los demás funcionarios y auxiliares de la administración de Justicia.
 
-> <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2016)</small>
 
-La Ley establecerá las bases para la selección, formación, actualización y evaluación de los funcionarios y auxiliares del Poder Judicial, así como para el desarrollo de la Carrera Judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+La ley establecerá las bases mediante las cuales el Consejo de la Judicatura procederá en la selección, formación, actualización y evaluación de los funcionarios y auxiliares del Poder Judicial, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 
 > <small>(REFORMADO, B.O. 6 DE ABRIL DE 1999)</small>
 
@@ -1717,9 +1745,9 @@ III.- Poseer al día de su elección, con una antigüedad mínima de diez años,
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena, y
 
-> <small>(REFORMADA, B.O. 6 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADA, B.O. 31 DE JULIO DE 2016)</small>
 
-V.- No haber sido Secretario de Despacho del Poder Ejecutivo o su equivalente, Procurador General de Justicia o Diputado Local durante el año previo el día de la designación;
+V.- No haber sido Secretario de Despacho del Poder Ejecutivo o su equivalente, Procurador General de Justicia, Diputado Local o Presidente Municipal, durante el año previo al día de la designación;
 
 VI.- (DEROGADA, B.O. 24 DE DICIEMBRE DE 2008)
 
@@ -1763,7 +1791,9 @@ X. No excusarse de conocer los asuntos de los que tenga conocimiento que está i
 
 Tratándose de la fracción I, el Congreso del Estado, a través del Presidente de la Mesa Directiva en turno, notificará al Magistrado, a más tardar seis meses antes, la fecha en que concluirá en definitiva su encargo, señalando la causa en que se funda la privación de su puesto. Para las demás hipótesis previstas en el presente artículo, el Congreso del Estado proveerá lo conducente a fin de iniciar procedimiento de privación del puesto de magistrado respetando en todo caso la garantía de audiencia.
 
-Los Magistrados y Jueces de Primera Instancia del Tribunal Superior de Justicia del Estado no podrán desempeñar los cargos de Secretarios de Despacho, Procurador General de Justicia del Estado, Secretario General o Tesorero de Ayuntamiento durante los dos años siguientes al término de su encargo.
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE JULIO DE 2016)</small>
+
+Los Magistrados, Jueces de Primera Instancia del Tribunal Superior de Justicia, los integrantes del Consejo de la Judicatura del Estado no podrán desempeñar los cargos de secretarios de Despacho, Procurador General de Justicia del Estado, Secretario General o Tesorero del Ayuntamiento durante los dos años siguientes al término de su encargo.
 
 > <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2010)</small>
 
@@ -1791,13 +1821,13 @@ V.- La resolución del Congreso se hará del conocimiento del funcionario, media
 
 94.- Los Magistrados del Tribunal Superior de Justicia deberán otorgar la protesta de Ley ante el Congreso del Estado.
 
-> <small>(REFORMADO, B.O. 20 DE FEBRERO DE 1988)</small>
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2016)</small>
 
-Los jueces protestarán ante el Tribunal Superior de Justicia, los demás funcionarios y empleados de la Administración de Justicia rendirán su protesta ante la autoridad de quien dependan.
+Los Jueces protestarán ante el Consejo de la Judicatura; los demás funcionarios y empleados de la Administración de Justicia rendirán su protesta ante la autoridad de quien dependan.
 
-> <small>(REFORMADO, B.O. 20 DE FEBRERO DE 1988)</small>
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2016)</small>
 
-Los Magistrados del Tribunal Superior de Justicia y los Jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
+Los Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura y los Jueces percibirán una remuneración adecuada e irrenunciable conforme a la ley, la cual no podrá ser disminuida durante su encargo.
 
 95.- El Tribunal Superior de Justicia funcionará en los términos que lo determine la Ley Orgánica. El Tribunal, en escrutinio secreto, en la primera sesión que se celebre durante el mes de abril del año en que se haga la designación, nombrará de entre los Magistrados al que será Presidente del Tribunal Superior de Justicia. Este durará tres años en su cargo.
 
@@ -1819,19 +1849,21 @@ III.- Conocer de las competencias de jurisdicción que se susciten entre los jue
 
 IV.- Nombrar a los jueces preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, así como remover y adscribir a los jueces de partidos judiciales y demás funcionarios y empleados del Poder Judicial del Estado.
 
-> <small>(REFORMADA, B.O. 6 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADA, B.O. 31 DE JULIO DE 2016)</small>
 
-V.- Discutir modificar y aprobar en su caso, y ejercer de manera autónoma el presupuesto de egresos que para el ejercicio anual proponga el Presidente del Tribunal, el que a través del Ejecutivo se someterá a la aprobación del Congreso del Estado.
+V.- Discutir, modificar y aprobar en su caso y ejercer de manera autónoma el presupuesto de egresos del Tribunal, que para el ejercicio anual proponga su Presidente, el que se integrará al presupuesto del Poder Judicial para que a través del Ejecutivo se someta a la aprobación del Congreso del Estado.
 
-VI.- Acordar el aumento de juzgados y de la planta de secretarios y empleados de la administración de justicia, cuando las necesidades del servicio lo requieran y lo permitan las condiciones del erario;
+> <small>(REFORMADA, B.O. 31 DE JULIO DE 2016)</small>
+
+VI.- Solicitar al Consejo de la Judicatura, el aumento de juzgados y de la planta de secretarios y empleados de la administración de justicia, cuando las necesidades del servicio lo requieran y lo permitan las condiciones del erario.
 
 VII.- Ordenar, por conducto del Presidente del Tribunal, que se haga la consignación que corresponda al Ministerio Público en los casos de la comisión de delitos oficiales que deban ser sancionados por las autoridades competentes;
 
 VIII.- Informar al Gobernador o al Congreso del Estado acerca de los casos de indulto necesario, rehabilitación y demás que las leyes determinen, previos los trámites y con los requisitos que ellos establezcan;
 
-> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, B.O. 31 DE JULIO DE 2016)</small>
 
-IX.- Conocer de las faltas administrativas de los integrantes del Poder Judicial del Estado, haciendo la substanciación correspondiente de acuerdo con el procedimiento que señale esta Constitución y la Ley respectiva.
+IX.- Conocer de las resoluciones del Consejo de la Judicatura respecto de la sustanciación correspondiente, por las faltas administrativas de los integrantes del Poder Judicial del Estado, de acuerdo con el procedimiento que señale esta Constitución y la Ley respectiva.
 
 X.- Conocer de la recusación conjunta de los Magistrados; y
 
@@ -1847,37 +1879,75 @@ XII.- Emitir la opinión que solicite el Congreso del Estado sobre las iniciativ
 
 XIII.- Recibir anualmente en sesión solemne el informe que rendirá el Presidente del Tribunal Superior de Justicia sobre el estado que guarda la Administración de Justicia y del ejercicio presupuestal. A este acto asistirán los Poderes Legislativo y Ejecutivo.
 
-> <small>(REFORMADA, B.O. 6 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADA, B.O. 31 DE JULIO DE 2016)</small>
 
-XIV.- Las demás que le confiera esta Constitución y las Leyes.
+XIV.- Designar, en votación secreta por la mayoría de sus integrantes al Magistrado y Juez de Primera Instancia que, conforme al numeral 100 de ésta Constitución, será miembro del Consejo de la Judicatura; y
 
-> <small>(REFORMADO, B.O. 14 DE FEBRERO DE 1997)</small>
+> <small>(ADICIONADA, B.O. 31 DE JULIO DE 2016)</small>
 
-98.- La Ley Orgánica del Poder Judicial regulará la forma de organización y funcionamiento del Tribunal Superior de Justicia y de los Juzgados dependientes de éste y determinará los requisitos para ser Juez.
+XV.- Las demás que le confiera esta Constitución y las Leyes.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 6 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE JULIO DE 2016)</small>
+
+98.- La Ley Orgánica del Poder Judicial del Estado de Baja California Sur, regulará la forma de organización y funcionamiento del Tribunal Superior de Justicia, del Consejo de la Judicatura y de los Juzgados dependientes de éste y determinará los requisitos para ser Juez.
 
 > <small>(REFORMADO, B.O. 6 DE ABRIL DE 1999)</small>
 
 El Tribunal Superior de Justicia determinará el número de Jueces que deberán establecerse, su lugar de residencia y su jurisdicción territorial.
 
+> <small>(ADICIONADO [N. DE E. ANTES CONTENIDO DEL ARTÍCULO 100], B.O. 31 DE JULIO DE 2016)</small>
+
+Ningún funcionario Judicial podrá tener ocupación o empleo diverso, con excepción de los docentes, cuyo desempeño no perjudique las funciones o labores propias de su cargo.
+
 99.- (DEROGADO, B.O. 27 DE JUNIO DE 2014)
 
 99 BIS.- (DEROGADO, B.O. 27 DE JUNIO DE 2014)
 
-100.- Ningún funcionario judicial podrá tener ocupación o empleo diverso, con excepción de los docentes, cuyo desempeño no perjudique las funciones o labores propias de su cargo.
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE JULIO DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE ABRIL DE 1999)</small>
+100.- El Consejo de la Judicatura es un órgano del Poder Judicial, con independencia técnica y de gestión, así como para emitir sus resoluciones.
 
-101.- El Gobernador demandará ante el Congreso del Estado, la destitución de cualesquiera de los Magistrados del Tribunal Superior de Justicia, por delitos, faltas oficiales y omisiones en los que incurran, previstos en esta Constitución y en las Leyes de la Materia.
+El Consejo de la Judicatura se integra por los siguientes miembros:
 
-> <small>(ADICIONADO, B.O. 6 DE ABRIL DE 1999)</small>
+I.- El Magistrado Presidente del Tribunal Superior de Justicia, quien también lo será del Consejo;
 
-Si el Congreso del Estado, mediante el voto de las dos terceras partes de sus miembros presentes, declara justificada la petición, el Magistrado acusado quedará privado, desde luego, de su cargo, independientemente de cualquier responsabilidad legal en la que hubiere incurrido, procediéndose a la nueva designación para cubrir la vacante.
+II.- Un Magistrado, designado por el Pleno del Tribunal Superior de Justicia, para ejercer la Comisión;
 
-> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 1976)</small>
+III.- Un Juez de Primera Instancia, designado por el Pleno del Tribunal Superior de Justicia, para ejercer la comisión;
 
-El Gobernador antes de pedir al Congreso del Estado la destitución de algún Magistrado, oirá a éste en lo privado a efecto de poder apreciar en conciencia la justificación de tal solicitud.
+IV.- Un Representante Ciudadano electo por el Congreso del Estado, conforme lo establece la presente Constitución, y
+
+V.- Un Representante designado por el Gobernador del Estado, conforme lo establece esta Constitución.
+
+Los Consejeros rendirán la protesta de ley ante quien los designó, durarán cuatro años en el cargo, serán sustituidos conforme a la Ley y no podrán ser nombrados para un nuevo periodo.
+
+De igual forma, deberán reunir los requisitos señalados en las fracciones I, II, III, y IV del numeral 91 de esta Constitución, ser personas que se hayan distinguido por su capacidad profesional y administrativa, así como por su honestidad y honorabilidad en el ejercicio de sus actividades.
+
+Los Jueces que, por cualquier circunstancia dejen de serlo, no podrán seguir formando parte del Consejo de la Judicatura por lo que el Tribunal deberá designar a quien le sustituya para concluir el plazo por el que fue electo a quien se sustituye. El Juez que sea designado en sustitución podrá ser designado consejero en un periodo que no sea continuo a aquel en que haya cubierto la sustitución.
+
+Los Consejeros en ejercicio de su función, deberán proceder con independencia e imparcialidad. Durante su encargo, los Consejeros solo podrán ser removidos en los términos del Título Noveno de esta Constitución.
+
+El Consejo de la Judicatura funcionará en Pleno o en comisiones y estará facultado en términos de la Ley Orgánica del Poder Judicial del Estado de Baja California Sur, para expedir acuerdos generales para el adecuado ejercicio de sus atribuciones y contará con una Secretaría ejecutiva, cuyo Titular será designado por el Pleno del Consejo a propuesta del Presidente; cargo que recaerá en la Secretaria del Pleno del Tribunal y ejercerá las atribuciones que le confiere la ley en mención.
+
+El Pleno del Tribunal podrá solicitar al Consejo de la Judicatura la expedición de aquellos acuerdos generales que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional en la Entidad.
+
+La ley establecerá los términos y procedimientos para el ejercicio de las atribuciones del Consejo de la Judicatura respecto de los procedimientos por faltas administrativos (sic) de los miembros y funcionarios Judiciales del Poder Judicial del Estado.
+
+Las decisiones del Consejo serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de las mismas, salvo las que se refieran a la designación, adscripción, ratificación y remoción de Jueces, las cuales podrán ser revisadas por el Tribunal Superior de Justicia únicamente para verificar que hayan sido adoptadas conforme a las reglas que establezca la Ley Orgánica del Poder Judicial del Estado de Baja California Sur.
+
+El Consejo de la Judicatura deberá dar cuenta al Tribunal Superior en los casos que se trate de la remoción de Magistrados con el fin de que se proceda conforme lo dispuesto por el numeral 64 fracción XXI de ésta Constitución.
+
+El Tribunal Superior de Justicia elaborará su propio proyecto de presupuesto y el Consejo de la Judicatura lo hará para el resto del Poder Judicial. Una vez integrados en un solo documento, este será remitido conforme a la ley para su inclusión en el Proyecto de Presupuesto de Egresos del Estado.
+
+La administración del Tribunal Superior de Justicia corresponderá a su Presidente.
+
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2016)</small>
+
+101.- El Gobernador demandará ante el Congreso del Estado, la destitución de cualesquiera de los Magistrados del Tribunal Superior de Justicia o de los Consejeros de la Judicatura, por delitos, faltas oficiales y omisiones en los que incurran, previstos en esta Constitución y en las Leyes de la Materia.
+
+Si el Congreso del Estado, mediante el voto de las dos terceras partes de sus integrantes, declara justificada la petición, el Magistrado o Consejero de la Judicatura acusado quedará privado, desde luego, de su cargo, independientemente de cualquier responsabilidad legal en la que hubiere incurrido, procediéndose a la nueva designación para cubrir la vacante.
+
+El Gobernador, antes de pedir al Congreso del Estado la destitución de algún Magistrado o Consejero de la Judicatura, oirá a éste en lo privado, a efecto de poder apreciar en conciencia la justificación de tal solicitud.
 
 ## TITULO SEPTIMO. DEL PATRIMONIO Y LA HACIENDA PUBLICA DEL ESTADO
 
@@ -2499,9 +2569,9 @@ Las leyes determinarán las causas y circunstancias por las que se deba sanciona
 
 Cualquier ciudadano, mediante la presentación de elementos de prueba y bajo su más estricta responsabilidad, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a las que se refiere el presente Artículo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE JULIO DE 2016)</small>
 
-158.- Podrán ser sujetos a Juicio Político, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, Los Magistrados del Tribunal Estatal Electoral, los Jueces del Fuero Común, los Secretarios y Subsecretarios del Despacho, el Procurador y Subprocuradores de la Procuraduría General de Justicia, el Contralor, el Revisor Fiscal, los Coordinadores de las Unidades Administrativas y los Directores del Poder Ejecutivo, los Directores de los Organismos Descentralizados, Empresas de Participación Estatal, Sociedades y Asociaciones asimiladas, el Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, los Comisionados del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur, Presidentes de Juntas y Tribunal de Conciliación y Arbitraje, el Presidente de la Comisión Estatal de los Derechos Humanos, así como los Presidentes, Síndicos, Regidores y Delegados Municipales.
+158.- Podrán ser sujetos a Juicio Político, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, Los Magistrados del Tribunal Estatal Electoral, los integrantes del Consejo de la Judicatura, los Jueces del Fuero Común, los Secretarios y Subsecretarios del Despacho, el Procurador y Subprocuradores de la Procuraduría General de Justicia, el Contralor, el Revisor Fiscal, los Coordinadores de las Unidades Administrativas y los Directores del Poder Ejecutivo, los Directores de los Organismos Descentralizados, Empresas de Participación Estatal, Sociedades y Asociaciones asimiladas, el Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, los Comisionados del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur, Presidentes de Juntas y Tribunal de Conciliación y Arbitraje, el Presidente de la Comisión Estatal de los Derechos Humanos, así como los Presidentes, Síndicos, Regidores y Delegados Municipales.
 
 > <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)</small>
 
@@ -3678,3 +3748,17 @@ B.O. 10 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 2356 SE REFORMAN EL PRIMER PÁRRAFO DEL NUMERAL 55 Y PRIMER PÁRRAFO DEL NUMERAL 74, Y SE ADICIONA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 74, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2366 REFORMA CONSTITUCIONAL PARA CREAR CONSEJO DE LA JUDICATURA EN EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Los Jueces comisionados para que sean miembros del Consejo de la Judicatura ejercerán el cargo a partir del día 9 de enero de 2017.
+
+TERCERO.- El Consejo de la Judicatura iniciará sus funciones el día de su instalación, que no deberá exceder del día 15 de enero de 2017.
+
+CUARTO.- El Pleno del Tribunal Superior de Justicia deberá, proponer al Congreso del Estado, dentro del Presupuesto para el ejercicio 2017, el ajuste de las partidas presupuestales que ejercerá el Consejo de la Judicatura, por única ocasión y el Pleno del Tribunal, a efecto que los recursos materiales y financieros sean acordes a las necesidades y objeto de la presente Reforma Constitucional.
+
+QUINTO.- De igual manera el Pleno del Tribunal Superior de Justicia, llevará a cabo los ajustes correspondientes, a fin de que no se vean afectados los derechos laborales ni sindicales, conforme a la Ley, en la transición de la administración interna de la plantilla que integra los Recursos Humanos y materiales del Poder Judicial del Estado, por parte del Consejo de la Judicatura al momento de su inicio de funciones.
