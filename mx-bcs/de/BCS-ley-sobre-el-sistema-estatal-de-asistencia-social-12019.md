@@ -4,7 +4,7 @@ identifier: "BCS-ley-sobre-el-sistema-estatal-de-asistencia-social-12019"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-20"
-last_updated: "2013-12-20"
+last_updated: "2016-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2013.
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 31 DE JULIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE JULIO DE 2016 (ABROGADA).
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 20 de agosto de 1986.
 
@@ -580,3 +582,11 @@ PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicaci
 SEGUNDO.- El Titular del Poder Ejecutivo del Estado, contará con un término de noventa días hábiles para publicar el Reglamento de la Ley de la Procuraduría de la Defensa del Menor y la Familia del Estado de Baja California Sur, en el Boletín Oficial del Gobierno del Estado.
 
 TERCERO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
+
+B.O. 31 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2361 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley sobre el Sistema Estatal de Asistencia Social publicada en el Boletín Oficial del Gobierno de Baja California Sur, el 20 de agosto de 1986, sus reformas, así como las demás disposiciones que se opongan a lo dispuesto por esta Ley.
