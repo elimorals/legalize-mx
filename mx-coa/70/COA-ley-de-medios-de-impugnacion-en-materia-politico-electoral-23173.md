@@ -4,7 +4,7 @@ identifier: "COA-ley-de-medios-de-impugnacion-en-materia-politico-electoral-2317
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-16"
-last_updated: "2010-06-29"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23173&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY DE MEDIOS DE IMPUGNACION EN MATERIA POLITICO-ELECTORAL Y DE PARTICIPACION CIUDADANA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY DE MEDIOS DE IMPUGNACION EN MATERIA POLITICO-ELECTORAL Y DE PARTICIPACION CIUDADANA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
+LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA POLÍTICO-ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 16 de noviembre de 2001.
 
@@ -75,9 +75,13 @@ En ningún caso la interposición de los medios de impugnación en materia polí
 
 Para los efectos de esta ley, se entenderá por:
 
-I. El Tribunal Electoral: el Tribunal Electoral del Poder Judicial del Estado de Coahuila.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
 
-II. El Instituto: el Instituto Electoral y de Participación Ciudadana de Coahuila.
+I. El Tribunal Electoral: el Tribunal Electoral del Estado de Coahuila.
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+II. El Instituto: el Instituto Electoral de Coahuila.
 
 ### CAPÍTULO II. EL TRIBUNAL ELECTORAL
 
@@ -87,9 +91,11 @@ Corresponde al Tribunal Electoral conocer y resolver, en única instancia y de m
 
 El Tribunal Electoral resolverá los asuntos de su competencia con plena jurisdicción y conforme a los principios que establecen los artículos 17 de la Constitución Política de los Estados Unidos Mexicanos, así como 154 y 158 de la Constitución Política del Estado de Coahuila.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 7°.
 
-Para la organización y el funcionamiento del Tribunal Electoral, se observarán las disposiciones previstas en la Constitución Política del Estado de Coahuila, en la Ley Orgánica del Poder Judicial del Estado, en esta ley, en el Reglamento Interior del Tribunal Electoral y demás disposiciones aplicables.
+Para la organización y el funcionamiento del Tribunal Electoral, se observarán las disposiciones previstas en la Constitución Política de los Estados Unidos Mexicanos, en la particular del Estado de Coahuila, en el Código Electoral del Estado de Coahuila, en esta ley, en el Reglamento Interior del Tribunal Electoral y demás disposiciones aplicables.
 
 ###### Artículo 8°.
 
@@ -97,19 +103,23 @@ Para el ejercicio de sus atribuciones, el Tribunal Electoral podrá requerir el 
 
 En los casos que lo amerite, también podrá solicitar el auxilio de las autoridades federales.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 9°.
 
-Para la resolución de los medios de impugnación previstos en esta ley, las normas se interpretarán conforme a los criterios gramatical, teleológico, sistemático y funcional. A falta de disposición expresa, se aplicarán los principios generales del derecho que emanen de las normas constitucionales y de la interpretación judicial.
+Para la resolución de los medios de impugnación previstos en esta ley, las normas se interpretarán conforme a los criterios gramatical, sistemático y funcional. A falta de disposición expresa, se aplicarán los principios generales del derecho que emanen de las normas constitucionales y de la interpretación judicial.
 
-En todo caso, el Tribunal Electoral deberá preservar las garantías constitucionales del debido proceso legal dentro del estado humanista, social y democrático que emana de la Constitución Política del Estado.
+En todo caso, el Tribunal Electoral deberá preservar las garantías constitucionales del debido proceso legal.
 
 ###### Artículo 10.
 
 La tramitación de los medios de impugnación previstos en esta ley, está confiada al Tribunal Electoral, a través de sus órganos correspondientes, los que la realizarán de acuerdo con las disposiciones de esta ley y demás aplicables.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 11.
 
-Presentado un medio de impugnación, el Tribunal Electoral tomará de oficio las medidas que estime conducentes para su debida sustanciación y adelantará su trámite con la mayor celeridad posible.
+Presentado un medio de impugnación, el Tribunal Electoral tomará de oficio las medidas que estime conducentes para su debida sustanciación y trámite.
 
 ###### Artículo 12.
 
@@ -123,9 +133,11 @@ El Tribunal Electoral deberá impedir el fraude procesal, la colusión y cualqui
 
 El Tribunal Electoral deberá tomar, a petición de parte o de oficio, todas las medidas necesarias que resulten de la ley o de sus poderes de dirección, para prevenir o sancionar cualquier acción u omisión contrarias al orden o a los principios que deben regir en la sustanciación y resolución de los medios de impugnación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 14.
 
-Todos los trámites, audiencias y sesiones de los medios de impugnación serán del conocimiento público, salvo que expresamente la ley disponga lo contrario o el Tribunal Electoral así lo decida por razones de seguridad u orden público.
+Las sesiones de resolución del Pleno del Tribunal Electoral serán públicas, salvo que expresamente la ley disponga lo contrario o el Tribunal Electoral así lo decida por razones de seguridad u orden público.
 
 En todo caso, el acceso a los expedientes quedará reservado sólo a las partes y a las personas autorizadas para ello.
 
@@ -139,7 +151,9 @@ El Tribunal Electoral y bajo su dirección, los órganos del mismo, tomarán las
 
 Son partes en el procedimiento de los medios de impugnación las siguientes:
 
-I. El actor, que será quien estando legitimado por un interés legítimo lo presente por sí mismo o, en su caso, a través de representante legal, en los términos de esta ley.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+I. El actor, que será quien estando legitimado lo presente por sí mismo o, en su caso, a través de representante legal, en los términos de esta ley.
 
 II. La autoridad responsable, que haya realizado el acto o emitido la resolución que se impugna.
 
@@ -207,7 +221,9 @@ Durante los procesos electorales, todos los días y horas son hábiles para la p
 
 Cuando la violación reclamada en el medio de impugnación respectivo no se produzca durante el desarrollo de un proceso electoral, o se produzca en el desarrollo del procedimiento de plebiscito o referendo, o trámite de la iniciativa popular; el cómputo de los plazos se hará contando solamente las horas y días hábiles.
 
-Se entiende por horas hábiles las que se señalen conforme a la Ley Orgánica del Poder Judicial y por días hábiles todos los del año, exceptuando los sábados y domingos y los demás que la ley o el Pleno del Tribunal Superior de Justicia señalen como inhábiles.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
+Se entiende por horas hábiles las que se señalen conforme a la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza y por días hábiles todos los del año, exceptuando los sábados y domingos y los demás que la ley o el Pleno del Tribunal Electoral señalen como inhábiles.
 
 Para los efectos de este artículo, se entenderá que el proceso electoral ha concluido, cuando las constancias de mayoría o de asignación respectivas y las declaratorias de validez correspondientes, hayan quedado firmes e inatacables.
 
@@ -223,9 +239,11 @@ Los demás plazos se computarán a partir del día siguiente a aquel en que haya
 
 #### SECCIÓN SEGUNDA. LAS NOTIFICACIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 25.
 
-Las notificaciones se podrán hacer personalmente, por lista o cédula publicada en los estrados, por oficio, por correo certificado, por telegrama o por vía fax, según se requiera para la eficacia del acto, resolución o sentencia a notificar, salvo disposición expresa de esta ley.
+Las notificaciones se podrán hacer personalmente, por lista o cédula publicada en los estrados, por oficio, por correo certificado, por correo electrónico, por telegrama o por vía fax, según se requiera para la eficacia del acto, resolución o sentencia a notificar, salvo disposición expresa de esta ley.
 
 Las normas contenidas en esta sección, también serán aplicables para las notificaciones que deban realizar los órganos del Instituto.
 
@@ -287,7 +305,9 @@ IV. Cualquier otra que el Pleno del Tribunal Electoral o el magistrado instructo
 
 Las autoridades siempre serán notificadas mediante oficio, en el que deberá exigirse firma de recibido. En caso de que el destinatario o la persona que reciba el oficio se niegue a firmar, el notificador asentará constancia de dicha circunstancia en la copia del oficio.
 
-Cuando la notificación se realice por correo certificado o telegrama, bastará para su comprobación, el sello, razón o documento que expida la agencia de correos o telégrafos.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
+Cuando la notificación se realice por correo certificado o telegrama, bastará para su comprobación, el sello, razón o documento que expida la agencia de correos o telégrafos, cuando sea por correo electrónico deberá requerirse al noficado certificación de recibido por la misma vía.
 
 ###### Artículo 31.
 
@@ -297,7 +317,9 @@ Los estrados son los lugares públicos destinados en las oficinas del Tribunal E
 
 La notificación por correo se hará en pieza certificada agregándose al expediente el acuse de recibo postal. La notificación por telegrama se hará enviándola por duplicado para que la oficina que la transmita devuelva el ejemplar sellado que se agregará al expediente.
 
-Exclusivamente en casos urgentes o extraordinarios y a juicio del Pleno del Tribunal Electoral o el magistrado instructor, las notificaciones que se ordenen podrán hacerse a través de fax y surtirán sus efectos a partir de que se tenga constancia de su recepción o se acuse de recibido. La notificación por vía fax deberá hacerse constar en autos por la Secretaría General de Acuerdos del Tribunal Electoral.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
+Exclusivamente en casos urgentes o extraordinarios y a juicio del Pleno del Tribunal Electoral o el magistrado instructor, las notificaciones que se ordenen podrán hacerse a través de correo electrónico o fax y surtirán sus efectos a partir de que se tenga constancia de su recepción o se acuse de recibido. La notificación por esa vía deberá hacerse constar en autos por la Secretaría General de Acuerdos del Tribunal Electoral.
 
 ###### Artículo 33.
 
@@ -617,9 +639,11 @@ El Tribunal Electoral, resolverá el fondo de los asuntos de su competencia en s
 
 El magistrado instructor ordenará que se publique en los estrados respectivos, por lo menos con veinticuatro horas de antelación, la lista de los asuntos que serán ventilados en cada sesión.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 67.
 
-Las sesiones del Tribunal Electoral se desarrollarán conforme a la Ley Orgánica del Poder Judicial del Estado, a esta ley, al Reglamento Interior del Tribunal Electoral y demás disposiciones aplicables.
+Las sesiones del Tribunal Electoral se desarrollarán conforme al Libro Séptimo del Código Electoral del Estado de Coahuila, a esta ley, al Reglamento Interior del Tribunal Electoral y demás disposiciones aplicables.
 
 ###### Artículo 68.
 
@@ -645,9 +669,11 @@ Al resolver los medios de impugnación establecidos en esta ley, el Tribunal Ele
 
 En todo caso, si se omite señalar los preceptos jurídicos presuntamente violados o se citan de manera equivocada, el Tribunal Electoral resolverá tomando en consideración los que debieron ser invocados o los que resulten aplicables al caso concreto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 71.
 
-Las sentencias del Tribunal Electoral, serán definitivas e inatacables con excepción de lo dispuesto por el artículo 158 de la Constitución Política Local dentro del régimen interior y podrán tener los efectos siguientes:
+Las sentencias del Tribunal Electoral, serán definitivas e inatacables cuando no sean impugnadas ante el Tribunal Electoral del Poder Judicial de la Federación y podrán tener los efectos siguientes:
 
 I. Confirmar el acto o resolución impugnada, caso en el cual las cosas se mantendrán en el estado que se encontraban antes de la impugnación.
 
@@ -759,13 +785,43 @@ IV. Cuando los candidatos a presidentes municipales, síndicos y regidores que h
 
 V. Cuando el candidato a gobernador del estado sea declarado inelegible por el Tribunal Electoral, por haberse demostrado plenamente que no cumple con los requisitos legales para desempeñar ese cargo.
 
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
 
-VI. Cuando se rebasen los topes de gastos de precampaña y campaña determinados para la elección de que se trate.
+VI. Cuando se rebasen los topes de gastos de campaña determinados para la elección de que se trate y dicho exceso de gasto sea igual o mayor al cinco por ciento del monto total autorizado.
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+VII. Cuando se compre o adquiera cobertura informativa o propaganda de cualquier género en radio o televisión.
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+VIII. Cuando el partido, candidato o planilla ganadora reciba o utilice para su campaña recursos de procedencia ilícita o recursos públicos no autorizados por la ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE AGOSTO DE 2016)</small>
+
+Tratándose de lo establecido en las fracciones VI, VII y VIII anteriores, las violaciones deberán acreditarse de manera objetiva y material, y se presumirá que son determinantes cuando la diferencia entre la votación obtenida por el ganador y el segundo lugar sea menor al cinco por ciento.
 
 ###### Artículo 83.
 
 El Tribunal Electoral podrá declarar la nulidad de una elección de diputados, Ayuntamientos o gobernador, cuando se hayan cometido en forma generalizada violaciones substanciales y graves en la jornada electoral de acuerdo con las causales de nulidad previstas en esta ley, en el municipio, distrito o en la entidad, siempre y cuando éstas se encuentren plenamente acreditadas y se demuestre que las mismas fueron determinantes para el resultado de la elección, salvo que las irregularidades sean imputables a los partidos promoventes o a sus candidatos.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
+###### Artículo 83 Bis.
+
+Las elecciones locales serán nulas por violaciones graves, dolosas y determinantes en los casos previstos en la Base VI del artículo 41 de la Constitución General.
+
+Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
+
+En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
+
+Se entenderá por violaciones graves, aquellas conductas irregulares que produzcan una afectación sustancial a los principios constitucionales en la materia y pongan en peligro el proceso electoral y sus resultados.
+
+Se calificarán como dolosas aquellas conductas realizadas con pleno conocimiento de su carácter ilícito, llevadas a cabo con la intención de obtener un efecto indebido en los resultados del proceso electoral.
+
+Para efectos de lo dispuesto en la Base VI del artículo 41 de la Constitución General, se presumirá que se está en presencia de cobertura informativa indebida cuando, tratándose de programación y de espacios informativos o noticiosos, sea evidente que, por su carácter reiterado y sistemático, se trata de una actividad publicitaria dirigida a influir en las preferencias electorales de los ciudadanos y no de un ejercicio periodístico.
+
+A fin de salvaguardar las libertades de expresión, información y a fin de fortalecer el Estado democrático, no serán objeto de inquisición judicial ni censura, las entrevistas, opiniones, editoriales, y el análisis de cualquier índole que, sin importar el formato sean el reflejo de la propia opinión o creencias de quien las emite.
 
 ### CAPÍTULO XI. LOS MEDIOS DE IMPUGNACIÓN EN PARTICULAR
 
@@ -1014,3 +1070,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 520.- SE REFORMAN LOS ARTÍCULOS 5, 7, 9, 11, 14, 16, 22, 25, 30, 32, 67, 71 Y 82; SE ADICIONAN LAS FRACCIONES VII Y VIII AL ARTÍCULO 82 Y EL ARTÍCULO 83 BIS; DE LA LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA POLÍTICO-ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
