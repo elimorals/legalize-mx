@@ -4,7 +4,7 @@ identifier: "HID-ley-integral-para-las-personas-con-discapacidad-del-estado-7830
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2010-12-31"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 2010.
 
@@ -531,7 +531,7 @@ IV.- Procesos de capacitación y sensibilización para ministerios públicos, ab
 
 El Estado y los Municipios, garantizarán que, cuando una persona con discapacidad participe en una actuación judicial, en cualquier condición, sea informada sobre:
 
-l.- La naturaleza de la actuación judicial en la que va a participar;
+I.- La naturaleza de la actuación judicial en la que va a participar;
 
 II.- Su papel dentro de dicho proceso; y
 
@@ -543,7 +543,7 @@ III.- El tipo de apoyo que puede recibir en relación con la concreta actuación
 
 El Estado y los Municipios deberán garantizar que:
 
-l.- Los medios de transporte público cuenten con asientos de fácil acceso, mismos que serán destinados para uso de personas con discapacidad, debiendo ser estos debidamente identificados para tal fin;
+I.- Los medios de transporte público cuenten con asientos de fácil acceso, mismos que serán destinados para uso de personas con discapacidad, debiendo ser estos debidamente identificados para tal fin;
 
 II.- De manera progresiva, en los medios de transporte existentes, se adopten medidas técnicas conducentes a la adaptación para el transporte de personas con discapacidad;
 
@@ -551,7 +551,7 @@ III.- Las nuevas unidades sin excepción, destinadas al transporte público cuen
 
 IV.- Los vehículos utilizados por las personas con discapacidad porten una placa especial expedida por las autoridades competentes, a efecto de que puedan tener acceso a los lugares señalados para su uso exclusivo;
 
-V.- Las instalaciones de trasporte público deberán contar con accesibilidad, orientación e información necesaria para el uso de personas con discapacidad y; (sic)
+V.- Las instalaciones de trasporte público deberán contar con accesibilidad, orientación e información necesaria para el uso de personas con discapacidad y;
 
 VI.- La creación de mecanismos de fiscalización y sanción que procedan por el incumplimiento de las medidas descritas con anterioridad; y
 
@@ -727,7 +727,7 @@ El Programa Estatal deberá cumplir con las obligaciones derivadas de la Convenc
 
 El Programa Estatal deberá contar al menos con los siguientes apartados:
 
-l.- El Diagnóstico de la situación de las personas con discapacidad en el Estado de
+I.- El Diagnóstico de la situación de las personas con discapacidad en el Estado de
 
 Hidalgo;
 
@@ -755,7 +755,7 @@ Las organizaciones de la sociedad civil para personas con discapacidad, deberán
 
 Corresponde a la Secretaría de Gobierno:
 
-l.- Presidir y representar al Sistema Estatal para la Integración Social de las Personas con Discapacidad;
+I.- Presidir y representar al Sistema Estatal para la Integración Social de las Personas con Discapacidad;
 
 II.- Diseñar una política de atención integral dirigida a las personas con discapacidad, que favorezca el ejercicio pleno de sus derechos y la igualdad de oportunidades;
 
@@ -795,7 +795,7 @@ VI.- Las demás previstas en los ordenamientos legales aplicables.
 
 Son atribuciones de la Secretaría de Desarrollo Social:
 
-l.- Promover y formular la política del desarrollo social desde una visión de inclusión y respeto de los derechos humanos de las personas con discapacidad;
+I.- Promover y formular la política del desarrollo social desde una visión de inclusión y respeto de los derechos humanos de las personas con discapacidad;
 
 II.- Realizar programas, acciones, campañas, tendientes a garantizar la inclusión social de las personas con discapacidad;
 
@@ -949,6 +949,10 @@ Los Municipios a través de las instancias especializadas en la atención integr
 
 I.- Realizar su programa municipal de colaboración;
 
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+I Bis.- Aprobar en el ámbito de su competencia el reglamento para la atención y desarrollo integral de las personas con discapacidad.
+
 II.- Participar en la elaboración del Programa Estatal;
 
 III.- Desarrollar e implementar políticas públicas que garanticen el ejercicio de los derechos consagrados a favor de las personas con discapacidad;
@@ -990,3 +994,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 679 QUE ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 104 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
