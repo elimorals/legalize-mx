@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-a-la-informacion-publica-y-proteccion-de-102296"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-26"
-last_updated: "2016-03-04"
+last_updated: "2016-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 26 de agosto de 2014.
 
@@ -1155,11 +1155,15 @@ Además de lo señalado en el artículo 76 de la Ley General, la Ley General de 
 
 I. Las convocatorias que emitan para la elección de sus dirigentes o la postulación de sus candidatos a cargos de elección popular, y en su caso, el registro correspondiente;
 
-II. Los informes, anuales o parciales, de ingresos y gastos, tanto ordinarios como de precampaña y campaña que se presentan ante la autoridad electoral;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2016)</small>
 
-III. Plantilla de personal y tipo de seguridad social que se ofrece a sus trabajadores; y
+II. La declaración patrimonial, fiscal y de no conflicto de intereses, así como las cartas de no antecedentes penales y certificados médicos de la prueba de antidoping, expedidos por las autoridades competentes, de todos los precandidatos y candidatos a cargos de elección popular;
 
-IV. Las demás que señalen las disposiciones en materia electoral.
+III. Los informes, anuales o parciales, de ingresos y gastos, tanto ordinarios como de precampaña y campaña que se presentan ante la autoridad electoral;
+
+IV. Plantilla de personal y tipo de seguridad social que se ofrece a sus trabajadores; y
+
+V. Las demás que señalen las disposiciones en materia electoral.
 
 > <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
@@ -3562,3 +3566,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Dentro de un plazo de quince días los Órganos de Control Interno de la Administración Pública del Estado y de los Municipios en el ámbito de sus respectivas competencias, deberán expedir el Código de Conducta y en su caso, los formatos de Manifiesto de No Conflicto de Intereses de acuerdo con el presente Decreto.
 
 TERCERO.- Se derogan las disposiciones de las leyes y reglamentos que sean contrarias a las normas establecidas en la presente Ley.
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 519.- SE REFORMA LA FRACCIÓN II RECORRIÉNDOSE LAS ULTERIORES DEL ARTÍCULO 35 DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
