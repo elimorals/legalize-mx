@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2016-05-09"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -856,6 +856,12 @@ g).- Constituir el Comité de Planeación del Desarrollo Municipal, con la parti
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
 h) Cumplir con el Plan Estatal de Desarrollo, el del Municipio y los programas sectoriales, regionales y especiales aprobados, respecto a lo que se refiere a su Municipio. A más tardar, noventa días después de tomar posesión de su cargo, el Presidente Municipal deberá presentar un Plan Municipal de Desarrollo Urbano que contenga los Planes de Desarrollo Rural para los Pueblos y Comunidades Indígenas en caso de contar con población indígena reconocida, congruentes con el Plan Estatal;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE AGOSTO DE 2016)</small>
+
+Asimismo, contará hasta con ciento ochenta días para presupuestar, gestionar lo conducente y ordenar la elaboración del Atlas de Riesgos correspondiente o en su caso, actualizarlo a su gestión.
 
 i).- Coadyuvar con las Autoridades Federales en la aplicación y cumplimiento de las disposiciones previstas en los Artículos 27 y 30 de la Constitución Política de los Estados Unidos Mexicanos, de acuerdo a su normatividad interna;
 
@@ -2019,6 +2025,12 @@ XVIII.- Comparecer ante el Ayuntamiento, cuando sea requerido; y
 
 XIX.- Asistir al Presidente Municipal, en las funciones técnicas del Comité de Planeación para el Desarrollo Municipal.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+XX.- Dentro del término de ciento ochenta días a que hace referencia la fracción I, inciso h), del artículo 60 del presente ordenamiento, elaborar o en su caso, actualizar el Atlas de Riesgos Municipal, en coordinación con la instancia de Protección Civil. La omisión a lo ordenado en esta fracción, se considerará una falta grave administrativa, por lo que su incumplimiento dará lugar al procedimiento administrativo de responsabilidad del servidor público, responsable del área.
+
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 2016)</small>
@@ -2189,7 +2201,11 @@ VII.- Organizar un sistema de capacitación institucional para su personal, cuan
 
 VIII.- Vigilar que los cuerpos policiacos bajo su mando, realicen sus funciones con estricto apego al respeto de los derechos humanos establecidos en la Constitución Política de los Estados Unidos Mexicanos; y
 
-IX.- Las demás que le asignen las Leyes y Reglamentos, el Ayuntamiento y el Presidente Municipal.
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+IX.- Promover de acuerdo a la disponibilidad financiera, en coordinación con las autoridades educativas talleres de seguridad vial.
+
+X.- Las demás que le asignen las Leyes y Reglamentos, el Ayuntamiento y el Presidente Municipal.
 
 ### CAPÍTULO NOVENO. DE LOS ACTOS ADMINISTRATIVOS MUNICIPALES
 
@@ -3084,3 +3100,19 @@ PRIMERO.- El presente Decreto entrará en vigor a los treinta días de su public
 SEGUNDO.- La obligación referida en el artículo 121 Bis de la Ley, en relación con la certificación de competencias, entrara en vigencia en el plazo señalado, o en su caso, una vez que entre en vigencia el estándar de competencia laboral respectivo.
 
 TERCERO.- Se deroga cualquier disposición que se oponga al contenido del presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA El INCISO H) FRACCIÓN I, DEL ARTÍCULO 60 Y ADICIONA UNA FRACCIÓN XX AL ARTÍCULO 117 DE LA LEY ORGÁNICA MUNICIPAL Y QUE ADICIONA LOS ARTÍCULOS 364, 365, 366, 367, 368 Y 369 AL CÓDIGO PENAL, AMBOS DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día 1° de octubre de 2016.
+
+SEGUNDO. Los Ayuntamientos contarán por única ocasión, con un periodo de gracia de ciento ochenta días más, para dar cumplimiento a lo ordenado en la fracción XX del artículo 117 de esta Ley.
+
+TERCERO. Los Ayuntamientos entrantes, deberán incluir una partida en su Presupuesto de Egresos, para la elaboración de su correspondiente Atlas de Riesgos.
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 693 QUE ADICIONA UNA FRACCIÓN IX Y SE RECORRE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 126, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
