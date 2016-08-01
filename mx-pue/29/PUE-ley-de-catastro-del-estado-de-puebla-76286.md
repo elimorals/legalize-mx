@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-catastro-del-estado-de-puebla-76286"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-16"
-last_updated: "2016-02-02"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76286&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE CATASTRO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 16 de agosto de 2010.
 
@@ -215,13 +215,15 @@ Son autoridades catastrales en el Estado:
 
 I. El Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-II. El Secretario de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2016)</small>
+II. El Secretario General de Gobierno;
 
-III. El Subsecretario de Ingresos de la Secretaría de Finanzas y Administración;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+III. (DEROGADA, P.O. 1 DE AGOSTO DE 2016)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -339,11 +341,13 @@ Las autoridades catastrales municipales ejercerán sus atribuciones dentro de la
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 19.
 
-Los Delegados Catastrales representarán al Instituto en términos de la demarcación que se determine en el Acuerdo de Circunscripción Territorial que emita la Secretaría de Finanzas y Administración.
+Los Delegados Catastrales representarán al Instituto en términos de la demarcación que se determine en el Acuerdo de Circunscripción Territorial que emita la Secretaría General de Gobierno.
 
 ###### Artículo 20.
 
@@ -1238,3 +1242,25 @@ P.O. 2 DE FEBRERO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA; DE LA LEY DE CATASTRO DEL ESTADO DE PUEBLA Y DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los sesenta días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Para el cumplimiento de este Decreto, el Ejecutivo Estatal, a través de las instancias competentes, podrá reorganizar la estructura de las Dependencias, así como crear, fusionar, escindir o disolver las unidades administrativas necesarias, realizando las adecuaciones presupuestales de conformidad con lo estipulado en la Ley de Egresos del Estado de Puebla para el ejercicio fiscal que corresponda.
+
+TERCERO. La Secretaría de la Contraloría coordinará la transferencia de los recursos humanos, materiales y financieros, así como del acervo documental existente, hacia las Dependencias que ejercerán las atribuciones para las que fueron originalmente asignados.
+
+CUARTO. Cuando alguna unidad administrativa pase de una Dependencia a otra, con motivo de lo establecido en el presente Decreto, la transferencia se realizará incluyendo los recursos humanos que sean necesarios, así como los financieros y materiales que la unidad administrativa haya utilizado para la atención de los asuntos que conoció.
+
+QUINTO. Los asuntos en trámite, así como los juicios, recursos y procedimientos que con motivo de la entrada en vigor de este Decreto deban pasar de una Dependencia a otra, continuarán tramitándose por las unidades administrativas de origen hasta que se formalice la transferencia correspondiente, en términos de este Decreto.
+
+SEXTO. Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto pasen de una Dependencia a otra, se respetarán en términos de las disposiciones legales aplicables.
+
+SÉPTIMO. El Ejecutivo del Estado dentro los noventa días naturales siguientes a la entrada en vigor del presente Decreto, realizará las modificaciones a los Reglamentos Interiores de las Dependencias correspondientes.
+
+En tanto no se realicen las reformas a que se refiere el párrafo anterior, las Dependencias señaladas en este Decreto, seguirán aplicando los reglamentos vigentes en todo aquello que no la contravengan.
+
+OCTAVO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por la presente Ley.
