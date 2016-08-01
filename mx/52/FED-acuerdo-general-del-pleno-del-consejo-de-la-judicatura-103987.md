@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2016-06-23"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE AGOSTO DE 2016.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -3067,7 +3067,9 @@ XVII. Las demás que estén previstas en este Capítulo y las que sean conferida
 
 El presidente del Comité tendrá las siguientes funciones:
 
-I. Presidir las sesiones, así como emitir voto de calidad respecto de los asuntos puestos a consideración del Comité;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA VIDEOGRABACIÓN DE LAS SESIONES DE LOS COMITÉS Y DEL ACTO DE APERTURA DE PROPUESTAS EN LAS LICITACIONES PÚBLICAS, ASÍ COMO LA DIFUSIÓN DE LOS FALLOS, D.O.F. 1 DE AGOSTO DE 2016)</small>
+
+I. Presidir las sesiones y ordenar su videograbación, así como emitir voto de calidad respecto de los asuntos puestos a consideración del Comité;
 
 II. Requerir a las diversas áreas administrativas, la asesoría y estudio pormenorizado de cuestiones de carácter técnico especializado, respecto de asuntos que sean competencia del Comité, y citar a sus titulares para que concurran a las sesiones con el carácter de asesores temporales o invitados;
 
@@ -3105,7 +3107,9 @@ II. Someter a la aprobación del presidente del Comité el proyecto del orden de
 
 III. Incluir en el orden del día los asuntos para acuerdo, informativos y generales, y el seguimiento de los acuerdos de las sesiones precedentes;
 
-IV. Pasar lista de asistencia para determinar si existe quórum en la sesión a celebrarse;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA VIDEOGRABACIÓN DE LAS SESIONES DE LOS COMITÉS Y DEL ACTO DE APERTURA DE PROPUESTAS EN LAS LICITACIONES PÚBLICAS, ASÍ COMO LA DIFUSIÓN DE LOS FALLOS, D.O.F. 1 DE AGOSTO DE 2016)</small>
+
+IV. Pasar lista de asistencia para determinar si existe quórum en la sesión a celebrarse y videograbar la sesión conforme a la orden del Presidente, en el soporte material respectivo y, en su caso, preparar la versión pública;
 
 V. Suscribir los oficios en los que se den a conocer los acuerdos adoptados por el Comité;
 
@@ -3127,13 +3131,17 @@ XII. Las demás que le encomiende el presidente del Comité o sus integrantes.
 
 Las sesiones del Comité tendrán lugar siempre que sea necesario y se celebrarán de la siguiente manera:
 
-I. Serán ordinarias y extraordinarias, y se podrán llevar a cabo en forma presencial o virtual; es decir, las sesiones se podrán realizar mediante la comunicación de sus integrantes a través de medios electrónicos;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA VIDEOGRABACIÓN DE LAS SESIONES DE LOS COMITÉS Y DEL ACTO DE APERTURA DE PROPUESTAS EN LAS LICITACIONES PÚBLICAS, ASÍ COMO LA DIFUSIÓN DE LOS FALLOS, D.O.F. 1 DE AGOSTO DE 2016)</small>
+
+I. Serán ordinarias y extraordinarias, y se llevarán a cabo en forma presencial;
 
 II. El orden del día, junto con la documentación soporte, se entregará a los integrantes del Comité, a los observadores e invitados, por conducto del al secretario técnico del Comité, con dos días hábiles de anticipación para la celebración de la sesión, cuando así sea posible;
 
 III. La convocatoria, el orden del día y la documentación soporte se entregará a los integrantes del Comité, a los observadores e invitados, por conducto del secretario técnico, con tres días hábiles de anticipación a la celebración de la sesión respectiva; salvo en caso de asuntos urgentes autorizados por el presidente del Comité, que de ser posible se podrán enviar con 24 horas de anticipación;
 
-IV. Se levantará acta estenográfica, la cual será firmada por los integrantes asistentes, previa aprobación de la misma; y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA VIDEOGRABACIÓN DE LAS SESIONES DE LOS COMITÉS Y DEL ACTO DE APERTURA DE PROPUESTAS EN LAS LICITACIONES PÚBLICAS, ASÍ COMO LA DIFUSIÓN DE LOS FALLOS, D.O.F. 1 DE AGOSTO DE 2016)</small>
+
+IV. Serán videograbadas desde su inicio hasta su conclusión sin ninguna interrupción y de cada una se levantará acta estenográfica, la cual será firmada por los integrantes asistentes, previa aprobación de ésta, dejando constancia de la videograbación; y
 
 V. Proponer a la Comisión de Administración para su visto bueno a más tardar en la segunda sesión ordinaria del año, la propuesta de parámetros de adjudicación que regirán en los distintos procedimientos de adjudicación, los cuales se someterán a la aprobación del Pleno.
 
@@ -4097,7 +4105,9 @@ El servidor público que preside el acto estará facultado para tomar decisiones
 
 El acto de apertura de propuestas se realizará conforme a lo siguiente:
 
-I. Se podrá celebrar en un solo evento cuando la naturaleza, complejidad y magnitud de los trabajos a realizar así lo permitan. En caso de que la apertura de las propuestas no se realice en la misma fecha, los sobres cerrados que las contengan serán firmados por los licitantes y los servidores públicos presentes y quedarán en custodia del área de adquisiciones o de obras, según corresponda, la que informará en dicho acto la fecha, lugar y hora en que se llevará a cabo;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA VIDEOGRABACIÓN DE LAS SESIONES DE LOS COMITÉS Y DEL ACTO DE APERTURA DE PROPUESTAS EN LAS LICITACIONES PÚBLICAS, ASÍ COMO LA DIFUSIÓN DE LOS FALLOS, D.O.F. 1 DE AGOSTO DE 2016)</small>
+
+I. Será videograbado en su totalidad y se podrá celebrar en un solo evento cuando la naturaleza, complejidad y magnitud de los trabajos a realizar así lo permitan. En caso de que la apertura de las propuestas no se realice en la misma fecha, los sobres cerrados que las contengan serán firmados por los licitantes y los servidores públicos presentes y quedarán en custodia del área de adquisiciones o de obras, según corresponda, la que informará en dicho acto la fecha, lugar y hora en que se llevará a cabo;
 
 II. Una vez recibidas las proposiciones en sobre cerrado, se procederá a su apertura y se dejará constancia del cumplimiento de los requisitos solicitados a los participantes de conformidad con los incisos que las establezcan en las bases de la licitación y de aquellos que en su caso hubiesen dejado de cumplir, con base en la relación que para tal efecto se levante y se adjunte al acta del acto;
 
@@ -4150,6 +4160,10 @@ II. Nombre de los licitantes cuyas propuestas económicas fueron determinadas co
 III. Nombre del licitante a quien se adjudique el contrato y, en su caso, identificación de cada una de las partidas o conceptos y montos asignados; y
 
 IV. Información para firma del contrato, presentación de garantías y, en su caso, entrega de anticipos, conforme a las bases de licitación o de invitación.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA VIDEOGRABACIÓN DE LAS SESIONES DE LOS COMITÉS Y DEL ACTO DE APERTURA DE PROPUESTAS EN LAS LICITACIONES PÚBLICAS, ASÍ COMO LA DIFUSIÓN DE LOS FALLOS, D.O.F. 1 DE AGOSTO DE 2016)</small>
+
+Una vez que el fallo haya sido comunicado en sesión pública o notificado por escrito a los participantes, sin perjuicio de lo dispuesto en la Ley General de Transparencia y Acceso a la Información Pública y en la Ley Federal de Transparencia y Acceso a la Información Pública, se difundirá en el Diario Oficial de la Federación y en el portal de Internet del Consejo, para efectos exclusivos de transparencia.
 
 ###### Artículo 328.
 
@@ -5681,7 +5695,9 @@ XVII. Informar a la Comisión de Administración y, en su caso, al Pleno, según
 
 El presidente del Comité de Administración Inmobiliaria tendrá las siguientes funciones:
 
-I. Dirigir y moderar los debates durante las sesiones y emitir su voto sobre los asuntos puestos a consideración del Comité;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA VIDEOGRABACIÓN DE LAS SESIONES DE LOS COMITÉS Y DEL ACTO DE APERTURA DE PROPUESTAS EN LAS LICITACIONES PÚBLICAS, ASÍ COMO LA DIFUSIÓN DE LOS FALLOS, D.O.F. 1 DE AGOSTO DE 2016)</small>
+
+I. Dirigir y moderar los debates durante las sesiones y ordenar su videograbación; así como emitir su voto sobre los asuntos puestos a consideración del Comité;
 
 II. Requerir a las diversas áreas administrativas del Consejo la asesoría y estudio pormenorizado de cuestiones de carácter técnico especializado respecto de asuntos competencia del Comité; y citar a sus titulares para que con el carácter de asesores temporales o invitados concurran a las sesiones correspondientes;
 
@@ -5721,7 +5737,9 @@ I. Convocar a las reuniones del Comité;
 
 II. Preparar y presentar el orden del día de la sesión, junto con los listados de los asuntos que se tratarán, incluyendo los documentos necesarios y los apoyos que requieran, de lo cual remitirá copia a cada integrante del Comité;
 
-III. Pasar lista de asistencia para determinar si existe quórum en la sesión a celebrarse;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA VIDEOGRABACIÓN DE LAS SESIONES DE LOS COMITÉS Y DEL ACTO DE APERTURA DE PROPUESTAS EN LAS LICITACIONES PÚBLICAS, ASÍ COMO LA DIFUSIÓN DE LOS FALLOS, D.O.F. 1 DE AGOSTO DE 2016)</small>
+
+III. Pasar lista de asistencia para determinar si existe quórum en la sesión a celebrarse y videograbar la sesión conforme a la orden del Presidente, en el soporte material respectivo y, en su caso, preparar una versión pública;
 
 IV. Participar con voz pero sin voto en las sesiones del Comité;
 
@@ -5771,7 +5789,9 @@ III. La convocatoria se notificará a los miembros del Comité con un día hábi
 
 IV. El orden del día y la documentación correspondiente, se entregarán a los integrantes del Comité con la oportunidad antes señalada a la celebración de la sesión;
 
-V. De cada reunión se levantará un acta con los acuerdos tomados, la cual será suscrita por los integrantes asistentes;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA VIDEOGRABACIÓN DE LAS SESIONES DE LOS COMITÉS Y DEL ACTO DE APERTURA DE PROPUESTAS EN LAS LICITACIONES PÚBLICAS, ASÍ COMO LA DIFUSIÓN DE LOS FALLOS, D.O.F. 1 DE AGOSTO DE 2016)</small>
+
+V. Todas las sesiones del Comité serán videograbadas desde su inicio hasta su conclusión sin ninguna interrupción y de cada una se levantará un acta con los acuerdos tomados, la cual será suscrita por los integrantes asistentes, dejando constancia de la videograbación;
 
 VI. Los asuntos que se sometan a la consideración del Comité, se presentarán en listados que contengan la información resumida de los casos que se dictaminen en cada sesión;
 
@@ -6641,7 +6661,9 @@ VI. Informar semestralmente sobre el ejercicio de sus funciones a la Comisión d
 
 El presidente del Comité de Desincorporación de Bienes tendrá las siguientes funciones:
 
-I. Dirigir y moderar los debates durante las sesiones, así como emitir su voto respecto de los asuntos sometidos a consideración del Comité;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA VIDEOGRABACIÓN DE LAS SESIONES DE LOS COMITÉS Y DEL ACTO DE APERTURA DE PROPUESTAS EN LAS LICITACIONES PÚBLICAS, ASÍ COMO LA DIFUSIÓN DE LOS FALLOS, D.O.F. 1 DE AGOSTO DE 2016)</small>
+
+I. Dirigir y moderar los debates durante las sesiones y ordenar su videograbación; así como emitir su voto respecto de los asuntos sometidos a consideración del Comité;
 
 II. Designar al responsable de presidir los actos durante el desarrollo de licitaciones públicas o de invitaciones restringidas;
 
@@ -6683,7 +6705,9 @@ I. Convocar a las sesiones del Comité;
 
 II. Preparar y presentar el orden del día de la sesión, junto con los listados de los asuntos que se tratarán, incluyendo los documentos necesarios y los apoyos que se requieran, de lo cual remitirá copia a cada integrante del Comité;
 
-III. Pasar lista de asistencia para determinar si existe quórum en la sesión a celebrarse;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA VIDEOGRABACIÓN DE LAS SESIONES DE LOS COMITÉS Y DEL ACTO DE APERTURA DE PROPUESTAS EN LAS LICITACIONES PÚBLICAS, ASÍ COMO LA DIFUSIÓN DE LOS FALLOS, D.O.F. 1 DE AGOSTO DE 2016)</small>
+
+III. Pasar lista de asistencia para determinar si existe quórum en la sesión a celebrarse y videograbar la sesión conforme a la orden del Presidente, en el soporte material respectivo y, en su caso, preparar una versión pública;
 
 IV. Suscribir los oficios cuya expedición haya acordado el Comité;
 
@@ -6733,7 +6757,9 @@ III. El orden del día, junto con la documentación soporte, se entregará a los
 
 IV. La convocatoria a la sesión se notificará a sus miembros con tres días hábiles de anticipación a la celebración de la misma; cuando así sea aplicable;
 
-V. De cada sesión se levantará un acta con los acuerdos tomados, la cual será suscrita por los integrantes asistentes;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA VIDEOGRABACIÓN DE LAS SESIONES DE LOS COMITÉS Y DEL ACTO DE APERTURA DE PROPUESTAS EN LAS LICITACIONES PÚBLICAS, ASÍ COMO LA DIFUSIÓN DE LOS FALLOS, D.O.F. 1 DE AGOSTO DE 2016)</small>
+
+V. Todas las sesiones serán videograbadas desde su inicio hasta su conclusión sin ninguna interrupción y de cada una se levantará un acta con los acuerdos tomados, la cual será suscrita por los integrantes asistentes, dejando constancia de la videograbación;
 
 VI. Los asuntos que se sometan a la consideración del Comité, se presentarán en listados que contengan la información resumida de los casos que se dictaminen en cada sesión;
 
@@ -7845,7 +7871,9 @@ La Dirección General de Recursos Materiales o la Administración Regional comun
 
 En caso de duda o conflicto en la operación, aplicación o interpretación de este Capítulo, los representantes de las unidades administrativas instructoras propondrán de manera colegiada alternativas de solución, que se someterán a la consideración de la Comisión de Administración a fin de que resuelva lo conducente.
 
-## TÍTULO TERCERO. DEL COMITÉ DE INFORMATICA Y DE LAS ADMINISTRACIONES DE EDIFICIONES
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA VIDEOGRABACIÓN DE LAS SESIONES DE LOS COMITÉS Y DEL ACTO DE APERTURA DE PROPUESTAS EN LAS LICITACIONES PÚBLICAS, ASÍ COMO LA DIFUSIÓN DE LOS FALLOS, D.O.F. 1 DE AGOSTO DE 2016)</small>
+
+## TÍTULO TERCERO. DEL COMITÉ DE INFORMÁTICA Y DE LAS ADMINISTRACIONES DE EDIFICIOS
 
 ### CAPÍTULO SEGUNDO. PRESUPUESTO DE EGRESOS DEL PODER JUDICIAL DE LA FEDERACIÓN
 
@@ -7901,7 +7929,9 @@ XIV. Las demás que le sean conferidas por el Pleno o la Comisión de Administra
 
 El presidente del Comité de Informática tendrá las siguientes funciones:
 
-I. Dirigir y moderar los debates durante las sesiones, así como emitir su voto respecto de los asuntos puestos a consideración del Comité;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA VIDEOGRABACIÓN DE LAS SESIONES DE LOS COMITÉS Y DEL ACTO DE APERTURA DE PROPUESTAS EN LAS LICITACIONES PÚBLICAS, ASÍ COMO LA DIFUSIÓN DE LOS FALLOS, D.O.F. 1 DE AGOSTO DE 2016)</small>
+
+I. Dirigir y moderar los debates durante las sesiones y ordenar su videograbación; así como emitir su voto respecto de los asuntos puestos a consideración del Comité;
 
 II. Autorizar el orden del día de las sesiones a celebrar;
 
@@ -7953,7 +7983,9 @@ I. Convocar a las reuniones del Comité;
 
 II. Preparar y presentar el orden del día de la sesión, junto con los listados de los asuntos que se tratarán, incluyendo los documentos necesarios y los apoyos que se requieran, de lo cual remitirá copia a cada integrante del Comité;
 
-III. Pasar lista de asistencia para determinar si existe quórum en la sesión a celebrarse;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA VIDEOGRABACIÓN DE LAS SESIONES DE LOS COMITÉS Y DEL ACTO DE APERTURA DE PROPUESTAS EN LAS LICITACIONES PÚBLICAS, ASÍ COMO LA DIFUSIÓN DE LOS FALLOS, D.O.F. 1 DE AGOSTO DE 2016)</small>
+
+III. Pasar lista de asistencia para determinar si existe quórum en la sesión a celebrarse y videograbar la sesión conforme a la orden del Presidente, en el soporte material respectivo y, en su caso, preparar una versión pública;
 
 IV. Suscribir los oficios cuya expedición haya acordado el Comité;
 
@@ -8003,7 +8035,9 @@ III. La convocatoria, el orden del día, junto con la documentación soporte, se
 
 IV. Las decisiones se tomarán por mayoría de votos de sus miembros presentes, en caso de empate el presidente tendrá voto de calidad;
 
-V. De cada sesión se levantará un acta con los acuerdos tomados, la cual será suscrita por los integrantes, ponentes, asesores e invitados asistentes;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA VIDEOGRABACIÓN DE LAS SESIONES DE LOS COMITÉS Y DEL ACTO DE APERTURA DE PROPUESTAS EN LAS LICITACIONES PÚBLICAS, ASÍ COMO LA DIFUSIÓN DE LOS FALLOS, D.O.F. 1 DE AGOSTO DE 2016)</small>
+
+V. Todas las sesiones serán videograbadas desde su inicio hasta su conclusión sin ninguna interrupción y de cada una se levantará un acta con los acuerdos tomados, la cual será suscrita por los integrantes, ponentes, asesores e invitados asistentes, dejando constancia de la videograbación;
 
 VI. El Comité informará a la Comisión de Administración y, en su caso, al Pleno, los acuerdos adoptados en cada una de las sesiones que celebre. Los informes que se rindan deberán presentarse en un plazo no mayor a diez días hábiles; y
 
@@ -11734,3 +11768,15 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Se instruye a la Secretaria Ejecutiva de Administración someta a la aprobación de la Comisión de Administración, la modificación de los “Lineamientos para la operación del Fondo de Reserva Individualizado, para el personal de nivel operativo de los órganos jurisdiccionales federales y del Consejo de la Judicatura Federal”, que recojan las reforma (sic) del presente Acuerdo y las demás que resulten necesarias.
+
+D.O.F. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA VIDEOGRABACIÓN DE LAS SESIONES DE LOS COMITÉS Y DEL ACTO DE APERTURA DE PROPUESTAS EN LAS LICITACIONES PÚBLICAS, ASÍ COMO LA DIFUSIÓN DE LOS FALLOS".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. En los procedimientos en trámite, a la entrada en vigor del presente Acuerdo, en los que no se haya comunicado o notificado el fallo en términos del artículo 327 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo, será aplicable lo dispuesto en el párrafo segundo de dicho precepto.
+
+CUARTO. La Dirección General de Tecnologías de la Información proporcionará el apoyo técnico necesario para la videograbación de las sesiones de los Comités y del acto de apertura de propuestas en las licitaciones públicas.
