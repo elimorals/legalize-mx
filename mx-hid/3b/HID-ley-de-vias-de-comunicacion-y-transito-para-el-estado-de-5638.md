@@ -4,7 +4,7 @@ identifier: "HID-ley-de-vias-de-comunicacion-y-transito-para-el-estado-de-5638"
 country: "mx"
 rank: "ley"
 publication_date: "1970-01-08"
-last_updated: "2001-08-06"
+last_updated: "2016-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY DE VIAS DE COMUNICACION Y TRANSITO PARA EL ESTADO DE HIDALGO
 
-LEY DE VIAS DE COMUNICACION Y TRANSITO PARA EL ESTADO DE HIDALGO
+LEY DE VÍAS DE COMUNICACIÓN Y TRÁNSITO PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: EL 6 DE AGOSTO DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Hidalgo, el 8 de enero de 1970.
 
@@ -273,7 +273,9 @@ III.- Se considera motociclista a los conductores de los vehículos a que se ref
 
 Para obtener licencia de automovilista será necesario:
 
-I.- Tener edad no menor de 18 años, ni mayor de 70 la cual deberá acreditar legalmente, cuando hubiere duda acerca de su declaración;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+I.- Tener edad no menor de 18 años, la cual deberá acreditar legalmente, cuando hubiere duda acerca de su declaración; y en el caso de adultos mayores siempre y cuando el conductor apruebe los exámenes de aptitud física y psicológicos correspondientes.
 
 II.- Presentar la solicitud correspondiente, cuya forma proporcionará la Dirección, acompañada de los siguientes documentos:
 
@@ -290,6 +292,10 @@ III.- Sujetarse a un examen médico, para comprobar su capacidad física y salud
 IV.- Presentar examen de pericia de manejo de vehículos y conocimiento de las disposiciones sobre circulación y señales de tránsito; y
 
 V.- Pagar los derechos correspondientes por concepto de expedición de licencia.
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+VI.- Las demás que establezca esta Ley, la autoridad competente y la normatividad aplicable, una vez reunidos los requisitos anteriores de esta ley.
 
 ###### Artículo 44.
 
@@ -1308,3 +1314,9 @@ SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE SE RELACIONAN CON LA PR
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan los Artículos: 1 fracción IV, 2, 6, 10, 11, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 32, 33, 34, 35, 39, 41 fracción II, 147, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 167, 168, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 243, 244, 245 y 246 de la Ley de Vías de Comunicación y Tránsito publicada en el Periódico Oficial del Estado el 8 de enero de 1970.
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 685 QUE REFORMA LA FRACCIÓN I Y ADICIONA LA FRACCIÓN VI AL ARTÍCULO 43, DE LA LEY DE VÍAS DE COMUNICACIÓN Y TRÁNSITO PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO.- El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
