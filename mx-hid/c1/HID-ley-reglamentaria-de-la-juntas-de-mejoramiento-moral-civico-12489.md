@@ -4,7 +4,7 @@ identifier: "HID-ley-reglamentaria-de-la-juntas-de-mejoramiento-moral-civico-124
 country: "mx"
 rank: "ley"
 publication_date: "1972-08-16"
-last_updated: "1972-08-16"
+last_updated: "2016-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12489&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY REGLAMENTARIA DE LAS JUNTAS DE MEJORAMIENTO MORAL, CIVICO Y MATERIAL
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 681, PUBLICADO EN EL P.O. DE 1 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 16 de agosto de 1972.
 
@@ -172,3 +174,13 @@ Dado en el Salón de Sesiones del H. Congreso del Estado en Pachuca de Soto, a l
 Por tanto, mando se imprima, publique y circule, para su debido cumplimiento.
 
 DADO en el Palacio del Poder Ejecutivo de la ciudad de Pachuca de Soto, Hgo., a los once días del mes de diciembre de mil novecientos setenta y uno.- El Gobernador Constitucional del Estado, LIC. MANUEL SANCHEZ VITE.- El Secretario General de Gobierno, LIC. GABRIEL ROMERO REYES.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 681 QUE ABROGA LA LEY REGLAMENTARIA DE LAS JUNTAS DE MEJORAMIENTO MORAL, CÍVICO Y MATERIAL DEL ESTADO DE HIDALGO”.]
+
+###### ARTÍCULO ÚNICO.
+
+Se Abroga la Ley Reglamentaria de las Juntas de Mejoramiento Moral, Cívico y Material del Estado de Hidalgo.
