@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-para-el-estado-de-839
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-21"
-last_updated: "2015-12-31"
+last_updated: "2016-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -511,7 +511,9 @@ XXVII.- Realizar y promover investigaciones y estudios para apoyar las actividad
 
 XXVIII.- Dirigir, coordinar y establecer las bases y lineamientos en materia de asesoría y asistencia técnica a los municipios del Estado, sobre políticas de desarrollo metropolitano, coordinación regional e intermunicipal, orientadas a fortalecer sus programas de infraestructura y equipamiento urbano, promoviendo una adecuada participación de las instituciones responsables en la materia;
 
-XXIX.- Fomentar la participación ciudadana en la planeación y evaluación de acciones y programas de carácter intermunicipales;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+XXIX.- Fomentar la participación ciudadana en la planeación y evaluación de acciones y programas de carácter estatal e intermunicipales;
 
 XXX.- Establecer acuerdos de coordinación y colaboración administrativa con las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, así como, con los representantes del sector privado, que propicien el fortalecimiento de las actividades en materia de información estadística y geográfica en la Entidad;
 
@@ -1348,3 +1350,9 @@ P.O. 31 DE DICIEMBRE DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 688 QUE REFORMA LA FRACCIÓN XXIX DEL ARTÍCULO 27, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
