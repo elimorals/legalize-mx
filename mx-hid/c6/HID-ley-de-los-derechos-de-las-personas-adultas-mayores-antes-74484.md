@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2015-07-27"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -133,6 +133,10 @@ IV.- Derecho a la Familia.- Vivir en el seno de una familia, o a mantener relaci
 
 V.- Derecho a la Educación.- Recibir de manera preferente la educación que señala el Artículo 3º de la Constitución Política de los Estados Unidos Mexicanos y el Artículo 5º de la Constitución Política del Estado de Hidalgo;
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
+Así mismo, tendrán atención preferente en eventos culturales, recreativos, ocio o semejantes, que tengan como finalidad el entretenimiento y enriquecimiento cultural.
+
 VI.- Derecho al Trabajo.- Toda adulto mayor tiene derecho a tener un trabajo digno y socialmente útil, así como acceso a capacitación que le permita desarrollar una actividad o la prestación de un servicio, de acuerdo a su condición de salud, capacidades, habilidades y aptitudes;
 
 > <small>(REFORMADA, P.O. 25 DE MAYO DE 2015)</small>
@@ -203,9 +207,11 @@ IV.- Vigilar que los trabajos y las actividades que realicen los adultos mayores
 
 V.- Brindar respeto, comprensión y apoyo incondicional.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 12.
 
-Ningún adulto mayor podrá ser socialmente marginado o discriminado en ningún espacio público o privado por razón de su género, estado físico y mental, creencia religiosa o condición social.
+Ningún adulto mayor podrá ser socialmente marginado o discriminado en ningún espacio público o privado por razón de su género, preferencia sexual, estado físico y mental, creencia religiosa o condición social.
 
 ###### Artículo 13.
 
@@ -590,3 +596,15 @@ SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicac
 P.O. 27 DE JULIO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 680 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE HOMBRES Y MUJERES DEL ESTADO DE HIDALGO; DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO; ASÍ COMO DE LA LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 686.- QUE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN V DEL ARTICULO 7, DE LA LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
