@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2016-06-10"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -329,11 +329,11 @@ El Ayuntamiento residirá en la cabecera del Municipio y sólo por resolución d
 
 ### CAPÍTULO II. DE LA INTEGRACIÓN DEL AYUNTAMIENTO
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 41.
 
-Los Ayuntamientos serán renovados en su totalidad cada cuatro años mediante sufragio universal, libre, secreto y directo, y con aplicación de los principios de mayoría relativa y de representación proporcional, en los términos que establezca la ley electoral aplicable y demás ordenamientos legales.
+Los Ayuntamientos serán renovados en su totalidad cada tres años mediante sufragio universal, libre, secreto y directo, y con aplicación de los principios de mayoría relativa y de representación proporcional, en los términos que establezca la ley electoral aplicable y demás ordenamientos legales.
 
 ###### ARTÍCULO 42.
 
@@ -357,19 +357,21 @@ V. Tener modo honesto de vivir.
 
 VI.- Satisfacer los demás requisitos que establezca la ley en materia electoral.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 44.
 
-Los Ayuntamientos serán electos conforme al proceso electoral que organice el Instituto Electoral y de Participación Ciudadana de Coahuila, en los términos de las disposiciones aplicables.
+Los Ayuntamientos serán electos conforme al proceso electoral que organice el Instituto Electoral de Coahuila, en los términos de las disposiciones aplicables.
 
 ###### ARTÍCULO 45.
 
 Será presidente del ayuntamiento, aquel de sus miembros que haya sido electo para tal cargo.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 46.
 
-Los presidentes municipales, regidores y síndicos de los ayuntamientos electos popularmente por elección directa, no podrán ser reelectos para el mismo cargo en el período inmediato. Las personas que por elección indirecta o por nombramiento o designación del Congreso del Estado desempeñen las funciones propias de esos cargos cualquiera que sea la denominación que se les dé, no podrán ser electos para el período inmediato.
+Los presidentes municipales, regidores y síndicos de los ayuntamientos electos popularmente por elección directa y las personas que por elección indirecta o por nombramiento o designación del Congreso del Estado desempeñen las funciones propias de esos cargos cualquiera que sea la denominación que se les dé, podrán ser electos por un periodo adicional en los términos que fije el Código Electoral del Estado de Coahuila de Zaragoza.
 
 ###### ARTÍCULO 47.
 
@@ -429,9 +431,9 @@ A continuación, el nuevo Presidente tomará la protesta a los demás miembros d
 
 Cuando el presidente municipal electo no se presente a tomar posesión del cargo o en caso de falta absoluta del presidente municipal, que ocurra durante los primeros seis meses del período correspondiente, el Congreso del Estado, con la concurrencia de cuando menos las dos terceras partes del total de sus miembros, nombrará, en escrutinio secreto y por mayoría absoluta de votos, un presidente municipal interino.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
-El Instituto Electoral y de Participación Ciudadana de Coahuila, dentro de los 90 días siguientes al de la designación del presidente interino, expedirá la convocatoria para la elección del presidente municipal que deba concluir el período, debiendo precisar en la convocatoria, la fecha en que habrá de celebrarse dicha elección.
+El Instituto Electoral de Coahuila, dentro de los 90 días siguientes al de la designación del presidente interino, expedirá la convocatoria para la elección del presidente municipal que deba concluir el período, debiendo precisar en la convocatoria, la fecha en que habrá de celebrarse dicha elección.
 
 Cuando la falta absoluta del presidente municipal ocurriere después de los seis meses del período correspondiente, el Congreso del Estado, con la concurrencia de cuando menos las dos terceras partes del total de sus miembros, nombrará, en escrutinio secreto y por mayoría absoluta de votos, a un presidente municipal sustituto, quien se encargará de concluir el período.
 
@@ -501,7 +503,7 @@ Los Presidentes Municipales interinos y sustitutos, al concluir sus funciones ha
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2007)</small>
 
-Así mismo, los Consejos Municipales que sean designados para concluir el periodo municipal correspondiente en los supuestos establecidos en el Artículo 61 del Código Municipal para el Estado de Coahuila, deberán llevar acabo (sic) el procedimiento de entrega-recepción al término de su periodo.
+Así mismo, los Concejos Municipales que sean designados para concluir el periodo municipal correspondiente en los supuestos establecidos en el Artículo 61 del Código Municipal para el Estado de Coahuila, deberán llevar acabo (sic) el procedimiento de entrega-recepción al término de su periodo.
 
 ###### ARTÍCULO 65.
 
@@ -547,7 +549,7 @@ Para el cumplimiento de lo anterior, con la anticipación necesaria, los sujetos
 
 ###### ARTÍCULO 67.
 
-La entrega-recepción de la documentación prevista en el artículo 65, tendrá carácter de acto formal, en el cual deberá intervenir el servidor público saliente, el servidor público que recibe, un testigo por cada parte y un representante de la Contraloría Municipal. En dicho acto deberá elaborarse acta circunstanciada de la entrega-recepción y la mención de los anexos correspondientes, debiendo presentarse por triplicado, correspondiendo un tanto para el servidor público entrante, otro para el saliente y el tercero para el representante de la Controlaría Municipal. El acta deberá firmarse por los servidores públicos referidos en el párrafo anterior, con asistencia de dos testigos que ellos mismos designen.
+La entrega-recepción de la documentación prevista en el artículo 65, tendrá carácter de acto formal, en el cual deberá intervenir el servidor público saliente, el servidor público que recibe, un testigo por cada parte y un representante de la Contraloría Municipal. En dicho acto deberá elaborarse acta circunstanciada de la entrega-recepción y la mención de los anexos correspondientes, debiendo presentarse por triplicado, correspondiendo un tanto para el servidor público entrante, otro para el saliente y el tercero para el representante de la Contraloría Municipal. El acta deberá firmarse por los servidores públicos referidos en el párrafo anterior, con asistencia de dos testigos que ellos mismos designen.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2005)</small>
 
@@ -681,11 +683,11 @@ Los integrantes del Consejo Municipal designado, rendirán su protesta, en el lu
 
 ### CAPÍTULO V. DEL FUNCIONAMIENTO DEL AYUNTAMIENTO
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 84.
 
-El período que estará en funciones un Ayuntamiento, será hasta de cuatro años.
+El período que estará en funciones un Ayuntamiento, será hasta de tres años.
 
 ###### ARTÍCULO 85.
 
@@ -4348,3 +4350,11 @@ P.O. 10 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 450.- SE MODIFICA EL CONTENIDO DE LA FRACCIÓN I DEL ARTÍCULO 176 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 521.- SE REFORMAN LOS ARTÍCULOS 41, 44, 46, 57 Y 84 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Código entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
