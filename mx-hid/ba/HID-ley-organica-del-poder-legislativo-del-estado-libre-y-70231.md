@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2016-05-23"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -73,7 +73,7 @@ El Congreso del Estado, se integra con Diputados electos en su totalidad por suf
 
 Durante su Ejercicio Constitucional, el Congreso del Estado tendrá dos Períodos Ordinarios de Sesiones cada año, en los términos previstos por el Titulo Sexto, de la Constitución Política del Estado de Hidalgo. Los períodos no podrán prorrogarse más allá de las fechas previstas en este Título.
 
-El Congreso del Estado, tendrá dos períodos de receso al año, en los que funcionará la Diputación Permanente.
+El Congreso del Estado, tendrá dos perídos de receso al año, en los que funcionará la Diputación Permanente.
 
 El Congreso, podrá celebrar Sesiones Extraordinarias durante los períodos de receso, mismas que serán convocados por la Diputación Permanente o a solicitud del Titular del Poder Ejecutivo del Estado, en dichos periodos sólo se tratarán los asuntos que se precisen en la Convocatoria, pudiendo prolongarse por el tiempo necesario hasta lograr su objetivo. Para el caso en que termine el período de receso, sin haberse resuelto el asunto motivo de la Convocatoria, éste se incluirá en la agenda de los asuntos a tratar del Periodo Ordinario de Sesiones siguiente.
 
@@ -739,7 +739,9 @@ VIII.- Comisión de Derechos Humanos y Atención de las Personas con Discapacida
 
 IX.- Comisión de Salud;
 
-X.- Comisión de Medio Ambiente;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+X.- Comisión de Medio Ambiente, Recursos Naturales y Cambio Climático.
 
 XI.- Comisión de Población y Migración;
 
@@ -2244,3 +2246,9 @@ P.O. 23 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 656.- QUE ADICIONA LA FRACCIÓN V BIS AL ARTÍCULO 117, UN SEGUNDO PÁRRAFO AL ARTÍCULO 137 DE LA LEY ORGÁNICA Y ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 69 DEL REGLAMENTO, AMBOS DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 678.- QUE REFORMA LA FRACCIÓN X DEL ARTÍCULO 77 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO; Y EL PRIMER PÁRRAFO DEL ARTÍCULO 35 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
