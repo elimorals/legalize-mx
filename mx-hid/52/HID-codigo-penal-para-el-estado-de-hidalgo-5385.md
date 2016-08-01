@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2014-11-10"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, LAS REFORMAS PUBLICADAS EN EL DECRETO NÚM. 228, DE FECHA 10 DE NOVIEMBRE DE 2014, ENTRARÁN EN VIGOR A PARTIR DE LAS CERO HORAS DEL DÍA 18 DE NOVIEMBRE DE 2014, CONFORME AL DECRETO NÚMERO 208, PROMULGADO POR EL TITULAR DEL PODER EJECUTIVO DEL ESTADO, DE FECHA 22 DE AGOSTO DE 2014.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -3843,6 +3841,12 @@ Al que con el propósito de lucro, para sí o para otro, dé un destino distinto
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P. O. 11 DE MAYO DE 2007)</small>
 
+## TITULO VIGESIMO SEGUNDO. DELITOS COMETIDOS EN MATERIA DE PROTECCION CIVIL
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 351.
 
 Para efectos del presente Título, se entiende por:
@@ -4091,6 +4095,62 @@ I.- Si el objeto de fraccionar o dividir un lote se hace en consecuencia de adju
 
 II.- Cuando se trata de donaciones y compraventas realizadas entre parientes, en línea ascendente hasta el segundo grado, descendente hasta el tercer grado cónyuges, concubinos y entre hermanos.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2016)</small>
+
+###### ARTICULO 364.
+
+Al servidor público que autorice o expida licencias, permisos, autorizaciones, constancias o dictámenes de uso de suelo, viabilidad, construcción, fraccionamiento, urbanización, conjuntos urbanos o acciones urbanas sin observar o contraviniendo el Atlas de Riesgos correspondiente o en su caso, considerar los datos geográficos que existan, se le impondrá de 3 a 6 años de prisión y multa de 700 a 1400 Unidades de Medida y Actualización vigentes, e inhabilitará para desempeñar cualquier cargo, empleo o comisión hasta por 9 años.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
+###### ARTICULO 365.
+
+A quien, en las circunstancias previstas en el artículo anterior, obtenga alguno de los documentos señalados y ejecute cualquier acción material encaminada a cumplir su objeto, se le impondrá de 7 a 14 años de prisión y multa de 1000 a 5000 Unidades de Medida y Actualización, vigentes e inhabilitará para obtener o ejercer otros de igual naturaleza, aun cuando cumplan los requisitos establecidos por la legislación correspondiente, publicándose la sentencia que al efecto se emita.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2016)</small>
+
+DISPOSICIONES COMUNES
+
+PARA LOS DELITOS COMETIDOS EN MATERIA DE PROTECCIÓN CIVIL
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
+###### ARTICULO 366.
+
+Cuando con motivo de la ejecución de acciones encaminadas a cumplir con el objeto de alguno de los documentos señalados en el artículo 364 de este Código o cumplido aquel, se ponga en peligro o cause lesión o daño a los bienes o a las personas por presentarse un agente perturbador previsto o previsible para ese lugar, la punibilidad se aumentará en dos terceras partes.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
+###### ARTICULO 367.
+
+Las penas previstas para los delitos contenidos en este Título, se impondrán con independencia de las que procedieren por otras, derivadas de los mismos hechos.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
+###### ARTICULO 368.
+
+Cualquiera de los integrantes de los Sistemas Estatal o Municipal de Protección Civil, deberá denunciar los hechos contemplados en el presente Título.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
+###### ARTICULO 369.
+
+Para lo previsto en el artículo 366, al servidor público que haya autorizado alguno de los documentos contenidos en el artículo 364 de este Código, se le considerará coparticipe del delito.
+
 ## TRANSITORIOS
 
 PRIMERO.- Este Código entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -4268,3 +4328,13 @@ El presente Decreto entra en vigor, al día siguiente de su publicación en el P
 P.O. 10 DE NOVIEMBRE DE 2014.
 
 ARTÍCULO PRIMERO Las reformas a la presente Ley entrarán en vigor a partir de las cero horas del día 18 de noviembre de 2014, conforme al Decreto número 208, promulgado por el Titular del Poder ejecutivo del Estado, de fecha 22 de agosto de 2014.
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA El INCISO H) FRACCIÓN I, DEL ARTÍCULO 60 Y ADICIONA UNA FRACCIÓN XX AL ARTÍCULO 117 DE LA LEY ORGÁNICA MUNICIPAL Y QUE ADICIONA LOS ARTÍCULOS 364, 365, 366, 367, 368 Y 369 AL CÓDIGO PENAL, AMBOS DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día 1° de octubre de 2016.
+
+SEGUNDO. Los Ayuntamientos contarán por única ocasión, con un periodo de gracia de ciento ochenta días más, para dar cumplimiento a lo ordenado en la fracción XX del artículo 117 de esta Ley.
+
+TERCERO. Los Ayuntamientos entrantes, deberán incluir una partida en su Presupuesto de Egresos, para la elaboración de su correspondiente Atlas de Riesgos.
