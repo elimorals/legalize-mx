@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-tribunal-de-justicia-administrativa-del-115706
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-06-29"
-last_updated: "2016-06-29"
+last_updated: "2016-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA DECLARATORIA DE DECRETO NÚMERO: 446 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, PUBLICADA EN LA EDICIÓN EXTRAORDINARIA DEL P.O. DE 1 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016 (ABROGADA).
 
 Ley publicada en el Número 57 Extraordinario Bis del Periódico Oficial del Estado de Quintana Roo, el miércoles 29 de junio de 2016.
 
@@ -956,3 +958,21 @@ LIC. ROBERTO BORGE ANGULO.
 SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 C. EDUARDO ROMAN QUIAN ALCOCER.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "DECLARATORIA DE DECRETO NÚMERO: 446 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo
+
+SEGUNDO. Se abroga la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Quintana Roo, emitida mediante decreto 414 de la XIV Legislatura del Estado y publicada en el Periódico Oficial del Estado de Quintana Roo número 57 Extraordinario Bis, de fecha 29 de junio de 2016.
+
+TERCERO. Se dejan sin efecto las designaciones de los Magistrados del Tribunal de Justicia Administrativa del Estado de Quintana Roo, realizadas por el Titular del Poder Ejecutivo del Estado y ratificadas por la Diputación Permanente del Segundo Receso del Tercer Año de Ejercicio Constitucional de la XIV Legislatura del Estado de Quintana Roo, mediante Declaratoria 003 publicada en el Periódico Oficial del Estado de Quintana Roo número 64 extraordinario de fecha 11 de julio de 2016.
+
+CUARTO. Se deroga el inciso g) del Artículo Segundo Transitorio; el Artículo Tercero Transitorio; y el segundo párrafo del Artículo Cuarto Transitorio, todos del Decreto 411 por el que se reforman y adicionan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Quintana Roo, mismo que fuera publicado en el Periódico Oficial del Estado, el día veinticinco de junio de dos mil dieciséis.
+
+QUINTO. La Sala Constitucional y Administrativa del Poder Judicial del Estado, seguirá conociendo en única instancia, de las resoluciones del Ministerio Público, sobre la reserva de la averiguación previa, el no ejercicio de la acción penal y las resoluciones de sobreseimiento que dicten los jueces con motivo de las peticiones de desistimiento que formule el Ministerio Público, respecto de los asuntos pendientes por substanciarse en el sistema tradicional de justicia penal, de conformidad con la Declaratoria de Incorporación del Sistema Procesal Penal Acusatorio y Oral en los ordenamientos legales del Estado Libre y Soberano de Quintana Roo, publicado en el Periódico Oficial del Estado de Quintana Roo, de fecha 6 de junio de 2014.
+
+SEXTO. Se derogan las disposiciones que se opongan al presente decreto.
