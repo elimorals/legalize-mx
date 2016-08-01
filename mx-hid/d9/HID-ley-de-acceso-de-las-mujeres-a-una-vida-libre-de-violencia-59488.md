@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2015-03-30"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -227,17 +227,19 @@ V.- Legislar a efecto de que, en los ordenamientos conducentes, se incluya como 
 
 ### CAPÍTULO II. DE LA VIOLENCIA LABORAL Y DOCENTE
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 10.
 
-La violencia laboral, es toda acción u omisión efectuada por quien ejerce jerarquía encaminada a impedir ilegalmente la contratación, limitar, desacreditar, descalificar o nulificar el trabajo realizado por las mujeres, con independencia de la discriminación de género, dentro de los que se encuentra la exigencia y presentación de certificados médicos de no embarazo; las amenazas, la intimidación, y la explotación laboral, el impedimento a las mujeres de llevar a cabo el periodo de lactancia previsto en la Ley, que afecten la permanencia, reconocimiento, salario y prestaciones de las mujeres en los espacios productivos públicos o privados.
+La violencia laboral, es toda acción u omisión efectuada por quien ejerce jerarquía encaminada a impedir ilegalmente la contratación, limitar, desacreditar, descalificar o nulificar el trabajo realizado por las mujeres, con independencia de la discriminación de género, dentro de los que se encuentra la exigencia y presentación de certificados médicos de no embarazo; preferencia sexual, las amenazas, la intimidación, y la explotación laboral, el impedimento a las mujeres de llevar a cabo el periodo de lactancia previsto en la Ley, que afecte la permanencia, reconocimiento, salario y prestaciones de las mujeres en los espacios productivos públicos o privados.
 
 ###### ARTÍCULO 11.
 
 La violencia docente es la acción u omisión por quien realice actividades de enseñanza, que impide, descalifica o manipula el desempeño de las mujeres que están en proceso formal de enseñanza-aprendizaje, que alteran las diferentes esferas y áreas de la personalidad, en especial su autoestima.
 
-También constituye violencia docente: aquellas conductas que dañen la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, académica, limitaciones o características físicas, que les infligen maestras o maestros.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
+También constituye violencia docente: aquellas conductas que dañen la autoestima de las alumnas con actos de discriminación por su sexo, preferencia sexual, edad, condición social, académica, limitaciones o características físicas, que les infligen maestras o maestros.
 
 ###### ARTÍCULO 12.
 
@@ -1160,3 +1162,9 @@ P.O. 23 DE MARZO DE 2015.
 P.O. 30 DE MARZO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 680 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE HOMBRES Y MUJERES DEL ESTADO DE HIDALGO; DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO; ASÍ COMO DE LA LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
