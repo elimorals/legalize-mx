@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-y-trato-digno-para-los-animales-en-el-44394"
 country: "mx"
 rank: "ley"
 publication_date: "2005-02-28"
-last_updated: "2015-08-10"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 28 de febrero de 2005.
 
@@ -593,9 +593,11 @@ Los animales capturados en la vía pública permanecerán bajo resguardo de los 
 
 Los animales que sean reclamados, serán esterilizados, debiendo pagar los propietarios, los costos por este concepto.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 51.
 
-Los animales que no sean reclamados por sus dueños serán sacrificados utilizando métodos humanitarios o en su caso podrán ser donados a Asociaciones Protectoras de Animales o a terceros.
+Los animales que no sean reclamados por sus dueños serán sacrificados utilizando métodos humanitarios o en su caso podrán ser donados a asociaciones protectoras de animales o a terceros, quienes podrán en coordinación con las autoridades municipales desarrollar campañas de adopción de perros y gatos, señalando en ellas, lugar, día y hora límite para la adopción; procurando dar la máxima difusión posible mediante el uso de las Tecnologías de Información y Comunicación que tuvieran a su alcance.
 
 ###### Artículo 52.
 
@@ -1018,5 +1020,11 @@ P.O. 22 DE OCTUBRE DE 2012.
 El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
 P.O. 10 DE AGOSTO DE 2015.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 689 QUE REFORMA EL ARTÍCULO 51 DE LA LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
