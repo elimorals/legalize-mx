@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-instituto-electoral-de-coahuila-113080"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-02-19"
-last_updated: "2016-02-19"
+last_updated: "2016-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY ORGANICA DEL INSTITUTO ELECTORAL DE COAHUILA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 1 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016 (ABROGADA).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 19 de febrero de 2016.
 
@@ -1326,3 +1328,19 @@ EL SECRETARIO DE GOBIERNO
 VÍCTOR MANUEL ZAMORA RODRÍGUEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 518.- CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Código Electoral del Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial el 29 de junio de 2010.
+
+TERCERO.- Se abroga la Ley Orgánica del Instituto Electoral de Coahuila, publicada en el Periódico Oficial el publicado (sic) el viernes 19 de febrero de 2016.
+
+CUARTO.- Se incorporará al patrimonio del Tribunal, el presupuesto, la totalidad de bienes, archivos y personal del Tribunal Electoral del Poder Judicial del Estado, de conformidad con lo establecido con la normatividad aplicable
+
+QUINTO.- Se derogan las disposiciones que se opongan al presente Decreto.
