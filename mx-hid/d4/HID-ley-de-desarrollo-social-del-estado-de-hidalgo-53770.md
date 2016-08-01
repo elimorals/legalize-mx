@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-social-del-estado-de-hidalgo-53770"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-29"
-last_updated: "2015-12-31"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 29 de diciembre de 2006.
 
@@ -330,6 +330,10 @@ XII.- Universalidad: La política de desarrollo social esta destinada para todos
 > <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2012)</small>
 
 XIII.- Perspectiva de género: Visión científica, analítica y política sobre las mujeres y los hombres, que se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género; que se plantea la equidad de género en el diseño y ejecución de las políticas públicas de desarrollo social.
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+XIV.- Accesibilidad: Principio cualitativo que permite que todas las personas puedan acceder de manera plena y efectiva a los programas sociales otorgadas (sic) por el gobierno, independientemente de sus cualidades intrínsecas.
 
 ###### Artículo 15.
 
@@ -709,7 +713,9 @@ I.- Participar en las instancias del Sistema Estatal de Desarrollo Social;
 
 II.- Opinar sobre la aplicación de los Programas Federales, Estatales y Municipales de desarrollo social conforme a la normatividad;
 
-III.- Proponer acciones Convenios y Programas Sociales;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+III.- Proponer acciones Convenios y Programas Sociales; así como establecer criterios para la planeación y ejecución de las políticas y programas de desarrollo social en los ámbitos regional, estatal y municipal; y que éstos sean de fácil comprensión para garantizar su accesibilidad.
 
 IV.- Analizar y proponer esquemas de financiamiento para los programas sociales y superación de la pobreza;
 
@@ -787,9 +793,11 @@ El Secretario Técnico será designado por el Presidente debiendo ser funcionari
 
 En todo momento el Titular del Poder Ejecutivo del Estado podrá presidir sesiones de los Consejos Regionales, permaneciendo el Secretario Ejecutivo y el Secretario Técnico en sus encargos.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 63.
 
-El Consejo aprobará los Reglamentos Internos de los Consejos Regionales que normarán su integración y funcionamiento.
+El Consejo aprobará los Reglamentos Internos de los Consejos Regionales que normarán su integración, funcionamiento y supervisará que los beneficiarios de los programas sociales sean quienes realmente lo necesiten.
 
 ### CAPITULO XVIII. DE LA PARTICIPACION SOCIAL
 
@@ -990,3 +998,9 @@ P.O. 31 DE DICIEMBRE DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- Se deroga cualquier disposición que se oponga al contenido del presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 683 QUE REFORMA LOS ARTÍCULOS 55 FRACCIÓN III; 63; Y ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 14, DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
