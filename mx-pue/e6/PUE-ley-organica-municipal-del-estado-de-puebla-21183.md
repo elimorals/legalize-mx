@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2016-03-16"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1837,9 +1837,9 @@ V.- De Salubridad y Asistencia Pública;
 
 VI.- De Educación Pública y Actividades Culturales, Deportivas y Sociales;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
 
-VII.- De Grupos Vulnerables y Juventud;
+VII.- De Grupos Vulnerables, Personas con Discapacidad y Juventud;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -3876,3 +3876,11 @@ SEGUNDO. La Secretaría General de Gobierno emitirá las disposiciones reglament
 TERCERO. Las autoridades municipales que coadyuven con la prestación del servicio a que se refiere este Decreto, deberán acreditar la capacitación necesaria en términos de los lineamientos que emita la Secretaría General de Gobierno, así como de la convocatoria y demás disposiciones administrativas aplicables.
 
 CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 96 DE LA LEY ORGÁNICA MUNICIPAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
