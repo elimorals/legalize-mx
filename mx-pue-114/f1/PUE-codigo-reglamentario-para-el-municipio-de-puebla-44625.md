@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2016-03-30"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -33923,15 +33923,23 @@ Los Consejos de Premiación, tendrán las siguientes atribuciones:
 
 I. Fijar las condiciones y términos para el otorgamiento del Premio;
 
-II. Formular y turnar a la Secretaría del Ayuntamiento la convocatoria para otorgar el Premio;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+II. Emitir la convocatoria para la entrega del Premio en la fecha que determinen, debiendo turnarla a la Secretaria del Ayuntamiento;
 
 III. Recibir y registrar candidaturas con sus respectivos expedientes, por conducto de la Secretaría del Ayuntamiento;
 
 IV. Analizar de manera individual las propuestas recibidas, para estar en posibilidad de emitir una resolución;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 1 DE AGOSTO DE 2016)</small>
+
 V. Llevar estricto control de los expedientes de los candidatos a recibir dicho Premio;
 
-VI. La Secretaría del Ayuntamiento deberá turnar al área operativa correspondiente, encargada de la elaboración del premio y logística del Acto Protocolario o Sesión Solemne; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+VI. Turnar a la Secretaría del Ayuntamiento la determinación del o los ganadores para que se realice la elaboración del premio y logística del Acto Protocolario o Sesión Solemne, en términos de lo establecido por el Consejo de Premiación, y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 1 DE AGOSTO DE 2016)</small>
 
 VII. Las demás necesarias para el cumplimiento de sus funciones.
 
@@ -34017,11 +34025,13 @@ El Premio al Mérito Civil, será entregado a las personas promotoras de obras d
 
 El Premio al Mérito Civil, consistirá en una placa que contenga el grabado del Escudo de la Ciudad, con la respectiva leyenda "Premio al Mérito Civil".
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 2294.
 
-Dicho premio será otorgado al Ciudadano que resulte ganador en la selección que para el efecto realice el Consejo de Premiación, en Sesión Solemne de Cabildo que se señale en el mes de abril, en el marco de los festejos de la Fundación de la Ciudad de Puebla. La convocatoria deberá ser publicada en la segunda quincena del mes de febrero.
+Dicho premio será otorgado al Ciudadano que resulte ganador en la selección que para el efecto realice el Consejo de Premiación, en Sesión Solemne de Cabildo, por acuerdo del Consejo de Premiación.
+
+La convocatoria deberá ser publicada preferentemente en el mes de febrero o cuando el Consejo de Premiación lo determine.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
@@ -34067,11 +34077,13 @@ I. Diploma en Salud Municipal en su categoría de persona física denominado "Dr
 
 II. Diploma en Salud Municipal en su categoría de persona moral denominado "Dr. Jesús Manuel de la Fuente".
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 2299.
 
-El Premio Anual en Salud Municipal, será entregado en Acto Protocolario de Cabildo durante la primera quincena del mes de abril de cada año, dentro de los actos conmemorativos del aniversario de la fundación de la Organización Mundial de la Salud en 1948. La convocatoria deberá ser emitida durante la segunda quincena del mes de febrero.
+El Premio Anual en Salud Municipal, será entregado en Acto Protocolario, por acuerdo del Consejo de Premiación, preferentemente, dentro de los actos conmemorativos del aniversario de la fundación de la Organización Mundial de la Salud en 1948.
+
+La convocatoria deberá (sic) emitida, preferentemente, durante el mes de febrero o cuando el Consejo de Premiación lo determine.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
@@ -34109,11 +34121,13 @@ II. El troquel (modelo único), será elaborado por su frente con el Escudo de l
 
 III. Por su reverso, el troquel con el que se elabore la medalla, presentará el rostro del General Ignacio Zaragoza y el lema "Las Armas Nacionales se han cubierto de Gloria".
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 2303.
 
-El premio "Presea Puebla de Zaragoza" será entregada (sic) por el Ayuntamiento de Puebla, a través del Presidente Municipal, el día cinco de mayo de cada año, en Sesión Solemne de Cabildo, en el marco de los festejos realizados con motivo de la celebración de la "Batalla del 5 de Mayo". La convocatoria deberá ser emitida a más tardar en la segunda quincena del mes de marzo.
+El premio "Presea Puebla de Zaragoza" será entregada por el Ayuntamiento de Puebla, a través del Presidente Municipal, en Sesión Solemne de Cabildo, preferentemente, en el marco de los festejos realizados con motivo de la celebración de la "Batalla del 5 de Mayo", por acuerdo del Consejo de Premiación.
+
+La convocatoria deberá ser emitida, preferentemente, en el mes de marzo o cuando el Consejo de Premiación lo determine.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
@@ -34129,11 +34143,11 @@ III. Dos Regidores integrantes de la Comisión o Comisiones permanentes del Ayun
 
 IV. El Coordinador del Consejo de la Crónica de la Ciudad de Puebla, con voz, pero sin voto.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 2305.
 
-El Consejo de Premiación, sesionará en forma permanente y privada, en el recinto que para tal efecto designen los integrantes de la misma, debiendo ser dentro de los primeros días del mes de marzo, días en que se tendrá que elaborar, para su publicación, la respectiva convocatoria y será hasta el mes de abril, cuando tengan que tomar la decisión del ganador.
+El Consejo de Premiación, sesionará en forma permanente y privada, en el recinto que para tal efecto designen los integrantes de la misma.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
@@ -34157,11 +34171,13 @@ a) A personas de entre 6 y 12 años; y
 
 b) A personas de entre 13 y 29 años.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 2308.
 
-El Premio Municipal de la Juventud, consistirá en un Diploma por su actividad destacada en el ámbito de la juventud, el cual será entregado en el mes de agosto de cada año, en Acto Protocolario de Cabildo. La convocatoria deberá darse a conocer en el mes de junio.
+El Premio Municipal de la Juventud, consistirá en un diploma por su actividad destacada en el ámbito de la juventud, el cual será entregado en Acto Protocolario, por acuerdo del Consejo de Premiación.
+
+La convocatoria deberá darse a conocer en el mes de junio o cuando el Consejo de Premiación lo determine.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
@@ -34203,11 +34219,13 @@ DEL PREMIO MUNICIPAL "NATALIA SERDÁN"
 
 El Premio Municipal "Natalia Serdán" constituye un reconocimiento que otorga el Ayuntamiento de Puebla a las mujeres mayores de dieciocho años que sobresalgan por su iniciativa o trabajo desarrollado con el objeto de promover y apoyar el ejercicio pleno de los derechos humanos de las mujeres y la igualdad de género y/o por haber realizado alguna contribución significativa en el campo de la ciencia, en el Municipio de Puebla.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 2312.
 
-A la ganadora del Premio Municipal "Natalia Serdán", se le reconocerá mediante el otorgamiento de un Diploma el cual será entregado en el mes de marzo de cada año, en Acto Protocolario de Cabildo, en el marco de la conmemoración del Día Internacional de la Mujer. La convocatoria se dará a conocer en la segunda quincena del mes de enero.
+A la ganadora del Premio Municipal "Natalia Serdán", se le reconocerá mediante el otorgamiento de un Diploma el cual será entregado en Acto Protocolario, por acuerdo del Consejo de Premiación, preferentemente, en el marco de la conmemoración del Día Internacional de la Mujer.
+
+La convocatoria se dará a conocer, preferentemente en el mes de enero o cuando el Consejo de Premiación lo determine.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
@@ -34247,11 +34265,13 @@ DEL PREMIO MUNICIPAL DEL DEPORTE
 
 El Premio Municipal del Deporte, será entregado a las y los deportistas y entrenadores poblanos que sobresalgan en las diferentes disciplinas deportivas por su conducta y dedicación, considerándoles como un ejemplo alentador para el resto de los deportistas y entrenadores mexicanos.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 2316.
 
-El Premio Municipal del Deporte, consistirá en un Diploma el cual se entregará cada año en el mes de noviembre, en acto protocolario de Cabildo. La convocatoria será dada a conocer durante el mes de septiembre.
+El Premio Municipal del Deporte, consistirá en un Diploma el cual se entregará en Acto Protocolario, por acuerdo del Consejo de Premiación.
+
+La convocatoria deberá darse a conocer, preferentemente, durante el mes de septiembre o cuando el Consejo de Premiación lo determine.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2013)</small>
 
@@ -34319,11 +34339,13 @@ f) Educación Especial; y
 
 g) Jubilados.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 2320.
 
-El premio al "Mérito Docente", consistirá en un Diploma el cual será entregado durante el mes de junio de cada año, en Acto Protocolario de Cabildo. La convocatoria deberá publicarse, durante el mes de mayo de cada año.
+El premio al "Mérito Docente" consistirá en un diploma el cual será entregado en Acto Protocolario, por acuerdo del Consejo de Premiación.
+
+La convocatoria deberá publicarse, preferentemente durante el mes de mayo o cuando el Consejo de Premiación lo determine.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
@@ -34347,11 +34369,13 @@ DEL PREMIO AL "MÉRITO EMPRESARIAL" Y "MÉRITO EMPRENDEDOR"
 
 El Premio al "Mérito Empresarial", será otorgado a aquellas empresas que por sus actividades contribuyen al desarrollo económico, generación de empleo y posicionamiento nacional e internacional del Municipio de Puebla.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 2323.
 
-El Premio al "Mérito Empresarial", consistirá en un diploma por su actividad destacada en el ámbito empresarial, el cual será entregado durante el mes de noviembre de cada año, en Acto Protocolario de Cabildo. La convocatoria será emitida durante la primera quincena del mes de octubre.
+El Premio al "Mérito Empresarial", consistirá en un diploma por su actividad destacada en el ámbito empresarial, el cual será entregado en Acto Protocolario, por acuerdo del Consejo de Premiación.
+
+La convocatoria será emitida durante la primera quincena del mes de octubre o cuando el Consejo de Premiación lo determine.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
@@ -34443,11 +34467,13 @@ IV. Los demás requisitos que a juicio del Consejo de Premiación, estime conven
 
 El Premio al Mérito Emprendedor se otorga a las personas físicas o morales, de nacionalidad mexicana, que son referentes nacionales por sus ideas y emprendimientos considerados valiosos, relevantes e innovadores; así como a las instituciones ejemplares en el impulso del ecosistema emprendedor, que respaldan la actividad emprendedora e innovadora, para la generación de empleo, el impulso de la productividad y en suma, la competitividad del país.
 
-> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 2328 Ter.
 
-El Premio al "Mérito Emprendedor", consistirá en un diploma por su actividad destacada en el ámbito emprendedor, el cual será entregado durante el mes de abril de cada año, en Acto Protocolario de Cabildo. La convocatoria será emitida durante el mes de marzo.
+El Premio al "Mérito Emprendedor", consistirá en un diploma por su actividad destacada en el ámbito emprendedor, el cual será entregado en Acto Protocolario, por acuerdo del Consejo de Premiación.
+
+La convocatoria será emitida durante el mes de marzo o cuando el Consejo de Premiación lo determine.
 
 > <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2015)</small>
 
@@ -34535,11 +34561,13 @@ Se instituye el Premio al "Mérito Laboral" como un galardón otorgado a aquello
 
 Bajo ninguna circunstancia podrán recibir dicho Premio, los Funcionarios Públicos Municipales o Estatales de cualquier nivel, mientras se encuentren en el desempeño de sus funciones.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 2330.
 
-El Premio al "Mérito Laboral", consistirá en un Diploma, que acredite haber recibido dicho galardón y el cual será signado por el Presidente Municipal y por el Secretario del Ayuntamiento, entregado durante la primera semana del mes de mayo de cada año, con motivo de la celebración del día internacional del trabajo, en Acto Protocolario de Cabildo. La convocatoria deberá ser publicada durante la segunda quincena del mes de marzo de cada año.
+El Premio al "Mérito Laboral", consistirá en un diploma, que acredite haber recibido dicho galardón y el cual será signado por el Presidente Municipal y por el Secretario del Ayuntamiento, entregado con motivo de la celebración del día internacional del trabajo, en Acto Protocolario, por acuerdo del Consejo de Premiación.
+
+La convocatoria deberá ser publicada, preferentemente, durante la segunda quincena del mes de marzo de cada año o cuando el Consejo de Premiación lo determine.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
@@ -34647,11 +34675,13 @@ c) Inclusión laboral o educativa. Se otorga a una empresa o institución que ge
 
 d) Medios de Comunicación e Imagen Social. Que generen una imagen positiva de las personas con discapacidad, colaborando en la generación de una cultura de respeto e inclusión.
 
-> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 2335 Quáter.
 
-El Premio al "Compromiso por la inclusión de las personas con discapacidad: María Eugenia Antúnez Farrugia", consistirá en un diploma, el cual será entregado en la primera quincena del mes de diciembre de cada año, en Acto Protocolario de Cabildo. La convocatoria deberá ser emitida al menos un mes antes de la premiación.
+El Premio al "Compromiso por la inclusión de las personas con discapacidad: María Eugenia Antúnez Farrugia", consistirá en un diploma, el cual será entregado en Acto Protocolario, por acuerdo del Consejo de Premiación.
+
+La convocatoria deberá ser emitida al menos un mes antes de la premiación o cuando el Consejo de Premiación lo determine.
 
 > <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2014)</small>
 
@@ -34677,13 +34707,15 @@ DEL PREMIO MUNICIPAL DE INVESTIGACIÓN HISTÓRICA: “HUGO LEICHT”
 
 ###### Artículo 2335 Sexies.
 
-El Premio Municipal de Investigación Histórica: “Hugo Leicht” será entregado a aquellas personas que hayan realizado alguna investigación histórica del Municipio de Puebla.
+El Premio Municipal de Investigación Histórica: "Hugo Leicht" será entregado a aquellas personas que hayan realizado alguna investigación histórica del Municipio de Puebla.
 
-> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 2335 Septies.
 
-El Premio Municipal de Investigación Histórica consistirá en un diploma, el cual será entregado durante el mes de abril de cada año, en Acto Protocolario de Cabildo. La convocatoria será emitida durante el mes de marzo.
+El Premio Municipal de Investigación Histórica consistirá en un diploma, el cual será entregado en Acto Protocolario, por acuerdo del Consejo de Premiación.
+
+La convocatoria será emitida cuando el Consejo de Premiación lo determine.
 
 > <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2015)</small>
 
@@ -35992,6 +36024,14 @@ P.O. 30 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 18 DE MARZO DE 2016, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS REGIDORES INTEGRANTES DE LA COMISIÓN DE TURISMO, ARTE Y CULTURA, POR EL QUE APRUEBA QUE EL PREMIO MUNICIPAL DE INVESTIGACIÓN HISTÓRICA LLEVE EL NOMBRE DE HUGO LEICHT”.]
 
 ÚNICO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+P.O. 1 DE AGOSTO DE 2016.
+
+PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+TERCERO. Por única ocasión, el Consejo de Premiación correspondiente, determinará lo procedente respecto de las convocatorias que se encuentren en proceso, así como de la entrega de los Premios.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA”.]
 
