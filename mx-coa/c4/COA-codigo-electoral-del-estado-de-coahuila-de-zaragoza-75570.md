@@ -4,7 +4,7 @@ identifier: "COA-codigo-electoral-del-estado-de-coahuila-de-zaragoza-75570"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-06-29"
-last_updated: "2016-02-19"
+last_updated: "2016-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # CODIGO ELECTORAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 1 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO ELECTORAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016 (ABROGADO).
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el martes 29 de junio de 2010.
 
@@ -3331,7 +3333,7 @@ a) Fijar los criterios para la realización de las auditorías, procedimientos, 
 
 b) Establecer las normas, procedimientos, métodos y sistemas de contabilidad y de archivo, de los libros y documentos justificativos y comprobatorios del ingreso y del gasto, así como aquellos elementos que permitan la práctica idónea de las auditorías y revisiones, que realice en el cumplimiento de sus funciones;
 
-concluídos; (sic)
+concluídos;
 
 d) (sic) Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Instituto;
 
@@ -3524,3 +3526,17 @@ Así mismo, se encargará de los asuntos que, en todo caso, sean delegados por e
 CUARTO. El Consejo General del Instituto Electoral de Coahuila deberá expedir los reglamentos necesarios para hacer efectivas las disposiciones de la presente ley dentro de los siguientes 60 días naturales después de su entrada en vigor.
 
 QUINTO. El Congreso del Estado contará con un plazo no mayor a 30 días naturales contados a partir de la entrada en vigor del presente Decreto para designar a quien se desempeñará como contralor del Instituto.
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 518.- CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Código Electoral del Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial el 29 de junio de 2010.
+
+TERCERO.- Se abroga la Ley Orgánica del Instituto Electoral de Coahuila, publicada en el Periódico Oficial el publicado (sic) el viernes 19 de febrero de 2016.
+
+CUARTO.- Se incorporará al patrimonio del Tribunal, el presupuesto, la totalidad de bienes, archivos y personal del Tribunal Electoral del Poder Judicial del Estado, de conformidad con lo establecido con la normatividad aplicable
+
+QUINTO.- Se derogan las disposiciones que se opongan al presente Decreto.
