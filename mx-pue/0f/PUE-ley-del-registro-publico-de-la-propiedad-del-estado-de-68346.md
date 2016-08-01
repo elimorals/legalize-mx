@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-registro-publico-de-la-propiedad-del-estado-de-68346"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-15"
-last_updated: "2016-02-02"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de abril de 2009.
 
@@ -85,13 +85,21 @@ IX. Registro: El Registro Público de la Propiedad del Estado de Puebla;
 
 X. Reglamento: El Reglamento de la Ley del Registro Público de la Propiedad del Estado de Puebla;
 
-XI. Secretaría: La Secretaría de Finanzas y Administración del Gobierno del Estado de Puebla;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XII. Secretario: El Secretario de Finanzas y Administración del Estado de Puebla; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2016)</small>
+XI. Secretaría: La Secretaría General de Gobierno del Gobierno del Estado de Puebla;
 
-XIII. Subsecretario: El Subsecretario de Ingresos de la Secretaría de Finanzas y Administración.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+XII. Secretario: El Secretario General de Gobierno del Estado de Puebla, y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+XIII. (DEROGADA, P.O. 1 DE AGOSTO DE 2016)
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
 
@@ -287,11 +295,13 @@ XXII. Notificar los actos administrativos que emitan las autoridades registrales
 
 XXIII. Las demás que le sean conferidas por éste u otros ordenamientos.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2016)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 12.
 
-Los Registradores Públicos serán nombrados por el Director General, previo acuerdo con el Subsecretario y con sujeción a los procedimientos, planes o programas que al efecto se establezcan para la profesionalización y capacitación del personal del Instituto.
+Los Registradores Públicos serán nombrados por el Director General, previo acuerdo con el Secretario y con sujeción a los procedimientos, planes o programas que al efecto se establezcan para la profesionalización y capacitación del personal del Instituto.
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
@@ -1324,3 +1334,25 @@ P.O. 2 DE FEBRERO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA; DE LA LEY DE CATASTRO DEL ESTADO DE PUEBLA Y DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los sesenta días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Para el cumplimiento de este Decreto, el Ejecutivo Estatal, a través de las instancias competentes, podrá reorganizar la estructura de las Dependencias, así como crear, fusionar, escindir o disolver las unidades administrativas necesarias, realizando las adecuaciones presupuestales de conformidad con lo estipulado en la Ley de Egresos del Estado de Puebla para el ejercicio fiscal que corresponda.
+
+TERCERO. La Secretaría de la Contraloría coordinará la transferencia de los recursos humanos, materiales y financieros, así como del acervo documental existente, hacia las Dependencias que ejercerán las atribuciones para las que fueron originalmente asignados.
+
+CUARTO. Cuando alguna unidad administrativa pase de una Dependencia a otra, con motivo de lo establecido en el presente Decreto, la transferencia se realizará incluyendo los recursos humanos que sean necesarios, así como los financieros y materiales que la unidad administrativa haya utilizado para la atención de los asuntos que conoció.
+
+QUINTO. Los asuntos en trámite, así como los juicios, recursos y procedimientos que con motivo de la entrada en vigor de este Decreto deban pasar de una Dependencia a otra, continuarán tramitándose por las unidades administrativas de origen hasta que se formalice la transferencia correspondiente, en términos de este Decreto.
+
+SEXTO. Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto pasen de una Dependencia a otra, se respetarán en términos de las disposiciones legales aplicables.
+
+SÉPTIMO. El Ejecutivo del Estado dentro los noventa días naturales siguientes a la entrada en vigor del presente Decreto, realizará las modificaciones a los Reglamentos Interiores de las Dependencias correspondientes.
+
+En tanto no se realicen las reformas a que se refiere el párrafo anterior, las Dependencias señaladas en este Decreto, seguirán aplicando los reglamentos vigentes en todo aquello que no la contravengan.
+
+OCTAVO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por la presente Ley.
