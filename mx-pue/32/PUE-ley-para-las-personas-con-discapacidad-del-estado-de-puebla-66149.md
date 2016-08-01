@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-las-personas-con-discapacidad-del-estado-de-puebla-661
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-12"
-last_updated: "2015-12-31"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 12 de enero de 2009.
 
@@ -647,9 +647,11 @@ V.- Equipo.
 
 La Comisión Estatal Coordinadora, promoverá programas de becas para la participación de la persona con discapacidad en la cultura deportiva nacional e internacional, así como organizar encuentros deportivos en las diversas zonas del Estado, en los que otorgará premios e incentivos a los equipos ganadores en las diversas áreas del deporte.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 55.
 
-Para fomentar la capacidad creativa, artística e intelectual de las personas con discapacidad, así como la formación de grupos de lectura, teatro, análisis del cine, apreciación musical y canto, pintura y demás actividades culturales recreativas y artísticas, la Comisión Estatal Coordinadora favorecerá y promoverá incentivos, becas y lo necesario para el cumplimiento de este objetivo.
+La Comisión Estatal Coordinadora fomentará y promoverá el derecho de las personas con discapacidad a la cultura, la recreación, así como el desarrollo de sus capacidades intelectuales y el ejercicio de sus derechos de propiedad intelectual. De igual forma se favorecerá y promoverá incentivos, becas y lo necesario para el cumplimiento de este objetivo.
 
 ###### Artículo 56.
 
@@ -836,5 +838,13 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 31 DE DICIEMBRE DE 2015.
 
 PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 55 DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
