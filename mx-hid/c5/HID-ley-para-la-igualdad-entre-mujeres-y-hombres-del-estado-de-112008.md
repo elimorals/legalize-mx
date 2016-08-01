@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1120
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2015-12-31"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2015.
 
@@ -97,9 +97,11 @@ En lo no previsto en esta ley, se aplicarán en forma supletoria y en lo conduce
 
 La rectoría y operación de la política en materia de igualdad sustantiva en el Estado, estará a cargo del Ejecutivo Estatal, quien la ejercerá por medio del Instituto Hidalguense de las Mujeres, sujetándose a las disposiciones de la presente ley, en clara concordancia con la legislación nacional de la materia y los instrumentos internacionales suscritos y ratificados por el Estado Mexicano.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 5.
 
-Son sujetos de los derechos que establece esta ley, las mujeres y los hombres que se encuentren en territorio del estado de Hidalgo, que por razón de su sexo, independientemente de su edad, estado civil, profesión, cultura, origen étnico o nacional, condición social, salud, religión, opinión o discapacidad, se encuentren con algún tipo de desventaja ante la violación del principio de igualdad que esta ley tutela.
+Son sujetos de los derechos que establece esta ley, las mujeres y los hombres que se encuentren en territorio del Estado de Hidalgo, que por razón de su sexo, independientemente de su edad, estado civil, profesión, cultura, origen étnico o nacional, condición social, salud, creencia religiosa, opinión, preferencias sexuales o discapacidad, se encuentren con algún tipo de desventaja ante la violación del principio de igualdad que esta ley tutela.
 
 La trasgresión a los principios y programas que la misma prevé será sancionada de acuerdo a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo y las otras que regulen esta materia.
 
@@ -253,9 +255,13 @@ V. Promover la igualdad entre mujeres y hombres en la vida civil;
 
 VI. Promover la eliminación de estereotipos establecidos en función del sexo;
 
-VII. Adoptar las medidas necesarias para la erradicación de la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
 
-VIII. El establecimiento de medidas que aseguren la corresponsabilidad en el trabajo y la vida personal y familiar de las mujeres y hombres;
+VII. Adoptar las medidas necesarias para la erradicación de la violencia de género.
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+VIII. El establecimiento de medidas que aseguren la corresponsabilidad en el trabajo y la vida personal y familiar de las mujeres y hombres; promoviendo la integración del principio de igualdad de trato y de oportunidades, con el fin de evitar la segregación laboral y eliminar diferencias remuneratorias.
 
 IX. La utilización de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales;
 
@@ -636,3 +642,17 @@ EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONST
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS VEINTITRÉS DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL QUINCE.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, LIC. JOSÉ FRANCISCO OLVERA RUIZ.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 680 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE HOMBRES Y MUJERES DEL ESTADO DE HIDALGO; DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO; ASÍ COMO DE LA LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 682 QUE REFORMA LAS FRACCIONES VII Y VIII DEL ARTÍCULO 15 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO"]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
