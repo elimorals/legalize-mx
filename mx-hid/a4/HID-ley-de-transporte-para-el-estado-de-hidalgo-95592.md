@@ -4,7 +4,7 @@ identifier: "HID-ley-de-transporte-para-el-estado-de-hidalgo-95592"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-29"
-last_updated: "2015-08-13"
+last_updated: "2016-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TRANSPORTE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
 
 Ley publicada en Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 29 de julio de 2013.
 
@@ -185,7 +185,7 @@ XLVI. PARADOR. Lugar concesionado por el Organismo del Transporte Convencional, 
 
 XLVII. PERMISO. Es la facultad que otorga el Estado a una persona física o moral, para que pueda prestar los servicios de transporte señalados en esta Ley, siempre que estos no sean materia de concesión;
 
-XLVIII.RED (SIC) INTEGRADA DE TRANSPORTE. Conjunto formado por una o más rutas Troncales y Alimentadoras del Servicio Público de Transporte Masivo de Pasajeros, las cuales, previo estudio y dictamen técnico, se ubican en una poligonal determinada por el organismo del Transporte Masivo, la cual es directamente operada por éste para que sus servicios cotidianos sean definidos, dirigidos, coordinados y controlados por el Centro General de Gestión de Operaciones, o que es concesionada a un tercero con tal finalidad;
+XLVIII.RED INTEGRADA DE TRANSPORTE. Conjunto formado por una o más rutas Troncales y Alimentadoras del Servicio Público de Transporte Masivo de Pasajeros, las cuales, previo estudio y dictamen técnico, se ubican en una poligonal determinada por el organismo del Transporte Masivo, la cual es directamente operada por éste para que sus servicios cotidianos sean definidos, dirigidos, coordinados y controlados por el Centro General de Gestión de Operaciones, o que es concesionada a un tercero con tal finalidad;
 
 XLIX. REMOLQUE. Vehículo con eje delantero y trasero no dotado de medios de propulsión y destinado a ser arrastrado por un vehículo automotor o acoplado a un semi-remolque;
 
@@ -485,9 +485,13 @@ XVII. Por operar la unidad sin tarjeta de circulación, o sin que esta correspon
 
 XVIII. Por carecer de seguro, o por operar con el seguro vencido;
 
-XIX. Cuando el conductor del vehículo carezca del Tarjetón respectivo, o bien porque el mismo no se encuentre vigente;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
 
-XX. Cuando el conductor esté operando un vehículo de características diferentes al señalado en el Tarjetón;
+XIX. Cuando el conductor del vehículo carezca del Tarjetón respectivo, o porque el mismo no se encuentre vigente, o bien porque no se encuentre visible a los usuarios;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+XX. Cuando el conductor esté operando un vehículo de características diferentes al señalado en el Tarjetón; o bien cuando el conductor que esté operando el vehículo no sea la persona identificada en el Tarjetón;
 
 XXI. Cuando el conductor se encuentre bajo los efectos de bebidas etílicas, o bien cuando pudiera estar bajo los efectos de cualquier tipo de drogas o enervantes, aún bajo prescripción médica; esto, siempre que cualquiera de los supuestos mencionados se corroboren y confirmen con la certificación médico-legal respectiva;
 
@@ -1542,6 +1546,12 @@ El servicio Metropolitano debe operarse en vehículos de acuerdo al año modelo 
 Tomando en consideración el emplazamiento de los sitios, en las zonas urbanas y suburbanas dicho servicio se prestará en unidades con una antigüedad no mayor a diez años; en tanto que en las zonas rurales la antigüedad de los vehículos se determinará mediante el estudio respectivo, sin que por ningún motivo los vehículos que ingresen o presten el servicio puedan exceder de los diez años de antigüedad.
 
 Los vehículos destinados al Servicio Público de Transporte Individual, solamente podrán realizar el ascenso de pasajeros en el lugar preestablecido.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
+###### Artículo 115 Bis.
+
+El Instituto Hidalguense de las Mujeres y el Instituto Estatal de Trasporte, concertaran acciones de capacitación en perspectiva de género y derechos humanos de las mujeres, que favorezcan la seguridad y el derecho a una vida libre de violencia en el Estado de Hidalgo.
 
 ### CAPÍTULO IV. DEL SERVICIO PRIVADO DE TRANSPORTE DE PERSONAS Y BIENES Y DE SUS MODALIDADES
 
@@ -4136,3 +4146,9 @@ P.O. 13 DE AGOSTO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 687 QUE REFORMA LA FRACCIÓN XIX Y XX DEL ARTÍCULO 23; Y ADICIONA EL ARTÍCULO 115 BIS, A LA LEY DE TRANSPORTE PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
