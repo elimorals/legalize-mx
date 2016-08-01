@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-procedimientos-penales-para-el-estado-de-hidalgo-5391
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2015-05-18"
+last_updated: "2016-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ NOTA 1. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO NÚM. 208, PUBLICA
 
 NOTA 2. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO NÚM. 429, PUBLICADO EN EL P.O. DE 18 DE MAYO DE 2015, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO DE MANERA PROGRESIVA Y GRADUAL, SALVO EN LO RELATIVO AL SISTEMA DE JUSTICIA INTEGRAL PARA ADOLESCENTES, LA EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS PARA ADOLESCENTES EN TÉRMINOS DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE HIDALGO REFORMADA, ASÍ COMO LA LEY PROCESAL DE SANCIONES PENALES Y MEDIDAS PARA ADOLESCENTES DEL ESTADO DE HIDALGO, HASTA EN TANTO ENTRE EN VIGOR LA NUEVA LEGISLACIÓN NACIONAL EN ESTA MATERIA, EN EL RESTO DE LOS DISTRITOS JUDICIALES DEL ESTADO DE HIDALGO, CONFORME VAYA INICIANDO SU VIGENCIA EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN TÉRMINOS DE ESTE DECRETO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990
 
@@ -4249,6 +4249,106 @@ Una vez lograda la desintoxicación o deshabituación del inculpado, se asentar�
 
 Las resoluciones que se dicten con motivo del tratamiento de desintoxicación o deshabituación, no admitirán recurso alguno. Los que se dicten con motivo del procedimiento penal admitirán los recursos que establece este Código.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2016)</small>
+
+## TITULO SEPTIMO. SENTENCIA ANTICIPADA
+
+(NOTA: EL 26 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 75/2016 DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 31 DE AGOSTO DE 2016 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
+###### ARTICULO 497.
+
+Después de dictado auto de formal prisión o de sujeción a proceso y hasta antes de dictarse sentencia definitiva, el Ministerio Público podrá solicitar al juez de la causa la emisión de la sentencia anticipada, esto en los casos en los que el procesado acepte, debidamente informado, su plena responsabilidad penal en el delito o delitos que se le atribuyen; no exista oposición de la víctima u ofendido, y se halle debidamente garantizada la reparación del daño.
+
+La oposición expresa de la víctima u ofendido, aun infundada, será impedimento para que se admita a trámite la solicitud de la sentencia anticipada o para que se autorice la misma. Sólo en los casos en donde se trate de delitos en donde no se haya victimizado a persona física alguna con la conducta que haya sido tipificada, la víctima estará representada por el Ministerio Público, para efectos de este Título.
+
+(NOTA: EL 26 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 75/2016, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 31 DE AGOSTO DE 2016 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
+###### ARTICULO 498.
+
+A la solicitud de sentencia anticipada, el Ministerio Público deberá acompañar el escrito en el que especifique la acusación, al tenor de lo previsto en el artículo 426 de este Código, y solicitará la aplicación de las penas y medidas de seguridad que estime procedentes, así como el monto de reparación del daño. Al efecto, el Ministerio Público podrá solicitar la reducción de la pena de prisión en los siguientes términos:
+
+a. De hasta una mitad de la pena mínima en los casos de delitos dolosos y hasta dos terceras partes de la pena mínima en el caso de delitos culposos, esto cuando el procesado no ha sido previamente condenado por delito doloso y el delito por el cual se solicita la sentencia anticipada tenga prevista, incluidas las atenuantes o agravantes, una pena de prisión cuya media aritmética no exceda de cinco años, o
+
+b. De hasta un tercio de la mínima en los casos de delitos dolosos y hasta en una mitad de la mínima en el caso de delitos culposos, en cualquier otro caso.
+
+Si al momento de esta solicitud ya existiere acusación formulada, la misma quedaría modificada en los términos de la acusación que se hace con la solicitud de sentencia anticipada, desde luego, a reserva de lo que se resuelva ulteriormente, según lo previsto en el artículo 501 de este Código.
+
+De igual manera, a la solicitud de sentencia anticipada, el Ministerio Público deberá acompañar autorización del superior jerárquico que al efecto designe el Procurador General de Justicia en el Estado.
+
+En su caso, también se podrá acompañar a la solicitud la conformidad por escrito de la víctima u ofendido con la solicitud de la sentencia anticipada, misma que deberá establecer con toda claridad que la víctima u ofendido conoce los derechos que la ley le confiere; el contenido y los alcances de emisión de la sentencia anticipada; el derecho que tiene a oponerse a la solicitud de sentencia anticipada, y el contenido y los términos de la solicitud de sentencia anticipada.
+
+Si no se presenta dicha conformidad, el juez mandará hacer saber a la víctima u ofendido los derechos que la ley le confiere; el contenido y los alcances de la emisión de la sentencia anticipada; el derecho que tiene a oponerse a la solicitud de sentencia anticipada; el contenido de la solicitud de sentencia anticipada, y el contenido del escrito del Ministerio Público en el que se especifica la acusación, se hace la solicitud de aplicación de penas y medidas de seguridad y se precisa el monto de reparación del daño. En delitos de víctima u ofendido de carácter abstracto, se entenderá que la víctima u ofendido están representados por el Ministerio Público.
+
+(NOTA: EL 26 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 75/2016, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 31 DE AGOSTO DE 2016 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
+###### ARTICULO 499.
+
+Colmados los requisitos para la solicitud, el juez fijará día y hora, dentro de los cinco días siguientes, para la celebración de una audiencia, con citación del procesado y su defensor, el Ministerio Público y la víctima u ofendido. La incomparecencia injustificada de la víctima u ofendido no impedirá que se celebre la audiencia ni que se resuelva sobre la solicitud de emisión de la sentencia anticipada.
+
+Cuando comparezca la víctima u ofendido, el juez deberá verificar que la víctima u ofendido tiene conocimiento de los derechos que la ley le confiere y de todo lo previsto en el párrafo final del artículo 497 de este Código. De ser el caso, la víctima u ofendido, en compañía de su asesor jurídico, ratificará la conformidad con la solicitud de la sentencia anticipada que por escrito hubiese presentado o formulará verbalmente dicha conformidad.
+
+Ante la ausencia injustificada de la víctima u ofendido, el juzgador deberá verificar rigurosamente que se hizo la citación pertinente y que se procedió efectivamente conforme con lo previsto en el párrafo quinto del artículo 497 de este Código.
+
+Si notificada debidamente, la víctima u ofendido no comparece a hacer oposición alguna, ni la formula por escrito hasta antes que se emita la sentencia correspondiente, tal omisión no se considerará como una oposición para los efectos de este Título.
+
+El juzgador deberá verificar que el procesado está debidamente informado de todos los derechos que la ley le confiere y, en especial, del contenido y los alcances de la emisión de la sentencia anticipada; del contenido y términos concretos de la solicitud de sentencia anticipada.
+
+El procesado deberá expresamente manifestar que renuncia al procedimiento ordinario; que consiente libremente la aplicación de una sentencia anticipada; que admite su plena responsabilidad en el delito o delitos que se le imputan, y que acepta ser sentenciado con base en los medios de prueba que alude el Ministerio Público al especificar la acusación.
+
+En esta audiencia, el procesado, el defensor, el Ministerio Público, la víctima u ofendido y el asesor jurídico podrán hacer las manifestaciones o aclaraciones que estimen pertinentes, mismas que deberán ser resueltas por el juzgador en esa misma audiencia. El procesado tendrá derecho de hacer uso de la palabra al final respecto de estas intervenciones.
+
+Al final de esta audiencia, el juez deberá emitir una resolución en la que acepte o niegue la procedencia de la emisión de la sentencia anticipada. De aprobarse la solicitud, el juez cerrará el procedimiento ordinario y citará para oír sentencia de primera instancia. Dicha sentencia deberá dictarse dentro del plazo de 8 días, salvo que el expediente excediera de trescientas fojas, en cuyo caso se aumentará un día más por cada cincuenta de exceso.
+
+(NOTA: EL 26 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 75/2016, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 31 DE AGOSTO DE 2016 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
+###### ARTICULO 500.
+
+En la sentencia, se estudiará la existencia o no del o los delitos señalados y si es o no verosímil la responsabilidad aceptada por el procesado y si la misma se halla corroborada con los medios de prueba que obran en la causa, para que, de ser procedente, se imponga la pena que corresponda, la cual no podrá ser más grave de la exigida por el Ministerio Público; en todo caso, el juez debe pronunciarse en los términos de la fracción IV del apartado C del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos por la condena a la reparación de daños y perjuicios, y aún en caso de ser indeterminado el monto o desconocido quien tenga derecho a su cobro, se deberá condenar genéricamente por este concepto.
+
+En caso de que el juzgador advierta violaciones a derechos humanos, alguna excluyente del delito o causa de extinción de la acción penal, podrá emitir sentencia absolutoria, debiendo fundar y motivar esta decisión.
+
+Cuando cause ejecutoria la sentencia anticipada, deberá remitirse, dentro del plazo de cinco días siguientes, copia autorizada al juez de ejecución y a las autoridades penitenciarias para el debido cumplimiento de la misma.
+
+(NOTA: EL 26 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 75/2016, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 31 DE AGOSTO DE 2016 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
+###### ARTICULO 501.
+
+En caso de que el juez no admita la emisión de la sentencia anticipada, se tendrá por no formulada la acusación que hubiere realizado el Ministerio Público con motivo de la solicitud de la sentencia anticipada, lo mismo que las modificaciones que, en su caso, hubiera realizado y se continuará con el procedimiento ordinario en la etapa procesal en que se encuentre. Asimismo, el juez de la causa ordenará que todos los antecedentes relativos a la solicitud, discusión y resolución de la sentencia anticipada sean sustraídos de la causa penal.
+
+Si no se admite la solicitud por inconsistencias o incongruencias en los planteamientos del Ministerio Público, ello no es impedimento para que pueda presentar nuevamente otra solicitud en donde se subsanen los defectos advertidos.
+
+(NOTA: EL 26 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 75/2016, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 31 DE AGOSTO DE 2016 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
+###### ARTICULO 502.
+
+En el caso en el que dentro de un procedimiento existan varios procesados, la solicitud de sentencia anticipada podrá hacerse en forma individual, pero deberá tramitarse por cuerda separada.
+
 TRANSITORIOS:
 
 PRIMERO.- Este Código entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Gobierno del Gobierno del Estado.
@@ -4578,3 +4678,9 @@ TERCERO. Quedarán abrogados, de manera progresiva y gradual el Código de Proce
 CUARTO. En relación a los procedimientos penales iniciados por hechos que ocurran con fecha anterior a la entrada en vigor del Código Nacional de Procedimientos Penales, continuarán su substanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
 
 QUINTO. Las leyes reglamentarias así como las diversas leyes del Estado de Hidalgo, relativas a la organización y funcionamiento de las instituciones involucradas en la seguridad pública, procuración e impartición de justicia y todas aquéllas en las que se establecen los diversos dispositivos que inciden en la aplicación del Sistema Procesal Penal Acusatorio, empezarán a regular la forma y términos en que se substanciarán los procedimientos penales, en las fechas de incorporación al Sistema Procesal Penal acusatorio señaladas en el presente decreto y a partir de que el Código Nacional de Procedimientos Penales entre en vigor en los términos y modalidades enunciadas en la presente declaratoria.
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 684 QUE CONTIENE ADICIONES AL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor a los treinta días después al de su publicación en el Periódico Oficial del Estado.
