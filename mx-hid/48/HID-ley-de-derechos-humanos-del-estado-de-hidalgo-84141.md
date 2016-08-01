@@ -4,7 +4,7 @@ identifier: "HID-ley-de-derechos-humanos-del-estado-de-hidalgo-84141"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2012-10-22"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -65,7 +65,9 @@ La presente Ley será de aplicación a toda persona que se encuentre en el terri
 
 Los derechos humanos a que se refiere esta Ley, son los reconocidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Hidalgo y por las leyes que de ellas emanen, así como los contenidos en los instrumentos internacionales vigentes en la República Mexicana.
 
-Los derechos humanos son universales, indivisibles e interdependientes. Todos tienen el mismo rango y surten plenos efectos frente a autoridades y particulares.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
+Los derechos humanos son universales, indivisibles, interdependientes y progresivos. Todos tienen el mismo rango y surten plenos efectos frente a autoridades y particulares.
 
 ###### Artículo 3.
 
@@ -89,9 +91,15 @@ VIII.- Congreso. Congreso del Estado Libre y Soberano de Hidalgo;
 
 IX.- Consejo. El Consejo Consultivo de la Comisión;
 
-X.- Ayuntamientos. Los Municipios que forman parte del Estado de Hidalgo; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+X.- Ayuntamientos. Conjunto de autoridades que se encargan de la administración pública de los Municipios;
 
 XI.- Poder Judicial. Todos los órganos que forman parte del Poder Judicial del Estado de Hidalgo.
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+XII.- Autoridades del Estado. Las dependencias, así como las entidades del Poder Ejecutivo, Legislativo y Judicial, Organismos Públicos Autónomos, descentralizados, desconcentrados y Ayuntamientos, a través de las y los servidores públicos.
 
 ## Título Segundo. De los Derechos Humanos y el combate a la Discriminación en el Estado de Hidalgo
 
@@ -101,17 +109,23 @@ XI.- Poder Judicial. Todos los órganos que forman parte del Poder Judicial del 
 
 En el Estado de Hidalgo, todas las personas gozarán, con plena igualdad y sin discriminación, de los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, por la Constitución Política del Estado, por las leyes que de ellas emanen, así como por los instrumentos internacionales vigentes en el País.
 
-Toda persona tiene, en correspondencia con sus derechos humanos, deberes hacia la familia, la comunidad y la humanidad. Tales deberes serán señalados por la Ley y deberán ser acordes con el contenido esencial de los derechos humanos.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
+Toda persona tiene, en correspondencia con sus derechos humanos, deberes hacia la familia, la comunidad y la humanidad. Los derechos de cada persona están limitados por los derechos de los demás, por la seguridad de todos y por las justas exigencias del interés general, en una sociedad democrática.
 
 ###### Artículo 5.
 
 La protección de los derechos humanos, así como la educación, difusión y promoción de una cultura de conocimiento y respeto de los mismos, son políticas prioritarias en el Estado de Hidalgo.
 
-En consecuencia, todas las autoridades y servidores públicos, Estatales o Municipales, particulares y organizaciones de la sociedad civil, en el ámbito de sus respectivas responsabilidades, estarán obligados a promover, respetar, proteger, realizar y reparar los derechos humanos.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
+En consecuencia, todas las autoridades, las y los servidores públicos, Estatales o Municipales, particulares y organizaciones de la sociedad civil, en el ámbito de sus respectivas responsabilidades, estarán obligados a promover, respetar, proteger y contribuir a la realización de los derechos humanos, así como prevenir sus violaciones. Las autoridades y servidores públicos deberán garantizarlos, sancionar y reparar cualquier vulneración a los mismos.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 6.
 
-Los planes, programas y presupuestos de los Gobiernos Estatal y Municipales, deberán adoptar una perspectiva de pleno respeto y garantía de los derechos humanos y el combate de todo tipo de discriminación.
+Los planes, programas y presupuestos de las autoridades del Estado, deberán adoptar una perspectiva de pleno respeto y garantía de los derechos humanos y el combate de cualquier forma de discriminación.
 
 ###### Artículo 7.
 
@@ -123,19 +137,31 @@ Cuando se presenten dos o más interpretaciones posibles de alguna norma de dere
 
 Ninguna Ley, Reglamento o cualquier otra norma, ya sea de carácter Estatal o Municipal, puede ser interpretada en el sentido de permitir suprimir, limitar, excluir o coartar el goce y ejercicio de los derechos humanos, se debe optar por el sentido más favorable a la persona y atendiendo a su progresividad.
 
-### Capítulo II. De los Derechos Humanos y Combate a la Discriminación en el Plan Estatal de Desarrollo
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2016)</small>
+
+### Capítulo II. De los Derechos Humanos, Igualdad y Combate a la Discriminación en Planes, Programas y Políticas Públicas del Estado
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 9.
 
-El Poder Ejecutivo, deberá incluir en el Plan Estatal de Desarrollo, un apartado en materia de Derechos Humanos y combate a la discriminación.
+El Poder Ejecutivo, deberá incluir en el Plan Estatal de Desarrollo, un apartado en materia de Derechos Humanos, Igualdad y combate a la discriminación. Las demás autoridades del Estado, incluyendo a las municipales, establecerán en sus programas un apartado en donde atiendan esos temas y acatarán lo que establezcan las Leyes.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 10.
 
-Los lineamientos que en materia de derechos humanos y combate a la discriminación, que sean incluidos en el Plan Estatal de Desarrollo, tendrán el carácter de enunciativos más no limitativos.
+Los lineamientos que en materia de derechos humanos, igualdad y combate a la discriminación, que sean incluidos en el Plan Estatal de Desarrollo, programas y políticas públicas de las autoridades del Estado, tendrán el carácter de enunciativos más no limitativos.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 11.
 
-Los municipios, dentro de su ámbito de competencia, fortalecerán las políticas encaminadas a la protección y salvaguarda de los derechos humanos y el combate a la discriminación.
+Las autoridades del Estado deberán establecer políticas públicas a favor de los derechos humanos, la no discriminación y la igualdad jurídica de oportunidades y de trato. Asimismo, mecanismos permanentes de seguimiento para la instrumentación de las políticas públicas en materia Derechos Humanos y de no discriminación.
+
+Las autoridades del Estado, obligadas por esta Ley, deberán adoptar las acciones que estén a su alcance para el cumplimiento de sus obligaciones, con indicadores objetivos y medibles, a favor de los Derechos Humanos, igualdad y la no discriminación.
+
+La observancia del cumplimiento de la Ley y de las políticas públicas para el cumplimiento y garantía de los derechos humanos, el derecho a la no discriminación y la igualdad de oportunidades y de trato, estará a cargo de la Comisión de Derechos Humanos del Estado de Hidalgo, sujetándose a las disposiciones de la Ley, en concordancia con la legislación nacional de la materia y los instrumentos internacionales aprobados por el Estado Mexicano.
 
 ### Capítulo III. De la Educación en Derechos Humanos en el Estado
 
@@ -149,19 +175,27 @@ En todas las tareas de educación en derechos humanos se deberán privilegiar lo
 
 Se procurará, por parte de las autoridades competentes, el fomento de actividades culturales, artísticas, deportivas y de cultura ambiental, como formas de expresión de la convivencia civil pacífica y del desarrollo armónico de la personalidad.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 13.
 
-La Secretaría de Educación Pública estatal, en su ámbito de competencia, y en coordinación con la Secretaría de Educación Pública federal y la Comisión, buscará la adecuación de los planes y programas de estudio, con la finalidad de incluir el conocimiento de los derechos humanos y el combate a la discriminación en todos los niveles educativos.
+La Secretaría de Educación Pública Estatal, en su ámbito de competencia y en coordinación con la Comisión, buscará la adecuación de los planes y programas de estudio con la finalidad de incluir el conocimiento de los Derechos Humanos y el combate a la discriminación de todos los niveles educativos. Dicha dependencia brindará todas las facilidades que sean necesarias para que la Comisión pueda dar cumplimiento a sus funciones, atribuciones y obligaciones, para lograr en los educandos una cultura en Derechos Humanos y no discriminación.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 14.
 
-Los órganos de seguridad pública y de procuración e impartición de justicia, incorporarán en sus programas de formación y de capacitación, contenidos en materia de derechos humanos tendientes a su conocimiento y puesta en práctica.
+Los órganos de seguridad pública y de procuración e impartición de justicia, incorporarán en sus programas de formación y de capacitación, contenidos en materia de derechos humanos y no discriminación, para fomentar su conocimiento y respeto.
 
-### Capítulo VI (sic). De la Conmemoración del Día Estatal de los Derechos Humanos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2016)</small>
+
+### Capítulo IV. De la Conmemoración del Día Estatal de los Derechos Humanos
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 15.
 
-El día diez de diciembre de cada año, conmemorando el aniversario de la aprobación de la Declaración Universal de los Derechos Humanos, se celebrará el “Día Estatal de los Derechos Humanos y el combate a la Discriminación”.
+El día diez de diciembre de cada año, conmemorando el aniversario de la aprobación de la Declaración Universal de los Derechos Humanos, se celebrará el "Día Estatal de los Derechos Humanos y Combate a la Discriminación", el cual se reforzará con actos de promoción y difusión.
 
 ###### Artículo 16.
 
@@ -173,9 +207,11 @@ Dicha medalla será entregada anualmente por la Comisión, a la persona u organi
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 17.
 
-La Comisión de Derechos Humanos del Estado de Hidalgo es un organismo público, con personalidad jurídica y patrimonio propios, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y podrá decidir sobre su organización interna y funcionamiento, en los términos que disponga la Ley, cuyo objeto es la protección, defensa, estudio, promoción y difusión de los derechos humanos, así como el combate a toda forma de discriminación.
+La Comisión de Derechos Humanos del Estado de Hidalgo es un organismo público, con personalidad jurídica y patrimonio propios, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y podrá decidir sobre su organización interna y funcionamiento en los términos que disponga la Ley, cuyo objeto es la protección, defensa, investigación, estudio, investigación (sic), promoción y difusión de los derechos humanos, así como el combate a toda forma de discriminación. También procurará la reparación del daño por las violaciones de estos derechos por parte de las autoridades o servidores públicos responsables.
 
 ###### Artículo 18.
 
@@ -183,21 +219,29 @@ La Comisión en el desempeño de sus atribuciones, en el ejercicio de su autonom
 
 Tampoco estarán supeditados a ninguna autoridad las actividades y criterios de sus directivos o de su personal.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 19.
 
-La Comisión será competente para conocer de quejas y denuncias por presuntas violaciones a los derechos humanos o cualquier tipo de discriminación, cuando éstas fueren atribuidas a alguna autoridad o servidor público que desempeñe un empleo, cargo o comisión local o Municipal en el Estado de Hidalgo, o bien por algún particular que preste un servicio público concesionado por alguna de las autoridades anteriormente señaladas.
+La Comisión será competente para conocer de quejas y denuncias por presuntas violaciones a los derechos humanos o cualquier tipo de discriminación, cuando éstas fueren atribuidas a alguna autoridad, servidora o servidor público, que desempeñe un empleo, cargo o comisión estatal o municipal en el Estado de Hidalgo.
+
+También conocerá cuando algún particular que preste un servicio público permisionado o concesionado por alguna de las autoridades anteriormente señaladas, cometa un acto de discriminación.
 
 ###### Artículo 20.
 
 Los procedimientos que se sigan ante la Comisión deberán ser breves y sencillos, y estarán sujetos sólo a las formalidades esenciales que requiera la documentación de los respectivos expedientes. Se seguirán de acuerdo con los principios de inmediatez, concentración y rapidez, procurando en la medida de lo posible el contacto directo con los quejosos, denunciantes y autoridades, para evitar la dilación de las comunicaciones y de las resoluciones.
 
-Dichos procedimientos no podrán extenderse más allá de un plazo de seis meses contados a partir del momento en que sea presentada la denuncia o queja. En casos excepcionales, debido a la complejidad del asunto que se trate, el Presidente podrá acordar que dicho plazo se extienda, en los términos establecidos en la presente Ley.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
+Dichos procedimientos no podrán extenderse más allá de un plazo de cuatro meses, contados a partir del momento en que sea presentada la denuncia o queja. En casos excepcionales debido a la complejidad y naturaleza del asunto que se trate, el Presidente podrá acordar que dicho plazo se extienda, en los términos establecidos en la presente Ley.
 
 Se procurará que los procedimientos que se sigan ante la Comisión se desahoguen en las instancias más próximas al domicilio de los denunciantes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 21.
 
-El Presidente de la Comisión y los Visitadores Generales y Adjuntos tendrán fe pública en sus actuaciones, para certificar la veracidad de los hechos en relación con las quejas o denuncias presentadas ante dicha Comisión.
+La Presidenta o el Presidente y las o los Visitadores tendrán fe pública en sus actuaciones para certificar la veracidad de los hechos en relación con las quejas o denuncias presentadas ante dicha Comisión.
 
 Para los efectos de esta Ley, la fe pública consistirá en la facultad de autenticar documentos preexistentes o declaraciones y hechos que tengan lugar o estén aconteciendo en presencia de dichos funcionarios. Para ello, las declaraciones y hechos deberán constar en el acta circunstanciada que al efecto levantará el funcionario correspondiente.
 
@@ -221,19 +265,25 @@ III.- Los Visitadores Generales;
 
 IV.- El Secretario Ejecutivo;
 
-V.- Los Visitadores Adjuntos; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+V.- Las o los Visitadores; y
 
 VI.- El personal profesional, técnico y administrativo necesario para el desarrollo de sus actividades.
 
 ### Capítulo III. De las Atribuciones de la Comisión
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 24.
 
-La Comisión será competente para conocer de probables violaciones de derechos humanos, cuando:
+La Comisión será competente para conocer de probables violaciones de derechos humanos o actos discriminatorios, cuando:
 
 I.- Provengan de actos u omisiones de servidores de la Administración Pública Estatal o Municipal, así como de actos administrativos de cualquier otra autoridad que no sea del ámbito Federal; y
 
-II.- Sean originadas por actos de particulares, cuando alguna autoridad o servidor de la Administración Pública Estatal o Municipal, ilícitamente las propicien o toleren.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+II.- Sean originadas por actos de particulares, cuando alguna autoridad, servidora o servidor de la Administración Pública Estatal o Municipal, las propicien o toleren. En los casos en donde el agente generador de la violación a los derechos humanos o de los actos discriminatorios sea un particular, la Comisión, tomando en cuenta la gravedad y el daño social que el asunto pueda ocasionar, podrá implementar las acciones, solicitar las medidas y emitir el pronunciamiento que considere pertinente.
 
 ###### Artículo 25.
 
@@ -241,7 +291,9 @@ La Comisión tendrá las siguientes atribuciones:
 
 I.- Recibir quejas de presuntas violaciones a los derechos humanos o actos discriminatorios;
 
-II.- Conocer e investigar, a petición de parte o de oficio, presuntas violaciones de derechos humanos en los siguientes casos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+
+II.- Conocer e investigar, a petición de parte o de oficio, presuntas violaciones de derechos humanos o actos discriminatorios, en los siguientes casos:
 
 a).- Por actos u omisiones de índole administrativo de los servidores públicos o de las autoridades de carácter Estatal y Municipal y;
 
@@ -265,15 +317,17 @@ X.- Expedir su Reglamento y su normatividad interna;
 
 XI.- Realizar investigaciones a los centros de reclusión, detención o custodia, cuando existan indicios de posibles violaciones de derechos humanos. Para ello, podrá supervisar que se garantice la plena vigencia de los derechos de las personas privadas de la libertad, pudiendo solicitar el reconocimiento médico de reos o detenidos cuando se presuman malos tratos o torturas, comunicando a las autoridades competentes los resultados de las revisiones practicadas. El personal de la Comisión en el ejercicio de sus funciones, tendrá acceso inmediato e irrestricto a todos los centros de detención y de readaptación social del Estado, dependientes de la Procuraduría General de Justicia del Estado, de los Municipios, de la Secretaría de Seguridad Pública Estatal o de cualquier otra autoridad local;
 
-XII.- Formular programas y proponer acciones en coordinación con las dependencias competentes, para impulsar el cumplimiento de los instrumentos de Derecho Internacional ratificados por México en materia de derechos humanos y discriminación. Para ello, elaborará y actualizará de manera constante, una recopilación de dichos documentos, que divulgará de manera amplia entre la población;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
 
-XIII.- Interponer demandas de acción de inconstitucionalidad ante la Suprema Corte de Justicia de la Nación, conforme a lo establecido por el Artículo 105, fracción II, inciso g, de la Constitución Política de los Estados Unidos Mexicanos;
+XII.- Formular programas y proponer acciones en coordinación con las dependencias competentes, para impulsar el cumplimiento de los instrumentos de Derecho Internacional aprobados por el Estado Mexicano en materia de Derechos Humanos y no discriminación. Para ello, elaborará y actualizará de manera constante, una recopilación de dichos documentos, que divulgará de manera amplia entre la población;
 
-> <small>N. DE E. EN RELACIÓN CON LA REFORMA A LA PRESENTE FRACCIÓN SE SUGIERE CONSULTAR LA PÁGINA ELECTRÓNICA DEL CONGRESO DEL ESTADO DE HIDALGO http://www.congreso-hidalgo.gob.mx/</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2012)</small>
+XIII.- Interponer demandas de acción de inconstitucionalidad ante la Suprema Corte de Justicia de la Nación, conforme a lo establecido por el Artículo 105, fracción II, inciso g), de la Constitución Política de los Estados Unidos Mexicanos;
 
-XIII (SIC).- Practicar visitas e inspecciones a los Centros de Asistencia Social e Instituciones de Asistencia Privada donde se presten servicios asistenciales como casas hogares, instituciones que trabajen con la niñez, con personas con discapacidad o con adultos mayores, Centros de Integración Social, Centros de salud y demás establecimientos de asistencia social en el Estado de Hidalgo, en los que intervenga cualquier autoridad pública local, para cerciorarse del absoluto respeto a los derechos humanos;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+XIV.- Practicar visitas e inspecciones a los centros de asistencia social e instituciones de asistencia privada donde se presten servicios asistenciales como casas hogares, instituciones que trabajen con la niñez, con personas con discapacidad o con adultos mayores, centros de integración social, centros de salud, centros de rehabilitación contra las adicciones y demás establecimientos de asistencia social en el Estado de Hidalgo, en los que intervenga cualquier autoridad pública local, para cerciorarse del absoluto respeto a los derechos humanos;
 
 XV.- Prestar apoyo y asesoría técnica a los órganos del Poder Público Estatal y Municipal, en materia de promoción y defensa de los derechos humanos y en el combate a la discriminación, cuando así lo soliciten;
 
@@ -287,11 +341,21 @@ XIX.- Interponer demandas de acción colectiva, o sumarse a demandas de este tip
 
 XX.- Coadyuvar con las dependencias y entidades del Poder Ejecutivo, Legislativo y Judicial, Organismos Autónomos y Presidencias Municipales en materia de prevención y eliminación de la Discriminación;
 
-XXI.- Efectuar los contratos para la adquisición y arrendamientos de bienes o servicios que le sean indispensables para la realización de sus actividades, de conformidad a la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
 
-XXII.- Llevar a cabo investigación científica en materia de derechos humanos y combate a la discriminación; y
+XXI.- Efectuar los contratos para la adquisición, enajenación y arrendamientos de bienes o servicios que le sean indispensables para la realización de sus actividades, de conformidad a la Ley de la materia;
 
-XXIII.- Las demás que le otorguen la presente Ley y otros ordenamientos legales y reglamentarios.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+XXII.- Llevar a cabo investigación científica en materia de derechos humanos y combate a la discriminación;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+XXIII.- Formular propuestas de solución y recomendaciones públicas, autónomas, no vinculatorias, denuncias y quejas ante las autoridades respectivas; y
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+XXIV.- Las demás que le otorgue la presente Ley y otros ordenamientos legales y reglamentarios.
 
 ###### Artículo 26.
 
@@ -353,9 +417,17 @@ IV.- Quienes desempeñen o hayan desempeñado un puesto de elección popular o c
 
 V.- Quienes se hayan desempeñado como Gobernador, Secretario, Subsecretario, Procurador o Subprocurador del Gobierno de Hidalgo o su equivalente en el ámbito Federal, en los últimos tres años.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 31.
 
-El Presidente, será electo por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, a través de una consulta pública, mediante una Convocatoria que emitirá para la auscultación entre las organizaciones sociales, organismos públicos y privados, promotores o defensores de los derechos humanos, de la cual se presentará al Pleno una terna de candidatos para su elección.
+La Presidenta o él Presidente, será electo por el voto de las dos terceras partes de las y los Diputados integrantes del Congreso del Estado, mediante una Convocatoria que emitirá la Primera Comisión Permanente de Derechos Humanos y Atención a las personas con Discapacidad a las organizaciones de la sociedad civil, organismos públicos y privados, promotores o defensores de los derechos humanos y expertos en la materia.
+
+La Convocatoria que expida el Congreso del Estado, se publicará con dos meses de anticipación a la fecha de conclusión del cargo de la Presidenta o Presidente en funciones, tendrá una vigencia de veintiún días naturales contados a partir del día siguiente de su publicación en el Periódico Oficial del Estado y se le dará amplia difusión a través de los medios de comunicación.
+
+La Convocatoria, señalará las bases, requisitos y procedimiento para la recepción de la documentación de las y los aspirantes.
+
+Una vez que la Comisión, analice la documentación, emitirá Dictamen con hasta una terna de candidatas o candidatos, mismo que será presentado al Pleno, para su discusión, aprobación y elección.
 
 ###### Artículo 32.
 
@@ -385,7 +457,9 @@ IX.- Promover las relaciones de la Comisión con organismos públicos, privados 
 
 X.- Celebrar convenios de colaboración con autoridades y organizaciones de defensa de los derechos humanos y en el combate a la discriminación, así como con instituciones académicas y asociaciones culturales para el cumplimiento de los fines de la Comisión;
 
-XI.- Aprobar y emitir, en su caso, las recomendaciones públicas, autónomas y no vinculatorias, así como los acuerdos y peticiones que sometan a su consideración los Visitadores Generales, que resulten de las investigaciones efectuadas;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+XI.- Aprobar y emitir, en su caso, las Propuestas de Solución y las Recomendaciones públicas, autónomas y no vinculatorias, así como los acuerdos y peticiones que sometan a su consideración las o los Visitadores Generales, que resulten de las investigaciones efectuadas;
 
 XII.- Poner a consideración del Consejo, para su aprobación, las Observaciones Generales y las propuestas conducentes a una mejor protección de los derechos humanos en el Estado de Hidalgo;
 
@@ -401,11 +475,17 @@ XVII.- Presentar informes de las labores al Consejo, por lo menos una vez cada t
 
 XVIII.- Determinar la reapertura de los casos que se encuentren concluidos, cuando así lo considere necesario;
 
-XIX.- Ampliar, de forma excepcional, el plazo en el que debe ser desahogado algún procedimiento, debido a la complejidad del asunto;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+XIX.- Ampliar de forma excepcional, el plazo en el que debe ser desahogada alguna prueba o cualquier procedimiento, debido a la complejidad y naturaleza del asunto;
 
 XX.- Fomentar la educación, difusión y promoción de una cultura de conocimiento y respeto a los derechos humanos y el combate a la discriminación;
 
 XXI.- Interponer, las demandas de acción de inconstitucionalidad ante la Suprema Corte de Justicia de la Nación, conforme a lo establecido por el Artículo 105 fracción II inciso g de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+XXI Bis.- Emitir a nombre de la Comisión, la opinión o postura respecto de acontecimientos que, por su gravedad o trascendencia, sea de interés en la sociedad.
 
 XXII.- Solicitar la intervención del Congreso del Estado, a fin de que analice las causas de incumplimiento de las autoridades que hayan recibido recomendaciones, de modo que su intervención asegure la efectividad y cumplimiento de las mismas;
 
@@ -423,23 +503,33 @@ El cargo de Presidente de la Comisión será remunerado y recibirá las mismas p
 
 El Consejo es el órgano colegiado de carácter consultivo de la Comisión, que está compuesto por el Presidente de la misma y por ocho personas que gocen de reconocido prestigio en la sociedad, ciudadanos mexicanos en pleno ejercicio de sus derechos ciudadanos, con una residencia mínima de cinco años anteriores al nombramiento, dentro del Estado de Hidalgo.
 
-Cuando menos cinco de sus integrantes no deben desempeñar ningún cargo o comisión como servidor público.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
+Ninguno de sus integrantes podrá desempeñar otro cargo, empleo o comisión dentro del servicio público.
 
 Los cargos de los miembros del Consejo serán honorarios.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 36.
 
-Para la elección de los integrantes del Consejo, se observará el mismo procedimiento que para la elección del Presidente.
+La elección de las y los integrantes del Consejo, se llevara a cabo mediante convocatoria que emita la Primera Comisión Permanente de Derechos Humanos y Atención a las Personas con Discapacidad, en donde se establecerá el procedimiento que habrá de observarse, siguiendo los lineamientos contemplados para la elección de la o el Presidente, con excepción de la votación para su elección, que será de la mitad más uno de las y los Diputados integrantes del Congreso.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 37.
 
-A excepción de su Presidente, anualmente, serán sustituidos los dos consejeros de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo periodo.
+A excepción de su Presidenta o Presidente, cada año, serán sustituidos dos consejeros o consejeras de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo periodo.
 
-Para el caso de que existan más de dos consejeros con la misma antigüedad, será el propio Consejo quien proponga el orden cronológico que deba seguirse.
+Para el caso de que existan más de dos consejeras o consejeros con la misma antigüedad, será el propio Consejo quien proponga el orden cronológico que deba seguirse.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 38.
 
-Los miembros del Consejo no estarán sujetos a autoridad alguna por lo que hace a sus funciones, serán libres de toda directriz externa y actuarán únicamente conforme a sus criterios.
+Los miembros del Consejo no estarán sujetos a autoridad alguna por lo que hace a sus funciones, serán libres de toda directriz externa y actuarán únicamente conforme a sus criterios y opiniones, las cuales serán inviolables.
+
+La información producida por las y los Consejeros en el ejercicio de sus facultades y de carácter personal, que se encuentren bajo resguardo de la Comisión será de carácter confidencial por la naturaleza propia de sus funciones.
 
 ###### Artículo 39.
 
@@ -487,11 +577,15 @@ De forma extraordinaria, el Presidente podrá ser sustituido por algún Visitado
 
 Los supuestos de los párrafos anteriores serán regulados por el reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 43.
 
-De considerarlo necesario, el Consejo, por conducto del Presidente de la Comisión, solicitará al Congreso del Estado, la sustitución de los integrantes del Consejo de la Comisión que de manera injustificada no asistan a tres sesiones consecutivas.
+El Consejo, por conducto de la Presidenta o del Presidente de la Comisión, solicitará al Congreso del Estado, la sustitución de los integrantes del Consejo de la Comisión que, de manera injustificada no asistan a tres sesiones, por alguna enfermedad que les impida asistir permanentemente a las mismas, renuncien al cargo o por fallecimiento.
 
-### Capítulo VI. De los Visitadores Generales y Adjuntos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2016)</small>
+
+### Capítulo VI. De las Visitadoras y los Visitadores
 
 #### Sección Primera. De los Visitadores Generales
 
@@ -505,7 +599,9 @@ II.- Haber residido al menos durante los cinco años anteriores al nombramiento,
 
 III.- Ser mayor de treinta años de edad, el día de su nombramiento; y
 
-IV.- Tener título de Licenciado en Derecho expedido legalmente, y tener tres años de ejercicio profesional cuando menos.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+IV.- Tener título de licenciatura en Derecho expedido legalmente, y acreditar cinco años de ejercicio profesional cuando menos.
 
 ###### Artículo 45.
 
@@ -513,9 +609,13 @@ Los Visitadores Generales tendrán las siguientes facultades y obligaciones:
 
 I.- Recibir, admitir o rechazar las quejas e inconformidades presentadas por los afectados, sus representantes o los denunciantes ante la Comisión;
 
-II.- Iniciar a petición de parte la investigación de las quejas e inconformidades que le sean presentadas, o de oficio mediante acuerdo del Presidente, discrecionalmente aquéllas sobre denuncias de violación a los derechos humanos que aparezcan en los medios de comunicación o que sean de su conocimiento;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
 
-III.- Realizar las actividades necesarias para lograr, por medio de la amigable composición, la solución inmediata de las violaciones de derechos humanos que por su propia naturaleza así lo permita;
+II.- Iniciar a petición de parte, la investigación de las quejas e inconformidades que le sean presentadas, y de oficio mediante acuerdo discrecional de la o del Presidente de la Comisión, aquéllas denuncias de violación a los derechos humanos o actos discriminatorios que aparezcan en los medios de comunicación o de cualquier forma tenga conocimiento;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+III.- Realizar las actividades necesarias para lograr por medio de la amigable composición, la solución inmediata de las presuntas violaciones de derechos humanos o actos de discriminación, que por su propia naturaleza así lo permita.
 
 IV.- Realizar las investigaciones y estudios necesarios para formular los proyectos de recomendación o acuerdo, que se someterán al Presidente de la Comisión para su consideración;
 
@@ -531,11 +631,15 @@ VIII.- Las demás que le sean conferidas en otros ordenamientos legales, reglame
 
 El cargo de Visitador General será remunerado y recibirá las mismas prestaciones y percepciones que el Presidente de una Sala del Tribunal Superior de Justicia del Estado.
 
-#### Sección Segunda. De los Visitadores Adjuntos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2016)</small>
+
+#### Sección Segunda. De las Visitadoras y los Visitadores
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 47.
 
-Los Visitadores Adjuntos de la Comisión deberán reunir para su designación, los siguientes requisitos:
+Las y los Visitadores de la Comisión, deberán reunir para su designación los siguientes requisitos:
 
 I.- Ser ciudadano mexicano, en pleno goce y ejercicio de sus derechos civiles y políticos.
 
@@ -543,15 +647,19 @@ II.- Ser mayor de veinticinco años de edad, el día de su nombramiento; y
 
 III.- Tener título profesional expedido legalmente.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 48.
 
-Los Visitadores Adjuntos auxiliarán en sus funciones a los Visitadores Generales en los términos que establezca el Reglamento Interno.
+Las o los Visitadores auxiliarán en sus funciones a las Visitadoras y/o los Visitadores Generales, en los términos que establezca el Reglamento interno.
 
 #### Sección Tercera. Del alcance territorial de la Comisión
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 49.
 
-La Comisión podrá contar con Visitadores Generales o Adjuntos de carácter territorial, o unidades desconcentradas, para una mejor atención y seguimiento de los asuntos de su competencia en los lugares que considere oportunos, según lo establezca su Reglamento Interno.
+La Comisión podrá contar con Visitadoras o Visitadores de carácter territorial, o unidades desconcentradas, para una mejor atención y seguimiento de los asuntos de su competencia en los lugares que considere oportunos, según lo establezca su Reglamento interno.
 
 ### Capítulo VII. Del Secretario Ejecutivo
 
@@ -569,11 +677,15 @@ III.- Tener título profesional expedido legalmente.
 
 El Secretario Ejecutivo tendrá las siguientes facultades y obligaciones:
 
-I.- Proponer al Consejo y al Presidente, las políticas generales y los programas que en materia de derechos humanos habrá de seguir la Comisión;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+I.- Proponer al Consejo y a la persona titular de la Presidencia, las políticas generales y los programas que en materia de promoción y difusión de los Derechos Humanos y no discriminación habrá de seguir la Comisión;
 
 II.- Promover y coordinar las relaciones con los organismos de derechos humanos, gubernamentales y no gubernamentales, nacionales e internacionales;
 
-III.- Elaborar programas formativos y preventivos en materia de derechos humanos, en los que se incluya a los miembros de la Administración Pública Estatal y Municipal;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+III.- Elaborar programas formativos y preventivos en materia de Derechos Humanos y no discriminación, en los que se incluya a los miembros de la Administración Pública Estatal y Municipal;
 
 IV.- Coordinar y en su caso, dirigir las actividades de estudio, investigación, enseñanza, capacitación, promoción y divulgación de los derechos humanos;
 
@@ -593,9 +705,11 @@ El cargo de Secretario Ejecutivo será remunerado y recibirá las mismas prestac
 
 ### Capítulo VIII. De las Prerrogativas e Incompatibilidades
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 53.
 
-El Presidente, los Visitadores Generales y el Secretario Ejecutivo serán inviolables, por lo que nunca podrán ser detenidos, multados, perseguidos o juzgados, en razón de las opiniones que manifiesten y de las recomendaciones que emitan.
+La Presidenta o el Presidente, las y los Visitadores y la o el Secretario Ejecutivo serán inviolables, por lo que nunca podrán ser detenidos, multados, perseguidos o juzgados, en razón de las opiniones que manifiesten en el ejercicio de sus funciones, la Presidenta o el Presidente por las recomendaciones que emita.
 
 ###### Artículo 54.
 
@@ -609,7 +723,9 @@ III.- Por haber sido removido por el Congreso local, de conformidad con lo dispu
 
 Vacante el cargo, se iniciará el procedimiento que la Ley establece para el nombramiento, y en tanto es designado, el Primer Visitador General asumirá en forma interina el cargo de Presidente de la Comisión, por un periodo no mayor a los noventa días hábiles.
 
-Entre el nombramiento de un nuevo Presidente y su toma de posesión deberá existir un periodo no menor de ocho días ni mayor de catorce. Durante ese periodo el nuevo Presidente se coordinará con el saliente para lograr una oportuna entrega-recepción de la dependencia.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
+Entre el nombramiento de una nueva o nuevo Presidente y su toma de posesión, deberá existir un periodo no menor de ocho ni mayor de catorce días hábiles. Durante ese periodo la nueva o el nuevo Presidente se coordinará con quien culmine el cargo para lograr una oportuna entrega-recepción del organismo.
 
 ###### Artículo 55.
 
@@ -619,33 +735,41 @@ Los cargos de Presidente, Visitador General, Visitador Adjunto y Secretario Ejec
 
 #### Sección Primera. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 56.
 
-Toda persona podrá denunciar y presentar una queja por presuntas violaciones a los derechos humanos ante la Comisión, ya sea directamente o por medio de su representante.
+Toda persona podrá denunciar y presentar una queja por presuntas violaciones a los derechos humanos o actos de discriminación ante la Comisión, ya sea directamente o por medio de su representante.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 57.
 
-Podrán denunciar presuntas violaciones a los derechos humanos sin necesidad de representante los niños, niñas o incapaces cuando se ponga en peligro su vida, libertad o integridad física o psicológica. Cuando no estén en aptitud para presentar la queja, ésta podrá ser presentada por cualquier persona.
-
-En caso de que la Comisión tenga conocimiento de alguna de estas situaciones iniciará queja de oficio.
+Podrán denunciar presuntas violaciones a los derechos humanos o actos de discriminación sin necesidad de representante, los niños, niñas u otras personas incapaces, cuando se ponga en peligro su vida, libertad o integridad física, sexual o psicológica. Cuando no estén en aptitud para presentar la queja, ésta podrá ser presentada por cualquier persona, la cual puede ser continuada de oficio.
 
 ###### Artículo 58.
 
 Cuando los interesados estén privados de su libertad o se desconozca su paradero, los hechos se podrán denunciar por cualquier persona, aun cuando sea menor de edad.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 59.
 
-Las organizaciones no gubernamentales legalmente constituidas, cuyo objeto principal sea la defensa de los derechos humanos, podrán acudir ante la Comisión para denunciar presuntas violaciones a los derechos humanos.
+Las organizaciones de la sociedad civil, legalmente constituidas, cuyo objeto principal sea la defensa de los Derechos Humanos o el combate a la discriminación, podrán acudir ante la Comisión para denunciar presuntas violaciones a los derechos humanos o actos discriminatorios.
 
 ###### Artículo 60.
 
 Todos los trámites, investigaciones y procedimientos que lleve a cabo la Comisión, por la naturaleza de su objeto, se desahogarán a la mayor brevedad, con la finalidad de que los quejosos o denunciantes puedan ver resarcidos sus derechos en el menor tiempo posible. Dichos trámites se desahogarán en las instancias más próximas al domicilio de los denunciantes, con la finalidad de evitar, en la medida de lo posible, su traslado.
 
-Los procedimientos que lleve a cabo la Comisión no podrán extenderse más allá de un plazo de seis meses contados a partir del momento en que sea presentada la denuncia o queja. Excepcionalmente, debido a la complejidad del asunto que se trate, el Visitador General encargado del caso podrá solicitar al Presidente que amplíe dicho plazo. En caso de estar de acuerdo, el Presidente emitirá una autorización por escrito de ampliación del plazo, debidamente fundado y motivado.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
+Los procedimientos que lleve a cabo la Comisión no podrán extenderse más allá de un plazo de cuatro meses contados a partir del momento en que sea presentada la denuncia o queja. Excepcionalmente, debido a la complejidad o naturaleza del asunto que se trate, la o el Visitador General encargado del caso, podrá solicitar a la Presidenta o Presidente que amplíe dicho plazo. En caso de estar de acuerdo, la o el Presidente emitirá una autorización por escrito de su ampliación debidamente fundado y motivado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 61.
 
-La queja sólo podrá presentarse dentro del plazo de un año, a partir de que se hubieran iniciado los hechos que se estimen violatorios, o de que el quejoso hubiese tenido conocimiento de los mismos. En casos excepcionales, y tratándose de infracciones graves a los derechos humanos, la Comisión podrá ampliar dicho plazo mediante una resolución razonada.
+La queja sólo podrá presentarse dentro del plazo de un año, a partir de que se hubieran iniciado los hechos que se estimen violatorios o discriminatorios, o de que la o el quejoso hubiese tenido conocimiento de los mismos. En casos excepcionales, y tratándose de violaciones a los derechos humanos o actos discriminatorios que hayan generado consecuencias graves, la Comisión podrá ampliar dicho plazo mediante una resolución razonada.
 
 En casos de presuntas violaciones a los derechos a la vida, a la libertad y a la integridad física y psíquica de las personas o de lesa humanidad, no habrá límite temporal alguno para presentar la queja.
 
@@ -653,19 +777,25 @@ En casos de presuntas violaciones a los derechos a la vida, a la libertad y a la
 
 Para la presentación y atención de quejas y denuncias ante la Comisión, y en los casos que ésta considere urgentes, todos los días y horas son hábiles. Para estos efectos, designará personal de guardia, en los términos que señale el Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 63.
 
-Las quejas se presentarán por escrito con firma o huella digital o datos de identificación. En casos urgentes o cuando el quejoso no pueda escribir o sea menor de edad, podrán presentarse oralmente o por cualquier medio de comunicación electrónica, debiendo en este último caso ratificarse dentro de los cinco días siguientes a su presentación.
+Las quejas se presentarán por escrito con firma o huella dactilar y datos de identificación de la persona que denuncia. En casos urgentes o cuando la o el quejoso no pueda escribir o sea menor de edad, podrán presentarse oralmente o por cualquier medio de comunicación electrónica, debiendo en este último caso ratificarse dentro de los cinco días naturales siguientes a su presentación.
 
 En caso de que el quejoso no acuda a ratificarla, la denuncia será desechada, excepto en los casos en los que la Comisión considere adecuado actuar de oficio, por la naturaleza del asunto de que se trate.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 64.
 
-Cuando los quejosos se encuentren privados de su libertad, sus escritos deberán ser remitidos a la Comisión por los encargados de los centros de detención o de readaptación social, o por el servidor público de mayor jerarquía del lugar donde se encuentren, asimismo, podrán ser entregados directamente a los Visitadores. De igual modo podrán presentar su queja por vía telefónica.
+Cuando las quejosas o quejosos se encuentren privados de su libertad, sus escritos deberán ser remitidos a la Comisión por las personas encargadas de los centros de detención o de reinserción social, o por la o el servidor público de mayor jerarquía del lugar donde se encuentre; asimismo, podrán ser entregados directamente a las o los Visitadores. De igual modo podrán presentar su queja por vía telefónica.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 65.
 
-La formulación de quejas y denuncias, así como los acuerdos y Recomendaciones que emita la Comisión, no afectarán el ejercicio de otros derechos y medios de defensa de los quejosos. Tampoco suspenderán ni interrumpirán los plazos de prescripción o de caducidad. Esta circunstancia deberá señalarse a los interesados en el acuerdo de admisión de la queja o denuncia.
+La formulación de quejas y denuncias, así como los acuerdos, propuestas de solución y recomendaciones que emita la Comisión, no afectarán el ejercicio de otros derechos y medios de defensa de las o los quejosos. Tampoco suspenderán ni interrumpirán los plazos de prescripción. Esta circunstancia deberá señalarse a las personas interesadas en el acuerdo de admisión de la queja.
 
 ###### Artículo 66.
 
@@ -695,9 +825,11 @@ Cuando la denuncia no sea competencia de la Comisión, el quejoso será orientad
 
 Cuando el caso lo amerite, el personal de la Comisión podrá darle especial seguimiento, para efecto de constatar que el solicitante sea atendido en los términos más favorables a sus intereses, de acuerdo a la normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 71.
 
-El Presidente de la Comisión, de forma extraordinaria y con la previa aprobación del Consejo, podrá declinar conocer de un determinado caso, si éste puede lesionar su autoridad moral o autonomía.
+La Presidenta o el Presidente de la Comisión, de forma extraordinaria podrá excusarse de conocer de un determinado caso, si éste puede lesionar la autoridad moral o la autonomía suyas o de la Comisión.
 
 ###### Artículo 72.
 
@@ -713,17 +845,21 @@ Una vez admitida, la denuncia se hará del conocimiento de las autoridades o ser
 
 A las autoridades involucradas, se les solicitará un informe escrito sobre los actos u omisiones que se les atribuyan en la queja o denuncia, el cual será rendido en un plazo de hasta diez días naturales, contados desde el momento de la notificación. Si a juicio de la Comisión la situación es urgente dicho plazo podrá reducirse.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 74.
 
-En el informe mencionado en el Artículo anterior, la autoridad señalada como presunta responsable debe hacer constar los antecedentes del asunto, los fundamentos y motivaciones de los actos u omisiones que se le imputan, así como los elementos de información que considere necesarios.
+En el informe mencionado en el artículo anterior, la autoridad señalada como presunta responsable debe hacer constar los antecedentes del asunto, los fundamentos y motivaciones de los actos u omisiones que se le imputan, así como las pruebas que considere necesarias.
 
 ###### Artículo 75.
 
 La falta de rendición del informe o de la documentación que lo apoya, así como el retraso injustificado en su presentación, además de la responsabilidad respectiva de la autoridad o servidor público involucrado, tendrá el efecto de que la Comisión presumirá como ciertos los hechos materia de la denuncia, salvo prueba en contrario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 76.
 
-El Presidente de la Comisión o los Visitadores Generales podrán solicitar en cualquier momento a las autoridades competentes, que se tomen las medidas para evitar la consumación irreparable de las presuntas violaciones denunciadas o la producción de daños de difícil reparación a los afectados, así como solicitar su modificación cuando cambien las situaciones que las justificaron.
+La Presidenta o el Presidente de la Comisión o las Visitadoras o Visitadores podrán solicitar en cualquier momento a las autoridades competentes, que se tomen las medidas para evitar la consumación irreparable de las presuntas violaciones denunciadas o la producción de daños de difícil reparación a las personas afectadas, así como solicitar su modificación cuando cambien las situaciones que las justificaron. De considerarlo necesario, para hacer cesar la probable violación a los derechos humanos o la comisión de actos discriminatorios o para garantizar el cumplimiento de sus funciones, la Presidenta o el Presidente de la Comisión podrán solicitar el auxilio de la fuerza pública.
 
 Dichas medidas pueden ser precautorias, de conservación o restitutorias, según lo requiera la naturaleza del asunto.
 
@@ -757,11 +893,15 @@ Con el fin de documentar debidamente las evidencias en un expediente de queja o 
 
 Las pruebas que se presenten tanto por los interesados como por los servidores públicos o bien que la Comisión recabe de oficio, serán valoradas en su conjunto, de acuerdo con los principios de la lógica, la experiencia y la legalidad, a fin de que puedan producir convicción sobre los hechos materia de la queja.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 81.
 
-Las conclusiones del expediente, que serán la base de las recomendaciones, estarán basadas únicamente en la documentación y las pruebas que consten en el propio expediente.
+Las resoluciones del expediente, estarán basadas únicamente en la documentación y las pruebas que consten en el propio expediente.
 
-#### Sección Tercera. De los Acuerdos y Recomendaciones
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2016)</small>
+
+#### Sección Tercera. De los Acuerdos, Propuestas de Solución y Recomendaciones
 
 ###### Artículo 82.
 
@@ -775,39 +915,53 @@ Concluida la investigación, la Comisión podrá, si así lo amerita el caso, em
 
 Si no es aceptado por alguna de las partes, dentro del improrrogable plazo de diez días naturales, se sujetará a lo dispuesto en los siguientes Artículos.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 84.
 
-Concluida la investigación y rechazada la propuesta de solución, el Visitador General correspondiente formulará, en su caso, un proyecto de recomendación o acuerdo de no responsabilidad en los cuales se analizarán los hechos, los argumentos y pruebas, así como los elementos de convicción y las diligencias practicadas a fin de determinar si las autoridades o servidores públicos han violado o no los derechos humanos de los afectados, al haber incurrido en actos y omisiones ilegales, irrazonables, injustos, inadecuados o erróneos, o hubiesen dejado sin respuesta las solicitudes presentadas por los interesados durante un período que exceda notoriamente los plazos fijados por las Leyes.
+Concluida la investigación y rechazada la Propuesta de Solución, la o el Visitador General correspondiente formulará, en su caso, un proyecto de recomendación en el cual analizará los hechos, los argumentos y pruebas, así como los elementos de convicción y las diligencias practicadas a fin de determinar si las autoridades o las o los servidores públicos han violado o no los derechos humanos de los afectados, al haber incurrido en actos u omisiones ilegales, irracionales, injustos, inadecuados o erróneos, o hubiesen dejado sin respuesta las solicitudes presentadas por las personas interesadas durante un período que exceda notoriamente los plazos fijados por las leyes.
 
 En el proyecto de recomendación, se señalarán las medidas que procedan para la efectiva restitución de los derechos de los afectados.
 
-Los proyectos antes mencionados serán sometidos al Presidente de la Comisión para su consideración y resolución final.
+El proyecto antes mencionado será sometido a la Presidenta o el Presidente de la Comisión para su consideración y resolución final.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 85.
 
-El Presidente de la Comisión analizará los proyectos de recomendación y los acuerdos de no responsabilidad presentados por los Visitadores Generales, elaborará las observaciones que considere convenientes y, en su caso, los suscribirá.
+La Presidenta o el Presidente de la Comisión analizará los proyectos de Propuestas de Solución, de Recomendación, los Acuerdos de no Responsabilidad y de Conclusión presentados por las o los Visitadores Generales, elaborará las observaciones que considere pertinentes y en su caso, los suscribirá.
 
-Los procedimientos de queja podrán terminar con un acuerdo de no responsabilidad, un acuerdo de conciliación, la emisión de una recomendación o la orientación al quejoso.
+Los procedimientos de queja podrán terminar con un acuerdo de no responsabilidad, un acuerdo de conclusión, la emisión de una propuesta de solución debidamente aceptada y cumplida, de una recomendación o la orientación a las personas quejosas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 86.
 
-La recomendación no tendrá carácter vinculatorio para la autoridad o servidor público a los cuales se dirija. Por lo tanto, no podrá anular, modificar o dejar sin efecto las resoluciones o actos contra los cuales se haya presentado la queja o denuncia.
+La propuesta de solución y la recomendación, no tendrán carácter vinculatorio para la autoridad o la persona del servicio público a los cuales se dirija. Por lo tanto, no podrán anular, modificar o dejar sin efecto las resoluciones o actos contra los cuales se haya presentado la queja o denuncia.
 
-En todo caso, una vez recibida, la autoridad o servidor público de que se trate deberá informar dentro de los diez días hábiles siguientes a su notificación, si acepta dicha recomendación. En su caso, deberá acreditar dentro de los diez días hábiles siguientes, contados a partir de la aceptación, que le ha dado cumplimiento.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
+En todo caso, una vez recibida la resolución respectiva, la autoridad o servidor público de que se trate deberá informar dentro de los diez días hábiles siguientes a su notificación, si acepta dicha propuesta de solución o recomendación
 
 El plazo podrá ser ampliado cuando la naturaleza de la recomendación así lo requiera.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 87.
 
-Cuando de las recomendaciones emitidas por la Comisión resulte evidente la frecuencia y reiteración de ciertas violaciones de derechos humanos o actos discriminatorios, la Comisión estará facultada para investigar de oficio el área de actuación con que se relacionen dichas recomendaciones, para efectos de formular pronunciamientos generales dirigidos a prevenir su recurrencia e instrumentar las medidas idóneas para corregir dicha situación.
+Cuando de las recomendaciones o propuestas de solución emitidas por la Comisión resulte evidente la frecuencia y reiteración de ciertas violaciones de derechos humanos o actos discriminatorios, la Comisión estará facultada para investigar de oficio el área de actuación con que se relacionen dichas recomendaciones, para efectos de formular pronunciamientos generales dirigidos a prevenir su recurrencia e instrumentar las medidas idóneas para corregir dicha situación.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 88.
 
-Las recomendaciones y los acuerdos de no responsabilidad se referirán a casos concretos, por lo que las autoridades no podrán aplicarlos a otros casos por analogía o mayoría de razón.
+Las propuestas de solución, recomendaciones, los acuerdos de no responsabilidad y de conclusión, se referirán a casos concretos, por lo que las autoridades no podrán aplicarlos a otros casos por analogía o mayoría de razón.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 89.
 
-Cuando los quejosos o las autoridades a las que se dirija una recomendación, consideren que algún concepto, razonamiento, hecho o cualquier aspecto de alguna resolución no es claro, les genera confusión o requiere de complementación, podrán solicitar dentro de un plazo de cinco días hábiles y de forma excepcional, que la Comisión precise el sentido y alcance de dicha recomendación.
+Cuando las personas quejosas o las autoridades a las que se dirija una resolución consideren que algún concepto, razonamiento, hecho o cualquier aspecto de alguna resolución no es claro, les genere confusión o requieran de complementación, podrán solicitar dentro de un plazo de cinco días hábiles y de forma excepcional, que la Comisión precise el sentido y alcance de dicha resolución.
 
 La Comisión tendrá un plazo de diez días para pronunciarse.
 
@@ -817,9 +971,15 @@ Las actuaciones de la Comisión podrán ser revisadas en los términos estableci
 
 #### Sección Cuarta. De las Notificaciones
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 91.
 
-La Comisión deberá notificar inmediatamente a los quejosos de los resultados de la investigación, la recomendación que haya dirigido a las autoridades o servidores públicos de las violaciones respectivas, la aceptación y la ejecución de la misma, y en su caso, el acuerdo de no responsabilidad.
+La Comisión deberá notificar inmediatamente a las personas quejosas y/o agraviadas de los resultados de la investigación, la resolución que haya dirigido a las autoridades o las o los servidores públicos de las violaciones respectivas, la aceptación y la ejecución de la misma, y en su caso, el acuerdo de no responsabilidad.
+
+Las notificaciones que se considere deban realizarse de forma personal, si el domicilio de la persona quejosa no es localizado, se encontrare cerrado o en el mismo se negaren a recibirla, quien la notifique deberá dejar el documento por debajo o pegada en la puerta, en un buzón o en algún lugar, que a criterio del notificador, quede segura, elaborando la razón actuarial respectiva.
+
+Las personas quejosas, reclamantes o quienes las reciban en su nombre, deberán firmar las notificaciones, si no saben firmar o no quisieren hacerlo, quien notifique asentará esa circunstancia. La persona encargada de realizar la notificación, de ser posible, deberá anotar el nombre, domicilio, y los datos de identificación de la persona que le atiende.
 
 ###### Artículo 92.
 
@@ -869,9 +1029,11 @@ La Comisión podrá requerir a las autoridades competentes la aplicación de las
 
 El organismo disciplinario informará a la Comisión acerca de las sanciones impuestas o en su caso las razones de su negativa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 101.
 
-El Congreso del Estado podrá citar a comparecer a todo servidor público, Estatal o Municipal, para que informe las razones de su actuación cuando:
+El Congreso del Estado podrá citar a comparecer a toda autoridad o servidora o servidor público, Estatal o Municipal, para que informe las razones de su actuación cuando:
 
 I.- No acepte total o parcialmente una recomendación o si es omiso después de haber transcurrido el término que señala este ordenamiento para informar si acepta o no dicha recomendación; y
 
@@ -889,9 +1051,11 @@ La Comisión podrá elaborar informes específicos u observaciones de carácter 
 
 Dicho informe u observación general contendrá un diagnóstico sobre el estado que guarda la materia en estudio, y de ser posible emitirá una serie de recomendaciones con la finalidad de corregir la situación imperante.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 104.
 
-La Comisión podrá emitir informes específicos cuando se acredite que en las actividades del personal de alguna dependencia del sector público estatal o municipal, se incurra en irregularidades que considere violatorio de derechos humanos.
+La Comisión podrá emitir informes específicos cuando se acredite que en las actividades del personal de alguna dependencia del sector público estatal o municipal, se incurra en irregularidades que se consideren violatorias de Derechos Humanos o discriminatorios.
 
 Dichos informes podrán ser emitidos cuando por cualquier acontecimiento o circunstancia no relacionada con algún expediente de queja u orientación, se detecte alguna irregularidad en la prestación de un servicio público de la administración estatal o municipal.
 
@@ -931,9 +1095,11 @@ VI.- Organizar campañas de sensibilización en temas como el respeto e integrac
 
 VII.- Las demás que establezca su Reglamento Interno.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 109.
 
-En la celebración de convenios con el Estado se atenderán, principalmente, aquellas áreas vinculadas a los derechos humanos, como la dependencia encargada de la seguridad pública, el sistema de reclusorios y centros de readaptación social y la Procuraduría General de Justicia estatal.
+En la celebración de convenios con el Estado, se atenderán principalmente, aquellas áreas vinculadas a los Derechos Humanos, como la dependencia encargada de la seguridad pública, de los Centros de Reinserción Social y la Procuraduría General de Justicia del Estado.
 
 ###### Artículo 110.
 
@@ -947,13 +1113,17 @@ La Comisión desarrollará un Programa encaminado a la protección de la liberta
 
 ### Capítulo XV. De los Programas de Atención a Grupos Prioritarios
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 112.
 
-La Comisión, adicionalmente a lo dispuesto en el Artículo anterior, desarrollará programas de atención prioritaria a grupos especialmente vulnerables en materia de derechos humanos.
+La Comisión adicionalmente a los (sic) dispuesto en el artículo anterior, desarrollará los programas de atención prioritaria a grupos especialmente vulnerables en materia de Derechos Humanos y no discriminación. También podrá establecer observatorios en los que se dé seguimiento a las políticas públicas implementadas en la materia, a los criterios nacionales e internacionales de los organismos encargados de su protección, así como a los puntos de vista y criterios doctrinales que se viertan en la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 113.
 
-los (sic) programas de promoción y difusión mencionados (sic) en el Artículo anterior, comprenderán por lo menos los siguientes temas:
+Los programas de promoción y difusión mencionados en el artículo anterior, comprenderán por lo menos los siguientes temas:
 
 I.- Defensores civiles de los derechos humanos y combate a la discriminación;
 
@@ -971,9 +1141,25 @@ VII.- Miembros de pueblos y comunidades indígenas;
 
 VIII.- Portadores de VIH;
 
-IX.- Personas discriminadas por su preferencia sexual; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
 
-X.- Igualdad entre hombres y mujeres.
+IX.- Personas discriminadas por su preferencia sexual;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+X.- Igualdad entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+XI.- Personas Migrantes o en tránsito;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+XII.- Personas en reclusión; y
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+XIII.- Asuntos religiosos.
 
 ### Capítulo XVI. Del Informe de Actividades
 
@@ -1027,19 +1213,23 @@ La Comisión contará con un órgano de control interno que auxilie al President
 
 ### Capítulo XVIII. Del Régimen Laboral
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 123.
 
-El personal que preste sus servicios en la Comisión de Derechos Humanos del Estado de Hidalgo estará regulado por las disposiciones establecidas en el Apartado A del Artículo 123 de la Constitución General de la República.
+El personal que preste sus servicios en la Comisión de Derechos Humanos del Estado de Hidalgo, estará regulado por las disposiciones establecidas en el apartado B del artículo 123 de la Constitución General de la República.
 
 ###### Artículo 124.
 
 Todos los servidores públicos que integran la planta de la Comisión son trabajadores de confianza debido a la naturaleza de las funciones que ésta desempeña.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 125.
 
-Se establecerá un servicio profesional de carrera que garantice el cumplimiento de los objetivos de la Comisión, de conformidad con lo que disponga el Reglamento Interno.
+Se establecerá un servicio profesional de carrera que garantice el cumplimiento de los objetivos de la Comisión, de conformidad con lo que disponga el Reglamento interno.
 
-La selección del personal técnico y administrativo se llevará a cabo por concurso público abierto.
+La selección del personal jurídico, técnico y administrativo se llevará a cabo por concurso público abierto, mediante los lineamientos y requisitos que establezca la convocatoria correspondiente.
 
 ### Capítulo XIX. Del Patrimonio y del Presupuesto de la Comisión
 
@@ -1050,6 +1240,34 @@ El patrimonio de la Comisión se constituye con los bienes muebles e inmuebles q
 ###### Artículo 127.
 
 La Comisión tendrá la facultad de elaborar el anteproyecto de Presupuesto anual de Egresos, el cual remitirá al Gobernador del Estado, para que lo considere dentro del Proyecto de Presupuesto Estatal que debe enviarse al Congreso local.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2016)</small>
+
+### Capítulo XX. De la Unidad Institucional para la Igualdad entre Mujeres y Hombres
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
+###### Artículo 128.
+
+La Unidad Institucional para la Igualdad entre Mujeres y Hombres tiene por objeto el establecimiento de la perspectiva de género mediante el diseño, la implementación y evaluación de políticas públicas y lineamientos en la materia.
+
+Estará a cargo de una persona designada por la o el titular de la Presidencia de quien dependerá desde el punto de vista jerárquico y funcional.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2016)</small>
+
+###### Artículo 129.
+
+A La Unidad Institucional para la Igualdad entre Mujeres y Hombres le corresponden las siguientes funciones:
+
+I.- Fomentar e incorporar la perspectiva de género en las actividades de la Comisión;
+
+II.- Asesorar a quien presida la Comisión para formular acciones, programas o proyectos en temas afines a la igualdad real entre mujeres y hombres y la eliminación de la violencia en contra de las personas;
+
+III.- Promover, difundir y publicar la información en materia de igualdad de género;
+
+IV.- Coadyuvar en la atención de los asuntos de discriminación por razones de género en las relaciones internas de la Comisión; y
+
+V.- Las demás que se establezcan en su Reglamento y los ordenamientos legales aplicables.
 
 T R A N S I T O R I O S
 
@@ -1092,3 +1310,11 @@ P.O. 22 DE OCTUBRE DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N.DE E. TRANSITORIOS DEL “DECRETO NÚM. 690 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al contenido del presente Decreto.
