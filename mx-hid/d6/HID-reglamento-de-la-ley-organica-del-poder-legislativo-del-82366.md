@@ -4,7 +4,7 @@ identifier: "HID-reglamento-de-la-ley-organica-del-poder-legislativo-del-82366"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-01"
-last_updated: "2016-05-23"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 1 de agosto de 2011.
 
@@ -483,9 +483,11 @@ I.- Conocer y emitir resolutivos en los asuntos que le sean turnados en materia 
 
 II.- Las demás que le sean conferidas por el Pleno o la Diputación Permanente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 35.
 
-Corresponde a la Comisión de Medio Ambiente:
+Corresponde a la Comisión de Medio Ambiente, Recursos Naturales y Cambio Climático:
 
 I.- Conocer y emitir resolutivos de los asuntos que le sean turnados en materia de medio ambiente, recursos naturales y cambio climático; y
 
@@ -1586,5 +1588,11 @@ TERCERO. Se derogan todas las disposiciones que se opongan a las contenidas en e
 P.O. 23 DE MAYO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 656.- QUE ADICIONA LA FRACCIÓN V BIS AL ARTÍCULO 117, UN SEGUNDO PÁRRAFO AL ARTÍCULO 137 DE LA LEY ORGÁNICA Y ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 69 DEL REGLAMENTO, AMBOS DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 678 QUE REFORMA LA FRACCIÓN X DEL ARTÍCULO 77 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO; Y EL PRIMER PÁRRAFO DEL ARTÍCULO 35 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
