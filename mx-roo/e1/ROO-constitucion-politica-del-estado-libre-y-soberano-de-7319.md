@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2016-06-25"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2016.
-
-> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO 411, PUBLICADO EN EL P.O. 25 DE JUNIO DE 2016, LAS REFERENCIAS QUE SE HAGAN EN OTRAS LEYES DE LA ENTIDAD A LA PROCURADURÍA GENERAL DE JUSTICIA O AL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO, SE ENTENDERÁN AHORA A LA FISCALÍA GENERAL DEL ESTADO Y AL FISCAL GENERAL DEL ESTADO, RESPECTIVAMENTE.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -38,6 +36,8 @@ Decreto por el que se promulga la Constitución Política del Estado Libre y Sob
 David Gustavo Gutiérrez Ruiz, Gobernador Provisional del Estado de Quintana Roo a sus habitantes sabed:
 
 Que la H. Legislatura Constituyente del Estado Libre y Soberano de Quintana Roo electa el 10 de Noviembre de 1974, de conformidad a lo dispuesto en el artículo cuarto transitorio del Decreto expedido por Luis Echeverría Alvarez, Presidente Constitucional de los Estados Unidos Mexicanos el 7 de octubre anterior y publicado en el Diario Oficial de la Federación al día siguienteha (sic) tenido a bien expedir la siguiente
+
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO 411, PUBLICADO EN EL P.O. 25 DE JUNIO DE 2016, LAS REFERENCIAS QUE SE HAGAN EN OTRAS LEYES DE LA ENTIDAD A LA PROCURADURÍA GENERAL DE JUSTICIA O AL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO, SE ENTENDERÁN AHORA A LA FISCALÍA GENERAL DEL ESTADO Y AL FISCAL GENERAL DEL ESTADO, RESPECTIVAMENTE.]</small>
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
@@ -1303,9 +1303,11 @@ XXVI.- Legislar acerca de la administración, conservación y enajenación de lo
 
 XXVII.- Aprobar o rechazar las concesiones otorgadas por el ejecutivo.
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXVIII.- Nombrar y remover, conforme al procedimiento previsto en esta Constitución o en la Ley correspondiente, a los titulares de las dependencias del Poder Legislativo, así como al Titular del Órgano de Fiscalización Superior del Estado.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+XXVIII.- Nombrar y remover, conforme al procedimiento previsto en esta Constitución o en la Ley correspondiente, al Titular del Órgano de Fiscalización Superior del Estado;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -1363,9 +1365,9 @@ XLII.- Determinar el patrimonio familiar señalando los bienes que lo integran, 
 
 XLIII.- Legislar en materia de seguridad social, teniendo como objetivo la permanente superación del nivel de vida de la población, el mejoramiento de su salud y la conservación del medio ambiente, y
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
 
-XLIV.- Integrar la lista de candidatos a Fiscal General del Estado; designar y remover a dicho servidor público de conformidad con esta Constitución y la ley de la materia. Designar y remover al Contralor interno de la Fiscalía General del Estado, así como tomarles protesta a ambos servidores públicos;
+XLIV.- Integrar la lista de candidatos a Fiscal General del Estado; designar y remover a dicho servidor público de conformidad con esta Constitución y la ley de la materia, así como tomarle la protesta.
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -1389,9 +1391,7 @@ XLVIII. Expedir leyes encaminadas a combatir el alcoholismo;
 
 XLIX.- Nombrar a los comisionados del órgano garante previsto en el artículo 21 de ésta Constitución, en los términos establecidos en la ley de la materia.
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2016)</small>
-
-L.- Ratificar la designación de los Magistrados del Tribunal de Justicia Administrativa del Estado, que realice el Titular del Poder Ejecutivo del Estado, así como tomarles la protesta de ley, y
+L.- (DEROGADA, P.O. 1 DE AGOSTO DE 2016)
 
 > <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2016)</small>
 
@@ -1413,9 +1413,11 @@ I.- Acordar por sí o a propuesta del Ejecutivo, la convocatoria a sesiones extr
 
 II.- Instalar y presidir la primera Junta Preparatoria de la nueva Legislatura;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-III.- Nombrar interinamente a los titulares de las Dependencias del Poder Legislativo, así como al Titular del Órgano de Fiscalización Superior del Estado;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+
+III.- Nombrar interinamente al Titular del Órgano de Fiscalización Superior del Estado.
 
 IV.- Resolver los asuntos de su competencia y recibir durante los recesos de la Legislatura las iniciativas de ley y proposiciones que le dirijan turnándolas para dictamen, a fin de que se despachen en el período inmediato de sesiones;
 
@@ -1431,9 +1433,9 @@ VIII.- Designar a los Magistrados del Tribunal Superior de Justicia del Estado a
 
 IX.- Recibir la protesta de Ley al Gobernador interino, provisional, sustituto o quien haga sus veces;
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
 
-X.- Convocar a periodo extraordinario para llevar a cabo la designación o remoción del Fiscal General del Estado, designar y remover al Contralor Interno de la Fiscalía General del Estado, así como tomarle la protesta de ley a este último;
+X.- Convocar a periodo extraordinario para llevar a cabo la designación o remoción del Fiscal General del Estado;
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -1447,9 +1449,7 @@ XII.- Designar mediante el procedimiento previsto en esta Constitución y en las
 
 XIII.- Nombrar a los comisionados del órgano garante previsto en el artículo 21 de ésta Constitución, en los términos establecidos en la ley de la materia.
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2016)</small>
-
-XIV.- Ratificar la designación de los Magistrados del Tribunal de Justicia Administrativa del Estado, que realice el Titular del Poder Ejecutivo del Estado, así como tomarles la protesta de ley, y
+XIV.- (DEROGADA, P.O. 1 DE AGOSTO DE 2016)
 
 > <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2016)</small>
 
@@ -1717,9 +1717,7 @@ XVII.- Formular y remitir a la Legislatura del Estado, la terna de candidatos a 
 
 XVIII.- Solicitar a la Comisión Nacional de los Derechos Humanos la investigación de hechos que constituyan violaciones graves de Derechos Humanos;
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2016)</small>
-
-XIX.- Designar a los Magistrados del Tribunal de Justicia Administrativa del Estado, los cuales deberán ser ratificados por la Legislatura del Estado o la Diputación Permanente, en su caso, y
+XIX. (DEROGADA, P.O. 1 DE AGOSTO DE 2016)
 
 > <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2016)</small>
 
@@ -1923,13 +1921,13 @@ El Tribunal Superior de Justicia se integra por nueve magistrados numerarios y e
 
 El Pleno del Tribunal se integrará solamente con los magistrados numerarios, con la excepción de los supuestos previstos en esta Constitución y en la Ley Orgánica del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
-Las Salas se integrarán por Magistrados Numerarios o Supernumerarios organizadas por materia o circuito, pudiendo ser unitarias o colegiadas con la conformación, integración, jurisdicción y competencia que determine el Pleno con sujeción a la ley. Las Salas Colegiadas se integrarán con tres magistrados. La Sala Constitucional se integrará con un Magistrado Numerario.
+Las Salas se integrarán por Magistrados Numerarios o Supernumerarios organizadas por materia o circuito, pudiendo ser unitarias o colegiadas con la conformación, integración, jurisdicción y competencia que determine el Pleno con sujeción a la ley. Las Salas Colegiadas se integrarán con tres magistrados. La Sala Constitucional y Administrativa se integrará con un Magistrado Numerario.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
-Las apelaciones en los juicios de oralidad serán resueltas de forma unitaria o colegiada, por los Magistrados en los casos previstos por la ley o determinación fundada del Pleno, con excepción del Magistrado Presidente, el Magistrado de la Sala Constitucional y el Magistrado Consejero.
+Las apelaciones en los juicios de oralidad serán resueltas de forma unitaria o colegiada, por los Magistrados en los casos previstos por la ley o determinación fundada del Pleno, con excepción del Magistrado Presidente, el Magistrado de la Sala Constitucional y Administrativa y el Magistrado Consejero.
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2014)</small>
 
@@ -2085,63 +2083,71 @@ En los términos que la ley disponga las sesiones del Pleno y de las Salas será
 
 El control constitucional se erige dentro del régimen interior del Estado, como un medio para mantener la eficacia y vigencia de esta Constitución; tiene por objeto dirimir de manera definitiva e inatacable en el orden jurídico estatal, los conflictos que por la constitucionalidad de sus actos o disposiciones generales, surjan en el ámbito interior del Estado entre el Poder Ejecutivo y el Legislativo o entre uno de ellos y los municipios que conforman el Estado, o entre dos o más municipios, sin perjuicio de lo previsto en los artículos 76 fracción VII, 103, 105, 107 y último párrafo de la fracción II del 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 105.
 
-Para el cumplimiento de las atribuciones señaladas en la fracción VIII del Artículo 103 de esta Constitución, el Tribunal Superior de Justicia contará con una Sala Constitucional, integrada por un Magistrado numerario, que tendrá competencia para substanciar y formular, en los términos de la Ley respectiva, los correspondientes proyectos de resolución definitiva que se someterán al Pleno del Tribunal Superior de Justicia, en los siguientes medios de control:
+El Tribunal Superior de Justicia contará con una Sala Constitucional y Administrativa, integrada por un Magistrado Numerario, la cual tendrá competencia para:
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+APARTADO A. En cumplimiento de las atribuciones señaladas en la fracción VIII del artículo 103 de esta Constitución, deberá substanciar y formular en los términos de la ley respectiva, los correspondientes proyectos de resolución definitiva que se someterán al Pleno del Tribunal Superior de Justicia, en los siguientes medios de control:
 
-I. De las Controversias que, por la constitucionalidad de sus actos o disposiciones generales, con excepción de las que se refieran a la materia electoral, surjan entre:
+I. De las controversias que, por la constitucionalidad de sus actos o disposiciones generales, con excepción de las que se refieran a la materia electoral, surjan entre:
 
-A) El Poder Ejecutivo y el Poder Legislativo.
+a) El Poder Ejecutivo y el Poder Legislativo.
 
-B) El Poder Ejecutivo y uno de los municipios.
+b) El Poder Ejecutivo y uno de los Municipios.
 
-C) El Poder Legislativo y uno de los municipios.
+c) El Poder Legislativo y uno de los Municipios.
 
-D) Dos o más municipios del Estado.
+d) Dos o más municipios del Estado.
 
 Para que la controversia constitucional proceda, el actor deberá acreditar el interés jurídico.
 
 La ley establecerá el plazo para la interposición de la demanda y los casos en que proceda la suspensión del acto que las motive. La suspensión no podrá otorgarse cuando se demande la invalidez de disposiciones generales.
 
-La misma ley establecerá las condiciones para que tengan efectos generales, las resoluciones sobre controversias que impugnen la validez constitucional de disposiciones generales.
-
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+La misma Ley establecerá las condiciones para que tengan efectos generales, las resoluciones sobre controversias que impugnen la validez constitucional de disposiciones generales.
 
 II. De las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma de carácter general y esta Constitución, con excepción de las que se refieran a la materia electoral, siempre que se ejerzan dentro de los treinta días naturales siguientes a la fecha de publicación de la norma, por:
 
-A) Cuando menos la tercera parte de los miembros del Congreso del Estado;
+a) Cuando menos la tercera parte de los miembros del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
-
-B) El Fiscal General del Estado, en contra de leyes de carácter estatal;
+b) El Fiscal General del Estado, en contra de leyes de carácter estatal.
 
 La admisión de una acción de inconstitucionalidad no dará lugar a la suspensión de la norma impugnada.
 
 Las resoluciones del Pleno del Tribunal Superior de Justicia solo podrán declarar la invalidez de las normas impugnadas, siempre que fueren aprobadas por cuando menos las dos terceras partes del Pleno, y no tendrán efectos retroactivos, salvo en materia penal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2008)</small>
-
 III. De las acciones por omisión legislativa, cuando se considere que la Legislatura del Estado no ha resuelto sobre la expedición de alguna Ley o Decreto, y que dicha omisión afecte el debido cumplimiento de esta Constitución, siempre y cuando sean interpuestas por:
 
-A) El Gobernador del Estado; o
+a) El Gobernador del Estado, o
 
-B) Un Ayuntamiento del Estado.
-
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+b) Un Ayuntamiento del Estado.
 
 La resolución que emita el Pleno del Tribunal Superior de Justicia que decrete el reconocimiento de la inconstitucionalidad por omisión legislativa, surtirá sus efectos a partir de su publicación en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
+En dicha resolución se determinará un plazo para que se expida la Ley o Decreto de que se trate la omisión, a más tardar en el período ordinario que curse o el inmediato siguiente de la Legislatura del Estado, pudiendo disminuir este plazo cuando el interés público lo amerite.
 
-En dicha resolución se determinará un plazo para que se expida la Ley o Decreto de que se trate la omisión, a más tardar en el período ordinario que curse o el inmediato siguiente de la Legislatura del Estado; pudiendo disminuir este plazo cuando el interés público lo amerite.
+APARTADO B. De oficio o a petición de parte, también conocerá de las contradicciones de tesis que se contengan en las resoluciones de las demás salas, debiendo presentar el proyecto al Pleno del Tribunal para los efectos de la fracción IV del artículo 103 de esta Constitución. La Ley establecerá los términos en los que el Pleno del Tribunal Superior de Justicia emita jurisprudencia, sobre la interpretación de leyes, decretos y reglamentos locales, así como los requisitos para su interrupción y modificación.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
+APARTADO C. Conocerá y resolverá de los recursos o medios de defensa que la ley señale como de su competencia, que tengan por objeto dirimir las controversias que se susciten entre los particulares y la administración pública estatal o municipal:
 
-La Sala Constitucional, de oficio o a petición de parte, también conocerá de las contradicciones de tesis que se contengan en las resoluciones de las demás salas, debiendo presentar el proyecto al Pleno del Tribunal para los efectos de la fracción IX del Artículo 103 de esta Constitución. La Ley establecerá los términos en los que el Pleno del Tribunal Superior de Justicia emita jurisprudencia, sobre la interpretación de leyes, decretos y reglamentos locales, así como los requisitos para su interrupción y modificación.
+I. De los juicios en contra de actos administrativos que las autoridades de la Administración Pública del Estado o de los Ayuntamientos dicten, ordenen, ejecuten o traten de ejecutar, en agravio de personas físicas o morales;
+
+II. De los juicios en contra de los actos administrativos de la Administración Pública Paraestatal del Estado o los Municipios, cuando actúen con el carácter de autoridades;
+
+III. De los juicios en contra de las resoluciones definitivas dictadas por la Administración Pública del Estado o de los Ayuntamientos en las que se determine la existencia de una obligación fiscal, se fije ésta en cantidad líquida o se den las bases para su liquidación, nieguen la devolución de un ingreso indebidamente percibido o cualesquiera otras que causen agravio en materia fiscal;
+
+IV. De los juicios en contra de la falta de contestación de las mismas autoridades, dentro de un término de treinta días naturales, a las promociones presentadas ante ellas por los particulares, a menos que las leyes y reglamentos fijen otros plazos o la naturaleza del asunto lo requiera;
+
+V. De los juicios en contra de resoluciones de negativa ficta en materia fiscal, que se configurarán transcurridos cuatro meses a partir de la recepción por parte de las autoridades demandadas competentes de la última promoción presentada por él o los demandantes, a menos que las leyes fiscales fijen otros plazos;
+
+VI. De los juicios en que se demande la resolución de afirmativa ficta, cuando lo establezcan expresamente las disposiciones legales aplicables y en los plazos en que éstas lo determinen;
+
+VII. De los juicios en que se impugne la negativa de la autoridad a certificar la configuración de la afirmativa ficta, cuando así lo establezcan las leyes;
+
+VIII. De los juicios que promuevan las autoridades para que sean nulificadas las resoluciones fiscales favorables a las personas físicas o morales y que causen una lesión a la Hacienda Pública del Estado o de los Ayuntamientos, y
+
+IX. De los demás que expresamente se señalen en esta Constitución y la Ley.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
 
@@ -2195,89 +2201,17 @@ La Cuenta Pública del Poder Judicial del Estado será revisada por la Legislatu
 
 La Ley establecerá las bases para el manejo de dicho fondo.
 
-> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2016)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ### CAPÍTULO VI. DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
-
 ###### ARTICULO 110.
 
-El Tribunal de Justicia Administrativa del Estado de Quintana Roo, es un órgano jurisdiccional autónomo, con personalidad jurídica y patrimonio propio, con autonomía para dictar sus fallos y con jurisdicción plena. La ley establecerá las bases de su organización, funcionamiento, procedimientos y, en su caso, recursos contra sus resoluciones.
-
-La sede del Tribunal de Justicia Administrativa del Estado, será en la capital del Estado de Quintana Roo.
-
-El Tribunal se integrará por tres magistrados, uno de los cuales fungirá como su Presidente, el cual será electo por los miembros del Tribunal, para un período de tres años. El Tribunal de Justicia Administrativa del Estado funcionará en Pleno, de manera permanente.
-
-Para ser Magistrado del Tribunal de Justicia Administrativa del Estado, se requiere:
-
-I.- Ser ciudadano mexicano por nacimiento;
-
-II.- Ser ciudadano quintanarroense, en ejercicio de sus derechos políticos y civiles;
-
-III.- Tener cuando menos treinta y cinco años de edad cumplidos el día de la designación;
-
-IV.- Poseer el día de la designación, título y cédula profesional de Licenciado en Derecho, expedido por la autoridad o institución legalmente facultada para ello, con antigüedad mínima de diez años;
-
-V.- Gozar de buena reputación, y no haber sido condenado por delito doloso;
-
-VI.- Haber residido en el Estado durante los diez años anteriores al día de la designación;
-
-VII.- No pertenecer al Estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se haya separado cinco años anteriores a la fecha de su designación, y
-
-VIII.- No haber sido Gobernador, Secretario de Despacho o su equivalente, Fiscal General del Estado, Senador, Diputado Federal o Local, Presidente Municipal, Magistrado, Integrante o contralor de órgano autónomo constitucional, durante los cinco años previos al día de su designación.
-
-Los Magistrados del Tribunal de Justicia Administrativa serán designados por el Titular del Poder Ejecutivo del Estado y ratificados por el voto de las dos terceras partes de los miembros integrantes de la Legislatura del Estado, o en sus recesos, por las dos terceras partes de los miembros integrantes de la Diputación Permanente, de acuerdo con el procedimiento que establezca la ley y durarán en su encargo siete años, con posibilidad de ser ratificado por un periodo de igual duración. Los Magistrados del Tribunal de Justicia Administrativa del Estado rendirán protesta ante la Legislatura del Estado o la Diputación Permanente, en su caso.
-
-Los Magistrados del Tribunal de Justicia Administrativa del Estado sólo podrán ser removidos de sus cargos por las causas graves que señale la ley.
-
-El Tribunal de Justicia Administrativa del Estado contará con un Secretario General. La ley determinará los requisitos, el procedimiento de designación y el tiempo de duración de su encargo.
-
-Los funcionarios señalados en el presente artículo, no podrán tener, servir o desempeñar al mismo tiempo otro empleo, cargo o comisión diverso, con excepción de la docencia y los cargos honoríficos en instituciones públicas o privadas, asociaciones o sociedades científicas, literarias, culturales, educativas, deportivas, de investigación científica o de beneficencia, cuyo desempeño no perjudique las funciones o labores propias de su cargo.
-
-La retribución que perciban los Magistrados del Tribunal de Justicia Administrativa del Estado, será la equivalente a la de un Magistrado Numerario del Tribunal Superior de Justicia del Estado.
-
-El Presupuesto de Egresos del Tribunal de Justicia Administrativa del Estado, no podrá ser menor al cero punto quince por ciento del presupuesto de Egresos del Estado, para el ejercicio fiscal de que se trate y en ningún caso, será menor al presupuesto otorgado en el año inmediato anterior. Para tal efecto, el proyecto de presupuesto de egresos del Tribunal, será remitido a la Legislatura, para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 15 de noviembre del año anterior al ejercicio fiscal que corresponda. El presupuesto de egresos del Tribunal de Justicia Administrativa del Estado, deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
-
-El Tribunal de Justicia Administrativa del Estado ejercerá directamente su presupuesto aprobado por la Legislatura del Estado, sin sujetarse a las disposiciones de la Secretaría de Finanzas y Planeación del Estado.
-
-La Ley establecerá las condiciones para el ingreso, formación, permanencia, capacitación y actualización de los servidores públicos del Tribunal de Justicia Administrativa del Estado.
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
+(DEROGADO, P.O. 1 DE AGOSTO DE 2016)
 
 ###### ARTICULO 111.
 
-El Tribunal de Justicia Administrativa del Estado de Quintana Roo, tendrá a su cargo:
-
-I.- Dirimir las controversias que se susciten entre la administración pública local y municipal y los particulares, derivados de:
-
-a) Los juicios en contra de actos administrativos que las autoridades de la Administración Pública del Estado o de los Ayuntamientos dicten, ordenen, ejecuten o traten de ejecutar, en agravio de personas físicas o morales;
-
-b) Los juicios en contra de los actos administrativos de la Administración Pública Paraestatal del Estado o los Municipios, cuando actúen con el carácter de autoridades;
-
-c) Los juicios en contra de las resoluciones definitivas dictadas por la Administración Pública del Estado o de los Ayuntamientos en las que se determine la existencia de una obligación fiscal, se fije ésta en cantidad líquida o se den las bases para su liquidación, nieguen la devolución de un ingreso indebidamente percibido o cualesquiera otras que causen agravio en materia fiscal;
-
-d) Los juicios en contra de la falta de contestación de las mismas autoridades, dentro de un término de treinta días naturales, a las promociones presentadas ante ellas por los particulares, a menos que las leyes y reglamentos fijen otros plazos o la naturaleza del asunto lo requiera;
-
-e) Los juicios en contra de resoluciones de negativa ficta en materia fiscal, que se configurarán transcurridos cuatro meses a partir de la recepción por parte de las autoridades demandadas competentes de la última promoción presentada por el o los demandantes, a menos que las leyes fiscales fijen otros plazos;
-
-f) Los juicios en que se demande la resolución de afirmativa ficta, cuando lo establezcan expresamente las disposiciones legales aplicables y en los plazos en que éstas lo determinen;
-
-g) Los juicios en que se impugne la negativa de la autoridad a certificar la configuración de la afirmativa ficta, cuando así lo establezcan las leyes, y
-
-h) Los juicios que promuevan las autoridades para que sean nulificadas las resoluciones fiscales favorables a las personas físicas o morales y que causen una lesión a la Hacienda Pública del Estado o de los Ayuntamientos;
-
-II.- Imponer, en los términos que disponga la ley, las sanciones a los servidores públicos locales y municipales por responsabilidad administrativa grave, y a los particulares que incurran en actos vinculados con faltas administrativas graves;
-
-III.- Fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos locales o municipales;
-
-IV.- Aprobar, modificar o dejar sin efectos la jurisprudencia y tesis relevantes que se deriven de las sentencias del Tribunal de Justicia Administrativa del Estado, y
-
-V.- Las demás atribuciones que expresamente se señalen en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y la Ley.
-
-Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, se observará lo previsto en esta Constitución, sin perjuicio de las atribuciones del Órgano de Fiscalización Superior del Estado sobre el manejo, la custodia y aplicación de recursos públicos.
-
-El Tribunal de Justicia Administrativa del Estado impondrá a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos locales o municipales. Las personas morales serán sancionadas en los mismos términos cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos locales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. La ley establecerá los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2016)
 
 ## TITULO QUINTO. De la División de Poderes
 
@@ -3607,19 +3541,19 @@ Las relaciones laborales entre los Municipios y sus trabajadores se regirán por
 
 ### CAPITULO UNICO. De la Responsabilidad de los Servidores Públicos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 160.
 
-Para los efectos de las responsabilidades a que alude este Título, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, funcionarios y empleados del gobierno del Estado y de los ayuntamientos y en general, a toda persona que desempeñe un cargo de cualquier naturaleza en los poderes Legislativo, Ejecutivo y Judicial, ayuntamientos, organismos descentralizados de la administración pública estatal o municipal, empresas de participación estatal o municipal y fideicomisos públicos del estado o de los municipios, así como a los funcionarios y empleados del Instituto Electoral de Quintana Roo, del Tribunal Electoral de Quintana Roo, del Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, de la Fiscalía General del Estado de Quintana Roo y del Tribunal de Justicia Administrativa del Estado de Quintana Roo, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades a que alude este Título, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, funcionarios y empleados del gobierno del Estado y de los ayuntamientos y en general, a toda persona que desempeñe un cargo de cualquier naturaleza en los poderes Legislativo, Ejecutivo y Judicial, ayuntamientos, organismos descentralizados de la administración pública estatal o municipal, empresas de participación estatal o municipal y fideicomisos públicos del estado o de los municipios, así como a los funcionarios y empleados del Instituto Electoral de Quintana Roo, del Tribunal Electoral de Quintana Roo, del Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo y de la Fiscalía General del Estado de Quintana Roo, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 La Legislatura del Estado expedirá una Ley de Responsabilidades de los Servidores Públicos, así como las demás disposiciones que sancionen conductas que entrañen responsabilidad de los servidores públicos conforme a las siguientes prevenciones:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
 
-I.- Se impondrá mediante juicio político: a la o el Gobernador del Estado, a las y los Diputados de la Legislatura, las y los Magistrados del Tribunal Superior de Justicia, las y los Magistrados del Tribunal Electoral de Quintana Roo, las y los Consejeros de la Judicatura del Poder Judicial, las y los Magistrados del Tribunal de Justicia Administrativa del Estado, a la o al Titular del Órgano de Fiscalización Superior, a las o los comisionados del Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, a las o los Consejeros Electorales del Consejo General, así como a la o el Secretario General del Instituto Electoral de Quintana Roo, las y los Secretarios y Subsecretarios del Despacho, a la o el Fiscal General del Estado, las y los Directores Generales o sus equivalentes de los organismos descentralizados del Estado o de los Municipios, empresas de participación estatal o municipal, fideicomisos del Estado o de los Municipios y miembros de los Ayuntamientos; sanciones consistentes en destitución del cargo e inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público, cuando incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. Cualquier ciudadano bajo su más estricta responsabilidad y aportando los elementos de prueba, podrá formular denuncia ante la Legislatura, de las conductas a que se refiere esta fracción.
+I. Se impondrá mediante juicio político: a la o el Gobernador del Estado, a las o los Diputados de la Legislatura, las y los Magistrados del Tribunal Superior de Justicia, las y los Magistrados del Tribunal Electoral de Quintana Roo, las y los Consejeros de la Judicatura del Poder Judicial, a la o al Titular del Órgano de Fiscalización Superior, a las o los comisionados del Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, a las o los Consejeros Electorales del Consejo General, así como a la o el Secretario General del Instituto Electoral de Quintana Roo, las y los Secretarios y Subsecretarios del Despacho, a la o el Fiscal General del Estado, las y los Directores Generales o sus equivalentes de los organismos descentralizados del Estado o de los Municipios, empresas de participación estatal o municipal, fideicomisos del Estado o de los Municipios y miembros de los Ayuntamientos; sanciones consistentes en destitución del cargo e inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público, cuando incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. Cualquier ciudadano bajo su más estricta responsabilidad y aportando los elementos de prueba, podrá formular denuncia ante la Legislatura, de las conductas a que se refiere esta fracción.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -4831,29 +4765,13 @@ e) La Secretaría de Finanzas y Planeación del Gobierno del Estado de Quintana 
 
 f) Los recursos humanos, presupuestales, financieros y materiales de la Procuraduría General de Justicia del Estado pasarán al órgano autónomo denominado Fiscalía General del Estado.
 
-g) El Titular de la Dirección General de Visitaduría que se encuentre en funciones a la entrada en vigor del presente decreto, quedará designado como Contralor interno de la Fiscalía General del Estado por el tiempo que establece el artículo 96 apartado D de esta Constitución.
+g) (DEROGADO POR TRANSITORIO CUARTO DE LA DECLARATORIA DE DECRETO NÚMERO: 446 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, P.O. 1 DE AGOSTO DE 2016)
 
-TERCERO. Una vez que entren en vigor las disposiciones constitucionales relativas al Tribunal de Justicia Administrativa del Estado de Quintana Roo, contenidas en este Decreto, se procederá de la siguiente forma:
-
-a) El Titular del Poder Ejecutivo del Estado, deberá designar a más tardar dentro de los quince días naturales siguientes a la entrada en vigor del presente decreto, mediante el procedimiento establecido en la ley, a los Magistrados del Tribunal de Justicia Administrativa del Estado de Quintana Roo.
-
-b) El Tribunal de Justicia Administrativa del Estado de Quintana Roo, como órgano autónomo, con personalidad jurídica y patrimonio propio, quedará instalado para efectos de llevar cabo su organización y funcionamiento interno administrativo, dentro de los quince días posteriores a la designación de los Magistrados, de conformidad con la Constitución Política del Estado Libre y Soberano de Quintana Roo y las leyes respectivas.
-
-Para iniciar su labor jurisdiccional, el Tribunal de Justicia Administrativa del Estado de Quintana Roo, quedará legalmente instalado, previa declaratoria que el mismo emita, el día nueve de enero del año dos mil diecisiete.
-
-c) En tanto queda legalmente instalada la función jurisdiccional del Tribunal de Justicia Administrativa del Estado de Quintana Roo, de conformidad con el inciso inmediato anterior, la Sala Constitucional del Poder Judicial del Estado, seguirá conociendo y substanciando los asuntos que sean competencia del Tribunal de Justicia Administrativa del Estado, de conformidad con las atribuciones establecidas en el artículo 111 de esta Constitución y demás legislación aplicable.
-
-d) La Sala Constitucional del Poder Judicial del Estado, deberá substanciar y concluir aquellos asuntos que se encuentren en trámite y que se hayan iniciado con anterioridad a la Instalación de la función jurisdiccional del Tribunal de Justicia Administrativa, de conformidad con la legislación aplicable.
-
-Asimismo, la Sala Constitucional del Poder Judicial del Estado seguirá conociendo en única instancia, de las resoluciones del Ministerio Público, sobre la reserva de la averiguación previa, el no ejercicio de la acción penal y las resoluciones de sobreseimiento que dicten los jueces con motivo de las peticiones de desistimiento que formule el Ministerio Público, respecto de los asuntos pendientes por substanciarse en el sistema tradicional de justicia penal, de conformidad con la Declaratoria de Incorporación del Sistema Procesal Penal Acusatorio y Oral en los ordenamientos legales del Estado libre y Soberano de Quintana Roo, publicado en el Periódico Oficial del Estado de Quintana Roo, de fecha 6 de junio de 2014.
-
-e) El Magistrado Numerario que conforma la Sala Constitucional del Poder Judicial del Estado, continuará ejerciendo sus funciones y competencias en su encargo por el tiempo que haya sido nombrado, dejando a salvo sus derechos de conformidad con las disposiciones previstas en la Constitución Política del Estado Libre y Soberano de Quintana Roo y la Ley Orgánica del Poder Judicial del Estado.
-
-f) Se faculta a la Secretaría de Finanzas y Planeación del Gobierno del Estado de Quintana Roo, para que efectúe las adecuaciones presupuestales necesarias, así como los traspasos y transferencias que resulten procedentes para el ejercicio fiscal 2016, a efecto de que el Tribunal de Justicia Administrativa del Estado de Quintana Roo, inicie con su correcto funcionamiento.
+TERCERO. (DEROGADO POR TRANSITORIO CUARTO DE LA DECLARATORIA DE DECRETO NÚMERO: 446 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, P.O. 1 DE AGOSTO DE 2016)
 
 CUARTO. Las referencias que se hagan en otras leyes de la entidad a la Procuraduría General de Justicia o al Procurador General de Justicia del Estado, se entenderán ahora a la Fiscalía General del Estado y al Fiscal General del Estado, respectivamente.
 
-Asimismo, las referencias que se hagan en otras leyes de la entidad a la Sala Constitucional y Administrativa del Poder Judicial del Estado y sean de competencia del Tribunal de Justicia Administrativa del Estado, en términos de lo establecido en este decreto, se entenderán hechas a éste.
+> <small>(DEROGADO SEGUNDO PÁRRAFO POR TRANSITORIO CUARTO DE LA DECLARATORIA DE DECRETO NÚMERO: 446 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 QUINTO. Los porcentajes de presupuesto de egresos establecidos para el Poder Legislativo, el Poder Judicial y órganos autónomos constitucionales, de acuerdo con lo establecido en el presente decreto, deberán aplicarse a partir del Presupuesto de Egresos del Estado, para el ejercicio fiscal 2017.
 
@@ -4862,3 +4780,27 @@ SEXTO. Por esta única ocasión, quien ejerce la titularidad de la Presidencia d
 SÉPTIMO. Lo dispuesto en el artículo 102 de este decreto, entrará en vigor a los quince días hábiles posteriores a la entrada en vigor de este decreto.
 
 OCTAVO. Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “DECLARATORIA DE DECRETO NÚMERO: 446 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo
+
+SEGUNDO. Se abroga la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Quintana Roo, emitida mediante decreto 414 de la XIV Legislatura del Estado y publicada en el Periódico Oficial del Estado de Quintana Roo número 57 Extraordinario Bis, de fecha 29 de junio de 2016.
+
+TERCERO. Se dejan sin efecto las designaciones de los Magistrados del Tribunal de Justicia Administrativa del Estado de Quintana Roo, realizadas por el Titular del Poder Ejecutivo del Estado y ratificadas por la Diputación Permanente del Segundo Receso del Tercer Año de Ejercicio Constitucional de la XIV Legislatura del Estado de Quintana Roo, mediante Declaratoria 003 publicada en el Periódico Oficial del Estado de Quintana Roo número 64 extraordinario de fecha 11 de julio de 2016.
+
+CUARTO. Se deroga el inciso g) del Artículo Segundo Transitorio; el Artículo Tercero Transitorio; y el segundo párrafo del Artículo Cuarto Transitorio, todos del Decreto 411 por el que se reforman y adicionan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Quintana Roo, mismo que fuera publicado en el Periódico Oficial del Estado, el día veinticinco de junio de dos mil dieciséis.
+
+QUINTO. La Sala Constitucional y Administrativa del Poder Judicial del Estado, seguirá conociendo en única instancia, de las resoluciones del Ministerio Publico, sobre la reserva de la averiguación previa, el no ejercicio de la acción penal y las resoluciones de sobreseimiento que dicten los jueces con motivo de las peticiones de desistimiento que formule el Ministerio Publico, respecto de los asuntos pendientes por substanciarse en el sistema tradicional de justicia penal, de conformidad con la Declaratoria de Incorporación del Sistema Procesal Penal Acusatorio y Oral en los ordenamientos legales del Estado Libre y Soberano de Quintana Roo, publicado en el Periódico Oficial del Estado de Quintana Roo, de fecha 6 de junio de 2014.
+
+SEXTO. Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 1 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “DECLARATORIA DE DECRETO NÚMERO: 447 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor previa su publicación en el Periódico Oficial del Estado de Quintana Roo, cuando inicie su vigencia el Decreto por el que se reforman y derogan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Quintana Roo, y por el que se reforman diversas disposiciones de la Ley Orgánica del Poder Judicial del Estado de Quintana Roo y de la Ley Reglamentaria de los artículos 104 y 105 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones vigentes que contravengan lo dispuesto en el presente Decreto.
