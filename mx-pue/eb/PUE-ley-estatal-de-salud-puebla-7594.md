@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2016-03-29"
+last_updated: "2016-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -143,9 +143,9 @@ VIII. La información relativa a las condiciones, recursos y servicios de salud;
 
 IX. La educación para la salud;
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, P.O 2 DE AGOSTO DE 2016)</small>
 
-X. La prevención, orientación, control y vigilancia en materia de nutrición, enfermedades respiratorias, enfermedades cardiovasculares y aquéllas atribuibles al tabaquismo;
+X. La prevención, orientación, control y vigilancia en materia de nutrición, sobrepeso, obesidad y otros trastornos de la conducta alimentaria, enfermedades respiratorias, enfermedades cardiovasculares y aquellas atribuibles al tabaquismo;
 
 XI. La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
 
@@ -241,13 +241,17 @@ V. Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente del E
 
 VI. Impulsar en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud y;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2016)</small>
 
-VII. Promover el conocimiento, desarrollo e investigación de la Medicina Tradicional, así como su práctica en condiciones adecuadas en los espacios físicos e infraestructura proporcionados por el Estado en materia de Atención a la Salud, y aquéllos que el Sistema Estatal de Salud reconozca; respetando la dignidad humana y el ejercicio adecuado de los conocimientos específicos en la materia; y
+VII. Promover el conocimiento, desarrollo e investigación de la Medicina Tradicional, así como su práctica en condiciones adecuadas en los espacios físicos e infraestructura proporcionados por el Estado en materia de atención a la salud, y aquellos que el Sistema Estatal de Salud reconozca; respetando la dignidad humana y el ejercicio adecuado de los conocimientos específicos en la materia;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2016)</small>
 
-VIII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección.
+VIII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección; y
+
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2016)</small>
+
+IX. Proporcionar orientación a la población respecto de la importancia de la alimentación nutritiva, suficiente y de calidad y su relación con los beneficios a la salud.
 
 ###### ARTICULO 7º.
 
@@ -285,15 +289,19 @@ XIV. Promover e impulsar la participación de la comunidad del Estado en el cuid
 
 > <small>(REFORMADA, P.O. 12 DE ENERO DE 2005)</small>
 
-XV.- Impulsar la permanente actualización de las disposiciones legales en materia de salud;
+XV. Impulsar la permanente actualización de las disposiciones legales en materia de salud;
 
-> <small>(REFORMADA, P.O. 12 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2016)</small>
 
-XVI.- Conocer de los casos clínicos que presenten muerte cerebral, pudiendo dar seguimiento a aquéllos, cuando se trate de posibles donadores; y
+XVI. Conocer de los casos clínicos que presenten muerte cerebral, pudiendo dar seguimiento a aquellos, cuando se trate de posibles donadores;
 
-> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2016)</small>
 
-XVII.- Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+XVII. Promover e impulsar programas y campañas de información sobre los buenos hábitos alimenticios, una buena nutrición y activación física; y
+
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2016)</small>
+
+XVIII. Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
 ###### ARTICULO 8º.
 
@@ -1389,11 +1397,15 @@ I. Fomentar en la población el desarrollo de actitudes y conductas que le permi
 
 II. Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, y
 
-III. Orientar y capacitar a la población, preferentemente en materia de nutrición, salud mental, salud bucodental, educación sexual, planificación familiar, riesgo de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2016)</small>
+
+III. Orientar y capacitar a la población, preferentemente en materia de nutrición, alimentación nutritiva, suficiente y de calidad, activación física para la salud, salud mental, salud bucodental, educación sexual, planificación familiar, riesgo de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades.
+
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 131.
 
-Las autoridades sanitarias estatales en coordinación con las autoridades federales competentes, formularán, propondrán y desarrollarán programas de educación para la salud, los cuales podrán ser difundidos en los medios macivos (sic) de comunicación que actúen en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total de la población.
+Las autoridades sanitarias estatales en coordinación con las autoridades federales competentes, formularán, propondrán y desarrollarán programas de educación para la salud, entre otros, aquellos orientados a la alimentación nutritiva suficiente y de calidad y a la activación física, los cuales podrán ser difundidos en los medios masivos de comunicación que actúen en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total de la población.
 
 ### CAPITULO III. NUTRICION
 
@@ -3204,3 +3216,11 @@ P.O. 29 DE MARZO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+P.O. 2 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
