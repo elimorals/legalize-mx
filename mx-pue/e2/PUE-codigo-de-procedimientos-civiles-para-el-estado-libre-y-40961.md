@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-civiles-para-el-estado-libre-y-40961"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-08-09"
-last_updated: "2016-03-29"
+last_updated: "2016-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "PUE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE MARZO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2016.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el lunes 9 de agosto de 2004.
 
@@ -3053,9 +3051,11 @@ III.- Desde que pudo exigirse la última prestación vencida, si la sentencia co
 
 El procedimiento de ejecución de las sentencias deberá tramitarse a petición de parte, pudiendo el Tribunal, aplicar todas las medidas coactivas, tendientes a su debido cumplimiento.
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 432.
 
-La ejecución de las sentencias dictadas en asuntos que interesen a la familia o a incapaces, se tramitará de oficio.
+La ejecución de las sentencias dictadas en asuntos que interesen a la familia o a incapaces, se tramitará de oficio y de forma inmediata, una vez que la sentencia cause ejecutoria.
 
 ###### Artículo 433.
 
@@ -6534,6 +6534,14 @@ DÉCIMO. Todos los asuntos pendientes de trámite, se concluirán con la Ley del
 P.O. 29 DE MARZO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL Y DEL CÓDIGO DE PROCEDIMIENTOS CIVILES, AMBOS PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 432 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
