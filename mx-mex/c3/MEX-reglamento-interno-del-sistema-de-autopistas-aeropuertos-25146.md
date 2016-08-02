@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-sistema-de-autopistas-aeropuertos-25146"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-06-14"
-last_updated: "2002-06-14"
+last_updated: "2016-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DEL SISTEMA DE AUTOPISTAS, AEROPUERTOS, SERVICIOS CONEXOS Y AUXILIARES DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERNO DEL SISTEMA DE AUTOPISTAS, AEROPUERTOS, SERVICIOS CONEXOS Y AUXILIARES DEL ESTADO DE MEXICO
+REGLAMENTO INTERNO DEL SISTEMA DE AUTOPISTAS, AEROPUERTOS, SERVICIOS CONEXOS Y AUXILIARES DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DEL SISTEMA DE AUTOPISTAS, AEROPUERTOS, SERVICIOS CONEXOS Y AUXILIARES DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 2 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE AGOSTO DE 2016. (ABROGADA).
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el viernes 14 de junio de 2002.
 
@@ -458,3 +460,17 @@ ING. ENRIQUE RIVA PALACIO GALICIA
 DIRECTOR GENERAL DEL SISTEMA DE AUTOPISTAS, AEROPUERTOS, SERVICIOS CONEXOS Y AUXILIARES DEL ESTADO DE MEXICO Y SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERNO DEL SISTEMA DE AUTOPISTAS, AEROPUERTOS, SERVICIOS CONEXOS Y AUXILIARES DEL ESTADO DE MÉXICO”.]
+
+G.G. DE 2 DE AGOSTO DE 2016.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interno del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno" el 14 de junio de 2002.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente ordenamiento jurídico.
