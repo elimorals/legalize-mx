@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-de-capacitacion-para-el-trabajo-del-22129"
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-12"
-last_updated: "2002-04-06"
+last_updated: "2016-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22129&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL INSTITUTO DE CAPACITACION PARA EL TRABAJO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 12 de septiembre de 2001.
 
@@ -47,11 +47,15 @@ LEY DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE CHIHUAHUA
 
 ### CAPÍTULO I. NATURALEZA, OBJETO Y ATRIBUCIONES
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2016)</small>
 
-###### Artículo 1.
+###### ARTÍCULO 1.
 
-Se crea el Instituto de Capacitación para el Trabajo del Estado de Chihuahua como Organismo Público Descentralizado del Poder Ejecutivo, con personalidad jurídica y patrimonio propios, cuya cabeza de sector será la Secretaría de Desarrollo Industrial.
+Se crea el Instituto de Capacitación para el Trabajo del Estado de Chihuahua como Organismo Público Descentralizado del Poder Ejecutivo, con personalidad jurídica y patrimonio propios, cuya cabeza de sector será la Secretaría de Economía.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2016)</small>
+
+Para los efectos de esta Ley, la capacitación se entiende como el proceso de comunicación que permita a través de la enseñanza aprendizaje, transmitir conocimientos para modificar e incrementar las habilidades de las personas; el adiestramiento en la prestación de servicios y de actualización, como la asignación destinada a formar destrezas en los capacitandos; y el desarrollo personal, que engloba los aspectos de motivación, inquietudes, formación de excelencias, aspiraciones y superación personal.
 
 ###### Artículo 2.
 
@@ -71,11 +75,27 @@ III. Establecer programas de actualización para los instructores de los capacit
 
 IV. Colaborar con los sectores público, privado y social en la consolidación del desarrollo tecnológico y social de la comunidad.
 
-###### Artículo 3.
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2016)</small>
 
-Para el cumplimiento de su objeto, el Instituto de Capacitación para el Traba o (sic) del Estado de Chihuahua tendrá las siguientes atribuciones:
+V. Promover en general, la elevación del nivel profesional y académico de los capacitandos.
 
-I. Impartir capacitación a las áreas industriales y de servicios, a través de sus unidades.
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2016)</small>
+
+VI. Contribuir con el desarrollo de las micro, pequeñas y medianas empresas a través de la capacitación, investigación y servicios al sector productivo, acorde a las necesidades y avance tecnológico que el sector productivo, gubernamental y social requieran.
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2016)</small>
+
+VII. Liderar y promover la incorporación del uso de las Tecnologías de la Información y de las Comunicaciones en el quehacer formativo de los usuarios de los servicios del Instituto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2016)</small>
+
+###### ARTÍCULO 3.
+
+Para el cumplimiento de su objeto, el Instituto de Capacitación para el Trabajo del Estado de Chihuahua tendrá las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2016)</small>
+
+I. Impartir capacitación en las áreas industriales, productivas y de servicios, a través de sus unidades.
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2002)</small>
 
@@ -89,7 +109,9 @@ III. Proporcionar a los alumnos o capacitandos los medios de apoyo para el apren
 
 IV. Observar las disposiciones técnico-académicas correspondientes a la capacitación formal para el trabajo que imparte la Secretaría de Educación Pública, por conducto de la Subsecretaría de Educación e Investigación Tecnológicas.
 
-V. Acreditar y certificar el saber demostrado, independientemente de la forma en que se haya adquirido, conforme a la normatividad vigente emitida por la Secretaría de Educación Pública a través de la Dirección General de Centros de Capacitación.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2016)</small>
+
+V. Acreditar y certificar el saber demostrado, independientemente de la forma en que se haya adquirido, conforme a la normatividad vigente emitida por la Secretaría de Educación Pública.
 
 VI. Presentar servicios de asesoría y capacitación técnica a los sectores público, social y privado que lo soliciten.
 
@@ -99,9 +121,21 @@ VII. Celebrar convenios, contratos y acuerdos con los sectores productivos de bi
 
 VIII. Crear un órgano de vinculación entre las unidades dependientes del Instituto con el sector productivo de bienes y servicios, con la participación de los representantes de los sectores involucrados.
 
-IX. Crear unidades dependientes del mismo, y
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2016)</small>
 
-X. Los demás que sean afines a su naturaleza.
+IX. Crear unidades dependientes del mismo.
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2016)</small>
+
+X. Incorporar en las capacitaciones y programas que imparta el Instituto a través de sus unidades, el uso de las Tecnologías de la Información y de las Comunicaciones.
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2016)</small>
+
+XI. Realizar las acciones necesarias de promoción y capacitación para que los alumnos sean capaces de elaborar sus propios planes de negocios.
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2016)</small>
+
+XII. Los (sic) demás que sean afines a su naturaleza.
 
 ###### Artículo 4.
 
@@ -123,9 +157,9 @@ II. El Director General.
 
 La Junta Directiva será la máxima autoridad del Instituto y estará conformada por:
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2002)</small>
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2016)</small>
 
-I. Tres representantes del Gobierno del Estado, que serán los titulares de las Secretarías de Finanzas y Administración; de Desarrollo Industrial, quien fungirá como su Presidente, y de Educación y Cultura, quien fungirá como Secretario.
+I. Tres representantes del Gobierno del Estado, que serán los titulares de las Secretarías de Hacienda, de Economía, quien fungirá como su Presidente, y de Educación, Cultura y Deporte, quien fungirá como Secretario.
 
 II. Dos representantes del Gobierno Federal que serán designados por el Secretario de Educación Pública.
 
@@ -396,3 +430,11 @@ LIC. VICTOR EMILIO ANCHONDO PAREDES.
 P.O. 6 DE ABRIL DE 2002.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1384/2016 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 1; LAS FRACCIONES I, V, IX, Y X DEL ARTÍCULO 3; LA FRACCIÓN I DEL ARTÍCULO 6; Y SE ADICIONAN UN SEGUNDO PÁRRAFO AL ARTÍCULO 1; LAS FRACCIONES V, VI Y VII AL ARTÍCULO 2; Y LAS FRACCIONES XI Y XII AL ARTÍCULO 3, TODOS DE LA LEY DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
