@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-regula-el-uso-de-la-fuerza-publica-en-el-estado-de-1136
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-18"
-last_updated: "2016-03-18"
+last_updated: "2016-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MEX"
 
 LEY QUE REGULA EL USO DE LA FUERZA PÚBLICA EN EL ESTADO DE MÉXICO
 
-> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO SEGUNDO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A LOS NOVENTA DÍAS POSTERIORES A SU PUBLICACIÓN.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 3 DE AGOSTO DE 2016, LA PRESENTE LEY ENTRARÁ EN VIGOR UNA VEZ QUE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN RESUELVA SOBRE LA ACCIÓN DE INCONSTITUCIONALIDAD 25/2016 Y SUS ACUMULADAS Y QUE LA LEGISLATURA HAGA LAS ADECUACIONES, SI LAS HUBIERA, DE AQUELLOS ARTÍCULOS QUE DETERMINE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN COMO INCONSTITUCIONALES.]</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE AGOSTO DE 2016.
 
 Ley publicada en la Sección Octava de la Gaceta del Gobierno del Estado de México, el viernes 18 de marzo de 2016.
 
@@ -641,7 +641,9 @@ Cuando así proceda, los resultados de dicha indagación se comunicarán a los �
 
 PRIMERO. Publíquese la presente Ley en el Periódico Oficial "Gaceta del Gobierno".
 
-SEGUNDO. La presente Ley entrará en vigor a los noventa días hábiles siguientes a su publicación en el Periódico Oficial "Gaceta del Gobierno".
+> <small>(REFORMADO, G.G. 3 DE AGOSTO DE 2016)</small>
+
+SEGUNDO. La presente Ley entrará en vigor una vez que la Suprema Corte de Justicia de la Nación resuelva sobre la acción de inconstitucionalidad 25/2016 y sus acumuladas y que la Legislatura haga las adecuaciones, si las hubiera, de aquellos artículos que determine la Suprema Corte de Justicia de la Nación como inconstitucionales, y sean publicadas en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. El Ejecutivo del Estado expedirá el Reglamento de la presente Ley, en un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor de la misma.
 
@@ -668,3 +670,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 JOSÉ S. MANZUR QUIROGA
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 3 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 105.- POR EL QUE SE REFORMA EL SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 75 DE LA H. ”LIX" LEGISLATURA DEL ESTADO DE MÉXICO, PUBLICADO EL 18 DE MARZO DE 2016, EN EL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO”, POR EL QUE SE EXPIDE LA LEY QUE REGULA EL USO DE LA FUERZA PÚBLICA EN EL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
