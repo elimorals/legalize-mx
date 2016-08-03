@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-trabajo-de-los-servidores-publicos-del-estado-y-13167"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-23"
-last_updated: "2014-12-16"
+last_updated: "2016-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE AGOSTO DE 2016.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de octubre de 1998.
 
@@ -61,31 +61,27 @@ Son sujetos de esta ley los servidores públicos y las instituciones públicas.
 
 Los derechos que esta ley otorga son irrenunciables.
 
+> <small>(REFORMADO, G.G. 3 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 4.
 
 Para efectos de esta ley se entiende:
 
-I. Por servidor público, toda persona física que preste a una institución pública un trabajo personal subordinado de carácter material o intelectual, o de ambos géneros, mediante el pago de un sueldo;
+I. Acciones Afirmativas: Al conjunto de medidas especiales de carácter temporal, correctivo, compensatorio y de promoción en favor de las servidoras públicas.
 
-> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
+II. Dependencia: A la unidad administrativa prevista en los ordenamientos legales respectivos que, estando subordinada jerárquicamente a una institución pública, tenga un sistema propio de administración interna.
 
-II. Por trabajador, la persona física que presta sus servicios, en forma subordinada, en el Subsistema Educativo Estatal, mediante el pago de un sueldo o salario;
+III. Institución Pública: A cada uno de los poderes públicos del Estado, los municipios y los tribunales administrativos; así como los organismos descentralizados, fideicomisos de carácter estatal y municipal, y los órganos autónomos que sus leyes de creación así lo determinen.
 
-> <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
+IV. Sala: A cualquiera de las Salas Auxiliares del Tribunal Estatal de Conciliación y Arbitraje.
 
-III. Por institución pública, cada uno de los poderes públicos del Estado, los municipios y los tribunales administrativos; así como los organismos descentralizados, fideicomisos de carácter estatal y municipal, y los órganos autónomos que sus leyes de creación así lo determinen;
+V. Sala Oral: A cualquiera de las Salas Orales con las que contará el Tribunal y las Salas para su funcionamiento.
 
-IV. Por dependencia, la unidad administrativa prevista en los ordenamientos legales respectivos que, estando subordinada jerárquicamente a una institución pública, tenga un sistema propio de administración interna; y
+VI. Servidor Público: A toda persona física que preste a una institución pública un trabajo personal subordinado de carácter material o intelectual, o de ambos géneros, mediante el pago de un sueldo.
 
-V. Por Tribunal, el Tribunal Estatal de Conciliación y Arbitraje;
+VII. Trabajador: A la persona física que presta sus servicios, en forma subordinada, en el Subsistema Educativo Estatal, mediante el pago de un sueldo o salario.
 
-> <small>(ADICIONADA, G.G. 30 DE ENERO DE 2007)</small>
-
-VI. Por Sala, a cualquiera de las Salas Auxiliares del Tribunal Estatal de Conciliación y Arbitraje.
-
-> <small>(ADICIONADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
-
-VII. Por Sala Oral, cualquiera de las Salas Orales con las que contará el Tribunal y las Salas para su funcionamiento.
+VIII. Tribunal: Al Tribunal Estatal de Conciliación y Arbitraje.
 
 Para los efectos de esta ley no se considerarán servidores públicos a las personas sujetas a un contrato civil o mercantil.
 
@@ -349,7 +345,7 @@ III. Estar en pleno ejercicio de sus derechos civiles y políticos, en su caso;
 
 IV. Acreditar, cuando proceda, el cumplimiento de la Ley del Servicio Militar Nacional;
 
-V. No tener antecedentes penales por delitos intencionales;
+V. (DEROGADA, G.G. 3 DE AGOSTO DE 2016)
 
 VI. No haber sido separado anteriormente del servicio por las causas previstas en la fracción V del artículo 89 y en el artículo 93 de la presente ley;
 
@@ -501,7 +497,9 @@ VI. Cualquier otra condición que contravenga las disposiciones de esta ley.
 
 Las condiciones generales de trabajo surtirán efecto a partir de su depósito en el Tribunal.
 
-### CAPITULO IV. De la Jornada de Trabajo y de los Descansos
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 3 DE AGOSTO DE 2016)</small>
+
+### CAPITULO IV. De la Jornada de Trabajo, de los Descansos y Licencias
 
 ###### Artículo 59.
 
@@ -550,6 +548,14 @@ En caso de adopción las servidoras públicas gozarán de una licencia con goce 
 Los servidores públicos, disfrutarán de una licencia con goce de sueldo íntegro de 5 días hábiles con motivo del nacimiento de su hijo o de adopción.
 
 A los servidores públicos se les otorgará una licencia con goce de sueldo íntegro, por causa de enfermedad o accidente graves de alguno de sus hijos, cónyuge o concubina o concubinario, previa expedición del certificado médico por parte del Instituto de Seguridad Social del Estado de México y Municipios, el cual determinará los días de licencia. En caso de que ambos padres sean servidores públicos, sólo se concederá la licencia a uno de ellos.
+
+> <small>(ADICIONADO, G.G. 3 DE AGOSTO DE 2016)</small>
+
+Asimismo, se otorgará a las y a los servidores públicos una licencia de tres días hábiles laborales con goce de sueldo íntegro, por el fallecimiento de su cónyuge, concubina o concubinario, de un familiar con quien haya tenido parentesco por consanguinidad en primero o segundo grado o por afinidad en primer grado.
+
+> <small>(ADICIONADO, G.G. 3 DE AGOSTO DE 2016)</small>
+
+Para efectos de lo anterior, el servidor público deberá hacerlo del conocimiento a su superior jerárquico, por la vía que considere más oportuna, el primer día de su ausencia y deberá exhibir copia simple del documento en que conste tal suceso, en un plazo no mayor de quince días naturales a partir del primer día hábil de su reingreso.
 
 ###### Artículo 66.
 
@@ -1088,6 +1094,10 @@ XVIII. Abstenerse de solicitar certificado de no embarazo o constancia relativa 
 > <small>(ADICIONADA, G.G. 14 DE NOVIEMBRE DE 2014)</small>
 
 XIX. Realizar las deducciones correspondientes al salario o sueldo de un servidor público, derivado de una orden judicial de descuento para alimentos.
+
+> <small>(ADICIONADA, G.G. 3 DE AGOSTO DE 2016)</small>
+
+XX. Promover acciones afirmativas en favor de las servidoras públicas.
 
 El incumplimiento a lo previsto en el párrafo anterior, por parte de los servidores públicos estatales y municipales, será sancionado en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
@@ -2449,7 +2459,7 @@ Artículo 220 M. La parte que ofrezca prueba testimonial deberá cumplir con los
 
 > <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
 
-l. Sólo podrán ofrecerse un máximo de tres testigos por cada hecho controvertido que se pretenda probar, indicando los nombres de los testigos;
+I. Sólo podrán ofrecerse un máximo de tres testigos por cada hecho controvertido que se pretenda probar, indicando los nombres de los testigos;
 
 II. Cuando exista impedimento para presentar directamente a los testigos, deberá solicitarse al Tribunal o a la Sala que los cite, señalando y acreditando la causa o motivo justificados que le impidan presentarlos directamente, no bastando con decir que tiene imposibilidad de presentarlos, bajo la pena que de no hacerlo, se declarará desierta;
 
@@ -3290,3 +3300,11 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta de Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 3 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 109.- POR EL QUE SE REFORMA EL ARTÍCULO 4, LA DENOMINACIÓN DEL CAPÍTULO IV DEL TÍTULO TERCERO Y SE ADICIONAN UN QUINTO Y SEXTO PÁRRAFOS AL ARTÍCULO 65, LA FRACCIÓN XX AL ARTÍCULO 98 Y SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 47 DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
