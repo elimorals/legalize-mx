@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2016-03-14"
+last_updated: "2016-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE AGOSTO DE 2016.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -17587,6 +17587,10 @@ V. Sea vendido judicialmente el inmueble que reporte gravamen, cuando así proce
 
 VI. Tratándose de cédula hipotecaria o de embargo, hayan transcurrido dos años desde la fecha del asiento, sin que se ordene su prórroga.
 
+> <small>(ADICIONADA, G.G. 3 DE AGOSTO DE 2016)</small>
+
+VII. Los gravámenes inscritos en el Registro Público, podrán cancelarse a petición de parte interesada, mediante escrito dirigido al titular de la Oficina Registral correspondiente, una vez transcurridos 10 años, contados a partir del vencimiento del plazo para el cual fue constituido, previo pago de los derechos correspondientes.
+
 Tratándose de cancelaciones de hipotecas, se considerarán accesorias a las mismas y en consecuencia deberán cancelarse simultáneamente de oficio, aún cuando no hayan sido mencionadas expresamente en el instrumento correspondiente, los asientos que contengan cédulas hipotecarias, reestructuras, ampliaciones o modificaciones a las mismas.
 
 Cancelación parcial
@@ -18462,3 +18466,13 @@ TERCERO. Los matrimonios celebrados entre menores de edad, a la entrada en vigor
 CUARTO. Los procedimientos de mediación y conciliación relativos a la violencia familiar que se encuentren en trámite a la entrada en vigor del presente Decreto, se regirán de conformidad con las leyes vigentes al momento en que se iniciaron.
 
 QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 3 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 107.- POR EL QUE SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 8.46 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO, SE REFORMA EL PÁRRAFO SÉPTIMO DE LA FRACCIÓN II DEL ARTÍCULO 95 DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
