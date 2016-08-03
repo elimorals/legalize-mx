@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2015-12-25"
+last_updated: "2016-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2016.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -295,7 +295,13 @@ X.- Se realice el hecho bajo un error invencible respecto a alguno de los elemen
 
 XI.- Atendiendo a las circunstancias que concurren en la realización de una conducta antijurídica, no sea racionalmente posible exigir al agente una conducta diversa a la que realizó;
 
-XII.- Se produzca un resultado típico por caso fortuito.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2016)</small>
+
+XII.- Se produzca un resultado típico por caso fortuito;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2016)</small>
+
+XIII.- Al momento de realizar la conducta típica prevista en el artículo 364 de este Código, prevalezca un riesgo inminente en la integridad física de una persona, siempre que se justifique el hecho, sean racionales los medios de defensa que se utilizaron en el acontecimiento, y no existiera otra forma de salvaguardar la integridad de la persona en peligro.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3497,6 +3503,10 @@ Si la conducta a que se refiere el párrafo anterior la realiza un integrante de
 
 Al que indebidamente destruya, retire, oculte o de cualquier otro modo quebrante los sellos puestos por orden legítima de la autoridad competente, se le aplicará prisión de tres meses a dos años o de sesenta a ciento ochenta días multa.
 
+### CAPÍTULO ÚNICO. MALTRATO O CRUELDAD EN CONTRA DE ANIMALES DOMÉSTICOS
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 323.
 
 Al que cometa un delito en contra de un servidor público o agente de la autoridad en el acto de ejercer sus funciones o con motivo de ellas, se le aplicará prisión de tres meses a tres años, además de la que le corresponda por el delito cometido.
@@ -3753,6 +3763,10 @@ Al defensor de oficio que cometa alguno de los delitos a que se refiere el artí
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MARZO DE 2007)</small>
 
+## TÍTULO ÚNICO. MALTRATO O CRUELDAD EN CONTRA DE ANIMALES DOMÉSTICOS
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 354.
 
 Para los efectos de este Capítulo se entiende por:
@@ -3982,6 +3996,22 @@ Se impondrán de cien a doscientos días multa y prisión de dos a seis años al
 ###### ARTICULO 363.
 
 Se impondrán hasta 500 días multa a los ministros de cultos religiosos que, en el desarrollo de actos públicos propios de su ministerio, induzcan expresamente al electorado a votar a favor o en contra de un candidato o partido político, o a la abstención del ejercicio del derecho al voto.
+
+> <small>(ADICIONADA CON EL TÍTULO, CAPÍTULO Y ARTÍCULO QUE LA INTEGRAN, P.O. 3 DE AGOSTO DE 2016)</small>
+
+#### SECCIÓN QUINTA. DELITOS EN CONTRA DE ANIMALES DOMÉSTICOS
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 3 DE AGOSTO DE 2016)</small>
+
+###### ARTICULO 364.
+
+Al que dolosamente cometa actos de maltrato o crueldad en contra de cualquier animal doméstico causándole lesiones se le impondrá de tres meses a un año de prisión y de cincuenta a cien días multa.
+
+Si las lesiones ponen en peligro la vida del animal, se aumentará en una mitad la pena señalada en el párrafo anterior.
+
+Si las lesiones causan la muerte del animal, se le impondrá de seis meses a dos años de prisión y de cien a doscientos días multa.
+
+Para efectos del presente Capítulo, se entenderá por actos de maltrato o crueldad aquellos que provoquen un grave sufrimiento, la muerte no inmediata o prolonguen la agonía del animal, ya sea por las lesiones ocasionadas o el detrimento de su salud.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -4308,3 +4338,9 @@ P.O. 18 DE DICIEMBRE DE 2015.
 P.O. 25 DE DICIEMBRE DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 3 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 533 QUE REFORMA Y ADICIONA EL CÓDIGO PENAL PARA EL ESTADO DE SINALOA".]
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
