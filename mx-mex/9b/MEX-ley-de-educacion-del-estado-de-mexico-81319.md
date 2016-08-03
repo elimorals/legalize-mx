@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-educacion-del-estado-de-mexico-81319"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2015-08-25"
+last_updated: "2016-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 25 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 3 DE AGOSTO DE 2016.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Estado de México, el viernes 6 de mayo de 2011.
 
@@ -177,13 +177,17 @@ Las instituciones de salud del Gobierno del Estado de México, deberán expedir 
 
 El Estado está obligado a prestar servicios educativos de calidad con un enfoque de derechos que garanticen el máximo logro de aprendizaje de los educandos, para que su población pueda cursar la educación preescolar, la primaria, la secundaria y la media superior. Estos servicios se prestarán en el marco del federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos y conforme a la distribución de la función social educativa establecida en la Ley General y la presente Ley, respetando y favoreciendo el desarrollo de la población de la Entidad.
 
-> <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, G.G. 3 DE AGOSTO DE 2016)</small>
 
-Además, el Estado promoverá y atenderá todos los tipos y modalidades educativos, incluyendo la educación inicial, especial y superior, apoyará la investigación científica y tecnológica, y alentará el fortalecimiento y difusión de la cultura.
+La Autoridad Educativa Estatal celebrará convenios de alianza estratégica con la Universidad Autónoma del Estado de México para recibir en las instituciones educativas de tipo medio superior y superior del Gobierno del Estado a los aspirantes que no hayan sido seleccionados en el proceso de admisión a los estudios de bachillerato y de licenciatura, para tales efectos se tendrá en consideración la capacidad disponible y los requisitos administrativos que establezca la institución receptora.
 
-La educación que impartan el Estado, sus organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios, es un servicio público.
+> <small>(REFORMADO, G.G. 3 DE AGOSTO DE 2016)</small>
 
-> <small>(DEROGADO CUARTO PÁRRAFO, G.G. 11 DE MARZO DE 2014)</small>
+Además, el Estado promoverá y atenderá todos los tipos y modalidades educativos, incluyendo la educación inicial, especial y superior, apoyará la investigación científica y tecnológica y alentará el fortalecimiento y difusión de la cultura.
+
+> <small>(ADICIONADO, G.G. 3 DE AGOSTO DE 2016)</small>
+
+La educación que impartan el Estado, sus organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios es un servicio público.
 
 #### SECCIÓN SEGUNDA. DE LOS PRINCIPIOS DE LA EDUCACIÓN
 
@@ -623,17 +627,25 @@ XX. Establecer y fomentar sistemas de educación a distancia, mediante el uso de
 
 XXI. Otorgar becas, así como estímulos a los educandos que lo requieran por su situación socioeconómica y desempeño académico, en términos de la reglamentación respectiva;
 
-> <small>(ADICIONADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE AGOSTO DE 2016)</small>
 
-XXI BIS. Otorgar a partir de la suficiencia presupuestal, previa valoración del ajuste razonable conforme a la Convención de los Derechos de las Personas con Discapacidad y de acuerdo al certificado de institución de salud pública, como una acción permanente, un estímulo económico a los educandos de instituciones públicas o privadas que padezcan cáncer, diabetes, VIH, o discapacidad a largo plazo y que no cuenten con otro tipo de beca escolar, o que estudiando en escuelas públicas y privadas hayan resultado ganadores de la olimpiada del conocimiento infantil y conserven promedio mínimo de 9.0 en cada ciclo escolar, y en general, a aquellos que han sido afectados y que deban ser atendidos en observancia y cumplimiento de recomendaciones, emitidas por organismos protectores de los derechos humanos, incluyendo la solución amistosa de asuntos de su competencia.
+XXI BIS. Otorgar de acuerdo con el certificado expedido por alguna institución de salud pública, como una acción permanente y hasta la conclusión de los estudios de licenciatura o profesional técnico, un estímulo económico a los educandos de instituciones públicas o privadas que padezcan cáncer, diabetes, VIH o discapacidad a largo plazo o permanente, que no cuenten con otro tipo de beca escolar, o que estudiando en escuelas públicas o privadas hayan resultado ganadores de la Olimpiada del Conocimiento Infantil y conserven promedio mínimo de 9.0 en cada ciclo escolar, y en general a aquellos que deban ser atendidos en observancia y cumplimiento de recomendaciones emitidas por organismos protectores de los derechos humanos, incluyendo la solución amistosa de asuntos de su competencia.
 
 > <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
 Para tal efecto, se creará un padrón estatal de beneficiarios, de conformidad con la legislación aplicable, observando el interés superior de niñas, niños y adolescentes.
 
-Los estudiantes de instituciones públicas que se encuentren en los supuestos anteriores tendrán garantizada su formación académica, hasta la culminación de los estudios de licenciatura o profesional técnico en escuelas públicas.
+> <small>(DEROGADO TERCER PÁRRAFO, G.G. 3 DE AGOSTO DE 2016)</small>
 
-Los estudiantes ganadores de la olimpiada del conocimiento infantil, se harán acreedores al reconocimiento y apoyo económico en el monto que determine la Autoridad Educativa Estatal.
+> <small>(DEROGADO CUARTO PÁRRAFO, G.G. 3 DE AGOSTO DE 2016)</small>
+
+> <small>(ADICIONADA, G.G. 3 DE AGOSTO DE 2016)</small>
+
+XXI TER. Otorgar un estímulo económico a las hijas o hijos de madre o tutora desaparecida o víctima de feminicidio u homicidio doloso que estudien en instituciones públicas o privadas, hasta la conclusión de la licenciatura o profesional técnico. El estímulo económico se otorgará a partir de la noticia del hecho victimizante en términos de los lineamientos correspondientes.
+
+> <small>(ADICIONADA, G.G. 3 DE AGOSTO DE 2016)</small>
+
+XXI QUÁTER. Otorgar becas para cursar estudios en el extranjero, en función de las reglas de operación correspondientes, a alumnos de educación superior con promedio general sobresaliente que estudien en escuelas públicas o privadas.
 
 XXII. Promover el trámite de la cartilla de salud para la incorporación de los estudiantes a los servicios de atención médica;
 
@@ -2844,3 +2856,17 @@ G.G. 25 DE AGOSTO DE 2015.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 3 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 106.- POR EL QUE SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 7, EL PÁRRAFO PRIMERO DE LA FRACCIÓN XXI BIS DEL ARTÍCULO 27, SE ADICIONAN EL CUARTO PÁRRAFO AL ARTÍCULO 7, LAS FRACCIONES XXI TER Y XXI QUÁTER AL ARTÍCULO 27 Y SE DEROGAN LOS PÁRRAFOS TERCERO Y CUARTO DE LA FRACCIÓN XXI BIS DEL ARTÍCULO 27 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Para el cumplimiento del presente Decreto, la Legislatura del Estado de México autorizara las partidas conducentes en el Presupuesto de Egresos de cada ejercicio fiscal en base a la suficiencia presupuestal.
+
+CUARTO. El titular del Ejecutivo Estatal proveerá, en la esfera administrativa, lo conducente para la observancia del presente Decreto.
+
+QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
