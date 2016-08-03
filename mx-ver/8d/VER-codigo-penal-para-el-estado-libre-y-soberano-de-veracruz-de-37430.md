@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2016-04-29"
+last_updated: "2016-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE AGOSTO DE 2016.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -2044,6 +2044,20 @@ A quien, con ánimo de dominio, lucro o uso, sin consentimiento de quien legalme
 I. Si el valor de lo robado no excediere de cien días de salario, con prisión de uno a cinco años y multa de hasta ciento cincuenta días de salario; y
 
 II. Si el valor de lo robado excediere de cien días de salario, con prisión de tres a doce años y multa de hasta seiscientos días de salario.
+
+(NOTA: EL 4 DE JULIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 78/2016, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE AGOSTO DE 2016 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, G.O. 3 DE AGOSTO DE 2016)</small>
+
+###### Artículo 206 Ter.
+
+A quien, con ánimo de dominio, lucro o uso, sin consentimiento de quien legalmente pueda otorgarlo se apodere de equipos, maquinaria, insumos, instrumentos o productos pesqueros y/o acuícolas, se le sancionará de la manera siguiente:
+
+I. Si el valor de lo robado no excediere de cien días de salario, con prisión de tres meses a seis años y multa hasta de setenta y cinco días de salario;
+
+II. Si el valor de lo robado excediere de cien días de salario, con prisión de tres a diez años y multa de hasta cuatrocientos días de salario; o
+
+III. Si el valor de lo robado excediere de doscientos días de salario, con prisión de cuatro a doce años y multa de hasta seiscientos días de salario.
 
 ###### Artículo 207.
 
@@ -4296,3 +4310,11 @@ G.O. 29 DE ABRIL DE 2016.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 3 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 897 QUE ADICIONA EL ARTÍCULO 206 TER, AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que contravenga el presente Decreto.
