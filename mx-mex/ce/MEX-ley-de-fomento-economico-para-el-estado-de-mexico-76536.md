@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fomento-economico-para-el-estado-de-mexico-76536"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-07"
-last_updated: "2016-02-17"
+last_updated: "2016-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE AGOSTO DE 2016.
 
 Ley publicada en la Sección Tercera de la Gaceta de Gobierno del Estado de México, el martes 7 de septiembre de 2010.
 
@@ -997,6 +997,10 @@ XIII. Contrate de manera preferente, personas con discapacidad, adultos mayores 
 
 XIV. Realicen alianzas estratégicas empresariales con agrupamientos, cadenas productivas; al amparo de alguna figura jurídica de las contempladas en la legislación estatal y nacional.
 
+> <small>(ADICIONADA, G.G. 3 DE AGOSTO DE 2016)</small>
+
+XV. Celebren convenios que favorezcan el ejercicio de los derechos de madres lactantes, lactantes y niños pequeños, conforme a la Ley de la materia.
+
 ###### Artículo 49.
 
 Las dependencias otorgarán a las empresas con Certificado de Empresa Mexiquense, algunos de los incentivos siguientes:
@@ -1514,3 +1518,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 3 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 108.- POR EL QUE SE ADICIONA UN TERCER PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 10 Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 13, DE LA LEY PARA LA PROTECCIÓN, APOYO Y PROMOCIÓN A LA LACTANCIA MATERNA DEL ESTADO DE MÉXICO. SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 48 DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
