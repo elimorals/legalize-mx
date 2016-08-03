@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5686
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-30"
-last_updated: "2015-12-18"
+last_updated: "2016-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2016.
 
 Ley publicada en la Edición Vespertina al Periódico Oficial del Estado de Sinaloa, el lunes 30 de julio de 2007.
 
@@ -175,7 +175,9 @@ Los derechos de las mujeres protegidos por esta Ley son:
 
 I. La vida;
 
-II. La libertad;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2016)</small>
+
+II. La libertad y seguridad personal;
 
 III. La igualdad;
 
@@ -185,9 +187,21 @@ V. La no discriminación;
 
 VI. La intimidad;
 
-VII. La integridad física, psicoemocional y sexual de las mujeres; y,
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2016)</small>
 
-VIII. El patrimonio.
+VII. La integridad física, psicoemocional y sexual de las mujeres;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2016)</small>
+
+VIII. El patrimonio;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2016)</small>
+
+IX. A no ser sometida a tortura, ni otros tratos o penas crueles, inhumanos o degradantes; y,
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2016)</small>
+
+X. A que se respete la dignidad inherente a su persona y se proteja a su familia.
 
 ###### Artículo 13.
 
@@ -667,21 +681,43 @@ II. Preventivas; y,
 
 III. De naturaleza civil y familiar.
 
-Las órdenes de protección de emergencia y preventivas solicitadas por el Ministerio Público, en su calidad de autoridad administrativa, emitidas por la autoridad jurisdiccional, tendrán una temporalidad no mayor de setenta y dos horas y deberán expedirse dentro de las veinticuatro horas siguientes al conocimiento de los hechos que las generan.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2016)</small>
 
-###### Artículo 44.
+Las órdenes de protección de emergencia y preventivas solicitadas por el Ministerio Público, en su calidad de autoridad administrativa, emitidas por la autoridad jurisdiccional, tendrán una temporalidad no mayor de setenta y dos horas y deberán expedirse dentro de las ocho horas siguientes al conocimiento de los hechos que las generan.
 
-Son medidas de protección de emergencia:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2016)</small>
+
+###### ARTÍCULO 44.
+
+Son órdenes de protección de emergencia las siguientes:
 
 I. Auxilio inmediato a favor de la víctima, por las corporaciones de seguridad pública, con autorización expresa de ingreso al lugar donde se localice o se encuentre la víctima en el momento de solicitar el auxilio;
 
-II. Desocupación por el agresor, del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, a fin de garantizar la seguridad personal de la víctima;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2016)</small>
+
+II. Desocupación inmediata por el agresor, del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aun en los casos de arrendamiento del mismo, a fin de garantizar la seguridad personal de la víctima;
 
 III. La retención y guarda de armas de que hayan sido empleadas para amenazar o lesionar a la víctima;
 
-IV. Entrega inmediata de objetos de uso personal y documentos de identidad de la víctima y de sus hijas e hijos; y,
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2016)</small>
 
-V. Las demás establecidas en otras disposiciones legales.
+IV. Entrega inmediata de objetos de uso personal y documentos de identidad de la víctima y de sus hijas e hijos;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2016)</small>
+
+V. Prohibición inmediata al probable responsable de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2016)</small>
+
+VI. Reingreso de la víctima al domicilio, una vez que se salvaguarde de su seguridad;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2016)</small>
+
+VII. Prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia; y,
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2016)</small>
+
+VIII. Las demás establecidas en otras disposiciones legales.
 
 ### Capítulo Segundo. De la evaluación del aprovechamiento
 
@@ -689,9 +725,9 @@ V. Las demás establecidas en otras disposiciones legales.
 
 Son órdenes de protección preventivas las siguientes:
 
-I. Prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia;
+I. (DEROGADA, P.O. 3 DE AGOSTO DE 2016)
 
-II. Reingreso de la víctima al domicilio, una vez que se salvaguarde de su seguridad;
+II. (DEROGADA, P.O. 3 DE AGOSTO DE 2016)
 
 III. Retención y guarda de armas de fuego propiedad del agresor, utilizadas para agredir a la víctima, independientemente si las mismas se encuentran registradas conforme a la normatividad en la materia;
 
@@ -1148,3 +1184,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para el debido cumplimiento del presente Decreto, el Ejecutivo del Estado dentro del plazo de ciento ochenta días posteriores al inicio de su vigencia deberá realizar o expedir las disposiciones reglamentarias correspondientes.
 
 TERCERO. El Ejecutivo del Estado realizará las previsiones administrativas y presupuestales necesarias para garantizar el cumplimiento de las disposiciones contenidas en el presente Decreto.
+
+P.O. 3 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 575 DEL H. CONGRESO DEL ESTADO.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
