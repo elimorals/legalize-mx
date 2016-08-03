@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-los-delegados-y-ayudantes-municipales-del-56861
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-18"
-last_updated: "2013-04-10"
+last_updated: "2016-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 REGLAMENTO PARA LOS DELEGADOS Y AYUDANTES MUNICIPALES DEL AYUNTAMIENTO DE CUERNAVACA, MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2016.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 18 de julio de 2007.
 
@@ -43,81 +43,87 @@ REGLAMENTO PARA LOS DELEGADOS Y AYUDANTES MUNICIPALES DEL AYUNTAMIENTO DE CUERNA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 1.
 
-El presente reglamento es de orden público e interés general y tiene por objeto regular el funcionamiento y establecer las atribuciones de los Delegados Municipales del Ayuntamiento de Cuernavaca.
+El presente Reglamento es de orden público e interés general y tiene por objeto regular el funcionamiento y establecer las atribuciones de los Delegados y Subdelegados Municipales del Ayuntamiento de Cuernavaca.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 2.
 
-Son autoridades competentes para la aplicación del presente reglamento:
+Son autoridades competentes para la aplicación del presente Reglamento:
 
 I.- El Presidente Municipal;
 
 II.- El Secretario del Ayuntamiento;
 
-III.- El Subsecretario de Gobierno;
+III.- El Director de Colonias, Poblados, Comunidades Indígenas y Delegaciones;
 
-IV.- El Director de Delegaciones, Colonias y Poblados, y
+IV.- El Delegado y Subdelegado Municipal, y
 
-V.- El Delegado Municipal;
+V.- Los Ayudantes Municipales.
 
-VI.- Los Ayudantes Municipales
-
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 3.
 
-Para los efectos de este Reglamento, se entiende por Delegación Municipal, la circunscripción territorial ubicada dentro del Municipio de Cuernavaca, en la que habita un determinado número de personas; existen trece Delegaciones Municipales las cuales son:
+Para los efectos de este Reglamento, se entiende por Delegación Municipal, la circunscripción territorial ubicada dentro del Municipio de Cuernavaca, en la que habita un determinado número de personas; existen ocho Delegaciones Municipales las cuales son:
 
-I.- “Lic. Benito Juárez García”;
+I.- Lic. Benito Juárez García;
 
-II.- “Gral. José María Morelos y Pavón”;
+II.- Gral. Emiliano Zapata Salazar;
 
-III.- “Gral. Emiliano Zapata Salazar”;
+III.- Gral. Antonio Barona Rojas;
 
-IV.- “Gral. Francisco Leyva”;
+IV.- Gral. Lázaro Cárdenas del Río;
 
-V.- “Gral. Otilio Montaño”;
+V.- Gral. Mariano Matamoros Orive;
 
-VI.- “Gral. Juan N. Álvarez”;
+VI.- Don Miguel Hidalgo y Costilla;
 
-VII.- “Profr. Cecilio A. Robelo”;
+VII.- Gral. Plutarco Elías Calles; y
 
-VIII.- “Gral. Antonio Barona Rojas”;
+VIII.- Gral. Vicente Guerrero Saldaña.
 
-IX.- “Gral. Lázaro Cárdenas del Río”;
-
-X.- “Gral. Mariano Matamoros Orive”;
-
-XI.- “Don Miguel Hidalgo y Costilla”;
-
-XII.- “Gral. Plutarco Elías Calles”; y
-
-XIII.- “Gral. Vicente Guerrero Saldaña”.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 4.
 
-Por cada Delegación Municipal habrá un Delegado, que será nombrado y removido por el Ayuntamiento a propuesta del Presidente Municipal y aprobado por el Cabildo; y durará en su cargo el mismo lápso de tiempo que duran los Ayuntamientos, hasta la toma de protesta que legalmente realice la Administración que corresponda.
+Por cada Delegación Municipal habrá un Delegado y Subdelegado, el primero será nombrado y removido por el Ayuntamiento a propuesta del Presidente Municipal y aprobado por el Cabildo; y durará en su cargo el mismo lapso de tiempo que duran los Ayuntamientos, hasta la toma de protesta que legalmente realice la Administración que corresponda.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2016)</small>
+
+El Subdelegado Municipal será directamente designado y removido libremente por el Presidente Municipal.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 5.
 
-Los Delegados Municipales y Ayudantes Municipales son Autoridades Auxiliares del Ayuntamiento y del Presidente Municipal, en la demarcación territorial asignada a la delegación, con el propósito de mantener el orden, la tranquilidad, la paz social, la seguridad y la protección de los vecinos y la participación social.
+Los Delegados, Subdelegados y Ayudantes Municipales son Autoridades Auxiliares del Ayuntamiento y del Presidente Municipal, en la demarcación territorial asignada a la Delegación, con el propósito de mantener el orden, la tranquilidad, la paz social, la seguridad y la protección de los vecinos y la participación social.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 6.
 
-Los Delegados Municipales están obligados a cumplir y hacer cumplir las disposiciones establecidas en la Constitución Política Federal, la Constitución Política del Estado de Morelos, la Ley Orgánica Municipal para el Estado de Morelos, los Reglamentos Municipales y Acuerdos del Ayuntamiento.
+Los Delegados y Subdelegados Municipales están obligados a cumplir y hacer cumplir las disposiciones establecidas en la Constitución Política Federal, la Constitución Política del Estado de Morelos, la Ley Orgánica Municipal para el Estado de Morelos, los Reglamentos Municipales y Acuerdos del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 7.
 
-La coordinación de los Delegados Municipales y de los Ayudantes Municipales estará a cargo de la Secretaría del Ayuntamiento a través de la Subsecretaria de Gobierno y la Dirección de Delegaciones, Colonias y Poblados.
+La coordinación de los Delegados, Subdelegados y de los Ayudantes Municipales estará a cargo de la Secretaría del Ayuntamiento a través de la Dirección de Colonias, Poblados, Comunidades Indígenas y Delegaciones.
 
 En todo momento, los miembros del Ayuntamiento, deben de participar en dicha coordinación, de acuerdo a los asuntos, que conforme a las comisiones que integren, les corresponda.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES DE LOS DELEGADOS MUNICIPALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 8.
 
-Son atribuciones de los Delegados Municipales:
+Son atribuciones de los Delegados y Subdelegados Municipales:
 
 I.- Ejecutar los acuerdos del Ayuntamiento y los del Presidente Municipal en su área de adscripción;
 
@@ -137,9 +143,11 @@ VIII.- Reportar a los cuerpos de Seguridad Pública, Ministerio Público o Juece
 
 IX.- Todas aquellas que la Ley Orgánica Municipal del Estado de Morelos, el Bando de Policía y Buen Gobierno del Municipio de Cuernavaca, Morelos, el Reglamento de Gobierno y Administración del Ayuntamiento de Cuernavaca, los demás reglamentos y el propio Ayuntamiento determinen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 9.
 
-Los Delegados Municipales tendrán, además de las atribuciones previstas en la Ley Orgánica Municipal del Estado de Morelos, las siguientes:
+Los Delegados y Subdelegados Municipales tendrán, además de las atribuciones previstas en la Ley Orgánica Municipal del Estado de Morelos, las siguientes:
 
 I.- Auxiliar al Ayuntamiento en la administración y desempeño de las actividades de su delegación;
 
@@ -199,9 +207,11 @@ El titular de la Delegación deberá llevar, debidamente autorizado por el Secre
 
 Será la Secretaría del Ayuntamiento, con auxilio de la Consejería Jurídica, quien determinará los datos que se asentarán en el libro de gobierno, así como los formatos de las constancias, mismos que deberán ser foliados y su expedición salvo que la Ley de Ingresos disponga al respecto, será gratuita.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 13.
 
-Los Delegados Municipales y Ayudantes Municipales no pueden:
+Los Delegados, Subdelegados y Ayudantes Municipales no pueden:
 
 I.- Cobrar contribuciones municipales;
 
@@ -223,9 +233,11 @@ IX.- Hacer lo que no esté previsto en este Reglamento y en otros ordenamientos 
 
 ### CAPÍTULO III. DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 14.
 
-En caso de que el Delegado Municipal no cumpla con lo establecido en el presente Reglamento, será removido de su cargo por el Presidente Municipal, estableciéndose, al decretarse la remoción, las razones y causas en que se fundan. Informando de ello a los demás integrantes del Ayuntamiento.
+En caso de que el Delegado o Subdelegado Municipal no cumpla con lo establecido en el presente Reglamento, será removido de su cargo por el Presidente Municipal, estableciéndose, al decretarse la remoción, las razones y causas en que se fundan, informando de ello a los demás integrantes del Ayuntamiento.
 
 ###### Artículo 15.
 
@@ -233,9 +245,11 @@ Para la determinación de las responsabilidades, procedimientos, sanciones y rec
 
 ### CAPÍTULO IV. DE LAS SUPLENCIAS
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 16.
 
-En caso de falta temporal por más de cinco días hábiles del Delegado Municipal, entrará en funciones un Encargado de Despacho; para el caso de ausencia definitiva se autorizará un encargado de despacho, quien será designado por el Presidente Municipal, mientras se designa y nombra al nuevo Titular.
+En caso de falta temporal por más de cinco días hábiles del Delegado Municipal, entrará en funciones el Subdelegado; para el caso de ausencia definitiva de ambos se autorizará un encargado de despacho, quien será designado por el Presidente Municipal, mientras se designa y nombra al nuevo Titular.
 
 ### CAPÍTULO V. DE LOS AYUDANTES MUNICIPALES
 
@@ -418,3 +432,15 @@ CUARTO.- El Presupuesto de Egresos de Ayuntamiento deberá contener, la dotació
 QUINTO.- Se autoriza a la Comisión Dictaminadora; así como, a las Áreas de la administración para que revisen la asignación de las demarcaciones territoriales para las delegaciones propuestas.
 
 SEXTO.- Publíquese el presente Acuerdo en la Gaceta Municipal y en la página de internet de, Ayuntamiento para su debida publicidad.
+
+P.O. 3 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO SO/AC-86/16-VI-2016 QUE ESTABLECE LA REDISTRIBUCIÓN GEOGRÁFICA DE LAS DELEGACIONES MUNICIPALES DE CUERNAVACA Y REFORMA LOS ARTÍCULOS 12 Y 14 DEL BANDO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE CUERNAVACA, MORELOS Y DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA LOS DELEGADOS Y AYUDANTES MUNICIPALES DEL AYUNTAMIENTO DE CUERNAVACA”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Al inicio de vigencia del presente Acuerdo, la Secretaría del Ayuntamiento dispondrá la dotación de inmuebles, mobiliario y demás equipo necesario para su debido funcionamiento, para su operación de las Delegaciones.
+
+TERCERO.- En el Presupuesto de Egresos del Ayuntamiento de Cuernavaca, Morelos, para el Ejercicio Fiscal del año 2016, deberán hacerse adecuaciones; mismas que contendrán la dotación presupuestal necesaria para el debido funcionamiento de las 8 Delegaciones Municipales y de las nuevas figuras creadas como lo son los Subdelegados; por lo que, se autoriza a la Tesorería Municipal a efectuar las ampliaciones presupuestales y transferencias necesarias para ese efecto.
+
+CUARTO.- Publíquese el presente Acuerdo en la Gaceta Municipal y en la página de internet del Ayuntamiento para su debida publicidad.
