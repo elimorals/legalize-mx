@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2016-04-29"
+last_updated: "2016-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE AGOSTO DE 2016.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -2044,6 +2044,20 @@ A quien, con ánimo de dominio, lucro o uso, sin consentimiento de quien legalme
 I. Si el valor de lo robado no excediere de cien días de salario, con prisión de uno a cinco años y multa de hasta ciento cincuenta días de salario; y
 
 II. Si el valor de lo robado excediere de cien días de salario, con prisión de tres a doce años y multa de hasta seiscientos días de salario.
+
+(NOTA: EL 4 DE JULIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 78/2016, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE AGOSTO DE 2016 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, G.O. 3 DE AGOSTO DE 2016)</small>
+
+###### Artículo 206 Ter.
+
+A quien, con ánimo de dominio, lucro o uso, sin consentimiento de quien legalmente pueda otorgarlo se apodere de equipos, maquinaria, insumos, instrumentos o productos pesqueros y/o acuícolas, se le sancionará de la manera siguiente:
+
+I. Si el valor de lo robado no excediere de cien días de salario, con prisión de tres meses a seis años y multa hasta de setenta y cinco días de salario;
+
+II. Si el valor de lo robado excediere de cien días de salario, con prisión de tres a diez años y multa de hasta cuatrocientos días de salario; o
+
+III. Si el valor de lo robado excediere de doscientos días de salario, con prisión de cuatro a doce años y multa de hasta seiscientos días de salario.
 
 ###### Artículo 207.
 
@@ -4297,39 +4311,13 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DECLARAN REFORMADAS Y ADICIONADAS DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS, MEJORA REGULATORIA, JUSTICIA CÍVICA E ITINERANTE Y REGISTROS CIVILES”.]
+G.O. 3 DE AGOSTO DE 2016.
 
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 897 QUE ADICIONA EL ARTÍCULO 206 TER, AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
-Segundo.- En un plazo que no excederá de 180 días naturales siguientes a la entrada en vigor del presente Decreto, el Congreso de la Unión expedirá las leyes generales a que se refieren las fracciones XXIX-A, XXIX-R, XXIX-Y y XXIX-Z de esta Constitución.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
-Tercero.- La ley general en materia de registros civiles a que se refiere la fracción XXIX-R del artículo 73 de esta Constitución deberá prever, al menos: la obligación de trabajar con formatos accesibles de inscripción; la estandarización de actas a nivel nacional; medidas de seguridad física y electrónica; la posibilidad de realizar trámites con firmas digitales; de realizar consultas y emisiones vía remota; el diseño de mecanismos alternos para la atención de comunidades indígenas y grupos en situación de especial vulnerabilidad y marginación; mecanismos homologados de captura de datos; simplificación de procedimientos de corrección, rectificación y aclaración de actas.
-
-Los documentos expedidos con antelación a la entrada en vigor de la ley a que se refiere el segundo transitorio del presente Decreto, continuarán siendo válidos conforme a las disposiciones vigentes al momento de su expedición. Asimismo, los procedimientos iniciados y las resoluciones emitidas con fundamento en dichas disposiciones deberán concluirse y ejecutarse, respectivamente, conforme a las mismas.
-
-Cuarto.- La legislación federal y local en materia de mecanismos alternativos de solución de controversias continuará vigente hasta en tanto entre en vigor la legislación a que se refiere el presente Decreto, por lo que los procedimientos iniciados y las sentencias emitidas con fundamento en las mismas, deberán concluirse y ejecutarse, conforme a lo previsto en aquéllas.
-
-Quinto.- La legislación en materia de mecanismos alternativos de solución de controversias de la federación y de las entidades federativas deberá ajustarse a lo previsto en la ley general que emita el Congreso de la Unión conforme al artículo 73, fracción XXIX-A de esta Constitución.
-
-Sexto.- La ley general en materia de mejora regulatoria a que se refiere el artículo 73, fracción XXIX-Y de esta Constitución deberá considerar al menos, lo siguiente:
-
-a) Un catálogo nacional de regulaciones, trámites y servicios federales, locales y municipales con el objetivo de generar seguridad jurídica a los particulares.
-
-b) Establecer la obligación para las autoridades de facilitar los trámites y la obtención de servicios mediante el uso de las tecnologías de la información, de conformidad con su disponibilidad presupuestaria.
-
-c) La inscripción en el catálogo será obligatoria para todas las autoridades en los términos en que la misma disponga.
-
-Séptimo.- La ley general en materia de justicia cívica e itinerante a que se refiere el artículo 73, fracción XXIX-Z de esta Constitución deberá considerar, al menos lo siguiente:
-
-a) Los principios a los que deberán sujetarse las autoridades para que la justicia itinerante sea accesible y disponible a los ciudadanos;
-
-b) Las bases para la organización y funcionamiento de la justicia cívica en las entidades federativas, y
-
-c) Los mecanismos de acceso a la justicia cívica e itinerante y la obligación de las autoridades de cumplir con los principios previstos por la ley.
-
-Las legislaturas de las entidades federativas proveerán de los recursos necesarios para cumplir con lo dispuesto en el presente artículo transitorio.
-
-D.O.F. 24 DE FEBRERO DE 2017.
+SEGUNDO. Se deroga cualquier disposición que contravenga el presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DECLARAN REFORMADAS Y ADICIONADAS DIVERSAS DISPOSICIONES DE LOS ARTÍCULOS 107 Y 123 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE JUSTICIA LABORAL”.]
 
