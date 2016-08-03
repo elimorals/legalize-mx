@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2016-02-03"
+last_updated: "2016-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
 > <small>N. DE E. PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2016, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, PUBLICADA EN LA G.G. DE 22 DE DICIEMBRE DE 2015.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE NOVIEMBRE DE 2015.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 3 DE FEBRERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE AGOSTO DE 2016.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -4809,7 +4807,7 @@ $/m3 7.32 6.76 6.05 5.27 4.08 8.78
 
 Para su aplicación se atenderá a la clasificación siguiente:
 
-Grupo1. Atizapán de Zaragoza, Coacalco de Berriozábal, Cuautitlán, Cuautitlán Izcalli, Ecatepec de Morelos, Naucalpan de Juárez, Tlalnepantla de Baz y Tultitlán.
+Grupo 1. Atizapán de Zaragoza, Coacalco de Berriozábal, Cuautitlán, Cuautitlán Izcalli, Ecatepec de Morelos, Naucalpan de Juárez, Tlalnepantla de Baz y Tultitlán.
 
 Grupo 2. Chimalhuacán, Huixquilucan, Ixtapaluca, La Paz, Lerma, Nezahualcóyotl, Nicolás Romero, Tepotzotlán, Toluca y Valle de Chalco Solidaridad.
 
@@ -6557,7 +6555,9 @@ Por la inscripción de hipotecas, en las que intervengan el Fondo Instituido en 
 
 Por la inscripción de hipotecas, para garantizar el crédito principal y refinanciamiento para la construcción y adquisición de viviendas de interés social, social progresiva o popular, se pagarán $131.
 
-Para cada cancelación de inscripción o anotación relativa a los actos anteriores se pagará $1,203, a excepción de las cancelaciones que se realicen a favor de los beneficiarios de los programas promotores, respecto de inmuebles destinados a viviendas de interés social, social progresiva o popular, en cuyo caso se pagará un derecho equivalente a $63, así como en el caso de cancelación de inscripciones o anotaciones que se relacionen con créditos en los que intervenga el Fondo Instituido en relación con la Agricultura o la Financiera Rural.
+> <small>(REFORMADO, G.G. 3 DE AGOSTO DE 2016)</small>
+
+Para cada cancelación de inscripción o anotación relativa a los actos anteriores se pagará $1,321, a excepción de las cancelaciones que se realicen a favor de los beneficiarios de los programas promotores, respecto de inmuebles destinados a viviendas de interés social, social progresiva o popular, en cuyo caso se pagará un derecho equivalente a $69, así como en el caso de cancelación de inscripciones o anotaciones que se relacionen con créditos en los que intervenga el Fondo Instituído en relación con la Agricultura o la Financiera Rural; para el caso de aquellas cancelaciones que se realicen a solicitud de parte interesada por el transcurso de diez años a partir del vencimiento del plazo para el cual fue constituída, se pagará un derecho equivalente a $500.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -17923,10 +17923,12 @@ Segundo.- El presente Acuerdo entrará en vigor el primero de enero de 2016.
 
 Tercero.- Hágase del conocimiento de las Dependencias de la Administración Pública del Gobierno del Estado de México, y de las Unidades Administrativas de la Subsecretaría de Ingresos.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DA A CONOCER EL MANUAL GRÁFICO PARA EL USO DE UNIFORMES, DIVISAS Y EQUIPO DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
+G.G. 3 DE AGOSTO DE 2016.
 
-Primero.- El presente Acuerdo, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 107.- POR EL QUE SE ADICIONA LA FRACCIÓN VII AL ARTICULO 8.46 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO. SE REFORMA EL PÁRRAFO SÉPTIMO DE LA FRACCIÓN II DEL ARTÍCULO 95 DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS".]
 
-Segundo.- El Manual Gráfico para el Uso de Uniformes, Divisas y Equipo del Ejército y Fuerza Aérea Mexicanos, que se divulga mediante el presente acuerdo, abroga el Manual Grafico para el uso de Uniformes, Divisas y Equipo del Ejército y Fuerza Aérea Mexicanos, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-Tercero.- La publicación del Manual en comento, cuya consulta es a través de la liga precisada en líneas anteriores, surte los efectos jurídicos respectivos.
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
