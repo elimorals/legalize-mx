@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-proteccion-apoyo-y-promocion-a-la-lactancia-104262"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-18"
-last_updated: "2014-12-18"
+last_updated: "2016-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA PROTECCIÓN, APOYO Y PROMOCIÓN A LA LACTANCIA MATERNA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2016.
 
 Ley publicada en la Sección Séptima de la Gaceta del Gobierno del Estado de México, el jueves 18 de diciembre de 2014.
 
@@ -159,6 +159,10 @@ b) Por seis meses, sin goce de sueldo.
 
 Para gozar de la licencia temporal, posterior a la licencia por maternidad, la trabajadora debe acreditar la práctica de la lactancia materna efectiva, mediante certificado expedido por la institución pública de salud correspondiente, que presentará a su centro de trabajo cada mes.
 
+> <small>(ADICIONADO, G.G. 3 DE AGOSTO DE 2016)</small>
+
+Para favorecer el ejercicio de la licencia temporal, la Secretaría deberá promover la celebración de convenios con el sector público y privado con el objetivo de garantizar o gozar de los derechos contenidos en este artículo.
+
 III. Acceder de manera gratuita a los bancos de leche, en su caso.
 
 IV. Recibir educación e información oportuna, veraz y comprensible sobre los beneficios de la lactancia materna, las técnicas para el amamantamiento, posibles dificultades y medios de solución.
@@ -244,6 +248,10 @@ III. Propiciar el establecimiento de guarderías en los centros de trabajo o cer
 IV. Favorecer en su caso, el establecimiento de transporte que facilite el traslado de las trabajadoras, cuando el periodo de lactancia se ejerza dentro de la jornada laboral.
 
 V. Las demás previstas en otras disposiciones jurídicas y las que determine la Secretaría.
+
+> <small>(ADICIONADO, G.G. 3 DE AGOSTO DE 2016)</small>
+
+Para favorecer el cumplimiento de las obligaciones contenidas en el presente artículo, la secretaría deberá promover la celebración de convenios con el sector público y privado.
 
 ### CAPÍTULO III. ESTABLECIMIENTOS DE PROTECCIÓN, APOYO Y PROMOCIÓN A LA LACTANCIA MATERNA
 
@@ -496,3 +504,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 JOSÉ S. MANZUR QUIROGA
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 3 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 108.- POR EL QUE SE ADICIONA UN TERCER PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 10 Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 13, DE LA LEY PARA LA PROTECCIÓN, APOYO Y PROMOCIÓN A LA LACTANCIA MATERNA DEL ESTADO DE MÉXICO. SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 48 DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
