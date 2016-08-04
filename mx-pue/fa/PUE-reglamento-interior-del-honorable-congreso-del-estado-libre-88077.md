@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-honorable-congreso-del-estado-libre-880
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-26"
-last_updated: "2016-07-29"
+last_updated: "2016-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2016.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 26 de marzo de 2012.
 
@@ -617,7 +617,9 @@ c) Promover la celebración de los convenios que celebre el Congreso del Estado 
 
 d) Las demás que le confiera este Reglamento o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
 
-XIX.- MEDIO AMBIENTE:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2016)</small>
+
+XIX.- MEDIO AMBIENTE, RECURSOS NATURALES Y CAMBIO CLIMÁTICO:
 
 a) Adecuar el marco jurídico para la preservación del medio ambiente y de los recursos naturales;
 
@@ -625,9 +627,21 @@ b) Modificar la legislación de la materia para fomentar la participación ciuda
 
 c) Promover ante las autoridades competentes la implementación de políticas públicas en la preservación del medio ambiente y el manejo sustentable de los recursos naturales;
 
-d) Promover y fomentar la preservación de los recursos naturales y procurar las medidas legislativas necesarias para su aprovechamiento y conservación; y
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2016)</small>
 
-e) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+d) Promover y fomentar la preservación de los recursos naturales y procurar las medidas legislativas necesarias para su aprovechamiento y conservación;
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2016)</small>
+
+e) Fomentar la educación, investigación, desarrollo y transferencia de tecnología e innovación y difusión para disminuir el cambio climático en el Estado;
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2016)</small>
+
+f) Promocionar el aprovechamiento racional y sostenible de los recursos naturales, a fin de garantizar el desarrollo sustentable y disminuir los efectos adversos del cambio climático; y
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2016)</small>
+
+g) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
 
 XX.- MIGRACIÓN Y ASUNTOS INTERNACIONALES:
 
@@ -3112,3 +3126,17 @@ P.O. 29 DE JULIO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, Y DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Comisión General de Medio Ambiente, Recursos Naturales y Cambio Climático estará conformada por los mismos integrantes de la Comisión General de Medio Ambiente que cambia de denominación.
+
+TERCERO. Los asuntos en trámite presentados o turnados a la Comisión General de Medio Ambiente, pasarán a ser competencia de la Comisión General de Medio Ambiente, Recursos Naturales y Cambio Climático.
+
+CUARTO. Todos los actos suscritos por la Comisión General de Medio Ambiente y/o su Presidencia a la entrada en vigor del presente Decreto, sus efectos se entenderán referidos a la Comisión General de Medio Ambiente, Recursos Naturales y Cambio Climático.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
