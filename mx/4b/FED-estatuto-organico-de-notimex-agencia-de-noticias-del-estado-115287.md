@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-notimex-agencia-de-noticias-del-estado-115
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-06-23"
-last_updated: "2016-06-23"
+last_updated: "2016-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115287&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2016-05-16"
 ---
 # ESTATUTO ORGANICO DE NOTIMEX, AGENCIA DE NOTICIAS DEL ESTADO MEXICANO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE AGOSTO DE 2016 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DE NOTIMEX, AGENCIA DE NOTICIAS DEL ESTADO MEXICANO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 4 DE AGOSTO DE 2016.]</small>
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 23 de junio de 2016.
 
@@ -541,33 +541,69 @@ XIII. Las que le sean encomendadas por la Ley, la Dirección General, éste u ot
 
 ### CAPÍTULO VI. DE LA DIRECCIÓN DE ASUNTOS JURÍDICOS
 
-ARTÍCULO 37 (SIC).- La Dirección de Asuntos Jurídicos tiene como propósito lograr que cada uno de los actos que ejecute la Agencia se realice con estricto apego a la normatividad aplicable.
+> <small>(F. DE E., D.O.F. 4 DE AGOSTO DE 2016)</small>
+
+###### ARTÍCULO 33.
+
+La Dirección de Asuntos Jurídicos tiene como propósito lograr que cada uno de los actos que ejecute la Agencia se realice con estricto apego a la normatividad aplicable.
+
+> <small>(F. DE E., D.O.F. 4 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 34.
 
-Son atribuciones y obligaciones de la o el Titular de la Dirección de Comercialización, además de las señaladas en el artículo 25 de este ordenamiento, las siguientes:
+Son atribuciones y obligaciones de la o el Titular de la Dirección de Asuntos Jurídicos, además de las señaladas en el artículo 25 de este ordenamiento, las siguientes:
 
-I. Diseñar, proponer e implementar anualmente el Plan Comercial que contendrá las políticas y estrategias de comercialización, el catálogo de productos y servicios informativos, así como las tarifas de cada uno de ellos, de conformidad con los objetivos institucionales;
+I. Atender y resolver las consultas jurídicas que le presenten las Unidades Administrativas de la Agencia;
 
-II. Presentar a la Dirección General en el último trimestre del año el Plan Comercial, para su aprobación por parte de la Junta de Gobierno;
+II. Analizar las leyes, reglamentos, decretos, acuerdos y demás ordenamientos jurídicos relacionados con las actividades de la Agencia, a fin de que, en colaboración con la Dirección de Administración y Finanzas, se lleve a cabo la integración y actualización del marco normativo de la misma;
 
-III. Identificar las necesidades de los clientes potenciales, así como de los diferentes nichos de mercado nacionales e internacionales;
+III. Actuar como enlace con las dependencias y entidades de la Administración Pública Federal en asuntos de carácter jurídico;
 
-IV. Proponer a la Dirección General y, en su caso, suscribir alianzas estratégicas con cualquier persona entidad u organismo público o privado, nacional o extranjero, con la finalidad de coadyuvar al cumplimiento del objeto de la Agencia, con apego a la normatividad vigente;
+IV. Coordinar acciones para la adecuada asesoría legal de la Agencia en el extranjero;
 
-V. Establecer e implementar las políticas para la atención a los clientes;
+V. Proponer los criterios jurídicos a que deberán sujetarse los contratos, convenios, acuerdos y demás instrumentos jurídicos en que sea parte la Agencia;
 
-VI. Establecer los sistemas de seguimiento necesarios para conocer el estatus de facturación y cobranza, con la Unidad Administrativa correspondiente;
+VI. Registrar y resguardar los contratos, convenios, acuerdos y demás instrumentos jurídicos celebrados por la Entidad;
 
-VII. Coordinar con las Unidades Administrativas de la Agencia el debido cumplimiento de la entrega de los productos y servicios solicitados por parte de los clientes;
+VII. Dictaminar y, en su caso, validar contratos, convenios, acuerdos, bases de colaboración y demás instrumentos jurídicos a celebrarse con cualquier persona, entidad u organismo público o privado, nacional o extranjero para el cumplimiento del objeto de la Agencia, de acuerdo con las disposiciones legales aplicables;
 
-VIII. Diseñar, instrumentar y supervisar las estrategias y acciones que promuevan y difundan la imagen institucional; y
+VIII. Realizar los estudios e investigaciones jurídicas pertinentes para el desarrollo de las funciones de la Agencia;
 
-IX. Las que le sean encomendadas por la Ley, la Dirección General, éste u otros ordenamientos legales y administrativos.
+IX. Formular las estrategias jurídicas que permitan establecer la adecuada defensa de la Agencia en los juicios, trámites, procedimientos judiciales, administrativos y laborales en que sea parte o se tenga interés jurídico;
+
+X. Gestionar el otorgamiento de los poderes legales que la Agencia confiera para el cumplimiento de su objetivo;
+
+XI. Apoyar a la Secretaría y/o Prosecretaría de la Junta de Gobierno; al Consejo Editorial Consultivo y al o la Defensor(a) de la Audiencia en el desempeño de las funciones derivadas de sus cargos;
+
+XII. Elaborar estudios jurídicos relacionados con las actividades de la Agencia;
+
+XIII. Intervenir en el ámbito de su competencia en los asuntos de índole laboral de la Agencia;
+
+XIV. Formular, previa autorización de la Dirección General, las propuestas de reglamentos, circulares, bases, acuerdos y demás ordenamientos jurídicos relacionados con el objeto de la Agencia;
+
+XV. Participar con la Dirección de Administración y Finanzas en las revisiones y negociación del contrato colectivo de trabajo y demás documentos que emanen de él;
+
+XVI. Apoyar jurídicamente a la Unidad de Transparencia de la Agencia;
+
+XVII. Dar atención y seguimiento, conforme a las disposiciones legales aplicables, a los medios de impugnación que interpongan los particulares contra actos y resoluciones que emita la Agencia;
+
+XVIII. Apoyar a la Dirección de Administración y Finanzas en los aspectos administrativos y laborales de la Agencia, y atender las cuestiones jurídicas de los mismos;
+
+XIX. Dirigir las acciones que en materia jurídica lleve a cabo la Agencia, a fin de prevenir y atender posibles conflictos normativos;
+
+XX. Requerir a las y los servidores públicos y Unidades Administrativas de la Agencia todo tipo de información, documentación, colaboración y apoyo que requiera para el cumplimiento de sus atribuciones;
+
+XXI. Asesorar en materia jurídica a la Dirección General y a la Dirección de Administración y Finanzas en los procedimientos de licitación y adjudicación de contratos;
+
+XXII. Asesorar en materia jurídica a la Dirección General en el despacho de los asuntos de su competencia; y
+
+XXIII. Las que le sean encomendadas por la Ley, la Dirección General, éste u otros ordenamientos legales y administrativos.
 
 ### CAPÍTULO VII. DE LA DIRECCIÓN DE ADMINISTRACIÓN Y FINANZAS
 
-ARTÍCULO 35 (SIC).- La Dirección de Administración y Finanzas tiene como objetivo administrar los recursos humanos, financieros, materiales, de tecnologías de la información y comunicación, y de servicios generales de la Agencia para el cabal cumplimiento de los objetivos y metas institucionales.
+###### ARTÍCULO 35.
+
+La Dirección de Administración y Finanzas tiene como objetivo administrar los recursos humanos, financieros, materiales, de tecnologías de la información y comunicación, y de servicios generales de la Agencia para el cabal cumplimiento de los objetivos y metas institucionales.
 
 ###### ARTÍCULO 36.
 
@@ -627,63 +663,43 @@ XXVI. Las que le sean encomendadas por la Ley, la Dirección General, éste u ot
 
 ### CAPÍTULO VIII. DE LA DIRECCIÓN DE COMERCIALIZACIÓN
 
-ARTÍCULO 33 (SIC).- La Dirección de Comercialización tiene como propósito alcanzar las ventas programadas que sustenten los proyectos de la Agencia en el corto, mediano y largo plazos (sic), mediante la promoción y negociación de los productos y servicios informativos generados por las Unidades Administrativas sustantivas.
+> <small>(F. DE E., D.O.F. 4 DE AGOSTO DE 2016)</small>
+
+###### ARTÍCULO 37.
+
+La Dirección de Comercialización tiene como propósito alcanzar las ventas programadas que sustenten los proyectos de la Agencia en el corto, mediano y largo plazos (sic), mediante la promoción y negociación de los productos y servicios informativos generados por las Unidades Administrativas sustantivas.
+
+> <small>(F. DE E., D.O.F. 4 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 38.
 
-Son atribuciones y obligaciones de la o el Titular de la Dirección de Asuntos Jurídicos, además de las señaladas en el artículo 25 de este ordenamiento, las siguientes:
+Son atribuciones y obligaciones de la o el Titular de la Dirección de Comercialización, además de las señaladas en el artículo 25 de este ordenamiento, las siguientes:
 
-I. Atender y resolver las consultas jurídicas que le presenten las Unidades Administrativas de la Agencia;
+I. Diseñar, proponer e implementar anualmente el Plan Comercial que contendrá las políticas y estrategias de comercialización, el catálogo de productos y servicios informativos, así como las tarifas de cada uno de ellos, de conformidad con los objetivos institucionales;
 
-II. Analizar las leyes, reglamentos, decretos, acuerdos y demás ordenamientos jurídicos relacionados con las actividades de la Agencia, a fin de que, en colaboración con la Dirección de Administración y Finanzas, se lleve a cabo la integración y actualización del marco normativo de la misma;
+II. Presentar a la Dirección General en el último trimestre del año el Plan Comercial, para su aprobación por parte de la Junta de Gobierno;
 
-III. Actuar como enlace con las dependencias y entidades de la Administración Pública Federal en asuntos de carácter jurídico;
+III. Identificar las necesidades de los clientes potenciales, así como de los diferentes nichos de mercado nacionales e internacionales;
 
-IV. Coordinar acciones para la adecuada asesoría legal de la Agencia en el extranjero;
+IV. Proponer a la Dirección General y, en su caso, suscribir alianzas estratégicas con cualquier persona entidad u organismo público o privado, nacional o extranjero, con la finalidad de coadyuvar al cumplimiento del objeto de la Agencia, con apego a la normatividad vigente;
 
-V. Proponer los criterios jurídicos a que deberán sujetarse los contratos, convenios, acuerdos y demás instrumentos jurídicos en que sea parte la Agencia;
+V. Establecer e implementar las políticas para la atención a los clientes;
 
-VI. Registrar y resguardar los contratos, convenios, acuerdos y demás instrumentos jurídicos celebrados por la Entidad;
+VI. Establecer los sistemas de seguimiento necesarios para conocer el estatus de facturación y cobranza, con la Unidad Administrativa correspondiente;
 
-VII. Dictaminar y, en su caso, validar contratos, convenios, acuerdos, bases de colaboración y demás instrumentos jurídicos a celebrarse con cualquier persona, entidad u organismo público o privado, nacional o extranjero para el cumplimiento del objeto de la Agencia, de acuerdo con las disposiciones legales aplicables;
+VII. Coordinar con las Unidades Administrativas de la Agencia el debido cumplimiento de la entrega de los productos y servicios solicitados por parte de los clientes;
 
-VIII. Realizar los estudios e investigaciones jurídicas pertinentes para el desarrollo de las funciones de la Agencia;
+VIII. Diseñar, instrumentar y supervisar las estrategias y acciones que promuevan y difundan la imagen institucional; y
 
-IX. Formular las estrategias jurídicas que permitan establecer la adecuada defensa de la Agencia en los juicios, trámites, procedimientos judiciales, administrativos y laborales en que sea parte o se tenga interés jurídico;
-
-X. Gestionar el otorgamiento de los poderes legales que la Agencia confiera para el cumplimiento de su objetivo;
-
-XI. Apoyar a la Secretaría y/o Prosecretaría de la Junta de Gobierno; al Consejo Editorial Consultivo y al o la Defensor(a) de la Audiencia en el desempeño de las funciones derivadas de sus cargos;
-
-XII. Elaborar estudios jurídicos relacionados con las actividades de la Agencia;
-
-XIII. Intervenir en el ámbito de su competencia en los asuntos de índole laboral de la Agencia;
-
-XIV. Formular, previa autorización de la Dirección General, las propuestas de reglamentos, circulares, bases, acuerdos y demás ordenamientos jurídicos relacionados con el objeto de la Agencia;
-
-XV. Participar con la Dirección de Administración y Finanzas en las revisiones y negociación del contrato colectivo de trabajo y demás documentos que emanen de él;
-
-XVI. Apoyar jurídicamente a la Unidad de Transparencia de la Agencia;
-
-XVII. Dar atención y seguimiento, conforme a las disposiciones legales aplicables, a los medios de impugnación que interpongan los particulares contra actos y resoluciones que emita la Agencia;
-
-XVIII. Apoyar a la Dirección de Administración y Finanzas en los aspectos administrativos y laborales de la Agencia, y atender las cuestiones jurídicas de los mismos;
-
-XIX. Dirigir las acciones que en materia jurídica lleve a cabo la Agencia, a fin de prevenir y atender posibles conflictos normativos;
-
-XX. Requerir a las y los servidores públicos y Unidades Administrativas de la Agencia todo tipo de información, documentación, colaboración y apoyo que requiera para el cumplimiento de sus atribuciones;
-
-XXI. Asesorar en materia jurídica a la Dirección General y a la Dirección de Administración y Finanzas en los procedimientos de licitación y adjudicación de contratos;
-
-XXII. Asesorar en materia jurídica a la Dirección General en el despacho de los asuntos de su competencia; y
-
-XXIII. Las que le sean encomendadas por la Ley, la Dirección General, éste u otros ordenamientos legales y administrativos.
+IX. Las que le sean encomendadas por la Ley, la Dirección General, éste u otros ordenamientos legales y administrativos.
 
 ## TÍTULO QUINTO. DE LOS COMITÉS
 
 ### CAPÍTULO I. DE LOS COMITÉS TÉCNICOS ESPECIALIZADOS
 
-ARTÍCULO 39 (SIC).- La Agencia contará con los Comités Técnicos Especializados para el cumplimiento de sus objetivos y para el desarrollo oportuno y eficaz de las actividades que realice, mismos que deberán operar de conformidad con lo establecido en el Capítulo VII de la Ley.
+###### ARTÍCULO 39.
+
+La Agencia contará con los Comités Técnicos Especializados para el cumplimiento de sus objetivos y para el desarrollo oportuno y eficaz de las actividades que realice, mismos que deberán operar de conformidad con lo establecido en el Capítulo VII de la Ley.
 
 ###### ARTÍCULO 40.
 
