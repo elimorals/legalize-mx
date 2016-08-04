@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2016-07-29"
+last_updated: "2016-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2000-12-28"
 ---
 # REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN LA G.O. DEL 5 DE AGOSTO DE 2016, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 29 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 4 DE AGOSTO DE 2016.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -1120,7 +1122,9 @@ V. Dirigir y resolver, con base en los lineamientos que fije el Jefe de Gobierno
 
 VI. Mantener actualizado el escalafón de los trabajadores y vigilar la adecuada difusión de los movimientos y procesos escalafón arios (sic);
 
-VII. Autorizar los viáticos y pasajes nacionales y tramitar ante el Titular de la Administración Pública del Distrito Federal la autorización de los pasajes internacionales y los viáticos en el extranjero, previa validación de suficiencia presupuestal emitida a las dependencias, órganos desconcentrados y entidades por la Secretaría de Finanzas;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2016)</small>
+
+VII. Establecer la política que regule el ejercicio de los servicios de traslado, viáticos y demás erogaciones relacionadas con las comisiones oficiales nacionales e internacionales de las que sean parte las Dependencias, Órganos Desconcentrados, y Entidades de la Administración Pública de la Ciudad de México;
 
 VIII. Imponer, reducir y revocar las sanciones administrativas a que se haga acreedor el personal, de conformidad con las disposiciones jurídicas y administrativas aplicables, sin perjuicio de las que les competan jurídica y administrativamente imponer a otras autoridades;
 
@@ -7582,9 +7586,9 @@ XV. Suscribir los documentos relativos al ejercicio de sus atribuciones;
 
 XVI. Certificar, por sí o a través de las Direcciones, los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo;
 
-> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2016)</small>
 
-XVII. Revisar las solicitudes de pasajes y viáticos nacionales o internacionales que presenten las dependencias órganos desconcentrados y entidades al Oficial Mayor, para su autorización, y en las internacionales para que éste gestione su autorización ante el Jefe de Gobierno, y
+XVII. Emitir las normas y criterios, así como administrar los instrumentos de tramitación para el ejercicio eficiente de los gastos relacionados con los servicios de traslado, viáticos, y demás erogaciones relacionadas con las comisiones oficiales nacionales e internacionales de las Dependencias, Órganos Desconcentrados, y Entidades de la Administración Pública de la Ciudad de México y resguardar la información de las mismas; y
 
 > <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
 
@@ -7670,9 +7674,13 @@ XVIII. Certificar los documentos que obren en los expedientes que sean integrado
 
 XIX. Elaborar el programa interno de protección civil de los inmuebles del patrimonio inmobiliario de la ciudad que ocupan las unidades administrativas de las dependencias que administran;
 
-> <small>(ADICIONADA, G.O. 15 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2016)</small>
 
-XX. Las demás que le sean conferidas por el Oficial Mayor, así como las que correspondan a las unidades que le sean adscritas.
+XX. Atender, tramitar y autorizar las solicitudes de los servicios de traslado, viáticos y demás erogaciones relacionadas con las comisiones oficiales nacionales e internacionales, en el marco de la normatividad aplicable en la materia, y
+
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2016)</small>
+
+XXI. Las demás que le sean conferidas por el Oficial Mayor, así como las que correspondan a las unidades que le sean adscritas
 
 > <small>(ADICIONADO, G.O. 15 DE ENERO DE 2016)</small>
 
@@ -19135,3 +19143,15 @@ QUINTO.- El Órgano Político-Administrativo deberá adecuar su estructura orgá
 SEXTO.- Las referencias hechas en ordenamientos e instrumentos administrativos a las Unidades Administrativas que por virtud de este Decreto hubieran dejado de tener competencia en la materia que regulan, se entenderán hechas a aquellas que cuenten con las facultades correspondientes.
 
 SÉPTIMO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Decreto.
+
+G.O. 4 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- En tanto se emitan las normas que sustituyan a las NORMAS PARA LA AUTORIZACIÓN DE VIÁTICOS Y PASAJES NACIONALES E INTERNACIONALES, EN COMISIONES OFICIALES PARA LOS SERVIDORES PÚBLICOS DE LAS DEPENDENCIAS, ÓRGANOS DESCONCENTRADOS Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL, los ajustes inmediatos al procedimiento para autorizar los servicios de traslado, viáticos y demás erogaciones relacionadas con las comisiones oficiales nacionales e internacionales se darán a conocer mediante circular emitida por la Coordinación General de Control y Profesionalización de las Unidades Encargadas de la Administración.
+
+CUARTO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Decreto.
