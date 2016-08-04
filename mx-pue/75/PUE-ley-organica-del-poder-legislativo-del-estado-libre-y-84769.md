@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2016-07-29"
+last_updated: "2016-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2016.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -1289,7 +1289,9 @@ XVII.- Protección Civil;
 
 XVIII.- Desarrollo Económico;
 
-XIX.- Medio Ambiente;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
+
+XIX.- Medio Ambiente, Recursos Naturales y Cambio Climático;
 
 XX.- Migración y Asuntos Internacionales;
 
@@ -2512,3 +2514,17 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Las solicitudes de acceso que se encuentren en trámite o en proceso en la Unidad de Acceso a la Información del Congreso del Estado Libre y Soberano de Puebla, a la entrada en vigor del presente Decreto, se seguirán tramitando hasta su conclusión en la Unidad de Transparencia del Congreso del Estado Libre y Soberano de Puebla.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, Y DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Comisión General de Medio Ambiente, Recursos Naturales y Cambio Climático estará conformada por los mismos integrantes de la Comisión General de Medio Ambiente que cambia de denominación.
+
+TERCERO. Los asuntos en trámite presentados o turnados a la Comisión General de Medio Ambiente, pasarán a ser competencia de la Comisión General de Medio Ambiente, Recursos Naturales y Cambio Climático.
+
+CUARTO. Todos los actos suscritos por la Comisión General de Medio Ambiente y/o su Presidencia a la entrada en vigor del presente Decreto, sus efectos se entenderán referidos a la Comisión General de Medio Ambiente, Recursos Naturales y Cambio Climático.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
