@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-educacion-del-estado-de-puebla-17781"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-31"
-last_updated: "2014-03-31"
+last_updated: "2016-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 31 de marzo de 2000.
 
@@ -395,7 +395,9 @@ IV.- Diseñar y proponer a la autoridad educativa federal los contenidos regiona
 
 V.- Determinar y formular planes y programas de estudio distintos de los señalados en la fracción que antecede;
 
-VI.- Adecuar, en su caso, el calendario escolar para cada ciclo lectivo de la educación básica, normal y demás para la formación de docentes de educación básica, con respeto al calendario fijado por la Autoridad Educativa Federal;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
+
+VI.- Autorizar, en su caso, los ajustes al calendario escolar para cada ciclo lectivo de la educación básica, normal y demás para la formación de docentes de educación básica, con respecto al calendario fijado por la Autoridad Educativa Federal; dichos ajustes deberán prever las medidas para cubrir los planes y programas aplicables.
 
 VII.- Autorizar el calendario escolar para cada ciclo lectivo, respecto a estudios distintos de los señalados en la fracción precedente;
 
@@ -1429,11 +1431,13 @@ Las instituciones deberán informar periódicamente a los educandos y, en su cas
 
 ### CAPÍTULO IV. DEL CALENDARIO ESCOLAR
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 79.
 
-El calendario escolar para la educación preescolar, primaria, la secundaria, la normal y demás para la formación de docentes de educación básica será determinado por la autoridad educativa federal. La autoridad educativa estatal podrá, en su caso, ajustar el calendario escolar con respeto al establecido por la autoridad educativa federal, cuando ello resulte necesario en atención a requerimientos específicos del propio Estado. Los docentes serán debidamente remunerados si la modificación al calendario escolar implica más días de clase de los establecidos en dicho calendario.
+El calendario escolar para la educación preescolar, primaria, la secundaria, la normal y demás para la formación de docentes de educación básica será determinado por la autoridad educativa federal el cual contendrá un mínimo de ciento ochenta y cinco días y un máximo de doscientos días efectivos de clases para los educandos.
+
+La autoridad educativa estatal podrá, en su caso, autorizar los ajustes al calendario escolar con respecto al establecido por la autoridad educativa federal, cuando ello resulte necesario en atención a requerimientos específicos del propio Estado o de la autoridad educativa escolar, previo cumplimiento de los lineamientos que para tal efecto expida la autoridad educativa. Dichos ajustes deberán prever las medidas para cubrir los planes y programas aplicables. Los docentes serán debidamente remunerados si la modificación al calendario escolar implica más días de clase de los establecidos en dicho calendario.
 
 ###### ARTÍCULO 80.
 
@@ -1453,11 +1457,11 @@ Toda suspensión de labores fuera de los días señalados por el calendario esco
 
 De presentarse interrupciones por caso extraordinario o fuerza mayor, la Autoridad Educativa tomará las medidas para recuperar los días y horas suspendidos.
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 83.
 
-El calendario escolar aplicable en el Estado para cada ciclo lectivo de la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de docentes de educación básica deberá publicarse en el Periódico Oficial de la Entidad.
+El calendario escolar aplicable en el Estado para cada ciclo lectivo de la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de docentes de educación básica, y los ajustes al mismo, deberán publicarse en el Periódico Oficial de la Entidad.
 
 ### CAPÍTULO V. DE LA EDUCACIÓN QUE OFREZCAN LOS PARTICULARES
 
@@ -1747,9 +1751,9 @@ Será responsabilidad de la autoridad de cada escuela de educación básica vinc
 
 La autoridad escolar hará lo conducente para que en cada escuela de educación básica opere un Consejo Escolar de Participación Social en la Educación, integrado con padres de familia y representantes de sus Asociaciones, educadores y representantes de su organización sindical, quienes acudirán como representantes de los intereses laborales de los trabajadores, directivos de la escuela, ex-alumnos, así como con los demás miembros de la comunidad interesados en el desarrollo de la propia escuela, a quienes se les deberá capacitar adecuadamente para que participen responsablemente.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2016)</small>
 
-Este Consejo conocerá el calendario escolar, las metas educativas y las actividades escolares, con el objeto de coadyuvar con el educador a su mejor realización; propiciará la colaboración de docentes y padres de familia; podrá proponer estímulos y reconocimientos de carácter social a alumnos y trabajadores de la educación para ser considerados por los programas de reconocimiento que establece la Ley General del Servicio Profesional Docente y demás programas que al efecto determinen las autoridades competentes; estimulará, promoverá y apoyará actividades extraescolares que complementen y respalden la formación de los educandos; llevará a cabo las acciones de participación, coordinación y difusión necesarias para la protección civil y la emergencia escolar; alentará el interés familiar y comunitario con el desempeño del educando; contribuirá a reducir las condiciones sociales adversas que influyan en la educación; estará facultado para realizar convocatorias para trabajos específicos de mejoramiento de las instalaciones escolares; respaldará las labores cotidianas de la escuela y, en general, podrá realizar actividades en beneficio de la propia escuela y de la comunidad.
+Este Consejo opinará sobre los ajustes al calendario escolar, conocerá las metas educativas y las actividades escolares, con el objeto de coadyuvar con el educador a su mejor realización; propiciará la colaboración de docentes y padres de familia; podrá proponer estímulos y reconocimientos de carácter social a alumnos y trabajadores de la educación para ser considerados por los programas de reconocimiento que establece la Ley General del Servicio Profesional Docente y demás programas que al efecto determinen las autoridades competentes; estimulará, promoverá y apoyará actividades extraescolares que complementen y respalden la formación de los educandos; llevará a cabo las acciones de participación, coordinación y difusión necesarias para la protección civil y la emergencia escolar; alentará el interés familiar y comunitario con el desempeño del educando; contribuirá a reducir las condiciones sociales adversas que influyan en la educación; estará facultado para realizar convocatorias para trabajos específicos de mejoramiento de las instalaciones escolares; respaldará las labores cotidianas de la escuela y, en general, podrá realizar actividades en beneficio de la propia escuela y de la comunidad.
 
 Consejos análogos podrán operar en las escuelas particulares de educación básica.
 
@@ -2034,3 +2038,11 @@ P.O. 31 DE MARZO DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 4 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 14, LOS ARTÍCULOS 79 Y 83, Y EL TERCER PÁRRAFO DEL 104, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
