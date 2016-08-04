@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-vivienda-para-el-estado-de-puebla-68344"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-17"
-last_updated: "2012-06-01"
+last_updated: "2016-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE VIVIENDA PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2016.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el viernes 17 de abril de 2009.
 
@@ -49,9 +49,13 @@ La presente Ley es reglamentaria del artículo 123 de la Constitución Política
 
 El Estado establecerá los lineamientos y mecanismos para coordinar las acciones de los sectores público, social y privado encaminados a garantizar este derecho.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 2.
 
-Se considerará vivienda digna y decorosa la que cumpla con las disposiciones jurídicas aplicables en materia de asentamientos humanos, construcción, habitabilidad, salubridad, cuente con los servicios básicos y brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad o legítima posesión y contemple criterios de calidad en sus materiales y en su construcción para la prevención de desastres, así como, protección física y seguridad de sus ocupantes ante los elementos naturales potencialmente agresivos.
+Se considerará vivienda digna y decorosa la que cumpla con las disposiciones jurídicas aplicables en materia de asentamientos humanos, construcción, salubridad, cuente con espacios habitables y auxiliares, así como con los servicios básicos y brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad o legítima posesión y contemple criterios de calidad en sus materiales y en su construcción para la prevención de desastres, así como, protección física y seguridad de sus ocupantes ante los elementos naturales potencialmente agresivos.
+
+La vivienda no podrá establecerse en zonas de alto riesgo.
 
 ###### Artículo 3.
 
@@ -65,45 +69,79 @@ Las dependencias, entidades de la administración pública estatal y municipios 
 
 Para los efectos de esta Ley, se entenderá por:
 
-I.- Beneficiarios.- Los sujetos favorecidos de una acción de vivienda o de un crédito de vivienda;
+I. Beneficiarios.- Los sujetos favorecidos de una acción de vivienda o de un crédito de vivienda;
 
-II.- Consejo.- Consejo para el Fomento a la Vivienda;
+II. Consejo.- Consejo para el Fomento a la Vivienda;
 
-III.- Estímulo.- Las medidas de carácter jurídico, administrativo, fiscal o financiero que aplican las dependencias y entidades del sector público para promover y facilitar la participación de los sectores social y privado en la ejecución de acciones, procesos o programas habitacionales;
+III. Estímulo.- Las medidas de carácter jurídico, administrativo, fiscal o financiero que aplican las dependencias y entidades del sector público para promover y facilitar la participación de los sectores social y privado en la ejecución de acciones, procesos o programas habitacionales;
 
-IV.- Habitabilidad.- Se refiere a las condiciones de las características físicas de la vivienda en cuanto a su tamaño, calidad y durabilidad de sus materiales, así como los servicios básicos y las características psicosociales de la familia como hábitos, conductas o maneras de ser adquiridas en el transcurso del tiempo;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
 
-V.- (DEROGADA, P.O. 1 DE JUNIO DE 2012)
+IV. Espacios Auxiliares.- El lugar de la vivienda donde se desarrollan actividades de trabajo, higiene y circulación;
 
-VI.- Ley.- Ley de Vivienda para el Estado de Puebla;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2016)</small>
 
-VII.- Marginación.- Situación de aislamiento y exclusión de un individuo;
+V. Espacios Habitables.- El lugar de la vivienda donde se desarrollan actividades de reunión o descanso, que cuenten con las dimensiones mínimas de superficie, altura, ventilación e iluminación natural, además de contar como mínimo con un baño, cocina, estancia-comedor y dos recámaras, de conformidad con las características y condiciones mínimas necesarias que establezcan las leyes y las normas oficiales mexicanas;
 
-VIII.- Población Vulnerable.- La constituida por los adultos mayores y personas discapacitadas, jefas de hogar, madres solteras, población indígena, población con empleo temporal y/o informal de bajos recursos económicos;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
 
-IX.- Pobreza.- Circunstancia económica en la que una persona carece de los ingresos suficientes para acceder a una vivienda;
+VI. Habitabilidad.- Se refiere a las condiciones de las características físicas de la vivienda en cuanto a su tamaño, calidad y durabilidad de sus materiales así como los servicios básicos y las características psicosociales de la familia como hábitos, conductas o maneras de ser adquiridas en el transcurso del tiempo;
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
 
-X.- Registro.- Registro de Información Estatal de Vivienda;
+VII. Ley.- Ley de Vivienda para el Estado de Puebla;
 
-XI.- Secretaría.- Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
 
-XII.- Sistema.- Sistema Estatal de Vivienda;
+VIII. Marginación.- Situación de aislamiento y exclusión de un individuo;
 
-XIII.- Vivienda.- Área construida que cuenta con el conjunto de satisfactores y servicios propios de la habitación;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
 
-XIV.- Vivienda ecológica.- Aquella en la que se aplican criterios ecológicos y eco-tecnologías para promover una mejor calidad de vida para el usuario o usuarios sin deteriorar la calidad del medio ambiente;
+IX. Población Vulnerable.- La constituida por los adultos mayores y personas discapacitadas, jefas de hogar, madres solteras, población indígena, población con empleo temporal y/o informal de bajos recursos económicos;
 
-XV.- Vivienda Popular.- Aquella cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar por diez el salario mínimo general diario vigente en el Estado, elevada esta cantidad al año;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
 
-XVI.- Vivienda Progresiva.- Aquella que se construye en etapas de acuerdo a los recursos del beneficiario;
+X. Pobreza.- Circunstancia económica en la que una persona carece de los ingresos suficientes para acceder a una vivienda;
 
-XVII.- Sector Privado.- Toda persona física o moral que produzca bienes o servicios relacionados con la vivienda con fines preponderantes de lucro;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
 
-XVIII.- Sector Público.- Toda dependencia, entidad u organismos de la administración pública, cuyas atribuciones comprendan el financiamiento y la gestión del proceso habitacional o la ordenación del territorio que incluya la vivienda; y
+XI. Registro.- Registro de Información Estatal de Vivienda;
 
-XIX.- Sector Social.- Toda persona física o moral, familia o grupo social, aún sin personalidad jurídica que sin fines preponderantes de lucro, realicen acciones o procesos habitacionales en beneficio de personas con ingresos iguales o inferiores a los que se requieren para adquirir una vivienda popular.
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
+
+XII. Secretaría.- Secretaría de Desarrollo Social;
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
+
+XIII. Sistema.- Sistema Estatal de Vivienda;
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
+
+XIV. Vivienda.- Área construida que cuenta con el conjunto de satisfactores y servicios propios de la habitación;
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
+
+XV. Vivienda Ecológica.- Aquella en la que se aplican criterios ecológicos y eco-tecnologías para promover una mejor calidad de vida para el usuario o usuarios sin deteriorar la calidad del medio ambiente;
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
+
+XVI. Vivienda Popular.- Aquella cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar por diez el salario mínimo general diario vigente en el Estado, elevada esta cantidad al año;
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
+
+XVII. Vivienda Progresiva.- Aquella que se construye en etapas de acuerdo a los recursos del beneficiario;
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
+
+XVIII. Sector Privado.- Toda persona física o moral que produzca bienes o servicios relacionados con la vivienda con fines preponderantes de lucro;
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
+
+XIX. Sector Público.- Toda dependencia, entidad u organismos de la administración pública, cuyas atribuciones comprendan el financiamiento y la gestión del proceso habitacional o la ordenación del territorio que incluya la vivienda; y
+
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2016)</small>
+
+XX. Sector Social.- Toda persona física o moral, familia o grupo social, aún sin personalidad jurídica que sin fines preponderantes de lucro, realicen acciones o procesos habitacionales en beneficio de personas con ingresos iguales o inferiores a los que se requieren para adquirir una vivienda popular.
 
 ###### Artículo 5.
 
@@ -155,9 +193,17 @@ XVI.- Fomentar la redensificación de áreas habitacionales que cuenten con los 
 
 XVII.- Fomentar la integración de redes de productores y distribuidores de materiales y componentes de la vivienda para que apoyen los procesos de producción social de vivienda;
 
-XVIII.- Promover la investigación tecnológica a la innovación y promoción de sistemas constructivos socialmente apropiados; y
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
 
-XIX.- Promover y estimular la producción y distribución de materiales y elementos para la construcción de vivienda de carácter innovador a afecto de reducir costos.
+XVIII.- Promover la investigación tecnológica a la innovación y promoción de sistemas constructivos socialmente apropiados;
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
+
+XIX.- Promover y estimular la producción y distribución de materiales y elementos para la construcción de vivienda de carácter innovador a afecto (sic) de reducir costos; y
+
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2016)</small>
+
+XX.- Fomentar la calidad de la vivienda y orientar los criterios mínimos de los espacios habitables y auxiliares.
 
 ###### Artículo 8.
 
@@ -984,3 +1030,11 @@ P.O. 1 DE JUNIO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 4 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 2, LAS FRACCIONES IV A XIX DEL 4, Y LAS FRACCIONES XVIII Y XIX DEL 7; Y ADICIONA LA FRACCIÓN XX AL ARTÍCULO 4, Y LA FRACCIÓN XX AL 7, TODOS DE LA LEY DE VIVIENDA PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
