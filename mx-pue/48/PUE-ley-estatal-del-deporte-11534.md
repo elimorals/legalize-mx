@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-del-deporte-11534"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2016-07-22"
+last_updated: "2016-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DEL DEPORTE EN EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2016.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el viernes 21 de febrero de 1997.
 
@@ -219,13 +219,17 @@ VII.- Evaluar permanentemente la práctica del deporte y la cultura física en e
 
 VIII. Promover el otorgamiento de estímulo a las personas que destaquen en alguna actividad deportiva;
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
 
-IX. Proponer planes y programas que contribuyan a fomentar, promover y estimular el desarrollo de la activación física, la cultura física y el deporte, considerando el pleno reconocimiento a la equidad e igualdad hacia las personas con discapacidad, con la colaboración de la Comisión Estatal Coordinadora de Personas con Discapacidad; y
+IX. Proponer planes y programas que contribuyan a fomentar, promover y estimular el desarrollo de la activación física, la cultura física y el deporte, considerando el pleno reconocimiento a la equidad e igualdad hacia las personas con discapacidad, con la colaboración de la Comisión Estatal Coordinadora de Personas con discapacidad;
 
-> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
 
-X. Las demás que le otorgue esta Ley, su Reglamento y demás normas reglamentarias y estatutarias, aplicables.
+X. Promover las medidas necesarias a fin de prevenir y erradicar la violencia en el deporte; la implementación de sanciones conforme a su competencia a quienes la ejerzan, sin perjuicio de las responsabilidades penales y civiles que resulten aplicables, y reducir los riesgos de afectación en la práctica de actividades físicas, recreativas o deportivas; y
+
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2016)</small>
+
+XI. Las demás que le otorgue esta Ley, su reglamento y demás normas reglamentarias y estatutarias, aplicables.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
@@ -329,9 +333,17 @@ VIII.- Celebrar convenios con el sector social, público y privado para el cumpl
 
 IX.- El Gobierno del Estado, designará de su presupuesto de egresos anual, una partida específica para apoyar a las actividades deportivas que se desarrollen en cada Municipio, la cual se sumará a los recursos que para el mismo fin programe cada Ayuntamiento; en lo concerniente a la Capital del Estado, el Gobierno Estatal, destinará un presupuesto adicional especial, el cual se empleará exclusivamente al apoyo y fomento del Programa de Deporte de Alto Rendimiento;
 
-X.- Promover el otorgamiento de estímulos a las personas que destaquen en alguna actividad deportiva; y
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
 
-XI.- Participar, en los programas que se deriven de los Sistemas Nacional y Estatal del Deporte.
+X.- Promover el otorgamiento de estímulos a las personas que destaquen en alguna actividad deportiva;
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
+
+XI.- Promover en el ámbito de su competencia, y establecer, en coordinación con las autoridades de Seguridad Pública y de Protección Civil competentes, así como con servicios de Seguridad Privada, los mecanismos y acciones encaminados a prevenir la violencia en eventos deportivos o de espectáculo, cuando por el número de asistentes así se requiera para garantizar la seguridad de las personas y de su patrimonio, el desarrollo pacífico en los recintos donde se celebren y de sus inmediaciones; y
+
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2016)</small>
+
+XII.- Participar, en los programas que se deriven de los Sistemas Nacional y Estatal del Deporte.
 
 ### CAPITULO II. DE LOS CONSEJOS MUNICIPALES DEL DEPORTE
 
@@ -674,5 +686,13 @@ P.O. 22 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL DEPORTE”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, Y DE LA LEY ESTATAL DEL DEPORTE, EN MATERIA DE “VIOLENCIA EN EVENTOS DEPORTIVOS O DE ESPECTÁCULOS”.]
+
+PRIMERO. El presente Decreto, entrará en vigor a partir del día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
