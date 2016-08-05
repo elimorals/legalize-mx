@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-turismo-del-estado-de-campeche-80279"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-04"
-last_updated: "2011-03-04"
+last_updated: "2016-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE TURISMO DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 4 de marzo de 2011.
 
@@ -364,6 +364,12 @@ Lo anterior, entre otros, a través de estudios sociales y de mercado, tomando e
 La Secretaría establecerá en el territorio del Estado, módulos de turismo en los que se proporcione orientación, asistencia e información turística abiertas al público en general. Los módulos deberán estar ubicados en las zonas céntricas de la ciudad.
 
 Los municipios y el sector privado, en coordinación con la Secretaría, podrán establecer módulos de turismo con los mismos fines, en observancia de los lineamientos que al respecto emita la Secretaría, así como lo dispuesto en el Reglamento de la presente Ley.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+Los módulos que instalen las autoridades municipales se ubicarán en lugares estratégicos y visibles para facilitar su localización, tener una rotulación y señalización en español, inglés y braille, y preferentemente deberán estar ubicados en la plaza principal del Municipio, así como en corredores turísticos, centrales de autobuses y aeropuertos, así como en sitios de mayor afluencia turística.
 
 ###### Artículo 21.
 
@@ -874,3 +880,13 @@ Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de San Franc
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los veinticuatro días del mes de febrero del año dos mil once.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO WILLIAM ROBERTO SARMIENTO URBINA.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 70 POR EL QUE “SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 20 DE LA LEY DE TURISMO DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
