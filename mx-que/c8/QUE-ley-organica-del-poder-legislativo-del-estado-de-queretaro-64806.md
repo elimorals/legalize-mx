@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2016-05-27"
+last_updated: "2016-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 27 DE MAYO DE 2016 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 27 PUBLICADO EN EL P.O. DE 13 DE MAYO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -57,7 +55,9 @@ Las disposiciones de esta Ley no son transigibles por vía de acuerdo de la Legi
 
 (Denominación y permanencia) El Poder Legislativo del Estado, ejerce la función legislativa del Poder Público, independientemente de la renovación periódica de sus integrantes; se deposita en una asamblea denominada Legislatura del Estado, cuyo número ordinal sucesivo se antepondrá al designarla; se integra por representantes populares denominados diputados, quienes serán electos cada tres años. Por cada diputado propietario se elegirá un suplente.
 
-Los tres años de ejercicio constitucional se considerarán de trabajo legislativo permanente y serán conducidos por la Mesa Directiva con periodos semestrales cada una y por ningún motivo habrá recesos en los mismos.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+Los tres años de ejercicio constitucional se considerarán de trabajo legislativo permanente y serán conducidos por la Mesa Directiva con periodos de hasta seis meses cada una y por ningún motivo habrá recesos en los mismos.
 
 ###### Artículo 3.
 
@@ -105,9 +105,17 @@ Tienen carácter oficial, las comunicaciones que provengan del Gobernador del Es
 
 I. Cuando no se señale domicilio legal;
 
-II. Cuando el domicilio señalado no coincida con el del interesado; y
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
 
-III. Cuando el interesado se niegue a recibir la notificación.
+II. Cuando el domicilio señalado no coincida con el del interesado;
+
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+III. Cuando el interesado se niegue a recibir la notificación; y
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+IV. Cuando el domicilio señalado no exista.
 
 ###### Artículo 10.
 
@@ -155,15 +163,21 @@ III. Realizar encuestas de opinión, foros y consultas populares sobre los asunt
 
 IV. Solicitar licencia a la Legislatura;
 
-V. Rendir a la sociedad, una vez al año, un informe de las actividades que realizan; y
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+V. Rendir a la sociedad, una vez al año, un informe de las actividades que realizan;
 
-VI. Dar a conocer ante el Pleno el contenido de sus iniciativas y el alcance de las mismas, así como proponer la Comisión Ordinaria o Especial a la que deba ser turnada para su correspondiente estudio y dictamen; y
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+VI. Dar a conocer ante el Pleno el contenido de sus iniciativas y el alcance de las mismas, así como proponer la Comisión Ordinaria o Especial a la que deba ser turnada para su correspondiente estudio y dictamen;
 
-VII. Solicitar por sí o mediante las Comisiones a que pertenezcan, la información que para el ejercicio de sus facultades de investigación y representación requieran de las dependencias, organismos y entidades de los Poderes Ejecutivo, Judicial y Legislativo, de los organismos constitucionales autónomos y de las autoridades municipales del Estado.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+VII. Solicitar por sí o mediante las Comisiones a que pertenezcan, la información que para el ejercicio de sus facultades de investigación y representación requieran de las dependencias, organismos y entidades de los Poderes Ejecutivo, Judicial y Legislativo, de los organismos constitucionales autónomos y de las autoridades municipales del Estado; y
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+VIII. Contar con periodos de descanso, los días y fechas que corresponda a cada periodo, serán determinados por acuerdo de la Junta de Concertación Política.
 
 #### Sección Segunda. Obligaciones
 
@@ -209,7 +223,7 @@ XIII. Observar estrictamente las disposiciones de esta ley y las normas que de e
 
 ###### Artículo 18.
 
-(Informe de actividades fuera del Estado) Siempre que los diputados participen fuera del territorio del Estado en actividades oficiales, a su regreso rendirán informe pormenorizado a la Presidencia de la Legislatura, sobre las actividades desarrolladas y los resultados obtenidos o que se espera obtener. Cuando el viaje se realice por dos o más diputados, podrá rendirse este informe en conjunto.
+(DEROGADO, P.O. 5 DE AGOSTO DE 2016)
 
 ###### Artículo 19.
 
@@ -391,7 +405,9 @@ c) Acuerdo: La resolución expedida por el Poder Legislativo, en materia de su a
 
 (Cómputo de los plazos) Los plazos a que se refiere esta ley, se computarán por días hábiles, salvo disposición expresa en contrario.
 
-La recepción de documentos se realizará por la Oficialía de Partes en días y horas hábiles, que se comprenderán de lunes a viernes, de las 9:00 a las 16:00 horas. El Presidente de la Legislatura podrá habilitar días y horas distintos a los señalados. Los documentos que no fueren recibidos por conducto de esta área, se tendrán por no presentados ante el Poder Legislativo.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+La recepción de documentos se realizará por la Oficialía de Partes en días y horas hábiles, que se comprenderán de lunes a viernes, de las 9:00 a las 16:00 horas. Los que se presenten para trámite Legislativo, deberán ser exhibidos de manera impresa y en archivo electrónico, en formato de procesador de textos editable. El Presidente de la Legislatura podrá habilitar días y horas distintos a los señalados. Los documentos que no fueren recibidos por conducto de esta área, se tendrán por no presentados ante el Poder Legislativo.
 
 Serán inhábiles los periodos vacacionales autorizados por la Mesa Directiva, así como los días de descanso obligatorios señalados por las leyes de la materia, los convenios sindicales y los autorizados por la Mesa Directiva.
 
@@ -1139,11 +1155,11 @@ Las relaciones contractuales entre las personas que no hayan sido contratadas po
 
 #### Sección Segunda. Mesa Directiva
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 120.
 
-(Elección y duración de la Mesa Directiva) Se elegirá mediante cédula y por mayoría de votos de los diputados presentes en la sesión, una Mesa Directiva o el Presidente de la Legislatura que conducirá los trabajos del Poder Legislativo hasta por un año; en cada caso se especificará la duración del ejercicio correspondiente.
+(Elección y duración de la Mesa Directiva) Se elegirá mediante cédula y por mayoría de votos de los diputados presentes en la sesión, una Mesa Directiva o el Presidente de la Legislatura que conducirá los trabajos del Poder Legislativo hasta por seis meses; en cada caso se especificará la duración del ejercicio correspondiente.
 
 En su actuación, la Mesa Directiva observará los principios de imparcialidad y objetividad, haciendo prevalecer el interés general de la Legislatura sobre el particular de sus integrantes o sus órganos.
 
@@ -2384,3 +2400,13 @@ Artículo Primero. La presente Ley entrará en vigor a partir del día de su apr
 Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Tercero. Una vez aprobado el presente ordenamiento legal por el Pleno de la Quincuagésima Octava Legislatura del Estado de Querétaro, envíese al titular del Poder Ejecutivo del Estado para su debida publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 5 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día de su aprobación por el Pleno de la Quincuagésima Octava Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Una vez aprobada la presente Ley, por el Pleno de la Quincuagésima Octava Legislatura del Estado de Querétaro, envíese al titular del Poder Ejecutivo del Estado para su debida publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
