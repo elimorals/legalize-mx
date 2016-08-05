@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-regimen-municipal-para-el-estado-de-baja-california-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2015-06-12"
+last_updated: "2016-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 15 de octubre de 2001.
 
@@ -92,6 +92,10 @@ III.- Para levantar las actas de las reuniones de Cabildo, llevar su adecuado re
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
 
 IV. Cada Ayuntamiento establecerá las comisiones de Regidores para analizar y dictaminar los asuntos que sean sometidos a la consideración del Ayuntamiento en las (sic) materia de legislación, hacienda y administración, seguridad pública, desarrollo urbano, servicios públicos, equidad de género y las demás que conforme a las características económicas, políticas y sociales, resulten necesarias y se acuerde establecer.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+Asimismo, el Ayuntamiento podrá celebrar sesiones de Cabildo abierto con el propósito de recibir directamente de los ciudadanos opiniones, propuestas, peticiones o proyectos relacionados con temas de interés general, en términos de las disposiciones reglamentarias correspondientes.
 
 ###### ARTÍCULO 6.
 
@@ -668,3 +672,15 @@ P.O. 12 DE JUNIO DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los Ayuntamientos tendrán 90 días para realizar las modificaciones a los Reglamentos correspondientes.
+
+P.O. 5 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 524 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE MODIFICA LAS FRACCIONES IV, VI Y SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 104, ASÍ COMO SE ADICIONA UN ARTÍCULO 109 BIS A LA LEY ORGÁNICA DEL PODER LEGISLATIVO PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Municipios del Estado a través de sus Ayuntamientos emitirán las disposiciones reglamentarias correspondientes en un término no mayor al de 180 días, contados a partir de la fecha en que entre en vigor la presente reforma.
