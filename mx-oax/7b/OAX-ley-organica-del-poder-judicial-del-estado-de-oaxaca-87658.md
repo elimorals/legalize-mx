@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-judicial-del-estado-de-oaxaca-87658"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-04-28"
-last_updated: "2015-12-31"
+last_updated: "2016-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 7 DE MAYO DE 2015, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EN LA FORMA Y TÉRMINOS SEÑALADOS EN EL DECRETO MEDIANTE EL CUAL SE DETERMINA EL INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN CADA UNA DE LAS REGIONES DEL ESTADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 28 de abril de 2012.
 
@@ -105,9 +105,11 @@ DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO.
 
 De su integración y funcionamiento.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 5.
 
-El Tribunal Superior de Justicia se integrará con veintiún Magistrados y su Presidente.
+El Tribunal Superior de Justicia se integrará por un Magistrado Presidente y los Magistrados que de acuerdo al presupuesto y a las necesidades de la función jurisdiccional lo exija.
 
 ###### Artículo 6.
 
@@ -623,7 +625,7 @@ Los jueces residirán en el domicilio donde se ubique el juzgado al que estén a
 
 ###### Artículo 43.
 
-Cuando el juez tenga impedimento legal para conocer en determinados asuntos, será sustituido por el juez de igual categoría más próximo geográficamente o por el que resulte más próximo atendiendo a la mejor comunicación, o por el que indique la sala que conozca del impedimento.
+Cuando el juez tenga impedimento legal para conocer en determinados asuntos, será sustituido por el juez de igual categoría más próximo geográficamente a por el que resulte más próximo atendiendo a la mejor comunicación, o por el que indique la sala que conozca del impedimento.
 
 ###### Artículo 44.
 
@@ -1503,13 +1505,17 @@ La escuela judicial llevará a cabo cursos de preparación para los exámenes co
 
 La estructura orgánica de la escuela judicial, así como las categorías que componen la carrera judicial, se establecerán en el reglamento respectivo y acuerdos generales.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE AGOSTO DE 2016)</small>
+
 ### Capítulo VI.
 
-De la Dirección de Justicia Alternativa.
+Del Centro de Justicia Alternativa.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 99.
 
-La Dirección de Justicia Alternativa es un órgano auxiliar en la administración de justicia, dependiente del Consejo de la Judicatura del Poder Judicial, estará a cargo de un director, quien será designado y removido por el Consejo de la Judicatura, a propuesta de la comisión de administración del propio Consejo y su objetivo es ofrecer servicios de medios alternos de solución de conflictos para la pronta, pacífica y eficaz solución de controversias entre particulares en asuntos de naturaleza civil, familiar, mercantil, vecinal y penal; tratándose de materia administrativa entre particulares y autoridades.
+El Centro de Justicia Alternativa es un órgano auxiliar en la administración de justicia, dependiente del Consejo de la Judicatura del Poder Judicial, estará a cargo de un director, quien será designado y removido por el Consejo de la Judicatura, a propuesta de la Comisión de Administración del propio Consejo y su objetivo es ofrecer servicios de medios alternos de solución de conflictos para la pronta, pacífica y eficaz solución de controversias entre particulares en asuntos de naturaleza civil, familiar, mercantil, vecinal y penal; tratándose de materia administrativa entre particulares y autoridades.
 
 ###### Artículo 100.
 
@@ -1523,39 +1529,59 @@ III. Contar con título y cédula profesional preferentemente de licenciado en d
 
 IV. No haber sido condenado por la comisión de algún delito, excepto culposo por tránsito de vehículo, salvo que se haya cometido bajo los influjos del alcohol, de alguna droga o enervante.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 101.
 
-La Dirección de Justicia Alternativa tendrá las siguientes atribuciones:
+El Centro de Justicia Alternativa tendrá las siguientes atribuciones:
 
-I. Representar jurídicamente a la dirección de justicia alternativa en el ejercicio de sus actividades;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+l. Representar jurídicamente del Centro de Justicia Alternativa en el ejercicio de sus actividades;
 
 II. Coordinar a los jefes de departamento, mediadores, conciliadores y demás personal administrativo que labore en ese órgano;
 
-III. Planear, dirigir y controlar el funcionamiento de la dirección, con sujeción a los lineamientos que rigen la misma;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+III. Planear, dirigir y controlar el funcionamiento del centro, con sujeción a los lineamientos que rigen la misma;
 
 IV. Promover la celebración de convenios con organismos públicos y descentralizados con características y funciones propias, para coordinar y concentrar acciones que le permitan cumplir con sus objetivos;
 
-V. Presentar al Consejo de la Judicatura, los informes anuales sobre las actividades de la dirección de justicia alterativa;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
 
-VI. Establecer los mecanismos de difusión que permitan a la sociedad conocer sobre los procedimientos y servicios proporcionados en la dirección;
+V. Presentar al Consejo de la Judicatura, los informes anuales sobre las actividades de la (sic) Centro de Justicia Alternativa;
+
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+VI. Establecer los mecanismos de difusión que permitan a la sociedad conocer sobre los procedimientos y servicios proporcionados por el centro;
 
 VII. Llevar un registro estatal de mediadores y conciliadores;
 
-VIII. Llevar al corriente el registro de los asuntos ventilados en la dirección;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+VIII. Llevar al corriente el registro de los asuntos ventilados por el Centro;
 
 IX. Practicar evaluaciones a los mediadores y conciliadores para detectar las áreas en las que deben capacitarse y así brindar un mejor servicio;
 
 X. Llevar a cabo el trámite de los convenios de mediación, conciliación y justicia restaurativa ante las autoridades competentes;
 
-XI. Vigilar que la dirección a su cargo preste la atención al público en general en los horarios establecidos por el Consejo de la Judicatura;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
 
-XII. Vigilar el cumplimiento de la ley de la materia, y demás normativa aplicable, de los manuales, circulares y acuerdos emitidos para el correcto funcionamiento de la dirección de justicia alternativa;
+XI. Vigilar que el Centro a su cargo preste la atención al público en general en los horarios establecidos por el Consejo de la Judicatura;
+
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+XII. Vigilar el cumplimiento de la ley de la materia, y demás normativa aplicable, de los manuales, circulares y acuerdos emitidos para el correcto funcionamiento del Centro de Justicia Alternativa;
 
 XIII. Proporcionar oportunamente al pleno y al presidente del Consejo de la Judicatura; al pleno y presidente del Tribunal Superior de Justicia; a los órganos auxiliares del Poder Judicial y a instituciones de carácter público que soliciten datos estadísticos, previo el trámite correspondiente;
 
-XIV. Proponer al Consejo de la Judicatura para su ejecución, el proceso de selección de mediadores, conciliadores y demás personal que se requiera para el funcionamiento de la dirección de justicia alternativa y de sus delegaciones regionales que de él dependan;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
 
-XV. Coordinar con instituciones de gobierno y no gubernamentales cursos de capacitación en las disciplinas necesarias para mantener actualizado al personal de la dirección;
+XIV. Proponer al Consejo de la Judicatura para su ejecución, el proceso de selección de mediadores, conciliadores y demás personal que se requiera para el funcionamiento del Centro de Justicia Alternativa y de sus delegaciones regionales que de él dependan;
+
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+XV. Coordinar con instituciones de gobierno y no gubernamentales cursos de capacitación en las disciplinas necesarias para mantener actualizado al personal del Centro;
 
 XVI. Pronunciarse respecto de la acreditación de los centros de justicia alternativa, de los mediadores y conciliadores que ejerzan esta función tanto en el ámbito público como privado; y
 
@@ -1565,9 +1591,11 @@ XVII. Las demás que señale esta ley, las leyes y reglamentos respectivos y acu
 
 La estructura orgánica del centro de justicia alternativa será la que establezca la Ley de Justicia Alternativa, el reglamento respectivo y acuerdos generales; contará con el personal necesario para su adecuado funcionamiento y permita el presupuesto de egresos.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE AGOSTO DE 2016)</small>
+
 ### Capítulo VII.
 
-Del Archivo, Bibliotecas y Boletín Judicial.
+De la Dirección de Archivo, Bibliotecas y Boletín Judicial.
 
 ###### Artículo 103.
 
@@ -1719,7 +1747,7 @@ A partir de su nombramiento los peritos oficiales están impedidos para ejercer 
 
 Los peritos oficiales serán nombrados por el Consejo de la Judicatura y duraran en su cargo dos años, pudiendo ser ratificados previa evaluación. Las bases para su nombramiento, ejercicio y ratificación se establecerán en el reglamento respectivo y acuerdos generales.
 
-Los peritos del Poder Judicial se constituyen en auxiliares del juzgador en la tarea de administrar justicia y, por lo tanto, deberán cumplir eficazmente y sin demora los mandamientos de la autoridad judicial y prestar el apoyo solicitado.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 5 DE AGOSTO DE 2016)</small>
 
 Los peritos intervendrán únicamente en los casos que lo soliciten los magistrados o los jueces conforme a las leyes aplicables a los diversos procesos.
 
@@ -2797,7 +2825,7 @@ TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 P.O. 31 DE DICIEMBRE DE 2015.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1367.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE JUSTICIA DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE OAXACA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1367.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE JUSTICIA DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -2818,3 +2846,13 @@ OCTAVO. La Sala Especializada de Justicia Indígena se integrara conforme al Dé
 NOVENO.- El tribunal presupuestará las partidas necesarias para la dirección de igualdad de género y la sala de justicia indígena.
 
 DÉCIMO. Se abrogan todas las disposiciones que se opongan a lo que establece el presente decreto.
+
+P.O. 5 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2004.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se Derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal que se opongan al presente Decreto.
+
+TERCERO.- Los Magistrados que con motivo del cumplimiento a lo dispuesto en los artículos TRANSITORIO DÉCIMO SEXTO del Decreto 1263, de fecha treinta de junio del año dos mil quince y TRANSITORIO OCTAVO del Decreto 1367, de fecha tres de diciembre del año dos mil quince, quienes al ser integrantes del Pleno del Tribunal Superior de Justicia del Estado, gozan de los derechos a que se refiere el artículo 102, de la Constitución Política del Estado Libre y Soberano de Oaxaca.
