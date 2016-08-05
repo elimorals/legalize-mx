@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-general-de-inscripcion-reinscripcion-y-40049"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-17"
-last_updated: "2008-09-18"
+last_updated: "2016-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO GENERAL DE INSCRIPCION, REINSCRIPCION Y EVALUACION DEL APRENDIZAJE DEL COLEGIO DE BACHILLERES DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE SEPTIEMBRE DE 2008.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE ALUMNOS DEL COLEGIO DE BACHILLERES DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 5 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE AGOSTO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el jueves 17 de junio de 2004.
 
@@ -552,3 +554,19 @@ SEGUNDO.- Este acuerdo entrará en vigor el día de su publicación en el Perió
 TERCERO.- La desaparición del examen especial entrará en vigor a partir del ciclo escolar 2008 B (agosto 2008-febrero 2009).
 
 CUARTO.- Los alumnos que a la fecha de publicación de este acuerdo, cursan el semestre 2008 A (febrero 2008-julio 2008), podrán presentar sólo por única ocasión, el examen especial si a sus intereses conviene.
+
+G.G. 5 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE ALUMNOS DEL COLEGIO DE BACHILLERES DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abrogan los Reglamentos de Inscripción, Reinscripción y Evaluación del Aprendizaje y el de Ingreso, Permanencia y Promoción de Alumnos del Colegio de Bachilleres del Estado de México, publicados en el Periódico Oficial "Gaceta de Gobierno" el 17 y 18 de junio de 2004, respectivamente.
+
+CUARTO. Para el caso de aplicarse un nuevo plan de estudios, el tránsito de los estudiantes de un plan de estudios a otro, se realizará mediante el procedimiento de convalidación establecido.
+
+QUINTO. El presente ordenamiento legal deberá difundirse entre directivos, administrativos, docentes, padres de familia y población estudiantil del Colegio de Bachilleres del Estado de México, para su conocimiento y cumplimiento.
+
+SEXTO. Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a lo dispuesto en el presente ordenamiento.
