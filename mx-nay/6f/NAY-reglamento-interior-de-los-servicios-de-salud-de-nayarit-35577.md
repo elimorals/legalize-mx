@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-los-servicios-de-salud-de-nayarit-35577"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-13"
-last_updated: "2013-01-19"
+last_updated: "2016-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE NAYARIT.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016.
 
 Reglamento publicado en la sección novena del Periódico Oficial del Estado, el sábado 13 de diciembre de 2003.
 
@@ -195,9 +195,11 @@ I.10. Coordinación Estatal de Trasplantes
 
 ### CAPITULO VI. DEL DIRECTOR GENERAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 20.
 
-El Director General es el titular del organismo y ejercerá además de las atribuciones que le señala el decreto, las siguientes:
+El Director General es titular del Organismo y ejercerá además de las atribuciones que señala el Decreto, las siguientes:
 
 I. Ejercer las mas amplias facultades de dominio, administración, pleitos y cobranzas, aún aquellos que requieran de autorización especial;
 
@@ -205,7 +207,9 @@ II. Emitir, avalar y negociar títulos de crédito;
 
 III. Comprometer asuntos en arbitraje y celebrar transacciones;
 
-IV. Conferir poderes o mandatos en servidores públicos subalternos, para pleitos y cobranzas y aquellos que requieran cláusula especial;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+IV. Otorgar, sustituir y revocar poderes o mandatos para pleitos y cobranzas, para actos de administración, para suscribir títulos de crédito y aquellos que requieran cláusula especial, a los servidores públicos subalternos de la unidad administrativa correspondiente;
 
 V. Suscribir los contratos, convenios, acuerdos y documentos relativos al ejercicio de sus funciones y aquellos que le hayan sido autorizados por la junta de gobierno;
 
@@ -289,7 +293,7 @@ XVI. Proponer al Director General la creación, modificación, reorganización, 
 
 XVII. Aplicar los criterios que difunda la unidad de Asuntos Jurídicos, así como consultarla cuando los asuntos impliquen cuestiones jurídicas y proporcionarle la información que le solicite;
 
-XVIII. Rendir informes al Director General del avance de los programas así como de las demás que le solicite, en el ámbito de su competencia, y; (sic)
+XVIII. Rendir informes al Director General del avance de los programas así como de las demás que le solicite, en el ámbito de su competencia, y;
 
 > <small>(REFORMADA, P.O. 19 DE ENERO DE 2013)</small>
 
@@ -467,7 +471,7 @@ XXII. Las demás que de manera expresa le confieran otros ordenamientos y el sup
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2008)</small>
 
-ARTICULO 23 BIS·A.- La Dirección de Enfermería tendrá las siguientes atribuciones:
+ARTICULO 23 BIS A.- La Dirección de Enfermería tendrá las siguientes atribuciones:
 
 I. Planificar, organizar, dirigir, coordinar y evaluar el proceso y procedimientos de enfermería en el primer y segundo nivel;
 
@@ -525,9 +529,7 @@ X. Coordinar la elaboración de programas en materia de adicciones, salud mental
 
 XI. Coadyuvar al establecimiento de medidas para la adecuada operación del Consejo Estatal contra las Adicciones y supervisar los mecanismos necesarios para el seguimiento y cumplimiento de los acuerdos establecidos en las sesiones del mismo, así como otorgar una amplia difusión de sus reuniones;
 
-XII. Proponer las medidas de coordinación y cooperación con los comités
-
-municipales contra las adicciones, para la eficaz ejecución de los programas en materia de adicciones y salud mental;
+XII. Proponer las medidas de coordinación y cooperación con los comités municipales contra las adicciones, para la eficaz ejecución de los programas en materia de adicciones y salud mental;
 
 XIII. Promover y apoyar la creación de instituciones por los sectores público, social y privado, que atiendan problemas relacionados con las adicciones y la salud mental;
 
@@ -629,7 +631,7 @@ XVI. Asesorar a las diferentes unidades administrativas del organismo, en todos 
 
 XVII. Dirigir el registro y actualización de la plantilla del personal del organismo;
 
-XVIII. Coordinar y vigilar los pagos de los programas de fortalecimiento de unidades, cuotas de recuperación y programas prioritarios, y; (sic)
+XVIII. Coordinar y vigilar los pagos de los programas de fortalecimiento de unidades, cuotas de recuperación y programas prioritarios, y;
 
 > <small>(REFORMADA, P.O. 19 DE ENERO DE 2013)</small>
 
@@ -715,7 +717,7 @@ XI. Dictaminar en definitiva las actas administrativas que se levanten a los tra
 
 XII. Asesorar a las unidades administrativas del organismo para que cumplan adecuadamente las resoluciones jurisdiccionales pronunciadas o las recomendaciones emitidas por la Comisión Estatal de Derechos Humanos, con la participación de otras unidades administrativas competentes;
 
-XIII. Intaurar (sic) los recursos de revisión que se interpongan en contra de actos o resoluciones de las unidades administrativas de este organismo y someterlos a la consideración del Director General, así como proponer a éste los proyectos de resolución a dichos recursos, y; (sic)
+XIII. Intaurar (sic) los recursos de revisión que se interpongan en contra de actos o resoluciones de las unidades administrativas de este organismo y someterlos a la consideración del Director General, así como proponer a éste los proyectos de resolución a dichos recursos, y;
 
 XIV. Las demás que le confiera el Director General, en el ámbito de su competencia.
 
@@ -924,3 +926,7 @@ PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su publicaci
 P.O. 19 DE ENERO DE 2013.
 
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
+
+P.O. 5 DE AGOSTO DE 2016.
+
+> <small>[N. DE E. EL "ACUERDO, QUE MODIFICA EL ARTÍCULO 20 FRACCIÓN IV DEL REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE NAYARIT"; NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.]</small>
