@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-de-oaxaca-11789"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-04"
-last_updated: "2014-10-11"
+last_updated: "2016-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -678,6 +678,22 @@ XXXVII. La Comisión de Vivienda y Desarrollo Urbano tendrá a su cargo el anál
 > <small>(ADICIONADO, P.O. 29 DE ENERO DE 2011)</small>
 
 ARTICULO 37 BIS.- Cada Comisión contará con los elementos y recursos necesarios para el eficiente desempeño de sus funciones.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+ARTICULO 37 TER.- Al finalizar el periodo del ejercicio legal de una Legislatura, los asuntos pendientes de dictamen de la misma, se darán por precluidos, pudiendo ser presentados como nuevos en la Legislatura en función.
+
+Para que se consideren como asuntos precluidos, es necesario que el Presidente de la Comisión que corresponda, haga la declaratoria respectiva y ordene el archivo de los asuntos como concluidos, informando al Presidente de la Junta de Coordinación Política.
+
+No procede la preclusión en iniciativas, Decretos o Acuerdo (sic) presentados por:
+
+I. El Gobernador del Estado, el Tribunal Superior de Justicia, los órganos autónomos del Estado, los Ayuntamientos, los ciudadanos del Estado, los pueblos y comunidades indígenas y afromexicanas.
+
+II. Cuando un dictamen haya sido aprobado por la comisión o comisiones correspondientes, sin que hubiera sido sometido al Pleno de la Legislatura o Diputación Permanente.
+
+III. Cuando por mandato constitucional o legal deba expedirse la ley o decreto en un plazo determinado;
+
+IV. Por acuerdo de la Junta de Coordinación Política.
 
 ### CAPITULO V. DE LA OFICIALIA MAYOR
 
@@ -1690,3 +1706,11 @@ P.O. 13 DE SEPTIEMBRE DE 2014.
 P.O. 11 DE OCTUBRE DE 2014.
 
 ÚNICO.- El presente Decreto entra en vigor el día siguiente de su aprobación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 5 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1989.- MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 37 TER AL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA".]
+
+PRIMERO: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. En un término de treinta días siguientes a la publicación de la presente adición, los presidentes de las comisiones permanentes de la Sexagésima Segunda Legislatura que cuenten con asuntos no dictaminados de legislaturas anteriores, deberán realizar la declaración de preclusión de los expedientes respectivos.
