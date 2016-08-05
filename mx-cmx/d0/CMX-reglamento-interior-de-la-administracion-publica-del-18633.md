@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2016-08-04"
+last_updated: "2016-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2000-12-28"
 ---
 # REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN LA G.O. DEL 5 DE AGOSTO DE 2016, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 4 DE AGOSTO DE 2016.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.O. DEL 5 DE AGOSTO DE 2016 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN LA G.O. DE 4 DE AGOSTO DE 2016.]</small>
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -4620,10 +4620,6 @@ VII. Diseñar, promover y ejecutar programas y acciones en materia de diversidad
 
 (DEROGADO, G.O. 23 DE DICIEMBRE DE 2015)
 
-###### Artículo 64 Ter.
-
-(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DEL DEPORTE DEL DISTRITO FEDERAL, G.O. 11 DE SEPTIEMBRE DE 2008)
-
 > <small>(ADICIONADO, G.O. 19 DE ENERO DE 2007)</small>
 
 Artículo 64 Cuater.- Corresponde a la Dirección General del Instituto de Asistencia e Integración Social del Distrito Federal:
@@ -4643,6 +4639,10 @@ VI. Promover la creación de diversos mecanismos de financiamiento público y pr
 VII. Fomentar y apoyar a las asociaciones, sociedades civiles y demás entidades privadas, cuyo objeto sea la prestación de servicios de asistencia social, y en su caso, evaluar sus programas sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias; y
 
 VIII. Prestar asistencia jurídica y orientación social a los sujetos de la asistencia social.
+
+###### Artículo 64 Ter.
+
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DEL DEPORTE DEL DISTRITO FEDERAL, G.O. 11 DE SEPTIEMBRE DE 2008)
 
 #### SECCION VIII
 
@@ -19155,3 +19155,11 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- En tanto se emitan las normas que sustituyan a las NORMAS PARA LA AUTORIZACIÓN DE VIÁTICOS Y PASAJES NACIONALES E INTERNACIONALES, EN COMISIONES OFICIALES PARA LOS SERVIDORES PÚBLICOS DE LAS DEPENDENCIAS, ÓRGANOS DESCONCENTRADOS Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL, los ajustes inmediatos al procedimiento para autorizar los servicios de traslado, viáticos y demás erogaciones relacionadas con las comisiones oficiales nacionales e internacionales se darán a conocer mediante circular emitida por la Coordinación General de Control y Profesionalización de las Unidades Encargadas de la Administración.
 
 CUARTO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Decreto.
+
+G.O. 5 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "FE DE ERRATAS AL DECRETO POR EL QUE SE REFORMAN Y ADICIONA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, NÚMERO 130, DEL 4 DE AGOSTO DE 2016".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- La presente Fe de erratas entrará en vigor el día de su publicación.
