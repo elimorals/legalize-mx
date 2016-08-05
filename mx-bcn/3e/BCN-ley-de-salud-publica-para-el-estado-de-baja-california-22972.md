@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2016-07-15"
+last_updated: "2016-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -169,9 +169,9 @@ XXI.- El programa contra la drogadicción;
 
 XXII.- El programa contra el tabaquismo;
 
-> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
 
-XXIII.- La promoción, prevención y el control de las enfermedades cardiovasculares, la obesidad y la diabetes;
+XXIII.- La prevención, orientación, control y vigilancia en materia de nutrición, sobrepeso, obesidad, diabetes y otros trastornos de la conducta alimentaria, así como las enfermedades cardiovasculares.
 
 > <small>(ADICIONADA, P.O. 1 DE JULIO DE 2011)</small>
 
@@ -303,6 +303,22 @@ VII.- Coadyuvar a la modificación de los patrones culturales que determinen há
 
 VIII.- Promover el fomento sanitario que coadyuve al desarrollo de productos y servicios que no sean nocivos para la salud.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE AGOSTO DE 2016)</small>
+
+IX.- Promover un sistema de fomento sanitario que coadyuve al desarrollo de productos y servicios que no sean nocivos para la salud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE AGOSTO DE 2016)</small>
+
+X.- Promover el desarrollo de los servicios de salud con base en la integración de las tecnologías de la información y las Comunicaciones para ampliar la cobertura y mejorar la calidad de atención a la salud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE AGOSTO DE 2016)</small>
+
+XI.- Proporcionar orientación a la población respecto de la importancia de la alimentación nutritiva, suficiente y de calidad y su relación con los beneficios a la salud; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE AGOSTO DE 2016)</small>
+
+XII.- Diseñar y ejecutar políticas públicas que propicien la alimentación nutritiva, suficiente y de calidad, que contrarreste eficientemente la desnutrición, el sobrepeso, la obesidad y otros trastornos de la conducta alimentaria.
+
 ###### ARTÍCULO 8.
 
 La Secretaría de Salud del Estado promoverá la participación, en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los sectores público, social y privado, así como de sus trabajadores y de los usuarios de los mismos, en los términos de las disposiciones que al efecto se expidan.
@@ -395,11 +411,11 @@ XIII.- Ejecutar permanentemente una campaña estatal de donación altruista de s
 
 XIV.- Realizar las acciones que sean necesarias a fin de contar con ambulancias equipadas para trasladar a aquellas personas que requieran atención médica de urgencia y se encuentren en zonas marginadas. Estas ambulancias deberán de ubicarse en puntos estratégicos para una mejor cobertura y reducción de los tiempos de traslado; y
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
 
-XV.- Diseñar y ejecutar políticas públicas que garanticen el acceso a una alimentación balanceada, para combatir el sobrepeso, obesidad, desnutrición, y trastornos de conducta alimentaria y cuyos avances y resultados sean objeto de evaluación.
+XV.- Promover e impulsar programas y campañas de información sobre los buenos hábitos alimenticios, una buena nutrición y la activación física;
 
-> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 5 DE AGOSTO DE 2016)</small>
 
 XVI.- Las demás atribuciones que se deriven de la Ley General de Salud, de la Ley Orgánica de la Administración Pública del Estado, de esta Ley y demás ordenamientos aplicables.
 
@@ -497,7 +513,9 @@ IV.- La salud mental;
 
 V.- La educación para la salud y la promoción del saneamiento básico;
 
-VI.- La promoción del mejoramiento de la nutrición;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+VI.- La promoción de un estilo de vida saludable,
 
 VII.- La asistencia social a los grupos más vulnerables;
 
@@ -543,6 +561,8 @@ IV. Paliativas, que incluyen el cuidado integral para preservar la calidad de vi
 
 #### SECCION III. DE LA ATENCION MATERNO-INFANTIL
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2016)
+
 ###### ARTÍCULO 22.
 
 La atención materno infantil tiene carácter prioritario y comprende las siguientes acciones:
@@ -561,13 +581,17 @@ III.- La detección temprana de la sordera y su tratamiento, en todos sus grados
 
 IV.- Acciones para diagnosticar y ayudar a resolver el problema de salud visual y auditiva de los niños en las escuelas públicas y privadas;
 
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
 
-V.- Los menores de hasta seis meses de edad, entregados en las Instituciones Públicas de Salud del Estado y Albergues del Sistema Estatal para el Desarrollo Integral de la Familia, se les proporcionará atención pre-hospitalaria o de urgencia según sea el caso, y
+V.- Los menores de hasta seis meses de edad, entregados en las Instituciones Públicas de Salud del Estado y Albergues del Sistema Estatal para el Desarrollo Integral de la Familia, se les proporcionará atención pre-hospitalaria o de urgencia según sea el caso;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
 
-VI.- La realización del tamiz neonatal ampliado.
+VI.- La realización del tamiz neonatal ampliado; y
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+VII.- La atención de los menores de 6 años, para que reciban la adecuada estimulación temprana de acuerdo con las normas técnicas que para tal efecto expida la Autoridad Federal competente.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE JULIO DE 2015)</small>
 
@@ -744,6 +768,16 @@ El internamiento involuntario, se presenta en el caso de usuarios con trastornos
 ###### ARTÍCULO 33.
 
 Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las Autoridades Educativas estatales y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales; para tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 33 BIS.- Para efectos del Artículo anterior, la Secretaría de Educación y Bienestar Social, fomentará la coordinación con la Secretaría de Salud Pública del Estado, para la implementación de acciones en los centros escolares de educación básica y media superior en el Sistema Estatal, que tengan como objeto:
+
+a).- Facilitar el acceso a los servicios médicos de salud mental y bienestar social de los educandos que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales.
+
+b).- Capacitar al personal especializado en psicología para la rápida y oportuna atención de los educandos en materia de la identificación de posible trastorno mental que presenten los educandos, para en su caso sean canalizados para la instancia que corresponda, su atención, y
+
+c).- Divulgar material informativo básico en materia de salud a los padres de familia o tutores con la finalidad de identificar algún tipo de trastorno en los alumnos y aplicar las medidas preventivas al respecto.
 
 ###### ARTÍCULO 34.
 
@@ -1209,6 +1243,10 @@ Las Autoridades Educativas Estatales, en coordinación con las Autoridades Sanit
 
 Las Autoridades Sanitarias del Estado, sin perjuicio de la competencia que sobre la materia corresponda a las Autoridades Educativas; en coordinación con ellas y con la participación de las instituciones de salud, establecerán normas y criterios para la capacitación y actualización de los recursos humanos para la salud.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE AGOSTO DE 2016)</small>
+
+En los casos de enfermedades declaradas como Emergencia Epidemiológica, las Autoridades Sanitarias, en conjunto con las Autoridades Educativas establecerán capacitaciones y actualizaciones permanentes de los recursos humanos para la salud, hasta que la misma enfermedad ya no sea catalogada como emergencia.
+
 ###### ARTÍCULO 63.
 
 Corresponde a las Autoridades Sanitarias del Estado, sin perjuicio de las atribuciones de las Autoridades Educativas en la materia, de los Colegios de Profesionales de la salud o asociaciones correspondientes en su caso:
@@ -1255,7 +1293,9 @@ La promoción de la salud comprende:
 
 I.- Educación para la salud, y prevención contra las adicciones;
 
-II.- Nutrición;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+II.- Nutrición, orientación alimentaria y activación física;
 
 III.- Control de los efectos nocivos del ambiente en la salud, en donde las Autoridades Sanitarias participarán coordinadamente con las Autoridades competentes en la materia;
 
@@ -1271,9 +1311,9 @@ I.- Fomentar en la población el desarrollo de actitudes y conductas que le perm
 
 II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud; y
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
 
-III.- Orientar y capacitar a la población y al sector educativo preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de auto medicación, prevención de la farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, cuidados paliativos, prevención y rehabilitación de la discapacidad, detección oportuna de enfermedades, así como en la prestación de los primeros auxilios.
+III.- Orientar y capacitar a la población y al sector educativo preferentemente en materia de nutrición, alimentación nutritiva, suficiente y de calidad, activación física para la salud, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de auto medicación, prevención de la farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, cuidados paliativos, prevención y rehabilitación de la discapacidad, detección oportuna de enfermedades, así como en la prestación de los primeros auxilios.
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
@@ -2695,15 +2735,23 @@ II.- Se tomarán en cuenta las necesidades sociales, municipales, estatales, y e
 
 III.- Se considerará la trascendencia del asunto de que se trate, los riesgos que entrañe para la salud y la conveniencia de suprimir prácticas que en cualquier forma pongan en grave e inminente peligro la salud de las personas.
 
-La resolución que se adopte se hará saber por escrito al interesado dentro del plazo de cuatro meses.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+La resolución que se adopte se hará saber por escrito al interesado dentro del plazo de cuatro meses. En los casos de haber sido declarada Emergencia Epidemiológica, el plazo no podrá ser mayor a un mes.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 189.
 
 Las Autoridades Sanitarias del Estado con base en los resultados de la visita sanitaria, dictarán las medidas para corregir las irregularidades que se hubieren encontrado, notificándolas al interesado y dándole un plazo adecuado para su realización.
 
+En los casos de haber sido declarada emergencia epidemiológica, el plazo no podrá ser mayor a quince días.
+
 ###### ARTÍCULO 190.
 
 Las Autoridades Sanitarias del Estado, harán uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 5 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 191.
 
@@ -3200,3 +3248,27 @@ P.O. 15 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 495 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN III DEL ARTÍCULO 7 Y LA ADICIÓN AL ARTÍCULO 36 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 5 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 525 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 4, 7, 11, 68 Y 69 TODOS DE LA LEY DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO: Las presentes reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 5 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 526 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN ARTÍCULO 33 BIS A LA LEY DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 5 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 527 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 62, 188, 189 Y 191 TODOS DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 5 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 528 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LAS FRACCIONES V Y VI Y LA ADICIÓN DE LA FRACCIÓN VII AL ARTÍCULO 22, DE LA LEY DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
