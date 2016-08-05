@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-oficina-ejecutiva-del-gobernador-7374
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-26"
-last_updated: "2015-12-30"
+last_updated: "2016-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73745&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA OFICINA EJECUTIVA DEL GOBERNADOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2015.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA OFICINA DEL GOBERNADOR, PUBLICADO EN EL P.O. DE 5 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Nuevo León, el viernes 26 de febrero de 2010.
 
@@ -169,7 +171,7 @@ En todo lo no expresamente estipulado en este Reglamento Interior se estará a l
 
 ### CAPÍTULO III. DE LAS FUNCIONES GENERALES DE LAS UNIDADES DE APOYO Y DIRECCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 16.
 
@@ -457,11 +459,9 @@ XI. Realizar todos los asuntos y tramites de carácter administrativo a través 
 
 XII. Las demás que le confieran el Titular del Ejecutivo del Estado, el Jefe de la Oficina y otras disposiciones jurídicas aplicables.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPÍTULO IV. DEL ÓRGANO DESCONCENTRADO DENOMINADO UNIDAD DE MEJORA
-
-REGULATORIA
+### CAPÍTULO IV. DEL ÓRGANO DESCONCENTRADO DENOMINADO UNIDAD DE MEJORA REGULATORIA
 
 > <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
 
@@ -479,7 +479,7 @@ Al frente de la Unidad de Mejora Regulatoria Estatal estará un Jefe de la Unida
 
 ### CAPÍTULO I. DE LA SUPLENCIA DE FUNCIONARIOS
 
-(REUBICADO [N. DE E. ANTES ARTICULO 26], P.O. 24 DE SEPTIEMBRE DE 2010)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 26], P.O. 24 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 28.
 
@@ -489,7 +489,7 @@ Las ausencias temporales del Jefe de la Oficina serán suplidas por el servidor 
 
 En el caso de que el cargo de Jefe de la Oficina quede vacante por cualquier motivo, el Gobernador podrá designar a un encargado del despacho hasta en tanto se otorgue el nombramiento correspondiente al nuevo titular de la dependencia.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 27], P.O. 24 DE SEPTIEMBRE DE 2010)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 27], P.O. 24 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 29.
 
@@ -519,7 +519,7 @@ EL C. JEFE DE LA OFICINA EJECUTIVA DEL GOBERNADOR
 
 CARLOS ALMADA LÓPEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 24 DE SEPTIEMBRE DE 2010.
 
@@ -536,3 +536,23 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se instruye a la Secretaría de Finanzas y Tesorería General del Estado a que realice los trámites administrativos necesarios para llevar a cabo la transferencia de recursos humanos, materiales y financieros que procedan conforme a este Decreto, a la Dirección Administrativa de la Secretaría Particular del Gobernador.
+
+P.O. 5 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA OFICINA DEL GOBERNADOR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Oficina Ejecutiva del Gobernador publicado en el Periódico Oficial del Estado Número 27 de fecha 26 de febrero de 2010.
+
+###### ARTÍCULO TERCERO.
+
+Se instruye al Secretario de Finanzas y Tesorero General del Estado para que realice los ajustes o transferencias presupuestales que sean necesarias, de acuerdo a lo dispuesto en el presente Reglamento, sujeto a la programación y suficiencia presupuestaria que, de acuerdo a la Ley de Egresos del ejercicio correspondiente.
+
+###### ARTÍCULO CUARTO.
+
+Se instruye a la Contraloría y Transparencia Gubernamental para que, en su caso, lleve a cabo los procesos de entrega-recepción correspondientes.
