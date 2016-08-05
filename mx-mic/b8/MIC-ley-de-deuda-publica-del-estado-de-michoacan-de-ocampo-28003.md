@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-deuda-publica-del-estado-de-michoacan-de-ocampo-28003"
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-17"
-last_updated: "2015-09-30"
+last_updated: "2016-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2015.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 5 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el viernes 17 de enero del 2003.
 
@@ -622,3 +624,47 @@ Lo previsto en el segundo párrafo del artículo 17 del presente Decreto, entrar
 ###### ARTÍCULO QUINTO.
 
 Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado. Para su conocimiento y efectos legales conducentes.
+
+P.O. 5 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 166 POR EL QUE “SE EXPIDE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, salvo lo previsto en los artículos del Sexto al Décimo Tercero transitorios.
+
+SEGUNDO. Se abroga la Ley de Deuda Pública del Estado de Michoacán de Ocampo.
+
+TERCERO. Las menciones que en las leyes, reglamentos, decretos y cualquier disposición administrativa, así como en contratos, convenios y cualquier instrumento jurídico se hagan a la Ley de Deuda Pública del Estado de Michoacán de Ocampo, se entenderán referidas a la Ley de Deuda pública para el Estado de Michoacán de Ocampo y sus Municipios.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+QUINTO. El Registro Público Único a que se refieren el Capítulo VI del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y el Capítulo V de la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios, sustituirá al Registro Único de Obligaciones y Empréstitos.
+
+Los trámites iniciados ante el Registro Único de Obligaciones y Empréstitos, con anterioridad a la entrada en vigor de este decreto, se llevarán a cabo de conformidad con las disposiciones vigentes en la fecha de inicio del trámite.
+
+Las referencias al Registro Único de Obligaciones y Empréstitos en las leyes y disposiciones administrativas, así como en cualquier otro acto jurídico, se entenderán hechas al Registro Público Único.
+
+Las Obligaciones establecidas en la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios, respecto del Registro Público Único, serán aplicables hasta la entrada en operación del mismo. En tanto, seguirán vigentes las disposiciones del Registro Único de Obligaciones y Empréstitos.
+
+SEXTO. El artículo segundo del presente Decreto entrará en vigor para efectos del ejercicio fiscal 2017, con las salvedades previstas en los transitorios Séptimo al Décimo Tercero.
+
+SÉPTIMO. El porcentaje a que hace referencia el artículo 19 Bis de la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo, relativo al nivel de aportación al fideicomiso para realizar acciones preventivas o atender daños ocasionados por desastres naturales, corresponderá a un 2.5 por ciento para el año 2017, 5 por ciento para el año 2018, 7.5 por ciento para el año 2019 y, a partir del año 2020, se observará el porcentaje establecido en el artículo citado.
+
+OCTAVO. El párrafo sexto con su fracción I del artículo 18 de la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo, iniciará vigencia para efectos del Presupuesto de Egresos correspondiente al ejercicio fiscal del año 2018.
+
+Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico, paramédico y afín, estarán exentos del cumplimiento de lo dispuesto en los artículos 18 párrafo sexto fracción I y 20 fracción VII de la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo hasta el año 2020. En ningún caso, esta excepción transitoria deberá considerar personal administrativo.
+
+NOVENO. El porcentaje a que hace referencia el artículo 31 Bis de de (sic) la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo, relativo a los adeudos del ejercicio fiscal anterior, será del 5 por ciento para el ejercicio 2017, 4 por ciento para el 2018, 3 por ciento para el 2019 y a partir del 2020 se observará el porcentaje establecido en el artículo citado.
+
+DÉCIMO. El registro de proyectos de Inversión Pública Productiva y el sistema de registro y control de las erogaciones de servicios personales, a que se refiere el artículo 41 fracciones III párrafo segundo y V párrafo segundo, respectivamente, de la Ley de Planeación Hacendaría, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo, deberá estar en operación a más tardar el 1 o de enero de 2018.
+
+DÉCIMO PRIMERO. Los Ingresos excedentes derivados de ingresos de libre disposición a que hace referencia el artículo 37 párrafo segundo fracción I, de la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo, podrán destinarse a reducir el balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de este Decreto y hasta el ejercicio fiscal 2022.
+
+En lo correspondiente al párrafo tercero del artículo 37 de la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo, adicionalmente podrán destinarse a gasto corriente hasta el ejercicio fiscal 2017 los Ingresos excedentes derivados de Ingresos de Libre Disposición, siempre y cuando el Gobierno del Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas a que se refieren la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios.
+
+DÉCIMO SEGUNDO. Para el caso de las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria de los Municipios, a que se refieren los artículos 23, 24 Bis, 31 Bis y 31 Ter de la Ley de Planeación Hacendaría, Presupuesto, Gasto. Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo, entrarán en vigor para los efectos del ejercicio fiscal 2018, con las salvedades previstas en el artículo transitorio décimo primero y los que apliquen de acuerdo al propio artículo 31 Ter de esa misma Ley.
+
+DÉCIMO TERCERO. El porcentaje a que hace referencia el artículo 31 Bis de la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo, relativo a los adeudos del ejercicio fiscal anterior de los Municipios, será de 5.5 por ciento para el año 2017, 4.5 por ciento para el 2018, 3.5 por ciento para el 2019 y, a partir de 2020 se estará al porcentaje establecido en dicho artículo.
+
+DÉCIMO CUARTO. Los reglamentos, manuales y demás disposiciones administrativas que en materia presupuestaria emita el Ejecutivo del Estado, deberán de adecuarse a lo dispuesto en el Presente Decreto, a efecto de estar considerados en el Proyecto de Presupuesto de Egresos.
+
+DÉCIMO QUINTO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, y al Titular de la Auditoría Superior de Michoacán, para su conocimiento y efectos legales conducentes.
