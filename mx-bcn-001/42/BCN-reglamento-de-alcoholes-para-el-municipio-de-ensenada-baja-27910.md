@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-alcoholes-para-el-municipio-de-ensenada-baja-2791
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-10"
-last_updated: "2016-07-01"
+last_updated: "2016-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 10 de enero de 2003.
 
@@ -470,6 +470,8 @@ En caso de que el permisionario, quiera suspender las actividades del permiso, d
 II.- Operar únicamente el giro o giros autorizados.
 
 III.- Contar con instalaciones higiénicas, adecuadas y seguras según el giro.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PUNTO DE ACUERDO PRIMERO, PUBLICADO P.O. 5 DE AGOSTO DE 2016.]</small>
 
 IV.- Contar con el dictamen de uso de suelo expedido por la Dirección de Desarrollo Urbano y Ecología que haga viable la operatividad del establecimiento.
 
@@ -1438,3 +1440,19 @@ P.O. 1 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA ADICIONAR LA FRACCIÓN XXIII DEL ARTÍCULO 3, INCISO F DEL ARTÍCULO 17, 21, INCISOS B Y C DEL ARTÍCULO 28 Y SE DEROGA LA FRACCIÓN XI DEL ARTÍCULO 20 DEL REGLAMENTO DE ALCOHOLES, RELATIVO A DICTAMEN 13/2016”.]
 
 ÚNICO.- Siendo aprobada la presente reforma, incorpórese al libro de actas y publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para efectos de iniciar la vigencia al siguiente día de su publicación en todo el territorio del Municipio de Ensenada.
+
+P.O. 5 DE AGOSTO DE 2016.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DE ACUERDO.]</small>
+
+PRIMERO.- Se apruebe por el XXI Ayuntamiento de Ensenada, Baja California la modificación del Artículo 1 Transitorio del Reglamento de Alcoholes para el Municipio de Ensenada, para quedar como sigue:
+
+Artículo 1 Transitorio.- La exigencia dentro de las obligaciones de los titulares de los permisos eventuales y/o temporales a que se refiere la fracción I inciso IV del artículo 23 del presente Reglamento, será aplicable a partir del 1 de Octubre del 2016.
+
+SEGUNDO.- Notifíquese el presente Acuerdo a la Secretaría General del Ayuntamiento, para los efectos legales a que haya lugar.
+
+TERCERO.- Publíquese en el Periódico Oficial del Estado de Baja California.
+
+CUARTO.- Cúmplase.
+
+> <small>[N. DE E. EL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DEL ARTÍCULO 1 TRANSITORIO DEL REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
