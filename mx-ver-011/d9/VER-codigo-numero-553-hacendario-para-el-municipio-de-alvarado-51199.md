@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-553-hacendario-para-el-municipio-de-alvarado-5119
 country: "mx"
 rank: "codigo"
 publication_date: "2006-07-14"
-last_updated: "2015-03-13"
+last_updated: "2016-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO HACENDARIO PARA EL MUNICIPIO DE ALVARADO, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE AGOSTO DE 2016.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 14 de julio de 2006.
 
@@ -1445,7 +1445,9 @@ El Impuesto Predial se causará anualmente y se liquidará y pagará conforme a 
 
 El pago del Impuesto Predial será semestral y se realizará dentro de los meses de enero y julio de cada año, en la Tesorería u oficinas autorizadas.
 
-Los sujetos de este impuesto que opten por el pago anual podrán efectuarlo en el mes de enero, en una sola exhibición y, en este caso, obtendrán un descuento del veinte por ciento, incluidos quienes paguen la cuota mínima. Este plazo podrá prorrogarse hasta el día último del mes de febrero, por acuerdo del Cabildo, el que se comunicará al Congreso.
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
+
+Los sujetos de este impuesto que opten por el pago anual podrán efectuarlo en el mes de enero, en una sola exhibición y, en este caso, obtendrán un descuento del veinte por ciento, incluidos quienes paguen la cuota mínima. Este plazo podrá prorrogarse hasta el día último del mes de marzo, por acuerdo del Cabildo, el que se comunicará al Congreso.
 
 ###### Artículo 119.
 
@@ -1461,9 +1463,11 @@ Los contribuyentes del impuesto predial que sean pensionados o jubilados y, en c
 
 Las personas mayores de sesenta años, contribuyentes de este impuesto, que no se encuentren en los supuestos descritos, también tendrán derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo, si el valor catastral del inmueble correspondiente no excediere de seis mil salarios mínimos. A este descuento no se podrá adicionar el previsto en el artículo 118 de este Código.
 
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 122.
 
-El impuesto anual a pagar no podrá ser menor a tres salarios mínimos, excepto lo dispuesto por el artículo 118 de este Código.
+El impuesto anual a pagar no podrá ser menor a tres y medio salarios mínimos, excepto lo dispuesto por el artículo 118 de este Código.
 
 ###### Artículo 123.
 
@@ -1583,9 +1587,11 @@ Las constancias de no adeudo que, en su caso, expida la Tesorería estarán vige
 
 Si existiere algún crédito por concepto de contribuciones por mejoras a favor del Estado o el Municipio, con fecha de vencimiento para el pago posterior a la fecha de la firma de la escritura, y el adquirente acepta o consiente dicho crédito los Notarios lo harán constar en el instrumento público.
 
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 136.
 
-El impuesto al que se refiere el presente Capítulo se causará, liquidará y pagará aplicando a la base gravable determinada, la tasa del uno por ciento.
+El impuesto al que se refiere el presente Capítulo se causará, liquidará y aplicando a la base gravable determinada la tasa del uno y medio por ciento.
 
 ###### Artículo 137.
 
@@ -1645,9 +1651,11 @@ IV. Abstenerse de autorizar escritura pública alguna, en la que hagan constar o
 
 Es objeto del Impuesto Sobre Espectáculos Públicos, la explotación de cualquier diversión o espectáculo público que se realice en forma eventual o habitual en el Municipio. Por diversión o espectáculo público debe entenderse toda función de esparcimiento, sea teatral, deportiva o de cualquier otra naturaleza semejante, que se verifique en salones, teatros, estadios, carpas, calles, plazas, locales abiertos o cerrados, en donde se reúna un grupo de personas, pagando el importe del boleto de entrada o de cualquier otro derecho de admisión, excepto cines.
 
-Quedan incluidas en el concepto de diversión o espectáculo público, las ferias, muestras, exposiciones y eventos similares, si para el acceso a ellos se paga alguna cantidad en dinero.
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 898, PUBLICADO EN LA G.O. DE 5 DE AGOSTO DE 2016, SE ADVIERTE QUE EL ANTERIOR PÁRRAFO TERCERO, AHORA CONFORMA LA ÚLTIMA PARTE DEL ACTUAL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO]</small>
 
-Cuando los promotores que organicen espectáculos públicos, expidan pases u otorguen cortesías, causarán el Impuesto Sobre Espectáculos Públicos correspondiente, como si se hubiere cubierto el importe del boleto o cuota respectiva.
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
+
+Quedan incluidas en el concepto de diversión o espectáculo público, las ferias, muestras, exposiciones y eventos similares, discotecas, bares o centros nocturnos si para el acceso a ellos se paga alguna cantidad en dinero. Cuando los promotores que organicen espectáculos públicos, expidan pases u otorguen cortesías, causarán el Impuesto Sobre Espectáculos Públicos correspondiente, como si se hubiere cubierto el importe del boleto o cuota respectiva.
 
 ###### Artículo 144.
 
@@ -1665,7 +1673,9 @@ El Impuesto Sobre Espectáculos Públicos se causará, liquidará y pagará sobr
 
 I. Carpas de representaciones teatrales, de fantoches, títeres, óptica, fenómenos animales, enanos, bufos, etc., el tres por ciento sobre la entrada bruta;
 
-II. Circos, el tres por ciento sobre la entrada bruta;
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+II. Circos, el cuatro por ciento sobre la entrada bruta;
 
 III. Espectáculos deportivos:
 
@@ -1677,13 +1687,19 @@ c) Béisbol, fútbol, básquetbol, tenis, pelota vasca y otros juegos de pelota,
 
 IV. Corridas de toros, becerradas, novilladas, jaripeos, peleas de gallos y otros espectáculos similares, el diez por ciento sobre los ingresos brutos obtenidos;
 
-V. Representaciones teatrales de comedias, drama, ópera, opereta, zarzuela, revista, vodevil, variedades, ballet o revistas sobre hielo o acuáticas, conciertos y conferencias, el tres por ciento sobre el precio de cada boleto, ficha o pase de cualquier tipo que permita el ingreso al espectáculo;
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+V. Representaciones teatrales de comedias, drama, ópera, opereta, zarzuela, revista, vodevil, variedades, ballet o revistas sobre hielo o acuáticas, conciertos y conferencias, el cuatro por ciento sobre el precio de cada boleto, ficha o pase de cualquier tipo que permita el ingreso al espectáculo;
 
 VI. Exhibiciones y concursos, el cinco por ciento sobre el precio de cada boleto, ficha o pase de cualquier tipo que permita el ingreso al espectáculo;
 
-VII. Espectáculos nocturnos diferentes a los anteriores, el diez por ciento sobre la entrada bruta; y
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+VII. Espectáculos nocturnos diferentes a los anteriores, así como pago de ingreso a discotecas, bares y centros nocturnos el diez por ciento sobre la entrada bruta; y
 
 VIII. Los no previstos en las fracciones anteriores, el diez por ciento sobre el precio de cada boleto, ficha o pase de cualquier tipo que permita el ingreso al espectáculo.
+
+> <small>[N. DE E. REPUBLICADO, G.O. 5 DE AGOSTO DE 2016]</small>
 
 Cuando el espectáculo se realice en beneficio de instituciones de asistencia pública legalmente constituidas, se aplicará la tasa del tres por ciento sobre el precio del boleto.
 
@@ -1829,9 +1845,11 @@ Son sujetos de este impuesto, las personas físicas o morales, ya sean propietar
 
 Este impuesto se causará mensualmente por cada establecimiento en que se celebren juegos permitidos.
 
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 164.
 
-Este impuesto se causará y pagará conforme a la tarifa mensual de 0.50 salarios mínimos por mesa o máquina de juego.
+Este impuesto se causará y pagará mensualmente conforme a la tarifa mensual de 1.50 salarios mínimos por mesa o máquina de juego.
 
 ###### Artículo 165.
 
@@ -1877,9 +1895,13 @@ Esta contribución se causará y pagará, aplicando a la base que corresponda, l
 
 I. Siete y medio por ciento adicional sobre el impuesto predial;
 
-II. Diez por ciento adicional sobre los impuestos sobre espectáculos públicos; sobre loterías, rifas, sorteos y concursos; sobre juegos permitidos; y sobre fraccionamientos; y
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2016)</small>
 
-III. Diez por ciento adicional sobre los derechos y productos que establece el presente Código.
+II. Quince por ciento adicional sobre los impuestos sobre espectáculos públicos; sobre loterías, rifas, sorteos y concursos; sobre juegos permitidos; y sobre fraccionamientos y;
+
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+III. Quince por ciento adicional sobre los derechos, productos que establece el presente Código.
 
 ###### Artículo 173.
 
@@ -1899,9 +1921,11 @@ Son sujetos de este impuesto las personas físicas o morales que obtengan ingres
 
 La base de este impuesto será el valor catastral del inmueble o el valor de operación consignado en escritura pública, si este último es mayor.
 
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 177.
 
-Este impuesto se causará, liquidará y pagará aplicando a la base gravable determinada la tasa de uno al millar.
+Este impuesto se causará, liquidará y pagará aplicando a la base gravable determinada la tasa de dos al millar.
 
 ###### Artículo 178.
 
@@ -1999,21 +2023,31 @@ La recepción del pago de derechos por parte de las autoridades fiscales, en el 
 
 Es objeto de este derecho el otorgamiento de la licencia de funcionamiento, permiso o autorización, registro o refrendo a negociaciones, giros o actividades económicas, cuya reglamentación y vigilancia corresponda a la autoridad municipal.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 5 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 196.
 
-Los propietarios de negociaciones comerciales, industriales, de prestación de servicios, de comisión y, en general, de toda actividad económica, deberán empadronarse en la Tesorería y obtener la cédula respectiva y, en su caso, la licencia o autorización de funcionamiento que corresponda, ya sea que sus actividades las realicen en tiendas abiertas al público, en despachos, almacenes, bodegas, interior de casas o edificios o en cualquier otro lugar. Dicha cédula de empadronamiento se mantendrá vigente, hasta en tanto no se realice baja, cambio de giro o de domicilio, excepto para los giros que implican la enajenación o expendio de bebidas alcohólicas, en cuyo caso la vigencia de la cédula de empadronamiento de la licencia será de un año.
+Los propietarios de negociaciones comerciales, industriales, de prestación de servicios, de comisión y, en general, de toda actividad económica, deberán empadronarse en la Tesorería y obtener la cédula respectiva y, en caso de giros que pretendan la enajenación de bebidas alcohólicas, la licencia o autorización de funcionamiento que corresponda, ya sea que sus actividades las realicen en tiendas abiertas al público, en despachos, almacenes, bodegas, interior de casas o edificios o en cualquier otro lugar. Dicha cédula de empadronamiento se mantendrá vigente por año calendario, y deberá refrendarse durante los tres primeros meses del año, hasta en tanto no se realice baja, cambio de giro o de domicilio.
+
+> <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2016)</small>
+
+En caso de no ser cubierto este pago durante el plazo mencionado en el párrafo anterior, éste causará el recargo mensual previsto en la Ley de Ingresos del Ejercicio Fiscal Vigente.
 
 ###### Artículo 197.
 
 El inicio de actividades, la ampliación o el cambio de giro de los establecimientos o locales a los que se refiere el artículo anterior, serán autorizados por la Tesorería, de conformidad con los requisitos que establezca el Código municipal respectivo o, en su defecto, el Cabildo.
 
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 198.
 
-Son sujetos de este derecho las personas físicas o morales que soliciten del Ayuntamiento la autorización de funcionamiento, registro o refrendo señalados en el artículo 195 de este Código o la licencia correspondiente.
+Son sujetos de este derecho las personas físicas o morales que realicen las actividades económicas establecidas en el artículo 195 de este Código.
+
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 199.
 
-El Municipio, en términos de lo dispuesto por la Ley de Coordinación Fiscal y demás normatividad aplicable, ejercerá facultades operativas de verificación al momento de expedir las licencias a que se refiere este Código y deberá solicitar a los interesados la exhibición de su cédula de inscripción al Registro Federal de Contribuyentes. En términos de la normatividad aludida en el párrafo anterior, la licencia, permiso o autorización de funcionamiento, o el registro o refrendo anual en su caso, no causarán cuota alguna, pero sus propietarios cumplirán los requisitos que para el otorgamiento de aquéllos señalen los Códigos municipales y cubrirán, en su caso, el pago de las formas valoradas que correspondan, que no podrá exceder de un salario mínimo. Se exceptúan de la no causación los giros comerciales que enajenen o expendan bebidas alcohólicas en forma total o parcial al público en general, en cuyo caso deberán cubrir la cuota o tarifa establecida en el presente Código por el otorgamiento o refrendo de cada licencia, pero la omisión a dicha obligación se sancionará con multa equivalente a la cuota o tarifa señalada para el refrendo, según el caso y, de persistir la omisión dentro del término de quince días, se procederá a la clausura.
+El Municipio, en términos de lo dispuesto por la Ley de Coordinación Fiscal y demás normatividad aplicable, ejercerá facultades operativas de verificación al momento de expedir las licencias a que se refiere este Código y deberá solicitar a los interesados la exhibición de su cédula de inscripción al Registro Federal de Contribuyentes. Para el registro o refrendo anual en su caso, los propietarios cumplirán los requisitos que para el otorgamiento de aquéllos señalen los Códigos municipales y cubrirán el pago del derecho que establece el Artículo 202 de este Código. Se exceptúan de la no causación los giros comerciales que enajenen o expendan bebidas alcohólicas en forma total o parcial al público en general, en cuyo caso deberán cubrir la cuota o tarifa establecida en el presente Código por el otorgamiento o refrendo de cada licencia, pero la omisión a dicha obligación se sancionará con multa equivalente a la cuota o tarifa señalada para el refrendo, según el caso y, de persistir la omisión dentro del término de quince días, se procederá a la clausura.
 
 #### SECCIÓN I. DE LOS ESTABLECIMIENTOS CUYO GIRO SEA LA ENAJENACIÓN DE BEBIDAS ALCOHÓLICAS REALIZADA TOTAL O PARCIALMENTE AL PÚBLICO EN GENERAL
 
@@ -2025,61 +2059,145 @@ Las licencias, permisos o autorizaciones son intransferibles, otorgados para una
 
 Los permisos o autorizaciones de carácter temporal, para giros comerciales que enajenen o expendan bebidas alcohólicas, tendrán un costo proporcional al número de días para el cual se expidan, en relación con la cuota que corresponda de acuerdo a su giro. En ningún caso el costo será menor al que corresponda a quince días.
 
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 202.
 
-La expedición de licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales con giros comerciales que enajenen o expendan bebidas alcohólicas, estará sujeta a los requisitos que establezca el Código municipal respectivo o, en su defecto, el Cabildo, mediante reglas o disposiciones de carácter general.
+La expedición de licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales con giros comerciales estará sujeta a los requisitos que establezca el Código municipal respectivo o, en su defecto, el Cabildo, mediante reglas o disposiciones de carácter general.
 
-Por la expedición de licencias a que este artículo se refiere, se pagarán las cuotas siguientes:
+I. Por la expedición de licencias de establecimientos que no enajenen o expendan bebidas alcohólicas, se pagarán las cuotas siguientes:
 
-Giro: Costo de la licencia en número de salarios mínimos:
+Clasificación Costo en salarios mínimos
 
-Abarrotes con venta de cerveza 70
+a) Microempresas (de 1 a 10 empleados) 15
 
-Abarrotes con venta de cerveza, vinos y licores 150
+b) Pequeño Comercio (de 1 a 10 empleados) 15
 
-Agencias 500
+c) Pequeño Comercio (de 11 a 30 empleados) 30
 
-Almacenes o Distribuidores 500
+d) Pequeña Empresa Industria y Servicios 25
 
-Billares 260
+(de 1 a 10 empleados)
 
-Cantinas o bares 300
+e) Pequeña Empresa Industria y Servicios 50
 
-Centros de eventos sociales 300
+(de 11 a 50 empleados)
 
-Centros deportivos o recreativos 300
+f) Mediana Empresa de Comercio 120
 
-Centros nocturnos y cabarets 2,000
+(de 31 a 100 empleados)
 
-Cervecerías 200
+g) Mediana Empresa de Servicios 200
 
-Clubes sociales 250
+(de 51 a 100 empleados)
 
-Depósitos 200
+h) Mediana Empresa de Industria 300
 
-Discotecas 1,350
+(de 51 a 250 empleados)
 
-Hoteles y moteles 300
+i) Gran Empresa 600
 
-Kermeses, ferias y bailes públicos 125
+II. Por la expedición de licencias de establecimientos que enajenen o expendan bebidas alcohólicas, en horario permitido de acuerdo al Bando Municipal de Policía y Buen Gobierno, se pagarán las cuotas siguientes:
 
-Licorerías 200
+Giro Costo de la licencia
 
-Loncherías, taquerías, marisquerías, fondas, Coctelerías, torterías, pizzerías y similares 150
+en salarios mínimos
 
-Mini súper y tiendas de conveniencia 200
+a) Abarrotes con venta de cerveza 120
 
-Peñas, canta bar, café bar, video bar y café cantante 250
+b) Abarrotes con venta de cerveza, vinos y licores 250
 
-Restaurante con venta de cerveza 200
+c) Agencias 1000
 
-Restaurante-bar. 300
+d) Almacenes o Distribuidores 1000
 
-Servicar 250
+e) Billares 350
 
-Supermercados, Centros Comerciales y de Autoservicio 500
+f) Cantinas o bares 600
 
-Los derechos por refrendos anuales se calcularán a razón del veinte por ciento del costo de la licencia.
+g) Centros de eventos sociales 600
+
+h) Centros deportivos o recreativos 600
+
+i) Centros nocturnos y cabarets 3000
+
+j) Cervecerías 500
+
+k) Clubes Sociales 300
+
+l) Depósitos 300
+
+m) Discotecas 2500
+
+n) Hoteles y moteles 500
+
+o) Kermeses, ferias y bailes públicos 300
+
+p) Expendio de cerveza, vinos y licores 450
+
+q) Loncherías, taquerías, marisquerías, 200
+
+fondas, torterías, pizzerías y similares
+
+r) Minisuper 400
+
+s) Tiendas de conveniencia 600
+
+t) Supermercados y tiendas de autoservicio 1500
+
+u) Tiendas departamentales y centros comerciales 2000
+
+v) Establecimientos en los que se lleven a cabo 3500
+
+juegos con apuestas y sorteos o casinos
+
+w) Restaurante con venta de cerveza 400
+
+x) Restaurante-bar 600
+
+y) Servicar 500
+
+z) Coctelerías, peñas, canta bar, 400
+
+café bar, video bar y café cantante
+
+III. Los derechos por refrendos anuales de todo tipo de establecimiento comercial se calcularán a razón del veinte por ciento del costo de la licencia.
+
+IV. Por la ampliación de horario de servicio de los establecimientos o locales con giros comerciales que enajenen o expendan bebidas alcohólicas, se causará el pago de derechos por las horas autorizadas, conforme a la siguiente tabla y cuota en salarios mínimos:
+
+Giro Por cada hora en
+
+salarios mínimos
+
+Cantina 4
+
+Peña 4
+
+Bar 6
+
+Cervecería 4
+
+Centro Nocturno o Cabaret 6
+
+Discoteca 6
+
+Establecimientos en los que se 6
+
+lleven a cabo juegos con
+
+apuestas y sorteos o casinos
+
+Abarrotes, Misceláneas, Ultramarinos, 2
+
+Minisuper, Supermercados,
+
+Depósitos de Cerveza y Depósitos
+
+De Vinos y Licores.
+
+Tiendas de Conveniencia 2
+
+Resto de los Giros 2
 
 #### SECCIÓN II. DE LOS DERECHOS POR ANUNCIOS COMERCIALES Y PUBLICIDAD
 
@@ -2097,7 +2215,9 @@ Asimismo establecerán las condiciones en que se autorice la publicidad móvil p
 
 Los derechos a que se refiere esta Sección, se cobrarán por la autorización respectiva, con base a los requisitos establecidos en el Reglamento Municipal de la materia y de acuerdo a las cuotas siguientes:
 
-I. Por la colocación de anuncios comerciales en la vía pública o tenga efectos sobre ésta, repercutiendo en la imagen urbana, de cuatro a ocho salarios mínimos, anualmente;
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+I. Por la colocación de anuncios comerciales en la vía pública, repercutiendo en la imagen urbana, de cinco a nueve salarios mínimos por metro cuadrado por cara;
 
 II. Por la colocación eventual de anuncios comerciales en la vía pública o tenga efectos sobre ésta, repercutiendo en la imagen urbana, dos salarios mínimos por evento;
 
@@ -2119,299 +2239,311 @@ III. Por licencias:
 
 a). De construcción de bardas, por metro lineal 0.155 salarios mínimos;
 
-b). Construcción o ampliación o remodelación, tomando como base la superficie total que resulte de la suma de las superficies parciales cubiertas, por construcciones correspondientes a cada uno de los pisos de que consta el edificio, se pagarán por metro cuadrado o fracción que exceda, de conformidad con la tarifa siguiente:
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
 
-Uso Salario Mínimo
+b) Construcción o ampliación o remodelación, tomando como base la superficie total que resulte de la suma de las superficies parciales cubiertas, por construcciones correspondientes a cada uno de los pisos de que consta el edificio, se pagarán por metro cuadrado o fracción que exceda, de conformidad con la tarifa siguiente:
 
-RESIDENCIALES:
+Uso Salarios mínimos
 
-CONSTRUCCION TIPO DIAS DE
+Residencial 0.25
 
-SALARIO
+Popular 0.04
 
-MINIMO
+Medio 0.23
 
-De 101 a 150 Residencial 77
+Interés Social 0.068
 
-De 151 a 200 Residencial 87
+Comercial 0.41
 
-De 201 a 300 Residencial 111
+Industrial 0.41
 
-De 301 a 500 Residencial 134
+Agropecuario 0.145
 
-De 501 a 1000 Residencial 156
+De Servicio 0.145
 
-DE 1001 A 1500 Residencial 209
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
 
-DE 1501 EN
+c) Para fusionar, subdividir o relotificar, en términos de la Ley en materia de desarrollo urbano que se encuentre vigente y sus Códigos de la materia, por metro cuadrado o fracción:
 
-ADELANTE Residencial 300
+Uso Salarios mínimos
 
-TARIFA
+Residencial 0.198
 
-CONSTRUCCION SALARIO DIAS DE
+Popular 0.002
 
-SALARIO
+Medio 0.0135
 
-De 0 a 40 M2 Popular 4
+Interés Social 0.00580
 
-Medio 6
+Comercial 0.03
 
-De 41 a 60 M2 Popular 6
+Industrial 0.03
 
-Medio 8
+Agropecuario 0.0118
 
-De 61 a 80 M2 Popular 6
+De Servicio 0.012
 
-Medio 10
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
 
-De 81 a 100 M2 Popular 8
+d) Por demoliciones por metro cuadrado:
 
-Medio 12
+Uso Salarios mínimos
 
-De 101 a 150 M2 Popular 8
+Residencial 0.256
 
-Medio 13
+Popular 0.1025
 
-De 150 a 200 M2 Popular 10
+Medio 0.205
 
-Medio 14
+Interés Social 0.1275
 
-Uso salario mínimo:
+Comercial 0.450
 
-1. Comercial 0.425;
+Industrial 0.450
 
-2. Industrial 0.425;
+Agropecuario 0.19
 
-3. Agropecuario 0.152;
+De Servicio 0.4055
 
-4. De servicio 0.152.
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
 
-c). Para fusionar, subdividir o relotificar, en términos de la Ley de Desarrollo Regional y Urbano y el Código de la materia, por metro cuadrado:
+e) Por la construcción de albercas y depósitos de agua por metro cúbico, 1.1 salarios mínimos.
 
-Uso Salario Mínimo:
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
 
-1. Residencial 0.0212
+f) Por la construcción de tanques subterráneos para almacenamiento de material peligroso o combustible, por metro cúbico, 3 salarios mínimos.
 
-2. Medio 0.0145
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 898, PUBLICADO EN LA G.O. DE 5 DE AGOSTO DE 2016, SE ADVIERTE QUE EL CONTENIDO DE ESTE INCISO ES IDÉNTICO AL DEL INCISO J) DEL PRESENTE ARTÍCULO]</small>
 
-3. Interés Social 0.00625
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
 
-4. Popular 0.004
+g) Para la conversión al régimen de propiedad en condominio y/o conjunto urbano condominal, por metro cuadrado o fracción.
 
-5. Comercial 0.04
+Uso Salarios mínimos
 
-6. Industrial 0.04
+Residencial 0.12
 
-7. Agropecuario 0.0125
+Popular 0.03
 
-8. De servicio 0.015
+Medio 0.11
 
-En ningún caso la cuota a pagar será inferior a 2 salarios mínimos;
+Interés Social 0.035
 
-d). Para fraccionamientos, sobre el área total por fraccionar o lotificar, por metro cuadrado o fracción, en términos de la Ley de Desarrollo Regional y Urbano y sus Códigos, por metro cuadrado o fracción que exceda:
+Comercial 0.20
 
-Uso salario mínimo:
+Industrial 0.20
 
-1. Residencial 0.0212
+Agropecuario 0.055
 
-2. Medio 0.0145
+De Servicio 0.055
 
-3. Interés Social 0.00625
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
 
-4. Popular 0.004
+h) Por la construcción de patios de almacenaje, se pagará por metro cuadrado de piso, 0.08 salarios mínimos;
 
-5. Comercial 0.04
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
 
-6. Industrial 0.04
+i) Para realizar obras, modificaciones, reparaciones, introducir servicios provisionales o permanentes en la vía pública, por metro lineal
 
-7. Agropecuario 0.0125
+Uso Salarios mínimos
 
-8. De servicio 0.015
+Habitacional 3
 
-e). Por demoliciones por metro cuadrado:
+Comercial 6
 
-Uso Salario Mínimo:
+De construcción o instalación de antenas de telecomunicaciones, por metro lineal, 5 salarios mínimos;
 
-1. Residencial 0.256
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 898, PUBLICADO EN LA G.O. DE 5 DE AGOSTO DE 2016, SE ADVIERTE QUE EL CONTENIDO DE ESTE INCISO ES IDÉNTICO AL DEL INCISO G) DEL PRESENTE ARTÍCULO]</small>
 
-2. Medio 0.205
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
 
-3. Interés Social 0.1275
+j) Para la conversión al régimen de propiedad en condominio y/o conjunto urbano condominal, por metro cuadrado o fracción.
 
-4. Popular 0.1025
+Uso Salarios mínimos
 
-5. Comercial 0.575
+Residencial 0.12
 
-6. Industrial 0.575
+Popular 0.03
 
-7. Agropecuario 0.0125
+Medio 0.11
 
-8. De servicio 0.4075
+Interés Social 0.035
 
-En ningún caso la cuota a pagar será inferior a 2 salarios mínimos.
+Comercial 0.20
 
-f). Por la construcción de Albercas y depósitos de agua por metro cúbico o fracción que exceda,
+Industrial 0.20
 
-1.2 salarios mínimos.
+Agropecuario 0.055
 
-g). Por la construcción de tanques subterráneos para almacenamiento de material peligroso o combustible, por metro cúbico o fracción que exceda, 4 salarios mínimos
+De Servicio 0.055
 
-h). Para la conversión al régimen de propiedad en condominio, por metro cuadrado o fracción que exceda:
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
 
-Salario Mínimo:
+k) Por la construcción de patios de almacenaje, se pagará por metro cuadrado de piso, 0.08 salarios mínimos;
 
-1. Residencial 0.14
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
 
-2. Medio 0.1225
+l) Para realizar obras, modificaciones, reparaciones, introducir servicios provisionales o permanentes en la vía pública, por metro lineal
 
-3. Interés Social 0.0375
+Uso Salarios Mínimos
 
-4. Popular 0.03
+Habitacional 3
 
-5. Comercial 0.2125
+Comercial 6
 
-6. Industrial 0.2125
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
 
-7. Agropecuario 0.075
+m) De construcción o instalación de antenas de telecomunicaciones, por metro lineal, 5 salarios mínimos;
 
-8. De servicio 0.075
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 5 DE AGOSTO DE 2016)</small>
 
-i). Por remodelación de fachadas, se pagará por metro cuadrado o fracción que exceda, de acuerdo a lo señalado en el inciso b);
+n) Para edificar estacionamientos públicos o particulares de piso de uso no habitacional, por metro cuadrado:
 
-j). Por la construcción de estacionamientos descubiertos o patios de almacenaje, se pagará por metro cuadrado de piso, 0.10 salarios mínimos;
+Uso Salarios mínimos
 
-k). Para realizar obras, modificaciones, reparaciones, introducir servicios provisionales o permanentes en la vía pública, por metro lineal o cuadrado, según corresponda, 2 a 5 salarios mínimos.
+Comercial 0.215
 
-l). De construcción o instalación de antenas de telecomunicaciones, por metro lineal, 8 salarios mínimos.
+De Servicio 0.100
 
-m). Para edificar estacionamientos públicos o particulares de uso no habitacional, conforme a lo señalado en el Código de Estacionamientos Municipales, por metro cuadrado:
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2016)</small>
 
-Uso salario mínimo:
+IV. Por deslinde de predios por metro cuadrado:
 
-1. Comercial 0.425
+Uso Salarios mínimos
 
-2. De servicio 0.152
+Residencial 0.04
 
-Por las demás no especificadas en esta fracción se pagarán 0.05 salarios mínimos;
+Popular 0.025
 
-IV. Por deslinde de predios por metro cuadrado o fracción que exceda:
+Medio 0.025
 
-Uso Salario Mínimo:
+Interés Social 0.025
 
-1 a 5.
+Comercial 0.0015
 
-DESLINDE 1 A 100 M”
+Industrial 0.0015
 
-Popular, Medio 4.39 S.M.
+Agropecuario 0.0015
 
-DESLINDE 101 151 201 301 501 A Mas
+De Servicio 0.0015
 
-A A A A 10,000 de
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2016)</small>
 
-150 200 300 500 m2 10,000
+V. Por registro, estudio y aprobación de planos y proyectos de construcción, remodelación, ampliación o demolición, de acuerdo a los Códigos vigentes, por plano:
 
-m2 m2 m2 m2 m2 m2
+Uso Salarios mínimos
 
-Residencial 5.27 5.97 7.24 8.45 9.66 12.07
+Residencial 4
 
-6. INDUSTRIAL:
+Popular 1
 
-De 1 a 10,000 m2 0.025
+Medio 3
 
-De 10,000 m2 en adelante 0.015.
+Interés Social 2
 
-7. Agropecuario:
+Comercial 8
 
-De 1 a 10,000 m2 0.02
+Industrial 8
 
-De 10,001 m2 en adelante 0.015
+Agropecuario 4
 
-8. De servicio:
+De Servicio 4
 
-De 1 a 10,000 m2 0.025
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2016)</small>
 
-De 10,000 m2 en adelante 0.015
+VI. Por expedición de Constancia de Zonificación, 50 días de salario mínimo.
 
-En ningún caso la cuota a pagar será inferior a 2 salarios mínimos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 5 DE AGOSTO DE 2016)</small>
 
-V. Por registro, estudio y aprobación de planos y proyectos de construcción, remodelación o ampliación, de acuerdo a los Códigos vigentes, por plano:
+VII. Por expedición de Licencias de Uso de Suelo:
 
-Uso salario mínimo:
+Uso Salarios mínimos
 
-1. Residencial 6
+Vivienda 0.07
 
-2. Medio 4
+Industria 0.12
 
-3. Interés Social 3
+Comercio 0.30
 
-4. Popular 2
-
-5. Comercial 9
-
-6. Industrial 9
-
-7. Agropecuario 5
-
-8. De servicio 5; y
-
-VI. Por dictamen de uso de suelo o administrativo, según clasificación, por metro cuadrado:
-
-Uso Salario Mínimo:
-
-1. Vivienda 0.07
-
-2. Industria 0.075
-
-3. Comercio 0.15
-
-4. Servicio 0.1
-
-En ningún caso la cuota a pagar será inferior a 6 salarios mínimos.
-
-Por cambio de uso de suelo, en caso de que el Municipio contare con un programa de Ordenamiento Urbano, en términos de la normatividad aplicable, se pagará el 50% de la cuota establecida para un dictamen de uso de suelo.
+Servicio 0.15
 
 La modificación o revalidación de proyectos causarán derechos, a razón del 50% de las cuotas establecidas en las fracciones III inciso b) y V de este artículo.
 
-La regularización por omisión de registros o licencias de construcción causarán el pago de derechos normales, mas un 50% por penalización.
+La regularización por omisión de registros o licencias de construcción causarán el pago de derechos normales, más un 50% por penalización
 
-Los gastos de supervisión por Deslinde de Predios, Asignación de Número Oficial, Alineamientos, Congruencia de Uso de Suelo, Constancia de No Inconveniencia, serán como sigue:
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 5 DE AGOSTO DE 2016)</small>
 
-MEDIDAS ZONAS SUR CABECERA
+VIII. Alineamiento por metro lineal
 
-Y NORTE MUNICIPAL
+Uso Salarios mínimos
 
-DE 0 A 300
+Residencial 0.775
 
-M2 4 S. M. 2 S.M.
+Popular 0.40
 
-DE 300 A
+Medio 0.55
 
-800 M2 6 S.M. 3 S.M.
+Interés Social 0.50
 
-DE 800 A
+Comercial 0.80
 
-2000 M2 8 S.M. 4 S.M.
+Industrial 0.80
 
-2000 EN
+Agropecuario 0.15
 
-ADELANTE 8 S.M. + 4 S.M. +
+De Servicio 0.15
 
-$0.10 M2 O.10 M2 (sic)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 5 DE AGOSTO DE 2016)</small>
 
-El tiempo de ejecución será de seis días hábiles, y el Salario Mínimo aplicable será de $46.80 (cuarenta y seis pesos 80/100 M.N.) por día.
+IX. Asignación Número Oficial y Supervisión
+
+Uso Salarios mínimos
+
+Residencial 7
+
+Popular 4
+
+Medio 5
+
+Interés Social 5
+
+Comercial 8
+
+Industrial 8
+
+Agropecuario 3
+
+De Servicio 3
+
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
+
+El tiempo de ejecución será de seis días hábiles, y el Salario Mínimo aplicable será el que se encuentre vigente.
 
 ###### Artículo 207.
 
 En el caso de la asignación de número oficial, una vez asignado este y pagados los derechos, no se estará obligado a pagar nuevos derechos cuando se hagan cambio (sic) ordenados por el Ayuntamiento, en un plazo de cinco años, contados a partir de la asignación oficial del numero.
 
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 208.
 
-Por lo que hace a las licencias de construcción o ampliación, se tomará como base la superficie total de las sumas de las superficies parciales cubiertas por construcciones correspondientes a cada uno de los pisos de que conste la construcción.
+Por la Expedición de la Constancia de Terminación de Obra se cobrará a razón de:
+
+Uso Costo en pesos
+
+Residencial 600.00
+
+Popular o Medio 300.00
+
+De Servicio 300.00
+
+Comercial 1,200.00
+
+Industrial 1,200.00
 
 ###### Artículo 209.
 
-Los derechos por la licencia de demolición tendrán como base la superficie horizontal total, que resulte de sumar las superficies horizontales parciales correspondientes a cada uno de los pisos que cubran las construcciones a demolerse.
+(DEROGADO, G.O. 5 DE AGOSTO DE 2016)
 
 ###### Artículo 210.
 
@@ -2421,29 +2553,31 @@ En el caso de que el servicio se preste en rebeldía del usuario, se notificará
 
 Los servicios de deslinde de predios tendrán como base la superficie del predio y se realizarán por peritos designados por el Ayuntamiento. Si practicado el deslinde resulta una diferencia en la superficie del predio, superior o inferior, sobre la que se utilizó como base para el pago de los derechos, se hará el ajuste correspondiente, procediendo al cobro o devolución, según el caso.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 5 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 212.
 
-Los derechos por Cambio de Uso de Suelo, Congruencia de Uso de Suelo y Constancia de No Inconveniencia se pagarán conforme a la siguiente tabla:
+Los Derechos por Cambio de Uso de Suelo, Congruencia de Uso de Suelo y Constancia de No Inconveniencia se pagarán conforme a la siguiente tabla:
 
-Cambio de Uso de Suelo
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
 
-RESIDENCIAL 0.010 S.M.
+Uso Salarios Mínimos
 
-MEDIO 0.005 S.M.
+Residencial 0.010
 
-INTERES
+Popular 0.003
 
-SOCIAL 0.004 S.M.
+Medio 0.005
 
-POPULAR 0.003 S.M.
+Interés Social 0.004
 
-COMERCIAL 0.010 S.M.
+Comercial 0.010
 
-INDUSTRIAL 0.011 S.M.
+Industrial 0.011
 
-AGROPECUARIO 0.002S.M.
+Agropecuario 0.002
 
-SERVICIOS .010 S.M.
+De Servicio 0.010
 
 Congruencia de Uso de Suelo
 
@@ -2499,7 +2633,13 @@ Son objeto de estos derechos:
 
 I. La expedición de certificados, constancias y copias certificadas de documentos que obren en los archivos municipales; y
 
-II. La evaluación de impacto ambiental.
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+II. La evaluación de impacto ambiental; y
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+III. La expedición de copias simples o certificadas, o por hoja impresa por medio de dispositivo electrónico de almacenamiento o disco compacto, por solicitudes de información conforme a la Ley de Transparencia y Acceso a la Información Pública para el Estado.
 
 ###### Artículo 223.
 
@@ -2513,15 +2653,67 @@ I. Certificado o certificaciones expedidos por funcionarios o empleados municipa
 
 II. Copias de documentos que obren en los archivos de oficinas municipales:
 
-a) Por hoja escrita a doble espacio en ambas caras, 0.25 salarios mínimos.
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
 
-b) Por hoja que indica el inciso anterior, escrita a un espacio por ambas caras, 0.30 salarios mínimos.
+a) Por hoja escrita a doble espacio en ambas caras, 1 salario mínimo;
 
-c) En los casos a que se refieren las fracciones anteriores, cuando se escriba por una sola cara de la hoja, 0.25 salarios mínimos.
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
 
-d) Copias certificadas por cada plano de construcción 3 salarios mínimos.
+b) Por hoja que indica el inciso anterior, escrita a un espacio por ambas caras, 1. 10 salarios mínimos;
 
-En el caso a que se refiere esta fracción además de los derechos que establecen los incisos que anteceden, se cobrará por la búsqueda de los documentos de los que deba sacarse copia cuando el interesado no proporcione los datos exactos para su localización, por cada año que comprenda la busca (sic), 0.25 salarios mínimos.
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
+
+c) En los casos a que se refieren las fracciones anteriores, cuando se escriba por una sola cara de la hoja, 1 salario mínimo; y
+
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
+
+d) Copias certificadas por cada plano de construcción, 5 salarios mínimos;
+
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
+
+En el caso a que se refiere esta fracción además de los derechos que establecen los incisos que anteceden, se cobrará por la búsqueda de los documentos de los que deba sacarse copia cuando el interesado no proporcione los datos exactos para su localización, por cada año que comprenda la busqueda, 0.30 salarios mínimos.
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+III. Evaluación de Impacto Ambiental, 25 Salarios Mínimos;
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+IV. Certificado de conducta, 2. 10 Salarios Mínimos;
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+V. Certificado de dependencia económica, 1. 30 Salarios Mínimos;
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+VI. Certificado de reclutamiento militar, 2. 10 Salarios Mínimos;
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+VII. Certificado de firma y/o huellas dactilares, 2. 10 Salarios Mínimos; y
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+VIII. Por diversas constancias en materia ambiental, 20 Salarios Mínimos;
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+IX. Certificado de firma y/o huellas dactilares, 2. 10 Salarios Mínimos; y
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.O. 5 DE AGOSTO DE 2016)</small>
+
+X. Por solicitudes de información conforme a la Ley de Transparencia y Acceso a la Información para el Estado:
+
+a) Por copias simples o impresos por medio de dispositivo informático, por cada hoja tamaño carta u oficio: 0.02 salarios mínimos;
+
+b) Por copias certificadas distintas a las señaladas en las fracciones anteriores, por cada hoja o fracción: 0.02 salarios mínimos;
+
+c) Por información grabada en dispositivo electrónico de almacenamiento o disco compacto, por copia: 0.03 salarios mínimos.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN X, G.O. 5 DE AGOSTO DE 2016]</small>
+
+El costo del envío de información corresponderá a las tarifas que apliquen las empresas de servicios de mensajería contratadas, así como a las determinadas por el Servicio Postal Mexicano, para el caso de envíos por correo certificado.
 
 ### CAPÍTULO VI. DE LOS DERECHOS POR SERVICIOS DE RASTRO O LUGARES AUTORIZADOS
 
@@ -2541,13 +2733,21 @@ Es base de este derecho, cada animal en pie considerado por cabeza y por tipo; e
 
 El pago de este derecho se efectuará previamente a la prestación del servicio, en la Tesorería o ante la oficina de ésta en el Rastro. Los funcionarios encargados del Rastro Municipal no prestarán servicio alguno, si previamente no se comprueba que se pagaron los derechos correspondientes. Por la prestación de servicios que se proporcionan en los rastros públicos municipales se causarán derechos conforme a las cuotas siguientes:
 
-I. Bovino, por cada animal: 2.3 salarios mínimos;
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2016)</small>
 
-II. Porcino y equino, por cada animal: 0.7 a 1.0 salarios mínimos;
+I. Bovino, por cada animal: 3.0 salarios mínimos;
 
-III. Ovino y caprino, por cada animal: 0.2 a 0.6 salarios mínimos;
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2016)</small>
 
-IV. Aves y otras especies menores, por cada animal: 0.1 a 0.2 salarios mínimos;
+II. Porcino y equino, por cada animal: 1.0 salarios mínimos;
+
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+III. Ovino y caprino, por cada animal: 0.60 salarios mínimos;
+
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+IV. Aves y otras especies menores, por cada animal: 0.20 salarios mínimos;
 
 V. Por uso de corrales después de transcurridas cuarenta y ocho horas del ingreso del animal, por día o fracción se pagará el diez por ciento de las cantidades señaladas en las fracciones anteriores; y
 
@@ -2563,19 +2763,47 @@ Son objeto de estos derechos, los servicios de inhumación, cremación y exhumac
 
 Son sujetos de estos derechos, las personas físicas o morales que soliciten la prestación de los servicios que señala el artículo anterior, quienes pagarán, en salarios mínimos, las cuotas siguientes:
 
-I. Inhumaciones por siete años y refrendo de fosas 3.4;
+> <small>(REFORMADA [N. DE E. Y SU FORMATO, AHORA TABLA], G.O. 5 DE AGOSTO DE 2016)</small>
 
-II. Depósito de restos en osario por una temporalidad de 7 años 3.4;
+Servicios Salarios Mínimos
 
-III. Construcción, reconstrucción, ampliación o modificación de monumentos, criptas o fosas 2.3;
+Inhumaciones por siete años y
 
-IV. Inhumación de restos, apertura o cierre de gavetas y demás operaciones semejantes 2;
+refrendo de fosas, sin bóveda 5
 
-V. Exhumaciones 3;
+Inhumaciones por siete años y
 
-VI. Reinhumaciones 3; y
+refrendo de fosas, con bóveda 17
 
-VII. Cremaciones 35
+Inhumaciones en fosas a perpetuidad 10
+
+Depósito de restos en osario por
+
+una temporalidad de 7 años 13
+
+Depósito de restos en el osario 1
+
+a perpetuidad
+
+Construcción, reconstrucción,
+
+ampliación o modificación de 1
+
+monumentos, criptas o fosas
+
+Inhumación de restos, apertura
+
+o cierre de gavetas y demás 5
+
+operaciones semejantes
+
+Exhumaciones 5
+
+Reinhumaciones 5
+
+Cremaciones 4
+
+Nichos en el panteón municipal 13
 
 ### CAPÍTULO VIII. DE LOS DERECHOS POR SERVICIOS DE RECOLECCIÓN, TRANSPORTE Y DISPOSICIÓN FINAL DE DESECHOS SÓLIDOS
 
@@ -2621,9 +2849,13 @@ Interés social 0.3
 
 Popular 0.2; y
 
-II. Por cada industria o comercio, así como empresas que presenten espectáculos públicos, 0.008 salarios mínimos por kilogramo o 0.010 salarios mínimos por metro cúbico, sin que en ningún caso la cuota resulte menor a la establecida para inmuebles de uso habitacional de tipo residencial.
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2016)</small>
 
-Aquellos contribuyentes que opten por el pago anual recibirán un descuento del veinte por ciento.
+II. Por cada industria o comercio, así como empresas que presenten espectáculos públicos, 0.016 salarios mínimos por kilogramo o 0.025 salarios mínimos por metro cúbico, sin que en ningún caso la cuota resulte menor a la establecida para inmuebles de uso habitacional de tipo residencial; y
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+III. Aquellos contribuyentes que opten por el pago anual recibirán un descuento del veinte por ciento, durante los primeros dos meses del ejercicio fiscal.
 
 ### CAPÍTULO IX. DE LOS DERECHOS POR LIMPIEZA DE PREDIOS NO EDIFICADOS
 
@@ -2635,9 +2867,11 @@ Son objeto de estos derechos, los servicios de limpieza que el Ayuntamiento efec
 
 Son sujetos de estos derechos las personas físicas o morales que sean propietarias o poseedoras de predios, en los cuales el Ayuntamiento haya prestado los servicios a que se refiere este Capítulo.
 
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 238.
 
-El pago de estos derechos se enterará a la Tesorería, dentro del plazo de quince días siguientes a aquél en que se haya efectuado la limpieza. Los derechos por limpieza de predios no edificados se causarán y pagarán de acuerdo al costo del arrendamiento de la maquinaria y la mano de obra utilizada para llevar a cabo el servicio. Los propietarios o poseedores de predios están obligados a realizar la limpieza de los mismos, para mantener la buena imagen del Municipio y evitar la proliferación de focos de infección y, en caso de no hacerlo, el servicio será prestado por el Ayuntamiento, a costa del propietario o poseedor.
+El pago de estos derechos se enterará a la Tesorería, dentro del plazo de quince días siguientes a aquél en que se haya efectuado la limpieza. Los derechos por limpieza de predios no edificados se causarán y pagarán de acuerdo al costo del arrendamiento de la maquinaria y la mano de obra utilizada para llevar a cabo el servicio, y será determinado por la Tesorería Municipal. Los propietarios o poseedores de predios están obligados a realizar la limpieza de los mismos, para mantener la buena imagen del Municipio y evitar la proliferación de focos de infección y, en caso de no hacerlo, el servicio será prestado por el Ayuntamiento, a costa del propietario o poseedor.
 
 ### CAPÍTULO X. DE LOS DERECHOS POR LA PRESTACIÓN DE SERVICIOS DE SUPERVISIÓN TÉCNICA SOBRE LA EXPLOTACIÓN DE BANCOS DE MATERIAL
 
@@ -2655,57 +2889,101 @@ Es base gravable el volumen de material extraído cuantificado en metros cúbico
 
 ### CAPÍTULO XI. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA TESORERÍA
 
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 242.
 
 Son objeto de estos derechos los servicios siguientes, que se causarán y pagarán de conformidad con las cuotas que en cada caso se señalan:
 
-I. Rectificación o cancelación de los datos asentados en la declaración inicial de traslado de dominio, a solicitud del interesado, 1.12 salario mínimo;
+I. Por servicios Catastrales:
 
-II. Expedición de una Cédula Catastral. 7 Salarios Mínimo (sic);
+Servicios Salarios Mínimos
 
-III. Expedición Certificada de Valor Catastral. 10 Salarios Mínimos;
+Por la expedición de una Cédula Catastral 7
 
-IV. Expedición de una constancia de datos catastrales. 3 salarios mínimos;
+Por la expedición de un Certificado de
 
-V. Expedición de cartografía catastral propiedad del Municipio:
+Valor Catastral o Catastral Provisional, 10
 
-a) Copias en papel heliográfico o bond por plano general de localidad, con curvas de nivel al metro y cuotas de crucero, en escala 1:2,000, por hoja, 4.5 salarios mínimos.
+para efectos del pago de Impuesto de
 
-b) Copias en papel heliográfico o bond por plano general de localidad, en escalas aproximadas 1:4,000, 1:5,000, 1:7,500 y 1:10,000, 3 salarios mínimos.
+Traslación de Dominio
 
-c) Copias en papel heliográfico o bond por plano manzanero de localidades catastradas, en escala 1:500 ó 1:1,000:
+Por la expedición de una constancia de 4
 
-1. De 1 hasta 100 planos, por plano, 4.5 salarios mínimos.
+datos Catastrales
 
-2. De 101 planos en adelante por plano, 3 salarios mínimos.
+Por la certificación de cada plano catastral 3
 
-d) Copias del plano de región catastral, sin escala, con nomenclatura y valores catastrales del suelo urbano, por hoja, 3 salarios mínimos.
+expedido por el Municipio
 
-e) Copias del plano perimetral tamaño carta de un predio registrado en la cartografía catastral urbana, en escala 1:500, por plano. 3 salarios mínimos.
+Por la expedición de Cartografía Digital propiedad del Municipio
 
-f) Cartografía digital en escala 1:1,000 en formatos DXF., DWG. y ARC/INFO., por km2:
+Servicios Salarios Mínimos
 
-1. Cobertura de manzanas, 22 salarios mínimos.
+Plano general urbano, Escala 1:7,500 15
 
-2. Cobertura de predios, 64 salarios mínimos.
+Plano de la zona rural, Escala 1:15,000 10
 
-3. Cobertura de construcciones, 64 salarios mínimos.
+Plano de región catastral, Escala 1:5,000 1
 
-4. Cobertura de curvas de nivel a cada metro, 10 salarios mínimos.
+Plano de región catastral con 2.25
 
-g) Copias de contacto de fotografías aéreas, en escalas 1:4,500 1:10,000 y 1:20,000:
+valores del suelo urbano,
 
-1. En papel bond, imagen blanco y negro, en formato 23 x 23 cm., por copia, 1 salario mínimo.
+sin escala
 
-2. Grabada con escáner e impresión en papel bond, blanco y negro, en formato 23 x 23 cm., por copia. 1.1 salario mínimo.
+Plano de manzana, Escala 1:500 6
 
-3. Grabada en diskette de 3.5” o disco compacto, por copia, 3.8 salarios mínimo (sic).
+Plano perimetral de Predio Tamaño carta 3
 
-Por la certificación de cada plano catastral propiedad del Municipio, 3 salarios mínimos.
+Archivo digital georeferenciado en
 
-Se exceptúan del pago de derechos por la expedición de cartografía catastral y copias de contacto de fotografías aéreas, las dependencias y organismos Federales, Estatales y Municipales, en los términos de los convenios de colaboración que se suscriban, previo cumplimiento de las disposiciones legales aplicables; y
+forma DWG por Km2., o fracción. 8.75
 
-VI. La certificación de documentos públicos que obran en el archivo de la tesorería, 1 salario mínimo.
+Planimetría Escala 1:1,000
+
+Archivo digital georeferenciado en
+
+forma DWG por Km2., o fracción. 3.75
+
+Planimetría Escala 1:1,500
+
+Altimetría Escala 1:1,000 12.50
+
+Fotografía aéreas (sic) Escalas
+
+1:4,500 o 1:20,000 0.75
+
+en formato .23 x .23,
+
+Impresa en papel bond
+
+Fotografía aéreas (sic) Escalas
+
+1:4,500 o 1:20,000
+
+en formato .23 x .23, 1.25
+
+Impresa en papel calidad
+
+fotográfica
+
+Fotografía aéreas (sic) Escalas
+
+1:4,500 o 1:20,000
+
+en formato .23 x .23, 2.5
+
+Grabada en diskette o
+
+CD archivo JPG
+
+En los casos de trámites urgentes, se aumentará su costo en un cuarenta por ciento más de la cuota autorizada
+
+II. Por constancia de no adeudo o cualquier otro que se expida, 1.125 salarios mínimos.
+
+III. Por la certificación de datos o documentos que existan en el archivo de la Tesorería Municipal, 1.125 salarios mínimos.
 
 ###### Artículo 243.
 
@@ -2731,17 +3009,43 @@ I. Por la expedición de copias de actas del Registro Civil, incluyendo el papel
 
 II. Registro de nacimientos ordinarios y extemporáneos, 1.5;
 
-III. Reconocimiento de hijos, 1.5;
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+III. Reconocimiento de hijos, 2.5;
 
 IV. Adopciones, 1.5;
 
-V. Celebración de matrimonios en oficina, 5;
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2016)</small>
 
-VI. Celebración de matrimonios a domicilio, 20;
+V. Celebración de matrimonios en oficina, 10;
 
-VII. Inscripción de sentencias, 10; y
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2016)</small>
 
-VIII. Divorcios, 15.
+VI. Celebración de matrimonios a domicilio, 30;
+
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+VII. Inscripción de sentencias, 13;
+
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+VIII. Divorcios, 18;
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+IX. Notas marginales en los libros de actas, 2. 5; y
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+X. Inscripción de actas del extranjero, 13. 20
+
+> <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2016)</small>
+
+Por búsqueda de los documentos anteriores, se pagarán 2 salarios mínimos, por cada diez años o fracción del periodo que comprenda la búsqueda, cuando no se proporcionen los datos exactos para su localización.
+
+> <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2016)</small>
+
+En los casos de trámites urgentes, se aumentará su costo en un cien por ciento más de la cuota autorizada.
 
 ### CAPÍTULO XIII. DE LOS DERECHOS POR OCUPACIÓN DE INMUEBLES DEL DOMINIO PÚBLICO
 
@@ -2753,19 +3057,139 @@ Es objeto de estos derechos la ocupación de inmuebles del dominio público del 
 
 Los derechos por la ocupación de espacios, se calcularán y pagarán de conformidad con las cuotas siguientes:
 
-I. La ocupación de espacios en mercados municipales se pagará diariamente por metro cuadrado, de 0.01 a 0.05 salarios mínimos; Las altas, traspasos, cambios, ampliaciones de giro y arreglo o modificaciones de locales o áreas que ocupen, se efectuarán de conformidad con la normatividad aplicable, previa autorización del Ayuntamiento;
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2016)</small>
 
-II. La ocupación de espacios en vía pública o áreas municipales, exceptuando las áreas verdes, se pagará diariamente, por metro cuadrado o fracción, previa autorización correspondiente, a razón de 0.01 a 0.05 salarios mínimos;
+I. La ocupación de espacios en mercados municipales se pagará diariamente por metro cuadrado, de 0.2 salarios mínimos; las altas, traspasos, cambios, ampliaciones de giro y arreglo o modificaciones de locales o áreas que ocupen, se efectuarán de conformidad con la normatividad aplicable, previa autorización del Ayuntamiento;
 
-III. La ocupación temporal de la vía pública o áreas municipales, exceptuando las áreas verdes, por vehículos, aparatos mecánicos o electromecánicos, por tianguis, ferias o similares, se pagará diariamente, por metro cuadrado o fracción, a razón de 0.05 a 0.125 salarios mínimos; y
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2016)</small>
 
-IV. El estacionamiento en la vía pública se pagará, mediante utilización de parquímetros, a razón de 0.125 salarios mínimos por hora o fracción.
+II. La ocupación de espacios en vía pública o áreas municipales, exceptuando las áreas verdes, se pagará diariamente, por metro cuadrado o fracción, previa autorización correspondiente, a razón de 0.05 salarios mínimos;
 
-### CAPÍTULO ÚNICO
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+III. La ocupación temporal de la vía pública o áreas municipales, exceptuando las áreas verdes, por vehículos, aparatos mecánicos o electromecánicos, por tianguis, ferias o similares, se pagará diariamente, por metro cuadrado o fracción, a razón de 0.125 salarios mínimos;
+
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+IV. La ocupación de espacios en vía pública o áreas municipales, por postería eléctrica, líneas aéreas de cable, puestos de revistas, etc; exceptuando las áreas verdes, se pagará diariamente por metro cuadrado de superficie; 0.05 salarios mínimos;
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+V. La ocupación de la vía pública requiere autorización en los casos y con las cuotas que a continuación se indican:
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], G.O. 5 DE AGOSTO DE 2016)</small>
+
+Andamios, tapiales y otros usos no especificados, por metro lineal diariamente:
+
+> <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2016)</small>
+
+a) Sobre el arroyo de una calle de la ciudad, 0.05 salarios mínimos;
+
+> <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2016)</small>
+
+b) Por ocupación de banqueta en la ciudad, 0.05 salarios mínimos;
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+VI. Por la ocupación de subsuelo con construcciones permanentes, se pagarán mensualmente las siguientes cuotas:
+
+> <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2016)</small>
+
+a) Instalaciones lineales diversas por metro, 0.05 salarios mínimos;
+
+> <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2016)</small>
+
+b) Instalaciones no lineales por metro cuadrado o fracción por planta o piso de profundidad, 0.1375 salarios mínimos;
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+VII. Por ocupación temporal de la vía pública o áreas municipales a vendedores ambulantes por puesto semifijo de hasta dos metros lineales de frente, diariamente 0.075 salarios mínimos;
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+VIII. En los casos de ocupación de espacios en vía pública o áreas municipales, por líneas aéreas, subterráneas o terrestres, se pagará diariamente por metro lineal; 0.05 salarios mínimos;
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+IX. La ocupación de espacios en vía pública, en el caso de banquetas, por medio de mesas, sillas o cualquier otro tipo de muebles, previa autorización, se pagará una cuota por día de 0.075 salarios mínimos por metro cuadrado o fracción; y
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+X. El estacionamiento en la vía pública se pagará mediante utilización de parquímetros, por hora o fracción a razón de 0.125 salarios mínimos.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 5 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO XIV. DE LOS DERECHOS POR SERVICIOS PRESTADOS EN MATERIA DE PROTECCIÓN CIVIL
+
+> <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2016)</small>
+
+Artículo 248 bis. Por los servicios prestados en materia de Protección Civil se causarán y cobrarán en salarios mínimos, los siguientes derechos:
+
+I. Por la emisión de dictámenes técnicos y anuencias de instalaciones públicas y privadas.
+
+Alto riesgo
+
+1 a 166 metros cuadrados de superficie: 26
+
+167 a 332 metros cuadrados de superficie: 52
+
+333 a 500 metros cuadrados de superficie: 80
+
+Riesgo medio
+
+1 a 166 metros cuadrados de superficie: 23
+
+167 a 332 metros cuadrados de superficie: 46
+
+333 a 500 metros cuadrados de superficie: 70
+
+Bajo riesgo
+
+1 a 60 metros cuadrados de superficie: 7
+
+61 a 125 metros cuadrados de superficie: 14
+
+126 a 190 metros cuadrados de superficie: 21
+
+191 a 250 metros cuadrados de superficie: 28
+
+251 a 315 metros cuadrados de superficie: 35
+
+316 a 380 metros cuadrados de superficie: 42
+
+381 a 500 metros cuadrados de superficie: 60
+
+Se cobrarán 20 salarios mínimos adicionales por cada 500 metros cuadrados de superficie o fracción que exceda los primeros 500 metros cuadrados de superficie de los rubros mencionados.
+
+II. Por impartición de cada curso de capacitación a personas físicas o morales, se cobrará en salarios mínimos:
+
+Persona física: 2
+
+Persona moral: 60
+
+III. Por registro como tercero acreditado que por su actividad y experiencia se vinculen con la protección civil, para llevar a cabo cursos de capacitación, estudios de riesgo y vulnerabilidad, programas internos y especiales:
+
+Persona física: 25
+
+IV. Renovación de registro como terceros acreditados.
+
+Persona física: 12
+
+V. Por la autorización de programas especiales de Protección Civil que se presenten para la realización de un evento o espectáculo en el municipio de Alvarado, para promotores particulares, se pagará:
+
+Aforo del evento:
+
+De 1 a 1,000 asistentes: 40
+
+De 1,001 a 5,000 asistentes: 60
+
+De 5,001 a 10,000 asistentes: 80
+
+De 10,001 en adelante: 90
 
 ## TÍTULO TERCERO. DE LAS CONTRIBUCIONES POR MEJORAS
 
-### CAPÍTULO I. DISPOSICIONES GENERALES DEL SERVICIO DE TESORERÍA
+### CAPÍTULO ÚNICO
 
 ###### Artículo 249.
 
@@ -2995,7 +3419,7 @@ Los ingresos extraordinarios se causarán y recaudarán de conformidad con los o
 
 ## TÍTULO PRIMERO. DE LOS SERVICIOS DE TESORERÍA
 
-### CAPÍTULO II. DE LOS PAGOS Y MINISTRACIONES
+### CAPÍTULO I. DISPOSICIONES GENERALES DEL SERVICIO DE TESORERÍA
 
 ###### Artículo 270.
 
@@ -3053,7 +3477,7 @@ El servicio de recaudación y concentración de fondos podrá efectuarse por con
 
 Las instituciones bancarias, crediticias o comerciales pagarán intereses, por concepto de indemnización, en caso de entrega o concentración extemporánea de fondos, conforme a la tasa que al respecto determine la Tesorería, misma que se establecerá en los contratos que con ellos se celebren.
 
-### CAPÍTULO III. DE LA PRESCRIPCIÓN DE FONDOS Y CRÉDITOS
+### CAPÍTULO II. DE LOS PAGOS Y MINISTRACIONES
 
 ###### Artículo 275.
 
@@ -3069,13 +3493,13 @@ Los Ayuntamientos acordarán anualmente las remuneraciones para sus integrantes 
 
 La Tesorería y las entidades solamente autorizarán el pago de anticipos que estén previstos en las disposiciones legales aplicables. Todo pago o salida de valores se registrará en la contabilidad de la Tesorería y de las correspondientes entidades.
 
-### CAPÍTULO IV. DE LAS GARANTÍAS A FAVOR O A CARGO DEL MUNICIPIO
+### CAPÍTULO III. DE LA PRESCRIPCIÓN DE FONDOS Y CRÉDITOS
 
 ###### Artículo 278.
 
 Los depósitos al cuidado o a disposición del Ayuntamiento, constituidos en dinero o en valores, prescribirán en los mismos términos del crédito fiscal, según dispone el presente Código. En los asuntos sobre los cuales se hayan constituido depósitos, que no se hubieren exigido por determinación judicial a favor de beneficiario, la Tesorería tendrá en cuenta el plazo fijado en el párrafo anterior y declarará de oficio la prescripción, así como la disposición de los depósitos respectivos a beneficio del fisco municipal. Cuando no sea posible determinar la fecha en que legalmente pudo exigirse la devolución del depósito, se tomará como base la de la constitución del mismo, para efectos de la prescripción. Los depósitos de los particulares en las cuentas del Ayuntamiento no generarán intereses a favor de quien los haya constituido o de sus beneficiarios.
 
-### CAPÍTULO V. DE LA CUSTODIA Y VIGILANCIA DE FONDOS Y VALORES
+### CAPÍTULO IV. DE LAS GARANTÍAS A FAVOR O A CARGO DEL MUNICIPIO
 
 ###### Artículo 279.
 
@@ -3099,7 +3523,7 @@ La garantía del interés fiscal se constituirá en los casos y con las formalid
 
 Las garantías que reciba el Ayuntamiento por contratos administrativos, en concurso de obras y adquisiciones, anticipos, permisos, autorizaciones, concesiones y otras obligaciones de naturaleza no fiscal, se otorgarán a nombre del Municipio de que se trate, y se constituirán conforme a las formalidades que señalen las disposiciones legales aplicables. Las garantías a que alude el párrafo anterior se podrán hacer efectivas por la Tesorería o la Sindicatura, con sujeción a los procedimientos que establezcan los ordenamientos legales de la materia.
 
-### CAPÍTULO VI. DE LA COLABORACIÓN ADMINISTRATIVA
+### CAPÍTULO V. DE LA CUSTODIA Y VIGILANCIA DE FONDOS Y VALORES
 
 ###### Artículo 284.
 
@@ -3169,7 +3593,7 @@ I. Si es sobrante, ordenará su registro en la contabilidad, haciéndolo del con
 
 II. Cuando sea faltante, requerirá al responsable para que efectúe el reintegro en el acto; si el responsable justifica satisfactoriamente la razón del mismo, únicamente dará cuenta pormenorizada a la Tesorería. Si no lo justifica debidamente o no lo restituye, independientemente de cuidar que en el primer supuesto se dé entrada a las cantidades o valores faltantes, informará a la Contraloría o su equivalente, para los efectos que procedan conforme a la ley.
 
-### CAPÍTULO I. DEL PRESUPUESTO DE EGRESOS
+### CAPÍTULO VI. DE LA COLABORACIÓN ADMINISTRATIVA
 
 ###### Artículo 295.
 
@@ -3185,7 +3609,7 @@ Los Convenios de Colaboración Administrativa que comprometan al Municipio por u
 
 ## TÍTULO SEGUNDO. DEL PRESUPUESTO DE EGRESOS Y GASTO PÚBLICO
 
-### CAPÍTULO II. DEL GASTO PÚBLICO
+### CAPÍTULO I. DEL PRESUPUESTO DE EGRESOS
 
 #### SECCIÓN I. DE LA INTEGRACIÓN Y ESTRUCTURA DEL PRESUPUESTO DE EGRESOS
 
@@ -3285,7 +3709,7 @@ Cuando, con posterioridad a la aprobación del presupuesto, surjan situaciones e
 
 La formulación de los programas institucionales se sujetará a la estructura programática aprobada por la Tesorería, de conformidad con los lineamientos que para tales fines expida.
 
-### CAPÍTULO III. DE LA ADMINISTRACIÓN DE LOS RECURSOS
+### CAPÍTULO II. DEL GASTO PÚBLICO
 
 #### SECCIÓN ÚNICA. DEL EJERCICIO DEL GASTO PÚBLICO MUNICIPAL
 
@@ -3337,7 +3761,7 @@ El Cabildo determinará la forma en que deberán invertirse los subsidios que ot
 
 El Cabildo podrá autorizar la participación municipal en empresas, sociedades y asociaciones civiles y mercantiles, ya sea para su creación o para la adquisición de todo o parte de su capital social o su patrimonio, previa autorización del Congreso.
 
-### CAPÍTULO IV. DE LA CONTABILIDAD Y CUENTA PÚBLICA
+### CAPÍTULO III. DE LA ADMINISTRACIÓN DE LOS RECURSOS
 
 #### SECCIÓN I. DISPOSICIONES GENERALES EN MATERIA DE ADMINISTRACIÓN DE RECURSOS PÚBLICOS
 
@@ -3497,7 +3921,7 @@ El Ayuntamiento y entidades no comprometerán los recursos del capítulo de serv
 
 Si existen contratos por honorarios, no incrementarán sus percepciones ni obtendrán percepciones adicionales a las establecidas en el contrato respectivo.
 
-### CAPÍTULO V. DEL CONTROL Y EVALUACIÓN DEL GASTO PÚBLICO
+### CAPÍTULO IV. DE LA CONTABILIDAD Y CUENTA PÚBLICA
 
 #### SECCIÓN I. DE LA CONTABILIDAD GUBERNAMENTAL
 
@@ -3669,7 +4093,7 @@ La Comisión de Hacienda, en coordinación con la Tesorería, someterá a la con
 
 El Ayuntamiento presentará al Congreso, para su estudio, dictamen y aprobación, la cuenta pública del ejercicio presupuestal inmediato anterior, en los plazos establecidos en la ley de la materia. De no presentar en tiempo la cuenta pública al Congreso, el presidente, los integrantes de la Comisión de Hacienda y el tesorero serán penalmente responsables por el delito de abuso de autoridad o incumplimiento del deber legal. La Dirección de Servicios Jurídicos del Congreso presentará de oficio la denuncia ante el Ministerio Público.
 
-### CAPÍTULO I. DISPOSICIONES PRELIMINARES
+### CAPÍTULO V. DEL CONTROL Y EVALUACIÓN DEL GASTO PÚBLICO
 
 #### SECCIÓN I. DEL CONTROL Y EVALUACIÓN
 
@@ -3815,7 +4239,7 @@ Las dependencias y entidades proporcionarán los informes, documentos y, en gene
 
 ## TÍTULO ÚNICO
 
-### CAPÍTULO II. DE LAS FACULTADES DE LAS AUTORIDADES EN MATERIA DE DEUDA
+### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 399.
 
@@ -3867,7 +4291,7 @@ La deuda pública que contrate el Municipio será ordinaria y extraordinaria. La
 
 También se considera deuda extraordinaria la que autorice el H. Congreso del Estado mediante decretos posteriores al inicio del ejercicio para la contratación de financiamientos que se destinen a inversiones públicas productivas.
 
-### CAPÍTULO III. DE LA PROGRAMACIÓN DE LA DEUDA PÚBLICA
+### CAPÍTULO II. DE LAS FACULTADES DE LAS AUTORIDADES EN MATERIA DE DEUDA
 
 ###### Artículo 406.
 
@@ -3899,7 +4323,7 @@ XI. Las demás que le atribuya este ordenamiento, las que le sean delegadas conf
 
 Los titulares de las entidades a que se refieren las fracciones II a IV del artículo 400 de este Código, ejercerán en el ámbito de su competencia y en lo conducente, las atribuciones enumeradas, y, adicionalmente, se encontrarán obligados a informar a la Tesorería, del estado que guarda la deuda que contraten, para los efectos de la fracción VIII de este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE JULIO DE 2008)</small>
 
 ###### Artículo 407.
 
@@ -3947,7 +4371,7 @@ VI. Las demás que le confieran este Código y otras leyes.
 
 A fin de que las entidades a que refieren las fracciones II a IV del artículo 400 de este Código, puedan obtener autorización del Ayuntamiento para la contratación de financiamientos en el caso previsto en la fracción II del artículo 406, deberán proporcionar a la Tesorería sus programas financieros y la información que arroje su capacidad de pago, así como toda aquélla que se les solicite, a fin de determinar sus necesidades de crédito y la viabilidad de su pago.
 
-### CAPÍTULO IV. DE LA CONTRATACIÓN DE LOS FINANCIAMIENTOS
+### CAPÍTULO III. DE LA PROGRAMACIÓN DE LA DEUDA PÚBLICA
 
 ###### Artículo 410.
 
@@ -3981,9 +4405,7 @@ XII. Los demás requisitos que fije el Congreso.
 
 El Ayuntamiento, al someter al Congreso el proyecto de Ley de Ingresos, propondrá los montos del endeudamiento neto necesario y acompañará su programa de financiamiento, mismo que contendrá los elementos de juicio suficientes para fundamentar su propuesta, entre los que se encontrará la indicación clara de los recursos que se utilizarán para el pago de los financiamientos.
 
-### CAPÍTULO V. DE LAS GARANTÍAS Y FUENTES DE PAGO
-
-> <small>(REFORMADO, G.O. 25 DE JULIO DE 2008)</small>
+### CAPÍTULO IV. DE LA CONTRATACIÓN DE LOS FINANCIAMIENTOS
 
 ###### Artículo 412.
 
@@ -4037,9 +4459,11 @@ Las entidades mencionadas en las fracciones II a IV del artículo 400 de este C�
 
 Cuando el Municipio se coordine o asocie a otro o al Estado para la prestación de servicios municipales, se podrán contratar en forma consolidada las operaciones a que se refiere el presente ordenamiento, pero se establecerán por separado las obligaciones a cargo de cada participante y de esta forma se inscribirán en el Registro de Deuda Pública Municipal o Estatal, en su caso.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 25 DE JULIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE JULIO DE 2008)</small>
 
-### CAPÍTULO VI. DE LA VIGILANCIA Y REGISTRO DE LAS OPERACIONES DE FINANCIAMIENTO
+### CAPÍTULO V. DE LAS GARANTÍAS Y FUENTES DE PAGO
+
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2008)</small>
 
 ###### Artículo 422.
 
@@ -4073,7 +4497,7 @@ VI. Que el Ayuntamiento esté al corriente en el cumplimiento de sus obligacione
 
 Todo esto sin perjuicio de los requisitos que para tal efecto señale el Código Financiero para el Estado.
 
-### CAPÍTULO VII. DE LA AFECTACIÓN DE INGRESOS DERIVADOS DE LA COORDINACIÓN FISCAL
+### CAPÍTULO VI. DE LA VIGILANCIA Y REGISTRO DE LAS OPERACIONES DE FINANCIAMIENTO
 
 ###### Artículo 425.
 
@@ -4149,9 +4573,9 @@ La inscripción en el Registro de Deuda Pública Municipal de las obligaciones a
 
 Las operaciones de crédito autorizadas, sólo podrán modificarse con los mismos requisitos y formalidades relativos a su autorización.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 25 DE JULIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE JULIO DE 2008)</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VII. DE LA AFECTACIÓN DE INGRESOS DERIVADOS DE LA COORDINACIÓN FISCAL
 
 ###### Artículo 436.
 
@@ -4177,7 +4601,7 @@ Para todo lo no previsto en este Libro se estará a lo que señale el Código Fi
 
 ## TÍTULO PRIMERO. DE LOS BIENES EN GENERAL
 
-### CAPÍTULO II. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 438.
 
@@ -4249,7 +4673,7 @@ Los actos de adquisición, administración, uso, aprovechamiento, explotación o
 
 Los actos de planeación, programación, adquisición, almacenaje, control, destino, baja y arrendamiento; así como los procedimientos de rescisión administrativa y de enajenación de bienes muebles municipales se regirán por la ley de la materia.
 
-### CAPÍTULO III. DEL INVENTARIO
+### CAPÍTULO II. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
 ###### Artículo 446.
 
@@ -4279,7 +4703,7 @@ XI. Determinar el valor de los lotes de su propiedad susceptibles de enajenació
 
 XII. Las demás que les señalen la Constitución, el presente Código y demás leyes aplicables.
 
-### CAPÍTULO I. DE LOS BIENES MUEBLES
+### CAPÍTULO III. DEL INVENTARIO
 
 ###### Artículo 447.
 
@@ -4313,7 +4737,7 @@ La Comisión de Hacienda, de conformidad con lo establecido en la Ley Orgánica 
 
 ## TÍTULO SEGUNDO. DEL DOMINIO Y ADMINISTRACIÓN DE LOS BIENES
 
-### CAPITULO II. DE LOS BIENES INMUEBLES
+### CAPÍTULO I. DE LOS BIENES MUEBLES
 
 ###### Artículo 451.
 
@@ -4323,7 +4747,7 @@ El Ayuntamiento, con apoyo en la Comisión de Hacienda, expedirá las normas rel
 
 Las enajenaciones de los bienes muebles no podrán realizarse a favor de los servidores públicos municipales que, en cualquier forma, intervengan en los actos relativos, ni de sus cónyuges o parientes consanguíneos y por afinidad hasta el cuarto grado, o de terceros con los que dichos servidores tengan vínculos privados o de negocios. Las enajenaciones que se realicen en contravención a ello serán causa de responsabilidad y serán nulos de pleno derecho.
 
-### CAPÍTULO ÚNICO. DE LA RESCISIÓN ADMINISTRATIVA
+### CAPITULO II. DE LOS BIENES INMUEBLES
 
 ###### Artículo 453.
 
@@ -4509,6 +4933,8 @@ V. El acuerdo declarativo será publicado por única vez en la tabla de avisos d
 
 ## TÍTULO TERCERO
 
+### CAPÍTULO ÚNICO. DE LA RESCISIÓN ADMINISTRATIVA
+
 ###### Artículo 483.
 
 Son causas de rescisión administrativa:
@@ -4588,3 +5014,11 @@ G.O. 13 DE MARZO DE 2015.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+G.O. 5 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 898 POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO NÚMERO 553 HACENDARIO PARA EL MUNICIPIO DE ALVARADO, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
