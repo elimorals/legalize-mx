@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-preservacion-del-patrimonio-cultural-del-estado-de-3075"
 country: "mx"
 rank: "ley"
 publication_date: "1995-08-18"
-last_updated: "2012-09-21"
+last_updated: "2016-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3075&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PRESERVACIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 18 de agosto de 1995.
 
@@ -147,17 +147,19 @@ II.- Las demás leyes locales, relacionadas con las materias que regula esta ley
 
 ### CAPITULO II. DE LAS AUTORIDADES Y ORGANOS DE APOYO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 9.
 
-La aplicación de esta ley corresponde a:
+La aplicación de esta Ley corresponde a:
 
 I.- El Gobernador del Estado;
 
 II.- La Secretaría General de Gobierno;
 
-III.- La Secretaría de Asentamientos Humanos y Obras Públicas del Estado;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+III.- La Secretaría de Infraestructura y de Desarrollo Urbano del Estado;
 
 IV.- El Instituto de Cultura de Baja California;
 
@@ -219,13 +221,15 @@ VIII.- Ejercer todas las demás facultades conferidas por las disposiciones fede
 
 La Secretaría General de Gobierno será la encargada de formular las iniciativas que deban convertirse en decretos del Ejecutivo del Estado según convenga para su aplicación conforme a la ley, en base a los expedientes integrados por el Instituto de Cultura de Baja California.
 
-#### SECCION TERCERA. DE LA SECRETARIA DE ASENTAMIENTOS HUMANOS Y OBRAS PUBLICAS DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE AGOSTO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+#### SECCIÓN TERCERA. DE LA SECRETARÍA DE INFRAESTRUCTURA Y DE DESARROLLO URBANO DEL ESTADO
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 13.
 
-La Secretaría de Asentamientos Humanos y Obras Públicas del Estado estará encargada de establecer todas las medidas necesarias a efecto de que, dentro del marco de su competencia, se preserve el valor cultural de los bienes y zonas señaladas en la presente ley.
+La Secretaría de Infraestructura y de Desarrollo Urbano del Estado estará encargada de establecer todas las medidas necesarias a efecto de que, dentro del marco de su competencia, se preserve el valor cultural de los bienes y zonas señaladas en la presente ley.
 
 #### SECCION CUARTA. DE LAS AUTORIDADES ESTATALES Y MUNICIPALES
 
@@ -289,9 +293,13 @@ VII.- Actuar como Secretario Técnico del Consejo del Patrimonio Cultural de Baj
 
 VIII.- Cumplir y vigilar que las demás autoridades cumplan y hagan cumplir las disposiciones de esta Ley;
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2016)</small>
 
-IX.- Difundir y promocionar mediante un informe detallado ante la comunidad estatal, por medio de un boletín anual y en un diario de mayor circulación en la entidad, la existencia de los bienes que forman parte del patrimonio cultural, los alcances y logros obtenidos por el Consejo y las Comisiones de preservación del patrimonio cultural, así como los recursos financieros ejercidos.
+IX.- Elaborar y difundir un informe detallado en el que dará a conocer los bienes que forman parte del patrimonio cultural de la Entidad, los alcances y logros obtenidos por el Consejo del Patrimonio Cultural de Baja California y las Comisiones de Preservación del Patrimonio Cultural Municipales, así como los recursos presupuestales ejercidos en relación a las atribuciones que les confiere esta ley.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+El informe a que hace mención esta fracción deberá estar publicado permanentemente en la página de internet del Instituto; adicionalmente, podrá difundir dicho informe, o un resumen del mismo, por otros medios de comunicación de acuerdo a la disponibilidad presupuestal; esta información estará disponible de oficio en los términos que establece la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y se deberá actualizar al menos una vez cada tres meses.
 
 X.- Expedir las aprobaciones a las que hace referencia el capítulo décimo primero de esta ley;
 
@@ -387,21 +395,21 @@ I.- El Gobernador del Estado, quien presidirá el Consejo;
 
 II.- El Director General del Instituto de Cultura de Baja California, quien además será el Secretario técnico y quien actuará como presidente de las sesiones en caso de ausencia del Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
 
-III.- El Secretario de Educación y Bienestar Social;
+III.- El Titular de la Secretaría de Educación y Bienestar Social;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
 
-IV.- El Secretario de Planeación y Finanzas;
+IV.- El Titular de la Secretaría de Planeación y Finanzas;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
 
-V.- El Secretario de Asentamientos Humanos y Obras Públicas;
+V.- El titular de la Secretaría de Infraestructura y desarrollo Urbano;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
 
-VI.- El Secretario de Turismo;
+VI.- El titular de la Secretaría de Turismo;
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
@@ -423,13 +431,13 @@ X.- Un representante de cada uno de los Colegios de Ingenieros Civiles registrad
 
 XI.- Un representante de los organismos y asociaciones civiles legalmente constituidas, que tengan como fin o interés la defensa y preservación del Patrimonio Cultural y que estén debidamente acreditados ante el Instituto de Cultura de Baja California, y
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
 
-XII.- Un Diputado Representante del Poder legislativo; y
+XII.- Un Diputado integrante de la Comisión de Educación, Cultura, Ciencia y Tecnología del Congreso del Estado de baja California;
 
-> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
 
-XIII.- El Secretario de Protección al Ambiente.
+XIII.- El Titular de la Secretaría de Protección al Ambiente.
 
 XIV.- (DEROGADA, P.O. 6 DE NOVIEMBRE DE 1998)
 
@@ -613,9 +621,11 @@ En todo lo que no se encuentre contemplado en el presente capítulo, se aplicar�
 
 ### CAPITULO IV. PATRIMONIO CULTURAL POR DISPOSICION DE LEY
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 40.
 
-Por disposición de esta Ley, queda adscrito al Patrimonio Cultural Baja Californiano:
+Por disposición de esta Ley, queda adscrito al Patrimonio Cultural de Baja California:
 
 I.- Los idiomas de las etnias originarias de Baja California;
 
@@ -627,7 +637,9 @@ III.- El idioma de las etnias de migrantes radicados en Baja California;
 
 IV.- El nombre de Baja California como topónimo del Estado de Baja California para fines oficiales;
 
-V.- La toponimia baja californiana de: asentamientos humanos, orografía, hidrografía continental, costera y marítima contenida en el nomenclátor de Baja California de la Secretaría de Desarrollo Social y en el Instituto Nacional de Estadística, Geografía e Informática, así como toda aquella toponimia, que existía en la entidad y no esté contenida en el documento citado;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+V.- La toponimia bajacaliforniana de: asentamientos humanos, orografía, hidrografía continental, costera y marítima contenida en el nomenclátor de Baja California de la Secretaría de Desarrollo Social y en el Instituto Nacional de Estadística y Geografía, así como toda aquella toponimia, que existía en la entidad y no este contenida en el documento citado.
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
@@ -735,13 +747,15 @@ El Instituto de Cultura de Baja California, en coordinación con el Consejo del 
 
 El Instituto de Cultura de Baja California promoverá la difusión de los nombres y designaciones originales otorgadas a los lugares y accidentes geográficos de Baja California y el estudio de sus significados culturales de acuerdo al artículo 5 fracción VII, inciso d) de esta ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 56.
 
-Se crea dentro del Registro Público de la Propiedad del Estado una sección que se denominará "Registro Público del Patrimonio Cultural", en el que se inscribirán la declaratoria y demás actos jurídicos relacionados con los bienes que sean objeto de regulación por la presente ley.
+Se crea dentro del Registro Público de la Propiedad y de Comercio del Estado de Baja California, una sección que se denominará "Registro Público del Patrimonio Cultural", en el que se inscribirán la declaratoria y demás actos jurídicos relacionados con los bienes que sean objeto de regulación por la presente ley.
 
-> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
-Dicha información será a petición del interesado, pública, gratuita y de fácil acceso.
+La información del Registro Público del Patrimonio Cultural deberá ser accesible en forma permanente desde la página de internet del Registro Público de la Propiedad y del Comercio; además de los que establezca la Ley del Registro Público de la Propiedad y de Comercio del Estado de Baja California.
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
@@ -780,6 +794,10 @@ El Registro Público de la Propiedad respectivo, deberá proporcionar un informe
 ###### ARTICULO 62.
 
 El Instituto elaborará y difundirá un catálogo estatal que contenga la descripción ilustrada y detallada de las tradiciones, costumbres, alimentos y trajes típicos propios del Estado; así como los sitios históricos de interés por sus edificios, monumentos, museos, pinturas, vestigios y estructuras; zonas protegidas y zonas de entorno del territorio de Baja California que sean parte de su patrimonio cultural.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+El catálogo al que hace mención este artículo deberá estar publicado permanentemente en la página de internet del Instituto.
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO TERCERO DEL DECRETO DE REFORMAS EL LEGISLADOR ESTABLECE QUE SE REDUCEN LOS CAPÍTULOS VIII A XV PARA QUEDAR VIII A XIII.</small>
 
@@ -903,15 +921,17 @@ II.- En caso necesario, el Instituto de Cultura de Baja California, promoverá l
 
 ARTICULO 72 TER.- El Gobierno del Estado y los Ayuntamientos incluirán en sus planes de desarrollo y programas de inversión, la compra, restauración y utilización de edificios históricos abandonados, en la medida en que estos puedan resolver sus necesidades de espacio antes de proceder a construir nuevos inmuebles.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
-ARTICULO 72 QUARTER.- El Instituto de Cultura de Baja California promoverá la adquisición, por medio de comodato, donación expropiación o transferencia de derechos, de edificios, estructuras y zonas de valor histórico y natural para su preservación, de acuerdo a lo dispuesto en el artículo 2 de la presente ley.
+ARTICULO 72 QUARTER.- El Instituto de Cultura de Baja California promoverá la adquisición, por medio de comodato, donación expropiación o transferencia de derechos, de edificios, estructuras y zonas de valor histórico y natural para su preservación, de acuerdo a lo dispuesto en la presente ley.
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
 ARTICULO 72 QUINQUIES.- El Instituto de Cultura de Baja California, aplicará medidas de emergencia para evitar demoliciones, alteraciones o modificaciones en inmuebles o bienes susceptibles de declararse patrimonio cultural del Estado, siempre que reúnan valores históricos, artísticos o culturales de acuerdo a los criterios establecidos por el Instituto de Cultura en coordinación, con el Consejo del Patrimonio Cultural.
 
-La emisión de una orden de preservación inmediata podrá ser promovida de oficio o a petición de parte. Esta medida detendrá el proceso de demolición o afectación por tres meses, durante los cuales se iniciará el procedimiento ordinario para la emisión de la declaratoria, con base en las disposiciones contempladas en el artículo treinta de esta ley.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+La emisión de una orden de preservación inmediata podrá ser promovida de oficio o a petición de parte. Esta medida detendrá el proceso de demolición o afectación hasta por tres meses a partir de su emisión, durante los cuales se iniciará el procedimiento ordinario para la emisión de la declaratoria, con base en las disposiciones contempladas en el artículo treinta de esta Ley.
 
 Quedan exentos de esta medida aquellos edificios, estructuras y objetos que amenacen con derrumbarse, mediante dictaminación de un asesor acreditado por el Instituto de Cultura de Baja California.
 
@@ -985,11 +1005,11 @@ El programa de preservación del patrimonio cultural de Baja California, será p
 
 ### CAPITULO XI. DEL APOYO DE LAS AUTORIDADES ESTATALES Y MUNICIPALES EN LA PRESERVACION DE LOS MONUMENTOS Y ZONAS ARQUEOLOGICAS, HISTORICOS Y ARTISTICOS
 
-> <small>(REFORMADO Y REUBICADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 77.
 
-Las disposiciones contenidas en el presente capítulo tiene (sic) por objeto establecer medidas de cooperación del Gobierno del Estado con autoridades federales en la preservación del patrimonio cultural del Estado. Por lo tanto, las mismas no excluyen a cualquier particular de ejercer sus derechos en los términos de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Históricos y Artísticos.
+Las disposiciones contenidas en el presente capítulo tienen por objeto establecer medidas de cooperación del Gobierno del Estado con Autoridades Federales en la Preservación del Patrimonio Cultural del Estado. Por lo tanto, las mismas no excluyen a cualquier particular de ejercer sus derechos en los términos de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
@@ -1015,9 +1035,9 @@ I.- Proponer la adscripción de un bien valor al Patrimonio Cultural del Estado 
 
 II.- Proponer de manera fundamentada que se excluya un bien valor adscrito al citado patrimonio;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
 
-III.- Proponer iniciativas sobre cualquier asunto o tema relacionado con el Patrimonio Cultural, y
+III.- Proponer acciones al Instituto sobre cualquier asunto o tema relacionado con el Patrimonio Cultural, y
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
@@ -1199,7 +1219,9 @@ Se aplicará la clausura definitiva cuando la obra no cuente con el permiso corr
 
 Procederá la demolición o reparación del daño causado, cuando el propietario o poseedor agregue o construya adicionalmente y sin el permiso respectivo, elementos arquitectónicos o de cualquier tipo, en un inmueble comprendido en las fracciones I a VI del artículo 4 de esta ley.
 
-Los gastos derivados de las obras de demolición así como por reparación del daño causado serán a cargo del infractor. En caso de rebeldía será el Municipio quien los realice, constituyendo un crédito fiscal a cargo del infractor, en los términos de la legislación tributaria aplicable.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+Los gastos derivados de las obras de demolición así como por reparación del daño causado serán a cargo del infractor. En caso de rebeldía será el Municipio respectivo quien los realice, constituyendo un crédito fiscal a cargo del infractor, en los términos de la legislación tributaria aplicable.
 
 Para la ejecución de cualquiera de estas sanciones, el Instituto de Cultura de Baja California, en coordinación con los cuerpos de Seguridad Pública y Tránsito podrá solicitar el auxilio de la fuerza pública.
 
@@ -1304,3 +1326,9 @@ El reglamento de la Ley del Patrimonio Cultural del Estado de Baja California y 
 P.O. 21 DE SEPTIEMBRE DE 2012.
 
 ÚNICO: Las presentes reformas entraran en vigor al día siguiente de su publicación en el periódico oficial, órgano de difusión del Gobierno Constitucional del Estado Baja California.
+
+P.O. 5 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 529 MEDIANTE EL CUAL SE APRUEBAN REFORMAS Y ADICIONES A LA LEY DE PRESERVACIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
