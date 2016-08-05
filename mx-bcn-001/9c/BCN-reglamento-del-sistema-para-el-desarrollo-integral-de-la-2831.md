@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-sistema-para-el-desarrollo-integral-de-la-2831"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-05-13"
-last_updated: "2015-08-28"
+last_updated: "2016-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,11 @@ state: "BCN"
 ---
 # REGLAMENTO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 5 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 13 de mayo de 1994.
 
@@ -593,3 +595,19 @@ Las presentes reformas entrarán en vigor al mismo tiempo que el Reglamento para
 ###### ARTÍCULO SEGUNDO.
 
 A efecto de dar cumplimiento a la creación de la nueva área de evaluación psicológica, el Sistema para el Desarrollo Integral de la Familia del Municipio de Ensenada, deberá tomar las medidas presupuestales necesarias durante el ejercicio fiscal actual, con respeto a la normatividad aplicable, asimismo para el siguiente ejercicio fiscal, promoviendo ante la Tesorería y la Dirección de Finanzas municipales, las medidas a tomar.
+
+P.O. 5 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA DICTAMEN 019/2016, RELATIVO A ABROGAR EL REGLAMENTO PARA EL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, PUBLICADO EN EL PERIÓDICO OFICIAL EN FECHA 13 DE MAYO DE 1994, Y CREAR EL NUEVO REGLAMENTO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial del estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente reglamento, se abroga el Reglamento del Sistema para el Desarrollo Integral de la Familia del Municipio de Ensenada, Baja California, publicado en el Periódico Oficial del estado de Baja California, con fecha 13 de mayo de 1994, quedando vigente únicamente el presente reglamento.
+
+###### ARTÍCULO TERCERO.
+
+El artículo 21 del presente Reglamento relativo a la integración del Síndico Procurador como miembro del Consejo, será aplicable a partir de la administración entrante.
