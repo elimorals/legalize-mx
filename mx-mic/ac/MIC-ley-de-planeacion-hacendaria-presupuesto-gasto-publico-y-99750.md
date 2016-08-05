@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-planeacion-hacendaria-presupuesto-gasto-publico-y-99750"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-20"
-last_updated: "2014-03-20"
+last_updated: "2016-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY DE PLANEACION HACENDARIA, PRESUPUESTO, GASTO PUBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO DE REFORMAS NÚMERO 166 PUBLICADO EN EL P.O. 5 DE AGOSTO DE 2016, VÉASE TRANSITORIO SEXTO, CON LAS SALVEDADES PREVISTAS EN LOS TRANSITORIOS SÉPTIMO AL DÉCIMO TERCERO DE DICHO DECRETO.]</small>
+
 LEY DE PLANEACIÓN HACENDARIA, PRESUPUESTO, GASTO PÚBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 20 de marzo de 2014.
 
@@ -47,83 +49,113 @@ LEY DE PLANEACIÓN HACENDARIA, PRESUPUESTO, GASTO PÚBLICO Y CONTABILIDAD GUBERN
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 1°.
 
-La presente Ley es de orden público, de observancia obligatoria y tiene por objeto reglamentar lo dispuesto por la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, en materia de planeación hacendaria, programación, presupuesto, ejercicio y control de los recursos presupuestarios del Estado, contabilidad, control, vigilancia y evaluación, del Gasto Público que ejerzan los Entes Públicos bajo los principios de legalidad, eficiencia, eficacia, calidad en el servicio, economía, transparencia, honestidad, racionalidad, austeridad, rendición de cuentas y equidad de género observando lo estipulado en la Ley General de Contabilidad Gubernamental, así como los reglamentos correspondientes y las Normas y Lineamientos que emita el Consejo Nacional de Armonización Contable; en coadyuvancia con el Consejo Estatal de Armonización Contable para su difusión e implementación.
+La presente Ley es de orden público, de observancia obligatoria y tiene por objeto reglamentar lo dispuesto por la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, en materia de planeación hacendaria, programación, presupuesto, ejercicio y control de los recursos presupuestarios del Estado, contabilidad, control, vigilancia y evaluación del Gasto Público que ejerzan los Entes Públicos bajo los principios de legalidad, eficiencia, eficacia, calidad en el servicio, economía, transparencia, honestidad, racionalidad, austeridad, control, rendición de cuentas y equidad de género observando lo estipulado en la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, así como los reglamentos correspondientes y las Normas y Lineamientos que emita el Consejo Nacional de Armonización Contable; en coadyuvancia con el Consejo Estatal de Armonización Contable para su difusión e implementación.
 
-Los Entes Públicos que ejerzan recursos de origen federal, adicionalmente deberán observar las disposiciones contenidas en la Ley de Coordinación Fiscal; la Ley Federal de Presupuesto y Responsabilidad Hacendaria y sus respectivos reglamentos, así como la normatividad aplicable en la materia.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+Los Entes Públicos y/o privados que ejerzan recursos de origen federal, adicionalmente deberán observar las disposiciones contenidas en la Ley de Coordinación Fiscal; la Ley Federal de Presupuesto y Responsabilidad Hacendaria y sus respectivos reglamentos, así como la normatividad aplicable en la materia.
 
 La Auditoría Superior de Michoacán, fiscalizará el estricto cumplimiento de las disposiciones de esta Ley por parte de los sujetos obligados, conforme a lo regulado por la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo; la Ley de Fiscalización Superior para el Estado de Michoacán de Ocampo y su propio Reglamento Interior.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 2°.
 
-Para los efectos de la presente Ley, se entenderá:
+Para los efectos de la presente Ley, se entenderá por:
 
-I. Auditoría: La Auditoría Superior de Michoacán;
+I. Armonización: La revisión, reestructuración y compatibilización de los modelos contables vigentes a nivel nacional, a partir de la adecuación y fortalecimiento de las disposiciones jurídicas que las rigen, de los procedimientos para el registro de las operaciones, de la información que deben generar los sistemas de contabilidad gubernamental, y de las características y contenidos de los principales informes de rendición de cuentas;
 
-II. Congreso: El Congreso del Estado de Michoacán de Ocampo;
+II. Auditoría: La Auditoría Superior de Michoacán;
 
-III. CONAC: El Consejo Nacional de Armonización Contable;
+III. Asociaciones Público-Privadas: Las previstas en la Ley de Asociaciones Público Privadas para el Estado de Michoacán de Ocampo;
 
-IV Consejo: El Consejo Estatal de Armonización Contable del Estado de Michoacán; (COEAC); que se creó mediante el Acuerdo emitido por el Ejecutivo del Estado y publicado en Periódico Oficial el día 4 de julio del 2011, Cuarta Sección; Es el Órgano de coordinación para la armonización de la contabilidad gubernamental, con la finalidad de difundir y aplicar las normas contables y lineamientos emitidos por el Consejo Nacional de Armonización Contable (CONAC), así como de coordinar armonizar la información financiera, pública de los poderes legislativo, ejecutivo, judicial y Organismos Autónomos y municipios del Estado de Michoacán de Ocampo, con base a dichas normas y lineamientos;
+IV. Balance presupuestario: La diferencia entre los Ingresos totales incluidos en la Ley de Ingresos y los Gastos totales considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;
 
-V. Coordinación de Contraloría: Es el órgano interno de control del poder ejecutivo responsable de fijar las normas de control, evaluación, fiscalización, contabilidad y auditoría, que deben observar las dependencias y entidades de la Administración Pública Estatal;
+V. Balance presupuestario de recursos disponibles: La diferencia entre los Ingresos de libre disposición, incluidos en la Ley de Ingresos, más Financiamientos, y los Gastos no etiquetados considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;
 
-VI. CPLADE: La Coordinación de Planeación para el Desarrollo;
+VI. CGAP o Coordinación de Planeación: La Coordinación General de Gabinete y Planeación;
 
-VII. Dependencias: Aquellas a las que se refiere el artículo 22 de la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo;
+VII. CONAC: El Consejo Nacional de Armonización Contable;
 
-VIII. Entidades: Aquellas a las que se refieren los artículos 7° y 46 de la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo;
+VIII. Congreso: El Congreso del Estado de Michoacán de Ocampo;
 
-IX. Entidades paraestatales: Son los organismos públicos descentralizados, empresas de participación estatal, fideicomisos públicos y las que se establezcan conforme a la ley de la materia;
+IX. Contabilidad gubernamental: El registro sistematizado de las operaciones financieras, en las cuentas de activo, pasivo, patrimonio, ingreso, costo y gasto, y será llevada por la Secretaría, debiendo ajustarse a los respectivos catálogos de cuentas, cuyas listas de cuentas estarán alineadas, tanto conceptualmente como en sus principales agregados, al plan de cuentas que emita el CONAC. Para tal propósito, se tomarán en consideración las necesidades de administración financiera, así como las de control y fiscalización, observándose para tal efecto, y en lo conducente, lo dispuesto por la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y las Normas y Lineamientos que emita el CONAC;
 
-X. Ente Público: Los poderes Ejecutivo, Legislativo, Judicial, los ayuntamientos de los municipios, los órganos autónomos y las Entidades y Organismos Descentralizados de la Administración Pública en el Estado de Michoacán;
+X. Consejo: El Consejo Estatal de Armonización Contable del Estado de Michoacán;
 
-XI. Municipios: Los Ayuntamientos y sus Dependencias, Entidades y Organismos Municipales, conforme a la Ley Orgánica Municipal del Estado de Michoacán de Ocampo;
+XI. Criterios Generales de Política Económica: El documento enviado por el Ejecutivo Federal al Congreso de la Unión, en los términos del artículo 42, fracción III, inciso a), de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, el cual sirve de base para la elaboración de la Ley de Ingresos y el Presupuesto de Egresos de la Federación;
 
-XII. Organismos Autónomos: Las personas de derecho púbico con autonomía en el ejercicio de sus funciones y en su administración, como son: El Instituto Electoral del Estado de Michoacán, el Tribunal Electoral del Estado de Michoacán, la Universidad Michoacana de San Nicolás de Hidalgo, el Tribunal de Justicia Administrativa de Michoacán, Comisión Estatal de Derechos Humanos, Instituto para la Transparencia y Acceso a la Información Pública del Estado de Michoacán; y aquellos que se creen bajo la personalidad jurídica de autónomos, mediante decreto legislativo;
+XII. Cuenta pública: El documento que presentan las entidades fiscalizables al Congreso del Estado para dar cumplimiento a las disposiciones legales establecidas en la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo y relativos de la Ley de Fiscalización Superior para el Estado de Michoacán de Ocampo en materia de rendición de cuentas;
 
-XIII. Secretaría: La Secretaría de Finanzas y Administración;
+XIII. Dependencias: Aquellas a las que se refiere el artículo 17 de la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo;
 
-XIV. Armonización: La revisión, reestructuración y compatibilización de los modelos contables vigentes a nivel nacional, a partir de la adecuación y fortalecimiento de las disposiciones jurídicas que las rigen, de los procedimientos para el registro de las operaciones, de la información que deben generar los sistemas de contabilidad gubernamental, y de las características y contenidos de los principales informes de rendición de cuentas;
+XIV. Deuda contingente: Cualquier Financiamiento sin fuente o garantía de pago definida, que sea asumida de manera solidaria o subsidiaria por el Estado con sus Municipios, organismos descentralizados y empresas de participación estatal mayoritaria y fideicomisos, locales o municipales y, por los propios Municipios con sus respectivos organismos descentralizados y empresas de participación estatal mayoritaria;
 
-XV. Contabilidad gubernamental: Es el registro sistematizado de las operaciones financieras, en las cuentas de activo, pasivo, patrimonio, ingreso, costo y gasto, y será llevada por la Secretaría, debiendo ajustarse a los respectivos catálogos de cuentas, cuyas listas de cuentas estarán alineadas, tanto conceptualmente como en sus principales agregados, al plan de cuentas que emita el Consejo Nacional de Armonización Contable. Para tal propósito, se tomarán en consideración las necesidades de administración financiera, así como las de control y fiscalización, observándose para tal efecto, y en lo conducente, lo dispuesto por la Ley General de Contabilidad Gubernamental y las Normas y Lineamientos del Consejo Nacional de Armonización Contable;
+XV. Deuda Pública: Las obligaciones de pasivo, directas o contingentes, derivadas de financiamientos a cargo del Gobierno del Estado y de los municipios, en términos de las disposiciones legales aplicables, sin perjuicio de que dichas obligaciones tengan como propósito operaciones de canje o refinanciamiento;
 
-XVI. Cuenta pública: El documento que presentan las entidades fiscalizables al Congreso del Estado para dar cumplimiento a las disposiciones legales establecidas en la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo y relativos de la Ley de Fiscalización Superior para el Estado de Michoacán de Ocampo en materia de rendición de cuentas;
+XVI. Entes Públicos: Los poderes Legislativo, Ejecutivo y Judicial del Estado, los Municipios, los órganos autónomos y las Entidades de la Administración Pública del Estado de Michoacán de Ocampo, así como cualquier otro ente sobre el que el Estado y los Municipios tengan control sobre sus decisiones o acciones;
 
-XVII. Deuda pública: Las obligaciones de pasivo, directas o contingentes, derivadas de financiamientos a cargo del Gobierno del Estado y de los municipios, en términos de las disposiciones legales aplicables, sin perjuicio de que dichas obligaciones tengan como propósito operaciones de canje o refinanciamiento;
+XVII. Entidades: Aquellas a las que se refieren los artículos 7 y 40 de la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo;
 
 XVIII. Evaluación: Al análisis sistemático y objetivo de los programas coordinados por los Entes Públicos y que tienen como finalidad determinar la pertinencia y el logro de sus objetivos y metas, así como su eficiencia, eficacia, calidad, resultados, impacto y sostenibilidad;
 
-XIX. Gasto devengado: El momento contable del gasto que refleja el reconocimiento de una obligación de pago a favor de terceros por la recepción de conformidad de bienes, servicios y obras oportunamente contratados; así como de las obligaciones que derivan de tratados, leyes, decretos, resoluciones y sentencias definitivas;
+XIX. Financiamiento: Toda operación constitutiva de un pasivo, directo, indirecto o contingente, de corto, mediano o largo plazo, a cargo de los Entes Públicos, derivada de un crédito, empréstito o préstamo, incluyendo los arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente;
 
-XX. Indicadores: A la expresión cuantitativa o, en su caso, cualitativa que proporciona un medio sencillo y fiable para medir logros, reflejar los cambios vinculados con las acciones del programa, monitorear y evaluar sus resultados;
+XX. Financiamiento Neto: La diferencia entre las disposiciones realizadas de un Financiamiento y las amortizaciones efectuadas de la Deuda Pública;
 
-XXI. Ingresos de Libre Programación: Son los ingresos de origen estatal contemplados en la Ley de Hacienda del Estado de Michoacán de Ocampo y en la Ley de Ingresos del Estado para el ejercicio fiscal que corresponda, más los ingresos de origen federal que no están destinados a fines específicos;
+XXI. Fuente de pago: Los recursos utilizados por los Entes Públicos para el pago de cualquier Financiamiento u Obligación;
 
-XXII. Ley: Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo;
+XXII. Gasto corriente: Las erogaciones que no tienen como contrapartida la creación de un activo, incluyendo, de manera enunciativa, el gasto en servicios personales, materiales y suministros, y los servicios generales, así como las transferencias, asignaciones, subsidios, donativos y apoyos;
 
-XXIII. Ley de Ingresos: La Ley de Ingresos del Estado de Michoacán de Ocampo, para el ejercicio fiscal correspondiente;
+XXIII. Gasto devengado: El momento contable del gasto que refleja el reconocimiento de una obligación de pago a favor de terceros por la recepción de conformidad de bienes, servicios y obras oportunamente contratados; así como de las obligaciones que derivan de tratados, leyes, decretos, resoluciones y sentencias definitivas;
 
-XXIV. Ley de Ingresos Municipal: La Ley de Ingresos de los municipios del Estado de Michoacán de Ocampo, para el ejercicio fiscal correspondiente;
+XXIV. Gasto no etiquetado: Las erogaciones que realizan el Gobierno y (sic) del Estado y los Municipios con cargo a sus Ingresos de libre disposición y Financiamientos. En el caso de los Municipios, se excluye el gasto que realicen con recursos del Gobierno del Estado con un destino específico;
 
-XXV. Periódico Oficial: Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo;
+XXV. Gasto total: La totalidad de las erogaciones aprobadas en el Presupuesto de Egresos, con cargo a los ingresos previstos en la Ley de Ingresos, las cuales no incluyen las operaciones que darían lugar a la duplicidad en el registro del gasto;
 
-XXVI. Planeación Hacendaria. Es el proceso que consiste en la identificación y obtención de los ingresos necesarios para financiar los programas de gobierno de conformidad con los presupuestos de egresos de cada ejercicio fiscal atendiendo las disposiciones de las normas administrativas aplicables; así como el establecimiento de las políticas necesarias para administrar los bienes patrimoniales que conforman la hacienda pública;
+XXVI. Indicadores: A la expresión cuantitativa o, en su caso cualitativa que proporciona un medio sencillo y fiable para medir logros, reflejar los cambios vinculados con las acciones del programa, monitorear y evaluar sus resultados;
 
-XXVII. Presupuesto de Egresos: El Presupuesto de Egresos del Gobierno del Estado de Michoacán de Ocampo, para el ejercicio fiscal correspondiente;
+XXVII. Ingresos de Libre Disposición: Son los ingresos y las participaciones federales, así como los recursos que en su caso, se reciban del Fondo de Estabilización de los Ingresos de las Entidades Federativas en términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y cualquier otro recurso que no esté destinado a un fin específico;
 
-XXVIII. Reglamento de la Ley: Es la norma jurídica de carácter general dictada por el titular de la Administración Pública Estatal en ejercicio de sus atribuciones constitucionales, con valor subordinado a la Ley, que tiene la finalidad de precisar la manera en que se aplicarán las disposiciones de la misma a situaciones concretas;
+XXVIII. Ingresos excedentes: Los recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos;
 
-XXIX. Sistema de Evaluación del Desempeño: El conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer el impacto social de los programas y de los proyectos;
+XXIX. Ingresos propios: Aquéllos percibidos por el Estado y los Municipios por impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos, incluidos los recibidos por venta de bienes y prestación de servicios y los demás previstos en términos de las disposiciones aplicables;
 
-XXX. Unidad Programática Presupuestal: Es la estructura administrativa de los Poderes Ejecutivo, Legislativo y Judicial, los Entes Autónomos, y en su caso, las Entidades que están obligadas a la rendición de cuentas sobre los recursos humanos, materiales y financieros que administra para contribuir al cumplimiento de los programas comprendidos en la estructura programática autorizada;
+XXX. Ingresos totales: La totalidad de los Ingresos de libre disposición, las Transferencias federales etiquetadas y el Financiamiento;
 
-XXXI. Unidad Responsable: Es la ejecutora del gasto público de los programas autorizados, dentro de una unidad programática presupuestaria; y,
+XXXI. Inversión pública productiva: Toda erogación por la cual se genere, directa o indirectamente, un beneficio social, y adicionalmente, cuya finalidad específica sea: (i) la construcción, mejoramiento, rehabilitación y/o reposición de bienes de dominio público; (ii) la adquisición de bienes asociados al equipamiento de dichos bienes de dominio público, comprendidos de manera limitativa en los conceptos de mobiliario y equipo de administración, mobiliario y equipo educacional, equipo médico e instrumental médico y de laboratorio, equipo de defensa y seguridad, y maquinaria, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable, o (iii) la adquisición de bienes para la prestación de un servicio público específico, comprendidos de manera limitativa en los conceptos de vehículos de transporte público, terrenos, edificios no residenciales, de acuerdo al propio clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable;
 
-XXXII. Unidades Administrativas: Son las unidades o delegaciones administrativas encargadas de planear, programar, presupuestar, en su caso establecer medidas para la administración interna, controlar y evaluar sus actividades, respecto al gasto público de una unidad programática presupuestal.
+XXXII. Ley: La Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo;
 
-Los conceptos utilizados en la presente Ley que requieran ser precisados y que no se encuentren incluidos en este apartado, deberán incluirse en el Reglamento de la misma.
+XXXIII. Ley de Ingresos: La Ley de Ingresos del Estado de Michoacán de Ocampo, para el ejercicio fiscal correspondiente;
+
+XXXIV. Ley de Ingresos Municipal: La Ley de Ingresos de cada uno de los municipios del Estado de Michoacán de Ocampo, para el ejercicio fiscal correspondiente;
+
+XXXV. Municipios: Los Ayuntamientos y las Dependencias, Entidades y Organismos Municipales, conforme a la Ley Orgánica Municipal del Estado de Michoacán de Ocampo;
+
+XXXVI. Organismos Autónomos: Órganos con plena autonomía funcional y financiera creados por la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo o por las leyes, atribuidos de personalidad jurídica y patrimonio propios, que tienen a su cargo una función del Estado;
+
+XXXVII. Percepciones extraordinarias: Los estímulos, reconocimientos, recompensas, incentivos, y pagos equivalentes a los mismos, que se otorgan de manera excepcional a los servidores públicos, condicionados al cumplimiento de compromisos de resultados sujetos a evaluación; así como el pago de horas de trabajo extraordinarias y demás asignaciones de carácter excepcional autorizadas en los términos de las disposiciones aplicables. Las percepciones extraordinarias no constituyen un ingreso fijo, regular ni permanente, ya que su otorgamiento se encuentra sujeto a requisitos y condiciones variables. Dichos conceptos de pago en ningún caso podrán formar parte integrante de la base de cálculo para efectos de indemnización o liquidación o de prestaciones de seguridad social;
+
+XXXVIII. Percepciones ordinarias: Los pagos por sueldos y salarios, conforme a los tabuladores autorizados y las respectivas prestaciones, que se cubren a los servidores públicos de manera regular como contra prestación por el desempeño de sus labores cotidianas en los Entes Públicos, así como los montos correspondientes a los incrementos a las remuneraciones que, en su caso, se hayan aprobado para el ejercicio fiscal;
+
+XXXIX. Periódico Oficial: El Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo;
+
+XL. Planeación Hacendaria. Es el proceso que consiste en la identificación y obtención de los ingresos necesarios para financiar los programas de gobierno de conformidad con los presupuestos de egresos de cada ejercicio fiscal atendiendo las disposiciones de las normas administrativas aplicables; así como el establecimiento de las políticas necesarias para administrar los bienes patrimoniales que conforman la hacienda pública;
+
+XLI. Presupuesto de Egresos: El Presupuesto de Egresos del Gobierno del Estado de Michoacán de Ocampo, para el ejercicio fiscal correspondiente;
+
+XLII. Secretaría: La Secretaría de Finanzas y Administración;
+
+XLIII. Secretaría de Contraloría: Es el órgano interno de control del poder ejecutivo responsable de fijar las normas de control, evaluación, fiscalización, contabilidad y auditoría, que deben observar las dependencias y entidades de la Administración Pública Estatal;
+
+XLIV. Sistema de Evaluación del Desempeño: El conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento Unidad Programática Presupuestal; y,
+
+XLV. Transferencias federales etiquetadas: Los recursos que reciben de la Federación el Estado y los Municipios, que están destinados a un fin específico, entre los cuales se encuentran las aportaciones federales a que se refiere el Capítulo V de la Ley de Coordinación Fiscal, la cuota social y la aportación solidaria federal previstas en el Título Tercero Bis de la Ley General de Salud, los subsidios, convenios de reasignación y demás recursos con destino específico que se otorguen en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate.
 
 ###### ARTÍCULO 3°.
 
@@ -139,13 +171,21 @@ IV. De los Municipios del Estado; y,
 
 V. Los Órganos Autónomos.
 
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+###### ARTÍCULO 3° Bis.
+
+A falta de disposición expresa en esta Ley, se aplicarán de manera supletoria la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley General de Contabilidad Gubernamental, la Ley de Coordinación Fiscal y la Ley de Coordinación Fiscal del Estado de Michoacán de Ocampo; y se estará a la interpretación de la Secretaría para efectos administrativos.
+
 ## TÍTULO SEGUNDO. DE LA RECTORÍA DE LA ARMONIZACIÓN CONTABLE
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 4°.
 
-De conformidad con lo dispuesto en el artículo 9 fracciones I, II, III, VII, IX, X, XI, XII, XIII y XIV de la Ley General de Contabilidad Gubernamental los Entes Públicos adoptarán e implementarán, con carácter obligatorio la normatividad que en materia de contabilidad gubernamental y de la emisión de la información financiera que para efectos acuerde el CONAC.
+De conformidad con lo dispuesto en el artículo 9 fracciones I, II, III, VII, IX, X, XI, XII, XIII y XIV de la Ley General de Contabilidad Gubernamental y 4° de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, los Entes Públicos adoptarán e implementarán, con carácter obligatorio la normatividad que en materia de contabilidad gubernamental y de la emisión de la información financiera que para efectos acuerde el CONAC.
 
 ###### ARTÍCULO 5°.
 
@@ -261,6 +301,66 @@ La programación y presupuestación del Gasto Público del Gobierno del Estado, 
 
 Los programas que contengan nuevos proyectos, en un ejercicio fiscal se deberán someter a la aprobación del Ejecutivo del Estado, por conducto de la Coordinación de Planeación.
 
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+En todo caso, la iniciativa de Ley de Ingresos y el proyecto de Presupuesto de Egresos deberán incluir lo siguiente:
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+I. Objetivos anuales, estrategias y metas;
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+II. Proyecciones de las finanzas públicas del Estado, considerando las premisas empleadas en los Criterios Generales de Política Económica, con base en los formatos que emita el CONAC y abarcarán un periodo de cinco años en adición al ejercicio fiscal en cuestión, las que se revisarán y, en su caso, se adecuarán anualmente en los ejercicios subsecuentes;
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+III. Descripción de los riesgos relevantes para las finanzas públicas del Estado, acompañados de propuestas de acción para enfrentarlos;
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+IV. Los resultados de las finanzas públicas que abarquen un periodo de los cinco últimos años y el ejercicio fiscal en cuestión, de acuerdo con los formatos que emita el CONAC para este fin; y,
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+V. Un estudio actuarial de las pensiones de sus trabajadores, el cual como mínimo deberá actualizarse cada tres años, El estudio deberá incluir la población afiliada, la edad promedio, las características de las prestaciones otorgadas por la ley aplicable, el monto de reservas de pensiones, así como el periodo de suficiencia y el balance actuarial en valor presente.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+La Ley de Ingresos y el Presupuesto de Egresos deberán ser congruentes, además de con los Criterios Generales de Política Económica, con las estimaciones de las participaciones y transferencias federales etiquetadas, previstas en la iniciativa de la Ley de Ingresos de la Federación y en el proyecto de Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+###### ARTÍCULO 13 Bis.
+
+El Gasto total propuesto por el Ejecutivo del Estado en el proyecto de Presupuesto de Egresos, el que apruebe el Congreso y el que se ejerza en el año fiscal de que se trate, deberá contribuir a un Balance presupuestario sostenible.
+
+El Gobierno del Estado deberá generar un Balance presupuestario sostenible. Se cumple con esta premisa, cuando al final del ejercicio fiscal y bajo el momento contable devengado, dicho balance sea mayor o igual a cero. Igualmente, el Balance presupuestario de recursos disponibles será sostenible, cuando al final del ejercicio fiscal y bajo el momento contable devengado, dicho balance sea mayor o igual a cero. El Financiamiento Neto que, en su caso, se contrate por parte del Gobierno del Estado con aprobación del Congreso, y se utilice para el cálculo del Balance presupuestario de recursos disponibles sostenible, deberá estar dentro del Techo de Financiamiento que resulte de la aplicación del Sistema de Alertas a que se refieren la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley de Deuda Pública Para el Estado de Michoacán de Ocampo y sus Municipios.
+
+Debido a razones excepcionales, las iniciativas de Ley de Ingresos y de Presupuesto de Egresos podrán prever un Balance presupuestario de recursos disponibles negativo. En estos casos, el Ejecutivo del Estado deberá dar cuenta al Congreso de lo siguiente:
+
+I. Las razones excepcionales que justifiquen el Balance presupuestario de recursos disponibles negativos, conforme a lo dispuesto en el siguiente artículo;
+
+II. Las fuentes de recursos necesarias y el monto específico para cubrir el Balance presupuestario de recursos disponibles negativo; y,
+
+III. El número de ejercicios fiscales y las acciones requeridas para que dicho Balance presupuestario de recursos disponibles negativo sea eliminado y se restablezca el Balance presupuestario de recursos disponibles sostenible.
+
+El Ejecutivo del Estado, a través de la Secretaría, reportará en los informes financieros trimestrales y en la Cuenta Pública, y a través de su página oficial de internet, el avance de las acciones, hasta en tanto se recupere el presupuesto sostenible de recursos disponibles.
+
+En caso de que el Congreso modifique la Ley de Ingresos y el Presupuesto de Egresos de tal manera que genere un Balance presupuestario de recursos disponibles negativo, deberá motivar su decisión sujetándose a las fracciones I y II anteriores. A partir de la aprobación del Balance presupuestario de recursos disponibles negativo a que se refiere este párrafo, el Ejecutivo del Estado deberá dar cumplimiento a lo previsto en la fracción III anterior.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+###### ARTÍCULO 13 Ter.
+
+Se podrá incurrir en un Balance presupuestario de recursos disponibles negativo cuando:
+
+I. Se presente una caída en el Producto Interno Bruto nacional en términos reales, y lo anterior origine una caída en las participaciones federales con respecto a lo aprobado en el Presupuesto de Egresos de la Federación, y ésta no logre compensarse con los recursos que, en su caso, se reciban del Fondo de Estabilización de los Ingresos de las Entidades Federativas en los términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
+
+II. Sea necesario cubrir el costo de la reconstrucción provocada por los desastres naturales declarados en los términos de la Ley General de Protección Civil; o,
+
+III. Se tenga la necesidad de prever un costo mayor al 2 por ciento del Gasto no etiquetado observado en el Presupuesto de Egresos del ejercicio fiscal inmediato anterior, derivado de la implementación de ordenamientos jurídicos o medidas de política fiscal que, en ejercicios fiscales posteriores, contribuyan a mejorar ampliamente el Balance presupuestario de recursos disponibles negativo, ya sea porque generen mayores ingresos o menores gastos permanentes; es decir, que el valor presente neto de dicha medida supere ampliamente el costo de la misma en el ejercicio fiscal que se implemente.
+
 ###### ARTÍCULO 14.
 
 El Presupuesto de Egresos, será el que contenga el decreto que apruebe el Congreso, a iniciativa del Ejecutivo del Estado para cubrir durante el período de cada año calendario, el Gasto Público de los Poderes Ejecutivo, Legislativo y Judicial, de las Dependencias, Entidades y Organismos Autónomos cuyo monto total debe ser igual al establecido en la Ley de Ingresos del Estado de Michoacán de Ocampo aprobada por el Congreso para el ejercicio fiscal de que se trate; observándose para tal efecto, y en lo conducente, lo dispuesto por la Ley General de Contabilidad Gubernamental y las normas y lineamientos del CONAC, las complementarias en la materia que en coadyuvancia emita el Consejo así como lo dispuesto por la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
@@ -273,13 +373,19 @@ La Secretaría conjuntamente con la Coordinación de Planeación dictará las di
 
 El Presupuesto de Egresos, se deberá estructurar por unidad programática presupuestaria, por unidad responsable de los programas institucionales y especiales, en los que se señalen los indicadores de gestión, objetivos, actividades, metas y techos financieros, en congruencia con los programas estratégicos, sectoriales y regionales del Plan Integral de Desarrollo del Estado, de acuerdo a las atribuciones que se derivan de la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo, y en su caso, de la Ley, Decreto o Acuerdo de creación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 17.
 
-Los proyectos de presupuesto de los Poderes Legislativo, Ejecutivo y Judicial, de las Dependencias, Entidades y Organismos Autónomos, se elaborarán para cada año calendario, con base en los lineamientos de carácter técnico y financiero que emita la Secretaría y se enviarán a ésta para integrarlos a la Iniciativa de Decreto correspondiente.
+Los proyectos de presupuesto de los Poderes Legislativo, Ejecutivo y Judicial, de las Dependencias, Entidades y Organismos Autónomos, se elaborarán para cada año calendario, con base en los lineamientos de carácter técnico y financiero que emita la Secretaría y se enviarán a ésta para integrarlos al proyecto de Presupuesto de Egresos, a más tardar 10 días naturales antes de la fecha de presentación al Congreso. Tratándose de los proyectos de los Organismos Autónomos creados por la Constitución, se incorporarán íntegramente, sin alteraciones o modificaciones.
 
-Los proyectos de presupuesto que presenten los Poderes Legislativo y Judicial y organismos autónomos, que se elaboren de conformidad con los lineamientos de carácter financiero a que se refiere el primer párrafo de este artículo, se integrarán al Proyecto de Presupuesto de Egresos que presente el Ejecutivo del Estado al Congreso.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
-Cuando los Poderes Legislativo, Ejecutivo y Judicial, las Dependencias, Entidades y Organismos Autónomos, no presenten su proyecto de presupuesto, la Secretaría propondrá en el proyecto correspondiente únicamente el importe de la asignación autorizada, para el año inmediato anterior.
+Los proyectos de presupuesto que presenten los Poderes Legislativo y Judicial y Organismos Autónomos para la integración al Proyecto de Presupuesto de Egresos que presente el Ejecutivo del Estado al Congreso, en la programación y presupuestación de sus respectivos proyectos, deberán sujetarse a lo dispuesto en esta Ley y observar que su propuesta sea compatible con los criterios generales de política económica, para tales efectos, por conducto de sus respectivas unidades de administración, deberán coordinarse con la Secretaría con el objeto de que sus proyectos sean compatibles con las clasificaciones y estructura programática a que se refieren los artículos 16 y 20 de esta Ley.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+Cuando los ejecutores de gasto a que se refiere el párrafo anterior, no presenten su proyecto de presupuesto, la Secretaría propondrá en el proyecto correspondiente únicamente el importe de la asignación autorizada, para el año inmediato anterior. Así mismo la Secretaría queda facultada para formular el anteproyecto de presupuesto de las dependencias y entidades, cuando las mismas no lo presenten en los plazos establecidos.
 
 Sólo se podrán constituir fideicomisos o incrementar la aportación al patrimonio de los existentes, previa autorización del Ejecutivo del Estado, emitida por conducto de la Secretaría, en su carácter de fideicomitente única de la administración pública estatal, o las entidades, con el propósito de auxiliar al Ejecutivo en las atribuciones para impulsar las áreas prioritarias y estratégicas del desarrollo, proponiendo en su caso, la modificación o disolución de los mismos cuando así convenga al interés público. Asimismo, son fideicomisos públicos aquéllos que constituyan los Poderes Legislativo y Judicial y los entes autónomos a los que se asignen recursos del Presupuesto de Egresos.
 
@@ -309,53 +415,145 @@ Los mandos medios y superiores desde el nivel de jefe de departamento o equivale
 
 En cualquier caso, los sueldos y todo ingreso que los servidores públicos perciban por los conceptos señalados en el párrafo anterior, deberán guardar congruencia con la estructura orgánica autorizada y estar sustentados en los principios de racionalidad, austeridad, disciplina presupuestal, equidad, certeza, motivación y proporcionalidad.
 
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+En adición a lo anterior, en materia de servicios personales, el Gobierno del Estado observará lo siguiente:
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO OCTAVO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+I. La asignación global de recursos para servicios personales que se apruebe en el Presupuesto de Egresos, tendrá como límite el producto que resulte de aplicar al monto aprobado en el Presupuesto de Egresos del ejercicio inmediato anterior, una tasa de crecimiento equivalente al valor que resulte menor entre:
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO OCTAVO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+A) El 3 por ciento de crecimiento real, y,
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO OCTAVO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+B) El crecimiento real del Producto Interno Bruto señalado en los Criterios Generales de Política Económica para el ejercicio que se está presupuestando. En caso de que el Producto Interno Bruto presente una variación real negativa para el ejercicio que se está presupuestando, se deberá considerar un crecimiento real igual a cero.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO OCTAVO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+Queda exceptuado del cumplimiento de esta fracción, el monto erogado por sentencias laborales definitivas emitidas por la autoridad competente.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO OCTAVO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+Los gastos de servicios personales que sean estrictamente indispensables para la implementación de nuevas leyes federales o reformas a las mismas, podrán autorizarse sin sujetarse al límite establecido en esta fracción, hasta por el monto que específicamente se requiera para dar cumplimiento a la ley respectiva.
+
 ###### ARTÍCULO 19.
 
 El Ejecutivo del Estado, en el presupuesto correspondiente al ejercicio del año en el que deba realizarse el inicio de período de gobierno, deberá contemplar una asignación especial para remunerar al personal y pagar los gastos de logística de la comisión de transición que en su caso nombre el Gobernador entrante, durante los cuarenta y cinco días anteriores a la fecha de toma de posesión.
 
 Para los efectos de lo dispuesto en el párrafo anterior, los gobernadores electo y saliente, designarán a las personas que deban coordinarse para determinar el monto a proponerse al Congreso.
 
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+###### ARTÍCULO 19 Bis.
+
+El Presupuesto de Egresos deberá prever recursos para atender a la población afectada y los daños causados a la infraestructura pública estatal ocasionados por la ocurrencia de desastres naturales, así como para llevar a cabo acciones para prevenir y mitigar su impacto a las finanzas estatales. El monto de dichos recursos será, como mínimo, el equivalente al 10 por ciento de la aportación realizada por el Estado para la reconstrucción de la infraestructura dañada que en promedio se registre durante los últimos cinco ejercicios, actualizados por el Índice Nacional de Precios al Consumidor, medido a través de las autorizaciones de recursos aprobados por el Fondo de Desastres Naturales y, deberá ser aportado a un fideicomiso público constituido específicamente para dicho fin.
+
+Los recursos aportados deberán ser destinados, en primer término, para financiar las obras y acciones de reconstrucción de la infraestructura estatal aprobadas en el marco de las reglas generales del Fondo de Desastres Naturales, como la contraparte del Estado a los programas de reconstrucción acordados con la Federación.
+
+En caso de que el saldo de los recursos del fideicomiso a que se refiere el primer párrafo de este artículo, acumule un monto que sea superior al costo promedio de reconstrucción de la infraestructura estatal dañada de los últimos cinco años, medido a través de las autorizaciones de recursos aprobadas por el Fondo de Desastres Naturales, el Gobierno del Estado podrá utilizar el remanente que le corresponda para acciones de prevención y mitigación, los cuales podrán ser aplicados para financiar la contraparte del Estado de los proyectos preventivos, conforme a lo establecido en las reglas de operación del Fondo para la Prevención de Desastres Naturales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 20.
 
-La iniciativa de decreto que contenga el proyecto de Presupuesto de Egresos, que presente a la consideración del Congreso el Ejecutivo del Estado, contendrá lo siguiente:
+La iniciativa de decreto que contenga el proyecto de Presupuesto de Egresos, que presente a la consideración del Congreso el Ejecutivo del Estado, contendrá lo siguiente
 
 I. Exposición de motivos en la que se señalen los efectos políticos, económicos y sociales que se pretendan lograr;
 
 II. Descripción de los programas y subprogramas que integran el proyecto de presupuesto de egresos, señalando indicadores de gestión, objetivos, actividades, metas y techos financieros clasificados por el origen de los recursos y las unidades programáticas presupuestarias responsables de su ejecución;
 
-III. Explicación y justificación de los principales programas, en especial de aquellos que abarquen dos o más ejercicios presupuestales;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
 
-IV. Monto estimado en la Ley de Ingresos y proposición de gastos del ejercicio presupuestal para el que se proponen;
+III. Explicación y justificación de los principales programas, en especial de aquellos que abarquen dos o más ejercicios presupuestales; así como un apartado específico que incorpore las previsiones de gasto que correspondan a los compromisos plurianuales y aquellos derivados de proyectos de infraestructura productiva de largo plazo;
 
-V. Las asignaciones presupuestales deberán realizarse a nivel de unidad programática, unidad responsable de la ejecución de los programas, por programas, subprogramas y partida presupuestal;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+IV. Monto estimado en la Ley de Ingresos y estimación de los egresos para el año que se presupuesta; así como los montos de egresos de los últimos cinco ejercicios fiscales;
+
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+V. Las asignaciones presupuestales deberán presentarse a nivel de unidad programática, unidad responsable de la ejecución de los programas, por programas, subprogramas y partida presupuestal y las previsiones de gasto conforme a las clasificaciones a que se refiere el artículo 16 de esta Ley.
+
+Adicionalmente a lo anterior, se deberá presentar el anexo a nivel de desagregación del total de Presupuesto de Egresos que corresponda a la Inversión en Obra Pública;
 
 VI. Situación de la deuda pública al fin del ejercicio presupuestal en curso y estimación de la que se tendrá al cierre del que se propone; así como la proyección de estimación de recurso para el servicio de la Deuda hasta por cinco años posteriores;
 
-VII. Las plantillas de personal por jornada y nivel, sueldo y demás prestaciones económicas asignadas por plaza presupuestada, con inclusión de aquellas que ocupen los titulares de los Poderes Legislativo, Ejecutivo y Judicial, de las Dependencias, de las Entidades y de los Organismos Autónomos, de que se trate, y los tabuladores de sueldos;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+VII. Además de las plantillas de personal por jornada y nivel, con inclusión de aquellas que ocupen los titulares de los Poderes Legislativo, Ejecutivo y Judicial, una sección específica con las erogaciones correspondientes al gasto en servicios personales, el cual comprende:
+
+A) Las remuneraciones de los servidores públicos, desglosando las Percepciones ordinarias y extraordinarias, e incluyendo las erogaciones por concepto de obligaciones de carácter fiscal y de seguridad social inherentes a dichas remuneraciones, y,
+
+B) Las previsiones salariales y económicas para cubrir los incrementos salariales, la creación de plazas y otras medidas económicas de índole laboral. Dichas previsiones serán incluidas en un capítulo específico del Presupuesto de Egresos:
 
 VIII. Las medidas de racionalidad y disciplina presupuestaria aplicables durante el ejercicio;
 
-IX. Los proyectos de presupuesto elaborados por los Poderes Legislativo y Judicial;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
 
-X. Incluir en las asignaciones presupuestales, los compromisos establecidos con Asociaciones Público Privadas o cualquier otro instrumento jurídico que tengan aplicaciones presupuestales multianuales, señalando los indicadores de gestión, estrategias, objetivos, actividades, metas, logradas a la fecha y su justificación;
+IX. Los proyectos de presupuesto elaborados por los Poderes Legislativo, Judicial y Organismos Autónomos;
+
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+X. Incluir un apartado específico que incorpore las erogaciones plurianuales para proyectos de inversión en infraestructura establecidos en Asociaciones Público Privadas aprobadas en términos de la ley en la materia, señalando los indicadores de gestión, estrategias, objetivos, actividades, metas, logradas a la fecha y su justificación;
 
 XI. Presentar de manera consolidada el presupuesto por programas sectoriales y regionales señalando indicadores de gestión, objetivos, actividades, metas y techos financieros y las unidades programáticas presupuestarias responsables de su ejecución;
 
-XII. Presentar de manera consolidada el presupuesto por clasificación económica, funcional y por unidad programática responsable de su ejecución;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+XII. Presentar de manera consolidada el presupuesto conforme a las clasificaciones a que se refiere el artículo 16 de esta Ley;
 
 XIII. Presentar de manera consolidada el presupuesto por programas institucionales y especiales con su clasificación económica y las unidades programáticas presupuestarias responsables de su ejecución;
 
 XIV. Presentar el calendario comparativo mensual de ingresos y gastos estimados para el ejercicio fiscal, por fuente de financiamiento, como lo establece el Acuerdo emitido por la CONAC, para tal efecto;
 
-XV. La Proyección del gasto destinado a programas vinculados con políticas de procuración de la equidad de género, del desarrollo de la juventud, grupos vulnerables, ciencia y tecnología; y,
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
 
-XVI. Toda información que se considere útil para presentar la propuesta en forma clara y completa.
+XV. Las previsiones del gasto destinado a programas vinculados con políticas de procuración de la equidad de género, del desarrollo de los Jóvenes, Grupos vulnerables, Ciencia y Tecnología, a la Atención de Niños, Niñas y Adolescentes, al Concurrente para el Desarrollo Rural Sustentable y a la Mitigación de los efectos del Cambio Climático;
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+XVI. Presentar la metodología empleada para determinar la estacionalidad y el volumen de la recaudación por tipo de ingreso, así como la utilizada para calendarizar el gasto según su clasificación económica;
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+XVII. La demás información que contribuya a la comprensión de los proyectos a que se refiere este artículo así como la que solicite el Congreso del Estado a través de la Comisión de Programación, Presupuesto y Cuenta Pública; y,
+
+XVIII. Toda información que se considere útil para presentar la propuesta en forma clara y completa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 21.
 
-El Ejecutivo del Estado, deberá considerar en el Proyecto de presupuesto correspondiente, una asignación equivalente al 2% de los ingresos estimados de libre programación para el ejercicio fiscal de que se trate, en una unidad programática especial, con el objeto de que dicha asignación, se destine para la amortización de las diferencias que resulten entre los ingresos estimados y los devengados de cada mes, esta unidad programática, estará a cargo de la Secretaría.
+El Ejecutivo del Estado, deberá considerar en el Proyecto de presupuesto correspondiente, una asignación equivalente al 2 por ciento de los ingresos estimados de libre disposición para el ejercicio fiscal de que se trate, en una unidad programática especial, con el objeto de que dicha asignación, se destine para la amortización de las diferencias que resulten entre los ingresos estimados y los devengados de cada mes, esta unidad programática, estará a cargo de la Secretaría.
 
 El monto de la asignación a que se refiere el párrafo anterior, trimestralmente se reducirá de manera proporcional al monto original anualizado.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+###### ARTÍCULO 21 Bis.
+
+El Proyecto de Presupuesto de Egresos deberá considerar las previsiones de gasto necesarias para hacer frente a los compromisos de pago que se deriven de los contratos de Asociación Público-Privada, si los hubiere, celebrados o por celebrarse durante el siguiente ejercicio fiscal.
+
+Para el caso de Asociaciones Público Privadas con recursos federales, se observará lo dispuesto en el artículo 4, fracción IV, de la Ley de Asociaciones Público Privadas.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+###### ARTÍCULO 21 Ter.
+
+Los recursos para cubrir adeudos del ejercicio fiscal anterior, previstos en el proyecto de Presupuesto de Egresos, podrán ser hasta por el 2 por ciento de los Ingresos totales del Gobierno del Estado.
 
 ###### ARTÍCULO 22.
 
@@ -365,13 +563,45 @@ También se publicarán las modificaciones al tabulador, que se autoricen en el 
 
 APARTADO B: ÁMBITO MUNICIPAL
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DÉCIMO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 23.
 
-La programación y presupuestación del Gasto Público del Gobierno Municipal, deberá de realizarse con base a los programas institucionales y especiales aprobados por el Ayuntamiento, tratándose de Entidades y Organismos Autónomos, por su órgano de gobierno, el cual se sustentará en el PLAN DE DESARROLLO MUNICIPAL.
+Las iniciativas de las leyes de Ingresos y los presupuestos de egresos de los Municipios se deberán elaborar conforme a lo dispuesto en esta Ley, en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, en (sic) Ley General de Contabilidad Gubernamental y las normas que emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberán ser congruentes con los planes estatales y municipales de desarrollo y los programas derivados de los mismos; e incluirán cuando menos objetivos anuales, estrategias y metas.
+
+Las Leyes de Ingresos y los Presupuestos de Egresos de los Municipios deberán ser congruentes con los Criterios Generales de Política Económica y las estimaciones de las participaciones y Transferencias federales etiquetadas que se incluyan no deberán exceder a las previstas en la iniciativa de la Ley de Ingresos de la Federación y en el proyecto de Presupuesto de Egresos de la Federación, así como aquellas transferencias del Estado.
+
+Los Municipios, en adición a lo previsto en los párrafos anteriores, deberán incluir en las iniciativas de las Leyes de Ingresos y en los proyectos de Presupuestos de Egresos, lo siguiente:
+
+I. Proyecciones de finanzas públicas, considerando las premisas empleadas en los Criterios Generales de Política Económica.
+
+Las proyecciones se realizarán con base en los formatos que emita el CONAC y abarcarán un periodo de tres años en adición al ejercicio fiscal en cuestión, las que se revisarán y, en su caso, se adecuarán anualmente en los ejercicios subsecuentes;
+
+II. Descripción de los riesgos relevantes para las finanzas públicas, incluyendo los montos de Deuda Contingente, acompañados de propuestas de acción para enfrentarlos;
+
+III. Los resultados de las finanzas públicas que abarquen un periodo de los tres últimos años y el ejercicio fiscal en cuestión, de acuerdo con los formatos que emita el CONAC para este fin; y,
+
+IV. Un estudio actuarial de las pensiones de sus trabajadores, el cual como mínimo deberá actualizarse cada cuatro años. El Estudio deberá incluir la población afiliada, la edad promedio, las características de las prestaciones otorgadas por la legislación aplicable, el monto de reservas de pensiones, así como el periodo de suficiencia y el balance actuarial en valor presente.
+
+Las proyecciones y resultados a que se refieren las fracciones I y III, respectivamente, comprenderán sólo un año para el caso de los Municipios con una población menor a doscientos mil habitantes, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía. Dichos Municipios contarán con el apoyo técnico de la Secretaría para cumplir lo previsto en este artículo.
 
 ###### ARTÍCULO 24.
 
 El Presupuesto de Egresos Municipal, es el que apruebe el Ayuntamiento, para costear, durante el periodo de un año calendario, las actividades, las obras y los servicios públicos, previstos en los programas institucionales y especiales de los Municipios que en el presupuesto se señalen tomando como base el monto total estimado en la Ley de Ingresos que apruebe el Congreso; observando lo dispuesto por la Ley General de Contabilidad Gubernamental y las normas y lineamientos del CONAC.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DÉCIMO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+###### ARTÍCULO 24 Bis.
+
+El Gasto total propuesto en el proyecto (sic) Presupuesto de Egresos Municipal, el aprobado y el que se ejerza en el año fiscal, deberán contribuir al Balance presupuestario sostenible.
+
+El Municipio deberá generar Balances presupuestarios sostenibles. Se considerará que el Balance presupuestario cumple con el principio de sostenibilidad, cuando al final del ejercicio fiscal y bajo el momento contable devengado, dicho balance sea mayor o igual a cero. Igualmente, el Balance presupuestario de recursos disponibles es sostenible, cuando al final del ejercicio y bajo el momento contable devengado, dicho balance sea mayor o igual a cero. El Financiamiento que, en su caso, se contrate por parte del Municipio con aprobación del Congreso y se utilice para el cálculo del Balance presupuestario de recursos disponibles sostenible, deberá estar dentro del Techo de Financiamiento que resulte de la aplicación del Sistema de Alertas a que se refieren la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios.
+
+Debido a las razones excepcionales a que se refiere el artículo 13 Ter (sic) esta Ley, se podrá aprobar un Balance presupuestario de recursos disponibles negativo para el Municipio respectivo. Para tal efecto, el tesorero municipal, será responsable de cumplir ante el Congreso lo previsto en el artículo 13 Bis, párrafo tercero a quinto de esta Ley.
 
 ###### ARTÍCULO 25.
 
@@ -431,11 +661,33 @@ XIV. Toda información que se considere útil para presentar la propuesta en for
 
 XV Las previsiones de egresos se clasificarán separadamente por unidad programática especial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 31.
 
-El Ayuntamiento, deberá considerar en el Presupuesto, una asignación equivalente al 2% de los ingresos estimados de libre programación para el ejercicio fiscal de que se trate, en una unidad programática especial, con el objeto de que dicha asignación, se destine para la amortización de las diferencias que resulten entre los ingresos estimados y los devengados de cada mes, esta unidad programática, estará a cargo de la Tesorería Municipal.
+El Ayuntamiento, deberá considerar en el Presupuesto, una asignación equivalente al 2 por ciento de los ingresos estimados de libre disposición para el ejercicio fiscal de que se trate, en una unidad programática especial, con el objeto de que dicha asignación, se destine para la amortización de las diferencias que resulten entre los ingresos estimados y los devengados de cada mes, esta unidad programática, estará a cargo de la Tesorería Municipal.
 
 El monto de la asignación a que se refiere el párrafo anterior, trimestralmente se reducirá de manera proporcional al monto original anualizado.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DÉCIMO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+###### ARTÍCULO 31 Bis.
+
+Los recursos para cubrir los adeudos del ejercicio fiscal anterior, previstos en el proyecto de Presupuesto de Egresos, podrán ser hasta por el 2.5 por ciento de los Ingresos totales del Municipio de que se trate.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DÉCIMO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+###### ARTÍCULO 31 Ter.
+
+Los Municipios deberán observar las disposiciones establecidas en los artículos 18 párrafo sexto, 20 fracción VII, 21 Bis, 37 párrafos segundo, tercero y cuarto, 52, 58 y 59 de esta Ley
+
+Adicionalmente, los Municipios y sus Entes Públicos deberán observar lo previsto en el artículo 41 Bis de esta ley. Lo anterior, con excepción de la fracción III, párrafo segundo de dicho artículo, la cual sólo será aplicable para los municipios de más de doscientos mil habitantes, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía.
+
+Las autorizaciones a las que se hace mención en dichos artículos serán realizadas por la autoridad competente de los Municipios.
 
 ###### ARTÍCULO 32.
 
@@ -477,27 +729,49 @@ IV. Dentro de los capítulos de gasto de inversión, los titulares de las unidad
 
 Así mismo los Organismos Descentralizados, Autónomos y los Poderes Legislativo y Judicial, previa autorización de sus órganos administrativos competentes, podrán realizar adecuaciones presupuestales compensadas ajustándose a los techos financieros autorizados en su presupuesto, observando lo establecido en las fracciones de este artículo.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 37.
 
-El Gobierno del Estado, por conducto de la Secretaría, deberá realizar adecuaciones presupuestales para registrar las variaciones mensuales que resulten en los ingresos estimados respecto de los reales devengados, conforme lo establece el artículo 10 y afectando a la Unidad Programática Presupuestaria que alude el artículo 21 de la presente Ley; cuando derivado de dichos ajustes, resulte un excedente en el monto asignado, previa reducción trimestral que establece el artículo antes mencionado; la Secretaría podrá realizar reasignaciones presupuestales hasta por el 10 % de los excedentes acumulados por trimestre de los ingresos de libre programación, para la ejecución de programas prioritarios; para reasignar la diferencia de dicho monto, deberá contar con la aprobación del Congreso.
+El Gobierno del Estado, por conducto de la Secretaría, deberá realizar adecuaciones presupuestales para registrar las variaciones mensuales que resulten en los ingresos estimados respecto de los reales devengados, conforme lo establece el artículo 10 y afectando a la Unidad Programática Presupuestaria que alude el artículo 21 de la presente Ley.
 
-La Secretaría, en el cuarto trimestre del ejercicio fiscal podrá reasignar los recursos presupuestales disponibles en la unidad programática que se refiere el artículo 21.
+Los ingresos excedentes derivados de Ingresos de libre disposición, se podrán destinar a los siguientes conceptos:
 
-Cuando derivado de los ajustes a que se refiere el primer párrafo de este artículo, resulte un déficit presupuestal, la Secretaría, para subsanar el saldo negativo deberá realizar las reducciones a los montos asignados a las Dependencias y Entidades, tomando en cuenta las circunstancias económicas y sociales que priven en el Estado, los alcances de los conceptos de gasto y en su caso, la naturaleza y características particulares de las Dependencias y Entidades de que se trate, escuchando la opinión de sus titulares.
+I. Por lo menos el cincuenta por ciento para la amortización anticipada de la Deuda Pública, el pago de adeudos de ejercicios fiscales anteriores, pasivos circulantes y otras obligaciones, en cuyos contratos se haya pactado el pago anticipado sin incurrir en penalidades y representen una disminución del saldo registrado en la cuenta pública del cierre del ejercicio inmediato anterior, así como la aportación a fondos para la atención de desastres naturales y de pensiones, y
 
-Estas reducciones deberán realizarse en forma selectiva, sin afectar los programas prioritarios del gasto social y de inversión, salvo en los casos de disminución de fondos de participaciones o aportaciones en ingresos federales.
+II. En su caso, el remanente para:
 
-Tratándose de los Poderes Legislativo y Judicial y de los Organismos Autónomos, las reducciones que en su caso se requiera realizar en sus presupuestos, serán definidas por ellos.
+A) Inversión pública productiva, a través de un fondo que se constituya para tal efecto, con el fin de que los recursos correspondientes se ejerzan a más tardar en el ejercicio inmediato siguiente, y
+
+B) La creación de un fondo cuyo objetivo sea compensar la caída de Ingresos de libre disposición de ejercicios subsecuentes.
+
+Los Ingresos excedentes derivados de Ingresos de Libre Disposición podrán destinarse a los rubros mencionados en el párrafo que antecede, sin limitación alguna, siempre y cuando el Gobierno del Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas a que se refieren la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios.
+
+En caso de que durante el ejercicio fiscal disminuyan los ingresos previstos en la Ley de Ingresos, el Ejecutivo del Estado, por conducto de la Secretaría, a efecto de cumplir con el principio de sostenibilidad del Balance presupuestario y del Balance presupuestario de recursos disponibles, deberá aplicar ajustes al Presupuesto de Egresos en los rubros de gasto en el siguiente orden:
+
+I. Gastos de comunicación social;
+
+II. Gasto corriente que no constituya un subsidio entregado directamente a la población, en términos de los (sic) dispuesto por el artículo 41 Bis, fracción VII de la presente Ley; y,
+
+III. Gasto en servicios personales, prioritariamente las erogaciones por concepto de Percepciones extraordinarias.
+
+En caso de que los ajustes anteriores no sean suficientes para compensar la disminución de ingresos, podrán realizarse ajustes en otros conceptos de gasto, siempre y cuando se procure no afectar los programas sociales.
 
 Las adecuaciones presupuestales serán independientes de las que se tengan que realizar por concepto de participaciones y aportaciones federales que correspondan a los municipios, en los términos de las disposiciones aplicables y las que se deriven de ingresos destinados a un fin específico.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 38.
 
-La Secretaría podrá realizar ampliaciones automáticas compensadas cuando existan incrementos salariales o en los precios de servicios básicos, de materiales, suministros, servicios generales y servicios de deuda, adicionales al gasto corriente presupuestado por ser indispensables para el cumplimiento de las funciones de los Poderes Legislativo, Ejecutivo y Judicial, de las Dependencias, Entidades y Organismos Autónomos, observando lo que se establece en los artículos 36 y 37 de la presente Ley.
+Toda propuesta de aumento o creación de gasto en el Presupuesto de Egresos, deberá acompañarse con la correspondiente iniciativa de ingreso o compensarse con reducciones en otras previsiones de gasto.
+
+No procederá pago alguno que no esté comprendido en el Presupuesto de Egresos, determinado por ley posterior o con cargo a Ingresos excedentes. El Ejecutivo del Estado, a través de la Secretaría, deberá revelar en la Cuenta Pública y en los informes trimestrales que entregue al Congreso, la fuente de ingresos con la que se haya pagado el nuevo gasto, distinguiendo el Gasto etiquetado y no etiquetado.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 39.
 
-Durante el ejercicio del Gasto Público, la Secretaria realizará las acciones necesarias para su control e igualmente lo hará para su evaluación. Para el ejercicio de esta última función, contará con el apoyo de la Coordinación de Planeación y de la Coordinación de Contraloría, de acuerdo con lo que señala la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo y de la Auditoría, de acuerdo a lo que señala la Ley de Fiscalización Superior para Estado de Michoacán.
+Durante el ejercicio del Gasto Público, la Secretaría realizará las acciones necesarias para su control e igualmente lo hará para su evaluación. Para el ejercicio de esta última función, contará con el apoyo de la CGAP y de la Secretaría de Contraloría, de acuerdo con lo que señalan la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo y la Ley de Fiscalización Superior para el Estado de Michoacán de Ocampo.
 
 ###### ARTÍCULO 40.
 
@@ -505,9 +779,61 @@ Adicionalmente a lo dispuesto por el artículo 36 de la presente Ley, la Iniciat
 
 El Congreso se pronunciará en un término legal de hasta treinta días naturales una vez que la solicitud de autorización sea turnada a las comisiones dictaminadoras correspondientes, debiéndose informar con toda la documentación relativa a la Auditoria Superior de Michoacán. De no emitirse el pronunciamiento correspondiente en el plazo establecido, la afirmativa ficta surtirá sus efectos.
 
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+El Ejecutivo del Estado, por conducto de la Secretaría, realizará una estimación del impacto presupuestario de las iniciativas de ley o decretos que se presenten a la consideración del Congreso. Asimismo, realizará estimaciones sobre el impacto presupuestario de las disposiciones administrativas que impliquen costos para su implementación.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+Todo proyecto de ley o decreto que sea sometido a votación del Pleno del Congreso, deberá incluir en su dictamen correspondiente una estimación sobre el impacto presupuestario del proyecto.
+
 ###### ARTÍCULO 41.
 
 Cuando el Gobierno del Estado tenga conocimiento que percibirá ingresos superiores a los estimados, por concepto de fondos de aportaciones federales, deberá de notificarlo al Congreso, a más tardar dentro de los quince días naturales siguientes a la fecha en que se publique en el Diario Oficial de la Federación o de que haya recibido el comunicado oficial de parte de las dependencias federales competentes.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+En todo caso, en el ejercicio del gasto previsto en el Presupuesto de Egresos, se deberá observar lo siguiente:
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+I. Sólo se podrán comprometer recursos con cargo al presupuesto autorizado, contando previamente con la suficiencia presupuestaria, identificando la fuente de ingresos;
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+II. Se podrán realizar erogaciones adicionales a las aprobadas en el Presupuesto de Egresos con cargo a los Ingresos excedentes que obtengan y con la autorización previa de la Secretaría; y,
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+III. Con anterioridad al ejercicio o contratación de cualquier programa o proyecto de inversión cuyo monto rebase el equivalente a diez millones de Unidades de Inversión, deberá realizarse un análisis costo y beneficio, en donde se muestre que dichos programas y proyectos son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. Dicho análisis no se requerirá en el caso del gasto de inversión que se destine a la atención prioritaria de desastres naturales declarados en los términos de la Ley General de Protección Civil.
+
+Para este propósito, el Gobierno del Estado deberá contar con un área encargada de evaluar el análisis socioeconómico, conforme a los requisitos que, en su caso, se determinen para tales efectos; así como de integrar y administrar el registro de proyectos de Inversión Pública Productiva.
+
+Tratándose de proyectos de Inversión pública productiva que se pretendan contratar bajo un esquema de Asociación Público-Privada, el Gobierno del Estado y los Entes Públicos deberán acreditar, por lo menos, un análisis de conveniencia para llevar a cabo el proyecto a través de dicho esquema, en comparación con un mecanismo de obra pública tradicional y un análisis de transferencia de riesgos al sector privado.
+
+Dichas evaluaciones deberán ser públicas a través de la página oficial de internet de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+IV. Sólo procederá hacer pagos con base en el Presupuesto de Egresos autorizado, y por los conceptos efectivamente devengados, siempre que se hubieren registrado y contabilizado debida y oportunamente las operaciones consideradas en éste;
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+V. La asignación global de servicios personales aprobada originalmente en el Presupuesto de Egresos no podrá incrementarse durante el ejercicio fiscal.
+
+La Secretaría y las áreas administrativas de cada Ente Público contarán con un sistema de registro y control de las erogaciones de servicios personales;
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+VI. Se deberán tomar medidas para racionalizar el Gasto corriente.
+
+Los ahorros y economías generados como resultado de la aplicación de dichas medidas, así como los ahorros presupuestarios y las economías que resulten por concepto de un costo financiero de la Deuda Pública menor al presupuestado, deberán destinarse en primer lugar a corregir desviaciones del Balance presupuestario de recursos disponibles negativo, y en segundo lugar a los programas prioritarios; y,
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+VII. En materia de subsidios se deberá identificar la población objetivo, el propósito o destino principal y la temporalidad de su otorgamiento. Los mecanismos de distribución, operación y administración de los subsidios deberán garantizar que los recursos se entreguen a la población objetivo y reduzcan los gastos administrativos del programa correspondiente.
+
+La información a que se refiere esta fracción deberá hacerse pública a través de la página oficial de internet de la Secretaría.
 
 ###### ARTÍCULO 42.
 
@@ -565,9 +891,13 @@ II. Los Poderes Legislativo, Ejecutivo y Judicial, Organismos Autónomos, Depend
 
 III. Cuando del análisis de la ejecución del Presupuesto de Egresos, que realice la Secretaría, resulte que se cumplió con las metas de los programas establecidos, y no se detecten desviaciones en su ejecución o en la aplicación de los fondos correspondientes.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 47.
 
-Concluida la vigencia del Presupuesto de Egresos para cada año, sólo procederá hacer con base en éste, pago por los conceptos efectivamente devengados en el año que corresponda. Para estos efectos, los Poderes Legislativo, Ejecutivo y Judicial, Organismos Autónomos, Dependencias, Entidades y los Organismos Descentralizados, presentarán a la Secretaría los documentos de afectación presupuestaria, por gastos devengados en el ejercicio, a más tardar el treinta y uno de diciembre del ejercicio vigente, en los términos de esta Ley.
+Concluida la vigencia del Presupuesto de Egresos, sólo procederá realizar pagos con base en dicho presupuesto, por los conceptos efectivamente devengados en el año que corresponda y que se hubieren registrado en el informe de cuentas por pagar y que integran el pasivo circulante al cierre del ejercicio. Para estos efectos, los Poderes Legislativo, Ejecutivo y Judicial, Organismos Autónomos, Dependencias y Entidades, presentarán a la Secretaría los documentos de afectación presupuestaria, por gastos devengados en el ejercicio, a más tardar el treinta y uno de diciembre del ejercicio de que se trate, en los términos de esta Ley.
+
+En el caso de las Transferencias federales etiquetadas, a más tardar el 15 de enero de cada año, se deberán reintegrar a la Tesorería de la Federación las que, al 31 de diciembre del ejercicio fiscal inmediato anterior, no hayan sido devengadas por los Entes Públicos, los reintegros deberán incluir los rendimientos financieros generados. Para tales efectos, se entenderá que los Entes Públicos, han devengado las Transferencias federales etiquetadas, en los términos previstos en el artículo 4, fracción XV, de la Ley General de Contabilidad Gubernamental.
 
 ###### ARTÍCULO 48.
 
@@ -599,21 +929,17 @@ IV. Dentro del capítulo de gasto de inversión; los titulares de las Unidades P
 
 Así mismo los organismos municipales descentralizados previa autorización de sus órganos administrativos competentes, podrán realizar adecuaciones presupuestales compensadas ajustándose a los techos financieros autorizados en su presupuesto, observando lo establecido en las fracciones de este artículo.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 52.
 
-El Gobierno Municipal, por conducto de la tesorería, deberá realizar adecuaciones presupuestales para registrar las variaciones mensuales que resulten en los ingresos estimados respecto de los reales devengados, conforme lo establece el artículo 10, afectando a la Unidad Programática Presupuestaria que alude el artículo 31 de la presente Ley; cuando derivado de dichos ajustes, resulte un excedente en el monto asignado, previa reducción trimestral que establece el citado artículo, la tesorería podrá realizar reasignaciones presupuestales hasta por el 10 % de los excedentes acumulados por trimestre, para la ejecución de programas que considere prioritarios; para reasignar la diferencia de dicho monto, deberá contar con la aprobación del Ayuntamiento.
+Los Municipios, por conducto de la Tesorería Municipal, deberán realizar adecuaciones presupuestales para registrar las variaciones mensuales que resulten en los ingresos estimados respecto de los reales devengados, conforme lo establece el artículo 10, afectando a la Unidad Programática Presupuestaria que alude el artículo 31 de la presente Ley.
 
-La Tesorería, en el cuarto trimestre del ejercicio fiscal podrá reasignar los recursos presupuestales disponibles en la unidad programática que se refiere el artículo 31.
-
-Cuando derivado de los ajustes a que se refiere el primer párrafo de este articulo, resulte un déficit presupuestal, la tesorería, para subsanar el saldo negativo deberá realizar las reducciones a los montos asignados a las Dependencias municipales, tomando en cuenta las circunstancias económicas y sociales que priven en el Municipio, los alcances de los conceptos de gasto y en su caso, la naturaleza y características particulares de las Dependencias de que se trate, escuchando la opinión de sus titulares.
-
-Estas reducciones deberán realizarse en forma selectiva, sin afectar los programas prioritarios del gasto social y de inversión, salvo en los casos de disminución de fondos de participaciones o aportaciones en ingresos federales.
-
-Los Organismos Municipales Descentralizados, observarán lo establecido en el presente artículo, con la autorización e intervención en lo conducente de sus órganos administrativos competentes.
+En lo referente a los ingresos excedentes derivados de Ingresos de libre disposición y cuando los ingresos se vean disminuidos respecto de los previstos en la Ley de Ingresos Municipal, se estará a lo dispuesto por el artículo 37 párrafos segundo, tercero y cuarto de esta Ley.
 
 ###### ARTÍCULO 53.
 
-La Tesorería Municipal podrá realizar ampliaciones automáticas compensadas cuando existan incrementos salariales o en los precios de servicios básicos, de materiales, suministros, servicios generales y servicios de deuda, adicionales al gasto corriente presupuestado por ser indispensables para el cumplimento de las funciones de los Municipios.
+(DEROGADO, P.O. 5 DE AGOSTO DE 2016)
 
 ###### ARTÍCULO 54.
 
@@ -633,11 +959,7 @@ Cuando el Municipio reciba ingresos superiores a los estimados, por recaudación
 
 ###### ARTÍCULO 56.
 
-El presidente municipal solicitará la aprobación al ayuntamiento para realizar las adecuaciones presupuestales a que se refiere el artículo 52 de esta ley, debiendo anexar la información y documentación relativa a los programas y subprogramas involucrados, en los que se señalen las justificaciones, indicadores de gestión, objetivos, actividades, metas y techos financieros clasificados por el origen de los recursos, en congruencia con los programas estratégicos, sectoriales y regionales del PLAN DE DESARROLLO MUNICIPAL.
-
-Adicionalmente a lo dispuesto por el artículo 51 de la presente Ley, la Iniciativa de autorización para efectuar transferencias, ampliación, reducción, modificación, creación o supresión de partidas, prevista en el artículo 52 de la misma o requerimientos de adecuaciones presupuestarias del Presidente Municipal, deberá anexar la información y documentación relativa a los programas y subprogramas involucrados, en los que señalen indicadores de gestión, objetivos, actividades, metas y techos financieros clasificados por el origen de recursos, en congruencia con los programas estratégicos, sectoriales y regionales del Plan Municipal de Desarrollo.
-
-El Ayuntamiento se pronunciará en un término legal de hasta treinta días naturales una vez que la solicitud de autorización sea turnada a las comisiones dictaminadoras correspondientes, debiéndose informar con toda la documentación relativa a la Auditoria Superior de Michoacán. De no emitirse el pronunciamiento correspondiente en el plazo establecido, la afirmativa ficta surtirá sus efectos.
+(DEROGADO, P.O. 5 DE AGOSTO DE 2016)
 
 ###### ARTÍCULO 57.
 
@@ -645,19 +967,21 @@ La documentación comprobatoria del ejercicio del gasto se conservará por los M
 
 La documentación comprobatoria de la adquisición de bienes de dominio privado, deberá enviarse a la Sindicatura, para su guarda y custodia, hasta que los bienes de que se trate, sean desincorporados del patrimonio municipal.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 58.
 
-Las Dependencias, Entidades y Organismos Municipales, no podrán contraer obligaciones que comprometan recursos financieros adicionales a los montos que se autoricen en su Presupuesto de Egresos; no podrán celebrar convenios o contratos que comprometan recursos financieros con cargo a ejercicios futuros, sin contar con la previa autorización de la tesorería y cumplir con lo que establezcan las leyes de la materia.
+Toda propuesta de aumento o creación de gasto en el Presupuesto de Egresos Municipal, deberá acompañarse con la correspondiente iniciativa de ingreso o compensarse con reducciones en otras previsiones de gasto.
 
-Será indispensable la autorización previa y expresa de la tesorería en los casos siguientes:
+No procederá pago alguno que no esté comprendido en el Presupuesto de Egresos, determinado por ley posterior o con cargo a Ingresos excedentes. El Municipio, por conducto de la Tesorería Municipal, deberá revelar en la Cuenta Pública y en los informes trimestrales que entregue al Congreso, la fuente de ingresos con la que se haya pagado el nuevo gasto, distinguiendo el Gasto etiquetado y no etiquetado.
 
-I. Para la celebración de convenios o acuerdos de coordinación de acciones entre la Federación, el Gobierno del Estado y los municipios, en los que se comprometan recursos financieros Municipales será indispensable la intervención del Tesorero; y,
-
-II. Para la modificación de las proporciones de aportación de las Entidades y Organismos Municipales, que se deriven de los convenios o acuerdos, o cuando el incremento de la aportación de un año para otro, sea superior al incremento medio de sus Presupuestos de Egresos, para el año de que se trate.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 59.
 
-Concluida la vigencia del Presupuesto de Egresos del Municipio para cada año, sólo procederá hacer pago por los conceptos efectivamente devengados en el año que corresponda.
+Concluida la vigencia del Presupuesto de Egresos Municipal, sólo procederá realizar pagos con base en dicho presupuesto, por los conceptos efectivamente devengados en el año que corresponda y que se hubieren registrado en el informe de cuentas por pagar y que integran el pasivo circulante al cierre del ejercicio.
+
+En el caso de las Transferencias federales etiquetadas, a más tardar el 15 de enero de cada año, se deberán reintegrar a la Tesorería de la Federación las que, al 31 de diciembre del ejercicio fiscal inmediato anterior, no hayan sido devengadas por los Municipios, los reintegros deberán incluir los rendimientos financieros generados. Para tales efectos, se entenderá que los Municipios, han devengado las Transferencias federales etiquetadas, en los términos previstos en el artículo 4, fracción XV, de la Ley General de Contabilidad Gubernamental.
 
 ###### ARTÍCULO 60.
 
@@ -665,9 +989,11 @@ El registro del Gasto Público Municipal, comprenderá las asignaciones y adecua
 
 Por lo que se refiere al gasto de inversión, el registro del Gasto Público Municipal, comprenderá las asignaciones y adecuaciones presupuestales, compromisos y ejercicio de las partidas presupuestarias por Unidad Programática Presupuestaria, Unidad Responsable de la ejecución de los programas, programa, obra o acción y partidas.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 61.
 
-Los Municipios, Entidades y Organismos Municipales, para el ejercicio del Gasto Público, además de sujetarse a las previsiones de esta Ley y de la Ley General de Contabilidad Gubernamental y las normas y lineamientos del CONAC y el Consejo, deberán observar las disposiciones que expida la Tesorería.
+Los Municipios, para el ejercicio del Gasto Público, además de sujetarse a las previsiones de esta Ley, de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, de la Ley General de Contabilidad Gubernamental y las normas y lineamientos del CONAC y el Consejo, deberán observar las disposiciones que en su ámbito de competencia expida la Tesorería Municipal correspondiente.
 
 ## TÍTULO QUINTO. DE LA CONTABILIDAD GUBERNAMENTAL
 
@@ -1132,3 +1458,49 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 18 diciocho (sic) días del mes de marzo del año 2014 dos mil catorce.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- LIC. FAUSTO VALLEJO FIGUEROA.- EL SECRETARIO DE GOBIERNO.- LIC. JOSÉ JESÚS REYNA GARCÍA. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 166 "POR LOS QUE SE REFORMAN LOS ARTÍCULOS 1° PÁRRAFOS PRIMERO Y SEGUNDO, 2°, 4°, 17 PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO, 20 FRACCIONES III, IV, V, VII, IX, X, XII Y XV, 21 PÁRRAFO PRIMERO, 23, 31 PÁRRAFO PRIMERO, 37, 38, 39, 47, 52, 58, 59 Y 61; SE ADICIONAN LOS ARTÍCULOS 3° BIS, 13 CON LOS PÁRRAFOS TERCERO Y CUARTO; 13 BIS, 13 TER, 18 CON UN PÁRRAFO SEXTO, 19 BIS, 20 CON LAS FRACCIONES XVI Y XVII, PASANDO LA ACTUAL FRACCIÓN XVI A SER LA FRACCIÓN XVIII, 21 BIS, 21 TER, 24 BIS, 31 BIS, 31 TER, 40 CON LOS PÁRRAFOS TERCERO Y CUARTO Y 41 CON UN PÁRRAFO SEGUNDO; Y, SE DEROGAN LOS ARTÍCULOS 53 Y 56 DE LA LEY DE PLANEACIÓN HACENDARIA, PRESUPUESTO, GASTO PÚBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, salvo lo previsto en los artículos del Sexto al Décimo Tercero transitorios.
+
+SEGUNDO. Se abroga la Ley de Deuda Pública del Estado de Michoacán de Ocampo.
+
+TERCERO. Las menciones que en las leyes, reglamentos, decretos y cualquier disposición administrativa, así como en contratos, convenios y cualquier instrumento jurídico se hagan a la Ley de Deuda Pública del Estado de Michoacán de Ocampo, se entenderán referidas a la Ley de Deuda pública para el Estado de Michoacán de Ocampo y sus Municipios.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+QUINTO. El Registro Público Único a que se refieren el Capítulo VI del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y el Capítulo V de la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios, sustituirá al Registro Único de Obligaciones y Empréstitos.
+
+Los trámites iniciados ante el Registro Único de Obligaciones y Empréstitos, con anterioridad a la entrada en vigor de este decreto, se llevarán a cabo de conformidad con las disposiciones vigentes en la fecha de inicio del trámite.
+
+Las referencias al Registro Único de Obligaciones y Empréstitos en las leyes y disposiciones administrativas, así como en cualquier otro acto jurídico, se entenderán hechas al Registro Público Único.
+
+Las Obligaciones establecidas en la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios, respecto del Registro Público Único, serán aplicables hasta la entrada en operación del mismo. En tanto, seguirán vigentes las disposiciones del Registro Único de Obligaciones y Empréstitos.
+
+SEXTO. El artículo segundo del presente Decreto entrará en vigor para efectos del ejercicio fiscal 2017, con las salvedades previstas en los transitorios Séptimo al Décimo Tercero.
+
+SÉPTIMO. El porcentaje a que hace referencia el artículo 19 Bis de la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo, relativo al nivel de aportación al fideicomiso para realizar acciones preventivas o atender daños ocasionados por desastres naturales, corresponderá a un 2.5 por ciento para el año 2017, 5 por ciento para el año 2018, 7.5 por ciento para el año 2019 y, a partir del año 2020, se observará el porcentaje establecido en el artículo citado.
+
+OCTAVO. El párrafo sexto con su fracción I del artículo 18 de la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo, iniciará vigencia para efectos del Presupuesto de Egresos correspondiente al ejercicio fiscal del año 2018.
+
+Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico, paramédico y afín, estarán exentos del cumplimiento de lo dispuesto en los artículos 18 párrafo sexto fracción I y 20 fracción VII de la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo hasta el año 2020. En ningún caso, esta excepción transitoria deberá considerar personal administrativo.
+
+NOVENO. El porcentaje a que hace referencia el artículo 31 Bis de de (sic) la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo, relativo a los adeudos del ejercicio fiscal anterior, será del 5 por ciento para el ejercicio 2017, 4 por ciento para el 2018, 3 por ciento para el 2019 y a partir del 2020 se observará el porcentaje establecido en el artículo citado.
+
+DÉCIMO. El registro de proyectos de Inversión Pública Productiva y el sistema de registro y control de las erogaciones de servicios personales, a que se refiere el artículo 41 fracciones III párrafo segundo y V párrafo segundo, respectivamente, de la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo, deberá estar en operación a más tardar el 1° de enero de 2018.
+
+DÉCIMO PRIMERO. Los Ingresos excedentes derivados de ingresos de libre disposición a que hace referencia el artículo 37 párrafo segundo fracción I, de la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo, podrán destinarse a reducir el balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de este Decreto y hasta el ejercicio fiscal 2022.
+
+En lo correspondiente al párrafo tercero del artículo 37 de la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo, adicionalmente podrán destinarse a gasto corriente hasta el ejercicio fiscal 2017 los Ingresos excedentes derivados de Ingresos de Libre Disposición, siempre y cuando el Gobierno del Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas a que se refieren la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios.
+
+DÉCIMO SEGUNDO. Para el caso de las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria de los Municipios, a que se refieren los artículos 23, 24 Bis, 31 Bis y 31 Ter de la Ley de Planeación Hacendaria, Presupuesto, Gasto. Público (sic) y Contabilidad Gubernamental del Estado de Michoacán de Ocampo, entrarán en vigor para los efectos del ejercicio fiscal 2018, con las salvedades previstas en el artículo transitorio décimo primero y los que apliquen de acuerdo al propio artículo 31 Ter de esa misma Ley.
+
+DÉCIMO TERCERO. El porcentaje a que hace referencia el artículo 31 Bis de la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo, relativo a los adeudos del ejercicio fiscal anterior de los Municipios, será de 5.5 por ciento para el año 2017, 4.5 por ciento para el 2018, 3.5 por ciento para el 2019 y, a partir de 2020 se estará al porcentaje establecido en dicho artículo.
+
+DÉCIMO CUARTO. Los reglamentos, manuales y demás disposiciones administrativas que en materia presupuestaria emita el Ejecutivo del Estado, deberán de adecuarse a lo dispuesto en el Presente Decreto, a efecto de estar considerados en el Proyecto de Presupuesto de Egresos.
+
+DÉCIMO QUINTO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, y al Titular de la Auditoria Superior de Michoacán, para su conocimiento y efectos legales conducentes.
