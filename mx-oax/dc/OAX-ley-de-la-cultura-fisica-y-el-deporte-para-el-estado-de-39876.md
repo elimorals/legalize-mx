@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-la-cultura-fisica-y-el-deporte-para-el-estado-de-39876"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-08"
-last_updated: "2004-05-08"
+last_updated: "2016-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39876&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # LEY DE LA CULTURA FISICA Y EL DEPORTE PARA EL ESTADO DE OAXACA
 
-LEY DE LA CULTURA FISICA Y EL DEPORTE PARA EL ESTADO DE OAXACA
+LEY DE LA CULTURA FÍSICA Y EL DEPORTE PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el 8 de mayo de 2004.
 
@@ -145,7 +145,7 @@ III.- Representar al deporte estatal ante organismos, nacionales e internacional
 
 IV.- Establecer el Registro, en coordinación con el organismo responsable en el ámbito federal;
 
-V.- Establecer las relaciones de colaboración y coordinación necesaria (sic) ente los gobiernos estatal y municipal para determinar el uso y creación de áreas deportivas y recreativas públicas;
+V.- Establecer las relaciones de colaboración y coordinación necesaria ente (sic) los gobiernos estatal y municipal para determinar el uso y creación de áreas deportivas y recreativas públicas;
 
 VI.- Gestionar ante las autoridades correspondientes incentivos fiscales para promover el apoyo económico y de material deportivo provenientes del sector social y privado;
 
@@ -591,6 +591,12 @@ Los estímulos y apoyos a que se refiere este capítulo, estarán a cargo del Si
 
 Podrán recibir estos estímulos y apoyos, las personas físicas y morales, así como las instituciones que se destaquen por impulsar y realizar actividades destinadas al desarrollo del deporte, sin considerar para tal efecto, aquellas que tengan fines de lucro.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+El Sistema Estatal promoverá y gestionará la constitución de fideicomisos destinados al otorgamiento de un reconocimiento económico vitalicio, a los deportistas discapacitados oaxaqueños de alto rendimiento que en representación oficial obtengan o hayan obtenido una o más medallas en Juegos Paralímpicos, Mundialista y Parapanamericanos.
+
 ###### ARTICULO 68.
 
 Los estímulos previstos en esta Ley, podrán consistir en:
@@ -762,3 +768,17 @@ Oaxaca de Juárez, Oax., a 03 de mayo del 2004.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. CELESTINO MANUEL ALONSO ALVAREZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2003.- MEDIANTE EL CUAL SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 67 DE LA LEY DE LA CULTURA FÍSICA Y EL DEPORTE PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor en un plazo de 6 meses a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales que se opongan a la presente Ley.
+
+TERCERO. El Sistema Estatal, implementará las acciones y procedimientos necesarios para el cumplimiento del presente Decreto.
+
+CUARTO. Se faculta a la Secretaría de Finanzas del Poder Ejecutivo del Estado, para que en el ámbito de sus respectivas competencias, den cumplimiento al presente Decreto.
