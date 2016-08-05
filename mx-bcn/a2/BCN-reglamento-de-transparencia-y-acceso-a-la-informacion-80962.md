@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transparencia-y-acceso-a-la-informacion-80962"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-15"
-last_updated: "2011-05-27"
+last_updated: "2016-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
 
-REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO TERCERO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL INSTITUTO ESTATAL ELECTORAL DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 5 DE AGOSTO DE 2016; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A LA PAR DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 27 DE MAYO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 15 de abril de 2011.
 
@@ -462,3 +462,19 @@ QUINTO.- A más tardar el 31 de marzo de 2011, la Unidad de Transparencia deber�
 SEXTO.- Publíquese el presente Reglamento en el Periódico Oficial del Estado de Baja California.
 
 SÉPTIMO.- Publíquese el presente Reglamento en el Portal del Instituto Electoral y de Participación Ciudadana del Estado de Baja California.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL INSTITUTO ESTATAL ELECTORAL DE BAJA CALIFORNIA”.]
+
+PRIMERO. El presente Reglamento entrará en vigor a la par de la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California.
+
+SEGUNDO. En tanto no se expida la Ley Estatal en Materia de Datos Personales en posesión de Sujetos Obligados, permanecerá vigente la normatividad estatal en la materia.
+
+TERCERO. Una vez que entre en vigor el presente Reglamento, quedará abrogado el Reglamento de Transparencia y Acceso a la Información Pública del Instituto Electoral y de Participación Ciudadana del Estado de Baja California aprobado en la IV Sesión Extraordinaria del Consejo General Electoral de fecha 31 de marzo de 2011.
+
+CUARTO. Publíquese el presente Reglamento en el Periódico Oficial del Estado de Baja California.
+
+QUINTO. Publíquese el presente Reglamento en el Portal de Obligaciones de Transparencia del Instituto Estatal Electoral de Baja California.
