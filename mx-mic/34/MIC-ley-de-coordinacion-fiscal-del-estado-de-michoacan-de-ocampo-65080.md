@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-coordinacion-fiscal-del-estado-de-michoacan-de-ocampo-65
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2014-12-30"
+last_updated: "2016-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el miércoles 31 de diciembre de 2008.
 
@@ -337,15 +337,13 @@ Si como resultado de las liquidaciones que la Federación realice para el Estado
 
 Para efectos de lo dispuesto en el párrafo anterior, el monto a cargo de cada Municipio se determinará con los mismos coeficientes con los que se les hayan efectuado los pagos provisionales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(REPUBLICADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2014)
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 16.
 
-Las participaciones que correspondan a los municipios serán cubiertas en efectivo, no en obra, sin condicionamiento alguno, no serán embargables; no podrán afectarse a fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas por éstos y sus organismos descentralizados, con garantía de las mismas previo Acuerdo de Cabildo y autorización del Congreso del Estado, en los términos del mecanismo establecido en la Ley de Deuda Pública del Estado de Michoacán de Ocampo, a favor de las instituciones de crédito o personas otorgantes de los créditos de que se trate.
+Las participaciones que correspondan a los municipios serán cubiertas en efectivo, no en obra, sin condicionamiento alguno, no serán embargables; no podrán afectarse a fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraidas por éstos y sus organismos descentralizados, con garantía de las mismas previo Acuerdo del Ayuntamiento y autorización del Congreso del Estado, en los términos previstos por los artículos 18, 20, 21 y 23 de la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios.
 
-Asimismo, serán objeto de retención para el pago de obligaciones a cargo de los municipios y/o de sus organismos, a favor del Gobierno del Estado o de la Federación, cuando así se establezca en el Acuerdo de Cabildo correspondiente.
+Asimismo, serán objeto de retención para el pago de obligaciones a cargo de los municipios y/o de sus organismos, a favor del Gobierno del Estado o de la Federación, cuando así se establezca en el Acuerdo del Ayuntamiento correspondiente y en el Convenio de Colaboración que para el efecto celebre.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -475,21 +473,33 @@ Los Municipios que no cuenten con página oficial, convendrán con el Gobierno d
 
 El Fondo de Aportaciones Federales para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal, se enterará mensualmente en los primeros diez meses del año por partes iguales; a través de la Secretaría de Finanzas y Administración, de manera ágil y directa, sin más limitaciones ni restricciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 26-A.
 
-Las aportaciones con cargo al Fondo de Aportaciones para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal, podrán afectarse para garantizar obligaciones en caso de incumplimiento, o servir como fuente de pago de dichas obligaciones que contraigan con la Federación, las instituciones de crédito que operen en territorio nacional o con personas físicas o morales de nacionalidad mexicana, siempre que cuenten con autorización del Honorable Congreso del Estado, y se inscriban a petición de los Municipios, ante la Secretaría de Hacienda y Crédito Público, en el Registro de Obligaciones y Empréstitos de Entidades y Municipios, así como en el Registro Único de Obligaciones y Empréstitos a que se refiere el Artículo 9° de la Ley de Coordinación Fiscal.
+Las aportaciones con cargo al Fondo de Aportaciones para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal, podrán afectarse como fuente de pago, garantía de pago o ambas, de Financiamientos u Obligaciones contratadas en términos de la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, siempre y cuando se cuente con el Acuerdo del Ayuntamiento correspondiente y se cumpla con lo dispuesto para el efecto en los artículos 50 de la Ley de Coordinación Fiscal y 19, 20, 21 y 22 de la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 Los financiamientos que den origen a las obligaciones a que hace referencia el párrafo anterior, únicamente podrán destinarse a los fines establecidos en el Artículo 25 de esta Ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+
 Los Municipios que contraigan obligaciones al amparo de este Artículo, no podrán destinar más del 25% de los recursos que anualmente les correspondan, para servir dichas obligaciones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 Tratándose de obligaciones pagaderas en dos o más ejercicios fiscales, para cada año podrá destinarse al servicio de las mismas lo que resulte mayor entre aplicar el porcentaje a que se refiere el párrafo anterior a los recursos correspondientes al año de que se trate o a los recursos correspondientes al año en que las obligaciones hayan sido contratadas.
 
-Los Municipios efectuarán los pagos de las obligaciones contraídas en los términos de este artículo, con cargo a las aportaciones que les correspondan del Fondo de Aportaciones para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal, a través de mecanismos de garantía o de fuente de pago, sin perjuicio de los instrumentos de registro establecidos en la Ley de Deuda Pública del Estado de Michoacán de Ocampo.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+Los Municipios efectuarán los pagos de los Financiamientos u Obligaciones a que se refiere este artículo, con cargo a las aportaciones que les correspondan del Fondo de Aportaciones para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal, a través de mecanismos de garantía o de fuente de pago, sin perjuicio de los instrumentos de registro establecidos en la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -519,17 +529,11 @@ Respecto de las aportaciones que reciban con cargo al Fondo a que se refiere est
 
 El Fondo de Aportaciones Federales para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito federal, se enterará mensualmente a los Municipios durante los doce meses del año por partes iguales; a través de la Secretaría de Finanzas y Administración, de manera ágil y directa, sin más limitaciones ni restricciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 28-B.
 
-Las Aportaciones con cargo al Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, podrá afectarse como garantía del cumplimiento de sus obligaciones de pago de derechos y aprovechamientos por concepto de agua y descargas de aguas residuales.
-
-En caso de incumplimiento por parte de los Municipios a sus obligaciones de pago de derechos y aprovechamientos por los conceptos referidos en el párrafo inmediato anterior, la Comisión Nacional del Agua podrá solicitar al Gobierno del Estado de Michoacán de Ocampo, previa acreditación del incumplimiento, la retención y pago del adeudo con cargo a los recursos de este Fondo, que correspondan al municipio de que se trate. La Comisión Nacional del Agua podrá solicitar la retención y pago señalados cuando el adeudo tenga una antigüedad de 90 días naturales. Lo anterior será aplicable, siempre y cuando el servicio de suministro de agua no sea proporcionado directamente por la Comisión Nacional del Agua, sino a través de organismos prestadores del servicio.
-
-La Comisión Nacional del Agua podrá ceder, afectar y en términos generales transferir los recursos derivados de la retención referida en el párrafo inmediato anterior, a fideicomisos u otros mecanismos de fuente de pago o de garantía constituidos para el financiamiento de infraestructura prioritaria en las materias de abastecimiento de agua potable, drenaje o saneamiento de aguas residuales.
+Las Aportaciones con cargo al Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, podrán afectarse como garantía del cumplimiento de sus obligaciones de pago de derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, previo Acuerdo del Ayuntamiento y cumpliendo en sus términos lo dispuesto por el artículo 51 de la Ley de Coordinación Fiscal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -820,3 +824,49 @@ Para el Ejercicio Fiscal del año 2015, la distribución entre los municipios, d
 ###### ARTÍCULO OCTAVO.
 
 Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, y al Titular de la Auditoría Superior de Michoacán del Honorable Congreso del Estado de Michoacán de Ocampo.
+
+P.O. 5 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 166 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 16, 26-A PÁRRAFOS PRIMERO Y QUINTO, Y 28-B DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, salvo lo previsto en los artículos del Sexto al Décimo Tercero transitorios.
+
+SEGUNDO. Se abroga la Ley de Deuda Pública del Estado de Michoacán de Ocampo.
+
+TERCERO. Las menciones que en las leyes, reglamentos, decretos y cualquier disposición administrativa, así como en contratos, convenios y cualquier instrumento jurídico se hagan a la Ley de Deuda Pública del Estado de Michoacán de Ocampo, se entenderán referidas a la Ley de Deuda pública para el Estado de Michoacán de Ocampo y sus Municipios.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+QUINTO. El Registro Público Único a que se refieren el Capítulo VI del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y el Capítulo V de la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios, sustituirá al Registro Único de Obligaciones y Empréstitos.
+
+Los trámites iniciados ante el Registro Único de Obligaciones y Empréstitos, con anterioridad a la entrada en vigor de este decreto, se llevarán a cabo de conformidad con las disposiciones vigentes en la fecha de inicio del trámite.
+
+Las referencias al Registro Único de Obligaciones y Empréstitos en las leyes y disposiciones administrativas, así como en cualquier otro acto jurídico, se entenderán hechas al Registro Público Único.
+
+Las Obligaciones establecidas en la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios, respecto del Registro Público Único, serán aplicables hasta la entrada en operación del mismo. En tanto, seguirán vigentes las disposiciones del Registro Único de Obligaciones y Empréstitos.
+
+SEXTO. El artículo segundo del presente Decreto entrará en vigor para efectos del ejercicio fiscal 2017, con las salvedades previstas en los transitorios Séptimo al Décimo Tercero.
+
+SÉPTIMO. El porcentaje a que hace referencia el artículo 19 Bis de la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo, relativo al nivel de aportación al fideicomiso para realizar acciones preventivas o atender daños ocasionados por desastres naturales, corresponderá a un 2.5 por ciento para el año 2017, 5 por ciento para el año 2018, 7.5 por ciento para el año 2019 y, a partir del año 2020, se observará el porcentaje establecido en el artículo citado.
+
+OCTAVO. El párrafo sexto con su fracción I del artículo 18 de la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo, iniciará vigencia para efectos del Presupuesto de Egresos correspondiente al ejercicio fiscal del año 2018.
+
+Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico, paramédico y afín, estarán exentos del cumplimiento de lo dispuesto en los artículos 18 párrafo sexto fracción I y 20 fracción VII de la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo hasta el año 2020. En ningún caso, esta excepción transitoria deberá considerar personal administrativo.
+
+NOVENO. El porcentaje a que hace referencia el artículo 31 Bis de de (sic) la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo, relativo a los adeudos del ejercicio fiscal anterior, será del 5 por ciento para el ejercicio 2017, 4 por ciento para el 2018, 3 por ciento para el 2019 y a partir del 2020 se observará el porcentaje establecido en el artículo citado.
+
+DÉCIMO. El registro de proyectos de Inversión Pública Productiva y el sistema de registro y control de las erogaciones de servicios personales, a que se refiere el artículo 41 fracciones III párrafo segundo y V párrafo segundo, respectivamente, de la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo, deberá estar en operación a más tardar el 1° de enero de 2018.
+
+DÉCIMO PRIMERO. Los Ingresos excedentes derivados de ingresos de libre disposición a que hace referencia el artículo 37 párrafo segundo fracción I, de la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo, podrán destinarse a reducir el balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de este Decreto y hasta el ejercicio fiscal 2022.
+
+En lo correspondiente al párrafo tercero del artículo 37 de la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo, adicionalmente podrán destinarse a gasto corriente hasta el ejercicio fiscal 2017 los Ingresos excedentes derivados de Ingresos de Libre Disposición, siempre y cuando el Gobierno del Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas a que se refieren la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios.
+
+DÉCIMO SEGUNDO. Para el caso de las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria de los Municipios, a que se refieren los artículos 23, 24 Bis, 31 Bis y 31 Ter de la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo, entrarán en vigor para los efectos del ejercicio fiscal 2018, con las salvedades previstas en el artículo transitorio décimo primero y los que apliquen de acuerdo al propio artículo 31 Ter de esa misma Ley.
+
+DÉCIMO TERCERO. El porcentaje a que hace referencia el artículo 31 Bis de la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo, relativo a los adeudos del ejercicio fiscal anterior de los Municipios, será de 5.5 por ciento para el año 2017, 4.5 por ciento para el 2018, 3.5 por ciento para el 2019 y, a partir de 2020 se estará al porcentaje establecido en dicho artículo.
+
+DÉCIMO CUARTO. Los reglamentos, manuales y demás disposiciones administrativas que en materia presupuestaria emita el Ejecutivo del Estado, deberán de adecuarse a lo dispuesto en el Presente Decreto, a efecto de estar considerados en el Proyecto de Presupuesto de Egresos.
+
+DÉCIMO QUINTO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, y al Titular de la Auditoria Superior de Michoacán, para su conocimiento y efectos legales conducentes.
+
+El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
