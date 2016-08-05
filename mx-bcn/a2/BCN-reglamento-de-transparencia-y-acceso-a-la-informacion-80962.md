@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transparencia-y-acceso-a-la-informacion-80962"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-15"
-last_updated: "2011-05-27"
+last_updated: "2016-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,514 +21,460 @@ state: "BCN"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
 
-LEY DE PRESTACIONES DE SEGURIDAD SOCIAL DE LAS INSTITUCIONES POLICIALES Y DE PROCURACIÓN DE JUSTICIA DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO TERCERO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL INSTITUTO ESTATAL ELECTORAL DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 5 DE AGOSTO DE 2016; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A LA PAR DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2015.
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
 
-Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 22 de enero de 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016 (ABROGADO).
 
-GRACO LUIS RAMÍREZ GARRIDO ABREU, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
+Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 15 de abril de 2011.
 
-Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
+INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA
 
-LA QUINCUAGÉSIMA SEGUNDA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LA FACULTAD QUE LE OTORGA LA FRACCIÓN II, DEL ARTÍCULO 40, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y AL TENOR DE LOS SIGUIENTES:
+Con fundamento en lo previsto por el artículo 147 fracción VI, XI y XIII, y 148 fracción VIII, de la Ley de Instituciones y Procedimientos Electorales del Estado de Baja California, se publica en el Periódico Oficial del Estado de Baja California, el REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA, en cumplimiento del transitorio sexto del Reglamento en mención, aprobado por el Pleno del Consejo General Electoral del Instituto Electoral y de Participación Ciudadana, en su Cuarta Sesión Extraordinaria, realizada el día 31 de marzo de 2011.
 
-CONSIDERANDOS…
+ATENTAMENTE
 
-Por lo anteriormente expuesto, esta Legislatura ha tenido a bien expedir la siguiente:
+"Por la Autonomía e Independencia de los Organismos Electorales"
 
-LEY DE PRESTACIONES DE SEGURIDAD SOCIAL DE LAS INSTITUCIONES POLICIALES Y DE PROCURACIÓN DE JUSTICIA DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA.
+ING. ENRIQUE CARLOS BLANCAS CRUZ
+
+CONSEJERO PRESIDENTE
+
+LIC. GRACIELA AMEZOLA CANSECO
+
+SECRETARIA FEDATARIA
+
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 1.
 
-La presente Ley tiene por objeto normar las prestaciones de seguridad social que corresponden a los miembros de las Instituciones Policiales y de Procuración De Justicia detallados en el artículo 2 de esta Ley, los cuales están sujetos a una relación administrativa, con el fin de garantizarles el derecho a la salud, la asistencia médica, los servicios sociales, así como del otorgamiento de pensiones, previo cumplimiento de los requisitos legales.
+El presente Reglamento es de orden público y de observancia general, y tiene por objeto:
 
-Así mismo, esta Ley se ocupa de la determinación de los derechos que asisten a los beneficiarios de los sujetos de la Ley y detalla los requisitos para hacerlos efectivos.
+I. Dar plena eficacia a los principios y procedimientos contenidos en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California, conforme a lo establecido en el artículo 5 fracción XV del ordenamiento legal en cita;
+
+II. La protección de los datos personales en poder del Instituto Electoral y de Participación Ciudadana del Estado de Baja California;
+
+III. Regular los criterios y procedimientos para garantizar a toda persona el acceso a la información pública generada, administrada o en poder del Instituto Electoral y de Participación Ciudadana del Estado de Baja California, y
+
+IV. Establecer los criterios y procedimientos administrativos para el oportuno, claro, sencillo y veraz acceso a la información pública en poder de este Instituto Electoral, proveyendo en la esfera de su competencia lo necesario para garantizar la adecuada y oportuna rendición de cuentas a través de la generación y publicación de información sobre sus indicadores de gestión y ejercicio de sus recursos públicos.
+
+Los integrantes del Consejo General Electoral, y en su caso, los integrantes de los Consejos Distritales Electorales del Instituto Electoral y de Participación Ciudadana, tendrán acceso a la información conforme a lo dispuesto en la Ley de Instituciones y Procedimientos Electorales del Estado de Baja California, por lo que no les aplican los procedimientos establecidos en el presente Reglamento.
 
 ###### Artículo 2.
 
-Son sujetos de esta Ley, los miembros de las Instituciones Policiales y de Procuración de Justicia siguientes:
+Además de las definiciones previstas en el artículo 5 de la Ley, para los efectos de este Reglamento se entiende por:
 
-I.- Dentro de las Instituciones Policiales: Estatales.- El Secretario de Seguridad Pública, el Secretario Ejecutivo, los Titulares, Mandos Superiores y Mandos Medios de la Secretaría de Seguridad Pública, los elementos de Policía Preventiva Estatal con sus grupos de investigación, de Policía Ministerial, los elementos de vigilancia y custodia de los establecimientos penitenciarios, así como los encargados de la seguridad durante los procesos judiciales y la vigilancia del cumplimiento de las medidas cautelares tanto de adolecentes como de adultos. Municipales.- El Secretario de Seguridad Pública, los Titulares, Mandos Superiores y Mandos Medios de la Secretaría de Seguridad Pública Municipal, los elementos policiacos y operativos de Seguridad Pública; y
+I. Comité de Transparencia: El Comité Técnico de Transparencia y Acceso a la Información del Instituto Electoral y de Participación Ciudadana del Estado de Baja California;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2015)</small>
+II. Consejo Distrital: Los Consejos Distritales Electorales del Instituto Electoral y de Participación Ciudadana;
 
-II.- Dentro de las Instituciones de Procuración de Justicia: El Fiscal General, los Agentes del Ministerio Público y los Peritos.
+III. Consejo General: El Consejo General Electoral del Instituto Electoral y de Participación Ciudadana;
+
+IV. Datos Personales: La información numérica, alfabética, gráfica, fotográfica, acústica o de cualquier otro tipo, concerniente a una persona física o jurídica identificada o identificable, entre otra, la relativa a su origen racial o étnico, domicilio, número telefónico, patrimonio, ideología, creencias o convicción religiosa, filosófica, política o de otro género y los referidos a características físicas, morales o emocionales, preferencias sexuales, vida afectiva o familiar, o cualquier otro referente al estado de salud físico o mental;
+
+V. Días hábiles: Todos los días a excepción de los sábados, domingos y los días inhábiles, en términos de Ley.
+
+VI. Información pública: Todo archivo, registro o comunicación contenido en cualquier medio, documento o registro impreso, óptico, electrónico o cualquier otro generado, obtenido o en poder del Instituto Electoral;
+
+VII. Instituto Electoral: El Instituto Electoral y de Participación Ciudadana del Estado de Baja California;
+
+VIII. Ley: Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California;
+
+IX. Ley Electoral: Ley de Instituciones y Procedimientos Electorales del Estado de Baja California;
+
+X. Órgano Garante: El Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California;
+
+XI. Órganos del Instituto Electoral: Los que ejercen funciones normativas, directivas, operativas, de vigilancia y técnicas en términos de la Constitución Política del Estado Libre y Soberano de Baja California, la Ley Electoral, y los Reglamentos que de ella emanen, desde el nivel de Direcciones Ejecutivas en adelante; y tratándose de órganos colegiados los que determinen los ordenamientos mencionados;
+
+XII. Portal de Transparencia: El portal electrónico de la Unidad de Transparencia ubicado en la página institucional de internet del Instituto Electoral;
+
+XIII. Reglamento: Reglamento de Transparencia y Acceso a la Información Pública del Instituto Electoral y de Participación Ciudadana del Estado de Baja California;
+
+XIV. Solicitante: Toda persona física o moral que requiera información del Instituto Electoral, y
+
+XV. Unidad de Transparencia: El órgano operativo encargado de difundir la información de oficio, recibir y tramitar las solicitudes de acceso a la información y de protección de los datos personales, que se formulen al Instituto Electoral, y servir como vínculo entre éste y los solicitantes.
 
 ###### Artículo 3.
 
-Para efectos de la presente Ley se entenderá por:
-
-I.- Sujetos de la Ley: Los miembros descritos en el artículo 2 de la presente Ley;
-
-II.- Secretaría: La Secretaría de Seguridad Pública del Estado de Morelos;
-
-III.- Ley: La presente Ley de Prestaciones de Seguridad Social de las Instituciones Policiales y de Procuración de Justicia del Sistema Estatal de Seguridad Pública;
-
-IV.- Ley del Sistema: La Ley del Sistema de Seguridad Pública del Estado de Morelos;
-
-V.- Institución Obligada: La Entidad Pública Estatal, ya sea Policial o de Procuración de Justicia, así como la Entidad de Seguridad Pública Municipal, con la cual los sujetos a la presente Ley tienen una relación administrativa;
-
-VI.- Relación administrativa: Es el vínculo por medio del cual el Estado y sus Municipios encomienda a los miembros de las Instituciones Policiales y de Procuración de Justicia la función de (sic) estatal de Seguridad Pública, para que dentro de su categoría o nivel desempeñen o ejecuten un servicio o función de seguridad pública, en beneficio directo de la colectividad, de conformidad con la naturaleza de cada institución a la que pertenece, en términos del artículo 123, apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos; y
-
-VII.- Beneficiarios: La persona en cuyo favor se ha designado un beneficio económico por disposición legal o voluntad expresa de los sujetos de esta Ley, según Corresponda.
+Las disposiciones de este Reglamento deberán favorecer los principios de máxima publicidad, sencillez y prontitud en el procedimiento de acceso a la información, gratuidad, y suplencia de la solicitud, establecidos en la Ley.
 
 ###### Artículo 4.
 
-A los sujetos de la presente Ley, en términos de la misma, se les otorgarán las siguientes prestaciones:
-
-I.- La afiliación a un sistema principal de seguridad social, como son el Instituto Mexicano del Seguro Social o el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
-
-II.- El acceso a créditos para obtener vivienda;
-
-III.- Recibir en especie una despensa o ayuda económica por ese concepto;
-
-IV.- El disfrute de un seguro de vida, cuyo monto no será menor de cien meses de salario mínimo general vigente en el Estado por muerte natural; doscientos meses de Salario Mínimo General Vigente en el Estado, por muerte accidental; y 300 meses de Salario Mínimo General por muerte considerada riesgo de trabajo.
-
-V.- A que, en caso de que fallezca, sus beneficiarios reciban el importe de hasta doce meses de Salario Mínimo General Vigente en Morelos, por concepto de apoyo para gastos funerales;
-
-VI.- Recibir el equipo y material necesario para desempeñar la función;
-
-VII.- Contar con un bono de riesgo, en los términos de esta Ley;
-
-VIII.- Recibir una ayuda para transporte;
-
-IX.- Los beneficiarios derivados de riesgos y enfermedades, maternidad y paternidad;
-
-X.- Las pensiones por Jubilación, por Cesantía en Edad Avanzada o por Invalidez;
-
-XI.- A que sus beneficiarios puedan obtener una pensión por Viudez, por Orfandad o por Ascendencia;
-
-XII.- Recibir préstamos por medio de la Institución con la que al efecto se convenga; y
-
-XIII.- Disfrutar de los beneficios o las actividades sociales, culturales y deportivas, en términos de los Convenios respectivos.
+La abrogación, derogación, reforma o adición de las normas contenidas en este Reglamento, se realizará mediante el voto de la mayoría calificada de los integrantes del Consejo General con derecho a voto.
 
 ###### Artículo 5.
 
-Las prestaciones, seguros y servicios citados en el artículo que antecede, estarán a cargo de las respectivas Instituciones Obligadas Estatales o Municipales, y se cubrirán de manera directa cuando así proceda y no sea con base en aportaciones de los sujetos de la Ley, mismo caso para los sistemas principales de seguridad social a través de las Instituciones que para cada caso proceda, tales como el Instituto Mexicano del Seguro Social, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, o el Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado de Morelos, entre otras.
+La consulta de la información pública es gratuita. Sin embargo, la reproducción de información en copias simples excedentes a 30 cuartillas, tendrá el costo que corresponda a la reproducción de la información según la cuota de recuperación que establezca el Comité de Transparencia, o bien, el solicitante podrá proporcionar el material para su impresión o reproducción.
 
-### CAPÍTULO SEGUNDO. RIESGOS, ENFERMEDADES Y MATERNIDAD
+De requerirse que la información sea entregada en el domicilio del solicitante, éste deberá contratar y pagar el servicio de envío a través de una empresa privada de mensajería.
+
+### CAPÍTULO SEGUNDO. DE LA INFORMACIÓN PÚBLICA
 
 ###### Artículo 6.
 
-Es obligación de los sujetos, designar a sus beneficiarios en los casos de aquellas prestaciones en las que la presente Ley o la de la materia no señalen el orden de prelación de beneficiarios, y deberá también mantener actualizada dicha designación. En caso de ser omiso se estará en el siguiente orden:
-
-I.- El o la cónyuge supérstite e hijos menores de edad o menores de veinticinco años que se encuentren aun estudiando, o cualquiera que sea su edad si se encuentran imposibilitados física o mentalmente para trabajar;
-
-II.- A falta de cónyuge supérstite, la persona con quien el sujeto de la Ley vivió como si fuera su cónyuge durante los cinco años inmediatos anteriores, o cualquiera que fuere el tiempo cuando hubieren tenido hijos, siempre que ambos hubieran permanecido libres de matrimonio durante el concubinato. En caso de que dos o más personas reclamen el reconocimiento de beneficiarias con base en la presente fracción, se suspenderá el procedimiento respectivo, hasta en tanto la autoridad jurisdiccional competente en materia familiar, determine a quien le corresponde el carácter de concubina o concubino;
-
-III.- Los ascendientes, cuando se pruebe mediante resolución de la autoridad jurisdiccional competente en materia familiar, que dependían económicamente del sujeto de la Ley; y
-
-IV.- A falta de cónyuge supérstite, hijos, concubina o concubino, o ascendientes, las personas que mediante resolución de la autoridad jurisdiccional competente demuestren que dependían del sujeto de la Ley.
-
-Así mismo, ante el área encargada de los Recursos Humanos dentro de la Institución Obligada, tienen el deber de registrar y actualizar su domicilio particular dentro de los cinco días hábiles siguientes a aquel en que ocurra el cambio, para efectos de recibir ahí todas las notificaciones y comunicaciones relacionadas con la presente Ley, por lo que, en caso de no comunicar su cambio de domicilio, le surtirán pleno efecto las notificaciones realizadas en el último domicilio que hubieren manifestado.
+La información generada, administrada o en posesión del Instituto Electoral, se considera un bien del dominio público, por lo que cualquier persona tendrá acceso a la misma en los términos y con las excepciones que disponga la Ley.
 
 ###### Artículo 7.
 
-Los gastos que se efectúen por las prestaciones que establece esta Ley, y cuyo pago no corresponda exclusivamente a las Instituciones Obligadas, se cubrirán mediante cuotas o aportaciones a cargo de los sujetos de la Ley.
+El Instituto Electoral deberá de oficio, poner a disposición del público en el Portal de Transparencia, la información que exige el artículo 11 de la Ley.
 
 ###### Artículo 8.
 
-En términos de la presente Ley, podrán hacerse retenciones, descuentos o deducciones a la retribución que perciben los sujetos de la Ley para el efecto de:
+Además de lo previsto en el artículo anterior, el Instituto Electoral deberá publicar la siguiente información:
 
-I.- Pagar cuotas de seguridad social;
+I. La integración del Consejo General, así como de las Comisiones Permanentes y Especiales;
 
-II.- Pagar los abonos para cubrir créditos o préstamos que como deudores principales, solidarios o avales hayan contraído, relativos a las prestaciones de la presente Ley, sean provenientes del Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado de Morelos o de cualquier otra Institución por este mismo concepto; y
+II. La integración de los Consejo Distritales;
 
-III.- Pagar las aportaciones a seguros de vida que se contraten.
+III. El orden del día de cada una de las sesiones públicas de los órganos colegiados del Instituto Electoral a partir de su convocatoria;
 
-Los descuentos por los conceptos señalados en las fracciones II y III, no podrán exceder del treinta por ciento de su remuneración.
+IV. Los informes, opiniones, puntos de acuerdo o dictámenes aprobados por el Consejo General;
 
-Los anteriores descuentos son independientes de otros que procedan por cualquier otra disposición legal aplicable, por mandato de autoridad judicial o que sean procedentes para corregir un error en algún pago.
+V. El contenido de las actas de las sesiones del Consejo General, una vez que hayan sido aprobadas por el Pleno;
+
+VI. La integración, actas, acuerdos e informes de la Comisión Estatal de Vigilancia;
+
+VII. La integración, actas o minutas, acuerdos, resoluciones, programas anuales de actividades e informes del Comité de Adquisiciones, Arrendamientos y Servicios;
+
+VIII. Los índices de los expedientes clasificados como temporalmente reservados o confidenciales;
+
+IX. La estadística electoral;
+
+X. El cronograma de actividades del proceso electoral;
+
+XI. La cartografía electoral;
+
+XII. Las metas y objetivos contenidos en el Programa Operativo Anual, y
+
+XIII. Cualquier otra información que sea considerada como relevante por el Comité de Transparencia.
+
+La información que los partidos políticos proporcionen al Instituto Electoral o que éste genere respecto a los mismos, que sea considerada pública conforme a los artículos anteriores, estará a disposición de toda persona a través de la página electrónica del propio Instituto Electoral.
 
 ###### Artículo 9.
 
-Los riesgos del servicio o enfermedades profesionales podrán producir:
+La información pública a la que se refieren los artículos 7 y 8 del presente Reglamento, deberá de publicarse de manera que se facilite su uso y comprensión, asegurando su calidad, veracidad, oportunidad y confiabilidad. Además, deberá ser actualizada conforme a los plazos que exige el artículo 12 de la Ley.
 
-I.- Incapacidad temporal;
+La información que se elimine del Portal de Transparencia por cumplir su periodo de vigencia, deberá de resguardarse por el Titular de la Unidad de Transparencia en archivo electrónico, y remitirse al Centro de Información y Documentación Electoral.
 
-II.- Incapacidad permanente parcial;
-
-III.- Incapacidad permanente total; o
-
-IV.- Muerte.
-
-Las indemnizaciones derivadas de los riesgos del servicio o enfermedad profesional que sufran los sujetos de la Ley Estatales y Municipales, serán cubiertas por las aportaciones que para estos casos efectúen las Instituciones Obligadas.
-
-Para que los sujetos de esta Ley puedan acceder al pago de la pensión o indemnización de los riesgos del servicio o enfermedades profesionales, deberán llenarse los requisitos que para los casos de invalidez establece esta Ley.
+Además, dentro del primer mes de cada año se publicará en el Portal de Transparencia, el calendario de actualizaciones de esa información.
 
 ###### Artículo 10.
 
-Los riesgos profesionales que sufran los sujetos de la Ley, se regirán por la Ley del Seguro Social o la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, según sea la Institución principal a la cual se encuentren afiliados.
+La responsabilidad operativa de publicar y actualizar el Portal de Transparencia del Instituto Electoral recae en la Unidad de Transparencia, para lo cual contará con el apoyo técnico de la Dirección Ejecutiva de Informática y Estadística Electoral.
 
-### CAPÍTULO TERCERO. PENSIONES
+Los órganos del Instituto Electoral, deberán remitir la información generada en forma inmediata a la Unidad de Transparencia, para los efectos de su publicación y actualización.
+
+Los partidos políticos tienen la obligación de proporcionar la información a la que hace referencia el artículo 101 de la Ley Electoral, dentro de los treinta días siguientes a que se otorgue su acreditación o registro, y en su caso, las modificaciones a la misma, de conformidad con el contenido del artículo 102 de la Ley Electoral.
+
+### CAPÍTULO TERCERO. DE LA INFORMACIÓN PÚBLICA RESERVADA
 
 ###### Artículo 11.
 
-Las mujeres que sean sujetos de la Ley, durante su embarazo, no realizarán funciones que exijan un esfuerzo considerable e impliquen riesgo o peligro para su salud o la del producto de la concepción.
-
-Las mujeres embarazadas, disfrutarán de un periodo de incapacidad de noventa días naturales, contados a partir de la fecha de expedición del certificado médico de incapacidad; deberá procurarse que treinta días correspondan antes de la fecha aproximada fijada para el parto y sesenta después del mismo.
-
-En caso de adopción, con fines de adaptación con su menor hijo, la mujer, el hombre o ambos si es el caso, gozarán de una licencia de cuarenta y cinco días naturales.
-
-En los supuestos aquí planteados, los sujetos de la Ley que correspondan, conservarán el pago íntegro de su remuneración, su cargo o comisión, y en general, no les podrán ser suspendidos o disminuidos sus derechos de seguridad social.
+En términos del artículo 23 de la Ley, el acceso a la información pública podrá reservarse temporalmente por causas de interés público y conforme a las modalidades establecidas en la Ley.
 
 ###### Artículo 12.
 
-Las madres durante los seis meses siguientes al vencimiento de la incapacidad, disfrutarán de un periodo de lactancia de una hora para alimentar a sus hijos.
+Se considera información reservada del Instituto Electoral, la siguiente:
+
+I. La que se encuentre en alguno de los supuestos señalados en el artículo 24 de la Ley;
+
+II. La información cuya difusión comprometa la organización del proceso electoral, plebiscito o referéndum, como son:
+
+a. Las medidas de seguridad de la documentación y material electoral;
+
+b. Las medidas de seguridad del programa de resultados electorales preliminares a que se refiere la Ley Electoral, y
+
+c. Las medidas de seguridad de los sistemas informáticos propiedad del Instituto Electoral.
+
+III. La información presentada para el registro de candidatos a cargos de elección popular, hasta su resolución por los Consejos Electorales respectivos;
+
+IV. Los procedimientos sancionadores ordinarios a que se refiere el artículo 469 de la Ley Electoral, hasta en tanto no se dicte la resolución por parte de la autoridad competente y cause estado;
+
+V. Los asuntos o procedimientos que se encuentren en trámite en las Comisiones Permanentes y Especiales del Consejo General, hasta su resolución definitiva por este órgano;
+
+VI. Los informes de los partidos políticos o coaliciones, así como la documentación que sirva de base para la elaboración de dictámenes, que presenten a la Dirección de Fiscalización de los Recursos de los Partidos Políticos en términos de los artículos 85, 86 y 87 de la Ley Electoral, hasta que concluya el procedimiento de fiscalización correspondiente, y
+
+VII. Las auditorias y verificaciones que ordene la Dirección de Fiscalización de los Recursos de los Partidos Políticos, en tanto que no se haya emitido una resolución por el Consejo General.
+
+Tratándose de la información pública reservada de los partidos políticos, se estará a lo dispuesto por el artículo 104 fracción II, de la Ley Electoral.
 
 ###### Artículo 13.
 
-Los cónyuges o concubinos, por concepto de paternidad y para ayudar a la madre en las tareas posteriores al parto, disfrutarán de un periodo de quince días naturales con remuneración íntegra, al efecto, el área de Recursos Humanos de la Institución Obligada en que preste sus servicios, determinará las medidas de comprobación, vigilancia u (sic) control necesarias para el cumplimiento del fin.
+Corresponde a los titulares de los órganos del Instituto Electoral, la responsabilidad de clasificar la información reservada, debiendo justificar que:
+
+I. La información encuadra en alguna de las hipótesis de excepción previstas en el artículo 24 de la Ley y 12 del presente Reglamento;
+
+II. La liberación de la información de referencia pueda amenazar efectivamente el interés protegido por la Ley o por la Ley Electoral, y
+
+III. El daño que puede producirse con la liberación de la información es mayor que el interés público de conocer la información de referencia.
+
+En el caso de los órganos colegiados la determinación corresponderá a sus integrantes y se informará de la misma a través de quienes los presidan.
 
 ###### Artículo 14.
 
-Las prestaciones de pensión por jubilación, por Cesantía en Edad Avanzada, por Invalidez, por Viudez, por Orfandad y por Ascendencia, se otorgarán mediante Decreto que expida el Congreso del Estado, una vez satisfechos los requisitos que establecen esta Ley y los demás ordenamientos aplicables.
+La resolución que se emita para clasificar la información como temporalmente reservada, deberá indicar:
 
-El pago de la pensión por Jubilación y por Cesantía en Edad Avanzada, se generará a partir de la fecha en que entre en vigencia el Decreto respectivo.
+I. El órgano del Instituto Electoral que la emita;
 
-Si el pensionado se encuentra en activo, a partir de la vigencia del Decreto, cesará en su función.
+II. Las partes de los documentos que se reservan;
 
-El sujeto de la Ley que se hubiera separado de su función, antes de la fecha de vigencia del Decreto que la otorga, recibirá el pago de su pensión a partir del día siguiente a su separación.
+III. La fundamentación y motivación por la cual se justifica como reservada;
 
-### CAPÍTULO CUARTO. OTROS BENEFICIOS COMPLEMENTARIOS DE SEGURIDAD SOCIAL
+IV. El plazo de reserva, y
+
+V. El órgano normativo, directivo, operativo, de vigilancia o técnico responsable de su custodia y conservación.
+
+### CAPÍTULO CUARTO. DE LA INFORMACIÓN CONFIDENCIAL
 
 ###### Artículo 15.
 
-Para solicitar las pensiones referidas en este Capítulo, se requiere solicitud por escrito acompañada de la siguiente documentación:
+Se considera como información confidencial del Instituto Electoral, la siguiente:
 
-I.- Para el caso de pensión por Jubilación o Cesantía en Edad Avanzada:
+I. Los datos personales de los servidores públicos electorales, y de quienes tengan cualquier empleo, cargo o comisión adscritos al Instituto Electoral, salvo que medie autorización por escrito del servidor para su entrega al solicitante;
 
-a).- Copia certificada del acta de nacimiento expedida por el Oficial del Registro Civil correspondiente;
+II. Los datos personales de los candidatos a cargos de elección popular, salvo que medie autorización por escrito para su entrega;
 
-b).- Hoja de servicios expedida por el servidor público competente de la Institución que corresponda;
+III. La referida en los artículos 29 y 30 de la Ley, y
 
-c).- Carta de certificación de la remuneración, expedida por la institución a la que se encuentre adscrito.
+IV. La expresamente considerada como tal por la Ley Electoral.
 
-II.- Para el caso de pensión por Invalidez:
+No se considerará como información confidencial, aquella que se encuentre en registros públicos o fuentes de acceso público.
 
-a).- Los mismos tres requisitos señalados en la fracción I; y
-
-b).- Dictamen de la Institución de Seguridad Social correspondiente, en el cual se decrete la invalidez definitiva o incapacidad permanente,
-
-III.- Tratándose de pensión por Orfandad:
-
-a).- Los mismos tres requisitos señalados en la fracción I de este artículo;
-
-b).- Copia certificada de las actas de nacimiento de los hijos, expedidas por el respectivo Oficial del Registro Civil; y
-
-c).- Copia certificada del acta de defunción, expedida por la autoridad competente.
-
-IV.- Tratándose de pensión por Viudez:
-
-a).- Los mismos tres requisitos señalados en la fracción I de este artículo;
-
-b).- Copia certificada del acta de matrimonio o en su defecto del documento que acredite la relación de concubinato, expedida por la autoridad competente;
-
-c).- Copia certificada del acta de defunción, expedida por la autoridad competente; y
-
-d).- Copia certificada del acta de nacimiento del de cujus.
-
-V.- Tratándose de pensión por Ascendencia:
-
-a).- Los mismos tres requisitos señalados en la fracción I de este artículo;
-
-b).- Copia certificada del acta de defunción, expedida por la autoridad competente;
-
-c).- Copia certificada del acta de nacimiento del de cujus; y
-
-d).- Copia certificada de la resolución emitida por la autoridad jurisdiccional familiar competente, en la cual se resuelva la dependencia económica.
-
-Para el caso de los elementos de las Instituciones Policiacas y de Procuración De Justicia Estatales, el H. Congreso del Estado expedirá el Decreto correspondiente en un término de treinta días hábiles, contados a partir de la fecha en que se tenga por recibida la documentación necesaria para su tramitación.
-
-Para el caso de los elementos de las Instituciones de Seguridad Pública Municipales, el Cabildo Municipal respectivo, expedirá el Acuerdo correspondiente en un término de treinta días hábiles, contados a partir de la fecha en que se tenga por recibida la documentación necesaria para su tramitación.
+Tratándose de la información pública confidencial de los partidos políticos, se estará a lo dispuesto por el artículo 104 fracción I, de la Ley Electoral.
 
 ###### Artículo 16.
 
-La pensión por Jubilación de los sujetos de la Ley, se determinará de acuerdo con los porcentajes de la tabla siguiente:
-
-I.- Para los Varones:
-
-a).- Con 30 años de servicio 100%;
-
-b).- Con 29 años de servicio 95%;
-
-c).- Con 28 años de servicio 90%;
-
-d).- Con 27 años de servicio 85%;
-
-e).- Con 26 años de servicio 80%;
-
-f).- Con 25 años de servicio 75%;
-
-g).- Con 24 años de servicio 70%;
-
-h).- Con 23 años de servicio 65%;
-
-i).- Con 22 años de servicio 60%;
-
-j).- Con 21 años de servicio 55%; y
-
-k).- Con 20 años de servicio 50%.
-
-II.- Para las mujeres:
-
-a).- Con 28 años de servicio 100%;
-
-b).- Con 27 años de servicio 95%;
-
-c).- Con 26 años de servicio 90%;
-
-d).- Con 25 años de servicio 85%;
-
-e).- Con 24 años de servicio 80%;
-
-f).- Con 23 años de servicio 75%;
-
-g).- Con 22 años de servicio 70%;
-
-h).- Con 21 años de servicio 65%;
-
-i).- Con 20 años de servicio 60%;
-
-j).- Con 19 años de servicio 55%; y
-
-k).- Con 18 años de servicio 50%.
-
-Para disfrutar de esta prestación la antigüedad puede ser interrumpida o ininterrumpida. Y para efectos de computar la antigüedad, deberán considerarse los años de servicio en alguna otra área de la Administración Pública o de cualquiera de los Poderes del Estado o Municipios, aun cuando la relación haya sido de carácter burocrática, al amparo de la ley del Servicio Civil del Estado de Morelos.
-
-Para recibir esta pensión no se requiere edad determinada.
-
-El monto de la pensión mensual a que se refiere este artículo, en ningún caso podrá ser inferior al equivalente de 40 veces el salario mínimo general vigente en la Entidad.
-
-En todos los casos estarán sujetos a lo dispuesto por el primer párrafo del artículo 24 de esta Ley.
+Tratándose de información político electoral que no se encuentre publicada en el Portal de Transparencia del Instituto Electoral, en los términos de los artículos 7 y 8 del presente Reglamento, solo será proporcionada a los ciudadanos mexicanos, siempre y cuando no sea considerada reservada o confidencial.
 
 ###### Artículo 17.
 
-La pensión por Cesantía en Edad Avanzada se otorgará al sujeto de la ley que, habiendo cumplido cuando menos cincuenta y cinco años de edad, se separe voluntariamente de su función o quede separado de la misma, siempre que hubiere prestado por lo menos 10 años de servicio.
-
-La pensión se calculará aplicando los porcentajes siguientes:
-
-a).- Por diez años de servicio 50%;
-
-b).- Por once años de servicio 55%;
-
-c).- Por doce años de servicio 60%;
-
-d).- Por trece años de servicio 65%;
-
-e).- Por catorce años de servicio 70%; y
-
-f).- Por quince añoso (sic) más de servicio 75%.
-
-Para disfrutar de esta prestación la antigüedad puede ser interrumpida o ininterrumpida. Y para efectos de computar la antigüedad, deberán considerarse los años de servicio en alguna otra área de la Administración Pública o de cualquiera de los Poderes del Estado o Municipios, aun cuando la relación haya sido de carácter burocrática, al amparo de la Ley del Servicio Civil del Estado de Morelos.
-
-El monto de la pensión mensual a que se refiere este artículo, en ningún caso podrá ser inferior al equivalente de 40 veces el Salario Mínimo General Vigente en la Entidad.
-
-En todos los casos estarán sujetos a lo dispuesto por el primer párrafo, del artículo 24 de esta Ley.
+Los titulares de los órganos del Instituto, en el ámbito de su competencia, serán responsables de los datos personales que obren en sus archivos, debiendo protegerlos, de conformidad con lo establecido en el artículo 34 de la Ley.
 
 ###### Artículo 18.
 
-La pensión por Invalidez se otorgará a los sujetos de la Ley a quienes les sea determinada por el Instituto Mexicano del Seguro Social o por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, la incapacidad permanente total o parcial, que le impida el desempeño del servicio que venía realizando, de conformidad con lo siguiente:
+Los titulares de los datos personales, podrán solicitar en cualquier momento la modificación de éstos, bajo el procedimiento delimitado en los artículos 70, 72 y 74 de la Ley.
 
-I.- Cuando la incapacidad sea por causa o motivo del desempeño de su función, la pensión se pagará de acuerdo al porcentaje o grado de invalidez que se determine en el dictamen médico; y
-
-II.- Cuando la incapacidad sea por causas ajenas al desempeño de su función, se cubrirá siempre y cuando el sujeto de la Ley hubiese efectivamente desempeñado su función durante el término mínimo de un año anterior a la fecha en que ocurrió la causa de la invalidez, y se calculará de acuerdo con el grado de incapacidad que se determine en el dictamen médico. En este caso el monto de la pensión no podrá exceder del 60% de la remuneración que el sujeto de la Ley venía percibiendo hasta antes de la invalidez.
-
-En ambos casos el monto de la pensión no podrá exceder del equivalente a 300 veces el salario mínimo general en la Entidad, al momento de ser otorgada la pensión.
-
-El dictamen médico podrá ser revisado de acuerdo a la normatividad aplicable al caso, ante las autoridades correspondientes.
-
-El derecho al pago de esta pensión se inicia a partir del día siguiente al que quede firme la determinación de la invalidez.
-
-### CAPÍTULO QUINTO. CONTROVERSIAS EN LA APLICACIÓN DE LA LEY
+### CAPÍTULO QUINTO. DEL MANEJO DE LA INFORMACIÓN RESERVADA Y CONFIDENCIAL
 
 ###### Artículo 19.
 
-El trámite de la pensión por Invalidez, con motivo de negligencia o responsabilidad del sujeto de la ley, no procederá cuando:
-
-I.- Se niegue a someterse a los reconocimientos y tratamientos médicos que se le prescriban; y
-
-II.- Se niegue, sin causa justificada, a someterse a las investigaciones ordenadas por el Titular de la Institución Obligada, o no acepte las medidas preventivas o curativas a que deba sujetarse, con excepción de los que presenten invalidez por afectación de sus facultades mentales.
+La información de carácter reservada o confidencial, de acuerdo con la clasificación que realicen los órganos del Instituto Electoral, no estará disponible hasta en tanto mantenga ese carácter, con excepción de lo dispuesto en el artículo 197 de la Ley Electoral.
 
 ###### Artículo 20.
 
-La pensión por Invalidez se negará en los casos siguientes:
-
-a).- Si la incapacidad es consecuencia de actos o hechos provocados intencionalmente por el sujeto de la Ley;
-
-b).- Cuando la incapacidad sea consecuencia de algún delito cometido por el propio sujeto de la Ley;
-
-c).- Cuando la incapacidad se haya producido por el estado de embriaguez o de intoxicación derivado de la ingestión voluntaria, por parte del sujeto de la ley, de bebidas alcohólicas, drogas, enervantes o cualquier otra sustancia tóxica.
+Las autoridades ministeriales y judiciales federales o locales, o bien, aquellas de la administración pública federal, estatal o municipales, y la autoridad federal electoral, tendrán acceso a la información reservada o confidencial en poder del Instituto Electoral, siempre y cuando ésta le sea requerida conforme a las disposiciones legales aplicables y en el ámbito de su competencia.
 
 ###### Artículo 21.
 
-La pensión por Viudez se pagará a partir del día siguiente a aquel en que ocurra el fallecimiento.
+Semestralmente, los órganos del Instituto Electoral, deberán elaborar un índice de los expedientes a su cargo clasificados como temporalmente reservados, que se integrará por rubros temáticos e indicará: el órgano que generó la información, la fecha de clasificación, su fundamento, el plazo o condición de reserva y, en su caso, las partes clasificadas como temporalmente reservadas.
+
+A efecto de mantener los índices actualizados, los órganos del Instituto Electoral los enviarán a la Unidad de Transparencia, dentro de los primeros 10 días hábiles de los meses de enero y julio de cada año, para su publicación en el Portal de Transparencia.
 
 ### CAPÍTULO SEXTO. DEL ACCESO A LA INFORMACIÓN PÚBLICA
 
 ###### Artículo 22.
 
-Podrán tener derecho a gozar de las pensiones especificadas en este Capítulo, en orden de prelación y según sea el caso, las siguientes personas:
-
-I.- El sujeto de la Ley; y
-
-II.- Los beneficiarios en el siguiente orden de preferencia:
-
-a).- El o la cónyuge supérstite e hijos, hasta los dieciocho años de edad, hasta los veinticinco años si están estudiando o cualquiera que sea su edad si se encuentran imposibilitados física o mentalmente para trabajar;
-
-b).- A falta de cónyuge, el concubino o la concubina. Si a la muerte del sujeto de la Ley hubiera varios concubinos o concubinas, tendrá derecho a gozar de la pensión quien se determine por sentencia ejecutoriada dictada por Juez Familiar competente; y
-
-c).- A falta de cónyuge, concubino, concubina o hijos, la pensión por muerte se entregará a los ascendientes, cuando hayan dependido económicamente del sujeto de la Ley o pensionista durante los cinco años anteriores a su muerte, con base en resolución emitida por la autoridad jurisdiccional familiar competente, en la cual se resuelva la dependencia económica.
+El Instituto Electoral proporcionará la información pública a que se encuentra obligado en los términos de la Ley, la Ley Electoral y el presente Reglamento, con estricto apego a las garantías constitucionales y conforme a las formalidades previstas para tal efecto.
 
 ###### Artículo 23.
 
-La cuota mensual de la pensión a los familiares o dependientes económicos del sujeto de la Ley se integrará:
+Cualquier solicitante podrá tener acceso a la información pública del Instituto Electoral, previa presentación del formato que al efecto le sea proporcionado por la Unidad de Transparencia o en escrito libre, indicando y acompañando por lo menos:
 
-a).- Por fallecimiento, ya sea a causa o consecuencia del servicio o por causas ajenas al mismo, se aplicarán los porcentajes a que se refiere la fracción I del artículo 16 de esta Ley, según la antigüedad, y en caso de no encontrarse dentro de la (sic) hipótesis referidas se deberá otorgar al 50% respecto del último sueldo; o
+I. Nombre del solicitante;
 
-b).- Por fallecimiento del sujeto de la Ley pensionado, si la pensión se le había concedido por Jubilación, Cesantía en Edad Avanzada o Invalidez, la última de que hubiere gozado el pensionado.
+II. Domicilio u otro medio para recibir notificaciones, como correo electrónico;
 
-Cuando sean varios los beneficiarios, la pensión se pagará con base en resolución emitida por la autoridad jurisdiccional familiar competente, en la cual resuelva la dependencia económica dividirá en partes iguales entre los previstos en el artículo anterior y conforme a la prelación señalada.
+III. La descripción clara y precisa de la información que solicita;
 
-En ningún caso, el monto de la pensión podrá exceder de 300 veces el Salario Mínimo General Vigente en la Entidad, al momento de otorgar la pensión.
+IV. Cualquier otro dato que facilite su búsqueda y propicie su localización, y
+
+V. Opcionalmente, el modo en que el solicitante prefiera que le sea entregada la información, mediante copias simples, certificadas o en algún otro tipo de medio, electrónico u óptico de almacenamiento de datos.
+
+No es necesario que el solicitante identifique, motive o justifique el uso de la información solicitada, ni requerirá demostrar interés alguno.
+
+La solicitud deberá presentarse en original y copia, debiendo regresarse esta última al peticionario con sello de recibido.
+
+La solicitud podrá formularse verbalmente por comparecencia cuando se requiera información para fines de orientación.
 
 ###### Artículo 24.
 
-Los porcentajes y montos de las pensiones a que se refiere este Capítulo, se calcularán tomando como base la última remuneración percibida por el Sujeto de la Ley; para el caso de las pensiones por Jubilación y Cesantía en Edad Avanzada, cuando la última remuneración mensual sea superior al equivalente de 600 Salarios Mínimos Vigentes en la Entidad, deberán acreditar, haber desempeñado cuando menos cinco años el cargo por el cual solicitan pensionarse, de no cumplirse este plazo, el monto de la pensión se calculará tomando como tope los referidos 600 Salarios Mínimos Vigentes en la Entidad, y de acuerdo a los porcentajes que establece la Ley.
+La información podrá solicitarse por medios electrónicos, debiendo el Portal de Transparencia contener un apartado especial para la solicitud respectiva; si la misma es factible entregarse por ese medio se procederá a ello, para lo cual el Titular de la Unidad de Transparencia llevará un control para mantener un registro con los siguientes datos:
 
-Las pensiones se integrarán por el salario, las prestaciones, las asignaciones y la compensación de fin de año o aguinaldo.
+I. Nombre y domicilio del solicitante;
 
-El sujeto de la Ley o sus beneficiarios no podrán gozar al mismo tiempo de dos pensiones a cargo del Gobierno o Municipio, en tal evento, el Congreso del Estado los deberá requerir para que dentro de un plazo de treinta días naturales opten por una de ellas, en caso de que el sujeto de la Ley o sus beneficiarios no determinen la pensión que debe continuar vigente, el Congreso concederá la que les signifique mayores beneficios. En el caso de los Municipios, el requerimiento al pensionista le corresponderá al respectivo Ayuntamiento.
+II. Precisión y claridad en los datos e información que requiere;
+
+III. Acuse de haber recibido de conformidad la información solicitada, y
+
+IV. Los demás que proporcione el solicitante.
 
 ###### Artículo 25.
 
-Los sujetos de la Ley podrán recibir, de la Institución Obligada, los estímulos o cualquier otra forma de reconocimiento, por actos de servicio meritorios, eficiencia o por su trayectoria ejemplar, de acuerdo con su respectiva normatividad interna y la disponibilidad presupuestal para ese efecto.
+Si la solicitud es presentada ante un órgano del Instituto Electoral distinto a la Unidad de Transparencia, aquél tendrá la obligación de remitirlo a ésta dentro del día hábil siguiente al de su recepción, informándole al solicitante la ubicación de esa Unidad y el plazo para dar respuesta a su petición de acceso a la información. El plazo de respuesta se computará desde el momento en que la Unidad de Transparencia reciba la petición.
 
 ###### Artículo 26.
 
-Los sujetos de la Ley recibirán asesoría jurídica y representación legal, por parte de la Institución Obligada, cuando en el ejercicio de sus funciones se vean involucrados en algún problema o trámite de carácter legal o jurídico, siempre que no sea la propia Institución Obligada quien lo inicie como resultado de alguna responsabilidad o cualquier otra acción legal que proceda por un ejercicio indebido del servicio.
+Si los datos proporcionados en la solicitud no bastan para localizar la información o son erróneos, la Unidad de Transparencia podrá requerir, por una vez, que se indiquen otros elementos o se corrijan los datos dentro de los tres días hábiles siguientes a la presentación de la solicitud. Este requerimiento interrumpirá el plazo para dar respuesta a la solicitud de acceso a la información.
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO SEGUNDO DE ESTE ORDENAMIENTO, EL PRESENTE ARTÍCULO ENTRARÁ EN VIGOR EL PRIMERO DE ENERO DEL 2015.</small>
+Si en el plazo de cinco días hábiles, contados a partir del día siguiente que se notifique el requerimiento, no se recibe en la Unidad de Transparencia la aclaración correspondiente, la solicitud se tendrá como no interpuesta.
 
 ###### Artículo 27.
 
-Los sujetos de la Ley podrán disfrutar de los servicios que brinda el Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado, quien otorgará todas las facilidades y promoverá con las Instituciones Obligadas los Convenios de Incorporación necesarios, para que puedan acceder efectivamente a los beneficios que otorga.
+El procedimiento a seguir en las solicitudes de acceso a la información del Instituto Electoral, es:
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO SEGUNDO DE ESTE ORDENAMIENTO, EL PRESENTE ARTÍCULO ENTRARÁ EN VIGOR EL PRIMERO DE ENERO DEL 2015.</small>
+I. Recibida la solicitud por la Unidad de Transparencia, se turnará al órgano del Instituto Electoral que corresponda para que proceda a su localización, dentro del siguiente día hábil al de la recepción de la petición, o en su caso, del desahogo del requerimiento.
+
+II. El titular del órgano del Instituto Electoral, en un plazo no mayor de siete días hábiles contados a partir de la recepción de la solicitud, remitirá a la Unidad de Transparencia por escrito la información, o en el formato en la que se encuentre disponible, determinando en su caso el costo del material a reproducir;
+
+III. En los casos que no proceda la solicitud, el titular del órgano del Instituto Electoral, remitirá a la Unidad de Transparencia el acuerdo que funde y motive que la información es considerada como reservada o confidencial, en un plazo no mayor de tres días hábiles contados a partir de la recepción de la solicitud.
+
+En este supuesto, el acuerdo será turnado al Comité de Transparencia, a efecto de que éste confirme, modifique o revoque la clasificación de la información, en un plazo no mayor a tres días hábiles contados a partir de su recepción.
+
+Cuando se modifique o revoque el acuerdo, la Unidad de Transparencia remitirá de inmediato esa resolución al titular del órgano del Instituto Electoral para su cumplimiento, en cuyo caso podrá solicitar la prorroga a la que se refiere el artículo 29 del presente Reglamento.
+
+IV. Cuando proceda la entrega de la información, la Unidad de Transparencia procederá a notificar al solicitante la disponibilidad de ella precisando si es el caso, el costo de reproducción y la modalidad en que será entregada, dentro de los tres días siguientes a que reciba la misma;
+
+V. Notificada la respuesta, el solicitante deberá comprobar a la Unidad de Transparencia, cuando sea el caso, que realizó el pago correspondiente; acreditado el pago, la información deberá entregarse en forma inmediata, y
+
+VI. Cuando el interesado no acredite el pago o no recoja la documentación en un plazo no mayor de cuarenta días hábiles, se tendrá por desahogada la solicitud.
 
 ###### Artículo 28.
 
-Todos los sujetos de la Ley tienen derecho a disfrutar de una despensa familiar mensual, cuyo monto nunca será menor a siete días de Salario Mínimo General Vigente en la Entidad.
+En el caso de la información que se encuentre disponible al público, la Unidad de Transparencia comunicará al solicitante por escrito, la fuente, el lugar y la forma, en que puede consultar, reproducir o adquirir esa información.
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO SEGUNDO DE ESTE ORDENAMIENTO, EL PRESENTE ARTÍCULO ENTRARÁ EN VIGOR EL PRIMERO DE ENERO DEL 2015.</small>
+Cuando la solicitud se trate de información pública de los partidos políticos, y no obre en poder del Instituto Electoral, ésta notificará al partido político para que la proporcione en forma directa al solicitante, en un término no mayor de diez días hábiles, quién deberá cubrir el costo respectivo. El partido político informará a la Unidad de Transparencia el cumplimiento de esta obligación.
+
+Cuando la información solicitada no sea competencia del Instituto Electoral, esto se hará del conocimiento del solicitante por escrito.
 
 ###### Artículo 29.
 
-Se podrá conferir a los sujetos de la Ley una compensación por el riesgo del servicio, cuyo monto mensual podrá ser de hasta tres días de Salario Mínimo General Vigente en la Entidad.
+Toda solicitud de información presentada en los términos de esta Ley deberá ser resuelta en un plazo no mayor de diez días hábiles.
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO SEGUNDO DE ESTE ORDENAMIENTO, EL PRESENTE ARTÍCULO ENTRARÁ EN VIGOR EL PRIMERO DE ENERO DEL 2015.</small>
+Este plazo podrá prorrogarse de manera excepcional por un periodo igual cuando no sea posible reunir la información solicitada en ese término. El órgano del Instituto Electoral que la solicite, deberá comunicar a la Unidad de Transparencia para que ésta a su vez notifique al solicitante, antes del vencimiento del plazo, las razones por las cuales hará uso de la prórroga. No podrán invocarse como causales de ampliación del plazo, motivos que supongan negligencia o descuido en el desahogo de la solicitud.
 
 ### CAPÍTULO SÉPTIMO. DE LOS ÓRGANOS RESPONSABLES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MAYO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+> <small>(F. DE E., P. O. 27 DE MAYO DE 2011)</small>
 
-Artículo 31 (sic).- Para el eficaz y debido cumplimiento del acceso a la información pública y la protección de datos personales administrados, generados o en poder del Instituto Electoral, los órganos responsables de su ejecución son:
+###### Artículo 30.
+
+Para el eficaz y debido cumplimiento del acceso a la información pública y la protección de datos personales administrados, generados o en poder del Instituto Electoral, los órganos responsables de su ejecución son:
 
 I. El Comité de Transparencia, y
 
 II. La Unidad de Transparencia.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MAYO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
-###### Artículo 30.
-
-Las Instituciones Obligadas podrán celebrar Convenios con personas del sector público, social y privado con el objeto de que los sujetos de la Ley reciban pases de acceso gratuito o descuentos en actividades sociales, culturales y deportivas. En estos casos, las áreas de recursos humanos en las Instituciones Obligadas darán a conocer los beneficios respectivos, por lo menos cada seis meses.
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO SEGUNDO DE ESTE ORDENAMIENTO, EL PRESENTE ARTÍCULO ENTRARÁ EN VIGOR EL PRIMERO DE ENERO DEL 2015.</small>
+> <small>(F. DE E., P. O. 27 DE MAYO DE 2011)</small>
 
 ###### Artículo 31.
 
-Por cada día de servicio se podrá conferir a los sujetos de la Ley una ayuda para pasajes, cuyo monto diario será, por lo menos, del diez por ciento del Salario Diario Mínimo General Vigente en Morelos.
+El Comité de Transparencia, es el órgano que determina el artículo 42 de la Ley. Este Comité se integrará en los términos siguientes:
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO SEGUNDO DE ESTE ORDENAMIENTO, EL PRESENTE ARTÍCULO ENTRARÁ EN VIGOR EL PRIMERO DE ENERO DEL 2015.</small>
+I. Por la Comisión Especial de Transparencia y Acceso a la Información Pública del Consejo General Electoral, con voz y voto, y
+
+II. Por el Director General del Instituto Electoral, quien solo tendrá derecho de voz.
+
+De entre los integrantes de la Comisión Especial se designará al Presidente del Comité. El titular de la Unidad de Transparencia, fungirá como Secretario Técnico del Comité de Transparencia, quien solo tendrá el derecho de voz.
+
+El Comité de Transparencia sesionará las veces que sea necesario para atender los asuntos de su competencia, previa convocatoria formulada por su Presidente por lo menos con veinticuatro horas de anticipación, o en un término menor, si la naturaleza del caso lo amerita. Para que sus acuerdos sean válidos, se requiere por lo menos la aprobación de dos de sus integrantes.
+
+Las sesiones del Comité de Transparencia, serán grabadas en los medios audiovisuales disponibles, los cuales estarán bajo resguardo del Secretario Técnico, a fin de que elabore el acta correspondiente.
+
+El Comité de Transparencia, autorizará la participación de invitados, cuando el tratamiento del asunto así lo requiera.
+
+> <small>(F. DE E., P. O. 27 DE MAYO DE 2011)</small>
 
 ###### Artículo 32.
 
-Los sujetos de la Ley podrán disfrutar de becas y créditos de educación o capacitación científica o tecnológica para sus descendientes, con base en los recursos presupuestales disponibles por cada Institución Obligada o de conformidad con los Convenios que al efecto celebren.
+El Comité de Transparencia, además de las previstas en el artículo 44 de la Ley, tendrá las atribuciones siguientes:
+
+I. Revisar los procedimientos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información;
+
+II. Verificar que en el Portal, se encuentre la información pública a la que se refiere la Ley y el Reglamento;
+
+III. Coadyuvar con el Órgano Garante en la promoción de la cultura de transparencia;
+
+IV. Confirmar, modificar o revocar la clasificación de la información realizada por los titulares de los órganos del Instituto Electoral, y
+
+V. Evaluar el seguimiento que se dé al trámite de las solicitudes de acceso a la información y protección de los datos personales.
+
+> <small>(F. DE E., P. O. 27 DE MAYO DE 2011)</small>
 
 ###### Artículo 33.
 
-Los sujetos de la Ley tienen derecho a recibir de la Institución Obligada el equipo o material de trabajo y de seguridad indispensable para el cumplimiento de su servicio, sin costo alguno, el cual estará bajo su resguardo y responsabilidad.
+La Unidad de Transparencia estará a cargo de la persona que se desempeñe como Secretario Fedatario del Consejo General quien será su titular, teniendo como funciones además de las indicadas en el artículo 39 de la Ley, las siguientes:
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO SEGUNDO DE ESTE ORDENAMIENTO, EL PRESENTE ARTÍCULO ENTRARÁ EN VIGOR EL PRIMERO DE ENERO DEL 2015.</small>
+I. Verificar que las solicitudes de acceso a la información pública y de protección de datos personales, no encuadren en los supuestos de improcedencia previstos en el artículo 67 de la Ley;
+
+II. Presentar al Comité de Transparencia, de forma trimestral y anualmente, los informes sobre las solicitudes de acceso de información y protección de datos personales que reciba;
+
+III. Proporcionar el apoyo que requiera el Comité de Transparencia, para su funcionamiento;
+
+IV. Observar las disposiciones o acuerdos que emita el Órgano Garante o el Comité de Transparencia, para el acceso a la información y la protección de los datos personales;
+
+V. Elaborar los formatos para el acceso a la información pública y protección de datos personales;
+
+VI. Cumplir las estrategias de promoción sobre la cultura de la transparencia;
+
+VII. Elaborar semestralmente, un índice de los expedientes clasificados como reservados, el cual se integrará por rubros temáticos debidamente descritos;
+
+VIII. Actualizar y publicar los contenidos del Portal de Transparencia, con apoyo de la Dirección Ejecutiva de Informática y Estadística Electoral, y
+
+IX. Las demás que en el ámbito de su competencia le confiera la Ley, o el Reglamento.
+
+El Titular de la Unidad de Transparencia contará con un auxiliar, quien será la persona que se desempeñe como Responsable del Archivo del Consejo General.
+
+> <small>(F. DE E., P. O. 27 DE MAYO DE 2011)</small>
 
 ###### Artículo 34.
 
-Por cada día de servicio se podrá conferir a los sujetos de la Ley una ayuda para alimentación, cuyo monto diario será, por lo menos, del diez por ciento del Salario Diario Mínimo General Vigente en Morelos.
+Las ausencias temporales del titular de la Unidad de Transparencia, serán suplidas por el servidor público del área del Secretario Fedatario del Consejo General, que designe el Comité de Transparencia; ausencia que no deberá exceder de treinta días naturales, salvo por motivos de salud.
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO SEGUNDO DE ESTE ORDENAMIENTO, EL PRESENTE ARTÍCULO ENTRARÁ EN VIGOR EL PRIMERO DE ENERO DEL 2015.</small>
+> <small>(F. DE E., P. O. 27 DE MAYO DE 2011)</small>
 
 ###### Artículo 35.
 
-Cuando tengan hijos cursando la educación básica, al inicio de cada ciclo escolar, tienen derecho los sujetos de la Ley a recibir una ayuda global anual para útiles escolares, cuyo monto mínimo será de siete días de Salario Mínimo General Vigente en Morelos.
+La Unidad de Transparencia contará con las instalaciones, personal capacitado y las herramientas técnicas que faciliten el acceso y la consulta de la información pública del Instituto Electoral.
+
+> <small>(F. DE E., P. O. 27 DE MAYO DE 2011)</small>
 
 ###### Artículo 36.
 
-En términos del artículo 105, de la Ley del Sistema, las controversias que se generen con motivo de las prestaciones de seguridad social serán competencia del Tribunal Contencioso Administrativo, quien deberá tramitarlas en términos de la Ley de Justicia Administrativa del Estado de Morelos.
+Las respuestas a las solicitudes de acceso a la información pública que sean notificadas por la Unidad de Transparencia, serán impugnables en los términos que la Ley determina.
 
 ## TRANSITORIOS
 
-PRIMERO. La presente Ley entrará en vigor a partir del día siguiente al de su publicación, en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado Libre y Soberano de Morelos.
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su aprobación por el Consejo General Electoral.
 
-SEGUNDO. Las prestaciones contempladas en los artículos 27, 28, 29, 30, 31, 32, 34 y 35, entrarán en vigencia a partir del primer día de enero del año 2015, debiendo realizarse las previsiones presupuestales correspondientes en el Presupuesto de Egresos, para dicho Ejercicio Fiscal.
+SEGUNDO.- Se abroga el Reglamento para el Acceso a la Información Pública del Instituto Estatal Electoral, aprobado el (sic) Decimoquinta Sesión Extraordinaria del Consejo General Electoral, de fecha 11 de enero de 2010.
 
-TERCERO. Los derechos adquiridos, así como el tiempo de servicios prestados por los sujetos de la Ley en las Instituciones Obligadas, con anterioridad a la expedición de esta Ley; serán reconocidos con base en la hoja de servicios que cada Institución les expida.
+> <small>(F. DE E., P. O. 27 DE MAYO DE 2011)</small>
 
-CUARTO. Las solicitudes de Jubilación o pensión de los sujetos de la Ley que, a la fecha de expedición de esta Ley, se encuentren en trámite ante el Congreso del Estado, se resolverán conforme a lo dispuesto en la presente Ley.
+TERCERO.- A más tardar el 29 de abril de 2011 deberá quedar formalmente constituido el Comité Técnico de Transparencia y Acceso a la Información del Consejo General Electoral, en los términos del artículo 31 del presente Reglamento.
 
-QUINTO. Los juicios relacionados con las prestaciones materia de la presente Ley que, a la fecha, se ventilen ante las autoridades jurisdiccionales competentes, se resolverán conforme a lo dispuesto en la Ley que les dio origen.
+CUARTO.- Notifíquese al Órgano Garante la integración del Comité Técnico de Transparencia y Acceso a la Información, una vez que éste se haya instalado formalmente.
 
-SEXTO. Se exceptúa la aplicación de esta Ley a quienes tengan el carácter de trabajador y que por tanto deban conservar sus derechos laborales adquiridos, al encontrarse comprendidos dentro del ámbito de aplicación de la Ley del Servicio Civil del Estado de Morelos, inclusive por cuanto hace a las prestaciones de seguridad social.
+QUINTO.- A más tardar el 31 de marzo de 2011, la Unidad de Transparencia deberá proceder a la publicación de la información pública actualizada en el Portal de Transparencia del Instituto Electoral y de Participación Ciudadana del Estado de Baja California.
 
-SÉPTIMO. En un plazo que no excederá de un año, contado a partir de la vigencia de la presente Ley, se realizarán las reformas legales respectivas para efecto de que los Municipios del Estado incorporen a sus miembros de Instituciones Policiales Municipales al régimen y disfrute de las prestaciones de seguridad social que prevé la presente Ley; y en consecuencia, los Ayuntamientos autónomamente tomarán las previsiones presupuestales y administrativas necesarias, así como los ajustes a su normatividad interna, a efecto de dar pleno cumplimiento a lo anterior.
+SEXTO.- Publíquese el presente Reglamento en el Periódico Oficial del Estado de Baja California.
 
-OCTAVO. En tanto las Instituciones Obligadas no inscriban a sus respectivos elementos de seguridad pública en las Instituciones de Seguridad Social tradicionales, es decir, el Instituto Mexicano del Seguro Social o el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, los dictámenes de invalidez serán emitidos por médico legalmente que las Instituciones Obligadas hubiesen autorizado para tales efectos.
+SÉPTIMO.- Publíquese el presente Reglamento en el Portal del Instituto Electoral y de Participación Ciudadana del Estado de Baja California.
 
-NOVENO. En un plazo que no excederá de un año, contado a partir de la entrada en vigencia de la presente Ley, sin excepción, las Instituciones Obligadas deberán tener a la totalidad de sus elementos de Seguridad Pública y/o Procuración de Justicia, inscritos en el Instituto Mexicano del Seguro Social o el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-DÉCIMO. Las Instituciones Obligadas Estatales y Municipales, elaborarán los padrones de elementos en activo, pensionados y beneficiarios, de los cuales se deberá turnar copia al Congreso del Estado para su incorporación al Padrón estatal.
+P.O. 5 DE AGOSTO DE 2016.
 
-DÉCIMO PRIMERO. Para todo lo no contemplado en la presente Ley en materia de pensiones, se estará en la observación supletoria de la Ley del Servicio Civil del Estado de Morelos.
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL INSTITUTO ESTATAL ELECTORAL DE BAJA CALIFORNIA”.]
 
-DÉCIMO SEGUNDO. Remítase al Poder Ejecutivo del Estado de Morelos, para los efectos de su promulgación, refrendo y promulgación en términos de los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+PRIMERO. El presente Reglamento entrará en vigor a la par de la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California.
 
-Recinto Legislativo a los once días del mes de diciembre de dos mil trece.
+SEGUNDO. En tanto no se expida la Ley Estatal en Materia de Datos Personales en posesión de Sujetos Obligados, permanecerá vigente la normatividad estatal en la materia.
 
-Atentamente. "Sufragio Efectivo. No Reelección". Los CC. Diputados Integrantes de la Mesa Directiva del Congreso del Estado. Dip. Juan Ángel Flores Bustamante. Presidente. Dip. Erika Hernández Gordillo. Secretaria. Dip. Antonio Rodríguez Rodríguez. Secretario. Rúbricas.
+TERCERO. Una vez que entre en vigor el presente Reglamento, quedará abrogado el Reglamento de Transparencia y Acceso a la Información Pública del Instituto Electoral y de Participación Ciudadana del Estado de Baja California aprobado en la IV Sesión Extraordinaria del Consejo General Electoral de fecha 31 de marzo de 2011.
 
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+CUARTO. Publíquese el presente Reglamento en el Periódico Oficial del Estado de Baja California.
 
-Dado en la Residencia del Poder Ejecutivo, Casa Morelos, en la Ciudad de Cuernavaca, Capital del Estado de Morelos, a los veintiún días del mes de enero de dos mil catorce.
-
-"SUFRAGIO EFECTIVO. NO REELECCIÓN"
-
-GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS
-
-GRACO LUIS RAMÍREZ GARRIDO ABREU
-
-SECRETARIO DE GOBIERNO
-
-ING. JORGE VICENTE MESSEGUER GUILLÉN
-
-RÚBRICAS.
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-P.O. 4 DE MARZO DE 2015.
-
-PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
-
-SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Peri-dico (sic) Oficial "Tierra y LibertadÓ (sic) Órgano de difusión del Gobierno del Estado de Morelos.
+QUINTO. Publíquese el presente Reglamento en el Portal de Obligaciones de Transparencia del Instituto Estatal Electoral de Baja California.
