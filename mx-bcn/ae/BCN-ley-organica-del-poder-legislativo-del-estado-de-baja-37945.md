@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2015-12-18"
+last_updated: "2016-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -1781,9 +1781,17 @@ III.- Extraordinarias;
 
 IV.- Solemnes;
 
-V.- Públicas; y,
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
 
-VI.- Privadas.
+V.- Públicas;
+
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+VI.- Privadas; y
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+VII.- Abiertas.
 
 ###### ARTICULO 105.
 
@@ -1824,6 +1832,16 @@ Sin perjuicio de lo anterior, en las sesiones solemnes, se entonará el Himno Na
 ###### ARTICULO 109.
 
 Todas las sesiones del Congreso del Estado serán públicas, con excepción de las previstas en el artículo que antecede.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+ARTICULO 109 BIS.- Son sesiones abiertas aquéllas en las que exclusivamente el Congreso del Estado reciba directamente de los ciudadanos opiniones, propuestas, peticiones o proyectos relacionados con temas de interés general, a efecto de que sean atendidos y en su caso turnados a los Órganos de Gobierno correspondientes para su análisis y trámite respectivo conforme a este artículo.
+
+A propuesta de la Junta de Coordinación Política el Congreso del Estado podrá llevar a cabo una sesión abierta por mes, conforme al orden del día aprobado previamente para tal efecto por el Pleno en sesión ordinaria.
+
+La propuesta del orden del día estará conformada por las solicitudes de los ciudadanos que hayan sido recibidas por la Presidencia de la Mesa Directiva y acordadas por la Junta de Coordinación Política.
+
+Aprobado por el Pleno del Congreso el orden del día de la sesión abierta, la Presidencia de la Mesa Directiva citará personalmente a los ciudadanos respectivos a efecto de que asistan a la sesión abierta, con derecho a voz exclusivamente y se colocarán en la mesa de comparecientes.
 
 ### CAPITULO II. DE LAS INICIATIVAS
 
@@ -2812,3 +2830,19 @@ TERCERO.- Todos los asuntos turnados a la Comisión de Asuntos Fronterizos, Come
 CUARTO.- La Comisión de Asuntos Fronterizos y Desarrollo Económico del Poder Legislativo del Estado de Baja California se integrará con los Diputados de la actual Comisión de Asuntos Fronterizos, Comercio, Desarrollo y Fomento Económico e Industrial y Competitividad, en sus respectivos puestos.
 
 QUINTO.- La Comisión de Asuntos Fronterizos y Desarrollo Económico del Poder Legislativo del Estado de Baja California conservará las prerrogativas que la legislación y las disposiciones administrativas vigentes establecen para la actual Comisión de Asuntos Fronterizos, Comercio, Desarrollo y Fomento Económico e Industrial y Competitividad.
+
+P.O. 5 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 524 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE MODIFICA LAS FRACCIONES IV, VI Y SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 104, ASÍ COMO SE ADICIONA UN ARTÍCULO 109 BIS A LA LEY ORGÁNICA DEL PODER LEGISLATIVO PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de un término no mayor al de 180 días, contados a partir de la fecha en que entre en vigor la presente reforma, el Congreso del Estado emitirá las disposiciones reglamentarias correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+La Junta de Coordinación Política del Congreso del Estado, podrá tomar los acuerdos que sean necesarios para dar cumplimiento a las presentes reformas hasta en tanto se aprueben las disposiciones a que se refiere el artículo transitorio anterior.
