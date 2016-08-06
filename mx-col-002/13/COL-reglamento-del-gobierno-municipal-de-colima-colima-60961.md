@@ -4,7 +4,7 @@ identifier: "COL-reglamento-del-gobierno-municipal-de-colima-colima-60961"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-12"
-last_updated: "2016-01-16"
+last_updated: "2016-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DEL GOBIERNO MUNICIPAL DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2016.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 12 de abril de 2008.
 
@@ -1349,7 +1349,9 @@ XIII.- Protección Civil.
 
 XIV.- Niñez, Juventud y Deporte.
 
-XV.- Atención a la Mujer.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2016)</small>
+
+XV.- Comisión para la Igualdad de Género.
 
 XVI.- Comisión de Fomento Económico y Empresarial.
 
@@ -1803,23 +1805,31 @@ VIII. En general todas las que le asignen las leyes y los acuerdos del cabildo.
 
 Son facultades y obligaciones de la Comisión de Atención a la Mujer:
 
-I.- Promover la defensa de los derechos de la mujer en el Municipio.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2016)</small>
+
+I.- Promover la Igualdad de Género en el Municipio, formulando los programas que considere convenientes;
 
 II.- Vigilar que se cumplan los ordenamientos legales, federales, estatales, dentro del Municipio, en materia de prevención o aplicación de la ley en contra de la violencia intrafamiliar.
 
-III.- Canalizar las demandas de las mujeres a las instituciones correspondientes.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2016)</small>
 
-IV.- Revisar la reglamentación municipal para incorporar la cultura y perspectiva de género, teniendo como propósito evitar la desigualdad y procurar la equidad entre los hombres y mujeres en el Municipio.
+III.- Canalizar las demandas de las mujeres y hombres a las instituciones correspondientes.
+
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2016)</small>
+
+IV.- Revisar la reglamentación municipal para incorporar la cultura y perspectiva de género, teniendo como propósito evitar la desigualdad y procurar la igualdad entre los hombres y mujeres en el Municipio.
 
 V.- Colaborar con las diferentes instituciones dentro del municipio, que tengan como propósito apoyar a los niños y mujeres en desamparo.
 
-VI.- Crear programas que fomenten la participación de la mujer en todas las actividades y áreas laborales.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2016)</small>
 
-(REFORMADA, P.O. 8 DE JUNIO DE 2013) (REPUBLICADA POR QUINTO TRANSITORIO DEL ACUERDO QUE CREA EL INSTITUTO DE LAS MUJERES PARA EL MUNICIPIO DE COLIMA, P.O. 8 DE JUNIO DE 2013)
+VI.- Crear programas que fomenten la participación de las mujeres y hombres en todas las actividades y áreas laborales.
 
-VII. Participar en la integración del Consejo Directivo del Instituto de la Mujer del Municipio según lo previsto en el Acuerdo de creación y Reglamento Interior del mismo.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2016)</small>
 
-(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JUNIO DE 2013) (REPUBLICADA POR QUINTO TRANSITORIO DEL ACUERDO QUE CREA EL INSTITUTO DE LAS MUJERES PARA EL MUNICIPIO DE COLIMA, P.O. 8 DE JUNIO DE 2013)
+VII.- Participar en la integración del Consejo Directivo del Instituto de la Mujer del Municipio según lo previsto en el Acuerdo de creación y Reglamento Interior del mismo.
+
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2016)</small>
 
 VIII.- En general todas las que le asignen las leyes y los acuerdos del cabildo.
 
@@ -6354,3 +6364,9 @@ SEGUNDO.- El Presidente Municipal dispondrá se imprima, publique, circule y se 
 TERCERO.- Se derogan todas las disposiciones reglamentarias que se opongan a las modificaciones contenidas en el presente acuerdo.
 
 CUARTO.- Las menciones que se hagan en otros ordenamientos de las dependencias municipales cuya denominación queda modificada por esta reforma, se entenderán referidas a las dependencias municipales de nueva creación, con su denominación actualizada.
+
+P.O. 6 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO QUE MODIFICA LA FRACCIÓN XV DEL ARTÍCULO 104; EL PRIMER PÁRRAFO Y LAS FRACCIONES I, III, IV, VI, VII Y VIII DEL ARTÍCULO 121; AMBOS DEL REGLAMENTO DEL GOBIERNO MUNICIPAL DE COLIMA".]
+
+ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
