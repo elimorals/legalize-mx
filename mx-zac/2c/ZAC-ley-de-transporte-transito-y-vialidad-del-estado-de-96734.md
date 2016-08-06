@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-transporte-transito-y-vialidad-del-estado-de-96734"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-20"
-last_updated: "2014-08-09"
+last_updated: "2016-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE TRANSPORTE, TRÁNSITO Y VIALIDAD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 20 de noviembre de 2013.
 
@@ -841,7 +841,13 @@ b) Ser mayor de edad;
 
 c) Tener capacidad física y mental para la prestación del servicio;
 
-d) Comprobar la propiedad o legal posesión de la unidad con la que pretenda prestarse el servicio y declarar las características de la misma;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2016)</small>
+
+d) Comprobar la propiedad, legal posesión o la promesa de adquirir la unidad con la que pretenda prestarse el servicio y declarar las características de la misma.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2016)</small>
+
+En el caso de la promesa, la concesión se otorgará con la leyenda de que se expide condicionada al cumplimiento de ésta en un plazo de cuarenta y cinco días hábiles, y si al final de éste término no se cumpliera, automáticamente quedará cancelada.
 
 e) Acreditar que el vehículo mantiene condiciones de baja emisión de contaminantes;
 
@@ -901,7 +907,9 @@ El otorgamiento de concesiones a que se refiere esta Ley se efectuará tomando e
 
 I. Se publicará una convocatoria en el Periódico Oficial, Órgano del Gobierno del Estado y en otro de mayor circulación en la Entidad. En ella se fijarán plazo y término dentro del cual se recibirán las solicitudes y documentos que los interesados presenten ante la Dirección convocante, a fin de demostrar que reúnen los requisitos legales para participar en el concurso.
 
-La convocatoria se publicará, a más tardar, con cuarenta y cinco días de anticipación al inicio del plazo de recepción de las solicitudes y documentos, cuyo período será de treinta días.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2016)</small>
+
+La convocatoria se publicará, a más tardar, con cinco días hábiles de anticipación al inicio del plazo de recepción de solicitudes y documentos, cuyo período será de diez días hábiles.
 
 II. La convocatoria contendrá:
 
@@ -921,7 +929,9 @@ f) Las garantías que deben otorgar quienes participen en el concurso, las cuale
 
 g) Día, hora y lugar en que se abrirán las propuestas, las cuales deberán haberse presentado en sobre cerrado. Una vez abiertos, quien presida el concurso les dará lectura en voz alta y levantará el acta respectiva;
 
-III. Dentro de los treinta días naturales siguientes a la celebración del concurso, el Gobernador emitirá el fallo que, en su caso, resuelva cuál o cuáles de los solicitantes merecen el otorgamiento de la concesión o concesiones. En tal resolución tomará en cuenta las mejores propuestas técnicas y materiales, para prestar el servicio, ofrezcan mejores condiciones de seguridad, comodidad y salubridad para los usuarios.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2016)</small>
+
+III. Dentro de los cinco días hábiles siguientes a la celebración del concurso, el Gobernador emitirá el fallo que determine, en su caso, cuál o cuáles de los solicitantes merecen el otorgamiento de la concesión o concesiones. En tal resolución tomará en cuenta las mejores propuestas técnicas y materiales, para prestar el servicio, ofrezcan mejores condiciones de seguridad, comodidad y salubridad para los usuarios.
 
 La resolución que otorgue la concesión o concesiones, se notificará al interesado o interesados, en la forma que dispone la Ley del Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas.
 
@@ -941,13 +951,19 @@ b) A los que tengan mayor antigüedad como solicitantes, y
 
 c) A los que, según el estudio socioeconómico que al efecto se realice, justifiquen la solvencia para el desempeño del servicio. Las resoluciones que emita el Gobernador al otorgar las concesiones serán irrecurribles, conforme a esta Ley.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 83.
 
-Los derechos derivados de una concesión son intransferibles, inalienables, imprescriptibles e inembargables.
+Las concesiones para explotar el servicio público de transporte son personales, las cuales, con excepción de las relativas a las modalidades de transporte urbano, suburbano y foráneo, podrán transmitirse por:
 
-Solo se permitirá su transferencia, en los casos de muerte e incapacidad física o mental del titular, teniendo derecho a ser beneficiario de la concesión, en orden de prelación, las tres personas que para tal efecto haya señalado y registrado formalmente ante la Dirección el concesionario, debiendo ser parientes en línea recta y colateral hasta el segundo grado. La cesión de la concesión también podrá efectuarse cuando los concesionarios constituyan una persona moral que tenga por objeto prestar el servicio de transporte de personas, en la que sus concesiones se otorguen al capital social de dicha persona.
+I. Causa de muerte o incapacidad física o mental, a favor de la persona que aparezca como beneficiario en el título concesión designado por su titular; y
 
-La transferencia deberá ser autorizada por el Gobernador e inscrita en el Registro.
+II. Cesión de derechos, autorizada por el titular del Ejecutivo del Estado o por el titular de la dependencia en que delegue esa facultad. El concesionario que ceda los derechos de la concesión, quedará imposibilitado para obtener otra en un plazo de cinco años, excepto el caso en que la cesión se haga en nombre del mismo concesionario, a favor de una sociedad como aportación al capital social.
+
+La cesión de derechos deberá realizarse ante Notario Público, con la declaratoria bajo protesta de decir verdad del cesionario de que no es titular de los derechos de más de cinco concesiones, incluyendo la que se adquiere e inmediatamente presentarse ante la Dirección de Transporte, Tránsito y Vialidad para el efecto de que, previo pago de los derechos correspondientes, se haga la sustitución de la concesión, cancelando la anterior. El Notario ante quien se otorgue la cesión de derechos, deberá dar aviso a la Dirección de Transporte, Tránsito y Vialidad dentro del plazo de cinco días hábiles.
+
+Toda transmisión formará parte de la concesión originalmente otorgada, quedando sujeta al plazo de vigencia y a las demás condiciones en ella estipulada, por lo que el nuevo titular será responsable del cumplimiento de todas las obligaciones inherentes a la misma.
 
 ###### ARTÍCULO 84.
 
@@ -1494,3 +1510,19 @@ VII... (SIC)
 Artículo Primero.- El Presente Decreto en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado. (sic)
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones que contravengan el presente Decreto. (sic)
+
+P.O. 6 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 622.- REFORMAS A LA LEY DE TRANSPORTE, TRÁNSITO Y VIALIDAD DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A la entrada en vigor del presente Decreto, la Secretaría General del Gobierno del Estado, por conducto de la Dirección de Transporte, Tránsito y Vialidad, deberá dar inicio a un proceso de revisión de las concesiones asignadas, con el fin de verificar que se les esté dando el uso para el cual fueron otorgadas; en el supuesto de encontrar situaciones irregulares, deberán aplicar las medidas legales pertinentes para resolverlas y, en su caso, las sanciones que correspondan.
