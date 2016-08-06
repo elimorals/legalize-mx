@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-la-ley-de-cultura-fisica-y-deporte-para-el-83433"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-10-19"
-last_updated: "2014-12-31"
+last_updated: "2016-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 6 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2016 (ABROGADA).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 19 de octubre de 2011.
 
@@ -1780,3 +1782,17 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se deroga el Reglamento de la Ley de Becas, Estímulos Educativos y Apoyos Financieros del Estado de Zacatecas publicado en el Periódico Oficial Órgano del Gobierno del Estado, Número 91, en fecha 12 de noviembre del 2011 y se derogan todas las disposiciones que contravengan el presente Decreto.
 
 Tercero: Se deroga el Reglamento de la Ley de Fomento para el Desarrollo Económico del Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en fecha 26 de marzo del año 2011.
+
+P.O. 6 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento de la Ley de Cultura Física y Deporte, publicado en el Periódico Oficial del Estado el 18 de octubre de 2011 y se derogan las demás disposiciones administrativas que se opongan al presente Reglamento.
+
+TERCERO. El INCUFIDEZ, realizará todo lo necesario para empezar a Implementar el SIEDE desde la entrada en vigor del presente Reglamento.
+
+CUARTO. Se expedirán los nombramientos y constancias a los integrantes del Consejo Directivo del SIEDE.
+
+QUINTO. Expedirá la Reglamentación Interior, Lineamientos, Formatos del SIEDE, RESDE dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor del presente Reglamento.
