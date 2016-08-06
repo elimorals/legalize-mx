@@ -4,7 +4,7 @@ identifier: "COL-ley-de-planeacion-para-el-desarrollo-del-estado-de-colima-45234
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-13"
-last_updated: "2003-09-13"
+last_updated: "2016-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE COLIMA
 
-LEY DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE COLIMA
+LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PLANEACIÓN DEMOCRÁTICA PARA EL DESARROLLO DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 6 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2016 (ABROGADA).
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 13 de septiembre de 2003.
 
@@ -34,8 +36,6 @@ Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente
 D E C R E T O
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN VI Y 39 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN NOMBRE DEL PUEBLO, Y
-
-.
 
 Por lo antes expuesto se tiene a bien expedir el siguiente:
 
@@ -596,3 +596,23 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 10 días del mes de septiembre del año dos mil tres.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSÉ GILBERTO GARCÍA NAVA.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 120 SE APRUEBA LA LEY DE PLANEACIÓN DEMOCRÁTICA PARA EL DESARROLLO DEL ESTADO DE COLIMA".]
+
+PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Se abroga la Ley de Planeación para el Desarrollo del Estado de Colima publicada en el Periódico Oficial "El Estado de Colima" el día 13 de septiembre de 2003, con sus consecuentes adiciones y reformas.
+
+TERCERO. Se abroga el Decreto que crea el Sistema de Información para la Planeación del Desarrollo del Estado SIPLADE publicado en el Periódico Oficial "El Estado de Colima" el día 25 de octubre del 2003, con sus consecuentes adiciones y reformas
+
+CUARTO. Se derogan en lo conducente las disposiciones normativas que se opongan a lo establecido en el presente Decreto.
+
+QUINTO. El Gobernador expedirá el Reglamento Interior para regular en lo que corresponda la organización y funcionamiento del Comité de Planeación Democrática para el Desarrollo del Estado de Colima y del Consejo de Participación Social del Estado de Colima, con apego a las bases previstas por este ordenamiento, en un plazo no mayor de noventa días naturales, contados a partir del día siguiente en que entre en vigor la Ley aprobada en este Decreto.
+
+SEXTO. Los ayuntamientos expedirán el Reglamento Interior para regular en lo que corresponda la organización y funcionamiento de los comités de planeación democrática para el desarrollo de los municipios y de los consejos de participación social de los municipios, con apego a las bases previstas por este ordenamiento, en un plazo no mayor de noventa días naturales, contados a partir del día siguiente en que entre en vigor la Ley aprobada en este Decreto.
+
+SÉPTIMO. Por única vez, el plazo a que se refiere el párrafo seis del artículo 12 del presente ordenamiento, se amplía hasta el 30 de septiembre del año en curso.
