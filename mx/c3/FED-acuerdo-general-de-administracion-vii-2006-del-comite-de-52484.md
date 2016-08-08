@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-vii-2006-del-comite-de-52484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-06-22"
-last_updated: "2006-06-22"
+last_updated: "2016-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,9 @@ scjn_last_update: "2016-08-08"
 
 ACUERDO GENERAL DE ADMINISTRACION VII/2006 DE VEINTIDOS DE JUNIO DE DOS MIL SEIS, DEL COMITE DE DESARROLLO HUMANO, SALUD Y ACCION SOCIAL DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE ESTABLECEN LAS NORMAS Y LINEAMIENTOS PARA LA ADMISION Y FUNCIONAMIENTO DEL CENTRO DE DESARROLLO INFANTIL "ARTICULO 123" DE ESTE ALTO TRIBUNAL
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 02/2016 DE UNO DE AGOSTO DE DOS MIL DIECISÉIS, DEL MINISTRO PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE EMITE EL REGLAMENTO INTERIOR DEL CENTRO DE DESARROLLO INFANTIL “ARTÍCULO 123 CONSTITUCIONAL” DE ESTE ALTO TRIBUNAL, PUBLICADO EN EL D.O.F. DE 8 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE AGOSTO DE 2016 (ABROGADO).
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XXIV, Julio de 2006, página 1431.
 
@@ -455,3 +457,21 @@ MARGARITA BEATRIZ LUNA RAMOS
 MINISTRO
 
 SERGIO SALVADOR AGUIRRE ANGUIANO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 8 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN 02/2016 DE UNO DE AGOSTO DE DOS MIL DIECISÉIS, DEL MINISTRO PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE EMITE EL REGLAMENTO INTERIOR DEL CENTRO DE DESARROLLO INFANTIL ARTÍCULO 123 CONSTITUCIONAL DE ESTE ALTO TRIBUNAL”.]
+
+PRIMERO: El presente Reglamento entrará en vigor a partir del día de su publicación.
+
+SEGUNDO: Se derogan las disposiciones que se opongan a lo dispuesto en el presente Reglamento.
+
+TERCERO: Se abroga el Acuerdo General de Administración VII/2006 de veintidós de junio de dos mil seis, del Comité de Desarrollo Humano, Salud y Acción social de la Suprema Corte de Justicia de la Nación, por el que se establecen las normas y lineamientos para la admisión y funcionamiento del Centro de Desarrollo Infantil “Artículo 123 Constitucional” de este Alto Tribunal; y en tanto se emita la normativa correspondiente; solo respecto a la materia de procedimientos de inscripción y reinscripción seguirá vigente dicho Acuerdo General de Administración.
+
+CUARTO: Instrúyase a los órganos y áreas correspondientes para que, de no existir ya la normativa secundaria respectiva a este Reglamento, ésta se emita en un plazo no mayor a seis meses a partir de la expedición del presente.
+
+QUINTO: Todo lo no previsto en el presente reglamento será resuelto por el Ministro Presidente de este Alto Tribunal, a través de la Secretaría General de la Presidencia.
+
+SEXTO: Publíquese en el Semanario Judicial de la Federación y su Gaceta y en el Diario Oficial de la Federación, así como en medios electrónicos, en términos de lo dispuesto en el artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública.
