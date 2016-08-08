@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-del-trabajo-y-84883"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-26"
-last_updated: "2013-03-11"
+last_updated: "2016-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2013.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL, PUBLICADO EN EL P.O. DE 8 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2016 (ABROGADA).
 
 Reglamento publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 26 de diciembre de 2011.
 
@@ -103,7 +105,7 @@ La representación, trámite y resolución de los asuntos competencia de la Secr
 
 I.- Conferir sus facultades delegables a servidores públicos subalternos, sin perjuicio de su ejercicio directo;
 
-II.- Autorizar a servidores públicos subalternos para que atiendan comisiones, realicen actos y suscriban documentos que formen parte del ejercicio de las facultades que tengan el carácter de delegables; y (sic)
+II.- Autorizar a servidores públicos subalternos para que atiendan comisiones, realicen actos y suscriban documentos que formen parte del ejercicio de las facultades que tengan el carácter de delegables; y
 
 > <small>(REFORMADA, P.O. 11 DE MARZO DE 2013)</small>
 
@@ -568,3 +570,15 @@ LICENCIADO JOSÉ FRANCISCO OLVERA RUIZ
 P.O. 11 DE MARZO DE 2013.
 
 ÚNICO.- EI presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 8 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría del Trabajo y Previsión Social del Estado de Hidalgo, publicado en el Periódico Oficial del Estado de Hidalgo el 11 de marzo de 2013.
+
+TERCERO. Las disposiciones administrativas en vigor, que derivan del Reglamento citado en el transitorio anterior, incluyendo acuerdos, continuarán vigentes en lo que no se opongan a las disposiciones del presente Reglamento que se expide.
+
+CUARTO. Las unidades administrativas y órganos desconcentrados con denominación nueva o distinta a la que aparece en el instrumento que se abroga u otros ordenamientos jurídicos o con competencia en asuntos que correspondían a otras, se harán cargo de los mismos a partir de la fecha de entrada en vigor del presente Reglamento.
