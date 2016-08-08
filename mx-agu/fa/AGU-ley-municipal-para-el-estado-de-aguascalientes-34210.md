@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2016-04-04"
+last_updated: "2016-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -753,7 +753,9 @@ Para ser Secretario del Ayuntamiento se requiere:
 
 I. Ser ciudadano en pleno uso de sus derechos políticos y civiles y ser vecino del municipio del Ayuntamiento que lo nombre;
 
-II. Contar con título de licenciatura debidamente registrado. En el caso del Municipio de Aguascalientes, deberá contar con título de licenciatura en derecho debidamente registrado, en términos de ley;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2016)</small>
+
+II. Contar con título de licenciatura debidamente registrado.
 
 > <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
@@ -2260,3 +2262,11 @@ Dentro de los ciento ochenta días naturales contados a partir de que inicie su 
 I.- La atención a los jóvenes, estableciendo los medios y procedimientos adecuados para ello; y
 
 II.- La prevención de la discriminación hacia los jóvenes, promoviendo una cultura de equidad y la igualdad de oportunidades y trato.
+
+P.O. 8 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 364.- SE REFORMA EL ARTÍCULO 49 DE LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
