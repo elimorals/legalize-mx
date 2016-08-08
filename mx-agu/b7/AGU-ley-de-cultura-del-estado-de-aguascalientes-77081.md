@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-del-estado-de-aguascalientes-77081"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-25"
-last_updated: "2015-06-15"
+last_updated: "2016-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CULTURA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2016.
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 25 de octubre de 2010.
 
@@ -45,69 +45,189 @@ LEY DE CULTURA DEL ESTADO DE AGUASCALIENTES
 
 ### CAPÍTULO ÚNICO. Del Objeto y Sujetos de la Ley
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 1°.
 
-La presente Ley es de orden e interés público y de observancia general en todo el Estado, correspondiendo su aplicación e interpretación en el ámbito administrativo al Instituto Cultural de Aguascalientes, a quien en lo sucesivo se le denominará Instituto.
+La presente Ley es de orden e interés público y de observancia general en todo el Estado, establece los medios y mecanismos para el acceso, participación y disfrute de las actividades, bienes y servicios que presta el Estado en materia de cultura y, en general, para el ejercicio de los derechos culturales, la difusión, promoción y desarrollo de las actividades artísticas.
+
+Corresponde su aplicación e interpretación en el ámbito administrativo al Instituto Cultural de Aguascalientes, a quien en lo sucesivo se le denominará como el Instituto.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 2°.
 
-La presente Ley tiene por objeto establecer los medios y mecanismos para el acceso, participación y disfrute de los bienes y servicios que presta el Estado en materia de cultura y, en general, para el ejercicio de los derechos culturales y la difusión y desarrollo de las actividades artísticas.
+Son sujetos de la presente Ley los habitantes del Estado y las personas físicas o morales cuya actividad consiste en la conservación, promoción, difusión, acrecentamiento y desarrollo del patrimonio y de las estructuras culturales; la creación, producción, ejecución, interpretación y difusión de obras artísticas o artesanales de las diversas disciplinas del quehacer humano; el establecimiento y el funcionamiento de espacios con vocación cultural; y quienes realizan labores materiales, técnicas o de gestión y de apoyo a estas actividades, o contribuyen a que la población pueda expresarse de un modo individual o colectivo en espacios de referencia cultural que en lo sucesivo se les denominará productores artísticos y promotores culturales.
 
 ## TÍTULO SEGUNDO. BASES PARA EL DESARROLLO CULTURAL Y ARTÍSTICO
 
-### CAPÍTULO I. Del Derecho al Acceso a la Cultura
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO I. De los Derechos Culturales
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 3°.
 
-Toda persona tiene derecho a participar libremente en la vida cultural y artística de la comunidad, a disfrutar de los bienes y servicios culturales y a participar en su desarrollo y defensa.
+Toda persona tiene derecho a participar libremente en la vida cultural y artística de la comunidad, a disfrutar de las actividades, bienes y servicios culturales y a participar en su desarrollo y defensa.
+
+Los habitantes del Estado tienen los siguientes derechos:
+
+I. Conocer, aprender, acrecentar, renovar, transformar, proteger, expresar, valorar, defender y transmitir aquellas manifestaciones culturales que le dan identidad a las personas y a sus comunidades;
+
+II. Acceder a las instituciones de actividades, bienes y servicios culturales, sin distinción motivada por origen étnico, raza, religión, género, condición física o mental, situación socio-económica, o cualquier otra que atente contra la dignidad humana;
+
+III. Disfrutar los bienes materiales e inmateriales del patrimonio cultural, con las limitaciones a las que esté sujeto el bien, en razón de su régimen de propiedad o posesión, y atendiendo en todo momento lo establecido por la Ley de Protección y Fomento del Patrimonio Cultural del Estado de Aguascalientes, y demás ordenamientos aplicables;
+
+IV. Expresar sus valores de identidad cultural, sin más limitaciones que las señaladas en las Constituciones federal y local;
+
+V. Participar con su comunidad en la recuperación, estudio, protección, conservación, difusión, promoción y reformulación de los valores de su identidad cultural;
+
+VI. Usar, usufructuar y defender la creación intelectual, conforme a las disposiciones en la materia;
+
+VII. Conocer, apreciar, desarrollar y expresarse a través de los lenguajes artísticos, a fin de ejercer integralmente sus capacidades creativas; y
+
+VIII. Organizarse y asociarse para la realización de festividades y cualesquiera otras manifestaciones culturales de carácter popular.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 4°.
 
-La cultura es una de las expresiones fundamentales de la vida pública de una sociedad y sus individuos. El Estado tiene la misión de fortalecer los procesos de creación, expresión, difusión y de apropiación social de la cultura.
+La cultura es una de las expresiones fundamentales de la vida pública de una sociedad y sus habitantes. El Estado en participación con la sociedad tiene la misión de fortalecer los procesos de creación, expresión, preservación de la cultura y generación de conocimiento a través de mecanismos dirigidos a la sociedad para la difusión de actividades, bienes y servicios culturales.
+
+Por lo anterior serán principios rectores de la política cultural del Estado:
+
+I. La libertad de creación, y fomento a la creatividad;
+
+II. La preservación de la diversidad cultural;
+
+III. La promoción de la valoración de lo propio para el fortalecimiento de la cohesión e identidad;
+
+IV. La igual dignidad y respeto de todas las culturas;
+
+V. El reconocimiento de la diversidad cultural; y
+
+VI. El fomento y consolidación de la participación ciudadana.
+
+Se entiende por diversidad cultural la multiplicidad de formas, medios y técnicas por las que se expresan y transmiten las culturas de los grupos y la sociedad.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
+###### Artículo 4° Bis.
+
+Todas las manifestaciones culturales de los Aguascalentenses serán respetadas en condiciones de igualdad, en el marco de respeto a los derechos humanos.
+
+Son derechos de los productores artísticos y/o promotores culturales:
+
+I. La libre creación, individual o colectiva;
+
+II. La divulgación de la obra realizada, siempre que se trate del titular de los derechos morales de la misma, y de conformidad con lo dispuesto por la legislación en materia de propiedad intelectual;
+
+III. El acceso, como beneficiarios, a las políticas, programas y otros derechos señalados en la Ley, de conformidad con los medios y mecanismos establecidos en la misma, su reglamento, y/o en los demás ordenamientos que resulten aplicables; y
+
+IV. La obtención de estímulos, subvenciones y créditos adecuados a su productividad, de conformidad con los medios y mecanismos establecidos en la Ley, su reglamento, convocatorias, lineamientos, y/o en los demás ordenamientos que resulten aplicables, así como a la suficiencia presupuestaria.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 5°.
 
-El Estado reconoce la diversidad de identidades que concurren a la integración de la cultura.
+El Estado garantizará el ejercicio de los derechos culturales de la población Aguascalentense y los productores artísticos y promotores culturales; regulará el acceso y disfrute de las actividades, bienes y servicios que presta el Estado en la materia, bajo los principios rectores de la política cultural.
 
 ### CAPÍTULO II. De la Política Cultural
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 6°.
 
-La política del Estado en materia cultural, estará regida por los siguientes principios:
+La política cultural es un mecanismo de transformación social integrado por lineamientos estratégicos y programas que dan dirección a la intervención del Estado y la vinculación con los productores artísticos y promotores culturales, las empresas de la industria cultural relativas al fomento y promoción del desarrollo cultural, que se sujetará a los siguientes lineamientos:
 
-I. La promoción de la valoración de lo propio para el fortalecimiento de la cohesión e identidad;
+I. Afirmará y fortalecerá la identidad de los individuos, a través de programas y acciones que fomenten la libre expresión y el diálogo intercultural;
 
-II. La protección de la diversidad cultural;
+II. Adoptará acciones encaminadas a la eliminación de condiciones de riesgo y a la defensa, preservación, salvaguarda y enriquecimiento de la diversidad cultural, la autenticidad de las expresiones y el patrimonio cultural, en el marco de las disposiciones aplicables;
 
-III. El fomento de la creatividad;
+III. Generará un entorno favorable para el desarrollo cultural, facilitando el acceso, uso, preservación y disfrute de las actividades, bienes y servicios culturales, con igualdad de oportunidades y equidad en la distribución de los recursos;
 
-IV. El fomento y consolidación de la participación ciudadana; y
+IV. Promoverá el desarrollo, actualización y consolidación de los productores artísticos y promotores culturales;
 
-V. Conservación del patrimonio cultural e histórico.
+V. Impulsará el conocimiento de los diversos lenguajes artísticos y formas eficaces de vinculación entre la educación y las culturas;
+
+VI. Fomentará el uso y desarrollo de los medios de comunicación, de la tecnología y de las empresas de la industria cultural para la difusión en los distintos campos de la acción cultural;
+
+VII. Instrumentará estrategias para la formación y acrecentamiento del sector poblacional interesado para las artes y el consumo de productos culturales, así como el reconocimiento de éstos como portadores de identidad, valores y sentido;
+
+VIII. Promoverá la corresponsabilidad y participación representativa de los productores artísticos, promotores culturales, así como de la sociedad, en la elaboración, ejecución y evaluación de los programas y de las acciones para la promoción y difusión del desarrollo y la diversidad culturales;
+
+IX. Destacará la importancia y la integración del componente cultural en los procesos de la planeación para el desarrollo;
+
+X. Establecerá la coordinación entre el Instituto y las dependencias y entidades de la administración pública municipal, para fortalecer la descentralización de los programas y acciones, con objeto de alcanzar el desarrollo equilibrado de las distintas regiones y comunidades, así como preservar, proteger y difundir sus culturas y patrimonio cultural, en el marco de las disposiciones aplicables;
+
+XI. Diseñará estrategias generales para la gestión de subsidios, el cofinanciamiento y el otorgamiento de estímulos económicos para actividades y proyectos culturales; y
+
+XII. Fomentará la apertura de espacios de referencia cultural independientes.
 
 ###### Artículo 7°.
 
 El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 8°.
 
-Toda persona tiene el derecho al acceso y participación en las manifestaciones culturales. Es deber del Estado incentivar una mayor participación de las personas, grupos sociales, estableciendo los mecanismos para acceder a los bienes culturales en vinculación y coordinación con instituciones culturales públicas y privadas.
+Toda persona tiene el derecho al acceso y participación en las manifestaciones culturales. Es deber del Estado incentivar una mayor participación de las personas, grupos sociales, estableciendo los mecanismos para acceder a las actividades, bienes y servicios culturales en vinculación y coordinación con instituciones culturales públicas y privadas.
+
+Para la ejecución de las acciones culturales, que deriven de los instrumentos de planeación, el Estado delegará en el Instituto la promoción para la participación de:
+
+I. Organizaciones de profesionistas vinculadas con alguna de las ramas del desarrollo cultural o de las expresiones artísticas;
+
+II. Personas dedicadas a la creación, promoción y gestión cultural;
+
+III. Instituciones educativas públicas y privadas, asociaciones civiles, empresas de la industria cultural y patronatos constituidos con fines culturales; y
+
+IV. Los habitantes del Estado.
 
 ###### Artículo 9°.
 
 El pluralismo y la libertad de expresión son conceptos básicos en el desarrollo de la cultura y las artes, basamento de la libertad creativa.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 10.
 
-Es prioridad el apoyo a la creación, producción artística e innovación en el Estado, por lo que le corresponde financiar proyectos y obras ya realizadas, así como propiciar las bases para autofinanciamientos y desarrollo de industrias culturales.
+Es prioridad el apoyo a la creación, producción artística e innovación en el Estado, por lo que le corresponde financiar proyectos de industrias culturales así como propiciar las bases para la auto sustentabilidad y desarrollo de las mismas de conformidad con la presente Ley.
 
 ###### Artículo 11.
 
 La educación artística es el medio a través del cual se enriquece y fortalece la vida cultural del Estado.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 12.
 
-La política cultural del Estado es pública y se debe diseñar, formular, planificar, ejecutar, instrumentar, seguir y evaluar conforme al Plan Estatal de Desarrollo.
+La política cultural del Estado es pública y se debe diseñar, formular, planificar, ejecutar, instrumentar, seguir y evaluar conforme a las estrategias y acciones para atender los siguientes rubros:
+
+I. Educación artística y cultural;
+
+II. Expresión y apreciación artística;
+
+III. Fomento a la lectura;
+
+IV. Patrimonio cultural;
+
+V. Atención a municipios;
+
+VI. Artes populares;
+
+VII. Acervos culturales;
+
+VIII. Empresas de la industria cultural;
+
+IX. Turismo cultural;
+
+X. Difusión a los derechos de autor y propiedad intelectual;
+
+XI. Promoción y comercialización de bienes, productos y servicios artísticos y culturales; y
+
+XII. Comúnicación y difusión.
 
 ### CAPÍTULO III. De la Educación Artística
 
@@ -125,17 +245,21 @@ El Estado tiene la obligación de contribuir a la preparación de ciudadanos apt
 
 Asimismo, se deberán identificar, estimular y encauzar vocaciones artísticas para su adecuado desarrollo.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 16.
 
-El Instituto Cultural de Aguascalientes promoverá que en el sistema educativo del Estado se realicen las actividades necesarias para fomentar los valores culturales y artísticos, así como despertar el aprecio y respeto por dichos valores.
+El Instituto promoverá que en el sistema educativo del Estado se realicen las actividades necesarias para fomentar los valores culturales y artísticos, así como despertar el aprecio y respeto por dichos valores.
+
+Por lo que en coordinación, el Instituto como órgano rector en materia de cultura y el Instituto de Educación de Aguascalientes como responsable de la política y la dirección relacionada con los servicios de educación del Estado de Aguascalientes, con la participación de universidades públicas y privadas, diseñarán los lineamientos y estrategias para garantizar la cobertura total de educación artística en las instituciones de educación preescolar, primaria, secundaria y media superior.
 
 ### CAPÍTULO IV. Del Patrimonio Cultural e Histórico
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 17.
 
-Para efectos de la presente Ley, el patrimonio cultural se entiende como el conjunto de bienes de dominio público o privado que forman parte de la identidad y estilo de vida de los aguascalentenses y que sean declarados por el Estado en los distintos niveles de gobierno.
-
-Las atribuciones que ejerza el Estado para la protección y fomento del patrimonio cultural se sujetarán a lo dispuesto por el presente ordenamiento, y demás disposiciones jurídicas aplicables.
+Para efectos de la presente Ley, el patrimonio cultural se entiende como el conjunto de bienes de dominio público o privado, tangibles e intangibles, que forman parte de la identidad y estilo de vida de los aguascalentenses y que sean declarados por el Estado en los distintos niveles de gobierno de conformidad con las disposiciones de la Ley aplicable.
 
 ###### Artículo 18.
 
@@ -145,15 +269,17 @@ El Instituto, coadyuvará a la defensa del patrimonio cultural, municipal, regio
 
 ### CAPÍTULO I. Definiciones y Bases de Coordinación y Colaboración
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 19.
 
-El Sistema Estatal de Cultura es la integración de los recursos del Estado para conseguir la difusión y desarrollo de la cultura y las artes en el Estado.
+El Sistema Estatal de Cultura es la integración de los recursos del Estado para promover el desarrollo y difusión de la cultura y las artes en el Estado así como las políticas culturales, los instrumentos aplicables del Sistema Estatal de Planeación Democrática en materia de cultura, planes y programas anuales y los mecanismos de participación. El Instituto será el responsable de coordinar al Sistema Estatal de Cultura.
 
-La responsabilidad de coordinar el Sistema recae en el Instituto.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 20.
 
-El Instituto deberá integrar un mecanismo de coordinación con las dependencias y entidades de la administración pública en sus diversos niveles que tengan relación con el objeto y contenido de la presente Ley.
+El Instituto deberá integrar un mecanismo de coordinación con las dependencias y entidades de la administración pública en sus diversos niveles y los productores artísticos y promotores culturales del Estado de Aguascalientes que tengan relación con el objeto y contenido de la presente Ley.
 
 ###### Artículo 21.
 
@@ -275,15 +401,25 @@ XX. Registrar y apoyar la iniciativa de personas y grupos, a efecto de promover 
 
 XXI. Celebrar convenios con los medios de comunicación para promover y difundir los valores culturales;
 
-XII. Establecer programas de estímulo y financiamiento a las actividades culturales, priorizando la creación de fondos financieros para los artistas y creadores intelectuales del Estado, cuyas obras contribuyan al logro del objetivo del Instituto;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2016)</small>
+
+XXII. Establecer programas de estímulo y financiamiento a las actividades culturales, priorizando la creación de fondos financieros para los productores artísticos, promotores y empresa de la industria cultural del Estado, cuyas obras contribuyan al logro del objetivo del Instituto;
 
 > <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
 
 XXIII. Promover y fomentar la adquisición de material didáctico y de lectura para personas con discapacidad en centros culturales y bibliotecas;
 
-XXIV. Coordinar y supervisar la Red estatal de Bibliotecas Públicas y fungir como enlace con la Red Nacional de Bibliotecas Públicas; conforme a los acuerdos que se hubieran celebrado o se celebren con esa instancia federal y/o con los ayuntamientos; y
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2016)</small>
 
-XXV. Administrar los recursos que le sean asignados.
+XXIV. Coordinar y supervisar la Red estatal de Bibliotecas Públicas y fungir como enlace con la Red Nacional de Bibliotecas Públicas; conforme a los acuerdos que se hubieran celebrado o se celebren con esa instancia federal y/o con los ayuntamientos;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2016)</small>
+
+XXV. Administrar los recursos que le sean asignados; y
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2016)</small>
+
+XXVI. Las demás que le confiere esta Ley y los ordenamientos jurídicos aplicables.
 
 ###### Artículo 31.
 
@@ -333,7 +469,9 @@ I. El Gobernador del Estado, o su representante, quien será su presidente, tend
 
 II. Un representante del Congreso del Estado de Aguascalientes;
 
-III. El representante del Consejo Nacional para la Cultura y las Artes;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2016)</small>
+
+III. El representante de la Secretaría de Cultura federal;
 
 IV. Un representante de las Universidades Públicas;
 
@@ -341,15 +479,23 @@ V. Un representante de las Universidades Privadas;
 
 VI. El Director General del Instituto de Educación de Aguascalientes;
 
-VII. Un representante de la Secretaría de Gestión e Innovación;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2016)</small>
+
+VII. Un representante de la Oficialía Mayor del Estado;
 
 VIII. Un representante de la Secretaría de Finanzas del Estado;
 
-IX. Un representante de la Secretaría de Planeación y Desarrollo Regional; y
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2016)</small>
 
-X. Dos miembros más, de la comunidad social o civil, prefiriéndose para ello a personas que tengan una destacada trayectoria cultural.
+IX. Un representante de la Coordinación Estatal de Planeación y Proyectos; y
 
-En los casos previstos en las Fracciones IV y V, se formulará invitación a las instituciones que se indican, prefiriéndose a los de aquellas que tengan o pretendan una actividad cultural o artística destacada. Si no se pudiere conseguir su participación, el Gobernador del Estado nombrará para que los suplan a quienes estime convenientes.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2016)</small>
+
+X. Dos miembros de la comunidad social o civil, prefiriéndose para ello a personas que tengan una destacada trayectoria cultural.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
+En los casos previstos en las Fracciones IV y V, se formulará invitación a las instituciones que se indican, prefiriéndose a los de aquellas que tengan o pretendan una actividad cultural o artística destacada. Si no se pudiere conseguir su participación, el Gobernador del Estado nombrará para que los suplan a quienes estime convenientes. Asimismo corresponde al Gobernador del Estado la facultad para designar a los representantes de la fracción X.
 
 ###### Artículo 37.
 
@@ -369,7 +515,7 @@ Son facultades de la Junta Directiva:
 
 I. Expedir el Estatuto Orgánico del Instituto;
 
-II. Designar y remover al Director General del Instituto, a propuesta del Gobernador del Estado;
+II. (DEROGADA, P.O. 8 DE AGOSTO DE 2016)
 
 III. Establecer las bases de organización, las facultades y funciones que correspondan a las distintas áreas que integran el Instituto;
 
@@ -393,9 +539,11 @@ Los acuerdos tomados por la Junta Directiva tendrán el carácter de definitivos
 
 A las sesiones de la Junta Directiva podrán asistir como invitados a participar con voz pero sin voto, a distinguidas personalidades en el aspecto de la cultura, así como funcionarios y directivos de Organismos o Instituciones Culturales del Estado, que serán invitados por el Presidente o el Director General; también podrán asistir con el mismo carácter algún integrante de los Ayuntamientos, cuando en la sesión respectiva se trate lo concerniente a alguna función o actividad relacionada con el municipio a que corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 42.
 
-El Director General es el órgano ejecutor de las propuestas, política, acuerdos, planes y programas y será nombrado o removido por la Junta Directiva a propuesta del Gobernador del Estado; el cargo deberá recaer en la persona que reúna los siguientes requisitos:
+El Director General es el órgano ejecutor de las propuestas, política, acuerdos, planes y programas y será nombrado o removido por el Gobernador del Estado; el cargo deberá recaer en la persona que reúna los siguientes requisitos:
 
 I. Ser mexicano en pleno ejercicio de sus derechos;
 
@@ -489,9 +637,21 @@ Son funciones del Consejo Técnico:
 
 I. Integrar el plan general anual de actividades, con base en las propuestas de los directores de área;
 
-II. Ser órgano de Consulta, así como de apoyo en las cuestiones que sean sometidas a su consideración por el Director General; y
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2016)</small>
 
-III. Ser órgano normativo, en donde se estudiarán y autorizarán en su caso las diferentes normas y reglamentos interiores del Instituto.
+II. Ser órgano de consulta y apoyo en las cuestiones que sean sometidas a su consideración por el Director General;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2016)</small>
+
+III. Ser órgano normativo, en donde se estudiarán y autorizarán en su caso las diferentes normas y reglamentos interiores del Instituto; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE AGOSTO DE 2016)</small>
+
+IV. Evaluar la aplicación de la presente Ley así como del Sistema Estatal de Cultura, y los instrumentos de planeación correspondientes, de conformidad con la Ley de Planeación del Desarrollo Estatal y Regional del Estado de Aguascalientes y los planes anuales para presentar observaciones y recomendaciones sobre su aplicación.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
+El Consejo Técnico sesionará de acuerdo con el Reglamento que al efecto se expida. Los asuntos que dirima el Consejo Técnico serán aprobados por la mayoría de sus integrantes. Para el cumplimiento de la fracción IV del presente artículo, el Consejo Técnico presentará semestralmente un Informe de Evaluación a la Junta Directiva.
 
 ###### Artículo 49.
 
@@ -643,9 +803,11 @@ Las Asociaciones Civiles, Patronatos y Sociedades de Amigos, son organizaciones 
 
 A través del Instituto, dichas organizaciones tendrán la facultad de coadyuvar en el fortalecimiento de la cultura y las artes en el Estado.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 70.
 
-El Instituto apoyará las actividades de dichas agrupaciones con su reconocimiento y otorgando capacitación, espacios y en su caso, expedir recibos deducibles, previo cumplimiento de los requisitos conducentes.
+El Instituto apoyará las actividades de personas físicas, morales o agrupaciones que se proponen la ejecución de uno o varios proyectos, obras o actividades culturales con fines de rentabilidad económica o social, entendidas éstas como empresas de la industria cultural, por medio de reconocimientos, otorgando capacitación, espacios, entre otros, de conformidad con los medios y mecanismos establecidos en la Ley, su reglamento, convocatorias, lineamientos, y/o en los demás ordenamientos que resulten aplicables, así como a la suficiencia presupuestaria.
 
 ###### Artículo 71.
 
@@ -659,9 +821,133 @@ Se reconoce a las industrias culturales su doble papel como factor de desarrollo
 
 De manera conjunta, el Instituto y las industrias culturales promoverán acciones de entendimiento, coordinación y emprendimiento en el sector privado para estimular la inversión en los sectores de cultura y artes.
 
-### CAPÍTULO ÚNICO. De los Recursos
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO IV BIS. Del Macro Espacio para la Cultura y las Artes
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
+###### Artículo 73 Bis.
+
+Se crea el Macro Espacio para la Cultura y las Artes, como un gran laboratorio interdisciplinario, vinculado a la ciudad, a la academia, a las diferentes esferas del saber, un espacio de intercambio de ideas sobre la cultura y los valores de la sociedad contemporánea que promueve la investigación, la producción, la educación y formación, la difusión de la creación y el pensamiento contemporáneo en todas sus manifestaciones, favoreciendo el encuentro entre creadores y público de todos los sectores de la sociedad, como un espacio plural y abierto a la participación, para crear, reflexionar, aprender y disfrutar, que contará con la infraestructura adecuada.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
+###### Artículo 73 Ter.
+
+El Macro Espacio para la Cultura y las Artes tendrá los siguientes elementos de vinculación y expresión:
+
+I. Museo Espacio;
+
+II. Taller Nacional de Gráfica;
+
+III. Sala de Conciertos de la Orquesta Sinfónica de Aguascalientes; y
+
+IV. Así como todo aquel proyecto que sea incorporado a las instalaciones mencionadas y se vincule con el objeto del Macro Espacio para la Cultura y las Artes de acuerdo al Reglamento Interior.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
+###### Artículo 73 Quáter.
+
+El Museo Espacio tiene como misión incorporarse al circuito del arte internacional, con la finalidad de convertirse en una importante plataforma de lanzamiento para artistas y jóvenes talentos nacionales, aumentando el conocimiento, comprensión, entendimiento y apreciación del arte en todas sus dimensiones desde la perspectiva de un pensamiento contemporáneo. Los objetivos que perseguirá serán los siguientes:
+
+I. Promover y difundir el arte, por medio de exposiciones de artistas considerados dentro del circuito del arte internacional que sean avalados por el Consejo Asesor;
+
+II. Vincularse académicamente con instituciones de educación superior, centros de investigación y organismos afines, con el objeto de explorar el cómo responder a las nuevas maneras de crear y comprender el arte;
+
+III. Propiciar la discusión de estudiosos y especialistas para la generación de teoría y nuevos conocimientos sobre el arte;
+
+IV. Una vez alcanzada la misión de posicionar al Museo Espacio en el circuito del arte internacional, detectar artistas y jóvenes talentos que por su trayectoria puedan ser candidatos a proponerse para participar en el programa curatorial del Museo Espacio;
+
+V. Generar un programa de servicios educativos incluyente, acorde a cada una de las exposiciones que se presenten en el Museo Espacio, y que deberá enfocarse en la idea de pensar el arte, superando la mera observación, así como intensificar la experiencia museística de los visitantes;
+
+VI. Promover la interacción con otros sistemas culturales, como la tecnología, ciencia, religión, entre otros;
+
+VII. Promover el incremento del acervo de obras de valor artístico;
+
+VIII. Propiciar nuevas aproximaciones a la historia del arte y la práctica artística contemporánea, para vincular al Museo Espacio con la sociedad a través (sic) experiencias de deleite y aprendizaje; y
+
+IX. Involucrar nuevas audiencias.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
+###### Artículo 73 Quinquies.
+
+El Instituto contará con un Consejo Asesor del Museo Espacio, el cual funcionará de conformidad con las disposiciones administrativas reglamentarias que para tal efecto expida la Junta Directiva del Instituto, el cual estará integrado por:
+
+I. El Director General del Instituto, quien los presidirá;
+
+II. El Director de la Universidad de las Artes;
+
+III. Un representante de la Secretaría de Cultura Federal;
+
+IV. Un representante del Instituto Nacional de Bellas Artes;
+
+V. Un representante de las Universidades Públicas con alcance nacional, que imparta posgrados en artes visuales; y
+
+VI. Un representante de la sociedad civil, de reconocida trayectoria en materia cultural.
+
+La invitación a los integrantes señalados de las fracciones V y VI serán realizadas por el Presidente del Consejo Asesor del Museo Espacio.
+
+Asimismo, serán invitados especiales con derecho a voz pero no (sic) voto aquellas personas que por sus conocimientos y experiencia sean necesarios para la atención de asuntos de interés, así como aquellos que hayan ocupado el cargo de Director General del Instituto.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
+###### Artículo 73 Sexies.
+
+El Consejo Asesor del Museo Espacio tendrá las siguientes atribuciones:
+
+I. Garantizar la permanencia y consolidación del Museo Espacio, mediante una cuidadosa selección de artistas y propuestas curatoriales pertenecientes al circuito del arte internacional para integrar un mínimo de dos exposiciones con estas características cada año, de conformidad con los presupuestos autorizados;
+
+II. Asesorar al Coordinador del Museo Espacio, en la elaboración de los proyectos que se integrarán al plan anual de actividades del Instituto, de conformidad con los presupuestos autorizados;
+
+III. Examinar el informe semestral, y el informe anual de actividades del Museo Espacio que serán integrados al informe anual del Instituto;
+
+IV. Someter a consideración de la Junta Directiva el Manual de Lineamientos y Políticas para Incrementar el Acervo del Museo, en el cual deberá determinarse qué obras de valor artístico son susceptibles de adquisición, ya sea por medio de donación o compra, así como la finalidad de las mismas. Dentro de dichos lineamientos se establecerá la facultad del Consejo para emitir dictamen para la adquisición de obras, respecto de su valor artístico, económico, la verificación de su autenticidad, así como la conveniencia o no de su adquisición; y
+
+V. Emitir dictamen sobre el acervo existente, respecto de su valor artístico, económico y la verificación de su autenticidad.
+
+El Consejo Asesor sesionará de manera ordinaria dos veces al año, y de manera extraordinaria cuando sea convocado por el Presidente, las decisiones serán tomadas por mayoría. El presidente del Consejo tendrá voto de calidad en caso de empate y funcionará de acuerdo con el reglamento interior.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
+###### Artículo 73 Septies.
+
+El Taller Nacional de Gráfica es un espacio dedicado a la enseñanza, producción y experimentación de las artes gráficas, a través de sus programas académicos y abiertos, propiciando la participación de grandes maestros que contribuyan a enriquecer a los usuarios y artistas en formación, y acceder a su saber y experiencia, cuya misión es posicionarse como un espacio de referencia en estas disciplinas a nivel nacional e internacional, el cual cumplirá con los siguientes objetivos:
+
+I. Integrar las distintas técnicas en un mismo espacio propiciando el diálogo, la creatividad y la innovación, con un enfoque especial hacia las ecotendencias;
+
+II. Promover la enseñanza del grabado para todos los niveles, a través de talleres, cursos, capacitaciones, entre otros;
+
+III. Vincularse académicamente a la Universidad de las Artes, y a los programas de artes participativas del Museo Espacio;
+
+IV. Promover la producción e investigación de las artes gráficas tradicionales, así como de las nuevas tendencias;
+
+V. Promover residencias artísticas de producción e investigación dirigidas a artistas nacionales e internacionales con amplia trayectoria y/o artistas emergentes;
+
+VI. Otorgar servicios de impresión de placas, impresión de proyectos digitales, corte, venta de obra, renta de espacio para producción, entre otros, a artistas y público en general, de acuerdo a la Ley de Ingresos y demás ordenamientos aplicables; y
+
+VII. Difundir el quehacer gráfico a través de recorridos, exposiciones, ferias, conferencias, charlas, programas especiales, entre otros.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
+###### Artículo 73 Octies.
+
+La sala de conciertos de la Orquesta Sinfónica de Aguascalientes cumplirá con los siguientes objetivos:
+
+I. Servir como un espacio para la promoción y difusión de la música sinfónica y de cámara;
+
+II. Proporcionar a la Orquesta Sinfónica de Aguascalientes un escenario idóneo para sus presentaciones y fungir como sede fija para llevar a cabo sus ensayos musicales;
+
+III. Ofrecer a la población del Estado de Aguascalientes un espacio arquitectónico en el que pueda disfrutar la música de concierto en las mejores condiciones acústicas y escénicas;
+
+IV. Enriquecer la oferta cultural y turística del Estado de Aguascalientes; y
+
+V. Complementar la integración del Macro Espacio para la Cultura y las Artes como un polo regional de animación cultural.
 
 ## TÍTULO CUARTO. DE LA PROTECCIÓN DEL DERECHO DE ACCESO A LA CULTURA
+
+### CAPÍTULO ÚNICO. De los Recursos
 
 ###### Artículo 74.
 
@@ -760,3 +1046,19 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones reglamentarias conducentes, a fin de utilizar el término de “personas con discapacidad”.
+
+P.O. 8 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 363.- SE REFORMA LA LEY DE CULTURA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se faculta a la Junta Directiva del Instituto Cultural de Aguascalientes, para establecer las adecuaciones administrativas necesarias para la puesta en operación del Macro Espacio para la Cultura y las Artes en un término no mayor de 180 días posteriores a su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones reglamentarias deberán expedirse en un término no mayor de 180 días posteriores a su publicación en el Periódico Oficial del Estado.
