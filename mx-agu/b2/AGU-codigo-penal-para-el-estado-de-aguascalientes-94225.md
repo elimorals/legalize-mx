@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2015-06-08"
+last_updated: "2016-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -499,9 +499,11 @@ Toda resolución relativa a sustitución de prisión u otorgamiento de suspensi�
 
 MULTA. La Multa consiste en el pago al Estado de una cantidad de dinero que se fijará por días multa y que no podrán exceder de doce mil.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 55.
 
-Equivalencia del día multa. El día multa equivale a la percepción neta diaria del responsable del hecho delictivo al momento de cometerlo, tomando en cuenta todas sus percepciones, siendo el límite inferior el equivalente al salario mínimo vigente en el Estado.
+Equivalencia del día multa. El día multa equivale a la percepción neta diaria del responsable del hecho delictivo al momento de cometerlo, tomando en cuenta todas sus percepciones, siendo el límite inferior el equivalente al valor diario de la Unidad de Medida y Actualización.
 
 Si el responsable se negare a cubrir el importe de la multa que se le imponga, se hará efectiva en términos de la Ley de Ejecución de Sanciones Penales para el Estado de Aguascalientes.
 
@@ -1365,15 +1367,19 @@ II. El apoderamiento de cosa propia, dinero o valores, cuando éstos se hallen e
 
 III. El aprovechamiento de energía eléctrica, agua, gas, servicio telefónico, servicio de Internet o de imagen televisiva, sin consentimiento de la persona que legalmente pueda disponer de ellos.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
 Al responsable de Robo se le aplicarán de:
 
-I. 6 Meses a 2 años de prisión y de 15 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial no exceda de cien veces el salario mínimo general vigente en el Estado;
+I. 6 Meses a 2 años con 6 meses de prisión y de 15 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial no exceda de cien veces el valor diario de la unidad de medida y actualización;
 
-II. 2 a 4 años de prisión y de 100 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de cien veces el salario mínimo general vigente en el Estado, pero no de trescientas; o
+II. 2 a 5 años de prisión y de 100 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de cien veces el valor diario de la Unidad de Medida y Actualización, pero no de trescientas; o
 
-III. 4 a 10 años de prisión y de 150 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de trescientas veces el salario mínimo general vigente en el Estado.
+III. 5 a 10 años de prisión y de 150 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de trescientas veces el valor diario de la Unidad de Medida y Actualización.
 
-La valoración que se haga de la afectación patrimonial tomará en consideración el salario mínimo general vigente en el Estado en el momento en que se concreticen los hechos descritos en el presente Artículo.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
+La valoración que se haga de la afectación patrimonial tomará en consideración el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se concreticen los hechos descritos en el presente Artículo.
 
 ###### ARTÍCULO 141.
 
@@ -1479,15 +1485,19 @@ III. El no hacer entrega de la cosa embargada el depositario judicial o el desig
 
 IV. El disponer para sí o para otro de una o más cabezas de ganado, cualquiera que sea su especie, con perjuicio de alguien, de las cuales se le haya transmitido la tenencia y no el dominio, o bien se las hayan entregado para su custodia.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
 Al responsable de Abuso de Confianza se le aplicarán de:
 
-I. 6 Meses a 2 años de prisión y de 15 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial no exceda de cien veces el salario mínimo general vigente en el Estado;
+I. 6 Meses a 2 años de prisión y de 15 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial no exceda de cien veces el valor diario de la Unidad de Medida y Actualización;
 
-II. 2 a 4 años de prisión y de 100 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de cien veces el salario mínimo general vigente en el Estado, pero no de trescientas; o
+II. 2 a 4 años de prisión y de 100 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de cien veces el valor diario de la Unidad de Medida y Actualización, pero no de trescientas; o
 
-III. 4 a 10 años de prisión y de 150 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de trescientas veces el salario mínimo general vigente en el Estado.
+III. 4 a 10 años de prisión y de 150 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de trescientas veces el valor diario de la Unidad de Medida y Actualización.
 
-La valoración que se haga de la afectación patrimonial tomará en consideración el salario mínimo general vigente en el Estado en el momento en que se concreticen los hechos descritos en el presente Artículo.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
+La valoración que se haga de la afectación patrimonial tomará en consideración el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se concreticen los hechos descritos en el presente Artículo.
 
 ###### ARTÍCULO 147.
 
@@ -1517,15 +1527,19 @@ XI. Obtener un lucro indebido o una prestación que no le corresponda a un parti
 
 XII. Causar un perjuicio público o privado por sí o por interpósita persona, al fraccionar, enajenar o comprometerse a enajenar, la propiedad, la posesión o cualquier derecho sobre un lote de terreno urbano o rústico, propio o ajeno, con o sin construcciones, sin el previo permiso de las autoridades competentes, o cuando existiendo éste no se hayan satisfecho los requisitos en tal permiso señalados;
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
 Al responsable de Fraude se le aplicarán de:
 
-I. 6 Meses a 2 años de prisión y de 15 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial no exceda de cien veces el salario mínimo general vigente en el Estado;
+I. 6 Meses a 2 años de prisión y de 15 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial no exceda de cien veces el valor diario de la Unidad de Medida y Actualización;
 
-II. 2 a 4 años de prisión y de 100 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de cien veces el salario mínimo general vigente en el Estado, pero no de trescientas; o
+II. 2 a 4 años de prisión y de 100 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de cien veces el valor diario de la Unidad de Medida y Actualización, pero no de trescientas; o
 
-III. 4 a 10 años de prisión y de 150 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de trescientas veces el salario mínimo general vigente en el Estado.
+III. 4 a 10 años de prisión y de 150 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de trescientas veces el valor diario de la Unidad de Medida y Actualización.
 
-La valoración que se haga de la afectación patrimonial tomará en consideración el salario mínimo general vigente en el Estado en el momento en que se concreticen los hechos descritos en el presente Artículo.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
+La valoración que se haga de la afectación patrimonial tomará en consideración el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se concreticen los hechos descritos en el presente Artículo.
 
 ###### ARTÍCULO 148.
 
@@ -1577,13 +1591,15 @@ IV. Desviar o hacer uso de las aguas propias o ajenas, en los casos en que la le
 
 V. Ocupar de propia autoridad, por medio de la violencia física, furtivamente, de la amenaza o del engaño, instalaciones de una institución pública o privada destinada a prestar servicios públicos y se impida su prestación.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
 Al responsable del Despojo se le aplicarán:
 
-I. De 1 a 2 años de prisión y de 15 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de lo despojado no exceda de tres mil setecientas cincuenta veces el salario mínimo general vigente en el Estado;
+I. De 1 a 2 años de prisión y de 15 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de lo despojado no exceda de tres mil setecientas cincuenta veces el valor diario de la Unidad de Medida y Actualización;
 
-II. De 2 a 4 años de prisión y de 100 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de lo despojado exceda de tres mil setecientas cincuenta veces el salario mínimo general vigente en el Estado, pero no de ocho mil; o
+II. De 2 a 4 años de prisión y de 100 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de lo despojado exceda de tres mil setecientas cincuenta veces el valor diario de la Unidad de Medida y Actualización, pero no de ocho mil; o
 
-III. De 4 a 6 años de prisión y de 150 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de lo despojado exceda de ocho mil veces el salario mínimo general vigente en el Estado.
+III. De 4 a 6 años de prisión y de 150 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de lo despojado exceda de ocho mil veces el valor diario de la Unidad de Medida y Actualización.
 
 Se aplicará la misma penalidad en los casos a que se refiere la Fracción V, de este Artículo.
 
@@ -1591,15 +1607,19 @@ Se aplicará la misma penalidad en los casos a que se refiere la Fracción V, de
 
 Daño en las cosas doloso. El Daño en las Cosas Doloso consiste en la destrucción o deterioro de cosa ajena o propia, en perjuicio de otro, por utilización de cualquier medio.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
 Al responsable de Daño en las Cosas Doloso se le aplicarán:
 
-I. De 6 meses a 2 años de prisión y de 15 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de lo dañado no exceda de cien veces el salario mínimo general vigente en el Estado;
+I. De 6 meses a 2 años de prisión y de 15 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de lo dañado no exceda de cien veces el valor diario de la Unidad de Medida y Actualización;
 
-II. De 2 a 4 años de prisión y de 100 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de lo dañado exceda de cien veces el salario mínimo general vigente en el Estado, pero no de trescientas; o
+II. De 2 a 4 años de prisión y de 100 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de lo dañado exceda de cien veces el valor diario de la Unidad de Medida y Actualización, pero no de trescientas; o
 
-III. De 4 a 10 años de prisión y de 150 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de lo dañado exceda de trescientas veces el salario mínimo general vigente en el Estado.
+III. De 4 a 10 años de prisión y de 150 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de lo dañado exceda de trescientas veces el valor diario de la Unidad de Medida y Actualización.
 
-La valoración que se haga de lo dañado tomará en consideración el salario mínimo general vigente en el Estado en el momento en que se concretice el hecho descrito en el presente Artículo.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
+La valoración que se haga de lo dañado tomará en consideración el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se concretice el hecho descrito en el presente Artículo.
 
 ###### ARTÍCULO 152.
 
@@ -2175,7 +2195,9 @@ XVII. Hacer mal uso de los incentivos fiscales o aplicarlos para usos distintos 
 
 XVIII. Obtener beneficios sin tener derecho a ello, de un subsidio o estímulo fiscal.
 
-Al responsable de Defraudación Fiscal se le aplicarán de 2 a 6 de prisión y de 25 a 150 días multa y al pago total de los daños y perjuicios ocasionados, si el monto de lo defraudado es inferior a 100 días de salario, y si se rebasa tal monto, la pena será de 4 a 12 años de prisión y de 50 a 250 días multa y al pago total de los daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
+Al responsable de Defraudación Fiscal se le aplicarán de 2 a 6 de prisión y de 25 a 150 días multa y al pago total de los daños y perjuicios ocasionados, si el monto de lo defraudado es inferior a cien veces el valor diario de la Unidad de Medida y Actualización, y si se rebasa tal monto, la pena será de 4 a 12 años de prisión y de 50 a 250 días multa y al pago total de los daños y perjuicios ocasionados.
 
 Cuando no se pueda determinar con exactitud la cuantía del crédito fiscal que se defraudó, se aplicarán de 6 meses a 2 años de prisión y de 10 a 100 días multa y al pago total de los daños y perjuicios ocasionados.
 
@@ -2496,3 +2518,11 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Las reformas a la Ley Orgánica del Poder Judicial iniciarán su vigencia una vez que haya sido instalado el Tribunal Electoral del Estado, en términos del Artículo Séptimo de las disposiciones transitorias del Decreto Número 152 que contiene el Código Electoral del Estado de Aguascalientes.
+
+P.O. 8 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUMERO 360.- SE REFORMAN LOS ARTÍCULOS 55, 140, 146, 147, 150, 151 Y 190, DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
