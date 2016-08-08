@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-un-organismo-publico-descentralizado-46660"
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-13"
-last_updated: "2009-06-18"
+last_updated: "2016-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY QUE CREA UN ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO COMISION DE ECOLOGIA Y DESARROLLO SUSTENTABLE DEL ESTADO DE SONORA
 
-LEY QUE CREA UN ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO COMISION DE ECOLOGIA Y DESARROLLO SUSTENTABLE DEL ESTADO DE SONORA
+LEY QUE CREA UN ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO COMISIÓN DE ECOLOGÍA Y DESARROLLO SUSTENTABLE DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE AGOSTO DE 2016.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 13 de octubre de 2005.
 
@@ -69,7 +69,9 @@ II.- Aplicar los instrumentos de política ambiental previstos en la Ley del Equ
 
 III.- Formular, ejecutar y evaluar el Programa Estatal de Ecología y Protección al Ambiente;
 
-IV.- Vigilar el cumplimiento, en el ámbito de su competencia, de la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Sonora y la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+> <small>(REFORMADA, B.O. 8 DE AGOSTO DE 2016)</small>
+
+IV.- Vigilar el cumplimiento, en el ámbito de su competencia, de la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Sonora, la Ley General del Equilibrio Ecológico y la Protección al Ambiente y la Ley para la Protección, Conservación y Fomento del Árbol en las Zonas Urbanas del Estado de Sonora;
 
 V.- La realización y promoción de estudios e investigaciones de carácter científico y tecnológico que contribuyan a impulsar el conocimiento de los diversos ecosistemas y el medio ambiente de la Entidad, así como la conservación, preservación, evaluación y aprovechamiento racional de los recursos naturales en el Estado;
 
@@ -258,3 +260,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora realizará, ante las autoridades competentes y conforme a las disposiciones jurídicas que los rijan, los trámites para transferir a su favor, la titularidad de las licencias, permisos y demás autorizaciones que en su oportunidad se otorgaron al Instituto del Medio Ambiente y el Desarrollo Sustentable del Estado de Sonora.
+
+B.O. 8 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 76, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA, LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA, LEY QUE CREA LA PROCURADURÍA AMBIENTAL DEL ESTADO DE SONORA Y LA LEY QUE CREA UN ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO COMISIÓN DE ECOLOGÍA Y DESARROLLO SUSTENTABLE DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
