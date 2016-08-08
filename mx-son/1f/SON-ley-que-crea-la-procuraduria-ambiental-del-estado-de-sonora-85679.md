@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-la-procuraduria-ambiental-del-estado-de-sonora-856
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-07"
-last_updated: "2011-11-07"
+last_updated: "2016-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE CREA LA PROCURADURÍA AMBIENTAL DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE AGOSTO DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 7 de noviembre de 2011.
 
@@ -93,7 +93,9 @@ IV.- En general todos los bienes, derechos y obligaciones a su favor, que conten
 
 Corresponde a la Procuraduría, de conformidad con lo dispuesto en la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Sonora, el ejercicio de las siguientes atribuciones:
 
-I.- Recibir, investigar y resolver las denuncias referentes a la violación o incumplimiento de las disposiciones jurídicas establecidas en la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Sonora y demás ordenamientos normativos en la materia;
+> <small>(REFORMADA, B.O. 8 DE AGOSTO DE 2016)</small>
+
+I.- Recibir, investigar y resolver las denuncias referentes a la violación o incumplimiento de las disposiciones jurídicas establecidas en la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Sonora, la Ley para la Protección, Conservación y Fomento del Árbol en las Zonas Urbanas del Estado de Sonora y demás ordenamientos normativos en la materia;
 
 II.- Salvaguardar los intereses de la población y fomentar su participación en el estímulo y vigilancia del cumplimiento de las disposiciones jurídicas ambientales;
 
@@ -352,3 +354,13 @@ GUILLERMO PADRES ELIAS
 EL SECRETARIO DE GOBIERNO
 
 HECTOR LARIOS CORDOVA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 8 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 76, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA, LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA, LEY QUE CREA LA PROCURADURÍA AMBIENTAL DEL ESTADO DE SONORA Y LA LEY QUE CREA UN ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO COMISIÓN DE ECOLOGÍA Y DESARROLLO SUSTENTABLE DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
