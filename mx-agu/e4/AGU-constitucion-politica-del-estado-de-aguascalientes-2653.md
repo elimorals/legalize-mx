@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2016-05-23"
+last_updated: "2016-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -147,11 +147,19 @@ Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienest
 
 A.- El Gobierno organizará un sistema de planeación del desarrollo estatal que garantice equidad y justicia en el crecimiento de la economía, impulse la competitividad fomentando la independencia y la democratización política, social y cultural del Estado. La competitividad se entenderá como el conjunto de condiciones necesarias para generar un mayor crecimiento económico, promoviendo la inversión y la generación de empleo.
 
-> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
 
-Las organizaciones civiles podrán participar en la realización de actividades sociales, cívicas, económicas y culturales relacionadas con el desarrollo armónico y ordenado de las distintas comunidades. Así mismo, podrán coadyuvar en la identificación y precisión de las demandas y aspiraciones de la sociedad para dar contenido al Plan de Desarrollo del Estado, a los planes municipales y a los programas respectivos, propiciando la participación de los habitantes en la realización de las obras y servicios públicos.
+La mejora regulatoria es una política de Estado obligatoria para todas las autoridades estatales y municipales en sus respectivos ámbitos de competencia, cuyo objetivo es elevar la competitividad y productividad, así como garantizar la obtención de beneficios superiores a sus costos, el máximo bienestar para la sociedad y la transparencia.
 
-> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
+EI Estado generará un registro estatal obligatorio que incluya todos los trámites y servicios actualizados de las autoridades públicas, con el objeto de generar certeza y seguridad jurídica, así como facilitar su cumplimiento mediante el uso (sic) Tecnologías de la Información. La Ley regulará el Sistema Estatal de Mejora Regulatoria.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
+Las organizaciones civiles podrán participar en la realización de actividades sociales, cívicas, económicas y culturales relacionadas con el desarrollo armónico y ordenado de las distintas comunidades. Asimismo, podrán coadyuvar en la identificación y precisión de las demandas y aspiraciones de la sociedad para dar contenido al Plan de Desarrollo del Estado, a los planes municipales y a los programas respectivos, propiciando la participación de los habitantes en la realización de las obras y servicios públicos.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2016)</small>
 
 La Ley determinará las formas de participación de estas organizaciones, y la designación de controles sociales que vigilen el cumplimiento de las actividades señaladas en el párrafo anterior.
 
@@ -2920,3 +2928,15 @@ P.O. 23 DE MAYO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 342.- SE REFORMA Y ADICIONA EL ARTÍCULO 7° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES; CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL".]
+
+###### ARTÍCULO PRIMERO.
+
+EI presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deberán realizar las modificaciones normativas correspondientes para cumplimentar esta reforma, dentro de los 180 días naturales siguientes a su inicio de vigencia.
