@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2016-02-22"
+last_updated: "2016-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2016.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -11105,9 +11105,17 @@ III.- Cuando un heredero paga con sus bienes propios alguna deuda de la herencia
 
 IV.- Cuando el que adquiere un inmueble paga a un acreedor que tiene sobre él un crédito hipotecario anterior a la adquisición.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 1930.
 
-Cuando la deuda fuere pagada por el deudor con dinero que un tercero le prestare con ese objeto, el prestamista quedará subrogado por ministerio de la ley en los derechos del acreedor, si el préstamo constare en título auténtico en que se declare que el dinero fué prestado para el pago de la misma deuda. Por falta de esta circunstancia, el que prestó sólo tendrá los derechos que exprese su respectivo contrato.
+Cuando la deuda fuere pagada por el deudor con dinero que un tercero le prestare con ese objeto, el prestamista quedará subrogado por ministerio de la ley en los derechos, privilegios, acciones y garantías del acreedor, si el préstamo constare en documento auténtico en que se declare que el dinero fue prestado para el pago de la misma deuda. Por falta de esta circunstancia, el que prestó sólo tendrá los derechos que exprese su respectivo contrato.
+
+Las garantías referidas en el párrafo anterior, incluyendo las otorgadas sobre bienes muebles e inmuebles, garantizarán por ministerio de ley las obligaciones derivadas del nuevo préstamo en los montos, plazos y demás términos acordados entre el prestamista y el deudor, sin que por ello se entienda novada la garantía ni prorrogada la obligación garantizada para los efectos de este Código. En consecuencia las garantías subrogadas, que sean susceptibles de inscripción en el registro, conservarán su grado de prelación.
+
+La subrogación de garantía que establece este Artículo, deberá hacer constar fehacientemente el consentimiento del obligado solidario o del titular del bien objeto de la garantía, en caso de haberlos.
+
+Se procurará establecer en las leyes locales aplicables, medidas para eliminar o reducir el pago de derechos registrales que en su caso se lleguen a generar por la modificación de las garantías derivadas de la subrogación a que se refiere el presente Artículo.
 
 ###### Artículo 1931.
 
@@ -17030,6 +17038,14 @@ Antes de concluir el Primer Periodo Ordinario de Sesiones del Tercer Año de Eje
 P.O. 22 DE FEBRERO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 310.- SE REFORMAN Y DEROGAN ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 359.- SE REFORMA EL ARTÍCULO 1930 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
