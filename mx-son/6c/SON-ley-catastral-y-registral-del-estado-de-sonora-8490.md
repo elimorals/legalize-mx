@@ -4,7 +4,7 @@ identifier: "SON-ley-catastral-y-registral-del-estado-de-sonora-8490"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-31"
-last_updated: "2015-06-15"
+last_updated: "2016-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE AGOSTO DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el jueves 31 de diciembre de 1992.
 
@@ -100,6 +100,10 @@ X.- Valores Unitarios;
 a).- De suelo: Los determinados por el suelo por unidad de superficie dentro de cada región catastral;
 
 b).- De construcción: Los determinados por las distintas clasificaciones de construcción por unidad de superficie;
+
+> <small>(ADICIONADO, B.O. 8 DE AGOSTO DE 2016)</small>
+
+c).- Del árbol: Los determinados por las distintas singularidades de acuerdo a los criterios del artículo 24 de la Ley de Protección, Conservación y Fomento del Árbol en las Zonas Urbanas del Estado de Sonora y que se encuentran registrados en el SMAU.
 
 XI.- Valor catastral: El asignado a cada uno de los bienes inmuebles ubicados en el territorio del Estado, de acuerdo a los procedimientos a que se refiere esta Ley;
 
@@ -1390,3 +1394,11 @@ B.O. 15 DE JUNIO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 8 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 76, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA, LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA, LEY QUE CREA LA PROCURADURÍA AMBIENTAL DEL ESTADO DE SONORA Y LA LEY QUE CREA UN ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO COMISIÓN DE ECOLOGÍA Y DESARROLLO SUSTENTABLE DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
