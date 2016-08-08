@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2016-07-04"
+last_updated: "2016-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -2429,9 +2429,9 @@ III.- Planchaduría: El establecimiento dedicado al planchado de ropa, independi
 
 Los establecimientos señalados en el artículo anterior que utilicen sustancias tóxicas o peligrosas para la salud, estarán sujetos además, a las disposiciones emitidas por la Secretaría de Salud en la materia.
 
-### CAPITULO I. Autorizaciones
+### CAPITULO XVIII. Del Ejercicio Especializado de la Cirugía Plástica
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 217.
 
@@ -2441,7 +2441,7 @@ Para los efectos de esta Ley, se entiende por establecimiento para el hospedaje,
 
 Para la construcción o acondicionamiento de un inmueble que se pretenda destinar al servicio de hospedaje, así como su funcionamiento, se requiere dar el aviso de funcionamiento en los términos del Artículo 167 de esta Ley.
 
-### CAPITULO II. Revocación de Autorizaciones Sanitarias
+### CAPITULO I. Autorizaciones
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
@@ -2449,13 +2449,15 @@ Para la construcción o acondicionamiento de un inmueble que se pretenda destina
 
 Los establecimientos para el almacenamiento y distribución de combustibles deberán contar con las instalaciones sanitarias y de seguridad que establezcan las disposiciones legales y reglamentarias aplicables y las normas técnicas locales correspondientes.
 
-### CAPITULO III. Certificados
+### CAPITULO II. Revocación de Autorizaciones Sanitarias
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 221.
 
 Para los efectos de esta Ley, se entiende por transporte todo aquel vehículo destinado al traslado de carga o de pasajeros sin importar su modo de propulsión, y que por sus características, puedan repercutir en la salud de la población, por lo que serán objeto de verificaciones periódicas por parte de la autoridad sanitaria, conforme a las disposiciones legales aplicables.
 
-### CAPITULO UNICO
+### CAPITULO III. Certificados
 
 ###### ARTICULO 222.
 
@@ -2489,19 +2491,25 @@ Los propietarios de los animales a que se refiere el artículo anterior estarán
 
 Las autoridades sanitarias mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos, susceptibles de contraer la rabia.
 
-### CAPITULO I
-
-Medidas de Seguridad Sanitaria.
+### CAPITULO UNICO
 
 ###### ARTICULO 226.
 
 Para los efectos de esta ley se entiende por medicina alternativa: homeopatía, medicina naturista, quiropráctica, herbolaria, acupuntura, terapias de sanción, terapia con electroimanes, intercambio iónico, aromaterapia, energía universal, flores de Bach y otros, estando sujetos al control y vigilancia sanitaria, y cumplir con las disposiciones de esta Ley.
 
-### CAPITULO II. Sanciones Administrativas
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE AGOSTO DE 2016)</small>
+
+### CAPITULO I
+
+Medidas de Seguridad Sanitaria.
+
+###### ARTICULO 226 Bis.
+
+La realización de cualquier procedimiento médico o de cirugía plástica, estética y reconstructiva relacionada con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara y del cuerpo, se regirá conforme a lo dispuesto por los artículos 81, 83, 271, 272, 272 bis 1, 272 bis 2, 272 bis 3 de la Ley General.
 
 ## TITULO DECIMO QUINTO. VIGILANCIA SANITARIA
 
-### CAPITULO III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
+### CAPITULO II. Sanciones Administrativas
 
 ###### ARTICULO 227.
 
@@ -2549,7 +2557,7 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la legislación fiscal y los convenios de coordinación que celebren en la materia, el Gobierno del Estado con el Ejecutivo Federal.
 
-### CAPITULO IV. Recurso de Inconformidad
+### CAPITULO III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
 
 ###### ARTICULO 236.
 
@@ -2611,7 +2619,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO V. Prescripción
+### CAPITULO IV. Recurso de Inconformidad
 
 ###### ARTICULO 244.
 
@@ -2664,6 +2672,8 @@ Los certificados a que se refiere este Título se extenderán en los modelos apr
 Las autoridades judiciales o administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
 
 ## TITULO DECIMO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
+
+### CAPITULO V. Prescripción
 
 ###### ARTICULO 251.
 
@@ -3389,33 +3399,13 @@ P.O. 4 DE JULIO DE 2016.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación, en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 13/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA SEMIESPECIALIZACIÓN Y CAMBIO DE DENOMINACIÓN DE LOS TRIBUNALES COLEGIADOS DEL VIGÉSIMO SEGUNDO CIRCUITO CON SEDE EN QUERÉTARO, QUERÉTARO; A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS MENCIONADOS ÓRGANOS COLEGIADOS”.]
+P.O. 8 DE AGOSTO DE 2016.
 
-PRIMERO. El presente Acuerdo entrará en vigor el catorce de marzo de dos mil dieciséis, con excepción de lo dispuesto en el TERCERO y CUARTO transitorios, los cuales entrarán en vigor al día siguiente de su aprobación.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 365.- SE ADICIONA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
 
-SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de internet del Consejo de la Judicatura Federal.
+###### ARTÍCULO ÚNICO.
 
-TERCERO. Dese vista a la Comisión de Adscripción para efecto de la integración de los órganos colegiados conforme a las materias de la semiespecialización que se ordena.
-
-CUARTO. La Coordinación de Administración Regional, deberá proveer a los tribunales colegiados que cambian de denominación y competencia de los recursos materiales necesarios (entre otros, letreros de identificación, actualización de placas de directorios de edificios, sellos oficiales, papelería), conforme a su nueva denominación, para que a la brevedad posible cuenten con ellos.
-
-QUINTO. El Pleno del Vigésimo Segundo Circuito continuará con su conformación, competencia y denominación actual. Lo anterior, de conformidad con lo dispuesto en el artículo 9, en relación con el artículo 2, fracciones XV y XVI, del Acuerdo General 8/2015, del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito.
-
-SEXTO. Se reforma el numeral SEGUNDO, fracción XXII, número 1, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-“SEGUNDO. …
-
-I. a XXI. …
-
-XXII. …
-
-1. Cuatro tribunales colegiados semiespecializados: uno en materias penal y administrativa; uno en materias administrativa y de trabajo; y dos en materias administrativa y civil, todos con residencia en Querétaro, Querétaro.
-
-2. a 3. …
-
-XXIII. a XXXII. …”
-
-D.O.F. 11 DE MARZO DE 2016.
+El presente Decreto iniciará su vigencia al día siguiente de su publicación, en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 16/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CONOCIMIENTO POR PARTE DE LOS JUZGADOS DE DISTRITO DE PROCESOS PENALES FEDERALES EN EL ESTADO DE CHIAPAS, CON RESIDENCIA EN CINTALAPA DE FIGUEROA, DE LAS CAUSAS PENALES QUE ACTUALMENTE SON COMPETENCIA DE LOS JUZGADOS DE DISTRITO EN EL REFERIDO ESTADO, CON SEDE EN TUXTLA GUTIÉRREZ; ASÍ COMO AL CAMBIO DE DENOMINACIÓN Y COMPETENCIA DE ESTOS ÚLTIMOS, Y A LA NUEVA DENOMINACIÓN DE LOS JUZGADOS DE DISTRITO EN LA CITADA ENTIDAD FEDERATIVA, CON SEDE EN TAPACHULA".]
 
