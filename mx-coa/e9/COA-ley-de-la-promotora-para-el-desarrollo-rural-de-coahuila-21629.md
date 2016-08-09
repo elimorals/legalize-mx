@@ -4,7 +4,7 @@ identifier: "COA-ley-de-la-promotora-para-el-desarrollo-rural-de-coahuila-21629"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-05"
-last_updated: "2016-02-19"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21629&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LA PROMOTORA PARA EL DESARROLLO RURAL DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 5 de junio de 2001.
 
@@ -58,6 +58,10 @@ I. Apoyar mediante la ejecución de las acciones que le competan, la política s
 II. Elaborar y ejecutar, en el ámbito de su competencia, programas y acciones para el desarrollo de la infraestructura silvoagropecuaria en la entidad.
 
 III. Promover ante las instancias gubernamentales competentes, así como ante los sectores social y/o privado que correspondan, los mecanismos de coordinación, concertación y asociación necesarios para desarrollar el ámbito silvoagropecuario en el Estado.
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+IV. Generar convenios con el Consejo de Ciencia y Tecnología de Coahuila de Zaragoza, para Impulsar proyectos que reconozcan y apoyen ideas de carácter innovador en los diversos ámbitos del sector agroalimentario, financiando y facilitando espacios para su desarrollo.
 
 ###### ARTÍCULO 3°.
 
@@ -199,7 +203,9 @@ Son facultades del Consejo:
 
 I. Dictar los lineamientos y directrices generales para el funcionamiento de la Promotora, así como establecer los programas generales de la misma y definir las prioridades relativas a finanzas y administración.
 
-II. Autorizar, en el ámbito de su competencia, los programas y acciones que se elaboren y determinen en beneficio del sector agropecuario de la entidad.
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+II. Autorizar, en el ámbito de su competencia, los programas y acciones que se elaboren y determinen en beneficio del sector agropecuario de la entidad. Así mismo, fomentar y apoyar con programas y acciones a quienes realicen la participación inclusiva de los grupos en situación de vulnerabilidad en el sector productivo.
 
 III. Aprobar la celebración de convenios con organizaciones o fundaciones que realicen actividades a favor del desarrollo integral del campo, así como aquellos que sean necesarios para el cumplimiento del objeto de la Promotora.
 
@@ -417,7 +423,7 @@ EL SECRETARIO DE FOMENTO AGROPECUARIO
 
 DR. ENRIQUE SALINAS AGUILERA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 26 DE ENERO DE 2007.
 
@@ -444,3 +450,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al siguiente decreto.
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 489.- SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 2 Y SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 10 DE LA LEY DE LA PROMOTORA PARA EL DESARROLLO RURAL EN COAHUILA”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico oficial del Estado.
