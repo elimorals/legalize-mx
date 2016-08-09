@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-integral-de-la-juventud-del-estado-10340
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-28"
-last_updated: "2016-05-17"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el martes 28 de octubre de 2014.
 
@@ -81,7 +81,9 @@ XI. Los demás que otros ordenamientos les reconozcan.
 
 Las y los jóvenes coahuilenses deberán conocer el contenido de esta ley, por lo menos al final de su instrucción secundaria, o equivalente, a través del sistema educativo, en instituciones públicas y privadas.
 
-En todas las instituciones, secretarias, coordinaciones, escuelas de nivel secundaria y todos los niveles subsecuentes y en cualquier tipo de dependencia pública, se deberán tener permanente ediciones impresas de esa ley, así como en formatos propios para invidentes.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+En todas las instituciones, secretarias, coordinaciones, escuelas de nivel secundaria y todos los niveles subsecuentes y en cualquier tipo de dependencia pública, se deberán tener permanente (sic) ediciones impresas de esa ley, así como en formatos propios para personas ciegas.
 
 ###### Artículo 5.
 
@@ -478,3 +480,11 @@ P.O. 17 DE MAYO DE 2016.
 PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 485.- SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 359, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
