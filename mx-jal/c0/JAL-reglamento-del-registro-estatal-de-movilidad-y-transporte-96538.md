@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-del-registro-estatal-de-movilidad-y-transporte-96538
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-11-09"
-last_updated: "2013-11-09"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96538&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DEL REGISTRO ESTATAL DE MOVILIDAD Y TRANSPORTE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Reglamento publicado en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 9 de noviembre de 2013.
 
@@ -59,9 +59,11 @@ REGLAMENTO DEL REGISTRO ESTATAL DE MOVILIDAD Y TRANSPORTE
 
 El presente ordenamiento es reglamentario de los numerales 165, 166, 167 y 168 de la Ley de Movilidad y Transporte del Estado de Jalisco, es del orden público e interés social y tiene por objeto establecer, organizar y regular el funcionamiento del Registro Estatal de Movilidad y Transporte del Estado de Jalisco.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 2.
 
-El Registro Estatal de Movilidad y Transporte, es la base de datos del Ejecutivo del Estado, en donde se administra, reúne y procesa la información relativa a los registros e inscripciones de licencias de conducir, permisos, concesiones, autorizaciones, registros de contratos de subrogación, registros de vehículos del servicio particular y del servicio público del Estado de Jalisco y las modificaciones que sufran y los derechos legalmente constituidos sobre las mismas.
+El Registro Estatal de Movilidad y Transporte, es la base de datos del Ejecutivo del Estado, en donde se administra, reúne y procesa la información relativa a los registros e inscripciones de licencias de conducir, permisos, concesiones, autorizaciones, registros de contratos de subrogación, empresas de redes de transporte, registros de vehículos del servicio particular y del servicio público del Estado de Jalisco, y las modificaciones que sufran y los derechos legalmente constituidos sobre las mismas.
 
 De igual forma es responsable del registro de las cédulas de notificación de infracción y foto infracciones instauradas tanto por el personal de la Policía Vial de la Fiscalía, por los equipos o sistemas electrónicos, así como en las que en su caso, asuma por la coordinación que celebren con los ayuntamientos, actas de alcoholimetría, actas de accidente vial y las demás que por su importancia o trascendencia le instruya el Secretario.
 
@@ -77,9 +79,11 @@ II. El Secretario de Movilidad del Estado de Jalisco; y
 
 III. El Director del Registro Estatal de Movilidad y Transporte de Jalisco.
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 4.
 
-En los términos de la Ley de Movilidad y Transporte del Estado de Jalisco, corresponde al Secretario de Movilidad del Estado establecer las reglas, bases y requisitos para registrar el servicio público de transporte en todas sus modalidades y las modificaciones que sufran las concesiones, concesionarios, permisos, permisionarios, autorizaciones, subrogaciones, arrendamientos, operadores y unidades del servicio público de transporte, mediante la inscripción de los actos relacionados con la prestación de dicho servicio, y en general todos los actos, resoluciones, medidas y sanciones que afecten, extingan o modifiquen los derechos y obligaciones de los representantes del transporte y la movilidad en el Estado, con el propósito de garantizar eficazmente los actos relacionados con el mismo, de conformidad con lo dispuesto en el Título Sexto, Capítulo I de la Ley de Movilidad y Transporte para el Estado de Jalisco, así como, el registro de personas sancionados (sic) por infringir la citada Ley.
+En los términos de la Ley de Movilidad y Transporte del Estado de Jalisco, corresponde al Secretario de Movilidad del Estado establecer las reglas, bases y requisitos para registrar el servicio público de transporte en todas sus modalidades, y las modificaciones que sufran las concesiones, concesionarios, permisos, permisionarios, autorizaciones, subrogaciones, empresas de redes de transporte, arrendamientos, operadores y unidades del servicio público de transporte, mediante la inscripción de los actos relacionados con la prestación de dicho servicio, y en general todos los actos, resoluciones, medidas y sanciones que afecten, extingan o modifiquen los derechos y obligaciones de los representantes del transporte y la movilidad en el Estado, con el propósito de garantizar eficazmente los actos relacionados con el mismo, de conformidad con lo dispuesto en el Título Sexto, Capítulo I de la Ley de Movilidad y Transporte para el Estado de Jalisco, así como, el registro de personas sancionados (sic) infringir la citada Ley.
 
 ###### Artículo 5.
 
@@ -137,15 +141,19 @@ II. El Registro Estatal inscribirá los documentos en donde consten las concesio
 
 III. Las autoridades estatales están obligadas a proporcionar al Registro Estatal la información estadística, documental, técnica y de planificación, que éste requiera para el mejor desempeño de sus funciones;
 
-IV. La Dependencia del Ejecutivo del Estado, competente en materia de movilidad, promoverá la coordinación necesaria para reunir y procesar la información relativa a licencias, gafetes de identificación, concesiones, permisos y autorizaciones, integrándola al Registro Estatal, para acreditar los supuestos de suspensión y cancelación;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+IV. La Dependencia del Ejecutivo del Estado, competente en materia de movilidad, promoverá la coordinación necesaria para reunir y procesar la información relativa a licencias, gafetes de identificación, concesiones, permisos, autorizaciones y empresas de redes de transporte, integrándola al Registro Estatal, para acreditar los supuestos de suspensión y cancelación;
 
 V. El Ejecutivo del Gobierno del Estado prestará la asistencia técnica necesaria y se coordinará con los ayuntamientos, para garantizar la actualización de las inscripciones en el Registro Estatal y facilitar su consulta expedita a las autoridades municipales. Así como celebrará los convenios necesarios de colaboración para que se cumpla el objetivo del registro de reincidencias; y
 
 VI. La Dirección General Jurídica remitirá al Registro Estatal al término de cada turno los resultados respectivos de las pruebas de alcoholimetría, efectuadas a los conductores a través del empleo de instrumentos técnicos de medición, ejecutados por personal del área de peritos y del área jurídica cuando existan.
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 7.
 
-Los prestadores del servicio de transporte público en todas sus modalidades, así como los organismos públicos descentralizados vinculados con la prestación del servicio, estarán obligados a proporcionar al Registro Estatal, la información necesaria para integrar y conservar actualizados sus inscripciones y registros.
+Los prestadores del servicio de transporte público en todas sus modalidades, sujetos de autorización y empresas de redes de transporte, así como los organismos públicos descentralizados vinculados con la prestación del servicio, estarán obligados a proporcionar al Registro Estatal, la información necesaria para integrar y conservar actualizados sus inscripciones y registros a más tardar 15 días hábiles posteriores a que sufran alguna modificación, salvo en los casos que la ley prevea un plazo diverso.
 
 Para acreditar los elementos como prestadores de servicio, los concesionarios y en general toda persona autorizada por el titular de la información, solicitará sus registros y certificaciones correspondientes al Registro Estatal.
 
@@ -189,7 +197,9 @@ XI. Coordinar actividades con la Dirección General de Seguridad Vial para suste
 
 XII. Proponer al Secretario las medidas técnicas y administrativas que estime convenientes para la mejor organización y funcionamiento del Registro Estatal, así como para su modernización interna;
 
-XIII. Verificar la autenticidad de los datos proporcionados por los particulares, concesionarios, permisionarios y subrogatarios, sujetándose a lo dispuesto en la Ley;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XIII. Verificar la autenticidad de los datos proporcionados por los particulares, concesionarios, permisionarios, subrogatarios, sujetos de autorización y empresas de redes de transporte, sujetándose a lo dispuesto en la Ley;
 
 XIV. Diseñar e instrumentar metodologías para la captación, procesamiento y almacenamiento de información;
 
@@ -273,9 +283,11 @@ IX. Las demás que le encomienden otras disposiciones legales, el Secretario y/o
 
 Las ventanillas permanecerán abiertas en los horarios que al efecto establezca el Director del Registro Estatal, debiendo garantizar que se brinde un buen servicio al público en general, dichos horarios deberán fijarse a la vista del público y en la página Web oficial de la Secretaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 16.
 
-La ventanilla recibirá los documentos que los particulares, concesionarios, permisionarios y subrogatarios pretendan registrar, mismos que serán revisados, clasificados y cotejados en términos de lo que señala este reglamento, la Ley y demás ordenamientos aplicables.
+La ventanilla recibirá los documentos que los particulares, concesionarios, permisionarios, subrogatarios, sujetos de autorización y empresas de redes de transporte pretendan registrar, mismos que serán revisados, clasificados y cotejados en términos de lo que señala la Ley, este Reglamento y demás ordenamientos aplicables.
 
 Así mismo se deberá brindar orientación al usuario en el trámite que pretenda realizar y sea competencia del Registro Estatal; los trámites se registrarán de acuerdo al orden de clasificación y a la cronología de su presentación.
 
@@ -285,7 +297,9 @@ Así mismo se deberá brindar orientación al usuario en el trámite que pretend
 
 Son obligaciones del Titular de la Unidad de Inscripciones del Transporte Público:
 
-I. Llevar a cabo el registro de la información proporcionada por la Dirección General de Transporte Público, referente a los vehículos, permisionarios, concesiones, subrogaciones, autorizaciones, transmisiones, sustituciones y prórrogas con los cuales se preste el servicio público de transporte, en cualquiera de sus modalidades;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+I. Llevar a cabo el registro de la información proporcionada por la Dirección General de Transporte Público, referente a los vehículos, permisos, concesiones, subrogaciones, autorizaciones, transmisiones, sustituciones y prórrogas con los cuales se preste el servicio público de transporte, en cualquiera de sus modalidades, así como de las empresas de redes de transporte;
 
 II. Implementar un sistema ágil y confiable para hacer fluido el trámite y comprobación de los datos que manifieste el interesado;
 
@@ -355,6 +369,54 @@ IX. Las unidades pertenecientes a empresas cuya actividad sea específicamente e
 
 X. Las cédulas de notificación de infracción y la demás información relevante, relacionada con la administración del servicio público de transporte, actos y documentos que dispongan esta ley y sus reglamentos.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE AGOSTO DE 2016)</small>
+
+XI. Autorizaciones para operar como empresas de redes de transporte;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE AGOSTO DE 2016)</small>
+
+XII. Autorizaciones para transporte de pasajeros bajo demanda mediante aplicaciones móviles;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE AGOSTO DE 2016)</small>
+
+XIII. Vehículos cuyo servicio se contrate y gestione a través de empresas de redes de transporte;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE AGOSTO DE 2016)</small>
+
+XIV. Conductores cuyo servicio se contrate y gestione a través de empresas de redes de transporte;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE AGOSTO DE 2016)</small>
+
+XV. Renovación de autorización para operar como empresas de redes de transporte;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE AGOSTO DE 2016)</small>
+
+XVI. Los contratos de adhesión bajo el cual prestan sus servicios las empresas de redes de transporte, previamente autorizados por la autoridad competente para la de (sic) defensa al consumidor.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE AGOSTO DE 2016)</small>
+
+XVII. Los registros e inscripción de curso de capacitación dirigido a conductores del transporte de pasajeros bajo demanda mediante aplicaciones móviles;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE AGOSTO DE 2016)</small>
+
+XVIII. Las placas de circulación y hologramas de seguridad de la unidad destinada a la prestación del servicio de transporte de bajo (sic) demanda mediante aplicaciones móviles;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE AGOSTO DE 2016)</small>
+
+XIX. Normas de calidad del servicio que establezcan las empresas de redes de transporte para afiliación o registro de prestadores de servicio de transporte en términos de las disposiciones que regulan la modalidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE AGOSTO DE 2016)</small>
+
+XX. La póliza o comprobante de seguro que ampare las coberturas y montos señalados en el artículo 158 del presente reglamento por unidad vehicular;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE AGOSTO DE 2016)</small>
+
+XXI. Certificado que acredite el cumplimiento del programa de verificación vehicular por parte de los prestadores del servicio de transporte en sus diversas modalidades; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE AGOSTO DE 2016)</small>
+
+XXII. La resolución definitiva de revocación de autorizaciones, concesiones y permisos otorgados por la Secretaría para la prestación del servicio público.
+
 Cuando los actos que deban inscribirse en el registro estatal, no se inscriban, si no contravienen las disposiciones de la Ley, sólo surtirán efectos entre los otorgantes, pero no podrán producir perjuicio a terceros, quienes sí podrán aprovecharlos en lo que les fueren favorables.
 
 ###### Artículo 20.
@@ -370,6 +432,10 @@ III. La designación de sucesor que formule el titular de la concesión, cuando 
 IV. Las modificaciones de una concesión; y
 
 V. Las asociaciones que integren los concesionarios.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE AGOSTO DE 2016)</small>
+
+VI. La autorización para operar como empresas de redes de transporte.
 
 El Registro Estatal expedirá, a quienes las soliciten de conformidad a los lineamientos de la legislación en materia de acceso a la información pública del Estado de Jalisco y previo pago de derechos, copias certificadas de los documentos que obren en su poder y certificará los datos contenidos en los mismos.
 
@@ -426,6 +492,32 @@ e) Los demás documentos análogos previstos en la Ley del Procedimiento Adminis
 Con la finalidad de mantener actualizada su inscripción en el Registro Estatal los choferes del servicio público de transporte en cualquiera de sus modalidades, deberán seguir con las mismas formalidades enunciadas en líneas anteriores, a excepción de los documentos de identificación que ya se encuentren agregados al expediente relativo al registro de antigüedad, con la salvedad de presentar alguno de ellos en el supuestos de existir una modificación a dichos datos posteriores a la fecha inicial de su registro.
 
 Los documentos deberán presentarse en original y copia perfectamente legibles para su debido cotejo.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+Artículo 25 bis. Para el registro de choferes de transporte de pasajeros bajo demanda mediante aplicaciones móviles, deberán presentar los siguientes requisitos:
+
+a) Solicitud de inscripción elaborada a través de formatos y medios electrónicos que para ello dispongan las autoridades competentes en la materia.
+
+b) Acta de nacimiento;
+
+c) Identificación Oficial con Fotografía; y
+
+d) Licencia de Conducir Vigente acorde a la modalidad del servicio público que se pretenda prestar.
+
+e) Contrato laboral con la empresa de red de transporte o bien con el que contrate sus servicios y en caso de encontrarse prestando sus servicios como chofer, conductor u operador de la unidad con independencia del nombre que se otorgue.
+
+f) Credenciales o gafetes con fotografía, recibos de nóminas, expedidas por la empresa de redes de transporte;
+
+g) Comprobante de domicilio con una vigencia no mayor a 90 días;
+
+h) Haber tomado los cursos de capacitación; y
+
+i) Pago de los derechos correspondientes.
+
+Con la finalidad de mantener actualizada su inscripción en el Registro Estatal los choferes de transporte de pasajeros bajo demanda mediante aplicaciones móviles, deberán seguir con las mismas formalidades enunciadas en fracciones anteriores, a excepción de los documentos de identificación que ya se encuentren agregados al expediente, salvo en el caso de que sufran alguna modificación con posterioridad a la fecha inicial de su registro; debiendo informar de dicha circunstancia al Registro en el plazo no mayor a 15 días hábiles.
+
+Los documentos que se presenten para acreditar el cumplimiento de los anteriores requisitos, estarán sujetos a revisión y comprobación por parte de la autoridad competente, por lo que podrán ser requeridos por la Secretaría a efecto de comprobar su autenticidad; y deberán comparecer dentro de los cinco días hábiles siguientes del envió ante la Secretaría, a efecto de comprobar su autenticidad, así como para su ratificación.
 
 ###### Artículo 26.
 
@@ -749,6 +841,78 @@ a) Autorización expedida por la Secretaría de Hacienda y Crédito Público; y
 
 b) Dictamen favorable extendida por la Comisión Nacional de Seguros y Fianzas, de la Comisión Nacional de Seguros y Fianzas.
 
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+Artículo 36 bis. Con la finalidad de obtener su inscripción ante el Registro Estatal, las empresas de redes de transporte deberán reunir los siguientes requisitos:
+
+a) Solicitud de inscripción elaborada a través de formatos y medios electrónicos que para ello dispongan las autoridades competentes en la materia.
+
+b) Autorización expedida por el Ejecutivo del Estado;
+
+c) Licencia mediante la cual acredite ser titular de los derechos de propiedad intelectual de aplicación móvil o plataforma tecnológica, sea franquicia o se encuentre afiliado;
+
+d) Acta constitutiva de la sociedad mercantil constituida conforme a las leyes mexicanas.
+
+e) Identificación oficial con fotografía del presidente, administrador; o en su caso del apoderado legal de la persona jurídica;
+
+f) Escritura pública en la que conste la personalidad y facultades con la que comparece el representante legal, con una vigencia no mayor a 5 años;
+
+g) Boleta de inscripción o constancia de registro expedida el (sic) Registro Público de la Propiedad y de Comercio, según sea el caso, que corresponda al domicilio de la persona jurídica;
+
+h) Comprobante de domicilio a nombre de la persona jurídica con domicilio fiscal dentro del Estado de Jalisco;
+
+i) Comprobante de registro ante la Secretaría de Hacienda y Crédito Público;
+
+j) Hoja membretada de la empresa de red de transporte que contenga el listado de los vehículos, propietarios, así como de los conductores que presten el servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles que administre;
+
+k) Proporcionar la base de datos que contenga la información de los propietarios de vehículos que se encuentren afiliados a la aplicación móvil que administre, de conformidad con el artículo 83 sexies fracción X de la Ley de Movilidad y Transporte del Estado de Jalisco;
+
+l) Los cursos de capacitación dirigidos a sus conductores;
+
+m) Los contratos de adhesión bajo el cual presta (sic) sus servicios las empresas de redes de transporte previamente autorizados por la autoridad competente para la de (sic) defensa al consumidor.
+
+n) Convenio de colaboración suscrito con el Estado;
+
+ñ) Mantener actualizado su registro;
+
+o) Realizar el pago de derechos correspondientes; y
+
+p) Póliza o constancia de seguro que ampare su responsabilidad solidaria en los términos que establece la Ley respecto de la totalidad de los vehículos que gestionen sus servicios de transporte a través de la plataforma que administren, así como el comprobante de pago de la prima de seguro que cubra la totalidad de la vigencia de la autorización que solicite;
+
+Los documentos que se presenten para acreditar el cumplimiento de los anteriores requisitos, estarán sujetos a revisión y comprobación por parte de la autoridad competente, por lo que podrán ser requeridos por la Secretaría a efecto de comprobar su autenticidad; y deberán comparecer dentro de los cinco días hábiles siguientes del envió, para su ratificación ante la Secretaría, a efecto de comprobar su autenticidad.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+Artículo 36 ter. Los taxis y radio taxis con la finalidad de obtener su inscripción para hacer uso de aplicaciones móviles, deberán reunir los siguientes requisitos para su inscripción:
+
+a) Solicitud de inscripción elaborada a través de formatos y medios electrónicos que para ello dispongan las autoridades competentes en la materia.
+
+b) Exhibir el contrato celebrado con la empresa de red de transporte, para tal efecto;
+
+c) Documento mediante la (sic) cual acredite que la empresa de red de transporte sea la titular de los derechos de propiedad intelectual de aplicación móvil o plataforma tecnológica;
+
+d) Acuerdo del que se desprende la expedición de la concesión, permiso o autorización vigente;
+
+e) Escritura pública en la que conste la personalidad jurídica con la que comparece, en el supuesto de ser apoderado legal, con una vigencia no mayor a 5 años al ser presentada ante la Autoridad competente.
+
+f) Comprobante de domicilio a nombre de la persona jurídica con domicilio fiscal dentro del Estado de Jalisco;
+
+g) Comprobante de registro ante la Secretaría de Hacienda y Crédito Público y Registro Estatal de Contribuyentes;
+
+h) En el caso del servicio de transporte público en su modalidad de taxi o radio taxi, deberá presentar hoja membretada que contenga el listado de los vehículos, propietarios, y conductores, a los que les proporcione el servicio de aplicación móvil;
+
+i) tarjeta de circulación y holograma de seguridad
+
+j) cursos de capacitación de los conductores;
+
+k) Mantener actualizado su registro;
+
+l) Realizar el pago de derechos correspondientes; y
+
+m) Póliza o constancia de seguro que ampare las coberturas a que se refiere la Ley y sus reglamentos.
+
+Los documentos que se presenten para acreditar el cumplimiento de los anteriores requisitos, estarán sujetos a revisión y comprobación por parte de la autoridad competente, por lo que podrán ser requeridos por la Secretaría a efecto de comprobar su autenticidad; y deberán comparecer dentro de los cinco días hábiles siguientes del envió, para su ratificación ante la Secretaría, a efecto de comprobar su autenticidad.
+
 ###### Artículo 37.
 
 Para la inscripción de las unidades pertenecientes a las empresas cuyo giro es el arrendamiento de vehículos se deberá presentar los siguientes documentos:
@@ -776,6 +940,36 @@ a) Escritura pública en la que conste la personalidad jurídica con la que comp
 b) Identificación oficial con fotografía.
 
 Los documentos deberán ser presentados en original y copia para su debido cotejo.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+Artículo 37 bis. Los propietarios de los vehículos destinados a la prestación del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles deberán presentar para su inscripción:
+
+a) Solicitud para inscribir su autorización;
+
+b) Afiliación vigente a la empresa de red de transporte;
+
+c) Factura o documento con el que se acredite la legal propiedad del vehículo;
+
+d) Tarjeta de circulación y holograma de seguridad;
+
+e) Holograma de verificación vehicular;
+
+f) Póliza o constancia de seguro que ampare las coberturas a que se refiere el artículo 158 del presente ordenamiento; así como el comprobante de pago de la prima de seguro que cubra la totalidad de la vigencia de la autorización que solicite;
+
+g) Comprobante de domicilio (no mayor a 90 noventa días de antigüedad);
+
+h) Registrar el contrato de adhesión; y
+
+i) Realizar el pago de derechos correspondientes;
+
+Si la solicitud es presentada mediante apoderado legal, además de los requisitos anteriormente mencionados, deberán presentar:
+
+a) Escritura pública en la que conste la personalidad y facultades con la que comparece, con una vigencia no mayor a cinco años; y
+
+b) Identificación oficial con fotografía.
+
+Los documentos que vía se (sic) presenten para acreditar el cumplimiento de los anteriores requisitos, estarán sujetos a revisión y comprobación por parte de la autoridad competente, por lo que podrán ser requeridos por la Secretaría a efecto de comprobar su autenticidad; y deberán comparecer dentro de los cinco días hábiles siguientes del envió, para su ratificación ante la Secretaría, a efecto de comprobar su autenticidad.
 
 ###### Artículo 38.
 
@@ -816,6 +1010,18 @@ c) El pago de derechos correspondiente ante la SEPAF; y
 d) Escritura pública donde conste la personalidad jurídica del representante.
 
 Los documentos deberán ser presentados en original y copia para su debido cotejo.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+Artículo 39 bis. Para el registro del representante legal de las empresas de Redes de Transporte, éstos deberán de reunir los siguientes requisitos:
+
+a) Escritura pública en la que conste la personalidad y facultades con la que comparece, con una vigencia no mayor a cinco años;
+
+b) Identificación oficial de la persona designada; y
+
+c) El pago de derechos correspondiente ante la Secretaría de Planeación, Administración y Finanzas.
+
+Los documentos que se presenten para acreditar el cumplimiento de los anteriores requisitos, estarán sujetos a revisión y comprobación por parte de la autoridad competente, por lo que podrán ser requeridos por la Secretaría a efecto de comprobar su autenticidad; y deberán comparecer dentro de los cinco días hábiles siguientes del envió, para su ratificación ante la Secretaría, a efecto de comprobar su autenticidad.
 
 ###### Artículo 40.
 
@@ -969,9 +1175,11 @@ Para los efectos de la aplicación del Reglamento del Registro, se estará sujet
 
 ### CAPÍTULO III. DE LA VERIFICACIÓN E INSPECCIÓN
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 52.
 
-Las Autoridades competentes de Movilidad y Transporte, a efecto de verificar el cumplimiento de la Ley y su reglamento, por parte de los prestadores del servicio público de transporte en sus distintas modalidades, podrán ordenar y realizar inspecciones a sitios, sindicatos, mutualidades y todas aquellas inherentes a la prestación del servicio público con el objeto de constatar los registros contenidos en el (sic) archivos físicos y electrónicos que se encuentren resguardados en las instalaciones señaladas con la finalidad de acreditar la prestación del mismo servicio.
+Las Autoridades competentes de Movilidad y Transporte, a efecto de verificar el cumplimiento de la Ley y su reglamento, por parte de los prestadores del servicio público de transporte en sus distintas modalidades, así como de las empresas de redes de transporte, podrán ordenar y realizar inspecciones a sitios, sindicatos, mutualidades, oficinas administrativas, instalaciones, bases de servicios, terminales y todas aquellas inherentes a la prestación del servicio público con el objeto de constatar los registros contenidos en el (sic) archivos físicos y electrónicos que se encuentren resguardados en las instalaciones señaladas con la finalidad de acreditar la prestación del mismo servicio.
 
 ###### Artículo 53.
 
@@ -1078,3 +1286,17 @@ LUIS MAURICIO GUDIÑO CORONADO
 Secretario de Movilidad
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE MOVILIDAD Y TRANSPORTE Y DEL REGLAMENTO DEL REGISTRO ESTATAL DE MOVILIDAD Y TRANSPORTE”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El Registro Estatal abrirá un nuevo libro para realizar todas las inscripciones relativas a las autorizaciones de empresas de redes de transporte para el servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles, sus vehículos y conductores que se otorguen con los procesos contemplados de conformidad con la Ley y demás disposiciones reglamentarias aplicables.
+
+TERCERO. La Secretaría emitirá la convocatoria que establezca el calendario y procedimiento para realizar el trámite para el otorgamiento de autorizaciones y registro de empresas de redes de transporte, así como de prestadores y conductores del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente decreto.
