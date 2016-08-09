@@ -4,7 +4,7 @@ identifier: "COA-ley-de-los-derechos-de-las-personas-adultas-mayores-del-45210"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2016-04-12"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de junio del 2005.
 
@@ -281,7 +281,9 @@ VI. A la asistencia social, por tanto, se reconoce que tienen derecho a:
 
 1. Ser beneficiarios de asistencia social, en los términos previstos por la Ley de Asistencia Social del Estado y demás disposiciones aplicables.
 
-2. Ser sujetos de programas de asistencia social que garanticen su atención integral en caso de desempleo, discapacidad o pérdida de sus medios de subsistencia o cuando se encuentren en situación de riesgo o desamparo.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+2. Ser sujetos de programas de asistencia social que garanticen su atención integral en caso de desempleo, ser declarado persona con discapacidad o pérdida de sus medios de subsistencia o cuando se encuentren en situación de riesgo o desamparo.
 
 3. Ser sujetos de programas asistenciales para contar con una vivienda digna y adaptada a sus necesidades, así como de aquellos otros que les permita el libre desplazamiento en espacios laborales, comerciales, oficiales, recreativos y de transporte.
 
@@ -1271,7 +1273,7 @@ P.O. 22 DE MARZO DE 2013.
 
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-SEGUNDO. El Instituto Coahuilense de las Personas Adultas Mayores, no pierde el carácter de organismos públicos descentralizados (sic) de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios, en los términos de la ley que los crea.
+SEGUNDO. El Instituto Coahuilense de las Personas Adultas Mayores, no pierde el carácter de organismos públicos descentralizados de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios, en los términos de la ley que los crea.
 
 TERCERO. En un plazo de 120 días el Consejo Directivo reformara lo conducente a los reglamentos interiores del instituto que refiere el presente decreto, Hasta en tanto los cargos previstos en los mismos se entenderán conferidos en los términos y bajo la denominación que el presente decreto les confiere.
 
@@ -1326,3 +1328,11 @@ P.O. 12 DE ABRIL DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 485.- SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 359, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
