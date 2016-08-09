@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-civil-para-el-estado-de-coahuila-de-74938"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-14"
-last_updated: "2011-12-27"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 14 de mayo de 2010.
 
@@ -285,7 +285,7 @@ XXVII. Elaborar una base de datos de empresas que transporten sustancias químic
 
 XXVIII. Expedir las autorizaciones para el funcionamiento de los grupos voluntarios en materia de protección civil;
 
-XXIX. Expedir, previa solicitud, copias certificadas de los documentos que obren en poder de la Subsecretaría, y (sic)
+XXIX. Expedir, previa solicitud, copias certificadas de los documentos que obren en poder de la Subsecretaría, y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MAYO DE 2011)</small>
 
@@ -353,9 +353,11 @@ Asimismo, verificarán que los establecimientos cumplan con lineamientos y crite
 
 En caso de riesgo y sin perjuicio de la emisión de la declaratoria de emergencia o desastre correspondiente, las autoridades competentes ejecutarán las medidas de seguridad aplicables al caso concreto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 17.
 
-La Subsecretaría podrá elaborar programas especiales de protección civil, tratándose de grupos sociales específicos, tales como discapacitados, personas adultas mayores, jóvenes, menores de edad y demás grupos vulnerables en el Estado.
+La Subsecretaría podrá elaborar programas especiales de protección civil, tratándose de grupos sociales específicos, tales como personas con discapacidad, personas adultas mayores, jóvenes, menores de edad y demás grupos vulnerables en el Estado.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -1238,3 +1240,11 @@ P.O. 27 DE DICIEMBRE DE 2011.
 PRIMERO.- La presente Iniciativa entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las dependencias responsables de la materia, deberán revisar, y en su caso actualizar, sus programas y reglamentos relativos a la protección civil de los menores de edad en los centros a que se refiere el artículo 17 en su párrafo tercero, atendiendo a las más altas exigencias de los mismos, procurando tomar en cuenta las consideraciones contenidas en la materia de protección civil, en el Dictamen Final del Expediente 1/2009 de la Facultad de Investigación, emitido por el Pleno de la Suprema Corte de Justicia de la Nación.
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 485.- SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 359, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
