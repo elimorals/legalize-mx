@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-prevencion-y-combate-a-la-pobreza-extrema-en-el-967
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-29"
-last_updated: "2013-11-29"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA PREVENCIÓN Y COMBATE A LA POBREZA EXTREMA EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 29 de noviembre de 2013.
 
@@ -111,7 +111,7 @@ r) Línea de bienestar: Es la suma del valor de la canasta alimentaria y no alim
 
 s) Línea de bienestar mínimo: Equivale al valor de la canasta alimentaria, permite identificar a la población que, aun al hacer uso de todo su ingreso en la compra de alimentos, no puede adquirir lo indispensable para tener una nutrición adecuada;
 
-t) Personas o familias en situación de pobreza extrema: Aquellas que (sic) tiene tres o más carencias sociales y se encuentra (sic) por debajo de la línea de bienestar mínimo, ya que disponen de un ingreso tan bajo que, aún si lo destinaran por completo a la adquisición de alimentos, no podrían adquirir los nutrientes necesarios para tener una vida sana;
+t) Personas o familias en situación de pobreza extrema: Aquellas que tiene (sic) tres o más carencias sociales y se encuentra (sic) por debajo de la línea de bienestar mínimo, ya que disponen de un ingreso tan bajo que, aún si lo destinaran por completo a la adquisición de alimentos, no podrían adquirir los nutrientes necesarios para tener una vida sana;
 
 u) Política pública: Todos aquellos planes, programas o acciones que las autoridades estatales y municipales desarrollen, para asegurar los derechos establecidos en las leyes;
 
@@ -175,7 +175,9 @@ III. Estimular y dar seguimiento en educación básica y media, a los niños y j
 
 IV. Asegurar el acceso a la salud a las personas o familias en situación de pobreza extrema, con el propósito de impulsar el uso de los servicios de salud preventivos, el auto cuidado de la salud y nutrición de todos sus integrantes;
 
-V. Atender a las personas o familias en situación de pobreza extrema para mejorar la alimentación y nutrición de todos sus integrantes con énfasis en la población más vulnerable como son los niños y niñas, mujeres embarazadas y en período de lactancia, adultos mayores y personas con capacidades diferentes;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+V. Atender a las personas o familias en situación de pobreza extrema para mejorar la alimentación y nutrición de todos sus integrantes, con énfasis en la población más vulnerable como son los niños y niñas, mujeres embarazadas y en período de lactancia, adultos mayores y personas con discapacidad;
 
 VI. Fomentar el compromiso y la participación activa de los padres y de todos los integrantes de las familias en pobreza extrema, mediante el cumplimiento de las corresponsabilidades asociadas a las intervenciones del programa;
 
@@ -634,3 +636,11 @@ LA SECRETARIA DEL TRABAJO
 FELÍCITAS MARGARITA MOLINA DUQUE
 
 (RÚBRICA)
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. 485 POR EL QUE "SE MODIFICA LA FRACCIÓN QUINTA DEL ARTÍCULO 12 DE LA LEY PARA LA PREVENCIÓN Y COMBATE A LA POBREZA EXTREMA EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
