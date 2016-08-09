@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asistencia-social-y-proteccion-de-derechos-del-87792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-27"
-last_updated: "2014-03-18"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 27 de abril de 2012.
 
@@ -183,7 +183,9 @@ IV. Migrantes en situación de vulnerabilidad;
 
 V. Adultos mayores en desamparo, incapacidad, marginación o sujetos a maltrato;
 
-VI. Personas con algún tipo de discapacidad o necesidades especiales;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+VI. Personas con discapacidad;
 
 VII. Dependientes de personas privadas de su libertad, de enfermos terminales, de alcohólicos o de fármaco dependientes;
 
@@ -243,7 +245,9 @@ B. De prevención:
 
 I. Del maltrato, abuso, violencia familiar, explotación, desamparo, abandono o negligencia en la atención de menores de edad, mujeres, adultos mayores, y personas con discapacidad;
 
-II. De enfermedades y discapacidades;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+II. De enfermedades y situaciones de discapacidad;
 
 III. De la malnutrición;
 
@@ -269,7 +273,9 @@ IV. A adictos y farmacodependientes;
 
 V. A menores en riesgo de farmacodependencia, farmacodependientes y/o susceptibles de incurrir en hábitos y conductas antisociales y delictivas;
 
-VI. Mediante la prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores en situación extraordinaria, personas adultas mayores, personas con discapacidades o incapaces sin recursos;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+VI. Mediante la prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores en situación extraordinaria, personas adultas mayores, personas con discapacidad o incapaces sin recursos;
 
 VII. En rehabilitación de personas con discapacidad;
 
@@ -291,7 +297,9 @@ E. De supervisión:
 
 I. De la legislación laboral aplicable a menores, en colaboración y auxilio a las autoridades laborales competentes;
 
-II. A las instituciones pública y privadas que alberguen o brinden cuidados alternativos a menores, adultos mayores, mujeres víctimas de maltrato, discapacitados, así como de centros de rehabilitación, y
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+II. A las instituciones públicas y privadas que alberguen o brinden cuidados alternativos a menores, adultos mayores, mujeres víctimas de maltrato, personas con discapacidad, así como de centros de rehabilitación, y
 
 III. A las instituciones públicas y privadas que brinden servicios de asistencia social.
 
@@ -1085,7 +1093,7 @@ NOVENO.- Los procedimientos y asuntos pertenecientes a "Casa Cuna del Estado de 
 
 Por lo anterior, todas las facultades, derechos y obligaciones correspondientes a "Casa Cuna del Estado de Coahuila", se entenderán vigentes a favor del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza, por lo que cualquier referencia que se haga en un contrato o instrumento distinto que los contenga, se entenderá conferido en los términos de lo previsto por el presente Decreto.
 
-DADO en el Salón de Sesiones del Congreso del Estado, en la Ciudad de Saltillo, Coahuila de Zaragoza, a los trece días del mes de abril del año dos mil doce.
+DADO en el Salón de Sesiones del Congreso del Estado, en la ciudad de Saltillo, Coahuila de Zaragoza, a los trece días del mes de abril del año dos mil doce.
 
 DIPUTADA PRESIDENTA
 
@@ -1128,3 +1136,11 @@ P.O. 18 DE MARZO DE 2014.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 485.- SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 359, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+P.O. 9 DE AGOSTO DE 2016.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
