@@ -4,7 +4,7 @@ identifier: "COA-codigo-procesal-civil-para-el-estado-de-coahuila-de-zaragoza-15
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-29"
-last_updated: "2016-07-01"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 29 de junio de 1999.
 
@@ -1545,9 +1545,13 @@ Cuando se exhiban en juicio documentos redactados en idioma extranjero, la parte
 
 Cuando deba oírse a una persona que no conozca el idioma español, el juzgador lo hará por medio de interprete que designe al efecto.
 
-El sordomudo será examinado por escrito y, en caso necesario, mediante intérprete.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
-Si la persona es invidente, deberá comparecer asistida por otra persona de su confianza, que firme a su ruego el acta respectiva.
+La persona sorda será examinada por escrito y, en caso necesario, mediante intérprete.
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+Si es persona ciega, deberá comparecer asistida por otra persona de su confianza, que firme a su ruego el acta respectiva.
 
 ###### ARTÍCULO 150.
 
@@ -5095,9 +5099,9 @@ Los niños o las niñas, o la persona mayor de edad que requiera asistencia para
 
 Las preguntas que se utilicen para la prueba de capacidad, deberán ser de acuerdo a la edad y nivel de desarrollo del niño o la niña, o la persona mayor de edad que requiera asistencia para el ejercicio de su capacidad jurídica, las cuales no estarán relacionadas con las cuestiones en controversia y deberán orientarse a determinar la capacidad con la que cuenta para comprender y contestar preguntas sencillas.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
-Los sordomudos podrán ser admitidos como testigos en el caso de que por saber leer y escribir, puedan dar sus declaraciones por escrito.
+Las personas sordas podrán ser admitidas como testigos en el caso de que por saber leer y escribir, puedan dar sus declaraciones por escrito.
 
 > <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
 
@@ -13415,7 +13419,7 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 1 DE JULIO DE 2016.
 
-(N. DE E. TRANSITORIOS DEL “DECRETO NO. 495.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA; ASÍ MISMO, SE RE FORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 715 Y 727 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 495.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA; ASÍ MISMO, SE RE FORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 715 Y 727 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -13424,3 +13428,11 @@ SEGUNDO.- En los distritos judiciales en los cuales no haya iniciado su vigencia
 TERCERO.- Las reformas del Código Civil para el Estado de Coahuila de Zaragoza contenidas en el presente decreto entrarán en vigor al día siguiente de su publicación en los distritos judiciales o municipios en los que no haya iniciado su vigencia la Ley para la Familia de Coahuila de Zaragoza.
 
 Una vez que entre en vigor la Ley para la Familia conforme al primero y segundo transitorios del decreto 477, quedarán derogados los artículos del Código Civil para el Estado de Coahuila de Zaragoza incluidos en el presente decreto.
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 485.- SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 359, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
