@@ -4,7 +4,7 @@ identifier: "COA-ley-del-instituto-de-becas-y-apoyos-financieros-para-la-20479"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-13"
-last_updated: "2001-03-13"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL INSTITUTO DE BECAS Y APOYOS FINANCIEROS PARA LA EDUCACION DEL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 13 de marzo del 2001.
 
@@ -339,7 +339,9 @@ V. Sugerir los montos y plazos bajo los cuales habrán de otorgarse las becas y 
 
 VI. Recibir todas aquellas solicitudes que no se contemplan en el sistema escolarizado.
 
-VII. Dar preferencia en el otorgamiento de becas, estímulos económicos y apoyos financieros de naturaleza educativa, científica o de investigación a los estudiantes con capacidades diferentes, debiéndose fijar en el Reglamento Interior del Instituto, el porcentaje de las becas que se asignarán a estos estudiantes.
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+VII. Dar preferencia en el otorgamiento de becas, estímulos económicos y apoyos financieros de naturaleza educativa, científica o de investigación a los estudiantes que presenten algún tipo de discapacidad, debiéndose fijar en el Reglamento Interior del Instituto, el porcentaje de las becas que se asignarán a estos estudiantes.
 
 VIII. Las demás que le confiera la presente ley u otras disposiciones aplicables.
 
@@ -462,3 +464,13 @@ PROFR. HUMBERTO MOREIRA VALDES
 LA SECRETARIA DE LA CONTRALORIA Y MODERNIZACION ADMINISTRATIVA
 
 C.P. Y M.I. MA. INES GARZA ORTA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 485.- SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 359, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
