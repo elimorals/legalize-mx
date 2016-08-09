@@ -4,7 +4,7 @@ identifier: "COA-ley-de-fomento-a-la-lectura-y-el-libro-para-el-estado-de-79682"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-15"
-last_updated: "2016-03-04"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79682&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 LEY DE FOMENTO A LA LECTURA Y EL LIBRO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 4 DE MARZO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Coahuila, el martes 15 de febrero de 2011.
 
@@ -235,7 +233,9 @@ VII. Promover la participación del sector privado en los esfuerzos de fomento a
 
 VIII. Recomendar la creación de nuevas bibliotecas y promover las gestiones necesarias para ello en coordinación con las autoridades competentes;
 
-IX. Opinar sobre si es adecuado el funcionamiento de las bibliotecas existentes en el Estado y hacer propuestas de mejoras; así como proponer la instalación de salas de lectura en reclusorios, albergues para personas con capacidades diferentes, orfanatos y hospitales o centros de salud en general;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+IX. Opinar sobre si es adecuado el funcionamiento de las bibliotecas existentes en el Estado y hacer propuestas de mejoras; así como proponer la instalación de salas de lectura en reclusorios, albergues para personas con discapacidad, orfanatos y hospitales o centros de salud en general;
 
 X. Crear una base pública de datos de los libros publicados en el Estado, los escritos por coahuilenses o que traten de historia, geografía, biografías, biodiversidad y otros aspectos relevantes en el Estado;
 
@@ -432,3 +432,11 @@ P.O. 5 DE FEBRERO DE 2016.
 PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 485 POR EL QUE "SE MODIFICA LA FRACCIÓN IX DEL ARTÍCULO 18 DE LA LEY DE FOMENTO A LA LECTURA Y EL LIBRO PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
