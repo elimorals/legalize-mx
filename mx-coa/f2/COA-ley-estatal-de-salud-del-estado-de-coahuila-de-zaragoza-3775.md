@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2016-07-01"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -115,7 +115,9 @@ XIII. La prevención y el control de enfermedades transmisibles;
 
 XIV. La prevención y el control de las enfermedades no transmisibles y accidentes;
 
-XV. La prevención de la invalidez y la rehabilitación de los inválidos;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XV. La prevención de la discapacidad y la rehabilitación de las personas con discapacidad;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2012)</small>
 
@@ -519,9 +521,9 @@ I. Preventivas, que incluyen las de promoción general y las de protección espe
 
 II. Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno, y
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-III. De rehabilitación, que incluyen acciones tendientes a corregir la invalidez física y/o mental.
+III. De rehabilitación, que incluyen acciones tendientes a optimizar las capacidades y funciones de las personas con discapacidad.
 
 ###### Artículo 34.
 
@@ -657,9 +659,11 @@ VII. Información a las autoridades competentes de las irregularidades o deficie
 
 VIII. Las demás que coadyuven a la protección de la salud.
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 52.
 
-La Secretaría de Salud del Estado, y demás instituciones de salud estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades y accidentes, y de invalidez y de rehabilitación de inválidos.
+La Secretaría de Salud del Estado, y demás instituciones de salud estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades, accidentes, discapacidad y de rehabilitación de personas con discapacidad.
 
 ###### Artículo 53.
 
@@ -1409,9 +1413,9 @@ Para la mayor eficacia de las acciones a las que se refiere este artículo, se c
 
 Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los Sistemas Nacional y Estatal de Salud.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE AGOSTO DE 2016)</small>
 
-## TITULO NOVENO. PREVENCION DE INVALIDEZ Y REHABILITACION DE INVALIDOS
+## TITULO NOVENO. PREVENCION EN MATERIA DE DISCAPACIDAD Y REHABILITACION DE PERSONAS CON DISCAPACIDAD
 
 ### CAPÍTULO III. PROGRAMA CONTRA EL TABAQUISMO
 
@@ -1507,9 +1511,11 @@ El Gobierno del Estado y los municipios promoverán la creación de establecimie
 
 Las autoridades sanitarias y educativas del Estado, en el ámbito de sus respectivas competencias, colaborarán para proporcionar atención rehabilitatoria, cuando así se requiera.
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 143.
 
-La Secretaría de Salud del Estado, en coordinación con otras instituciones públicas, promoverá que en los lugares en que se presten servicios al público, se dispongan facilidades para las personas inválidas.
+La Secretaría de Salud del Estado, en coordinación con otras instituciones públicas, promoverá que en los lugares en que se presten servicios al público, se dispongan facilidades para las personas con discapacidad.
 
 ###### Artículo 144.
 
@@ -1519,9 +1525,11 @@ La Secretaría de Salud del Estado, en coordinación con otras instituciones pú
 
 Para los efectos de esta Ley, se entiende por invalidez la limitación en la capacidad de una persona para realizar por sí misma actividades necesarias para el desempeño físico, mental, social, ocupacional y económico como consecuencia de una insuficiencia somática, psicológica o social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 146.
 
-La atención en materia de prevención de invalidez y rehabilitación de inválidos comprende.
+La atención en materia de prevención de la discapacidad y rehabilitación de personas con discapacidad comprende.
 
 I. La investigación de las causas de la invalidez y de los factores que la condicionan;
 
@@ -1529,11 +1537,17 @@ II. La promoción de la participación de la comunidad en la prevención y contr
 
 III. La identificación temprana y la atención oportuna de procesos físicos, mentales o sociales que puedan causar invalidez;
 
-IV. La orientación educativa en materia de rehabilitación a la colectividad en general, y en particular a las familias que cuenten con algún inválido promoviendo al efecto la solidaridad social;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-V. La atención integral de los inválidos, incluyendo la adaptación de la prótesis, órtesis y ayudas funcionales que requieran;
+IV. La orientación educativa en materia de rehabilitación a la colectividad en general, y en particular a las familias que cuenten con alguna persona con discapacidad promoviendo al efecto la solidaridad social;
 
-VI. Promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de los inválidos, y
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+V. La atención integral de personas con discapacidad, incluyendo la adaptación de la (sic) prótesis, órtesis y ayudas funcionales que requieran;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+VI. Promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de las personas con discapacidad, y
 
 VII. La promoción de la educación y la capacitación para el trabajo, así como la promoción del empleo de las personas en proceso de rehabilitación.
 
@@ -1729,7 +1743,9 @@ II. Proporcionar información y brindar la atención médica y los tratamientos 
 
 Artículo 154 bis 1. El Gobierno del Estado y los municipios, para prevenir y evitar el consumo de narcóticos o cualquier otra sustancia psicoactiva estimulante o depresora, se ajustarán a lo siguiente:
 
-I. Determinarán y ejercerán medios de control en el expendio de sustancias inhalables para prevenir su consumo de la población en general, en especial de menores de edad y personas con capacidades diferentes;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+I. Determinarán y ejercerán medios de control en el expendio de sustancias inhalables para prevenir su consumo de la población en general, en especial de menores de edad y personas con discapacidad;
 
 II. Implementarán sistemas de vigilancia en los establecimientos destinados al expendio y uso de dichas sustancias para evitar el empleo indebido de las mismas;
 
@@ -2241,11 +2257,11 @@ Para los efectos de esta Ley se entiende por prostitución la actividad que real
 
 Toda persona que se dedique a la prostitución, deberá conocer y utilizar medidas preventivas para evitar el contagio y la transmisión de enfermedades a través del contacto sexual. Asimismo, se sujetarán a exámenes médicos y de laboratorio periódicos, con inclusión del VIH. Al igual que a los demás requisitos que se establezcan en las disposiciones reglamentarias aplicables.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 213.
 
-Queda prohibido el ejercicio de la prostitución a personas menores de edad y personas con discapacidad mental.
+Queda prohibido el ejercicio de la prostitución a personas menores de edad y de personas con discapacidad intelectual.
 
 ###### Artículo 214.
 
@@ -2605,7 +2621,7 @@ Tratándose de actividades que se realicen en la vía pública, las órdenes pod
 
 En la diligencia de verificación sanitaria se deberán observar las siguientes reglas:
 
-I. Al iniciar la visita el verificado: deberá exhibir la credencial vigente, expedida por la autoridad sanitaria competente, que lo acredite legalmente para desempeñar dicha función así como la orden expresa a que se refiere el Artículo 268 de esta Ley, de la que deberá dejar copia al propietario, responsable, encargado u ocupante del establecimiento. Esta circunstancia se deberá anotar en el acta correspondiente:
+I. Al iniciar la visita el verificador deberá exhibir la credencial vigente, expedida por la autoridad sanitaria competente, que lo acredite legalmente para desempeñar dicha función así como la orden expresa a que se refiere el Artículo 268 de esta Ley, de la que deberá dejar copia al propietario, responsable, encargado u ocupante del establecimiento. Esta circunstancia se deberá anotar en el acta correspondiente:
 
 II. Al inicio de la visita, se deberá requerir al propietario, responsable, encargado u ocupante del establecimiento o conductor del transporte, que proponga a dos testigos que deberán permanecer durante el desarrollo de la visita. Ante la negativa o ausencia del visitado, los designará la autoridad que practique la verificación. Estas circunstancias, el nombre, domicilio, y firma de los testigos, se hará constar en el acta;
 
@@ -3272,3 +3288,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La Secretaría de Salud del Estado contará con un plazo de quince días para emitir los lineamientos necesarios para la aplicación del presente decreto, contados a partir de la entrada en vigor del mismo.
 
 TERCERO.- Las dependencias o entidades de los Poderes del Estado tendrán un plazo de treinta días para la implementación de sus lactarios, contados a partir de que la Secretaría de Salud del Estado emita los lineamientos a que se refiere el artículo anterior.
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 485 POR EL QUE “SE MODIFICA LA FRACCIÓN XV DEL ARTÍCULO 4, LA FRACCIÓN III DEL ARTÍCULO 33, EL ARTÍCULO 52, LA FRACCIÓN IV DEL ARTÍCULO 56, LA FRACCIÓN I Y II DEL ARTÍCULO 68, EL ARTÍCULO 68 BIS, EL PÁRRAFO PRIMERO DEL ARTÍCULO 69, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 70, LA DENOMINACIÓN DEL TÍTULO NOVENO, EL ARTÍCULO 132, EL ARTÍCULO 143, EL PÁRRAFO PRIMERO, LA FRACCIÓN IV, V Y VI DEL ARTÍCULO 146, LA FRACCIÓN I DEL ARTÍCULO 154 BIS 1 Y EL ARTÍCULO 213 DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
