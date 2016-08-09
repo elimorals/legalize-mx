@@ -4,7 +4,7 @@ identifier: "COA-ley-de-cultura-fisica-y-deporte-del-estado-de-coahuila-de-10162
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-17"
-last_updated: "2016-05-27"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 17 de junio de 2014.
 
@@ -95,7 +95,9 @@ VIII. Deporte federado: Conjunto de planes y programas en materia deportiva, dir
 
 IX. Deporte de alto rendimiento: Conjunto de planes y programas en materia deportiva, dirigidos a la atención de los atletas y entrenadores con alto nivel competitivo que representan a nuestro país en competencias internacionales dentro del ciclo olímpico;
 
-X. Deporte adaptado: Es toda actividad físico - deportiva que es susceptible de aceptar modificaciones para posibilitar la participación de las personas con discapacidades físicas, psíquicas o sensoriales;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+X. Deporte adaptado: Es toda actividad físico - deportiva que es susceptible de aceptar modificaciones para posibilitar la participación de las personas con discapacidad.
 
 XI. Disciplina deportiva de conjunto: básquetbol, béisbol, fútbol, handball, hockey, polo acuático, rugby, softbol, voleibol, voleibol de playa y las demás que establezca la Confederación Deportiva Mexicana;
 
@@ -369,7 +371,9 @@ Las organizaciones y asociaciones de deportistas que cuenten con registro, tendr
 
 I. Formar parte del Sistema Estatal del Deporte;
 
-II. Fomentar la activación que propicie el desarrollo de la cultura física y la práctica del deporte en todos los sectores de la población, con atención especial a la población infantil, a las personas con capacidades diferentes, adultos mayores y cualquier otro sector vulnerable;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+II. Fomentar la activación que propicie el desarrollo de la cultura física y la práctica del deporte en todos los sectores de la población, con atención especial a la población infantil, a las personas con discapacidad, adultos mayores y cualquier otro sector vulnerable;
 
 III. Seleccionar, designar, en los términos de la normatividad aplicable, a los representantes para competencias municipales, estatales, regionales y nacionales;
 
@@ -852,3 +856,11 @@ P.O. 27 DE MAYO DE 2016.
 PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 485 POR EL QUE “SE MODIFICA LA FRACCIÓN X DEL ARTÍCULO 5 Y LA FRACCIÓN II DEL ARTÍCULO 22 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
