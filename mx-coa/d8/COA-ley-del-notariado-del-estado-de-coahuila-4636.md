@@ -4,7 +4,7 @@ identifier: "COA-ley-del-notariado-del-estado-de-coahuila-4636"
 country: "mx"
 rank: "ley"
 publication_date: "1979-02-06"
-last_updated: "2014-10-21"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4636&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL NOTARIADO DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 6 de febrero de 1979.
 
@@ -361,9 +361,9 @@ XI.- Se determinará de manera precisa la renuncia que se haga por los contratan
 
 XII.- Se llenarán los requisitos establecidos por la Ley Orgánica y Reglamentos de las fracciones I y IV del artículo 27 constitucional, en la organización de sociedades y en la adquisición de bienes raíces por extranjeros, así como los demás requisitos que exijan el Código de Comercio, la Ley General de Sociedades Mercantiles y las demás leyes en relación a los contratos y documentos en que intervengan los Notarios;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 1980)</small>
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-XIII.- Cuando el otorgante sea ciego, mudo, sordo o no sepa leer y escribir se estará a lo dispuesto en el Código Civil del Estado;
+XIII.- Cuando el otorgante sea una persona ciega, muda, sorda o no sepa leer y escribir se estará a lo dispuesto en el Código Civil del Estado;
 
 XIV.- La parte que no supiere el idioma español, se hará acompañar de un intérprete elegido por ella, que hará protesta formal ante el Notario de cumplir lealmente a su cargo. La parte que conozca el idioma español podrá también llevar otro intérprete para lo que a su derecho convenga;
 
@@ -1838,3 +1838,11 @@ Se aplicará de manera supletoria lo establecido en la Ley del Procedimiento Adm
 P.O. 21 DE OCTUBRE DE 2014.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza y la aplicación de lo que se dispone en el mismo, se hará conforme al plazo establecido en el Transitorio Séptimo de la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza, con relación al Artículo 46 del propio ordenamiento, publicado en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza el 26 de agosto de 2014.
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 485.- SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 359, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
