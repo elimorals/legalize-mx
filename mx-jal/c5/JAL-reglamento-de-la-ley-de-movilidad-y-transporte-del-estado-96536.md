@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-movilidad-y-transporte-del-estado-96536
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-11-09"
-last_updated: "2015-06-04"
+last_updated: "2016-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 9 de noviembre de 2013.
 
@@ -111,233 +111,497 @@ XVII. Calles: Las superficies de terreno, que en forma lineal son destinadas den
 
 XVIII. Calzadas: Las calles con amplitud de avenidas, en las que existe camellón o jardín separador de los sentidos de la circulación o las así definidas por la autoridad Municipal:
 
-XIX. Carreteras y autopistas: Son las superficies de terreno y sus estructuras que en forma lineal son destinadas para el rodamiento y acotamiento de vehículos y la intercomunicación de poblaciones o centros de objeto público;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-XX. Carril: Es la banda longitudinal de una vía pública, en la que puede estar dividida la vía destinada al tránsito de una sola fila de vehículos;
+XIX. Características de la modalidad: La serie de lineamientos, cualidades y condiciones en las que se deben de prestar las diferentes modalidades de transporte, así como cualquier otra particularidad que se desprenda de la naturaleza propia del servicio de que se trate y las contenidas en la Ley, reglamentos, normas técnicas aplicables, concesión, permiso y autorización correspondiente; a las cuales se deberá de sujetar el titular de la concesión, permiso o autorización, sin que éstas puedan alterarse.
 
-XXI. Carril Exclusivo y Confinado: Vía pública sobre la que circulan vehículos de transporte público colectivo o masivo de pasajeros, sobre un sentido de la vía, con dispositivos de delimitación en el perímetro del carril que no permiten el tránsito de otro tipo de vehículos, con excepción de los vehículos de seguridad en caso de emergencias;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-XXII. Carril preferencial: Es el espacio de circulación, debidamente señalizado donde la preferencia la tiene el sistema de transporte colectivo y eventualmente el transporte de seguridad y emergencia o protección civil, en servicio y con códigos sonoros y luminosos encendidos;
+XX. Carreteras y autopistas: Son las superficies de terreno y sus estructuras que en forma lineal son destinadas para el rodamiento y acotamiento de vehículos y la intercomunicación de poblaciones o centros de objeto público;
 
-XXIII. Centro de Transferencia Modal: Espacio físico fuera de la vía pública, con infraestructura y equipamiento auxiliar de transporte, que sirve como conexión de los usuarios entre dos o más rutas o modos de transporte;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-XXIV. Ciclista: Usuario de un vehículo denominado bicicleta;
+XXI. Carril: Es la banda longitudinal de una vía pública, en la que puede estar dividida la vía destinada al tránsito de una sola fila de vehículos;
 
-XXV. Ciclo-puerto: Es un espacio de uso público para el resguardo de bicicletas, que forma parte de la infraestructura de transporte no motorizado;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-XXVI. Ciclo vía: Infraestructura pública, destinada para la circulación de bicicletas, pueden ser segregadas o de banda, delimitadas o separadas por elementos físicos, que aseguran su uso exclusivo para la circulación de ciclistas o delimitada solo con señalética horizontal y vertical;
+XXII. Carril Exclusivo y Confinado: Vía pública sobre la que circulan vehículos de transporte público colectivo o masivo de pasajeros, sobre un sentido de la vía, con dispositivos de delimitación en el perímetro del carril que no permiten el tránsito de otro tipo de vehículos, con excepción de los vehículos de seguridad en caso de emergencias;
 
-XXVII. Cierre de circuito: El espacio físico autorizado por la Secretaría, en el que inicia o concluye un recorrido del servicio público de transporte de pasajeros colectivo, sin que éste sirva de base;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-XXVIII. Concesionario: Persona física o jurídica a la que a través de la concesión se le otorga el derecho de explotación del servicio de transporte público de pasajeros o carga;
+XXIII. Carril preferencial: Es el espacio de circulación, debidamente señalizado donde la preferencia la tiene el sistema de transporte colectivo y eventualmente el transporte de seguridad y emergencia o protección civil, en servicio y con códigos sonoros y luminosos encendidos;
 
-XXIX. Conductor: Toda persona que requiere de una capacitación y de una licencia específica, para operar o conducir un vehículo, cuando así lo señale la Ley de la materia.
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-XXX. Constancia de Inscripción del Registro público Vehicular: Es una calcomanía, con un dispositivo electrónico que acredita el registro del vehículo y no puede ser retirada de éste, en los términos de la Ley de la materia;
+XXIV. Centro de Transferencia Modal: Espacio físico fuera de la vía pública, con infraestructura y equipamiento auxiliar de transporte, que sirve como conexión de los usuarios entre dos o más rutas o modos de transporte;
 
-XXXI. Corredor Exclusivo de Transporte Público: Vía pública, sobre la que circulan unidades de transporte público confinadas a un carril exclusivo, para el traslado masivo de pasajeros;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-XXXII. Corredor de Transporte Público: Eje vial de transporte público de autobuses en carril preferencial o confinado con alta demanda de desplazamientos y cuya configuración forma parte del sistema vial jerárquico estructural de una ciudad;
+XXV. Ciclista: Usuario de un vehículo denominado bicicleta;
 
-XXXIII. Corredor Vial: Es la vialidad que tiene continuidad, longitud, y ancho suficiente para concentrar el tránsito de vehículos y personas, y que comunica diferentes zonas dentro del entorno urbano;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-XXXIV. Crucero o intersección: Superficie común donde convergen dos o más arterias en donde se realizan los movimientos direccionales del tránsito en forma directa o canalizados por isletas;
+XXVI. Ciclo-puerto: Es un espacio de uso público para el resguardo de bicicletas, que forma parte de la infraestructura de transporte no motorizado;
 
-XXXV. Cuencas de servicio: Servicio integrado de transporte, de rutas alimentadoras y difusoras por zonas de la ciudad y vinculadas a las líneas de transporte masivo, a los corredores o rutas de transporte público, con origen y destino, sin derrotero específico;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-XXXVI. Depósito de vehículos: El lugar destinado por la autoridad competente o en su caso concesionado a terceros, para el resguardo de vehículos, de acuerdo con las tarifas autorizadas;
+XXVII. Ciclo vía: Infraestructura pública, destinada para la circulación de bicicletas, pueden ser segregadas o de banda, delimitadas o separadas por elementos físicos, que aseguran su uso exclusivo para la circulación de ciclistas o delimitada solo con señalética horizontal y vertical;
 
-XXXVII. Derecho de vía: Es la zona afecta o una vía pública en ambos lados, en zonas urbanas y suburbanas, el derecho de vía lo establecerá el Ayuntamiento o Ayuntamientos respectivos, conforme a los planes parciales si los hubiere, de común acuerdo con las Secretarías concurrentes en materia de movilidad y obra pública, atendiendo a las disposiciones que señale el Código Urbano del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-XXXVIII. Derivación o Ala: Lugar en que está permitido que los vehículos de transporte público en su modalidad de taxis, radiotaxi y carga se detengan y es autorizado como una derivación del sitio;
+XXVIII. Cierre de circuito: El espacio físico autorizado por la Secretaría, en el que inicia o concluye un recorrido del servicio público de transporte de pasajeros colectivo, sin que éste sirva de base;
 
-XXXIX. Derrotero: Descripción de un recorrido de origen y destino autorizado para la prestación de servicio público de transporte colectivo y masivo;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-XL. Dictamen: Es una resolución, emitida por la autoridad competente en el ejercicio de sus atribuciones respecto de una de una cuestión que se someta a su consideración;
+XXIX. Concesionario: Persona física o jurídica a la que a través de la concesión se le otorga el derecho de explotación del servicio de transporte público de pasajeros o carga;
 
-XLI. Dictamen técnico: Es un acto administrativo, definitivo y declarativo que solo reconoce, sin modificar, una situación jurídica del administrado, que resulta necesario para la realización de algún trámite o acto administrativo ante diversa autoridad;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-XLII. Dispositivo de movilidad asistida: Elemento que permite el desplazamiento de personas con discapacidad o con movilidad limitada, tales como sillas de ruedas, sillas de ruedas motorizadas con velocidades máximas de diez kilómetros por hora, andaderas, bastones y perros guía;
+XXX. Conductor: Toda persona que requiere de una capacitación y de una licencia específica, para operar o conducir un vehículo, cuando así lo señale la Ley de la materia;
 
-XLIII. Dispositivo para el control de tránsito: Conjunto de elementos que procuran el ordenamiento de los movimientos del tránsito, previenen y proporcionan información a los usuarios de la vía para garantizar su seguridad, permitiendo una operación efectiva del flujo vehicular, peatonal y no motorizado;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-XLIV. Ejecutivo: El Titular del Poder Ejecutivo del Estado;
+XXXI. Constancia de Inscripción del Registro Público Vehicular: Es una calcomanía, con un dispositivo electrónico que acredita el registro del vehículo y no puede ser retirada de éste, en los términos de la Ley de la materia;
 
-XLV. Elementos Inherentes a la Movilidad: Son todos aquellos objetos o elementos que forman parte especifica de la vialidad;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-XLVI. El Secretario: Titular de la Secretaría de Movilidad del Estado;
+XXXII. Contratante: Persona que contrata y realiza el pago del servicio de transporte de pasajeros o de carga en cualquiera de sus modalidades;
 
-XLVII. El Comisario: Titular de la Comisaría General de Vialidad del Estado;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-XLVIII. Equipo Móvil Especial: Es todo vehículo particular que porte publicidad, que promueva productos, marcas o servicios y por lo tanto estará sujeto a la autorización o permiso que expida la Secretaría, tanto del uso del vehículo como de la publicidad que porte;
+XXXIII. Corredor Exclusivo de Transporte Público: Vía pública, sobre la que circulan unidades de transporte público confinadas a un carril exclusivo, para el traslado masivo de pasajeros;
 
-XLIX. Eslinga: Maroma provista de ganchos para levantar grandes pesos;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-L. Estación de Sistema de Bici Pública: Infraestructura colocada en la vía pública que cuenta con puertos de anclaje, terminal y bicicletas de uso público;
+XXXIV. Corredor de Transporte Público: Eje vial de transporte público de autobuses en carril preferencial o confinado con alta demanda de desplazamientos y cuya configuración forma parte del sistema vial jerárquico estructural de una ciudad;
 
-LI. Estacionamiento: Espacio, lugar o recinto utilizado para ocupar, dejar o guardar un vehículo por un tiempo determinado, ya sea en la vía pública o propiedad privada;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-LII. Estudio de impacto vial: es el conjunto de estudios para determinar como la utilización del suelo puede afectar el sistema vial y de transporte, así como los requerimientos que deban aplicarse para mantener o mejorar el nivel de servicio de estos sistemas y garantizar la seguridad vial;
+XXXV. Corredor Vial: Es la vialidad que tiene continuidad, longitud y ancho suficiente para concentrar el tránsito de vehículos y personas, y que comunica diferentes zonas dentro del entorno urbano;
 
-LIII. Estudio vial: Es un estudio de ingeniería vial en general que se integra con datos físicos operacionales y estadísticos, tomando en consideración las condicionantes del desarrollo urbano, y demás elementos técnico legales necesarios para su desarrollo, con la finalidad de elaborar alternativas de solución y la evaluación de estas, para seleccionar la más favorable para su aplicación ya en un proyecto o ya en un conflicto existente en materia de movilidad;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XXXVI. Crucero o intersección: Superficie común donde convergen dos o más arterias en donde se realizan los movimientos direccionales del tránsito en forma directa o canalizados por isletas;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XXXVII. Cuencas de servicio: Servicio integrado de transporte, de rutas alimentadoras y difusoras por zonas de la ciudad y vinculadas a las líneas de transporte masivo, a los corredores o rutas de transporte público, con origen y destino, sin derrotero específico;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XXXVIII. Depósito de vehículos: El lugar destinado por la autoridad competente o en su caso concesionado a terceros, para el resguardo de vehículos, de acuerdo con las tarifas autorizadas;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XXXIX. Derecho de vía: Es la zona afecta o una vía pública en ambos lados, en zonas urbanas y suburbanas, el derecho de vía lo establecerá el Ayuntamiento o Ayuntamientos respectivos, conforme a los planes parciales si los hubiere, de común acuerdo con las Secretarías concurrentes en materia de movilidad y obra pública, atendiendo a las disposiciones que señale el Código Urbano del Estado de Jalisco;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XL. Derivación o Ala: Lugar en que está permitido que los vehículos de transporte público en su modalidad de taxis, radiotaxi y carga se detengan y es autorizado como una derivación del sitio;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XLI. Derrotero: Descripción de un recorrido de origen y destino autorizado para la prestación de servicio público de transporte colectivo y masivo;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XLII. Dictamen: Es una resolución, emitida por la autoridad competente en el ejercicio de sus atribuciones respecto de una de una (sic) cuestión que se someta a su consideración;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XLIII. Dictamen técnico: Es un acto administrativo, definitivo y declarativo que sólo reconoce, sin modificar, una situación jurídica del administrado, que resulta necesario para la realización de algún trámite o acto administrativo ante diversa autoridad;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XLIV. Dispositivo de movilidad asistida: Elemento que permite el desplazamiento de personas con discapacidad o con movilidad limitada, tales como sillas de ruedas, sillas de ruedas motorizadas con velocidades máximas de diez kilómetros por hora, andaderas, bastones y perros guía;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XLV. Dispositivo para el control de tránsito: Conjunto de elementos que procuran el ordenamiento de los movimientos del tránsito, previenen y proporcionan información a los usuarios de la vía para garantizar su seguridad, permitiendo una operación efectiva del flujo vehicular, peatonal y no motorizado;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XLVI. Ejecutivo: El Titular del Poder Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XLVII. Elementos Inherentes a la Movilidad: Son todos aquellos objetos o elementos que forman parte especifica de la vialidad;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XLVIII. El Secretario: Titular de la Secretaría de Movilidad del Estado;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XLIX. El Comisario: Titular de la Comisaría General de Vialidad del Estado;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+L. Empresa de redes de transporte: son aquellas sociedades mercantiles titulares de los derechos de propiedad intelectual de una aplicación móvil, o que cuenten con licencia para su uso, franquicia o se encuentre afiliada a alguno de los anteriores de tal forma que tenga derechos para el aprovechamiento o administración de una aplicación móvil en términos de la Ley; cuyo servicio se limita exclusivamente a gestionar vía electrónica la oferta, contratación y pago de servicios de transporte, vinculando a través de dicha aplicación a usuarios con prestadores del servicio en cualquiera de sus modalidades autorizados y registrados por la autoridad competente;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+LI. Equipo Móvil Especial: Es todo vehículo particular que porte publicidad, que promueva productos, marcas o servicios y por lo tanto estará sujeto a la autorización o permiso que expida la Secretaría, tanto del uso del vehículo como de la publicidad que porte;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+LII. Eslinga: Maroma provista de ganchos para levantar grandes pesos;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+LIII. Estación de Sistema de Bici Pública: Infraestructura colocada en la vía pública que cuenta con puertos de anclaje, terminal y bicicletas de uso público;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+LIV. Estacionamiento: Espacio, lugar o recinto utilizado para ocupar, dejar o guardar un vehículo por un tiempo determinado, ya sea en la vía pública o propiedad privada;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+LV. Estudio de impacto vial: Es el conjunto de estudios para determinar cómo la utilización del suelo puede afectar el sistema vial y de transporte, así como los requerimientos que deban aplicarse para mantener o mejorar el nivel de servicio de estos sistemas y garantizar la seguridad vial;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+LVI. Estudio vial: Es un estudio de ingeniería vial en general que se integra con datos físicos operacionales y estadísticos, tomando en consideración las condicionantes del desarrollo urbano, y demás elementos técnico legales necesarios para su desarrollo, con la finalidad de elaborar alternativas de solución y la evaluación de éstas, para seleccionar la más favorable para su aplicación ya en un proyecto o ya en un conflicto existente en materia de movilidad;
 
 a) Estudio de Impacto al tránsito: Es un estudio de ingeniería que determina el impacto potencial de tránsito de algún proyecto de desarrollo por obra de edificación o obra de urbanización, determinando las necesidades de cualquier mejora al sistema, a los sistemas de transporte adyacentes o cercano, con el fin de mantener un nivel se (sic) servicio satisfactorio y la previsión de accesos apropiados para los desarrollos propuestos; y
 
 b) Estudio de integración a la vialidad: Es un estudio cuyo objeto será el regular y establecer el diseño de las entradas, salidas y ubicación de todos aquellos predios de carácter público o privado que por las necesidades de su giro requieran un análisis de factibilidad, así como la relación de estos con el espacio público con el fin de minimizar los problemas que se causan al tránsito de paso sobre la vía pública afectada;
 
-LIV. Faja separadora o isleta: Superficie pintada en el piso o a diferente nivel que sirve para refugio de peatones y para separar las trayectorias del tránsito;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-LV. Fiscalía: Fiscalía General del Estado de Jalisco;
+LVII. Faja separadora o isleta: Superficie pintada en el piso o a diferente nivel que sirve para refugio de peatones y para separar las trayectorias del tránsito;
 
-LVI. Frecuencia de paso: Intervalo de tiempo programado que transcurre entre el paso de un vehículo de transporte público de pasajeros y el siguiente, en un mismo itinerario;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-LVII. Gafete: Documento oficial, con los datos del conductor de los vehículos pertenecientes al Sistema de Transporte Público, que debe estar a la vista de los usuarios;
+LVIII. Fiscalía: Fiscalía General del Estado de Jalisco;
 
-LVIII. Glorieta: Intersección de varias vías donde el movimiento vehicular es rotatorio alrededor de una isleta central;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-LIX. Guía de Deslinde: Documento técnico que permite a las compañías aseguradoras, a través de elementos gráficos, determinar la responsabilidad en un accidente vial;
+LIX. Frecuencia de paso: Intervalo de tiempo programado que transcurre entre el paso de un vehículo de transporte público de pasajeros y el siguiente, en un mismo itinerario;
 
-LX. Grúa: Vehículo diseñado para el arrastre o la movilización de vehículos, sujetos a las tarifas autorizadas. Las grúas responderán por daños a los vehículos que sean objeto del arrastre y los terceros afectados por daños causados por los tales (sic) vehículos;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-LXI. Horario: Hora de inicio y término a que deberá sujetarse la prestación del servicio público de transporte de pasajeros o de carga;
+LX. Gafete: Documento oficial, con los datos del conductor de los vehículos pertenecientes al Sistema de Transporte Público, que debe estar a la vista de los usuarios;
 
-LXII. Indexación: Es el mecanismo mediante el cual se actualizarán de manera automática las tarifas del servicio de transporte público en todas sus modalidades;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-LXIII. Infraestructura urbana: Conjunto de elementos con que cuentan las vialidades, que tienen una finalidad de beneficio general, y permiten su mejor funcionamiento o imagen visual;
+LXI. Glorieta: Intersección de varias vías donde el movimiento vehicular es rotatorio alrededor de una isleta central;
 
-LXIV. Infraestructura vial: Es el conjunto de elementos que permiten el desplazamiento de vehículos motorizados, no motorizados y de personas en forma confortable y segura de un punto a otro;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-LXV. Inspección: Es la revisión física de los conductores, así como mecánica y de seguridad de las unidades del servicio de transporte público en cualquiera de sus modalidades, a fin de comprobar el cumplimiento de las disposiciones en materia de instalaciones, equipo, aditamentos, sistemas y en general, las condiciones de operación y cumplimiento de las normas técnicas, para la óptima prestación del servicio;
+LXII. Guía de Deslinde: Documento técnico que permite a las compañías aseguradoras, a través de elementos gráficos, determinar la responsabilidad en un accidente vial;
 
-LXVI. Intercambio modal: Transferencia con un solo pago de servicio entre medios de servicio de transporte públicos y privados, ya sean motorizados o no motorizados;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-LXVII. Itinerario: Es el recorrido al cual está sujeto una unidad de transporte público colectivo para dar servicio en un área determinada, ya sea urbana, suburbana o foránea, el cual contiene el conjunto de puntos geográficos de origen y destino;
+LXIII. Grúa: Vehículo diseñado para el arrastre o la movilización de vehículos, sujetos a las tarifas autorizadas. Las grúas responderán por daños a los vehículos que sean objeto del arrastre y los terceros afectados por daños causados por los (sic) tales vehículos;
 
-LXVIII. Juez Calificador: Servidor público designado, delegado o comisionado para la calificación de las infracciones y sanciones que contempla la Ley;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-LXIX. Ley: Ley de Movilidad y Transporte del Estado de Jalisco;
+LXIV. Horario: Hora de inicio y término a que deberá sujetarse la prestación del servicio público de transporte de pasajeros o de carga;
 
-LXX. Manifestación temporal fija o en tránsito.- Grupo de individuos que se congrega y permanece o se traslada por lugar y tiempo determinado en espacios públicos;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-LXXI. Matriz o sitio: Lugar en que está permitido que los vehículos de transporte público en modalidad de taxi, radiotaxi y carga se detengan;
+LXV. Indexación: Es el mecanismo mediante el cual se actualizarán de manera automática las tarifas del servicio de transporte público en todas sus modalidades;
 
-LXXII. Medio de transporte: Conjunto de técnicas, instrumentos y dispositivos de características homogéneas en cuanto a la tecnología que se utilizan para el transporte de personas o mercancías;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-LXXIII. Modificación de ruta: Es el cambio de la parte en un itinerario de una ruta que se autoriza a partir de la sustitución de tramos definidos por puntos intermedios del recorrido, sin alterar su derrotero original;
+LXVI. Infraestructura urbana: Conjunto de elementos con que cuentan las vialidades, que tienen una finalidad de beneficio general, y permiten su mejor funcionamiento o imagen visual;
 
-LXXIV. Motociclistas: Es el conductor de vehículos con motor eléctrico de combustión interna u otros modos de propulsión, siempre y cuando su fabricante así lo considere;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-LXXV. Movilidad: Forma en que el ser humano se mueve o traslada de un lugar a otro, puede ser por sí mismo o empleando algún medio de transporte motorizado o no motorizado;
+LXVII. Infraestructura vial: Es el conjunto de elementos que permiten el desplazamiento de vehículos motorizados, no motorizados y de personas en forma confortable y segura de un punto a otro;
 
-LXXVI. Norma General de Carácter Técnico: La norma técnica es un documento expedido por el Ejecutivo del Estado, que contiene definiciones, requisitos, especificaciones de calidad, terminología, especificaciones y demás determinaciones que tengan como objeto normar una actividad vinculada con la Movilidad o la prestación de un servicio de transporte público;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-LXXVII. Número económico: Número de registro oficial de una unidad autorizada para efectuar el servicio público de transporte en la modalidad de que se trate ante la Secretaría;
+LXVIII. Inspección: Es la revisión física, mecánica y de seguridad de las unidades del servicio de transporte público en cualquiera de sus modalidades, así como la verificación de los locales, oficinas administrativas, instalaciones, bases de servicios, terminales y servicios conexos, con el fin de vigilar el cumplimiento de las disposiciones en materia de instalaciones, equipo, aditamentos, sistemas y en general, las condiciones de operación y cumplimiento de la Ley, los reglamentos y las normas técnicas aplicables, para la óptima prestación del servicio;
 
-LXXVIII. Obra de Urbanización: Todas aquellas acciones técnicas realizadas con la finalidad de transformar el suelo rustico en Urbano; o bien, adecuar, conservar o mejorar los predios dominio público, redes de infraestructura y equipamiento destinado a la prestación de servicios Urbanos;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-LXXIX. Operador del servicio del Sistema de Bici Pública: Empresa encargada de brindar los servicios del Sistema;
+LXIX. Intercambio modal: Transferencia con un solo pago de servicio entre medios de servicio de transporte públicos y privados, ya sean motorizados o no motorizados;
 
-LXXX. Padrón: Registro oficial del parque vehicular en el Estado de Jalisco;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-LXXXI. Parada: Espacio donde se detienen los vehículos de servicio público para ascenso y descenso de pasajeros;
+LXX. Itinerario: Es el recorrido al cual está sujeto una unidad de transporte público colectivo para dar servicio en un área determinada, ya sea urbana, suburbana o foránea, el cual contiene el conjunto de puntos geográficos de origen y destino;
 
-LXXXII. Parque Vehicular de transporte público: Es el conjunto de unidades destinadas a prestar el servicio público de transporte;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-LXXXIII. Par vial: Funcionamiento de dos vías paralelas y relativamente cercanas entre sí, cada una con sentido único de circulación, pero diferente entre ellas y que pueden contar con semaforización y sistemas electrónicos para darle fluidez a la circulación;
+LXXI. Juez Calificador: Servidor público designado, delegado o comisionado para la calificación de las infracciones y sanciones que contempla la Ley;
 
-LXXXIV. Peatón: Toda persona que se desplaza de un lugar a otro por las vías públicas, ya sea a pie o mediante equipo auxiliar para personas con discapacidad;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-LXXXV. Perito: Servidor público de la Secretaría con conocimientos técnicos, capacitación y experiencia necesaria en el estudio y emisión de opiniones técnicas sobre hechos del tránsito terrestre, así como en el manejo de equipos de medición necesarios para la aplicación de pruebas de alcoholimetría en aire espirado y en la interpretación del resultado obtenido en dichas pruebas;
+LXXII. Ley: Ley de Movilidad y Transporte del Estado de Jalisco;
 
-LXXXVI. Permiso para Conducir: Es el documento público por el que la Secretaría autoriza a menores de edad a conducir un vehículo, bajo la tutela y responsabilidad civil del padre o tutor;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-LXXXVII. Persona con Discapacidad: Todo ser humano que tiene ausencia o disminución congénita o adquirida de alguna aptitud o capacidad física, mental, intelectual o sensorial, de manera parcial o total, que le impida o dificulte su pleno desarrollo o integración efectiva al medio que lo rodea, de manera temporal o permanente;
+LXXIII. Manifestación temporal fija o en tránsito: Grupo de individuos que se congrega y permanece o se traslada por lugar y tiempo determinado en espacios públicos;
 
-LXXXVIII. Periférico: Vialidad primaria con separación central, física o pintada, o con camellón que circunda la periferia de una zona urbana;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-LXXXIX. Placas: Es el documento expedido por el Ejecutivo del Estado para registro e identificación de un vehículo. Consiste en la combinación de caracteres alfabéticos y numéricos que identifica e individualiza el vehículo respecto a los demás, se representan en lámina metálica, en la que se graban o adhieren de forma inalterable los caracteres, en los términos de la Norma Oficial Mexicana;
+LXXIV. Matriz o sitio: Lugar en que está permitido que los vehículos de transporte público en modalidad de taxi, radiotaxi y carga se detengan;
 
-XC. Prueba de Alcoholimetría: Es la toma de una muestra del aire espirado en dos etapas, resultante del proceso respiratorio de un individuo, en busca de la presencia y concentración de alcohol en el organismo, lo anterior con un equipo técnico de medición en aire espirado denominado alcoholímetro, pudiendo arrojarse un resultado cualitativo y/o cuantitativo, dependiendo el tipo de prueba practicado, siendo la primera etapa de la prueba la que determina la presencia o no de alcohol en el organismo y la segunda la concentración de alcohol en el sujeto al que se aplica;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-XCI. Puntos de Revisión Aleatoria: Espacio en la Vía Pública que atendiendo a su naturaleza preventiva deberá estar debidamente delimitado con el señalamiento y demás implementos que garanticen su identificación, así como la seguridad del personal que lo integra y de los conductores que sean ingresados al mismo a efecto de que se practiquen las pruebas de alcoholimetría conforme al caso corresponda;
+LXXV. Medio de transporte: Conjunto de técnicas, instrumentos y dispositivos de características homogéneas en cuanto a la tecnología que se utilizan para el transporte de personas o mercancías;
 
-XCII. Rebasar: Maniobra que realiza el conductor de un vehículo adelantando al vehículo que le precede misma que solo se permite por la izquierda;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-XCIII. Región metropolitana: es la delimitación geográfica integrada por un área metropolitana y uno o más centros de población, geográficamente cercanos, con tendencias de crecimiento que los acerquen y relaciones socioeconómicas con aquella, declarada oficialmente con ese carácter por decreto del Congreso del Estado;
+LXXVI. Modificación de ruta: Es el cambio de la parte en un itinerario de una ruta que se autoriza a partir de la sustitución de tramos definidos por puntos intermedios del recorrido, sin alterar su derrotero original;
 
-XCIV. Registro Público Vehicular: Es un registro de información a nivel nacional que tiene como propósito otorgar seguridad pública y jurídica a los actos que se realicen con vehículos que circulen en territorio nacional, mediante la identificación y control vehicular; además de brindar servicios de información al público, en los términos de la Ley del Registro Público Vehicular;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-XCV. Reglamento especifico: Reglamento de la Ley de Movilidad y Transporte especifico para regularizar la cobertura y distribución del servicio de transporte público, colectivo, masivo, de taxi y radiotaxi, de conformidad con el Programa General de Transporte para el Estado de Jalisco;
+LXXVII. Motociclistas: Es el conductor de vehículos con motor eléctrico de combustión interna u otros modos de propulsión, siempre y cuando su fabricante así lo considere;
 
-XCVI. Reincidencia: La comisión de dos o más infracciones de carácter administrativo iguales, que son motivo de una conducta de riesgo y contravienen las disposiciones de la ley y su reglamento, en los periodos que se establezcan;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-XCVII. Retorno o despacho: Estación temporal para el ajuste de la frecuencia de paso y revisión de los puntos de seguridad de los autobuses;
+LXXVIII. Movilidad: Forma en que el ser humano se mueve o traslada de un lugar a otro, puede ser por sí mismo o empleando algún medio de transporte motorizado o no motorizado;
 
-XCVIII. Reversa: Movimiento que se da en retroceso al de la circulación normal de un vehículo;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-XCIX. Secretaría: La Secretaría de Movilidad del Estado;
+LXXIX. Norma General de Carácter Técnico: La norma técnica es un documento expedido por el Ejecutivo del Estado, que contiene definiciones, requisitos, especificaciones de calidad, terminología, especificaciones y demás determinaciones que tengan como objeto normar una actividad vinculada con la Movilidad o la prestación de un servicio de transporte público;
 
-C. Seguridad Vial: Conjunto de medidas tendientes a preservar la integridad física de las personas con motivo de sus desplazamientos en las vías públicas;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-CI. Semáforo: Dispositivo eléctrico para regular el tránsito, mediante juegos de luces;
+LXXX. Número económico: Número de registro oficial de una unidad autorizada para efectuar el servicio público de transporte en la modalidad de que se trate ante la Secretaría;
 
-CII. Sentido contrario: Circulación de un vehículo en contra del sentido establecido en las vías públicas;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-CIII. Señal: Son los dispositivos o elementos oficiales que se instalan previo un estudio de ingeniería de transito que tienen como finalidad de regular prevenir o informar a los usuarios en tránsito. Son elementos visuales o auditivos que mediante sonidos, símbolos o leyendas tienen por objeto prevenir a los usuarios sobre la existencia de peligros y su naturaleza, determinar las restricciones o prohibiciones que limiten sus movimientos sobre la vialidad, regulaciones sobre la superficie de rodamiento así como proporcionarles las (sic) información necesaria para facilitar sus desplazamientos;
+LXXXI. Obra de Urbanización: Todas aquellas acciones técnicas realizadas con la finalidad de transformar el suelo rústico en Urbano; o bien, adecuar, conservar o mejorar los predios (sic) dominio público, redes de infraestructura y equipamiento destinado a la prestación de servicios Urbanos;
 
-CIV. Señalización Vial: Conjunto de elementos y objetos visuales de contenido informativo, indicativo, restrictivo, preventivo, prohibitivo o de cualquier otro carácter que se colocan en la vialidad, con el objeto de brindar mayor seguridad a todos los sujetos de la movilidad;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-CV. Servicios conexos: Aquellos servicios concesionados o autorizados, que sin ser indispensables para la comunicación o el transporte, sean incidentales o relacionados con el mismo;
+LXXXII. Operador del servicio del Sistema de Bici Pública: Empresa encargada de brindar los servicios del Sistema;
 
-CVI. Servicio Privado de Transporte: Es la actividad por virtud de la cual, mediante el permiso otorgado por la Secretaría, las personas físicas o jurídicas satisfacen sus necesidades de transporte de pasajeros o de carga, relacionadas directamente ya sea con el cumplimiento de su objeto social o con la realización de actividades comerciales, sean éstas de carácter transitorio o permanente y que no se ofrece al público en general;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-CVII. Servicio Público de Transporte: Actividad regulada, controlada y dirigida por el Estado consistente en la prestación del servicio de traslado de personas y cosas en las vías públicas de jurisdicción Estatal y municipal a través del uso de vehículos;
+LXXXIII. Padrón: Registro oficial del parque vehicular en el Estado de Jalisco;
 
-CVIII. Sistema de bicicletas públicas: Sistema de transporte que consiste en la oferta de renta de bicicletas por corta duración, en autoservicio, que ofrece la posibilidad de trayectos unidireccionales en la vía pública y con características de red;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-CIX. Sistema de pago electrónico o prepago: Plataforma tecnológica para el pago sin dinero, sea con elementos electrónicos o prepago de la tarifa autorizada;
+LXXXIV. Parada: Espacio donde se detienen los vehículos de servicio público para ascenso y descenso de pasajeros;
 
-CX. Superficie de rodamiento: Área de una vía urbana o rural, sobre la cual transitan los vehículos;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-CXl. Supervisión: Revisión por parte de la autoridad con el objeto de verificar que las unidades de transporte público de pasajeros y de carga reúnen las condiciones de seguridad, comodidad, y presentación conforme a la norma general de carácter técnico respectiva;
+LXXXV. Parque Vehicular de transporte público: Es el conjunto de unidades destinadas a prestar el servicio público de transporte;
 
-CXII. Tarifa: Es la contraprestación que pagan los usuarios en general por el servicio de transporte público en cualquiera de sus modalidades contempladas en la Ley;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-CXIII. Taxi: Transporte público que se presta en vehículos definidos por la norma técnica correspondiente, solicitado a petición de un usuario y con derecho a percibir el pago de un precio con tarifa determinada mediante el uso de un dispositivo electrónico o mecánico o por zona de acuerdo a la tarifa autorizada;
+LXXXVI. Par vial: Funcionamiento de dos vías paralelas y relativamente cercanas entre sí, cada una con sentido único de circulación, pero diferente entre ellas y que pueden contar con semaforización y sistemas electrónicos para darle fluidez a la circulación;
 
-CXIV. Taxímetro: Es un dispositivo electrónico o mecánico instalado en los vehículos de transporte público de pasajeros sin itinerario fijo denominados taxi;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-CXV. Terminal: Espacio físico en el cual terminan y comienzan las rutas;
+LXXXVII. Peatón: Toda persona que se desplaza de un lugar a otro por las vías públicas, ya sea a pie o mediante equipo auxiliar para personas con discapacidad;
 
-CXVI. Transporte escolar: El destinado al transporte de estudiantes de instituciones educativas, que operaran con el itinerario y horario que satisfaga las necesidades particulares de la institución educativa, el costo del servicio será el acordado entre éstas y el prestador del servicio, este servicio se presta en vehículos de acuerdo a la norma general de carácter técnico para transporte especializado;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-CXVII. Transporte de personal: Los destinados al transporte de trabajadores a las empresas o industrias en que laboran, que se presta como un servicio por parte de las empresas. Siendo materia del contrato entre la empresa y el prestador las condiciones del mismo y este servicio se presta en vehículos de acuerdo a la norma general de carácter técnico para transporte especializado;
+LXXXVIII. Perito: Servidor público de la Secretaría con conocimientos técnicos, capacitación y experiencia necesaria en el estudio y emisión de opiniones técnicas sobre hechos del tránsito terrestre, así como en el manejo de equipos de medición necesarios para la aplicación de pruebas de alcoholimetría en aire espirado y en la interpretación del resultado obtenido en dichas pruebas;
 
-CXVIII. Transporte turístico: Los destinados al transporte de pasajeros solamente a lugares de interés turístico, arqueológico. Arquitectónico, panorámico o artístico, mediante la renta por horas o días del vehículo y conductor, no estando sujeto a horario y tarifa fija, este servicio se presta en autobuses de distintas capacidades, acondicionados especialmente para brindar comodidad a los pasajeros;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-CXIX. Tránsito: Acción o efecto de trasladarse de un lugar a otro por la vía pública;
+LXXXIX. Permiso para Conducir: Es el documento público por el que la Secretaría autoriza a menores de edad a conducir un vehículo, bajo la tutela y responsabilidad civil del padre o tutor;
 
-CXX. Vehículo: Medio de transporte terrestre que funciona a base de motor o cualquier otra forma de propulsión destinado a la transportación de personas o cosas; y
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-CXXI. Viaducto: Las calles con amplitud de avenidas, con o sin camellón o faja separadora y sin cruceros a nivel;
+XC. Persona con Discapacidad: Todo ser humano que tiene ausencia o disminución congénita o adquirida de alguna aptitud o capacidad física, mental, intelectual o sensorial, de manera parcial o total, que le impida o dificulte su pleno desarrollo o integración efectiva al medio que lo rodea, de manera temporal o permanente;
 
-CXXII. Vialidad: Conjunto de servicios relacionados con las vías públicas, así como las infraestructuras que las componen, que son utilizados por vehículos o personas para trasladar de un lugar a otro;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-CXXIII. Vialidad Primaria: Aquella vía principal para el movimiento de grandes volúmenes de tránsito, entre las áreas que forman parte del sistema de red vial en un centro de población;
+XCI. Periférico: Vialidad primaria con separación central, física o pintada, o con camellón que circunda la periferia de una zona urbana;
 
-CXXIV. Vialidad Secundaria: Son las que permiten el movimiento del tránsito entre áreas o partes de la ciudad y que dan servicio directo a las vías primarias;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-CXXV. Vía Rápida: Vialidad que permite la libre circulación de vehículos con intersecciones a desnivel con otras vías de circulación;
+XCII. Placas: Es el documento expedido por el Ejecutivo del Estado para registro e identificación de un vehículo. Consiste en la combinación de caracteres alfabéticos y numéricos que identifica e individualiza el vehículo respecto a los demás, se representan en lámina metálica, en la que se graban o adhieren de forma inalterable los caracteres, en los términos de la Norma Oficial Mexicana;
 
-CXXVI. Vías Públicas: Superficies del dominio público que se utilizan para el tránsito de los sujetos de la movilidad;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-CXXVII. Usuario: Persona física o jurídica que hace uso del servicio público de transporte de pasajeros o de carga, en cualquiera de sus modalidades del equipamiento auxiliar de éstos y de las vialidades;
+XCIII. Prestadores del Servicio de transporte público bajo demanda mediante aplicaciones móviles: Propietarios del vehículo autorizado por la Secretaría para prestar ese servicio a través de una plataforma electrónica operada por una empresa de redes de transporte en los términos de la Ley y este Reglamento;
 
-CXXVIII. Zona 30: Es el área de accesibilidad preferencial determinada con señalamientos, para reducir la velocidad a un máximo de treinta kilómetros por hora, otorgando a peatones, ciclistas y usuarios del transporte público, preferencia permanente sobre automóviles, motocicletas y cualquier otro tipo de vehículo motorizado;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-CXXIX. Zona Prohibida: Los lugares en donde se encuentren señalamientos prohibitivos de circulación; y
+XCIV. Prueba de Alcoholimetría: Es la toma de una muestra del aire espirado en dos etapas, resultante del proceso respiratorio de un individuo, en busca de la presencia y concentración de alcohol en el organismo, lo anterior con un equipo técnico de medición en aire espirado denominado alcoholímetro, pudiendo arrojarse un resultado cualitativo y/o cuantitativo, dependiendo el tipo de prueba practicado, siendo la primera etapa de la prueba la que determina la presencia o no de alcohol en el organismo y la segunda la concentración de alcohol en el sujeto al que se aplica;
 
-CXXX. Zona prohibida para vehículos pesados: Es el área en las vías públicas por donde se restringe el paso de vehículos pesados y que esencialmente lo constituyen, los carriles centrales de las avenidas, el tercer carril del lado izquierdo, el segundo carril cuando no sea usado exclusivamente para rebasar y los lugares en donde se encuentren señalamientos prohibitivos de circulación a vehículos pesados.
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XCV. Puntos de Revisión Aleatoria: Espacio en la Vía Pública que atendiendo a su naturaleza preventiva deberá estar debidamente delimitado con el señalamiento y demás implementos que garanticen su identificación, así como la seguridad del personal que lo integra y de los conductores que sean ingresados al mismo a efecto de que se practiquen las pruebas de alcoholimetría conforme al caso corresponda;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XCVI. Rebasar: Maniobra que realiza el conductor de un vehículo adelantando al vehículo que le precede misma que sólo se permite por la izquierda;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XCVII. Región metropolitana: Es la delimitación geográfica integrada por un área metropolitana y uno o más centros de población, geográficamente cercanos, con tendencias de crecimiento que los acerquen y relaciones socioeconómicas con aquella, declarada oficialmente con ese carácter por decreto del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XCVIII. Registro Público Vehicular: Es un registro de información a nivel nacional que tiene como propósito otorgar seguridad pública y jurídica a los actos que se realicen con vehículos que circulen en territorio nacional, mediante la identificación y control vehicular; además de brindar servicios de información al público, en los términos de la Ley del Registro Público Vehicular;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XCIX. Reglamento específico: Reglamento de la Ley de Movilidad y Transporte específico para regularizar la cobertura y distribución del servicio de transporte público, colectivo, masivo, de taxi y radiotaxi, de conformidad con el Programa General de Transporte para el Estado de Jalisco;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+C. Reincidencia: La comisión de dos o más infracciones de carácter administrativo iguales, que son motivo de una conducta de riesgo y contravienen las disposiciones de la ley y su reglamento, en los periodos que se establezcan;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CI. Retorno o despacho: Estación temporal para el ajuste de la frecuencia de paso y revisión de los puntos de seguridad de los autobuses;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CII. Reversa: Movimiento que se da en retroceso al de la circulación normal de un vehículo;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CIII. Secretaría: La Secretaría de Movilidad del Estado;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CIV. Seguridad Vial: Conjunto de medidas tendientes a preservar la integridad física de las personas con motivo de sus desplazamientos en las vías públicas;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CV. Semáforo: Dispositivo eléctrico para regular el tránsito, mediante juegos de luces;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CVI. Sentido contrario: Circulación de un vehículo en contra del sentido establecido en las vías públicas;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CVII. Señal: Son los dispositivos o elementos oficiales que se instalan previo un estudio de ingeniería de tránsito que tienen como finalidad de regular prevenir o informar a los usuarios en tránsito. Son elementos visuales o auditivos que mediante sonidos, símbolos o leyendas tienen por objeto prevenir a los usuarios sobre la existencia de peligros y su naturaleza, determinar las restricciones o prohibiciones que limiten sus movimientos sobre la vialidad, regulaciones sobre la superficie de rodamiento así como proporcionarles las (sic) información necesaria para facilitar sus desplazamientos;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CVIII. Señalización Vial: Conjunto de elementos y objetos visuales de contenido informativo, indicativo, restrictivo, preventivo, prohibitivo o de cualquier otro carácter que se colocan en la vialidad, con el objeto de brindar mayor seguridad a todos los sujetos de la movilidad;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CIX. Servicios conexos: Aquellos servicios concesionados o autorizados, que sin ser indispensables para la comunicación o el transporte, sean incidentales o relacionados con el mismo, así como los que prestan las empresas de redes de transporte;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CX. Servicio Privado de Transporte: Es la actividad por virtud de la cual, mediante el permiso otorgado por la Secretaría, las personas físicas o jurídicas satisfacen sus necesidades de transporte de pasajeros o de carga, relacionadas directamente ya sea con el cumplimiento de su objeto social o con la realización de actividades comerciales, sean éstas de carácter transitorio o permanente y que no se ofrece al público en general;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CXI. Servicio Público de Transporte: Actividad regulada, controlada y dirigida por el Estado consistente en la prestación del servicio de traslado de personas y cosas en las vías públicas de jurisdicción Estatal y municipal a través del uso de vehículos;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CXII. Sistema de bicicletas públicas: Sistema de transporte que consiste en la oferta de renta de bicicletas por corta duración, en autoservicio, que ofrece la posibilidad de trayectos unidireccionales en la vía pública y con características de red;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CXIII. Sistema de pago electrónico o prepago: Plataforma tecnológica para el pago sin dinero, sea con elementos electrónicos o prepago de la tarifa autorizada; así como el conjunto de instrumentos, procedimientos bancarios y, por lo general, sistemas interbancarios de transferencia de fondos que aseguran la circulación del dinero a través de sistemas electrónicos;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CXIV. Sistema de pago electrónico Interbancario: Sistema de pago que ofrece a sus participantes servicios de transferencias electrónicas en tiempo real a través de la banca por internet o de la banca móvil;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CXV. Superficie de rodamiento: Área de una vía urbana o rural, sobre la cual transitan los vehículos;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CXVI. Supervisión: Revisión por parte de la autoridad con el objeto de verificar que las unidades de transporte público de pasajeros y de carga reúnen las condiciones de seguridad, comodidad, y presentación conforme a la norma general de carácter técnico respectiva;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CXVII. Tarifa: Es la contraprestación que pagan los usuarios en general por el servicio de transporte público en cualquiera de sus modalidades contempladas en la Ley;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CXVIII. Taxi: Transporte público individual que se presta en vehículos definidos por la norma técnica correspondiente, solicitado a petición de un usuario y con derecho a percibir el pago de un precio con tarifa determinada mediante el uso de un dispositivo electrónico o mecánico o por zona de acuerdo a la tarifa autorizada;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CXIX. Taxímetro: Es un dispositivo electrónico o mecánico instalado en los vehículos de transporte público de pasajeros sin itinerario fijo denominados taxi;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CXX. Terminal: Espacio físico en el cual terminan y comienzan las rutas;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CXXI. Transferencias Electrónicas de Fondos: permite a los usuarios programar el envió de dinero a través de medios electrónicos a una cuenta de cheques o tarjeta de débito en cualquiera de las instituciones financieras localizadas dentro del territorio nacional;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CXXII. Transpondedor o etiqueta: Etiqueta con antena para comunicación con un dispositivo lector mediante ondas de radio;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CXXIII. Transporte Colectivo: Servicio de transporte público de pasajeros que se presta en virtud de un título otorgado por la Secretaría, cuyo servicio se contrata y paga por cada pasajero con independencia del punto de origen y destino; conforme a las características y especificaciones que establezca la Ley y el reglamento respectivo;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CXXIV. Transporte de pasajeros bajo demanda mediante aplicaciones móviles: Servicio de transporte individual de pasajeros de punto a punto, que se oferta, contrata y paga a través de una aplicación móvil administrada por empresas de redes de transporte previamente autorizadas por la Secretaría;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CXXV. Transporte de personal: Los destinados al transporte de trabajadores a las empresas o industrias en que laboran, que se presta como un servicio por parte de las empresas. Siendo materia del contrato entre la empresa y el prestador las condiciones del mismo y este servicio se presta en vehículos de acuerdo a la norma general de carácter técnico para transporte especializado;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CXXVI. Transporte escolar: El destinado al transporte de estudiantes de instituciones educativas, que operaran con el itinerario y horario que satisfaga las necesidades particulares de la institución educativa, el costo del servicio será el acordado entre éstas y el prestador del servicio, este servicio se presta en vehículos de acuerdo a la norma general de carácter técnico para transporte especializado;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CXXVII. Transporte individual: servicio de transporte que se presta a un solo contratante por viaje, independientemente del número de pasajeros que se transporten atendiendo a la capacidad del vehículo, misma que no podrá exceder de siete ocupantes incluido el conductor;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CXXVIII. Transporte turístico: Los destinados al transporte de pasajeros solamente a lugares de interés turístico, arqueológico, arquitectónico, panorámico o artístico, mediante la renta por horas o días del vehículo y conductor, no estando sujeto a horario y tarifa fija, este servicio se presta en autobuses de distintas capacidades, acondicionados especialmente para brindar comodidad a los pasajeros;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CXXIX. Tránsito: Acción o efecto de trasladarse de un lugar a otro por la vía pública;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CXXX. Vehículo: Medio de transporte terrestre que funciona a base de motor o cualquier otra forma de propulsión destinado a la transportación de personas o cosas;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CXXXI. Viaducto: Las calles con amplitud de avenidas, con o sin camellón o faja separadora y sin cruceros a nivel;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CXXXII. Vialidad: Conjunto de servicios relacionados con las vías públicas, así como las infraestructuras que las componen, que son utilizados por vehículos o personas para trasladar de un lugar a otro;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CXXXIII. Vialidad Primaria: Aquella vía principal para el movimiento de grandes volúmenes de tránsito, entre las áreas que forman parte del sistema de red vial en un centro de población;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CXXXIV. Vialidad Secundaria: Son las que permiten el movimiento del tránsito entre áreas o partes de la ciudad y que dan servicio directo a las vías primarias;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CXXXV. Vía Rápida: Vialidad que permite la libre circulación de vehículos con intersecciones a desnivel con otras vías de circulación;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CXXXVI. Vías Públicas: Superficies del dominio público que se utilizan para el tránsito de los sujetos de la movilidad;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CXXXVII. Usuario: Persona física o jurídica que hace uso del servicio público de transporte de pasajeros o de carga, en cualquiera de sus modalidades del equipamiento auxiliar de éstos y de las vialidades;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CXXXVIII. Zona 30: Es el área de accesibilidad preferencial determinada con señalamientos, para reducir la velocidad a un máximo de treinta kilómetros por hora, otorgando a peatones, ciclistas y usuarios del transporte público, preferencia permanente sobre automóviles, motocicletas y cualquier otro tipo de vehículo motorizado;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CXXXIX. Zona Prohibida: Los lugares en donde se encuentren señalamientos prohibitivos de circulación; y
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+CXL. Zona prohibida para vehículos pesados: Es el área en las vías públicas por donde se restringe el paso de vehículos pesados y que esencialmente lo constituyen, los carriles centrales de las avenidas, el tercer carril del lado izquierdo, el segundo carril cuando no sea usado exclusivamente para rebasar y los lugares en donde se encuentren señalamientos prohibitivos de circulación a vehículos pesados.
 
 ### CAPÍTULO II. DE LA NORMATIVIDAD COMPLEMENTARIA
 
@@ -805,41 +1069,55 @@ IV. Las demás que se señalen en la presente ley y demás ordenamientos legales
 
 ### CAPÍTULO V. DE LOS USUARIOS DEL TRANSPORTE PÚBLICO
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 51.
 
-Los usuarios del transporte público son aquellos que utilicen los vehículos destinados a prestar dicho servicio en cualquiera de sus modalidades que contempla la Ley y los reglamentos que emanen de ella.
+Los usuarios del transporte público son aquellos que utilizan los vehículos destinados a prestarlo en cualquiera de las modalidades que contempla la Ley y los reglamentos que emanen de ella.
 
 Son derechos de los usuarios:
 
 I. A que se les brinde un servicio bajo los principios de puntualidad, higiene, orden, seguridad, generalidad, accesibilidad, uniformidad, continuidad, adaptabilidad, permanencia, oportunidad, eficacia y eficiencia;
 
-> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2013)</small>
-
-II. Los usuarios que sean personas con alguna discapacidad tienen el derecho específico de que las rutas del servicio de transporte público de pasajeros masivo y colectivo cuenten por lo menos con un veinte por ciento de asientos en sus unidades y por lo menos el diez por ciento de ellas sean unidades adaptadas para facilitar sus desplazamientos de conformidad a lo establecido en los artículos 101, fracción II y 126 de la Ley, y la norma técnica correspondiente;
+II. Los usuarios que sean personas con alguna discapacidad tienen el derecho específico de que las rutas del servicio de transporte público de pasajeros masivo y colectivo cuenten por lo menos con un veinte por ciento de asientos en sus unidades y por lo menos el diez por ciento de ellas sean unidades adaptadas para facilitar sus desplazamientos de conformidad a lo establecido en los artículos 101, fracción II y 126 de la Ley y la norma técnica correspondiente;
 
 III. A recibir un trato digno y respetuoso por parte de los prestadores del servicio de transporte, en cualquiera de sus modalidades, primordialmente los menores de edad, mujeres embarazadas, personas con discapacidad y adultos mayores;
 
 IV. A que el servicio sea gratuito para los niños menores de cinco años o hasta de un metro con diez centímetros metros (sic) de altura, acompañados de una persona mayor de edad;
 
-V. Todos los usuarios tienen derecho a recibir el boleto, factura o comprobante según corresponda a la modalidad del transporte público utilizado contra entrega del pago correspondiente, así como a que se le garantice los posibles daños a su patrimonio o lesiones, que puedan sufrir con motivo de la prestación del servicio. El boleto o comprobante que acredite el pago del servicio deberá indicar:
+V. Todos los usuarios tienen derecho a recibir el boleto, factura electrónica o comprobante según corresponda a la modalidad del transporte público utilizado contra entrega del pago correspondiente, así como a que se le garantice los posibles daños a su patrimonio o lesiones, que puedan sufrir con motivo de la prestación del servicio.
+
+Los usuarios del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles, recibirán como comprobante de pago factura electrónica, misma que será remitida a la dirección de correo electrónico registrado para tal fin en la aplicación electrónica.
+
+El boleto o comprobante que acredite el pago del servicio deberá indicar:
 
 a) La modalidad y clase del servicio;
 
-b) El concesionario o en su caso a la empresa que presta el servicio;
+b) El concesionario, permisionario, subrogatario, autorizado o en su caso a la empresa que presta el servicio;
 
-c) Ruta, número económico, placas de circulación del vehículo asignado;
+c) Ruta, número económico, placas de circulación del vehículo asignado o bien puntos de origen y destino del servicio;
 
-d) Señalar el precio o cuota pagada por el usuario;
+d) Número de autorización del prestador del servicio, nombre de la empresa de redes de transporte a la que pertenece y placas de circulación del vehículo en el caso del servicio de transporte público de pasajeros a través de aplicaciones móviles;
 
-e) Indicar los teléfonos, dirección, sitio oficial de Internet para levantar quejas directas de la Secretaría por el mal servicio que pudiera darse; y
+e) Señalar el precio o cuota pagada por el usuario;
 
-f) Deberá contener la información sobre el seguro que protege al usuario contra los posibles riesgos en su transportación, así como los montos de cobertura y formas de hacer efectivo su pago, en los casos de transporte de carga deberá señalarse los montos que garantizan los posibles daños a la carga.
+f) Indicar los teléfonos, dirección, sitio oficial de Internet para levantar quejas directas de la Secretaría por el mal servicio que pudiera darse;
+
+g) La información en relación con el seguro que cubra los daños que puedan causarse a los ocupantes del vehículo y a terceros, tanto en sus bienes como en sus personas, servicio, así como los montos de las coberturas amparadas y la forma de hacer efectivo el pago;
+
+h) Placas, marca y modelo del vehículo;
+
+i) Nombre del conductor del vehículo cuyo servicio fue solicitado;
+
+j) Cantidad de kilómetros recorridos;
+
+k) Tarifa pagado por el usuario y horario de la prestación del servicio.
 
 En su caso, tienen derecho de recibir el comprobante fiscal o la factura cuando así proceda y lo solicite, en los términos de la legislación fiscal.
 
 VI. Los usuarios solicitarán su ascenso o descenso dentro de los lugares establecidos y autorizados para ese efecto; y
 
-VII. El servicio de taxi se podrá interrumpir cuando el usuario exija conducir el vehículo por lugar intransitable o represente notorio peligro para el usuario o conductor, o se contravengan las disposiciones de la Ley, el reglamento o la norma técnica correspondiente.
+VII. El servicio de taxi y el de transporte de pasajeros bajo demanda mediante aplicaciones móviles, se podrá interrumpir cuando el usuario exija conducir el vehículo por lugar intransitable o represente notorio peligro para el usuario o conductor, o se contravengan las disposiciones de la Ley, el reglamento o la norma técnica correspondiente.
 
 ###### Artículo 52.
 
@@ -883,13 +1161,33 @@ III. En el servicio de los vehículos de arrendamiento, el usuario debe realizar
 
 IV. En el servicio de transporte de carga liviana en cualquiera de sus modalidades, los usuarios pueden convenir libremente con los prestadores del servicio las tarifas y formas de pago, siempre y cuando el acuerdo resulte ser menor de lo establecido en el tabulador de tarifa vigente emitido por el Ejecutivo del Estado;
 
-V. En el servicio de grúas, se pagará el servicio de acuerdo a la tarifa autorizada, en los casos de que se haga presente en el lugar requerido y no se utilice el servicio, se pagará la tarifa autorizada para el caso; y
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-VI. En el caso de los usuarios de transporte especializado como son, de ambulancias en el traslado de enfermos o accidentados, de personas con discapacidad, de transporte escolar, de empresas funerarias, turístico, deberán sujetarse al pago de la tarifa autorizada y a las condiciones del contrato de prestación de servicios.
+V. En el servicio de grúas, se pagará el servicio de acuerdo a la tarifa autorizada, en los casos de que se haga presente en el lugar requerido y no se utilice el servicio, se pagará la tarifa autorizada para el caso;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+VI. En el caso de los usuarios de transporte especializado como son, de ambulancias en el traslado de enfermos o accidentados, de personas con discapacidad, de transporte escolar, de empresas funerarias, turístico, deberán sujetarse al pago de la tarifa autorizada y a las condiciones del contrato de prestación de servicios; y
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+VII. En el servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles, el costo del servicio se cargará a través de la aplicación móvil.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+Las formas de pago electrónico podrán ser tarjetas bancarias, pagos móviles, tarjetas de prepago, tarjetas de pago sin contacto mediante tecnología contactless, billeteras virtuales, sistema de pago electrónico interbancario, transferencia electrónica de fondos o cualquier otro permitido por la Legislación vigente que garantice pagos eficientes, de menor costo y seguros.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+Para ello las empresas de redes de transporte autorizadas deberán acreditar el cumplimiento de las normas de seguridad que establezcan las disposiciones de la materia, conforme a los lineamientos que expida la Secretaría.
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 54.
 
-Para garantizar los derechos de los usuarios, la Secretaría mediante la Unidad Administrativa que designe, recibirá las quejas de los usuarios respecto del mal servicio del que pudieran ser objetos y realizará operativos aleatorios, permanentes, itinerantes y discrecionales, para verificar, documentos, vehículos, instalaciones de los concesionarios, subrogatarios y permisionarios, o de los que cuenten con alguna autorización para prestar el servicio de transporte público en cualquiera de sus modalidades, a efecto de que cumplan, con lo estipulado en el contrato de calidad del servicio y lo dispuesto por la Ley y los reglamentos que de ella emanen.
+Para garantizar los derechos de los usuarios, la Secretaría mediante la Unidad Administrativa que designe, recibirá las quejas de los usuarios respecto del mal servicio del que pudieran ser objetos y realizará operativos aleatorios, permanentes, itinerantes y discrecionales, para verificar, documentos, vehículos, instalaciones, equipos, sistemas, página web, aplicación móvil y bases de datos de los concesionarios, subrogatarios y permisionarios, o de los que cuenten con alguna autorización para prestar el servicio de transporte público en cualquiera de sus modalidades o servicio conexo, a efecto de que cumplan, con lo estipulado en el contrato de calidad del servicio y lo dispuesto por la Ley y los reglamentos que de ella emanen.
+
+En el caso del servicio que gestionan las empresas de redes de transporte, la Secretaría atenderá las quejas relativas a la prestación del servicio de transporte, no así a las relacionadas con el funcionamiento y soporte virtual de la aplicación móvil o del sistema privado electrónico de pago, las que se rigen por la legislación de la materia.
 
 ###### Artículo 55.
 
@@ -1115,7 +1413,9 @@ V. Tratándose de vehículos adaptados para personas con discapacidad deberán o
 
 VI. Cobrar únicamente con la tarifa autorizada, debiendo aplicar los descuentos y excepciones de pago que se dispongan en la Ley y éste Reglamento;
 
-VII. Proporcionar amablemente al usuario, el boleto o comprobante contra entrega del pago correspondiente, que contenga la información respectiva del vehículo con el que se presta el servicio, y que además garantice los posibles daños a su patrimonio o lesiones, que puedan sufrir con motivo de la prestación del servicio, al momento de que el usuario utilice un sistema de prepago, indefectiblemente se deberá cumplir con lo dispuesto anteriormente;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+VII. Proporcionar amablemente al usuario, el boleto o comprobante contra entrega del pago correspondiente, que contenga la información respectiva del vehículo con el que se presta el servicio, y que además garantice los posibles daños a su patrimonio o lesiones, que puedan sufrir con motivo de la prestación del servicio, al momento de que el usuario utilice un sistema de prepago, indefectiblemente se deberá cumplir con lo dispuesto anteriormente. En el caso del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles, tal obligación será tanto para el propietario del vehículo como para el conductor del mismo, el comprobante de pago con las características antes citadas, se remitirá a la dirección del correo electrónico registrado por el usuario en la aplicación móvil;
 
 VIII. No fumar mientras se conduce o se presta el servicio, ni permitir que o (sic) hagan los usuarios;
 
@@ -1147,9 +1447,9 @@ XXI. Antes de iniciar la marcha para prestar el servicio, siempre deberá verifi
 
 XXII. En el caso del transporte colectivo y masivo, el conductor deberá en todo momento circular con las luces principales e interiores encendidas, caso contrario se aplicará la sanción establecida de conformidad con los artículos 174 y 191 fracción XIII de la Ley; y
 
-> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-XXIII. Los conductores y operadores del servicio de transporte público, ya sea colectivo, masivo o individual de taxi con sitio o radio taxi, están obligados a tomar cursos de capacitación, cuando menos una vez al año, con una carga horaria de cuando menos cuarenta horas, con el fin de que mejore su pericia y sus capacidades de manejo, así como cursos de capacitación y sensibilización sobre los derechos de los usuarios y los demás sujetos de la movilidad.
+XXIII. Los conductores y operadores del servicio de transporte público, ya sea colectivo, masivo o individual de taxi con sitio, radio taxi o de vehículos de transporte de pasajeros bajo demanda mediante aplicaciones móviles, están obligados a tomar cursos de capacitación, cuando menos una vez al año, con una carga horaria de cuando menos cuarenta horas, con el fin de que mejore su pericia y sus capacidades de manejo, así como cursos de capacitación y sensibilización sobre los derechos de los usuarios y los demás sujetos de la movilidad.
 
 La contravención o incumplimiento de estas disposiciones así como los de la Ley y el presente reglamento serán causales de suspensión y cancelación de licencia y gafete respectivamente según la gravedad o reincidencia.
 
@@ -1173,9 +1473,17 @@ VII. No Vestir de manera adecuada para la conducción del vehículo, deberá evi
 
 VIII. No ceder siempre el derecho de paso a personas con discapacidad, mujeres embarazadas, peatones, usuarios de vehículos no motorizadas, así como mostrar consideración y cortesía a los pasajeros. Cualquier indiferencia o expresión despreciativa a esta regla, representa evidencia suficiente para declarar la inhabilitación del conductor;
 
-IX. No otorgar el tiempo suficiente a los pasajeros para abordar o descender del autobús, cuidando de no arrancar la unidad hasta que las puertas se encuentren perfectamente cerradas. En caso de personas con discapacidad, de la tercera edad, mujeres embarazadas o con niños pequeños, deben dar el tiempo necesario para que éstas se instalen en el interior del vehículo o en la banqueta; y
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-X. Efectuar maniobras de ascenso y descenso de pasajeros en los lugares no autorizados por la Secretaría, o señalados expresamente en las concesiones.
+IX. No otorgar el tiempo suficiente a los pasajeros para abordar o descender del autobús, cuidando de no arrancar la unidad hasta que las puertas se encuentren perfectamente cerradas. En caso de personas con discapacidad, de la tercera edad, mujeres embarazadas o con niños pequeños, deben dar el tiempo necesario para que éstas se instalen en el interior del vehículo o en la banqueta;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+X. Efectuar maniobras de ascenso y descenso de pasajeros en los lugares no autorizados por la Secretaría, o señalados expresamente en las concesiones;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XI. Modificar las características de la modalidad permitida, concesionada o autorizada a las cuales deberá sujetarse el titular el titular (sic) de la concesión, permiso o autorización.
 
 ###### Artículo 71.
 
@@ -1248,6 +1556,20 @@ IX. Los conductores deberán mantener el vehículo libre de adornos y aditamento
 X. Deberán portar vestimenta autorizada por la Secretaría, en todo caso, sin manchas ni malos olores. Está prohibido expresamente el uso de calzado que pueda dificultar la conducción, así como la utilización de ropa deportiva; y
 
 XI. Portar a la vista la bandera o letrero indicativo de la situación del servicio.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+Artículo 73 bis. Los conductores o choferes del servicio de transporte público de pasajeros bajo demanda mediante aplicaciones móviles tendrán las siguientes obligaciones:
+
+I. Mantener actualizada su inscripción ante el Registro Estatal;
+
+II. Cumplir con las disposiciones señaladas en este Reglamento para los conductores de transporte público;
+
+III. Contar con licencia de chofer vigente para la prestación del servicio;
+
+IV. Portar el gafete de identificación expedido por la Secretaría; y
+
+V. Prestar el Servicio de transporte de pasajeros acatando las normas técnicas de calidad y operación de la empresa de redes de transporte a la cual se encuentren afiliados o registrados, bajo las características y reglas que definen la modalidad.
 
 ## TÍTULO CUARTO. DE LA EDUCACIÓN, CULTURA Y SEGURIDAD VIAL
 
@@ -1349,13 +1671,15 @@ De acuerdo con el artículo 19 fracción VIII; 21 fracción VIII y 41 de la Ley,
 
 Los modelos de capacitación especializada se impartirán en las siguientes modalidades para Transporte Público:
 
-I. Pasajeros en sus siete modalidades: Masivo, Colectivo, Urbano, Conurbano o Metropolitano, Suburbano, Mixto o Foráneo, Interurbano e Intermunicipal, Rural, Características Especiales;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+I. Pasajeros en sus modalidades: Masivo, Colectivo, Urbano, Con urbano (sic) o Metropolitano, Suburbano, Mixto o Foráneo, Interurbano e Intermunicipal, Rural, Características Especiales;
 
 II. Taxis en sus dos modalidades: Taxi con sitio y Radio Taxi;
 
-> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-III. Servicio de Transporte Especializado en sus nueve modalidades: Escolar, Personas con Discapacidad, de Personal, Turístico, Ambulancias, Funerarias, Auto Escuela para el Aprendizaje de Manejo, y de Carga Liviana con Sitios;
+III. Servicio de Transporte Especializado en sus nueve modalidades: Escolar, Personas con Discapacidad, de Personal, Turístico, Ambulancias, Funerarias, Auto Escuela para el Aprendizaje de Manejo, Carga Liviana con Sitios y de pasajeros bajo demanda mediante aplicaciones móviles;
 
 IV. De carga en sus dos modalidades:
 
@@ -1491,9 +1815,17 @@ e) C4 La licencia de este tipo autoriza conducir, vehículos para el transporte 
 
 f) C5 La licencia de este tipo autoriza conducir vehículos acondicionados a la norma técnica correspondiente para el transporte escolar y para personas con discapacidad; con una edad mínima para obtenerla de veintidós años cumplidos y tener previamente una licencia tipo B+E con mínimo cuatro años de antigüedad;
 
-g) D1 La licencia de este tipo autoriza conducir maquinaria con rodamiento neumático y equipo móvil especial cualquiera que sea el uso o finalidad a la que se destine; con una edad mínima para obtenerla de veintidós años cumplidos y tener previamente una licencia tipo B+E con mínimo cuatro años de antigüedad; y
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
-h) D2 La licencia de este tipo autoriza conducir vehículos adaptados para prestar servicios de seguridad, emergencia y protección civil; con una edad mínima para obtenerla de veintidós años cumplidos y tener previamente una licencia tipo B+E con mínimo cuatro años de antigüedad.
+g) D1 La licencia de este tipo autoriza conducir maquinaria con rodamiento neumático y equipo móvil especial cualquiera que sea el uso o finalidad a la que se destine; con una edad mínima para obtenerla de veintidós años cumplidos y tener previamente una licencia tipo B+E con mínimo cuatro años de antigüedad;
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+h) D2 La licencia de este tipo autoriza conducir vehículos adaptados para prestar servicios de seguridad, emergencia y protección civil; con una edad mínima para obtenerla de veintidós años cumplidos y tener previamente una licencia tipo B+E con mínimo cuatro años de antigüedad; y
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+i) D3 La licencia de este tipo autoriza a conducir vehículos de transporte público de pasajeros bajo demanda mediante aplicaciones móviles, con capacidad de no más de siete pasajeros incluido el conductor; con una edad mínima para obtenerla de veintidós años cumplidos y tener previamente una licencia tipo B+E con mínimo cuatro años de antigüedad.
 
 ###### Artículo 93.
 
@@ -1527,9 +1859,13 @@ VI. Presentarse al curso de capacitación de acuerdo al tipo de licencia o permi
 
 VII. Aprobar los exámenes físicos, de conocimientos técnicos reglamentarios, de seguridad vial y de manejo que la Secretaría indique;
 
-VIII. En el caso de las Licencias C1, C1+E, C2, C3, C4, C5, D1 Y D2, presentar un examen de (sic) toxicológico con resultado negativo a drogas, estupefacientes o psicotrópicos, con una expedición no mayor a quince días naturales, realizados en los laboratorios autorizados por la Secretaría;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-IX. En el caso de las Licencias de Transporte Público C1, C1+E, C2, C3, C4, C5, D1 Y D2, cumplir con los requisitos de la validación de su licencia de Chofer B+E y pagar los derechos correspondientes;
+VIII. En el caso de las Licencias C1, C1+E, C2, C3, C4, C5, D1, D2, y D3 presentar un examen de toxicológico con resultado negativo a drogas, estupefacientes o psicotrópicos, con una expedición no mayor a quince días naturales, realizados en los laboratorios autorizados por la Secretaría;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+IX. En el caso de las Licencias de Transporte Público C1, C1+E, C2, C3, C4, C5, D1, D2 y D3 cumplir con los requisitos de la validación de su licencia de Chofer B+E y pagar los derechos correspondientes;
 
 X. En el caso de la Licencia (sic) Transporte Público C5 en su modalidad de transporte escolar; cumplir con la constancia idónea que será la carta de anuencia por parte de la institución educativa donde prestará el servicio; para las Licencias D1 y D2 deberán presentar un documento que avale su habilidad y pericia en la conducción de estos vehículos emitida por la institución o empresa donde laboren;
 
@@ -1551,7 +1887,9 @@ Para obtener refrendo o duplicado de licencia o permiso para operar o conducir v
 
 I. Los mismos requisitos previstos en los incisos I, II, III, IV, V Y XII del anterior artículo, en todas las modalidades de Licencias. En el caso de personas extranjeras se cubrirá los requisitos señalados en los incisos I, II, III con los incisos a), b) y c) del artículo anterior; y
 
-II. En el caso de Licencias de Conductor de Servicio de Transporte Público en sus clases C1, C1+E, C2, C3, C4, C5, D1 Y D2 se solicitarán los mismos requisitos previstos en los incisos VIII, IX, X, XI, si así correspondiera.
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+II. En el caso de Licencias de Conductor de Servicio de Transporte Público en sus clases C1, C1+E, C2, C3, C4, C5, D1, D2 y D3 se solicitarán los mismos requisitos previstos en los incisos VIII, IX, X, XI, si así correspondiera.
 
 Como también en los siguientes requisitos:
 
@@ -1559,7 +1897,9 @@ a) Licencia o Permiso vencido del menor o en su caso la Certificación que avale
 
 b) Aprobar el examen físico correspondiente; y
 
-c) En el caso de Licencias de Transporte Público C1, C1+E, C2, C3, C4, C5, D1 Y D2, cumplir con el curso de capacitación de actualización en su modalidad correspondiente.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+c) En el caso de Licencias de Transporte Público C1, C1+E, C2, C3, C4, C5, D1, D2 y D3, cumplir con el curso de capacitación de actualización en su modalidad correspondiente.
 
 ###### Artículo 96.
 
@@ -1571,9 +1911,11 @@ Los exámenes de conocimiento y el examen de manejo se fundamentarán de acuerdo
 
 En caso de no aprobar los exámenes de conocimiento será necesario presentarse al curso de capacitación correspondiente y en caso de reprobar el examen de manejo no podrá ser presentado nuevamente antes de ocho días naturales.
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 98.
 
-En el caso de robo, extravió o deterioro de la Licencia se podrá solicitar la expedición de un duplicado o reposición previo pago de los derechos correspondientes y presentando certificación de este documento; En el caso de las Licencias Transporte Público C1, C1+E, C2, C3, C4, C5, D1 Y D2 para el trámite de certificación será necesario presentar una denuncia ante la Fiscalía General del Estado.
+En el caso de robo, extravió o deterioro de la Licencia se podrá solicitar la expedición de un duplicado o reposición previo pago de los derechos correspondientes y presentando certificación de este documento; en el caso de las Licencias (sic) Transporte Público C1, C1+E, C2, C3, C4, C5, D1, D2 y D3 para el trámite de certificación será necesario presentar una denuncia ante la Fiscalía General del Estado.
 
 ###### Artículo 99.
 
@@ -1683,7 +2025,9 @@ b) Holograma de verificación de gases contaminantes de acuerdo al calendario of
 
 c) Constancia de inscripción en el Registro Público Vehicular; y
 
-d) Tratándose de vehículos con los cuales se preste el servicio de transporte público en cualquiera de sus modalidades, deberá además contar con el documento vigente como concesión, permiso, contrato de subrogación o autorización según sea el caso, revista mecánica vigente, número económico, de ruta, empresa, o en su caso sitio al que pertenece y todos los demás que le obligue la Ley, el presente Reglamento y la norma técnica correspondiente
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+d) Tratándose de vehículos con los cuales se preste el servicio de transporte público en cualquiera de sus modalidades, deberá además contar con el documento vigente como concesión, permiso, contrato de subrogación o autorización según sea el caso, revista mecánica vigente, número económico, de ruta, empresa, o en su caso sitio al que pertenece y todos los demás que le obligue la Ley, el presente Reglamento y la norma técnica correspondiente, así como cualquier otro medio de identificación que les sea obligatorio.
 
 ###### Artículo 107.
 
@@ -1703,9 +2047,17 @@ III. En el caso del transporte público, además de los requisitos obligatorios,
 
 IV. Por la orden de una autoridad competente;
 
-V. Por participación en flagrante delito; y
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-VI. Cuando por causa de utilidad pública e interés general se determine por la autoridad competente.
+V. Por participación en flagrante delito;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+VI. Cuando por causa de utilidad pública e interés general se determine por la autoridad competente; y
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+VII. Cuando se altere cualquiera de los lineamientos, cualidades y condiciones en las que se deben de prestar las diferentes modalidades, así como cualquier otra particularidad que se desprenda de la naturaleza propia del servicio que se trate y de las contenidas en la Ley, reglamentos y norma técnicas aplicables.
 
 ###### Artículo 109.
 
@@ -2239,7 +2591,7 @@ En las arterias con camellones o jardines centrales o laterales, sólo se permit
 
 ###### Artículo 144.
 
-La Secretaría podrá, mediante el señalamiento respectivo, sujetar a determinados horarios y días de la semana la aprobación o prohibición para estacionarse en la vía pública, de acuerdo a la necesidad de las vialidades, asimismo la Secretaría está facultada de acuerdo a las necesidades, (sic) retirar los señalamientos respectivos.
+La Secretaría podrá, mediante el señalamiento respectivo, sujetar a determinados horarios y días de la semana la aprobación o prohibición para estacionarse en la vía pública, de acuerdo a la necesidad de las vialidades, asimismo la Secretaría está facultada de acuerdo a las necesidades, retirar los señalamientos respectivos.
 
 ###### Artículo 145.
 
@@ -2375,25 +2727,31 @@ La declaración universal de accidente, independientemente de si hay o no acuerd
 
 ### CAPÍTULO ÚNICO. DE LAS COBERTURAS SEGÚN EL TIPO DE VEHÍCULO
 
-> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 157.
 
-Todos los vehículos automotores que transiten en el Estado de Jalisco, deberán contar con póliza o constancia de seguro, que ampare el pago de daños a terceros en sus bienes y personas por una suma asegurada de cuando menos cuatro mil días de Salario Mínimo General y para fallecimiento por veinticinco mil días de Salario Mínimo General; la contratación de éstos será responsabilidad del propietario del vehículo, en caso de contravenir esta disposición, se aplicara las sanciones dispuestas por la Ley y el presente Reglamento.
+Todos los vehículos automotores que transiten en el Estado de Jalisco, deberán contar con póliza o constancia de seguro, que ampare el pago de daños a terceros en sus bienes y personas, por una suma asegurada mínima de cuatro mil unidades de medida y actualización (UMA) y para el caso de fallecimiento por veinticinco mil unidades de medida y actualización (UMA); la contratación de éstos será responsabilidad del propietario del vehículo, en caso de contravenir esta disposición, se aplicará las sanciones dispuestas por la Ley y el presente Reglamento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 158.
 
-Todos los vehículos de servicio público de transporte de taxi o radio taxi, deberán contar con póliza o constancia de seguro que ampare el pago de daños a terceros en sus bienes y sus personas por una suma asegurada de cuando menos cuatro mil días de Salario Mínimo General y para fallecimiento por veinticinco mil días de Salario Mínimo General, en caso de contravenir esta disposición, se aplicarán las sanciones dispuestas por la Ley y el presente Reglamento.
+Todos los vehículos afectos al servicio público de transporte público, deberán contar con póliza o constancia de seguro que cubra el pago de daños a terceros en sus bienes como en sus personas, de igual manera el pago de las indemnizaciones a los ocupantes en caso de fallecimiento, incapacidad total o parcial y gastos médicos que se cause con motivo del uso del vehículo afecto a la prestación del servicio que deberá amparar las siguientes sumas aseguradas mínimas para cada una de las coberturas:
 
-Asimismo, deberán garantizar la vida de los usuarios del servicio correspondiente por una suma asegurada de cuando menos cinco mil días de Salario Mínimo General por cada pasajero y tratándose de lesiones, deberá contemplar cuando menos dos mil quinientos días de Salario Mínimo General por cada pasajero.
+a) Indemnización por daños a terceros en sus bienes equivalente a cuarenta mil unidades de medida y actualización (UMA);
+
+b) Indemnización por daños a terceros en sus personas equivalente a cuarenta mil unidades de medida y actualización (UMA);
+
+c) Indemnización en caso de fallecimiento, incapacidad total o parcial de los ocupantes del vehículo equivalente a cinco mil quinientas unidades de medida y actualización (UMA) por cada pasajero incluido el chofer; y
+
+d) Gastos médicos a ocupantes del vehículo equivalentes a dos mil unidades de medida y actualización (UMA) por cada pasajero incluido el chofer.
+
+Los prestadores del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles para obtener su autorización deberán presentar el comprobante de pago de la prima de seguro que cubra la totalidad de la vigencia de la autorización que solicite. En caso de contravenir esta disposición, se aplicarán las sanciones dispuestas por la Ley y el presente Reglamento.
 
 ###### Artículo 159.
 
-Todos los concesionarios del servicio público de transporte colectivo de pasajeros, deberán contar con póliza o constancia de seguro, que ampare el pago de daños a terceros en sus bienes y sus personas por una suma asegurada de cuando menos cuatro mil días de Salario Mínimo General y para fallecimiento por veinticinco mil días de Salario Mínimo General, en caso de contravenir esta disposición, se aplicarán las sanciones dispuestas por la Ley y el presente Reglamento.
-
-Asimismo, deberán garantizar la vida de los usuarios del servicio por una suma asegurada de cuando menos cinco mil días de Salario Mínimo General por cada pasajero y, tratándose de lesiones, deberá contemplar cuando menos dos mil quinientos días de Salario Mínimo General por cada pasajero.
+(DEROGADO, P.O. 9 DE AGOSTO DE 2016)
 
 ###### Artículo 160.
 
@@ -2447,9 +2805,47 @@ VI. Deberán colocarse en forma tal que permita su correcta lectura, evitando al
 
 VII. Las placas son de uso individual y corresponden única y exclusivamente para el vehículo al cual le fueron dotadas;
 
-VIII. El engomado vigente correspondiente a las placas de circulación, deberá adherirse, preferentemente en el cristal posterior del vehículo, o en su caso en cualquier otro cristal del automotor, siempre que se encuentre visible; y
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-IX. Tratándose de placas de vehículos adaptados para personas con discapacidad; para autos antiguos y de demostración, si el vehículo no cumple las características correspondientes, se equipara a la portación de placas sobre puestas y les serán aplicables las sanciones correspondientes.
+VIII. El engomado vigente correspondiente a las placas de circulación, deberá adherirse, preferentemente en el cristal posterior del vehículo, o en su caso en cualquier otro cristal del automotor, siempre que se encuentre visible;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+IX. Tratándose de placas de vehículos adaptados para personas con discapacidad; para autos antiguos y de demostración, si el vehículo no cumple las características correspondientes, se equipara a la portación de placas sobre puestas y les serán aplicables las sanciones correspondientes; y
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+X. Tratándose de vehículos utilizados para la modalidad de transporte de pasajeros bajo demanda mediante aplicaciones móviles, además de lo anterior, deberán contar con un transpondedor o etiqueta como mecanismo de identificación por radiofrecuencia para su lectura, con los siguientes datos dinámicos:
+
+a) Empresa de adscripción.
+
+b) Propietario.
+
+c) Conductor(es).
+
+d) Autorización.
+
+e) Inscripción en el Registro Estatal.
+
+f) Póliza de seguro empresa.
+
+g) Póliza de seguro propietario.
+
+h) Registro vehicular.
+
+i) Placas.
+
+j) Capacidad del vehículo.
+
+k) Número de serie.
+
+l) Numero de motor.
+
+m) Origen.
+
+n) Color.
+
+El transpondedor o etiqueta será proporcionado por la Secretaría y entregado con la autorización.
 
 ## TÍTULO DÉCIMO. DE LOS FACTORES DE RIESGO
 
@@ -2555,17 +2951,21 @@ III. En caso de que el conductor infractor agreda o ponga en peligro la segurida
 
 En el caso de conductores de vehículos de transporte público se considera lo siguiente:
 
-> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-I. Cuando el resultado de la prueba sea entre 0.01 a 0.40 miligramos de alcohol por litro de aire espirado, se sancionará como indica el artículo 186 fracción I de la Ley y se procederá como indica el Protocolo en la materia;
+I. Cuando el resultado de la prueba sea entre .01 a .40 miligramos de alcohol por litro de aire espirado se aplicará la medida de seguridad señalada en el artículo 169 fracción XI de la Ley, independientemente de la multa señalada en el artículo 186 fracciones I y VI de la Ley y se procederá como indica el Protocolo en materia;
 
-> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-II. Cuando el resultado de la prueba sea entre 0.41 a 0.65 miligramos de alcohol por litro de aire espirado, se sancionará como indica el artículo 186 fracción II de la Ley, y con el retiro de la circulación del vehículo al depósito público o privado concesionado correspondiente, y se procederá como indica el Protocolo; y
+II. Cuando el resultado de la prueba sea entre .41 a .65 miligramos de alcohol por litro de aire espirado se sancionará como señala el artículo 186 fracción II de la Ley, con el retiro de la circulación (sic) vehículo al depósito público o privado concesionado correspondiente a otra y se procederá como indica el Protocolo en la materia; y
 
-> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-III. Cuando el resultado de la prueba sea mayor a 0.65 miligramos de alcohol por litro de aire espirado, se sancionará como indica el artículo 186 fracción III de la Ley, y con el retiro de la circulación del vehículo al depósito público o privado concesionado correspondiente, y se procederá como indica el Protocolo en la materia.
+III. Cuando el resultado de la prueba mayor a .65 miligramos de alcohol por litro de aire espirado se sancionará como indica el artículo 186 fracción III de la Ley y se procederá como indica el Protocolo en materia.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+En cualquier supuesto que presente el conductor alguna cantidad de alcohol en la sangre o en aire espirado o síntomas simples de aliento alcohólico o de estar bajo los efectos de narcóticos al momento de conducir un vehículo de transporte público en cualquiera de sus modalidades, el policía vial estatal procederá a retirarle la licencia al conductor, misma que será puesta a disposición del personal de la Secretaría para llevar a cabo el procedimiento administrativo de cancelación en los términos en Ley.
 
 ###### Artículo 180.
 
@@ -2593,9 +2993,11 @@ La banda diagonal atravesando el torso pasando por la clavícula sin dobleces y 
 
 El policía vial, en el caso de detectar a cualquier ocupante de un vehículo en la vía pública donde el cinturón de seguridad este doblado o mal ajustado el policía vial se limitará a exhortar al ocupante para corregir este uso inadecuado y no será motivo de sanción.
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 184.
 
-Todo vehículo motorizado que realice el servicio de taxi de sitio o radio taxi conforme a la fracción II, apartado A del artículo 43 de la Ley, deberá equiparse de acuerdo a lo dispuesto por este Reglamento en cuanto a equipamiento mínimo de seguridad. Por lo anterior se tendrá por establecido como requisito indispensable para la prestación de este servicio que todas las plazas del vehículo cuenten con el cinturón de seguridad adecuado.
+Todo vehículo motorizado que realice el servicio de taxi de sitio o radio taxi conforme a la fracción II, apartado A del artículo 43 de la Ley, así como los vehículos que prestan el servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles, deberá equiparse de acuerdo a lo dispuesto por este Reglamento en cuanto a equipamiento mínimo de seguridad. Por lo anterior se tendrá por establecido como requisito indispensable para la prestación de este servicio que todas las plazas del vehículo cuenten con el cinturón de seguridad adecuado.
 
 ###### Artículo 185.
 
@@ -2651,15 +3053,19 @@ La Secretaría a través de la Unidad Administrativa en materia de Seguridad Via
 
 En todo momento el operador de un vehículo que preste el servicio de taxi de sitio o de radio taxi conforme a la Ley y responderá (sic) por la seguridad de sus pasajeros. El titular de la concesión está obligado a proveer vehículos que reúnan los requisitos mínimos de circulación que este Reglamento ordena.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 193.
 
-El pasajero que utilice el servicio de taxi con sitio y radio taxi tendrá la obligación de usar el cinturón de seguridad. El operador que preste el servicio de taxi está obligado a solicitar al o los pasajeros que utilicen el cinturón de seguridad adecuadamente, y de ser necesario instruirlos en su uso conforme a los términos de este reglamento.
+El pasajero que utilice el servicio de taxi con sitio y radio taxi o el servicio de transporte bajo demanda mediante aplicaciones móviles, tendrá la obligación de usar el cinturón de seguridad. El operador que preste el servicio está obligado a solicitar al o los pasajeros que utilicen el cinturón de seguridad adecuadamente, y de ser necesario instruirlos en su uso conforme a los términos de este Reglamento.
 
 En caso que el usuario se rehúse a utilizarlo, el operador de dicha unidad podrá negar el servicio. Si el operador consintiese en otorgar el servicio pese a la negativa del o los pasajeros de utilizar el cinturón de seguridad adecuadamente, y que por tal razón sea infraccionado por un policía vial, dicha infracción correrá a cargo del operador.
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 194.
 
-Cuando el servicio se preste en cualquiera de las modalidades de taxi, si entre los pasajeros hubiera niños, estos deberán de transportarse en sistema de retención infantil adecuado en los asientos posteriores; será obligación del concesionario dotar de sistemas de retención o asientos elevadores para la flota de vehículos con que cuente.
+Cuando el servicio se preste en cualquiera de las modalidades de taxi o se trate del servicio de transporte bajo demanda mediante aplicaciones móviles, si entre los pasajeros hubiera niños, estos deberán de transportarse en sistema de retención infantil adecuado en los asientos posteriores; será obligación del concesionario o titular de la autorización dotar de sistemas de retención o asientos elevadores para la flota de vehículos con que cuente.
 
 ### CAPÍTULO V. DE LA CONDUCCIÓN A VELOCIDADES INADECUADAS O EXCESIVAS
 
@@ -2691,7 +3097,7 @@ IV. Guantes de diseño específico para protección del motociclista;
 
 V. Botas de diseño específico para protección del motociclista; y
 
-VI. Reflejantes; (sic)
+VI. Reflejantes;
 
 ###### Artículo 197.
 
@@ -2781,13 +3187,19 @@ La violación a lo dispuesto en este artículo por un conductor sólo deberá sa
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 210.
 
-El servicio de transporte público en todas y cada una de las modalidades contempladas en la Ley, es de utilidad pública e interés general y social. La prestación del servicio de transporte en cualquiera de sus modalidades, se regirá por las disposiciones de la Ley, el presente Reglamento, el Reglamento específico, las normas técnicas correspondientes y cualquier otra disposición que regule la prestación del servicio.
+El servicio de transporte público en todas y cada una de las modalidades contempladas en la Ley, es de utilidad pública e interés general y social. La prestación del servicio de transporte en cualquiera de sus modalidades, se regirá por las disposiciones de la Ley, el presente Reglamento, el Reglamento específico, las normas técnicas correspondientes y cualquier otra disposición que regule la prestación del servicio y sus características.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 9 DE AGOSTO DE 2016)</small>
 
 El otorgamiento de los títulos para la prestación de alguno de los servicios señalados en la Ley se realizará en los términos de los reglamentos que de ella emanen.
 
-Las tarifas de todas las modalidades del servicio público de transporte serán definidas por la Comisión respectiva en los términos de la Ley y el Reglamento aplicable.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+Las tarifas de todas las modalidades del servicio público de transporte serán definidas por la Comisión respectiva en los términos de la Ley y el Reglamento aplicable, a excepción del transporte de pasajeros bajo demanda mediante aplicaciones móviles, mismo que se regirá según lo dispuesto por los artículos 150 y 154 de la Ley.
 
 Para los efectos del artículo 67 fracción V de la Ley, cuando se sorprenda a un conductor, operador o chofer del servicio de transporte público, excediendo en el cobro de la tarifa autorizada, se procederá a cancelar la licencia correspondiente al servicio que presta, independientemente de lo anterior, se iniciará el procedimiento correspondiente de revocación de la concesión a que hace alusión el Reglamento respectivo en materia de transporte público.
 
@@ -2797,9 +3209,9 @@ Para prestar el servicio de trasporte público en cualquiera de sus modalidades,
 
 Para efecto de que se analice la posibilidad por parte de la Secretaría de otorgar prórroga, renovación del título para prestar el servicio que corresponda, tomando en consideración el cumplimiento en la calidad del servicio, o incurra de forma reiterada y sistemática en infracciones consideradas graves y por violaciones sustanciales a la Ley o a los Reglamentos que contravenga las disposiciones enunciadas en el párrafo anterior, para lo cual deberá cumplir con los requisitos enunciados en el artículo 105 de la Ley, para tal efecto la Secretaría a través de la Unidad Administrativa correspondiente deberá revisar el expediente y emitir la resolución respectiva.
 
-> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
-Para llevar a cabo las transmisiones, gravamen, enajenación o sustitución de cualquiera de las modalidades de transporte público, la Secretaría previamente deberá aprobar cualquier cambio de situación legal de los títulos o permisos correspondientes, caso contrario se procederá a la revocación en los términos del artículo 146 de la Ley.
+Para llevar a cabo las transmisiones, gravamen, enajenación o sustitución de cualquiera de las modalidades de transporte público, la Secretaría previamente deberá aprobar cualquier cambio de situación legal de los títulos o permisos correspondientes en los términos del artículo 146 de la Ley, cuando no se trate de servicio de transporte bajo demanda mediante aplicaciones móviles en cuyo caso las autorizaciones otorgadas y los derechos que de las mismas se deriven no serán susceptibles de transmisión o sucesión alguna; por lo que al sujeto de la autorización le queda estrictamente prohibida toda transmisión o cesión de los derechos que la misma le conceda; cualquier estipulación o pacto de voluntades en contrario, quedará sin efectos con independencia de las responsabilidades a que diera lugar.
 
 Para los efectos del artículo 191 fracción VII de la Ley se entenderá que se aplican condiciones diferentes a las autorizadas en la prestación del servicio cualquier incumplimiento o contravención a lo dispuesto por la Ley y el presente Reglamento y el Reglamento específico en materia de transporte público.
 
@@ -2911,15 +3323,23 @@ VIII. Todas las demás condiciones derivadas de la Norma General de Carácter T�
 
 ### CAPÍTULO V. DEL SERVICIO ESPECIALIZADO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 218.
 
-Los prestadores del servicio de transporte especializado en cualquiera de sus modalidades, deberán contar con permiso de la Secretaría e inscribir los vehículos en el Registro Estatal.
+Los prestadores del servicio de transporte especializado en cualquiera de sus modalidades, deberán contar con permiso o autorización de la Secretaría e inscribir los vehículos en el Registro Estatal.
 
-Para éste servicio se aplicarán la suspensión, revocación o extinción en los términos de la Ley, el presente Reglamento o el Reglamento específico.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
-Para el otorgamiento del permiso de acuerdo a lo establecido por el artículo 142 de la Ley, el solicitante deberá presentar ante la Secretaría:
+Para este servicio se aplicarán la suspensión, revocación o extinción en los términos de la Ley, el presente Reglamento o el Reglamento específico.
 
-I. La Solicitud por escrito del permiso para el servicio especializado que quiera prestar;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+Para el otorgamiento del permiso o autorización de acuerdo a lo establecido por el artículo 142 de la Ley, el solicitante deberá presentar ante la Secretaría en los términos que establezca la Ley, el presente reglamento, protocolos o convocatorias los siguientes requisitos:
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+I. La solicitud por escrito del permiso o autorización para el servicio especializado que quiera prestar;
 
 II. Factura original o carta factura con una vigencia máxima de treinta días del o los vehículos;
 
@@ -2931,53 +3351,139 @@ V. Acta constitutiva de la persona jurídica, así como la Identificación ofici
 
 VI. Póliza o constancia para garantizar posibles daños a terceros y a los usuarios o víctimas de accidente;
 
-VII. Deberá comprobar que los vehículos objeto del permiso cuentan con todos y cada uno de los requisitos necesarios para circular;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+VII. Deberá comprobar que los vehículos objeto del permiso o autorización cuentan con todos y cada uno de los requisitos necesarios para circular;
 
 VIII. Tendrán que portar placas del Estado de Jalisco para poder prestar el servicio especializado en algunas de las modalidades;
 
 IX. Pagar los derechos correspondientes; y
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE AGOSTO DE 2016)</small>
+
 X. El prestador del servicio deberá llevar para su administración y control una bitácora de actividades, en la que se incluya la fecha, el nombre completo del responsable del servicio, el nombre completo del chofer, las características de la unidad en la que se presta el servicio especializado, destino, tipo de evento o especialidad, vigencia; información y funcionalidad que podrá ser supervisada en cualquier momento por la Secretaría a través de la Unidad Administrativa correspondiente.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+Artículo 218 bis. Para otorgar las autorizaciones para prestar servicios de transporte de pasajeros bajo demanda mediante aplicaciones móviles, además de los requisitos señalados en el artículo 144 Ter de la Ley, el solicitante deberá presentar ante la Secretaría con:
+
+I. La solicitud por escrito o vía electrónica conforme al procedimiento que establezca la convocatoria que para tal efecto publique la Secretaría en el periódico oficial “El Estado de Jalisco”;
+
+II. Factura original o carta factura con una vigencia máxima de treinta días del o los vehículos;
+
+III. Comprobante de domicilio a nombre de la persona física o jurídica propietaria de la unidad con una vigencia máxima de noventa días;
+
+IV. Fotografías del vehículo de los cuatro lados;
+
+V. Acta constitutiva de la persona jurídica, así como la Identificación oficial con fotografía de su representante legal, tratándose de personas físicas deberán presentar su alta ante Hacienda y la identificación de la persona;
+
+VI. Póliza o constancia de seguro que ampare las coberturas a que se refiere el artículo 158 del presente ordenamiento; así como el comprobante de pago de la prima de seguro que cubra la totalidad de la vigencia de la autorización que solicite.
+
+VII. Deberá comprobar que los vehículos objeto del permiso cuentan con todos y cada uno de los requisitos necesarios para circular;
+
+VIII. Tendrán que portar placas del Estado de Jalisco para poder prestar el servicio especializado en alguna de las modalidades; y
+
+IX. Pagar los derechos correspondientes.
+
+Los documentos se presenten para acreditar el cumplimiento de los anteriores requisitos, estarán sujetos a revisión y comprobación por parte de la autoridad competente, aún y cuando se hubiese expedido la autorización correspondiente; por lo que podrán ser requeridos por la Secretaría durante la vigencia de la misma, a efecto de comprobar su autenticidad.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+Artículo 218 ter. Las autorizaciones para prestar servicios de transporte de pasajeros bajo demanda mediante aplicaciones móviles no procederán cuando la Secretaría con base a los estudios y datos proporcionados por el Instituto determine que su autorización provocará un impacto negativo a ésta como a otras modalidades previstas en la Ley.
 
 ###### Artículo 219.
 
 De conformidad a lo establecido en el artículo 144 de la Ley, el permisionario de este servicio especializado en cualquiera de sus modalidades, se deberá sujetar a las condiciones técnico operativo y tarifas autorizadas.
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 220.
 
-Todos los servicios que sean objeto de permiso deberán tramitarse ante la Unidad Administrativa designada por la Secretaría para tal efecto, cumpliendo con los requisitos que se dispongan en cada caso particular. La Secretaría podrá analizar casos particulares de acuerdo a las necesidades específicas de los servicios requeridos en ciertas zonas o localidades a efecto de otorgar permisos de servicios mixtos.
+Todos los servicios que sean objeto de permiso o autorización deberán tramitarse ante la Unidad Administrativa designada por la Secretaría para tal efecto, cumpliendo con los requisitos que se dispongan en cada caso particular. La Secretaría podrá analizar casos particulares de acuerdo a las necesidades específicas de los servicios requeridos en ciertas zonas o localidades a efecto de otorgar permisos de servicios mixtos.
+
+En el caso de las empresas de redes de transporte, su registro y autorización podrá tramitarse vía electrónica en los términos que establezca la Ley, el presente reglamento, protocolos, convocatorias y demás disposiciones de carácter administrativo aplicables a la materia; cuyos documentos y datos serán verificables en términos del artículo 167 de la Ley.
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 221.
 
-Los permisos tendrán una vigencia anual y contará con cuarenta y cinco días naturales de anticipación al vencimiento de la vigencia del permiso, para presentar la solicitud de renovación ante la Unidad Administrativa que designe la Secretaría, quien será la encargada de resolver la solicitud de prórroga, y para ello previamente revisará los antecedentes del prestador y resolverá en consecuencia. La falta de presentación de la solicitud de renovación en el término señalado, implicará la extinción automática de la autorización sin necesidad de resolución alguna.
+Los permisos o autorizaciones tendrán una vigencia anual; la solicitud de renovación deberá presentarse con tres meses de anticipación al vencimiento de su vigencia ante la Unidad Administrativa que designe la Secretaría, quien será la encargada de resolver la solicitud de prórroga, y para ello previamente revisará los antecedentes del prestador y resolverá en consecuencia. La falta de presentación de la solicitud de renovación en el término señalado, implicará la extinción automática de la autorización sin necesidad de resolución alguna.
+
+En el caso de las autorizaciones para los prestadores del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles, al presentar su solicitud de renovación, deberán además acompañar:
+
+I. Constancia emitida por la empresa de redes de transporte donde se establezca que el prestador del servicio ha cumplido con las normas de calidad y operación del servicio;
+
+II. Constancia emitida por el registro estatal, de la inscripción tanto del vehículo como de sus conductores; y
+
+III. Constancia expedida por la Secretaría de la inspección realizada a vehículos y sistemas, donde se asiente que cumple con las disposiciones que prevé la ley y este Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 222.
 
-Se consideran causas de extinción de la autorización las siguientes:
+Se consideran causas de extinción de la autorización o permiso las siguientes:
 
 I. Vencimiento del término por el que se hayan otorgado;
 
-II. Desaparición de su finalidad, del bien u objeto del permiso;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+II. Desaparición de su finalidad, del bien u objeto del permiso o autorización;
 
 III. Revocación;
 
-IV. Las que se especifiquen en el documento que materialice el permiso; y
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+IV. Las que se especifiquen en el documento que materialice el permiso o autorización; y
 
 V. Las señaladas en las disposiciones jurídicas y administrativas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 223.
 
-Son causas de revocación de las autorizaciones:
+Son causas de revocación de las autorizaciones o permisos:
 
-I. El incumplimiento por parte del permisionario de cualquiera de las obligaciones que se establezcan en el mismo;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-II. Enajenar en cualquier forma los derechos en ellos conferidos, sin la previa autorización del Ejecutivo del Estado;
+I. El incumplimiento por parte del permisionario o sujeto de autorización de cualquiera de las obligaciones que se establezcan en su título;
 
-III. No contar con póliza o constancia vigente de seguro de viajero, ni de responsabilidad civil por daños a terceros o su equivalente, en los términos de ésta Ley o su Reglamento.
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+II. Enajenar en cualquier forma los derechos en ellos conferidos, sin la previa autorización del Ejecutivo del Estado para el caso de las modalidades a las que se les permita su transmisión;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+III. No contar con póliza o constancia vigente de seguro en los términos de la Ley o sus reglamentos;
 
 IV. No cubrir las indemnizaciones por daños causados a los peatones, conductores y terceros, con motivo de la prestación del servicio; y
 
 V. Cuando se exhiba documentación apócrifa o se proporcionen informes o datos falsos a la Secretaría.
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+VI. Incumplir con las disposiciones y normas de calidad del servicio establecidas por la empresa de redes de transporte a la que el prestador de servicios se encuentran afiliado o registrado, previamente validado por la Secretaría e inscrito en el registro estatal;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+VII. Prestar el servicio de pasajeros bajo demanda mediante aplicaciones móviles a diversos pasajeros que contraten en diferente momento y domicilios, aun cuando su destino sea la misma dirección; y
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+VIII. Transmitir o ceder los derechos que le confiera la autorización o permiso.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+Artículo 223 bis. La revocación de autorizaciones o permisos, se sujetará al siguiente procedimiento, salvo para aquellas modalidades de transporte público que la Ley y sus reglamentos prevean un procedimiento diverso:
+
+I. El procedimiento de revocación podrá iniciarse de oficio o a petición de parte mediante escrito que deberá de presentarse ante la Secretaría, siendo la Dirección General Jurídica la instancia competente para instruir dicho procedimiento;
+
+Una vez que el Secretario ordene el inicio del procedimiento o que se haya presentado solicitud de revocación, se emitirá auto de radicación que deberá dictarse en un plazo no mayor de 5 días hábiles contados a partir del día que se presente la solicitud, o se ordene el inicio del procedimiento de revocación.
+
+II. El auto de radicación será notificado a la persona física o jurídica titular del permiso o autorización, en un plazo no mayor de cinco días hábiles contados a partir de la fecha de radicación del procedimiento, con el objeto de que manifieste lo que a su derecho convenga y ofrezca pruebas dentro de los cinco días hábiles contados a partir de que surta efecto la notificación del auto de radicación, transcurrido este último plazo, haya comparecido o no el interesado, se abrirá el periodo de desahogo de pruebas por un término de cinco días hábiles;
+
+III. Una vez que se concluya el periodo probatorio, el titular de la Secretaría de Movilidad dictará la resolución en un plazo de diez días hábiles; y
+
+IV. La resolución definitiva será notificada personalmente al titular de la autorización o permiso, publicada en el Periódico Oficial “El Estado de Jalisco” e inscrita en el Registro Estatal.
 
 ### CAPÍTULO VI. DEL TRANSPORTE ESCOLAR
 
@@ -3151,7 +3657,7 @@ II. Contar con licencia para conducir con clasificación específica;
 
 III. Contar con los vehículos que reúnan las características de las Normas Técnicas; y
 
-IV. Contar con todos y cada uno de los requisitos necesarios para ocupar y circular en las vías públicas; (sic)
+IV. Contar con todos y cada uno de los requisitos necesarios para ocupar y circular en las vías públicas;
 
 ###### Artículo 260.
 
@@ -3165,7 +3671,7 @@ III. Su operación no se encuentra sujeta a horarios ni itinerarios preestableci
 
 IV. Se adscriben para su operación en una matriz o derivación; y
 
-V. El cobro de la tarifa puede ser zonal o por distancia recorrida en caso de contar con dispositivo electrónico para su cobro, o de conformidad a lo que establezca la tarifa autorizada; (sic)
+V. El cobro de la tarifa puede ser zonal o por distancia recorrida en caso de contar con dispositivo electrónico para su cobro, o de conformidad a lo que establezca la tarifa autorizada;
 
 ###### Artículo 261.
 
@@ -3213,11 +3719,85 @@ VI. Los contratos deberán ser validados por la Secretaría e inscritos en el Re
 
 Para la conducción de vehículos de arrendamiento, los operadores deberán obtener la licencia correspondiente, así como un gafete expedido por la Secretaría, previa aprobación de los cursos de actualización en materia de educación y seguridad vial correspondientes, que será revalidado anualmente, y no podrán utilizar el vehículo arrendado para ofertar o prestar servicio público de transporte.
 
-### CAPÍTULO XV. DEL SERVICIO DE TRANSPORTE DE CARGA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO XV. DEL SERVICIO DE TRANSPORTE DE PASAJEROS BAJO DEMANDA MEDIANTE APLICACIONES MOVILES
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+Artículo 264 bis. Es aquel que se presta por personas físicas o jurídicas propietarias del vehículo afecto al servicio de transporte de pasajeros cuya gestión se realiza a través (sic) una aplicación móvil de una empresa de redes de transporte autorizada por la Secretaría, en los términos de la Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+Artículo 264 ter. Los prestadores de este servicio deberán contar con autorización de la Secretaría en los términos del artículo 144 bis de la Ley, e inscribir y mantener actualizado en el Registro Estatal:
+
+I. La autorización que le otorgue la Secretaría;
+
+II. Los vehículos autorizados por la Secretaría para la prestación del servicio;
+
+III. Sus conductores y los cursos de capacitación que estos reciban;
+
+IV. Las placas de circulación y hologramas de seguridad de la Unidad;
+
+V. El contrato de adhesión celebrado con la empresa de redes de transporte titular de la aplicación móvil que utilizará para la prestación del servicio;
+
+VI. Normas o contrato de calidad del servicio establecidas por la empresa de redes de transporte a la que el prestador de servicios se encuentran afiliado o registrado, el cual será validado por la Secretaría previo a su inscripción en el registro estatal;
+
+VII. Póliza o constancia de seguro que ampare las coberturas a que se refiere el artículo 158 del presente ordenamiento; así como el comprobante de pago de la prima de seguro que cubra la totalidad de la vigencia de la autorización que solicite.
+
+VIII. Certificado que acredite el cumplimiento del programa de verificación vehicular; y
+
+IX. Los demás requisitos que deban presentarse para su autorización, así como los requisitos que para esos efectos establezca el Reglamento del Registro Estatal de Movilidad y Transporte.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+Artículo 264 quater. Los conductores de este servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles, deberán acreditar haber cursado y aprobado la capacitación correspondiente, así como la obtención de la licencia de manejo acorde a la modalidad del servicio y el gafete expedido por la Secretaría.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+Artículo 264 quinquies. Los vehículos que presten este servicio no deberán exceder de siete plazas, el modelo que se utilice se sujetará a lo dispuesto en el artículo 144 Ter de la Ley, y deberán cumplir con las siguientes características generales:
+
+a) Aire acondicionado;
+
+b) Un mínimo de cuatro puertas;
+
+c) Cajuela o quinta puerta;
+
+d) Cabeceras en los asientos delanteros y traseros, de manera obligatoria;
+
+e) Cinturones de seguridad para todos los pasajeros;
+
+f) Frenos ABS;
+
+g) Bolsas de aire;
+
+h) Equipo de herramientas de primer servicio y extinguidor de polvos universales A, B y C;
+
+i) No está permitida la instalación de parrillas o canastillas sobre la cajuela o capacete para el acomodo de equipaje;
+
+j) Deberán contar con una lámpara sorda de mano y señalamientos de protección del tipo reflejante (triángulos o similares);
+
+k) Deberán contar con un botiquín de primeros auxilios;
+
+l) Se deberá proveer al vehículo un Sistema de Retención Infantil con las características de acuerdo a lo establecido en la fracción VIII del artículo 71 de la Ley y del artículo 187 de este Reglamento;
+
+m) En el parabrisas deberá llevar el holograma expedido por la Secretaría que acredite el cumplimiento de la revista mecánica prevista en el artículo 106 inciso d) y 335 del presente ordenamiento, así como de control de emisiones contaminantes correspondiente;
+
+n) El servicio se ofertará, contratará y pagará a través de la aplicación móvil que administre la empresa de redes de transporte a la cual se encuentre afiliado o registrado el prestador del servicio;
+
+ñ) No tendrá ruta ni paradas establecidas; la gestión de sus servicios se trazará mediante la aplicación móvil de acuerdo al origen y destino que establezca el usuario del servicio en dicha plataforma: y
+
+o) Las demás características que se establezcan en la Ley, el presente reglamento y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+Artículo 264 sexies. Los prestadores del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles de conformidad con lo previsto en la Ley y sus reglamentos, están obligados en todo tiempo a proporcionar al registro estatal, la información necesaria para integrar y conservar actualizados sus inscripciones y registros; así como la información relativa a los vehículos y viajes que le solicite la Secretaría.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO XVI. DEL SERVICIO DE TRANSPORTE DE CARGA
 
 DISPOSICIONES GENERALES
-
-### CAPÍTULO XVI. DE CARGA EN GENERAL
 
 ###### Artículo 265.
 
@@ -3237,7 +3817,9 @@ III. Servicio de carga especial: Transporte de material tóxico o peligroso y aq
 
 IV. Maquinaria Agrícola.
 
-### CAPÍTULO XVII. DEL SERVICIO DE GRÚAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO XVII. DE CARGA EN GENERAL
 
 ###### Artículo 266.
 
@@ -3347,7 +3929,9 @@ IV. Por el exceso de carga oculten parcial o totalmente cualquiera de las placas
 
 V. Por el exceso de carga se oculten parcial o totalmente las luces del vehículo.
 
-### CAPÍTULO XVIII. DEL SERVICIO DE CARGA ESPECIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO XVIII. DEL SERVICIO DE GRÚAS
 
 ###### Artículo 281.
 
@@ -3449,7 +4033,9 @@ II. Proponer a la Secretaría, la instrumentación de programas y acciones para 
 
 Los particulares que mediante un permiso utilicen una grúa para su servicio, de negocio o empresa particular debidamente constituida, deberán cumplir con todas las disposiciones en materia de seguridad dispuestas en la Ley, el Reglamento y la norma técnica correspondiente. En ningún caso y bajo ninguna circunstancia podrán cobrar a un tercero por la utilización de la grúa, sólo están autorizados a realizar traslados de vehículos propios o de terceros sin que medie una remuneración de por medio.
 
-### CAPÍTULO XIX. DEL EQUIPO MÓVIL ESPECIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO XIX. DEL SERVICIO DE CARGA ESPECIAL
 
 ###### Artículo 288.
 
@@ -3467,7 +4053,9 @@ El envase y embalaje de los materiales y residuos peligrosos deberá sujetarse a
 
 Para operar el servicio de transporte de carga especial, se requiere del cumplimiento de los requisitos establecidos en los artículos anteriores, además de cumplir con la disposición establecida por el artículo 93 de la Ley.
 
-### CAPÍTULO XX. DEL TRANSPORTE DE MAQUINARIA AGRÍCOLA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO XX. DEL EQUIPO MÓVIL ESPECIAL
 
 ###### Artículo 292.
 
@@ -3477,7 +4065,9 @@ Asimismo se considerarán en esta clasificación a aquellos vehículos que habie
 
 De forma específica se contemplan en esta clasificación aquellos vehículos particulares que se utilicen o que porten publicidad, marcas o leyendas y que promuevan productos o servicios ya sea de manera gratuita u onerosa, por lo tanto estarán sujetos a la autorización o permiso que expida la Secretaría, tanto del uso del vehículo como de la publicidad que porte.
 
-### CAPÍTULO XXI. DE LOS GAFETES PARA LOS CONDUCTORES Y OPERADORES DE TRANSPORTE PÚBLICO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO XXI. DEL TRANSPORTE DE MAQUINARIA AGRÍCOLA
 
 ###### Artículo 293.
 
@@ -3491,7 +4081,9 @@ La Secretaría podrá conformar un padrón de los vehículos dedicados para tal 
 
 La maquinaria agrícola al transitar por las vías de jurisdicción estatal deberá contar con las medidas de seguridad necesarias, tales como señales preventivas, torretas, abanderamiento, etc. y contar con el apoyo de un vehículo que ayude a prevenir a los demás conductores de su presencia.
 
-### CAPÍTULO XXII. DE LOS SERVICIOS CONEXOS DE LAS TERMINALES DE PASAJEROS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO XXII. DE LOS GAFETES PARA LOS CONDUCTORES Y OPERADORES DE TRANSPORTE PÚBLICO
 
 ###### Artículo 296.
 
@@ -3499,7 +4091,9 @@ Todos los conductores u operadores de transporte público en todas las modalidad
 
 I. Solicitud del prestador de servicio debidamente acreditado;
 
-II. Licencia de conductor de servicios, operador o de taxi, vigente expedida en el Estado de Jalisco;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+II. Licencia de conductor, operador o chofer de servicios de taxi o de transporte de pasajeros bajo demanda mediante aplicaciones móviles, vigente expedida en el Estado de Jalisco;
 
 III. Comprobante de domicilio del chofer con antigüedad no mayor de noventa días después de la fecha de su expedición;
 
@@ -3507,33 +4101,53 @@ IV. Presentar la carta de autorización que la Secretaría determinará y pondr�
 
 V. Pago de los derechos correspondientes según sea el caso;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE AGOSTO DE 2016)</small>
+
 VI. Tratándose del servicio de taxi en todas sus modalidades, el gafete será entregado al chofer acompañado del concesionario del vehículo;
 
-VII. Tratándose del servicio subrogado otorgado por los organismos públicos descentralizados, deberán exhibir en copia debidamente certificada del contrato de subrogación correspondiente y del formato a que hace referencia la fracción IV del presente artículo, para los empleados que son conductores de estos organismos deberán acompañar la carta firmada por el titular del mismo; y
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-VIII. Constancia de aprobación del curso de capacitación para conductor de vehículos de transporte público de pasajeros expedido por la Secretaría o el centro autorizado para tal fin, éste requisito es indispensable para todas las modalidades del transporte público.
+VII. Los conductores del servicio de trasporte de pasajeros bajo demanda mediante aplicaciones móviles, deberán exhibir la acreditación emitida por la empresa de redes de transporte a la cual se encuentran afiliados o registrados.
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+VIII. Tratándose del servicio subrogado otorgado por los organismos públicos descentralizados, deberán exhibir en copia debidamente certificada del contrato de subrogación correspondiente y del formato a que hace referencia la fracción IV del presente artículo, para los empleados que son conductores de estos organismos deberán acompañar la carta firmada por el titular del mismo;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+IX. Constancia de aprobación del curso de capacitación para conductor de vehículos de transporte público de pasajeros expedido por la Secretaría o el centro autorizado para tal fin, este requisito es indispensable para todas las modalidades del transporte público.
 
 El trámite se realizará ante la Unidad Administrativa que la Secretaría determine, la temporalidad del gafete será de un año y para su expedición se realizara en el primer semestre del año de que se trate, cuando por alguna causa su expedición sea posterior a éste término, el gafete será expedido en cualquier época del año y su vigencia culminará con el año fiscal.
 
-En el caso de que el conductor u operador deje de laborar para la fuente de trabajo, deberá entregar a la Secretaría el gafete, para darlo de baja en el sistema correspondiente, caso contrario no podrá expedirse otro nuevo en tanto no sea entregado el anterior o la denuncia ratificada de robo o extravió.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+En el caso de que el chofer, conductor u operador deje de laborar para la fuente de trabajo, deberá entregar a la Secretaría el gafete, para darlo de baja en el sistema correspondiente, caso contrario no podrá expedirse otro nuevo en tanto no sea entregado el anterior o la denuncia ratificada de robo o extravío.
 
 El gafete se suspenderá o cancelará en los casos y con el procedimiento dispuesto en la Ley y el presente Reglamento.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO XXIII. DE LOS SERVICIOS CONEXOS
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 297.
 
-Se entenderá por servicios conexos aquellos servicios concesionados o autorizados, que sin ser indispensables para la comunicación o el transporte, sean incidentales o conexos con el mismo.
+Se entenderá por servicios conexos aquellos servicios concesionados o autorizados, que sin ser indispensables para la comunicación o el transporte, sean incidentales o conexos con el mismo, así como los siguientes:
 
-También serán servicios conexos las terminales de transporte público colectivo de pasajeros en su modalidad de suburbano, mixto o foráneo, interurbano e intermunicipal y rural, para lo cual deberá contar con previa autorización de la Secretaría, éstas serán susceptibles de ser otorgadas en concesión.
+I. Las terminales de transporte público colectivo de pasajeros en su modalidad de suburbano, mixto o foráneo, interurbano e intermunicipal y rural, para lo cual deberá contar con previa autorización de la Secretaría, éstas serán susceptibles de ser otorgadas en concesión.
 
 Las terminales podrán ser individuales o centrales según sean utilizadas por uno o varios concesionarios del servicio de transporte público que opere en ellas, incluyendo las de uso multimodal.
 
 La Secretaría autorizará la operación de las terminales de transporte público a que se refiere éste artículo, mismas que podrán ser operadas por la propia Secretaría o por los concesionarios a los que le sean autorizados en los términos de la Ley y sus Reglamentos.
 
+II. Los servicios que prestan las empresas de redes de transporte a través de aplicaciones móviles en los términos dispuestos por la Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 298.
 
-La Secretaría autorizará el inicio de operaciones de las terminales, una vez que el prestador del servicio presente la solicitud correspondiente, así como la autorización del ayuntamiento donde se señale que ha concluido la obra, acto seguido la Secretaría comprobará el cumplimiento de lo dispuesto en la Ley y sus Reglamentos.
+La Secretaría autorizará el inicio de operaciones de las terminales de transporte público colectivo, una vez que el prestador del servicio presente la solicitud correspondiente, así como la autorización del ayuntamiento donde se señale que ha concluido la obra, acto seguido la Secretaría comprobará el cumplimiento de lo dispuesto en la Ley y sus Reglamentos.
 
 La Secretaría autorizara la publicidad que pueda instalar en el interior de las terminales.
 
@@ -3581,9 +4195,11 @@ X. Áreas destinadas para salidas y llegadas de pasajeros; y
 
 XI. Tratándose de terminales centrales, espacios adecuados para que a los conductores se les practiquen exámenes médicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 301.
 
-Todos los usuarios de las terminales señaladas en el presente capitulo, deberán acceder sin restricción alguna, salvo en los siguientes casos:
+Todos los usuarios de las terminales de transporte colectivo de pasajeros señaladas en el presente capítulo, deberán acceder al servicio y a la unidad sin restricción alguna, salvo en los siguientes casos:
 
 I. No está permitido el ingreso de personas que se encuentren en estado de ebriedad o bajo el influjo de drogas o psicotrópicos, así como se prohíbe el consumo de bebidas alcohólicas en el interior de las instalaciones salvo que cuenten, con prescripción médica;
 
@@ -3645,17 +4261,83 @@ No está permitida la venta de boletos fuera de las taquillas que expresamente f
 
 Todo el personal de los concesionarios que preste servicios a los pasajeros en las terminales, deberán portar un gafete de identificación expedido por lo (sic) permisionarios, con el nombre y fotografía del empleado.
 
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+Artículo 307 bis. Las empresas de redes de transporte deberán contar con autorización de la Secretaría de conformidad con lo dispuesto en el artículo 83 quater de la Ley, misma que tendrá una vigencia de un año, para lo que el solicitante deberá presentar:
+
+I. La solicitud por escrito o vía electrónica conforme al procedimiento que establezca la convocatoria que para tal efecto publique la Secretaría en el periódico oficial “El Estado de Jalisco”;
+
+II. Documento que acredite que es titular de los derechos de propiedad intelectual, licencia para su uso, contrato de fraquiciaria o bien, acreditar que se encuentre afiliada a alguno de los anteriores de tal forma que tenga derechos para el aprovechamiento o administración de la aplicación móvil;
+
+III. Comprobante de domicilio fiscal dentro del Estado de Jalisco, a nombre de la persona jurídica con una vigencia máxima de noventa días;
+
+IV. Acta constitutiva de la sociedad mercantil constituida conforme a las leyes mexicanas cuyo objeto social sea el de operar como empresas de redes de transporte o gestionar servicios de transporte mediante una aplicación móvil o plataforma tecnológica a la que se refiere la fracción II del presente artículo; así como las modificaciones a la misma;
+
+V. Nombre de su representante legal, poder otorgado ante fedatario público con una temporalidad no mayor a cinco años, así como copia de su identificación oficial con fotografía;
+
+VI. Pagar los derechos correspondientes;
+
+VII. Suscribir el convenio de colaboración a que hace referencia el artículo 83 sexies de la Ley de la materia;
+
+VIII. Presentar las normas de calidad del servicio establecidas por la empresa de redes de transporte a las que se sujetarán los prestadores de servicios que se afilien o registren en su plataforma, las cuales serán validadas por la Secretaría previo a su inscripción en el registro estatal;
+
+IX. Otorgar los datos fiscales para la expedición de los comprobantes de pago;
+
+X. Póliza o constancia de seguro que ampare su responsabilidad solidaria en los términos que establece la Ley respecto de la totalidad de los vehículos que gestionen sus servicios de transporte a través de la plataforma que administren, así como el comprobante de pago de la prima de seguro que cubra la totalidad de la vigencia de la autorización que solicite;
+
+XI. Presentar los documentos que le habiliten y le certifiquen en el uso de mecanismos de pago vía electrónica y tarjetas bancarias, así como acreditar el cumplimiento de las disposiciones aplicables en la materia;
+
+XII. Los contratos de adhesión previamente autorizados por la Procuraduría Federal del Consumidor que deban suscribir los prestadores del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles;
+
+XIII. Acreditar el cumplimiento de las normas de seguridad relativas a las formas de pago vía electrónica que establezcan las disposiciones de la materia, conforme a los lineamientos que expida la Secretaría en la convocatoria respectiva.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+Artículo 307 ter. Además de lo dispuesto por los artículos 83 quáter o 83 quinquies de la Ley, para la renovación de la autorización las empresas de redes de transporte, deberán presentar ante la Secretaría:
+
+I. Los contratos de adhesión con cada uno de los prestadores del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles previamente autorizados por la Procuraduría Federal del Consumidor;
+
+II. Los documentos con los que acredite que conserva los derechos de propiedad o administración de la aplicación móvil con la que presta el servicio;
+
+III. Renovar las normas de calidad a que se refiere el artículo anterior y convenio de colaboración para la constitución del fondo económico señalado en el artículo 83 sexies fracción XIII de la Ley;
+
+IV. Las bases de datos que contengan la información de los propietarios de vehículos que se encuentren registrados en la aplicación móvil que administren, el número de vehículos que tiene cada uno, así como la información estadística que generen con motivo de la prestación del servicio de transporte conforme al artículo 83 sexies fracción X de la Ley, en el formato que para tal efecto publique la Secretaría en el periódico oficial “El Estado de Jalisco”;
+
+V. Copia certificada de la declaración anual y bimestral presentadas ante la Servicio de Administración Tributaria del ejercicio fiscal anterior a aquél en que se solicita la renovación, misma que deberán hacerse del conocimiento de Secretaría de Planeación, Administración y Finanzas del Estado;
+
+VI. Constancia de inscripción de su autorización ante el Registro Estatal de Movilidad y Transporte;
+
+VII. Constancia de inscripción ante el Registro Estatal de Movilidad y Transporte de los vehículos y conductores de los prestadores del transporte de pasajeros bajo demanda a los que otorga el servicio de gestión mediante aplicaciones móviles, así como de cualquier otra modalidad de transporte respecto de la cual gestione sus servicios en los términos de la Ley;
+
+VIII. Comprobante de domicilio fiscal dentro del Estado de Jalisco, a nombre de la persona jurídica con una vigencia máxima de noventa días;
+
+IX. Recibo de pago de los derechos correspondientes que para ello establezca la Ley de Ingresos vigente; y
+
+X. Póliza o constancia de seguro que ampare su responsabilidad solidaria en los términos que establece la Ley respecto de la totalidad de los vehículos que gestionen sus servicios de transporte a través de la plataforma que administren, así como el comprobante de pago de la prima de seguro que cubra la totalidad de la vigencia de la autorización que solicite;
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+Artículo 307 quater. Las empresas de redes de transporte deberán actualizar el registro de su domicilio fiscal o de sus establecimientos, así como de cualquier otro dato que obre incorporado en el registro estatal, dentro de los 30 días naturales siguientes a que sufran alguna modificación.
+
+Asimismo, deberá informar en un término de 72 horas máximo, cualquier baja o alta realizada, relativa a propietarios de vehículos, choferes y vehículos afectos a la prestación de servicio.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+Artículo 307 quinquies. Los sistemas electrónicos de las empresas de redes de transporte utilizados para emitir los comprobantes fiscales a sus usuarios, deberán contar con las características requeridas por el Servicio de Administración Tributaria, por lo anterior de forma bimestral deberán hacer del conocimiento de la Secretaría y de la Secretaría de Planeación, Administración y Finanzas del Estado, las declaraciones señaladas en la fracción V del artículo 307 ter de este Reglamento, mismas que servirán de base para la suscripción del convenio de colaboración señalado en el artículo 83 sexies fracción XIII de la Ley.
+
 ## TÍTULO DÉCIMO SEGUNDO. DE LA PUBLICIDAD
 
-### CAPÍTULO II. DE LOS LINEAMIENTOS PARA PORTAR PUBLICIDAD
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 308.
 
 Se entenderá por publicidad los anuncios que promuevan de forma visual o auditiva el consumo de productos o servicios, ya sean de una marca, establecimiento, propaganda de institutos, fijos o movibles, en el caso de publicidad visual con material adhesivo, plástico, luminoso, de sistemas electrónicos o cualquier tipo de rótulo, logotipo, imagotipo y eslogan; y para la publicidad auditiva, perifoneo, spot publicitarios, jingle y eslogan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 309.
 
-Los vehículos motorizados y no motorizados podrán portar publicidad en los términos de la Ley y el presente Reglamento, siempre y cuando porten el permiso o autorización correspondiente, que emita la Secretaría.
+Los vehículos motorizados y no motorizados podrán portar publicidad en los términos de la Ley y el presente Reglamento, siempre y cuando porten el permiso o autorización correspondiente, que emita la Secretaría y no se trate (sic) vehículos autorizados para prestar el servicio público de transporte bajo demanda de aplicaciones móviles.
 
 Se considerará como vehículos de equipo móvil especial a todo vehículo particular que porte publicidad que promueva productos, marcas o servicios y por lo tanto estará sujeto a la autorización o permiso que expida la Secretaría, tanto del uso del vehículo como de la publicidad que porte.
 
@@ -3663,7 +4345,7 @@ Se considerará como vehículos de equipo móvil especial a todo vehículo parti
 
 Los vehículos utilitarios podrán portar la publicidad de la empresa, institución o comercio con los cuales se distribuyan sus productos o sean necesarios para la prestación de sus servicios, siempre y cuando no se trate de publicidad envolvente, estridente, que por sus dimensiones o estructura represente un riesgo para el vehículo que lo porta o para otros sujetos de la movilidad, de acuerdo a lo establecido a la norma oficial mexicana correspondiente. Los vehículos utilitarios se considerarán aquellos que porten publicidad y corresponda a la empresa o persona jurídica señalada en la tarjeta de circulación.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO II. DE LOS LINEAMIENTOS PARA PORTAR PUBLICIDAD
 
 ###### Artículo 311.
 
@@ -3843,7 +4525,7 @@ IV. Tratándose de las infracciones contenidas en las fracciones I y II de éste
 
 ## TÍTULO DÉCIMO CUARTO. DEL REGISTRO ESTATAL
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO
 
 ###### Artículo 330.
 
@@ -3937,7 +4619,7 @@ El Registro Estatal, realizará las modificaciones y anotaciones al Padrón de L
 
 ## TÍTULO DÉCIMO QUINTO. DEL PROCEDIMIENTO ADMINISTRATIVO Y LOS MEDIOS DE DEFENSA
 
-### CAPÍTULO II. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 349.
 
@@ -3949,7 +4631,7 @@ Los procedimientos administrativos que la Secretaría realice, ya sea por queja 
 
 Para el caso de los medios de defensa que en el ámbito de sus atribuciones le competan a los ayuntamientos que tengan asumidos los servicios de vialidad y tránsito le serán aplicables las disposiciones reglamentarias que el municipio apruebe.
 
-### CAPÍTULO III. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO DEL RECURSO DE INCONFORMIDAD
+### CAPÍTULO II. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
 
 ###### Artículo 350.
 
@@ -4091,7 +4773,7 @@ Las resoluciones y acuerdos administrativos, emitidos por la Secretaría, podrá
 
 Para los efectos del artículo 215 de la Ley, cuando el infractor se inconforme con las sanciones por infracciones previstas en la Ley o el Reglamento, dentro del término para la interposición del recurso, se presentará ante la Secretaría, por medio de la instancia autorizada por el Secretario, expresando sus motivos por escrito.
 
-### CAPÍTULO IV. DE LA QUEJA EN EL SERVICIO DE TRANSPORTE PÚBLICO
+### CAPÍTULO III. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO DEL RECURSO DE INCONFORMIDAD
 
 ###### Artículo 363.
 
@@ -4125,11 +4807,15 @@ V. No se pruebe la existencia del acto reclamado.
 
 La resolución del recurso se fundará en Derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la autoridad la facultad de invocar hechos notorios; pero, cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado bastará con el examen de dicho punto.
 
-### CAPÍTULO V. DE LA MEDIACIÓN
+### CAPÍTULO IV. DE LA QUEJA EN EL SERVICIO DE TRANSPORTE PÚBLICO
 
 ###### Artículo 366.
 
 Los usuarios tienen derecho a denunciar ante la Secretaría, cualquier irregularidad en la prestación del servicio público de transporte, mediante los procedimientos de queja que la propia Secretaría establezca bajo los principios de prontitud, expedites, imparcialidad, integridad y gratuidad, a que hace referencia el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+Tratándose del servicio que gestionan las empresas de redes de transporte, la Secretaría únicamente atenderá cualquier irregularidad relativa a la prestación del servicio de transporte, no así a las relacionadas con el funcionamiento y soporte virtual de la aplicación móvil o del sistema privado electrónico de pago, las que se rigen por la legislación en la materia.
 
 ###### Artículo 367.
 
@@ -4149,7 +4835,7 @@ II. En el caso del servicio de taxi en cualquiera de sus modalidades y de vehíc
 
 Todas las quejas se integrarán al expediente del prestador de servicios y del conductor u operador, las cuales formarán los antecedentes correspondientes y que en su momento se tomarán en cuenta para todo acto que se derive de la concesión o del historial de los conductores u operadores.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO V. DE LA MEDIACIÓN
 
 ###### Artículo 369.
 
@@ -4183,7 +4869,7 @@ En el caso de un accidente vial, las partes podrán sujetarse a la mediación qu
 
 ## TÍTULO DÉCIMO SEXTO. DE LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
-### CAPÍTULO II. DE LAS SANCIONES A CONDUCTORES BAJO El INFLUJO DEL ALCOHOL, DROGAS, ESTUPEFACIENTES O PSICOTRÓPICOS
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 374.
 
@@ -4237,7 +4923,7 @@ I. La cédula de notificación contendrá y adjuntará los datos esenciales a qu
 
 II. En el caso de equipos o sistemas tecnológicos, físicos, electrónicos, mecánicos o combinados, deberá contener o adjuntar la imagen, evidencia o constancia generada por el referido instrumento de conformidad con el sistema utilizado;
 
-III. La cédula deberá ser notificada al propietario del vehículo dentro de los sesenta días naturales posteriores al levantamiento de la misma, en el domicilio que aquél tenga registrado ante la Secretaría en materia fiscal en el Estado. En caso de las notificaciones por correo certificado, si el domicilio se encuentra cerrado y nadie responde para la entrega del documento, se realizará una segunda visita por parte del servicio de correspondencia; no obstante lo anterior, si no es posible recabarse la firma del destinatario, se atenderá la diligencia con quien en su nombre lo recibas o si éstos (sic) no se encuentran en el domicilio, se levantará constancia de ello.
+III. La cédula deberá ser notificada al propietario del vehículo dentro de los sesenta días naturales posteriores al levantamiento de la misma, en el domicilio que aquél tenga registrado ante la Secretaría en materia fiscal en el Estado. En caso de las notificaciones por correo certificado, si el domicilio se encuentra cerrado y nadie responde para la entrega del documento, se realizará una segunda visita por parte del servicio de correspondencia; no obstante lo anterior, si no es posible recabarse la firma del destinatario, se atenderá la diligencia con quien en su nombre lo recibas (sic) o si éstos no se encuentran en el domicilio, se levantará constancia de ello.
 
 Para efectos de este artículo, en el caso de vehículos registrados en otro Estado, según los convenios de colaboración en materia fiscal, que existan con relación a la coordinación fiscal, las cédulas de notificación podrán ser puestas a disposición y aplicación de la entidad federativa correspondiente.
 
@@ -4253,7 +4939,7 @@ El procedimiento para aplicar una medida de seguridad se llevará a cabo cumplie
 
 La Policía Vial Estatal o Policía de Tránsito Municipal, en el ejercicio de sus actividades deberá actuar siempre en apego estricto a la Ley y al Reglamento respectivo, cuidando que los hechos o actos que se le imputen al infractor estén plenamente acreditados.
 
-### CAPÍTULO III. DE LAS SANCIONES CONSIDERADAS COMO GRAVES
+### CAPÍTULO II. DE LAS SANCIONES A CONDUCTORES BAJO El INFLUJO DEL ALCOHOL, DROGAS, ESTUPEFACIENTES O PSICOTRÓPICOS
 
 ###### Artículo 382.
 
@@ -4292,6 +4978,8 @@ IX. Lo que no este enunciado en el presente capítulo, se estará a lo dispuesto
 El Juez calificador de la Secretaría o la autoridad que designe el municipio para dicho efecto, está facultado para calificar e imponer la sanción, y determinar su monto sujetándose a las disposiciones de la Ley, el presente Reglamento y el Protocolo en materia de alcoholimetría, para ello tomará en cuenta las circunstancias personales del infractor para individualizar la sanción, como son su capacidad económica, la reincidencia o cualquier otro elemento del que se desprenda la levedad o gravedad de la infracción, motivando y fundamentando tal decisión, en los términos de los artículos 20, 196 y 198 de la Ley.
 
 En el caso de que la sanción sea la prevista en la fracción I del artículo 186, podrá conmutarse de acuerdo a lo establecido en el artículo 201 de la Ley, lo cual podrá ser con arresto administrativo o con jornadas de trabajo a favor de la comunidad, para el caso de los conductores infractores que sean menores de edad, serán responsables solidarios de la sanción pecuniaria respectiva los propietarios de los vehículos.
+
+### CAPÍTULO III. DE LAS SANCIONES CONSIDERADAS COMO GRAVES
 
 ###### Artículo 384.
 
@@ -4381,6 +5069,22 @@ o) Se niegue a entregar al usuario el boleto o comprobante de pago del servicio 
 
 p) Para los efectos del artículo 191 fracción VII de la Ley se entenderá que se aplican condiciones diferentes a las autorizadas en la prestación del servicio cualquier incumplimiento o contravención a lo dispuesto por la Ley y el presente Reglamento y el Reglamento específico en materia de transporte público.
 
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XXVII. Cobrar la tarifa en los medios no autorizados por la Secretaría o previstos en la concesión, permiso o autorización, según corresponda, así como en Ley, sus reglamentos y normas técnicas aplicables;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XXVIII. Cobrar tarifas estandarizadas no autorizadas por la Secretaría o el Titular del Ejecutivo en los términos que establezca la Ley y sus reglamentos;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XXIX. Prestar al mismo tiempo el servicio de pasajeros bajo demanda mediante aplicaciones móviles a diversos usuarios que contraten aun cuando su punto de origen y destino sea la misma dirección;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XXX. Prestar el servicio con características que no sean propias de la modalidad y expresamente establecidas en la Ley, disposiciones reglamentarias, normas técnicas, o bien, permitidas en la concesión, autorización o permiso.
+
 ###### Artículo 385.
 
 La Secretaría organizará un registro de las infracciones para los fines a que diera lugar en los casos de reincidencia.
@@ -4418,3 +5122,15 @@ P.O. 4 DE JUNIO DE 2015.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. Las autoridades administrativas y la Policía Vial, en el ejercicio de sus atribuciones, observarán inexcusablemente el texto normativo vigente al momento de dictarse los actos administrativos constitutivos hasta la vigencia de estos.
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE MOVILIDAD Y TRANSPORTE Y DEL REGLAMENTO DEL REGISTRO ESTATAL DE MOVILIDAD Y TRANSPORTE”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El Registro Estatal abrirá un nuevo libro para realizar todas las inscripciones relativas a las autorizaciones de empresas de redes de transporte para el servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles, sus vehículos y conductores que se otorguen con los procesos contemplados de conformidad con la Ley y demás disposiciones reglamentarias aplicables.
+
+TERCERO. La Secretaría emitirá la convocatoria que establezca el calendario y procedimiento para realizar el trámite para el otorgamiento de autorizaciones y registro de empresas de redes de transporte, así como de prestadores y conductores del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente decreto.
