@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2016-07-01"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de junio de 1999.
 
@@ -5035,7 +5035,9 @@ Ni la institución de los herederos o legatarios, ni la subsistencia de su nombr
 
 Puede el testador encomendar a un tercero:
 
-I. La distribución de las cantidades que deje a grupos determinados como huérfanos, discapacitados, enfermos, pobres y demás personas beneficiadas por las leyes de asistencia social.
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+I. La distribución de las cantidades que deje a grupos determinados como huérfanos, personas con discapacidad, enfermos, pobres y demás personas beneficiadas por las leyes de asistencia social.
 
 II. La individuación y elección de las personas a quienes deban aplicarse las cantidades a que se refiere la fracción anterior.
 
@@ -6079,7 +6081,9 @@ II. Los menores de catorce años de edad.
 
 III. Los que no estén en su sano juicio.
 
-IV. Los ciegos, sordos o mudos.
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+IV. Las personas ciegas, sordas o mudas.
 
 V. Los que no entiendan el idioma del testador.
 
@@ -6155,9 +6159,11 @@ Si el testador no pudiere o no supiere firmar, intervendrá otro testigo más, q
 
 En el caso de extrema urgencia y no pudiendo ser llamado otro testigo, firmará por el testador uno de los instrumentales, haciéndose constar esta circunstancia.
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 993.
 
-El que fuere enteramente sordo, pero que sepa leer, deberá dar lectura a su testamento; si no supiere o no pudiere hacerlo, designará una persona para que lo lea por él.
+La persona sorda, pero que sepa leer, deberá dar lectura a su testamento; si no supiere o no pudiere hacerlo, designará una persona para que lo lea por él.
 
 ###### ARTÍCULO 994.
 
@@ -6241,9 +6247,11 @@ Si al hacer la presentación del testamento, el testador no pudiere firmar, lo h
 
 Sólo en los casos de suma urgencia podrá firmar uno de los testigos, ya sea por el que de ellos no sepa hacerlo o ya por el testador y el notario hará constar expresamente esta circunstancia, bajo la pena de suspensión de oficio por tres años.
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 1011.
 
-El sordomudo podrá hacer testamento cerrado con tal de que esté todo él escrito, fechado y firmado de su propia mano, y que al presentarlo al notario, ante tres testigos, escriba en presencia de todos sobre la cubierta, que en aquel pliego se contiene su última voluntad y que va escrito y firmado por él.
+La persona sorda podrá hacer testamento cerrado con tal de que esté todo él escrito, fechado y firmado de su propia mano, y que al presentarlo al notario, ante tres testigos, escriba en presencia de todos sobre la cubierta, que en aquel pliego se contiene su última voluntad y que va escrito y firmado por él.
 
 ###### ARTÍCULO 1012.
 
@@ -21124,3 +21132,11 @@ SEGUNDO.- En los distritos judiciales en los cuales no haya iniciado su vigencia
 TERCERO.- Las reformas del Código Civil para el Estado de Coahuila de Zaragoza contenidas en el presente decreto entrarán en vigor al día siguiente de su publicación en los distritos judiciales o municipios en los que no haya iniciado su vigencia la Ley para la Familia de Coahuila de Zaragoza.
 
 Una vez que entre en vigor la Ley para la Familia conforme al primero y segundo transitorios del decreto 477, quedarán derogados los artículos del Código Civil para el Estado de Coahuila de Zaragoza incluidos en el presente decreto.
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 485.- SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 359, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA.”]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
