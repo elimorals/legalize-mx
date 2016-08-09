@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-integral-de-justicia-para-adolescentes-del-1018
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-11"
-last_updated: "2014-07-11"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 11 de julio de 2014.
 
@@ -213,9 +213,11 @@ PRINCIPIO DE INMEDIACIÓN. Toda audiencia se desarrollará íntegramente con la 
 
 En ningún caso, el juez podrá delegar en persona alguna la admisión, el desahogo o la valoración de las pruebas, ni la emisión y explicación de la sentencia respectiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 22.
 
-PRINCIPIO DE IGUALDAD ANTE LA LEY. Los derechos y garantías reconocidos en esta ley se aplicarán a todos los adolescentes sin discriminación alguna por razones de origen étnico o nacional, género, edad, capacidades diferentes, condición social o de salud, religión, opinión, preferencia, estado civil o por cualquier otro motivo análogo ya sea propio o de sus padres, familiares u otras personas responsables o que los tengan bajo su cuidado.
+PRINCIPIO DE IGUALDAD ANTE LA LEY. Los derechos y garantías reconocidos en esta ley se aplicarán a todos los adolescentes sin discriminación alguna por razones de origen étnico o nacional, género, edad, situación de discapacidad, condición social o de salud, religión, opinión, preferencia, estado civil o por cualquier otro motivo análogo ya sea propio o de sus padres, familiares u otras personas responsables o que los tengan bajo su cuidado.
 
 Las autoridades velarán por que las personas en las condiciones o circunstancias señaladas en el párrafo anterior, sean atendidas a fin de garantizar la igualdad sobre la base de la equidad en el ejercicio de sus derechos.
 
@@ -341,7 +343,9 @@ Corresponde al juez velar sin preferencias ni desigualdades por la defensa adecu
 
 DEFENSA TÉCNICA. Desde el momento de su detención y a lo largo de todo el proceso, el adolescente deberá ser asistido por un defensor especializado; si así lo desea designará a su costa, por sí o por sus padres, tutores o representantes legales a un defensor privado, con cédula profesional que lo acredite como Licenciado en Derecho para que lo asista jurídicamente; deberá estar asistido en todos los actos del proceso, aún los de carácter ministerial y de ejecución de las medidas que le impongan.
 
-En caso de ser indígenas, extranjeros, sordos, mudos o no sepan leer ni escribir, deberán ser asistidos de oficio y en todos los actos procesales, por un defensor que comprenda plenamente su idioma, lengua, dialecto, así como su cultura o bien, de ser necesario, que su defensor sea auxiliado por un perito traductor o intérprete, asignado por la autoridad correspondiente o designado por el adolescente. Cuando el adolescente alegue ser indígena, se acreditará sólo con su manifestación.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+En caso de ser indígenas, extranjeros, personas sordas, personas mudas, o no sepan leer ni escribir, deberán ser asistidos de oficio y en todos los actos procesales, por un defensor que comprenda plenamente su idioma, lengua, dialecto, así como su cultura o bien, de ser necesario, que su defensor sea auxiliado por un perito traductor o intérprete, asignado por la autoridad correspondiente o designado por el adolescente. Cuando el adolescente alegue ser indígena, se acreditará sólo con su manifestación.
 
 En todo caso el defensor deberá poseer conocimientos en materia penal, procesal penal y de justicia para adolescentes suficientes para brindarle al adolescente una defensa adecuada. A la persona que designe el adolescente o representantes legales será interrogado durante la instancia, bajo protesta de decir verdad, si cumple con las condiciones anteriores. Igualmente, protestará cumplir el cargo con fidelidad y que le brindará al adolescente una defensa adecuada. Se dejará constancia de todo lo anterior. En caso de que no elija su propio defensor, se le nombrará un defensor público.
 
@@ -375,7 +379,9 @@ DERECHO A SER ESCUCHADO. Todo adolescente tendrá derecho a ser escuchado en cua
 
 El adolescente que no comprenda ni pueda darse a entender en español deberá ser provisto gratuitamente de un traductor o interprete a fin de que pueda expresarse en su propia lengua. Incluso si habla o comprende el español, si se trata de un adolescente indígena, se le nombrará un intérprete en caso de que así lo solicite.
 
-Si se trata de un adolescente mudo, se le harán oralmente las preguntas y las responderá por escrito; si fuere un sordomudo, las preguntas y respuestas serán escritas. Si el adolescente no supiere leer y escribir se le nombrará intérprete idóneo.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+Si se trata de una persona muda, se le harán oralmente las preguntas y las responderá por escrito; si fuere una persona sorda, las preguntas y respuestas serán escritas. Si el adolescente no supiere leer y escribir se le nombrará intérprete idóneo.
 
 ###### ARTÍCULO 46.
 
@@ -2899,7 +2905,9 @@ Si no hubiere condena de la reparación del daño o ésta ya se hubiere cubierto
 
 EXCEPCIONES AL TRABAJO. Estarán exceptuados de trabajar los adolescentes internos que se encuentren comprendidos en alguno de los supuestos siguientes:
 
-I. Presentar alguna imposibilidad física o mental o padecer alguna enfermedad que lo incapacite para el trabajo, de manera permanente o transitoria, debidamente acreditadas ante el Comité Técnico Interdisciplinario y mientras éstas perduren, en su caso;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+I. Presentar alguna discapacidad física o mental o padecer alguna enfermedad que lo incapacite para el trabajo, de manera permanente o transitoria, debidamente acreditadas ante el Comité Técnico Interdisciplinario y mientras éstas perduren, en su caso;
 
 II. Estar bajo tratamiento médico por causa de accidente, enfermedad o alguna otra circunstancia que haga peligrar la vida o salud del interno, hasta que sea dado de alta, o
 
@@ -2969,9 +2977,11 @@ III. Elevada posibilidad de reincidencia, y
 
 IV. Alteraciones importantes del comportamiento previo a la comisión de la conducta tipificada como delito.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 271.
 
-PROCEDER EN LOS CASOS DE TRANSTORNO (SIC) MENTAL O DESARROLLO INTELECTUAL RETARDADO. En cualquier momento en que el Ministerio Público o el juez competente tenga conocimiento de que el adolescente presenta trastorno mental o desarrollo intelectual retardado, o discapacidad física, inmediatamente ordenarán su atención en una institución acorde a sus necesidades, ya sea en instituciones públicas o privadas o, en su caso, entregado a sus padres, representantes legales, encargados o a quienes ejerzan la patria potestad, a fin de que el adolescente sea internado o tratado de acuerdo al problema que presente. Lo anterior previa audiencia en la que escuchará a las partes, pudiendo en su caso éstas, presentar pruebas que sustenten o desvirtúen dicho padecimiento.
+PROCEDER EN LOS CASOS DE TRASTORNO MENTAL O DEDISCAPACIDAD (SIC) INTELECTLIAL. En cualquier momento en que el Ministerio Público o el juez competente tenga conocimiento de que el adolescente presenta trastorno mental, discapacidad intelectual, o discapacidad física, inmediatamente ordenarán su atención en una institución acorde a sus necesidades, ya sea en instituciones públicas o privadas o, en su caso, entregado a sus padres, representantes legales, encargados o a quienes ejerzan la patria potestad, a fin de que el adolescente sea internado o tratado de acuerdo al problema que presente. Lo anterior previa audiencia en la que escuchará a las partes, pudiendo en su caso éstas, presentar pruebas que sustenten o desvirtúen dicho padecimiento.
 
 Cuando el adolescente se encuentre sujeto a una medida y el personal de la Dirección o de los centros de internación se percate de que presenta alguna discapacidad intelectual o bien, alguna enfermedad mental, informarán de su estado al juez de ejecución, para que sea éste quien ordene lo conducente.
 
@@ -3540,3 +3550,13 @@ EL SECRETARIO DE SALUD
 JOSÉ LAURO CORTÉS HERNÁNDEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 485.- SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 359, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
