@@ -4,7 +4,7 @@ identifier: "COA-ley-de-prevencion-asistencia-y-atencion-de-la-violencia-26721"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-25"
-last_updated: "2014-03-18"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PREVENCIÓN, ASISTENCIA Y ATENCIÓN DE LA VIOLENCIA FAMILIAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 25 de octubre de 2002.
 
@@ -41,13 +41,17 @@ LEY DE PREVENCION, ASISTENCIA Y ATENCION DE LA VIOLENCIA FAMILIAR
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 1.
 
-La unidad familiar, la equidad de género, la igualdad de derechos y deberes de los cónyuges o de la pareja, de las hijas y de los hijos, la protección de las y los menores de edad, de las mujeres, de las personas con capacidades diferentes y de las personas de la tercera edad, constituyen principios fundamentales para la aplicación e interpretación de esta ley.
+La unidad familiar, la igualdad de género, la igualdad de derechos y deberes de los cónyuges o de la pareja, de las hijas y de los hijos, la protección de las y los menores de edad, de las mujeres, de las personas con discapacidad y de las personas de la tercera edad, constituyen principios fundamentales para la aplicación e interpretación de esta ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 2.
 
-El Estado y sus autoridades están obligadas a garantizar el respeto a los derechos humanos y a instrumentar políticas sociales de prevención, protección y promoción que favorezcan el desarrollo de las niñas, de los niños, de las mujeres, de las personas con capacidades diferentes y de las personas de la tercera edad; así como a asegurarles oportunidades para su desarrollo físico, mental, ético, social y económico, en condiciones de libertad, respeto y dignidad, sin discriminación alguna por razón de género, convicciones políticas o religiosas, y situación socio-económica.
+El Estado y sus autoridades están obligadas a garantizar el respeto a los derechos humanos y a instrumentar políticas sociales de prevención, protección y promoción que favorezcan el desarrollo de las niñas, de los niños, de las mujeres, de las personas con discapacidad y de las personas de la tercera edad; así como a asegurarles oportunidades para su desarrollo físico, mental, ético, social y económico, en condiciones de libertad, respeto y dignidad, sin discriminación alguna por razón de género, convicciones políticas o religiosas, y situación socio económica.
 
 Los bienes jurídicos tutelados por la presente ley son: la integridad, la preservación y el desarrollo de la salud física y mental de las mujeres, las niñas, los niños y en general de quienes integran la familia, sustrato de la sociedad.
 
@@ -185,7 +189,9 @@ VI. "Custodia de emergencia": La que se ejerce en situaciones excepcionales, det
 
 VII. "Custodia legal": La que tiene el padre y la madre en virtud del ejercicio de la patria potestad, los ascendientes de uno u otra, o la otorgada por un tribunal competente.
 
-VIII. "Separación provisional o preventiva del seno familiar": La decretada por el Procurador de la Familia o por sus Delegados, tratándose de mujeres, menores de edad, personas con capacidades diferentes y de la tercera edad, que sufran maltrato físico, mental, psicoemocional, verbal, por negligencia económico (sic), incluyendo el abuso sexual en los términos de esta ley.
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+VIII. "Separación provisional o preventiva del seno familiar": La decretada por el Procurador de la Familia o por sus Delegados, tratándose de mujeres, menores de edad, personas con discapacidad y de la tercera edad, que sufran maltrato físico, mental, psicoemocional, verbal, por negligencia económico (sic), incluyendo el abuso sexual en los términos de esta ley.
 
 IX. "Esfuerzos razonables": Los dirigidos a evitar la remoción de las personas receptoras de la violencia de su hogar, siempre que ello sea posible en orden a su seguridad, dignidad, y respeto a sus derechos.
 
@@ -335,7 +341,9 @@ IV. Diseñar y poner en marcha una base de datos común a todas las institucione
 
 V. (DEROGADA, P.O. 18 DE MARZO DE 2014)
 
-VI. Coordinar las acciones de concertación, defensa, protección, prevención y atención de la violencia, en particular la que afecta a las mujeres, menores de edad, a las personas con capacidad diferente y a las de la tercera edad.
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+VI. Coordinar las acciones de concertación, defensa, protección, prevención y atención de la violencia, en particular la que afecta a las mujeres, menores de edad, a las personas con discapacidad y a las de la tercera edad.
 
 VII. Promover programas permanentes de capacitación, con perspectiva de género, para servidoras y servidores públicos encargados de la política de prevención de la violencia familiar, y de la asistencia y atención de las víctimas de esa violencia.
 
@@ -385,9 +393,11 @@ II. Tomarán en cuenta el interés superior de las personas receptoras de violen
 
 #### SECCION PRIMERA. DISPOSICIONES COMUNES
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 20.
 
-Es deber del Estado y sus autoridades resguardar a la familia como un espacio de afecto, seguridad y desarrollo, a cuyo efecto deberá implementar todas las medidas indispensables para impedir que en su seno se produzca cualquier forma de maltrato que afecte a sus miembros, así mismo brindará particular atención a las niñas y a los niños, a las mujeres, a las personas con capacidades diferentes o de la tercera edad, evitando que sean víctimas de la violencia familiar.
+Es deber del Estado y sus autoridades resguardar a la familia como un espacio de afecto, seguridad y desarrollo, a cuyo efecto deberá implementar todas las medidas indispensables para impedir que en su seno se produzca cualquier forma de maltrato que afecte a sus miembros, así mismo brindará particular atención a las niñas y a los niños, a las mujeres, a las personas con discapacidad o de la tercera edad, evitando que sean víctimas de la violencia familiar.
 
 ###### Artículo 21.
 
@@ -435,7 +445,9 @@ Corresponde a la Secretaría de Desarrollo Social:
 
 I. Contribuir a que las familias participen activa y concientemente (sic) en los programas que tiendan a satisfacer sus necesidades básicas y desarrollar sus capacidades.
 
-II. Promover talleres de capacitación, con perspectiva de género, que permitan a las mujeres, a las personas con capacidades diferentes y a las de la tercera edad, acceder a un empleo o a un autoempleo.
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+II. Promover talleres de capacitación, con perspectiva de género, que permitan a las mujeres, a las personas con discapacidad y a las de la tercera edad, acceder a un empleo o a un autoempleo.
 
 III. Promover programas de intervención temprana en comunidades de escasos recursos para prevenir, desde dónde se genera, violencia familiar, incorporando a la población en las operaciones de dichos programas.
 
@@ -545,7 +557,9 @@ I. Coordinarse con la Procuraduría de la Familia para diseñar y llevar a cabo 
 
 II. Crear un cuerpo especializado, con enfoque de género, que preste auxilio y colabore con las autoridades y organismos públicos del Estado en los casos de violencia familiar.
 
-El personal que conforme dicho cuerpo, deberá recibir capacitación especial y sensibilización en procedimientos de manejo de conducta de menores, mujeres, personas de capacidad diferente y de la tercera edad.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+El personal que conforme dicho cuerpo, deberá recibir capacitación especial y sensibilización en procedimientos de manejo de conducta de menores, mujeres, personas con discapacidad y de la tercera edad.
 
 III. Hacer cumplir las normas y disposiciones que expidan las autoridades competentes en materia de violencia familiar.
 
@@ -631,9 +645,11 @@ XI. Las demás que establezcan las leyes.
 
 ### CAPITULO III. DE LAS ACCIONES PRIVADAS
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 35.
 
-El Estado incentivará todas las iniciativas del sector privado y social, con miras a la creación de centros o establecimientos de asistencia, habilitación y rehabilitación para menores, mujeres, personas con capacidades diferentes y de la tercera edad, que sufran violencia familiar.
+El Estado incentivará todas las iniciativas del sector privado y social, con miras a la creación de centros o establecimientos de asistencia, habilitación y rehabilitación para menores, mujeres, personas con discapacidad y de la tercera edad, que sufran violencia familiar.
 
 ###### Artículo 36.
 
@@ -649,9 +665,11 @@ El personal que atienda y dirija los centros o establecimientos, deberá reunir 
 
 Corresponderá al ente regulador, asegurar la orientación y capacitación del personal y la supervisión y certificación de los citados centros y establecimientos.
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 38.
 
-El ingreso de las y los menores, mujeres, personas con capacidades diferentes y de la tercera edad a los centros o establecimientos, deberá ser objeto de un estudio socio-psicológico previo, del que deberá llevarse un seguimiento. En la atención y tratamiento se procurará mantener permanentemente la relación con los familiares del ingresado.
+El ingreso de las y los menores, mujeres, personas con discapacidad y de la tercera edad a los centros o establecimientos, deberá ser objeto de un estudio socio-psicológico previo, del que deberá llevarse un seguimiento. En la atención y tratamiento se procurará mantener permanentemente la relación con los familiares del ingresado.
 
 ###### Artículo 39.
 
@@ -747,7 +765,9 @@ Están obligados a informar, en un término no mayor de 24 horas, desde que tien
 
 I. Las personas profesionales o funcionarios públicos, y las entidades públicas o privadas, que en el desempeño de sus actividades o funciones, tuvieren conocimiento o sospecha de la existencia de una situación de violencia familiar.
 
-II. Los profesionales de la salud, educación y los directores de las instituciones hospitalarias y educativas; así como las personas dedicadas a labores de dirección, en instituciones o centros de atención y cuidado de menores, mujeres, personas con capacidades diferentes y de la tercera edad.
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+II. Los profesionales de la salud, educación y los directores de las instituciones hospitalarias y educativas; así como las personas dedicadas a labores de dirección, en instituciones o centros de atención y cuidado de menores, mujeres, personas con discapacidad y de la tercera edad.
 
 > <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
 
@@ -777,9 +797,11 @@ Las dependencias de la Fiscalía General del Estado y de la Procuraduría de la 
 
 ### CAPITULO V. MEDIDAS DE EMERGENCIA Y PROVIDENCIAS CAUTELARES
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 60.
 
-Toda autoridad administrativa, director o administrador de un hospital u otra institución de salud pública o privada, director de escuela o maestro, podrá asumir la protección de menores, mujeres, personas con capacidades diferentes o de la tercera edad, cuando tenga motivo razonable para creer que ha sido víctima de violencia familiar. Esta protección no podrá exceder de 36 horas, excepción hecha de que por cualquier medio se produzca la intervención de un Juez de lo Familiar, en cuyos casos se estará a lo que éste disponga.
+Toda autoridad administrativa, director o administrador de un hospital u otra institución de salud pública o privada, director de escuela o maestro, podrá asumir la protección de menores, mujeres, personas con discapacidad o de la tercera edad, cuando tenga motivo razonable para creer que ha sido víctima de violencia familiar. Esta protección no podrá exceder de 36 horas, excepción hecha de que por cualquier medio se produzca la intervención de un Juez de lo Familiar, en cuyos casos se estará a lo que éste disponga.
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
 
@@ -821,9 +843,11 @@ IV. Ordenar el reintegro al domicilio a petición de quien debió salir del mism
 
 En todos estos casos deberá establecerse la duración de la medida, en vista a la determinación definitiva que habrá de adoptarse.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 66.
 
-La Procuraduría de la Familia proveerá de servicios de protección, directamente o mediante contratos o acuerdos con organismos e instituciones que los presten, a los menores, mujeres, personas con capacidades diferentes o de la tercera edad, que estén en riesgo sustancial de ser víctimas de la violencia familiar y no tengan domicilio o persona que se haga cargo de su cuidado.
+La Procuraduría de la Familia proveerá de servicios de protección, directamente o mediante contratos o acuerdos con organismos e instituciones que los presten, a los menores, mujeres, personas con discapacidad o de la tercera edad, que estén en riesgo sustancial de ser víctimas de la violencia familiar y no tengan domicilio o persona que se haga cargo de su cuidado.
 
 La facilitación de servicios de protección, no exime al padre, a la madre o a la persona responsable de resguardar los derechos de las personas afectadas, de sus deberes de cuidado y de garantizar el bienestar de los mismos.
 
@@ -873,9 +897,11 @@ Quien sufra violencia familiar en cualquiera de las modalidades previstas por el
 
 En los lugares donde no resida Juez en materia Familiar, los Jueces de Primera Instancia en materia Civil, asumirán plenamente la competencia de aquellos para la recepción de la denuncia, el conocimiento de los hechos y la resolución del conflicto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 77.
 
-Cuando el afectado fuere menor de edad, persona de capacidad diferente o de la tercera edad, los hechos deberán ser denunciados por sus representantes legales, por el Ministerio Público, por el Procurador de la Familia, por sus Delegados o por quienes presidan las Unidades de Atención.
+Cuando el afectado fuere menor de edad, persona con discapacidad o de la tercera edad, los hechos deberán ser denunciados por sus representantes legales, por el Ministerio Público, por el Procurador de la Familia, por sus Delegados o por quienes presidan las Unidades de Atención.
 
 También estarán obligados a efectuar esta denuncia los encargados de los servicios asistenciales, sociales o educativos, públicos o privados, los profesionales de la salud y todos los funcionarios públicos en razón de su labor, cuando el caso de violencia familiar de que tengan conocimiento, por su gravedad, amerite la intervención jurisdiccional.
 
@@ -1088,3 +1114,11 @@ P.O. 18 DE MARZO DE 2014.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 485.- SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 359, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
