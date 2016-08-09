@@ -4,7 +4,7 @@ identifier: "COA-ley-de-procuracion-de-justicia-del-estado-de-coahuila-de-61580"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-16"
-last_updated: "2014-04-22"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROCURACIÓN DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 16 de mayo de 2008.
 
@@ -625,7 +625,9 @@ III. AUDIENCIA. A que se le haga saber el hecho concreto y conducta que se le im
 
 De igual manera se le harán saber los derechos establecidos en el presente artículo.
 
-Cuando el inculpado no hable español, se le designará un traductor. Si es sordomudo, se procederá por medio de interprete. Estos le harán saber los derechos a que se refiere este artículo y le comunicarán los términos en que se desarrollen las diligencias.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+Cuando el inculpado no hable español, se le designará un traductor. Si es una persona sorda se procederá por medio de intérprete. Estos le harán saber los derechos a que se refiere este artículo y le comunicarán los términos en que se desarrollen las diligencias.
 
 IV. DECLARACIÓN Y ASISTENCIA DE DEFENSOR EN CASO DE CONFESIÓN. A declarar sobre los hechos, pero sólo si es su libre voluntad.
 
@@ -1089,9 +1091,13 @@ Los documentos que se presenten en otro idioma se acompañarán con su traducci�
 
 INTERVENCIÓN DE TRADUCTORES E INTÉRPRETES. Cuando la persona con quien se entienda la diligencia no hable español, el Ministerio Público designará uno o más traductores mayores de edad observando los procedimientos para la designación de peritos. Si no hay traductor de esa edad, podrá designarse a quien tenga dieciséis años o más.
 
-Si la persona con quien se entiende la diligencia es sordo, mudo o sordomudo y no sabe leer ni escribir, se le nombrará interprete a cualquier persona con quien pueda hacerse entender. En este caso quien funja como interprete protestará interpretar fielmente las preguntas, respuestas y manifestaciones que se transmitan.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
-A los sordos, mudos y sordomudos que sepan leer y escribir se les interrogará por escrito y producirán sus respuestas de igual forma.
+Si con quien se entiende la diligencia esuna (sic) persona sorda o muda y no sabe leer ni escribir, se le nombrará intérprete a cualquier persona con quien pueda hacerse entender. En este caso quien funja como intérprete protestará interpretar fielmente las preguntas, respuestas y manifestaciones que se transmitan.
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+A las personas sordas, personas mudas que sepan leer y escribir se les interrogará por escrito y producirán sus respuestas de igual forma.
 
 ###### ARTÍCULO 72.
 
@@ -5021,11 +5027,13 @@ V. Comunicar al delegado regional para que lo haga del conocimiento del titular 
 
 VI. Las demás que le sean atribuidas por las leyes.
 
-> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 441.
 
-AGENTES DEL MINISTERIO PUBLICO EN ASUNTOS EN MATERIA FAMILIAR, CIVIL Y ADMINISTRATIVA.- Tienen el carácter de agentes del Ministerio Público en materia familiar, civil y administrativa, aquellos a quienes corresponde garantizar en los procesos judiciales y administrativos, el respeto a los derechos de la familia, de los menores de edad, de los ausentes y de las personas con capacidades diferentes e intervenir en aquellos procesos en que esté involucrado el orden público y las buenas costumbres en los términos de las leyes que rigen la materia.
+AGENTES DEL MINISTERIO PUBLICO EN ASUNTOS EN MATERIA FAMILIAR, CIVIL Y ADMINISTRATIVA.- Tienen el carácter de agentes del Ministerio Público en materia familiar, civil y administrativa, aquellos a quienes corresponde garantizar en los procesos judiciales y administrativos, el respeto a los derechos de la familia, de los menores de edad, de los ausentes y de las personas con discapacidad e intervenir en aquellos procesos en que esté involucrado el orden público y las buenas costumbres en los términos de las leyes que rigen la materia.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 El Ministerio Público intervendrá en todos los casos de asuntos no contenciosos que se tramiten ante notario público y bajo su responsabilidad autorizará el acto de que se trate o se opondrá cuando tenga razones fundadas para ello.
 
@@ -5277,7 +5285,9 @@ IV. Gozar de buena reputación y no haber sido condenado por la comisión de del
 
 V. Acreditar los conocimientos y la experiencia en el servicio policial; preferentemente que sea licenciado en derecho, criminólogo, técnico en investigación policial o carrera afín.
 
-VI. Gozar de buena salud y no tener ningún defecto físico que lo imposibilite para el servicio policial.
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+VI. Gozar de buena salud y no ser persona con discapacidad física que lo imposibilite para el servicio policial.
 
 VII. Estar libre de adicciones y no hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, o cualquier otra prohibida por la ley, ni padecer alcoholismo.
 
@@ -5415,7 +5425,9 @@ I. De ingreso:
 
 8. Cursar y aprobar el curso de formación inicial para agente de la policía que imparta el centro de profesionalización.
 
-9. Gozar de buena salud y no tener ningún defecto físico que lo imposibilite para el servicio policial.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+9. Gozar de buena salud y no ser persona con discapacidad física que lo imposibilita para el servicio policial.
 
 10. Estar libre de adicciones y no hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, o cualquier otra prohibida por la ley, ni padecer alcoholismo.
 
@@ -7162,3 +7174,11 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 22 DE ABRIL DE 2014.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 485.- SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 359, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
