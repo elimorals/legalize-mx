@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-491-de-bienestar-animal-del-estado-de-guerrero-10628
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-26"
-last_updated: "2014-12-26"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 491 DE BIENESTAR ANIMAL DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Guerrero, el viernes 26 de diciembre de 2014.
 
@@ -203,9 +203,17 @@ XLVI. Trato Digno y Respetuoso: Las medidas que esta Ley y su reglamento, así c
 
 XLVII. Uncimiento: Acción de colocar los arreos, riendas y sillas a los animales de carga, tiro o monta;
 
-XLVIII. Vivisección: Procedimiento quirúrgico a un animal vivo en condiciones asépticas y bajo los efectos de un anestésico apropiado, con el objeto de ampliar los conocimientos acerca de los procesos patológicos y fisiológicos de los animales y los humanos; y
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-XLIX. Zoonosis: Enfermedad transmisible de los animales a los seres humanos.
+XLVIII. Vivisección. Procedimiento quirúrgico a un animal vivo en condiciones asépticas y bajo los efectos de un anestésico apropiado, con el objeto de ampliar los conocimientos acerca de los procesos patológicos y fisiológicos de los animales y los humanos;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XLIX. Zoonosis: Enfermedad Transmisible de los animales a los seres vivos; y,
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+L. Mutilación estética: Toda intervención quirúrgica innecesaria para modificar o alterar el aspecto de cualquier animal.
 
 ###### Artículo 5.
 
@@ -1409,9 +1417,11 @@ VI. El daño ocasionado en la integridad física del animal.
 
 En el caso en que el infractor realice las medidas correctivas o subsane las irregularidades en que hubiere incurrido, previamente a que la autoridad imponga una sanción, dicha situación deberá considerarse como atenuante de la infracción cometida.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 129.
 
-Para los efectos del artículo anterior las infracciones se clasifican de gravedad alta, media y baja.
+Para los efectos del artículo anterior, las infracciones se clasifican de gravedad alta, media y baja.
 
 Son infracciones de gravedad alta:
 
@@ -1419,7 +1429,9 @@ I. El maltrato de animales que les cause invalidez o muerte;
 
 II. El abandono de animales;
 
-III. Practicar una mutilación con fines exclusivamente estéticos o sin utilidad alguna salvo las practicadas por veterinarios en caso de necesidad;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+III. Practicar una mutilación con fines exclusivamente estéticos o sin utilidad alguna;
 
 IV. Suministrar a los animales de forma intencional o negligente, sustancias u objetos que causen o puedan causar daños o muerte al animal;
 
@@ -1566,3 +1578,15 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 DR. JESÚS MARTÍNEZ GARNELO.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 239 POR MEDIO DEL CUAL SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 129 Y SE ADICIONA LA FRACCIÓN L DEL ARTÍCULO 4 DE LA LEY NÚMERO 491 DE BIENESTAR ANIMAL DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase al Titular del Poder Ejecutivo del Estado de Guerrero, para su conocimiento y efectos legales procedentes.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero, para su conocimiento general.
