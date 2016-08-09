@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "2016-06-03"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 3 DE JUNIO DE 2016 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 405 PUBLICADO EN EL P.O. DE 3 DE JUNIO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -145,15 +143,23 @@ XIV. Fomentar en el individuo la cultura de la informática y de una segunda len
 
 XV. Todas las escuelas sin excepción alguna incluirán en sus diversos programas de estudios el lenguaje no discriminatorio y con perspectiva de género, para que los educandos en cualquiera de sus niveles lo utilicen en los diversos ámbitos de su vida cotidiana y que esto permita el uso del mismo en todos los ámbitos sociales.
 
-> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
 
-ARTICULO 7° BIS.- El criterio que orientará a la educación que el Estado y sus organismos descentralizados impartan así como toda la educación preescolar, la primaria, la secundaria, media superior, la normal y demás para la formación de maestros de educación básica que los particulares impartan- se basará en los resultados del progreso científico; luchará contra la ignorancia y sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia especialmente la que se ejerce contra las mujeres y niños, debiendo implementar políticas públicas de Estado orientadas a la transversalidad de criterios en los tres órdenes de gobierno y:
+ARTICULO 7° BIS.- El criterio que orientará a la educación que el Estado y sus organismos descentralizados impartan -así como toda la educación preescolar, la primaria, la secundaria, media superior, la normal y demás para la formación de las y los maestros de educación básica que los particulares impartan- se basará en los resultados del progreso científico; luchará contra la ignorancia y sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia especialmente la que se ejerce contra las mujeres, niñas, niños y adolescentes, debiendo implementar políticas públicas de Estado orientadas a la transversalidad de criterios en los tres órdenes de gobierno y:
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2014)</small>
 
 I. Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
 
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2014)</small>
+
 II. Será nacional enfocada a nuestro Estado, en cuanto -sin hostilidades ni exclusivismos- atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura;
 
-III. Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos, y
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+III. Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en las y los educandos, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todas las personas, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos, y
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2014)</small>
 
 IV. Será de calidad, entendiéndose por ésta la congruencia entre los objetivos, resultados y procesos del sistema educativo, conforme a las dimensiones de eficacia, eficiencia, pertinencia, equidad, impacto y suficiencia.
 
@@ -245,7 +251,7 @@ III. Tomar las medidas que permitan la colaboración efectiva de alumnos, maestr
 
 Corresponden a la autoridad educativa estatal, de manera concurrente con la federación, las atribuciones que señala la Ley General de Educación y demás disposiciones aplicables.
 
-El Ejecutivo del Estado podrá celebrar con la Federación convenios para coordinar y unificar las actividades educativas a que se refiere este artículo en los términos establecidos en a Ley General de Educación.
+El Ejecutivo del Estado podrá celebrar con la Federación convenios para coordinar y unificar las actividades educativas a que se refiere este artículo en los términos establecidos en la Ley General de Educación.
 
 > <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
 
@@ -707,9 +713,11 @@ IX.- Fortalecer la conciencia histórica de identidad regional, estatal y nacion
 
 #### SECCIÓN PRIMERA. DE LA EDUCACIÓN ESPECIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 43.
 
-La educación especial constituye una área de apoyo psicopedagógico para personas con necesidades especiales, transitorias o definitivas, así como para aquéllas con capacidades o aptitudes sobresalientes en cualquier nivel de la educación básica, además del adiestramiento y capacitación para el trabajo.
+La educación especial constituye una área de apoyo psicopedagógico para personas con discapacidad, transitoria o definitiva, así como para aquéllas con capacidades o aptitudes sobresalientes en cualquier nivel de la educación básica, además del adiestramiento y capacitación para el trabajo.
 
 > <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
 
@@ -1764,3 +1772,19 @@ P.O. 12 DE ABRIL DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 405.- SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 7° DE LA LEY ESTATAL DE EDUCACIÓN".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 481.- SE REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN III DEL ARTÍCULO 7 BIS DE LA LEY ESTATAL DE EDUCACIÓN DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 485 POR EL QUE "SE MODIFICA EL ARTÍCULO 43 DE LA LEY ESTATAL DE EDUCACIÓN".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
