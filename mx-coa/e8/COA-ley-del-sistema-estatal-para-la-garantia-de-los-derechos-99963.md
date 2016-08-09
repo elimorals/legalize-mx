@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-estatal-para-la-garantia-de-los-derechos-99963"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-18"
-last_updated: "2015-05-19"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY DEL SISTEMA ESTATAL PARA LA GARANTIA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA
-
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 19 DE MAYO DE 2015, EN LOS CASOS EN QUE SE REFIERAN A HOGAR SUSTITUTO O A HOGAR PROVISIONAL, DEBERÁ ENTENDERSE COMO FAMILIA DE ACOGIDA O FAMILIA DE ACOGIMIENTO PRE - ADOPTIVA RESPECTIVAMENTE.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2015.
+LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 18 de marzo de 2014.
 
@@ -225,9 +225,9 @@ De niños, niñas y adolescentes en circunstancias especiales.
 
 Las autoridades estatales y municipales, a través del Consejo, deberán garantizar a niños, niñas y adolescentes:
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-I. El derecho al disfrute de una vida plena y digna cuando estén mental o físicamente impedidos, en condiciones que aseguren su dignidad, que le permitan llegar a bastarse a sí mismo y le faciliten la participación activa en la sociedad;
+I. El derecho al disfrute de una vida plena y digna cuando presenten discapacidad motora y/o intelectual, en condiciones que aseguren su dignidad, que le permitan llegar a bastarse a sí mismo y le faciliten la participación activa en la sociedad;
 
 II. El derecho a recibir tratamiento médico cuando se trate de adictos a sustancias que causan dependencia, tendiente a su rehabilitación, tomándose las medidas necesarias a fin de apoyar su salud física y psicológica;
 
@@ -1552,3 +1552,11 @@ SEGUNDO.- En los casos en que otras leyes hagan alusión a las Delegaciones Regi
 TERCERO.- En los casos en que otras leyes y demás disposiciones se refieran a hogar sustituto o a hogar provisional, deberá entenderse como familia de acogida o familia de acogimiento pre - adoptiva respectivamente.
 
 CUARTO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. 485 POR EL CUAL EN SU “ARTICULO VIGÉSIMO QUINTO.- SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 5, DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
