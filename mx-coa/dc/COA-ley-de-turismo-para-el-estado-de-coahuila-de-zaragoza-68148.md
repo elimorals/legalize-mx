@@ -4,7 +4,7 @@ identifier: "COA-ley-de-turismo-para-el-estado-de-coahuila-de-zaragoza-68148"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-10"
-last_updated: "2014-12-05"
+last_updated: "2016-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68148&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE TURISMO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 10 de febrero de 2009.
 
@@ -285,9 +285,11 @@ La Secretaría procurará la coordinación y colaboración entre las entidades f
 
 ### CAPÍTULO SEXTO. TURISMO SOCIAL
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 19.
 
-El Turismo Social tiene por objeto facilitar la participación e inclusión en el turismo de los grupos de trabajadores, niños, jóvenes, estudiantes, personas con capacidades diferentes, adultos mayores y demás sectores vulnerables de la población, que por razones físicas, económicas, sociales o culturales tengan acceso limitado a disfrutar del patrimonio y los servicios turísticos, a través de los planes, proyectos y programas que instrumente la Secretaría.
+El Turismo Social tiene por objeto facilitar la participación e inclusión en el turismo de los grupos de trabajadores, niños, jóvenes, estudiantes, personas con discapacidad, adultos mayores y demás sectores vulnerables de la población, que por razones físicas, económicas, sociales o culturales tengan acceso limitado a disfrutar del patrimonio y los servicios turísticos, a través de los planes, proyectos y programas que instrumente la Secretaría.
 
 ###### Artículo 20.
 
@@ -405,7 +407,9 @@ VI. Expedir las facturas y comprobantes que amparen el cobro de los servicios pr
 
 VII. Colaborar y coordinarse con la Secretaria y demás autoridades en materia de turismo, en las acciones, planes, programas y proyectos que tengan por objeto promover e impulsar la actividad turística en la entidad;
 
-VIII. Facilitar, en los términos previstos por las disposiciones aplicables, la accesibilidad de las personas con capacidades diferentes a sus establecimientos;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+VIII. Facilitar, en los términos previstos por las disposiciones aplicables, la accesibilidad de las personas con discapacidad a sus establecimientos;
 
 IX. Colaborar con las entidades correspondientes en la protección de los recursos naturales involucrados en las actividades y servicios turísticos que proporcionen, mediante la difusión de acciones de protección y conservación del medio ambiente a los turistas;
 
@@ -656,3 +660,11 @@ SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
 P.O. 5 DE DICIEMBRE DE 2014.
 
 ÚNICO.- El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 485.- SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 359, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
