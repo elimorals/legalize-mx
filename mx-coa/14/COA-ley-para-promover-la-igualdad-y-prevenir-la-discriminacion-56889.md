@@ -4,7 +4,7 @@ identifier: "COA-ley-para-promover-la-igualdad-y-prevenir-la-discriminacion-5688
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-24"
-last_updated: "2016-07-08"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 24 de agosto de 2007.
 
@@ -371,7 +371,9 @@ Para el cumplimiento del objeto de esta ley, la Secretaría de Obras Públicas y
 
 I. Difundir y gestionar en coordinación con los municipios, o instancias correspondientes la preferencia en el transporte público en uno de cada diez asientos ubicados estratégicamente, para facilitar el ascenso y descenso de las personas que por su edad o discapacidad así lo requieran, ofreciendo la señalización adecuada;
 
-II. Promover sanciones para aquellas personas que no respeten los señalamientos viales y los espacios exclusivos para el uso de personas discapacitadas, y
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+II. Promover sanciones para aquellas personas que no respeten los señalamientos viales y los espacios exclusivos para el uso de personas con discapacidad, y
 
 III. Las demás que señalen esta ley y otras disposiciones aplicables.
 
@@ -966,3 +968,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación (sic)
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al siguiente decreto
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 485.- SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 359, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
