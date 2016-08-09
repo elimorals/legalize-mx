@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-e-inclusion-de-las-personas-con-94481"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2016-06-28"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY PARA EL DESARROLLO E INCLUSION DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE OCTUBRE DE 2016 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -57,7 +59,9 @@ I. Accesibilidad. Las medidas pertinentes para asegurar el acceso de las persona
 
 II. Ajustes razonables. Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
 
-III. Asistencia social. Conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo e inclusión, así como la protección física, mental y social de personas en estado de necesidad, indefensión, desventaja física y mental, para procurar lograr su incorporación a una vida plena y productiva;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+III. Asistencia social. Conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo e inclusión, así como la protección física, mental y social de personas en estado de necesidad, indefensión, con alguna discapacidad física o mental, para procurar lograr su incorporación a una vida plena y productiva;
 
 IV. Ayudas técnicas. Los dispositivos tecnológicos y materiales que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales o intelectuales de las personas con discapacidad;
 
@@ -65,7 +69,9 @@ V. Barreras de la sociedad. Obstáculos físicos y actitudes de rechazo, indifer
 
 VI. Comunicación. El lenguaje escrito, oral y la lengua de señas mexicana, la visualización de textos, sistema braille, la comunicación táctil, los macrotipos, los dispositivos multimedia escritos o auditivos de fácil acceso, el lenguaje sencillo, los medios de voz digitalizada y otros modos, medios, sistemas, formatos y tableros aumentativos o alternativos de comunicación y señalizadores, incluida la tecnología de la información y las comunicaciones de fácil acceso;
 
-VII. Comunidad de sordos. Todo aquel grupo social cuyos miembros tienen alguna deficiencia del sentido auditivo que les limita sostener una comunicación y socialización regular y fluida en lengua oral, por lo que requieren de otros sistemas alternativos de acceso a la información;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+VII. Comunidad de personas sordas. Todo aquel grupo social cuyos miembros tienen alguna discapacidad auditiva que les limita sostener una comunicación y socialización regular y fluida en lengua oral, por lo que requieren de otros sistemas alternativos de acceso a la información;
 
 VIII. Comisión Interinstitucional: la que se integra por la Comisión de Derechos Humanos del Estado de Coahuila, la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial, la Secretaría de Desarrollo Social, la Secretaría de Infraestructura, la Secretaría de Salud, la Secretaría de Educación, el Sistema Estatal para el Desarrollo Integral de la Familia y Protección de Derechos, la Secretaría del Trabajo, la Secretaría de Cultura, la Secretaría de Desarrollo Rural, la Secretaría de Turismo y la Secretaría del Medio Ambiente; tendrá por objeto coadyuvar en acciones específicas de concertación, coordinación, planeación, promoción, seguimiento y vigilancia que permitan garantizar condiciones favorables a las personas que enfrentan alguna discapacidad;
 
@@ -77,7 +83,9 @@ XI. Diseño universal. El diseño de productos, entornos, infraestructura, progr
 
 XII. Empresa comprometida con la inclusión. Fuente de trabajo que adopta la cultura y el compromiso social de incluir en su planta laboral a personas con discapacidad;
 
-XIII. Educación especial. Aquella destinada a individuos con discapacidades transitorias o definitivas, así como a aquellos con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, con equidad social incluyente y con perspectiva de género;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XIII. Educación especial. Aquella destinada a personas con discapacidades transitorias o definitivas, así como a aquellos con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, con equidad social incluyente y con perspectiva de género;
 
 XIV. Educación Inclusiva. Aquella que propicia la inclusión y participación de personas con discapacidad en los planteles de educación inicial, prescolar, primaria, secundaria, media terminal, media superior, superior, universitaria y posgrado, mediante la aplicación de métodos, técnicas y materiales específicos;
 
@@ -95,7 +103,9 @@ XX. Intérprete: La persona oyente encargada de transmitir los mensajes entre do
 
 XXI. Lenguaje. Facultad cerebral superior del ser humano para comunicarse a través de signos de secuencias sonoras o signos gráficos. Se entenderá tanto el lenguaje oral como la lengua de señas y otras formas de comunicación no verbal;
 
-XXII. Lengua de señas mexicana. Lengua de una comunidad de sordos, que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística, forma parte del patrimonio lingüístico de dicha comunidad y es tan rica y compleja en gramática y vocabulario como cualquier lengua oral;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XXII. Lengua de señas mexicana. Lengua de una comunidad de personas sordas, que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística, forma parte del patrimonio lingüístico de dicha comunidad y es tan rica y compleja en gramática y vocabulario como cualquier lengua oral;
 
 XXIII. Ley: Ley para Desarrollo e Inclusión de las Personas con Discapacidad del Estado de Coahuila de Zaragoza;
 
@@ -103,15 +113,19 @@ XXIV. Organizaciones. Todas aquellas organizaciones sociales constituidas legalm
 
 XXV. Perro guía o animal de servicio. Aquel que habiendo pasado pruebas de selección física, genética y sanitaria, ha concluido su adiestramiento en centros especializados reconocidos, y adquirido las aptitudes y destrezas necesarias para el acompañamiento, la conducción y el auxilio de personas con discapacidad.
 
-XXVI. Persona competente en lengua de señas mexicana: Es la persona que su nivel de lengua de señas, le permite tener interacciones de comunicación con la comunidad de sordos, que cumplan las funciones comunicativas básicas que se requieran de acuerdo a su labor.
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2016)</small>
+XXVI. Persona competente en lengua de señas mexicana: Es la persona que su nivel de lengua de señas, le permite tener interacciones de comunicación con la comunidad de personas sordas, que cumplan las funciones comunicativas básicas que se requieran de acuerdo a su labor.
 
-XXVII. Persona con discapacidad. Toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, o un trastorno de talla y peso congénito o adquirido, ya sea permanente o temporal, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás.
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XXVII. Persona con discapacidad. Toda persona que por razón congénita o adquirida presenta una o más discapacidades de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás.
 
 XXVIII. Política pública. Todos aquellos planes, programas o acciones que las autoridades Estatales y Municipales desarrollen para asegurar los derechos establecidos en la presente ley;
 
-XXIX. Prevención. La adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, intelectuales, mentales y sensoriales;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XXIX. Prevención. La adopción de medidas encaminadas a impedir que se produzcan discapacidades físicas, intelectuales, mentales y sensoriales;
 
 XXX. Programa. El Programa Estatal para el Desarrollo e Inclusión de las Personas con Discapacidad en el Estado de Coahuila de Zaragoza;
 
@@ -309,7 +323,9 @@ Ninguna persona con discapacidad deberá ser sometida sin su libre consentimient
 
 El Gobierno del Estado y los Municipios están obligados a adoptar las medidas necesarias para:
 
-I. Que el diagnóstico que se establezca sobre una deficiencia intelectual se formule acorde con diferentes procedimientos clínicos y bajo las normas científicas internacionales que garanticen ante todo la salva guarda de los Derechos Humanos;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+I. Que el diagnóstico que se establezca sobre una discapacidad intelectual se formule acorde con diferentes procedimientos clínicos y bajo las normas científicas internacionales que garanticen ante todo la salvaguarda de los Derechos Humanos;
 
 II. Que ninguna persona con discapacidad sea sometida a restricciones físicas o a reclusión involuntaria sin la intervención y autorización de la familia o autoridad competente en los ámbitos médico y legal; y
 
@@ -393,7 +409,9 @@ IX. Establecer un programa estatal de becas educativas y becas de capacitación 
 
 X. Diseñar e implementar programas de formación y capacitación de intérpretes, estenógrafos del español y demás personal especializado en la difusión y uso conjunto del español y la lengua de señas mexicana;
 
-XI. Impulsar toda forma de comunicación escrita que facilite al sordo hablante, al sordo señante o semilingüe, el desarrollo y uso de la lengua en forma escrita;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XI. Impulsar toda forma de comunicación escrita que facilite a la persona sordo hablante, a la persona sordo señante o semilingüe, el desarrollo y uso de la lengua en forma escrita;
 
 XII. Impulsar programas de investigación, preservación y desarrollo de la lengua de señas mexicana, de las personas con discapacidad auditiva y de las formas de comunicación de las personas con discapacidad visual;
 
@@ -765,7 +783,9 @@ Las autoridades de obras públicas tanto estatales como municipales establecerá
 
 La persona con discapacidad acompañada de perro guía, tendrá preferencia para ocupar los asientos con mayor espacio libre o adyacente a un pasillo, según el medio de transporte de que se trate.
 
-En los servicios de autos de alquiler, el perro guía irá preferentemente en la parte trasera del vehículo, a los pies de la persona con deficiencias visuales o con discapacidad. No obstante, y a elección de las personas usuarias de perros guía, se podrán ocupar asientos delanteros, teniendo el perro a sus pies, especialmente en los trayectos de largo recorrido.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+En los servicios de autos de alquiler, el perro guía irá preferentemente en la parte trasera del vehículo, a los pies de la persona con discapacidad. No obstante, y a elección de las personas usuarias de perros guía, se podrán ocupar asientos delanteros, teniendo el perro a sus pies, especialmente en los trayectos de largo recorrido.
 
 ###### Artículo 72°.
 
@@ -843,7 +863,9 @@ I. Mantener al perro a su lado, con la correa y arnés que en su caso sea necesa
 
 II. Llevar identificado de forma visible al perro guía, llevando consigo la documentación sanitaria, cuando sea requerido para ello.
 
-III. Utilizar al perro de asistencia para aquellas funciones para las que fue entrenado, atendiendo siempre a las normas de higiene y seguridad en los lugares públicos o de uso público, en la medida en que su deficiencia visual o discapacidad le permita.
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+III. Utilizar al perro de asistencia para aquellas funciones para las que fue entrenado, atendiendo siempre a las normas de higiene y seguridad en los lugares públicos o de uso público, en la medida en que su discapacidad le permita.
 
 IV. Cumplir y hacer que los demás cumplan los principios de respeto, defensa, convivencia pacífica, trato digno y protección del perro guía.
 
@@ -1130,3 +1152,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación el Pe
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al siguiente (sic) decreto.
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 485.- SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 359, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
