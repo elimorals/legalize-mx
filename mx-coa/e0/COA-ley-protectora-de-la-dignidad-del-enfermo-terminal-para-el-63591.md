@@ -4,7 +4,7 @@ identifier: "COA-ley-protectora-de-la-dignidad-del-enfermo-terminal-para-el-6359
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-18"
-last_updated: "2008-07-18"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63591&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PROTECTORA DE LA DIGNIDAD DEL ENFERMO TERMINAL, PARA EL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 18 de julio de 2008.
 
@@ -181,15 +181,21 @@ El otorgamiento de un nuevo Documento de Disposiciones Previsoras revocará los 
 
 Si una persona ha otorgado un Documento de Disposiciones Previsoras y posteriormente emite un consentimiento informado eficaz que contraría, exceptúa o matiza las instrucciones contenidas en aquél, para la situación presente o el tratamiento en curso, prevalecerá lo manifestado mediante el consentimiento informado para ese proceso clínico, aunque a lo largo del mismo quede en situación de no poder expresar su voluntad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 15.
 
-Casos de Discapacidad. Cuando el Autor del Documento de Disposiciones Previsoras sea sordo, ciego, no sepa o no pueda firmar, se observará lo siguiente:
+Casos de Discapacidad.- Cuando el Autor del Documento de Disposiciones Previsoras sea una persona sorda, persona ciega, no sepa o no pueda firmar, se observará lo siguiente:
 
-I.- Cuando el otorgante sea sordo, pero sepa leer, deberá dar lectura al contenido del documento; si no supiere o no pudiere hacerlo, se designará a un intérprete autorizado o que forme parte de la lista de auxiliares de la administración de justicia del Poder Judicial del Estado, para que lo lea por él y le dé a conocer su contenido a efecto de que se imponga del texto del documento y de sus consecuencias legales.
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+I.- Cuando el otorgante sea una persona sorda, pero sepa leer, deberá dar lectura al contenido del documento; si no supiere o no pudiere hacerlo, se designará a un intérprete autorizado o que forme parte de la lista de auxiliares de la administración de justicia del Poder Judicial del Estado, para que lo lea por él y le dé a conocer su contenido a efecto de que se imponga del texto del documento y de sus consecuencias legales.
 
 El intérprete firmará el Acta y se hará constar esta circunstancia;
 
-II.- Cuando el otorgante sea ciego o no pueda o no sepa leer, se dará lectura al contenido del documento dos veces, una por el Notario y otra por la persona que necesariamente deberá designar el otorgante y que también firmará el Acta; y,
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+II.- Cuando el otorgante sea una persona ciega o no pueda o no sepa leer, se dará lectura al contenido del documento dos veces, una por el Notario y otra por la persona que necesariamente deberá designar el otorgante y que también firmará el Acta; y
 
 III.- Cuando el otorgante no pueda o no sepa firmar, imprimirá su huella digital y, además, firmará por él la persona que para el caso designe. La huella digital que deberá imprimirse será la del dedo índice de cualquiera de sus manos.
 
@@ -249,13 +255,13 @@ ANTONIO JUAN MARCOS VILLARREAL.
 
 DIPUTADA SECRETARIA.
 
-JULlETA LÓPEZ FUENTES.
+JULIETA LÓPEZ FUENTES.
 
 (RÚBRICA)
 
 DIPUTADO SECRETARIO.
 
-LEOCADlO HERNÁNDEZ TORRES.
+LEOCADIO HERNÁNDEZ TORRES.
 
 (RÚBRICA)
 
@@ -271,7 +277,7 @@ PROFR. HUMBERTO MOREIRA VALDÉS
 
 EL SECRETARIO DE GOBIERNO
 
-LlC. HOMERO RAMOS GLORIA
+LIC. HOMERO RAMOS GLORIA
 
 (RÚBRICA)
 
@@ -280,3 +286,13 @@ EL SECRETARIO DE SALUD
 DR. RAYMUNDO VERDUZCO ROSÁN
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 485.- SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 359, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
