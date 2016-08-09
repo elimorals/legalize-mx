@@ -4,7 +4,7 @@ identifier: "COA-ley-de-transito-y-transporte-del-estado-de-coahuila-de-3803"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-19"
-last_updated: "2016-05-27"
+last_updated: "2016-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3803&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 19 de enero de 1996.
 
@@ -245,6 +245,32 @@ La tarjeta de circulación es el comprobante de registro de un vehículo ante la
 
 Las placas y documentación a que se refiere el párrafo anterior serán propiedad del Gobierno del Estado, y los particulares tendrán, respecto de ellos, las obligaciones y deberes de un depositario, conforme a las disposiciones aplicables en la materia.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE AGOSTO DE 2016)</small>
+
+La Secretaría, por medio de la Secretaría de Finanzas y a través de la Administración Fiscal General, podrá otorgar placas de circulación o calcomanías para vehículos destinados al servicio particular conducidos o al servicio de personas con discapacidad motriz, auditiva, visual, intelectual o de cualquier otro tipo, residentes en el Estado, siempre y cuando cumpla con los requisitos previstos en el artículo 22 bis de la presente ley.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+ARTICULO 22 BIS.- Requisitos para la obtención de placas de circulación o calcomanías para vehículos destinados al servicio particular conducidos o al servicio de personas con discapacidad motriz, auditiva, visual, intelectual o de cualquier otro tipo, residentes en el Estado:
+
+a) Que la discapacidad motriz, auditiva, visual, intelectual o de cualquier otro tipo esté plenamente acreditada mediante certificado médico de especialista o de institución médica pública, el cual deberá mencionar o precisar, entre otras cosas, el grado de discapacidad.
+
+La Secretaría de Salud, podrá valerse de cualquier medio legal idóneo para cerciorarse de la discapacidad.
+
+b) Que quien solicite las placas sea la persona con discapacidad, su cónyuge, compañero civil, concubino, familiar, o la persona encargada de su cuidado, quienes deberán acreditar en su caso el grado de parentesco con el acta de registro civil correspondiente.
+
+Asimismo, los sujetos antes mencionados deberán acreditar con información testimonial ante la autoridad administrativa, que son los encargados de la transportación de la persona con discapacidad y que el vehículo para el que se está solicitando las placas sirve para el cumplimiento de dicho objeto
+
+c) Se otorgará únicamente un juego de placas por persona con discapacidad, que se expedirá a éste o a su cónyuge, compañero civil, concubino, familiar o la persona encargada de su cuidado, siempre que acredite lo establecido en el inciso anterior.
+
+d) Tratándose de personas morales que atiendan a personas con discapacidad y utilicen vehículos para su traslado, deberán acreditar dicha situación; en este caso no aplicará la limitante de un solo vehículo.
+
+e) En el caso de personas morales, se deberá también acreditar, la personalidad del representante legal, además de justificar la discapacidad motriz, auditiva, visual, intelectual o de cualquier otro tipo permanente del empleado y la carta de asignación del vehículo de la empresa al mismo.
+
+Lo anterior, con independencia de los demás requisitos necesarios para el trámite de placas.
+
+Las placas a que se refiere el Artículo 22, no se otorgarán para vehículos de carga, ni para vehículos de transporte público.
+
 ###### ARTICULO 23.
 
 El otorgamiento de placas de matriculación quedará sujeto a los convenios que sobre la materia celebre el titular del Ejecutivo del Estado con otras autoridades, así como a las disposiciones que sobre el particular expida el propio Gobernador por conducto de la Secretaría.
@@ -373,9 +399,9 @@ V.- Servicio público de transporte de materiales para la construcción, aquel q
 
 VI.- Servicio de turismo, el que se presta a personas que viajan a lugares de interés turístico, arqueológico, histórico o de recreo ubicados en la entidad, estando sujeto a tarifa y pudiendo o no contar con itinerario y horario determinados;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-VII.- Servicio de transporte especializado escolar, para trabajadores o para personas con capacidades diferentes, el que se presta a quienes viajan desde sus domicilios a sus centros de estudio, trabajo y hospitales o cuando su destino de transportación se relacione con fines educativos, laborales o de atención médica. Este transporte se prestará en vehículos cerrados con equipo adicional que a juicio de la Secretaría se requiera para la prestación de este servicio y podrá estar o no sujeto a itinerario, tarifa y horario determinado. En ningún caso los permisos otorgados para la prestación de este servicio podrán utilizarse para cubrir rutas o itinerarios distintos a los que expresamente les fueron autorizados, lo anterior será causa de la suspensión o cancelación del permiso;
+VII.- Servicio de transporte especializado escolar, para trabajadores o para personas con discapacidad, el que se presta a quienes viajan desde sus domicilios a sus centros de estudio, trabajo y hospitales o cuando su destino de transportación se relacione con fines educativos, laborales o de atención médica. Este transporte se prestará en vehículos cerrados con equipo adicional que a juicio de la Secretaría se requiera para la prestación de este servicio y podrá estar o no sujeto a itinerario, tarifa y horario determinado. En ningún caso los permisos otorgados para la prestación de este servicio podrán utilizarse para cubrir rutas o itinerarios distintos a los que expresamente les fueron autorizados, lo anterior será causa de la suspensión o cancelación del permiso.
 
 VIII.- Servicio público de automóviles de alquiler, el destinado a la transportación de personas, sin itinerario fijo con horario determinado o no y con tarifa por viaje;
 
@@ -445,11 +471,11 @@ En el supuesto a que se refiere el artículo que antecede, así como para los ef
 
 Se requerirá concesión para la prestación del servicio de transporte colectivo urbano e intermunicipal de pasajeros, así como para los de automóviles de alquiler, servicio mixto, transporte de carga ligera, transporte de materiales para la construcción y transporte de agua.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 50.
 
-Se requerirá permiso para el servicio de turismo, el transporte especializado escolar o para trabajadores o transporte especializado para personas con capacidades diferentes, el servicio de grúas para el arrastre o transporte de vehículos, el servicio de carga especializada y para el transporte de los productos a que se refieren los artículos 41 y 42 de esta Ley.
+Se requerirá permiso para el servicio de turismo, el transporte especializado escolar o para trabajadores o transporte especializado para personas con discapacidad, el servicio de grúas para el arrastre o transporte de vehículos, el servicio de carga especializada y para el transporte de los productos a que se refieren los artículos 41 y 42 de esta Ley.
 
 ###### ARTICULO 51.
 
@@ -481,11 +507,11 @@ Las concesiones para los servicios públicos previstos en esta Ley sólo podrán
 
 El otorgamiento de las concesiones se llevará a cabo mediante concurso, conforme a lo dispuesto en el Código Municipal para el Estado de Coahuila de Zaragoza en relación a la concesión de servicios públicos, en esta ley, su reglamento y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 55.
 
-Las concesiones y permisos para explotar el servicio público de transporte urbano, intermunicipal, de pasajeros, transporte de agua, de carga ligera, de transporte de materiales para la construcción de turismo, de transporte especializado, escolar, para trabajadores y para personas con capacidades diferentes, de automóviles de alquiler, de grúas o remolques para el arrastre o transporte de vehículos, de carga especializada y de transporte mixto se otorgarán a personas físicas y morales de acuerdo a su capacidad técnica, administrativa y financiera.
+Las concesiones y permisos para explotar el servicio público de transporte urbano, intermunicipal, de pasajeros, transporte de agua, de carga ligera, de transporte de materiales para la construcción de turismo, de transporte especializado, escolar, para trabajadores y para personas con discapacidad, de automóviles de alquiler, de grúas o remolques para el arrastre o transporte de vehículos, de carga especializada y de transporte mixto se otorgarán a personas físicas y morales de acuerdo a su capacidad técnica, administrativa y financiera.
 
 ###### ARTICULO 56.
 
@@ -657,13 +683,11 @@ El monto de la caución será fijado por las autoridades competentes de conformi
 
 Los concesionarios del transporte público de pasajeros deberán, dentro del plazo a que se refiere el artículo anterior, contratar seguros de viajero con compañía autorizadas legalmente para tal fin y/o pertenecer a un fondo de contingencia o fideicomiso constituido por concesionarios o permisionarios, conforme a lo establecido por esta ley, su reglamento y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 67.
 
-Los permisos a que se refiere el artículo 50 de esta Ley serán otorgados por la Secretaría sin sujetarse a concurso y tendrán una vigencia de un año, excepto los permisos para transporte especializado de personal, escolar y personas con capacidades diferentes que tendrán vigencia de cinco años.
-
-Para el otorgamiento de los permisos, se exigirán los mismos requisitos que prevé esta ley para obtener la concesión.
+Los permisos a que se refiere el artículo 50 de esta Ley serán otorgados por la Secretaría sin sujetarse a concurso y tendrán una vigencia de un año, excepto los permisos para transporte especializado de personal, escolar y personas con discapacidad que tendrán vigencia de cinco años.
 
 ###### ARTICULO 68.
 
@@ -679,17 +703,17 @@ Los derechos obtenidos a través de la concesión o permiso sólo podrán ceders
 
 El adjudicatario de una concesión o permiso no podrá explotarlos si no cumple con los requisitos que para tal efecto establecen en esta Ley, su Reglamento y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 70.
 
-La Secretaría, podrá autorizar el gravamen de las concesiones del servicio público de pasajeros y de los bienes afectos a las mismas cuando se garanticen créditos destinados a la mejora del servicio. Igualmente podrán autorizar el gravamen de los permisos del servicio especializado escolar, de personal y de personas con capacidades diferentes. Los Ayuntamientos podrán autorizar, previa solicitud y aprobación por escrito de la Subsecretaría, el gravamen de las concesiones del servicio público de pasajeros y de los bienes afectos a las mismas cuando se garanticen créditos destinados a la mejora del servicio.
+La Secretaría, podrá autorizar el gravamen de las concesiones del servicio público de pasajeros y de los bienes afectos a las mismas cuando se garanticen créditos destinados a la mejora del servicio. Igualmente podrán autorizar el gravamen de los permisos del servicio especializado escolar, de personal y de personas con discapacidad. Los Ayuntamientos podrán autorizar, previa solicitud y aprobación por escrito de la Subsecretaría, el gravamen de las concesiones del servicio público de pasajeros y de los bienes afectos a las mismas cuando se garanticen créditos destinados a la mejora del servicio.
 
 Tratándose del arrendamiento financiero, las partes que intervengan en él convendrán en afectar y someter los bienes arrendados al régimen especial de las concesiones.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
-Las concesiones del servicio público de pasajeros y los permisos del servicio especializado escolar, de personal y de personas con capacidades diferentes y demás bienes afectos a la prestación del servicio, no podrán ser objeto de intervención, salvo que el adeudo provenga de la adquisición de tales bienes.
+Las concesiones del servicio público de pasajeros y los permisos del servicio especializado escolar, de personal y de personas con discapacidad y demás bienes afectos a la prestación del servicio, no podrán ser objeto de intervención, salvo que el adeudo provenga de la adquisición de tales bienes.
 
 El adjudicatario de una concesión no podrá explotarla si no cumple con los requisitos establecidos en esta Ley, su Reglamento y demás disposiciones aplicables y obtiene la autorización previa de las autoridades competentes.
 
@@ -1041,11 +1065,11 @@ II.- La devolución de cualquier cantidad del precio cobrado cuando aquélla tie
 
 III.- La expedición de boletos que autoricen la prestación gratuita del servicio, así como los de cortesía, excepto aquellos que se determinen por acuerdo de las autoridades competentes y los prestadores del servicio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 101.
 
-Los niños menores de cinco años no pagarán tarifa alguna y los estudiantes de cualquier grado, las personas con capacidades diferentes y los adultos mayores, gozarán de tarifas especiales previa justificación de su calidad mediante la exhibición de los documentos correspondientes.
+Los niños menores de cinco años no pagarán tarifa alguna y los estudiantes de cualquier grado, las personas con discapacidad y los adultos mayores, gozarán de tarifas especiales previa justificación de su calidad mediante la exhibición de los documentos correspondientes.
 
 Fuera de los supuestos a que se refiere esta Ley, las tarifas se aplicarán uniformemente a todas las personas que hagan uso de los vehículos destinados al servicio público del transporte de pasajeros.
 
@@ -1628,3 +1652,23 @@ SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
 TERCERO.- Las licencias de conducir que se hayan expedido antes de la entrada en vigor del presente decreto, continuarán vigentes hasta la fecha de su expedición.
 
 CUARTO.- Las licencias de conducir que se hayan expedido para automovilistas o chofer particular de conformidad con lo previsto por esta ley, a la entrada en vigor del presente decreto facultará a sus poseedores para conducir cualquier clase de vehículo del servicio particular.
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 485.- SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 359, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 486.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 22 Y SE ADICIONA EL ARTÍCULO 22 BIS A LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
