@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2016-04-12"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 30 de diciembre de 2014.
 
@@ -1389,7 +1389,9 @@ VII. Realización de foros, conferencias y talleres en materia laboral y darle s
 
 VIII. Erradicación del trabajo infantil en todas sus modalidades, respetando las permisibles por la ley de la materia;
 
-IX. Impulso y promoción del trabajo, la capacitación y el adiestramiento de las personas de capacidades diferentes, adultos mayores, pensionados y jubilados, en coordinación con la comisión respectiva;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+IX. Impulso y promoción del trabajo, la capacitación y el adiestramiento de las personas con discapacidad, adultos mayores, pensionados y jubilados, en coordinación con la comisión respectiva;
 
 X. Reconocimiento de condiciones de igualdad para el acceso de hombres y mujeres al desarrollo de las actividades productivas;
 
@@ -1443,15 +1445,21 @@ V. Otros asuntos que sean o se consideren de la competencia de esta comisión.
 
 La Comisión de Atención a Grupos en Situación de Vulnerabilidad conocerá de los asuntos relacionados con:
 
-I. Trato digno a las personas con capacidades diferentes, adultos mayores, pensionados y jubilados;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+I. Trato digno a las personas con discapacidad, adultos mayores, pensionados y jubilados;
 
 II. Programas y oportunidades que propicien la ocupación de estas personas, así como para que realicen actividades recreativas y deportivas;
 
-III. Servicios asistenciales y de salud a favor de las personas con capacidades diferentes, adultos mayores, pensionados y jubilados;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+III. Servicios asistenciales y de salud a favor de las personas con discapacidad, adultos mayores, pensionados y jubilados;
 
 IV. Promoción de una cultura de respeto y consideración para estas personas;
 
-V. Legislación para mejorar la calidad de vida (sic) las personas con capacidades diferentes, adultos mayores, pensionados y jubilados; y
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+V. Legislación para mejorar la calidad de vida (sic) las personas con discapacidad, adultos mayores, pensionados y jubilados; y
 
 VI. Otros asuntos que sean o se consideren de la competencia de esta comisión.
 
@@ -3099,7 +3107,7 @@ Se derogan las disposiciones que se opongan al presente decreto.
 
 P.O. 12 DE ABRIL DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO No. 402.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 402.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3112,3 +3120,11 @@ Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 485.- SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 359, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
