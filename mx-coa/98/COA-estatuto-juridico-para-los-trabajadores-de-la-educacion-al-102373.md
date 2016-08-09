@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-de-la-educacion-al-1023
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-09-02"
-last_updated: "2014-12-30"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 ESTATUTO JURÍDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Estatuto publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 2 de septiembre de 2014.
 
@@ -67,9 +67,11 @@ VI.- Plantilla: Recurso o capital humano autorizado por las autoridades correspo
 
 VII.- Titular de la Secretaría: El Secretario de Educación y representante de la Secretaría en términos de lo dispuesto por su Reglamento Interior.
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 4.
 
-Salvo los requisitos previstos en el presente Estatuto, queda prohibido restringir las oportunidades de acceso, permanencia y ascenso de trabajo, así como limitar el ingreso a los programas de capacitación y formación profesional por razones de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+Salvo los requisitos previstos en el presente Estatuto, queda prohibido restringir las oportunidades de acceso, permanencia y ascenso de trabajo, así como limitar el ingreso a los programas de capacitación y formación profesional por razones de origen étnico o nacional, el género, la edad, la situación de discapacidad, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 ###### ARTÍCULO 5.
 
@@ -1220,3 +1222,11 @@ N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECR
 P.O. 30 DE DICIEMBRE DE 2014.
 
 ÚNICO- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. 485 POR EL QUE “SE MODIFICA EL ARTÍCULO 4 DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
