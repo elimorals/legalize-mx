@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-proteccion-de-los-no-fumadores-en-el-estado-de-5601
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-01"
-last_updated: "2014-03-18"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA PROTECCIÓN DE LOS NO FUMADORES EN EL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Coahuila, el viernes 1 de junio de 2007.
 
@@ -107,9 +107,9 @@ XXI. Sección: Área delimitada de un establecimiento;
 
 XXII. Secretaría de Salud: La Secretaría de Salud del Estado de Coahuila;
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-XXIII. Fiscalía General: La Fiscalía General del Estado;
+XXIII. Procuraduría: La Procuraduría General de Justicia del Estado de Coahuila de Zaragoza.
 
 XXIV. Terraza: Área de un establecimiento para que los clientes puedan sentarse al aire libre.
 
@@ -199,11 +199,11 @@ VI. Realizar, en conjunto con la iniciativa privada u organizaciones no gubernam
 
 VII. Las demás que le otorgue la ley y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 10.
 
-Corresponde a la Fiscalía General a través de la Policía del Estado y a la policía preventiva de los municipios las siguientes acciones:
+Corresponde a la Secretaría de Gobierno por conducto de la Comisión Estatal de Seguridad Pública y a la policía preventiva de los municipios las siguientes acciones:
 
 I. Poner a disposición de la autoridad municipal correspondiente, a las personas físicas que hayan sido sorprendidas consumiendo tabaco en cualquiera de sus presentaciones, en algún lugar prohibido, siempre que hayan sido requeridas a modificar su conducta y se nieguen a hacerlo;
 
@@ -211,9 +211,9 @@ II. Abstenerse de dar malos tratos o inducir a la corrupción a las personas fí
 
 III. Las demás que le otorguen ésta y demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
-Las atribuciones a que se refiere este artículo serán ejercidas por la Fiscalía General del Estado y la policía preventiva de los municipios, quienes al momento de ser informados de la comisión de una infracción, requerirán al infractor a modificar su conducta, a trasladarse a las áreas reservadas para fumadores o abandonar el lugar, y en caso de no acatar la indicación, se procederá de acuerdo a lo establecido en la fracción I del presente artículo.
+Las atribuciones a que se refiere este artículo serán ejercidas por la Procuraduría y la policía preventiva de los municipios, quienes al momento de ser informados de la comisión de una infracción, requerirán al infractor a modificar su conducta, a trasladarse a las áreas reservadas para fumadores o abandonar el lugar, y en caso de no acatar la indicación, se procederá de acuerdo a lo establecido en la fracción I del presente artículo.
 
 ###### Artículo 11.
 
@@ -235,9 +235,9 @@ VI. Las demás atribuciones que determine la presente ley y sus disposiciones re
 
 Corresponde a la autoridad municipal de salud
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-I. Conocer de las infracciones realizadas por las personas físicas que ponga a su disposición los elementos de la Policía del Estado de la Fiscalía General y la Policía Preventiva de los municipios;
+I. Conocer de las infracciones realizadas por las personas físicas que ponga a su disposición los elementos de la Policía del Estado de la Procuraduría y la Policía Preventiva de los municipios;
 
 II. Aplicar las sanciones que se deriven del incumplimiento de esta ley, y
 
@@ -341,9 +341,9 @@ El dueño, propietario o titular del establecimiento, o su personal, deberá exh
 
 La responsabilidad de los dueños, propietarios, poseedores o administradores, a que se refiere el presente artículo terminara en el momento en que dé aviso a la policía preventiva.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
-Los mecanismos y procedimientos que garanticen la eficacia en la aplicación de la medida referida en el párrafo anterior, quedarán establecidos en el reglamento respectivo que expida la Secretaría de Salud, en coordinación con la Fiscalía General.
+Los mecanismos y procedimientos que garanticen la eficacia en la aplicación de la medida referida en el párrafo anterior, quedaran establecidos en el reglamento respectivo que expida la Secretaría de Salud, en coordinación con la Procuraduría.
 
 ###### Artículo 21.
 
@@ -367,11 +367,11 @@ En las oficinas o instalaciones de los distintos órganos del Gobierno del Estad
 
 En caso de que los inmuebles por su estructura o distribución no respondan a tales circunstancias, la prohibición de fumar será aplicable en toda la superficie del mismo.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 24.
 
-Las personas físicas que no sean servidores públicos y que no respeten las disposiciones de la presente ley, cuando se encuentren en un edificio público, y que después de ser exhortadas a modificar su conducta o abandonar el lugar no lo hicieren, deberán ser puestas de inmediato a disposición de la autoridad respectiva, por cualquier elemento de la Policía del Estado de la Fiscalía General o de la policía preventiva municipal.
+Las personas físicas que no sean servidores públicos y que no respeten las disposiciones de la presente ley, cuando se encuentren en un edificio público, y que después de ser exhortadas a modificar su conducta o abandonar el lugar no lo hicieren, deberán ser puestas de inmediato a disposición de la autoridad respectiva, por cualquier elemento de la Policía del Estado de la Procuraduría o de la policía preventiva municipal.
 
 ###### Artículo 25.
 
@@ -483,17 +483,25 @@ Las sanciones administrativas podrán consistir en:
 
 I. Multa, que podrá ser de hasta por el importe entre 1, 000 a 4,000 días de salario mínimo diario general vigente en el Estado;
 
-II. Arresto hasta por 36 horas, y
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-III. Clausura de establecimientos y/o cancelación de concesiones o permisos según sea el caso.
+II. Suspensión temporal del servicio;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+III. Clausura definitiva del servicio, en cuyo caso quedarán sin efecto las autorizaciones que se hubieran otorgado al establecimiento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE AGOSTO DE 2016)</small>
+
+IV. Arresto por 36 horas.
 
 En el caso de reincidencia, se aplicará el doble del monto de la última sanción impuesta y arresto hasta por 36 horas en contra de quien cometiera dos o más infracciones en un período de un año calendario.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 41.
 
-Se sancionará con multa equivalente a diez días de salario mínimo diario general vigente, a las personas que fumen en los lugares que prohíbe el presente ordenamiento; la multa será impuesta por la Secretaría de Salud, y será puesto a disposición de ésta o de la autoridad municipal correspondiente, por cualquier elemento de la Policía del Estado de la Fiscalía General o de la policía preventiva.
+Se sancionará con multa equivalente a diez días de salario mínimo diario general vigente, a las personas que fumen en los lugares que prohíbe el presente ordenamiento; la multa será impuesta por la Secretaría de Salud, y será puesto a disposición de ésta o de la autoridad municipal correspondiente, por cualquier elemento de la Policía del Estado de la Procuraduría o de la policía preventiva.
 
 ###### Artículo 42.
 
@@ -686,3 +694,15 @@ CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 18 DE MARZO DE 2014.
 
 ÚNICO.- El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 509.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN DE LOS NO FUMADORES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 510.- SE REFORMA EL ARTÍCULO 40 PARA AGREGAR LAS FRACCIONES II, III, IV A LA LEY PARA LA PROTECCIÓN DE LOS NO FUMADORES EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
