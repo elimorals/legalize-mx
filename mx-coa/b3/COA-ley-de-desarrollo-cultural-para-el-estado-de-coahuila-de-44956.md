@@ -4,7 +4,7 @@ identifier: "COA-ley-de-desarrollo-cultural-para-el-estado-de-coahuila-de-44956"
 country: "mx"
 rank: "ley"
 publication_date: "2005-04-29"
-last_updated: "2013-01-18"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 29 de abril del 2005.
 
@@ -255,7 +255,9 @@ V. El conocimiento, fortalecimiento, desarrollo y difusión de las culturas ind�
 
 VI. El desarrollo y consolidación de los sistemas de casas de cultura, archivos, bibliotecas, museos y demás espacios de desarrollo cultural.
 
-VII. La animación cultural que aliente la creatividad, con especial énfasis en la niñez, la juventud, así como en personas de la tercera edad, y que estimule la integración de las personas con capacidades diferentes y demás grupos vulnerables.
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+VII. La animación cultural que aliente la creatividad, con especial énfasis en la niñez, la juventud, así como en personas de la tercera edad, y que estimule la integración de las personas con discapacidad y demás grupos vulnerables.
 
 VIII. La vinculación del sector cultural con los sectores educativo, turístico, de desarrollo social, del medio ambiente y demás sectores de la sociedad.
 
@@ -299,9 +301,11 @@ EL TRABAJO CULTURAL Y ARTÍSTICO EN EL FORTALECIMIENTO DE LA IDENTIDAD CULTURAL.
 
 EL TRABAJO CULTURAL Y ARTÍSTICO EN LA SOCIEDAD DEMOCRÁTICA. El Estado reconoce que el trabajo cultural y artístico es un factor determinante para la preservación de la identidad cultural. Impulsa la calidad de vida, la tolerancia, la justicia, la paz social y el desarrollo de la sociedad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 26.
 
-LA GARANTÍA DE NO-DISCRIMINACIÓN CULTURAL. Queda prohibida toda discriminación cultural motivada por origen étnico o nacional, género, edad, capacidades diferentes, condición social, condiciones de salud, religión, opiniones, preferencias u orientación sexual, estado civil o cualquier otra circunstancia o condición que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades individuales y colectivos.
+LA GARANTÍA DE NO-DISCRIMINACIÓN CULTURAL. Queda prohibida toda discriminación cultural motivada por origen étnico o nacional, género, edad, situación de discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias u orientación sexual, estado civil o cualquier otra circunstancia o condición que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades individuales y colectivos.
 
 Toda persona tiene derecho a adquirir y desarrollar la formación necesaria para el ejercicio de sus facultades creativas.
 
@@ -1576,3 +1580,11 @@ La Secretaría de Cultura preparará los trabajos correspondientes.
 TERCERO. El Ejecutivo del Estado, a través de la Secretaría de Cultura, deberá realizar los actos necesarios para dar cumplimiento a este Decreto.
 
 CUARTO. Dentro de los ciento ochenta días siguientes a la entrada en vigor de este Decreto, se expedirá el Reglamento del Consejo de Cultura.
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. 485 POR EL QUE “SE MODIFICA LA FRACCIÓN VII DEL ARTÍCULO 19 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 26 DE A LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
