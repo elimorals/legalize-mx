@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1135
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-08"
-last_updated: "2016-03-08"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el martes 8 de marzo de 2016.
 
@@ -351,7 +351,9 @@ El Gobierno del Estado de Coahuila de Zaragoza, y los municipios preverán en su
 
 Las entidades públicas deberán condenar la violencia contra la mujer y no invocar ninguna costumbre, tradición o consideración religiosa para eludir su obligación de procurar eliminarla. Del mismo modo aplicarán por todos los medios apropiados y sin demora las políticas públicas encaminadas a eliminar la violencia contra la mujer. Con este fin, deberán:
 
-I. Abstenerse de practicar la violencia contra la mujer;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+I. Rehusar la práctica de todo tipo de violencia contra la mujer;
 
 II. Proceder con la debida diligencia a fin de prevenir, investigar y sancionar, conforme a la legislación estatal, todo acto de violencia contra la mujer, ya se trate de actos perpetrados por autoridades o por particulares;
 
@@ -1724,3 +1726,13 @@ EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
 HOMERO RAMOS GLORIA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 488.- SE REFORMA EL ARTÍCULO 12, EN SU FRACCIÓN I, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
