@@ -4,7 +4,7 @@ identifier: "COA-ley-de-desarrollo-social-para-el-estado-de-coahuila-de-52277"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-27"
-last_updated: "2016-02-05"
+last_updated: "2016-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2006.
 
@@ -97,9 +97,9 @@ Libertad: El respeto a la capacidad de las personas para elegir los medios para 
 
 Participación Social: El derecho de las personas a organizarse, intervenir e integrarse individual o colectivamente en la formulación, ejecución y evaluación de las políticas, programas y acciones.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
-Respeto a la Diversidad: El reconocimiento del origen étnico, género, edad, discapacidad, condición social, de salud, religión, opiniones, preferencias, estado civil o cualquier otra para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias.
+Respeto a la Diversidad: El reconocimiento del origen étnico, género, edad, situación de discapacidad, condición social, de salud, religión, opiniones, preferencias, estado civil o cualquier otra para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias.
 
 Solidaridad: La colaboración y corresponsabilidad entre personas, grupos sociales y órdenes de gobiernos, para el mejoramiento de la calidad de vida de la sociedad.
 
@@ -728,3 +728,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación (sic)
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al siguiente (sic) decreto.
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. 485 POR EL QUE “SE MODIFICA EL PÁRRAFO OCTAVO DEL ARTÍCULO 6 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA ".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
