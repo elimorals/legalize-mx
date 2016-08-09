@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2016-05-27"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -1960,13 +1960,17 @@ La actuación de las instituciones de seguridad pública se regirá por los prin
 
 El Estado desarrollará políticas en materia de prevención social de la delincuencia con carácter integral, sobre las causas que generan violencia, adicciones, la comisión de delitos y otras conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 109.
 
-Para el cumplimiento de la función de seguridad pública la ley establecerá una secretaría especializada en la materia y conformará el Sistema Estatal de Seguridad Pública, como instancia de coordinación entre los tres órdenes de gobierno con amplia participación social.
+Para el cumplimiento de la función de seguridad pública la ley establecerá una dependencia especializada en la materia y conformará el Sistema Estatal de Seguridad Pública, como instancia de coordinación entre los tres órdenes de gobierno con amplia participación social.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Las instituciones encargadas de la seguridad pública serán de carácter civil, disciplinado y profesional.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 El Sistema Estatal de Seguridad Pública estará sujeto a las bases siguientes:
 
@@ -1982,7 +1986,11 @@ V. Garantizará la participación de la sociedad civil en los procesos de elabor
 
 VI. Verificará que los fondos destinados a seguridad pública, se utilicen única y exclusivamente para esos fines;
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Los agentes del Ministerio Público, los peritos y los miembros de las instituciones policiales del estado y los municipios, podrán ser separados de sus cargos si no cumplen con los requisitos que las leyes vigentes en el momento del acto señalen para permanecer en dichas instituciones o removidos por incurrir en responsabilidad en el desempeño de sus funciones. Si la autoridad jurisdiccional laboral resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, el Estado sólo estará obligado a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Las autoridades estatales y municipales, instrumentarán sistemas complementarios de seguridad social para el personal del Ministerio Público, de las corporaciones policiales y de los servicios periciales y de sus familias y dependientes.
 
@@ -5037,3 +5045,11 @@ P.O. 27 DE MAYO DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 480.- SE MODIFICA EL CONTENIDO DEL PRIMER PÁRRAFO DEL ARTÍCULO 109 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
