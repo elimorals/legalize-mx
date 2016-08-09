@@ -4,7 +4,7 @@ identifier: "COA-ley-de-justicia-para-adolescentes-del-estado-de-coahuila-de-517
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-01"
-last_updated: "2015-12-29"
+last_updated: "2016-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 1 de septiembre de 2006.
 
@@ -455,7 +455,9 @@ III. Se hará de su conocimiento así como de sus representantes legales, la pos
 
 IV. Tendrá derecho a designar, por sí o por sus representantes legales o encargados, a un abogado o persona de su confianza que pueda brindarle una defensa adecuada para que lo asista jurídicamente durante el proceso, así como en la aplicación de las medidas de orientación, de protección y/o de tratamiento. Si no quieren o no pueden nombrar defensor, después de haber sido requeridos para hacerlo, el juez le designará un defensor de oficio. También tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá obligación de hacerlo cuantas veces se le requiera;
 
-V. Contará con la asistencia gratuita de un traductor, si no comprende o no habla el idioma español. Si es sordomudo, se procederá por medio de intérprete. Estos le harán saber los derechos a que se refiere este artículo;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+V. Contará con la asistencia gratuita de un traductor, si no comprende o no habla el idioma español. Si es persona sorda, se procederá por medio de intérprete. Estos le harán saber los derechos a que se refiere este artículo;
 
 VI. Una vez que quede a disposición del Juez y dentro de las veinticuatro horas siguientes, se le hará saber en forma clara y sencilla, en presencia de su defensor, el nombre de su acusador y la naturaleza y causa de la acusación, a fin de que conozca bien el hecho que se le atribuye y pueda contestar el cargo;
 
@@ -2078,3 +2080,11 @@ Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado
 ###### ARTICULO SEGUNDO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 485.- SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 359, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
