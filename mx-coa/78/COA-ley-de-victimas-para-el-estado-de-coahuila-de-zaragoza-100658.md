@@ -4,7 +4,7 @@ identifier: "COA-ley-de-victimas-para-el-estado-de-coahuila-de-zaragoza-100658"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-02"
-last_updated: "2014-11-25"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 2 de mayo de 2014.
 
@@ -385,7 +385,9 @@ XXII. A solicitar el desahogo de las diligencias que, en su caso, correspondan;
 
 XXIII. A ser notificados de todas las resoluciones recurribles;
 
-XXIV. A que invariablemente cuente con un traductor o intérprete gratuito en todas las actuaciones procesales, cuando no hable el idioma español o se trate de analfabeta, mudo, sordo o ciego;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+XXIV. A que invariablemente cuente con un traductor o intérprete gratuito en todas las actuaciones procesales, cuando no hable el idioma español o se trate de analfabeta, persona muda, sorda o ciega;
 
 XXV. A comunicarse, inmediatamente después de haberse cometido el delito, con un familiar o con su asesor jurídico para informales sobre su situación y ubicación;
 
@@ -2026,3 +2028,11 @@ Los nombramientos expedidos con anterioridad continuarán generando sus efectos 
 ###### ARTÍCULO OCTAVO.
 
 Los procedimientos en materia de ejecución de penas y medidas de seguridad que con anterioridad al inicio de vigencia del presente Decreto se estuviesen tramitando, continuarán substanciándose de acuerdo a la legislación vigente al momento de su inicio en todo aquello que no atente contra el debido proceso penitenciario y sea contario al presente decreto.
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 485.- SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 359, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
