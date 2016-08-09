@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-regulacion-de-la-venta-y-consumo-de-alcohol-en-8948
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-18"
-last_updated: "2016-05-27"
+last_updated: "2016-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Coahuila, el martes 18 de septiembre de 2012.
 
@@ -55,9 +55,11 @@ III. Promover campañas de difusión encaminadas a prevenir y combatir el abuso 
 
 Ámbito de aplicación
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 2.
 
-Corresponde la aplicación de esta ley al Poder Ejecutivo del Estado de Coahuila de Zaragoza, por conducto de las secretarias de Finanzas y de Gobierno, así como a los municipios en su esfera competencial. También coadyuvarán en ello, la Procuraduría General de Justicia del Estado, las secretarías de Seguridad Pública, de Educación y de Salud, y las áreas encargadas de seguridad pública y tránsito en los municipios del estado.
+Corresponde la aplicación de esta ley al Poder Ejecutivo del Estado de Coahuila de Zaragoza, por conducto de las secretarias de Finanzas y de Gobierno, así como a los municipios en su esfera competencial. También coadyuvarán en ello, la Procuraduría General de Justicia del Estado, las secretarías de Gobierno, de Educación y de Salud, y las áreas encargadas de seguridad pública y tránsito en los municipios del estado.
 
 Supletoriedad
 
@@ -95,7 +97,7 @@ XI. Depósito de cerveza: Expendios de cerveza que se dedican a la venta de este
 
 XII. Discoteca bar: Establecimientos exclusivos para baile, con venta de bebidas al copeo o en botella para ser consumidas dentro de los mismos;
 
-XIII. Distribuidor de cerveza: Agencias que se dedican a la distribución de cerveza en bote o botella cerrada, ya sea de origen nacional o importada (sic);
+XIII. Distribuidor de cerveza: Agencias que se dedican a la distribución de cerveza en bote o botella cerrada, ya sea de origen nacional o importada;
 
 XIV. Estado: El Estado de Coahuila de Zaragoza;
 
@@ -171,7 +173,7 @@ II. La Secretaría de Salud;
 
 III. La Secretaría de Gobierno;
 
-IV. La Secretaría de Seguridad Pública;
+IV. (DEROGADA, P.O. 9 DE AGOSTO DE 2016)
 
 V. La Procuraduría General de Justicia, y
 
@@ -257,9 +259,11 @@ III. Restringir en fechas o períodos específicos el horario de funcionamiento 
 
 Atribuciones de la Secretaría de Seguridad Pública y de la Procuraduría General de Justicia
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 12.
 
-Corresponde a la Secretaría de Seguridad Pública y a la Procuraduría General de Justicia coadyuvar con las autoridades estatales y municipales en la vigilancia del cumplimiento de esta ley.
+Corresponde a la Secretaría de Gobierno y a la Procuraduría General de Justicia coadyuvar con las autoridades estatales y municipales en la vigilancia del cumplimiento de esta ley.
 
 Atribuciones de los municipios
 
@@ -345,7 +349,9 @@ Sujeción a la ley
 
 Las personas físicas y morales que se dediquen a las actividades mencionadas en este ordenamiento, se sujetarán, respecto de los establecimientos y lugares regulados por el mismo, a los horarios y ubicaciones que establezcan la presente ley, su reglamento, los reglamentos municipales y demás ordenamientos aplicables, así como, a las limitaciones que determinen las autoridades competentes.
 
-Los propietarios de los establecimientos regulados en esta ley, deberán además cuando así se les requiera, remitir a la Secretaría de Seguridad Pública, una lista que contenga los datos de todo el personal que labora con ellos, incluyendo copia de identificación oficial.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+Los propietarios de los establecimientos regulados en esta ley, deberán además cuando así se les requiera, remitir a la Secretaría de Gobierno, una lista que contenga los datos de todo el personal que labora con ellos, incluyendo copia de identificación oficial.
 
 El incumplimiento de las obligaciones señaladas en el párrafo que antecede será causa de clausura inmediata del establecimiento.
 
@@ -429,7 +435,9 @@ Requisitos de las licencias
 
 Las licencias otorgadas por la Secretaría de Finanzas, deberán contener los siguientes datos:
 
-I. Nombre del titular. Cuando el titular de la licencia no sea quien enajene o preste los servicios objeto de esta ley, deberá registrar ante las secretarías de Finanzas y de Seguridad Pública el nombre de la persona que en su lugar explota los derechos que le otorga la licencia mencionada;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+I. Nombre del titular. Cuando el titular de la licencia no sea quien enajene o preste los servicios objeto de esta ley, deberá registrar ante las secretarías de Finanzas y de Gobierno el nombre de la persona que en su lugar explota los derechos que le otorga la licencia mencionada;
 
 II. Domicilio del establecimiento;
 
@@ -1348,3 +1356,9 @@ P.O. 27 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 415.- SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 150 Y LA FRACCIÓN D) Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 156 DE LA LEY ESTATAL DE SALUD; ASÍ MISMO, SE MODIFICA LA FRACCIÓN XXIII DEL ARTÍCULO 64 DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 509 POR EL QUE "SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
