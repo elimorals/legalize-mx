@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-15645"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-22"
-last_updated: "2016-07-21"
+last_updated: "2016-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE AGOSTO DE 2016 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2016.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 10 DE AGOSTO DE 2016 NO APLICA AL ARTICULADO DEL DECRETO 994 PUBLICADO EN EL P.O. DE 21 DE JULIO DE 2016.]</small>
 
 Ley publicada en el Periódico Oficial Sección Segunda, el miércoles 22 de diciembre de 1999.
 
@@ -2259,13 +2259,13 @@ La Secretaría podrá promover ante la autoridad competente, la ejecución de al
 
 ###### ARTÍCULO 175.
 
-Cuando la Secretaría ordene alguna de las medidas de seguridad previstas en ésta Ley, indicará al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de las medidas de seguridad impuestas.
+Cuando la Secretaría ordene alguna de las medidas de seguridad previstas en esta Ley, indicará al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de las medidas de seguridad impuestas.
 
 ### CAPÍTULO IV. Sanciones administrativas
 
 ###### ARTÍCULO 176.
 
-Las violaciones a los preceptos de esta Ley, sus reglamentos y las disposiciones que de ella emanen serán sancionadas administrativamente por la Secretaría o por los Ayuntamientos, cuando así proceda, con una o más de las siguientes sanciones:
+Las violaciones a los preceptos de ésta Ley, sus reglamentos y las disposiciones que de ella emanen serán sancionadas administrativamente por la Secretaría o por los Ayuntamientos, cuando así proceda, con una o más de las siguientes sanciones:
 
 I. Multa, por el equivalente de tres a veinte mil días de salario mínimo general vigente en el Estado al momento de imponer la sanción;
 
