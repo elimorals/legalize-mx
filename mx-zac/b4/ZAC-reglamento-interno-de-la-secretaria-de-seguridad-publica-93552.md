@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interno-de-la-secretaria-de-seguridad-publica-93552"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-27"
-last_updated: "2013-03-27"
+last_updated: "2016-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO INTERNO DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2016.
 
 Reglamento publicado en el Suplemento 3 del Periódico Oficial del Estado de Zacatecas, el miércoles 27 de marzo de 2013.
 
@@ -51,7 +51,9 @@ Para los efectos del presente Reglamento Interno, se entenderá por:
 
 I. Titular del Ejecutivo: Al Titular del Poder Ejecutivo del Estado;
 
-II. Ley General: A la Ley General del Sistema Nacional de Seguridad Pública;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+II. Ley: A la Ley de las Instituciones Policiales de la Secretaría de Seguridad Pública del Estado de Zacatecas;
 
 III. Ley Orgánica: A la Ley Orgánica de la Administración Pública del Estado de Zacatecas;
 
@@ -61,21 +63,33 @@ V. Secretario General: Al Secretario General de Gobierno;
 
 VI. Secretario: Al Secretario de Seguridad Pública;
 
-VII. Subsecretario: al Subsecretario de Inteligencia y Política Criminal y al Subsecretario de Vinculación;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+VII. Subsecretario: al Subsecretario de Inteligencia y Política Criminal y al Subsecretario de Vinculación Ciudadana;
 
 VIII. Instituto: Al Instituto de Formación Profesional; y
 
 IX. Servidores Públicos: A los trabajadores que prestan sus servicios en la Secretaría.
 
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2016)</small>
+
+X. Elemento policial: al integrante de las áreas de análisis táctico, investigación y operaciones de la Policía Estatal y al elemento operativo de las unidades y agrupamientos, de la Policía Preventiva de Tránsito, la Policía de Vigilancia y Custodia del sistema Penitenciario y del Sistema de Justicia para Adolescentes, la Policía Metropolitana, la Policía Procesal y demás que determinen otras disposiciones aplicables;
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 4.
 
-El Secretario, será nombrado y removido por el Titular del Ejecutivo, además deberá reunir los requisitos que se establecen en la Ley Orgánica.
+El Secretario, será nombrado y removido por el Titular del Ejecutivo, además deberá reunir los requisitos que se establecen en la Ley Orgánica y en la Ley.
+
+El Secretario tiene a su cargo la representación legal de la Secretaría, así como el estudio, seguimiento y resolución de los asuntos que a ésta competen.
 
 ### CAPÍTULO II. De la Secretaría
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 5.
 
-La Secretaría para el despacho de los asuntos que le confiere la Ley Orgánica, cuenta con las áreas administrativas siguientes:
+La Secretaría para el despacho de los asuntos que le confiere la ley, la Ley Orgánica y la Ley del Sistema, cuenta con las áreas administrativas siguientes:
 
 I. Secretaría;
 
@@ -99,6 +113,14 @@ X. Subsecretaría de Vinculación Ciudadana; y
 
 XI. Subsecretaría de Inteligencia y Política Criminal.
 
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+XII. Coordinación de Servicios Auxiliares para Medidas Cautelares; y
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+XIII. Unidad de Asuntos Internos.
+
 ###### Artículo 6.
 
 El estudio, seguimiento y resolución de los asuntos que competen a la Secretaría, así como su representación corresponden al Secretario, quién podrá delegar funciones a los Servidores Públicos subalternos.
@@ -107,9 +129,11 @@ El estudio, seguimiento y resolución de los asuntos que competen a la Secretar�
 
 Para el caso de la estructura de organización de la Secretaría, el personal administrativo se apegará a lo estipulado en la Ley del Servicio Civil de Carrera y en relación al personal operativo, las relaciones jurídicas entre las Instituciones Policiales, se regirán por el Artículo 123 Apartado B de la Constitución Política de los Estados Unidos Mexicanos y demás relativas y aplicables de la Legislación vigentes en el Estado de Zacatecas.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 8.
 
-La Secretaría de Seguridad Pública a través de sus Subsecretarías, Coordinación Administrativa, Direcciones y las distintas áreas administrativas planeará, programará y llevará a cabo la ejecución de acciones en materia de seguridad pública.
+La Secretaría de Seguridad Pública a través de sus Subsecretarias, Coordinaciones, Direcciones, Unidades y las distintas áreas administrativas planeará, programará y llevará a cabo la ejecución de acciones en materia de seguridad pública.
 
 ###### Artículo 9.
 
@@ -125,7 +149,67 @@ IV. Acordar con las áreas los programas y seguimiento de la política pública 
 
 V. Mantener vigente la Licencia Oficial Colectiva para uso y portación de armas de fuego y gestionar lo conducente en materia de explosivos y pirotecnia; y
 
-VI. Las demás disposiciones jurídicas y administrativas aplicables.
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+VI. Diseñar, implementar y evaluar el Programa Estatal de Seguridad Pública.
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+VII. Diseñar e implementar la política criminal del Estado;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+VIII. Implementar un sistema dirigido a la prevención e investigación de los delitos, bajo la conducción y mando del Ministerio Público;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+IX. Desplegar permanentemente en el territorio del estado a las unidades de policía;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+X. Implementar acciones dirigidas a salvaguardar la integridad y patrimonio del as (sic) personas prevenir e investigar la comisión de delitos, imponer infracciones de policía y gobierno, así como preservar las libertades, el orden y la paz públicos;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+XI. Generar inteligencia para la prevención y combate al delito;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+XII. Celebrar convenios y acuerdos de colaboración en materia de seguridad pública;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+XIII. Suministrar, sistematizar e intercambiar información relativa a la seguridad pública, con las demás instancias competentes en la materia;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+XIV. Autorizar, registrar, controlar, supervisar y evaluar los servicios de seguridad privada;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+XV. Controlar, supervisar y regular el tránsito de personas y vehículos en la vía pública;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+XVI. Aplicar sanciones derivadas de infracciones a las disposiciones en materia de tránsito y vialidad;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+XVII. Diseñar, difundir e implementar programas preventivos y de control de la ingesta de bebidas alcohólicas y consumo de estupefacientes.
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+XVIII. Prestar auxilio a los poderes judicial y legislativo de los diferentes órdenes de gobierno, así como a las dependencias y entidades de las administraciones públicas estatal y municipales;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+XIX. Recibir denuncias sobre hechos que puedan ser constitutivos de delitos, conforme con lo establecido por el artículo 21 constitucional y el artículo 132 del Código Nacional de Procedimientos Penales;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+XX. Atender las: quejas de particulares sobre posibles actos ilícitos de su personal; y
+
+XXI. Las demás disposiciones jurídicas y administrativas aplicables.
 
 ###### Artículo 10.
 
@@ -141,11 +225,41 @@ IV. Vigilar el cumplimiento del presupuesto asignado;
 
 V. Comparecer ante la Legislatura del Estado a rendir los informes que le sean requeridos; y
 
-VI. Las demás disposiciones jurídicas y administrativas aplicables.
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+VI. Representar legalmente a la Secretaría.
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+VII. Ejercer el mando directo de la policía;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+VIII. Expedir los acuerdos, manuales, circulares, protocolos, bases, y demás normatividad necesaria, conducente al buen despacho de las funciones de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+IX. Proponer al Gobernador la designación y remoción de los servidores públicos de la jerarquía inmediata inferior;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+X. Designar a los servidores públicos de la Secretaría, que no sean de confianza o mandos medios, sujetándose a las disposiciones del Servicios (sic) Profesional de Carrera Policial;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+XI. Someter a consideración del Gobernador, la división del Estado en áreas geográficas de atención;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+XII. Aprobar el anteproyecto de presupuesto de egresos de la Secretaría; y,
+
+XIII. Las demás disposiciones jurídicas y administrativas.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 11.
 
-La Secretaría cuenta directamente con la Comisión del Servicio Profesional de Carrera Policial y el Consejo de Honor y Justicia, mismos que tendrán sus funciones establecidas en su propia Reglamentación Interna.
+La Secretaría cuenta directamente con la Comisión del Servicio Profesional de Carrera Policial, el Consejo de Honor y Justicia y el Consejo de Honor Y Justicia (sic) de las instituciones policiales, mismas que tendrán sus funciones establecidas en su propia reglamentación interna.
 
 ###### Artículo 12.
 
@@ -189,9 +303,9 @@ XI. Las demás disposiciones jurídicas y administrativas aplicables.
 
 Para el mejor desempeño de sus funciones, la Coordinación Jurídica, cuenta con las áreas administrativas siguientes:
 
-I. Unidad de Asuntos Internos;
+I. (DEROGADA, P.O. 10 DE AGOSTO DE 2016)
 
-a) Departamento Operativo y de Investigación;
+a) (DEROGADO, P.O. 10 DE AGOSTO DE 2016)
 
 II. Departamento de Amparo, Leyes y Reglamentación; y
 
@@ -261,9 +375,9 @@ La Unidad de Informática y Estadística, encargada de recabar, sistematizar y e
 
 I. Capturar, analizar y procesar la información para elaborar estadísticas de seguridad pública, sistematizando eficientemente los datos obtenidos;
 
-II. Resguardar con la absoluta secrecía los antecedentes y resultados que ello implica;
+II. (DEROGADA, P.O. 10 DE AGOSTO DE 2016)
 
-III. Elaborar instrumentos de Cartografía Participativa, manteniendo su actualización para consulta de las distintas instancias de la seguridad pública; y
+III. (DEROGADA, P.O. 10 DE AGOSTO DE 2016)
 
 IV. Las demás disposiciones jurídicas y administrativas aplicables.
 
@@ -327,7 +441,7 @@ VI. Departamento de Programación y Redes.
 
 La Unidad de Estudios Estratégicos, es la encargada de generar nuevos conocimientos en las áreas de logística y táctica policial, a fin de proveer a los elementos de las instituciones policiales las herramientas necesarias para su óptimo desempeño.
 
-###### Artículo 25.
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 25] , P.O. 10 DE AGOSTO DE 2016)</small>
 
 La Unidad de Estudios Estratégicos, tendrá las siguientes funciones:
 
@@ -341,15 +455,97 @@ IV. Proponer las estrategias para los operativos que se realicen; y
 
 V. Las demás disposiciones jurídicas y administrativas aplicables.
 
-###### Artículo 26.
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 26], P.O. 10 DE AGOSTO DE 2016)</small>
 
-Para el desempeño de sus funciones, la Unidad de Estudios Estratégicos, contará con las áreas administrativas siguientes:
+Artículo 24 BIS.- Para el desempeño de sus funciones, la Unidad de Estudios Estratégicos, contará con las áreas administrativas siguientes:
 
 I. Departamento de Búsqueda y Análisis de Información de Campo;
 
 II. Departamento de Proyectos Tácticos; y
 
 III. Departamento de Coordinación con el Centro Estatal de Información.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2016)</small>
+
+###### Artículo 25.
+
+La Coordinación de Servicios Auxiliares para Medidas Cautelares tiene por objeto proporcionar a los Juzgados de Control y Tribunales de Enjuiciamiento, Especializados para Adolescentes y de Ejecución de Sanciones y a las partes, la información necesaria para decidir sobre la necesidad de imponer, modificar o extinguir las medidas cautelares; así como supervisar el debido cumplimiento de las medidas cautelares en libertad por parte de los imputados sujetos a ellas; además de dar seguimiento de las condiciones impuestas en la suspensión condicional del proceso.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2016)</small>
+
+Artículo 25 BIS.- La Coordinación de Servicios Auxiliares para Medidas Cautelares, además de las establecidas en el Código Nacional de Procedimientos Penales, tendrá las siguientes funciones:
+
+I. Intervenir en la etapa de imposición y manejo de las medidas cautelares, a través de una evaluación de las circunstancias específicas de cada imputado;
+
+II. Entrevistar al imputado, previamente a la realización de cualquier audiencia sobre medidas cautelares, a fin de obtener información relevante para decidir sobre aquellas;
+
+III. Verificar la información proporcionada por el imputado y recolectar aquella que sea relevante para decidir su imposición, modificación o extinción, de modo tal que éstas resulten adecuadas para que el imputado cumpla con sus obligaciones procesales;
+
+IV. Recabar información acerca de la historia personal del imputado, tal como sus relaciones familiares, amistades, empleos, residencias, estudios, antecedentes penales, así como cualquier otra información que se considere pertinente;
+
+V. Elaborar reportes técnicos que contengan la información recabada en sus indagaciones, en las que se especifique los factores de estabilidad y riesgo procesales detectados, a fin de asegurar la integridad de las víctimas, testigos o terceros, así como el desarrollo del proceso;
+
+VI. Supervisar y dar seguimiento a las medidas cautelares impuestas, así como vigilar el estricto cumplimiento de éstas por parte del imputado, y en su caso, hacer recomendaciones sobre cualquier cambio que amerite alguna modificación de las medidas;
+
+VII. Supervisar y dar seguimiento al cumplimiento de las condiciones impuestas al imputado en caso de suspensión condicional del proceso; y
+
+VIII. Poner a consideración la modificación o extinción de las medidas cautelares o de las condiciones de suspensión a proceso, cuando cambien las circunstancias originales que sirvieron de base para imponer la medida;
+
+IX. Entrevistar periódicamente a la víctima o testigo del delito, a fin de dar seguimiento al cumplimiento de la medida cautelar impuesta o a las condiciones de la suspensión condicional del proceso, y canalizarlos, en su caso, a la autoridad correspondiente;
+
+X. Realizar entrevistas así como visitas no anunciadas en el domicilio o en el lugar en el que se encuentre el imputado;
+
+XI. Verificar la localización del imputado, en el domicilio o en el lugar en donde se encuentre, cuando la medida cautelar o la suspensión condicional del proceso impuesta por la autoridad judicial así lo requiera;
+
+XII. Requerir al imputado para que proporcione muestras, sin previo aviso, para detectar el posible uso de alcohol o drogas prohibidas, o el resultado del examen de las mismas en su caso, cuando la medida cautelar o las condiciones de la suspensión así lo requieran;
+
+XIII. Solicitar al imputado la información que se necesaria para verificar el cumplimiento de las medidas cautelares y obligaciones impuestas en la suspensión condicional;
+
+XIV. Informar a las autoridades competentes, sobre el incumplimiento de las medidas cautelares y de las condiciones de la suspensión;
+
+XV. Elaborar y actualizar una base de datos sobre las medidas cautelares y obligaciones impuestas, su seguimiento y conclusión; y
+
+XVI. Las demás que determine la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2016)</small>
+
+Artículo 25 TER.- La Coordinación de Servicios Auxiliares para Medidas Cautelares tendrá bajo su adscripción:
+
+I. Departamento de Servicios de Evaluación;
+
+II. Departamento de Servicios de Supervisión;
+
+III. Departamento de Informática y Estadística; y
+
+IV. Unidad Especializada para el Sistema de Justicia para Adolescentes.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2016)</small>
+
+###### Artículo 26.
+
+La Unidad de Asuntos internos es la encargada de supervisar la actuación policial, a fin de verificar el cumplimiento de las obligaciones de los elementos policiales.
+
+Para el mejor desempeño de sus funciones, contará con las siguientes áreas:
+
+I. Departamento Operativo; y
+
+II. Departamento de investigación.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2016)</small>
+
+Artículo 26 BIS.- La Unidad de Asuntos Internos tendrá las siguientes funciones:
+
+I. Realizar visitas de inspección administrativa a las distintas de áreas de la Secretaría, a efecto de verificar el funcionamiento de las mismas;
+
+II. Conocer de quejas y denuncias con motivo de faltas administrativas o infracciones disciplinarias cometidas por los elementos de las policías;
+
+III. Realizar procedimientos de inspección e investigación, a fin de determinar las posibles deficiencias, irregularidades o faltas en el cumplimiento de las obligaciones de los elementos de las policías;
+
+IV. Llevar a cabo las investigaciones necesarias y en su caso, remitir oportunamente el expediente de la investigación realizada ante las instancias competentes, a fin de que se determine lo que en derecho resulte procedente;
+
+V. integrar y mantener actualizados los expedientes de los elementos de las policías, respecto a las sanciones que se les haya impuesto, e informar de ello a las autoridades correspondientes, para efectos del Registro Estatal del Personal de Seguridad Pública;
+
+VI. Las demás que se deriven de las disposiciones jurídicas y administrativas aplicables.
 
 ### CAPÍTULO III. De la Subsecretaría de Vinculación Ciudadana
 
@@ -521,13 +717,17 @@ Para el óptimo desempeño de sus funciones la Subsecretaría de Inteligencia y 
 
 I. Unidad de Supervisión Penitenciaria;
 
-II. Coordinación de Policía Metropolitana;
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2016)</small>
 
-III. Coordinación de Unidades Regionales de Seguridad;
+II. Unidad de Policía Procesal;
 
-IV. Dirección de la Policía Estatal Preventiva; y
+III. Coordinación de Policía Metropolitana;
 
-V. Dirección de Prevención y Reinserción Social.
+IV. Coordinación de Unidades Regionales de Seguridad;
+
+V. Dirección de la Policía Estatal Preventiva; y
+
+VI. Dirección de Prevención y Reinserción Social.
 
 ###### Artículo 44.
 
@@ -537,7 +737,7 @@ La Unidad de Supervisión Penitenciaria es la encargada de dirigir, programar y 
 
 La Unidad de Supervisión Penitenciaria deberá apegarse a la ejecución de Sanciones Privativas y Restrictivas de la Libertad, así como la reinserción social de los internos.
 
-###### Artículo 46.
+> <small>(ADICIONADO [N. DE E. REUBICADO ANTES ARTÍCULO 46], P.O. 10 DE AGOSTO DE 2016)</small>
 
 La Unidad de Supervisión Penitenciaria, tendrá las funciones siguientes:
 
@@ -568,6 +768,30 @@ XII. Proponer el traslado de internos que se encuentren en los Establecimientos 
 XIII. Mantener la secrecía de los operativos y lo relacionado con la vida y desarrollo de los internos, sean del fuero común o federal; y
 
 XIV. Las demás disposiciones jurídicas y administrativas aplicables.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2016)</small>
+
+###### Artículo 46.
+
+La Unidad de Policía Procesal es la encargada de trasladar a los imputados a los centros de detención o reclusión a las salas de audiencia, o a los órganos jurisdiccionales y garantizar la seguridad interna de las Salas de Audiencias de los Juzgados de control y Tribunales de enjuiciamiento, Especializados para Adolescentes y de Ejecución de Sanciones.
+
+Para el cumplimiento de sus obligaciones, la Unidad de Policía Procesal, tendrá las siguientes funciones:
+
+I. Resguardar la seguridad y el orden en las salas de audiencia de los juzgados de control, tribunales de enjuiciamiento, especializados para adolescentes y de ejecución de sanciones;
+
+II. Trasladar a los imputados a los centros de detención o reclusión a las salas de audiencia, o a los órganos jurisdiccionales, según corresponda;
+
+III. Cuidar que el público no interrumpa o altere el orden en las audiencias;
+
+IV. Desalojar al imputado de la Sala cuando altere el orden y respeto en las audiencias;
+
+V. Revisar al público que ingresa a las Salas de Audiencia no porten armas u otros elementos aptos para interrumpir al desarrollo de la audiencia, o se encuentren en estado de ebriedad u otro que pudiera ocasionar un comportamiento que impida al desarrollo armónico de las audiencias;
+
+VI. Mantener la secrecía de los datos o información personalísima de la víctima u ofendido imputado, testigos etc. ventilada en las audiencias, así como también de los datos sensibles;
+
+VII. Prestar auxilio a la Coordinación de Servicios Auxiliares para Medidas Cautelares; y
+
+VIII. Las demás emanadas de la normatividad legal aplicable.
 
 ###### Artículo 47.
 
@@ -679,6 +903,26 @@ VII. Las demás disposiciones jurídicas y administrativas aplicables.
 
 La estructura orgánica de la Dirección de Prevención y Reinserción Social, estará establecida en su Reglamento Interior y sus respectivos Manuales.
 
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2016)</small>
+
+Artículo 58 BIS.- Para efectos de este Reglamento se entiende por seguridad personal, la protección que otorga el Estado a aquella persona que haya desempeñado el cargo de Titular del Poder Ejecutivo del Estado, con el objeto de salvaguardar su vida e integridad física. Corresponde a la Secretaría implementar las medidas conducentes.
+
+El servicio de seguridad personal se proporcionará exclusivamente al ex Titular del Poder Ejecutivo; del Estado a partir de la fecha en que deje el cargo y lo solicite por escrito.
+
+El servicio de seguridad personal se proporcionará a través de una escolta que será hasta de cinco elementos. Cuando haya transcurrido un plazo de dos periodos por el que se ejerció el cargo, se dará por terminada la protección.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2016)</small>
+
+Artículo 58 TER.- Los elementos de la escolta deberán ser servidores públicos con experiencia en la materia y estar adscritos a la Secretaría o alguna de las Instituciones Policiales del Estado a que se refiere la Ley del Sistema. A los elementos de la escolta se les proporcionará:
+
+I. Identificación oficial de la Secretaría;
+
+II. Documento oficial que expresamente los comisione para las tareas de protección y seguridad que desempeñen;
+
+III. Arma de fuego debidamente registrada conforme a la licencia oficial colectiva de la Secretaría;
+
+IV. Vehículo adecuado para las funciones a desempeñar.
+
 ### CAPÍTULO V. De las Sanciones
 
 ###### Artículo 59.
@@ -710,3 +954,11 @@ FRANCISCO ESCOBEDO VILLEGAS
 EL SECRETARIO DE SEGURIDAD PÚBLICA
 
 GRAL. JESÚS PINTO ORTIZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERNO DE LA SECRETARIA DE SEGURIDAD PÚBLICA DEL ESTADO ZAC”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
