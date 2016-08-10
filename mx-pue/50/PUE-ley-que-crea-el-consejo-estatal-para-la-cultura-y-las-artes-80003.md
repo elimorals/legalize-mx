@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-crea-el-consejo-estatal-para-la-cultura-y-las-artes-800
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-14"
-last_updated: "2016-03-31"
+last_updated: "2016-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY QUE CREA EL CONSEJO ESTATAL PARA LA CULTURA Y LAS ARTES DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2016.
 
 Ley publicada en la Quinta Sección al Periódico Oficial del Estado de Puebla, el lunes 14 de febrero de 2011.
 
@@ -75,7 +75,9 @@ I.- Coordinar, dirigir y promover las actividades culturales y artísticas del G
 
 II.- Vincular los programas y acciones culturales a su cargo con las estrategias de desarrollo educativo y turístico del Estado;
 
-III.- Establecer las políticas y lineamientos para la creación, administración, conservación, operación y aprovechamiento de la infraestructura y servicios culturales a cargo del Estado;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+III.- Establecer las políticas y lineamientos para la creación, conservación, operación y aprovechamiento de la infraestructura y servicios culturales a cargo del Estado;
 
 IV.- Formular al Gobernador del Estado las propuestas de declaratorias de patrimonio cultural, de zona típica monumental y de belleza natural;
 
@@ -83,7 +85,9 @@ V.- Establecer dentro del ámbito de su competencia, las políticas, normas téc
 
 VI.- Proporcionar servicios culturales, por si o a través de terceros, mediante centros regionales, bibliotecas, casas de cultura, museos, teatros, parques, talleres de arte y demás establecimientos de carácter cultural, fomentando la creación de los que sean necesarios;
 
-VII.- Administrar, preservar, restaurar, acrecentar y divulgar el patrimonio cultural;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+VII.- Preservar, restaurar, acrecentar y divulgar el patrimonio cultural;
 
 VIII.- Fomentar, propiciar y apoyar la creatividad en las bellas artes en todas sus manifestaciones;
 
@@ -105,7 +109,9 @@ XVI.- Proponer a la Secretaría de Educación Pública formas de organización y
 
 XVII.- Proponer la constitución de patronatos y otras formas de organización públicas o privadas, para apoyar económicamente el desarrollo de las actividades culturales y artísticas del Estado;
 
-XVIII.- Gestionar, reglamentar y administrar donaciones en favor del patrimonio cultural del Estado, que permitan impulsar y fortalecer las actividades culturales;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+XVIII.- Gestionar y reglamentar donaciones en favor del patrimonio cultural del Estado, que permitan impulsar y fortalecer las actividades culturales;
 
 XIX.- Establecer, en coordinación con el Consejo Ciudadano, un sistema de información, seguimiento y evaluación, con sus respectivos indicadores de los programas y actividades a cargo del Consejo Estatal;
 
@@ -129,7 +135,7 @@ XXVIII.- Impulsar la promoción y difusión de los artistas poblanos, en los ám
 
 XXIX.- Desarrollar la formación y capacitación de promotores culturales regionales;
 
-XXX.- Ejercer las funciones que conforme a las leyes y demás ordenamientos corresponden a las dependencias coordinadoras de sector, en los términos de los artículos 51 y 55 de la Ley Orgánica de la Administración Pública del Estado de Puebla;
+XXX.- (DEROGADA, P.O. 10 DE AGOSTO DE 2016)
 
 XXXI.- Elaborar anualmente el programa de trabajo del Consejo Estatal, así como coordinar su ejecución y evaluación, en los términos de la presente Ley, y de la Ley de Cultura del Estado de Puebla;
 
@@ -207,15 +213,19 @@ Por cada miembro propietario habrá un suplente. El Presidente del Órgano de Go
 
 El Secretario Ejecutivo, el Secretario Técnico del Consejo Estatal, así como el Titular de Fomento Cultural Poblano asistirán a las sesiones y tendrán únicamente derecho a voz.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 6.
 
-El Órgano de Gobierno, además de las atribuciones que le confiere el artículo 52 de la Ley de Entidades, tendrá las siguientes:
+El Órgano de Gobierno, tendrá las siguientes atribuciones:
 
 I.- Aprobar los programas del Consejo Estatal a propuesta del Secretario Ejecutivo, así como autorizar los programas sustantivos o sus modificaciones, sin necesidad de autorización posterior alguna:
 
 II.- Aprobar la distribución del presupuesto anual definitivo del Consejo Estatal, el programa de inversiones y el calendario de gasto, de acuerdo con el presupuesto total autorizado;
 
-III.- Aprobar, sin que se requiera autorización de la Secretaría de Finanzas, las adecuaciones presupuestales a los programas del Consejo Estatal que no impliquen la afectación de su monto total autorizado, recursos de inversión, ni el cumplimiento de los objetivos y metas comprometidos;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+III.- Aprobar la propuesta de las adecuaciones presupuestales a los programas del Consejo Estatal que no impliquen la afectación de su monto total autorizado, recursos de inversión, ni el cumplimiento de los objetivos y metas comprometidos, a fin de que se sometan a consideración de la Secretaría de Finanzas y Administración para su autorización;
 
 IV.- Decidir el uso y destino de los recursos autogenerados y la aplicación de ingresos excedentes, ya sea dentro del presupuesto de la Entidad o canalizando éstos a los Fondos del Consejo Estatal;
 
@@ -283,9 +293,11 @@ I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos; y
 
 II.- Tener conocimientos y experiencia en el ámbito de la cultura y las artes, asimismo, contar con conocimientos en materia administrativa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 10.
 
-El Secretario Ejecutivo del Consejo Estatal, además de las facultades y obligaciones que le confieren los artículos 17 y 53 de la Ley de Entidades, tendrá las siguientes:
+El Secretario Ejecutivo del Consejo Estatal, tendrá las siguientes facultades y obligaciones:
 
 I.- Formular respecto de los asuntos de su competencia, los proyectos de leyes, reglamentos, decretos y acuerdos del Gobernador del Estado;
 
@@ -355,7 +367,7 @@ VII.- Los demás bienes o ingresos que adquiera o perciba por cualquier titulo l
 
 ###### ARTÍCULO 14.
 
-El Consejo Estatal administrará y dispondrá libremente de su patrimonio en el cumplimiento de su objeto, sin perjuicio de las disposiciones legales aplicables a los organismos descentralizados.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2016)
 
 ### CAPÍTULO IV. DEL PERSONAL
 
@@ -405,7 +417,7 @@ Fomento Cultural Poblano, podrá estimular también la creación de sociedades, 
 
 A cargo de Fomento Cultural Poblano, estará un Director quien tendrá las siguientes funciones:
 
-I.- Administrar el fondo que se le asigne o gestione de forma autónoma;
+I.- (DEROGADA, P.O. 10 DE AGOSTO DE 2016)
 
 II.- Gestionar y realizar los trámites necesarios para obtener recursos provenientes de aportaciones o donativos de instituciones públicas, privadas o de particulares a nivel nacional o internacional;
 
@@ -606,3 +618,25 @@ P.O. 31 DE MARZO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 10 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES III, VII Y XVIII DEL ARTÍCULO 3, EL PRIMER PÁRRAFO Y LA FRACCIÓN III DEL ARTÍCULO 6 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 10, Y DEROGA LA FRACCIÓN XXX DEL ARTÍCULO 3, EL ARTÍCULO 14 Y LA FRACCIÓN I DEL ARTÍCULO 19, TODOS DE LA LEY QUE CREA EL CONSEJO ESTATAL PARA LA CULTURA Y LAS ARTES DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día de su publicación.
+
+SEGUNDO. En un plazo no mayor a 30 días, a partir de la entrada en vigor del presente Decreto, se deberán realizar los ajustes en la estructura orgánica del Organismo Público Descentralizado denominado Consejo Estatal para la Cultura y las Artes de Puebla, a fin de reducir al mínimo indispensable el área administrativa y realizar los trámites necesarios para transferir los recursos financieros con los que cuente a la Secretaría de Finanzas y Administración para su administración, así como aquellos recursos humanos y materiales que se requieran para tales efectos.
+
+TERCERO. El Organismo Público Descentralizado denominado Consejo Estatal para la Cultura y las Artes de Puebla y la Secretaría de Finanzas y Administración realizarán los trámites conducentes para que los ingresos provenientes de los servicios que presta el referido Organismo y que se encuentran previstos en la Ley de Ingresos del Estado para el presente ejercicio fiscal, se recauden y concentren en la Secretaría de Finanzas y Administración.
+
+CUARTO. La Secretaría de la Contraloría coordinará la transferencia de los recursos humanos, materiales y financieros, así como del acervo documental existente, hacia la Secretaría de Finanzas y Administración.
+
+QUINTO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Decreto se refiera a las Unidades Administrativas de la Entidad Paraestatal que desaparecen por virtud del mismo, se entenderá asignado a las áreas de la Secretaría de Finanzas y Administración que absorben las facultades de aquéllas y a las que atribuya la competencia específica que en cada caso se relacione.
+
+SEXTO. Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto pasen a la Secretaría de Finanzas y Administración, se respetarán en términos de las disposiciones legales aplicables.
+
+SÉPTIMO. El Ejecutivo del Estado dentro los noventa días naturales siguientes a la entrada en vigor del presente Decreto, realizará las modificaciones a los Reglamentos Interiores de las instancias correspondientes.
+
+En tanto no se realicen las reformas a que se refiere el párrafo anterior, las instancias señaladas en este Decreto, seguirán aplicando los reglamentos vigentes en todo aquello que no la contravengan.
+
+OCTAVO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
