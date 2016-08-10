@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-transito-y-transportes-del-estado-de-sinaloa-6673"
 country: "mx"
 rank: "ley"
 publication_date: "1993-04-09"
-last_updated: "2015-01-30"
+last_updated: "2016-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE TRÁNSITO Y TRANSPORTES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 9 de abril de 1993.
 
@@ -951,9 +951,65 @@ Las autoridades de tránsito deberán llevar actualizado un registro y control d
 
 En el Registro y Control de Conductores se deberá anotar los hechos de tránsito en que hayan participado, las infracciones cometidas, sentencias judiciales que afecten su calidad como tal, suspensiones, revocaciones o anulaciones a que se haya hecho acreedor y las restricciones a que queda sujeto el propio conductor.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 161.
 
-Las autoridades de tránsito deberán detener de inmediato al que conduzca un vehículo bajo los efectos de bebidas embriagantes o bajo la influencia de drogas o substancias tóxicas para el único efecto de que un médico determine, previo examen clínico, su estado sico-patológico. En ningún caso se permitirá que el conductor en ese estado siga conduciendo su vehículo.
+Las autoridades de tránsito instalarán de manera aleatoria en la vía pública operativos de alcoholimetría, para detectar la presencia de alcohol en los conductores, o si se encuentran bajo el influjo de drogas estupefacientes o sustancias psicotrópicas o tóxicas para lo cual un médico realizará el examen clínico correspondiente.
+
+Los operativos de alcoholimetría deberán cumplir, como mínimo, con los siguientes requisitos:
+
+I. Establecerse en lugares de máxima visibilidad, con iluminación necesaria y seguridad adecuada para los conductores y el personal de los operativos;
+
+II. Área de acercamiento inicial o primer contacto;
+
+III. Área de prueba de alcoholimetría;
+
+IV. La presencia por lo menos de un médico, así como un representante del Órgano Interno de Control Municipal, asimismo se podrá contar con un representante de la Comisión Estatal de los Derechos Humanos, el cual podrá hacer manifestaciones y consideraciones en favor del sujeto a revisión ante cualquier situación o consideración que se presuma atentatoria a sus derechos humanos durante el proceso, mismas que deberán constar en el acta respectiva para los efectos legales correspondientes; asimismo se procurará la presencia de un representante de las Organizaciones de la Sociedad Civil;
+
+V. Imprimir el resultado de la prueba de alcoholimetría; y
+
+VI. Contar con todos los recursos materiales establecidos en el Programa Nacional de Alcoholimetría y el Protocolo para la Implementación de Puntos de Control de Alcoholimetría.
+
+Las autoridades municipales celebrarán convenios de colaboración con las autoridades estatales para la realización de dichos operativos, cuando así se requiera.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2016)</small>
+
+###### ARTICULO 161 Bis.
+
+Las autoridades de tránsito podrán detener la marcha de un vehículo cuando se cometa alguna infracción o se lleven a cabo los operativos señalados en el artículo anterior.
+
+Si al detener la marcha de un vehículo, los agentes de tránsito perciben que el conductor del vehículo muestra síntomas de que conduce en estado de ebriedad o bajo el influjo de drogas estupefacientes o sustancias psicotrópicas o tóxicas deberá someterse a las pruebas para la detección del grado de intoxicación, que practiquen las autoridades legalmente facultadas para ello, y se les sancionará de la siguiente forma:
+
+I. Con arresto administrativo inconmutable de seis a nueve horas a la persona que conduzca un vehículo y se le detecte una cantidad de 0.40 a 0.65 miligramos de alcohol por litro de aire espirado;
+
+II. Con arresto administrativo inconmutable de nueve a doce horas a la persona que conduzca un vehículo y se le detecte una cantidad mayor a 0.65 miligramos de alcohol por litro de aire espirado o estar bajo el influjo de drogas estupefacientes o sustancias psicotrópicas o tóxicas; y
+
+III. Con suspensión de la licencia de manejar en caso de reincidencia, o revocación de la misma por segunda reincidencia, de conformidad con los artículos 27 y 28, fracción IV de esta Ley, además de las sanciones señaladas en las fracciones anteriores, según corresponda.
+
+Las personas sancionadas en términos de las fracciones anteriores, deberán asistir a un curso en materia de sensibilización, concientización y prevención de accidentes viales por causa de la ingesta de alcohol o el influjo de drogas estupefacientes o sustancias psicotrópicas o tóxicas, ante la instancia que indique la autoridad competente.
+
+La calificación de las sanciones previstas en el presente artículo estarán sujetas a las reglas establecidas en el Reglamento de la presente Ley y demás disposiciones aplicables. Los jueces de barandilla serán los competentes de su aplicación.
+
+En caso de que el conductor se niegue a someterse a las pruebas anteriormente señaladas y habiéndolo apercibido de las consecuencias de su negativa mantenga la misma postura, tal circunstancia se asentará en acta administrativa de hechos debidamente fundada y motivada, y se le aplicará la sanción prevista en la fracción II de este artículo.
+
+Las autoridades de tránsito como medida de seguridad podrán retirar el vehículo de la vía pública, salvo que se cuente con alguna persona que lo conduzca en términos del presente ordenamiento y el conductor otorgue su consentimiento.
+
+El retiro del vehículo previsto en el párrafo anterior se realizará de conformidad con el artículo 176 de esta Ley.
+
+Si al conductor de vehículos destinados al servicio de transporte escolar, pasajeros, carga o de sustancias tóxicas o peligrosas, se le detecta alcohol en su organismo o estar bajo el influjo de drogas estupefacientes o sustancias psicotrópicas o tóxicas, le será aplicable la sanción prevista en la fracción II y se hará del conocimiento de la autoridad de la materia para efecto del proceso de responsabilidad que corresponda, dada su condición de prestador de un servicio público.
+
+En todo supuesto, deberán respetarse los derechos humanos de los conductores y de las personas que los acompañen, en su caso.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 161 Bis A. Tratándose de menores de edad que hayan cometido alguna infracción o que se les detecte alcohol en su organismo o estar bajo el influjo de drogas estupefacientes o sustancias psicotrópicas o tóxicas, los agentes de tránsito deberán impedir la circulación del vehículo, para llevar a cabo las siguientes acciones:
+
+I. Notificar de inmediato a los padres del menor de edad, o a quienes ejerzan la patria potestad, tutela, guarda o custodia;
+
+II. Revocar la licencia de aprendiz haciendo la notificación respectiva; y
+
+III. Imponer las sanciones que procedan, sin perjuicio de la responsabilidad civil que resulte.
 
 ###### ARTICULO 162.
 
@@ -1041,9 +1097,17 @@ Por la transgresión de los ordenamientos de la presente Ley y su Reglamento, at
 
 I. Detención del vehículo o impedir la circulación del mismo;
 
-II. Detención y retiro de los documentos que autoricen al conductor, placas y tarjeta de circulación; y
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2016)</small>
 
-III. Sanciones económicas, de conformidad al tabulador de infracciones vigente.
+II. Detención y retiro de los documentos que autoricen al conductor, placas y tarjeta de circulación;
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+III. Sanciones económicas, de conformidad al tabulador de infracciones vigente; y
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+IV. Las demás previstas en el presente ordenamiento y otras disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
@@ -1846,3 +1910,17 @@ P.O. 30 DE ENERO DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 10 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 585 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO Y TRANSPORTES DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. El Ejecutivo del Estado contará con un plazo de 90 días posteriores al inicio de vigencia del presente Decreto para realizar las modificaciones correspondientes al Reglamento General de la Ley de Tránsito y Transportes del Estado de Sinaloa y demás disposiciones administrativas, con el fin de dar cumplimiento a lo dispuesto en el presente Decreto.
+
+TERCERO. Los Ayuntamientos contarán con un plazo de 90 días posteriores al inicio de vigencia del presente Decreto para expedir o realizar las adecuaciones necesarias a sus Reglamentos y Bandos de Policía y Gobierno. Asimismo, deberán capacitar al personal que intervenga en los operativos de alcoholimetría a efecto de dar cumplimiento con el presente Decreto.
+
+CUARTO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el 27 de enero del presente año, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado Decreto.
+
+QUINTO. Se derogan las disposiciones que se opongan al presente Decreto.
