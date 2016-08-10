@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-regula-el-regimen-de-propiedad-en-condominio-en-el-2465
 country: "mx"
 rank: "ley"
 publication_date: "2002-04-11"
-last_updated: "2010-10-21"
+last_updated: "2016-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE REGULA EL REGIMEN DE PROPIEDAD EN CONDOMINIO EN EL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 21 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 10 DE AGOSTO DE 2016.
 
 Ley publicada en la Gaceta del Gobierno, el 11 de abril de 2002.
 
@@ -425,6 +425,10 @@ IX. Gestionar ante los ayuntamientos la prestación de los servicios públicos m
 
 X. Publicar en lugar visible del condominio o en el sitio destinado para ello, las convocatorias para asambleas, así como los acuerdos que se tomen en las mismas a efecto de enterar a los ausentes.
 
+> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2016)</small>
+
+XI. Informar al Consejo Municipal de Seguridad Pública sobre el estado que guarda el condominio respectivo, emitir y dar seguimiento a las sugerencias y observaciones realizadas en materia de prevención del delito, realizar denuncias o quejas sobre irregularidades en la prestación de la función de seguridad pública; así como difundir entre los condóminos representados los acuerdos tomados por el Consejo Municipal y el avance o cumplimiento de los mismos.
+
 ###### Artículo 32.
 
 El administrador o el presidente del comité de administración, será el representante legal de los condóminos en todos los asuntos comunes relacionados con el condominio. Contará con poder para administrar bienes, y para pleitos y cobranzas. Para contar con facultades que requieran cláusulas especiales, se requerirá del previo acuerdo de la asamblea, salvo que el Reglamento Interior del Condominio ya lo prevea.
@@ -692,3 +696,23 @@ G.G. 21 DE OCTUBRE DE 2010.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 10 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 116.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO Y DE LA LEY QUE REGULA EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO EN EL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta de Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta de Gobierno".
+
+TERCERO. El Titular del Ejecutivo del Estado realizará las adecuaciones necesarias para el cumplimiento del presente Decreto, en términos de lo dispuesto en el artículo 77 fracción IV de la Constitución Política del Estado Libre y Soberano de México.
+
+CUARTO. El Consejo Municipal de Seguridad Pública deberá instalarse en términos de la presente reforma en un plazo no mayor a noventa días, contado a partir de la entrada en vigor de este Decreto.
+
+Asimismo, en su primera sesión ordinaria deberá aprobar el estatuto a que se refiere esta Ley.
+
+QUINTO. El Consejo Intermunicipal de Seguridad Pública deberá instalarse en términos de la presente reforma en un plazo no mayor a ciento ochenta días, contado a partir de la entrada en vigor de este Decreto.
+
+Asimismo, en su primera sesión ordinaria deberá aprobar el estatuto a que se refiere esta Ley.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
