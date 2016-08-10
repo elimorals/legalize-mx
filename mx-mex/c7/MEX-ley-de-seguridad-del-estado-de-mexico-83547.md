@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-del-estado-de-mexico-83547"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2016-04-25"
+last_updated: "2016-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE AGOSTO DE 2016.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 19 de octubre de 2011.
 
@@ -115,15 +115,23 @@ XVI. Procuraduría: a la Procuraduría General de Justicia del Estado de México
 
 XVII. Programa Estatal: al Programa Estatal de Seguridad Pública;
 
-XVIII. Secretaría: a la Secretaría de Seguridad Ciudadana del Gobierno del Estado de México;
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2016)</small>
 
-XIX. Secretario: al Secretario de Seguridad Ciudadana del Estado de México;
+XVIII. Comisión: a la Comisión Estatal de Seguridad Ciudadana del Estado de México;
+
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2016)</small>
+
+XIX. Comisionado: al Comisionado Estatal de Seguridad Ciudadana del Estado de México;
 
 XX. Secretario Ejecutivo: al Secretario Ejecutivo del Sistema Estatal;
 
 XXI. Sistema Estatal: al Sistema Estatal de Seguridad Pública; y
 
 XXII. Sistema Nacional: al Sistema Nacional de Seguridad Pública.
+
+> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2016)</small>
+
+XXIII. Secretario Ejecutivo Intermunicipal: al Secretario Ejecutivo del Consejo Intermunicipal de Seguridad Pública.
 
 ###### Artículo 7.
 
@@ -175,7 +183,9 @@ Cuando las disposiciones de esta Ley comprendan materias y acciones que incidan 
 
 Sólo en caso de no encontrarse regulada la materia o acción en la ley o en los lineamientos generales, las resoluciones o los acuerdos se ejecutarán mediante convenios generales y específicos entre las partes componentes del Sistema Estatal, que no deberán ser contrarios a los fines de éste.
 
-La Secretaría, el Secretariado Ejecutivo y las instancias municipales podrán celebrar convenios de colaboración y coordinación en los términos de esta Ley, en materia de seguridad pública.
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2016)</small>
+
+La Comisión, el Secretariado Ejecutivo y las instancias municipales podrán celebrar convenios de colaboración y coordinación en los términos de esta Ley, en materia de seguridad pública.
 
 ### CAPÍTULO SEGUNDO. DE LAS INSTALACIONES ESTRATÉGICAS
 
@@ -203,7 +213,9 @@ I. El Gobernador del Estado;
 
 II. El Secretario General de Gobierno;
 
-III. El Secretario de Seguridad Ciudadana;
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2016)</small>
+
+III. El Comisionado Estatal de Seguridad Ciudadana;
 
 IV. El Procurador General de Justicia; y
 
@@ -223,7 +235,9 @@ II. Ejercer el mando de las Instituciones Policiales de los Municipios, en casos
 
 III. Representar al Estado, ante el Consejo Nacional;
 
-IV. Nombrar al Secretario;
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2016)</small>
+
+IV. Nombrar al Comisionado;
 
 V. Suscribir convenios de asunción de funciones en materia de seguridad pública con los Municipios, cuando éstos así lo requieran;
 
@@ -251,11 +265,15 @@ XIV. Acordar la integración de las comisiones que considere necesarias en mater
 
 XV. Las demás que le confieran la Constitución Federal, la Constitución Estatal, la Ley General, esta Ley y los demás ordenamientos jurídicos aplicables.
 
-### CAPÍTULO TERCERO. DEL SECRETARIO DE SEGURIDAD CIUDADANA
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO TERCERO. DEL COMISIONADO ESTATAL DE SEGURIDAD CIUDADANA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 16.
 
-Son atribuciones del Secretario:
+Son atribuciones del Comisionado:
 
 A. En materia de seguridad pública:
 
@@ -275,7 +293,9 @@ VII. Someter a consideración del Gobernador del Estado los convenios, programas
 
 VIII. Celebrar convenios, acuerdos y demás instrumentos jurídicos relacionados con el ámbito de su competencia;
 
-IX. Nombrar y remover a los servidores públicos de la Secretaría, por si o por conducto de en quienes delegue esta atribución, así como aprobar los nombramientos a partir de mandos medios, acorde con la organización jerárquica de las Instituciones Policiales del Estado;
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2016)</small>
+
+IX. Nombrar y remover a los servidores públicos de la Comisión, por sí o por conducto de en quienes delegue esta atribución, así como aprobar los nombramientos a partir de mandos medios, acorde con la organización jerárquica de las instituciones policiales del Estado;
 
 X. Promover la formación, capacitación, profesionalización, actualización, adiestramiento y especialización de las Instituciones Policiales, conforme a lo establecido en el Programa Rector de Profesionalización de las Instituciones Policiales a nivel nacional y las demás disposiciones legales aplicables;
 
@@ -391,7 +411,9 @@ XI. Ejecutar, en el ámbito de su competencia, los acuerdos tomados en la Confer
 
 XII. Las demás que le señale esta Ley, otras disposiciones jurídicas y las que le confiera el Gobernador.
 
-Para el desarrollo de las atribuciones administrativas del Secretario, se estará a lo dispuesto en la Ley Orgánica de la Administración Pública del Estado de México y demás disposiciones aplicables.
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2016)</small>
+
+Para el desarrollo de las atribuciones administrativas del Comisionado, se estará a lo dispuesto en la Ley Orgánica de la Administración Pública del Estado de México y demás disposiciones aplicables.
 
 ### CAPÍTULO CUARTO. DEL PROCURADOR GENERAL DE JUSTICIA
 
@@ -409,7 +431,9 @@ III. Verificar que toda la información generada por la Procuraduría, sea remit
 
 IV. Emitir bases y reglas para la investigación conjunta de los delitos, de conformidad con los ordenamientos legales aplicables, así como para la realización de operativos de investigación conjuntos;
 
-V. Implementar esquemas de investigación preventiva, a través de protocolos que tendrán que ser elaborados de manera conjunta con el Secretario;
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2016)</small>
+
+V. Implementar esquemas de investigación preventiva, a través de protocolos que tendrán que ser elaborados de manera conjunta con el Comisionado;
 
 VI. Promover la capacitación, actualización y especialización de los integrantes de la Procuraduría, de conformidad con el Programa Rector de Profesionalización a nivel nacional de las Instituciones de Procuración de Justicia y demás disposiciones aplicables;
 
@@ -517,7 +541,9 @@ III. Proponer y aplicar políticas y programas de cooperación municipal en mate
 
 IV. Aplicar las directrices que dentro de su competencia se señalen en el marco de los Sistemas Estatal y Nacional en materia de Seguridad Pública;
 
-V. Procurar la coordinación de los elementos a su cargo con las demás Instituciones de Seguridad Pública;
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2016)</small>
+
+V. Coadyuvar en la coordinación de los elementos a su cargo con Instituciones de Seguridad Pública federales, estatales y de otros municipios, en el desarrollo de operativos conjuntos, para el cumplimiento de los acuerdos del Consejo Estatal, de los Consejos Intermunicipales y del Consejo Municipal, así como en la ejecución de otras acciones en la materia;
 
 VI. Supervisar la actuación de los elementos a su cargo, en la investigación de delitos, bajo el mando y conducción del ministerio público;
 
@@ -577,15 +603,21 @@ XXV. Participar en la Conferencia Nacional de Seguridad Pública Municipal, en c
 
 XXVI. Ejecutar, en el ámbito de su competencia, los acuerdos tomados en la Conferencia Nacional de Seguridad Pública Municipal; y
 
-> <small>(ADICIONADA, G.G. 16 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2016)</small>
 
-XXVII. Las demás que le confieran la Constitución Federal, la Constitución Estatal, la Ley General, esta Ley y los demás ordenamientos jurídicos aplicables.
+XXVII. Satisfacer oportunamente los requerimientos que le sean solicitados por la Comisión, para el registro y actualización de la licencia colectiva para la portación de armas de fuego de los elementos a su cargo;
+
+> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2016)</small>
+
+XXVIII. Las demás que le confieran la Constitución Federal, la Constitución Estatal, y General, esta Ley y los demás ordenamientos jurídicos aplicables.
 
 ###### Artículo 22.
 
 Son atribuciones del Director de Seguridad Pública Municipal:
 
-I. Proponer al Presidente Municipal el Programa Municipal de Seguridad Pública Preventiva;
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2016)</small>
+
+I. Participar en la elaboración del Programa Municipal de Seguridad Pública y del Programa Municipal de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana;
 
 II. Organizar, operar, supervisar y controlar el cuerpo preventivo de seguridad pública municipal;
 
@@ -815,89 +847,105 @@ Las reglas para el desarrollo de las sesiones del Consejo Estatal, así como las
 
 ### CAPÍTULO TERCERO. DE LOS CONSEJOS INTERMUNICIPALES DE SEGURIDAD PÚBLICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE AGOSTO DE 2016)</small>
+
 ### CAPÍTULO CUARTO. DE LOS CONSEJOS REGIONALES DE SEGURIDAD PÚBLICA
 
 ### CAPÍTULO QUINTO. DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
 ###### Artículo 42.
 
-Los Consejos Intermunicipales serán órganos colegiados, integrados por los Presidentes Municipales que conforman cada distrito judicial.
+Los Consejos Intermunicipales serán órganos colegiados, integrados por autoridades federales, estatales y municipales vinculadas al tema de seguridad pública.
 
 Los Consejos Intermunicipales tendrán por objeto propiciar la efectiva coordinación entre los Municipios que los conforman, para contribuir a los fines de la seguridad pública, así como dar seguimiento a los acuerdos tomados en el Consejo Estatal, y verificar su cumplimiento.
 
 El Presidente de cada Consejo Intermunicipal representará a los Municipios que lo integren en el Consejo Estatal, por lo que deberá someter a la consideración de éste los acuerdos que se tomen en el Consejo Intermunicipal respectivo e informar lo conducente, en los términos de las disposiciones aplicables.
 
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 43.
 
-Habrá dieciocho Consejos Intermunicipales, y estarán conformados de la siguiente manera:
+Se instalarán al menos veinte Consejos Intermunicipales de Seguridad Pública. Su integración será determinada por el Consejo Estatal, atendiendo a las características geográficas, demográficas, económicas y/o de incidencia delictiva de los municipios de la Entidad.
 
-I. Primer Consejo Intermunicipal, Chalco: Chalco, Amecameca, Atlautla, Ayapango, Cocotitlán, Ecatzingo, Ixtapaluca, Juchitepec, Ozumba, Temamatla, Tenango del Aire, Tepetlixpa, Tlalmanalco y Valle de Chalco Solidaridad;
-
-II. Segundo Consejo Intermunicipal, Cuautitlán: Cuautitlán, Coyotepec, Cuautitlán Izcalli, Huehuetoca, Melchor Ocampo, Teoloyucan, Tepotzotlán, Tultepec y Tultitlán;
-
-III. Tercer Consejo Intermunicipal, Ecatepec de Morelos: Ecatepec de Morelos y Coacalco de Berriozábal;
-
-IV. Cuarto Consejo Intermunicipal, El Oro: El Oro, Acambay, Atlacomulco y Temascalcingo;
-
-V. Quinto Consejo Intermunicipal, Ixtlahuaca: Ixtlahuaca, Jiquipilco, Jocotitlán, Morelos, San Felipe del Progreso y San José del Rincón;
-
-VI. Sexto Consejo Intermunicipal, Jilotepec: Jilotepec, Aculco, Chapa de Mota, Polotitlán, Soyaniquilpan de Juárez, Timilpan y Villa del Carbón;
-
-VII. Séptimo Consejo Intermunicipal, Lerma: Lerma, Ocoyoacac, Otzolotepec, San Mateo Atenco y Xonacatlán;
-
-VIII. Octavo Consejo Intermunicipal, Nezahualcóyotl: Nezahualcóyotl, Chimalhuacán y La Paz;
-
-IX. Noveno Consejo Intermunicipal, Otumba: Otumba, Axapusco, Nopaltepec, San Martín de las Pirámides, Tecámac y Temascalapa;
-
-X. Décimo Consejo Intermunicipal, Sultepec: Sultepec, Almoloya de Alquisiras, Amatepec, Texcaltitlán, Tlatlaya y Zacualpan;
-
-XI. Décimo Primero Consejo Intermunicipal, Temascaltepec: Temascaltepec, Luvianos, San Simón de Guerrero y Tejupilco;
-
-XII. Décimo Segundo Consejo Intermunicipal, Tenango del Valle: Tenango del Valle, Almoloya del Río, Atizapán, Calimaya, Capulhuac, Chapultepec, Joquicingo, Mexicaltzingo, Rayón, San Antonio la Isla, Texcalyacac, Tianguistenco y Xalatlaco;
-
-XIII. Décimo Tercero Consejo Intermunicipal, Tenancingo: Tenancingo, Coatepec Harinas, Ixtapan de la Sal, Malinalco, Ocuilan, Tonatico, Villa Guerrero y Zumpahuacán;
-
-XIV. Décimo Cuarto Consejo Intermunicipal, Texcoco: Texcoco, Acolman, Atenco, Chiautla, Chicoloapan, Chiconcuac, Papalotla, Teotihuacán, Tepetlaoxtoc y Tezoyuca;
-
-XV. Décimo Quinto Consejo Intermunicipal, Tlalnepantla: Tlalnepantla de Baz, Atizapán de Zaragoza, Huixquilucan, Isidro Fabela, Jilotzingo, Naucalpan y Nicolás Romero;
-
-XVI. Décimo Sexto Consejo Intermunicipal, Toluca: Toluca, Almoloya de Juárez, Metepec, Temoaya, Villa Victoria y Zinacantepec;
-
-XVII. Décimo Séptimo Consejo Intermunicipal, Valle de Bravo: Valle de Bravo, Amanalco, Donato Guerra, Ixtapan del Oro, Santo Tomás, Otzoloapan, Villa de Allende y Zacazonapan; y
-
-XVIII. Décimo Octavo Consejo Intermunicipal, Zumpango: Zumpango, Apaxco, Hueypoxtla, Jaltenco, Nextlalpan, Tequixquiac y Tonanitla.
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 44.
 
-Cada Consejo Intermunicipal estará integrado por:
+Cada Consejo Intermunicipal estará integrado por los siguientes Consejeros:
 
-I. Los Presidentes Municipales;
+I. Los Presidentes Municipales que conforman la región;
 
-II. Los Directores de Seguridad Pública Municipal;
+II. Los Comisarios o Directores de Seguridad Pública Municipal;
 
-III. Un representante de la sociedad civil vinculado a temas de seguridad pública; y
+III. Los Secretarios Técnicos de los Consejos Municipales de Seguridad Pública;
 
-IV. Un representante del Secretariado Ejecutivo del Sistema Estatal, quien fungirá como Secretario Ejecutivo del Consejo Intermunicipal.
+IV. Un representante del Consejo Ciudadano de Seguridad Pública del Estado de México;
 
-El representante a que se refiere la fracción III, será elegido de conformidad con las normas que adopte el Consejo Estatal en el acuerdo respectivo.
+V. Un representante del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, quien fungirá como Secretario Ejecutivo del Consejo Intermunicipal;
 
-Todos los integrantes deberán asistir personalmente, no pudiendo delegar su representación.
+VI. Un representante de la Procuraduría General de Justicia del Estado de México;
 
-En caso de que alguno de los Municipios haya celebrado convenio con el Gobierno del Estado para que éste asuma la función de seguridad pública, el Secretario designará el integrante del Consejo intermunicipal a que se refiere la fracción II de este artículo.
+VII. Un representante de la Comisión Estatal de Seguridad Ciudadana;
+
+VIII. Un representante del Instituto Mexiquense de Seguridad y Justicia;
+
+IX. Un representante del Centro de Control de Confianza;
+
+X. Un representante de la Comisión Ejecutiva de Atención a Víctimas;
+
+XI. Un representante de la Secretaría de Desarrollo Económico;
+
+XII. Un representante de la Secretaría de Comunicaciones y Transportes;
+
+XIII. Un representante de la Secretaría de Salud;
+
+XIV. Un representante de la Secretaría de Movilidad;
+
+XV. Un representante de la Junta de Caminos;
+
+XVI. Un representante de la Comisión de Derechos Humanos del Estado de México;
+
+XVII. Un representante de la Protectora de Bosques del Estado de México, en su caso;
+
+XVIII. Deberán invitarse a las instancias federales a través de un representante de:
+
+a) Secretaría de la Defensa Nacional;
+
+b) Policía Federal;
+
+c) Secretaría de Marina;
+
+d) Procuraduría General de la República;
+
+e) Centro de investigación y Seguridad Nacional.
+
+Instancias que tendrán voz y voto en las deliberaciones que se realicen.
+
+En caso de que alguno de los municipios haya celebrado convenio con el Gobierno del Estado o el Gobierno Federal para que éste asuma la función de seguridad pública, el Comisionado designará al integrante del Consejo Intermunicipal a que se refiere la fracción II de este artículo.
+
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 45.
 
-Cada Consejo Intermunicipal tendrá un Presidente, quien será designado entre los Presidentes Municipales que lo conformen y que los representará ante el Consejo Estatal, en los términos de los acuerdos que disponga el Consejo Estatal. El Presidente del Consejo Intermunicipal tendrá duración de un año en el ejercicio del cargo, pudiendo ser reelecto para un período igual.
+Para la conducción de los trabajos del Consejo Intermunicipal, deberá conformarse la mesa directiva, la cual estará integrada por un Presidente y un Vicepresidente, en ambos casos presidentes municipales, quienes serán electos de entre sus pares que integran el Consejo, salvo en el caso de los Consejos que resultaran ser integrados por un solo municipio, en el que el Vicepresidente será el Secretario del Ayuntamiento. Formará parte también de la mesa directiva el Secretario Ejecutivo, que será el representante del Secretariado Ejecutivo.
+
+El Presidente y Vicepresidente del Consejo Intermunicipal durarán en su encargo un año, sin que el Presidente tenga la posibilidad de reelegirse, con excepción de los Presidentes de Consejos que resultaran integrados por un solo municipio, en su caso.
+
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 46.
 
-Los Consejos Intermunicipales podrán invitar, por la naturaleza de los asuntos a tratar, a personas que no sean integrantes, a fin de intercambiar experiencias, conocimientos y buenas prácticas en materia de seguridad pública. Dicha participación será con carácter honorífico.
+Los Consejos Intermunicipales podrán invitar por la naturaleza de los asuntos a tratar a representantes de otras instancias federales y estatales, de empresas u organizaciones privadas a fin de intercambiar experiencias, conocimientos y buenas prácticas en materia de seguridad pública. Dicha participación será de carácter honorífico y con derecho a voz y no voto.
+
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 47.
 
-Los Consejos Intermunicipales sesionarán en los términos que establezca el Estatuto correspondiente, de conformidad con los acuerdos que adopte el Consejo Estatal. La convocatoria se hará por el Presidente, por conducto del Secretario Ejecutivo.
+El Consejo Intermunicipal deberá instalarse dentro de los primeros treinta días naturales del inicio de la administración municipal y enviar al Consejo Estatal el acta de instalación respectiva.
 
-Las sesiones podrán celebrarse de manera rotativa, en cada uno de los Municipios que conforman el Consejo Intermunicipal respectivo, según lo determinen los integrantes.
+El Consejo Intermunicipal sesionará de manera ordinaria por lo menos cada tres meses y en forma extraordinaria, cuando así lo acuerde la mesa directiva, en términos que establezca el estatuto correspondiente. La Convocatoria se hará por el Presidente, a través del Secretario Ejecutivo.
+
+En ausencia del Presidente, las sesiones pueden ser conducidas por el Vicepresidente.
 
 ###### Artículo 48.
 
@@ -955,9 +1003,27 @@ Los Consejos Regionales podrán proponer al Consejo Nacional y a las Conferencia
 
 #### SECCIÓN SEGUNDA. DE LOS CONSEJOS MUNICIPALES
 
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 55.
 
-Los Municipios establecerán un Consejo Municipal de Seguridad Pública, cuando las características y particularidades del Municipio así lo exijan, en función de la incidencia delictiva, los factores criminógenos y demás circunstancias que establezcan los acuerdos generales que emita el Consejo Estatal y a propuesta de los Presidentes Municipales.
+Los municipios de la Entidad establecerán un Consejo Municipal de Seguridad Pública, el cual deberá quedar instalado dentro de los primeros treinta días naturales del inicio de la administración municipal y enviar al Consejo Estatal el acta de instalación respectiva. Cada Consejo Municipal deberá sesionar en forma ordinaria cada dos meses y en forma extraordinaria las veces que sean necesarias, en términos que establezca el estatuto correspondiente que emita el Consejo Municipal.
+
+El Consejo Municipal podrá celebrar sesiones regionales, atendiendo a la densidad poblacional, extensión territorial y/o incidencia delictiva conforme a lo establecido en los lineamientos que al efecto emita el Consejo Estatal.
+
+Para el desahogo de los asuntos de su competencia, el Consejo Municipal de Seguridad Pública integrará las siguientes comisiones:
+
+1. Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana.
+
+2. Planeación y Evaluación.
+
+3. Estratégica de Seguridad.
+
+4. Comisión de Honor y Justicia.
+
+5. Las demás que determine.
+
+Las facultades, atribuciones, integración y funcionamiento de las comisiones de los Consejos Municipales de Seguridad Pública estarán determinadas en los lineamientos que para tal efecto emita el Consejo Estatal.
 
 ###### Artículo 56.
 
@@ -967,9 +1033,87 @@ I. Planear, coordinar y supervisar las acciones, políticas y programas en mater
 
 II. Dar seguimiento a los acuerdos, lineamientos y políticas emitidos por el Consejo Nacional, Estatal e Intermunicipal, en sus respectivos ámbitos de competencia.
 
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 57.
 
-Los Consejos Municipales se integrarán conforme a las bases generales que se determinen en los acuerdos que adopte el Consejo Estatal, y tomarán en cuenta la participación ciudadana. El Presidente Municipal será el Presidente del Consejo.
+Los Consejos Municipales de Seguridad Pública quedarán integrados de la siguiente manera:
+
+A. Mesa Directiva
+
+I. El Presidente Municipal, quien fungirá como Presidente del Consejo;
+
+II. El Secretario del Ayuntamiento, quien fungirá como Vicepresidente del Consejo;
+
+III. El Secretario Técnico del Consejo Municipal.
+
+B. Consejeros
+
+I. El Síndico Municipal o Primer Síndico en su caso;
+
+II. Los Regidores integrantes de las Comisiones Edilicias vinculadas a la Seguridad Pública;
+
+III. El Director de Gobierno o Gobernación, según la denominación que corresponda a cada Ayuntamiento;
+
+IV. El Comisario o Director de Seguridad Pública Municipal;
+
+V. Los Oficiales Mediadores y Calificadores;
+
+VI. El Contralor Interno Municipal;
+
+VII. Un representante del Secretariado Ejecutivo;
+
+VIII. Un representante de la Comisión Estatal de Seguridad Ciudadana;
+
+IX. Los Delegados y/o Subdelegados Municipales;
+
+X. Los Presidentes de los Consejos de Participación Ciudadana, en su caso;
+
+XI. Un representante de los Comisariados Ejidales y/o de Bienes Comunales;
+
+XII. Un representante de Protección Civil Municipal;
+
+XIII. El Defensor de Derechos Humanos Municipal;
+
+XIV. Un representante ciudadano de los siguientes sectores:
+
+a) Deportivo.
+
+b) Educativo.
+
+c) Productivo-industrial (en su caso).
+
+d) Agropecuario (en su caso).
+
+e) De organizaciones juveniles.
+
+f) De organizaciones de mujeres.
+
+g) De transporte público de pasajeros.
+
+C. Invitados Permanentes
+
+I. Un representante de la Secretaría de la Defensa Nacional;
+
+II. Un representante de la Policía Federal;
+
+III. Un representante de la Procuraduría General de la República;
+
+IV. Un representante de la Procuraduría General de Justicia del Estado de México;
+
+V. Un representante del Instituto de Salud del Estado de México.
+
+Quienes tendrán derecho a voz.
+
+D. Invitados Especiales
+
+I. Representantes de los Comités de Administración previstos por la Ley que Regula el Régimen de Propiedad en Condominio en el Estado de México, cuando los asuntos a tratar en la sesión correspondiente así lo ameriten;
+
+II. Representantes de las instancias estatales y federales cuando los asuntos a tratar en la sesión correspondiente así lo ameriten;
+
+III. Los demás servidores públicos municipales que considere el Presidente Municipal del Consejo Municipal en razón de sus funciones y responsabilidades.
+
+Quienes tendrán derecho a voz.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
 
@@ -979,7 +1123,89 @@ Los municipios, previo acuerdo aprobado por sus ayuntamientos, podrán celebrar 
 
 En el caso de que el Municipio haya celebrado convenio con el Gobierno del Estado para que éste asuma la función de seguridad pública, se integrará en el Consejo Municipal el representante que designe el Secretario.
 
-#### SECCIÓN PRIMERA. DEL CENTRO DE INFORMACIÓN Y ESTADÍSTICA
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 10 DE AGOSTO DE 2016)</small>
+
+#### SECCIÓN TERCERA. DEL SECRETARIO TÉCNICO DEL CONSEJO MUNICIPAL DE SEGURIDAD PÚBLICA
+
+> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2016)</small>
+
+###### Artículo 58 Bis.
+
+Los ayuntamientos deberán considerar en su estructura orgánica una unidad administrativa denominada Secretaría Técnica del Consejo Municipal de Seguridad Pública, cuyo o cuya titular será a propuesta del Presidente Municipal y aprobado en sesión de cabildo el o la cual tendrá las facultades y atribuciones previstas por esta Ley y los demás ordenamientos aplicables.
+
+El Secretario o Secretaria Técnica del Consejo Municipal deberá tener preferentemente nivel de Dirección dentro de la estructura administrativa municipal.
+
+> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2016)</small>
+
+###### Artículo 58 Ter.
+
+La Secretaría Técnica del Consejo Municipal de Seguridad Pública será la unidad administrativa municipal, que atenderá los aspectos normativos, administrativos y de planeación necesarios para la prestación del servicio de seguridad pública en el ámbito municipal, siendo también la responsable de la vinculación del Ayuntamiento con las instancias federales y estatales en la materia.
+
+Procurará además la implementación, en el ámbito de su responsabilidad, de los acuerdos emitidos por los Consejos Nacional, Estatal e Intermunicipal de Seguridad Pública y será coadyuvante del funcionamiento del Sistema Estatal de Seguridad Pública.
+
+> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2016)</small>
+
+###### Artículo 58 Quáter.
+
+Para ocupar el cargo de Secretario o Secretaria Técnica del Consejo Municipal de Seguridad Pública se deberán satisfacer los siguientes requisitos, con independencia de los que se establezcan en los Lineamientos Específicos del Consejo Estatal:
+
+I. Ser ciudadano o ciudadana del Estado de México, preferentemente vecino del municipio, en pleno uso de sus derechos;
+
+II. No estar inhabilitado o inhabilitada para desempeñar cargo, empleo, o comisión pública;
+
+III. No haber sido condenado o condenada en proceso penal, por delito intencional que amerite pena privativa de libertad;
+
+IV. Contar con título profesional o experiencia mínima de un año en la materia;
+
+V. Someterse y aprobar las evaluaciones de certificación y control de confianza, para su ingreso y permanencia.
+
+> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2016)</small>
+
+###### Artículo 58 Quinquies.
+
+Son atribuciones del Secretario o Secretaria Técnica:
+
+I. Proponer al Presidente la agenda de asuntos a tratar en las sesiones del Consejo Municipal;
+
+II. Elaborar las actas de las sesiones;
+
+III. Elaborar y proponer al Presidente del Consejo, los Programas Municipales de Seguridad Pública y Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana;
+
+IV. Coadyuvar con el Contralor Interno Municipal en la evaluación del cumplimiento de los acuerdos y resoluciones del Consejo;
+
+V. Informar periódicamente al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública sobre el estado que guardan los asuntos a su cargo;
+
+VI. Fungir como enlace ante el Centro Estatal de Control de Confianza y verificar que el estado de fuerza municipal y servidores públicos obligados cumplan con lo previsto en materia de control de confianza;
+
+VII. Ser el enlace ante el Centro de Información y Estadística del Secretariado Ejecutivo y proveer la información que le sea solicitada;
+
+VIII. Fungir como enlace ante el Centro de Prevención del Delito del Secretariado Ejecutivo y coordinarse para la ejecución y evaluación de programas, políticas y estrategias en la materia, así como proveer información que le sea solicitada;
+
+IX. Fungir como enlace ante la Dirección General de Planeación, Seguimiento y Evaluación del Secretariado Ejecutivo, para la supervisión sobre el avance físico-financiero correspondiente al ejercicio de recursos provenientes de fondos y subsidios de origen federal, estatal o municipal aplicados a la prestación del servicio de seguridad pública y la prevención de la violencia y la delincuencia;
+
+X. Dar seguimiento puntual a las sesiones y acuerdos de las Comisiones Municipales para la Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana, Comisión de Planeación y Evaluación, Comisión Estratégica de Seguridad y Comisión de Honor y Justicia;
+
+XI. Fungir como enlace ante la Comisión Estatal de Seguridad Ciudadana para dar seguimiento al registro y actualización de la licencia colectiva para la portación de armas de fuego;
+
+XII. Brindar atención y orientación permanente a la ciudadanía sobre solicitudes, quejas y denuncias;
+
+XIII. Fungir como enlace ante el Instituto Mexiquense de Seguridad y Justicia y coadyuvar con el Comisario o Director de Seguridad Pública para mantener en permanente actualización y profesionalización al estado de fuerza municipal;
+
+XIV. Fomentar entre la población la cultura de la denuncia e implementar acciones para la difusión de los medios a su alcance para tal fin;
+
+XV. Implementar una estrategia de difusión sobre las actividades del Consejo, priorizando acuerdos tomados, así como el seguimiento y cumplimiento de los mismos;
+
+XVI. Proponer y asesorar al Consejo en materia de políticas, lineamientos y acciones para el buen desempeño de sus actividades;
+
+XVII. Integrar, conservar y mantener actualizado el archivo de los asuntos del Consejo, estableciendo y responsabilizándose de su sistema de administración y consulta;
+
+XVIII. Proponer al Consejo Municipal la celebración de convenios de cooperación, coordinación y apoyo con entidades del sector público y privado, así como universidades y organizaciones de la sociedad civil, que contribuyan a la consecución de los fines de la seguridad pública y del Consejo Municipal;
+
+XIX. Promover la capacitación de los integrantes del Consejo Municipal y demás personal del municipio relacionado con la seguridad pública, la prevención social de la violencia y la delincuencia y la participación ciudadana;
+
+XX. Remitir al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública copias certificadas de las actas de las sesiones del Consejo Municipal;
+
+XXI. Las demás que le confieran las normas jurídicas aplicables.
 
 ### CAPÍTULO ÚNICO
 
@@ -1069,9 +1295,7 @@ El personal de las unidades administrativas del Secretariado Ejecutivo, incluso 
 
 ### CAPÍTULO PRIMERO. DE LOS DERECHOS Y OBLIGACIONES DE LOS INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
 
-#### SECCIÓN SEGUNDA. DEL CENTRO DE PREVENCIÓN DEL DELITO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE JULIO DE 2013)</small>
+#### SECCIÓN PRIMERA. DEL CENTRO DE INFORMACIÓN Y ESTADÍSTICA
 
 ###### Artículo 63.
 
@@ -1265,7 +1489,9 @@ V. La contenida en averiguaciones previas, carpetas de investigación, expedient
 
 La inobservancia a lo anterior se sancionará de conformidad con las disposiciones aplicables.
 
-#### SECCIÓN TERCERA. DEL CONSEJO CIUDADANO DE SEGURIDAD PÚBLICA
+#### SECCIÓN SEGUNDA. DEL CENTRO DE PREVENCIÓN DEL DELITO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE JULIO DE 2013)</small>
 
 ###### Artículo 82.
 
@@ -1314,6 +1540,8 @@ XIV. Organizar con la participación de la sociedad civil, el sector educativo, 
 XV. Coordinarse con el Centro Nacional de Prevención del Delito y Participación Ciudadana para implementar los mecanismos eficaces para lograr la participación de la sociedad civil en el seguimiento, evaluación y supervisión de las acciones del Sistema Estatal; y
 
 XVI. Las demás que establezcan las disposiciones legales y reglamentarias.
+
+#### SECCIÓN TERCERA. DEL CONSEJO CIUDADANO DE SEGURIDAD PÚBLICA
 
 ###### Artículo 84.
 
@@ -1431,9 +1659,7 @@ I. La política pública integral sobre seguridad pública;
 
 II. Las metas y objetivos específicos de dicha política;
 
-> <small>(REFORMADA, G.G. 17 DE JULIO DE 2013)</small>
-
-III. Las políticas públicas y acciones que, en forma planeada y coordinada, deberán realizar las Instituciones de Seguridad Pública, para la prevención del delito;
+III. (DEROGADA, G.G. 10 DE AGOSTO DE 2016)
 
 IV. El diagnóstico de la situación que presenta la seguridad pública en el Estado de México;
 
@@ -2980,3 +3206,23 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
 
 CUARTO. Los procedimientos o procesos que se hayan iniciado a la entrada en vigor del presente Decreto continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
+
+G.G. 10 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 116.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO Y DE LA LEY QUE REGULA EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO EN ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta de Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta de Gobierno".
+
+TERCERO. El Titular del Ejecutivo del Estado realizará las adecuaciones necesarias para el cumplimiento del presente Decreto, en términos de lo dispuesto en el artículo 77 fracción IV de la Constitución Política del Estado Libre y Soberano de México.
+
+CUARTO. El Consejo Municipal de Seguridad Pública deberá instalarse en términos de la presente reforma en un plazo no mayor a noventa días, contado a partir de la entrada en vigor de este Decreto.
+
+Asimismo, en su primera sesión ordinaria deberá aprobar el estatuto a que se refiere esta Ley.
+
+QUINTO. El Consejo Intermunicipal de Seguridad Pública deberá instalarse en términos de la presente reforma en un plazo no mayor a ciento ochenta días, contado a partir de la entrada en vigor de este Decreto.
+
+Asimismo, en su primera sesión ordinaria deberá aprobar el estatuto a que se refiere esta Ley.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
