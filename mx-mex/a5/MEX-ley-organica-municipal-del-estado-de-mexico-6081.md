@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2016-06-15"
+last_updated: "2016-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE AGOSTO DE 2016.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1205,9 +1205,21 @@ XVIII. Promover el patriotismo, la conciencia cívica, las identidades nacional,
 
 XIX. Comunicar por escrito, con anticipación a su salida al extranjero, a la Legislatura o a la Diputación Permanente y al cabildo, los propósitos y objetivos del viaje e informar de las acciones realizadas dentro de los diez días siguientes a su regreso.
 
-> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2016)</small>
 
-XX. Las demás que le confieran esta Ley y otros ordenamientos.
+XX. Coadyuvar en la coordinación del cuerpo de seguridad pública a su cargo con las Instituciones de Seguridad Pública federales, estatales y de otros municipios en el desarrollo de operativos conjuntos, para el cumplimiento de los acuerdos tomados por el Consejo Estatal, los Consejos Intermunicipales y el Consejo Municipal de Seguridad Pública, así como en la ejecución de otras acciones en la materia;
+
+> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2016)</small>
+
+XXI. Satisfacer los requerimientos que le sean solicitados por la Comisión Estatal de Seguridad Ciudadana para el registro y actualización de la licencia colectiva para la portación de armas de fuego de los elementos a su cargo;
+
+> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2016)</small>
+
+XXII. Vigilar la integración, funcionamiento y cumplimiento de los acuerdos tomados por el Consejo Municipal de Seguridad Pública, en los términos de esta Ley;
+
+> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2016)</small>
+
+XXIII. Las demás que le confieran esta Ley y otros ordenamientos.
 
 ###### Artículo 49.
 
@@ -2271,7 +2283,13 @@ XVI. Verificar que los servidores públicos municipales cumplan con la obligaci�
 
 XVII. Hacer del conocimiento del Órgano Superior de Fiscalización del Estado de México, de las responsabilidades administrativas resarcitorias de los servidores públicos municipales, dentro de los tres días hábiles siguientes a la interposición de las mismas; y remitir los procedimientos resarcitorios, cuando así sea solicitado por el Órgano Superior, en los plazos y términos que le sean indicados por éste;
 
-XVIII. Las demás que le señalen las disposiciones relativas.
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2016)</small>
+
+XVIII. Supervisar el cumplimiento de los acuerdos tomados por el Consejo Municipal de Seguridad Pública;
+
+> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2016)</small>
+
+XIX. Las demás que le señalen las disposiciones relativas.
 
 ###### Artículo 113.
 
@@ -2727,9 +2745,11 @@ El Ejecutivo Federal y el Gobernador del Estado en los términos del artículo 1
 
 En el municipio donde residan permanentemente los Poderes del Estado, el mando de la fuerza pública municipal lo ejercerá, en cualquier caso el Ejecutivo Estatal a través de la Dirección General de Seguridad Pública y Tránsito.
 
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 144.
 
-Los cuerpos de seguridad pública, bomberos y tránsito municipales se coordinarán en lo relativo a su organización, función y aspectos técnicos con la Dirección General de Seguridad Pública y Tránsito del Estado.
+Los cuerpos municipales de seguridad pública, de protección civil, de bomberos y de tránsito, se coordinarán en lo relativo a su organización, funcionamiento y aspectos técnicos con la Secretaría General de Gobierno por conducto del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, la Comisión Estatal de Seguridad Ciudadana, el Centro de Control de Confianza, el Instituto Mexiquense de Seguridad y Justicia y la Dirección General de Protección Civil.
 
 > <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
@@ -4454,3 +4474,23 @@ SEGUNDO. Este Decreto entrará en vigor al día siguiente del inicio de la vigen
 TERCERO. El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México deberá realizar las modificaciones correspondientes a la normatividad del Organismo, dentro de los ciento veinte días hábiles siguientes a la entrada en vigor de este Decreto.
 
 CUARTO. Se dejan sin efecto las disposiciones que se opongan al presente decreto.
+
+G.G. 10 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 116.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO Y DE LA LEY QUE REGULA EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO EN EL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta de (sic) Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta de (sic) Gobierno".
+
+TERCERO. El Titular del Ejecutivo del Estado realizará las adecuaciones necesarias para el cumplimiento del presente Decreto, en términos de lo dispuesto en el artículo 77 fracción IV de la Constitución Política del Estado Libre y Soberano de México.
+
+CUARTO. El Consejo Municipal de Seguridad Pública deberá instalarse en términos de la presente reforma en un plazo no mayor a noventa días, contado a partir de la entrada en vigor de este Decreto.
+
+Asimismo, en su primera sesión ordinaria deberá aprobar el estatuto a que se refiere esta Ley.
+
+QUINTO. El Consejo Intermunicipal de Seguridad Pública deberá instalarse en términos de la presente reforma en un plazo no mayor a ciento ochenta días, contado a partir de la entrada en vigor de este Decreto.
+
+Asimismo, en su primera sesión ordinaria deberá aprobar el estatuto a que se refiere esta Ley.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
