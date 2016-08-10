@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-acceso-a-una-vida-libre-de-violencia-para-las-68552"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2016-05-11"
+last_updated: "2016-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE CHI
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 11 DE MAYO DE 2016, SE DEROGARON LAS DENOMINACIONES DE LOS CAPÍTULOS II; III; IV; V; VI; VII; VIII; IX; X; XI; XII; MODIFICANDO DE FORMA SUSTANCIA LA ESTRUCTURA DEL PRESENTE ORDENAMIENTO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el lunes 23 de marzo de 2009.
 
@@ -931,9 +931,13 @@ XVIII. Promover la cultura de denuncia de la violencia contra las mujeres;
 
 XIX. Realizar un diagnóstico estatal con enfoque de perspectiva de género, sobre las formas de violencia contra las mujeres, el cual será considerado para la elaboración de políticas públicas gubernamentales en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres.
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2016)</small>
 
-XX. Las demás previstas para el cumplimiento de esta Ley.
+XX. Integrar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres.
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2016)</small>
+
+XXI. Las demás previstas para el cumplimiento de esta Ley.
 
 ###### Artículo 48.
 
@@ -963,9 +967,7 @@ XI. Impulsar la formación de promotoras y promotores comunitarios para la aplic
 
 XII. Auxiliar al Ministerio Público en la protección de los derechos de las mujeres;
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2009)</small>
-
-XIII. Integrar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres;
+XIII. (DEROGADA, P.O. 10 DE AGOSTO DE 2016)
 
 (ADICIONADA, P.O. 31 DE OCTUBRE DE 2009)}
 
@@ -1192,3 +1194,19 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 Artículo Tercero.- La titular de la Secretaría para el Desarrollo y Empoderamiento de las Mujeres, deberá someter a consideración del Titular del Ejecutivo del Estado, en un término no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, las adecuaciones necesarias al Reglamento de la Ley de Acceso a una Vida Libre de Violencia para las Mujeres en el Estado de Chiapas, para efectos de su expedición y publicación correspondiente.
+
+P.O. 10 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 256 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- La Secretaría para el Desarrollo y Empoderamiento de las Mujeres, deberá asumir de inmediato la integración del Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres.
+
+Artículo Cuarto.- La Secretaría para el Desarrollo y Empoderamiento de las Mujeres, deberá implementar en un lapso no mayor de 90 días hábiles, un sistema informático que sistematice la información estatal sobre casos de violencia, en el que se descargue la información con que deberá contar el Banco Estatal de Datos e Información sobre casos de Violencia contra las Mujeres.
+
+Artículo Quinto.- Las referencias, atribuciones o menciones que hagan otros ordenamientos legales, normativos o administrativos, en relación a que es el Sistema para el Desarrollo Integral de la Familia del Estado de Chiapas quien recabe, integre y organice el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres, se entenderán conferidas a la Secretaría para el Desarrollo y Empoderamiento de las Mujeres.
+
+Artículo Sexto.- La Secretaría para el Desarrollo y Empoderamiento de las Mujeres, a partir de la entrada en vigor del presente Decreto, deberá rendir el informe correspondiente al Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres, con base a la información actualizada que recabe, integre y organice.
