@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-para-ejercer-el-derecho-a-la-informacion-ante-el-756
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-07-05"
-last_updated: "2010-07-05"
+last_updated: "2016-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "MIC"
 
 REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACIÓN ANTE EL H. AYUNTAMIENTO DE NUEVO PARANGARICUTIRO, MICHOACÁN
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACIÓN PÚBLICA ANTE EL AYUNTAMIENTO DE NUEVO PARANGARICUTIRO, MICHOACÁN, PUBLICADO EN EL P.O. DE 11 DE AGOSTO DE 2016 EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: (DEROGADA).
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Michoacán, el lunes 5 de julio del 2010.
 
