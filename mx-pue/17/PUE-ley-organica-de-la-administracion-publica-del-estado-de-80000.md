@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-80000"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-02-11"
-last_updated: "2016-08-01"
+last_updated: "2016-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2016.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el viernes 11 de febrero de 2011.
 
@@ -833,13 +833,21 @@ LXXXVI.- Verificar los sistemas y estructuras que tengan en operación las Depen
 
 LXXXVII.- Diseñar, instrumentar y coordinar la operación del Sistema de Evaluación del Desempeño de la Administración Pública Estatal y fungir como instancia técnica de evaluación de los programas presupuestarios;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
 
-LXXXVIII.- Generar, requerir, analizar y consolidar con fines de inteligencia, información patrimonial, económica, financiera, fiscal, civil y cualquier otra que pudieran proporcionar las Dependencias y Entidades de la Administración Pública Estatal y Municipal y presentarla a las autoridades competentes, a fin de prevenir y detectar los delitos en materia de operaciones con recursos de procedencia ilícita y financiamiento al terrorismo, dentro del territorio del Estado; y
+LXXXVIII.- Generar, requerir, analizar y consolidar con fines de inteligencia, información patrimonial, económica, financiera, fiscal, civil y cualquier otra que pudieran proporcionar las Dependencias y Entidades de la Administración Pública Estatal y Municipal y presentarla a las autoridades competentes, a fin de prevenir y detectar los delitos en materia de operaciones con recursos de procedencia ilícita y financiamiento al terrorismo, dentro del territorio del Estado;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
 
-LXXXIX.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
+LXXXIX.- Coadyuvar con las instancias estatales de Salud, en la administración de sus recursos financieros, para el cumplimiento de su objeto, salvo las cuotas de recuperación que obtenga por la prestación de sus servicios;
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2016)</small>
+
+XC.- Coadyuvar con el Organismo Público Descentralizado denominado Consejo Estatal para la Cultura y las Artes de Puebla, en la administración de sus recursos financieros, para el cumplimiento de su objeto; y
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2016)</small>
+
+XCI.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2570,3 +2578,11 @@ SÉPTIMO. El Ejecutivo del Estado dentro (sic) los noventa días naturales sigui
 En tanto no se realicen las reformas a que se refiere el párrafo anterior, las Dependencias señaladas en este Decreto, seguirán aplicando los reglamentos vigentes en todo aquello que no la contravengan.
 
 OCTAVO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por la presente Ley.
+
+P.O. 11 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES LXXXVIII Y LXXXIX DEL ARTÍCULO 35, Y ADICIONA LAS FRACCIONES XC Y XCI AL ARTÍCULO 35, TODOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día de su publicación.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por la presente Ley.
