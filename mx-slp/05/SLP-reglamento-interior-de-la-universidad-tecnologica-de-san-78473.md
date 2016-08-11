@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-universidad-tecnologica-de-san-78473"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-11"
-last_updated: "2010-12-11"
+last_updated: "2016-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78473&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DE SAN LUIS POTOSI
 
-REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DE SAN LUIS POTOSI
+REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2016.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el sábado 11 de diciembre de 2010.
 
@@ -47,6 +47,8 @@ La Universidad Tecnológica de San Luis Potosí, es un Organismo Público Descen
 
 El presente Reglamento, tiene por objeto: regular y definir la organización y funcionamiento, así como las atribuciones y facultades de la estructura de la Universidad, esto de conformidad con el Decreto Gubernativo de su creación y del Convenio de coordinación para la construcción, desarrollo y consolidación de la Universidad Tecnológica de San Luis Potosí, la cual ha sido aprobada por el Consejo Directivo de conformidad con la disponibilidad presupuestal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 11 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 3°.
 
 Para los efectos de este Reglamento, se entenderá por:
@@ -57,17 +59,25 @@ b). Decreto.- El Decreto Administrativo publicado en el Periódico Oficial del G
 
 c). Consejo.- El H. Consejo Directivo de la Universidad;
 
-d). CGUT.- Coordinación General de Universidades Tecnológicas;
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2016)</small>
 
-e). Rector.- El Rector de la Universidad;
+d) CGUTyP.- Coordinación General de Universidades Tecnológicas y Politécnicas;
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2016)</small>
+
+e) Rector/a.- El Rector/a de la Universidad;
 
 f). Funcionarios.- Titulares de área señalados en el artículo 8° del presente Reglamento; y
 
 g). Órganos Colegiados.- Son las Comisiones y Comités permanentes de la Universidad, que se conforman previo acuerdo del Consejo Directivo, para establecer, organizar y resolver situaciones específicas, según se dispone en la Reglamentación interna de la Universidad.
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 4°.
 
-De acuerdo con el Decreto, la Universidad adopta el modelo pedagógico aprobado por la Secretaría de Educación Pública y operado a través de la Subsecretaría de Educación Superior por conducto de la CGUT, para impartir educación superior en los niveles de Técnico Superior Universitario, conforme a los planes de estudio aprobados, así como cursos de Actualización y Especialización.
+De acuerdo con el Decreto, la Universidad adopta el modelo pedagógico aprobado por la Secretaría de Educación Pública y operado a través de la Subsecretaría de Educación Superior por conducto de la CGUTyP, para impartir educación superior en los niveles de Técnico Superior Universitario y Licenciatura conforme a los planes de estudio aprobados, así como cursos de actualización, especialización y desarrollo de proyectos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 11 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 5°.
 
@@ -83,13 +93,17 @@ IV. Establecer los procedimientos de acreditación y certificación de estudios;
 
 V. Expedir certificados, diplomas y constancias de estudios, así como títulos y distinciones especiales de conformidad con la normatividad aplicable;
 
-VI. Regular los procedimientos de selección e ingreso de los alumnos y establecer las normas para su permanencia en la Universidad;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
+
+VI. Regular los procedimientos de selección e ingreso del alumnado y establecer las normas para su permanencia en la Universidad;
 
 VII. Establecer los procedimientos de ingreso, promoción y permanencia de su personal académico;
 
 VIII. En sus funciones de Vinculación, establecer programas de educación continua para la capacitación y actualización profesional a través de cursos, seminarios, talleres, diplomados, servicios tecnológicos, etc; dirigidos a los miembros de la comunidad universitaria, sus egresados, los sectores productivos y población en general;
 
-IX. Organizar actividades que permitan a la comunidad el acceso a la cultura, el deporte y las actividades cívicas en todas sus manifestaciones; enfocadas al desarrollo humano del alumno;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
+
+IX. Organizar actividades que permitan a la comunidad el acceso a la cultura, el deporte y las actividades cívicas en todas las manifestaciones; enfocadas al desarrollo humano del alumnado;
 
 X. Impulsar estrategias de participación y concertación con los sectores público, privado y social, para la proyección de las actividades productivas con los más altos niveles de eficiencia y sentido social;
 
@@ -97,9 +111,13 @@ XI. Establecer convenios de colaboración con instituciones y organismos naciona
 
 XII. Considerar como bienes de la Universidad y reservarse el derecho de uso y usufructo, el nombre, lema, logotipo, escudos, colores y mascota de la institución; y demás elementos característicos que identifiquen a la Universidad;
 
-XIII. Expedir las disposiciones necesarias a fin de hacer efectivas las facultades que se le confiere para el cumplimiento de su objeto, y que contribuyan al desarrollo de las competencias profesionales de los alumnos;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
 
-XIV. Establecer y regular los mecanismos para el otorgamiento de becas educativas a favor de los alumnos de la Universidad;
+XIII. Expedir las disposiciones necesarias a fin de hacer efectivas las facultades que se le confiere para el cumplimiento de su objeto, y que contribuyan al desarrollo de las competencias profesionales del alumnado;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
+
+XIV. Establecer y regular los mecanismos para el otorgamiento de becas educativas a favor del alumnado de la Universidad;
 
 XV. Constituir Órganos Colegiados que coadyuven en el logro de los objetivos de la Universidad, mismos que se establecerán previo acuerdo del Consejo Directivo y en concordancia con la Reglamentación interna correspondiente;
 
@@ -109,59 +127,85 @@ XVII. Establecer medidas y programas para la seguridad, higiene y medio ambiente
 
 ### CAPÍTULO II. DE LA COMUNIDAD UNIVERSITARIA
 
-###### Artículo 6º.
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 11 DE AGOSTO DE 2016)</small>
 
-La comunidad Universitaria está compuesta por:
+###### Artículo 6°.
 
-a). Alumnos;
+La Comunidad Universitaria está compuesta por:
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2016)</small>
+
+a). Alumnado;
 
 b). Personal Académico; y
 
 c). Personal Administrativo.
 
-###### Artículo 7º.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2016)</small>
 
-La Comunidad Universitaria, deberá contribuir al cumplimiento, desarrollo y consolidación de los objetivos y fines de la Universidad; para lograr el desarrollo profesional de los alumnos.
+###### Artículo 7°.
+
+La Comunidad Universitaria, deberá contribuir al cumplimiento, desarrollo y consolidación de los objetivos y fines de la Universidad, para lograr el desarrollo profesional del alumnado.
 
 ## TÍTULO SEGUNDO. ESTRUCTURA DE LA UNIVERSIDAD
 
 ### CAPÍTULO I. DE LAS ATRIBUCIONES Y ORGANIZACIÓN
 
-###### Artículo 8º.
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 11 DE AGOSTO DE 2016)</small>
 
-Los Órganos de Gobierno y Autoridades de la Universidad serán:
+###### Artículo 8°.
+
+Los órganos de Gobierno y Autoridades de la Universidad serán:
 
 I. Consejo Directivo y
 
-II. Rector, quien para la planeación, ejecución y atención de sus atribuciones, contarán con Direcciones de Centro y de División, que se dividen en:
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
+
+II. Rector/a, quien para la planeación, ejecución y atención de sus atribuciones, contará-con (sic) Secretaría Académica, Direcciones y Subdirecciones de Área, y Órganos Colegiados que se dividen en:
+
+1.- Secretaría Académica;
+
+2.- Direcciones de Área:
 
 a) Direcciones Académicas;
 
 b) Dirección de Administración y Finanzas;
 
-c) Dirección de Vinculación;
+c) Dirección de Vinculación; y
 
-d) Dirección de Gestión Universitaria;
+d) Dirección de Gestión Universitaria
 
-e) Unidad Jurídica;
+3.- Unidad Jurídica;
 
-f) Subdirección de Gestión de Calidad; y
+4.- Subdirecciones de Área;
 
-g) Subdirección de Planeación y Evaluación.
+a) Subdirección de Gestión de Calidad;
 
-Cada una de las áreas estará a cargo de un titular; en el caso que corresponda de conformidad con el Decreto, su propuesta; designación, nombramiento y remoción, será facultad exclusiva de los Órganos de Gobierno de la Universidad.
+b) Subdirección de Planeación y Evaluación; y
+
+c) Subdirección de Servicios Escolares.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2016)</small>
+
+Cada una de la (sic) áreas estará a cargo de un titular; en caso que corresponda de conformidad con el Decreto, su propuesta, designación, nombramiento y remoción, será facultad exclusiva de los Órganos de Gobierno de la Universidad.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 9°.
 
-Para el desarrollo de las responsabilidades y atribuciones establecidas en el presente Reglamento, las direcciones Académicas, Administración y Finanzas, Vinculación y Gestión Universitaria, cuyos titulares tienen el carácter de Directores, tendrán bajo su cargo a Subdirectores y/o Jefes de Departamento, Subdirectores Académicos y/o Profesores de Tiempo Completo, según corresponda al ámbito de su actuación.
+Para el desarrollo de las responsabilidades y atribuciones establecidas en el presente Reglamento, la Secretaría Académica, las Direcciones Académicas, Administración y Finanzas, Vinculación y Gestión Universitaria, cuyos titulares tienen el carácter de Secretario/a y Directores/as, tendrán bajo su cargo a Subdirectores/as y/o Jefes/as de Departamento, y/o Profesores/as de Tiempo Completo, según corresponda al ámbito de su actuación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 10.
 
-Serán responsabilidades comunes de las direcciones a que se refiere el artículo 8 del presente Reglamento:
+Serán responsabilidades comunes de las direcciones a que se refiere el artículo 8° del presente Reglamento:
 
 I. Planear, dirigir, controlar y ejecutar los proyectos, programas y actividades anuales de su dirección;
 
-II. Participar en el ámbito de su competencia, en la planeación y elaboración del POA (Programa Operativo Anual), PIDE (Plan Institucional de Desarrollo) y PIFI (Programa Integral de Fortalecimiento Institucional);
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
+
+II. Participar en el ámbito de su competencia, en la planeación y elaboración del POA (Programa Operativo Anual), PIDE (Plan Institucional de Desarrollo) y en los demás programas convocados por los Gobiernos Federal y/o Estatal;
 
 III. Garantizar la correcta aplicación del presupuesto asignado a su área;
 
@@ -181,9 +225,13 @@ X. Cumplir y promover entre la Comunidad Universitaria, los valores y la políti
 
 XI. Asumir la responsabilidad de bienes muebles asignados a su cargo de conformidad con los procedimientos establecidos;
 
-XII. Todas las áreas deben de contribuir al mejor desarrollo profesional de los alumnos; y
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
 
-XIII. Atender todos los demás asuntos conferidos por instrucciones del Rector.
+XII. Todas las áreas deben de contribuir al mejor desarrollo profesional del alumnado; y
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
+
+XIII. Atender todos los demás asuntos conferidos por instrucciones del Rector/a.
 
 ### CAPÍTULO II. DEL CONSEJO DIRECTIVO
 
@@ -195,15 +243,21 @@ El Consejo es la autoridad superior de la Universidad y se integrará en la form
 
 El Consejo sesionará previamente a su convocatoria de manera ordinaria y extraordinariamente cuando por la importancia de los asuntos a tratar requieran necesariamente de su celebración; ambas sesiones constarán en acta que se formalizará y aprobará por cada uno de sus integrantes con derecho de voz y voto.
 
-### CAPÍTULO III. DEL RECTOR
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO III. DEL RECTOR/A
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 13.
 
-El Rector es el representante legal y responsable de dirigir el desarrollo de la Universidad para lograr los objetivos Institucionales y el desarrollo profesional de los alumnos.
+El Rector/a, es el representante legal y responsable de dirigir el desarrollo de la Universidad para lograr los objetivos Institucionales y el desarrollo profesional del alumnado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 14.
 
-El Rector, sin perjuicio de las atribuciones que expresamente le otorga el Decreto, tendrá además las siguientes:
+El Rector/a, sin perjuicio de las facultades y obligaciones que expresamente le otorga el Decreto, tendrá además las siguientes:
 
 I. Representar legalmente a la Universidad con el carácter de Apoderado para actos de administración y para pleitos y cobranzas, facultad que ejercerá a través de Mandato Público que le otorgue el Consejo en el uso de sus atribuciones;
 
@@ -217,135 +271,167 @@ V. Gestionar los recursos federales de los programas vigentes, en los que pueda 
 
 VI. Certificar y expedir con base en la compulsa y cotejo, todo tipo de documentación contenida en sus archivos de acuerdo con la Ley.
 
-### CAPÍTULO IV. DE LOS DIRECTORES ACADÉMICOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO IV. DE LA SECRETARÍA Y DIRECCIONES ACADÉMICAS
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 15.
 
-Los Directores Académicos se encargarán de Administrar los recursos asignados para que los alumnos de los Programas Educativos que se imparten, adquieran una educación de calidad, pertinente, polivalente, flexible e integral en el campo que les corresponda, de acuerdo a los planes de estudio, así como apoyar las actividades para lograr el desarrollo profesional de los alumnos.
+El Secretario/a Académico se encargará de planear, organizar, supervisar y dar seguimiento a las acciones y programas que garanticen la calidad académica de los programas educativos ofrecidos en la Universidad, por conducto de los Directores/as académicos/as.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 16.
 
-Los Directores Académicos, tendrán las siguientes responsabilidades:
+El Secretario/a Académico tendrá las siguientes responsabilidades:
 
-I. Planear y coordinar el desarrollo y consolidación de los programas educativos bajo su responsabilidad;
+I. Establecer programas y acciones que permitan el cumplimiento de las labores sustantivas del área académica.
 
-II. Administrar los planes y programas de estudio;
+II. Asegurar la pertinencia de los programas educativos ofrecidos en la Universidad.
 
-III. Administrar el proceso enseñanza aprendizaje;
+III. Realizar el plan de desarrollo de los programas educativos ofrecidos en la Universidad.
 
-IV. Asegurar el cumplimiento de los indicadores del proceso enseñanza-aprendizaje;
+IV. Garantizar el cumplimiento del programa operativo anual en lo que aplique al área académica.
 
-V. Asegurar que se lleven a cabo las actividades docentes, y se de cumplimiento con cargas, horarios y aulas;
+V. Garantizar que los programas educativos ofrecidos en la Universidad, sean reconocidos por su calidad educativa de conformidad con los organismos evaluadores.
 
-VI. Administrar el desarrollo de la impartición de clases y la aplicación de tutorías y asesorías;
+VI. Garantizar la pertinencia y actualización del equipamiento requerido por los programas educativos atendidos.
 
-VII. Administrar en conjunto con Vinculación el proceso de estadías;
+VII. Asegurar el mejoramiento continuo del proceso de enseñanza-aprendizaje.
 
-VIII. Coordinar la formación y funcionamiento de academias y cuerpos académicos;
+VIII. Promover la creación y/o consolidación de cuerpos académicos y la Investigación aplicada y/o desarrollo tecnológico alineado al plan de desarrollo de los programas educativos ofrecidos.
 
-IX. Coordinar la elaboración de manuales de asignatura;
+IX. Proponer la realización de convenios y proyectos de colaboración académica con el Sector Industrial y de Servicios.
 
-X. Participar en la captación de alumnos;
+X. Sostener la mejora continua de los principales indicadores académicos de los distintos programas educativos.
 
-XI. Participar en las Comisiones Académicas Nacionales;
-
-XII. Participar en organismos colegiados de la Institución y del subsistema;
-
-XIII. Participar en el desarrollo de estudios de pertinencia de los programas educativos de su responsabilidad;
-
-XIV. Vigilar que los recursos de infraestructura asignados se utilicen para asegurar el cumplimiento de las expectativas de los alumnos;
-
-XV. Aplicar el proceso de mejora continua para optimizar los resultados de los programas educativos de su responsabilidad;
-
-XVI. Promover y mantener la acreditación de los programas de estudio bajo su responsabilidad; y
-
-XVII. Promover la realización de convenios de colaboración académica.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 17.
 
-Los Directores Académicos contarán con el apoyo de Subdirectores Académicos quienes se encargarán de coordinar las actividades de los programas educativos.
+Los Directores/as Académicos se encargarán de Administrar los recursos asignados para mantener la pertinencia y calidad de los programas educativos ofrecidos en la Universidad.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 18.
 
-Los Subdirectores Académicos, tendrán las siguientes responsabilidades:
+Los Directores/as Académicos, tendrán las siguientes responsabilidades:
 
-I. Coordinar la ejecución y control de los planes y programas de las carreras;
+I. Asegurar la pertinencia de los programas educativos de la Dirección Académica.
 
-II. Participar en las reuniones del comité de Directores de Carrera en ausencia del director, para presentar propuestas y asegurar la pertinencia de los planes de estudio;
+II. Participar en la planeación estratégica del Programa Institucional de Desarrollo.
 
-III. Coordinar el proceso de enseñanza-aprendizaje que permita cumplir con las expectativas del alumno;
+III. Realizar el plan de desarrollo de los programas educativos bajo su responsabilidad.
 
-IV. Asegurar el cumplimiento de los indicadores del proceso de enseñanza-aprendizaje, realizar análisis de causas y proponer plan de acción a seguir cuando no se logren los indicadores;
+IV. Participar en el desarrollo del programa operativo anual de la Universidad.
 
-V. Vigilar que los recursos e infraestructura asignados se utilicen para asegurar el cumplimiento de las expectativas de los alumnos;
+V. Asegurar el cumplimiento del programa operativo anual en lo que aplique a la Dirección académica bajo su responsabilidad.
 
-VI. Planear las actividades docentes, cargas, horarios, aulas, laboratorios y talleres necesarios para cada inicio de cuatrimestre;
+VI. Asegurar que los programas educativos de la Dirección académica estén validados y contengan la documentación correspondiente.
 
-VII. Supervisar la correcta aplicación de tutorías y asesorías brindadas a los alumnos que así lo requieran;
+VII. Asegurar que los programas educativos considerados para la evaluación en el programa operativo anual sean reconocidos por su calidad educativa de conformidad con los organismos evaluadores.
 
-VIII. Coordinar y organizar la validación y asignación de estadías en conjunto con Vinculación;
+VIII. Atender y/o cumplir las recomendaciones de los organismos acreditadores.
 
-IX. Participar en las actividades de los Cuerpos Académicos del Programa Educativo;
+IX. Asegurar la pertinencia y actualización del equipamiento requerido por los programas educativos atendidos.
 
-X. Ejecutar el programa operativo anual de los programas educativos;
+X. Implementar y mantener la mejora continua del proceso de enseñanza-aprendizaje.
 
-XI. Participar activamente en la captación de alumnos de nuevo ingreso;
+XI. Asegurar el cumplimiento de los Objetivos de Calidad.
 
-XII. Participar en las coordinaciones académicas nacionales y comité de elaboración de reactivos EGETSU en ausencia del director;
+XII. Participar en la realización de convenios de colaboración académica.
 
-XIII. Asegurar el cumplimiento de los procedimientos de docencia; y
+XIII. Desarrollar proyectos para participar en los programas de fondos extraordinarios.
 
-XIV. Participar como miembro del jurado en exámenes profesionales.
+XIV. Promover la investigación aplicada y/o desarrollo tecnológico alineados al plan de desarrollo de los programas educativos.
 
-### CAPÍTULO V. DEL DIRECTOR DE VINCULACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO V. DEL DIRECTOR/A DE VINCULACIÓN
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 19.
 
-El Director de Vinculación es el responsable de promover, establecer y mantener la vinculación tanto técnica como académica de la Universidad con el sector productivo, de bienes y servicios, los sectores gobierno, social y educativo, así como de coordinar los actos de prestación de servicios tecnológicos que desarrolle la Universidad.
+El Director/a de Vinculación es el responsable de promover, establecer y mantener la vinculación tanto técnica como académica de la Universidad con el sector productivo, de bienes y servicios, los sectores gobierno, social y educativo, así como de coordinar los actos de prestación de servicios tecnológicos que desarrolle la Universidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 20.
 
-Al Director de Vinculación le compete despachar los asuntos siguientes:
+Al Director/a de Vinculación, le compete despachar los asuntos siguientes:
 
 I. Establecer y mantener las relaciones y coordinación con las áreas académicas de los organismos públicos y privados que coadyuven al cumplimiento de los proyectos de vinculación;
 
-II. Promover la realización de convenios relacionados con la participación de las empresas, cámaras industriales y organismos gubernamentales, en el desarrollo de los planes y programas académicos de la Institución;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
 
-III. Promover la realización de convenios de movilidad y tránsito de alumnos con Instituciones educativas locales o nacionales;
+II. Dirigir y promover la realización de convenios relacionados con la participación de las empresas, cámaras industriales y organismos gubernamentales, en el desarrollo de los planes y programas académicos de la Institución;
 
-IV. Promover la realización de contratos para los proyectos de desarrollo e investigación tecnológica con los sectores productivos de bienes y servicios;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
 
-V. Promover y coordinar la Bolsa de Trabajo de la Institución;
+III. Promover convenios de movilidad del alumnado.
 
-VI. Coordinar el programa de Seguimiento de Egresados de la Institución;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
 
-VII. Establecer los mecanismos para la pertinencia de los planes y programas de estudios de la Universidad;
+IV. Dirigir y promover la realización de contratos para los proyectos de desarrollo e investigación tecnológica con los sectores productivos de bienes y servicios;
 
-VIII. Coordinar los servicios de Educación Continua que requiera el sector productivo;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
 
-IX. Coordinar los programas de visitas de alumnos a la Industria;
+V. Promover la colocación de las/los egresadas/os en sus áreas de competencia, dentro de los sectores productivos y de servicios a través de la Bolsa de Trabajo.
 
-X. Coordinar el programa de captación de alumnos;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
 
-XI. Coordinar el programa de comunicación institucional;
+VI. Dirigir y coordinar el programa de Seguimiento de Egresados/as de la Institución;
 
-XII. Asegurar el obtener los lugares requeridos para la realización de Estadías de alumnos y Profesores de Tiempo Completo;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
 
-XIII. Coordinar la promoción de actividades de la Unidad de Incubación de empresas;
+VII. Coordinar y dar seguimiento a las propuestas del Consejo de Vinculación y Pertinencia;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
+
+VIII. Dirigir y coordinar los servicios de Educación Continua y Servicios Tecnológicos que requiera el sector productivo y de servicios;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
+
+IX. Dirigir y coordinar los programas de visitas del alumnado a la Industria;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
+
+X. Dirigir y coordinar el programa de Captación de alumnado de nuevo ingreso;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
+
+XI. Dirigir y coordinar el programa de Comunicación Institucional;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
+
+XII. Dirigir y coordinar la promoción de actividades de la Unidad de Incubación de proyectos productivos y sociales;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
+
+XIII. Asegurar el obtener los lugares requeridos para la realización de Estadías de alumnado y Profesores/as de Tiempo Completo;
 
 XIV. Promover los servicios de la Universidad a las empresas y organismos productivos de la zona de influencia, asegurándose de la generación de recursos financieros por estos conceptos; y
 
 XV. Promover la colocación de los egresados en los sectores productivos y de servicio.
 
-### CAPÍTULO VI. DEL DIRECTOR DE ADMINISTRACIÓN Y FINANZAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO VI. DEL DIRECTOR/A DE ADMINISTRACIÓN Y FINANZAS
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 21.
 
-Al Director de Administración y Finanzas le corresponde la planeación, organización y control del desempeño de las actividades relacionadas con el manejo de los recursos humanos, materiales, financieros y técnicos, así como la prestación de los servicios generales necesarios en la Universidad para contribuir al mejor desarrollo profesional de los alumnos, conforme a las normas y disposiciones legales en vigor.
+Al Director/a de Administración y Finanzas le corresponde la planeación, organización y control del desempeño de las actividades relacionadas con el manejo de los recursos humanos, materiales, financieros y técnicos, así como la prestación de los servicios generales necesarios en la Universidad para contribuir al mejor desarrollo profesional del alumnado, conforme a las normas y disposiciones legales en vigor.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 22.
 
-Al Director de Administración y Finanzas compete el despacho de los asuntos siguientes:
+Al Director/a de Administración y Finanzas compete el despacho de los asuntos siguientes:
 
 I. Atender los asuntos administrativos, presupuestales y financieros de la Universidad;
 
@@ -353,7 +439,9 @@ II. Controlar y resguardar el patrimonio de la Universidad;
 
 III. Supervisar que se lleven a cabo las acciones de reclutamiento, selección; contratación, registro, control, capacitación y pago oportuno de la nómina;
 
-IV. Formar parte del comité interno de compras con la finalidad de vigilar el cumplimiento de las disposiciones emanadas de las autoridades correspondientes;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
+
+IV. Formar parte del Comité de Adquisiciones de la Universidad con la finalidad de vigilar el cumplimiento de las disposiciones emanadas de las autoridades correspondientes;
 
 V. Dictaminar los recursos para las obras de reparación y mantenimiento de los bienes muebles e inmuebles;
 
@@ -367,17 +455,25 @@ IX. Atender y gestionar las solicitudes de acceso a la información, así como t
 
 X. Atender los demás asuntos administrativos de acuerdo con las instrucciones del Rector y los que señale la normatividad de la Universidad.
 
-### CAPÍTULO VII. DEL DIRECTOR DE GESTIÓN UNIVERSITARIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO VII. DEL DIRECTOR/A DE GESTIÓN UNIVERSITARIA
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 23.
 
-El Director de Gestión Universitaria es el encargado de planear, organizar, dirigir y controlar todas las actividades y recursos de la Dirección, para promover y garantizar que los servicios que se prestan a la Comunidad Universitaria sean de calidad y que contribuyan al desarrollo profesional de los alumnos.
+El/la director/a de Gestión Universitaria es el encargado de planear, organizar, dirigir y controlar todas las actividades y recursos de la Dirección, para promover y garantizar que los servicios que se prestan a la Comunidad Universitaria sean de calidad y contribuyan al desarrollo profesional del alumnado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 24.
 
-Al Director de Gestión Universitaria, corresponde el despacho de los siguientes asuntos:
+Al Director/a de Gestión Universitaria, corresponde el despacho de los siguientes asuntos:
 
-I. Promover y garantizar los Servicios Psicopedagógicos a los alumnos;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
+
+I. Dirigir, promover y garantizar los Servicios psicopedagógicos al alumnado;
 
 II. Garantizar el registro escolar;
 
@@ -387,43 +483,75 @@ IV. Garantizar que los servicios Médicos se lleven a cabo con higiene y segurid
 
 V. Promover y garantizar que los Servicios Bibliotecarios sean correctos y suficientes;
 
-VI. Garantizar que los eventos internos de la Universidad, en el área de su competencia, se cumplan en tiempo y forma;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
 
-VII. Garantizar y Promover la Cultura, el Deporte y las actividades cívicas a la Comunidad Universitaria;
+VI. Dirigir para garantizar que los eventos internos de la Universidad, en el área de su competencia, se cumplan en tiempo y forma;
 
-VIII. Garantizar que los servicios de copiado y cafetería sean suficientes y adecuados a la Comunidad Universitaria; y
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
+
+VII. Dirigir y promover los programas de internacionalización, así como las actividades culturales, deportivas y cívicas en la Comunidad Universitaria;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
+
+VIII. Gestionar para garantizar que los servicios de copiado, impresión, transporte, cafetería y otros sean suficientes y adecuados a la Comunidad Universitaria; y
 
 IX. Llevar a cabo los proyectos especiales solicitados por Rectoría.
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 25.
 
-El Director de Gestión Universitaria contará con el apoyo de un Subdirector de Servicios Escolares quien será el responsable de organizar y controlar el registro escolar en las modalidades educativas que ofrece la Universidad, a fin de cuantificar el desempeño de los alumnos apegado a los lineamientos establecidos; fungiendo como depositario de la situación académica oficial de cada alumno. Además es el responsable de controlar la información estadística de la Universidad, así como de la creación, depuración y mantenimiento del campus virtual.
+El/la Director/a de Gestión Universitaria contará con el apoyo de un Subdirector/a de Servicios Escolares quien será el responsable de organizar y controlar el registro escolar en las modalidades educativas que ofrece la Universidad, a fin de cuantificar el desempeño de los alumnos/as apegado a los lineamientos establecidos por la Universidad; siendo depositario de la situación académica oficial del alumnado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 26.
 
-El (sic) Subdirector de Servicios Escolares le compete el despacho de los siguientes asuntos.
+El (sic) Subdirector/a de Servicios Escolares le compete el despacho de los siguientes asuntos:
 
-I. Asegurar y controlar los procesos de preinscripciones, inscripciones y reinscripciones;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
 
-II. Asegurar y controlar los procesos de asistencia y calificaciones de los alumnos;
+I. Coordinar el proceso de preinscripciones, inscripciones y reinscripciones;
 
-III. Asegurar el correcto funcionamiento del proceso de cumplimiento de requisitos de permanencia y efectos de incumplimiento;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
 
-IV. Asegurar y controlar los procesos de titulación y control de archivo oficial;
+II. Vigilar el cumplimiento de los procesos de asistencia y calificaciones del alumnado;
 
-V. Asegurar el correcto funcionamiento del proceso para dar de alta o baja carreras y/o planes de estudio;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
 
-VI. Asegurar y controlar los procesos de credencialización, orlas y la emisión de constancias de estudios;
+III. Coordinar el proceso de titulación y control de archivo oficial;
 
-VII. Coordinar el proceso de tránsito, revalidaciones y equivalencias de alumnos;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
 
-VIII. Vigilar y asegurar el cumplimiento de los reglamentos durante la permanencia de los alumnos, relacionados con los procesos del área;
+IV. Vigilar y asegurar el correcto funcionamiento del proceso para dar de alta o baja carreras y/o planes de estudio;
 
-IX. Realizar la entrega correcta y oportuna de la información requerida para: campus virtual, becas, tutorías, evento con preparatorias, seguimiento a egresados y revisión de la administración entre otras;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
 
-X. Asegurar y realizar la estadística que sea requerida por la Universidad;
+V. Supervisar el proceso de credencialización, orlas y la emisión de constancias de estudios;
 
-XI. Crear, depurar y mantener el campus virtual de la Universidad; y
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
+
+VI. Coordinar el proceso de tránsito, revalidaciones y equivalencias del alumnado;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
+
+VII. Vigilar y asegurar el cumplimiento de los reglamentos durante la permanencia del alumnado, relacionados con los procesos del área;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
+
+VIII. Coordinar la logística y aplicación de los exámenes de ingreso y las evaluaciones de egreso de acuerdo a la normativa vigente.
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
+
+IX. Compilar, analizar y realizar la entrega correcta y oportuna de la Estadística requerida por la Autoridad Educativa y la propia Universidad;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
+
+X. Realizar análisis y generar informes oportunos, con base en la estadística, que sea requerida por la Universidad;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
+
+XI. Mantener y actualizar el sistema de información de Servicios Escolares.
 
 XII. Llevar a cabo los proyectos asignados por el Director.
 
@@ -433,9 +561,11 @@ XII. Llevar a cabo los proyectos asignados por el Director.
 
 El Titular de la Unidad Jurídica tiene dentro de su competencia observar todos los asuntos de naturaleza jurídica que requieran de formalidad y representación legal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 28.
 
-Al Titular de a (sic) Unidad Jurídica corresponde el despacho de los siguientes asuntos:
+Al Titular de la Unidad Jurídica corresponde el despacho de los siguientes asuntos:
 
 I. Proponer, aplicar y evaluar las políticas de la Universidad Tecnológica en materia jurídica-normativa;
 
@@ -443,7 +573,9 @@ II. Formular y revisar los anteproyectos de reglamentos, decretos, acuerdos y ó
 
 III. Asesorar al titular de la Universidad Tecnológica en aquellos asuntos de carácter jurídico que éste le encomiende;
 
-IV. Ejercitar las acciones judiciales, laborales y contencioso administrativas, representando a la Universidad Tecnológica y a los servidores públicos en el ejercicio de sus funciones, elaborando demandas, contestaciones, presentar querellas ofrecer pruebas, formular alegatos, interponer toda clase de recursos, incluyendo el juicio de amparo;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
+
+IV. Ejercitar las acciones judiciales, laborales y contencioso administrativas, representando a la Universidad y a las/los servidoras/es públicas/os en el ejercicio de sus funciones, elaborando demandas, contestaciones, presentar querellas, ofrecer pruebas, formular alegatos, interponer toda clase de recursos, incluyendo el juicio de amparo;
 
 V. Denunciar ante el Ministerio Público de los hechos que lo ameriten, otorgar perdones, presentar desistimiento y acordar conciliaciones;
 
@@ -455,17 +587,25 @@ VIII. Representar a la Universidad con el carácter de Apoderado Legal, facultad
 
 IX. Asegurar que las adquisiciones legales se lleven a cabo bajo la formalidad y en apego a la reglamentación legal en la materia.
 
-### CAPÍTULO IX. DEL SUBDIRECTOR DE GESTIÓN DE CALIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO IX. DEL SUBDIRECTOR/A DE GESTIÓN DE CALIDAD
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 29.
 
-El Subdirector de Gestión de Calidad es el responsable de asegurar el establecimiento y mantenimiento de los procesos del Sistema de Gestión de la calidad de la Universidad, para que sus procesos de enseñanza-aprendizaje se enfoquen en el mejor desarrollo profesional de los alumnos de acuerdo a lo establecido.
+El/la Subdirector/a de Gestión de Calidad es el responsable de asegurar el establecimiento y mantenimiento de los procesos del Sistema de Gestión de Calidad de la Universidad, enfocados en la mejora continua y la satisfacción del cliente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 30.
 
-Al Subdirector de Gestión de Calidad, le corresponde el despacho de los siguientes asuntos:
+Al Subdirector/a de Gestión de Calidad, le corresponde el despacho de los siguientes asuntos:
 
-I. Asegurar mantener vigente el Certificado en ISO 9001:2000;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
+
+I. Mantener vigentes los certificados reconocidos de gestión de calidad en la Universidad;
 
 II. Asegurar que se mantenga el enfoque a procesos y de sistemas;
 
@@ -477,11 +617,15 @@ V. Recopilar la información de los procesos (áreas o departamentos), sobre el 
 
 VI. Coordinar las auditorías internas con el personal de la Universidad (grupo de auditores internos);
 
-VII. Coordinar las Auditorias de seguimiento por parte de la Casa Certificadora;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
+
+VII. Planear y coordinar las Auditorías de seguimiento por parte de la Casa Certificadora;
 
 VIII. Emitir, revisar y dar seguimiento a las Acciones Correctivas y Preventivas;
 
-IX. Impartir cursos de Mejora Continua a Personal de la Universidad;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
+
+IX. Impartir cursos al personal de la Universidad enfocados al Sistema de Gestión de Calidad y Seguridad;
 
 X. Asegurar que se promueva la toma de conciencia de la contribución al cumplimiento de la Política de Calidad y los Objetivos de Calidad y de los requisitos del cliente en todos los niveles de la Universidad;
 
@@ -489,17 +633,41 @@ XI. Asegurar el cumplimiento de las acciones derivadas de la Revisión de la Adm
 
 XII. Coordinar el control y seguimiento de asistencia de profesores; y
 
-XIII. Coordinar el cumplimiento de los requisitos del PROMEP (Programa de Mejoramiento del profesorado) y/o cuerpos académicos.
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
 
-### CAPÍTULO X. DEL SUBDIRECTOR DE PLANEACIÓN Y EVALUACIÓN
+XIII. Coordinar el cumplimiento de los requisitos de los programas para el desarrollo profesional docente de profesores/as de tiempo completo y/o cuerpos académicos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE AGOSTO DE 2016)</small>
+
+XIV. Coordinar las actividades de la Contraloría Social de los programas para el desarrollo docente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE AGOSTO DE 2016)</small>
+
+XV. Coordinar las actividades de la Comisión de Seguridad; Higiene y Medio Ambiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE AGOSTO DE 2016)</small>
+
+XVI. Resguardar la documentación externa que tenga relación con los programas educativos ofrecidos por la Universidad; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE AGOSTO DE 2016)</small>
+
+XVII. Coordinar la participación de la universidad en los estudios y proyectos derivados de convocatorias o licitaciones de instituciones estatales y federales.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO X. DEL SUBDIRECTOR/A DE PLANEACIÓN Y EVALUACIÓN
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 31.
 
-Al Subdirector de Planeación y Evaluación de la Universidad, le compete elaborar y dar seguimiento a planes y programas en el ámbito institucional, que permitan cumplir con la misión y visión de la organización, así como los proyectos de mediano y largo plazo que contribuyan al desarrollo profesional de los alumnos; así como evaluar el desempeño global y retroalimentar en forma oportuna.
+Al Subdirector/a de Planeación de Planeación (sic) y Evaluación de la Universidad, le compete elaborar y dar seguimiento a planes y programas en el ámbito institucional, que permitan cumplir con la misión y visión de la Universidad Tecnológica, y con los proyectos de mediano y largo plazo que contribuyan al desarrollo profesional del alumnado; así como evaluar el desempeño global y retroalimentar en forma oportuna.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 32.
 
-Al Subdirector de Planeación y Evaluación, le corresponde el despacho de los siguientes asuntos:
+Al Subdirector/a de Planeación y Evaluación, le corresponde el despacho de los siguientes asuntos:
 
 I. Administrar las operaciones de planeación, desarrollo y evaluación de la Universidad;
 
@@ -507,17 +675,25 @@ II. Proponer y ejecutar mecanismos de proyección, crecimiento y desarrollo de l
 
 III. Desarrollar implantar y dar seguimiento a instrumentos de control para el buen funcionamiento de las diferentes áreas de la Universidad;
 
-IV. Elaborar y asegurar el cumplimiento del PIDE (Plan Institucional de Desarrollo);
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
 
-V. Elaborar y en su caso asegurar el cumplimiento del PIFI (Programa Integral de Fortalecimiento Institucional);
+IV. Elaborar y dar seguimiento al cumplimiento del Plan Institucional de Desarrollo;
 
-VI. Elaborar y asegurar el cumplimiento del POA (Programa Operativo Anual);
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
 
-VII. Elaborar análisis de requerimientos de infraestructura académica;
+V. Elaborar y en su caso vigilar el cumplimiento de los Programas en los que se beneficie con recursos a la Universidad y que modifiquen el presupuesto, metas e indicadores del Programa Operativo Anual.
 
-Integrar y reportar el Modelo de Evaluación de la Calidad del Subsistema de Universidades Tecnológicas (MECASUT);
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
 
-VIII. Elaborar y reportar las acciones críticas del PROSEDU (Programa Sectorial de Educación);
+VI. Elaborar y dar seguimiento al cumplimiento del Programa Operativo Anual;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
+
+VII. Elaborar proyección de crecimiento de matrícula y análisis de requerimientos de infraestructura académica;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2016)</small>
+
+VIII. Autorizar las reprogramaciones presupuestales de los Proyectos de Mejoramiento del Programa Operativo Anual, según lineamientos de la Rectoria.
 
 IX. Participar en las comisiones con los cargos que le sean asignados;
 
@@ -537,25 +713,25 @@ XIII. Dar seguimiento a planes y proyectos de trabajo institucionales.
 
 El Consejo de Vinculación y Pertinencia deberá fungir como una instancia de consulta cuyo objeto sea el de conocer y retroalimentar sobre el cumplimiento e impacto de las acciones plasmadas en los programas de formación, vinculación y las líneas innovadoras de investigación aplicada y desarrollo tecnológico, así como la pertinencia de los programas educativos y que contribuyan al desarrollo profesional de los alumnos, que implemente la Universidad Tecnológica.
 
-La Comisión de Pertinencia estará conformada por:
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2016)</small>
 
-a) El Rector;
+Este consejo estará integrado por:
 
-b) El Director de Vinculación;
+a) El/la Rector/a;
 
-c) Los Directores Académicos;
+b) El/la Secretario/a Académico/a;
 
-d) Representantes del Gobierno Estatal;
+c) El/la Director/a de Vinculación;
 
-e) Representantes del Sector Productivo y Empresarial;
+d) Los/las Directores/as Académicos/as;
 
-f) Representante de la Asociación de Egresados; y en su caso;
+e) Representantes del Gobierno Estatal;
+
+f) Representantes del Sector Productivo y Empresarial; y
 
 g) Asociaciones empresariales;
 
-h) Representante de la Comisión Estatal de Vinculación; y
-
-i) Representante de la Fundación Estatal de Educación Superior-Empresa.
+h) Egresados de la universidad por invitación
 
 ###### Artículo 34.
 
@@ -595,13 +771,15 @@ Para todo lo relacionado con los aspectos académicos, ingreso de alumnos, evalu
 
 De acuerdo al Decreto, será personal de la Universidad, todo trabajador que con base en los procedimientos internos que corresponda de reclutamiento y selección de personal, haya reunido los requisitos necesarios para su contratación y se clasificará en: Personal Académico y Personal Administrativo
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 39.
 
-El Personal Académico de la Universidad, desarrollará sus labores de acuerdo con los planes y programas de estudio del Sistema Nacional de Universidades Tecnológicas y participará en los consejos, órganos colegiados, comisiones y funciones que le asigne o encomiende el Rector o sus superiores.
+El personal académico de la Universidad desarrollará sus labores de acuerdo con los planes y programas de estudio de la Coordinación General de Universidades Tecnólogicas y Politécnicas y participará en los Consejos, Órganos Colegiados, Comisiones y funciones que le asigne o encomiende el Rector/a o sus superiores.
 
-Todo el Personal Académico debe de contribuir al mejor desarrollo de las competencias profesionales de los alumnos. Se considera personal administrativo aquellas personas cuyas funciones difieren de las correspondientes a las académicas
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2016)</small>
 
-## TÍTULO CUARTO (SIC). DISPOSICIONES FINALES
+## TÍTULO QUINTO. DISPOSICIONES FINALES
 
 ### CAPÍTULO ÚNICO. DE LA AUSENCIA DE LOS FUNCIONARIOS
 
@@ -617,7 +795,7 @@ TRANSITORIO (SIC)
 
 PRIMERO: El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-SEGUNDO: Se abroga el Reglamento Interior de la Universidad Tecnológica de San Luis Potosí, publicado en el Periódico Oficial del Estado, el 4 de septiembre de 2003; y todas disposiciones (sic) que se opongan al presente instrumento.
+SEGUNDO: Se abroga el Reglamento Interior de la Universidad Tecnológica de San Luis Potosí, publicado en el Periódico Oficial del Estado, el 4 de septiembre de 2003; y todas (sic) disposiciones que se opongan al presente instrumento.
 
 DADO en el Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de San Luis Potosí, S.L.P., a los 14 días del mes de octubre de 2010.
 
@@ -638,3 +816,11 @@ EL SECRETARIO DE EDUCACIÓN
 LIC. JUAN ANTONIO MARTÍNEZ MARTÍNEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA (SIC) REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA”.]
+
+ÚNICO. El presente Reglamento entrara en vigor al siguiente día de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
