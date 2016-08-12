@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-110063"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-10-05"
-last_updated: "2016-04-14"
+last_updated: "2016-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110063&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-09-25"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE AGOSTO DE 2016.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 5 de octubre de 2015.
 
@@ -93,9 +93,13 @@ XI. Pleno: Pleno del Consejo;
 
 XII. Poder Judicial de la Federación: Los órganos señalados en el artículo 94 de la Constitución Política de los Estados Unidos Mexicanos, con excepción de la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación;
 
-XIII. Salario Neto: Retribución que se paga al trabajador por el ejercicio de su empleo, cargo o comisión, en cantidad líquida, por nómina, una vez descontadas todas las deducciones legales; y
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA BASE DE CÁLCULO DE LAS PENSIONES COMPLEMENTARIAS, D.O.F. 12 DE AGOSTO DE 2016)</small>
 
-XIV. Sueldo Pensionable: Salario mensual neto vigente, percibido por el servidor público respectivo, a la fecha de su baja en el cargo correspondiente.
+XIII. Salario Bruto: Retribución que se paga al trabajador por el ejercicio de su empleo, cargo o comisión, en cantidad líquida, por nómina, sin descontar todas las deducciones legales; y
+
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA BASE DE CÁLCULO DE LAS PENSIONES COMPLEMENTARIAS, D.O.F. 12 DE AGOSTO DE 2016)</small>
+
+XIV. Sueldo Pensionable: Salario mensual bruto vigente, percibido por el servidor público respectivo, a la fecha de su baja en el cargo correspondiente.
 
 ### CAPÍTULO SEGUNDO. BENEFICIARIOS DE LA PENSIÓN COMPLEMENTARIA
 
@@ -119,21 +123,29 @@ El régimen de pensiones complementarias a que se refiere este Acuerdo se financ
 
 ### CAPÍTULO TERCERO. CUANTÍA DE LA PENSIÓN POR JUBILACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA BASE DE CÁLCULO DE LAS PENSIONES COMPLEMENTARIAS, D.O.F. 12 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 4.
 
-La pensión total por jubilación que reciban los beneficiarios a que se refiere la fracción I del artículo anterior, ya sea por retiro forzoso o anticipado, podrá alcanzar hasta un 80% del sueldo pensionable, sin que en ningún caso la pensión complementaria sea menor al 25% del salario neto que perciban los magistrados de Circuito y jueces de Distrito en activo, y se integrará de la siguiente manera:
+La pensión total por jubilación que reciban los beneficiarios a que se refiere la fracción I del artículo anterior, ya sea por retiro forzoso o anticipado, podrá alcanzar hasta un 80% del sueldo pensionable, sin que en ningún caso la pensión complementaria sea menor al 25% del salario bruto que perciban los magistrados de Circuito y jueces de Distrito en activo, y se integrará de la siguiente manera:
 
 I. Tratándose de los servidores públicos que se hubieran jubilado conforme al régimen previsto en la Ley del ISSSTE, publicada en el Diario Oficial de la Federación de veintisiete de diciembre de mil novecientos ochenta y tres, o que hayan optado por el sistema previsto en el artículo décimo transitorio de la Ley del ISSSTE, publicada en el Diario Oficial de la Federación de treinta y uno de marzo de dos mil siete, la pensión total por jubilación estará integrada por la que otorgue el ISSSTE conforme a la normatividad aplicable y la asignada por el Consejo como pensión complementaria.
 
-Las pensiones complementarias calculadas conforme a esta fracción deberán ser ajustadas anualmente por la Dirección General de Servicios al Personal, conforme al incremento de la pensión del ISSSTE, para que el monto de la pensión total por jubilación no exceda del porcentaje del sueldo pensionable que le hubiera correspondido al beneficiario de que se trate, sin que en ningún caso la pensión complementaria sea menor al 25% del salario mensual neto que perciban magistrados de Circuito o jueces de Distrito en activo; y
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA BASE DE CÁLCULO DE LAS PENSIONES COMPLEMENTARIAS, D.O.F. 12 DE AGOSTO DE 2016)</small>
+
+Las pensiones complementarias calculadas conforme a esta fracción deberán ser ajustadas anualmente por la Dirección General de Servicios al Personal, conforme al incremento de la pensión del ISSSTE, para que el monto de la pensión total por jubilación no exceda del porcentaje del sueldo pensionable que le hubiera correspondido al beneficiario de que se trate, sin que en ningún caso la pensión complementaria sea menor al 25% del salario mensual bruto que perciban magistrados de Circuito o jueces de Distrito en activo; y
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2016)</small>
 
 II. Tratándose de los servidores públicos que se jubilen conforme al régimen previsto en la Ley del ISSSTE, publicada en el Diario Oficial de la Federación de treinta y uno de marzo de dos mil siete, la pensión total por jubilación estará integrada por una aportación base de diez veces el valor mensual de la Unidad de Medida y Actualización el día de su retiro y la asignada como pensión complementaria.
 
-Las pensiones complementarias calculadas conforme a esta fracción deberán ser ajustadas en el momento en que se conozca el monto máximo alcanzado por concepto de bono de pensión que haya correspondido al servidor público a través del PENSIONISSSTE o de la institución que maneje su cuenta individual y se le pagarán o retendrán, por la Dirección General de Servicios al Personal, las diferencias que resulten según sea el caso, entre la cantidad total asignada conforme a este sistema y el sueldo pensionable, que podrá ser de hasta el 80% sin que en ningún caso la pensión complementaria sea menor al 25% del salario neto que perciban los magistrados de Circuito o jueces de Distrito en activo, según las reglas de este Acuerdo.
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA BASE DE CÁLCULO DE LAS PENSIONES COMPLEMENTARIAS, D.O.F. 12 DE AGOSTO DE 2016)</small>
 
-Estas pensiones deberán asimismo ajustarse anualmente por la Dirección General de Servicios al Personal, conforme a las actualizaciones fijadas por la Comisión Nacional de Salarios Mínimos mediante publicación en el Diario Oficial de la Federación, para que el monto de la pensión total por jubilación no exceda del porcentaje del sueldo pensionable que le hubiera correspondido al beneficiario de que se trate, sin que en ningún caso la pensión complementaria sea menor al 25% del salario mensual neto que perciban magistrados de Circuito o jueces de Distrito en activo.
+Las pensiones complementarias calculadas conforme a esta fracción deberán ser ajustadas en el momento en que se conozca el monto máximo alcanzado por concepto de bono de pensión que haya correspondido al servidor público a través del PENSIONISSSTE o de la institución que maneje su cuenta individual y se le pagarán o retendrán, por la Dirección General de Servicios al Personal, las diferencias que resulten según sea el caso, entre la cantidad total asignada conforme a este sistema y el sueldo pensionable, que podrá ser de hasta el 80% sin que en ningún caso la pensión complementaria sea menor al 25% del salario bruto que perciban los magistrados de Circuito o jueces de Distrito en activo, según las reglas de este Acuerdo.
+
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA BASE DE CÁLCULO DE LAS PENSIONES COMPLEMENTARIAS, D.O.F. 12 DE AGOSTO DE 2016)</small>
+
+Estas pensiones deberán asimismo ajustarse anualmente por la Dirección General de Servicios al Personal, conforme a las actualizaciones fijadas por el Instituto Nacional de Estadística y Geografía mediante publicación en el Diario Oficial de la Federación, para que el monto de la pensión total por jubilación no exceda del porcentaje del sueldo pensionable que le hubiera correspondido al beneficiario de que se trate, sin que en ningún caso la pensión complementaria sea menor al 25% del salario mensual bruto que perciban magistrados de Circuito o jueces de Distrito en activo.
 
 Sobre el importe de la pensión complementaria que otorgue el Consejo, en términos de la fracción I o de la fracción II de este artículo, según proceda, se aplicará la retención del impuesto sobre la renta, observando lo previsto en la Ley del Impuesto Sobre la Renta, sin que para el cálculo de la aludida retención se considere el importe de la pensión otorgada por el ISSSTE, ya que dicho Instituto respecto de la pensión que otorgue, de proceder conforme a la mencionada ley, hará lo propio.
 
@@ -167,9 +179,11 @@ I. Para tener derecho al total de la pensión complementaria por jubilación for
 
 II. Para tener derecho a solicitar la pensión complementaria por jubilación anticipada, los magistrados de Circuito y jueces de Distrito deberán haber cumplido, cuando menos, 65 años de edad y 25 años de servicio en el Poder Judicial de la Federación; en cuyo caso, la pensión complementaria sufrirá un descuento proporcional por cada año que falte para que se cumplan los 75 años de edad, en los términos de la fracción II del artículo 13 de este Acuerdo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA BASE DE CÁLCULO DE LAS PENSIONES COMPLEMENTARIAS, D.O.F. 12 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 10.
 
-Los magistrados de Circuito y jueces de Distrito a los que el ISSSTE, diagnostique una incapacidad física o mental permanente, de conformidad con la Ley del ISSSTE, tendrán derecho a una pensión total del 80% del sueldo pensionable, sin que en ningún caso la pensión complementaria sea menor al 25% del salario mensual neto que perciban magistrados de Circuito o jueces de Distrito en activo.
+Los magistrados de Circuito y jueces de Distrito a los que el ISSSTE, diagnostique una incapacidad física o mental permanente, de conformidad con la Ley del ISSSTE, tendrán derecho a una pensión total del 80% del sueldo pensionable, sin que en ningún caso la pensión complementaria sea menor al 25% del salario mensual bruto que perciban magistrados de Circuito o jueces de Distrito en activo.
 
 Los beneficiarios de los servidores públicos que reciban esta pensión se regirán por lo previsto en los artículos 3 y 14 de este Acuerdo.
 
@@ -187,7 +201,9 @@ No procederá el otorgamiento de la pensión complementaria cuando no se reúnan
 
 Los montos de las pensiones complementarias a que se refiere este Acuerdo se sujetarán a lo siguiente:
 
-I. La pensión complementaria por jubilación forzosa deberá ser tal que, sumada a la pensión del ISSSTE, dé por resultado una cantidad equivalente al 80% del ingreso mensual neto que corresponda al último cargo desempeñado por el trabajador en el Poder Judicial de la Federación y por el que disfrute de la pensión del ISSSTE. En ningún caso, el monto de la pensión total por jubilación podrá exceder de tal porcentaje, ni la pensión complementaria podrá ser menor al 25% del salario neto que perciban magistrados de Circuito o jueces de Distrito en activo; y
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA BASE DE CÁLCULO DE LAS PENSIONES COMPLEMENTARIAS, D.O.F. 12 DE AGOSTO DE 2016)</small>
+
+I. La pensión complementaria por jubilación forzosa deberá ser tal que, sumada a la pensión del ISSSTE, dé por resultado una cantidad equivalente al 80% del ingreso mensual bruto que corresponda al último cargo desempeñado por el trabajador en el Poder Judicial de la Federación y por el que disfrute de la pensión del ISSSTE. En ningún caso, el monto de la pensión total por jubilación podrá exceder de tal porcentaje, ni la pensión complementaria podrá ser menor al 25% del salario bruto que perciban magistrados de Circuito o jueces de Distrito en activo; y
 
 II. La pensión complementaria por jubilación anticipada se determina mediante una proporción ascendente que de manera equitativa considera los años de servicio y la edad en una línea oblicua.
 
@@ -347,15 +363,19 @@ La información anterior se representa gráficamente en la siguiente tabla:
 
 > <small>N. DE E. VÉASE TABLA EN LA TERCERA SECCIÓN DEL D.O.F. DE 5 DE OCTUBRE DE 2015, PÁGINA 62.</small>
 
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA BASE DE CÁLCULO DE LAS PENSIONES COMPLEMENTARIAS, D.O.F. 12 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 14.
 
-La pensión total por jubilación para los beneficiarios a que se refiere el artículo 3, fracciones II y III de este Acuerdo, deberá representar el 50% de la que correspondiera a los servidores públicos jubilados beneficiados por el Plan y, en ningún caso, la pensión complementaria podrá ser menor al 25% del salario mensual neto que perciban magistrados de Circuito o jueces de Distrito en activo.
+La pensión total por jubilación para los beneficiarios a que se refiere el artículo 3, fracciones II y III de este Acuerdo, deberá representar el 50% de la que correspondiera a los servidores públicos jubilados beneficiados por el Plan y, en ningún caso, la pensión complementaria podrá ser menor al 25% del salario mensual bruto que perciban magistrados de Circuito o jueces de Distrito en activo.
 
 ###### Artículo 15.
 
 No obstante lo previsto en los artículos 4 y 5 de este Acuerdo, el Pleno podrá incrementar las pensiones complementarias otorgadas, siempre y cuando los recursos del Plan lo permitan y tal incremento no ponga en riesgo la solidez financiera del mismo, previo estudio actuarial y señalando los criterios que se hayan tomado en cuenta para determinar el incremento.
 
-En ejercicio de dichas atribuciones, el Pleno podrá revisar el monto de las pensiones por jubilación, a fin de que la pensión total se mantenga dentro del 80% del sueldo pensionable, y que la pensión complementaria no resulte menor al 25% del sueldo mensual neto que perciban magistrados de Circuito o jueces de Distrito en activo.
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA BASE DE CÁLCULO DE LAS PENSIONES COMPLEMENTARIAS, D.O.F. 12 DE AGOSTO DE 2016)</small>
+
+En ejercicio de dichas atribuciones, el Pleno podrá revisar el monto de las pensiones por jubilación, a fin de que la pensión total se mantenga dentro del 80% del sueldo pensionable, y que la pensión complementaria no resulte menor al 25% del sueldo mensual bruto que perciban magistrados de Circuito o jueces de Distrito en activo.
 
 ### CAPÍTULO SEXTO. PROCEDIMIENTO DE SOLICITUD DE LA PENSIÓN COMPLEMENTARIA
 
@@ -666,3 +686,11 @@ TERCERO. Todas las menciones al salario mínimo como unidad de cuenta, índice, 
 Tratándose de las que se hagan en contratos y convenios vigentes al 28 de enero de 2016, se atenderá a lo dispuesto en artículo séptimo transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016.
 
 CUARTO. El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+D.O.F. 12 DE AGOSTO DE 2016.
+
+[N. DE E TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA BASE DE CÁLCULO DE LAS PENSIONES COMPLEMENTARIAS”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
