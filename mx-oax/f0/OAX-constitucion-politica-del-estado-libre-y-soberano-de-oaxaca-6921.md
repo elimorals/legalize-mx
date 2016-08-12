@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2015-12-31"
+last_updated: "2016-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2016.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -63,7 +63,7 @@ Las facultades que la Constitución Política de los Estados Unidos Mexicanos no
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
-El Poder Público y sus Representantes sólo pueden hacer lo que la Ley les autoriza y deben hacer lo que la Ley les ordena. Los particulares pueden hacer lo que la Ley no les prohibe y deben hacer, lo que la Ley les ordena.
+El Poder Público y sus Representantes sólo pueden hacer lo que la Ley les autoriza y deben hacer, lo que la Ley les ordena. Los particulares pueden hacer lo que la Ley no les prohibe y deben hacer, lo que la Ley les ordena.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -1207,9 +1207,9 @@ El Poder Público del Estado se divide, para el ejercicio de sus funciones en Le
 
 El Poder Legislativo se ejerce por el Congreso del Estado, y estará integrado por diputados que serán electos cada tres años por los ciudadanos oaxaqueños, mediante sufragio universal, libre, secreto y directo; por cada diputado propietario se elegirá un suplente.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
 
-El Poder legislativo administrará con autonomía su presupuesto, sin que pueda ser menor en términos reales, al ejercido en el año anterior.
+El Poder Legislativo administrará con autonomía su presupuesto.
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -1547,7 +1547,7 @@ Por tanto, mando que se imprima, publique, circule y se le dé el debido cumplim
 
 #### SECCION CUARTA. De las Facultades del Congreso del Estado
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2011)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2011) (REPUBLICADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### ARTICULO 59.
 
@@ -1605,9 +1605,11 @@ XI. Aprobar los convenios que celebren los municipios al resolver conciliatoriam
 
 XII. Resolver en la vía conciliatoria, los conflictos que surjan entre los Municipios entre sí y entre estos y los Poderes Ejecutivo y Judicial del Estado;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XIII. Designar, a propuesta del Gobernador, a los integrantes de los Consejos Municipales; Por otra parte, el Congreso hará la designación de un encargado de la Administración Municipal, cuando por cualquier circunstancia especial no se verificare la elección de algún ayuntamiento o se hubiere declarado nula o no valida, lo anterior de conformidad en lo establecido en la Ley de la materia.
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XIII.- Designar, a propuesta del Gobernador, a los integrantes de los Consejos Municipales;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -2189,6 +2191,8 @@ El ciudadano electo para suplir las faltas absolutas de Gobernador Constituciona
 
 #### SECCION SEGUNDA. De las Facultades, Obligaciones y Restricciones del Gobernador
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2016)
+
 ###### ARTICULO 79.
 
 Son facultades del Gobernador:
@@ -2243,9 +2247,11 @@ XIII. Recibir las renuncias de los Magistrados del Tribunal Superior de Justicia
 
 XIV. Pedir la destitución de los funcionarios judiciales en los casos que proceda conforme a esta Constitución y a las Leyes de la materia;
 
-> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XV. Proponer al Congreso del Estado o a la Diputación Permanente en su caso, la integración de los Concejos Municipales, en los términos que señala esta Constitución;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XV.- Proponer al Congreso del Estado o a la Diputación Permanente en su caso, la integración de los Consejos Municipales, en los términos que señala esta Constitución; Por otra parte, hacer la designación de un encargado de la Administración Municipal, cuando por cualquier circunstancia especial no se verificare la elección de algún ayuntamiento o se hubiere declarado nula o no válida, o bien se hubiese declarado la suspensión o desaparición del mismo, lo anterior de conformidad con lo establecido en la Ley de la materia;
 
 > <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -4781,10 +4787,12 @@ PRIMERO. El presente Decreto entrará en vigor el día de su publicación.
 
 SEGUNDO. El artículo 59 fracción XXV del presente Decreto entrará en vigor el uno de enero de dos mil dieciséis, previa publicación en el Órgano de difusión oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO DÉCIMO NOVENO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN, PUBLICADO EL 14 DE JULIO DE 2014".]
+P.O. 12 DE AGOSTO DE 2016.
 
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2007.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
-Segundo. Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca, con la salvedad indicada en el siguiente transitorio.
 
-Tercero. A partir del inicio de las precampañas y hasta el día de la jornada electoral, el Gobierno Federal y los gobiernos de las entidades federativas y municipios, suspenderán la distribución o sustitución de equipos receptores o decodificadores, así como los programas de entrega de televisiones digitales que realice en aquellas entidades federativas en las que se verifiquen procesos electorales durante el 2016. El Instituto Nacional Electoral verificará el cumplimiento de esta disposición y aplicará, en su caso, las sanciones correspondientes. La entrega, distribución o sustitución de equipos receptores, decodificadores, o televisores digitales en contravención a lo dispuesto en este artículo será sancionada en términos de la Ley General de Instituciones y Procedimientos Electorales.
+SEGUNDO.- Por lo que respecta a la reforma a la fracción XIII del artículo 59 y la reforma a la fracción XV del artículo 79, entrarán en vigor a partir del día primero de diciembre del año dos mil dieciséis
+
+TERCERO.- Se deroga toda disposición que se oponga a la presente reforma.
