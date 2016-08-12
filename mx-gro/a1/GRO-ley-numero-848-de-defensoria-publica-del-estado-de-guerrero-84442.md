@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-848-de-defensoria-publica-del-estado-de-guerrero-844
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-06"
-last_updated: "2016-07-19"
+last_updated: "2016-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY NUMERO 848 DE DEFENSORIA PUBLICA DEL ESTADO DE GUERRERO -- ANTES -- LEY NUMERO 848 DE DEFENSA PUBLICA DEL ESTADO DE GUERRERO
 
-LEY NÚMERO 848 DE DEFENSA PÚBLICA DEL ESTADO DE GUERRERO
+LEY NÚMERO 848 DE DEFENSORÍA PÚBLICA DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 6 de diciembre de 2011.
 
@@ -37,7 +37,9 @@ C O N S I D E R A N D O.
 
 Por lo anteriormente expuesto, y con fundamento en lo dispuesto por los artículos 47 fracciones I y XIX de la Constitución Política Local, y en el artículo 8° fracción I de la Ley Orgánica del Poder Legislativo del Estado de Guerrero número 286, el Honorable Congreso del Estado, decreta y expide la siguiente:
 
-LEY NÚMERO 848 DE DEFENSA PÚBLICA DEL ESTADO DE GUERRERO.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE AGOSTO DE 2016)</small>
+
+Ley Número 848 de Defensoría Pública del Estado de Guerrero
 
 ### Capítulo I. Disposiciones Generales
 
@@ -45,87 +47,123 @@ LEY NÚMERO 848 DE DEFENSA PÚBLICA DEL ESTADO DE GUERRERO.
 
 Objeto
 
-La presente Ley es de orden público e interés social y tiene por objeto regular el servicio de defensa pública del fuero común en el Estado de Guerrero, así como crear la institución encargada de brindarlo.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+La presente Ley es de orden público e interés social y tiene por objeto regular el servicio de defensoría pública del fuero común en el Estado de Guerrero.
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 2.
 
 Definiciones
 
-Para efectos de esta ley, se entenderá por:
+Para los efectos de esta Ley, se entenderá por:
 
-I. Instituto. Instituto de Defensa Pública del Estado de Guerrero;
+I. Asesor: El Asesor Jurídico, profesional del derecho, que presta el servicio público de asesoría y asistencia legal al usuario en una variedad de materias jurídicas;
 
-II. Ley. Ley de Defensa Pública del Estado de Guerrero;
+II. Asesoría: El servicio público que presta el asesor jurídico al usuario del servicio;
 
-III. Defensor público. El servidor público, que preste el servicio de defensa pública en los términos de esta ley;
+III. Constitución Estatal: La Constitución Política del Estado Libre y Soberano de Guerrero;
 
-IV. Director General. El Director General del Instituto de Defensa Pública del Estado de Guerrero;
+IV. Constitución Federal: La Constitución Política de los Estados Unidos Mexicanos;
 
-V. Reglamento. El reglamento del Instituto de Defensa Pública del Estado de Guerrero;
+V. Consejo: El Consejo de la Judicatura del Poder Judicial del Estado;
 
-VI. Usuario. La persona destinataria del servicio público que presta el Instituto;
+VI. Defensor General: El Defensor General del Instituto de la Defensoría Pública del Estado de Guerrero;
 
-VII. Personas de escasos recursos económicos o grupo vulnerable. La persona afectada por algún grado de vulnerabilidad como pobreza, edad, estado de salud, discapacidad, origen étnico o cualquier otra circunstancia excluyente que lo coloque en grave situación de desventaja para la defensa o el debido ejercicio de sus derechos;
+VII. Defensor Público: El servidor público que presta el servicio de defensoría pública en los términos de esta Ley;
 
-VIII. Constitución Federal. La Constitución Política de los Estados Unidos Mexicanos.
+VIII. Defensoría Pública: Los servicios de defensoría pública, orientación, asesoría y representación jurídica prestados por el Instituto de Defensoría Pública del Estado de Guerrero;
+
+IX. Instituto: El Instituto de la Defensoría Pública del Estado de Guerrero;
+
+X. Ley: La Ley número 848 de Defensoría Pública del Estado de Guerrero;
+
+XI. Ley Orgánica: La Ley Orgánica del Poder Judicial del Estado;
+
+XII. Personas de escasos recursos económicos o grupo vulnerable: La persona afectada por algún grado de vulnerabilidad como pobreza, edad, estado de salud, discapacidad, origen étnico o cualquier otra circunstancia excluyente que lo coloque en grave situación de desventaja para la defensa o el debido ejercicio de sus derechos;
+
+XIII. Reglamento: El Reglamento Interior del Instituto de la Defensoría Pública del Estado de Guerrero; y
+
+XIV. Usuario: La persona destinataria del servicio público que presta el Instituto;
 
 ###### Artículo 3.
 
 Normas supletorias
 
-En lo no previsto en la ley, se aplicarán de manera supletoria la Ley Orgánica de la Administración Pública del Estado de Guerrero, la Ley de Entidades Paraestatales del Estado de Guerrero y el Código Civil, en lo que se refiere a la organización del Instituto, así como los Códigos Penal, Procesal Penal y Procesal Civil, en lo que se refiere a la prestación del servicio.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
 
-### Capítulo II. Servicio de Defensa Pública
+En lo no previsto en la ley, se aplicarán de manera supletoria la Constitución Estatal, Ley Orgánica, Código Civil, Código Procesal Civil, Código Penal, todos del Estado de Guerrero, y el Código Nacional de Procedimientos Penales.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE AGOSTO DE 2016)</small>
+
+### Capítulo II. Servicio de defensoría pública
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 4.
 
 Principios del servicio
 
-El servicio de defensa pública se brindará de manera obligatoria, gratuita e ininterrumpida, en los términos de la presente ley. Para la prestación del servicio deberán observarse los siguientes principios:
+El servicio de defensoría pública se brindará de manera integral, ininterrumpida, oportuna y especializada, en los términos de la presente Ley. Para la prestación de los servicios deberán observarse los siguientes principios:
 
-I. Honestidad;
+I. Gratuidad;
 
-II. Profesionalismo;
+II. Probidad;
 
-III. Oportunidad;
+III. Independencia técnica;
 
-IV. Eficiencia;
-
-V. Prontitud;
+IV. Calidad;
 
 V. Confidencialidad;
 
-VII. Independencia, y
+VI. Profesionalismo;
 
-VIII. Equilibrio procesal.
+VII. Obligatoriedad;
 
-El servicio de defensa pública deberá ser adecuado, técnico e integral, y sensible a la resolución de conflictos mediante mecanismos alternos. El Defensor Público deberá mantener informados a los usuarios del mismo sobre el desarrollo e impacto de los procedimientos, buscando la comprensión de las condiciones y la confianza del usuario.
+VIII. Honestidad;
+
+IX. Oportunidad;
+
+X. Eficiencia;
+
+XI. Prontitud; y
+
+XII. Equilibrio procesal
+
+El servicio de defensoría pública deberá ser adecuado, técnico e integral, y sensible a la resolución de conflictos mediante mecanismos alternos. El defensor público o asesor deberá mantener informados a los usuarios del mismo sobre el desarrollo e impacto de los procedimientos, buscando la comprensión de las condiciones y la confianza del usuario.
 
 > <small>(ADICIONADO, P.O. 19 DE JULIO DE 2016)</small>
 
 En los distritos judiciales donde exista más del 40 por ciento de la población indígena se deberá garantizar la defensa pública en lenguas indígenas con perspectiva de género.
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 5.
 
-Materias del servicio
+Servicios
 
-En materia penal, el Estado, por conducto del Instituto, prestará los servicios de defensa legal en los términos de los artículos 18 y 20 de la Constitución Federal.
+El Instituto prestará los servicios de defensoría pública, orientación, asesoría y representación jurídica en los asuntos del orden penal, familiar, justicia penal para adolescentes, civil, mercantil, laboral, justicia administrativa y de amparo, en los términos de los artículos 18 y 20 de la Constitución Federal, y 164 y 169 de la Constitución Estatal.
 
-El servicio de defensoría pública penal podrá ser otorgado por particulares bajo la coordinación y supervisión del Instituto y en los términos de su Reglamento.
+El servicio de defensoría pública penal se brindará en los sistemas mixto y acusatorio; asimismo podrá ser otorgado por particulares bajo la coordinación y supervisión del Instituto en los términos del Reglamento.
 
-En materia civil, familiar y mercantil podrán solicitar los servicios regulados en esta ley aquellas personas que acrediten condiciones de vulnerabilidad, escasez de recursos o desprotección.
+En materia civil, familiar, mercantil, justicia penal para adolescentes, laboral, justicia administrativa y de amparo podrán solicitar los servicios regulados en esta ley aquellas personas que acrediten condiciones de vulnerabilidad, escasez de recursos o desprotección.
 
 ###### Artículo 6.
 
 Impedimento y excusa
 
-El servicio de defensa pública deberá brindarse libre de intereses personales. Aquellos que estén impedidos para ello, deberán excusarse de la prestación del servicio.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+El servicio de defensoría pública deberá brindarse libre de intereses personales. Aquellos que estén impedidos para ello, deberán excusarse de la prestación del servicio.
 
 ###### Artículo 7.
 
 Derecho de defensa pública
 
-La defensa pública deberá otorgarse acorde a los derechos humanos previstos en la Constitución Federal y a los derechos consagrados en los tratados internacionales que hayan sido ratificados en los términos de ésta.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+El servicio de defensoría pública deberá otorgarse acorde a los derechos humanos previstos en la Constitución Federal y a los derechos consagrados en los tratados internacionales que hayan sido ratificados en los términos de ésta.
 
 ###### Artículo 8.
 
@@ -137,7 +175,9 @@ El Instituto observará de manera obligatoria lo dispuesto sobre la materia en l
 
 Gastos procesales
 
-En los casos de defensa pública en materias distintas a la penal, los usuarios podrán proveer los gastos que se originen con motivo del procedimiento, respetando los principios establecidos en el primer párrafo del artículo 4 de esta ley.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+En los casos de defensoría pública en materias distintas a la penal, los usuarios podrán proveer los gastos que se originen con motivo del procedimiento, respetando los principios establecidos en el primer párrafo del artículo 4 de esta ley.
 
 El Instituto deberá contar con una partida presupuestal para cubrir los gastos procesales a que se refiere el presente artículo.
 
@@ -147,7 +187,9 @@ El Instituto deberá contar con una partida presupuestal para cubrir los gastos 
 
 Naturaleza
 
-Se crea el Organismo Público Descentralizado denominado Instituto de Defensa Pública del Estado de Guerrero, con personalidad jurídica y patrimonio propios, así como con autonomía presupuestal, técnica y de gestión necesarias para el ejercicio de sus funciones.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+El Instituto es un órgano con autonomía técnica, adscrito al Poder Judicial del Estado y dependiente del Consejo de la Judicatura, y tendrá como titular a una persona denominada Defensor General nombrado por el Pleno del Consejo de la Judicatura.
 
 ###### Artículo 11.
 
@@ -159,7 +201,9 @@ El Instituto tendrá su sede en la Capital de Chilpancingo de los Bravo, Guerrer
 
 Objeto
 
-El Instituto tendrá por objeto brindar el servicio de orientación, asesoría, patrocinio y defensa pública en el Estado de Guerrero en los términos de la Constitución Federal, la presente ley y la normatividad aplicable.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+El Instituto tendrá por objeto brindar el servicio de defensoría pública ante los órganos jurisdiccionales del estado en los términos de la Constitución Federal, la Constitución Estatal, la Ley Orgánica, la presente Ley y la normatividad aplicable.
 
 ###### Artículo 13.
 
@@ -189,59 +233,83 @@ IX. Solución de conflictos: El Instituto promoverá la asesoría e intervenció
 
 Atribuciones
 
-Para el cumplimiento de su objeto, el Instituto tendrá las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2016)</small>
 
-I. Brindar el servicio de defensa pública en el estado de Guerrero, en las materias y bajo los supuestos plasmados en esta ley y las demás que resulten aplicables;
+Para el cumplimiento de su objeto, el Instituto tendrá las atribuciones que le señalen la Constitución Estatal y Ley Orgánica, así como las siguientes:
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+I. Brindar el servicio de defensoría pública en el Estado de Guerrero, en las materias y bajo los supuestos plasmados en esta ley y las demás que resulten aplicables;
 
 II. Apoyar la prestación de sus servicios en la técnica idónea para la defensa de los intereses del usuario;
 
-III. Promover y llevar a cabo programas, proyectos y actividades de investigación e innovación que se relacionen con los servicios de defensa pública;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+III. Promover y llevar a cabo programas, proyectos y actividades de investigación e innovación que se relacionen con los servicios de defensoría pública;
 
 IV. Evaluar permanentemente la calidad y pertinencia de sus programas y en su caso, hacer las adecuaciones correspondientes;
 
 V. Fomentar convenios con instituciones públicas y privadas, locales, nacionales o internacionales, incluyendo las dedicadas a la protección de los derechos humanos para el cumplimiento de su objeto;
 
-VI. Desarrollar servicios de sistematización y diseminación de información especializada que contribuyan al fortalecimiento de las actividades en materia de defensa pública;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
 
-VII. Impulsar iniciativas y desarrollar proyectos para la aplicación de las tecnologías de la información y la comunicación en el servicio de defensa pública;
+VI. Desarrollar servicios de sistematización y diseminación de información especializada que contribuyan al fortalecimiento de las actividades en materia de defensoría pública;
 
-VIII. Coadyuvar en el desarrollo de estándares y en la transformación y perfeccionamiento de las prácticas de la defensa pública;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+VII. Impulsar iniciativas y desarrollar proyectos para la aplicación de las tecnologías de la información y la comunicación en el servicio de defensoría pública;
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+VIII. Coadyuvar en el desarrollo de estándares y en la transformación y perfeccionamiento de las prácticas de la defensoría pública;
 
 IX. Promover y organizar modalidades de difusión y vinculación entre la sociedad y el Instituto, de acuerdo con los objetivos de sus programas;
 
-X. Administrar su patrimonio y sus recursos económicos de conformidad con los ordenamientos legales aplicables;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
 
-XI. Establecer mecanismos y órganos destinados a diversificar y fortalecer sus fuentes de financiamiento;
+X. Administrar sus recursos económicos asignados de conformidad con los ordenamientos legales aplicables;
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XI. Proponer al Consejo de la Judicatura mecanismos para diversificar y fortalecer sus fuentes de financiamiento;
 
 XII. Realizar toda clase de actos jurídicos que requiera para el logro de sus fines,
 
-XIII. Promover la capacitación, formación, actualización y especialización de los defensores públicos y demás personal técnico y administrativo con estricto apego a los principios que rigen el servicio profesional de carrera, y
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
 
-XIII (SIC). Las demás que le confieran la presente ley, los reglamentos que se prevén en la misma y los demás ordenamientos legales aplicables a la materia.
+XIII. Promover ante el Consejo de la Judicatura la capacitación, formación, actualización y especialización de los defensores públicos y demás personal técnico y administrativo con estricto apego a los principios que rigen el servicio civil de carrera;
 
-### Capítulo IV. Patrimonio del Instituto
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XIV. Fortalecer el respeto al derecho a una defensa y asesoría adecuadas, con especial prioridad en los defensores públicos y asesores bilingües;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XV. Impulsar la profesionalización del servicio de defensoría pública, con perspectiva de género e interculturalidad; y
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XVI. Las demás que le confieran la Constitución Estatal, la Ley Orgánica; la presente Ley, los reglamentos que se prevén en la misma y los demás ordenamientos legales aplicables a la materia.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE AGOSTO DE 2016)</small>
+
+### Capítulo IV. Presupuesto del Instituto
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 15.
 
-Integración del patrimonio
+Presupuesto
 
-El patrimonio del Instituto se integrará por:
+El Instituto elaborará su proyecto de Presupuesto de Egresos con los recursos necesarios para cumplir adecuadamente con su función, objetivos y metas y lo remitirá al titular del Poder Judicial del Estado, para su inclusión en el proyecto de Presupuesto de Egresos del Estado.
 
-I. La partida presupuestal considerada en el Presupuesto de Egresos del Estado;
-
-II. Las aportaciones, participaciones, subsidios y apoyos que le otorguen los gobiernos federal, estatal y municipal, y en general, las personas físicas y morales para el cumplimiento de su objeto;
-
-III. Los legados, herencias y las donaciones otorgadas a su favor;
-
-IV. Los bienes muebles e inmuebles de su propiedad y los que adquiera por cualquier título legal, y
-
-V. Las utilidades, intereses, dividendos, rendimientos, derechos, y en general todo ingreso que adquiera por cualquier título legal.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 16.
 
-Disposiciones aplicables al patrimonio
+Disposiciones aplicables al presupuesto
 
-Los bienes que formen parte del patrimonio del Instituto se sujetarán a las disposiciones aplicables a los bienes propiedad del Estado y sus distintas instancias y organismos. El Instituto destinará la totalidad de sus activos exclusivamente al cumplimiento de su objeto.
+Los bienes muebles e inmuebles del Instituto serán administrados por el Consejo de la Judicatura y se sujetarán a las disposiciones aplicables.
 
 ###### Artículo 17.
 
@@ -249,101 +317,67 @@ Criterios para el ejercicio de recursos
 
 El ejercicio de los recursos del Instituto se ajustará a los criterios de racionalidad, disciplina presupuestal y transparencia.
 
-El Instituto queda sometido al marco jurídico y a las reglas de contabilidad, presupuesto y gasto público aplicables a la Administración Pública Estatal.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
 
-### Capítulo V. Órganos de Gobierno y de Administración
+El Instituto queda sometido al marco jurídico y a las reglas de contabilidad, presupuesto y gasto público aplicables al Poder Judicial del Estado.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE AGOSTO DE 2016)</small>
+
+### Capítulo V. Órganos de Administración y Consulta del Instituto
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 18.
 
 Órganos del Instituto
 
-El Instituto contará con los órganos de gobierno y de administración siguientes:
+El Instituto contará con los órganos de administración y consulta siguientes:
 
-I. La Junta de Gobierno, y
+I. El Defensor General; y
 
-II. El Director General.
+II. Consejo Consultivo.
 
-Los órganos anteriores se auxiliarán para el ejercicio de sus funciones de la estructura orgánica que determine el reglamento interno del Instituto.
+Los órganos anteriores se auxiliarán para el ejercicio de sus funciones de la estructura orgánica que determine el Reglamento.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE AGOSTO DE 2016)</small>
 
 ### Capítulo VI. Junta de Gobierno
 
 ###### Artículo 19.
 
-Integración de la Junta
-
-La Junta de Gobierno será la máxima autoridad del Instituto de Defensoría Pública y se integrará con los siguientes miembros con derecho de voz y voto:
-
-I. El Gobernador del Estado, quien la presidirá;
-
-II. El Secretario de Finanzas y Administración del Estado;
-
-III. El Contralor General del Estado;
-
-IV. El Titular del Sistema para el Desarrollo Integral de la Familia en el Estado;
-
-V. Dos Representantes del Consejo Consultivo, que serán designados de entre sus miembros, de común acuerdo por sus integrantes.
+(DEROGADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 20.
 
-Suplencia
-
-Los integrantes de la Junta de Gobierno a que se hace referencia en las fracciones I a IV del artículo anterior, podrán ser representados en sus ausencias por quienes ellos designen para este efecto con el carácter de suplente.
-
-Los cargos de los integrantes de la Junta de Gobierno serán honoríficos.
+(DEROGADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 21.
 
-Atribuciones
+(DEROGADO, P.O. 12 DE AGOSTO DE 2016)
 
-La Junta de Gobierno tendrá las atribuciones siguientes:
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE AGOSTO DE 2016)</small>
 
-I. Aprobar y evaluar el programa anual de trabajo, así como establecer las políticas generales y las prioridades a que deberá sujetarse el Instituto para el cumplimiento de su objeto;
-
-II. Conocer y aprobar, en su caso, los informes que rinda el Director General;
-
-III. Aprobar los proyectos de presupuestos de ingresos y egresos del Instituto y sus modificaciones, así como analizar y aprobar en su caso, los estados financieros;
-
-IV. Aprobar las propuestas que presente el Director General, sobre la enajenación y garantía de los bienes inmuebles que integran el patrimonio del Instituto, con sujeción a las leyes y disposiciones de la materia;
-
-V. Aprobar, a propuesta del Director General, los lineamientos para determinar las condiciones de vulnerabilidad, escasez de recursos o desprotección;
-
-VI. Autorizar la celebración de convenios y contratos con personas físicas o morales, instituciones y organismos locales, nacionales o internacionales, de los sectores público y privado, para el desarrollo, intercambio y cooperación en programas y proyectos que coadyuven al cumplimiento de los objetivos del Instituto;
-
-VII. Permitir la celebración de convenios con los sectores público y privado a fin de fortalecer la prestación de los servicios de defensa pública mediante la participación de profesionales del derecho externos al Instituto;
-
-VIII. Aprobar los programas de evaluación, seguimiento, mejora continua y sistematización de los trabajos de defensa pública;
-
-IX. Aprobar la implementación de mecanismos para la adquisición de recursos adicionales a los presupuestados, con estricto apego a la normatividad aplicable a las gestiones y recursos públicos;
-
-X. Conocer y dar el trámite correspondiente a las recomendaciones que en su caso, emitan los organismos públicos de protección de los derechos humanos;
-
-XI. Solicitar la opinión y conocer de las recomendaciones e informes que emita el Consejo Consultivo del Instituto;
-
-XII. Otorgar poderes generales o especiales al Director General; para su representación legal, para la administración, pleitos y cobranzas, y poder limitado para actos de dominio, en casos concretos;
-
-XIII. Aprobar el reglamento interior y demás normatividad aplicable al Instituto;
-
-XIV. Determinar las políticas necesarias para la implementación y fortalecimiento de las labores técnicas que sustenten la defensa;
-
-XV. Realizar los actos y operaciones que sean necesarios para cumplir con su objeto en los términos de la presente ley, y
-
-XVI. Las demás que le atribuyan este ordenamiento jurídico, la Ley de Entidades Paraestatales del Estado, y otra normatividad aplicable.
-
-### Capítulo VII. Director General
+### Capítulo VII. Defensor General
 
 ###### Artículo 22.
 
 Atribuciones generales
 
-El Director General del Instituto será el representante legal de la institución, el ejecutor de las determinaciones de la Junta de Gobierno y el administrador del Instituto.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+El Defensor General será el representante legal y administrador del Instituto.
 
 ###### Artículo 23.
 
 Designación, remoción y requisitos
 
-El Director General será designado y removido directamente por el Gobernador del Estado.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
 
-Para ser Director General del Instituto, se requiere cumplir con los requisitos siguientes:
+El Defensor General será nombrado por el Pleno del Consejo de la Judicatura de acuerdo con el procedimiento establecido en la Constitución Estatal y en la Ley Orgánica, y durará en su encargo cuatro años, pudiendo ser ratificado por un periodo igual.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+Para ser Defensor General, además de los señalados en el artículo 111 de la Constitución Estatal, se requiere cumplir con los requisitos siguientes:
 
 I. Ser ciudadano mexicano por nacimiento, no haber adquirido otra nacionalidad y estar en pleno ejercicio de sus derechos civiles y políticos;
 
@@ -359,7 +393,9 @@ V. Tener un mínimo de dos años de residencia en el Estado de Guerrero
 
 Facultades y obligaciones
 
-El Director General del Instituto tendrá las facultades y obligaciones siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+El Defensor General del Instituto tendrá las facultades y obligaciones que señala la Ley Orgánica.
 
 I. Administrar y representar legalmente al Instituto, dirigiendo su funcionamiento y vigilando la correcta aplicación de los planes y programas de gestión, financieros y administrativos;
 
@@ -371,7 +407,7 @@ IV. Implementar los sistemas, procesos, instancias y demás opciones a fin de in
 
 V. Elaborar, proponer, cumplir y hacer cumplir el reglamento interior y demás normatividad aplicable al Instituto;
 
-VI. Nombrar, adscribir y remover al personal directivo y administrativo, así como a los defensores públicos del Instituto; aceptar las renuncias y autorizar las licencias, sujetándose en lo conducente a los lineamientos derivados del servicio profesional de carrera y su reglamento, y en general, cumplir con todas las responsabilidades en materia de recursos humanos;
+VI. (DEROGADA, P.O. 12 DE AGOSTO DE 2016)
 
 VII. Desahogar los procedimientos de excusa del defensor público y resolver lo conducente;
 
@@ -397,39 +433,47 @@ XV. Las demás que establezcan las normas y disposiciones reglamentarias del Ins
 
 Integración
 
-El Consejo Consultivo será' el órgano de consulta del Instituto y estará integrado de la siguiente manera:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2016)</small>
 
-I. Dos representantes de las Facultades de Derecho;
+El Instituto contará con un Consejo Consultivo de carácter honorifico, nombrados en el número y competencias, conforme lo señale la Ley Orgánica.
 
-II. Un representante de los Colegios de Abogados;
+I. (DEROGADA, P.O. 12 DE AGOSTO DE 2016)
 
-III. Un representante de organizaciones civiles dedicadas a la asesoría y patrocinio legal gratuito;
+II. (DEROGADA, P.O. 12 DE AGOSTO DE 2016)
 
-IV. Un representante de la Comisión de Defensa de los Derechos Humanos;
+III. (DEROGADA, P.O. 12 DE AGOSTO DE 2016)
 
-V. Un representante del Tribunal Superior de Justicia del Estado, y
+IV. (DEROGADA, P.O. 12 DE AGOSTO DE 2016)
 
-VI. Un representante del Poder Ejecutivo del Estado.
+V. (DEROGADA, P.O. 12 DE AGOSTO DE 2016)
 
-Las instituciones o sectores a los que se hace referencia, deberán estar radicadas en el Estado de Guerrero.
+VI. (DEROGADA, P.O. 12 DE AGOSTO DE 2016)
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 12 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 26.
 
 Proceso de designación de integrantes
 
-Los miembros del Consejo Consultivo se designarán mediante convocatoria expedida por la Junta de Gobierno del Instituto, en la que se determinarán los criterios y mecanismos de selección aplicables. El proceso deberá ser transparente y público.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+Los miembros del Consejo Consultivo serán nombrados de conformidad con lo establecido en la Ley Orgánica, debiendo cumplir con los requisitos de elegibilidad que ésta señale.
 
 ###### Artículo 27.
 
 Elección del Presidente
 
-El Presidente del Consejo Consultivo se elegirá de entre sus miembros por mayoría de votos.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+El Presidente del Consejo Consultivo se elegirá de acuerdo a lo dispuesto por la Ley Orgánica.
 
 ###### Artículo 28.
 
 Atribuciones
 
-El Consejo Consultivo tendrá las atribuciones siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+El Consejo Consultivo tendrá las atribuciones que le confiera la Ley Orgánica.
 
 I. Asesorar al Director General y en su caso a la Junta de Gobierno, en la formulación y desarrollo de los planes y programas del Instituto;
 
@@ -439,7 +483,7 @@ III. Formular recomendaciones para el mejoramiento de la calidad de los programa
 
 IV. Fungir como instancia de recomendación y consulta a petición de la Junta de Gobierno o del Director General del Instituto;
 
-V. Elegir de entre sus miembros a los integrantes de la Junta de Gobierno del Instituto, que le correspondan;
+V. (DEROGADA, P.O. 12 DE AGOSTO DE 2016)
 
 VI. Recomendar la elaboración de proyectos que además de fortalecer las labores propias del Instituto, representen oportunidades de obtención de fondos adicionales a los presupuestados;
 
@@ -459,9 +503,13 @@ XI. Las demás que le confiera la presente ley, su reglamento y las disposicione
 
 Sesiones
 
-Los órganos colegiados del Instituto sesionarán de forma ordinaria por lo menos cada cuatro meses, pudiendo reunirse de manera extraordinaria las veces que sea necesario.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
 
-En ambos casos, las convocatorias a las sesiones serán expedidas por el Director General cuando menos con ocho días de anticipación a la fecha de la sesión y notificadas de manera fehaciente a los miembros del órgano a sesionar.
+El Consejo Consultivo del Instituto sesionará de forma ordinaria por lo menos cada cuatro meses, pudiendo reunirse de manera extraordinaria las veces que sea necesario.
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+En ambos casos, las convocatorias a las sesiones serán expedidas por el Defensor General cuando menos con ocho días de anticipación a la fecha de la sesión y notificadas de manera fehaciente a los miembros del Consejo Consultivo a sesionar.
 
 Para la expedición y notificación de las convocatorias, se podrán utilizar los medios tecnológicos o electrónicos disponibles siempre que permitan la comprobación de la emisión y recepción de la misma. En la convocatoria se especificará la fecha, hora y lugar en el que se desarrollará la sesión, así como el orden del día.
 
@@ -469,7 +517,9 @@ Para la expedición y notificación de las convocatorias, se podrán utilizar lo
 
 Solicitud de convocatoria para sesionar
 
-Cualquiera de los miembros de los órganos colegiados podrá solicitar al Director General, por escrito y especificando los temas a tratar, que expida una convocatoria para sesionar. El Director General deberá expedir la convocatoria solicitada dentro de los cinco días siguientes a la petición.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+Cualquiera de los miembros del Consejo Consultivo podrá solicitar al Defensor General, por escrito y especificando los temas a tratar, que expida una convocatoria para sesionar. El Defensor General deberá expedir la convocatoria solicitada dentro de los cinco días siguientes a la petición.
 
 ###### Artículo 31.
 
@@ -477,13 +527,17 @@ Validez de las sesiones
 
 Para la validez de las sesiones se requerirá la presencia de la mayoría de los integrantes del órgano convocado. En caso de que no se logre el quórum requerido, se emitirá una segunda convocatoria, siendo válida la sesión que resulte de ella, con la asistencia del número de miembros que se presenten.
 
-Las resoluciones de la Junta de Gobierno y del Consejo Consultivo se tornarán por la mayoría de votos de los asistentes a la sesión, gozando el Presidente de voto de calidad en caso de empate.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+Las resoluciones del Consejo Consultivo se tomarán por la mayoría de votos de los asistentes a la sesión, gozando el Presidente de voto de calidad en caso de empate.
 
 ###### Artículo 32.
 
 Asistencia virtual a sesiones
 
-La Junta de Gobierno y el Consejo Consultivo podrán sesionar sin necesidad de la presencia física de sus integrantes, siempre que éstos notifiquen por escrito con dos días de anticipación a la sesión, que participarán por medios alternos. El voto de los asistentes que participen de conformidad con lo anterior, deberá emitirse utilizando medios que permitan la comprobación fehaciente de su emisión y sentido.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+El Consejo Consultivo podrá sesionar sin necesidad de la presencia física de sus integrantes, siempre que éstos notifiquen por escrito con dos días de anticipación a la sesión, que participarán por medios tecnológicos alternos. El voto de los asistentes que participen de conformidad con lo anterior, deberá emitirse utilizando medios que permitan la comprobación fehaciente de su emisión y sentido.
 
 ### Capítulo X. Estructura Orgánica
 
@@ -491,17 +545,27 @@ La Junta de Gobierno y el Consejo Consultivo podrán sesionar sin necesidad de l
 
 Estructura orgánica
 
-La Junta de Gobierno aprobará en el reglamento interior correspondiente, la estructura orgánica que sea necesaria para el adecuado funcionamiento del Instituto.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
 
-El Director General, con apoyo del Consejo Consultivo y aprobación de la Junta de Gobierno, expedirá los perfiles que deberán cumplir las personas que desempeñen un cargo en el Instituto y los tabuladores en base a los cuales se determinen sus remuneraciones. Las percepciones de los Defensores Públicos no podrán ser inferiores a las que correspondan a los agentes del Ministerio Público del Estado. Las remuneraciones de los demás servidores públicos del Instituto deberán ser proporcionales a las funciones que desempeñan.
+El Pleno del Consejo de la Judicatura aprobará en el Reglamento correspondiente, la estructura orgánica que sea necesaria para el adecuado funcionamiento del Instituto.
 
-### Capítulo XI. Defensores Públicos
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+El Pleno del Consejo de la Judicatura, con apoyo del Defensor General y del Consejo Consultivo, expedirá los perfiles que deberán cumplir las personas que desempeñen un cargo en el Instituto y los tabuladores en base a los cuales se determinen sus remuneraciones.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE AGOSTO DE 2016)</small>
+
+### Capítulo XI. Defensores públicos y asesores
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 34.
 
-Requisitos para ser Defensor Público
+Requisitos para ser Defensor Público y Asesor
 
-Para ser Defensor Público se requiere:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+Para ser Defensor Público y Asesor se requiere:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
@@ -511,21 +575,33 @@ III. No haber sido condenado por delito intencional alguno;
 
 IV. No estar inhabilitado por resolución firme para el desempeño de funciones públicas;
 
-V. Asistir a los cursos y aprobar los exámenes de ingreso que establezca el reglamento de esta Ley, y
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
 
-VI. Los demás que, en su caso, establezca el reglamento.
+V. Asistir a los cursos y aprobar los exámenes de ingreso que establezca el Consejo de la Judicatura; y
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+VI. Los demás que, en su caso establezca el reglamento y el Consejo de la Judicatura.
 
 ###### Artículo 35.
 
 Obligaciones
 
-Los Defensores Públicos tendrán las siguientes obligaciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2016)</small>
 
-I. Prestar el servicio de defensa pública, orientación, asesoría y patrocinio con apego a las disposiciones contenidas en la Constitución Federal, la presente ley y la demás normatividad aplicable;
+Los defensores públicos y asesores tendrán las siguientes obligaciones, según corresponda:
 
-II. Excusarse de aceptar o continuar la defensa de una persona en los supuestos legales;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
 
-III. Interponer los recursos exclusivamente necesarios para una correcta defensa de los intereses que le han sido confiados, incluyendo, en su caso, el Juicio de Amparo;
+I. Prestar el servicio de defensoría pública, orientación, asesoría y patrocinio con apego a las disposiciones contenidas en la Constitución Federal, la presente ley y la demás normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+II. Excusarse de aceptar o continuar la defensa o asesoría de una persona en los supuestos legales;
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+III. Interponer los recursos exclusivamente necesarios para una correcta defensa o asesoría de los intereses que le han sido confiados, incluyendo, en su caso, el Juicio de Amparo;
 
 IV. Mantener personalmente informado, de manera comprensible, permanente, continua y veraz, al usuario del servicio sobre el desarrollo de seguimiento del proceso o asunto, con el fin de garantizar una relación de confianza. En caso de no ser posible la comunicación personal y directa se podrá establecer por otros medios;
 
@@ -535,21 +611,31 @@ VI. Promover la justicia restaurativa y los mecanismos alternativos de solución
 
 VII. Rendir un informe mensual a su superior jerárquico, o cuando éste se lo requiera;
 
-VIII. Cumplir y verificar que se observen las normas aplicables al servicio de defensa pública;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+VIII. Cumplir y verificar que se observen las normas aplicables al servicio de defensoría pública;
 
 IX. Abstenerse de incurrir en prácticas ilícitas o contrarias a los fines y normativas del Instituto, y en su caso denunciar a aquellos que incurran en ellas ante la instancia que corresponda, según el reglamento interior y demás normatividad aplicable;
 
-X. Someterse a una capacitación, formación, profesionalización, actualización y especialización permanentes que· asegure la eficiencia del servicio y cumplir con carácter obligatorio el programa anual que en este sentido determine la Junta Directiva, y
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
 
-XI. Las demás que se prevean en otros ordenamientos relacionados al servicio de defensa pública, en esta ley o en su reglamento.
+X. Someterse a una capacitación, formación, profesionalización, actualización y especialización permanentes que asegure la eficiencia del servicio y cumplir con carácter obligatorio el programa anual que en este sentido determine el Pleno del Consejo de la Judicatura, y
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XI. Las demás que se prevean en otros ordenamientos relacionados al servicio de defensoría pública, en esta ley o en su reglamento.
 
 ###### Artículo 36.
 
 Prohibiciones
 
-Está prohibido a los Defensores Públicos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2016)</small>
 
-I. Orientar, asesorar, patrocinar o asumir defensa como abogado particular, en cuyo caso será cesado como Defensor Público, independientemente de las responsabilidades en que incurra por su carácter de servidor público;
+Está prohibido a los defensores públicos y asesores:
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+I. Orientar, asesorar, patrocinar o asumir defensa como abogado particular, en cuyo caso será cesado como defensor público o asesor, independientemente de las responsabilidades en que incurra por su carácter de servidor público;
 
 II. Actuar como apoderado judicial, tutor, curador o albacea, a menos que sean herederos o legatarios. También ser depositario judicial, síndico, administrador, interventor en quiebra o concurso, corredor, comisionista o fiador en los asuntos que intervengan o hayan intervenido oficialmente;
 
@@ -559,7 +645,9 @@ IV. Actuar cuando se encuentren impedidos por alguna de las causales previstas e
 
 V. Descuidar o abandonar injustificadamente el desempeño de las funciones o labores que deban realizar en virtud de su encargo, así como abandonar sin causa justificada su centro de trabajo;
 
-VI. Omitir informar al Director General, cualquier acto tendiente a vulnerar los principios que rigen al Instituto;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+VI. Omitir informar al Defensor General, cualquier acto tendiente a vulnerar los principios que rigen al Instituto;
 
 VII. Emitir opinión pública que implique revelar la situación jurídica de sus representados durante el proceso o prejuzgar sobre un asunto de su competencia, así como del Instituto;
 
@@ -569,7 +657,9 @@ IX. Inducir a sus representados a celebrar acuerdos con la parte contraria aprov
 
 X. Las demás que se establezcan en la Ley, Reglamento y otras disposiciones aplicables.
 
-La prohibición señalada en la fracción VIII de éste artículo deberá ser impresa y colocada en todas de las dependencias en las que labore un Defensor Público.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+La prohibición señalada en la fracción VIII de éste artículo deberá ser impresa y colocada en todas de (sic) las dependencias en las que labore un defensor público o asesor.
 
 ###### Artículo 37.
 
@@ -583,19 +673,29 @@ II. El usuario manifieste de manera expresa o por escrito que no tiene interés 
 
 III. Exista evidencia de que el usuario recibe los servicios de un abogado particular,
 
-IV. El usuario realice, sin causa justificada, promociones y/o diligencias a título personal sin conocimiento de su Defensor Público;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+IV. El usuario realice, sin causa justificada, promociones y/o diligencias a título personal sin conocimiento de su defensor público o asesor;
 
 V. El usuario incurra en falsedad en los datos o en la información socioeconómica proporcionada;
 
-VI. El usuario por sí mismo o por interpósita persona, cometa actos de violencia física o verbal, amenazas o injurias en contra de su Defensor Público o de servidores públicos del Instituto;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+VI. El usuario por sí mismo o por interpósita persona, cometa actos de violencia física o verbal, amenazas o injurias en contra de su defensor público o asesor, o de servidores públicos del Instituto;
 
 VII. La finalidad del solicitante sea obtener un lucro o actuar de mala fe;
 
-VIII. El usuario proporcione documentación falsa o alterada a su Defensor Público, para que aquélla sea exhibida ante alguna autoridad;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
 
-IX. Cuando los usuarios no atiendan las indicaciones relativas al proceso o no acudan sin causa justificada por un lapso de tres meses posteriores al inicio de la prestación del servicio, y
+VIII. El usuario proporcione documentación falsa o alterada a su defensor público o asesor, para que aquélla sea exhibida ante alguna autoridad;
 
-X. Las demás que se establezcan en el Reglamento interior del Instituto.
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+IX. Cuando los usuarios no atiendan las indicaciones relativas al proceso o no acudan sin causa justificada por un lapso de tres meses posteriores al inicio de la prestación del servicio; y
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+X. Las demás que se establezcan en el Reglamento.
 
 ###### Artículo 38.
 
@@ -621,29 +721,45 @@ Para determinar si el solicitante del servicio de defensoría pública reúne lo
 
 En los casos de urgencia por razones de términos fatales, se deberá prestar de inmediato y por única vez, el servicio de defensoría pública, sin esperar los resultados del estudio socioeconómico.
 
-En los supuestos de este artículo, el servicio de defensoría pública será prestado necesariamente por otro Defensor Público.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
 
-### Capítulo XII. Excusas de los defensores públicos
+En los supuestos de este artículo, el servicio de defensoría pública será prestado necesariamente por otro defensor público o asesor.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE AGOSTO DE 2016)</small>
+
+### Capítulo XII. Excusas de los defensores públicos y asesores
 
 ###### Artículo 39.
 
 Excusas
 
-Los defensores públicos deberán excusarse de aceptar o de continuar la asesoría, defensa o patrocinio de cualquier usuario, cuando exista alguna de las causas de impedimento siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2016)</small>
 
-I. Haber recibido el Defensor Público, su cónyuge, concubina o concubinario, sus hijos o algún familiar, dádivas o servicios de la victima u ofendido, después de haber empezado el proceso;
+Los defensores públicos y asesores deberán excusarse de aceptar o de continuar la asesoría, defensa o patrocinio de cualquier usuario, cuando exista alguna de las causas de impedimento siguientes:
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+I. Haber recibido el defensor público o asesor, su cónyuge, concubina o concubinario, sus hijos o algún familiar, dádivas o servicios de la víctima u ofendido, después de haber empezado el proceso;
 
 II. Haber sido perito, testigo, agente del ministerio público o juez en la causa que se trate;
 
-III. Seguir el Defensor Público, su cónyuge, concubina o concubinario, o sus hijos, un proceso civil como actor o demandado contra el imputado;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
 
-IV. Ser denunciante, querellante o acusador contra quien lo designe como Defensor Público;
+III. Seguir el defensor público o asesor, su cónyuge, concubina o concubinario, o sus hijos, un proceso civil como actor o demandado contra el imputado;
 
-V. Tener el Defensor Público, su cónyuge, concubina o concubinario, sus parientes consanguíneos en línea recta sin limitación de grado, los colaterales, dentro del cuarto grado y los afines dentro del segundo, el carácter de victima u ofendido en la causa de que se trate;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+IV. Ser denunciante, querellante o acusador contra quien lo designe como defensor público o asesor;
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+V. Tener el defensor público o asesor, su cónyuge, concubina o concubinario, sus parientes consanguíneos en línea recta sin limitación de grado, los colaterales dentro del cuarto grado y los afines dentro del segundo, el carácter de víctima u ofendido en la causa de que se trate;
 
 VI. Haber sido representante, mandatario judicial o apoderado de la victima u ofendido del delito;
 
-VII. Haber sido designado para representar a varios imputados o acusados, y exista interés contrario entre los mismos. En este caso, el Defensor Público queda en libertad de elegir a la persona a quien asesorará en el proceso;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+VII. Haber sido designado para representar a varios imputados o acusados, y exista interés contrario entre los mismos. En este caso, el defensor público o asesor queda en libertad de elegir a la persona a quien asesorará en el proceso;
 
 VIII. Ser tutor o curador de la víctima u ofendido, y
 
@@ -653,109 +769,57 @@ IX. Estar en una situación análoga o más grave de las mencionadas, que pueda 
 
 Procedimiento de la excusa
 
-El Defensor Público expondrá por escrito su excusa dirigida al director de área correspondiente, siguiendo el procedimiento que al efecto señale el Reglamento, cuidando en todo momento las formalidades previstas en las leyes de la materia. Una vez justificada la excusa, el director de área de que se trate dará aviso al Director General, quien designará a otro Defensor Público.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+El defensor público o asesor expondrá por escrito su excusa dirigida al Defensor General, siguiendo el procedimiento que al efecto señale el Reglamento, cuidando en todo momento las formalidades previstas en las leyes de la materia. Una vez justificada la excusa, el Defensor General designará a otro defensor público o asesor.
 
 ###### Artículo 41.
 
 Suplencia del Defensor Público
 
-Las faltas temporales del Defensor Público se suplirán por los servidores públicos de similar categoría, adscritos en la misma ciudad, o en su defecto, la más cercana, de conformidad con la determinación del director de área respectivo o, en su caso, del Director General.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+Las faltas temporales del defensor público o asesor se suplirán por los servidores públicos de similar categoría, adscritos en la misma ciudad, o en su defecto, la más cercana, de conformidad con la determinación del Defensor General.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE AGOSTO DE 2016)</small>
 
 ### Capítulo XIII. Servicio profesional de carrera
 
 ###### Artículo 42.
 
-Principios
-
-El Instituto establecerá un servicio profesional de carrera, atendiendo a la capacidad, idoneidad, rectitud, probidad y constancia de los servidores públicos que formen o aspiren a formar parte de ella, y tendrá como propósito garantizar, la estabilidad y seguridad en el empleo, así como fomentar la vocación de servicio y promover la formación, capacitación y profesionalización permanente del personal.
-
-El servicio profesional de carrera se regirá por los principios de excelencia, objetividad, gratuidad, profesionalismo e independencia; será especializado en las materias que importa el servicio y garantizará la igualdad de oportunidades en el desempeño de sus funciones, así como en la remuneración, capacitación y garantías de seguridad social para los directores de área, defensores públicos y demás personal técnico y operativo del Instituto, en los términos de la ley y otras disposiciones aplicables.
+(DEROGADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 43.
 
-Ingreso y promoción
-
-El ingreso y promoción del personal técnico operativo y defensores públicos, hasta director de área, será por concurso mediante examen de oposición, cuyos procedimientos, así como los de formación, capacitación, actualización, especialización, estímulos y reconocimientos se establecerán en el reglamento correspondiente.
-
-La formación, capacitación, actualización, especialización, ascenso, adscripción, rotación, reingreso, permanencia, estímulos, reconocimientos y retiro del personal, se realizará en el contexto del servicio profesional de carrera, bajo los principios señalados en la ley y garantizará la igualdad de oportunidades laborales, así como la remuneración adecuada y garantías de seguridad social, en los términos que establezca el reglamento respectivo.
+(DEROGADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 44.
 
-Bases generales
-
-El Servicio Profesional de carrera se regirá por las siguientes bases generales:
-
-I. Funcionará en base a categorías de servidores públicos, a fin de que éstos sean considerados para el acceso respectivo por medio de concurso de ingreso o promoción, tomando en cuenta su especialización, responsabilidad asignada, años mínimos de ejercicio profesional, antigüedad en el servicio y otros criterios que permitan establecerlas;
-
-II. Establecerá mecanismos que previamente a la sustentación del concurso de ingreso o de promoción, permitan seleccionar a los aspirantes más aptos;
-
-III. Regulará las características del concurso de ingreso o de promoción con exámenes prácticos, escritos u orales;
-
-IV. Expedirá las reglas sobre contenidos de convocatorias, características del concurso de ingreso o promoción y determinación de calificaciones, y
-
-V. Establecerá los criterios de evaluación y, en particular, de los estudios desarrollados por el sustentante, su desempeño y grado académico.
+(DEROGADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 45.
 
-Terminación
+(DEROGADO, P.O. 12 DE AGOSTO DE 2016)
 
-La terminación del servicio profesional de carrera del Instituto será:
-
-I. Ordinaria, que comprende:
-
-a). La renuncia;
-
-b). La incapacidad permanente para el desempeño de sus funciones;
-
-c). La jubilación, y
-
-d). La muerte del servidor público.
-
-II. Extraordinaria, que comprende:
-
-a). La separación del servicio por incumplimiento de los requisitos de ingreso y permanencia en la institución, y
-
-b). La remoción o suspensión definitiva del cargo, emitida por la instancia competente, conforme a las normas jurídicas que rigen la materia.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 12 DE AGOSTO DE 2016)</small>
 
 ### Capítulo XIV. Consejo técnico del servicio profesional de carrera
 
 ###### Artículo 46.
 
-Funciones e integración
+(DEROGADO, P.O. 12 DE AGOSTO DE 2016)
 
-El Consejo Técnico del Servicio Profesional de Carrera es el órgano del Instituto, responsable del desarrollo y operación del servicio profesional de carrera, y tendrá la integración, atribuciones y operatividad que se establezcan en el reglamento correspondiente.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE AGOSTO DE 2016)</small>
 
 ### Capítulo XV. Comisario Público
 
 ###### Artículo 47.
 
-Órgano de Vigilancia
-
-El Instituto contará con un órgano de vigilancia a través de un Comisario Público temporal y revocable designado por la Contraloría General del Estado.
+(DEROGADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 48.
 
-Atribuciones
-
-El Comisario Público tendrá las atribuciones siguientes:
-
-I. Evaluar el desempeño general del Instituto;
-
-II. Realizar la revisión mensual sobre las erogaciones que se ejerzan en las partidas de gasto corriente e inversión autorizado en el Presupuesto de Egresos, así como en lo referente a los ingresos y aportaciones que reciba el Instituto;
-
-III. Auditar los estados financieros del Instituto;
-
-IV. Supervisar los actos y documentos de carácter financiero;
-
-V. Vigilar que las disposiciones financieras del Instituto se ejecuten conforme a las disposiciones legales aplicables y a los lineamientos de la Junta de Gobierno;
-
-VI. Cuidar el correcto ejercicio presupuestal del Instituto;
-
-VII. Vigilar el cumplimiento de la legalidad y normatividad aplicable, así como de los acuerdos tomados por la Junta de Gobierno;
-
-VIII. Dar el trámite a las quejas y denuncias sobre la operación del Instituto y su personal, y
-
-IX. Las demás que le confieran otras disposiciones legales aplicables.
+(DEROGADO, P.O. 12 DE AGOSTO DE 2016)
 
 ### Capítulo XVI. Régimen laboral
 
@@ -795,7 +859,9 @@ IX. Dejar de cumplir cualquiera de las obligaciones o funciones que les señalan
 
 Sanciones
 
-Los servidores públicos del instituto serán sancionados en base al procedimiento instruido por la instancia correspondiente y conforme a lo establecido por la Ley de Responsabilidades de los Servidores Públicos del Estado de Guerrero.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+Los servidores públicos del Instituto serán sancionados en base al procedimiento instruido por la instancia correspondiente y conforme a lo establecido por la Ley número 695 de Responsabilidades de los Servidores Públicos del Estado y de los Municipios de Guerrero.
 
 T R A N S I T O R I O S
 
@@ -857,7 +923,7 @@ LIC. HUMBERTO SALGADO GÓMEZ.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 29 DE FEBRERO DE 2012.
 
@@ -882,3 +948,9 @@ SEGUNDO.- Se derogan todas las disposiciones legales, reglamentarias y administr
 TERCERO.- Los juicios iniciados antes de la entrada en vigor del presente Decreto, deberán continuar su trámite, hasta su total conclusión, en el Distrito Judicial de La Montaña. Asimismo, el Consejo de la Judicatura del Poder Judicial deberá realizar los trámites administrativos necesarios para que los jueces adscritos en el Distrito Judicial de Morelos puedan atender de manera adecuada los asuntos que se inicien con motivo de la presente reubicación de adscripción de la municipalidad de Cochoapa El Grande, una vez entrada en vigor la presente reforma.
 
 Por su parte, la Defensoría Pública del Poder Judicial, deberá realizar las gestiones necesarias a efecto de dar cumplimento al presente Decreto y garantizar la cobertura de defensores que hablen una lengua materna y estén debidamente capacitados en perspectiva de género.
+
+P.O. 12 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 235 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 848 DE DEFENSA PÚBLICA DEL ESTADO DE GUERRERO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
