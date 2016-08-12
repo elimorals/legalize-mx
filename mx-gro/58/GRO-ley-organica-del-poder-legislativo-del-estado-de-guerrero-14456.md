@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-14456
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-06-11"
-last_updated: "2016-04-05"
+last_updated: "2016-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,15 @@ state: "GRO"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUM. 286
 
+[NOTA 1: DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231 PUBLICADA EN EL P.O. DE 12 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO OCTAVO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231, PUBLICADA EN EL P.O. DE 12 DE AGOSTO DE 2016, LAS REFERENCIAS A LA COMISIÓN DE GOBIERNO EN OTRAS LEYES Y DISPOSICIONES, SE ENTENDERÁN APLICABLES A LA JUNTA DE COORDINACIÓN POLÍTICA.]
+
+[NOTA 3: DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO OCTAVO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231, PUBLICADA EN EL P.O. DE 12 DE AGOSTO DE 2016, LAS REFERENCIAS QUE OTROS ORDENAMIENTOS HAGAN DE LA OFICIALÍA MAYOR Y DE LA DIRECCIÓN DE ADMINISTRACIÓN DEL CONGRESO DEL ESTADO, ASÍ COMO DE SUS RESPECTIVOS TITULARES, SE ENTENDERÁN APLICABLES EN LO CONDUCENTE A LA SECRETARÍA PARLAMENTARIA Y FINANCIERA, RESPECTIVAMENTE, A QUIEN LA ENCABECE.]
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 286
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 11 de junio de 1999.
 
@@ -2884,3 +2890,55 @@ El presente Decreto entrará en vigor a partir de su aprobación.
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese el presente Decreto para el conocimiento general en el periódico Oficial del Gobierno del Estado de Guerrero.
+
+P.O. 12 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231".]
+
+PRIMERO. La presente Ley entrará en vigor a partir del día trece de septiembre de 2016.
+
+SEGUNDO. Se abroga la Ley Orgánica del Poder Legislativo del Estado de Guerrero, número 286, con las excepciones que adelante se indican.
+
+TERCERO. Conforme a lo establecido en el Artículo Octavo del Decreto número 453 por el que se reforman y adicionan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado el 29 de abril de 2014, la Sexagésima Primera Legislatura, llevará a cabo los periodos de Sesiones en los términos siguientes:
+
+El Congreso del Estado se reuniráì (sic) en tres periodos de Sesiones ordinarias por año de ejercicio.
+
+El primero se iniciará el 13 de septiembre y se clausurará el 15 de enero;
+
+El segundo se iniciará el 1o de marzo y se clausurará el 15 de mayo, y
+
+El tercero el 15 de junio y se clausurará el 30 de julio.
+
+CUARTO. Los cargos y nombramientos conferidos a los servidores públicos designados con anterioridad a la entrada en vigor de la presente Ley, seguirán en su encargo con la nueva denominación.
+
+QUINTO. Dentro de los 90 días posteriores a partir de la entrada en vigor de la presente Ley, se deberán aprobar el Reglamento de la Ley Orgánica del Congreso del Estado, el Estatuto y los Manuales de Organización y Servicios del Congreso del Estado.
+
+SEXTO. Hasta en tanto se expiden las disposiciones reglamentarias respectivas se aplicaran lo correspondientes (sic) a las facultades y atribuciones de las Comisiones y Comités Legislativos, las establecidas en la Ley Orgánica del Poder Legislativo del Estado de Guerrero, número 286 y los decretos de creación respectivos.
+
+La integración de Comisiones Ordinarias y Especiales, así como la de los Comités Ordinarios, en funciones, continuará con la misma conformación hasta la conclusión de la LXI Legislatura.
+
+La Junta de Coordinación Política, deberá proponer al Pleno del Congreso la propuesta para integrar las Comisiones De Atención a los Adultos Mayores; De Atención a las Personas con Capacidades Diferentes; Del Agua, Infraestructura y Recursos Hidráulicos, y de Vivienda; dentro de los quince días siguientes a la entrada en vigor de la presente Ley.
+
+SÉPTIMO. Los archivos, bienes muebles y recursos humanos, materiales y financieros correspondientes a los Órganos de Gobierno, Administrativos y Técnicos del Congreso del Estado pasarán en los términos de la presente Ley Orgánica a los Órganos siguientes:
+
+De la Comisión de Gobierno a la Junta de Coordinación Política;
+
+De Fracciones y Representaciones Parlamentarias a los Grupos y Representaciones Parlamentarias;
+
+De la Oficialía Mayor a la Secretaría Parlamentaria;
+
+De la Dirección de Administración a la Secretaría Financiera;
+
+OCTAVO. Las referencias a la Comisión de Gobierno en otras Leyes y disposiciones, se entenderán aplicables a la Junta de Coordinación Política.
+
+Las referencias que otros ordenamientos hagan de la Oficialía Mayor y de la Dirección de Administración del Congreso del Estado, así como de sus respectivos titulares, se entenderán aplicables en lo conducente a la Secretaría Parlamentaria y Financiera, respectivamente, a quien la encabece.
+
+NOVENO. Los derechos que la Ley de Trabajo de los Servidores Públicos del Estado, y la Ley Reglamentaria del apartado B del Artículo 123 Constitucional, otorga a los trabajadores del Congreso del Estado, no se verán afectados por el establecimiento de la nueva estructura de organización técnica y adminitrativa (sic) del Congreso.
+
+DÉCIMO. Los asuntos y procedimientos cuyo trámite se haya iniciado previo a la vigencia de la presente Ley, serán sustanciados y resueltos conforme a lo establecido en la Ley Orgánica del Poder Legislativo del Estado de Guerrero, número 286. Los procedimientos que se inicien a la entrada en vigor de la presente Ley, se regirán por ésta.
+
+DÉCIMO PRIMERO. Lo relativo a las Tecnologías de Información y Comunicación que esta Ley Orgánica está implementando, como son la Gaceta Parlamentaria, el Tablero Electrónico de Registro de Asistencias y Votaciones y el Tablero de Avisos y Notificaciones, entrarán en funcionamiento una vez se hayan realizado los estudios y proyectos respectivos y se autorice el presupuesto correspondiente.
+
+DÉCIMO SEGUNDO. Hasta en tanto entre en funcionamiento y operación la Gaceta Parlamentaria, el Tablero Electrónico de Registro de Asistencias y Votaciones y el Tablero de Avisos y Notificaciones, se seguirán atendiendo en lo relativo a lo establecido en la Ley Orgánica del Poder Legislativo del Estado de Guerrero, número 286.
+
+DÉCIMO TERCERO. Publíquese la presente Ley, en el Periódico Oficial del Gobierno del Estado y en el portal electrónico del Congreso, para conocimiento general.
