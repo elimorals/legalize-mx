@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2016-07-14"
+last_updated: "2016-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE AGOSTO DE 2016.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -1491,15 +1491,23 @@ El Pleno podrá acordar el otorgamiento de otro tipo de estímulos a los servido
 
 El Consejo establecerá, en un acuerdo reglamentario de este artículo, un sistema de pensiones complementarias a las otorgadas por la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, mediante un fondo suficiente, conforme a las siguientes bases:
 
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTÍCULO 172 DEL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA BASE DE CÁLCULO DE LAS PENSIONES COMPLEMENTARIAS, D.O.F. 12 DE AGOSTO DE 2016)</small>
 
-PRIMERA. Los jueces de Distrito y los magistrados de Circuito al retirarse del cargo, ya sea por haber cumplido la edad para el retiro forzoso a que se refiere la Ley Orgánica del Poder Judicial de la Federación o por sufrir incapacidad permanente debidamente dictaminada, recibirán una pensión vitalicia equivalente al ochenta por ciento del ingreso mensual que corresponda a los mismos funcionarios en activo.
+PRIMERA. Los jueces de Distrito y los magistrados de Circuito al retirarse del cargo, ya sea por haber cumplido la edad para el retiro forzoso a que se refiere la Ley Orgánica del Poder Judicial de la Federación o por sufrir incapacidad permanente debidamente dictaminada, recibirán una pensión vitalicia equivalente hasta el ochenta por ciento del ingreso mensual bruto que corresponda a los mismos funcionarios en activo.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTÍCULO 172 DEL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE MARZO DE 2015)</small>
 
 Cuando los jueces de Distrito o los magistrados de Circuito se retiren del cargo antes de cumplirse alguno de los supuestos a que se refiere el párrafo anterior, tendrán derecho a una pensión vitalicia equivalente a la parte proporcional de la pensión señalada en este artículo, conforme a la edad y a los años de servicio en el Poder Judicial de la Federación que se establecen en la base segunda de este artículo.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTÍCULO 172 DEL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE MARZO DE 2015)</small>
+
 El derecho a la pensión se perderá de manera irrevocable si el juez de Distrito o el magistrado de Circuito retirados se desempeñaren, dentro de los dos años siguientes al retiro del cargo, como asesores, consejeros jurídicos, abogados patronos o cualquiera otra forma del ejercicio profesional de licenciados en derecho, o cualquier encargo similar, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTÍCULO 172 DEL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE MARZO DE 2015)</small>
+
 En caso de fallecimiento del juez de Distrito o del magistrado de Circuito durante el ejercicio del cargo, su cónyuge o concubina, así como sus hijos menores o incapaces tendrán derecho a una pensión mensual equivalente al cincuenta por ciento de la remuneración mensual que le hubiera correspondido al propio funcionario, en términos del primer párrafo de la Base Primera de este artículo.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTÍCULO 172 DEL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE MARZO DE 2015)</small>
 
 Si el magistrado de Circuito o juez de Distrito falleciere después de concluido el ejercicio de su cargo, habiendo reunido los requisitos mínimos para tener derecho a la pensión complementaria a que se refiere este artículo, su cónyuge o concubina, así como sus hijos menores o incapaces tendrán derecho a una pensión mensual equivalente al cincuenta por ciento de la que le hubiera correspondido al propio funcionario, en términos del segundo párrafo de la Base Primera de este artículo. Esas personas supérstites dejarán de tener derecho a este beneficio si contraen matrimonio, entran en concubinato o sociedad de convivencia; los menores, excepto los incapaces, al cumplir la mayoría de edad.
 
@@ -2018,3 +2026,11 @@ SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su
 TERCERO. Los servidores públicos que ocupen los cargos previstos en los preceptos que se reforman, cuyo nombramiento se hubiese otorgado acreditando únicamente contar con título de licenciado en derecho sin haber presentado su cédula profesional, deberán exhibir esta última ante la Dirección General de Recursos Humanos dentro de los 6 meses siguientes a la entrada en vigor del presente Acuerdo, o de lo contrario se iniciarán los procedimientos correspondientes.
 
 La Dirección General de Recursos Humanos deberá hacer del conocimiento la instrucción a que se refiere el párrafo anterior a los servidores públicos que cuenten con los nombramientos a que se refieren los artículos 51 y 52 del citado Acuerdo General.
+
+D.O.F. 12 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA BASE DE CÁLCULO DE LAS PENSIONES COMPLEMENTARIAS”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
