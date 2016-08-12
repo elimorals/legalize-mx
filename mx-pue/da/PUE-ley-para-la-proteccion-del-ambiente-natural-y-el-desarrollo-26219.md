@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-proteccion-del-ambiente-natural-y-el-desarrollo-262
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-18"
-last_updated: "2014-08-04"
+last_updated: "2016-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de septiembre de 2002.
 
@@ -471,7 +471,9 @@ IV.- Elaborar y ejecutar el Ordenamiento Ecológico Municipal, así como partici
 
 V.- Participar, previa celebración del convenio correspondiente, en la evaluación del impacto ambiental de obras o actividades de competencia estatal, cuando las mismas se realicen en el ámbito de su circunscripción territorial;
 
-VI.- Prevenir y controlar la contaminación ocasionada por emisiones de humos, gases, partículas sólidas, ruido, vibraciones, energía térmica o lumínica, olores que rebasen los límites máximos permitidos por las Normas Oficiales Mexicanas, generadas por establecimientos comerciales o de servicios;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+VI.- Prevenir, controlar y, en su caso, sancionar en el ámbito de su competencia, la contaminación ocasionada por emisiones de humos, gases, partículas sólidas, ruido, vibraciones, energía térmica o lumínica, olores que rebasen los límites máximos permitidos por las Normas Oficiales Mexicanas, generadas por establecimientos comerciales o de servicios;
 
 VII.- Proteger la imagen de los centros de población contra la contaminación visual;
 
@@ -1901,7 +1903,9 @@ III.- Dependiendo de las dimensiones del área afectada y su grado de contaminac
 
 Quedan prohibidas las emisiones de ruido, vibraciones, olores, energía térmica y lumínica que rebasen los niveles máximos permitidos por las Normas Oficiales Mexicanas.
 
-Los Ayuntamientos deben incorporar en sus Reglamentos correspondientes, la prevención y control de la contaminación de las emisiones de ruido, vibraciones, olores, energía térmica y lumínica.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+Los Ayuntamientos conforme al ámbito de su competencia deben incorporar en sus Reglamentos correspondientes, la prevención, el control y, en su caso, la sanción de la contaminación de las emisiones de ruido, vibraciones, olores, energía térmica y lumínica.
 
 ### CAPÍTULO VI. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN VISUAL
 
@@ -2544,3 +2548,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los asuntos que a la entrada en vigor de este Decreto se encuentren pendientes respecto de su trámite y substanciación, se sujetarán a las formas y procedimientos de los ordenamientos que les dieron origen.
 
 TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 6 Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 142 DE LA LEY PARA LA PROTECCIÓN DEL MEDIO AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
