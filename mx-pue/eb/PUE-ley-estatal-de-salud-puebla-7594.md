@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2016-08-02"
+last_updated: "2016-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -2243,9 +2243,9 @@ La Secretaría de Salud Pública del Estado, una vez terminada la edificación d
 
 El funcionamiento de los establecimientos a que se refiere el artículo 242 de ésta Ley, deberá acatarse a lo dispuesto por las disposiciones legales aplicables y contará con los servicios de seguridad e higiene que se establezcan por los reglamentos de ésta Ley, otras disposiciones legales aplicables y la Norma Oficial Mexicana.
 
-### CAPITULO XIII
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE AGOSTO DE 2016)</small>
 
-ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA O ESTETICAS Y OTROS SIMILARES.
+### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERÍAS, SALONES DE BELLEZA O ESTETICAS, TATUAJES Y/O PERFORACIONES Y OTROS SIMILARES
 
 ###### ARTICULO 245.
 
@@ -2254,6 +2254,30 @@ Para los efectos de ésta Ley, se entiende por peluquería, salones de belleza y
 ###### ARTICULO 246.
 
 El funcionamiento y personal de los establecimientos señalados en el artículo anterior, deberán apegarse a lo establecido en ésta Ley, otras disposiciones legales aplicables y la Norma Oficial Mexicana correspondiente.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+ARTICULO 246 BIS.- Se entiende por establecimiento de tatuajes y/o perforaciones, al lugar donde se presta el servicio de grabado permanente en la piel humana y/o perforaciones corporales.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+ARTICULO 246 TER.- Los tatuadores, perforadores o micropigmentadores, deberán contar con autorización sanitaria, de acuerdo con los términos de esta ley, la Ley General de Salud y las demás disposiciones aplicables.
+
+Para efectos de lo anterior, se entenderá por:
+
+I. Tatuador: Persona que graba dibujos, figuras o marcas en la piel humana, introduciendo colorantes bajo la epidermis con agujas, punzones u otro instrumento por las punzadas previamente dispuestas;
+
+II. Perforador: Persona que introduce algún objeto decorativo de material de implantación hipoalergénico en la piel o mucosa, con un instrumento punzocortante, y
+
+III. Micropigmentador: Persona que deposita pigmentos en áreas específicas de la piel humana, bajo la epidermis, en la capa capilar de la dermis con agujas accionadas mediante un instrumento manual o electromecánico.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+ARTICULO 246 QUATER.- Queda prohibido realizar tatuajes, micropigmentaciones y perforaciones en puestos semifijos, módulos móviles o ambulantes y a personas menores de 18 años, así como aquellas personas que no se encuentren en pleno goce de sus facultades mentales. En el caso de las acciones antes mencionadas, solo podrá exceptuarse lo anterior a menores de 18 años que estén acompañados de uno de sus padres o tutor previa acreditación de tal carácter, o cuenten con la autorización por escrito.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+ARTICULO 246 QUINQUIES.- El funcionamiento de los establecimientos referidos, deberá cumplir con la presente ley, la Ley General de Salud, su Reglamento, las normas técnicas y las normas oficiales mexicanas correspondientes.
 
 ### CAPITULO XIV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
 
@@ -3220,6 +3244,14 @@ SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto
 P.O. 2 DE AGOSTO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA DENOMINACIÓN DEL CAPÍTULO XIII, DEL TÍTULO DÉCIMO SEGUNDO, Y ADICIONA LOS ARTÍCULOS 246 BIS, 246 TER, 246 QUÁTER Y 246 QUINQUIES, TODOS DE LA LEY ESTATAL DE SALUD".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
