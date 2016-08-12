@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-del-trabajo-del-estado-951
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-16"
-last_updated: "2013-07-16"
+last_updated: "2016-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2016.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 16 de julio de 2013.
 
@@ -101,7 +101,9 @@ VII. Comparecer ante el Congreso del Estado cuando éste así se lo requiera, pr
 
 VIII. Coordinar la integración y establecimiento de las Juntas Locales y Especiales de Conciliación y Arbitraje;
 
-IX. Celebrar convenios de colaboración, en el ámbito de su competencia, con autoridades federales, estatales, municipales y el Distrito Federal, así como con instituciones similares, conforme a la legislación aplicable;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+IX. Celebrar convenios de colaboración, en el ámbito de su competencia, con autoridades federales, estatales y municipales de Coahuila o de otras entidades federativas y la Cuidad de México, así como con instituciones similares, conforme a la legislación aplicable;
 
 X. Instruir sobre la creación e integración de las comisiones, consejos o comités transitorios o permanentes necesarios para la mejor atención de los asuntos a su cargo, en los términos que establezca la ley aplicable;
 
@@ -133,13 +135,19 @@ b) Dirección de Planeación;
 
 c) Dirección de Asuntos Jurídicos;
 
-d) Dirección de Inclusión Laboral;
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
 
-e) Secretaría Particular;
+d) Dirección de Informática;
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+e) Jefatura de Oficina;
 
 f) Secretaría Técnica; y
 
-g) Unidad de Evaluación y Seguimiento
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+g) Unidad de Transparencia.
 
 #### SECCIÓN II. DE LAS FACULTADES Y OBLIGACIONES DEL O LA TITULAR DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN
 
@@ -181,9 +189,61 @@ XVI. Participar en los actos de entrega y recepción de las unidades administrat
 
 XVII. Proponer al o la titular de Setra, la implementación de normas complementarias en materia de control administrativo;
 
-XVIII. Rendir un informe periódico de sus actividades al o la titular de Setra; y
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
 
-XIX. Las demás que le confieran este reglamento, otras disposiciones aplicables, y el o la titular de Setra.
+XVIII. Rendir un informe periódico de sus actividades al o la titular de la Setra;
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XIX. Supervisar la elaboración de los manuales de organización y de políticas y procedimientos administrativos de las unidades de Setra y de sus órganos desconcentrados y descentralizados;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XX. Evaluar las actividades inherentes al manejo de los recursos humanos, financieros y materiales de las unidades administrativas de Setra y de sus órganos desconcentrados y descentralizados;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XXI. Planear, dirigir, controlar y evaluar la organización y funcionamiento de las áreas adscritas a su Dirección;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XXII. Elaborar y presentar ante él o la titular de la Setra el programa anual de trabajo;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XXIII. Coordinar y supervisar la elaboración de los manuales de organización y de políticas y procedimientos administrativos de las unidades administrativas de la Secretaría y de sus órganos desconcentrados y descentralizados;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XXIV. Brindar asesoría y apoyo técnico, para el rediseño de procesos de mejora continua en las áreas administrativas;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XXV. Validar la información relativa a los procesos de Entrega – Recepción;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XXVI. Realizar supervisiones administrativas específicas;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XXVII. Evaluar las actividades inherentes al manejo de los recursos humanos, financieros y materiales de las unidades administrativas de la Secretaría y de sus órganos desconcentrados y descentralizados;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XXVIII. Promover e implementar, en las unidades administrativas, mecanismos de control de bienes y servicios, de acuerdo a la normatividad vigente en la materia;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XXIX. Dar seguimiento a los asuntos encomendados por él o la titular de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XXX. Aplicar y vigilar el cumplimiento de las leyes, normas y políticas vigentes en los procedimientos administrativos; y
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XXXI. Las demás que le confieran este reglamento, otras disposiciones aplicables y él o la titular de la Secretaría.
 
 #### SECCIÓN III. DE LAS FACULTADES Y OBLIGACIONES DEL O LA TITULAR DE LA DIRECCIÓN DE PLANEACIÓN
 
@@ -201,9 +261,17 @@ IV. Apoyar a las unidades administrativas de Setra en la realización de estudio
 
 V. Analizar, procesar y ofrecer información estadística laboral de manera oportuna y veraz, orientada a apoyar, los procesos internos de toma de decisión;
 
-VI. Diseñar en coordinación con las unidades administrativas involucradas de Setra, el sistema de indicadores y evaluación que permita medir el desempeño de las diferentes áreas que integran Setra; y
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
 
-VII. Las demás que le confieran este reglamento, otras disposiciones aplicables, y el o la titular de Setra.
+VI. Diseñar en coordinación con las unidades administrativas involucradas de Setra, el sistema de indicadores y evaluación que permita medir el desempeño de las diferentes áreas que integran Setra;
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+VII. Dirigir y coordinar la planeación, formulación, operación y seguimiento de políticas, programas y acciones, para propiciar la igualdad y la no discriminación en materia de trabajo y previsión social, con la participación que corresponda a otras unidades administrativas de la Setra; y
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+VIII. Las demás que le confieran este reglamento, otras disposiciones aplicables y el o la titular de la Setra.
 
 #### SECCIÓN IV. DE LAS FACULTADES Y OBLIGACIONES DEL O LA TITULAR DE LA DIRECCIÓN DE ASUNTOS JURÍDICOS
 
@@ -241,41 +309,73 @@ XIV. Verificar que Setra cumpla con las disposiciones de la Ley de Acceso a la I
 
 XV. Certificar copias fotostáticas de documentos que obran en los archivos de Setra, siempre y cuando sea procedente su entrega y no esté limitada en términos de la Ley de Acceso a la Información Pública y Protección de Datos Personales del Estado de Coahuila de Zaragoza;
 
-XVI. Rendir un informe periódico de sus actividades al o la titular de Setra; y
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
 
-XVII. Las demás que le confieran este reglamento, otras disposiciones aplicables, y él o la titular de Setra.
+XVI. Rendir un informe periódico de sus actividades al o la titular de Setra;
 
-#### SECCIÓN V. DE LAS FACULTADES Y OBLIGACIONES DEL O LA TITULAR DE LA DIRECCIÓN DE INCLUSIÓN LABORAL
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XVII. Propiciar la celebración de convenios con el sector público, privado, municipios, así como con las organizaciones de trabajadores y de patrones, para promover la igualdad de oportunidades y la no discriminación en el mercado laboral;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XVIII. Proponer y apoyar la actualización del marco jurídico en materia laboral, con perspectiva de género y en beneficio de las personas en situación de riesgo o vulnerabilidad;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XIX. Promover y supervisar, de conformidad con la normatividad aplicable y en apego a los lineamientos establecidos por él o la titular de la Secretaría, el cumplimiento de las disposiciones en relación a la discriminación laboral en la entidad; y
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XX. Las demás que le confieran este reglamento, otras disposiciones aplicables y el o la titular de la Secretaría.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE AGOSTO DE 2016)</small>
+
+#### SECCIÓN V. DE LAS FACULTADES Y OBLIGACIONES DEL O LA TITULAR DE LA DIRECCIÓN DE INFORMÁTICA
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 12.
 
-Corresponde al o la titular de la Dirección de Inclusión Laboral:
+Corresponde al o la titular de la Dirección de Informática:
 
-I. Dirigir y coordinar la planeación, formulación, operación y seguimiento de políticas, programas y acciones, para propiciar la igualdad y la no discriminación en materia de trabajo y previsión social, con la participación que corresponda a otras unidades administrativas de Setra;
+I. Desarrollar el plan anual de informática de la Setra;
 
-II. Concertar con las representaciones de los sectores público, privado y social, acciones orientadas a fomentar la equidad, la igualdad de oportunidades y la no discriminación en materia de trabajo y previsión social, en congruencia con los programas estatales y sectoriales correspondientes;
+II. Planear, implementar y operar la infraestructura de telecomunicaciones que soporte la red de voz y datos de la Setra, asegurando su mantenimiento, crecimiento, operación y seguridad;
 
-III. Participar, en coordinación con las unidades administrativas de Setra, en la ejecución de las acciones que se establezcan en los programas en materia de trabajo y previsión social, tendientes a la igualdad de oportunidades laborales y no discriminación;
+III. Proponer al o la titular de la Setra, la implementación de tecnología de vanguardia en lo que a informática y telecomunicaciones concierne, promoviendo y apoyando los programas de modernización;
 
-IV. Proporcionar apoyo, información, asesoría y asistencia técnica a las organizaciones privadas y sociales dedicadas a atender a sectores de la población que requieran atención especial en materia de trabajo y previsión social, tendientes a la igualdad de oportunidades laborales y a la no discriminación, con la participación que corresponda a otras unidades administrativas de Setra;
+IV. Establecer acorde a la normatividad vigente, sistemas y procedimientos técnicos que en materia de informática y telecomunicaciones procedan;
 
-V. Coordinar, promover y difundir con las instancias competentes, acciones para fomentar el trabajo digno, evitar la discriminación y lograr la igualdad de oportunidades en el mercado laboral;
+V. Administrar el sitio central de información e infraestructura de telecomunicaciones de la Setra;
 
-VI. Propiciar la celebración de convenios con el sector público, privado, municipios, así como con las organizaciones de trabajadores y de patrones, para promover la igualdad de oportunidades y la no discriminación en el mercado laboral;
+VI. Vigilar, regular y asegurar el crecimiento adecuado de los sistemas de información en el ámbito de su competencia;
 
-VII. Impulsar y elaborar estudios e investigaciones en materia de igualdad de oportunidades laborales y no discriminación, a fin de identificar la problemática ocupacional en este rubro y sus posibles soluciones;
+VII. Analizar, evaluar e implementar los proyectos, instalaciones y servicios concernientes a las tecnologías de voz, datos, video e internet, requeridos por la Setra;
 
-VIII. Proponer y apoyar la actualización del marco jurídico en materia laboral, con perspectiva de género y en beneficio de las personas en situación de riesgo o vulnerabilidad;
+VIII. Llevar a cabo la operación, mantenimiento preventivo y correctivo de los sistemas, equipos de cómputo y telecomunicaciones de su competencia;
 
-IX. Promover y supervisar, de conformidad con la normatividad aplicable y en apego a los lineamientos establecidos por el o la titular de Setra, el cumplimiento de las disposiciones en relación a la discriminación laboral en la entidad; y
+IX. Definir modelos de integración y estandarización de plataformas tecnológicas de cómputo y telecomunicaciones para la Setra;
 
-X. Las demás que le confieran este reglamento, otras disposiciones aplicables y el o la titular de Setra.
+X. Mantener y garantizar la seguridad de las bases de datos, los sistemas de información y la infraestructura de telecomunicaciones, estableciendo todas las medidas, mecanismos y procedimientos pertinentes para tal propósito;
 
-#### SECCIÓN VI. DE LAS FACULTADES Y OBLIGACIONES DEL O LA TITULAR DE LA SECRETARÍA PARTICULAR
+XI. Participar como apoyo técnico en la definición de estándares y selección del equipo de cómputo, herramientas de sistemas y telecomunicaciones para la Setra;
+
+XII. Concentrar, resguardar, mantener y operar las bases de datos de los diferentes sistemas de información con que cuenten las unidades administrativas de la Setra, observando las normas, disposiciones, prevenciones, lineamientos y medidas aplicables, con el fin de garantizar la integridad, seguridad y disponibilidad de las mismas;
+
+XIII. Asesorar, encausar y apoyar a las unidades administrativas en materia de informática y telecomunicaciones; y
+
+XIV. Las demás que le confieran este reglamento, otras disposiciones aplicables, y él o la titular de Setra.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE AGOSTO DE 2016)</small>
+
+#### SECCIÓN VI. DE LAS FACULTADES Y OBLIGACIONES DEL O LA TITULAR DE LA JEFATURA DE OFICINA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 13.
 
-Corresponde al o la titular de la Secretaría Particular:
+Corresponde al o la titular de la Jefatura de Oficina:
 
 I. Desempeñar las comisiones que el o la titular de Setra le asigne;
 
@@ -291,9 +391,53 @@ VI. Verificar el cumplimiento de las decisiones acordadas por el o la titular de
 
 VII. Coordinar las reuniones de trabajo que programe el o la titular de Setra con el personal adscrito a la misma, con las dependencias, grupos sociales, personas físicas o morales;
 
-VIII. Rendir un informe periódico de sus actividades al o la titular de Setra; y
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
 
-IX. Las demás que le confieran este reglamento, otras disposiciones aplicables y el o la titular de Setra.
+VIII. Rendir un informe periódico de sus actividades al o la titular de Setra;
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+IX. Atender las relaciones interinstitucionales de Setra e informar al o la titular de la misma lo conducente;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+X. Fungir como enlace con las diferentes unidades administrativas que conforman la Setra según las funciones que la competan;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XI. Atender e investigar las quejas o denuncias presentadas sobre la aplicación y ejecución de los programas de Setra;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XII. Tramitar ante las instancias competentes, las solicitudes que hagan ante las unidades administrativas de Setra, por parte de actores políticos –sociales del estado;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XIII. Atender a las personas físicas, grupos sociales, representantes de instituciones públicas o privadas y demás actores de la sociedad civil, en lo relativo a la operación de los programas sociales de Setra;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XIV. Dar atención y seguimiento a las peticiones y necesidades de la ciudadanía general, en materia de empleo;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XV. Realizar las acciones para acercar, mejorar y fortalecer la relación de Setra con la ciudadanía, a través de una gestión de calidad basada en la participación social;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XVI. Promover la mejora de los procesos de atención a la gestión de trámites para la atención a la gestión de que realizan los ciudadanos en Setra;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XVII. Establecer procesos de simplificación administrativa de los trámites para la atención de peticiones y emisión de respuestas;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XVIII. Orientar a la ciudadanía en los procesos operativos de los programas gubernamentales y su mecánica operativa; y
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XIX. Las demás que le confieran este reglamento, otras disposiciones aplicables y el o la titular de Setra.
 
 #### SECCIÓN VII. DE LAS FACULTADES Y OBLIGACIONES DEL O LA TITULAR DE LA SECRETARÍA TÉCNICA
 
@@ -327,35 +471,39 @@ XII. Rendir un informe periódico de sus actividades al o la titular de Setra; y
 
 XIII. Las demás que le confieran este reglamento, otras disposiciones aplicables y el o la titular de Setra.
 
-#### SECCIÓN VIII. DE LAS FACULTADES Y OBLIGACIONES DEL O LA TITULAR DE LA UNIDAD DE EVALUACIÓN Y SEGUIMIENTO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE AGOSTO DE 2016)</small>
+
+#### SECCIÓN VIII. DE LAS FACULTADES Y OBLIGACIONES DEL O LA TITULAR DE LA UNIDAD DE TRANSPARENCIA
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 15.
 
-Corresponde al o la titular de la Unidad de Evaluación y Seguimiento:
+Corresponde al o la titular de la Unidad de Transparencia:
 
-I. Planear, dirigir, controlar y evaluar la organización y funcionamiento de las áreas adscritas a esta unidad;
+I. Conocer y atender los procesos de acceso a la información que contempla la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza, los cuales van desde la presentación de la solicitud de información ante la Secretaría, hasta emitir la respuesta correspondiente y en su caso canalizar a los solicitantes con la autoridad competente;
 
-II. Elaborar y presentar ante el o la titular de Setra el programa anual de trabajo;
+II. Actuar como representante en la Secretaría en los recursos de revisión que se promuevan en su contra, de conformidad con la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza;
 
-III. Coordinar y supervisar la elaboración de los manuales de organización y de políticas y procedimientos administrativos de las unidades administrativas de Setra y de sus órganos desconcentrados y descentralizados;
+III. Dar cumplimiento a las resoluciones que, en su caso, emita la autoridad competente con motivo de los recursos de revisión en materia de acceso a la información pública y protección de datos personales, que sean promovidos en contra de la Secretaría;
 
-IV. Brindar asesoría y apoyo técnico, para el rediseño de procesos de mejora continua en las áreas administrativas;
+IV. Trabajar en coordinación con las unidades administrativas adscritas a la Secretaría, a fin de garantizar la seguridad de los datos personales conforme a lo que establece la legislación de la materia;
 
-V. Validar la información relativa a los procesos de entrega - recepción de las unidades administrativas de Setra;
+V. Capacitar al personal de las unidades administrativas de la Secretaría para la emisión de respuestas a solicitudes en materia de acceso a la información pública y protección de datos personales;
 
-VI. Realizar supervisiones administrativas que le sean encomendadas por el o la titular de Setra;
+VI. Recibir, atender y sistematizar las solicitudes de acceso a la información pública y protección de datos personales de la Secretaría;
 
-VII. Evaluar las actividades inherentes al manejo de los recursos humanos, financieros y materiales de las unidades administrativas de Setra y de sus órganos desconcentrados y descentralizados;
+VII. Difundir en los términos y por los medios establecidos en la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza, la información pública que está obligada a proporcionar la Secretaría;
 
-VIII. Promover e implementar, en las unidades administrativas, mecanismos de control de bienes y servicios, de acuerdo a la normatividad vigente en la materia;
+VIII. Vigilar que las unidades administrativas adscritas a la Secretaría garanticen, en el ámbito de su competencia, el acceso a la información pública y la protección a los datos personales en los términos de las leyes de la materia;
 
-IX. Dar seguimiento a los asuntos encomendados por el o la titular de Setra;
+IX. Ejectutar (sic) las obligaciones conferidas a las Unidades de Transparencia por la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza;
 
-X. Aplicar y vigilar el cumplimiento de las leyes, normas y políticas vigentes en los procedimientos administrativos;
+X. Mantener actualizado el portal de transparencia de la Secretaría y de las Juntas Locales de Conciliación y Arbitraje;
 
-XI. Rendir un informe periódico de sus actividades al o la titular de Setra; y
+XI. Coordinarse con las unidades administrativas y órganos desconcentrados de la Secretaría, a efecto de que éstos proporcionen la información referente a la actualización del portal de transparencia en tiempo y forma, para el debido cumplimiento de las leyes en materia de trasparencia; y
 
-XII. Las demás que le confieran este reglamento, otras disposiciones aplicables y el o la titular de Setra.
+XII. Las demás que le atribuyan las disposiciones legales aplicables, así como aquellas que le confiera la o el titular de la Secretaría.
 
 ### CAPÍTULO QUINTO. DE LAS SUBSECRETARÍAS Y DIRECCIONES GENERALES Y DE ÁREA
 
@@ -417,15 +565,17 @@ XI. Las demás que le confieran este reglamento, otras disposiciones aplicables,
 
 #### SECCIÓN I. DE SU INTEGRACIÓN
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 18.
 
 La Subsecretaría de Empleo y Productividad en el Trabajo contará con las siguientes áreas:
 
-a) Dirección General del Servicio Nacional de Empleo Coahuila;
+a) Dirección de Vinculación;
 
-b) Dirección de Productividad Laboral; y
+b) Dirección de Apoyos Económicos; y
 
-c) Coordinación de Atención y Relaciones Interinstitucionales.
+c) Dirección Financiera del Programa de Apoyo al Empleo.
 
 #### SECCIÓN II. DE LAS FACULTADES Y OBLIGACIONES (SIC) SU TITULAR
 
@@ -457,83 +607,179 @@ XI. Fomentar en coordinación con la Subsecretaría de Justicia Laboral, la mode
 
 XII. Promover y difundir los estudios, políticas, líneas de acción y resultados de los programas que se instrumenten en materia de capacitación;
 
-XIII. Rendir un informe periódico de sus actividades al o la titular de Setra, e incluir en generales; y
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
 
-XIV. Las demás que le confieran este reglamento, otras disposiciones aplicables, y él o la titular de Setra.
+XIII. Rendir un informe periódico de sus actividades al o la titular de Setra, e incluir en generales;
 
-#### SECCIÓN III. DE LAS FACULTADES Y OBLIGACIONES DEL O LA TITULAR DE LA DIRECCIÓN GENERAL DEL SERVICIO NACIONAL DE EMPLEO COAHUILA
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XIV. Fungir como titular del Servicio Nacional de Empleo Coahuila, a fin de coordinarlo y supervisarlo, en el ámbito de su competencia, en términos de lo dispuesto por la Ley Federal del Trabajo y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XV. Operar el Programa de Apoyo al Empleo y sus subprogramas, de acuerdo a sus reglas de operación, así como los programas que con el mismo objeto implemente la Federación y el Estado y convenios que se celebren para tal efecto;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XVI. Promover y asegurar la adecuada y oportuna vinculación de la población objetivo del Servicio Nacional de Empleo Coahuila, con los requerimientos de mano de obra del aparato productivo, a través de la aplicación de políticas, planes y programas a efecto de aumentar la empleabilidad de la población desempleada y subempleada en el mercado de trabajo, con especial atención a las personas con mayores dificultades para incorporarse en un empleo productivo y coordinar los recursos asignados para contribuir al desarrollo del mercado laboral;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XVII. Ejercer y administrar, en los términos de las disposiciones aplicables, el presupuesto creado, destinado y asignado por la Administración Pública Federal y la Estatal, para la ejecución del Programa de Apoyo al Empleo y demás, cuyas partidas y recursos se orienten hacia el cumplimiento del objeto del Servicio Nacional de Empleo Coahuila;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XVIII. Facilitar, promover y establecer mecanismos de vinculación entre los oferentes y demandantes del mercado laboral, el respaldo económico para la búsqueda de empleo;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XIX. Coordinar el desarrollo de los proyectos de colocación y vinculación de empleo de los grupos vulnerables;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XX. Facilitar a la población desempleada a subempleada el acceso a esquema de apoyo para fortalecer sus capacidades productivas;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XXI. Promover el desarrollo del personal que labora en el Servicio Nacional de Empleo Coahuila y administrar de manera transparente los recursos asignados;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XXII. Apoyar la formulación y aplicación de políticas, programas y líneas de acción, para ampliar las oportunidades de empleo de la población tanto urbana como rural;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XXIII. Proporcionar asesoría y orientación ocupacional para la colocación de los buscadores de empleo, desempleados y subempleados del Estado;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XXIV. Elaborar y proponer proyectos para la implementación de medidas extraordinarias, tendientes a la superación de crisis o situaciones de contingencia laboral, y evaluar los resultados de la aplicación de dichas medidas en la reactivación del empleo productivo;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XXV. Participar, en coordinación con las unidades administrativas correspondientes, en la elaboración de análisis y propuestas de acción dirigidas a la vinculación entre los procesos de fomento a la productividad laboral con los requerimientos del aparato productivo;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XXVI. Elaborar estudios de prospectiva laboral, para apoyar la formulación de los programas de productividad laboral a mediano y largo plazo;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XXVII. Coordinar la participación de Setra con las demás dependencias, entidades y los sectores productivos, en la formulación de programas y proyectos en materia de productividad, derivados del Plan Estatal de Desarrollo;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XXVIII. Elaborar estudios de prospectiva laboral e indicadores para fomentar la productividad de los trabajadores;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XXIX. Promover y apoyar las evaluaciones de impacto, operación, consistencia y resultados en materia de fomento a la productividad de los trabajadores;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XXX. Compilar, promover y difundir las mejores prácticas en materia de fomento a la productividad de los trabajadores; y
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XXXI. Las demás que le confiera este reglamento, otras disposiciones aplicables, y el o la titular de la Setra.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE AGOSTO DE 2016)</small>
+
+#### SECCIÓN III. DE LAS FACULTADES Y OBLIGACIONES DEL O LA TITULAR DE LA DIRECCIÓN DE VINCULACIÓN
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 20.
 
-Corresponde al o la titular de la Dirección General del Servicio Nacional de Empleo Coahuila:
+Corresponde al o la titular de la Dirección de Vinculación:
 
-I. Operar el Programa de Apoyo al Empleo y sus modalidades, de acuerdo a sus reglas de operación, así como los programas que con el mismo objeto implemente la federación y el estado y convenios que se celebren para tal efecto;
+I. Desarrollar las actividades necesarias para facilitar la vinculación entre oferentes y demandantes del mercado laboral, mediante la prestación de los Servicios de Vinculación Laboral;
 
-II. Promover y asegurar la adecuada y oportuna vinculación de la población objetivo del Servicio Nacional de Empleo Coahuila, con los requerimientos de mano de obra del aparato productivo, a través de la aplicación de políticas, planes y programas a efecto de aumentar la empleabilidad de la población desempleada y subempleada en el mercado de trabajo, con especial atención a las personas con mayores dificultades para incorporarse en un empleo productivo y coordinar los recursos asignados para contribuir al desarrollo del mercado laboral;
+II. Programar, coordinar, supervisar, promover y evaluar el desarrollo de los Servicios de Vinculación que posibilitan la colocación entre los que se incluyen acciones de: Bolsa de trabajo, Portal del Empleo, ferias de empleo;
 
-III. Ejercer y administrar, en los términos de las disposiciones aplicables, el presupuesto creado, destinado y asignado por la administración pública federal y la estatal, para la ejecución del Programa de Apoyo al Empleo y demás, cuyas partidas y recursos se orienten hacia el cumplimiento del objeto del Servicio Nacional de Empleo Coahuila;
+III. Programar, coordinar, supervisar, promover y evaluar el desarrollo de los Servicios de Vinculación laboral que posibilitan la colocación en el extranjero que incluyen: Mecanismos de Movilidad laboral y atención a Trabajadores Agrícolas Temporales México-Canadá;
 
-IV. Facilitar, promover y establecer mecanismos de vinculación entre los oferentes y demandantes del mercado laboral, el respaldo económico para la búsqueda de empleo;
+IV. Programar, coordinar, supervisar, promover y evaluar el desarrollo de los Servicios de Atención complementaria que incluyen: Servicio nacional de Empleo por Télefóno, Observatorio Laboral, Talleres para Buscadores de Empleo; Sistema Estatal de Empleo, Centros de Intermediación Laboral, Periódico de ofertas de empleo y Revista Informativa;
 
-V. Coordinar el desarrollo de los proyectos de colocación y vinculación de empleo de grupos vulnerables;
+V. Obtener y sistematizar la información generada por los diferentes agentes que intervengan en el mercado de trabajo;
 
-VI. Facilitar a la población desempleada o subempleada el acceso a esquemas de apoyo para fortalecer sus capacidades productivas;
+VI. Generar acciones que permitan atender con eficiencia y oportunidad a una mayor cantidad de población usuaria;
 
-VII. Promover el desarrollo del personal que labora en el Servicio Nacional de Empleo Coahuila y administrar de manera transparente los recursos asignados;
+VII. Elaborar propuestas y llevar a cabo nuevas acciones para la colocación de buscadores de empleo;
 
-VIII. Apoyar la formulación y aplicación de políticas, programas y líneas de acción, para ampliar las oportunidades de empleo de la población tanto urbana como rural;
+VIII. Evaluar los alcances y la utilidad de la información que se genere y difunda;
 
-IX. Proporcionar asesoría y orientación ocupacional para la colocación de los buscadores de empleo, desempleados y subempleados del estado;
+XIX (SIC). Coordinar la elaboración de los estudios y análisis de las características y comportamientos de los mercados de trabajo por rama de actividad y grupo ocupacional, estimando el volumen y sentido de crecimiento;
 
-X. Elaborar y proponer proyectos para la implementación de medidas extraordinarias, tendientes a la superación de crisis o situaciones de contingencia laboral, y evaluar los resultados de la aplicación de dichas medidas en la reactivación del empleo productivo; y
+X. Proponer y evaluar nuevas fuentes de información sobre el mercado laboral;
 
-XI. Las demás que le confieran este reglamento, otras disposiciones aplicables, y él o la titular de Setra.
+XI. Promover en forma ágil y eficiente la vinculación de los solicitantes de empleo con las oportunidades de trabajo generadas por el sector productivo;
 
-#### SECCIÓN IV. DE LAS FACULTADES Y OBLIGACIONES DEL O LA TITULAR DE LA DIRECCIÓN DE PRODUCTIVIDAD LABORAL
+XII. Participar en el diseño de los procedimientos que permitan vincular las oportunidades de empleo y la demanda de él;
+
+XIII. Apoyar, en el ámbito de su competencia, a la población desempleada en el proceso de búsqueda de empleo mediante la operación de acciones permanentes que le permitan su reincorporación al mercado de trabajo en el menor tiempo posible;
+
+XIV. Organización de las Ferias de Empleo;
+
+XV. Apoyar, en el ámbito de su competencia, la realización de talleres para buscadores de empleo;
+
+XVI. Entregar de oportuna los diferentes tipos de reportes, conforme a los procedimientos normativos aplicables; y
+
+XVII. Las demás que le confieran este reglamento, otras disposiciones aplicables y el o la titular de Setra.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE AGOSTO DE 2016)</small>
+
+#### SECCIÓN IV. DE LAS FACULTADES Y OBLIGACIONES DEL O LA TITULAR DE LA DIRECCIÓN DE APOYOS ECONÓMICOS
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 21.
 
-Corresponde al o la titular de la Dirección de Productividad Laboral:
+Corresponde al o la titular de la Dirección de Apoyo Económicos:
 
-I. Participar, en coordinación con las unidades administrativas correspondientes, en la elaboración de análisis y propuestas de acción dirigidas a la vinculación entre los procesos de fomento a la productividad laboral con los requerimientos del aparato productivo;
+I. Elaborar el anteproyecto del Programa de Trabajo Anual del área, para la ejecución de las acciones determinadas en el ámbito de su competencia y someterlo a la consideración de la Subsecretaría de Empleo y Productividad en el Trabajo, para los efectos que correspondan;
 
-II. Impulsar y operar en coordinación con la Secretaría del Trabajo y Previsión Social los programas de apoyo a la productividad laboral y las acciones previstas en la Ley Federal del Trabajo;
+II. Llevar a cabo las acciones necesarias para impulsar la participación y complementariedad entre los diferentes factores que intervengan en el mercado de trabajo;
 
-III. Proponer programas gubernamentales de financiamiento, asesoría, apoyo y certificación para el aumento de la productividad de los trabajadores;
+III. Coordinar el desarrollo de sus actividades, así como establecer los medios de comunicación e información necesarias, con aquellas dependencias, entidades, instituciones, organizaciones públicas y privadas, empresariales o sindicales, que presten sus servicios como centros de capacitación;
 
-IV. Coordinar la participación de Setra con las demás dependencias, entidades, sindicatos, sectores productivo y educativo en la formulación de programas y proyectos en materia de productividad, derivados del Plan Estatal de Desarrollo;
+IV. Participar, en la esfera de su competencia, en el diseño de los procedimientos que permitan vincular las oportunidades de empleo y la demanda de él;
 
-V. Compilar, promover y difundir las mejores prácticas en materia de fomento a la productividad de los trabajadores en el estado; y
+V. Organizar y supervisar el desarrollo de las acciones de capacitación que en el marco del Programa de Apoyo al Empleo que se instrumenten por la Administración Pública federal o estatal;
 
-VI. Las demás que le confieran este reglamento, otras disposiciones aplicables y él o la titular de Setra.
+VI. Coordinar las acciones tendientes a reclutar a la población desempleada en los procesos de capacitación que se realicen en el marco de los programas de empleo y de otros programas que instrumenten la Federación o el Estado;
 
-#### SECCIÓN V. DE LAS FACULTADES Y OBLIGACIONES DEL O LA TITULAR DE LA COORDINACIÓN DE ATENCIÓN Y RELACIONES INTERINSTITUCIONALES
+VII. Fungir como instancia de enlace en las actividades que realice la población desempleada con el fin de fomentar y financiar el equipamiento de proyectos productivos viables y rentables;
+
+VIII. Aplicar las encuestas que resulten necesarias para detectar las necesidades de capacitación de la mano de obra que demanda la estructura productiva de cada una de las regiones de la entidad;
+
+IX. Apoyar a la población jornalera agrícola en materia de capacitación y traslado de sus lugares de origen hacia las zonas receptoras en que serán ocupados, contribuyendo al mejoramiento de las condiciones bajo las cuales se da la movilidad laboral de este grupo de población;
+
+X. Brindar la asesoría y el apoyo técnico que en materia de capacitación y actualización, le sea requerida por aquellos grupos que se integren en las microempresas; y
+
+XI. Las demás que le confieran este reglamento, otras disposiciones aplicables, y él o la titular de Setra;
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE AGOSTO DE 2016)</small>
+
+#### SECCIÓN V. DE LAS FACULTADES Y OBLIGACIONES DEL O LA TITULAR DE LA DIRECCIÓN FINANCIERA
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 22.
 
-Corresponde al o la titular de la Coordinación de Atención y Relaciones Interinstitucionales:
+Corresponde al o la titular de la Dirección Financiera:
 
-I. Atender las relaciones interinstitucionales de Setra e informar al o la titular de la misma lo conducente;
+I. Ejecutar y coordinar las acciones administrativas relacionadas con los recursos financieros, humanos y materiales, mediante la optimización y aplicación de las políticas y procedimientos autorizados;
 
-II. Fungir como enlace con las diferentes unidades administrativas que conforman la Setra según las funciones que le competan;
+II. Elaborar, en el ámbito de su competencia, un Programa de Trabajo Anual para la ejecución de los recursos financieros federales y estatales correspondientes y someterlo a la consideración del o la titular de la Subsecretaría de Empleo y Productividad en el Trabajo;
 
-III. Atender e investigar las quejas o denuncias presentadas sobre la aplicación y ejecución de los programas de Setra;
+III. Efectuar la liberación, ejercicio y control de los recursos financieros aportados por la Federación y el Estado para el desarrollo del (sic) Programas de Empleo, u otros que sean implementados, de acuerdo a los métodos y procedimientos que marca la normatividad federal en la materia y demás disposiciones aplicables;
 
-IV. Tramitar ante las instancias competentes, las solicitudes que hagan ante las unidades administrativas de Setra, por parte de actores políticos-sociales del estado;
+IV. Elaborar informes financieros contables de forma mensual, de manera mensual respecto de los recursos federales y estatales asignados, para las autoridades estatales, en los términos que determine la normatividad correspondiente;
 
-V. Atender a las personas físicas, grupos sociales, representantes de instituciones públicas o privadas, y demás actores de la sociedad civil, en la (sic) relativo a la operación de los programas sociales de Setra;
+V. Elaborar, en los términos de las disposiciones aplicables, el cierre de ejercicio anual del Programa de Empleo, para los trámites de información correspondientes;
 
-VI. Dar atención y seguimiento a las peticiones y necesidades de la ciudadanía en general, en materia de empleo;
-
-VII. Realizar las acciones para acercar, mejorar y fortalecer la relación de Setra con la ciudadanía, a través de una gestión de calidad basada en la participación social;
-
-VIII. Promover la mejora de las (sic) procesos de atención a la gestión de trámites que realizan los ciudadanos en Setra;
-
-IX. Establecer procesos de simplificación administrativa de los trámites para la atención de peticiones y emisión de respuestas;
-
-X. Orientar a la ciudadanía en los procesos operativos de los programas gubernamentales y su mecánica operativa; y
-
-XI. Las demás que le confieran este reglamento, otras disposiciones aplicables y él o la titular de Setra.
+VI. Las demás que le confieran este reglamento, otras disposiciones aplicables y él o la titular de Setra.
 
 ### CAPÍTULO SÉPTIMO. DE LA SUBSECRETARÍA DE JUSTICIA LABORAL
 
@@ -543,7 +789,9 @@ XI. Las demás que le confieran este reglamento, otras disposiciones aplicables 
 
 La Subsecretaría de Justicia Laboral contará con las siguientes áreas:
 
-a) Coordinación de Normatividad; y
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+a) Dirección de Normatividad; y
 
 b) Dirección del Trabajo.
 
@@ -571,15 +819,31 @@ VIII. Atender las consultas que en materia laboral, le sean planteadas por las d
 
 IX. Dirigir, coordinar y vigilar la Inspección del Trabajo y la Procuraduría de la Defensa del Trabajo del Estado.
 
-X. Rendir un informe periódico de sus actividades al o la titular de Setra; y
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
 
-XI. Las demás que le confieran este reglamento, otras disposiciones aplicables, y él o la titular de Setra.
+X. Rendir un informe periódico de sus actividades al o la titular de Setra;
 
-#### SECCIÓN III. DE LAS FACULTADES Y OBLIGACIONES DEL O LA TITULAR DE LA COORDINACIÓN DE NORMATIVIDAD
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XI. Coordinar, promover y difundir con las instancias competentes, acciones para fomentar el trabajo digno, evitar la discriminación y lograr la igualdad de oportunidades en el mercado laboral;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XII. Concertar con las representaciones de los sectores público, privado y social, acciones orientadas a fomentar la equidad, la igualdad de oportunidades y la no discriminación en materia de trabajo, en congruencia con los programas estatales y sectoriales correspondientes; y
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XIII. Las demás que le confieran este reglamento, otras disposiciones aplicables y el o la titular de Setra.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE AGOSTO DE 2016)</small>
+
+#### SECCIÓN III. DE LAS FACULTADES Y OBLIGACIONES DEL O LA TITULAR DE LA DIRECCIÓN DE NORMATIVIDAD
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 25.
 
-Corresponde al o la titular de la Coordinación de Normatividad las siguientes facultades y obligaciones:
+Corresponde al o la titular de la Dirección de Normatividad las siguientes facultades y obligaciones:
 
 I. Realizar o en su caso comisionar, las visitas de inspección ordinarias o extraordinarias a las Juntas Locales de Conciliación y Arbitraje del estado, que determine el o la titular de Setra o el o la titular de la Subsecretaría de Justicia Laboral;
 
@@ -748,3 +1012,15 @@ LA SECRETARIA DEL TRABAJO
 FELÍCITAS MARGARITA MOLINA DUQUE
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE MODIFICA EL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. La Secretaría del Trabajo, en un término de 90 días a partir de la entrada en vigor del presente decreto, deberá formular y proponer al Ejecutivo del Estado para su expedición, las reformas correspondientes a los manuales de organización respectivos.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
