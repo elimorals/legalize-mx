@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-sesiones-del-consejo-general-y-comisiones-del-808
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-15"
-last_updated: "2016-04-28"
+last_updated: "2016-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80856&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2011-03-28"
 ---
 # REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN EL G.O. DE 16 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE AGOSTO DE 2016.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 15 de abril de 2011.
 
@@ -880,7 +882,9 @@ II. Las y los representantes de partido serán integrantes con derecho a voz, co
 
 III. Las y los representantes de candidatas o candidatos con acreditación a partir de su registro y exclusivamente durante el proceso electoral, contarán con derecho a voz, con excepción de las Comisiones de Asociaciones Políticas y Fiscalización y no conformarán quórum, y
 
-IV. Las invitadas e invitados permanentes, durante los procesos electorales, se integrarán a los trabajos de las Comisiones de Organización y Geoestadística Electoral y de Educación Cívica y Capacitación, así como a los trabajos de las Comisiones Provisionales previstas en el artículo 52 del Código, sólo con derecho a voz, su intervención únicamente estará vinculada al proceso electoral y no contarán para efectos del quórum.
+> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
+
+IV. Las invitadas e invitados permanentes, durante los procesos electorales, se integrarán a los trabajos de las Comisiones de Organización Electoral y Geoestadística y de Educación Cívica, así como a los trabajos de las Comisiones Provisionales previstas en el artículo 52 del Código, sólo con derecho a voz, su intervención únicamente estará vinculada al proceso electoral y no contarán para efectos del quórum.
 
 > <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
 
@@ -1307,3 +1311,15 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Reglamento.
 TERCERO. Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en el sitio de Internet www.iedf.org.mx
 
 CUARTO. Remítase para su publicación a la Gaceta Oficial del Distrito Federal, dentro del plazo de los 10 días hábiles contados a partir de su aprobación.
+
+G.O. 12 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL, POR EL QUE EN CUMPLIMIENTO A LOS ACUERDOS IDENTIFICADOS CON LAS CLAVES ACU-41-16 Y ACU-42-16 RESPECTIVAMENTE, SE APRUEBAN REFORMAS AL REGLAMENTO INTERIOR; REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES; ASÍ COMO AL REGLAMENTO EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, TODOS ELLOS DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL".]
+
+PRIMERO. La reforma al presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Reglamento.
+
+TERCERO. Publíquese de inmediato en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx
+
+CUARTO. Remítase para su publicación a la Gaceta Oficial de la Ciudad de México, dentro del plazo de diez días hábiles contados a partir de su aprobación.
