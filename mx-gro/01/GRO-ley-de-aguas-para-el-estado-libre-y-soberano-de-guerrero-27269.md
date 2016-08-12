@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-aguas-para-el-estado-libre-y-soberano-de-guerrero-27269"
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-03"
-last_updated: "2016-04-29"
+last_updated: "2016-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE AGUAS PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 574
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 3 de enero de 2003.
 
@@ -825,6 +825,14 @@ XLI.- USUARIO: La persona física o moral a la que se le presta los servicios p�
 
 La Comisión de Agua Potable, Alcantarillado y Saneamiento del Estado de Guerrero es un Organismo Público Descentralizado, con personalidad jurídica y patrimonio propios; tiene a su cargo las atribuciones que le confiere la presente Ley relacionadas con la ejecución, operación, regulación y fiscalización de los servicios públicos.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 236 PUBLICADO EN EL P.O. 12 DE AGOSTO DE 2016, PÁGINA 33.]</small>
+
+> <small>(ADICIONADO P.O. 12 DE AGOSTO DE 2016)</small>
+
+ARTICULO 4 BIS.- …
+
+La Comisión, además tiene el ejercicio de las facultades y el despacho de los asuntos que le competen en términos del artículo 6 de la Ley de Aguas para el Estado Libre y Soberano de Guerrero número 574, y podrá asesorar a los ayuntamientos que lo soliciten en materia de supervisión y verificación de obra en materia hidráulica que estos realicen.
+
 ###### ARTICULO 5.
 
 La estructura orgánica y operativa de la Comisión estará integrada por:
@@ -850,6 +858,10 @@ II.- Elaborar y mantener actualizado en coordinación con los Ayuntamientos y Or
 IV.- Solicitar a las autoridades competentes la expropiación, ocupación temporal, total o parcial de bienes o la limitación de los derechos de dominio, para el cumplimiento de sus objetivos en los términos de Ley;
 
 V.- Establecer con la participación de los sectores social, público y privado una nueva cultura del cuidado y uso del agua, en su preservación, reutilización y pago de los servicios públicos, mediante el fomento de la educación en el buen uso del agua como un recurso vital y escaso;
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+Asimismo, podrá convenir con los tres sectores de Gobierno, su participación en actividades de preservación del medio ambiente, que redunde en beneficio del recurso del agua.
 
 VI.- Participar en la prevención y control de la contaminación de las aguas;
 
@@ -937,47 +949,49 @@ XLVII.- Emitir resoluciones de los actos administrativos y fiscales que conozca 
 
 XLVIII.- Las demás que le confieran esta Ley y otros ordenamientos aplicables; así como las que en materia de agua le sean transferidas por la Federación al Gobierno del Estado, conforme a los convenios de colaboración o de coordinación que al efecto se celebren.
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 7.
 
-El Consejo de Administración será el Organo de Gobierno de la Comisión y estará integrado con los siguientes miembros:
+El Consejo de Administración es el Órgano de Gobierno de la Comisión, que será presidido por el titular del Ejecutivo del Estado, quien designará un suplente con todas las facultades y estará integrado además por los titulares de:
 
-I.- El Secretario de Desarrollo Urbano y Obras Públicas, quien lo presidirá;
+I.- La Secretaría de Desarrollo Urbano, Obras Públicas y Ordenamiento Territorial;
 
-II.- El Secretario de Desarrollo Rural;
+II.- La Secretaría de planeación y Desarrollo Regional;
 
-III.- El Secretario de Desarrollo Social;
+III.- La Secretaría de Finanzas y Administración;
 
-IV.- Secretario de Salud;
+IV.- La Secretaría de Desarrollo Social;
 
-V.- El Secretario de Finanzas y Administración;
+V.- La Secretaría de salud;
 
-VI.- El Contralor General del Estado;
+VI.- La Secretaría de Agricultura, Ganadería, Pesca y Desarrollo Rural;
 
-VII.- El Procurador de Protección Ecológica;
+VII.- La Secretaría de Medio Ambiente y Recursos Naturales;
 
-VIII.- El Presidente del Consejo Consultivo de la Comisión;
+VIII.- La Secretaría de Contraloría y Transparencia Gubernamental; y
 
-IX.- Un representante de los Organismos Operadores del Estado; y
+IX.- El Presidente del Consejo Consultivo de la Comisión;
 
-X.- Un representante por cada Municipio donde la Comisión preste directamente los servicios públicos.
+Cada representante propietario podrá designar a su respectivo suplente.
 
-Por cada representante propietario se designará al respectivo suplente.
+El presidente del Consejo de Administración podrá invitar a las juntas del Consejo de Administración, con voz pero sin voto a representantes de las dependencias federales, estatales o municipales, cuando se trate de algún asunto que por su competencia o interés deban de conocer.
 
-El representante a que se refiere la fracción IX, será designado por mayoría de votos de los directores de esos organismos.
+Asimismo podrá designar de entre los individuos de prestigio, hasta tres miembros del órgano de Gobierno.
 
-Los cargos en el Consejo de Administración serán de carácter honorífico.
+Los cargos en el Consejo de administración serán honoríficos por lo que no recibirán emolumentos o compensación alguna.
 
-Se podrá invitar a las sesiones del Consejo de Administración, con voz pero sin voto a representantes de las dependencias federales, estatales o municipales, así como a representantes de los usuarios que formen parte del Consejo Consultivo, cuando se trate algún asunto que por su competencia deban de conocer.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 8.
 
-Las sesiones del Consejo de Administración podrán ser:
+Las juntas del Consejo de Administración podrán ser:
 
 I.- Ordinarias que habrán de celebrarse trimestralmente; y
 
 II.- Extraordinarias cuando los asuntos a tratar así lo requieran a petición del Director General o de dos o más Consejeros.
 
-El Director General participará en las sesiones del Consejo de Administración, con voz pero sin voto y fungirá como Secretario Técnico del mismo.
+El Director General participará en las sesiones de Consejo de Administración, con voz pero sin voto y fungirá como Secretario Técnico del mismo.
 
 ###### ARTICULO 9.
 
@@ -987,7 +1001,9 @@ Las sesiones serán convocadas y presididas por el Presidente y para que sean v�
 
 El Consejo de Administración tendrá las atribuciones siguientes:
 
-I.- Representar legalmente a la Comisión a través del Director General, en términos del artículo 15 de esta Ley;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+I.- Otorgar y conferir al Director General la representación legal de la Comisión, con las más amplias facultades generales y las especiales que requieran cláusula específica conforme a la ley, para pleitos y cobranzas, actos de administración y de dominio previo acuerdo unánime del Consejo de Administración, con facultad para sustituir o delegar su poder a terceros; así como para articular y absolver posiciones;
 
 II.- Aprobar las acciones de planeación estratégica para la prestación de los servicios públicos, que le presente el Director General;
 
@@ -1005,7 +1021,9 @@ VIII.- Autorizar a la Comisión para que gestione la contratación de los crédi
 
 IX.- Conocer el patrimonio de la Comisión y vigilar su adecuado manejo;
 
-X.- Aprobar el proyecto de presupuesto anual de ingresos y egresos de la Comisión;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+X.- Discutir, aprobar o modificar el Plan de Trabajo Anual y el presupuesto de la Comisión, presentado por el director General;
 
 XI.- Autorizar previo análisis, los proyectos de inversión de la Comisión;
 
@@ -1013,7 +1031,9 @@ XII.- Analizar y aprobar en su caso, los estados financieros y los informes que 
 
 XIII.- Promover el establecimiento de un sistema financiero integral para lograr la autosuficiencia de los servicios públicos;
 
-XIV.- Aprobar y expedir el Reglamento Interior de la Comisión; así como los manuales de organización, de procedimientos y de servicios al público;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XIV.- Aprobar el órganograma y el Reglamento Interior; así como los manuales de organización, de procedimientos y de servicios al público de la Comisión;
 
 XV.- Aprobar a propuesta del Director General, la designación de las empresas que realicen auditorías externas de obra y a quien las coordine;
 
@@ -1027,7 +1047,9 @@ XIX.- Emitir opinión sobre la procedencia de la cancelación de concesiones o r
 
 XX.- Verificar los programas y acciones que la Comisión y los Organismos Operadores implanten y ejecuten en materia de desarrollo de recursos humanos y servicio civil de carrera;
 
-XXI.- Opinar sobre la estructura orgánica de la Comisión; y
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XXI.- Designar, a propuesta del Director General, a los servidores públicos de segundo y tercer nivel de la Comisión; para que ocupen cargos con las dos jerarquías administrativas inferiores a las de aquel, aprobar la fijación de sus sueldos y prestaciones de acuerdo a los lineamientos establecidos por la Secretaría de Finanzas y Administración; y
 
 XXII.- Las demás que conforme al Reglamento Interior de la Comisión le correspondan.
 
@@ -1055,13 +1077,17 @@ VII.- Analizar y emitir propuestas y sugerencias sobre los Programas de Agua Pot
 
 VIII.- Las demás que le señale el Reglamento Interior de la Comisión.
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 13.
 
-El Director General de la Comisión, será designado y removido por el Gobernador del Estado, a propuesta del Consejo de Administración.
+El director General de la comisión, será nombrado y removido por el Gobernador del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 14.
 
-Para ser Director General se requiere:
+El nombramiento del Director General de la Comisión, deberá recaer en personas que reúnan además de los requisitos que establece el artículo 18 de la ley número 690 de Entidades Paraestatales del Estado de Guerrero, los siguientes:
 
 I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
@@ -1083,7 +1109,9 @@ Para la celebración de actos de dominio sobre inmuebles requerirá de la autori
 
 II.- Fungir como Secretario Técnico del Consejo de Administración;
 
-III.- Someter a la aprobación del Consejo de Administración el proyecto del Reglamento Interior de la Comisión;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+III.- Someter a la aprobación del Consejo de Administración el Organograma estructural y funcional, los proyectos del Reglamento Interior, así como los manuales de organización de procedimientos y de servicios al público de la Comisión;
 
 IV.- Someter las cuotas y tarifas a la aprobación del Consejo de Administración, cuando los servicios públicos sean prestados directamente por la Comisión;
 
@@ -1091,7 +1119,9 @@ V.- Solicitar que se publiquen en el Periódico Oficial del Gobierno del Estado,
 
 VI.- Ejecutar los acuerdos del Consejo de Administración;
 
-VII.- Convocar a sesiones del Consejo de Administración, por instrucciones del Presidente;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+VII.- Solicitar al Presidente o Secretario Técnico del Consejo de Administración, convoque a reunión extraordinaria cuando las circunstancias lo ameriten.
 
 VIII.- Rendir al Consejo de Administración el informe anual de gestión de la Comisión, los informes sobre el cumplimiento de acuerdos del órgano de gobierno, los resultados de los estados financieros, el avance en las metas establecidas en el Programa de Agua Potable, Alcantarillado y Saneamiento y del cumplimiento de los programas de obras y erogaciones en las mismas; y
 
@@ -1119,13 +1149,17 @@ VII.- Los demás bienes y derechos que adquiera por cualquier título legal.
 
 ### CAPITULO III. DE LA VIGILANCIA Y CONTROL DE LA COMISION
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 17.
 
-La vigilancia y control de la Comisión, compete a la Contraloría General del Estado y son ejercidas por el Comisario Público.
+La vigilancia y el control de la Comisión, compete a la Secretaría de Contraloría y Transparencia Gubernamental y son ejercidas por el Comisario Público.
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 18.
 
-El Comisario Público, será designado y removido por el Contralor General del Estado.
+El Comisario Público, será nombrado y removido por el Secretario de Contraloría y Transparencia Gubernamental.
 
 ###### ARTICULO 19.
 
@@ -1147,9 +1181,11 @@ VII.- Vigilar el cumplimiento de las normas técnicas a las que debe sujetarse l
 
 VIII.- Verificar la observancia de las disposiciones legales por parte de los servidores públicos de la Comisión; y
 
-IX.- Las demás que le confieran el Contralor General del Estado y otros ordenamientos jurídicos aplicables.
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
 
-Para el debido cumplimiento de sus atribuciones el Comisario Público, se podrá auxiliar del personal técnico y administrativo que requiera de la Comisión, con la aprobación del Consejo de Administración.
+IX.- Las demás que le confieran el Secretario de Contraloría y Transparencia Gubernamental y otros ordenamientos jurídicos aplicables.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 12 DE AGOSTO DE 2016)</small>
 
 ## TITULO TERCERO. DE LA PLANEACION ESTRATEGICA PARA LA PRESTACION DE LOS SERVICIOS PUBLICOS
 
@@ -1575,15 +1611,15 @@ XI.- Acordar la extensión de los servicios públicos a otros Municipios, previa
 
 XII.- Opinar sobre la estructura orgánica del Organismo Operador Municipal;
 
-XIII.- Aprobar y expedir el Reglamento Interior del Organismo Operador Municipal, así como los manuales de organización, de procedimientos y de servicios al público; y (sic)
+XIII.- Aprobar y expedir el Reglamento Interior del Organismo Operador Municipal, así como los manuales de organización, de procedimientos y de servicios al público; y
 
 > <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 XIV.- Autorizar por el voto de las dos terceras partes de los consejeros presentes en sesión de consejo, las ampliaciones, disminuciones y transferencias de recursos en las partidas del presupuesto anual autorizado, a propuesta formulada por el Director;
 
-> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
 
-XV.- Autorizar por el voto de las dos terceras partes de los consejeros presentes en sesión de consejo, previa propuesta formulada por el Director, los convenios, adquisiciones, contratos, obras, o actos jurídicos análogos que el organismo Operador Municipal quiera efectuar, cuando estos superen los 10,000 salarios mínimos vigentes;
+XV.- Autorizar por el voto de las dos terceras partes de los consejeros presentes en sesión de consejo, previa propuesta formulada por el Director, los convenios, adquisiciones, contratos, obras, o actos jurídicos análogos que el Organismo Operador Municipal quiera efectuar, cuando estos superen los 10,000 días del valor diario de la Unidad de Medida y Actualización;
 
 > <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
@@ -1643,7 +1679,7 @@ II.- Ser mayor de treinta años de edad;
 
 III.- Contar con un título y cédula profesional afín a la materia;
 
-IV.- Tener experiencia técnica y administrativa en materia de aguas de cuando menos tres años, anteriores a la fecha de su nombramiento; y (sic)
+IV.- Tener experiencia técnica y administrativa en materia de aguas de cuando menos tres años, anteriores a la fecha de su nombramiento; y
 
 V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión;
 
@@ -1719,7 +1755,7 @@ V.- Vigilar ilimitadamente en cualquier tiempo las operaciones del Organismo Ope
 
 VI.- Vigilar el cumplimiento de las normas técnicas a las que debe sujetarse el Organismo Operador Municipal;
 
-VII.- Verificar la observancia de las disposiciones legales por parte de los servidores públicos del Organismo Operador Municipal; y (sic)
+VII.- Verificar la observancia de las disposiciones legales por parte de los servidores públicos del Organismo Operador Municipal; y
 
 VIII.- Las demás que, en materia de control gubernamental, le confiera el Consejo de Administración;
 
@@ -1883,9 +1919,11 @@ El Director del Organismo Operador Intermunicipal tendrá las mismas atribucione
 
 ### CAPITULO VII. DE LA VIGILANCIA Y CONTROL DE LOS ORGANISMOS OPERADORES INTERMUNICIPALES
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 75.
 
-Los Organismos Operadores Intermunicipales contarán con un Comisario Público, el cual será designado por la Contraloría General del Estado y desempeñará las funciones que le asigne el Contralor General del Estado.
+Los Organismos Operadores Intermunicipales contarán con un Comisario Público, el cual será designado por la Secretaría de Contraloría y Transparencia Gubernamental y desempeñará las funciones que le asigne por ésta secretaría.
 
 ## TITULO SEXTO. DE LA PARTICIPACION DE LOS SECTORES SOCIAL Y PRIVADO EN LA PRESTACION DE LOS SERVICIOS PUBLICOS
 
@@ -2759,9 +2797,11 @@ III.- Las condiciones económicas del infractor; y
 
 IV.- La reincidencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 173.
 
-Las multas serán equivalentes en días de salario mínimo general vigente en el área geográfica, donde se cometan las infracciones previstas en el artículo 169 de esta Ley, conforme a lo siguiente:
+Las multas serán equivalentes en días del valor diario de la Unidad de Medida y Actualización, donde se cometan las infracciones previstas en el artículo 169 de esta Ley, conforme a lo siguiente:
 
 I.- De veinte a cincuenta, tratándose de las infracciones a que se refieren las fracciones III, IV y VI;
 
@@ -2851,9 +2891,11 @@ VI.- Incumplir con lo establecido en el segundo párrafo del artículo 114 de es
 
 VII.- Cualquier otra infracción a esta Ley o a su Reglamento que no esté expresamente prevista.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 183.
 
-Las infracciones a que se refiere el artículo anterior, serán sancionadas por la Comisión o el Ayuntamiento respectivo, con multas equivalentes en días de salario mínimo general vigente en el área geográfica, donde se cometan dichas infracciones, conforme a lo siguiente:
+Las infracciones a que se refiere el artículo anterior, serán sancionadas por la Comisión o el Ayuntamiento respectivo, con multas equivalentes del valor diario de la Unidad de Medida y Actualización, donde se cometan dichas infracciones, conforme a lo siguiente:
 
 I.- De quinientos a dos mil, tratándose de las fracciones I, IV y VI;
 
@@ -2873,9 +2915,11 @@ Las multas que se señalan en el artículo anterior tienen carácter fiscal, su 
 
 La Comisión o el Ayuntamiento respectivo notificarán al presunto infractor de los hechos motivo del procedimiento y le otorgará un plazo de diez días hábiles para que presente las pruebas y manifieste por escrito lo que a su derecho convenga. Transcurrido dicho plazo, la autoridad competente dictará la resolución que corresponda, en un plazo no mayor de treinta días hábiles.
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 185.
 
-Las violaciones a la presente Ley cometidas por los servidores públicos serán sancionadas cuando así proceda, dependiendo de la gravedad de las mismas por su superior jerárquico, o en su caso, por la Contraloría General del Estado, de acuerdo a lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Guerrero.
+Las violaciones a la presente Ley cometidas por los servidores públicos serán sancionadas cuando así proceda, dependiendo de la gravedad de las mismas por su superior jerárquico, o en su caso, por la Secretaría de Contraloría y Transparencia Gubernamental, de acuerdo a lo previsto en la Ley número 695 de Responsabilidades de los Servidores Públicos del Estado y los Municipios de Guerrero.
 
 ### CAPITULO II. DEL RECURSO DE INCONFORMIDAD
 
@@ -3036,3 +3080,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero y en la página de internet de este Poder Legislativo.
+
+P.O. 12 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 236 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 574”.]
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTICULO SEGUNDO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero.
