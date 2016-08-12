@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-proteccion-ambiental-y-desarrollo-65915"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-17"
-last_updated: "2016-07-18"
+last_updated: "2016-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA LA PROTECCIÓN AMBIENTAL Y DESARROLLO SUSTENTABLE PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 17 de diciembre de 2008.
 
@@ -409,7 +409,7 @@ La Autoridad Municipal podrá celebrar con los sectores públicos, social y priv
 
 ###### Artículo 12.
 
-El Programa Ecológico Municipal es un instrumento de política ambiental que será expedido por Republicano (sic) Ayuntamiento y tendrá por objeto inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable.
+El Programa Ecológico Municipal es un instrumento de política ambiental que será expedido por Republicano Ayuntamiento y tendrá por objeto inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable.
 
 ###### Artículo 13.
 
@@ -521,7 +521,7 @@ III. Parque Urbano
 
 ###### Artículo 19.
 
-Los corredores biológicos riparios municipales, son áreas de vegetación no alteradas significativamente por la acción del ser humano, o que requieren ser preservados o restaurados a lo largo de cuerpo (sic) de agua, permanentes o temporales, con el objeto de permitir el flujo genético entre individuos de flora o fauna de dos o más regiones o ecosistemas.
+Los corredores biológicos riparios municipales, son áreas de vegetación no alteradas significativamente por la acción del ser humano, o que requieren ser preservados o restaurados a lo largo de (sic) cuerpo de agua, permanentes o temporales, con el objeto de permitir el flujo genético entre individuos de flora o fauna de dos o más regiones o ecosistemas.
 
 ###### Artículo 20.
 
@@ -647,7 +647,7 @@ f) Deberá establecer un programa apropiado para la prevención de cualquier con
 
 ###### Artículo 28.
 
-Los servicios públicos municipales de limpia, mercados, panteones, tránsitos (sic) y obras públicas, deberán cumplir con las disposiciones de este Reglamento en materia de prevención y control de la contaminación ambiental
+Los servicios públicos municipales de limpia, mercados, panteones, tránsitos y obras públicas, deberán cumplir con las disposiciones de este Reglamento en materia de prevención y control de la contaminación ambiental
 
 ###### Artículo 29.
 
@@ -859,7 +859,7 @@ Las personas o empresas dedicadas a la limpieza de fosas sépticas y renta de sa
 
 ###### Artículo 63.
 
-La Autoridad Municipal promoverá que todos los establecimientos incorporen tecnologías que permitan la transformación y (sic) de la biomasa que generan y su aprovechamiento para la generación de biogás y composta.
+La Autoridad Municipal promoverá que todos los establecimientos incorporen tecnologías que permitan la transformación y de la biomasa que generan y su aprovechamiento para la generación de biogás y composta.
 
 ###### Artículo 64.
 
@@ -893,7 +893,7 @@ Los criterios señalados en el artículo anterior, deberán considerarse en:
 
 I. El ordenamiento territorial de los asentamientos humanos y la planeación del desarrollo urbano;
 
-II. La operación de los sistemas de limpia, manejo y disposición final de residuos sólidos urbanos y; (sic)
+II. La operación de los sistemas de limpia, manejo y disposición final de residuos sólidos urbanos y;
 
 III. El uso de sistemas de reciclamiento de desechos sólidos que permitan disminuir su cantidad, a través de la separación y la clasificación, así como en la operación de otros sistemas de reciclaje, y;
 
@@ -917,7 +917,7 @@ VI. Establecer y mantener actualizado el registro de los grandes generadores de 
 
 VII. Verificar el cumplimiento de las disposiciones de la Ley General para la Prevención y Gestión Integral de los Residuos, normas oficiales mexicanas y demás ordenamientos jurídicos en materia de residuos sólidos urbanos e imponer las sanciones y medidas de seguridad que resulten aplicables;
 
-VIII. Participar en el control de los residuos peligrosos generados o manejados por micro generadores, así como imponer las sanciones que procedan, de acuerdo con la normatividad aplicable y lo que establezcan los convenios que se suscriban con Gobierno (sic) del Estado;
+VIII. Participar en el control de los residuos peligrosos generados o manejados por micro generadores, así como imponer las sanciones que procedan, de acuerdo con la normatividad aplicable y lo que establezcan los convenios que se suscriban con Gobierno del Estado;
 
 IX. Coadyuvar en la prevención de la contaminación de sitios con materiales y residuos peligrosos y su remediación, y;
 
@@ -963,9 +963,75 @@ Los residuos sólidos no peligrosos provenientes de los laboratorios clínicos, 
 
 Los mercados, centrales de abasto, puestos fijos, semifijos y ambulantes, deberán contar con depósitos para almacenar los residuos que se generen de acuerdo con lo estipulado en el presente reglamento y enviarlos de manera adecuada a su disposición final.
 
-### CAPÍTULO V. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN VISUAL Y LA PRODUCIDA POR OLORES, RUIDOS, VIBRACIONES O ENERGÍA TÉRMICA Y LUMÍNICA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE AGOSTO DE 2016)</small>
 
-### CAPÍTULO VI. CONTINGENCIAS AMBIENTALES
+### CAPÍTULO IV BIS. DEL PAGO DEL IMPUESTO PREDIAL EN ESPECIE
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+###### Artículo 76 Bis.
+
+El impuesto predial podrá ser pagado total o parcialmente en especie, siempre y cuando el material o materiales entregados a la persona física o moral con la que el Municipio suscriba convenio, tengan como finalidad el fomento a la protección del medio ambiente, mediante materiales que puedan ser reciclados o reusados.
+
+El listado de los materiales que podrán ser susceptibles para el pago total o parcial del impuesto predial, deberá ser propuesto por la Secretaría a la Comisión de Servicios Públicos y Medio Ambiente del Republicano Ayuntamiento y aprobado por el Republicano Ayuntamiento. Dicho listado deberá ser publicado en el Periódico Oficial del Estado de Nuevo León, en la Gaceta Municipal de San Pedro Garza García, Nuevo León y en uno de los periódicos de mayor circulación del Municipio.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+###### Artículo 76 Bis 1.
+
+El Municipio deberá celebrar los convenios necesarios de compra venta con personas físicas o morales, sobre los materiales a reciclar o reusar que se encuentren en el listado de materiales. Dichos convenios tendrán una vigencia máxima de 2-dos años, pudiendo ser renovado por un término igual, a solicitud de la parte interesada, siempre que se haya desempeñado de manera eficiente y en cumplimiento a lo establecido en el presente capítulo y en el convenio respectivo.
+
+Los convenios deberán ser publicados en el Periódico Oficial del Estado de Nuevo León en un plazo no mayor a 30-treinta días hábiles a partir de su celebración.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+###### Artículo 76 Bis 2.
+
+El Municipio, a través de la Comisión de Servicios Públicos y Medio Ambiente del Republicano Ayuntamiento, deberá emitir una Convocatoria Pública con las bases, lineamientos y requisitos propuestos por la Secretaría, que deberá de cumplir toda persona física o moral que se encuentre interesada en la compra de los materiales establecidos en el listado respectivo.
+
+La Convocatoria Pública deberá establecer un periodo mínimo de recepción de solicitudes de 10-diez días hábiles y ser difundida por lo menos en el Periódico Oficial del Estado de Nuevo León, en el Portal de Internet del Municipio y en uno de los diarios de mayor circulación.
+
+La Secretaría verificará que las solicitudes cumplan con lo establecido en el presente Reglamento y en la Convocatoria Pública y, en caso de que alguna solicitud no cumpla con los requisitos al momento de su entrega, deberá ser requerida para que en un plazo no mayor a 5-cinco días naturales haga lo conducente, caso contrario se desechará.
+
+Una vez concluido el plazo para recibir las solicitudes, la Secretaría enviará el expediente íntegro a la Comisión de Servicios Públicos y Medio Ambiente del Republicano Ayuntamiento, el cual realizará el análisis correspondiente y seleccionar a aquellas personas físicas o morales que ofrezcan las mejores condiciones para el Municipio y, posteriormente, ser aprobado por mayoría simple por el Republicano Ayuntamiento.
+
+Una vez, concluido el procedimiento anterior, y durante toda la vigencia del convenio al efecto celebrado, las empresas podrán ser auditadas por la Secretaría de la Contraloría y Transparencia Municipal.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+###### Artículo 76 Bis 3.
+
+La Secretaría, la Secretaría de Finanzas y Tesorería y la Secretaría de la Contraloría y Transparencia Municipal, en el respectivo ámbito de sus atribuciones, deberán vigilar el debido cumplimiento a lo establecido en los convenios celebrados por el Municipio y a lo dispuesto en el presente capítulo.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+###### Artículo 76 Bis 4.
+
+El Municipio, las personas físicas o morales que hayan celebrado el respectivo convenio, deberán establecer y dar a conocer el o los lugares y horarios en los que se recibirán los materiales a los que se hace alusión en el presente capítulo.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+###### Artículo 76 Bis 5.
+
+Al momento de la recepción del material o materiales por parte de la (sic) personas físicas o morales con quien se tenga el respectivo convenio, serán pesados y se le otorgará el valor monetario correspondiente de conformidad con los valores de mercado que rijan el día en que se lleve a cabo cada operación, o bien de conformidad a lo establecido en el convenio respectivo, debiéndose expedir el comprobante de pago en especie por cada una de dichas operaciones.
+
+El comprobante de pago deberá de contener como mínimo el lugar y fecha de su emisión, el total del material entregado por peso según su tipo, el monto total de la operación y los elementos de seguridad que se estimen necesarios por el Municipio.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+###### Artículo 76 Bis 6.
+
+Derivado de las operaciones señaladas en el artículo 76 Bis 5, las personas físicas o morales con las que se haya celebrado el convenio respectivo, deberán de entregar al Municipio la misma cantidad señalada en los comprobantes de pago expedidos a los contribuyentes y de conformidad a los (sic) establecido en el convenio respectivo.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+###### Artículo 76 Bis 7.
+
+El comprobante de pago en especie se hará efectivo al momento de entregarse en las oficinas de la Secretaría de Finanzas y Tesorería del Municipio para acreditarse el pago total o parcial del impuesto predial.
+
+En caso de que el contribuyente no cuente con adeudos, se acreditará en contribuciones futuras.
+
+### CAPÍTULO V. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN VISUAL Y LA PRODUCIDA POR OLORES, RUIDOS, VIBRACIONES O ENERGÍA TÉRMICA Y LUMÍNICA
 
 ###### Artículo 77.
 
@@ -1031,7 +1097,7 @@ Se prohíbe la irradiación de calor fuera de los límites del establecimiento, 
 
 Los establecimientos cuyas actividades causen contaminación lumínica, deberán contar con las instalaciones y equipos necesarios para su prevención y control.
 
-### CAPÍTULO VII. DEL REGISTRO DE EMISIONES Y TRANSFERENCIA DE CONTAMINANTES
+### CAPÍTULO VI. CONTINGENCIAS AMBIENTALES
 
 ###### Artículo 87.
 
@@ -1059,7 +1125,7 @@ Los responsables de fuentes de contaminación estarán obligados a cumplir con l
 
 Cuando los desequilibrios sobrepasen el territorio del Municipio o se haga necesaria la acción exclusiva de la Federación o del Estado, la Dirección de Medio Ambiente aplicará las medidas necesarias, entre tanto interviene la autoridad competente.
 
-### CAPÍTULO I. DE LA CONSERVACIÓN Y PROTECCIÓN DE LA FLORA Y FAUNA SILVESTRES Y LA DASONOMÍA URBANA
+### CAPÍTULO VII. DEL REGISTRO DE EMISIONES Y TRANSFERENCIA DE CONTAMINANTES
 
 ###### Artículo 92.
 
@@ -1089,7 +1155,7 @@ II Datos de identificación del establecimiento sujeto a reporte de competencia 
 
 III Datos administrativos, en los cuales se expresarán: fecha de inicio de operaciones, participación de capital, Cámara a la cual se encuentra afiliado, en su caso, datos de la Compañía Matriz o Corporativo al cual pertenece, número de personal empleado, y períodos de trabajo;
 
-IV La información técnica general del establecimiento, en el (sic) cual se incluya el diagrama de operación y funcionamiento que describa el proceso productivo desde la entrada del insumo y su transformación, hasta que se produzca la emisión, descarga, generación de residuos o transferencia total o parcial de contaminantes, así como los datos de insumo, producto, subproductos y consumo energético empleado;
+IV La información técnica general del establecimiento, en el cual se incluya el diagrama de operación y funcionamiento que describa el proceso productivo desde la entrada del insumo y su transformación, hasta que se produzca la emisión, descarga, generación de residuos o transferencia total o parcial de contaminantes, así como los datos de insumo, producto, subproductos y consumo energético empleado;
 
 V La relativa a emisiones de contaminantes a la atmósfera, en la cual se incluyan las características de las maquinarias, equipo o actividad que las genere, describiendo el punto de generación y el tipo de emisión, así como las características de las chimeneas y ductos de descarga de dichas emisiones. En el caso de contaminantes atmosféricos cuya emisión este regulada, deberán reportarse además los resultados de los muestreos y análisis realizados. La información a que se refiere esta fracción se reportará también por contaminante;
 
@@ -1115,7 +1181,7 @@ I En formato impreso, a la cual se deberá anexar un disco magnético que conten
 
 II En archivo electrónico de respaldo de información, contenida en un disco magnético, anexando la impresión de la siguiente información; Datos de identificación y firma del promoverte (sic), nombre de la persona física, o denominación o razón social de la empresa, registro federal de contribuyentes y domicilio u otros medios para oír y recibir notificaciones.
 
-Cuando los establecimientos sujetos a reportes modifiquen sus procesos, se (sic) aumenten o disminuyan su producción, o amplíen sus instalaciones, se (sic) deberán actualizar la información presentada a través del formato de reporte, en un plazo no mayor a 15 días hábiles.
+Cuando los establecimientos sujetos a reportes modifiquen sus procesos, se aumenten o disminuyan su producción, o amplíen sus instalaciones, se deberán actualizar la información presentada a través del formato de reporte, en un plazo no mayor a 15 días hábiles.
 
 ###### Artículo 98.
 
@@ -1131,9 +1197,7 @@ La información a que hace mención este artículo será integrada al sistema de
 
 ## TÍTULO CUARTO. REPOSICIÓN DE ARBOLADO
 
-### CAPÍTULO II. DE LA REPOSICIÓN DE ARBOLADO Y DE LA ENTREGA-RECEPCIÓN DE ÁRBOLES
-
-> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+### CAPÍTULO I. DE LA CONSERVACIÓN Y PROTECCIÓN DE LA FLORA Y FAUNA SILVESTRES Y LA DASONOMÍA URBANA
 
 ###### Artículo 99.
 
@@ -1337,7 +1401,9 @@ En el caso de rellenos o cortes para nivelación de terrenos o terracerías, el 
 
 Antes de iniciar cualquier construcción y durante su proceso se deberá habilitar un dique provisional de contención que impida el arrastre de aguas abajo de cualquier material.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LA REPOSICIÓN DE ARBOLADO Y DE LA ENTREGA-RECEPCIÓN DE ÁRBOLES
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 116.
 
@@ -1393,9 +1459,7 @@ Los árboles que sean entregados en reposición deberán estar sanos, instalados
 
 ## TÍTULO QUINTO. DEL CONSEJO CIUDADANO PARA LA PROTECCION AMBIENTAL Y DESARROLLO SUSTENTABLE
 
-### CAPÍTULO II. DE LA CONFORMACIÓN DEL CONSEJO CIUDADANO PARA LA PROTECCIÓN AMBIENTAL Y DESARROLLO SUSTENTABLE
-
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 121.
 
@@ -1415,7 +1479,9 @@ II. Emitir opinión respecto a las iniciativas de reglamentos en materia ecológ
 
 III. Opinar respecto a los programas de protección ambiental y desarrollo sustentable cuando se le solicite.
 
-### CAPÍTULO III. DE LAS OBLIGACIONES DEL CONSEJO CIUDADANO PARA LA PROTECCIÓN AMBIENTAL Y DESARROLLO SUSTENTABLE
+### CAPÍTULO II. DE LA CONFORMACIÓN DEL CONSEJO CIUDADANO PARA LA PROTECCIÓN AMBIENTAL Y DESARROLLO SUSTENTABLE
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
 ###### Artículo 124.
 
@@ -1467,13 +1533,13 @@ La duración del cargo de los integrantes del Consejo Ciudadano para la Protecci
 
 El Republicano Ayuntamiento podrá ratificar las designaciones de éstos cuantas veces lo crea conveniente.
 
-### CAPÍTULO I. INSPECCIÓN Y VIGILANCIA
+### CAPÍTULO III. DE LAS OBLIGACIONES DEL CONSEJO CIUDADANO PARA LA PROTECCIÓN AMBIENTAL Y DESARROLLO SUSTENTABLE
 
 ###### Artículo 133.
 
 El Consejo Ciudadano para la Protección Ambiental y Desarrollo Sustentable, deberá reunirse cuando menos 1-una vez al mes, previa convocatoria del Presidente del Consejo o del Secretario Ejecutivo. La convocatoria deberá realizarse cuando menos 24-veinticuatro horas antes de la celebración de la reunión.
 
-Una vez conformado el Consejo en comento, y durante un periodo de 1-un año a partir de su integración, los integrantes de éste no deberán acumular más de 5-cinco faltas injustificadas so pena de la sustitución del cargo al (sic) que desempeñan, con aviso previo por escrito.
+Una vez conformado el Consejo en comento, y durante un periodo de 1-un año a partir de su integración, los integrantes de éste no deberán acumular más de 5-cinco faltas injustificadas so pena de la sustitución del cargo al que desempeñan, con aviso previo por escrito.
 
 ###### Artículo 134.
 
@@ -1517,11 +1583,11 @@ Los cargos de los integrantes del Consejo Ciudadano para la Protección Ambienta
 
 ###### Artículo 143.
 
-El Presidente del Consejo o Secretario Ejecutivo no podrán ejercer otra función similar en materia ambiental en un Consejo Consultivo Ciudadano distinto al que pertenece (sic).
+El Presidente del Consejo o Secretario Ejecutivo no podrán ejercer otra función similar en materia ambiental en un Consejo Consultivo Ciudadano distinto al que pertenece.
 
 ## TÍTULO SEXTO. MEDIDAS DE SEGURIDAD, INFRACCIONES, SANCIONES, INSPECCIÓN Y VIGILANCIA Y PROCEDIMIENTO ADMINISTRATIVO
 
-### CAPÍTULO II. DEL INICIO DEL PROCEDIMIENTO ADMINISTRATIVO
+### CAPÍTULO I. INSPECCIÓN Y VIGILANCIA
 
 ###### Artículo 144.
 
@@ -1595,7 +1661,7 @@ Se entregará copia del acta al interesado o a la persona que atiende la diligen
 
 La autoridad que expida la orden de visita podrá en todo momento solicitar el auxilio de la fuerza pública para llevar a cabo el cumplimiento de sus atribuciones.
 
-### CAPÍTULO III. DE LAS INFRACCIONES Y SANCIONES
+### CAPÍTULO II. DEL INICIO DEL PROCEDIMIENTO ADMINISTRATIVO
 
 ###### Artículo 150.
 
@@ -1629,7 +1695,7 @@ En los casos en que proceda, se dará vista al Ministerio Público Investigador 
 
 Las notificaciones de los actos o resoluciones que expidan las autoridades administrativas municipales, en el ámbito de su competencia, conforme a las disposiciones de la Ley Estatal y de este Reglamento, se efectuarán conforme a lo establecido en el Código de Procedimientos Civiles del Estado de Nuevo León, vigente.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 158.
 
@@ -1841,6 +1907,8 @@ Cuando la gravedad de la infracción lo amerite, la autoridad competente solicit
 
 ## TÍTULO SÉPTIMO. MEDIO DE DEFENSA DE LOS PARTICULARES
 
+### CAPÍTULO ÚNICO
+
 ###### Artículo 171.
 
 Contra los actos o resoluciones dictados con la aplicación de las disposiciones de este Reglamento procederá el Recurso de Reconsideración.
@@ -2048,3 +2116,11 @@ P.O. 18 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE "SE APRUEBA DAR INICIO A LA CONSULTA PÚBLICA RESPECTO DE LA INICIATIVA DE ADICIÓN, DEL REGLAMENTO PARA LA PROTECCIÓN AMBIENTAL Y DESARROLLO SUSTENTABLE DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, N. L.".]
 
 ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 12 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE APRUEBA LA INICIATIVA POR LA CUAL SE ADICIONA EL CAPITULO IV BIS DENOMINADO DEL PAGO DEL IMPUESTO PREDIAL EN ESPECIE, ASÍ COMO LOS ARTÍCULOS 76 BIS, 76 BIS 1, 76 BIS 2, 76 BIS 3, 76 BIS 4, 76 BIS 5, 76 BIS 6 Y 76 BIS 7 AL REGLAMENTO PARA LA PROTECCIÓN AMBIENTAL Y DESARROLLO SUSTENTABLE DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, N.L.”]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Secretaría de Servicios Públicos y Medio Ambiente del Municipio de San Pedro Garza García, Nuevo León, deberá publicar en un plazo no mayor a 30-treinta días naturales contados a partir del día siguiente de la entrada en vigor de la presente reforma, el listado de materiales que serán susceptibles a ser utilizados para el pago total o parcial del impuesto predial y, posteriormente, el Municipio, a través de la Comisión de Servicios Públicos y Medio Ambiente del Republicano Ayuntamiento, deberá emitir la Convocatoria Pública en un plazo no mayor a 30-treinta días naturales contados a partir de la publicación del listado de materiales que serán susceptibles a ser utilizados para el pago total o parcial del impuesto predial.
