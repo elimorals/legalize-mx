@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2016-08-04"
+last_updated: "2016-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2016.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -1261,7 +1261,9 @@ VI.- Desarrollo Social;
 
 VII.- Comunicaciones e Infraestructura;
 
-VIII.- Transportes;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+VIII.- Transportes y Movilidad.
 
 IX.- Salud;
 
@@ -2526,5 +2528,19 @@ SEGUNDO. La Comisión General de Medio Ambiente, Recursos Naturales y Cambio Cli
 TERCERO. Los asuntos en trámite presentados o turnados a la Comisión General de Medio Ambiente, pasarán a ser competencia de la Comisión General de Medio Ambiente, Recursos Naturales y Cambio Climático.
 
 CUARTO. Todos los actos suscritos por la Comisión General de Medio Ambiente y/o su Presidencia a la entrada en vigor del presente Decreto, sus efectos se entenderán referidos a la Comisión General de Medio Ambiente, Recursos Naturales y Cambio Climático.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 123 DE LA LEY ORGÁNICA DE (SIC) PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, ASÍ MISMO REFORMA LA FRACCIÓN VIII Y SUS INCISOS B) Y C) DEL ARTÍCULO 48, Y SE ADICIONA EL INCISO D) A LA FRACCIÓN VIII DEL ARTÍCULO 48 DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Comisión General de Transportes y Movilidad estará conformada por los mismos integrantes de la Comisión de Transportes que cambia de denominación.
+
+TERCERO. Los asuntos en trámite presentados o turnados a la Comisión General de Transportes, pasaran a ser competencia de la Comisión General de Transportes y Movilidad.
+
+CUARTO. Todos los actos suscritos por la Comisión General de Transportes y/o su Presidencia a la entrada en vigor del presente Decreto, sus efectos se entenderán referidos a la Comisión General de Transportes y Movilidad.
 
 QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
