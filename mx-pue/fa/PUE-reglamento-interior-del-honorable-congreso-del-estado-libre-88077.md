@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-honorable-congreso-del-estado-libre-880
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-26"
-last_updated: "2016-08-04"
+last_updated: "2016-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2016.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 26 de marzo de 2012.
 
@@ -467,15 +467,25 @@ b) Adecuar la legislación en la materia para que permita al Poder Ejecutivo que
 
 c) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
 
-VIII.- TRANSPORTES:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+VIII.- TRANSPORTES Y MOVILIDAD.
 
 a) Impulsar un marco jurídico que regule el transporte en la Entidad, con la finalidad de establecer los mecanismos necesarios para el eficaz desarrollo en la materia;
 
-b) Proponer a las Dependencias y Organismos el establecimiento de vínculos de intercambio de información, análisis de sistema y servicios de transporte eficiente, competitivo y seguro; y
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
 
-c) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+b) Proponer a las Dependencias y Organismos el establecimiento de vínculos de intercambio de información y análisis de sistemas y servicios de transporte y movilidad;
 
-IX.-SALUD:
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+c) El estudio y análisis de los asuntos relacionadas (sic) con la legislación aplicable en materia de transportes y movilidad de competencia estatal; y
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+d) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+IX.- SALUD:
 
 a) Desarrollar acciones que contribuyan a fortalecer el derecho a la salud como una necesidad básica, mediante la revisión y actualización del marco jurídico aplicable en la materia;
 
@@ -3138,5 +3148,19 @@ SEGUNDO. La Comisión General de Medio Ambiente, Recursos Naturales y Cambio Cli
 TERCERO. Los asuntos en trámite presentados o turnados a la Comisión General de Medio Ambiente, pasarán a ser competencia de la Comisión General de Medio Ambiente, Recursos Naturales y Cambio Climático.
 
 CUARTO. Todos los actos suscritos por la Comisión General de Medio Ambiente y/o su Presidencia a la entrada en vigor del presente Decreto, sus efectos se entenderán referidos a la Comisión General de Medio Ambiente, Recursos Naturales y Cambio Climático.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 123 DE LA LEY ORGÁNICA DE (SIC) PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, ASÍ MISMO REFORMA LA FRACCIÓN VIII Y SUS INCISOS B) Y C) DEL ARTÍCULO 48, Y SE ADICIONA EL INCISO D) A LA FRACCIÓN VIII DEL ARTÍCULO 48 DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Comisión General de Transportes y Movilidad estará conformada por los mismos integrantes de la Comisión de Transportes que cambia de denominación.
+
+TERCERO. Los asuntos en trámite presentados o turnados a la Comisión General de Transportes, pasaran a ser competencia de la Comisión General de Transportes y Movilidad.
+
+CUARTO. Todos los actos suscritos por la Comisión General de Transportes y/o su Presidencia a la entrada en vigor del presente Decreto, sus efectos se entenderán referidos a la Comisión General de Transportes y Movilidad.
 
 QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
