@@ -4,7 +4,7 @@ identifier: "GRO-codigo-civil-del-estado-libre-y-soberano-de-guerrero-numero-509
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-02"
-last_updated: "2016-07-08"
+last_updated: "2016-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 358
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el martes 2 de marzo de 1993.
 
@@ -3101,13 +3101,25 @@ III. A percibir la porción hereditaria que fija la ley en caso de intestado, o 
 
 IV. A ejercer los derechos que este Código concede a los hijos póstumos.
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 539.
 
-Cuándo el padre y la madre que no vivan juntos reconozcan al hijo, en el mismo acto, convendrán cuál de los dos ejercerá la custodia del hijo y, en consecuencia, con quien de ellos habitará; y en caso de que no lo hicieren, el juez de primera instancia del lugar, oyendo a los padres, resolverá lo que creyere más conveniente a los intereses del menor.
+Cuándo el padre y la madre que no vivan juntos reconozcan al hijo, en el mismo acto, convendrán cuál de los dos ejercerá la custodia del menor y, en consecuencia, con quien de ellos habitará; y en caso de que no lo hicieren, el juez oyendo a los padres, a las hijas o hijos, cuando fuere posible, así como a cualquier otro interesado que acredite plenamente el interés jurídico conforme a la ley, resolverá en función del interés superior de las niñas y niños sujetos a tutela, velando en todo momento por la integridad física y mental de los menores, atendiendo las circunstancias específicas que se encaminen a proteger el desarrollo de la familia y a salvaguardar el sano desarrollo de los menores.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+En caso de que el tutor con la guarda y custodia tuviera una nueva pareja con la cual el menor tuviera que cohabitar, el Juez podrá solicitar prueba de psicología familiar a la pareja de los padres, con el propósito de garantizar el interés superior de las niñas, niños y adolescentes, así como la seguridad del menor de la guarda, custodia y aún de la convivencia.
+
+El juzgador deberá tomar en consideración las condiciones específicas de la hija o del hijo, así como su interés superior, para acordar su intervención en el proceso, siempre con una actitud orientada a favorecer la eficacia de su derecho de participación.
 
 ###### Artículo 540.
 
 En caso de que el reconocimiento se efectúe sucesivamente por el padre y la madre que no vivan juntos, el que primero lo hubiere reconocido ejercerá la custodia del hijo y éste habitará con aquél, salvo que ambos convinieren otra cosa y siempre que el juez de primera instancia del lugar no creyere necesario modificar el convenio, con audiencia de los interesados y del Ministerio Público. El convenio sólo podrá modificarse en interés del hijo.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+En caso de que el tutor con la guarda y custodia tuviera una nueva pareja con la cual el menor tuviera que cohabitar, el Juez podrá solicitar prueba de psicología familiar con el propósito de garantizar el interés superior de las niñas, niños y adolescentes.
 
 ###### Artículo 541.
 
@@ -3665,9 +3677,13 @@ Si el padre y la madre viven separados, se observará respecto de la guarda y cu
 
 En el caso previsto por el artículo anterior, cuando, por cualquiera circunstancia cese de tener la custodia del hijo el ascendiente a quien corresponda y deje aquél de habitar con éste, entrará a ejercer dicha custodia el otro ascendiente, con el cual habitará entonces el hijo.
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 628.
 
-Si se separasen los padres que vivían juntos al hacer el reconocimiento del hijo, convendrán quién de los dos ejercerá su custodia y en caso de que no se pusieren de acuerdo sobre este punto, el juez, teniendo siempre en cuenta los intereses del hijo, designará a la persona que deba hacerlo. El hijo habitará con el ascendiente al que se encargue la custodia.
+Si se separasen los padres que vivían juntos al hacer el reconocimiento de la hija o del hijo, convendrán quién de los dos ejercerá su custodia y en caso de que no se pusieren de acuerdo sobre este punto, el juez deberá escuchar a ambos progenitores, a las hijas o hijos, cuando fuere posible, así como a cualquier otro interesado que acredite plenamente el interés jurídico conforme a la ley, teniendo siempre en cuenta los intereses del menor, para designar a la persona que deba hacerlo. El hijo deberá habitar con el ascendiente que se encargue de su custodia.
+
+El juzgador deberá tomar en consideración las condiciones específicas de la hija o del hijo, así como su interés superior, para acordar su intervención en el proceso, siempre con una actitud orientada a favorecer la eficacia de su derecho de participación.
 
 ###### Artículo 629.
 
@@ -15780,3 +15796,9 @@ P.O. 8 DE JULIO DE 2016.
 PRIMERO. El presente Decreto surtirá efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
 
 SEGUNDO. Las autoridades de salud y del registro civil deberán realizar las acciones necesarias para la aplicación de lo establecido en el artículo 320 del Código Civil del Estado Libre y Soberano de Guerrero número 358.
+
+P.O. 12 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 234, POR EL QUE SE REFORMAN LOS ARTÍCULOS 539 Y 628; SE ADICIONAN UN SEGUNDO PÁRRAFO AL ARTÍCULO 539 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 540 DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358”.]
+
+ÚNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
