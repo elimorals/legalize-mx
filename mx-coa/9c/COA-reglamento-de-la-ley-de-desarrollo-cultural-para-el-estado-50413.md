@@ -4,7 +4,7 @@ identifier: "COA-reglamento-de-la-ley-de-desarrollo-cultural-para-el-estado-5041
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-04-28"
-last_updated: "2016-06-03"
+last_updated: "2016-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50413&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,6 +23,8 @@ state: "COA"
 REGLAMENTO DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2016.
+
+(REPUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2016)
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 28 de abril de 2006.
 
@@ -388,23 +390,23 @@ El Instituto deberá supervisar y evaluar el cumplimiento de los acuerdos y conv
 
 Los ingresos que el Estado perciba por concepto del otorgamiento de permisos, autorizaciones y licencias en materia de zonas protegidas, conforme lo determinen los ordenamientos aplicables, se destinarán a la realización de acciones de preservación y restauración de los bienes o zonas protegidas dentro de las cuales se generen dichos ingresos.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ## TÍTULO TERCERO. DEL CONSEJO DE CULTURA
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ### CAPÍTULO PRIMERO
 
 DISPOSICIONES GENERALES.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 48.
 
 El Consejo de Cultura es el órgano de carácter ciudadano que con voz y voto coadyuva con el Ejecutivo del Estado en la rectoría de la política pública en materia cultural, el cual funge como un espacio de vinculación, deliberación, colaboración y corresponsabilidad entre la autoridad y la sociedad, en especial con la comunidad artística.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 49.
 
@@ -458,7 +460,7 @@ III. En materia de orientación:
 
 6. Orientar la política cultural hacia la procuración de un equilibrio en la aplicación presupuestal, considerando las necesidades y características de las distintas regiones del Estado, así como de las diferentes disciplinas artísticas y manifestaciones culturales.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 50.
 
@@ -496,7 +498,7 @@ IV. Por el sector de la ciudadanía en general:
 
 El cargo de miembro del Consejo de Cultura será honorífico, por lo cual los consejeros no recibirán remuneración alguna por el ejercicio de su encargo.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 51.
 
@@ -566,25 +568,25 @@ IV. El sector de la ciudadanía en general:
 
 V. El Consejo de Cultura expedirá las bases de la convocatoria para integrar cada uno de los sectores correspondientes.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ### CAPÍTULO SEGUNDO
 
 DEL FUNCIONAMIENTO DEL CONSEJO DE CULTURA.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE JUNIO DE 2016) (REPUBLICADA, P.O. 12 DE AGOSTO DE 2016)
 
 #### SECCIÓN PRIMERA
 
 DE LOS MIEMBROS DEL CONSEJO DE CULTURA.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 52.
 
 El Consejo de Cultura tendrá un Presidente, que será la o el Titular del Poder Ejecutivo del Estado, y un Secretario Técnico, que será la o el titular de la Secretaría de Cultura, o las personas que éstos designen para tales efectos, que en todo caso, deberán ser personas que destaquen en el ámbito cultural. Tendrán las facultades que les confiera este Reglamento.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 53.
 
@@ -600,7 +602,7 @@ IV. Participar en las comisiones del Consejo en las que hayan sido designados co
 
 V. Participar en las deliberaciones del Consejo y emitir su voto respecto al diseño, elaboración, y aprobación de los planes, programas y presupuestos que el Gobierno del Estado de Coahuila lleve a cabo en el sector cultura.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 54.
 
@@ -616,7 +618,7 @@ IV. Participar en las sesiones, con voz y voto de calidad, y
 
 V. Dirigir los debates durante la sesión, así como declarar que un asunto ha quedado suficientemente discutido y someterlo a la votación de los miembros.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 55.
 
@@ -636,25 +638,25 @@ V. Emitir la convocatoria para que el Consejo sesione de manera extraordinaria, 
 
 VI. Las demás que le confiera el Consejo.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE JUNIO DE 2016) (REPUBLICADA, P.O. 12 DE AGOSTO DE 2016)
 
 #### SECCIÓN SEGUNDA
 
 DE LAS SESIONES DEL CONSEJO DE CULTURA.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 56.
 
 El Consejo de Cultura determinará la fecha y lugar de sus sesiones. Las sesiones tendrán el carácter de ordinarias y extraordinarias.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 57.
 
 Serán sesiones ordinarias las que se celebren tres veces al año, de acuerdo con el calendario que apruebe el propio Consejo de Cultura; y extraordinarias cuando se lleven a cabo previa convocatoria del Presidente, del Secretario Ejecutivo o del equivalente a las dos terceras partes de los miembros del Consejo. El presente reglamento determinará los requisitos y el procedimiento a que se deberá sujetar la convocatoria para estas sesiones.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 58.
 
@@ -674,19 +676,19 @@ III. En el caso de los Consejeros representantes de la sociedad civil, se proced
 
 Será causa de remoción del encargo ausentarse injustificadamente a dos sesiones ordinarias consecutivas.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 59.
 
 Las decisiones del Consejo se tomarán por votación directa. Para que un acuerdo sea aprobado, se requerirá de una votación total del cincuenta por ciento más uno del total de los miembros presentes, teniendo el Presidente voto de calidad en el caso de empate.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 60.
 
 El Consejo de Cultura, deberá reunirse por lo menos tres veces al año con carácter ordinario, para desahogar los asuntos que sean de su competencia. El calendario de las sesiones ordinarias será acordado en la primera sesión de (sic) año, misma que deberá tener verificativo, dentro de los primeros tres meses del año de que se trate. Para fijar la fecha de la primera sesión anual, se observarán las reglas relativas a la convocatoria para las sesiones extraordinarias.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 61.
 
@@ -704,7 +706,7 @@ V. Tomados los acuerdos respectivos, el Presidente declarará cerrada la Sesión
 
 VI. Del desarrollo de las sesiones levantará constancia el Secretario Técnico en las actas que para efecto redacte. Las actas deberán ser aprobadas por los miembros del Consejo y firmadas por éstos.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 62.
 
@@ -712,19 +714,19 @@ A las sesiones del Consejo podrán asistir otros funcionarios del Gobierno del E
 
 Podrán concurrir asimismo a las sesiones, sin derecho a voz ni voto, los Consejeros Suplentes del Sector Artístico cuando concurra también su titular.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 63.
 
 Las sesiones con carácter extraordinario deberán ser previamente convocadas, por el Presidente, el Secretario Técnico o el equivalente a las dos terceras partes de los miembros del Consejo de Cultura.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 64.
 
 Las sesiones extraordinarias que sean convocadas por el Presidente o por el Secretario Ejecutivo, deberán ser convocadas con por lo menos 3 días de anticipación al día en que pretendan celebrarse. La convocatoria deberá de entregarse personalmente a los miembros del Consejo, y deberá ser acusada de recibido.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 65.
 
@@ -738,61 +740,61 @@ III. En caso de que el Presidente del Consejo no responda a la solicitud plantea
 
 IV. Cuándo la Sesión Extraordinaria sea convocada por las dos terceras partes del consejo luego de haber agotado el procedimiento anterior, deberá señalarse tal circunstancia anexando la documentación probatoria correspondiente, así como los nombres y firmas respectivas de los convocantes, acreditando el número suficiente de miembros consejeros.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 66.
 
 No serán válidas las sesiones extraordinarias que se celebren sin observar los requisitos de convocatoria descritos en este Reglamento, excepto cuando en la sesión participe la totalidad de los miembros del Consejo, caso en el que se dispensará la convocatoria previa.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 67.
 
 Todas las convocatorias a las sesiones que celebre el Consejo, deberán contener el día, la hora y el lugar de celebración de la misma; así como una relación clara y suscinta (sic) de los temas que se tratarán. Deberá también anexarse toda la documentación pertinente para el estudio y preparación de los temas que vayan a desahogarse.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE JUNIO DE 2016) (REPUBLICADA, P.O. 12 DE AGOSTO DE 2016)
 
 #### SECCIÓN TERCERA
 
 DE LAS COMISIONES DEL CONSEJO DE CULTURA.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 68.
 
 El Consejo podrá crear las comisiones que considere convenientes, con carácter temporal o permanente, y les otorgará las facultades y condiciones necesarias para el eficaz desempeño de sus funciones.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 69.
 
 Las comisiones estudiarán, evaluarán, analizarán y dictaminarán los asuntos a su cargo. Las decisiones deberán someterse a la consideración del Consejo en Pleno.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 70.
 
 Las comisiones solamente intervendrán en aquellos asuntos encomendados expresamente por el Pleno del Consejo y los documentos que de ellas emanen únicamente tendrán el carácter de actas o dictámenes, los cuales sólo podrán darse a conocer a personas ajenas a los integrantes del Consejo previo acuerdo expreso del mismo en ese sentido.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 71.
 
 Los miembros de cada Comisión serán designados y removidos libremente por el Consejo. Las Comisiones estarán formadas por un Coordinador y los vocales respectivos.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 72.
 
 Las comisiones sesionarán previa convocatoria de su Coordinador o de la mayoría de sus integrantes, con la asistencia de por lo menos la mayoría de sus miembros, y emitirán sus dictámenes por mayoría de votos de los presentes. A petición expresa del sustentante, en los dictámenes de las comisiones se podrá hacer constar el voto razonado de quienes se hayan opuesto al sentido del dictamen.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 73.
 
 Las convocatorias para la sesión de las Comisiones deberán hacerse por los (sic) menos tres días naturales antes de su celebración. Este requisito no será necesario cuando se encuentren reunidos la totalidad de los integrantes de cada comisión y por ese hecho se den por enterados.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 74.
 
@@ -804,7 +806,7 @@ II. Presentar los informes y dictámenes de las comisiones al Pleno del Consejo,
 
 III. En general, realizar todos aquellos actos que sean necesarios para el funcionamiento de las comisiones.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 75.
 
@@ -816,25 +818,25 @@ II. Suplir al Coordinador en sus ausencias, y
 
 III. Convocar por acuerdo de la mayoría de sus integrantes a la celebración de sesiones de la comisión respectiva.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 76.
 
 Cada Comisión elegirá de entre sus miembros a un Secretario, que tendrá a su cargo la elaboración de las actas y dictámenes derivados de las sesiones que celebren.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 77.
 
 Las ausencias de los Coordinadores de Comisión serán cubiertas por el vocal que designe en sesión la misma Comisión. La ausencia del Coordinador se asentará en el acta respectiva, así como el nombramiento del Coordinador para esa sesión.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ### CAPITULO TERCERO.
 
 DE LAS SANCIONES.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 3 DE JUNIO DE 2016) (REPUBLICADO, P.O. 12 DE AGOSTO DE 2016)
 
 ###### Artículo 78.
 
@@ -855,6 +857,8 @@ PROFESOR HUMBERTO MOREIRA VALDÉS
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 3 DE JUNIO DE 2016.
+
+REPUBLICADO, P.O. 12 DE AGOSTO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN TÍTULO TERCERO CON SUS RESPECTIVAS DISPOSICIONES NORMATIVAS AL REGLAMENTO DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
