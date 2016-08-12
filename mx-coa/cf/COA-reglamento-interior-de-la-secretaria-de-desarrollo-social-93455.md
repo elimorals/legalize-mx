@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-desarrollo-social-93455
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-22"
-last_updated: "2014-02-18"
+last_updated: "2016-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE COAHUILA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2016.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 22 de marzo de 2013.
 
 RUBÉN IGNACIO MOREIRA VALDEZ, Gobernador Constitucional del Estado de Coahuila de Zaragoza, en ejercicio de las facultades que me confieren los artículos 82 fracción XVIII y 85 párrafo tercero de la Constitución Política del Estado de Coahuila de Zaragoza, y los artículos 6, 9 inciso A fracción XIV de la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 En virtud de lo anterior, he tenido a bien emitir el siguiente:
 
@@ -61,9 +63,35 @@ VII. Ley orgánica: La Ley Orgánica de la Administración Pública del Estado d
 
 ### CAPÍTULO SEGUNDO. DE LA SECRETARÍA DE DESARROLLO SOCIAL
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 3.
 
-La Secretaría es la dependencia centralizada de la administración pública estatal, encargada de auxiliar al Ejecutivo en la formulación, coordinación, ejecución y evaluación de la política y los programas relacionados con el desarrollo social aplicados en el Estado para el combate de la pobreza, las desigualdades y la exclusión social, así como de coordinar las acciones de vinculación con organismos de la sociedad civil para el desarrollo de las comunidades, impulsar las acciones que promuevan el abasto, la nutrición, el acceso a los servicios básicos, el ahorro de energía eléctrica, programas de desarrollo y mejoramiento que incidan en el acceso a la vivienda en el Estado, acciones para promover la perspectiva de género, entre otras acciones de desarrollo social.
+La Secretaría es la dependencia centralizada de la administración pública estatal, encargada de auxiliar al Ejecutivo, y en ejercicio de las acciones, planes, programas y estrategias de desarrollo social es la facultada para:
+
+I. Formular, coordinar, ejecutar y evaluar la política y los programas relacionados con el desarrollo social;
+
+II. Realizar acciones y programas para prevenir y combatir la pobreza, la marginación, las desigualdades y la exclusión social;
+
+III. Coordinar las acciones de los organismos y entidades sectorizados a ésta y los de coadyuvar con la sociedad civil en materia de desarrollo;
+
+IV. Impulsar las acciones que promuevan la adecuada alimentación, el abasto, el acceso a los servicios básicos de la vivienda, el ahorro de energía eléctrica, la calidad de la vivienda y la disminución de la marginación y la vulnerabilidad de las personas que habitan en el estado, así como propiciar la participación ciudadana y comunitaria;
+
+V. Promover la perspectiva de género en los programas de desarrollo social,
+
+VI. Efectuar acciones tendientes a la regularización de la tenencia de la tierra urbana y rústica;
+
+VII. Promover la certeza jurídica y social de los asentamientos y fraccionamientos y tomar las medidas para corregir los que ilegalmente ocurran;
+
+VIII. Propiciar elevar el grado de cohesión social de las localidades y asentamientos en el estado;
+
+IX. Promover la planeación en materia de vivienda y la inversión en ésta, el equipamiento y servicios urbanos; establecer y vigilar programas de adquisición de vivienda;
+
+X. Coordinar, dar seguimiento y evaluar las acciones y programas que lleve el organismo competente en el marco del Programa Estatal de las Personas Adultas Mayores;
+
+XI. Instrumentar la integración del Padrón Único de Beneficiarios, en los términos de los lineamientos y disposiciones aplicables y de los acuerdos que para tal efecto se suscriban; y
+
+XII. Las demás atribuciones conferidas por otras disposiciones legales.
 
 ###### Artículo 4.
 
@@ -579,11 +607,11 @@ XI. Informar a su superior jerárquico sobre las actividades realizadas;
 
 XII. Programar y coordinar las actividades sociales, culturales, deportivas y recreativas y aquellas que la Secretaría determine organizar para los servidores públicos de la misma;
 
-XIII. Definir y administrar en lo relativo a las prestaciones, seguros y seguridad social que correspondan al personal, así como difundir la información al respecto entre los servidores públicos de la Secretaría, y (sic)
+XIII. Definir y administrar en lo relativo a las prestaciones, seguros y seguridad social que correspondan al personal, así como difundir la información al respecto entre los servidores públicos de la Secretaría, y
 
 XIV. Brindar el apoyo necesario para el proceso de inducción operativa, funcional y normativa, al personal de la Secretaría de acuerdo con el cargo que desempeñe; y
 
-XV. Atender el despacho de los asuntos relevantes de la unidad administrativa a su cargo y responsabilidad; (sic)
+XV. Atender el despacho de los asuntos relevantes de la unidad administrativa a su cargo y responsabilidad;
 
 ###### Artículo 19.
 
@@ -701,7 +729,7 @@ XVIII. Atender el despacho de los asuntos relevantes de la unidad administrativa
 
 ###### Artículo 22.
 
-Corresponden a la Subsecretaría Desarrollo (sic) Social, las facultades y obligaciones siguientes:
+Corresponden a la Subsecretaría (sic) Desarrollo Social, las facultades y obligaciones siguientes:
 
 I. Coadyuvar en la formulación, instrumentación, actualización y evaluación del Programa Sectorial de Desarrollo Social;
 
@@ -1193,7 +1221,7 @@ I. Recibir, atender y turnar a las unidades administrativas competentes, las pet
 
 II. Dar seguimiento, desde su planteamiento hasta su conclusión definitiva, a las peticiones recibidas en eventos y giras y llevar la bitácora respectiva;
 
-III. Mantener comunicación estrecha con las dependencias o entidades públicas que correspondan para el (sic) oportuna realización de giras y eventos; y (sic)
+III. Mantener comunicación estrecha con las dependencias o entidades públicas que correspondan para el (sic) oportuna realización de giras y eventos; y
 
 IV. Apoyar en ámbito de su competencia en la implementación de la logística que resulte necesaria para la realización de los eventos; y
 
@@ -1211,7 +1239,7 @@ III. Atender y dar seguimiento a las instrucciones, mandatos y demás disposicio
 
 IV. Proponer los trámites y gestiones relativos a los cambios de la organización interna, incluyendo modificaciones a la estructura orgánica y plantillas de personal, de las unidades administrativas de la Subsecretaría de Atención Ciudadana;
 
-V. Coordinar y atender las solicitudes y consultas que en materia administrativas le sean planteadas por el personal de la Subsecretaría de Atención Ciudadana; y (sic)
+V. Coordinar y atender las solicitudes y consultas que en materia administrativas le sean planteadas por el personal de la Subsecretaría de Atención Ciudadana; y
 
 VI. Promover medidas y acciones de mejora y prevención al interior de la Subsecretaría de Atención Ciudadana, y atender las recomendaciones derivadas de las observaciones y formuladas por la instancia de fiscalización; y
 
@@ -1391,7 +1419,7 @@ MIGUEL ÁNGEL RIQUELME SOLÍS
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 18 DE FEBRERO DE 2014.
 
@@ -1401,15 +1429,15 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
 
 TERCERO. Los asuntos pendientes al entrar en vigor el presente decreto, que conforme al mismo deban pasar de una unidad administrativa a otra, continuarán su trámite conforme a la normativa que los originó y serán resueltos por la unidad administrativa que el presente decreto designe competente.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2046.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA".]
+P.O. 12 DE AGOSTO DE 2016.
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 3 DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
-SEGUNDO. El Ejecutivo del Estado a través de la Secretaría de las Culturas y las Artes, contará con un plazo de 120 días para emitir el reglamento con el que operará el Comité de Autenticidad, así como los mecanismos y los procedimientos para su integración, contados a partir de la publicación de la presente reforma.
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-TERCERO. La Secretaría de las Culturas y las Artes, como dependencia estatal operativa será quien emita la Convocatoria para la integración del Comité de Autenticidad, a las personas que acrediten tener una calidad profesional en materia de cultura.
+SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
 
-P.O. 10 DE AGOSTO DE 2017.
+TERCERO. La atención y resolución de los asuntos en trámite anteriores a la presente reforma, continuará su atención conforme a la normativa que los originó por los organismos sectorizados competentes.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 661.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 11 DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA".]
 
