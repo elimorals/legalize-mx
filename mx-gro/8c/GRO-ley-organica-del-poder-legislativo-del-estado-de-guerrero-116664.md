@@ -1,0 +1,4200 @@
+---
+title: "LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUMERO 231"
+identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-116664"
+country: "mx"
+rank: "ley_organica"
+publication_date: "2016-08-12"
+last_updated: "2016-08-12"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116664&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-gro"
+scjn_id: "116664"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "65 ALCANCE II"
+reform_count: "19"
+scjn_last_update: "2026-05-12"
+issue_date: "2016-07-12"
+state: "GRO"
+---
+# LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUMERO 231
+
+LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial del Gobierno del Estado No. 65 Alcance II, el viernes 12 de agosto de 2016.
+
+Al margen un sello con el Escudo Oficial que dice: Gobierno del Estado Libre y Soberano de Guerrero.- Poder Legislativo.
+
+LA SEXAGÉSIMA PRIMERA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN NOMBRE DEL PUEBLO QUE REPRESENTA, Y:
+
+C O N S I D E R A N D O
+
+Que en sesión de fecha 07 de julio del 2016, los Ciudadanos Diputados integrantes de las Comisiones Unidas de Estudios Constitucionales y Jurídicos y de Gobierno, presentaron a la Plenaria el Dictamen con Proyecto de Ley Orgánica del Poder Legislativo del Estado de Guerrero, en los siguientes términos:
+
+"A N T E C E D E N T E S
+
+Que durante el transcurso de la presente Legislatura los Diputados Flor Añorve Ocampo, Eduardo Ignacio Neil Cueva Ruiz, Coordinadores de las Fracciones Parlamentarias del Partido Revolucionario Institucional y Verde Ecologista de México, así como las Diputadas y los Diputados integrantes de la Fracción Parlamentaria del Partido de la Revolución Democrática y los de la Representación del Partido del Trabajo, haciendo uso de sus facultades constitucionales y legales que se contemplan en los Artículos 65 fracción I de la Constitución Política del Estado Libre y Soberano de Guerrero y 126 fracción II de la Ley Orgánica del Poder Legislativo del Estado en vigor, presentaron a este Honorable Congreso del Estado INICIATIVAS DE LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO.
+
+Que en sesión celebrada el martes 19 de abril del 2016, el Pleno de la Sexagésima Primera Legislatura al Honorable Congreso del Estado Libre y Soberano de Guerrero, tomó conocimiento de las iniciativas de referencia, habiéndose turnado a las Comisiones Unidas de Estudios Constitucionales y Jurídicos y de Gobierno, mediante oficios números LXI/1ER/OM/DPL/01330/2016, LXI/1ER/OM/DPL/01331/2016, LXI/1ER/OM/DPL/01332/2016 y LXI/1ER/OM/DPL/01333/2016, suscritos por el Licenciado Benjamín Gallegos Segura, Oficial Mayor del Congreso del Estado, para los efectos de lo dispuesto en los artículos 86 y 132 de la Ley Orgánica del Poder Legislativo del Estado del Guerrero.
+
+Que previo a la presentación de las iniciativas en análisis, a las Comisiones Dictaminadoras les fueron turnadas distintas iniciativas, propuestas y solicitudes referentes a la Ley Orgánica del Poder Legislativo del Estado de Guerrero y a la organización del Congreso y de sus Diputados, las cuales no se han dictaminado por lo que se acordó resolverlas incluyéndolas en el presente análisis, siendo las siguientes:
+
+- De Decreto por el que se adiciona un artículo 62 Bis y se deroga la fracción III del artículo 62 de la Ley Orgánica del Poder Legislativo del Estado de Guerrero, turnado a la Comisión de Estudios Constitucionales y Jurídicos para la emisión del dictamen correspondiente;
+
+- De Decreto por el que se adiciona un tercer párrafo al artículo 85 de la Ley Orgánica del Poder Legislativo del Estado de Guerrero Número 286, turnado a la Comisión de Estudios Constitucionales y Jurídicos para la emisión del dictamen correspondiente;
+
+- De Decreto mediante el cual se adicionan el Capítulo VI con los artículos 206 Bis y 206 Bis 1 del Título Décimo de la Ley Orgánica del Poder Legislativo del Estado de Guerrero Número 286, turnado a la Comisión de Estudios Constitucionales y Jurídicos para la emisión del dictamen correspondiente;
+
+- De Decreto por el que se reforman las fracciones I, II y III al artículo 72 de la Ley Orgánica del Poder Legislativo del Estado de Guerrero Número 286, turnado a la Comisión de Estudios Constitucionales y Jurídicos para la emisión del dictamen correspondiente;
+
+- Propuesta de Acuerdo Parlamentario por el que el Congreso del Estado de Guerrero, resuelve modernizar sus procesos legislativos, de gestión y transparencia, mediante la utilización de las nuevas tecnologías de información y comunicación (TIC's), turnado a la Comisión de Gobierno para la emisión del dictamen correspondiente;
+
+- Propuesta de Acuerdo Parlamentario por el que se crea la Comisión Especial de Acceso Digital y Tecnologías de Información de la LXI Legislatura del Congreso del Estado de Guerrero, turnado a la Comisión de Gobierno para la emisión del dictamen correspondiente;
+
+- Oficio con el que se hace del conocimiento el Punto de Acuerdo que exhorta de manera respetuosa a la Cámara de Diputados y a los Congresos de las Entidades Federativas que aún no cuentan con una Comisión de Familia a conformar dicho órgano legislativo, turnado a la Comisión de Gobierno para la emisión del dictamen correspondiente;
+
+- Oficio con el que se remite, en copia simple, el Acuerdo por el que la Cámara de Diputados exhorta con estricto respeto de su soberanía a los Congresos locales y a la Asamblea Legislativa del Distrito Federal a promover, en el caso de no existir, y de resultar necesario, la creación de Comisiones Ordinarias de Cambio Climático y la expedición de legislación en esta materia, a fin de incidir de manera local y regional en la lucha contra el cambio climático y la preparación para enfrentar sus efectos adversos, turnado a la Comisión de Gobierno para la emisión del dictamen correspondiente; y
+
+- Oficio con el que se solicita a esta Soberanía la integración de la Comisión Especial que dé seguimiento a los trámites, gestiones y peticiones que realizan los jubilados y pensionados, turnado a la Comisión de Gobierno para la emisión del dictamen correspondiente.
+
+Que tomando en consideración que las Iniciativas presentadas tienen un objetivo común consistente en establecer los derechos, obligaciones, así como la garantía y derecho de participar en la deliberación y votación de los asuntos de su competencia, la igualdad de categoría, el valor igual de su voto, el derecho de integrar órganos internos del Congreso del Estado, así como organizar la vida interna del Poder Legislativo y en virtud de que las mismas contienen figuras y disposiciones jurídicas similares que no se contraponen y si en cambio se complementan, estas Comisiones Dictaminadoras determinaron llevar a cabo su acumulación para realizar un solo Proyecto de Ley, retomando los preceptos que se consideraron procedentes, para garantizar y armonizar las reformas constitucionales a la Ley Orgánica del Poder Legislativo.
+
+Que en el presente dictamen no se trascriben las exposiciones de motivos que expresan los signatarios de las iniciativas, por no exigirlo el Artículo 86 de la Ley Orgánica del Poder Legislativo en vigor, que prevé los requisitos formales que debe contener todo dictamen que emitan las Comisiones o Comités Legislativos del Congreso del Estado, ni existir precepto legal alguno que establezca dicha obligación.
+
+Que en términos de lo dispuesto por los Artículos 46, 49 fracciones I y III, 51 fracciones I y XII, 54 fracción II, 86, 87, 132, 133 y demás relativos y aplicables de la Ley Orgánica del Poder Legislativo en vigor, estas Comisiones Dictaminadoras tienen plenas facultades para analizar las iniciativas de referencia y emitir el dictamen con Proyecto de Ley que recaerá a la misma, lo que procedemos a realizar en los siguientes términos; y,
+
+CONSIDERANDOS:
+
+Que los signatarios de las Iniciativas, con las facultades que les confieren la Constitución Política del Estado, en su numeral 65 fracción I, y el Artículo 126 fracción II de la Ley Orgánica del Poder Legislativo número 286, tienen plenas facultades para presentar para su análisis y dictamen correspondiente las iniciativas que nos ocupan.
+
+Que el Honorable Congreso del Estado Libre y Soberano de Guerrero, conforme a lo establecido por los Artículos 56, 61 fracciones I y IV, 66, 67 y 68 de la Constitución Política Local, 8° fracciones I y XLIII y 127 de la Ley Orgánica del Poder Legislativo en vigor del Estado de Guerrero, está plenamente facultado para discutir y aprobar, en su caso, el dictamen con Proyecto de Ley respectivo de las Iniciativas que nos ocupan.
+
+Que del análisis efectuado a las presentes Iniciativas, se arriba a la conclusión de que las mismas, no son violatorias de garantías individuales ni se encuentran en contraposición con ningún otro ordenamiento legal.
+
+Que en el estudio y análisis de las presentes propuestas, los integrantes de las Comisiones Dictaminadoras por las consideraciones expuestas en la misma, así como los motivos que las originan, la (sic) estimamos procedentes haciendo las respectivas adecuaciones en plena observancia de las reglas de técnica legislativa, con la finalidad de darle mayor claridad a su texto, en virtud de que la Ley Orgánica del Poder Legislativo del Estado, constituye uno de los instrumentos legales indispensables para el Congreso del Estado.
+
+Que en la integración de la propuesta de Ley Orgánica del Poder Legislativo, se armonizan las bases y principios establecidos en la Constitución Política local, al establecerse en ella las nuevas figuras y órganos de gobierno. Se integran las buenas prácticas, procesos, procedimientos y mecanismos de participación de los diputados, así como sus obligaciones, derechos y organización del Poder Legislativo.
+
+Que con motivo de la reforma integral a la Constitución Política del Estado Libre y Soberano de Guerrero, mediante decreto número 453, publicada en el Periódico Oficial del Gobierno del Estado, con fecha 29 de abril del año 2014, misma que entro en vigencia a los 30 días hábiles posteriores a su publicación, se establecen nuevos órganos de gobierno y de representación al interior del Congreso del Estado, nuevas formas de organización, periodos ordinarios de sesiones distintos a los establecidos, así como entre otras más las de instalar la legislatura en fecha distinta.
+
+Que atento a lo anterior, estas Comisiones Unidas en pleno ejercicio de nuestra facultad dictaminadora una vez acumulado las iniciativas de Ley, así como de reformas, adiciones y derogaciones a la Ley Orgánica del Poder Legislativo número 286, integró una Ley Orgánica del Congreso del Estado contemplando las bases de organización, pero sobre todo atendiendo a lo establecido en el artículo 56 de la Constitución Política del Estado Libre y Soberano de Guerrero, que señala que la Ley, deberá: "...establecer los derechos y obligaciones de los diputados al Congreso del Estado y garantizará, en todo caso, su derecho a participar en la deliberación y votación de los asuntos de su competencia, la igualdad de su categoría, el valor igual de su voto, el derecho a integrar los órganos internos del Congreso y la obligación de ejercer el cargo, salvo por causa calificada por el Pleno."
+
+Que atendiendo a lo establecido por el artículo 63 de la Constitución Política local, se establece en la propuesta de Ley Orgánica como máximo órgano de gobierno, al Pleno de los diputados, las modalidades de nombramiento de la Mesa Directiva, a los de la Junta de Coordinación Política, a los de la Comisión Permanente, y la (sic) Comisiones y Comités Legislativos.
+
+Así en la nueva Ley Orgánica en su estructura se organiza partiendo de las actividades y organización general a las relativas y particulares, entre otras: el registro de los diputados electos, la instalación de la legislatura, lo derechos, obligaciones y prerrogativas de los diputados, las aperturas y clausura de los periodos ordinarios, los tipos y modalidades de las sesiones, órganos de gobierno, legislativos, de representación y administrativos del Congreso, su forma de integración y nombramiento, obligaciones y responsabilidades de sus integrantes, de la integración de las Comisiones y Comités Legislativos, forma y número de integración, del trabajo y sesiones de las Comisiones y Comités, las facultades y obligaciones de los órganos administrativos y técnicos, de las iniciativas y dictámenes, así como los procedimientos especiales que en el ámbito de las atribuciones conoce y resuelve el Congreso del Estado.
+
+Que en términos de las consideraciones antes señaladas al integrar la presente propuesta de Ley Orgánica esta queda compuesta por 9 Títulos, 57 Capítulos, 37 Secciones, 363 artículos y 13 artículos transitorios, los cuales entre otros temas se desarrollan los siguientes:
+
+El Título Primero, del Objeto de la Ley Orgánica, compuesto por un Capítulo único, se establecen las consideraciones generales respecto de cuál es la naturaleza de la presente Ley, los conceptos y conceptualización de las principales denominaciones y palabras más comunes y utilizadas en el desarrollo de la misma.
+
+El Título Segundo, del Congreso del Estado, integrado por 17 capítulos y tres secciones, se desarrolla y establece la conformación del Congreso, el lugar de su sede, la residencia y recinto oficial. En el capítulo del Registro de diputados se norma el procedimiento de integración de las nuevas legislaturas, estableciéndose las facultades de la Comisión Instaladora, que para este caso es la Comisión Permanente del último periodo de receso del último año constitucional de las legislaturas, asimismo se establecen los documentos mínimos a presentar por parte de los diputados electos para su registro. Se norma lo referente a la instalación de la legislatura y los supuestos que se pueden presentar en caso de que no se reúna el quórum necesario para su instalación en términos del artículo 57 de la Constitución Política local. De igual forma y como lo dispone el artículo 56 de la Constitución referida, se establecen en este mismo título los derechos, prerrogativas y obligaciones de los diputados, el régimen de responsabilidad y la disciplina parlamentaria, los derechos de licencias, los supuestos de suplencias y las formas o tipos de vacantes y su respectiva reglamentación.
+
+En el capítulo noveno se desarrolló lo relativo a la apertura y clausura de los periodos en términos de lo dispuesto por el artículo 59 de la Constitución Política del Estado de Guerrero, se reglamenta lo relativo al acceso al Salón de Plenos, la asistencia y el quórum, lo relativo a la integración del orden del día, la utilización de la tribuna parlamentaria y uso de la palabra, los tipos y modalidades de las discusiones y de las mociones.
+
+El Título Tercero, de las Atribuciones del Congreso del Estado, se establecen conforme a las facultades constitucionales en sus funciones de órgano legislativo, de fiscalización, de nombramiento y fiscalización, el desglose de facultades administrativas y de organización respecto a procedimientos especiales.
+
+En el Título Cuarto, relativo a los Órganos de Gobierno y Legislativo, de los de representación, administrativos y técnicos, se desglosan y desarrollan las formas y términos de integración, su integración, duración y elección, así como las facultades y atribuciones correspondientes de los integrantes de dichos órganos.
+
+Al respecto y conforme lo establecido en el artículo 63 de la Constitución Política del Estado de Guerrero, en la integración de la Mesa Directiva se reitera la excepción que en la integración de dicho órgano el grupo parlamentario que ostente la Presidencia de la Junta de Coordinación Política no pueda tener la Presidencia de la Mesa Directiva. Asimismo se establecen las facultades y obligaciones del Presidente, Vicepresidente y Secretarios de la Mesa Directiva. En lo que respecta a la Junta de Coordinación Política como órgano de coordinación de las actividades administrativas, políticas y legislativas, en el que se impulsan los entendimientos y convergencias del Congreso del Estado, se establecen la forma de nombramiento, las facultades y competencias de dicho órgano colegiado, así como las funciones que desempeñan.
+
+Como órgano legislativo en la toma de decisiones se integra la Conferencia para los Trabajos Legislativos, órgano colegiado integrado por la Junta de Coordinación Política y el Presidente de la Mesa Directiva del Congreso del Estado, el cual tiene como finalidad la dirección y programación de los trabajos legislativos.
+
+En el capítulo séptimo, se contempla lo relativo a los órganos representativos, en los cuales se armonizan la denominación de las Fracciones y Representaciones Parlamentarias a Grupos y Representaciones Parlamentarias, la forma y tiempos de constitución o conformación y sus derechos o prerrogativas a las cuales tienen derechos.
+
+En lo relativo a la organización legislativa para el ejercicio de las atribuciones del Congreso del Estado se establecen las Comisiones y Comités Legislativos, estableciéndose las ordinarias y especiales, la forma de integración, sus facultades y las generalidades respecto al funcionamiento de sus actividades, conforme a las propuesta (sic) y armonizaciones recientes se integran las comisiones y respecto a sus competencias serán en lo que concierne a sus respectivas denominaciones y en cuanto a las particulares se integrarán al reglamento respectivo.
+
+De igual forma y derivado de la armonización constitucional, se establecen los órganos administrativos y técnicos del Congreso del Estado, llevando a cabo el cambio de denominación de la Oficialía Mayor a Secretaría de Servicios Parlamentarios y la Dirección de Administración a Secretaría de Servicios Financieros y Administrativos, se integra como órgano de vigilancia, evaluación y responsabilidad a la Contraloría Interna, que aun cuando en los hechos el Poder Legislativo cuenta por acuerdo administrativo con dicho órgano técnico, se integra a la presente propuesta para contar con su referencia legal. Respecto a la Dirección de Comunicación Social se cambia su denominación a Dirección de Comunicación, la Auditoría General del Estado y el Instituto de Estudios Parlamentarios "Eduardo Nerí", se integra en los términos que actualmente se vienen desempeñando. Se integran por mandato legal y las necesidades propias del Poder Legislativo, las Unidades de Transparencia, de Igualdad de Género, la de Tecnologías de Información y Comunicación y la de Capacitación y Formación Permanente.
+
+En el Título Quinto, se desglosan en sus 8 Capítulos lo relativo al Procedimiento Legislativo, estableciéndose desde las formalidades de las Iniciativas, Proyectos y Solicitudes, hasta la Sanción, Promulgación, Publicación y Entrada en vigor de las normas. En este sentido en el título que se desarrolla se norman las formalidades de los turnos a Comisiones y Comités, los requisitos y formalidades que deben contener los dictámenes, el plazo para conocer, analizar y resolver por parte de las Comisiones y Comités y lo relativo a la expedición de Leyes y Decretos.
+
+Como Título Sexto se establece el capítulo respecto a las reformas, adiciones y modificaciones a la Constitución Política del Estado Libre y Soberano de Guerrero.
+
+En el Título Séptimo, de los Procedimientos Especiales, se desglosan todos aquellos procesos y procedimientos que por la naturaleza de los mismos requieren de un tratamiento y consideración especial, integrándose en este Título lo relativo al nombramiento, designación, aprobación, ratificación u objeción de nombramientos y de las remociones y licencias de los servidores públicos, lo referente a los informes, comparecencias y preguntas parlamentarias, de las proposiciones de acuerdos parlamentarios, comunicaciones y peticiones, del Procedimiento para la Erección de Nuevos Municipios, el Procedimiento Especial en Materia de Derechos Humanos, así como de las Preseas Sentimientos de la Nación y Eduardo Neri Reynoso, del Muro de Honor y el otorgamiento de Reconocimientos Especiales. Del análisis del Plan Estatal de Desarrollo, la substanciación de los procedimientos de responsabilidades de los Servidores Públicos y de la suspensión de Ayuntamientos y Revocación de sus integrantes, la expedición del Bando Solemne del Gobernador Electo, entre otros procedimientos especiales.
+
+El Título Octavo, Otras Actividades del Congreso del Estado, se integran en la Ley Orgánica del Poder Legislativo el Ceremonial y Protocolo en las actividades del Congreso, lo relativo a la Transparencia y el Acceso a la Información Pública y lo relativo al Cabildeo, figura que aún y cuando en nuestra legislación no se encontraba dicha figura, es la actividad que realizan las personas interesadas con el propósito de influir en las determinaciones.
+
+En el Título Noveno, se desglosan y desarrollan los tipos y formas de difusión de las actividades propias del Congreso del Estado mediante la mas amplia comunicación de sus actividades en el ejercicio de sus atribuciones, integrándose la Gaceta Parlamentaria y el Diario de los Debates, desglosándose en los artículos correspondientes los elementos mínimos que deben contener.
+
+En el apartado correspondiente al Régimen Transitorio, se integran 13 artículos, en los cuales se establecen las modalidades y sus respectivas particularidades para la vigencia de la presente Ley Orgánica.
+
+Que en base al análisis y modificaciones realizadas, estas Comisiones unidas de Estudios Constitucionales y Jurídicos y de Gobierno, aprobamos en sus términos el dictamen con Proyecto de LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO, en razón de ajustarse a derecho".
+
+Que en sesiones de fecha 07 y 12 de julio del 2016, el dictamen en desahogo recibió primera y dispensa de la segunda lectura, respectivamente, por lo que en términos de lo establecido en el artículo 138 de la Ley Orgánica del Poder Legislativo del Estado de Guerrero, la Presidencia de la Mesa Directiva, habiendo sido fundado y motivado el dictamen con proyecto de Ley y darse vista del adendúm presentado por las Comisiones Dictaminadoras, al no existir votos particulares en el mismo y no haber registro en contra en la discusión, procedió a someterlo a votación, aprobándose por mayoría de votos.
+
+Que aprobado en lo general el dictamen, se sometió en lo particular y habiéndose presentado reservas de artículos por parte del Diputado Sebastián Alfonso De la Rosa Peláez (en materia de Transparencia los artículos: 26, 35, 116, 149 y 163; en materia de Fortalecimiento Interno los artículos: 116, 202, 210, 211, 215, 222, 224 y 358) y de la Diputada Ma. del Carmen Cabrera Lagunas (en materia de Gobierno Interior, los artículos: 61, 147, 156, 216, 146, 150, 157 y 218; en materia de Equilibrio de Poderes, los artículos 174, 186, 246, 301, 302 y 304), la Presidencia de la Mesa Directiva, sometió las reservas presentadas por los Diputados Sebastián Alfonso De la Rosa Peláez y Ma. del Carmen Cabrera Lagunas, siendo estas rechazadas por mayoría de votos, acto continuo el Presidente de la Mesa Directiva realizó la Declaratoria siguiente: "Esta Presidencia en términos del artículo 137, párrafo primero de nuestra Ley Orgánica, tiene por aprobado el dictamen con proyecto de Ley Orgánica del Poder Legislativo del Estado de Guerrero. Emítase la Ley correspondiente y remítase a las Autoridades competentes para los efectos legales conducentes".
+
+Por lo anteriormente expuesto y con fundamento en lo dispuesto en los artículos 61 fracción I de la Constitución Política Local y 8 fracción I de la Ley Orgánica del Poder Legislativo en vigor, el Honorable Congreso del Estado, decreta y expide la siguiente:
+
+LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231
+
+## TÍTULO PRIMERO. DEL OBJETO DE LA LEY ORGÁNICA
+
+### CAPÍTULO ÚNICO
+
+###### ARTÍCULO 1.
+
+La presente Ley Orgánica tiene por objeto normar la organización, integración, funcionamiento y ámbito de competencia de los órganos de gobierno, de representación, técnicos y de administración que componen el Congreso del Estado, de conformidad con lo previsto en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado Libre y Soberano de Guerrero.
+
+Su finalidad es la de establecer y determinar las reglas y los procedimientos internos que hagan eficiente su estructura y eficaz su funcionamiento, garantizando, promoviendo, protegiendo y respetando los derechos humanos, de conformidad con los principios de universalidad, igualdad, interdependencia, indivisibilidad y progresividad.
+
+Lo no previsto en la presente Ley Orgánica, se dispondrá en la normatividad interna complementaria que se emita conforme a lo que ésta disponga.
+
+Esta Ley, sus reformas, adiciones y derogaciones no podrán ser objeto de veto ni requerirán, para su vigencia, de la promulgación por parte del Poder Ejecutivo.
+
+Es facultad exclusiva del Congreso del Estado su aprobación, reforma, adición o derogación, así como ordenar su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO 2.
+
+Para los efectos de la presente Ley Orgánica, se entenderá por:
+
+Conferencia: La Conferencia para la Dirección y Programación de los Trabajos Legislativos;
+
+Congreso del Estado: El Honorable Congreso del Estado Libre y Soberano de Guerrero.
+
+Constitución General: La Constitución Política de los Estados Unidos Mexicanos.
+
+Constitución del Estado o Constitución: La Constitución Política del Estado Libre y Soberano de Guerrero.
+
+Diputado: La Diputada o el Diputado en funciones, del Congreso del Estado.
+
+Gaceta: La Gaceta Parlamentaria Electrónica del Congreso del Estado.
+
+Grupo: Los Grupos Parlamentarios;
+
+Junta de Coordinación: La Junta de Coordinación Política.
+
+Ley Orgánica: La Ley Orgánica del Poder Legislativo del Estado de Guerrero.
+
+Mesa Directiva: La Mesa Directiva del Pleno o de la Comisión Permanente del Congreso del Estado de Guerrero.
+
+Pleno: La Asamblea General y máximo órgano de decisión del Congreso del Estado, reunido conforme a las reglas del quórum.
+
+Presidente de la Mesa: La Presidenta o el Presidente de la Mesa Directiva del Pleno o de la Comisión Permanente del Congreso del Estado.
+
+Portal Oficial: Es el sitio web del Congreso del Estado.
+
+Reglamento: El Reglamento de la Ley Orgánica.
+
+Representación: Las Representaciones Parlamentarias de los Partidos Políticos con presencia al interior del Congreso del Estado.
+
+Secretaría de la Mesa: La Secretaría de la Mesa Directiva del Congreso del Estado.
+
+Secretaría Parlamentaria: La Secretaría de Servicios Parlamentarios del Congreso del Estado.
+
+Secretaría Financiera: La Secretaría de Servicios Financieros y Administrativos del Congreso del Estado.
+
+Sistema Electrónico: El Sistema Automatizado para el Registro de Asistencia, Votación y Audio.
+
+###### ARTÍCULO 3.
+
+Para efectos de la interpretación de esta Ley Orgánica, se utilizan las voces y significados siguientes:
+
+Año legislativo o año de ejercicio constitucional: Es el periodo comprendido entre el uno de septiembre y el treinta y uno de agosto del año siguiente.
+
+Convocatoria: Es la cita que realizan los órganos facultados para ello en el Congreso del Estado, a efecto de llevar a cabo una Sesión o Reunión.
+
+Declaratoria de publicidad: Es el anuncio formal que hace el Presidente de la Mesa al Pleno, informando que se ha publicado un dictamen en la Gaceta.
+
+Dieta: Es la remuneración irrenunciable por el desempeño del cargo de Diputado.
+
+Iniciativa: Es el acto jurídico por el cual da inicio el proceso legislativo.
+
+Legislatura: Es el periodo durante el cual funciona el Congreso del Estado que será de tres años contados a partir de su instalación, la que se identificará con el número ordinal sucesivo que le corresponda.
+
+Mayoría absoluta: Es el resultado de la suma de Diputados o votos que representen más de la mitad de los integrantes del Congreso del Estado o de sus órganos, según el caso.
+
+Mayoría calificada: Es el resultado de la suma de Diputados o votos que representen, cuando menos, las dos terceras partes de los presentes o de los integrantes del Congreso del Estado.
+
+Mayoría relativa o simple: Es el resultado de la suma de votos de Diputados presentes, que constituye la cantidad superior frente a otra u otras opciones.
+
+Minuta: Es el documento con proyecto de Decreto que recibe el Congreso del Estado, de una de las Cámaras del Congreso de la Unión, para reformar, adicionar o derogar, disposiciones de la Constitución Política General, con la finalidad de emitir voto a favor o en contra.
+
+Permiso: Es la autorización del Presidente de la Mesa Directiva o de algún otro órgano del Congreso del Estado, para que alguno de sus integrantes pueda faltar, llegar tarde o retirarse de una sesión o reunión.
+
+Quórum: Es el número mínimo de Diputados requerido para que el Pleno, la Comisión Permanente, las Comisiones y Comités puedan abrir sus sesiones y reuniones, respectivamente, así como para realizar votaciones. Este número mínimo equivale a la mayoría absoluta de sus integrantes.
+
+Recinto: Conjunto arquitectónico que alberga al Congreso del Estado, incluyendo el salón de Sesiones, salas legislativas, biblioteca, edificios de oficinas, patios, jardines, estacionamientos y demás inmuebles destinados a su servicio.
+
+Reunión: Es la junta que en el ámbito de sus atribuciones realiza cada órgano del Congreso del Estado.
+
+Sesión: Es la junta protocolaria o formal de los integrantes del Congreso del Estado en Pleno, Comisión Permanente, Comisiones o Comités.
+
+Turno: Es la resolución de trámite que dicta el Presidente de la Mesa Directiva, durante las sesiones, para enviar a la instancia respectiva los asuntos que se presentan en el Pleno o en la Comisión Permanente, con el fin de darles el curso legal que corresponda, dentro del procedimiento.
+
+Unanimidad: Es el resultado de la suma de votos del total de Diputados votantes, expresada en un solo sentido, sin que haya discrepancia.
+
+Voto: Es la manifestación de la voluntad de un legislador a favor, en contra o por la abstención, respecto al sentido de una resolución de un determinado asunto.
+
+## TÍTULO SEGUNDO. DEL CONGRESO DEL ESTADO
+
+### CAPÍTULO PRIMERO. DE LA CONFORMACIÓN
+
+###### ARTÍCULO 4.
+
+El Poder Legislativo del Estado se deposita en el Congreso del Estado y está integrado por representantes populares, denominados Diputados.
+
+Se integra por el número de Diputados, según los principios de mayoría relativa y de representación proporcional, que establece la Constitución Política del Estado.
+
+###### ARTÍCULO 5.
+
+El ejercicio de las funciones de Diputado durará tres años y constituye una Legislatura, la que se identificará con el número ordinal sucesivo que le corresponda, representado gráficamente en número romano. El año legislativo se computará del uno de septiembre al treinta y uno de agosto siguiente.
+
+Por ningún motivo, el mandato de sus miembros podrá prorrogar el periodo de ejercicio constitucional de la Legislatura en funciones.
+
+###### ARTÍCULO 6.
+
+El Congreso del Estado, en el ejercicio de sus atribuciones, durante los periodos de sesiones ordinarias y extraordinarias, fungirá en Pleno. Durante sus recesos funcionará una Comisión Permanente.
+
+### CAPÍTULO SEGUNDO. DE LA SEDE, LA RESIDENCIA Y DEL RECINTO OFICIAL
+
+###### ARTÍCULO 7.
+
+El Poder Legislativo del Estado tendrá su sede en la ciudad de Chilpancingo de los Bravo, capital del Estado de Guerrero, y dispondrá del Palacio Legislativo para su residencia oficial.
+
+El Congreso del Estado podrá cambiar de sede provisionalmente sólo por causas extraordinarias, calificadas en acuerdo por las dos terceras partes de sus integrantes.
+
+###### ARTÍCULO 8.
+
+El Recinto Oficial del Congreso del Estado será inviolable. La fuerza pública estará impedida para tener acceso al mismo, salvo previa autorización del Presidente de la Mesa Directiva.
+
+###### ARTÍCULO 9.
+
+El Congreso del Estado sesionará en su Recinto Oficial, excepto:
+
+I. Por causa de fuerza mayor o caso fortuito; y,
+
+II. Cuando por conmemoraciones o causas especiales lo acuerden la mayoría de sus miembros. En este caso, se sesionará en el recinto o lugar que se elija para tal efecto o en el que se señale por disposición legal.
+
+En los periodos de receso, la Comisión Permanente acordará lo conducente.
+
+###### ARTÍCULO 10.
+
+Ninguna autoridad podrá ejecutar mandamiento judicial o administrativo sobre los bienes destinados al servicio del Congreso del Estado, ni sobre la persona o bienes de los Diputados en el interior de las instalaciones del Palacio Legislativo, salvo los relativos a pensión alimenticia.
+
+### CAPÍTULO TERCERO. DEL REGISTRO DE LOS DIPUTADOS ELECTOS
+
+###### ARTÍCULO 11.
+
+El registro de los Diputados Electos se hará ante la Comisión Permanente, en funciones de Comisión de Instalación, por conducto de la Secretaría Parlamentaria del Congreso del Estado, mediante la presentación y entrega de los originales o copias certificadas de sus Constancias de Mayoría y Validez de la Elección o de asignación por el Principio de Representación Proporcional, según sea el caso; además, se deberán acompañar o exhibir, original o copia certificada de los siguientes documentos:
+
+I. Acta de Nacimiento;
+
+II. Clave Única del Registro de Población (CURP);
+
+III. Credencial de Elector;
+
+IV. Currículum Vitae y resumen autorizado para su publicación en el portal de internet del Congreso del Estado: y,
+
+V. En su caso, las notificaciones de las sentencias inatacables del Órgano Jurisdiccional Electoral.
+
+###### ARTÍCULO 12.
+
+La Secretaría Parlamentaria del Congreso del Estado hará el inventario de las constancias de mayoría y validez que acrediten a los Diputados electos por el principio de mayoría relativa y de las Constancias de Asignación Proporcional, expedidas en los términos de la Ley de la materia; así como de las notificaciones de las sentencias inatacables del Órgano Jurisdiccional Electoral sobre los comicios de Diputados.
+
+Posterior a la integración del inventario, entregará las credenciales de identificación y acceso de los Diputados electos a la junta preparatoria, con base en las Constancias de Mayoría y Validez y de Asignación Proporcional.
+
+Preparará la lista de los Diputados electos a la nueva Legislatura, para los efectos conducentes.
+
+### CAPÍTULO CUARTO. DE LA INSTALACIÓN DE LA LEGISLATURA
+
+###### ARTÍCULO 13.
+
+La nueva Legislatura se instalará en sesión solemne, el día uno de septiembre del año correspondiente.
+
+A la sesión solemne de instalación deberán acudir los titulares de los Poderes Ejecutivo y Judicial del Estado. El titular del Poder Ejecutivo se sentará a la derecha del Presidente de la Mesa Directiva y el Magistrado Presidente del Tribunal Superior de Justicia del Poder Judicial del Estado, a la izquierda del Presidente de la Mesa Directiva.
+
+###### ARTÍCULO 14.
+
+En la sesión de instalación de la Comisión Permanente del último periodo de receso de la Legislatura saliente, el Presidente de la Mesa Directiva realizará la declaratoria siguiente: "...se declara instalada la Comisión Permanente en Comisión de Instalación de la (número ordinal que corresponde a la Legislatura entrante) Legislatura del Congreso del Estado."
+
+Lo anterior, sin perjuicio de que siga realizando, paralelamente, sus funciones Constitucionales como Comisión Permanente.
+
+###### ARTÍCULO 15.
+
+El Congreso del Estado para los efectos de notificaciones y comunicados respecto a los procedimientos en trámite, de Diputados electos comunicará al Instituto Electoral y de Participación Ciudadana y al Tribunal Electoral del Estado la declaratoria de la instalación de la Comisión Permanente en funciones de Comisión de Instalación.
+
+###### ARTÍCULO 16.
+
+La Comisión de Instalación tendrá a su cargo las siguientes funciones:
+
+I. Recibir de la Secretaría Parlamentaria la documentación precisada en el artículo 11 del presente ordenamiento y, en su caso, las resoluciones del Órgano Jurisdiccional Electoral que se hayan recibido;
+
+II. Reunirse durante la última semana de su encargo, para verificar la documentación a que se refiere la fracción anterior. Si a las doce horas del quinto día previo a la renovación, el Presidente no ha convocado a reunión, lo podrán hacer los Vicepresidentes integrantes de la Comisión en el orden de prelación en que hayan sido designados;
+
+III. Expedir las credenciales que acrediten a los Diputados Electos, de conformidad con las constancias y, en su caso, las resoluciones a que se refiere la fracción I de este artículo. Las credenciales serán firmadas por el Presidente y por al menos uno de los Secretarios de la Comisión de Instalación;
+
+IV. Citar, por conducto del Presidente de la Comisión de Instalación, a los Diputados electos a Junta Preparatoria tres días antes del cambio de Legislatura, con el único objeto de elegir la Mesa Directiva que conducirá los trabajos correspondientes al Primer Año de Ejercicio Constitucional y tomarles la protesta de ley, citando en el mismo acto a la sesión de instalación de la nueva Legislatura.
+
+En lo conducente, para la integración, elección y votación de la Mesa Directiva, se atenderá lo dispuesto en esta Ley Orgánica;
+
+V. Recibir de la Mesa Directiva, de la Junta de Coordinación y de los órganos técnicos y administrativos del Congreso del Estado, los archivos, bienes muebles e inmuebles que formen el patrimonio y la memoria histórica.
+
+Para lo señalado en ésta y la siguiente fracción, la Comisión de Instalación se apoyará de la Contraloría Interna del Congreso del Estado;
+
+VI. Entregar a la Mesa Directiva electa, mediante acta circunstanciada, la totalidad de documentos a que se refiere la fracción I de éste artículo, así como los archivos y los bienes muebles e inmuebles que formen el patrimonio del Congreso del Estado, con un informe de los trabajos de la Legislatura saliente.
+
+Para los efectos de la presente fracción, la Comisión de Instalación cuidará que los órganos técnicos y administrativos del Congreso del Estado, se ajusten en lo conducente a lo dispuesto en la normatividad en materia de Entrega-Recepción, Fiscalización y Rendición de Cuentas, vigente en el Estado; y,
+
+VII. Dar cumplimiento, en lo que corresponda, al procedimiento de instalación.
+
+###### ARTÍCULO 17.
+
+Para la sesión de instalación de la Legislatura entrante, convocada para el día uno de septiembre del año de la renovación, se procederá conforme a los siguientes preceptos:
+
+I. El Presidente dará cuenta del informe respecto al ejercicio de las atribuciones de la Comisión de Instalación, determinadas en el artículo anterior;
+
+II. Enseguida, se pasará lista a los Diputados electos, y comprobada que se tenga la concurrencia de la mayoría a que refiere el Artículo 57 de la Constitución Política del Estado, se otorgará la palabra al Presidente de la Comisión, a efecto de que invite a los integrantes de la Mesa Directiva electos en la Junta Preparatoria, a que ocupen el lugar que les corresponde, concluyendo en ese momento las funciones de la Comisión Instaladora.
+
+Para el caso de que en la fecha y hora que hubieren sido convocados, no concurrieren las dos terceras partes del total de los integrantes para la rendición de la protesta constitucional, se citará a una segunda convocatoria que tendrá lugar dentro de las ocho horas siguientes para celebrar la sesión de instalación. Para el caso de que tampoco se cuente con las dos terceras partes de los integrantes, la instalación se llevará a cabo con la mayoría absoluta de los mismos, debiéndose compeler a los ausentes para que concurran de inmediato, apercibiéndolos que de no hacerlo dentro de los diez días siguientes, se llamará al suplente respectivo, salvo los casos de impedimento justificado. Si el suplente correspondiente tampoco se presentara a la brevedad requerida, se declarará vacante el puesto y notificará de inmediato al Consejo General del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero, para que convoque a elecciones extraordinarias.
+
+III. En cumplimiento a lo establecido en la Constitución Política del Estado, el Presidente de la Mesa Directiva se pondrá de pie, haciendo lo propio los demás Diputados, asistentes e invitados a la Sesión, y con un brazo extendido otorgará la siguiente protesta:
+
+"Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Guerrero y las leyes que de ellas emanen, desempeñar leal y patrióticamente el cargo de Diputado que el pueblo me ha conferido, mirando en todo por el bien y prosperidad del Estado; y si así no lo hiciere, que el pueblo de Guerrero me lo demande."
+
+IV. El Presidente de la Mesa Directiva tomará la protesta de Ley a los Diputados electos, en los siguientes términos:
+
+"¿Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Guerrero y las Leyes que de ellas emanen, así como desempeñar leal y patrióticamente el cargo de Diputado que el pueblo les ha conferido, mirando en todo por el bien y prosperidad del Estado?"
+
+Los Diputados electos responderán:
+
+"Sí, protesto".
+
+El Presidente proseguirá:
+
+"Si así no lo hicieren, que el pueblo de Guerrero se los demande".
+
+V. Una vez satisfecho el requisito de la protesta constitucional, el Presidente de la Mesa Directiva hará la declaratoria de instalación de la Legislatura, conforme a lo siguiente:
+
+"El Congreso del Estado Libre y Soberano de Guerrero, correspondiente a la (número ordinal) Legislatura, se declara legalmente instalada y constituida para el ejercicio de sus atribuciones por el periodo comprendido del (día, mes y año, al día, mes y año)".
+
+VI. La instalación de la nueva Legislatura, la integración de la Mesa Directiva y la instalación del Periodo de Sesiones Ordinarias, se comunicará por oficio a los Poderes Ejecutivo y Judicial del Estado, a los Poderes de la Unión, a las Legislaturas de las demás Entidades Federativas y a los Ayuntamientos de la Entidad.
+
+En el caso de los Poderes Ejecutivo y Judicial del Estado, podrán designarse Comisiones de cortesía para informar de la instalación de la Legislatura.
+
+VII. Los Diputados electos que no hubieren asistido a las sesiones de instalación de la Legislatura y del Primer Periodo de Sesiones Ordinarias, serán convocados por el Presidente de la Mesa para que rindan la protesta constitucional, en la sesión inmediata del Congreso del Estado. Para tomarles la protesta, se procederá en la forma descrita en la fracción IV del presente artículo.
+
+En caso de que los Diputados electos y formalmente convocados, sin que haya mediado justificación previamente calificada por el Presidente de la Mesa, no se presentarán a rendir la protesta constitucional en las fechas convocadas, el Presidente de la Mesa procederá en los términos del artículo 47 de la Constitución Política del Estado.
+
+###### ARTÍCULO 18.
+
+Los acuerdos y resoluciones del Congreso del Estado, en que hubiesen participado Diputados cuya elección anulen las autoridades electorales con posterioridad, tendrán plena validez.
+
+### CAPÍTULO QUINTO. DE LA INMUNIDAD DE LOS DIPUTADOS
+
+###### ARTÍCULO 19.
+
+Durante el ejercicio de su encargo, los Diputados tendrán la inmunidad que establecen la Constitución Política General, la Constitución Política del Estado y las leyes vigentes.
+
+La inmunidad constitucional es inherente al cargo de Diputado, protege el ejercicio de sus atribuciones y salvaguarda la integración y buen funcionamiento del Congreso del Estado.
+
+La inmunidad constitucional iniciará una vez que se rinda la protesta constitucional, y concluirá el último día de ejercicio de la Legislatura tocante.
+
+Los Diputados son inviolables por las opiniones que manifiesten en el desempeño de sus cargos y jamás podrán ser reconvenidos o enjuiciados por ellas ni por el sentido de sus votos y no podrá exigírseles responsabilidad legal alguna.
+
+###### ARTÍCULO 20.
+
+Los Diputados son responsables por los delitos que cometan durante el tiempo de su encargo y por las acciones, omisiones, faltas e infracciones en que incurran en el ejercicio de ese mismo cargo; no podrán ser detenidos ni ejercitarse en su contra la acción penal hasta que, seguido el procedimiento constitucional, se decida la separación del cargo y la sujeción a la acción de los tribunales comunes.
+
+En demandas del orden civil, mercantil y laboral, los Diputados no gozarán de inmunidad alguna.
+
+En los casos de faltas e infracciones de orden administrativo en que incurran los Diputados durante el ejercicio del cargo, les serán aplicables los requisitos, trámites y procedimientos establecidos en la legislación respectiva.
+
+###### ARTÍCULO 21.
+
+Una vez conocida la detención de un Diputado o cualquier otra actuación de autoridad judicial o administrativa que obstaculice o impida el desempeño del cargo, el Presidente de la Mesa Directiva realizará de inmediato las acciones necesarias tendientes a salvaguardar la inmunidad constitucional, así como la integración y buen funcionamiento del Congreso del Estado.
+
+### CAPÍTULO SEXTO. DE LOS DERECHOS, PRERROGATIVAS Y OBLIGACIONES DE LOS DIPUTADOS
+
+###### ARTÍCULO 22.
+
+Los Diputados tendrán la misma categoría e iguales derechos, obligaciones y prerrogativas, sin importar su filiación política o sistema de elección.
+
+###### ARTÍCULO 23.
+
+Son derechos y prerrogativas de los Diputados:
+
+I. Presentar iniciativas de leyes y decretos, y proposiciones, ante el Pleno y/o la Comisión Permanente, en su caso;
+
+II. Asistir con voz y voto a las sesiones del Pleno y de la Comisión Permanente, en su caso;
+
+III. Participar en las sesiones, reuniones, debates, discusiones, votaciones y cualquier otro evento para los que están facultados, realizado en el Pleno, las Comisiones, los Comités y los demás órganos del Congreso, así como presentar excitativas, mociones, solicitudes, propuestas y votos particulares;
+
+IV. Ser integrante de un Grupo Parlamentario o Representación Parlamentaria; o declararse sin Partido;
+
+V. Elegir y ser electos para integrar los órganos de gobierno y representación del Congreso del Estado, así como de aquellos otros establecidos en la Constitución Política del Estado y las leyes vigentes;
+
+VI. Ser electos o designados para participar en delegaciones, foros, consultas, seminarios, reuniones y ceremonias de carácter oficial en el Estado, el país o en el extranjero;
+
+VII. Promover ante las instancias competentes la atención de peticiones y solicitudes de gestión que les formulen ciudadanos, de acuerdo a la representación que ostentan;
+
+VIII. Contar con una identificación oficial que acredite el cargo;
+
+IX. Recibir una dieta digna y adecuada, la cual no podrá ser disminuida durante el periodo para el que fueron electos;
+
+X. Disponer de los recursos económicos, humanos, materiales, tecnológicos y de información que les sean asignados conforme a la disponibilidad presupuestal para desempeñar con dignidad y eficiencia su cargo;
+
+XI. Solicitar, por conducto del órgano legislativo competente, de las autoridades y entidades públicas del Estado y de los Ayuntamientos, la información necesaria para el adecuado desarrollo de sus funciones;
+
+XII. Obtener, previa solicitud, licencia para separarse del ejercicio de su cargo, así como solicitar su reincorporación al mismo;
+
+XIII. Solicitar y recibir información de las instancias administrativas, parlamentarias, técnicas y de investigación del Congreso del Estado; y,
+
+XIV. Los demás que establezcan la Constitución Política del Estado y las leyes vigentes.
+
+###### ARTÍCULO 24.
+
+En términos del Artículo 4o. de la Constitución General, las Diputadas y los Diputados participarán en la integración de los Órganos del Congreso del Estado bajo el principio de igualdad. Al efecto, los órganos responsables y los Grupos y Representaciones Parlamentarias cuidarán que las propuestas para la integración de las instancias de trabajo legislativo y parlamentario reflejen, en la medida de lo posible, la paridad de género y la representatividad de los Grupos y Representaciones Parlamentarias.
+
+###### ARTÍCULO 25.
+
+Los Diputados recibirán periódicamente la dieta y remuneraciones que se aprueben en el presupuesto correspondiente y que les permitan desempeñar con eficiencia y dignidad el cargo para el que fueron electos. La dieta y las demás prestaciones a las que tengan derecho, serán iguales para todos los Diputados.
+
+Las dietas serán personales y sólo podrán ser objeto de descuento por la Secretaría Financiera, previa autorización del Presidente de la Mesa Directiva o instrucción de la Junta de Coordinación Política o por mandato judicial, tendiente al cumplimiento coactivo de obligaciones personales, en términos de Ley.
+
+###### ARTÍCULO 26.
+
+Son obligaciones de los Diputados:
+
+I. Rendir la protesta constitucional y tomar posesión de su cargo para desempeñarlo con apego a la Constitución Política General, la Constitución Política del Estado, esta Ley Orgánica, su Reglamento y demás disposiciones aplicables, así como participar en todas las actividades inherentes al mismo, con la dignidad y responsabilidad que corresponden a su investidura;
+
+II. Asistir puntualmente a las sesiones y reuniones del Pleno, Comisión Permanente, Órganos de Gobierno a que se les convoquen, Comisiones y Comités de los que formen parte y permanecer en ellas hasta su conclusión, así como participar en las votaciones;
+
+III. Ejercer el voto, salvo que exista excusa;
+
+IV. Acatar los acuerdos del Pleno, de la Comisión Permanente, de los órganos de Gobierno, de las Comisiones y de los Comités; así como, desempeñar las funciones y realizar las actividades para las cuales sean designados o electos por los órganos del Congreso del Estado;
+
+V. Participar en todas las actividades inherentes a su cargo, dentro y fuera del Recinto Oficial, con el decoro y dignidad que corresponde a su investidura;
+
+VI. Cuidar que los recursos de que dispongan para el ejercicio de su cargo, se destinen a los fines para los que sean asignados;
+
+VII. Conducirse con respeto y cortesía a los demás legisladores, así como con el personal que presta sus servicios al Congreso del Estado y con las personas que participen o concurran a las sesiones y reuniones de los órganos del Congreso del Estado;
+
+VIII. Informar al Pleno, a la Comisión Permanente, Comisión o Comité que corresponda, de los asuntos competencia del Congreso del Estado, en los que tengan interés económico o beneficio personal y excusarse de participar en la promoción, gestión y recomendación de los mismos, así como en los trámites y procedimientos relativos;
+
+IX. Abstenerse de realizar actos incompatibles con las funciones que desempeñen, así como hacer valer su condición de Diputado en toda clase de asuntos o negocios en los que obtenga beneficio propio;
+
+X. Abstenerse de revelar cualquier información reservada o confidencial a la que tengan acceso en el desempeño de sus funciones, conforme a lo dispuesto por las normas en materia de transparencia y de seguridad pública. El incumplimiento a esta obligación será sancionado en términos de la legislación respectiva y la presente Ley Orgánica y su Reglamento;
+
+XI. Evitar intervenir como actor, representante legal, mandatario o patrón, en juicios de cualquier índole, en los que el patrimonio del Estado esté en riesgo;
+
+XII. Presentar en tiempo y forma las declaraciones e informes que establezcan las normas aplicables o que deban rendir con motivo del desempeño de sus funciones o encomiendas;
+
+XIII. Presentar ante las autoridades competentes: a) declaración patrimonial; b) declaración de impuestos; y, c) declaración de intereses. Estas declaraciones podrán hacerse públicas según disponga la Ley de la materia;
+
+XIV. Renunciar a obtener, por la realización de actividades inherentes a su cargo o su impacto, beneficios económicos o en especie para:
+
+a) Sí, su cónyuge, concubina o concubino;
+
+b) Parientes consanguíneos o por afinidad hasta el cuarto grado;
+
+c) Terceros con los que tenga relaciones profesionales, laborales, de negocios; o,
+
+d) Socios o empresas de las que el Diputado forme o haya formado parte.
+
+XV. Presentar anualmente un informe escrito del ejercicio de sus funciones ante el Presidente de la Mesa Directiva, sin perjuicio de que puedan hacerlo ante la ciudadanía;
+
+XVI. Permitir la libre discusión y decisión parlamentaria en las sesiones y/o en las reuniones; y,
+
+XVII. Las demás que establezcan la Constitución Política General, la Constitución Política del Estado y las leyes vigentes.
+
+En el ámbito de sus atribuciones, cada Diputado será gestor y promotor del pueblo y auxiliará a sus representados en sus demandas sociales y en los asuntos de interés general, a fin de lograr su oportuna solución.
+
+###### ARTÍCULO 27.
+
+Los derechos y obligaciones de los Diputados sólo podrán suspenderse por causa grave calificada por el Pleno del Congreso del Estado, previo el procedimiento legal respectivo, en el que se respeten sus derechos de audiencia, de legalidad y de debido proceso.
+
+### CAPÍTULO SÉPTIMO. DEL RÉGIMEN DE RESPONSABILIDADES DE LOS DIPUTADOS Y LA DISCIPLINA PARLAMENTARIA
+
+###### ARTÍCULO 28.
+
+En el desempeño de su cargo los Diputados serán sujetos de las responsabilidades de orden político, penal, administrativo y de la disciplina parlamentaria en los términos que establecen la Constitución General, la Constitución Política del Estado, la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios de Guerrero, la Ley de Transparencia y Acceso a la Información Pública del Estado de Guerrero, el Código Penal del Estado de Guerrero, esta Ley Orgánica y su Reglamento y demás disposiciones aplicables vigentes.
+
+###### ARTÍCULO 29.
+
+Las sanciones consistentes en la destitución o inhabilitación de un Diputado o la separación de su cargo, se determinarán y aplicarán conforme a los procedimientos señalados en los artículos 52, 195, 196 y 197 de la Constitución Política del Estado.
+
+###### ARTÍCULO 30.
+
+Los procedimientos relativos para la aplicación de sanciones administrativas a los Diputados se realizará conforme a lo establecido en la presente Ley Orgánica y su Reglamento.
+
+Los Grupos y Representaciones Parlamentarias, tratándose de faltas administrativas internas, estarán a lo dispuesto por su normatividad.
+
+Las faltas administrativas en que incurran los demás servidores públicos del Congreso, serán sancionadas por la Contraloría Interna, conforme a los procedimientos establecidos al efecto.
+
+###### ARTÍCULO 31.
+
+Las sanciones disciplinarias a las que pueden hacerse acreedores los Diputados, son:
+
+I. Amonestación
+
+II. Disminución de la dieta;
+
+III. Remoción de las Comisiones o Comités de los que formen parte, y
+
+IV. Suspensión del cargo.
+
+El Diputado contra quien se inicie un proceso disciplinario tendrá derecho de audiencia y se sujetará al procedimiento establecido en el Reglamento de esta Ley Orgánica; excepción hecha de la amonestación pública, la que será impuesta al momento de la infracción.
+
+###### ARTÍCULO 32.
+
+Los Diputados serán amonestados públicamente por el Presidente de la Mesa Directiva, dejando constancia de ello en el acta de la sesión correspondiente y en el Diario de los Debates, cuando:
+
+I.- Alteren el orden en las sesiones o del trabajo en Comisiones; o,
+
+II.- Hagan uso indebido de la tribuna.
+
+Acumuladas tres amonestaciones, procederá la suspensión del cargo por quince días.
+
+###### ARTÍCULO 33.
+
+La dieta de los Diputados será disminuida de uno a treinta días, cuando se den las siguientes hipótesis:
+
+I. Cuando, sin causa justificada, no asista a sesión o la abandone durante su desarrollo y no regrese antes de su conclusión o se ausente durante una votación; o,
+
+II. Cuando, sin causa justificada, falte a tres sesiones consecutivas del Pleno, de la Comisión Permanente, de Comisiones o de Comités.
+
+El Presidente de la Mesa Directiva calificará la justificación de las inasistencias y las sanciones y sus decisiones serán definitivas.
+
+Cuando la falta se haya calificado como justificada, quedará asentada en esos términos en el acta de la sesión correspondiente y en la publicación del registro de faltas y asistencias que se hace en el Portal Oficial.
+
+Cuando un Diputado falte a más de siete sesiones consecutivas del Pleno o de la Comisión Permanente, sin causa justificada, se iniciará el procedimiento respectivo para determinar si la ausencia es definitiva, y, de ser así, se llamará de manera inmediata a su suplente para culminar el periodo constitucional.
+
+###### ARTÍCULO 34.
+
+Para los efectos del artículo anterior, se considera falta justificada de un Diputado:
+
+I. Incapacidad por enfermedad;
+
+II. Incapacidad por embarazo de alto riesgo;
+
+III. Atención de asuntos de carácter personal que impliquen riesgo o gravedad, a juicio del Presidente de la Mesa, o por casos fortuitos o de fuerza mayor;
+
+IV. El desempeño de comisión o representación oficial por el Congreso del Estado, del Presidente de la Mesa o por la Comisión o Comité; o,
+
+V. La atención apremiante de asuntos propios de su representación popular, a juicio del Presidente de la Mesa Directiva.
+
+###### ARTÍCULO 35.
+
+El incumplimiento de lo dispuesto en la fracción X del artículo 26 de la presente Ley Orgánica, será sancionado con la remoción de las Comisiones o Comités de los que forme parte y la pérdida permanente de su derecho para formar parte integrante de las mismas.
+
+### CAPÍTULO OCTAVO. DE LAS LICENCIAS, SUPLENCIAS Y VACANTES
+
+#### SECCIÓN I. DE LAS LICENCIAS
+
+###### ARTÍCULO 36.
+
+La licencia es la anuencia que otorga el Congreso, o en su caso la Comisión Permanente, a la decisión de los Diputados de separarse temporalmente del ejercicio de su cargo.
+
+###### ARTÍCULO 37.
+
+Para obtener licencia, los Diputados presentarán ante el Presidente solicitud por escrito, con firma autógrafa y con señalamiento de la causa. Dicha solicitud será resuelta por el Pleno en la sesión inmediata.
+
+Durante el tiempo de la licencia, conforme al Artículo 47, fracción IV, de la Constitución Política del Estado, los Diputados estarán suspendidos temporalmente de su inmunidad constitucional y cesarán en el ejercicio de sus funciones representativas y no gozarán, por tanto, de los derechos inherentes al cargo, tampoco de las obligaciones y garantías.
+
+###### ARTÍCULO 38.
+
+Los Diputados y las Diputadas tendrán derecho a solicitar y, en su caso, obtener licencia del Pleno por las siguientes causas:
+
+I. Enfermedad que los incapacite temporalmente para el desempeño de la función;
+
+II. Hasta por tres meses por estado de gravidez o de postparto;
+
+III. Desempeñar empleo, cargo o comisión de carácter público, por el que se perciba remuneración;
+
+IV. Postularse a un cargo de elección popular cuando la licencia sea condición establecida en las disposiciones electorales correspondientes o en la normativa interna del partido político de que se trate; y,
+
+V. Otras diversas a las señaladas en las fracciones anteriores.
+
+Conforme a las solicitudes presentadas, el Pleno decidirá el otorgamiento de las licencias tomando en consideración la debida integración del Congreso.
+
+###### ARTÍCULO 39.
+
+Aprobada la licencia, el Presidente de la Mesa Directiva llamará de manera inmediata al suplente para que asuma el ejercicio del cargo de Diputado. Una vez que rinda la protesta constitucional, entrará en funciones hasta en tanto el propietario se encuentre en posibilidad de reasumir el cargo.
+
+Para reincorporarse al ejercicio de las actividades legislativas, el Diputado con licencia lo informará por escrito al Presidente de la Mesa Directiva, quien tomará la nota correspondiente, notificará al suplente para que cese en el ejercicio del cargo en la fecha que se indique y lo hará del conocimiento del Pleno, para los efectos legales conducentes.
+
+#### SECCIÓN II. DE LAS SUPLENCIAS
+
+###### ARTÍCULO 40.
+
+La suplencia en el ejercicio del cargo de Diputado se hará efectiva cuando el propietario:
+
+I. No acuda a asumir el cargo dentro del término establecido en ésta Ley Orgánica;
+
+II. Se encuentre física o legalmente impedido para desempeñarlo;
+
+III. Solicite y obtenga licencia;
+
+IV. Deje de asistir a diez sesiones consecutivas del Pleno sin licencia o causa justificada;
+
+V. Desempeñe comisión o empleo de la Federación, del Estado o de otras Entidades Federativas, de los Municipios o de cualquier otro ente público, por los cuales se disfrute remuneración, sin la licencia correspondiente, y,
+
+VI. Opte por el ejercicio de otro cargo de elección popular.
+
+#### SECCIÓN III. DE LAS VACANTES
+
+###### ARTÍCULO 41.
+
+La vacante en el cargo de Diputado se concretará con la declaración que haga el Presidente de la Mesa Directiva por la ausencia definitiva del propietario y el suplente.
+
+Las vacantes de Diputados se cubrirán conforme a lo dispuesto por el Artículo 47 de la Constitución Política del Estado.
+
+###### ARTÍCULO 42.
+
+La vacante de Diputado a que se refiere el Artículo anterior, se originará por las siguientes causas:
+
+I. Haber sido sancionado con la pérdida del cargo en términos de lo dispuesto por el Artículo 52 de la Constitución Política del Estado;
+
+II. Entenderse que no acepta el cargo al no haber concurrido al desempeño de su función;
+
+III. Muerte o por enfermedad que provoque una incapacidad total permanente;
+
+IV. Haber optado por otro cargo de elección popular;
+
+V. Resolución firme que lo destituya del cargo, en términos del Título Décimo Tercero de la Constitución Política del Estado, y,
+
+VI. Cualquier otra situación jurídica que implique la pérdida del cargo.
+
+### CAPÍTULO NOVENO. DE LA APERTURA Y CLAUSURA DE LOS PERÍODOS DE SESIONES
+
+###### ARTÍCULO 43.
+
+El Congreso del Estado en cada año legislativo, tendrá dos períodos ordinarios de sesiones ordinarias. El primero iniciará el uno de septiembre y concluirá el quince de enero del siguiente año; el segundo, empezará el uno de marzo y culminará el quince de junio.
+
+Los periodos de sesiones ordinarias podrán prorrogarse por el tiempo que acuerde el Pleno del Congreso del Estado y lo requiera la importancia de los asuntos en trámite.
+
+En caso de que no pudieran instalarse o clausurarse los periodos de sesiones en los días ya estipulados, la Conferencia acordará lo pertinente para su realización inmediata.
+
+###### ARTÍCULO 44.
+
+Por cada periodo de sesiones habrá un periodo de receso.
+
+La Comisión Permanente sesionará durante los periodos de receso, en los que podrá acordar convocar a periodos de sesiones extraordinarias del Pleno por sí o a petición del Gobernador del Estado.
+
+La convocatoria para celebrar periodo de sesiones extraordinarias, además de fijar la fecha de inicio del período, deberá señalar el o los asuntos que en el mismo se tratarán, no pudiendo agregar otros con posterioridad, ni durante el desarrollo del periodo.
+
+###### ARTÍCULO 45.
+
+El día de la instalación de los períodos ordinarios de Sesiones se reunirán los Diputados a la hora señalada para la apertura de los mismos, a cuyo acto se podrá invitar al Gobernador del Estado y al Presidente del Tribunal Superior de Justicia.
+
+Una vez que los Diputados e invitados hayan tomado sus respectivos lugares, el Presidente del Congreso, hará la siguiente declaración:
+
+"La (número ordinal sucesivo que le corresponda) Legislatura al Honorable Congreso del Estado Libre y Soberano de Guerrero, hoy, siendo las __ horas con __ minutos del (día, mes y año), declara formalmente instalado y da por iniciados los trabajos del (primero o segundo) período ordinario de Sesiones, correspondiente al (primero, segundo o tercer) año de su ejercicio constitucional".
+
+###### ARTÍCULO 46.
+
+Si el período que se abra o clausure es de sesiones ordinarias o extraordinarias, el Presidente hará la declaratoria expresa en ese sentido.
+
+###### ARTÍCULO 47.
+
+La apertura y clausura de los períodos de sesiones, se comunicarán al Ejecutivo del Estado, al Presidente del Tribunal Superior de Justicia, a los Ayuntamientos del Estado; al Ejecutivo Federal, por conducto de la Secretaría de Gobernación; a los Poderes Legislativo y Judicial de la Federación, y a las Legislaturas de las Entidades Federativas.
+
+### CAPÍTULO DÉCIMO. DEL ACCESO AL SALÓN DE PLENOS
+
+###### ARTÍCULO 48.
+
+A las Sesiones que no tengan el carácter de secretas, podrá acudir el público que tenga interés en ello, instalándose en las galerías del Salón de Sesiones. En Sesiones Solemnes, el Congreso del Estado se podrá reservar el derecho de acceso tanto al salón de sesiones como a las áreas anexas mediante invitaciones, pases o acreditaciones que se distribuirán por la Secretaría Parlamentaria, previo acuerdo de la Junta de Coordinación.
+
+No se permitirá el acceso a quienes se encuentren en estado de ebriedad, bajo los efectos de alguna droga o porten armas.
+
+###### ARTÍCULO 49.
+
+Los asistentes al Recinto Oficial observarán el mayor respeto, silencio y compostura; por ningún motivo podrán tomar parte en las deliberaciones, ni interrumpir los trabajos parlamentarios y legislativos del Congreso del Estado, ni realizar manifestaciones de ningún género.
+
+La infracción a lo dispuesto en el párrafo anterior, será sancionada por el Presidente de la Mesa, ordenando abandonar el salón al o los responsables; si la conducta observada pudiera constituir la comisión de algún delito, mandará detener a quien o quienes la cometan y, bajo la custodia correspondiente, se pondrán a disposición de la autoridad competente.
+
+###### ARTÍCULO 50.
+
+Si las disposiciones ordenadas por el Presidente de la Mesa no bastaran para contener el desorden en el Recinto Oficial, de inmediato levantará la sesión y podrá continuarla en secreto en espacio alterno.
+
+###### ARTÍCULO 51.
+
+El Presidente de la Mesa podrá solicitar el auxilio de la fuerza pública para salvaguardar la inmunidad constitucional de los Diputados, la integridad física de éstos, la del personal y del público que ahí se encuentre y, la inviolabilidad del Recinto Oficial o del que se haya habilitado como tal en términos de esta Ley Orgánica.
+
+La fuerza pública que haga presencia en la sede del Congreso del Estado o lugar habilitado para la realización de la sesión, quedará al mando del Presidente de la Mesa, quien determinará lo conducente.
+
+Cuando sin mediar autorización se hiciere presente la fuerza pública, el Presidente de la Mesa podrá decretar la suspensión de la sesión hasta que dicha fuerza hubiese abandonado el Recinto Oficial, haciendo del conocimiento a la autoridad o autoridades correspondientes a efecto de que se finquen las responsabilidades conducentes.
+
+Ninguna persona o autoridad, interna o externa, tendrá acceso o permanecerá en las instalaciones del Recinto cuando porte arma blanca o de fuego; salvo los casos que autoricen conjuntamente, los Presidentes de la Mesa y de la Junta de Coordinación Política.
+
+###### ARTÍCULO 52.
+
+Cuando asistan a las Sesiones del Congreso del Estado invitados especiales, Senadores, Diputados Federales o Servidores Públicos de los poderes Ejecutivo o Judicial de la Federación o del Estado, ocuparán el lugar que les asigne la Mesa Directiva.
+
+###### ARTÍCULO 53.
+
+El uso de la tribuna del Congreso del Estado corresponderá exclusivamente a los Diputados, los Servidores Públicos, los invitados especiales y quienes deban intervenir conforme a la Ley, en los términos que señala el presente ordenamiento, su Reglamento y las demás disposiciones aplicables.
+
+El Presidente concederá el uso de la tribuna conforme al Orden del Día, los turnos y los tiempos establecidos en esta Ley Orgánica y su Reglamento.
+
+### CAPÍTULO DÉCIMO PRIMERO. DE LOS TIPOS Y MODALIDADES DE SESIONES
+
+###### ARTÍCULO 54.
+
+Las Sesiones podrán ser:
+
+Por su carácter: ordinarias, extraordinarias, urgentes y solemnes; y,
+
+Por su desarrollo: públicas, secretas y permanentes.
+
+I. Son ordinarias las sesiones que se celebren durante los períodos ordinarios y serán públicas, salvo lo previsto en la fracción IV de este Artículo;
+
+II. Son sesiones extraordinarias las que se celebren fuera de los periodos de sesiones ordinarias enunciados en la Constitución Política del Estado y esta Ley Orgánica;
+
+III. Tendrán el carácter de urgentes las Sesiones a que cite el Presidente de la Mesa Directiva, y que no estén programadas dentro de un período de sesiones;
+
+IV. Serán materia de sesión secreta los asuntos siguientes:
+
+a) Los asuntos que con nota de "secretos" sean dirigidos al Congreso del Estado por el Gobernador del Estado;
+
+b) Los asuntos que determine la Conferencia para la dirección y programación de los trabajos legislativos, que requieran de reserva, y,
+
+c) Aquellos que esta u otras Leyes así lo señalen.
+
+Las sesiones secretas, dada la naturaleza del asunto que traten, se realizarán sin la presencia de público y no se transmitirán por ningún medio. Para tales efectos, la Mesa Directiva determinará las medidas que deban adoptarse para el control de acceso y la presencia del personal de apoyo en el salón de Sesiones.
+
+Cuando en una sesión secreta se estime que un asunto amerita estricta reserva, el Presidente de la Mesa Directiva lo consultará al Pleno. De ser afirmativa la respuesta, los presentes estarán obligados a guardar la reserva. En su caso, se les dará el tratamiento de información reservada o confidencial establecido en la Ley de la materia y en las disposiciones reglamentarias correspondientes.
+
+V. Cuando el Congreso del Estado lo determine se constituirá en sesión permanente que podrá ser pública o secreta para tratar sólo el asunto o asuntos que se hubieren señalado previamente por la Conferencia para la Dirección y Programación de los Trabajos Legislativos. La duración de esta sesión será por todo el tiempo necesario para tratar los asuntos agendados, pudiendo el Presidente de la Mesa Directiva determinar los recesos que se estimen pertinentes.
+
+De presentarse algún asunto con el carácter de urgente que deba tratarse en la sesión permanente, el Presidente de la Mesa Directiva consultará al Pleno si se incluirá en el Orden del Día.
+
+VI. Serán solemnes aquellas Sesiones en las que el Gobernador del Estado acuda personalmente ante el Congreso del Estado para rendir la protesta de Ley o para informar sobre el estado que guarda la Administración Pública de la Entidad; la sesión para conmemorar la instalación del Primer Congreso de Anáhuac, en la que se hará entrega de la Presea "Sentimientos de la Nación"; las que así se determinen para conmemorar sucesos históricos o celebrar actos en los que el Congreso del Estado otorgue reconocimiento a los méritos de alguna persona, así como los demás casos que establece esta Ley y los que acuerde el Congreso del Estado.
+
+Las Sesiones del Congreso del Estado no podrán abrirse si no concurre la mitad más uno del número total de Diputados que la integran, y sus resoluciones se tomarán por mayoría absoluta de votos de los Diputados presentes, salvo los casos en que la Constitución Política del Estado o las Leyes determinen una votación distinta.
+
+###### ARTÍCULO 55.
+
+Las sesiones ordinarias de carácter público se verificarán, al menos, una vez por semana, en los días que acuerde la Conferencia.
+
+El Proyecto de orden del día de cada sesión se hará del conocimiento de los Diputados a través de medios electrónicos o impresos.
+
+Abierta la sesión, se someterá a consideración la propuesta de Orden del Día acordada en la Conferencia.
+
+###### ARTÍCULO 56.
+
+Si por falta de quórum no pudiera iniciarse una sesión una hora después de la señalada, el Presidente de la Mesa Directiva ordenará se pase lista a los Diputados presentes y se giren comunicaciones a los ausentes, previniéndoles para que acudan a la sesión. Si realizado nuevamente el pase de lista no hubiere quórum se disolverá la reunión y el Presidente de la Mesa Directiva convocará para otra fecha. Lo anterior, sin perjuicio de la sanción a que se hagan acreedores los ausentes.
+
+###### ARTÍCULO 57.
+
+Mientras un Secretario de la Mesa Directiva esté dando cuenta de los asuntos, el otro anotará en los expedientes los trámites que sobre los mismos recaigan.
+
+###### ARTÍCULO 58.
+
+Cuando el Congreso del Estado se reúna en períodos de Sesiones extraordinarias, se ocupará exclusivamente del asunto o asuntos contenidos en la convocatoria y orden del día aprobadas para tal efecto.
+
+###### ARTÍCULO 59.
+
+El Congreso del Estado se erigirá en Gran Jurado cuando se ocupe de los asuntos a que se refiere el Artículo 195 de la Constitución Política Local. En la apertura de la sesión correspondiente, el Presidente de la Mesa Directiva hará la declaratoria en ese sentido.
+
+###### ARTÍCULO 60.
+
+En la sesión de clausura del período ordinario de Sesiones, después de aprobada el acta de la sesión anterior, se dará cuenta de los asuntos que hubiere en cartera y se resolverán los que hayan sido dictaminados o se declaren de urgente y obvia resolución. Los demás se turnarán a la Comisión o Comité que correspondan, para su estudio o dictamen. El Presidente del Congreso del Estado rendirá el informe sobre los trabajos realizados en el período que se clausura.
+
+###### ARTÍCULO 61.
+
+En la primera quincena de octubre de cada año y en la primera de julio del último año de su ejercicio constitucional, el Gobernador del Estado enviará al Congreso del Estado su informe anual sobre el estado que guarda la administración.
+
+Si el Gobernador del Estado, comunica que habrá de asistir a la sede del Poder Legislativo para pronunciar un mensaje sobre el mismo, conforme a lo que dispone la Constitución Política del Estado, la sesión será solemne y tendrá verificativo en la segunda quincena de octubre y en el último año de su ejercicio constitucional en la segunda quincena de julio.
+
+El Gobernador deberá estar presente al momento en que los Grupos y las Representaciones Parlamentarias fijen postura, misma que se sujetará a un tiempo máximo de diez minutos. En tal caso, todos los integrantes de la Legislatura tienen la obligación de estar presentes en la sesión al momento en que el Gobernador dé lectura al mensaje relativo al informe de Gobierno.
+
+Las intervenciones referidas en el párrafo anterior, se realizarán en orden creciente, en razón del número de Diputados de cada Grupo o Representación Parlamentarias.
+
+Fijadas las posturas de los Grupos y Representaciones Parlamentarias, continuará la sesión solemne con el mensaje que pronunciará el Gobernador del Estado.
+
+El Presidente de la Mesa Directiva contestará el informe en términos concisos, precisos y generales y lo hará al finalizar el mensaje del Gobernador del Estado.
+
+De ser el caso, antes de clausurar la sesión solemne, el representante del Titular del Poder Ejecutivo Federal, expresará un mensaje alusivo.
+
+Durante la sesión solemne no procederán intervenciones o interrupciones, ni manifestación alguna contraria al protocolo por parte de los Diputados. La falta de observancia a estas disposiciones, será sancionada conforme lo establecido en el apartado de sanciones dispuesto en la presente Ley Orgánica.
+
+En el supuesto señalado en el numeral 2 del artículo 73 de la Constitución Política del Estado, las sesiones en las que el Congreso del Estado realizará la glosa y el análisis del informe del Gobernador del Estado y aquellas otras en las que se reciba la comparecencia de servidores públicos, se desarrollarán conforme a los lineamientos detallados en el Reglamento de esta Ley Orgánica.
+
+### CAPÍTULO DÉCIMO SEGUNDO. DE LA ASISTENCIA Y EL QUÓRUM
+
+###### ARTÍCULO 62.
+
+Los Diputados registrarán su asistencia a cada sesión a través del sistema electrónico; si no es posible la operación del mismo, la Secretaría de la Mesa Directiva procederá al pase de lista o al registro de firmas.
+
+El sistema electrónico se abrirá noventa minutos antes de la hora prevista para el inicio de la sesión y se cerrará treinta minutos después de iniciada.
+
+Si un Diputado no registrara su asistencia a través del sistema electrónico, podrá hacerlo ante la Secretaría de la Mesa Directiva, hasta treinta minutos después de cerrado el mismo.
+
+El Presidente de la Mesa Directiva ordenará hacer avisos cinco minutos antes del inicio de la sesión para que los Diputados pasen al salón de sesiones. Los avisos se harán con la misma anticipación para reanudar una sesión o efectuar una votación.
+
+Los avisos a que se refiere el párrafo anterior deberán ser perceptibles en el edificio donde se ubica el salón de Sesiones.
+
+###### ARTÍCULO 63.
+
+La sesión iniciará una vez que se declare el quórum, el cual se constituirá con la asistencia de la mitad más uno de los integrantes del Congreso.
+
+Si en el transcurso de la sesión se produjera la falta de quórum en alguna votación nominal, el Presidente de la Mesa Directiva decretará un receso y si al reiniciar la sesión tampoco hubiera quórum dará por concluida la sesión.
+
+Si durante el desarrollo de una sesión algún Diputado reclamara el quórum y la falta de éste es notoria, bastará una simple declaración del Presidente de la Mesa Directiva para decretar un receso y proceder en los términos del párrafo anterior. Cuando la falta de quórum sea dudosa, se procederá a su comprobación y, de ser el caso, se levantará la sesión.
+
+Los asuntos que queden pendientes en una sesión así concluida, se integrarán en el Orden del Día de la siguiente sesión.
+
+###### ARTÍCULO 64.
+
+Se considerará inasistencia a una sesión cuando el Diputado no registre su asistencia conforme a lo señalado en el artículo 62 de esta Ley. Asimismo, si no se encontrare presente durante las votaciones nominales.
+
+En cualquiera de los supuestos anteriores, si el Diputado se incorpora con posterioridad al inicio de la sesión podrá participar en ella.
+
+###### ARTÍCULO 65.
+
+Los Diputados dispondrán de tres días hábiles a partir del siguiente cuando se produzca la inasistencia para, en su caso, remitir al Presidente de la Mesa Directiva la correspondiente solicitud de justificación, con los medios que la acrediten.
+
+En ningún caso el Presidente de la Mesa Directiva justificará más de seis inasistencias en un período de sesiones ordinarias, salvo por las causas señaladas en las fracciones I, II y IV del artículo 34 de esta Ley Orgánica.
+
+Para los periodos de Sesiones extraordinarias el Presidente establecerá y validará el número de inasistencias justificables.
+
+###### ARTÍCULO 66.
+
+El control de la asistencia estará a cargo de los Secretarios de la Mesa Directiva, con el auxilio de los Órganos competentes de apoyo técnico. En todo caso, el Presidente de la Mesa Directiva comunicará a la Secretaría las inasistencias justificadas.
+
+###### ARTÍCULO 67.
+
+Al finalizar cada sesión, la Secretaría de la Mesa Directiva elaborará un registro con lo siguiente:
+
+I. La relación de Diputados asistentes, conforme a lo dispuesto en el Artículo 62 de este ordenamiento;
+
+II. Los nombres de los Diputados que se encuentran en los supuestos a que se refieren las fracciones I, II y IV del artículo 34 de esta Ley Orgánica, y,
+
+III. Los nombres de quienes previamente justificaron su inasistencia u obtuvieron permiso del Presidente de la Mesa Directiva.
+
+###### ARTÍCULO 68.
+
+El Secretario de la Mesa Directiva firmará el registro referido en el artículo anterior. Dicho registro se incorporará al acta de la sesión, con la mención de que los Diputados que no asistieron contarán, en su caso, con el plazo establecido en el artículo 65 de esta Ley Orgánica, para remitir su solicitud de justificación.
+
+La Secretaría entregará al Presidente de la Mesa Directiva copia del registro para su remisión a los coordinadores de los Grupos parlamentarios.
+
+El registro se anexará al Diario de los Debates y se publicará en la Gaceta y en la página de Internet del Congreso.
+
+###### ARTÍCULO 69.
+
+Transcurrido el plazo previsto para la remisión de la justificación de inasistencia, la Secretaría de la Mesa Directiva emitirá un reporte actualizado con los nombres de quienes realizaron el trámite y de los que no lo hicieron.
+
+La Secretaría entregará el reporte a la Mesa Directiva, para que el Presidente ordene su publicación en la Gaceta y en la página de Internet del Congreso.
+
+###### ARTÍCULO 70.
+
+Dentro de los veinte días hábiles siguientes a la clausura de cada período de sesiones, la Secretaría formulará un informe final de las inasistencias sin justificar, el cual se publicará en la Gaceta y en la página de Internet del Congreso.
+
+###### ARTÍCULO 71.
+
+El Presidente de la Mesa Directiva ordenará el descuento en la dieta correspondiente de quien no haya justificado su inasistencia, lo que no será materia de deliberación ni votación en el Pleno.
+
+### CAPÍTULO DÉCIMO TERCERO. ORDEN DEL DÍA
+
+###### ARTÍCULO 72.
+
+El Proyecto de Orden del Día de una sesión es el listado formulado por la Conferencia con los asuntos que se presenten para el conocimiento, trámite o resolución del Pleno. El Pleno por el voto de la mayoría absoluta de los Diputados presentes aprobará el Proyecto de Orden del Día que le someta a consideración el Presidente de la Mesa Directiva.
+
+###### ARTÍCULO 73.
+
+El Proyecto de Orden del Día que formule la Conferencia se elaborará en reunión previa a cada sesión, a partir de los informes, asuntos, solicitudes y comunicaciones que, en su caso, presenten:
+
+I. La Mesa Directiva;
+
+II. La Junta de Coordinación Política;
+
+III. Las Comisiones y los Comités;
+
+IV. Los Grupos Parlamentarios y las Representaciones Parlamentarias;
+
+V. Los Diputados;
+
+VI. Los otros Poderes del Estado, de la Federación y los Ayuntamientos;
+
+VII. Los Órganos constitucionales autónomos;
+
+VIII. Otros entes Públicos, federales, locales o Municipales; y,
+
+IX. Los particulares.
+
+###### ARTÍCULO 74.
+
+En la formulación del Proyecto de Orden del Día tendrán prioridad los asuntos que deba conocer, discutir o votar el Pleno conforme a plazos previstos en disposiciones constitucionales, legales o reglamentarias, y aquellos que representen un mayor interés público.
+
+Cuando la Conferencia reciba un asunto que deba ser incorporado en el Orden del Día, programará su inclusión en un plazo no mayor a diez días naturales.
+
+A propuesta del Presidente, la Conferencia para la Dirección y Programación de los Trabajos Legislativos, podrá integrar el Proyecto de Orden del Día tomando en consideración el calendario de sesiones, las cargas de trabajo durante las mismas, y los apartados prioritarios para el desahogo del trabajo legislativo.
+
+###### ARTÍCULO 75.
+
+El Orden del Día de las sesiones ordinarias se integrará, en lo conducente, por los apartados que se indican y con la prelación siguiente:
+
+I. Lista de asistencia y declaración de quórum;
+
+II. Acta de la sesión anterior para su discusión y aprobación, en su caso;
+
+III. Comunicados provenientes de los Poderes de la Unión, del Poder Ejecutivo y Judicial del Estado, de los Ayuntamientos de la Entidad u otros entes públicos, así como de los Poderes y autoridades de otros Estados;
+
+IV. Correspondencia de particulares, que sea de interés general para la población;
+
+V. Iniciativas de Ley del Ejecutivo, de los Diputados, del Tribunal Superior de Justicia, de los Órganos Autónomos y de los Ayuntamientos o Consejos Municipales e Iniciativas ciudadanas, en su caso;
+
+VI. Los Dictámenes de Ley o Decreto, de primera lectura;
+
+VII. Los Dictámenes de Ley o de Decreto, de segunda lectura, discusión y votación;
+
+VIII. Los Dictámenes de acuerdos;
+
+IX. Proposiciones de acuerdos o de resoluciones económicas sobre el régimen interior del Congreso del Estado que presentan sus Órganos de gobierno;
+
+X. Proposiciones de Grupos parlamentarios;
+
+XI. Proposiciones con punto de acuerdo de Diputados;
+
+XII. Solicitudes de excitativas;
+
+XIII. Las intervenciones de los Diputados, agenda política y efemérides.
+
+En el Orden del Día se distinguirán los asuntos que deban ser votados de aquellos con carácter sólo deliberativo o informativo.
+
+En casos justificados, previamente a la sesión o durante la misma, la Mesa Directiva podrá modificar la prelación en el desahogo de apartados o asuntos incluidos en el Orden del Día.
+
+###### ARTÍCULO 76.
+
+La solicitud para incluir un asunto en el Proyecto de Orden del Día se remitirá al Presidente, con la indicación del Diputado o Diputados que lo promuevan, observando los siguientes requisitos:
+
+I. Se presentará por escrito a más tardar a las 15:00 horas del día anterior a la reunión de la Conferencia para la Dirección y Programación de los Trabajos Legislativos, y,
+
+II. Se acompañará con el correspondiente archivo electrónico y una versión impresa firmada por el autor o autores.
+
+Aprobado el Proyecto de Orden del Día por la Conferencia para la Dirección y Programación de los Trabajos Legislativos, se enviará a los demás integrantes de la Mesa y a los coordinadores de los Grupos parlamentarios y Representaciones de partido.
+
+###### ARTÍCULO 77.
+
+El Presidente ordenará distribuir o enviar en medio impreso o electrónico el Proyecto de Orden del Día de la sesión para el conocimiento de todos los Diputados.
+
+En la Gaceta se publicarán los documentos relativos a los asuntos que habrán de desahogarse, a efecto de que los Diputados cuenten con la información pertinente en forma previa a la sesión.
+
+###### ARTÍCULO 78.
+
+En el Proyecto de Orden del Día que se someta a consideración del Pleno para su aprobación, se podrán incluir Dictámenes con Proyectos de Ley o Decreto o comunicaciones recibidos con posterioridad a la publicación en la Gaceta y antes del inicio de la sesión, a solicitud de la Junta de Coordinación Política.
+
+Previo a la aprobación del Orden del Día, los Grupos y Representaciones Parlamentarias, las Comisiones o Comités y los Diputados en lo individual, podrán solicitar se incluyan otros asuntos, pero ello sólo procederá siempre y cuando el Pleno lo apruebe por mayoría absoluta de votos de los asistentes. En su caso, previamente al desahogo del asunto de que se trate, los documentos relativos se distribuirán de manera impresa para cada Diputado y posteriormente se publicarán en un alcance de la Gaceta.
+
+### CAPÍTULO DÉCIMO CUARTO. DEL USO DE LA PALABRA
+
+###### ARTÍCULO 79.
+
+Los Diputados harán uso de la palabra en tribuna, previa autorización del Presidente, de acuerdo con el Orden del Día, para los siguientes efectos y sujetándose a los tiempos que para cada caso se indica:
+
+I.- Presentación de Iniciativas, hasta por diez minutos;
+
+II.- Presentación de Dictámenes a nombre de las Comisiones, hasta por diez minutos, excepto cuando se trate de reformas constitucionales, en cuyo caso se contará hasta con quince minutos, en una o varias intervenciones;
+
+III.- Presentación de voto particular, hasta por diez minutos;
+
+IV.- Posicionamiento de grupo o representación parlamentaria, hasta por diez minutos;
+
+V.- Intervenciones en contra o a favor, hasta por cinco minutos;
+
+VI.- Respuestas a preguntas que se le formulen durante su intervención, hasta por tres minutos, adicionales a la misma;
+
+VII.- Referencia a alusiones personales, hasta por cinco minutos;
+
+VIII.- Rectificación de hechos, hasta por cinco minutos;
+
+IX.- Formulación de proposiciones con punto de acuerdo, hasta por cinco minutos;
+
+X.- Intervenciones en agenda política, hasta por diez minutos, y,
+
+XI.- Conmemoración de efemérides, hasta por diez minutos.
+
+Los Diputados harán uso de la palabra desde su curul, previa autorización del Presidente de la Mesa Directiva, por un tiempo máximo de tres minutos, en los siguientes casos:
+
+I.- Para formular observaciones al Orden del Día;
+
+II.- Para realizar precisiones al acta de la sesión anterior;
+
+III.- Para presentar mociones;
+
+IV.- Para formular preguntas al orador en tribuna;
+
+V.- Para solicitar aclaraciones de procedimiento, rectificación o ampliación de turno, y,
+
+VI.- Para solicitar verificación del quórum.
+
+Los Diputados, sea desde su curul o en tribuna, podrán solicitar al Presidente de la Mesa Directiva instruya a la Secretaría dar lectura a algún texto breve relacionado con el tema de que se trata. De ser procedente, el tiempo de la lectura no excederá a cinco minutos y será adicional al que tenga derecho el orador.
+
+Si durante su intervención un Diputado presentara al Pleno cualquier material o documento relativo al tema de que se trate, el Presidente de la Mesa Directiva instruirá a la Secretaría se resguarde para los efectos a que haya lugar.
+
+###### ARTÍCULO 80.
+
+Los Diputados podrán solicitar al Presidente que les permita hacer al orador preguntas relacionadas con el asunto de que se trata. Si el Presidente admite la solicitud y el orador acepta la pregunta, se desahogarán en los tiempos reglamentarios.
+
+La respuesta a una pregunta no dará lugar a réplica.
+
+###### ARTÍCULO 81.
+
+En el desarrollo del debate se concederá la palabra a un Diputado cuando se le aluda de manera personal. Para estos efectos el solicitante intervendrá inmediatamente después del orador.
+
+En el caso de alusiones personales, deberán haberse hecho de manera nominal o de modo que no quede duda que el solicitante ha sido mencionado. No se considerarán alusiones las referencias a personas morales.
+
+###### ARTÍCULO 82.
+
+La rectificación de hechos se limitará exclusivamente a enunciar los que, habiendo sido referidos, se estimen incorrectos y a exponer clara y concisamente las razones que se tengan para ello.
+
+###### ARTÍCULO 83.
+
+Las observaciones al Orden del Día las formularán los Diputados y el Presidente de la Mesa Directiva las atenderá en lo conducente.
+
+###### ARTÍCULO 84.
+
+Las precisiones al acta de la sesión anterior las harán los Diputados previo a que se someta a votación el Proyecto correspondiente, señalando, de forma breve y directa, las modificaciones que se sugieren o las incorrecciones observadas. En su caso, el Presidente de la Mesa Directiva ordenará a la Secretaría hacer las modificaciones conducentes.
+
+###### ARTÍCULO 85.
+
+La solicitud de un Diputado para aclaración de procedimiento, rectificación o ampliación de turno, en su caso, será atendida por el Presidente de la Mesa Directiva.
+
+###### ARTÍCULO 86.
+
+En el uso de la palabra, un Diputado sólo podrá ser interrumpido por el Presidente en los siguientes casos:
+
+I.- Al concluir el tiempo autorizado para su intervención;
+
+II.- Al agotarse el tiempo adicional que, en su caso, se le conceda;
+
+III.- Al apartarse del tema de que se trata;
+
+IV.- Ante una pregunta relacionada con su intervención;
+
+V.- Para dar lectura a algún documento relativo al tema;
+
+VI.- Ante la formulación de alguna moción, y,
+
+VII.- Para llamar al orden al Pleno, a alguno de sus integrantes, al personal de apoyo o al público asistente al salón de sesiones.
+
+###### ARTÍCULO 87.
+
+En el uso de la palabra el Diputado se dirigirá al Pleno; por tanto, quedarán prohibidos los diálogos.
+
+###### ARTÍCULO 88.
+
+Al Diputado que no se encuentre en el salón de Sesiones cuando sea su turno en el uso de la palabra, se le otorgará al final de la lista de oradores en el apartado que corresponda del Orden del Día.
+
+En el supuesto de que el Diputado no esté presente al finalizar la lista de oradores, se considerará que declina su participación.
+
+###### ARTÍCULO 89.
+
+Los Diputados en el uso de la palabra se abstendrán de proferir ofensas o injurias.
+
+En caso de que las ofensas o injurias se refieran a otro Diputado o a un grupo de Diputados, se podrán reclamar en la misma sesión cuando el orador concluya su intervención; de estar ausente el o los agraviados, lo reclamarán en la siguiente sesión.
+
+El Presidente de la Mesa Directiva exhortará al orador a que se abstenga en lo subsecuente y retire las ofensas o injurias para que no se registren en el acta de la sesión; de no aceptarlo el orador, el Presidente ordenará a la Secretaría el registro de las mismas.
+
+### CAPÍTULO DÉCIMO QUINTO. DE LA DISCUSIÓN
+
+###### ARTÍCULO 90.
+
+Las discusiones en el Pleno iniciarán con la presentación de Dictámenes, proposiciones, mociones, informes, temas de agenda política o demás asuntos, que se sometan a la deliberación y, en su caso, a votación.
+
+Los temas de agenda política serán propuestos por los Diputados en lo individual o por los Grupos o Representaciones Parlamentarias, para referirse a situaciones relevantes de carácter municipal, estatal, nacional o internacional.
+
+Las efemérides se programarán en atención al calendario cívico estatal, nacional o internacional, o a sugerencia de Diputados respecto de fechas o sucesos memorables.
+
+Ningún asunto será objeto de debate en el Pleno sin la previa publicación en los medios electrónicos del Congreso del Estado de los documentos relativos o, en su caso, la oportuna distribución de los mismos a los Diputados.
+
+No serán objeto de debate los asuntos meramente informativos, ni los que se turnen a Comisiones, salvo que por acuerdo del Pleno se les dispense de dicho trámite por considerarse de urgente resolución.
+
+###### ARTÍCULO 91.
+
+El número y el orden de participaciones en la discusión los establecerá el Presidente de la Mesa Directiva conforme a esta Ley y su Reglamento.
+
+En los debates que por su trascendencia así lo ameriten, el Pleno, a propuesta de la Mesa Directiva, podrá determinar que se desarrollen bajo acuerdo especial que los regule en cuanto a número, orden y duración de las intervenciones.
+
+###### ARTÍCULO 92.
+
+Previo al desahogo del Orden del Día, para los asuntos que requieran discusión, el Presidente de la Mesa Directiva, en acuerdo con los Grupos y Representaciones parlamentarias, elaborará la lista de oradores con los Diputados que intervengan y el sentido en que lo harán.
+
+En los asuntos sólo deliberativos, el orden de los oradores se determinará según se inscriban en la lista respectiva.
+
+Los Diputados que hagan uso de la palabra en un mismo sentido podrán cederse el turno entre ellos, o ser sustituidos por otro de su grupo o representación parlamentaria, previa comunicación al Presidente.
+
+Los Diputados no incluidos en la lista de oradores podrán solicitar el uso de la palabra para responder alusiones personales, formular preguntas, rectificar hechos, presentar mociones o solicitar la lectura de documentos.
+
+###### ARTÍCULO 93.
+
+Para la discusión en los asuntos que deban votarse, se listarán los oradores en contra y en pro de manera alternada conforme se solicite el uso de la palabra.
+
+El debate iniciará siempre con un orador en contra.
+
+En los asuntos en que sólo se registren oradores a favor, podrán intervenir uno por grupo y representación parlamentaria.
+
+En los asuntos en que sólo se registren oradores en contra, podrá intervenir uno por grupo y representación parlamentaria.
+
+De no registrarse oradores o de considerarse suficientemente discutido el asunto, se someterá de inmediato a votación cuando así proceda.
+
+###### ARTÍCULO 94.
+
+El Presidente de la Mesa Directiva, tomando en consideración el desarrollo del debate, informará sobre la lista de oradores pendientes en el uso de la palabra y anunciará que al agotarse dicha lista se preguntará al Pleno si el asunto se considera suficientemente discutido.
+
+Una vez consultado el Pleno, en caso de respuesta negativa, continuará el debate, bastando la intervención de un orador en contra y de otro a favor para repetir la pregunta.
+
+De no registrarse oradores a favor ni en contra, el asunto se votará inmediatamente.
+
+###### ARTÍCULO 95.
+
+Una discusión sólo se suspenderá por cualquiera de las siguientes causas:
+
+I.- Por acuerdo del Pleno, cuando el asunto se considere suficientemente discutido;
+
+II.- Al concluir la sesión conforme a esta Ley Orgánica y su Reglamento, salvo que se prorrogue por acuerdo del Pleno;
+
+III.- Cuando el Pleno dé preferencia a otro asunto de mayor urgencia;
+
+IV.- Por moción suspensiva aprobada por el Pleno;
+
+V.- Por fuerza mayor o caso fortuito, y,
+
+VI.- Por desorden grave en el salón de sesiones.
+
+### CAPÍTULO DÉCIMO SEXTO. DE LAS VOTACIONES
+
+###### ARTÍCULO 96.
+
+El voto es una obligación y un derecho de cada Diputado, personal e intransferible, por medio del cual decidirá libremente sobre los asuntos sometidos a su consideración.
+
+La votación del Pleno es el conjunto de sufragios emitidos por los Diputados sobre cada asunto.
+
+El voto se emitirá a favor, en contra o en abstención. Para aprobar o desechar el asunto de que se trate sólo contarán los votos emitidos a favor o en contra.
+
+###### ARTÍCULO 97.
+
+Las decisiones en el Pleno se adoptarán por mayoría absoluta o por mayorías calificadas o especiales, sea de la totalidad de los integrantes del Congreso del Estado o de los Diputados presentes, según lo dispongan la Constitución Política del Estado, esta Ley Orgánica, su Reglamento y demás disposiciones aplicables.
+
+La mayoría absoluta se constituirá con la suma de más de la mitad de los votos emitidos en un mismo sentido, cuando se opte entre dos propuestas.
+
+Las mayorías calificadas o especiales se constituirán con la suma de los votos emitidos en un mismo sentido en número superior al de la mayoría absoluta, conforme a lo dispuesto en la Constitución del Estado, esta Ley Orgánica, su Reglamento y demás disposiciones aplicables. En el caso de la votación calificada del total de los integrantes del Congreso, el Presidente de la Mesa Directiva verificará que por lo menos estén presentes en la sesión tres cuartas partes del total de los integrantes del Congreso, sin lo cual el asunto no podrá ser sometido a votación.
+
+Las decisiones en el Pleno se acordarán por mayoría absoluta de votos de los Diputados presentes en la sesión de que se trate, salvo que los ordenamientos aplicables determinen otro tipo de mayoría, referida ya sea a los presentes o a la totalidad de los integrantes del Congreso.
+
+###### ARTÍCULO 98.
+
+Se someterán a votación los siguientes asuntos: los previamente dictaminados y publicados; las Iniciativas al Congreso de la Unión, las propuestas, los Proyectos y las proposiciones con punto de acuerdo considerados de urgente u obvia resolución; y los dispuestos así por esta Ley Orgánica o su Reglamento.
+
+El Pleno por el voto de las dos terceras partes de los diputados presentes, podrá, por urgente u obvia resolución, dispensar la publicación en la Gaceta o, en su caso, la lectura de Dictámenes o Proyectos, a propuesta justificada del Presidente de la Mesa.
+
+###### ARTÍCULO 99.
+
+Antes de cada votación, el Presidente explicará el objeto de la misma al Pleno.
+
+Iniciada una votación no se interrumpirá por ningún motivo.
+
+###### ARTÍCULO 100.
+
+La votación podrá ser: nominal, económica o por cédula.
+
+I. Será nominal cuando cada Diputado emita su voto después de identificarse por su nombre y apellidos, sea en voz alta o a través del Sistema Electrónico;
+
+II. Será económica cuando se pongan de pie o levanten la mano para expresar el sentido del voto, a favor, en contra o en abstención, a requerimiento del Presidente de la Mesa Directiva. En este caso, los Diputados al término de la votación podrán solicitar que conste en el acta de la sesión el sentido de su voto, y,
+
+III. Será por cédula cuando se elijan personas a través de una papeleta que se deposita en una urna, por regla general, salvo los casos que la Junta de Coordinación apruebe se vote de una forma distinta, así como las excepciones que se indican en esta Ley Orgánica y su Reglamento.
+
+###### ARTÍCULO 101.
+
+La votación nominal se realizará a través del Sistema Electrónico o, en su caso, en voz alta por cada Diputado.
+
+Cuando se utilice el Sistema Electrónico, el Presidente de la Mesa Directiva indicará el tiempo de que se dispondrá para votar, sin que sea menor a dos ni mayor a diez minutos; una vez concluido el tiempo disponible el Secretario preguntará si falta algún Diputado por emitir su voto y, en su caso, lo registrará nominalmente.
+
+De no disponer del Sistema Electrónico, la Mesa Directiva recibirá la votación nominal del modo siguiente:
+
+I.- Cada Diputado, comenzando por el ubicado del lado derecho del Presidente de la Mesa Directiva en el salón de sesiones, se pondrá de pie y después de decir en voz alta su nombre y apellidos, expresará el sentido de su voto;
+
+II.- Un Secretario registrará los votos a favor y otro los votos en contra y las abstenciones;
+
+III.- Acto seguido el Secretario preguntará si falta algún Diputado por emitir su voto y, en su caso, lo registrará, y,
+
+IV.- Al término de lo anterior, votarán los integrantes de la Mesa Directiva; el Presidente lo hará al final.
+
+Al concluir la votación la Secretaría informará el resultado al Presidente de la Mesa Directiva, quien hará la declaratoria correspondiente y ordenará el trámite que proceda.
+
+###### ARTÍCULO 102.
+
+Se votarán nominalmente los Dictámenes de las Comisiones con los Proyectos de Ley. En los casos de Decreto, la votación será económica, salvo que la Junta de Coordinación acuerde que sea nominal.
+
+Se votarán también en forma nominal cuando así lo acuerde la Mesa Directiva; lo solicite un Diputado; o bien, cuando se haya realizado previamente una votación económica y quedaren dudas de su resultado.
+
+###### ARTÍCULO 103.
+
+El Presidente de la Mesa Directiva podrá someter a consideración del Pleno que la discusión o votación en lo general de Dictámenes o Proyectos se realice de manera conjunta y en un solo momento, cuando los ordenamientos o su articulado aborden materias similares.
+
+###### ARTÍCULO 104.
+
+La votación por cédula se realizará conforme al siguiente procedimiento:
+
+I.- La Mesa Directiva ordenará que se distribuyan a los Diputados las papeletas a través de las cuales expresarán el sentido de su voto;
+
+II.- Se colocará, en lugar visible frente a la Mesa, una urna transparente para depositar las papeletas;
+
+III.- Cada Diputado, al ser nombrado por la Secretaría, depositará en la urna su voto;
+
+IV.- Concluido lo anterior, los Secretarios extraerán las cédulas de la urna y realizarán el cómputo de los votos, y,
+
+V.- La Secretaría informará el resultado al Presidente de la Mesa Directiva, quien lo dará a conocer al Pleno, hará la declaratoria formal y ordenará el trámite que proceda.
+
+###### ARTÍCULO 105.
+
+Si el resultado fuera un empate en una votación, se decretará un breve receso para lograr los entendimientos necesarios y se volverá a someter a votación el asunto; si por segunda ocasión existe el empate, el asunto se discutirá y votará nuevamente en la sesión siguiente. Si subsiste el empate el Presidente de la Mesa Directiva tendrá voto de calidad.
+
+Cuando la Constitución Política del Estado o alguna Ley establezcan una mayoría calificada en determinado asunto y esta no se alcanzara en una primera ronda de votación, se decretará un receso para lograr los entendimientos y se volverá a someter a votación el asunto, si no alcanza la votación requerida se desechará y se procederá según corresponda.
+
+### CAPÍTULO DÉCIMO SÉPTIMO. DE LAS MOCIONES
+
+###### ARTÍCULO 106.
+
+Las mociones son propuestas al Presidente de la Mesa formuladas por los Diputados para plantear una cuestión específica relacionada con el desarrollo de la sesión en general, o con la discusión de un asunto en lo particular.
+
+Las mociones serán:
+
+I.- De Orden;
+
+II.- Suspensivas;
+
+III.- De urgente resolución;
+
+IV.- De procedimiento, y,
+
+V.- De remoción.
+
+La moción de orden será resuelta por el Presidente de la Mesa Directiva. La suspensiva, la de urgente resolución, la de procedimiento y la de remoción se someterán, de ser el caso, al voto del Pleno.
+
+###### ARTÍCULO 107.
+
+La moción de orden tiene como objetivo que las sesiones del Congreso del Estado se realicen con apego a las normas que las regulan.
+
+En la moción de orden durante el desarrollo de la sesión, se solicitará al Presidente de la Mesa Directiva que llame al Pleno a que se guarde silencio, se mantenga la compostura, se ocupen las curules o se cumpla alguna disposición de esta Ley Orgánica o de su Reglamento. De igual modo, los Diputados podrán solicitar que se llame al orden al personal de apoyo y al público asistente o se corrija cualquier otra situación que signifique falta de respeto al orador o altere el desarrollo de la sesión.
+
+En la moción de orden al orador, un Diputado o Diputados podrán solicitar al Presidente de la Mesa Directiva que ejerza sus facultades previstas en esta Ley Orgánica y su Reglamento.
+
+Si la moción de orden es aceptada por el Presidente, procederá a lo conducente; de lo contrario, continuará el desarrollo de la sesión.
+
+###### ARTÍCULO 108.
+
+La moción suspensiva de un debate en el Pleno tiene por objeto que no se inicie o que se interrumpa, a efecto de que el asunto de que se trate sea revisado o devuelto a Comisiones.
+
+Sólo serán materia de moción suspensiva los debates en lo general de los Dictámenes o Proyectos que se voten.
+
+La moción suspensiva se presentará por un Diputado al menos, quien precisará si se refiere sólo al debate o a que el asunto se revise o regrese a Comisiones.
+
+###### ARTÍCULO 109.
+
+La moción suspensiva se presentará por escrito a la Presidencia de la Mesa Directiva, antes de que inicie o durante el debate del asunto de que se trate.
+
+Se leerá la moción y sin otro requisito que oír al autor o uno de sus autores, si así lo quieren, y a algún impugnador, si lo hay, se preguntará al Pleno si se admite a debate o se desecha.
+
+De admitirse la moción, se formará una lista de hasta dos oradores en contra y dos a favor. Concluidas las intervenciones, se someterá a votación.
+
+De aprobarse la moción suspensiva, el Presidente dispondrá el trámite que recaerá al asunto objeto de la misma.
+
+En una sesión no se admitirá más de una moción suspensiva sobre un mismo asunto.
+
+###### ARTÍCULO 110.
+
+El dictamen o proyecto que por moción suspensiva sea devuelto a Comisiones para los efectos correspondientes, se presentará nuevamente al Pleno, a más tardar dentro de los 15 días hábiles siguientes.
+
+No procederá moción suspensiva en asuntos que ya hayan sido objeto de la misma y se presenten nuevamente al Pleno en otra sesión.
+
+###### ARTÍCULO 111.
+
+La moción de urgente resolución tiene por objeto poner un asunto a discusión y, en su caso, a votación del Pleno sin pasar a Comisiones para su dictamen previo.
+
+La moción de urgente resolución será resuelta por el voto aprobatorio de las dos terceras partes de los Diputados presentes.
+
+###### ARTÍCULO 112.
+
+La moción de urgente resolución la planteará algún Diputado al Presidente de la Mesa Directiva por escrito o de viva voz, al darse cuenta al Pleno de una proposición con punto de acuerdo u otro tipo de asuntos similares.
+
+Al presentar una moción de urgente resolución, su autor necesariamente deberá explicar sucintamente las consideraciones que motivan y justifiquen su solicitud.
+
+###### ARTÍCULO 113.
+
+La moción de urgente resolución se desahogará antes de que el Presidente dicte el trámite u otorgue el turno correspondiente.
+
+En su caso, una vez que se da cuenta de la moción, el Presidente de la Mesa Directiva consultará al Pleno si se acepta o se desecha.
+
+De desecharse la moción, el Presidente de la Mesa Directiva dictará el trámite que corresponda.
+
+De aprobarse la moción, el Presidente de la Mesa Directiva pondrá a discusión inmediatamente el asunto, pudiendo hacer uso de la palabra hasta dos Diputados en contra y dos en pro e inmediatamente se preguntará al Pleno si se aprueba o no la proposición.
+
+En una sesión no se admitirá más de una moción de urgente resolución sobre el mismo asunto.
+
+###### ARTÍCULO 114.
+
+La moción de procedimiento tiene como propósito reclamar las resoluciones del Presidente de la Mesa Directiva que se aparten de la normatividad aplicable o para proponer el trámite que deba darse a un asunto o asuntos determinados. Para ello se consultará el voto del Pleno, conforme a lo siguiente:
+
+I.- La moción se presentará por al menos un Diputado;
+
+II.- El Presidente de la Mesa Directiva precisará los términos de la consulta que se someta al Pleno, conforme a la moción presentada;
+
+III.- Se formará una lista hasta con dos oradores a favor y dos en contra. Cada uno de ellos intervendrá hasta por cinco minutos; y,
+
+IV.- Concluidas las intervenciones se consultará al Pleno si es de aprobarse o no la moción, a fin de proceder en consecuencia.
+
+###### ARTÍCULO 115.
+
+La moción para solicitar la remoción de un integrante de la Mesa se desahogará en los términos previstos en esta Ley Orgánica y su Reglamento.
+
+## TÍTULO TERCERO. DE LAS ATRIBUCIONES DEL CONGRESO DEL ESTADO
+
+### CAPÍTULO ÚNICO
+
+###### ARTÍCULO 116.
+
+Además de las facultades y atribuciones que le confieren la Constitución Política General, la Constitución Política del Estado, las Leyes y demás disposiciones jurídicas, al Congreso del Estado le corresponden:
+
+I. Aprobar a propuesta de la Junta de Coordinación los nombramientos, o ratificación de los Servidores Públicos titulares de los Órganos Administrativos y Técnicos del Congreso del Estado siguientes:
+
+a) Secretaría de Servicios Parlamentarios;
+
+b) Secretaría de Servicios Financieros y Administrativos;
+
+c) Auditoría General del Estado y las Auditorías Especiales;
+
+d) Instituto de Estudios Parlamentarios "Eduardo Neri";
+
+e) Contraloría Interna;
+
+f) Dirección de Comunicación;
+
+g) Unidad de Transparencia, y
+
+h) Unidad para la Igualdad de Género.
+
+II. Nombrar, designar, aprobar, ratificar, remover o revocar, según corresponda, a propuesta de la Junta de Coordinación Política o de la Comisión u órgano competente, a los Servidores Públicos que la Constitución Política del Estado u otras Leyes le confieran;
+
+III. Legislar en todas aquellas materias que no sean de la competencia exclusiva de la Federación, en términos del artículo 124 de la Constitución Política General;
+
+IV. Elaborar y en su caso, modificar, las leyes locales cuya expedición haga obligatoria la Constitución Política General y/o las Leyes Generales;
+
+V. Legislar en materia de división territorial del Estado a fin de crear, suprimir o fusionar municipalidades o distritos judiciales, aumentar o disminuir sus respectivos territorios, anexándoles o segregándoseles pueblos o localidades para una mejor administración general, mediante iniciativa del Titular del Poder Ejecutivo o del Tribunal Superior de Justicia, según corresponda;
+
+VI. Otorgar las Preseas "Sentimientos de la Nación" y "Eduardo Neri", en los términos establecidos por esta Ley Orgánica;
+
+VII. Legislar sobre el Municipio Libre sujetándose a lo establecido por el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
+
+VIII. Legislar en materia de expropiación por causa de utilidad pública, mediante iniciativa del Titular del Poder Ejecutivo;
+
+IX. Legislar en materia de organismos públicos descentralizados, mediante iniciativa del Titular del Poder Ejecutivo o de algún Ayuntamiento;
+
+X. Legislar respecto a la administración, conservación o inversión de los bienes del Estado y los Municipios y la enajenación de aquéllos que no sean susceptibles de aplicarse a un servicio público u otro uso;
+
+XI. Conocer, dar trámite y, en su caso, resolver los instrumentos de la participación ciudadana en los casos y conforme a los lineamientos que señale la Ley de la materia;
+
+XII. Excitar a los Poderes de la Unión a que protejan al Estado en los casos a que hace referencia el artículo 119 de la Constitución Política General;
+
+XIII. Informar al Congreso de la Unión en los casos a que se refiere el artículo 73 fracción III numeral 3° de la Constitución Política de los Estados Unidos Mexicanos y ratificar, previo los estudios y observaciones, la resolución que dicte el propio Congreso de la Unión, de acuerdo con los numerales 6° y 7° de la misma fracción III;
+
+XIV. Analizar y aprobar el Plan Estatal de Desarrollo, en un término que no exceda de cuarenta y cinco días naturales contados a partir de que tome conocimiento el Pleno del Congreso del Estado de la recepción del mismo, supervisar y dar seguimiento continuo, al cumplimiento de los objetivos y metas trazados en aquél;
+
+XV. Recibir durante la segunda quincena del mes de febrero o en fecha distinta si así se ha determinado por la autoridad competente, los informes por escrito del estado que guarda la administración de los Órganos Autónomos y con Autonomía Técnica del Estado;
+
+XVI. Aprobar anualmente su presupuesto, conforme lo establecido en la Ley de Presupuesto y Disciplina Fiscal;
+
+XVII. Aprobar y promulgar, sin intervención del titular del Poder Ejecutivo Estatal, su Ley Orgánica, Reglamentos y demás disposiciones, necesarias para el apropiado funcionamiento del Congreso del Estado y los órganos que lo componen;
+
+XVIII. Expedir las leyes que rijan las relaciones laborales del Estado y de los Municipios con sus trabajadores, conforme a lo dispuesto por el apartado B) del artículo 123 de la Constitución Política General; y
+
+XIX. Expedir las leyes que sean necesarias para hacer efectivas las facultades anteriores.
+
+### CAPÍTULO PRIMERO. DE LAS GENERALIDADES
+
+#### SECCIÓN I. DE SUS ATRIBUCIONES
+
+#### SECCIÓN II. DE SU INTEGRACIÓN, DURACIÓN Y ELECCIÓN
+
+## TÍTULO CUARTO. DE LOS ÓRGANOS DE GOBIERNO, LEGISLATIVOS, DE LOS DE REPRESENTACIÓN, DE LOS ADMINISTRATIVOS Y DE LOS TÉCNICOS
+
+### CAPÍTULO SEGUNDO. DEL PLENO
+
+###### ARTÍCULO 117.
+
+El Congreso del Estado para el conocimiento, análisis y resolución de los asuntos de su competencia, se organiza de conformidad con lo siguiente:
+
+I. Órganos de Gobierno y Legislativos:
+
+a) Pleno;
+
+b) Mesa Directiva;
+
+c) Comisión Permanente;
+
+d) Junta de Coordinación Política;
+
+e) Conferencia;
+
+f) Comisiones; y
+
+g) Comités.
+
+II. Órganos de Representación:
+
+a) Grupos Parlamentarios; y
+
+b) Representaciones Parlamentarias.
+
+III. Órganos técnicos y administrativos:
+
+a) Secretaría de Servicios Parlamentarios;
+
+b) Secretaría de Servicios Financieros y Administrativos;
+
+c) Auditoría General del Estado y las Auditorías Especiales;
+
+d) Instituto de Estudios Parlamentarios "Eduardo Neri";
+
+e) Contraloría Interna;
+
+f) Dirección de Comunicación;
+
+g) Unidad de Transparencia;
+
+h) Unidad para la Igualdad de Género;
+
+i) Unidad de las Tecnologías de Información y Comunicación;
+
+j) Unidad de Capacitación y Formación Permanente, y
+
+k) Los demás que por las necesidades disponga el presupuesto.
+
+La titularidad e integración de los órganos dispuestos en las fracciones I y II del presente artículo, corresponde únicamente a los Diputados en funciones de la Legislatura respectiva.
+
+Tratándose de quienes asuman la titularidad de los órganos señalados en la fracción III de este dispositivo, estará a cargo de profesionistas especializados en la materia que corresponda y para los efectos laborales, serán servidores públicos de confianza que deberán cubrir los requisitos que esta Ley Orgánica y su Reglamento precisen, sujetos al régimen jurídico de responsabilidades al que se refiere la Constitución Política del Estado.
+
+Lo anterior, exceptuando al titular del Órgano con Autonomía Técnica mencionado en el inciso c) de la fracción III de este artículo, el cual se regirá por las disposiciones específicas contenidas en los Títulos Noveno y Décimo Tercero de la Constitución Política del Estado y la Ley de Fiscalización Superior y Rendición de Cuentas del Estado.
+
+### CAPÍTULO TERCERO. DE LA MESA DIRECTIVA
+
+###### ARTÍCULO 118.
+
+El máximo órgano de gobierno del Congreso del Estado es el Pleno reunido conforme a las reglas del quórum y desempeña las atribuciones y funciones que le señalan la Constitución Política General, la Constitución Política del Estado y demás Leyes Generales y Estatales.
+
+###### ARTÍCULO 119.
+
+Al Pleno del Congreso del Estado le corresponde tomar las decisiones que conforman los diversos procesos parlamentarios para el ejercicio de sus facultades legislativas, jurisdiccionales, de control, de fiscalización y las demás conferidas constitucionalmente.
+
+### CAPÍTULO CUARTO. DE LA COMISIÓN PERMANENTE
+
+#### SECCIÓN III. DE SU PRESIDENTE
+
+###### ARTÍCULO 120.
+
+La Mesa Directiva es el órgano colegiado encargado de dirigir las funciones del Pleno y de la Comisión Permanente, en su caso, en las sesiones que se celebren durante su ejercicio constitucional.
+
+###### ARTÍCULO 121.
+
+Corresponde a la Mesa Directiva, bajo la autoridad de su Presidente, conducir las Sesiones y asegurar el debido desarrollo de los debates, discusiones y votaciones del Pleno, así como garantizar que en los trabajos legislativos prevalezca lo dispuesto en la Constitución Política del Estado y la Ley Orgánica.
+
+En su actuación la Mesa Directiva observará los principios de imparcialidad y objetividad y tendrá las siguientes atribuciones:
+
+I. Asegurar el adecuado desarrollo de las Sesiones del Pleno del Congreso;
+
+II. Realizar la interpretación de las normas de esta Ley Orgánica y de los demás ordenamientos relativos a la actividad parlamentaria que se requiera para el cumplimiento de sus atribuciones, así como para la adecuada conducción de la sesión;
+
+III. Someter a consideración del Pleno el Proyecto de Orden del Día acordado en la Conferencia y cumplir el orden del día para las Sesiones, el cual distinguirá claramente los asuntos que requieren votación de aquellos otros solamente deliberativos o de trámite, conforme al calendario legislativo establecido por la Conferencia;
+
+IV. Cuidar que los Dictámenes, propuestas, mociones, comunicados y demás escritos, cumplan con las normas que regulan su formulación y presentación;
+
+V. Determinar las sanciones con relación a las conductas que atenten contra la disciplina parlamentaria;
+
+VI. Designar las Comisiones de cortesía que resulten pertinentes para cumplir con el ceremonial;
+
+VII.- Autorizar el uso del salón de Sesiones del Pleno y de las demás instalaciones del Congreso del Estado no asignadas a fines específicos, para la realización de actos oficiales y de carácter educativo y cultural,
+
+VIII. Ordenar la publicación, en el portal electrónico del Congreso, del seguimiento de los asuntos turnados a las Comisiones y los Comités, así como a los demás Órganos técnicos y administrativos; y
+
+IX. Las demás que le atribuyan esta Ley Orgánica, los ordenamientos aplicables y los acuerdos del Pleno.
+
+#### SECCIÓN IV. DE SUS VICEPRESIDENTES
+
+###### ARTÍCULO 122.
+
+La Mesa Directiva será electa por el Pleno y ejercerá sus funciones por un año legislativo; se integrará con un Presidente, primer y segundo Vicepresidentes, dos Secretarios propietarios y dos Secretarios suplentes.
+
+La Mesa Directiva electa fungirá con ese carácter, en las sesiones del Pleno y de la Comisión Permanente que se realicen durante el año de ejercicio constitucional para el cual se eligió.
+
+El Pleno elegirá a la Mesa Directiva mediante votación por cédula.
+
+Los coordinadores de los Grupos no podrán formar parte de la Mesa Directiva del Congreso del Estado. Tampoco podrán integrar la Mesa Directiva, los Diputados que conformaron la Mesa Directiva saliente. Ni podrán ser Presidente de la Mesa Directiva los Diputados que pertenecen al Grupo Parlamentario del Diputado que presida la Junta de Coordinación Política.
+
+Quien resulte electo Presidente de la Mesa Directiva, durante el año de su encargo, no podrá integrar ni presidir alguna Comisión o Comité.
+
+###### ARTÍCULO 123.
+
+Para la elección de la Mesa Directiva, los Grupos y Representaciones Parlamentarias postularán a quienes deban integrarla, cuidando que los candidatos cuenten con experiencia en la conducción de asambleas.
+
+Además de lo anterior, en la integración de la Mesa Directiva se deberán considerar los principios de proporcionalidad, paridad y pluralidad.
+
+###### ARTÍCULO 124.
+
+La elección de la Mesa Directiva se llevará a cabo en la última sesión del último periodo ordinario de sesiones del correspondiente año del ejercicio constitucional y entrará en funciones en la primera sesión del Primer Periodo Ordinario del siguiente año del ejercicio constitucional.
+
+###### ARTÍCULO 125.
+
+La conformación de la Mesa Directiva se comunicará a los Titulares de los Poderes Ejecutivo y Judicial del Estado, a los tres Poderes de la Unión, a las Legislaturas de las Entidades Federativas y a los Ayuntamientos de la Entidad.
+
+###### ARTÍCULO 126.
+
+Las faltas del Presidente a la sesión, serán suplidas por el Primer Vicepresidente y las de éste por el Segundo Vicepresidente, con todas las facultades y obligaciones correspondientes.
+
+###### ARTÍCULO 127.
+
+Las faltas de los Secretarios propietarios serán cubiertas por sus suplentes, en caso de ausencia de éstos, se cubrirán por quienes designe el Pleno o la Comisión Permanente.
+
+###### ARTÍCULO 128.
+
+Si la ausencia del Diputado titular fuera definitiva, se procederá con la elección del cargo, en los mismos términos que para la elección de la Mesa Directiva. El Diputado o Diputados que resulten electos, lo serán solo por el periodo que resta del año legislativo correspondiente.
+
+###### ARTÍCULO 129.
+
+Los integrantes de la Mesa Directiva podrán ser removidos del cargo, con el voto de las dos terceras partes de los integrantes del Pleno, por alguna de las siguientes causas:
+
+I. Transgredir en forma grave o reiterada las disposiciones contenidas en la Constitución Política General, en la Constitución Política del Estado y en esta Ley Orgánica;
+
+II. Incumplir los acuerdos del Pleno o de la Comisión Permanente, cuando se afecten las atribuciones constitucionales y legales del Congreso del Estado; y,
+
+III. Dejar de asistir, reiteradamente y sin causa justificada, a las reuniones de la Mesa Directiva.
+
+Para la remoción, se requerirá que algún Diputado presente la moción para ser sometida a discusión, en la que podrán hacer uso de la palabra hasta dos Diputados en contra y dos a favor de manera alternada, de no haber en contra, será sometida inmediatamente para su aprobación en votación nominal.
+
+Aprobada la remoción, se elegirá para concluir el año legislativo, al integrante de la Mesa Directiva que ocupará el cargo vacante, en los mismos términos que, para la elección de la Mesa Directiva, dispone la presente Ley Orgánica.
+
+#### SECCIÓN V. DE SUS SECRETARIOS
+
+###### ARTÍCULO 130.
+
+El Presidente de la Mesa Directiva es el Presidente del Congreso del Estado y expresa su unidad. Salvaguarda la inmunidad constitucional de los Diputados y la inviolabilidad del Recinto Oficial.
+
+El Presidente al dirigir las sesiones, velará por el equilibrio entre las libertades de los Diputados y de los Grupos y Representaciones Parlamentarias y la eficacia en el cumplimiento de las funciones constitucionales del Congreso del Estado.
+
+El Presidente de la Mesa Directiva, ante todo, hará prevalecer el interés general del Congreso del Estado por encima de los intereses particulares o de grupo.
+
+###### ARTÍCULO 131.
+
+Además de las citadas en el artículo precedente, son atribuciones del Presidente de la Mesa Directiva:
+
+I. Presidir las sesiones del Pleno y de la Comisión Permanente y las reuniones de la Mesa Directiva del Congreso del Estado, así como cumplir las resoluciones que le correspondan;
+
+II. Citar, declarar el quórum o la falta de éste, iniciar, declarar en sesión permanente, decretar recesos, levantar y clausurar las sesiones del Pleno o de la Comisión Permanente del Congreso del Estado;
+
+III. Aplazar, prorrogar o suspender, por causa justificada, las sesiones del Pleno o de la Comisión Permanente;
+
+IV. Presentar al Pleno o a la Comisión Permanente, el proyecto de orden del día de la sesión para su aprobación respectiva, con base en el acuerdo emitido previamente por la Conferencia;
+
+V. Conceder el uso de la palabra a los Diputados siguiendo el orden previsto en esta Ley, así como dirigir los debates, discusiones y deliberaciones, ordenar a los Secretarios realicen sus funciones, someter a votación los asuntos y formular las declaratorias correspondientes, durante el desarrollo de las sesiones del Pleno o de la Comisión Permanente;
+
+VI. Someter a discusión los asuntos previstos para la sesión, desahogándoles conforme al Orden del Día aprobado, dándose prioridad a los dictámenes, salvo acuerdo en contrario del Pleno o de la Comisión Permanente;
+
+VII. Ordenar el trámite correspondiente a los asuntos que se presenten al Congreso del Estado con base en el acuerdo tomado por la Conferencia, cuando así proceda y, de aquellos que sean aprobados por el mismo;
+
+VIII Turnar los asuntos para dictamen a la Comisión o Comisiones que corresponda, según el caso, y a las que para el efecto de opinión deban conocer del mismo;
+
+IX. Ordenar la publicación en la Gaceta Parlamentaria de los documentos que se refieren en las disposiciones correspondientes de esta Ley Orgánica;
+
+X. Disponer lo necesario para que los Diputados se conduzcan conforme a las normas que rigen el ejercicio de sus funciones legislativas y parlamentarias;
+
+XI. Hacer del conocimiento del Pleno o de la Comisión Permanente el informe y la certificación emitida por la Secretaría de la Mesa Directiva, sobre la aprobación del cincuenta por ciento más uno de los Ayuntamientos, para proceder con la declaratoria respectiva de reformas o adiciones a la Constitución Política del Estado;
+
+XII. Poner a consideración del Pleno del Congreso del Estado la declaratoria que ordena la publicación de leyes y decretos aprobados que no han sido promulgados ni refrendados por el Ejecutivo Estatal, en los términos dispuestos por la Constitución Política del Estado;
+
+XIII. Dar a conocer al Pleno del Congreso del Estado, en su oportunidad, el Programa Anual de Trabajo Legislativo del Congreso del Estado, acordado por la Junta de Coordinación, con base en las agendas legislativas de cada Grupo y Representación Parlamentaria;
+
+XIV. Exigir orden a los integrantes del Congreso del Estado y al público asistente a las sesiones; imponerlo cuando hubiere motivo para ello; y, dictar en su caso, las medidas necesarias para conservarlo;
+
+XV. Solicitar el auxilio de la fuerza pública en los términos previstos en esta Ley Orgánica;
+
+XVI. Cambiar la sede para la celebración o continuación de sesiones, previo acuerdo de la Junta de Coordinación, cuando exista impedimento que obstaculice llevarla a cabo en su recinto oficial;
+
+XVII. Firmar conjuntamente con por lo menos uno de los Secretarios, inmediatamente que hayan sido aprobadas, las actas de las sesiones, las leyes, los decretos, los acuerdos, las convocatorias, las iniciativas que se presentan al Congreso de la Unión, las fe de erratas y cualquier otro documento que el Pleno o la Comisión Permanente del Congreso del Estado aprueben o expidan;
+
+XVIII. Citar a sesiones privadas en los supuestos y por las causas mencionadas en el segundo párrafo del artículo 60 de la Constitución Política del Estado;
+
+XIX. Exhortar a los Diputados que falten a las sesiones, para que concurran a las siguientes y notificarles, en su caso, la sanción a que se hayan hecho acreedores;
+
+XX. Informar al Pleno o la Comisión Permanente, sobre la justificación de las faltas de los Diputados a las sesiones;
+
+XXI. Conceder permiso a los Diputados para faltar o retirarse de las sesiones por causa justificada;
+
+XXII. Notificar de inmediato a los Diputados suplentes, el acuerdo del Pleno o de la Comisión Permanente que lo llama para incorporarse a los trabajos del Congreso del Estado ante la ausencia del propietario;
+
+XXIII. Firmar la correspondencia y demás comunicaciones del Congreso del Estado;
+
+XXIV. Tener la representación institucional y protocolaria del Congreso del Estado ante los Poderes de la Federación, las Entidades Federativas, el Ejecutivo y Judicial del Estado, así como ante los Ayuntamientos y demás entes, órganos e instituciones públicos o privados;
+
+XXV. Tener la representación legal del Congreso del Estado en las controversias jurisdiccionales y administrativas en las que, con cualquier carácter, esté involucrado y delegar la representación jurídica en la persona o personas que resulte necesario, mediante las formalidades que la ley requiera para cada caso en específico;
+
+XXVI. Otorgar poderes generales o especiales, amplios y suficientes en los procedimientos judiciales, laborales o de cualquier otra índole en los que el Congreso del Estado sea o pudiera ser parte actora, demandada, tercerista, coadyuvante o con cualquier otro carácter, así como para nombrar delegados en los Juicios de Amparo;
+
+XXVII. Firmar junto con el Presidente de la Junta de Coordinación Política, los convenios de coordinación, colaboración o cooperación que se celebren con el Congreso de la Unión o sus Cámaras; con los Congresos de las Entidades de la República; con los otros Poderes del Estado; con los órganos Autónomos o de Autonomía Técnica Estatales; con los Ayuntamientos de la Entidad; con Instituciones Educativas locales, nacionales o internacionales; o, con cualquier otro organismo o institución federal, estatal o municipal, público o privado, que se requiera para el buen desempeño de los trabajos legislativos, parlamentarios, técnicos y administrativos del Congreso del Estado;
+
+XXVIII. Designar Comisiones de entre los Diputados para representar al Congreso del Estado en los actos públicos a los que él no pudiera asistir; así como, para la observancia del ceremonial del Congreso del Estado; para visitar a Diputados que se encuentren enfermos o en caso del fallecimiento de algún pariente cercano de ellos; y, en cualquier otro caso análogo a los descritos;
+
+XXIX. Expedir conjuntamente con por lo menos un Secretario, los nombramientos de los servidores públicos que el Congreso del Estado ordene en uso de sus atribuciones; y,
+
+XXX. Las demás que dispongan la Constitución Política del Estado, esta Ley Orgánica y su Reglamento; así como las que sean necesarias para el pleno ejercicio de sus facultades y atribuciones.
+
+###### ARTÍCULO 132.
+
+En el caso de iniciativas preferentes el Presidente de la Mesa Directiva tendrá las siguientes atribuciones:
+
+I. Turnar inmediatamente, con ese carácter, la iniciativa a la Comisión o Comisiones correspondientes, para su análisis y dictamen respectivo;
+
+II. Notificar de inmediato que ha adquirido el carácter de preferente a la Comisión o Comisiones que de ella conozcan, cuando se trate de iniciativas presentadas en periodos anteriores y esté pendiente de dictamen;
+
+III. Prevenir a la Comisión o Comisiones dictaminadoras, por lo menos siete días naturales antes de que venza el plazo otorgado para dictaminar la iniciativa con carácter preferente, a través de un comunicado que deberá hacerse del conocimiento al Pleno del Congreso del Estado, publicarse en la Gaceta Parlamentaria;
+
+IV. Emitir la declaratoria de publicidad inmediatamente después de concluido el plazo de la Comisión o Comisiones para dictaminar; y,
+
+V. Proceder en los términos establecidos en el segundo párrafo del artículo 67 de la Constitución Política del Estado, para el caso en que la Comisión o Comisiones no formulen el dictamen respectivo dentro del plazo establecido, de tal forma que sean atendidas antes de que concluya el periodo respectivo.
+
+###### ARTÍCULO 133.
+
+Conforme a la declaración de Gobernador Electo del Estado Libre y Soberano de Guerrero que hubiere hecho el Instituto Electoral y de Participación Ciudadana, corresponde al Presidente de la Mesa: disponer la elaboración inmediata del Bando Solemne; darlo a conocer al Pleno en la sesión próxima inmediata; ordenar su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero; y, tomar las medidas necesarias para que se difunda en los Órganos Oficiales de los Ayuntamientos de la Entidad y se fije en las principales oficinas públicas del Estado y de los Municipios.
+
+###### ARTÍCULO 134.
+
+El Presidente de la Mesa Directiva permanecerá sentado en su lugar, cuando haga uso de la palabra en el ejercicio de sus atribuciones, no será así cuando en el uso de sus derechos de Diputado, presente iniciativas o proposiciones o participe en el debate; en tales casos, hará uso de la Tribuna en el turno que le corresponda, en los términos que prevea esta Ley Orgánica y su Reglamento.
+
+###### ARTÍCULO 135.
+
+Las resoluciones del Presidente de la Mesa Directiva podrán ser impugnadas por cualquiera de los Diputados, debiéndose tomar el acuerdo respectivo por mayoría de votos.
+
+Este voto será consultado cuando algún miembro del Congreso del Estado reclame la resolución o trámite del Presidente, previa una discusión en que podrán hablar dos individuos en pro y dos en contra, lo cual se podrá hacer siempre que no haya mediado votación en el mismo asunto.
+
+#### SECCIÓN I. DE SU NATURALEZA, CONSTITUCIÓN Y COMPOSICIÓN
+
+###### ARTÍCULO 136.
+
+Son atribuciones de los Vicepresidentes de la Mesa Directiva:
+
+I. Asistir, en el orden que les corresponda, al Presidente de la Mesa en el ejercicio de sus funciones relacionadas con las sesiones; y, en las ausencias temporales del Presidente, asumir sus atribuciones por ministerio de ley; y,
+
+II. Las demás previstas en la Ley Orgánica, su Reglamento y demás disposiciones del Congreso del Estado; así como, aquellas que le sean encomendadas por el Presidente de la Mesa.
+
+#### SECCIÓN II. DE SUS ATRIBUCIONES, LAS DE SU PRESIDENTE, SECRETARIO Y VOCALES
+
+###### ARTÍCULO 137.
+
+Son atribuciones de los Secretarios de la Mesa Directiva:
+
+I. Asistir al Presidente de la Mesa en las funciones relacionadas con la conducción de las sesiones del Pleno o de la Comisión Permanente;
+
+II. Supervisar y abrir el sistema electrónico para el registro y cómputo de las asistencias de los Diputados, o en su caso realizar el pase de lista y computar las asistencias; informar al Presidente de la Mesa para constatar la existencia de quórum legal ya sea para abrir las sesiones o para dar inicio con algún proceso de votación;
+
+III. Llevar a cabo el cómputo y registro de las votaciones e informar al Presidente de la Mesa Directiva los resultados;
+
+IV. Verificar que se haya publicado en la Gaceta del Congreso del Estado o que se haya remitido a los Diputados un ejemplar en versión electrónica de las proposiciones y los Dictámenes que vayan a ser presentados y discutidos en el Pleno, con un mínimo de veinticuatro horas anteriores a la sesión;
+
+V. Distribuir, en su caso, entre los Diputados con el auxilio del personal administrativo, el orden del día aprobado y leer ante el Pleno los documentos listados en el mismo, en el caso de los comunicados y la correspondencia podrán leer sólo una síntesis o extracto de los mismos
+
+VI Dar a conocer al Pleno o a la Comisión Permanente la certificación de la publicación y su distribución de la Gaceta;
+
+VII. Levantar las actas de las Sesiones y cuidar que se redacten con toda veracidad e imparcialidad, y, una vez aprobadas, se redacte la versión definitiva;
+
+VIII. Levantar acta de toda sesión a que se hubiere citado y no se lleve a cabo por falta de quórum, precisando el nombre de los Diputados que asistieron y el de los que hayan comunicado oportunamente al Presidente la causa de su inasistencia;
+
+IX. Firmar y rubricar con el Presidente de la Mesa, las actas de las sesiones, las leyes, decretos, acuerdos e iniciativas para el Congreso de la Unión, aprobados por el Pleno y, en su caso, por la Comisión Permanente; así como, la correspondencia y demás comunicaciones de carácter oficial;
+
+X. Entregar a los Presidentes de las Comisiones dictaminadoras la documentación que requieran para la emisión de los dictámenes, atendiendo que se firme de recibido en el libro de registro que se lleve para tal efecto;
+
+XI. Llevar el registro de asistencias y faltas de los Diputados; y, comunicar al Presidente de la Mesa para los efectos legales a que haya lugar;
+
+XII. Proporcionar a las Comisiones ordinarias y especiales y, de ser el caso, a los Comités, toda la información necesaria para el ejercicio de sus funciones;
+
+XIII. Conformar y mantener al día, los expedientes de los asuntos competencia del Pleno y de la Comisión Permanente, atendiendo que se asienten y firmen los trámites correspondientes y la fecha en que se realizan;
+
+XIV. Tener a cargo el control del archivo general con el apoyo en su administración de la Secretaría Parlamentaria;
+
+XV. Autorizar la apertura y cierre de los libros de: los registros cronológico y textual de las leyes y decretos que expida el Congreso del Estado; las actas de sesiones; y de los turnos a Comisiones y Comités. Verificar que la Secretaría Parlamentaria los integre adecuadamente;
+
+XVI. Expedir, a quien acredite interés jurídico, certificación de los hechos que estén consignados en documentos o expedientes que obren en la Secretaría o en los archivos del Congreso del Estado.
+
+Tratándose de documentos o expedientes que tengan el carácter de reservados o confidenciales, se deberá estar a lo que dispone la ley de la materia y sus lineamientos; y,
+
+XVII. Las demás que se deriven de esta Ley y los ordenamientos relativos a la actividad parlamentaria o que le sean conferidos por el Presidente de la Mesa.
+
+### CAPÍTULO QUINTO. DE LA JUNTA DE COORDINACIÓN POLÍTICA
+
+###### ARTÍCULO 138.
+
+La Comisión Permanente será electa por el voto de las dos terceras partes de los Diputados presentes en la penúltima sesión de cada período ordinario de Sesiones, misma que se integrará por los Diputados miembros de la Mesa Directiva y siete Vocales. Por cada Vocal Propietario se elegirá un suplente.
+
+Las Sesiones, procedimientos, debates, trámites, convocatorias, ceremoniales y demás actividades inherentes a las funciones de la Comisión Permanente, se regirán por las disposiciones aplicables de esta Ley Orgánica y su Reglamento.
+
+La Mesa Directiva observará, en lo conducente, las normas que rigen su actuación ante el Pleno.
+
+###### ARTÍCULO 139.
+
+La Comisión Permanente se instalará de inmediato, al finalizar la sesión del Pleno en que se haya clausurado el periodo de sesiones ordinarias. La sesión de instalación de la Comisión Permanente solo tratará lo referente a la declaratoria de instalación correspondiente.
+
+###### ARTÍCULO 140.
+
+La instalación e integración de la Comisión Permanente se comunicará oficialmente a los Poderes Ejecutivo y Judicial del Estado, a los tres Poderes de la Unión, a las Legislaturas de las Entidades Federativas, así como a los Ayuntamientos de la Entidad.
+
+###### ARTÍCULO 141.
+
+La Comisión Permanente para celebrar sus sesiones, requerirá la presencia de la mayoría absoluta de sus miembros y sesionará, al menos, una vez en la quincena, en los días y a las horas que el Presidente de la Mesa indique formalmente.
+
+La Comisión Permanente adoptará sus resoluciones con el voto de la mayoría de sus miembros, salvo cuando la Constitución Política del Estado, esta Ley Orgánica u otro ordenamiento determinen una votación distinta.
+
+###### ARTÍCULO 142.
+
+La Comisión Permanente no suspenderá sus trabajos durante los períodos de sesiones extraordinarias a los que convoque, salvo aquellos que se refieran al asunto o asuntos para el que se haya convocado el periodo respectivo.
+
+###### ARTÍCULO 143.
+
+Además de las que le confiere la Constitución Política del Estado y la presente Ley Orgánica en otros preceptos, la Comisión Permanente tendrá las siguientes atribuciones:
+
+I. Despachar los asuntos económicos del Congreso del Estado;
+
+II. Elaborar un informe relativo a los asuntos que queden pendientes de resolución, a fin de que se continúe con su trámite al abrirse los períodos ordinarios de sesiones;
+
+III. Discutir y aprobar, en su caso, las proposiciones que presenten sus integrantes o los miembros; y,
+
+IV. Las demás que sean necesarias para el ejercicio de sus atribuciones.
+
+###### ARTÍCULO 144.
+
+En el último día de su ejercicio, la Comisión Permanente deberá tener formado un inventario que contenga la memoria, oficios, comunicados, turnos y demás documentos que hubiere recibido o expedido durante el receso del Pleno. El Presidente de la Mesa rendirá un informe al Pleno sobre ello.
+
+### CAPÍTULO SEXTO. DE LA CONFERENCIA PARA LA DIRECCIÓN Y PROGRAMACIÓN DE LOS TRABAJOS LEGISLATIVOS
+
+#### SECCIÓN I. DISPOSICIONES GENERALES
+
+###### ARTÍCULO 145.
+
+La Junta de Coordinación Política es la expresión de la diversidad política y pluralidad ideológica que compone la Legislatura al Congreso del Estado. Se constituye como el órgano colegiado facultado para ejercer el gobierno y en el que se impulsan entendimientos y convergencias, a fin de alcanzar y facilitar los consensos que coadyuven a la gobernabilidad democrática del Congreso del Estado, para que el Pleno y la Comisión Permanente estén en condiciones de pronunciar las decisiones que constitucional y legalmente le corresponden.
+
+La Junta de Coordinación Política fungirá como órgano de coordinación a fin de optimizar el ejercicio de las funciones legislativas, políticas, administrativas y en general de todas aquellas que se estimen necesarias para la buena marcha del Congreso del Estado.
+
+###### ARTÍCULO 146.
+
+La Junta de Coordinación Política la integrarán los Diputados Coordinadores de los Grupos Parlamentarios y de las Representaciones Parlamentarias, los cuales gozarán de voz y adoptarán sus decisiones por consenso, y en caso de no alcanzarlo, los diputados que la integran resolverán mediante el sistema de voto ponderado, conforme al cual cada integrante representará tantos votos como Diputados tenga su Grupo o Representación Parlamentaria.
+
+Tratándose de la emisión de resoluciones, Dictámenes, acuerdos, Iniciativas de Ley o de Decreto o cualquier otro asunto de competencia de la Junta de Coordinación, deberán presentarse firmados ajustándose a lo establecido en el párrafo anterior.
+
+Para su organización interna contará con un Presidente y un Secretario, los demás integrantes fungirán como vocales.
+
+El Presidente, el Secretario y los vocales serán nombrados por el Pleno, de entre los Coordinadores de los Grupos y de las Representaciones Parlamentarias. Para ese efecto, serán propuestos por los propios Coordinadores de los Grupos y de las Representaciones Parlamentarias, atendiendo la proporcionalidad de cada uno de estos, de tal manera que se propondrá como Presidente al Coordinador cuyo Grupo cuente con el mayor número de Diputados; el Coordinador del Grupo que tenga el segundo lugar en número de Diputados, como Secretario, y así sucesivamente.
+
+El nombramiento de los integrantes de la Junta se hará en los primeros diez días del primer periodo ordinario de Sesiones del ejercicio legislativo, y su conformación durará el mismo periodo de la Legislatura.
+
+Los integrantes de la Junta de Coordinación no podrán formar parte de la Mesa Directiva. En ningún caso, la Presidencia de la Mesa Directiva recaerá en un Diputado que pertenezca al Grupo Parlamentario que presida la Junta de Coordinación Política.
+
+Solo en caso de empate en el número de Diputados de dos o más Partidos Políticos con representación al interior del Congreso del Estado, la Presidencia de la Junta de Coordinación Política se alternará anualmente entre los Coordinadores de los Grupos Parlamentarios empatados con el mayor número de Diputados; iniciando con aquel partido político que haya obtenido el mayor número de votos válidos en el cómputo estatal de la elección de Diputados que corresponda.
+
+###### ARTÍCULO 147.
+
+La Junta de Coordinación deberá instalarse al término de la sesión en la cual se nombre. Sesionará por lo menos una vez a la semana durante los periodos de Sesiones y con la periodicidad que acuerde durante los recesos.
+
+Las reuniones de la Junta de Coordinación se realizarán en privado y podrá celebrar reuniones de trabajo con la Mesa Directiva y las Comisiones y Comités cuando así se acuerde para el mejor desempeño de sus funciones. Asimismo podrá invitar a sus reuniones a aquellos que determine la propia Junta de Coordinación.
+
+A las reuniones de la Junta concurrirá el Secretario Parlamentario, con voz pero sin voto quien, con el auxilio del Secretario Técnico, preparará los documentos necesarios para las reuniones, levantará el acta correspondiente y llevará el registro de los acuerdos que se adopten.
+
+###### ARTÍCULO 148.
+
+En caso de ausencia temporal o definitiva del Presidente de la Junta de Coordinación, el Grupo Parlamentario al que pertenezca informará de inmediato, tanto al Presidente de la Mesa Directiva como a la propia Junta de Coordinación, el nombre del Diputado que lo sustituirá, quien ocupará dicho cargo.
+
+Los integrantes de la Junta podrán ser sustituidos de conformidad con las reglas internas de cada Grupo y Representación Parlamentaria, en su caso, se avisará a la propia Junta y al Presidente de la Mesa Directiva. Los sustitutos ocuparán los cargos de los sustituidos.
+
+En tanto no se dé el aviso respectivo, las faltas temporales del Presidente, serán cubiertas por el Secretario y las de éste, por los vocales, en su orden.
+
+#### SECCIÓN II. DE LAS COMISIONES
+
+###### ARTÍCULO 149.
+
+La Junta de Coordinación Política tendrá las atribuciones siguientes:
+
+I. Impulsar la conformación de acuerdos para la elaboración de la Agenda Legislativa de la Legislatura, con base en las Agendas de los Grupos y Representaciones Parlamentarias;
+
+II. Presentar las propuestas de acuerdo que contengan los pronunciamientos y/o las proposiciones y/o las declaraciones que entrañen una posición política del Congreso del Estado;
+
+III. Establecer, en coordinación con la Mesa Directiva, el Programa Anual de Trabajo Legislativo, basándose en los temas contenidos en las Agendas Legislativas presentadas por los Grupos y Representaciones Parlamentarias;
+
+IV. Proponer al Pleno los proyectos de Acuerdo que contengan: la integración y conformación de las Comisiones Ordinarias y de los Comités dentro de los primeros quince días naturales de la Legislatura correspondiente; así como, la integración y conformación de las Comisiones Especiales; de ser el caso, la sustitución de los integrantes de las Comisiones y de los Comités;
+
+V. Proponer al Pleno, para su aprobación o ratificación, en su caso, dentro de los primeros cuarenta y cinco días naturales de la Legislatura correspondiente, los nombramientos de los titulares de los órganos administrativos y técnicos respectivos del Congreso del Estado;
+
+VI. Aprobar, el anteproyecto del Presupuesto de Egresos del Congreso del Estado.
+
+VII. Rendir a la Auditoría General del Estado, por conducto de su Presidente, en los términos Constitucionales y Legales respectivos, los informes financieros semestrales, la Cuenta Pública Anual y remitir el Programa Operativo Anual;
+
+VIII. Formular al Pleno en funciones de Colegio Electoral, la propuesta para la designación de Gobernador Interino o Sustituto, en los casos previstos por la Constitución Política del Estado;
+
+IX. Proponer al Pleno los procedimientos y, en su caso, las convocatorias para la designación y nombramiento de aquellos Servidores Públicos que la Constitución Política del Estado y las Leyes confieren al Congreso del Estado. Las convocatorias deberán prever por lo menos el procedimiento de designación o nombramiento para el que se convoca; el órgano competente para conocer del trámite; los requisitos legales que deberán satisfacer los aspirantes y los documentos que deberán presentar para acreditarlos; las reglas y los plazos a que se sujetará, así como sus diferentes etapas y la forma de resolver los casos no previstos;
+
+X. Conocer y dictaminar las solicitudes de licencia del Gobernador del Estado;
+
+XI. Aprobar la normatividad administrativa interna que se requiera para el funcionamiento eficiente y eficaz de las áreas del Congreso del Estado;
+
+XII. Hacer del conocimiento, en sesión secreta, al Pleno o a la Comisión Permanente, las denuncias o quejas presentadas en contra de los Diputados, con la finalidad de que se integre la Comisión Investigadora que resolverá lo conducente;
+
+XIII. Autorizar, a propuesta de su Presidente, la creación de las unidades administrativas necesarias para el funcionamiento eficaz del Congreso del Estado;
+
+XIV. Establecer la política para la capacitación del personal del Congreso del Estado.
+
+XV. Establecer las bases que guíen al Congreso del Estado para decidir si concederá o no, honores, premios, recompensas y distinciones a ciudadanos guerrerense, mexicanos o extranjeros, que no estén, previamente, dispuestos en las leyes;
+
+XVI. Vigilar y garantizar que las Tecnologías de la Información y Comunicación del Congreso del Estado se encuentren en condiciones óptimas para la difusión de las labores de los Órganos de Gobierno, Legislativos y de Representación;
+
+XVII. De las propuestas de los Servidores Públicos que deban ser nombrados o ratificados por el Congreso, y que su trámite no esté expresamente reservado a las Comisiones legislativas;
+
+XVIII. Dictar resoluciones económicas relativas al régimen interior del Congreso del Estado; y,
+
+XIX. Las demás que sean necesarias para el desempeño de sus atribuciones y obligaciones.
+
+###### ARTÍCULO 150.
+
+El Presidente de la Junta de Coordinación Política, tendrá las siguientes obligaciones y atribuciones:
+
+I. Dirigir, coordinar, supervisar y evaluar la organización administrativa del Congreso del Estado;
+
+II. Coordinar las funciones y actividades de la Junta de Coordinación Política y fungir como su representante ante las autoridades correspondientes, en los actos, acciones y controversias que de aquellas deriven en el ejercicio de sus atribuciones y obligaciones, pudiendo delegar la representación, cuando lo considere adecuado y preferentemente, en el titular del área administrativa del Congreso del Estado competente en la materia;
+
+III. Convocar, conducir y presidir las sesiones de la Junta de Coordinación y de la Conferencia;
+
+IV. Ejecutar las resoluciones y acuerdos de la Junta de Coordinación, proveyendo a su exacta observancia;
+
+V. Presentar a la Junta de Coordinación, la propuesta de integración de las Comisiones y Comités; así como, la propuesta de integración y conformación de las Comisiones Especiales; o bien, la propuesta de creación con su conformación de nuevas Comisiones o Comités; o, en su caso, la propuesta de desaparición de ellas; o, la propuesta de sustitución de sus miembros;
+
+VI. Formular a la Junta de Coordinación, las propuestas de nombramientos de los servidores públicos titulares de los órganos administrativos y técnicos del Congreso del Estado que habrán de ser aprobados por el Pleno;
+
+VII. Nombrar y remover al personal de la Legislatura en los casos que no sea competencia del Pleno, así como resolver sobre sus licencias y renuncias;
+
+VIII. Someter a la Junta de Coordinación el anteproyecto del Presupuesto de Egresos del Congreso del Estado;
+
+IX. Administrar el Presupuesto de Egresos del Congreso del Estado;
+
+X. Remitir los Informes Financieros semestrales, la Cuenta Pública anual y el Programa Operativo Anual ante la Auditoría General del Estado;
+
+XI. Poner a consideración de la Junta de Coordinación la propuesta de la persona que, de ser el caso, asumirá el cargo de Gobernador Interino o Sustituto;
+
+XII. Proponer a la Junta de Coordinación a los servidores públicos, que deban ser nombrados o ratificados por el Congreso del Estado en los casos que no sean de la competencia exclusiva de alguna Comisión;
+
+XIII. Dar seguimiento a la información relativa a los nombramientos, designaciones, aprobaciones y ratificaciones de servidores públicos que el Congreso del Estado haya realizado y esté por concluir el periodo para el que fueron nombrados, designados, aprobados o ratificados y deban renovarse, entregada por la Secretaría Parlamentaria; asimismo, incluir dicha información, en el proyecto de Programa Anual de Trabajo Legislativo;
+
+XIV. Conocer y atender las solicitudes del Gobernador del Estado y de las autoridades a quienes la Constitución Política del Estado otorga el derecho de iniciativa, para participar en el análisis que realicen las Comisiones sobre las iniciativas que hubieren presentado y las que estén vinculadas con su ámbito de competencia, previa concertación de la Junta de Coordinación con las Comisiones correspondientes;
+
+XV. Firmar en ausencia del Presidente y los Secretarios de la Mesa Directiva, la correspondencia oficial;
+
+XVI. Suscribir conjuntamente con el Presidente de la Mesa Directiva, los convenios de coordinación, colaboración o cooperación tendientes a garantizar el buen desempeño de los trabajos legislativos, parlamentarios, técnicos y administrativos del Congreso del Estado;
+
+XVII. Proponer la creación de nuevas unidades administrativas para el eficaz funcionamiento del Congreso del Estado;
+
+XVIII. Proponer a la Junta de Coordinación, la normatividad administrativa interna que se requieran (sic) para el funcionamiento eficiente y eficaz de las áreas del Congreso del Estado;
+
+XIX. Designar y remover al Secretario Técnico de la Junta de Coordinación;
+
+XX. Nombrar y remover, en los casos que no sea competencia del Pleno, al personal administrativo y técnico que labora en el Congreso del Estado, expedir sus nombramientos y resolver sobre las licencias, renuncias, remociones y sustituciones;
+
+XXI. Representar al Congreso del Estado ante el Instituto de Seguridad Social de los Servidores Públicos del Estado, pudiendo delegar esta atribución preferentemente en el titular del área administrativa del Congreso del Estado competente para la atención de este servicio; y,
+
+XXII. Las demás que sean necesarias para el desempeño de sus atribuciones y obligaciones y de las de la Junta de Coordinación.
+
+###### ARTÍCULO 151.
+
+Son atribuciones y obligaciones del Secretario de la Junta de Coordinación:
+
+I. Asistir a las sesiones y reuniones de la Junta de Coordinación y de la Conferencia;
+
+II. Auxiliar al Presidente en el desempeño de sus funciones; y,
+
+III. Las demás que le señale esta Ley Orgánica o las que le encomiende la Junta de Coordinación o su Presidente.
+
+###### ARTÍCULO 152.
+
+Son atribuciones y obligaciones de los Vocales:
+
+I. Asistir a las sesiones y reuniones de la Junta de Coordinación y de la Conferencia;
+
+II. Auxiliar al Secretario en el despacho de los asuntos a su cargo; y,
+
+III. Las demás que le encomiende la Junta de Coordinación o su Presidente.
+
+### CAPÍTULO SÉPTIMO. DE LOS GRUPOS PARLAMENTARIOS Y LAS REPRESENTACIONES PARLAMENTARIAS
+
+###### ARTÍCULO 153.
+
+La Conferencia constituye el órgano de decisión, dirección y programación de los trabajos legislativos del Congreso del Estado, con la finalidad de desarrollar ordenadamente el trabajo de la Legislatura y se integrará con los miembros de la Junta de Coordinación Política y el Presidente de la Mesa Directiva. A sus reuniones podrán ser convocados los Presidentes de Comisiones o Comités o cualquier otro diputado que lo solicite, cuando exista algún asunto de su competencia.
+
+La Conferencia deberá quedar integrada a más tardar al día siguiente de que se haya constituido la Junta de Coordinación Política. Sus sesiones serán privadas, por regla general, y se reunirá por lo menos una vez a la semana en periodos ordinarios de Sesiones y cuando así lo determine durante los recesos; en ambos casos, a convocatoria del Presidente de la Junta de Coordinación.
+
+La Conferencia adoptará sus resoluciones por consenso; en caso de no alcanzarse éste, se tomarán por mayoría absoluta mediante el sistema de voto ponderado de los integrantes de la Junta de Coordinación Política.
+
+Como Secretario Técnico de la Conferencia actuará el Secretario Parlamentario, quien asistirá a las reuniones con voz pero sin voto, preparará los documentos necesarios, levantará el acta correspondiente y llevará el registro y seguimiento de los acuerdos.
+
+###### ARTÍCULO 154.
+
+La Conferencia tendrá las siguientes atribuciones:
+
+I. Determinará y aprobará los puntos a tratar, en el Orden del Día de la sesión del Congreso del Estado respectiva, estableciendo además lo siguiente:
+
+a) La propuesta de turno a la Comisión o Comisiones u Órganos Técnicos que corresponda;
+
+b) Proponer las dispensas de trámite; y,
+
+c) Establecer los formatos de debate cuando así proceda.
+
+II. Conocerá y autorizará los calendarios para la discusión de los dictámenes que le presente el Presidente de la Mesa Directiva;
+
+III. Impulsar el trabajo de las Comisiones para la elaboración y el cumplimiento de los programas legislativos;
+
+IV. Vigilar que se haya realizado la prevención a las Comisiones para dictaminar las iniciativas preferentes y en su caso, determinará si se procede conforme a las disposiciones constitucionales, y,
+
+V. Las demás que se deriven de esta Ley y de los ordenamientos relativos.
+
+### CAPÍTULO OCTAVO. DE LOS ÓRGANOS LEGISLATIVOS
+
+###### ARTÍCULO 155.
+
+Los Diputados, según su afiliación de Partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en el Congreso del Estado, podrán constituirse en Grupos Parlamentarios o Representaciones Parlamentarias.
+
+Los Grupos Parlamentarios y las Representaciones Parlamentarias, conducirán sus actividades dentro de los cauces legales, ajustarán su conducta a los principios del Estado Democrático y respetarán la libre participación de los demás Grupos o Representaciones y los derechos de los Diputados.
+
+###### ARTÍCULO 156.
+
+Solo podrá haber un Grupo o Representación por cada Partido Político representado.
+
+Con el objeto de coadyuvar al buen desempeño de los trabajos del Congreso, los Grupos Parlamentarios se constituirán con un mínimo de tres Diputados que manifiesten su voluntad de pertenecer a un Grupo Parlamentario; cuando se trate de uno o dos Diputados que militen en un mismo partido político, se integrarán en una Representación Parlamentaria.
+
+En los casos en que el o los Diputados con afiliación a un Partido Político que, en la última elección, haya perdido su registro nacional, mantendrán esa denominación para la conformación de su Grupo o Representación, según sea el caso.
+
+En ningún caso, los Diputados que se separen de su Grupo o Representación, podrán constituir uno nuevo, pero sí podrán integrarse a uno de los ya constituidos.
+
+El Diputado o Diputados que no deseen integrarse o dejen de pertenecer a un Grupo o Representación, sin integrarse a otro existente, será considerado como Diputado Sin Partido.
+
+Será Diputado Independiente el que se haya integrado al Congreso del Estado mediante la modalidad de candidatura independiente y mantendrá ese carácter, a menos de que se integre a un Grupo Parlamentario o Representación de las ya conformadas.
+
+En ningún caso, los Diputados Independientes y/o Sin Partido, podrán crear un Grupo o Representación Parlamentario, ya sea nuevo o como un Partido Político que no tenga representación al interior de la respectiva Legislatura.
+
+Ningún Diputado podrá formar parte de más de un Grupo Parlamentario o Representación Parlamentaria.
+
+###### ARTÍCULO 157.
+
+Los Grupos y las Representaciones Parlamentarias deberán informar a la Mesa Directiva dentro de la primera semana posterior a la instalación de la Legislatura, su constitución o carácter.
+
+Los Grupos Parlamentarios y las Representaciones Parlamentarias, se tendrán por constituidas cuando presenten a la Mesa Directiva del Congreso, los siguientes documentos:
+
+I. Acta en la que conste la decisión de sus integrantes de constituirse en Grupo o Representación y la lista de sus integrantes, y
+
+II. Nombre del Diputado que haya sido designado como Coordinador del Grupo o Representante Parlamentario, así como el de quien desempeñe otras actividades directivas.
+
+En caso de cualquier controversia relativa a la aplicación de este artículo, será determinada por sus normas internas.
+
+Hecha del conocimiento del Pleno la información citada en el párrafo anterior, el Presidente de la Mesa Directiva hará la Declaratoria de Constitución, Conformación y Elección de Coordinador de los Grupos; en el caso del o los Diputados que no hayan manifestado su integración o carácter, serán declarados Diputado Sin Partido. Asimismo ordenará el registro correspondiente y la publicación en el Portal Oficial.
+
+No se podrán formar Grupos o Representaciones Parlamentarias después de haberse formulado la declaratoria correspondiente por parte del Presidente de la Mesa Directiva. Los Grupos y Representaciones Parlamentarias que por cualquier causa dejen de tener el mínimo de integrantes que establece esta Ley Orgánica se consideran disueltos para todos los efectos legales y reglamentarios.
+
+###### ARTÍCULO 158.
+
+Los Grupos, las Representaciones y los Diputados Independientes tendrán que presentar al Pleno, sus Agendas Legislativas en los primeros treinta días de la Legislatura.
+
+Las agendas legislativas serán turnadas a la Junta de Coordinación para la elaboración del Programa Anual de Trabajo Legislativo del Congreso del Estado.
+
+###### ARTÍCULO 159.
+
+Durante el ejercicio de la Legislatura, los Coordinadores de los Grupos y Representantes Parlamentarios, según sea el caso, comunicarán al Presidente de la Mesa Directiva, las modificaciones que ocurran en la integración de su Grupo o en el carácter de la Representación, mismas que deberán hacerse del conocimiento del Pleno y de la Junta de Coordinación, publicarlas en el Portal Oficial.
+
+###### ARTÍCULO 160.
+
+El Congreso del Estado, dentro de sus posibilidades presupuestarias, pondrá a disposición de cada Grupo o Representación Parlamentaria, los apoyos necesarios para su funcionamiento, atendiendo al número de Diputados que las integren.
+
+### CAPÍTULO NOVENO. DE LOS ÓRGANOS ADMINISTRATIVOS Y TÉCNICOS
+
+#### SECCIÓN III. DE LAS SESIONES DE LAS COMISIONES
+
+###### ARTÍCULO 161.
+
+El Congreso del Estado contará con las Comisiones y Comités ordinarios y especiales que se requieran para el cumplimiento de sus atribuciones.
+
+Las Comisiones Ordinarias son Órganos constituidos por el Pleno, que a través de la elaboración de Dictámenes, informes, opiniones o resoluciones, contribuyen a que el Congreso del Estado cumpla sus atribuciones constitucionales y legales.
+
+###### ARTÍCULO 162.
+
+Las Comisiones y Comités ordinarios tendrán el carácter de permanentes y sus integrantes serán designados dentro de los primeros quince días del primer año de ejercicio constitucional y podrán modificarse solo en los casos que esta Ley Orgánica y su Reglamento señalen, para ese efecto, los Grupos y Representaciones Parlamentarias presentarán a la Junta sus propuestas respectivas, en ellas se privilegiarán la experiencia y la idoneidad de cada uno de sus integrantes para el mejor aprovechamiento de sus capacidades en el trabajo legislativo. En términos de sus respectivas integraciones se observará el principio de igualdad entre hombres y mujeres.
+
+Si previo a la integración de las Comisiones ordinarias se presentara un asunto que requiriera despacho urgente, la Junta, a través de la Mesa Directiva, propondrá al Pleno lo procedente.
+
+###### ARTÍCULO 163.
+
+Las Comisiones y los Comités deberán instalarse a más tardar dentro de los diez días siguientes al que se expida el Acuerdo de su integración y conformación; deberán presentar su plan o programa de trabajo dentro de los quince días posteriores al de su instalación, mismo que deberá ser remitido a la Presidencia de la Mesa Directiva para conocimiento del Pleno y registro respectivo y, a la Junta de Coordinación, para su seguimiento.
+
+Las Comisiones y Comités, deberán sesionar por lo menos una vez al mes, y cuantas veces sea necesario a juicio de su Presidente o previo acuerdo de la mayoría de sus integrantes. Asimismo deberán entregar al Presidente de la Mesa Directiva del Congreso del Estado un informe trimestral de sus actividades realizadas.
+
+Las reuniones a que se refiere el presente Artículo se deberán llevar a cabo en fecha distinta a la celebración de Sesiones del Pleno, salvo anuencia expresa de la Junta de Coordinación o de la Mesa Directiva.
+
+###### ARTÍCULO 164.
+
+Cada Comisión y Comité Ordinario se integrará por cinco Diputados. Al proponer la integración de las Comisiones y Comités, la Junta de Coordinación postulará a los Diputados que asumirán la Presidencia, la Secretaría y las Vocalías, procurando que en su integración se refleje la proporcionalidad y pluralidad de los Grupos y Representaciones Parlamentarias en el Congreso del Estado.
+
+La Junta de Coordinación procurará que en la integración de las Comisiones y Comités, no se asignen la Presidencia y la Secretaría a Diputados de un mismo Grupo o Representación Parlamentaria.
+
+A propuesta de la Junta de Coordinación, podrá incrementarse la integración de las Comisiones y Comités a siete Diputados, salvo las excepciones previstas en la Ley.
+
+La integración de las Comisiones Especiales se hará en la forma prevista en este artículo.
+
+###### ARTÍCULO 165.
+
+Los Diputados solo podrán presidir una Comisión o Comité Ordinario. Para estos efectos, no se computará la pertenencia a las Comisiones Especiales.
+
+El Presidente de la Mesa Directiva durante el año para el que haya sido electo, estará impedido para integrar cualquier Comisión o Comité; si es el caso, deberá separarse temporalmente en aquellas que actúe, para reincorporarse una vez que concluya el periodo para el cual fue electo como Presidente, y el Grupo o Representación Parlamentaria al que pertenezca deberá proponer a quien lo sustituya.
+
+Las Comisiones de Presupuesto y Cuenta Pública y de Vigilancia y Evaluación de la Auditoria General del Estado, se integrarán con Diputados, que no hubiesen ejercido recursos Públicos durante los cinco años inmediatos anteriores a los del ejercicio de su cargo o que tuvieren conflicto de interés en los asuntos competencia de estas Comisiones.
+
+###### ARTÍCULO 166.
+
+El Coordinador del Grupo Parlamentario o de la Representación a la que pertenezcan los Diputados miembros de las Comisiones podrá solicitar su sustitución temporal o definitiva. La sustitución temporal será aprobada por la Junta de Coordinación y la definitiva por el Pleno.
+
+###### ARTÍCULO 167.
+
+A las sesiones de las Comisiones o Comités asistirán sus miembros con derecho a voz y voto; los Diputados podrán asistir a las sesiones de las Comisiones o Comités de las que no son miembros, solo con derecho a voz. En las sesiones de las Comisiones de Examen Previo e Instructora solo asistirán sus miembros y aquellas personas que sean parte en los asuntos en desahogo, de acuerdo al procedimiento instaurado en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios de Guerrero.
+
+###### ARTÍCULO 168.
+
+Los Presidentes de las Comisiones y de los Comités, previo acuerdo de la mayoría de sus integrantes, podrán invitar a reunión de trabajo, solicitar información y/o documentación a los titulares de las Dependencias, Entidades y Órganos con Autonomía Técnica de los Poderes Ejecutivo, Legislativo y Judicial; de los Órganos Autónomos; así como, de los Ayuntamientos del Estado, cuando se trate de un asunto sobre su ramo o área de trabajo y sus atribuciones.
+
+El titular requerido deberá proporcionar la información a la brevedad posible; en caso de que, después de dos requerimientos consecutivos, sea omiso en proporcionarla sin causa justificada, se le podrá llamar a comparecer y/o se hará del conocimiento a su superior jerárquico para los efectos legales conducentes.
+
+###### ARTÍCULO 169.
+
+Los Diputados tendrán que excusarse o podrán ser recusados, ante cualquier asunto que conozca la Comisión o Comité del que forme parte, cuando tengan conflicto de intereses, ya sea directamente o de su cónyuge o familiares en línea recta sin limitación de grado y consanguíneos hasta el cuarto grado.
+
+Los Diputados solo podrán ser recusados para participar en algún asunto que se haya turnado a la Comisión o Comité del que forme parte, a pedimento fundado de quien acredite interés jurídico, y seguirá el procedimiento que se establece en esta Ley Orgánica y su Reglamento.
+
+###### ARTÍCULO 170.
+
+Cuando los asuntos se turnen a las Comisiones para efectos de opinión, éstas deberán emitirla y enviarla en un plazo máximo de cinco días hábiles a la Comisión Dictaminadora. En su caso, dichas Comisiones podrán asistir a las reuniones de la Comisión Dictaminadora por invitación o a petición propia, para proveer de los elementos que sean necesarios para la emisión del dictamen definitivo, en el cual considerarán las opiniones vertidas, con las formalidades que esta Ley Orgánica y su Reglamento señalen.
+
+###### ARTÍCULO 171.
+
+Para el desempeño de sus funciones cada Comisión y Comité, podrá contar con un Secretario Técnico designado a propuesta del Presidente de la Comisión o Comité Respectivo. El Presidente de la Junta de Coordinación, expedirá su nombramiento correspondiente.
+
+La persona que asuma la titularidad de la Secretaría Técnica de cada Comisión o Comité, tendrá que ser la idónea para ese cargo, contando con la capacidad, la aptitud, la disposición, la eficacia, la eficiencia y el conocimiento profesional en la materia que corresponda, de conformidad con los requisitos establecidos en el Reglamento de esta Ley Orgánica.
+
+Derivado de lo anterior y en razón a las características del cargo, el Secretario Técnico será contratado, durante el periodo de la Legislatura respectiva, preferentemente mediante la prestación de servicios profesionales.
+
+###### ARTÍCULO 172.
+
+El Secretario Técnico asistirá al Presidente y al Secretario de las Comisiones y Comités, en la planeación, ejecución, control y seguimiento de las actividades a desarrollar.
+
+El Secretario Técnico desempeñará las siguientes funciones:
+
+I. Apoyar en la formulación y ejecución del programa de trabajo de la Comisión o Comité y de los Grupos de trabajo;
+
+II. Recibir y registrar los expedientes de los asuntos que sean turnados o remitidos, dando inmediata cuenta de ellos al Presidente y al Secretario y, en su caso, a los integrantes de la Comisión o Comité;
+
+III. Formular, bajo la orientación del Presidente, los Proyectos de dictamen, resolución u opinión de los asuntos que sean turnados a la Comisión o Comité;
+
+IV. Gestionar el análisis y valoración del impacto presupuestario de las Iniciativas de Ley o Decreto, y acordar con el Presidente la solicitud de opinión a la Secretaría de Finanzas y Administración sobre el Proyecto de dictamen correspondiente, conforme a la Ley de la materia;
+
+V. Preparar y remitir, bajo las indicaciones del Presidente, en los casos que proceda, la convocatoria, el Proyecto de Orden del Día y los documentos necesarios para las reuniones de trabajo;
+
+VI. Llevar el registro de asistencia de los Diputados y elaborar, en consulta con el Secretario de la Comisión o Comité, los Proyectos de las actas de las sesiones;
+
+VII. Participar con voz en las sesiones y reuniones, cuando así se requiera, para presentar Proyectos, aportar información o emitir opiniones;
+
+VIII. Organizar y mantener actualizados el archivo y la información estadística de la Comisión o Comité;
+
+IX. Informar a la Comisión sobre la legislación estatal que le competa cuando tuviere cinco años o más de haberse expedido, para proceder a su revisión y actualización;
+
+X. Coadyuvar con el Presidente de la Comisión o Comité a dar seguimiento al trabajo de los asesores y del personal de apoyo;
+
+XI. Fungir como enlace con las Secretarías Parlamentaria y Financiera, así como con los demás Órganos técnicos y de apoyo del Congreso del Estado, para coadyuvar al funcionamiento de la Comisión o Comité;
+
+XII. Auxiliar a la Comisión o Comité en la difusión de sus actividades a través de los medios de comunicación de que dispone el Congreso del Estado;
+
+XIII. Acordar lo necesario con el Presidente de la Comisión o Comité, para cumplir con las obligaciones que establece la Ley de Transparencia y Acceso a la Información del Estado de Guerrero, y,
+
+XIV. Elaborar, previamente al término de la Legislatura, la Memoria de Labores y el acta de entrega a la Secretaría Parlamentaria de los asuntos que hayan sido turnados a la Comisión o Comité y la documentación referente a los mismos.
+
+###### ARTÍCULO 173.
+
+Los Secretarios técnicos deberán contar con título profesional, así como tener conocimientos y experiencia en las materias de competencia de la Comisión o Comité que corresponda.
+
+#### SECCIÓN IV. DE LA ASISTENCIA Y EL QUÓRUM
+
+###### ARTÍCULO 174.
+
+Las Comisiones para el desempeño de sus funciones, tendrán las atribuciones generales siguientes:
+
+I. Dictaminar las iniciativas que les sean turnadas, estableciendo, en su caso, los mecanismos y procedimientos de consulta y estudio que resulten necesarios y aplicables;
+
+II. Dictaminar, cuando corresponda, los asuntos que les sean turnados y en su caso, emitir los acuerdos económicos y de trámite que recaigan a los mismos;
+
+III. Revisar permanentemente la legislación estatal que le competa y mantenerla actualizada;
+
+IV. Supervisar y dar seguimiento continuo, al cumplimiento de los objetivos y metas trazados en el Plan Estatal de Desarrollo y en los Planes de Desarrollo Municipal; así como, al diseño y aplicación de políticas públicas en el ámbito de sus respectivas competencias;
+
+V. Revisar, dar seguimiento, evaluar y emitir opinión del informe sobre el estado que guarda la Administración Pública Estatal presentado por el Gobernador, los de los Presidentes Municipales y aquellos que remitan los Titulares de las Dependencias y Entidades Estatales y Municipales, los Órganos Autónomos, los de Autonomía Técnica y cualquier otro ente público obligado, respecto a la materia de su competencia;
+
+VI. Aprobar su Programa y Calendario de Trabajo;
+
+VII. Aprobar para su presentación al Pleno, el informe anual o final de actividades y, en su caso, los reportes específicos que se les soliciten;
+
+VIII. Emitir las opiniones que se les soliciten en las materias de su competencia;
+
+IX. Remitir de manera inmediata, para su publicación en la Gaceta, las convocatorias, actas, informes, minutas, acuerdos, dictámenes, programa de trabajo y todos aquellos documentos de carácter público que se generen en el desempeño de sus funciones y cumplimiento de sus atribuciones;
+
+X. Solicitar al Presidente de la Junta de Coordinación, previo acuerdo de la Comisión, que convoque a Servidores de las dependencias o entidades de las Administraciones Públicas Estatal o municipal; del Poder Judicial o de otros entes Públicos, para que comparezcan ante la Comisión para tratar los asuntos de su competencia;
+
+XI. Realizar consultas y audiencias, en la sede legislativa o fuera de ella, relacionadas con las materias de su competencia;
+
+XII. Aprobar el Orden del Día de las reuniones y ratificar, en su caso, el trámite a los asuntos programados;
+
+XIII. Celebrar reuniones de Comisiones Unidas en los casos procedentes; y,
+
+XIV. Las demás que se deriven de esta Ley Orgánica, su Reglamento y demás disposiciones aplicables.
+
+###### ARTÍCULO 175.
+
+En el cumplimiento de sus atribuciones, las Comisiones se sujetarán a los procedimientos establecidos en esta Ley Orgánica, su Reglamento y demás disposiciones aplicables.
+
+Las Comisiones podrán resolver por sí mismas los asuntos cuya naturaleza y trascendencia así lo requieran, siempre que no contravengan los ordenamientos relativos.
+
+###### ARTÍCULO 176.
+
+Las Comisiones, para el despacho de los asuntos a su cargo, continuarán funcionando durante los recesos del Congreso.
+
+Las Comisiones atenderán los asuntos que les sean turnados por la Comisión Permanente.
+
+###### ARTÍCULO 177.
+
+Conforme a sus atribuciones y obligaciones, las Comisiones se dividen en:
+
+I. Las Ordinarias que tienen carácter permanente y que por su responsabilidad se organizan en:
+
+a) Legislativas; y,
+
+b) Jurisdiccionales.
+
+II. Las Especiales que se integrarán para atender o tratar asuntos que no son competencia de ninguna Comisión Ordinaria, tienen carácter transitorio y solo conocerán de los hechos que hayan motivado su integración, se clasifican en:
+
+a) Para Asuntos Específicos o de Especial Importancia;
+
+b) Investigadora; y,
+
+d) (sic) Protocolarias o de Cortesía.
+
+###### ARTÍCULO 178.
+
+El Presidente de cada Comisión y Comité a través del Secretario Técnico, será responsable de los documentos y expedientes relativos a los asuntos que se le turnen; al recibirlos deberá firmar el libro de registro que para tal efecto lleve la Secretaría Parlamentaria.
+
+Si por razón de su competencia tuviera que turnarse un asunto a dos o más Comisiones, éstas actuarán unidas y dictaminarán conjuntamente.
+
+###### ARTÍCULO 179.
+
+Los Presidentes de las Comisiones desempeñarán las funciones siguientes:
+
+I. Informar por escrito a los integrantes de la Comisión sobre los asuntos turnados y el trámite que les corresponda;
+
+II. Convocar con cuarenta y ocho horas de anticipación a las reuniones ordinarias de la Comisión;
+
+III. Convocar a reuniones extraordinarias o urgentes cuando así resulte necesario, o lo solicite la mayoría de los integrantes de la Comisión;
+
+IV. Informar por escrito al Presidente de la Mesa Directiva de la celebración de las reuniones y solicitar los apoyos parlamentarios y administrativos necesarios;
+
+V. Presidir y conducir las reuniones de la Comisión, conforme al Orden del Día aprobado, y cuidar el cumplimiento de las normas en materia de disciplina parlamentaria durante las mismas;
+
+VI. Firmar junto con el Secretario las actas de las sesiones de la Comisión y los informes procedentes;
+
+VII. Formular, a nombre de la Comisión, las solicitudes de información o documentación a las dependencias y entidades de las administraciones públicas estatal y municipal; del Poder Judicial del Estado o de otros entes públicos que corresponda para ilustrar el juicio en el despacho de los asuntos que les competen;
+
+VIII. Solicitar al Presidente de la Junta, previo acuerdo de la Comisión, que convoque a comparecer a los Servidores de las dependencias o entidades de las administraciones públicas estatal o municipal; del Poder Judicial o de otros entes públicos, para que asistan a reunión de trabajo para tratar los asuntos de su competencia;
+
+IX. Comunicar al Presidente de la Junta de Coordinación la propuesta del Secretario Técnico para los efectos de la expedición de su nombramiento;
+
+X. Solicitar la publicación en la Gaceta de las convocatorias a las sesiones de la Comisión, así como de los documentos que deban difundirse en ese medio, y,
+
+XI. Las demás que se deriven de esta Ley, su Reglamento, los acuerdos del Congreso del Estado y otras disposiciones aplicables.
+
+###### ARTÍCULO 180.
+
+Cuando haya cambios en la Presidencia de una Comisión, el Presidente saliente transferirá al entrante, con el auxilio del Secretario Técnico, el inventario y los archivos.
+
+En el mes de julio del año en que se renueve la Legislatura, el Presidente de cada Comisión instruirá que se preparen el inventario y los archivos para su depósito en la Secretaría Parlamentaria, la cual realizará su posterior entrega a la Comisión que corresponda de la Legislatura entrante.
+
+El inventario a que se refieren los párrafos anteriores contendrá por lo menos:
+
+I. La relación de Iniciativas, proposiciones y demás asuntos dictaminados o resueltos en definitiva, así como la de aquellos que queden pendientes de ser considerados por el Pleno;
+
+II. El listado de Dictámenes elaborados en la Comisión;
+
+III. El catálogo de los recursos materiales asignados a la Comisión, y,
+
+IV. La memoria de labores de la Comisión, que se publicará en la Gaceta. Un ejemplar de la misma se entregará al Archivo Histórico y Memoria Legislativa y otro a la Biblioteca.
+
+###### ARTÍCULO 181.
+
+Los Secretarios de las Comisiones cumplirán las funciones siguientes:
+
+I. Sustituir al Presidente en sus ausencias temporales cuando este último así lo acuerde;
+
+II. Auxiliar al Presidente en el ejercicio de su cargo;
+
+III. Convocar a sesión extraordinaria cuando el Presidente se niegue a hacerlo, previo acuerdo de la mayoría;
+
+IV. Levantar las actas de las sesiones y firmarlas junto con el Presidente; y,
+
+V. Las demás que se deriven de esta Ley Orgánica, su Reglamento y otras disposiciones aplicables.
+
+En caso de ausencia del Secretario, el Presidente de la Comisión designará, de entre los vocales, a quien deberá desempeñar el cargo temporalmente.
+
+#### SECCIÓN V. DEL ORDEN DE LOS ASUNTOS, DE LAS DISCUSIONES Y LAS VOTACIONES
+
+###### ARTÍCULO 182.
+
+Una vez instaladas, las Comisiones sesionarán para que la Presidencia informe, en su caso, de los asuntos pendientes recibidos de la Legislatura anterior.
+
+Las reuniones de las Comisiones se convocarán en fecha distinta a las de las sesiones del Pleno. En las convocatorias se especificará el carácter público o privado de las reuniones. De ello se notificará al Presidente de la Mesa Directiva.
+
+En casos urgentes o excepcionales el Presidente de la Mesa Directiva o de la Junta de Coordinación podrá autorizar que se convoque a sesión de Comisión simultáneamente al desarrollo de sesiones del Pleno. En estos supuestos, los integrantes de la Comisión estarán obligados a estar presentes en el salón de sesiones del Pleno cuando se verifique el quórum o se realice una votación nominal; también deberá asistir quien tenga que hacer uso de la palabra conforme al Orden del Día.
+
+La Mesa Directiva y la Junta de Coordinación podrán coadyuvar con los Presidentes y Secretarios de las Comisiones para procurar que no se programen simultáneamente más de dos reuniones diferentes de Comisiones cuyas materias sean afines, salvo casos excepcionales.
+
+Cuando las Comisiones acuerden el carácter público de alguna de sus reuniones, la convocatoria respectiva deberá emitirse a través de la Gaceta, en la que se asentará tal carácter.
+
+###### ARTÍCULO 183.
+
+Las reuniones de las Comisiones serán ordinarias y extraordinarias. Para las primeras se emitirá convocatoria al menos con cuarenta y ocho horas previas a su realización, mediante la publicación respectiva en la Gaceta y el envío directo a cada integrante, a través de los medios de comunicación acordados.
+
+Durante los recesos del Congreso, las reuniones ordinarias se convocarán cuando menos con tres días de anticipación.
+
+Las reuniones extraordinarias se convocarán con la anticipación que se requiera, a través de comunicación directa a los integrantes de la Comisión.
+
+###### ARTÍCULO 184.
+
+Todas las convocatorias a sesiones de Comisiones deberán contener:
+
+I. Nombre de la Comisión o Comisiones que se convocan;
+
+II. Fecha, hora y lugar de la sesión;
+
+III. Tipo de la reunión, ya sea ordinaria o extraordinaria, y si se trata de Comisiones Unidas ello deberá precisarse;
+
+IV. El Proyecto de Orden del Día: y,
+
+V. Rúbrica del Presidente o, en su caso, de quien convoque.
+
+Junto con la convocatoria se enviarán a los integrantes de cada Comisión los documentos que sustenten el desahogo del Orden del Día.
+
+###### ARTÍCULO 185.
+
+El Presidente de cada Comisión, previo acuerdo de la mayoría de sus integrantes, podrá declarar permanente una sesión cuando la urgencia en el despacho de un asunto así lo amerite.
+
+Cuando se abra un receso durante la reunión de una Comisión, su Presidente señalará día, hora y lugar de reanudación y se asegurará que todos los integrantes sean notificados.
+
+La reunión concluirá hasta que el Presidente de la Comisión declare que se han agotado los asuntos listados en el Orden del Día.
+
+###### ARTÍCULO 186.
+
+Para la realización de audiencias o de reuniones de trabajo con Servidores Públicos, las Comisiones acordarán en cada caso las reglas correspondientes. En el caso de las comparecencias las reglas se acordarán con la Presidencia de la Junta de Coordinación.
+
+###### ARTÍCULO 187.
+
+Para la realización de sus sesiones, las Comisiones tramitarán con la oportunidad debida el local adecuado y los apoyos necesarios ante la Secretaría Financiera.
+
+Las reuniones de Comisiones se celebrarán en las instalaciones del Congreso del Estado y excepcionalmente fuera de ellas.
+
+Las reuniones de las Comisiones podrán ser transmitidas por internet u otros medios de comunicación.
+
+###### ARTÍCULO 188.
+
+Las actas de las sesiones de las Comisiones contendrán por lo menos: el nombre de quien las haya presidido y del Secretario actuante; la relación de los Diputados presentes y, en su caso, de invitados; las horas de inicio y de conclusión; la síntesis de asuntos tratados conforme al Orden del Día, con referencia a los resultados de las votaciones y los acuerdos adoptados.
+
+Las actas serán suscritas por el Presidente y el Secretario de la o las Comisiones y se publicarán en la Gaceta.
+
+#### SECCIÓN VI. DE LOS COMITÉS
+
+###### ARTÍCULO 189.
+
+La asistencia a las sesiones de Comisión se acreditará por sus integrantes presentes mediante su firma en la hoja de registro.
+
+Se considerará inasistencia a una sesión cuando el Diputado no registre su asistencia conforme a lo señalado en el párrafo anterior. Asimismo, si no se encuentra presente durante las votaciones de proyectos de dictamen.
+
+La inasistencia, según la causa que la motive, se justificará por escrito ante el Presidente de la Comisión en forma previa o dentro de los tres días hábiles posteriores a la reunión convocada, con la presentación, en su caso, del instrumento probatorio que corresponda.
+
+Cuando un Diputado deje de asistir sin causa justificada a tres reuniones consecutivas de Comisión, su Presidente lo informará a la Junta de Coordinación para los efectos a que haya lugar.
+
+###### ARTÍCULO 190.
+
+Para que una sesión de Comisión sea válida se requerirá la asistencia de la mayoría de sus integrantes.
+
+En los casos de sesiones de Comisiones Unidas, el quórum se formará con la asistencia de la mayoría de los integrantes de cada una de ellas.
+
+Cuando la sesión convocada no se verifique por falta de quórum, se levantará el acta respectiva, a efecto de tener constancia de las asistencias e inasistencias a la convocatoria, que será firmada por los diputados presentes.
+
+Cuando no se forme quórum después de dos convocatorias sucesivas a sesión, se hará del conocimiento a la Junta de Coordinación para que coadyuve a la solución correspondiente.
+
+#### SECCIÓN I. DISPOSICIONES GENERALES
+
+###### ARTÍCULO 191.
+
+En las Sesiones de Comisión, los temas listados se desahogarán en el orden siguiente:
+
+I. Aprobación del acta de la sesión anterior;
+
+II. Asuntos a tratar, diferenciando los que únicamente tienen carácter informativo o deliberativo de los que se someten a votación:
+
+a) Proyectos de dictamen;
+
+b) Proyectos de opinión de la propia Comisión u opiniones de otras Comisiones; y,
+
+c) Informes de la propia Comisión;
+
+III. Otros asuntos turnados por la Mesa;
+
+IV. Oficios y comunicaciones en general; y,
+
+V. Asuntos generales, sólo en los casos de las reuniones ordinarias.
+
+###### ARTÍCULO 192.
+
+En las reuniones de Comisión, el Presidente conducirá las discusiones con el auxilio del Secretario.
+
+Para el desarrollo de las discusiones los integrantes de la Comisión harán uso de la palabra bajo las siguientes reglas:
+
+I. Quien presente un proyecto de dictamen o resolución hará una intervención inicial hasta por quince minutos. De ser necesario, la Comisión podrá ampliar dicho lapso;
+
+II. Cada Diputado intervendrá hasta por un tiempo máximo de quince minutos;
+
+III. Una vez que hayan hecho uso de la palabra quienes la hubieren solicitado, el Presidente consultará si el asunto está suficientemente discutido. Si la respuesta es negativa, se continuará la discusión mientras haya Diputados inscritos en la lista de oradores;
+
+IV. Los Diputados podrán reservarse artículos de un proyecto de dictamen o resolución para su discusión en lo particular; en este caso, el tiempo máximo de cada intervención será de hasta diez minutos; y,
+
+V. Concluida la discusión de un proyecto de dictamen o resolución, se procederá a su votación.
+
+###### ARTÍCULO 193.
+
+Las decisiones en las Comisiones se adoptarán con el voto de la mayoría de sus integrantes.
+
+Los Dictámenes y resoluciones que se produzcan bajo la modalidad de trabajo en Comisiones Unidas, serán aprobados por la mayoría de los integrantes de cada una de las Comisiones que participen. Los Diputados que sean integrantes de más de una de ellas, tendrán un voto por cada Comisión.
+
+###### ARTÍCULO 194.
+
+Cuando en una votación de Comisión o Comisiones Unidas sobre un asunto se produzca empate, se deliberará y votará de nuevo en la misma sesión.
+
+Si resultare empate por segunda vez, se tratará el asunto en una reunión posterior, previo acuerdo de la Comisión o Comisiones.
+
+Si el empate persiste en la segunda reunión de la Comisión, se informará de ello a la Mesa Directiva y a la Junta de Coordinación para justificar el retraso en la presentación del dictamen o para los efectos conducentes.
+
+###### ARTÍCULO 195.
+
+Las Comisiones Ordinarias del Congreso del Estado serán:
+
+I. De Asuntos Políticos y Gobernación;
+
+II. De Estudios Constitucionales y Jurídicos;
+
+III. De Presupuesto y Cuenta Pública;
+
+IV. De Vigilancia y Evaluación de la Auditoria General del Estado;
+
+V. De Hacienda;
+
+VI. De Justicia;
+
+VII. De Seguridad Pública;
+
+VIII. De Protección Civil;
+
+IX. De Participación Ciudadana;
+
+X. De Derechos Humanos;
+
+XI. De Transparencia, Acceso a la Información Pública y Protección de Datos Personales;
+
+XII. De Atención a Migrantes;
+
+XIII. De Desarrollo Urbano y Obras Públicas;
+
+XIV. De Transporte;
+
+XV. De Desarrollo Social;
+
+XVI. De Salud;
+
+XVII. De Educación, Ciencia y Tecnología;
+
+XVIII. De Desarrollo Económico y Trabajo;
+
+XIX. Artesanías;
+
+XX. De Turismo;
+
+XXI. De Desarrollo Agropecuario y Pesquero;
+
+XXII. De Asuntos Indígenas y Afromexicanos;
+
+XXIII. Para la Igualdad de Género;
+
+XXIV. De los Derechos de las Niñas, Niños y Adolescentes;
+
+XXV. De la Juventud y el Deporte
+
+XXVI. De Recursos Naturales, Desarrollo Sustentable y Cambio Climático;
+
+XXVII. De Cultura;
+
+XXVIII. De Atención a los Adultos Mayores;
+
+XXIX. De Atención a las Personas con Capacidades Diferentes;
+
+XXX. Del Agua, Infraestructura y Recursos Hidráulicos;
+
+XXXI. De Vivienda;
+
+XXXII. De Examen Previo; y,
+
+XXXIII. Instructora.
+
+Las Comisiones de Examen Previo e Instructora, deberán integrarse por cinco Diputados.
+
+###### ARTÍCULO 196.
+
+Las competencias de las Comisiones Ordinarias conciernen en lo general a sus respectivas denominaciones; en su caso corresponden a las atribuidas a cada una de las dependencias y entidades de la administración pública estatal y municipal, los órganos autónomos o cualquier otro ente público, según el instrumento de su creación. En lo particular el Reglamento fijará las demás que le corresponda.
+
+###### ARTÍCULO 197.
+
+A la Comisión Especial Investigadora le corresponde dictaminar en el caso de incumplimiento de las obligaciones y responsabilidades de los Diputados, en los términos de la presente Ley Orgánica.
+
+La integración de la Comisión Investigadora será de cinco Diputados y se elegirán en sesión secreta, mediante insaculación, el primero será el Presidente y el último, el Secretario.
+
+El procedimiento al que se sujetará la Comisión Especial Investigadora, será el establecido en el Reglamento.
+
+#### SECCIÓN II. DE LOS ÓRGANOS ADMINISTRATIVOS Y TÉCNICOS
+
+###### ARTÍCULO 198.
+
+Los Comités son órganos auxiliares en las actividades y tareas administrativas y operativas del Congreso, cuyos integrantes son nombrados por el Pleno.
+
+Los Comités tendrán a su cargo los asuntos relacionados al funcionamiento administrativo del propio Congreso del Estado y ejercerán las funciones que para tal efecto establezca el Reglamento.
+
+Dichos Comités serán los siguientes:
+
+I. De Administración;
+
+II. De Gestoría, Información y Quejas;
+
+III. Del Instituto de Estudios Parlamentarios "Eduardo Neri"; y,
+
+IV. De Biblioteca e Informática.
+
+###### ARTÍCULO 199.
+
+Para la creación, integración y funcionamiento de los Comités, serán aplicables las disposiciones establecidas a las Comisiones ordinarias en esta Ley Orgánica y su Reglamento.
+
+### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
+
+#### SECCIÓN III. DE LA SECRETARÍA DE SERVICIOS PARLAMENTARIOS
+
+###### ARTÍCULO 200.
+
+Para el debido cumplimiento de sus funciones parlamentarias y su administración, el Congreso del Estado contará y se auxiliará con órganos administrativos y técnicos cuyos titulares serán designados y removidos en los términos de esta Ley Orgánica y demás ordenamientos.
+
+###### ARTÍCULO 201.
+
+La conformación, actividades y tareas de los órganos administrativos y técnicos, serán reguladas por la normatividad respectiva.
+
+La organización administrativa de las dependencias será acordada por la Junta de Coordinación Política a propuesta de su Presidente.
+
+#### SECCIÓN IV. DE LA SECRETARÍA DE SERVICIOS FINANCIEROS Y ADMINISTRATIVOS
+
+###### ARTÍCULO 202.
+
+El Congreso del Estado, para el cumplimiento de sus atribuciones, dispondrá de los siguientes órganos administrativos y técnicos:
+
+I. Secretaría de Servicios Parlamentarios;
+
+II. Secretaría de Servicios Financieros y Administrativos;
+
+III. Auditoría General del Estado y las Auditorías Especiales;
+
+IV. Instituto de Estudios Parlamentarios "Eduardo Neri";
+
+V. Contraloría Interna;
+
+VI. Dirección de Comunicación;
+
+VII. Unidad de Transparencia;
+
+VIII. Unidad para la Igualdad de Género;
+
+IX. Unidad de las Tecnologías de Información y Comunicación;
+
+X. Unidad de Capacitación y Formación Permanente; y,
+
+XI. Los demás que por las necesidades disponga el presupuesto.
+
+Los titulares de los órganos administrativos y técnicos, integrarán un informe de actividades y resultados de cada una de sus áreas y lo presentarán semestralmente a la Junta de Coordinación, a excepción del titular de la fracción III de este artículo.
+
+Las funciones de los órganos técnicos y administrativos conciernen en lo general a sus respectivas denominaciones. En lo particular el reglamento y demás ordenamientos fijarán las que le correspondan.
+
+###### ARTÍCULO 203.
+
+Los titulares de los órganos administrativos y técnicos a que se refiere las fracciones de la I a la II y de la IV a la VIII del artículo anterior, serán nombrados y removidos por el Pleno del Congreso del Estado con la mayoría absoluta de los Diputados presentes en la sesión, a propuesta de la Junta de Coordinación.
+
+El titular del órgano mencionado en la fracción III del artículo que precede, será designado conforme a lo dispuesto en la Constitución Política del Estado y la Ley de Fiscalización.
+
+Todos los servidores públicos de los órganos administrativos y técnicos observarán en su actuación las disposiciones de la Constitución Política del Estado, de esta Ley Orgánica y de los ordenamientos, políticas y lineamientos respectivos. En el año de la renovación de la Legislatura los titulares de los órganos administrativos y técnicos continuarán en sus funciones hasta la realización del nombramiento correspondiente.
+
+#### SECCIÓN V. DE LA AUDITORÍA GENERAL DEL ESTADO
+
+###### ARTÍCULO 204.
+
+La Secretaría de Servicios Parlamentarios es el Órgano encargado de apoyar al Congreso del Estado, a través del Pleno, de sus Comisiones y Comités, así como de sus Grupos y Representaciones Parlamentarias, en el desarrollo sustantivo de sus atribuciones y responsabilidades, y tendrá a su cargo, los siguientes Servicios:
+
+I. Servicios de Asistencia Técnica a la Presidencia de la Mesa, así como a Comisiones Legislativas y Comités que comprende los de: comunicaciones y correspondencia; turnos y control de documentos; certificación y autentificación documental; instrumentos de identificación y diligencias relacionados con la inmunidad de los Diputados; registro biográfico de los integrantes de las Legislaturas; y protocolo, ceremonial y relaciones públicas;
+
+II. Servicios al Desarrollo de las Sesiones, que comprende los de: preparación y desarrollo de los trabajos del Pleno y de la Comisión Permanente; registro y seguimiento de los asuntos turnados a las Comisiones y de los dictámenes; distribución a los Diputados de los documentos sujetos a su conocimiento; apoyo a los Secretarios para verificar el quórum de asistencia; cómputo y registro de las votaciones; información y estadística de las actividades del Pleno y de la Comisión Permanente; elaboración, registro y publicación de las actas de las sesiones; y registro de leyes y resoluciones que adopte el Pleno;
+
+III. Servicios de las Comisiones, que comprenden los de: organización y asistencia a cada una de ellas a través de su Secretario Técnico; registro de los integrantes de las mismas; seguimiento e información sobre el estado que guardan los asuntos turnados a Comisiones; y registro y elaboración del acta de sus reuniones;
+
+IV. Servicios del Diario de los Debates, que comprenden los de: elaboración de la Versión Estenográfica de las sesiones del Pleno y de la Comisión Permanente; y del Diario de los Debates;
+
+V. Servicios del Archivo, que comprenden los de: formación, clasificación y custodia de expedientes del Pleno, Comisión Permanente y las Comisiones; y desahogo de las consultas y apoyo documental a los órganos del Congreso del Estado y a los legisladores; así como, supervisar el correcto manejo de los libros de registro y el de leyes y decretos;
+
+VI. Servicios de Bibliotecas, que comprenden los de: acervo de libros; hemeroteca; videoteca; multimedia; museografía; e informática parlamentaria; y,
+
+VII. Servicios Jurídicos, que comprenden los de: asesoría y atención de asuntos legales del Congreso, en sus aspectos consultivo y contencioso.
+
+Para el otorgamiento de los servicios a su cargo, se constituirán las Direcciones o Unidades que se requieran, conforme a la disponibilidad presupuestal y realizarán las funciones que se establezcan en el Reglamento.
+
+###### ARTÍCULO 205.
+
+El Secretario de Servicios Parlamentarios velará por la imparcialidad de los servicios a su cargo y realizará la compilación y registro de los acuerdos, precedentes y prácticas Parlamentarias.
+
+Al Secretario le corresponde:
+
+I.- Asistir a la Junta de Coordinación, a la Conferencia y a la Mesa Directiva;
+
+II.- Dirigir los trabajos de las áreas a él adscritas y acordar con los titulares de cada una de ellas los asuntos de su competencia;
+
+III.- Realizar estudios sobre la organización, el funcionamiento y los procedimientos del Congreso, así como promover investigaciones de derecho parlamentario comparado; y,
+
+IV.- Cumplir las demás funciones que le confieren esta Ley y los ordenamientos relativos a la actividad parlamentaria.
+
+#### SECCIÓN VI. DEL INSTITUTO DE ESTUDIOS PARLAMENTARIOS "EDUARDO NERI"
+
+###### ARTÍCULO 206.
+
+La Secretaría de Servicios Financieros y Administrativos, es el órgano que tiene a su cargo los asuntos administrativos del Congreso del Estado.
+
+###### ARTÍCULO 207.
+
+El Titular de la Secretaría Financiera será responsable de administrar el presupuesto de egresos con eficiencia, eficacia, económica (sic), transparencia y honradez, de acuerdo a la estructura programática y calendarización correspondientes.
+
+Al Secretario le corresponde:
+
+I. Elaborar, teniendo en cuenta los criterios del Comité de Administración, el proyecto de presupuesto anual de egresos del Poder Legislativo;
+
+II. Realizar, previa autorización del Comité de Administración, las transferencias presupuestales para el apoyo de otras áreas, informando de ello al Pleno en el informe correspondiente;
+
+III. Brindar apoyo, previo acuerdo de la Junta de Coordinación, a las Comisiones, Comités, Grupos y Representaciones Parlamentarias;
+
+IV. Informar al Comité de Administración del ejercicio presupuestal;
+
+V. Solicitar al Pleno, por conducto del Comité de Administración, la autorización para la ampliación presupuestal que se requiera para el cumplimiento de las funciones y programas del Congreso;
+
+VI. Elaborar los estados financieros mensuales, y tener a su cargo la custodia de la documentación que los soporte;
+
+VII. Promover acciones que contribuyan al desarrollo y superación profesional del personal administrativo y de apoyo del Poder Legislativo;
+
+VIII. Mantener actualizados los sistemas administrativos que sirvan de base para la evaluación y control de los recursos;
+
+IX. Apoyar a cada una de las áreas que conforman la estructura orgánica del Congreso del Estado en materia presupuestal y administrativa;
+
+X. Coordinar actividades con otros organismos internos y externos, cuando así lo requiera el funcionamiento de la Legislatura;
+
+XI. Realizar las adquisiciones, proporcionar los servicios y suministrar los recursos materiales que requieran las diversas áreas del Congreso del Estado, de conformidad con lo previsto en la Ley de la materia;
+
+XII. Firmar, por delegación del Presidente de la Junta de Coordinación, los títulos de crédito y toda documentación de carácter administrativo interno que emita el Congreso del Estado;
+
+XIII. Atender los procesos de fiscalización; y,
+
+XIV. Las demás que expresamente le confiera esta Ley Orgánica, su Reglamento y las que le encomiende el Pleno, la Comisión Permanente o la Presidencia de la Junta de Coordinación, según sea el caso.
+
+###### ARTÍCULO 208.
+
+El Secretario de Servicios Financieros y Administrativos, al iniciar su cargo, otorgará la fianza correspondiente para caucionar la administración de los fondos del presupuesto del Congreso del Estado que se le confíen.
+
+#### SECCIÓN VII. DE LA CONTRALORÍA INTERNA
+
+###### ARTÍCULO 209.
+
+La Auditoría General del Estado es el órgano con autonomía técnica, auxiliar del Poder Legislativo, que tiene por objeto el control y fiscalización superior de los ingresos, los egresos, el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado, de los Municipios y de los entes públicos fiscalizables estatales y municipales; así como el cumplimiento de los objetivos contenidos en los programas estatales y municipales a través de los informes que se rendirán en los términos que disponga la Ley.
+
+La Auditoría General del Estado se rige por la Ley de la materia, en la que se establecerá su competencia, organización interna, funcionamiento y procedimientos.
+
+En la elección del titular de la Auditoría General del Estado se estará a lo dispuesto por el Artículos (sic) 116, fracción II, de la Constitución Política de los Estados Unidos Mexicanos. Por cuanto hace a los auditores especiales, se requerirá la mayoría calificada que prevé el Artículo 151 numeral 1 de la Constitución Política del Estado.
+
+#### SECCIÓN VIII. DE LA DIRECCIÓN DE COMUNICACIÓN
+
+###### ARTÍCULO 210.
+
+La Dirección del Instituto de Estudios Parlamentarios "Eduardo Neri", tendrá a su cargo el manejo del Instituto como un órgano técnico desconcentrado de investigación jurídica y parlamentaria.
+
+###### ARTÍCULO 211.
+
+El Instituto tendrá por objeto la promoción, fomento y realización de estudios e investigaciones que contribuyan a mejorar los procesos legislativos y la cultura parlamentaria.
+
+###### ARTÍCULO 212.
+
+Para el cumplimiento de sus fines, el Instituto tendrá a su cargo la realización de las siguientes funciones:
+
+I. Realizar, promover y difundir estudios e investigaciones de legislación y sobre cualesquiera materias relacionadas con su objeto;
+
+II. Establecer y operar un sistema de información sobre el marco jurídico y los procesos parlamentarios del Estado;
+
+III. Formar un fondo documental y bibliográfico sobre derecho público y materias relacionadas con su objeto;
+
+IV. Promover la organización y desarrollo de ciclos y cursos de enseñanzas especializadas, acordes a los fines del Instituto;
+
+V. Editar, coeditar, publicar y distribuir libros, revistas, folletos y otros materiales impresos, grabados y fílmicos en forma directa o coordinada sobre las materias relacionadas en las fracciones precedentes; y,
+
+VI. Las demás que tengan que ver con su objeto.
+
+###### ARTÍCULO 213.
+
+Para su eficaz operación, el Instituto podrá establecer convenios de colaboración y coordinarse con las dependencias y entidades del Estado y de la Federación, así como con instituciones afines.
+
+###### ARTÍCULO 214.
+
+Los recursos para la operación del Instituto se integrarán con el presupuesto que se autorice para tal fin, dentro del Presupuesto de Egresos del Congreso, mediante el suministro mensual de una partida para gasto corriente a través de la Secretaría de Administración y Finanzas.
+
+El Instituto podrá recibir ingresos por concepto de cuotas, aportaciones y donativos de los usuarios de sus Servicios o los que se deriven de acuerdos o convenios suscritos con dependencias y organismos del sector público y privado.
+
+###### ARTÍCULO 215.
+
+El órgano superior de gobierno del Instituto será el Comité respectivo.
+
+#### SECCIÓN IX. DE LA UNIDAD DE TRANSPARENCIA
+
+###### ARTÍCULO 216.
+
+El Congreso del Estado contará con su propia Contraloría Interna, como un órgano de control y evaluación del desempeño de las áreas administrativas y de los Órganos Técnico-Administrativos, así como en la atención de quejas, investigación, procedimientos disciplinarios e imposición de sanciones del personal adscrito a los mismos, conforme a la legislación de la materia. Además, tendrá a su cargo la revisión, inspección y auditoría interna del ejercicio del Presupuesto de Egresos del Congreso.
+
+###### ARTÍCULO 217.
+
+La Contraloría Interna propondrá a la Junta de Coordinación, las políticas, manuales de organización y funciones de ese Órgano y de los demás Órganos Técnico-Administrativos del Congreso del Estado, que permitan optimizar y eficientar los recursos humanos y materiales, así como la calidad de los servicios que se prestan.
+
+En el desempeño de sus funciones, la Contraloría Interna contará con el apoyo y la colaboración de los Titulares de los Órganos Técnico-Administrativos y de la Auditoría General del Estado.
+
+###### ARTÍCULO 218.
+
+Corresponderá a la Contraloría Interna, el despacho de los siguientes asuntos:
+
+I. Elaborar, aplicar y verificar el cumplimiento del programa anual de control y auditoría, realizar auditorías y aclaración a las observaciones hasta la solventación y/o elaboración de los Dictámenes de responsabilidades; vigilar que el manejo y aplicación de los recursos financieros, humanos y materiales se lleven a cabo de acuerdo con las disposiciones aplicables;
+
+II. Diseñar, implantar, supervisar y evaluar los mecanismos de control de gestión de las Unidades administrativas del Congreso del Estado y participar en actos de fiscalización;
+
+III.- Recibir e investigar quejas, denuncias e inconformidades interpuestas contra servidores públicos del Congreso del Estado, en el desempeño de sus funciones o con motivo de ellas, notificar el inicio del procedimiento de responsabilidad administrativa, investigar y sustanciar los procedimientos en materia de responsabilidades administrativas e inconformidades previstos en las disposiciones legales y normativas aplicables, dictar las resoluciones correspondientes, e imponer las sanciones en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios; atender e intervenir en los diferentes medios de impugnación ante las autoridades competentes e interponer los recursos legales que correspondan en los asuntos que intervenga, así como representar al Congreso del Estado en los recursos legales y ante autoridades jurisdiccionales locales o federales.
+
+La Contraloría Interna iniciará los procedimientos referidos a petición de parte o de oficio.
+
+#### SECCIÓN X. DE LA UNIDAD PARA LA IGUALDAD DE GÉNERO
+
+###### ARTÍCULO 219.
+
+La Dirección de Comunicación tendrá a su cargo atender, estudiar, diseñar y ejecutar las estrategias de comunicación social de manera institucional para el Poder Legislativo del Estado; así como difundir las actividades legislativas, fortalecer la imagen del Congreso del Estado y de los Diputados en sus relaciones con los medios de comunicación, de conformidad con esta Ley Orgánica y su Reglamento.
+
+La Dirección dependerá de la Presidencia de la Junta de Coordinación Política.
+
+###### ARTÍCULO 220.
+
+Corresponde al Director de Comunicación del Congreso del Estado, lo siguiente:
+
+I. Conducir las relaciones informativas con los medios de comunicación, para difundir las actividades institucionales del Poder Legislativo, garantizando el suministro de información veraz, oportuna y completa, procurando la buena imagen institucional, conduciéndose bajo los principios de pluralidad, objetividad e imparcialidad.
+
+II. Organizar conferencias de prensa, entrevistas, y demás actividades de difusión informativa, que requieran los integrantes de la Legislatura o cualquiera de sus Órganos;
+
+III. Emitir, bajo su responsabilidad, los boletines de información relativos a los trabajos y resoluciones relevantes de la actividad parlamentaria;
+
+IV. Elaborar y difundir entre los Diputados, los trabajos de síntesis, análisis y clasificación de las noticias relevantes para el desarrollo de sus actividades;
+
+V. Producir, ordenar y resguardar la información escrita, video gráfica, fotográfica y fonográfica de los trabajos de la Legislatura, de sus Órganos e integrantes, y mantenerla debidamente inventariada;
+
+VI. Proponer y participar en la edición, impresión y distribución de folletos, revistas y demás impresos que contribuyan a la difusión de los trabajos y preservación de la imagen institucional del Poder Legislativo, y
+
+VII. Las demás que le confieran otros ordenamientos.
+
+#### SECCIÓN XI. DE LA UNIDAD DE LAS TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIÓN
+
+###### ARTÍCULO 221.
+
+La Unidad de Transparencia será el órgano técnico responsable del manejo de la información pública de oficio, clasificación de la información y receptora única de las solicitudes de acceso a la información que se formulen. Esta unidad será el vínculo con el solicitante y se encargará de las gestiones internas para que se resuelva y, en su caso, se entregue la información o resolución que corresponda.
+
+El Titular de la Unidad de Transparencia, en el cumplimiento de sus funciones deberá sujetarse a lo establecido en las leyes de la materia.
+
+El Comité de Transparencia será el órgano superior de la Unidad de Transparencia y Acceso a la Información.
+
+#### SECCIÓN XII. DE LA UNIDAD DE CAPACITACIÓN Y FORMACIÓN PERMANENTE
+
+###### ARTÍCULO 222.
+
+La Unidad para la Igualdad de Género es el órgano técnico responsable de asegurar la institucionalización de la perspectiva de género en la cultura organizacional y administrativa, a efecto de generar una cultura de no discriminación, exclusión y hostigamiento hacia las mujeres, haciendo prevalecer el reconocimiento y respeto de sus derechos humanos.
+
+#### SECCIÓN XIII. DEL SERVICIO CIVIL DE CARRERA
+
+###### ARTÍCULO 223.
+
+La Unidad de las Tecnologías de Información y Comunicación es el órgano técnico encargado de definir y aplicar las políticas en materia de comunicación y sistemas para la difusión de las labores de los Órganos de Gobierno, Legislativos, Administrativos y Técnicos del Congreso del Estado, dentro de un ámbito de innovación continua.
+
+#### SECCIÓN I. DISPOSICIONES PRELIMINARES
+
+###### ARTÍCULO 224.
+
+La Unidad de Capacitación y Formación Permanente es el órgano técnico responsable de la capacitación, formación, actualización y especialización de los candidatos a ingresar, del personal de base, de confianza y de carrera que labora en el Congreso del Estado. Para el logro de sus objetivos, la Unidad se coordinará de manera permanente con la Secretaría Financiera.
+
+#### SECCIÓN II. DE LAS PRESEAS
+
+###### ARTÍCULO 225.
+
+El Congreso del Estado establecerá el Servicio Civil de Carrera de sus Servidores Públicos, atendiendo a los principios previstos en el artículo 192 de la Constitución Política del Estado. El Servicio Civil de Carrera tendrá como propósito garantizar un Servicio público profesional, confiable y especializado, y favorecer la permanencia, promoción, ascenso y capacitación permanente del personal, quien deberá actuar con legalidad, objetividad, productividad, imparcialidad, disposición y compromiso institucional.
+
+El Pleno, a propuesta de la Junta de Coordinación, expedirá el Estatuto del Servicio Civil de Carrera, el cual contendrá las normas y los procedimientos para la conformación del Servicio.
+
+Los miembros del Servicio Civil de Carrera serán considerados trabajadores de confianza, y sus relaciones laborales se regirán conforme a lo establecido por la fracción XIV del Apartado B del artículo 123 de la Constitución General, el artículo 192 de la Constitución Política del Estado, esta Ley Orgánica y el Estatuto respectivo.
+
+###### ARTÍCULO 226.
+
+El Congreso del Estado podrá celebrar convenios de Coordinación o colaboración con los demás poderes o con instituciones públicas o privadas, con el fin de cumplir con los objetivos del Servicio Profesional de Carrera y con el estatuto del personal.
+
+## TÍTULO QUINTO. DEL PROCEDIMIENTO LEGISLATIVO
+
+### CAPÍTULO SEGUNDO. DE LAS INICIATIVAS, PROYECTOS Y SOLICITUDES
+
+###### ARTÍCULO 227.
+
+El procedimiento legislativo se desarrollará, para efectos de la expedición de Leyes y Decretos, de acuerdo a lo que disponen los artículos 65, 66, 67 y 68 de la Constitución Política del Estado, y lo que dispongan esta Ley y su Reglamento.
+
+En lo que se refiere a las reformas y adiciones a la propia Constitución, la participación que corresponde al Congreso se apegará a lo que dispone el artículo 199 de la Constitución Política del Estado.
+
+###### ARTÍCULO 228.
+
+El procedimiento legislativo a que se refiere esta Ley, se ocupará del trámite de las Iniciativas que sean presentadas ante el Congreso del Estado o ante su Comisión Permanente.
+
+Cuando se trate de propuestas de reformas a la Constitución Federal y Leyes Federales, en términos de lo dispuesto en la fracción III del artículo 71 de la Constitución Política de los Estados Unidos Mexicanos, éstas tendrán el carácter de Iniciativas.
+
+Las Leyes y Decretos se comunicarán al Ejecutivo del Estado, firmados por el Presidente de la Mesa y por lo menos un Secretario de la Mesa Directiva, para los efectos de lo dispuesto por las fracciones II y VII del artículo 91 de la Constitución Política Local.
+
+Tratándose de Iniciativas dirigidas al Congreso de la Unión, éstas serán suscritas por el Presidente y los dos Secretarios.
+
+### CAPITULO TERCERO. DE LA INICIATIVA POPULAR
+
+###### ARTÍCULO 229.
+
+El ejercicio del derecho de iniciativa da principio al procedimiento legislativo. Consistirá en la presentación de un Proyecto de Ley o Decreto por parte de alguno o algunos de los sujetos facultados para ello por la Constitución Política del Estado.
+
+En el caso de los Diputados, la iniciativa podrá ser suscrita por uno o varios de ellos, sea a título personal o como parte de uno o más Grupos o Representaciones Parlamentarias.
+
+La Mesa Directiva, cuidará que las Iniciativas cumplan con las normas que regulan su presentación.
+
+###### ARTÍCULO 230.
+
+El derecho de presentar una iniciativa conlleva también el de retirarla. Cuando la iniciativa haya sido suscrita por más de un legislador, se requerirá que la totalidad de los firmantes manifiesten su voluntad de retirarla; en caso contrario, sólo se tomará nota de quienes retiran su firma.
+
+El retiro de una iniciativa se comunicará al Presidente antes de que sea dictaminada. De ello, se informará al Pleno y a las Comisiones que corresponda.
+
+###### ARTÍCULO 231.
+
+Toda iniciativa constará por escrito y contendrá, al menos, lo siguiente:
+
+I. Encabezado o título, con el señalamiento preciso del o de los ordenamientos a que se refiere;
+
+II. Fundamento legal;
+
+III. Exposición de motivos, con las razones que la sustentan y la descripción del Proyecto, que incluirá el planteamiento del problema que la iniciativa pretende resolver;
+
+IV. Texto normativo que se propone de nuevos ordenamientos o de adiciones o reformas a los ya existentes;
+
+V. Régimen transitorio y, en su caso, el señalamiento de la legislación a derogar o abrogar;
+
+VI. Lugar y fecha de formulación; y,
+
+VII. Nombre y firma del o los autores.
+
+En el caso de textos normativos de nuevos ordenamientos, a que se refiere la fracción IV del párrafo anterior, los Diputados desarrollarán el articulado correspondiente en forma lógica y ordenada, procurando estructurarlo en libros; los libros en títulos; los títulos en capítulos; los capítulos en secciones; las secciones en artículos; los artículos en fracciones y las fracciones en incisos. La división en libros sólo procederá cuando se trata de textos muy extensos.
+
+La iniciativa se presentará en medio impreso y también en archivo electrónico, para su inclusión en el Orden del Día y correspondiente publicación en la Gaceta.
+
+Cuando se considere conveniente, podrán anexarse a la iniciativa los documentos que faciliten su comprensión y análisis.
+
+Asimismo, deberá darse cumplimiento a lo dispuesto por la Ley de Presupuesto y Disciplina Fiscal del Estado, para ello las Comisiones del Congreso, al elaborar los Dictámenes respectivos, realizarán una valoración del impacto presupuestario de las Iniciativas de Ley o Decreto, y podrán solicitar opinión a la Secretaría de Finanzas y Administración sobre el Proyecto de dictamen correspondiente, en todo caso, ésta última deberá realizar la propuesta para enfrentarlo.
+
+###### ARTÍCULO 232.
+
+Cuando el régimen transitorio de una reforma Constitucional, o de una Ley o Decreto disponga un plazo específico para que el Congreso del Estado expida determinado ordenamiento o emita actos, la Junta de Coordinación podrá acordar la integración de un grupo de trabajo que elabore el Proyecto de iniciativa o coadyuve en el análisis y dictamen respectivo, en los plazos y términos que permitan cumplir adecuadamente con el mandato relativo. A las Iniciativas se les dará el trámite que corresponda.
+
+Lo dispuesto en el párrafo anterior no inhibe, limita o condiciona en modo alguno el derecho de iniciativa de los sujetos facultados constitucionalmente para ello.
+
+###### ARTÍCULO 233.
+
+Una propuesta que involucre disposiciones de la Constitución Política del Estado y de otros ordenamientos secundarios relativos, se presentará mediante una iniciativa para la reforma constitucional y otra u otras para la legislación secundaria. En este caso, se indicará en cada iniciativa la correlación entre las mismas.
+
+Las Iniciativas que se refieran a modificaciones a esta Ley se presentarán en forma separada de cualquier otra.
+
+###### ARTÍCULO 234.
+
+La presentación de una iniciativa ante el Pleno consistirá en una explicación sucinta de su propósito y contenido. El texto completo se publicará en la Gaceta y el Diario de los Debates.
+
+La presentación al Pleno de Iniciativas suscritas por Diputados se ajustará a los tiempos que señala esta Ley Orgánica y su Reglamento. La iniciativa suscrita por dos o más Diputados la presentará el que designen sus autores.
+
+Si el autor de una iniciativa no se encuentra presente al momento que corresponda su intervención en el Pleno se entenderá que declina de ésta última y la iniciativa será turnada por el Presidente de la Mesa Directiva a la Comisión o Comisiones que correspondan.
+
+El o los autores de una iniciativa podrán solicitar al Presidente que le dé turno a Comisiones, sin intervención en el Pleno.
+
+###### ARTÍCULO 235.
+
+Las Iniciativas suscritas por el gobernador del Estado, el Tribunal Superior de Justicia, los Ayuntamientos, los Órganos Autónomos y los ciudadanos, presentadas conforme a la Ley, se publicarán en la Gaceta y se dará cuenta al Pleno en la sesión inmediata a su recepción y se turnarán a Comisiones.
+
+### CAPÍTULO CUARTO. DEL TURNO A COMISIONES
+
+###### ARTÍCULO 236.
+
+El derecho de iniciar leyes o decretos compete a los ciudadanos en un número equivalente a cuando menos al 0.2 % de la lista nominal de electores vigente en el Estado de Guerrero.
+
+###### ARTÍCULO 237.
+
+La iniciativa popular, además de los requisitos que establece la Ley número 684 de Participación Ciudadana del Estado Libre y Soberano de Guerrero, deberá:
+
+I. Presentarse por escrito ante el Presidente del Pleno del Congreso del Estado; y en sus recesos, ante el Presidente de la Comisión Permanente.
+
+II. Contener los nombres completos de los ciudadanos, clave de elector o el número identificador al reverso de la credencial de elector derivado del reconocimiento óptico de caracteres (OCR) de la credencial para votar con fotografía vigente y su firma. En caso de advertirse error en la identificación del ciudadano, siempre y cuando éste sea menor al 20% del total requerido, el Instituto Electoral y de Participación Ciudadana del Estado de Guerrero prevendrá al comité promovente para que subsanen el error antes de que concluya el periodo ordinario de sesiones, debiendo informar de ello al Presidente de la Mesa Directiva, de no hacerlo se tendrá por desistida la iniciativa; y,
+
+III. Toda la documentación deberá estar plenamente identificada, señalando en la parte superior de cada hoja el nombre del proyecto de decreto que se propone someter.
+
+Cuando la iniciativa no cumpla con los requisitos señalados en las fracciones I y III el Presidente de la Mesa Directiva prevendrá a los proponentes para que subsane los errores u omisiones en un plazo de quince días hábiles a partir de la notificación. En caso de no subsanarse en el plazo establecido, se tendrá por no presentada.
+
+###### ARTÍCULO 238.
+
+La iniciativa popular atenderá el siguiente procedimiento:
+
+I. El Presidente de la Mesa Directiva, dará cuenta de ella y solicitará de inmediato al Instituto Electoral y de Participación Ciudadana del Estado de Guerrero, la verificación de que haya sido suscrita en un número equivalente, a por lo menos el 0.2% de los ciudadanos inscritos en el padrón electoral del Estado de Guerrero, dentro de un plazo no mayor a treinta días naturales contados a partir de la recepción del expediente.
+
+El Instituto, dentro del plazo a que se refiere el párrafo anterior, verificará que los nombres de quienes hayan suscrito la iniciativa ciudadana, aparezcan en la lista nominal de electores correspondiente al Estado de Guerrero y que la suma corresponda en un número equivalente, a cuando menos el 0.2 % de la lista nominal de electores.
+
+Una vez que se alcanzó el requisito porcentual a que se refiere el párrafo anterior, el Instituto Electoral y de Participación Ciudadana del Estado de Guerrero deberá realizar un ejercicio muestral para corroborar la autenticidad de las firmas de acuerdo a los criterios que defina al respecto el propio Instituto;
+
+II. El Instituto Electoral y de Participación Ciudadana del Estado de Guerrero contará con un plazo no mayor a treinta días naturales contados a partir de la recepción del expediente para realizar la verificación a que se refiere la fracción anterior;
+
+III. En el caso de que el Instituto Electoral y de Participación Ciudadana del Estado de Guerrero determine en forma definitiva que no se cumple con el porcentaje requerido por la Constitución, el Presidente de la Mesa Directiva dará cuenta de ello al Pleno, lo publicará en la Gaceta, y procederá a su archivo como asunto total y definitivamente concluido notificando a los promoventes, por conducto de su comité representante.
+
+En caso de que el comité representante de los promoventes impugne la resolución del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero, el Presidente de la Mesa Directiva suspenderá el trámite correspondiente mientras el Tribunal Electoral del Estado de Guerrero resuelve lo conducente; y,
+
+IV. En el supuesto de que se verifique el cumplimiento del porcentaje señalado en la fracción I, el Presidente de la Mesa Directiva, turnará la iniciativa a comisión para su análisis y dictamen; y seguirá el proceso legislativo ordinario. Cumplidos los plazos en los términos que establece el proceso legislativo ordinario, sin que haya dictamen de las comisiones, la Mesa Directiva incluirá el asunto en el Orden del Día de la sesión inmediata siguiente.
+
+###### ARTÍCULO 239.
+
+En el proceso legislativo de dictamen, el Presidente de la comisión deberá convocar al comité representante designado por los ciudadanos, para que asista a una reunión de la comisión que corresponda, a efecto de que exponga el contenido de su propuesta.
+
+Las opiniones vertidas durante la reunión a la que fue convocado, no serán vinculantes para la comisión y únicamente constituirán elementos adicionales para elaborar y emitir su dictamen.
+
+El procedimiento de dictamen no se interrumpirá en caso de que el comité representante no asista a la reunión a la que haya sido formalmente convocado.
+
+El comité representante podrá asistir a las demás reuniones públicas de la comisión para conocer del desarrollo del proceso de dictamen y podrá hacer uso de la voz hasta antes del inicio del proceso de deliberación y votación.
+
+### CAPÍTULO QUINTO. DE LOS DICTÁMENES
+
+###### ARTÍCULO 240.
+
+El turno es la resolución de trámite dictada por la Presidencia de la Mesa Directiva durante las Sesiones, para enviar a la Comisión o Comisiones que correspondan los asuntos de los que se da cuenta al Pleno o a la Comisión Permanente.
+
+###### ARTÍCULO 241.
+
+Toda iniciativa o Proyecto de Ley o Decreto se turnará a Comisiones, para su análisis, discusión y dictamen.
+
+Los Proyectos que formule la Comisión de Estudios Constitucionales y Jurídicos, que se refieran al régimen interior del Congreso, se someterán directamente al Pleno como dictamen y se sujetará a las reglas establecidas en esta Ley Orgánica, para su discusión y votación.
+
+###### ARTÍCULO 242.
+
+Una vez que se presente al Pleno una iniciativa o Proyecto, se turnará a Comisiones conforme a lo siguiente:
+
+I. El Presidente de la Mesa Directiva, atendiendo a la competencia de las Comisiones, instruirá a cuál o cuáles de ellas deberá enviarse y para qué efectos; y,
+
+II. La Secretaría de la Mesa Directiva, hará constar por escrito el trámite y lo cumplirá a más tardar al día siguiente.
+
+En casos excepcionales fuera de sesión, el Presidente de la Mesa Directiva turnará directamente las Iniciativas, Proyectos o asuntos a las Comisiones competentes y dará cuenta al Pleno en la sesión inmediata siguiente.
+
+###### ARTÍCULO 243.
+
+El Presidente de la Mesa Directiva turnará a Comisiones las Iniciativas o Proyectos para efectos de dictamen o de opinión. Los Diputados proponentes podrán solicitar se turne a una o varias comisiones, en este caso el Presidente de la Mesa Directiva, resolverá lo conducente.
+
+El turno podrá comprender uno o más efectos para una o más Comisiones.
+
+Por acuerdo de la Mesa Directiva, se podrá modificar el turno dictado a un asunto, siempre y cuando exista causa justificada para ello, debiéndose informar lo propio al Pleno.
+
+###### ARTÍCULO 244.
+
+Para efectos de dictamen, las Iniciativas y Proyectos se turnarán a una o más Comisiones.
+
+El turno indicará la Comisión que coordinará los trabajos del dictamen; de no señalarse, se considerará como tal a la nombrada en primer término.
+
+###### ARTÍCULO 245.
+
+El turno para efectos de opinión procederá para solicitar a las Comisiones ordinarias o especiales aporten puntos de vista a las dictaminadoras, cuando en las Iniciativas o Proyectos que éstas conozcan se aborden de manera indirecta asuntos de la competencia de aquéllas.
+
+Para efectos de opinión, el turno podrá incluir el número de Comisiones que se estime necesario.
+
+Adicionalmente, cuando lo consideren pertinente, cualquier Comisión o Diputado podrá aportar por escrito opiniones a las Comisiones dictaminadoras.
+
+###### ARTÍCULO 246.
+
+Las opiniones que emitan las Comisiones requeridas al efecto o las que se presenten por decisión propia, no serán vinculantes para el dictamen que se emita.
+
+Si la opinión no se presenta en tiempo y forma, se entenderá que la opinante declinó de su derecho a emitirla.
+
+Un dictamen no se supeditará a la emisión de una opinión.
+
+###### ARTÍCULO 247.
+
+La rectificación de turno modificará el trámite dado a una iniciativa o Proyecto al retirarlos de una Comisión para asignarlos a otra u otras, en atención a una correspondencia más idónea.
+
+La ampliación de turno involucrará en el trámite a más Comisiones de las que inicialmente se consideró, en razón de la correspondencia por cuanto a la materia.
+
+La decisión sobre el turno que corresponda a una iniciativa o Proyecto sólo será rectificada o ampliada durante una sesión por el Presidente de la Mesa Directiva.
+
+A través del Presidente de las Comisiones, éstas podrán solicitar por escrito, rectificación o ampliación de turno si consideran que un asunto les compete o no para efectos de dictamen o de opinión, de acuerdo con la resolución del Presidente de la Mesa Directiva.
+
+Cuando algún Diputado considere procedente la rectificación o ampliación de un turno, lo solicitará por escrito a más tardar dentro de los tres días siguientes a la sesión en que se haya decidido sobre el turno. La Mesa Directiva resolverá sobre la solicitud y se informará al Pleno.
+
+### CAPÍTULO SEXTO. DE LOS VOTOS PARTICULARES
+
+###### ARTÍCULO 248.
+
+Los dictámenes legislativos son los documentos formulados en Comisiones, por los cuales se propone al Pleno una decisión sobre las Iniciativas o Proyectos turnados por el Presidente de la Mesa Directiva.
+
+Al emitir dictamen las Comisiones propondrán aprobar, modificar o desechar, parcial o totalmente, Iniciativas o Proyectos.
+
+###### ARTÍCULO 249.
+
+Inmediatamente después de que se reciba una iniciativa o Proyecto, el o los Presidentes de la o las Comisiones respectivas lo harán del conocimiento de sus integrantes para recabar sus comentarios y propuestas, con la finalidad de proceder a dictaminar.
+
+La Comisión acordará la organización y el método de trabajo para el estudio de los asuntos y la elaboración de los Proyectos de dictamen correspondientes. En su caso, la Comisión coordinadora, a través de su Presidente, en consulta con los respectivos de las otras comisiones dictaminadoras, acordarán lo relativo.
+
+Cuando sea procedente se considerarán otras Iniciativas y Proyectos relacionados que estén pendientes de dictaminar, siempre que traten los mismos temas y materias.
+
+###### ARTÍCULO 250.
+
+En el proceso de emisión del dictamen, las Comisiones podrán convocar a audiencias públicas o reuniones, con el fin de escuchar al autor o autores de la iniciativa, a especialistas en la materia, representantes de organizaciones y grupos interesados, así como a ciudadanos.
+
+De igual modo, podrán recibir de las dependencias y entidades de la administración pública estatal, municipal o de cualquier ente público, de los distintos órdenes de gobierno, los elementos de información que estimen convenientes para el desahogo de sus trabajos.
+
+Asimismo, podrán invitar a reuniones de trabajo, ante dichos Órganos colegiados, a Servidores Públicos del Gobierno del Estado, de los Ayuntamientos o de otros entes Públicos, para que informen sobre los asuntos relacionados con sus respectivas competencias.
+
+Las solicitudes de comparecencia se tramitarán por conducto de la Junta de Coordinación Política quien, a través de su Presidente, las remitirá al Gobernador del Estado, al Presidente Municipal o al Titular del órgano de que se trate, según corresponda. La solicitud hará mención del motivo o asunto sobre el que la Comisión, en su caso, justifique la comparecencia.
+
+En las sesiones de las Comisiones a las que acudan Servidores Públicos o expertos, se formulará previamente una agenda y se establecerán las reglas conforme a las que se desarrollará la sesión.
+
+Cuando uno o más integrantes de una Comisión tuvieren interés personal y directo en algún asunto que se remita a su examen lo informará por escrito al Presidente de la misma, para que previo trámite ante el Presidente de la Mesa, se designe a otro Diputado, del mismo grupo parlamentario en su caso, que lo reemplace en la Comisión sólo para los efectos de dicho asunto.
+
+###### ARTÍCULO 251.
+
+La Comisión Dictaminadora o la que coordine los trabajos correspondientes podrá acordar la ampliación del plazo para que la opinante emita la opinión. En todo caso, la opinión se remitirá a la Comisión coordinadora antes de que se elabore el dictamen, mismo que deberá incluir las consideraciones respectivas y dar cuenta de los puntos de vista aportados.
+
+La opinión deberá ser aprobada por la mayoría de los miembros de la Comisión que la emite.
+
+La opinión será analizada en el dictamen, independientemente de su carácter no vinculatorio.
+
+Para su publicación conjunta, las Comisiones anexarán al dictamen copia de la opinión recibida.
+
+###### ARTÍCULO 252.
+
+Cuando un asunto se turne a dos o más Comisiones, el Proyecto de dictamen formulado por la Comisión coordinadora se someterá a la consideración de las otras dictaminadoras, a fin de incorporar sus observaciones y propuestas.
+
+Una vez puestos de acuerdo los responsables de su formulación en las Comisiones Unidas, el Proyecto de dictamen se distribuirá a todos los integrantes de las mismas, por lo menos, veinticuatro horas antes de la reunión en que deba discutirse y votarse.
+
+###### ARTÍCULO 253.
+
+En las discusiones y votaciones de Proyectos de dictamen en las reuniones de Comisiones Unidas, se aplicarán en lo conducente las normas establecidas en la presente Ley Orgánica en lo relativo a las discusiones y votaciones en Comisiones.
+
+Cuando las circunstancias para el desahogo de una iniciativa o Proyecto así lo requieran, las Comisiones podrán acordar un formato especial para la formulación y discusión de un dictamen.
+
+###### ARTÍCULO 254.
+
+Todo Dictamen deberá ser firmado por los integrantes de las Comisiones; las firmas en el dictamen sin otra indicación se considerarán a favor del mismo.
+
+De no presentar voto particular, los Diputados que voten en contra o en abstención, lo podrán hacer constar con esos términos junto a su firma en el dictamen.
+
+Si uno o más integrantes de las Comisiones disienten de la mayoría a favor del dictamen, podrán presentar voto particular en los términos de esta Ley.
+
+###### ARTÍCULO 255.
+
+Los Diputados podrán cambiar a favor de un dictamen sus respectivos votos emitidos en contra o en abstención, hasta antes de que se publique en la Gaceta. No podrán cambiar los votos aprobatorios.
+
+En su caso, la modificación del voto se concretará en el sentido de su firma en el dictamen y se realizará por conducto del Presidente de la Comisión.
+
+###### ARTÍCULO 256.
+
+El dictamen que se presente al Pleno por conducto del Presidente de la Comisión Dictaminadora contendrá los siguientes elementos:
+
+I. Encabezado o título en el cual se especifique el asunto objeto del mismo, así como el ordenamiento u ordenamientos que se pretendan establecer, modificar, derogar o abrogar;
+
+II. Nombre de la o las Comisiones cuyos integrantes lo suscriben;
+
+III. Fundamentos constitucional, legal y reglamentario;
+
+IV. Antecedentes generales;
+
+V. Objeto y descripción de la iniciativa o Proyecto;
+
+VI. Método de trabajo, análisis, discusión y valoración de las propuestas;
+
+VII. Consideraciones de orden general y específico que motiven el sentido del Dictamen y, de ser procedentes, las modificaciones realizadas, así como el impacto presupuestal;
+
+VIII. Texto normativo y régimen transitorio del ordenamiento de que se trata;
+
+IX. Firmas autógrafas, por lo menos de la mayoría de los integrantes de la Comisión Dictaminadora, en el caso de que se haya turnado el asunto a dos o más, la mayoría deberá ser de cada una de las Comisiones dictaminadoras; si un Diputado pertenece a dos o más Comisiones deberá votar en cada una de ellas; y,
+
+X. Lugar y fecha de la reunión de las Comisiones Unidas para emitirlo.
+
+###### ARTÍCULO 257.
+
+Al dictamen se acompañará de todos los documentos pertinentes.
+
+###### ARTÍCULO 258.
+
+Una vez aprobado en Comisiones todo dictamen, independientemente del sentido en que se emita, se remitirá al Presidente de la Mesa Directiva para su inscripción en el Proyecto de Orden del Día, publicación en la Gaceta y posterior debate y votación en el Pleno.
+
+###### ARTÍCULO 259.
+
+Los dictámenes y, en su caso, las opiniones correspondientes se publicarán en la Gaceta cuando menos veinticuatro horas antes de la sesión del Pleno en la cual serán puestos a debate y votación, salvo acuerdo de la Junta de Coordinación Política.
+
+Los votos particulares se publicarán después de los Dictámenes a que se refieren, cuando menos doce horas antes de la sesión.
+
+Sin cumplir el requisito de publicación en la Gaceta, el Pleno no debatirá ni se pronunciará sobre Dictamen o voto particular alguno.
+
+El Presidente de la o las Comisiones Dictaminadoras, en casos debidamente justificados, podrán (sic) solicitar al Presidente de la Mesa Directiva que proponga al Pleno la dispensa de la publicación de un dictamen, una opinión o un voto particular. En todo caso, previo al debate, se deberá distribuir a los Diputados copia del documento de que se trata.
+
+El Presidente de la Mesa Directiva sólo ordenará la publicación en la Gaceta de los dictámenes, opiniones y votos particulares que cumplan con las normas que regulan su formulación y presentación.
+
+###### ARTÍCULO 260.
+
+El trámite de los dictámenes en el Pleno se desarrollará conforme a las normas establecidas en esta Ley Orgánica y su Reglamento relativas a los debates y las votaciones en el mismo.
+
+Cuando la naturaleza de un dictamen así lo requiera, el Pleno podrá, previa propuesta de la Mesa Directiva, acordar una modalidad especial para el debate correspondiente. Dicho acuerdo no puede cancelar el debate ni inhibir los derechos de los legisladores previstos en la Constitución Política del Estado, esta Ley Orgánica y su Reglamento.
+
+###### ARTÍCULO 261.
+
+Los dictámenes con Proyecto de Ley o Decreto se debatirán y votarán sólo después de haberse efectuado dos lecturas ante el Pleno en diferentes sesiones. A propuesta del Presidente de la Mesa Directiva, el Pleno podrá dispensar la lectura parcial o total de un dictamen.
+
+La publicación de un dictamen en la Gaceta surtirá efectos de primera lectura.
+
+Durante la lectura de un dictamen a cargo de un Secretario de la Mesa, no procederá interrupción alguna, salvo por moción de procedimiento.
+
+###### ARTÍCULO 262.
+
+Previo al inicio del debate sobre un dictamen, las Comisiones involucradas podrán designar a uno de sus integrantes para presentarlo al Pleno, en el tiempo disponible en la presente Ley Orgánica. Dicha presentación no surtirá efectos de primera ni segunda lecturas.
+
+En la presentación de un dictamen no procederán interrupciones al orador.
+
+###### ARTÍCULO 263.
+
+Por acuerdo de la Mesa Directiva, cuando la relevancia o interés general de un dictamen lo amerite, al inicio del debate en lo general los Grupos y Representaciones Parlamentarias podrán designar a uno de sus integrantes para que intervenga con el propósito de fijar su posición al respecto.
+
+###### ARTÍCULO 264.
+
+Por lo que se refiere a su texto normativo y régimen transitorio, los dictámenes se debatirán y votarán primero en lo general y después en lo particular.
+
+Cuando el texto normativo del dictamen conste de un solo artículo, se debatirá y votará en lo general y en lo particular en un solo acto; esta regla no se aplicará al Artículo Único de un dictamen que involucre ordenamientos completos o diversas disposiciones de una Ley o Decreto.
+
+El debate se realizará en lo general y, de ser el caso, en lo particular, durante la sesión en que se programe el trámite del dictamen. Cuando su extensión u otras circunstancias así lo hagan recomendable, el Presidente de la Mesa Directiva, podrá proponer al Pleno que el debate en lo particular se realice en la sesión inmediata siguiente.
+
+###### ARTÍCULO 265.
+
+Los debates en lo general se refieren a la totalidad o sentido fundamental del dictamen y se sujetarán a lo siguiente:
+
+I. Una vez leído o presentado el dictamen conforme lo señala esta Ley Orgánica, o bien se haya dispensado su lectura, si hay voto particular respecto de todos sus elementos, su autor o uno de sus autores expondrá los motivos y el contenido del mismo;
+
+II. De haber acuerdo para ello, se expresarán las posiciones de los Grupos y Representaciones Parlamentarias. Las intervenciones se realizarán en orden creciente al número de integrantes de cada grupo o representación;
+
+III. A continuación el Presidente formulará una lista de oradores en contra y otra a favor del dictamen y las dará a conocer al Pleno; de no inscribirse ningún orador, se someterá de inmediato a votación;
+
+IV. De haberse formado listas, los oradores intervendrán alternativamente en contra y a favor; iniciará el primero registrado en contra;
+
+V. Cuando hayan hablado hasta tres oradores en contra y tres a favor, el Presidente de la Mesa Directiva informará sobre quienes han intervenido, así como los nombres de los inscritos pendientes de hacerlo, y consultará al Pleno si el asunto ha sido suficientemente debatido o no;
+
+VI. Si el Pleno considera que sí, el Presidente de la Mesa Directiva declarará concluido el debate y se procederá a la votación;
+
+VII. Si el Pleno responde que no ha sido suficientemente debatido, continuarán las intervenciones pendientes, pero bastará que hable uno en contra y otro a favor, para que se pueda repetir la pregunta;
+
+VIII. Cuando únicamente se registren oradores para intervenir en un solo sentido, pueden hacerlo hasta dos de ellos. Al concluir, el Presidente de la Mesa Directiva procederá conforme a lo indicado en la fracción V de este artículo y, de acuerdo con la respuesta del Pleno, continuará una intervención más y así sucesivamente, o se declarará concluido el debate y el dictamen se someterá a votación; y,
+
+IX. Cuando se agote la lista de los oradores registrados o el asunto se apruebe por el Pleno como suficientemente discutido, el Presidente de la Mesa Directiva declarará concluido el debate en lo general, y se procederá a la votación del dictamen.
+
+###### ARTÍCULO 266.
+
+Concluido el debate en lo general, el Presidente de la Mesa Directiva, abrirá el registro para la reserva de artículos o la presentación de adiciones al texto normativo del dictamen, las cuales serán objeto de debate y votación en lo particular.
+
+El Presidente de la Mesa Directiva informará al Pleno sobre los Artículos reservados o las adiciones propuestas, así como de los votos particulares que se refieren a Artículos o apartados específicos del dictamen.
+
+Inmediatamente ordenará someter a votación en un solo acto el dictamen en lo general y los Artículos no reservados.
+
+###### ARTÍCULO 267.
+
+Los debates en lo particular, se referirán a los Artículos reservados contenidos en el cuerpo normativo de un dictamen sea para suprimirlos o modificarlos.
+
+Los debates en lo particular también se referirán a propuestas de adición de Artículos al cuerpo normativo del dictamen.
+
+Cada Artículo o grupo de Artículos reservado o propuesta de adición, se debatirá y resolverá sucesivamente en el orden que les corresponde dentro del cuerpo normativo del dictamen.
+
+###### ARTÍCULO 268.
+
+Para los debates en lo particular sobre Artículos reservados o adiciones, el Presidente de la Mesa Directiva, procederá a desahogar cada propuesta registrada, de la manera siguiente:
+
+I. El autor o, en su caso un representante de los autores, explicará al Pleno el sentido y los alcances de la misma y la entregará por escrito al Presidente de la Mesa Directiva;
+
+II. Se consultará al Pleno si se admite o no a debate;
+
+III. Si no se admitiere, se tendrá por desechada; en su oportunidad, se someterá a votación el Artículo reservado, en los términos del dictamen;
+
+IV. De admitirse, se levantarán listas de oradores en contra y a favor; iniciará el primero registrado en contra;
+
+V. Concluida cada ronda de dos oradores en contra y dos a favor, se consultará al Pleno si el asunto ha sido suficientemente debatido o no.
+
+VI. De sólo registrarse oradores a favor, al concluir sus intervenciones los dos primeros, se procederá de acuerdo a la fracción anterior; y,
+
+VII. Agotada la lista de intervenciones registradas, se declarará concluido el debate y, previa lectura por un Secretario de la Mesa Directiva del texto a considerar, se someterá a votación del Pleno; de ser aprobado, se incorporará en el cuerpo normativo; de no ser así, prevalecerán los términos originales propuestos en el dictamen y se someterá a votación el Artículo reservado.
+
+###### ARTÍCULO 269.
+
+Si un dictamen que proponga la aprobación total o parcial de una iniciativa o Proyecto de Ley o Decreto es rechazado en lo general por el Pleno, y existiere voto particular, éste se debatirá y votará en sus términos, sin que proceda el debate en lo particular del propio dictamen rechazado.
+
+Si no existe voto particular, se dará por concluido el debate y se someterá a votación.
+
+###### ARTÍCULO 270.
+
+En el caso de que no sea aprobado en lo general un dictamen y no exista voto particular, se someterá a consideración del Pleno si se devuelve a la Comisión respectiva. Si la votación fuere afirmativa, regresará a la Comisión para un nuevo análisis, si fuere negativa se desechará de plano y el Presidente de la Mesa Directiva ordenará se archive como asunto total y definitivamente concluido.
+
+Todo Proyecto de Ley o Decreto que fuere desechado, no podrá volver a presentarse en las sesiones del año.
+
+###### ARTÍCULO 271.
+
+Cuando en un dictamen se proponga el desechamiento total de una iniciativa o Proyecto, sólo se debatirá en lo general, salvo que exista voto particular que permita además el debate de Artículos específicos.
+
+De no haber voto particular y así estimarlo pertinente el Presidente de la Mesa Directiva, podrá someterlo a consideración del Pleno, previamente a la votación para la resolución de un dictamen con propuesta de desechamiento total, que será devuelto o no a Comisiones. En caso de aprobación se devolverá a Comisiones; de no ser así, el Presidente ordenará proceder a la votación para desechar la iniciativa o Proyecto.
+
+###### ARTÍCULO 272.
+
+Por causas plenamente justificadas, las Comisiones Dictaminadoras podrán solicitar al Presidente de la Mesa Directiva la devolución de un dictamen, siempre que lo hagan antes de su publicación en la Gaceta.
+
+De haber sido ya publicado un dictamen en la Gaceta, las Comisiones Dictaminadoras sólo podrán retirarlo previa aprobación del Pleno mediante solicitud por escrito al Presidente de la Mesa Directiva que funde y motive las causas.
+
+Esta facultad sólo puede ser ejercida en una ocasión respecto del mismo dictamen. En ningún caso el retiro implicará decisión del Pleno sobre el contenido del mismo.
+
+Las Comisiones estarán obligadas a volver a presentar el dictamen una vez atendidas las causas que motivaron su retiro, en los diez días hábiles siguientes.
+
+En todo caso, el retiro de un dictamen deberá ser avalado por lo menos con la firma de la mayoría de quienes lo suscribieron con voto aprobatorio.
+
+###### ARTÍCULO 273.
+
+Al término del ejercicio Constitucional de la Legislatura, los dictámenes emitidos por las Comisiones y publicados en la Gaceta sin que hayan sido debatidos y votados en el Pleno se enviarán al archivo.
+
+En el caso de las iniciativas que no sean dictaminadas, se estará a lo dispuesto por el Artículo 68 segundo párrafo de la Constitución Política del Estado. Los asuntos de orden jurisdiccional y aquellos actos administrativos que requieran ser concluidos por el Poder Legislativo, así como los que la Junta de Coordinación considere, quedarán a disposición de la Mesa Directiva de la siguiente Legislatura.
+
+### CAPÍTULO SÉPTIMO. DE LOS PLAZOS PARA EMITIR DICTAMEN
+
+###### ARTÍCULO 274.
+
+Los votos particulares constituyen la expresión de las minorías de una o más Comisiones dictaminadoras, o de uno o varios de sus integrantes, en sentido diverso al dictamen suscrito por la mayoría.
+
+Un voto particular puede referirse a la totalidad del dictamen o sólo a una de sus partes.
+
+Respecto de un mismo dictamen puede haber más de un voto particular.
+
+###### ARTÍCULO 275.
+
+Un voto particular contendrá, cuando menos, los siguientes elementos:
+
+I. Encabezado o título en el cual se especifique el asunto objeto del mismo, así como el ordenamiento u ordenamientos que se pretenda establecer, modificar, derogar o abrogar;
+
+II. Nombres de las Comisiones emisoras del dictamen al que se refiera;
+
+III. Fundamentos constitucional, legal y reglamentario;
+
+IV. Consideraciones de orden general y específico que expliquen el disentimiento respecto del dictamen de la mayoría;
+
+V. Señalamiento de si el voto se presenta sobre la totalidad o una parte del dictamen;
+
+VI. Texto normativo y régimen transitorio alternativos al dictamen de referencia;
+
+VII. Firmas autógrafas de su autor o autores; y,
+
+VIII. Lugar y fecha de su emisión.
+
+###### ARTÍCULO 276.
+
+Los votos particulares se presentarán ante el Presidente de la Comisión Dictaminadora o de la coordinadora de los trabajos de dictamen.
+
+El trámite de los votos particulares ante el Pleno, se sujetará a las reglas que señala el Capítulo anterior.
+
+###### ARTÍCULO 277.
+
+Si un dictamen es aprobado en lo general, se tendrán por desechados los votos particulares emitidos.
+
+Si el dictamen es rechazado, se pondrán de inmediato a debate y resolución del Pleno los votos particulares en el orden de su presentación, cuando se refieran al mismo cuerpo normativo.
+
+Si los votos particulares comprenden varios apartados del dictamen o diversos Artículos de su cuerpo normativo, se debatirán y votarán en el orden en que aparecen en el propio dictamen.
+
+De aprobarse un voto particular, el dictamen relativo continuará con su trámite; de rechazarse, se tendrá por desechado.
+
+El debate y la resolución sobre cada voto particular se regirán por las mismas reglas aplicadas al dictamen al cual correspondan.
+
+###### ARTÍCULO 278.
+
+Una vez aprobado un dictamen con Proyecto de Ley o Decreto no podrá modificarse, salvo para hacer las correcciones que demanden el buen uso del lenguaje y la claridad de los textos y que sean ordenadas por la Mesa Directiva. Dichas correcciones sólo las podrán realizar las Comisiones Dictaminadoras.
+
+Corregido el texto, se notificará para su revisión al Presidente de la Mesa Directiva, quien ordenará la publicación en la Gaceta y continuará el trámite que proceda.
+
+### CAPÍTULO OCTAVO. DE LA EXPEDICIÓN DE LAS LEYES Y DECRETOS
+
+###### ARTÍCULO 279.
+
+Las Iniciativas y Proyectos turnados a Comisiones deberán ser dictaminados dentro de un plazo no mayor a treinta días hábiles contados a partir del siguiente al de la recepción del turno, con las salvedades que establece esta Ley Orgánica y su Reglamento.
+
+Cuando la trascendencia o la complejidad de una iniciativa o proyecto lo hagan conveniente, la Mesa Directiva podrá disponer de un plazo mayor al señalado en el párrafo anterior.
+
+De igual forma, dentro de los diez días hábiles posteriores a la recepción del turno, las Comisiones Dictaminadoras podrán pedir al Presidente de la Mesa Directiva, mediante escrito fundado y motivado, la ampliación de los plazos señalados en este Artículo hasta por la mitad del tiempo que les haya correspondido. La Mesa resolverá lo conducente e informará al Pleno en la siguiente sesión.
+
+Para efectos del cómputo de los plazos para dictaminar, los días hábiles incluirán los recesos legislativos, en los términos de esta Ley Orgánica y su Reglamento.
+
+###### ARTÍCULO 280.
+
+Cuando la Constitución General, la Constitución del Estado, las Leyes o los Decretos establezcan plazos, términos o mecanismos específicos para la expedición de determinados ordenamientos, las Comisiones Dictaminadoras deberán tomarlos en consideración para efectos de la planeación de sus trabajos.
+
+###### ARTÍCULO 281.
+
+Transcurridos (sic) el plazo para dictaminar, el Presidente de la Mesa Directiva podrá emitir excitativa a las Comisiones que corresponda, en los términos de esta Ley Orgánica.
+
+Si transcurre el plazo y, en su caso, la prórroga, sin que se hubiere emitido el dictamen, los Diputados podrán solicitar al Presidente de la Mesa Directiva se excite nuevamente a las Comisiones a hacerlo; el Presidente establecerá un nuevo plazo para dar cumplimiento a la excitativa.
+
+En los casos de Iniciativas presentadas por otros sujetos con derecho a ello, las excitativas podrán ser solicitadas por el Diputado que así lo estime pertinente.
+
+A fin de cumplir sus atribuciones para agilizar los procedimientos legislativos, la Mesa Directiva dará seguimiento a los turnos dictados.
+
+###### ARTÍCULO 282.
+
+La solicitud de excitativa contendrá, cuando menos, los siguientes elementos:
+
+I. Nombre del Diputado o Diputados solicitantes;
+
+II. Título o identificación de la iniciativa o proyecto;
+
+III. Fecha de presentación de la iniciativa o proyecto en el Pleno o, en su caso, en la Comisión Permanente; y,
+
+IV. Comisión o Comisiones a las que se hubiere turnado la iniciativa, proyecto o proposición.
+
+Se presentará una excitativa por cada iniciativa, royecto (sic) o proposición cuyo dictamen se solicita.
+
+El Presidente de la Comisión que dictamine o coordine los trabajos de dictamen informará al Presidente el estado que guarda el asunto respectivo.
+
+###### ARTÍCULO 283.
+
+Vencidos los plazos y prórrogas sin que se hubiere presentado el dictamen ni exista causa justificada para ello, hecha la excitativa a la que se refiere el artículo anterior, a solicitud del o los proponentes, el Presidente por única vez reasignará el turno dirigiéndolo a la Comisión o Comisiones Dictaminadoras que resulten pertinentes.
+
+La Comisión o Comisiones a las que se les hubiera reasignado el asunto deberán emitir su dictamen para ser aprobado a más tardar en el siguiente periodo ordinario de sesiones al en que se hubiere presentado la iniciativa, proyecto o proposición, sin posibilidad de prórroga, para ese efecto el Presidente de la Mesa Directiva fijará fecha límite en la que deberá presentarse el dictamen de tal manera que se dé cumplimiento a lo dispuesto por el artículo 67, primer párrafo, de la Constitución Política del Estado.
+
+En los casos de las iniciativas, proyectos o proposiciones presentados por los otros sujetos legitimados para ello, distintos a los Diputados, el Presidente procederá en los términos señalados en el párrafo anterior.
+
+Cuando las Comisiones a las que se reasigne el turno no presenten el dictamen en los términos previstos en el segundo párrafo de este artículo, el Presidente les retirará inmediatamente el asunto y en sus términos lo someterá directamente al Pleno en el subsecuente periodo ordinario de sesiones, de conformidad con el artículo 67, segundo párrafo de la Constitución Política del Estado. En la tramitación de estos asuntos ante el Pleno se observarán las reglas aplicables a los dictámenes, previstas en esta Ley y su Reglamento.
+
+###### ARTÍCULO 284.
+
+Conforme a los plazos establecidos, las Comisiones continuarán durante los recesos el estudio de las iniciativas, proyectos y proposiciones turnados previamente por el Pleno o remitidos por la Comisión Permanente.
+
+Si durante un receso vencieran los plazos establecidos sin que se produjera dictamen, el Presidente de la Mesa Directiva dará cuenta de ello en el informe a que se refiere esta Ley Orgánica. El Pleno tomará conocimiento de los informes generados durante el receso dentro de las tres primeras sesiones del periodo ordinario siguiente.
+
+###### ARTÍCULO 285.
+
+Al iniciar una Legislatura la Mesa Directiva presentará al Pleno, dentro de las cinco primeras sesiones, un informe escrito sobre los asuntos pendientes, precisando las diferentes actuaciones recaídas en cada una de ellas y ordenará concluir su trámite. Se exceptuarán de este listado los dictámenes no discutidos ni aprobados y las iniciativas que no hubieren sido dictaminadas, las que seguirán el trámite que dispone el segundo párrafo del Artículo 68 constitucional.
+
+### CAPÍTULO NOVENO. DE LA SANCIÓN, PROMULGACIÓN, PUBLICACIÓN Y ENTRADA EN VIGOR
+
+###### ARTÍCULO 286.
+
+Una vez que el Congreso del Estado apruebe una Ley o Decreto, se registrará en su Libro de Leyes.
+
+###### ARTÍCULO 287.
+
+Toda Ley o Decreto que se comunique al Ejecutivo para su sanción y promulgación, llevará el número ordinal que le corresponda, y se expedirá bajo la siguiente Leyenda:
+
+"La (número ordinal sucesivo que le corresponda) Legislatura al Honorable Congreso del Estado Libre y Soberano de Guerrero decreta", y concluirá con ésta otra.
+
+"Dado (a) en el Salón de Sesiones del Honorable Poder Legislativo a los __ días del mes de__del año de__".
+
+Enseguida las firmas del Presidente y de por lo menos uno de los Secretarios de la Mesa Directiva.
+
+El Presidente de la Mesa Directiva realizará el trámite respectivo para la expedición de la Ley o Decreto de que se trate.
+
+La Ley o Decreto que se remitan al Ejecutivo del Estado para su sanción, promulgación y publicación se podrá acompañar de los siguientes documentos:
+
+I. La Iniciativa o Iniciativas que le dan origen;
+
+II. En su caso, la documentación sobre reuniones de las Comisiones que concluyeron con la aprobación del dictamen;
+
+III. El dictamen aprobado en Comisiones;
+
+IV. El ejemplar del Diario de los Debates o la versión estenográfica de la sesión o las sesiones en las que el Pleno aprobó el respectivo asunto; y,
+
+V. Los demás que se estime pertinentes.
+
+Un Secretario de la Mesa Directiva certificará el expediente y sus anexos.
+
+La Ley o Decreto así remitidos, no requerirán la incorporación de la exposición de motivos o las consideraciones respectivas para efectos de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+### CAPÍTULO ÚNICO. DE LAS REFORMAS Y ADICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
+
+###### ARTÍCULO 288.
+
+Recibida la Ley o Decreto respectivo, de conformidad con el ARTÍCULO 91, fracción VII, Constitucional, el Titular del Poder Ejecutivo, contará con un plazo de hasta diez días hábiles siguientes al de la fecha de recepción, para formular y notificar al Congreso del Estado, las observaciones correspondientes.
+
+###### ARTÍCULO 289.
+
+De no formularse y notificarse las observaciones en el plazo establecido, se reputará sancionada y promulgada la Ley o el Decreto, y el Gobernador del Estado ordenará su publicación en un plazo no mayor de treinta días hábiles posteriores. Si al concluir este último plazo no se publicare, el Presidente de la Mesa Directiva ordenará dentro de los diez días hábiles siguientes su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero, sin que se requiera refrendo.
+
+Los plazos a que se refiere este Artículo no se interrumpirán si el Congreso del Estado cierra o suspende sus sesiones, en cuyo caso la devolución deberá hacerse a la Comisión Permanente.
+
+###### ARTÍCULO 290.
+
+De efectuar observaciones a la Ley o Decreto correspondiente, éste será devuelto al Congreso del Estado en el plazo establecido, precisando lo siguiente:
+
+I. Si las observaciones son totales o parciales;
+
+II. Si son parciales, especificará la o las partes observadas; y,
+
+III. La motivación y fundamentación de la observación total o de cada una de las observaciones parciales.
+
+Una vez recibidas las observaciones, formuladas en tiempo, se dará cuenta al Pleno o a la Comisión Permanente en la sesión siguiente en que se efectúen y se turnarán a la Comisión o Comisiones que hubieren dictaminado para que se examine nuevamente el asunto. La Comisión o Comisiones dispondrán de hasta diez días hábiles para confirmar o modificar el dictamen originalmente aprobado.
+
+En caso de ser rechazadas las observaciones deberán expresarse las causas que lo justifiquen, en este caso, el dictamen deberá someterse a consideración del Pleno y si fuere confirmado por el voto de las dos terceras partes de los miembros presentes se remitirá nuevamente al Ejecutivo para que, sin más trámite, dentro del término de diez días hábiles lo promulgue. En caso de no hacerlo, se entenderá promulgado y el Presidente de la Mesa Directiva ordenará su publicación en el Periódico Oficial del Gobierno del Estado, sin que se requiera refrendo.
+
+Cuando un Proyecto de Ley o Decreto fuere devuelto al Congreso del Estado con las observaciones del Ejecutivo y no fuere aprobado con arreglo al párrafo anterior, no podrá ser sometido nuevamente a discusión sino hasta al siguiente periodo de sesiones ordinarias.
+
+###### ARTÍCULO 291.
+
+Si las observaciones sólo fueron parciales, el estudio y dictamen versará exclusivamente sobre éstas.
+
+###### ARTÍCULO 292.
+
+La publicación de las Leyes o Decretos, se efectuará en el Periódico Oficial del Gobierno del Estado, en los plazos que se establecen en esta Ley Orgánica y será suscrita por el Gobernador del Estado y refrendada por el Secretario General de Gobierno.
+
+###### ARTÍCULO 293.
+
+El Gobernador del Estado no podrá efectuar observaciones a las resoluciones del Congreso del Estado siguientes:
+
+I. Las relativas a las normas constitucionales,
+
+II. Las relativas a las normas legales y reglamentarias de organización y funcionamiento internos del Congreso del Estado;
+
+III. Cuando el Congreso del Estado ejerza funciones de cuerpo electoral o de jurado;
+
+IV. Cuando el Congreso del Estado declare que debe acusarse a alguno de los sujetos mencionados en el Artículo 195 numeral 1 de la Constitución Política del Estado por la Comisión de algún delito; y los relacionados con la suspensión de la inmunidad procesal y del cargo de estos últimos;
+
+V. Declaratorias de desaparición de Ayuntamientos;
+
+VI. Suspensión o revocación de mandato de miembros de los ayuntamientos;
+
+VII. Sanciones derivadas de procedimientos de responsabilidad administrativa; y,
+
+VIII. Las convocatorias a periodos extraordinarios de Sesiones acordadas por la Comisión Permanente.
+
+## TÍTULO SEXTO
+
+### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
+
+###### ARTÍCULO 294.
+
+El proceso de discusión y dictamen en Comisiones y debate y votación en el Pleno de Iniciativas y Proyectos de reformas o adiciones a la Constitución Política del Estado, se realizará conforme a los procedimientos y plazos establecidos en la presente Ley, salvo en lo relativo a los sujetos que pueden presentar las Iniciativas y la mayoría calificada de las dos terceras partes del total de los integrantes del Congreso del Estado requerida para su aprobación.
+
+El debate de dictámenes o proyectos de reformas o adiciones a la Constitución en el Pleno del Congreso del Estado se realizará por cada Artículo al cual se refieran.
+
+###### ARTÍCULO 295.
+
+Cuando el Congreso del Estado apruebe un proyecto de reformas o adiciones a la Constitución el Presidente de la Mesa Directiva procederá de la siguiente forma:
+
+I. Enviará el texto del proyecto a cada uno de los Ayuntamientos del Estado, anexando al expediente los antecedentes y demás elementos de información necesarios para su examen. En la remisión deberá precisarse el plazo con el que cuentan para resolver a que alude el Artículo 199, numeral 1, fracción III, de la Constitución Política del Estado;
+
+II. Recibirá de cada Ayuntamiento del Estado los acuerdos correspondientes, conforme se vayan pronunciando respecto de la aprobación o no del proyecto;
+
+III. Aprobado en sesiones de cabildo el Proyecto, por el cincuenta por ciento más uno de los ayuntamientos del Estado, recibirá de la Secretaría de la Mesa Directiva el cómputo correspondiente, informará al Pleno o a la Comisión Permanente y formulará la declaratoria respectiva, la que suscribirán tanto el Presidente como los dos Secretarios de la Mesa Directiva. Al efecto se levantará el acta respectiva;
+
+IV. Hecho lo anterior, remitirá de inmediato el Decreto aprobado y la declaración de haber sido aprobadas las reformas al titular del Poder Ejecutivo del Estado, a efectos de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+## TÍTULO SÉPTIMO. DE LOS PROCEDIMIENTOS ESPECIALES
+
+### CAPÍTULO SEGUNDO. DEL NOMBRAMIENTO, DESIGNACIÓN, APROBACIÓN, RATIFICACIÓN U OBJECIÓN DE NOMBRAMIENTOS Y DE LAS REMOCIONES DE LAS LICENCIAS DE SERVIDORES PÚBLICOS
+
+###### ARTÍCULO 296.
+
+Son procedimientos especiales todos aquellos que realice el Congreso del Estado para el cumplimiento de sus atribuciones; o el ejercicio de funciones de carácter administrativo que le corresponden.
+
+###### ARTÍCULO 297.
+
+En el marco de las atribuciones del Congreso, son procedimientos especiales los que se refieren al desahogo de las siguientes funciones:
+
+I. Nombrar, designar, aprobar, ratificar u objetar nombramientos y remover, en su caso, a servidores públicos;
+
+II. Recibir informes, analizarlos y hacer comparecer a servidores públicos, así como formular preguntas parlamentarias;
+
+III. Aprobar y expedir acuerdos parlamentarios;
+
+IV. Atender las comunicaciones y peticiones de los particulares, de su competencia;
+
+V. Sustanciar el procedimiento y aprobar la erección de nuevos Municipios en el Estado;
+
+VI. Sustanciar el procedimiento especial en materia de derechos humanos;
+
+VII. Otorgar las preseas "Sentimientos de la Nación" y "Eduardo Neri Reynoso", y reconocimientos a personas e instituciones;
+
+VIII. Analizar y aprobar el Plan Estatal de Desarrollo;
+
+IX. Sustanciar procedimientos de responsabilidades de servidores públicos y suspender ayuntamientos o revocar el cargo o mandato a sus integrantes;
+
+X. Expedir el Bando Solemne de Gobernador Electo;
+
+XI. Dictaminar, discutir y votar las minutas de reformas y adiciones a la Constitución Política de los Estados Unidos Mexicanos;
+
+XII. Promover acciones de inconstitucionalidad y controversias constitucionales;
+
+XIII. Sustanciar procedimientos en materia de finanzas públicas Municipales; y,
+
+XIV. Realizar las demás funciones y actividades que le atribuyan la Constitución y las Leyes.
+
+### CAPÍTULO TERCERO. DE LOS INFORMES, LAS COMPARECENCIAS Y LAS PREGUNTAS PARLAMENTARIAS
+
+###### ARTÍCULO 298.
+
+Corresponde al Congreso del Estado el nombramiento, la designación, la aprobación, ratificación y la objeción de nombramientos, así como la remoción y el otorgamiento de licencias de aquellos servidores públicos que establece la Constitución Política del Estado, esta Ley Orgánica y otras Leyes, conforme lo dispongan dichos ordenamientos.
+
+###### ARTÍCULO 299.
+
+Para el procedimiento respectivo y siempre que no existan disposiciones expresas que lo prevean en la Constitución o las Leyes correspondientes, se estará a lo dispuesto por la presente Ley Orgánica y su Reglamento.
+
+###### ARTÍCULO 300.
+
+Una vez que se reciba la comunicación oficial sobre una vacante o se actualice el supuesto jurídico para que el Congreso del Estado ejerza sus facultades de nombramiento, designación, aprobación o ratificación de un nombramiento respecto de un determinado cargo público, el Presidente de la Mesa Directiva dará cuenta al Pleno o a la Comisión Permanente y se procederá conforme a lo siguiente:
+
+I.- En caso de que la facultad de nombramiento, designación o aprobación de nombramiento se ejerza a partir de la presentación de propuestas del Titular del Poder Ejecutivo o de algún ente público, ya sean uninominales, por ternas o por listas, se turnarán junto con los expedientes relativos a la Junta de Coordinación o Comisión a las que por materia les competa dictaminar;
+
+Inmediatamente la Junta de Coordinación o la Comisión verificarán que el expediente se acompañe de la documentación que acredite el cumplimiento de los requisitos exigidos para el cargo por la Constitución o las Leyes.
+
+De encontrarse alguna omisión o defecto en la documentación correspondiente se hará del conocimiento del Presidente de la Mesa Directiva para que requiera de inmediato al Ejecutivo del Estado o al ente público respectivo para que la complete o corrija. El procedimiento se suspenderá mientras no se subsane lo requerido y no correrán los plazos, si es que los hubiere.
+
+Una vez verificado el cumplimiento de los requisitos e integrado debidamente el expediente, la Comisión o Comisiones podrán citar a comparecer a la persona de que se trata, a fin de allegarse de mayores elementos de juicio para la elaboración del dictamen que corresponda.
+
+La comparecencia la convocará el Presidente de la Junta de Coordinación o de la Comisión, según corresponda, previos los acuerdos del caso. Se desarrollará de tal modo que permita a los Diputados evaluar los conocimientos del compareciente sobre el cargo de que se trata y conocer su visión del trabajo a realizar.
+
+La Junta de Coordinación o la Comisión emitirán una propuesta que será leída ante el Pleno. La propuesta será sometida inmediatamente a consideración del Pleno o de la Comisión Permanente, según corresponda, para su discusión conforme a las reglas que rigen el debate. La aprobación o ratificación de los nombramientos se hará en votación por cédula de la mayoría absoluta de los Diputados presentes en la sesión, salvo disposición expresa en que se disponga una forma diferente de votación o se exija una mayoría calificada.
+
+Los acuerdos relativos a la aprobación o ratificación de nombramientos se publicarán en la Gaceta y se notificarán a las autoridades correspondientes.
+
+Cuando así lo acuerde el Presidente de la Mesa Directiva, los Servidores Públicos cuyos nombramientos se aprueben en los términos del presente Capítulo, prestarán la protesta constitucional ante el Pleno o la Comisión Permanente.
+
+II.- En los casos en que la Junta de Coordinación o una Comisión sea la competente para presentar una propuesta, la remitirá directamente al Presidente de la Mesa Directiva para que la ponga a consideración del Pleno.
+
+En todo caso, la Junta de Coordinación o la Comisión revisarán que las personas que se propongan cumplan los requisitos para el cargo y que se integre debidamente la documentación que lo acredite.
+
+De requerirse para integrar una propuesta la consulta a otros entes Públicos, la auscultación o consulta a sectores u organizaciones de la sociedad, la Junta de Coordinación o la Comisión responsable las realizarán, sea por escrito, mediante convocatoria pública, o cualquiera otra modalidad que se determine pertinente en el acuerdo respectivo.
+
+La Junta de Coordinación o la Comisión responsables mandarán la información básica sobre cada persona a considerar, para su publicación en la Gaceta.
+
+En lo conducente, se aplicarán las reglas de procedimiento previstas en la fracción anterior.
+
+III.- Respecto de la ratificación de nombramientos, la Junta de Coordinación o la Comisión respectiva deberán solicitar la comparecencia de dichos servidores, a efecto de respetar su garantía de audiencia concediéndoles un plazo para el ofrecimiento y desahogo de pruebas y para alegar, y conocer su interés respecto a su posible permanencia en el cargo y las razones para ello, a fin de contar con elementos objetivos de juicio para determinar la procedencia o no de las respectivas ratificaciones. En todo caso, el dictamen que se emita deberá fundar y motivar adecuadamente la decisión correspondiente, la que deberá ser notificada a los interesados una vez aprobada por el Pleno. Serán aplicables las reglas previstas en la fracción I de este Artículo, en lo que sea conducente.
+
+En el caso de los nombramiento (sic) directos de algún servidor público, si así se considera pertinente, cuando el nombramiento de que se trata se refiera a la sustitución de un servidor público cuyo encargo termine en una fecha específica, la Junta de Coordinación o la Comisión podrán realizar anticipadamente los procedimientos conducentes para cubrir en tiempo y forma la vacante.
+
+Cuando finalice un período de Sesiones ordinarias del Congreso del Estado, sin que se hubiera concluido el trámite de algún nombramiento que sea también competencia de la Comisión Permanente, la Mesa Directiva dará cuenta a esta con el expediente relativo para los efectos procedentes.
+
+###### ARTÍCULO 301.
+
+Cuando la Constitución o las Leyes prevean la intervención del Congreso del Estado para aprobar o negar las solicitudes de licencia o las renuncias de Servidores Públicos, su remoción o para dar el visto bueno sobre determinados nombramientos, el procedimiento se sujetará al ordenamiento relativo y, en lo conducente, a lo que establece este Capítulo.
+
+### CAPÍTULO CUARTO. DE LAS PROPOSICIONES DE ACUERDOS PARLAMENTARIOS
+
+###### ARTÍCULO 302.
+
+En los términos del Artículo 73 de la Constitución Política del Estado, el Gobernador presentará el informe escrito sobre el estado que guarda la administración pública, en los plazos y conforme a los supuestos que dicho precepto establece.
+
+El Congreso del Estado analizará en sesiones subsecuentes el informe presentado por el Gobernador en la forma y modalidades en los términos previstos a continuación.
+
+###### ARTÍCULO 303.
+
+En el ejercicio de las funciones de control, en el ámbito de su competencia, el Congreso del Estado recibirá, analizará y se pronunciará respecto de los informes de los entes Públicos a los cuales la Constitución y las Leyes impongan la obligación de presentarlos.
+
+El Congreso del Estado también ejercerá atribuciones de control mediante las comparecencias de los Servidores Públicos que prevén los Artículos 61 fracción XXXIII, 62 fracción VIII, 73 y 89 de la Constitución Política del Estado, sea para la glosa del informe sobre el estado que guarda la administración pública, o para informar o responder preguntas e interpelaciones.
+
+Las preguntas tendrán por objeto obtener información sobre un tema específico, o bien ampliarla, para el análisis de un informe, la discusión de una Ley o el estudio de un asunto.
+
+La interpelación tendrá como objeto obtener de un servidor público la explicación sobre políticas de interés general.
+
+###### ARTÍCULO 304.
+
+El Congreso del Estado realizará el análisis del informe anual que el Gobernador presente por escrito sobre el estado general que guarda la administración pública de la entidad.
+
+El análisis se efectuará por materias a efecto de verificar el cumplimiento del Plan Estatal de Desarrollo y los programas sectoriales.
+
+La Junta de Coordinación, formulará el calendario para el análisis del informe presentado, sea en el Pleno, en Comisiones o en ambas modalidades.
+
+Para una mejor Coordinación en la formulación del calendario de comparecencias, la Junta de Coordinación solicitará opinión al Ejecutivo del Estado.
+
+###### ARTÍCULO 305.
+
+Conforme a la Ley, del análisis que realice del informe presentado, el Congreso del Estado podrá solicitar al Ejecutivo del Estado, mediante preguntas por escrito, amplíe la información relativa.
+
+La Junta de Coordinación integrará las preguntas que formulen los Grupos y Representaciones Parlamentarias en proporción al número de sus integrantes y las remitirá al Gobernador del Estado.
+
+Las respuestas del Gobernador se turnarán a las Comisiones competentes y a los Grupos y Representaciones Parlamentarias, quienes las analizarán, valorarán y llegarán a conclusiones.
+
+Una vez cumplido el programa para el análisis del informe gubernamental, el Presidente de la Mesa Directiva ordenará la integración de la memoria respectiva, para su entrega al Gobernador, así como para su publicación y difusión por el Congreso del Estado.
+
+###### ARTÍCULO 306.
+
+El objeto, la presentación, el contenido y la periodicidad de los demás informes que los entes Públicos obligados remitan al Congreso del Estado se sujetarán, en cada caso, a lo que disponga el ordenamiento aplicable y, en su caso, serán aplicables las reglas anteriores.
+
+###### ARTÍCULO 307.
+
+En el contexto del informe gubernamental, el Congreso del Estado podrá convocar a comparecer a los servidores públicos obligados para que informen o respondan preguntas o interpelaciones. Asimismo, podrá hacerlo para el análisis de leyes o de asuntos referidos a los respectivos ramos o actividades de dichos servidores.
+
+En el caso de las preguntas e interpelaciones, también podrán hacerse por escrito.
+
+###### ARTÍCULO 308.
+
+Cuando por acuerdo del Pleno deban comparecer Servidores Públicos conforme al Artículo 89 de la Constitución Política del Estado, la comunicación oficial del Congreso del Estado señalará si la comparecencia será ante el Pleno o en Comisiones y el objeto de la reunión, anexando, en su caso, la documentación concerniente al asunto que se examine en la comparecencia.
+
+Los servidores públicos podrán enviar previamente documentos e información útil para el desarrollo de la comparecencia.
+
+De ser el caso, con el citatorio se enviarán a los comparecientes las preguntas e interpelaciones que los Diputados, en lo individual o en grupo, entreguen previamente a la Junta de Coordinación, sin menoscabo de que durante la comparecencia formulen otras preguntas o interpelaciones.
+
+En el caso de que la Junta de Coordinación o las Comisiones enfrenten alguna dificultad u obstrucción debida al servidor público compareciente, la Junta de Coordinación se dirigirá en queja al Titular del Poder Ejecutivo del Estado o del órgano autónomo de que se trate, para los efectos procedentes.
+
+###### ARTÍCULO 309.
+
+Los Diputados podrán formular preguntas e interpelaciones a los servidores públicos referidos en el Artículo 89 constitucional, sin mediar comparecencia, para ello se presentarán por escrito y firmadas por los Diputados que las formulen en lo individual o en grupo.
+
+Las preguntas e interpelaciones se incluirán en el Orden del Día de la sesión inmediata del Pleno, en el apartado de proposiciones con punto de acuerdo. El autor o un representante de los autores podrán explicar el objeto y las razones de la pregunta o interpelación y a continuación se someterán a debate y votación.
+
+De aprobar el Pleno la pregunta o interpelación, el Presidente de la Mesa Directiva la enviará al servidor público a quien se dirija. De no aprobarla, se entenderá por desechada.
+
+La respuesta por escrito deberá remitirse dentro del plazo de diez días hábiles siguientes a la notificación. Si la respuesta no se emite en el plazo previsto o no satisface el sentido de la pregunta o de la interpelación, el Presidente de la Mesa Directiva lo informará al Pleno para que, en su caso, determine acordar la comparecencia del servidor público involucrado.
+
+###### ARTÍCULO 310.
+
+Las preguntas e interpelaciones que formulen los Diputados al compareciente, ya sea por escrito o en forma verbal, deberán ser concisas y expresarse de tal modo que permitan una respuesta similar, que representen el interés público y referirse al marco de atribuciones y competencias del servidor público, entidad u organismo a quien se dirija. Las respuestas deberán ser breves y directamente vinculadas con la pregunta o interpelación hechas.
+
+Cuando a juicio del Presidente de la Mesa Directiva o del de la Comisión respectiva, el compareciente no responda en los términos del párrafo anterior, le concederá nuevamente el uso de la palabra al Diputados (sic) que formuló la pregunta o interpelación a fin de que señale las omisiones de la respuesta; para la contestación precisa el compareciente dispondrá hasta del mismo tiempo que el Diputado.
+
+Cuando un servidor público no responda satisfactoriamente o evada las preguntas que se le formulen, el Presidente de la Mesa Directiva o el de la Comisión respectiva le solicitará que a más tardar dentro de los cinco días hábiles siguientes al de la comparecencia responda por escrito y remita la información completa o la omitida. De no hacerlo, previo acuerdo del Pleno se le convocará a una segunda comparecencia, ya sea ante la misma Comisión o ante el Pleno del Congreso.
+
+La Mesa Directiva ordenará a las Secretarías Parlamentaria y Financiera proveer el apoyo necesario para el mejor desarrollo de las comparecencias.
+
+###### ARTÍCULO 311.
+
+Los informes que la Constitución o las Leyes ordenan a las dependencias, entidades, órganos autónomos o servidores públicos presentar al Congreso del Estado de manera periódica, serán turnados a las Comisiones competentes y se publicarán en la Gaceta.
+
+Las Comisiones competentes analizarán los informes en el plazo que en cada caso se disponga y formularán conclusiones que entregarán a la Mesa Directiva para los efectos procedentes. Las conclusiones se publicarán en la Gaceta.
+
+Si del análisis de un informe las Comisiones determinan la necesidad de contar con mayores elementos de juicio, solicitarán lo complemente o aclare el ente público emisor.
+
+### CAPÍTULO QUINTO. DE LAS COMUNICACIONES Y PETICIONES
+
+###### ARTÍCULO 312.
+
+El Pleno emitirá acuerdos parlamentarios a propuesta de la Mesa Directiva, la Junta de Coordinación, las Comisiones y los Comités, con el objeto de dictar resoluciones económicas relativas al régimen interior del Congreso.
+
+Los acuerdos parlamentarios que propongan la Mesa Directiva o la Junta de Coordinación se someterán de inmediato al Pleno. Los que propongan las Comisiones y los Comités se remitirán al Presidente de la Mesa Directiva, y una vez analizados en su viabilidad, los presentará al Pleno.
+
+Los acuerdos parlamentarios aprobados por el Pleno se publicarán en la Gaceta.
+
+La vigencia de cada acuerdo parlamentario se establecerá en el régimen transitorio correspondiente. Algunos acuerdos serán de observancia obligatoria sólo en el transcurso de la Legislatura que los apruebe, en tanto que otros serán permanentes hasta que se disponga lo contrario.
+
+###### ARTÍCULO 313.
+
+Los Diputados, los Grupos y las Representaciones Parlamentarias podrán presentar proposiciones con punto de acuerdo con el objeto de atender asuntos que no constituyan Iniciativas de Ley o Decreto.
+
+Las proposiciones con punto de acuerdo se remitirán por escrito y firmadas por su o sus autores al Presidente de la Mesa Directiva; se presentarán al Pleno en la sesión en que se incluyan en el Orden del Día y se turnarán a Comisiones, salvo que se les dispense de dicho trámite como asuntos de urgente y obvia resolución, por el voto de las dos terceras partes de los Diputados presentes en sesión.
+
+El derecho a presentar proposiciones con punto de acuerdo conlleva el de retirarlas a solicitud de sus autores.
+
+###### ARTÍCULO 314.
+
+Los dictámenes sobre proposiciones con punto de acuerdo deberán cumplir, en lo procedente, con los mismos requisitos que los de carácter legislativo; podrán incorporar otros elementos útiles para el cumplimiento de su objeto.
+
+Podrán desahogarse varias proposiciones en un mismo dictamen, si se refieren a la misma materia o tema.
+
+El punto de acuerdo a que se refiere el dictamen será leído una sola vez y enseguida se someterá a debate y votación económica.
+
+Sólo se publicarán en el Periódico Oficial del Gobierno del Estado aquellos puntos de acuerdo que, por su relevancia y trascendencia, acuerde la Mesa Directiva.
+
+### CAPÍTULO SEXTO. DEL PROCEDIMIENTO PARA LA ERECCIÓN DE NUEVOS MUNICIPIOS
+
+###### ARTÍCULO 315.
+
+Toda comunicación o solicitud que cualquier persona dirija al Congreso del Estado se atenderá conforme a las disposiciones constitucionales y legales que regulan los derechos de petición y de acceso a la información pública. En todo caso, las que se presenten por escrito en oficialía de partes deberá contener nombre, firma y domicilio del remitente, sin lo cual no se le dará trámite.
+
+Las comunicaciones y peticiones se formularán por escrito dirigido a la Mesa Directiva o, en su caso, al órgano directivo, Comisión o Comité que resulte competente en el asunto de que se trate.
+
+Cuando un órgano del Congreso del Estado al que se dirija una comunicación o solicitud no sea el competente para atenderla, la remitirá a la Secretaría Parlamentaria para que le dé el trámite que corresponda. De lo anterior se informará al solicitante.
+
+La comunicación dirigida al Congreso del Estado que no amerite trámite se enviará directamente al archivo.
+
+###### ARTÍCULO 316.
+
+Las comunicaciones, peticiones, consultas y otros asuntos remitidos por entes públicos, se turnarán a las Comisiones, los Comités y los demás órganos competentes del Congreso, para la atención que corresponda.
+
+Los órganos directivos del Congreso del Estado y las Comisiones o los Comités llevarán un registro de las comunicaciones y solicitudes recibidas, así como de los acuerdos, resoluciones o respuestas que les recaigan.
+
+### CAPÍTULO SÉPTIMO. DEL PROCEDIMIENTO ESPECIAL EN MATERIA DE DERECHOS HUMANOS
+
+###### ARTÍCULO 317.
+
+El Congreso del Estado, podrá erigir nuevos Municipios dentro de los existentes, modificar sus límites, suprimir o fusionar alguno de ellos, con base en criterios técnicos de orden demográfico, político, social y económico.
+
+Para los efectos del párrafo anterior, la Comisión correspondiente podrá ordenar la práctica de cualquier diligencia probatoria y solicitar la asesoría y el apoyo de expertos en la materia o de otras dependencias y entidades públicas.
+
+###### ARTÍCULO 318.
+
+Iniciado el trámite, una vez cubiertos los requisitos que establece la Ley Orgánica del Municipio Libre y presentada la iniciativa del Decreto de erección suscrita por el Gobernador del Estado, los ciudadanos que representen por lo menos el 5% del total inscrito en el padrón electoral que corresponda al municipio o Municipios afectados que se pretende escindir, deberán solicitar formalmente al Congreso del Estado someter a referéndum entre los ciudadanos del municipio o Municipios afectados, la erección del nuevo municipio. Este requisito será indispensable para erigir nuevos Municipios. Tanto la solicitud de referéndum como el procedimiento, se sujetarán a lo dispuesto por la Ley de Participación Ciudadana del Estado Libre y Soberano de Guerrero.
+
+Para los efectos anteriores, el Comité gestor podrá fungir como Comité promotor. Los plazos que prevé la Ley antes citada podrán ser modificados por el Congreso del Estado o el Instituto Electoral y de Participación Ciudadana del Estado cuando así se justifique.
+
+Los resultados favorables del referéndum no tendrán carácter vinculatorio para el Congreso del Estado, en todo caso se requerirá el voto de las dos terceras partes del total de sus integrantes para erigir nuevos Municipios. Si los resultados fueren negativos a la creación del municipio, el Congreso del Estado desechará de plano el asunto. Los resultados del referéndum se publicarán en el Periódico Oficial del Gobierno del Estado.
+
+El Decreto que apruebe la erección de un municipio deberá señalar el nombre del Municipio, la cabecera municipal, la superficie que comprende y sus límites, así como cualquier otro dato relevante a juicio de la Comisión Dictaminadora.
+
+Concluido lo anterior se procederá al trámite de reforma constitucional mismo que iniciará el Gobernador del Estado y se sujetará al trámite que prevé esta Ley. Una vez que se declare que la reforma constitucional ha sido aprobada por la mayoría de los ayuntamientos y publicada en el Periódico Oficial, el Congreso del Estado dentro de los 120 días siguientes a la entrada en vigor, deberá expedir el Decreto por el que designa a los integrantes del Ayuntamiento instituyente del Municipio, su periodo de ejercicio y se fijará fecha de erección del nuevo Municipio.
+
+###### ARTÍCULO 319.
+
+El Congreso del Estado y las autoridades Municipales nombradas, atenderán en el ámbito de sus respectivas competencias, las cuestiones relativas a las Leyes de ingresos y Presupuestos de Egresos, así como a cualquier otra que sea necesaria para que el nuevo Municipio esté debidamente organizado y funcionando. El Ejecutivo del Estado proporcionará los apoyos necesarios para ese mismo efecto.
+
+En el proceso de entrega recepción entre un Municipio de nueva creación y el Municipio o los Municipios a partir del cual se erige, se distribuirán proporcionalmente los derechos, obligaciones y cargas.
+
+###### ARTÍCULO 320.
+
+Para modificar los límites de los Municipios, suprimirlos o fusionarlos serán aplicables las normas previstas en este capítulo, en lo conducente.
+
+### CAPÍTULO OCTAVO. DE LAS PRESEAS SENTIMIENTOS DE LA NACIÓN Y EDUARDO NERI REYNOSO, DEL MURO DE HONOR DEL RECINTO Y DE LOS RECONOCIMIENTOS ESPECIALES
+
+###### ARTÍCULO 321.
+
+La Comisión de los Derechos Humanos del Estado, en forma oportuna, hará del conocimiento de la Comisión legislativa de Derechos Humanos, la no aceptación o el incumplimiento u omisión injustificada de las recomendaciones aceptadas por cualquier servidor público, el que tendrá derecho a expresar ante la misma, las razones de su conducta o bien justificar los hechos u omisiones en que hubiere incurrido, previo informe que le sea requerido.
+
+###### ARTÍCULO 322.
+
+Los hechos que haga del conocimiento la Comisión de los Derechos Humanos del Estado no requerirán de ratificación especial.
+
+El procedimiento iniciará con la solicitud formal presentada por la Comisión de los Derechos Humanos del Estado, en la que se expresarán los antecedentes y consideraciones pertinentes, asimismo deberán acompañarse las documentales necesarias para ilustrar el caso.
+
+###### ARTÍCULO 323.
+
+La Comisión Legislativa de Derechos Humanos, si lo considera necesario, someterá a consideración del Pleno la solicitud de comparecencia de la o las autoridades respectivas y establecerá el formato de la comparecencia, en el que se deberá incluir la participación del Presidente de la Comisión de los Derechos Humanos del Estado y el requerimiento de un informe a la autoridad cuya comparecencia se solicita, así como para que acompañe la documentación que estime pertinente.
+
+Desahogada la comparecencia y analizadas las constancias del expediente, la Comisión Ordinaria de Derechos Humanos del Congreso del Estado formulará sus conclusiones por escrito ante el Pleno y se dará vista con ellas, en su caso, a las autoridades competentes.
+
+### CAPÍTULO NOVENO. DEL ANÁLISIS Y APROBACIÓN DEL PLAN ESTATAL DE DESARROLLO
+
+#### SECCIÓN III. DE LA INSCRIPCIÓN DE NOMBRES EN EL MURO DE HONOR DEL SALÓN DE PLENOS
+
+###### ARTÍCULO 324.
+
+Las Preseas y reconocimientos previstos en este Capítulo se otorgarán en correspondencia pública de una conducta o de una trayectoria vital ejemplares; por servicios notables prestados en beneficio de la humanidad, de la Nación, del Estado, de la comunidad o de cualquier persona; o por la realización de obras científicas, artísticas o culturales singularmente destacadas.
+
+###### ARTÍCULO 325.
+
+Las Preseas y reconocimientos podrán concederse con carácter póstumo, para lo cual, se entregará simbólicamente el pergamino y las Preseas o Medalla al o los familiares del homenajeado, que sean designados por la misma familia en el acto que para el efecto se realice. De no haber sido localizado familiar alguno, el director de una institución educativa vinculada con la vida del homenajeado o que lleve el nombre de éste, podrá recibir el reconocimiento y guardarlo en el lugar de honor que corresponda en la institución.
+
+###### ARTÍCULO 326.
+
+Los reconocimientos se podrán otorgar en los términos previstos en este Capítulo, a los ciudadanos ya sea considerados como personas en lo individual o en grupo, a las personas morales y a las instituciones, que con su actuar hayan dado prestigio al Estado de Guerrero, o contribuido significativamente al desarrollo político, económico, social o cultural de Guerrero o de la Nación.
+
+Las fechas históricas y acontecimientos relevantes, a los que se hace un reconocimiento, deberán referirse a eventos de trascendencia que hayan influido en el desarrollo político, social, deportivo, económico y cultural del Estado de Guerrero o del país.
+
+###### ARTÍCULO 327.
+
+Los reconocimientos especiales se concederán de manera pública a las personas físicas o morales con un mérito Civil relevante.
+
+#### SECCIÓN IV. DE LOS RECONOCIMIENTOS ESPECIALES
+
+###### ARTÍCULO 328.
+
+El Congreso del Estado concederá las siguientes Preseas:
+
+I.- "Sentimientos de la Nación".- Esta es la más alta Presea que otorga el pueblo de Guerrero y se otorgará a nacionales o extranjeros que sean dignos de portar dicho reconocimiento, tomando en cuenta su cercanía a los principios del Primer Congreso de Anáhuac y de los Sentimientos de la Nación, como son la lucha por la paz, la democracia, la defensa de los derechos humanos y, en general, los más altos valores de la humanidad.
+
+La Presea "Sentimientos de la Nación", tendrá las características siguientes: En el anverso, del lado superior derecho la Efigie del Generalísimo Don José María Morelos y Pavón, abajo de la Efigie un pergamino y sobre él la Leyenda "Primer Congreso de Anáhuac Sentimientos de la Nación", Chilpancingo Guerrero 13 de Septiembre 1813, del lado Izquierdo la Catedral de la Asunción de María, en la parte superior izquierda, una avispa y a su alrededor la Leyenda del aniversario que se trate.
+
+Al reverso de la Medalla al centro entre dos ramas de laurel la Leyenda "Presea Sentimientos de la Nación" y a su alrededor el nombre del Galardonado y la fecha 13 de septiembre del año que corresponda.
+
+La Presea "Sentimientos de la Nación" se otorgará por lo menos cada tres años, el día trece de septiembre, en la sesión pública y solemne en que se conmemore la instalación del Primer Congreso de Anáhuac.
+
+II.- Eduardo Neri Reynoso.-Esta Presea reconoce el trabajo de Diputados Guerrerenses, locales o federales, que se hayan distinguido por su trabajo legislativo y su aportación a la construcción del marco jurídico de la Nación y del Estado de Guerrero.
+
+La Presea Eduardo Neri Reynoso será concedida por lo menos una vez cada tres años, el día trece de octubre, en el marco de la conmemoración del natalicio del distinguido guerrerense.
+
+En las Sesiones donde se otorguen dichas Preseas, se contará con la presencia de los Poderes Ejecutivo y Judicial del Estado.
+
+#### SECCIÓN I. DE LA SUBSTANCIACIÓN DE LOS PROCEDIMIENTOS DE RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS
+
+###### ARTÍCULO 329.
+
+En el Salón de Sesiones del Congreso del Estado se dispondrá de un espacio al que se le denominará Muro de Honor, destinado a inscribir con letras doradas el nombre de personas en lo individual o en grupo, el nombre de personas morales o de instituciones que con su actuar o función hayan dado prestigio al Estado de Guerrero, que hayan contribuido en grado excelso a las artes, al desarrollo científico o tecnológico con aportaciones en beneficio de la humanidad, que hayan destacado por su quehacer intelectual en el desarrollo de las ciencias y las artes de México y el mundo, que hayan destacado por su participación en los procesos históricos que han conformado la Nación o el Estado, y en general que hayan contribuido significativamente al desarrollo político, económico, social o cultural de Guerrero o de la Nación; así como fechas históricas o acontecimientos relevantes, los cuales deberán referirse a eventos de trascendencia, que hayan influido en el desarrollo político, social, económico y cultural del Estado de Guerrero o del país.
+
+###### ARTÍCULO 330.
+
+Las propuestas podrán ser presentadas por:
+
+I. Los Diputados;
+
+II. El Gobernador del Estado;
+
+III. El Cabildo de cualquier Ayuntamiento del Estado; o,
+
+IV. El Tribunal Superior de Justicia.
+
+En todos los casos las propuestas se presentarán al Pleno del Congreso del Estado en la forma de iniciativa de Decreto.
+
+Para el estudio y dictaminación de la iniciativa, el Pleno designará una Comisión Especial.
+
+La aprobación de la iniciativa correspondiente deberá realizarse por la mayoría de las dos terceras partes de los presentes en el Pleno.
+
+El acto de develación del nombre de un personaje, fecha histórica, acontecimiento relevante, grupo de personas o una institución en el Muro de Honor del Congreso del Estado, se verificará en Sesión Solemne que para el efecto se convoque.
+
+#### SECCIÓN II. DE LA SUSPENSIÓN O DESAPARICIÓN DE LOS AYUNTAMIENTOS
+
+###### ARTÍCULO 331.
+
+El Congreso del Estado podrá conceder un reconocimiento público especial a las personas físicas o morales con un mérito Civil relevante, el cual constará de un diploma firmado por el Presidente y los Secretarios de la Mesa Directiva, en el que se expresarán las razones de su otorgamiento. También podrá consistir en una placa conmemorativa, monumento o alguna otra expresión artística.
+
+La propuesta para el otorgamiento de dichos reconocimientos podrá provenir de organizaciones de la sociedad Civil, ayuntamientos e instituciones y organismos públicos o privados del Estado, en las que se señalen los merecimientos del candidato y se acompañará de los documentos probatorios que se estimen pertinentes, en su caso, se indicará la naturaleza de otras pruebas y los lugares donde puedan recabarse; pero en cualquier caso, la resolución definitiva será del Pleno del Congreso del Estado.
+
+El otorgamiento de un reconocimiento especial no inhabilita a una persona para obtener alguna de las Preseas referidas en esta Ley.
+
+Para el estudio y dictaminación de la iniciativa, el Pleno a propuesta de la Junta de Coordinación designará una Comisión Especial.
+
+### CAPÍTULO DÉCIMO. DE LA SUBSTANCIACIÓN DE LOS PROCEDIMIENTOS DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y DE LA SUSPENSIÓN DE AYUNTAMIENTOS O REVOCACIÓN DE SUS INTEGRANTES
+
+###### ARTÍCULO 332.
+
+El análisis y la aprobación del Plan Estatal de Desarrollo se sujetarán al siguiente procedimiento:
+
+I. Recibido el Plan Estatal de Desarrollo en el Congreso del Estado, se hará del conocimiento del Pleno, y se turnará a la Comisión Especial que para el efecto se designe en la misma sesión, la que deberá presentar el dictamen respectivo de manera oportuna para que la aprobación del Congreso del Estado se efectúe dentro del plazo previsto en esta Ley. El Presidente tomará las medidas adecuadas para el estricto cumplimiento de esta disposición;
+
+II. La Comisión Especial para el análisis y emisión del dictamen para la aprobación del Plan Estatal de Desarrollo, estará integrada por quince Diputados que serán designados por insaculación; el primer insaculado será el Presidente y el último, será el Secretario;
+
+III. Designada la Comisión Especial para el análisis y emisión del dictamen, realizará los estudios que requiera y considere pertinentes, a fin de lograr un examen exhaustivo del Plan Estatal de Desarrollo, el cual deberá sujetarse a los lineamientos establecidos en la Ley de Planeación para el Estado de Guerrero.
+
+Para el logro de este objetivo, la Comisión Especial podrá solicitar, a través de su Presidente, la información que requiera a las dependencias de la administración pública estatal y, en su caso, invitar a reuniones de trabajo a los servidores públicos para que expongan los planes y programas de sus respectivas competencias que coadyuve a enriquecer el criterio de los Diputados y conduzca al consenso y fortalecimiento de las decisiones de modificación que, en su caso, se produzcan al Plan Estatal de Desarrollo.
+
+IV. Emitido y aprobado el dictamen por los integrantes de la Comisión Especial, se remitirá al Pleno del Congreso del Estado para su discusión y aprobación, en su caso. Si el Congreso del Estado estuviera en periodo de receso, la Comisión Permanente convocará a un periodo de Sesiones extraordinarias con el propósito de discutir y aprobar, en su caso, el dictamen emitido por la Comisión Especial.
+
+Una vez aprobado el Plan Estatal de Desarrollo, se remitirá al Gobernador del Estado para que se le otorgue vigencia, publique y ejecute.
+
+###### ARTÍCULO 333.
+
+Para los efectos de la supervisión, revisión, adecuación y modificación del Plan Estatal de Desarrollo y de los Programas a mediano plazo, dispuesto en la Ley de Planeación para el Estado de Guerrero, se realizará el procedimiento señalado en el Artículo anterior.
+
+El seguimiento de los objetivos y metas trazados en el Plan Estatal de Desarrollo será continuo a través de las Comisiones competentes, conforme a lo dispuesto por el Artículo 61, fracción XXX, constitucional.
+
+### CAPÍTULO DÉCIMO PRIMERO. DE LA EXPEDICIÓN DEL BANDO SOLEMNE DE GOBERNADOR ELECTO
+
+#### SECCIÓN III. DE LA SUSPENSIÓN O REVOCACIÓN DEL CARGO O MANDATO DE MIEMBROS DE LOS AYUNTAMIENTOS
+
+###### ARTÍCULO 334.
+
+Para la substanciación de las denuncias de juicio político o para la declaración de procedencia que se presenten en contra de los servidores públicos, a que se refieren el Artículo 195 numeral 1 de la Constitución Política del Estado, se observarán estrictamente las reglas que se establecen en la Ley de Responsabilidades de los Servidores Públicos, así como las disposiciones contenidas en el presente Capítulo.
+
+###### ARTÍCULO 335.
+
+Las Comisiones competentes, para el cumplimiento de sus atribuciones podrán auxiliarse de los diversos órganos del Congreso del Estado y podrán habilitar notificadores que lleven a cabo toda clase de notificaciones y emplazamientos. El Secretario de la Comisión, rubricará las hojas que integren el expediente y las foliará adecuadamente.
+
+###### ARTÍCULO 336.
+
+Para que sesionen válidamente las Comisiones de Examen Previo e Instructora, es necesaria la asistencia de la mayoría de sus integrantes.
+
+Dichas Comisiones adoptarán sus resoluciones por mayoría de votos de sus integrantes, y en caso de empate, se aplicarán las normas previstas en esta Ley.
+
+Las reuniones de las Comisiones de Examen Previo e Instructora, serán secretas, salvo disposición en contrario.
+
+Para las reuniones, discusiones y votaciones en las mencionadas Comisiones se aplicarán, en lo conducente, las normas establecidas en esta Ley para las Comisiones y Comités.
+
+El Presidente de la Comisión, en unión del Secretario, autorizará las resoluciones de mero trámite dentro de los expedientes que ante las Comisiones se tramiten.
+
+El Secretario de la Comisión dará fe de lo actuado y tendrá facultades para expedir certificaciones.
+
+###### ARTÍCULO 337.
+
+El Congreso del Estado, conforme lo establece el Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, el Artículo 61, fracción XVI, de la Constitución Política del Estado, y la Ley Orgánica del Municipio Libre, por acuerdo de las dos terceras partes del total de sus integrantes, podrá declarar la suspensión o la desaparición de Ayuntamientos; suspender o revocar el mandato de uno o más de sus integrantes. Estas medidas se podrán aplicar a los concejos Municipales, en su caso.
+
+Tratándose de las denuncias de suspensión de Ayuntamientos o de la suspensión o revocación de cargo a Ediles Municipales, se seguirá el mismo procedimiento, contabilizando los plazos en días naturales.
+
+###### ARTÍCULO 338.
+
+Para efectos de esta Ley:
+
+I. La desaparición de un Ayuntamiento, consiste en la declaración de inexistencia de la autoridad municipal;
+
+II. La suspensión, es la sanción que consiste en la privación temporal del cargo a uno o más de los miembros del Ayuntamiento, que no podrá tener una duración mayor de 180 días; y,
+
+III. La revocación, consiste en la anulación del mandato de uno o más de los miembros del Ayuntamiento; implica a su vez, su destitución.
+
+###### ARTÍCULO 339.
+
+Los procedimientos para la suspensión o desaparición de un Ayuntamiento; la suspensión o revocación del cargo o mandato de uno o más de sus miembros, se seguirán conforme a las causales y trámite que señala la Ley Orgánica del Municipio Libre del Estado e invariablemente deberán dar lugar a la presentación de las pruebas idóneas; y los implicados, tendrán derecho a ofrecer y desahogar pruebas y alegar lo que a su derecho convenga.
+
+###### ARTÍCULO 340.
+
+Cuando se suspenda a un ayuntamiento se llamará a los suplentes o se procederá conforme a la Ley.
+
+En la declaración de desaparición de un ayuntamiento, si no procediera la celebración de nuevas elecciones, el Congreso del Estado deberá designar a un Concejo Municipal, que funcionará hasta concluir el período respectivo.
+
+###### ARTÍCULO 341.
+
+Decretada la suspensión o revocación del mandato de uno o más de los miembros del Ayuntamiento, éste llamará al suplente o suplentes para que rindan la protesta y ocupen el cargo correspondiente, dentro del plazo de cinco días hábiles siguientes a la notificación de la resolución del Congreso del Estado.
+
+### CAPÍTULO DÉCIMO SEGUNDO. DEL DICTAMEN, DISCUSIÓN Y VOTACIÓN DE LAS MINUTAS DE REFORMAS Y ADICIONES A LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
+
+###### ARTÍCULO 342.
+
+Conforme a la declaración de Gobernador Electo del Estado Libre y Soberano de Guerrero que hubiere hecho la autoridad competente, corresponde al Presidente de la Mesa Directiva disponer la elaboración inmediata del Bando Solemne; darlo a conocer al Pleno en la sesión más próxima; ordenar su publicación en el Periódico Oficial del Gobierno del Estado y tomar las medidas necesarias para que se difunda en las principales oficinas públicas del Estado y de los Municipios, así como a los tres Poderes de la Unión y del resto de las Entidades Federativas.
+
+### CAPÍTULO DÉCIMO TERCERO. DE LAS CONTROVERSIAS CONSTITUCIONALES Y DE LAS ACCIONES DE INCONSTITUCIONALIDAD
+
+###### ARTÍCULO 343.
+
+Recibida la minuta enviada por alguna de las Cámaras del Honorable Congreso de la Unión, el Presidente de la Mesa Directiva la hará del conocimiento del Pleno o de la Comisión Permanente y se seguirá el trámite que esta Ley Orgánica prevé para las Iniciativas de Ley o Decreto, pero el dictamen que se emita deberá concluir con la propuesta para aprobar o no el contenido de la minuta.
+
+Una vez que ha sido votado el dictamen se hará del conocimiento de la Cámara correspondiente o de la Comisión Permanente del Congreso de la Unión, según sea el caso, dentro de las cuarenta y ocho horas siguientes.
+
+### CAPÍTULO PRIMERO. DEL CEREMONIAL Y EL PROTOCOLO
+
+###### ARTÍCULO 344.
+
+Para la sustanciación de las controversias constitucionales previstas en el Artículo 105 fracción I, de la Constitución General, se seguirá el siguiente procedimiento:
+
+I. Los Diputados que pretendan la interposición de una demanda de controversia constitucional deberán presentar solicitud por escrito, acompañada del Proyecto de demanda ante la Junta de Coordinación;
+
+II. La Junta de Coordinación deberá acordar y solicitar a la Mesa Directiva, que el área jurídica del Congreso del Estado emita en un plazo no mayor de cinco días, una opinión técnica sobre los argumentos para la procedencia o improcedencia de la misma. Este plazo no se aplicará cuando esté por vencerse el término constitucional para su formulación;
+
+III. La Junta de Coordinación dará a conocer el Proyecto de demanda anexando la opinión técnica, la cual deberá entregarse a todas (sic) los Diputados, en versión electrónica o impresa para los Diputados que lo soliciten al menos veinticuatro horas antes de su discusión y votación en el Pleno; y,
+
+IV. Si el Pleno aprueba su presentación, el Presidente deberá dar curso en tiempo y forma ante la Suprema Corte de Justicia de la Nación, en ningún caso tardará más de tres días después de haber sido votada.
+
+###### ARTÍCULO 345.
+
+Sin perjuicio de lo dispuesto en el Artículo anterior el Presidente de la Mesa Directiva podrá por sí mismo, en uso de la representación originaria que ostenta del Congreso, presentar demanda de controversia constitucional cuando lo estime necesario para defender los intereses de éste, aún en los periodos de receso.
+
+###### ARTÍCULO 346.
+
+Para la sustanciación de las acciones de inconstitucionalidad previstas en el Artículo 105 fracción II, de la Constitución General, se seguirá el procedimiento previsto en la Ley de la materia.
+
+## TÍTULO OCTAVO. OTRAS ACTIVIDADES DEL CONGRESO DEL ESTADO
+
+### CAPÍTULO SEGUNDO. DE LA TRANSPARENCIA Y EL ACCESO A LA INFORMACIÓN PÚBLICA
+
+###### ARTÍCULO 347.
+
+El ceremonial en el Congreso del Estado incluirá el conjunto de reglas o formalidades a seguir en sesiones solemnes y actos relevantes.
+
+El protocolo consiste en la forma operativa de aplicar el ceremonial en lo referente al trato que debe otorgarse a las autoridades gubernamentales y personalidades de la entidad, del país o del extranjero, que asistan a sesiones solemnes o actos del Congreso del Estado.
+
+###### ARTÍCULO 348.
+
+El ceremonial y el protocolo en las sesiones solemnes y actos del Congreso del Estado se desarrollarán conforme a esta Ley, su Reglamento y los manuales aplicables.
+
+Las acciones de ceremonial y el protocolo estarán a cargo de la Conferencia, con el apoyo de las áreas respectivas del Congreso.
+
+En los casos de sesiones y ceremonias en las que se reciban invitados o visitantes, la Conferencia conformará las Comisiones de cortesía que se requieran y establecerá su función.
+
+###### ARTÍCULO 349.
+
+Cuando asista a alguna sesión solemne el Presidente de la República o su representante, ocupará el lugar situado a la derecha del Presidente de la Mesa Directiva; el Gobernador del Estado, el de la derecha de aquél y el Presidente del Tribunal Superior de Justicia al lado izquierdo del Presidente de la Mesa Directiva.
+
+En caso de que no asista el Presidente de la República ni su representante, el Gobernador se ubicará a la derecha del Presidente de la Mesa.
+
+Cuando el Presidente del Tribunal Superior de Justicia del Estado asista a una sesión del Congreso, tomará asiento al lado izquierdo del Presidente de la Mesa.
+
+Si se tratara de la sesión solemne en la que el Gobernador del Estado deba rendir la protesta constitucional para asumir el cargo, se situará a quien hubiere desempeñado la titularidad del Poder Ejecutivo hasta antes de la fecha de la protesta, en el lugar que le corresponda al Gobernador, pero una vez rendida la protesta por el titular del Poder Ejecutivo, aquél deberá ceder el lugar que ocupó y se ubicará en el lugar que al efecto se le haya asignado.
+
+En el momento de rendir protesta el Gobernador del Estado, los Diputados, incluyendo al Presidente de la Mesa Directiva y demás asistentes a la sesión, deberán estar de pie.
+
+###### ARTÍCULO 350.
+
+Se designará una Comisión de Cortesía, para introducir al recinto y acompañar posteriormente a su lugar o fuera del mismo, a las personas en los supuestos que a continuación se mencionan:
+
+I. Al Gobernador del Estado cuando acuda a la sede del Congreso;
+
+II. Cuando se determine recibir con honores a altos funcionarios de la Federación o del Estado, a representantes diplomáticos y a altos funcionarios de otras Entidades Federativas; y,
+
+III. A quienes así lo determine el Presidente de la Mesa Directiva.
+
+###### ARTÍCULO 351.
+
+Tratándose de sesiones solemnes, los Secretarios de la Mesa Directiva deberán dejar vacantes los lugares que les correspondan y ocuparán los que al efecto se les habiliten para cumplir con sus funciones.
+
+###### ARTÍCULO 352.
+
+En las sesiones a las que acudan gobernadores de otras Entidades, altos servidores públicos de la Federación, del Estado o de otras Entidades Federativas, de los Municipios, miembros del cuerpo diplomático y consular, o quien así lo determine el Presidente de la Mesa Directiva, se destinarán lugares preferentes para dichas personas.
+
+Cuando se otorgue por el Presidente de la Mesa Directiva el uso de la palabra a quien no tenga calidad de Diputado, se le asignará un lugar específico.
+
+###### ARTÍCULO 353.
+
+Las visitas de cortesía al Congreso del Estado que no impliquen asistencia a una sesión, por parte de representantes diplomáticos u otras personalidades, las atenderá el Presidente o quien designe para tal propósito entre los demás integrantes de la Mesa Directiva.
+
+### CAPÍTULO TERCERO. DEL CABILDEO
+
+###### ARTÍCULO 354.
+
+Como sujeto obligado en materia de transparencia y acceso a la información pública gubernamental, el Congreso del Estado garantizará el acceso de toda persona a la información de que dispone, en los términos de la Constitución, la Ley de la materia, esta Ley y su Reglamento.
+
+Habrá un Comité de Transparencia y Acceso a la información del Congreso del Estado como órgano garante, especializado e imparcial, dotado de autonomía operativa y de gestión, responsable de coordinar y supervisar el adecuado cumplimiento de la Ley de la materia por parte de los Órganos y Unidades administrativas del Congreso.
+
+Corresponderá también al Comité realizar las funciones que esta Ley y su Reglamento le asignen, incluidas la de determinar la información reservada o confidencial, así como la de desahogar los recursos de revisión que se presenten.
+
+El Comité será nombrado por el Pleno.
+
+###### ARTÍCULO 355.
+
+Estará a disposición del público, a través de medios electrónicos remotos o locales, la información del Congreso del Estado que ordene la Ley de la materia, así como la considerada como socialmente útil y relevante por el Comité.
+
+Conforme a las disponibilidades técnicas y presupuestales, los órganos directivos, las Comisiones, los Comités, los Grupos y Representaciones Parlamentarias y las Unidades Parlamentarias, administrativas y técnicas, contarán con micrositios dentro de la página electrónica en Internet del Congreso, con el fin de difundir la información referida en el párrafo anterior. Será responsabilidad de cada órgano, grupo, representación o unidad mantener actualizada dicha información, en los términos establecidos por la Ley de la materia.
+
+Los documentos fílmicos, de audio y escritos de las sesiones secretas, serán mantenidos bajo reserva en custodia de la Secretaría Parlamentaria, conforme a los procedimientos establecidos en la Ley de la materia.
+
+La información reservada o confidencial se mantendrá bajo la custodia y la responsabilidad de los Órganos y de las Unidades administrativas del Congreso del Estado que en cada caso corresponda.
+
+###### ARTÍCULO 356.
+
+Las solicitudes y procedimientos para la obtención de la información del Congreso del Estado se efectuarán por conducto de la Unidad de Transparencia.
+
+La información del Congreso del Estado sólo será puesta a disposición o proporcionada por los Órganos y personal responsables o autorizados para tales efectos.
+
+El personal del Congreso del Estado estará obligado a dar el uso que corresponda a los recursos e información de que disponen o tienen acceso. El desacato a esta disposición dará lugar a la aplicación de las sanciones señaladas en las Leyes.
+
+### CAPÍTULO PRIMERO. DE LA COMUNICACIÓN
+
+###### ARTÍCULO 357.
+
+Se entiende por cabildeo la actividad que realizan personas dedicadas a promover intereses legítimos de particulares, ante los Órganos directivos y Comisiones del Congreso del Estado o ante Diputados en lo individual o en conjunto, con el propósito de influir en decisiones que les corresponden en ejercicio de sus facultades.
+
+Las Comisiones y los Diputados informarán por escrito a la Mesa Directiva, para su conocimiento, de las actividades realizadas ante ellos por cabilderos en la promoción de sus intereses.
+
+###### ARTÍCULO 358.
+
+Los Diputados o el personal de apoyo no podrán aceptar dádivas o pagos en efectivo o en especie por parte de persona alguna que realice cabildeo o participe de cualquier otro modo para influir ilícitamente en las decisiones del Congreso del Estado.
+
+Toda infracción a esta norma será castigada en términos de las Leyes de responsabilidades o la legislación penal, según corresponda.
+
+## TÍTULO NOVENO. DE LA DIFUSIÓN E INFORMACIÓN DE LAS ACTIVIDADES DEL CONGRESO
+
+### CAPÍTULO SEGUNDO. DE LA GACETA PARLAMENTARIA
+
+###### ARTÍCULO 359.
+
+La Dirección de Comunicación será la responsable de difundir la información oficial sobre las actividades desarrolladas por el Pleno, los Órganos directivos, las Comisiones y los Comités del Congreso, así como por los Diputados, en los términos de esta Ley Orgánica, su Reglamento y demás disposiciones aplicables.
+
+La Dirección de comunicación atenderá en igualdad de condiciones a los representantes de los medios de información y les brindarán las facilidades necesarias para el desempeño de sus tareas.
+
+###### ARTÍCULO 360.
+
+Para facilitar el desempeño de sus actividades, los representantes de los medios de información asistirán a las Sesiones debidamente acreditados ante la Dirección de Comunicación y ocuparán los lugares que les sean asignados.
+
+Durante las Sesiones del Pleno, los Diputados podrán atender las solicitudes de los representantes de los medios de información en las salas aledañas al salón de Sesiones.
+
+###### ARTÍCULO 361.
+
+Las Sesiones del Pleno, las reuniones de las Comisiones y de los Comités, así como otros eventos relevantes del Congreso, que se transmitan, se realizarán conforme a las normas y procedimientos que regulen su funcionamiento.
+
+### CAPÍTULO TERCERO. DEL DIARIO DE LOS DEBATES
+
+### CAPÍTULO CUARTO. DEL TABLERO DE AVISOS Y NOTIFICACIONES
+
+###### ARTÍCULO 362.
+
+La Gaceta Parlamentaria es el órgano informativo oficial del Congreso del Estado y contará con un Consejo Directivo, formado por los miembros de la Conferencia y por los Secretarios Parlamentarios y Financiero; el Presidente de la Junta de Coordinación lo será del Consejo.
+
+La Gaceta estará a cargo de la Secretaría Parlamentaria. Los procedimientos previstos para su elaboración y difusión se desarrollarán en esta Ley, su Reglamento y en el Estatuto respectivo.
+
+La Gaceta se publicará en la página de Internet del Congreso, e incluirá al menos lo siguiente:
+
+I. Los citatorios a las diversas actividades del Congreso;
+
+II. El Orden del Día;
+
+III. Las comunicaciones oficiales dirigidas al Congreso;
+
+IV. Las solicitudes de licencia de los Diputados;
+
+V. Las comunicaciones de particulares dirigidas al Congreso;
+
+VI. Las Iniciativas de Ley o Decreto que presenten ante el Congreso del Estado o la Comisión Permanente, el Gobernador del Estado, los Diputados, el Tribunal Superior de Justicia, los Ayuntamientos, los Órganos Autónomos y los ciudadanos del estado mediante iniciativa popular, según corresponda;
+
+VII. Las proposiciones de acuerdo o de resoluciones económicas sobre el régimen interior del Congreso del Estado que presenten sus Órganos de gobierno;
+
+VIII. Los cambios aprobados en la integración de las Comisiones y los Comités;
+
+IX. Las propuestas de acuerdos parlamentarios;
+
+X. Las observaciones sobre Proyectos de Ley o Decreto enviadas por el Titular del Poder Ejecutivo Estatal;
+
+XI. Las actas, informes, resoluciones, acuerdos, declaraciones, pronunciamientos y notificaciones del Pleno, la Mesa Directiva, la Junta de Coordinación, las Comisiones, los Comités y los Órganos del Congreso;
+
+XII. Los dictámenes de las Comisiones y los votos particulares;
+
+XIII. Los informes de las Representaciones y delegaciones del Congreso del Estado que asistan a reuniones;
+
+XIV. Las convocatorias y los Proyectos de Orden del Día de las reuniones de Comisiones y de Comités; y,
+
+XV. Los demás documentos oficiales que dispongan la Mesa Directiva, la Junta de Coordinación y el Reglamento de la presente Ley Orgánica.
+
+La Gaceta se publicará por lo menos dos veces a la semana en periodo ordinario y una vez a la semana en periodo de receso.
+
+###### ARTÍCULO 363.
+
+La Gaceta se publicará a partir de las ocho horas. La publicación de la Gaceta sólo tiene propósitos informativos.
+
+###### ARTÍCULO 364.
+
+Para la publicación de documentos en la Gaceta se estará a lo siguiente:
+
+I. Todos los documentos se entregarán a la Secretaría Parlamentaria debidamente firmados y en formato digital compatible con el sistema de dicha Secretaría;
+
+II. Las Iniciativas de Ley o Decreto se enviarán con la debida anticipación a la sesión en que se vayan a presentar; y,
+
+III. Los informes o documentos que remitan los Diputados a título personal se publicarán íntegros.
+
+### CAPÍTULO QUINTO. DE LA BIBLIOTECA SIERVO DE LA NACIÓN
+
+###### ARTÍCULO 365.
+
+El Congreso del Estado tendrá un órgano oficial denominado "Diario de los Debates", donde constará la siguiente información de las Sesiones del Pleno:
+
+I. Lugar, fecha y hora del inicio y término de cada sesión;
+
+II. Carácter de la sesión;
+
+III. Declaratoria de quórum;
+
+IV. Orden del Día;
+
+V. Nombre del Presidente y de quienes presidan la sesión durante su desarrollo;
+
+VI. Copia fiel de las actas aprobadas;
+
+VII. Transcripción de los debates en el orden en que se realicen;
+
+VIII. Intervenciones de los Diputados;
+
+IX. Textos leídos;
+
+X. Textos no leídos cuya inserción ordenen el Presidente o el Pleno;
+
+XI. Documentos a los que se dé turno;
+
+XII. Propuestas y resoluciones aprobadas;
+
+XIII. Dictámenes y votos particulares; y,
+
+XIV. Resultado de las votaciones.
+
+El Diario de los Debates se publicará dentro de los diez días hábiles posteriores al término de la sesión en la página electrónica del Congreso. Al concluir cada año de ejercicio constitucional el Diario de los Debates se publicará en medio impreso.
+
+###### ARTÍCULO 366.
+
+El Congreso del Estado contará con Tableros de Avisos y Notificaciones en los que se harán del conocimiento:
+
+I. Las convocatorias y avisos emitidos por el Pleno, por las Comisiones y Comités, así como por los Órganos técnicos y administrativos del Congreso del Estado;
+
+II. Las notificaciones relacionadas con los procedimientos de Juicio Político, Declaratorias de Procedencia, Juicios de suspensión o revocación del cargo o mandato de miembros de los ayuntamientos;
+
+III. Las notificaciones a particulares derivadas del ejercicio del derecho de petición; y,
+
+IV. Las demás comunicaciones que ordenen el Pleno, las Comisiones y Comités, así como los Órganos técnicos y administrativos del Congreso.
+
+En la publicación de las notificaciones se cumplirán cabalmente las disposiciones legales y reglamentarias en materia de protección de datos personales. En su caso podrá publicarse un extracto de los acuerdos emitidos.
+
+Las notificaciones a través del Tablero de Avisos y Notificaciones surtirán plenamente sus efectos a partir del día siguiente al de su publicación o difusión.
+
+La administración de los Tableros de Avisos y Notificaciones corresponderá a la Secretaría Parlamentaria, quien deberá publicarlos en la página de Internet del Congreso del Estado a partir de las 8:00 horas, en días hábiles, salvo disposición en contrario.
+
+###### ARTÍCULO 367.
+
+El Congreso del Estado conformará, mantendrá y acrecentará el acervo bibliográfico y de otros contenidos científico, cultural o informativo, de la Biblioteca Siervo de la Nación, para contribuir al cumplimiento de las atribuciones del propio Congreso del Estado, sus Comisiones y de los legisladores. Estos acervos tendrán carácter público.
+
+T R A N S I T O R I O S
+
+PRIMERO. La presente Ley entrará en vigor a partir del día trece de septiembre de 2016.
+
+SEGUNDO. Se abroga la Ley Orgánica del Poder Legislativo del Estado de Guerrero, número 286, con las excepciones que adelante se indican.
+
+TERCERO. Conforme a lo establecido en el Artículo Octavo del Decreto número 453 por el que se reforman y adicionan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado el 29 de abril de 2014, la Sexagésima Primera Legislatura, llevará a cabo los periodos de Sesiones en los términos siguientes:
+
+El Congreso del Estado se reunirái (sic) en tres periodos de Sesiones ordinarias por año de ejercicio.
+
+El primero se iniciará el 13 de septiembre y se clausurará el 15 de enero;
+
+El segundo se iniciará el 1o de marzo y se clausurará el 15 de mayo, y
+
+El tercero el 15 de junio y se clausurará el 30 de julio.
+
+CUARTO. Los cargos y nombramientos conferidos a los servidores públicos designados con anterioridad a la entrada en vigor de la presente Ley, seguirán en su encargo con la nueva denominación.
+
+QUINTO. Dentro de los 90 días posteriores a partir de la entrada en vigor de la presente Ley, se deberán aprobar el Reglamento de la Ley Orgánica del Congreso del Estado, el Estatuto y los Manuales de Organización y Servicios del Congreso del Estado.
+
+SEXTO. Hasta en tanto se expiden las disposiciones reglamentarias respectivas se aplicaran lo (sic) correspondientes a las facultades y atribuciones de las Comisiones y Comités Legislativos, las establecidas en la Ley Orgánica del Poder Legislativo del Estado de Guerrero, número 286 y los decretos de creación respectivos.
+
+La integración de Comisiones Ordinarias y Especiales, así como la de los Comités Ordinarios, en funciones, continuará con la misma conformación hasta la conclusión de la LXI Legislatura.
+
+La Junta de Coordinación Política, deberá proponer al Pleno del Congreso la propuesta para integrar las Comisiones De Atención a los Adultos Mayores; De Atención a las Personas con Capacidades Diferentes; Del Agua, Infraestructura y Recursos Hidráulicos, y de Vivienda; dentro de los quince días siguientes a la entrada en vigor de la presente Ley.
+
+SÉPTIMO. Los archivos, bienes muebles y recursos humanos, materiales y financieros correspondientes a los Órganos de Gobierno, Administrativos y Técnicos del Congreso del Estado pasarán en los términos de la presente Ley Orgánica a los Órganos siguientes:
+
+De la Comisión de Gobierno a la Junta de Coordinación Política;
+
+De Fracciones y Representaciones Parlamentarias a los Grupos y Representaciones Parlamentarias;
+
+De la Oficialía Mayor a la Secretaría Parlamentaria;
+
+De la Dirección de Administración a la Secretaría Financiera;
+
+OCTAVO. Las referencias a la Comisión de Gobierno en otras Leyes y disposiciones, se entenderán aplicables a la Junta de Coordinación Política.
+
+Las referencias que otros ordenamientos hagan de la Oficialía Mayor y de la Dirección de Administración del Congreso del Estado, así como de sus respectivos titulares, se entenderán aplicables en lo conducente a la Secretaría Parlamentaria y Financiera, respectivamente, a quien la encabece.
+
+NOVENO. Los derechos que la Ley de Trabajo de los Servidores Públicos del Estado, y la Ley Reglamentaria del apartado B del Artículo 123 Constitucional, otorga a los trabajadores del Congreso del Estado, no se verán afectados por el establecimiento de la nueva estructura de organización técnica y adminitrativa (sic) del Congreso.
+
+DÉCIMO. Los asuntos y procedimientos cuyo trámite se haya iniciado previo a la vigencia de la presente Ley, serán sustanciados y resueltos conforme a lo establecido en la Ley Orgánica del Poder Legislativo del Estado de Guerrero, número 286. Los procedimientos que se inicien a la entrada en vigor de la presente Ley, se regirán por ésta.
+
+DÉCIMO PRIMERO. Lo relativo a las Tecnologías de Información y Comunicación que esta Ley Orgánica está implementando, como son la Gaceta Parlamentaria, el Tablero Electrónico de Registro de Asistencias y Votaciones y el Tablero de Avisos y Notificaciones, entrarán en funcionamiento una vez se hayan realizado los estudios y proyectos respectivos y se autorice el presupuesto correspondiente.
+
+DÉCIMO SEGUNDO. Hasta en tanto entre en funcionamiento y operación la Gaceta Parlamentaria, el Tablero Electrónico de Registro de Asistencias y Votaciones y el Tablero de Avisos y Notificaciones, se seguirán atendiendo en lo relativo a lo establecido en la Ley Orgánica del Poder Legislativo del Estado de Guerrero, número 286.
+
+DÉCIMO TERCERO. Publíquese la presente Ley, en el Periódico Oficial del Gobierno del Estado y en el portal electrónico del Congreso, para conocimiento general.
+
+Dada en el Salón de Sesiones del Honorable Poder Legislativo, a los doce días del mes de julio del año dos mil dieciséis.
+
+DIPUTADO PRESIDENTE.
+
+CARLOS REYES TORRES.
+
+Rúbrica.
+
+DIPUTADA SECRETARIA.
+
+MA LUISA VARGAS MEJÍA.
+
+Rúbrica.
+
+DIPUTADA SECRETARIA.
+
+MAGDALENA CAMACHO DÍAZ.
+
+Rúbrica.
