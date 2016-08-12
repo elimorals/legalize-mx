@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-las-mujeres-del-96384"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-18"
-last_updated: "2013-10-18"
+last_updated: "2016-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LAS MUJERES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2016.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 18 de octubre de 2013.
 
@@ -51,25 +51,33 @@ II. Secretaría Técnica.
 
 III. Jefatura de la Oficina del Despacho.
 
-IV. Dirección de Asuntos Jurídicos.
+IV. (DEROGADA, P.O. 12 DE AGOSTO DE 2016)
 
-V. Dirección de Planeación.
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
 
-VI. Dirección del Banco de las Mujeres.
+V. Coordinación de Calidad y Capacitación.
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+VI. Dirección del Programa de la Financiera para las Mujeres.
 
 VII. Coordinación Administrativa.
 
-VIII. Coordinación Jurídica.
+VIII. (DEROGADA, P.O. 12 DE AGOSTO DE 2016)
 
-IX. Coordinación de Programas Especiales.
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+IX. Coordinación de Programas Federales.
 
 X. Coordinación de Vinculación.
 
-XI. Unidad de Comunicación Social.
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XI. Coordinación de Comunicación Social.
 
 XII. Unidad de Transparencia e Informática.
 
-XIII. Unidad de Relaciones Públicas.
+XIII. (DEROGADA, P.O. 12 DE AGOSTO DE 2016)
 
 Los manuales de organización precisarán la estructura orgánica y las funciones específicas de las áreas que conforman las unidades administrativas de la dependencia a que se refiere este artículo.
 
@@ -315,77 +323,43 @@ XVII. Las demás previstas en las disposiciones aplicables, así como aquellas q
 
 ###### ARTÍCULO 12.
 
-Corresponden a quien ocupe el cargo de Titular de la Dirección de Asuntos Jurídicos, las siguientes facultades y obligaciones:
+(DEROGADO, P.O. 12 DE AGOSTO DE 2016)
 
-I. Intervenir en las controversias jurídicas cuya atención y seguimiento le sean encomendados por el o la Titular de la Secretaría;
-
-II. Promover, por acuerdo de quien ocupe el cargo de Titular de la Secretaría, ante los tribunales que correspondan, los asuntos legales de la Secretaría;
-
-III. Tramitar los amparos interpuestos en contra de actos de quien ocupe el cargo de Titular de la Secretaría y demás servidores públicos de la Secretaría;
-
-IV. Formular, en nombre y representación de la Secretaría, las denuncias y querellas que legalmente procedan;
-
-V. Elaborar, revisar y registrar los convenios, contratos y acuerdos que celebre, en ejercicio de sus funciones el o la Titular de la Secretaría;
-
-VI. Remitir a la Secretaría de Gobierno para su publicación, todos aquellos documentos que por disposición legal deban darse a conocer a través del Periódico Oficial del Gobierno del Estado y que sean materia de esta Secretaría;
-
-VII. Recibir las quejas y denuncias que se presenten, por violación a la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, a fin de recabar información, documentos y demás pruebas para instruir el procedimiento de responsabilidad respectivo y en su caso sancionar al infractor en la forma y términos señalados en la citada ley;
-
-VIII. Coordinar, dirigir, supervisar, evaluar y autorizar las actividades del personal a su cargo, así como proponer mejoras regulatorias a los procedimientos que desarrollan en el ejercicio de sus funciones;
-
-IX. Revisar toda la documentación e información que se genera en la dirección, amparándola con la rúbrica correspondiente;
-
-X. Proporcionar a la Unidad de Transparencia e Informática la información necesaria para mantener actualizado el apartado de marco legal que aparece en el portal de la Secretaría; y
-
-XI. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquéllas que le confiera el o la Titular de la Secretaría.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 13.
 
-Corresponden a quien ocupe el cargo de Titular de la Dirección de Planeación, las siguientes facultades y obligaciones:
+Corresponde a quien ocupe el cargo de Titular de la Coordinación de Calidad y Capacitación, las siguientes facultades y obligaciones:
 
-I. Planear, programar, presupuestar, supervisar, ejecutar, seguir y evaluar los planes, programas y proyectos de la Secretaría;
+I. Diseñar y difundir un catálogo de servicios de la Secretaria.
 
-II. Elaborar diagnósticos estatales, regionales y municipales de la situación de las mujeres de la entidad;
+II. Elaborar y aplicar la encuesta de detección de necesidades de capacitación para personal de la Secretaría.
 
-III. Colaborar en la elaboración del proyecto de (sic) anual del Programa Estatal de las Mujeres;
+III. Elaborar el programa de capacitación interna.
 
-IV. Establecer y desarrollar los lineamientos necesarios para incorporar la perspectiva de género en el sistema de planeación estatal y sectorial;
+IV. Generar vínculos externos para proporcionar capacitación acorde a solicitud expresa.
 
-V. Promover la participación organizada de la población femenina en los procesos de planeación y toma de decisiones de los recursos destinados al desarrollo social en el Estado;
+V. Generar y supervisar el contenido de las capacitaciones que se realizan por parte del personal de la Secretaría.
 
-VI. Coordinar e instrumentar programas y acciones para promover el desarrollo de la población femenina, en los aspectos siguientes: desarrollo económico, calidad de vida, educación, ciencia y tecnología, desarrollo social y combate a la pobreza, seguridad pública y justicia, democracia, gobierno y administración pública, de conformidad con los lineamientos establecidos en el Programa Estatal de las Mujeres;
+VI. Establecer un programa para la gestión de calidad de la Secretaría.
 
-VII. Elaborar, desarrollar y proponer a los sectores público, privado y social, estrategias de atención de acuerdo a las características, necesidades y prioridades de las mujeres que habitan en los medios urbano, urbano marginal y rural;
+VII. Implementar manuales de gestión de calidad, procedimientos, instrucciones de trabajo y diagramas de flujo por área.
 
-VIII. Promover el desarrollo de líneas de investigación sobre la problemática de la población femenina, a través de la vinculación con instituciones educativas y de investigación;
+VIII. Atender las solicitudes que emita la Secretaría de Fiscalización y Rendición de Cuentas, con relación a la red estatal de capacitadores.
 
-IX. Promover un ambiente para investigadoras e investigadores interesados en realizar proyectos multidisciplinarios y en colaborar en líneas de investigación afines a la temática de la Secretaría y en las que se emplee la perspectiva de género;
+IX. Proporcionar apoyo logístico a las capacitaciones de la (sic) Programa Financiera para las Mujeres.
 
-X. Participar en diferentes foros y espacios de análisis y discusión de avances en la investigación sobre la población femenina, masculinidad (sic) y perspectiva de género;
+X. Participar en diferentes foros y espacios de análisis y discusión de avances en la investigación sobre la población femenina, masculinidad y perspectiva de género, previa solicitud de su jefa o jefe inmediato.
 
-XI. Retroalimentar, a través de los resultados y productos de las investigaciones, las acciones de diagnóstico, planeación, publicación, difusión y acopio de documentación a cargo de la Secretaría;
+XI. Retroalimentar, a través de los resultados y productos de las investigaciones, las acciones de diagnóstico, planeación, publicación, difusión y acopio de documentación a cargo de la Secretaría.
 
-XII. Apoyar a quien ocupe el cargo de Titular de la Secretaría, en las acciones de concertación y colaboración que realice la misma, con organismos del sector público, privado, social y académico, así como con los diferentes niveles de gobierno;
+XII. Las demás que se establezcan en otras disposiciones legales aplicables que le delegue su jefa o jefe inmediato.
 
-XIII. Dar seguimiento, en el ámbito de sus atribuciones, a los acuerdos y convenios establecidos con los organismos internacionales, nacionales, estatales, municipales y organizaciones de los diferentes sectores, así como los celebrados con las personas físicas;
-
-XIV. Integrar los informes anuales y periódicos que le solicite el o la Titular de la Secretaría;
-
-XV. Proporcionar el apoyo requerido por las diferentes unidades administrativas de la Secretaría;
-
-XVI. Programar e implementar sistemas de información de la Secretaría;
-
-XVII. Proporcionar a quien ocupe el cargo de Titular de la Secretaría la información requerida sobre los asuntos de la dirección bajo su responsabilidad;
-
-XVIII. Acordar de manera inmediata con él o la Titular de la Secretaría los asuntos que requieran de su atención;
-
-XIX. Representar a quien ocupe el cargo de Titular de la Secretaría, cuando éste así se lo encomiende e informar sobre los acuerdos celebrados en ejercicio de dicha representación; y
-
-XX. Las demás que se establezcan en otras disposiciones legales aplicables, así como las que le delegue el o la Titular de la Secretaría.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 14.
 
-Corresponden a quien ocupe el cargo de Titular de la Dirección del Banco de las Mujeres, las siguientes facultades y obligaciones:
+Corresponde a quien ocupe el cargo de Titular de la Dirección del Programa de la Financiera para las Mujeres, las siguientes facultades y obligaciones:
 
 I. Vigilar el cumplimiento de los objetivos del programa, de conformidad con las Reglas de Operación vigentes;
 
@@ -397,7 +371,9 @@ IV. Presentar al comité dictaminador los resúmenes ejecutivos de las solicitud
 
 V. Organizar en coordinación con la Secretaría del Trabajo los cursos de capacitación otorgados a las beneficiarias del programa;
 
-VI. Suministrar la información necesaria a la Unidad de Transparencia e Informática para mantener actualizada la página de la Secretaría en el rubro de Banco de las Mujeres;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+VI. Suministrar la información necesaria a la Unidad de Transparencia e Informática para mantener actualizada la página de la Secretaría en el rubro del Programa de la Financiera para las Mujeres.
 
 VII. Proporcionar la información de los padrones de beneficiarias tanto a quien ocupe el cargo de Titular de la Secretaría, como a la Unidad de Acceso a la Información de la Secretaría de Fiscalización y Rendición de Cuentas;
 
@@ -405,7 +381,9 @@ VIII. Llevar a cabo las acciones de cobranza y elaborar el reporte correspondien
 
 IX. Presentar reportes periódicos, con información del estado que guarda el programa, a quien ocupe el cargo de Titular de la Secretaría;
 
-X. Acudir a las Coordinaciones Regionales, así como a las instancias municipales de la mujer en el estado para proporcionar información y apoyo respecto al Banco de las Mujeres;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+X. Acudir a las Coordinaciones Regionales, así como a las instancias municipales de la mujer en el estado para proporcionar información y apoyo respecto del Programa de la Financiera para las Mujeres.
 
 XI. Asistir a audiencias públicas y brigadas con él o la Titular del Ejecutivo para que el programa tenga representatividad en dichos eventos;
 
@@ -487,7 +465,9 @@ XV. Desarrollar los procesos de licitaciones públicas, de invitaciones a cuando
 
 XVI. Revisar y dar seguimiento a los proyectos de contratos y convenios entre la Secretaría y los proveedores de bienes, contratistas y prestadores de servicios, en coordinación con las unidades administrativas encargadas de la elaboración de los proyectos de contratos y convenios;
 
-XVII. Verificar que los contratos, convenios y demás documentos que vinculen a la Secretaría con proveedores de bienes, contratistas y prestadores de servicios, sean cumplidos en las condiciones y términos pactados en cuanto a cantidad, calidad, precio y oportunidad, y que los mismos presenten y mantengan vigentes las garantías con las que deban contar para asegurar el cumplimiento de sus obligaciones; así como que estos cuenten con su registro de proveedores actualizado ante la autoridad competente, en coordinación con las unidades administrativas involucradas y la Dirección de Asuntos Jurídicos;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XVII. Revisar y dar seguimiento a los proyectos de contratos y convenios entre la Secretaría y diversos proveedores de bienes, contratistas y prestadores de servicios, en coordinación con las unidades administrativas de la Secretaría.
 
 XVIII. Coordinar y supervisar los servicios de aseo, intendencia, vigilancia, así como encargarse de la contratación, pagos, mantenimiento y en su caso reparación de los servicios de teléfono, electricidad, gas y agua que se requieran para el buen funcionamiento de las instalaciones de la Secretaría;
 
@@ -511,9 +491,13 @@ XXVII. Gestionar y contratar los servicios y suministros necesarios para la real
 
 XXVIII. Supervisar la contabilización de los programas federales, así como dar de alta a los proveedores, deudores diversos y gastos administrativos y revisar que se lleven a cabo obedeciendo a los lineamientos de contabilidad correspondientes;
 
-XXIX. Elaborar las solicitudes de liberación de recursos en el Sistema Integral de Inversión Pública de la Secretaría de Finanzas para la obtención del recurso financiero del programa del Banco de las Mujeres;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
 
-XXX. Operar los recursos financieros destinados a gastos de operación del programa Banco de las Mujeres;
+XXIX. Elaborar las Solicitudes de Liberación de Recursos en el Sistema Integral de Inversión Pública de la Secretaría de Finanzas para la obtención del recurso financiero del Programa de la Financiera para las Mujeres.
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+XXX. Operar los recursos financieros destinados a gastos de operación del Programa de la Financiera para las Mujeres.
 
 XXXI. Representar a quien ocupe el cargo de Titular de la Secretaría ante los consejos, comités y comisiones administrativas que se requiera y dar atención y seguimiento a los acuerdos y compromisos derivados de los mismos, cuando este así se lo encomiende; y
 
@@ -521,37 +505,23 @@ XXXII. Las demás que las disposiciones legales y reglamentarias le atribuyan, a
 
 ###### ARTÍCULO 18.
 
-Corresponde a quien ocupe el cargo de la Coordinación Jurídica, las siguientes facultades y obligaciones:
+(DEROGADO, P.O. 12 DE AGOSTO DE 2016)
 
-I. Proporcionar soporte jurídico y asesorar a quienes ocupen el cargo de Titulares de las unidades administrativas de la Secretaría;
-
-II. Emitir opiniones, dictámenes e informes de los asuntos de carácter jurídico que sometan a su consideración quiénes ocupen el cargo de Titulares de las direcciones, coordinaciones y las unidades administrativas de la Secretaría;
-
-III. Elaborar, revisar y registrar los convenios, contratos y acuerdos que celebren, en ejercicio de sus funciones quienes ocupen el cargo de Titulares de las direcciones, coordinaciones y unidades administrativas de la Secretaría;
-
-IV. Representar a quien ocupe el cargo de Titular de la Secretaría, cuando éste así lo determine;
-
-V. Coadyuvar con la Unidad de Transparencia e Informática, en el trámite de las solicitudes en materia de transparencia y acceso de la información pública;
-
-VI. Apoyar y asesorar a las unidades administrativas para que formulen las denuncias y querellas que legalmente procedan;
-
-VII. Participar en talleres, conferencias, mesas de trabajo y foros organizados por la Secretaría o cualquier otra dependencia o institución;
-
-VIII. Proporcionar las opiniones y sugerencias que le sean solicitadas por las dependencias y entidades de la administración pública, en el ámbito de su competencia;
-
-IX. Llevar a cabo la sistematización y actualización del acervo legislativo, reglamentario y de jurisprudencia que se vincule con las funciones de la Secretaría; y
-
-X. Las demás que se establezcan en otras disposiciones legales aplicables y las que le delegue el o la Titular de la Dirección de Asuntos Jurídicos de la Secretaría, o quién ocupe el cargo de Titular de la Secretaría.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 19.
 
-Corresponden a quien ocupe el cargo de Titular de la Coordinación de Programas Especiales, las siguientes facultades y obligaciones:
+Corresponden a quien ocupe el cargo de Titular de la Coordinación de Programas Federales las siguientes facultades y obligaciones:
 
-I. En la planeación de proyectos especiales:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+l. En la planeación de proyectos federales:
 
 a) Analizar reglas de operación de los programas federales.
 
-b) En coordinación con las unidades administrativas que operen los programas especiales, elaborar, integrar y presentar los proyectos en el marco de los programas federales.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+b) En coordinación con las unidades administrativas que operen los programas federales, elaborar, integrar y presentar los proyectos en el marco de dichos programas.
 
 c) Asesorar a la Coordinación Administrativa para la definición de conceptos de gasto.
 
@@ -607,7 +577,9 @@ Corresponde a la Coordinación de Vinculación, las siguientes facultades y obli
 
 I. En la operación, seguimiento y validación del proyecto federal de prevención y atención de la violencia contra las mujeres:
 
-a) Supervisar la administración de los recursos humanos, económicos y materiales asignados al programa.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+
+a) Coadyuvar con la Coordinación de Programas Federales, en la elaboración de los lineamientos operativos del programa federal de prevención y atención de la violencia contra las mujeres.
 
 b) Realizar informes cualitativos y cuantitativos del programa ejecutado.
 
@@ -617,7 +589,9 @@ d) Entrevistar y seleccionar el personal para su contratación.
 
 e) Gestionar los viáticos ante la Coordinación Administrativa para las y los responsables y supervisores de los programas.
 
-II. Coadyuvar con la Coordinación Administrativa y Coordinación de Programas Especiales, en la solvatación (sic) de las observaciones de auditorías realizadas, por despachos externos, la Auditoria Superior del Estado y en su caso por quien otorga el recurso federal;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2016)</small>
+
+II. Coadyuvar con la Coordinación Administrativa y Coordinación de Programas Federales en la solvatación (sic) de observaciones de auditorías realizadas por despachos externos, la Auditoria Superior del Estado y en su caso por quien otorga el recurso federal.
 
 III. Apoyar en la planeación y gestión de los servicios y suministros necesarios para la realización efectiva del programa;
 
@@ -687,23 +661,7 @@ IX. Las demás que le confieran las disposiciones legales y administrativas apli
 
 ###### ARTÍCULO 23.
 
-Corresponde a quien ocupe el cargo de Titular de la de la (sic) Unidad de Relaciones Públicas, las siguientes facultades y obligaciones:
-
-I. Reportar directamente a quien ocupe el cargo de Titular de la Secretaría;
-
-II. Coordinar la logística de los eventos del despacho de la Secretaría;
-
-III. Convocar a las diferentes dependencias para eventos del despacho y los que le asigne el o la Titular de la Secretaría;
-
-IV. Fortalecer las relaciones públicas con instituciones educativas, dependencias de gobierno y organizaciones sociales;
-
-V. Integrar estrategias propiciando que se desarrollen con éxito los eventos en el mejor ambiente laboral interno, y en algunos casos en el ámbito externo;
-
-VI. Promover e implementar programas de capacitación, adiestramiento, y desarrollo de personal de las diferentes unidades administrativas adscritas a la Secretaría;
-
-VII. Trabajar en conjunto con otras áreas de la Secretaría para la organización de eventos; y
-
-VIII. Las demás que se establezcan en otras disposiciones legales aplicables y las que le delegue el o la Titular de la Secretaría.
+(DEROGADO, P.O. 12 DE AGOSTO DE 2016)
 
 ### CAPÍTULO VII. De la suplencia de los Servidores Públicos de la Secretaría
 
@@ -758,3 +716,13 @@ LA SECRETARIA DE LAS MUJERES
 SONIA VILLARREAL PÉREZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE MODIFICA EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LAS MUJERES DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
