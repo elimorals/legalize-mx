@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-del-instituto-del-deporte-y-la-cultura-92078
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-01-18"
-last_updated: "2013-01-18"
+last_updated: "2016-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DEL INSTITUTO DEL DEPORTE Y LA CULTURA FISICA DE BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DEL INSTITUTO DEL DEPORTE Y LA CULTURA FÍSICA DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 12 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERNO DEL INSTITUTO DEL DEPORTE Y LA CULTURA FÍSICA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 18 de enero de 2013.
 
 JOSÉ GUADALUPE OSUNA MILLÁN, GOBERNADOR DEL ESTADO, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE EL ARTÍCULO 49 FRACCIÓN XVI, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; CON FUNDAMENTO EN EL ARTÍCULO 3, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, Y
 
-C O N S I D E R A N D O:.
+C O N S I D E R A N D O:
+
+[...]
 
 XV.- Que en términos de lo dispuesto por los artículos 49 fracción XVI, de la Constitución Política del Estado Libre y Soberano de Baja California, y 3 de la Ley Orgánica de la Administración Pública del Estado de Baja California, el Gobernador del Estado está facultado para formular y expedir los reglamentos para el buen despacho de la Administración Pública Paraestatal, por lo que se expide el siguiente:
 
@@ -187,7 +191,7 @@ VI. Las demás que le asigne la Junta Directiva.
 
 ###### ARTÍCULO 19.
 
-Para el estudio, planeación, despacho los (sic) asuntos y adecuado cumplimiento del objeto para el cual fue creado el INDE, éste contará con las siguientes unidades administrativas:
+Para el estudio, planeación, despacho (sic) los asuntos y adecuado cumplimiento del objeto para el cual fue creado el INDE, éste contará con las siguientes unidades administrativas:
 
 1.- Dirección General.
 
@@ -433,7 +437,7 @@ Corresponde al Departamento Técnico Deportivo, por conducto de su titular, el e
 
 I. Apoyar a la Dirección de Alto Nivel de Competencia, en la supervisión y evaluación de las actividades relacionadas a los campamentos, entrenamientos y competencias, de acuerdo en lineamientos técnicos de coordinación;
 
-II. Planear y organizar los asuntos relacionados con los cuadros de concentraciones, campamentos y entrenamientos de (sic) representativos estatales;
+II. Planear y organizar los asuntos relacionados con los cuadros de concentraciones, campamentos y entrenamientos de representativos estatales;
 
 III. Elaborar el control de horarios de entrenamientos de las disciplinas que se desarrollan bajo su coordinación;
 
@@ -952,3 +956,19 @@ SECRETARIO GENERAL DE GOBIERNO
 JAVIER SANTILLÁN PÉREZ
 
 SECRETARIO DE EDUCACIÓN Y BIENESTAR SOCIAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DEL INSTITUTO DEL DEPORTE Y LA CULTURA FÍSICA DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se abroga el Reglamento Interno del Instituto del Deporte y la Cultura Física de Baja California, publicado en el Periódico Oficial del Estado de Baja California, en fecha 18 de enero de 2013.
+
+TERCERO.- Los recursos humanos, materiales y presupuestales, con los que operan las unidades administrativas modificadas mediante el presente Decreto, se entenderán transferidos a la nueva estructura orgánica correspondiente, en conjunto con los recursos presupuestales y financieros que para el presente ejercicio fiscal se hayan previsto.
+
+CUARTO.- Una vez que el Reglamento Interno haya entrado en vigor, se realizaran las actualizaciones de los Manuales de organización, procedimientos y servicios al público para la operatividad del mismo.
+
+QUINTO.- En tanto no se expidan los manuales administrativos que este Reglamento menciona, el Director General está facultado para resolver los asuntos que conforme a dichos manuales se deban regular.
