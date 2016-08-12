@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-instituto-electoral-del-distrito-federal-en-8085
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-15"
-last_updated: "2014-11-04"
+last_updated: "2016-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80858&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-03-28"
 
 REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE AGOSTO DE 2016.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 15 de abril de 2011.
 
@@ -260,7 +260,9 @@ VII. OIP: Oficina de Información Pública del Instituto Electoral;
 
 VIII. Unidad de Apoyo Logístico: Unidad Técnica de Archivo, Logística y Apoyo a Órganos Desconcentrados del Instituto Electoral;
 
-IX. Unidad de Comunicación: Unidad Técnica de Comunicación Social, Transparencia y Protección de Datos Personales del Instituto Electoral;
+> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
+
+IX. Oficina de Información Pública: Oficina de Acceso a la Información Pública y Protección de Datos Personales;
 
 X. Unidad de Sistemas: Unidad Técnica de Servicios Informáticos del Instituto Electoral, y
 
@@ -774,9 +776,9 @@ El Comité se integra de la siguiente manera:
 
 I. Presidente: El funcionario del Instituto Electoral que designe el Consejo General;
 
-> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
 
-II. Secretario: El Titular de la Unidad de Comunicación:
+II. Secretario: El Titular de la Oficina de Información Pública:
 
 III. Vocales:
 
@@ -798,29 +800,29 @@ IV. Las y los Invitados Eventuales:
 
 a) Director Ejecutivo de Asociaciones Políticas;
 
-> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2016)</small>
 
-b) Director Ejecutivo de Educación Cívica y Capacitación;
+b) Titular de la Dirección Ejecutiva de Educación Cívica;
 
-> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2016)</small>
 
-c) Director Ejecutivo de Organización y Geoestadística Electoral;
+c) Titular de la Dirección Ejecutiva de Organización Electoral y Geoestadística;
 
-> <small>(ADICIONADO, G.O. 20 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2016)</small>
 
-d) Director Ejecutivo de Participación Ciudadana;
+d) Titular de la Dirección Ejecutiva de Participación Ciudadana y Capacitación;
 
 > <small>(ADICIONADO, G.O. 20 DE OCTUBRE DE 2011)</small>
 
 e) Titular de la Unidad Técnica del Centro de Formación y Desarrollo;
 
-> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2016)</small>
 
-f) Titular de la Unidad Técnica de Vinculación con el Instituto Nacional;
+f) Titular de la Unidad Técnica de Vinculación con Organismos Externos;
 
-> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2016)</small>
 
-g) Titular de la Unidad Técnica de Fiscalización;
+g) Titular de la Oficina de Fiscalización; y
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE NOVIEMBRE DE 2014)</small>
 
@@ -900,7 +902,9 @@ IX. Elaborar propuestas de normativa en materia de transparencia y acceso a la i
 
 X. Vigilar y atender el cumplimiento de las políticas, lineamientos, criterios y disposiciones generales aplicables en materia de acceso a la información que emita el INFODF;
 
-XI. Vigilar, por conducto de la Unidad de Comunicación y la Unidad de Sistemas, que en términos de la Ley de Transparencia y el presente Reglamento se incorpore y actualice la información pública del Instituto Electoral en el sitio de Internet;
+> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
+
+XI. Vigilar, por conducto de la Oficina de Información Pública y la Unidad de Sistemas, que en términos de la Ley de Transparencia y el presente Reglamento se incorpore y actualice la información pública del Instituto Electoral en el sitio de Internet;
 
 XII. Conocer y aprobar el proyecto de informe anual a que se refiere el artículo 73 de la Ley de Transparencia y remitirlo oportunamente a la Comisión para someterlo a la consideración del Consejo General;
 
@@ -942,9 +946,11 @@ La OIP es la unidad administrativa facultada para recibir solicitudes de informa
 
 La OIP tramitará las solicitudes de información desde su recepción hasta la entrega de las respuestas, mediante el otorgamiento de la información o la negación del acceso a la misma.
 
+> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 53.
 
-El responsable de operar la OIP será el Titular de la Unidad de Comunicación.
+El responsable de operar la OIP será el Titular de la Oficina de Información Pública.
 
 ###### Artículo 54.
 
@@ -1034,11 +1040,11 @@ La persona solicitante inconforme podrá presentar el recurso de revisión ante 
 
 La OIP orientará al solicitante sobre su derecho de interponer el recurso, así como el modo y plazo para hacerlo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REUBICADO, ANTES ARTÍCULO 56], G.O. 4 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 60.
 
-Tratándose de recursos de revisión interpuestos en contra del Instituto Electoral, corresponde a quien funja como Titular de la Unidad de Comunicación:
+Tratándose de recursos de revisión interpuestos en contra del Instituto Electoral, corresponde a quien funja como Titular de la Oficina de Información Pública:
 
 I. Elaborar el informe respecto del acto o resolución recurrida, dentro de los cinco días hábiles siguientes a que se refiere la fracción II del artículo 80 de la Ley de Transparencia;
 
@@ -1048,7 +1054,9 @@ III. Formular y presentar alegatos, y
 
 IV. En su caso, informar al INFODF del cumplimiento de sus resoluciones en un plazo no mayor a cinco días hábiles, contados a partir de la notificación de la resolución.
 
-Para lo anterior, el Titular de la Unidad de Comunicación contará con la participación del titular del área responsable de la emisión u omisión de respuesta al recurrente, así como con la asesoría de la Unidad Jurídica.
+> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2016)</small>
+
+Para lo anterior, el Titular de la Oficina de Información Pública contará con la participación del titular del área responsable de la emisión u omisión de respuesta al recurrente, así como con la asesoría de la Unidad Jurídica.
 
 ## TÍTULO QUINTO. DE LA TRANSPARENCIA
 
@@ -1076,11 +1084,13 @@ III En formato electrónico y mediante bases de datos que permitan la búsqueda 
 
 Las y los titulares de las instancias serán responsables de verificar que la información que les corresponde en términos de los artículos 13, 14, 19, 19 bis y 39, último párrafo de la Ley de Transparencia, se incorpore debidamente en la sección de transparencia del sitio de Internet, se mantenga actualizada y cumpla con los criterios establecidos por el INFODF.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 63.
 
-La OIP recabará, publicará y actualizará la información en el sitio de Internet, con la colaboración del personal de la Unidad de Comunicación y de la Unidad de Sistemas. De lo anterior la OIP mantendrá puntual y oportunamente informado al Comité.
+La OIP recabará, publicará y actualizará la información en el sitio de Internet, con la colaboración del personal adscrito a la Oficina de Información Pública y de la Unidad de Sistemas. De lo anterior la OIP mantendrá puntual y oportunamente informado al Comité.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE NOVIEMBRE DE 2014)</small>
 
 La inobservancia de esta obligación por parte de las y los titulares de las instancias o de cualquier otro servidor público será causa de responsabilidad administrativa.
 
@@ -1117,3 +1127,15 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Reglamento.
 TERCERO. Publíquese de inmediato en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx.
 
 CUARTO. Remítase para su publicación a la Gaceta Oficial del Distrito Federal, dentro del plazo de diez días hábiles contados a partir de su aprobación.
+
+G.O. 12 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL, POR EL QUE EN CUMPLIMIENTO A LOS ACUERDOS IDENTIFICADOS CON LAS CLAVES ACU-41-16 Y ACU-42-16 RESPECTIVAMENTE, SE APRUEBAN REFORMAS AL REGLAMENTO INTERIOR; REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES; ASÍ COMO AL REGLAMENTO EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, TODOS ELLOS DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL”.]
+
+PRIMERO. La reforma al presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Reglamento.
+
+TERCERO. Publíquese de inmediato en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx
+
+CUARTO. Remítase para su publicación a la Gaceta Oficial de la Ciudad de México, dentro del plazo de diez días hábiles contados a partir de su aprobación.
