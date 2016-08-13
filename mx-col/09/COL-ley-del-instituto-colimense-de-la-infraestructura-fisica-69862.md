@@ -4,7 +4,7 @@ identifier: "COL-ley-del-instituto-colimense-de-la-infraestructura-fisica-69862"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-15"
-last_updated: "2009-10-03"
+last_updated: "2016-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69862&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY DEL INSTITUTO COLIMENSE DE LA INFRAESTRUCTURA FISICA EDUCATIVA
 
-LEY DEL INSTITUTO COLIMENSE DE LA INFRAESTRUCTURA FISICA EDUCATIVA
+LEY DEL INSTITUTO COLIMENSE DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 15 de agosto de 2009.
 
@@ -77,7 +77,9 @@ I. Certificación.- El procedimiento por el cual se asegura que un producto, pro
 
 II. Certificado.- El documento que expida el Instituto, mediante el cual se hace constar que la infraestructura física educativa cumple con las especificaciones establecidas en las leyes, reglamentos, normas y demás disposiciones aplicables;
 
-III. Director.- El titular del Instituto Colimense de la Infraestructura Física Educativa;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2016)</small>
+
+III. Director General.- El Titular del Instituto Colimense de la Infraestructura Física Educativa;
 
 IV. Infraestructura Física Educativa.- Los muebles e inmuebles destinados a la educación impartida por el Estado y los particulares con autorización o con reconocimiento de validez oficial de estudios, en el marco del sistema educativo estatal, en términos de la Ley de Educación del Estado de Colima, así como a los servicios e instalaciones necesarios para su correcta operación;
 
@@ -217,29 +219,27 @@ La junta de gobierno se integrará por:
 
 I. Un Presidente, que será el Secretario de Educación del Gobierno del Estado;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2016)</small>
 
-II. Vocales que serán; cada uno, un representante de los siguientes funcionarios del Gobierno del Estado:
+II. Vocales, que serán un representante de las siguientes autoridades y organismos:
 
-- El Secretario General de Gobierno;
+a) El Secretario General de Gobierno;
 
-- El Secretario de Planeación;
+b) El Secretario de Planeación y Finanzas;
 
-- El Secretario de Finanzas;
+c) El Secretario de Infraestructura y Desarrollo Urbano;
 
-- El Secretario de Desarrollo Urbano;
+d) El Titular de la Dirección de Protección Civil del Estado;
 
-- El Titular de la Dirección de Protección Civil del Estado;
+e) El Director de Planeación Educativa de la Coordinación de los Servicios Educativos del Estado;
 
-- El Director de Planeación Educativa de la Secretaría de Educación;
+f) El Director General del INCOIFED;
 
-- El Director del INCOIFED;
+g) Un representante de la Sección VI del SNTE;
 
-- Un representante de la Sección VI del SNTE;
+h) Un representante de la Sección 39 del SNTE; e
 
-- Un representante de la Sección 39 del SNTE; y
-
-- Un representante de la Asociación Estatal de Padres de Familia;
+i) Un representante de la Asociación Estatal de Padres de Familia.
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
@@ -271,9 +271,13 @@ II. Aprobar y expedir su Reglamento Interior, manuales de organización y de pro
 
 III. Aprobar, supervisar y evaluar los planes y el programa general de obra de cada ejercicio fiscal del INCOIFED;
 
-IV. Aprobar el proyecto de presupuesto anual de egresos que proponga el Director del INCOIFED;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2016)</small>
 
-V. Conocer y aprobar los informes de actividades y los estados financieros que le presente el Director del INCOIFED;
+IV. Aprobar el proyecto de presupuesto anual de egresos que proponga el Director General del INCOIFED;
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2016)</small>
+
+V. Conocer y aprobar los informes de actividades y los estados financieros que, le presente el Director General del INCOIFED;
 
 VI. Conocer los avances programáticos y presupuestal del programa general de obra;
 
@@ -281,7 +285,9 @@ VII. Aprobar, la estructura administrativa necesaria para el cumplimento de los 
 
 VIII. Conocer y aprobar los informes de auditoría del INCOIFED;
 
-IX. Autorizar al Director para la realización de actos de dominio en lo referente a bienes inmuebles;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2016)</small>
+
+IX. Autorizar al Director General del INCOIFED para la realización de actos de dominio en lo referente a bienes inmuebles;
 
 X. Aprobar el nombramiento de los titulares de las Direcciones que le auxilien en el despacho de los asuntos; y
 
@@ -289,9 +295,11 @@ XI. Las demás que le confiere la presente Ley y otras disposiciones aplicables 
 
 #### Sección II. Del Secretario Técnico
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 17.
 
-Para el apoyo de sus funciones, la Junta de Gobierno contará con un Secretario Técnico, quien será propuesto por el Director.
+Para el apoyo de sus funciones, la Junta de Gobierno contará con un Secretario Técnico, quien será propuesto por el Director General del INCOIFED.
 
 ###### Artículo 18.
 
@@ -311,19 +319,27 @@ VI. Firmar las actas y constancias necesarias que se deriven de las sesiones de 
 
 VII. Las demás que le señale la presente Ley y otras disposiciones aplicables en la materia.
 
-#### Sección III. De la Dirección
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE AGOSTO DE 2016)</small>
+
+#### Sección III. De la Dirección General
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 19.
 
-La Dirección es el órgano de administración del INCOIFED, representada por su Director a quien corresponde la representación legal, la dirección técnica y administrativa, así como el trámite y resolución de los asuntos de su competencia.
+La Dirección General es el órgano de administración del INCOIFED, representada por su Director General, a quien corresponde la representación legal, la dirección técnica y administración, así como el trámite y resolución de los asuntos de su competencia.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 20.
 
-El Director será nombrado y removido libremente por el Gobernador del Estado.
+El Director General será nombrado y removido libremente por el Gobernador del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 21.
 
-Son atribuciones del Director, las siguientes:
+Son atribuciones del Director General, las siguientes:
 
 I. Administrar al INCOIFED;
 
@@ -355,9 +371,11 @@ XIV. Proponer a la Junta de Gobierno el Reglamento Interior, los manuales de org
 
 XV. Las demás que señale la presente Ley y otras disposiciones aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 22.
 
-La Dirección contará con los órganos de apoyo que la Junta determine conforme al Reglamento interior.
+La Dirección General contará con los órganos de apoyo que la Junta determine conforme al Reglamento interior.
 
 ### CAPÍTULO IV. DEL PATRIMONIO
 
@@ -420,3 +438,9 @@ P.O. 29 DE AGOSTO DE 2009.
 P.O. 3 DE OCTUBRE DE 2009.
 
 ÚNICO,- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 13 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 121 SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 4; LA FRACCIÓN II DEL ARTÍCULO 13; LAS FRACCIONES IV, V Y IX DEL ARTÍCULO 16; Y LOS ARTÍCULOS 17, 19, 20,21 Y 22, ASÍ COMO LA DENOMINACIÓN DE LA SECCIÓN III DEL CAPÍTULO III, TODOS DE LA LEY DEL INSTITUTO COLIMENSE DE LA INFRAESTRUCTURA FÍSICA Y EDUCATIVA”.]
+
+UNICO.- EI presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado: "El Estado de Colima".
