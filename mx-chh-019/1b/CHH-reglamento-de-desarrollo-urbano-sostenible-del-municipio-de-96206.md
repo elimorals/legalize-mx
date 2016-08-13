@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-desarrollo-urbano-sostenible-del-municipio-de-962
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-05"
-last_updated: "2016-06-11"
+last_updated: "2016-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96206&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO DE DESARROLLO URBANO SOSTENIBLE DEL MUNICIPIO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2016.
 
 Reglamento publicado en el Folleto Anexo al Número 80 del Periódico Oficial del Estado de Chihuahua, el sábado 5 de octubre de 2013.
 
@@ -2097,7 +2097,9 @@ d) En todas las tipologías de fraccionamientos, la entrega recepción podrá re
 
 III. Mientras no se realice la entrega recepción, el fraccionador está obligado a la prestación de los servicios y al mantenimiento de la infraestructura y equipamiento, así como a mantener vigente la garantía otorgada;
 
-IV. Todos los fraccionamientos bajo cualquier régimen de propiedad deberán contar con los servicios de agua potable, agua tratada, alcantarillado sanitario, electricidad y alumbrado público;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2016)</small>
+
+IV. Todos los fraccionamientos bajo cualquier régimen de propiedad deberán contar con los servicios de agua potable, agua tratada, alcantarillado sanitario, electricidad y alumbrado público. Y en los casos que así lo determine la Dirección y el Instituto Municipal de Planeación, el fraccionador deberá realizar las obras necesarias de infraestructura en el predio a fraccionar, para la captación de aguas pluviales y que sean necesarias para hacer posible el desarrollo urbano, previo dictamen técnico en hidrología que emita la autoridad correspondiente, para lo cual se deberá tomar en cuenta el sistema de información geográfica y de zonificación del Municipio;
 
 V. Urbanización progresiva es aquella en la que el fraccionador o promovente ejecutará las obras mínimas de urbanización en el plazo y con las especificaciones reglamentarias que haya determinado el Ayuntamiento. Dichas obras podrán ejecutarse con la cooperación de los adquirientes de los lotes, predios, departamentos, viviendas, casas o locales, debiendo entenderse como urbanización mínima, lo siguiente:
 
@@ -4314,3 +4316,9 @@ P.O. 11 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO 069 SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 36 DEL REGLAMENTO DE DESARROLLO URBANO SOSTENIBLE DEL MUNICIPIO DE CHIHUAHUA”.]
 
 TRANSITORIO ÚNICO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR A PARTIR DEL DIA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
+
+P.O. 13 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO 089 DEL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE CHIHUAHUA, POR EL QUE SE ORDENA LA PUBLICACIÓN DEL ACUERDO DEL H. AYUNTAMIENTO DEL MUNICIPIO DE CHIHUAHUA, CHIH., MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 89 DEL REGLAMENTO DE DESARROLLO URBANO SOSTENIBLE".]
+
+ARTICULO TRANSITORIO.- El presente Acuerdo entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
