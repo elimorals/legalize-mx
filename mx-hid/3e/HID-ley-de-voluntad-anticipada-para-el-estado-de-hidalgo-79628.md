@@ -4,7 +4,7 @@ identifier: "HID-ley-de-voluntad-anticipada-para-el-estado-de-hidalgo-79628"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-14"
-last_updated: "2013-09-02"
+last_updated: "2016-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79628&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE VOLUNTAD ANTICIPADA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 14 de febrero de 2011.
 
@@ -59,15 +59,21 @@ QUE CREA LA LEY DE VOLUNTAD ANTICIPADA PARA EL ESTADO DE HIDALGO
 
 La presente Leyes (sic) de orden público e interés social, y tiene por objeto:
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
 
-I.- Establecer y regular las normas, requisitos y formas de realización de la voluntad de cualquier persona o paciente en fase terminal con capacidad de ejercicio, respecto a la negativa a someterse a medios, tratamientos y/o procedimientos médicos que pretendan prolongar de manera innecesaria su vida; y
+I.- Establecer las normas para regular y garantizar el otorgamiento de la voluntad anticipada de cualquier persona con capacidad de ejercicio ante Notario Público, o excepcionalmente ante el médico tratante estando enferma en fase terminal, para ejercer el derecho a medidas terapéuticas, incluyendo cuidados paliativos, y rechazar tratamientos extraordinarios que la sitúen en obstinación terapéutica, con la pretensión de prolongar de manera innecesaria su vida; y
 
-II.- Proteger, en todo momento, la dignidad de los enfermos en fase terminal, cuando, por razones médicas, fortuitas o de fuerza mayor, sea imposible mantener su vida de manera natural.
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+II.- Proteger en todo momento, la dignidad de las o los enfermos en fase terminal, con el fin de evitar la obstinación terapéutica, de conformidad con lo dispuesto a la Ley General de Salud y a la Ley de Salud.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 2.
 
-La aplicación de las disposiciones establecidas en la presente Ley, son relativas a la voluntad anticipada de las personas en materia de Ortotanasia y, no permiten, ni facultan, bajo ninguna circunstancia la realización de conductas que tengan como consecuencia el acortamiento intencional de la vida.
+La aplicación de las disposiciones establecidas en la presente Ley, son relativas a la voluntad anticipada de las personas en materia de Ortotanasia y no permiten ni facultan bajo ninguna circunstancia la realización de prácticas eutanásicas.
+
+Queda prohibido suministrar fármacos, medicamentos u otras sustancias con la finalidad de acortar la vida de la o del paciente; así como aplicar tratamientos que provoquen de manera intencional la muerte.
 
 ###### Artículo 3.
 
@@ -75,25 +81,27 @@ Para efectos de esta Ley se entiende por:
 
 I.- Código Civil: El Código Civil para el Estado de Hidalgo;
 
-II.- Código Penal: El Código Penal para el Estado de Hidalgo;
+II.- (DEROGADA, P.O. 15 DE AGOSTO DE 2016)
 
 III.- Centro Estatal de Trasplantes: La unidad administrativa adscrita a la Secretaría en materia de Donación y Trasplante de Órganos, Tejidos y Células de Seres Humanos;
 
 IV.- Coordinación Especializada: La unidad administrativa adscrita a la Secretaría, en materia de voluntad anticipada;
 
-V.- Cuidados Paliativos: El cuidado integral activo y total de aquellas enfermedades que no responden a tratamiento curativo e incluyen el control del dolor y otros síntomas, así como, la atención biológica, psicológica, social y espiritual del paciente;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+V.- Cuidados Paliativos: El cuidado integral activo y total de aquellas enfermedades que no responden a tratamiento curativo e incluyen el control del dolor y otros síntomas, así como, la atención biológica, psicológica, social y apoyo espiritual del paciente;
 
-VI.- Documento de Voluntad Anticipada: Es el documento suscrito ante notario público, en el que cualquier persona con capacidad de ejercicio y en pleno uso de sus facultades mentales, manifiesta su voluntad libre, consciente, seria, inequívoca y reiterada, de someterse a cuidados paliativos y rechazar medidas extraordinarias o tratamientos excesivos, en caso de padecer una enfermedad en fase terminal, el cual en todo caso, sea gratuito;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
 
-VII.- Enfermo en fase terminal: El paciente diagnosticado con una esperanza de vida menor a seis meses, y que se encuentra imposibilitado para mantener su vida de manera natural, con base en las siguientes circunstancias:
+VI.- Documento de Voluntad Anticipada: Es el documento suscrito ante notario público, en el que cualquier persona con capacidad de ejercicio y en pleno uso de sus facultades mentales, manifiesta su voluntad libre, consciente e inequívoca, para aceptar medidas terapéuticas, incluyendo cuidados paliativos, y rechazar aquellos tratamientos extraordinarios que la sitúen en una obstinación terapéutica;
 
-a).- Presenta diagnóstico de enfermedad avanzada, irreversible, incurable, progresiva y degenerativa;
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2016)</small>
 
-b).- Imposibilidad de respuesta a tratamiento específico; y
+VI Bis.- Eutanasia: Acto deliberado de poner fin a la vida de un paciente en fase terminal, aunque sea por voluntad propia o a petición de familiares, con la intención de evitar sufrimiento o dolor.
 
-c).- Presencia de síntomas secundarios, subsecuentes y problemas sistémicos;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+VII.- Enfermo en fase terminal: El paciente diagnosticado con una esperanza de vida menor a seis meses, y que se encuentra imposibilitado para mantener su vida de manera natural, en virtud de presentar diagnóstico de enfermedad avanzada, irreversible, incurable, progresiva y degenerativa, sin posibilidad de respuesta a tratamiento específico conocido;
 
 VIII.- Incapaz de fonación: Persona que tiene impedimento de hablar por diversas causas;
 
@@ -101,7 +109,9 @@ IX.- Ley: La Ley de Voluntad Anticipada para el Estado de Hidalgo;
 
 X.- Ley de Salud: La Ley de Salud para el Estado de Hidalgo;
 
-XI.- Medidas Extraordinarias: Las que constituyen una carga grave para el enfermo y cuyo perjuicio es mayor que los beneficios; en cuyo caso, se podrán valorar de acuerdo al tipo de terapia, el grado de dificultad y de riesgo que implique, los gastos y las posibilidades de aplicación, en relación al resultado que se puede esperar;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+XI.- Medidas Terapéuticas: Aquellas sustentadas en los principios científicos y éticos encaminadas a ofrecer posibilidades de curación de una enfermedad;
 
 XII.- Medidas Mínimas Ordinarias: Las que consisten en la hidratación, higiene, oxigenación, nutrición y curaciones del enfermo en fase terminal según lo determine el personal de salud correspondiente, que tiendan a mitigar el dolor y síntomas generales;
 
@@ -109,103 +119,127 @@ XIII.- Notario Público: Profesional del derecho investido de fe pública por el
 
 XIV.- Obstinación Terapéutica: La utilización innecesaria de los medios, instrumentos y métodos médicos, para mantener vivo a un enfermo en fase terminal;
 
-XV.- Ortotanasia: La actuación correcta de quienes atienden a un enfermo en fase terminal, que ayuden al paciente a morir dignamente, sin el empleo innecesario de medios, tratamientos o procedimientos médicos, que propicien la obstinación terapéutica para el mantenimiento de su vida, otorgando solamente cuidados paliativos, las medidas mínimas ordinarias y la sedación controlada;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+XV.- Ortotanasia: Distingue entre curar y cuidar, sin provocar la muerte de manera activa, directa o indirecta, evitando la aplicación de medios, tratamientos y/o procedimientos médicos obstinados, desproporcionados o inútiles, procurando no menoscabar la dignidad del enfermo en etapa terminal, otorgando los cuidados paliativos, las medidas mínimas ordinarias, tanatológicas y en su caso, la sedación controlada;
 
 XVI.- Personal de salud: Los profesionales, especialistas, técnicos, auxiliares y demás trabajadores que laboran en la prestación de los servicios de salud;
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
 
-XVII.- Representante: La persona que acepta el encargo de corroborar la realización de los términos y circunstancias predeterminadas en el Documento o Formato de Voluntad Anticipada;
+XVII.- Representante: La persona que vigila el cumplimiento del Documento o Formato de Voluntad Anticipada;
 
 XVIII.- Secretaría: La Secretaría de Salud del Gobierno del Estado de Hidalgo;
 
 XIX.- Sedación Controlada: La administración de fármacos por parte del personal de salud correspondiente, para lograr el alivio de un sufrimiento físico o psicológico, a un enfermo en fase terminal, con su consentimiento informado y comprensible, explicito, implícito o delegado, sin provocar con ello la muerte de manera intencional;
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
 
-XX.- Signatario: La persona que suscribe el Documento o Formato de Voluntad Anticipada; y (sic)
+XX.- Signatario: La persona que suscribe el Documento o Formato de Voluntad Anticipada;
 
-XXI.- Tanatología: La disciplina que estudia la muerte y la ayuda médica, psicológica, social y espiritual, brindada al enfermo en fase terminal y a sus familiares, a fin de comprender la situación y consecuencias de la aplicación de la Ortotanasia.
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+XXI.- Tanatología: La disciplina que estudia la muerte y la ayuda médica, psicológica, social y espiritual, brindada a enferma o enfermo en fase terminal y a sus familiares, a fin de comprender la situación y consecuencias de la aplicación de la Ortotanasia; y
 
-XXII.- Formato de Voluntad Anticipada: Documento oficial emitido por la Secretaría, suscrito ante el médico tratante, en el que cualquier persona con capacidad de ejercicio manifieste la decisión libre, consciente e informada de someterse a tratamientos de cuidados paliativos y rechazar medidas extraordinarias o tratamientos excesivos, en caso de padecer una enfermedad en fase terminal; (sic
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+XXII.- Formato de Voluntad Anticipada: Formato oficial emitido por la Secretaría, suscrito ante el médico tratante, en el que cualquier persona con capacidad de ejercicio manifieste la decisión libre, consciente e informada para aceptar medidas terapéuticas, incluyendo los cuidados paliativos, y rechazar aquellos tratamientos extraordinarios que lo sitúen en obstinación terapéutica.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 4.
 
-Para lo no previsto en la presente Ley, se aplicará de manera supletoria lo dispuesto por el Código Penal y el Código Civil, para el Estado de Hidalgo.
+Para lo no previsto en la presente Ley, se aplicará de manera supletoria lo dispuesto por el Código Civil para el Estado de Hidalgo.
 
 ###### Artículo 5.
 
 La presente Ley se aplicará única y exclusivamente en el territorio del Estado de Hidalgo, con base en los términos y disposiciones establecidas en la misma.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 6.
 
-La aplicación de las disposiciones establecidas en la presente Ley no dispensa de responsabilidades, sean de naturaleza civil, penal o administrativa, a quienes intervienen en su realización.
+Ninguna persona, representante o personal de salud, tanto del sector público como del privado, que haya actuado en concordancia con las disposiciones establecidas en la presente Ley y en su caso, de conformidad con la normatividad que lo rija, estará sujeto a responsabilidad civil, penal o administrativa.
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
-Ninguna persona, representante o personal de salud que haya actuado en concordancia con las disposiciones establecidas en la presente Ley, estará sujeto a responsabilidad civil, penal o administrativa.
+###### Artículo 6 Bis.
+
+El personal médico que, por decisión propia, deje de proporcionar medidas terapéuticas o cuidados paliativos a que tiene derecho un paciente, sin su consentimiento o en su caso el de su familia o representante, será sancionado conforme a las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
+###### Artículo 6 Ter.
+
+Las y los médicos tratantes, en ningún caso y por ningún motivo aplicarán medios extraordinarios a pacientes en situación terminal, sin su consentimiento o el de su familia.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
 ### CAPÍTULO II. DE LOS REQUISITOS DEL DOCUMENTO O FORMATO DE VOLUNTAD ANTICIPADA
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 7.
 
-Podrán manifestar su decisión ante Notario Público:
-
-I.- Cualquier enfermo en fase terminal, médicamente diagnosticado e informado de su estado de salud;
-
-II.- Los familiares y personas señaladas en los términos y supuestos de la presente Ley, cuando el enfermo, en fase terminal, se encuentre impedido para manifestar por sí mismo su voluntad; y
-
-III.- Los padres o tutores del enfermo en fase terminal cuando éste sea menor de edad o legalmente declarado incapaz.
-
-> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
-
-IV.- Toda persona sana que declare su voluntad al respecto.
-
-Para los efectos de las fracciones II y III del presente Artículo, el signatario deberá acreditar con el acta correspondiente el parentesco con el paciente.
+Cualquier persona con capacidad de ejercicio, podrá manifestar su decisión de voluntad anticipada, ante Notario Público.
 
 ###### Artículo 8.
 
 El Documento de Voluntad Anticipada deberá contar con las siguientes formalidades y requisitos:
 
-I.- Realizarse por escrito de manera personal, libre e inequívoca ante Notario;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
 
-II.- Ser suscrito por el signatario, estampando su nombre y firma en el mismo;
+I.- Expresar de manera libre, espontánea e inequívoca al Notario Público, su Voluntad Anticipada;
 
-III.- El nombramiento de un representante para corroborar la realización del Documento de Voluntad Anticipada en los términos y circunstancias determinadas; y
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+II.- Suscribir el documento previa identificación del interesado; y
+
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+III.- Nombrar un representante que vigile el cumplimiento de la voluntad anticipada, contenida en el documento notarial.
 
 IV.- La manifestación respecto a la disposición de órganos, tejidos y células de seres humanos, susceptibles de ser donados.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 9.
 
-El Documento de Voluntad Anticipada suscrito ante Notario, deberá ser notificado por éste a la Coordinación Especializada, para los efectos a que haya lugar.
+Del otorgamiento de una voluntad anticipada, su modificación o revocación, el notario deberá dar aviso a la Coordinación Especializada, dentro de los cinco días hábiles siguientes, para los efectos legales a que haya lugar.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 10.
 
-En caso de que el paciente en fase terminal se encuentre imposibilitado para acudir ante el Notario público, podrá suscribir el Formato de Voluntad Anticipada, considerando las siguientes formalidades y requisitos:
+En caso de que la o el paciente en fase terminal se encuentre imposibilitado para acudir ante el Notario público, podrán suscribir el Formato de Voluntad Anticipada ante la o el médico tratante del (sic) Unidad Médica Pública o Privada donde se encuentre hospitalizado, llevando a cabo las siguientes formalidades y requisitos:
 
-I.- Realizarse por escrito de manera personal, libre e inequívoca ante el personal de salud correspondiente;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
 
-II.- Ser suscrito por el signatario, estampando su nombre y firma en el mismo;
+I.- Llenar el formato libremente de su puño y letra, en caso de no ser posible por persona de su confianza, ante la presencia del médico tratante y dos testigos, asentándose estas circunstancias en el propio formato;
 
-III.- El nombramiento de un representante para corroborar la realización del Documento de Voluntad Anticipada en los términos y circunstancias determinadas;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+II.- Suscribir el formato con firma autógrafa, en caso de no poder o no saber firmar, estampar sus huellas digitales y que una persona de su confianza lo haga a su ruego y encargo;
+
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+III.- El nombramiento de un representante para vigilar el cumplimiento del formato de Voluntad Anticipada;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
 IV.- Dos testigos que verifiquen la voluntad manifestada; y,
 
-V.- La manifestación respecto a la disposición de órganos, tejidos y células de seres humanos, susceptibles de ser donados.
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
 
-Dicho Formato deberá ser notificado de manera inmediata a la Coordinación Especializada para los efectos a que haya lugar.
+V.- En caso de contener manifestación respecto a la donación de órganos, tejidos o células de seres humanos, se estará a lo dispuesto por la ley de la materia.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
+Dicho Formato deberá ser notificado de manera inmediata a la Coordinación Especializada para los efectos a que haya lugar.
+
 ###### Artículo 11.
 
-Una vez suscrito el Documento o el Formato de Voluntad Anticipada, en los términos de los artículos anteriores, la Coordinación Especializada deberá inmediatamente hacerlo del conocimiento del Ministerio Público del Distrito Judicial a que corresponda, para los efectos a que haya lugar y, del personal de salud correspondiente para integrarlo al expediente clínico del paciente en fase terminal.
+(DEROGADO, P.O. 15 DE AGOSTO DE 2016)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -213,29 +247,39 @@ Una vez suscrito el Documento o el Formato de Voluntad Anticipada, en los térmi
 
 No podrán ser testigos en el Formato de Voluntad Anticipada:
 
-I.- Los menores que no han cumplido 16 años de edad;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
 
-II.- Los que no disfrutan de su cabal juicio;
+I.- Los menores de 16 años de edad;
 
-III.- Los familiares del enfermo en fase terminal hasta el cuarto grado;
+II.- (DEROGADA, P.O. 15 DE AGOSTO DE 2016)
 
-IV.- Los que no entiendan el idioma que habla el enfermo en fase terminal, salvo que se encuentre un intérprete presente, y
+III.- (DEROGADA, P.O. 15 DE AGOSTO DE 2016)
 
-V.- Los que hayan sido condenados por delito doloso.
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+IV.- Los que no entiendan el idioma que habla la persona que expresa su voluntad anticipada, salvo que se encuentre un intérprete presente;
+
+V.- (DEROGADA, P.O. 15 DE AGOSTO DE 2016); y
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+VI.- El médico o médicos tratantes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 13.
 
-No podrán ser representantes para la realización del Documento o Formato de Voluntad Anticipada:
+No podrán ser representantes de la ejecución del Documento o Formato de Voluntad Anticipada:
 
 I.- Las personas que no han cumplido 16 años de edad;
 
 II.- Los que no disfrutan de su cabal juicio;
 
-III.- Los que no entiendan el idioma que habla el enfermo en fase terminal, salvo que se encuentre un intérprete presente; y
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
 
-IV.- Los que hayan sido condenados por delito doloso.
+III.- Quienes no entiendan el idioma que habla la persona que expresa su voluntad anticipada, salvo que se encuentre un intérprete presente; y
+
+IV.- (DEROGADA, P.O. 15 DE AGOSTO DE 2016)
 
 ###### Artículo 14.
 
@@ -243,39 +287,25 @@ El cargo de representante es voluntario y gratuito; quien lo acepte, adquiere la
 
 ###### Artículo 15.
 
-El representante que manifieste excusas, deberá hacerlo al momento en que tuvo noticia de su nombramiento.
+(DEROGADO, P.O. 15 DE AGOSTO DE 2016)
 
 ###### Artículo 16.
 
-Pueden excusarse de ser representantes:
-
-I.- Los empleados y funcionarios públicos;
-
-II.- Los militares en servicio activo;
-
-III.- Los que tuviesen una enfermedad que lo impida;
-
-IV.- Los que no saben leer ni escribir;
-
-V.- Los que por caso fortuito o fuerza mayor no puedan realizar el cargo conferido; y
-
-VI.- Los que tengan a su cargo otra representación en los términos de la presente Ley.
+(DEROGADO, P.O. 15 DE AGOSTO DE 2016)
 
 ###### Artículo 17.
 
 Son obligaciones del representante:
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
 
-I.- Revisar y confirmar las disposiciones establecidas por el signatario en el Documento o Formato de Voluntad Anticipada;
+I.- Revisar y conocer las disposiciones establecidas por el signatario en el Documento o Formato de Voluntad Anticipada;
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
 
-II.- Verificar el cumplimiento exacto e inequívoco de las disposiciones establecidas en el Documento o Formato de Voluntad Anticipada;
+II.- Verificar el cumplimiento de las disposiciones establecidas en el Documento o Formato de Voluntad Anticipada;
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
-
-III.- Confirmar los cambios y modificaciones que realice el signatario al Documento o Formato de Voluntad Anticipada;
+III.- (DEROGADA, P.O. 15 DE AGOSTO DE 2016)
 
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -295,55 +325,31 @@ II.- Muerte del representante;
 
 III.- Muerte del representado;
 
-IV.- Incapacidad legal, declarada en forma;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
 
-V.- Excusa que el juez califique de legítima, con audiencia de los interesados y del Ministerio Público, cuando existan intereses de menores o el Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo, en el ámbito de sus atribuciones; y
+IV.- Incapacidad legal del representante;
+
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+V.- Por renuncia expresa del representante con treinta días de anticipación.
 
 VI.- Revocación o remoción de sus nombramientos, hecha por el signatario para su realización.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
-
 ###### Artículo 19.
 
-Podrán suscribir el Documento o Formato de Voluntad Anticipada en los términos establecidos por la fracción II del Artículo 7 de la presente Ley, por orden de prelación:
+(DEROGADO, P.O. 15 DE AGOSTO DE 2016)
 
-l.- Él o la cónyuge;
-
-II.- El concubinario o la concubina;
-
-III.- Los hijos mayores de edad, consanguíneos o adoptados;
-
-IV.- Los padres o adoptantes;
-
-V.- Los nietos mayores de edad; y
-
-VI.- Los hermanos mayores de edad o emancipados.
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
-
-El familiar signatario del Documento o Formato de Voluntad Anticipada, fungirá como representante del paciente en fase terminal, para los efectos de cumplimiento a que haya lugar.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 20.
 
-Podrán suscribir el Documento o Formato de Voluntad Anticipada en los términos establecidos por la fracción III del artículo 7 de la presente Ley, por orden de prelación y subsecuentemente:
+Podrán suscribir el formato de voluntad anticipada para el caso de los menores de edad, los representantes legales.
 
-l.- Los padres o adoptantes;
-
-II.- Los familiares o personas que ejerzan la patria potestad del menor; o
-
-III.- Los hermanos mayores de edad o emancipados;
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
-
-El familiar signatario del Documento o Formato de Voluntad Anticipada, fungirá como representante del paciente en su fase terminal, para los efectos de cumplimiento a que haya lugar.
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+Previa valoración del personal de salud competente y en su caso del comité hospitalario de bioética, se hará constar la opinión del menor.
 
 ###### Artículo 21.
 
-Podrán suscribir igualmente el Documento o Formato de Voluntad Anticipada, si los hubiese, los hijos mayores de dieciséis años y menores de dieciocho años, a falta de las personas facultadas en los dos artículos anteriores.
+(DEROGADO, P.O. 15 DE AGOSTO DE 2016)
 
 ###### Artículo 22.
 
@@ -367,29 +373,19 @@ Si la identidad del signatario no pudiere verificarse, se declarará esta circun
 
 En caso de que el Formato de Voluntad Anticipada sea suscrito en los términos del artículo 10 de la presente Ley, igualmente deberá darse lectura en voz alta, a efecto de que el signatario asiente que es su voluntad la que se encuentra manifiesta en dicho Formato.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
-
 ###### Artículo 27.
 
-Se prohíbe a la persona que haya de redactar los Formatos de Voluntad Anticipada, dejar hojas y espacios en blanco y utilizar abreviaturas o cifras, bajo la pena de trescientos a quinientos días de salario mínimo general vigente como multa, sin perjuicio de las acciones legales que resultaren hacia el infractor o de ejercitar acción penal en su contra.
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+(DEROGADO, P.O. 15 DE AGOSTO DE 2016)
 
 ###### Artículo 27 Bis.
 
-Cuando el signatario declare que no sabe o no puede firmar el Documento o Formato de Voluntad Anticipada, según sea el caso, deberá suscribirse ante dos testigos, y uno de ellos firmará a petición del signatario, quien estampará su huella digital.
+(DEROGADO, P.O. 15 DE AGOSTO DE 2016)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 28.
 
-En el Documento o Formato de Voluntad Anticipada, otorgado ante Notario Público o ante el personal responsable de salud, facultado por la Secretaría, deberá hacerse contar con la voluntad clara y terminante del paciente en fase terminal, cumpliendo con los requisitos de ésta Ley y procediéndose a su lectura para que los participantes expresen su conformidad.
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
-
-El Documento o Formato de Voluntad Anticipada será firmado por el signatario, el Notario Público, el personal de salud, los testigos y el intérprete, si lo hay; asentándose lugar hora y fecha de su otorgamiento.
-
-El enfermo en fase terminal se hará acompañar de quien actúe como su representante, para asentar la aceptación del cargo.
+En el Documento o Formato de Voluntad Anticipada, otorgado en términos de ley ante Notario Público o ante el médico tratante, se procederá a su lectura para que las personas participantes expresen su conformidad.
 
 ###### Artículo 29.
 
@@ -415,13 +411,15 @@ Cuando el signatario ignore el idioma español, su voluntad será traducida por 
 
 La traducción se transcribirá como Documento de Voluntad Anticipada y tanto el suscrito en el idioma original como el traducido, serán firmados por el signatario, el intérprete y el Notario, integrándose como un solo documento.
 
-Si el signatario no puede o no sabe leer, dictará al intérprete su voluntad, en si (sic) idioma, traducida ésta, se procederá como dispone el párrafo primero de este Artículo.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+Si el signatario no puede o no sabe leer, dictará al intérprete su voluntad, en su idioma, traducida ésta, se procederá como dispone el párrafo primero de este artículo.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 33.
 
-Las formalidades expresadas en este capítulo se practicarán en un solo acto, que comenzará con la lectura del Documento o Formato de Voluntad Anticipada y el Notario o la persona facultada para el efecto, dará fe de haberse cumplido aquéllas.
+Las formalidades expresadas en este capítulo se practicarán en un solo acto, que comenzará con la lectura del Documento o Formato de Voluntad Anticipada por el Notario o médico tratante.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -435,7 +433,7 @@ El signatario o su representante deberán entregar el Documento o Formato de Vol
 
 Es nula la Voluntad Anticipada elaborada bajo las siguientes circunstancias:
 
-I.- Carecer de alguna información específicamente solicitada;
+l.- (DEROGADA, P.O. 15 DE AGOSTO DE 2016)
 
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -443,7 +441,7 @@ II.- Realizarla en formato diferente al establecido;
 
 III.- Otorgarse bajo la influencia de amenazas contra el signatario o sus bienes, o contra la persona o bienes de su cónyuge, parientes, concubinario o concubina;
 
-IV.- Existir dolo o fraude;
+IV.- (DEROGADA, P.O. 15 DE AGOSTO DE 2016)
 
 V.- Cuando el enfermo en fase terminal, no exprese clara e inequívocamente su voluntad, sino sólo por señales o monosílabos en respuesta a las preguntas que se le hacen;
 
@@ -457,13 +455,11 @@ VII.- Aquel en el que medie alguno de los vicios del consentimiento para su real
 
 El signatario que se encuentre en alguno de los supuestos establecidos en el artículo anterior, podrá, luego que cese dicha circunstancia, revalidar su Documento o Formato de Voluntad Anticipada con las mismas solemnidades que si lo signara de nuevo; de lo contrario será nula la revalidación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 37.
 
-El Documento o Formato de Voluntad Anticipada, podrá ser revocado en cualquier momento únicamente por el signatario.
-
-Bajo ninguna circunstancia podrán hacerse valer disposiciones testamentarias, legatarias o donatarias de bienes, derechos u obligaciones diversos a los relativos a la Voluntad Anticipada en los procedimientos que regula la presente Ley.
+El Documento o Formato de Voluntad Anticipada, podrán ser revocados en cualquier momento únicamente por el signatario.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -473,13 +469,13 @@ En caso de que existan dos o más Documentos o Formatos de Voluntad Anticipada, 
 
 ### CAPÍTULO IV. DEL CUMPLIMIENTO DE LA VOLUNTAD ANTICIPADA
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 39.
 
-El cumplimiento de las disposiciones establecidas en el Documento o Formato de Voluntad Anticipada, deberá ser solicitado por el signatario o su representante al personal de salud de las dependencias gubernamentales o ante las instituciones privadas en el Estado.
+El cumplimiento de las disposiciones establecidas en el Documento o Formato de Voluntad Anticipada, deberá ser solicitado por el signatario o su representante a la Coordinación Especializada o ante las instituciones privadas en el Estado.
 
-El personal de salud correspondiente deberá realizar dichas disposiciones en los términos solicitados y prescritos en el Documento o Formato de Voluntad Anticipada y en referencia al derecho establecido sobre la no discriminación establecida en el Artículo 4, segundo y tercer párrafos de la Constitución Política del Estado de Hidalgo.
+La Coordinación Especializada o la institución privada deberá realizar dichas disposiciones en los términos solicitados y prescritos en el Documento o Formato de Voluntad Anticipada y en referencia al derecho establecido sobre la no discriminación establecida en el artículo 4, segundo y tercer párrafos de la Constitución Política del Estado de Hidalgo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -487,13 +483,15 @@ El personal de salud correspondiente deberá realizar dichas disposiciones en lo
 
 Al momento en que el personal de salud correspondiente dé inicio al cumplimiento de las disposiciones y términos contenidos en el Documento o Formato de Voluntad Anticipada, deberá asentar en el expediente clínico del paciente, la información que haga constar el plan de manejo médico hasta su terminación, en los términos de las disposiciones de salud correspondientes.
 
-Para los efectos del párrafo anterior se describirán los cuidados paliativos, las medidas mínimas ordinarias y la sedación controlada, que el personal, de salud correspondiente determine.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+Para los efectos del párrafo anterior se incluirán los cuidados paliativos, las medidas mínimas ordinarias, la sedación controlada y el tratamiento tanatológico que el personal de salud correspondiente determine.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 41.
 
-El personal de salud a cargo de cumplir las disposiciones establecidas en el Documento o Formato de Voluntad Anticipada y los ordenamientos de la presente Ley, cuyas creencias religiosas o convicciones personales sean contrarias a tales disposiciones, podrán excusarse de intervenir en su realización.
+El personal de salud a cargo de cumplir las disposiciones establecidas en el Documento o Formato de Voluntad Anticipada, podrán invocar la objeción de conciencia en términos de Ley.
 
 Será obligación de la Secretaría, garantizar y vigilar en las instituciones de salud, la oportuna prestación de los servicios y la permanente disponibilidad de personal de salud, a fin de verificar el cumplimiento de la Voluntad Anticipada del enfermo en fase terminal.
 
@@ -519,39 +517,37 @@ I.- Recibir, archivar, y resguardar los Documentos y Formatos de Voluntad Antici
 
 II.- Llevar el registro de Documentos y Formatos de Voluntad Anticipada a que se refiere la fracción anterior,
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
-
-III.- Hacer del conocimiento del Ministerio Público los Documentos y Formatos de Voluntad Anticipada; procedentes de las instituciones públicas y privadas de salud;
+III.- (DEROGADA, P.O. 15 DE AGOSTO DE 2016)
 
 IV.- Supervisar en la esfera de su competencia el cumplimiento de las disposiciones de esta Ley;
 
 V.- Fungir como vínculo con los Centros Nacional y Estatales de Trasplantes en el ámbito de su competencia;
 
-VI.- Facilitar el acceso a la información que resguarde, ajustándose a lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública Gubernamental; y
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+VI.- Facilitar el acceso a la información que resguarde, ajustándose a lo dispuesto en la ley en la material (sic); y
 
 VII.- Las demás le otorguen las otras Leyes y Reglamentos.
 
-### CAPÍTULO VI. DE LAS SANCIONES ADMINISTRATIVAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO VI. DE LAS RESPONSABILIDADES
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 44.
 
-La violación de las disposiciones de esta Ley, serán sancionadas administrativamente por la Secretaría, a través de la COPRISEH y podrán consistir en lo siguiente:
+El incumplimiento a las disposiciones de esta Ley, dará lugar a la responsabilidad civil que se determine, en términos de la Ley aplicable.
 
-I.- Amonestación con apercibimiento;
+En el caso de los prestadores de servicios de instituciones públicas, serán aplicables las disposiciones en materia de responsabilidades de los servidores públicos.
 
-II.- Multa;
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE AGOSTO DE 2016)</small>
 
-III.- Arresto Administrativo hasta por treinta y seis horas y
-
-IV.- Las demás que establezcan las Leyes y Reglamentos.
-
-Lo anterior sin perjuicio de las penas que correspondan cuando las violaciones tipifiquen hechos constitutivos de delitos.
-
-### CAPÍTULO VII. SANCIONES Y MEDIDAS DE SEGURIDAD
+### CAPÍTULO VII
 
 ###### Artículo 45.
 
-Los procedimientos para la aplicación de las medidas y sanciones se ajustarán a lo establecido por la Ley de Salud para el Estado de Hidalgo y la Ley Estatal del Procedimiento Administrativo.
+(DEROGADO, P.O. 15 DE AGOSTO DE 2016)
 
 T R A N S I T O R I O S
 
@@ -592,3 +588,9 @@ LIC. MIGUEL ÁNGEL OSORIO CHONG
 P.O. 2 DE SEPTIEMBRE DE 2013.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 698 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE VOLUNTAD ANTICIPADA PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
