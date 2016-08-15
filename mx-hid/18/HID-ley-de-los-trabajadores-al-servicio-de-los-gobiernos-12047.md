@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-trabajadores-al-servicio-de-los-gobiernos-12047"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2015-03-16"
+last_updated: "2016-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 16 DE MARZO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1987.
 
@@ -189,9 +187,63 @@ Por cada seis días de trabajo disfrutará el trabajador de un día de descanso,
 
 Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto, y de otros dos después del mismo. Durante el periodo de seis meses de lactancia establecido a partir de la fecha de nacimiento del hijo, tendrán dos descansos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos o para realizar la extracción manual de leche, en un lugar adecuado e higiénico que designe la institución o dependencia. Asimismo contarán con la capacitación y fomento para la promoción de lactancia materna y el amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante los primeros seis meses y complementario hasta avanzado el segundo año de edad.
 
-(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012) (F. DE E., P.O. 16 DE MARZO DE 2015)
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 15 DE AGOSTO DE 2016)</small>
 
-Los hombres disfrutarán de cinco días hábiles de descanso con goce de sueldo, posteriores al día de parto de su esposa o concubina. Este derecho, podrá ser disfrutado por las mujeres y hombres trabajadores en el supuesto de que adopten a un menor de edad, conforme a las leyes aplicables al respecto.
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
+ARTICULO 17 BIS.- Las servidoras y los servidores públicos, podrán solicitar a la Dirección de Administración, licencias con goce de sueldo, por los motivos siguientes:
+
+I. Paternidad y cuidados paternos;
+
+II. Adopción;
+
+III. Matrimonio; y
+
+IV. Fallecimiento de cónyuge, concubina o concubinario, de ascendiente o descendiente en primer grado.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
+ARTICULO 17 TER.- La servidora pública o el servidor público, deberán presentar por triplicado en la Dirección de Administración, la solicitud, con la documentación soporte, para su aprobación. Una vez que dicha área autorice el otorgamiento de la licencia, ésta lo hará del conocimiento al Titular del órgano de adscripción de la peticionaria o peticionario.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
+ARTICULO 17 QUATER.- La licencia por paternidad, se otorgará por diez días laborables consecutivos, contados a partir del día del nacimiento de la hija o hijo.
+
+La solicitud deberá ser presentada enseguida del nacimiento o al día siguiente, anexando la constancia de nacimiento expedida por el centro de salud público o privado, que acredite su paternidad.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
+ARTICULO 17 QUINQUIES.- Para cuidados paternos, los servidores públicos, podrán solicitar una ampliación de la licencia, bajo las circunstancias y periodos siguientes:
+
+I. En caso de enfermedad grave de la hija o hijo, recién nacido, así como de complicaciones graves de salud, que pongan en riesgo la vida de la madre, la licencia de paternidad podrá extenderse por un periodo de cinco días laborables continuos;
+
+II. En caso de parto múltiple, la licencia de paternidad, podrá extenderse por cinco días laborales continuos;
+
+III. En caso de que durante los primeros quince días, posteriores al parto, la madre fallezca, el servidor público, podrá solicitar licencia, por diez días laborables, adicionales al periodo correspondiente a su licencia de paternidad;
+
+En el caso de la fracción III, se deberá presentar ante el Titular de la Dirección de Administración del órgano de su adscripción, la ampliación de licencia, anexando copia certificada del acta de defunción.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
+ARTICULO 17 SEXIES.- La licencia por adopción procede cuando se adopte individualmente o en pareja y será de diez días laborables.
+
+Para tal efecto, la servidora o el servidor público, deberán informar al área de su adscripción y presentar ante la Dirección de Administración, la documentación que acredite la adopción.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
+ARTICULO 17 SEPTIES.- Las licencias por matrimonio, se otorgarán hasta por cinco días laborables. La solicitud deberá presentarse, cuando menos diez días hábiles, antes del evento.
+
+La servidora o el servidor público, deberán entregar a la Dirección de Administración, la copia certificada del acta de matrimonio, al día siguiente del término de la licencia.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
+ARTICULO 17 OCTIES.- Por el fallecimiento de la cónyuge, el cónyuge, concubina o concubino, de los ascendientes o descendientes en primer grado, la licencia se otorgará por diez días laborables.
+
+En este caso, la servidora o servidor público, deberán informar del deceso, al titular del órgano de su adscripción y éste, a la Dirección de Administración, para la validación correspondiente, una vez presentada la copia certificada del acta de defunción.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
+ARTICULO 17 NOVIES (SIC).- En el supuesto de no presentarse las Actas o documentos comprobatorios, que justifiquen la procedencia de la licencia, se considerará que se otorgó sin goce de sueldo.
 
 ###### ARTICULO 18.
 
@@ -1210,3 +1262,9 @@ P.O. 22 DE DICIEMBRE DE 2014.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 Segundo. Se concede un plazo de sesenta días naturales, contados a partir de la fecha en que entren en vigor estas reformas, para que las empresas, instituciones, dependencias y en general, todos los obligados conforme a esta ley efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones establecidas.
+
+P.O. 15 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 696 QUE ADICIONA LOS ARTÍCULOS 17 BIS, 17 TER, 17 QUATER, 17 QUINQUIES, 17 SEXIES, 17 SEPTIES, 17 OCTIES, 17 NONIES; Y DEROGA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 17, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO".]
+
+ÚNICO.- El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
