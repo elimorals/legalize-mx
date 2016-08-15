@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2016-08-01"
+last_updated: "2016-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -243,7 +243,9 @@ VII.- Promover la solidaridad y la participación ciudadana para consensar progr
 
 VIII.- Promover su participación activa en la formulación de las políticas públicas que les afecten;
 
-IX.- Impulsar el desarrollo humano integral de los adultos mayores, observando el principio de equidad de género, por medio de programas y acciones a fin de garantizar la igualdad de derechos, oportunidades y responsabilidades de hombres y mujeres; así como la revaloración del adulto mayor en la vida social, económica, política, cultural y familiar;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+IX.- Impulsar el desarrollo humano integral de los adultos mayores, observando el principio de igualdad de género, por medio de programas y acciones a fin de garantizar la igualdad de derechos, oportunidades y responsabilidades de hombres y mujeres; así como la revaloración del adulto mayor en la vida social, económica, política, cultural y familiar;
 
 X.- Fomentar la permanencia, cuando así lo deseen, dentro de su núcleo familiar y comunitario;
 
@@ -341,7 +343,7 @@ VI.- Realizar campañas y jornadas especiales de prevención de accidentes, enfe
 
 VII.- Implementar programas y concertar convenios con las instituciones de salud del Gobierno Federal y de la iniciativa privada, con el propósito de que incluya dentro de estas instituciones: Geriatría, Gerontología y Tanalogía (sic), para la atención médica y administrativa a fin de que los adultos mayores puedan tener acceso a los servicios de atención médica que les proporcione el sistema de salud;
 
-VIII.- Vigilar que en las instituciones públicas, privadas y sociales, que otorguen atención médica, cuenten con personal que posea preparación, capacidad y conocimientos en el cuidado del los (sic) adultos mayores;
+VIII.- Vigilar que en las instituciones públicas, privadas y sociales, que otorguen atención médica, cuenten con personal que posea preparación, capacidad y conocimientos en el cuidado del (sic) los adultos mayores;
 
 IX.- Garantizar, prevenir y controlar los efectos nocivos de los factores ambientales en la salud, mediante programas de saneamiento básico que eviten el contagio por enfermedades transmisibles;
 
@@ -453,7 +455,9 @@ I.- Recibir y atender las quejas emitidas que causen violación a los derechos d
 
 II.- Emitir recomendaciones a las autoridades competentes de las dependencias públicas involucradas, en la violación de los derechos de los adultos mayores;
 
-III.- Llevar un seguimiento de todas aquellas recomendaciones emitidas a las instituciones o dependencias públicas para que impulsen el desarrollo humano integral, observando el principio de equidad de género, garantizando la igualdad de derechos, oportunidades y responsabilidades de los adultos mayores, así como su integración en la vida social, económica, política, cultural y familiar;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+III.- Llevar un seguimiento de todas aquellas recomendaciones emitidas a las instituciones o dependencias públicas para que impulsen el desarrollo humano integral, observando el principio de igualdad de género, garantizando la igualdad de derechos, oportunidades y responsabilidades de los adultos mayores, así como su integración en la vida social, económica, política, cultural y familiar;
 
 IV.- Recomendar a las Instituciones o Dependencias Públicas, la difusión de una cultura de respeto a los derechos humanos de las personas, así como observar la Ley de Discriminación;
 
@@ -606,5 +610,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 P.O. 1 DE AGOSTO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 686.- QUE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN V DEL ARTICULO 7, DE LA LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 692.- QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO, LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO, LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO, LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO, LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE HIDALGO, LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO, LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE TULA-TEPEJI Y LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN TODAS DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
