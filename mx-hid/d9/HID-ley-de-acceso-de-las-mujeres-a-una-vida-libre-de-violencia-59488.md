@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2016-08-01"
+last_updated: "2016-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -701,7 +701,9 @@ XII.- Promover políticas de igualdad de condiciones y oportunidades entre mujer
 
 XIII.- Promover políticas de prevención y atención de la violencia contra las mujeres;
 
-XIV.- Coordinar la armonización legislativa para erradicar la discriminación y violencia de género, conjuntamente con el Instituto Hidalguense de las Mujeres, pudiendo invitar o establecer coordinación con la Comisión de Equidad de Género del Congreso del Estado, al Poder Judicial así como a la sociedad civil organizada, a fin de evitar cualquier declaratoria de alerta de género, con motivo del agravio comparado; y
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+XIV.- Coordinar la armonización legislativa para erradicar la discriminación y violencia de género, conjuntamente con el Instituto Hidalguense de las Mujeres, pudiendo invitar o establecer coordinación con la Comisión de Igualdad de Género del Congreso del Estado, al Poder Judicial así como a la sociedad civil organizada, a fin de evitar cualquier declaratoria de alerta de género, con motivo del agravio comparado; y
 
 XV.- Las demás previstas para el cumplimiento de la presente Ley.
 
@@ -1165,6 +1167,12 @@ P.O. 30 DE MARZO DE 2015.
 
 P.O. 1 DE AGOSTO DE 2016.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 680 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE HOMBRES Y MUJERES DEL ESTADO DE HIDALGO; DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO; ASÍ COMO DE LA LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 680 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE HOMBRES Y MUJERES DEL ESTADO DE HIDALGO; DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO; ASÍ COMO DE LA LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE AGOSTO DE 2016
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 692 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO, LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO, LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO, LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO, LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE HIDALGO, LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO, LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE TULA-TEPEJI Y LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN TODAS DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
