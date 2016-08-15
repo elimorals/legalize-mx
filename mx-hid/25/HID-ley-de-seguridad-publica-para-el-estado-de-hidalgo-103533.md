@@ -4,7 +4,7 @@ identifier: "HID-ley-de-seguridad-publica-para-el-estado-de-hidalgo-103533"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-10"
-last_updated: "2015-11-16"
+last_updated: "2016-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -405,7 +405,9 @@ XXXVII. Establecer las bases sobre las cuales se prestarán los servicios de seg
 
 XXXVIII. Solicitar en situaciones de emergencia el auxilio de los prestadores de servicios de seguridad privada en la entidad de acuerdo a lo señalado por esta Ley, la Ley de Seguridad Privada para el Estado de Hidalgo, su Reglamento y demás disposiciones aplicables,
 
-XXXIX. Vigilar y Establecer la inclusión de Programas de Equidad y Género.
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+XXXIX. Vigilar y Establecer la inclusión de Programas de Igualdad y Género;
 
 XL. Establecer un Sistema de monitoreo permanente de la violencia con información diferenciada por sexo, origen étnico entre otras, en términos de la Ley de Acceso;
 
@@ -2750,3 +2752,9 @@ CUARTO. Todos los asuntos de la Coordinación de Investigación que se encuentre
 QUINTO. Se abroga la Ley Orgánica del Ministerio Público, publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 2007.
 
 SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 692 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO, LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO, LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO, LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO, LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE HIDALGO, LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO, LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE TULA-TEPEJI Y LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN TODAS DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
