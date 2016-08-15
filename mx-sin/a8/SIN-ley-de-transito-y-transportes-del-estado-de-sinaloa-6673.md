@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-transito-y-transportes-del-estado-de-sinaloa-6673"
 country: "mx"
 rank: "ley"
 publication_date: "1993-04-09"
-last_updated: "2016-08-10"
+last_updated: "2016-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE TRÁNSITO Y TRANSPORTES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 9 de abril de 1993.
 
@@ -1109,6 +1109,10 @@ III. Sanciones económicas, de conformidad al tabulador de infracciones vigente;
 
 IV. Las demás previstas en el presente ordenamiento y otras disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
+Sin perjuicio de la imposición de las sanciones anteriores; cuando de una infracción se determine que el conductor del vehículo encuadra en el supuesto contemplado por el artículo 213 Bis, la autoridad de tránsito responsable, deberá dar aviso a la Dirección de Trabajo y Previsión Social para que ésta en el área de su competencia, inicie el procedimiento correspondiente a fin de determinar si el conductor del vehículo, el responsable o titular de la concesión de transporte público, así como el patrón son acreedores a las sanciones contenidas en la Ley Federal del Trabajo.
+
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 171.
@@ -1339,6 +1343,16 @@ El servicio a que se refiere el artículo anterior se prestará en una zona dete
 
 El transporte público de personal a los campos agrícolas y empresas, es aquél de segunda que se presta en vehículos abiertos o cerrados, con las garantías de seguridad necesarias que se den por zona o regiones del Estado de Sinaloa. Su operación estará prevista en el Reglamento de la presente Ley.
 
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
+ARTICULO 213 BIS. El Estado vigilará que los concesionarios de transporte público de personal a los campos agrícolas, así como sus conductores y los patrones que contraten a estos, se apeguen en lo conducente a la presente Ley y su Reglamento, y a la legislación laboral según sea el caso.
+
+Queda prohibido el transporte al trabajo a los campos agrícolas a menores de dieciocho años.
+
+Es obligación del concesionario para prestar este servicio público, así como de los conductores y los patrones en su caso, asegurarse del cumplimiento de lo dispuesto en el párrafo anterior.
+
+Las autoridades de tránsito deberán dar aviso de inmediato a la Dirección de Trabajo y Previsión Social cuando de la aplicación de esta Ley y su Reglamento detecten que se está incumpliendo con lo dispuesto en este artículo a efecto de que se inicien las acciones y procedimientos correspondientes.
+
 ###### ARTICULO 214.
 
 Los automóviles de alquiler deberán llevar en lugar visible las tarifas autorizadas o un aparato aprobado por Tránsito y Transportes que registre el precio por el servicio.
@@ -1559,9 +1573,13 @@ V. Prestar servicios de emergencia gratuitamente cuando así lo requiera el Ejec
 
 VI. En el caso de servicio exclusivo de turismo, señalar en el texto del boleto los servicios y prestaciones a los que el usuario tiene derecho y que tengan relación directa con el servicio turístico;
 
-VII. Vigilar que los conductores de los vehículos obtengan la licencia respectiva y cumplan con las disposiciones legales de la materia, siendo solidariamente responsables por la violación a este precepto con quienes tengan a su cargo la responsabilidad directa de la conducción de vehículos; y
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2016)</small>
 
-VIII. Cumplir las demás obligaciones contenidas en esta Ley y sus Reglamentos.
+VII. En el caso de servicio exclusivo de transporte público de personal y de empresas a los campos agrícolas, asegurarse que se respeten las obligaciones a las que se hacen referencia en el artículo 213 Bis de esta Ley.
+
+VIII. Vigilar que los conductores de los vehículos obtengan la licencia respectiva y cumplan con las disposiciones legales de la materia, siendo solidariamente responsables por la violación a este precepto con quienes tengan a su cargo la responsabilidad directa de la conducción de vehículos; y
+
+IX. Cumplir las demás obligaciones contenidas en esta Ley y sus Reglamentos.
 
 ###### ARTICULO 251.
 
@@ -1697,7 +1715,9 @@ III. Informar sobre los traspasos y ventas clandestinas de concesiones o permiso
 
 IV. Realizar las actividades necesarias para el control, cumplimiento y mejoramiento de la prestación del servicio;
 
-V. Levantar las actas necesarias para hacer constar las transgresiones, a la legislación que en materia de transporte de servicio público se cometan; y
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+V. Levantar las actas necesarias para hacer constar las transgresiones, a la legislación que en materia de transporte de servicio público se cometan; así como las violaciones a los ordenamientos jurídicos en materia laboral, en términos de lo dispuesto por el artículo 213 Bis, procediendo de conformidad con lo previsto en el artículo 170, segundo párrafo de la presente Ley; y
 
 VI. Impedir la conducción y circulación de los vehículos de transportes, en los casos que esta Ley y su Reglamento señalan.
 
@@ -1924,3 +1944,9 @@ TERCERO. Los Ayuntamientos contarán con un plazo de 90 días posteriores al ini
 CUARTO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el 27 de enero del presente año, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado Decreto.
 
 QUINTO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 636 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO Y TRANSPORTES DEL ESTADO DE SINALOA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
