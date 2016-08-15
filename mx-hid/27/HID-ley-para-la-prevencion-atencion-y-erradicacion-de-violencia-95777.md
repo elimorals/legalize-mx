@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-prevencion-atencion-y-erradicacion-de-violencia-957
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-02"
-last_updated: "2015-06-08"
+last_updated: "2016-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY PARA LA PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE VIOLENCIA ESCOLAR EN EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 8 DE JUNIO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 2 de septiembre de 2013.
 
@@ -207,7 +205,9 @@ II.- Vigilar el cumplimiento de las acciones, proyectos y políticas del Program
 
 III.- Diseñar, elaborar e implementar mecanismos de información, capacitación y especialización sobre la prevención, atención y erradicación de violencia escolar, el respeto a los derechos humanos de las y los niños, las y los jóvenes; dando prioridad al bienestar emocional de la víctima y la reincorporación del generador hacia formas de convivencia sanas y libres de violencia;
 
-IV.- Garantizar la capacitación concurrente con las autoridades previstas en esta Ley, a la comunidad educativa de las escuelas públicas y privadas en el Estado de Hidalgo, sobre prevención, atención y erradicación a los casos que se presenten en materia de violencia escolar;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+IV.- Garantizar la capacitación concurrente con las autoridades previstas en esta Ley, a la comunidad educativa de las escuelas públicas y privadas en el Estado de Hidalgo, sobre prevención, atención y erradicación a los casos que se presenten en materia de violencia escolar, promoviendo en todo momento valores con pleno respeto a los Derechos humanos.
 
 V.- Establecer los mecanismos, estrategias de funcionamiento e integración, así como la metodología y el procedimiento para el correcto desarrollo del REPAEVE;
 
@@ -504,3 +504,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 697 QUE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 10, DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE VIOLENCIA ESCOLAR EN EL ESTADO DE HIDALGO".]
+
+ÚNICO.- El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
