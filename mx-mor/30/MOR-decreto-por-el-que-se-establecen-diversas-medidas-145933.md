@@ -4,7 +4,7 @@ identifier: "MOR-decreto-por-el-que-se-establecen-diversas-medidas-145933"
 country: "mx"
 rank: "decreto"
 publication_date: "2016-08-14"
-last_updated: "2016-08-14"
+last_updated: "2016-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145933&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # DECRETO POR EL QUE SE ESTABLECEN DIVERSAS MEDIDAS ADMINISTRATIVAS CON RELACION A LA IMPLEMENTACION DEL SISTEMA INTEGRADO DE TRANSPORTE MASIVO PREVISTO POR LA LEY DE TRANSPORTE DEL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE AGOSTO DE 2016 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 DECRETO POR EL QUE SE ESTABLECEN DIVERSAS MEDIDAS ADMINISTRATIVAS CON RELACIÓN A LA IMPLEMENTACIÓN DEL SISTEMA INTEGRADO DE TRANSPORTE MASIVO PREVISTO POR LA LEY DE TRANSPORTE DEL ESTADO DE MORELOS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE AGOSTO DE 2016.]</small>
 
 Decreto publicado en el Periódico Oficial del Estado de Morelos, el domingo 14 de agosto de 2016.
 
@@ -45,7 +45,9 @@ DECRETO POR EL QUE SE ESTABLECEN DIVERSAS MEDIDAS ADMINISTRATIVAS CON RELACIÓN 
 
 De manera inicial, el Sistema Integrado de Transporte Masivo a que se refiere la Ley de Transporte del Estado de Morelos, solo se implementará en la Zona Metropolitana de Cuernavaca, que comprende los municipios de Cuernavaca, Jiutepec, Huitzilac, Tepoztlán, Temixco, Emiliano Zapata y Xochitepec, todos del estado de Morelos.
 
-En las regiones oriente y sur poniente de la entidad, la implementación del Sistema a que se refiere el párrafo anterior, quedará condicionada a la previa realización de los estudios de factibilidad correspondientes y el resultado que de ellos se arroje, conforme a lo dispuesto por la citada Ley.
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2016)</small>
+
+En las regiones oriente y sur poniente de la entidad, la implementación del Sistema a que se refiere el párrafo anterior, quedará suspendida hasta la previa realización de los estudios de factibilidad correspondientes y el resultado que de ellos se arroje, conforme a lo dispuesto por la citada Ley, sin que ello conlleve a la pérdida de la titularidad como concesionario.
 
 Los estudios que se realicen en términos de este artículo y la normativa aplicable, tendrán como referencia y base, al Plan Integral de Movilidad Urbana Sustentable para la Zona Metropolitana de Cuernavaca (PIMUS).
 
@@ -57,9 +59,11 @@ En todo el estado de Morelos, el otorgamiento de nuevas concesiones o permisos, 
 
 Se faculta a la Secretaría de Movilidad y Transporte del Poder Ejecutivo para que, con base en los estudios de factibilidad, los censos realizados y las necesidades de la población en términos de la Ley de Transporte del Estado de Morelos; regularice y refrende títulos de concesión, sucesiones o reasignaciones pendientes, de ser procedente, conforme a la normativa aplicable.
 
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO CUARTO.
 
-Se instruye a la persona titular de la Secretaría de Movilidad y Transporte del Poder Ejecutivo para que, auxiliándose de las demás Secretarías, Dependencias y Entidades de la Administración Pública Estatal, conforme al ámbito de su respectiva competencia; lleve a cabo foros de consulta pública con respecto a la modernización del Servicio de Transporte Público, en las distintas zonas y regiones del Estado, con la principal participación de los concesionarios.
+Se instruye a la persona titular de la Secretaría de Movilidad y Transporte del Poder Ejecutivo para que, auxiliándose de las demás Secretarías, Dependencias y Entidades de la Administración Pública Estatal, conforme al ámbito de su respectiva competencia; lleve a cabo foros de consulta pública con respecto a la modernización del Servicio de Transporte Público, en las distintas zonas y regiones del Estado, con la principal participación de los actuales concesionarios.
 
 DISPOSICIONES TRANSITORIAS
 
