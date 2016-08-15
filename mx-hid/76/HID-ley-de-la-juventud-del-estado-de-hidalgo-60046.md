@@ -4,7 +4,7 @@ identifier: "HID-ley-de-la-juventud-del-estado-de-hidalgo-60046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2016-07-25"
+last_updated: "2016-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -37,9 +37,7 @@ QUE CONTIENE LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO.
 
 El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confiere el Artículo 56 fracciones I y II de la Constitución Política del Estado Libre y Soberano de Hidalgo, D E C R E T A:
 
-ANTECEDENTES
-
-.
+ANTECEDENTES...
 
 POR TODO LO EXPUESTO, ESTE HONORABLE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -61,7 +59,7 @@ La presente Ley va dirigida a jóvenes menores y mayores de edad, lo cual debe s
 
 Para efectos de esta Ley se entiende por:
 
-l.- Joven.- Hombres o mujeres con edad comprendida entre los doce y veintinueve años;
+I.- Joven.- Hombres o mujeres con edad comprendida entre los doce y veintinueve años;
 
 II.- Estado.- Estado Libre y Soberano de Hidalgo;
 
@@ -433,6 +431,10 @@ El Gobierno a través del Programa dispondrá de los recursos, medios y lineamie
 
 Los jóvenes tienen derecho a ejercer sus capacidades de opinión, análisis, crítica y de presentar propuestas en todos los ámbitos en los que viven, sin más limitaciones que las que dicten el respeto de los derechos de terceros.
 
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
+Estas propuestas serán realizadas mediante los mecanismos de participación ciudadana y serán canalizadas a través de (sic) Instituto de la Juventud, quien deberá de dar seguimiento a las mismas, además de establecer los medios adecuados para evaluar la pertinencia de las propuestas.
+
 ###### Artículo 44.
 
 Los jóvenes tienen derecho de reunirse sin más restricción que el respeto de los derechos de terceros, contando con el reconocimiento y apoyo del Gobierno y de otros sectores sociales e institucionales.
@@ -586,6 +588,10 @@ XXI.- Gestionar ante las autoridades competentes, en beneficio de los jóvenes, 
 XXII.- Promover el establecimiento de Comités Municipales de la Juventud y establecer criterios para la coordinación y concertación de acciones; y
 
 XXIII.- Las demás que le sean conferidas en la presente Ley y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+XXIV. Establecer mecanismos consultivos de participación ciudadana; como lo son: foros, congresos, coloquios, consultas, entre otros, en los temas que por demanda de las y los jóvenes se requiera la intervención del Gobierno del Estado de Hidalgo, a efecto de tomar en cuenta la opinión de la juventud.
 
 ### CAPÍTULO II. DE LOS ÓRGANOS DE ADMINISTRACIÓN
 
@@ -1040,3 +1046,9 @@ P.O. 25 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 676 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE JUVENTUD DEL ESTADO DE HIDALGO".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 691 QUE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 43; Y UNA FRACCIÓN XXIV AL ARTÍCULO 58, DE LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
