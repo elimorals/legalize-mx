@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-fisica-deporte-y-recreacion-para-el-estado-65691
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2016-07-04"
+last_updated: "2016-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2008.
 
@@ -239,7 +239,9 @@ III.- Determinar las facultades y obligaciones de las autoridades Estatales, Mun
 
 IV.- Normar la actividad de las asociaciones deportivas y establecer sus derechos y obligaciones;
 
-V.- Garantizar mecanismos de equidad en la práctica deportiva a sus trabajadores; y
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+V.- Garantizar mecanismos de igualdad de oportunidades en la práctica deportiva a sus trabajadores; y
 
 VI.- Promover la cultura de la educación física y el deporte entre los habitantes del Estado.
 
@@ -1680,3 +1682,9 @@ P.O. 4 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 671 QUE REFORMA LOS ARTÍCULOS 3 Y 14, DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO.- El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 692 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO, LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO, LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO, LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO, LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE HIDALGO, LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO, LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE TULA-TEPEJI Y LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN TODAS DEL ESTADO DE HIDALGO".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
