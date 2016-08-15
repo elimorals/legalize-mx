@@ -4,7 +4,7 @@ identifier: "HID-estatuto-organico-de-los-servicios-de-salud-de-hidalgo-116037"
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-08-08"
-last_updated: "2016-08-08"
+last_updated: "2016-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # ESTATUTO ORGANICO DE LOS SERVICIOS DE SALUD DE HIDALGO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE AGOSTO DE 2016 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DE LOS SERVICIOS DE SALUD DE HIDALGO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE HIDALGO DEL 15 DE AGOSTO DE 2016.]</small>
 
 Estatuto publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 8 de agosto de 2016.
 
@@ -375,59 +375,107 @@ II. Proponer y operar los lineamientos de salud pública que se aplicarán en el
 
 III. Aplicar las políticas y normas relativas a la prevención y control de las enfermedades y de los riesgos para la salud emanados por los niveles Federal, Estatal y Municipal;
 
-IV. Autorizar la formalización de sistemas, modelos, lineamientos y procedimientos sobre educación y fomento a+ (sic)
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2016)</small>
 
-V. .la (sic) salud en el Organismo;
+IV. Autorizar la formalización de sistemas, modelos, lineamientos y procedimientos sobre educación y fomento a la salud en el Organismo;
 
-VI. Fomentar la investigación para la atención, prevención y control de las enfermedades y riesgos para la salud;
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2016)</small>
 
-VII. Establecer, dirigir y evaluar la prestación de servicios de salud del Organismo;
+V. Fomentar la investigación para la atención, prevención y control de las enfermedades y riesgos para la salud;
 
-VIII. Inducir la participación de los sectores público, social y privado en los programas de prevención y control de enfermedades;
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2016)</small>
 
-IX. Establecer las comisiones y los comités que sean necesarios para la mejor instrumentación de los programas y asuntos competencia del Organismo;
+VI. Establecer, dirigir y evaluar la prestación de servicios de salud del Organismo;
 
-X. Proponer a la Junta de Gobierno el nombramiento o remoción de los dos niveles administrativos inmediatos inferiores al de la persona titular de la Dirección General del Organismo, así como nombrar o remover al demás personal con apego a las disposiciones legales aplicables en la materia;
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2016)</small>
 
-XI. Determinar las actualizaciones del Programa Institucional del Organismo, el cual deberá ser congruente con la actualización que sobre el particular establezcan las dependencias del Gobierno del Estado de Hidalgo, respecto a los planes de desarrollo;
+VII. Inducir la participación de los sectores público, social y privado en los programas de prevención y control de enfermedades;
 
-XII. Presentar ante la Junta de Gobierno los informes de evaluación de la gestión y actividades, así como de los programas y proyectos implementados definiendo para tal efecto objetivos, estrategias, líneas de acción, indicadores, metas específicas y resultados;
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2016)</small>
 
-XIII. Informar a la Junta de Gobierno y a la Secretaría de Planeación, Desarrollo Regional y Metropolitano sobre el avance físico y financiero de obras y acciones;
+VIII. Establecer las comisiones y los comités que sean necesarios para la mejor instrumentación de los programas y asuntos competencia del Organismo;
 
-XIV. Presentar ante la Junta de Gobierno los informes de la evaluación de ingresos y egresos, complementados con indicadores de resultados;
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2016)</small>
 
-XV. Establecer sistemas de evaluación de resultados de gasto público en función de sus objetivos, programas, proyectos y metas aprobadas de conformidad con los lineamientos emitidos por autoridades federales y estatales;
+IX. Proponer a la Junta de Gobierno el nombramiento o remoción de los dos niveles administrativos inmediatos inferiores al de la persona titular de la Dirección General del Organismo, así como nombrar o remover al demás personal con apego a las disposiciones legales aplicables en la materia;
 
-XVI. Presentar el anteproyecto de cuotas y tarifas ante la Junta de Gobierno para su aprobación, de conformidad con los lineamientos que establezca la Secretaría de Finanzas y Administración;
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2016)</small>
 
-XVII. Mantener actualizado el registro y control de los bienes de dominio del Organismo que tenga a su cargo, así como enviar a la Secretaría de Finanzas y Administración el informe del estado que guarda su patrimonio inmobiliario;
+X. Determinar las actualizaciones del Programa Institucional del Organismo, el cual deberá ser congruente con la actualización que sobre el particular establezcan las dependencias del Gobierno del Estado de Hidalgo, respecto a los planes de desarrollo;
 
-XVIII. Dar cumplimiento a las disposiciones fiscales federales, estatales y observar la normatividad que en materia de ingresos propios emita la Secretaría de Finanzas y Administración del Gobierno del Estado de Hidalgo y el Congreso del Estado Libre y Soberano de Hidalgo;
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2016)</small>
 
-XIX. Dar cumplimiento a las observaciones que determinen las instancias fiscalizadoras, en los plazos que indiquen éstas en sus leyes o reglamentos;
+XI. Presentar ante la Junta de Gobierno los informes de evaluación de la gestión y actividades, así como de los programas y proyectos implementados definiendo para tal efecto objetivos, estrategias, líneas de acción, indicadores, metas específicas y resultados;
 
-XX. Proponer para su aprobación por la Junta de Gobierno, las reformas o adiciones al Estatuto;
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2016)</small>
 
-XXI. Autorizar los manuales de organización y procedimientos del Organismo;
+XII. Informar a la Junta de Gobierno y a la Secretaría de Planeación, Desarrollo Regional y Metropolitano sobre el avance físico y financiero de obras y acciones;
 
-XXII. Establecer el Programa de racionalidad, disciplina y eficiencia del gasto público, incluyendo estructura orgánica, plantilla de personal así como el parque vehicular;
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2016)</small>
 
-XXIII. Establecer, en congruencia con la normatividad y procedimientos aplicables, la administración del Sistema Integral de Archivos del Organismo;
+XIII. Presentar ante la Junta de Gobierno los informes de la evaluación de ingresos y egresos, complementados con indicadores de resultados;
 
-XXIV. Establecer los mecanismos al interior del Organismo para garantizar el derecho de acceso a la información pública de conformidad con la normatividad y procedimientos aplicables;
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2016)</small>
 
-XXV. Vigilar el cumplimiento de las disposiciones en materia de contabilidad gubernamental;
+XIV. Establecer sistemas de evaluación de resultados de gasto público en función de sus objetivos, programas, proyectos y metas aprobadas de conformidad con los lineamientos emitidos por autoridades federales y estatales;
 
-XXVI. Impulsar la profesionalización y capacitación continua del personal del Organismo;
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2016)</small>
 
-XXVII. Regular las relaciones laborales del personal del Organismo;
+XV. Presentar el anteproyecto de cuotas y tarifas ante la Junta de Gobierno para su aprobación, de conformidad con los lineamientos que establezca la Secretaría de Finanzas y Administración;
 
-XXVIII. Aprobar los lineamientos en materia de programación, presupuestación y administración integral de los recursos humanos, materiales y financieros del Organismo;
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2016)</small>
 
-XXIX. Determinar las acciones en materia de igualdad de género, y acceso a una vida libre de violencia al interior del Organismo;
+XVI. Mantener actualizado el registro y control de los bienes de dominio del Organismo que tenga a su cargo, así como enviar a la Secretaría de Finanzas y Administración el informe del estado que guarda su patrimonio inmobiliario;
 
-XXIX.(SIC) Vigilar que las y los servidores públicos del Organismo desarrollen sus actividades y cumplan con las atribuciones conferidas en el presente Estatuto y la normatividad aplicable;
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2016)</small>
+
+XVII. Dar cumplimiento a las disposiciones fiscales federales, estatales y observar la normatividad que en materia de ingresos propios emita la Secretaría de Finanzas y Administración del Gobierno del Estado de Hidalgo y el Congreso del Estado Libre y Soberano de Hidalgo;
+
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2016)</small>
+
+XVIII. Dar cumplimiento a las observaciones que determinen las instancias fiscalizadoras, en los plazos que indiquen éstas en sus leyes o reglamentos;
+
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2016)</small>
+
+XIX. Proponer para su aprobación por la Junta de Gobierno, las reformas o adiciones al Estatuto;
+
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2016)</small>
+
+XX. Autorizar los manuales de organización y procedimientos del Organismo;
+
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2016)</small>
+
+XXI. Establecer el Programa de racionalidad, disciplina y eficiencia del gasto público, incluyendo estructura orgánica, plantilla de personal así como el parque vehicular;
+
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2016)</small>
+
+XXII. Establecer, en congruencia con la normatividad y procedimientos aplicables, la administración del Sistema Integral de Archivos del Organismo;
+
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2016)</small>
+
+XXIII. Establecer los mecanismos al interior del Organismo para garantizar el derecho de acceso a la información pública de conformidad con la normatividad y procedimientos aplicables;
+
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2016)</small>
+
+XXIV. Vigilar el cumplimiento de las disposiciones en materia de contabilidad gubernamental;
+
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2016)</small>
+
+XXV. Impulsar la profesionalización y capacitación continua del personal del Organismo;
+
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2016)</small>
+
+XXVI. Regular las relaciones laborales del personal del Organismo;
+
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2016)</small>
+
+XXVII. Aprobar los lineamientos en materia de programación, presupuestación y administración integral de los recursos humanos, materiales y financieros del Organismo;
+
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2016)</small>
+
+XXVIII. Determinar las acciones en materia de igualdad de género, y acceso a una vida libre de violencia al interior del Organismo;
+
+XXIX. Vigilar que las y los servidores públicos del Organismo desarrollen sus actividades y cumplan con las atribuciones conferidas en el presente Estatuto y la normatividad aplicable;
 
 XXX. Resolver los casos de duda que se susciten con motivo de la interpretación o aplicación del presente Estatuto; y
 
@@ -927,9 +975,9 @@ IV. Contribuir en la consolidación del Sistema Estatal de Salud mediante la dir
 
 V. Dirigir y evaluar las actividades de intervención en caso de emergencias epidemiológicas, catástrofes naturales y otras urgencias;
 
-VI. Difundir, evaluar y supervisar en los Servicios de Salud de Hidalgo los (sic)
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2016)</small>
 
-programas y lineamientos nacionales y estatales de salud pública para la prevención y control de enfermedades;
+VI. Difundir, evaluar y supervisar en los Servicios de Salud de Hidalgo los programas y lineamientos nacionales y estatales de salud pública para la prevención y control de enfermedades;
 
 VII. Plantear y participar en líneas de investigación de salud pública tendientes a mejorar la salud de la población;
 
@@ -1333,9 +1381,9 @@ VIII. Supervisar y controlar los servicios generales de correspondencia y archiv
 
 IX. Realizar la integración del avance de gestión financiera en cumplimiento a lo establecido por la Auditoría Superior del Estado de Hidalgo y dentro del marco que establece el Consejo Nacional de Armonización Contable;
 
-X. Proponer la cancelación de los adeudos a cargo de terceros y a favor del Organismo cuando fuere improcedente, inconveniente o notoria la imposibilidad práctica de su cobro, de acuerdo a las normas y bases correspondientes, (sic)
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2016)</small>
 
-gestionando para tal efecto la autorización por parte de la Subdirección General de Administración y Finanzas;
+X. Proponer la cancelación de los adeudos a cargo de terceros y a favor del Organismo cuando fuere improcedente, inconveniente o notoria la imposibilidad práctica de su cobro, de acuerdo a las normas y bases correspondientes, gestionando para tal efecto la autorización por parte de la Subdirección General de Administración y Finanzas;
 
 XI. Determinar la disponibilidad presupuestal, de cada fuente de financiamiento conforme al momento contable del registro de las operaciones;
 
