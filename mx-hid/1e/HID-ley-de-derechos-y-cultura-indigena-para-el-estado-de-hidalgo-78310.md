@@ -4,7 +4,7 @@ identifier: "HID-ley-de-derechos-y-cultura-indigena-para-el-estado-de-hidalgo-78
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2016-06-06"
+last_updated: "2016-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78310&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 2010.
 
@@ -2737,19 +2737,25 @@ En los programas se incorporarán acciones que promuevan el consumo de alimentos
 
 La autoridad comunitaria será informada y participará en las campañas de salud, vacunación y aquellas referidas a la atención preventiva de la salud y, en su caso, en las acciones normativas y adecuadas frente a la aparición de epidemias o pandemias.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE MARZO DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE AGOSTO DE 2016)</small>
 
-### CAPÍTULO NOVENO. DE LA EQUIDAD DE GÉNERO
+### CAPÍTULO NOVENO. DE LA IGUALDAD DE GÉNERO
 
-> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 51.
 
-Esta Ley reconoce y garantiza los derechos de las mujeres indígenas en condiciones de equidad para garantizar su participación activa y directa en la toma de decisiones relacionadas con la vida comunitaria. Así mismo el bienestar, el desarrollo, la seguridad y la protección e igual dignidad de las mujeres, de los pueblos y las comunidades, y fomentar el respeto mutuo y el diálogo intracultural, intercultural y plurilingüe.
+Esta Ley reconoce y garantiza los derechos de las mujeres indígenas en condiciones de igualdad para garantizar su participación activa y directa en la toma de decisiones relacionadas con la vida comunitaria. Así mismo el bienestar, el desarrollo, la seguridad y la protección e igual dignidad de las mujeres, de los pueblos y las comunidades, y fomentar el respeto mutuo y el diálogo intracultural, intercultural y plurilingüe.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2014)</small>
 
 Reconoce la capacidad y fortaleza de las mujeres como eje de la familia y de la sociedad, como principal transmisora de las costumbres, tradiciones, cultura y forma de vida de los pueblos y comunidades indígenas y por ende, se considera con pleno uso de sus derechos y obligaciones para elegir o ser elegida como autoridad o representante, para el ejercicio de sus propias formas de gobierno.
 
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2014)</small>
+
 La mujer deberá contar con las mismas oportunidades que el varón para el desempeño de las funciones de representación comunitaria. El Estado y los municipios, en sus respectivos ámbitos de competencia y a través de las dependencias que correspondan, establecerán programas de capacitación para las mujeres indígenas a fin de que estén en condiciones de ejercer ese derecho.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2014)</small>
 
 El Estado promoverá, en el marco de las prácticas tradicionales de las Comunidades y pueblos indígenas, la participación plena de las mujeres en tareas y actividades de los pueblos y comunidades indígenas en igualdad de circunstancias y condiciones con los varones, de tal forma que contribuyan a lograr su realización y superación, así como el reconocimiento y el respeto a su dignidad.
 
@@ -2994,3 +3000,9 @@ P.O. 6 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 661.- QUE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 38 DE LA LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO.- El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO, LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO, LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO, LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO, LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE HIDALGO, LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO, LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE TULA-TEPEJI Y LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN TODAS DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
