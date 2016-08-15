@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-social-del-estado-de-hidalgo-53770"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-29"
-last_updated: "2016-08-01"
+last_updated: "2016-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 29 de diciembre de 2006.
 
@@ -95,7 +95,9 @@ VI.- El Consejo: El Consejo Estatal de Desarrollo Social;
 
 VII.- Entidades: Los Organismos Descentralizados creados por Ley o Decreto del Congreso del Estado o por Decreto del Poder Ejecutivo Local, con personalidad jurídica y patrimonio propios;
 
-VIII.- Equidad de Género: La construcción cultural que se hace a partir de la diferencia de sexos y que da lugar a una serie de valores, atributos y roles distintos para hombres y mujeres;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+VIII.- Igualdad de Género: Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
 
 IX.- Estado: El Estado Libre y Soberano de Hidalgo;
 
@@ -185,7 +187,9 @@ Son sujetos de esta norma, las personas que residen en el Estado, las Dependenci
 
 Las personas que formen parte de alguno de los siguientes grupos vulnerables y que se encuentren en condiciones de pobreza, tendrán derecho a recibir apoyos para superar su condición de vulnerabilidad, de manera prioritaria:
 
-I.- Madres solteras y jefas de familias con el objeto de generar condiciones de equidad de género;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+I.- Madres solteras y jefas de familias con el objeto de generar condiciones que favorezcan la igualdad de género;
 
 II.- Personas con discapacidad;
 
@@ -327,9 +331,9 @@ XI.- Exigibilidad: Derecho de los habitantes a que, a través de un conjunto de 
 
 XII.- Universalidad: La política de desarrollo social esta destinada para todos los habitantes del Estado de Hidalgo y tiene por propósito el acceso de todos al ejercicio de los derechos sociales, al uso y disfrute de los bienes públicos y a una creciente calidad de vida.
 
-> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
 
-XIII.- Perspectiva de género: Visión científica, analítica y política sobre las mujeres y los hombres, que se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género; que se plantea la equidad de género en el diseño y ejecución de las políticas públicas de desarrollo social.
+XIII.- Perspectiva de género: Visión científica, analítica y política sobre las mujeres y los hombres, que se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género; que se plantea la igualdad de género en el diseño y ejecución de las políticas públicas de desarrollo social.
 
 > <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2016)</small>
 
@@ -1004,3 +1008,9 @@ P.O. 1 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 683 QUE REFORMA LOS ARTÍCULOS 55 FRACCIÓN III; 63; Y ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 14, DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 692 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO, LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO, LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO, LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO, LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE HIDALGO, LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO, LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE TULA-TEPEJI Y LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN TODAS DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
