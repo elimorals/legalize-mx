@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2016-08-01"
+last_updated: "2016-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -277,17 +277,25 @@ La condena dictada en otra entidad federativa o en el extranjero se tendrá en c
 
 ### CAPITULO VI. CAUSAS EXCLUYENTES DEL DELITO
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 25.
 
-El delito se excluye cuando se actualice alguna causa de atipicidad, de justificación o de imputabilidad.
+El delito se excluye cuando se actualice alguna causa de atipicidad, de justificación o de inimputabilidad e inculpabilidad.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
 Son causas de atipicidad: la ausencia de voluntad o de conducta, la falta de alguno de los elementos del tipo penal, el consentimiento de la víctima que recaiga sobre algún bien jurídico disponible, el error de tipo vencible que recaiga sobre algún tipo penal que no sea susceptible de configurarse culposamente, así como el error de tipo invencible.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
 Son causas de justificación: el consentimiento presunto, la legítima defensa, el estado de necesidad justificante, el ejercicio de un derecho y el cumplimiento de un deber
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
 Son causas de inculpabilidad: el error de prohibición invencible, el estado de necesidad disculpante, la inimputabilidad, y la inexigibilidad de otra conducta.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
 A. Causas de atipicidad:
 
@@ -305,6 +313,8 @@ c) Que el consentimiento sea expreso o tácito y no medie algún vicio del conse
 
 IV. Error de tipo: Se realice la acción o la omisión bajo un error invencible, respecto de alguno de los elementos que integran la descripción legal del delito de que se trate.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
 B. Causas de justificación:
 
 I. Consentimiento presunto. Se presume que hay consentimiento, cuando el hecho se realiza en circunstancias tales que permitan suponer fundadamente que, de haberse consultado al titular del bien o a quien esté legitimado para consentir, estos hubiesen otorgado el consentimiento;
@@ -316,6 +326,8 @@ Se presumirá que concurren los requisitos de la legítima defensa, respecto de 
 III. Estado de necesidad justificante: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de menor valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
 
 IV. Cumplimiento de un deber o ejercicio de un derecho: La acción o la omisión se realicen en cumplimiento de un deber jurídico o en ejercicio de un derecho, siempre que exista necesidad racional de la conducta empleada para cumplirlo o ejercerlo.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
 C. Causas de inculpabilidad:
 
@@ -331,17 +343,19 @@ IV. Inexigibilidad de otra conducta: En atención a las circunstancias que concu
 
 ### CAPITULO VII. INIMPUTABLES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 26.
 
-En los casos previstos por la fracción IX del artículo anterior, se actuará de la siguiente manera:
+En los casos previstos en el inciso C fracción tercera del artículo anterior, se actuará de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
 
-I.- Tratándose de inimputabilidad, se estará a lo previsto por los artículos 53, 54 y 55 de este Código y 478 del Código de Procedimientos Penales o
+I.- Tratándose de inimputabilidad, se estará a lo previsto por los artículos 53, 54 y 55 de este Código; 414 y 415 del Código Nacional de Procedimientos Penales.
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
 
-II.- En el caso de imputables disminuidos, se procederá de conformidad a lo dispuesto por el artículo 56 de este Código y 482 del Código de Procedimientos Penales.
+II. En el caso de imputables disminuidos, se procederá de conformidad a lo dispuesto por el artículo 56 de este Código y 405 último párrafo del Código Nacional de Procedimientos Penales.
 
 Las infracciones cometidas por los menores de dieciocho años de edad, serán reguladas por las leyes de la materia.
 
@@ -389,17 +403,23 @@ La multa consiste en el pago de una cantidad de dinero al Estado, que se fijará
 
 El día multa equivale a la percepción neta diaria del inculpado en el momento de cometer el delito, tomando en cuenta todas sus percepciones.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 30.
 
-Para los efectos de este Código, el límite inferior del día multa será el equivalente al salario mínimo diario vigente en el lugar donde se cometió el delito, el cual se aplicará si no es posible determinar el monto de la percepción diaria del agente o éste carece o gana menos de ella.
+Para los efectos de este Código, el límite inferior del día multa será el equivalente a la Unidad de Medida y Actualización, vigente en el momento de la comisión del delito.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 31.
 
-Por lo que toca al delito continuado, se atenderá al salario vigente en el momento consumativo de la última conducta. Para el permanente, se considerará el salario mínimo vigente en el momento en que cesó la consumación.
+Por lo que toca al delito continuado, se atenderá a la Unidad de Medida y Actualización, en el momento consumativo de la última conducta. Para el permanente, se considerará la Unidad de Medida y Actualización, en el momento en que cesó la consumación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 32.
 
-Si el sentenciado se negare sin causa justificada a cubrir el importe de la multa, el Estado la exigirá mediante el procedimiento económico coactivo. La autoridad a quien corresponda el cobro de la multa, podrá fijar plazos para el pago de ésta.
+Si el sentenciado se negare sin causa justificada a cubrir el importe de la multa, el Juez oficiosamente dará vista a la instancia ejecutiva que exigirá mediante el procedimiento económico coactivo. La autoridad a quien corresponda el cobro de la multa, podrá fijar plazos para el pago de ésta.
 
 En cualquier tiempo podrá cubrirse el importe de la multa, descontándose de ésta la parte proporcional a las jornadas de trabajo prestado en favor de la comunidad o al tiempo de prisión que el reo hubiere cumplido. Tratándose de la multa conmutativa de la pena privativa de libertad la equivalencia será a razón de un día multa por un día de prisión.
 
@@ -459,19 +479,19 @@ VI.- Tratándose de los delitos comprendidos en el Título Décimo Sexto del Lib
 
 VII.- Los demás aspectos que para los delitos en particular señalen las leyes.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 38.
 
-En caso de lesiones, homicidio y feminicidio, a falta de pruebas específicas para cuantificar la reparación de los daños y perjuicios, los jueces tomarán como base la indemnización señalada por la tabulación de la Ley Federal del Trabajo, conforme al salario mínimo vigente en el momento y lugar de la realización del delito, más la actualización que resulte al día de pago, conforme a la aplicación del índice Nacional de Precios al Consumidor.
+En caso de lesiones, homicidio y feminicidio, a falta de pruebas específicas para cuantificar la reparación de los daños y perjuicios, los jueces tomarán como base la indemnización señalada por la tabulación de la Ley Federal del Trabajo, conforme a la unidad de medida y actualización en el momento de la realización del delito, más la actualización que resulte al día de pago, conforme a la aplicación del Índice Nacional de Precios al Consumidor.
 
 ###### ARTICULO 39.
 
 La obligación de pagar la reparación de daños y perjuicios es preferente con respecto a la multa y se cubrirá primero que cualesquiera otra de las obligaciones personales que se hubieran contraído con posterioridad al delito, excepción hecha de las relacionadas con alimentos y salarios.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
-Las garantías constituidas con motivo de la libertad caucional, se aplicarán al pago de los daños y perjuicios en primer término, así como a la multa si el inculpado no hace el pago, se aplicará el procedimiento correspondiente.
+Los montos con motivo de las providencias precautorias se aplicarán a favor del pago de los daños, aplicándose el procedimiento correspondiente.
 
 > <small>(REFORMADO, P.O. 14 DE ENERO DE 2002)</small>
 
@@ -617,9 +637,11 @@ Si la inimputabilidad proviene exclusivamente de trastorno mental transitorio, n
 
 Las personas inimputables a que se refiere el artículo anterior, podrán ser entregadas por la autoridad que conozca del asunto, a quienes legalmente corresponda hacerse cargo de ellas, siempre que se obliguen a tomar todas las medidas adecuadas para su tratamiento y vigilancia, garantizando por cualquier medio y a satisfacción de las mencionadas autoridades, el cumplimiento de las obligaciones contraídas.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 56.
 
-Si la capacidad del agente de comprender el carácter ilícito del hecho o de determinarse de acuerdo con esa comprensión, no se encuentra totalmente excluida sino sólo notablemente disminuida al momento de la realización del delito, por las causas señaladas en la fracción IX del artículo 25 de este Código, a juicio del juzgador, según proceda, se le impondrá hasta una tercera parte de la pena que correspondería al delito cometido, o la medida de seguridad a que se refieren los artículos anteriores, tomando en consideración si dicha disminución de la capacidad fue provocada o no para cometer el delito.
+Si la capacidad del agente de comprender el carácter ilícito del hecho o de determinarse de acuerdo con esa comprensión, no se encuentra totalmente excluida sino sólo notablemente disminuida al momento de la realización del delito, por las causas señaladas en el inciso C fracción III del artículo 25 de este Código, a juicio del juzgador, según proceda, se le impondrá hasta una tercera parte de la pena que correspondería al delito cometido, o la medida de seguridad a que se refieren los artículos anteriores, tomando en consideración si dicha disminución de la capacidad fue provocada o no para cometer el delito.
 
 ###### ARTICULO 57.
 
@@ -985,13 +1007,17 @@ Cuando culposamente y con motivo del tránsito de vehículos se causen lesiones 
 
 ### CAPITULO III. PUNIBILIDAD EN CASO DE ERROR VENCIBLE
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 100.
 
-Cuando los errores a que se refiere la fracción X del artículo 25 de este Código sean vencibles, se estará a las siguientes reglas:
+Cuando los errores a que se refiere del artículo 25 de este Código sean vencibles, se estará a las siguientes reglas:
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 1999)</small>
 
 I.- Para el error de tipo, se aplicará la punibilidad que para los delitos culposos prevé el artículo 98 de este Código, si el tipo penal admite esta forma de realización o
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 1999)</small>
 
 II.- Para el error de prohibición, se aplicará la mitad de la punibilidad prevista para el delito de que se trate.
 
@@ -1271,9 +1297,11 @@ La potestad de ejecutar la pena de prisión prescribirá en un término igual al
 
 Cuando se haya cumplido parte de la pena de prisión, se requerirá para la prescripción un tiempo igual al que falte para su cumplimiento, tomando en cuenta el límite fijado en el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 129.
 
-La potestad de ejecución de la pena de multa prescribirá en dos años y la de la reparación de daños y perjuicios en cinco años, contados a partir de la fecha en que cause ejecutoria la resolución.
+La potestad de ejecución de la pena de multa prescribirá en dos años y la de la reparación de daños y perjuicios en diez años, contados a partir de la fecha en que cause ejecutoria la resolución.
 
 ###### ARTICULO 130.
 
@@ -1813,11 +1841,11 @@ La punibilidad a que se hace referencia en el artículo anterior se aumentará u
 
 Los delitos previstos en este título se perseguirán por querella; su punibilidad se aplicará sin perjuicio de la que corresponda si resultare la comisión de algún otro delito.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE AGOSTO DE 2016)</small>
 
 ### CAPITULO VI. DISPOSICIONES COMUNES PARA LOS DELITOS CONTRA LA LIBERTAD Y EL NORMAL DESARROLLO SEXUAL
 
-## TÍTULO QUINTO. DELITOS CONTRA LA LIBERTAD, EL NORMAL DESARROLLO PSICOSEXUAL y LOS DERECHOS REPRODUCTIVOS
+## TÍTULO QUINTO. DELITOS CONTRA LA LIBERTAD Y EL NORMAL DESARROLLO PSICOSEXUAL Y DE LOS DERECHOS REPRODUCTIVOS
 
 ### CAPITULO I. DIFAMACION
 
@@ -1827,9 +1855,9 @@ Al que por medio de la violencia física o moral realice cópula con persona de 
 
 Independientemente de las penas y medidas de seguridad que procedan por los delitos que resulten, se impondrá prisión de cinco a doce años y multa de 50 a 120 días al que, con uso de la violencia física o moral, introduzca por la vía anal o vaginal cualquier objeto, instrumento o elemento distinto al miembro viril, en persona de cualquier sexo, según el caso.
 
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
-Por cópula se entiende la introducción del miembro viril en el cuerpo de la víctima, por vía vaginal, anal u oral.
+Se entiende por cópula, la introducción del pene en el cuerpo humano por vía vaginal, anal y bucal; y por sujeto activo hombre o mujer quien ejerza acción alguna para mantener relaciones sexuales.
 
 > <small>(REFORMADO, P.O. 1 DE ABRIL DE 2013)</small>
 
@@ -1891,9 +1919,11 @@ ARTICULO 182 QUÁTER.- En los delitos previstos en este Capítulo, además de la
 
 Comete el delito de abuso sexual, quien sin consentimiento de una persona y sin el propósito de llegar a la cópula, ejecute en ella actos sexuales, la obligue a observarlos o la haga ejecutarlos para sí o en otra persona, y-se (sic) le impondrá prisión de dos a cuatro años y multa de 50 a 100 días.
 
-Si la víctima de abuso sexual fuere persona menor de quince años de edad o que no tenga capacidad para comprender el significado del hecho, aun con su consentimiento, o que por cualquier causa no pueda resistirlo, se impondrá prisión de tres a seis años y multa de 100 a 200 días.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
-Este delito se perseguirá por querella de la parte ofendida, cuando la víctima fuere mayor de edad con capacidad para comprender el significado del hecho y posibilidad para resistirlo.
+Si la víctima de abuso sexual fuere persona menor de quince años de edad o que no tenga capacidad para comprender el significado del hecho, aun con su consentimiento, o que por cualquier causa no pueda resistirlo, se impondrá de cinco a nueve años de prisión y multa de 200 a 500 veces la Unidad de Medida y Actualización.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 15 DE AGOSTO DE 2016)</small>
 
 Para efectos de este artículo se entiende por actos sexuales cualquier acción lujuriosa como tocamientos o manoseos corporales obscenos, o los que representen por cualquier medio actos explícitamente sexuales u obliguen a la víctima a representarlos.
 
@@ -2421,15 +2451,15 @@ No se justifica en ningún caso como tratamiento médico o rehabilitación la vi
 
 > <small>(REFORMADO, P.O. 1 DE ABRIL DE 2013)</small>
 
-ARTICULO 243 TER.- Se equipara a la violencia familiar y se sancionará con las mismas
-
-penas, al que realice cualquiera de los actos señalados en el artículo 243 Bis, en contra de la persona que esté sujeta a su custodia, guarda, protección, educación, instrucción o cuidado o con quien tenga una relación de hecho o la haya tenido en un período hasta de dos años antes de la comisión del acto u omisión.
+ARTICULO 243 TER.- Se equipara a la violencia familiar y se sancionará con las mismas penas, al que realice cualquiera de los actos señalados en el artículo 243 Bis, en contra de la persona que esté sujeta a su custodia, guarda, protección, educación, instrucción o cuidado o con quien tenga una relación de hecho o la haya tenido en un período hasta de dos años antes de la comisión del acto u omisión.
 
 Se entenderá por relación de hecho, la que exista entre quienes:
 
 I.- Hagan vida en común, en forma constante y permanente, por un período mínimo de seis meses;
 
-II.- Mantengan una relación de pareja, aunque no vivan en el mismo domicilio;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+II.- Mantengan una relación de pareja, vivan o no vivan en el mismo domicilio;
 
 III.- Se encuentren unidos por vínculos de padrinazgo o madrinazgo;
 
@@ -2585,9 +2615,9 @@ Cuando en la comisión del delito no exista el consentimiento del ascendiente qu
 
 Además de la punibilidad señalada en los artículos anteriores de este capítulo, se privará de los derechos sucesorios y de familia, a quien teniendo el ejercicio de éstos en relación con el ofendido, cometa el delito a que se refiere el presente capítulo.
 
-### CAPITULO III. ASOCIACION DELICTUOSA
+### CAPÍTULO III. PANDILLA
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 239.
 
@@ -2597,11 +2627,15 @@ Igual pena se impondrá a quien omita datos o la inscripción del estado familia
 
 ### CAPITULO IV. FACILITACION DELICTIVA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2016)</small>
+
+ARTICULO 253 BIS. Se impondrá de dos a diez años de prisión y multa de cincuenta a quinientas veces la unidad de medida y actualización, a quien con el objeto de informar a los integrantes de una pandilla, alerte, aceche, vigile o realice actos tendientes a obtener información sobre la ubicación, actividades, operativos o en general las labores realizadas por las instituciones de seguridad pública para la prevención, persecución y sanción del delito o la ejecución penal, con independencia de incurrir en diversa conducta ilícita.
+
 > <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2013)</small>
 
-ARTICULO 253 BIS. Se impondrá prisión de dos a diez años y multa de cincuenta a quinientas veces el salario mínimo, a quien con el objeto de informar a los integrantes de una organización delictiva, pandilla o asociación delictuosa, alerte, aceche, vigile o realice actos tendientes a obtener información sobre la ubicación, actividades, operativos o en general las labores realizadas por las instituciones de seguridad pública para la prevención, persecución y sanción del delito o la ejecución penal, con independencia de incurrir en diversa conducta ilícita.
-
 Las penas anteriores se aumentarán hasta en una mitad más si en la realización de cualquiera de las conductas previstas en el párrafo anterior, se emplean vehículos de servicio público de pasajeros o de transporte o cualquiera otro que preste un servicio similar, así como cuando se emplee a menores de edad o a personas que no tienen capacidad de comprender el significado del hecho.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2013)</small>
 
 Las penas previstas en este artículo se duplicarán y se impondrá además destitución del cargo o comisión e inhabilitación de dos a diez años para ocupar otro, cuando cualquiera de las conductas sean cometidas por servidores o ex servidores públicos de las instituciones de seguridad pública, de procuración de justicia o de las fuerzas armadas.
 
@@ -2697,7 +2731,7 @@ Se entiende por acopio la reunión de tres a más armas o instrumentos prohibido
 
 Además de las penas señaladas para el delito a que se refiere el presente capítulo, se decomisarán y destruirán los objetos del delito, sin perjuicio de lo dispuesto en el artículo 63 de este Código.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE AGOSTO DE 2016)</small>
 
 ### CAPITULO III. TRATA DE PERSONAS
 
@@ -2709,17 +2743,17 @@ Además de las penas señaladas para el delito a que se refiere el presente cap�
 
 ###### ARTICULO 251.
 
-Al que forme parte de manera permanente de una asociación o banda de tres o más personas, destinada a delinquir, se le impondrá de dos a seis años de prisión y multa de 25 a 100 días.
+Se entenderá por pandilla lo dispuesto en el Artículo 18 párrafo segundo de este Código Penal y se le impondrá de cuatro a seis años de prisión y multa de 100 a 200 veces la Unidad de Medida y Actualización.
 
 ###### ARTICULO 252.
 
 (DEROGADO, P.O. 22 DE MARZO DE 1999)
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 253.
 
-Cuando el miembro de una asociación delictuosa o de la pandilla a que alude el párrafo final del artículo 18 de este Código, sea o haya sido servidor público de alguna corporación policial, miembro de empresa de seguridad privada o lo haya sido de las fuerzas armadas, se le impondrá una mitad más de la punibilidad que correspondería al delito o delitos cometidos y adicionalmente, según el caso, la privación del empleo, cargo o comisión públicos o la inhabilitación hasta por cinco años, para desempeñar otro de la misma naturaleza.
+Cuando el miembro de una pandilla a que alude el párrafo final del artículo 18 de este Código, sea o haya sido servidor público de alguna corporación policial, miembro de empresa de seguridad privada o lo haya sido de las fuerzas armadas, se le impondrá una mitad más de la punibilidad que correspondería al delito o delitos cometidos y adicionalmente, según el caso, la privación del empleo, cargo o comisión públicos y la inhabilitación por quince años para desempeñar otro de la misma naturaleza.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 5 DE AGOSTO DE 2013)</small>
 
@@ -3375,6 +3409,8 @@ ARTICULO 349 NONIES.- La reducción de las penas por los delitos previstos en es
 
 A efecto de que pueda acreditarse el supuesto de procedencia de la mencionada atenuante, deberá constar en el expediente respectivo el dictamen técnico favorable emitido por la autoridad ambiental competente.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 313.
 
 Al que teniendo la obligación legal de conducirse con verdad en un acto ante autoridad o ante fedatario público, lo haga falsamente u ocultando la verdad, se le impondrá de tres meses a dos años de prisión y multa de 5 a 50 días.
@@ -3387,7 +3423,21 @@ La sanción podrá ser de tres meses a tres años de prisión y multa de 20 a 10
 
 Además de las penas a que se refiere este artículo, el perito, intérprete o traductor sufrirá inhabilitación para desempeñar sus funciones de tres meses a dos años.
 
-### CAPITULO IV. APROVECHAMIENTO INDEBIDO DE BIENES EJIDALES O COMUNALES
+### CAPÍTULO III TER. DELITOS EN CONTRA DE LOS ANIMALES
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
+ARTICULO 349 DECIES.- Al que dolosamente realice actos de maltrato en contra de animales domésticos o ferales, causándoles lesiones se le impondrá de 15 días a 1 mes de prisión y multa de 25 a 50 Unidades de Medida y Actualización en su modalidad de valor diario; en caso de que las lesiones causen la muerte al animal doméstico o feral, se impondrá de 1 mes a 6 meses de prisión y multa de 50 a 150 Unidades de Medida y Actualización en su modalidad de valor diario.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
+ARTICULO 349 UNDECIES.- Para efectos de este Capítulo, se entenderá por:
+
+I. Animal doméstico: los que dependan de un ser humano para subsistir y habiten con éste en forma regular, sin que exista actividad lucrativa de por medio;
+
+II. Animal feral: Aquellos pertenecientes a especies domésticas que al quedar fuera del control del ser humano, se establecen en el entorno natural; y
+
+III. Maltrato: Actos que siendo innecesarios dañan la salud, integridad física, instinto, desarrollo o crecimiento del animal.
 
 ###### ARTICULO 314.
 
@@ -3411,15 +3461,13 @@ Al que por medio de la violencia física o moral exija a una autoridad la ejecuc
 
 Cuando la ley autorice el empleo de medios de apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumarán los delitos de resistencia y desobediencia cuando se hubiesen agotado tales medios.
 
-### CAPITULO I. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
+### CAPITULO IV. APROVECHAMIENTO INDEBIDO DE BIENES EJIDALES O COMUNALES
 
 ###### ARTICULO 319.
 
 Al que quebrante los sellos impuestos por orden de la autoridad pública competente, se le impondrá prisión de tres meses a dos años y de 5 a 25 días multa.
 
-### CAPITULO II. DELITOS ELECTORALES COMETIDOS POR PARTICULARES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
 
@@ -3429,7 +3477,7 @@ Al que de palabra o de obra ultraje a una autoridad en el ejercicio de sus funci
 
 Para los efectos de esta disposición, se entiende por ultraje toda acción o expresión ejecutada con el ánimo de denigrar u ofender a algún funcionario o agente de la autoridad.
 
-### CAPITULO III. DELITOS ELECTORALES COMETIDOS POR FUNCIONARIOS ELECTORALES
+### CAPITULO II. DELITOS ELECTORALES COMETIDOS POR PARTICULARES
 
 > <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
 
@@ -3440,6 +3488,10 @@ Se impondrá de seis meses a tres años de prisión y de 10 a 50 días multa, al
 I.- Sin ser servidor público, se atribuya ese carácter y ejerza alguna de las funciones de tal; o
 
 II.- Usare uniforme, insignia, distintivo o condecoración a que no tenga derecho, con el propósito de obtener un beneficio indebido o lesionar la dignidad o respeto de la corporación o de la investidura a que correspondan aquellos.
+
+### CAPITULO III. DELITOS ELECTORALES COMETIDOS POR FUNCIONARIOS ELECTORALES
+
+> <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
 
 ### CAPITULO IV. DELITOS ELECTORALES COMETIDOS POR SERVIDORES PUBLICOS
 
@@ -4338,3 +4390,15 @@ PRIMERO. El presente Decreto entrará en vigor el día 1° de octubre de 2016.
 SEGUNDO. Los Ayuntamientos contarán por única ocasión, con un periodo de gracia de ciento ochenta días más, para dar cumplimiento a lo ordenado en la fracción XX del artículo 117 de esta Ley.
 
 TERCERO. Los Ayuntamientos entrantes, deberán incluir una partida en su Presupuesto de Egresos, para la elaboración de su correspondiente Atlas de Riesgos.
+
+P.O. 15 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 700 QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 701.- QUE ADICIONA AL TÍTULO DÉCIMO NOVENO EL CAPÍTULO III TER DENOMINADO "DELITOS EN CONTRA DE LOS ANIMALES" CON LOS ARTÍCULOS 349 DECIES Y 349 UNDECIES, AL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
