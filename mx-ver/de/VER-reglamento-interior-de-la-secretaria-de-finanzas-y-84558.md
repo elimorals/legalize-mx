@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-finanzas-y-84558"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-28"
-last_updated: "2015-02-13"
+last_updated: "2016-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84558&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y PLANEACIÓN DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2016.
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 28 de diciembre de 2011.
 
@@ -1171,7 +1171,9 @@ LVII. Dirigir el diseño e integración de los indicadores de gestión de la Sub
 
 LVIII. Promover la mejora continua y simplificación en los procesos y servicios, en coordinación con los Órganos y Áreas Administrativas de la Secretaría que lo soliciten y proporcionar asesoría en esta materia, a las dependencias y entidades del Poder Ejecutivo que lo requieran;
 
-LIX. Coordinar, previo acuerdo del Subsecretario, la operación del servicio público de carrera; desarrollar los planes, programas, procedimientos y acciones necesarias para el funcionamiento del Sistema del Servicio Público de Carrera; así como desempeñar las funciones de Secretario del Comité Dictaminador de la Secretaría;
+> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2016)</small>
+
+LIX. Coordinar, previo acuerdo del Subsecretario, la operación del servicio público de carrera; desarrollar los planes, programas, procedimientos y acciones necesarias para el funcionamiento del Sistema del Servicio Público de Carrera; así como desempeñar las funciones de Secretario Técnico de la Comisión correspondiente, por acuerdo o en ausencia del Subsecretario, y las de Secretario Técnico del Comité Dictaminador de la Secretaría;
 
 LX. Establecer, operar y controlar las estrategias y líneas de acción, en materia de recursos humanos de la Administración Pública Estatal;
 
@@ -2658,3 +2660,11 @@ G.O. 13 DE FEBRERO DE 2015.
 Primero. Publíquese en la Gaceta Oficial Órgano del Gobierno del Estado.
 
 Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 15 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA LA FRACCIÓN LIX DEL ARTÍCULO 30 DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y PLANEACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
