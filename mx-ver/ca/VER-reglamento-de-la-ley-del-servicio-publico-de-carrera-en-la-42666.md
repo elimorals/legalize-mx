@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-la-ley-del-servicio-publico-de-carrera-en-la-4266
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-05"
-last_updated: "2004-11-05"
+last_updated: "2016-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO DE LA LEY DEL SERVICIO PUBLICO DE CARRERA EN LA ADMINISTRACION PUBLICA CENTRALIZADA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2016.
 
 Reglamento publicado en el Alcance de la Gaceta Oficial del Estado de Veracruz, el viernes 5 de noviembre de 2004.
 
@@ -49,7 +49,9 @@ II. Comisión: Comisión del Servicio Público de Carrera;
 
 III. Comité: Comité Dictaminador;
 
-IV. Dependencia: secretarías del Despacho, la Contraloría General, la Procuraduría General de Justicia y la Coordinación General de Comunicación Social;
+> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2016)</small>
+
+IV. Dependencias: Las previstas en los artículos 2, 9 y demás correlativos de la Ley Orgánica del Poder Ejecutivo del Estado;
 
 V. Ley: Ley del Servicio Público de Carrera en la Administración Pública Centralizada del Estado de Veracruz de Ignacio de la Llave;
 
@@ -57,37 +59,45 @@ VI. La Secretaría: La Secretaría de Finanzas y Planeación, y
 
 VII. Sistema: Sistema del Servicio Público de Carrera.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 3.
 
-Son trabajadores de confianza los señalados por la ley y los que se designen como: Director General, Director de Área, Subdirector de Área, Jefe de Departamento, Jefe de Oficina y sus homólogos. Así como los servidores públicos que realicen las funciones siguientes:
+Son trabajadores de confianza los servidores públicos que ocupen puestos o cargos en las dependencias de la administración pública centralizada que desempeñen funciones de: Dirección, inspección, vigilancia, fiscalización, manejo de fondos o valores, auditoría, planeación, supervisión, control directo de adquisiciones, responsabilidad en autorización de ingreso, salida, alta, baja o destino de bienes y valores de almacenes e inventarios, investigación o investigación científica que ordenen actos de autoridad, conforme al Catálogo de puestos emitido por la Secretaría y con las denominaciones siguientes:
 
-I. Inspección: personal técnico que en forma exclusiva y permanente desempeñe funciones de inspección;
+> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2016)</small>
 
-II. Vigilancia: Jefe y Subjefe responsables del cuidado de los bienes e instalaciones de las dependencias;
+I. Director General;
 
-III. Fiscalización: personal especializado que en forma exclusiva y permanente desempeñe funciones de fiscalización;
+> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2016)</small>
 
-IV. Manejo de fondos o valores: los servidores públicos que tengan facultad legal para disponer de fondos o valores, determinar su aplicación o destino. El personal de apoyo queda excluido;
+II. Director de Área, y
 
-V. Auditoría: personal especializado que en forma exclusiva y permanente desempeñe funciones de auditoría;
+> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2016)</small>
 
-VI. Planeación: personal especializado en proponer la definición de políticas, normas, sistemas, procedimientos y proyectos de programas y presupuestos para la adecuada realización y evaluación de los planes que coadyuven al logro de las metas institucionales;
+III. Equivalentes u Homólogos.
 
-VII. Supervisión: personal especializado que en forma exclusiva y permanente desempeñe funciones de supervisión;
+IV. (DEROGADA, G.O. 15 DE AGOSTO DE 2016)
 
-VIII. Control directo de adquisiciones: el personal que tenga la representación de la dependencia con facultades para tomar decisiones sobre las adquisiciones y compras;
+V. (DEROGADA, G.O. 15 DE AGOSTO DE 2016)
 
-IX. Control de almacén e inventario: el responsable de autorizar el ingreso o salida de bienes o valores de almacenes, su destino o la alta y baja en inventarios;
+VI. (DEROGADA, G.O. 15 DE AGOSTO DE 2016)
 
-X. Investigación: personal especializado que lleve a cabo, principalmente, funciones de investigación encaminada a la obtención de información para la implantación de programas institucionales;
+VII. (DEROGADA, G.O. 15 DE AGOSTO DE 2016)
 
-XI. Investigación científica: personal especializado dedicado exclusivamente a trabajos de investigación científica con facultades para determinar el sentido y la forma de la investigación que se lleve a cabo;
+VIII. (DEROGADA, G.O. 15 DE AGOSTO DE 2016)
 
-Xll. Formulación de juicios: personal especializado encargado de analizar, asesorar, elaborar y proponer respuestas a solicitudes y peticiones formuladas por las dependencias o por la ciudadanía;
+IX. (DEROGADA, G.O. 15 DE AGOSTO DE 2016)
 
-Xlll. Elaboración de lineamientos o criterios: personal especializado en el desarrollo de anteproyectos de lineamientos o criterios para el cumplimiento de la normatividad administrativa de las dependencias, y
+X. (DEROGADA, G.O. 15 DE AGOSTO DE 2016)
 
-XIV. Desarrollo de Procesos de Evaluación: personal especializado dedicado a la elaboración de procesos de evaluaciones institucionales, así como quienes sean instructores y dictaminadores.
+XI. (DEROGADA, G.O. 15 DE AGOSTO DE 2016)
+
+XII. (DEROGADA, G.O. 15 DE AGOSTO DE 2016)
+
+XIII. (DEROGADA, G.O. 15 DE AGOSTO DE 2016)
+
+XIV. (DEROGADA, G.O. 15 DE AGOSTO DE 2016)
 
 ###### Artículo 4.
 
@@ -97,23 +107,25 @@ Los servidores públicos de carrera deberán sujetarse a los criterios y lineami
 
 Los servidores públicos de confianza en activo, a que hace referencia el artículo 4 de la Ley se incorporarán al mismo en los términos señalados por los lineamientos contenidos en el Manual de Incorporación de Servidores Públicos de Confianza al Sistema del Servicio Público de Carrera.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 6.
 
-Conforme a lo señalado en el artículo 6 de la Ley, las Secretarías de Salud y Asistencia, de Educación y Cultura, de Seguridad Pública y la Procuraduría General de Justicia a través de su respectivo Comité determinará los puestos de confianza que conforme a sus características sean susceptibles de incorporarse al Sistema, atendiendo a lo siguiente:
+Conforme a lo señalado en el artículo 6 de la Ley, las Secretarías de Salud, de Educación y de Seguridad Pública, por conducto de sus respectivos Comités, determinarán los puestos de confianza que, en atención a las funciones previstas en la Ley y el presente ordenamiento, puedan incorporarse al Sistema, atendiendo a lo siguiente:
 
 I. Verificar que tanto los puestos de confianza como los servidores públicos que los ocupan, cubran los requisitos señalados en el artículo 4 de la Ley; asimismo, que no pertenezcan a algún otro Sistema de Carrera Estatal o Federal, y con atención a los criterios que para tal efecto emita la Secretaría;
 
 II. Una vez realizada dicha selección, presentarán la propuesta a la Secretaría para su análisis;
 
-III. La Secretaría analizará la propuesta y de resultar procedente, la someterá a consideración de la Comisión para su autorización, y
+III. (DEROGADA, G.O. 15 DE AGOSTO DE 2016)
 
-IV. La Secretaría comunicará por escrito a la dependencia y a su Comité Dictaminador el resultado de la propuesta.
+IV. (DEROGADA, G.O. 15 DE AGOSTO DE 2016)
+
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 7.
 
-Los servidores públicos que desempeñen puestos de confianza desde el nivel de Director General hasta el de Jefe de Oficina se incorporarán al Sistema en los términos de la Ley, sin importar el tipo de contratación que ostenten. Quienes formen parte de un sindicato deberán tramitar su licencia para poder continuar desempeñando funciones de confianza, tal y como lo señala la Ley Estatal del Servicio Civil de Veracruz.
-
-Los servidores públicos de base, libres o sindicalizados, que realicen funciones de confianza en puestos operativos se incorporarán al Sistema en los términos de la normatividad que al respecto emita la Secretaria.
+Los servidores públicos que desempeñen puestos de confianza desde el nivel de Director General, Director de Área y Homólogos, así como los servidores públicos establecidos en el catálogo que para tal efecto emita la Secretaría, se incorporarán al Sistema en los términos de la Ley, sin importar el tipo de contratación que ostenten. Quienes formen parte de un sindicato deberán tramitar su licencia para poder continuar desempeñando funciones de confianza, tal y como lo señala la Ley Estatal del Servicio Civil de Veracruz.
 
 ### CAPÍTULO II. DE LOS ÓRGANOS DEL SISTEMA
 
@@ -151,9 +163,15 @@ I. El titular de la dependencia en calidad de presidente;
 
 II. El titular de la Unidad Administrativa de la dependencia o su equivalente, con el carácter de Secretario;
 
-IIII. El titular del área, órgano o centro de adscripción del puesto correspondiente, en calidad de vocal, y
+III. El titular del área, órgano o centro de adscripción del puesto correspondiente, en calidad de vocal, y
 
-IV. El titular de la Contraloría Interna en la dependencia en calidad de vocal.
+> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2016)</small>
+
+IV. El titular del Órgano Interno de Control en la dependencia en calidad de vocal.
+
+> <small>(ADICIONADO, G.O. 15 DE AGOSTO DE 2016)</small>
+
+El Comité aprobará sus acuerdos y resoluciones por mayoría de votos y, en caso de empate, el presidente tendrá voto de calidad. El titular del Órgano Interno de Control tendrá voz, pero no voto.
 
 ###### Artículo 12.
 
@@ -171,9 +189,11 @@ Conforme a sus atribuciones y funciones, la Comisión y la Secretaría emitirán
 
 En cumplimiento a lo dispuesto por el artículo 13 fracciones II, III, V y IX de la Ley, las dependencias invariablemente coordinarán sus actividades con la Secretaría a fin de garantizar la correcta operación y control del Sistema.
 
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 16.
 
-La Contraloría General, conforme a sus atribuciones y funciones que le otorgan la Ley Orgánica del Poder Ejecutivo del Estado, la Ley y su reglamento interior, llevará a cabo evaluaciones anuales del funcionamiento del Sistema. Para tal efecto, la Secretaría será la responsable de proporcionar la información requerida.
+La Contraloría General, conforme a sus atribuciones y funciones otorgadas por la Ley Orgánica del Poder Ejecutivo del Estado, la Ley y su Reglamento, realizará evaluaciones anuales del funcionamiento del Sistema.
 
 #### SECCIÓN PRIMERA. De la Comisión
 
@@ -183,7 +203,9 @@ Para el cumplimiento de sus atribuciones, la Comisión estará integrada por:
 
 I. Una presidencia, a cargo del titular de la Secretaría;
 
-II. Un secretariado técnico, a cargo del titular de la Subsecretaría de Finanzas y Administración, y
+> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2016)</small>
+
+II. Un secretario técnico, que será el titular de la Subsecretaría de Finanzas y Administración, quien por sí o por conducto del Director General de Administración de la Secretaría de Finanzas y Planeación, ejercerá esta función, y
 
 III. Vocalías, a cargo de los titulares de las dependencias de la administración pública centralizada.
 
@@ -205,7 +227,9 @@ VI. Asesorar al Titular del Ejecutivo Estatal sobre las normas, criterios, linea
 
 VII. Revisar y evaluar anualmente los resultados de las acciones del Sistema;
 
-VIII. Verificar que los recursos de revisión tramitados ante la Secretaría se resuelvan oportunamente, y
+> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2016)</small>
+
+VIII. Substanciar y resolver las controversias que surjan por la implementación del Sistema, así como los recursos de revisión establecidos en el capítulo X del presente ordenamiento, que deberán ser tramitados ante la Secretaría, y
 
 IX. Las demás que le confieran la Ley, las demás leyes del Estado y el presente reglamento.
 
@@ -307,7 +331,9 @@ IV. Elaborar y proponer a la Comisión los anteproyectos de reglamentos derivado
 
 V. Autorizar a las dependencias de la administración pública centralizada la publicación de las convocatorias para realizar el proceso de selección de aspirantes a ocupar puestos en el Sistema;
 
-VI. Suscribir convenios, previamente autorizados por el Gobernador del Estado, con instituciones de educación superior o de investigación, públicas o privadas, colegios de profesionales o asociaciones afines, cuando se consideren necesarios, para apoyar los programas del Sistema;
+> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2016)</small>
+
+VI. Suscribir convenios con instituciones de educación superior o de investigación, públicas o privadas, colegios de profesionales o asociaciones afines, cuando se consideren necesarios, para apoyar los programas del Sistema;
 
 VII. Elaborar y mantener actualizado el Catálogo General de Puestos, en coordinación con las dependencias de la administración pública centralizada;
 
@@ -327,9 +353,11 @@ El Comité es el responsable de garantizar la transparencia, imparcialidad y leg
 
 El Comité será responsable de informar a la Secretaría de las irregularidades que se presenten durante el desarrollo de los procesos, a fin de que ésta determine lo procedente.
 
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 31.
 
-Los integrantes del Comité deberán intervenir en los diversos procesos de evaluación del Sistema con sentido de confidencialidad en el manejo de información, ética profesional e imparcialidad al emitir un dictamen en apego a los principios que marca la Ley en su artículo 1.
+Los integrantes del Comité deberán intervenir en los diversos procesos de evaluación del Sistema con sentido de confidencialidad en el manejo de información, ética profesional e imparcialidad al emitir un dictamen en apego a los principios que marca la Ley, así como las disposiciones aplicables para la protección de los datos personales.
 
 ###### Artículo 32.
 
@@ -351,19 +379,27 @@ Son funciones del presidente del Comité:
 
 I. Orientar los trabajos encaminados a establecer los criterios objetivos aplicables para la elaboración y fundamentación de los dictámenes correspondientes a los diversos procesos de evaluación;
 
-ll. Ordenar la elaboración de los exámenes de conocimientos del personal de confianza de su dependencia y turnarlos a la Secretaría para su validación;
+II. Ordenar la elaboración de los exámenes de conocimientos del personal de confianza de su dependencia y turnarlos a la Secretaría para su validación;
 
 III. Establecer mecanismos que permitan la entrega oportuna a la Secretaría y a los servidores públicos interesados, de los dictámenes que contengan las calificaciones y demás información obtenida como resultado de los procesos efectuados en su dependencia;
 
 IV. Supervisar las actividades inherentes al Comité y establecer los canales de comunicación con su dependencia, a fin de eficientar el desarrollo de las actividades del Sistema;
 
-V. Tomar decisiones en casos de controversia y definición de resultados, y
+> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2016)</small>
 
-VI. Participar en las demás actividades del Comité, en su calidad de presidente, y en las demás acciones relacionadas con el Sistema.
+V. Tomar decisiones en casos de controversia y definición de resultados, atendiendo a la aplicación de los medios alternativos para su solución o, en su defecto, turnarlo a la Comisión.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 15 DE AGOSTO DE 2016)</small>
+
+VI. Participar en las demás actividades del Comité, y en las demás acciones relacionadas con el Sistema.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO PUBLICADO EN LA G.O. DE 15 DE AGOSTO DE 2016 SE DEROGA UN ÚLTIMO PÁRRAFO AL PRESENTE ARTÍCULO, VEÁSE PÁGINA 4 DE DICHA PUBLICACIÓN; DEL ANÁLISIS SE ADVIERTE QUE ESTE ARTÍCULO SÓLO CUENTA CON UN SÓLO PÁRRAFO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 34.
 
-Son funciones del Secretario del Comité:
+Son funciones del Secretario Técnico del Comité:
 
 I. Organizar la agenda de actividades del Comité;
 
@@ -375,7 +411,9 @@ IV. Informar oportunamente a los integrantes del Comité la fecha, lugar y horar
 
 V. Elaborar y tramitar el envío a la Secretaría de las calificaciones, dictámenes y demás documentación requerida, y
 
-VI. Participar en las demás actividades del Comité en su calidad de secretario, y en las demás acciones relacionadas con el Sistema.
+> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2016)</small>
+
+VI. Participar en las demás actividades del Comité, y en las demás acciones relacionadas con el Sistema, con la misma calidad.
 
 ###### Artículo 35.
 
@@ -403,9 +441,11 @@ Los órganos del Sistema no interferirán, bajo ninguna circunstancia, en aspect
 
 #### SECCIÓN QUINTA. De las Suplencias
 
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 38.
 
-Los casos de ausencia de los titulares de los órganos del Sistema por un período mayor a treinta días, darán lugar a las suplencias, que se regirán por los reglamentos interiores de cada dependencia.
+Los casos de ausencia de los titulares de los órganos del Sistema, serán cubiertos por los suplentes designados por el servidor público facultado para ello en cada dependencia.
 
 ###### Artículo 39.
 
@@ -429,9 +469,11 @@ El servidor público de base, libre o sindicalizado, que no desempeñe funciones
 
 #### SECCIÓN PRIMERA. De la Convocatoria y Selección
 
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 42.
 
-Todos los puestos de confianza, vacantes o de nueva creación, serán ocupados únicamente a través de convocatorias, las cuales serán elaboradas por las dependencias y autorizadas por la Secretaría para su publicación.
+Los puestos o cargos que forman parte del Sistema, serán ocupados sólo mediante convocatoria, conforme al procedimiento previsto en la Ley y este ordenamiento.
 
 ###### Artículo 43.
 
@@ -447,9 +489,11 @@ b) Convocatoria interna abierta, dirigida a todos los servidores públicos de la
 
 III. Externa: dirigida a los ciudadanos interesados en ocupar un puesto dentro de la administración pública centralizada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 44.
 
-Las dependencias serán las responsables de proporcionar a la Secretaría la información necesaria para la elaboración de las evaluaciones, así como de presentar las propuestas de exámenes de conocimientos, conforme a los lineamientos que al respecto emita.
+Los Comités de las dependencias serán responsables de proporcionar a la Secretaría la información de las evaluaciones, así como de presentar las propuestas de exámenes de conocimientos, conforme a los lineamientos que al respecto emita la Secretaría.
 
 Únicamente serán aplicables las pruebas y exámenes aprobados por la Secretaría.
 
@@ -475,13 +519,15 @@ Il. Cuando se detecte que la documentación presentada por todos los aspirantes 
 
 III. En los casos en que ningún aspirante se presente en la fecha y hora señaladas por la convocatoria.
 
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 47.
 
-Sólo por necesidades del servicio podrá ocuparse una plaza vacante por incapacidad médica del titular, conforme a lo siguiente:
+Sólo por necesidades del servicio podrá ocuparse una plaza vacante por incapacidad o licencia del titular, conforme a lo siguiente:
 
-I. Tratándose de una licencia médica hasta por treinta días, será el inmediato superior quien designe al servidor público de carrera que lo sustituya, siendo requisito que cubra el perfil del puesto vacante, y
+I. Tratándose de una incapacidad o licencia hasta por treinta días, será el inmediato superior quien designe al servidor público de carrera que lo sustituya, siendo requisito que cubra el perfil del puesto vacante, y
 
-II. Cuando la licencia médica exceda los treinta días, se procederá en los términos señalados por el reglamento interior de la dependencia.
+II. Cuando la incapacidad o licencia exceda los treinta días, se procederá en los términos señalados por el Reglamento Interior de la dependencia.
 
 #### SECCIÓN SEGUNDA. Del Nombramiento
 
@@ -509,15 +555,17 @@ La planeación de carrera es el proceso por medio del cual el Sistema orienta al
 
 La Secretaría emitirá los lineamientos relativos a la planeación de carrera y las dependencias se sujetarán a ella al momento de atender los requerimientos de los servidores públicos de carrera.
 
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 53.
 
-Las dependencias planearán conjuntamente con el servidor público que lo solicite, un plan de carrera. La realización del mismo será responsabilidad del interesado.
+Los Comités Dictaminadores, planearán conjuntamente con el servidor público que lo solicite, un plan de carrera. La realización del mismo será responsabilidad del interesado.
+
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 54.
 
-Las dependencias atenderán al artículo 71 fracción V, del presente reglamento a fin de apoyar a los servidores públicos en la realización de su plan de carrera, el que se sujetará a la disponibilidad presupuestal de la dependencia y al programa de capacitación vigente.
-
-En los casos en los que la dependencia no cuente con el recurso suficiente, o bien la capacitación no se apegue a los lineamientos, el costo de los estudios será responsabilidad del servidor público.
+Los Comités Dictaminadores, atenderán al artículo 71 fracción V, del presente Reglamento a fin de apoyar a los servidores públicos en la realización de su plan de carrera, el que se sujetará a la disponibilidad presupuestal de la dependencia y al programa de capacitación vigente.
 
 ###### Artículo 55.
 
@@ -529,13 +577,17 @@ La ejecución del plan de carrera no significa la obtención de derechos al pues
 
 Se considera ascenso el movimiento vertical para ocupar puestos de mayor jerarquía y nivel salarial dentro del centro de adscripción, y sólo procederá cuando el puesto vacante o de nueva creación esté debidamente autorizado por la Secretaría.
 
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 57.
 
-Los ascensos se otorgarán previa convocatoria, y podrán ser considerados únicamente los servidores públicos de carrera que pertenezcan al mismo centro de adscripción de la plaza vacante.
+Los ascensos se otorgarán previa convocatoria, y podrán ser considerados únicamente los servidores públicos que pertenezcan al mismo centro de adscripción de la plaza vacante.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 58.
 
-Para participar en los procedimientos de ascenso, los servidores públicos de carrera deberán cubrir los requisitos señalados en las bases de la convocatoria, además de:
+Para participar en los procedimientos de ascenso, los servidores públicos deberán cubrir los requisitos señalados en las bases de la convocatoria, además de:
 
 I. Reunir el perfil señalado en la cédula del puesto;
 
@@ -547,9 +599,11 @@ IV. No haber sido sancionado durante el transcurso del año inmediato anterior a
 
 V. No haber obtenido un ascenso durante el transcurso del año inmediato anterior a la fecha de la convocatoria de este ascenso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 59.
 
-Los servidores públicos de carrera que aspiren a puestos desde el nivel de jefe de oficina u homólogo y hasta el de director general u homólogo y que no reúnan el perfil académico del mismo, deberán cumplir con los siguientes requisitos:
+Los servidores públicos que aspiren a puestos que formen parte del Sistema, y que no reúnan el perfil académico del mismo, deberán cumplir con los siguientes requisitos:
 
 I. Contar con una experiencia mínima de cinco años en la Administración Pública, y
 
@@ -627,13 +681,17 @@ Los programas de capacitación deberán cumplir con los siguientes objetivos y a
 
 I. Orientar el contenido de los cursos hacia la especialización y actualización de los servidores en su rama ocupacional y desempeño en el puesto, y
 
-II. Desarrollar competencias laborales de los servidores públicos de carrera a fin de mejorar el desempeño en el puesto.
+> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2016)</small>
+
+II. Desarrollar competencias laborales de los servidores públicos a fin de mejorar el desempeño en el puesto;
 
 ###### Artículo 71.
 
 Los recursos presupuestales destinados a la capacitación serán controlados conforme a las disposiciones vigentes en la administración pública estatal, y particularmente se atenderá a lo siguiente:
 
-I. Los programas estarán encaminados a la eficiencia de las funciones de los centros de adscripción de los servidores públicos de carrera, específicamente a la obtención de resultados;
+> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2016)</small>
+
+I. Los programas estarán encaminados a la eficiencia de las funciones de los centros de adscripción de los servidores públicos, específicamente a la obtención de resultados;
 
 II. Las acciones de capacitación deberán diseñarse con carácter de prioritarias y necesarias en las funciones específicas y técnicas desempeñadas en las áreas de trabajo de las dependencias;
 
@@ -643,9 +701,11 @@ IV. Los programas estarán sujetos a la disponibilidad presupuestal, sin que pue
 
 V. Los apoyos económicos para cursos, diplomados, especialidades, maestrías y doctorados, debidamente justificados y aprobados conforme a los respectivos lineamientos, serán otorgados preferentemente a los servidores públicos que estén realizando un plan de carrera.
 
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 72.
 
-Para el desarrollo del programa de capacitación, las dependencias, deberán apoyarse preferentemente en instructores internos y, cuando las necesidades lo ameriten, podrán contratar los servicios de instructores externos, previa autorización de la Comisión.
+Para el desarrollo del programa de capacitación, las dependencias, deberán apoyarse preferentemente en instructores internos y, cuando las necesidades lo ameriten, podrán contratar los servicios de instructores externos, previa autorización de la Secretaría.
 
 ###### Artículo 73.
 
@@ -683,9 +743,11 @@ III. Obtener información para la detección de necesidades de capacitación e i
 
 La evaluación del desempeño será aplicada bianualmente y con carácter de obligatoria a todos los servidores públicos de carrera y las dependencias vigilarán que se lleve a cabo por medio de su respectivo Comité, conforme a los lineamientos y criterios emitidos por la Secretaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 78.
 
-Se considerará aprobatoria la evaluación del desempeño cuando el servidor público de carrera obtenga una calificación total igual o mayor setenta y nueve en una escala de uno a cien, en la evaluación del desempeño bianual.
+Se considerará aprobatoria la evaluación del desempeño cuando el servidor público de carrera obtenga una calificación total igual o mayor a setenta y nueve en una escala de uno a cien, en la evaluación del desempeño bianual.
 
 Dicho puntaje representa el cumplimiento mínimo de las funciones encomendadas al puesto.
 
@@ -693,9 +755,11 @@ Dicho puntaje representa el cumplimiento mínimo de las funciones encomendadas a
 
 La calificación menor a setenta y nueve de un total de cien en la evaluación del desempeño se considerará como reprobatoria.
 
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 80.
 
-La Secretaría definirá el procedimiento y los mecanismos para la aplicación de la evaluación del desempeño. La evaluación de conocimientos será elaborada por las dependencias en apego a los criterios que emita la Secretaría, para su validación.
+La Secretaría definirá el procedimiento y los mecanismos para la aplicación de la evaluación del desempeño. La evaluación de conocimientos será elaborada por los Comités en apego a los criterios que emita la Comisión, para su validación, que serán aplicadas en la Secretaría.
 
 ###### Artículo 81.
 
@@ -705,13 +769,17 @@ I. El presidente del Comité conforme a la Ley de la materia no es sujeto de nin
 
 II. El Vocal que es representado por el Contralor Interno será evaluado por el Comité de la Contraloría General, por ser éste un puesto de confianza adscrito a esa dependencia, y
 
-III. El Secretario y la vocalía ocupada por los titulares de las áreas a evaluar, serán evaluados de conformidad con lo señalado en el artículo siguiente.
+> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2016)</small>
+
+III. El Secretario Técnico y la Vocalía ocupada por los titulares de las áreas a evaluar, serán examinados de conformidad con lo señalado en el artículo siguiente.
+
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 82.
 
-A fin de transparentar el proceso de evaluación del desempeño, el Titular de la dependencia designará a los representantes que ocuparán temporalmente los cargos de los integrantes del Comité cuando les corresponda ser evaluados a fin de vigilar la elaboración y aplicación de los exámenes de conocimientos, así como la integración del dictamen de evaluación del desempeño.
-
 La participación de la Secretaría concluirá al momento en que sea emitido el dictamen correspondiente al proceso de evaluación de los integrantes de los comités.
+
+En todo caso, las dependencias informarán a la Secretaría las bajas que ocurran, para el sólo efecto de control y actualización de su registro.
 
 ###### Artículo 83.
 
@@ -743,9 +811,11 @@ VII. Sentencia condenatoria definitiva por la comisión de delito intencional, y
 
 VIII. Incapacidad física o mental, o inhabilidad del servidor público que haga imposible la prestación del servicio.
 
-La sujeción a procedimiento penal por delito intencional producirá la suspensión del nombramiento del servidor público.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 15 DE AGOSTO DE 2016)</small>
 
-Conforme a los motivos señalados en las fracciones anteriores, serán las dependencias con base en la normatividad de la materia, los que realicen los trámites administrativos que correspondan.
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2016)</small>
+
+Conforme a los motivos señalados en las fracciones anteriores, serán los Comités con base en la normatividad de la materia, los que realicen los trámites administrativos que correspondan.
 
 ###### Artículo 86.
 
@@ -757,13 +827,19 @@ II. Durante el levantamiento del acta, el trabajador involucrado será escuchado
 
 III. Se tendrá a la vista el expediente de dicho trabajador, incluyendo las actuaciones del proceso de la evaluación practicada;
 
-IV. Del análisis que se realice del acta, en caso de confirmarse la no aprobación de la evaluación del desempeño del servidor público de carrera, se procederá a elaborar el dictamen de cese, y
+> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2016)</small>
 
-V. Se notificará por escrito el cese de los efectos de su nombramiento del trabajador afectado.
+IV. Del análisis que se realice del acta, en caso de confirmarse la no aprobación de la evaluación del desempeño del servidor público de carrera, tendrán derecho a una segunda evaluación del desempeño, la cual será obligatoria y deberá llevarse a cabo en un plazo no mayor de tres meses, contados a partir de que surta efectos la notificación del resultado de la primera evaluación.
+
+> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2016)</small>
+
+V. En caso de no aprobarse la segunda evaluación del desempeño, se notificará por escrito el cese de los efectos de su nombramiento del trabajador afectado.
+
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 87.
 
-En todos los casos, las dependencias informarán a la Secretaría las bajas que ocurran para efectos de registro y control.
+En todos los casos, los Comités informarán a la Secretaría las bajas que ocurran para efectos de registro y control.
 
 ### CAPÍTULO X. DE LA REVISIÓN DE LAS RESOLUCIONES DEL COMITÉ
 
@@ -844,3 +920,15 @@ MIGUEL ALEMÁN VELAZCO
 GOBERNADOR DEL ESTADO
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 15 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DEL SERVICIO PÚBLICO DE CARRERA EN LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE."]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. A partir de la entrada en vigor del presente Decreto, la Secretaría de Finanzas y Planeación, contará con un plazo de sesenta días naturales para realizar los actos y procedimientos administrativos para el cumplimiento del presente Reglamento.
