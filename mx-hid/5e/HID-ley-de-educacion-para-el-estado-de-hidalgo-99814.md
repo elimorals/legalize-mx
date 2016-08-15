@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-para-el-estado-de-hidalgo-99814"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-10"
-last_updated: "2014-03-10"
+last_updated: "2016-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 10 de marzo de 2014.
 
@@ -113,7 +113,9 @@ IV. Promover mediante la enseñanza, el conocimiento de la pluralidad lingüíst
 
 V. Promover el conocimiento y la práctica de la democracia, como la forma de gobierno y convivencia que permite a todas y todos participar en la toma de decisiones para el mejoramiento de la sociedad; así como promover la práctica de una cultura democrática al interior de la familia;
 
-VI. Promover los valores de justicia, observancia de la ley, igualdad de las personas ante ésta; la igualdad sustantiva entre mujeres y hombres, la no discriminación, propiciando la cultura de la legalidad, de la paz y la no violencia en cualquiera de sus manifestaciones, de la equidad de género, la valoración de la riqueza multicultural y pluriétnica del Estado y de la nación; así como el conocimiento de los derechos humanos y el respeto a los mismos;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+VI. Promover los valores de justicia, observancia de la ley, igualdad de las personas ante ésta; la igualdad sustantiva entre mujeres y hombres, la no discriminación, propiciando la cultura de la legalidad, de la paz y la no violencia en cualquiera de sus manifestaciones, la valoración de la riqueza multicultural y pluriétnica del Estado y de la nación; así como el conocimiento de los derechos humanos y el respeto a los mismos;
 
 VII. Orientar la educación hacia el desarrollo de competencias y habilidades para contribuir al desarrollo cognitivo, fortalecer la reflexión sobre la lengua materna y la apertura hacia otras culturas;
 
@@ -152,6 +154,10 @@ XXIII. Difundir los derechos y deberes de niñas, niños y adolescentes y las fo
 XXIV. Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de las y los educandos o de personas que no tenga la capacidad de comprender el significado del hecho o para resistirlo; y
 
 XXV. Eliminar estereotipos establecidos en función del sexo y del género.
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+XXVI. Incluir, promover y fomentar la Cultura Turística, como instrumento de integración social incorporando las dimensiones sociales, culturales, ambientales y económicas del turismo, orientadas hacia la consolidación de beneficios comunitarios, resaltando la participación de las comunidades según sus propias características locales.
 
 ###### ARTÍCULO 8°.
 
@@ -365,7 +371,9 @@ El Estado y los Municipios podrán celebrar convenios para coordinar y unificar 
 
 La planeación del desarrollo del Sistema Educativo Estatal estará orientada al establecimiento de un servicio educativo equitativo y de calidad, con fundamento en el Plan Nacional de Desarrollo, Plan Estatal de Desarrollo, el Programa Estatal de Educación y demás instrumentos programáticos aplicables.
 
-Es facultad de la autoridad educativa local, elaborar los Programas Estatales de Educación y de Deporte, los cuales deberán integrarse con perspectiva de género y visión incluyente hacia sectores poblacionales en situación de inequidad o vulnerabilidad.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
+Es facultad de la autoridad educativa local, elaborar los Programas Estatales de educación y de deporte, los cuales deberán integrarse con perspectiva de género y visión incluyente hacia sectores poblacionales en situación de inequidad o vulnerabilidad, así como, integrar de manera transversal principios fundamentales y conceptos de cultura turística.
 
 La planeación y coordinación de la educación pública del Estado tendrá como finalidad:
 
@@ -1067,7 +1075,9 @@ IX. Promover, apoyar y difundir las acciones necesarias para la protección civi
 
 X. Alentar el interés familiar y comunitario por el desempeño de alumnos y alumnas;
 
-XI. Impulsar entre estudiantes y comunidad, la difusión de temas que permitan la salvaguarda del libre desarrollo de la personalidad, integridad, equidad de género y derechos humanos de las y los educandos;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+XI. Impulsar entre estudiantes y comunidad, la difusión de temas que permitan la salvaguarda del libre desarrollo de la personalidad, integridad, igualdad de género y derechos humanos de las y los educandos;
 
 XII. Contribuir a reducir las condiciones sociales adversas que influyan en el desempeño escolar de las y los educandos;
 
@@ -1302,3 +1312,17 @@ AL EJECUTIVO DE LA ENTIDAD, PARA LOS EFECTOS DEL ARTÍCULO 51 DE LA CONSTITUCION
 Y EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
 
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS SIETE DÍAS DEL MES DE MARZO DEL AÑO DOS MIL CATORCE. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, LIC. JOSÉ FRANCISCO OLVERA RUIZ.- RÚBRICA.
+
+P.O. 15 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO, LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO, LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO, LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO, LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE HIDALGO, LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO, LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE TULA-TEPEJI Y LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN TODAS DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 695 QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 16; Y SE ADICIONA LA FRACCIÓN XXVI AL ARTÍCULO 7, DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
