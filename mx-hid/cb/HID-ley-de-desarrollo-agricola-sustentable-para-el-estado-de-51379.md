@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-agricola-sustentable-para-el-estado-de-51379"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2015-06-29"
+last_updated: "2016-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -433,9 +433,9 @@ IV.- La creación de empresas agrícolas y el fortalecimiento de las existentes,
 
 V.- El mejoramiento de la economía rural, así como de todas aquellas herramientas que ayuden a los productores rurales a fortalecer la gestión para elevar la calidad de los servicios de salud, educación, vivienda, agua potable, drenaje, electricidad, etc., en concordancia con los programas gubernamentales para el desarrollo social;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
 
-VI.- El enfoque de equidad de género, propiciando la manifestación de la iniciativa, la creatividad y eficiencia de las mujeres, en el proceso de producción agrícola;
+VI.- El enfoque de igualdad de género, propiciando la manifestación de la iniciativa, la creatividad y eficiencia de las mujeres, en el proceso de producción agrícola;
 
 > <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
@@ -807,9 +807,11 @@ XIV.- Todas aquéllas que contribuyan al fortalecimiento del sector social produ
 
 La Secretaría promoverá ante otros sectores de la sociedad, la participación corresponsable en acciones tendientes a fortalecer el desarrollo agrícola, así como la cultura tradicional en la producción de autoconsumo, involucrándolos en la consecución de recursos económicos, humanos y materiales que hagan posible avanzar en la autosuficiencia alimentaria.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 61.
 
-Las organizaciones incorporarán como una de sus políticas prioritarias la de equidad de género.
+Las organizaciones incorporarán como una de sus políticas prioritarias la de igualdad de género.
 
 ### CAPITULO II. DEL DERECHO A LA INFORMACION
 
@@ -1220,3 +1222,9 @@ Artículo Séptimo.- Por lo que hace a las reformas a la Ley de Salud para el Es
 P.O. 29 DE JUNIO DE 2015.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 692 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO, LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO, LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO, LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO, LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE HIDALGO, LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO, LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE TULA-TEPEJI Y LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN TODAS DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
