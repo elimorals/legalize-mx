@@ -4,7 +4,7 @@ identifier: "HID-ley-de-mitigacion-y-adaptacion-ante-los-efectos-del-cambio-9589
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-26"
-last_updated: "2013-08-26"
+last_updated: "2016-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 26 de agosto de 2013.
 
@@ -815,7 +815,9 @@ VII.- Los demás elementos que determine la Comisión.
 
 Los programas municipales en materia de cambio climático establecerán las estrategias, políticas, directrices, objetivos, acciones, metas e indicadores que se implementarán y cumplirán durante el periodo de gobierno correspondiente de conformidad con el Programa y Estrategia Estatal, las disposiciones de esta Ley y las demás que determinen las disposiciones aplicables en la materia
 
-Los programas municipales se elaborarán al inicio de cada administración, procurando siempre la equidad de género y la representación de las poblaciones más vulnerables al cambio climático, indígenas, personas con discapacidad, académicos e investigadores.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
+Los programas municipales se elaborarán al inicio de cada administración, procurando siempre la igualdad de género y la representación de las poblaciones más vulnerables al cambio climático, indígenas, personas con discapacidad, académicos e investigadores.
 
 ###### Artículo 46.
 
@@ -1156,3 +1158,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 692.- QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO, LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO, LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO, LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO, LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE HIDALGO, LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO, LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE TULA-TEPEJI Y LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN TODAS DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
