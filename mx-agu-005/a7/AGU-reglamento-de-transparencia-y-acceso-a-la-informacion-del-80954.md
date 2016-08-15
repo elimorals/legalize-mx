@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-transparencia-y-acceso-a-la-informacion-del-80954
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-18"
-last_updated: "2011-04-18"
+last_updated: "2016-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL MUNICIPIO DE JESÚS MARÍA, AGUASCALIENTES.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
 
 Reglamento publicado en la segunda sección del periódico oficial del Estado de Aguascalientes, el lunes 18 de abril de 2011.
 
@@ -151,9 +151,11 @@ Las observaciones de auditorías que puedan dar lugar a procedimientos administr
 
 En relación con las Entidades, estas deberán publicar de manera íntegra toda la información del Articulo 9°, correspondiente a su entidad, para lo cual elaborarán su propia página electrónica y en caso de no contar con la misma, podrán utilizar la página electrónica del Municipio, hasta en tanto desarrollen la propia, con el fin de que cumplan con la obligación mencionada.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 11.
 
-El H. Ayuntamiento, las Dependencias y Entidades, a través de sus Unidades de Enlace, dentro de los primeros diez días de cada mes, deberán enviar a la Dependencia encargada de sistemas informáticos, la información que se haya actualizado en el mes inmediato anterior, con el fin de que sea publicada en la página electrónica dentro de los posteriores cinco días.
+El H. Ayuntamiento, las Dependencias y Entidades, a través de sus Unidades de Enlace, dentro de los primeros diez días de cada mes, deberán enviar a la Contraloría, la información que se haya actualizado en el mes inmediato anterior, con el fin de que sea publicado en la página electrónica.
 
 ###### ARTÍCULO 12.
 
@@ -185,11 +187,13 @@ En caso de que el solicitante no esté de acuerdo con la clasificación de la in
 
 Al clasificarse un documento como reservado o confidencial, el titular del área administrativa con apoyo de la unidad de enlace deberá fundar y motivar su clasificación.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 17.
 
 Sólo se limitará el acceso a la información del H. Ayuntamiento, las Dependencias y Entidades del Municipio, mediante la figura de información reservada o confidencial.
 
-La clasificación de la información se hará en el formato que para el efecto proponga la Contraloría Municipal.
+La clasificación de la información se hará en el formato que para el efecto proponga la Contraloría Municipal, en concordancia con los lineamientos expedidos por la autoridad competente y demás ordenamientos jurídicos aplicables.
 
 ###### ARTÍCULO 18.
 
@@ -269,9 +273,11 @@ Los particulares podrán advertir a la autoridad sobre aquello que considere pud
 
 El particular tendrá acceso a sus datos personales y podrá solicitar su actualización o corrección, para el efecto, deberá solicitarlo a la Unidad de Enlace de la Dependencia o Entidad conforme a lo que establece este Reglamento para el procedimiento de acceso a la información.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 30.
 
-Las Unidades de Enlace del H. Ayuntamiento, Dependencia o Entidad para actualizar o corregir los datos personales lo harán de conformidad con el procedimiento y los formatos que para el efecto expida la Contraloría.
+Las Unidades de Enlace del H. Ayuntamiento, Dependencia o Entidad para actualizar o corregir los datos personales lo harán de conformidad con el procedimiento y los formatos que para tal efecto expida la Contraloría, en concordancia con los lineamientos expedidos por la autoridad competente y demás ordenamientos jurídico (sic) aplicables.
 
 #### SECCIÓN QUINTA. De la Clasificación
 
@@ -289,11 +295,13 @@ III. El daño que puede producirse con la liberación de la información es mayo
 
 Una vez elaborado el formato, el titular de la Unidad Administrativa lo remitirá al Titular de la Unidad de Enlace, quien junto con el titular correspondiente del H. Ayuntamiento, las Dependencias y Entidades, deberán evaluar su pertinencia; en caso de considerar que se encuentra bien clasificada la información o los documentos, lo firmarán como autorizado, en caso contrario, deberán hacer de conocimiento a los responsables para su inmediata reclasificación o correcciones necesarias.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 33.
 
-Los titulares del H. Ayuntamiento, las Dependencias y Entidades, para efectos de unificar, utilizarán el formato de clasificación que proponga la Contraloría Municipal, el cual podrá ser enriquecido con los comentarios que le hagan al respecto.
+Los titulares del H. Ayuntamiento, las Dependencia (sic) y Entidades, para efectos de unificar, utilizaran el formato de clasificación que proponga la Contraloría Municipal, en concordancia con los lineamientos expedidos por la autoridad competente y demás ordenamientos jurídicos aplicables, el cual podrá ser enriquecido con los comentarios que le hagan al respecto.
 
-Los documentos o expedientes públicos en su totalidad no llevarán leyenda o marca alguna.
+Los documentos o expedientes públicos en su totalidad no llevaran leyenda o marca alguna.
 
 ###### ARTÍCULO 34.
 
@@ -497,9 +505,11 @@ IV. Otros que determine la Contraloría de manera especial.
 
 ### CAPÍTULO VII. La Contraloría Municipal Como Órgano de Coordinación en el Derecho de Acceso a la Información Pública
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 52.
 
-La Contraloría Municipal es la instancia interna responsable de vigilar el cumplimiento de este Reglamento, así como ejercer las demás facultades que le otorga el mismo.
+La Contraloría Municipal es la instancia interna responsable de vigilar el cumplimiento de este reglamento, así como ejercer las demás facultades que le otorga el mismo, Coordinara las funciones llevadas a cabo por las Unidades de Enlace de Acceso a la Información de las Dependencias y Entidades de la Administración Pública Municipal.
 
 ###### ARTÍCULO 53.
 
@@ -548,3 +558,13 @@ PRESIDENTE MUNICIPAL.
 Lic. Alfredo Verdín Alba,
 
 SECRETARIO DEL AYUNTAMIENTO Y DIRECTOR GENERAL DE GOBIERNO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS A LOS ARTÍCULOS 11, 17, 30, 33 Y 52 DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL MUNICIPIO DE JESÚS MARÍA".]
+
+> <small>[N. DE E. SE TRANSCRIBE EL PUNTO SEGUNDO DE LAS REFORMAS A LOS ARTÍCULOS 11, 17, 30, 33 Y 52 DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL MUNICIPIO DE JESÚS MARÍA QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+SEGUNDO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
