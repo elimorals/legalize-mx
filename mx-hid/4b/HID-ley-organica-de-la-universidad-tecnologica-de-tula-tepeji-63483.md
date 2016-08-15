@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-universidad-tecnologica-de-tula-tepeji-63483
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-09-22"
-last_updated: "2014-05-19"
+last_updated: "2016-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63483&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE TULA-TEPEJI
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 22 de septiembre de 2008.
 
@@ -155,9 +155,9 @@ VII.- Planear, desarrollar y evaluar actividades de investigación aplicada e in
 
 VIII.- Impulsar estrategias de participación y concertación con los sectores público, privado y social, para la proyección de las actividades productivas, con eficiencia y sentido social, basadas en la vocación productiva de su área de influencia;
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
 
-IX.- Contar con un Sistema Integral de Gestión de la Calidad, Ambiental y Equidad de Género;
+IX.- Contar con un Sistema Integral de Gestión de la Calidad, Ambiental e Igualdad de Género.
 
 > <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
 
@@ -353,9 +353,9 @@ i).- Las normas y bases para la adquisición, arrendamiento y enajenación de lo
 
 j).- Las normas y bases para cancelar los adeudos a cargo de terceros y a favor de La Universidad, cuando se determine la imposibilidad de recuperación, informando a las Autoridades correspondientes;
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
-k).- El Sistema Integral de Gestión de la Calidad, Ambiental y Equidad de Género; y
+k.- El Sistema Integral de Gestión de la Calidad; Ambiental e igualdad de Género; y
 
 I).- El programa de becas que otorgue La Universidad;
 
@@ -760,3 +760,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su Publicaci
 SEGUNDO. A más tardar en el plazo de sesenta días, contados a partir de la fecha de publicación del presente Decreto, se reformará el Estatuto Orgánico, así como todas las disposiciones legales de la Universidad que estén vinculadas con el presente ordenamiento.
 
 TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 692 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO, LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO, LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO, LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO, LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE HIDALGO, LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO, LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE TULA-TEPEJI Y LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN TODAS DEL ESTADO DE HIDALGO.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
