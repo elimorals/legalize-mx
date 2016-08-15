@@ -4,7 +4,7 @@ identifier: "HID-ley-de-poblacion-para-el-estado-de-hidalgo-50965"
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-03"
-last_updated: "2012-10-22"
+last_updated: "2016-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 3 de julio de 2006.
 
@@ -101,7 +101,9 @@ IV.- Las tareas programáticas de las Dependencias y Entidades Públicas, que te
 
 V.- La descentralización en materia Poblacional hacia los Municipios a través de los Consejos Municipales de Población; y
 
-VI.- La equidad de género.
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+VI.- La igualdad de género.
 
 ###### Artículo 8.
 
@@ -167,7 +169,9 @@ V.- Influir en la dinámica de Población a través de los sistemas educativos y
 
 VI.- Promover la incorporación de contenidos de educación sexual y salud reproductiva, en los planes y programas de educación básica;
 
-VII.- Promover la plena integración de la mujer, al proceso productivo, político, educativo, social y cultural, logrando una equidad de género;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+VIl.- Promover la plena integración de la mujer, al proceso productivo, político, educativo, social y cultural, logrando una igualdad de género;
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2012)</small>
 
@@ -303,7 +307,9 @@ El Consejo Estatal de Población y los Consejos Municipales, realizarán en coor
 
 La orientación se hará a través de grupos multidisciplinarios.
 
-### CAPITULO VII. DE LA MUJER Y LA EQUIDAD DE GENERO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO VIl. DE LA MUJER Y LA IGUALDAD DE GÉNERO
 
 ###### Artículo 26.
 
@@ -315,7 +321,9 @@ II.- Revaluar el papel del varón ante el círculo familiar, estimulando la corr
 
 III.- Evitar toda forma de discriminación individual y colectiva hacia la mujer en razón de su sexo;
 
-IV.- Implementar una equidad de género de las mujeres con los varones en igualdad de condiciones;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+IV.- Implementar una igualdad de género de las mujeres con los hombres en igualdad de condiciones;
 
 V.- Facilitar los derechos laborales y el mejoramiento de las condiciones de trabajo de las mujeres, así como su acceso a la previsión, la seguridad social y los servicios de apoyo;
 
@@ -323,7 +331,9 @@ VI.- Difundir los derechos de las mujeres para facilitar su ejercicio;
 
 VII.- Incorporar equitativamente a las mujeres a las instancias Gubernamentales, empresariales, sindicales, partidarias y civiles de decisión;
 
-VIII.- Crear un sistema de seguimiento de acciones Gubernamentales, que impulsen la equidad de género, con participación de organismos públicos, sociales, civiles y académicos; y
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+VIII.- Crear un sistema de seguimiento de acciones Gubernamentales, que impulsen la igualdad de género, con participación de organismos públicos, sociales, civiles y académicos; y
 
 IX.- Prevenir la violencia contra la mujer, que infringe su integridad física y moral.
 
@@ -424,3 +434,9 @@ P.O. 22 DE OCTUBRE DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO, LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO, LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO, LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO, LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE HIDALGO, LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO, LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE TULA-TEPEJI Y LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN TODAS DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
