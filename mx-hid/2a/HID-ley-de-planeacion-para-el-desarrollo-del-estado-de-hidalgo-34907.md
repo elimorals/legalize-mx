@@ -4,7 +4,7 @@ identifier: "HID-ley-de-planeacion-para-el-desarrollo-del-estado-de-hidalgo-3490
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-24"
-last_updated: "2013-09-02"
+last_updated: "2016-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 24 de noviembre de 2003.
 
@@ -99,7 +99,9 @@ I.- El fortalecimiento de la libertad, la soberanía Estatal, el pacto Federal y
 
 II.- La preservación y el perfeccionamiento del Sistema Republicano y Federal que la Constitución Política de los Estados Unidos Mexicanos señala y del régimen democrático y representativo que establece la Constitución del Estado de Hidalgo; así como el fortalecimiento de la democracia, como forma de vida fundada en el constante mejoramiento económico, político, social, regional y cultural del pueblo hidalguense, impulsando su participación activa en la Planeación del Desarrollo y ejecución de las actividades que con base en ella deban realizarse;
 
-III.- La igualdad de derechos, la equidad de género, la atención de necesidades de la población y la mejoría, en todos los aspectos de su calidad de vida, a fin de lograr una sociedad más justa e igualitaria;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+III.- La igualdad de derechos, la igualdad de género, la atención de necesidades de la población y la mejoría, en todos los aspectos de su calidad de vida, a fin de lograr una sociedad más justa e igualitaria;
 
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1010,3 +1012,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- El titular del Poder Ejecutivo del Estado de Hidalgo dispondrá, que el presente Decreto, se traduzca a las lenguas que hablan los diferentes pueblos y comunidades indígenas existentes en el Territorio Estatal, así como, la difusión entre las diferentes Dependencias Educativas y de Gobierno en sus respectivos órdenes.
+
+P.O. 15 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 692.- QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO, LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO, LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO, LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO, LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE HIDALGO, LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO, LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE TULA-TEPEJI Y LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN TODAS DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
