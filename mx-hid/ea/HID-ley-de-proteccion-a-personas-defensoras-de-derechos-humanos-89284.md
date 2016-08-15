@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-a-personas-defensoras-de-derechos-humanos-892
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-27"
-last_updated: "2012-08-27"
+last_updated: "2016-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN A PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y DE SALVAGUARDA DE LOS DERECHOS PARA EL EJERCICIO DEL PERIODISMO DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de agosto de 2012.
 
@@ -79,7 +79,7 @@ IV.- Colaboradora periodística: Toda persona que hace del ejercicio de las libe
 
 V.- Comisión: Comisión Estatal de Protección a Personas Defensoras de Derechos Humanos, Periodistas y Colaboradoras Periodísticas;
 
-VI.- Defensor de la audiencia: Figura de autorregulación interna que sirve como punto de partida de la discusión ética, que debe sostenerse permanentemente en el trabajo periodístico. Buscando alcanzar la excelencia profesional en beneficio de una sociedad mejor informada;
+VI.- (DEROGADA, P.O. 15 DE AGOSTO DE 2016)
 
 VII.- Estudio de Evaluación de Riesgo: Análisis de factores para determinar el nivel de riesgo en que se encuentra el peticionario o potencial beneficiario.
 
@@ -99,7 +99,9 @@ XIV.- Periodista: Persona física, así como medios de comunicación y difusión
 
 XV.- Persona Defensora de Derechos Humanos: Personas físicas que actúen individualmente o como integrantes de un grupo, organización o movimiento social, así como personas morales, grupos, organizaciones o movimientos sociales cuya finalidad sea la promoción o defensa de los derechos humanos; y
 
-XVI.- Secreto profesional: Derecho de las y los periodistas para negarse a revelar la identidad de sus fuentes de información, cuando este considerada como reservada, siempre y cuando ésta se difunda con apego a la legalidad y a los principios rectores de veracidad, imparcialidad, objetividad, equidad y responsabilidad y esté debidamente contrastada y/documentada; (sic)
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+XVI.- Secreto profesional: Derecho de las y los periodistas para negarse a revelar la identidad de sus fuentes de información.
 
 ### CAPÍTULO II. DE LAS PERSONAS DEFENSORAS DE DERECHOS HUMANOS
 
@@ -175,23 +177,33 @@ En ningún caso la aplicación de la Cláusula de conciencia podrá ser utilizad
 
 ### CAPÍTULO VII. DEL ACCESO A LAS FUENTES DE INFORMACIÓN
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 13.
 
-La persona Periodista o la Colaboradora periodística tendrán acceso a los actos públicos en términos de la legislación aplicable.
+La persona periodista o colaboradora periodística tendrá acceso a los actos públicos en términos de la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 14.
 
-Las y los particulares no podrán prohibir la presencia de personas Periodistas y Colaboradoras periodísticas debidamente acreditados en los actos señalados en el Artículo anterior, una vez cubiertos los requisitos previamente establecidos para su ingreso.
+En eventos públicos organizados por instancias públicas, que por razones de capacidad o seguridad obliguen a un acceso restringido, las personas periodistas o colaboradoras periodísticas se identificarán con los organizadores.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 15.
 
-Se facilitará el acceso a la persona Periodista o la Colaboradora periodística debidamente acreditadas a todos los edificios e instalaciones públicas, salvo que por cuestiones de horario o seguridad, la autoridad competente determine lo contrario. No podrá impedirse la toma de imágenes de estos lugares, salvo que así se disponga por razones de seguridad, defensa del Estado o conservación y preservación de aquellos que constituyan patrimonio histórico estatal.
+Las instancias públicas, facilitarán el ejercicio periodístico en sus instalaciones o eventos, previa identificación.
 
 ### CAPÍTULO VIII. DEL RESPALDO ESTATAL PARA LA FORMACIÓN PROFESIONAL CONTINUA
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 16.
 
-La Secretaría de Educación Pública y el gremio periodístico, impulsarán la celebración de convenios de colaboración con instituciones de educación pública y privada, con el propósito de lograr alternativas de profesionalización para personas Periodistas y Colaboradoras periodísticas del Estado.
+La Secretaría de Educación Pública del Estado de Hidalgo y el gremio periodístico, impulsarán la celebración de convenios de colaboración con instituciones de educación pública y privada, con el propósito de lograr alternativas de profesionalización y capacitación en temas de protección y defensa de derechos humanos para personas Periodistas, Colaboradoras periodísticas del Estado y personas defensoras de derechos humanos, con los propios programas y presupuestos que se tienen establecidos para tal efecto.
+
+Las dependencias gubernamentales estatales, capacitarán a los servidores públicos que tengan trato directo con periodistas, colaboradoras periodísticas y personas defensoras de derechos humanos, para que a través del conocimiento de esta ley, respeten y protejan el ejercicio de sus labores.
 
 ### CAPÍTULO IX. DE LA COMISIÓN ESTATAL DE PROTECCIÓN A PERSONAS DEFENSORAS DE DERECHOS HUMANOS, PERIODISTAS Y COLABORADORAS PERIODÍSTICAS
 
@@ -227,27 +239,31 @@ V.- Resolver las inconformidades que se llegaran a presentar relacionadas con el
 
 La Junta de Gobierno es la instancia máxima de la Comisión y principal órgano de toma de decisiones para la prevención y protección de Personas Defensoras de Derechos Humanos, Periodistas y Colaboradoras periodísticas en el Estado.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 21.
 
-La Junta de Gobierno está conformada por ocho miembros permanentes con derecho a voz y voto:
+La Junta de Gobierno estará conformada por once miembros permanentes con derecho a voz y voto:
 
 I.- Un representante de la Secretaría de Gobierno;
 
-II.- Un representante de la Procuraduría General de Justicia;
+II.- Un representante de la Coordinación General de Comunicación Social del Poder Ejecutivo;
 
-III.- Un representante de la Secretaría de Seguridad Pública;
+III.- Un representante de la Procuraduría General de Justicia;
 
-IV.- Un representante del Congreso del Estado;
+IV.- Un representante de la Secretaría de Seguridad Pública;
 
-V.- Un representante del Poder Judicial del Estado;
+V.- Un representante del Congreso del Estado;
 
-VI.- Un representante del Gremio de Periodistas acreditados en el Estado;
+VI.- Un representante del Poder Judicial del Estado;
 
-VII.- Un representante de la Comisión de Derechos Humanos del Estado de Hidalgo; y
+VII.- Dos representantes del Gremio de Periodistas en el Estado;
 
-VIII.- Defensor de la Audiencia.
+VIII.- Dos representantes de personas defensoras de derechos humanos; y
 
-La Junta de Gobierno estará integrada por propietarios y suplentes, quienes podrán suplir las ausencias del propietario.
+IX.- Un representante de la Comisión de Derechos Humanos del Estado de Hidalgo.
+
+La Junta de Gobierno estará integrada por propietarios y suplentes, quienes podrán suplir las ausencias del propietario; y por cuanto hace a los representantes del gremio de periodistas y de personas defensoras de derechos humanos, serán designados de manera rotativa por un año, en término (sic) de lo que establezca el Reglamento de esta Ley.
 
 ###### Artículo 22.
 
@@ -257,9 +273,11 @@ Cuando las circunstancias del caso lo ameriten, podrán sesionar extraordinariam
 
 ### CAPÍTULO XII. DE LAS ATRIBUCIONES DE LA SECRETARÍA EJECUTIVA
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 23.
 
-La Secretaría Ejecutiva es el órgano responsable de coordinar con las dependencias de la Administración Pública del Estado, quien será presidida por un servidor público con rango de Subsecretario, quien fungirá como Secretario Ejecutivo.
+La Secretaría Ejecutiva es el órgano responsable de coordinar con las dependencias de la administración pública del Estado, que será presidida por un servidor público con rango de subsecretario o equivalente, quien fungirá como Secretario Ejecutivo
 
 ###### Artículo 24.
 
@@ -282,6 +300,14 @@ VII.- Comunicar los acuerdos y resoluciones de la Junta de Gobierno a las autori
 VIII.- Elaborar los protocolos de protección a Personas Defensoras de Derechos Humanos, Periodistas y Colaboradoras periodísticas; e
 
 IX.- Iniciar la denuncia que corresponda ante la instancia competente.
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+X.- Dar parte a la Fiscalía de Atención a Delitos Cometidos contra la Libertad de Expresión y Periodistas, independientemente del tipo de agresión, sin importar si es periodista o persona defensora de derechos humanos, en términos de los protocolos establecidos; y
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+XI.- Difundir los informes elaborados, para que tengan el carácter de públicos.
 
 ### CAPÍTULO XIII. DE LA SOLICITUD DE PROTECCIÓN Y EVALUACIÓN DE RIESGO
 
@@ -367,35 +393,37 @@ III.- Protección de inmuebles; y
 
 IV.- Las demás que se requieran para salvaguardar la vida, integridad y libertad de los beneficiarios.
 
-### CAPÍTULO XV. DE LOS CONVENIOS DE COLABORACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO XV. DE LAS OBLIGACIONES DE LOS MUNICIPIOS
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 32.
 
-El Estado y los Municipios, en el ámbito de sus respectivas competencias celebrarán Convenios de Colaboración para hacer efectivas las medidas previstas en el Mecanismo, para garantizar la vida, integridad, libertad y seguridad de Personas Defensoras de Derechos Humanos, Periodistas y Colaboradoras periodísticas.
+Los Municipios deberán hacer efectivas las medidas previstas en el Mecanismo, para garantizar la vida, integridad, libertad y seguridad de Personas Defensoras de Derechos Humanos, Periodistas y Colaboradoras periodísticas.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 33.
 
-Los Convenios de Colaboración contemplarán las acciones conjuntas para facilitar la operación eficaz y eficiente del Mecanismo mediante:
+Los municipios tendrán las siguientes obligaciones:
 
-I.- La designación de representantes que funjan como enlaces para garantizar el cumplimiento del objeto de esta Ley;
+I.- Designar representantes que funjan como enlaces frente al Estado para garantizar el cumplimiento del objeto de esta Ley;
 
-II.- El intercambio de información de manera oportuna y de experiencias técnicas del Mecanismo, así como para proporcionar capacitación;
+II.- Proporcionar a la Secretaría Ejecutiva la información relativa a la materia de esta ley, de manera oportuna;
 
-III.- El seguimiento puntual a las medidas previstas en esta Ley en sus respectivos Municipios;
+III.- Dar seguimiento puntual a las medidas previstas en esta Ley;
 
-IV.- La promoción del estudio, análisis, investigación y desarrollo de estrategias, acciones, sistemas y metodologías que incorporen las mejores prácticas de prevención y protección;
+IV.- Promover el estudio, análisis, investigación y desarrollo de estrategias, acciones, sistemas y metodologías que incorporen las mejores prácticas de prevención y protección, acordes al objeto de esta ley; y
 
-V.- La promoción de las reformas y adiciones necesarias en la legislación para mejorar la situación de Personas Defensoras de Derechos Humanos, Periodistas o Colaboradoras periodísticas; y
-
-VI.- Las demás que las partes convengan.
+V.- Capacitar a los servidores públicos que, por sus funciones, tengan trato directo con periodistas, colaboradoras periodísticas y personas defensoras de derechos humanos, para que a través del conocimiento de esta ley, respeten y protejan el ejercicio de sus labores.
 
 ### CAPÍTULO XVI. DEL DEFENSOR DE LA AUDIENCIA
 
 ###### Artículo 34.
 
-Las funciones del Defensor de la Audiencia, consisten básicamente en procesar las quejas e inquietudes de los consumidores, para garantizar sus derechos y para promover un mejor ejercicio del periodismo.
-
-También puede actuar de oficio, es decir, que pueden abordar un asunto de su competencia sin necesidad de que exista la queja del consumidor.
+(DEROGADO, P.O. 15 DE AGOSTO DE 2016)
 
 ###### Artículo 35.
 
@@ -438,3 +466,13 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 672 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y DE SALVAGUARDA DE LOS DERECHOS PARA EL EJERCICIO DEL PERIODISMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
