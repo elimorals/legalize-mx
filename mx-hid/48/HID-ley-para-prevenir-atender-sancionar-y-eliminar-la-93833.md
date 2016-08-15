@@ -4,7 +4,7 @@ identifier: "HID-ley-para-prevenir-atender-sancionar-y-eliminar-la-93833"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-08"
-last_updated: "2013-10-28"
+last_updated: "2016-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 28 DE OCTUBRE DE 2013 NO APLICA AL ARTICULADO DEL PRESENTE ORDENAMIENTO.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 8 de abril de 2013.
 
@@ -157,7 +155,9 @@ XII. Vulnerabilidad: Condición de riesgo o discriminación al que se enfrenta u
 
 Las medidas y políticas públicas que tengan por objeto garantizar condiciones de igualdad en el acceso a derechos y oportunidades así como prevenir, atender, sancionar y eliminar la discriminación, se deberán sustentar en los siguientes principios:
 
-I. Equidad;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+
+I. Igualdad;
 
 II. No discriminación;
 
@@ -171,7 +171,7 @@ VI. Integración en todos los ámbitos de la vida;
 
 VII. Accesibilidad; y
 
-VIII Transparencia y acceso a la información.
+VIII. Transparencia y acceso a la información.
 
 ### CAPÍTULO II.. DE LA DISCRIMINACIÓN
 
@@ -223,7 +223,7 @@ XI. Promover y garantizar que todos los espacios e inmuebles públicos que prest
 
 XII. Fomentar que en los servicios privados e inmuebles particulares donde se preste servicio a la población, se realicen las adecuaciones arquitectónicas que permitan facilidad en el acceso y libre tránsito de las personas con discapacidad;
 
-XIII. Establecer en su normatividad, la prohibición de conductas discriminatorias y vigilar su debido cumplimiento; y (sic)
+XIII. Establecer en su normatividad, la prohibición de conductas discriminatorias y vigilar su debido cumplimiento; y
 
 XIV. Promover una cultura de denuncia en contra de actos discriminatorios; y
 
@@ -321,7 +321,7 @@ V. Preferir en igualdad de circunstancias para el otorgamiento de becas, crédit
 
 VI. Alentar la producción y difusión de libros para niños y niñas con contenidos relativos a sus derechos humanos, así como en lenguaje accesible a quienes presenten alguna discapacidad o pertenecientes a un grupo o comunidad indígena;
 
-VII. Promover la creación de instituciones, que tutelen a los menores privados de su medio familiar, incluyendo hogares de guarda y albergues para estancias temporales; y (sic)
+VII. Promover la creación de instituciones, que tutelen a los menores privados de su medio familiar, incluyendo hogares de guarda y albergues para estancias temporales; y
 
 VIII. Promover la recuperación física, psicológica y la integración social de todo menor víctima de abandono, explotación o malos tratos; y
 
@@ -545,7 +545,7 @@ I. Presentar ante el Consejo Consultivo de la Comisión, el Proyecto de Programa
 
 II. Presentar ante el Consejo Consultivo de la Comisión, el informe anual de actividades en materia de discriminación;
 
-III. Nombrar y determinar las atribuciones de los servidores públicos, en materia de discriminación: (sic)
+III. Nombrar y determinar las atribuciones de los servidores públicos, en materia de discriminación:
 
 IV. Establecer los sistemas de registro, control y evaluación necesarios para alcanzar las metas y objetivos propuestos en sus proyector (sic) y programas de actividades; y
 
@@ -852,3 +852,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- El Titular del Poder Ejecutivo del Estado de Hidalgo dispondrá, que el presente Decreto, se traduzca a las lenguas que hablan los diferentes pueblos y comunidades indígenas existentes en el Territorio Estatal, así como, la difusión entre las diferentes dependencias educativas y de Gobierno en sus respectivos órdenes.
+
+P.O. 15 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 692 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO, LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO, LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO, LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO, LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE HIDALGO, LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO, LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE TULA-TEPEJI Y LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN TODAS DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
