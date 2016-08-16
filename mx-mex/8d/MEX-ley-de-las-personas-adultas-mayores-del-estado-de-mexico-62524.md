@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-las-personas-adultas-mayores-del-estado-de-mexico-62524"
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-06"
-last_updated: "2011-08-12"
+last_updated: "2016-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE MEXICO -ANTES- LEY DEL ADULTO MAYOR DEL ESTADO DE MEXICO
 
-LEY DEL ADULTO MAYOR DEL ESTADO DE MEXICO
+LEY DEL ADULTO MAYOR DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 12 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 16 DE AGOSTO DE 2016.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 6 de agosto de 2008.
 
@@ -85,13 +85,13 @@ XIV. Tanatología: Conjunto de conocimiento (sic) médicos relativos a la muerte
 
 XV. Vulnerabilidad: Condición de indefensión jurídica, social, económica o física, en la que se puede encontrar el Adulto Mayor.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 3.
 
 La aplicación, seguimiento y observancia de las disposiciones de esta Ley corresponde:
 
-l. Al Ejecutivo Estatal a través de la Secretaría de Desarrollo Social y del Consejo Estatal de la Mujer y Bienestar Social y Órgano Rector; y (sic)
+I. Al Ejecutivo Estatal a través de la Secretaría de Desarrollo Social y del Consejo Estatal de la Mujer y Bienestar Social y Órgano Rector; y
 
 II. A los Gobiernos Municipales, en el ámbito de sus respectivas competencias, por conducto de los SMDIF.
 
@@ -115,7 +115,7 @@ Las dependencias, entidades y organismos encargados de la aplicación, seguimien
 
 Son principios rectores en la observación y aplicación de esta Ley:
 
-l. Autonomía y Autorrealización: Las acciones que se realicen en beneficio de los adultos mayores orientadas a fortalecer su independencia, su capacidad de decisión y su desarrollo personal, comunitario y la cantidad del desarrollo productivo de los Adultos Mayores;
+I. Autonomía y Autorrealización: Las acciones que se realicen en beneficio de los adultos mayores orientadas a fortalecer su independencia, su capacidad de decisión y su desarrollo personal, comunitario y la cantidad del desarrollo productivo de los Adultos Mayores;
 
 II. Integración: La participación de los adultos mayores en todos los órdenes de la vida pública.
 
@@ -135,7 +135,7 @@ VI. Dignificación: El derecho de los adultos mayores a que se respete su integr
 
 Son derechos de los adultos mayores, además de aquellos que les reconozcan otras leyes, los siguientes:
 
-l. Disfrutar plenamente, sin discriminación o distinción alguna, de los derechos que ésta y otras leyes consagran;
+I. Disfrutar plenamente, sin discriminación o distinción alguna, de los derechos que ésta y otras leyes consagran;
 
 II. Vivir en una sociedad sensibilizada con respeto a sus problemas, sus méritos, sus responsabilidades, sus capacidades y experiencias;
 
@@ -205,7 +205,7 @@ XXXIV. Acceder a programas de condonaciones de contribuciones tanto estatales co
 
 XXXV. Estar informado de la condonación de contribuciones, así como de los descuentos ofrecidos en su beneficio por las instituciones públicas y privadas;
 
-XXXVI. Obtener oportunamente, la información adecuada en los trámites para su jubilación; y (sic)
+XXXVI. Obtener oportunamente, la información adecuada en los trámites para su jubilación; y
 
 XXXVII. Acceder a programas de descuentos en establecimientos públicos, privados, y servicios de transporte de pasajeros.
 
@@ -245,7 +245,7 @@ El Ejecutivo Estatal y los Presidentes Municipales en sus respectivos ámbitos d
 
 Las políticas en beneficio de los adultos mayores deberán tener como objetivos:
 
-l. Vigilar y garantizar la defensa y el pleno ejercicio de sus derechos, sean éstos residentes o estén de paso por el Estado;
+I. Vigilar y garantizar la defensa y el pleno ejercicio de sus derechos, sean éstos residentes o estén de paso por el Estado;
 
 II. Propiciar las condiciones para un mayor bienestar físico y mental a fin de que puedan ejercer plenamente sus capacidades en el seno de la familia y de la sociedad, incrementando su autoestima y preservando su dignidad como ser humano;
 
@@ -259,7 +259,7 @@ V. Impulsar el fortalecimiento de redes familiares, sociales e institucionales d
 
 VI. Establecer las bases para la asignación de programas y beneficios sociales, descuentos y estímulos para ese sector de la población, de conformidad con las disposiciones jurídicas aplicables;
 
-VII. Fomentar que las instituciones educativas y de salud establezcan las disciplinas para la formación de especialistas en geriatría, gerontología y tanatología, con el fin de garantizar la cobertura de los servicios de salud requeridos por la población adulta mayor; y (sic)
+VII. Fomentar que las instituciones educativas y de salud establezcan las disciplinas para la formación de especialistas en geriatría, gerontología y tanatología, con el fin de garantizar la cobertura de los servicios de salud requeridos por la población adulta mayor; y
 
 VIII. Fomentar la realización de estudios e investigaciones sociales de la problemática inherente al envejecimiento que sirvan como herramienta de trabajo a las instituciones del sector público y privado para desarrollar programas en beneficio de la población adulta mayor.
 
@@ -297,7 +297,7 @@ XV. Promover la difusión de los derechos y valores en beneficio de los adultos 
 
 Corresponde a la Secretaría de Desarrollo Social:
 
-l. Fomentar la participación de los sectores público, social y privado en la promoción, seguimiento y financiamiento de los programas de atención a los adultos mayores;
+I. Fomentar la participación de los sectores público, social y privado en la promoción, seguimiento y financiamiento de los programas de atención a los adultos mayores;
 
 II. Fomentar la participación de los adultos mayores, de forma individual o colectiva, en la planeación integral del desarrollo social, para promover e incidir en acciones a favor de ellos;
 
@@ -313,7 +313,7 @@ VI. Promover el acceso de los adultos mayores a los programas sociales que estab
 
 Corresponde a la Secretaría de Salud:
 
-l. Coordinar la política estatal en materia de salud, así como la prestación de los servicios de salud a los adultos mayores, en la Entidad;
+I. Coordinar la política estatal en materia de salud, así como la prestación de los servicios de salud a los adultos mayores, en la Entidad;
 
 II. Promover que los adultos mayores tengan una atención preferente en los servicios de salud, así como una atención hospitalaria inmediata en casos de emergencia;
 
@@ -337,7 +337,7 @@ XI.- Coordinar con los sectores público, social y privado, campañas educativas
 
 XII. Ampliar la red de atención a los adultos mayores, a través de convenios con instituciones de salud privadas;
 
-XIII. Establecer convenios con universidades públicas y privadas para recibir prestadores de servicio social en las áreas de trabajo social, psicología, medicina, odontología y enfermería para que apoyen las acciones institucionales en la atención de los adultos mayores en las unidades geriátricas y/o domicilio; y (sic)
+XIII. Establecer convenios con universidades públicas y privadas para recibir prestadores de servicio social en las áreas de trabajo social, psicología, medicina, odontología y enfermería para que apoyen las acciones institucionales en la atención de los adultos mayores en las unidades geriátricas y/o domicilio; y
 
 XIV. Verificar que las casas hogar, albergues, casas de día y centro de atención integral para adultos mayores, cumplan con la normatividad de la materia.
 
@@ -361,7 +361,7 @@ XVIII. Vigilar que en los hospitales, las clínicas y los centros de salud, púb
 
 Corresponde al Sistema para el Desarrollo Integral de la Familia:
 
-l. Implementar programas de asistencia social para que los adultos mayores reciban la protección de su familia, de la sociedad y de los órganos de gobierno estatales y municipales, fomentando una cultura de respeto y dignificación hacia éstos;
+I. Implementar programas de asistencia social para que los adultos mayores reciban la protección de su familia, de la sociedad y de los órganos de gobierno estatales y municipales, fomentando una cultura de respeto y dignificación hacia éstos;
 
 II Implementar programas de asistencia social para adultos mayores, en caso de desempleo, discapacidad, pérdida de sus medios de subsistencia;
 
@@ -377,7 +377,7 @@ VII. Fomentar el acceso de los adultos mayores que se encuentren en situación d
 
 VIII. Garantizar a los adultos mayores el derecho de ingresar voluntariamente a una casa hogar o albergue, o por el contrario, respetar su decisión a no ser internado;
 
-IX. Denunciar ante las autoridades competentes, cuando sea procedente, cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y en general cualquier acto que perjudique a los adultos mayores; y (sic)
+IX. Denunciar ante las autoridades competentes, cuando sea procedente, cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y en general cualquier acto que perjudique a los adultos mayores; y
 
 > <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2011)</small>
 
@@ -413,7 +413,7 @@ XVI. La atención y seguimiento de quejas, denuncias e informes, sobre la violac
 
 Corresponde al Consejo Estatal de la Mujer y Bienestar Social:
 
-l. Promover, coordinar, operar y evaluar políticas y programas de apoyo para los adultos mayores y su bienestar social;
+I. Promover, coordinar, operar y evaluar políticas y programas de apoyo para los adultos mayores y su bienestar social;
 
 II. Coordinar e instrumentar los programas y acciones de atención a los adultos mayores que se deriven de los acuerdos nacionales e internacionales que le sean encomendados;
 
@@ -435,7 +435,7 @@ IX. Suscribir con los sectores público, social y privado, los convenios que se 
 
 Corresponde a la Secretaría General de Gobierno:
 
-l. Considerar en las políticas de población, las características y necesidades de los adultos mayores;
+I. Considerar en las políticas de población, las características y necesidades de los adultos mayores;
 
 II. Gestionar ante los notarios públicos, el otorgamiento de descuentos y facilidades en los trámites que realicen ante ellos, los adultos mayores;
 
@@ -453,11 +453,11 @@ VII. Promover condiciones apropiadas de reclusión para los adultos mayores, cua
 
 Corresponde a la Secretaría de Finanzas:
 
-l. Desarrollar programas de condonación o de reducción de contribuciones estatales a favor de los adultos mayores;
+I. Desarrollar programas de condonación o de reducción de contribuciones estatales a favor de los adultos mayores;
 
 II. Promover entre los municipios de la entidad, la condonación, reducción o estímulos de contribuciones a favor de los adultos mayores;
 
-III. Realizar campañas de difusión de la condonación, reducción o estímulos de contribuciones a favor de los adultos mayores; y (sic)
+III. Realizar campañas de difusión de la condonación, reducción o estímulos de contribuciones a favor de los adultos mayores; y
 
 IV. Promover el acceso de los adultos mayores, a los créditos otorgados por las entidades financieras públicas y privadas.
 
@@ -485,7 +485,7 @@ IV. Fomentar la creación de organizaciones productivas de adultos mayores en gr
 
 V. Ofrecer asesoría y apoyo jurídico, a los adultos mayores que requieran realizar su trámite de jubilación;
 
-VI. Integrar una bolsa de trabajo con ofertas laborales que puedan ser desempeñadas por los adultos mayores; y (sic)
+VI. Integrar una bolsa de trabajo con ofertas laborales que puedan ser desempeñadas por los adultos mayores; y
 
 VII. Brindar capacitación y financiamiento para el autoempleo de los adultos mayores.
 
@@ -507,7 +507,7 @@ II. Fomentar, en coordinación con las universidades, programas de educación su
 
 III. Proponer ante las autoridades correspondientes, la incorporación de contenidos sobre el proceso del envejecimiento, así como axiológicos en la formación de sus alumnos para que cultiven el respeto, reconocimiento, atención y cuidado de los adultos mayores, en los planes y programas de estudios de todos los niveles educativos;
 
-IV. Facilitar el acceso de los adultos mayores a la cultura y las artes, de manera gratuita o con descuentos especiales; y (sic)
+IV. Facilitar el acceso de los adultos mayores a la cultura y las artes, de manera gratuita o con descuentos especiales; y
 
 V. Facilitar el uso de las bibliotecas públicas que les otorguen préstamo a domicilio del material de las mismas, con la presentación de su identificación personal, credencial de jubilado o pensionado y/o credencial de adulto mayor.
 
@@ -519,15 +519,17 @@ VI. Fomentar el acceso gratuito o con descuentos especiales, a eventos culturale
 
 VII. Promover, en coordinación con las autoridades correspondientes, el establecimiento de programas permanentes de educación para la alfabetización de los adultos mayores, en el ámbito de su competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE AGOSTO DE 2016)</small>
+
 ### CAPÍTULO I. DE LA FAMILIA
 
 > <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 16.
 
-Corresponde a la Secretaría de Desarrollo Urbano:
+Corresponde a la Secretaría de Desarrollo Urbano y Metropolitano:
 
-l. Verificar que los desarrollos urbanos cuenten con las características que satisfagan las necesidades de los adultos mayores y que les permitan un libre desplazamiento;
+I. Verificar que los desarrollos urbanos cuenten con las características que satisfagan las necesidades de los adultos mayores y que les permitan un libre desplazamiento;
 
 II. Promover programas sociales para que los adultos mayores tengan una vivienda digna y adaptada a sus necesidades; y
 
@@ -537,17 +539,19 @@ III. Promover proyectos de vivienda de interés social acordes a las necesidades
 
 Corresponde a la Secretaría de Turismo:
 
-l. Impulsar la promoción de actividades y participación de los adultos mayores en actividades turísticas;
+I. Impulsar la promoción de actividades y participación de los adultos mayores en actividades turísticas;
 
 II. Promover acciones a fin de que en lugares públicos destinados a la recreación, se cuente con los espacios y actividades que faciliten la integración de los adultos mayores; y
 
 III. Establecer convenios de coordinación con empresas del ramo, para ofrecer tarifas especiales, en su caso gratuitas, en los centros públicos y privados de entretenimiento, recreación, cultura y deporte, hospedaje en hoteles y asistencia a centros históricos y turísticos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 18.
 
-Corresponde a la Secretaría del Transporte:
+Corresponde a la Secretaría de Movilidad:
 
-l. Celebrar convenios con las empresas de transporte, para que otorguen tarifas preferenciales a los adultos mayores; y (sic)
+I. Celebrar convenios con las empresas de transporte, para que otorguen tarifas preferenciales a los adultos mayores; y
 
 > <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2011)</small>
 
@@ -561,7 +565,7 @@ III. Establecer programas para la difusión de una cultura de aprecio y respeto 
 
 Corresponde a la Procuraduría General de Justicia del Estado:
 
-l. Garantizar mecanismos expeditos, sin dilación en la procuración de justicia para garantizar y asegurar a los adultos mayores la justicia plena;
+I. Garantizar mecanismos expeditos, sin dilación en la procuración de justicia para garantizar y asegurar a los adultos mayores la justicia plena;
 
 II. Brindar a las víctimas que sean adultos mayores la información integral sobre las instituciones públicas y privadas encargadas de su atención;
 
@@ -619,7 +623,7 @@ Se crea el Comité Estatal para la Atención del Adulto Mayor, como un órgano r
 
 En el ejercicio de sus funciones, el Comité deberá atender los siguientes criterios:
 
-l. Transversalidad en las políticas públicas a cargo de las distintas dependencias, organismos auxiliares y entidades de la Administración Pública Estatal, a partir de la ejecución de programas y acciones coordinadas;
+I. Transversalidad en las políticas públicas a cargo de las distintas dependencias, organismos auxiliares y entidades de la Administración Pública Estatal, a partir de la ejecución de programas y acciones coordinadas;
 
 II. Vigilar el cumplimiento y desarrollo de los programas y actividades para el fortalecimiento institucional de las dependencias responsables de la aplicación de las disposiciones jurídicas que regulen la materia en la entidad y los municipios; y
 
@@ -629,7 +633,7 @@ III. Coadyuvar en el fortalecimiento de los vínculos con las demás instancias 
 
 El Comité tendrá las siguientes funciones:
 
-l. Formular las políticas y planes en materia de adultos mayores;
+I. Formular las políticas y planes en materia de adultos mayores;
 
 II. Coordinar con las dependencias, organismos auxiliares y entidades de la Administración Pública Estatal, los municipios y el sector social y privado, las acciones en pro del bienestar, desarrollo y protección del adulto mayor;
 
@@ -649,7 +653,7 @@ IX. Propiciar la colaboración y participación de instituciones públicas y pri
 
 X. Crear un paquete integral de servicios básicos, con acciones que fomenten la generación de la cultura del envejecimiento digno;
 
-XI. Establecer vínculos de colaboración entre los poderes del Estado, que permitan cumplir con los objetivos de la presente Ley; y (sic)
+XI. Establecer vínculos de colaboración entre los poderes del Estado, que permitan cumplir con los objetivos de la presente Ley; y
 
 XII. Gestionar fondos ante organizaciones públicas y privadas, nacionales e internacionales, para la ejecución de programas de atención a los adultos mayores.
 
@@ -665,11 +669,13 @@ XIV. Elaborar un informe anual que se remitirá a las Comisiones correspondiente
 
 El Comité Estatal para la Atención del Adulto Mayor, estará integrado por:
 
-l. Un Presidente, que será el Secretario de Desarrollo Social;
+I. Un Presidente, que será el Secretario de Desarrollo Social;
 
 II. Un Secretario Técnico, que será el Vocal Ejecutivo del Consejo Estatal de la Mujer y Bienestar Social;
 
-III. Once vocales que serán:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE AGOSTO DE 2016)</small>
+
+III. Catorce vocales que serán:
 
 Un representante:
 
@@ -691,9 +697,13 @@ h) Del Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas del
 
 i) De la Secretaría de Finanzas;
 
-j) De la Secretaría de Desarrollo Urbano;
+> <small>(REFORMADO, G.G. 16 DE AGOSTO DE 2016)</small>
 
-k) De la Secretaría de Transporte;
+j) De la Secretaría de Desarrollo Urbano y Metropolitano;
+
+> <small>(REFORMADO, G.G. 16 DE AGOSTO DE 2016)</small>
+
+k) De la Secretaría de Movilidad;
 
 l) De la Comisión (sic) Derechos Humanos del Estado de México;
 
@@ -739,7 +749,7 @@ La familia deberá cumplir su función social, por tanto, de manera activa, cons
 
 La familia de los adultos mayores está obligada a:
 
-l. Conocer los derechos de los adultos mayores, previstos en la presente Ley y demás ordenamientos legales;
+I. Conocer los derechos de los adultos mayores, previstos en la presente Ley y demás ordenamientos legales;
 
 II. Cuidar de los adultos mayores que formen parte de su familia, conociendo de sus necesidades y proporcionándoles los elementos necesarios para su atención integral;
 
@@ -747,7 +757,7 @@ III. Procurar que permanezcan en el hogar del que forman parte y que sólo por d
 
 IV. Fomentar la convivencia familiar cotidiana, donde la persona adulta mayor participe activamente, promoviendo los valores que incidan en sus necesidades afectivas, de protección y apoyo;
 
-V. Evitar que alguno de sus integrantes, cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia o actos jurídicos que pongan en riesgo su persona, bienes y derechos; y (sic)
+V. Evitar que alguno de sus integrantes, cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia o actos jurídicos que pongan en riesgo su persona, bienes y derechos; y
 
 VI. Abstenerse de forzar al adulto mayor a realizar actos de mendicidad que atenten contra su dignidad o que impliquen un esfuerzo tal, que vaya en perjuicio de su salud física y mental.
 
@@ -769,7 +779,7 @@ Los familiares, representantes legales o encargados del cuidado del adulto mayor
 
 El derecho de los adultos mayores a percibir alimentos se garantiza en los términos previstos por el Código Civil vigente en la entidad y extraordinariamente, la prestación alimentaria comprenderá, además el pago de:
 
-l. Gastos médicos extraordinarios, de necesidad notoria y urgente;
+I. Gastos médicos extraordinarios, de necesidad notoria y urgente;
 
 II. Suministro de los medicamentos que requiera para su salud;
 
@@ -827,7 +837,7 @@ El personal que labore en instituciones públicas, privadas y sociales dedicadas
 
 Cuando una institución pública, privada o social, se haga cargo de un Adulto Mayor, está obligada a:
 
-l. Atender adecuadamente su alimentación, habitación y asistencia médica;
+I. Atender adecuadamente su alimentación, habitación y asistencia médica;
 
 II. Otorgar los cuidados integrales que requiera su salud física y mental;
 
@@ -837,7 +847,7 @@ IV. Integrar un expediente personal con la historia clínica y un registro con l
 
 V. Dar seguimiento a la evolución y evaluación de los casos atendidos, registrando los datos en los expedientes personales correspondientes;
 
-VI. Obtener en caso de ser posible, los nombres, domicilios y teléfonos de sus familiares; y (sic)
+VI. Obtener en caso de ser posible, los nombres, domicilios y teléfonos de sus familiares; y
 
 VII. Expedir copia del expediente a los familiares autorizados, a las autoridades judiciales o a las instituciones que continúen la atención del Adulto Mayor, cuando lo soliciten.
 
@@ -859,7 +869,7 @@ La creación de la Estancia del Adulto Mayor será impulsada por organizaciones 
 
 El Gobierno Estatal y los Gobiernos Municipales se coordinarán con los diversos sectores social y privado para impulsar la creación de estancias para la atención a los Adultos Mayores. Corresponde a las Estancias municipales del Adulto Mayor:
 
-l. Aplicar el Programa Estatal;
+I. Aplicar el Programa Estatal;
 
 II. Velar por la seguridad de los Adultos Mayores que se encuentren en ellos;
 
@@ -877,7 +887,7 @@ Las Estancias Municipales deberán ser lugares seguros para los Adultos Mayores.
 
 Las Estancias Municipales prestarán a los adultos mayores los siguientes servicios especializados y gratuitos:
 
-l. Alimentación;
+I. Alimentación;
 
 II. Servicio médico;
 
@@ -977,10 +987,18 @@ DR. VICTOR HUMBERTO BENITEZ TREVIÑO
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 12 DE AGOSTO DE 2011.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 16 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 117.- POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULOS (SIC) 16 Y EL PRIMER PÁRRAFO DEL 18; ASÍ COMO EL PRIMER PÁRRAFO DE LA FRACCIÓN III Y SUS INCISOS J) Y K) DEL ARTÍCULO 24 DE LA LEY DEL ADULTO MAYOR DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
