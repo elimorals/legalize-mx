@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-de-oaxaca-11818"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-04"
-last_updated: "2014-10-11"
+last_updated: "2016-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -677,9 +677,11 @@ Las fracciones parlamentarias son la forma de organización que podrán adoptar 
 
 Las fracciones parlamentarias tenderán a garantizar la libre expresión de las corrientes ideológicas representadas en el Congreso y coadyuvar al mejor desarrollo del proceso Legislativo facilitando la participación de los Diputados en estas tareas. Además, contribuirán orientando y estimulando la formación de criterios comunes en las discusiones y deliberaciones en que participen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 55.
 
-Los Diputados de la misma filiación de partido podrán constituir una sola fracción parlamentaria y será requisito esencial que lo integren cuando menos 2 Diputados.
+Los Diputados de la misma filiación de partido podrán constituir una sola fracción parlamentaria y será requisito esencial que lo integren cuando menos cinco diputados.
 
 Las fracciones parlamentarias se tendrán por constituidos cuando presenten los siguientes documentos a la Mesa Directiva de la Legislatura:
 
@@ -1066,3 +1068,9 @@ P.O. 12 DE ABRIL DE 2014.
 P.O. 11 DE OCTUBRE DE 2014.
 
 ÚNICO.- El presente Decreto entra en vigor el día siguiente de su aprobación. Publíquese en el Periódico Oficial del Gobierno (sic)
+
+P.O. 16 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2006.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 55 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación.
