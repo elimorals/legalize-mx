@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-comision-estatal-del-deporte-y-atencion-a-2189
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-30"
-last_updated: "2002-07-02"
+last_updated: "2016-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA COMISION ESTATAL DEL DEPORTE Y ATENCION A LA JUVENTUD
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN DE DEPORTE DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE FECHA 16 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA COMISION ESTATAL DEL DEPORTE Y ATENCION A LA JUVENTUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el sábado 30 de junio de 2001.
 
@@ -675,7 +677,7 @@ EL SECRETARIO DE EDUCACIÓN
 
 VÍCTOR MANUEL RAMÍREZ VALENZUELA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 P.O. 2 DE JULIO DE 2002.
 
@@ -686,3 +688,15 @@ EL PRESENTE DECRETO GUBERNATIVO ENTRARÁ EN VIGOR EL CUARTO DÍA SIGUIENTE AL DE
 ###### ARTÍCULO SEGUNDO.
 
 SE DEROGAN TODAS LAS DISPOSICIONES ADMINISTRATIVAS QUE SE OPONGAN AL PRESENTE DECRETO GUBERNATIVO.
+
+P.O. 16 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 164, MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO INTERIOR DE LA COMISIÓN DE DEPORTE DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo primero. El presente Decreto Gubernativo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento
+
+Artículo segundo. Se abroga el Decreto Gubernativo número 58 publicado en el Periódico Oficial del Gobierno del Estado número 52-B, Primera Parte, de fecha 30 de junio de 2001, mediante el cual se expidió el Reglamento de la Comisión Estatal del Deporte y Atención a la Juventud.
