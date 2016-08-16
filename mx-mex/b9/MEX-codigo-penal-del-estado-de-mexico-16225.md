@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2016-06-16"
+last_updated: "2016-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE AGOSTO DE 2016.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -1677,11 +1677,9 @@ II. Impedir el cumplimiento de una ley, decreto, reglamento o resolución judici
 
 III. El defensor público que habiendo aceptado la defensa de algún inculpado, la abandone o descuide por negligencia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, G.G. 16 DE AGOSTO DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 17 DE AGOSTO DE 2015)</small>
-
-IV. El Defensor Especializado que habiendo sido designado para representar a una víctima y ofendido, la abandone o descuide por negligencia.
+IV. El Asesor Jurídico que habiendo sido designado para representar a una víctima y ofendido, la abandone o descuide por negligencia.
 
 V. Omitir la denuncia o querella de algún ilícito del que tenga conocimiento, cometido en perjuicio o en contra de la Administración Pública Estatal o Municipal.
 
@@ -6236,3 +6234,19 @@ SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
 CUARTO. Respecto a las adiciones a los artículos 70 y 70 Bis del Código Penal del Estado de México, el otorgamiento del beneficio estará condicionado además a la disponibilidad de los dispositivos electrónicos y a la suficiencia presupuestal para su ejecución.
+
+G.G. 16 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 118.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO Y SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 132 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Cuando se haga referencia al Código Nacional de Procedimientos Penales se entenderá al Código de Procedimientos Penales del Estado de México, hasta la entrada en vigor del Código Nacional de Procedimientos Penales.
+
+CUARTO. Todos los procedimientos penales que se iniciaron con el Código de Procedimientos Penales para el Estado de México se concluirán con el mismo.
+
+QUINTO. En tanto entre plenamente en vigor el Decreto por el que se crea la Fiscalía General del Estado de México, deberá entenderse a la Procuraduría General de Justicia del Estado de México.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
