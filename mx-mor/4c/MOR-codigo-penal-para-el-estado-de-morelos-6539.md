@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2016-07-20"
+last_updated: "2016-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2016.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1719,11 +1719,11 @@ Las mismas sanciones se impondrán si el agente actúa en estado de ebriedad o b
 
 Cuando se cause homicidio, en las circunstancias previstas en el presente artículo, las sanciones serán de seis a veinte años de prisión y privación o inhabilitación en el ejercicio de aquellos derechos.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 129.
 
-No se procederá contra quien culposamente ocasione lesiones u homicidio en agravio de un ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubino, adoptante o adoptado, salvo que el autor se encuentre bajo el efecto de bebidas embriagantes, de estupefacientes o psicotrópicos, sin que medie prescripción médica, o bien que no auxiliare a la víctima.
+No se procederá contra quien culposamente ocasione lesiones u homicidio en agravio de un ascendiente o descendiente consanguíneo en línea recta o hermano, salvo que el autor se encuentre bajo el efecto de bebidas embriagantes, de estupefacientes o psicotrópicos, sin que medie prescripción médica, o bien que no auxiliare a la víctima.
 
 > <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 1996)</small>
 
@@ -2007,9 +2007,9 @@ II. Reproduzca dichos documentos u objetos; o
 
 III. Utilice medios técnicos para escuchar, observar, transmitir, grabar o reproducir la imagen o el sonido.
 
-### CAPITULO III. HOSTIGAMIENTO SEXUAL
+### CAPITULO III. HOSTIGAMIENTO Y ACOSO SEXUAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 151.
 
@@ -2067,25 +2067,21 @@ Al que sin consentimiento de una mujer mayor de edad, o con el consentimiento de
 
 Si la inseminación se realiza con violencia, se impondrá a los autores una pena de veinticinco a treinta años de prisión.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE AGOSTO DE 2016)</small>
+
 ### CAPITULO I. DIFAMACION
 
 ###### ARTICULO 158.
 
-Al que con fines lascivos asedie, acose o solicite favores de naturaleza sexual para sí o para un tercero, a persona de cualquier sexo, con la amenaza de causarle un mal o negarle un beneficio a que tenga derecho, relacionado con las expectativas que pueda tener en el ámbito de una relación, bien sea entre superior e inferior jerárquico, entre iguales o en cualquier circunstancia que los relacione en las áreas laborales, docentes, domésticas o de cualquier otra, se le impondrá sanción de tres a cinco años de prisión y de trescientos a quinientos días multa.
+Comete el delito de acoso sexual la persona que, con fines lascivos, asedie, acose o solicite favores de naturaleza sexual para sí o para un tercero a persona de cualquier sexo, y se le impondrá de dos a cinco años de prisión y multa de doscientos a cuatrocientosdel (sic) valor diario de la Unidad de Medida y Actualización.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 14 DE MAYO DE 2008)</small>
+Comete el delito de hostigamiento sexual, la persona que realice la conducta descrita en el párrafo anterior, y además exista relación jerárquica, derivada de relaciones laborales, docentes, domésticas o de cualquier clase que implique subordinación entre el sujeto activo y pasivo, la pena se incrementará hasta una tercera parte de la antes señalada.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2004)</small>
+Si el sujeto activo fuera servidor público, docente o parte del personal administrativo de cualquier institución educativa o de asistencia social y utilice los medios o circunstancias que el cargo le proporcione, además de la pena prevista en los párrafos anteriores, se le destituirá del cargo, o se le inhabilitará para ejercer otro cargo público por un lapso igual al de la pena de prisión impuesta.
 
-Solo se procederá contra el hostigador a petición del ofendido o de su legítimo representante, con las excepciones señaladas a continuación.
+Si el sujeto pasivo es menor de edad o persona que no tenga la capacidad para comprender el significado del hecho o de resistirlo, la pena se duplicará.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2008)</small>
-
-Cuando el hostigador sea servidor público, docente o parte del personal administrativo de cualesquier institución educativa o de asistencia social, el delito será perseguible de oficio, en cuyo caso se sancionará con prisión de 5 a 10 años y de quinientos a mil días multa.
-
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2004)</small>
-
-En el caso de que preste sus servicios en una institución pública, además se le destituirá e inhabilitará para ejercer su cargo por un término igual a la prisión impuesta; en caso de reincidencia, la inhabilitación será definitiva.
+Estos delitos se perseguirán por querella, salvo el supuesto previsto en los dos párrafos anteriores, en que se perseguirán de oficio.
 
 ### CAPITULO II. CALUMNIA
 
@@ -3971,13 +3967,13 @@ XXXII. Desviar u obstaculizar la investigación del hecho delictuoso de que se t
 
 XXXIII. Al elemento de los cuerpos policiales que asiente hechos falsos en un parte informativo o simule, altere o modifique el parte informativo, con el fin de obtener un beneficio económico o cosa para sí o para otro.
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2016)</small>
 
-A quien cometa los delitos previstos en las fracciones I, II, III, VII, VIII, IX, X, XXI, XXIV, XXVI, XXVII y XXVIII se les impondrá de tres a ocho años de prisión y de quinientos a mil quinientos días multa.
+A quien cometa los delitos previstos en las fracciones I, II, III, VII, IX, X, XXI, XXIV, XXVI, XXVII y XXVIII se les impondrá de tres a ocho años de prisión y de quinientos a mil quinientos días multa.
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2016)</small>
 
-A quien cometa los delitos previstos en las fracciones IV, V, VI, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXII, XXIII y XXV, XXIX, XXX, XXXI, XXXII y XXXIII se les impondrá de cuatro a diez años de prisión y de mil a dos mil días multa.
+A quien cometa los delitos previstos en las fracciones IV, V, VI, VIII, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXII, XXIII y XXV, XXIX, XXX, XXXI, XXXII y XXXIII se les impondrá de cuatro a diez años de prisión y de mil a dos mil días multa.
 
 En todos los delitos previstos en este Capítulo, además de la pena de prisión correspondiente, el agente será privado de su cargo e inhabilitado para el desempeño de otro por los períodos a los que se refieren los dos párrafos precedentes, a juicio del tribunal.
 
@@ -4828,3 +4824,21 @@ PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su 
 SEGUNDA.- La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 17 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO OCHOCIENTOS SESENTA Y DOS POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPITULO III DEL TÍTULO SÉPTIMO Y SE REFORMA DE MANERA INTEGRAL EL ARTÍCULO 158 DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA.- Aprobado que sea el presente decreto, remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA- El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del gobierno del Estado de Morelos.
+
+TERCERA.- Una vez publicada la presente reforma en el Periódico Oficial "Tierra y Libertad”, infórmese a la Comisión Permanente del Congreso de la Unión, que se ha dado debido cumplimiento al exhorto descrito en el proemio del presente Dictamen.
+
+P.O. 17 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO OCHOCIENTOS SESENTA Y TRES POR EL QUE SE REFORMAN, EL ARTÍCULOS (SIC) 129 Y LOS PÁRRAFOS TERCERO Y CUARTO DEL ARTÍCULO 297, AMBOS DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión Oficial del Gobierno del Estado de Morelos.
