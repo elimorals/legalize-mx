@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "2015-02-07"
+last_updated: "2016-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2016.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -489,6 +489,10 @@ VI. Copia certificada del acta de defunción del cónyuge fallecido, si alguno d
 
 VII. Copia certificada de la dispensa de impedimentos si los hubo.
 
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2016)</small>
+
+VIII. Constancia expedida por el Oficial del Registro Civil en la que acrediten haber participado en el curso prematrimonial, de acuerdo a lo establecido en el artículo 106 del presente Código.
+
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 67.
@@ -737,9 +741,13 @@ El Estado establece el matrimonio como uno de los medios morales reconocidos por
 
 Para contraer matrimonio es necesario que ambos contrayentes sean mayores de edad.
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2016)</small>
 
-También es requisito para contraer matrimonio, la asistencia previa de los interesados a las pláticas de orientación prematrimonial con perspectiva de género, que llegare a implementar la correspondiente autoridad municipal.
+También es requisito para contraer matrimonio, la asistencia previa de los interesados a los cursos de orientación prematrimonial con perspectiva de género, que lleven a cabo las Oficialías del Registro Civil correspondientes.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2016)</small>
+
+Las Oficialías del Registro Civil podrán celebrar los convenios de colaboración respectivos con las dependencias y entidades que consideren pertinentes, para recibir el apoyo profesional y técnico necesario para la realización de dichos cursos.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
@@ -2063,7 +2071,7 @@ Se presumen hijos de los concubinos:
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-l. Los nacidos en cualquier momento desde que inició la vida en común;
+I. Los nacidos en cualquier momento desde que inició la vida en común;
 
 II. Los nacidos dentro de los trescientos días siguientes al en que cesó, la vida en común entre el concubinario y la concubina.
 
@@ -2509,7 +2517,7 @@ En igualdad de circunstancias se dará preferencia en la adopción a mexicanos r
 
 Las adopciones internacionales promovidas por ciudadanos originarios de los países que son parte de la Convención Sobre Protección de Menores y Cooperación en Materia de Adopción Internacional, tendrán lugar cuando el Sistema Estatal para el desarrollo Integral de la Familia, en su carácter de autoridad central, verifique y determine:
 
-l. Que el menor es adoptable;
+I. Que el menor es adoptable;
 
 II. Que después de haber examinado adecuadamente las posibilidades de colocación del menor, se vea que la adopción es una alternativa y responde al interés superior del niño;
 
@@ -4812,3 +4820,13 @@ Segundo.- Se derogan todas las disposiciones que contravengan al presente Decret
 P.O. 7 DE FEBRERO DE 2015.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 17 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 597.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+Artículo tercero.- Los Ayuntamientos de los cincuenta y ocho municipios del Estado, contarán con un plazo de 180 días naturales contados a partir del día siguiente (sic) la entrada en vigor del presente Decreto, para llevar a cabo las acciones necesarias e implementar la realización de los cursos prematrimoniales materia del presente instrumento legislativo.
