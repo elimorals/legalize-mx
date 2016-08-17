@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-inversion-extranjera-y-del-registro-121
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-09-08"
-last_updated: "2014-10-31"
+last_updated: "2016-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12146&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-08-27"
 
 REGLAMENTO DE LA LEY DE INVERSIÓN EXTRANJERA Y DEL REGISTRO NACIONAL DE INVERSIONES EXTRANJERAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE AGOSTO DE 2016.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el martes 8 de septiembre de 1998.
 
@@ -211,7 +211,13 @@ VI. Que la institución fiduciaria se comprometa a notificar la extinción del f
 
 VII. Que las partes en el contrato se comprometan a extinguir el fideicomiso a petición de la Secretaría de Relaciones Exteriores, dentro de un plazo de ciento ochenta días contados a partir de la fecha de notificación del requerimiento, en caso de incumplimiento o violación a cualquiera de las condiciones establecidas en el permiso correspondiente.
 
-Los permisos a que se refiere el artículo 11 de la Ley, no eximen del cumplimiento de los planes y programas de desarrollo urbano y ordenamiento ecológico de la localidad en la que se ubique el inmueble, ni de los criterios de sustentabilidad de la política ambiental.
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2016)</small>
+
+Los permisos a que se refiere el artículo 11 de la Ley tendrán una vigencia de ciento ochenta días naturales contados a partir de su expedición. Asimismo, la expedición de estos permisos no exime del cumplimiento de los planes y programas de desarrollo urbano y ordenamiento ecológico de la localidad en la que se ubique el inmueble, ni de los criterios de sustentabilidad de la política ambiental y demás disposiciones jurídicas aplicables. La Secretaría de Relaciones Exteriores podrá prorrogar por una sola vez la vigencia del permiso por ciento ochenta días naturales adicionales, previa petición por escrito del permisionario en la que justifique la intención de uso del permiso durante el periodo de prórroga solicitado.
+
+> <small>(ADICIONADO, D.O.F. 17 DE AGOSTO DE 2016)</small>
+
+Una vez que los permisos a que se refiere el párrafo anterior sean utilizados, las instituciones de crédito deberán dar aviso sobre dicha circunstancia a la Secretaría de Relaciones Exteriores en un plazo de cinco días hábiles contados a partir de su formalización en instrumento público.
 
 ###### ARTÍCULO 12.
 
@@ -688,3 +694,11 @@ PRIMERO.- El presente Decreto entrará en vigor a los sesenta días hábiles sig
 SEGUNDO.- Los trámites presentados ante el Registro que se encuentren pendientes de ser resueltos a la fecha en que entre en vigor el presente Decreto, y aquéllos cuya obligación de presentación al Registro se hubieran generado antes de la entrada en vigor de este Decreto, se resolverán conforme a lo previsto en el presente ordenamiento en todo aquello que beneficie a los solicitantes.
 
 TERCERO.- A quienes tengan obligaciones pendientes en materia del Registro Nacional de Inversiones Extranjeras y que cumplan con las disposiciones previstas en el Título Séptimo de la Ley de Inversión Extranjera dentro de los sesenta días hábiles siguientes a la fecha de entrada en vigor del presente Decreto, la Secretaría de Economía impondrá, en su caso, la sanción mínima establecida en la fracción IV del artículo 38 de la Ley.
+
+D.O.F. 17 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 11 DEL REGLAMENTO DE LA LEY DE INVERSIÓN EXTRANJERA Y DEL REGISTRO NACIONAL DE INVERSIONES EXTRANJERAS”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los permisos a que se refiere el artículo 11 de la Ley de Inversión Extranjera que fueron expedidos por la Secretaría de Relaciones Exteriores con anterioridad a la entrada en vigor del presente Decreto y que no señalan una temporalidad para su uso, mantendrán su vigencia, debiendo la institución de crédito dar aviso a la Secretaría de Relaciones Exteriores sobre la constitución del fideicomiso correspondiente, dentro de los cinco días hábiles posteriores a dicha constitución.
