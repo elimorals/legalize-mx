@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2016-07-06"
+last_updated: "2016-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -761,7 +761,7 @@ CONTINUIDAD DE LA OBLIGACIÓN DE DAR ALIMENTOS A CARGO DEL CÓNYUGE SEPARADO. El
 
 SUJETOS DE LA EMANCIPACIÓN. Los varones y las mujeres mayores de dieciséis años y menores de dieciocho años, sujetos a patria potestad o a tutela, podrán emanciparse por las siguientes causas:
 
-I.- A través del matrimonio
+I.- (DEROGADA, P.O. 17 DE AGOSTO DE 2016)
 
 II.- A solicitud del menor, si demuestra su buena conducta y su aptitud para el buen manejo de sus intereses
 
@@ -773,17 +773,17 @@ IV.- Por concesión del tutor, siempre que el sujeto demuestre su buena conducta
 
 Para declararse la emancipación de acuerdo a las fracciones II, III y IV, se requiere autorización judicial competente.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 61.
 
-DEFINITIVIDAD DE LA EMANCIPACIÓN. Hecha la emancipación no podrá ser revocada. En el caso del matrimonio, no obstante que el mismo se disuelva, el cónyuge emancipado no recaerá en la patria potestad o en la tutela.
+DEFINITIVIDAD DE LA EMANCIPACIÓN. Hecha la emancipación no podrá ser revocada.
 
 ###### ARTÍCULO 62.
 
 LIBRE ADMINISTRACIÓN DE LOS BIENES DEL EMANCIPADO. El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante su menor edad de autorización judicial para la enajenación, gravamen o hipoteca de sus bienes raíces y de un tutor especialmente nombrado para estos casos.
 
-> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
-
-ARTÍCULO 62 BIS.- APTITUD PARA PROMOVER CUESTIONES DE DIVORCIO. El emancipado podrá solicitar la disolución de su vínculo matrimonial y comparecer por su propio derecho a las actuaciones inherentes a la misma.
+ARTÍCULO 62 BIS.- (DEROGADO, P.O. 17 DE AGOSTO DE 2016)
 
 ### CAPÍTULO V. DE LA MAYORÍA DE EDAD
 
@@ -879,25 +879,19 @@ PROTECCIÓN DEL ESTADO A LA INSTITUCIÓN DEL MATRIMONIO. El Estado protegerá la
 
 ### CAPÍTULO III. DE LOS REQUISITOS PARA CONTRAER MATRIMONIO
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 72.
 
-EDAD PARA CONTRAER MATRIMONIO. Para contraer matrimonio los contrayentes necesitan haber cumplido dieciocho años. El Juez de lo Familiar puede únicamente conceder dispensas de edad cuando ambos pretendientes comparezcan ante él de manera voluntaria, siempre que éstos hayan cumplido los dieciséis años de edad y cuenten con el respectivo consentimiento de quienes deban otorgarlo en términos del artículo 73 del presente Código.
+EDAD PARA CONTRAER MATRIMONIO. Para contraer matrimonio los contrayentes necesitan haber cumplido dieciocho años.
 
 ###### ARTÍCULO 73.
 
-CONSENTIMIENTO DE LOS ASCENDIENTES PARA EL MATRIMONIO DE MENORES. El hijo o la hija que no hayan cumplido dieciocho años no pueden contraer matrimonio sin consentimiento de su padre y de su madre, si vivieren ambos, o del que sobreviva. Este derecho lo tienen el padre o la madre, aunque hayan contraído ulteriores nupcias, si el hijo vive a su lado. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos que se encuentren en ejercicio de la patria potestad.
-
-Faltando padres y abuelos, se necesita el consentimiento de los tutores y en ausencia o negativa de dicho consentimiento, los interesados acudirán ante el Juez de lo Familiar, el que resolverá sobre el particular.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2016)
 
 ###### ARTÍCULO 74.
 
-IRREVOCABILIDAD DEL CONSENTIMIENTO. El ascendiente o tutor que haya prestado su consentimiento, firmando la solicitud respectiva y ratificándola ante el Oficial del Registro Civil, no puede revocarlos después, a menos que haya justa causa para ello.
-
-Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio falleciere antes de que se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo, pero siempre que el matrimonio se verifique dentro del plazo fijado en el artículo 463, primer párrafo, de este Código.
-
-El Juez que hubiere autorizado a un menor para contraer matrimonio no podrá revocar el consentimiento, una vez que lo haya otorgado, sino por justa causa superveniente.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2016)
 
 ### CAPÍTULO IV. DE LOS IMPEDIMENTOS PARA CONTRAER MATRIMONIO
 
@@ -955,9 +949,9 @@ XIV.- La impotencia incurable para la cópula, salvo en aquel caso que, a sabien
 
 XV. Encontrarse afectado por enfermedades mentales incurables;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2016)</small>
 
-XVI.- La falta de edad requerida por la Ley, cuando no haya sido dispensada;
+XVI.- La falta de edad requerida por la Ley;
 
 XVII.- El matrimonio subsistente con persona distinta de aquella con quien se pretende contraer; y
 
@@ -967,9 +961,7 @@ XVIII.- Las demás que señale este Código.
 
 IMPEDIMENTOS DISPENSABLES. Son impedimentos dispensables:
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2016)</small>
-
-I.- No tener la edad de 18 años los contrayentes, si no han obtenido el consentimiento conforme a las reglas de los artículos 72 y 73 de este Código.
+I.- (DEROGADA, P.O. 17 DE AGOSTO DE 2016)
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -987,11 +979,11 @@ PROHIBICIÓN MATRIMONIAL DEL ADOPTANTE. El adoptante no puede contraer matrimoni
 
 IMPEDIMENTO POR POSIBLE GRAVIDEZ DE LA MUJER. La mujer no puede contraer matrimonio sino hasta pasados trescientos días después de la disolución del anterior. En los casos de nulidad o de divorcio, debe contarse este tiempo desde que se interrumpió la cohabitación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 82.
 
-PROHIBICIÓN MATRIMONIAL PARA EL TUTOR, CURADOR Y SUS DESCENDIENTES. El tutor no puede contraer matrimonio con la persona que ha estado o está bajo su guarda, a no ser que obtenga dispensa, la que no se le concederá por el Juez de lo familiar respectivo, sino cuando hayan sido aprobadas las cuentas de la tutela y que la persona que esté o haya estado bajo su guarda tenga cumplidos los dieciséis años de edad.
+PROHIBICIÓN MATRIMONIAL PARA EL TUTOR, CURADOR Y SUS DESCENDIENTES. El tutor no puede contraer matrimonio con la persona que ha estado o está bajo su guarda, a no ser que obtenga dispensa, la que no se le concederá por el Juez de lo familiar respectivo, sino cuando hayan sido aprobadas las cuentas de la tutela.
 
 Esta prohibición comprende también al curador y a los descendientes de éste y del tutor.
 
@@ -1051,11 +1043,9 @@ ACTIVIDADES LÍCITAS DE LOS CÓNYUGES. Los cónyuges podrán desempeñar cualqui
 
 CAPACIDAD DE LOS MAYORES DE EDAD CASADOS. Los cónyuges mayores de edad tienen capacidad para administrar, contratar o disponer de sus bienes propios, ejercitar las pretensiones u oponer las defensas que a ellos corresponden sin que para tal objeto necesiten consentimiento, salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de los bienes. Si se ejercen las pretensiones civiles que tenga uno, contra el otro, la prescripción entre los consortes no corre mientras dure el matrimonio.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2016)</small>
-
 ###### ARTÍCULO 92.
 
-LIMITACIONES A LOS CÓNYUGES MENORES DE EDAD. Los cónyuges menores de edad tendrán la administración de sus bienes, en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2016)
 
 ###### ARTÍCULO 93.
 
@@ -1067,9 +1057,11 @@ RÉGIMEN LEGAL DE BIENES Y ADMINISTRACIÓN. Antes de celebrar el matrimonio, los
 
 ### CAPÍTULO VI. DISPOSICIONES GENERALES DEL MATRIMONIO CON RELACIÓN A LOS BIENES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 95.
 
-RÉGIMEN ECONÓMICO MATRIMONIAL. El matrimonio debe celebrarse bajo el régimen de sociedad conyugal o de separación de bienes, pudiendo pactarse un régimen mixto. El régimen escogido podrá cambiarse por acuerdo de los cónyuges durante el matrimonio.
+RÉGIMEN ECONÓMICO MATRIMONIAL. El matrimonio debe celebrarse bajo el régimen de sociedad conyugal o de separación de bienes. El régimen escogido podrá cambiarse por acuerdo de los cónyuges durante el matrimonio.
 
 En caso de omisión sobre el régimen patrimonial del matrimonio se entenderá establecido el de sociedad conyugal.
 
@@ -1081,7 +1073,7 @@ Las capitulaciones matrimoniales pueden otorgarse antes de la celebración del m
 
 ###### ARTÍCULO 97.
 
-CAPITULACIONES MATRIMONIALES DEL MENOR. El menor que con arreglo a la Ley pueda contraer matrimonio, puede también otorgar capitulaciones, las cuales serán válidas si a su otorgamiento concurren las personas cuyo consentimiento previo es necesario para la celebración del matrimonio.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2016)
 
 ###### ARTÍCULO 98.
 
@@ -1089,7 +1081,7 @@ CAMBIO DE RÉGIMEN MATRIMONIAL. Durante el matrimonio, los esposos pueden dar po
 
 ###### ARTÍCULO 99.
 
-RÉGIMEN MATRIMONIAL DEL MENOR DE EDAD. El menor de edad que contraiga matrimonio manifestará el régimen bajo el cual lo celebra con aprobación de su representante legal. También requerirá de representación legal para la liquidación anticipada de la sociedad.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2016)
 
 ### CAPÍTULO VII. DE LA SOCIEDAD CONYUGAL
 
@@ -1131,11 +1123,13 @@ III.- A solicitud de alguno de los cónyuges, cuando el consorte administrador h
 
 IV.- Por la disolución del matrimonio;
 
-V.- Por la sentencia que declare la ausencia del cónyuge a menos que se haya pactado lo contrario en las capitulaciones matrimoniales o regrese el cónyuge ausente; y
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2016)</small>
+
+V.- Por la sentencia que declare la ausencia del cónyuge a menos que se haya pactado lo contrario en las capitulaciones matrimoniales o regrese el cónyuge ausente, y
 
 VI.- Por muerte de uno de los cónyuges o por sentencia que declare la presunción de muerte.
 
-n (sic) el caso de que los cónyuges sean menores de edad, deben intervenir en la disolución de la sociedad, prestando su consentimiento, las personas a que se refiere el artículo 97 de este Código. Esta misma regla se observará cuando la sociedad conyugal se modifique durante la menor edad de los consortes.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 105.
 
@@ -1223,11 +1217,13 @@ La separación puede comprender no sólo los bienes de que sean dueños los cons
 
 MODALIDAD DE LA SEPARACIÓN DE BIENES. La separación de bienes puede ser absoluta o parcial. En el segundo caso, los bienes que no estén comprendidos en las capitulaciones de separación, serán objeto de la sociedad conyugal que deben constituir los esposos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 118.
 
-SUBSTITUCIÓN DEL RÉGIMEN DE SEPARACIÓN DE BIENES. Durante el matrimonio la separación de bienes puede terminar para ser substituida por la sociedad conyugal, pero si los consortes son menores de edad, se estará a lo dispuesto en el artículo 97 de este Código.
+SUBSTITUCIÓN DEL RÉGIMEN DE SEPARACIÓN DE BIENES. Durante el matrimonio la separación de bienes puede terminar para ser substituida por la sociedad conyugal.
 
-Lo mismo se observará cuando las capitulaciones de separación se modifiquen durante la menor edad de los cónyuges.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 119.
 
@@ -1301,7 +1297,7 @@ Tampoco se revocarán por ingratitud a no ser que el donante fuere un extraño, 
 
 ###### ARTÍCULO 130.
 
-DONACIONES ANTENUPCIALES ENTRE MENORES. Los menores pueden hacer donaciones antenupciales, pero sólo con intervención de sus padres o tutores, o con aprobación judicial.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2016)
 
 ###### ARTÍCULO 131.
 
@@ -1487,21 +1483,9 @@ III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 4
 
 PRETENSIÓN DE NULIDAD POR ERROR EN LA PERSONA DEL CÓNYUGE. La pretensión de nulidad que nace del error, sólo puede deducirse por el cónyuge engañado; pero si éste no denuncia el error de inmediato al advertirlo, se tiene por ratificado el consentimiento y queda subsistente el matrimonio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
 ###### ARTÍCULO 157.
 
-FALTA DE NULIDAD POR MINORIA DE EDAD. La menor edad de dieciocho años en el hombre y en la mujer dejará de ser causa de nulidad cuando:
-
-I.- (DEROGADA, P.O. 9 DE MARZO DE 2016)
-
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
-
-II.- El menor haya cumplido los dieciocho años, y ni él ni el otro cónyuge hubieren intentado la nulidad; y
-
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
-
-III.- Antes de declararse ejecutoriada la resolución de nulidad se obtuviese la dispensa de edad conforme a lo establecido en este código.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2016)
 
 ###### ARTÍCULO 158.
 
@@ -1513,7 +1497,7 @@ CESACIÓN DE LA NULIDAD DE LOS ASCENDIENTES. Cesa la causa de nulidad establecid
 
 ###### ARTÍCULO 160.
 
-NULIDAD POR FALTA DE CONSENTIMIENTO DEL TUTOR O DEL JUEZ. La nulidad por ausencia de consentimiento del tutor o del Juez, podrá pedirse dentro del plazo de treinta días por cualquiera de los cónyuges, o por el tutor; pero dicha causa de nulidad cesará si antes de presentarse demanda en forma sobre ella, se obtiene la ratificación del tutor o la autorización judicial, confirmando el matrimonio.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2016)
 
 ###### ARTÍCULO 161.
 
@@ -1597,7 +1581,9 @@ II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 82 y 
 
 En los casos anteriores, la nulidad sólo podrá ser exigida por el Ministerio Público y dentro del plazo de noventa días de celebrado el matrimonio.
 
-Los que infrinjan este artículo, así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de éste, del tutor o del Juez, en sus respectivos casos, y los que autoricen esos matrimonios, incurrirán en las penas que señale el Código de la materia.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2016)</small>
+
+Los que infrinjan este artículo, así como los que siendo mayores de edad contraigan matrimonio con un menor y los que autoricen esos matrimonios, incurrirán en las penas que señale el Código de la materia.
 
 ### CAPÍTULO II. DEL DIVORCIO
 
@@ -3521,15 +3507,15 @@ DOCUMENTOS QUE DEBEN ACOMPAÑARSE A LA SOLICITUD DE MATRIMONIO. Al escrito a que
 
 I.- Copia certificada del acta de nacimiento y documento de identificación personal de cada uno de los solicitantes, en el que se verifique que ambos son mayores de edad;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
-II.- En su caso, la constancia de que otorgan su consentimiento las personas a que se refiere (sic) artículo 73 de este Código, para que el matrimonio se celebre siempre y cuando los contrayentes tengan cumplidos los dieciséis años de edad;
+II.- (DEROGADA, P.O. 17 DE AGOSTO DE 2016)
 
 III.- La declaración de dos testigos capaces de que conocen a los pretendientes y que no tienen impedimento legal alguno para unirse legalmente. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
 
 IV.- Un certificado suscrito por médico titulado y registrado legalmente, bajo protesta de decir verdad, en que determine, que los solicitantes no padecen alguna de las enfermedades consideradas como impedimento, establecido en el artículo 77, fracciones VII y XV de este Código;
 
-V.- El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. En el convenio se expresará a que régimen quedan sujetos los bienes adquiridos antes del matrimonio.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2016)</small>
+
+V.- El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. En el convenio se expresará a que régimen quedan sujetos los bienes adquiridos antes del matrimonio.
 
 Si de acuerdo con el artículo 103 de este Cuerpo de Leyes fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de dicha escritura.
 
@@ -3557,17 +3543,23 @@ Denunciado un impedimento, el matrimonio no podrá celebrarse aunque el denuncia
 
 SANCIÓN AL OFICIAL DEL REGISTRO CIVIL QUE AUTORICE UN MATRIMONIO CONOCIENDO LA EXISTENCIA DE IMPEDIMENTO. El Oficial del Registro Civil que autorice un matrimonio teniendo conocimiento de que existe impedimento legal, o de que éste se ha denunciado, será sancionado como lo disponga el Código Penal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 461.
 
-MEDIDAS PRECAUTORIAS DEL OFICIAL DEL REGISTRO CIVIL PARA EVITAR LA COMISIÓN DE PROBABLES ACTOS ILÍCITOS RESPECTO DEL ACTA MATRIMONIAL. Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquéllos o su identidad y los médicos que se conduzcan falsamente al expedir el certificado a que se refiere la fracción IV del artículo 457 de este Código, serán consignados al Ministerio Público. Lo mismo se hará con las personas que falsamente se hicieren pasar por padres o tutores de los pretendientes.
+MEDIDAS PRECAUTORIAS DEL OFICIAL DEL REGISTRO CIVIL PARA EVITAR LA COMISIÓN DE PROBABLES ACTOS ILÍCITOS RESPECTO DEL ACTA MATRIMONIAL. Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquéllos o su identidad y los médicos que se conduzcan falsamente al expedir el certificado a que se refiere la fracción IV del artículo 457 de este Código, serán consignados al Ministerio Público.
 
 El Oficial del Registro Civil que reciba una solicitud de matrimonio, está plenamente autorizado para exigir de los pretendientes, bajo protesta de decir verdad, todas las declaraciones que estime convenientes a fin de asegurarse de su identidad y de su aptitud para contraer matrimonio.
 
-También podrá exigir declaración bajo protesta, a los testigos que los interesados presenten, a las personas que figuren como padres o tutores de los pretendientes, y a las que suscriban el certificado exigido por la fracción IV del artículo 457 de este Ordenamiento. Asimismo podrá recibir cualquier otra prueba procedente.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2016)</small>
+
+También podrá exigir declaración bajo protesta, a los testigos que los interesados presenten y a las que suscriban el certificado exigido por la fracción IV del artículo 457 de este Ordenamiento. Asimismo, podrá recibir cualquier otra prueba procedente.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 462.
 
-RATIFICACIÓN DE FIRMAS Y DECLARACIONES ANTE EL OFICIAL DEL REGISTRO CIVIL. El Oficial del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deben otorgar su consentimiento reconozcan ante él y por separado sus firmas. Las declaraciones de los testigos a que se refiere el artículo 457 en su fracción III de este Código, serán ratificadas, bajo protesta de decir verdad ante el mismo Oficial del Registro Civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado, solicitando la ratificación de la misma ante su presencia.
+RATIFICACIÓN DE FIRMAS Y DECLARACIONES ANTE EL OFICIAL DEL REGISTRO CIVIL. El Oficial del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes reconozcan ante él y por separado sus firmas. Las declaraciones de los testigos a que se refiere el artículo 457 en su fracción III de este Código, serán ratificadas, bajo protesta de decir verdad ante el mismo Oficial del Registro Civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado, solicitando la ratificación de la misma ante su presencia.
 
 ###### ARTÍCULO 463.
 
@@ -3581,11 +3573,11 @@ LEVANTAMIENTO Y CONTENIDO DEL ACTA DE MATRIMONIO. Se levantará luego el acta de
 
 I.- Los nombres, apellidos, edad, ocupación, domicilio, nacionalidad y lugar de nacimiento de los contrayentes;
 
-II.- Si son mayores o menores de edad;
+II.- (DEROGADA, P.O. 17 DE AGOSTO DE 2016)
 
 III.- Los nombres, apellidos, domicilio y nacionalidad de sus padres;
 
-IV.- El consentimiento de éstos, de los abuelos o tutores o de las autoridades que deban suplirlos si los contrayentes son menores de edad;
+IV.- (DEROGADA, P.O. 17 DE AGOSTO DE 2016)
 
 V.- Que no hubo impedimento legal para el matrimonio, o en su caso, que éste se dispensó;
 
@@ -3597,7 +3589,9 @@ VIII.- Los nombres, apellidos, edad, nacionalidad y domicilio de los testigos, d
 
 IX.- Que se cumplieron las solemnidades exigidas por el artículo anterior.
 
-El acta será firmada por el Oficial del Registro Civil, los contrayentes, los testigos y las demás personas que hubieren intervenido si supieren y pudieran hacerlo, asentándose en su caso, la razón por la que alguna de ellas no firmó al margen del acta, e imprimirán sus huellas digitales los contrayentes.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2016)</small>
+
+El acta será firmada por el Oficial del Registro Civil, los contrayentes y los testigos, asentándose en su caso, la razón por la que alguna de ellas no firmó al margen del acta, e imprimirán sus huellas digitales los contrayentes.
 
 ###### ARTÍCULO 465.
 
@@ -6404,3 +6398,23 @@ P.O. 6 DE JULIO DE 2016.
 PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 17 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS SETENTA Y CINCO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES AL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- Respecto de las personas que hayan contraído matrimonio hasta antes de la entrada en vigor la presente reforma siendo menores de dieciocho años y mediante dispensa, se regirá de acuerdo a las disposiciones legales que se encontraban vigentes a la celebración del mismo.
+
+CUARTA.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 17 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO OCHOCIENTOS SESENTA Y CUATRO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 95 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
