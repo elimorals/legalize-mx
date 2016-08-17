@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-general-de-proteccion-civil-para-el-81043"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-20"
-last_updated: "2011-04-20"
+last_updated: "2016-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO DE LA LEY GENERAL DE PROTECCION CIVIL PARA EL ESTADO DE MORELOS
 
-REGLAMENTO DE LA LEY GENERAL DE PROTECCION CIVIL PARA EL ESTADO DE MORELOS
+REGLAMENTO DE LA LEY GENERAL DE PROTECCIÓN CIVIL PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON LA SEGUNDA DISPOSICIÓN TRANSITORIA DEL REGLAMENTO DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 17 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 20 de abril de 2011.
 
@@ -1066,3 +1068,13 @@ EL SECRETARIO DE GOBIERNO
 ING. OSCAR SERGIO HERNÁNDEZ BENÍTEZ.
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se abroga el Reglamento de la Ley General de Protección Civil para el Estado de Morelos, publicado con fecha 20 de abril de 2011, en el Periódico Oficial "Tierra y libertad”, número 4886, y se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Reglamento.
