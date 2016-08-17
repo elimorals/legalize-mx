@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2016-07-20"
+last_updated: "2016-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2016.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -1499,7 +1499,7 @@ Región XV. Meseta Comiteca Tojolabal: Conformada por los municipios de Comitán
 
 ### CAPÍTULO III. DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 47.
 
@@ -1653,7 +1653,7 @@ La Contraloría General de la Procuraduría General de Justicia del Estado tendr
 
 ###### Artículo 55.
 
-Para la protección y salvaguarda de los derechos humanos, el Estado contará con un organismo que ampara el orden jurídico mexicano, denominado Comisión Estatal de los Derechos Humanos; el cual conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público de carácter local o municipal, con excepción de los del Poder Judicial del Estado, que violen estos derechos. Tendrá por objeto la defensa, promoción del respeto, estudio y divulgación de los derechos humanos establecidos en el orden jurídico mexicano y en instrumentos internacionales ratificados por el estado mexicano, fomentar su respeto y observancia, el fortalecimiento de la cultura de la legalidad y el respeto a la cultura, costumbres y tradiciones de las comunidades indígenas de la Entidad; así como también el respeto y promoción de los derechos de las mujeres, y la defensa y promoción a los derechos humanos de los migrantes y sus familias en el Estado de Chiapas, y combatir toda forma de discriminación y exclusión, consecuencia de un acto de autoridad a cualquier persona o grupo social.
+Para la protección y salvaguarda de los derechos humanos, el Estado contará con un organismo que ampara el orden jurídico mexicano, denominado Comisión Estatal de los Derechos Humanos; el cual conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público de carácter local o municipal, con excepción de los del Poder Judicial del Estado, que violen estos derechos. Tendrá por objeto la defensa, promoción del respeto, estudio y divulgación de los derechos humanos establecidos en el orden jurídico mexicano y en instrumentos internacionales ratificados por el Estado Mexicano, fomentar su respeto y observancia, el fortalecimiento de la cultura de la legalidad y el respeto a la cultura, costumbres y tradiciones de las comunidades indígenas de la Entidad; así como también el respeto, protección y promoción de los derechos de las mujeres, niñas, niños y adolescentes; la defensa y promoción a los derechos humanos de los migrantes y sus familias en el Estado de Chiapas, y combatir toda forma de discriminación y exclusión, consecuencia de un acto de autoridad a cualquier persona o grupo social.
 
 > <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
 
@@ -1671,9 +1671,9 @@ Este organismo no será competente tratándose de asuntos electorales y jurisdic
 
 La Comisión Estatal de los Derechos Humanos contará con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2016)</small>
 
-Asimismo, contará con Visitadurías Generales especializadas en Atención de Asuntos de la Mujer; Atención de Asuntos Indígenas y Atención de Asuntos de Migrantes.
+Asimismo, contará con Visitadurías Generales Especializadas en Atención de Asuntos de la Mujer; Atención de Asuntos Indígenas; Atención de Asuntos de Migrantes; y Atención de Asuntos de Niñas, Niños y Adolescentes.
 
 > <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
 
@@ -2265,7 +2265,7 @@ El Plan de Desarrollo Municipal contendrá las políticas públicas en materia d
 
 ### CAPÍTULO II. DE LA POLÍTICA SOCIAL PARA ELEVAR EL ÍNDICE DE DESARROLLO HUMANO
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 72.
 
@@ -2335,11 +2335,7 @@ El Plan Estatal de Desarrollo y el Plan Municipal de Desarrollo, establecerán l
 
 ###### Artículo 78.
 
-Los Poderes Públicos y los Ayuntamientos, deberán priorizar el gasto social en educación, acceso a la salud y mejores ingresos para los habitantes de los municipios con menos índice de desarrollo humano determinados por el Programa de las Naciones Unidas para el Desarrollo.
-
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2014)</small>
-
-Los proyectos sociales a ejecutarse en el Estado, por los órganos públicos que integran la Administración Pública Estatal, deberán ser validados invariablemente por la Secretaría General de Gobierno.
+Los poderes públicos y los ayuntamientos, deberán priorizar el gasto social en educación, acceso a la salud y mejores ingresos para los habitantes de los municipios con menos índice de desarrollo humano determinados por el Programa de las Naciones Unidas para el Desarrollo.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -4622,3 +4618,13 @@ P.O. 20 DE JULIO DE 2016.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 17 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 259 POR EL QUE SE ESTABLECE LA TRIGÉSIMA PRIMERA REFORMA A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero. Se deberá expedir en un término no mayor a 60 días hábiles siguientes a la publicación del presente Decreto, las adecuaciones necesarias a la normatividad en la materia, a efecto de hacerla acorde al presente Decreto.
