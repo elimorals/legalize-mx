@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-economico-sustentable-del-estado-libre-y-6140
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-04"
-last_updated: "2014-03-26"
+last_updated: "2016-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de junio de 2008.
 
@@ -73,7 +73,7 @@ Para efectos de esta Ley se entenderá por:
 
 I. Ayuntamientos: Los gobiernos municipales del Estado de Morelos;
 
-II. Cadenas productivas: Los sistemas que integran conjuntos de empresas que agregan valor a productos o servicios a través (sic) de las fases del proceso económico, pudiendo ser especializadas en términos de una materia o sector determinado;
+II. Cadenas productivas: Los sistemas que integran conjuntos de empresas que agregan valor a productos o servicios a través de las fases del proceso económico, pudiendo ser especializadas en términos de una materia o sector determinado;
 
 III. CREDE: La Comisión Reguladora para el Desarrollo Económico del Estado de Morelos;
 
@@ -321,7 +321,9 @@ III. Que el proyecto prevea el uso y fomento de fuentes de energía renovable y 
 
 IV. Que el proyecto prevea la aplicación de tecnologías de vanguardia en el desarrollo de sus procesos productivos;
 
-V. Que el proyecto prevea la contratación de personas con capacidades diferentes, adultos mayores y mujeres;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2016)</small>
+
+V. Que el proyecto prevea la contratación de personas con discapacidad, adultos mayores y mujeres;
 
 VI. Que sean empresas pertenecientes a los sectores económicos que la Secretaría considere prioritarios;
 
@@ -371,7 +373,7 @@ Para la aplicación de una tasa preferencial, se deberá acreditar una relación
 
 Lo anterior, tendrá aplicación en cuanto a los derechos de inscripción en el Registro Público de la Propiedad y el Comercio del Estado de Morelos, de actas constitutivas y de contratos destinados estrictamente a la actividad productiva, entre otros de naturaleza similar.
 
-La persona titular del Poder Ejecutivo del Estado, a propuesta de la CREDE, establecerá la tasa preferencial, la cual deberá ser publicada en el Periódico Oficial “Tierra y Libertad” órgano de difusión del Gobierno del Estado, para su entrada en vigor.
+La persona titular del Poder Ejecutivo del Estado, a propuesta de la CREDE, establecerá la tasa preferencial, la cual deberá ser publicada en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado, para su entrada en vigor.
 
 ###### Artículo 23.
 
@@ -425,7 +427,7 @@ I. Aquellos asignados a la Secretaría en el Presupuesto de Egresos de manera an
 
 II. Aquellos que para tal efecto determine anualmente el Fideicomiso Ejecutivo del Fondo de Competitividad y Promoción del Empleo, no pudiendo ser, en todo caso, menores a un monto equivalente al 20% del total de los recursos que lo integran; y
 
-III. Aquellos fondos federales relacionados con el objeto de esta Ley, que puedan ser destinados a (sic) dicho fin por la persona titular del Poder Ejecutivo del Estado.
+III. Aquellos fondos federales relacionados con el objeto de esta Ley, que puedan ser destinados a dicho fin por la persona titular del Poder Ejecutivo del Estado.
 
 El FODEPI será administrado por un fideicomiso público que para tal efecto se constituya y cuya integración y funcionamiento se establecerá en el Reglamento y demás legislación aplicable.
 
@@ -666,3 +668,13 @@ Remítase al Titular del Poder Ejecutivo para su Publicación en el Periódico O
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor a partir del día siguiente a su publicación.
+
+P.O. 17 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO OCHOCIENTOS SESENTA Y CINCO.- POR EL QUE SE REFORMA LA FRACCIÓN V, DEL ARTÍCULO 19, DE LA LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que contravengan al presente Decreto.
