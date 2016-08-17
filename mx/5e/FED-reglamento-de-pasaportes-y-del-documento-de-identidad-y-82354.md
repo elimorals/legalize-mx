@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-pasaportes-y-del-documento-de-identidad-y-82354"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-05"
-last_updated: "2015-03-03"
+last_updated: "2016-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82354&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-07-29"
 
 REGLAMENTO DE PASAPORTES Y DEL DOCUMENTO DE IDENTIDAD Y VIAJE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE AGOSTO DE 2016.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 5 de agosto de 2011.
 
@@ -55,13 +55,23 @@ IV. Oficinas consulares: Las representaciones del Estado Mexicano ante el gobier
 
 V. Pasaporte: Documento de viaje que la Secretaría expide a los mexicanos para acreditar su nacionalidad e identidad y solicitar a las autoridades extranjeras permitan el libre paso, proporcionen ayuda y protección y, en su caso, dispensen las cortesías e inmunidades que correspondan al cargo o representación del titular del mismo;
 
-Existen tres clases de pasaportes: ordinario, oficial y diplomático, y
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2016)</small>
+
+Existen tres clases de pasaportes: ordinario, oficial y diplomático;
+
+> <small>(ADICIONADA, D.O.F. 17 DE AGOSTO DE 2016)</small>
+
+V Bis. Persona Menor de Edad: A las niñas, niños y adolescentes a que se refiere la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+La Secretaría procurará brindar información a la Persona Menor de Edad respecto de los procedimientos y trámites en los que participe conforme a este Reglamento, a través de los medios que dicha dependencia determine, en términos de la Ley General de los Derechos de Niñas, Niños y Adolescentes y demás disposiciones jurídicas aplicables, y
 
 VI. Secretaría: La Secretaría de Relaciones Exteriores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 3.
 
-Los pasaportes se expedirán en el territorio nacional por las delegaciones y subdelegaciones de la Secretaría y en el extranjero a través de las oficinas consulares. Los documentos de identidad y viaje se expedirán en las oficinas centrales de la Secretaría.
+Los Pasaportes se expedirán en el territorio nacional por las delegaciones y subdelegaciones de la Secretaría y en el extranjero a través de las Oficinas Consulares. Los Documentos de Identidad y Viaje se expedirán en las oficinas centrales de la Secretaría, así como en las delegaciones y subdelegaciones de dicha dependencia ubicadas fuera de la Ciudad de México.
 
 En territorio nacional, se podrán autorizar unidades móviles u oficinas de enlace para su tramitación. El establecimiento de oficinas de enlace se hará mediante convenios de colaboración administrativa.
 
@@ -103,13 +113,15 @@ Los pasaportes o documentos de identidad y viaje que presenten alteraciones o en
 
 Los formatos de los pasaportes y del documento de identidad y viaje, así como el de sus solicitudes serán establecidos mediante Acuerdo que expida el Secretario de Relaciones Exteriores, mismo que deberá ser publicado en el Diario Oficial de la Federación.
 
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 8.
 
-Los documentos de procedencia extranjera que se presenten dentro de los procedimientos y trámites contemplados por el presente Reglamento, deberán estar debidamente legalizados por el representante consular mexicano del lugar de su expedición o, en su caso, apostillados por la autoridad competente.
+Los documentos de procedencia extranjera que se presenten dentro de los procedimientos y trámites previstos en el presente Reglamento, deberán estar debidamente legalizados por el representante consular mexicano del lugar de su expedición o, en su caso, apostillados por la autoridad competente. Asimismo, si los documentos de procedencia extranjera se encuentran redactados en un idioma distinto al español deberán presentar su traducción por perito traductor autorizado por el Poder Judicial de cualquier entidad federativa o de la Federación.
 
-Los actos de registro civil de mexicanos en el extranjero, deberán insertarse en la oficina del registro civil de su domicilio en territorio nacional, en términos de lo dispuesto por la legislación civil local correspondiente.
+Los actos de registro civil de mexicanos en el extranjero, deberán insertarse en la oficina del registro civil de su domicilio en territorio nacional, en términos de lo dispuesto en la legislación civil local correspondiente.
 
-Únicamente en el extranjero y en casos de protección consular debidamente justificados, se podrá exentar de dichos requisitos.
+Los documentos extranjeros a que se refiere el primer párrafo de este artículo podrán, en su caso, ser exentados de su legalización o apostilla por parte de las Oficinas Consulares, así como de sus respectivas traducciones e inserciones, de acuerdo a la práctica consular vigente.
 
 ###### ARTÍCULO 9.
 
@@ -153,17 +165,15 @@ II. Entregar la solicitud de pasaporte debidamente requisitada y firmada. La sol
 
 III. Cubrir el pago correspondiente en los términos previstos en la Ley Federal de Derechos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 17 DE AGOSTO DE 2016)</small>
 
-IV. Permitir ser fotografiado con los dispositivos de la Secretaría. En su caso, la fotografía deberá tomarse de frente, con la cabeza descubierta, sin lentes, a color y con el fondo blanco.
+IV. Permitir ser fotografiado con los dispositivos de la Secretaría. La fotografía deberá tomarse de frente, a color, con el fondo blanco, la cabeza descubierta y sin prendas u objetos que cubran parcial o totalmente el rostro, incluidos lentes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE AGOSTO DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MARZO DE 2015)</small>
-
-V. Acreditar la nacionalidad mexicana mediante la entrega en original o copia certificada de alguno de los siguientes documentos:
+V. Acreditar la nacionalidad mexicana mediante el original o copia certificada de alguno de los documentos siguientes:
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -189,11 +199,7 @@ g) Certificado de Matrícula Consular a que se refiere el artículo 3, fracción
 
 A falta de los documentos probatorios mencionados en los incisos anteriores, se podrá acreditar la nacionalidad mediante cualquier elemento que, de conformidad con la Ley de Nacionalidad, lleve a la Secretaría a la convicción de que se cumplieron los supuestos de atribución de la nacionalidad mexicana.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2015)</small>
-
-Las documentales señaladas en los incisos c) a g) de la presente fracción, deberán devolverse al solicitante.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 17 DE AGOSTO DE 2016)</small>
 
 En el extranjero, el interesado podrá presentar aquellos otros documentos que la práctica consular permita.
 
@@ -223,21 +229,27 @@ A falta de las identificaciones mencionadas en la presente fracción el interesa
 
 En el extranjero, el interesado podrá presentar aquellos otros documentos probatorios que la práctica consular permita.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 17 DE AGOSTO DE 2016)</small>
+
+VII. Cuando el solicitante requiera la incorporación del apellido de su cónyuge en el apartado correspondiente que se encuentra dentro de la hoja de datos del Pasaporte, deberá acreditar su vínculo matrimonial con la copia certificada del acta de matrimonio mexicana o, en su caso, extranjera debidamente legalizada o apostillada, en términos del artículo 8 del presente Reglamento.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, D.O.F. 3 DE MARZO DE 2015)</small>
 
 La documentación mencionada en la fracción VI de este artículo será devuelta al interesado, a reserva de que la Secretaría determine ejercer la atribución prevista en el siguiente párrafo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2016)</small>
 
-> <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2015)</small>
+En aquellos casos en que del análisis de la documentación o información presentada conforme al presente artículo, o del resultado de la entrevista realizada al solicitante, se observen inconsistencias o irregularidades, la Secretaría verificará la autenticidad de las documentales recibidas, ante la autoridad emisora de éstas. Además, podrá requerir al solicitante pruebas adicionales que demuestren fehacientemente su nacionalidad e identidad.
 
-Sin perjuicio de lo previsto en el párrafo anterior, en aquellos casos en que del análisis de la documentación o información presentada a la que se refiere el presente artículo, o del resultado de la entrevista realizada al solicitante, se observen inconsistencias o irregularidades, la Secretaría verificará la autenticidad de las documentales recibidas, ante la autoridad emisora de éstas; además podrá requerir al solicitante pruebas adicionales que demuestren fehacientemente su nacionalidad e identidad.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 15.
 
-Todo registro de nacimiento realizado con posterioridad a los tres años en que tuvo lugar el nacimiento, se considera para efectos del presente Reglamento como un registro extemporáneo. En este supuesto el interesado deberá entregar, uno de los siguientes documentos:
+Cuando el registro de nacimiento se haya realizado con posterioridad a los tres años en que tuvo lugar el nacimiento, el interesado deberá presentar uno de los documentos siguientes:
 
 I. Copia certificada del acta de matrimonio de los padres expedida por la oficina del registro civil mexicano, si éstos contrajeron matrimonio en territorio nacional antes del nacimiento del solicitante;
 
@@ -253,9 +265,11 @@ VI. Tratándose de personas menores de 12 años de edad, podrán presentar la co
 
 VII. Cualquier otro medio que compruebe los datos asentados en la copia certificada del acta de nacimiento presentada por el interesado.
 
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 16.
 
-En el caso de reasignación para la concordancia sexo-genérica no se considerará extemporaneidad el tiempo transcurrido entre el nacimiento y el nuevo registro. Lo anterior surtirá efectos una vez que la Secretaría sea debidamente notificada por la autoridad judicial competente y el interesado acompañe el acta correspondiente.
+En el caso de reasignación para la concordancia sexo-genérica o identidad de género no será aplicable lo previsto en el artículo anterior. Dicha excepción surtirá efectos una vez que la Secretaría sea debidamente notificada por la autoridad competente y el interesado acompañe el acta correspondiente.
 
 ###### ARTÍCULO 17.
 
@@ -273,11 +287,9 @@ I. Comparecer personalmente en compañía de la persona menor de edad ante las o
 
 II. Entregar la solicitud de pasaporte debidamente requisitada;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE AGOSTO DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MARZO DE 2015)</small>
-
-III. Acreditar la nacionalidad mexicana de la persona menor de edad, mediante la entrega en original o copia certificada de alguno de los siguientes documentos:
+III. Acreditar la nacionalidad mexicana de la Persona Menor de Edad, mediante el original o copia certificada de alguno de los documentos siguientes:
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -297,11 +309,7 @@ d) Certificado de Matrícula Consular a que se refiere el artículo 3, fracción
 
 A falta de los documentos probatorios mencionados en los incisos anteriores, se podrá acreditar la nacionalidad mediante cualquier elemento que, de conformidad con la Ley de Nacionalidad, lleve a la Secretaría a la convicción de que se cumplieron los supuestos de atribución de la nacionalidad mexicana.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2015)</small>
-
-En el caso de las documentales señaladas en los incisos c) y d) de la presente fracción, se devolverán a los padres o quien o quienes ejerzan la patria potestad o tutela.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 17 DE AGOSTO DE 2016)</small>
 
 Cuando el registro de nacimiento de la persona menor de edad haya sido realizado con posterioridad a un año a aquél en que tuvo lugar, los padres o quien o quienes ejerzan la patria potestad o tutela deberán cumplir con lo dispuesto por el artículo 15 del presente Reglamento.
 
@@ -327,27 +335,25 @@ g) En el extranjero, y exclusivamente para las personas menores de 7 años, a fa
 
 h) Cualquier otro medio de prueba que a juicio de la Secretaría u oficina consular acredite la identidad de los solicitantes, mismos que serán reguladas en disposiciones administrativas con fundamento en el artículo 1 del presente Reglamento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(ADICIONADO, D.O.F. 17 DE AGOSTO DE 2016)</small>
 
-> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2015)</small>
+Los documentos señalados en esta fracción, con excepción de la constancia del grado de estudios y la constancia médica con fotografía, serán devueltos al interesado cuando el trámite se realice en territorio nacional, a reserva de que la Secretaría determine ejercer la atribución prevista en el último párrafo del presente artículo.
 
-V. Permitir que la persona menor de edad sea fotografiada con los dispositivos de la Secretaría. En su caso, la fotografía deberá tomarse de frente, con la cabeza descubierta, sin lentes, a color y con el fondo blanco.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O.F. 17 DE AGOSTO DE 2016)</small>
+
+V. Permitir que la Persona Menor de Edad sea fotografiada con los dispositivos de la Secretaría. La fotografía deberá tomarse de frente, a color, con el fondo blanco, la cabeza descubierta y sin prendas u objetos que cubran parcial o totalmente el rostro, incluidos lentes;
 
 VI. Cubrir el pago correspondiente en los términos previstos en la Ley Federal de Derechos, y
 
 VII. Otorgar su consentimiento conforme lo disponen los artículos siguientes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, D.O.F. 17 DE AGOSTO DE 2016)</small>
 
-> <small>(ADICIONADO, D.O.F. 3 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2016)</small>
 
-La documentación mencionada en la fracción IV, con excepción de los incisos b) y f) de este artículo será devuelta al interesado, a reserva de que la Secretaría determine ejercer la atribución prevista en el siguiente párrafo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2015)</small>
-
-Sin perjuicio de lo previsto en el párrafo anterior, en aquellos casos en que del análisis de la documentación o información presentada a la que se refiere el presente artículo, o del resultado de la entrevista realizada a los solicitantes, se observen inconsistencias o irregularidades, la Secretaría verificará la autenticidad de las documentales recibidas ante la autoridad emisora de éstas; además podrá requerir al solicitante pruebas adicionales que demuestren fehacientemente su nacionalidad, identidad y filiación.
+En aquellos casos en que del análisis de la documentación o información presentada conforme al presente artículo, o del resultado de la entrevista realizada a los solicitantes, se observen inconsistencias o irregularidades, la Secretaría verificará la autenticidad de las documentales recibidas ante la autoridad emisora de éstas. Además, podrá requerir al solicitante pruebas adicionales que demuestren fehacientemente su nacionalidad, identidad y filiación.
 
 ###### ARTÍCULO 19.
 
@@ -401,9 +407,11 @@ Quien o quienes ejerzan la tutela deberán además acreditar dicho carácter ent
 
 En caso de suplencia del consentimiento de quien ejerce la patria potestad o tutela por parte de la autoridad judicial competente, se deberá entregar a la Secretaría copia certificada de la resolución judicial mediante la cual el juez autoriza la salida del país de la persona menor de edad y, por consiguiente, la expedición del pasaporte. El tiempo autorizado por la autoridad judicial determinará la vigencia del pasaporte.
 
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 24.
 
-En el extranjero, la resolución judicial expedida por un tribunal con competencia en el lugar de residencia de la persona menor de edad que decrete su custodia en favor del padre o madre, podrá ser aceptada siempre y cuando no exista un impedimento registrado en la base de datos de pasaportes.
+En el extranjero, la resolución judicial expedida por un tribunal con competencia en el lugar de residencia de la Persona Menor de Edad que decrete la patria potestad en favor del padre o madre, podrá ser aceptada siempre y cuando no exista un Impedimento registrado en la base de datos de Pasaportes.
 
 ###### ARTÍCULO 25.
 
@@ -413,7 +421,9 @@ Para la expedición de pasaportes a la persona menor de edad que haya sido adopt
 
 En caso de que la adopción se haya realizado en el extranjero y no sea plena, se deberá promover la homologación de la resolución judicial correspondiente conforme a las disposiciones aplicables en la materia.
 
-Para el caso de adopciones internacionales plenas realizadas en territorio nacional y que no sean efectuadas bajo los términos de la Convención de la Haya sobre la Protección de Menores y la Cooperación en Materia de Adopción Internacional, se deberá aportar la sentencia que contenga la resolución de adopción y el permiso otorgado por el Instituto Nacional de Migración conforme al Reglamento de la Ley General de Población.
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2016)</small>
+
+Para el caso de adopciones internacionales plenas realizadas en territorio nacional y que no sean efectuadas bajo los términos de la Convención de la Haya sobre la Protección de Menores y la Cooperación en Materia de Adopción Internacional, se deberá presentar la sentencia que contenga la resolución de adopción y el permiso otorgado por el Instituto Nacional de Migración conforme a las disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 27.
 
@@ -488,6 +498,12 @@ El pasaporte que se presente para su renovación servirá para acreditar plename
 > <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2015)</small>
 
 Sin perjuicio de lo previsto en los párrafos anteriores de este artículo, en aquellos casos en que del análisis de la documentación o información presentada a la que se refiere el presente artículo, o del resultado de la entrevista realizada a los solicitantes, se observen inconsistencias o irregularidades, la Secretaría verificará la autenticidad de las documentales recibidas ante la autoridad emisora de éstas; además podrá requerir al solicitante pruebas adicionales que demuestren fehacientemente su nacionalidad, identidad y filiación.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 17 DE AGOSTO DE 2016)</small>
+
+Cuando el solicitante requiera la incorporación del apellido de su cónyuge en el apartado correspondiente que se encuentra dentro de la hoja de datos del Pasaporte, deberá acreditar su vínculo matrimonial con la copia certificada del acta de matrimonio mexicana o, en su caso, extranjera debidamente legalizada o apostillada, en términos del artículo 8 del presente Reglamento.
 
 ###### ARTÍCULO 31.
 
@@ -585,17 +601,21 @@ III. Presidentes de las Cámaras de Diputados, de Senadores y de la Comisión Pe
 
 IV. Ministros de la Suprema Corte de Justicia de la Nación y Magistrados de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación;
 
-V. Gobernadores de los Estados y Jefe de Gobierno del Distrito Federal;
+> <small>(REFORMADA, D.O.F. 17 DE AGOSTO DE 2016)</small>
+
+V. Gobernadores de los Estados y Jefe de Gobierno de la Ciudad de México;
 
 > <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2015)</small>
 
 VI. Secretarios y Subsecretarios de Estado, así como al Consejero Jurídico del Ejecutivo Federal;
 
-VII. Procurador General de la República;
+> <small>(REFORMADA, D.O.F. 17 DE AGOSTO DE 2016)</small>
 
-> <small>(REFORMADA, D.O.F. 21 DE AGOSTO DE 2013)</small>
+VII. Procurador General de la República y Subprocuradores de la Procuraduría General de la República;
 
-VIII. Jefe de la Oficina de la Presidencia, Secretario Particular y Coordinador de Asesores del Presidente de los Estados Unidos Mexicanos, Coordinador de Comunicación Social de la Presidencia de la República, Secretario Técnico del Consejo de Seguridad Nacional, y Jefe del Estado Mayor Presidencial;
+> <small>(REFORMADA, D.O.F. 17 DE AGOSTO DE 2016)</small>
+
+VIII. Jefe de la Oficina de la Presidencia, Secretario Particular del Presidente, Coordinador de Asesores del Presidente, Coordinador General de Política y Gobierno, Coordinador General de Comunicación Social y Vocería del Gobierno de la República, Secretario Técnico del Consejo de Seguridad Nacional, y Jefe del Estado Mayor Presidencial;
 
 > <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2015)</small>
 
@@ -761,17 +781,25 @@ IV. A quien haya obtenido un pasaporte mexicano o documento de identidad y viaje
 
 V. A quien sea solicitado en extradición internacional;
 
-> <small>(ADICIONADA, D.O.F. 3 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 17 DE AGOSTO DE 2016)</small>
 
-VI. A quien alguna autoridad judicial o administrativa, solicite se le restrinja la expedición o renovación de pasaporte o se impida la salida del territorio nacional, y
+VI. A quien alguna autoridad judicial o administrativa, solicite se le restrinja la expedición o renovación de Pasaporte o Documento de Identidad y Viaje o se impida la salida del territorio nacional;
 
-> <small>(ADICIONADA, D.O.F. 3 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 17 DE AGOSTO DE 2016)</small>
 
-VII. A quien intente o haya obtenido pasaporte o documento de identidad y viaje usurpando la identidad de otra persona u ostentando una nacionalidad que no le corresponde.
+VII. A quien intente o haya obtenido un Pasaporte o Documento de Identidad y Viaje usurpando la identidad de otra persona, ostentando la nacionalidad mexicana no teniendo derecho a ella u ostente una nacionalidad que no le corresponde, y
+
+> <small>(ADICIONADA, D.O.F. 17 DE AGOSTO DE 2016)</small>
+
+VIII. A quien cuente con dos o más inscripciones de actos del estado civil ante la oficina del registro civil mexicana (sic) u Oficina Consular que se refieran al mismo hecho, sin haber anulado legalmente uno de ellos.
 
 > <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2015)</small>
 
 Se procederá a la baja del impedimento cuando las causas que lo originaron dejen de subsistir y el interesado acredite fehacientemente su nacionalidad, identidad y, en su caso, filiación, en términos de lo establecido en el presente Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 17 DE AGOSTO DE 2016)</small>
+
+En los casos en que se modifique el nombre del solicitante derivado de un procedimiento judicial o administrativo, la Secretaría decretará un impedimento administrativo al nombre anterior del solicitante, como medida de protección a la identidad jurídica del mismo.
 
 ## TRANSITORIOS
 
@@ -814,3 +842,13 @@ c) La reforma del tercer párrafo del artículo 30.
 TERCERO.- Las erogaciones que sean necesarias para cumplir con la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado de la Secretaría de Relaciones Exteriores, por lo que no requerirá de recursos adicionales para tales efectos y no incrementará su presupuesto regularizable para el presente ejercicio fiscal ni los subsecuentes.
 
 CUARTO.- Las credenciales para votar con fotografía emitidas válidamente por el Instituto Federal Electoral, surtirán todos sus efectos legales, por lo que, para realizar los trámites previstos en el presente Reglamento, se mantendrán vigentes hasta la fecha de su vencimiento, conforme a lo previsto en el artículo vigésimo primero transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia política-electoral, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014, así como en el artículo octavo transitorio de la Ley General de Instituciones y Procedimientos Electorales, publicada en el Diario Oficial de la Federación el 23 de mayo de 2014.
+
+D.O.F. 17 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE PASAPORTES Y DEL DOCUMENTO DE IDENTIDAD Y VIAJE”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día hábil siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo previsto en el transitorio siguiente.
+
+SEGUNDO.- Las modificaciones a los artículos 14, primer párrafo en su fracción IV y 18, primer párrafo en su fracción V, así como las adiciones de la fracción VII al párrafo primero del artículo 14 y del último párrafo al artículo 30 previstas en el presente Decreto, respecto de los trámites y servicios que la Secretaría de Relaciones Exteriores realiza a través de sus delegaciones, subdelegaciones y oficinas de enlace, entrarán en vigor a partir del 1 de julio de 2018, o antes, siempre y cuando dicha Secretaría, mediante disposición general que al efecto emita, lo haga del conocimiento a los solicitantes.
+
+TERCERO.- Las erogaciones que sean necesarias para cumplir con la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado a la Secretaría de Relaciones Exteriores, por lo que no requerirá de recursos adicionales para tales efectos y no incrementará su presupuesto regularizable para el presente ejercicio fiscal ni los subsecuentes.
