@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-san-18451"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-03"
-last_updated: "2016-06-20"
+last_updated: "2016-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DEL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, PUBLICADO EN EL P. O. EL 20 DE JUNIO DE 2016; Y SU REFORMA PUBLICADA EN EL P.O. DE 17 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL 1 DE FEBRERO DE 2017.]</small>
+
 REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, PUBLICADO EN EL PERIÓDICO OFICIAL EL 20 DE JUNIO DE 2016; EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS SESENTA DÍAS NATURALES CONTADOS A PARTIR DEL DÍA SIGUIENTE AL DE LA PUBLICACIÓN DE DICHO ORDENAMIENTO.]</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2016 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de noviembre de 2000.
 
@@ -155,7 +155,7 @@ Rebasar.- Maniobra de pasar un vehículo a otro que le antecede y que circula po
 
 Residuos Peligrosos.- Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas, tóxicas, venenosas, reactivas, explosivas, inflamables, biológicas infecciosas o irritantes, representan un peligro para el equilibrio ecológico o el ambiente.
 
-Semiremolque (sic).- Vehículo sin eje delantero destinado a ser acoplado a un tractocamión de manera que sea jalado y parte de su peso sea soportado por este.
+Semiremolque.- Vehículo sin eje delantero destinado a ser acoplado a un tractocamión de manera que sea jalado y parte de su peso sea soportado por este.
 
 Semovientes.- Animales de granja de cualquier especie.
 
@@ -3225,7 +3225,9 @@ P.O. 20 DE JUNIO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 08 DE JUNIO DE 2016, SE APRUEBA EL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
 
-PRIMERO.- El presente Reglamento entrará en vigor a los 60-sesenta días naturales contados a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2016)</small>
+
+PRIMERO.- El presente Reglamento entrará en vigor el 1 de febrero de 2017.
 
 SEGUNDO.- A partir de la entrada en vigor de este Reglamento, se abroga el Reglamento de Tránsito y Vialidad, publicado en el Periódico Oficial del Estado de fecha 3 de noviembre de 2000.
 
@@ -3235,12 +3237,22 @@ CUARTO.- La obligación contenida en el Artículo 49 será aplicable 60-sesenta 
 
 QUINTO.- El Municipio contará con 120-ciento veinte días naturales a partir de la entrada en vigor del presente Reglamento, para llevar a cabo los estudios técnicos que permitan determinar el establecimiento de los programas instituidos en los Artículos 125, 126 y 127 del presente Reglamento.
 
-SEXTO.- Se instruye a la Secretaría de Seguridad Pública Municipal y con el apoyo de las dependencias municipales que correspondan, a que lleve a cabo una campaña de difusión que tenga por objeto dar a conocer lo ordenado en la Sección 5 del Capítulo III, en los siguientes términos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2016)</small>
 
-I. De Difusión Vial y de Promoción de Rutas: Que comprende toda actividad que a través de medios de comunicación, redes sociales, señalamientos informativos y restrictivos, así como otros medios de difusión, se lleve a cabo para informar a los conductores de vehículos de transporte de carga pesada sobre las nuevas disposiciones en la materia; asimismo se deberá informar a las Autoridades Federales y Estatales, Cámaras de la Industria, Comercio y Transporte, que forman parte de las actividades que sobre vehículos de transporte de carga pesada se llevan a cabo en el Área Metropolitana de Monterrey. Esta etapa tendrá una duración de 90-noventa días naturales contados a partir de la publicación en el Periódico Oficial del Estado de Nuevo León;
+SEXTO.- Se instruye a la Secretaría de Seguridad Pública Municipal y con el apoyo de las dependencias municipales que correspondan, a que lleve a cabo una campaña de difusión que tenga por objeto dar a conocer lo ordenado en la Sección 5 del capítulo III, en los siguientes términos:
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2016)</small>
+
+I. De Difusión Vial y de Promoción de Rutas: Que comprende toda actividad que a través de medios de comunicación, redes sociales, señalamientos informativos y restrictivos, así como otros medios de difusión, se lleve a cabo para informar a los conductores de vehículos de carga pesada sobre las nuevas disposiciones en la materia; asimismo se deberá informar a las Autoridades Federales y Estatales, Cámaras de Industria, Comercio y Transporte, que forman parte de las actividades que sobre vehículos de transporte de carga pesada se llevan a cabo en el Área Metropolitana de Monterrey. Esta etapa tendrá una duración de 90-noventa días naturales contados a partir de la vigencia del presente Reglamento.
 
 II. Preventiva e Informativa: Que advierte la aplicación de amonestaciones a conductores infractores por un período de 60-sesenta días naturales contados a partir de la conclusión de la campaña de difusión vial y de promoción de rutas; durante la amonestación se continuará con la comunicación de lo ordenado en la presente norma, y,
 
 III. Correctiva: Una vez concluida la etapa Preventiva e Informativa y por espacio de 30-treinta días naturales, la aplicación de la multa tendrá un descuento único del 50%-cincuenta por ciento si ésta es pagada durante los 15-quince días naturales siguientes a la aplicación de dicha multa.
 
 SÉPTIMO.- La aplicación de las sanciones por faltas o violaciones al presente Reglamento, contenidas en el Artículo 164, fracción V, surtirá sus efectos sin concesión, a partir de la conclusión de la campaña preventiva e informativa señalada en el Artículo Sexto Transitorio.
+
+P.O. 17 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE "SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS PRIMERO Y SEXTO FRACCIÓN I TRANSITORIOS DEL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, N.L.".]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
