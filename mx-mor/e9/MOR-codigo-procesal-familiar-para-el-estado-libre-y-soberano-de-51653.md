@@ -4,7 +4,7 @@ identifier: "MOR-codigo-procesal-familiar-para-el-estado-libre-y-soberano-de-516
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2016-07-06"
+last_updated: "2016-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2016.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -3505,7 +3505,9 @@ I. En la demanda sólo podrá exigirse el pago de los gastos que se hubieren hec
 
 II. Si la demanda contuviese peticiones diversas de las que se mencionan en la fracción anterior, se tendrán por no hechas;
 
-III. No se dará curso a la demanda si apareciere que alguno de los prometidos, al celebrar los esponsales, era menor de edad y no contaba con el consentimiento de sus representantes legales;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2016)</small>
+
+III. No se dará curso a la demanda si apareciere que alguno de los prometidos, al celebrar los esponsales, era menor de edad;
 
 IV. Se acompañará el documento que contenga la promesa, excepto en el caso de que se cause grave daño a la reputación del prometido inocente;
 
@@ -3521,7 +3523,7 @@ LEGITIMACIÓN PARA DEMANDAR LA NULIDAD DEL MATRIMONIO. Sólo las personas a quie
 
 ###### ARTÍCULO 426.
 
-CAPACIDAD PROCESAL DE MENORES PARA PEDIR LA NULIDAD DEL MATRIMONIO. Los cónyuges, cuando fueren menores de edad necesitarán de un tutor especial, para actuar dentro del procedimiento de nulidad de su matrimonio.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2016)
 
 ###### ARTÍCULO 427.
 
@@ -4013,17 +4015,15 @@ Cuando no se trate de derechos reales, o no se requiera escritura pública, el J
 
 ###### ARTÍCULO 476.
 
-EXAMEN DE IMPEDIMENTO PARA CONTRAER NUPCIAS. Recibida del Oficial de Registro Civil el acta levantada con motivo del impedimento, el Juez citará al denunciante si lo hubiere, y a los interesados a una audiencia en la que los oirá, recibirá las pruebas y dictará su resolución.
+EXAMEN DE IMPEDIMENTO PARA CONTRAER NUPCIAS. Recibida del Oficial del Registro Civil el acta levantada con motivo del impedimento, el Juez citará al denunciante si lo hubiere, y a los interesados a una audiencia en la que los oirá, recibirá las pruebas y dictará su resolución.
 
 El juicio se hará constar en una sola acta cuando termine en un solo día. La resolución que recaiga será inapelable.
 
-En los casos en que el actor solicite dispensa para contraer matrimonio con la persona que está bajo su guarda, o se celebrase el matrimonio en contravención a la prohibición legal, el Juez, a petición de la autoridad administrativa o de cualquier interesado, nombrará un tutor interino que se encargue de representar al menor, reciba los bienes y los administre mientras se concede la dispensa.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 17 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 477.
 
-AUTORIZACIÓN JUDICIAL PARA EL MATRIMONIO DE UN MENOR. Cuando se solicite que el Juez supla el consentimiento para que un menor pueda contraer matrimonio, oirá a los interesados en una junta en la que recibirá las pruebas y dictará resolución, levantándose una sola acta con las diligencias. Si la resolución fuere favorable, se expedirá desde luego copia certificada para su presentación al Oficial del Registro Civil. Si fuere adversa, sin necesidad de apelación se remitirá el expediente al Tribunal Superior para que, oyendo a los interesados, confirme o revoque la determinación.
-
-La persona menor de edad que, deseando contraer matrimonio, necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar su depósito. El Juez, después de recibir una información sobre el particular, oyendo a los padres y sin formalidades especiales, decidirá si decreta o no el depósito.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2016)
 
 ## TÍTULO TERCERO. AUTORIZACIÓN AL INCAPAZ PARA ENAJENACIÓN DE SUS BIENES
 
@@ -4109,7 +4109,7 @@ DE LA TRAMITACIÓN JUDICIAL DE LOS ASUNTOS DE DIVORCIO POR MUTUO CONSENTIMIENTO.
 
 La demanda será formulada por escrito por ambos cónyuges, quienes deberán suscribirla con sus firmas completas y auténticas, y, además la huella digital pulgar derecha de cada uno.
 
-El consorte menor de edad necesita de tutor especial para solicitar el divorcio por mutuo consentimiento.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 17 DE AGOSTO DE 2016)</small>
 
 El divorcio voluntario no puede pedirse sino pasado un año de la celebración del matrimonio.
 
@@ -4141,9 +4141,11 @@ VII. La manera de efectuar el régimen de visitas a los descendientes, si hubier
 
 MEDIDAS JUDICIALES PROVISIONALES. Mientras se decrete el divorcio, el Juez autorizará la separación de los consortes de manera provisional y dictará las medidas necesarias para asegurar la subsistencia de los hijos y en su caso al cónyuge, y a los que exista la obligación de dar alimentos.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 491.
 
-COMPARECENCIA PERSONAL. A todos los actos relativos al trámite de divorcio voluntario, los consortes deberán comparecer personalmente, o en su caso, acompañados del tutor especial sin que puedan hacerlo por representantes o mandatarios.
+COMPARECENCIA PERSONAL. A todos los actos relativos al trámite de divorcio voluntario, los consortes deberán comparecer personalmente, sin que puedan hacerlo por representantes o mandatarios.
 
 ###### ARTÍCULO 492.
 
@@ -5427,9 +5429,7 @@ También será relevado si presenta cuentas y éstas no son aprobadas, si la fal
 
 VIII. El depositario deberá entregar los bienes depositados tan pronto como lo ordene el juez. Si no cumple, se le apremiará con arresto hasta por quince días.
 
-El depositario será penalmente responsable por la falta de entrega de los bienes embargados cuando sea requerido judicialmente para ello.
-
-Igualmente será penalmente responsable en los casos de desposesión o pérdida de los bienes embargados por cualquier acto judicial o de otra índole, estará obligado a ponerlo en conocimiento del juzgado dentro de las veinticuatro horas siguientes, y si faltare al cumplimiento de esta obligación será civil y penalmente responsable en la misma forma que lo sería en el caso de haber dispuesto de los bienes embargados. También será responsable el depositario por usar o permitir el uso de los bienes embargados o por demérito que éstos sufran por su culpa o negligencia.
+El depositario será penalmente responsable por la falta de entrega de los bienes embargados cuando sea requerido judicialmente para ello. Igualmente será penalmente responsable en los casos de desposesión o pérdida de los bienes embargados por cualquier acto judicial o de otra índole, estará obligado a ponerlo en conocimiento del juzgado dentro de las veinticuatro horas siguientes, y si faltare al cumplimiento de esta obligación será civil y penalmente responsable en la misma forma que lo sería en el caso de haber dispuesto de los bienes embargados. También será responsable el depositario por usar o permitir el uso de los bienes embargados o por demérito que éstos sufran por su culpa o negligencia.
 
 ###### ARTÍCULO 635.
 
@@ -6970,3 +6970,15 @@ P.O. 6 DE JULIO DE 2016.
 PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado de Morelos.
+
+P.O. 17 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS SETENTA Y CINCO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES AL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- Respecto de las personas que hayan contraído matrimonio hasta antes de la entrada en vigor la presente reforma siendo menores de dieciocho años y mediante dispensa, se regirá de acuerdo a las disposiciones legales que se encontraban vigentes a la celebración del mismo.
+
+CUARTA.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
