@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2016-07-06"
+last_updated: "2016-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MOR"
 ---
 # LEY ORGANICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE SEPTIEMBRE DE 2016 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -37,9 +35,7 @@ Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo si
 
 LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y,
 
-CONSIDERANDO.
-
-.
+CONSIDERANDO...
 
 Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
 
@@ -637,21 +633,27 @@ La Junta Política y de Gobierno contará con un Secretario Técnico, que tendr�
 
 A las sesiones de la Junta Política y de Gobierno deberá asistir el Secretario de Servicios Legislativos y Parlamentarios con voz pero sin voto para proporcionar la información que se le requiera de la dependencia a su cargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 46.
 
-La Junta Política y de Gobierno, se integrará por:
+La Junta Política y de gobierno, se integrará por :
 
 I. Los Diputados Coordinadores de cada uno de los grupos parlamentarios;
 
-II. Los Diputados cuyo partido político no integren grupo parlamentario y estén constituidos como fracción parlamentaria, en los términos preceptuados por esta Ley; y
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2016)</small>
+
+II. Los Diputados cuyo partido político no integren grupo parlamentario y estén constituidos como fracción parlamentaria, en términos preceptuados por esta Ley.
 
 III. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2010)
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADO ANTES SEGUNDO PÁRRAFO], P.O. 17 DE AGOSTO DE 2016)</small>
 
-La responsabilidad de presidir la Junta Política y de Gobierno tendrá una duración anual. Esta encomienda se desempeñará sucesivamente por los coordinadores de los grupos parlamentarios en orden decreciente al número de legisladores que los integren, siempre y cuando cuenten cuando menos con tres diputados de la legislatura.
+IV. La Presidencia de la Junta Política y de gobierno será rotativa y anual, el Pleno del Congreso, por el voto de las dos terceras partes de sus integrantes, designará al grupo parlamentario que deba presidirla, siempre y cuando el Grupo Parlamentario esté integrado por lo menos del veinte por ciento de los diputados integrantes de la Legislatura.
 
-En caso de ausencia temporal o definitiva del Presidente de la Junta Política y de Gobierno, el grupo parlamentario al que pertenezca, informará oportunamente tanto al Presidente del Congreso, como a la propia Junta Política y de Gobierno el nombre del diputado que lo sustituirá.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2016)</small>
+
+En caso de ausencia temporal o definitiva del Presidente de la Junta Política y de Gobierno, el grupo parlamentario al que pertenezca, informará oportunamente tanto al Presidente del Congreso, como a la propia Junta Política y de gobierno el nombre del diputado que lo sustituirá.
 
 ###### Artículo 47.
 
@@ -1827,7 +1829,9 @@ VII. Mantener actualizados los inventarios y resguardos de los bienes muebles e 
 
 VIII. Dirigir los trabajos y supervisar su cumplimiento en los servicios administrativos y financieros, debiendo informar trimestralmente a la Junta Política y a la Conferencia de su programación y cumplimiento;
 
-IX. Prestar los servicios de recursos humanos, que comprenden: aspectos administrativos de contratación, promoción y evaluación permanente del personal, pago de nóminas, prestaciones sociales y expedientes laborales;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2016)</small>
+
+IX. Prestar los servicios de recursos humanos, que comprenden los aspectos administrativos de contratación, vigilando que en un porcentaje no menor al cinco por ciento de la plantilla laboral adscrita al Congreso del Estado de Morelos, sean personas con discapacidad, promocionando su inclusión laboral en un ambiente de respeto e inclusión; en todo momento se cuidarán la evaluación permanente del personal, pago de nóminas, prestaciones sociales y expedientes laborales;
 
 X. Proporcionar los servicios de recursos materiales, que comprenden: inventario, provisión y control de bienes muebles, materiales de oficina, papelería y adquisiciones de recursos materiales;
 
@@ -2636,5 +2640,21 @@ P.O. 6 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SETECIENTOS TREINTA Y SEIS POR EL QUE SE REFORMAN LOS ARTÍCULOS 59, 62 Y 70 BIS Y SE ADICIONAN LOS ARTÍCULOS 83 QUÁTER, 83 QUINTUS, 83 SEXTUS, 83 SEPTIMUS Y 83 OCTAVUS A LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS".]
 
 PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos para los efectos a que se refiere la fracción XVII, inciso a, del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente decreto entrará en vigor el día de su aprobación por el Pleno de este Congreso.
+
+P.O. 17 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO OCHOCIENTOS SESENTA Y SEIS POR EL QUE SE REFORMA LA FRACCIÓN IX, DEL ARTÍCULO 98 DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión Oficial del Gobierno del Estado de Morelos.
+
+P.O. 17 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO OCHOCIENTOS SESENTA Y SIETE POR EL QUE SE ADICIONA LA FRACCIÓN IV, AL ARTÍCULO 46 DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos para los efectos a que se refiere la fracción XVII, inciso a), del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente decreto entrará en vigor el día de su aprobación por el Pleno de este Congreso.
