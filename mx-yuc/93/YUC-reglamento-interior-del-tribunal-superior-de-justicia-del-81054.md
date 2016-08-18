@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-interior-del-tribunal-superior-de-justicia-del-81054
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-29"
-last_updated: "2011-04-29"
+last_updated: "2016-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81054&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE AGOSTO DE 2016.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 29 de abril de 2011.
 
@@ -1135,11 +1135,19 @@ Integración
 
 La Unidad de Transparencia y Acceso a la Información Pública estará integrada por un Titular nombrado por el Pleno y los demás auxiliares que éste determine, para el mejor despacho de los asuntos.
 
+> <small>(ADICIONADO, D.O. 18 DE AGOSTO DE 2016)</small>
+
+El titular de la Unidad de Transparencia y Acceso a la Información Pública dependerá directamente del Pleno.
+
+> <small>(REFORMADO, D.O. 18 DE AGOSTO DE 2016)</small>
+
 Requisitos del Titular
 
 ###### Artículo 88.
 
-El Titular de la Unidad de Transparencia y Acceso a la Información Pública deberá satisfacer los requisitos exigidos para ser Titular de la Unidad de Administración, pero deberá contar con título y cédula legalmente expedidos de abogado o licenciado en derecho.
+El Titular de la Unidad de Transparencia y Acceso a la Información Pública deberá satisfacer los requisitos exigidos para ser Titular de la Unidad de Administración, pero deberá contar con título y cédula legalmente expedidos de abogado o licenciado en derecho, y preferentemente contar con experiencia en la materia.
+
+> <small>(REFORMADO, D.O. 18 DE AGOSTO DE 2016)</small>
 
 Atribuciones
 
@@ -1147,51 +1155,43 @@ Atribuciones
 
 La Unidad de Transparencia y Acceso a la Información Pública tendrá las atribuciones siguientes:
 
-I. Cumplir los acuerdos emitidos por el Pleno tendentes a hacer transparente la gestión del Tribunal, mediante la difusión de la información pública;
+I. Recabar y difundir la información relativa a las obligaciones oficiosas de transparencia que correspondan al Tribunal, previstas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Yucatán, y en la Ley General de Transparencia y Acceso a la Información Pública, y propiciar que los órganos jurisdiccionales y áreas administrativas la actualicen periódicamente, conforme la normatividad aplicable;
 
-II. Recibir y despachar las solicitudes de la información pública que se formulen al Tribunal;
+II. Recibir y dar trámite a las solicitudes de acceso a la información;
 
-III. Entregar o negar la información requerida fundando y motivando su resolución en los términos de ley;
+III. Auxiliar a los particulares en la elaboración de solicitudes de acceso a la información y, en su caso, orientarlos sobre los sujetos obligados competentes conforme a la normatividad aplicable;
 
-IV. Auxiliar a los particulares en el llenado de solicitudes de información, particularmente cuando éste no sepa leer ni escribir y, en su caso, orientarlos sobre las entidades que pudieran tener la información pública que solicitan;
+IV. Realizar los trámites internos necesarios para la atención de las solicitudes de acceso a la información;
 
-V. Realizar los trámites internos necesarios para localizar y en su caso, entregar la información pública solicitada, además de efectuar las notificaciones a los particulares;
+V. Efectuar las notificaciones a los solicitantes;
 
-VI. Llevar un registro de las solicitudes de acceso a la información pública, sus resultados y costos, así como el tiempo de respuesta de las mismas;
+VI. Proponer al Comité de Transparencia del Tribunal los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información, conforme a la normatividad aplicable;
 
-VII. Elaborar los formatos de solicitudes de acceso a la información pública, así como los de acceso y corrección de datos personales;
+VII. Proponer personal habilitado que sea necesario para recibir y dar trámite a las solicitudes de acceso a la información;
 
-VIII. Elaborar el manual de procedimientos para asegurar la adecuada atención a las solicitudes de acceso a la información pública;
+VIII. Llevar un registro de las solicitudes de acceso a la información, respuestas, resultados, costos de reproducción y envío;
 
-IX. Aplicar los criterios específicos en materia de clasificación y conservación de los documentos administrativos, así como la organización de archivos;
+IX. Promover e implementar políticas de transparencia proactiva procurando su accesibilidad;
 
-X. Implementar un programa para facilitar la obtención de información pública, que deberá ser actualizado periódicamente;
+X. Fomentar la transparencia y accesibilidad al interior del Tribunal;
 
-XI. Difundir entre los servidores públicos los beneficios del manejo público de la información, así como sus responsabilidades en el buen uso y conservación de ésta;
+XI. Hacer del conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Yucatán, en la Ley General de Transparencia y Acceso a la Información Pública y en las demás disposiciones aplicables;
 
-XII. Clasificar en pública, reservada o confidencial la información;
+XII. Elaborar el manual de procedimientos para asegurar la adecuada atención a las solicitudes de acceso a la información pública y someterlo a la aprobación del Comité;
 
-XIII. Informar mensualmente al Pleno, por conducto del Presidente del Tribunal, o en cualquier momento a requerimiento de éste, sobre las solicitudes de acceso a la información recibidas;
+XIII. Informar mensualmente al Pleno o en cualquier momento a requerimiento de este, sobre las solicitudes de acceso a la información pública recibidas;
 
-XIV. Realizar las acciones pertinentes para favorecer la publicidad de la información pública del Tribunal, a fin de que su gestión pueda ser evaluada de manera objetiva e informada;
+XIV. Registrar y capturar las solicitudes de acceso a la información en la Plataforma Nacional de Transparencia, cuando se presenten por medios diferentes a aquella, y enviar el acuse de recibo al solicitante, en el que se indique la fecha de recepción, el folio que corresponda y los plazos de respuesta aplicables;
 
-XV. Proteger la información reservada, incluyendo los datos, que teniendo carácter de personales, se encuentren a su disposición y deban conservar secrecía en los términos de ley;
+XV. Turnar las solicitudes de acceso a la información a todos los órganos jurisdiccionales y áreas administrativas del Tribunal que cuenten con la información o deban tenerla de acuerdo a sus facultades, competencias y funciones, con el objeto de que realicen una búsqueda exhaustiva y razonable de la información solicitada;
 
-XVI. Capacitar a los servidores públicos del Tribunal en materia de transparencia, acceso a la información y protección de datos personales en los términos de la legislación aplicable;
+XVI. Mantener a disposición del solicitante la información, durante el plazo mínimo que indica la ley, y en su caso, destruir el material en el que se reprodujo la información correspondiente, cuando transcurran los plazos previstos;
 
-XVII. Vigilar el cumplimiento las resoluciones del Instituto Estatal de Acceso a la Información Pública y coadyuvar en el desempeño de sus funciones;
+XVII. Recibir y remitir al Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales en el plazo previsto en la ley, el recurso de revisión que en su caso haya sido presentado ante él;
 
-XVIII. Diseñar formatos de solicitud de acceso a la información que se genera en el Tribunal y los relativos a la corrección de datos, y presentarlos al Pleno para su aprobación, en su caso;
+XVIII. Determinar, en su caso, la notoria incompetencia por parte del Tribunal para atender la solicitud de acceso a la información, y comunicarlo al solicitante. En caso de poder determinar el o los sujetos obligados competentes, señalarlo al solicitante, y
 
-XIX. Clasificar, desclasificar y custodiar la información reservada y confidencial, así como de los datos personales, de conformidad con los criterios que al respecto se establezcan;
-
-XX. Diseñar los medios para evaluar la eficacia de los procedimientos, e instrumentos destinados a proporcionar información al público;
-
-XXI. Recabar, difundir, publicar y mantener actualizada en forma permanente, sin necesidad de que medie solicitud alguna, y a disposición del público a más tardar seis meses a partir de que fue generada, señalando la fecha de la última actualización, la información pública obligatoria a que alude la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán;
-
-XXII. Cumplir con las obligaciones que establece la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán, y
-
-XXIII. Las demás que le confieran este Reglamento y las disposiciones aplicables, así como las que le sean encomendadas por el Pleno o el Presidente del Tribunal.
+XIX. Las demás que le confieran este Reglamento y las disposiciones aplicables, así como las que le sean encomendadas por el Pleno o el Presidente del Tribunal.
 
 ### Capítulo V. Del Departamento de Formación, Capacitación y Profesionalización de Personal
 
@@ -1452,3 +1452,17 @@ MAGISTRADO JOSÉ RUBÉN RUÍZ RAMÍREZ
 MAGISTRADA LETICIA DEL SOCORO COBÁ MAGAÑA
 
 ESTA HOJA DE FIRMAS FORMA PARTE DEL REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE YUCATÁN.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 18 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL OR14-160804-24 DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE YUCATÁN, POR EL QUE SE REFORMA EL REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, RESPECTO DE LA UNIDAD DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA”.]
+
+Entrada en vigor
+
+Primero. Este acuerdo general entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Abrogación
+
+Segundo. A partir de la entrada en vigor de este acuerdo general, quedarán abrogados tanto el “ACUERDO GENERAL NUMERO OR12-011204-16, QUE EMITE EL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE YUCATÁN, POR EL QUE SE CREA LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN, publicado en el Diario Oficial del Gobierno del Estado el 3 de diciembre de 2004, así como el ACUERDO GENERAL NUMERO OR09-070903-36, POR EL QUE SE CREA LA DIRECCIÓN DE TRANSPARENCIA Y APOYO INSTITUCIONAL DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN, publicado en el Diario Oficial del Gobierno del Estado el 3 de octubre de 2007.
