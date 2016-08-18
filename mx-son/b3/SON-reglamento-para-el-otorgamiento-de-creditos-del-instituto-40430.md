@@ -4,7 +4,7 @@ identifier: "SON-reglamento-para-el-otorgamiento-de-creditos-del-instituto-40430
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-12"
-last_updated: "2004-07-12"
+last_updated: "2016-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # REGLAMENTO PARA EL OTORGAMIENTO DE CREDITOS DEL INSTITUTO DE CREDITO EDUCATIVO DEL ESTADO DE SONORA
 
-REGLAMENTO PARA EL OTORGAMIENTO DE CREDITOS DEL INSTITUTO DE CREDITO EDUCATIVO DEL ESTADO DE SONORA
+REGLAMENTO PARA EL OTORGAMIENTO DE CRÉDITOS DEL INSTITUTO DE ÉDUCATIVO DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO PARA EL OTORGAMIENTO DE CRÉDITOS DEL INSTITUTO DE CRÉDITO EDUCATIVO DEL ESTADO DE SONORA, PUBLICADO EN EL B.O. DE 18 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE AGOSTO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Boletín Oficial del Estado de Sonora, el lunes 12 de julio de 2004.
 
@@ -194,3 +196,21 @@ Se abroga el Reglamento para el Otorgamiento de Créditos a Estudiantes, por par
 Dado en la residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los veintiocho días del mes de mayo de dos mil cuatro.
 
 EL GOBERNADOR DEL ESTADO.- EDUARDO BOURS CASTELO.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- BULMARO PACHECO MORENO.- RUBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 18 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO PARA EL OTORGAMIENTO DE CRÉDITOS DEL INSTITUTO DE CRÉDITO EDUCATIVO DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento para el Otorgamiento de Créditos del Instituto de Crédito Educativo del Estado de Sonora, publicado en el Boletín Oficial del Gobierno del Estado de fecha lunes 12 de julio del año 2004.
+
+###### ARTÍCULO TERCERO.
+
+Los manuales de organización, de procedimientos y de servicios al público deberán actualizarse dentro de los sesenta días posteriores a la publicación de la presente reforma, quedando facultado el Director General del Instituto para resolver las cuestiones que se presenten en tanto se expidan los mencionados manuales administrativos.
