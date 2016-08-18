@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-comunicaciones-y-64854"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-08"
-last_updated: "2009-07-31"
+last_updated: "2016-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64854&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-12-31"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES Y TRANSPORTES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE JULIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE AGOSTO DE 2016.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 8 de enero de 2009.
 
@@ -113,17 +113,19 @@ XVII.4. Dirección de Normatividad;
 
 XVII.5. Dirección de Sistemas y Operación;
 
-XVIII. Dirección General de Transporte Ferroviario y Multimodal;
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2016)</small>
 
-XVIII.1. Dirección General Adjunta de Regulación Económica;
+XVIII. Dirección General de Desarrollo Ferroviario y Multimodal;
 
-XVIII.2. Dirección de Tarifas de la Dirección General de Transporte Ferroviario y Multimodal;
+XVIII.1. (DEROGADA, D.O.F. 18 DE AGOSTO DE 2016)
 
-XVIII.3. Dirección de Regulación Técnica Operativa de Transporte Ferroviario;
+XVIII.2. (DEROGADA, D.O.F. 18 DE AGOSTO DE 2016)
 
-XVIII.4. Dirección de Coordinación y Transporte Multimodal;
+XVIII.3. (DEROGADA, D.O.F. 18 DE AGOSTO DE 2016)
 
-XVIII.5. Dirección de Administración de la Dirección General de Transporte Ferroviario y Multimodal;
+XVIII.4. (DEROGADA, D.O.F. 18 DE AGOSTO DE 2016)
+
+XVIII.5. (DEROGADA, D.O.F. 18 DE AGOSTO DE 2016)
 
 XIX. Dirección General de Protección y Medicina Preventiva en el Transporte;
 
@@ -155,7 +157,9 @@ XXVIII. Dirección General de Recursos Materiales;
 
 XXIX. Dirección General de Evaluación;
 
-XXX. Comisión Federal de Telecomunicaciones;
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2016)</small>
+
+XXX. Agencia Reguladora del Transporte Ferroviario;
 
 XXXI. Instituto Mexicano del Transporte;
 
@@ -931,7 +935,9 @@ XXVIII. Promover la actualización de nuevas tecnologías en coordinación con l
 
 XXIX. Proponer con intervención de la Coordinación General de Centros SCT, los lineamientos y programas de los Centros SCT en materia de autotransporte;
 
-XXX. Coordinar con la Dirección General de Transporte Ferroviario y Multimodal la regulación de la operación, explotación y vigilancia, en materia de autotransporte, de las instalaciones donde converjan los servicios de autotransporte federal con otros modos de transporte así como en la elaboración de las normas oficiales mexicanas y determinación de las características físicas de las instalaciones de las terminales de carga y coadyuvar con dicha Dirección General en cuanto al otorgamiento de los permisos correspondientes para tales terminales;
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2016)</small>
+
+XXX. Coordinar con la Dirección General de Desarrollo Ferroviario y Multimodal, la regulación de la operación y explotación en materia de autotransporte y de las instalaciones donde converjan los servicios de autotransporte federal con otros modos de transporte; coadyuvar con dicha Dirección General en cuanto al otorgamiento de los permisos correspondientes para las terminales de carga en que converjan los servicios de autotransporte federal con otros modos de transporte, así como coordinar con la Agencia Reguladora del Transporte Ferroviario la elaboración de normas oficiales mexicanas y la determinación de las características físicas de las instalaciones de las terminales de carga a que se refiere esta fracción;
 
 XXXI. Promover la coordinación con las Unidades Administrativas respectivas y autoridades responsables en los puertos marítimos, interiores, aeropuertos y puertos fronterizos para inspeccionar verificar y vigilar el cumplimiento de la normatividad aplicable al autotransporte federal, sus servicios auxiliares y el transporte privado;
 
@@ -975,85 +981,53 @@ L. Atender las quejas de los usuarios en contra de los diversos permisionarios d
 
 Sin perjuicio de su ejercicio por parte del Director General de Autotransporte Federal, al Director General Adjunto de Planeación y Desarrollo, Subdirector de Desarrollo Tecnológico y Seguridad, Subdirector de Capacitación, Subdirector de Planeación, Jefe de Departamento de Capacitación y Jefe de Departamento de Tarifas, corresponderá el ejercicio de las atribuciones previstas por las fracciones VI y XIV; al Director de Supervisión del Autotransporte Federal, Subdirector de Supervisión Técnica, Subdirector de Supervisión Operativa y Subdirector de Supervisión de la Normatividad, corresponderá el ejercicio de la atribución prevista por la fracción XI; al Director Jurídico y Subdirector de Asuntos Jurídicos y de Seguros, corresponderá el ejercicio de la atribución prevista por la fracción XII; y al Director del Centro Metropolitano del Autotransporte, Subdirector de Servicios Auxiliares, Subdirector de Servicios de Autotransporte de Pasaje y Subdirector de Servicios de Autotransporte de Carga, corresponderá el ejercicio de las atribuciones previstas por las fracciones XXXVI, XXXVII, XXXVIII, XXXIX, XL y XLII.
 
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 23.
 
-Corresponde a la Dirección General de Transporte Ferroviario y Multimodal:
+Corresponde a la Dirección General de Desarrollo Ferroviario y Multimodal:
 
-I. Proponer y promover las políticas y programas de desarrollo, promoción, regulación y supervisión del sistema ferroviario y del transporte multimodal;
+I. Proponer y promover las políticas y programas de desarrollo, promoción, regulación, supervisión y logística del sistema ferroviario y del transporte multimodal;
 
-II. Regular y supervisar los servicios de transporte ferroviario y multimodal, así como fomentar la operación intermodal de los distintos modos de transporte para conformar un sistema integral;
+II. Tramitar las peticiones relativas al otorgamiento de concesiones y asignaciones para la construcción, operación y explotación de vías generales de comunicación ferroviaria y para la prestación del servicio público de transporte ferroviario, así como su prórroga, modificación, nulidad, cesión, terminación y revocación y adoptar, en el ámbito de su competencia, las medidas conducentes en términos de las disposiciones jurídicas aplicables;
 
-III. Tramitar las peticiones relativas al otorgamiento de concesiones y asignaciones para la construcción, operación y explotación de vías generales de comunicación ferroviaria y la prestación del servicio público de transporte ferroviario, así como su prórroga, modificación, nulidad o terminación y adoptar, cuando proceda, las medidas provisionales conducentes en coordinación con los Centros SCT y, en su caso, las licitaciones públicas correspondientes;
+III. Llevar a cabo las licitaciones públicas para el otorgamiento de concesiones para la construcción, operación y explotación de vías férreas, así como para la prestación del servicio público de transporte ferroviario;
 
-IV. Promover y apoyar proyectos de transporte ferroviario de pasajeros suburbanos, interurbanos y turísticos, en aquellas zonas donde existan condiciones técnicas, económicas y sociales que justifiquen su desarrollo;
+IV. Llevar a cabo los procedimientos para la contratación de obras públicas ferroviarias y de los servicios relacionados con las mismas, de conformidad con las disposiciones jurídicas aplicables;
 
-V. Evaluar en coordinación con la unidad administrativa respectiva de la Secretaría, las propuestas relativas a la planeación, construcción, modernización, reconstrucción y conservación de la obra pública para la prestación del servicio público de transporte ferroviario de pasajeros, en su modalidad de suburbano;
+V. Promover con las entidades federativas, municipios, demarcaciones territoriales de la Ciudad de México, concesionarios o particulares la conservación, reconstrucción y ampliación de tramos de vías férreas federales, y la construcción de libramientos que eviten el paso por las poblaciones;
 
-VI. Definir las características, tipo y ubicación de las vías generales de comunicación ferroviaria a ser construidas o reconstruidas; fijar y modificar las dimensiones y características del derecho de vía de las vías generales de comunicación ferroviaria, así como aprobar los proyectos de construcción y, en su caso, reconstrucción de las mismas;
+VI. Evaluar, en coordinación con la unidad administrativa competente de la Secretaría, las propuestas relativas a la planeación, construcción, modernización, reconstrucción y conservación de la obra pública para la prestación del servicio público de transporte ferroviario;
 
-VII. Coordinar las acciones de carácter técnico para la preservación y liberación del derecho de vía en los proyectos de construcción de vías férreas, con la participación de los Centros SCT y, en su caso, de las autoridades competentes de las entidades federativas;
+VII. Fijar y modificar las dimensiones y características del derecho de vía de las vías generales de comunicación ferroviaria, así como aprobar los proyectos de construcción y, en su caso, reconstrucción de las vías férreas concesionadas;
 
-VIII. Coadyuvar con los Centros SCT y las autoridades competentes de las entidades federativas para que los trámites relativos a la adquisición, ocupación y regularización del derecho de vía se lleven a cabo de acuerdo con las disposiciones aplicables;
+VIII. Coordinar las acciones de carácter técnico para la preservación y liberación del derecho de vía en las vías generales de comunicación ferroviaria, con la participación de los Centros SCT y, en su caso, de las autoridades competentes de las entidades federativas, de los municipios o de las demarcaciones territoriales de la Ciudad de México;
 
-IX. Otorgar, modificar o revocar los permisos y autorizaciones para operar el transporte multimodal, y para prestar el servicio de maniobras en zonas federales terrestres ferroviarias, así como, en materia ferroviaria, entre otros, respecto de la prestación de los servicios auxiliares, la construcción de accesos, cruzamientos, puentes, instalación de anuncios, así como cualquier otra clase de obras e instalaciones subterráneas, superficiales o aéreas en el derecho de vía de las vías generales de comunicación ferroviaria; y aprobar los proyectos ejecutivos correspondientes;
+IX. Coadyuvar con las unidades administrativas competentes de la Secretaría, los Centros SCT y las autoridades competentes de las entidades federativas, de los municipios o de las demarcaciones territoriales de la Ciudad de México para que los trámites relativos a la adquisición, ocupación y regularización del derecho de vía en las vías generales de comunicación ferroviaria se lleven a cabo de acuerdo con las disposiciones jurídicas aplicables;
 
-X. Imponer modalidades en la operación y explotación de las vías férreas, así como en la prestación de los servicios ferroviarios;
+X. Otorgar, modificar o revocar los permisos y autorizaciones para operar el transporte multimodal y para prestar el servicio de maniobras en zonas federales terrestres ferroviarias;
 
-XI. Ejercer las atribuciones de la Secretaría respecto de las tarifas y precios en el servicio público de transporte ferroviario, sus servicios auxiliares y demás actividades relacionadas con el servicio ferroviario, así como en el transporte multimodal, y en el servicio de maniobras en zonas federales terrestres ferroviarias, de conformidad con las leyes, reglamentos, concesiones, asignaciones, permisos, autorizaciones, normas oficiales y demás disposiciones aplicables; excepto las que conforme a este Reglamento sean competencia de otras unidades administrativas;
+XI. Otorgar, modificar o revocar los permisos y autorizaciones ferroviarias para la prestación de los servicios auxiliares; la construcción de accesos, cruzamientos e instalaciones marginales; construcción y operación de puentes sobre vías férreas; la instalación de anuncios y señales publicitarias; la construcción, conservación y mantenimiento de vías férreas por parte de las empresas cuando éstas se ofrezcan para su explotación y operación a terceros que tengan concesión para el servicio público de transporte ferroviario y cualquier otra obra e instalación subterránea, superficial o aérea en el derecho de vía de las vías generales de comunicación ferroviaria, así como aprobar los proyectos ejecutivos correspondientes;
 
-XII. Proponer a las autoridades competentes los derechos, productos, aprovechamientos y contraprestaciones que se cubrirán al Gobierno Federal por el otorgamiento de las concesiones, permisos y autorizaciones en materia ferroviaria, de transporte multimodal y de servicio de maniobras en zonas federales terrestres ferroviarias, así como por el uso, aprovechamiento y explotación de los bienes del dominio público correspondientes a la infraestructura ferroviaria y por la prestación del servicio público de transporte ferroviario;
+XII. Imponer en caso fortuito o de fuerza mayor y, previa opinión técnica y operativa de la Agencia Reguladora del Transporte Ferroviario, modalidades en la operación y explotación de las vías férreas, así como en la prestación del servicio público de transporte ferroviario, sólo por el tiempo y proporción que resulte estrictamente necesario;
 
-XIII. Establecer las condiciones y contraprestaciones conforme a las cuales se prestarán los servicios ferroviarios de interconexión y terminal, y se otorgarán derechos de paso y derechos de arrastre, cuando no exista acuerdo entre las partes;
+XIII. Proponer a las autoridades competentes los derechos, aprovechamientos y contraprestaciones que se cubrirán al Gobierno Federal por el otorgamiento de las concesiones, permisos y autorizaciones en materia ferroviaria, de transporte multimodal y de servicio de maniobras en zonas federales terrestres ferroviarias, así como por el uso, aprovechamiento y explotación de los bienes del dominio público correspondientes a la infraestructura ferroviaria y por la prestación del servicio público de transporte ferroviario;
 
-XIV. Aprobar las pólizas de los seguros y sus renovaciones que en materia de transporte ferroviario y multimodal deban contratar los concesionarios, permisionarios, y autorizados, y establecer los montos mínimos que deberán cubrir dichos contratos;
+XIV. Aprobar las pólizas de los seguros y sus renovaciones que en materia de transporte ferroviario y multimodal deban contratar los concesionarios, permisionarios y autorizados, y establecer los montos mínimos que deberán cubrir dichas pólizas;
 
-XV. Asignar la inicial y número que deberá portar el equipo tractivo que transite por las vías generales de comunicación ferroviaria;
+XV. Verificar el cumplimiento de las concesiones, asignaciones, permisos y autorizaciones por parte de los concesionarios, asignatarios, permisionarios y autorizados en materia ferroviaria, de transporte multimodal y de servicio de maniobras en zonas federales terrestres ferroviarias;
 
-XVI. Expedir, revalidar, suspender y cancelar la licencia federal ferroviaria, así como determinar los lineamientos generales respecto de aquellos conocimientos, habilidades y destrezas que requieran de certificación para la prestación de los servicios a cargo del personal que opera o auxilia en la operación del servicio público de transporte ferroviario;
+XVI. Representar al sector en materia de transporte ferroviario y multimodal en las reuniones bilaterales, foros, grupos de trabajo y organismos internacionales;
 
-XVII. Realizar la investigación y dictamen de los accidentes ferroviarios y determinar sus causas, así como coadyuvar en la materia con las autoridades competentes que lo soliciten;
+XVII. Supervisar el cumplimiento y observancia por parte de los Centros SCT de los criterios, lineamientos, procedimientos, y demás disposiciones administrativas que se emitan en materia de transporte ferroviario, de transporte multimodal y de servicio de maniobras en zonas federales terrestres ferroviarias;
 
-XVIII. Verificar el cumplimiento de las leyes, reglamentos, normas oficiales mexicanas, concesiones, asignaciones, permisos, autorizaciones y demás disposiciones administrativas, por parte de los concesionarios, asignatarios, permisionarios y autorizados en materia ferroviaria, de transporte multimodal y de servicio de maniobras en zonas federales terrestres ferroviarias;
+XVIII. Determinar, sin perjuicio de las atribuciones que correspondan a la Secretaría del Trabajo y Previsión Social, en coordinación con otras autoridades federales competentes, los lineamientos generales aplicables para la definición de aquellos conocimientos, habilidades y destrezas que requieran de certificación para garantizar la seguridad en la prestación del servicio público de transporte ferroviario y, establecer en coordinación con dicha Secretaría el régimen al que se sujetará la certificación a que se refiere esta fracción, en términos del artículo 41 de la Ley;
 
-XIX. Apercibir a los infractores, así como imponer, graduar y, en su caso, reducir y cancelar las sanciones que procedan por infracciones a las leyes, reglamentos y demás disposiciones administrativas en materia ferroviaria, de transporte multimodal, y de servicio de maniobras en zonas federales terrestres ferroviarias, así como por el incumplimiento de las disposiciones relativas a las tarifas y precios en las materias a que se refiere la fracción XI anterior y, cuando proceda, adoptar las medidas provisionales que correspondan, en coordinación con los Centros SCT, y dar aviso a las autoridades hacendarias, así como efectuar las notificaciones respectivas;
+XIX. Evaluar y autorizar a las unidades de verificación de las normas oficiales mexicanas relacionadas con el servicio público de transporte ferroviario, así como proponer los lineamientos para dicha autorización;
 
-XX. Integrar el Registro Ferroviario Mexicano;
+XX. Promover la coordinación e integración de los servicios e infraestructura necesarios para el desarrollo de la logística en territorio nacional y su vinculación con el extranjero, y
 
-XXI. Elaborar los proyectos de normas oficiales mexicanas que se requieran en materia ferroviaria, de transporte multimodal y de servicio de maniobras en zonas federales terrestres ferroviarias, incluyendo las relativas al transporte de materiales y residuos peligrosos que se realicen en esos modos de transporte ferroviario y multimodal, así como autorizar las unidades de verificación en materia ferroviaria;
-
-XXII. Evaluar, en coordinación con los Centros SCT, la infraestructura ferroviaria, la prestación de los servicios ferroviarios, de transporte multimodal y de maniobras en zonas federales terrestres ferroviarias, así como formular y promover la realización de los estudios tendentes a uniformar los sistemas de información estadística en dichas materias;
-
-XXIII. Participar, en el ámbito de su competencia, en las negociaciones para la celebración o revisión de los tratados y convenios internacionales, así como en sus relaciones con otras dependencias y entidades, e intervenir en el proceso de homologación de normas técnicas en materia ferroviaria;
-
-XXIV. Establecer esquemas de concertación entre los diferentes actores de las cadenas logísticas en las plataformas intermodales para que el despacho de la carga se realice con seguridad, oportunidad y a costos competitivos;
-
-XXV. Fomentar la interrelación de las terminales intermodales, para incrementar la disponibilidad de la capacidad instalada de la infraestructura intermodal del país;
-
-XXVI. Establecer un sistema de indicadores operativos en las plataformas intermodales, para vigilar y dar seguimiento al desempeño de la infraestructura intermodal y de la logística que se desarrolla en los diferentes corredores multimodales;
-
-XXVII. Coordinarse con las Unidades Administrativas del sector y con las autoridades competentes en la revisión y despacho de las mercancías, para lograr la integración de los diferentes actores que intervienen en la logística y elevar la competitividad de las cadenas de suministro;
-
-XXVIII. Representar al sector en materia de transporte ferroviario y multimodal en las reuniones bilaterales, foros, grupos de trabajo y organismos internacionales;
-
-XXIX. Actuar como área normativa en materia de transporte ferroviario, de transporte multimodal y de servicio de maniobras en zonas federales terrestres ferroviarias, proponiendo los criterios, lineamientos y procedimientos, para la realización de verificación, autorización de obras menores de infraestructura ferroviaria, seguimiento y autorización de obras, vigilar el cumplimiento de la normatividad y la imposición de sanciones, así como instituir la mejora continua en la expedición de la Licencia Federal Ferroviaria, y controles que faciliten su transparencia;
-
-XXX. Supervisar el cumplimiento y observancia por parte de los Centros SCT de los criterios, lineamientos, procedimientos, y demás disposiciones administrativas que se emitan en materia de transporte ferroviario, de transporte multimodal y de servicio de maniobras en zonas federales terrestres ferroviarias;
-
-XXXI. Otorgar el reconocimiento a los centros de capacitación del personal técnico ferroviario, que cumplan con los requisitos correspondientes, así como emitir y aprobar los programas mínimos de capacitación del personal que opere o auxilie en la operación ferroviaria, supervisar su desarrollo y vigilar que éstos correspondan a los objetivos fijados;
-
-XXXII. Evaluar y aprobar a las personas físicas o morales como organismos de certificación, laboratorios de prueba y unidades de verificación de las normas oficiales mexicanas, relacionadas con el servicio público de transporte ferroviario, así como proponer los lineamientos para tales fines;
-
-XXXIII. Planear, promover y evaluar los procesos de distribución física de las mercancías en los corredores multimodales para conformar cadenas logísticas que eleven la competitividad del comercio en el país;
-
-XXXIV. Promover la coordinación e integración de los servicios e infraestructura necesarios para el desarrollo de la logística en territorio nacional y su vinculación con el extranjero;
-
-XXXV. Coordinar la operación intermodal, para elevar la eficiencia de la interconexión de los diferentes modos de transporte, y
-
-XXXVI. Vigilar que las operaciones de las terminales intermodales se realicen con estándares internacionales, para elevar la competitividad de los servicios multimodales.
-
-Sin perjuicio de su ejercicio por parte del Director General de Transporte Ferroviario y Multimodal, al Director General Adjunto de Regulación Económica, corresponderá el ejercicio de las atribuciones previstas por las fracciones III, IV, V y X y, en materia ferroviaria, por las previstas en las fracciones I, II, VII, VIII, XIV, XVIII, XIX, XXII y XXX; al Director de Tarifas de la Dirección General de Transporte Ferroviario y Multimodal, corresponderá el ejercicio de las atribuciones previstas en las fracciones IX, XVIII, XIX, XXI y XXII y, en materia de tarifas, las previstas en las fracciones XVIII, XIX y XX; al Director de Regulación Técnica Operativa de Transporte Ferroviario, corresponderá el ejercicio de las atribuciones previstas en las fracciones VI, XV, XVI, XVII, XX, XXIII, XXXI y XXXII y, en materia ferroviaria, las previstas en las fracciones I, II, IX, XVIII, XIX, XXI, XXII, XXX, XXXI y XXXII; al Director de Administración de la Dirección General de Transporte Ferroviario y Multimodal, corresponderá el ejercicio de las atribuciones previstas en las fracciones XXIV, XXV, XXVI, XXVII, XXXIII, XXXIV, XXXV y XXXVI y, en materia de transporte multimodal, las establecidas en la fracción XII.
-
-En cada caso, los Directores deberán reportar periódicamente al Director General sobre las acciones que realicen en cumplimiento a sus atribuciones encomendadas.
+XXI. Suscribir los acuerdos y documentos relativos al ejercicio de sus atribuciones, así como de aquéllos que les sean señalados por delegación o que le correspondan por suplencia.
 
 ###### ARTÍCULO 24.
 
@@ -1623,9 +1597,11 @@ XIV. Establecer controles de operación, para realizar el pago de remuneraciones
 
 XV. Participar en la elaboración de las Condiciones Generales de Trabajo.
 
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 40.
 
-La Comisión Federal de Telecomunicaciones es el órgano administrativo desconcentrado de la Secretaría, con autonomía técnica, operativa, de gasto y de gestión, encargado de regular, promover y supervisar el desarrollo eficiente y la cobertura social amplia de las telecomunicaciones y la radiodifusión en México, tendrá las atribuciones que se le confieren en la Ley Federal de Telecomunicaciones, la Ley Federal de Radio y Televisión, su Reglamento Interior, y aquellas que le sean otorgadas por el Secretario.
+La Agencia Reguladora del Transporte Ferroviario es un órgano administrativo desconcentrado de la Secretaría con capacidad técnica, operativa y de gestión, la cual tendrá las atribuciones que le confieren la Ley Reglamentaria del Servicio Ferroviario, el Reglamento del Servicio Ferroviario, su Decreto de creación, y demás disposiciones jurídicas aplicables, así como aquellas funciones que le encomiende el Secretario.
 
 ###### ARTÍCULO 41.
 
@@ -1669,7 +1645,9 @@ XI. Celebrar contratos de arrendamiento de bienes inmuebles, y llevar a cabo la 
 
 XII. Autorizar cuando sea el caso que las unidades especializadas y equipos del Centro SCT proporcionen servicios a otras entidades del sector público, gobierno de los estados, municipios, universidades y particulares, mediante el cobro de las cuotas autorizadas y de acuerdo con los procedimientos establecidos;
 
-XIII. Apoyar en forma oportuna, las tareas de supervisión, verificación y notificación que requieran llevar a cabo las unidades administrativas de la Secretaría en las entidades federativas; así como, verificar y realizar las acciones conducentes a efecto de preservar de todo daño las vías ferroviarias y de toda invasión del derecho de vía; notificando de todo ello a la Dirección General de Transporte Ferroviario y Multimodal;
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2016)</small>
+
+XIII. Apoyar en forma oportuna, las tareas de supervisión, verificación y notificación que requieran llevar a cabo las unidades administrativas de la Secretaría y la Agencia Reguladora del Transporte Ferroviario en las entidades federativas, así como verificar y realizar las acciones conducentes a efecto de preservar de todo daño a las vías férreas de toda invasión del derecho de vía; notificando de todo ello a la Dirección General de Desarrollo Ferroviario y Multimodal;
 
 XIV. Coordinar la realización de los trabajos que resulten de situaciones de emergencia, informando con oportunidad a las autoridades superiores;
 
@@ -1754,3 +1732,15 @@ Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Dist
 D.O.F. 31 DE JULIO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE COMUNICACIONES Y TRANSPORTES”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos que se encuentren en trámite en la Dirección General de Transporte Ferroviario y Multimodal a la entrada en vigor del presente Decreto, serán resueltos por la Dirección General de Desarrollo Ferroviario y Multimodal o por la Agencia Reguladora del Transporte Ferroviario, según corresponda, en el ámbito de su competencia.
+
+TERCERO.- Las menciones que se hacen y las atribuciones que se otorgan a la Dirección General de Transporte Ferroviario y Multimodal en otras disposiciones administrativas se entenderán hechas a la Dirección General de Desarrollo Ferroviario y Multimodal o a la Agencia Reguladora del Transporte Ferroviario, según corresponda, conforme a lo previsto en el presente Decreto y demás ordenamientos jurídicos aplicables.
+
+CUARTO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado para la Secretaría de Comunicaciones y Transportes en el Presupuesto de Egresos de la Federación para el ejercicio fiscal 2016, por lo que no se autorizarán recursos adicionales y no se incrementará su presupuesto regularizable durante el presente ejercicio fiscal.
