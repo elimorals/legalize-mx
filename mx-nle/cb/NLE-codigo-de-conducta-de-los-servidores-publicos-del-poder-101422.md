@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-conducta-de-los-servidores-publicos-del-poder-101422"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-06"
-last_updated: "2014-06-06"
+last_updated: "2016-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101422&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS DEL PODER EJECUTIVO DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO POR EL CUAL SE EXPIDE EL CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 19 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2016 (ABROGADO).
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Nuevo León, el viernes 6 de junio de 2014.
 
@@ -158,3 +160,13 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 EL C. CONTRALOR GENERAL DE LA CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL
 
 GUSTAVO ALARCÓN MARTÍNEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL CUAL SE EXPIDE EL CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Código de Ética entrará en vigor el día de su firma y para mayor difusión será publicado en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se abrogan el Código de Ética de los Servidores Públicos de la Administración Pública Estatal publicado en el Periódico Oficial del Estado el 5 de octubre de 2005 y el Código de Conducta de los Servidores Públicos del Poder Ejecutivo del Estado de Nuevo León, publicado en el Periódico Oficial del Estado el 6 de junio de 2014.
