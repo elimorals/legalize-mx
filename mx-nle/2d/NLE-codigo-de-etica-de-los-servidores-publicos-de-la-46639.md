@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-etica-de-los-servidores-publicos-de-la-46639"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-10-05"
-last_updated: "2005-10-05"
+last_updated: "2016-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION PUBLICA ESTATAL
 
-TEXTO ORIGINAL.
+[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 19 DE AGOSTO DE 2016 EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.].
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2016 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 5 de octubre de 2005.
 
@@ -150,3 +152,13 @@ NAPOLEÓN CANTÚ CERNA
 LA C. CONTRALORA INTERNA DEL GOBIERNO DEL ESTADO
 
 NORA ALICIA LIVAS VERA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL CUAL SE EXPIDE EL CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Código de Ética entrará en vigor el día de su firma y para mayor difusión será publicado en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se abrogan el Código de Ética de los Servidores Públicos de la Administración Pública Estatal publicado en el Periódico Oficial del Estado el 5 de octubre de 2005 y el Código de Conducta de los Servidores Públicos del Poder Ejecutivo del Estado de Nuevo León, publicado en el Periódico Oficial del Estado el 6 de junio de 2014.
