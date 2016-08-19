@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-860-de-derechos-para-el-estado-de-veracruz-de-957
 country: "mx"
 rank: "codigo"
 publication_date: "2013-07-31"
-last_updated: "2016-06-07"
+last_updated: "2016-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 860 DE DERECHOS PARA EL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE AGOSTO DE 2016.
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 31 de julio de 2013.
 
@@ -6773,6 +6773,10 @@ g) Altamente complejo 18.89 salarios mínimos
 
 Por los servicios prestados por el Tribunal Superior de Justicia, Juzgados de Primera Instancia, Juzgados Menores y Juzgados Municipales, se causarán y pagarán derechos, por la expedición de copias certificadas, por cada hoja o fracción: 0.25 salario mínimo
 
+> <small>(ADICIONADO, G.O. 19 DE AGOSTO DE 2016)</small>
+
+En los Juicios de alimentos y en los de reconocimiento de hijos, la expedición de copias certificadas no tendrá costo.
+
 ###### Artículo 61.
 
 Por servicios diversos prestados por dependencias de los Poderes Legislativo y Ejecutivo, se causarán y pagarán los derechos siguientes:
@@ -6918,3 +6922,11 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Los ciudadanos que cuenten con licencia vigente al momento de la expedición de este Decreto, podrán solicitar, previo pago de los derechos correspondientes, la renovación de la misma en cualquier momento no siendo necesario que ésta expire para realizar dicho trámite.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 19 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 911 QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 60 DEL CÓDIGO DE DERECHOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que contravenga el presente Decreto.
