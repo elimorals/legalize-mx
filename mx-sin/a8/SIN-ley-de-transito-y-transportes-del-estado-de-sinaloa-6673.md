@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-transito-y-transportes-del-estado-de-sinaloa-6673"
 country: "mx"
 rank: "ley"
 publication_date: "1993-04-09"
-last_updated: "2016-08-15"
+last_updated: "2016-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE TRÁNSITO Y TRANSPORTES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 9 de abril de 1993.
 
@@ -109,9 +109,13 @@ Las autoridades de tránsito podrán limitar el tránsito de vehículos en las v
 
 El establecimiento y funcionamiento de locales destinados a operar como estacionamiento de vehículos de servicio al público, deberán contar con los permisos de las autoridades de tránsito correspondientes; a las cuales compete aprobar las tarifas que se cobren por dicho servicio y las modalidades de operación.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 11.
 
-El establecimiento y funcionamiento de escuelas para la enseñanza de manejo de vehículos requiere de la aprobación de las autoridades de tránsito y a ellas compete establecer las modalidades de operación.
+El establecimiento y funcionamiento de escuelas para la enseñanza de manejo de vehículos, donde se incluirá el manejo defensivo, requiere de la aprobación de las autoridades de tránsito y a ellas compete establecer las modalidades de operación.
 
 ### CAPITULO II. DEL REGISTRO Y CONTROL DE CONDUCTORES DE VEHICULOS AUTOMOTORES
 
@@ -197,17 +201,25 @@ B). En caso de que el solicitante sea menor de dieciocho años, deberá obtener 
 
 C). Acreditar pericia en el manejo de los vehículos clasificados como motocicletas.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 22.
 
-Para conducir vehículos de servicio público de transporte de pasajeros, se requiere la licencia de conducir correspondiente y el certificado de aptitud establecido en esta Ley.
+Para conducir vehículos de servicio público de transporte de pasajeros y de transporte escolar, se requiere la licencia de conducir correspondiente y el certificado de aptitud establecido en esta Ley.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 23.
 
-El certificado de aptitud se expedirá a todas aquellas personas que tengan licencia de manejar, así como que hayan presentado y aprobado ante la autoridad correspondiente, los exámenes médicos y teórico-prácticos que acrediten que están específicamente capacitadas para la prestación del servicio público de transporte de pasajeros.
+El certificado de aptitud se expedirá a todas aquellas personas que tengan licencia de manejar, así como que hayan presentado y aprobado ante la autoridad correspondiente los exámenes médicos que incluirán un estudio toxicológico y psicométrico y teórico-práctico sobre manejo de vehículos, incluyendo el de carácter defensivo, para que acrediten que están específicamente capacitadas para la prestación del servicio público de transporte de pasajeros y de transporte escolar. El certificado de aptitud tendrá una vigencia de un año.
 
-La expedición del certificado de aptitud; y desde luego la licencia de chofer para conductores de vehículos del servicio público de transporte colectivo urbano, en unidades con capacidad mayor de once pasajeros, requerirá además de lo establecido en el párrafo anterior, que acrediten haber cursado el nivel medio básico o secundario y cumplido veintitres años de edad.
+La expedición del certificado de aptitud y, desde luego, la licencia de chofer para conductores de vehículos del servicio público de transporte colectivo urbano y de transporte escolar requerirá además de lo establecido en el párrafo anterior, que acrediten haber cursado la educación de tipo básica y cumplido veintitrés años de edad.
+
+Para la expedición del certificado de aptitud a los conductores de vehículos del servicio público de transporte escolar será obligatorio, además de los señalados en el primer párrafo de este artículo, el examen médico psicológico.
 
 ###### ARTICULO 24.
 
@@ -217,9 +229,11 @@ Cualquier conductor que haya cambiado su nombre o domicilio señalados en la sol
 
 Los concesionarios y permisionarios del servicio público de autotransporte, están obligados a contratar sólo conductores que posean la licencia respectiva y que cuenten con la experiencia, capacidad, pericia y condiciones físico-mentales adecuadas, así como vigilar escrupulosamente que el manejo y control de sus vehículos quede encomendado únicamente a conductores que reúnan las características antes señaladas.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-Los concesionarios y permisionarios del servicio público de transporte de pasajeros, además de lo establecido en el párrafo anterior tienen la obligación de vigilar que los conductores de este servicio cuenten con el certificado de aptitud vigente.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
+
+Los concesionarios y permisionarios del servicio público de transporte de pasajeros y de transporte escolar, además de lo establecido en el párrafo anterior tienen la obligación de vigilar que los conductores de este servicio cuenten con el certificado de aptitud vigente.
 
 ###### ARTICULO 26.
 
@@ -228,6 +242,12 @@ Las autoridades de tránsito están facultadas para suspender, revocar o anular 
 ###### ARTICULO 27.
 
 La licencia para manejar se suspenderá por un lapso de seis meses, cuando su titular incurra en infracciones de tránsito relativas a la circulación en más de tres ocasiones durante un año natural inmediato anterior a la fecha en que se tramite la suspensión o cuando se le haya sorprendido por segunda vez conduciendo en estado de embriaguez o bajo la influencia de drogas o substancias tóxicas que alteren en forma notable su aptitud para conducir.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2016)</small>
+
+En el caso de choferes de transporte público y transporte escolar en todas sus modalidades se procederá conforme lo establece el artículo 161 Bis párrafo octavo de esta Ley.
 
 ###### ARTICULO 28.
 
@@ -307,9 +327,29 @@ I. Para servicio particular;
 
 II. Para servicio público;
 
-III. Para servicios de seguridad pública; y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-IV. Para demostración.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2016)</small>
+
+III. Para servicios de seguridad pública;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2016)</small>
+
+IV. Para demostración;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2016)</small>
+
+V. Para motocicletas y similares; y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2016)</small>
+
+VI. Para vehículos de uso de personas con discapacidad.
 
 ###### ARTICULO 39.
 
@@ -855,43 +895,79 @@ Los pasajeros deberán abstenerse de subir o bajar en vehículos en movimiento, 
 
 Los pasajeros deberán viajar en el interior de los vehículos, absteniéndose de hacerlo en salpicaderas, estribos, plataformas o en cualquier parte externa de los mismos; tampoco lo harán de manera que alguna parte del cuerpo del pasajero sobresalga del vehículo y pueda ser lesionado.
 
-### CAPITULO IX. DE LOS DERECHOS Y PREFERENCIAS DE LOS MINUSVALIDOS
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE AGOSTO DE 2016)</small>
+
+### CAPITULO IX. DE LOS DERECHOS Y PREFERENCIAS DE LAS PERSONAS CON DISCAPACIDAD
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 141.
 
-Además de los derechos de paso establecidos para los peatones, los minusválidos gozarán de los siguientes derechos y preferencias:
+Además de los derechos de paso establecidos para los peatones, las personas con discapacidad gozarán de los siguientes derechos y preferencias:
 
 I. Gozar de derecho de paso sobre los vehículos, en las intersecciones a nivel no semaforizadas;
 
-II. Gozar del derecho de paso en intersecciones semaforizadas, cuando el semáforo o el agente así lo indique; al corresponderles el paso y no alcanzar a cruzar la vialidad, es obligación de los conductores mantener sus vehículos sin movimiento hasta que el minusválido termine de cruzar;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2016)</small>
+
+II. Gozar del derecho de paso en intersecciones semaforizadas, cuando el semáforo o el agente así lo indique; al corresponderles el paso y no alcanzar a cruzar la vialidad, es obligación de los conductores mantener sus vehículos sin movimiento hasta que la persona con discapacidad termine de cruzar;
 
 III. Ser auxiliados por los agentes de tránsito y peatones para lograr cruzar una intersección; y
 
 IV. Obtener las facilidades necesarias para la segura utilización de las unidades de transporte público de personas.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 142.
 
-Los inválidos, minusválidos con dificultad de desplazamiento que utilicen vehículos de motor, ya sea por sí mismos o por medio de conductor autorizado, tendrán derecho a placas y tarjeta de circulación que las distinga de las demás, las que deberán ser portadas en todo tiempo en lugar visible.
+Las placas y tarjeta de circulación para vehículos de uso de personas con discapacidad se proporcionarán a las personas que sean propietarias de vehículos automotores ordinarios o adaptados con los equipos, dispositivos o modificaciones especiales para su manejo por sí mismas o por un tercero, previa verificación y certificación que se realice a la unidad por las autoridades de tránsito competentes.
+
+Estas placas también serán autorizadas al propietario de un vehículo automotor para trasladar personas con discapacidad que demuestren tener con él un parentesco o relación directa, las que deberán ser portadas en todo tiempo en lugar visible.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 143.
 
-Los inválidos, minusválidos o enfermos que circulen en carros de manos, sillas con ruedas o aparatos similares, ya sea en forma independiente o auxiliados por otra persona lo harán por la banqueta, acera o andador.
+Las personas con discapacidad o enfermos que circulen en carros de manos, sillas con ruedas o aparatos similares, ya sea en forma independiente o auxiliados por otra persona lo harán por la banqueta, acera o andador.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 144.
 
-Los inválidos, minusválidos o enfermos que empleen carros de mano, sillas con ruedas o aparatos similares, dispondrán del tiempo necesario para abordar y colocarse con seguridad en el interior del vehículo del transporte público de personas.
+Las personas con discapacidad o enfermos que empleen carros de mano, sillas con ruedas o aparatos similares, dispondrán del tiempo necesario para abordar y colocarse con seguridad en el interior del vehículo del transporte público de personas.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 145.
 
-Las unidades destinadas a la prestación de servicio público de transporte de personas contarán con dos asientos individuales para el uso exclusivo de inválidos, minusválidos o enfermos que para su traslación se ayuden con dispositivos o aparatos de cualquier tipo. En todo caso dichos asientos serán ubicados en la parte del vehículo más próxima a la puerta de acceso.
+Las unidades destinadas a la prestación de servicio público de transporte de personas contarán con dos asientos individuales para el uso exclusivo de personas con discapacidad o enfermos que para su traslación se ayuden con dispositivos o aparatos de cualquier tipo. En todo caso dichos asientos serán ubicados en la parte del vehículo más próxima a la puerta de acceso.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 146.
 
-Las autoridades de tránsito pondrán especial interés y cuidado en la vigilancia de todas aquellas medidas que las autoridades implementen en la vía pública tendientes a facilitar el acceso y circulación de vehículos y aparatos que se utilicen para la transportación de minusválidos.
+Las autoridades de tránsito pondrán especial interés y cuidado en la vigilancia de todas aquellas medidas que las autoridades implementen en la vía pública, tendientes a facilitar el acceso y circulación de vehículos y aparatos que se utilicen para la transportación de personas con discapacidad.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 147.
 
-Las autoridades de tránsito determinarán e instalarán todas aquellas señales que sean necesarias para la protección, acceso y desplazamiento de los minusválidos. Asimismo, vigilará que en la construcción de banquetas, sean construidas rampas de acceso para el mismo fin.
+Las autoridades de tránsito determinarán e instalarán todas aquellas señales que sean necesarias para la protección, acceso y desplazamiento de las personas con discapacidad. Asimismo, vigilarán que en la construcción de banquetas sean construidas rampas de acceso para el mismo fin.
 
 ### CAPITULO X. DERECHO DE PASO Y PROTECCION A LOS ESCOLARES
 
@@ -1301,6 +1377,12 @@ B). Servicio de carga express;
 
 C). Servicio de carga especial;
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2016)</small>
+
+III. Transporte escolar.
+
 ###### ARTICULO 204.
 
 El servicio de primera de lujo del transporte de personas, deberá prestarse en vehículos cerrados, dotados de equipo especial que garantice condiciones de atención, comodidad, rapidez, seguridad y servicios adicionales.
@@ -1357,6 +1439,12 @@ Las autoridades de tránsito deberán dar aviso de inmediato a la Dirección de 
 
 Los automóviles de alquiler deberán llevar en lugar visible las tarifas autorizadas o un aparato aprobado por Tránsito y Transportes que registre el precio por el servicio.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2016)</small>
+
+ARTICULO 214 BIS. El transporte escolar es aquél que se realiza por personas autorizadas, con la finalidad de trasladar estudiantes desde sus domicilios hasta los establecimientos educacionales, recreativos o cualquiera relacionado con sus actividades, y en su caso para llevarlos de dichos establecimientos a sus domicilios, con cierta regularidad y continuidad.
+
 ### CAPITULO IV. DEL TRANSPORTE URBANO DE PASAJEROS
 
 ###### ARTICULO 215.
@@ -1369,9 +1457,37 @@ El Ejecutivo del Estado promoverá y reglamentará la organización de los prest
 
 Para la prestación de este tipo de servicio, se dará prioridad a la autorización de unidades de mayor capacidad.
 
-### CAPITULO V. DEL TRANSPORTE DE BEBIDAS ALCOHOLICAS
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-### CAPITULO VI. DEL TRANSPORTE EXCLUSIVO DE TURISMO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE AGOSTO DE 2016)</small>
+
+### CAPITULO IV BIS. DEL TRANSPORTE ESCOLAR
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2016)</small>
+
+ARTICULO 216 BIS. El transporte escolar será prestado previa certificación y autorización otorgada por la Dirección de Vialidad y Transportes.
+
+Para la obtención de la concesión, así como para la prestación del servicio respectivo, se deberán cumplir con los requisitos siguientes:
+
+I. El conductor o conductores deberán contar (sic) licencia de tipo chofer y certificado de aptitud vigente;
+
+II. Los vehículos deben cumplir en los aspectos técnicos y contar con los seguros correspondientes que prevé la normatividad en la materia y la presente Ley;
+
+III. No transportar mayor cantidad de pasajeros que la que determinen las normas de seguridad correspondientes, según el tipo de vehículo o la concesión otorgada;
+
+IV. Someter los vehículos a revisión física, mecánica y de seguridad, por lo menos cada seis meses; y
+
+V. Uso obligatorio del cinturón de seguridad en el transporte escolar para todos los pasajeros.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2016)</small>
+
+ARTICULO 216 BIS A. Todas las unidades deberán de estar debidamente señalizados (sic) con letreros visibles y con leyendas de "Precaución Transporte Escolar" en la parte trasera, delantera y en ambos costados, también deberán de contar con señalamientos en amarillo luminoso o reflejante con letras negras "Escolares"; siempre deberán estar operando las luces de emergencia para cuando asciendan o desciendan niñas, niños y adolescentes; asimismo, cumplir con las demás medidas de identificación y seguridad que establezca el Reglamento respectivo.
+
+### CAPITULO V. DEL TRANSPORTE DE BEBIDAS ALCOHOLICAS
 
 ###### ARTICULO 217.
 
@@ -1385,7 +1501,7 @@ Los permisos expedidos para el transporte de Bebidas Alcohólicas se revocarán 
 
 En la revalidación de los permisos para el transporte de bebidas alcohólicas, se estará a lo dispuesto, en cuanto a obligaciones fiscales, por la Ley de Hacienda del Estado de Sinaloa.
 
-### CAPITULO VII. DE LAS AUTORIZACIONES PARA EL TRANSPORTE PARTICULAR DE CARGA O PERSONAS
+### CAPITULO VI. DEL TRANSPORTE EXCLUSIVO DE TURISMO
 
 ###### ARTICULO 220.
 
@@ -1403,7 +1519,7 @@ La Dependencia competente, cuando exista demanda extraordinaria del servicio exc
 
 El personal, operadores y ayudantes en la prestación del servicio exclusivo de turismo, deberá satisfacer los requisitos que al efecto señale la Autoridad de Tránsito y Transportes, conforme a los ordenamientos sobre la materia.
 
-### CAPITULO VIII. DE LOS PERMISOS EVENTUALES DE RUTA O ZONA
+### CAPITULO VII. DE LAS AUTORIZACIONES PARA EL TRANSPORTE PARTICULAR DE CARGA O PERSONAS
 
 ###### ARTICULO 224.
 
@@ -1413,7 +1529,11 @@ I. Educandos por la propia institución educativa;
 
 II. Trabajadores por su patrón;
 
-III. Lo relacionado con los servicios que presten las empresas fúnebres;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2016)</small>
+
+III. Lo relacionado con los servicios que presten las empresas;
 
 IV. Vehículos por unidades dotadas con grúa;
 
@@ -1427,7 +1547,7 @@ VII. Personas o cosas, en casos similares a los anteriores, a juicio de la Depen
 
 A las empresas constructoras y a las de compra y venta de materiales para la construcción, se les podrá autorizar el transporte de sus elementos, maquinaria, personal, o demás equipo que sea de su propiedad y lo requieran para el desarrollo de su actividad, en tanto dichos elementos formen parte del activo fijo de la empresa.
 
-### CAPITULO IX. DE LAS UNIDADES PARA EL TRANSPORTE
+### CAPITULO VIII. DE LOS PERMISOS EVENTUALES DE RUTA O ZONA
 
 ###### ARTICULO 226.
 
@@ -1437,7 +1557,7 @@ La Autoridad de Tránsito y Transportes podrá expedir permisos eventuales de ru
 
 La autorización de los permisos de ruta o zona eventuales a que se refiere el artículo anterior se otorgarán en igualdad de condiciones de calidad, en los términos establecidos en el Reglamento.
 
-### CAPITULO X. DE LAS SOLICITUDES DE CONCESIONES Y PERMISOS DE RUTA O ZONA Y SU TRAMITACIÓN
+### CAPITULO IX. DE LAS UNIDADES PARA EL TRANSPORTE
 
 ###### ARTICULO 228.
 
@@ -1449,7 +1569,7 @@ Las unidades destinadas a la prestación del servicio público de transporte por
 
 En los tipos de servicio que así lo requieran, deberán contar con el equipo adicional y especializado necesario para el servicio autorizado.
 
-### CAPITULO XI. DE LOS HORARIOS, ITINERARIOS, ZONAS Y TARIFAS
+### CAPITULO X. DE LAS SOLICITUDES DE CONCESIONES Y PERMISOS DE RUTA O ZONA Y SU TRAMITACIÓN
 
 ###### ARTICULO 230.
 
@@ -1483,9 +1603,9 @@ Cuando en una ruta o zona cerrada se decrete la apertura de la ruta o zona, se a
 
 En igualdad de condiciones, se otorgarán las concesiones o permisos de ruta o zona, según el orden cronológico de la prestación y publicación de la solicitud.
 
-### CAPITULO XII. DE LAS OBLIGACIONES DE CONCESIONARIOS Y PERMISIONARIOS
+### CAPITULO XI. DE LOS HORARIOS, ITINERARIOS, ZONAS Y TARIFAS
 
-### CAPITULO XIII. DERECHOS DE LOS USUARIOS
+### CAPITULO XII. DE LAS OBLIGACIONES DE CONCESIONARIOS Y PERMISIONARIOS
 
 ###### ARTICULO 237.
 
@@ -1547,7 +1667,7 @@ En caso de movimiento de servidores públicos o agentes de policía de cualquier
 
 Las maniobras de carga, descarga y estiba que se ejecuten en las zonas de jurisdicción estatal, se consideran como actividades conexas al transporte. Las tarifas que rijan estos servicios deberán ser autorizadas por la Dependencia del Ejecutivo del Estado facultada para ello.
 
-### CAPITULO XIV. DE LA CESION, TRANSIMISION (SIC), ANULACION Y REVOCACION DE LAS CONCESIONES Y PERMISOS
+### CAPITULO XIII. DERECHOS DE LOS USUARIOS
 
 ###### ARTICULO 248.
 
@@ -1617,7 +1737,7 @@ En los vehículos de servicio público de transporte de pasajeros no serán admi
 
 En vehículos de servicio público de pasajeros queda prohibido llevar animales, bultos, paquetes u otros análogos que por su condición, su volumen, aspecto, ruido o mal olor puedan causar molestias a los pasajeros, quienes podrán exigirle al conductor del vehículo y a los inspectores de transporte que se cumpla con lo establecido en este Artículo.
 
-### CAPITULO XV. DE LA VIGILANCIA DEL SERVICIO PUBLICO DE TRANSPORTE
+### CAPITULO XIV. DE LA CESION, TRANSIMISION (SIC), ANULACION Y REVOCACION DE LAS CONCESIONES Y PERMISOS
 
 ###### ARTICULO 260.
 
@@ -1645,7 +1765,7 @@ VI. Exigir en caso de pérdida comprobada, tratándose de servicio foráneo, el 
 
 El pasajero que no pueda presentar el recibo que le hubiere sido expedido al entregar su equipaje, sólo podrá retirarlo si identifica satisfactoriamente su contenido.
 
-### CAPITULO XVI. DE LAS SANCIONES EN LA MATERIA DE TRANSPORTE
+### CAPITULO XV. DE LA VIGILANCIA DEL SERVICIO PUBLICO DE TRANSPORTE
 
 ###### ARTICULO 263.
 
@@ -1655,9 +1775,13 @@ Las concesiones y permisos de ruta o zona son inembargables. Podrán ser cedidos
 
 Cuando haya falsedad en los informes o documentos que se anexen a la solicitud, la concesión o permiso de ruta o zona se anulará sin perjuicio de aplicar al responsable las penas establecidas en las leyes respectivas.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 265.
 
-Las concesiones y permisos de ruta o zona se revocarán, a juicio del Ejecutivo del Estado y por las siguientes causas:
+Las concesiones y permisos de ruta o zona se revocarán por parte del Ejecutivo del Estado por las siguientes causas:
 
 I. Porque se preste un servicio distinto al expresado en la concesión o permiso;
 
@@ -1693,15 +1817,35 @@ XV. Por transportar estupefacientes, substancias psicotrópicas o substancias pe
 
 XVI. Por realizar el concesionario o permisionario actos de compraventa o arrendamiento de los derechos emanados de la concesión o permiso;
 
-XVII. Por no registrar la unidad con la cual se prestará el servicio dentro del término señalado por el reglamento, y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-XVIII. En los demás casos que establezca esta Ley o su Reglamento o que lo exija el interés social y el orden público.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2016)</small>
+
+XVII. Por no registrar la unidad con la cual se prestará el servicio dentro del término señalado por el Reglamento;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2016)</small>
+
+XVIII. Por reincidencia en caso de que el vehículo objeto de la concesión sea conducido por persona que se le detecte alcohol en su organismo o estar bajo el influjo de drogas, estupefacientes o sustancias psicotrópicas o tóxicas que alteren la capacidad del conductor;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2016)</small>
+
+XIX. Por permitir el concesionario o permisionario que el o los vehículos asignados al servicio público, se utilicen para apoyar actividades o eventos de tipo delictivo o que contravengan la seguridad y el orden público; y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2016)</small>
+
+XX. En los demás casos que establezca esta Ley o su Reglamento y otras leyes en la materia.
 
 ###### ARTICULO 266.
 
 Toda persona física o moral que haya sido titular de una concesión o permiso de ruta o zona del servicio público de transporte y que haya dejado de serlo por cesión, anulación o revocación, no podrá obtener la titularidad de otro en un término de cinco años.
 
-### CAPITULO XVII. DE LOS RECURSOS
+### CAPITULO XVI. DE LAS SANCIONES EN LA MATERIA DE TRANSPORTE
 
 ###### ARTICULO 267.
 
@@ -1725,13 +1869,19 @@ VI. Impedir la conducción y circulación de los vehículos de transportes, en l
 
 En la vigilancia del servicio público de transporte, participarán también los agentes de tránsito del Estado, en los términos de la presente Ley y su Reglamento.
 
+### CAPITULO XVII. DE LOS RECURSOS
+
 ###### ARTICULO 269.
 
 Las violaciones a lo dispuesto en esta Ley y su Reglamento que se refieran a la explotación del servicio público de transporte, se sancionarán en los términos del presente Capítulo.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 270.
 
-Atendiendo a su gravedad, la autoridad de Tránsito y Transportes podrá aplicar por las transgresiones a la presente Ley y su Reglamento, sanciones consistentes en la detención de la unidad, detención y retiro de los documentos, placas y tarjeta de circulación, o sanciones económicas de conformidad con el tabulador de infracciones correspondiente.
+Atendiendo su gravedad, la autoridad competente de Tránsito y Transportes podrá aplicar por las transgresiones a la presente Ley y su Reglamento, sanciones administrativas consistentes en multa y como medida preventiva y de seguridad la detención y retiro del vehículo automotor, así como de los documentos, placas y tarjeta de circulación del mismo, en los casos previstos expresamente en dichos ordenamientos.
 
 ###### ARTICULO 271.
 
@@ -1950,3 +2100,15 @@ P.O. 15 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 636 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO Y TRANSPORTES DEL ESTADO DE SINALOA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 19 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 639 DEL H. CONGRESO DEL ESTADO.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO Y TRANSPORTES DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir de los treinta días siguientes a su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. El Ejecutivo del Estado deberá realizar las adecuaciones correspondientes al Reglamento de la presente Ley en un plazo que no exceda de treinta días posteriores al inicio de vigencia del mismo.
+
+Hasta en el (sic) tanto no se incluyan las sanciones administrativas en los términos del artículo 270 a la presente Ley y su Reglamento, continuarán vigentes las previstas en el tabulador de infracciones y sanciones.
+
+TERCERO. La Dirección de Vialidad y Transportes realizará las medidas pertinentes para que las personas que actualmente prestan el servicio de transporte escolar obtengan la concesión correspondiente en los términos previstos en el presente Decreto.
