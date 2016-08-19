@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-r-ayuntamiento-de-juarez-nuevo-leon-705
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-16"
-last_updated: "2015-12-23"
+last_updated: "2016-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DE JUAREZ, NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE JUÁREZ, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 19 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DE JUÁREZ, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 2009.
 
@@ -1190,3 +1192,15 @@ P.O. 23 DE DICIEMBRE DE 2015.
 SEGUNDO: Publíquese por una sola vez en el Periódico Oficial del Estado a fin de que surtan los efectos legales a que haya lugar.
 
 TERCERO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE APRUEBA Y AUTORIZA LAS REFORMAS POR MODIFICACIÓN, ADICIÓN Y/O DEROGACIÓN DEL REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DE JUÁREZ, N.L.”.]
+
+PRIMERO: El presente Reglamento entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se abroga el Reglamento Interior del R. Ayuntamiento de Juárez, Nuevo León, publicado en el Periódico Oficial del Estado en fecha 16 dieciséis de septiembre de 2009 dos mil nueve.
+
+TERCERO: Se dejan sin efecto todas las normativas, circulares, acuerdos y demás disposiciones jurídicas que contravengan al presente reglamento.
+
+CUARTO: Gírense las instrucciones al ciudadano Presidente Municipal y a la ciudadana Secretaria del R. Ayuntamiento, para su publicación en el Periódico Oficial del Estado y Gaceta Municipal y se le dé el debido cumplimiento.
