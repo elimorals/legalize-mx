@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108527"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2016-07-25"
+last_updated: "2016-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE JULIO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2016.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 2 de junio de 2015.
 
@@ -727,7 +725,13 @@ VII. La prevención de violaciones a los derechos humanos de niñas, niños y ad
 
 VIII. La información y participación de niñas, niños y adolescentes para la prevención y atención de las adicciones.
 
-La Procuraduría de Protección y cualquier persona interesada por conducto de esta, podrán promover ante las autoridades administrativas competentes la imposición de sanciones a los medios de comunicación en los términos que establece la Ley General y demás disposiciones aplicables, de igual forma la Procuraduría estará facultada para promover acciones colectivas ante el órgano jurisdiccional competente a fin de que ordene a los medios de comunicación que se abstengan de difundir información y contenido que vulnere los derechos de las niñas, niños y adolescentes y en su caso se reparen los daños que se pudieran haber ocasionado, si (sic) menoscabo de las atribuciones que sobre esta materia tengan las autoridades competentes.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
+
+La Procuraduría de Protección y cualquier persona interesada por conducto de esta, podrán promover ante las autoridades administrativas competentes la imposición de sanciones a los medios de comunicación en los términos que establece la Ley General y demás disposiciones aplicables, de igual forma la Procuraduría estará facultada para promover acciones colectivas ante el órgano jurisdiccional competente a fin de que ordene a los medios de comunicación que se abstengan de difundir información y contenido que vulnere los derechos de las niñas, niños y adolescentes y en su caso se reparen los daños que se pudieran haber ocasionado, sin menoscabo de las atribuciones que sobre esta materia tengan las autoridades competentes; y,
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2016)</small>
+
+IX. La difusión de la información institucional y la promoción de los derechos en sus portales de internet, en una sección visible y de fácil acceso para garantizar que niñas, niños y adolescentes cuenten con los sistemas de apoyo que contribuyan a orientarlos en el conocimiento y ejercicio de sus derechos, particularmente su derecho a la libertad de expresión, acceso a la información y sistema de apoyo para la expresión de su voluntad; debiendo ser también promocionados éstos, en las lenguas indígenas del Estado.
 
 ###### Artículo 46.
 
@@ -1614,3 +1618,9 @@ P.O. 23 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 149 POR EL QUE SE “ADICIONA LA FRACCIÓN XXV AL ARTÍCULO 71 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 19 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 158 POR EL QUE “SE REFORMA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN VIII, Y SE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 45 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
