@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-justicia-administrativa-para-el-estado-de-sinaloa-6624"
 country: "mx"
 rank: "ley"
 publication_date: "1993-03-26"
-last_updated: "2016-05-04"
+last_updated: "2016-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el viernes 26 de marzo de 1993.
 
@@ -105,17 +105,45 @@ El Tribunal de lo Contencioso Administrativo estará integrado por lo menos, por
 
 Los Magistrados del Tribunal de lo Contencioso Administrativo del Estado serán electos por el Congreso o la Diputación Permanente según corresponda, de una terna de candidatos propuesta por la Sala Superior del mismo Tribunal. La elección será por cédula.
 
-La Sala Superior, tres meses antes de que concluya el período de Magistrados del Tribunal de lo Contencioso Administrativo, comunicará esta circunstancia al Congreso del Estado y emitirá convocatoria pública abierta, a fin de invitar a participar en el proceso de designación de Magistrado, al abogado que aún y cuando no forme parte de la estructura orgánica del propio Tribunal, reúna el perfil requerido por el artículo 16 de la Ley de la materia, procedimiento que se desarrollará en tres fases ante la Sala Superior del Tribunal de lo Contencioso Administrativo del Estado.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
 
-Primera fase: Se recibirán las propuestas de los aspirantes, un ensayo de contenido jurídico, y se integrarán los expedientes respectivos.
+Los Magistrados del Tribunal de lo Contencioso Administrativo durarán seis años en el ejercicio de su encargo, salvo que fueran expresamente ratificados al concluir ese periodo. Si así fuere, sólo podrán ser privados de sus cargos en los términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE AGOSTO DE 2016)</small>
+
+Deberán permanecer normalmente en ejercicio de sus funciones durante su proceso de ratificación, el cual deberá iniciar tres meses antes de que concluya el periodo de Magistrado del Tribunal de lo Contencioso Administrativo, con la solicitud del interesado al Congreso del Estado, para lo cual, el órgano legislativo requerirá al Pleno del Tribunal la documentación que ampare el desempeño del Magistrado a efecto de realizar, a través de la Comisión de Puntos Constitucionales y Gobernación, la evaluación del desarrollo de sus funciones, que deberá sujetarse a criterios objetivos relativos a la excelencia profesional, honestidad y buena reputación; la Comisión podrá citar al Magistrado a efecto de hacerse llegar elementos que le permitan una mejor valoración.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE AGOSTO DE 2016)</small>
+
+Asimismo, presentará al Pleno del Congreso el dictamen que verse sobre la ratificación de dicho funcionario.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE AGOSTO DE 2016)</small>
+
+En caso de no resultar procedente, se informará al Pleno del Tribunal para que emita convocatoria pública abierta, a fin de invitar a participar en el proceso de designación de Magistrado, al abogado que aún y cuando no forme parte de la estructura orgánica del propio Tribunal, reúna el perfil requerido por el artículo 6 de la Ley de la materia, procedimiento que se desarrollará en tres fases ante la Sala Superior del Tribunal de lo Contencioso Administrativo del Estado.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
+
+Primera fase: Se recibirán las propuestas de los aspirantes, un ensayo de contenido jurídico, que verse sobre la materia fiscal o administrativa y se integrarán los expedientes respectivos.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
 
 Segunda fase: Los aspirantes comparecerán personalmente ante los Magistrados que integran la Sala Superior del Tribunal, en las fechas que para tal efecto se señale en la convocatoria respectiva, quienes les formularán diversas preguntas sobre su ensayo, el ejercicio profesional o, respecto de las constancias que obren en el expediente, y se procederá de inmediato, a la calificación del ensayo jurídico presentado por quienes reúnan los requisitos exigidos por la Ley.
 
-Tercera fase: Dentro de los tres días siguientes a la calificación del ensayo jurídico, se analizarán y calificarán los elementos que contengan los expedientes de los aspirantes que hayan acreditado las dos primeras fases; inmediatamente después, por consenso o en su caso, por mayoría mediante el sistema del voto de sus integrantes, la Sala Superior del Tribunal, seleccionará a los aspirantes que considere los más idóneos para ser designados Magistrados del Tribunal, dentro de los cuales, deberá existir cuando menos, un abogado que no forme parte de la estructura orgánica del Tribunal, pero que reúna el perfil requerido por la Ley de la materia, por lo que, (sic) Sala Superior, dentro del término de tres días siguientes al análisis y evaluación de los expedientes que llegaron a esta fase, formulará el dictamen correspondiente con la terna de aspirantes a Magistrado, y la propondrá a más tardar al día siguiente para su aprobación, al H. Congreso del Estado.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
+
+Tercera fase: Dentro de los tres días siguientes a la calificación del ensayo jurídico, se analizarán y calificarán los elementos que contengan los expedientes de los aspirantes que hayan acreditado las dos primeras fases; inmediatamente después, por consenso o en su caso, por mayoría mediante el sistema del voto de sus integrantes, la Sala Superior del Tribunal, seleccionará a los aspirantes que considere los más idóneos para ser designados Magistrados del Tribunal, dentro de los cuales, deberá existir cuando menos, un abogado que no forme parte de la estructura orgánica del Tribunal, pero que reúna el perfil requerido por la Ley de la materia, por lo que, la Sala Superior, dentro del término de tres días siguientes al análisis y evaluación de los expedientes que llegaron a esta fase, formulará el dictamen correspondiente con la terna de aspirantes a Magistrado, y la propondrá a más tardar al día siguiente para su aprobación, al H. Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
 
 El dictamen para proponer la terna, deberá contener los nombres de los candidatos que se estimaron idóneos a ocupar el cargo, y se le anexarán los documentos que acrediten que los aspirantes, tienen la capacidad para el desempeño de la función y que se cumple con los requisitos de Ley, así como las consideraciones que sustenten las propuestas presentadas por los postulantes, debiendo recaer preferentemente la propuesta de nombramiento, en aquellos profesionistas en derecho con eficiencia, capacidad y probidad en la impartición de justicia o, que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica, lo cual deberá quedar plenamente acreditado.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
+
 Los aspirantes que no acrediten los requisitos establecidos en una fase, no pasarán a la siguiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE AGOSTO DE 2016)</small>
+
+El Congreso por mayoría de votos, elegirá de entre la terna correspondiente a los que se vayan a desempeñar como magistrados. De no lograrse la votación mencionada se procederá al sorteo.
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
@@ -141,9 +169,11 @@ i). La manera en que el Órgano Supremo del Tribunal, analizará y calificará t
 
 j). Las causas de descalificación de los aspirantes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 6o.
 
-Para ser Magistrado se requiere:
+Para ser magistrado se requiere:
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
@@ -151,7 +181,9 @@ I. Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos;
 
 II. Poseer título profesional de Licenciado en Derecho, con una experiencia mínima de cinco años, en materia administrativa y fiscal;
 
-III. Tener más de treinta años de edad y menos de setenta el día de su nombramiento;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2016)</small>
+
+III. Tener más de 30 años de edad y menos de 65 el día de su nombramiento o ratificación, según corresponda.
 
 IV. Ser de notoria buena conducta;
 
@@ -159,11 +191,11 @@ V. Haber residido efectivamente en la entidad durante los últimos cinco años; 
 
 VI. No haber sido condenado por la comisión de un delito intencional que hubiere merecido pena corporal.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 7o.
 
-Los Magistrados durarán en su encargo seis años, pudiendo ser designados nuevamente por un período igual, y deberán permanecer en el ejercicio de sus funciones hasta su nueva designación o hasta que se designe a quien deba sustituirlos; y solo podrán separarse de su cargo por razón fundada y motivada a juicio de la Sala Superior.
+Será causa de retiro forzoso de los Magistrados haber cumplido setenta años de edad o que sobrevenga incapacidad física o mental que impida el adecuado desempeño del cargo.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
@@ -303,7 +335,7 @@ XI. En los que se impugnen las resoluciones de la Auditoría Superior del Estado
 
 XII. Las demás que le señalen otras leyes y reglamentos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE ABRIL DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE ABRIL DE 2001)</small>
 
 ### CAPITULO IV. DE LA SALA SUPERIOR
 
@@ -331,7 +363,7 @@ Las sesiones de la Sala Superior serán públicas, con excepción de los casos e
 
 La Sala Superior resolverá los asuntos de su competencia por unanimidad o, en su caso, por mayoría de votos de los Magistrados que la integran, quienes no podrán abstenerse de votar a menos que tengan impedimento legal, en los términos del artículo 51 de la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 17.
 
@@ -405,11 +437,11 @@ XVI. Dictar los acuerdos necesarios para el despacho pronto y expedito de los as
 
 XVII. Las demás atribuciones que le confieren ésta y otras leyes y reglamentos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE ABRIL DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE ABRIL DE 2001)</small>
 
 ### CAPITULO V. DEL PRESIDENTE DEL TRIBUNAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 18.
 
@@ -487,7 +519,7 @@ Las Salas serán competentes para conocer y resolver los juicios que establece e
 
 La competencia territorial de las Salas se determina en razón del domicilio del actor y si radica fuera del Estado podrá elegir la Sala Regional más cercana a su domicilio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 23.
 
@@ -521,7 +553,7 @@ VII. Las demás que le señale la Sala Superior, esta Ley y otros ordenamientos 
 
 ### CAPITULO VII. DE LOS SECRETARIOS, ACTUARIOS Y JEFE DE LA UNIDAD DE APOYO ADMINISTRATIVO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 1998)</small>
 
 ### CAPITULO VIII. DE LOS ASESORES JURIDICOS
 
@@ -589,7 +621,7 @@ VII. Las que encomiende la Sala Superior y el Presidente del Tribunal; y,
 
 VIII. Las demás que señale esta Ley, el Reglamento Interior del Tribunal y otros ordenamientos legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 26.
 
@@ -643,7 +675,7 @@ XI. Las demás que le encomiende la Sala Superior, el Magistrado Presidente, el 
 
 El Secretario Primero de las Salas Regionales además de las anteriores atribuciones, tendrá la responsabilidad de suplir al Magistrado en sus faltas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 1998)</small>
 
 ###### ARTICULO 27.
 
@@ -817,13 +849,13 @@ En el supuesto anterior, la parte oferente deberá señalar domicilio para recib
 
 Las Salas diligenciarán en un término no mayor de cinco días los exhortos que reciban, salvo que por la naturaleza del caso se requiera un término mayor.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 1998)</small>
 
 ###### ARTICULO 40.
 
 El Magistrado podrá ordenar, de oficio o a petición de parte, subsanar las irregularidades u omisiones que se observen en la tramitación del juicio, para efecto de regularizarlo, sin que ello implique que pueda revocar sus propias resoluciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 41.
 
@@ -1083,7 +1115,7 @@ El Magistrado que estando impedido, no se excuse para conocer de un juicio, en l
 
 ### CAPITULO VII. DE LA SUSPENSION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 54.
 
@@ -1111,7 +1143,7 @@ V. En cualquier tiempo, cuando se impugne la Negativa Ficta o se demande la decl
 
 Cuando el particular falleciere dentro de los plazos a que se refiere este artículo, se suspenderá el término, hasta que haya sido designado albacea o representante de la sucesión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 1998)</small>
 
 ###### ARTICULO 55.
 
@@ -1143,7 +1175,7 @@ En estos casos, solo serán materia de la ampliación los hechos y las pruebas q
 
 Si el actor no amplía su demanda, se entenderá que consiente los actos, resoluciones y procedimientos que pudiere haber impugnado en vía de ampliación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 1998)</small>
 
 ###### ARTICULO 56.
 
@@ -1185,7 +1217,7 @@ IX.- Cuando se trate de juicio en que se reclame responsabilidad civil objetiva,
 
 X.- Tratándose de Negativa o Positiva Ficta, la expresión de la fecha en que se presentó ante la autoridad la petición no resuelta y la fecha en que se surtieron dichas figuras jurídicas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 1998)</small>
 
 ###### ARTICULO 57.
 
@@ -1339,7 +1371,7 @@ ARTICULO 67 BIS-C.- (DEROGADO, P.O. 8 DE ABRIL DE 1998)
 
 ### CAPITULO IX. DE LAS PRUEBAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 68.
 
@@ -1531,7 +1563,7 @@ Para el caso en que proceda la acumulación y los juicios respectivos se estén 
 
 Procederá el incidente de nulidad de notificaciones, cuando éstas no se practiquen de conformidad a lo dispuesto en esta Ley. En este caso, la parte agraviada podrá pedir que se declare su nulidad dentro de los cinco días siguientes a aquél en que conoció el hecho que lo motive. Si se declara la nulidad la Sala ordenará reponer la notificación anulada y las actuaciones posteriores que sean consecuencia de ella.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 79.
 
@@ -1541,7 +1573,7 @@ Las partes podrán recusar a los Magistrados de las Salas Regionales cuando est�
 
 A falta del informe a que se refiere el último párrafo del artículo 76 de esta Ley, se presumirá cierto el impedimento. Si la Sala Superior declara fundada la recusación, en la resolución respectiva decidirá que Magistrado deba conocer del asunto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 80.
 
@@ -1567,7 +1599,7 @@ Las partes deberán ofrecer las pruebas en los escritos de demanda y contestaci�
 
 Las pruebas podrán ser objetadas en el término de cinco días a partir de la notificación del auto que las admitió, o en su caso, al contestar la demanda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 1998)</small>
 
 ###### ARTICULO 83.
 
@@ -1669,7 +1701,7 @@ En la práctica de estas diligencias, los Magistrados obrarán como estimen pert
 
 (DEROGADO, P.O. 8 DE ABRIL DE 1998)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 86.
 
@@ -1747,11 +1779,11 @@ III.- Cuando por el enlace de las pruebas rendidas y de las presunciones formada
 
 IV. El Tribunal podrá invocar los hechos notorios.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ### CAPITULO UNICO. DE LA SENTENCIA Y SU EJECUCION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 90.
 
@@ -1897,7 +1929,7 @@ V.- Los fundamentos legales en que se apoye; y,
 
 VI.- Los puntos resolutivos en los que se decrete el sobreseimiento del juicio, se reconozca la validez, se declare la nulidad o se ordene la modificación o reposición del acto impugnado y en su caso, la condena que se imponga.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 97.
 
@@ -1939,7 +1971,7 @@ Las partes podrán formular excitativa de justicia ante la Sala Superior, si la 
 
 La aclaración de sentencia tendrá lugar cuando se requiera esclarecer algún concepto o suplir cualquier omisión que contenga, sin que esto implique variar o modificar el sentido en que fue pronunciada la misma. Podrá solicitarla cualquiera de las partes y su trámite será incidental.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 101.
 
@@ -1991,11 +2023,11 @@ En el supuesto comprobado y justificado de imposibilidad de cumplir con la sente
 
 La falta de previsión presupuestaria de recursos para el cumplimiento de obligaciones derivadas del juicio contencioso administrativo, no será impedimento para cumplirlas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 1998)</small>
 
 ## TITULO CUARTO. DEL RECURSO DE REVISION
 
-> <small>(REFORMADA [N. DE E. ADICIONADA] SU DENOMINACION, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA] SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ### CAPITULO UNICO. RESPONSABILIDAD DE LAS PARTES
 
@@ -2063,7 +2095,7 @@ Existiendo resolución administrativa, si la Sala considera que la queja es impr
 
 (DEROGADO, P.O. 8 DE ABRIL DE 1998)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA] SU DENOMINACION, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA] SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ### CAPITULO UNICO. DE LA JURISPRUDENCIA
 
@@ -2107,13 +2139,9 @@ I.- En los casos de las fracciones I, II, III y VI del artículo que antecede, d
 
 II.- En los casos de las fracciones IV y V del artículo anterior, dentro de los quince días siguientes a la notificación de la resolución recurrida.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2001)</small>
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 19 DE AGOSTO DE 2016)</small>
 
-De dicho recurso conocerá la Sala Superior del Tribunal, a quien debe dirigirse presentándose por conducto de la Sala Regional que haya dictado la resolución recurrida, quien mandará correr traslado a las partes contrarias con el escrito respectivo, concediéndole el plazo de cinco días para que contesten los agravios. Transcurrido dicho plazo, la Sala Regional lo turnará de inmediato acompañando los documentos necesarios para su resolución y una constancia de la fecha de notificación al recurrente de la resolución impugnada y de los días hábiles que hubo entre ella y la de presentación del recurso. En caso de que se envíe el expediente original completo, la Sala Regional dejará copia certificada de un duplicado debidamente sellado y cotejado.
-
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2001)</small>
-
-El Magistrado de la Sala Regional que conozca del asunto deberá suspender la tramitación del procedimiento o la ejecución de las sentencias en el expediente de origen, cuando la resolución impugnada sea alguna de las señaladas en las fracciones I, III y V del artículo 112 de esta Ley, o cuando a su juicio sea necesario.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 19 DE AGOSTO DE 2016)</small>
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
@@ -2321,7 +2349,7 @@ Es dado en el Palacio del Poder Ejecutivo del Estado, en la ciudad de Culiacán 
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, Ing. Renato Vega Alvarado; EL SECRETARIO GENERAL DE GOBIERNO, Dr. Francisco C. Frías Castro.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 26 DE DICIEMBRE DE 1994.
 
@@ -2329,7 +2357,7 @@ P.O. 26 DE DICIEMBRE DE 1994.
 
 El Magistrado de Sala Regional, dará vista a la Sala Superior con la solicitud presentada por las partes, cuando ésta tenga por objeto hacer del conocimiento de la autoridad penal competente que durante el procedimiento, o en la ejecución de las resoluciones de los juicios tramitados en las Salas Regionales, se haya realizado por las partes, alguna conducta tipificada como delito en el Código Penal, o en los casos previstos por la Ley de Responsabilidades de los Servidores Públicos del Estado. La Sala Superior resolverá sobre la procedencia de la solicitud, a más tardar en la sesión siguiente a la que ésta fue presentada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 1998)</small>
 
 ###### ARTICULO 116.
 
@@ -2355,11 +2383,11 @@ Será obligatoria para el Tribunal y sólo perderá ese carácter cuando se pron
 
 La jurisprudencia del Tribunal de lo Contencioso Administrativo, así como las tesis que constituyan precedente o se considere de importancia su difusión, serán publicadas por la Sala Superior, en el Periódico Oficial "El Estado de Sinaloa".
 
-> <small>(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ## TITULO SEPTIMO. DEL SISTEMA DE JUSTICIA EN LÍNEA
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO PRIMERO.
 
@@ -2482,3 +2510,11 @@ A. Dos Consejeros serán electos para un periodo de dos años;
 B. Tres Consejeros serán electos para un periodo de tres años.
 
 Pudiendo ser ratificados para un segundo periodo en los términos del artículo 73 de la presente Ley.
+
+P.O. 19 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 768 QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente decreto.
