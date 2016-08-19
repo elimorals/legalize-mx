@@ -4,7 +4,7 @@ identifier: "SIN-codigo-familiar-del-estado-de-sinaloa-92146"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-02-06"
-last_updated: "2016-05-30"
+last_updated: "2016-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO FAMILIAR DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 6 de febrero de 2013.
 
@@ -355,31 +355,27 @@ El Estado promoverá y facilitará el matrimonio o la inscripción del concubina
 
 El matrimonio es un acto solemne que debe celebrarse ante el oficial del registro civil, con las formalidades y la dignidad que el acto por su importancia social exige.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 43.
 
-Para contraer matrimonio, el hombre y la mujer necesitan ser mayores de edad.
-
-Los menores de edad podrán contraer matrimonio. Para ello el hombre necesita haber cumplido dieciséis años y la mujer catorce, siempre que ambos hayan obtenido el consentimiento de quienes ejerzan la patria potestad o en su defecto el tutor. A falta, negativa o imposibilidad de éstos, el juez de lo familiar suplirá dicho consentimiento, atendiendo a las circunstancias especiales del caso.
-
-Este derecho lo tienen el padre o la madre, aunque hayan contraído ulteriores nupcias, si el hijo vive a su lado.
+La edad mínima para contraer matrimonio es la de dieciocho años, de conformidad con lo dispuesto por el artículo 40 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado.
 
 ###### Artículo 44.
 
-Si el juez, se niega a suplir el consentimiento para que se celebre un matrimonio, los interesados ocurrirán al Tribunal Superior respectivo, en los términos que disponga el Código de Procedimientos Familiares.
-
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+(DEROGADO, P.O. 19 DE AGOSTO DE 2016)
 
 ###### Artículo 45.
 
-Las personas que hayan otorgado su consentimiento para que los menores de edad celebren matrimonio, sólo podrán revocarlo cuando haya justa causa para ello.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2016)
 
 ###### Artículo 46.
 
-En caso de que la contrayente se encuentre en estado de gravidez, y así lo acredite a través del certificado médico respectivo el oficial del registro civil, a petición del padre o la madre se podrá dispensar la minoría de edad
+(DEROGADO, P.O. 19 DE AGOSTO DE 2016)
 
 ###### Artículo 47.
 
-Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio falleciere antes de que se celebre su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2016)
 
 ### Capítulo II. De los Requisitos para Contraer Matrimonio
 
@@ -407,7 +403,7 @@ III. Certificado de orientación prematrimonial;
 
 IV. Convenio con relación al régimen de bienes patrimoniales a que se sujetarán sus bienes presentes y los que se adquieran durante el matrimonio. En éste se expresará si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes.
 
-En el caso de menores de edad, el convenio deberá ser aprobado por las personas cuyo consentimiento es necesario para la celebración del matrimonio.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 19 DE AGOSTO DE 2016)</small>
 
 Si fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de esa escritura;
 
@@ -467,9 +463,9 @@ II. Los nombres, apellidos, edad, ocupación, etnia, domicilio, nacionalidad y e
 
 III. Nombre, apellidos, ocupación y el domicilio de los padres de los contrayentes;
 
-IV. El consentimiento de padres, de los tutores o, en su caso, de las autoridades;
+IV. (DEROGADA, P.O. 19 DE AGOSTO DE 2016)
 
-VI. Que no hubo impedimento o si lo hubo, éste se dispensó;
+VI (SIC). Que no hubo impedimento o si lo hubo, éste se dispensó;
 
 VII. La declaración de los pretendientes de ser su voluntad unirse en matrimonio, y la de haber quedado unidos en nombre de la ley y de la sociedad;
 
@@ -505,11 +501,11 @@ El que autorice la celebración de un matrimonio cuando tenga conocimiento de al
 
 Son impedimentos para celebrar el matrimonio:
 
-I. La falta de edad requerida por la ley, cuando no haya sido dispensada;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2013)</small>
+I. La falta de edad requerida por la ley;
 
-II. La falta de consentimiento del que, o los que ejerzan la patria potestad, del tutor, del Juez o de su superior en sus respectivos casos;
+II. (DEROGADA, P.O. 19 DE AGOSTO DE 2016)
 
 III. El parentesco de consanguinidad legítima o natural sin limitación de grado en la línea recta, ascendente o descendente. En la línea colateral igual, el impedimento se extiende a hermanos de padre y madre; en defecto de éstos, en los que fueran solo de madre o solo de padre. En la línea colateral desigual, el impedimento se extiende hasta los parientes que estén dentro del cuarto grado;
 
@@ -529,11 +525,13 @@ IX. La falta de orientación prematrimonial.
 
 Son impedimentos dispensables:
 
-I. La falta de edad establecida en este Código;
+I. (DEROGADA, P.O. 19 DE AGOSTO DE 2016)
 
 II. El parentesco de consanguinidad en línea colateral hasta el cuarto grado, y,
 
-III. No acreditar la orientación prematrimonial, siempre y cuando sean mayores de edad.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2016)</small>
+
+III. No acreditar la orientación prematrimonial.
 
 ###### Artículo 59.
 
@@ -619,9 +617,9 @@ Cuando el inmueble que sirva de casa-habitación a la familia sea bien propio de
 
 Cada uno podrá dedicarse a la profesión u oficio que posean, cuando no afecten la dirección y el cuidado del hogar. La formación, educación y el cuidado de la salud de los hijos, es prioridad sobre el anterior derecho.
 
-###### Artículo 73.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
 
-Los cónyuges menores de edad, tendrán la libre administración de sus bienes, pero necesitarán autorización judicial para enajenarlos o gravarlos y un tutor para sus negocios judiciales.
+###### Artículo 73.
 
 Los cónyuges pueden celebrar entre sí cualquier contrato. Los de compraventa, dación en pago, permuta y donación, sólo serán válidos cuando el patrimonio esté sujeto al régimen de separación de bienes.
 
@@ -687,7 +685,7 @@ Las capitulaciones matrimoniales pueden otorgarse antes o durante la celebració
 
 ###### Artículo 85.
 
-El menor de edad que con arreglo a este Código pueda contraer matrimonio, puede también otorgar capitulaciones, las que serán válidas si a su otorgamiento concurren las personas cuyo consentimiento es necesario para la celebración del matrimonio, o la autorización judicial si las capitulaciones se pactan después de celebrado.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2016)
 
 ### Capítulo IX. De la Sociedad Conyugal
 
@@ -837,7 +835,9 @@ Cuando se solicite la suspensión de la sociedad conyugal, se procederá desde l
 
 La sociedad conyugal termina antes o con la disolución del matrimonio; a solicitud de ambos cónyuges durante la unión y por sentencia que declare la presunción de muerte del cónyuge ausente, pero siempre se requiere que el juez del domicilio conyugal, intervenga en la liquidación de los bienes comunes y autorice el cambio de régimen.
 
-La sociedad conyugal puede terminar antes que se disuelva el matrimonio si así lo convienen los esposos pero si éstos o alguno de ellos son menores de edad, el convenio relativo no podrá celebrarse sin autorización judicial.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
+
+La sociedad conyugal puede terminar antes que se disuelva el matrimonio si así lo convienen los esposos.
 
 ###### Artículo 106.
 
@@ -929,7 +929,7 @@ La separación de bienes, comprende los que sean propiedad de los cónyuges y lo
 
 ###### Artículo 121.
 
-Si la separación de bienes se solicita durante el matrimonio para constituir la sociedad conyugal, pero los cónyuge son menores de edad, deben concurrir a su otorgamiento las personas facultadas para consentir el matrimonio. Lo mismo se observará cuando el régimen patrimonial se modifique durante la minoridad de los cónyuges.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2016)
 
 ###### Artículo 122.
 
@@ -1021,23 +1021,15 @@ La acción de nulidad que nace de error, sólo puede deducirse por el cónyuge e
 
 ###### Artículo 140.
 
-La minoría de edad de dieciséis años en el hombre y de catorce en la mujer dejará de ser causa de nulidad:
-
-I. Cuando haya habido hijos; y,
-
-II. Cuando, los cónyuges hubieren cumplido los 18 años y no hubiesen intentado la nulidad.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2016)
 
 ###### Artículo 141.
 
-La nulidad por falta de consentimiento de los ascendientes sólo podrá alegarse por aquél o aquéllos a quienes tocaba prestar dicho consentimiento, ydentro (sic) de treinta días contados desde que tengan conocimiento del matrimonio.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2016)
 
 ###### Artículo 142.
 
-Cesa esta causa de nulidad:
-
-I. Si han pasado los treinta días sin que se haya pedido; y,
-
-II. Si dentro de este término, el ascendiente ha consentido tácita o expresamente el matrimonio, haciendo donación a los hijos en consideración al matrimonio, recibiendo a los cónyuges a vivir en su casa, o practicando otros actos que a juicio del Juez sean conducentes al efecto.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2016)
 
 ###### Artículo 143.
 
@@ -2339,9 +2331,11 @@ La patria potestad es un conjunto de derechos y obligaciones que se otorgan e im
 
 Quien ejerza la patria potestad, debe procurar el respeto y el acercamiento constante de los menores de edad con el otro ascendiente que también ejerza la patria potestad. Cada uno de los ejercitores de la patria potestad debe evitar cualquier acto de manipulación, encaminado a producir en el niño, rechazo o rencor hacia el otro progenitor.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 348.
 
-Los hijos menores de edad no emancipados, están bajo la patria potestad mientras exista alguno de los ascendientes que deba ejercerla conforme a la ley.
+Los hijos menores de edad, están bajo la patria potestad mientras exista alguno de los ascendientes que deba ejercerla conforme a la ley.
 
 ###### Artículo 349.
 
@@ -2479,7 +2473,7 @@ Al efecto, el precio de la venta se depositará en una institución de crédito,
 
 El derecho de usufructo concedido a las personas que ejercen la patria potestad, se extingue, debiendo entregar bienes y cuentas:
 
-I. Por la emancipación derivada del matrimonio;
+I. (DEROGADA, P.O. 19 DE AGOSTO DE 2016)
 
 II. Por la mayoría edad de los descendientes;
 
@@ -2497,9 +2491,11 @@ Los Jueces tienen facultad de tomar las medidas necesarias para impedir que, por
 
 Estas medidas se tomarán a instancias de las personas interesadas, del menor cuando hubiere cumplido catorce años, o del Ministerio Público en todo caso.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 377.
 
-Las personas que ejerzan la patria potestad deben entregar a sus hijos, luego que éstos se emancipen o lleguen a la mayoría edad, todos los bienes y frutos que les pertenecen.
+Las personas que ejerzan la patria potestad deben entregar a sus hijos, cuando lleguen a la mayoría (sic) edad, todos los bienes y frutos que les pertenecen.
 
 ###### Artículo 378.
 
@@ -2513,7 +2509,7 @@ La patria potestad se acaba:
 
 I. Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
 
-II. Con la emancipación derivada del matrimonio;
+II. (DEROGADA, P.O. 19 DE AGOSTO DE 2016)
 
 III. Por mayoria edad del hijo; y,
 
@@ -2683,7 +2679,7 @@ I. Los menores de edad; y,
 
 II. Los que siendo mayores de edad, sufren enfermedad reversible o irreversible, o presentan estado de discapacidad, sea físico, sensorial, intelectual, emocional, mental o varias de ellas y que consecuencia de ello, no pueden gobernarse, obligarse o manifestar su voluntad, por sí mismos o por otro medio que la supla.
 
-Los menores de edad emancipados por razón del matrimonio, tienen incapacidad legal para los actos que se mencionan en el artículo relativo del Capítulo II del Título Décimo Segundo de este Libro.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 19 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 396.
 
@@ -2751,9 +2747,11 @@ El nombramiento de tutor testamentario hecho en los términos del artículo ante
 
 Si los ascendientes excluidos estuvieren incapacitados o ausentes, la tutela cesará cuando cese el impedimento o se presenten los ascendientes, a no ser que el testador haya dispuesto expresamente que continúe la tutela.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 406.
 
-El que en su testamento, aunque sea un menor de edad no emancipado, deje bienes, ya sea por legado o por herencia, a un incapaz que no esté bajo su patria potestad, ni bajo la de otro, puede nombrarle tutor solamente para la administración de los bienes que le deje.
+El que en su testamento, aunque sea un menor de edad, deje bienes, ya sea por legado o por herencia, a un incapaz que no esté bajo su patria potestad, ni bajo la de otro, puede nombrarle tutor solamente para la administración de los bienes que le deje.
 
 ###### Artículo 407.
 
@@ -2857,7 +2855,7 @@ II. Cuando el tutor testamentario está impedido temporalmente de ejercer su car
 
 III. En los demás casos establecidos por la ley.
 
-Siempre será dativa la tutela para asuntos judiciales del menor de edad emancipado.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 19 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 421.
 
@@ -3335,9 +3333,11 @@ La obligación de dar cuenta pasa a los herederos del tutor; y si alguno de ello
 
 La garantía dada por el tutor no se cancelará sino cuando las cuentas hayan sido aprobadas.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 488.
 
-Hasta pasado un mes de la rendición de cuentas, es nulo todo convenio entre el tutor y el pupilo, ya mayor o emancipado, relativo a la administración de la tutela o a las cuentas mismas.
+Hasta pasado un mes de la rendición de cuentas, es nulo todo convenio entre el tutor y el pupilo mayor de edad, relativo a la administración de la tutela o a las cuentas mismas.
 
 ### Capítulo XIII. De la Entrega de los Bienes
 
@@ -3405,13 +3405,11 @@ Lo dispuesto sobre impedimentos o excusas de los tutores regirá respecto de los
 
 Los que tienen derecho a nombrar tutor, lo tienen también de nombrar curador.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 499.
 
-Designarán por sí mismos al curador, con aprobación judicial:
-
-I. Los comprendidos en el artículo 421 de este Código, observándose lo que allí se dispone respecto de esos nombramientos; y,
-
-II. Los menores de edad emancipados por razón del matrimonio, en el caso previsto en el artículo 515 de este Código.
+Los comprendidos en el artículo 421 de este Código designarán por sí mismos al curador con aprobación judicial.
 
 El curador de todas las demás personas sujetas a tutela será nombrado por el juez.
 
@@ -3469,9 +3467,11 @@ Ejercerán vigilancia sobre el conjunto de actos del tutor, para impedir por med
 
 Mientras que se nombre tutor, el juez debe dictar las medidas necesarias para que el incapacitado no sufra perjuicios en su persona o en sus intereses.
 
-## TÍTULO DÉCIMO SEGUNDO. DE LA INTERDICCIÓN Y EMANCIPACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE AGOSTO DE 2016)</small>
 
-### Capítulo II. De la Emancipación y Mayoría de Edad
+## TÍTULO DÉCIMO SEGUNDO. DE LA INTERDICCIÓN
+
+### Capítulo II. De la Mayoría de Edad
 
 ###### Artículo 506.
 
@@ -3479,7 +3479,7 @@ Son nulos todos los actos de administración ejecutados y los contratos celebrad
 
 ###### Artículo 507.
 
-Son también nulos los actos de administración y los contratos por los menores emancipados, si son contrarios a las restricciones establecidas por el artículo 515 de este Código.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2016)
 
 ###### Artículo 508.
 
@@ -3489,31 +3489,35 @@ La nulidad antes prevista, sólo puede ser alegada como acción o como excepció
 
 La acción para pedir la nulidad, prescribe en los términos en que prescriben las acciones personales o reales, según la naturaleza del acto cuya nulidad se pretende.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 510.
 
-Los menores de edad no pueden alegar la nulidad de que hablan los artículos 506 y 507 de este Código, en las obligaciones que hubieren contraído sobre las materias propias de la profesión o arte en que sean peritos.
+Los menores de edad no pueden alegar la nulidad de que habla el artículo 506 de este Código, en las obligaciones que hubieren contraído sobre las materias propias de la profesión o arte en que sean peritos.
 
 ###### Artículo 511.
 
 Tampoco pueden alegarla los menores, si han presentado certificados falsos del Registro Civil para hacerse pasar como mayores o han manifestado dolosamente que lo eran.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE AGOSTO DE 2016)</small>
+
 ### Capítulo I. De las Medidas Provisionales
 
 ###### Artículo 512.
 
-El matrimonio del menor de dieciocho años, produce la emancipación.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2016)
 
 ###### Artículo 513.
 
-En caso de que el matrimonio contraído se disuelva, por divorcio, muerte o nulidad, el cónyuge emancipado que continúe siendo menor de edad, no recaerá nuevamente en la patria potestad ni la tutela.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2016)
 
 ###### Artículo 514.
 
-Los menores que soliciten contraer matrimonio, deberán de asistir con el oficial del registro civil, con los asesores de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, o con especialistas en mecanismos alternativos de solución de controversias, a su elección y con el objeto de recibir orientación previa al casamiento.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2016)
 
 ###### Artículo 515.
 
-Con relación a los bienes del emancipado, durante su minoría de edad, requerirá ser autorizado por el juez de lo familiar para gravar, enajenar o hipotecar bienes raíces, y de un tutor dativo, para negocios judiciales.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2016)
 
 ###### Artículo 516.
 
@@ -3925,7 +3929,9 @@ Para constituir el patrimonio de familia, se hará por escrito al juez competent
 
 Quien promueve, deberá comprobar lo siguiente:
 
-I. Que es mayor de edad o que es emancipado;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2016)</small>
+
+I. Que es mayor de edad;
 
 II. Que está domiciliado en el lugar donde se quiere constituir el patrimonio;
 
@@ -6781,9 +6787,11 @@ II. Certificados médicos y de orientación prematrimonial señalados en la frac
 
 III. El régimen de los bienes.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 1162.
 
-El acta será firmada por los esposos, imprimiendo a su vez sus huellas. También asentarán su firma, el oficial del registro, los testigos y los padres si están presentes. En el caso de menores de edad señalada en este Código para contraer matrimonio, será obligatorio que aparezcan las firmas de los padres, o de sus representantes legales.
+El acta será firmada por los esposos, imprimiendo a su vez sus huellas. También asentarán su firma, el oficial del registro, los testigos y los padres, si están presentes.
 
 ###### Artículo 1163.
 
@@ -6791,11 +6799,11 @@ El oficial del registro civil, que sin motivo justificado retarde la celebració
 
 ###### Artículo 1164.
 
-En los casos de emancipación por efecto del matrimonio no se formará acta separada.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2016)
 
 ###### Artículo 1165.
 
-El oficial del registro civil anotará las respectivas actas de nacimiento de los cónyuges, expresándose al margen de ellas quedar éstos emancipados en virtud del matrimonio, y citando la fecha en que éste se celebró, así como el número y la foja del acta respectiva.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2016)
 
 ### Capítulo VII. De las Actas de Divorcio
 
@@ -7120,3 +7128,9 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo Segundo. Los procedimientos que se encuentren en trámite se desahogarán de conformidad con el presente Decreto.
 
 Artículo Tercero. Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+P.O. 19 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 613 QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR Y DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES, AMBOS DEL ESTADO DE SINALOA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
