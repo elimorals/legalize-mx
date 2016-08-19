@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-responsabilidades-y-registro-patrimonial-de-los-102807"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-14"
-last_updated: "2015-09-30"
+last_updated: "2016-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102807&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE RESPONSABILIDADES Y REGISTRO PATRIMONIAL DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MICHOACÁN Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2016.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el martes 14 de octubre de 2014.
 
@@ -755,11 +755,11 @@ Se considerarán entre los bienes de los servidores públicos aquellos a su nomb
 
 Faltas a la verdad. El servidor público que en su declaración de situación patrimonial faltare a la verdad en relación con lo que es obligatorio declarar, o cuyos bienes no guarden congruencia con sus ingresos, será sancionado con suspensión no menor de tres días ni mayor a un año, conforme el procedimiento de responsabilidad establecido en esta ley. Cuando la falta lo amerite, el servidor público podrá ser destituido e inhabilitado de uno a tres años.
 
-> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 54.
 
-Serán sancionados en los términos que disponga el Artículo 240 del Código Penal para el Estado de Michoacán, los servidores públicos que incurran en enriquecimiento ilícito.
+Serán sancionados en los términos que disponga el Artículo 254 bis del Código Penal para el Estado de Michoacán, los servidores públicos que incurran en enriquecimiento ilícito.
 
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
@@ -830,3 +830,9 @@ P.O. 30 DE SEPTIEMBRE DE 2015.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Túrnese el presente Decreto al titular del Poder Ejecutivo para su promulgación y publicación correspondiente.
+
+P.O. 19 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 159 POR EL QUE “SE REFORMA EL ARTÍCULO 54 DE LA LEY DE RESPONSABILIDADES Y REGISTRO PATRIMONIAL DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MICHOACÁN Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
