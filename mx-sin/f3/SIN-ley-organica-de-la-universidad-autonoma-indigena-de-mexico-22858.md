@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-universidad-autonoma-indigena-de-mexico-2285
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-05"
-last_updated: "2001-12-05"
+last_updated: "2016-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22858&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA INDIGENA DE MEXICO
 
-LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA INDIGENA DE MEXICO
+LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA INDÍGENA DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA INTERCULTURAL DE SINALOA, PUBLICADA EN EL P.O. DE 19 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2016 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 5 de diciembre de 2001.
 
@@ -546,3 +548,27 @@ Gonzalo M. Armienta Calderón
 El Secretario de Educación Pública y Cultura
 
 J. Antonio Malacón Díaz
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 624 LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA INTERCULTURAL DE SINALOA”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se abroga la Ley Orgánica de la Universidad Autónoma Indígena de México, publicada en el Periódico Oficial "El Estado de Sinaloa" No. 146, de fecha 05 de diciembre de 2001.
+
+TERCERO. El Estatuto Orgánico y los Reglamentos a que se refiere esta Ley, deberán ser expedidos por el Consejo Universitario en un plazo que no exceda de noventa días contando a partir de la fecha en que entre en vigor la presente Ley.
+
+CUARTO. La Junta Ejecutiva de la Universidad, deberá quedar instalada en un plazo que no excederá de treinta días a partir de la vigencia de esta Ley, la cual deberá proceder a realizar las designaciones a que se refiere este ordenamiento.
+
+QUINTO. Las disposiciones administrativas expedidas en esta materia, vigentes al momento de la entrada en vigor de este ordenamiento, se seguirán aplicando en todo lo que no se opongan a la presente Ley, en tanto se expiden las que deben sustituirlas.
+
+SEXTO. Una vez instalada la Junta Ejecutiva de la Universidad, se procederá a la integración del Consejo Universitario, el cual deberá quedar instalado formalmente en un plazo que no excederá de cuarenta y cinco días.
+
+SÉPTIMO. Para todos los efectos a que hubiere lugar, la Universidad Autónoma Intercultural de Sinaloa sustituye a la Universidad Autónoma Indígena de México. Por tanto, la Universidad Autónoma Intercultural de Sinaloa se convierte en patrón sustituto y reconoce los derechos de antigüedad y condiciones de trabajo de los empleados de la Universidad Autónoma Indígena de México.
+
+De igual manera, los bienes muebles e inmuebles con que actualmente cuenta la Universidad Autónoma Indígena de México, pasarán a formar parte del patrimonio de la Universidad Autónoma Intercultural de Sinaloa al inicio de la vigencia de este Decreto, mediante el proceso de entrega recepción correspondiente.
+
+OCTAVO. Los procedimientos y recursos administrativos que se hayan iniciado por las autoridades conforme a las leyes o reglamentos aplicables, antes de la entrada en vigor de este ordenamiento y que se encuentren en trámite o pendientes de resolución, deberán sustanciarse y resolverse conforme con las disposiciones vigentes en el momento en el que se iniciaron tales procedimientos.
