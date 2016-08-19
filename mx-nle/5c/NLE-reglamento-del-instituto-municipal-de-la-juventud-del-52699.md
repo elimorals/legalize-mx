@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-instituto-municipal-de-la-juventud-del-52699"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-29"
-last_updated: "2008-04-16"
+last_updated: "2016-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "NLE"
 ---
 # REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DEL AYUNTAMIENTO DE GUADALUPE, NUEVO LEON -- ANTES REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DE GUADALUPE, NUEVO LEON -- ANTES REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DE GUADALUPE --
 
-REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DE GUADALUPE, NUEVO LEON
+REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DE GUADALUPE, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 29 de diciembre de 2006.
 
 La C. Lic. María Cristina Díaz Salazar, Presidenta Municipal, de Ciudad Guadalupe, Nuevo León, en los términos de lo señalado en el artículo 27 fracción IV, de la Ley Orgánica de la Administración Pública Municipal en vigor, hace saber a sus habitantes: Que el R. Ayuntamiento de Ciudad Guadalupe, Nuevo León, en sesión ordinaria celebrada en las fechas 12-doce y 13-trece de Diciembre del año 2006-dos mil seis, con fundamento en lo señalado por los artículos 10, 26, inciso a), fracción VII, inciso b), fracción XI, inciso c), fracción VI, 27 fracción IV, 29, fracción IV, 30, fracción VI, 32, 76, 77, 160, 161, 162, 163, 164, 165, 166 y 167 de la Ley Orgánica de la Administración Pública del Estado de Nuevo León, aprobó y autorizó el Reglamento del Instituto de la juventud de Guadalupe; al tenor siguiente:
 
-REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DE GUADALUPE.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE AGOSTO DE 2016)</small>
+
+REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DE GUADALUPE, NUEVO LEÓN.
 
 ### CAPITULO PRIMERO.
 
@@ -217,9 +219,11 @@ DE LA DIRECCION GENERAL.
 
 La Dirección General tiene a su cargo la representación y la administración del Instituto Municipal de la juventud y para el ejercicio de sus atribuciones y responsabilidades, se auxiliará de las áreas administrativas que se creen para el mejor cumplimiento de sus objetivos.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 14.
 
-La Dirección General estará a cargo de un joven de nacionalidad mexicana debiendo tener 18 años cumplidos al momento de su nombramiento como Director General del Instituto Municipal de la Juventud, sin distinción de sexo o estado civil, y este será nombrado y removido libremente por el Presidente Municipal.
+La Dirección General estará a cargo de un joven de nacionalidad mexicana debiendo tener 18 años o un máximo de 29 años cumplidos al momento de su nombramiento como Director General del Instituto Municipal de la Juventud, sin distinción de sexo o estado civil, y este será nombrado por el Ayuntamiento a propuesta del Presidente Municipal, tomando protesta en sesión del Ayuntamiento.
 
 ###### ARTÍCULO 15.
 
@@ -481,4 +485,14 @@ PRIMERO: Estas modificaciones entrarán en vigor al día hábil siguiente de su 
 
 SEGUNDO: Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan el contenido de las presentes modificaciones.
 
-Tercero (sic).- Se remita el presente a la C. Presidenta Municipal a fin de que tenga a bien instruir al C. Secretario del R. Ayuntamiento, se sirva enviar los presentes acuerdos al C. Secretario General de Gobierno para su debida publicación en el Periódico Oficial. Así mismo proceda también el C. Secretario del R. Ayuntamiento a su publicación en la Gaceta Municipal.
+Tercero.- Se remita el presente a la C. Presidenta Municipal a fin de que tenga a bien instruir al C. Secretario del R. Ayuntamiento, se sirva enviar los presentes acuerdos al C. Secretario General de Gobierno para su debida publicación en el Periódico Oficial. Así mismo proceda también el C. Secretario del R. Ayuntamiento a su publicación en la Gaceta Municipal.
+
+P.O. 19 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE "SE APRUEBA LA REFORMA AL CAMBIO DE DENOMINACIÓN DEL REGLAMENTO Y REFORMA POR MODIFICACIÓN AL ARTÍCULO 14 DEL REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DE GUADALUPE".]
+
+PRIMERO.- El presente acuerdo de reforma al "Reglamento del Instituto Municipal de la Juventud de Guadalupe." entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Quedan sin efecto todas las disposiciones que contravengan el presente acuerdo.
+
+TERCERO.- Instrúyase por parte del Presidente Municipal al titular de la Secretaría del Ayuntamiento para que remita el presente acuerdo para su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal, y en el Sitio Oficial del Internet del Municipio.
