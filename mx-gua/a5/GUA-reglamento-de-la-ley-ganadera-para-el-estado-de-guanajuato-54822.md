@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-ganadera-para-el-estado-de-guanajuato-5482
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-13"
-last_updated: "2007-03-13"
+last_updated: "2016-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54822&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY GANADERA PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DE LA LEY GANADERA PARA EL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 19 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2016 (ABROGADA).
 
 Reglamento publicado en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 13 de marzo de 2007.
 
@@ -498,3 +500,13 @@ JOSÉ GERARDO MOSQUEDA MARTÍNEZ
 EL SECRETARIO DE DESARROLLO AGROPECUARIO
 
 JOSÉ MARÍA ANAYA OCHOA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 167, MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO DE LA LEY GANADERA PARA EL ESTADO DE GUANAJUATO.”]
+
+Artículo Primero. El presente Decreto Gubernativo iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Se abroga el Reglamento de la Ley Ganadera para el Estado de Guanajuato, contenido en el Decreto Gubernativo número 19, publicado en el Periódico Oficial del Gobierno del Estado número 42 Cuarta Parte, el 13 de marzo de 2007.
