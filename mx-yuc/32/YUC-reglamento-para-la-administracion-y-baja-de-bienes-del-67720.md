@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-para-la-administracion-y-baja-de-bienes-del-67720"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-16"
-last_updated: "2009-10-16"
+last_updated: "2016-08-19"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "YUC"
 
 REGLAMENTO PARA LA ADMINISTRACION Y BAJA DE BIENES DEL INSTITUTO DE PROCEDIMIENTOS ELECTORALES Y PARTICIPACION CIUDADANA DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE OCTUBRE DE 2009.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO PARA LA ADMINISTRACIÓN, DESTINO FINAL Y BAJA DE BIENES DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE YUCATÁN, PUBLICADO EN EL D.O. DE 19 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE AGOSTO DE 2016 (SIN EFECTOS).
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el miércoles 16 de enero de 2008.
 
@@ -559,3 +561,15 @@ D.O. 16 DE OCTUBRE DE 2009.
 SE TRANSCRIBE UNICAMENTE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
 
 SEXTO. Publíquese el presente Acuerdo en el Diario Oficial del Gobierno del Estado, para su difusión.
+
+D.O. 19 DE AGOSTO DE 2016
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE YUCATÁN, POR EL CUAL SE APRUEBA REGLAMENTO PARA LA ADMINISTRACIÓN, DESTINO FINAL Y BAJA DE BIENES DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE YUCATÁN”.]
+
+###### ARTÍCULO PRIMERO.
+
+Se deja sin efectos el Reglamento para la Administración y Baja de Bienes del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán aprobado mediante Acuerdo C.G. 220/2007 de fecha 11 de diciembre de 2007 y reformado mediante Acuerdo C.G.- 026/2009 de fecha 2 de noviembre de 2009.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Reglamento, entrará en vigor el día de su aprobación por el Consejo General del Instituto Electoral y de Participación Ciudadana de Yucatán.
