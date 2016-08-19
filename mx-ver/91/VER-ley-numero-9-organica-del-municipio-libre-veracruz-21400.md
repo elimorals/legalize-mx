@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2016-02-17"
+last_updated: "2016-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE AGOSTO DE 2016.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -36,8 +36,6 @@ Que la Honorable Quincuagésima Novena Legislatura del Congreso del Estado se ha
 Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz-Llave.
 
 La Honorable Quincuagésima Novena Legislatura del Congreso del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le confieren los artículos 33 fracciones I y VIII de la Constitución Política local; 47 de la Ley Orgánica del Poder Legislativo; 103 del Reglamento para el Gobierno Interior del Poder Legislativo; y en nombre del pueblo, expide la siguiente:
-
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO NÚMERO 302, PUBLICADO EN LA G.O. 27 DE NOVIEMBRE DE 2014, PARA LOS EFECTOS CONSTITUCIONALES Y LEGALES PROCEDENTES, TODAS LAS LEYES, DECRETOS, CÓDIGOS U ORDENAMIENTOS LEGALES DE OBSERVANCIA GENERAL VIGENTE AL MOMENTO DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO Y QUE EN SU DENOMINACIÓN CONTENGAN LA EXPRESIÓN "COMISIÓN PERMANENTE DE DESARROLLO REGIONAL" SE ENTENDERÁN REFERIDAS A LA “COMISIÓN PERMANENTE DE DESARROLLO SOCIAL, HUMANO Y REGIONAL".</small>
 
 LEY Número 9
 
@@ -306,6 +304,16 @@ En los casos previstos por este artículo y el anterior, si debiere llamarse al 
 Cuando alguno de los Ediles, sin causa justificada calificada por el Cabildo, falte a sus sesiones por tres veces dentro del plazo de tres meses o deje de desempeñar las atribuciones propias de su cargo, se comunicará esta circunstancia al Congreso del Estado.
 
 El Congreso, por acuerdo de las dos terceras partes de sus integrantes, una vez cumplidas las formalidades establecidas en el Título Sexto relativas a la suspensión y revocación del mandato a los miembros de los Ayuntamientos, podrá suspender al Edil de que se trate y llamar al suplente.
+
+> <small>(ADICIONADO, G.O. 19 DE AGOSTO DE 2016)</small>
+
+###### Artículo 26 Bis.
+
+En el caso de las ausencias o licencias temporales de Agentes y Subagentes Municipales, que no excedan de sesenta días, el cabildo mandará llamar a la brevedad al suplente, para que ocupe el cargo por el tiempo señalado en la solicitud de licencia temporal o ausencia.
+
+Cuando se trate de ausencias definitivas o por un plazo mayor a 60 días, el Cabildo informará a la brevedad posible al Congreso del Estado o, en su caso, a la Diputación Permanente, para que se haga el llamado del suplente respectivo para que asuma la titularidad del cargo.
+
+Si una vez agotados los procedimientos señalados en los párrafos que preceden, no existiere quien ocupe el cargo, el Cabildo deberá elegir a la brevedad, por las dos terceras partes de sus integrantes, a quien funja de forma provisional como Agente o Subagente Municipal, en tanto el Ayuntamiento convoca a nuevas elecciones, las que deberán celebrarse en un plazo no mayor de 45 días, contado a partir de que realice la designación.
 
 ### CAPÍTULO II. DEL FUNCIONAMIENTO DEL AYUNTAMIENTO
 
@@ -1329,7 +1337,7 @@ I. Promover acciones con el Ejecutivo Estatal y Federal, en su caso, para la eje
 
 II. Proponer acciones de desarrollo social con municipios vecinos, cuando la naturaleza de los programas así lo requiera;
 
-lll. Proponer acciones de desarrollo social con municipios de otras Entidades Federativas, previa autorización del Cabildo y del Congreso del Estado;
+III. Proponer acciones de desarrollo social con municipios de otras Entidades Federativas, previa autorización del Cabildo y del Congreso del Estado;
 
 IV. Inspeccionar el ejercicio de los fondos y recursos federales en materia de desarrollo social destinados al municipio en términos de las disposiciones aplicables, informando al Cabildo sobre el avance y los resultados generados con los mismos;
 
@@ -2843,7 +2851,9 @@ La aplicación de estos procedimientos se hará conforme a la convocatoria respe
 
 El Presidente Municipal, en sesión de Cabildo, tomará la protesta a los Agentes y Subagentes Municipales, el primer día del mes de mayo siguiente a la elección de que se trate, levantándose el acta respectiva, misma que será remitida al Congreso del Estado.
 
-En caso de renuncia, licencia, faltas temporales o definitivas de los Agentes y Subagentes se estará, en lo conducente, a lo dispuesto por esta ley para el caso de los Ediles.
+> <small>(REFORMADO, G.O. 19 DE AGOSTO DE 2016)</small>
+
+En caso de renuncia, licencia, faltas temporales o definitivas de los Agentes y Subagentes Municipales, se estará en lo conducente, a lo dispuesto por esta Ley en su artículo 26 Bis.
 
 > <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2011)</small>
 
@@ -3804,3 +3814,11 @@ Artículo Segundo. Los ayuntamientos tendrán un plazo no mayor a seis meses, a 
 Artículo Tercero. El Ayuntamiento deberá remitir al Congreso del Estado, junto con la solicitud de aprobación de creación del Instituto Municipal de las Mujeres, el Reglamento que establezca los requisitos y el cumplimiento de lo establecido en los artículos 78, 79, 80 y 81 de la presente ley.
 
 Artículo Cuarto. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 19 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 916 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
