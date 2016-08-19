@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2016-04-08"
+last_updated: "2016-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -2139,6 +2139,8 @@ Se vigilará a las autoridades municipales en el orden político administrativo 
 
 ### CAPITULO II. DE LOS PRESUPUESTOS DE EGRESOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 131.
 
 Los Ayuntamientos formularán y actualizarán trimestralmente el inventario general de los bienes inmuebles propiedad del Municipio, y establecerán al efecto el Catálogo General de Inmuebles, el cual contendrá la expresión de sus valores, características para su identificación y su destino.
@@ -2265,7 +2267,11 @@ Los servidores públicos municipales otorgarán los auxilios e información nece
 
 ###### ARTICULO 146.
 
-Los presupuestos de egresos de los Municipios comprenderán las previsiones de gasto público que habrán de realizar los Ayuntamientos anualmente.
+Los presupuestos de egresos de los Municipios comprenderán las previsiones de gasto público que habrán de realizar los Ayuntamientos anualmente, entre las que deberá contemplarse una asignación presupuestal, con base en su capacidad financiera, destinada a cubrir las liquidaciones, indemnizaciones o finiquitos de ley a que tengan derechos los trabajadores.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2016)</small>
+
+La falta de observancia a esta disposición será motivo de responsabilidad política de los integrantes del Ayuntamiento.
 
 ###### ARTICULO 147.
 
@@ -3846,3 +3852,13 @@ La presente reforma entrará en vigor el día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado y en las redes sociales de internet.
+
+P.O. 19 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 232 POR EL QUE SE REFORMA Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 146 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Remítase al Titular del Poder Ejecutivo, así como a los 81 Ayuntamientos, para los efectos legales conducentes.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado, así como en la página web del Congreso del Estado, para su conocimiento general.
