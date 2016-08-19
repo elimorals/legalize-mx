@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-integracion-social-de-personas-con-discapacidad-del-1718
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-06"
-last_updated: "2016-02-12"
+last_updated: "2016-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE INTEGRACIÓN SOCIAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el miércoles 6 de septiembre del 2000.
 
@@ -177,9 +177,29 @@ XXIII. Recibir y turnar a las instancias competentes, a su atención y respuesta
 
 XXIV. Vigilar el cumplimiento de las disposiciones contenidas en el presente ordenamiento legal, en beneficio de las personas con discapacidad;
 
-XXV. Promover la constitución del Padrón Estatal de Personas con Discapacidad y vigilar su permanente actualización, así como el de las organizaciones e instituciones dedicadas a la habilitación o rehabilitación de personas con discapacidad; y,
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2016)</small>
 
-XXVI. Las que resulten de la aplicación de la presente ley, de la legislación vial, sanitaria y asistencial, de los demás ordenamientos legales y reglamentos aplicables en la materia y las que la Comisión Estatal Coordinadora acuerde.
+XXV. Promover la constitución del Padrón Estatal de Personas con Discapacidad y vigilar su permanente actualización, así como el de las organizaciones e instituciones dedicadas a la habilitación o rehabilitación de personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2016)</small>
+
+XXVI. Prevenir el ocultamiento, abandono, negligencia y segregación de personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2016)</small>
+
+XXVII. Establecer mecanismos de coordinación con autoridades competentes y empresas privadas, a fin de elaborar normas y programas que garanticen a las personas con discapacidad, la accesibilidad, seguridad, comodidad, calidad y funcionalidad en los medios de transporte público;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2016)</small>
+
+XXVIII. Impulsar la investigación médica para detectar la etiología, evolución, tratamiento y prevención de las discapacidades;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2016)</small>
+
+XXIX. Promover convenios orientados a otorgar descuentos preferenciales en medicamentos para el tratamiento de salud de las personas con discapacidad; y
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2016)</small>
+
+XXX. Las que resulten de la aplicación de la presente Ley, de la legislación vial, sanitaria y asistencial, de los demás ordenamientos legales y reglamentos aplicables en la materia y las que la Comisión Estatal Coordinadora acuerde.
 
 ###### Artículo 7.
 
@@ -341,7 +361,9 @@ b) Valoración de la discapacidad;
 
 c) Asistencia médica y rehabilitación;
 
-d) Orientación, prescripción, adaptación y gestión para la obtención de prótesis, órtesis y ayudas técnicas en su rehabilitación e integración;
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
+
+d) Orientación, prescripción, adaptación y gestión para la obtención de prótesis, órtesis, ayudas técnicas y medicinas de uso restringido que sean accesibles a la población con discapacidad, en su rehabilitación e integración;
 
 e) Orientación y rehabilitación sexual;
 
@@ -952,3 +974,9 @@ P.O. 12 DE FEBRERO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 19 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 637 QUE REFORMA Y ADICIONA LOS ARTÍCULOS 6 y 21 DE LA LEY DE INTEGRACIÓN SOCIAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE SINALOA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en Periódico Oficial “EI Estado de Sinaloa".
