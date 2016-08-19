@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-583-organica-del-poder-judicial-del-estado-de-109137
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-04"
-last_updated: "2016-07-12"
+last_updated: "2016-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109137&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 583 ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE AGOSTO DE 2016.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el martes 4 de agosto de 2015.
 
@@ -493,11 +493,11 @@ El Titular de la Unidad de Género será designado por el Presidente del Tribuna
 
 #### Sección Cuarta. De las Salas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE JULIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 24.
 
-El Tribunal Superior de Justicia contará con las siguientes salas colegiadas: una Sala Constitucional, cuatro Salas Penales, tres Salas Civiles, y una Sala en Materia de Familia, integrada cada una de ellas por tres magistrados, de entre los que se elegirá a su presidente, el cual fungirá por un año, con la posibilidad de ser reelegido de forma inmediata por una sola ocasión.
+El Tribunal Superior de Justicia contará con las siguientes Salas Colegiadas: una Sala Constitucional, cuatro Salas Penales, dos Salas Civiles y dos Salas en Materia de Familia, integrada cada una de ellas por tres magistrados, de entre los que se elegirá a su presidente, el cual fungirá por un año, con la posibilidad de ser reelegido de forma inmediata por una sola ocasión.
 
 El Tribunal contará también con una Sala de Responsabilidad Juvenil, integrada con un solo magistrado.
 
@@ -593,7 +593,9 @@ IV. Dar respuesta fundada y motivada a las peticiones formuladas por las demás 
 
 V. En materia de asuntos indígenas, conocer, sustanciar y resolver conforme a los principios de reserva de jurisdicción indígena, relaciones de coordinación, igualdad, no discriminación y suplencia de la deficiencia de la queja, de los casos que le sean sometidos, en términos de la ley respectiva; y
 
-VI. Conocer de los asuntos que establezcan la Constitución Política local y demás normativa aplicable, así como de los que le asigne el Pleno del Tribunal Superior de Justicia.
+> <small>(REFORMADA, G.O. 19 DE AGOSTO DE 2016)</small>
+
+VI. Conocer de los asuntos que establezcan la Constitución Política Local y demás normativa aplicable, así como los que le asigne el Pleno del Tribunal Superior de Justicia, incluyendo los asuntos en materia penal.
 
 ###### Artículo 30.
 
@@ -627,19 +629,29 @@ V. De los recursos en materia de extinción de dominio, en términos de la ley r
 
 VI. Los demás que establezcan la Constitución y las leyes del Estado.
 
-> <small>(ADICIONADO, G.O. 12 DE JULIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 31 Bis.
 
-La Sala en Materia de Familia tendrá su sede oficial en el municipio de Xalapa-Enríquez, Veracruz de Ignacio de la Llave, y será competente para conocer y resolver de los asuntos siguientes:
+Las Salas en Materia de Familia tendrán su sede oficial en el municipio de Xalapa-Enríquez, Veracruz de Ignacio de la Llave, y serán competentes para conocer y resolver de los asuntos siguientes:
+
+> <small>(ADICIONADA, G.O. 12 DE JULIO DE 2016)</small>
 
 I. De los recursos de apelación y queja que les correspondan y que se interpongan en contra de las resoluciones dictadas en materia familiar;
 
+> <small>(ADICIONADA, G.O. 12 DE JULIO DE 2016)</small>
+
 II. De las excusas y recusaciones de los jueces en materia de familia;
+
+> <small>(ADICIONADA, G.O. 12 DE JULIO DE 2016)</small>
 
 III. De las competencias que se susciten en materia familiar entre los juzgados del mismo orden y de los demás que determinen las leyes; y
 
+> <small>(ADICIONADA, G.O. 12 DE JULIO DE 2016)</small>
+
 IV. Los demás que establezcan la Constitución y las Leyes del Estado.
+
+> <small>(ADICIONADO, G.O. 12 DE JULIO DE 2016)</small>
 
 Para el desempeño de los asuntos encomendados, la Sala en Materia de Familia contará, cuando menos, con un Secretario de Acuerdos, nueve Secretarios de Estudio y Cuenta, un Actuario y la planta de servidores públicos de la administración de justicia que fije el presupuesto de egresos.
 
@@ -2980,3 +2992,11 @@ QUINTO. El Ejecutivo del Estado propondrá al Honorable Congreso del Estado la t
 En caso de que la terna no sea aprobada, el Titular del Poder Ejecutivo del Estado enviará tantas ternas como sean necesarias.
 
 SEXTO. Se concede al Pleno del Tribunal Superior de Justicia del Estado un término de hasta treinta días naturales a partir de la entrada en vigor del presente Decreto para adecuar su normatividad interna al contenido del mismo.
+
+G.O. 19 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 910 POR EL QUE SE REFORMAN LOS ARTÍCULOS 24, 29 Y 31 BIS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que contravenga el presente Decreto.
