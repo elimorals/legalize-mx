@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-familiares-del-estado-de-sinaloa-96788
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-27"
-last_updated: "2016-05-30"
+last_updated: "2016-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2016.
 
 Código publicado en la Edición Extraordinaria, Tercera Sección Parte Uno del Periódico Oficial del Estado de Sinaloa, el miércoles 27 de noviembre de 2013.
 
@@ -285,9 +285,11 @@ Los acreedores que acepten la herencia que corresponda a su deudor, ejercitarán
 
 Las acciones que pueden ejercitarse contra los herederos no obligan a estos sino en proporción a sus cuotas, salvo en todo caso, la responsabilidad que les resulte sea solidaria su obligación con el autor de la herencia, por ocultación de bienes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 35.
 
-Las acciones del estado familiar, comprende el nacimiento, defunción, matrimonio o nulidad de éste, concubinato, filiación, reconocimiento, emancipación, tutela, adopción, divorcio, registro de hijas e hijos acogidos y ausencia, o acatar el contenido de las constancias del Registro Civil para que se anulen o rectifiquen. Las decisiones recaídas en su ejercicio, perjudican aun a los que no litigaron.
+Las acciones del estado familiar, comprende el nacimiento, defunción, matrimonio o nulidad de éste, concubinato, filiación, reconocimiento, tutela, adopción, divorcio, registro de hijas e hijos acogidos y ausencia, o acatar el contenido de las constancias del Registro Civil para que se anulen o rectifiquen. Las decisiones recaídas en su ejercicio, perjudican aún a los que no litigaron.
 
 Las acciones de estado familiar fundadas en la posesión de estado producirán, el efecto de que se ampare o restituya a quien la disfrute contra cualquier perturbador.
 
@@ -1851,7 +1853,7 @@ Se tramitarán a través del procedimiento oral, a excepción de los casos urgen
 
 I. La calificación de impedimentos para contraer matrimonio;
 
-II. La oposición de los que ejercen la patria potestad o la tutela, para que la persona menor contraiga matrimonio o reconozca a sus hijos e hijas;
+II. (DEROGADA, P.O. 19 DE AGOSTO DE 2016)
 
 III. Los conflictos entre cónyuges o concubinos sobre fijación del domicilio, trabajo, cargas domésticas, administración de los bienes y ejercicio de la patria potestad;
 
@@ -1887,17 +1889,17 @@ No se requieren más solemnidades que oír a las partes, primero al denunciante 
 
 Tratándose de los siguientes asuntos, procede el juicio oral no contencioso para resolver:
 
-I. La suplencia del consentimiento para contraer matrimonio o para reconocer a las hijas y los hijos, cuando la persona menor carezca de representante legal;
+I. (DEROGADA, P.O. 19 DE AGOSTO DE 2016)
 
-II. El otorgamiento de dispensa para contraer matrimonio;
+II. (DEROGADA, P.O. 19 DE AGOSTO DE 2016)
 
 III. La solicitud para que se le asigne tutor dativo al menor de edad o al incapaz;
 
 IV. La calificación de excusas para el desempeño de la patria potestad o la tutela;
 
-V. El permiso para que los cónyuges disuelvan la sociedad conyugal antes de disolver el matrimonio, si estos o alguno de ellos son menores de edad;
+V. (DEROGADA, P.O. 19 DE AGOSTO DE 2016)
 
-VI. La autorización para que los cónyuges menores de edad contraten entre ellos, según el contenido del artículo 73 del Código Familiar;
+VI. (DEROGADA, P.O. 19 DE AGOSTO DE 2016)
 
 VII. El reconocimiento de una hija o un hijo acogidos por matrimonios o concubinos, en los términos del artículo 201 del Código Familiar;
 
@@ -3685,7 +3687,7 @@ Sólo las personas a quienes el Código Familiar concede esta facultad pueden pe
 
 ###### Artículo 458.
 
-En los juicios de nulidad del matrimonio, los cónyuges menores de edad necesitan de un tutor dativo para litigar. La demanda será suscrita también con la firma de la persona menor y con la huella dígito pulgar derecha del mismo, quien la ratificará ante la presencia judicial.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2016)
 
 ###### Artículo 459.
 
@@ -5013,13 +5015,13 @@ El Ministerio Público velará por los intereses del ausente, será oído en tod
 
 ### Capítulo VIII. De la Protección de Personas Menores o Incapaces Maltratadas, Habilitación de Edad y Autorización para salir del País
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 675.
 
 Podrá decretarse el depósito de personas menores o incapacitadas que se hallen sujetos a la patria potestad o a tutela y que fueren maltratados por sus padres o tutores; reciban de estos ejemplos perniciosos a juicio del juez, o sean obligados por ellos a cometer actos reprobados por las leyes o sean inducidos a la mendicidad; de huérfanos o incapacitados que queden en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren.
 
-El menor de edad que deseando contraer matrimonio necesita acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar al juez determine sobre su custodia.
-
-En ambos casos no son necesarias formalidades de ninguna clase, asentándose solamente en una o más actas las diligencias del día.
+En este caso no son necesarias formalidades de ninguna clase, asentándose solamente en una o más actas las diligencias del día.
 
 ###### Artículo 676.
 
@@ -5160,3 +5162,9 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo Segundo. Los procedimientos que se encuentren en trámite se desahogarán de conformidad con el presente Decreto.
 
 Artículo Tercero. Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+P.O. 19 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 613 QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR Y DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES, AMBOS DEL ESTADO DE SINALOA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
