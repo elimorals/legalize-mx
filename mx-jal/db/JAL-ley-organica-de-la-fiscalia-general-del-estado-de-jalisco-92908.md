@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-fiscalia-general-del-estado-de-jalisco-92908
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-02-27"
-last_updated: "2016-05-24"
+last_updated: "2016-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2016.
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 27 de febrero de 2013.
 
@@ -817,17 +817,15 @@ El Fiscal General será nombrado en los términos de la Constitución Política 
 
 Para ser Fiscal General se requiere cumplir con los requisitos que establece el artículo 53 de la Constitución Política del Estado de Jalisco.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 31.
 
-Cuando se presente denuncia por la comisión de un delito en contra del Fiscal General, sin perjuicio de lo dispuesto por el artículo 111 de la Constitución Política de los Estados Unidos Mexicanos y por la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, se procederá a lo siguiente:
+Cuando se presente denuncia por la comisión de un delito en contra del Fiscal General, se procederá a lo siguiente:
 
-I. Conocerá y se hará cargo del asunto del Fiscal Central a quien corresponda actuar como primer suplente del Fiscal General de conformidad con el reglamento de esta ley;
+I. Conocerá y se hará cargo del asunto el Fiscal Central a quien corresponde actuar como primer suplente del Fiscal General de conformidad con el reglamento de esta ley; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2014)</small>
-
-II. El Fiscal Central integrará la investigación correspondiente y resolverá sobre el procedimiento para la declaratoria de procedencia ante el Congreso del Estado, previo acuerdo del Gobernador del Estado.
+II. El Fiscal Central integrará la investigación correspondiente y resolverá lo conducente.
 
 ###### Artículo 32.
 
@@ -1240,3 +1238,9 @@ Recibida la propuesta, el Gobernador del Estado tendrá un plazo de hasta 15 dí
 ###### ARTICULO NOVENO.
 
 El Gobernador del Estado deberá realizar los ajustes presupuestarios necesarios conforme sea procedente para cumplir con lo previsto en el presente decreto.
+
+P.O. 20 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25861/LXI/16 QUE REFORMA LA DENOMINACIÓN DEL TÍTULO CUARTO Y LOS ARTÍCULOS 1, 46, 48, 49, 52, 55 Y 60, DEROGA LOS ARTÍCULOS 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42 Y 43, DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS; REFORMA LOS ARTÍCULOS 99 Y 108 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; REFORMA EL ARTÍCULO 9 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; REFORMA EL ARTÍCULO 31 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO; REFORMA LOS ARTÍCULOS 69 Y 143 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO 33 DE LA LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y EL 196 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
