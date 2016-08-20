@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2016-05-20"
+last_updated: "2016-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE AGOSTO DE 2016.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -159,9 +159,17 @@ IV.- Los sindicatos, las asociaciones profesionales y las demás (sic) que se re
 
 V.- Las sociedades cooperativas y mutualistas;
 
-VI.- Las asociaciones distintas de las enumeradas, que se propongan fines políticos, científicos, artísticos, de recreo o cualesquiera otro fin lícito, siempre que no fueren desconocidas por la ley; y
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2016)</small>
 
-VII.- Las personas jurídicas extranjeras de naturaleza privada.
+VI.- Las asociaciones distintas de las enumeradas, que se propongan fines políticos, científicos, artísticos, de recreo o cualesquier otro fin lícito, siempre que no fueren desconocidas por la ley;
+
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+VII.- Las personas jurídicas extranjeras de naturaleza privada, y
+
+> <small>(ADICIONADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+VIII.- Los condominios.
 
 ###### Artículo 26.
 
@@ -15624,3 +15632,13 @@ B.O. 20 DE MAYO DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 20 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2363 SE REFORMAN LAS FRACCIONES VI Y VII; Y SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 25 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR; SE REFORMAN LOS ARTÍCULOS 1°, 2° FRACCIONES I, II, III, VI, VII, VIII, IX, XI, XIII, XIV Y XV, PRIMER PÁRRAFO DEL 4°, PRIMER PÁRRAFO DEL 5°, 6°, 21, PRIMER PÁRRAFO DEL 32, 33, FRACCIÓN II DEL 35, 36, LA FRACCIÓN I, PRIMER PÁRRAFO DE LA FRACCIÓN X Y LA FRACCIÓN XVI DEL 40, PRIMER PÁRRAFO DEL 41, PRIMER PÁRRAFO DE LA FRACCIÓN IX DEL 44, SEGUNDO Y CUARTO PÁRRAFO DEL 47, 48, 50 LA DENOMINACIÓN DEL TÍTULO QUINTO, LA IDENTIFICACIÓN Y DENOMINACIÓN DEL CAPÍTULO ÚNICO DEL TÍTULO QUINTO, LOS ARTÍCULOS 67 Y 70; SE ADICIONAN LAS FRACCIONES VIII BIS Y XI BIS AL ARTÍCULO 2°, UNA FRACCIÓN IV AL ARTÍCULO 5°, UN ARTÍCULO 32 BIS, EL CAPÍTULO II AL TÍTULO QUINTO, Y LOS ARTÍCULOS 61 BIS, 61 TER, 61 QUATER Y 61 QUINQUIES A LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decreto entrara en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Los regímenes de propiedad en condominio constituidos con anterioridad a la entrada en vigor del presente Decreto, seguirán rigiéndose bajo los términos de su Escritura Constitutiva y Reglamento correspondiente.
