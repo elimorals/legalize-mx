@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-civiles-para-el-estado-de-baja-11601"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-05-23"
-last_updated: "2016-07-10"
+last_updated: "2016-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE AGOSTO DE 2016.
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 23 de mayo de 1997.
 
@@ -534,6 +534,14 @@ Todas las resoluciones de primera y segunda instancia serán autorizadas por jue
 ###### Artículo 80.
 
 Las sentencias deben ser claras, precisas y congruentes con las demandas y las contestaciones y con las demás pretensiones deducidas oportunamente en el juicio, condenando o absolviendo al demandado, y decidiendo todos los puntos litigiosos que hayan sido objeto del debate. Cuando éstos hubieren sido varios, se hará el pronunciamiento correspondiente a cada uno de ellos.
+
+> <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
+Las sentencias en las que se condene a una de las partes a la entrega o realización de una prestación de dar, hacer o no hacer, deberá ordenarse la integración del cuaderno de ejecución respectivo.
+
+> <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
+Adicionalmente, las sentencias condenatorias deberán establecer un plazo improrrogable a la parte condenada para el cumplimiento voluntario de la sentencia, con el apercibimiento que de no cumplir la sentencia dentro de dicho plazo procederá la ejecución forzosa de la misma.
 
 ###### Artículo 81.
 
@@ -3131,11 +3139,19 @@ Para la ejecución del desahucio se tiene como domicilio legal del demandado, la
 
 #### SECCION I. De la ejecución de sentencia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 484.
+
+La ejecución de sentencias en los términos que fueron dictadas, es de orden público en el Estado de Baja California Sur.
+
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
 
 Procede la vía de apremio a instancia de parte, siempre que se trate de la ejecución de una sentencia o de un convenio celebrado en el juicio, ya sea por las partes o por terceros que hayan venido al juicio por cualquier motivo que sea.
 
-Esta disposición será aplicable en la ejecución de convenio celebrado ante la Procuraduría Federal del Consumidor y de laudos emitidos por dicha Procuraduría.
+> <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
+Esta disposición será aplicable en la ejecución de convenio celebrado ante la Procuraduría Federal del Consumidor, de laudos emitidos por dicha Procuraduría y de convenios emanados del procedimiento de mediación que cumplan con los requisitos previstos en la Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Baja California Sur.
 
 ###### Artículo 485.
 
@@ -3153,29 +3169,47 @@ Cuando las transacciones o los convenios se celebren en segunda instancia, será
 
 El tribunal que haya dictado en segunda instancia sentencia ejecutoria, dentro de los tres días siguientes a la notificación, devolverá los autos al inferior acompañándole la ejecutoria y constancia de las notificaciones.
 
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 488.
 
-La ejecución de las sentencias arbitrales, de los convenios celebrados ante la Procuraduría Federal del Consumidor y de los laudos dictados por ésta, se hará por el juez competente, designado por las partes o en su defecto por el juez del lugar del juicio y si hubiere varios, por el juez que corresponda en turno.
+La ejecución de las sentencias arbitrales, de los convenios celebrados ante la Procuraduría Federal del Consumidor, de los laudos dictados por ésta y de los convenios emanados del procedimiento de mediación que cumplan con los requisitos previstos en la Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Baja California Sur, se hará por el juez competente, designado por las partes, por el juez en donde se encuentren los bienes sobre los que haya que ejecutar, o en su defecto por el juez del lugar del juicio y si hubiere varios, por el juez que corresponda en turno.
 
 ###### Artículo 489.
 
 La ejecución de las sentencias y convenios en la vía ejecutiva, se efectuará conforme a las reglas generales de los juicios ejecutivos.
 
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 490.
 
-Cuando se pida la ejecución de sentencia, el juez señalará al deudor el término improrrogable de cinco días para que la cumpla, si en ella no se hubiere fijado algún término para ese efecto.
+Una vez que cause ejecutoria la sentencia o que sea ejecutable por no existir medida de suspensión, el juez, de oficio o a petición de parte, notificará a las partes por boletín judicial esta circunstancia. Con esta notificación comenzará a correr el plazo improrrogable para el cumplimiento voluntario de la sentencia.
+
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 491.
 
-Si la sentencia condenare al pago de cantidad líquida, se procederá siempre y sin necesidad de previo requerimiento personal al condenado, al embargo de bienes, en los términos prevenidos para los secuestros.
+El juez no podrá señalar al deudor o condenado un término distinto o adicional al previsto en el artículo 80 del presente Código para el cumplimiento de la sentencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 492.
 
-Sólo hasta después de asegurados los bienes, por medio del secuestro, podrán tener efecto los términos de gracia concedidos por el juez o por la ley.
+Si la sentencia condenare al pago de cantidad líquida y transcurriere el plazo señalado en la sentencia para el cumplimiento voluntario y no se realiza el pago respectivo, el juez, de oficio o a petición de parte, ordenará la ejecución forzosa de la sentencia.
+
+> <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
+Para tal efecto, el juez ordenará al actuario de la adscripción para que, en compañía del acreedor o ejecutante, se notifique personalmente al ejecutado el auto que ordena la ejecución forzosa de la sentencia. En la misma diligencia, se requerirá de pago al ejecutado y en caso de no hacerlo el ejecutante tendrá derecho a señalar bienes para embargo suficientes para cubrir la condena decretada en la sentencia.
+
+> <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
+El juez contará con las más amplias facultades para solicitar información a autoridades y particulares sobre los bienes de los cuales es titular el deudor o ejecutado respecto de los cuales pueda practicarse embargo.
+
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 493.
 
-Pasado el plazo del artículo 490, sin haberse cumplido la sentencia, se procederá al embargo.
+En los juicios ejecutivos, mientras no sea ejecutable la sentencia y solo hasta después de haber sido asegurados los bienes por medio del secuestro, podrán tener efecto los términos de gracia concedidos por el juez o por la ley.
 
 ###### Artículo 494.
 
@@ -3187,9 +3221,11 @@ Si los bienes embargados no estuvieren valuados anteriormente, se pasarán al av
 
 No se requiere avalúo cuando el precio conste en instrumento público o se haya fijado por consentimiento de los interesados, o se determine por otros medios, según las estipulaciones del contrato, a menos que en el curso del tiempo o por mejoras, hubiere variado el precio.
 
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 496.
 
-Si en el contrato se fijó el precio en que una finca hipotecada debe ser adjudicada al acreedor, con renuncia expresa de subasta, la adjudicación se hará luego que pasen los cinco días señalados en el artículo 490 o en el plazo de gracia.
+Si en el contrato se fijó el precio en que una finca hipotecada debe ser adjudicada al acreedor, con renuncia expresa de subasta, la adjudicación se hará luego que pase el plazo señalado en la sentencia para su cumplimiento.
 
 ###### Artículo 497.
 
@@ -3209,11 +3245,11 @@ Cuando la sentencia hubiere condenado al pago de daños y perjuicios sin fijar s
 
 Lo mismo se practicará cuando la cantidad líquida proceda de frutos, rentas o productos de cualquier clase.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 501.
 
-Si la sentencia condena a hacer alguna cosa, el juez señalará, al que fue condenado, un plazo prudente para el cumplimiento, atendidas las circunstancias del hecho y de las personas.
-
-Si pasado el plazo el obligado no cumpliere, se observarán las reglas siguientes:
+Si pasado el plazo establecido en la sentencia para el obligado a hacer alguna cosa éste no cumpliere, se observarán las reglas siguientes:
 
 I. Si el hecho fuere personal del obligado, y no pudiere prestarse por otro, se le compelerá empleando los medios de apremio más eficaces, sin perjuicio del derecho para exigirle la responsabilidad civil;
 
@@ -3225,13 +3261,17 @@ III. Si el hecho consiste en el otorgamiento de algún instrumento o la celebrac
 
 Si el ejecutante optare, en cualquiera de los casos enumerados en el artículo anterior, por el resarcimiento de daños y perjuicios, se procederá a embargar bienes del deudor por la cantidad que aquél señalare y que el juez podrá moderar prudentemente, sin perjuicio de que el deudor reclame sobre el monto. Esta reclamación se substanciará como el incidente de liquidación de sentencia.
 
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 503.
 
-Cuando la sentencia condene a rendir cuentas, el juez señalará un término prudente al obligado, para que se rindan, e indicará también a quien deban de rendirse.
+Cuando la sentencia condene a rendir cuentas, esto deberá realizarse precisamente en el plazo establecido en la sentencia respectiva, que no se prorrogará sino por una sola vez y por causa grave a juicio del juez.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 504.
 
-El obligado, en el término que se le fije, y que no se prorrogará sino por una sola vez y por causa grave, a juicio del tribunal, rendirá su cuenta presentando los documentos que tenga en su poder y los que el acreedor tenga en el suyo y que debe presentar poniéndolos a la disposición del deudor en la secretaría.
+El obligado, en el término que se le fije, rendirá su cuenta presentando los documentos que tenga en su poder y los que el acreedor tenga en el suyo y que debe presentar poniéndolos a la disposición del deudor en la secretaría.
 
 Las cuentas deben de contener un preámbulo que comprenda la exposición sucinta de los hechos que dieron lugar a la gestión y la resolución judicial que ordena la rendición de cuentas, la indicación de las sumas recibidas y gastadas y el balance de entradas y salidas, acompañándose los documentos justificativos, como recibos, comprobantes de gastos y demás.
 
@@ -3271,9 +3311,11 @@ Tratándose de las sentencias a que se refiere la fracción VII del artículo 11
 
 Cuando la sentencia ordene la entrega de personas, el juez dictará las disposiciones más conducentes para que no quede frustrado lo fallado.
 
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 511.
 
-De las resoluciones dictadas para la ejecución de una sentencia no se admitirá otro recurso que el de responsabilidad y, si fuere sentencia interlocutoria, el de queja por ante el superior.
+De las resoluciones dictadas para la ejecución de una sentencia no se admitirá recurso o incidente alguno.
 
 ###### Artículo 512.
 
@@ -3291,9 +3333,11 @@ Contra la ejecución de las sentencias y convenios judiciales no se admitirá m�
 
 Los términos fijados en el artículo anterior se contarán desde la fecha de la sentencia o convenio; a no ser que en ellos se fije el plazo para el cumplimiento de la obligación, en cuyo caso el término se contará desde el día en que se venció el plazo o desde que pudo exigirse la última prestación vencida si se tratare de prestaciones periódicas.
 
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 516.
 
-Todo lo que en este capítulo se dispone respecto de la sentencia, comprende las transacciones, convenios judiciales, convenios celebrados ante la Procuraduría Federal del Consumidor, los laudos que emita la propia Procuraduría y los laudos que ponen fin a los juicios arbitrales.
+Todo lo que en este capítulo se dispone respecto de la sentencia, comprende las transacciones, convenios judiciales, convenios celebrados ante la Procuraduría Federal del Consumidor, los laudos que emita la propia Procuraduría, los laudos que ponen fin a los juicios arbitrales y los convenios emanados del procedimiento de mediación que cumplan con los requisitos previstos en la Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Baja California Sur.
 
 #### SECCION II. De los embargos
 
@@ -3301,7 +3345,9 @@ Todo lo que en este capítulo se dispone respecto de la sentencia, comprende las
 
 Decretado el auto de ejecución, el cual tendrá fuerza de mandamiento en forma, el actuario requerirá de pago al deudor, y no verificándolo éste en el acto, se procederá a embargar bienes suficientes a cubrir las prestaciones demandadas si se tratare de juicio ejecutivo o las fijadas en la sentencia. El actor podrá asistir a la práctica de la diligencia.
 
-No es necesario el requerimiento de pago en la ejecución de sentencias cuando no fuere hallado el codemandado.
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
+No es necesario el requerimiento de pago en la ejecución de sentencias cuando no fuere hallado el condenado en el domicilio personal que hubiere señalado en el juicio. En este caso, el acreedor o ejecutante tendrá derecho de señalar bienes para embargo suficientes para cubrir la condena decretada en la sentencia.
 
 ###### Artículo 518.
 
@@ -3311,19 +3357,45 @@ Si no se supiere el paradero del deudor, ni tuviere casa en el lugar, se hará e
 
 Verificado de cualquiera de los modos indicados el requerimiento, se procederá en seguida al embargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 519.
 
-El derecho de designar los bienes que han de embargarse corresponde al deudor; y sólo que éste se rehuse a hacerlo o que esté ausente, podrá ejercerlo el actor o su representante, pero cualquiera de ellos se sujetará al siguiente orden: 1°. Los bienes consignados como garantía de la obligación que se reclama; 2°. Dinero; 3°. Créditos realizables en el acto; 4°. Alhajas; 5°. Frutos y rentas de toda especie excepto a las que se refiere el artículo 527 fracción XII de este Código; 6°. Bienes muebles no comprendidos en las fracciones anteriores; 7°. Bienes raíces; 8°. Sueldos o comisiones; 9°. Créditos.
+En los juicios ejecutivos, en la diligencia de requerimiento de pago, embargo y emplazamiento, el derecho de designar los bienes que han de embargarse corresponde al deudor de conformidad con el siguiente orden:
+
+> <small>[N. DE E. SE ADVIERTE QUE PARTE DEL ANTERIOR PÁRRAFO PRIMERO FORMA PARTE DEL ACTUAL PÁRRAFO SEGUNDO, B.O. 20 DE AGOSTO DE 2016.]</small>
+
+1°. Los bienes consignados como garantía de la obligación que se reclama; 2°. Dinero; 3°. Créditos realizables en el acto; 4°. Alhajas; 5°. Frutos y rentas de toda especie excepto a las que se refiere el artículo 527 fracción XII de este Código; 6°. Bienes muebles no comprendidos en las fracciones anteriores; 7°. Bienes raíces; 8°. Sueldos o comisiones; 9°. Créditos.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], B.O. 20 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 520.
 
 El ejecutante puede señalar los bienes que han de ser objeto del secuestro, sin sujetarse al orden establecido por el artículo anterior:
 
-I. Si para hacerlo estuviere autorizado por el obligado en virtud de convenio expreso;
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2016)</small>
 
-II. Si los bienes que señala el demandado no fueren bastantes a juicio del actuario o si no se sujeta al orden establecido en el artículo anterior, y
+I. Tratándose de ejecución de sentencias definitivas firmes o susceptibles de ejecución por no existir medida de suspensión, si el deudor se rehúsa a señalar bienes para embargo dentro del plazo a que se refiere el artículo 490 del presente ordenamiento;
 
-III. Si los bienes estuvieren en diversos lugares; en este caso puede señalar los que se hallen en el lugar del juicio.
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+II. Tratándose de juicios ejecutivos, si el deudor se rehúsa a señalar bienes para embargo;
+
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+III. Si el deudor está ausente;
+
+> <small>(ADICIONADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+IV. Si para hacerlo estuviere autorizado por el obligado en virtud de convenio expreso;
+
+> <small>(ADICIONADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+V. Si los bienes que señala el demandado no fueren bastantes a juicio del actuario o si no se sujeta al orden establecido en el artículo anterior; y
+
+> <small>(ADICIONADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+VI. Si los bienes estuvieren en diversos lugares; en este caso puede señalar los que se hallen en el lugar del juicio.
 
 ###### Artículo 521.
 
@@ -3543,13 +3615,41 @@ II. Para recurrir el auto de aprobación del remate, en su caso, y
 
 III. Para nombrar a su costa un perito que con los nombrados por el ejecutante y el ejecutado practique el avalúo del bien. Nunca disfrutará de este derecho después de practicado el avalúo por los peritos de las partes o el tercero en discordia, en su caso, ni cuando la valorización se haga por otros medios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 552.
 
-El avalúo se practicará de acuerdo con las reglas establecidas para la prueba pericial. Si fueren más de dos los peritos valuadores no habrá necesidad de nombrar tercero en discordia.
+En todos los casos, el avalúo para realizar el remate de los bienes embargados se practicará de acuerdo con las reglas siguientes:
+
+> <small>(ADICIONADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+I. Dentro de los 3 días siguientes de decretado el embargo definitivo, las partes deberán nombrar a su perito valuador y éste deberá aceptar y protestar el cargo; las partes son responsables de que el perito valuador por ellas designado cumpla en tiempo y forma con la aceptación y protesta de su cargo. La designación del perito valuador quedará sujeta a que el juez acepte el desempeño de dicho tercero auxiliar en el procedimiento respectivo.
+
+> <small>(ADICIONADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+II. Los peritos valuadores, una vez autorizada su participación como tales por el juez, deberán presentar dentro del plazo de 5 días el dictamen de valuación correspondiente.
+
+> <small>(ADICIONADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+III. Si fueren más de dos los peritos valuadores no habrá necesidad de nombrar tercero en discordia.
+
+> <small>(ADICIONADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+IV. En caso de existir una diferencia mayor al 20% entre los avalúos presentados, el juez nombrará al perito tercero de entre los registrados ante el Poder Judicial del Estado o los corredores públicos de la plaza, a quien requerirá dentro de los 3 días para que acepte y proteste el cargo respectivo. En este caso, el perito tercero tendrá el plazo de 5 días para rendir el dictamen de valuación respectivo, contados a partir de su aceptación y protesta de cargo.
+
+> <small>(ADICIONADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+V. Una vez presentados todos los dictámenes, el juez contará con el plazo de 5 días para valorar los dictámenes que le fueren presentados y decidir el valor o precio que se tomará de base para el remate de los bienes respectivos, así como para convocar a la audiencia respectiva.
+
+> <small>(ADICIONADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+VI. En lo demás, se estará a lo dispuesto por las reglas generales de la prueba pericial contenidas en el presente ordenamiento.
+
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 553.
 
-Hecho el avalúo se sacarán los bienes a pública subasta, anunciándose por medio de edictos que se fijarán por dos veces en los tableros de avisos de juzgado, debiendo mediar entre una y otra publicación siete días hábiles y, entre la última y la fecha del remate igual plazo. Si el valor del bien pasara del equivalente a 180 días de salario mínimo general vigente en el Estado, se insertarán además los edictos en un periódico de información. A petición de cualquiera de las partes y a su costa el juez puede usar, además de los dichos, algún otro medio de publicidad para convocar postores.
+Hecho el avalúo se sacarán los bienes a pública subasta, anunciándose por medio de edictos que se fijarán por dos veces en los tableros de avisos de juzgado, debiendo mediar entre una y otra publicación cinco días hábiles y, entre la última y la fecha del remate igual plazo. Si el valor del bien pasara del equivalente a 180 días de salario mínimo general vigente en el Estado, se insertarán además los edictos en un periódico de información. A petición de cualquiera de las partes y a su costa el juez puede usar, además de los dichos, algún otro medio de publicidad para convocar postores.
 
 ###### Artículo 554.
 
@@ -4197,9 +4297,11 @@ El divorcio voluntario en la vía administrativa se tramitará ante el Oficial d
 
 Las sentencias no pueden ser revocadas por el juez que las dicta.
 
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 668.
 
-Los autos que no fueren apelables pueden ser revocados por el juez que los dicta, o por el que lo sustituya en el conocimiento del negocio.
+Los autos que no fueren apelables pueden ser revocados por el juez que los dicta, o por el que lo sustituya en el conocimiento del negocio, salvo tratándose de aquellos dictados en ejecución de sentencia.
 
 ###### Artículo 669.
 
@@ -4397,15 +4499,17 @@ El recurso de queja tiene lugar:
 
 I. Contra el juez que se niega a admitir una demanda o desconoce de oficio la personalidad de un litigante antes del emplazamiento;
 
-II. Respecto a las interlocutorias dictadas en la ejecución de sentencias;
+II. (DEROGADA, B.O. 20 DE AGOSTO DE 2016)
 
 III. Contra la denegación de apelación, y
 
 IV. En los demás casos fijados por la ley.
 
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 705.
 
-Se da el recurso de queja en contra de los ejecutores y secretarios por ante el juez. Contra los primeros sólo por exceso o defecto de las ejecuciones y por las decisiones en los incidentes de ejecución. Contra los segundos, por omisiones y negligencias en el desempeño de sus funciones.
+Se interpondrá el recurso de queja en contra de los secretarios, ante quien disponga la ley, por omisiones y negligencias en el desempeño de sus funciones.
 
 > <small>(F. DE E., B.O. 30 DE JUNIO DE 1998)</small>
 
@@ -6356,3 +6460,15 @@ B.O. 10 DE JULIO DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado Libre y Soberano de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+B.O. 20 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2369 SE REFORMAN LOS ARTÍCULOS 484, 488, 490, 491, 492, 493, 496, 501, 503, 504, 511, 516, 517, 519, 520, 552, 553, 668, 704 Y 705, SE ADICIONAN: UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 80; UN TERCER PÁRRAFO AL ARTÍCULO 484, UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 492, ADICIONA LAS FRACCIONES V Y VI AL ARTÍCULO 520; LAS FRACCIONES I A LA VI DEL ARTÍCULO 552; Y SE DEROGA LA FRACCIÓN II DEL ARTÍCULO 704, TODOS, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado Libre y Soberano de Baja California Sur.
+
+SEGUNDO. Por lo que hace a las normas en materia de mediación que refiere la presente reforma, iniciarán su vigencia de forma paralela a la expedición y vigencia a la ley de la materia.
+
+TERCERO. Los asuntos cuya ejecución inició con anterioridad al presente Decreto continuarán tramitándose conforme a la ley aplicable en ese momento hasta su total conclusión.
+
+CUARTO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
