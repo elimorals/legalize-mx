@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-10355
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-10"
-last_updated: "2014-11-10"
+last_updated: "2016-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE AGOSTO DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de noviembre de 2014.
 
@@ -263,9 +263,17 @@ XIII. Decretar, en el ámbito de su competencia, las medidas precautorias necesa
 
 XIV. Imponer las sanciones que correspondan a su ámbito de competencia, por el incumplimiento a las disposiciones de la Ley;
 
-XV. Hacer del conocimiento de la autoridad competente toda aquella información que pueda constituir un hecho ilícito, y
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2016)</small>
 
-XVI. Las demás que les señalen esta Ley y otras disposiciones jurídicas.
+XV. Hacer del conocimiento de la autoridad competente toda aquella información que pueda constituir un hecho ilícito;
+
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+XVI. Realizar y acreditar por medio de la Secretaría de Salud, exámenes psicológicos con la finalidad de identificar el perfil psicológico, el grado de coeficiente intelectual y de valores morales, así como el grado de responsabilidad, creatividad, superación y compromiso de los prestadores de servicios al cuidado de los menores, y
+
+> <small>(ADICIONADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+XVII. Las demás que les señalen esta Ley y otras disposiciones jurídicas.
 
 ###### Artículo 22.
 
@@ -295,9 +303,17 @@ XI. Decretar las medidas precautorias necesarias a los Centros de Atención auto
 
 XII. Imponer las sanciones, en el ámbito de su competencia, a las que se refieren la presente Ley y las legislaciones municipales que de ella deriven, respecto de los prestadores de servicios para la atención, cuidado y desarrollo integral infantil, en cualquiera de sus Modalidades y Tipos;
 
-XIII. Hacer del conocimiento de la autoridad competente toda aquella información que pueda constituir un hecho ilícito, y
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2016)</small>
 
-XIV. Las demás que les señale esta Ley y otras disposiciones jurídicas federales y estatales.
+XIII. Hacer del conocimiento de la autoridad competente toda aquella información que pueda constituir un hecho ilícito;
+
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+XIV. Colaborar por conducto del Sistema Municipal para el Desarrollo Integral de la Familia, en el registro y control general de las guarderías infantiles establecidas en la demarcación territorial del municipio; asimismo, determinará los tipos de exámenes a que deberá de someterse dicho personal a fin de garantizar la salud, la educación, la seguridad y la integridad física y psicológica de las niñas y niños, e implementará acciones dirigidas a certificar y capacitar permanentemente al personal que labora en los Centros de Atención, y
+
+> <small>(ADICIONADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+XV. Las demás que les señale esta Ley y otras disposiciones jurídicas federales y estatales.
 
 ### Capítulo V. Del Consejo Estatal de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil
 
@@ -305,45 +321,55 @@ XIV. Las demás que les señale esta Ley y otras disposiciones jurídicas federa
 
 El Consejo es una instancia normativa, de consulta y coordinación, a través de la cual se dará seguimiento continuo a las acciones que tengan por objeto promover mecanismos interinstitucionales, que permitan establecer políticas públicas y estrategias de atención en la materia.
 
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 24.
 
-El Consejo se integrará con los Titulares de las siguientes dependencias y entidades:
+El Consejo se integrará de la siguiente manera:
 
-I. Sistema Estatal para el Desarrollo Integral de la Familia, quien lo presidirá;
+I.- Por el Titular del Poder Ejecutivo del Estado;
 
-II. Secretaría de Salud, como secretaría técnica;
+II.- Por los Titulares de las siguientes dependencias Estatales:
 
-III. Secretaría General de Gobierno;
+a) Del Sistema Estatal para el Desarrollo Integral de la Familia; quien lo presidirá;
 
-IV. Secretaría de Educación Pública;
+b) De la Secretaría de Salud, quien fungirá como secretario técnico:
 
-V. Secretaría del Trabajo y Previsión Social;
+c) De la Secretaría General de Gobierno;
 
-VI. Procuraduría General de Justicia;
+d) De la Secretaría de Educación Pública;
 
-VII. Subsecretaría de Seguridad Pública;
+e) De la Secretaría del Trabajo y Previsión Social;
 
-VIII. Comisión de la Salud, la Familia y la Asistencia Pública del Congreso del Estado;
+f) De la Procuraduría General de Justicia;
 
-IX. Comisión de Atención a Grupos Vulnerables y a Personas con Discapacidad del Congreso del Estado;
+g) De la Subsecretaría de Seguridad Pública;
 
-X. Comisión Estatal de los Derechos Humanos de Baja California Sur;
+h) De la Subsecretaria de Protección Civil;
 
-XI. Instituto Sudcaliforniano de las Mujeres;
+i) De la Comisión Estatal de los Derechos Humanos de Baja California Sur;
 
-XII. Instituto de Capacitación para los Trabajadores del Estado de Baja California Sur;
+j) Del Instituto Sudcaliforniano de la Mujer;
 
-XIII. Instituto Sudcaliforniano para la Inclusión de las Personas con Discapacidad;
+k) Del Instituto de Capacitación para los Trabajadores del Estado de Baja California Sur, y
 
-XIV. Unidad Estatal de Protección Civil;
+l) Del Instituto Sudcaliforniano para la Inclusión de las Personas con Discapacidad.
 
-XV. Ayuntamientos del Estado;
+III.- Por el representante que designen las siguientes Comisiones del Congreso del Estado de Baja California Sur:
 
-XVI. Instituto Mexicano del Seguro Social;
+a) De la Comisión de la Salud, la Familia y la Asistencia Pública, y
 
-XVII. Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; y
+b) De la Comisión de Atención a Grupos Vulnerables y a Personas con Discapacidad.
 
-XVIII. Un representante del sector social y privado del estado, quien será designado por el presidente del consejo.
+IV.- Por un representante que designen los Ayuntamientos del Estado;
+
+V.- Por un representante de las siguientes dependencias del Gobierno Federal en el Estado:
+
+a) Instituto Mexicano del Seguro Social, e
+
+b) Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+
+VI.- Por un representante del sector social y privado del Estado, quien será designado por el Presidente del Consejo.
 
 ###### Artículo 25.
 
@@ -355,9 +381,11 @@ Los nombramientos en el Consejo serán honoríficos.
 
 El Titular del Poder Ejecutivo Estatal a través del Sistema Estatal para el Desarrollo Integral de la Familia podrá integrar al Consejo a los titulares de otras dependencias que presten servicios para la atención, cuidado y desarrollo integral infantil, o cuyo ámbito de atribuciones esté vinculado con estos servicios.
 
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 27.
 
-Los integrantes titulares podrán designar solo un representante con su respectivo suplente, los cuales deberán tener, al menos, nivel jerárquico de director general o equivalente. La acreditación se hará por escrito ante el consejo.
+Los integrantes del Consejo podrán designar solo un representante con su respectivo suplente y su acreditación se hará por escrito ante él mismo.
 
 ###### Artículo 28.
 
@@ -465,11 +493,15 @@ VI. Capacidad instalada y en su caso ocupada.
 
 Los Centros de Atención pueden presentar alguna de las siguientes modalidades:
 
-I. Públicos: Los creados, administrados y financiados por la administración pública estatal y/o municipal, los poderes legislativo y judicial del estado y los órganos constitucionalmente autónomos;
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+I. Públicos: Los creados, administrados y financiados por la administración pública federal, estatal y/o municipal, los Poderes Legislativo y Judicial del Estado y los órganos constitucionalmente autónomos;
 
 II. Privados: Aquéllos creados, financiados, operados y administrados por particulares; y
 
-III. Mixtos: Aquéllos en los que la administración pública estatal y/o municipal, los poderes legislativo y judicial del estado y los órganos constitucionalmente autónomos o sus instituciones en su conjunto participan en el financiamiento, instalación o administración con instituciones sociales o privadas.
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+III. Mixtos: Aquéllos en los que la administración pública federal, estatal y/o municipal, los Poderes Legislativo y Judicial del Estado y los órganos constitucionalmente autónomos o sus instituciones en su conjunto, participan en el financiamiento, instalación o administración con instituciones sociales o privadas.
 
 ###### Artículo 39.
 
@@ -495,9 +527,11 @@ La tipología anterior, se ajustará a las normas de cada institución y al Regl
 
 ### Capítulo VIII. De las Medidas de Seguridad y Protección Civil
 
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 40.
 
-Los Centros de Atención deberán contar con un Programa Interno de Protección Civil, el cual deberá contener, por lo menos, el ámbito de competencia y responsabilidad de los prestadores de servicio en cada una de las modalidades, el estado en el que se encuentra el inmueble, las instalaciones, el equipo y el mobiliario utilizado para la prestación del servicio. El Programa Interno deberá ser aprobado por la Unidad de Protección Civil del Estado o municipales, según sea el caso, y será sujeto a evaluación de manera periódica, por las instancias correspondientes.
+Los Centros de Atención Infantil deberán contar con un Programa Interno de Protección Civil, el cual deberá contener, por lo menos, el ámbito de competencia y responsabilidad de los prestadores de servicio en cada una de las modalidades, el estado en el que se encuentra el inmueble, las instalaciones, el equipo y el mobiliario utilizado para la prestación del servicio. El Programa Interno deberá ser aprobado por la autoridad en materia de Protección Civil del Estado o municipales, según sea el caso, y será sujeto a evaluación de manera periódica por las instancias correspondientes.
 
 ###### Artículo 41.
 
@@ -535,45 +569,77 @@ Las zonas de paso, patios y zonas de recreo no se podrán utilizar en ningún ca
 
 El mobiliario y materiales que se utilicen en el Inmueble deben mantenerse en buenas condiciones de uso, retirándose aquellos que puedan ser susceptibles de causar daños o lesiones debido a su mal estado. Todo mobiliario con riesgo para los niños o el personal, deberá estar anclado o fijado a pisos, muros o techos. Los acabados interiores de los Inmuebles serán adecuados a la edad de niñas y niños.
 
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 49.
 
-El Inmueble deberá, como mínimo para su funcionamiento, a fin de prevenir y/o proteger de cualquier situación de riesgo o emergencia:
+Para poder funcionar los establecimientos o instalaciones de un Centro de Atención Infantil deberán cumplir sin menoscabo de lo establecido en el artículo 50 de la Ley General, con los requisitos establecidos en la presente Ley, entre los que como mínimo deben tener los siguientes:
 
-I. Procurar que en las instalaciones y bienes muebles del Centro de Atención, se utilicen materiales resistentes al fuego;
+I. Características físicas:
 
-II. Las puertas de las salidas de emergencia contarán con barras anti pánico a fin de permitir la oportuna evacuación del Centro de Atención en caso de riesgo a la integridad física de los niños;
+a) Contar con salidas de emergencia, rutas de evacuación, alarmas, pasillos de circulación, equipo contra incendios, mecanismos de alerta, señalizaciones y sistema de iluminación de emergencia;
 
-III. Estar preferentemente, en la planta baja o primer piso, o en el caso infraestructura que garantice la integridad física de los niños sujetos de atención;
+b) Habilitar espacios en los Centros de Atención específicos y adecuados, alejados del alcance de niñas y niños para el almacenamiento de elementos combustibles o inflamables, los cuales no podrán situarse en sótanos, semisótanos, por debajo de escaleras y en lugares próximos a radiadores de calor;
 
-IV. Se deberán establecer políticas para el acceso de vehículos a la zona de estacionamiento en caso de contar con dicha área, debiendo ser independiente del acceso de los niños;
+c) Verificar las condiciones de ventilación de las áreas donde se almacenan o utilizan productos que desprendan gases o vapores inflamables;
 
-V. Contar con salidas de emergencia, rutas de evacuación, alarmas, pasillos de circulación, equipo contra incendios, mecanismos de alerta, señalizaciones y sistema de iluminación de emergencia;
+d) Controlar y eliminar fuentes de ignición como instalaciones eléctricas, chimeneas y conductos de humo, descargas eléctricas atmosféricas, radiación solar, ventilación, calentadores, flamas abiertas, cigarrillos, entre otros;
 
-VI. Tener suficientes extintores y detectores de humo, estos deberán establecerse en lugares despejados de obstáculos que impidan o dificulten su uso y ser correctamente señalizados para permitir su rápida localización, el Reglamento definirá la cantidad y calidad atendiendo a su modalidad y tipo correspondiente;
+e) Evitar que las instalaciones eléctricas estén al alcance de niñas y niños. Si se cuenta con plantas de luz o transformadores, estarán aislados mediante un cerco perimetral, el cual debe estar en buen estado. Su acometida no deberá atravesar el terreno del inmueble en el que se preste el servicio y en caso de deterioro, deberá notificarse de inmediato al responsable del suministro de electricidad, para proceder a su inmediata reparación;
 
-VII. Habilitar espacios en el Centro de Atención específicos y adecuados, alejados del alcance de niñas y niños para el almacenamiento de elementos combustibles o inflamables, los cuales no podrán situarse en sótanos, semisótanos, por debajo de escaleras y en lugares próximos a radiadores de calor;
+f) Identificar y colocar las sustancias inflamables empleadas en los Centro (sic) de Atención en recipientes herméticos, cerrados, etiquetados y guardados lejos del alcance de niñas y niños;
 
-VIII. Verificar las condiciones de ventilación de las áreas donde se almacenan o utilizan productos que desprendan gases o vapores inflamables;
+g) Realizar una inspección interna de las medidas de seguridad al menos una vez al mes;
 
-IX. Controlar y eliminar fuentes de ignición como instalaciones eléctricas, chimeneas y conductos de humo, descargas eléctricas atmosféricas, radiación solar, ventilación, calentadores, flamas abiertas, cigarrillos, entre otros;
+h) Revisar al menos una vez al año las paredes divisorias, si existieran, para detectar la aparición de fisuras, grietas, hundimientos, desplomes respecto a la vertical y desprendimientos de elementos fijados a ellas;
 
-X. Evitar que las instalaciones eléctricas estén al alcance de niñas y niños. Si se cuenta con plantas de luz o transformadores, estarán aislados mediante un cerco perimetral el cual debe estar en buen estado. Su acometida no deberá atravesar el terreno del inmueble en el que se preste el servicio y en caso de deterioro, deberá notificarse de inmediato al responsable del suministro de electricidad, para proceder a su inmediata reparación;
+i) Revisar la instalación eléctrica después de ocurrida una eventualidad, así como el sistema de puesta a tierra;
 
-XI. Identificar y colocar las sustancias inflamables empleadas en el Centro de Atención en recipientes herméticos, cerrados, etiquetados y guardados lejos del alcance de niñas y niños;
+j) Contar con protección infantil todos los mecanismos eléctricos;
 
-XII. Realizar una inspección interna de las medidas de seguridad al menos una vez al mes;
+k) No manipular ni tratar de reparar nunca objetos, aparatos o instalaciones relacionados con la electricidad, cables y elementos que no estén aislados;
 
-XIII. Revisar al menos una vez al año las paredes divisorias, si existieran, para detectar la aparición de fisuras, grietas, hundimientos, desplomes respecto a la vertical y desprendimientos de elementos fijados a ellas;
+l) En caso de aparatos de calefacción, éstos deberán estar fijos;
 
-XIV. Revisar la instalación eléctrica después de ocurrida una eventualidad, así como el sistema de puesta a tierra;
+m) Procurar que en las instalaciones y bienes muebles del Centro de Atención, se utilicen materiales resistentes al fuego;
 
-XV. Contar con protección infantil todos los mecanismos eléctricos;
+n) Las puertas de las salidas de emergencia contarán con barras anti pánico a fin de permitir la oportuna evacuación del Centro de Atención en caso de riesgo a la integridad física de los niños;
 
-XVI. No manipular ni tratar de reparar nunca objetos, aparatos o instalaciones relacionados con la electricidad, cables y elementos que no estén aislados;
+ñ) Estar preferentemente, en la planta baja o primer piso, o en el caso infraestructura que garantice la integridad física de los niños sujetos de atención;
 
-XVII. En caso de aparatos de calefacción, estos deberán estar fijos, y
+o) Se deberán establecer políticas para el acceso de vehículos a la zona de estacionamiento en caso de contar con dicha área, debiendo ser independiente del acceso de los niños, e
 
-XVIII. Cumplir con la normatividad oficial y reglamentación aplicables.
+p) Las demás que ordene el Reglamento de esta Ley, las disposiciones correspondientes a la Ley Federal sobre Metrología y Normalización y las Normas Oficiales Mexicanas aplicables.
+
+II.- Mobiliario y equipamiento:
+
+a) Contar con el mobiliario y juguetes cuyo diseño no implique riesgo para la integridad física y mental de los menores;
+
+b) Enseres, equipo, mobiliario y utensilios necesarios para el sano desarrollo físico y mental de los menores, que deberán mantenerse limpios, en buen estado de uso y conservación, estos por ningún motivo deberán poner en riesgo la seguridad o salud de ellos;
+
+c) Contar con materiales didácticos y pedagógicos de acuerdo a los parámetros educativos referidos en la presente Ley;
+
+d) Contar con botiquín de primeros auxilios, e
+
+e) Contar con un área de alimentación nutritiva saludable, de acuerdo con los lineamientos de la presente Ley y demás ordenamientos vigentes en materia sanitaria y nutricional; esta área deberá estar ubicada de tal manera que los menores no tengan acceso.
+
+III.- Medidas de seguridad y vigilancia:
+
+a) Contar con el personal con capacitación adecuada por parte de las autoridades competentes, para actuar en caso de cualquier siniestro con la debida precaución y cuidado;
+
+b) Contar con suficientes extintores y detectores de humo, que se deberán establecer en lugares despejados de obstáculos que impidan o dificulten su uso y ser correctamente señalizados para permitir su rápida localización, en términos de lo que prevea la autoridad en materia de protección civil; el Reglamento definirá la cantidad y calidad atendiendo a su modalidad y tipo correspondiente;
+
+c) Contar con un sistema de iluminación de emergencia en las áreas de tránsito de personal y de usuarios;
+
+d) No tener animales que representen un peligro para los menores;
+
+e) Contar con salidas de emergencia con la dimensión necesaria y dispositivos de fácil operación;
+
+f) Contar con un sistema de alarma de emergencia, que se pueda activar mediante interruptor, botón o timbre accesible al personal en caso de siniestro;
+
+g) Contar con señalamientos apropiados de tamaño mayor, para que el personal de los Centros de Atención oriente a los menores, y en su caso a los usuarios en caso de desalojo, e
+
+h) Las demás que determinen las Leyes aplicables.
 
 ###### Artículo 50.
 
@@ -799,7 +865,9 @@ La información y los documentos a que se refiere el artículo 55, estarán siem
 
 En el caso de los centros de atención que regula la federación, la autorización es competencia exclusiva de dicho orden de gobierno, de acuerdo con lo establecido en el artículo 50 de la Ley General.
 
-### Capítulo XI. De la Capacitación y Certificación
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 20 DE AGOSTO DE 2016)</small>
+
+### Capítulo XI. Del Personal, Capacitación y Certificación
 
 ###### Artículo 75.
 
@@ -809,13 +877,21 @@ El personal que labore en los Centros de Atención que presten servicios, estar�
 
 Los prestadores de servicios para la atención, cuidado y desarrollo integral infantil promoverán la capacitación de su personal, por lo que deberán brindarles las facilidades necesarias para este efecto, de acuerdo a la modalidad correspondiente y sin perjuicio de lo establecido por la legislación laboral.
 
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 77.
 
-El Consejo Estatal determinara conforme a la Modalidad y Tipo de atención, las competencias, capacitación y aptitudes con las que deberá contar el personal que pretenda laborar en los Centros de Atención. De igual forma, determinarán los tipos de exámenes físicos y psicológicos a los que deberá someterse dicho personal con el fin de determinar la ausencia de enfermedades infectocontagiosas, mentales, a fin de garantizar la salud, la educación, la seguridad y la integridad física y psicológica de niñas y niños. Dichos exámenes deberán actualizarse cada seis meses.
+El Consejo Estatal determinara conforme a la modalidad y tipo de atención, las competencias, capacitación y aptitudes con las que deberá contar el personal que pretenda laborar en los Centros de Atención. De igual forma, en coordinación con la Secretaría de Salud, determinarán los tipos de exámenes físicos, toxicológicos y psicológicos que deberá realizar y acreditar dicho personal, con el fin de determinar la ausencia de enfermedades infectocontagiosas, mentales, a fin de garantizar la salud, la educación, la seguridad y la integridad física y psicológica de niñas y niños. Dichos exámenes deberán actualizarse cada seis meses con el fin de garantizar lo establecido en este artículo.
+
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 78.
 
-El personal que labore en los Centros de Atención garantizará un ambiente de respeto en el marco de los derechos de niñas y niños. Deberán tener estudios, aptitudes y capacitación en puericultura o carrera afín.
+El personal que labore en los Centros de Atención deberá ser profesional, capacitado y necesario para proporcionar la mejor atención y cuidado de los menores a su resguardo, en los aspectos de aseo, alimentación, salud y educación, y garantizará un ambiente de respeto en el marco de los derechos de niñas y niños.
+
+El número de personal con el que contará el Centro de Atención dependerá del número de menores que atiendan y sus funciones, conforme a lo dispuesto en el Reglamento de la presente Ley.
+
+Asimismo, el personal que labore en los Centros de Atención deberá contar con estudios, aptitudes y capacitación en puericultura o carrera afín, y no contar con sentencia ejecutoriada por alguno de los delitos contemplados en los Títulos Cuarto, Quinto, Sexto y Séptimo del Libro Segundo del Código Penal para el Estado Libre y Soberano del Estado de Baja California Sur.
 
 ###### Artículo 79.
 
@@ -941,7 +1017,9 @@ I. Amonestación con apercibimiento;
 
 II. Amonestación pública;
 
-III. Multa administrativa de 100 a 1000 días de salario mínimo general vigente en la entidad;
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+III. Multa administrativa de 100 a 1000 del valor diario de la Unidad de Medida y Actualización vigente;
 
 IV. Suspensión temporal de la autorización; y
 
@@ -1066,3 +1144,19 @@ MARCOS ALBERTO COVARRUBIAS VILLASEÑOR
 SECRETARIO GENERAL DE GOBIERNO
 
 LUIS ANDRÉS CÓRDOVA URRUTIA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 20 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2368 SE REFORMAN LAS FRACCIONES XV Y XVI DEL ARTÍCULO 21, XIII Y XIV DEL 22, 24, 27, FRACCIONES I Y III DEL 38, 40, 49, LA DENOMINACIÓN DEL CAPÍTULO XI, 77, 78 Y FRACCIÓN III DEL 98; Y SE ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 21 Y LA FRACCIÓN XV AL ARTÍCULO 22, TODOS DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se le concede al Titular del Poder Ejecutivo del Estado, un término de hasta noventa días a partir de la entrada en vigor del presente Decreto, para efecto de que instale el Consejo Estatal para la Prestación de Servicios de Atención, Cuidado y Desarrollo Integral Infantil.
+
+TERCERO.- Se le concede al Titular del Poder Ejecutivo del Estado, un término de hasta ciento veinte días a partir de la entrada en vigor del presente Decreto, para efecto de que emita el Reglamento de la presente Ley.
+
+CUARTO.- Los prestadores de servicios para la Atención, Cuidado y Desarrollo Integral Infantil que cuenten o no con licencias expedidas con anterioridad a la entrada en vigor del presente Decreto, contarán con un término de ciento ochenta días hábiles a efecto de regularizar su situación, para lo cual deberán cumplir con los requisitos previstos en este ordenamiento jurídico.
+
+QUINTO.- A partir de la entrada en vigor del presente Decreto, se les concede un plazo de noventa días a los Ayuntamientos del Estado, para que realicen adecuaciones a sus Bandos de Policía y Buen Gobierno, Reglamentos y demás disposiciones, en atención a lo dispuesto por esta Ley.
