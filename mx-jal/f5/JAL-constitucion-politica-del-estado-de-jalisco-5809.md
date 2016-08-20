@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2016-06-16"
+last_updated: "2016-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -141,7 +141,9 @@ I. Decidir sus formas internas de convivencia y organización social, económica
 
 II. Aplicar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a los principios generales de esta Constitución, respetando las garantías individuales, los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres. La ley establecerá los casos y procedimientos de validación por los jueces o tribunales correspondientes;
 
-III. Elegir de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la participación de las mujeres en condiciones de equidad frente a los varones, en un marco que respete el pacto federal y la soberanía de los estados;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2016)</small>
+
+III. Elegir de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando que las mujeres y los hombres indígenas disfrutarán y ejercerán su derecho de votar y ser votados en condiciones de igualdad; así como a acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electos o designados, en un marco que respete el pacto federal y la soberanía de los estados. En ningún caso las prácticas comunitarias podrán limitar los derechos político electorales de los y las ciudadanas en la elección de sus autoridades municipales.
 
 IV. Preservar y enriquecer sus lenguas, conocimientos y todos los elementos que constituyan su cultura e identidad;
 
@@ -779,7 +781,9 @@ III. (DEROGADA, P.O. 5 DE JULIO DE 2008)
 
 IV. La ley establecerá las condiciones y mecanismos para que los partidos políticos tengan acceso al financiamiento público destinado al cumplimiento de sus fines. El financiamiento público para los partidos políticos que mantengan su registro o acreditación después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto en año de elecciones, así como para actividades específicas, y se otorgarán conforme a las bases siguientes y lo que disponga la ley:
 
-a) El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de los ciudadanos inscritos en el padrón electoral en el estado de Jalisco, por el sesenta y cinco por ciento del salario mínimo diario vigente para la zona metropolitana de Guadalajara. El 30% de la cantidad que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el 70% restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior;
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2016)</small>
+
+a) EI financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de los ciudadanos inscritos en el padrón electoral en el estado de Jalisco, por el sesenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización. EI 30% de la cantidad que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el 70% restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior;
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -1533,7 +1537,7 @@ I. La muerte;
 
 II. La incapacidad total y permanente para ejercer el cargo declarada por la autoridad judicial;
 
-III. La declaración que establezca la procedencia del juicio por delitos dolosos graves del orden común;
+III. (DEROGADA, P.O. 20 DE AGOSTO DE 2016)
 
 IV. La renuncia expresa por causa grave que será calificada por el Congreso del Estado;
 
@@ -1761,7 +1765,9 @@ La defensa de los intereses sociales y familiares, así como la institución de 
 
 En los casos de infracciones administrativas, los responsables podrán ser sancionados con multa o arresto, que no deberá exceder de treinta y seis horas; pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por arresto hasta por treinta y seis horas. La ley y los reglamentos regularán todo lo relativo a la sanción de las faltas a que alude este artículo.
 
-En tratándose de personas de escasos recursos, dependientes económicos, jornaleros u obreros, en ningún caso podrán ser castigados con multa mayor del importe de su jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa no excederá de un día de salario mínimo o del equivalente a un día de su ingreso.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2016)</small>
+
+En tratándose de personas de escasos recursos, dependientes económicos, jornaleros u obreros, en ningún caso podrán ser castigados con multa mayor del importe de su jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa no excederá de un día de su ingreso.
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
@@ -2471,7 +2477,11 @@ Los servidores públicos pueden incurrir en responsabilidad política, penal, ad
 
 I. El juicio político;
 
-II. El procedimiento previsto en la legislación penal, previa declaración de procedencia para los servidores públicos en los casos previstos por esta Constitución;
+(NOTA: EL 24 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS SUBAPARTADOS VIII.2., VIII.3. Y VIII.4. Y EL APARTADO IX, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2016, DECLARÓ LA INVALIDEZ DE LA REFORMA DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “… II. El procedimiento previsto en la legislación penal, previa declaración de procedencia para los servidores públicos en los casos previstos por esta Constitución;"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2016)</small>
+
+II. EL PROCEDIMIENTO PREVISTO EN LA LEGISLACIÓN PENAL;
 
 III. El procedimiento administrativo, y
 
@@ -2511,7 +2521,7 @@ En los juicios del orden civil no hay fuero ni inmunidad.
 
 ### CAPITULO III. De la responsabilidad penal de los servidores públicos
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2016)</small>
 
 ###### Art. 97.
 
@@ -2551,69 +2561,57 @@ Contra las resoluciones de juicio político no procede juicio o recurso alguno.
 
 ###### Art. 99.
 
-La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la legislación penal.
+La comisión de delitos del orden común por parte de cualquier servidor público será perseguida y sancionada en los términos de la legislación penal.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito, a los servidores públicos que, durante el tiempo de su encargo o por motivos del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, sin que puedan demostrar su procedencia lícita. La ley sancionará con el decomiso y con la privación de la propiedad de dichos bienes, sin que se pueda considerar confiscatoria, además de las otras penas que correspondan.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-###### Art. 100.
-
-Para actuar penalmente contra los diputados al Congreso del Estado; los titulares de las secretarias del Poder Ejecutivo; el Fiscal General y el Procurador Social; los magistrados del Poder Judicial del Estado; el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; el Presidente y consejeros electorales del Instituto Electoral y de Participación Ciudadana del Estado; los magistrados del Tribunal Electoral del Estado; el Presidente y comisionados del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco; el Auditor Superior del Estado; los presidentes municipales, regidores, síndicos y concejales de los ayuntamientos o concejos municipales, se requerirá establecer la procedencia de acuerdo con las siguientes normas:
-
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+(NOTA: EL 24 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS SUBAPARTADOS VIII.2., VIII.3. Y VIII.4. Y EL APARTADO IX, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2016, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR -ÚNICAMENTE EN EL ÁMBITO REGULATIVO DE LOS MAGISTRADOS DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO DE JALISCO-, LA CUAL SURTIÓ EFECTOS EL 25 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Art. 100.- Para actuar penalmente contra los diputados al Congreso del Estado; los titulares de las secretarias del Poder Ejecutivo; el Fiscal General y el Procurador Social; los magistrados del Poder Judicial del Estado; el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; el Presidente y consejeros electorales del Instituto Electoral y de Participación Ciudadana del Estado; los magistrados del Tribunal Electoral del Estado; el Presidente y comisionados del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco; el Auditor Superior del Estado; los presidentes municipales, regidores, síndicos y concejales de los ayuntamientos o concejos municipales, se requerirá establecer la procedencia de acuerdo con las siguientes normas:
 
 I. El Congreso, excepción hecha de los miembros de la Comisión de Responsabilidades, declarará por mayoría absoluta de los diputados integrantes de la Legislatura, si ha o no lugar a proceder contra el inculpado;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
-
 II. Si la resolución del Congreso fuere negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación;
-
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 III. Si el Congreso declara que ha lugar a proceder, el inculpado quedará a disposición de las autoridades competentes para que actúen con arreglo a la ley. En tanto no se determine esta declaración, no procederá el ejercicio de la acción penal ni librar la orden de aprehensión;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
-
 IV. El efecto de la declaración de que ha lugar a proceder contra el inculpado será separarlo de su encargo en tanto esté sujeto a proceso penal; si éste culmina con sentencia absolutoria, el servidor público podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su cargo, no se concederá la gracia del indulto;
-
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 V. Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la legislación penal y, tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido o el daño causado, y
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+VI. Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-VI. Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
+###### Art. 100.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+(DEROGADO, P.O. 20 DE AGOSTO DE 2016)
 
 ###### Art. 101.
 
-El Gobernador del Estado, durante el tiempo de su encargo, sólo podrá ser acusado ante el Congreso y exclusivamente por delitos dolosos graves del orden común.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2016)
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+(NOTA: EL 24 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS SUBAPARTADOS VIII.2., VIII.3. Y VIII.4. Y EL APARTADO IX, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2016, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Art. 102.- Contra los jueces de primera instancia, menores y de paz, sólo podrá procederse penalmente, previa declaración del Consejo de la Judicatura. Una vez dictada la declaración, quedarán separados del ejercicio y serán sometidos a los tribunales competentes."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 ###### Art. 102.
 
-Contra los jueces de primera instancia, menores y de paz, sólo podrá procederse penalmente, previa declaración del Consejo de la Judicatura. Una vez dictada la declaración, quedarán separados del ejercicio y serán sometidos a los tribunales competentes.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2016)
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+(NOTA: EL 24 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS SUBAPARTADOS VIII.2., VIII.3. Y VIII.4. Y EL APARTADO IX, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2016, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Art. 103. El desempeño de alguno de los cargos por cuyo ejercicio se goce de inmunidad penal, de conformidad con lo establecido en la presente Constitución, suspenderá el término para la prescripción."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 ###### Art. 103.
 
-El desempeño de alguno de los cargos por cuyo ejercicio se goce de inmunidad penal, de conformidad con lo establecido en la presente Constitución, suspenderá el término para la prescripción.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2016)
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+(NOTA: EL 24 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS SUBAPARTADOS VIII.2., VIII.3. Y VIII.4. Y EL APARTADO IX, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2016, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Art. 104. No se requerirá declaración de procedencia del Congreso, cuando alguno de los servidores públicos que gozan de inmunidad penal, cometa un delito durante el tiempo en que se encuentre separado de su cargo o no haya asumido el ejercicio del mismo. Tampoco se requerirá declaración de procedencia, en el caso de servidores públicos que tengan el carácter de suplentes, salvo que se encuentren en ejercicio del cargo."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 ###### Art. 104.
 
-No se requerirá declaración de procedencia del Congreso, cuando alguno de los servidores públicos que gozan de inmunidad penal, cometa un delito durante el tiempo en que se encuentre separado de su cargo o no haya asumido el ejercicio del mismo. Tampoco se requerirá declaración de procedencia, en el caso de servidores públicos que tengan el carácter de suplentes, salvo que se encuentren en ejercicio del cargo.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2016)
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+(NOTA: EL 24 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS SUBAPARTADOS VIII.2., VIII.3. Y VIII.4. Y EL APARTADO IX, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2016, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Art. 105. Contra las declaraciones de procedencia penal no procede juicio o recurso alguno."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 ###### Art. 105.
 
-Contra las declaraciones de procedencia penal no procede juicio o recurso alguno.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2016)
 
 > <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -3530,3 +3528,33 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Congreso del Estado deberá hacer las modificaciones a la legislación estatal secundaria dentro de los treinta días contados a partir de la publicación del presente decreto.
 
 TERCERO.- Se deroga todo lo que contravenga al presente decreto.
+
+P.O. 20 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 25839/LXI/16 QUE REFORMA LOS ARTÍCULOS 13 Y 55 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial EI Estado de Jalisco.
+
+SEGUNDO. Para el caso de los créditos vigentes otorgados por el Instituto de Pensiones del Estado de Jalisco, o cualquier otra institución estatal o municipal que otorgue créditos para la vivienda, cuyos montos se actualicen con base al salario mínimo, estos continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, la referida institución no podrá actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+El Instituto de Pensiones del Estado de Jalisco, o cualquier otra institución estatal o municipal que otorgue créditos para la vivienda, tendrá el plazo a que hace referencia el artículo sexto transitorio del decreto constitucional federal, en materia de desindexación del salario, para seguir otorgando créditos a la vivienda a que se referencie o actualicen con base al salario mínimo. En el evento de que el salario mínimo se incremente por encima de la inflación, las citadas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+TERCERO. Las autoridades estatales y municipales que para el cumplimiento de sus atribuciones utilicen formatos que hagan referencia a salarios mínimos como unidad o referencia para determinar la cuantía de las obligaciones o supuestos previstos en las leyes, podrán seguir usando dichos formatos, en cuyo caso se entenderá hecha la citación a la Unidad de Medida y Actualización.
+
+Dichas autoridades deberán tomar las medidas necesarias para que los formatos que generen a partir del inicio de vigencia de este decreto hagan referencia a la Unidad de Medida y Actualización.
+
+P.O. 20 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25841/LXI/16 QUE REFORMA LA FRACCIÓN III DEL APARTADO A DEL ARTÍCULO 4°. DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 20 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 25859/LXI/16 QUE REFORMAN (SIC) LOS ARTÍCULOS 91, FRACCIÓN II, 99 PRIMER PÁRRAFO, DEROGA LA FRACCIÓN III DEL ARTÍCULO 41 Y LOS ARTÍCULOS 100, 101, 102, 103, 104 Y 105 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO".]
+
+PRIMERO. Envíese lo conducente del presente decreto, junto con los debates que hubiere provocado, a los ayuntamientos del Estado, para los efectos del artículo 117 de nuestra constitución local.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
