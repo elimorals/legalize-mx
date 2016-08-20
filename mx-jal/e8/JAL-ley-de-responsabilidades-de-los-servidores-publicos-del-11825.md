@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2015-11-10"
+last_updated: "2016-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -55,7 +55,7 @@ IV. Las causas de responsabilidad y sanciones en materia de juicio político;
 
 V. Las autoridades competentes y los procedimientos para aplicar sanciones a los servidores públicos que resulten sujetos de responsabilidad;
 
-VI. Las autoridades competentes y los procedimientos para declarar la procedencia de juicio penal en contra de los servidores públicos que gozan de inmunidad; y,
+VI. (DEROGADA, P.O. 20 DE AGOSTO DE 2016)
 
 VII. El registro patrimonial de los servidores públicos.
 
@@ -425,127 +425,59 @@ IV. El grado de intervención por parte del servidor público en el acto u omisi
 
 ### Capítulo I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
-
 ###### Artículo 31.
 
-Para proceder penalmente contra los diputados al Congreso del Estado; los titulares de las secretarias del Poder Ejecutivo, el Fiscal General y el Procurador Social; los magistrados del Poder Judicial del Estado; los magistrados del Tribunal Electoral del Estado; el presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; los consejeros electorales con derecho a voz y voto del Instituto Electoral y de Participación Ciudadana del Estado; el Presidente y consejeros del Instituto de Transparencia e Información Pública del Estado; los presidentes municipales, síndicos, regidores y concejales de los ayuntamientos o concejos municipales, será necesario que se declare por parte del Congreso que ha lugar a proceder contra el inculpado, siguiendo el procedimiento que se establece en el presente capítulo.
-
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
-
-Contra los jueces de primera instancia, menores y de paz, sólo podrá procederse penalmente, previa declaración del Consejo de la Judicatura del Estado, de conformidad con lo previsto en la Ley Orgánica del Poder Judicial.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2016)
 
 ###### Artículo 32.
 
-No se requerirá declaración de procedencia del Congreso, cuando alguno de los servidores públicos, a que se refiere el artículo anterior, cometa un delito durante el tiempo en que se encuentre separado de su encargo o no haya asumido el ejercicio del mismo. Tampoco se requerirá la declaración de procedencia en caso de que el servidor público tenga el carácter de suplente y no se encuentre en el ejercicio del cargo.
-
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+(DEROGADO, P.O. 20 DE AGOSTO DE 2016)
 
 ###### Artículo 33.
 
-Para declarar que ha lugar a ejercitar la acción penal, es necesario que existan elementos suficientes para comprobar que existen datos que establezcan que se ha cometido un hecho que la ley señale como delito y la probabilidad de que el imputado lo cometió o participó en su comisión y que éstos hagan probable la responsabilidad del servidor público.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2016)
 
 ### Capítulo II. DEL PROCEDIMIENTO
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
-
 ###### Artículo 34.
 
-Cuando el ministerio público concluya la carpeta de investigación y determine ejercitar la acción penal en contra de alguno de los servidores públicos contemplados en el primer párrafo del artículo 31 del presente ordenamiento, como requisito de procedibilidad del ejercicio de la acción penal correspondiente, el Fiscal General deberá solicitar, ante el Congreso del Estado, la declaración de procedencia de juicio penal.
-
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+(DEROGADO, P.O. 20 DE AGOSTO DE 2016)
 
 ###### Artículo 35.
 
-El escrito de solicitud de declaración de procedencia de juicio penal se presentará por duplicado en la Secretaría General del Congreso del Estado y deberá reunir los siguientes requisitos:
-
-I. Deberá estar firmado por el Fiscal General; y
-
-II. Deberá estar acompañado con copias certificadas del expediente completo que contenga la formulación de la imputación, incluyendo la determinación del ejercicio de la acción penal.
-
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2004)</small>
+(DEROGADO, P.O. 20 DE AGOSTO DE 2016)
 
 ###### Artículo 36.
 
-Una vez presentado el escrito, el Secretario General del Congreso, lo remitirá al Pleno de la Asamblea para que éste la turne a la Comisión de Responsabilidades.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2016)
 
 ###### Artículo 37.
 
-La Comisión de Responsabilidades, dentro de los tres días hábiles siguientes a aquel en que haya recibido la solicitud, notificará al denunciado la apertura del procedimiento de declaración de procedencia de juicio penal, observando en todo momento las siguientes prevenciones:
-
-I. La notificación se realizará en el domicilio de la dependencia en la que el servidor público preste sus servicios o realice sus funciones o en su defecto, el lugar donde se le encuentre;
-
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
-
-II. Se le extenderá un juego de copias del escrito de solicitud presentado por el Fiscal General y del expediente que contenga la formulación de la imputación;
-
-III. Se le hará saber que puede comparecer o presentar sus alegatos por escrito, dentro de los siguientes cinco días hábiles a aquel en que surta efectos la notificación;
-
-IV. Se hará de su conocimiento que tiene derecho a nombrar una persona de su confianza para que lo defienda; y
-
-V. Se le prevendrá para que señale domicilio para oír todo tipo de notificaciones.
-
-Una vez que se tenga la certeza de que se han cumplido todas y cada una de las prevenciones contempladas en el presente artículo y transcurridos los cinco días de plazo, independientemente de que el denunciado comparezca o no, se continuará con el procedimiento.
-
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+(DEROGADO, P.O. 20 DE AGOSTO DE 2016)
 
 ###### Artículo 38.
 
-La Comisión de Responsabilidades analizará la formulación de la imputación y la determinación que le haga llegar el Fiscal General, así como los alegatos y argumentos esgrimidos por el denunciado. Deberá emitir un dictamen dentro de un plazo no mayor de treinta días hábiles, por medio del cual determinará si ha lugar o no a la procedencia del juicio penal en contra del servidor público denunciado.
-
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+(DEROGADO, P.O. 20 DE AGOSTO DE 2016)
 
 ###### Artículo 39.
 
-Dada la cuenta del dictamen, el presidente del Congreso del Estado anunciará a la Asamblea que debe erigirse en jurado de procedencia que deberá verificarse al día siguiente y mandará citar para la audiencia, al Fiscal General, al servidor público denunciado y a su defensor.
-
-Si el Fiscal General lo considera conveniente, podrá ser acompañado para el desahogo de la audiencia del servidor público que llevó a cabo la formulación de la imputación.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2001)</small>
+(DEROGADO, P.O. 20 DE AGOSTO DE 2016)
 
 ###### Artículo 40.
 
-El día designado para la audiencia, se observará el siguiente desarrollo:
-
-I. La Secretaría dará lectura a las constancias procesales, las cuales se integran por:
-
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
-
-a) Las conclusiones de la formulación de la imputación y la determinación del ejercicio de la acción penal presentadas por el Fiscal General; y
-
-b) Los alegatos presentados por el servidor público denunciado o por su defensor;
-
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
-
-II. Se otorgará el uso de la palabra en primer término al Fiscal General o en su caso, al servidor público que le acompañe y, posteriormente al acusado o a su defensor para que expresen lo que a su derecho convenga;
-
-III. Una vez escuchadas las partes, la Asamblea en pleno, discutirá los hechos vertidos y la existencia de la probable responsabilidad del servidor público denunciado;
-
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
-
-IV. En la etapa de discusión no se podrá otorgar, bajo ninguna circunstancia, el uso de la voz al denunciado o a su defensor, ni al Fiscal General o al servidor público que le acompañe, con la excepción de que cualquier integrante de la Asamblea solicite algunas aclaraciones que considere necesarias respecto de la acusación o de la defensa, para el mejor esclarecimiento de los hechos históricos; y
-
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
-
-V. Cerrada la etapa de discusión, se retirarán el acusado y su defensor, así como el Fiscal General así como el servidor público que le acompañe. Los diputados podrán hacer uso de la voz exclusivamente para razonar su voto. La Asamblea, excepción hecha de los miembros de la Comisión de Responsabilidades, declarará por mayoría absoluta de votos de sus integrantes, si ha lugar o no a proceder contra el inculpado.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2016)
 
 ###### Artículo 41.
 
-Si el pleno de la Asamblea declara que ha lugar a proceder penalmente en contra del servidor público denunciado, éste quedará inmediatamente separado de su empleo, cargo o comisión y sujeto a la jurisdicción de los tribunales competentes. En caso negativo, no habrá lugar a procedimiento ulterior mientras subsista la inmunidad penal por el desempeño del empleo cargo o comisión, y se declarará que el término para el ejercicio de la acción penal queda en suspenso en tanto el servidor público continúe en funciones; la resolución en la que se niegue la declaración de procedencia de juicio penal no será obstáculo para que el procedimiento continúe su curso a partir del momento en que el servidor público denunciado deje de estar en funciones.
-
-La declaratoria del Congreso de ninguna manera prejuzga sobre los fundamentos de la imputación.
-
-Por ningún motivo, las resoluciones de declaración de procedencia de juicio penal podrán tener trascendencia jurídica en el juicio penal seguido ante las autoridades jurisdiccionales ordinarias.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2016)
 
 ###### Artículo 42.
 
-No podrá seguirse proceso penal a alguno de los servidores públicos de los que hace referencia el artículo 31 de esta ley sin que se hayan satisfecho todos y cada uno de los requisitos que contiene el presente capítulo.
-
-En caso de que se haya ejercitado la acción penal en contra de algún servidor público con inmunidad, el Congreso del Estado, a través de la Secretaría, librará oficio al juez que conozca de la causa a fin de que suspenda el procedimiento, en tanto se plantea y resuelve si ha lugar a proceder, ordenando deje sin efecto cualquier acto procesal que se hubiere dictado.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2016)
 
 ###### Artículo 43.
 
-Si una vez procesado el servidor público resultare absuelto, se le repondrá en su empleo, cargo o comisión, enterándole los sueldos que hubiere dejado de percibir.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2016)
 
 ### Capítulo III. DE LA DECLARACIÓN DE PROCEDENCIA DE JUICIO PENAL POR LA COMISIÓN DE DELITOS FEDERALES
 
@@ -559,13 +491,17 @@ El gobernador, los diputados del Congreso del Estado, los magistrados del Poder 
 
 Cuando alguno de los servidores públicos mencionados en el artículo anterior hubiere sido sujeto de Declaración de Procedencia por el Congreso de la Unión, en los términos del título IV de la Constitución Federal, una vez recibida la declaración correspondiente en el Congreso del Estado, éste procederá en lo pertinente conforme a lo previsto en la presente ley.
 
-## TÍTULO CUARTO. DISPOSICIONES COMUNES PARA LOS PROCEDIMIENTOS DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE AGOSTO DE 2016)</small>
+
+## TÍTULO CUARTO. DISPOSICIONES GENERALES PARA LOS PROCEDIMIENTOS DE JUICIO POLITÍCO
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 46.
 
-Las declaraciones y resoluciones definitivas del Congreso del Estado en materia de juicio político y declaración de procedencia de juicio penal, son inatacables.
+Las declaraciones y resoluciones definitivas del Congreso del Estado en materia de juicio político, son inatacables.
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2004)</small>
 
@@ -573,13 +509,17 @@ Las declaraciones y resoluciones definitivas del Congreso del Estado en materia 
 
 La Secretaría General del Congreso del Estado enviará a la Asamblea, por riguroso turno, las denuncias o acusaciones que se presenten.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 48.
 
-Todas las sesiones en que se desahogue alguno de los trámites previstos en la presente ley relativos al juicio político o a la declaración de procedencia de juicio penal, tendrán el carácter de extraordinarias.
+Todas las sesiones en que se desahogue alguno de los trámites previstos en la presente ley relativos al juicio político, tendrán el carácter de extraordinarias.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 49.
 
-Por ningún motivo y bajo ninguna circunstancia podrá dispensarse trámite alguno de los establecidos en el presente ordenamiento, para los procedimientos de juicio político y declaración de procedencia de juicio penal.
+Por ningún motivo y bajo ninguna circunstancia podrá dispensarse trámite alguno de los establecidos en el presente ordenamiento, para los procedimientos de juicio político.
 
 ###### Artículo 50.
 
@@ -635,9 +575,9 @@ VIII. Ser heredero, legatario, donatario o fiador de alguno de los interesados, 
 
 Sólo con expresión de causa podrá recusarse a cualquiera de los diputados o a los miembros del órgano técnico jurídico de estudio y cuenta del Congreso del Estado que deban participar en actos del procedimiento.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2016)</small>
 
-La recusación podrá hacerse valer por escrito presentado por el servidor público denunciado, cualquier miembro de la Comisión de Responsabilidades o por el denunciante, desde el momento en que el denunciado es emplazado, hasta la fecha en que se cite para la audiencia en la que el Congreso se erigirá en jurado de sentencia, en el caso de juicio político, o en jurado de procedencia, en los casos de declaración de procedencia de juicio penal.
+La recusación podrá hacerse valer por escrito presentado por el servidor público denunciado, cualquier miembro de la Comisión de Responsabilidades o por el denunciante, desde el momento en que el denunciado es emplazado, hasta la fecha en que se cite para la audiencia en la que el Congreso se erigirá en jurado de sentencia, en el caso de juicio político.
 
 ###### Artículo 53.
 
@@ -651,9 +591,11 @@ La Asamblea, la Comisión de Responsabilidades, el denunciante, así como el ser
 
 Las autoridades estarán obligadas a entregar las constancias señaladas; si no lo hicieren, la Comisión de Responsabilidades o la Asamblea, les fijará un plazo máximo de cinco días hábiles para que las expida, apercibida de que, en caso de no cumplir con su obligación, se le fincarán por medio de su superior jerárquico, responsabilidades administrativas.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 55.
 
-La Asamblea del Congreso del Estado no podrá erigirse en jurado de acusación, de sentencia o de procedencia sin que antes se haya comprobado fehacientemente que las partes han sido debidamente notificadas y citadas.
+La Asamblea del Congreso del Estado no podrá erigirse en jurado de acusación o de sentencia sin que antes se haya comprobado fehacientemente que las partes han sido debidamente notificadas y citadas.
 
 ###### Artículo 56.
 
@@ -675,9 +617,11 @@ En ningún caso tendrán derecho de voto los diputados que hubieren presentado l
 
 En todos los casos no previstos en el presente ordenamiento, para las discusiones y votaciones se observarán, en lo aplicable, las reglas que establece la Ley Orgánica del Poder Legislativo para la discusión, votación y aprobación de las leyes. En todos los casos las votaciones deberán realizarse de manera nominal para formular, aprobar o rechazar las conclusiones o dictámenes que para tales efectos formule la Comisión de Responsabilidades.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 60.
 
-Las declaraciones de procedencia o las sentencias de juicio político aprobadas por la Asamblea con arreglo a esta ley, se comunicarán a los tribunales del Poder Judicial del Estado, al ayuntamiento correspondiente, si se tratare de alguno de sus integrantes; y al titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales, así como para su publicación en el periódico oficial "El Estado de Jalisco".
+Las sentencias de juicio político aprobadas por la Asamblea con arreglo a esta ley, se comunicarán a los tribunales del Poder Judicial del Estado, al ayuntamiento correspondiente, si se tratare de alguno de sus integrantes y al titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales, así como para su publicación en el periódico oficial "El Estado de Jalisco".
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
@@ -1798,3 +1742,9 @@ TERCERO. Respecto a la denominación y nombramiento de los comisionados será vi
 CUARTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente decreto se concluirán de conformidad con las disposiciones vigentes en el momento en que iniciaron.
 
 QUINTO. En tanto no se expida la ley general en materia de datos personales en posesión de sujetos obligados, permanecerán vigentes los artículos de esta Ley en la materia.
+
+P.O. 20 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 25861/LXI/16 QUE REFORMA LA DENOMINACIÓN DEL TÍTULO CUARTO Y LOS ARTÍCULOS 1, 46, 48, 49, 52, 55 Y 60, DEROGA LOS ARTÍCULOS 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42 Y 43, DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS; REFORMA LOS ARTÍCULOS 99 Y 108 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; REFORMA EL ARTÍCULO 9 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; REFORMA EL ARTÍCULO 31 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO; REFORMA LOS ARTÍCULOS 69 Y 143 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO 33 DE LA LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y EL 196 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO".]
+
+ÚNICO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
