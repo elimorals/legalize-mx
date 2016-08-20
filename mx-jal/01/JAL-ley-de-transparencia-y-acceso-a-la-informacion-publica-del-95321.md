@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-9532
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-08"
-last_updated: "2015-11-10"
+last_updated: "2016-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "JAL"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO NÚMERO 25653/LX/15, PUBLICADO EN EL P.O. DE 10 DE NOVIEMBRE DE 2015, QUE MODIFICA ESTE ORDENAMIENTO, VÉASE SU TRANSITORIO PRIMERO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO NÚMERO 25653/LX/15, PUBLICADO EN EL P.O. DE 10 DE NOVIEMBRE DE 2015, QUE MODIFICA ESTE ORDENAMIENTO, VÉASE SU TRANSITORIO PRIMERO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2016.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 8 de agosto de 2013.
 
@@ -753,7 +753,9 @@ XIX. En materia de responsabilidades de los servidores públicos:
 
 a) El registro de los juicios políticos, con indicación del número de expediente, fecha de ingreso, nombre del denunciante, nombre y cargo del denunciado y estado procesal;
 
-b) El registro de los juicios de procedencia penal, con indicación del número de expediente, fecha de ingreso, nombre y cargo del denunciado, delito por el que se le acusa, y estado procesal;
+(NOTA: EL 24 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS SUBAPARTADOS VIII.2., VIII.3. Y VIII.4., ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2016, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DEL INCISO B), DE LA FRACCIÓN XIX, DEL NUMERAL 1 DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+b) (DEROGADO, P.O. 20 DE AGOSTO DE 2016)
 
 c) Las resoluciones finales de los juicios de procedencia penal, juicios políticos y de responsabilidad administrativa, y
 
@@ -4422,3 +4424,9 @@ TERCERO. Respecto a la denominación y nombramiento de los comisionados será vi
 CUARTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente decreto se concluirán de conformidad con las disposiciones vigentes en el momento en que iniciaron.
 
 QUINTO. En tanto no se expida la ley general en materia de datos personales en posesión de sujetos obligados, permanecerán vigentes los artículos de esta Ley en la materia.
+
+P.O. 20 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 25861/LXI/16 QUE REFORMA LA DENOMINACIÓN DEL TÍTULO CUARTO Y LOS ARTÍCULOS 1, 46, 48, 49, 52, 55 Y 60, DEROGA LOS ARTÍCULOS 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42 Y 43, DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS; REFORMA LOS ARTÍCULOS 99 Y 108 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; REFORMA EL ARTÍCULO 9 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; REFORMA EL ARTÍCULO 31 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO; REFORMA LOS ARTÍCULOS 69 Y 143 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO 33 DE LA LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y EL 196 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO".]
+
+ÚNICO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
