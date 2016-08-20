@@ -4,7 +4,7 @@ identifier: "BCS-ley-sobre-el-regimen-de-propiedad-en-condominio-del-estado-5789
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-30"
-last_updated: "2007-11-30"
+last_updated: "2016-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # LEY SOBRE EL REGIMEN DE PROPIEDAD EN CONDOMINIO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-LEY SOBRE EL REGIMEN DE PROPIEDAD EN CONDOMINIO DEL ESTADO DE BAJA CALIFORNIA SUR
+LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE AGOSTO DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 30 de noviembre de 2007.
 
@@ -43,45 +43,81 @@ LEY SOBRE EL REGIMEN DE PROPIEDAD EN CONDOMINIO DEL ESTADO DE BAJA CALIFORNIA SU
 
 ### CAPÍTULO I. Disposiciones Generales
 
-###### Artículo 1º.
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
 
-Las disposiciones de esta Ley tienen por objeto regular la constitución, modificación, organización, funcionamiento, administración y extinción del régimen de propiedad en Condominio.
+###### Artículo 1°.
 
-La creación del régimen de propiedad en Condominio no da origen al nacimiento de una persona jurídica, sin embargo, el hecho de someterse a este régimen obliga a los interesados a acatar las resoluciones que mediante votación y en los términos de la presente ley, acuerden los Condóminos en las Asambleas respectivas.
+Las disposiciones de esta Ley son de orden público y tienen por objeto regular la constitución, modificación, organización, funcionamiento, administración y extinción del régimen de propiedad en condominio.
+
+Para la representación legal del condominio, los condóminos designarán un administrador quien contará con las más amplias facultades para pleitos y cobranzas y actos de administración.
+
+Las escrituras constitutivas de los condominios, sus reglamentos y las resoluciones de las asambleas de condóminos, se sujetarán en todo tiempo a las disposiciones de esta Ley.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], B.O. 20 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 2º.
 
 Para los efectos de esta Ley se entiende por:
 
-I.- Administrador.- Persona física o moral nombrado por la Asamblea para desempeñar la función de administración de un Condominio.
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2016)</small>
 
-II.- Áreas y Bienes Comunes: Son aquellos que pertenecen en forma pro indivisa a los Condóminos, y su uso estará regulado por esta Ley, la Escritura Constitutiva y el Reglamento, y cuyo uso, aprovechamiento y mantenimiento es responsabilidad de los Condóminos y Ocupantes, y sobre las cuales los propietarios de cada Unidad de Propiedad Exclusiva mantienen un derecho de Copropiedad sobre los elementos y partes que sirven al inmueble, y que son necesarios para su adecuado uso y disfrute en términos de lo establecido por el artículo 956 del Código Civil;
+I.- Administrador.- Persona física o jurídica nombrada en Escritura Constitutiva o por la Asamblea para desempeñar la función de administración de un Condominio;
 
-III.- Asamblea: Es el órgano supremo del Condominio, conformada por la reunión de todos los Condóminos, celebrada de acuerdo a esta ley y al Reglamento del Condominio, en la que se tratan, discuten y resuelven, en su caso, los asuntos de interés común de los Condóminos respecto al Condominio;
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+II.- Áreas y Bienes Comunes: Son aquellos que pertenecen en forma pro indivisa a los condóminos quienes mantienen un derecho de copropiedad sobre los elementos y partes que sirven al inmueble y cuyo uso, aprovechamiento y mantenimiento es responsabilidad de condóminos y ocupantes en términos de lo establecido por el artículo 956 del Código Civil;
+
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+III.- Asamblea: Es el órgano supremo del Condominio, conformado por la reunión de todos los condóminos y celebrada de acuerdo a esta ley y al Reglamento, en la que se tratan, discuten y resuelven, en su caso, los asuntos de interés común respecto al Condominio;
 
 IV.- Bienes Comunes de Uso Exclusivo: Son aquellos bienes que siendo comunes, se señalen en la Escritura Constitutiva del Condominio o en el Reglamento del mismo, como de uso exclusivo a una Unidad o grupo de Unidades de Propiedad Exclusiva;
 
 V.- Código Civil: El Código Civil para el Estado Libre y Soberano de Baja California Sur;
 
-VI.- Condominio: Se denominará Condominio al grupo de lotes de terrenos, o departamentos, viviendas, casas, locales o naves de un inmueble construido en forma horizontal, vertical o mixta, susceptibles de aprovechamiento independiente por tener salida propia a un elemento común de aquél o a la vía pública y que pertenecieran a distintos propietarios los que tendrán un derecho singular y exclusivo de propiedad sobre su Unidad de Propiedad Exclusiva y además un derecho de copropiedad sobre los elementos y partes comunes del inmueble, necesarios para un adecuado uso y disfrute;
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2016)</small>
 
-VII.- Condómino: La persona física o jurídico-colectiva, que tenga la propiedad o la titularidad de los derechos fideicomitidos sobre una o varias Unidades de Propiedad Exclusiva en un inmueble afecto al régimen de propiedad en Condominio, incluso cuando haya adquirido dichos derechos o beneficios, mediante contrato preparatorio o privado, y para los efectos de esta Ley, cuando haya celebrado contrato en virtud del cual, de cumplirse en sus términos llegue a ser propietario o fideicomisario de una Unidad de Propiedad Exclusiva;
+VI.- Condominio: Es el régimen jurídico que integra las modalidades y limitaciones al dominio de un predio o edificación construida en forma horizontal, vertical o mixta, susceptibles de aprovechamiento independiente, conjunto y simultáneo por tener salida propia a un elemento común de aquél, así como la reglamentación de su uso y disfrute por parte de los condóminos;
 
-VIII.- Condominio Maestro: Toda aquella agrupación de dos o más Condominios, ya sean horizontales, verticales o mixtos, construidos en un solo predio, siempre que cada uno de dichos Condominios conserve para sí áreas de uso exclusivo, y a su vez existan áreas de uso común para todos los Condominios que integran el Condominio Maestro de referencia, como pueden ser vialidades, construcciones e instalaciones, etc., y cuyas Áreas Comunes generales serán administradas, conservadas y mantenidas por todos los Condominios pertenecientes a dicho Condominio Maestro;
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2016)</small>
 
-IX.- Escritura Constitutiva: Es el documento público mediante el cual se afecta un inmueble bajo el régimen de propiedad en Condominio, estableciendo las características y condiciones para la organización y funcionamiento social del Condominio;
+VII.- Condómino: Es la persona física o jurídica que tiene la propiedad o la titularidad de los derechos fideicomitidos sobre una o varias Unidades de Propiedad Exclusiva en un inmueble afecto al régimen de propiedad en Condominio;
+
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+VIII.- Condominio Maestro: Es la agrupación de dos o más condominios, ya sean horizontales, verticales o mixtos, construidos en un solo predio, siempre que cada uno conserve para sí áreas de uso exclusivo, y a su vez existan áreas de uso común para todos los condominios que integran el Condominio Maestro, como vialidades, construcciones e instalaciones, y cuyas áreas comunes generales serán administradas, conservadas y mantenidas por todos los condominios que lo integran;
+
+> <small>(ADICIONADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+VIII Bis.- Constituyente: El propietario de un bien inmueble que lo destina a la constitución de un régimen de propiedad en Condominio en los términos de esta Ley;
+
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+IX.- Escritura Constitutiva: Es el documento público mediante el cual se constituye el régimen de propiedad en condominio respecto de un bien inmueble, estableciendo las características y condiciones para la organización y funcionamiento social del mismo;
 
 X.- Ley: La Ley sobre el Régimen de Propiedad en Condominio para el Estado de Baja California Sur;
 
-XI.- Mayoría Simple: El 50% más uno del total de votos o Condóminos, según sea el caso;
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2016)</small>
 
-XII.- Mediación: Es una forma no coactiva de solución de problemas, alterno a la vía jurisdiccional, implementado por el Tribunal Superior de Justicia del Estado de Baja California Sur a través del Centro de Mediación, mediante el cual se busca solucionar conflictos de diversa naturaleza suscitados entre dos o mas partes en disputa, con el fin de llegar a un acuerdo de voluntades.
+XI.- Mayoría simple.- Mas del 50% del total de votos de los Condóminos presentes al momento de celebrar cualquier tipo de Asamblea que estén en cumplimiento con el Reglamento y al corriente en el pago de todas la (sic) cuotas ordinarias, cuotas extraordinarias, importe del fondo de reserva, importes del fondo de gastos de mantenimiento y de administración o en cualquier otra obligación monetaria a su cargo incluyendo los intereses moratorios, penas convencionales y cualquier otro gasto de cobranza previstas en la Ley, la Escritura Constitutiva, el Reglamento o las resoluciones aprobadas por la Asamblea;
 
-XIII.- Ocupante: Cualquier persona física o jurídico-colectiva que comparta con el condómino sus derechos de usar y disfrutar una Unidad de Propiedad Exclusiva, o a cualquier persona en que se hayan delegado, por cualquier título legal, ya sea público o privado, los derechos de uso y disfrute de una Unidad de Propiedad Exclusiva. Los Ocupantes pueden ser, de manera enunciativa y no limitativa, miembros de la familia del Condómino, invitados, amigos, arrendatarios, comodatarios, usufructuarios, huéspedes, empleados domésticos, familiares o amigos de estos últimos y, en general, cualquier otra persona que esté utilizando o disfrutado de una Unidad de Propiedad Exclusiva, de manera conjunta o separada con el condómino titular de dicha Unidad;
+> <small>(ADICIONADA, B.O. 20 DE AGOSTO DE 2016)</small>
 
-XIV.- Reglamento: Se refiere al Reglamento del Condominio. Es el instrumento jurídico que complementa y especifica las disposiciones de esta Ley de acuerdo a las características de cada Condominio, en los que se establecen las normas internas de convivencia de un Condominio que complementa y especifica las disposiciones de esta Ley;
+XI Bis.- Mayoría especial.- El 75% del total del indiviso del Condominio de los Condóminos que estén en cumplimiento con el Reglamento y al corriente en el pago de todas la cuotas ordinarias, cuotas extraordinarias, importes del fondo de reserva, importe del fondo de gastos de mantenimiento y de administración o en cualquier otra obligación monetaria a su cargo incluyendo los intereses moratorios, penas convencionales y cualquier otro gasto de cobranza previstas en la Ley, la Escritura Constitutiva, el Reglamento o las resoluciones aprobadas por la Asamblea;
 
-XV.- Sub-Condominio.- Es aquel Condominio horizontal, vertical o mixto que forma parte de un Condominio Maestro y cuyo número de Unidades de Propiedad Exclusiva no excede de 150; y
+XII.- Mediación: Es una forma no coactiva de solución de problemas, alterno a la vía jurisdiccional, implementado por el Tribunal Superior de Justicia del Estado de Baja California Sur a través del Centro de Mediación, mediante el cual se busca solucionar conflictos de diversa naturaleza suscitados entre dos o mas partes en disputa, con el fin de llegar a un acuerdo de voluntades;
+
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+XIII.- Ocupante: Es la persona física o jurídica que comparte con el condómino sus derechos de usar y disfrutar una Unidad de Propiedad Exclusiva, o a cualquier persona en que se hayan delegado, por cualquier título legal, ya sea público o privado, los derechos de uso y disfrute de una Unidad de Propiedad Exclusiva. Los Ocupantes pueden ser, de manera enunciativa y no limitativa, miembros de la familia del Condómino, invitados, amigos, arrendatarios, comodatarios, usufructuarios, huéspedes, empleados domésticos, familiares o amigos de estos últimos y, en general, cualquier persona distinta al Condómino que esté utilizando o disfrutando de una Unidad de Propiedad Exclusiva, de manera conjunta o separada, con el titular de dicha Unidad de Propiedad Exclusiva;
+
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+XIV.- Reglamento: Se refiere al Reglamento del Condominio. Es el instrumento jurídico que complementa y especifica las disposiciones de esta Ley estableciendo las normas internas de convivencia de acuerdo a las características de cada Condominio;
+
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+XV.- Sub-Condominio: Es aquel Condominio horizontal, vertical o mixto que forma parte de un Condominio Maestro, y
 
 XVI.- Unidades de Propiedad Exclusiva: Son los diferentes lotes de terreno, departamentos, pisos, viviendas, casas, locales, áreas o naves, construidos en forma vertical, horizontal o mixta, susceptibles de aprovechamiento independiente por tener salida propia a un elemento común de aquel o a la vía pública sobre el cual el condómino tiene un derecho de propiedad y uso exclusivos.
 
@@ -91,9 +127,11 @@ XVI.- Unidades de Propiedad Exclusiva: Son los diferentes lotes de terreno, depa
 
 Los derechos y obligaciones de los Condóminos se regirán por la Escritura Constitutiva del régimen, la de compraventa correspondiente, por el Reglamento del Condominio de que se trate, las de la presente Ley, por las disposiciones del Código Civil para el estado de Baja California Sur, y las de otras leyes que fueran aplicables.
 
-###### Artículo 4º.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE AGOSTO DE 2016)</small>
 
-La constitución del régimen de propiedad en Condominio, es un acto jurídico formal mediante el cual el propietario o propietarios de un inmueble, formalizan mediante instrumento otorgado ante Notario Público, declarando su voluntad de establecer esa modalidad de propiedad para su mejor aprovechamiento, y en el que, dos o más personas teniendo un derecho privado, utilizan y comparten áreas o espacios de uso y propiedad común, asumiendo condiciones que les permiten satisfacer sus necesidades de acuerdo al uso del inmueble, en forma conveniente y adecuada para todas y cada una de ellas, sin demérito de su Propiedad Exclusiva.
+###### Artículo 4°.
+
+La constitución del régimen de propiedad en condominio es el acto jurídico mediante el cual el propietario o propietarios de un inmueble formalizan ante Notario Público declarando su voluntad de establecer esa modalidad de propiedad para su mejor aprovechamiento, y en el que dos o más personas, teniendo un derecho privado, utilizan y comparten áreas o espacios de uso y propiedad común asumiendo condiciones que les permiten satisfacer sus necesidades de acuerdo al uso del inmueble, en forma conveniente y adecuada para todas y cada una de ellas, sin demérito de su Propiedad Exclusiva.
 
 El propietario de un inmueble entendiéndose como terreno o terreno y construcción, para obtener las autorizaciones para la constitución del régimen de propiedad en Condominio deberá realizar lo siguiente:
 
@@ -117,9 +155,11 @@ III.- Aprobada la memoria descriptiva que se señala en el punto anterior, el pr
 
 IV.- La memoria descriptiva con los oficios de autorización, deberán ser protocolizados ante Notario Público, mediante declaración unilateral de voluntad, en la cual se constituya y formalice el régimen de propiedad en Condominio, esta escritura pública deberá ser inscrita ante las Direcciones del Catastro y del Registro Público de la Propiedad que corresponda.
 
-###### Artículo 5º.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE AGOSTO DE 2016)</small>
 
-Los Condominios de acuerdo con sus características de estructura y uso podrán tener las siguientes modalidades:
+###### Artículo 5°.
+
+Según su estructura, uso, características sociales y constitución, los condominios y/o sub-condominios y/o condominios maestros, podrán adoptar una de las siguientes modalidades:
 
 I.- Por su estructura:
 
@@ -153,9 +193,19 @@ b) Habitacional Turístico.- Son Condominios cuyas Unidades de Propiedad Exclusi
 
 c) De interés social.- Son aquellos construidos, desarrollados o financiados por instituciones oficiales de vivienda, federales o locales, o por particulares, cuando las características de construcción y dimensiones de las Unidades de Propiedad Exclusiva coincidan con las de las instituciones oficiales de vivienda anteriormente señaladas.
 
-###### Artículo 6º.
+> <small>(ADICIONADA, B.O. 20 DE AGOTO DE 2016)</small>
 
-Para la constitución del régimen de propiedad en Condominio, los propietarios, previo a la solicitud de constitución del citado régimen, deberán obtener de las autoridades competentes del Municipio de que se trate, una declaración en la que conste: la viabilidad de realización del proyecto general, el dictamen del cumplimiento de las disposiciones de la Ley de Desarrollo Urbano para el Estado de Baja California Sur y los programas que de ellas se derivan, así como el uso de suelo del inmueble para los fines correspondientes.
+IV.- Por su constitución:
+
+a) Turístico Residencial.- Modalidad adoptada por el constituyente mediante la cual éste se reserva el derecho para determinar la organización, administración, operación y modificación del régimen de propiedad en condominio de forma autónoma e inamovible durante todo el tiempo establecido en la Escritura Constitutiva, en términos de las disposiciones del Capítulo II del Título Quinto de esta Ley, y
+
+b) De determinación general.- Son aquellos en los que la organización, administración, operación y modificación del régimen de propiedad en condominio no está especificado en su escritura constitutiva.
+
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
+###### Artículo 6°.
+
+Previo a la solicitud de constitución del régimen de propiedad en condominio, el o los constituyentes deberán obtener de las autoridades competentes una declaración en la que conste la viabilidad de realización del proyecto general, el dictamen del cumplimiento de las disposiciones de la Ley de Desarrollo Urbano para el Estado de Baja California Sur y los programas que de ellos se derivan, así como el uso de suelo del inmueble para los fines correspondientes.
 
 ###### Artículo 7º.
 
@@ -269,9 +319,11 @@ En las diferentes modalidades de régimen de propiedad en Condominio, cada cond�
 
 Cada condómino y en general los habitantes del Condominio, podrán usar los bienes comunes y gozar de los servicios e instalaciones generales conforme a su naturaleza y destino originales, sin restringir o hacer más oneroso el derecho de los demás, pues de lo contrario se hará acreedor a las sanciones previstas en esta Ley y las que en su caso se lleguen a establecer en el Reglamento respectivo; sin perjuicio de las responsabilidades del orden civil o penal en que pueda incurrir.
 
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 21.
 
-Cada condómino u ocupante usará su Unidad de Propiedad Exclusiva en forma ordenada y tranquila. No podrá, en consecuencia, destinar1a (sic) a usos contrarios a su destino y naturaleza, ni hacerla servir a otros objetos que los contenidos expresamente en la Escritura Constitutiva del Condominio.
+Cada Condómino u Ocupante usará su Unidad de Propiedad Exclusiva en forma ordenada y pacífica. En ningún caso podrá utilizarla para fines contrarios a su destino y naturaleza, ni hacerla servir a objetos distintos a los expresamente consignados en la Escritura Constitutiva del Condominio.
 
 ###### Artículo 22.
 
@@ -381,9 +433,11 @@ Se podrán celebrar convenios con las autoridades competentes para establecer se
 
 ### CAPÍTULO I. De la Supremacía y Atribuciones de la Asamblea
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 32.
 
-La Escritura Constitutiva del Condominio es la que estipula la organización y funcionamiento social del mismo, cuyo órgano supremo es la asamblea de Condóminos.
+La Escritura Constitutiva del Condominio estipulará la organización y funcionamiento social del mismo, cuyo órgano supremo es la Asamblea de Condóminos.
 
 La asamblea contará con un Presidente, un Secretario y cuando menos dos escrutadores designados por la misma.
 
@@ -479,23 +533,119 @@ XI.- Cuando por la importancia del o los asuntos a tratar en la asamblea se cons
 
 XII.- Los Condóminos o sus representantes, podrán asistir a las Asambleas, acompañados por abogados, contadores públicos y/o intérpretes traductores, quienes podrán hacer uso de la voz.
 
+> <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
+###### Artículo 32 Bis.
+
+Las Asambleas se regirán por las siguientes disposiciones:
+
+I.- Se celebrarán obligatoriamente por lo menos una vez cada año y las de grupo cuantas veces sean convocadas conforme a lo dispuesto por esta Ley, la Escritura Constitutiva y el Reglamento del Condominio.
+
+Las Asambleas extraordinarias, serán convocadas con la anticipación que las circunstancias lo exijan, quedando sujetas en lo demás a las disposiciones de esta Ley y el Reglamento correspondiente;
+
+II.- El valor del voto de cada Condómino será igual al porcentaje del indiviso que le corresponde y que figure en la Escritura Constitutiva y en el instrumento público correspondiente en que conste su propiedad.
+
+En las casos de elección, reelección o remoción del Administrador, de los integrantes de la administración o del Comité de Vigilancia, a cada Unidad de Propiedad Exclusiva habitacional corresponderá un sólo voto, inclusive aquellos de uso mixto que cuenten con Unidades para su uso habitacional o habitacional-turístico. Se exceptúan los Condominios por uso comercial, de oficinas, de almacenamiento, industrial y estacionamiento, en donde la votación será de acuerdo a lo dispuesto en el párrafo anterior;
+
+III.- La votación será nominal y directa, pero el Reglamento del Condominio podrá facultar la representación mediante simple carta poder firmada ante dos testigos, sin que en ningún caso una sola persona pueda representar a más del 50% de los Condóminos. En ningún caso, el Administrador podrá representar a Condómino alguno;
+
+IV.- Las resoluciones de la asamblea se tomaran por mayoría simple de votos de los presentes, excepto en los casos en que la presente Ley y el Reglamento, sin contravenir a esta, prescriban una mayoría especial;
+
+V.- Los nombramientos del Administrador, del Comité de Administración, en su caso, y del Comité de Vigilancia, tendrán vigencia de hasta un año y sólo podrán ser reelectos por una sola vez para el periodo inmediato, salvo que exista la unanimidad de los Condóminos en Condominios que no excedan de 20 Unidades de Propiedad Exclusiva. Se exceptúa de lo anterior los casos de administración externa;
+
+VI.- En los casos de que solo un Condómino represente más del 50% del indiviso del Condominio y los Condóminos restantes no asistan a la Asamblea, previa notificación de la convocatoria de acuerdo a esta Ley, se requerirá para que sean valido (sic) los acuerdos de Asamblea la presencia de un Notario Público para que dé fe de los acuerdos que se den por mayoría simple de la Asamblea;
+
+VII.- Cuando un solo Condómino represente más del 50% del indiviso del Condominio, se requerirá para que sean válidos los acuerdos de la Asamblea, la presencia de un Notario Público para que dé fe de los acuerdos que se den por mayoría simple en la Asamblea;
+
+VIII.- El secretario transcribirá el acta de la asamblea en el libro que para tal efecto haya autorizado la asamblea de Condóminos. Las actas, por su parte, serán autorizadas, y en este orden, por el propio secretario, el presidente de debates de la asamblea, los escrutadores y los miembros del Comité de Vigilancia en caso de que asistan, y en su caso por notario público;
+
+IX.- El secretario tendrá siempre a la vista de los Condóminos, el libro de actas e informará por escrito a cada uno las resoluciones que adopte la asamblea.
+
+Sin perjuicio de las disposiciones aplicables a las Asambleas de Condóminos éstos podrán acordar otros mecanismos y formas para tomar decisiones y acuerdos para la mejor administración de los Condominios.
+
+Con independencia del tipo de Asamblea y de los acuerdos en ella tomados, toda acta deberá ser protocolizada ante Notario Público para que proceda a su inscripción en el Registro Público de la Propiedad correspondiente.
+
+X.- Para los efectos de las votaciones en las Asambleas, la Escritura Constitutiva del régimen o el Reglamento, podrán prever el voto a través de correo electrónico. Este procedimiento deberá de ser el que establezca el Reglamento o lo que apruebe la Asamblea General de Condóminos, a través de mayoría simple, para así definir su propio procedimiento del voto electrónico.
+
+No se negarán efectos jurídicos, validez o fuerza obligatoria a cualquier tipo de información por la razón de que esté contenida en un mensaje de datos.
+
+En el caso que el Reglamento o la Asamblea General de Condóminos no tenga o apruebe un propio procedimiento, se podrá adoptar algún otro medio siempre que tal medio se someta en su interpretación y aplicación a los principios de neutralidad tecnológica, autonomía de la voluntad, compatibilidad internacional y equivalencia funcional del mensaje de datos en relación con la información documentada en medios no electrónicos y de la firma electrónica en relación con la firma autógrafa, donde podrán emplearse los medias electrónicos, ópticos o cualquier otra tecnología, incluyendo las videoconferencias. Por lo que se deberán tomar en cuenta las siguientes definiciones:
+
+Activación.- Es el procedimiento por el cual se desbloquean las condiciones de acceso a una clave y se permite su uso;
+
+Autentificación.- Procedimiento de comprobación de la identidad de un solicitante o titular de certificados de identificación única;
+
+Certificado de Autentificación.- Tiene como finalidad garantizar electrónicamente la identidad del ciudadano al realizar una transacción informática. El certificado de autentificación, asegura que la comunicación electrónica se realiza con la persona que dice es. El titular podrá a través de su certificado acreditar su identidad frente a cualquiera ya que se encuentra en posesión del certificado de identidad y de la clave privada asociada al mismo.
+
+El uso de este certificado no está habilitado en operaciones que requieran no repudio de origen, por tanto los terceros aceptantes y los prestadores de servicios no tendrán garantía del compromiso del titular con el contenido firmado. Su uso principal será para generar mensajes de autentificación (confirmación de la identidad) y de acceso seguro a sistemas informáticos (mediante establecimientos de canales privados y confidenciales con los prestadores de servicio)
+
+Certificado.- Es un conjunto de información que consta de un ID (identificador) de petición, una password (contraseña) y sirve para asegurar la veracidad de la clave pública perteneciente al propietario del certificado:
+
+Certificado electrónico.- Es un documento firmado electrónicamente por un prestador de servicios de certificación que vincula unos datos de verificación de firma a un firmante y confirma su identidad. Se extiende a los casos en que la vinculación de los datos de verificación de firma se hace a un componente informático;
+
+Datos de creación de firma electrónica.- Son datos únicos, como códigos o claves criptográficas privadas, que el firmante genera de manera secreta y utiliza para crear su firma electrónica, a fin de lograr el vínculo entre dicha firma electrónica y el firmante;
+
+Datos de creación de la firma (clave privada).- Son datos únicos, como códigos o claves criptográficas privadas, que el suscriptor utiliza para crear la firma electrónica.
+
+Datos de verificación de firma (Clave Pública).- Son datos como códigos o claves criptográficas públicas, que se utilizan para verificar la firma electrónica.
+
+Destinatario.- La persona designada por el emisor para recibir el mensaje de datos, pero que no esté actuando a título de intermediario con respecto a dicho mensaje:
+
+Emisor.- Toda persona que, al tenor del mensaje de datos, haya actuado a nombre propio o en cuyo nombre se haya enviado o generado ese mensaje antes de ser archivado, si éste es el caso, pero que no haya actuado a título de intermediario:
+
+Firma electrónica.- Es el conjunto de datos en forma electrónica, consignados junto a otros o asociados con ellos, que pueden ser utilizados como medio de identificación personal y produce los mismos efectos jurídicos que la firma autógrafa, siendo admisible como prueba en juicio.
+
+En aquellas disposiciones que se refieren a firma digital, se considerará a ésta como una especie de la firma electrónica;
+
+Firma electrónica avanzada.- Es aquella firma electrónica que permite establecer la identidad personal del suscriptor respecto de los datos firmados y comprobar la integridad de los mismos, por estar vinculada de manera exclusiva tanto al suscriptor, como a los datos a que se refiere, y por haber sido creada por medios que mantiene bajo su exclusivo control.
+
+Firma electrónica reconocida.- Es aquella firma electrónica avanzada basada en un certificado reconocido y generada mediante un dispositivo seguro de creación de firma.
+
+Firmante.- La persona que posee los datos de la creación de la firma y que actúa en nombre propio o de la persona a la que representa;
+
+Identificador de usuario.- Conjunto de caracteres que se utilizan para la identificación unívoca de un usuario en un sistema.
+
+Intermediario.- En relación con un determinado mensaje de datos, se entenderá toda persona que, actuando por cuenta de otra, envíe, reciba o archive dicho mensaje o preste algún otro servicio con respecto a él;
+
+Mensaje de datos.- La información generada, enviada, recibida o archivada por medios electrónicos ópticos;
+
+Documento electrónico.- Conjunto de registros lógicos almacenados en soporte susceptible de ser leído por equipos electrónicos de procesamiento de datos que contiene información.
+
+Parte que confía.- La persona que, siendo o no el destinatario, actúa sobre la base de un certificado o de una firma electrónica;
+
+Prestador de servicios de certificación.- La persona física o jurídica, o institución pública que preste servicios relacionados con firmas electrónicas y que expide los certificados, en su caso;
+
+Sistema de información.- Se entenderá como un conjunto de procedimientos interrelacionados que forman un todo para generar, enviar, recibir, archivar o procesar información para apoyar la toma de decisiones;
+
+Titular del certificado.- Se entenderá como la persona física o jurídica a cuyo favor fue expedido el certificado de identidad pública.
+
+XI.- Cuando por la importancia del o los asuntos a tratar en la asamblea se considere necesario, el Administrador, el comité de vigilancia o cuando menos el 25% de los Condóminos, podrán solicitar la presencia de un notario público, y
+
+XII.- Los Condóminos o sus representantes, podrán asistir a las Asambleas, acompañados por abogados, contadores públicos y/o intérpretes traductores, quienes podrán hacer uso de la voz y estarán sujetos al procedimiento que establezca la Asamblea General de Condóminos.
+
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 33.
 
 En el procedimiento para la celebración de las Asambleas según sea el caso, deberán cumplirse las siguientes disposiciones:
 
-Cuando la asamblea se celebre en virtud de primera convocatoria, se requerirá de un quórum de 75% de Condóminos; cuando se realice por segunda convocatoria, el quórum será por lo menos del 51 % de Condóminos. En caso de tercera o ulterior convocatoria, la asamblea se declarará legalmente instalada con los Condóminos que asistan y las resoluciones se tomarán por mayoría de los presentes. Entre la primera convocatoria y la celebración de la asamblea, deberá mediar el plazo mínimo que al efecto fije el Reglamento del Condominio o en su defecto, dicho plazo no será menor de diez días naturales. Entre la segunda convocatoria y la celebración de la asamblea respectiva, deberá mediar un plazo mínimo de 24 horas y entre la tercera o ulterior convocatoria, diez minutos de anticipación.
+Cuando la asamblea se celebre en virtud de primera convocatoria, se requerirá de un quórum de asistencia del 75% de los Condóminos; cuando se realice en segunda convocatoria se requerirá de un quórum de asistencia de por lo menos del 50% más uno de los Condóminos. En caso de tercera o ulterior convocatoria, la asamblea se declarará legalmente instalada con los Condóminos que asistan.
 
-En caso de así solicitarlo el Administrador o cuando menos el 25 % de los Condóminos, se podrá requerir la presencia de un notario público o de un representante del Ayuntamiento correspondiente, para constatar el quórum y el resultado de la elección del Administrador y del comité de vigilancia y, en su caso, la entrega de la documentación legal, administrativa y contable respectiva de la administración saliente.
+Entre la publicación de la Convocatoria y la celebración de la Asamblea que corresponda, deberá mediar un plazo de cuando menos diez días calendario.
 
-Los Condóminos o sus representantes, serán notificados de la convocatoria por escrito en el lugar que para tal efecto hayan señalado.
+La primera, segunda, tercera o ulterior Convocatoria podrán publicarse de forma conjunta o separada.
 
-Además del envío de la nota anterior, el Administrador colocará la convocatoria en uno o más lugares visibles del Condominio.
+La Asamblea en segunda Convocatoria podrá celebrase una vez transcurridos quince minutos de la hora y fecha fijada para la celebración de la Asamblea en primera Convocatoria. Para la celebración de la Asamblea en tercera o ulterior Convocatoria deberá mediar el mismo plazo señalado.
 
-Los Condóminos podrán convocar a asamblea, sin intervención del Administrador, cuando acrediten ante juez competente o notario público, que representan como mínimo el 25% del indiviso del Condominio. También el comité de vigilancia podrá convocar a Asamblea, según lo previene el artículo 43 fracción X.
+En los casos anteriores, las resoluciones se tomarán por mayoría simple de los presentes, con excepción de los asuntos que por Ley o por disposición del Reglamento requieran una mayoría específica para ser aprobados.
 
-En casos de suma urgencia, se convocará a asamblea con la anticipación que las circunstancias lo exijan.
+Los condóminos o sus representantes, serán notificados mediante la Convocatoria que efectúe el Administrador en el domicilio convencional de cada Condómino o a través de la publicación de la Convocatoria en uno o más lugares visibles del Condominio.
 
-Las determinaciones adoptadas por las Asambleas en los términos de esta Ley, la Escritura Constitutiva, el Reglamento del Condominio y de las demás disposiciones legales aplicables, obligan a todos los Condóminos, incluyendo a los ausentes y disidentes.
+Los Condóminos podrán convocar a Asamblea, sin intervención del Administrador, cuando acrediten ante Juez competente que representan como mínimo el 25% del indiviso del Condominio.
+
+En casos de suma urgencia, se convocará a Asamblea con la anticipación que las circunstancias lo exijan.
+
+Las determinaciones adoptadas por las Asambleas en los términos de esta Ley, la Escritura Constitutiva, el Reglamento y de las demás disposiciones legales aplicables, obligan a todos los Condóminos, incluyendo a los ausentes y disidentes.
 
 ###### Artículo 34.
 
@@ -511,7 +661,9 @@ La asamblea de Condóminos tendrá las siguientes facultades:
 
 I.- Modificar la Escritura Constitutiva del Condominio y aprobar o reformar el Reglamento del mismo, debiéndose inscribir éstas en el Registro Público de la Propiedad en los casos y condiciones que prevean la una y el otro;
 
-II.- Nombrar y remover libremente al Administrador o Administradores, en los términos de la presente Ley, de la Escritura Constitutiva y el Reglamento del Condominio, excepto a los que funjan por el primer año, que serán designados por quienes otorguen la Escritura Constitutiva del Condominio;
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE AGOSTO DE 2016)</small>
+
+II.- Nombrar y remover al Administrador o Administradores, en los términos de la presente Ley y del Reglamento.
 
 El Administrador o Administradores podrán ser o no alguno de los Condóminos y la Asamblea de éstos fijará la remuneración relativa, que podrá renunciarse por algún condómino que acepte servir gratuitamente el cargo;
 
@@ -535,19 +687,17 @@ XI.- Adoptar las medidas conducentes sobre los asuntos de interés común que no
 
 XII.- Las demás que le confieren la presente Ley, el Reglamento del Condominio, la Escritura Constitutiva, y demás disposiciones aplicables.
 
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 36.
 
-La falta de pago por parte de los Condóminos de las cuotas para el fondo de mantenimiento y administración y para el fondo de reserva, suspenderá su derecho a voto en tanto subsista la falta de pago, siempre y cuando esta decisión se adopte por acuerdo de la asamblea de Condóminos.
-
-Sin embargo, el condómino cuyo derecho de voto esté suspendido, su representante, o en su caso, el ocupante debidamente facultado, podrá asistir libremente a las Asambleas y emitir su opinión respecto de los asuntos que se ventilen en las mismas.
-
-En este supuesto, el indiviso que corresponda a la Unidad de Propiedad Exclusiva cuyo propietario u ocupante haya incumplido, no será considerado para los efectos de la instalación de la asamblea.
+La Asamblea podrá aprobar la suspensión del derecho de voto y de voz de aquellos Condóminos que se encuentren en incumplimiento con él Reglamento o con el pago de las cuotas para el fondo de mantenimiento y administración y para el fondo de reserva, o con cualquier otra obligación monetaria a su cargo incluyendo los intereses moratorios, penas convencionales y cualquier otros (sic) gasto de cobranza previstas en la Ley, la Escritura Constitutiva, el Reglamento o en las resoluciones aprobadas por la Asamblea.
 
 ### CAPÍTULO II. Del Nombramiento y Facultades de los Administradores
 
 ###### Artículo 37
 
-- (sic) Los Condominios serán administrados por la persona física o moral que designe la asamblea en los términos de esta Ley, y del Reglamento del Condominio.
+- Los Condominios serán administrados por la persona física o moral que designe la asamblea en los términos de esta Ley, y del Reglamento del Condominio.
 
 Para desempeñar el cargo de Administrador deberá acreditar experiencia en administración condominal, o en su caso acreditar haber tomado cursos de capacitación en materia de administración de Condominios. Este requisito podrá ser dispensado por la asamblea mediante el voto de los Condóminos que represente el 75% del indiviso del Condominio.
 
@@ -565,7 +715,25 @@ Cuando la asamblea decida contratar servicios profesionales para la administraci
 
 Corresponderá al Administrador:
 
-I.- Llevar un libro de actas de asamblea, debidamente autorizado por el comité de vigilancia;
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+I.- Llevar un libro de actas de Asamblea, un libro de registro de Condóminos y un libro de registro de invitados de los Condóminos, todos debidamente autorizados por el Comité de Vigilancia.
+
+De manera enunciativa el libro de registro de condóminos deberá contener:
+
+a) El nombre completo del Condómino;
+
+b) El nombre de la persona que fungirá como representante del Condómino; en el caso de Unidades de Propiedad Exclusiva de varios condóminos, el nombre de una sola persona autorizada para emitir su voto en Asamblea;
+
+c) El domicilio convencional que al efecto designe el Condómino paro el efecto de oír y recibir todo tipo de notificaciones, citaciones y emplazamientos relacionados con controversias que surjan por incumplimientos a la presente Ley, la Escritura Constitutiva o el Reglamento;
+
+d) La dirección de correo electrónico que el condómino señale para efecto de recibir y enviar comunicaciones con el Administrador o el Comité de Vigilancia. La comunicación que envíe o reciba el Condómino por este medio electrónico surtirá los mismos efectos como si el Condómino hubiera recibido la comunicación en forma personal y por escrito bastando una certificación que de ello realice el Administrador;
+
+e) El registro de firma del Condómino;
+
+f) En caso de que un Condómino omita registrarse en el libro de registro de Condóminos, cualquier tipo de comunicación, citación, notificación o emplazamiento, le será efectuada y surtirá efectos mediante la publicación que efectúe el Administrador, o por la autoridad gubernamental respectiva, en uno o más lugares visibles del Condominio, y
+
+g) Las firmas del Administrador y del presidente del Comité de Vigilancia.
 
 II.- Cuidar, vigilar y mantener en buen estado los bienes de uso común del Condominio, instalaciones y los servicios comunes, así como promover la integración organización y desarrollo de la comUnidad (sic).
 
@@ -587,7 +755,9 @@ VIII.- Efectuar los gastos de mantenimiento y administración del Condominio, co
 
 IX.- Otorgar recibo a cada uno de los Condóminos por las cantidades que hayan aportado en el mes anterior tanto para el fondo de mantenimiento y administración, como para el fondo de reserva u otro concepto; en estos recibos se expresarán, en su caso, los saldos en liquidación a cargo de cada condómino;
 
-X.- Entregar de manera mensual, bimestral o cuando así lo determine la Asamblea a cada condómino, recabando constancia de quien lo reciba, un estado de cuenta que muestre:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE AGOSTO DE 2016)</small>
+
+X.- Entregar de manera mensual o bimestral o anual o cuando así lo determine la Asamblea a cada Condómino, recabando constancia de quien lo reciba, un estado de cuenta que muestre:
 
 a) Relación pormenorizada de cobranza y de los gastos del mes o meses anteriores efectuados con cargo al fondo de mantenimiento y administración;
 
@@ -611,13 +781,17 @@ XV.- En relación con los bienes comunes del Condominio, el Administrador tendr�
 
 De manera mancomunada con el Presidente del Comité de Vigilancia, aperturar cuentas de cheques, librar cheques y cuando así lo acuerde la Asamblea, designar firmas autorizadas para el manejo de dichas cuentas;
 
-XVI.- Cumplir con lo establecido en la Ley de Protección Civil y en su Reglamento. Las medidas que adopte y las disposiciones que emita el Administrador dentro de sus funciones y con base en la ley y el Reglamento del Condominio, serán obligatorias para todos los Condóminos. La asamblea, por la mayoría que fije el Reglamento del Condominio, podrá modificar o revocar dichas medidas y disposiciones del Administrador; y
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+XVI.- Cumplir con las disposiciones legales y administrativas en materia de Protección Civil. Las medidas que adopte y las disposiciones que emita el Administrador dentro de sus funciones y con base en la Ley y el Reglamento, serán obligatorias para todos los Condóminos. La Asamblea, por la mayoría que fije el Reglamento, podrá modificar o revocar dichas medidas y disposiciones del Administrador, y
 
 XVII.- Realizar las demás funciones y cumplir con las obligaciones que establezcan a su cargo la Escritura Constitutiva, el Reglamento del Condominio la presente Ley, y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 41.
 
-Cuando la asamblea de Condóminos designe una nueva administración, la administración saliente estará obligada a entregar a la administración entrante, en un término que no exceda de siete días naturales al día de la designación, todos los documentos relativos al Condominio, incluyendo los estados de cuenta, chequeras, libro de actas, de registro de Condóminos, valores tanto en efectivo como en documentos, contratos, bienes muebles, inmuebles y demás bienes que tuviera bajo su resguardo y responsabilidad, la cual sólo podrá posponerse por resolución judicial, so pena del pago de daños y perjuicios que pudiera ocasionar, sin perjuicio de las demás acciones civiles y penales que pudieran ejercitarse en su contra de conformidad con la legislación vigente. De la entrega a que hace referencia el presente artículo deberá levantarse acta circunstanciada, misma que deberá ser firmada por las personas que en ella intervengan.
+Cuando la Asamblea designe una nueva administración, el Administrador saliente estará obligado a entregar al entrante, en un término que no exceda de siete días naturales a partir del día de la designación, todos los documentos relativos al Condominio incluyendo los estados de cuenta, chequeras, libro de actas, de registro de Condóminos, de registro de invitados, valores, contratos, bienes muebles, inmuebles y en general toda documentación que obre en los archivos propios del Condominio y que por motivo de su encargo tuviera bajo su resguardo y responsabilidad. Esta obligación sólo podrá posponerse por resolución judicial, so pena del pago de daños y perjuicios que pudiera ocasionar y sin perjuicio de las demás acciones civiles y penales que pudieran ejercitarse en su contra en términos de la legislación vigente. La entrega a que hace referencia este artículo deberá asentarse en acta circunstanciada y firmada por las personas que en ella intervengan.
 
 La asamblea en todo momento podrá determinar la práctica de auditoria documental, financiera y contable a la administración del Condominio en funciones y a la saliente.
 
@@ -649,7 +823,7 @@ La elección del comité de vigilancia general del Condominio Maestro, se regula
 
 El comité de vigilancia, podrá constituirse con el número impar de personas que determine la asamblea del Condominio dependiendo del número de Unidades de Propiedad Exclusiva, y se designarán un presidente, un primer vocal, un segundo vocal y así sucesivamente, mismos que actuarán en forma colegiada. En este último caso, una minoría que represente por lo menos el 25% del número total de Condóminos tendrá derecho a designar a uno de los miembros del comité.
 
-El comité de vigilancia tendrá las siguientes funciones y obligaciones; (sic)
+El comité de vigilancia tendrá las siguientes funciones y obligaciones;
 
 I.- Cerciorarse de que el Administrador cumpla con los acuerdos de la asamblea de Condóminos respectiva;
 
@@ -667,7 +841,9 @@ VII.- Dar cuenta a la asamblea de sus observaciones sobre la administración del
 
 VIII.- Coadyuvar con el Administrador en observaciones a los Condóminos sobre el cumplimiento de sus obligaciones;
 
-IX.- Convocar a asamblea de Condóminos, cuando éstos lo hayan requerido al Administrador y él no lo haga dentro de los tres días siguientes a la petición.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE AGOSTO DE 2016)</small>
+
+IX.- Convocar a Asamblea de Condóminos cuando estos lo hayan requerido al administrador y él no lo haga dentro de los tres días siguientes a la petición, siempre y cuando estos representen como mínimo el 25% del indiviso del Condominio.
 
 Asimismo, cuando a su juicio sea necesario informar a la asamblea de irregularidades en que haya incurrido el Administrador, con notificación a éste para que comparezca a la asamblea relativa;
 
@@ -745,25 +921,35 @@ En el caso de las fracciones III y IV, la asamblea determinará anualmente el po
 
 Las cuotas para gastos comunes que se generen a cargo de cada condómino y que no cubran oportunamente en las fechas y bajo las formalidades establecidas en asamblea o en el Reglamento del Condominio de que se trate, causaran intereses al tipo que fije el mismo Reglamento y no serán capitalizables; independientemente de las sanciones a que se hagan acreedores los Condóminos por motivo de su incumplimiento en el pago.
 
-Trae aparejada ejecución en la vía ejecutiva civil, el estado de cuenta que refleje los adeudos existentes, intereses moratorios y/o pena convencional que estipule el Reglamento del Condominio, si va suscrita por el Administrador y el presidente del comité de vigilancia, acompañada de los correspondientes recibos pendientes de pago, así como de copia certificada por notario público del acta de asamblea relativa y/o del Reglamento del Condominio en su caso, en que se hayan determinado las cuotas a cargo de los Condóminos para el fondo de mantenimiento y administración y para el fondo de reserva. Esta acción sólo podrá ejercerse cuando existan tres cuotas ordinarias o una extraordinaria pendientes de pago.
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
+Trae aparejada ejecución en lo vía ejecutiva civil el estado de cuenta que refleje los adeudos existentes, los intereses moratorios y/o la pena convencional que estipule el Reglamento, si va suscrita por el Administrador y el Presidente del Comité de Vigilancia, acompañada de los correspondientes recibos pendientes de pago, de una copia certificada por notario público del Reglamento, así como de una copia certificada del Acta de Asamblea en que se hayan determinado las cuotas a cargo de los Condóminos para el fondo de mantenimiento y administración y para el fondo de reserva y en su caso, de la copia certificada por el Administrador y por el Presidente del Comité de Vigilancia de la hoja del libro de registro de Condóminos en la que se desprenda el domicilio convencional proporcionado por el Condómino que se encuentra en morosidad. Esta acción sólo podrá ejercerse cuando existan tres mensualidades de cuotas ordinarias o una extraordinaria sin haber sido cubiertas. El Condómino moroso será emplazado a juicio en el domicilio convencional registrado en el libro de registro de Condóminos, mediante la publicación que se efectúe en uno o más lugares visibles del Condominio o, en su defecto, siguiendo las reglas para el emplazamiento previstas en el derecho común. Para el ejercicio de esta acción no es necesario acuerdo previo de la Asamblea.
 
 El Reglamento del Condominio podrá establecer que, cuando algún condómino incurra en mora, el Administrador distribuirá entre los restantes Condóminos el importe del adeudo causado y que se siga causando, en proporción al valor de sus propiedades, hasta la recuperación del adeudo, pudiendo preverse diversas penalizaciones para hacer exigible el pago. Al efectuarse la recuperación de dicho adeudo el Administrador reembolsará a los afectados por dicho cargo las cantidades que hubiesen aportado y los intereses en la parte proporcional que les corresponda.
 
-Cuando los servicios que se disfruten en áreas privativas sean pagados con recursos del fondo de mantenimiento y administración o del fondo de reserva del Condominio, el Administrador podrá suspender los mismos al condómino que no cumpla oportunamente con el pago de las cuotas de mantenimiento y administración o el de reserva, previa autorización del comité de vigilancia, excepto cuando se trate del servicio de agua.
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
+Cuando los servicios que se disfruten en Unidades de Propiedad Exclusiva del Condominio y/o Sub-condomino y/o Condominio Maestro sean pagados con recurso del fondo de mantenimiento y administración o del fondo de reserva, el Administrador podrá suspender dichos servicios al Condómino que no cumpla oportunamente con el pago de las cuotas de mantenimiento y administración o el de reserva o bien, cuando se infrinja el Reglamento, incluyendo, más no limitando, a la suspensión de acceso a aéreas comunes, seguridad privada, recolección de aguas negras y otros servicios relacionados. En cuanto al servicio de agua potable este podrá ser afectado por el administrador solo en aquellos casos donde la infraestructura de la red de agua potable del Condominio no haya sido entregada al organismo operador del Municipio correspondiente, y cuando exista falta de pago de las cuotas por este servicio conforme a lo siguiente:
+
+I.- En caso de uso doméstico, ocasionara la limitación del servicio de agua potable al mínimo indispensable, y
+
+II.- Usuarios no domésticos, ocasionara lo suspensión total del servicio de agua potable hasta que se regularice su pago. No se requiere aprobación previa de la Asamblea para el ejercicio de la atribución mencionada en este párrafo.
+
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 48.
 
-El condómino que reiteradamente no cumpla con sus obligaciones e incurra en violaciones a la presente Ley, a la Escritura Constitutiva y al Reglamento del Condominio, independientemente de ser responsable de los daños y perjuicios que cause a los demás, podrá ser demandado para que se le obligue a vender sus derechos hasta en subasta pública, respetándose el de preferencia o el del tanto, en su caso.
-
-El ejercicio de esta acción será resuelto en la asamblea extraordinaria de Condóminos, por acuerdo aprobatorio de quienes representen un mínimo del 75% del indiviso del Condominio. A dicha Asamblea también será convocado el condómino moroso o infractor, a fin de que exprese lo que a su derecho convenga.
+El Condómino que dentro de un periodo de doce meses no cumpla en dos o más ocasiones con sus obligaciones e incurra en violaciones a la presente Ley, a la Escritura Constitutiva y al Reglamento, independientemente de ser responsable de los daños y perjuicios que cause a los demás, podrá ser demandado para que se le obligue a vender sus derechos hasta en subasta pública, respetándose el de preferencia o el del tanto, en su caso. El ejercicio de esta acción requerirá autorización previa de la Asamblea y con mayoría simple.
 
 ###### Artículo 49.
 
 Si un ocupante no propietario incumple las obligaciones a su cargo o comete violaciones al Reglamento del Condominio, el Administrador formulará demanda contra éste y contra el condómino propietario, en los términos del artículo anterior.
 
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 50.
 
-Cuando se celebre un contrato de compraventa en relación a una Unidad de Propiedad Exclusiva, el notario publico que elabore la escritura respectiva deberá exigir a la parte vendedora una constancia de no adeudo, entre otros, del pago de las cuotas de mantenimiento y administración y el de reserva, debidamente firmada por el Administrador.
+Cuando se celebre un contrato de compraventa respecto a una Unidad de Propiedad Exclusiva, el notario público que elabore la escritura respectiva deberá exigir a la parte vendedora una constancia de no adeudo, entre otros, del pago de las cuotas de mantenimiento y administración y el fondo de reserva, debidamente firmada por el Administrador. Adicionalmente en aquellos Regímenes en Condominio que existan guías de diseño para la construcción de las diferentes edificaciones, deberán de presentar una constancia de cumplimiento, entre otros, de las guías de diseño debidamente firmada por el Administrador. No procederá el registro del comprador en el libro de registro de Condóminos en tanto no se agoten dichos requisitos.
 
 ###### Artículo 51.
 
@@ -785,9 +971,13 @@ Todo interesado podrá obtener del Administrador una liquidación de los adeudos
 
 Para proceder legalmente se estará a lo dispuesto en el segundo párrafo del artículo 48 de esta Ley.
 
-## TÍTULO QUINTO. DEL CONDOMINIO DE CARACTER VECINAL
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 20 DE AGOSTO DE 2016)</small>
 
-### CAPÍTULO ÚNICO
+## TÍTULO QUINTO. DEL CONDOMINIO DE CARACTER VECINAL Y DEL CONDOMINIO TURÍSTICO RESIDENCIAL
+
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO I. DEL CONDOMINIO DE CARÁCTER VECINAL
 
 ###### Artículo 54.
 
@@ -835,7 +1025,73 @@ Para el cumplimiento de las funciones encomendadas en el artículo anterior, los
 
 Los requisitos que se eximan expresamente en las declaratorias a que se refiere el artículo 6° de esta Ley, para la constitución del régimen de propiedad en Condominio de carácter vecinal, no serán sustituidos por contribuciones, impuestos o derechos de cualquier índole o naturaleza.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 20 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO II. DEL CONDOMINIO TURÍSTICO RESIDENCIAL
+
+> <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
+###### Artículo 61 Bis.
+
+Corresponde al constituyente al constituir el régimen de propiedad en condominio, optar por la forma de regulación bajo la modalidad de régimen de propiedad en condominio Turístico Residencial, el cual se regirá por las disposiciones de la presente Ley y del Reglamento del Condominio y/o Sub-condominio y/o Condominio Maestro Turístico Residencial, según sea el caso.
+
+> <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
+###### Artículo 61 Ter.
+
+Al optarse por la forma de regulación bajo la modalidad de Régimen de Propiedad en Condominio Turístico Residencial, la Escritura Constitutiva y el Reglamento del Condominio y/o Sub-condominio y/o Condominio Maestro Turístico Residencial, según sea el caso, podrá contener, entre otras, las siguientes disposiciones:
+
+I.- Que la Administración del Condominio y/o Sub-condominio y/o Condominio Maestro esté a cargo del Constituyente o de quien este último designe, durante el tiempo y bajo los términos que se establezcan en la Escritura Constitutiva o en el Reglamento que corresponda. Sin embargo, una vez que se haya enajenado por el Constituyente el setenta y cinco (75%) de la Unidades de Propiedad Exclusiva del Condominio y/o Sub-condominio y/o Condominio Maestro, según sea el caso, su administración podrá ser elegida y removida por la Asamblea de Condóminos en los términos de esta Ley con independencia de lo que se haya establecido en la Escritura Constitutiva o en el Reglamento;
+
+II.- Las causas y el procedimiento de remoción del Administrador del Condominio y/o Sub-condominio y/o Condominio Maestro serán previstos en el Reglamento que corresponda;
+
+III.- En caso de infracciones al Reglamento del Condominio y/o Sub-condominio y/o Condominio Maestro, o en caso de falta de pago total o parcial de cuotas de mantenimiento y administración, o cuotas extraordinarias o fondo de reserva por parte de los Condóminos, estos últimos, podrán ser sujetos de sanciones económicas establecidas en dicho Reglamento, sin menoscabo de las sanciones previstas en esta u otras Leyes, y de cualquier otra medida legal aplicable;
+
+IV.- Cuando los servicios que se disfruten en Unidades de Propiedad Exclusiva del Condominio y/o Sub-condominio y/o Condominio Maestro sean pagados con recursos del fondo de mantenimiento y administración o del fondo de reserva, el Administrador podrá suspender dichos servicios al Condómino que no cumpla oportunamente con el pago de las cuotas de mantenimiento y administración o el de reserva o bien, cuando se infrinja el Reglamento, incluyendo, mas no limitando, a la suspensión de acceso a Áreas Comunes, seguridad privada, recolección de aguas negras y otros servicios relacionados. En cuanto al servicio de agua potable este podrá ser afectado por el administrador solo en aquellos casos donde la infraestructura de la red de agua potable del Condominio no haya sido entregada al organismo operador del Municipio correspondiente, y cuando exista falta de pago de las cuotas por este servicio conforme a lo siguiente:
+
+a) En caso de uso doméstico, ocasionara la limitación del servicio de agua potable al mínimo indispensable, y
+
+b) Usuarios no domésticos, ocasionara la suspensión total del servicio de agua potable hasta que se regularice su pago. No se requiere aprobación previa de la Asamblea para el ejercicio de la atribución mencionada en este párrafo;
+
+V.- El voto de cada Condómino en las Asambleas del Condominio y/o Sub-condominio y/o Condominio Maestro, podrá ser emitido mediante correo electrónico en los casos así contemplados en la Escritura Constitutiva o el Reglamento que corresponda, de conformidad con lo establecido en la presente Ley;
+
+VI.- La forma y lugar de pago de cuotas de mantenimiento y administración y/o cuotas extraordinarias y/o fondo de reserva, podrán ser establecidos en la Escritura Constitutiva o en el Reglamento del Condominio y/o Sub-condominio y/o Condominio Maestro en su caso;
+
+VII.- El número de Unidades de Propiedad Exclusiva que integren los Sub-condominios correspondientes, dentro de la Escritura Constitutiva del Condominio Maestro;
+
+VIII.- Las reglas de conducta, ocupación y de uso dentro y fuera de las Unidades de Propiedad Exclusiva dentro del Condominio y/o Sub-condominio y/o Condominio Maestro, incluyendo enunciativa mas no limitativamente restricciones sobre la tenencia de mascotas, eventos de Ocupantes y/o Condóminos, ruidos e iluminación dentro de las Unidades de Propiedad Exclusiva, así como determinar la imagen, iluminación, tipo de fachadas y cualquier elemento de diseño exterior de las Unidades de Propiedad Exclusiva;
+
+IX.- Las reglas para la convocatoria, celebración y toma de decisiones en las Asambleas de Condóminos dentro del Condominio, Sub-condominio o Condominio Maestro; así como el valor del voto de cada Condómino podrá ser calculado ya sea con base al número de Unidades de Propiedad Exclusiva de las que cada Condómino sea propietario, o con base al porcentaje de indiviso que cada Unidad de Propiedad Exclusiva represente en el Condominio, Sub-condominio o Condominio Maestro en su caso;
+
+X.- El pago de cuotas ordinarias de mantenimiento y administración y el establecimiento del fondo de reserva por parte de cada Condómino, podrá ser calculado en proporción al número de Unidades de Propiedad Exclusiva existentes en el Condominio y/o Sub-condominio, independientemente del porcentaje de indiviso que cada Unidad de Propiedad Exclusiva represente en el Condominio y/o Sub-condominio y/o Condominio Maestro en su caso. Para la determinación del pago de cuotas extraordinarias, la votación se llevará cabo en función del porcentaje de indiviso que cada Unidad de Propiedad Exclusiva represente en el Condominio y/o Sub-condominio y/o Condominio Maestro en su caso;
+
+XI.- El voto por parte de los acreedores de los Condóminos deudores, en la Asamblea del Condominio y/o Sub-condominio y/o Condominio Maestro, cuando así lo convengan por escrito el condómino deudor y su acreedor, y
+
+XII.- Que el Administrador del Condominio, y/o Sub-condominio y/o Condominio Maestro pueda contar con la autorización expresa y permanente para ejercitar cualquier acción legal en contra de los Ocupantes y/o Condóminos que incumplan con las obligaciones a su cargo establecidas en esta Ley y/o en el Reglamento del Condominio y/o Sub-condominio y/o Condominio Maestro, sin necesidad de autorización previa por parte de la Asamblea, incluyendo enunciativa mas no limitativamente la autorización para ejercitar acción legal en contra de los Condóminos que incumplan con el pago de cuotas de mantenimiento y administración y/o cuotas extraordinarias y/o fondo de reserva.
+
+> <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
+###### Artículo 61 Quater.
+
+El Constituyente podrá estar exento de pago de cuotas de mantenimiento y administración y/o cuotas extraordinarios y/o fondo de reserva respecto de las Unidades de Propiedad Exclusiva, que no hayan sido enajenadas bajo cualquier título, o cuyo uso, goce o disfrute hubiese sido trasmitido por el Constituyente a terceros, si así se establece en el Reglamento del Condominio y/o Sub-condominio y/o Condominio Maestro Turístico Residencial, y que adicionalmente:
+
+I.- No cuenten con un camino de acceso;
+
+II.- Que no cuenten con infraestructura de servicios básicos a pie de lote, y
+
+III.- Que no se esté llevando a cabo movimientos de tierra.
+
+El Constituyente podrá estar exento de pago del fondo de reserva respecto de la Unidad de Propiedad Exclusiva que no hayan sido enajenadas bajo cualquier título, o cuyo uso, goce o disfrute hubiese sido trasmitido por el Constituyente a terceros, si así se establece en el Reglamento del Condominio y/o Sub-condominio y/o Condominio Maestro Turístico Residencial.
+
+> <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
+###### Artículo 61 Quinquies.
+
+El Constituyente podrá optar por la modalidad de régimen de propiedad en condominio Turístico Residencial establecido en el Título Quinto, Capitulo II de esta Ley, únicamente en los siguientes supuestos:
+
+I.- En proyectos, desarrollos o cualesquier nominación otorgada por la legislación aplicable, con fines residenciales y/o comerciales en donde el monto de inversión en obra de construcción y costo del terreno en forma conjunta sea superior a 965,000 veces la Unidad de Medida y Actualización Diaria Vigente en el Estado de Baja California Sur, o
+
+II.- En proyectos, desarrollos o cualesquier nominación otorgada por la legislación aplicable, con fines preponderantemente turísticos, y que, a consideración de la autoridad municipal y estatal correspondiente, tengan un impacto económico importante para el Municipio que corresponda.
 
 ## TÍTULO SEXTO. DE LA CULTURA CONDOMINAL
 
@@ -875,9 +1131,11 @@ Los Condóminos minoritarios que decidan no llevar a cabo la reconstrucción, o 
 
 Para efectos del párrafo que antecede, la Asamblea de Condóminos podrá acordar la compraventa de derechos de propiedad y copropiedad, para efectos de aumentar las Áreas Comunes del Condominio, incrementándose en consecuencia, el valor de los derechos de copropiedad de los Condóminos adquirientes en cuyo caso, deberá hacerse la modificación que corresponda en la Escritura Constitutiva.
 
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 67.
 
-De conformidad con las disposiciones de este Título si se optare por la extinción total del régimen, se deberá asimismo decidir sobre la división de los bienes comunes o su venta.
+De conformidad con las disposiciones de este Título, si se optare por la extinción total del régimen, se deberá asimismo decidir sobre la división de los bienes comunes o su venta. Serán aplicables, en lo conducente, las reglas para la disolución y liquidación previstas en el derecho común.
 
 ## TÍTULO OCTAVO. DE LA DELIMITACIÓN DE ACCESOS EN CASO DE CONLINDANCIA CON ZONA FEDERAL MARÍTIMO TERRESTRE
 
@@ -895,15 +1153,19 @@ En caso de existir varios Condominios por donde pueda darse el paso a dichos bie
 
 ## TÍTULO NOVENO. DE LAS SANCIONES
 
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 70.
 
 La contravención a las disposiciones de esta Ley, dará lugar a la imposición de las siguientes sanciones económicas, dictadas por resolución judicial o administrativa en el ámbito de sus respectivas competencias:
 
-I.- Con multa por el equivalente a diez días de salario mínimo general vigente en el Estado, el incumplimiento de lo dispuesto por los artículos 21 y 25 fracciones IV y IX;
+I.- Con multa por el equivalente a diez veces la Unidad de Medida y Actualización Diaria Vigente en el Estado, el incumplimiento de lo dispuesto por los artículos 21 y 25 fracciones IV y IX;
 
-II.- Con multa por el equivalente a veinte días de salario mínimo general vigente en el Estado, el incumplimiento de lo dispuesto por el artículo 25, fracciones II, V, y VI; y
+II.- Con multa por el equivalente a veinte veces la Unidad de Medida y Actualización Diaria Vigente en el Estado, el incumplimiento de lo dispuesto por el artículo 25, fracciones II, V, y VI, y
 
-III.- Con multa por el equivalente a treinta días de salario mínimo general vigente en el Estado, el incumplimiento de lo dispuesto por los artículos 9°, último párrafo solo para el caso del Administrador, 25, fracciones I, III, VII y VIII; 29 segundo párrafo; 40, cuando el Administrador durante su gestión causare un daño patrimonial, en perjuicio de los Condóminos o en los bienes comunes del Condominio; 41, primer párrafo y 68 primer párrafo.
+III.- Con multa por el equivalente a treinta veces la Unidad de Medida y Actualización Diaria Vigente en el Estado, el incumplimiento de lo dispuesto por los artículos 9°, último párrafo solo para el caso del Administrador, 25, fracciones I, III, VII y VIII; 29 segundo párrafo; 40, cuando el Administrador durante su gestión causare un daño patrimonial, en perjuicio de los Condóminos o en los bienes comunes del Condominio; primer párrafo del 41 y 68.
 
 En los casos de reincidencia, se aplicará hasta el doble del máximo de la sanción originalmente impuesta.
 
@@ -942,3 +1204,15 @@ NARCISO AGÚNDEZ MONTAÑO
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 NABOR GARCÍA AGUIRRE
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 20 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2363 SE REFORMAN LAS FRACCIONES VI Y VII, Y SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 25 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR; SE REFORMAN LOS ARTÍCULOS 1°, 2° FRACCIONES I, II, III, VI, VII, VIII, IX, XI, XIII, XIV Y XV, PRIMER PÁRRAFO DEL 4°, PRIMER PÁRRAFO DEL 5°, 6°, 21, PRIMER PÁRRAFO 32, 33, FRACCIÓN II DEL 35, 36, LA FRACCIÓN I, PRIMER PÁRRAFO DE LA FRACCIÓN X Y LA FRACCIÓN XVI DEL 40, PRIMER PÁRRAFO DEL 41, PRIMER PÁRRAFO DE LA FRACCIÓN IX DEL 44, SEGUNDO Y CUARTO PÁRRAFO DEL 47, 48, 50 LA DENOMINACIÓN DEL TÍTULO QUINTO, LA IDENTIFICACIÓN Y DENOMINACIÓN DEL CAPÍTULO ÚNICO DEL TÍTULO QUINTO, Y LOS ARTÍCULOS 67 Y 70; SE ADICIONAN LAS FRACCIONES VIII BIS Y XI BIS AL ARTÍCULO 2°, UNA FRACCIÓN IV AL ARTÍCULO 5°, UN ARTÍCULO 32 BIS, EL CAPÍTULO II AL TÍTULO QUINTO, Y LOS ARTÍCULOS 61 BIS, 61 TER, 61 QUATER Y 61 QUINQUIES A LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Los regímenes de propiedad en condominio constituidos con anterioridad a la entrada en vigor del presente Decreto, seguirán rigiéndose bajo los términos de su Escritura Constitutiva y Reglamento correspondiente.
