@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2015-11-12"
+last_updated: "2016-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -1419,7 +1419,9 @@ I. Por licencia del Presidente Municipal mayor a dos meses;
 
 II. Por suspensión del mandato; o
 
-III. Por declaración de procedencia de juicio penal en los términos del artículo 41 de la ley estatal en materia de responsabilidades de los servidores públicos.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2016)</small>
+
+III. Por privación de la libertad con motivo de un proceso penal.
 
 > <small>(REFORMADO, P.O. 3 DE ABRIL DE 2008)</small>
 
@@ -2381,15 +2383,11 @@ Para los efectos de las responsabilidades a que alude este capítulo, se conside
 
 La acción para exigir dichas responsabilidades puede ejercitarse, durante el desempeño del cargo y dentro de los plazos establecidos en la ley estatal en materia de responsabilidades de los servidores públicos.
 
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 143.
 
-Cuando algún miembro del Ayuntamiento comete un delito del orden común no puede ser procesado, sino previo el cumplimiento de los requisitos establecidos en la ley estatal en materia de responsabilidades de los servidores públicos, a través del procedimiento establecido al respecto en dicha ley.
-
-En los juicios del orden civil, ningún servidor público municipal goza de fuero o inmunidad.
+Cuando algún miembro del Ayuntamiento comete un delito del orden común deberá ser procesado en los términos de la legislación penal.
 
 ### CAPITULO I. De los Principios Generales
 
@@ -2661,7 +2659,7 @@ El Concejo Municipal iniciará sus funciones el día 1º de enero del año 2006.
 
 Sexto. En su primera sesión ordinaria el Concejo Municipal de Capilla de Guadalupe deberá nombrar al servidor público encargado de la Secretaría del Ayuntamiento y al funcionario encargado de la Hacienda Municipal.
 
-Séptimo. El Ayuntamiento de Tepatitlán de Morelos, seguirá ejerciendo sus funciones en la demarcación correspondiente al nuevo municipio, hasta la entrada en funciones del Consejo Municipal de Capilla de Guadalupe.
+Séptimo. El Ayuntamiento de Tepatitlán de Morelos, seguirá ejerciendo sus funciones en la demarcación correspondiente al nuevo municipio, hasta la entrada en funciones del Concejo Municipal de Capilla de Guadalupe.
 
 Octavo. Efectuada la designación por parte del Congreso del Estado, los integrantes del Concejo Municipal recibirán del Ayuntamiento de Tepatitlán de Morelos toda la información y documentación de las delegaciones, comunidades y poblaciones que componen al nuevo municipio, necesaria para el buen desempeño de la nueva administración municipal, incluyendo los padrones de contribuyentes, proveedores, acreedores y las cuentas catastrales de la nueva jurisdicción municipal.
 
@@ -2930,3 +2928,9 @@ P.O. 22 DE AGOSTO DE 2015.
 P.O. 12 DE NOVIEMBRE DE 2015.
 
 Único. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 20 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25861/LXI/16 QUE REFORMA LA DENOMINACIÓN DEL TÍTULO CUARTO Y LOS ARTÍCULOS 1, 46, 48, 49, 52, 55 Y 60, DEROGA LOS ARTÍCULOS 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42 Y 43, DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS; REFORMA LOS ARTÍCULOS 99 Y 108 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; REFORMA EL ARTÍCULO 9 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; REFORMA EL ARTÍCULO 31 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO; REFORMA LOS ARTÍCULOS 69 Y 143 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO 33 DE LA LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y EL 196 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
