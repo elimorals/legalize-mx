@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2016-07-09"
+last_updated: "2016-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2016.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -2119,7 +2119,9 @@ II. Las políticas, planes y programas que se celebren para la conservación, pr
 
 1. Corresponde a la Comisión de Responsabilidades el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
 
-I. Los juicios políticos y juicios de procedencia penal, de acuerdo con la ley aplicable;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2016)</small>
+
+I. Los juicios políticos, de acuerdo con la ley aplicable;
 
 II. Los procedimientos de responsabilidad administrativa, de acuerdo con la Ley de Responsabilidades de los Servidores Públicos;
 
@@ -2317,9 +2319,9 @@ XX. Las demás que establezca esta ley y otras disposiciones legales aplicables.
 
 I. La iniciativa o asunto requiera, a juicio de la comisión, plazo mayor; caso en el que pueda solicitar a la Asamblea autorice la prórroga para dictaminar, dentro de un plazo no mayor a treinta días naturales seguidos a la concesión, o
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2016)</small>
 
-II. Se trate de juicios políticos o de procedencia de juicio penal, en cuyo caso se regirán por los términos y plazos que señala la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+II. Se trate de juicios políticos, en cuyo caso se regirá por los términos y plazos que señala la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
 
 > <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2005)</small>
 
@@ -4422,3 +4424,9 @@ P.O. 9 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 25850/LXI/16 QUE REFORMA LOS ARTÍCULOS 33 Y 34 Y ADICIONA UN ARTÍCULO 34 BIS DE LA LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO, ASÍ COMO SE REFORMA EL ARTÍCULO 79 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 20 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25861/LXI/16 QUE REFORMA LA DENOMINACIÓN DEL TÍTULO CUARTO Y LOS ARTÍCULOS 1, 46, 48, 49, 52, 55 Y 60, DEROGA LOS ARTÍCULOS 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42 Y 43, DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS; REFORMA LOS ARTÍCULOS 99 Y 108 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; REFORMA EL ARTÍCULO 9 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PUBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; REFORMA EL ARTÍCULO 31 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO; REFORMA LOS ARTÍCULOS 69 Y 143 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO 33 DE LA LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y EL 196 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
