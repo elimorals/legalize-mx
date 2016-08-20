@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2016-03-03"
+last_updated: "2016-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -2531,7 +2531,9 @@ V. Los demás que estime pertinentes, siempre que consten en acuerdos generales 
 
 ### CAPÍTULO I. DE LOS MAGISTRADOS Y CONSEJEROS
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+(NOTA: EL 24 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS SUBAPARTADOS VIII.2., VIII.3. Y VIII.4., ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2016, DECLARÓ LA INVALIDEZ DE LA REFORMA A ESTE ARTÍCULO EN LA PORCIÓN NORMATIVA INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 193.
 
@@ -2565,9 +2567,7 @@ Para los efectos de la Ley de Prensa, el impresor será responsable de su actuac
 
 ###### Artículo 196.
 
-Los magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Administrativo, así como los miembros del Consejo General del Poder Judicial del Estado, sólo podrán ser privados de sus puestos en la forma y términos que determina la Constitución Política del Estado de Jalisco y el presente ordenamiento.
-
-También se procederá en los términos del párrafo anterior cuando los magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Administrativo y los titulares del Consejo General del Poder Judicial acepten o desempeñen cargo o empleo de la Federación, de los Estados, del Distrito Federal o de los particulares, salvo los casos de docencia o los que desempeñen sin remuneración en asociaciones científicas, literarias o de beneficencia, imponiéndose además como sanción la pérdida de las prestaciones y beneficios que les correspondan y las señaladas por la comisión de delitos contra la administración de la justicia, en su caso.
+Los magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Administrativo, así como los miembros del Consejo General del Poder Judicial del Estado, sólo podrán ser privados de sus puestos en la forma y términos que determina la Constitución Política del Estado de Jalisco Y CUANDO SE ENCUENTREN PRIVADOS DE LA LIBERTAD CON MOTIVO DE UN PROCESO PENAL.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -3502,3 +3502,9 @@ P.O. 3 DE MARZO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 20 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25861/LXI/16 QUE REFORMA LA DENOMINACIÓN DEL TÍTULO CUARTO Y LOS ARTÍCULOS 1, 46, 48, 49, 52, 55 Y 60, DEROGA LOS ARTÍCULOS 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42 Y 43, DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS; REFORMA LOS ARTÍCULOS 99 Y 108 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; REFORMA EL ARTÍCULO 9 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; REFORMA EL ARTÍCULO 31 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO; REFORMA LOS ARTÍCULOS 69 Y 143 DE LA LEY DEL GOBIERNO Y ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO 33 DE LA LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y EL 196 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO”.]
+
+ÚNICO.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
