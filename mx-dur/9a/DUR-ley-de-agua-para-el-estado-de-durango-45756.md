@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-agua-para-el-estado-de-durango-45756"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-07"
-last_updated: "2015-03-05"
+last_updated: "2016-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE AGUA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 7 de julio de 2005.
 
@@ -55,7 +55,9 @@ Las disposiciones de esta Ley son de orden público e interés social y tienen p
 
 I.- La planeación, administración, conservación, ejecución de proyectos y obras relacionadas con los recursos hídricos en el marco del desarrollo sustentable del Estado;
 
-II.- La administración y conservación de las aguas de jurisdicción estatal, en los términos del párrafo quinto del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos e inciso a), párrafo segundo del artículo 109 de la Constitución Política del Estado Libre y Soberano de Durango, en materia de aguas;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2016)</small>
+
+II.- La administración y conservación de las aguas de jurisdicción estatal, en los términos del párrafo quinto del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos y fracción I del artículo 153 de la Constitución Política del Estado Libre y Soberano de Durango, en materia de Aguas:
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -1321,7 +1323,7 @@ Independientemente de quien otorgue o se reserve la facultad de otorgar y revoca
 
 ###### Artículo 91.
 
-El concesionario podrá solicitar al Ayuntamiento, al organismos (sic) operador correspondiente o en su caso, a la Comisión, el ejercicio de los actos de autoridad que le atribuye esta Ley, en apoyo al desarrollo de los servicios de agua potable, alcantarillado y saneamiento y el aprovechamiento de las aguas residuales tratadas, pudiendo el primero coadyuvar en la gestión de los trámites administrativos correspondientes.
+El concesionario podrá solicitar al Ayuntamiento, al (sic)organismos operador correspondiente o en su caso, a la Comisión, el ejercicio de los actos de autoridad que le atribuye esta Ley, en apoyo al desarrollo de los servicios de agua potable, alcantarillado y saneamiento y el aprovechamiento de las aguas residuales tratadas, pudiendo el primero coadyuvar en la gestión de los trámites administrativos correspondientes.
 
 ###### Artículo 92.
 
@@ -2812,6 +2814,18 @@ PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicaci
 SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
 
 P.O. 5 DE MARZO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente.
+
+P.O. 21 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 568.- POR EL QUE SE REFORMA LA FRACCION II DEL ARTÍCULO 1 DE LA LEY DE AGUA PARA EL ESTADO DE DURANGO”.]
 
 ###### ARTÍCULO PRIMERO.
 
