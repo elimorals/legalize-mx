@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-servicio-geologico-mexicano-73940"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-03-24"
-last_updated: "2014-12-01"
+last_updated: "2016-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73940&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-09-28"
 
 ESTATUTO ORGÁNICO DEL SERVICIO GEOLÓGICO MEXICANO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE AGOSTO DE 2016.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 24 de marzo de 2010.
 
@@ -323,15 +323,53 @@ XXXII. Desarrollar conforme a la Ley Reglamentaria del Artículo 27 Constitucion
 
 XXXIII. Solicitar a la Secretaría de Energía las asignaciones que estime necesarias para la exploración y explotación e instalación de plantas de beneficio en materia de minerales radiactivos, de acuerdo a las disposiciones que sobre la misma establece la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; y
 
-> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 2016)</small>
 
-XXXIV. Las demás que le otorgue el Órgano de Gobierno y las disposiciones legales.
+XXXIV. Dirigir el establecimiento de los lineamientos metodológicos y acciones para fortalecer la planeación, la mercadotecnia y la comunicación;
 
-XXXV. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2014)
+> <small>(ADICIONADA, D.O.F. 22 DE AGOSTO DE 2016)</small>
 
-XXXVI. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2014)
+XXXV. Dirigir y coordinar la planeación estratégica y táctica del organismo y establecer guías de acción enfocadas a programas específicos de operación;
 
-XXXVII. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2014)
+> <small>(ADICIONADA, D.O.F. 22 DE AGOSTO DE 2016)</small>
+
+XXXVI. Promover la venta de productos y servicios que ofrece el organismo, con base en el análisis de mercado, para desarrollar acciones que den presencia en diferentes sectores;
+
+> <small>(ADICIONADA, D.O.F. 22 DE AGOSTO DE 2016)</small>
+
+XXXVII. Aprobar los programas específicos en materia de economía minera;
+
+> <small>(ADICIONADA, D.O.F. 22 DE AGOSTO DE 2016)</small>
+
+XXXVIII. Establecer acciones que sean objeto de coordinación con los gobiernos estatales y municipales, instituciones académicas y sector privado, y de inducción y concertación interesados en los servicios que realiza el organismo;
+
+> <small>(ADICIONADA, D.O.F. 22 DE AGOSTO DE 2016)</small>
+
+XXXIX. Coordinar el cumplimiento de la planeación estratégica del organismo y acordar con las áreas las medidas necesarias para su actualización;
+
+> <small>(ADICIONADA, D.O.F. 22 DE AGOSTO DE 2016)</small>
+
+XL. Determinar las estrategias para el establecimiento de programas específicos de operación;
+
+> <small>(ADICIONADA, D.O.F. 22 DE AGOSTO DE 2016)</small>
+
+XLI. Gestionar y concertar mecanismos de cooperación técnica, académica y de capacitación con instituciones encargadas de la información geológico-minera en otros países y con organismos internacionales especializados en la materia;
+
+> <small>(ADICIONADA, D.O.F. 22 DE AGOSTO DE 2016)</small>
+
+XLII. Dar seguimiento al cumplimiento de los compromisos derivados de dichos acuerdos del inciso anterior;
+
+> <small>(ADICIONADA, D.O.F. 22 DE AGOSTO DE 2016)</small>
+
+XLIII. Coordinar la actualización de catálogos y los trámites relacionados con los precios de venta de los productos;
+
+> <small>(ADICIONADA, D.O.F. 22 DE AGOSTO DE 2016)</small>
+
+XLIV. Difundir los servicios y la imagen que genera el organismo; y
+
+> <small>(ADICIONADA, D.O.F. 22 DE AGOSTO DE 2016)</small>
+
+XLV. Las demás que le otorgue el Órgano de Gobierno y las disposiciones legales.
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2014)</small>
 
@@ -423,7 +461,17 @@ XXIX. Evaluar conjuntamente con la Dirección de Minerales Energéticos para apr
 
 XXX. Atender las disposiciones que establece la Ley Minera y su Reglamento en materia de cumplimiento de derechos y obligaciones que imponen las asignaciones mineras; y
 
-XXXI. Las demás que le otorgue el Director General.
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 2016)</small>
+
+XXXI. Orientar y coordinar la formulación y ejecución, control y supervisión técnica de las actividades, planes, programas y proyectos realizados por las áreas del organismo;
+
+> <small>(ADICIONADA, D.O.F. 22 DE AGOSTO DE 2016)</small>
+
+XXXII. Trazar de acuerdo con el Director General las políticas generales y desarrollar la planeación de las estrategias de control, para la adecuada y eficiente prestación de los servicios de contratos y convenios;
+
+> <small>(ADICIONADA, D.O.F. 22 DE AGOSTO DE 2016)</small>
+
+XXXIII. Las demás que le otorgue el Director General.
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2014)</small>
 
@@ -521,7 +569,7 @@ XX. Suscribir convenios y contratos en los que participe el Servicio Geológico 
 
 XXI. Presentar al Director General los proyectos para la aplicación de ingresos excedentes;
 
-XXII. Coordinar y supervisar administrativa y financieramente a los administradores de las oficinas regionales y centros experimentales;
+XXII. (DEROGADA, D.O.F. 22 DE AGOSTO DE 2016)
 
 XXIII. Coordinar la administración de los bienes patrimoniales del organismo asegurando la eficiencia en la operación de los mismos así como elaborar el programa de visitas de supervisión de recursos materiales, humanos y financieros de las oficinas regionales;
 
@@ -529,7 +577,7 @@ XXIV. Integrar los Programas de adquisiciones y de enajenación de bienes no út
 
 XXV. Coordinar y supervisar las actividades de los servicios de apoyo aéreo;
 
-XXVI. Supervisar el cumplimiento de las disposiciones en materia de transparencia y acceso a la información pública federal; y
+XXVI. (DEROGADA, D.O.F. 22 DE AGOSTO DE 2016)
 
 XXVII. Las demás que le otorgue el Director General.
 
@@ -623,41 +671,13 @@ V. La Subdirección Jurídica establecerá un sistema para el registro de las tr
 
 VI. La Subdirección Jurídica podrá transigir en términos del presente artículo, los asuntos y controversias que se generen en el organismo con motivo de sus actividades.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 22 DE AGOSTO DE 2016)</small>
 
-#### Sección Cuarta. De la Subdirección de Desarrollo Estratégico
+#### Sección Cuarta. Coordinación Regional
 
 ###### ARTICULO 27.
 
-La Subdirección de Desarrollo Estratégico tendrá las funciones siguientes:
-
-I. Dirigir el establecimiento de los lineamientos metodológicos y acciones para fortalecer la Planeación, la Mercadotecnia y la comunicación;
-
-II. Dirigir y coordinar la planeación estratégica y táctica del organismo y establecer guías de acción enfocadas a programas específicos de operación;
-
-III. Orientar y coordinar la formulación y ejecución, control y supervisión técnica de las actividades, planes, programas y proyectos realizados por las áreas del organismo;
-
-IV. Trazar de acuerdo con el Director General las políticas generales y desarrollar la planeación de las estrategias de control, para la adecuada y eficiente prestación de los servicios de contratos, convenios;
-
-V. Promover la venta de productos y servicios que ofrece el organismo, con base en el análisis de mercado, para desarrollar acciones que den presencia en diferentes sectores;
-
-VI. Proponer al Director General la creación de programas específicos en materia de economía minera;
-
-VII. Establecer acciones que sean objeto de coordinación con los gobiernos estatales y municipales, instituciones académicas y sector privado, y de inducción y concertación interesados en los servicios que realiza el organismo;
-
-VIII. Coordinar el cumplimiento de la planeación estratégica del organismo y acordar con las áreas las medidas necesarias para su actualización;
-
-IX. Determinar las estrategias para el establecimiento de programas específicos de operación;
-
-X. Proponer, gestionar y concertar mecanismos de cooperación técnica, académica y de capacitación con instituciones encargadas de la información geológico-minera en otros países y con organismos internacionales especializados en la materia;
-
-XI. Dar seguimiento al cumplimiento de los compromisos derivados de los acuerdos del inciso anterior;
-
-XII. Coordinar la actualización de catálogos y los trámites relacionados con los precios de venta de los productos;
-
-XIII. Difundir los servicios y la imagen que genera el organismo; y
-
-XIV. Las demás que le otorgue el Director General.
+(DEROGADO, D.O.F. 22 DE AGOSTO DE 2016)
 
 ###### ARTICULO 27 Bis.
 
@@ -693,7 +713,13 @@ VIII. Verificar la aplicación adecuada de los recursos económicos en los difer
 
 IX. Mantener el respaldo adecuado de la información generada; y
 
-X. Las demás que le otorgue el Director General.
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 2016)</small>
+
+X. Coordinar y supervisar administrativa y financieramente a los administradores de las oficinas regionales; y
+
+> <small>(ADICIONADA, D.O.F. 22 DE AGOSTO DE 2016)</small>
+
+XI. Las demás que le otorgue el Director General.
 
 ### Capítulo Quinto. De la Suplencia de los Servidores Públicos del Organismo
 
@@ -738,6 +764,14 @@ PRIMERO.- Publíquense las presentes modificaciones al Estatuto Orgánico del Se
 SEGUNDO.- Se deroga todas aquellas disposiciones internas de carácter administrativo que se opongan a las presentes modificaciones.
 
 D.O.F. 1 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Las presentes modificaciones al Estatuto Orgánico entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones internas de carácter administrativo que se opongan a las presentes modificaciones.
+
+D.O.F. 22 DE AGOSTO DE 2016.
+
+> <small>[N. DE E. TRANSITORIOS “DE LA MODIFICACIÓN AL ESTATUTO ORGÁNICO DEL SERVICIO GEOLÓGICO MEXICANO”.]</small>
 
 PRIMERO.- Las presentes modificaciones al Estatuto Orgánico entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
