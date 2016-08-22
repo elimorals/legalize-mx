@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-servicio-exterior-mexicano-25548"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-23"
-last_updated: "2014-07-18"
+last_updated: "2016-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25548&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-08-20"
 
 REGLAMENTO DE LA LEY DEL SERVICIO EXTERIOR MEXICANO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE AGOSTO DE 2016.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 23 de agosto de 2002.
 
@@ -879,15 +879,21 @@ Además, los titulares de las oficinas consulares serán responsables de que en 
 
 En caso de que dichos documentos se hubieren extraviado, el titular de la oficina consular deberá solicitar a la Secretaría su reposición.
 
+> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 82.
 
-Las oficinas consulares ejercerán las funciones del registro civil en los términos del Código Civil Federal y autorizarán en el extranjero las actas de registro civil concernientes al nacimiento, matrimonio y defunción de mexicanos y, en su caso, expedirán copias certificadas de las mismas. Los actos del estado civil de mexicanos en el extranjero se asentarán en las formas que proporcione la Secretaría.
+Las oficinas consulares ejercerán las funciones del registro civil en términos de la Ley, del Código Civil Federal y del presente Reglamento, y autorizarán en el extranjero, las actas de registro civil concernientes al nacimiento, matrimonio y defunción de mexicanos que se encuentren en el extranjero y, en su caso, expedirán copias certificadas de las mismas. Los actos del estado civil de los mexicanos en el extranjero se asentarán en las formas que proporcione la Secretaría.
+
+En los casos de mexicanos nacidos en territorio nacional, que no cuenten con la inscripción de su nacimiento en el registro civil y que radiquen en el extranjero, las oficinas consulares deberán actuar con base en los requisitos y procedimientos establecidos en los lineamientos que para tal efecto emita la Secretaría.
+
+Para la inscripción de nacimientos previstos en el párrafo anterior, la autoridad consular, cuando lo estime necesario, podrá solicitar información a las autoridades locales competentes.
 
 Sólo se autorizarán actas de matrimonio cuando los dos contrayentes sean mexicanos.
 
 Las copias certificadas de las actas del Registro Civil expedidas por funcionarios consulares tendrán validez en México.
 
-Las actas a que se refiere este artículo serán concentradas en la Oficina Central del Registro Civil en el Distrito Federal, en los términos y condiciones que señalen las disposiciones aplicables.
+Las actas a que se refiere este artículo serán concentradas en la Oficina Central del Registro Civil en la Ciudad de México, en los términos y condiciones que señalen las disposiciones aplicables.
 
 ###### ARTÍCULO 83.
 
@@ -1408,3 +1414,13 @@ D.O.F. 18 DE JULIO DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las erogaciones que en su caso sean necesarias para la instrumentación del presente Decreto, se realizarán con cargo al presupuesto aprobado a la Secretaría de Relaciones Exteriores, por lo que no se requerirá de recursos adicionales para tal efecto, y por tanto no se incrementará su presupuesto regularizable para el presente ejercicio fiscal ni los subsecuentes.
+
+D.O.F. 22 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 82 DEL REGLAMENTO DE LA LEY DEL SERVICIO EXTERIOR MEXICANO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Secretaría deberá emitir a más tardar en un plazo de ciento ochenta días, posteriores a la entrada en vigor del presente Decreto, los lineamientos a que hace referencia el artículo 82, párrafo segundo del Reglamento de la Ley del Servicio Exterior Mexicano.
+
+TERCERO.- Las erogaciones que sean necesarias para cumplir con la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado a la Secretaría de Relaciones Exteriores, por lo que no requerirá de recursos adicionales para tales efectos.
