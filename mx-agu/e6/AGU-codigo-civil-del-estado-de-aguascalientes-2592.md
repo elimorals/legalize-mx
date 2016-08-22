@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2016-08-08"
+last_updated: "2016-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2016.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -2473,6 +2473,10 @@ Los integrantes de la familia están obligados a evitar conductas que generen vi
 
 También se considera como violencia familiar la conducta inquisitiva y reiterada de uno de los integrantes de la familia para con otro, cuando sea grave y por ende motivo de inestabilidad emocional o perturbe su actividad cotidiana.
 
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
+De igual manera, comete violencia familiar el integrante de la familia que lleve a cabo la conducta de alienación parental, según se define en el Artículo 434 del presente Código.
+
 ## TITULO SEPTIMO.
 
 DE LA PATERNIDAD Y FILIACION.
@@ -3303,9 +3307,9 @@ IV.- Por la exposición que el que la ejerce hiciere del menor de edad o porque 
 
 V.- Cuando el que la ejerza sea condenado por la comisión de un delito doloso en el que la víctima sea el menor sobre quien ejerce la patria potestad;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
-VI.- Cuando quien la ejerza incurra en conductas de violencia familiar en donde la víctima sea el menor de edad;
+VI.- Cuando el que ejerza incurra en conductas de violencia familiar en donde la victima sea el menor de edad;
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
 
@@ -3319,13 +3323,17 @@ VIII.- Cuando quien la ejerza sea condenado por algún delito doloso y se acredi
 
 IX.- Cuando quien la ejerza obligue a los menores de edad a realizar la mendicidad, trabajo forzado o cualquier otra forma de explotación;
 
-> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
-X.- Cuando quien la ejerza permita o tolere que otras personas atenten contra la seguridad e integridad física, emocional o sexual de los menores; o
+X.- Cuando quien la ejerza permita o tolere que otras personas atenten contra la seguridad e integridad física, emocional o sexual de los menores;
 
-> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
-XI.- Por el incumplimiento reiterado de las determinaciones judiciales que se hayan ordenado al que ejerza la patria potestad, tendientes a corregir la violencia familiar o las que se emitan para regular la custodia, el régimen de convivencias o el cumplimiento de sus obligaciones y éstas hayan afectado a los menores.
+XI.- Por el incumplimiento reiterado de las determinaciones judiciales que se hayan ordenado al que ejerza la patria potestad, tendientes a corregir la violencia familiar o las que se emitan para regular la custodia, el régimen de convivencias o el cumplimiento de sus obligaciones y éstas hayan afectado a los menores; o
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+XII.- Cuando se realicen conductas que provoquen alienación parental de acuerdo con el diagnostico psicológico realizado por perito en la materia;
 
 > <small>(ADICIONADO, P.O. 27 DE JULIO DE 2015)</small>
 
@@ -17050,3 +17058,11 @@ P.O. 8 DE AGOSTO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 372.- SE ADICIONA EL ARTÍCULO 347 Y SE REFORMA Y ADICIONA EL ARTÍCULO 466, DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+EI presente Decreto entrara en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
