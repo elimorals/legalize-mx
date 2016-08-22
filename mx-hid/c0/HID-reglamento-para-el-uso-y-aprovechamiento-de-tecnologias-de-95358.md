@@ -4,7 +4,7 @@ identifier: "HID-reglamento-para-el-uso-y-aprovechamiento-de-tecnologias-de-9535
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-15"
-last_updated: "2013-07-15"
+last_updated: "2016-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 REGLAMENTO PARA EL USO Y APROVECHAMIENTO DE TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIONES EN EL PODER EJECUTIVO DEL ESTADO DE HIDALGO.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 15 de julio de 2013.
 
@@ -35,103 +35,127 @@ Por lo anterior he tenido a bien expedir el siguiente:
 
 REGLAMENTO PARA EL USO Y APROVECHAMIENTO DE TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIONES EN EL PODER EJECUTIVO
 
+(REPUBLICADO, P.O. 22 DE AGOSTO DE 2016)
+
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 1.
 
 El presente ordenamiento tiene por objeto regular y fomentar el uso de las Tecnologías de Información que se utilicen en la ejecución de los programas y actividades a cargo de las Dependencias y Entidades Paraestatales del Poder Ejecutivo de Hidalgo.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 2.
 
 Para efectos del presente Reglamento se entenderá por:
 
-Access Point: Punto de acceso inalámbrico que permite conectar dispositivos de comunicación inalámbrica.
+I. Acceso mediante VPN (Virtual Private Network): Tecnología de red que permite una extensión segura de la red local (LAN) sobre una red pública o no controlada como Internet;
 
-Antivirus institucional: Software de prevención, detección y erradicación de virus informáticos, establecido a ser operado dentro del Poder Ejecutivo Estatal.
+II. Acceso remoto: Servicio que permite acceder a un equipo informático o de comunicación desde una posición no centralizada (remota);
 
-Área oferente: Dependencia o Entidad Paraestatal responsable de la prestación del trámite o servicio público.
+III. Access Point: Punto de acceso inalámbrico que permite conectar dispositivos de comunicación inalámbrica;
 
-Carta de confidencialidad: Documento que establece entre los firmantes el resguardo y secreto de la información recabada producto de la contratación de un servicio.
+IV. Ancho de banda: Medida de datos y recursos de comunicación disponible o consumida dentro de una red y/o dispositivo;
 
-Catálogo institucional: Registro, inventario, lista de personas, sucesos o cosas puestas en orden orientadas a homologar la información de la Administración Pública Estatal de uso común.
+V. Antivirus institucional: Software de prevención, detección y erradicación de virus informáticos, establecido para ser operado dentro del Poder Ejecutivo Estatal;
 
-Correo spam: Mensajes digitales no solicitados, habitualmente de tipo publicitario, enviados en grandes cantidades que perjudican al destinatario.
+VI. Área oferente: Dependencia o Entidad Paraestatal responsable de la prestación del trámite o servicio público;
 
-Dependencias: Secretarías de despacho que conforman la Administración Pública Estatal incluyendo a sus respectivos órganos administrativos del Estado, en los términos de los Artículos 3, 13 Y 14 de la Ley Orgánica de la Administración Pública Estatal del Estado de Hidalgo.
+VII. Carta de confidencialidad: Documento que establece entre los firmantes el resguardo y secreto de la información recabada producto de la contratación de un servicio;
 
-Dictamen técnico: Resolución emitida basada en la evaluación de las características de los bienes informáticos (software y hardware) en materia de infraestructura tecnológica.
+VIII. Catálogo institucional: Registro, inventario, lista de personas, sucesos o cosas puestas en orden, orientadas a homologar la información de la Administración Pública Estatal de uso común;
 
-Dominio: Nombre que identifica de manera sencilla un sitio web en Internet.
+IX. Concentrador (hub): Dispositivo que permite centralizar el cableado de una red de computadoras, para luego poder ampliarla. (Nivel de seguridad muy bajo);
 
-Entidades de la Administración Pública Paraestatales: Organismos Descentralizados, Empresas de Participación Estatal Mayoritaria y Fideicomisos Públicos.
+X. Conmutador (switch): Dispositivo encargado de realizar la conexión en red de diversos dispositivos mediante cables UTP / Fibra y otros medios físicos;
 
-Espacio Virtual: Lugar cuyos vínculos, interacciones y relaciones tienen existencia no en un lugar físico sino en una zona de Internet.
+XI. Correo spam: Mensajes digitales no solicitados, habitualmente de tipo publicitario, enviados en grandes cantidades que perjudican al destinatario;
 
-Expediente Documental: Archivo físico que contiene la documentación que sustenta el estado de persona acreditada.
+XII. Dependencias: Secretarías de despacho que conforman la Administración Pública Estatal incluyendo a sus respectivos órganos administrativos del Estado, en los términos de la Ley Orgánica de la Administración Pública para el Estado de Hidalgo;
 
-Firma Electrónica Avanzada: Es un conjunto de datos electrónicos integrados o asociados inequívocamente a un mensaje de datos que permite asegurar la integridad y autenticidad de ésta, así como la identidad del firmante. Empleada para firmar documentos y transacciones de manera irrefutable en el ámbito digital. Brindando seguridad a las transacciones electrónicas, con su uso se puede identificar al autor del mensaje y verificar que no haya sido modificado.
+XIII. Dictamen técnico: Resolución emitida basada en la evaluación de las características de los bienes informáticos (software y hardware) en materia de infraestructura tecnológica;
 
-FTP: Protocolo para la transferencia de archivos entre sistemas conectados a una red. Desde un equipo se puede conectar a un servidor para descargar archivos desde él o para enviarle archivos, independientemente del sistema operativo utilizado en cada equipo.
+XIV. Direcciones de red o NAT (del inglés Network Address Translation): Mecanismo utilizado por routers IP, para intercambiar paquetes entre dos redes que asignan mutuamente direcciones incompatibles;
 
-Guía Web Hidalgo: Documento emitido por la UNIGMER que integra los estándares de contenido y forma de construcción de los Sitios y Sistemas Web del Gobierno del Estado de Hidalgo.
+XV. Dominio: Nombre que identifica de manera sencilla un sitio web en Internet;
 
-Hospedaje: Servicio Institucional que consiste en un espacio seguro para alojar la infraestructura para que un sitio web pueda ser publicado y esté disponible en le WWW. Esta infraestructura incluye: servidores web, aplicativos, bases de datos, conexiones de alta velocidad, capacidad de almacenamiento, cuentas de correo electrónico, entre otros.
+XVI. Enlace informático: Personal designado en cada área, preferentemente con conocimientos adquiridos en ciencias de la computación. Encargado de mantener orden en los activos informáticos y de comunicación del área designada y la comunicación con la UNIGMER;
 
-Imagen Institucional: Identidad gráfica del Poder Ejecutivo.
+XVII. Enlaces de Red LAN, WAN: Red de área amplia, o WAN, (Wide Área Network en inglés), es una red de computadoras que une varias redes locales, (LAN), aunque sus miembros no están todos en una misma ubicación física;
 
-Infraestructura Institucional: Equipo de cómputo y comunicaciones digitales que brinda servició a más de una Dependencia u Organismo Descentralizado en el Poder Ejecutivo.
+XVIII. Entidades de la Administración Pública Paraestatales: Organismos Descentralizados, Empresas de Participación Estatal Mayoritaria y Fideicomisos Públicos;
 
-Inventario Estatal de Sistemas de Información: Registro de los sistemas de información desarrollados por y para el Ejecutivo Estatal.
+XIX. Espacio Virtual: Lugar cuyos vínculos, interacciones y relaciones tienen existencia, no en un lugar físico, sino en una zona de Internet;
 
-Licencia de uso: Contrato entre el titular de los derechos de autor (propietario) y el usuario del programa informático (usuario final), para utilizar éste en una forma determinada y de conformidad con unas condiciones convenidas.
+XX. Expediente Documental: Archivo físico que contiene la documentación que sustenta el estado de persona acreditada;
 
-Malware: Es la abreviatura de "Malicious software" (software malicioso), término que engloba a todo tipo de programa o código de computadora cuya función es dañar un sistema o causar un mal funcionamiento. Dentro de este grupo podemos encontrar términos como: Virus, Troyanos (Trojans), Gusanos (Worm), Dialers, Spyware, Adware, Hijackers, Keyloggers, FakeAVs, Rootkits, Bootkits, Rogues, entre otros.
+XXI. Extensores de red: Dispositivos de redes para crear una cobertura más amplia, ya sea señal, agregar dispositivos o la convergencia de redes;
 
-Metodología de desarrollo: Conjunto de etapas a seguir para el desarrollo de un sistema de información.
+XXII. Firma Electrónica Avanzada: Conjunto de datos electrónicos integrados o asociados inequívocamente a un mensaje de datos que permite asegurar la integridad y autenticidad de la Firma Electrónica Avanzada, así como la identidad del firmante, empleada para firmar documentos y transacciones de manera irrefutable en el ámbito digital, brindando seguridad a las transacciones electrónicas. Con su uso se puede identificar al autor del mensaje y verificar que no haya sido modificado;
 
-NIC México: Network Information Center - México. Organización encargada de la administración del nombre de dominio territorial (ccTLD, country code Top LevelDomain) MX, el código de dos letras asignado a cada país según el ISO 3166.
+XXIII. FTP: Protocolo para la transferencia de archivos entre sistemas conectados a una red. Desde un equipo se puede conectar a un servidor para descargar archivos o para enviarlos (sic) archivos, independientemente del sistema operativo utilizado en cada equipo;
 
-UNIGMER: Unidad de Innovación Gubernamental y Mejora Regulatoria.
+XXIV. Guía Web Hidalgo: Documento emitido por la UNIGMER que integra los estándares de contenido y forma de construcción de los Sitios y Sistemas Web del Gobierno del Estado de Hidalgo;
 
-URL: Comúnmente denominado así por sus siglas en inglés, UniformResourceLocator, es un localizador de recursos uniforme. Es la cadena de caracteres con la cual se asigna una dirección única a cada uno de los recursos de Información disponibles en la Internet. Existe un URL único para cada página de cada uno de los documentos de la World Wide Web.
+XXV. Hospedaje: Servicio institucional que consiste en un espacio seguro para alojar la infraestructura para que un sitio web pueda ser publicado y esté disponible en la WWW. Esta infraestructura incluye: servidores web, aplicativos, bases de datos, conexiones de alta velocidad, capacidad de almacenamiento, cuentas de correo electrónico, entre otros;
 
-Persona acreditada: Persona' registrada en el padrón, cuyos datos personales existentes son comprobables mediante un expediente documental que obra en poder del Ejecutivo Estatal.
+XXVI. Imagen Institucional: Identidad gráfica del Poder Ejecutivo;
 
-Persona validada: Individuo que registra datos personales congruentes, sin que se tenga la certeza de su existencia mediante ningún documento el soporte documental que avale su existencia.
+XXVII. Infraestructura Institucional: Equipo de cómputo y comunicaciones digitales que brinda servicio a más de una Dependencia u Organismo Descentralizado en el Poder Ejecutivo;
 
-Portal institucional: Sitio oficial de publicación y difusión de información, trámites, servicios y contenidos digitales del Poder Ejecutivo Estatal.
+XXVIII. Inventario Estatal de Sistemas de Información: Registro de los sistemas de información desarrollados por y para el Ejecutivo Estatal;
 
-Resguardo Oficial: Documento formal mediante el cual se transfiere la responsabilidad para administrar los contenidos de un Sitio Web del Gobierno del Estado de Hidalgo al Enlace del Portal. Incluye dirección de acceso directo al servidor, cuentas y contraseñas de ingreso para administrar vía remota o mediante gestor de contenidos, la información publicada en su Sitio Web del Gobierno del Estado de Hidalgo a su cargo.
+XXIX. Licencia de uso: Contrato entre el titular de los derechos de autor y el usuario del programa informático (usuario final), para utilizar éste en una forma determinada y de conformidad con las condiciones convenidas;
 
-RUPEH: Registro Único de Personas del Estado de Hidalgo, acreditadas para el acceso a los servicios digitales ofertados, administrado por la UNIGMER.
+XXX. Malware: Es la abreviatura de "Malicious software" (software malicioso), término que engloba a todo tipo de programa o código de computadora cuya función es dañar un sistema o causar un mal funcionamiento. Dentro de este grupo podemos encontrar términos como: Virus, Troyanos (Trojans), Gusanos (Worm), Dialers, Spyware, Adware, Hijackers, Keyloggers, FakeAVs, Rootkits, Bootkits, Rogues, entre otros;
 
-SECODI: Sistema Estatal de Comunicaciones Digitales.
+XXXI. Metodología de desarrollo: Conjunto de etapas a seguir para el desarrollo de un sistema de información;
 
-Servicio: Conjunto de actividades que el Gobierno Estatal realiza para responder a una necesidad específica de .a sociedad.
+XXXII. NIC México: Network Information Center - México. Organización encargada de la administración del nombre de dominio territorial (ccTLD, country code Top LeveIDomain) .MX, el código de dos letras asignado a cada país según el ISO 3166;
 
-Sistema de información: Conjunto de procedimientos manuales o automatizados que están orientados a proporcionar información para la toma de decisiones.
+XXXIII. Persona acreditada: Persona registrada en el padrón, cuyos datos personales existentes son comprobables mediante un expediente documental que obra en poder del Ejecutivo Estatal;
 
-SITE o Sitio: Sitio Central de Cómputo y Comunicaciones del Gobierno, es un espacio físico donde se encuentra residente la infraestructura institucional de cómputo y comunicaciones del Ejecutivo Estatal.
+XXXIV. Persona validada: Persona registrada en el padrón, cuyos datos personales aún no son comprobables en expediente documental;
 
-Sitio Web Institucional del Poder Ejecutivo del Estado: Portal Oficial del Gobierno del Estado de Hidalgo.
+XXXV. Portal institucional: Sitio oficial de publicación y difusión de información, trámites, servicios y contenidos digitales del Poder Ejecutivo Estatal;
 
-Sitio Web del Gobierno del Estado de Hidalgo: Sitio Web Institucional del Poder Ejecutivo del Estado y cualquier sitio web desarrollado y autorizado por la UNIGMER.
+XXXVI. Resguardo Oficial: Documento formal mediante el cual se transfiere la responsabilidad para administrar los contenidos de un Sitio Web del Gobierno del Estado de Hidalgo al Enlace del Portal. Incluye dirección de acceso directo al servidor, cuentas y contraseñas de ingreso para administrar vía remota o mediante gestor de contenidos, la información publicada en el Sitio Web del Gobierno del Estado de Hidalgo a su cargo;
 
-Subdominio: Se considera como un dominio de segundo nivel derivado del dominio principal institucional. El dominio principal institucional es http://www.hidalgo.gob.mx y el nombrado de los subdominios se constituirán de la siguiente forma: <http://nombre_subdominio.hidalgo.gob.mx>
+XXXVII. RUPEH: Registro Único de Personas del Estado de Hidalgo, acreditadas para el acceso a los servicios digitales ofertados, administrado por la UNIGMER;
 
-TCP: Protocolo de Control de Transmisión utilizado para la conexión de computadoras y transmisión de datos segura.
+XXXVIII. SECODI: Sistema Estatal de Comunicaciones Digitales;
 
-Tecnologías de Información y Comunicaciones (TlCs): Infraestructura de cómputo y comunicaciones digitales, el licenciamiento de software público y privado, automatización de sistemas de información, equipos y sistemas de seguridad en la materia, centros de cómputo y comunicaciones, medios de almacenamiento presentes y aquellos que surjan en un futuro.
+XXXIX. Servicio: Conjunto de actividades que el Gobierno Estatal realiza para responder a una necesidad específica de la sociedad;
 
-Trámite: Solicitud o entrega de información que la sociedad realiza ante una Dependencia o Entidad Paraestatal.
+XL. Sistema de información: Conjunto de procedimientos manuales o automatizados orientados a proporcionar información para la toma de decisiones;
 
-UDP: Protocolo de Datagramas de Usuario para el envió de fragmentos de paquetes de información.
+XLI. SITE o Sitio: Sitio Central de Cómputo y Comunicaciones del Gobierno, es un espacio físico donde se encuentra residente la infraestructura institucional de cómputo y comunicaciones del Ejecutivo Estatal;
 
-Usuario: Todo servidor público y cualquier persona que por razón de su empleo, cargo o comisión, tenga asignado equipo de cómputo, Comunicaciones ó tenga a su cargo las funciones relacionadas a las Tecnologías de la Información y Comunicaciones, en los términos del presente Reglamento y demás disposiciones aplicables.
+XLII. Sitio Web del Gobierno del Estado de Hidalgo: Sitio Web Institucional del Poder Ejecutivo del Estado y cualquier sitio web desarrollado y autorizado por la UNIGMER;
+
+XLIII. Sitio Web Institucional del Poder Ejecutivo del Estado: Portal Oficial del Gobierno del Estado de Hidalgo;
+
+XLIV. Subdominio: Dominio de segundo nivel, derivado del dominio principal institucional. El dominio principal institucional es http://www.hidalgo.gob.mx y los subdominios se constituirán de la siguiente forma: http://nombre_subdominio.hidalgo.gob.mx;
+
+XLV. TCP: Protocolo de Control de Transmisión utilizado para la conexión de computadoras y transmisión segura de datos;
+
+XLVI. Tecnologías de Información y Comunicaciones (TIC's): Infraestructura de cómputo y comunicaciones digitales, el licenciamiento de software público y privado, automatización de sistemas de información, equipos y sistemas de seguridad en la materia, centros de cómputo y comunicaciones, medios de almacenamiento presentes y aquellos que surjan en el futuro;
+
+XLVII. Trámite: Solicitud o entrega de información que la sociedad realiza ante una Dependencia o Entidad Paraestatal;
+
+XLVIII. UDP: Protocolo de Datagramas de Usuario para el envió de fragmentos de paquetes de información;
+
+XLIX. UNIGMER: Unidad de Innovación Gubernamental y Mejora Regulatoria;
+
+L. URL: Comúnmente denominado así por sus siglas en inglés, UniformResourceLocator, es un localizador de recursos uniforme. Es la cadena de caracteres con la cual se asigna una dirección única a cada uno de los recursos de información disponibles en la Internet. Existe un URL único para cada página de cada uno de los documentos de la World Wide Web; y
+
+LI. Usuario: Todo servidor público y cualquier persona que por razón de su empleo, cargo o comisión, tenga asignado equipo de cómputo, comunicaciones o funciones relacionadas a las Tecnologías de la Información y Comunicaciones, en los términos del presente Reglamento y demás disposiciones aplicables.
 
 ###### ARTÍCULO 3.
 
 La UNIGMER, en el ámbito de sus atribuciones aplicará este Reglamento bajo el principio de objetividad, racionalidad e imparcialidad, para todos los elementos que conforman las Tecnologías de información y comunicaciones.
+
+(REPUBLICADO, P.O. 22 DE AGOSTO DE 2016)
 
 ### CAPÍTULO II. DE LOS USUARIOS DE LA INFRAESTRUCTURA DE CÓMPUTO DEL PODER EJECUTIVO
 
@@ -173,6 +197,24 @@ El usuario, no podrá realizar cambios o adecuaciones al equipo de cómputo bajo
 
 Corresponde al encargado que tiene a su cargo las funciones relacionadas con las tecnologías de la información y comunicaciones en la Dependencia ó Entidad Paraestatal, definir la configuración y características de la infraestructura de cómputo, así como dimensionar el equipo de cómputo que deberá relacionarse con las funciones y actividades que desempeña el servidor público, además de considerar el licenciamiento del software necesario para su operación. Los gastos derivados por este concepto, corresponderán a la Dependencia o Entidad Paraestatal que la realice.
 
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 8 BIS. En toda remodelación arquitectónica sobre infraestructura tecnológica se deberán incluir y contemplar los dictámenes técnicos y viabilidades de conectividad, previa planeación e implementación de la remodelación.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 8 TER. Queda prohibida la conexión, desconexión o reubicación de equipos, sin autorización de la UNIGMER.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 8 QUATER. Queda prohibido hacer uso de canalizaciones, ductos o espacios destinados al cómputo y comunicaciones con otra finalidad distinta a la diseñada.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 8 QUINTUS. Cada área será la encargada de realizar los trabajos de cableado estructurado, con previa coordinación y planeación de la UNIGMER.
+
+(REPUBLICADO, P.O. 22 DE AGOSTO DE 2016)
+
 ### CAPÍTULO III. SISTEMA DE COMUNICACIONES DIGITALES
 
 ###### ARTÍCULO 9.
@@ -195,17 +237,25 @@ Solo personal autorizado por la UNIGMER tendrá acceso a los distribuidores de c
 
 No está permitida la conexión al SECODI de sistemas de acceso a Internet alternos o adicionales no autorizados por la UNIGMER.
 
-###### ARTICULO 14.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2016)</small>
 
-El servicio de Internet se ofrecerá bajo las siguientes consideraciones:
+###### ARTÍCULO 14.
+
+El servicio de navegación en Internet se ofrecerá bajo las siguientes consideraciones:
 
 I. La UNIGMER solo autorizará el uso del servicio a los servidores públicos que formulen su solicitud, con el visto bueno del titular de la Dependencia o Entidad Paraestatal a la cual esté adscrito el solicitante;
 
 II. Se otorga de manera personal, siendo su buen uso responsabilidad del servidor público quién recibe el servicio;
 
-III. Debe utilizarlo solamente para la consulta, estudio, análisis y manejo de información relacionada a las funciones y actividades gubernamentales que desempeña el servidor público; y
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+III. Es para uso exclusivo de actividades institucionales por lo que debe de utilizarlo solamente para la consulta, estudio, análisis y manejo de información relacionada a las funciones y actividades gubernamentales que desempeña el servidor público;
 
 IV. Se prohíbe el acceso a páginas de tipo pornográfico, de descarga no autorizada, radio, blogs, servicios de chat's o mensajeros y todos aquellos servicios que se ofrecen en internet y que representan un distractor de las funciones laborales.
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+V. Toda actividad realizada con el servicio de navegación en Internet es de única responsabilidad del usuario.
 
 ###### ARTÍCULO 15.
 
@@ -223,9 +273,23 @@ Para la incorporación al SECODl vía inalámbrica de equipos de cómputo o disp
 
 La UNIGMER es la responsable de la asignación de rangos de subredes de IP, de su mapeo y enrutamiento.
 
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 18 BIS. La UNIGMER, tendrá como enlaces a los informáticos de cada área, secretaría, subsecretaría, dirección general o área, para lo cual se deberá nombrar a dicho enlace y notificarlo para su registro y capacitación en temas administrativos.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 19.
 
-Corresponde al encargado que tiene a su cargo funciones relacionadas con las tecnologías de la información y comunicaciones en la Dependencia ó Entidad Paraestatal, la asignación individual de las direcciones de IP y administración del rango correspondiente.
+Corresponde al enlace Informático que tiene a su cargo las funciones relacionadas con las tecnologías de la información y comunicaciones en la Dependencia o Entidad Paraestatal, la asignación individual de las direcciones de IP y administración del rango correspondiente.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 19 BIS. Cada enlace informático deberá mantener actualizada la base de datos del sistema de control de acceso a usuarios y equipos, es responsabilidad del mismo el dar de alta o baja según corresponda.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 19 TER. El enlace informático, deberá informar oportunamente sobre la baja del personal o el equipo, a la UNIGMER.
 
 ###### ARTÍCULO 20.
 
@@ -243,9 +307,13 @@ La administración operativa de los medios de comunicación convergentes es resp
 
 La UNIGMER es la única autorizada para la asignación de puertos en los equipos de comunicaciones para aplicaciones convergentes como telefonía IP, Video IP, entre otros.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 24.
 
-No está permitida la conexión al SECODI de aparatos de comunicación para servicio de telefonía IP, que no sean autorizados y supervisados por la Subdirección de Telecomunicaciones, dependiente de la Dirección General de Servicios de la Secretaría de Finanzas y Administración.
+No está permitida la conexión al SECODI de aparatos de comunicación para servicio de telefonía IP, que no sean autorizados y supervisados por la Subdirección de Telecomunicaciones, dependiente de la UNIGMER.
+
+En caso de detección de anomalías por parte de los sistemas de seguridad, éste será bloqueado de manera preventiva.
 
 ###### ARTÍCULO 25.
 
@@ -257,17 +325,29 @@ Así mismo, la UNIGMER validará y autorizará la incorporación de los equipos 
 
 Es atribución de la UNIGMER la apertura y cierre de puertos TCP y UDP hacia Internet, a solicitud de las Dependencias y Entidades Paraestatales mediante el mecanismo establecido en los lineamientos correspondientes.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 27.
 
-Se prohíbe el uso de dispositivos inalámbricos con servicio de Internet que puedan ser utilizados como punto de acceso dentro de las zonas de cobertura de las redes Inalámbricas del Gobierno.
+Se prohíbe el uso de dispositivos inalámbricos con servicio de navegación en Internet que puedan ser utilizados como punto de acceso dentro de las zonas de cobertura de las redes inalámbricas del Gobierno.
 
 ###### ARTÍCULO 28.
 
 Se prohíbe la utilización, conexión y habilitación de servidores o servicios de DHCP dentro del SECODI, sin la autorización expresa de la UNIGMER, ésta queda sujeta a que no exista afectación en la operación del SECODI.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 29.
 
-La UNIGMER es la única instancia facultada para filtrar, bloquear o permitir el acceso a páginas WEB en el servicio institucional de Internet, así mismo, es la única instancia facultada para establecer perfiles de usuario con derechos y restricciones de acceso a Internet.
+La UNIGMER es la única instancia facultada para filtrar, bloquear o permitir el acceso a páginas WEB en el servicio institucional de Internet, así mismo, es la única instancia facultada para establecer perfiles de usuario con derechos y restricciones de acceso a Internet, por lo anterior:
+
+I. Queda prohibido el uso de perfil de usuario y claves de acceso por personas distintas al usuario asignado, con o sin autorización del responsable.
+
+II. Es responsabilidad del usuario proteger la identidad de su cuenta y su clave de acceso: login y password.
+
+III. Queda estipulado el uso de únicamente un dispositivo simultáneo por cada usuario, no pudiendo éste compartir el equipo ni los datos de usuario ni contraseña. En caso de entornos multiusuario, se deberá dar aviso a la UNIGMER para la generación de políticas específicas.
+
+IV. Los permisos de navegación por Internet únicamente se asignarán a cuentas de usuario institucionales personales. No serán asignados permisos de navegación por Internet a cuentas de usuario anónimas.
 
 ###### ARTÍCULO 30.
 
@@ -276,6 +356,10 @@ Cualquier proyecto de Telecomunicaciones que involucre la integración al SECODI
 ###### ARTÍCULO 31.
 
 Se establece la tecnología inalámbrica basada en estándar 802.11a que opera en el rango de frecuencias de 5 Ghz., como la única tecnología avalada por la UNIGMER para la implementación de redes locales inalámbricas dentro de las Dependencias y edificios pertenecientes al Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 31 BIS. Al realizar declaraciones o expresar opiniones personales mediante el servicio de navegación en Internet, se deberá indicar claramente que éstas son de carácter personal y de ninguna manera reflejan las del Gobierno del Estado de Hidalgo.
 
 ### CAPÍTULO IV. LICENCIAMIENTO DE SOFTWARE
 
@@ -485,7 +569,7 @@ Todas las Dependencias y Entidades Paraestatales, deberán tener su sitio web de
 
 I. los Sitios Web del Gobierno del Estado de Hidalgo deberán utilizar el dominio hidalgo.gob.mx para comunicar al público que son Sitios Web Oficiales de Dependencias o Entidades Paraestatales en los que se puede confiar para difundir información oficial; y
 
-II. Para el caso de los Sitios Web que sean desarrollados en asociación o a través de concesiones con organismos no estatales se sujetará a lo dispuesto (sic) Artículo 60 de este reglamento; (sic)
+II. Para el caso de los Sitios Web que sean desarrollados en asociación o a través de concesiones con organismos no estatales se sujetará a lo dispuesto (sic) Artículo 60 de este reglamento;
 
 ###### ARTÍCULO 63.
 
@@ -595,7 +679,9 @@ III. Los lineamientos y procedimientos establecidos por la UNIGMER para su prest
 
 Solo personal autorizado tendrá acceso al SITE.
 
-### CAPÍTULO XI. SEGURIDAD. DIGITAL
+> <small>(REFORMADA SU DENOMINAIÓN, P.O. 22 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO XI. SEGURIDAD DE LA INFORMACIÓN Y COMUNICACIÓN
 
 ###### ARTÍCULO 77.
 
@@ -611,7 +697,33 @@ IV. Presentar, alojar o transmitir información, imágenes, textos que no estén
 
 V. Enviar correo basura, spam indiscriminado, o encadenado no autorizado o consentido previamente por los destinatarios; y
 
-VI. Monitorear tráfico de comunicación de cualquier red o sistema sin la debida autorización del usuario o administrador de esta.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+VI. Monitorear tráfico de comunicación de cualquier red o sistema dentro y fuera de SECODI;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+VII. Instalar o implementar sistemas de monitoreo de dispositivos dentro y fuera del SECODI;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+VIII. Instalar o implementar extensores de red, hubs, switches, sistemas NAT/PAT dentro del SECODI;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+IX. Hacer uso del servicio, de manera tal que constituya una molestia, abuso, amenaza o que de cualquier forma atente contra la integridad de los usuarios del servicio de navegación en Internet;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+X. Tratar de evitar o alterar los procesos o procedimientos de medida del tiempo, utilización del ancho de banda o cualquier otro método utilizado por la Unidad de Innovación Gubernamental y Mejora Regulatoria en relación al uso de los productos y servicios;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+XI. Extender el servicio de red mediante cualquier método o dispositivo los enlaces de Red LAN, WAN o cualquier tipo; y
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+XII. Usar software/hardware para acceso remoto a la red institucional. Como medida de prevención de accesos no deseados, para solventar eventuales necesidades de acceso remoto, deberá solicitarse de manera formal la creación de un acceso mediante VPN.
 
 ### CAPÍTULO XII. SANCIONES
 
@@ -640,3 +752,11 @@ EL GOBERNADOR CONSTITUCIONAL DEL
 ESTADO LIBRE Y SOBERANO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE MODIFICA DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA EL USO Y APROVECHAMIENTO DE TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIONES EN EL PODER EJECUTIVO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
