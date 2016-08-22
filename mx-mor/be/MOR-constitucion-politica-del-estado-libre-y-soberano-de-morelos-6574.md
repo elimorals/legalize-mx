@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2016-07-20"
+last_updated: "2016-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2016.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -1064,13 +1064,31 @@ B).- Que se pruebe ante el Congreso que dicho territorio integrado por las pobla
 
 C).- Que los Municipios del cual trata de segregarse el territorio del nuevo Municipio, puedan continuar subsistiendo.
 
-> <small>(F. DE E., P.O. 11 DE AGOSTO DE 1965)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-D).- Que el Ayuntamiento del Municipio que se trata de desmembrar rinda un informe sobre la conveniencia o inconveniencia de la erección de la nueva Entidad Municipal; quedando obligado a dar un informe dentro de los 30 días siguientes a aquel en que le fuere pedido.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
 
-E).- Que igualmente se oiga al Ejecutivo del Estado, quien enviará su informe dentro del término de 10 días contados desde la fecha en que se le remita la comunicación relativa.
+D).- Que el Ayuntamiento del Municipio que se trata de desmembrar rinda un informe sobre la conveniencia o inconveniencia de la erección de la nueva entidad municipal; quedando obligado a dar un informe dentro de los 30 días siguientes a aquél en que le fuere pedido; si transcurriese el plazo fijado sin que el Ayuntamiento rinda el informe requerido, se entenderá que no existe observación contraria a la creación pretendida;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
+E).- Que igualmente se oiga al Ejecutivo del Estado, quien enviará su informe dentro del término de 30 días contados desde la fecha en que se le remita la comunicación relativa;
 
 F).- Que la erección del nuevo Municipio sea aprobada por las dos terceras partes de los Diputados presentes.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
+Para la creación de municipios conformados por pueblos o comunidades indígenas, se aplicarán criterios etnolingüísticos y de asentamiento físico, que acrediten que las comunidades indígenas que se pretendan integrar mediante el reconocimiento como municipio, conformen una unidad política, social, cultural, con capacidad económica y presupuestal, asentada en un territorio determinado y que descienden de poblaciones que habitaban en el territorio actual del país al iniciarse la colonización o del establecimiento de los actuales límites estatales y que reconocen autoridades propias de acuerdo con sus usos y costumbres, debiéndose cumplir sólo con los requisitos señalados en los incisos D), E) y F) de esta fracción.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
+A la creación de un nuevo Municipio, se deberá constituir un Concejo Municipal, el que ejercerá el gobierno en términos de la legislación orgánica municipal, hasta en tanto se efectúen elecciones ordinarias. En la integración de un Concejo Municipal en un Municipio conformado por comunidades indígenas, deberán tomarse en cuenta consideraciones específicas respecto de sus usos y costumbres, con atención y respeto a sus condiciones políticas y sociales.
 
 XII.- Suprimir alguno o algunos de los Municipios existentes, incorporándolos a los más inmediatos, siempre que se demuestre plenamente ante el Congreso que no llenan los requisitos a que se refieren los incisos A y B de la fracción anterior, previo informe del Ayuntamiento o Ayuntamientos de los Municipios que se trate de suprimir, y del Ejecutivo del Estado, dentro de los términos señalados en los incisos C y D, y observándose lo dispuestos (sic) en el inciso E de la misma fracción.
 
@@ -5065,3 +5083,13 @@ PRIMERA.- Aprobado el presente Decreto por el Poder Reformador Local y hecha la 
 SEGUNDA.- Las reformas, adiciones y derogaciones contenidas en el presente Decreto forman parte de esta Constitución desde el momento mismo en que se realizó la declaratoria a que se refiere el artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 TERCERA.- Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto, así como quedan sin efectos los actos derivados.
+
+P.O. 22 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO NOVECIENTOS NOVENTA Y NUEVE POR EL QUE SE REFORMAN LOS INCISOS D) Y E) Y SE ADICIONAN DOS ÚLTIMOS PÁRRAFOS A LA FRACCIÓN XI, DEL ARTÍCULO 40, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, CON EL PROPÓSITO DE ALLANAR LA CREACIÓN DE MUNICIPIOS INDÍGENAS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para que se publique en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos, con fundamento en los artículos 44 y 70, fracción XVII, inciso a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia a partir de la Declaratoria emitida por la LIII Legislatura del Congreso del Estado, en consecuencia, las reformas forman parte integral de la Constitución Política del Estado Libre y Soberano de Morelos desde el momento en que se haga la Declaratoria a que se refiere la disposición precedente, en términos de lo dispuesto por el artículo 147, fracción II, de la propia Constitución.
+
+TERCERA. Se derogan las disposiciones de igual o menor rango que se opongan a lo dispuesto en el presente Decreto.
