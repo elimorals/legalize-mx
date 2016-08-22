@@ -4,7 +4,7 @@ identifier: "MIC-ley-por-una-vida-libre-de-violencia-para-las-mujeres-en-el-9537
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-09"
-last_updated: "2013-08-09"
+last_updated: "2016-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2016.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 9 de agosto de 2013.
 
@@ -773,9 +773,11 @@ II. Preventivas; y,
 
 III. De naturaleza Civil.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 61.
 
-Las órdenes de protección de emergencia y preventivas tendrán una temporalidad no mayor de setenta y dos horas y deberán expedirse por las autoridades competentes dentro de las veinticuatro horas siguientes al conocimiento de los hechos que las generan.
+Las órdenes de protección de emergencia y preventivas deberán otorgarse por las autoridades competentes inmediatamente que se hacen del conocimiento de los hechos que las generan y se mantendrán vigentes hasta que la víctima de violencia deje (sic) estar expuesta al riesgo, en función del interés superior a la víctima.
 
 ###### ARTÍCULO 62.
 
@@ -922,3 +924,15 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 19 diecinueve días del mes de julio del año 2013 dos mil trece.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- LIC. JOSÉ JESÚS REYNA GARCÍA.- EL SUBSECRETARIO DE GOBERNACIÓN ENCARGADO DEL DESPACHO DE LA SECRETARÍA DE GOBIERNO.- FERNANDO CANO OCHOA. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 163 POR EL QUE “SE REFORMA EL ARTÍCULO 61, DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales correspondientes.
+
+TERCERO. El Ejecutivo deberá adecuar sus disposiciones reglamentarias a la presente reforma en un plazo no mayor de 90 días naturales a partir de su publicación.
