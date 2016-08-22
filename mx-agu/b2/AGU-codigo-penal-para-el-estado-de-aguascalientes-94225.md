@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2016-08-08"
+last_updated: "2016-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -354,6 +354,12 @@ Punibilidad en tentativa. En los casos de tentativa, la punibilidad establecida 
 Exclusión de punibilidad. Cuando el responsable hubiese sufrido consecuencias graves en su persona, tenga 60 años cumplidos, padezca enfermedad grave e incurable en estado avanzado, o tenga precario estado de salud, que hicieran notoriamente innecesaria o irracional la aplicación de una pena privativa o restrictiva de la libertad, el juez podrá prescindir de ella.
 
 Si se trata de un hecho punible culposo cometido en contra de un ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubino, adoptante o adoptado del responsable, o cuando el responsable en ocasión de un hecho punible culposo haya sufrido un daño moral de difícil reparación, el juez podrá prescindir de la aplicación de penas privativas o restrictivas de libertad. Esta disposición no se considerará si el responsable en el momento de la realización del hecho, se encontrare bajo el efecto de bebidas embriagantes o narcóticos, o no auxiliare debidamente a las víctimas.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 38 BIS.- Reincidencia. Hay reincidencia siempre que el condenado por sentencia ejecutoria, dictada por cualquier tribunal de la República Mexicana o del extranjero, cometa otro delito en la entidad, si no ha transcurrido, desde el cumplimiento de la condena, un término igual al de la prescripción de la pena.
+
+Al reincidente se le aplicará la sanción que corresponda por el último delito cometido, la que podrá aumentarse hasta en dos terceras partes de la pena mínima establecida en el tipo penal correspondiente.
 
 ## TÍTULO CUARTO. CONSECUENCIAS JURIDICAS DEL DELITO
 
@@ -2522,6 +2528,14 @@ Las reformas a la Ley Orgánica del Poder Judicial iniciarán su vigencia una ve
 P.O. 8 DE AGOSTO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUMERO 360.- SE REFORMAN LOS ARTÍCULOS 55, 140, 146, 147, 150, 151 Y 190, DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 374.- SE ADICIONA EL ARTÍCULO 38 BIS AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
