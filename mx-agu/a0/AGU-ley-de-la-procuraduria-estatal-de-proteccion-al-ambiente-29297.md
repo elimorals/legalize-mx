@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-procuraduria-estatal-de-proteccion-al-ambiente-29297"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-10"
-last_updated: "2013-02-11"
+last_updated: "2016-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29297&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA PROCURADURÍA ESTATAL DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de marzo de 2003.
 
@@ -51,9 +51,13 @@ La presente Ley es de orden público e interés social y tiene por objeto, crear
 
 La Procuraduría Estatal de Protección al Ambiente tendrá su domicilio legal en la Ciudad de Aguascalientes.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 3°.
 
-Para los efectos de esta ley, además de las definiciones que se contienen en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Protección Ambiental para el Estado de Aguascalientes, y el Código Urbano del Estado de Aguascalientes, se entenderá por:
+Para los efectos de esta ley, además de las definiciones que se contienen en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Protección Ambiental para el Estado de Aguascalientes, la Ley de Protección a los Animales para el Estado de Aguascalientes y el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes, se entenderá por:
 
 I. Administración Pública: Las Dependencias, Entidades Paraestatales, Organismos desconcentrados, descentralizados, fideicomisos y demás órganos con que cuente el Gobierno del Estado de Aguascalientes.
 
@@ -61,17 +65,35 @@ II. Congreso del Estado: H. Congreso del Estado de Aguascalientes.
 
 III. Procuraduría: Procuraduría Estatal de Protección al Ambiente.
 
-IV. Secretaría: Secretaría de Desarrollo Social del Estado de Aguascalientes.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-V. Reglamento Interior: El Reglamento de la Procuraduría Estatal de Protección al Ambiente.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2008)</small>
+IV. Subprocuraduría: Subprocuraduría de Protección, Defensa y Bienestar de los Animales.
 
-VI. Junta de Gobierno: Junta de Gobierno de la Procuraduría Estatal de Protección al Ambiente.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
-VII. Legislación Ambiental: Todas las leyes, reglamentos, decretos, acuerdos, resoluciones, normas técnicas y demás disposiciones vigentes de carácter general que conforman la normatividad ambiental del Estado de Aguascalientes.
+V. Secretaría: Secretaría de Medio Ambiente del Estado de Aguascalientes.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+VI. Reglamento Interior: El Reglamento de la Procuraduría Estatal de Protección al Ambiente.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+VII. Junta de Gobierno: Junta de Gobierno de la Procuraduría Estatal de Protección al Ambiente.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+VIII. Legislación Ambiental: Todas las leyes, reglamentos, decretos, acuerdos, resoluciones, normas técnicas y demás disposiciones vigentes de carácter general que conforman la normatividad ambiental del Estado de Aguascalientes, así como la normatividad ambiental federal aplicable dentro del territorio estatal.
 
 ###### Artículo 4°.
 
@@ -83,9 +105,13 @@ La Procuraduría administrará su patrimonio conforme a las disposiciones legale
 
 ### CAPITULO I. De las Atribuciones
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 5°.
 
-Corresponde a la Procuraduría el ejercicio de las atribuciones previstas en la Ley de Protección Ambiental para el Estado de Aguascalientes, así como las siguientes:
+Corresponde a la Procuraduría el ejercicio de las atribuciones previstas en la Ley de Protección Ambiental para el Estado de Aguascalientes, y la Ley de Protección a los Animales para el Estado de Aguascalientes, así como las siguientes:
 
 I. Recibir y atender las denuncias referentes a la violación o incumplimiento de las disposiciones jurídicas establecidas en la Ley de Protección Ambiental para el Estado de Aguascalientes, y demás ordenamientos legales en la materia;
 
@@ -127,21 +153,35 @@ I. Junta de Gobierno;
 
 II. El Procurador;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2005)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-III. Dirección Jurídica y de Dictamen;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2005)</small>
+III. La Subprocuraduría de Protección, Defensa y Bienestar de los Animales;
 
-IV. Dirección de Inspección y Vigilancia Ambiental;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
-V. Dirección Administrativa;
+IV. Dirección Jurídica y de Dictamen;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2005)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-VI. Las Unidades Administrativas que se establezcan en su reglamento interior;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+V. Dirección de Inspección y Vigilancia Ambiental;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+VI. Dirección Administrativa; y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+VII. Las Unidades Administrativas que se establezcan en su reglamento interior;
 
 ###### Artículo 7°.
 
@@ -203,13 +243,17 @@ VIII. Definir, establecer y mantener los sistemas de información, evaluación y
 
 IX. Expedir copias certificadas de los documentos que obran en sus archivos sobre asuntos que competan a la Procuraduría, de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-X. Delegar las facultades en los Directores y los Jefes de Departamento, sin perjuicio de su ejercicio directo, mediante acuerdos que serán publicados en el Periódico Oficial del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+X. Delegar las facultades en la Subprocuraduría, los Directores y los Jefes de Departamento, sin perjuicio de su ejercicio directo, mediante acuerdos que serán publicados en el Periódico Oficial del Estado de Aguascalientes;
 
-XI. Someter a la Junta de Gobierno el nombramiento, promoción y remoción de los Directores así como informarle el nombramiento, promoción y remoción de los demás servidores públicos de la Procuraduría;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+XI. Someter a la Junta de Gobierno el nombramiento, promoción y remoción del Subprocurador, los Directores, así como informarle el nombramiento, promoción y remoción de los demás servidores públicos de la Procuraduría;
 
 XII. Presentar el proyecto de Reglamento Interior a la Junta de Gobierno para su aprobación;
 
@@ -283,9 +327,13 @@ VIII. Las demás atribuciones que establezca el Reglamento Interior.
 
 La Junta de Gobierno se reunirá en sesiones ordinarias una vez cada tres meses, y extraordinarias, cuantas veces sea necesario en los términos que establezca el Reglamento Interior y tomará sus decisiones por mayoría de votos de los integrantes presentes.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 16.
 
-Durante el desempeño de su cargo, el Procurador y demás titulares de las unidades administrativas de la Procuraduría, estarán impedidos para desempeñar cualquier otro puesto público ó privado, salvo los de carácter docente, honorífico y los de causa propia, que no interfiera con el desarrollo de sus funciones.
+Durante el desempeño de su cargo, el Procurador, el Subprocurador y demás titulares de las unidades administrativas de la Procuraduría, estarán impedidos para desempeñar cualquier otro puesto público o privado, salvo los de carácter docente, honorífico y los de causa propia, que no interfiera con el desarrollo de sus funciones.
 
 ###### Artículo 17.
 
@@ -295,23 +343,35 @@ La Procuraduría deberá promover la más amplia difusión de sus funciones y se
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 18.
 
-La Procuraduría, dentro del ámbito de su competencia, iniciará sus actuaciones a instancia de la parte interesada; o de oficio en aquellos casos en que el Procurador así lo determine, de conformidad con la legislación aplicable.
+La Procuraduría, dentro del ámbito de su competencia, iniciará sus actuaciones a instancia de la parte interesada; o de oficio en aquellos casos en que el Procurador así lo determine, e instruir a las áreas correspondientes de conformidad con la legislación aplicable.
 
 ###### Artículo 19.
 
 Los procedimientos de la Procuraduría se regirán por los principios de simplificación, agilidad, economía, información, precisión, legalidad, transparencia e imparcialidad, salvaguardando el legítimo interés de toda persona para solicitar la defensa y protección de su derecho a gozar de un ambiente adecuado para su desarrollo, salud y bienestar.
 
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 20.
 
-Los servidores públicos de las dependencias de la Administración Pública Estatal y Municipal, están obligados a rendir informes que les requiera la Procuraduría en un término de diez días hábiles contados a partir de la recepción de la solicitud; así como expedirle sin costo alguno, las copias certificadas o simples que soporten sus informes, o que la Procuraduría les requiera para la atención de asuntos que esté tramitando.
+Los servidores públicos de las dependencias de la Administración Pública Estatal y Municipal, están obligados a rendir informes que les requiera la Procuraduría y la Subprocuraduría en un término de diez días hábiles contados a partir de la recepción de la solicitud; así como expedirle sin costo alguno, las copias certificadas o simples que soporten sus informes, o que la Procuraduría les requiera para la atención de asuntos que esté tramitando.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
 El acceso a los documentos y las solicitudes de información deberán estar debidamente justificados, y referirse a las quejas específicas objeto de la investigación correspondiente.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 Cuando no sea posible proporcionar los informes o copias certificadas solicitadas por la Procuraduría, el hecho deberá acreditarse por escrito haciendo constar las razones que tuviesen para ello las autoridades respectivas, anexando en su caso, las probanzas acreditables.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
 Los servidores públicos que incumplan con lo previsto en el presente Artículo, incurrirán en responsabilidad administrativa y se harán acreedores a las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
@@ -329,17 +389,29 @@ Las denuncias que se tengan por no presentadas, así como los reportes de los me
 
 Las agrupaciones u organizaciones de particulares podrán presentar denuncias en los términos de esta Ley, designando un representante.
 
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 23.
 
-La Procuraduría podrá iniciar investigaciones de oficio relacionadas con cualquier hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales o constituya o pueda constituir una contravención o falta de aplicación de las normas en materia ambiental, de preferencia en los siguientes casos:
+La Procuraduría podrá iniciar investigaciones de oficio relacionadas con cualquier hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales o constituya o pueda constituir una contravención o falta de aplicación de las normas en materia ambiental o de bienestar y protección animal, de preferencia en los siguientes casos:
 
-I. Denuncias consignadas en los medios de comunicación en caso de especial relevancia ambiental, sobre asuntos de su competencia;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+I. Denuncias consignadas en los medios de comunicación en caso de especial relevancia ambiental o de bienestar y protección animal, sobre asuntos de su competencia;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
 II. Denuncias no ratificadas en los términos previstos por esta Ley o reportes ciudadanos;
 
-III. Hechos que se consideren de especial relevancia para el cumplimiento y aplicación de las disposiciones jurídicas en materia ambiental.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+III. Hechos que se consideren de especial relevancia para el cumplimiento y aplicación de las disposiciones jurídicas en materia ambiental o de protección animal.
 
 ### CAPITULO II. De la Denuncia
 
@@ -351,9 +423,19 @@ Recibido el escrito de denuncia, la Procuraduría acordará sobre su admisión. 
 
 Una vez admitida la denuncia, se radicará y se procederá a investigar los actos, hechos u omisiones, solicitados por el promovente, en un plazo no mayor de 30 días hábiles, durante los cuales se realizará la visita de verificación correspondiente cuando así proceda y en los casos en que no esté conferida a otras autoridades, en los términos que establece la Ley de Procedimiento Administrativo del Estado de Aguascalientes.
 
-La visita de verificación y el acta levantada por motivo de ésta, pasará a calificación y resolución, que emitirá la Procuraduría, la que deberá estar debidamente fundada y motivada dentro de los plazos que indica el presente articulo, y notificará el resultado al denunciante de la misma.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
+La visita de verificación y el acta levantada por motivo de ésta, pasará a calificación y resolución, que emitirá la Procuraduría, la que deberá estar debidamente fundada y motivada dentro de los plazos que indica el presente Artículo, y notificará el resultado al denunciante de la misma.
 
 En aquellos casos en que las facultades de verificación estén conferidas a otras autoridades, la Procuraduría solicitará que se realicen las visitas de verificación respectivas, las cuales resolverán conforme a sus atribuciones e informará del resultado al denunciante y a la Procuraduría.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
+Tratándose de casos de protección, defensa y bienestar de los animales, la investigación estará a cargo de la Subprocuraduría, conforme a los procedimientos establecidos en la presente Ley.
 
 ###### Artículo 26.
 
@@ -391,9 +473,13 @@ En el supuesto de que no se logre la conciliación, la Procuraduría continuará
 
 ### CAPITULO III. De la Recomendación y Sugerencia
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 31.
 
-La recomendación o sugerencia procede cuando por la comisión u omisión de la autoridad se ponga en peligro la salvaguarda del legitimo interés del derecho a gozar de un ambiente adecuado para el desarrollo, salud y bienestar de toda persona, en términos del Título Primero, Capitulo I de la Ley de Protección Ambiental para el Estado de Aguascalientes.
+La recomendación o sugerencia procede cuando por la comisión u omisión de la autoridad se ponga en peligro la salvaguarda del legítimo interés del derecho a gozar de un ambiente adecuado para el desarrollo, salud y bienestar de toda persona, en términos del Título Primero, Capítulo I de la Ley de Protección Ambiental para el Estado de Aguascalientes, o bien, se violenten los principios establecidos en la Ley de Protección a los Animales para el Estado de Aguascalientes.
 
 ###### Artículo 32.
 
@@ -556,3 +642,15 @@ P.O. 11 DE FEBRERO DE 2013.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 375.- REFORMAS Y ADICIONES A LA LEY DE LA PROCURADURÍA ESTATAL DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia el 1º de enero de 2017.
+
+###### ARTÍCULO SEGUNDO.
+
+Las modificaciones al Reglamento de la Ley de la Procuraduría Estatal de Protección al Ambiente, deberán ser expedidas en un término no mayor a noventa días contados a partir de inicio de vigencia del presente Decreto.
