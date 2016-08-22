@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-a-los-animales-para-el-estado-de-22781"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2016-01-25"
+last_updated: "2016-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de noviembre de 2001.
 
@@ -49,9 +49,7 @@ La presente Ley tiene por objeto proteger a los animales de cualquier acto de cr
 
 > <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2009)</small>
 
-###### ARTICULO 1o Bis.
-
-En el Estado de Aguascalientes goza de plena vigencia y aplicación la Declaratoria de los Derechos de los Animales emitida por la Organización de las Naciones Unidas (ONU), de la cual forma parte México, emitida el 15 de octubre de 1978, por lo cual, la misma es de observancia y aplicación obligatoria para todas las autoridades y habitantes del Estado.
+ARTICULO 1o BIS.- En el Estado de Aguascalientes goza de plena vigencia y aplicación la Declaratoria de los Derechos de los Animales emitida por la Organización de las Naciones Unidas (ONU), de la cual forma parte México, emitida el 15 de octubre de 1978, por lo cual, la misma es de observancia y aplicación obligatoria para todas las autoridades y habitantes del Estado.
 
 Las autoridades competentes y la sociedad en general deberán observar los siguientes principios:
 
@@ -211,11 +209,29 @@ XXXV. Secretaría: Secretaría de Medio Ambiente;
 
 XXXVI. Sufrimiento: El padecimiento o dolor innecesario por daño físico a cualquier animal;
 
-XXXVII. Trato digno y respetuoso: Las medidas que esta Ley, su Reglamento, las normas zoológicas y las normas oficiales mexicanas establecen para evitar dolor innecesario o angustia durante su posesión o propiedad, crianza, captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento, adiestramiento y sacrificio;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXXVIII. Vivisección: Abrir vivo a un animal; y
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
-XXXIX. Zoonosis: La transmisión de enfermedades entre seres humanos y animales.
+XXXVII. Subprocuraduría: La Subprocuraduría de Protección, Defensa y Bienestar de los Animales, de la Procuraduría Estatal de Protección al Ambiente del Estado de Aguascalientes.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+XXXVIII. Trato digno y respetuoso: Las medidas que esta Ley, su Reglamento, las normas zoológicas y las normas oficiales mexicanas establecen para evitar dolor innecesario o angustia durante su posesión o propiedad, crianza, captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento, adiestramiento y sacrificio;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+XXXIX. Vivisección: Abrir vivo a un animal; y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+XL. Zoonosis: La transmisión de enfermedades entre seres humanos y animales.
 
 ### CAPITULO II. De la Competencia
 
@@ -285,17 +301,57 @@ VIII. Las demás que esta Ley y aquellos ordenamientos jurídicos aplicables le 
 
 > <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2009)</small>
 
-###### ARTICULO 5o Bis.
+ARTICULO 5o BIS.- Corresponde a la Procuraduría:
 
-Corresponde a la Procuraduría:
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-I. Vigilar el cumplimiento de las disposiciones de la presente Ley y demás ordenamientos que emanen de ella, derivadas de la presentación de denuncia ciudadana o sin mediar denuncia interpuesta, cuando los hechos ameriten su participación tratándose de alguna emergencia, y poner a disposición de las autoridades competentes a quien infrinja las disposiciones de la presente Ley;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+I. Vigilar el cumplimiento de las disposiciones de la presente Ley y demás ordenamientos que emanen de ella, derivadas de la presentación de denuncia ciudadana o sin mediar denuncia interpuesta, cuando los hechos ameriten su participación tratándose de alguna emergencia, que ponga en riesgo la vida o la integridad física del animal, y poner a disposición de las autoridades competentes a quien infrinja las disposiciones de la presente Ley;
 
 II. Dar aviso a las autoridades federales competentes, cuando la tenencia de alguna especie de fauna silvestre en cautiverio o cuando se trate de especies bajo algún estatus de riesgo, no cuenten con el registro y la autorización necesaria de acuerdo a la legislación aplicable en la materia, así como a quienes vendan especies de fauna silvestre, sus productos o subproductos, sin contar con las autorizaciones correspondientes;
 
 III. Emitir recomendaciones, en cuanto a su competencia, a las autoridades estatales y municipales en las materias derivadas de la presente Ley, y sancionar cuando corresponda; y
 
-IV. Las demás que esta Ley, su Reglamento y demás disposiciones jurídicas aplicables le confieran.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+IV. Conocer e investigar sobre actos, hechos u omisiones que puedan ser constitutivos de violaciones, incumplimiento o falta de aplicación de las disposiciones jurídicas en materia de protección, defensa y bienestar de los animales, dentro del ámbito de su competencia;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+V. Vigilar el cumplimiento de los convenios de colaboración celebrados entre asociaciones protectoras de animales legalmente constituidas y los municipios, referidos en la Ley de Protección a los Animales;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+VI. Coadyuvar con las autoridades federales, estatales y municipales para la protección, defensa y bienestar de los animales; y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+VII. Las demás que esta Ley, su Reglamento y demás disposiciones jurídicas aplicables le confieran.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
+ARTICULO 5o TER.- Corresponde a la Subprocuraduría:
+
+I. Apoyar las funciones de la Procuraduría, a fin de que ésta cumpla de manera eficaz, con las disposiciones en materia de protección, defensa y bienestar de los animales y al adecuado ordenamiento territorial del Estado;
+
+II. Conocer e investigar sobre actos, hechos u omisiones que puedan ser constitutivos de violaciones, incumplimiento o falta de aplicación de las disposiciones jurídicas en materia de protección, defensa y bienestar de los animales;
+
+III. Vigilar el cumplimiento de los convenios de colaboración celebrados entre asociaciones protectoras de animales legalmente constituidas y los municipios, referidos en la presente Ley;
+
+IV. Coadyuvar con las autoridades federales, estatales y municipales para la protección, defensa y bienestar de los animales;
+
+V. Las demás facultades delegadas por el Procurador, en términos de la Ley de la Procuraduría Estatal de Protección al Ambiente del Estado de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2009)</small>
 
@@ -1153,9 +1209,7 @@ La autoridad, en coordinación con las sociedades protectoras de animales y los 
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-###### ARTICULO 67 Bis.
-
-Se crea el Fondo para la Protección a los Animales del Estado de Aguascalientes, que dependerá de la Secretaría, cuyos recursos se destinarán a:
+ARTICULO 67 BIS.- Se crea el Fondo para la Protección a los Animales del Estado de Aguascalientes, que dependerá de la Secretaría, cuyos recursos se destinarán a:
 
 > <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2003)</small>
 
@@ -1179,9 +1233,7 @@ V.- Las demás que esta Ley, su Reglamento y otros ordenamientos jurídicos esta
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-###### ARTICULO 67 Ter.
-
-El fondo se regirá por un Consejo Técnico representado por la Secretaría, la Procuraduría, y Asociaciones Protectoras de Animales debidamente acreditadas, este Consejo deberá establecer los instrumentos necesarios para el manejo transparente de los recursos. Los recursos del Fondo se integrarán con:
+ARTICULO 67 TER.- El fondo se regirá por un Consejo Técnico representado por la Secretaría, la Procuraduría, y Asociaciones Protectoras de Animales debidamente acreditadas, este Consejo deberá establecer los instrumentos necesarios para el manejo transparente de los recursos. Los recursos del Fondo se integrarán con:
 
 > <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2003)</small>
 
@@ -1209,9 +1261,17 @@ Las autoridades estatales y municipales en el ámbito de sus respectivas compete
 
 El personal designado al efecto debe contar con la suficiente capacitación y con conocimientos de las materias que regula la presente Ley.
 
-Toda persona podrá denunciar ante la Procuraduría, según corresponda, todo hecho, acto u omisión que contravenga a las disposiciones de la presente Ley y demás ordenamientos jurídicos aplicables.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-La Procuraduría seguirá de oficio todo hecho, acto u omisión que contravenga a las disposiciones de la presente Ley y demás ordenamientos jurídicos aplicables.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
+Toda persona podrá denunciar ante la Procuraduría y las instancias municipales competentes, según corresponda, todo hecho, acto u omisión que contravenga a las disposiciones de la presente Ley y demás ordenamientos jurídicos aplicables.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
+La Procuraduría y las instancias municipales competentes seguirán de oficio todo hecho, acto u omisión que contravenga a las disposiciones de la presente Ley y demás ordenamientos jurídicos aplicables.
 
 Para los efectos del presente Artículo se apegará a lo dispuesto por el Capítulo I del Título VIII de la Ley de Protección Ambiental para el Estado de Aguascalientes, y en su caso a la Ley del Procedimiento Administrativo para el Estado de Aguascalientes.
 
@@ -1522,3 +1582,15 @@ El presente Decreto iniciará su vigencia dentro de los siguientes ciento ochent
 ###### ARTÍCULO SEGUNDO.
 
 Los ayuntamientos dentro de los 30 días siguientes a la entrada en vigencia del presente Decreto, deberán expedir el reglamento correspondiente.
+
+P.O. 22 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 375.- REFORMAS Y ADICIONES A LA LEY DE LA PROCURADURÍA ESTATAL DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia el 1° de enero de 2017.
+
+###### ARTÍCULO SEGUNDO.
+
+Las modificaciones al Reglamento de la Ley de la Procuraduría Estatal de Protección al Ambiente, deberán ser expedidas en un término no mayor a noventa días contados a partir de inicio de vigencia del presente Decreto.
