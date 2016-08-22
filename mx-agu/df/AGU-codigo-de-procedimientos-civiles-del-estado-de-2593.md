@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "2016-06-06"
+last_updated: "2016-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2016.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -1341,7 +1341,9 @@ La persona que intente acción de divorcio, denuncia o querella en contra de su 
 
 El juez podrá llevar a cabo las diligencias que estime convenientes para su mejor juicio y podrá decretar dicha suspensión, tomando en cuenta las circunstancias personales de cada uno de los cónyuges, el interés superior de los hijos menores y de los sujetos a tutela, y dictará las medidas necesarias para asegurar la subsistencia de aquellos a quienes haya la obligación de dar alimentos, quedando subsistentes las demás obligaciones creadas por el matrimonio.
 
-El juez estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores o de alimentos, y para el caso de violencia familiar, el juez valorará los dictámenes, informes y opiniones que hubieren realizado las instituciones publicas, o privadas dedicadas a atender asuntos de esta índole.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
+El juez estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores o de alimentos, y para el caso de violencia familiar y alienación parental, el juez valorará los dictámenes, informes y opiniones que hubieren realizado las instituciones públicas, o privadas dedicadas a atender asuntos de esta índole.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -5757,9 +5759,13 @@ El ascendiente que renuncie o que pierda la patria potestad en ningún caso podr
 
 Podrá decretarse el depósito:
 
-I.- De menores o incapacitados sujetos a patria potestad o a tutela, si son maltratados por sus padres o tutores o reciben de éstos ejemplos perniciosos o son obligados por ellos a cometer actos reprobados por la ley;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
-II.- De huérfanos o incapacitados que queden en el abandono por la muerte, ausencia o incapacidad física de la persona a cuyo encargo estuvieren; y
+I.- De menores o incapacitados sujetos a patria potestad o a tutela, si son maltratados o alienados por sus padres o tutores o reciben de éstos ejemplos perniciosos o son obligados por ellos a cometer actos reprobados por la ley;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+II.- De huérfanos o incapacitados que queden en el abandono por la muerte, ausencia o incapacidad física de la persona a cuyo encargo estuvieren;
 
 > <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -6328,3 +6334,11 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Los procedimientos penales iniciados con antelación al inicio de vigencia de este Decreto, se regirán por las disposiciones vigentes al momento de su inicio.
+
+P.O. 22 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 372.- SE ADICIONA EL ARTÍCULO 347 Y SE REFORMA Y ADICIONA EL ARTÍCULO 466, DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
