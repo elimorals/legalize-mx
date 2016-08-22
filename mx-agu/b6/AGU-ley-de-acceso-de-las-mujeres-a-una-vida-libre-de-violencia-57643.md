@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2016-02-22"
+last_updated: "2016-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -177,11 +177,37 @@ III. La violencia sexual: Es la acción u omisión mediante la cual se induce o 
 
 IV. La violencia patrimonial: Es cualquier acto u omisión que afecta la supervivencia de la mujer. Se manifiesta en la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a bienes comunes o propios de la víctima;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
-V. La violencia económica y laboral: La económica es toda acción u omisión del hombre violento que afecta la supervivencia económica de la mujer. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso económico, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral; la laboral es aquella ejercida en tal ámbito en términos del Artículo 12 de la presente Ley, así como cualquier limitación para que una mujer pueda ocupar un cargo o puesto laboral por encontrarse en estado de gravidez; y
+V. La violencia económica y laboral: La económica es toda acción u omisión del hombre violento que afecta la supervivencia económica de la mujer. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso económico, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral; la laboral es aquella ejercida en tal ámbito en términos del Artículo 12 de la presente Ley, así como cualquier limitación para que una mujer pueda ocupar un cargo o puesto laboral por encontrarse en estado de gravidez;
 
-VI. Cualesquiera otras formas análogas que, por acción u omisión, lesionen o sean susceptibles de lesionar la dignidad, integridad o libertad de las mujeres.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+VI. La violencia obstétrica: Es todo acto u omisión del personal de salud, tanto médico, auxiliar y/o administrativo, que, en ejercicio de su profesión u oficio, dañe, lastime o denigre a la mujer en su salud física y psicoemocional, durante el periodo de embarazo, parto, puerperio y procesos reproductivos;
+
+Se considerará de manera enunciativa que existe violencia obstétrica, en los siguientes casos:
+
+a) En los que exista negligencia;
+
+b) En los que la atención médica exprese un trato deshumanizado, discriminatorio o de humillación;
+
+c) En los que la atención médica niegue a la mujer el recibir la información oportuna y/o conlleve a la pérdida de su autonomía y capacidad de decidir libremente sobre el tratamiento médico que recibe;
+
+d) En los que se dé la imposición de métodos anticonceptivos sin mediar consentimiento de la mujer, la práctica del parto por vía cesárea, existiendo la posibilidad para efectuar el parto natural y sin haber obtenido la renuncia voluntaria, expresa e informada de la mujer a esta posibilidad.
+
+e) La negativa, retraso o la omisión injustificada de brindar atención médica oportuna y eficaz a las mujeres en el embarazo, parto, puerperio, y procesos reproductivos.
+
+f) Alterar sin justificación o sin consentimiento de la mujer o de quien legalmente esté facultado para otorgarlo, el proceso natural del parto de bajo riesgo, mediante su patologización, abuso de medicación, o el uso de técnicas que aceleren el nacimiento;
+
+g) Obligar a la mujer a parir en una posición en específico, cuando existan los medios técnicos para que lo realice en la posición que ella elija;
+
+h) Obstaculizar sin causa médica justificada el apego precoz del recién nacido con su madre, negándole la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer;
+
+i) Retener a la mujer o al producto de la concepción en los centros de salud o instituciones análogas por su incapacidad de pago; y
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+VII. Cualesquiera otras formas análogas que, por acción u omisión, lesionen o sean susceptibles de lesionar la dignidad, integridad o libertad de las mujeres.
 
 ###### Artículo 9°.
 
@@ -363,9 +389,9 @@ XIV. Embargo preventivo de bienes de la persona violenta, que deberá inscribirs
 
 XV. Obligación alimentaría provisional e inmediata.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
 
-Las órdenes de protección contenidas en las Fracciones I a VI son de emergencia, y las contenidas en las Fracciones VIII a XI son preventivas, deberán ser otorgadas por parte del Ministerio Público, los jueces mixtos, de lo penal, civil y familiar, según corresponda. Las contenidas en las Fracciones VII, y XII a XV son de naturaleza civil y deberán ser otorgadas por los jueces mixtos, de lo civil y familiar, que conozcan del asunto. Las órdenes de protección de emergencia y preventivas deberán expedirse dentro de las ocho horas siguientes al conocimiento de los hechos que las generan, mientras que las de naturaleza civil deberán expedirse dentro de las veinticuatro horas siguientes al conocimiento de los hechos que las generan y tendrán una temporalidad no mayor de setenta y dos horas.
+Las órdenes de protección contenidas en las Fracciones I a VI son de emergencia, y las contenidas en las Fracciones VIII a XI son preventivas, deberán ser otorgadas por parte del Ministerio Público, los jueces mixtos, de lo penal, civil y familiar, según corresponda. Las contenidas en las Fracciones VII, y XII a XV son de naturaleza civil y deberán ser otorgadas por los jueces mixtos, de lo civil y familiar, que conozcan del asunto. Las órdenes de protección de emergencia y preventivas deberán expedirse dentro de las ocho horas siguientes al conocimiento de los hechos que las generan, mientras que las de naturaleza civil deberán expedirse dentro de las veinticuatro horas siguientes al conocimiento de los hechos que las generan y tendrán una temporalidad no mayor de setenta y dos horas, plazo dentro del cual debe emitirse la resolución referida en el párrafo tercero del Artículo 30 bis.
 
 > <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
 
@@ -405,13 +431,25 @@ Las órdenes de protección, atendiendo a la naturaleza de cada una de ellas, se
 
 En toda orden de protección que se expida deberán ponerse a disposición de la autoridad, las personas que ejercen Violencia de Género.
 
-> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2016)</small>
 
-Artículo 30 bis.- La orden de protección surtirá sus efectos al momento de ser notificada y en la misma se citará a la persona agresora para comparecer ante el juez que emite la orden al día siguiente en que la reciba para celebrar audiencia de pruebas y alegatos.
+Artículo 30 bis.- La orden de protección surtirá sus efectos al momento de ser notificada y en la misma se citará a la persona agresora para comparecer ante el juez que emite la orden al día siguiente en que la reciba para celebrar audiencia de pruebas y alegatos; cuando la orden de protección sea otorgada por el Ministerio Público, éste remitirá el expediente al juez competente para que realice la notificación de referencia y dé el trámite previsto en el presente Artículo.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2010)</small>
 
 En la audiencia se recibirán, admitirán y desahogarán las pruebas que procedan y se recibirán los alegatos. Serán supletorios los ordenamientos procesales de la materia en que se dicten las medidas.
 
-El juez tendrá veinticuatro horas para dictar resolución donde confirme, modifique o revoque.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
+El juez tendrá veinticuatro horas para dictar resolución donde confirme, modifique o revoque la orden de protección, atendiendo al peligro existente, el tipo de medida implementada y al interés superior de la víctima, en la resolución se podrá:
+
+I. Prolongar las órdenes de protección de emergencia o preventivas hasta por treinta días naturales; o
+
+II. Prolongar las órdenes de protección de naturaleza civil por el tiempo que determine el juez.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
+El juez durante el desahogo de la audiencia deberá evitar cualquier circunstancia que propicie la revictimización de la mujer violentada.
 
 ### CAPÍTULO V. Del Sistema Estatal para la Erradicación de la Violencia de Género Contra las Mujeres
 
@@ -1286,3 +1324,19 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los ciento veinte días hábiles siguientes al inicio de vigencia del presente Decreto, deberán realizarse las adecuaciones conducentes al Reglamento de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes.
+
+P.O. 22 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 370.- SE REFORMA Y ADICIONA EL ARTÍCULO 8º DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 371.- SE REFORMAN LOS ARTÍCULOS 27 Y 30 BIS, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el periódico oficial del Estado.
