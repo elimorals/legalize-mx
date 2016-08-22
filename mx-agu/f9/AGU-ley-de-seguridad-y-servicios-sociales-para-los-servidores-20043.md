@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-y-servicios-sociales-para-los-servidores-20043
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-29"
-last_updated: "2015-12-31"
+last_updated: "2016-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 29 de enero de 2001.
 
@@ -377,7 +377,9 @@ VII.- Dictar las políticas, bases y programas generales que regulen los conveni
 
 VIII.- Aprobar la estructura básica de la organización del Instituto y las modificaciones que posteriormente sean procedentes;
 
-IX.- Nombrar a los Directores de Administración, de Prestaciones Económicas y de Medicina, Seguridad e Higiene del Instituto, a propuesta del Director General, sin perjuicio de las facultades que al efecto se les deleguen;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+IX. Nombrar a los Directores de Administración, de Prestaciones Económicas, de Medicina Seguridad e Higiene, de Contabilidad y Finanzas, y a los titulares de la Unidad de Inversiones y de la Unidad de Administración Integral de Riesgos del Instituto, a propuesta del Director General sin perjuicio de las facultades que al efecto se les deleguen.
 
 X.- Aprobar, a propuesta del Director General, los reglamentos internos y los manuales de organización y procedimientos del Instituto, así como los de servicios y prestaciones de los afiliados;
 
@@ -422,6 +424,44 @@ IV.- No tener litigios pendientes contra el Instituto;
 V.- No haber sido sentenciado por delitos patrimoniales o inhabilitado para ejercer el comercio o para desempeñarse como servidor público; y
 
 VI.- No desempeñar un cargo de elección popular.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
+ARTICULO 24 bis 1.- El titular de la Unidad de Administración Integral de Riesgos, deberá reunir los siguientes requisitos:
+
+I. Tener estudios concluidos de Licenciatura en alguna de las siguientes disciplinas: Contaduría Pública, Administración, Economía, Finanzas, Actuaría, Matemáticas o Ingeniería Industrial;
+
+II. Contar con al menos alguna de las certificaciones generales en materia financiera del área de Riesgos referidas en el Anexo J de las Disposiciones de Carácter General en Materia Financiera de los Sistemas de Ahorro para el Retiro publicadas en el Diario Oficial de la Federación el 11 de agosto de 2015, o su equivalente, en caso de que se modifiquen o actualicen las disposiciones referidas;
+
+III. Tener más de 4 años de experiencia en el medio financiero bursátil, específicamente en áreas de riesgos o inversiones de sociedades de inversión, fondos de pensiones o administradoras de fondos para el retiro.
+
+La experiencia adquirida en áreas de promoción o venta de productos financieros no será tomada en cuenta;
+
+IV. Tener al menos 2 años de experiencia en las metodologías de medición de riesgos financieros;
+
+V. Conocimiento de los mercados e instrumentos financieros de renta fija, renta variable, divisas y derivados; y
+
+VI. Haber ocupado un puesto gerencial o directivo en materia de administración de riesgos o inversiones.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
+ARTICULO 24 BIS 2.- El titular de la Unidad de Inversiones deberá reunir los siguientes requisitos:
+
+I. Tener estudios concluidos de Licenciatura en alguna de las siguientes disciplinas: Contaduría Pública, Administración, Economía, Finanzas, Actuaría, Matemáticas o Ingeniería Industrial;
+
+II. Haber obtenido la Certificación de la Asociación Mexicana de Intermediarios Bursátiles (AMIB) Figura 3;
+
+III. Tener más de 5 años de experiencia en el manejo de herramientas para el análisis de mercados financieros;
+
+IV. Tener más de 2 años de experiencia en el manejo de mercado de dinero y capitales;
+
+V. Tener más de 2 años de experiencia en el manejo de análisis fundamental;
+
+VI. Tener más de 3 años de experiencia laboral en el sistema financiero en materia de mercados financieros;
+
+VII. Tener más de 2 años de experiencia en el análisis de mercados y análisis bursátil; y
+
+VIII. Haber ocupado un puesto directivo en alguna institución financiera.
 
 ###### ARTICULO 25.
 
@@ -1445,9 +1485,11 @@ Los servidores públicos sólo podrán otorgar la garantía solidaria de présta
 
 Los préstamos se harán de tal manera que los abonos para reintegrar la cantidad prestada y sus intereses, sumados a los demás descuentos que deban hacerse al servidor público o pensionista no excedan del cincuenta por ciento de su sueldo base de cotización o pensión, salvo que éstos soliciten un descuento mayor.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 133.
 
-El plazo para el pago de los préstamos no será mayor de dieciocho meses.
+El plazo para el pago de los préstamos no será mayor de treinta y seis meses.
 
 ###### ARTICULO 134.
 
@@ -1479,9 +1521,11 @@ Para el otorgamiento de préstamos a corto plazo, se considera exclusivamente co
 
 El Instituto podrá otorgar préstamos hipotecarios a los servidores públicos y pensionistas de acuerdo con los recursos aprobados por la Junta Directiva en el presupuesto anual y el fondo se formará con el porcentaje que determine la propia Junta de las aportaciones que se realicen al fondo de vivienda de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 140.
 
-Los servidores públicos que hayan contribuido por más de dos años continuos al Instituto, podrán obtener préstamos con garantía hipotecaria en primer lugar sobre inmuebles urbanos.
+Los servidores públicos que hayan contribuido por dos años al Instituto, podrán obtener préstamos con garantía hipotecaria en primer lugar sobre inmuebles urbanos.
 
 Los préstamos se destinarán a los siguientes fines:
 
@@ -1497,13 +1541,15 @@ IV.- La redención de gravámenes que soporten tales inmuebles.
 
 El servidor público o pensionista que solicite un préstamo hipotecario deberá cumplir con los siguientes requisitos:
 
-a).- Tener más de dos años continuos de contribuir al Instituto;
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
+a).- Haber contribuido dos años al Instituto;
 
 b).- Otorgar en garantía el terreno o vivienda que pretende adquirir y las construcciones o mejoras que vaya a efectuar en los mismos;
 
 c).- Que el inmueble esté inscrito en el Registro Público de la Propiedad, a nombre del servidor público o del de su cónyuge en caso de estar casados por sociedad conyugal, salvo en los casos de préstamos hipotecarios para adquisición de vivienda o terreno;
 
-d).- Acreditar la no propiedad de otros inmuebles que al momento de la solicitud del crédito hipotecario satisfagan las necesidades básicas habitacionales, lo anterior estará supeditado a verificación por parte del Instituto;
+d).- (DEROGADO, P.O. 22 DE AGOSTO DE 2016)
 
 e).- No tener adeudos pendientes de redimir con el Instituto;
 
@@ -1511,15 +1557,17 @@ f).- Que el inmueble se encuentre libre de gravámenes, salvo que el préstamo s
 
 g).- Acreditar que el préstamo se destinará a alguno de los fines mencionados en el Artículo anterior.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 142.
 
-El importe del préstamo hipotecario no excederá de doscientos sesenta y cuatro veces el salario mínimo mensual general en el Estado de Aguascalientes, vigente en la fecha en que se solicite, reservándose el Instituto el derecho de otorgarlo de acuerdo con los recursos de que disponga y con la antigüedad de la solicitud.
+El importe del préstamo hipotecario no excederá de $1'000,000.00 en la fecha en que se solicite, reservándose el Instituto el derecho de otorgarlo de acuerdo con los recursos de que disponga y con la antigüedad de la solicitud.
 
-###### ARTICULO 143.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
 
-El préstamo hipotecario no deberá pasar del setenta y cinco por ciento del valor comercial de la finca o lote fijado por los peritos que designe el Instituto.
+###### ARTÍCULO 143.
 
-Cuando se trate de un préstamo para ampliar, remodelar o reparar la casa habitación, la garantía se fincará sobre todo el inmueble, incluyendo las nuevas obras; el préstamo se entregará en cuatro ministraciones del veinticinco por ciento cada una, a comprobación de gastos.
+El préstamo hipotecario no deberá pasar del ochenta y cinco por ciento del valor comercial de la finca o lote fijado por los peritos que designe el Instituto.
 
 ###### ARTICULO 144.
 
@@ -1537,9 +1585,11 @@ Los préstamos hipotecarios causarán un interés anual sobre saldos insolutos, 
 
 Durante los primeros cinco días hábiles de los meses de enero, abril, julio y octubre de cada año, el Instituto actualizará los intereses de acuerdo al Costo Promedio Porcentual vigente en esas fechas.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 148.
 
-El plazo máximo para el pago del capital e intereses del crédito hipotecario, será de quince años y se hará en abonos quincenales consecutivos.
+El plazo máximo para el pago del capital e intereses del crédito hipotecario, será de veinte años y se hará en abonos quincenales consecutivos.
 
 ###### ARTICULO 149.
 
@@ -1559,9 +1609,11 @@ Si por la separación del servidor público se hace necesaria una prórroga, pre
 
 Las cantidades que no sean cubiertas a su vencimiento, se les aplicará una tasa moratoria mensual, igual al Costo Porcentual Promedio vigente fijada por el Banco de México en la fecha en que se incurra en mora, sumando los puntos base adicionales que la Junta Directiva autorice cada año, multiplicado (sic) la tasa que resulte por uno punto cinco.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
 ###### ARTICULO 152.
 
-El servidor público sólo podrá hacer uso del préstamo hipotecario por una sola vez.
+El servidor público podrá ser sujeto hasta un segundo préstamo hipotecario, una vez que haya liquidado su primer crédito hipotecario.
 
 ### CAPITULO VIII. Fondo de Vivienda
 
@@ -1988,3 +2040,11 @@ P.O. 31 DE DICIEMBRE DE 2015.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 379.- SE REFORMA Y ADICIONA LA LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El Presente Decreto entrará en vigencia al siguiente día de su publicación en el Periódico Oficial del Estado.
