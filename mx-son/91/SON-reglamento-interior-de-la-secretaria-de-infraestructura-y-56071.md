@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-secretaria-de-infraestructura-y-56071
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-18"
-last_updated: "2013-06-06"
+last_updated: "2016-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFRAESTRUCTURA Y DESARROLLO URBANO
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE AGOSTO DE 2016.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 18 junio de 2007.
 
@@ -599,9 +599,17 @@ XI.- Informar permanentemente al superior jerárquico de las acciones programada
 
 XII.- Las demás que le confieran las disposiciones legales aplicables y el superior jerárquico, dentro de sus atribuciones.
 
+> <small>(REFORMADO, B.O. 22 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 15.
 
-La Dirección General de Transporte estará adscrita directamente al titular de la Secretaría y ejercerá las funciones y atribuciones que le otorga la Ley de Transporte para el Estado de Sonora.
+La Dirección General de Transporte estará adscrita directamente al titular de la Secretaría, y será la Unidad Administrativa competente en términos de la Ley de Transporte para el Estado de Sonora, en materia de registro, control y revisión del servicio de transporte público.
+
+Asimismo, será la Unidad Administrativa competente para tramitar, hasta poner en estado de resolución, los procedimientos de revocación de concesiones a que se refiere el Capítulo VI de la Ley de Transporte para el Estado de Sonora.
+
+En el desahogo del trámite del procedimiento a que se refiere el párrafo anterior, la Dirección, con el objeto de allegarse de elementos probatorios necesarios para llegar a la verdad material, podrá auxiliarse de las Delegaciones Regionales del Transporte, para que éstas en ejercicio de las funciones previstas en la Ley, ordenen la práctica de visitas de inspección y vigilancia.
+
+En el dictado de acuerdos, así como en la resolución de incidentes cuya tramitación y resolución correspondan a su competencia, el titular de la Dirección firmará junto al titular de la Unidad Jurídica adscrita, o en su caso, ante dos testigos de asistencia.
 
 > <small>(REFORMADO, B.O. 6 DE JUNIO DE 2013)</small>
 
@@ -842,3 +850,11 @@ Contratos Territorial porte
 B.O. 6 DE JUNIO DE 2013.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 22 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFRAESTRUCTURA Y DESARROLLO URBANO”.]
+
+PRIMERO. Publíquese el presente Reglamento en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
