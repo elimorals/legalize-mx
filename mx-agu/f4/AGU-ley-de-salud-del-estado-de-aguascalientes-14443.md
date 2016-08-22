@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2016-08-08"
+last_updated: "2016-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -898,6 +898,14 @@ I.- La atención de la mujer durante el embarazo, el parto y el puerperio;
 II.- La atención del niño y la vigilancia de su nutrición, crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna; y
 
 III.- La promoción de la integración y del bienestar familiar.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
+La atención materno-infantil se regirá por los principios de respeto a la dignidad humana, no discriminación, no violencia obstétrica, integridad, libertad y seguridad del paciente; y habrá de realizarse con profesionalismo, calidad y calidez, humanismo médico, mínima medicación, consentimiento informado, infraestructura digna y adecuada, privacidad, y confidencialidad.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
+En caso de emergencia, la atención integral médica deberá ser de la manera más expedita posible, independientemente de que se haya realizado pago alguno, y/o éste se realice con recursos propios o mediante la contratación de seguros individuales o colectivos. Siendo que lo anterior incluirá en su caso, el traslado a la unidad médica u hospitalaria más cercana.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
@@ -3366,3 +3374,11 @@ P.O. 8 DE AGOSTO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación, en el Periódico Oficial del Estado.
+
+P.O. 22 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 370.- SE REFORMA Y ADICIONA EL ARTÍCULO 8° DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
