@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-el-desarrollo-y-proteccion-de-las-madres-jefas-de-8572
 country: "mx"
 rank: "ley"
 publication_date: "2012-02-01"
-last_updated: "2012-02-01"
+last_updated: "2016-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MIC"
 ---
 # LEY PARA EL DESARROLLO Y PROTECCION DE LAS MADRES JEFAS DE FAMILIA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY PARA EL DESARROLLO Y PROTECCIÓN DE LAS MADRES JEFAS DE
+LEY PARA EL DESARROLLO Y PROTECCIÓN DE LAS MADRES JEFAS DE FAMILIA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-FAMILIA DEL ESTADO DE MICHOACÁN DE OCAMPO
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2016.
 
 Ley publicada en la Décima Tercera Sección del Periódico Oficial del Estado de Michoacán, el miércoles 1 de febrero de 2012.
 
@@ -65,9 +63,11 @@ IV. Secretaría: La Secretaría de la Mujer en el Estado; y,
 
 V. Sistema: Es el Sistema Estatal de Desarrollo y Protección de las Madres Jefas de Familia, conformado por la Secretaría de la Mujer en coordinación con las distintas dependencias y entidades de la Administración Pública Estatal.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 3°.
 
-Para los efectos de esta Ley, se consideran madres jefas de familia, las mujeres que tengan a su cargo hijos menores de edad, sean las únicas proveedoras del sustento familiar, no sean beneficiarias de otros apoyos, no perciban ingresos o percibiéndolos, comprobables o no, no sean mayores a dos salarios mínimos.
+Para los efectos de esta Ley, se consideran madres jefas de familia, las personas que tengan a su cargo hijos menores de edad, o que sin ser madre de ellos, acrediten jurídicamente que tienen a su cargo a uno o varios menores de edad y sean las únicas proveedoras del sustento familiar, no sean beneficiarias de otros apoyos, no perciban ingresos o percibiéndolos, comprobables o no, no sean mayores a dos salarios mínimos.
 
 ###### ARTÍCULO 4°.
 
@@ -272,3 +272,11 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 20 veintinte (sic) días del mes de Diciembre del año 2011 dos mil once.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LEONEL GODOY RANGEL.- EL SECRETARIO DE GOBIERNO.- RAFAEL MELGOZA RADILLO. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 164 POR EL QUE "SE REFORMA EL ARTÍCULO 3º DE LA LEY PARA EL DESARROLLO Y PROTECCIÓN DE LAS MADRES JEFAS DE FAMILIA DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
