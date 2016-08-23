@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-desarrollo-forestal-sustentable-del-estado-de-41717"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-22"
-last_updated: "2007-08-23"
+last_updated: "2016-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 22 de noviembre de 2004.
 
@@ -79,9 +79,11 @@ II. La ejecución de obras destinadas a la conservación, protección y generaci
 
 III. La protección y conservación de los suelos con el propósito de evitar su erosión y de las zonas que sirvan de refugio a la fauna y flora silvestres amenazadas, raras o en peligro de extinción.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 4.
 
-En lo no previsto en esta Ley, se aplicará en forma supletoria y en lo conducente, las disposiciones de la Ley General de Desarrollo Forestal Sustentable, la Ley General del Equilibrio y Protección al Ambiente, la Ley del Equilibrio y Protección al Ambiente del Estado de Michoacán de Ocampo y las demás disposiciones vigentes en la materia.
+En lo no previsto en ésta Ley, se aplicará en forma supletoria y en lo conducente las disposiciones de la Ley General del Equilibrio Ecológico y Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, la Ley Ambiental para el Desarrollo Sustentable del Estado de Michoacán, la Ley del Cambio Climático del Estado de Michoacán de Ocampo y las demás disposiciones vigentes en la materia.
 
 ### CAPÍTULO II. DE LA TERMINOLOGÍA EMPLEADA EN ESTA LEY
 
@@ -97,11 +99,17 @@ III. APROVECHAMIENTO SUSTENTABLE: La utilización de los recursos naturales, en 
 
 IV. ÁREAS DE PROTECCIÓN FORESTAL: Comprenden los espacios forestales colindantes a la zona federal y de influencia de nacimientos, corrientes, costas, cursos y cuerpos de agua a la faja de terreno inmediata a los cuerpos de propiedad particular, en la extensión que en cada caso fije la autoridad, de conformidad con las leyes aplicables en la materia;
 
-V. AYUNTAMIENTOS: Los ayuntamientos del Estado;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2016)</small>
+
+V. Ayuntamientos: Los ayuntamientos y Concejos Municipales del Estado;
 
 VI. BIODIVERSIDAD: La variabilidad de organismos vivos de cualquier fuente, incluidos entre otros, los ecosistemas terrestres, marinos y otros ecosistemas acuáticos y los complejos ecológicos de los que forman parte; comprende la diversidad dentro de cada especie, entre las especies y los ecosistemas;
 
 VII. BOSQUE: Asociación de vegetación forestal constituida principalmente por árboles, arbustos, vegetación herbácea, hongos, líquenes y otra vegetación natural de climas fríos y templado-fríos, vinculado a las características físicas, químicas y biológicas del suelo y agua, que además constituye el hábitat de la fauna silvestre y conforma los paisajes naturales;
+
+> <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2016)</small>
+
+VII bis. Cambio de Uso de Suelo en Terreno Forestal: La remoción total o parcial de la vegetación de los terrenos forestales para destinarlos a actividades no forestales;
 
 VIII. COMISIÓN: La Comisión Forestal del Estado;
 
@@ -147,13 +155,17 @@ XXVIII. PROGRAMA DE MANEJO: El componente orientado hacia la ejecución de un pl
 
 XXIX. PROTECCIÓN FORESTAL: El conjunto de medidas y actividades para prevenir y controlar los factores nocivos y destructores de los recursos forestales;
 
-XXX. QUEMA AGROPECUARIA: La acción humana dirigida a la incineración parcial o total de vegetación no forestal, acahuales, rastrojos o esquilmos y en general de materia vegetal, independientemente de que esta se derive de actividades agropecuarias, y que puedan causar incendios forestales;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2016)</small>
+
+XXX. Quema: La acción humana dirigida a la incineración parcial o total de zonas forestales; bosques, selvas, vegetación forestal. Así como las zonas no forestales; acahuales, rastrojos o esquilmos y en general de materia vegetal; independiente de que ésta se derive de actividades agropecuarias;
 
 XXXI. RECURSO NATURAL: El elemento de la naturaleza de utilidad para el desarrollo y el equilibrio de la misma y de los seres vivos en todas sus modalidades;
 
 XXXII. REGLAMENTO: El Reglamento de la presente Ley;
 
-XXXIII. RESTAURACIÓN: El conjunto de actividades tendientes a la recuperación y reestablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2016)</small>
+
+XXXIII. Restauración: El conjunto de actividades tendientes a la rehabilitación de un ecosistema forestal degradado, para recuperar parcial o totalmente su integridad y mantener las condiciones que propicien su persistencia, evolución y continuidad de los procesos naturales;
 
 XXXIV. SECTOR PÚBLICO FORESTAL: Las dependencias y entidades del sector público que actúan en el ámbito forestal;
 
@@ -173,11 +185,11 @@ I. Al Titular del Poder Ejecutivo del Estado, a través del Organismo Público D
 
 II. A los ayuntamientos del Estado, en la esfera de competencia que establece la presente Ley.
 
-> <small>(F. DE E., P.O. 30 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 7.
 
-Corresponde al Titular del Poder Ejecutivo de conformidad con lo dispuesto en la Ley General y retomando las que se transfieren de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Michoacán de Ocampo, las siguientes atribuciones y obligaciones:
+Corresponde al Titular del Poder Ejecutivo de conformidad con lo dispuesto en la Ley General y retomando las que se transfieren de la Ley Ambiental para el Desarrollo Sustentable del Estado de Michoacán de Ocampo, las siguientes atribuciones y obligaciones:
 
 I. Diseñar, formular y aplicar la política forestal en el Estado;
 
@@ -279,7 +291,9 @@ VIII. Estimular la participación activa y ordenada de los propietarios y poseed
 
 IX. Fomentar la cultura, educación, capacitación e investigación en materia forestal, en coordinación con las autoridades competentes, instituciones públicas y privadas y organizaciones sociales, con el objeto de satisfacer las necesidades de recursos humanos y de tecnología que se requiera para el desarrollo del sector;
 
-X. Promover con la participación de la Secretaría de Urbanismo y Medio Ambiente y otras dependencias y entidades competentes, en terrenos forestales y de aptitud preferentemente forestal, el establecimiento de centros de reproducción de especies y de ranchos cinegéticos, donde los usuarios puedan realizar actividades de caza, pesca y ecoturismo;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2016)</small>
+
+X. Promover con la participación de la Secretaría de Medio Ambiente Recursos Naturales y Cambio Climático, y otras dependencias y entidades competentes, en terrenos forestales y de aptitud preferentemente forestal, el establecimiento de centros de reproducción de especies y de ranchos cinegéticos, donde los usuarios puedan realizar actividades de caza, pesca y ecoturismo.
 
 XI. Emitir la autorización, por conducto de su Director General, de solicitudes y programas de manejo para los aprovechamientos de recursos forestales en el Estado, de conformidad con lo establecido en el convenio de descentralización celebrado con la autoridad competente;
 
@@ -983,7 +997,9 @@ Las personas físicas y morales que presten servicios técnicos forestales en la
 
 Para su registro los prestadores de servicios técnicos forestales, presentarán la documentación que se indique en el Reglamento de la presente Ley.
 
-En un plazo de cinco días hábiles contados a partir de la solicitud, se expedirá el Certificado de Inscripción al Padrón Forestal del Estado o se emitirá la resolución respectiva, que se hará del conocimiento de la autoridad competente, para los efectos legales procedentes.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2016)</small>
+
+En un plazo de veinte días hábiles contados a partir de la solicitud, se expedirá el Certificado de Inscripción al Padrón Forestal del Estado o se emitirá la resolución respectiva, que se hará del conocimiento de la autoridad competente, para los efectos legales procedentes.
 
 El Titular del Ejecutivo por conducto de la Comisión, en coordinación con las Autoridades Federales, promoverá la organización, planeación y mejoramiento de los servicios técnicos forestales; así mismo promoverá la constitución de las unidades de manejo forestal, conforme a lo previsto en las disposiciones aplicables.
 
@@ -1135,11 +1151,11 @@ La Comisión difundirá con el apoyo de la Comisión Nacional Forestal, de los a
 
 Los propietarios o poseedores de terrenos forestales o de aptitud preferentemente forestal, así como los titulares de aprovechamientos de recursos forestales y los prestadores de servicios técnicos forestales, cuando detecten la existencia de una plaga o enfermedad en sus predios, deberán informarlo inmediatamente a la Comisión a efecto que ésta emita la notificación de saneamiento de manera emergente. La misma Comisión hará la supervisión técnica y el seguimiento a los trabajos que se realicen.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 109.
 
-Cuando por motivos de sanidad forestal sea necesario realizar un aprovechamiento o eliminación de la vegetación forestal, deberá implementarse un programa que permita la reforestación, restauración y conservación de suelos, estando obligados los propietarios, poseedores o usufructuarios a restaurar mediante inducción de la regeneración natural o la plantación en un plazo no mayor de dos años garantizando el establecimiento de la vegetación forestal que se restaure.
-
-Se promoverá el uso de medidas preventivas para el control de plagas y enfermedades forestales.
+Cuando por motivos de sanidad forestal sea necesario realizar el derribo de arbolado para el tratamiento profiláctico, deberá implementarse un programa que permita la reforestación, restauración y conservación de suelos, estando obligados los propietarios, poseedores o usufructuarios a restaurar mediante inducción de la regeneración natural o la plantación en un plazo no mayor de dos años garantizando el establecimiento de la vegetación forestal que se restaure.
 
 ###### Artículo 110.
 
@@ -1200,6 +1216,10 @@ Cuando los dueños o poseedores legales de los predios dañados demuestren su im
 ###### Artículo 121.
 
 Quienes hagan uso del fuego en contravención de las disposiciones de las Normas Oficiales Mexicanas, recibirán las sanciones que prevé la presente Ley, sin perjuicio de las establecidas en las leyes penales. La autoridad municipal deberá atender el combate y control de incendios; y en el caso de que los mismos superen su capacidad financiera y operativa de respuesta, acudirá a la instancia Estatal correspondiente. Si ésta resultare insuficiente se procederá a informar a la Comisión Nacional Forestal, la cual actuará de acuerdo a los programas y procedimientos específicos.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2016)</small>
+
+Las zonas forestales afectadas por incendios accidentales o provocados no podrán ser destinadas para actividades agropecuarias, ni se les concederá el cambio de uso de suelo durante un periodo de veinte años contados desde el momento de la quema o hasta que se demuestre ante las autoridades correspondientes que se ha resarcido el daño ecológico. Los propietarios o poseedores de las zonas forestales estarán obligados a resarcir el daño de estas zonas mediante la reforestación, sujetándose a lo establecido en la presente Ley y demás ordenamientos jurídicos relacionados con la materia.
 
 El Ejecutivo y los ayuntamientos, procurarán la participación de los organismos de los sectores social y privado, para los efectos señalados en el párrafo que antecede y organizará campañas permanentes de educación, capacitación y difusión de las medidas para prevenir y controlar los incendios forestales.
 
@@ -1503,9 +1523,11 @@ La Comisión a efecto de hacer cumplir lo ordenado, aplicará los medios de apre
 
 En los casos en que proceda, la autoridad correspondiente hará del conocimiento del Ministerio Público competente la realización y omisión de hechos que pudieran configurar uno o más delitos.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 159.
 
-En todo lo no dispuesto por la presente Ley y su Reglamento será de aplicación supletoria a los procedimientos administrativos el Código de Procedimientos Civiles del Estado de Michoacán.
+En todo lo no dispuesto por la presente Ley y su Reglamento serán de aplicación supletoria a los procedimientos administrativos el Código de Justicia Administrativa del Estado de Michoacán de Ocampo y el Código de Procedimientos Civiles para el Estado de Michoacán de Ocampo.
 
 ### CAPÍTULO II. DE LAS INFRACCIONES Y SANCIONES
 
@@ -1517,9 +1539,13 @@ Se consideran infracciones a la presente Ley:
 
 I. No presentar los informes o avisos en tiempo y forma ante las autoridades Estatales, de conformidad con lo dispuesto en la presente Ley;
 
-II. Cambiar el medio de transporte al movilizar materias rimas forestales, sin autorización de la Comisión;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2016)</small>
 
-III. Transportar, almacenar, transformar o poseer materias primas forestales, sin contar con la documentación o sistemas de control establecidos para acreditar su legal procedencia, de conformidad con lo establecido por la autoridad competente;
+II. Cambiar el medio de transporte al movilizar materias primas forestales, sin la autorización de la autoridad competente;
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2016)</small>
+
+III. Aprovechar, derribar, transportar, almacenar, transformar o poseer materias primas forestales, sin contar con la documentación o sistemas de control establecidos para acreditar su legal procedencia, de conformidad con lo establecido por la autoridad competente;
 
 IV. Amparar materias primas forestales que no hubieren sido obtenidas de conformidad con lo establecido por las leyes de la materia, sus Reglamentos o de las normas oficiales mexicanas aplicables a fin de simular su legal procedencia;
 
@@ -1621,7 +1647,9 @@ I. La detención de los presuntos responsables, quienes deberán, sin demora, se
 
 II. El aseguramiento precautorio de los recursos y materias primas forestales, así como de los bienes, vehículos, utensilios, herramientas, equipo y cualquier instrumento directamente relacionado con la acción u omisión que origine la imposición de esta medida;
 
-III. La clausura temporal de las operaciones del establecimiento, o la suspensión parcial o total del funcionamiento de la maquinaria o equipos, dedicada al aprovechamiento, almacenamiento o transformación de los recursos y materias primas o de los sitios o instalaciones, en donde se desarrollan los actos que puedan dañar la biodiversidad o los recursos naturales; y,
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2016)</small>
+
+III. La clausura temporal de las operaciones del establecimiento, o la suspensión parcial o total del funcionamiento de la maquinaria o equipos, dedicada al aprovechamiento, almacenamiento o transformación de los recursos y materias primas o el desmantelamiento y remoción (sic) los objetos y vegetación inducida, de los sitios o instalaciones, en donde se desarrollan los actos que puedan dañar la biodiversidad o los recursos naturales; y,
 
 IV. La suspensión temporal, parcial o total del aprovechamiento o de las actividades que se trate.
 
@@ -1720,3 +1748,19 @@ P.O. 23 DE AGOSTO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
+
+P.O. 23 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 167 POR EL QUE “SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 121 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y trámite correspondiente.
+
+P.O. 23 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 174.- SE REFORMA EL ARTÍCULO 4, SE ADICIONA LA FRACCIÓN VII BIS, SE REFORMAN LAS FRACCIONES V, XXX Y XXXIII DEL ARTÍCULO 5, SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 7, SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 10, SE REFORMAN LOS ARTÍCULOS 85, 109, 159, LA FRACCIÓN II, III DEL ARTÍCULO 160 Y LA FRACCIÓN III DEL ARTÍCULO 166 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional de Michoacán de Ocampo.
+
+Artículo Segundo. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y trámite correspondiente.
