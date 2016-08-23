@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-planeacion-hacendaria-presupuesto-gasto-publico-y-99750"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-20"
-last_updated: "2016-08-05"
+last_updated: "2016-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DE PLANEACIÓN HACENDARIA, PRESUPUESTO, GASTO PÚBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 20 de marzo de 2014.
 
@@ -373,6 +373,22 @@ La Secretaría conjuntamente con la Coordinación de Planeación dictará las di
 
 El Presupuesto de Egresos, se deberá estructurar por unidad programática presupuestaria, por unidad responsable de los programas institucionales y especiales, en los que se señalen los indicadores de gestión, objetivos, actividades, metas y techos financieros, en congruencia con los programas estratégicos, sectoriales y regionales del Plan Integral de Desarrollo del Estado, de acuerdo a las atribuciones que se derivan de la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo, y en su caso, de la Ley, Decreto o Acuerdo de creación.
 
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2016)</small>
+
+El proyecto de Presupuesto de Egresos se presentará y aprobará, cuando menos, conforme a las siguientes clasificaciones:
+
+I. La administrativa, la cual agrupa a las previsiones de gasto conforme a los ejecutores de gasto; mostrará el gasto neto total, con sus correspondientes unidades responsables;
+
+II. La funcional y programática, la cual agrupa a las previsiones de gasto con base en las actividades que por disposición legal le corresponden a los ejecutores de gasto y de acuerdo con los resultados que se proponen alcanzar, en términos de funciones, programas, proyectos, actividades, indicadores, objetivos y metas. Permitirá conocer y evaluar la productividad y los resultados del gasto público en cada una de las etapas del proceso presupuestario.
+
+Asimismo se incluirá en el proyecto de Presupuesto de Egresos una clasificación que presente los distintos programas con su respectiva asignación, que conformará el gasto programático, así como el gasto que se considerará gasto no programático, los cuales sumarán el gasto neto total;
+
+III. La económica, la cual agrupa a las previsiones de gasto en función de su naturaleza económica y objeto, en erogaciones corrientes, inversión física, inversión financiera, otras erogaciones de capital, subsidios, transferencias, ayudas, participaciones y aportaciones federales;
+
+IV. La geográfica, que agrupa a las previsiones de gasto con base en su destino geográfico; y,
+
+V. La de género, la cual agrupa las previsiones de gasto con base en su destino por género, diferenciando entre mujeres y hombres.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 17.
@@ -555,9 +571,11 @@ Para el caso de Asociaciones Público Privadas con recursos federales, se observ
 
 Los recursos para cubrir adeudos del ejercicio fiscal anterior, previstos en el proyecto de Presupuesto de Egresos, podrán ser hasta por el 2 por ciento de los Ingresos totales del Gobierno del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 22.
 
-El Ejecutivo del Estado publicará, en el Periódico Oficial el presupuesto de egresos aprobado por el Congreso, así mismo las reglas de operación de los programas de inversión del sector social, y las plantillas de personal y tabuladores de sueldos.
+El Ejecutivo del Estado publicará, en el Periódico Oficial el presupuesto de egresos del Gobierno del Estado aprobado por el Congreso, incluyendo los anexos respectivos, así mismo las plantillas de personal y tabuladores de sueldos.
 
 También se publicarán las modificaciones al tabulador, que se autoricen en el transcurso del año.
 
@@ -639,7 +657,7 @@ III. Explicación pormenorizada y justificada de los principales programas, en e
 
 IV. Monto establecido en la Ley de Ingresos y la proposición de gastos del ejercicio presupuestal para el año que corresponda;
 
-V Las asignaciones presupuestales deberán realizarse a nivel de unidad programática, unidad responsable de la ejecución de los programas, subprogramas y partida presupuestal;
+V. Las asignaciones presupuestales deberán realizarse a nivel de unidad programática, unidad responsable de la ejecución de los programas, subprogramas y partida presupuestal;
 
 VI. Situación de la deuda pública al fin del ejercicio presupuestal en curso y estimación de la que se tendrá al cierre del que se propone; así como la proyección de estimación de recurso para el servicio de la deuda hasta por cinco años posteriores;
 
@@ -659,7 +677,7 @@ XIII. Presentar el calendario comparativo mensual de ingresos y gastos estimados
 
 XIV. Toda información que se considere útil para presentar la propuesta en forma clara y completa; y,
 
-XV Las previsiones de egresos se clasificarán separadamente por unidad programática especial.
+XV. Las previsiones de egresos se clasificarán separadamente por unidad programática especial.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2016)</small>
 
@@ -871,9 +889,15 @@ III. Las erogaciones por concepto de servicios personales, contarán con la nóm
 
 IV. Cuando se trate de Inversión Pública deberá contener los avances físicos de obra y el cumplimiento de objetivos y metas de los programas y subprogramas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 44.
 
-La ministración de los fondos con cargo al presupuesto aprobado para los Poderes Legislativo y Judicial, Organismos Autónomos, Entidades y los Organismos Descentralizados, así como a los Municipios, podrán realizarse sin que para ello se requiera presenten a la Secretaría la documentación comprobatoria a que se refiere el artículo anterior, sin embargo, ello no los libera de las obligaciones que derivan de esa disposición y del articulo siguiente de esta Ley.
+La ministración de los fondos con cargo al presupuesto aprobado para los Poderes Legislativo y Judicial, Organismos Autónomos, Dependencias, Entidades y los Organismos Descentralizados, así como a los Municipios, podrán realizarse sin que para ello se requiera presenten a la Secretaría la documentación comprobatoria a que se refiere el artículo anterior, sin embargo, ello no los libera de las obligaciones que derivan de esa disposición y del artículo siguiente de esta Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2016)</small>
+
+En el caso de las Dependencias, lo dispuesto en este artículo será aplicable únicamente cuando se trate de la fracción IV del artículo anterior.
 
 ###### ARTÍCULO 45.
 
@@ -1504,3 +1528,17 @@ DÉCIMO TERCERO. El porcentaje a que hace referencia el artículo 31 Bis de la L
 DÉCIMO CUARTO. Los reglamentos, manuales y demás disposiciones administrativas que en materia presupuestaria emita el Ejecutivo del Estado, deberán de adecuarse a lo dispuesto en el Presente Decreto, a efecto de estar considerados en el Proyecto de Presupuesto de Egresos.
 
 DÉCIMO QUINTO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, y al Titular de la Auditoria Superior de Michoacán, para su conocimiento y efectos legales conducentes.
+
+P.O. 23 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 173.- ARTÍCULO PRIMERO.- SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 19 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO; ARTÍCULO SEGUNDO.- SE REFORMAN LOS ARTÍCULOS 22 PÁRRAFO PRIMERO Y 44 PÁRRAFO PRIMERO Y; SE ADICIONAN LOS ARTÍCULOS 16 CON UN PÁRRAFO SEGUNDO Y 44 CON UN PÁRRAFO SEGUNDO, DE LA LEY DE PLANEACIÓN HACENDARIA, PRESUPUESTO, GASTO PÚBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, salvo lo previsto en el artículo transitorio siguiente.
+
+Segundo. El artículo primero del presente Decreto entrará en vigor a partir del 1° primero de enero de 2017 dos mil diecisiete, de conformidad con lo previsto por el artículo décimo transitorio del Decreto Legislativo número 557 por el que se expide la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo el día 29 de septiembre de 2015.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Cuarto. Los reglamentos, manuales y demás disposiciones administrativas que en materia presupuestaria emite el Ejecutivo del Estado, deberán estar acordes a lo dispuesto por el presente Decreto, a efecto de que estén considerados en el proyecto de Presupuesto de Egresos del Gobierno del Estado.
+
+Quinto. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado y al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, para su conocimiento y efectos legales conducentes.
