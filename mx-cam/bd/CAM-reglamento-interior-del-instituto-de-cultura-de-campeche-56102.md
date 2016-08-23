@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-del-instituto-de-cultura-de-campeche-56102"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-20"
-last_updated: "2007-06-20"
+last_updated: "2016-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE CULTURA DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE CULTURA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 23 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO DE CULTURA DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el miércoles 20 de junio de 2007.
 
@@ -436,3 +438,15 @@ Segundo: Se derogan todas las disposiciones administrativas y reglamentarias en 
 Dado en el Palacio de Gobierno, residencia del Poder Ejecutivo del Estado, en la ciudad de San Francisco de Campeche del Municipio y Estado de Campeche, siendo los veintisiete días del mes de marzo del año dos mil siete.
 
 C.P. JORGE CARLOS HURTADO VALDEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO.- M. en D. RICARDO MEDINA FARFAN, EL SECRETARIO DE GOBIERNO.- RUBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE CULTURA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento del Instituto de Cultura del Estado de Campeche publicado en el Periódico Oficial del Estado No. 3825 el día 20 de junio de 2007.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente reglamento interior.
