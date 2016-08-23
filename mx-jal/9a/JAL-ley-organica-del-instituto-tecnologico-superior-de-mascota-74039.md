@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-tecnologico-superior-de-mascota-7403
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-12-29"
-last_updated: "2015-11-17"
+last_updated: "2016-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "JAL"
 
 LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO SUPERIOR DE MASCOTA
 
-NOTA 1. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO JOSÉ MARIO MOLINA PASQUEL Y HENRÍQUEZ, PUBLICADO EN EL P.O. DE 12 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO JOSÉ MARIO MOLINA PASQUEL Y HENRÍQUEZ, PUBLICADA EN EL P.O. DE 23 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-NOTA 2. DE CONFORMIDAD CON LA ACLARATORIA, PUBLICADA EN LA SECCIÓN III DEL P.O. 17 DE NOVIEMBRE DE 2015, SE PRECISA QUE: “EN CALIDAD DE FE DE ERRATAS, AL PERIÓDICO OFICIAL EL ESTADO DE JALISCO, NÚMERO 45, SECCIÓN VII, DEL JUEVES 12 DE NOVIEMBRE DE 2015, DONDE SE PUBLICÓ LA LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO JOSÉ MARIO MOLINA PASQUEL Y HENRÍQUEZ. ESTÁ UBICADA EN LAS PÁGINAS DE LA 10 HASTA LA NÚMERO 38; PERO, POR NO SER PROCEDENTE LA FECHA DE PUBLICACIÓN, SE DA POR NO DIVULGADA DICHA DISPOSICIÓN.”
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015 (VÉASE F. DE E. DE 17 DE NOVIEMBRE DE 2015).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el martes 29 de diciembre de 2009.
 
@@ -630,6 +628,114 @@ OCTAVO. El Instituto Tecnológico Mario Molina se subroga en todos los derechos 
 NOVENO. Los procedimientos administrativos, recursos y demás asuntos en trámite o pendientes de resolver ante los organismos públicos descentralizados fusionados, continuarán normándose por las disposiciones vigentes al momento de su iniciación, y serán sustanciados y resueltos por el Instituto Tecnológico Mario Molina.
 
 DÉCIMO. Las atribuciones, facultades y funciones que las disposiciones jurídicas aplicables confieran a los organismos públicos descentralizados fusionados, serán ejercidos por el Instituto Tecnológico Mario Molina.
+
+DÉCIMO PRIMERO. La Junta de Gobierno del organismo público descentralizado denominado Instituto Tecnológico Mario Molina, deberá quedar instalada en un plazo no mayor de sesenta días hábiles, contados a partir de la entrada en vigor del presente ordenamiento jurídico.
+
+DÉCIMO SEGUNDO. Las disposiciones reglamentarias vigentes hasta antes de la entrada en vigor de este Decreto, seguirán aplicándose en tanto no se opongan al mismo. La Junta de Gobierno del Instituto propondrá al Titular del Poder Ejecutivo del Estado, a través de la dependencia coordinadora de sector, el proyecto de Reglamento Interno del Instituto Tecnológico Mario Molina, dentro de un plazo máximo de seis meses contados a partir de la fecha en que entre en vigor el presente ordenamiento.
+
+DÉCIMO TERCERO. Las referencias que se hagan en otros ordenamientos legales a los organismos públicos descentralizados fusionados, se entenderán hechas al Instituto Tecnológico Mario Molina.
+
+P.O. 23 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 25535/LX/15 QUE EXPIDE LA LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO JOSÉ MARIO MOLINA PASQUEL Y HENRÍQUEZ”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+SEGUNDO. Se fusionan los siguientes organismos públicos descentralizados:
+
+I. Instituto Tecnológico Superior de Arandas;
+
+II. Instituto Tecnológico Superior de Chapala;
+
+III. Instituto Tecnológico Superior de Cocula;
+
+IV. Instituto Tecnológico Superior de El Grullo;
+
+V. Instituto Tecnológico Superior de La Huerta;
+
+VI. Instituto Tecnológico Superior de Lagos de Moreno;
+
+VII. Instituto Tecnológico Superior de Mascota;
+
+VIII. Instituto Tecnológico Superior de Puerto Vallarta;
+
+IX. Instituto Tecnológico Superior de Tala;
+
+X. Instituto Tecnológico Superior de Tamazula de Gordiano;
+
+XI. Instituto Tecnológico Superior de Tequila;
+
+XII. Instituto Tecnológico Superior de Zapopan; y
+
+XIII. Instituto Tecnológico Superior de Zapotlanejo.
+
+TERCERO. Se abrogan las siguientes leyes:
+
+I. Ley Orgánica del Instituto Tecnológico Superior de Arandas;
+
+II. Ley Orgánica del Instituto Tecnológico Superior de Chapala;
+
+III. Ley Orgánica del Instituto Tecnológico Superior de Cocula;
+
+IV. Ley Orgánica del Instituto Tecnológico Superior de el Grullo, Jalisco;
+
+V. Ley Orgánica del Instituto Tecnológico Superior de la Huerta, Jalisco;
+
+VI. Ley Orgánica del Instituto Tecnológico Superior de Lagos de Moreno;
+
+VII. Ley Orgánica del Instituto Tecnológico Superior de Mascota;
+
+VIII. Ley Orgánica del Instituto Tecnológico Superior de Puerto Vallarta;
+
+IX. Ley Orgánica del Instituto Tecnológico Superior de Tala;
+
+X. Ley Orgánica del Instituto Tecnológico Superior de Tamazula de Gordiano, Jalisco;
+
+XI. Ley Orgánica del Instituto Tecnológico Superior de Tequila, Jalisco;
+
+XII. Ley Orgánica del Instituto Tecnológico Superior de Zapopan; y
+
+XIII. Ley Orgánica del Instituto Tecnológico Superior de Zapotlanejo, Jalisco.
+
+CUARTO. Sin perjuicio de la creación de nuevas Unidades Académicas, el Instituto Tecnológico Mario Molina creado mediante el presente Decreto, cuenta con las siguientes Unidades Académicas:
+
+I. Arandas;
+
+II. Cocula;
+
+III. Chapala;
+
+IV. El Grullo;
+
+V. La Huerta;
+
+VI. Lagos de Moreno;
+
+VII. Mascota;
+
+VIII. Puerto Vallarta;
+
+IX. Tala;
+
+X. Tamazula de Gordiano;
+
+XI. Tequila;
+
+XII. Zapopan; y
+
+XIII. Zapotlanejo.
+
+QUINTO. El organismo público descentralizado denominado Instituto Tecnológico Mario Molina se integra con la estructura orgánica, recursos humanos, financieros y materiales y demás equipo de trabajo de los organismos públicos descentralizados fusionados.
+
+SEXTO. Los recursos humanos, económicos y materiales, así como todo tipo de derechos, valores, fondos y obligaciones de los organismos públicos descentralizados fusionados en términos del artículo segundo transitorio de este Decreto, se transfieren al Instituto Tecnológico Mario Molina, facultando al Titular del Poder Ejecutivo para que, por conducto de la Secretaría de Planeación, Administración y Finanzas, lleve a cabo las adecuaciones presupuestales y administrativas que sean necesarias para el cumplimiento de este Decreto.
+
+SÉPTIMO. En el proceso de instalación del Instituto Tecnológico Mario Molina a que se refiere este Decreto, serán respetados los derechos de los servidores públicos y trabajadores de los organismos públicos descentralizados fusionados.
+
+OCTAVO. El Instituto Tecnológico Mario Molina se subroga en todos los derechos y obligaciones de los organismos públicos descentralizados fusionados.
+
+NOVENO. Los procedimientos administrativos, recursos y demás asuntos en trámite o pendientes de resolver ante los organismos públicos descentralizados fusionados, continuarán normándose por las disposiciones vigentes al momento de su iniciación, y serán sustanciados y resueltos por el Instituto Tecnológico Mario Molina.
+
+DÉCIMO. Las atribuciones, facultades y funciones que las disposiciones jurídicas aplicables confieran a los organismos públicos descentralizados fusionados, serán ejercidos (sic) por el Instituto Tecnológico Mario Molina.
 
 DÉCIMO PRIMERO. La Junta de Gobierno del organismo público descentralizado denominado Instituto Tecnológico Mario Molina, deberá quedar instalada en un plazo no mayor de sesenta días hábiles, contados a partir de la entrada en vigor del presente ordenamiento jurídico.
 
