@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2016-06-27"
+last_updated: "2016-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2016.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -76,6 +76,12 @@ El Estado tiene como base de su división territorial y de su organización pol�
 ###### Artículo 4.
 
 El hombre y la mujer son sujetos de iguales derechos y obligaciones ante la ley.
+
+(NOTA: EL 30 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 85/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 31 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2016)</small>
+
+El Estado garantizará el Derecho a la vida del ser humano, DESDE EL MOMENTO DE LA CONCEPCIÓN HASTA LA MUERTE NATURAL, COMO VALOR PRIMORDIAL QUE SUSTENTA EL EJERCICIO DE LOS DEMÁS DERECHOS; SALVO LAS EXCEPCIONES PREVISTAS EN LAS LEYES.
 
 La libertad del hombre y de la mujer no tiene más límite que la prohibición de la ley; por tanto, toda persona tiene el deber de acatar los ordenamientos expedidos por autoridad competente. Las autoridades sólo tienen las atribuciones concedidas expresamente por la ley.
 
@@ -12452,3 +12458,11 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Artículo Tercero. Se otorga un plazo de ciento ochenta días naturales para adecuar la legislación secundaria a la presente reforma.
+
+G.O. 23 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 912 QUE ADICIONA UN PÁRRAFO QUE SERÁ EL SEGUNDO AL ARTÍCULO 4 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
