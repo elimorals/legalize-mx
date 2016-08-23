@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-administracion-publica-del-estado-de-110090"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-09-29"
-last_updated: "2016-04-22"
+last_updated: "2016-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110090&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2016.
 
 Ley publicada en la Décima Sección del Periódico Oficial del Estado de Michoacán, el martes 29 de septiembre de 2015.
 
@@ -329,7 +329,11 @@ IX. Controlar, supervisar y dar seguimiento a la deuda pública contratada por l
 
 X. Intervenir en todas las operaciones en que el Estado haga uso del crédito público;
 
-XI. Ministrar a las dependencias y entidades de la Administración Pública Estatal, los recursos programados de acuerdo al calendario y presupuestos aprobados para cada ejercicio presupuestal;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2016)</small>
+
+XI. Ministrar a las dependencias y entidades de la Administración Pública Estatal, los recursos programados de acuerdo al calendario y presupuestos aprobados para cada ejercicio presupuestal. Tratándose de obra pública, los recursos financieros serán transferidos oportunamente a efecto de que sean aplicados bajo la responsabilidad de las propias dependencias y entidades ejecutoras;
 
 XII. Emitir o autorizar, según el caso, los catálogos de cuentas para la contabilidad del gasto público del Estado en apego a los lineamientos que se emitan en materia de armonización contable.
 
@@ -1562,6 +1566,20 @@ P.O. 22 DE ABRIL DE 2016.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Artículo Segundo. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales correspondientes.
+
+P.O. 23 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 173 POR EL QUE “SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 19 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, salvo lo previsto en el artículo transitorio siguiente.
+
+Segundo. El artículo primero del presente Decreto entrará en vigor a partir del 1° primero de enero de 2017 dos mil diecisiete, de conformidad con lo previsto por el artículo décimo transitorio del Decreto Legislativo número 557 por el que se expide la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo el día 29 de septiembre de 2015.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Cuarto. Los reglamentos, manuales y demás disposiciones administrativas que en materia presupuestaria emita el Ejecutivo del Estado, deberán estar acordes a lo dispuesto por el presente Decreto, a efecto de que estén considerados en el proyecto de Presupuesto de Egresos del Gobierno del Estado.
+
+Quinto. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado y al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, para su conocimiento y efectos legales conducentes.
 
 ###### ARTÍCULO DÉCIMO.
 
