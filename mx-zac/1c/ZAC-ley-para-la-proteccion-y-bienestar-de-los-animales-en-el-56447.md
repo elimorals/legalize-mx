@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-la-proteccion-y-bienestar-de-los-animales-en-el-56447"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-25"
-last_updated: "2014-07-05"
+last_updated: "2016-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56447&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY PARA LA PROTECCION Y BIENESTAR DE LOS ANIMALES EN EL ESTADO Y MUNICIPIOS DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY PARA EL BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 24 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES EN EL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2016 (ABROGADA).
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 25 de julio de 2007.
 
@@ -938,3 +940,51 @@ P.O. 5 DE JULIO DE 2014.
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 24 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 602.- LEY DEL BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE ZAC.”]
+
+Vigencia
+
+Artículo primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Abrogación
+
+Artículo segundo. Se abroga la Ley para la Protección y Bienestar de los Animales en el Estado y Municipios de Zacatecas, publicada en el suplemento al número 59 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 25 de julio del 2007.
+
+Derogación tácita
+
+Artículo tercero. Se derogan las disposiciones que contravengan esta Ley.
+
+Declaratorias
+
+Artículo cuarto. Quedan subsistentes los Decretos señalados a continuación:
+
+I. El Decreto #640 mediante el cual se declara la "Fiesta de Toros" en el Estado de Zacatecas, patrimonio cultural inmaterial;
+
+II. El Decreto #131 por el cual se declara la Charrería en el Estado de Zacatecas, Patrimonio Cultural Inmaterial; y
+
+III. El Decreto #570 mediante el cual se declaran las "Peleas de Gallos", en el Estado de Zacatecas, Patrimonio Cultural Inmaterial.
+
+Emisión de Reglamento
+
+Artículo quinto. Dentro de los noventa días naturales siguientes a la entrada en vigor de la presente Ley, se publicará en el Periódico Oficial, Órgano del Gobierno del Estado, el Reglamento de la presente Ley.
+
+En ese mismo plazo, será reformado el Reglamento Interior de la Secretaría de Agua y Medio Ambiente y los relativos a las demás dependencias señaladas en el artículo 7 de este ordenamiento.
+
+Nombramiento de Director
+
+Artículo sexto. El Ejecutivo del Estado nombrará al Director de Bienestar y Protección Animal, de acuerdo con lo previsto en la fracción XI del artículo 82 de la Constitución Política del Estado.
+
+Reformas complementarias
+
+Artículo séptimo. En un plazo que no exceda de ciento veinte días naturales contados a partir de la entrada en vigor de esta Ley, la Legislatura del Estado aprobará las reformas correspondientes a la Ley Orgánica de la Administración Pública del Estado, el Código Penal para el Estado y otras disposiciones legales, para armonizarlos a este cuerpo normativo.
+
+Plazo para constitución Fondo Estatal
+
+Artículo octavo. Dentro de los noventa días naturales siguientes a la entrada en vigor de la presente Ley, quedará constituido el Fondo Estatal para la Protección y Bienestar de los Animales.
+
+Unidad de medida y actualización
+
+Artículo noveno. La unidad de medida y actualización a que se refiere el artículo 84 de esta Ley, se establece para el presente ejercicio fiscal, a razón de $73.04 (setenta y tres pesos 04/100 M.N.), y será actualizada de acuerdo con el valor de la unidad de medida y actualización, que para tal efecto publique el Instituto Nacional de Estadística y Geografía en el Diario Oficial de la Federación.
