@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-de-ciudad-guadalupe-7899"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-15"
-last_updated: "2014-06-27"
+last_updated: "2016-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 15 de noviembre de 1995.
 
@@ -105,9 +105,11 @@ NORMAS PRELIMINARES.
 
 DISPOSICIONES GENERALES.
 
-###### ARTICULO 1.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2016)</small>
 
-El presente Reglamento, es de interés público y observancia general para toda persona que habite o transite en este Municipio. Se expide con fundamento en el Artículo 115 Fracción II de la Constitución Política de los Estados Unidos Mexicanos; en el Artículo 131 de la Constitución Política del Estado de Nuevo León; y en los Artículos 160, 161, 162, 163, 166, 167 y demás relativos de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León.
+###### ARTÍCULO 1.
+
+El presente Reglamento es de interés público y observancia general para toda persona que habite o transite en este Municipio. Se expide con fundamento a lo establecido por el Artículo 115, Fracción II de la Constitución Política de los Estados Unidos Mexicanos; en el Artículo 131, de la Constitución Política del Estado de Nuevo León; y en los Artículos 222, 223, 224, 225, 226, 227 y demás relativos de la Ley de Gobierno Municipal del Estado de Nuevo León.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
@@ -117,11 +119,13 @@ Este Reglamento tiene por objeto el preservar, mantener y conservar el orden pú
 
 La Secretaría de Seguridad, a través de la Dirección de Policía y de Transito coadyuvará y apoyará a las diversas dependencias del (sic) la administración municipal en la supervisión del exacto cumplimiento de los reglamentos Municipales, remitiendo y poniendo a los presuntos infractores, a disposición de la Coordinación de Jueces Calificadores y alcaides, para los efectos legales correspondientes.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-###### ARTICULO 3.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2016)</small>
 
-Todas las infracciones a las (sic) normatividad establecida en el municipio constituyen faltas administrativas; las sanciones a las infracciones administrativas cometidas a este Reglamento, serán aplicadas sin perjuicio de las responsabilidades civiles o penales que le resulten al infractor.
+###### ARTÍCULO 3.
+
+Todas las infracciones a la normatividad establecida en el municipio constituyen faltas administrativas y; las sanciones a las infracciones administrativas cometidas a este Reglamento, serán aplicadas sin perjuicio de las responsabilidades civiles o penales que le resulten al infractor.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2009)</small>
 
@@ -161,9 +165,17 @@ VII.- La Coordinación de los C. Inspectores.
 
 VIII.- El C. Coordinador de Jueces Calificadores y Alcaides.
 
-###### ARTICULO 5.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-El presente Reglamento, será aplicable en todos los lugares públicos; así como en los Transportes del Servicio Público.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2016)</small>
+
+###### ARTÍCULO 5.
+
+El presente Reglamento, será aplicable en todo el territorio municipal, tanto en lugares públicos como privados en donde se lleven a cabo una o más conductas que constituyan infracciones a la normatividad establecida en el municipio.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 5 BIS.- Para efectos del presente Reglamento se entenderá como lugar público, todo espacio de uso común o libre tránsito, entendiéndose por esto las plazas, los jardines, los mercados, los inmuebles de recreación general, estacionamientos públicos y privados en áreas de acceso general al público, inmuebles públicos, áreas comunes en inmuebles sujetos al régimen de propiedad en condominio, los transportes de servicios públicos y similares, así como cualquier otra que la autoridad determine dentro de sus límites territoriales.
 
 ### CAPITULO 2
 
@@ -439,17 +451,41 @@ XI.- No lavar o tender ropa en las banquetas o balcones de los edificios, tampoc
 
 XII.- Obtener el permiso correspondiente que la Autoridad Municipal y demás Autoridades (Federales o Estatales), les otorguen para quemar fuegos artificiales, cohetes y similares o para la celebración de algún festejo popular. Todo esto, tomando en cuenta el lugar y la seguridad de las personas.
 
-### CAPITULO 5
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 2016)</small>
 
-DE LA CALIFICACIÓN DE INFRACCIONES.
+### CAPITULO 4 Bis. DEL MEDIADOR CIUDADANO
 
-## TITULO II
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2016)</small>
 
-DE LAS INFRACCIONES.
+ARTÍCULO 9 BIS.- Para los efectos de denuncia así como atestiguar las infracciones de Orden Público establecidas en los artículos 14 al 21 del presente Reglamento, se contará con un Mediador Ciudadano, cuyo cargó será honorifico y será aprobado por el Ayuntamiento en base a la convocatoria que para tal efecto emita la Secretaría de Ayuntamiento.
 
-### CAPITULO 6
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2016)</small>
 
-DE LAS INFRACCIONES COMETIDAS AL ORDEN PUBLICO.
+ARTÍCULO 9 BIS I.- Los Mediadores Ciudadanos serán como máximo 3 por cada colonia del municipio de Guadalupe y su no participación no afectará la calificación que debe realizar el Juez Calificador de hecho o conducta alguna, salvo en los casos donde su participación implique verificar y dar certeza del resultado arrojado por herramienta alguna, manual o electrónica, utilizada por la autoridad para advertir si el hecho o conducta es o no punible conforme a los supuestos señalados en los artículos 14 al 21 del presente reglamento. Para ser Mediador Ciudadano se requiere:
+
+I. Ser ciudadano mexicano, con pleno ejercicio de sus derechos;
+
+II. No haber sido condenado por sentencia ejecutoriada por delito grave o doloso del orden común o federal;
+
+III. Tener un modo honesto de vivir;
+
+IV. No haber sido inhabilitado para desempeñar empleo, comisión o cargo público;
+
+V. Contar con estudios mínimos de preparatoria terminada; y
+
+VI. VI. (SIC) Residir en el Municipio por lo menos dos años al día de su nombramiento.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 9 BIS II.- La función del Mediador Ciudadano, además de las dos señaladas en el artículo 9 BIS, será la de intervenir en conflictos vecinales como facilitador de la negociación entre las partes. Lo anterior con el propósito de, por un lado, lograr la solución pacífica de conflictos y por otro, la participación ciudadana en la búsqueda de respuestas a los problemas cotidianos.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2016)</small>
+
+## TÍTULO II. DE LAS INFRACCIONES
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO 5. DE LA CALIFICACIÓN DE INFRACCIONES
 
 ###### ARTICULO 10.
 
@@ -459,51 +495,125 @@ Compete al C. Presidente Municipal, la facultad de determinar la calificación d
 
 El C. Presidente Municipal, podrá delegar la facultad de determinar e imponer sanciones, a los C. Jueces Calificadores o a la persona o personas que él designe.
 
-###### ARTICULO 12.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-Habrá uno o varios C. Jueces Calificadores de guardia todos los días del año, durante las veinticuatro horas del día, los cuales se sujetarán a las siguientes reglas para la aplicación de infracciones y la calificación de las mismas, de acuerdo al procedimiento siguiente:
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2016)</small>
 
-I.- El Juez Calificador hará del conocimiento del detenido, las causas que hayan motivado su arresto.
+ARTÍCULO 11 BIS.- Los presuntos infractores a los Reglamentos Municipales deberán ser presentados ante el Juez Calificador en turno para la calificación de la conducta y en su caso para la imposición de la sanción correspondiente.
 
-II.- El detenido, para su defensa, podrá ser asistido por alguna persona de su confianza.
+En el caso de que la conducta se trate de alguna de las tipificadas como delito se debe poner al infractor inmediatamente a disposición de la autoridad competente.
 
-III.- Si el detenido designa a la persona de su confianza, la cual le asistirá en su defensa, el Juez Calificador en turno, deberá de otorgar las facilidades necesarias para que el defensor del detenido gestione y tramite lo conducente.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-IV.- Sin ningún tipo de formalismo, será celebrada una audiencia a la cual comparecerá el detenido y las personas implicadas en los hechos.
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2016)</small>
 
-V.- Durante la Audiencia, el C. Juez Calificador a su criterio y según sea el caso podrá:
+ARTÍCULO 11 BIS I.- En los casos en los que la conducta que motiva la presunción de una falta administrativa se lleve a cabo en lugares que impidan llevar a cabo la detención del presunto infractor para su presentación ante el Juez Calificador, se informará a éste último mediante el informe policial homologado.
 
-A).- Interrogar al detenido en relación con los hechos materia de la detención.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-B).- Oír al Empleado Municipal que haya intervenido en la detención.
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2016)</small>
 
-C).- Formular las preguntas que estime pertinentes a quienes considere necesario.
+ARTÍCULO 11 BIS II.- El Juez Calificador que reciba el informe policial homologado a que se refiere el artículo anterior, procederá a radicarlo de inmediato y en el mismo auto ordenará citar al presunto infractor para que comparezca al desahogo del Procedimiento Administrativo iniciado en su contra. En el supuesto que se desconozca la identidad del presunto infractor, el Juez Calificador iniciará las investigaciones necesarias para conocer la misma, las cuales sólo tendrán como limitante que no sean contrarias a la ley.
 
-D).- Si lo estima conveniente, practicará careos entre las partes que comparezcan ante él.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-E).- Recibir las pruebas que se le aporten.
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2016)</small>
 
-F).- Ordenar la práctica de diligencias o inspecciones que le permitan establecer la verdad del hecho controvertido.
+ARTÍCULO 11 BIS III.- La notificación del citatorio al presunto infractor, para que comparezca al desahogo del Procedimiento Administrativo, mediante documento en el que se señale claramente la conducta que se le imputa y la infracción administrativa que actualiza la misma. Si no se encontrara presente, la diligencia se entenderá con cualquier otra persona con capacidad de ejercicio que se encuentre en el domicilio. Si no se encontrara persona alguna, si la presente se negara a recibirlo o si por cualquier otro motivo no se pudiera llevar a cabo la diligencia de notificación en los términos antes mencionados, la notificación se entregará al Juez Auxiliar, dejándose copia de la notificación en la puerta o lugar más visible del domicilio del presunto infractor.
 
-G).- Analizar y valorar los hechos que se le planteen y las pruebas que sean aportadas.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-H).- Dictar la resolución que conforme a derecho corresponda, tomando siempre en cuenta la condición social del infractor, las circunstancias en que se produjo la infracción y los demás elementos necesarios. En dicha resolución se calificará la conducta del detenido. Si no fuese responsable, entonces será puesto inmediatamente en libertad. En caso de que resulte responsable, se le impondrá la multa o sanción correspondiente.
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2016)</small>
 
-VI.- Si al interrogar al detenido él mismo confiesa o admite los hechos que se le imputan o la comisión de la infracción, se ordenará la terminación de la Audiencia y sin más trámites se emitirá la resolución correspondiente.
+ARTICULO 11 BIS IV.- Si el presunto infractor no comparece a la cita para el desahogo del Procedimiento Sumario Oral de Justicia Administrativa, el Juez Calificador en Turno ordenará citarle de nueva cuenta, en caso de desacato se procederá conforme a los medios de apremio a la norma vigente aplicable.
 
-VII.- Si el detenido fuese extranjero, se le permitirá la intervención del Cónsul o algún representante de su país. Si no demuestra su legal estancia en el país con los documentos legales correspondientes, será puesto a disposición de las Autoridades migratorias correspondientes o aquellas que resulten competentes.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-VIII.- Si el detenido fuese menor de edad, deberá ser puesto a disposición de la Autoridad competente para conocer de las infracciones cometidas por menores.
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2016)</small>
 
-IX.- Si se observare la comisión de un delito, se turnará el caso al C. Agente del Ministerio Público del Fuero Común, del Fuero Federal, o en su caso, al que corresponda.
+ARTÍCULO 11 BIS VI (SIC).- Las actuaciones en el Procedimiento Administrativo, serán registradas en medios electrónicos para acreditar su certeza. La conservación de los registros estará a cargo de la Secretaría de Ayuntamiento, pudiendo delegar esta obligación en la Coordinación de Jueces Calificadores.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2016)</small>
+
+ARTICULO 11 BIS VII.- Las actuaciones en el Procedimiento Administrativo serán orales, se desahogarán en forma sucesiva y a excepción de los casos a que se refiere el artículo siguiente, serán sin interrupción.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 11 BIS VIII.- El Juez Calificador podrá suspender el procedimiento hasta por un lapso de 30 minutos, en los casos siguientes: a) Para la consideración y valorización de las pruebas; b) Para fundar y motivar la resolución; c) Cuando el presunto infractor designe persona de su confianza para asistirle en su defensa, a fin de que ambos puedan conversar.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 11 BIS IX.- Las audiencias serán públicas, excepto cuando pudieran afectar la moral, la integridad física o psicológica del presunto infractor o de los testigos.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 11 BIS X.- Toda persona que intervenga o asista a las audiencias está obligada a observar respeto y mantener el orden, absteniéndose de emitir comentarios y manifestaciones respecto a las actuaciones que se desarrollen en la diligencia, sin previa autorización expresa del Juez Calificador. El Juez Calificador podrá ordenar el desalojo de las personas que trasgredan estas prescripciones.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2016)</small>
+
+ARTIUCLO 12.- Habrá por lo menos un Juez Calificador de guardia todos los días del año, durante las veinticuatro horas del día, el cual se sujetará a las reglas para la calificación de la conducta y la sanción de la misma, de acuerdo al procedimiento señalado en el siguiente artículo.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2016)</small>
+
+ARTIUCLO 12 BIS.- El procedimiento administrativo para la calificación de las infracciones se sujetará a las reglas siguientes:
+
+I. El Juez Calificador hará del conocimiento del presunto infractor:
+
+a. La que haya motivado su detención, y en su caso la persona o personas que hubieren presentado la queja en su contra.
+
+b. Los derechos que como imputado le son inherentes, y que consisten en:
+
+i. Tiene derecho a realizar una llamada
+
+ii. Tiende derecho a ser asistido en su defensa por alguna persona de su confianza
+
+iii. Todos los demás que le confieran las leyes y tratados
+
+II. Inmediatamente después será celebrada una audiencia oral a la cual comparecerá, el presunto infractor, y las personas implicadas en los hechos.
+
+III. El Juez Calificador desahogará la audiencia en la siguiente
+
+a. Solicitar al presunto infractor que se identifique;
+
+b. Interrogar al presunto infractor en relación a la conducta, materia de la detención;
+
+c. Interrogar al agente que haya intervenido en la detención del presunto infractor;
+
+d. Formular las preguntas que estime pertinentes, tanto a la persona que hubiere presentado la queja, como a los testigos que asistan a la audiencia.
+
+e. Practicar, si lo estimare conveniente, careos ente (sic) las partes que comparezcan ante él;
+
+f. Recibir los elementos de prueba que llegaren a aportarse;
+
+g. Proporcionar al presunto infractor la oportunidad de manifestar lo que su interés convenga, debiendo tener en consideración tales manifestaciones al momento de pronunciar la resolución;
+
+h. Ordenar las prácticas de cualquier diligencia que le permita esclarecer la verdad del caso sometido a su conocimiento;
+
+i. Analizar y valorar los hechos que se le planteen y las pruebas que sean aportadas; estas últimas estarán supletoriamente sujetas a lo señalado por el Código de Procedimientos Civiles de Nuevo León.
+
+j. Dictar la resolución, en la que se determine la existencia o inexistencia de la conducta imputada al presunto infractor, y en su caso si esta constituyen (sic) alguna falta administrativa y la responsabilidad que por su comisión le deriva a aquél.
+
+En el caso de que resulte responsabilidad para el presunto infractor, se procederá a imponerle la sanción que le corresponda, debiendo considerar para ello su condición social y las circunstancias en que se haya producido la infracción; pero en el caso de que no le resultare responsabilidad, será puesto en inmediata libertad.
 
 ###### ARTICULO 13.
 
 Los C. Jueces Calificadores, procurarán que los asuntos de los que hayan tenido conocimiento durante su turno, sean resueltos a la brevedad posible.
 
-### CAPITULO 7
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2016)</small>
 
-DE LAS INFRACCIONES A LA SEGURIDAD DE LA POBLACIÓN.
+### CAPÍTULO 6. DE LAS INFRACCIONES COMETIDAS AL ORDEN PÚBLICO
 
 ###### ARTICULO 14.
 
@@ -529,13 +639,17 @@ VII.- Quien organice peleas de animales sin contar con el permiso de la autorida
 
 A quienes cometan esta infracción, independientemente de las sanciones a que se hagan acreedores, se les decomisará los animales de que se trate, mismos que sean puestos a disposición de la autoridad o instituciones correspondientes.
 
-> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2013)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-VIII.- Alterar de la tranquilidad de la convivencia de los vecinos, originada por la emisión de ruido, provocado, emitido o derivado de una conducta individual, de reuniones o convivencias que alteren el orden y paz pública.
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2016)</small>
 
-### CAPITULO 8
+VIII. Causar ruidos o sonidos que molesten, perjudiquen o afecten la tranquilidad de la ciudadanía, tales como los producidos por estéreos, radios, radio grabadoras, instrumentos musicales, megáfonos o cualquier tipo de aparato de sonido en fuentes fijas o móviles que excedan de 55 decibeles en horario de 06:00 a 22:00 horas y de 50 decibeles de las 22:01 a las 05:59 horas.
 
-DE LAS INFRACCIONES A LA MORAL Y A LAS BUENAS COSTUMBRES.
+A quienes cometan la infracción señalada en la fracción VII, independientemente de las sanciones a que se hagan acreedores, se les decomisará los animales de que se trate, mismos que serán puestos a disposición de la autoridad o instituciones correspondientes.
+
+### CAPITULO 7
+
+DE LAS INFRACCIONES A LA SEGURIDAD DE LA POBLACIÓN.
 
 ###### ARTICULO 15.
 
@@ -571,11 +685,9 @@ XII.- Efectuar por sí, o por interpósita personas, llamadas telefónicas ó en
 
 Así mismo se considerará como infractores a quienes realicen llamadas de broma o denuncias falsas al número telefónico oficial que este asignado para realizar las denuncias anónimas.
 
-### CAPITULO 9
+### CAPITULO 8
 
-DE LAS INFRACCIONES SANITARIAS.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
+DE LAS INFRACCIONES A LA MORAL Y A LAS BUENAS COSTUMBRES.
 
 ###### ARTICULO 16.
 
@@ -611,9 +723,11 @@ XIII.- Faltarle al respeto a los ancianos, niños y mujeres en la Vía Pública 
 
 XIV.- Realizar cualquier acto contra la moral y las buenas costumbres impuestas por la sociedad, en sitios públicos o privados con vista al público.
 
-### CAPITULO 10
+### CAPITULO 9
 
-DE LAS INFRACCIONES AL EJERCICIO DEL COMERCIO Y DEL TRABAJO.
+DE LAS INFRACCIONES SANITARIAS.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 17.
 
@@ -631,9 +745,9 @@ III.- Vender o distribuir tóxicos o solventes de cualquier tipo a los menores d
 
 IV.- Vender y utilizar los tronadores, palomas y demás cohetes o artículos detonadores semejantes, en las calles, plazas, establecimientos mercantiles y demás sitios públicos, sin el permiso de la Autoridad correspondiente.
 
-### CAPITULO 11
+### CAPITULO 10
 
-DE LAS INFRACCIONES AL DERECHO DE PROPIEDAD.
+DE LAS INFRACCIONES AL EJERCICIO DEL COMERCIO Y DEL TRABAJO.
 
 ###### ARTICULO 18.
 
@@ -647,9 +761,9 @@ II.- Ejercer Actos de Comercio dentro del área de cementerios, iglesias, monume
 
 III.- Todas las acciones realizadas en contravención a lo establecido en los Reglamentos de Comercio y de Mercados de (sic) Municipio.
 
-### CAPITULO 12
+### CAPITULO 11
 
-DE LAS INFRACCIONES DE CARÁCTER ADMINISTRATIVO.
+DE LAS INFRACCIONES AL DERECHO DE PROPIEDAD.
 
 ###### ARTICULO 19.
 
@@ -667,9 +781,9 @@ V.- Borrar, destruir o pegar cualquier leyenda sobre los nombres y letras con la
 
 VI.- Dañar, destruir, apoderarse o cambiar de lugar las señales públicas, ya sea de Tránsito o de cualquier Señalamiento Oficial que se encuentre en lugares públicos.
 
-### CAPITULO 13
+### CAPITULO 12
 
-DE LAS INFRACCIONES A LA ECOLOGÍA.
+DE LAS INFRACCIONES DE CARÁCTER ADMINISTRATIVO.
 
 ###### ARTICULO 20.
 
@@ -683,9 +797,9 @@ II.- Romper, alterar o mutilar las boletas de infracciones o cualquier tipo de n
 
 III.- Entorpecer la prestación de los servicios públicos municipales.
 
-### CAPITULO 14
+### CAPITULO 13
 
-DEL CONTROL Y VIGILANCIA EN EL EXPENDIO DE SUSTANCIAS INHALANTES O TÓXICAS A LOS MENORES DE EDAD.
+DE LAS INFRACCIONES A LA ECOLOGÍA.
 
 ###### ARTICULO 21.
 
@@ -709,11 +823,9 @@ VI (SIC).- Arrojar a la vía pública o lotes baldíos, objetos ó animales que 
 
 DE LOS MENORES DE EDAD.
 
-### CAPITULO 15
+### CAPITULO 14
 
-DE LAS INFRACCIONES COMETIDAS POR MENORES DE EDAD.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
+DEL CONTROL Y VIGILANCIA EN EL EXPENDIO DE SUSTANCIAS INHALANTES O TÓXICAS A LOS MENORES DE EDAD.
 
 ###### ARTICULO 22.
 
@@ -737,9 +849,11 @@ Todo aquel establecimiento que venda al público sustancias químicas inhalantes
 
 Aquellos establecimientos comerciales que funcionen con los giros de ferretería, tlapalería, farmacia o tienda de abarrotes; o aquellos que vendan al público sustancias químicas inhalantes, deberán de solicitar identificación personal a todo aquel que desee adquirir dichas sustancias.
 
-### CAPITULO 16
+### CAPITULO 15
 
-DE LAS SANCIONES.
+DE LAS INFRACCIONES COMETIDAS POR MENORES DE EDAD.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 27.
 
@@ -779,93 +893,53 @@ La sanción económica que se aplique por la Autoridad será de entre 1 a 50 cuo
 
 ARTICULO 30 BIS.- En caso de que debido a la infracción cometida por un menor, éste deba permanecer bajo arresto administrativo, se procurará que el mismo se cumpla en un lugar que se encuentre separado de aquél destinado para las personas mayores detenidas, y en ningún caso excederá de 24 horas a partir de que fuere puesto a disposición del Juez Calificador.
 
-## TITULO IV
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2016)</small>
 
-DE LAS SANCIONES.
+## TÍTULO IV. DE LAS SANCIONES
 
-### CAPITULO 17
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2016)</small>
 
-DEL RECURSO DE INCONFORMIDAD.
+### CAPÍTULO 16. DE LAS SANCIONES
 
-###### ARTICULO 31.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-Corresponde a la Autoridad Municipal, por la infracción cometida a cualquiera de las disposiciones del presente Reglamento, aplicar una o varias de las sanciones siguientes:
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2016)</small>
 
-I.- Amonestación.
+###### Artículo 31.
 
-II.- Multa.
+Corresponde a la Autoridad Municipal, por la infracción cometida a cualquiera de las disposiciones del presente reglamento, aplicar una de las sanciones siguientes:
 
-III.- Arresto hasta por 36 horas.
+a. Multa.
 
-> <small>N. DE E. VÉASE EL P.O. DE 27 DE JUNO DE 2014, DE LA PÁGINA 95 A LA 96.</small>
+b. Arresto hasta por treinta y seis horas.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+c. Trabajo en favor de la comunidad
 
-Las sanciones aplicables a la falta administrativa establecida en el artículo 14 Fracción VIII del presente reglamento, una vez recibida la queja del o de los vecinos, y constatado la falta, las sanciones serán aplicadas en el siguiente orden:
+La aplicación de cualquiera de las sanciones administrativas estará seguida por la invitación a omitir continuar con la conducta trasgresora de la normativa municipal y la conminación de que se le impondrá la sanción que le corresponda como reincidente en caso de incurrir de nueva cuenta en la falta administrativa.
 
-1) En horario de 6:00 am a 12:59 pm se entregara notificación, en la que se comunique la amonestación por escrito por la comisión de la falta administrativa y apercibimiento para que en lo sucesivo acate la normatividad;
+En el caso de la multa, si el infractor no la pagare, se permutara esta por el arresto correspondiendo (sic), que no excederá en ningún caso de treinta y seis horas.
 
-2) En el horario de 1:00 am a 5.59 am se entregará citatorio comunicando la notificación de la imposición de una sanción por reincidencia, cuyo monto determinará e impondrá el Juez Calificador citatorio notificación de sanción administrativa;
+En el caso del arresto, siempre que este no sea motivo de permuta por no pagar la multa impuesta, podrá ser permutado por trabajo en favor de la comunidad, si así lo solicitare el infractor.
 
-3) Si derivado de la queja de los vecinos, se constata que el vecino que provoca la alteración de la tranquilidad y paz vecinal, posee antecedentes de amonestación y apercibimiento, se entenderá esta conducta como reincidente.
+El Juez Calificador estará facultado para amonestar al infractor y dejarlo en inmediata libertad, cuando en el Procedimiento Sumarlo Oral de Justicia Administrativa Municipal se haya determinado que se trata de la primera vez que comete la conducta punible.
 
-> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2014)</small>
+La aplicación de las sanciones, para la falta administrativa establecida en el artículo 14 fracción VIII del presente reglamento, y sin menoscabo de las reglas aplicables a la permuta y amonestación, será en el siguiente orden:
 
-En todos los casos de acatarse el apercibimiento, se hará constar ello en el parte que se rinda, del cual se dará copia al Juez Calificador, de no acatar la petición de cese del ruido, o de acatarla solo momentáneamente, y dado que una vez que la autoridad se retiro, se reanude el ruido, que motivo la queja de los vecinos, la autoridad acudirá una vez más y entregara citatorio al infractor comunicándole la imposición de la sanción derivada de tal conducta, misma que se entenderá como reincidente y se hará constar en el parte citado,
+1. Primera vez: multa.
 
-> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2014)</small>
+2. Segunda vez (reincidente): arresto hasta por 36 horas
 
-Los criterios de aplicación de la sanción son los siguientes:
+La multa para esta infracción será de hasta 96 cuotas, si es cometida en horario de 06:00 a 22:00 horas, y hasta de 124 cuotas, si es cometida en horario de 22:01 a 05:59 horas.
 
-HORARIO EN LA TIPO Y MONTO MONTO DE
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-QUE SE COMETE DE SANCIÓN SANCIÓN
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2016)</small>
 
-LA FALTA EN CUOTAS DE EN CUOTAS
+###### Articulo 32.
 
-ADMINISTRATIVA SALARIO MÍNIMO DE SALARIO
+Si la sanción a aplicar fuese una multa, ésta podrá ser de entre 1-una y hasta 150-ciento cincuenta cuotas.
 
-EN LA ZONA MÍNIMO DE
-
-LA ZONA, EN
-
-CASO DE
-
-REINCIDENCIA
-
-De 6:00 a 12:59 am Amonestación por 21 a 50
-
-Escrito y apercibi-
-
-miento de
-
-acatar la
-
-normatividad
-
-De 1:00 a 5:59 am 21 a 50 51 a 100
-
-> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2014)</small>
-
-La autoridad policiaca y jueces calificadores deberán llevar un registro de las infracciones a la norma aquí establecida, a efecto de normar su criterio sobre la aplicación de la sanción en caso de reincidencia.
-
-> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2014)</small>
-
-En todo caso la sanción impuesta, podrá ser conmutada a través de la mediación y los métodos alternos de solución pacifica de los conflictos o conmutada por trabajo comunitario.
-
-> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2014)</small>
-
-III (SIC).- Aplicación de medios de apremio.
-
-> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2014)</small>
-
-Indexación e incorporación del pago de la sanción al pago del impuesto predial.
-
-###### ARTICULO 32.
-
-Si la sanción a aplicar fuese una multa, ésta podrá ser de entre 1-una y hasta 100-cien cuotas.
-
-Se entiende como cuota, el equivalente a un día de Salario Mínimo General Vigente de la Zona Económica a la que corresponda este Municipio.
+Se entiende por cuota, el equivalente a un día de Salario Mínimo General Vigente en la Zona Económica a la que corresponda este Municipio.
 
 ###### ARTICULO 33.
 
@@ -907,11 +981,9 @@ La Autoridad Municipal se reserva los procedimientos para identificar plenamente
 
 DEL RECURSO DE INCONFORMIDAD.
 
-### CAPITULO 18
+### CAPITULO 17
 
-DE LA COMISIÓN DE HONOR Y JUSTICIA Y TRAMITE DE QUEJAS.
-
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
+DEL RECURSO DE INCONFORMIDAD.
 
 ###### ARTICULO 39.
 
@@ -955,11 +1027,11 @@ DE LA COMISIÓN DE HONOR Y JUSTICIA.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE MARZO DE 2001)</small>
 
-### CAPITULO 19
+### CAPITULO 18
 
-DE LA ACTUALIZACION DE ESTE REGLAMENTO.
+DE LA COMISIÓN DE HONOR Y JUSTICIA Y TRAMITE DE QUEJAS.
 
-> <small>[N. DE E. ANTES ARTÍCULO 48]</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 42.
 
@@ -1052,6 +1124,12 @@ Se crea la Comisión de Honor y Justicia de los Cuerpos de Seguridad Pública de
 DE LA ACTUALIZACION DE ESTE REGLAMENTO.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2000)</small>
+
+### CAPITULO 19
+
+DE LA ACTUALIZACION DE ESTE REGLAMENTO.
+
+> <small>[N. DE E. ANTES ARTÍCULO 48]</small>
 
 ###### ARTICULO 63.
 
@@ -1200,3 +1278,15 @@ SEGUNDO.- Instrúyase a la (sic) Direcciones General de Comunicación Social y d
 TERCERO.-. Instrúyase a la Dirección de Policía de Transito municipal para que implemente y lleve a cabo operativos de prevención y de respuesta expedita a la queja de los vecinos sobre alteración de la paz y la tranquilidad producida por ruido de los vecinos, a fin de dar vigencia a la normatividad aquí acordada.
 
 CUARTO.- Instrúyase por parte del Presidente Municipal a la titular de la Secretaría del Ayuntamiento para que remita el presente acuerdo para su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal, y en el Sitio Oficial de Internet del Municipio.
+
+P.O. 24 DE AGOSTO DE 2016.
+
+[N. DE. E TRANSITORIOS DEL "ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 30 DE JUNIO DE 2016, SE APRUEBAN DIVERSAS REFORMAS AL REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE GUADALUPE, N.L".]
+
+PRIMERO.- El presente acuerdo de reformas al "Reglamento de Policía y Buen Gobierno del Municipio de Ciudad Guadalupe, Nuevo León", por modificación a sus artículos 3, 5, 12, 14, fracción VII, artículo 31 y 32, y por adición de los articulas 11 BIS al 11 BIS XI, 12 BIS, entrarán en vigor a los 30-treinta días naturales, a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Instrúyase a la Dirección General de Comunicación Social, a la Secretaría de Prevención Social y a la Secretaría de Seguridad Pública, para que implementen y lleven a cabo un amplia e intensa campaña de fortalecimiento y sensibilización de la práctica de la cultura de convivencia social y armonía vecinal, y de difusión de las presentes reformas.
+
+TERCERO.- Instrúyase a la Secretaría de Seguridad Pública y a l (sic) Secretaría De Prevención Social, para que a través de sus áreas correspondientes implementen y lleven a cabo operativos de prevención y de respuesta expedita a la queja de los vecinos sobre alteración de la paz y la tranquilidad producida por ruido de los vecinos, a fin de dar vigencia a la normatividad aquí acordada.
+
+CUARTO.- Instrúyase por parte del Presidente Municipal al titular de la Secretaría del Ayuntamiento para que remita el presente acuerdo para su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal, y en el Sitio Oficial de Internet del Municipio.
