@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2016-06-17"
+last_updated: "2016-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-01-06"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE AGOSTO DE 2016.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
@@ -214,6 +214,18 @@ XV. Los demás que determine el Pleno.
 ###### Artículo 10.
 
 En los casos a que se refieren las fracciones XIII y XIV del artículo anterior, los titulares de los juzgados de Distrito; de los tribunales Unitarios de Circuito, así como el presidente de los tribunales Colegiados de Circuito deberán comunicar de inmediato, la suspensión o la imposibilidad de funcionamiento del órgano jurisdiccional por causa de fuerza mayor, a la Secretaría Ejecutiva del Pleno, a través de cualquier medio y por oficio dentro de las veinticuatro horas siguientes, del cual el titular de dicha Secretaría dará cuenta al Pleno, en su próxima sesión.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON LA SUSPENSIÓN DE LABORES, D.O.F. 24 DE AGOSTO DE 2016)</small>
+
+###### Artículo 10 Bis.
+
+En casos urgentes que perturben el funcionamiento de los órganos jurisdiccionales; pongan en riesgo la seguridad de los visitantes, de quienes vayan a comparecer en los juicios o de los servidores públicos del Poder Judicial de la Federación; a fin de salvaguardar la seguridad, el Ministro Presidente podrá acordar la suspensión de labores.
+
+La suspensión acordada se hará del conocimiento de los titulares de los órganos jurisdiccionales, a través de un comunicado oficial suscrito por el titular de la Secretaría Ejecutiva del Pleno. El aviso correspondiente se subirá a la página de internet del Consejo y de estimarse necesario, se difundirá por medios tecnológicos. Para tal efecto, el titular de la Dirección General de Tecnologías de la Información proporcionará el apoyo que se requiera.
+
+El titular de la Secretaría Ejecutiva de Administración, a través de la administración regional que corresponda, mantendrá contacto con los titulares de los órganos jurisdiccionales.
+
+De la determinación acordada, tomará conocimiento el Pleno en su próxima sesión.
 
 ### CAPÍTULO TERCERO. PERÍODOS VACACIONALES DE TRIBUNALES COLEGIADOS DE CIRCUITO
 
@@ -3474,3 +3486,11 @@ Los juzgados de Distrito con residencia en la Ciudad de México ejercerán juris
 Derogado.
 
 II. a XXXIII. …".
+
+D.O.F. 24 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON LA SUSPENSIÓN DE LABORES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
