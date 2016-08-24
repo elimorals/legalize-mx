@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-coordinacion-general-de-89916"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-24"
-last_updated: "2012-10-24"
+last_updated: "2016-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89916&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL DE CONSERVACIÓN ECOLÓGICA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL DE CONSERVACIÓN ECOLÓGICA, PUBLICADO EN EL P.O. DE 24 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2016 (ABROGADA).
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 24 de octubre de 2012.
 
@@ -296,3 +298,17 @@ SECRETARIO GENERAL DE GOBIERNO
 LIC. ERNESTO JAVIER NEMER ÁLVAREZ
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL DE CONSERVACIÓN ECOLÓGICA”.]
+
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Reglamento Interior de la Coordinación General de Conservación Ecológica, publicado en el Periódico Oficial "Gaceta del Gobierno" el 24 de octubre de 2012.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por el presente Reglamento.
