@@ -4,7 +4,7 @@ identifier: "FED-condiciones-generales-de-trabajo-para-magistrados-de-85877"
 country: "mx"
 rank: "otro"
 publication_date: "2009-09-09"
-last_updated: "2013-08-09"
+last_updated: "2016-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85877&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-09-09"
 
 CONDICIONES GENERALES DE TRABAJO PARA MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN Y SU GACETA: 9 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN Y SU GACETA: 24 DE AGOSTO DE 2016.
 
 Condiciones publicadas en el Semanario Judicial de la Federación y su Gaceta, Tomo XXX, Noviembre de 2009, páginas de la 965 a la 982.
 
@@ -331,13 +331,11 @@ Con la finalidad de proporcionar seguridad económica y preservar el ingreso de 
 
 El Consejo aportará por cuenta y a nombre de los Magistrados de Circuito y Jueces de Distrito un monto neto igual al que aporten éstos, que podrá ser del 2%, 4%, 5% o 10% del sueldo básico.
 
-> <small>(REFORMADO, S.J.F. Y G. 9 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, S.J.F. Y G. 24 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 48.
 
-Por cada cinco años de servicios prestados en el Gobierno Federal, debidamente acreditados, los Magistrados de Circuito y Jueces de Distrito tendrán derecho al pago de una prima quinquenal hasta llegar a los veinticinco años.
-
-El pago de la prima quinquenal aumenta a 12.5% de conformidad con los acuerdos, lineamientos y con las presentes Condiciones Generales emitidas por el Pleno del Consejo.
+Por cada cinco años de servicios prestados en la Federación, debidamente acreditados, los Magistrados de Circuito y Jueces de Distrito tendrán derecho al pago de una prima quinquenal, como complemento del sueldo tabular, hasta llegar a veinticinco años, conforme a los lineamientos y Acuerdos que determine el Pleno del Consejo.
 
 ###### Artículo 49.
 
@@ -359,11 +357,11 @@ Con la finalidad de contribuir a la protección de la salud de los Magistrados d
 
 En caso de fallecimiento de un Magistrado de Circuito o Juez de Distrito, el Consejo otorgará un apoyo de gastos funerarios y la prestación denominada pagos de defunción, de conformidad con los lineamientos que al efecto emita el Pleno del Consejo.
 
-> <small>(REFORMADO, S.J.F.YG. 9 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, S.J.F.Y G. 24 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 54.
 
-Se otorgará a los Magistrados de Circuito y Jueces de Distrito que se encuentren en situación de retiro una licencia con goce de sueldo de un mes y medio de sueldo tabular como motivo de su jubilación; pensión de retiro por edad y tiempo de servicios o cesantía en edad avanzada; y, seguro de retiro, de cesantía en edad avanzada o de vejez, todo ello, como reconocimiento a las labores prestadas.
+Se otorgará a los Magistrados de Circuito y Jueces de Distrito que se encuentren en situación de retiro una licencia con goce de sueldo de dos meses de sueldo tabular como motivo de su jubilación; pensión de retiro por edad y tiempo de servicios o cesantía en edad avanzada; y, seguro de retiro de cesantía en edad avanzada o de vejez, como reconocimiento a las labores prestadas.
 
 ###### Artículo 55.
 
@@ -566,3 +564,11 @@ TERCERO. Se instruye a la Dirección General de Programación y Presupuesto tome
 CUARTO. Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto por el artículo 28, fracción V, del Acuerdo General 84/2008, del Pleno del Consejo de la Judicatura Federal, que establece las atribuciones de los órganos en materia de transparencia, así como los procedimientos de acceso a la información pública y protección de datos personales, en el Portal de Transparencia del Consejo de la Judicatura Federal.
 
 QUINTO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato el texto de la reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las Condiciones Generales de Trabajo para Magistrados de Circuito y Jueces de Distrito.
+
+S.J.F. Y G. 24 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS CONDICIONES GENERALES DE TRABAJO PARA MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, EN RELACIÓN CON LA PRIMA QUINQUENAL Y LA LICENCIA PRE JUBILATORIA".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Semanario Judicial de la Federación y su Gaceta; así como en el Portal de Internet del Consejo de la Judicatura Federal.
