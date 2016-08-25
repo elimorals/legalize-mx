@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-97482"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-01-17"
-last_updated: "2016-04-14"
+last_updated: "2016-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97482&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-01-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE AGOSTO DE 2016.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 17 de enero de 2014.
 
@@ -141,9 +141,9 @@ XXX. Secretaría: Secretaría Ejecutiva de Disciplina del Consejo de la Judicatu
 
 XXXI. Tribunal Electoral: Tribunal Electoral del Poder Judicial de la Federación; y
 
-> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
-XXXII. Unidades administrativas: Las ponencias de los Consejeros, secretarías ejecutivas, Coordinaciones, Unidad para la Implementación de la Reforma Penal, secretarías técnicas de Comisiones o de Comités, direcciones generales, las Administraciones de los Centros de Justicia Penal, así como la Unidad de Enlace del Consejo y el Archivo General del Consejo, y cualquier otro órgano administrativo creado por ley o acuerdo general del Pleno.
+XXXII. Unidades administrativas: Las ponencias de los Consejeros, secretarías ejecutivas, Coordinaciones, Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, secretarías técnicas de Comisiones o de Comités, direcciones generales, las Administraciones de los Centros de Justicia Penal, así como la Unidad de Enlace del Consejo y el Archivo General del Consejo, y cualquier otro órgano administrativo creado por ley o acuerdo general del Pleno.
 
 ### CAPÍTULO SEGUNDO. MEDIDAS PREVENTIVAS
 
@@ -3046,3 +3046,27 @@ TERCERO. Todas las menciones al salario mínimo como unidad de cuenta, índice, 
 Tratándose de las que se hagan en contratos y convenios vigentes al 28 de enero de 2016, se atenderá a lo dispuesto en artículo séptimo transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016.
 
 CUARTO. El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+D.O.F. 25 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. El Secretario del Comité Técnico del Fideicomiso para el desarrollo de infraestructura del nuevo sistema de justicia penal realizará las acciones necesarias para que se lleven a cabo las adecuaciones respectivas a las Reglas de Operación del Fideicomiso y al contrato correspondiente, sin que ello implique la modificación de su objeto.
+
+CUARTO. Las referencias que se hagan a la Unidad para la Implementación de la Reforma Penal, se entenderán hechas a la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal.
+
+Asimismo, las referencias que se hagan al Fideicomiso para el desarrollo de infraestructura que implementa la Reforma Constitucional en Materia Penal, se entenderán hechas al Fideicomiso para el Desarrollo de Infraestructura del Nuevo Sistema de Justicia Penal.
+
+QUINTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal mantendrá los recursos humanos, materiales y financieros asignados a la Unidad para la Implementación de la Reforma Penal.
+
+SEXTO. Los asuntos que a la entrada en vigor del presente Acuerdo estén en trámite, incluyendo su ejecución, serán atendidos hasta su conclusión de conformidad con las disposiciones con las que fueron iniciados.
+
+Aquellos que estén a cargo de la Unidad para la Implementación de la Reforma Penal, serán atendidos con su nueva denominación, es decir Unidad para la Consolidación del Nuevo Sistema de Justicia Penal.
+
+SÉPTIMO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas competentes que le están adscritas, llevará a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+OCTAVO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
