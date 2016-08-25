@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-para-prevenir-la-109503"
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-08-21"
-last_updated: "2015-08-21"
+last_updated: "2016-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109503&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-08-13"
 
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE AGOSTO DE 2016.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 21 de agosto de 2015.
 
@@ -611,9 +611,9 @@ La Dirección de Asuntos Jurídicos tendrá las siguientes atribuciones:
 
 I. Ejercer ante toda clase de autoridades jurisdiccionales y administrativas el Poder Notarial que le es otorgado a la persona que ocupe el puesto de titular de la Dirección de Asuntos Jurídicos del Consejo y/o a la o las personas que ocupen el puesto inferior jerárquico, que a la letra señala los alcances del:
 
-a) PODER GENERAL PARA PLEITOS Y COBRANZAS, para que lo ejerza ante toda clase de personas y autoridades judiciales y administrativas, civiles, penales y del trabajo, federales y locales, con todas las facultades generales y aun las especiales que requieran poder o cláusula especial conforme a la Ley, en términos del párrafo primero del artículo dos mil quinientos cincuenta y cuatro, y del artículo dos mil quinientos ochenta y siete del Código Civil para el Distrito Federal y sus correlativos de los demás Códigos Civiles de los Estados de la República Mexicana, y del Código Civil Federal, con excepción de la facultad de hacer cesión de bienes a que se refiere la fracción cinco (romano) del último precepto citado. “EL APODERADO” queda facultado para iniciar y proseguir el juicio de amparo y desistirse de él, con la limitación que más adelante se indica; asimismo, se le confieren facultades expresas para promover querellas, presentar denuncias, constituirse en parte civil o coadyuvante con el Ministerio Público y cuantas facultades se requieren en toda clase de asuntos penales;
+a) PODER GENERAL PARA PLEITOS Y COBRANZAS, para que lo ejerza ante toda clase de personas y autoridades judiciales y administrativas, civiles, penales y del trabajo, federales y locales, con todas las facultades generales y aun las especiales que requieran poder o cláusula especial conforme a la Ley, en términos del párrafo primero del artículo dos mil quinientos cincuenta y cuatro, y del artículo dos mil quinientos ochenta y siete del Código Civil para el Distrito Federal y sus correlativos de los demás Códigos Civiles de los Estados de la República Mexicana, y del Código Civil Federal, con excepción de la facultad de hacer cesión de bienes a que se refiere la fracción cinco (romano) del último precepto citado. "EL APODERADO" queda facultado para iniciar y proseguir el juicio de amparo y desistirse de él, con la limitación que más adelante se indica; asimismo, se le confieren facultades expresas para promover querellas, presentar denuncias, constituirse en parte civil o coadyuvante con el Ministerio Público y cuantas facultades se requieren en toda clase de asuntos penales;
 
-b) PODER GENERAL PARA ACTOS DE ADMINISTRACIÓN LABORAL, con las facultades expresas para administrar relaciones laborales, conciliar, designar quien deba comparecer a juicio en los términos de los artículos seiscientos noventa y dos, ochocientos setenta y seis, ochocientos setenta y ocho de la Ley Federal del Trabajo, y podrá celebrar convenios, para lo cual los alcances de este poder serán suficientes para que “EL APODERADO” comparezca ante todas las autoridades laborales relacionadas en el artículo quinientos veintitrés de la Ley Federal del Trabajo, así como ante el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, el Instituto Mexicano del Seguro Social y el Fondo Nacional para el Consumo de los Trabajadores, a realizar todas las gestiones y trámites necesarios para la solución de los asuntos correspondientes al Consejo Nacional para Prevenir la Discriminación, en los que “EL APODERADO” designado comparecerá con el carácter de representante de dicho Consejo, en los términos del artículo once de la Ley Federal del Trabajo;
+b) PODER GENERAL PARA ACTOS DE ADMINISTRACIÓN LABORAL, con las facultades expresas para administrar relaciones laborales, conciliar, designar quien deba comparecer a juicio en los términos de los artículos seiscientos noventa y dos, ochocientos setenta y seis, ochocientos setenta y ocho de la Ley Federal del Trabajo, y podrá celebrar convenios, para lo cual los alcances de este poder serán suficientes para que "EL APODERADO" comparezca ante todas las autoridades laborales relacionadas en el artículo quinientos veintitrés de la Ley Federal del Trabajo, así como ante el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, el Instituto Mexicano del Seguro Social y el Fondo Nacional para el Consumo de los Trabajadores, a realizar todas las gestiones y trámites necesarios para la solución de los asuntos correspondientes al Consejo Nacional para Prevenir la Discriminación, en los que "EL APODERADO" designado comparecerá con el carácter de representante de dicho Consejo, en los términos del artículo once de la Ley Federal del Trabajo;
 
 c) De manera enunciativa y no limitativa se mencionan, entre otras facultades, las siguientes:
 
@@ -641,7 +641,17 @@ VI. Opinar la procedencia jurídica de los manuales de organización, de procedi
 
 VII. Dictaminar la procedencia jurídica de convenios y contratos de arrendamiento, adquisiciones o servicios, o cualquier otro instrumento jurídico en esta materia que celebre el Consejo;
 
-VIII. Registrar y resguardar los instrumentos jurídicos a que se refieren la fracción VII, XVIII del presente artículo;
+> <small>[N. DE E. VÉASE LITERALIDAD DEL ACUERDO PUBLICADO EN EL D.O.F. DE 25 DE AGOSTO DE 2016, PÁGINA 62.]</small>
+
+> <small>(REFORMADA, D.O.F 25 DE AGOSTO DE 2016)</small>
+
+VIII. Registrar y resguardar los instrumentos jurídicos a que se refieren la fracción VII, XVII y XVIII del presente artículo;
+
+"VII. Dictaminar la procedencia jurídica de convenios y contratos de arrendamiento, adquisiciones o servicios, o cualquier otro instrumento jurídico en esta materia que celebre el Consejo;
+
+XVII. Opinar a solicitud de las unidades administrativas sobre la procedencia de los instrumentos jurídicos que suscriba la persona titular de la Presidencia del Consejo en el ámbito de sus atribuciones en materia de cooperación interinstitucional, de conformidad con las disposiciones jurídicas aplicables, así como integrar los expedientes correspondientes.
+
+XVIII. Realizar y tramitar, a solicitud de las unidades administrativas, los registros relativos ante las autoridades e instancias tales como la Comisión Nacional de Mejora Regulatoria (COFEMER) Y EL Instituto Nacional del Derecho de Autor (INDAUTOR), el Diario Oficial entre otras, y."
 
 IX. Emitir opinión respecto a las consultas que en materia jurídica formulen las unidades administrativas del Consejo;
 
@@ -1226,3 +1236,9 @@ TERCERO.- Se abroga el Estatuto Orgánico del Consejo Nacional para Prevenir la 
 CUARTO.- El presente Estatuto regirá para los procedimientos de queja en trámite, que fueron radicados a partir de la reforma a la Ley, publicada en el Diario Oficial de la Federación el 20 de marzo de 2014.
 
 México, D.F., a 13 de agosto de 2015.- El Presidente del Consejo Nacional para Prevenir la Discriminación, Ricardo Antonio Bucio Mújica.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F 25 DE AGOSTO DE 2016.
+
+> <small>[N. DE E. EL “ACUERDO POR EL QUE SE DA A CONOCER LA MODIFICACIÓN AL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN, PUBLICADO EL VEINTIUNO DE AGOSTO DE DOS MIL QUINCE” CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL.]</small>
