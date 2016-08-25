@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2016-08-01"
+last_updated: "2016-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE AGOSTO DE 2016.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -3497,31 +3497,31 @@ Cuando de la investigación de mercado se determine la conveniencia de continuar
 
 Para los efectos de este artículo, deberá obtenerse previamente la autorización del Comité, para lo cual el área que corresponda deberá justificar la necesidad de celebrar la contratación mediante el procedimiento alterno de que se trate. En este caso, antes de someter el asunto a la consideración del Comité se deberá contar con el certificado de necesidad a que se refiere el siguiente artículo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 296 Bis.
 
-La aprobación de los certificados de necesidad corresponde, de forma conjunta, a la Secretaría Ejecutiva de Administración, a la Unidad para la Implementación de la Reforma Penal y a la Dirección General de Asuntos Jurídicos cuando se trate de procedimientos de contratación necesarios para la implementación del sistema procesal penal acusatorio; y solo a la Secretaría Ejecutiva de Administración en los demás casos.
+La aprobación de los certificados de necesidad corresponde, de forma conjunta, a la Secretaría Ejecutiva de Administración, a la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal y a la Dirección General de Asuntos Jurídicos cuando se trate de procedimientos de contratación necesarios para la consolidación del nuevo sistema de justicia penal; y solo a la Secretaría Ejecutiva de Administración en los demás casos.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL ARTÍCULO 296 BIS, PÁRRAFO SEGUNDO, DEL DIVERSO ACUERDO GENERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 9 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
-Para efectos del supuesto de la implementación del sistema procesal penal acusatorio, el área operativa que corresponda presentará, por escrito, a la Secretaría Ejecutiva de Administración, a la Unidad para la Implementación de la Reforma Penal y a la Dirección General de Asuntos Jurídicos, la propuesta debidamente justificada de certificado de necesidad a su consideración y, en su caso, aprobación.
+Para efectos del supuesto de la consolidación del nuevo sistema de justicia penal, el área operativa que corresponda presentará, por escrito, a la Secretaría Ejecutiva de Administración, a la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal y a la Dirección General de Asuntos Jurídicos, la propuesta debidamente justificada de certificado de necesidad a su consideración y, en su caso, aprobación.
 
 > <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 28 DE AGOSTO DE 2015)</small>
 
 La aprobación de dichos certificados deberá darse por todos los titulares de dichas unidades administrativas, los cuales no podrán abstenerse de participar en la decisión que recaiga a la propuesta del certificado de necesidad. Dicha aprobación deberá ser en el ámbito de competencia de cada una de las áreas administrativas participantes.
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
-La Secretaría Ejecutiva de Administración convocará a la Unidad para la Implementación de la Reforma Penal y a la Dirección General de Asuntos Jurídicos a sesión, cada vez que reciba una propuesta de certificado de necesidad para su análisis y, en su caso, aprobación.
+La Secretaría Ejecutiva de Administración convocará a la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal y a la Dirección General de Asuntos Jurídicos a sesión, cada vez que reciba una propuesta de certificado de necesidad para su análisis y, en su caso, aprobación.
 
 > <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 28 DE AGOSTO DE 2015)</small>
 
 De la sesión, la Secretaría Ejecutiva de Administración levantará un acta que será firmada por todos los participantes, en la que se harán constar todos los argumentos esgrimidos por ellos y el sentido de su voto. En caso de que todos los integrantes del grupo aprueben el certificado de necesidad deberán firmarlo.
 
-> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
-Tratándose de los casos diversos a la implementación del sistema procesal penal acusatorio, el área operativa presentará, por escrito, a la Secretaría Ejecutiva de Administración, la propuesta de certificado de necesidad a su consideración y, en su caso, aprobación.
+Tratándose de los casos diversos a la consolidación del nuevo sistema de justicia penal, el área operativa presentará, por escrito, a la Secretaría Ejecutiva de Administración, la propuesta de certificado de necesidad a su consideración y, en su caso, aprobación.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PÁRRAFO] POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 28 DE AGOSTO DE 2015)</small>
 
@@ -11780,3 +11780,27 @@ SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y
 TERCERO. En los procedimientos en trámite, a la entrada en vigor del presente Acuerdo, en los que no se haya comunicado o notificado el fallo en términos del artículo 327 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo, será aplicable lo dispuesto en el párrafo segundo de dicho precepto.
 
 CUARTO. La Dirección General de Tecnologías de la Información proporcionará el apoyo técnico necesario para la videograbación de las sesiones de los Comités y del acto de apertura de propuestas en las licitaciones públicas.
+
+D.O.F. 25 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. El Secretario del Comité Técnico del Fideicomiso para el desarrollo de infraestructura del nuevo sistema de justicia penal realizará las acciones necesarias para que se lleven a cabo las adecuaciones respectivas a las Reglas de Operación del Fideicomiso y al contrato correspondiente, sin que ello implique la modificación de su objeto.
+
+CUARTO. Las referencias que se hagan a la Unidad para la Implementación de la Reforma Penal, se entenderán hechas a la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal.
+
+Asimismo, las referencias que se hagan al Fideicomiso para el desarrollo de infraestructura que implementa la Reforma Constitucional en Materia Penal, se entenderán hechas al Fideicomiso para el Desarrollo de Infraestructura del Nuevo Sistema de Justicia Penal.
+
+QUINTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal mantendrá los recursos humanos, materiales y financieros asignados a la Unidad para la Implementación de la Reforma Penal.
+
+SEXTO. Los asuntos que a la entrada en vigor del presente Acuerdo estén en trámite, incluyendo su ejecución, serán atendidos hasta su conclusión de conformidad con las disposiciones con las que fueron iniciados.
+
+Aquellos que estén a cargo de la Unidad para la Implementación de la Reforma Penal, serán atendidos con su nueva denominación, es decir Unidad para la Consolidación del Nuevo Sistema de Justicia Penal.
+
+SÉPTIMO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas competentes que le están adscritas, llevará a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+OCTAVO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
