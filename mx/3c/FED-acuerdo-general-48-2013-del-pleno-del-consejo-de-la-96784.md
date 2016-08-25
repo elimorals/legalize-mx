@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-48-2013-del-pleno-del-consejo-de-la-96784"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-12-06"
-last_updated: "2016-02-29"
+last_updated: "2016-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96784&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-11-28"
 
 ACUERDO GENERAL 48/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE AGOSTO DE 2016.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 6 de diciembre de 2013.
 
@@ -47,19 +47,21 @@ ACUERDO
 
 ### Capítulo I. Disposiciones generales
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR, 48/2013 QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 1.
 
-El fideicomiso público de administración y pago se denomina Fideicomiso para el desarrollo de infraestructura que implementa la Reforma Constitucional en Materia Penal, y se regirá de conformidad con el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo, el contrato respectivo, sus reglas de operación y demás disposiciones aplicables. La vigencia del fideicomiso será hasta que se instalen los Centros de Justicia Penal Federal en cada uno de los Estados y el Distrito Federal, considerando los periodos de pago y finiquito de los contratos. Cuando esto ocurra, el Comité acordará lo correspondiente para su liquidación.
+El fideicomiso público de administración y pago se denomina Fideicomiso para el desarrollo de infraestructura del nuevo sistema de justicia penal, y se regirá de conformidad con el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo, el contrato respectivo, sus reglas de operación y demás disposiciones aplicables. La vigencia del fideicomiso será hasta que se instalen los Centros de Justicia Penal Federal en cada una de las entidades federativas, considerando los periodos de pago y finiquito de los contratos. Cuando esto ocurra, el Comité acordará lo correspondiente para su liquidación.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR, 48/2013 QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 1 DE DICIEMBRE DE 2015)</small>
 
 Dicha instalación no deberá de exceder del plazo a que se refiere el artículo 392, fracción III, de la Ley General de Títulos y Operaciones de Crédito.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 2.
 
-A efecto de contar con Centros de Justicia Penal Federal en los que se concentren todos los órganos jurisdiccionales que involucra el Sistema Procesal Penal Acusatorio, en específico jueces de Control, de Ejecución de Sanciones Penales, y tribunales de Enjuiciamiento y de Alzada, e incluso, jueces competentes para conocer del sistema de justicia penal para adolescentes, con una estructura funcional y apropiada, que brinde seguridad, dignidad, y sobre todo, eficiencia y funcionalidad, a la impartición de justicia penal federal a efecto de contribuir con la implementación de la Reforma Constitucional en Materia Penal, serán fines del Fideicomiso que con los recursos que integran su patrimonio, el Fiduciario realice los pagos de las contrataciones que haga el Consejo para:
+A efecto de contar con Centros de Justicia Penal Federal en los que se concentren todos los órganos jurisdiccionales que involucra el nuevo sistema de justicia penal, en específico jueces de Control, de Ejecución de Sanciones Penales, y tribunales de Enjuiciamiento y de Alzada, e incluso, jueces competentes para conocer del sistema de justicia penal para adolescentes, con una estructura funcional y apropiada, que brinde seguridad, dignidad, y sobre todo, eficiencia y funcionalidad, a la impartición de justicia penal federal a efecto de contribuir con la consolidación de dicho sistema, mediante las acciones para su implementación, serán fines del Fideicomiso que con los recursos que integran su patrimonio, el Fiduciario realice los pagos de las contrataciones que haga el Consejo para:
 
 I. Adquisición de inmuebles;
 
@@ -81,7 +83,9 @@ Para efectos del presente Acuerdo se entenderá por:
 
 I. Acuerdo General en materia administrativa: Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo;
 
-II. Comité Técnico: Comité Técnico del Fideicomiso para el desarrollo de infraestructura que implementa la Reforma Constitucional en Materia Penal;
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
+
+II. Comité Técnico: Comité Técnico del Fideicomiso para el Desarrollo de Infraestructura del Nuevo Sistema de Justicia Penal;
 
 III. Comité de Inversión: Comité de Inversión de Recursos Financieros del Consejo de la Judicatura Federal;
 
@@ -89,7 +93,9 @@ IV. Consejo: Consejo de la Judicatura Federal;
 
 V. Contralor: Contralor del Poder Judicial de la Federación;
 
-VI. Fideicomiso: El Fideicomiso para el desarrollo de infraestructura que implementa la Reforma Constitucional en Materia Penal;
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
+
+VI. Fideicomiso: El Fideicomiso para el Desarrollo de Infraestructura del Nuevo Sistema de Justicia Penal;
 
 VII. Fiduciario: Institución de crédito con la que se formalice el Fideicomiso, autorizada en términos de las disposiciones aplicables para practicar dichas operaciones;
 
@@ -105,9 +111,9 @@ XI. Reglas de Operación: Instrumento aprobado por el Comité Técnico que tiene
 
 XII. Secretario: Servidor público que sea designado por el Comité como Secretario del Comité Técnico y de la Unidad de Evaluación de Proyectos; y
 
-> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MARZO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
-XIII. Unidad: Unidad de Evaluación de Proyectos, integrada por el Consejero de la Judicatura que funja como representante del Poder Judicial de la Federación en el Consejo de Coordinación para la Implementación del Sistema de Justicia Penal; el Secretario Ejecutivo de Carrera Judicial y Creación de Nuevos Órganos; y el Titular de la Unidad para la Implementación de la Reforma Penal.
+XIII. Unidad: Unidad de Evaluación de Proyectos, integrada por el Consejero de la Judicatura que designe el Pleno; el Secretario Ejecutivo de Carrera Judicial y Creación de Nuevos Órganos; y el Titular de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal.
 
 ### Capítulo II. Del Patrimonio
 
@@ -145,9 +151,9 @@ La Dirección General de Programación y Presupuesto solicitará a la Dirección
 
 El Fideicomiso contará con un Comité Técnico conformado por los consejeros integrantes del Pleno y será presidido por el Presidente del Consejo. El Presidente autorizará el orden del día de los asuntos listados, convocará a sesión ordinaria o extraordinaria y dirigirá los debates.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MARZO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
-Asistirán como invitados permanentes con voz pero sin voto los titulares de la Contraloría del Poder Judicial de la Federación; de la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos; de la Unidad para la Implementación de la Reforma Penal, y de la Dirección General de Asuntos Jurídicos a efecto de brindar asesoría al Comité Técnico en el ámbito de sus respectivas competencias.
+Asistirán como invitados permanentes con voz pero sin voto los titulares de la Contraloría del Poder Judicial de la Federación; de la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos; de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, y de la Dirección General de Asuntos Jurídicos a efecto de brindar asesoría al Comité Técnico en el ámbito de sus respectivas competencias.
 
 Podrá invitarse a participar en las sesiones del Comité Técnico con voz pero sin voto a los servidores públicos del Consejo cuyas atribuciones se encuentren relacionadas con los fines del Fideicomiso.
 
@@ -424,3 +430,27 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+D.O.F. 25 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. El Secretario del Comité Técnico del Fideicomiso para el desarrollo de infraestructura del nuevo sistema de justicia penal realizará las acciones necesarias para que se lleven a cabo las adecuaciones respectivas a las Reglas de Operación del Fideicomiso y al contrato correspondiente, sin que ello implique la modificación de su objeto.
+
+CUARTO. Las referencias que se hagan a la Unidad para la Implementación de la Reforma Penal, se entenderán hechas a la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal.
+
+Asimismo, las referencias que se hagan al Fideicomiso para el desarrollo de infraestructura que implementa la Reforma Constitucional en Materia Penal, se entenderán hechas al Fideicomiso para el Desarrollo de Infraestructura del Nuevo Sistema de Justicia Penal.
+
+QUINTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal mantendrá los recursos humanos, materiales y financieros asignados a la Unidad para la Implementación de la Reforma Penal.
+
+SEXTO. Los asuntos que a la entrada en vigor del presente Acuerdo estén en trámite, incluyendo su ejecución, serán atendidos hasta su conclusión de conformidad con las disposiciones con las que fueron iniciados.
+
+Aquellos que estén a cargo de la Unidad para la Implementación de la Reforma Penal, serán atendidos con su nueva denominación, es decir Unidad para la Consolidación del Nuevo Sistema de Justicia Penal.
+
+SÉPTIMO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas competentes que le están adscritas, llevará a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+OCTAVO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
