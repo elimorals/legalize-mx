@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2016-06-23"
+last_updated: "2016-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2013-11-12"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
+[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE AGOSTO DE 2016 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.
+
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE AGOSTO DE 2016.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -107,9 +109,9 @@ XIII. Presidente: Consejero Presidente del Consejo;
 
 XIV. Reglamento conjunto de transparencia: Reglamento de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal para la aplicación de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; y
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
-XV. Unidades administrativas: Las ponencias de los Consejeros, secretarías ejecutivas, coordinaciones, Unidad para la Implementación de la Reforma Penal, secretarías técnicas de Comisiones, direcciones generales, así como la Unidad de Enlace del Consejo; el Archivo General del Consejo, las Administraciones de los Centros de Justicia Penal, el Centro de Manejo Documental y Digitalización del Consejo y demás que sean autorizadas por el Pleno.
+XV. Unidades administrativas: Las ponencias de los Consejeros, secretarías ejecutivas, coordinaciones, Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, secretarías técnicas de Comisiones, direcciones generales, así como la Unidad de Enlace del Consejo; el Archivo General del Consejo, las Administraciones de los Centros de Justicia Penal, el Centro de Manejo Documental y Digitalización del Consejo y demás que sean autorizadas por el Pleno.
 
 ###### Artículo 3.
 
@@ -275,9 +277,11 @@ VI. Vigilar el funcionamiento de los órganos auxiliares;
 
 VII. Informar al Pleno de la Suprema Corte de Justicia de la Nación, al Senado de la República o al Presidente de la República, según corresponda, la designación, la terminación del encargo de los Consejeros respectivos, con dos meses de antelación o la falta definitiva del Consejero que hubiesen designado, a efecto de que con toda oportunidad puedan hacerse los nombramientos concernientes;
 
-> <small>(REFORMADA POR EL ARTÍCULO SEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
-VIII. Otorgar licencias de carácter personal o médico que no excedan de treinta días a los magistrados de Circuito y jueces de Distrito, y por excepción de carácter oficial o académico por temporalidad similar; así como de cualquier otro carácter que no rebasen el mismo lapso, a secretarios ejecutivos, titulares de órganos auxiliares, coordinadores, Titular de la Unidad para la Implementación de la Reforma Penal, directores generales y personal subalterno del Pleno.
+VIII. Otorgar licencias de carácter personal o médico que no excedan de treinta días a los magistrados de Circuito y jueces de Distrito, y por excepción de carácter oficial o académico por temporalidad similar; así como de cualquier otro carácter que no rebasen el mismo lapso, a secretarios ejecutivos, titulares de órganos auxiliares, coordinadores, Titular de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, directores generales y personal subalterno del Pleno.
+
+> <small>(REFORMADO POR EL ARTÍCULO SEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
 
 Cuando las licencias solicitadas por los servidores públicos a que se refiere el párrafo anterior, con excepción de los titulares de órganos jurisdiccionales, tengan como motivo asistir a eventos académicos nacionales o internacionales, podrá solicitar la opinión de las instancias que correspondan;
 
@@ -317,7 +321,9 @@ XX. Las demás que establezca el Pleno mediante acuerdos generales.
 
 El Presidente contará con las siguientes unidades administrativas:
 
-I. Unidad para la Implementación de la Reforma Penal;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
+
+(Sic) Unidad para la Consolidación del Nuevo Sistema de Justicia Penal;
 
 II. Coordinación de Seguridad del Poder Judicial de la Federación;
 
@@ -1007,7 +1013,7 @@ II. Los demás que determine el Pleno.
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 60.
 
@@ -1115,23 +1121,23 @@ La Unidad de Enlace Legislativo representará al Consejo ante el Congreso de la 
 
 La operación y funcionamiento de la Unidad de Enlace Legislativo se llevará a cabo de conformidad con los lineamientos que se emitan.
 
-> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
-### CAPÍTULO SÉPTIMO. DE LAS SECRETARÍAS EJECUTIVAS, COORDINACIONES Y UNIDAD PARA LA IMPLEMENTACIÓN DE LA REFORMA PENAL
+### CAPÍTULO SÉPTIMO. DE LAS SECRETARÍAS EJECUTIVAS, COORDINACIONES Y UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL
 
 #### SECCIÓN TERCERA. DE LA SECRETARÍA GENERAL DE LA PRESIDENCIA
 
 ###### Artículo 67.
 
-Al frente de cada una de las secretarías ejecutivas, de las coordinaciones y de la Unidad para la Implementación de la Reforma Penal, estará un Titular, quien deberá tener experiencia profesional mínima de cinco años; contar con título profesional, expedido legalmente, afín a las funciones que deba desempeñar; gozar de buena reputación; y no haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año.
+Al frente de cada una de las secretarías ejecutivas, de las coordinaciones y de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, estará un Titular, quien deberá tener experiencia profesional mínima de cinco años; contar con título profesional, expedido legalmente, afín a las funciones que deba desempeñar; gozar de buena reputación; y no haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año.
 
-En el caso de los Secretarios Ejecutivos del Pleno; de Adscripción; de Carrera Judicial y Creación de Nuevos Órganos; y de Disciplina, el título profesional deberá ser de Licenciado en Derecho. Tratándose de los titulares de las secretarías ejecutivas de Administración; de Vigilancia, Información y Evaluación; de los coordinadores y del Titular de la Unidad para la Implementación de la Reforma Penal, el título deberá estar relacionado con sus funciones.
+En el caso de los Secretarios Ejecutivos del Pleno; de Adscripción; de Carrera Judicial y Creación de Nuevos Órganos; y de Disciplina, el título profesional deberá ser de Licenciado en Derecho. Tratándose de los titulares de las secretarías ejecutivas de Administración; de Vigilancia, Información y Evaluación; de los coordinadores y del Titular de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, el título deberá estar relacionado con sus funciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 68.
 
-Los secretarios ejecutivos, los coordinadores, y el Titular de la Unidad para la Implementación de la Reforma Penal, tendrán las siguientes atribuciones:
+Los secretarios ejecutivos, los coordinadores, y el Titular de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, tendrán las siguientes atribuciones:
 
 I. Representar a la unidad administrativa que corresponda;
 
@@ -1187,11 +1193,11 @@ XVII. Definir, revisar y ser responsables de los contenidos e información, que 
 
 XVIII. Las demás que establezcan el Pleno y las Comisiones.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 69.
 
-Las secretarías ejecutivas, las coordinaciones y la Unidad para la Implementación de la Reforma Penal, contarán con la estructura y el personal determinados por el Pleno con base en el presupuesto autorizado.
+Las secretarías ejecutivas, las coordinaciones y la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, contarán con la estructura y el personal determinados por el Pleno con base en el presupuesto autorizado.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA REGULACIÓN DE LA SUPLENCIA POR AUSENCIA DE LOS TITULARES DE LAS ÁREAS ADMINISTRATIVAS, D.O.F. 29 DE ENERO DE 2016)</small>
 
@@ -1201,7 +1207,9 @@ Las ausencias temporales o definitivas de los titulares de áreas administrativa
 
 I. Las de los secretarios ejecutivos por cualquier otro servidor público que designe la Comisión respectiva, o el Pleno cuando la ausencia sea mayor a quince días; y
 
-II. La del Titular de la Unidad para la Implementación de la Reforma Penal, de los titulares de los órganos auxiliares y de las coordinaciones, así como de los directores generales, por el servidor público que designe el Presidente, con excepción del Director General del Instituto Federal de Defensoría Pública, y del Director General del Instituto Federal de Especialistas de Concursos Mercantiles, cuya suplencia se regirá por las disposiciones que regulan su organización y funcionamiento.
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
+
+II. La del Titular de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, de los titulares de los órganos auxiliares y de las coordinaciones, así como de los directores generales, por el servidor público que designe el Presidente, con excepción del Director General del Instituto Federal de Defensoría Pública, y del Director General del Instituto Federal de Especialistas de Concursos Mercantiles, cuya suplencia se regirá por las disposiciones que regulan su organización y funcionamiento.
 
 En los casos de ausencias que ameriten la suplencia, es obligación de los titulares de las áreas administrativas dar aviso al Pleno, al Presidente o a la Comisión respectiva, según corresponda, a efecto de que se haga la designación correspondiente.
 
@@ -1239,9 +1247,9 @@ El servidor público designado ejercerá las atribuciones propias del cargo.
 
 (DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)
 
-#### SECCIÓN SEXTA. DE LA UNIDAD PARA LA IMPLEMENTACIÓN DE LA REFORMA PENAL
+#### SECCIÓN SEXTA. DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 77.
 
@@ -1417,7 +1425,9 @@ II. Proponer proyectos de acuerdos y lineamientos que permitan optimizar el apro
 
 III. Aprobar los certificados de necesidad a que se refiere el artículo 296 Bis del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo.
 
-Dicha aprobación se realizará de manera conjunta con la Unidad para la Implementación de la Reforma Penal y la Dirección General de Asuntos Jurídicos, cuando se trate de procedimientos de contratación necesarios para la implementación del sistema procesal penal acusatorio;
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
+
+Dicha aprobación se realizará de manera conjunta con la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, y la Dirección General de Asuntos Jurídicos, cuando se trate de procedimientos de contratación necesarios para la consolidación del nuevo sistema de justicia penal;
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
@@ -2055,59 +2065,43 @@ III. Secretaría Técnica del Comité de Acceso a la Información y Protección 
 
 IV. Unidad de Enlace del Consejo.
 
-> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
 #### SECCIÓN SEGUNDA. DE LOS ÓRGANOS AUXILIARES EN LO PARTICULAR
 
 ###### Artículo 97.
 
-La Unidad para la Implementación de la Reforma Penal, es el área administrativa dependiente del Presidente, encargada del estudio, análisis y propuesta del diseño, planeación, ejecución y evaluación de los planes, programas y acciones necesarias para dicha implementación; así como de la coordinación de los diversos órganos auxiliares y áreas administrativas involucradas en estos procesos de cambio; la relación interinstitucional con las instancias de coordinación de los Poderes Ejecutivo y Legislativo Federal, y con las entidades federativas.
+La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, es el área administrativa dependiente del Presidente, encargada del estudio, análisis y propuesta del diseño, planeación, ejecución y evaluación de los planes, programas y acciones necesarias para dicha consolidación; así como de la coordinación de las diversas áreas administrativas involucradas en estos procesos; la relación interinstitucional con las instancias de coordinación de los Poderes Ejecutivo y Legislativo Federal, y con las entidades federativas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 98.
 
-El titular de la Unidad para la Implementación de la Reforma Penal, tendrá las siguientes atribuciones:
+El titular de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+I. Brindar el apoyo y asesoría técnica que requiera el Pleno, el Presidente y los Consejeros, con motivo de la consolidación del nuevo sistema de justicia penal en el Poder Judicial de la Federación;
 
-I. Brindar el apoyo y asesoría técnica que requiera el Pleno, el Presidente y los Consejeros, con motivo de la implementación de la Reforma Penal en el Poder Judicial de la Federación;
+II. Coordinar, elaborar y presentar de manera conjunta, con las áreas administrativas responsables, los estudios, análisis y propuestas de diseño, planeación, ejecución y evaluación de los planes, programas y acciones necesarias para la consolidación del nuevo sistema de justicia penal en el Poder Judicial de la Federación;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+III. Coadyuvar y apoyar a las áreas administrativas, para el debido cumplimiento de los planes, programas y acciones necesarias para consolidación del nuevo sistema de justicia penal en el Poder Judicial de la Federación;
 
-II. Coordinar, elaborar y presentar de manera conjunta, con los órganos auxiliares y áreas administrativas responsables, los estudios, análisis y propuestas de diseño, planeación, ejecución y evaluación de los planes, programas y acciones necesarias para la implementación de la Reforma Penal en el Poder Judicial de la Federación;
+IV. Elaborar y emitir opiniones técnicas en los asuntos en materia de la consolidación del nuevo sistema de justicia penal en el Poder Judicial de la Federación, con el propósito de proveer a las áreas competentes de los elementos necesarios para la toma de decisiones;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+V. Proponer, analizar y dar seguimiento a los planes, programas y acciones necesarias para la consolidación del nuevo sistema de justicia penal en el Poder Judicial de la Federación;
 
-III. Coadyuvar y apoyar a los órganos auxiliares y áreas administrativas, para el debido cumplimiento de los planes, programas y acciones necesarias para la implementación de la Reforma Penal en el Poder Judicial de la Federación;
+VI. Plantear al Instituto de la Judicatura las necesidades de capacitación para la consolidación del nuevo sistema de justicia penal;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+VII. Solicitar a las áreas administrativas, la información institucional que requiera con motivo de la consolidación del nuevo sistema de justicia penal en el Poder Judicial de la Federación;
 
-IV. Evaluar y dar seguimiento a los planes, programas y acciones necesarias para la implementación de la Reforma Penal en el Poder Judicial de la Federación;
+VIII. Coordinar acciones en materia de consolidación del nuevo sistema de justicia penal en el Poder Judicial de la Federación, con la Suprema Corte de Justicia de la Nación y las entidades federativas;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+IX. Fungir como enlace operativo e integrante de la instancia tripartita, a la que se refiere el Acuerdo entre los Tres Poderes de la Unión para la Consolidación del Sistema de Justicia Penal, así como coordinar acciones en materia de consolidación del nuevo sistema de justicia penal en el Poder Judicial de la Federación, con las diversas instancias relacionadas del Poder Ejecutivo y Poder Legislativo Federal;
 
-V. Solicitar a los órganos auxiliares y áreas administrativas, la información institucional que requiera con motivo de la implementación de la Reforma Penal en el Poder Judicial de la Federación;
+X. Definir, revisar y ser responsable de los contenidos e información, que sean de su competencia o de los Centros de Justicia Penal Federal, en los portales de Intranet e Internet del Consejo, y gestionar su publicación y actualización;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+XI. Aprobar de manera conjunta con la Secretaría Ejecutiva de Administración y la Dirección General de Asuntos Jurídicos, los certificados de necesidad a que se refiere el artículo 296 Bis del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo, cuando se trate de procedimientos de contratación necesarios para la consolidación del nuevo sistema de justicia penal; y
 
-VI. Coordinar acciones en materia de implementación de la Reforma Penal en el Poder Judicial de la Federación, con la Suprema Corte de Justicia de la Nación;
-
-(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015) (F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 2015)
-
-VII. Coordinar acciones en materia de implementación de la Reforma Penal en el Poder Judicial de la Federación, con las diversas instancias relacionadas del Poder Ejecutivo y Poder Legislativo Federal, y con las entidades federativas; y
-
-(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 28 DE AGOSTO DE 2015) (F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 2015)
-
-VIII. Definir, revisar y ser responsable de los contenidos e información, que sean de su competencia o de los Centros de Justicia Penal Federal, en los portales de Intranet e Internet del Consejo, y gestionar su publicación y actualización;
-
-(REFORMADA [N. DE E. ADICIONADA] POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 28 DE AGOSTO DE 2015) (F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 2015)
-
-IX. Aprobar de manera conjunta con la Secretaría Ejecutiva de Administración y la Dirección General de Asuntos Jurídicos, los certificados de necesidad a que se refiere el artículo 296 Bis del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo, cuando se trate de procedimientos de contratación necesarios para la implementación del sistema procesal penal acusatorio; y
-
-> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 28 DE AGOSTO DE 2015)</small>
-
-X. Las demás que le confieran (sic) el Pleno y las Comisiones.
+XII. Las demás que le confieran el Pleno y las Comisiones.
 
 ### CAPÍTULO OCTAVO. DE LOS ÓRGANOS AUXILIARES DEL CONSEJO
 
@@ -3119,9 +3113,11 @@ VIII. Representar al Consejo en los asuntos jurídicos que le encomiende el Plen
 
 IX. Formular denuncias o querellas y presentarlas ante la autoridad competente, en los casos en que, en términos de la fracción XI del artículo 81 de la Ley, se deba suspender en sus cargos a magistrados de Circuito y jueces de Distrito que aparecieren involucrados en la comisión de un delito, cuando así lo determine el Pleno;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
-X. Intervenir, en representación del Consejo, sin perjuicio de las facultades y atribuciones exclusivas de sus integrantes, de las secretarías ejecutivas, coordinaciones, Unidad para la Implementación de la Reforma Penal, y órganos auxiliares, en todas las controversias jurídicas en que sean parte y con todos los derechos procesales que las leyes reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, formular denuncias y querellas, coadyuvar con el Ministerio Público de la Federación cuando así proceda, interponer toda clase de recursos y desistirse de ellos, incluso del juicio de amparo y otorgar el perdón si procediere, previa autorización del Pleno, transigir, comprometer en árbitros, absolver y articular posiciones, recibir pagos, ofrecer y rendir toda clase de pruebas, recusar jueces inferiores y superiores, apelar, interponer juicio de amparo y los recursos previstos por la ley de la materia y, en general, para que promueva o realice todos los actos permitidos por las leyes que favorezcan y salvaguarden los derechos del Consejo.
+X. Intervenir, en representación del Consejo, sin perjuicio de las facultades y atribuciones exclusivas de sus integrantes, de las secretarías ejecutivas, coordinaciones, Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, y órganos auxiliares, en todas las controversias jurídicas en que sean parte y con todos los derechos procesales que las leyes reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, formular denuncias y querellas, coadyuvar con el Ministerio Público de la Federación cuando así proceda, interponer toda clase de recursos y desistirse de ellos, incluso del juicio de amparo y otorgar el perdón si procediere, previa autorización del Pleno, transigir, comprometer en árbitros, absolver y articular posiciones, recibir pagos, ofrecer y rendir toda clase de pruebas, recusar jueces inferiores y superiores, apelar, interponer juicio de amparo y los recursos previstos por la ley de la materia y, en general, para que promueva o realice todos los actos permitidos por las leyes que favorezcan y salvaguarden los derechos del Consejo.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
 Por virtud de esta disposición, se entenderán ratificadas por dicho órgano colegiado todas las actuaciones que en los términos de ley, lleve a cabo la Dirección General de Asuntos Jurídicos y los representantes o delegados que designe, quienes gozarán de todas las atribuciones antes enunciadas, debiendo, en todo caso, informar al Pleno y a la Comisión de Administración de las actuaciones realizadas de manera bimestral;
 
@@ -3141,9 +3137,9 @@ XVII. Emitir opinión respecto de las inconformidades que se presenten en el des
 
 XVIII. Emitir dictamen respecto del apego a la normativa de las fianzas que otorgan los proveedores y contratistas para garantizar la legalidad de las propuestas y el cumplimiento de las obligaciones a su cargo, derivadas de los contratos que celebren con el Consejo, antes de su formalización y realizar las gestiones necesarias ante las instancias pertinentes para su reclamación, cuando dichos proveedores o contratistas incumplan sus propuestas o las obligaciones que asumieron;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
-XIX. Aprobar de manera conjunta con la Secretaría Ejecutiva de Administración y la Unidad para la Implementación de la Reforma Penal, los certificados de necesidad a que se refiere el artículo 296 Bis del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo, cuando se trate de procedimientos de contratación necesarios para la implementación del sistema procesal penal acusatorio;
+XIX. Aprobar de manera conjunta con la Secretaría Ejecutiva de Administración y la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, los certificados de necesidad a que se refiere el artículo 296 Bis del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo, cuando se trate de procedimientos de contratación necesarios para la consolidación del nuevo sistema de justicia penal.
 
 XX. Asesorar en los asuntos relacionados con los bienes asegurados y decomisados en que tenga injerencia el Consejo;
 
@@ -3469,13 +3465,13 @@ XXI. Elaborar las propuestas de prórroga de las plazas de adscripción temporal
 
 XXII. Autorizar en el ámbito de su competencia las sustituciones por maternidad y enfermedad, previa solicitud del titular de las áreas administrativas, o implementar el trámite correspondiente previa verificación de la existencia de recursos presupuestales disponibles;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
-XXIII. Elaborar las propuestas de prórrogas de nombramiento que, por tiempo determinado o indefinido, soliciten los titulares de las secretarías ejecutivas, coordinaciones, Unidad para la Implementación de la Reforma Penal, órganos auxiliares y direcciones generales, respecto del personal a su cargo;
+XXIII. Elaborar las propuestas de prórrogas de nombramiento que, por tiempo determinado o indefinido, soliciten los titulares de las secretarías ejecutivas, coordinaciones, Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, órganos auxiliares y direcciones generales, respecto del personal a su cargo;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL ARTÍCULO 170, FRACCIÓN XXIV, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE OTROS ACUERDOS GENERALES, PUBLICADO EN EL D.O.F. 18 DE ENERO DE 2016)</small>
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
-XXIV. Elaborar las propuestas para el otorgamiento de base al personal de apoyo adscrito a las secretarías ejecutivas, coordinaciones, Unidad para la Implementación de la Reforma Penal, órganos auxiliares y direcciones generales, a solicitud del titular de la adscripción del servidor público del que se trate, se tenga la plaza disponible en su plantilla autorizada, su desempeño haya resultado satisfactorio a juicio del propio titular, sin nota desfavorable en su expediente, y cuente con una antigüedad ininterrumpida de más de seis meses en el puesto;
+XXIV. Elaborar las propuestas para el otorgamiento de base al personal de apoyo adscrito a las secretarías ejecutivas, coordinaciones, Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, órganos auxiliares y direcciones generales, a solicitud del titular de la adscripción del servidor público del que se trate, se tenga la plaza disponible en su plantilla autorizada, su desempeño haya resultado satisfactorio a juicio del propio titular, sin nota desfavorable en su expediente, y cuente con una antigüedad ininterrumpida de más de seis meses en el puesto;
 
 XXV. Operar, los cambios de rango de sueldo autorizados de las plazas de subdirector de área y jefe de departamento, a solicitud de los titulares de las áreas administrativas correspondientes, previo cumplimiento de las disposiciones establecidas;
 
@@ -3943,9 +3939,9 @@ III. Entregar los asuntos que ingresen por su conducto a las diferentes áreas a
 
 IV. Enviar la documentación oficial dirigida al interior de la República al Servicio Postal Mexicano, o entregarla al Servicio de Mensajería que remitan las áreas del Edificio Sede;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
-V. Entregar documentación oficial en domicilios particulares y oficiales cuando así lo solicite el Pleno, las Comisiones, los Consejeros, las secretarías ejecutivas, la Coordinación de Seguridad del Poder Judicial de la Federación o la Unidad para la Implementación de la Reforma Penal;
+V. Entregar documentación oficial en domicilios particulares y oficiales cuando así lo solicite el Pleno, las Comisiones, los Consejeros, las secretarías ejecutivas, la Coordinación de Seguridad del Poder Judicial de la Federación o la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal.
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
@@ -4567,11 +4563,11 @@ Toda licencia deberá solicitarse por escrito ante el área administrativa corre
 
 La autorización de la licencia será por escrito, con copia dirigida a la Secretaría Ejecutiva de Administración.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 231.
 
-Las licencias con o sin goce de sueldo, hasta por treinta días de los secretarios ejecutivos, titulares de órganos auxiliares, coordinadores, Titular de la Unidad para la Implementación de la Reforma Penal, directores generales y personal subalterno del Pleno serán resueltas por el Presidente; las que excedan de este término será el Pleno quien resuelva.
+Las licencias con o sin goce de sueldo, hasta por treinta días de los secretarios ejecutivos, titulares de órganos auxiliares, coordinadores, Titular de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, directores generales y personal subalterno del Pleno serán resueltas por el Presidente; las que excedan de este término será el Pleno quien resuelva.
 
 ###### Artículo 232.
 
@@ -5462,3 +5458,27 @@ D.O.F. 23 DE JUNIO DE 2016.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 25 DE AGOSTO DE 2016.
+
+> <small>[N. DE E. TRANSITORIOS “DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA”.]</small>
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. El Secretario del Comité Técnico del Fideicomiso para el desarrollo de infraestructura del nuevo sistema de justicia penal realizará las acciones necesarias para que se lleven a cabo las adecuaciones respectivas a las Reglas de Operación del Fideicomiso y al contrato correspondiente, sin que ello implique la modificación de su objeto.
+
+CUARTO. Las referencias que se hagan a la Unidad para la Implementación de la Reforma Penal, se entenderán hechas a la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal.
+
+Asimismo, las referencias que se hagan al Fideicomiso para el desarrollo de infraestructura que implementa la Reforma Constitucional en Materia Penal, se entenderán hechas al Fideicomiso para el Desarrollo de Infraestructura del Nuevo Sistema de Justicia Penal.
+
+QUINTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal mantendrá los recursos humanos, materiales y financieros asignados a la Unidad para la Implementación de la Reforma Penal.
+
+SEXTO. Los asuntos que a la entrada en vigor del presente Acuerdo estén en trámite, incluyendo su ejecución, serán atendidos hasta su conclusión de conformidad con las disposiciones con las que fueron iniciados.
+
+Aquellos que estén a cargo de la Unidad para la Implementación de la Reforma Penal, serán atendidos con su nueva denominación, es decir Unidad para la Consolidación del Nuevo Sistema de Justicia Penal.
+
+SÉPTIMO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas competentes que le están adscritas, llevará a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+OCTAVO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
