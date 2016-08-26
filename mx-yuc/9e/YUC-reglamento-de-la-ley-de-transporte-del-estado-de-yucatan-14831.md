@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-transporte-del-estado-de-yucatan-14831"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-25"
-last_updated: "2008-09-03"
+last_updated: "2016-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # REGLAMENTO DE LA LEY DE TRANSPORTE DEL ESTADO DE YUCATAN
 
-REGLAMENTO DE LA LEY DE TRANSPORTE DEL ESTADO DE YUCATAN
+REGLAMENTO DE LA LEY DE TRANSPORTE DEL ESTADO DE YUCATÁN
 
-ULTIMA REFORMA PUBLICAD EN EL DIARIO OFICIAL: 3 DE SEPTIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICAD EN EL DIARIO OFICIAL: 26 DE AGOSTO DE 2016.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 25 de junio de 1999.
 
@@ -89,17 +89,39 @@ XIX. Seguridad: Característica del servicio de transporte por la cual se garant
 
 XX. Eficiencia: Característica del servicio de transporte que consiste en asegurar su prestación en condiciones de oportunidad, calidad, humanismo, rentabilidad y accesibilidad;
 
-XXI. Servicio: Es el que se realiza con fines relacionados con la actividad principal de las personas físicas o morales, que pueden ser de naturaleza comercial, productiva o de prestación de servicios y que pueden ser cobrados o no, según se trate de servicio público o particular de transporte, respectivamente, y
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2016)</small>
 
-XXII. Prestación de servicio: Actividad que realizan las personas físicas o morales con fines comerciales productivos o conexos a determinadas acciones lícitas, que puede ser cobrado o no, según se trate de servicio público o particular de transporte, respectivamente.
+XXI. Servicio: es el que se realiza con fines relacionados con la actividad principal de las personas físicas o morales, que pueden ser de naturaleza comercial, productiva o de prestación de servicios, y que pueden ser cobrados o no;
+
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2016)</small>
+
+XXII. Prestación de servicio: actividad que realizan las personas físicas o morales con fines comerciales, productivos o conexos a determinadas acciones lícitas, que puede ser cobrado o no;
+
+> <small>(ADICIONADA, D.O. 26 DE AGOSTO DE 2016)</small>
+
+XXIII. Plataforma tecnológica: la plataforma o aplicación informática mediante la cual se contrata el servicio de transporte de pasajeros en dispositivos filos o móviles;
+
+> <small>(ADICIONADA, D.O. 26 DE AGOSTO DE 2016)</small>
+
+XXIV. Empresa de redes de transporte: la persona moral que, basándose en el desarrollo de las tecnologías de los teléfonos inteligentes y los sistemas de posicionamiento global, promueva, administre u opere la plataforma tecnológica en el estado, ya sea directamente o a través de una filial, subsidiaria o empresa relacionada, en virtud de acuerdos comerciales que tenga celebrados y en vigor;
+
+> <small>(ADICIONADA, D.O. 26 DE AGOSTO DE 2016)</small>
+
+XXV. Constancia: el documento, expedido por el titular del Ejecutivo del estado, mediante el cual se autoriza a una empresa de redes de transporte para promover, administrar u operar plataformas tecnológicas; y
+
+> <small>(ADICIONADA, D.O. 26 DE AGOSTO DE 2016)</small>
+
+XXVI. Certificado vehicular: el documento, expedido por la Dirección de Transporte, mediante el cual se autoriza a los operadores y a los vehículos para prestar el servicio de transporte de pasajeros contratado a través de plataformas tecnológicas.
 
 ###### ARTÍCULO 3.
 
 La Dirección de Transporte estará integrada por un Director, por los Inspectores de Transporte y demás personal que sea necesario para cumplir con las atribuciones que le confieren la Ley, este Reglamento y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 4.
 
-La organización, operación y explotación de los servicios público y particular de transporte, de pasajeros y de carga, así como de los servicios auxiliares conexos a éstos, se sujetarán a lo establecido en la Ley, en este Reglamento, en las concesiones y permisos y en las demás normas que al respecto emita el Ejecutivo del Estado.
+La organización, operación y explotación de los servicios de transporte de pasajeros y de carga, así como los servicios auxiliares conexos a estos, se sujetarán a lo establecido en la Ley, este Reglamento y las demás normas que al respecto emita el Ejecutivo del estado.
 
 ## TÍTULO SEGUNDO. AUTORIDADES DE TRANSPORTE EN EL ESTADO
 
@@ -139,7 +161,9 @@ En el ejercicio de las atribuciones que le confiere la Ley, la Secretaría Gener
 
 I. Apoyar las políticas y programas que tiendan a favorecer la construcción de terminales y demás obras conexas al servicio de transporte público o particular;
 
-II. Recibir por conducto de la Dirección de Transporte, las propuestas que aporten los concesionarios y permisionarios para enriquecer los programas encaminados a mejorar el servicio de transporte público o particular en el estado y turnarlas para su incorporación a dichos programas, en su caso;
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2016)</small>
+
+II. Recibir, por conducto de la Dirección de Transporte, las propuestas que aporten los concesionarios, permisionarios, empresas de redes de transporte o titulares del certificado vehicular, para enriquecer los programas encaminados a mejorar el servicio de transporte de pasajeros o de carga en el estado y turnarlas para su incorporación a dichos programas, en su caso;
 
 III. Coordinar la elaboración de programas de capacitación destinados a los operadores de las diferentes modalidades de transporte, que lleve a cabo la Dirección de Transporte, de conformidad con lo que establecen las leyes de la materia;
 
@@ -167,19 +191,29 @@ III. Las demás que le confieran el Ejecutivo del Estado, este Reglamento y otra
 
 En el ejercicio de las atribuciones que le confiere la Ley, la Dirección de Transporte estará facultada para:
 
-I. Elaborar las políticas y programas para el desarrollo del servicio de transporte público o particular en el estado;
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2016)</small>
 
-II. Analizar e incorporar en su caso, las propuestas que aporten los concesionarios, permisionarios y usuarios para la elaboración de los programas que tiendan a mejorar el servicio de transporte público o particular en el estado;
+I. Elaborar las políticas y los programas para el desarrollo del servicio de transporte de pasajeros o de carga en el estado;
+
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2016)</small>
+
+II. Analizar e incorporar, en su caso, las propuestas que aporten los concesionarios, permisionarios, empresas de redes de transporte, titulares del certificado vehicular y usuarios, para la elaboración de los programas que tiendan a mejorar el servicio de transporte de pasajeros o de carga en el estado;
 
 III. Informar mensualmente a la Secretaría General de Gobierno la situación que guarde el transporte en el estado;
 
 IV. Proponer a la Secretaría General de Gobierno el nombramiento del personal operativo y administrativo de la Dirección, previa verificación de que los aspirantes cumplen con el perfil que establezca este Reglamento;
 
-V. Sancionar a los concesionarios o permisionarios que cometan alguna infracción a la Ley, a este Reglamento y demás disposiciones legales aplicables;
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2016)</small>
+
+V. Sancionar a los concesionarios, permisionarios, empresas de redes de transporte, titulares del certificado vehicular o quienes presten el servicio de transporte de pasajeros, cuando cometan alguna infracción a la Ley, este Reglamento y demás disposiciones legales aplicables;
 
 VI. Conocer sobre las quejas e inconformidades que se presenten en la prestación del servicio;
 
-VII. Realizar los estudios que sean necesarios para evaluar las condiciones de funcionamiento del servicio público de transporte y turnarlos al Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, y VIII. Las demás que le confieran el Ejecutivo del Estado, el Secretario General de Gobierno, el Director de Transporte y otras disposiciones legales aplicables.
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2016)</small>
+
+VII. Realizar los estudios que sean necesarios para evaluar las condiciones de funcionamiento del servicio de transporte de pasajeros o de carga y turnarlos al Ejecutivo del estado, por conducto de la Secretaría General de Gobierno; y
+
+VIII. Las demás que le confieran el Ejecutivo del Estado, el Secretario General de Gobierno, el Director de Transporte y otras disposiciones legales aplicables.
 
 > <small>(REFORMADO, D.O. 3 DE SEPTIEMBRE DE 2008)</small>
 
@@ -273,81 +307,93 @@ Los convenios a que se refiere el artículo anterior deberán ser publicados en 
 
 ## TÍTULO TERCERO. ORGANIZACIÓN DEL TRANSPORTE
 
-### CAPÍTULO I. DEL PADRÓN DE CONCESIONES Y PERMISOS Y DEL REGISTRO DE VEHÍCULOS DE TRANSPORTE EN EL ESTADO DE YUCATÁN
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO I. DEL PADRÓN DE CONCESIONES, PERMISOS, CONSTANCIAS Y CERTIFICADOS VEHICULARES, Y DEL REGISTRO DE VEHÍCULOS DE TRANSPORTE EN EL ESTADO DE YUCATÁN
+
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 21.
 
-El padrón de concesiones y permisos de transporte del Estado de Yucatán, es el instrumento estadístico y analítico que tiene por objeto integrar toda la información relativa a la operación de los mismos a efecto de que la autoridad cuente con los medios necesarios para la adecuada planeación del transporte en el estado.
+El padrón de concesiones, permisos, constancias y certificados vehiculares de transporte del estado de Yucatán es el instrumento estadístico y analítico que tiene por objeto integrar toda la información relativa a la prestación de los servicios de transporte, a efecto de que la autoridad cuente con los medios necesarios para la adecuada planeación del transporte en el estado.
+
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 22.
 
-La Dirección de Transporte integrará y mantendrá actualizado el Padrón de Concesiones y Permisos de Transporte, el cual deberá contener como mínimo la siguiente información:
+La Dirección de Transporte integrará y mantendrá actualizado el padrón de concesiones, permisos, constancias y certificados vehiculares de transporte, el cual deberá contener la siguiente información:
 
-I. Las solicitudes de nuevas concesiones y permisos;
+I. Las solicitudes de nuevas concesiones, permisos, constancias o certificados vehiculares;
 
-II. Las solicitudes de modificación de las concesiones y permisos;
+II. Las solicitudes de modificación de concesiones, permisos, constancias o certificados vehiculares;
 
-III. La relación de concesiones y permisos vigentes;
+III. La relación de concesiones, permisos, constancias o certificados vehiculares vigentes;
 
 IV. Las fechas de expedición y descripción de las convocatorias para el otorgamiento de concesiones;
 
-V. Las fechas de expedición de cada permiso;
+V. Las fechas de expedición de cada concesión, permiso, constancia o certificado vehicular;
 
-VI. La clave de identificación asignada a la concesión o permiso y demás datos generales de los mismos;
+VI. La clave de identificación asignada a la concesión, permiso, constancia o certificado vehicular, y demás datos generales de estos;
 
-VII. El nombre del titular de cada concesión o permiso;
+VII. El nombre del titular de cada concesión, permiso, constancia o certificado vehicular;
 
-VIII. La ruta o cobertura autorizada para cada concesión o permiso;
+VIII. La ruta, municipio o cobertura autorizada para cada concesión, permiso o certificado vehicular, según corresponda;
 
-IX. Las modificaciones realizadas, en su caso, a cada concesión o permiso;
+IX. Las modificaciones realizadas, en su caso, a cada concesión, permiso, constancia o certificado vehicular;
 
 X. El número de vehículos destinados a cada concesión o permiso;
 
-XI. Los datos de identificación de cada vehículo afecto a cada concesión o permiso, incluyendo antigüedad, capacidad, el estado de funcionamiento y demás características propias de cada unidad;
+XI. Los datos de identificación de cada vehículo afecto a cada concesión o permiso, incluyendo antigüedad, capacidad, el estado de funcionamiento y demás características propias de cada unidad; y, en caso de vehículos mediante los cuales se preste el servicio de transporte de pasajeros contratado a través de plataformas tecnológicas, será suficiente la marca, el modelo y el color;
 
-XII. El número de operadores destinados a la prestación del servicio público de transporte y sus datos generales;
+XII. El número de operadores destinados a la prestación del servicio público de transporte de pasajeros o de carga por vehículo y sus datos generales;
 
-XIII. El número de exámenes médicos practicados a cada operador, fecha en que fueron realizados y sus resultados;
+XIII. El número de exámenes médicos practicados a cada operador del servicio público de transporte, fecha en que fueron realizados y sus resultados;
 
-XIV. La relación de causas de las sanciones impuestas a cada concesionario o permisionario y en su caso a cada operador;
+XIV. La relación de causas de las sanciones impuestas a cada concesionario, permisionario, empresa de redes de transporte, titular de certificado vehicular o, en su caso, a cada operador;
 
-XV. El período por el que fue otorgado cada concesión o permiso;
+XV. El período por el que fue otorgado cada concesión, permiso, constancia o certificado vehicular;
 
 XVI. La mención de sí es la concesión original o si se trata de renovación y, en su caso, el número de renovación que corresponda;
 
-XVII. La relación por cada concesión o permiso de los hechos de tránsito y accidentes ocurridos durante el período, así como la descripción de los daños personales y materiales ocasionados;
+XVII. La relación por cada concesión, permiso o certificado vehicular de los hechos de tránsito y accidentes ocurridos durante el período, así como la descripción de los daños personales y materiales ocasionados;
 
 XVIII. Los resultados de la evaluación del servicio público de transporte a través de los indicadores de seguridad y eficiencia que determine la Dirección de Transporte;
 
-XIX. Las fechas y descripción de los cursos en materia de capacitación y actualización así como en materia de seguridad que se impartan al personal asignado a la prestación del servicio de transporte; y
+XIX. Las fechas y descripción de los cursos en materia de capacitación y actualización así como en materia de seguridad que se impartan al personal asignado a la prestación del servicio de transporte público; y
 
-XX. La copia de la póliza y demás datos que acrediten que los concesionarios cuentan con contrato vigente de los seguros o del fondo establecidos en la Ley y su Reglamento.
+XX. La información de la póliza de seguro que acredite que los concesionarios o titulares del certificado vehicular cuentan con contrato vigente de los seguros o del fondo establecidos en la Ley y su Reglamento.
 
 ###### ARTÍCULO 23.
 
 El Registro de Vehículos de Transporte en el Estado de Yucatán, es un instrumento de carácter estadístico y de planeación que permitirá al Ejecutivo del Estado diseñar políticas y acciones tendientes a mejorar el funcionamiento del servicio de transporte en la entidad.
 
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 24.
 
 El Registro de Vehículos señalado en el artículo anterior estará integrado por:
 
-I. Los documentos por los cuales se adquiera, transmita, modifique, grave o extinga la propiedad, la posesión y los demás derechos reales sobre los vehículos y sus motores, así como el arrendamiento de éstos mismos;
-
-> <small>(REFORMADA, D.O. 3 DE SEPTIEMBRE DE 2008)</small>
+I. Los documentos por los cuales se adquiera, transmita, modifique, grave o extinga la propiedad, la posesión y los demás derechos reales sobre los vehículos y sus motores, así como el arrendamiento de estos;
 
 II. Los certificados a que se refieren los artículos 53 y 54 de la Ley, y los números de placas de circulación que porten estas unidades, las cuales deberán ser expedidas por la Secretaría de Seguridad Pública;
 
-III. Las concesiones y permisos que amparen el servicio de transporte público o particular, según corresponda, así como los actos y resoluciones legales que los modifiquen o terminen; y
+III. Las concesiones y permisos que amparen el servicio de transporte público o particular, según corresponda, así como los actos y resoluciones legales que los modifiquen o terminen;
 
-IV. Las pólizas de seguro o documento que acredite la constitución del fondo a que se hace referencia en la Ley.
+IV. La información relevante de las pólizas de seguro o documento que acredite la constitución del fondo a que se hace referencia en la Ley; y
+
+V. Las constancias y los certificados vehiculares necesarios para la prestación del servicio de transporte de pasajeros contratado a través de plataformas tecnológicas.
+
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 25.
 
-Los concesionarios y permisionarios tienen la obligación de proporcionar a la Dirección de Transporte la información que ésta les requiera para la integración y actualización del padrón y registro a que hacen referencia los artículos procedentes.
+Los concesionarios, permisionarios, las empresas de redes de transporte y los titulares del certificado vehicular tienen la obligación de proporcionar a la Dirección de Transporte la información que esta les requiera para la integración y actualización del padrón y del registro a que hace referencia este Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 26.
 
-Para llevar a cabo las inscripciones y cancelaciones de la información relativa a vehículos y placas ante el Registro, los concesionarios y permisionarios deberán:
+Para llevar a cabo las inscripciones y cancelaciones de la información relativa a vehículos y placas ante el Registro, los concesionarios, permisionarios y titulares del certificado vehicular deberán:
 
 I. Presentar solicitud por escrito de la inscripción o en su caso, informar la cancelación de que se trate;
 
@@ -357,9 +403,11 @@ III. Presentar la documentación que acredite la veracidad y autenticidad de la 
 
 IV. Acreditar la personalidad jurídica del solicitante.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 27.
 
-Los concesionarios y permisionarios que requieran la certificación de documentos que formen parte del Registro, deberán:
+Los concesionarios, permisionarios y titulares del certificado vehicular que requieran la certificación de documentos que formen parte del Registro, deberán:
 
 I. Acreditar personalidad jurídica;
 
@@ -367,7 +415,9 @@ II. Presentar solicitud por escrito especificando los motivos de su requerimient
 
 III. Acreditar el pago de los derechos que establezca la Ley fiscal correspondiente.
 
-Las certificaciones a que hace referencia este artículo sólo se entregarán a los propios concesionarios o permisionarios por asuntos relacionados con los derechos de los que son titulares o a las autoridades competentes cuando así lo requieran.
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 2016)</small>
+
+Las certificaciones a que hace referencia este artículo solo se entregarán a quienes justifiquen su interés legal.
 
 ###### ARTÍCULO 28.
 
@@ -479,9 +529,11 @@ III. Presentar su queja ante las autoridades de transporte competentes, por las 
 
 ### CAPÍTULO I. DE LA CLASIFICACIÓN DEL SERVICIO DE TRANSPORTE DE PASAJEROS
 
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 35.
 
-El servicio de transporte de pasajeros se subdivide en público o particular.
+En términos del artículo 17, párrafo segundo, de la Ley, el transporte de pasajeros se subdivide en público, particular y contratado a través de plataformas tecnológicas; y el de transporte de carga se subdivide en público y particular.
 
 ###### ARTÍCULO 36.
 
@@ -537,9 +589,15 @@ VI. Contar con el equipo de seguridad necesario y mantenerlo en buen estado de f
 
 VII. Cumplir con las medidas de seguridad que establecen la Ley y este Reglamento;
 
-VIII. Contar con terminales, o de manera excepcional, con sitios autorizados por la autoridad competente; y
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2016)</small>
 
-IX. Las demás que establecen la Ley, este Reglamento y otras disposiciones legales aplicables.
+VIII. Contar con terminales, o de manera excepcional, con sitios autorizados por la autoridad competente;
+
+> <small>(ADICIONADA, D.O. 26 DE AGOSTO DE 2016)</small>
+
+IX. Abstenerse de colocar, en los vehículos en los que se preste el servicio, propaganda electoral; y
+
+X. Las demás que establecen la Ley, este Reglamento y otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 40.
 
@@ -771,11 +829,21 @@ Los establecimientos educativos, instituciones deportivas, religiosas y de benef
 
 Los permisos a que se refiere el artículo anterior, sólo se otorgarán para unidades de transporte de pasajeros que cumplan con las condiciones de seguridad y de protección al ambiente que señale este Reglamento y demás ordenamientos legales aplicables.
 
-### CAPÍTULO I. DE LA CLASIFICACIÓN DEL SERVICIO DE TRANSPORTE DE CARGA
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 26 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO VI. DEL SERVICIO DE TRANSPORTE DE PASAJEROS CONTRATADO A TRAVÉS DE PLATAFORMAS TECNOLÓGICAS
+
+> <small>(ADICIONADO, D.O. 26 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 64 BIS.- Para la prestación del servicio de transporte de pasajeros contratado a través de plataformas tecnológicas, las empresas de redes de transporte y los operadores del servicio deberán cumplir las obligaciones establecidas en los artículos 40 quater y 40 septies de la Ley, respectivamente.
+
+El servicio de transporte de pasajeros a que se refiere este artículo se podrá prestar en todo el territorio del estado, sin horario, ruta ni paradas intermedias.
+
+Los titulares del certificado vehicular están obligados a contar con seguros de cobertura amplia, de vida y gastos médicos, a favor de los pasajeros y operadores así como contra daños a terceros.
 
 ## TÍTULO CUARTO (SIC). SERVICIO DE TRANSPORTE DE CARGA
 
-### CAPÍTULO II. DEL SERVICIO PÚBLICO DE TRANSPORTE DE CARGA
+### CAPÍTULO I. DE LA CLASIFICACIÓN DEL SERVICIO DE TRANSPORTE DE CARGA
 
 ###### ARTÍCULO 65.
 
@@ -807,7 +875,7 @@ I. General; y
 
 II. Especializado.
 
-### CAPÍTULO VI (SIC). DEL SERVICIO PARTICULAR DE TRANSPORTE DE CARGA
+### CAPÍTULO II. DEL SERVICIO PÚBLICO DE TRANSPORTE DE CARGA
 
 ###### ARTÍCULO 69.
 
@@ -995,7 +1063,7 @@ III. Llevar un rótulo que señale el tipo de material y en su caso, que especif
 
 En todo lo aplicable, el servicio público especializado de transporte de carga deberá cumplir con las disposiciones relativas al transporte de carga señaladas en este Título.
 
-### CAPÍTULO I. DE LAS CONCESIONES
+### CAPÍTULO VI (SIC). DEL SERVICIO PARTICULAR DE TRANSPORTE DE CARGA
 
 ###### ARTÍCULO 93.
 
@@ -1033,9 +1101,11 @@ IV. Llevar un rótulo que los identifique de manera visible.
 
 Los vehículos destinados al servicio particular de transporte de pasajeros y de carga deberán ostentar en su exterior el nombre y domicilio del permisionario, con letras claras y legibles que no deberán ser inferiores a 10 centímetros de alto.
 
-## TÍTULO CUARTO (SIC). CONCESIONES Y PERMISOS
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE AGOSTO DE 2016)</small>
 
-### CAPÍTULO II. DE LOS PERMISOS
+## TÍTULO CUARTO (SIC). CONCESIONES, PERMISOS, CONSTANCIAS Y CERTIFICADOS VEHICULARES
+
+### CAPÍTULO I. DE LAS CONCESIONES
 
 ###### ARTÍCULO 99.
 
@@ -1171,7 +1241,7 @@ XIV. La participación en los concursos para el otorgamiento de nuevas concesion
 
 XV. La participación a través de los representantes de sus organizaciones en el órgano de consulta establecido en este Reglamento. Estos derechos se entenderán, sin perjuicio de los demás que la Ley y este Reglamento les otorgue.
 
-### CAPÍTULO ÚNICO. DE LAS TERMINALES
+### CAPÍTULO II. DE LOS PERMISOS
 
 ###### ARTÍCULO 109.
 
@@ -1259,13 +1329,133 @@ Los titulares de los permisos especiales a que se refiere este artículo únicam
 
 El permiso a que se refiere este artículo, será otorgado en el mismo acto en que se cubran los requisitos.
 
-### CAPÍTULO I. DE LAS TARIFAS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 26 DE AGOSTO DE 2016)</small>
 
-### CAPÍTULO II. DE LOS PESOS, MEDIDAS Y DEMÁS CARACTERÍSTICAS DE LOS VEHÍCULOS
+### CAPÍTULO III. DE LAS CONSTANCIAS
+
+> <small>(ADICIONADO, D.O. 26 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 114 BIS.- La constancia que, en términos del artículo 40 bis de la Ley, requerirán las empresas de redes de transporte para promover, administrar u operar plataformas tecnológicas en el estado, será expedida por el titular del Ejecutivo del estado, previo cumplimiento del procedimiento establecido en este Capítulo.
+
+> <small>(ADICIONADO, D.O. 26 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 114 TER.- Para obtener la constancia, se deberá cumplir con los requisitos establecidos en el artículo 40 ter de la Ley.
+
+> <small>(ADICIONADO, D.O. 26 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 114 QUATER.- Las empresas de redes de transporte que pretendan tramitar la constancia deberán presentar, a través de su representante legal, solicitud por escrito a la Secretaría General de Gobierno, por conducto de la Dirección de Transporte, quien la analizará en un plazo no mayor a cinco días hábiles, contado a partir de su presentación, y determinará si la empresa interesada cumple o no con los requisitos establecidos en la Ley.
+
+En caso de que la empresa interesada no cumpla con algún requisito, la Secretaría General de Gobierno, por conducto de la Dirección de Transporte, le comunicará esta inconsistencia para que, en un plazo no mayor a diez días hábiles, contado a partir de la fecha de notificación, la solvente. Si la empresa interesada no solventara la inconsistencia dentro del plazo establecido, la solicitud recibida se desechará y se tendrá por no presentada.
+
+> <small>(ADICIONADO, D.O. 26 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 114 QUINQUIES.- En caso de que la empresa interesada cumpla con todos los requisitos establecidos en la Ley para el trámite de la constancia, la Secretaría General de Gobierno, por conducto de la Dirección de Transporte, elaborará el dictamen respectivo, el cual turnará al titular del Ejecutivo del estado para los efectos correspondientes.
+
+> <small>(ADICIONADO, D.O. 26 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 114 SEXIES.- Una vez recibido el dictamen elaborado por la Secretaría General de Gobierno, por conducto de la Dirección de Transporte, el titular del Ejecutivo del estado emitirá el fallo correspondiente y notificará a la empresa interesada; en un plazo no mayor a diez días hábiles, contado a partir de la fecha de recepción del dictamen de que se trate, la procedencia de la solicitud.
+
+> <small>(ADICIONADO, D.O. 26 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 114 SEPTIES.- La empresa interesada, a través de su representante legal, tendrá un plazo no mayor a diez días hábiles, contado a partir de la fecha de emisión del fallo que indique la procedencia de la solicitud, para recoger la constancia. El incumplimiento de este plazo dará por cancelada la constancia y por terminado este procedimiento.
+
+> <small>(ADICIONADO, D.O. 26 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 114 OCTIES.- La constancia deberá contener la siguiente información:
+
+I. Las fechas de expedición y de vigencia;
+
+II. El número de identificación de la constancia;
+
+III. El servicio que se autoriza;
+
+IV. El nombre de la empresa de redes de transporte y su plataforma tecnológica;
+
+V. Las claves del registro federal y estatal de contribuyentes de la empresa de redes de transporte; y
+
+VI. Los municipios del estado donde podrá prestar sus servicios.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 26 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO IV. DE LOS CERTIFICADOS VEHICULARES
+
+> <small>(ADICIONADO, D.O. 26 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 114 NONIES.- El certificado vehicular que, en términos del artículo 40 quinquies de la Ley, se requerirá para prestar el servicio de transporte de pasajeros contratado a través de plataformas tecnológicas, será expedido por la Dirección de Transporte, previo cumplimiento del procedimiento establecido en este Capítulo.
+
+Los certificados vehiculares titulares se otorgarán a los propietarios del vehículo, además se podrán otorgar hasta dos certificados vehiculares adicionales exclusivamente para operar los vehículos. Ninguna persona podrá contar simultáneamente con dos certificados vehiculares titulares.
+
+Los certificados vehiculares podrán ser tramitados por las empresas de redes de transporte, quienes, de igual forma, podrán solicitar la revocación de los certificados, en cualquier momento.
+
+Para la renovación del certificado vehicular, se seguirá el mismo procedimiento establecido en este Reglamento para el otorgamiento.
+
+> <small>(ADICIONADO, D.O. 26 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 114 DECIES.- Para obtener el certificado vehicular, se deberá cumplir con los requisitos establecidos en el artículo 40 sexies de la Ley, para lo cual, los interesados deberán presentar la siguiente documentación:
+
+I. La solicitud por escrito;
+
+II. El certificado de antecedentes no penales;
+
+III. El certificado de no consumo de drogas, enervantes o psicotrópicos, expedido por un médico con título legalmente registrado, así como los estudios toxicológicos practicados para tal efecto;
+
+IV. Las claves de los registros federal y estatal de contribuyentes;
+
+V. La copia simple de la licencia de conducir vigente, expedida en el estado;
+
+VI. El documento emitido por una empresa de redes de transporte en el que conste su preregistro en esta; y
+
+VII. La factura, carta-factura o cualquier documento análogo en el que conste el propietario del vehículo mediante el cual se prestará el servicio así como el valor de este y su antigüedad.
+
+Tratándose del certificado vehicular adicional, a que se refiere el segundo párrafo del artículo anterior, los interesados deberán presentar, además de los documentos establecidos en este artículo, la autorización por escrito del propietario del vehículo, así como copia de su certificado vehicular.
+
+> <small>(ADICIONADO, D.O. 26 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 114 UNDECIES.- Para efectos pe verificar el cumplimiento de los requisitos establecidos en la fracción IX del artículo 40 sexies de la Ley, los interesados deberán presentar el vehículo ante la Dirección de Transporte, la cual realizará la inspección correspondiente.
+
+En la estimación del valor del vehículo a que se refiere la fracción IX del artículo 40 sexies de la Ley, la Dirección de Transporte, mediante la inspección a que se refiere este artículo, podrá considerar hasta un quince por ciento de las erogaciones que se le hayan efectuado por concepto de la instalación de equipo, accesorios u otras adecuaciones o mejoras.
+
+> <small>(ADICIONADO, D.O. 26 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 114 DUODECIES.- Las personas que pretendan tramitar el certificado vehicular para prestar el servicio de transporte de pasajeros contratado a través de plataformas tecnológicas deberán presentar la documentación correspondiente a la Dirección de Transporte.
+
+En caso de que el interesado no cumpla con algún requisito, la Dirección de Transporte le comunicará esta inconsistencia para que la solvente en un plazo de diez días. Si la inconsistencia no se solventara dentro del plazo establecido, la solicitud recibida se desechará y se tendrá por no presentada.
+
+> <small>(ADICIONADO, D.O. 26 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 114 TERDECIES.- En caso de que se cumplan con todos los requisitos establecidos en la Ley para el trámite del certificado vehicular, la Dirección de Transporte declarará la procedencia de la solicitud y expedirá la constancia vehicular correspondiente.
+
+> <small>(ADICIONADO, D.O. 26 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 114 QUATERDECIES.- El certificado vehicular deberá contener la siguiente información:
+
+I. Las fechas de expedición y de vigencia;
+
+II. El número de identificación del certificado vehicular;
+
+III. El servicio que se autoriza;
+
+IV. El nombre y los datos de contacto del titular;
+
+V. El número de la licencia de conducir del titular;
+
+VI. La empresa de redes de transporte en la que está registrado el titular;
+
+VII. La mención de si se trata de un certificado vehicular titular o adicional;
+
+VIII. La marca, el modelo, el año de fabricación o de ejercicio automotriz y la declaración de que el vehículo que utilizará el titular para la prestación del servicio de transporte de pasajeros contratado a través de plataformas tecnológicas cumple con el valor, las características físicas y los requisitos administrativos en materia de tránsito y vialidad necesarios para su circulación en el estado, en términos del artículo 40 sexies, fracción IX, de la Ley; y
+
+IX. El municipio del estado donde el titular podrá prestar el servicio de transporte de pasajeros contratado a través de plataformas tecnológicas.
+
+> <small>(ADICIONADO, D.O. 26 DE AGOSTO DE 2016)</small>
+
+###### ARTÍCULO 114.
+
+QUINDECIES.- El número de vehículos que podrán prestar el servicio de transporte de pasajeros contratado a través de plataformas tecnológicas dependerá de la oferta y la demanda que exista en el estado.
 
 ## TÍTULO QUINTO. TERMINALES Y SITIOS
 
-### CAPÍTULO III. DE LAS MEDIDAS DE SEGURIDAD
+### CAPÍTULO ÚNICO. DE LAS TERMINALES
 
 ###### ARTÍCULO 115.
 
@@ -1331,7 +1521,7 @@ Los lugares donde se ubiquen los sitios deberán contar con los cajones autoriza
 
 ## TÍTULO SEXTO. TARIFAS, PESOS, DIMENSIONES Y MEDIDAS
 
-### CAPÍTULO I. DE LA INSPECCIÓN Y VIGILANCIA
+### CAPÍTULO I. DE LAS TARIFAS
 
 ###### ARTÍCULO 120.
 
@@ -1369,7 +1559,7 @@ La autoridad competente solicitará, en su caso, la información complementaria 
 
 Una vez presentadas las solicitudes de tarifas nuevas o de modificación de las vigentes, la autoridad de transporte competente procederá al análisis de las mismas y cuando sean procedentes aprobará dichas tarifas, las cuales serán publicadas en el Diario Oficial del Gobierno del Estado.
 
-### CAPÍTULO II. DE LAS INFRACCIONES Y SANCIONES
+### CAPÍTULO II. DE LOS PESOS, MEDIDAS Y DEMÁS CARACTERÍSTICAS DE LOS VEHÍCULOS
 
 ###### ARTÍCULO 124.
 
@@ -1429,7 +1619,7 @@ La antigüedad a que se refieren los dos artículos anteriores, se entenderán r
 
 Los vehículos destinados al servicio público o particular de transporte de pasajeros o de carga, estarán dotados de placas metálicas de identificación específicas autorizadas para el tipo de transporte que corresponda, calcomanías u hologramas y tarjetas de circulación correspondientes que otorgue la Secretaría de Seguridad Pública. Los propietarios o poseedores legítimos de dichos vehículos deberán cumplir con el procedimiento de expedición, reposición y revalidación que establezca este Reglamento y demás disposiciones legales aplicables.
 
-### CAPÍTULO III. DE LAS IMPUGNACIONES
+### CAPÍTULO III. DE LAS MEDIDAS DE SEGURIDAD
 
 ###### ARTÍCULO 132.
 
@@ -1475,7 +1665,7 @@ Los inspectores de Transporte, además de la capacitación que reciban para el e
 
 ## TÍTULO SÉPTIMO. INSPECCIÓN, VIGILANCIA, INFRACCIONES Y SANCIONES
 
-### CAPÍTULO IV. DEL CONSEJO CONSULTIVO DEL TRANSPORTE EN EL ESTADO
+### CAPÍTULO I. DE LA INSPECCIÓN Y VIGILANCIA
 
 ###### ARTÍCULO 135.
 
@@ -1549,11 +1739,11 @@ Los inspectores de Transporte podrán realizar inspecciones rutinarias a los veh
 
 Dentro de un plazo de cinco días siguientes al hecho de que se trate, el infractor podrá acudir a la Dirección de Transporte para alegar lo que a su derecho convenga y presentar pruebas de su dicho. En un término de diez días hábiles, posteriores al vencimiento del plazo antes señalado, el Director de Transporte emitirá la resolución correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 3 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 145.
 
-Los inspectores de Transporte o en su caso, los agentes de la Secretaría de Seguridad Pública podrán impedir la circulación de los vehículos destinados al servicio de transporte cuando se violen de manera flagrante las disposiciones de la Ley y su Reglamento, siempre que concurran las siguientes condiciones:
+Los Inspectores de Transporte o los elementos policiales de la Secretaría de Seguridad Pública podrán, en términos del artículo 24 de la Ley, impedir la circulación o retener y remitir a los depósitos correspondientes cualquier vehículo que viole de manera flagrante alguna de las infracciones establecidas en la Ley o este Reglamento, siempre que concurran las siguientes condiciones:
 
 I. Los vehículos presten el servicio sin las placas correspondientes a la modalidad de concesión o permiso autorizados;
 
@@ -1569,11 +1759,17 @@ VI. Se circule en el interior de los centros de población, en el caso de los ve
 
 VII. El vehículo exceda de las medidas de ancho, alto y largo establecidas para cada caso;
 
-VIII. No se cuente con concesión o permiso correspondiente para realizar el servicio público o particular de transporte, respectivamente.
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2016)</small>
+
+VIII. No se cuente con concesión, permiso o certificado vehicular para prestar el servicio de transporte de pasajeros correspondiente.
+
+### CAPÍTULO II. DE LAS INFRACCIONES Y SANCIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 146.
 
-Se consideran violaciones graves a la Ley y se sancionarán con multa de cincuenta a quinientos días de salario, las infracciones siguientes:
+Se consideran violaciones graves a la Ley y se sancionarán con multa de cincuenta a quinientas unidades de medida y actualización, las infracciones siguientes:
 
 I. Por proporcionar un servicio de transporte en el Estado sin contar con el permiso especial correspondiente, en el caso de los vehículos procedentes del extranjero u otras Entidades Federativas del País, en los términos del Artículo 10 de la Ley;
 
@@ -1583,15 +1779,47 @@ III. Por dejar de prestar el servicio público de transporte sin informar en los
 
 IV. Por prestar un servicio particular de transporte sin contar con el permiso correspondiente, en los términos del Artículo 36 de la Ley;
 
-> <small>(REFORMADA, D.O. 3 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2016)</small>
 
-V. Por prestar algún servicio de transporte sin contar con las placas expedidas por la Secretaría de Seguridad Pública, para prestar el servicio de que se trate, en los términos del Artículo 42 de la Ley; y
+V. Por prestar algún servicio de transporte sin contar con las placas expedidas por la Secretaria de Seguridad Pública para prestar el servicio que, en su caso, las requiera, en los términos del artículo 42 de la Ley;
 
-VI. Por continuar prestando el servicio de transporte cuando la concesión o permiso no hayan sido renovados, por causas imputables al concesionario o permisionario, en los términos del Artículo 47 de la Ley.
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2016)</small>
+
+VI. Por continuar prestando el servicio de transporte cuando la concesión, el permiso, la constancia o el certificado vehicular no hayan sido renovados, por causas imputables al titular;
+
+> <small>(ADICIONADA, D.O. 26 DE AGOSTO DE 2016)</small>
+
+VII. Por prestar los servicios propios a las empresas de redes de transporte sin contar con la constancia correspondiente, en términos del artículo 40 bis de la Ley;
+
+> <small>(ADICIONADA, D.O. 26 DE AGOSTO DE 2016)</small>
+
+VIII. Por realizar cobros, por parte de las empresas de redes de transporte, derivados de la prestación del servicio de transporte de pasajeros contratado a través de plataformas tecnológicas, por otros medios que no sean tarjeta de crédito o débito emitida por institución bancaria autorizada, en términos del artículo 40 quater, fracción V, de la Ley;
+
+> <small>(ADICIONADA, D.O. 26 DE AGOSTO DE 2016)</small>
+
+IX. Por permitir, por parte de las empresas de redes de transporte, el uso de sus plataformas tecnológicas a personas que no cuenten con el certificado vehicular expedido por la Dirección de Transporte, en términos del artículo 40, fracción II, de la Ley;
+
+> <small>(ADICIONADA, D.O. 26 DE AGOSTO DE 2016)</small>
+
+X. Por prestar el servicio de transporte de pasajeros contratado a través de plataformas tecnológicas sin contar con el certificado vehicular correspondiente, en términos del artículo 40 quinquies de la Ley, o en un vehículo no amparado por este certificado;
+
+> <small>(ADICIONADA, D.O. 26 DE AGOSTO DE 2016)</small>
+
+XI. Por realizar, por parte de los operadores del servicio de transporte de pasajeros contratado a través de plataformas tecnológicas, oferta directa en la vía pública del servicio que prestan o base, sitio o similares;
+
+> <small>(ADICIONADA, D.O. 26 DE AGOSTO DE 2016)</small>
+
+XII. Por efectuar, por parte de los operadores del servicio de transporte de pasajeros contratado a través de plataformas tecnológicas, cobros en dinero en efectivo o por otros medios que no sean tarjeta de crédito o débito emitida por institución bancaria autorizada, en términos del artículo 40 septies, fracción VI, de la Ley; y
+
+> <small>(ADICIONADA, D.O. 26 DE AGOSTO DE 2016)</small>
+
+XIII. Por colocar propaganda electoral en los vehículos en los que se preste el servicio público de transporte de pasajeros.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 147.
 
-Se consideran violaciones graves a la Ley y su Reglamento y se sancionarán con suspensión de uno o quince días o multa de veinticinco a ciento cincuenta días de salario, las infracciones siguientes:
+Se consideran violaciones graves a la Ley y su Reglamento y se sancionarán con suspensión de uno o quince días o multa de veinticinco a ciento cincuenta unidades de medida y actualización, las infracciones siguientes:
 
 I. Por no contar con seguro a favor del pasajero y por daños a terceros o dejar de cubrir el importe de los mismos, en los términos del Artículo 22 de la Ley;
 
@@ -1601,21 +1829,35 @@ III. Por efectuar servicio público o particular de transporte en contravención
 
 IV. Por no contar con terminales, en los términos de los artículos 35 fracción IV y 65 de la Ley, excepto cuando cuenten con autorización para el uso de sitios;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 26 DE AGOSTO DE 2016)</small>
+
 V. Por no prestar el servicio gratuito en casos de emergencia, desastre o problema grave, en los términos del artículo 35 fracción V de la Ley;
 
-Las demás infracciones de la Ley, a este Reglamento, y a la concesión o permiso, serán sancionados con multa de 25 a 100 días de salario.
+> <small>(ADICIONADA, D.O. 26 DE AGOSTO DE 2016)</small>
+
+VI. Por no proporcionar mensualmente a la Dirección de Transporte, por parte de las empresas de redes de transporte, el registro de operadores y de vehículos inscritos en sus bases de datos, así como cualquier otra información disponible que le solicite, en términos del artículo 40 quater, fracción III, de la Ley; y
+
+> <small>(ADICIONADA, D.O. 26 DE AGOSTO DE 2016)</small>
+
+VII. Por prestar el servicio de transporte de pasajeros contratado a través de plataformas tecnológicas en contravención de las disposiciones establecidas en la Ley de Tránsito y Vialidad del Estado de Yucatán, y su reglamento, en términos del artículo 40 septies, fracción III, de la Ley.
+
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 2016)</small>
+
+Las demás infracciones a la Ley y a este Reglamento que cometan los concesionarios, los permisionarios, las empresas de redes de transporte o los operadores del servicio de transporte de pasajeros contratado a través de plataformas tecnológicas, serán sancionadas con multa de 25 a 100 unidades de medida y actualización.
 
 ###### ARTÍCULO 148.
 
-En las sanciones establecidas en este capítulo, cuando se menciona días de salario, se entenderán referidas al salario mínimo general vigente en el Estado de Yucatán, al momento en que se imponga la sanción.
+(DEROGADO, D.O. 26 DE AGOSTO DE 2016)
 
 ###### ARTÍCULO 149.
 
 Cuando el pago de las sanciones se efectúe dentro de los quince días naturales siguientes a su aplicación, se reducirán hasta en un cincuenta por ciento, salvo en los casos de reincidencia.
 
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 150.
 
-El concesionario o permisionario de la unidad destinada al servicio público o particular de transporte, se hará responsable solidario de las sanciones que se impongan a los operadores de la misma.
+El concesionario, permisionario o propietario de la unidad destinada al servicio de transporte de pasajeros o de carga se hará responsable solidario de las sanciones que se impongan a los operadores de ella.
 
 ###### ARTÍCULO 151.
 
@@ -1631,6 +1873,8 @@ IV. Las circunstancias externas que influyeron en la realización de la conducta
 
 V. Las condiciones económicas del infractor.
 
+### CAPÍTULO III. DE LAS IMPUGNACIONES
+
 ###### ARTÍCULO 152.
 
 La impugnación de las resoluciones dictadas por las autoridades competentes en lo relativo a la aplicación de esta Ley y su Reglamento, se hará ante el Tribunal de lo Contencioso Administrativo, de acuerdo con el procedimiento que marque la legislación en la materia.
@@ -1638,6 +1882,8 @@ La impugnación de las resoluciones dictadas por las autoridades competentes en 
 ###### ARTÍCULO 153.
 
 (DEROGADO, D.O. 3 DE SEPTIEMBRE DE 2008)
+
+### CAPÍTULO IV. DEL CONSEJO CONSULTIVO DEL TRANSPORTE EN EL ESTADO
 
 ###### ARTÍCULO 154.
 
@@ -1792,3 +2038,15 @@ LUIS FELIPE SAIDEN OJEDA
 D.O. 3 DE SEPTIEMBRE DE 2008.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 26 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 407/2016 POR EL QUE SE MODIFICA EL REGLAMENTO DE LA LEY DE TRANSPORTE DEL ESTADO DE YUCATÁN, EN MATERIA DE TRANSPORTE DE PASAJEROS CONTRATADO A TRAVÉS DE PLATAFORMAS TECNOLÓGICAS”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Plazo para realizar los trámites
+
+Las empresas de redes de transporte tendrán un plazo de ciento veinte días, contado a partir de la entrada en vigor de este decreto, para tramitar la constancia y los certificados vehiculares correspondientes.
