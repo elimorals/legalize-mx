@@ -4,7 +4,7 @@ identifier: "FED-manual-general-de-puestos-del-consejo-de-la-judicatura-81302"
 country: "mx"
 rank: "manual"
 publication_date: "2011-05-17"
-last_updated: "2016-06-15"
+last_updated: "2016-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81302&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-05-04"
 
 MANUAL GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE AGOSTO DE 2016.
 
 Manual publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el martes 17 de mayo de 2011.
 
@@ -81,159 +81,101 @@ Tanto el Manual General de Puestos como los Manuales de Puestos Específicos deb
 
 Por último, es importante resaltar que la única instancia competente para resolver cualquier situación acerca de la aplicación de las descripciones de puestos es la Comisión de Administración, quien someterá al Pleno del Consejo las dudas que así lo requieran.
 
-INDICE DE DESCRIPCIONES DE PUESTO
+> <small>(REFORMADO, D.O.F. 26 DE AGOSTO DE 2016)</small>
 
 Cons. PUESTO
 
-1. CONSEJERO
+1. SECRETARIO PARTICULAR DE SPS
 
-2. TITULAR DE ORGANO AUXILIAR
+2. DEFENSOR PÚBLICO
 
-3. VISITADOR JUDICIAL A
+3. ASESOR JURÍDICO
 
-4. MAGISTRADO DE CIRCUITO
+4. ASESOR SPS
 
-5. VOCAL
+5. LÍDER DE PROYECTO 130
 
-6. SECRETARIO EJECUTIVO
+6. COORDINADOR TÉCNICO DE SPS
 
-7. CONTRALOR DEL PODER JUDICIAL DE LA FEDERACION
+7. ACTUARIO JUDICIAL
 
-8. JUEZ DE DISTRITO
+8. SUBDIRECTOR DE ÁREA
 
-9. COORDINADOR ACADEMICO
+9. COORDINADOR TÉCNICO A
 
-10. COORDINADOR DE SEGURIDAD
+10. JEFE DE OFICINA DE CORRESPONDENCIA COMÚN A
 
-11. DIRECTOR GENERAL
+11. SECRETARIO PARTICULAR DE MAGISTRADO DE CIRCUITO
 
-12. COORDINADOR GENERAL
+12. SECRETARIO PARTICULAR DE JUEZ DE DISTRITO
 
-13. SECRETARIO TECNICO COORDINADOR DE PONENCIA DE CONSEJERO
+13. DELEGADO ADMINISTRATIVO
 
-14. TITULAR DE UNIDAD ADMINISTRATIVA
+14. JEFE DE DEPARTAMENTO
 
-15. SECRETARIO TECNICO DE PONENCIA DE CONSEJERO
+15. AUDITOR
 
-16. VISITADOR JUDICIAL B
+16. DICTAMINADOR
 
-17. SECRETARIO TECNICO AA DE COMISION PERMANENTE
+17. COORDINADOR TÉCNICO B
 
-18. SECRETARIO TECNICO A
+18. JEFE DE OFICINA DE CORRESPONDENCIA COMÚN B
 
-19. REPRESENTANTE DEL CJF ANTE LA COMISION SUBSTANCIADORA
+19. COORDINADOR DE AYUDA Y SEGURIDAD
 
-20. REPRESENTANTE DEL SINDICATO DE TRABAJADORES DEL PJF ANTE LA COMISION SUBSTANCIADORA
+20. AUXILIAR ITINERANTE
 
-21. COORDINADOR DE AREAS
+21. COORDINADOR TÉCNICO ADMINISTRATIVO
 
-22. SECRETARIO DE TRIBUNAL
+22. ANALISTA JURÍDICO SISE
 
-23. DELEGADO
+23. TAQUÍGRAFA JUDICIAL PARLAMENTARIA
 
-24. EVALUADOR
+24. TÉCNICO DE ENLACE ADMINISTRATIVO OCC
 
-25. SECRETARIO DE JUZGADO
+25. SECRETARIA EJECUTIVA DE SPS
 
-26. SUPERVISOR
+26. TÉCNICO DE ENLACE
 
-27. DIRECTOR DE AREA
+27. AUXILIAR DE ACTUARIO
 
-28. SECRETARIO DE APOYO B
+28. OFICIAL ADMINISTRATIVO
 
-29. ADMINISTRADOR REGIONAL
+29. OFICIAL DE PARTES
 
-30. SECRETARIO DE LA COMISION SUBSTANCIADORA UNICA DEL PJF
+30. ANALISTA ESPECIALIZADO
 
-31. ASESOR ESPECIALIZADO SPS
+31. JEFE DE GRUPO DE SEGURIDAD
 
-32 SECRETARIO PARTICULAR DE SPS
+32. SECRETARIA EJECUTIVA A
 
-33. DEFENSOR PUBLICO
+33. CHOFER DE FUNCIONARIO
 
-34. ASESOR JURIDICO
+34. ENFERMERA ESPECIALIZADA
 
-35. ASESOR SPS
+35. SECRETARIA A
 
-36. LIDER DE PROYECTO
+36. ANALISTA
 
-37. COORDINADOR TECNICO DE SPS
+37. ANALISTA A
 
-38. ACTUARIO JUDICIAL
+38. OFICIAL DE SEGURIDAD
 
-39. SUBDIRECTOR DE AREA
+39. TÉCNICO ADMINISTRATIVO
 
-40. COORDINADOR TECNICO A
+40. TÉCNICO ESPECIALIZADO
 
-41. JEFE DE OFICINA DE CORRESPONDENCIA COMUN A
+41. EDUCADORA
 
-42. SECRETARIO PARTICULAR DE MAGISTRADO DE CIRCUITO
+42. ANALISTA ADMINISTRATIVO
 
-43. SECRETARIO PARTICULAR DE JUEZ DE DISTRITO
+43. AUXILIAR DE SERVICIOS GENERALES
 
-44. DELEGADO ADMINISTRATIVO
+44. NIÑERA
 
-45. JEFE DE DEPARTAMENTO
+45. COCINERA
 
-46. AUDITOR
-
-47. DICTAMINADOR
-
-48. COORDINADOR TECNICO B
-
-49. JEFE DE OFICINA DE CORRESPONDENCIA COMUN B
-
-50. COORDINADOR DE AYUDA Y SEGURIDAD
-
-51. AUXILIAR ITINERANTE
-
-52. ANALISTA JURIDICO SISE
-
-53. TAQUIGRAFA JUDICIAL PARLAMENTARIA
-
-54. TECNICO DE ENLACE ADMINISTRATIVO OCC
-
-55. SECRETARIA EJECUTIVA DE SPS
-
-56. TECNICO DE ENLACE
-
-57. AUXILIAR DE ACTUARIO
-
-58. OFICIAL ADMINISTRATIVO
-
-59. OFICIAL DE PARTES
-
-60. ANALISTA ESPECIALIZADO
-
-61. JEFE DE GRUPO DE SEGURIDAD
-
-62. SECRETARIA EJECUTIVA A
-
-63. CHOFER DE FUNCIONARIO
-
-64. ENFERMERA ESPECIALIZADA
-
-65 SECRETARIA A
-
-66. ANALISTA
-
-67. OFICIAL DE SEGURIDAD
-
-68. TECNICO ADMINISTRATIVO
-
-69. TECNICO ESPECIALIZADO
-
-70. EDUCADORA
-
-71. ANALISTA ADMINISTRATIVO
-
-72. AUXILIAR DE SERVICIOS GENERALES
-
-73. NIÑERA
-
-74. COCINERA
-
-75. OFICIAL DE SERVICIOS Y MANTENIMIENTO
+46. OFICIAL DE SERVICIOS Y MANTENIMIENTO
 
 Descripción de Puesto
 
@@ -7333,6 +7275,120 @@ III.3 Otros requisitos:
 
 - Los demás que determinen el Titular del Organo Jurisdiccional Itinerante de su adscripción y los Acuerdos Generales del Pleno del Consejo.
 
+> <small>(ADICIONADO, D.O.F. 26 DE AGOSTO DE 2016)</small>
+
+Descripción de Puesto
+
+I. Datos de Control.-
+
+Tipo: Grupo: Rama:
+
+CF - CONFIANZA 4 - HOMÓLOGOS A 06 - TÉCNICA
+
+MANDOS MEDIOS
+
+Puesto: Clave: Nivel y Rango:
+
+06 - COORDINADOR CF40605 24A MX/MD/MN
+
+TÉCNICO
+
+ADMINISTRATIVO
+
+II. Descripción.-
+
+II.1 Objetivo del puesto:
+
+Generar los estudios y propuestas técnico jurídicas o administrativas que apoyen el cumplimiento de las funciones encomendadas al área de su adscripción.
+
+II.2 Funciones:
+
+1. Brindar apoyo al órgano jurisdiccional en la operación y supervisión de sistemas administrativos, financieros e informáticos, así como en la gestión de recursos humanos, materiales y servicios generales.
+
+2. Servir de enlace entre el propio órgano jurisdiccional al que está adscrito y las áreas administrativas en la gestión y desahogo de trámites administrativos, estadísticos e informáticos.
+
+3. Atender las instrucciones que le encomiende el titular del órgano jurisdiccional que se relacionen con actividades jurídico-administrativas del propio órgano; entre otras, visitas de inspección, control y manejo de archivo, SISE CB; y en el caso de las videoconferencias, coordinarse con la Dirección General de Tecnologías de la Información.
+
+4. Cumplir con las funciones establecidas en los manuales, lineamientos, directrices o instrucciones que determine el Pleno o las Comisiones.
+
+5. Las demás que le encomiende su jefe inmediato.
+
+II.3 Norma de creación:
+
+Artículo 181 de la Ley Orgánica del Poder Judicial de la Federación y el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, publicado en el Diario Oficial de la Federación el 15 de enero de 2015.
+
+II.4 Responsabilidades:
+
+1. Llevar a cabo sus actividades observando una conducta ética que muestre: legalidad, integridad, honradez, imparcialidad, equidad, transparencia, eficiencia y calidad en el desempeño de su cargo.
+
+2. Cumplir con las leyes, reglamentos y programas que se relacionen con su función.
+
+3. Cumplir las funciones encomendadas para el puesto que desempeña en el presente Manual, así como en las demás disposiciones normativas que regulan la organización y funcionamiento del propio Consejo, tales como Acuerdos Generales, Manuales de Organización y de Procedimientos, autorizados por autoridad superior del Consejo.
+
+4. Manejar de manera óptima y eficiente los recursos materiales y financieros asignados según el puesto.
+
+5. Cuidar el uso confidencial de la información que se maneje según el puesto.
+
+6. Abstenerse de incurrir en responsabilidad administrativa por cualquiera de los supuestos que marca la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+
+7. Abstenerse de incurrir en las responsabilidades que se establecen en el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y el Título Octavo de la Ley Orgánica del Poder Judicial de la Federación.
+
+8. Las demás que determine el Titular del órgano jurisdiccional de su adscripción.
+
+II.5 Responsabilidad por manejo de recursos:
+
+HUMANOS: NO
+
+MATERIALES:
+
+MOBILIARIO Y EQUIPO DE OFICINA: SÍ
+
+EQUIPO DE TRANSPORTE: NO
+
+EQUIPO DE CÓMPUTO Y COMUNICACIONES: SÍ
+
+VALORES: NO
+
+INFORMACIÓN CONFIDENCIAL: SÍ
+
+AMBIENTE DE TRABAJO:
+
+NORMAL DE OFICINA: SÍ
+
+OTRO: NO
+
+III. Perfil del puesto.-
+
+III.1 Formación académica:
+
+Título y cédula profesional de licenciatura en Derecho.
+
+III.2 Experiencia laboral:
+
+Profesional mínima de un año en actividades relacionadas con el puesto.
+
+III.3 Otros requisitos:
+
+- Haber aprobado el curso de inducción que determine el Instituto de la Judicatura Federal, de conformidad con lo señalado en el Artículo 96 del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales.
+
+- Capacidad de resolución de problemas y/o toma de decisiones.
+
+- Capacidad de análisis y síntesis.
+
+- Capacidad para el trabajo en equipo.
+
+- Habilidad para la comunicación oral y escrita.
+
+- Manejo de equipo técnico de cómputo y los programas de software requeridos.
+
+- Gozar de buena reputación.
+
+- No haber sido condenado por delito doloso con sanción privativa de la libertad mayor de un año.
+
+- No estar inhabilitado para desempeñar empleo, cargo o comisión en el servicio público.
+
+- Los demás que determinen el Titular del órgano jurisdiccional de su adscripción y los Acuerdos Generales del Pleno del Consejo.
+
 Descripción de Puesto
 
 I. Datos de Control.-
@@ -10265,9 +10321,11 @@ Anexo 2. Identificación de los conceptos de la Descripción de Puesto.
 
 > <small>N. DE E. VÉASE TABLAS EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 17 DE MAYO DE 2011, PÁGINAS DE LA 162 A LA 164.</small>
 
+> <small>(REFORMADO, D.O.F. 26 DE AGOSTO DE 2016)</small>
+
 Anexo 3. Registro de Actualizaciones.
 
-> <small>N. DE E. VÉASE TABLA EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 17 DE MAYO DE 2011, PÁGINAS DE LA 164 A LA 168.</small>
+> <small>[N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL D.O.F. DE 26 DE AGOSTO DE 2016, PÁGINA 83.]</small>
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNANDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que la actualización al Manual General de Puestos del Consejo de la Judicatura Federal, fue aprobada por el Pleno del propio Consejo, en sesión ordinaria de nueve de marzo de dos mil once, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Esquinca Muñoa, César Alejandro Jáuregui Robles y Jorge Moreno Collado.- México, Distrito Federal, a cuatro de mayo de dos mil once.- Conste.- Rúbrica.
 
@@ -10278,5 +10336,9 @@ D.O.F. 28 DE MARZO DE 2016.
 > <small>[N. DE E. LAS “MODIFICACIONES AL MANUAL GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
 
 D.O.F. 15 DE JUNIO DE 2016.
+
+> <small>[N. DE E. LAS "MODIFICACIONES AL MANUAL GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+D.O.F. 26 DE AGOSTO DE 2016.
 
 > <small>[N. DE E. LAS "MODIFICACIONES AL MANUAL GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
