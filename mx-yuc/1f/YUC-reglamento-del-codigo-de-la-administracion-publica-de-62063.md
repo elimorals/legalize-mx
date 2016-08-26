@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2016-05-20"
+last_updated: "2016-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE AGOSTO DE 2016.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -2055,37 +2055,57 @@ XIV. Elaborar las declaraciones informativas de retenciones por arrendamiento y 
 
 XV. Las demás atribuciones que le otorgue el Manual de Organización General de la Secretaría, este Reglamento, y otras disposiciones legales aplicables.
 
-> <small>(ADICIONADO, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 69 Septies.
 
 Al Director de Innovación y Desarrollo Institucional le corresponde el despacho de los siguientes asuntos:
 
-I. Realizar estudios, trabajos de investigación, programas y proyectos encaminados a modernizar la gestión pública en las dependencias y entidades del Poder Ejecutivo del Estado;
+I. Realizar estudios, trabajos de investigación, programas y proyectos encaminados a modernizar la gestión pública en las dependencias y entidades de la Administración Pública estatal;
 
-II. Proponer, difundir y evaluar normas, programas y manuales relacionados con la modernización de la gestión pública, sistemas de gestión de calidad, prestación de trámites y servicios públicos y de innovación, en el ámbito gubernamental;
+II. Proponer, difundir y evaluar normas, programas y manuales relacionados con la modernización de la gestión pública, los sistemas de gestión de calidad y de mejora continua, la prestación de trámites y servicios públicos y la innovación en el ámbito gubernamental;
 
-III. (DEROGADA, D.O. 18 DE FEBRERO DE 2016)
+III. Implementar, dar seguimiento y llevar el registro de los sistemas de gestión de calidad en las dependencias y entidades de la Administración Pública estatal;
 
-IV. Implementar, dar seguimiento y llevar el registro de los sistemas de gestión de calidad en las dependencias y entidades del Poder Ejecutivo del Estado;
+IV. Coadyuvar en la implementación de los programas y acciones para la capacitación y profesionalización del personal de la Administración Pública estatal;
 
-V. Coadyuvar en el desarrollo del Sistema del Servicio Civil de Carrera;
+V. Instrumentar mecanismos que fomenten la innovación gubernamental y la mejora continua en las dependencias y entidades de la Administración Pública estatal;
 
-VI. Instrumentar mecanismos que fomenten la innovación gubernamental en las dependencias y entidades del Poder Ejecutivo del Estado;
+VI. Capacitar al personal de la Administración Pública estatal en materia de normatividad, gestión administrativa, sistemas de gestión de la calidad y de mejora continua, innovación gubernamental, entre otros que permitan mejorar el desempeño institucional;
 
-VII. Capacitar en materia de calidad, normatividad, certificación, gestión administrativa e innovación gubernamental a los servidores públicos de las dependencias y entidades del Poder Ejecutivo del Estado;
+VII. Gestionar con organismos públicos, privados y sociales la implementación de programas de capacitación especializada para los servidores públicos de la Administración Pública estatal;
 
-VIII. Gestionar con organismos públicos, privados y sociales, programas de capacitación especializada para los servidores públicos del Poder Ejecutivo;
+VIII. Integrar, organizar, administrar y vigilar el correcto funcionamiento del Padrón de Trámites y Servicios Estatales;
 
-IX. Operar, difundir y mantener actualizados el Padrón de Trámites y Servicios del Estado, de conformidad con las disposiciones normativas y legales en la materia;
+IX. Formular y someter a la aprobación del secretario la metodología para la elaboración y actualización de procesos y esquemas de mejora de las dependencias y entidades de la Administración Pública estatal, así como coordinar y registrar las acciones y procesos que realicen en la materia;
 
-X. Dictaminar la viabilidad orgánico-funcional de las solicitudes de estructuración o reestructuración organizacional que propongan las dependencias y entidades del Poder Ejecutivo Estatal, así como mantener un registro de las mismas;
+X. Cargar y mantener actualizados en el sitio web del Gobierno del estado el programa anual de mejora regulatoria, los anteproyectos de regulación, sus manifestaciones de impacto regulatorio o las solicitudes de dispensa y los dictámenes que al respecto emita, el Padrón de Trámites y Servicios Estatales, así como la información relacionada con los módulos de ventanilla única y con las inscripciones en el Registro Único de Personas Acreditadas de Yucatán, en términos del artículo 6 de (sic) Ley de Mejora Regulatoria del Estado de Yucatán;
 
-XI. Formular y someter a la aprobación del Secretario, la metodología para la elaboración y actualización de procesos y esquemas de calidad de las dependencias y entidades de la Administración Pública del Estado, así como coordinar y registrar las acciones y procesos que realicen en la materia;
+XI. Elaborar y someter a consideración de la Comisión Estatal de Mejora Regulatoria, para su revisión y aprobación, el proyecto de programa anual de mejora regulatoria;
 
-XII. Atender operativamente las atribuciones que le corresponden a la Secretaría en materia de mejora regulatoria, por acuerdo del Secretario;
+XII. Evaluar el cumplimiento del programa anual de mejora regulatoria y el impacto de las acciones implementadas que deriven de él, con base en los informes trimestrales que rindan las dependencias y entidades de la Administración Pública estatal;
 
-XIII. Las demás atribuciones que le otorgue el Manual de Organización General de la Secretaría, este Reglamento, y otras disposiciones legales aplicables.
+XIII. Resolver sobre las solicitudes de dispensa de la obligación de elaborar la manifestación de impacto regulatorio que presenten las dependencias y entidades de la Administración Pública estatal, considerando las opiniones que, en su caso, se presenten y cuando el anteproyecto de regulación se encuentre en alguno de los supuestos establecidos en el artículo 29 de la Ley de Mejora Regulatoria del Estado de Yucatán;
+
+XIV. Recibir las opiniones sobre los anteproyectos de regulación y sus manifestaciones de impacto regulatorio o las solicitudes de su dispensa que, en su caso, se presenten;
+
+XV. Emitir los dictámenes sobre los anteproyectos de regulación, y sus manifestaciones de impacto, regulatorio que reciban de las dependencias y entidades de la Administración Pública estatal, considerando las opiniones que, en su caso, se presenten;
+
+XVI. Solicitar selectivamente a las dependencias y entidades de la Administración Pública estatal responsables de la aplicación de regulaciones las evaluaciones correspondientes, de conformidad con los lineamientos que expida el secretario para tal efecto;
+
+XVII. Efectuar, con base en las evaluaciones de impacto regulatorio que reciba de las dependencias y entidades de la Administración Pública estatal, las observaciones o propuestas de modificación o cancelación de las regulaciones que estime pertinentes;
+
+XVIII. Revisar que los trámites y servicios que inscriban las dependencias y entidades de la Administración Pública estatal en el Padrón de Trámites y Servicios Estatales cumplan con los requisitos correspondientes y contengan la información establecida en el artículo 47 de la Ley de Mejora Regulatoria del Estado de Yucatán;
+
+XIX. Propiciar la correcta instalación de los módulos de ventanilla única del Gobierno del estado;
+
+XX. Integrar y administrar la información del Registro Único de Personas Acreditadas de Yucatán, el sistema electrónico con el que se opere y la base de datos física y electrónica con la que se respalde la documentación presentada;
+
+XXI. Proponer al secretario la emisión de los lineamientos para el correcto uso, operación y aplicación del Registro Único de Personas Acreditadas de Yucatán;
+
+XXII. Proponer al secretario la suscripción de convenios de colaboración para contribuir a la implementación de la mejora regulatoria en el estado y el desarrollo de los demás asuntos de su competencia, y
+
+XXIII. Las demás atribuciones que le otorgue el Manual de Organización General de la Secretaría, este Reglamento, y otras disposiciones legales aplicables.
 
 > <small>(ADICIONADO, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -12872,3 +12892,11 @@ Se abroga el Decreto 596/2005 por el que se expide el Reglamento de la Ley de Ac
 Tercero. Obligación normativa
 
 Los titulares de las dependencias y los órganos de gobierno de las entidades de la Administración Pública estatal deberán expedir el acuerdo por el que se designa a la unidad de transparencia y se regula el comité de transparencia, dentro del plazo de treinta días naturales contado a partir de la entrada en vigor de este decreto.
+
+D.O. 26 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 406/2016 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, SOBRE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS".]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
