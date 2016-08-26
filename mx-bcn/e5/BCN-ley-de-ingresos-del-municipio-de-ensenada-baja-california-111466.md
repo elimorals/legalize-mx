@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ingresos-del-municipio-de-ensenada-baja-california-11146
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2015-12-31"
-last_updated: "2015-12-31"
+last_updated: "2016-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "BCN"
 
 LEY DE INGRESOS DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, PARA EL EJERCICIO FISCAL DEL 2016
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2016.
 
 Ley publicada en la Sección V, Número Especial al 60 del Periódico Oficial del Estado de Baja California, el jueves 31 de diciembre de 2015.
 
