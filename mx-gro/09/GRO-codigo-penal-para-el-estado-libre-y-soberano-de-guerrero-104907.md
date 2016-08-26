@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2014-08-01"
+last_updated: "2016-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "GRO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A LOS CIENTO VEINTE DÍAS SIGUIENTES DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE GUERRERO.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A LOS CIENTO VEINTE DÍAS SIGUIENTES DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE GUERRERO.]</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2016.
 
 Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -1897,13 +1897,17 @@ IV. Quien financie cualquiera de las actividades descritas en las fracciones ant
 
 Se impondrá pena de seis a diez años de prisión y de seiscientos a mil días multa, al sujeto activo de los delitos previstos en las fracciones I y II. Se impondrá pena de ocho a doce años de prisión y de ochocientos a mil doscientos mil días multa, al autor de los delitos previstos en las fracciones III y IV. En todos los casos se decomisarán los instrumentos del delito.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 174.
 
-Turismo sexual
+Comete el delito de turismo sexual de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho, quien financie, gestione, promueva, publicite, invite o facilite a cualquier persona a viajar al interior o exterior del territorio del Estado con la finalidad de que realice cualquier tipo de actos sexuales, reales o simulados, con persona menor de edad o persona que no tenga capacidad para comprender el significado del hecho, o a éstos se les haga viajar con esa finalidad. Al sujeto activo de este delito se le impondrá una pena de siete a doce años de prisión y de ochocientos a dos mil doscientos días multa.
 
-Comete el delito de turismo sexual de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho, quien financie, gestione, promueva, publicite, invite o facilite a cualquier persona a viajar al interior o exterior del territorio del Estado con la finalidad de que realice cualquier tipo de actos sexuales, reales o simulados, con persona menor de edad o persona que no tenga capacidad para comprender el significado del hecho, o a éstos se les haga viajar con esa finalidad. Al sujeto activo de este delito se le impondrá una pena de seis a doce años de prisión y de seiscientos a mil doscientos días multa.
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2016)</small>
 
-Las mismas penas se aplicarán a quien, en virtud de las conductas antes descritas, sostenga cualquier tipo de relación sexual, real o simulada, con persona menor de edad o que no tenga capacidad para comprender el significado del hecho.
+###### Artículo 174 Bis.
+
+A quien realice cualquier tipo de relación sexual, real o simulada, con una o varias personas menores de edad o que no tenga capacidad para comprender el significado del hecho o que no tengan capacidad para resistirlo en virtud del Turismo Sexual, se le impondrá una pena de doce a diecisiete años de prisión y de mil a tres mil días multa, asimismo, estará sujeto al tratamiento psiquiátrico especializado, bajo vigilancia de la Autoridad como Medida de Seguridad, al tenor del Artículo 50 Bis Párrafo segundo de este Código.
 
 ### Capítulo I. Violación
 
@@ -3001,7 +3005,7 @@ V.- Dé, a sabiendas, una aplicación pública distinta de aquella a que estuvie
 
 VI.- En el ejercicio de sus funciones o con motivo de ellas, otorgue empleo, cargo o comisión públicos o contratos de prestación de servicios profesionales, mercantiles o de cualquier otra naturaleza, que sean remunerados, a sabiendas de que no se prestará el servicio o no se cumplirá el contrato otorgado;
 
-VII.- Autorice o contrate a quien se encuentre inhabilitado por resoIución (sic) firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio público, siempre que lo haga con conocimiento de tal situación;
+VII.- Autorice o contrate a quien se encuentre inhabilitado por resoIución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio público, siempre que lo haga con conocimiento de tal situación;
 
 VIII.- Otorgue un nombramiento o de cualquier modo autorice a alguien para el desempeño de un empleo, cargo o comisión, sin que el designado satisfaga los requisitos exigidos por la ley;
 
@@ -4142,3 +4146,17 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 DR. JESÚS MARTÍNEZ GARNELO.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 233 POR EL QUE SE REFORMA EL ARTÍCULO 174 Y SE ADICIONA EL ARTÍCULO 174 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese al Titular del Poder Ejecutivo del Estado de Guerrero, para su conocimiento y efectos legales procedentes.
