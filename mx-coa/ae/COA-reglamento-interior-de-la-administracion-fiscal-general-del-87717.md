@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-administracion-fiscal-general-del-877
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-05-08"
-last_updated: "2014-04-29"
+last_updated: "2016-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN FISCAL GENERAL DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2016.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 8 de mayo de 2012.
 
 RUBÉN IGNACIO MOREIRA VALDEZ, Gobernador Constitucional del Estado de Coahuila de Zaragoza, en ejercicio de las facultades que me confieren los artículos 82, fracción XVIII y 85, párrafo tercero de la Constitución Política del Estado de Coahuila de Zaragoza, y los artículos 6 y 9 inciso A fracción XIV de la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anterior he tenido a bien emitir el siguiente:
 
@@ -163,9 +165,7 @@ II. Administración Central de Fiscalización con sede en la (sic) municipio de 
 
 2. Administración Local de Programación de la Fiscalización, con sede en el municipio de Arteaga y con competencia en todo el territorio del Estado de Coahuila de Zaragoza.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
-
-3. Administración Local de Fiscalización de Piedras Negras, con sede en el municipio de Piedras Negras y con competencia territorial en todo el territorio del Estado de Coahuila de Zaragoza.
+3. (DEROGADO, P.O. 26 DE AGOSTO DE 2016)
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -179,9 +179,13 @@ II. Administración Central de Fiscalización con sede en la (sic) municipio de 
 
 6. Administración Local de Fiscalización de Torreón, con sede en el municipio de Torreón y con competencia territorial en todo el territorio del Estado de Coahuila de Zaragoza.
 
-7. Administración Local de Análisis Estadístico y Seguimiento de Auditorías, con sede en el municipio de Saltillo y con competencia en todo el territorio del Estado de Coahuila de Zaragoza.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2016)</small>
 
-Los administradores locales de fiscalización, de programación de la fiscalización, de análisis estadístico y seguimiento de auditorías y de comercio exterior podrán ejercer en forma conjunta o separadamente con el Administrador Central de Fiscalización las facultades conferidas en este reglamento. Los administradores locales de fiscalización, de programación de la fiscalización y de comercio exterior ejercerán las facultades conferidas en este Reglamento, dentro de la circunscripción territorial que les corresponda.
+7. Administración de Planeación Estratégica, con sede en el municipio de Arteaga y con competencia en todo el territorio del Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2016)</small>
+
+Los administradores locales de fiscalización, de programación de la fiscalización, de planeación estratégica y de comercio exterior podrán ejercer, en forma conjunta o separadamente con el Administrador Central de Fiscalización, las facultades conferidas en este reglamento. Los administradores locales de fiscalización, de programación de la fiscalización y de comercio exterior ejercerán las facultades conferidas en este reglamento, dentro de la circunscripción territorial que les corresponda.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -209,9 +213,13 @@ III. La Administración Central de Ejecución Fiscal, con sede en el municipio d
 
 8. Administración Local de Ejecución Fiscal de Ramos Arizpe, con sede en el municipio de Ramos Arizpe y competencia para conocer los asuntos de contribuyentes domiciliados en el municipio de Ramos Arizpe del Estado de Coahuila de Zaragoza.
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2016)</small>
 
-9. Administración Local de Ejecución Fiscal de San Juan de Sabinas, con sede en el municipio de San Juan de Sabinas y competencia para conocer los asuntos de contribuyentes domiciliados en los municipios de San Juan de Sabinas y Múzquiz del Estado de Coahuila de Zaragoza.
+9. Administración Local de Ejecución Fiscal en San Juan de Sabinas, con sede en el municipio de San Juan de Sabinas y competencia para conocer los asuntos de contribuyentes domiciliados en el municipio de San Juan de Sabinas del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2016)</small>
+
+10. Administración Local de Ejecución Fiscal en Múzquiz, con sede en el municipio de Múzquiz y competencia para conocer los asuntos de contribuyentes domiciliados en el municipio de Múzquiz del Estado de Coahuila de Zaragoza.
 
 IV. La Administración Central de Evaluación y Seguimiento tendrá su sede en el municipio de Saltillo y competencia en todo el Territorio del Estado de Coahuila de Zaragoza.
 
@@ -715,7 +723,7 @@ XV. Resolver, conforme a las disposiciones aplicables respecto de la devolución
 
 XVI. Interponer ante los Tribunales Colegiados de Circuito que corresponda, el recurso de revisión fiscal, en contra de resoluciones emitidas por el H. Tribunal Federal de Justicia Fiscal y Administrativa o sus salas, en los términos que establezcan los convenios que se tengan celebrados con la Federación.
 
-XVII. Coordinar las labores y acciones a implementar para dar trámite y seguimiento hasta su total conclusión a las solicitudes de información presentadas ante la Administración Fiscal General; así como rendir y presentar los informes, documentos y demás información que sea requerida por el Instituto Coahuilense de Acceso a la Información, en términos de las disposiciones legales aplicables, y (sic)
+XVII. Coordinar las labores y acciones a implementar para dar trámite y seguimiento hasta su total conclusión a las solicitudes de información presentadas ante la Administración Fiscal General; así como rendir y presentar los informes, documentos y demás información que sea requerida por el Instituto Coahuilense de Acceso a la Información, en términos de las disposiciones legales aplicables, y
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -1227,9 +1235,29 @@ LXXXIX. Certificar hechos, documentos y expedir las constancias correspondientes
 
 XC. Notificar a través del buzón tributario asignado por el Servicio de Administración Tributaria o por el Estado a los contribuyentes, las resoluciones emitidas por la Administración Central de Recaudación y las oficinas adscritas a la misma, conforme a las disposiciones legales estatales o federales por ingresos coordinados.
 
-> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2016)</small>
 
-XCI. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como aquellas que le confiera su superior jerárquico inmediato.
+XCI. Llevar a cabo la inspección y vigilancia de los establecimientos que expendan bebidas alcohólicas, para verificar periódicamente que éstos reúnan las condiciones de salubridad e higiene que establecen las leyes, cumplan con la ubicación y con los horarios autorizados para la enajenación y expendio de bebidas alcohólicas, contenidos en las disposiciones legales aplicables y que su funcionamiento no ofenda la moral y las buenas costumbres.
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2016)</small>
+
+XCII. Dar a conocer mediante resolución, la cancelación de las licencias de los establecimientos que expendan bebidas alcohólicas.
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2016)</small>
+
+XCIII. Autorizar o negar el funcionamiento de establecimientos para enajenar bebidas alcohólicas tomando en cuenta su ubicación, el número de establecimientos existentes en cada municipio, la conveniencia de combatir el alcoholismo y las disposiciones de salubridad aplicables.
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2016)</small>
+
+XCIV. Clausurar los establecimientos que expendan bebidas alcohólicas cuando no cuenten con licencia de funcionamiento y el refrendo anual, así como aquellos que no suspendan la enajenación o expendio de bebidas alcohólicas dentro del plazo establecido en la Ley de Hacienda para el Estado de Coahuila de Zaragoza, cuando sea cancelada la licencia de funcionamiento con que operaba.
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2016)</small>
+
+XCV. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como aquellas que le confiera su superior jerárquico inmediato.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2016)</small>
+
+La Administración Central de Recaudación, estará a cargo de un Administrador Central, quien será auxiliado en el ejercicio de las facultades conferidas en este artículo por los Administradores, Administradores Locales, Subadministradores, Jefes de Departamento y Notificadores, así como el personal que se requiera para satisfacer las necesidades del servicio, adscritos a la Administración Central de Recaudación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -1911,9 +1939,21 @@ XXXI. Coordinar los registros de información de pagos en las diferentes institu
 
 XXXII. Notificar a través del buzón tributario asignado por el Servicio de Administración Tributaria o por el Estado a los contribuyentes, las resoluciones emitidas por las Administraciones Locales de Recaudación y las oficinas adscritas a la misma, conforme a las disposiciones legales estatales o federales por ingresos coordinados, y.
 
-> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2016)</small>
 
-XXXIII. Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera su superior jerárquico inmediato.
+XXXIII. Llevar a cabo la inspección y vigilancia de los establecimientos que expendan bebidas alcohólicas, para verificar periódicamente que éstos reúnan las condiciones de salubridad e higiene que establecen las leyes, cumplan con la ubicación y con los horarios autorizados para la enajenación y expendio de bebidas alcohólicas, contenidos en las disposiciones legales aplicables y que su funcionamiento no ofenda la moral y las buenas costumbres.
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2016)</small>
+
+XXXIV. Clausurar los establecimientos que expendan bebidas alcohólicas cuando no cuenten con licencia de funcionamiento y el refrendo anual, así como aquellos que no suspendan la enajenación o expendio de bebidas alcohólicas dentro del plazo establecido en la Ley de Hacienda para el Estado de Coahuila de Zaragoza, cuando sea cancelada la licencia de funcionamiento con que operaba.
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2016)</small>
+
+XXXV. Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera su superior jerárquico inmediato.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2016)</small>
+
+A fin de cumplir con las facultades señaladas anteriormente, las Administraciones Locales de Recaudación de Acuña, Allende, Cuatrociénegas, Francisco I. Madero, Matamoros, Monclova, Múzquiz, Nava, Parras, Piedras Negras, Ramos Arizpe, Sabinas, San Buenaventura, San Juan de Sabinas, Saltillo, San Pedro, Torreón, Viesca y Zaragoza, estarán a cargo de un Administrador Local y podrán ser auxiliados por el personal adscrito a la Administración Central de Recaudación, cuando así se requiera o lo determine dicha oficina.
 
 ###### ARTÍCULO 25.
 
@@ -2027,17 +2067,45 @@ XLVII. Solicitar a la Secretaría de Hacienda y Crédito Público el reintegro d
 
 XLVIII. Continuar con la práctica de los actos de fiscalización que hayan iniciado otras autoridades fiscales de otras entidades federativas, cuando los contribuyentes pasen a ser competencia de esta autoridad por haber cambiado su domicilio fiscal al territorio del Estado de Coahuila de Zaragoza.
 
-XLIX. Determinar el perjuicio económico que sufrió o pudo haber sufrido el fisco para efectos del artículo 81 del Código Fiscal para el Estado de Coahuila de Zaragoza, y (sic)
+XLIX. Determinar el perjuicio económico que sufrió o pudo haber sufrido el fisco para efectos del artículo 81 del Código Fiscal para el Estado de Coahuila de Zaragoza, y
 
 > <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XLIX-A. Notificar a través del buzón tributario asignado por el Servicio de Administración Tributaria o por el Estado a los contribuyentes, las resoluciones emitidas por la Administración Central de Fiscalización y las oficinas adscritas a la misma, conforme a las disposiciones legales estatales o federales por ingresos coordinados.
 
-L. Las demás que las disposiciones legales le atribuyan, incluido este reglamento; así como aquéllas que le confiera el titular del Administrador Fiscal del Estado.
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2016)</small>
+
+L. Ejercer las facultades y ejecutar las acciones derivadas de los convenios de coordinación fiscal, celebrados por el Estado con la Federación o los municipios que en el ámbito de su competencia le corresponda en los términos de este artículo.
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2016)</small>
+
+LI. Cancelar, revocar o dejar sin efectos los certificados de sello digital en los términos de las leyes estatales, federales y del Convenio de Colaboración Administrativa en Materia Fiscal Federal que el Estado de Coahuila tenga suscrito con la Federación, así como restringir el uso del certificado de la firma electrónica avanzada o cualquier otro mecanismo permitido en las disposiciones jurídicas aplicables, y resolver las aclaraciones o solicitudes que presenten los contribuyentes para subsanar o desvirtuar las irregularidades detectadas en el ejercicio de las atribuciones a que se refiere este artículo.
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2016)</small>
+
+LII. Llevar a cabo el procedimiento establecido en las leyes estatales, federales y en el Convenio de Colaboración Administrativa en Materia Fiscal Federal que el Estado de Coahuila tenga suscrito con la Federación, en aquellos casos en que se detecte que un contribuyente ha emitido comprobantes sin contar con los activos, personal, infraestructura o capacidad material, directa o indirectamente, para prestar los servicios o producir, comercializar o entregar bienes que amparen tales comprobantes, o bien, que dichos contribuyentes se encuentren no localizados y se presuma la inexistencia de las operaciones amparadas en tales comprobantes.
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2016)</small>
+
+LIII. Suscribir los acuerdos conclusivos a que se refieren las leyes estatales, federales y el Convenio de Colaboración Administrativa en Materia Fiscal Federal que el Estado de Coahuila tenga suscrito con la Federación.
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2016)</small>
+
+LIV. Llevar a cabo revisiones electrónicas a los contribuyentes, responsables solidarios o terceros con ellos relacionados, en los términos establecidos en las disposiciones legales estatales, federales y en el Convenio de Colaboración Administrativa en Materia Fiscal Federal que el Estado de Coahuila tenga suscrito con la Federación.
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2016)</small>
+
+LV. Las demás que las disposiciones legales le atribuyan, incluido este reglamento; así como aquéllas que le confiera el titular del Administrador Fiscal del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2016)</small>
+
+La Administración Central de Fiscalización, estará a cargo de un Administrador Central, quien será auxiliado en el ejercicio de las facultades conferidas en este artículo por los Administradores Locales, Subadministradores, Jefes de Departamento, Coordinadores, Enlaces, Auditores, Visitadores, Inspectores, Verificadores, Ayudantes de Auditor y Notificadores, así como el personal que se requiera para satisfacer las necesidades del servicio, adscritos a la Administración Central de Fiscalización.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 26.
 
-Compete a las Administraciones Locales de Fiscalización de Saltillo, Monclova, Torreón y Piedras Negras de la Administración Central de Fiscalización, dentro de la circunscripción territorial que a cada una corresponde, ejercer las facultades siguientes:
+Compete a las Administraciones Locales de Fiscalización de Saltillo, Monclova y Torreón de la Administración Central de Fiscalización, dentro de la circunscripción territorial que a cada una corresponde, ejercer las facultades siguientes:
 
 I. Efectuar el seguimiento y control de las actividades y resultados de la comprobación del cumplimiento de las obligaciones fiscales, incluyendo el de órdenes correspondientes.
 
@@ -2173,13 +2241,35 @@ XXXII. Certificar las copias de documentos y constancias cuyos originales obren 
 
 XXXIII. Notificar a través del buzón tributario asignado por el Servicio de Administración Tributaria o por el Estado a los contribuyentes, las resoluciones emitidas por las Administraciones Locales de Fiscalización de Saltillo, Monclova, Torreón y Piedras Negras de la Administración Central de Fiscalización, conforme a las disposiciones legales estatales o federales por ingresos coordinados.
 
-> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2016)</small>
 
-XXXIV. Las demás que las disposiciones legales le atribuyan, así como aquéllas que le confiera el Administrador Fiscal del Estado y su superior jerárquico inmediato.
+XXXIV. Cancelar, revocar o dejar sin efectos los certificados de sello digital en los términos de las leyes estatales, federales y del Convenio de Colaboración Administrativa en Materia Fiscal Federal que el Estado de Coahuila tenga suscrito con la Federación, así como restringir el uso del certificado de la firma electrónica avanzada o cualquier otro mecanismo permitido en las disposiciones jurídicas aplicables, y resolver las aclaraciones o solicitudes que presenten los contribuyentes para subsanar o desvirtuar las irregularidades detectadas en el ejercicio de las atribuciones a que se refiere este artículo.
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2016)</small>
+
+XXXV. Llevar a cabo el procedimiento establecido en las leyes estatales, federales y en el Convenio de Colaboración Administrativa en Materia Fiscal Federal que el Estado de Coahuila tenga suscrito con la Federación, en aquellos casos en que se detecte que un contribuyente ha emitido comprobantes sin contar con los activos, personal, infraestructura o capacidad material, directa o indirectamente, para prestar los servicios o producir, comercializar o entregar bienes que amparen tales comprobantes, o bien, que dichos contribuyentes se encuentren no localizados y se presuma la inexistencia de las operaciones amparadas en tales comprobantes.
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2016)</small>
+
+XXXVI. Suscribir los acuerdos conclusivos a que se refieren las leyes estatales, federales y el Convenio de Colaboración Administrativa en Materia Fiscal Federal que el Estado de Coahuila tenga suscrito con la Federación.
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2016)</small>
+
+XXXVII. Llevar a cabo revisiones electrónicas a los contribuyentes, responsables solidarios o terceros con ellos relacionados, en los términos establecidos en las disposiciones legales estatales, federales y en el Convenio de Colaboración Administrativa en Materia Fiscal Federal que el Estado de Coahuila tenga suscrito con la Federación.
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2016)</small>
+
+XXXVIII. Las demás que las disposiciones legales le atribuyan, así como aquéllas que le confiera el Administrador Fiscal del Estado y su superior jerárquico inmediato.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2016)</small>
 
 A fin de cumplir con las facultades señaladas anteriormente, los Administradores Locales serán auxiliados del personal adscrito a la Administración Central de Fiscalización, así como por el personal que se requiera para satisfacer las necesidades del servicio.
 
-Las Administraciones Locales de Fiscalización de Saltillo, Monclova, Torreón y Piedras Negras, estarán a cargo de un Administrador y serán auxiliados en el ejercicio de sus facultades conferidas en este articulo por los Subadministradores, Jefes de Departamento, Coordinador Central de Normatividad y Validación de Incentivos, Coordinador Central de Procedimientos Legales de Fiscalización, Enlaces, Auditores, Visitadores, Inspectores, Verificadores, Ayudantes de Auditor y Notificadores, así como el personal que se requiera para satisfacer las necesidades del servicio, adscritos a la Administración Central de Fiscalización.
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2016)</small>
+
+Las Administraciones Locales de Fiscalización, estarán a cargo de un Administrador Local, quien será auxiliado en el ejercicio de las facultades conferidas en este artículo por los Subadministradores, Jefes de Departamento, Coordinadores, Enlaces, Auditores, Visitadores, Inspectores, Verificadores, Ayudantes de Auditor y Notificadores, así como el personal que se requiera para satisfacer las necesidades del servicio, adscritos a cada Administración Local.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2016)</small>
 
 Las Administraciones Locales de Fiscalización deberán informar a la Administración Central de Fiscalización mensualmente o cuando este último se los requiera sobre el ejercicio de las facultades aquí concedidas.
 
@@ -2261,7 +2351,7 @@ XIII. Tramitar y resolver los procedimientos aduaneros que se deriven del ejerci
 
 XIV. Verificar y, en su caso, determinar conforme a la Ley Aduanera la clasificación arancelaria, así como el valor en aduana o el valor comercial de las mercancías de comercio exterior.
 
-XV. Determinar los impuestos de carácter federal y sus accesorios, aplicar las cuotas compensatorias y determinar en cantidad Iiquida el monto correspondiente que resulte a cargo de los contribuyentes, responsables solidarios y demás obligados.
+XV. Determinar los impuestos de carácter federal y sus accesorios, aplicar las cuotas compensatorias y determinar en cantidad liquida el monto correspondiente que resulte a cargo de los contribuyentes, responsables solidarios y demás obligados.
 
 XVI. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados los hechos u omisiones imputables a éstos, conocidos con motivo del ejercicio de sus facultades de comprobación y de las verificaciones de origen practicadas y hacer constar dichos hechos y omisiones en el oficio de observaciones o en la última acta parcial que se levante.
 
@@ -2319,31 +2409,49 @@ XXXII. Las demás que las disposiciones legales le atribuyan, así como aquélla
 
 La Administración Local de Comercio Exterior estará a cargo de un Administrador, auxiliado en el ejercicio de sus facultades por los Jefes de Departamento, Coordinadores de Comercio Exterior, Enlaces, Auditores, Visitadores, Inspectores, Verificadores, Ayudantes de Auditor y Notificadores, así como con el personal que se requiera para satisfacer las necesidades del servicio.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 29.
 
-Compete a la Administración Local de Análisis Estadístico y Seguimiento de Auditorías coadyuvar con la Administración Central de Fiscalización en el ejercicio de las siguientes atribuciones:
+Compete a la Administración de Planeación Estratégica coadyuvar con la Administración Central de Fiscalización en el ejercicio de las siguientes atribuciones:
 
-I. Proponer para autorización del Administrador Central de Fiscalización, el desarrollo de nuevos proyectos y la modificación de procesos sustantivos, relacionados con la fiscalización; así como proponer y participar en la emisión de manuales y procedimientos, e instructivos de operación.
+I. Apoyar a las Administraciones Locales de la Administración Central de Fiscalización para la implementación de las acciones relacionadas con la planeación estratégica y el Programa Operativo Anual, en el ámbito de su competencia.
 
-II. Atender y canalizar al Administrador Central de Fiscalización las quejas y denuncias de hechos sobre inobservancia a la normatividad, sistemas y procesos aplicables en el ámbito de su competencia.
+II. Promover la aplicación de acuerdos y convenios de coordinación fiscal celebrados con las autoridades federales, así como evaluar sus resultados y en su caso ejecutar las acciones derivadas de los mismos en el ámbito de su competencia.
 
-III. Informar al Administrador Central de Fiscalización, de los hechos que tenga conocimiento en el ejercicio de sus facultades, que puedan constituir delitos de los servidores públicos de la Administración Central de Fiscalización en el desempeño de sus funciones.
+III. Solicitar y recabar los datos estadísticos necesarios para analizar el impacto que representan en los ingresos federales las actividades desarrolladas por las Administraciones Locales de Fiscalización.
 
-IV. Practicar revisiones administrativas a las actuaciones de los servidores públicos Adscritos a la Administración Central de Fiscalización, con motivo de denuncias por presuntos actos de corrupción y quejas relacionadas con aspectos laborales o administrativos, a fin de constatar su probidad en el cumplimiento de las disposiciones aplicables y que sus actividades se realizan conforme al marco normativo que regula la operación de su cargo o comisión; así como formular o en su caso, ordenar la elaboración de las actas de constancias de hechos correspondientes.
+IV. Integrar los indicadores de desempeño y metas que se aprueben anualmente para elaborar los reportes mensuales de la Administración Central de Fiscalización.
 
-V. Informar al Administrador Central de Fiscalización, de los hechos que tenga conocimiento con motivo de sus actuaciones, que puedan constituir delitos fiscales o delitos de los servidores públicos de la Administración Central de Fiscalización en el desempeño de sus funciones.
+V. Analizar, formular y distribuir la información estadística acerca de las actividades desempeñadas por las Administraciones Locales.
 
-VI. Delegar en el personal adscrito a la Administración local de análisis estadístico, para la mejor organización del trabajo, cualquiera de sus facultades, excepto aquéllas que según el Administrador Central de Fiscalización deban ser ejercidas por él mismo.
+VI. Promover las reuniones de evaluación a nivel regional para integrar y dar seguimiento a los programas operativos anuales de las Administraciones Locales de Fiscalización.
 
-VII. Integrar los indicadores de desempeño y metas que se aprueben anualmente para elaborar los reportes mensuales de la Administración Central de Fiscalización.
+VII. Desarrollar las metodologías y herramientas necesarias para el análisis, evaluación y seguimiento del Programa Operativo Anual de la Administración Central de Fiscalización, en el ámbito de su competencia.
 
-VIII. Promover y establecer comités de planeación y evaluación a nivel regional para integrar y dar seguimiento a los programas operativos anuales de las Administraciones Locales de Fiscalización
+VIII. Proporcionar los elementos para el seguimiento de las actividades y resultados de las unidades administrativas dependientes de la Administración Central de Fiscalización.
 
-IX. Solicitar y recabar los datos estadísticos necesarios para analizar el impacto que representan en los ingresos federales las actividades desarrolladas por las Administraciones Locales de Fiscalización.
+IX. Proponer para autorización del Administrador Central de Fiscalización, el desarrollo de nuevos proyectos y la modificación de procesos sustantivos, relacionados con la fiscalización; así como proponer y participar en la emisión de manuales y procedimientos, e instructivos de operación.
 
-X. Analizar, formular y distribuir, de conformidad con las disposiciones aplicables, la información estadística acerca de las actividades desempeñadas por la Administración Fiscal General, con base en la información proporcionada por las Administraciones Locales de dicho órgano.
+X. Proponer para difusión la normatividad aplicable a las funciones de las unidades administrativas dependientes de la Administración Central de Fiscalización, así como elaborar la propuesta de resolución de consultas sobre interpretación a las disposiciones fiscales.
 
-La Administración Local de Análisis Estadístico y Seguimiento de Auditorías estará a cargo de un Administrador, que será auxiliado por el personal adscrito a la Administración Central de Fiscalización, así como por el personal que se requiera para satisfacer las necesidades del servicio.
+XI. Revisar y mantener actualizados los formatos y resoluciones que sean susceptibles de notificación a los contribuyentes fiscalizados conforme a la legislación y normatividad vigente.
+
+XII. Vigilar la aplicación y seguimiento de las cumplimentaciones de sentencias y fallos, emitidos por las autoridades administrativas y fiscales competentes.
+
+XIII. Recepción, control y envío de los acuerdos de los juicios de amparo y de nulidad emitidos por las autoridades administrativas y fiscales competentes, a la Administración General Jurídica.
+
+XIV. Recibir las solicitudes de condonaciones de los contribuyentes fiscalizados, e integrar los antecedentes que correspondan y turnar la propuesta de resolución al área competente.
+
+XV. Identificar y atender las necesidades de capacitación y gestionar la impartición de cursos, seminarios y conferencias así como promover la autocapacitación del personal, en su caso gestionar los recursos necesarios para llevarlo a cabo.
+
+XVI. Integrar para el trámite correspondiente ante la Federación, los incentivos que correspondan derivados de los Convenios de Colaboración Administrativa celebrados.
+
+XVII. Informar al Administrador Central de Fiscalización, de los hechos que tenga conocimiento con motivo de sus actuaciones que puedan constituir inobservancia a la normatividad, delitos fiscales o delitos de los servidores públicos adscritos al área, en el desempeño de sus funciones.
+
+XVIII. Delegar en el personal adscrito a la Administración de Planeación Estratégica, para la mejor organización del trabajo, cualquiera de sus facultades, excepto aquéllas que según el Administrador Central de Fiscalización deban ser ejercidas por él mismo.
+
+La Administración de Planeación Estratégica estará a cargo de un Administrador, que será auxiliado por el personal adscrito a la Administración Central de Fiscalización, así como por el personal que se requiera para satisfacer las necesidades del servicio.
 
 ###### ARTÍCULO 30.
 
@@ -2437,9 +2545,9 @@ XXII. Depurar y proponer para su cancelación al Administrador Fiscal del Estado
 
 XXIII. Expedir las credenciales o constancias de identificación del personal a su cargo, así como habilitarlos para la práctica de actos relacionados con el ejercicio de sus facultades.
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2016)</small>
 
-XXIV. Notificar a través del buzón tributario asignado por el Servicio de Administración Tributaria o por el Estado a los contribuyentes, las resoluciones emitidas por la Administraciones (sic) Central de Ejecución Fiscal, conforme a las disposiciones legales estatales o federales por ingresos coordinados.
+XXIV. Notificar a través del buzón tributario asignado por el Servicio de Administración Tributaria o por el Estado a los contribuyentes, las resoluciones emitidas por las Unidades Administrativas adscritas a la Administración General Tributaria, conforme a las disposiciones legales estatales o federales por ingresos coordinados.
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -2513,9 +2621,17 @@ XLI. Certificar hechos, documentos y expedir las constancias correspondientes, a
 
 XLII. Participar en el diseño y elaboración de un marco geográfico fiscal que permita georeferenciar cualquier tipo de información, y,
 
-> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2016)</small>
 
-XLIII. Las demás que las disposiciones legales como autoridad fiscal le atribuyan, así como aquellas que le confiera el Administrador Fiscal del Estado o su superior jerárquico.
+XLIII. Solicitar (sic) el Servicio de Administración Tributaria, cancele, revoque o deje sin efectos los certificados de sello digital en los términos de las leyes estatales, federales y del Convenio de Colaboración Administrativa en Materia Fiscal Federal que el Estado de Coahuila de Zaragoza tenga suscrito con la Federación, así como restringir el uso del certificado de firma electrónica o cualquier otro mecanismo permitido en las disposiciones jurídicas aplicables, y resolver aclaraciones o solicitudes que presenten los contribuyentes para subsanar o desvirtuar las irregularidades detectadas en el ejercicio de las atribuciones a que se refiere este artículo.
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2016)</small>
+
+XLIV. Las demás que las disposiciones legales como autoridad fiscal le atribuyan, así como aquellas que le confiera el Administrador Fiscal del Estado o su superior jerárquico.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2016)</small>
+
+La Administración Central de Ejecución Fiscal, estará a cargo de un Administrador Central, quien será auxiliado en el ejercicio de las facultades conferidas en este artículo por los Administradores Locales, Subadministradores, Jefes de Departamento y Notificadores, así como el personal que se requiera para satisfacer las necesidades del servicio, adscritos a la Administración Central de Ejecución Fiscal.
 
 ###### ARTÍCULO 31.
 
@@ -2583,9 +2699,9 @@ XXI. Colaborar con las autoridades competentes en la investigación de hechos qu
 
 XXII. Emitir requerimientos de contribuciones estatales, así como los que deriven de los programas de trabajo que se suscriban con el Servicio de Administración Tributaria, e imponer las sanciones y multas que se deriven de su incumplimiento.
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2016)</small>
 
-XXIII. Notificar a través del buzón tributario asignado por el Servicio de Administración Tributaria o por el Estado a los contribuyentes, las resoluciones emitidas por las Administraciones Locales de Ejecución Fiscal, conforme a las disposiciones legales estatales o federales por ingresos coordinados.
+XXIII. Notificar a través del buzón tributario asignado por el Servicio de Administración Tributaria o por el Estado a los contribuyentes, las resoluciones emitidas por las Unidades Administrativas adscritas a la Administración General Tributaria, conforme a las disposiciones legales estatales o federales por ingresos coordinados.
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -2623,7 +2739,9 @@ XXXI. Solicitar el auxilio de la Administración Central de Ejecución Fiscal cu
 
 XXXII. Las demás que las disposiciones legales como autoridad fiscal le atribuyan, así como aquellas que le confiera el Administrador Fiscal del Estado o sus superiores jerárquicos.
 
-A fin de cumplir con las facultades señaladas anteriormente, las Administraciones Locales de Ejecución Fiscal de Acuña, Monclova, Sabinas, Saltillo, San Pedro, Piedras Negras y Torreón, estarán a cargo de un Administrador y podrán ser auxiliados por el personal adscrito a la Administración Central de Ejecución Fiscal, cuando así se requiera o lo determine dicha oficina.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE AGOSTO DE 2016)</small>
+
+A fin de cumplir con las facultades señaladas anteriormente, las Administraciones Locales de Ejecución Fiscal de Acuña, Monclova, Múzquiz, Piedras Negras, Ramos Arizpe, Sabinas, Saltillo, San Juan de Sabinas, San Pedro y Torreón, estarán a cargo de un Administrador Local y podrán ser auxiliados por el personal adscrito a la Administración Central de Ejecución Fiscal, cuando así se requiera o lo determine dicha oficina.
 
 Las Administraciones Locales de Ejecución Fiscal deberán informar a la Administración Central de Ejecución Fiscal mensualmente o cuando este último se los requiera sobre el ejercicio de las facultades aquí concedidas, y de manera inmediata, aquéllos asuntos que por su importancia así lo requieran.
 
@@ -2879,7 +2997,7 @@ XII. Vigilar el cumplimiento de los contratos que celebre la Administración Fis
 
 XIII. Someter a la aprobación del superior jerárquico los lineamientos que deban observarse para la contratación de servicios de la Administración Fiscal General.
 
-XIV. Establecer en el ámbito de su competencia, de conformidad con las disposiciones jurídicas que a cada caso correspondan, las políticas y procedimientos para la celebración de contratos de bienes y servicios, y (sic)
+XIV. Establecer en el ámbito de su competencia, de conformidad con las disposiciones jurídicas que a cada caso correspondan, las políticas y procedimientos para la celebración de contratos de bienes y servicios, y
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -2911,7 +3029,7 @@ II. Supervisar la correcta aplicación contable de todas las operaciones que se 
 
 III. Elaborar mensualmente los estados financieros que correspondan a las actividades contables de la Administración Fiscal General;
 
-IV. Registrar, conservar y resguardar en el archivo a su cargo la documentación soporte de la operaciones (sic) contables;
+IV. Registrar, conservar y resguardar en el archivo a su cargo la documentación soporte de la (sic) operaciones contables;
 
 V. Recibir, verificar y registrar oportunamente la documentación que amparan las operaciones contables efectuadas;
 
@@ -2978,6 +3096,12 @@ Los Administradores Generales serán suplidos en sus ausencias por los Administr
 ###### ARTÍCULO 42.
 
 Los Administradores Centrales serán suplidos durante sus ausencias por el Administrador Local que corresponda en razón de su competencia territorial.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2016)</small>
+
+###### ARTÍCULO 42-A.
+
+Los Administradores Locales serán suplidos durante sus ausencias por los Subadministradores o Jefes de Departamento que de ellos dependan.
 
 ### CAPÍTULO VI. DE LAS AUTORIDADES FISCALES
 
@@ -3068,3 +3192,19 @@ El presente decreto entrará en vigor al día siguiente de su publicación.
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN FISCAL GENERAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Coahuila de Zaragoza.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos que se encuentren en trámite ante la Administración Local de Fiscalización de Piedras Negras, misma que se suprime a la entrada en vigor del presente decreto, serán concluidos por la Administración Local de Fiscalización de Monclova, previa notificación del oficio mediante el cual se comunique al contribuyente el cambio de autoridad.
