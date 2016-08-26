@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-tribunal-electoral-del-estado-de-94217"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-05-15"
-last_updated: "2013-05-15"
+last_updated: "2016-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,21 +23,29 @@ state: "MEX"
 
 REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE AGOSTO DE 2016.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 15 de mayo de 2013.
 
 Reglamento Interno del Tribunal Electoral del Estado de México
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 1.
 
 Las disposiciones de este Reglamento son de observancia general en el Tribunal Electoral del Estado de México, y son reglamentarias del Código Electoral del Estado de México.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 2.
 
-El presente reglamento tiene por objeto cumplimentar las disposiciones de la Constitución Política del Estado libre y Soberano de México, y EL Código Electoral del Estado de México, y regular la organización, el funcionamiento y la competencia del Tribunal Electoral del Estado de México.
+El presente reglamento tiene por objeto cumplimentar las disposiciones de la Constitución Política del Estado Libre y Soberano de México, y el Código Electoral del Estado de México, y regular la organización, el funcionamiento y la competencia del Tribunal Electoral del Estado de México.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 3.
 
@@ -65,9 +73,11 @@ j) Comisión Sustanciadora: La Comisión Sustanciadora de Controversias Laborale
 
 k) Secretaría General: La Secretaría General de Acuerdos del Tribunal Electoral del Estado de México.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 4.
 
-Para el ejercicio de sus atribuciones, el Tribunal contará con los titulares de la Secretaría General, la Contraloría General, la Dirección de Administración, la Secretaría de la Presidencia, y Secretaría Particular, la Secretaría Técnica de la Secretaría General, las Coordinaciones de Jurisprudencia, de Normatividad y Documentación, Difusión y Comunicación Social, de Capacitación y de Informática; con Coordinadores Operativos, con secretarios de Estudio y Cuenta, Proyectistas y Auxiliares Jurídicos; con Sustanciadores, Notificadores, Oficiales de Partes, y encargados del Archivo Jurisdiccional y del Centro de Documentación, así como el demás personal técnico y administrativo necesario para su debido funcionamiento.
+Para el ejercicio de sus atribuciones, el Tribunal contará con los titulares de la Secretaría General, la Contraloría General, la Dirección de Administración, la Secretaría de la Presidencia, y Secretaría Particular, la Secretaría Técnica de la Secretaría General, las Coordinaciones de Jurisprudencia, de Normatividad y Documentación, Difusión y Comunicación Social, de Capacitación y de Informática; con Coordinadores Operativos, con Secretarios de Estudio y Cuenta, Proyectistas y Auxiliares Jurídicos; con Notificadores, Oficiales de Partes, y encargados del Archivo Jurisdiccional y del Centro de Documentación, así como el demás personal técnico y administrativo necesario para su debido funcionamiento.
 
 La estructura orgánica podrá ser modificada en función del Presupuesto de Egresos asignado al Tribunal, y será aprobada por el Pleno al inicio de cada año.
 
@@ -75,15 +85,21 @@ En los procesos electorales y de acuerdo con la disponibilidad presupuestal, el 
 
 El Pleno podrá crear las coordinaciones jurisdiccionales o administrativas que se requieran para el adecuado desempeño de las funciones del Tribunal.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 5.
 
 El Tribunal funcionará en Pleno, y sus resoluciones se tomarán por unanimidad o por mayoría de votos.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 6.
 
 Se considerarán servidores de confianza a todo el personal que labora en el Tribunal.
 
-El Pleno establecerá las condiciones generales en que los servidores deberán prestar sus servicios, en términos de la Normatividad y Procedimientos para la Administración, Uso, Control y Registro de los Recursos Financieros, Materiales y Servicios Generales del Tribunal Electoral del Estado de México y de las Licencias de Maternidad y Paternidad al Personal Permanente de Este Órgano Jurisdiccional, y tomando en consideración la naturaleza y especificidad de la materia electoral, así como las características y requerimientos legales de los procesos electorales de la entidad.
+El Pleno establecerá las condiciones generales en que los servidores públicos deberán prestar sus servicios, en términos de la Normatividad y Procedimientos para la Administración, Uso, Control y Registro de los Recursos Financieros, Materiales y Servicios Generales del Tribunal Electoral del Estado de México y de las Licencias de Maternidad y Paternidad al Personal Permanente de este Órgano Jurisdiccional, y tomando en consideración la naturaleza y especificidad de la materia electoral, así como las características y requerimientos legales de los procesos electorales de la entidad.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 7.
 
@@ -91,9 +107,13 @@ Durante el tiempo que ejerzan sus funciones, los servidores de confianza del Tri
 
 Quedan exceptuadas de esta disposición, las actividades de carácter docente, siempre y cuando sean compatibles con el desempeño de su función en el Tribunal.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 8.
 
 Para cubrir las faltas temporales del personal jurídico, éstas se cubrirán de conformidad con la propuesta del titular del área o ponencia.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 9.
 
@@ -101,71 +121,93 @@ Durante los procesos electorales, todos los días y horas serán hábiles.
 
 Para el caso de la interposición y sustanciación de las Controversias Laborales previstas en el Código Electoral del Estado de México, serán hábiles los días de lunes a viernes de cada semana, con excepción de aquellos que sean de descanso obligatorio.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 10.
 
-El Calendario Oficial y el horario de labores del Tribunal, serán determinados por el Pleno y publicados en la Gaceta del Gobierno. El horario podrá modificarse por el propio Pleno, según las necesidades del servicio, particularmente en las épocas de actividad electoral.
+El Calendario Oficial y el horario de labores del Tribunal, serán determinados por el Pleno y publicados en la Gaceta del Gobierno. El horario podrá modificarse por el propio Pleno, según las necesidades del servicio, particularmente durante el proceso electoral.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 11.
 
-Los Magistrados y el personal del Tribunal, ajustarán su actividad profesional y administrativa con apego al Código, a este Reglamento, de (sic) a la Normatividad y Procedimientos para la Administración, Uso, Control y Registro de los Recursos Financieros, Materiales y Servicios Generales del Tribunal Electoral del Estado de México, así como en los lineamientos, circulares y demás disposiciones que emanen del Pleno.
+Los Magistrados y el personal del Tribunal, ajustarán su actividad profesional y administrativa con apego al Código, a este Reglamento, a la Normatividad y Procedimientos para la Administración, Uso, Control y Registro de los Recursos Financieros, Materiales y Servicios Generales del Tribunal Electoral del Estado de México, así como en los lineamientos, circulares y demás disposiciones que determine el Pleno.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 12.
 
 Por ningún motivo, el personal jurídico o administrativo podrá sustraer de las instalaciones del Tribunal, los expedientes de los medios de impugnación. Tampoco podrá hacer del conocimiento público o de las partes, el sentido de los proyectos de sentencias que se emitan en los asuntos jurisdiccionales, ni divulgar la información a que con motivo de sus funciones tenga acceso. La contravención a esta disposición será causa de responsabilidad.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 13.
 
 El personal recibirá la remuneración que le corresponda, conforme lo establecido en la Normatividad y Procedimientos para la Administración, Uso, Control y Registro de los Recursos Financieros, Materiales y Servicios Generales del Tribunal Electoral del Estado de México, con cargo al presupuesto de egresos del Tribunal. Asimismo, tendrá derecho a los estímulos y recompensas que determine el Pleno, de acuerdo con el desempeño eficiente en sus funciones, la buena conducta observada y la antigüedad en el Tribunal.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ### CAPÍTULO SEGUNDO. DEL PLENO
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 14.
 
 El Pleno se integra con cinco Magistrados. Para que éste sesione válidamente se requerirá la presencia de por lo menos tres de ellos, entre los cuales deberá encontrarse siempre el Presidente.
 
-Sus resoluciones se tomarán por unanimidad o mayoría de votos. En caso de empate, el presidente tendrá voto de calidad.
+Sus resoluciones se tomarán por unanimidad o mayoría de votos. En caso de empate, el Presidente tendrá voto de calidad.
 
 El Presidente, podrá convocar a sesión privada de Pleno para tratar asuntos de carácter administrativo.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 15.
 
 El Pleno celebrará las sesiones que sean necesarias para conocer y resolver los medios de impugnación de su competencia; así como para la organización, funcionamiento y desarrollo del Tribunal.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 16.
 
 El Pleno atenderá y resolverá los asuntos de su competencia, en sesiones que serán:
 
-I. Públicas: para desahogar los medios de impugnación de naturaleza electoral.
+I. Públicas: para desahogar los medios de impugnación de naturaleza electoral y deberán ser transmitidas en tiempo real a través de medios electrónicos.
 
 II. Publicas Solemnes: cuando así lo determine el propio Pleno o por la naturaleza y características de los asuntos a tratar, y
 
 III. Privadas: cuando a juicio del Pleno, las circunstancias imposibiliten la realización de la sesión en forma pública; para desahogar las controversias laborales, asuntos especiales, así como los asuntos relativos a la organización, funcionamiento y administración interna del Tribunal, o cuando la naturaleza de los expedientes así lo requiera.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 17.
 
 Las sesiones públicas del Pleno se desarrollarán conforme a las siguientes reglas y procedimientos:
 
-I. Deberá publicarse en los estrados del Tribunal, por lo menos con veinticuatro horas de antelación, la lista de los asuntos que serán ventilados en cada sesión. En casos excepcionales, que por su urgencia así lo ameriten, el Pleno podrá ordenar la publicación de la convocatoria en un plazo más breve.
+I. Deberá publicarse en los estrados y en el sitio oficial del Tribunal de internet, por lo menos con veinticuatro horas de antelación, la lista de los asuntos que serán analizados en cada sesión. En casos excepcionales, que por su urgencia así lo ameriten, el Pleno podrá ordenar la publicación de la convocatoria en un plazo más breve.
 
 II. Abierta la sesión por el Presidente, el titular de la Secretaría General hará constar la asistencia de los Magistrados y la existencia de quórum legal.
 
 III. Los Magistrados integrantes del Pleno, aprobarán en su caso, el Orden del Día.
 
-IV. El Presidente del Tribunal dirigirá y moderará la discusión de los asuntos.
+IV. Los Magistrados ponentes procederán a exponer, por si mismos o por conducto de alguno de los secretarios a su cargo, cada uno de los asuntos en el orden en que hayan sido listados, con las consideraciones y preceptos jurídicos en que se funden, así como el sentido de los puntos resolutivos que se proponen.
 
-V. Los Magistrados ponentes procederán a exponer, por si mismos o por conducto de alguno de los secretarios a su cargo, cada uno de los asuntos en el orden en que hayan sido listados, con las consideraciones y preceptos jurídicos en que se funden, así como el sentido de los puntos resolutivos que se proponen.
+V. El Presidente del Tribunal dirigirá y moderará la discusión de los asuntos, otorgando el uso de la voz al Magistrado que así lo solicite.
 
 VI. Las intervenciones de los Magistrados no podrán ser interrumpidas hasta que el Presidente conceda el uso de la voz, y una vez que los considere suficientemente discutidos, los someterá a votación.
 
-VII. Cuando la mayoría de los magistrados estén de acuerdo con el proyecto de sentencia, el o los magistrados disidentes podrán formular voto particular, concurrente o razonado, el cual se agregará a la sentencia.
+VII. Cuando la mayoría de los Magistrados estén de acuerdo con el proyecto de sentencia, el o los Magistrados disidentes podrán formular voto particular, concurrente o razonado, el cual se agregará a la sentencia.
 
-VIII. Si el proyecto del magistrado ponente no fuese aceptado por la mayoría, el Presidente propondrá al Pleno a otro magistrado para efectos de que realice el engrose correspondiente, quien elaborará la sentencia con las argumentaciones que se hubiesen invocado, agregándose como voto particular el proyecto que no fue aprobado, si así lo desea el ponente, y
+VIII. Si el proyecto del Magistrado ponente no fuese aceptado por la mayoría, el Presidente propondrá al Pleno a otro Magistrado para efectos de que realice el engrose correspondiente, quien elaborará la sentencia con las argumentaciones que se hubiesen invocado, agregándose como voto particular el proyecto que no fue aprobado, si así lo desea el ponente, y
 
-IX. En las sesiones públicas sólo pueden participar y hacer uso de la palabra los magistrados, y cuando proceda, los secretarios adscritos a las ponencias y el Secretario General de Acuerdos, quien levantará el acta correspondiente.
+IX. En las sesiones públicas sólo pueden participar y hacer uso de la palabra los Magistrados, y cuando proceda, los secretarios adscritos a las ponencias y el Secretario General de Acuerdos, quien levantará el acta correspondiente.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 18.
 
 En las sesiones privadas y públicas solemnes, se seguirá en lo conducente, lo establecido en el artículo anterior.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 19.
 
@@ -177,13 +219,13 @@ II. Aprobar, modificar o dejar sin efectos la jurisprudencia y tesis relevantes,
 
 III. Desechar, sobreseer, tener por no interpuestos o por no presentados, cuando proceda, los medios de impugnación, los escritos de los terceros interesados y los de los coadyuvantes.
 
-IV. Conocer y resolver los conflictos o diferencias laborales entre el Tribunal y sus servidores, en términos de lo dispuesto en el Código y este Reglamento.
+IV. Conocer y resolver los conflictos o diferencias laborales entre el Tribunal y sus servidores públicos, en términos de lo dispuesto en el Código y este Reglamento.
 
-V. Conocer y resolver los conflictos o diferencias laborales entre el Instituto y sus servidores, en términos de lo dispuesto en el Código y este Reglamento.
+V. Conocer y resolver los conflictos o diferencias laborales entre el Instituto y sus servidores públicos, en términos de lo dispuesto en el Código y este Reglamento.
 
 VI. Calificar y resolver las excusas que presenten los Magistrados o las recusaciones que se promuevan en contra de los mismos.
 
-VII. Determinar la fecha, hora y forma de sus sesiones.
+VII. Determinar la fecha, y hora de sus sesiones públicas, publicando tal determinación en el sitio oficial del Tribunal de internet con al menos veinticuatro horas de anticipación. Salvo lo dispuesto en el artículo 17 fracción I de este Reglamento.
 
 VIII. Aprobar el Programa Anual de Actividades, el Proyecto y Presupuesto Definitivo de Egresos del Tribunal, a propuesta del Presidente.
 
@@ -197,37 +239,37 @@ XII. Autorizar la celebración de convenios de colaboración con otros tribunale
 
 XIII. Aprobar los planes y programas de capacitación, docencia y difusión de la materia electoral y de participación ciudadana.
 
-XIV. Designar y remover al personal jurídico, a propuesta del Presidente y, en su caso, del titular de cada ponencia
+XIV. Designar y remover al personal jurídico, a propuesta del Presidente o, en su caso, del titular de cada ponencia.
 
-XV. Conocer y resolver sobre la inhabilitación de los servidores del Tribunal, por las causas de responsabilidad previstas en este Reglamento.
+XV. Conocer y resolver sobre la inhabilitación de los servidores públicos del Tribunal, por las causas de responsabilidad previstas en este Reglamento.
 
 XVI. Aprobar la integración del Comité de Adquisiciones, Arrendamientos, Enajenaciones y Contratación de Servicios del Tribunal.
 
-XVII. Conocer y resolver de las responsabilidades administrativas de los funcionarios y servidores del Tribunal, que someta a su consideración la Contraloría General del Tribunal; determinar y en su caso, aplicar las sanciones previstas en el Código.
+XVII. Conocer y resolver de las responsabilidades administrativas de los servidores públicos del Tribunal, que someta a su consideración la Contraloría General del Tribunal; determinar y en su caso, aplicar las sanciones previstas en el Código.
 
 XVIII. Dar vista a las autoridades correspondientes en el ámbito de sus atribuciones, cuando se desprendan posibles violaciones a leyes federales y locales en sus distintas competencias.
 
 XIX. Expedir las disposiciones y medidas necesarias para el despacho pronto y expedito de los asuntos de la competencia del Tribunal.
 
-XX. Determinar las condiciones generales de trabajo en que habrán de prestarse los servicios, tomando en consideración la naturaleza de la materia electoral y lo relativo a percepciones, prestaciones, gratificaciones, indemnizaciones, liquidaciones, finiquito que conforme a la ley laboral correspondan.
+XX. Determinar las condiciones generales de trabajo, tomando en consideración la naturaleza de la materia electoral y lo relativo a percepciones, prestaciones, gratificaciones, indemnizaciones, liquidaciones, finiquito que conforme a la ley laboral correspondan.
 
-XXI. Aprobar los programas e informes de la Contraloría, y demás asuntos que le se (sic) someta a su consideración.
+XXI. Aprobar los programas e informes de la Contraloría, y demás asuntos que se le someta a su consideración.
 
 XXII. Aprobar la estructura administrativa de la Contraloría.
 
 XXIII. Designar al secretario proyectista, quien fungirá como secretario Técnico de la Comisión Sustanciadora.
 
-XXIV. Resolver sobre la conexidad de los recursos de revisión y apelación, con los juicios de inconformidad y resolver, en su caso, su archivo como asuntos definitivamente concluidos.
+XXIV. Determinar sobre la conexidad de los recursos de revisión y apelación, con los juicios de inconformidad y resolver, en su caso, su archivo como asuntos definitivamente concluidos;
 
 XXV. Determinar, en su caso, sobre la acumulación o escisión de los asuntos sometidos a su conocimiento.
 
 XXVI. Ordenar la apertura de incidentes de recuento de votos en los asuntos sometidos a su conocimiento, en aquellos supuestos previstos por el Código.
 
-XXVII. Habilitar a los funcionarios autorizados para levantar constancia de las actuaciones del Tribunal.
+XXVII. Habilitar a los servidores públicos autorizados para levantar constancia de las actuaciones del Tribunal.
 
 XXVIII. Designar al personal necesario para actuar en los incidentes de recuentos de votos.
 
-XXIX. Nombrar a los encargados de despacho de las coordinaciones y direcciones de área del Tribunal.
+XXIX. Nombrar a los encargados de despacho, de las coordinaciones y de las direcciones de área del Tribunal.
 
 XXX. Autorizar los traspasos de recursos financieros presupuestarios entre capítulos de gasto para la ejecución de las actividades programáticas del Tribunal en términos de la normatividad en la materia.
 
@@ -245,7 +287,11 @@ XXXVI. Resolver sobre la interpretación que del presente Reglamento se suscite 
 
 XXXVII. Las demás que le otorguen la Constitución particular, el Código y el presente Reglamento.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ### CAPÍTULO TERCERO. DE LOS MAGISTRADOS
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 20.
 
@@ -271,7 +317,7 @@ IX. Firmar, conjuntamente con la Secretaría General, las actas circunstanciadas
 
 X. Proponer al Pleno, por conducto de la Presidencia, los nombramientos o promociones del personal jurídico a su cargo.
 
-XI. Decidir sobre la remoción del personal jurídico a su cargo, informando al Pleno y a la Dirección de Administración.
+XI. Someter al Pleno sobre la remoción del personal jurídico a su cargo.
 
 XII. Designar al personal jurídico de su ponencia para que integre o participe en los equipos o comisiones de trabajo creados por el Pleno.
 
@@ -279,7 +325,7 @@ XIII. Participar en actividades relacionadas con la capacitación, investigació
 
 XIV. Proponer modificaciones al proyecto de presupuesto de egresos presentado por la Presidencia.
 
-XV. Proponer al Pleno normatividad necesaria para el buen funcionamiento del Tribunal.
+XV. Proponer al Pleno la normatividad necesaria para el buen funcionamiento del Tribunal.
 
 XVI. Ser convocado en tiempo y forma a las sesiones del Pleno y recibir, con la debida oportunidad, la documentación necesaria para el análisis de los asuntos a tratar en el Orden del Día.
 
@@ -289,21 +335,31 @@ XVIII. Solicitar a la Presidencia se emita convocatoria para la celebración de 
 
 XIX. Integrar la Comisión Sustanciadora, de acuerdo a las directrices aprobadas por el Pleno.
 
-XX. Informar a la Contraloría sobre las responsabilidades administrativas de servidores públicos del Tribunal de que tengan conocimiento, para el inicio del procedimiento respectivo.
+XX. Informar a la Contraloría sobre las responsabilidades administrativas de los servidores públicos del Tribunal de que tengan conocimiento, para el inicio del procedimiento respectivo.
 
 XXI. Estar permanentemente informado de las actividades realizadas por las coordinaciones y demás áreas del Tribunal, y
 
 XXII. Las demás que les otorguen las disposiciones constitucionales, legales y reglamentarias en la materia.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 DEL PRESIDENTE
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 21.
 
-El Presidente del Tribunal será designado por la Legislatura del Estado y ejercerá el cargo por un periodo de tres años pudiendo ser reelecto por una sola vez, en términos de lo dispuesto en el artículo 287 del Código.
+La presidencia del Tribunal Electoral deberá ser rotativa. El Presidente del Tribunal Electoral será electo por votación mayoritaria, entre sus miembros, para un periodo de dos años, en la primera sesión del Pleno del año que corresponda.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 22.
 
-En caso de ausencia hasta de siete días, el Presidente será sustituido por el Magistrado decano o en su caso por el de mayor edad. La designación correrá a cargo del Pleno y será exclusivamente por el tiempo necesario.
+En caso de vacante temporal el Presidente será suplido por los otros Magistrados, siguiendo el orden de designación y, de ser necesario, el orden alfabético. La vacante temporal es aquella que no excede de tres meses, en términos de lo dispuesto en el párrafo cuarto del artículo 384 del Código.
+
+Si la vacante es definitiva se designará un nuevo Presidente para concluir el periodo y sólo en este supuesto lo podrá designar para otro periodo de dos años.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 23.
 
@@ -319,11 +375,11 @@ IV. Representar al Tribunal ante toda clase de autoridades, otorgar y revocar po
 
 V. Proponer al Pleno la designación de quien habrá de suplir temporalmente al Secretario General, en caso de que se encuentre con licencia, en periodo vacacional o por causas de fuerza mayor. La designación deberá recaer entre el personal jurídico del Tribunal y, preferentemente, en quien ocupe la Secretaría Técnica.
 
-VI. Vigilar que se cumplan las determinaciones del Tribunal y en su caso, aplicar los medios de apremio y las correcciones disciplinarias, conforme a la ley.
+VI. Vigilar que se cumplan las determinaciones del Tribunal, y en su caso, aplicar los medios de apremio y las correcciones disciplinarias, conforme a la ley.
 
 VII. Vigilar la oportuna notificación a los órganos estatales electorales, partidos políticos y a quien corresponda, las resoluciones que se dicten sobre los medios de impugnación que conozca el Tribunal.
 
-VIII. Comunicar a la Legislatura del Estado las ausencias definitivas de los Magistrados, para los efectos legales que procedan.
+VIII. Comunicar a la Cámara de Senadores la vacante definitiva de Magistrado, para que provea el procedimiento de sustitución.
 
 IX. Elaborar el Proyecto de Presupuesto de Egresos del Tribunal.
 
@@ -339,9 +395,9 @@ XIV. Celebrar convenios de colaboración, previa autorización del Pleno.
 
 XV. Coordinar la publicación del órgano oficial de difusión del Tribunal.
 
-XVI. Proponer al Pleno los lineamientos para la selección, capacitación, designación y promoción de los servidores del Tribunal.
+XVI. Proponer al Pleno los lineamientos para la selección, capacitación, designación y promoción de los servidores públicos del Tribunal.
 
-XVII. Proponer al Pleno la designación y remoción de las Secretarias General, Técnica de la Secretaría General, de Estudio y Cuenta, Proyectistas y Auxiliares Jurídicos; de los Coordinadores Operativos; de los Sustanciadores, Notificadores, Oficiales de Partes y demás personal jurisdiccional administrativo que requiera el Tribunal, así como al Director de Administración y los titulares de las Coordinaciones. En el caso del personal jurídico adscrito a las ponencias, el Magistrado respectivo deberá hacer previamente la propuesta a la Presidencia.
+XVII. Proponer al Pleno la designación y remoción de las Secretarias General, Técnica de la Secretaría General, de Estudio y Cuenta, Proyectistas y Auxiliares Jurídicos; de los Coordinadores Operativos; de los Notificadores, Oficiales de Partes y demás personal jurisdiccional y administrativo que requiera el Tribunal, así como al Director de Administración y los titulares de las Coordinaciones. En el caso del personal jurídico adscrito a las ponencias, el Magistrado respectivo deberá hacer previamente la propuesta a la Presidencia.
 
 XVIII. Designar a los titulares de la Secretaría de Presidencia y Secretaría Particular; y al personal administrativo que requiera el Tribunal.
 
@@ -353,19 +409,19 @@ XXI. Acordar con los titulares de la Secretaría General y de las Coordinaciones
 
 XXII. Vigilar el buen desempeño y funcionamiento de las áreas jurisdiccionales, técnicas y administrativas del Tribunal.
 
-XXIII. Presidir el Comité de Información.
+XXIII. (DEROGADA, G.G. 26 DE AGOSTO DE 2016)
 
-XXIV. Supervisar que las tesis relevantes y criterios de jurisprudencia del Tribunal, se elaboren y publiquen con oportunidad y apegados a las disposiciones del Código.
+XXIV. Supervisar que las tesis relevantes y criterios de jurisprudencia del Tribunal, se elaboren y publiquen con oportunidad y con apego a las disposiciones del Código.
 
 XXV. Suscribir los nombramientos del personal del Tribunal.
 
 XXVI. Vigilar que se cumplan las determinaciones del Pleno;
 
-XXVII. Ordenar que se fije en los estrados, con una anticipación de por lo menos veinticuatro horas o menor por la urgencia de resolución, la lista de los asuntos que serán analizados en cada sesión o, su caso, sea (sic) difiera la misma;
+XXVII. Ordenar que se fije en los estrados, y en el sitio oficial del Tribunal de internet, con una anticipación de por lo menos veinticuatro horas o menor por la urgencia de resolución, la lista de los asuntos que serán analizados en cada sesión o, en su caso, el aviso por el que se difiere la misma;
 
 XXVIII. Requerir a las autoridades federal, estatal o municipal, así como a cualquier persona, cualquier informe o documento, que obrando en su poder, pueda servir para la sustanciación de los medios de impugnación, así como el auxilio en la ejecución de diligencias fuera de la sede del Tribunal;
 
-XXIX. En casos extraordinarios, ordenar que se realice alguna diligencia o perfecciones una prueba, siempre que ello no sea obstáculo para resolver dentro de los plazos legales los medios de impugnación;
+XXIX. En casos extraordinarios, ordenar que se realice alguna diligencia o la perfección de alguna prueba, siempre que ello no sea obstáculo para resolver dentro de los plazos legales los medios de impugnación;
 
 XXX. Vigilar el cumplimiento de las disposiciones jurídicas y administrativas que rigen la organización y el funcionamiento del Tribunal;
 
@@ -375,13 +431,19 @@ XXXII. Someter a la aprobación del Pleno la estructura de organización del Tri
 
 XXXIII. Promover la ejecución de acciones de modernización administrativa, mejora regulatoria y gestión de la calidad en los trámites y servicios que ofrece el Tribunal;
 
-XXXIV. Conducir las funciones de la Dirección de Administración, Coordinaciones y encargado del Centro de Documentación, así como disponer lo necesario para eficientar su desempeño;
+XXXIV. Conducir las funciones de la Dirección de Administración, las Coordinaciones y el encargado del Centro de Documentación, así como disponer lo necesario para eficientar su desempeño;
 
-XXXV. Verificar que las unidades administrativas del Tribunal se realicen de manera coordinada, para eficientar el cumplimiento de su objeto y competencia;
+XXXV. Verificar que las actividades de las unidades administrativas del Tribunal se realicen de manera coordinada, para eficientar el cumplimiento de su objeto y competencia;
 
 XXXVI. Denunciar las contradicciones de criterios entre la Sala Regional Toluca y la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, en aquellos casos en que el Tribunal sea parte, y
 
-XXXVII. Las demás que sean necesarias para el correcto funcionamiento del Tribunal y las que le otorguen las disposiciones constitucionales, legales y reglamentarias.
+XXXVII. Recibir los medios de impugnación y admitirlos si reúnen los requisitos legales; de conformidad con los artículos 394 fracción XVII y 425 del Código.
+
+XXXVIII. Sustanciar los medios de impugnación, en los términos que señala el artículo 394 fracción XVIII del Código.
+
+XXXIX. Las demás que sean necesarias para el correcto funcionamiento del Tribunal y las que le otorguen las disposiciones constitucionales, legales y reglamentarias.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 24.
 
@@ -397,9 +459,13 @@ IV. Auxilio de la fuerza pública, o
 
 V. Arresto.
 
-Para tal efecto pondrá a disposición de las autoridades competentes a quienes realicen actos que atenten contra la integridad física de los servidores del Tribunal o de sus instalaciones, o a quienes de manera reiterada se nieguen a cumplir con los acuerdos y sentencias.
+Para tal efecto pondrá a disposición de las autoridades competentes a quienes realicen actos que atenten contra la integridad física de los servidores públicos del Tribunal o de sus instalaciones, o a quienes de manera reiterada se nieguen a cumplir con los acuerdos y sentencias.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ### CAPÍTULO CUARTO. DE LOS ÓRGANOS INTERNOS JURISDICCIONALES Y ADMINISTRATIVOS DEL TRIBUNAL
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 25.
 
@@ -407,9 +473,11 @@ La Dirección de Administración, la Secretaría de la Presidencia y la Secretar
 
 La Secretaría General, la Contraloría General y las Coordinaciones estarán adscritas al Pleno.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 26.
 
-Para ser titular de algún área del Tribunal, de la Secretaría Técnica de la Secretaría General, Coordinador, Coordinador Operativo, Secretario de Estudio y Cuenta, Proyectista o Sustanciador, se requiere:
+Para ser titular de algún área del Tribunal, de la Secretaría Técnica de la Secretaría General, Coordinador, Coordinador Operativo, Secretario de Estudio y Cuenta, Proyectista o Notificador, se requiere:
 
 I. Ser ciudadano del Estado, en pleno ejercicio de sus derechos civiles y políticos.
 
@@ -417,11 +485,13 @@ II. Tener más de veinticinco años, el día de su designación.
 
 III. Tener título profesional y experiencia en el área técnica o jurídica que le corresponda, y
 
-IV. No haber sido condenado con pena privativa de libertad, por delito intencional, en sentencia ejecutoria.
+Los Secretarios Auxiliares Jurídicos y Oficiales de Partes deberán reunir los mismos requisitos que los Secretarios Proyectistas y Notificadores, a excepción del título profesional, pudiendo ser pasantes de la licenciatura en derecho.
 
-Los Secretarios Auxiliares Jurídicos, Notificadores y Oficiales de Partes deberán reunir los mismos requisitos que los Secretarios Proyectistas y Sustanciadores, a excepción del título profesional, pudiendo ser pasantes de la licenciatura en derecho.
+No podrán ser Secretarios del Tribunal, Coordinadores Operativos ni Notificadores, aquellas personas que sean o hayan sido candidatos a algún cargo de elección popular o que hayan sido dirigentes de algún partido político a nivel nacional, estatal o municipal en los cinco años anteriores a su designación.
 
-No podrán ser Secretarios del Tribunal, Coordinadores Operativos ni notificadores, aquellas personas que sean o hayan sido candidatos a algún cargo de elección popular o que hayan sido dirigentes de algún partido político a nivel nacional, estatal o municipal en los cinco años anteriores a su designación.
+En el ejercicio de sus funciones los notificadores gozarán de fe pública.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 27.
 
@@ -439,6 +509,8 @@ V. Vigilar que las disposiciones y acuerdos emanados de la Presidencia del Tribu
 
 VI. Las demás que le encomiende el Presidente.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 28.
 
 El Secretario General de Acuerdos coordinará las actividades propias de su área y las funciones del personal jurídico y administrativo adscrito a ella; en el desempeño de sus funciones gozará de fe pública y tendrá las atribuciones siguientes:
@@ -449,7 +521,7 @@ II. Participar en el engrose de los fallos, en coordinación con el Magistrado q
 
 III. Autorizar con su firma las actuaciones del Tribunal.
 
-IV. Expedir certificaciones de constancias que se requiera.
+IV. Expedir certificaciones de constancias que se requieran.
 
 V. Llevar el control del turno de los Magistrados encargados de presentar al Pleno los proyectos de resolución de los asuntos a su cargo.
 
@@ -461,13 +533,13 @@ VIII. Supervisar que se hagan en tiempo y forma las notificaciones.
 
 IX. Coordinar y supervisar el debido funcionamiento del Archivo Jurisdiccional del Tribunal y en su momento, su concentración y preservación.
 
-X. Apoyar al Pleno y al Presidente en las tareas que le encomiende.
+X. Auxiliar a los secretarios proyectistas en el desempeño de sus funciones.
 
 XI. Informar al Pleno y al Presidente, sobre el funcionamiento de las áreas a su cargo y del desahogo de los asuntos de su competencia.
 
 XII. Dictar, previo acuerdo con el Pleno y el Presidente, los lineamientos generales para el resguardo, identificación e integración de los expedientes que se encuentran en trámite.
 
-XIII. Publicar oportunamente, en los estrados del Tribunal, la lista de los asuntos a resolver en las sesiones públicas.
+XIII. Publicar oportunamente, en los estrados del Tribunal, y en el sitio oficial del Tribunal de internet, la lista de los asuntos a resolver en las sesiones públicas.
 
 XIV. Verificar y declarar el quórum legal en las sesiones públicas del Pleno.
 
@@ -477,21 +549,29 @@ XVI. Elaborar los informes y reportes estadísticos en materia jurisdiccional, q
 
 XVII. Realizar los trámites conducentes para que se publiquen en la Gaceta del Gobierno, los acuerdos o documentos que determine el Pleno o el Presidente.
 
-XVIII. Comunicar a la Legislatura la ausencia mayor a siete días de alguno o algunos de los Magistrados.
+XVIII. (DEROGADA, G.G. 26 DE AGOSTO DE 2016)
 
 XIX. Dictar, conjuntamente con la Presidencia, y a solicitud del Magistrado ponente, los autos de radicación, de admisión, de cierre de instrucción y demás acuerdos de trámite necesarios para la sustanciación y la debida integración de los expedientes.
 
 XX. Realizar las acciones necesarias para la digitalización de los expedientes jurisdiccionales.
 
-XXI. Realizar las tareas que le encomienden el Pleno y la Presidencia, dentro del ámbito de sus atribuciones, y
+XXI. Realizar las tareas que le encomienden el Pleno y la Presidencia, dentro del ámbito de sus atribuciones.
 
-XXII. Las demás que deriven de disposiciones constitucionales, legales y reglamentarias en la materia.
+XXII. Revisar que el juicio de inconformidad reúna los requisitos de procedencia previstos en el Código y, en su caso, proponer al Pleno el acuerdo de desechamiento cuando este sea frívolo o encuadre en una causal de improcedencia o sobreseimiento.
+
+XXIII. Revisar que los medios de impugnación cumplan con lo dispuesto en los artículos 419, 420 y 421 del Código y proponer al Pleno el acuerdo de improcedencia. y
+
+XXIV. Las demás que deriven de disposiciones constitucionales, legales y reglamentarias en la materia.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 29.
 
 El Secretario General tendrá fe pública en todo lo relativo al ejercicio de sus funciones.
 
-Los sustanciadores, notificadores y el personal que se habilite por el Pleno, podrán levantar constancia de las actuaciones del Tribunal, debiendo, en todos los casos, ser acompañadas de la firma del titular de la Secretaría General.
+El personal que se habilite por el Pleno, podrá levantar constancia de las actuaciones del Tribunal, debiendo, en todos los casos, ser acompañadas de la firma del titular de la Secretaría General.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 30.
 
@@ -503,35 +583,35 @@ II. Coadyuvar con el Secretario General en el cumplimiento de las atribuciones q
 
 III. Las demás que le encomiende el Pleno, el Presidente o el titular de la Secretaría General, dentro del ámbito de sus atribuciones.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 31.
 
 Los Secretarios de Estudio y Cuenta tendrán las atribuciones siguientes:
 
-I. Apoyar al Magistrado en la revisión de los requisitos y presupuestos legales de los medios de impugnación para su procedencia.
+I. Formular los proyectos de resoluciones, conforme los lineamientos establecidos por el Magistrado correspondiente.
 
-II. Formular los proyectos de resoluciones, conforme los lineamientos establecidos por el Magistrado correspondiente.
+II. Dar cuenta al Magistrado ponente para que se decrete el cierre de instrucción correspondiente, y se proceda a la formulación del proyecto de sentencia.
 
-III. Analizar los requisitos de procedibilidad de los medios de impugnación, y en su caso, proponer al Magistrado respectivo la admisión.
+III. Participar en las reuniones que sean convocados, previa anuencia del Magistrado de adscripción.
 
-IV. Dar cuenta al Magistrado ponente para que se decrete el cierre de instrucción correspondiente, y se proceda a la formulación del proyecto de sentencia.
+IV. Desempeñar las tareas que les encomiende el Magistrado al cual se encuentran adscritos.
 
-V. Participar en las reuniones que sean convocados, previa anuencia del Magistrado de adscripción.
+V. Proponer al Magistrado ponente, en su caso, el proyecto de acuerdo en el que se tengan por no presentados los escritos de los terceros interesados, por ser extemporáneos o no cumplir en tiempo y forma con los requerimientos formulados.
 
-VI. Desempeñar las tareas que les encomiende el Magistrado al cual se encuentran adscritos.
+VI. Estudiar y analizar los expedientes de los medios de impugnación que se encuentren en estado de resolución.
 
-VII. Proponer al Magistrado ponente el proyecto de acuerdo en el que se tengan por no presentados los escritos de los terceros interesados, por ser extemporáneos o no cumplir en tiempo y forma con los requerimientos formulados.
+VII. Formular los proyectos de sentencia de los medios de impugnación que se encuentren en estado de resolución y ponerlos a consideración del Magistrado ponente.
 
-VIII. Estudiar y analizar los expedientes de los medios de impugnación que se encuentren en estado de resolución.
+VIII. Realizar estudios e investigaciones inherentes de la función jurisdiccional del Tribunal, que le sean encomendados.
 
-IX. Formular los proyectos de sentencia de los medios de impugnación que se encuentren en estado de resolución y ponerlos a consideración del Magistrado ponente.
+IX. Coordinar a los Secretarios Proyectistas y Auxiliares de la ponencia correspondiente.
 
-X. Realizar estudios e investigaciones inherentes de la función jurisdiccional del Tribunal, que le sean encomendados.
+X. Acordar los asuntos de su competencia con el Magistrado al que se encuentra asignado, y
 
-XI. Coordinar a los Secretarios Proyectistas y Auxiliares de la ponencia correspondiente.
+XI. Las demás que le encomienden las disposiciones aplicables, el Magistrado respectivo o el Presidente.
 
-XII. Acordar los asuntos de su competencia con el Magistrado al que se encuentra asignado, y
-
-XIII. Las demás que le encomienden las disposiciones aplicables, el Magistrado respectivo o el Presidente.
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 32.
 
@@ -541,39 +621,41 @@ I. Estudiar y analizar los expedientes de los medios de impugnación que se encu
 
 II. Formular y presentar al Magistrado Ponente, los anteproyectos de resolución de los medios de impugnación que les sean encomendados.
 
-III. Desempeñar las tareas relacionadas con la función jurisdiccional que les sean encomiendas.
+III. Desempeñar las tareas relacionadas con la función jurisdiccional que les sean encomendadas.
 
-IV. Realizar las actividades encomendadas, académicas y de investigación en materia electoral, que les sean encomendadas.
+IV. Realizar las actividades académicas y de investigación en materia electoral, que les sean encomendadas.
 
-V. Auxiliar en sus funciones a los Secretarios de Estudio y Cuenta, y a los Sustanciadores cuando las cargas de trabajo del Tribunal así lo requieran, y
+V. Auxiliar en sus funciones a los Secretarios de Estudio y Cuenta, cuando las cargas de trabajo del Tribunal así lo requieran, y
 
 VI. Las demás que les encomiende el presente Reglamento, el Presidente o el Magistrado Ponente, según corresponda.
 
 ###### Artículo 33.
 
-Los Secretarios Sustanciadores tendrán las atribuciones siguientes:
+(DEROGADO, G.G. 26 DE AGOSTO DE 2016)
 
-Recibir de la Secretaría General, los medios de impugnación turnados a los Magistrados; verificar si reúnen los requisitos señalados en el Código y formular los acuerdos correspondientes, previa solicitud del Magistrado correspondiente que realice al Secretario General de Acuerdos.
-
-Sustanciar los expedientes de los medios de impugnación, hasta ponerlos en estado de resolución.
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 34.
 
-Los Coordinadores Operativos, Secretarios de Estudio y Cuenta, Proyectistas y Auxiliares, estarán adscritos a las ponencias, y realizarán las que les encomiende el Magistrado respectivo.
+Los Coordinadores Operativos, Secretarios de Estudio y Cuenta, Proyectistas y Auxiliares, estarán adscritos a las ponencias, y realizarán las funciones que les encomiende el Magistrado respectivo.
 
 La Secretaría Particular realizará las funciones que le encomiende la Presidencia.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 35.
 
-Los notificadores tendrán las atribuciones siguientes:
+Los Notificadores tendrán las atribuciones siguientes:
 
 I. Practicar las notificaciones y diligencias que le sean turnadas en la forma y términos previstos en el Código y en el presente Reglamento.
 
-II. Auxiliar en la integración de los expedientes a los Secretarios Sustanciadores y a los Magistrados, cuando las cargas de trabajo del Tribunal así lo requieran.
+II. Auxiliar en la integración de los expedientes, y a los Magistrados, cuando las cargas de trabajo del Tribunal así lo requieran.
 
 III. Realizar las tareas que le encomiende el Presidente o el Secretario General, dentro del ámbito de sus atribuciones, y
 
 IV. Las demás que deriven de las disposiciones constitucionales, legales y reglamentarias en la materia.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 36.
 
@@ -588,6 +670,8 @@ III. Tomar las medidas pertinentes para el buen funcionamiento de la Coordinaci�
 IV. Realizar las tareas que le encomiende el Pleno y la Presidencia, dentro del ámbito de sus atribuciones, y
 
 V. Las demás que deriven de las disposiciones constitucionales, legales y reglamentarias.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 37.
 
@@ -637,9 +721,11 @@ XXI. Identificar, clasificar y compilar los criterios sostenidos en las resoluci
 
 XXII. Tomar las medidas pertinentes para el buen funcionamiento de la Coordinación a su cargo.
 
-VI (sic). Realizar las tareas que le encomiende el Pleno y la Presidencia, dentro del ámbito de sus atribuciones, y
+XXIII. Realizar las tareas que le encomiende el Pleno y la Presidencia, dentro del ámbito de sus atribuciones, y
 
-XXIII. Las demás que deriven de las disposiciones constitucionales, legales y reglamentarias.
+XXIV. Las demás que deriven de las disposiciones constitucionales, legales y reglamentarias.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 38.
 
@@ -649,7 +735,7 @@ I. Ordenar, clasificar e inventariar el acervo bibliográfico, hemerográfico, v
 
 II. Proporcionar y mantener vigente el acervo y la información documental a que se refiere la fracción anterior;
 
-III. Conservar, asegurar y custodiar el acervo bibliográfico, hemerográfico, viedeográfico (sic) y en general, la información documental con que cuente el Tribunal;
+III. Conservar, asegurar y custodiar el acervo bibliográfico, hemerográfico, videográfico y en general, la información documental con que cuente el Tribunal;
 
 IV. Revisar y analizar la normatividad electoral de la federación y de los Estados de la República para consulta de los miembros del Tribunal;
 
@@ -664,6 +750,8 @@ VIII. Diseñar, en conjunto con la Coordinación de Informática, los sistemas d
 IX. Realizar las tareas que le encomiende el Pleno y la Presidencia, dentro del ámbito de sus atribuciones, y
 
 X. Las demás que deriven de las disposiciones constitucionales, legales y reglamentarias.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 39.
 
@@ -707,6 +795,8 @@ XVIII. Realizar las tareas que le encomiende el Pleno y el Presidente, y
 
 XIX. Las demás que deriven de las disposiciones constitucionales, legales y reglamentarias.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 40.
 
 El Coordinador de Difusión y Comunicación Social, tendrá las atribuciones siguientes:
@@ -721,7 +811,7 @@ IV. Preparar las ediciones del órgano oficial de difusión y demás publicacion
 
 V. Apoyar a la Coordinación de Capacitación en la organización de seminarios, congresos, conferencias y otros eventos académicos del Tribunal.
 
-VI Preparar la edición del "Boletín Informativo" del Tribunal, con información político electoral local y nacional.
+VI. Preparar la edición del "Boletín Informativo" del Tribunal, con información político electoral local y nacional.
 
 VII. Fortalecer la imagen institucional del Tribunal, promoviendo sus objetivos y funciones.
 
@@ -729,73 +819,103 @@ VIII. Realizar las tareas que le encomiende el Pleno y la Presidencia, dentro de
 
 IX. Las demás que deriven de las disposiciones constitucionales, legales y reglamentarias.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 41.
 
 El Coordinador de Informática, tendrá las atribuciones siguientes:
 
-I. Apoyar al personal jurídico en la elaboración de modelos procesales y métodos computarizados, para dar celeridad a los procedimientos jurisdiccionales.
+I. Coadyuvar con el Secretario General para publicar en el sitio oficial del Tribunal de internet, veinticuatro horas antes la lista de los asuntos a resolver en la próxima sesión pública.
 
-II. Sistematizar los procedimientos de estadística que se requieran para el control de los medios de impugnación.
+II. Apoyar al personal jurídico en la elaboración de modelos procesales y métodos computarizados, para dar celeridad a los procedimientos jurisdiccionales.
 
-III. Diseñar e implementar sistemas de cómputo para satisfacer los requerimientos de procesamiento de información de las distintas áreas del Tribunal.
+III. Sistematizar los procedimientos de estadística que se requieran para el control de los medios de impugnación.
 
-IV. Administrar los servicios y acceso al sistema de red mundial internet.
+IV. Diseñar e implementar sistemas de cómputo para satisfacer los requerimientos de procesamiento de información de las distintas áreas del Tribunal.
 
-V. Proporcionar asistencia técnica, asesoría y capacitación, sobre el manejo y operación de las herramientas computacionales asignadas a las distintas áreas del Tribunal.
+V. Administrar los servicios y acceso al sistema de red mundial internet.
 
-VI. Proporcionar mantenimiento preventivo y correctivo a los equipos de cómputo del Tribunal.
+VI. Proporcionar asistencia técnica, asesoría y capacitación, sobre el manejo y operación de las herramientas computacionales asignadas a las distintas áreas del Tribunal.
 
-VII. Elaborar los informes que le sean requeridos por el Pleno, el Presidente o el Director de Administración.
+VII. Proporcionar mantenimiento preventivo y correctivo a los equipos de cómputo del Tribunal.
 
-VIII. Tomar las medidas pertinentes para el buen funcionamiento de la Coordinación a su cargo.
+VIII. Elaborar los informes que le sean requeridos por cualquiera de los Magistrados que integran el Pleno, el Presidente o el Director de Administración.
 
-IX. Realizar las tareas que le encomiende el Pleno, la Presidencia o el Director de Administración, dentro del ámbito de sus atribuciones, y
+IX. Tomar las medidas pertinentes para el buen funcionamiento de la Coordinación a su cargo.
 
-X. Las demás que deriven de las disposiciones constitucionales, legales y reglamentarias.
+X. Realizar las tareas que le encomiende el Pleno, la Presidencia o el Director de Administración, dentro del ámbito de sus atribuciones, y
+
+XI. Las demás que deriven de las disposiciones constitucionales, legales y reglamentarias.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ### CAPÍTULO QUINTO. DEL ARCHIVO JURISDICCIONAL
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 42.
 
 El Tribunal contará con un Archivo Jurisdiccional, adscrito a la Secretaría General, responsable de conservar de manera ordenada y sistemática, los expedientes de los medios de impugnación definitivamente concluidos.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 43.
 
 Cualquier defecto o irregularidad en los expedientes que advierta el encargado del Archivo Jurisdiccional, lo comunicará de inmediato a la Presidencia del Tribunal, por conducto del Secretario General de Acuerdos, para resolver lo conducente.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 44.
 
 El Secretario General de Acuerdos, así como el encargado del Archivo Jurisdiccional, tomarán las medidas conducentes para el correcto desempeño y consulta de este órgano interno del Tribunal; así como para su control, resguardo y conservación.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ### CAPÍTULO SEXTO. DEL CENTRO DE DOCUMENTACIÓN
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 45.
 
-El Centro de Documentación será el órgano interno del Tribunal, adscrito a la Coordinación de Documentación, responsable de conservar y proporcionar para su consulta, el acervo bibliográfico, hemerográfico, videográfico, audiovisual e información documental del Organismo Jurisdiccional.
+El Centro de Documentación será el órgano interno del Tribunal, adscrito a la Coordinación de Documentación, responsable de conservar y proporcionar para su consulta, el acervo bibliográfico, hemerográfico, videográfico, audiovisual e información documental del Órgano Jurisdiccional.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 46.
 
-El Centro de Documentación del Tribunal, contará con un acervo legislativo electoral y laboral actualizado, así como el material jurisprudencial y doctrinario sobre las referidas materias y de aquellas que le sean afines, con el objeto de proporcionar a los integrantes del organismo jurisdiccional el soporte documental suficiente y adecuado para el ejercicio de sus atribuciones.
+El Centro de Documentación del Tribunal, contará con un acervo legislativo electoral y laboral actualizado, así como el material jurisprudencial y doctrinario sobre las referidas materias y de aquellas que le sean afines, con el objeto de proporcionar a los integrantes del órgano jurisdiccional el soporte documental suficiente y adecuado para el ejercicio de sus atribuciones.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 47.
 
 El Centro de Documentación podrá ofrecer el servicio de consulta para el público en general que lo requiera, dentro de los horarios de labores del Tribunal y mediante los procedimientos previamente establecidos.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ### CAPÍTULO SÉPTIMO. DEL ÓRGANO OFICIAL DE DIFUSIÓN
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 48.
 
 El Tribunal tendrá un órgano oficial de difusión que se denominará "Revista del Tribunal Electoral del Estado de México".
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 49.
 
 La Revista del Tribunal, difundirá las tesis relevantes y criterios de jurisprudencia; trabajos de investigación en materia político electoral y otros documentos de interés sobre la materia.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ### CAPÍTULO OCTAVO. DE LA CONTRALORÍA GENERAL
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 50.
 
-El Tribunal contará con una Contraloría General que ejercerá funciones de fiscalización de sus finanzas y recursos y de control interno para identificar, investigar y determinar las responsabilidades de los servidores del Tribunal y para imponer las sanciones disciplinarias contempladas en la ley.
+El Tribunal contará con una Contraloría General que ejercerá funciones de fiscalización de sus finanzas y recursos y de control interno para identificar, investigar y determinar las responsabilidades de los servidores públicos del Tribunal y para imponer las sanciones disciplinarias contempladas en la ley.
 
 La Contraloría General estará a cargo de un titular denominado Contralor General, mismo que será designado por la Legislatura, con el voto de las dos terceras partes de sus miembros presentes, mediante el procedimiento que para tal efecto disponga la Junta de Coordinación Política, en términos de lo dispuesto en el Código Electoral.
 
@@ -805,11 +925,13 @@ En su desempeño la Contraloría se sujetará a los principios de imparcialidad,
 
 La Contraloría General será un órgano con autonomía de gestión e independencia técnica en el ejercicio de sus atribuciones y orgánicamente se encontrará adscrita al Pleno.
 
-Los recursos que requiera la contraloría General para el cumplimiento de sus funciones, serán previstos por el Tribunal con cargo a su presupuesto, previa aprobación del Pleno.
+Los recursos que requiera la Contraloría General para el cumplimiento de sus funciones, serán previstos por el Tribunal con cargo a su presupuesto, previa aprobación del Pleno.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 51.
 
-Además de las señaladas en el artículo 296 del Código, el Contralor General tendrá las atribuciones siguientes:
+Además de las señaladas en el artículo 400 del Código, el Contralor General tendrá las atribuciones siguientes:
 
 I. Representar legalmente al órgano de control a su cargo, en los asuntos de su competencia.
 
@@ -845,7 +967,7 @@ XVI. Sustanciar las impugnaciones en materia de responsabilidades administrativa
 
 XVII. Fincar pliegos preventivos de responsabilidad administrativa resarcitoria a los servidores públicos del Tribunal, de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
-XVIII. Iniciar y substanciar los procedimientos administrativos disciplinarios o resarcitorios, y someter a consideración del pleno las resoluciones o sanciones que procedan.
+XVIII. Iniciar y sustanciar los procedimientos administrativos disciplinarios o resarcitorios, y someter a consideración del Pleno las resoluciones o sanciones que procedan.
 
 XIX. Instruir, tramitar y resolver los recursos administrativos de inconformidad, interpuestos en contra de actos que emanen de la propia Contraloría general.
 
@@ -867,7 +989,7 @@ XXVII. Formar parte de las Comisiones y comités que las leyes o el pleno del Tr
 
 XXVIII. Analizar y evaluar los sistemas de procedimientos y control interno.
 
-XXIX. Realizar auditorías contables y operacionales y de resultados del tribunal.
+XXIX. Realizar auditorías contables y operacionales y de resultados del Tribunal.
 
 XXX. Aplicar las acciones administrativas y legales que deriven de los resultados de las auditorías.
 
@@ -877,15 +999,21 @@ XXXII. Realizar las tareas que le encomiende el Pleno, y
 
 XXXIII. Las demás que deriven de las disposiciones constitucionales, legales y reglamentarias.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ### CAPÍTULO NOVENO. DEL PROCEDIMIENTO DE LOS MEDIOS DE IMPUGNACIÓN
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 52.
 
 La Oficialía de Partes es el área, adscrita a la Secretaría General, encargada de recibir los medios de impugnación, promociones y correspondencia oficial del Tribunal.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 53.
 
-El personal de la oficialía de partes que reciba un medio de impugnación o promoción, de inmediato y bajo su estricta responsabilidad, deberá anotar en el original y copia del documento, lo siguiente:
+El personal de la Oficialía de Partes que reciba un medio de impugnación o promoción, de inmediato y bajo su estricta responsabilidad, deberá anotar en el original y copia del documento, lo siguiente:
 
 I. La fecha y hora de su recepción, con el reloj o sello fechador y el sello oficial del Tribunal.
 
@@ -893,19 +1021,27 @@ II. El folio que le corresponda.
 
 III. El número de hojas que integra el documento y, en su caso, el número y características de los anexos que se acompañen, y
 
-IV. Su nombre y firma autógrafa.
+IV. El nombre y firma autógrafa de quien recibe.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 54.
 
 El personal de Oficialía de Partes, deberá registrar todas las promociones, documentos y correspondencia oficial, en el Libro de Gobierno respectivo y las remitirá inmediatamente al Secretario General de Acuerdos.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 55.
 
 Recibido el medio de impugnación, el Presidente dictará, en su caso, auto de radicación en el que se ordenará su registro en el Libro de Gobierno correspondiente, con lo que se tendrá por abierta la instrucción, publicándose tal auto mediante cédula de notificación.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 56.
 
 Los medios de impugnación y las controversias laborales serán turnados por el Presidente en igual número entre los Magistrados, para la formulación de los proyectos de resolución que les corresponda, atendiendo al orden de presentación de los medios de impugnación y el orden de designación de los Magistrados, de conformidad con el Acuerdo General de las Reglas de Turno.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 57.
 
@@ -913,31 +1049,43 @@ Los expedientes de los medios de impugnación podrán acumularse por el Tribunal
 
 Todos los recursos de revisión interpuestos dentro de los cinco días anteriores a la elección, podrán ser resueltos con los juicios de inconformidad con los que guarden relación. El actor deberá señalar la conexidad de la causa en el juicio de inconformidad.
 
-Cuando los recursos de revisión no guarden relación con un juicio de inconformidad, serán archivados como asuntos definitivamente concluidos, por acuerdo del Presidente.
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 58.
 
 La acumulación de los expedientes de los medios de impugnación, podrá ser decretada por acuerdo del Presidente al inicio o durante la sustanciación; de igual forma, el Magistrado ponente podrá hacer la propuesta en el proyecto de resolución.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 59.
 
-Los promoventes y los terceros interesados, deberán señalar domicilio en la ciudad de Toluca de Lerdo para el efecto de que se les practiquen las notificaciones que sean personales. Si no señalan domicilio en los términos señalados, se les podrá requerir para que subsanen esa deficiencia. Si no obstante el requerimiento, no señala domicilio en la ciudad de este Tribunal o el domicilio no existe, las notificaciones se practicarán por estrados.
+Los promoventes y los terceros interesados, deberán señalar domicilio en la ciudad de Toluca de Lerdo para el efecto de que se les practiquen las notificaciones que sean personales. Si no señalan domicilio en los términos señalados, el Secretario General previa instrucción del Presidente, podrá requerirles para que subsanen esa deficiencia. Si no obstante el requerimiento, no señala domicilio en la ciudad de este Tribunal o el domicilio no existe, las notificaciones se practicarán por estrados.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 60.
 
-El Tribunal podrá requerir a las autoridades, a las personas físicas o jurídicas colectivas, cualquier informe, documento o pruebas que estime necesarios, para la debida sustanciación y resolución de los medios de impugnación y controversias laborales.
+El Tribunal, por conducto de su Presidente, podrá requerir a las autoridades, a las personas físicas o jurídico colectivas, cualquier informe, documento o pruebas que estime necesarios, para la debida sustanciación y resolución de los medios de impugnación y controversias laborales.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 61.
 
-Las notificaciones de los acuerdos de trámite, requerimientos y de las resoluciones que dicte el Pleno, podrán realizarse personalmente, por estrados, por oficio, por correo certificado o por telegrama.
+Las notificaciones de los acuerdos de trámite, requerimientos y de las resoluciones que dicte el Pleno, podrán realizarse personalmente, por estrados, por oficio, por vía electrónica, por correo certificado o por telegrama.
 
 En casos urgentes o extraordinarios, las notificaciones podrán realizarse vía fax. La constancia de transmisión, y el acuse de recibo o la constancia de recepción, se agregarán al expediente debidamente certificadas por la Secretaría General.
 
+Para el caso de las notificaciones electrónicas, el Tribunal establecerá un sistema de notificaciones electrónicas que permita contar con elementos de convicción y control de dichas notificaciones.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 62.
 
-Una vez sustanciado el expediente, se dictará auto de cierre de instrucción, por lo que se procederá a dictar la sentencia que en derecho corresponda, de conformidad con lo establecido en el artículo 337 del Código.
+Una vez sustanciado el expediente, se dictará auto de cierre de instrucción, por lo que se procederá a dictar la sentencia que en derecho corresponda, de conformidad con lo establecido en el artículo 446 del Código.
 
-El Pleno podrá desechar o decretar el sobreseimiento de los medios de impugnación notoriamente improcedentes, cuando se configure alguna de las causales previstas en los artículos 317 y 318 del Código.
+El Pleno podrá desechar o decretar el sobreseimiento de los medios de impugnación notoriamente improcedentes, cuando se configure alguna de las causales previstas en los artículos 426 y 427 del Código.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 63.
 
@@ -953,9 +1101,11 @@ De declararse infundado, el Magistrado respectivo continuará conociendo del neg
 
 Aceptada la excusa o recusación, el Magistrado excusado o recusado se abstendrá de participar en la discusión y resolución correspondiente.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 64.
 
-Las resoluciones que emita el Pleno, deberán constar por escrito y reunir los requisitos previstos en el artículo 333 del Código.
+Las resoluciones que emita el Pleno, deberán constar por escrito y reunir los requisitos previstos en el artículo 442 del Código.
 
 El Pleno del Tribunal podrá, cuando lo juzgue necesario o a petición expresa de alguna de las partes, aclarar un concepto o precisar los efectos de una sentencia, siempre y cuando:
 
@@ -969,9 +1119,13 @@ IV. En forma alguna podrá modificar lo resuelto en el fondo del asunto.
 
 La aclaración formará parte de la sentencia.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 65.
 
-Las notificaciones de los acuerdos o resoluciones del Tribunal, deberán hacerse en términos de lo dispuesto el (sic) Código, y surtirán sus efectos el mismo día en que se practiquen.
+Las notificaciones de los acuerdos o resoluciones del Tribunal, deberán hacerse en términos de lo dispuesto por el Código, y surtirán sus efectos el mismo día en que se practiquen.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 66.
 
@@ -979,35 +1133,53 @@ Las notificaciones personales se harán en el domicilio señalado, a través de 
 
 Si el domicilio señalado está cerrado o si la persona con quien se entienda la diligencia se niega a recibir la cédula, el notificador del Tribunal la fijará en un lugar visible de dicho domicilio, junto con la copia del acuerdo o resolución a notificar, asentando la razón correspondiente en autos.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ### CAPÍTULO DÉCIMO. DEL PROCEDIMIENTO DISCIPLINARIO Y DE LAS SANCIONES ADMINISTRATIVAS
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 67.
 
-Los servidores del Tribunal, podrán ser sancionados en la forma, términos y por las causas de responsabilidad administrativa previstas en la ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+Los servidores públicos del Tribunal, podrán ser sancionados en la forma, términos y por las causas de responsabilidad administrativa previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 68.
 
 Las sanciones por la comisión de faltas administrativas, serán aplicadas por el Contralor General, a excepción de la destitución del cargo e inhabilitación que serán facultad exclusiva del Pleno. En todo caso, serán determinadas tomando en consideración la gravedad de la falta, la incidencia o reincidencia de la misma y el comportamiento del servidor durante el desempeño de sus funciones.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 69.
 
-La Contraloría General iniciará el procedimiento disciplinario para identificar, investigar y determinar las responsabilidades administrativas en que pudieron haber incurrido los servidores del Tribunal, con motivo de las denuncias o quejas que se presenten o de la revisión de los asuntos de su competencia.
+La Contraloría General iniciará el procedimiento disciplinario para identificar, investigar y determinar las responsabilidades administrativas en que pudieron haber incurrido los servidores públicos del Tribunal, con motivo de las denuncias o quejas que se presenten o de la revisión de los asuntos de su competencia.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 70.
 
 Las denuncias o quejas que se formulen, deberán presentarse por escrito con los elementos probatorios para establecer la presunción de responsabilidad del servidor de que se trate.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 71.
 
 Para la determinación de las responsabilidades, la Contraloría General o en su caso el Pleno, deberán otorgarle al servidor respectivo, la garantía de audiencia, corriéndole traslado del escrito de denuncia o queja para que manifieste lo que a su derecho corresponda y ofrezca pruebas de descargo.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 72.
 
-Al concluir el procedimiento a que se refieren el artículo anterior, la Contraloría General del Tribunal emitirá el proyecto de resolución que corresponda.
+Al concluir el procedimiento a que se refiere el artículo anterior, la Contraloría General del Tribunal emitirá el proyecto de resolución que corresponda.
 
 Una vez que haya sido aprobada por el Pleno, el Contralor General la notificará dentro del plazo de cuarenta y ocho horas al servidor en forma personal, y al denunciante o quejoso personalmente o por estrados, según corresponda.
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+
 ### CAPÍTULO DÉCIMO PRIMERO. DE LAS CONTROVERSIAS LABORALES
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 73.
 
@@ -1015,29 +1187,33 @@ Es competencia exclusiva del Pleno resolver en única instancia las controversia
 
 Para dirimir las Controversias Laborales, en lo que no contravenga los fines del Instituto o del Tribunal, del Código Electoral y del Estatuto del Servicio Electoral Profesional, se aplicará la Ley del Trabajo de los Servidores Públicos del Estado y Municipios, y en forma supletoria, en el orden siguiente:
 
-I. La Ley Federal de los Trabajadores al Servicio del Estado;
+a) La Ley Federal de los Trabajadores al Servicio del Estado;
 
-II. La Ley Federal del Trabajo;
+b) La Ley Federal del Trabajo;
 
-III. El Código de Procedimiento Civiles del Estado de México;
+c) El Código de Procedimiento Civiles del Estado de México;
 
-IV. Las Leyes del orden común;
+d) Las Leyes del orden común;
 
-V. Los Principios Generales del Derecho; y
+e) Los Principios Generales del Derecho; y
 
-VI. La equidad.
+f) La equidad.
 
-La sustanciación de las Controversias Laborales, entre el Tribunal y sus Servidores, estará a cargo de una Comisión Sustanciadora que se integrará al recibir la primera Controversia Laboral, por:
+La sustanciación de las Controversias Laborales, entre el Tribunal y sus servidores públicos, estará a cargo de una Comisión Sustanciadora que se integrará al recibir la primera Controversia Laboral, por:
 
-I. Un magistrado del Tribunal designado por turno, quien la presidirá;
+I. Un Magistrado del Tribunal designado por turno, quien la presidirá, procurando que no coincida con la ponencia de adscripción del servidor público involucrado;
 
 II. Un representante de la Dirección de Administración que será designado por su titular, quien dará fe de lo actuado, y
 
-III. Un secretario proyectista designado por el pleno del Tribunal, que siempre será de la misma ponencia del Magistrado instructor, quien fungirá como secretario técnico de la Comisión.
+III. Un secretario proyectista designado por el Pleno del Tribunal, que siempre será de la misma ponencia del Magistrado Instructor, quien fungirá como Secretario Técnico de la Comisión.
 
 Dicha Comisión conocerá de cinco Controversias Laborales consecutivas, pero en todo caso la misma integración no deberá exceder de seis meses, por lo que transcurrido dicho plazo se convocará al Pleno para conformar una nueva Comisión.
 
 La sustanciación de las Controversias Laborales entre el instituto y sus servidores, estará a cargo de un Magistrado designado por turno.
+
+Lo no previsto en este artículo será resuelto por el Pleno.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 74.
 
@@ -1053,25 +1229,27 @@ IV. El servidor podrá promover personalmente o por conducto de apoderado, la co
 
 V. El escrito deberá contener los siguientes requisitos:
 
-VI. El nombre completo del actor y el cargo que desempeñaba en el Instituto o en el tribunal según corresponda;
+a) El nombre completo del actor y el cargo que desempeñaba en el Instituto o en el Tribunal según corresponda;
 
-VII. El nombre completo de su apoderado;
+b) El nombre completo de su apoderado;
 
-VIII. Domicilio en la ciudad de Toluca de lerdo, para recibir notificaciones. En caso de no señalar domicilio o que se señale fuera de la capital del Estado, las notificaciones se realizaran por estrados;
+c) Domicilio en la ciudad de Toluca de Lerdo, para recibir notificaciones. En caso de no señalar domicilio o que se señale fuera de la capital del Estado, las notificaciones se realizaran por estrados;
 
-IX. El acto o resolución que se impugna;
+d) Las prestaciones que se reclaman;
 
-X. Los hechos que sirven de antecedente al acto o resolución que se impugna;
+e) Los hechos que sirven de antecedente a las prestaciones que se reclaman;
 
-XI. El ofrecimiento y aportación de las pruebas que el actor estime necesarias para acreditar sus pretensiones, y
+f) El ofrecimiento y aportación de las pruebas que el actor estime necesarias para acreditar sus pretensiones, y
 
-XII. La firma autógrafa del promovente.
+g) La firma autógrafa del promovente.
+
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 75.
 
 La tramitación y resolución de las controversias laborales, se realizará conforme al procedimiento laboral previsto por la Ley del Trabajo de los Servidores Públicos del Estado y Municipios.
 
-Los actos relativos a la sustanciación de los procedimientos, serán realizados por la Comisión Sustanciadora, por conducto del magistrado instructor, cuando se trate de controversias entre el Tribunal y sus servidores; y por el magistrado instructor, cuando se trate de controversias entre el Instituto y sus servidores.
+Los actos relativos a la sustanciación de los procedimientos, serán realizados por la Comisión Sustanciadora, por conducto del Magistrado Instructor, cuando se trate de controversias entre el Tribunal y sus servidores públicos; y por el Magistrado Instructor, cuando se trate de controversias entre el Instituto y sus servidores.
 
 ## TRANSITORIOS
 
@@ -1112,3 +1290,9 @@ JOSÉ ANTONIO VALADEZ MARTÍN
 SECRETARIO GENERAL DE ACUERDOS
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 26 DE AGOSTO DE 2016.
+
+> <small>[N. DE E. EL "ACUERDO GENERAL TEEM/AG/3/2016 DEL PLENO DEL TRIBUNAL ELECTORAL DEL ESTADO DE MÉXICO POR EL QUE SE MODIFICA EL REGLAMENTO INTERNO", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 1.2 DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE MÉXICO.]</small>
