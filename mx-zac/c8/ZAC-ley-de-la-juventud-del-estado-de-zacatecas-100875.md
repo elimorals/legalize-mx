@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-la-juventud-del-estado-de-zacatecas-100875"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-03"
-last_updated: "2015-09-02"
+last_updated: "2016-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE LA JUVENTUD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 3 de mayo de 2014.
 
@@ -163,7 +163,13 @@ I. Obtener un trabajo digno y bien remunerado, que tome en cuenta las aptitudes 
 
 II. Tener acceso a los estímulos, subsidios y facilidades administrativas decretadas por el Ejecutivo;
 
-III. Acceder a un sistema de empleo, bolsa de trabajo y capacitación laboral, orientado a su desarrollo profesional, económico y personal;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2016)</small>
+
+III. Acceder a un sistema de empleo, bolsa de trabajo y capacitación laboral, orientado a su desarrollo profesional, económico y personal.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2016)</small>
+
+Las empresas en las que laboren los jóvenes de los 15 a los 29 años de edad podrán ser acreedoras a los estímulos referidos en el Artículo 33 de la Ley de Hacienda del Estado de Zacatecas.
 
 IV. Contar con programas permanentes, de acuerdo con la suficiencia presupuestaria, para el fomento y creación de proyectos productivos;
 
@@ -1090,6 +1096,18 @@ ING. JOSÉ MA. GONZÁLEZ NAVA.
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 2 DE SEPTIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+P.O. 27 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 604.- SE ADICIONA UNA FRACCIÓN III AL ARTÍCULO 33 DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, Y SE AGREGA UN PÁRRAFO SEGUNDO A LA FRACCIÓN III DEL ARTÍCULO 9 DE LA LEY DE LA JUVENTUD DEL ESTADO DE ZACATECAS".]
 
 ###### ARTÍCULO PRIMERO.
 
