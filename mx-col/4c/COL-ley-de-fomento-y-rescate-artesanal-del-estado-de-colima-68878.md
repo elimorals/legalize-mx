@@ -4,7 +4,7 @@ identifier: "COL-ley-de-fomento-y-rescate-artesanal-del-estado-de-colima-68878"
 country: "mx"
 rank: "ley"
 publication_date: "2009-05-30"
-last_updated: "2009-05-30"
+last_updated: "2016-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68878&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE FOMENTO Y RESCATE ARTESANAL DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2016.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 30 de mayo de 2009.
 
@@ -121,9 +121,17 @@ g) El Coordinador de Fomento y Rescate Artesanal del Estado de Colima;
 
 h) Cinco artesanos del Registro Estatal;
 
-i) El Director del CENCADAR; y
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2016)</small>
 
-j) Un representante de cada una de las cámaras empresariales en el Estado.
+i) El Director del CENCADAR;
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2016)</small>
+
+j) Un representante de cada una de las cámaras empresariales en el Estado; y
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2016)</small>
+
+k) Un representante de cada una de las comunidades indígenas que elaboren artesanías.
 
 ###### ARTÍCULO 7.
 
@@ -153,9 +161,25 @@ VI. Fomentar la participación de las diversas instituciones de educación super
 
 VII. Diseñar programas de certificación de la calidad de los productos artesanales;
 
-VIII. Marcar los lineamientos a seguir a través del Reglamento para designar la figura de artesano y de artesanía; y
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2016)</small>
 
-IX. En general, aquellas acciones que vengan a analizar las necesidades y la problemática que enfrente el sector artesanal, proponiendo alternativas de solución y que alienten la permanencia de la identidad artesanal del Estado.
+VIII. Marcar los lineamientos a seguir a través del Reglamento para designar la figura de artesano y de artesanía;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2016)</small>
+
+IX. En general, aquellas acciones que vengan a analizar las necesidades y la problemática que enfrente el sector artesanal, proponiendo alternativas de solución y que alienten la permanencia de la identidad artesanal del Estado;
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2016)</small>
+
+X. Emitir la convocatoria pública abierta para otorgar el premio estatal a la actividad artesanal cada año en la que se contendrá los requisitos, objetivos, categorías, jurado y premiación del concurso;
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2016)</small>
+
+XI. Aprobar, en su caso, los programas que le presente el Director; y
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2016)</small>
+
+XII. Aprobar el Reglamento Interior del Consejo.
 
 ### CAPITULO II. DE LA ORGANIZACIÓN DE ARTESANOS
 
@@ -179,7 +203,9 @@ La Secretaría de Fomento Económico ofrecerá a los diversos artesanos por cond
 
 ## TITULO TERCERO. DEL RESCATE ARTESANAL
 
-### CAPITULO I. DEL REGISTRO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE AGOSTO DE 2016)</small>
+
+### CAPITULO I. DEL REGISTRO ESTATAL DE LOS ARTESANOS
 
 ###### ARTÍCULO 13.
 
@@ -267,6 +293,114 @@ La Coordinación y el Consejo promoverán entre las organizaciones de artesanos 
 
 La Coordinación en conjunto con las Dependencias, entidades competentes y Ayuntamientos, fomentarán la utilización de insumos artesanales alternos en las zonas en que, de conformidad con los criterios ecológicos, disposiciones administrativas, normas oficiales y disposiciones jurídicas aplicables, ya no sea posible la explotación de recursos naturales.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE AGOSTO DE 2016)</small>
+
+## TITULO QUINTO. DEL FINANCIAMIENTO PARA EL IMPULSO A LA ACTIVIDAD ARTESANAL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE AGOSTO DE 2016)</small>
+
+### CAPITULO UNICO. DEL FINANCIAMIENTO PARA EL IMPULSO A LA ACTIVIDAD ARTESANAL
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2016)</small>
+
+###### ARTÍCULO 22.
+
+Se crea el Fondo de Impulso a la Actividad Artesanal, el cual será operado y administrado por la Secretaría de Fomento Económico.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2016)</small>
+
+###### ARTÍCULO 23.
+
+El Fondo de Impulso a la Actividad Artesanal estará integrado por:
+
+I. Los recursos que determine el Titular del Poder Ejecutivo del Estado, de conformidad con el Presupuesto de Ingresos;
+
+II. Los bienes muebles e inmuebles que le otorgue el Gobierno del Estado;
+
+III. Los recursos financieros de organismos públicos y privados, Municipales, Estatales, Nacionales e Internacionales;
+
+IV. Todo recurso o bien que pueda obtenerse por herencia, legado o donación;
+
+V. Los créditos que se obtengan a su favor por el sector público o privado; y
+
+VI. La colección de objetos de artesanía que sirvan de base para la exhibición permanente y el equipo museográfico donde se instalen dichas obras.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2016)</small>
+
+###### ARTÍCULO 24.
+
+El objeto del Fondo será:
+
+I. El otorgamiento de apoyos económicos;
+
+II. Financiar proyectos de creación, investigación, preservación, promoción y difusión artesanal;
+
+III. Impulsar el desarrollo y ejecución de proyectos artesanales;
+
+IV. Financiar la adquisición de materia prima, herramientas y equipo;
+
+V. Elaboración y ejecución de proyectos productivos artesanales;
+
+VI. Programas para la preservación e impulso de la tradición artesanal;
+
+VII. Créditos para la constitución de empresas de la actividad artesanal; y
+
+VIII. Campañas de difusión y publicidad de los productos Artesanales.
+
+La Secretaría de Fomento Económico, brindará la asesoría necesaria para la obtención de financiamientos adecuados, cuando para ello fuere requerido.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2016)</small>
+
+###### ARTÍCULO 25.
+
+Los bienes que constituyen el Fondo son inembargables e imprescriptibles.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2016)</small>
+
+###### ARTÍCULO 26.
+
+El Fondo no podrá ser utilizado para fines diferentes a los especificados en la presente ley.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE AGOSTO DE 2016)</small>
+
+## TITULO SEXTO. DEL PREMIO ESTATAL Y DE LA CAPACITACIÓN
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE AGOSTO DE 2016)</small>
+
+### CAPITULO PRIMERO. DEL PREMIO ESTATAL A LA ACTIVIDAD ARTESANAL
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2016)</small>
+
+###### ARTÍCULO 27.
+
+El titular del Poder Ejecutivo del Estado otorgará el Premio Estatal a la Actividad Artesanal, en el marco del día internacional del Artesano.
+
+El Consejo emitirá la convocatoria pública abierta para otorgar el reconocimiento estatal cada año, en la que se contendrá los requisitos, objetivos, categorías, jurado, premiación del concurso público, así como el monto del premio.
+
+El Consejo deberá emitir el Reglamento mediante el cual se establece las bases para otorgar el Premio Estatal de Artesanías, considerando en todo momento la perspectiva de género.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE AGOSTO DE 2016)</small>
+
+### CAPITULO SEGUNDO. DE LA CAPACITACIÓN
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2016)</small>
+
+###### ARTÍCULO 28.
+
+Los artesanos independientes o constituidos como personas morales, tendrán acceso a becas o ayudas para la formación de la actividad artesanal, a través de cursos formativos en técnicas de elaboración manual.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2016)</small>
+
+###### ARTÍCULO 29.
+
+El Consejo, en coordinación con las dependencias y Ayuntamientos correspondientes, promoverá entre los artesanos independientes y las organizaciones de artesanos, la aplicación de programas de apoyo a la productividad, mejoramiento de calidad y de fomento a la comercialización de sus artículos artesanales.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2016)</small>
+
+###### ARTÍCULO 30.
+
+El Consejo, a través de las dependencias, instituciones y organismos públicos y privados, de conformidad con la legislación aplicable, establecerán centros de capacitación que se dediquen a promover el conocimiento de nuevas técnicas, diseños y procesos de producción, para mejorar la actividad artesanal del Estado.
+
 ## TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
@@ -278,3 +412,13 @@ El Gobernador del Estado dispondrá que se publique, circule y observe".
 Dado en el Recinto Oficial del Poder Legislativo, a los veintiún días del mes de mayo del año dos mil nueve.
 
 C. MIRIAM YADIRA LARA ARTEAGA, DIPUTADA PRESIDENTA. Rúbrica.- C. MARTIN ALCARAZ PARRA, DIPUTADO SECRETARIO. Rúbrica.- C. FERNANDO RAMÍREZ GONZÁLEZ, DIPUTADO SECRETARIO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 124 SE REFORMAN LOS INCISOS I), J) Y SE ADICIONA EL INCISO K) A LA FRACCIÓN IV DEL ARTÍCULO 6°; SE REFORMAN LAS FRACCIONES VIII Y IX Y SE ADICIONAN LAS FRACCIONES X, XI Y XII, DEL ARTÍCULO 8; SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO I DEL TÍTULO TERCERO, DENOMINÁNDOSE DEL REGISTRO ESTATAL DE LOS ARTESANOS; SE ADICIONA UN TÍTULO QUINTO Y UN CAPÍTULO ÚNICO, DENOMINADO DEL FINANCIAMIENTO PARA EL IMPULSO A LA ACTIVIDAD ARTESANAL, COMPRENDE LOS ARTÍCULOS 22, 23, 24, 25 Y 26; SE ADICIONA EL TÍTULO SEXTO DENOMINADO DEL PREMIO ESTATAL Y DE LA CAPACITACIÓN, INTEGRADO POR DOS CAPÍTULOS, EL PRIMER DENOMINADO DEL PREMIO ESTATAL A LA ACTIVIDAD ARTESANAL, CON EL ARTÍCULO 27; EL SEGUNDO DENOMINADO DE LA CAPACITACIÓN; COMPRENDE LOS ARTÍCULOS 28, 29 Y 30 TODOS DE LA LEY DE FOMENTO Y RESCATE ARTESANAL DEL ESTADO DE COLIMA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
