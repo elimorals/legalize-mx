@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-19080"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2016-01-23"
+last_updated: "2016-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2015.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 23 DE ENERO DE 2016 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 30 DE DICIEMBRE DE 2015.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre del 2000.
 
@@ -466,6 +466,10 @@ g) Ejidos, comunidades, uniones de ejidos y de comunidades, la empresa social co
 h) Las asociaciones rurales de interés colectivo.
 
 i) Las integradoras de comercialización de productos agrícolas zacatecanos que promueva el Estado.
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2016)</small>
+
+III. Las empresas que contraten a jóvenes en la edad comprendida de los 15 a los 29 años cumplidos y que no cuenten con antecedentes laborales, formales en la entidad o fuera de ella. Y que al mismo tiempo alcancen un veinte por ciento de su plantilla laboral en el rango de edad mencionado.
 
 DE LAS OBLIGACIONES
 
@@ -3357,19 +3361,19 @@ II. Reproducción de material informático ecológico y ambiental en medio de al
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-III. Reproducción de material con información ecológico (sic) y ambiental disponible en archivos digitalizados a disco compacto $169.00 c/u;
+III. Reproducción de material con información ecológico y ambiental disponible en archivos digitalizados a disco compacto $169.00 c/u;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-IV. Información de planos con información ecológico (sic) y ambiental $406.00 c/u;
+IV. Información de planos con información ecológico y ambiental $406.00 c/u;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-V. Reproducción de planos con información ecológico (sic) y ambiental $169.00 c/u;
+V. Reproducción de planos con información ecológico y ambiental $169.00 c/u;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VI. Asesoría y capacitación en materias de ecología y medio ambiente por cada (sic) $541.00
+VI. Asesoría y capacitación en materias de ecología y medio ambiente por cada $541.00
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
@@ -3501,7 +3505,7 @@ d) A través de empresas privadas de mensajería para envío al extranjero $676.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-Los mismos importes y tarifas serán aplicables por la expedición de los documentos físicos o que en medio magnético u óptico realicen los Poderes Legislativo y Judicial y que le sean solicitados en materia de acceso a la información pública. Lo anterior sin perjuicio de las exenciones o no causación de derechos que por estos conceptos se encuentren previstas (sic) en otras leyes.
+Los mismos importes y tarifas serán aplicables por la expedición de los documentos físicos o que en medio magnético u óptico realicen los Poderes Legislativo y Judicial y que le sean solicitados en materia de acceso a la información pública. Lo anterior sin perjuicio de las exenciones o no causación de derechos que por estos conceptos se encuentren previstas en otras leyes.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
@@ -3868,3 +3872,15 @@ P.O. 30 DE DICIEMBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día primero de enero del año dos mil dieciséis, previa publicación en el Periódico Oficial Órgano del Gobierno del Estado de Zacatecas.
+
+P.O. 27 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 604.- SE ADICIONA UNA FRACCIÓN III AL ARTÍCULO 33 DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, Y SE AGREGA UN PÁRRAFO SEGUNDO A LA FRACCIÓN III DEL ARTÍCULO 9 DE LA LEY DE LA JUVENTUD DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
