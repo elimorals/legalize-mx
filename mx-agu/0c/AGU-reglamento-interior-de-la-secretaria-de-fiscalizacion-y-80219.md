@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-fiscalizacion-y-80219"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-07"
-last_updated: "2016-06-06"
+last_updated: "2016-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FISCALIZACION Y RENDICION DE CUENTAS, DEL ESTADO DE AGUASCALIENTES
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE AGOSTO DE 2016 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS, PUBLICADO EN EL P.O. DE 6 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FISCALIZACION Y RENDICION DE CUENTAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016 (ABROGADO).
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE AGOSTO DE 2016.]</small>
 
 Reglamento publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 7 de marzo de 2011.
 
@@ -491,12 +491,14 @@ SECRETARIO DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS.
 
 P.O. 6 DE JUNIO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS”]
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS”.]
 
 ###### ARTÍCULO PRIMERO.
 
 El presente Reglamento entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
+> <small>(F. DE E., P.O. 29 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-Se abroga el Reglamento Interior de la Secretaría de Fiscalización y Rendición de Cuentas, publicado en el Periódico Oficial del Estado el día catorce de febrero del año dos mil once.
+Se abroga el Reglamento Interior de la Secretaría de Fiscalización y Rendición de Cuentas, publicado en el Periódico Oficial del Estado el día siete de marzo del año dos mil once.
