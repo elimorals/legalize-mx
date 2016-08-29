@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-ley-ambiental-del-estado-de-nuevo-leon-60645"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-29"
-last_updated: "2008-02-29"
+last_updated: "2016-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEON
 
-REGLAMENTO DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEON
+REGLAMENTO DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 29 de febrero de 2008.
 
@@ -46,6 +46,8 @@ Las disposiciones de este ordenamiento son de orden público e interés social y
 ###### Artículo 2.
 
 En la aplicación de este Reglamento, se consideran las definiciones contenidas en la Ley Ambiental del Estado de Nuevo León, a ésta se hará alusión como la Ley, en la Ley General del Equilibrio Ecológico y la Protección al Ambiente a la que se le llamará Ley General, en los Reglamentos que de ella se derivan, en la Ley General para la Prevención y Gestión Integral de los Residuos y en la Ley General de Vida Silvestre.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 29 DE AGOSTO DE 2016, TODAS LAS MENCIONES DE LA AGENCIA DE PROTECCIÓN AL MEDIO AMBIENTE Y RECURSOS NATURALES A QUE HACE REFERENCIA EL PRESENTE ORDENAMIENTO, SE ENTENDERÁN REFERIDAS COMO SECRETARÍA DE DESARROLLO SUSTENTABLE.]</small>
 
 ###### Artículo 3.
 
@@ -1927,7 +1929,7 @@ I. La investigación detallada de la magnitud y características de la contamina
 
 II. La evaluación de riesgos a la salud y al ambiente que pudieran derivar de la contaminación del sitio;
 
-III. La investigación de los métodos o técnicas ambientalmente adecuadas para remediar sitios contaminados; y, (sic)
+III. La investigación de los métodos o técnicas ambientalmente adecuadas para remediar sitios contaminados; y,
 
 IV. La elaboración y ejecución del proyecto para remediar sitios contaminados, una vez que este sea aprobado por la Agencia;
 
@@ -2591,6 +2593,130 @@ La autoridad que emitió el acto o la resolución impugnada, autorizará con su 
 
 El titular del organismo competente, sin perjuicio de lo dispuesto en el artículo anterior, podrá substanciar el recurso de inconformidad, así como llevar a cabo las autorizaciones a que se refiere el segundo párrafo del precepto citado.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2016)</small>
+
+## TÍTULO DÉCIMO PRIMERO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO ÚNICO. DEL CONSEJO DE PARTICIPACIÓN CIUDADANA
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2016)</small>
+
+###### Artículo 263.
+
+La Secretaría contará con un Consejo de Participación Ciudadana incluyente, plural y de carácter honorífico, representativo de la sociedad civil, que sesionará semestralmente, como mínimo.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2016)</small>
+
+###### Artículo 264.
+
+El Consejo será un órgano asesor, consultor, propositivo y promotor de las acciones que se emprendan en beneficio de la protección al medio ambiente y los recursos naturales en el ámbito estatal, de conformidad con lo dispuesto por la Ley.
+
+El Consejo estará integrado por:
+
+I. Un Presidente Honorario, que será el Gobernador del Estado, con derecho de voz y de voto;
+
+II. Un Presidente, que será designado y removido por el Gobernador del Estado, de entre los consejeros ciudadanos convocados, que tendrá derecho de voz y de voto, y al cual se le denominará Consejero Presidente;
+
+III. Un Secretario Técnico, que será el titular de la Secretaría, que tendrá derecho de voz y voto; y
+
+IV. Un grupo de consejeros integrados de manera proporcional, cuyo número no deberá de ser menor a diez ni mayor a veintiuno, que podrán organizarse en comisiones de trabajo, para el desempeño de sus funciones, en los términos del presente Reglamento.
+
+Los consejeros ciudadanos que integran el Consejo contarán con voz y voto, y su participación será a título de colaboración ciudadana y tendrá carácter honorífico, rigiéndose por principios de buena fe y propósitos de interés general.
+
+El titular de la Secretaría, en su carácter de Secretario Técnico del Consejo, deberá proveer lo necesario, a efecto de que se establezca en la estructura orgánica de la Secretaría, un enlace que desempeñe las funciones de la Secretaría Técnica, y otorgue el apoyo logístico y administrativo necesario para el desarrollo de las actividades del Consejo.
+
+Las ausencias del Presidente Honorario serán suplidas por la persona que al efecto éste designe. Las ausencias del Consejero Presidente serán suplidas por el consejero ciudadano que al efecto designe el titular de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2016)</small>
+
+###### Artículo 265.
+
+Los integrantes del Consejo de Participación Ciudadana serán designados por invitación del Gobernador del Estado, a propuesta del titular de la Secretaría, de entre los sectores de la sociedad y organismos públicos, privados, académicos, no gubernamentales y/o científicos, involucrados en las materias objeto de la Secretaría en materia de medio ambiente y recursos naturales.
+
+Los consejeros durarán en su encargo dos años, y al término de dicho período podrán ser nombrados o reelectos, únicamente para un período inmediato de la misma duración.
+
+Sin perjuicio de lo señalado, sólo podrá sustituirse a los consejeros por renuncia, fallecimiento, incapacidad permanente, inasistencias, acciones contrarias al objeto de la Secretaría en materia de medio ambiente y recursos naturales, o por faltas graves que determine el mismo Consejo. En tal caso, el consejero que fuera designado como suplente, concluirá el periodo por el que fue nombrado el titular al que sustituye. Las situaciones no previstas en ésta materia, serán resueltas por el Consejo por mayoría de votos.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2016)</small>
+
+###### Artículo 266.
+
+El Consejo de Participación Ciudadana tendrá las siguientes facultades:
+
+I. Fungir como órgano de asesoría y consulta de la Secretaría;
+
+II. Proponer y dar seguimiento al debido cumplimiento de las políticas públicas, programas, proyectos y acciones que se emprendan en beneficio del medio ambiente y los recursos naturales;
+
+III. Proponer líneas estratégicas en las diferentes temáticas relacionadas con el objeto y atribuciones de la Secretaría en materia de Medio Ambiente;
+
+IV. Emitir opiniones al titular de la Secretaría para el mejor desempeño de las atribuciones de la Secretaría;
+
+V. Integrar comisiones o comités para la atención de asuntos específicos; y
+
+VI. Las que determine (sic) las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2016)</small>
+
+###### Artículo 267.
+
+El Consejero Presidente tendrá las siguientes facultades:
+
+I. Presidir las sesiones del Consejo y hacer cumplir sus acuerdos;
+
+II. Convocar a las sesiones del Consejo a través del Secretario Técnico;
+
+III. Proponer al Consejo los planes de acción adicionales que considere pertinentes;
+
+IV. Invitar a las sesiones del Consejo, con voz pero sin voto, a representantes de dependencias u organismos de los gobiernos federal, estatal y municipales, así como de los sectores social y privado relacionados con el medio ambiente y recursos naturales;
+
+V. Coordinar a las Comisiones de trabajo del Consejo; y
+
+VI. Las que le señalen las demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2016)</small>
+
+###### Artículo 268.
+
+El Consejo celebrará sesiones ordinarias semestralmente, y extraordinarias cuando así se convoquen por el Presidente Honorario, el Consejero Presidente o el Secretario Técnico.
+
+El Consejo sesionará previa convocatoria hecha por escrito, pudiendo ser enviada vía fax o por medios electrónicos, por el Secretario Técnico, con una anticipación de cuando menos cinco días naturales a la fecha señalada para la sesión, de acuerdo al calendario de sesiones que se apruebe en la primera sesión de instalación, o en la primera sesión de cada año. Para poder sesionar de manera ordinaria o extraordinaria se requerirá la presencia de la mayoría de los Consejeros, incluido el Presidente Honorario del Consejo o su suplente.
+
+Cuando se proponga tratar asuntos de interés general no comprendidos en el orden del día, se consultará con los integrantes del Consejo, y en caso de aceptación por mayoría simple, se desahogarán después del último punto listado.
+
+En todos los casos, los acuerdos del Consejo serán tomados por mayoría de votos de los integrantes presentes del Consejo. En caso de empate, el Presidente Honorario o quien lo supla, tendrá voto de calidad.
+
+El Secretario Técnico deberá elaborar las actas sobre los acuerdos tomados, las cuales deberán estar firmadas por el Presidente Honorario del Consejo, por el Consejero Presidente, por el Secretario Técnico y por los consejeros asistentes.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2016)</small>
+
+###### Artículo 269.
+
+El Consejo podrá constituir comisiones de trabajo, ya sea de carácter permanente o temporal, con el objeto de realizar estudios, análisis e investigaciones de determinada materia o problemática, que permitan formular las opiniones correspondientes a la Secretaría, o para proponer acciones concretas en los asuntos relativos a las áreas de competencia ambiental de la Secretaría.
+
+Las Comisiones permanentes serán las siguientes:
+
+I. De Calidad del Aire;
+
+II. De Suelos y Residuos;
+
+III. De Ordenamiento Ecológico, Impacto y Riesgo Ambiental;
+
+IV. De Manejo Integral del Agua;
+
+V. De Educación y Cultura Ambiental;
+
+VI. De reforestación;
+
+VII. De bienestar animal.
+
+Se podrán constituir el número de Comisiones temporales que determine el Consejo, para los asuntos que el mismo considere necesario establecer. Dichas Comisiones, contarán con un Coordinador, designado por el Consejero Presidente, y se integrarán con los Consejeros que sean convocados por éste.
+
+Dichas Comisiones, contarán con un Coordinador, designado por el Presidente Honorario del Consejo, y se integrarán con los Consejeros que sean convocados por éste.
+
+Los avances, informes especiales, análisis específicos o conclusiones de los trabajos de las Comisiones, deberán de ser entregados de forma escrita y en medios magnéticos a la Presidencia Honoraria del Consejo, al Consejero Presidente y a la Secretaría Técnica.
+
 T R A N S I T O R I O S
 
 Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -2620,3 +2746,17 @@ EL C. DIRECTOR GENERAL DE LA AGENCIA DE PROTECCIÓN AL MEDIO AMBIENTE Y RECURSOS
 JOSÉ LUIS TAMÉZ GARZA
 
 Hoja de firmas correspondiente al Reglamento de a (sic) Ley Ambiental del Estado de Nuevo León, firmado el día 28 de febrero de 2008 en la Ciudad de Monterrey, N.L.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA, UN TÍTULO DÉCIMO PRIMERO CON UN CAPÍTULO ÚNICO TITULADO DEL CONSEJO DE PARTICIPACIÓN CIUDADANA, LOS ARTÍCULOS 263, 264, 265, 266, 267, 268 Y 269; TODOS ELLOS DEL REGLAMENTO DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN".]
+
+###### ARTÍCULO PRIMERO.
+
+Las reformas al presente Reglamento entrarán en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Todas las menciones de la Agencia de Protección al Medio Ambiente y Recursos Naturales a que hace referencia el reglamento que mediante el presente Decreto se reforma, se entenderán referidas como Secretaría de Desarrollo Sustentable.
