@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-seguridad-privada-para-el-distrito-6972
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-24"
-last_updated: "2009-08-24"
+last_updated: "2016-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69728&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2009-08-20"
 ---
 # REGLAMENTO DE LA LEY DE SEGURIDAD PRIVADA PARA EL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO DE LA LEY DE SEGURIDAD PRIVADA PARA EL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 29 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY DE SEGURIDAD PRIVADA PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE AGOSTO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 24 de agosto de 2009.
 
@@ -977,3 +979,23 @@ EL SECRETARIO DE SEGURIDAD PÚBLICA
 (Firma)
 
 MANUEL MONDRAGÓN Y KALB
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 29 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY DE SEGURIDAD PRIVADA PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se abroga el Reglamento de la Ley de Seguridad Privada para el Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 4 de septiembre del 2009 (sic).
+
+CUARTO. Las personas físicas o morales que a la fecha de entrada en vigor del Reglamento, presten servicios o realicen actividades de seguridad privada en la Ciudad de México y tengan vigentes sus respectivos permisos, autorizaciones, constancias del aviso de registro o licencias, continuarán en ejercicio de los mismos hasta el vencimiento del plazo respectivo, sin perjuicio de las obligaciones compatibles que les impone este Reglamento. Al concluir la vigencia de su autorización, permiso o revalidación sólo podrán prestar servicios o realizar actividades con el permiso, autorización, constancia del aviso de registro y la licencia que se otorgue de conformidad con la Ley y este Reglamento.
+
+QUINTO. Los procedimientos administrativos, supervisiones o verificaciones iniciados bajo la vigencia de los ordenamientos abrogados, continúan hasta su conclusión bajo las reglas que ellos les imponen.
+
+SEXTO. La Secretaría, por conducto de la Dirección General, expedirá el Manual de Normas Técnicas y Trámites Administrativos en un término de noventa días contados a partir de la entrada en vigor de este Reglamento.
+
+SÉPTIMO. Los Lineamientos, trámites y servicios al público, que establece el presente Reglamento, contarán con su formato correspondiente, mismo que será publicado en la Gaceta Oficial de la Ciudad de México e incorporado al Manual de Trámites y Servicios al Público de la Ciudad de México.
