@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-finanzas-y-93513"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-25"
-last_updated: "2016-01-25"
+last_updated: "2016-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 25 de marzo de 2013.
 
@@ -1173,7 +1173,9 @@ LIII. Mantener actualizado el inventario de los créditos fiscales, a efecto de 
 
 LIV. Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asigne el Subsecretario en el ámbito de sus facultades.
 
-La jurisdicción de operación de los Centros Regionales de Atención al Contribuyente comprende los Municipios de:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2016)</small>
+
+La jurisdicción de operación de los Centros Regionales de Atención al Contribuyente comprende los municipios de:
 
 a) ACTOPAN: Actopan, El Arenal, Francisco I. Madero, Mixquiahuala de Juárez, Progreso de Obregón, San Salvador y Santiago de Anaya.
 
@@ -1183,7 +1185,9 @@ c) HUICHAPAN: Huichapan, Nopala de Villagrán y Tecozautla.
 
 d) IXMIQUILPAN: Alfajayucan, Cardonal, Chilcuautla, Ixmiquilpan y Tasquillo.
 
-e) PACHUCA DE SOTO: Atotonilco el Grande, Epazoyucan, Huasca de Ocampo, Mineral del Chico, Mineral del Monte, Mineral de la Reforma, Omitlán de Juárez, Pachuca de Soto, San Agustín Tlaxiaca, Zempoala y Zapotlán de Juárez.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2016)</small>
+
+e) PACHUCA DE SOTO: Pachuca de Soto, San Agustín Tlaxiaca, Zempoala y Zapotlán de Juárez.
 
 f) TEPEAPULCO: Almoloya, Apan, Emiliano Zapata, Tepeapulco y Tlanalapa.
 
@@ -1198,6 +1202,10 @@ j) TULANCINGO .DE BRAVO: Acatlán, Acaxochitlán, Agua Blanca de Iturbide, Cuaut
 k) ZACUALTIPÁN DE ÁNGELES: Calnali, Eloxochitlán, Juárez Hidalgo, Lolotla, Metztitlán, Molango de Escamilla, San Agustín Metzquititlán, Tepehuacán de Guerrero, Tianguistengo, Tlahuiltepa, Xochicoatlán y Zacualtipán de Ángeles.
 
 l) ZIMAPÁN: Chapulhuacán, Jacala de Ledezma, La Misión, Nicolás Flores, Pacula, Pisaflores y Zimapán.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2016)</small>
+
+m) MINERAL DE LA REFORMA: Atotonilco el Grande, Epazoyucan, Huasca de Ocampo, Mineral del Chico, Mineral del Monte, Mineral de la Reforma y Omitlán de Juárez.
 
 ### CAPÍTULO III. DE LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES ADSCRITAS A LA SUBSECRETARÍA DE EGRESOS
 
@@ -1742,3 +1750,11 @@ P.O. 25 DE ENERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNAMENTAL.- QUE REFORMA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 29 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN”.]
+
+PRIMERO. El presente Decreto entrará en vigor el 30 de agosto del 2016, previa publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Los asuntos que a la fecha de entrada en vigor de la presente reforma se encuentren en trámite y que correspondan a los Municipios de Atotonilco el Grande, Epazoyucan, Huasca de Ocampo, Mineral del Chico, Mineral del Monte, Mineral de la Reforma y Omitlán de Juárez, serán resueltos hasta su conclusión por el Centro Regional de Atención al Contribuyente de Pachuca de Soto, en razón de la jurisdicción con que fueron iniciados.
