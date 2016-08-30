@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-la-fiscalia-general-del-estado-de-quintana-roo-115571"
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-05"
-last_updated: "2016-07-05"
+last_updated: "2016-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2016.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 5 de julio de 2016.
 
@@ -73,7 +73,7 @@ III. Constitución Local: A la Constitución Política del Estado Libre y Sobera
 
 IV. Código Nacional: Al Código Nacional de Procedimientos Penales;
 
-V. Contraloría: A la Contraloría Interna de la Fiscalía General del Estado;
+V. (DEROGADA, P.O. 30 DE AGOSTO DE 2016)
 
 VI. Dirección de Investigación: A la Dirección de Investigación de la Fiscalía General del Estado;
 
@@ -299,7 +299,7 @@ XI. El Instituto de Formación Profesional e Investigación Jurídica;
 
 XII. La Dirección de Administración y Planeación;
 
-XIII. La Contraloría Interna;
+XIII. (DEROGADA, P.O. 30 DE AGOSTO DE 2016)
 
 XIV. La Dirección de Participación Ciudadana, Prevención del Delito y Servicios a la Comunidad;
 
@@ -785,67 +785,25 @@ XIX. Gestionar el pago de viáticos y gastos que correspondan a las actividades 
 
 XX. Las demás que le confieran las disposiciones legales aplicables, el reglamento interior y las que le encomiende el Fiscal General.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2016)</small>
+
 ### Capítulo Décimo. De la Contraloría Interna de la Fiscalía General del Estado
 
 ###### Artículo 22.
 
-La Contraloría interna es la responsable de la fiscalización; vigilancia y control del uso, manejo y destino de los recursos de la Fiscalía General del Estado; así como del desempeño de los órganos, funcionarios y servidores públicos que la integran.
-
-Estará adscrita administrativamente a la Fiscalía General del Estado, sin que esto se traduzca en subordinación alguna, pues gozará de autonomía técnica y de gestión en el ejercicio de sus atribuciones.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2016)
 
 ###### Artículo 23.
 
-El titular de la Contraloría, deberá satisfacer los siguientes requisitos:
-
-I. Ser mexicano por nacimiento, sin tener o adquirir otra nacionalidad, ciudadano quintanarroense, además de estar en pleno goce y ejercicio de sus derechos civiles y políticos;
-
-II. Tener treinta y cinco años de edad, el día de la designación;
-
-III. Poseer al día de la designación, con una antigüedad mínima de cinco años, título y cédula profesional de Licenciado en Derecho, Contabilidad, Administración, Economía o Finanzas;
-
-IV. Gozar de buena reputación, no estar sujeto a proceso penal y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter culposo;
-
-V. Tener una residencia efectiva en el Estado durante los últimos diez años previos a su designación;
-
-VI. No ser secretario, ni Fiscal General, subsecretario u oficial mayor en la administración pública estatal, a menos que se separe de su encargo con cuatro años de anticipación al día de su nombramiento.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2016)
 
 ###### Artículo 24.
 
-El Titular de la Contraloría Interna, será elegido por el voto de las dos terceras partes de los miembros de la Legislatura del Estado o la Diputación Permanente, en los recesos de ésta, de entre las propuestas que formulen los grupos parlamentarios, mediante el siguiente procedimiento:
-
-I. La Presidencia de la Mesa Directiva de la Legislatura, o de la Diputación Permanente, en su caso, convocará a los grupos parlamentarios, a presentar una propuesta respecto del cargo de Contralor Interno, ante la Comisión de Justicia.
-
-II. Los grupos parlamentarios presentarán sus propuestas por escrito, presentando por cada una de ellas el currículum vitae con documentación que sustente el mismo; la documentación deberá presentarse en original y copia para compulsa, o bien certificadas. Dichas propuestas deberán realizarse en un término máximo de cinco días naturales, contados a partir de la fecha en que fueron notificados.
-
-III. La Comisión de Justicia, una vez vencido el plazo señalado en la fracción que antecede, se reunirá para revisar si las propuestas cumplen con los requisitos de ley, y elaborará el dictamen correspondiente, mismo que contendrá la relación de los nombres de las personas propuestas que satisficieron los requisitos legales.
-
-IV. El citado dictamen se presentará, a más tardar en los tres días siguientes al vencimiento del plazo señalado en la fracción II del presente artículo, en sesión plenaria de la Legislatura o la Diputación Permanente, según corresponda, para efecto de que los legisladores designen, de entre las propuestas que cumplieron con los requisitos, al Contralor Interno de la Fiscalía General del Estado;
-
-V. La designación que se realice, se mandará a publicar en el Periódico Oficial del Estado;
-
-VI. El designado deberá comparecer ante la propia Legislatura o la Diputación Permanente, a rendir la protesta de ley. El Contralor Interno de la Fiscalía General del Estado durará en su encargo seis años.
-
-La retribución del Contralor Interno será acorde con las atribuciones y grado de responsabilidad y se establecerá en el tabulador de remuneraciones de los servidores públicos de la Fiscalía General del Estado. Sus ausencias temporales serán cubiertas por el servidor público, designado por el Fiscal General, de entre los que le sigan en jerarquía.
-
-El Titular de la Contraloría Interna no podrá, durante su ejercicio, desempeñar ningún otro empleo, cargo o comisión oficial y sólo podrá recibir percepciones derivadas de la docencia, regalías, derechos de autor o publicaciones siempre que no se afecte la independencia, imparcialidad y equidad que debe regir el ejercicio de su función; también podrá ejercer cargos no remunerados en asociaciones científicas, literarias o de beneficencia.
-
-La Legislatura del Estado, o en su caso, la Diputación Permanente, con el voto de las dos terceras partes de sus integrantes, podrán revocar de su cargo al Contralor Interno, cuando deje de reunir alguno de los requisitos de elegibilidad, violente los principios rectores de su función o incurra en responsabilidad, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2016)
 
 ###### Artículo 25.
 
-La Contraloría tiene las siguientes atribuciones:
-
-I. Realizar las acciones de auditoría, fiscalización, control, vigilancia o inspección en relación a los actos, omisiones y otras irregularidades de servidores públicos en el manejo, aplicación, administración de fondos, valores y de recursos económicos de la Fiscalía General del Estado, en los términos de la legislación aplicable;
-
-II. Revisar el cumplimiento de los programas autorizados, de conformidad con las normas, lineamientos y demás disposiciones que dicte la administración pública;
-
-III. Coordinar y vigilar el cumplimiento de las observaciones emitidas por las instancias fiscalizadoras, a fin de solventar su cumplimiento;
-
-IV. Coordinar y supervisar los procesos de entrega-recepción, así como las declaraciones patrimoniales de los integrantes de las diversas áreas de la Fiscalía General del Estado;
-
-V. Recibir quejas en relación con los servidores públicos de la Fiscalía General del Estado, e instaurar y resolver los procedimientos de Responsabilidad Administrativa que sean de su competencia en contra de los servidores públicos de la Fiscalía General del Estado, imponiendo las sanciones establecidas en el artículo 87 de la presente ley, mediante el procedimiento que se establezca en el reglamento interior, y
-
-VI. Las demás que le confieran las disposiciones legales aplicables y el reglamento interior.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2016)
 
 ### Capítulo Décimo Primero
 
@@ -1743,7 +1701,7 @@ I. El Fiscal General, quien lo presidirá y en su ausencia será suplido por la 
 
 II. Un Vice-Fiscal;
 
-III. El Contralor Interno;
+III. (DEROGADA, P.O. 30 DE AGOSTO DE 2016)
 
 IV. El Director de Investigación y Acusación;
 
@@ -2023,7 +1981,7 @@ II. Uno de los Vice-Fiscales, designado por el Fiscal General;
 
 III. El Director de Administración y Planeación;
 
-IV. El Contralor Interno, y
+IV. (DEROGADA, P.O. 30 DE AGOSTO DE 2016)
 
 V. Un Secretario Técnico, quién tendrá voz pero no voto.
 
@@ -2162,3 +2120,13 @@ LIC. ROBERTO BORGE ANGULO.
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 C. EDUARDO ROMAN QUIAN ALCOCER.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 448 POR EL QUE SE DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
