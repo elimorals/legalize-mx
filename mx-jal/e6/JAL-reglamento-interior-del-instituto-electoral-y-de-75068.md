@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-instituto-electoral-y-de-75068"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-06"
-last_updated: "2016-05-19"
+last_updated: "2016-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75068&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2016.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 6 de mayo de 2010.
 
@@ -435,6 +435,8 @@ De los Consejeros Electorales del Consejo General.
 
 ###### Artículo 7.
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2016)
+
 1. Corresponde a los Consejeros Electorales las atribuciones siguientes:
 
 I. Integrar el quórum de las sesiones del Consejo General y participar en sus deliberaciones con derecho a voz y voto;
@@ -456,6 +458,10 @@ VIII. Asistir a eventos de carácter académico, cultural, cívico, instituciona
 IX. Participar en los eventos a que sea invitado, en su calidad de Consejero Electoral, por organizaciones académicas, culturales, cívicas o institucionales y sociales, nacionales o extranjeras, buscando que dicha participación redunde en beneficio de los fines del Instituto; y
 
 X. Proponer al Presidente la designación del personal adscrito a sus oficinas, de acuerdo con las disponibilidades presupuestales y las normas administrativas correspondientes.
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2016)</small>
+
+XI. Asistir a las reuniones de trabajo a las que sean convocados, de conformidad a lo establecido en el articulo 17 del Reglamento de Sesiones del Consejo General del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, debiendo quedar registro de la versión estenográfica del desarrollo de las mismas en medios auditivos o visuales, la cual servirá como base para elaborar la minuta correspondiente, misma que deberá ser firmada por los Consejeros Electorales participantes, así como por el Secretario Ejecutivo en su caso; además de que las mismas deberán ser transmitidas en tiempo real en el portal oficial de internet del instituto, lo anterior con el objeto de garantizar el principio rector de la función electoral de máxima publicidad.
 
 2. Son atribuciones de los Consejeros Electorales que presidan una Comisión:
 
@@ -1227,11 +1233,11 @@ X. Las demás que le encomiende el Contralor General.
 
 De las Comisiones y Comités.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 33.
 
-1. Las Comisiones contribuyen al desempeño de las atribuciones del Consejo General y ejercen las facultades que les confiere el Código, los acuerdos y resoluciones que emita el propio Consejo General.
+1. Las Comisiones contribuyen al desempeño de las atribuciones del Consejo General y ejercen las facultades que les confiere el Código, los acuerdos y resoluciones que emita el propio Consejo General; al momento de su integración, deberá procurarse la participación equitativa de los Consejeros Electorales.
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
 
@@ -1872,3 +1878,9 @@ P.O. 19 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO QUE REFORMA EL REGLAMENTO INTERIOR".]
 
 Único. El presente acuerdo entra en vigor a partir del día dieciséis de mayo de dos mil dieciséis.
+
+P.O. 30 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO IEPC-ACG-039/2016 DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, QUE APRUEBA MODIFICAR LOS ARTÍCULOS 7 Y 33 DEL REGLAMENTO INTERIOR DE ESTE ORGANISMO ELECTORAL”.]
+
+> <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.]</small>
