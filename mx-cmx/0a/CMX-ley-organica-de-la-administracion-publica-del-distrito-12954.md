@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2015-11-18"
+last_updated: "2016-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE AGOSTO DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -265,6 +265,10 @@ El Jefe de Gobierno promulgará, publicará y ejecutará las leyes y decretos qu
 El Jefe de Gobierno podrá elaborar proyectos de reglamentos sobre leyes que expida el Congreso de la Unión relativas al Distrito Federal y vinculadas con las materias de su competencia, y los someterá a la consideración del Presidente de la República.
 
 Los reglamentos, decretos y acuerdos expedidos por el Jefe de Gobierno deberán, para su validez y observancia, ser refrendados por el Secretario que corresponda, según la materia de que se trate, y cuando se refieran a materias de dos o más secretarías, deberán refrendarse por los titulares de las mismas que conozcan de esas materias conforme a las leyes.
+
+> <small>(ADICIONADO, G.O. 30 DE AGOSTO DE 2016)</small>
+
+Las leyes y decretos que se promulguen por ministerio de ley y que ordene publicar el Presidente de la Mesa Directiva de la Asamblea Legislativa, o en su caso, el Presidente de la Diputación Permanente, dada la omisión del Jefe de Gobierno, deberán publicarse en forma inmediata por la Consejería Jurídica y de Servicios Legales, en la Gaceta Oficial del Distrito Federal, al día siguiente de su recepción.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE JULIO DE 2014)</small>
 
@@ -1634,7 +1638,9 @@ XII. Participar, junto con las demás dependencias competentes, en la actualizac
 
 XIII. Dirigir, organizar, supervisar y controlar la defensoría de oficio del fuero común en el Distrito Federal, de conformidad con la Ley de la materia, así como prestar los servicios los servicios (sic) de defensoría de oficio, de orientación y asistencia jurídica;
 
-XIV. Publicar, difundir y distribuir la Gaceta Oficial del Distrito Federal;
+> <small>(REFORMADA, G.O. 30 DE AGOSTO DE 2016)</small>
+
+XIV. Publicar, difundir y distribuir la Gaceta Oficial del Distrito Federal. Las leyes y decretos que se promulguen por ministerio de ley y que ordene publicar el Presidente de la Mesa Directiva de la Asamblea Legislativa del Distrito Federal, o en su caso, el Presidente de la Diputación Permanente, deberán publicarse en la Gaceta Oficial del Distrito Federal, al día siguiente de su recepción. El incumplimiento de esta obligación, será sujeta de las responsabilidades de carácter administrativo que la ley de la materia prevé;
 
 XV. Certificar, en la esfera de sus atribuciones, los documentos expedidos por el Jefe de Gobierno y aquellos expedidos por los servidores públicos adscritos a la propia Consejería Jurídica y de Servicios Legales; en el desempeño de sus funciones;
 
@@ -2663,3 +2669,13 @@ G.O. 18 DE NOVIEMBRE DE 2015.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal, y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 30 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan en algún sentido lo aprobado en esta reforma.
