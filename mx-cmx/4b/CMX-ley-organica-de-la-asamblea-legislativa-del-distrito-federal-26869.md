@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2016-05-18"
+last_updated: "2016-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE AGOSTO DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -1546,13 +1546,19 @@ Las proposiciones con punto de acuerdo e iniciativas populares no pasarán a la 
 
 Toda resolución de la Asamblea tendrá el carácter de Ley, decreto, iniciativa, acuerdo o punto de acuerdo y se comunicarán a las instancias correspondientes por el Presidente y por un Secretario de la Mesa Directiva de la Asamblea. En el caso de las leyes y los decretos, se remitirán al Jefe de Gobierno del Distrito Federal en la siguiente forma: "La Asamblea Legislativa del Distrito Federal Decreta": (texto de la ley o decreto).
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 86], G.O. 30 DE MARZO DE 2005)
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE AGOSTO DE 2016)</small>
 
-###### ARTÍCULO 92.
+###### Artículo 92.
 
-Las leyes o decretos que expida la Asamblea Legislativa se remitirán para su promulgación al Jefe de Gobierno del Distrito Federal, quien podrá hacer observaciones y devolverlos dentro de diez días hábiles con esas observaciones, a no ser que, corriendo este término, hubiese la Asamblea cerrado o suspendido sus sesiones, en cuyo caso la devolución deberá hacerse el primer día hábil en que la Asamblea se reúna. De no ser devuelto en este plazo, se entenderá aceptado y se procederá a su promulgación. El decreto o ley devuelto con observaciones deberá ser discutido de nuevo por la Asamblea.
+Las leyes o decretos que expida la Asamblea Legislativa se remitirán para su promulgación al Jefe de Gobierno del Distrito Federal, quien podrá hacer observaciones y devolverlos dentro de treinta días hábiles con esas observaciones, a no ser que, corriendo este término, hubiese la Asamblea cerrado o suspendido sus sesiones, en cuyo caso la devolución deberá hacerse el primer día hábil en que la Asamblea se reúna. De no ser devuelto en este plazo, se entenderá aceptado y se procederá a su promulgación por ministerio de ley, donde el Presidente de la Mesa Directiva de la Asamblea Legislativa ordenará dentro de los treinta días hábiles siguientes su publicación en la Gaceta Oficial del Distrito Federal, sin que se requiera refrendo. Este último plazo no se interrumpirá por la conclusión de los periodos ordinarios de sesiones, debiendo cumplirse, en todo caso, por el Presidente de la Diputación Permanente.
 
-Si se aceptasen las observaciones o si fuese confirmado por las dos terceras partes del número total de votos de los Diputados presentes en la sesión, la ley o decreto se enviará en los términos aprobados, para su promulgación.
+> <small>(REFORMADO, G.O. 30 DE AGOSTO DE 2016)</small>
+
+El decreto o ley devuelta con observaciones deberá ser discutido de nuevo por la Asamblea.
+
+> <small>(ADICIONADO, G.O. 30 DE AGOSTO DE 2016)</small>
+
+Si se aceptasen las observaciones o si fuese confirmado por las dos terceras partes del número total de votos de los Diputados presentes en la sesión, la ley o decreto se enviará en los términos aprobados, para su promulgación; aplicando en todo momento las reglas previstas en el párrafo anterior respecto a la promulgación y publicación.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 30 DE MAYO DE 2013)</small>
 
@@ -1561,6 +1567,10 @@ Si se aceptasen las observaciones o si fuese confirmado por las dos terceras par
 Las leyes y decretos que expida la Asamblea para su debida aplicación y observancia serán publicados en la Gaceta Oficial del Distrito Federal. Para tal efecto, la Coordinación de Servicios Parlamentarios de la Asamblea, enviará a la Gaceta referida, copia impresa y electrónica de dichos documentos. La copia impresa será certificada en el costado exterior de todas sus fojas mediante la rúbrica del Presidente de la Mesa Directiva y de un Secretario de la misma, sellándola y cotejándola; la versión contenida en documento electrónico, deberá certificarse con firma electrónica avanzada.
 
 Las leyes y decretos que apruebe esta Asamblea, para su mayor difusión igualmente se publicarán en el Diario Oficial de la Federación bajo el procedimiento previamente descrito.
+
+> <small>(ADICIONADO, G.O. 30 DE AGOSTO DE 2016)</small>
+
+Las leyes y decretos que se promulguen por ministerio de ley, en los términos del artículo anterior, se publicarán en la Gaceta Oficial del Distrito Federal, al día siguiente de su recepción en la Consejería Jurídica y de Servicios Legales.
 
 ## TITULO QUINTO. DE LOS PROCEDIMIENTOS DE APROBACIÓN Y RATIFICACIÓN
 
@@ -2427,3 +2437,13 @@ PRIMERO.- La presente reforma entrará en vigor al momento de su aprobación por
 SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión publíquese en el Diario Oficial de la Federación.
 
 TERCERO.- Respecto de la fecha de la entrega de la presea correspondiente al año 2016, ésta se sujetará a las bases establecidas en la convocatoria emitida por la Comisión Especial para Garantizar el Ejercicio Periodístico de la Asamblea Legislativa del Distrito Federal.
+
+G.O. 30 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan en algún sentido lo aprobado en esta reforma.
