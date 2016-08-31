@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-apodaca-4137
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-06"
-last_updated: "2016-07-01"
+last_updated: "2016-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,11 +22,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE APODACA, NUEVO LEON
 
-> <small>[N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DEL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE APODACA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 1 DE JULIO DE 2016, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS SESENTA DÍAS NATURALES CONTADOS A PARTIR DEL DÍA SIGUIENTE AL DE SU PUBLICACIÓN.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON LOS PUNTOS PRIMERO Y SEGUNDO DEL ACUERDO APROBADO POR EL R. AYUNTAMIENTO DEL MUNICIPIO DE APODACA, NUEVO LEÓN PUBLICADO EN EL P.O. DE 31 DE AGOSTO DE 2016, SE REVOCA EL ACUERDO PUBLICADO EN EL P.O. DE 1 DE JULIO DE 2016, EN EL ENTENDIDO QUE SEGUIRÁ VIGENTE EL PRESENTE ORDENAMIENTO.]</small>
 
 REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE APODACA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 6 de octubre de 2004.
 
@@ -3514,7 +3514,7 @@ XI. Transportar material peligroso.
 
 ###### ARTÍCULO 141.
 
-Cuando la infracción consista en falta de refrendo, licencia de conducir, tarjeta de circulación (sic) póliza de seguro vigente, polarizado en cristales y/o roturas en cristal parabrisas, la multa que se haya impuesto se cancelará si dentro de los quince días siguientes, el infractor obtiene y presenta ante la Autoridad Municipal correspondiente la documentación referida o bien, demuestre el retiro del polarizado o reparación del cristal.
+Cuando la infracción consista en falta de refrendo, licencia de conducir, tarjeta de circulación póliza de seguro vigente, polarizado en cristales y/o roturas en cristal parabrisas, la multa que se haya impuesto se cancelará si dentro de los quince días siguientes, el infractor obtiene y presenta ante la Autoridad Municipal correspondiente la documentación referida o bien, demuestre el retiro del polarizado o reparación del cristal.
 
 ###### ARTÍCULO 142.
 
@@ -3661,3 +3661,13 @@ III. Correctiva: Una vez concluida la etapa Preventiva e Informativa y por espac
 SÉPTIMO.- La aplicación de las sanciones por faltas o violaciones al presente Reglamento, contenidas en el Artículo 164, fracción V, surtirá sus efectos sin concesión, a partir de la conclusión de la campaña preventiva e informativa señalada en el Artículo Sexto Transitorio.
 
 OCTAVO.- Gírese al Secretario del R. Ayuntamiento para que remita su publicación en el Periódico Oficial del Estado de Nuevo León, en la Gaceta Municipal, y en el sitio Oficial de internet del Municipio.
+
+P.O. 31 DE AGOSTO DE 2016.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 30 DE AGOSTO DE 2016, SE APRUEBA LA REVOCACIÓN DEL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE APODACA, N.L.]</small>
+
+PRIMERO.- Que se apruebe la revocación del acuerdo de aprobación del Reglamento de Tránsito y Vialidad del Municipio de Apodaca, Nuevo León, tomado por este Republicano Ayuntamiento en la Décimo Quinta Sesión Ordinaria de fecha 31-treinta y uno de Mayo del 2016-dos mil dieciséis, mismo que fue publicado en el Periódico Oficial del Estado de Nuevo León en fecha 01°-primero de Julio de 2016-dos mil dieciséis, el cual se deberá dejar sin efectos.
+
+SEGUNDO.- En el entendido que seguirá vigente el Reglamento de Tránsito y Vialidad del Municipio de Apodaca, Nuevo León, aprobado en sesión ordinaria del R. Ayuntamiento, celebrada el día 8-ocho de Septiembre del año 2004-dos mil cuatro y mismo que fue publicado en el Periódico Oficial del Estado de Nuevo León en fecha 06-seis de Octubre de 2004-dos mil cuatro.
+
+TERCERO.- Que se giren las instrucciones necesarias para que se envíe y se publique el presente Acuerdo en el Periódico Oficial del Estado de Nuevo León, para que surta efectos a partir de su publicación.
