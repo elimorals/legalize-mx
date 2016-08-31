@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-estudios-de-profesional-asociado-y-95212"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-17"
-last_updated: "2013-07-17"
+last_updated: "2016-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE ESTUDIOS DE PROFESIONAL ASOCIADO Y LICENCIATURA DE LA UNIVERSIDAD POLITÉCNICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 17 de julio de 2013.
 
@@ -43,37 +43,47 @@ REGLAMENTO DE ESTUDIOS DE PROFESIONAL ASOCIADO Y LICENCIATURA DE LA UNIVERSIDAD 
 
 El presente Reglamento es de observancia general y obligatoria, aplicable a los alumnos activos, así como a los aspirantes a ingresar en los niveles y modalidades de estudios superiores a nivel Profesional Asociado y Licenciatura que ofrece la Universidad Politécnica del Estado de Morelos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 2.
 
-Los estudios superiores a los que se refiera el presente reglamento tendrán como finalidad:
+Los estudios superiores a los que se refiera el presente Reglamento tendrán como finalidad:
 
 I. Preparar profesionales con una sólida formación técnica y en valores, conscientes del contexto nacional en lo económico, político y social;
 
-II. Desarrollar habilidades para aprender a lo largo de la vida.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
 
-III. Contribuir a la generación de una cultura tecnológica; y
+II. Desarrollar habilidades para aprender a lo largo de la vida;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+III. Contribuir a la generación de una cultura tecnológica, y
 
 IV. Lograr una formación integral que contribuya a conformar una sociedad más justa.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 3.
 
-El diseño curricular y la actualización de los programas educativos que se impartan en la Universidad, se harán con base en competencias, entendidas como los conocimientos, habilidades, destrezas y actitudes necesarias para el desempeño efectivo de los egresados en el mercado de trabajo.
+El diseño curricular y la actualización de los programas educativos que se impartan en la Universidad se harán con base en competencias, entendidas como los conocimientos, habilidades, destrezas y actitudes necesarias para el desempeño efectivo de los egresados en el mercado de trabajo.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 4.
 
-Para efectos del presente reglamento se entenderá por:
+Para efectos del presente Reglamento se entenderá por:
 
-Universidad: La Universidad Politécnica del Estado de Morelos.
+Universidad: la Universidad Politécnica del Estado de Morelos;
 
-Alumnos: Aquellas personas que se encuentran inscritas en cualquiera de los niveles que ofrece la universidad.
+Alumnos: aquellas personas que se encuentran inscritas en cualquiera de los niveles que ofrece la universidad;
 
-Reglamento: Reglamento de alumnos.
+Reglamento: Reglamento de alumnos;
 
-Posgrados: Los programas de especialidad, maestría o doctorado.
+Posgrados: los programas de especialidad, maestría o doctorado;
 
-Profesional Asociado: Es aquel alumno que curse y acredite hasta el segundo ciclo de formación y que por alguna causa renuncia a la terminación del Plan de Estudios, podrá obtener el Título de Profesional Asociado, siempre y cuando acredite una estadía.
+Profesional Asociado: es aquel alumno que curse y acredite hasta el segundo ciclo de formación y que por alguna causa renuncia a la terminación del Plan de Estudios, podrá obtener el Título de Profesional Asociado, siempre y cuando acredite una estadía, y
 
-Cuatrimestre: Es el período que se establece para el desarrollo de los programas de las asignaturas y tendrá una duración de quince semanas.
+Cuatrimestre: es el período que se establece para el desarrollo de los programas de las asignaturas y tendrá una duración de quince semanas.
 
 ###### Artículo 5.
 
@@ -87,21 +97,27 @@ Este Reglamento establece las normas para el ingreso, permanencia, evaluación, 
 
 Son alumnos de la Universidad, los que cuenten con inscripción vigente y pueden ser de 2 tipos:
 
-I. Regulares: los que aprobaron todas las asignaturas del periodo escolar inmediato anterior.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+I. Regulares: los que aprobaron todas las asignaturas del periodo escolar inmediato anterior, y
 
 II. Irregulares: los que adeuden una o más asignaturas de cualquier período escolar anterior.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 8.
 
-Las actividades escolares en todos los niveles y modalidades que ofrece la Universidad, se regirán por el calendario escolar vigente.
+Las actividades escolares en todos los niveles y modalidades que ofrece la Universidad se regirán por el calendario escolar vigente.
 
 ###### Artículo 9.
 
 El ingreso escolar a la Universidad está condicionado a su capacidad académica y aceptará el número de estudiantes de acuerdo con su infraestructura instalada y los recursos humanos disponibles, con el fin de preservar la calidad académica de la misma.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 10.
 
-Lo no previsto en el presente Reglamento, será resuelto por el Consejo de Calidad de la Universidad Politécnica del Estado de Morelos.
+Lo no previsto en el presente Reglamento será resuelto por el Consejo de Calidad de la Universidad Politécnica del Estado de Morelos.
 
 ## TÍTULO SEGUNDO. DE LA CALIDAD DE ALUMNO
 
@@ -121,15 +137,25 @@ II. Por renuncia expresa a la Universidad.
 
 La calidad de alumno se pierde por las siguientes causas:
 
-I. Por no haberse reinscrito durante tres cuatrimestres seguidos, sin que medie suspensión temporal de la calidad del alumno.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+I. Por no haberse reinscrito durante tres cuatrimestres seguidos, sin que medie suspensión temporal de la calidad del alumno;
 
 II. Por vencimiento del plazo máximo para cursar el plan de estudios;
 
 III. Por resolución definitiva dictada por el órgano colegiado competente mediante la cual se imponga como sanción;
 
-IV. Por no haber acreditado una misma asignatura habiéndola cursado en dos oportunidades; y
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
 
-V. Por haber reprobado cuatro o más asignaturas en un cuatrimestre.
+IV. Por no haber acreditado una misma asignatura habiéndola cursado en tres oportunidades; aplicándose este criterio en no más de dos asignaturas durante toda la carrera;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+V. Por haber reprobado cuatro o más asignaturas en un cuatrimestre, y
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+VI. Por haber acumulado más de 9 asignaturas sin acreditar en curso ordinario.
 
 ## TÍTULO TERCERO. DEL INGRESO, INSCRIPCIÓN Y REINSCRIPCIÓN
 
@@ -141,13 +167,21 @@ Son aspirantes a ingresar a la Universidad los que cumplan con los siguientes re
 
 I. Haber aprobado en su totalidad el plan de estudios del nivel medio superior;
 
-II. Cubrirlos (sic) requisitos señalados en la convocatoria y demás lineamientos que al efecto emita la Universidad:
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
 
-III. Presentar la solicitud correspondiente:
+II. Cubrir los requisitos señalados en la convocatoria y demás lineamientos que al efecto emita la Universidad;
 
-IV. Ser aceptado mediante el proceso de selección que al efecto tenga establecido la Universidad.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
 
-V. Cubrir las cuotas establecidas por la Universidad.
+III. Presentar la solicitud correspondiente;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+IV. Ser aceptado mediante el proceso de selección que al efecto tenga establecido la Universidad;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+V. Cubrir las cuotas establecidas por la Universidad, y
 
 VI. Para el caso de estudios equivalentes en el nivel medio Superior realizados en el extranjero deberán presentar el dictamen nacional de revalidación de estudios emitido por las autoridades correspondientes.
 
@@ -155,13 +189,19 @@ VI. Para el caso de estudios equivalentes en el nivel medio Superior realizados 
 
 En el caso de los aspirantes de bachillerato o nivel equivalente a éste, se utiliza como un criterio de admisión el resultado del Examen Nacional de Ingreso a Licenciatura (EXANI II) del CENEVAL.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 16.
 
-Para que un Profesional Asociado pueda reincorporarse a los estudios de la Licenciatura deberá realizar lo siguiente:
+Para que un Profesional Asociado pueda reincorporarse a los estudios de la Licenciatura, deberá realizar lo siguiente:
 
-I. Haber transcurrido como mínimo dos cuatrimestres y como máximo cinco a partir de su egreso.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
 
-II. Solicitar por escrito su reingreso al programa educativo.
+I. Haber transcurrido como mínimo dos cuatrimestres y como máximo cinco a partir de su egreso;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+II. Solicitar por escrito su reingreso al Programa Educativo, y
 
 III. En caso de que el plan de estudios en el cual egresó no está vigente, se tendrá que sujetar a un proceso de equivalencia.
 
@@ -177,9 +217,11 @@ Los aspirantes que hayan realizado algún estudio en el extranjero, deberán cum
 
 Se consideran alumnos de nuevo ingreso aquellos aspirantes que han sido aceptados mediante la evaluación de selección que al efecto tenga establecida la Universidad y que por primera vez se les otorga inscripción en alguno de los programas educativos u otras opciones que ofrece la Universidad.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 20.
 
-Se considera alumnos o aspirantes de reingreso quienes estando inscritos durante algún periodo escolar anterior en alguno de los planes o programas de estudio de la Universidad, deseen continuar en la misma, siempre y cuando conserven vigentes sus derechos universitarios o aquellos aspirantes que han sido aceptados mediante la evaluación de selección que para tal efecto tenga establecida la Universidad y que no sea la primera vez que se le otorga la inscripción en alguno de los programas educativos u otras opciones que ofrece la Universidad.
+Se considera (sic) alumnos o aspirantes de reingreso quienes estando inscritos durante algún período escolar anterior en alguno de los planes o programas de estudio de la Universidad, deseen continuar en la misma, siempre y cuando conserven vigentes sus derechos universitarios o aquellos aspirantes que han sido aceptados mediante la evaluación de selección que para tal efecto tenga establecida la Universidad y que no sea la primera vez que se le otorga la inscripción en alguno de los programas educativos u otras opciones que ofrece la Universidad.
 
 ###### Artículo 21.
 
@@ -195,13 +237,17 @@ La Universidad asignará a los alumnos aceptados de primer ingreso un número de
 
 ### CAPÍTULO II. DE LA INSCRIPCIÓN
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 24.
 
-La inscripción es el proceso administrativo, mediante el cual un aspirante de nuevo ingreso es registrado a un programa académico.
+La inscripción es el proceso administrativo mediante el cual un aspirante de nuevo ingreso es registrado a un programa académico.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 25.
 
-Las inscripciones se realizarán en los periodos establecidos en el calendario escolar aprobado por Junta Directiva, salvo que medie causa justificada plenamente comprobada a juicio del Director Académico.
+Las inscripciones se realizarán en los períodos establecidos en el calendario escolar aprobado por Junta Directiva, salvo que medie causa justificada plenamente comprobada a juicio del Director Académico.
 
 ###### Artículo 26.
 
@@ -249,21 +295,47 @@ El pago de las cuotas o derechos por trámites o servicios en la Universidad, se
 
 La reinscripción es el proceso administrativo mediante el cual un alumno inscrito en un programa académico (educativo) de la Universidad es registrado para continuar los estudios en cada cuatrimestre.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 33.
 
-La reinscripción será cuatrimestral y el alumno podrá reinscribirse al siguiente periodo, siempre y cuando:
+La reinscripción será cuatrimestral y el alumno podrá reinscribirse al siguiente período, siempre y cuando:
 
 I. Estar al corriente en el pago de las cuotas y sin adeudo de carácter administrativo;
 
 II. No tener suspensión temporal de la calidad de Alumno como consecuencia de una sanción;
 
-III. Tener vigente la calidad de alumno; y
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
 
-IV. Para los egresados como Profesional Asociado con título del Subsistema de Universidades Politécnicas que opten por culminar sus estudios de Licenciatura, deberán esperar por lo menos un año para reinscribirse a las asignaturas correspondientes al tercer ciclo de formación.
+III. Tener vigente la calidad de alumno, y
+
+IV. (DEROGADA, P.O. 31 DE AGOSTO DE 2016)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 34.
 
-No podrá reinscribirse al cuatrimestre inmediato superior cuando haya acumulado cuatro o más asignaturas reprobadas en los cuatrimestres anteriores.
+No podrá reinscribirse automáticamente al cuatrimestre inmediato superior cuando haya acumulado cuatro o más asignaturas reprobadas en los cuatrimestres anteriores.
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2016)</small>
+
+Será facultad de los Directores Académicos autorizar o no la reinscripción de los alumnos que hayan acumulado cuatro o cinco asignaturas reprobadas, previa entrevista y revisión del expediente académico del alumno, en el que se analizarán los siguientes aspectos:
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+I. Cuatrimestre que se encuentre cursando;
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+II. Grado de complejidad de las materias;
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+III. Reincidencia en este supuesto, y
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+IV. Promedio General.
 
 ###### Artículo 35.
 
@@ -273,9 +345,11 @@ I. Solicitud de reinscripción, visible en el portal de Servicios Escolares de l
 
 II. Historial Académico del alumno;
 
-III. Comprobante de pago de derechos; y
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
 
-IV. Tarjetón del taller al cual están inscritos los alumnos en la Universidad.
+III. Comprobante de pago de derechos, y
+
+IV. (DEROGADA, P.O. 31 DE AGOSTO DE 2016)
 
 ## TÍTULO CUARTO. DE LOS DERECHOS Y OBLIGACIONES DE LOS ALUMNOS
 
@@ -375,7 +449,9 @@ Un cuatrimestre es el período que se establece para el desarrollo de los progra
 
 Cada programa educativo constará de:
 
-I. Siete cuatrimestres para Profesional Asociado dividido en dos ciclos de formación. El primer ciclo de formación estará conformado por tres cuatrimestres y una estancia de por lo menos 120 horas, y el segundo estará integrado por tres cuatrimestres y una estancia 480 horas;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+I. Siete cuatrimestres para Profesional Asociado dividido en dos ciclos de formación. El primer ciclo de formación estará conformado por tres cuatrimestres y una estancia de por lo menos 120 horas, y el segundo estará integrado por tres cuatrimestres y una estancia (sic) 480 horas, y
 
 II. Diez cuatrimestres, para Licenciatura dividida en tres ciclos de formación. Los dos primeros ciclos de formación estarán integrados por tres cuatrimestres y una estancia de por lo menos 120 horas, y el tercer ciclo de formación está conformado por tres cuatrimestres y la estadía de 600 horas.
 
@@ -389,7 +465,7 @@ Los alumnos deberán cubrir la totalidad del plan de estudios en un plazo que no
 
 Quien no concluya los estudios del plan de estudios en un plazo máximo establecido en el artículo anterior, perderá la calidad de alumno.
 
-Podrá adquirir nuevamente la calidad de alumno cuando así lo determine el Consejo de Calidad
+Podrá adquirir nuevamente la calidad de alumno cuando así lo determine el Consejo de Calidad.
 
 ###### Artículo 46.
 
@@ -397,7 +473,9 @@ Para adquirir nuevamente la calidad de alumno, el interesado deberá cumplir con
 
 I. Haber cubierto cuando menos el 80% de los créditos correspondientes al plan de estudios, autorizándose como máximo dos cuatrimestres adicionales para concluir los estudios correspondientes; y
 
-II. Presentar solicitud por escrito, debidamente justificada, al Consejo de Calidad.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+II. Presentar solicitud por escrito, debidamente justificada, al Consejo de Calidad, por una sola vez.
 
 ## TÍTULO SEXTO. DEL ESTABLECIMIENTO DE EQUIVALENCIAS, REVALIDACIÓN Y ACREDITACIÓN DE ESTUDIOS
 
@@ -417,9 +495,13 @@ Para acreditar las capacidades adquiridas correspondientes a una asignatura, el 
 
 Se establecerá equivalencia, para efecto de colocación del alumno en los programas educativos, de conformidad con lo siguiente:
 
-I. Cuando hayan sido cursadas asignaturas afines a los planes de estudio.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
 
-II. La determinación de que una asignatura es afín o no a otra que se imparta en algún programa educativo de la Universidad Politécnica correspondiente a dicha institución. El dictamen académico respectivo es inatacable.
+I. Cuando hayan sido cursadas asignaturas afines a los planes de estudio;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+II. La determinación de que una asignatura es afín o no a otra que se imparta en algún programa educativo de la Universidad Politécnica correspondiente a dicha institución. El dictamen académico respectivo es inatacable, y
 
 III. Corresponde a la Universidad Politécnica establecer la afinidad de las asignaturas cursadas en otras Instituciones respecto de las que en ellas se imparten.
 
@@ -435,21 +517,35 @@ Sólo podrán ser sujetas de revalidación o equivalencias en asignaturas hasta 
 
 Sólo podrán ser sujetas de revalidación o equivalencia las asignaturas, cuyo contenido sea equivalente al menos en un 60% del plan de estudio vigente y la calificación sea mínima de 8.0.
 
-## TÍTULO SÉPTIMO. DE LOS CAMBIOS DE PROGRAMA EDUCATIVO Y DE UNIVERSIDAD POLITECNICA
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+## TÍTULO SÉPTIMO. DE LOS CAMBIOS DE PROGRAMA EDUCATIVO Y DE UNIVERSIDAD POLITÉCNICA
 
 ###### Artículo 53.
 
 Los alumnos podrán realizar los siguientes cambios:
 
-I. De programa educativo dentro de la misma División de la Universidad;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
 
-II. De programa educativo en otra División de la misma Universidad;
+I. De Programa Educativo dentro de la misma Dirección Académica de la Universidad;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+II. De Programa Educativo en otra Dirección Académica de la misma Universidad;
 
 III. De Universidad Politécnica de entre las que conforman el Subsistema de Universidades Politécnicas.
 
-IV. De programa educativo y de Universidad Politécnica; y
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+IV. De Programa Educativo y de Universidad Politécnica; y
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
 
 V. De Plan de estudios del programa educativo.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
+En el caso de la fracción III y IV, se deberá de atender los requisitos señalados por la Universidad receptora.
 
 ###### Artículo 54.
 
@@ -489,7 +585,9 @@ En el diseño de las asignaturas se establecerán estrategias que permitan a los
 
 Las evaluaciones serán diferentes para cada asignatura con base en la recopilación de evidencias de conocimiento, actitud, desempeño y producto.
 
-Para efectos de acreditación de la asignatura, el alumno deberá aprobar cada una de las unidades de aprendizaje
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
+Para efectos de acreditación de la asignatura, el alumno deberá aprobar cada una de las unidades de aprendizaje.
 
 La calificación final de la asignatura se integrará promediando las calificaciones de las unidades de aprendizaje.
 
@@ -505,11 +603,13 @@ Las actividades de aprendizaje realizadas en las horas no presenciales considera
 
 Se contará con dos opciones adicionales las cuales sólo serán autorizadas por el Director Académico. Estas opciones son:
 
-I. Evaluación de Última Asignatura (EUA). Esta evaluación será equivalente a un recursamiento, podrá ser realizada por un alumno que se encuentre cursando el último periodo de su plan de estudios, en asignaturas de los últimos cuatro cuatrimestres. No es necesaria la evidencia ni porcentaje de asistencia.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
 
-II. Evaluación por Competencias (EPC). Esta evaluación podrá ser realizada al inicio de cada uno de las asignaturas (una por cada asignatura, sin opción a repetirse). Para acreditar esta evaluación no será necesario un porcentaje de asistencia.
+I. Evaluación de Última Asignatura (EUA). Esta evaluación será equivalente a un recursamiento, podrá ser realizada por un alumno que se encuentre cursando el último período de su plan de estudios, en asignaturas de los últimos cuatro cuatrimestres. No es necesaria la evidencia ni porcentaje de asistencia.
 
-### CAPITULO II. DE LA ESCALA DE CALIFICACIONES
+II. Evaluación por Competencias (EPC). Esta evaluación podrá ser realizada al inicio de cada uno (sic) de las asignaturas (una por cada asignatura, sin opción a repetirse). Para acreditar esta evaluación no será necesario un porcentaje de asistencia.
+
+### CAPÍTULO II. DE LA ESCALA DE CALIFICACIONES
 
 ###### Artículo 63.
 
@@ -565,25 +665,39 @@ Pendiente
 
 Los lineamientos para establecer los parámetros y calificaciones son los siguientes:
 
-I. Estos parámetros y escala de calificación también será aplicable para calificar las actividades de talleres, seminarios, prácticas y laboratorios.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
 
-II. La inicial NP indica que el alumno no se presentó a la evaluación de la Unidad.
+I. Estos parámetros y escala de calificación también será aplicable para calificar las actividades de talleres, seminarios, prácticas y laboratorios;
 
-III. La inicial SD indica que el alumno no cumplió con el porcentaje de asistencia o con las evidencias requeridas.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
 
-IV. La inicial CP indica que el alumno no ha concluido el proceso de evaluación de la asignatura de estadía y se tendrá que asentar calificación en el cuatrimestre siguiente. Si no se asienta calificación en el plazo establecido, la inicial CP será sustituida por NP.
+II. La inicial NP indica que el alumno no se presentó a la evaluación de la Unidad;
 
-V. Sólo NP, SD, o CP podrán ser expresados en letra, los demás serán expresados con calificación numérica.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+III. La inicial SD indica que el alumno no cumplió con el porcentaje de asistencia o con las evidencias requeridas;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+IV. La inicial CP indica que el alumno no ha concluido el proceso de evaluación de la asignatura de estadía y se tendrá que asentar calificación en el cuatrimestre siguiente. Si no se asienta calificación en el plazo establecido, la inicial CP será sustituida por NP;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+V. Sólo NP, SD, o CP podrán ser expresados en letra, los demás serán expresados con calificación numérica, y
 
 VI. Es responsabilidad de los profesores conocer y manejar esta escala de evaluación.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 67.
 
-Los profesores deberán entregar las actas de evaluación a la Dirección de Servicios Escolares, en el periodo establecido en el calendario escolar una vez validadas por los Directores Académicos.
+Los profesores deberán entregar las actas de evaluación a la Dirección de Servicios Escolares, en el período establecido en el calendario escolar una vez validadas por los Directores Académicos.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 68.
 
-Las calificaciones obtenidas en el cuatrimestre para cada una de las asignaturas que lo componen son irrenunciables
+Las calificaciones obtenidas en el cuatrimestre para cada una de las asignaturas que lo componen son irrenunciables.
 
 ###### Artículo 69.
 
@@ -597,15 +711,23 @@ Las calificaciones finales serán publicadas en la última semana de cada cuatri
 
 En caso de error, omisión o inconformidad del alumno, procederá la revisión para rectificar las actas de calificaciones de conformidad con el siguiente procedimiento:
 
-I. El maestro o el alumno solicitara la revisión por escrito ante la Dirección Académica correspondiente, dentro de los quince días hábiles siguientes a la fecha en que se publicó la calificación.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
 
-II. La Dirección Académica correspondiente en apego al procedimiento establecido emitirá un fallo de la solicitud del alumno, informándole el resultado del mismo.
+I. El maestro o el alumno solicitará la revisión por escrito ante la Dirección Académica correspondiente, dentro de los quince días hábiles siguientes a la fecha en que se publicó la calificación;
 
-III. En caso de proceder el cambio de calificación, la Dirección Académica correspondiente deberá presentar un acta de cambio de calificación ante la Dirección de Servicios Escolares con el procedimiento establecido.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+II. La Dirección Académica correspondiente en apego al procedimiento establecido emitirá un fallo de la solicitud del alumno, informándole el resultado del mismo;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+III. En caso de proceder el cambio de calificación, la Dirección Académica correspondiente deberá presentar un acta de cambio de calificación ante la Dirección de Servicios Escolares con el procedimiento establecido;
 
 IV. En caso de que el profesor que impartió la materia no se encuentre laborando dentro de la institución, quedara a cargo del Secretario Académico la definición del fallo y la firma del acta en lugar del profesor.
 
-V. No se excederá de un plazo no mayor de un cuatrimestre para revisar y en caso de proceder, cambiar la calificación, siempre y cuando conserve la calidad de alumno.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+V. No se excederá de un plazo no mayor de un cuatrimestre para revisar y en caso de proceder, cambiar la calificación, siempre y cuando conserve la calidad de alumno, y
 
 VI. En ningún caso de baja definitiva se hará retroactivo el cambio de calificación después de quince días hábiles de haber iniciado el cuatrimestre.
 
@@ -613,9 +735,11 @@ VI. En ningún caso de baja definitiva se hará retroactivo el cambio de calific
 
 ### CAPÍTULO I. DEL RECURSAMIENTO
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 72.
 
-Se entiende por recursamiento la reinscripción del alumno por segunda vez para cursar una asignatura, por haber obtenido una calificación reprobatoria.
+Se entiende por recursamiento, la reinscripción del alumno a una asignatura no acreditada.
 
 ###### Artículo 73.
 
@@ -671,7 +795,9 @@ I. Por no entregar los documentos en tiempo y forma, en el proceso de inscripci�
 
 II. Por entregar documentos falsos o apócrifos,
 
-III. Por haber reprobado una asignatura en recursamiento,
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+III. Por incurrir en una o más de las causales descritas en el artículo 13,
 
 IV. Por atentar contra las normas y principios de la Universidad,
 
@@ -687,7 +813,7 @@ La Universidad reglamentará sobre la materia de becas y dará a conocer los lin
 
 ## TÍTULO DÉCIMO PRIMERO. DE LAS ESTANCIAS, ESTADÍAS Y SERVICIO SOCIAL
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 85.
 
@@ -705,7 +831,9 @@ Para apoyar a los alumnos en la realización de las estancias y estadías, la Un
 
 I. Proyectos pertinentes a realizar, y
 
-II. Catálogo de las organizaciones con quienes se tengan celebrados convenios o acuerdos de colaboración;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+II. Catálogo de las organizaciones con quienes se tengan celebrados convenios o acuerdos de colaboración.
 
 Y se acatará lo dispuesto en los Criterios y Lineamientos emitidos por la Coordinación de Universidades Politécnicas.
 
@@ -727,7 +855,7 @@ Podrá realizarse en la propia Universidad, organizaciones del sector productivo
 
 ###### Artículo 89.
 
-Para la realización de las estancias será requisito, cumplir con el procedimiento que el afecto tenga establecido la Universidad Politécnica.
+Para la realización de las estancias será requisito, cumplir con el procedimiento que el afecto (sic) tenga establecido la Universidad Politécnica.
 
 ###### Artículo 90.
 
@@ -743,15 +871,19 @@ El objetivo de la estadía será la puesta en práctica, en un ambiente real de 
 
 La estadía se llevará a cabo:
 
-I. Para Profesional Asociado al concluir el segundo ciclo de formación y tendrá una duración no menor a cuatrocientas ochenta horas.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+I. Para Profesional Asociado al concluir el segundo ciclo de formación y tendrá una duración no menor a cuatrocientas ochenta horas, y
 
 II. Para Licenciatura al concluir el tercer ciclo de formación, y tendrá una duración no menor a seiscientas horas.
 
 Podrá realizarse en la propia Universidad, organizaciones del sector productivo, de servicios y de investigación, ya sean públicas o privadas, adecuadas al perfil profesional.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 93.
 
-La evaluación de la estadía se llevará a cabo conjuntamente entre el asesor y su contraparte en la organización, a partir de los criterios de los desempeños definidos previamente en cada programa educativo. Como parte de la evidencia de este proceso, el alumno entregará un reporte del proyecto que incluya los antecedentes, objetivos, desarrollo, resultados o productos y conclusiones, así como las fuentes consultadas para su realización.
+La evaluación de la estadía se llevará a cabo conjuntamente entre el asesor y su contraparte en la organización, a partir de los criterios de los desempeños definidos previamente en cada programa educativo. Como parte de la evidencia de este proceso, el alumno entregará un reporte del proyecto, conforme a los criterios definidos en cada Programa Educativo.
 
 ### CAPÍTULO IV. DE LA ORGANIZACIÓN DE LAS ESTANCIAS Y LA ESTADÍA
 
@@ -759,11 +891,15 @@ La evaluación de la estadía se llevará a cabo conjuntamente entre el asesor y
 
 La Universidad Politécnica ejercerá las funciones de planeación, programación, coordinación, supervisión y evaluación de las estancias y estadías, por conducto de los órganos académicos y operativos siguientes:
 
-a. El área de Vinculación;
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
-b. Las direcciones de programa Académico, y
+a. El Área de Vinculación;
 
-c. Las asesores (sic) responsables.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
+b. Las Direcciones de Programa Académico, y
+
+c. Las (sic) asesores responsables.
 
 ###### Artículo 95.
 
@@ -843,9 +979,11 @@ III. Cubrir el pago de derechos conforme a las cuotas establecidas en la Univers
 
 ### CAPÍTULO II. DEL TÍTULO PROFESIONAL
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 107.
 
-La universidad Politécnica otorgará el título de Profesional Asociado o de Licenciatura a quienes hayan acreditado en su totalidad el plan de estudios vigente. y cumplido con los demás requisitos establecidos en las disposiciones aplicables.
+La Universidad Politécnica otorgará el título de Profesional Asociado o de Licenciatura a quienes hayan acreditado en su totalidad el plan de estudios vigente y cumplido con los demás requisitos establecidos en las disposiciones aplicables.
 
 ###### Artículo 108.
 
@@ -921,9 +1059,13 @@ III. Suspensión hasta por un cuatrimestre de sus derechos escolares; y
 
 IV. Expulsión definitiva de la Universidad, que sólo podrá ser impuesta por el Consejo de Calidad.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 114.
 
-De las faltas que cometan los alumnos conocerá en primera instancia el Director Académico que le corresponda. En caso de falta grave, éste deberá convocar al Consejo de Calidad para que imponga la sanción o decida lo conducente.
+De las faltas que cometan los alumnos conocerá en primera instancia el Director Académico que le corresponda, quien evaluará y aplicará las sanciones dispuestas en el artículo 113 del presente reglamento, en conjunto con las autoridades universitarias (Rector, Secretario Académico y Secretario Administrativo), cuando así lo amerite.
+
+En caso de falta grave, éste deberá convocar al Consejo de Calidad para que imponga la sanción o decida lo conducente.
 
 ###### Artículo 115.
 
@@ -995,9 +1137,11 @@ Las planillas tendrán la obligación de retirar su propaganda con doce horas de
 
 En la fecha, hora y lugar señalados en la convocatoria para la elección, se reunirá una comisión de la Universidad, designada por el Secretario Académico, la cual estará integrada por un Presidente, un Secretario y un Escrutador que se instalarán como cuerpo electoral, procediendo inmediatamente a tomar la votación y a practicar el correspondiente escrutinio, levantando el acta que firmarán los candidatos a Representantes Universitarios.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 126.
 
-El voto será secreto y se asentará en las papeletas que para el efecto entregará el Presidente del cuerpo electoral.
+El voto será secreto y se asentará en las papeletas que para el efecto entregará el presidente del cuerpo electoral.
 
 ###### Artículo 127.
 
@@ -1064,3 +1208,13 @@ DR. JUAN SEGURA SALAZAR
 RECTOR DE LA UNIVERSIDAD POLITÉCNICA DEL ESTADO DE MORELOS
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO DE MODIFICACIONES AL "REGLAMENTO DE ESTUDIOS DE PROFESIONAL ASOCIADO Y LICENCIATURA DE LA UNIVERSIDAD POLITÉCNICA DEL ESTADO DE MORELOS".]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento de alumnos publicado en el Periódico Oficial "Tierra y Libertad" número 4435, de fecha 18 de enero de 2006, así como sus modificaciones publicadas en el Periódico Oficial "Tierra y Libertad" número 4622 de fecha 25 de junio de 2008.
