@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-instituto-de-planeacion-y-desarrollo-54709"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-09"
-last_updated: "2013-05-31"
+last_updated: "2016-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "NLE"
 
 REGLAMENTO DEL INSTITUTO DE PLANEACIÓN Y DESARROLLO MUNICIPAL DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2013.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DEL INSTITUTO DE PLANEACIÓN Y DESARROLLO MUNICIPAL DE SAN NICOLÁS DE LOS GARZA, PUBLICADO EN EL P.O. DE 31 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2016 (ABROGADA).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 9 de marzo de 2007.
 
@@ -575,7 +577,7 @@ I. Convocar a los integrantes al menos con cinco días hábiles de anticipación
 
 II. Elaborar el orden del día que se proporcionará a los asistentes al iniciar la reunión;
 
-III. Vigilar que la reunión cuente con el quórum requerido, se entenderá por este, la asistencia de la mitad más uno de los integrantes del Consejo Consultivo; y, (sic)
+III. Vigilar que la reunión cuente con el quórum requerido, se entenderá por este, la asistencia de la mitad más uno de los integrantes del Consejo Consultivo; y,
 
 IV. Levantar el acta respectiva de los acuerdos tomados, misma que firmaran los participantes en la reunión;
 
@@ -786,3 +788,13 @@ La presente reforma entrará en vigor el día de su publicación en el Periódic
 P.O. 31 DE MAYO DE 2013
 
 PRIMERO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE “SE APRUEBA REGLAMENTO DEL INSTITUTO DE PLANEACIÓN Y DESARROLLO MUNICIPAL DE SAN NICOLÁS DE LOS GARZA, N. L”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Reglamento abroga el Reglamento del Instituto de Planeación y Desarrollo Municipal de San Nicolás de los Garza, publicado el día 09-nueve de marzo de 2007-dos mil siete y deroga todos los acuerdos o disposiciones que se opongan al presente.
+
+TERCERO.- El Consejo Directivo deberá constituirse e instalarse dentro de los 30-treinta días naturales siguientes desde la vigencia de este ordenamiento
