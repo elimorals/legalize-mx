@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2016-08-25"
+last_updated: "2016-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE AGOSTO DE 2016.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -9711,6 +9711,8 @@ La Comisión de Administración resolverá respecto de aquellos supuestos que no
 
 ### CAPÍTULO PRIMERO. LOGOTIPO DEL CONSEJO
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON EL LOGOTIPO DEL CONSEJO, D.O.F. 31 DE AGOSTO DE 2016)</small>
+
 ### CAPÍTULO SEGUNDO. ROL DE DIARIOS NACIONALES
 
 ## TÍTULO SEGUNDO. DEL COMITÉ DE INVERSIÓN DE RECURSOS FINANCIEROS Y DEL FONDO DE APOYO A LA ADMINISTRACIÓN DE JUSTICIA
@@ -10327,7 +10329,7 @@ En las dudas o controversias que se generen con motivo de la interpretación adm
 
 ###### Artículo 915.
 
-El logotipo del Consejo estará conformado por las palabras “PODER JUDICIAL DE LA FEDERACION”, debajo de ellas las palabras “CONSEJO DE LA JUDICATURA FEDERAL” e inmediatamente después el Escudo Nacional conforme al modelo a que se refiere el artículo 2° de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, además tendrá colocado en un semicírculo superior las palabras “ESTADOS UNIDOS MEXICANOS”, en los términos establecidos en los artículos 5° y 6° de la ley citada.
+El logotipo del Consejo estará conformado con el Escudo Nacional acorde al modelo a que se refiere el artículo 2° de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, además tendrá colocado en un semicírculo superior las palabras “ESTADOS UNIDOS MEXICANOS”, en los términos establecidos en los artículos 5° y 6° de la ley citada, inmediatamente abajo del Escudo Nacional tendrá las palabras “PODER JUDICIAL DE LA FEDERACION”, y debajo de ellas las palabras “CONSEJO DE LA JUDICATURA FEDERAL”.
 
 ### CAPÍTULO SEGUNDO. DIRECCIÓN GENERAL DE PROTECCIÓN CIVIL Y SALUD EN EL TRABAJO
 
@@ -11804,3 +11806,11 @@ Aquellos que estén a cargo de la Unidad para la Implementación de la Reforma P
 SÉPTIMO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas competentes que le están adscritas, llevará a cabo las acciones necesarias para la implementación del presente Acuerdo.
 
 OCTAVO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+D.O.F. 31 DE AGOSTO DE 2016.
+
+> <small>[N. DE E. TRANSITORIOS "DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON EL LOGOTIPO DEL CONSEJO".]</small>
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
