@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-116127"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-08-25"
-last_updated: "2016-08-25"
+last_updated: "2016-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116127&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2016-08-17"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACION DE LA UNIDAD PARA LA CONSOLIDACION DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA]
 
-[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE AGOSTO DE 2016 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.
-
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 31 DE AGOSTO DE 2016.]</small>
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 25 de agosto de 2016.
 
@@ -81,7 +81,9 @@ IX. a XX. ...
 
 ...
 
-Unidad para la Consolidación del Nuevo Sistema de Justicia Penal;
+> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 2016)</small>
+
+I. Unidad para la Consolidación del Nuevo Sistema de Justicia Penal;
 
 II. a VII. ...
 
