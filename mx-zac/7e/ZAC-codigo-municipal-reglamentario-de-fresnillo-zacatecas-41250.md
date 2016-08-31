@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-municipal-reglamentario-de-fresnillo-zacatecas-41250"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-09-11"
-last_updated: "2011-03-05"
+last_updated: "2016-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41250&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO MUNICIPAL REGLAMENTARIO DE FRESNILLO, ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2016.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 11 de septiembre de 2004.
 
@@ -75,11 +75,11 @@ Quienes contravengan lo dispuesto en el artículo anterior, se harán acreedores
 
 ### CAPÍTULO II. DE LOS FINES DEL MUNICIPIO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2016)</small>
 
-###### ARTÍCULO 8º.
+###### ARTÍCULO 8°.
 
-Son fines del Municipio, proporcionar en forma enunciativa y no limitativa las siguientes:
+Son fines del Municipio, proporcionar en forma enunciativa y no limitativa los siguientes:
 
 I.- La tranquilidad y seguridad a las personas, incluyendo sus bienes dentro de su territorio;
 
@@ -105,525 +105,619 @@ X.- Fomentar la inversión pública y privada con la creación de la pequeña y 
 
 XI.- Proveer los medios para la aplicación de la justicia en el marco de su competencia;
 
-XII.- Todos los demás que señalen las Leyes y Reglamentos Federales, Estatales y Municipales.
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2016)</small>
 
-###### ARTÍCULO 9º.
+XII.- Proponer y propiciar el desarrollo integral y sustentable;
 
-El Municipio para el logro de sus fines, podrá crear los órganos administrativos para realizar las funciones de reglamentación, ejecución, gestión, inspección, vigilancia y todas las facultades y atribuciones que no estén reservadas por las Leyes a la Federación o al Estado.
+XIII.- Todos los demás que señalen las Leyes y Reglamentos Federales, Estatales y Municipales.
 
-###### ARTÍCULO 10.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
-Fresnillo se encuentra a una altura media de 2,249 metros sobre el nivel del mar, la superficie del Municipio es de 4,995.55 kilómetros cuadrados y sus colindancias son: al Norte con los Municipios de Saín Alto, Río Grande y Cañitas de Felipe Pescador; al Este los Municipios de Villa de Cos, Panuco, Calera y General Enrique Estrada; al Sur los Municipios de General Enrique Estrada, Calera, Jerez y Valparaíso; y al Oeste con los Municipios de Valparaíso, Sombrerete y Saín Alto
+###### ARTÍCULO 9°.
+
+El Municipio de Fresnillo se encuentra a una altura media de 2,249 metros sobre el nivel del mar, la superficie del Municipio es de 4,995.55 kilómetros cuadrados y sus colindancias son: al Norte con los Municipios de Saín Alto, Río Grande y Cañitas de Felipe Pescador; al Este los Municipios de Villa de Cos, Panuco, Calera y General Enrique Estrada; al Sur los Municipios de General Enrique Estrada, Calera, Jerez y Valparaíso; y al Oeste con los Municipios de Valparaíso, Sombrerete y Saín Alto.
 
 Su situación geográfica es la siguiente:
 
-Latitud 23º 10' 35” norte
+Latitud 23° 10' 35" norte
 
-Longitud 102º 52´ 39” oeste
+Longitud 102° 52' 39" oeste
 
-Declinación magnética 10º 33´
+Declinación magnética 10° 33'
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
+###### ARTÍCULO 10.
+
+El Municipio para el logro de sus fines, podrá crear los órganos, las instancias y la reglamentación que les permita realizar sus funciones de gestión, inspección, regulación, ejecución y vigilancia en favor de la ciudadanía; Además aquellas que no les estén reservadas por Ley a la Federación o al Estado.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 11.
 
-La cabecera del Municipio es la Ciudad de Fresnillo, en ella se encuentra la sede del Ayuntamiento. Dicha sede puede trasladarse a otra localidad en forma temporal, mediante acuerdo del Ayuntamiento y por causa debidamente justificada.
+El Municipio para el cumplimiento de sus fines; determinara su apropiada división política-administrativa de su territorio en base a los siguientes tipos de centros de población: Región, Zona, Ciudad, Pueblo, Ranchería, Sector, Colonia, Barrio y Manzana.
 
-Centros de Población:
+Son Centros de Población en los que se divide el Municipio los siguientes:
 
-1.- Agua Zarca de los Martínez (El Águila);
+Municipio de Fresnillo
 
-2.- Agua Zarca de Trujillo;
+No. Clave Centro de Población Número de habitantes
 
-3.- Altamira;
+Son Ciudad en el Municipio:
 
-4.- Atarjea de Juan Pérez;
+1 0001 Fresnillo 120,944
 
-5.- Atenas;
+Son Pueblos en el Municipio:
 
-6.- Bajío de San Gabriel;
+2 0210 San José de Lourdes 5,339
 
-7.- Bañón de Santa Cruz;
+3 0165 Plateros 4,902
 
-8.- Bañuelos;
+4 0189 Río Florido 4,005
 
-9.- Benito Juárez (La Maseca);
+5 0183 Lázaro Cárdenas
 
-10.- Boca de Lobos;
+(Rancho Grande) 3,857
 
-11.- Boca del Río Chico;
+6 0135 Miguel Hidalgo (Hidalgo) 3,633
 
-12.- Buena Vista de Rivera;
+7 0106 Estación San José 3,487
 
-13.- Buena Vista de Trujillo;
+Son Rancherías de 1000 a 2499 habitantes en el Municipio:
 
-14.- Cabrales,
+8 0235 Seis de Enero 2,416
 
-15.- Carrillo;
+9 0193 El Salto 2,137
 
-16.- Carrizalillo;
+10 0134 Rafael Yáñez Sosa
 
-17.- Casa Blanca;
+(El Mezquite) 2,085
 
-18.- Cerro Gordo;
+11 0140 Colonia Montemariana (Colonia Mariana) 1,978
 
-19.- Chichimequillas;
+12 0161 El Pardillo Tercero 1,687
 
-20.- Chilitos;
+13 0414 Buenavista de Trujillo 1,541
 
-21.- Chupaderos de la Soledad;
+14 0083 Las Catarinas 1,535
 
-22.- Cienega de Marquez;
+15 0060 Altamira 1,526
 
-23.- Cieneguitas;
+16 0240 Tapias de Santa Cruz (Pedro Ruiz González) 1,495
 
-24.- Col Bañuelos;
+17 0092 Chichimequillas 1,422
 
-25.- Col Del Fresno;
+18 0230 Santiaguillo 1,378
 
-26.- Col Emancipación;
+19 0166 Colonia Plenitud 1,233
 
-27.- Col Hidalgo;
+20 0114 José María Morelos 1,182
 
-28.- Col Jose Ma. Morelos;
+21 0080 Carrillo 1,088
 
-29.- Col Montemariana;
+Son Rancherías de 500 a 999 habitantes en el Municipio:
 
-30.- Col Modelo;
+22 0112 Estación Gutiérrez 988
 
-31.- Col Guanajuato;
+23 0068 El Baluarte 980
 
-32.- Col Plenitud;
+24 0735 Fraccionamiento San Felipe 955
 
-33.- Concepción de Rivera;
+25 0118 Laguna Seca 873
 
-34.- Cuatas de Colonia Hidalgo;
+26 0202 San Ignacio 798
 
-35.- Cuatas de Estación Fresnillo;
+27 0084 El Centro 784
 
-36.- El Águila,
+28 0206 Melchor Ocampo (San Jerónimo) 783
 
-37.- El Ahijadero;
+29 0201 San Gabriel 778
 
-38.- El Álamo;
+30 0200 San Cristóbal 725
 
-39.- El Almagre;
+31 0213 San José del Río 707
 
-40.- El Angelito;
+32 0105 Francisco I. Madero 682
 
-41.- El Apartadero;
+33 0098 La Encantada 680
 
-42.- El Baluarte;
+34 0129 Matías Ramos 678
 
-43.- El Baño de Urite;
+35 0058 El Ahijadero 676
 
-44.- El Caudillo;
+36 0248 Trujillo 661
 
-45.- El Centro;
+37 0212 San José del Alamito 649
 
-46.- El Charco;
+38 0191 La Salada 635
 
-47.- El Coleadero;
+39 0177 Presa Leobardo Reynoso (Primero de Mayo) 618
 
-48.- El Coloradito;
+40 0142 Morfín Chávez 586
 
-49.- El Colorado de Santa Rosa;
+41 0082 La Casita 574
 
-50.- El Conejo,
+42 0109 Guadalupe de Trujillo 573
 
-51.- El Cristo;
+43 0160 El Pardillo Segundo 568
 
-52.- El Cuervo;
+44 0220 San Pablo de Rancho Grande 566
 
-53.- El Durazno;
+45 0115 Labor de Santa Bárbara 565
 
-54.- El Epazote;
+46 0348 Milpillas de la Sierra 556
 
-55.- El Fuerte;
+47 0133 México Nuevo Uno (México Nuevo) 554
 
-56.- El Milagro;
+48 0091 Ramón López Velarde (La Chicharrona) 541
 
-57.- El Mogote;
+49 0224 Colonia Santa Anita 518
 
-58.- El Noventa;
+50 0460 Santa Rosa 510
 
-59.- El Obligado;
+Son Rancherías de 100 a 499 habitantes en el Municipio:
 
-60.- El Palmarito;
+51 0079 La Cantera 483
 
-61.- El Portal;
+52 0070 Colonia Bañuelos (Bajío de Bañuelos) 482
 
-62.- El Porvenir del Centro;
+53 0108 Felipe Ángeles (El Barranco) 469
 
-63.- El Puerto;
+54 0096 Colonia Emancipación 468
 
-64.- El Refugio de Ábrego (antes el Coyote);
+55 0203 San Isidro de Cabrales 444
 
-65.- El Salto;
+56 0185 Redención 443
 
-66.- El Saucito;
+57 0256 Vicente Guerrero (Ábrego) 440
 
-67.- El 6 de Enero (antes Chupaderos);
+58 0130 Mendoza 435
 
-68.- El Sotolar;
+59 0164 Plan de Vallecitos 433
 
-69.- El Suspiro;
+60 0178 Providencia de Rivera (Providencia la Estanzuela) 425
 
-70.- El Tejuján de Ábrego;
+61 0100 Eréndira 424
 
-71.- El Tepetatillo,
+62 0099 El Epazote 417
 
-72.- El Tigre;
+63 0252 Valle de San Isidro (San Isidro) 394
 
-73.- El Triunfo;
+64 0148 Nuevo Zaragoza 386
 
-74.- El Vergel;
+65 0097 Emiliano Zapata (El Terreadero) 383
 
-75.- El Yerbanaís;
+66 0250 Valdecañas 380
 
-76.- Eréndira;
+67 0073 El Refugio de Ábrego (Benito Juárez) 369
 
-77.- Ermita de Guadalupe;
+68 0190 Concepción Rivera 355
 
-78.- Espiritu Santo;
+69 0157 Palmira 317
 
-79.- Felipe Ángeles (antes el Barranco);
+70 0061 Los Ángeles de los Medrano 310
 
-80.- Francisco I. Madero;
+71 0231 Saucito del Poleo 310
 
-81.- Francisco García Salinas;
+72 0236 La Soledad 308
 
-82.- Guadalupe de Trujillo;
+73 0104 Francisco García Salinas (La Larga) 301
 
-83.- Guadalupe Victoria;
+74 0246 Torreón de los Pastores 296
 
-84.- Gutiérrez;
+75 0145 Nuevo Día 288
 
-85.- Jarillas;
+76 0067 Bajío de San Gabriel 284
 
-86.- La Blanquita;
+77 0056 Colonia el Águila (El Águila) 280
 
-87.- La Labor de Santa Bárbara;
+78 0223 Santa Ana 278
 
-88.- La Cabaña;
+79 0360 Colonia Benito Juárez 263
 
-89.- La Cantera;
+80 176 Presa del Mezquite (Tapias del Mezquite) 244
 
-90.- La Casita;
+81 0131 Las Mercedes 236
 
-91.- La Chaveñita;
+82 0163 Las Piedras 235
 
-92.- La Ciénega;
+83 0111 Colonia Guanajuato 230
 
-93.- La Encantada;
+84 0214 San Juan de la Casimira 228
 
-94.- La Estancia;
+85 0599 Cieneguitas de Mariana 224
 
-95.- La Florida Nº 1;
+86 0306 Vasco de Quiroga 221
 
-96.- Laguna Blanca;
+87 0172 San Juan del Centro (El Porvenir del Centro) 219
 
-97.- Laguna del Mercado;
+88 0249 Urite 218
 
-98.- Laguna Seca;
+89 0159 El Pardillo Primero 217
 
-99.- La Luz;
+90 0195 San Antonio de Buenavista 210
 
-100.- La Manga;
+91 0204 San Isidro del Cerro Gordo 207
 
-101.- La Pardita;
+92 0149 Colonia el Obligado 206
 
-102.- La Quemada de Fco. I. Madero;
+93 0175 Colonia Presa de Linares (Presa de Linares) 206
 
-103.- La Salada;
+94 0238 San Miguel de Sosa 202
 
-104.- La Soledad;
+95 0217 San Martín de los Pajaritos 201
 
-105.- La Venadita;
+96 0211 San José del Quelite 199
 
-106.- La Zanja;
+97 0181 Colonia Purísima del Maguey 198
 
-107.- La Zarquilla;
+98 0180 Puebla del Palmar (El Membrillo) 190
 
-108.- Las Catarinas;
+99 0186 Refugio de Santa Rosa (El Refugio) 189
 
-109.- Las Cuatas;
+100 0245 Tortuguillas (La Salud) 189
 
-110.- Las Escobas;
+101 0075 Boca de Río Chico 187
 
-111.- Las Flores;
+102 0138 Modelo 187
 
-112.- Las Hermanas;
+103 0155 Órganos 183
 
-113.- Las Maravillas;
+104 0219 San Pablo de los Puertos 182
 
-114.- Las Mercedes;
+105 0182 La Quemada (Francisco I. Madero) 170
 
-115.- Las Parditas;
+106 1092 Los Corrales (Emiliano Zapata) 169
 
-116.- Las Perlitas;
+107 0775 El Salitrillo 168
 
-117.- Las Torcazas;
+108 0391 Palillos 163
 
-118.- General Lázaro Cárdenas (Rancho Grande);
+109 0474 El Tigre (Los Nopales) 159
 
-119.- Linares;
+110 0188 Rincón de la Florida 155
 
-120.- Lirios de Providencia;
+111 0225 San Tadeo 140
 
-121.- Loma Bonita;
+112 0081 El Carrizalillo (Carrizalillo de Ábrego) 139
 
-122.- Los Ángeles;
+113 0216 San Marcos de Ábrego 130
 
-123.- Los Cardones;
+114 0284 Los Pocitos 128
 
-124.- Los Ejidos;
+115 0215 San Juan de los Hornillos 123
 
-125.- Los Pocitos;
+116 0156 Orilla del Llano 117
 
-126.- Los Pozos;
+117 0218 San Miguel del Vergel 117
 
-127.- Luis Donaldo Colosio (antes el Terreadero);
+118 0151 Ojo de Agua del Tule 116
 
-128.- Maravillas;
+119 0132 Mesa de Tecolotillo 115
 
-129.- Matías Ramos (antes la Iguana);
+120 0241 El Tejuján 108
 
-130.- Melchor Ocampo (antes San Jerónimo),
+121 0066 Atenas 103
 
-131.- Mendoza;
+122 0318 Ermita de Guadalupe 103
 
-132.- Milpillas de la Sierra;
+123 0682 Sector las Cumbres (Ejido Nuevo Zaragoza) 103
 
-133.- Morfín Chávez;
+124 0436 Colonia la Luz 101
 
-134.- Noria de Santa Rosa;
+125 0150 Ojo de Agua de Ramos 100
 
-135.- Nuevo día;
+Son Rancherías de 10 a 99 habitantes en el Municipio:
 
-136.- Nuevo Laredo;
+126 0116 La Zarquilla 99
 
-137.- Nuevo México;
+127 0237 Sombreretillo 97
 
-138.- Nuevo Zaragoza;
+128 0631 Los Vergelitos 93
 
-139.- Ojo de Agua de Ramos;
+129 0143 Noria de Santa Rosa 90
 
-140.- Ojo de Agua del Tule;
+130 0389 San Pedro de Ábrego 87
 
-141.- Ojuelos;
+131 Milpillas de San Juan de la Casimira 85
 
-142.- Orilla del Llano;
+132 0086 El Colorado 81
 
-143.- Órganos;
+133 0173 Potrero Blanco 81
 
-144.- Palmira;
+134 0233 San Vicente de Plenitud (San Vicente) 81
 
-145.- Pardillo Primero;
+135 0124 La Manga 78
 
-146.- Pardillo Segundo;
+136 0205 San Isidro de Trujillo 77
 
-147.- Pardillo Tercero;
+137 0677 Rancho los Zavala (La Manga) 77
 
-148.- Patillos;
+138 0085 Cerro Gordo 76
 
-149.- Pedro Ruíz González (antes Tapias de Santa Cruz);
+139 0257 La Zanja 76
 
-150.- Piedras;
+140 0415 La Cabaña (San Miguel del Alto) 76
 
-151.- Plan de Vallecitos;
+141 0101 Espíritu Santo 73
 
-152.- Plateros;
+142 0508 La Florida 73
 
-153.- Pompeya;
+143 0062 El Angelito 70
 
-154.- Porfías;
+144 0242 Tepetatillo 65
 
-155.- Potrero Blanco;
+145 0684 Las Cruces 65
 
-156.- Presa de Ábrego;
+146 0247 El Triunfo 63
 
-157.- Presa de Linares;
+147 0352 Loma Gervasio 62
 
-158.- Presa del Mezquite;
+148 0540 El Vergel (El Palmar) 62
 
-159.- Primavera;
+149 0059 El Álamo 60
 
-160.- Providencia;
+150 0274 Los Rosales (El Cuervo) 59
 
-161.- Providencia de Ábrego;
+151 0174 Potrero de Ojuelos 53
 
-162.- Providencia de Rivera;
+152 1192 Fraccionamiento Villas del Campestre 53
 
-163.- Puebla del Palmar;
+153 0302 Santa Teresa de Cerro Gordo (Las Jarrillas) 52
 
-164.- Puentecillos;
+154 0304 El Tepetate 52
 
-165.- Purísima de Ábrego;
+155 0770 Los Ríos 51
 
-166.- Purísima del Maguey;
+156 0575 San Vicente 50
 
-167.- Rafael Yáñez Sosa (antes el Mezquite);
+157 0069 Colonia Baño de Urite (El Baño) 49
 
-168.- Ramón López Velarde (antes la Chicharrona);
+158 0491 Mezquifil 49
 
-169.- Ramos;
+159 0569 La Flor 48
 
-170.- Rancho de los Ortiz;
+160 0488 Rancho las Maravillas 47
 
-171.- Refugio de Santa Rosa;
+161 0063 El Apartadero 46
 
-172.- Río Florido;
+162 0489 La Mariposa 46
 
-173.- Redención;
+163 1024 Rancho las Tarjeas (Antonio Villaseñor) 46
 
-174.- Rincón de la Florida;
+164 0398 El Colorado 45
 
-175.- Rivera;
+165 0378 El Supirio 44
 
-176.- Salitrillo;
+166 0385 San Pedro Cerro Gordo (Las Culecas) 44
 
-177.- Salto Viejo;
+167 0320 El Sacrificio 40
 
-178.- San Antonio de Ábrego;
+168 0799 Loma Bonita 39
 
-179.- San Antonio de Buena Vista (antes el Infiernillo);
+169 0820 Santa Lucía 39
 
-180.- San Antonio de las Huertas;
+170 0408 Agua Zarca 37
 
-181.- San Antonio de los Medrano;
+171 0078 Buenavista de Rivera 36
 
-182.- San Antonio del Mezquite;
+172 0287 Providencia de Ábrego 35
 
-183.- San Antonio de los Sánchez;
+173 0342 Los Charcos 34
 
-184.- San Bartolo;
+174 0116 Laguna Blanca 32
 
-185.- San Cristóbal;
+175 0095 Los Ejidos 31
 
-186.- San Gabriel;
+176 0208 San José de Guadalupe 31
 
-187.- San Felipe de Ábrego;
+177 0280 Jarillas 31
 
-188.- San Francisco de Cabrales;
+178 0117 Laguna del Mercado 30
 
-189.- San Ignacio;
+179 0137 Milpillas de Ábrego 30
 
-190.- San Ignacio (antes Mesa del Tecolotillo);
+180 0055 Agua Zarca de los Martínez 29
 
-191.- San Isidro de Ábrego;
+181 0498 El Rosalito 29
 
-192.- San Isidro de Cabrales;
+182 0643 Santa Cecilia 29
 
-193.- San Isidro de Cerro Gordo;
+183 0196 San Antonio del Mezquite 27
 
-194.- San Isidro de los Reyes;
+184 0574 Noria de San Juan 27
 
-195.- San Isidro de Trujillo;
+185 0774 El Atorón (Los Caracoles) 26
 
-196.- San José de Alamito;
+186 0953 Charco Colorado 25
 
-197.- San José de Guadalupe;
+187 0299 Santa Cruz [Viñedos] 24
 
-198.- San José de Lourdes;
+188 0458 Santa Elena 23
 
-199.- San José del Río;
+189 0485 Amparito [Granja] 23
 
-200.- San José del Quelite;
+190 0675 Providencia (Enrique Ramírez) 23
 
-201.- San José de Nueva Tapia;
+191 0929 Colonia Huajuco 23
 
-202.- San José de la Casimira;
+192 1015 La Purísima (Gerardo Hinojosa Santa Cruz) 23
 
-203.- San Juan de los Hornillos;
+193 0169 Porfías 22
 
-204.- San Luis de Abrego;
+194 0239 Tapias del Mezquite (Colonia Tres Flores) 22
 
-205.- San Luis de Urite;
+195 0368 San Felipe de Adjuntas de Ábrego 22
 
-206.- San Marcos de Abrego;
+196 0449 El Retiro 22
 
-207.- San Martín de Pajarillos;
+197 0450 El Rosario de Ábrego 22
 
-208.- San Miguel de Abrego;
+198 0501 Rancho Elvira 22
 
-209.- San Miguel de Sosa;
+199 0780 El Establo 22
 
-210.- San Miguel del Vergel;
+200 0945 La Bola de Sauces 22
 
-211.- San Nicolás de los Linares;
+201 0270 Cieneguitas de Plenitud 21
 
-212.- San Onofre;
+202 0917 Santa Fe 21
 
-213.- San Pablo de Rancho Grande;
+203 0968 La Florida 21
 
-214.- San Pablo de los Puertos;
+204 0969 Colinas del Río 21
 
-215.- San Pedro de Ábrego;
+205 0291 San Antonio de las Huertas 20
 
-216.- San Rafael de Ábrego;
+206 0567 La Fresita 20
 
-217.- San Vicente de Plenítud;
+207 0794 Las Huertas del Aguanaval 20
 
-218.- San Tadeo;
+208 1036 La Rosita 20
 
-219.- Santa Ana;
+209 1287 Rancho Molina (Estanislao Molina A.) 20
 
-220.- Santa Anita;
+210 0199 San Bartolo 19
 
-221.- Santa Cruz;
+211 1005 El Pinar Alto 19
 
-222.- Santa Elena;
+212 1239 Clarisas Franciscanas 19
 
-223.- Santa Fe;
+213 0222 San Rafael de los Méndez (Los Méndez) 18
 
-224.- Santa Lucía;
+214 0402 Santo Niño de Ábrego (Santo Niño) 18
 
-225.- Santa Rosa;
+215 0557 Valle Hermoso 18
 
-226.- Santa Teresa;
+216 1099 El Sonorita 18
 
-227.- Santa Teresa de los Alvarado;
+217 0120 Los Lirios 17
 
-228.- Santiaguillo;
+218 0961 La Loma del Encinito 17
 
-229.- Saucito del Poleo;
+219 0336 El Membrillo 15
 
-230.- Sobreretillo;
+220 0481 La Boquilla 15
 
-231.- Tapias del Mezquite,
+221 0535 El Divisadero 15
 
-232.- Tepetate;
+222 0573 La Noria de Linares 15
 
-233.- Tortuguillas;
+223 0768 Providencia de Cabrales 15
 
-234.- Trujillo;
+224 0873 La Floreña 15
 
-235.- Torreón de los Pastores;
+225 1090 El Capullo 15
 
-236.- Urite;
+226 0197 San Antonio de los Medrano (San Antonio) 14
 
-237.- Valdecañas;
+227 0349 San José Charco Azul 14
 
-238.- Vallecitos de la Salada;
+228 0369 Juan Pérez Lindavista (Juan Pérez) 14
 
-239.- Valle de San Isidro;
+229 0440 El Palomar 14
 
-240.- Valle Hermoso;
+230 0852 El Herradero (Benjamín Gurrola) 14
 
-241.- Vasco de Quiroga; y
+231 0935 La Purísima 14
 
-242.- Vicente Guerrero Ábrego.
+232 1042 San José de la Barranca 14
+
+233 0144 El Noventa 13
+
+234 0315 El Refugio 13
+
+235 0363 Cristo de la Escondida 13
+
+236 0586 Las Flores 13
+
+237 0667 Las Ánimas (Arnulfo Bocanegra) 13
+
+238 0996 La Muralla Dos 13
+
+239 1038 San Antonio del Centro (El Salitrillo) 13
+
+240 1195 Huerta la Rosita (Adolfo Rucobo) 13
+
+241 0088 El Charco 12
+
+242 0404 Las Guatas 12
+
+243 0500 San Pedro de Plenitud 12
+
+244 0596 El Cadillal (Santa Fe) 12
+
+245 0776 Estación de Aforos 12
+
+246 1221 San Francisco (David Aguilar Ávila) 12
+
+247 1264 El Arroyo (Juan Chávez) 12
+
+248 0297 San Onofre 11
+
+249 0493 Las Pilas 11
+
+250 0630 Alberto González 11
+
+251 0937 El Alamito 11
+
+252 0989 Las Margaritas Uno (Hugo Valle) 11
+
+253 1018 Rancho Alegre 11
+
+254 1076 Tierra Blanca 11
+
+255 1208 El Pozo (Jesús Dévora) 11
+
+256 0282 Loma Bonita 10
+
+257 0335 El Carmen 10
+
+258 0461 El Satélite 10
+
+259 0543 Rancho el Girasol 10
+
+260 0562 Maravilla de Dios 10
+
+261 0584 Las Palmitas (El Rosario) 10
+
+262 0800 José Manuel Cortés 10
+
+263 0830 El Carmen (Alicia de León Berumen) 10
+
+264 0836 El Rosal (Inés Carrillo Rodarte) 10
+
+265 0871 Los Bañuelos 10
+
+266 0944 El Balandrán (Joel González de la Cruz) 10
+
+267 0957 Las Cruces 10
+
+268 1001 Las Palmas (Ramiro Gutiérrez Piedra) 10
+
+269 1113 Los Reyes (Fortunato Reyes) 10
+
+270 1182 La Biznaga (San Felipe) 10
+
+271 1278 Los Portales (Alfredo Domínguez) 10
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 12.
 
-En términos de lo dispuesto por la legislación de la materia, el Ayuntamiento, tendrá en todo tiempo la facultad de acuerdo al crecimiento de algunos asentamientos humanos de baja densidad poblacional que no figuren como centros de población dentro del presente Código, de otorgarles tal carácter.
+La cabecera del Municipio es la Ciudad de Fresnillo, en ella se encuentra la sede del Ayuntamiento. Dicha sede podrá trasladarse a otro centro de población en forma temporal, por acuerdo del Ayuntamiento o por causa debidamente justificada.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 13.
 
-El Ayuntamiento podrá acordar las modificaciones que estime necesarias a los nombres o denominaciones de las diversas localidades del Municipio; para tal efecto, atenderá a las razones históricas o políticas de la denominación existente, tradiciones o costumbres, así como a las consideraciones que planteen los habitantes de la localidad al formular la solicitud respectiva.
+El Ayuntamiento, tendrá en todo momento la facultad; de acuerdo a los resultados del próximo Censo o Conteo de Población y Vivienda; de reclasificar, adicionar o derogar su listado de centros de población; a razón del número de habitantes o cuando estos alcancen un nuevo tipo de categoría.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 14.
 
-Para el cumplimiento de sus fines, el Ayuntamiento podrá acordar la división política-administrativa del territorio municipal en comunidades rurales, colonias, sectores, barrios y manzanas, correspondiendo a las autoridades municipales su organización política, administrativa y de servicios públicos municipales.
+El Ayuntamiento podrá acordar las modificaciones que estime necesarias a los nombres o denominaciones de los centros de población del Municipio; para tal efecto, atenderá a las razones históricas o políticas de la denominación existente, tradiciones, costumbres y consideraciones que planteen los habitantes de cada una de ellas al momento de formular la solicitud respectiva.
 
 ## TÍTULO TERCERO. DE LA POBLACIÓN MUNICIPAL
 
@@ -733,9 +827,11 @@ El Ayuntamiento tiene competencia plena y exclusiva sobre su territorio, poblaci
 
 El Ayuntamiento se renovará en su totalidad cada tres años, debiendo tomar posesión sus integrantes en sesión solemne el día 15 de septiembre inmediato a la elección.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 26.
 
-El Ayuntamiento de Fresnillo es el órgano jerárquico superior de Gobierno del Municipio y esta integrado por un Presidente Municipal, un Síndico y veinte Regidores, electos de conformidad con lo establecido por las disposiciones legales aplicables. Sus facultades y atribuciones se encuentran en la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado Libre y Soberano de Zacatecas, la Ley Orgánica del Municipio, el presente Código Municipal Reglamentario y otras disposiciones legales aplicables.
+El H. Ayuntamiento de Fresnillo es el Órgano Máximo de Gobierno en el Municipio, se integra por un Presidente, un Síndico y catorce Regidores electos de conformidad a lo establecido por las normas electorales vigentes; sus facultades y obligaciones están contenidas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado Libre y Soberano de Zacatecas, la Ley Orgánica del Municipio, el Código Municipal Reglamentario y demás disposiciones legales aplicables.
 
 ###### ARTÍCULO 27.
 
@@ -749,9 +845,11 @@ El Ayuntamiento se constituye como órgano colegiado y deliberante, para analiza
 
 El Presidente Municipal preside el Ayuntamiento de Fresnillo y ejecuta los acuerdos del mismo, además es el titular de la Administración Pública Municipal con todas sus dependencias.
 
+> <small>(REFORMADO, [N. DE E. ADICIONADA PORCIÓN NORMATIVA] P.O. 31 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 30.
 
-Para el despacho de los asuntos municipales, el Ayuntamiento contará por lo menos con la Secretaría de Gobierno, la Contraloría, la Dirección de Finanzas y Tesorería, la Dirección de Obras y Servicios Públicos, la Dirección de Desarrollo Urbano, la Dirección de Planeación y Desarrollo Económico Municipal, la Dirección de Desarrollo Social Municipal, la Dirección de Catastro y la Dirección de Seguridad Pública Municipal, cuyos requisitos, facultades y obligaciones se encuentran señaladas en la Ley Orgánica del Municipio, en el presente Código Municipal Reglamentario y demás disposiciones respectivas.
+Para el despacho de los asuntos municipales, el Ayuntamiento contará por lo menos con la Secretaría de Gobierno, la Contraloría, la Dirección de Finanzas y Tesorería, la Dirección de Obras y Servicios Públicos, la Dirección de Desarrollo Urbano, la Dirección de Planeación y Desarrollo Económico Municipal, la Dirección de Desarrollo Social Municipal, la Dirección de Catastro y la Dirección de Seguridad Pública Municipal, y la Dirección de Desarrollo Rural Sustentable cuyos requisitos, facultades y obligaciones se encuentran señaladas en la Ley Orgánica del Municipio, en el presente Código Municipal Reglamentario y demás disposiciones respectivas.
 
 ## TÍTULO SEGUNDO. DEL AYUNTAMIENTO
 
@@ -793,87 +891,125 @@ En el supuesto de que el Ayuntamiento saliente no cumpla con lo estipulado en el
 
 ### CAPÍTULO II. DEL FUNCIONAMIENTO DEL AYUNTAMIENTO
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
 ###### ARTÍCULO 37.
 
-El Ayuntamiento celebrará sesiones que tendrán el carácter de ordinarias, extraordinarias, solemnes, públicas o privadas, dependiendo de los asuntos a tratar.
+Para el mejor desempeño de su encargo los integrantes del H. Ayuntamiento serán convocados a sesiones; que por la naturaleza de sus asuntos a tratar podrán ser:
+
+I. Ordinarias: Son aquellas reuniones de Cabildo convocadas en base a la aprobación de un calendario;
+
+II. Extraordinarias: Son aquellas reuniones de Cabildo que por la urgencia de los asuntos a tratar deben ser resueltos en lo inmediato;
+
+III. Solemnes: Son aquellas reuniones de Cabildo que por la naturaleza del asunto a tratar requiere de un acto de máximo rigor protocolario.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 38.
 
-Son sesiones ordinarias las que están sujetas a un calendario que establece el Ayuntamiento
+Por la relevancia de los puntos del orden del día para los que fuesen convocados los integrantes del cabildo a dichas sesiones; estas podrán tener el carácter de:
 
-Son sesiones extraordinarias las que se convoquen fuera del calendario establecido.
+I. Publicas: Son aquellas sesiones de cabildo en recintos de libre acceso, a las que cualquier persona interesada en presenciarlas puede acudir;
 
-Son sesiones solemnes las que tienen lugar con motivo del informe anual de labores del Presidente Municipal, de la instalación del Ayuntamiento y las que éste determine por la conmemoración de aniversarios históricos y recepción de personalidades distinguidas.
+II. Privadas: Son aquellas sesiones de cabildo en recintos a puerta cerrada; a donde únicamente podrán asistir aquellos habitantes o funcionarios que sean requeridos para informar de los asuntos que hayan motivado la reunión;
+
+III. Permanente: Son aquellos (sic) sesiones en recintos abiertos o cerrados en las cuales es posible decretar recesos; pues los puntos del orden del día sujetos a consideración requieren para su aprobación de mayor información, supervisión y evaluación.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 39.
 
-Para celebrar sesiones ordinarias no podrá transcurrir más de un mes entre una y otra y las extraordinarias pueden celebrarse en cualquier tiempo a solicitud del Presidente o cuando menos del 50% de los regidores.
+Las sesiones de cabildo convocadas en razón del espacio físico en el que se realizaran deberán especificar en el oficio de citación si son en:
+
+I. En recinto oficial: Son aquellas sesiones de cabildo convocadas en el domicilio legal del H. Ayuntamiento de Fresnillo;
+
+II. Itinerantes: Son aquellas sesiones de cabildo celebradas en recintos públicos abiertos autorizados por el H. Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 40.
 
-El Secretario del Ayuntamiento convocará a los municipes a las sesiones: a las ordinarias mediante oficio-citatorio con suficiente anticipación y a las extraordinarias mediante convocatoria que contenga el orden del día sin normar tiempo de anticipación.
+La calendarización de las sesiones ordinarias alternadas en recinto oficial e itinerante es obligatoria; se programaran en base al ejercicio administrativo municipal de mes a mes y las fechas para su realización será el último día hábil del mes; las sesiones convocadas fuera de estos términos tendrán el carácter de extraordinarias.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 41.
 
-Para que las sesiones de Cabildo tengan validez deberán contar con la asistencia cuando menos del 50% de los miembros del Ayuntamiento, asentándose los acuerdos en el acta correspondiente para el trámite que proceda.
+La convocatoria a las sesiones de cabildo son facultad exclusiva del Presidente Municipal y por acuerdo de cuando menos el 50% de los regidores; para ello se notificara a cada miembro del H. Ayuntamiento mediante oficio-citatorio con firma autógrafa de él o los convocantes anexando convocatoria y documentación suficiente que les permita analizar, discutir y en su caso aprobar los puntos del orden del día que den origen a la sesión.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 42.
 
-El Ayuntamiento celebrara sesiones de Cabildo alternadamente cada mes en el recinto oficial e itinerantes.
+Las notificaciones se harán de manera personal o en el domicilio que para tales efectos se tenga registrado; firmara el duplicado del oficio-citación quien haya recibido la documentación. Para el caso de las sesiones ordinarias el termino para notificar los puntos del orden del día será como mínimo de 48 horas de anticipación; 24 horas para el caso específico de las sesiones extraordinarias y de hasta 12 horas de anticipación para las que sean consideradas solemnes
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 43.
 
-Las sesiones de Cabildo podrán ser públicas y abiertas y en ellas podrá participar cualquier residente del Municipio, pero en ella los asistentes guardarán compostura, no debiendo hacer demostraciones de ningún género.
+Las sesiones de cabildo comenzaran con la lectura del oficio-citación enviado a los integrantes del H. Ayuntamiento, luego se procederá al pase de lista; si hubiere ausencia de alguno de sus miembros se mostrara a los presentes el oficio-citación con firma de quien haya recibido como prueba de haber sido debidamente notificados o en su caso el oficio anexando la causa que justifique su inasistencia.
 
-En todo caso el Presidente Municipal podrá llamar la atención a cualquiera que perturbe el orden y ordenar el desalojo del recinto, en caso de reincidencia podrá hacer arrestar a quien o quienes por su comportamiento, impidan la buena marcha de la sesión. Si a pesar de las medidas dictadas por el Presidente Municipal, no fuera posible mantener el orden, podrá mandar desalojar el salón para continuar la sesión como si fuera secreta y cuando el Presidente Municipal considere que la sesión deba de ser privada, se desarrollará en estos términos.
+Para que las sesiones de cabildo tengan validez se deberá contar con la asistencia de cuando menos el 50% más uno del total de sus miembros; si del pase de lista se dedujera lo anterior se procederá a declarar la existencia de quorum legal; sino existiere quorum legal se citara nuevamente a sesión fundando y motivando en el nuevo oficio-citación la causa injustificada de su ausencia y la sanción pecuniaria a la que haya sido acreedor. Después de la tercera ausencia consecutiva injustificada se procederá a llamar al suplente.
+
+Declarado el quorum legal se procederá a dar lectura a la convocatoria que contenga los puntos del orden del día de la sesión; si hubiere propuesta de modificación se someterá en ambos sentidos para su aprobación.
+
+Aprobado el orden del día se iniciara con la lectura del acta anterior confirmando si su transcripción ortográfica, gramatical y de redacción coincide con sus intervenciones, el sentido y resultado de su votación y los términos en que los dictámenes fueron aprobados.
+
+La consecución de la sesión y el lapso de su duración dependerán del número y la importancia de los puntos del orden del día propuestos para su análisis, discusión y aprobación. Si por interés general o razones de tiempo en algún punto del orden del día un miembro del cabildo propone un receso; este se entenderá ser hasta por diez minutos; si su solicitud es superior al lapso anterior será necesario someterlo a consideración de los presentes, quienes en votación económica podrán avalar si procede la suspensión y se decreta sesión permanente o se continua con la sesión.
+
+Para el caso de sesiones ordinarias la convocatoria deberá contener en sus cuatro últimos puntos del orden del día los siguientes: Lectura de Correspondencia, Participación Ciudadana, Asuntos Generales y Clausura de la Sesión; para el caso de las extraordinarias y las solemnes solo el de clausura de la sesión.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 44.
 
-Las sesiones comenzarán con lista de asistencia y a continuación el Secretario del Ayuntamiento dará lectura al acta anterior. Enseguida se dará cuenta de los negocios con apego al orden del día.
+Al término de la clausura de la sesión el Secretario del H. Ayuntamiento o quien lo asista procederá a recabar las firmas por foja del acta anterior aprobada para que en lo inmediato surta sus efectos legales correspondientes y se expidan copias certificadas a quien lo requiera.
 
-El Tesorero y los demás titulares responsables de la Administración Pública Municipal tienen obligación de ocurrir a las sesiones a fin de informar en su caso sobre algún negocio hacendario o de su competencia. Dichos servidores públicos rendirán los informes solicitados a propuesta del Presidente o de los Regidores y su inasistencia injustificada será sancionada por el Presidente Municipal.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 45.
 
-El recinto donde se lleve a cabo la sesión del Ayuntamiento será inviolable, en consecuencia no se permitirá el acceso de la fuerza pública, salvo que lo solicite el Presidente Municipal.
+En las sesiones de cabildo deberán estar presentes los titulares de las Áreas de la Administración Pública Municipal; participaran con voz informativa a solicitud de alguno de los miembros del cabildo y en razón al grado de responsabilidad que tengan sobre el asunto que se esté analizando. Su ausencia injustificada o la falta de información requerida; serán consideradas como deficiencia en el ejercicio de su función y pueden ser por ello sujetos de sanción.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 46.
 
-El ciudadano que desee participar en la sesión de Cabildo abierta, deberá solicitar su inscripción por escrito al Secretario del Ayuntamiento, hasta cinco minutos antes de la hora señalada en la asamblea, debiendo de cumplir además con los siguientes requisitos:
+La participación de la ciudadanía en las sesiones ordinarias de cabildo está plenamente garantizada; quien así lo desee podrá solicitar al secretario del H. Ayuntamiento su inscripción hasta cinco minutos antes del inicio de la sesión; señalándole que durante su intervención deberá iniciar manifestando lo siguiente:
 
-I.- Deberá expresar nombre, característica del asunto o planteamiento, que deberá ser siempre de interés comunitario y circunscrito a la problemática o circunstancia municipal;
+a) Nombre completo, su origen o procedencia, si ostenta algún cargo o representación, el asunto que justifique su participación y los requerimientos para atender satisfactoriamente su petición.
 
-II.- El tiempo máximo de cada participación será de cinco minutos, evitando repeticiones o desviaciones del tema;
+El tiempo máximo para su participación será de hasta cinco minutos; teniendo hasta por dos minutos la posibilidad de ejercer su derecho a réplica; además se le pedirá ser lo más explícito posible y que su planteamiento sea de interés comunitario; circunscrito al territorio municipal. Se tendrá un registro máximo de cinco participaciones por sesión.
 
-III.- Deberá mantener el orden y respeto necesario en el desarrollo de los trabajos de la sesión a fin de facilitar su atención y posible solución o respuesta;
-
-IV.- El participante no tendrá derecho a réplica y sólo podrá intervenir en una sola ocasión;
-
-V.- Queda prohibido que las personas participantes se acompañen de grupos para presionar a que el Ayuntamiento tome decisiones a favor de su planteamiento o petición;
-
-VI.- El número máximo de participantes será de cinco personas; y
-
-VII.- Se dará preferencia a la inscripción para participar en las sesiones de Cabildo abiertas a los Comités de Participación Ciudadana.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 47.
 
-El Ayuntamiento o el Presidente Municipal tendrá facultad de suspender la participación de la persona que con sus palabras o actitudes alteren el orden, ofenda la dignidad de las autoridades o del recinto, use palabras altisonantes, se presente en estado de ebriedad, bajo el efecto de una droga u observe cualquiera otra conducta que atente al buen desarrollo de la sesión.
+En caso de que en el registro previo no se haya inscrito el número máximo de cinco personas y estando aun en el punto de participación ciudadana alguno de los asistentes lo desee hacer; los miembros del cabildo presentes en votación económica determinaran dar o no el uso de la voz al solicitante.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 48.
 
-Todas las participaciones ciudadanas se llevarán a cabo en un punto determinado del orden del día, no pudiendo intervenir fuera de este.
+El Presidente del H. Ayuntamiento o a quien se elija presidir la sesión de cabildo en caso de su ausencia, cuidara en todo momento el orden en el recinto y el respeto a las opiniones de quien participe en ella; puede en caso necesario mandar desalojar o incluso arrestar a quien con insultos, señas obscenas o vejaciones se manifieste dentro del recinto e impida la buena marcha de la sesión. Si diere (sic) el caso y por la relevancia de los puntos a tratar es necesario continuar con la sesión esta podrá continuar con el carácter de privada.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 49.
 
-En caso de que en el registro previo no se hayan enlistado el número máximo de cinco personas y estando aún en el punto de intervención de la ciudadanía pudiera alguna persona participar, el Ayuntamiento determinará por votación económica la conveniencia de dar o no la voz al solicitante.
+Es responsabilidad del Secretario del H. Ayuntamiento citar a los Titulares de las Áreas de la administración Pública Municipal; a los Delegados Municipales, Jefes de Sector, miembros de los Comités de Participación Social y en general a todos los habitantes que se considere sea necesaria (sic) al desahogo de la sesión; enviándoles para ello oficio que contenga la hora, el día y el domicilio del recinto de su celebración.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 50.
 
-Para la celebración de las sesiones de Cabildo, abiertas e itinerantes, la Comisión de Regidores respectiva dará a conocer el programa de estas durante el año, notificando con tiempo al Ayuntamiento de los lugares donde se pretende realizar este evento, para ser aprobados por el mismo.
+Corresponde al Secretario del H. Ayuntamiento supervisar que el recinto en él que se lleven a cabo las sesiones de cabildo cumplan con las condiciones con las que fueron convocadas; cuenten con la infraestructura, el mobiliario y la accesibilidad para su mejor realización.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 51.
 
-El Secretario del Ayuntamiento deberá notificar oportunamente a los habitantes o vecinos del lugar donde se celebre la sesión de Cabildo abierta itinerante respecto a la fecha y hora de realización, debiendo cuidar que el recinto previamente declarado disponga de infraestructura necesaria para llevar a cabo la asamblea.
+La propuesta de calendarización de las sesiones ordinarias itinerantes de cabildo deberán surgir de la Comisión de Regidores que atienda los asuntos de gobernabilidad; su elección será en base al número de habitantes, fechas históricas en el calendario oficial, aniversarios de fundación o conmemoraciones cívico, culturales y religiosas que por su importancia distingan a cada Colonia Urbana o Centro de Población Rural del Municipio.
 
 ### CAPÍTULO III. DEL DEBATE EN LAS SESIONES
 
@@ -931,11 +1067,33 @@ Los acuerdos del Ayuntamiento, no podrán revocarse sino en una sesión en la qu
 
 No podrán en la misma sesión revocarse las proposiciones o dictámenes en que se consultara la revocación de un acuerdo, sino que se resolverá en la sesión siguiente, expresándose en la cédula citatoria el acuerdo que se trate de revocar
 
-### CAPÍTULO I. DEL PRESIDENTE MUNICIPAL
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO VI. DEL PROCEDIMIENTO REGLAMENTARIO MUNICIPAL
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 62 BIS.- Tiene la facultad para presentar iniciativas de creación, reforma, adicción, derogación y abrogación al Código Municipal Reglamentario, Reglamentos, Circulares y cualquier otra disposición administrativa de observancia general vigente:
+
+I. El presidente Municipal;
+
+II. La Síndico y los Regidores;
+
+III. Los Delegados Municipales y los Jefes de Sector; y
+
+IV. Los Ciudadanos, Habitantes y Residentes del Municipio.
+
+Cualquier iniciativa deberá presentarse por escrito mediante oficio dirigido al H. Ayuntamiento de Fresnillo; para que leído éste en sesión de Cabildo; se remita a la Comisión o Comisiones Unidas de Regidores que deba atenderla en razón de su materia. Para su aprobación o desechamiento ante comisiones se requerirá de mayoría simple; si se desecha no podrá volverse a presentar una en similares términos dentro de un periodo no menor a los seis meses; si se dictaminase a favor pasara ante el pleno del Cabildo para su análisis, discusión y en su caso aprobación requiriendo para tal efecto de mayoría calificada.
+
+Si se aprueba a favor el Presidente Municipal deberá instruir al Secretario de Gobierno sea enviada para los efectos de su publicación en la Gaceta Oficial Órgano de Gobierno del Municipio Libre de Fresnillo y/o Periódico Oficial Órgano de Gobierno del Estado. Si se desecha no podrá volver a presentarse una en similares términos dentro de un periodo no menor a un año.
+
+Al momento de presentar una iniciativa no operara ni el desechamiento ni el desistimiento pues sus contenidos por ese simple hecho pasaran hacer asuntos de interés general para la administración Pública Municipal; ante cualquier inacción o interrupción en el procedimiento, el promovente podrá interponer el medio de impugnación idóneo que corresponda.
+
+Si la iniciativa es propuesta de ciudadanos, habitantes o residentes del Municipio estos deberán ser mayores de 18 años y al presentarla ante cabildo deberá acompañarla por un número de firmas igual al del resto mayor mediante el cual se asignó el último espacio plurinominal de la elección que dio origen al Ayuntamiento.
 
 ## TÍTULO TERCERO. FACULTADES Y OBLIGACIONES DE LOS INTEGRANTES DEL AYUNTAMIENTO
 
-### CAPÍTULO II. DE LOS REGIDORES
+### CAPÍTULO I. DEL PRESIDENTE MUNICIPAL
 
 ###### ARTÍCULO 63.
 
@@ -971,7 +1129,7 @@ XIV.- Delegar las funciones en el Secretario del Ayuntamiento o personal de la A
 
 XV.- Las demás que determinen la Ley Orgánica del Municipio, las Leyes Federales, Estatales y Municipales, así como los Reglamentos aplicables.
 
-### CAPÍTULO III. DEL SÍNDICO
+### CAPÍTULO II. DE LOS REGIDORES
 
 ###### ARTÍCULO 64.
 
@@ -993,7 +1151,7 @@ Es obligación de los miembros del Ayuntamiento asistir a los actos y ceremonias
 
 En caso de incumplimiento injustificado por seis ocasiones en un lapso de seis meses se procederá a llamar al sustituto.
 
-### CAPÍTULO ÚNICO. INTEGRACIÓN Y FUNCIONAMIENTO DE LAS COMISIONES
+### CAPÍTULO III. DEL SÍNDICO
 
 ###### ARTÍCULO 68.
 
@@ -1019,7 +1177,7 @@ Cuando el Síndico se ausente de sus funciones de manera temporal o definitiva, 
 
 ## TÍTULO CUARTO. DE LAS COMISIONES
 
-### CAPÍTULO I. DEL SECRETARIO DEL AYUNTAMIENTO
+### CAPÍTULO ÚNICO. INTEGRACIÓN Y FUNCIONAMIENTO DE LAS COMISIONES
 
 ###### ARTÍCULO 71.
 
@@ -1237,7 +1395,7 @@ Todo integrante del Ayuntamiento podrá integrarse a las demás Comisiones y pod
 
 ## TÍTULO QUINTO. ÓRGANOS AUXILIARES DEL AYUNTAMIENTO
 
-### CAPÍTULO II. DE LA TESORERÍA MUNICIPAL
+### CAPÍTULO I. DEL SECRETARIO DEL AYUNTAMIENTO
 
 ###### ARTÍCULO 91.
 
@@ -1275,7 +1433,7 @@ XI.- Atender las cuestiones inherentes a la Junta Municipal de Reclutamiento, As
 
 XII.- Coordinar y atender todas las actividades que le sean encomendadas por el Ayuntamiento por conducto del Presidente Municipal.
 
-### CAPÍTULO III. DE LOS DELEGADOS Y JEFES DE SECTOR
+### CAPÍTULO II. DE LA TESORERÍA MUNICIPAL
 
 ###### ARTÍCULO 94.
 
@@ -1311,7 +1469,7 @@ XII.- Coordinarse con los titulares de las diversas dependencias o departamentos
 
 XIII.- Las demás que le concedan la Ley Orgánica Municipal, Leyes, Convenios de Coordinación en materia fiscal, el presente Código Municipal Reglamentario y demás disposiciones jurídicas aplicables.
 
-### CAPÍTULO I. DE LAS AUSENCIAS DE SUS INTEGRANTES
+### CAPÍTULO III. DE LOS DELEGADOS Y JEFES DE SECTOR
 
 ###### ARTÍCULO 96.
 
@@ -1349,7 +1507,7 @@ Para ser Jefe de Sector, Delegado o auxiliar, se requiere ser mayor de edad, no 
 
 ## TÍTULO SEXTO. SUPLENCIAS Y SANCIONES DE LOS MIEMBROS DE LOS AYUNTAMIENTOS
 
-### CAPÍTULO II. RESPONSABILIDADES Y SANCIONES
+### CAPÍTULO I. DE LAS AUSENCIAS DE SUS INTEGRANTES
 
 ###### ARTÍCULO 102.
 
@@ -1371,7 +1529,7 @@ En caso de seis faltas de asistencia injustificadas de los Regidores a las reuni
 
 En caso de faltas temporales del Secretario o Tesorero, el Presidente Municipal nombrará su suplente.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO II. RESPONSABILIDADES Y SANCIONES
 
 ###### ARTÍCULO 107.
 
@@ -1415,7 +1573,7 @@ Las faltas de asistencia de los Regidores y Síndico a las respectivas Comisione
 
 ## TÍTULO SÉPTIMO. DEL FUNCIONAMIENTO DE LAS COMISIONES
 
-### CAPÍTULO SEGUNDO. DE LAS SESIONES DE CABILDO
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 115.
 
@@ -1709,7 +1867,7 @@ II.- La inasistencia de los Regidores integrantes de sus respectivas Comisiones 
 
 III.- La sanción administrativa referida en el párrafo anterior, previo dictamen de la Comisión, referente a la asistencia, se decidirá por la mayoría de votos de los miembros presentes en la sesión de Cabildo ordinaria más próxima.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO SEGUNDO. DE LAS SESIONES DE CABILDO
 
 ###### ARTÍCULO 142.
 
@@ -1727,7 +1885,7 @@ Las sesiones estarán presididas por el Presidente Municipal o por quien lo supl
 
 ## TÍTULO PRIMERO. GENERALIDADES
 
-### CAPÍTULO II. DE LA PARTICIPACIÓN DE LA SOCIEDAD COMO AUTORIDAD AUXILIAR
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 145.
 
@@ -1759,7 +1917,11 @@ VIII.- Dirección de Catastro;
 
 IX.- Dirección de Seguridad Pública Municipal;
 
-X.- Los Departamentos y Áreas que integran la Administración Pública Municipal.
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+X.- Dirección de Desarrollo Rural Sustentable, y
+
+XI.- Los Departamentos y Áreas que integran la Administración Pública Municipal.
 
 UNIDADES DE COORDINACIÓN Y APOYO TÉCNICO:
 
@@ -1987,11 +2149,35 @@ II.- Ejercer las funciones inherentes a la protección civil, bomberos, así com
 
 III.- Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 156 BIS.- Corresponde a la Dirección de Desarrollo Rural Sustentable.
+
+I.- Fomentar y coadyuvar al desarrollo rural integral del municipio en sus comunidades que lo conformar (sic), además de promover el cuidado y preservación del medio ambiente;
+
+II.- Ser una instancia orientadora para la población en cuanto al mejor aprovechamiento de los recursos y alcance de apoyos económicos;
+
+III.- Hacer de manera adecuada, transparente, responsable y estratégica la aplicación de recursos tanto económicos, en especie y de cualquier tipo que sean operados por esta Dirección;
+
+IV.- Proyectar, formular y aplicar las acciones y las políticas municipales de desarrollo rural sustentable, de conformidad al plan municipal de desarrollo y legislación aplicable;
+
+V.- Coordinarse y trabajar conjuntamente con el Consejo Municipal de Desarrollo Rural Sustentable, misma entidad que queda bajo la dependencia y organización de esta Dirección;
+
+VI.- Gestionar y promover los recursos y programas federales o estatales, asi como aquellos no gubernamentales para que los habitantes del municipio tengan acceso a los mismos;
+
+VII.- Fungir como ventanilla de trámites y servicios para el sector rural;
+
+VIII.- Servir de vínculo entre los productores y las instancias relacionadas con el medio rural;
+
+IX.- Promover asesoría y asistencia técnica, así como capacitación en la conformación de los proyectos productivos;
+
+X.- Las demás que se tomen a bien implementar por el H Ayuntamiento para el ejercicio de sus funciones propias.
+
 ###### ARTÍCULO 157.
 
 El Ayuntamiento podrá crear las entidades y organismos públicos de naturaleza municipal, que resulten necesarios para lograr una mayor y eficaz administración pública.
 
-### CAPÍTULO I. DE LA COLABORACIÓN DE LA SOCIEDAD CON LA AUTORIDAD MUNICIPAL
+### CAPÍTULO II. DE LA PARTICIPACIÓN DE LA SOCIEDAD COMO AUTORIDAD AUXILIAR
 
 ###### ARTÍCULO 158.
 
@@ -2019,7 +2205,7 @@ Los Delegados propietarios no podrán ser reelectos para el período inmediato s
 
 ## TÍTULO PRIMERO. GENERALIDADES
 
-### CAPÍTULO II. DE LOS CONCEJOS Y COMITÉS DE CARÁCTER MUNICIPAL
+### CAPÍTULO I. DE LA COLABORACIÓN DE LA SOCIEDAD CON LA AUTORIDAD MUNICIPAL
 
 ###### ARTÍCULO 163.
 
@@ -2057,13 +2243,13 @@ Los miembros de los Concejos y Comités de Participación Ciudadana no podrán s
 
 Los miembros del Consejo y Comités de Participación Ciudadana, durarán en el cargo de (sic) tres años y podrán ser removidos en cualquier tiempo por el Ayuntamiento por causa justa, con el voto aprobatorio de las dos terceras partes, previa garantía de audiencia que se hará valer ante la Secretaría de Gobierno Municipal, además de escuchar a los vecinos del lugar que lo soliciten. En caso de remoción de los propietarios serán llamados los suplentes.
 
-### CAPÍTULO III. DEL COMITÉ MUNICIPAL DE DERECHOS HUMANOS
+### CAPÍTULO II. DE LOS CONCEJOS Y COMITÉS DE CARÁCTER MUNICIPAL
 
 ###### ARTÍCULO 172.
 
 El Ayuntamiento, a propuesta del Presidente Municipal, podrá constituir los Concejos y Comités que considere necesarios para el desempeño de sus atribuciones, mismos que serán regulados en número de miembros, funciones y atribuciones, de acuerdo con la Ley Orgánica del Municipio y demás disposiciones que les sean aplicables. Asimismo, podrá auxiliarse de organizaciones sociales representativas de las comunidades y de las demás organizaciones que determinen las leyes y reglamentos o los acuerdos del Ayuntamiento previa convocatoria.
 
-### CAPÍTULO IV. DEL COMITÉ MUNICIPAL DE PROTECCIÓN CIVIL
+### CAPÍTULO III. DEL COMITÉ MUNICIPAL DE DERECHOS HUMANOS
 
 ###### ARTÍCULO 173.
 
@@ -2081,7 +2267,7 @@ El Comité Municipal de Derechos Humanos tendrá las atribuciones y responsabili
 
 El Comité Municipal de Derechos Humanos rendirá anualmente un informe de actividades al Ayuntamiento, en sesión ordinaria de Cabildo, debiendo remitir copia del mismo al ciudadano Presidente de la Comisión Estatal de Derechos Humanos del Estado de Zacatecas.
 
-### CAPÍTULO V. DEL COMITÉ DE DESARROLLO URBANO MUNICIPAL
+### CAPÍTULO IV. DEL COMITÉ MUNICIPAL DE PROTECCIÓN CIVIL
 
 ###### ARTÍCULO 177.
 
@@ -2127,7 +2313,7 @@ El Ayuntamiento tiene facultades para clausurar cualquier inmueble que represent
 
 Todo individuo que realice falsas alarmas y que movilice los servicios de emergencia del cuerpo de Seguridad Pública o de Protección Civil, será sancionado por la Autoridad Municipal de conformidad con las disposiciones de este Código Municipal Reglamentario, los Reglamentos y las demás Leyes aplicables a la materia.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES DEL TRABAJO
+### CAPÍTULO V. DEL COMITÉ DE DESARROLLO URBANO MUNICIPAL
 
 ###### ARTÍCULO 188.
 
@@ -2435,7 +2621,7 @@ Coordinar los trabajos de colaboración y participación de la ciudadanía con l
 
 ## TÍTULO PRIMERO. DE LAS NORMAS QUE REGULAN LAS ACTIVIDADES DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO MUNICIPAL
 
-### CAPÍTULO II. DE LAS CONDICIONES DE TRABAJO
+### CAPÍTULO I. DISPOSICIONES GENERALES DEL TRABAJO
 
 ###### ARTÍCULO 217.
 
@@ -2499,7 +2685,7 @@ III.- Por solicitud del trabajador, si hubiese plazas disponibles; y
 
 IV.- Cuando las necesidades del servicio así lo requieran.
 
-### CAPÍTULO III. DE LAS OBLIGACIONES DE LOS TRABAJADORES
+### CAPÍTULO II. DE LAS CONDICIONES DE TRABAJO
 
 ###### ARTÍCULO 224.
 
@@ -2537,7 +2723,7 @@ El salario es la retribución que debe de pagarse al trabajador a cambio de los 
 
 El salario será uniforme para cada una de las categorías de los trabajadores de base en base al tabulador que establezca la Autoridad competente y será fijado legalmente en los presupuestos respectivos, no pudiendo ser menor, atendiendo a condiciones de sexo, edad, nacionalidad o estado civil.
 
-### CAPÍTULO IV. MEDIDAS DISCIPLINARIAS
+### CAPÍTULO III. DE LAS OBLIGACIONES DE LOS TRABAJADORES
 
 ###### ARTÍCULO 233.
 
@@ -2601,7 +2787,7 @@ Todo lo relacionado con los Riesgos profesionales y accidentes de trabajo, será
 
 Las faltas de asistencia injustificadas que tengan los trabajadores se sancionarán, reduciendo de su salario el día no trabajado, y en caso de que compute más de tres faltas en el término de treinta días será motivo suficiente para rescindir la relación laboral, sin responsabilidad para el H. Ayuntamiento.
 
-### CAPÍTULO V. OBLIGACIONES DEL H. AYUNTAMIENTO HACIA SUS TRABAJADORES
+### CAPÍTULO IV. MEDIDAS DISCIPLINARIAS
 
 ###### ARTÍCULO 238.
 
@@ -2623,7 +2809,7 @@ III.- Rescisión de la relación de trabajo; y
 
 IV.- Denunciar los hechos ante las Autoridades competentes, en caso de que su conducta entrañe la comisión de algún ilícito.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO V. OBLIGACIONES DEL H. AYUNTAMIENTO HACIA SUS TRABAJADORES
 
 ###### ARTÍCULO 241.
 
@@ -2651,7 +2837,7 @@ Son días de descanso para los trabajadores del Municipio los siguientes:
 
 ## TÍTULO SEGUNDO. DEL SERVICIO CIVIL DE CARRERA
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 243.
 
@@ -2725,7 +2911,7 @@ En la aplicación del presente capítulo, se atenderá en lo conducente lo dispu
 
 ## TÍTULO PRIMERO. DEL USO Y CONTROL DE LOS VEHÍCULOS OFICIALES
 
-### CAPÍTULO II. ATRIBUCIONES DE LAS AUTORIDADES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 248.
 
@@ -2779,7 +2965,7 @@ IV.- El Departamento.
 
 La aplicación del presente Libro compete al Ayuntamiento, a través de la Secretaría de Gobierno Municipal, quien se auxiliará del Departamento de Control y Mantenimiento Vehicular.
 
-### CAPÍTULO III. DE LA RESPONSABILIDAD DEL CONTROL VEHICULAR DE LAS DEPENDENCIAS MUNICIPALES
+### CAPÍTULO II. ATRIBUCIONES DE LAS AUTORIDADES
 
 ###### ARTÍCULO 253.
 
@@ -2837,7 +3023,7 @@ Para la ejecución y cumplimiento de las atribuciones y obligaciones que el pres
 
 La Contraloría, vigilará que las atribuciones y obligaciones que este Libro impone a la Secretaría de Gobierno Municipal, se lleven a cabo eficazmente.
 
-### CAPÍTULO IV. DE LA ASIGNACIÓN DE VEHÍCULOS A LAS DEPENDENCIAS MUNICIPALES
+### CAPÍTULO III. DE LA RESPONSABILIDAD DEL CONTROL VEHICULAR DE LAS DEPENDENCIAS MUNICIPALES
 
 ###### ARTÍCULO 257.
 
@@ -2891,7 +3077,7 @@ El responsable del control vehicular, vigilará el uso adecuado, eficiente y rac
 
 La Secretaría de Gobierno Municipal determinará la forma, términos y condiciones en que el responsable del control vehicular, responderá de las obligaciones que se deriven del presente Libro.
 
-### CAPÍTULO V. DE LAS OBLIGACIONES DE LOS USUARIOS
+### CAPÍTULO IV. DE LA ASIGNACIÓN DE VEHÍCULOS A LAS DEPENDENCIAS MUNICIPALES
 
 ###### ARTÍCULO 260.
 
@@ -2909,7 +3095,7 @@ Los titulares de las dependencias municipales, asignarán libremente a las área
 
 Los servidores públicos al frente de cada una de las áreas administrativas, deberán observar lo dispuesto en este Libro para la designación de los usuarios de los vehículos que les sean asignados.
 
-### CAPÍTULO VI. DE LOS ACCIDENTES Y SINIESTROS
+### CAPÍTULO V. DE LAS OBLIGACIONES DE LOS USUARIOS
 
 ###### ARTÍCULO 262.
 
@@ -2943,7 +3129,7 @@ XIII.- Entregar el vehículo en las mismas condiciones físicas y mecánicas en 
 
 XIV.- Las demás que establezca este Libro, los acuerdos del Ayuntamiento y demás disposiciones aplicables.
 
-### CAPÍTULO VII. DEL MANTENIMIENTO DE LOS VEHÍCULOS
+### CAPÍTULO VI. DE LOS ACCIDENTES Y SINIESTROS
 
 ###### ARTÍCULO 263.
 
@@ -2981,7 +3167,7 @@ En caso de cese o renuncia de los servidores públicos involucrados, deberán ga
 
 La Secretaría de Gobierno Municipal, atendiendo a la naturaleza del accidente o siniestro, así como las circunstancias de su realización y previa determinación de la existencia de responsabilidad por parte de la autoridad competente, establecerá la forma, términos y condiciones en que el responsable del control vehicular y el usuario, responderán subsidiariamente de los daños y perjuicios ocasionados al Municipio.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VII. DEL MANTENIMIENTO DE LOS VEHÍCULOS
 
 ###### ARTÍCULO 268.
 
@@ -3005,7 +3191,7 @@ Los responsables de control vehicular, se asegurarán de que los vehículos asig
 
 ## TÍTULO SEGUNDO. DEL PROCEDIMIENTO, SANCIONES Y MEDIOS DE IMPUGNACIÓN
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 272.
 
@@ -3029,7 +3215,7 @@ En contra de las resoluciones y sanciones impuestas por infracciones a este Libr
 
 ## TÍTULO PRIMERO. DE LAS GENERALIDADES
 
-### CAPÍTULO II. DEL DESARROLLO Y FOMENTO ECONÓMICO
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 276.
 
@@ -3107,7 +3293,7 @@ XI.- Dañar árboles y plantas, y
 
 XII.- Desperdiciar o usar inmoderadamente el agua.
 
-### CAPÍTULO III. DEL DESARROLLO INTEGRAL
+### CAPÍTULO II. DEL DESARROLLO Y FOMENTO ECONÓMICO
 
 ###### ARTÍCULO 282.
 
@@ -3127,7 +3313,7 @@ VI.- Desarrollar corredores comerciales y turísticos en áreas propias y adecua
 
 VII.- Fomentar los tianguis comerciales en temporadas bajas del comercio organizado, procurando alentar la disminución de precios y el aumento del consumo.
 
-### CAPÍTULO IV. DE LA PLANEACIÓN MUNICIPAL
+### CAPÍTULO III. DEL DESARROLLO INTEGRAL
 
 ###### ARTÍCULO 283.
 
@@ -3149,7 +3335,7 @@ Para cuidar la armónica distribución del territorio municipal, el Ayuntamiento
 
 Quedan estrictamente prohibidos los asentamientos humanos sin previa autorización del Ayuntamiento, quién en todo momento podrá convenir y ejecutar, a través de la autoridad correspondiente, las acciones a seguir para prevenir, desalojar y en su caso, demandar a los autores materiales e intelectuales en caso de delito.
 
-### CAPÍTULO I. PERMISOS Y LICENCIAS
+### CAPÍTULO IV. DE LA PLANEACIÓN MUNICIPAL
 
 ###### ARTÍCULO 287.
 
@@ -3181,7 +3367,7 @@ El Presidente Municipal convocará para que se integre la Comisión de Planeaci�
 
 ## TÍTULO SEGUNDO. DE LAS ACTIVIDADES INDUSTRIALES, COMERCIALES Y DE SERVICIOS
 
-### CAPÍTULO II. DEL COMERCIO EN LA VÍA PÚBLICA
+### CAPÍTULO I. PERMISOS Y LICENCIAS
 
 ###### ARTÍCULO 294.
 
@@ -3211,7 +3397,7 @@ El ejercicio del comercio ambulante requerirá de licencia o permiso de la Autor
 
 La Autoridad Municipal, podrá practicar visitas de verificación o inspección a los comerciantes ambulantes, únicamente para cerciorarse de que se han cumplido con los reglamentos sanitarios y disposiciones de este Código Municipal Reglamentario; exigir la exhibición de la licencia o permiso de la Autoridad Municipal, así como de los libros o documentos indispensables para comprobar que se han acatado las disposiciones fiscales.
 
-### CAPÍTULO III. DEL COMERCIO ESTABLECIDO
+### CAPÍTULO II. DEL COMERCIO EN LA VÍA PÚBLICA
 
 ###### ARTÍCULO 301.
 
@@ -3237,7 +3423,7 @@ En ningún caso se permitirá la venta de productos o artículos, en la vía pú
 
 Queda estrictamente prohibida la venta en la vía pública, de armas de fuego, diábolos, postas y municiones, así como armas punzo cortantes y cualquier tipo de artefactos explosivos y pirotécnicos elaborados a base de pólvora.
 
-### CAPÍTULO IV. DE LOS ESPECTÁCULOS PÚBLICOS
+### CAPÍTULO III. DEL COMERCIO ESTABLECIDO
 
 ###### ARTÍCULO 307.
 
@@ -3317,7 +3503,7 @@ Es obligación de los propietarios de estos establecimientos, exhibir este orden
 
 La Autoridad Municipal, podrá practicar visitas domiciliarias de verificación o inspección a comercios establecidos y semifijos, únicamente para cerciorarse de que se han cumplido con los Reglamentos sanitarios y disposiciones de este Código Municipal Reglamentario y demás disposiciones legales aplicables; así como para exigir la exhibición de libros y documentos indispensables para comprobar que se han acatado las disposiciones fiscales de acuerdo a lo establecido en el Convenio de Colaboración administrativa celebrado entre la Secretaría de Hacienda y Crédito Público y el Gobierno del Estado de Zacatecas, publicado en el Diario Oficial de Gobierno del Estado de Zacatecas de fecha 22 de agosto de 1998).
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO IV. DE LOS ESPECTÁCULOS PÚBLICOS
 
 ###### ARTÍCULO 316.
 
@@ -3375,7 +3561,7 @@ En el territorio municipal queda terminantemente prohibida la venta para cualqui
 
 ## TÍTULO TERCERO. DE LOS MERCADOS Y EL COMERCIO AMBULANTE
 
-### CAPÍTULO II. NATURALEZA Y CARACTERÍSTICA DE LA ACTIVIDAD COMERCIAL
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 324.
 
@@ -3407,7 +3593,7 @@ Las personas autorizadas para ejercer actividades lucrativas o remunerativas, es
 
 La Autoridad Municipal se reserva el derecho de resolver discrecionalmente las situaciones que escapen a las leyes vigentes.
 
-### CAPÍTULO I. DE LAS AUTORIDADES
+### CAPÍTULO II. NATURALEZA Y CARACTERÍSTICA DE LA ACTIVIDAD COMERCIAL
 
 ###### ARTÍCULO 328.
 
@@ -3449,7 +3635,7 @@ Se entenderá como ZONA DE MERCADO los lugares o espacios adyacentes a los merca
 
 ## TÍTULO CUARTO. AUTORIDADES Y ATRIBUCIONES EN MATERIA COMERCIAL
 
-### CAPÍTULO II. ATRIBUCIONES EN MATERIA DE COMERCIO
+### CAPÍTULO I. DE LAS AUTORIDADES
 
 ###### ARTÍCULO 331.
 
@@ -3477,7 +3663,7 @@ V.- Cobradores o Recaudadores.
 
 La Autoridad Municipal deberá estrechar la colaboración con los funcionarios estatales y federales para garantizar el respeto a los precios oficiales de productos básicos y servicios.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO II. ATRIBUCIONES EN MATERIA DE COMERCIO
 
 ###### ARTÍCULO 334.
 
@@ -3555,7 +3741,7 @@ Los cobradores o recaudadores dependerán de la Dirección de Finanzas y Tesorer
 
 ## TÍTULO QUINTO. DE LAS CONCESIONES, LICENCIAS Y PERMISOS
 
-### CAPÍTULO I. DE LAS ZONAS COMERCIALES
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 342.
 
@@ -3613,7 +3799,7 @@ Cuando la licencia o autorización sea para explotar un puesto de periódicos, s
 
 ## TÍTULO SEXTO. DE LAS ZONAS Y GIROS COMERCIALES
 
-### CAPÍTULO II. DE LOS GIROS COMERCIALES
+### CAPÍTULO I. DE LAS ZONAS COMERCIALES
 
 ###### ARTÍCULO 353.
 
@@ -3639,7 +3825,7 @@ V.- Zona de segundo cuadro: La comprendida fuera del primer cuadro; y
 
 VI.- Zona periférica: Las colonias ubicadas en los límites de la mancha urbana.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LOS GIROS COMERCIALES
 
 ###### ARTÍCULO 356.
 
@@ -3659,7 +3845,7 @@ Para hacer un cambio o ampliación de giro o actividad, los comerciantes deberá
 
 ## TÍTULO SÉPTIMO. HORARIO Y SUSPENSIÓN DE LABORES
 
-### CAPÍTULO I. ORGANIZACIÓN Y OBLIGACIONES
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 360.
 
@@ -3691,7 +3877,7 @@ Para efecto de la suspensión de labores se estará a lo dispuesto por el presen
 
 ## TÍTULO OCTAVO. ORGANIZACIÓN Y OBLIGACIONES DE LOS COMERCIANTES
 
-### CAPÍTULO II. DE LOS PUESTOS Y LOCALES
+### CAPÍTULO I. ORGANIZACIÓN Y OBLIGACIONES
 
 ###### ARTÍCULO 367.
 
@@ -3747,7 +3933,7 @@ XIII.- Mantener aseada un área perimetral de 10 metros; y
 
 XIV.- Las demás que señalan las leyes y el presente Código Municipal Reglamentario.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LOS PUESTOS Y LOCALES
 
 ###### ARTÍCULO 371.
 
@@ -3805,7 +3991,7 @@ Las controversias suscitadas entre dos o más personas que se atribuyan derechos
 
 ## TÍTULO NOVENO. DEL PADRÓN DE AVISOS
 
-### CAPÍTULO II. DE LOS PAGOS Y AVISOS
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 384.
 
@@ -3827,7 +4013,7 @@ VII.- Cuota diaria; y
 
 VIII.- Observaciones.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LOS PAGOS Y AVISOS
 
 ###### ARTÍCULO 385.
 
@@ -3915,7 +4101,7 @@ XV.- Manejar comestibles sin la higiene necesaria, la misma persona que recaude 
 
 ## TÍTULO DÉCIMO PRIMERO. INFRACCIONES Y SANCIONES
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 395.
 
@@ -3975,7 +4161,7 @@ Siempre que se trate de créditos fiscales impugnados por los particulares, ést
 
 ## TÍTULO PRIMERO. DE LAS GENERALIDADES
 
-### CAPÍTULO II. DEPARTAMENTO DE ESPECTÁCULOS PÚBLICOS
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 403.
 
@@ -4011,7 +4197,7 @@ La solicitud se realizará en la oficina de espectáculos públicos y diversione
 
 En caso de proceder la expedición de la licencia se le notificará en esos términos al interesado o a su Representante debidamente acreditado a fin de que se cubran los derechos municipales.
 
-### CAPÍTULO III. DE LOS REQUISITOS DE AUTORIZACIÓN
+### CAPÍTULO II. DEPARTAMENTO DE ESPECTÁCULOS PÚBLICOS
 
 ###### ARTÍCULO 409.
 
@@ -4125,7 +4311,7 @@ III.- Estar al corriente del pago de sus impuestos y cargas fiscales que se deri
 
 IV.- Pagar al Municipio los derechos correspondientes.
 
-### CAPÍTULO IV. DE LA INSPECCIÓN DE ESPECTÁCULOS
+### CAPÍTULO III. DE LOS REQUISITOS DE AUTORIZACIÓN
 
 ###### ARTÍCULO 420.
 
@@ -4229,7 +4415,7 @@ Esto sin perjuicio de que para los efectos de este Código Municipal Reglamentar
 
 La persona o personas que designe el Ayuntamiento por conducto de la oficina correspondiente tendrán libre acceso a todos los centros de diversiones.
 
-### CAPÍTULO V. DE LOS ESPECTADORES
+### CAPÍTULO IV. DE LA INSPECCIÓN DE ESPECTÁCULOS
 
 ###### ARTÍCULO 437.
 
@@ -4315,13 +4501,13 @@ La celebración de un espectáculo autorizado, sólo puede suspenderse por causa
 
 En el caso de que cualquier inspector o verificador no cumpliese sus obligaciones de conformidad con lo previsto en el presente Código Municipal Reglamentario, el Jefe de la Oficina de Espectáculos, deberá imponerle las medidas disciplinarias que el presente Código Municipal Reglamentario y el Reglamento interior del trabajo señale.
 
-### CAPÍTULO VI. DE LOS CINES, TEATROS Y SALAS DE CONCIERTOS
+### CAPÍTULO V. DE LOS ESPECTADORES
 
 ###### ARTÍCULO 452.
 
 Los espectadores podrán, cuando tengan motivo de queja contra la empresa o los actores, ponerla en conocimiento a la Autoridad respectiva o en su defecto ante el inspector de espectáculos del Ayuntamiento.
 
-### CAPÍTULO VII. DE LAS ARENAS DE BOX, LUCHA Y ARTES MARCIALES
+### CAPÍTULO VI. DE LOS CINES, TEATROS Y SALAS DE CONCIERTOS
 
 ###### ARTÍCULO 453.
 
@@ -4347,7 +4533,7 @@ Las salas cinematográficas, los teatros y salas de conciertos podrán contar co
 
 Las salas cinematográficas podrán proyectar anuncios comerciales durante las funciones que celebren, siempre y cuando no exceda su duración más de quince minutos por función y previa autorización del Ayuntamiento y pago de derechos.
 
-### CAPÍTULO VIII. DE LAS CARRERAS DE AUTOMÓVILES, BICICLETAS, CABALLOS, PERROS Y OTROS VEHÍCULOS Y ANIMALES
+### CAPÍTULO VII. DE LAS ARENAS DE BOX, LUCHA Y ARTES MARCIALES
 
 ###### ARTÍCULO 459.
 
@@ -4379,7 +4565,7 @@ Las arenas de box, lucha y artes marciales podrán ser utilizadas para la celebr
 
 Se podrán vender bebidas no embriagantes y alimentos en los locales y arenas de box, lucha y artes marciales, en lugares específicamente establecidos para ello, donde no se entorpezca la circulación del público espectador. Cuando la Autoridad Municipal lo autorice, se podrá vender cerveza en vasos de cartón o plástico, siempre y cuando su venta sea en consumo moderado y en eventos donde se cumplan con la solicitud y autorización correspondiente de la Autoridad Municipal.
 
-### CAPÍTULO IX. DE LAS FERIAS, JUEGOS MECÁNICOS Y ELÉCTRICOS
+### CAPÍTULO VIII. DE LAS CARRERAS DE AUTOMÓVILES, BICICLETAS, CABALLOS, PERROS Y OTROS VEHÍCULOS Y ANIMALES
 
 ###### ARTÍCULO 466.
 
@@ -4409,7 +4595,7 @@ Habrá instalaciones especiales para los Jueces de los eventos, en donde además
 
 Los eventos deben contar con las autorizaciones estatales y/o federales que se requieran.
 
-### CAPÍTULO X. DE LOS CIRCOS Y SALONES DE FIESTAS INFANTILES
+### CAPÍTULO IX. DE LAS FERIAS, JUEGOS MECÁNICOS Y ELÉCTRICOS
 
 ###### ARTÍCULO 470.
 
@@ -4429,7 +4615,7 @@ VI.- Que las empresas explotadoras se hagan responsables de los daños y perjuic
 
 VII.- Que cuenten con planta de luz propia.
 
-### CAPÍTULO XI. SALONES DE BOLICHE, DE BILLAR Y JUEGOS ELECTROMECÁNICOS
+### CAPÍTULO X. DE LOS CIRCOS Y SALONES DE FIESTAS INFANTILES
 
 ###### ARTÍCULO 471.
 
@@ -4457,7 +4643,7 @@ Los locales de circos y fiestas infantiles no podrán ser utilizados para la cel
 
 Los circos y carpas que se instalen en el Municipio se harán responsables de los daños y perjuicios que se ocasione a la vía pública o camellones y que les sean imputables.
 
-### CAPÍTULO XII. DE LOS FRONTONES, SQUASH Y PISTAS DE PATINAJE
+### CAPÍTULO XI. SALONES DE BOLICHE, DE BILLAR Y JUEGOS ELECTROMECÁNICOS
 
 ###### ARTÍCULO 477.
 
@@ -4515,7 +4701,7 @@ III.- Prohibir que se fume en el interior del local y se ingieran bebidas alcoh�
 
 IV.- Cuidar que el ruido generado por el funcionamiento de las máquinas o aparatos no rebase los decibeles máximos permitidos, acatando al efecto las disposiciones de la Autoridad competente.
 
-### CAPÍTULO XIII. DE LOS CAMPOS Y ESTADIOS DE FÚTBOL
+### CAPÍTULO XII. DE LOS FRONTONES, SQUASH Y PISTAS DE PATINAJE
 
 ###### ARTÍCULO 484.
 
@@ -4529,7 +4715,7 @@ Los frontones de apuesta deberán tener los permisos de autorización otorgados 
 
 Queda estrictamente prohibida la entrada a menores de edad a frontones de apuestas.
 
-### CAPÍTULO XIV. DE LAS PLAZAS DE TOROS Y LIENZOS CHARROS
+### CAPÍTULO XIII. DE LOS CAMPOS Y ESTADIOS DE FÚTBOL
 
 ###### ARTÍCULO 487.
 
@@ -4563,7 +4749,7 @@ Los estadios de fútbol, deberán tener las medidas establecidas por los reglame
 
 Cuando pretendan establecerse campos y estadios de fútbol en los clubes deportivos, deberá incluirse dentro de la solicitud de operación y funcionamiento, toda la información necesaria a fin de que se compruebe que cumplan con lo dispuesto por el presente Código Municipal Reglamentario.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO XIV. DE LAS PLAZAS DE TOROS Y LIENZOS CHARROS
 
 ###### ARTÍCULO 493.
 
@@ -4613,7 +4799,7 @@ Para brindar la máxima seguridad a los participantes en corridas de toros, char
 
 ## TÍTULO SEGUNDO. DE LAS INFRACCIONES Y SANCIONES
 
-### CAPÍTULO II. DE LAS INFRACCIONES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 500.
 
@@ -4623,7 +4809,7 @@ La aplicación de sanciones administrativas que procedan por infracción al pres
 
 Corresponderá a la oficina de espectáculos la vigilancia del cumplimiento exacto del presente ordenamiento, así como la calificación jurídica que determine, en el caso concreto, si la persona de que se trata ha incurrido o no en infracción.
 
-### CAPÍTULO III. DE LAS SANCIONES
+### CAPÍTULO II. DE LAS INFRACCIONES
 
 ###### ARTÍCULO 502.
 
@@ -4653,7 +4839,7 @@ XI.- Funcionar fuera del horario establecido; y
 
 XII.- Las demás que establezcan el presente Código Municipal Reglamentario y otros ordenamientos legales.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO III. DE LAS SANCIONES
 
 ###### ARTÍCULO 503.
 
@@ -4697,7 +4883,7 @@ II.- Iniciar actividades mercantiles sin contar con la licencia de funcionamient
 
 ## TÍTULO I. DE LAS GENERALIDADES
 
-### CAPÍTULO II. SERVICIOS SANITARIOS
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 507.
 
@@ -4741,7 +4927,7 @@ Se prohíbe la venta de bebidas alcohólicas a menores de edad, el consumo de es
 
 Se prohíbe la posesión o venta en los puestos a que se refiere este apartado de materias o substancias inflamables, tóxicas o explosivas.
 
-### CAPÍTULO III. CONDICIONES SANITARIAS DE LOCALES, PERSONAL Y PRODUCTOS
+### CAPÍTULO II. SERVICIOS SANITARIOS
 
 ###### ARTÍCULO 514.
 
@@ -4785,7 +4971,7 @@ La vigilancia dirigida a proporcionar seguridad y auxilio al público, se realiz
 
 El servicio médico se dispondrá en el área o local previsto para tal fin, contará con los elementos indispensables para prestar los primeros auxilios en servicio de urgencia, debiendo cubrir el mismo horario autorizado para el funcionamiento de la feria.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO III. CONDICIONES SANITARIAS DE LOCALES, PERSONAL Y PRODUCTOS
 
 ###### ARTÍCULO 521.
 
@@ -4831,7 +5017,7 @@ Sólo se permitirá la presencia de animales cuando el trato y las instalaciones
 
 ## TÍTULO PRIMERO. DE LAS GENERALIDADES
 
-### CAPÍTULO II. DEL ORGANISMO DE AGUA POTABLE
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 531.
 
@@ -4887,7 +5073,7 @@ En caso de concesionarse obras y servicios públicos municipales, estos quedará
 
 El Ayuntamiento podrá celebrar convenios con particulares para la prestación conjunta de los servicios públicos municipales, previo acuerdo con del (sic) Cabildo, debiendo reservarse la organización, dirección y supervisión el Gobierno Municipal, conforme a las disposiciones que parta (sic) tal efecto dicte el propio Ayuntamiento.
 
-### CAPÍTULO I. DE LA SEGURIDAD PÚBLICA MUNICIPAL Y PROTECCIÓN CIUDADANA
+### CAPÍTULO II. DEL ORGANISMO DE AGUA POTABLE
 
 ###### ARTÍCULO 540.
 
@@ -4923,7 +5109,7 @@ El “SIAPASF” podrá establecer los programas específicos a fin de racionali
 
 ## TÍTULO SEGUNDO. DE LA SEGURIDAD PÚBLICA Y PROTECCIÓN CIUDADANA
 
-### CAPÍTULO ÚNICO. DE LA FUNCIÓN CONCILIADORA Y CALIFICADORA
+### CAPÍTULO I. DE LA SEGURIDAD PÚBLICA MUNICIPAL Y PROTECCIÓN CIUDADANA
 
 ###### ARTÍCULO 544.
 
@@ -4983,7 +5169,7 @@ XVII.- Cuidar el exacto cumplimiento de su Reglamento interno, cumplir con las o
 
 ## TÍTULO TERCERO. DE LOS ALCAIDES
 
-### CAPÍTULO I. REGLAS GENERALES
+### CAPÍTULO ÚNICO. DE LA FUNCIÓN CONCILIADORA Y CALIFICADORA
 
 ###### ARTÍCULO 548.
 
@@ -5023,7 +5209,7 @@ El Ayuntamiento determinará la forma de organización y funcionamiento de los A
 
 ## TÍTULO CUARTO. DE LAS FALTAS, INFRACCIONES Y SANCIONES
 
-### CAPÍTULO II. DE LAS FALTAS CONTRA LA SEGURIDAD PÚBLICA
+### CAPÍTULO I. REGLAS GENERALES
 
 ###### ARTÍCULO 551.
 
@@ -5045,7 +5231,7 @@ El daño o perjuicio que pudiera causarse como consecuencia de una falta adminis
 
 Las sanciones administrativas previstas en este Título, serán aplicables cuando corresponda, sin perjuicio de la responsabilidad civil o penal que con motivo de los mismos hechos de que se trata, hayan incurrido los infractores.
 
-### CAPÍTULO III. DE LAS FALTAS CONTRA EL CIVISMO
+### CAPÍTULO II. DE LAS FALTAS CONTRA LA SEGURIDAD PÚBLICA
 
 ###### ARTÍCULO 556.
 
@@ -5067,7 +5253,7 @@ VII.- Organizar o tomar parte en juegos de cualquier índole en lugares público
 
 VIII.- Solicitar los servicios de policía, de los bomberos o de establecimientos médicos o asistencias de emergencia, invocando hechos falsos.
 
-### CAPÍTULO IV. DE LAS FALTAS CONTRA LA PROPIEDAD PÚBLICA
+### CAPÍTULO III. DE LAS FALTAS CONTRA EL CIVISMO
 
 ###### ARTÍCULO 557.
 
@@ -5083,7 +5269,7 @@ IV.- No guardar el debido silencio o no hacer el saludo a la bandera en los acto
 
 V.- Dañar o ridiculizar Monumentos Históricos.
 
-### CAPÍTULO V. DE LAS FALTAS CONTRA LA SALUBRIDAD PÚBLICA
+### CAPÍTULO IV. DE LAS FALTAS CONTRA LA PROPIEDAD PÚBLICA
 
 ###### ARTÍCULO 558.
 
@@ -5105,7 +5291,7 @@ VII.- Cortar las ramas de los árboles de las calles, avenidas y vías públicas
 
 VIII.- Borrar, cubrir o alterar la nomenclatura con las que están marcadas las casas o los letreros que designen las calles o plazas u ocupar los lugares destinados para ello, con propaganda de cualquier clase.
 
-### CAPÍTULO VI. DE LAS FALTAS CONTRA EL BIENESTAR COLECTIVO
+### CAPÍTULO V. DE LAS FALTAS CONTRA LA SALUBRIDAD PÚBLICA
 
 ###### ARTÍCULO 559.
 
@@ -5127,7 +5313,7 @@ VII.- Sacudir ropa, alfombras y otros objetos hacia la vía pública, o tirar de
 
 VIII.- Colocar en la vía pública, desechos automotrices, así como dejar vehículos estacionados por más de quince días que ocasionen la acumulación de basura y que generen contaminación o la proliferación de fauna nociva.
 
-### CAPÍTULO VII. DE LAS FALTAS CONTRA LA INTEGRIDAD DE LAS PERSONAS Y LA SEGURIDAD DE SU PATRIMONIO
+### CAPÍTULO VI. DE LAS FALTAS CONTRA EL BIENESTAR COLECTIVO
 
 ###### ARTÍCULO 560.
 
@@ -5151,7 +5337,7 @@ VIII.- Proferir palabras obscenas o altisonantes en lugares públicos; y
 
 IX.- Causar daños a vecinos, transeúntes o vehículos por omitir las medidas necesarias de aseguramiento de tiestos, plantas u otros objetos.
 
-### CAPÍTULO VIII. DE LAS FALTAS CONTRA LA INTEGRIDAD MORAL DEL INDIVIDUO
+### CAPÍTULO VII. DE LAS FALTAS CONTRA LA INTEGRIDAD DE LAS PERSONAS Y LA SEGURIDAD DE SU PATRIMONIO
 
 ###### ARTÍCULO 561.
 
@@ -5173,7 +5359,7 @@ VII.- Dirigirse a una persona con frases o ademanes groseros que afecten su pudo
 
 VIII.- Maltratar o ensuciar los vehículos automotores o cualquier otro bien mueble de propiedad privada.
 
-### CAPÍTULO IX. DE LAS FALTAS CONTRA EL LIBRE TRÁNSITO
+### CAPÍTULO VIII. DE LAS FALTAS CONTRA LA INTEGRIDAD MORAL DEL INDIVIDUO
 
 ###### ARTÍCULO 562.
 
@@ -5193,13 +5379,13 @@ VI.- Asumir en lugares públicos actitudes obscenas, indignas o que atenten cont
 
 VII.- Asistir los menores de dieciocho años de edad, a centros nocturnos, bares, pulquerías o cualquier otro lugar en que se prohíba su permanencia, esto con independencia de las sanciones correspondientes a los propietarios de los establecimientos, de acuerdo con las disposiciones reglamentarias que las rijan.
 
-### CAPÍTULO X. DE LAS FALTAS CONTRA LA MORAL Y LA DIGNIDAD PÚBLICA
+### CAPÍTULO IX. DE LAS FALTAS CONTRA EL LIBRE TRÁNSITO
 
 ###### ARTÍCULO 563.
 
 Las autoridades del Municipio de Fresnillo, respetarán y garantizarán el derecho a la expresión de ideas, siempre y cuando en las manifestaciones públicas no se ataque a la moral, los derechos de terceros, provoquen delitos, perturben el orden público o impidan el ejercicio del derecho al libre tránsito que tienen los ciudadanos.
 
-### CAPÍTULO XI. DE LOS HORARIOS DE FUNCIONAMIENTO DE COMERCIOS Y ESTABLECIMIENTOS PÚBLICOS
+### CAPÍTULO X. DE LAS FALTAS CONTRA LA MORAL Y LA DIGNIDAD PÚBLICA
 
 ###### ARTÍCULO 564.
 
@@ -5229,7 +5415,7 @@ Los inspectores de Sanidad tendrán amplias facultades, para calificar las infra
 
 Al igual que el artículo anterior, los inspectores podrán infraccionar a los propietarios o encargados de los establecimientos de referencia, pudiendo proceder a la clausura temporal o definitiva, según la gravedad del caso.
 
-### CAPÍTULO XII. DE LAS MANIFESTACIONES PÚBLICAS
+### CAPÍTULO XI. DE LOS HORARIOS DE FUNCIONAMIENTO DE COMERCIOS Y ESTABLECIMIENTOS PÚBLICOS
 
 ###### ARTÍCULO 568.
 
@@ -5307,7 +5493,7 @@ En caso de que se autorice la ampliación del horario, se cubrirá el pago del p
 
 El Ayuntamiento, haciendo uso de sus facultades y apoyándose en los Reglamentos respectivos, registrará y controlará la actividad comercial que realicen los particulares.
 
-### CAPÍTULO XIII. DE LAS SANCIONES E INFRACCIONES
+### CAPÍTULO XII. DE LAS MANIFESTACIONES PÚBLICAS
 
 ###### ARTÍCULO 572.
 
@@ -5321,7 +5507,7 @@ No se autorizará la realización de dos o más mítines o manifestaciones en fo
 
 La propaganda de programas y pintas, se fijará solamente en los lugares que autorice la Autoridad Municipal y previo permiso por escrito del propietario del inmueble.
 
-### CAPÍTULO ÚNICO. DE LA PREVENCIÓN
+### CAPÍTULO XIII. DE LAS SANCIONES E INFRACCIONES
 
 ###### ARTÍCULO 575.
 
@@ -5365,7 +5551,7 @@ Queda estrictamente prohibido en el Municipio, llevar a cabo juegos de cualquier
 
 ## TÍTULO QUINTO. DE LA PREVENCIÓN DE USO DE INHALANTES DE EFECTO PSICOTRÓPICO
 
-### CAPÍTULO I. DE LAS LICENCIAS, PERMISOS Y AUTORIZACIONES
+### CAPÍTULO ÚNICO. DE LA PREVENCIÓN
 
 ###### ARTÍCULO 585.
 
@@ -5399,7 +5585,7 @@ Toda persona tendrá la obligación de denunciar ante el Ayuntamiento a la perso
 
 ## TÍTULO PRIMERO. DE LAS CONSTRUCCIONES Y SU EJECUCIÓN
 
-### CAPÍTULO II. DE LOS PERITOS RESPONSABLES DE OBRA
+### CAPÍTULO I. DE LAS LICENCIAS, PERMISOS Y AUTORIZACIONES
 
 ###### ARTÍCULO 592.
 
@@ -5483,7 +5669,7 @@ Permiso es el documento expedido por la Dirección General de Desarrollo Urbano 
 
 Autorización es el documento por el que la Dirección General de Desarrollo Urbano concede el uso o factibilidad de utilizar un servicio público en relación con una obra de construcción.
 
-### CAPÍTULO III. DE LOS PROYECTOS Y EJECUCIÓN DE LAS OBRAS
+### CAPÍTULO II. DE LOS PERITOS RESPONSABLES DE OBRA
 
 ###### ARTÍCULO 601.
 
@@ -5577,7 +5763,7 @@ Se dará aviso de la suspensión al Colegio respectivo.
 
 La suspensión se dictará por un lapso de 3 meses a 3 años o en casos extremos, podrá ser definitiva sin liberar al perito de la obligación de subsanar las irregularidades en que haya incurrido.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO III. DE LOS PROYECTOS Y EJECUCIÓN DE LAS OBRAS
 
 ###### ARTÍCULO 608.
 
@@ -5623,7 +5809,7 @@ Dicha supervisión no libera al propietario ni al perito responsable del cumplim
 
 ## TÍTULO SEGUNDO. DE LA VÍA PÚBLICA MUNICIPAL
 
-### CAPÍTULO II. DE LA CLASIFICACIÓN, CARACTERÍSTICAS Y FUNCIONES DE LAS VÍAS PÚBLICAS MUNICIPALES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 616.
 
@@ -5729,7 +5915,7 @@ El número oficial deberá colocarse en parte visible de la entrada de cada pred
 
 La Dirección General de Desarrollo Urbano podrá ordenar el cambio del número oficial para lo cual lo notificará al propietario, quedando éste obligado a colocar el nuevo número en el plazo que se le fije, pudiendo conservar el anterior noventa días naturales más.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LA CLASIFICACIÓN, CARACTERÍSTICAS Y FUNCIONES DE LAS VÍAS PÚBLICAS MUNICIPALES
 
 ###### ARTÍCULO 629.
 
@@ -5819,7 +6005,7 @@ X.- Remate Visual: Se considera como tal el punto focal de una perspectiva, cons
 
 ## TÍTULO SEGUNDO. DE LOS ANUNCIOS
 
-### CAPÍTULO II. DE LOS TRÁMITES ADMINISTRATIVOS Y REGISTROS
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 635.
 
@@ -6003,7 +6189,7 @@ No se requiere licencia para la colocación de anuncios adosados cuando no sean 
 
 Cuando se pretenda instalar este tipo de anuncios dentro del Centro Histórico o en las Zonas Especiales consideradas por este Código Municipal Reglamentario, el interesado deberá presentar ante la Dirección un croquis acotado o fotografía, indicando las dimensiones del anuncio y el lugar en que se pretenda colocar, en cuyo caso deberá sujetarse a las restricciones que se establecen en este apartado, para la instalación de anuncios en dichos lugares.
 
-### CAPÍTULO III. CLASIFICACIÓN DE LOS ANUNCIOS
+### CAPÍTULO II. DE LOS TRÁMITES ADMINISTRATIVOS Y REGISTROS
 
 ###### ARTÍCULO 657.
 
@@ -6107,7 +6293,7 @@ Los fabricantes, arrendadores y rotulistas de anuncios, tienen la obligación de
 
 Los pagos de licencias, permisos y sanciones, se realizarán en las cajas receptoras de la Dirección de Finanzas y Tesorería del Municipio de Fresnillo, Zacatecas.
 
-### CAPÍTULO IV. REQUERIMIENTOS TÉCNICOS GENERALES
+### CAPÍTULO III. CLASIFICACIÓN DE LOS ANUNCIOS
 
 ###### ARTÍCULO 669.
 
@@ -6271,7 +6457,7 @@ X.- Proyectados.
 
 Son anuncios especiales, aquellos cuyas características no corresponden a alguno de los clasificados por este Código Municipal Reglamentario o bien los que se adapten a un determinado diseño arquitectónico o se adecuen armoniosamente al entorno circundante en forma única.
 
-### CAPÍTULO V. ANUNCIOS ESTRUCTURALES
+### CAPÍTULO IV. REQUERIMIENTOS TÉCNICOS GENERALES
 
 ###### ARTÍCULO 676.
 
@@ -6303,7 +6489,7 @@ Es responsabilidad del propietario del anuncio cumplir con esta obligación; en 
 
 En caso de estructuras iguales para soporte de anuncios iguales, se podrá registrar una sola memoria de cálculo por cada anuncio, debidamente firmada en original por un perito registrado ante la Dirección, siempre y cuando las características de suelo sean similares; si las características son distintas, deberá presentarse una memoria de cálculo por cada anuncio.
 
-### CAPÍTULO VI. ANUNCIOS SEMIESTRUCTURALES
+### CAPÍTULO V. ANUNCIOS ESTRUCTURALES
 
 ###### ARTÍCULO 681.
 
@@ -6417,7 +6603,7 @@ IV.- Los espacios que no se utilicen para la fijación de anuncios, con respecto
 
 V.- La altura máxima de estos anuncios será de 2.50 metros
 
-### CAPÍTULO VII. ANUNCIOS SIN ESTRUCTURA SOPORTANTE
+### CAPÍTULO VI. ANUNCIOS SEMIESTRUCTURALES
 
 ###### ARTÍCULO 687.
 
@@ -6447,7 +6633,7 @@ III.- La distancia mínima de cualquier elemento integrante del anuncio, a cualq
 
 IV.- La altura máxima del anuncio será de 3.00 metros y como superficie máxima deberá tener 12 metros cuadrados, incluyendo todos los elementos del mismo.
 
-### CAPÍTULO VIII. DISPOSICIONES POR ZONA
+### CAPÍTULO VII. ANUNCIOS SIN ESTRUCTURA SOPORTANTE
 
 ###### ARTÍCULO 689.
 
@@ -6605,7 +6791,7 @@ La responsabilidad de cualquier tipo de daño que se origine con motivo de la ut
 
 La Dirección, con la opinión del Comité, resolverá los casos que por sus características sean considerados como especiales o que no tengan similitud con los anuncios mencionados en este Código Municipal Reglamentario.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VIII. DISPOSICIONES POR ZONA
 
 ###### ARTÍCULO 700.
 
@@ -6749,7 +6935,7 @@ Altura del poste 12 m² 15 m² 18 m²
 
 ## TÍTULO TERCERO. DE LA IMAGEN URBANA
 
-### CAPÍTULO II. DE LA RESPONSABILIDAD
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 712.
 
@@ -6815,7 +7001,7 @@ XXIII.- Macizo.- Todo paramento cerrado en su totalidad.
 
 XXIV.- Vano.- Todo hueco o vacío que se ubica sobre el macizo.
 
-### CAPÍTULO III. DEL COMITÉ MUNICIPAL DE DESARROLLO URBANO
+### CAPÍTULO II. DE LA RESPONSABILIDAD
 
 ###### ARTÍCULO 716.
 
@@ -6825,7 +7011,7 @@ Cuando el Comité y la Dirección lo consideren necesario podrán requerir a los
 
 Los usos del suelo y los programas relacionados con estos deberán de considerar lo manifestado en el presente apartado. Para ello, el Municipio promoverá la suscripción de acuerdo y en coordinación con las instancias correspondientes.
 
-### CAPÍTULO IV. DE LA PROTECCIÓN Y MEJORAMIENTO DE LA IMAGEN URBANA
+### CAPÍTULO III. DEL COMITÉ MUNICIPAL DE DESARROLLO URBANO
 
 ###### ARTÍCULO 718.
 
@@ -6835,7 +7021,7 @@ El Comité es un organismo consultivo con facultades de concertación y promoci�
 
 El Comité colaborará en la supervisión del cumplimiento de las disposiciones contenidas en este apartado, en lo que se refiere al mejoramiento y preservación de la Imagen Urbana, de conformidad con los objetivos plasmados al momento de la constitución de la misma y podrá proponer que se suspendan o clausuren obras y se realicen acciones dentro de la localidad.
 
-### CAPÍTULO V. DEL MEDIO NATURAL, DE LA TOPOGRAFÍA, DE LOS CUERPOS DE AGUA, DE LAS CAÑADAS Y ARROYOS Y DE LA VEGETACIÓN
+### CAPÍTULO IV. DE LA PROTECCIÓN Y MEJORAMIENTO DE LA IMAGEN URBANA
 
 ###### ARTÍCULO 720.
 
@@ -6863,7 +7049,7 @@ Lo anterior, independientemente de las sanciones que procedan en contra del prop
 
 En todo el conglomerado urbano y sus zonas aledañas se permiten obras y acciones de índole sociocultural, de imagen urbana e infraestructura, siempre con fines de mejoramiento y conservación de la imagen urbana.
 
-### CAPÍTULO VI. DE LO CONSTRUIDO, DEL EQUIPAMIENTO Y LA INFRAESTRUCTURA, ZONA DE TRANSICIÓN, DEL MOBILIARIO URBANO Y DE LA SEÑALIZACIÓN
+### CAPÍTULO V. DEL MEDIO NATURAL, DE LA TOPOGRAFÍA, DE LOS CUERPOS DE AGUA, DE LAS CAÑADAS Y ARROYOS Y DE LA VEGETACIÓN
 
 ###### ARTÍCULO 725.
 
@@ -6901,7 +7087,7 @@ III.- La combinación de diferentes especies, será permitida cuando las selecci
 
 IV.- Cuando por razones de peligro o afectación ocasionado por árboles estos se tuvieren que derribar deberá obtenerse previamente la autorización de la Dirección. En caso de ser afirmativa será obligación del afectado reponer el o los árboles derribados por otros en número equivalente al perímetro del tronco. Esta obligación subsiste en el caso de que el o los árboles hayan sido derribados por accidente.
 
-### CAPÍTULO VII. PERMISOS Y LICENCIAS
+### CAPÍTULO VI. DE LO CONSTRUIDO, DEL EQUIPAMIENTO Y LA INFRAESTRUCTURA, ZONA DE TRANSICIÓN, DEL MOBILIARIO URBANO Y DE LA SEÑALIZACIÓN
 
 ###### ARTÍCULO 732.
 
@@ -7009,7 +7195,7 @@ Se permite la colocación de placas para nomenclatura y señalización, siempre 
 
 La tipografía tiene que ser acorde a la forma y proporción de las placas para nomenclatura.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO VII. PERMISOS Y LICENCIAS
 
 ###### ARTÍCULO 749.
 
@@ -7209,7 +7395,7 @@ El desahogo de este procedimiento, no excederá de quince días hábiles desde l
 
 ## TÍTULO PRIMERO. DE LAS GENERALIDADES
 
-### CAPÍTULO I. DE LAS CONSTANCIAS DE COMPATIBILIDAD URBANÍSTICA
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 780.
 
@@ -7357,7 +7543,7 @@ IX.- Todas las demás que se señalen en este Código Municipal Reglamentario y 
 
 DE LOS REQUISITOS PARA SOLICITAR LAS AUTORIZACIONES DE CONSTANCIA DE ALINEAMIENTO Y COMPATIBILIDAD URBANÍSTICA, FUSIÓN, SUBDIVISIÓN, DESMEMBRAMIENTO Y RELOTIFICACIÓN DE PREDIOS
 
-### CAPÍTULO II. DE LAS AUTORIZACIONES DE FUSIÓN, DESMEMBRAMIENTO Y SUBDIVISIÓN DE PREDIOS
+### CAPÍTULO I. DE LAS CONSTANCIAS DE COMPATIBILIDAD URBANÍSTICA
 
 ###### ARTÍCULO 785.
 
@@ -7385,7 +7571,7 @@ La citada resolución deberá dictarse en un término no mayor de diez días há
 
 Tratándose de obras o proyectos que se pretendan desarrollar en predios cuya superficie sea mayor a los 1,500 metros cuadrados pero menor a los 5,000 metros cuadrados, junto con la solicitud de constancia de alineamiento y compatibilidad urbanística, deberá presentar dictamen de impacto urbano, el cual deberá contener como mínimo áreas de carga y descarga, población concurrente o la que se le vayan a prestar servicios, áreas de estacionamiento, flujos de circulación vial en la zona de influencia, así como proyecto de imagen urbana conforme a la zona de su ubicación. El profesionista que elabore dicho dictamen de impacto urbano, debe ser avalado por la Dirección.
 
-### CAPÍTULO III. DE LAS AUTORIZACIONES DE RELOTIFICACIÓN DE PREDIOS
+### CAPÍTULO II. DE LAS AUTORIZACIONES DE FUSIÓN, DESMEMBRAMIENTO Y SUBDIVISIÓN DE PREDIOS
 
 ###### ARTÍCULO 787.
 
@@ -7425,7 +7611,7 @@ La citada resolución deberá dictarse en un término no mayor de diez días há
 
 Cuando se trate de solicitudes de subdivisiones que requieran el visto bueno del H. Ayuntamiento en sesión de Cabildo, conforme a lo establecido por el Código Urbano en su artículo 269, virtud a ser mayores a los 10,000 metros cuadrados, el plazo para la respuesta será de 30 días hábiles, siempre y cuando el Ayuntamiento hubiera contestado a la petición que le hiciera la Dirección.
 
-### CAPÍTULO IV. CONDICIONES PARA EXPEDIR LAS AUTORIZACIONES DE ALINEAMIENTO Y COMPATIBILIDAD URBANÍSTICA Y DE FUSIÓN, SUBDIVISIÓN, DESMEMBRAMIENTO Y RELOTIFICACIÓN DE PREDIOS
+### CAPÍTULO III. DE LAS AUTORIZACIONES DE RELOTIFICACIÓN DE PREDIOS
 
 ###### ARTÍCULO 788.
 
@@ -7451,7 +7637,7 @@ Una vez presentados los requisitos indicados, el solicitante deberá recoger en 
 
 La citada resolución deberá dictarse en un término no mayor de diez días hábiles, contados a partir de que la Dirección recibió la solicitud debidamente requisitada; en caso de no emitir la determinación en dicho término se entenderá como negada la autorización solicitada.
 
-### CAPÍTULO I. DEL CONTRO (SIC) DEL DESARROLLO URBANO
+### CAPÍTULO IV. CONDICIONES PARA EXPEDIR LAS AUTORIZACIONES DE ALINEAMIENTO Y COMPATIBILIDAD URBANÍSTICA Y DE FUSIÓN, SUBDIVISIÓN, DESMEMBRAMIENTO Y RELOTIFICACIÓN DE PREDIOS
 
 ###### ARTÍCULO 789.
 
@@ -7477,7 +7663,7 @@ I.- Toda subdivisión, desmembramiento, fusión y relotificación de terrenos de
 
 II.- Solo se autorizará el 10% de subdivisiones y relotificaciones de predios con respecto al total de lotes autorizados originalmente, en los fraccionamientos, colonias o barrios habitacionales urbanos, siempre y cuando no se sature o afecte la capacidad instalada, en cuanto al equipamiento e infraestructura existentes de las redes de agua potable, alcantarillado y drenaje; y del resultado no resulte una fracción menor al lote tipo del fraccionamiento al cual corresponda, o a la zona establecida en el programa de desarrollo urbano respectivo.
 
-Lo anterior se comprobará, mediante previo dictamen técnico que emita la Dependencia Municipal y/o Estatal prestadora del servicio de agua potable y alcantarillado, mismo que deberá presentar el peticionario con la solicitud de desmembramiento, subdivisión o relotificación, y (sic)
+Lo anterior se comprobará, mediante previo dictamen técnico que emita la Dependencia Municipal y/o Estatal prestadora del servicio de agua potable y alcantarillado, mismo que deberá presentar el peticionario con la solicitud de desmembramiento, subdivisión o relotificación, y
 
 III.- Tratándose de subdivisiones de predios para uso comercial, cualquiera de las fracciones resultantes no deberá ser menor a los 40 metros cuadrados y su frente deberá tener como mínimo 04 metros.
 
@@ -7493,7 +7679,7 @@ c).- Si el inmueble materia de la solicitud se ubica en un ejido, el peticionari
 
 ## TÍTULO TERCERO. DEL CONTROL DEL DESARROLLO URBANO Y DISPOSICIONES CON RESPECTO DE LA PROPIEDAD DE LOS BIENES INMUEBLES
 
-### CAPÍTULO II. DE LAS DISPOSICIONES A LA PROPIEDAD INMOBILIARIA
+### CAPÍTULO I. DEL CONTRO (SIC) DEL DESARROLLO URBANO
 
 ###### ARTÍCULO 791.
 
@@ -7585,7 +7771,7 @@ X.- Templos, 1 cajón por cada 150 M2.
 
 Los proyectos correspondientes deberán considerar las dimensiones de los cajones, los radios de giro, las alturas reglamentarias y el ancho y las pendientes de las rampas de acceso, elementos que deben tener los materiales adecuados y los espacios suficientes para que la circulación de los vehículos sea segura, fluida y cómoda.
 
-### CAPÍTULO I. EN LOS FRACCIONAMIENTOS Y COLONIAS CATALOGADAS COMO RESIDENCIALES
+### CAPÍTULO II. DE LAS DISPOSICIONES A LA PROPIEDAD INMOBILIARIA
 
 ###### ARTÍCULO 801.
 
@@ -7615,7 +7801,7 @@ En caso de que no se cumpla con lo anterior, la Dirección de Desarrollo Urbano 
 
 ## TÍTULO CUARTO. DE LOS USOS DEL SUELO PERMITIDOS, CONDICIONADOS O PROHIBIDOS
 
-### CAPÍTULO II. EN LOS FRACCIONAMIENTOS Y COLONIAS CATALOGADAS COMO DE TIPO MEDIO
+### CAPÍTULO I. EN LOS FRACCIONAMIENTOS Y COLONIAS CATALOGADAS COMO RESIDENCIALES
 
 ###### ARTÍCULO 807.
 
@@ -7635,7 +7821,7 @@ IV.- Toda instalación de servicios educativos o recreativos que pretenda instal
 
 V.- Las demás que sean aplicables conforme al Código Urbano, el presente Código Municipal Reglamentario, así como por el Programa de Desarrollo Urbano respectivo.
 
-### CAPÍTULO III. EN LOS FRACCIONAMIENTOS Y COLONIAS CATALOGADAS COMO DE INTERES SOCIAL Y POPULAR
+### CAPÍTULO II. EN LOS FRACCIONAMIENTOS Y COLONIAS CATALOGADAS COMO DE TIPO MEDIO
 
 ###### ARTÍCULO 808.
 
@@ -7653,7 +7839,7 @@ III.- Cualquier uso que sea diferente al habitacional y que pretenda instalarse 
 
 IV.- En el caso de vialidades colectoras, secundarias, primarias y regionales, ubicadas dentro de estos fraccionamientos y atendiendo a las características de estas, podrán existir otros usos diferentes al habitacional, siempre y cuando no se altere el contexto existente y por tanto no se provoque alteraciones al flujo vehicular. Esta situación se determinara mediante dictamen que emita la Dirección, mediante el cual se determinara la procedencia de autorizar o no la constancia de alineamiento y compatibilidad urbanística.
 
-### CAPÍTULO IV. DE LA ZONA CENTRO Y CONDOMINIOS
+### CAPÍTULO III. EN LOS FRACCIONAMIENTOS Y COLONIAS CATALOGADAS COMO DE INTERES SOCIAL Y POPULAR
 
 ###### ARTÍCULO 809.
 
@@ -7681,7 +7867,7 @@ Sobre vialidades colectoras se permitirá el comercio de tipo periódico, así c
 
 Tratándose de fraccionamientos habitacionales urbanos clasificados como de tipo popular, en cuanto al uso del suelo se aplicará lo dispuesto en el artículo anterior.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO IV. DE LA ZONA CENTRO Y CONDOMINIOS
 
 ###### ARTÍCULO 811.
 
@@ -7807,7 +7993,7 @@ Los gastos generados con motivo de una demolición efectuada por la Dirección o
 
 ## TÍTULO SÉPTIMO. DENUNCIA POPULAR
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 829.
 
@@ -7827,7 +8013,7 @@ El desahogo de este procedimiento, no excederá de treinta días naturales, desd
 
 ## TÍTULO PRIMERO. GENERALIDADES
 
-### CAPÍTULO SEGUNDO. DEL PATRIMONIO MUNICIPAL
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 832.
 
@@ -7851,7 +8037,7 @@ VI.- Comité del Patrimonio.- El Comité para el Control del Patrimonio Inmobili
 
 VII.- Ley.- Ley del Patrimonio del Estado y sus Municipios.
 
-### CAPÍTULO I. DE LAS OBLIGACIONES Y ATRIBUCIONES DEL AYUNTAMIENTO
+### CAPÍTULO SEGUNDO. DEL PATRIMONIO MUNICIPAL
 
 ###### ARTÍCULO 834.
 
@@ -7965,7 +8151,7 @@ El Patrimonio Inmobiliario Municipal deberá inscribirse en la sección correspo
 
 ## TÍTULO SEGUNDO. RÉGIMEN DE GOBIERNO
 
-### CAPÍTULO II. DE LAS OBLIGACIONES Y ATRIBUCIONES DE LA COMISIÓN
+### CAPÍTULO I. DE LAS OBLIGACIONES Y ATRIBUCIONES DEL AYUNTAMIENTO
 
 ###### ARTÍCULO 842.
 
@@ -7977,7 +8163,7 @@ II.- Solicitar al Gobernador del Estado la desincorporación del dominio públic
 
 III.- En su caso aprobar en los términos de la Ley Orgánica del Municipio, la Ley y éste Libro la celebración de los actos jurídicos materia del mismo, indicando los términos en que se vaya a celebrar la operación, así como en su caso el destino que se le deberá dar a los fondos que se obtengan.
 
-### CAPÍTULO III. DE LAS OBLIGACIONES Y ATRIBUCIONES DEL SÍNDICO
+### CAPÍTULO II. DE LAS OBLIGACIONES Y ATRIBUCIONES DE LA COMISIÓN
 
 ###### ARTÍCULO 843.
 
@@ -7989,7 +8175,7 @@ II.- Revisar conjuntamente con el Síndico, los dictámenes emitidos por la Secr
 
 III.- Conjuntamente con el Síndico, turnar al H. Cabildo las solicitudes y dictámenes que se consideren factibles para realizar los actos jurídicos a que se refiere la fracción anterior, a fin de que realice su análisis, discusión y emita la resolución correspondiente, incluyendo en su caso el proyecto de convenio o contrato que hubiera elaborado la Secretaría.
 
-### CAPÍTULO IV. DE LAS OBLIGACIONES Y ATRIBUCIONES DE LA SECRETARÍA
+### CAPÍTULO III. DE LAS OBLIGACIONES Y ATRIBUCIONES DEL SÍNDICO
 
 ###### ARTÍCULO 844.
 
@@ -8005,7 +8191,7 @@ IV.- Vigilar que el inventario a que se refiere la fracción anterior, se encuen
 
 V.- Intervenir en la regularización de los bienes inmuebles del Municipio.
 
-### CAPÍTULO V. DE LAS OBLIGACIONES Y ATRIBUCIONES DE LA DIRECCIÓN GENERAL
+### CAPÍTULO IV. DE LAS OBLIGACIONES Y ATRIBUCIONES DE LA SECRETARÍA
 
 ###### ARTÍCULO 845.
 
@@ -8025,7 +8211,7 @@ VI.- Tramitar ante el Registro Público de la Propiedad y del Comercio del Estad
 
 VII.- Participar en la regularización de los bienes inmuebles municipales.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO V. DE LAS OBLIGACIONES Y ATRIBUCIONES DE LA DIRECCIÓN GENERAL
 
 ###### ARTÍCULO 846.
 
@@ -8043,7 +8229,7 @@ V.- Para el efecto de determinar el valor comercial de los inmuebles materia del
 
 ## TÍTULO TERCERO. INTEGRACIÓN, FACULTADES Y FUNCIONAMIENTO DEL COMITÉ DEL PATRIMONIO
 
-### CAPÍTULO ÚNICO. DE LOS CONVENIOS O CONTRATOS QUE SEAN OBJETO DE LOS BIENES INMUEBLES DEL DOMINIO PRIVADO DEL MUNICIPIO
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 847.
 
@@ -8095,7 +8281,7 @@ Las reuniones del Comité del Patrimonio serán dirigidas por el Presidente o el
 
 ## TÍTULO CUARTO. DE LOS ACTOS JURÍDICOS MUNICIPALES
 
-### CAPÍTULO I. DEL ÁMBITO DE APLICACIÓN Y PRINCIPIOS GENERALES
+### CAPÍTULO ÚNICO. DE LOS CONVENIOS O CONTRATOS QUE SEAN OBJETO DE LOS BIENES INMUEBLES DEL DOMINIO PRIVADO DEL MUNICIPIO
 
 ###### ARTÍCULO 851.
 
@@ -8189,7 +8375,7 @@ Una vez aprobados por el Ayuntamiento la celebración de los diversos convenios 
 
 ## TÍTULO PRIMERO. DEL ACTO ADMINISTRATIVO MUNICIPAL
 
-### CAPÍTULO II. NULIDAD Y EFICACIA DEL ACTO ADMINISTRATIVO
+### CAPÍTULO I. DEL ÁMBITO DE APLICACIÓN Y PRINCIPIOS GENERALES
 
 ###### ARTÍCULO 866.
 
@@ -8223,7 +8409,7 @@ Para efectos de lo anterior, se consideran autoridades Municipales;
 
 El H. Ayuntamiento, las Direcciones, los Departamentos y demás órganos que integren el Gobierno Municipal.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO II. NULIDAD Y EFICACIA DEL ACTO ADMINISTRATIVO
 
 ###### ARTÍCULO 869.
 
@@ -8249,7 +8435,7 @@ La nulidad será sustanciada conforme a las reglas del procedimiento del recurso
 
 ## TÍTULO SEGUNDO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
-### CAPÍTULO II. DE LA CAPACIDAD DE LOS INTERESADOS
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 874.
 
@@ -8301,7 +8487,7 @@ Los interesados de un procedimiento administrativo municipal, en cualquier momen
 
 Los interesados podrán solicitar les sea expedida copia certificada a su costa de los documentos contenidos en algún expediente en el que actúe, salvo lo dispuesto en el artículo anterior.
 
-### CAPÍTULO III. DE LAS EXCUSAS Y RECUSACIONES
+### CAPÍTULO II. DE LA CAPACIDAD DE LOS INTERESADOS
 
 ###### ARTÍCULO 883.
 
@@ -8317,7 +8503,7 @@ Los interesados, podrán autorizar por escrito en cada caso, a un Licenciado en 
 
 En ningún trámite administrativo se admitirá la gestión de negocios.
 
-### CAPÍTULO IV. DE LOS TÉRMINOS
+### CAPÍTULO III. DE LAS EXCUSAS Y RECUSACIONES
 
 ###### ARTÍCULO 886.
 
@@ -8333,7 +8519,7 @@ IV.- Tenga relación de servicio, o dependa del servidor por razones laborales; 
 
 V.- Cualquier otra prevista en el presente Código Municipal Reglamentario.
 
-### CAPÍTULO V. DE LAS NOTIFICACIONES
+### CAPÍTULO IV. DE LOS TÉRMINOS
 
 ###### ARTÍCULO 887.
 
@@ -8363,7 +8549,7 @@ A falta de términos o plazos establecidos en los reglamentos o actos administra
 
 Los términos fijados en días por disposiciones generales, o por autoridades municipales se computarán sólo los días hábiles.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO V. DE LAS NOTIFICACIONES
 
 ###### ARTÍCULO 894.
 
@@ -8425,7 +8611,7 @@ La manifestación que haga el interesado, su representante legal o quien este au
 
 ## TÍTULO TERCERO. DEL PROCEDIMIENTO DE VERIFICACIÓN E INSPECCIÓN
 
-### CAPÍTULO II. DE LAS REGLAS PARA LA IMPOSICIÓN DE SANCIONES Y MEDIDAS DE SEGURIDAD
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 901.
 
@@ -8487,7 +8673,7 @@ Si con motivo de la visita de verificación las autoridades administrativas cono
 
 Las autoridades administrativas con base en los resultados de la visita de verificación o del informe de la misma, podrán dictar medidas de seguridad para corregir las irregularidades que se hubiesen encontrado, notificándolas al interesado y otorgándole un plazo adecuado para su realización. Dichas medidas tendrán la duración estrictamente necesaria para la corrección de las irregularidades respectivas
 
-### CAPÍTULO III. DEL RECURSO ADMINISTRATIVO
+### CAPÍTULO II. DE LAS REGLAS PARA LA IMPOSICIÓN DE SANCIONES Y MEDIDAS DE SEGURIDAD
 
 ###### ARTÍCULO 911.
 
@@ -8652,6 +8838,8 @@ Cuando una persona resulte responsable de dos o más violaciones a las leyes del
 ###### ARTÍCULO 928.
 
 Cuando la determinación de imposición de alguna sanción o medidas de seguridad implique el pago de una cantidad mínima, en la misma resolución se les notificará que tiene el término de cinco días para hacer el pago, con el apercibimiento de que en caso de no hacerlo se abrirá procedimiento de ejecución económico-coactivo, remitiéndole copia de la resolución a la Dirección de Finanzas y Tesorería Municipal para hacerla efectiva.
+
+### CAPÍTULO III. DEL RECURSO ADMINISTRATIVO
 
 ###### ARTÍCULO 929.
 
@@ -8819,8 +9007,12 @@ R E G I D O R E S
 
 PROF. MIGUEL ALFREDO HERNÁNDEZ BARRIOS, PROF. ARTURO ÁLVAREZ DEL HOYO, C. MARÍA LUCÍA RODRÍGUEZ TORRES ING. JOSÉ LUIS GRACÍA RAMÍREZ, C. ANDRÉS TABARES MUÑOZ, ING. RAFAEL LAREDO PICAZO, LIC. MARIBEL GALVÁN JIMÉNEZ, C. ISIDRO ANTONIO GUTIÉRREZ ESPARZA, C. JULIA ARELLANO AGUILAR, LIC. ISMAEL CASTORENA DE LA CRUZ, C. MARTÍN ALANIZ RIVERA, LIC. RICARDO RÍOS VELÁSQUEZ, ING. ISMAEL BÁRCENAS RÍOS, C. RAMIRO ORDAZ MERCADO, C. ADÁN MEJÍA FERNÁNDEZ, L.A.E. LORENZO RUVALCABA DE LA CRUZ, LIC. JUAN MARTÍN REYES ESCOBEDO, ING. CARLOS MENDOZA CHÁIRES, C. RUBÉN PICASSO TORRES, LIC. JUAN MANUEL BASURTO ALVARADO: Rúbricas.
 
-N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 5 DE MARZO DE 2011.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 4 DEL CODIGO CIVIL PARA EL ESTADO DE ZACATECAS VIGENTE.
+
+P.O. 31 DE AGOSTO DE 2016.
+
+> <small>[N. DE E. EL DECRETO DE LAS “REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL REGLAMENTARIO DE FRESNILLO, ZAC.”, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 4 DEL CÓDIGO CIVIL DEL VIGENTE DEL ESTADO DE ZACATECAS.]</small>
