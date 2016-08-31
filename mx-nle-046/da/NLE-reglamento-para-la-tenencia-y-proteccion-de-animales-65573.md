@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-tenencia-y-proteccion-de-animales-65573"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-02"
-last_updated: "2016-02-10"
+last_updated: "2016-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65573&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA LA TENENCIA Y PROTECCIÓN DE ANIMALES DOMÉSTICOS EN EL MUNICIPIO DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 2 de enero de 2009.
 
@@ -91,13 +91,21 @@ IV.- Ave de corral: gallinas, gallos, patos, gansos, guajolotes y demás similar
 
 V.- Animal sin propietario aparente o vagabundo: Aquel animal sin dueño que se encuentra en la vía pública;
 
-VI.- Animal peligroso o agresivo: Cualquier tipo de animal susceptible de causar un daño o perjuicio, físico, o material en el ser humano, en el caso de los perros debe considerarse a aquél que muestre signos de serlo por su conducta o que haya tenido algún episodio previo de agresión, o que haya sido adiestrado para el ataque;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
 
-VII.- Centro Antirrábico: Establecimiento municipal que lleva a cabo actividades orientadas a la prevención y control de la rabia en perros y gatos, y el control de animales en la vía pública;
+VI.- Animal de manejo especial: Cualquier tipo de animal susceptible de causar un daño o perjuicio, físico, o material en el ser humano, en el caso de los perros debe considerarse a aquél que muestre signos de serlo por su conducta o que haya tenido algún episodio previo de agresión, o que haya sido adiestrado para el ataque;
 
-VIII.- Agresión: Es la acción por la cual una persona es atacada por un animal, sea en forma espontánea o provocada, pudiendo ocasionar lesiones (mordeduras, rasguños, contusiones, heridas y/o la muerte);
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
 
-IX.- Actos de crueldad: Acción del ser humano que ha de ocasionar a los animales lesiones, heridas, muerte, angustia, sufrimiento o tensión;
+VII.- Animal de tiro y carga: Aquel que es usado por el hombre para las tareas de transporte, arrastre, carga, en el que se usan caballos, yeguas, burros y demás tipos de animales usados para la tracción;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+VIII.- Agresión: Es la acción por la cual una persona ataca a un animal con la finalidad de hacerle un daño parcial o permanente, causando una alteración en su salud o la muerte;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+IX.- Actos de extrema crueldad: Acción del ser humano que ha de ocasionar a los animales lesiones, que causan un sufrimiento prolongado al animal hasta causarle su muerte;
 
 X.- Trato humanitario: Medidas para disminuir la tensión, sufrimiento, traumatismo y dolor a los animales durante su posesión, captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento, entrenamiento y sacrificio.
 
@@ -117,11 +125,15 @@ II.- El Director General de Salud Pública Municipal;
 
 III.- El Secretario de Finanzas y Tesorero Municipal;
 
-IV.- El Director de Regulación Sanitaria y Centros Comunitarios;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+IV.- El Coordinador del Centro de Control Canino y Felino;
 
 V.- Los Auxiliares y verificadores de la Dirección de Regulación Sanitaria y Centros Comunitarios;
 
-VI.- El Coordinador del Centro Antirrábico;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+VI.- El Coordinador General de Protección y Bienestar Animal.
 
 VII.- El Coordinador de Regulación Sanitaria.
 
@@ -167,17 +179,7 @@ III.- Las demás que le señale el presente Reglamento.
 
 ###### Artículo 9.
 
-Son facultades del Director de Regulación Sanitaria y Centros Comunitarios:
-
-I.- Vigilar el cumplimiento de las disposiciones del presente Reglamento;
-
-II.- Conceder el término de tres días hábiles, para que manifiesten lo que a su derecho convenga, en la orden de verificación correspondiente;
-
-III.- Calificar y aplicar las sanciones administrativas que resulten;
-
-IV.- Elaborar el plan de trabajo correspondiente;
-
-V.- Las demás que establezca el presente Reglamento y demás disposiciones legales aplicables.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2016)
 
 ###### Artículo 10.
 
@@ -201,31 +203,57 @@ I.- Realizar la captura de animales agresivos, animales callejeros, apoyo a las 
 
 II.- Realizar la captura de todo animal canino y felino en la vía pública;
 
-III.- Apoyar en las cirugías de esterilización de animales domésticos que se realizan en el Centro Antirrábico;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+III.- Apoyar en las cirugías de esterilización de animales domésticos que se realizan en el Centro de Control Canino y Felino;
 
 IV.- Dar trato digno a los animales que encuentre o capture;
 
-V.- Informar al Coordinador del Centro Antirrábico, de las irregularidades encontradas;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+V.- Informar al Coordinador del Centro de Control Canino y Felino, de las irregularidades encontradas;
 
 VI.- Las demás que establezca el presente Reglamento y demás disposiciones legales aplicables.
 
-###### Artículo 12.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2016)</small>
 
-Son facultades del Coordinador del Centro Antirrábico:
+Artículos 12.- Son facultades del Coordinador del Centro de Control Canino y Felino:
 
-I.- Otorgar el permiso de posesión de animales peligrosos;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
 
-II.- Llevar un registro de los animales domésticos dentro del Municipio;
+I.- Otorgar el permiso de posesión de animales de manejos (sic) especial y de respeto;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+II.- Llevar un registro de los animales domésticos dentro del municipio;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
 
 III.- Expedir la cartilla de vacunación del animal registrado;
 
-IV.- Determinar la entrega de animales capturados en la vía pública o en su caso, su sacrificio;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
 
-V.- Dar seguimiento a las quejas o denuncias presentadas, de animales agresivos o, peligrosos y/o vagabundos;
+IV.- El sacrificio de los animales capturados en vía pública que se encuentren enfermos y que dicha enfermedad pueda ser causante de una epidemia o riesgo sanitario, así como de aquellos animales que no fueron reclamados por sus dueños;
 
-VI.- Programar las capturas de animales denunciados; y
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
 
-VII.- Las demás que establezca el presente Reglamento y demás disposiciones legales aplicables.
+V.- Establecer los mecanismos de cooperación entre el centro de control canino y felino con la coordinación general de protección y bienestar animal para dar en adopción a perros y gatos mediante el acuerdo o los convenios firmados por el municipio con las asociaciones civiles protectoras de animales.
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+VI.- Elaborar en caso de maltrato animal y a solicitud de la coordinación de protección y bienestar animal los dictámenes veterinarios, donde se especifiquen las lesiones causadas al animal o en su caso el motivo de su muerte.
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+VII.- Dar seguimiento a las quejas o denuncias presentadas, de animales de manejo especial y de respeto y/o vagabundos;
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+VIII.- Programar las capturas de animales denunciados; y
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+IX.- Las demás que establezca el presente reglamento y demás disposiciones legales aplicables.
 
 ###### Artículo 13.
 
@@ -241,7 +269,9 @@ IV. Las demás que establezca el presente Reglamento y demás disposiciones lega
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2016)</small>
 
-Artículo 13 BIS.- Son facultades del Secretario de Seguridad Pública:
+###### Artículo 13 Bis.
+
+Son facultades del Secretario de Seguridad Pública:
 
 I. Vigilar el cumplimiento de las disposiciones del presente Reglamento;
 
@@ -251,13 +281,39 @@ III. Las demás que establezca el presente Reglamento y demás disposiciones leg
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2016)</small>
 
-Artículo 13 BIS 1.- Son facultades del Director General de Inspección:
+###### Artículo 13 Bis 1.
+
+Son facultades del Director General de Inspección:
 
 I. Vigilar el cumplimiento de las disposiciones del presente Reglamento.
 
 II. Vigilar que los Inspectores Municipales acudan a tomar parte cuando se cometa alguna de las prohibiciones descritas en el Capítulo XI, para posteriormente aplicar la sanción correspondiente.
 
 III. Las demás que establezca el presente Reglamento y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
+###### Artículo 13 Bis 2.
+
+Son facultades del Coordinador General de Protección y Bienestar Animal:
+
+I.- La promoción de información y difusión que genere una cultura cívica de protección, responsabilidad, respeto y trato digno a los animales;
+
+II.- El desarrollo de programas de educación y capacitación en materia de protección y trato digno y respetuoso a los animales, en coordinación con las autoridades competentes relacionadas con las instituciones de educación básica, media superior y superior de jurisdicción del Municipio de San Nicolás de los Garza, con la participación, en su caso, de las asociaciones protectoras de animales y organizaciones no gubernamentales legalmente constituidas, así como el desarrollo de programas de educación formal e informal con el sector social, académico, público y privado;
+
+III.- La regulación para el manejo, control y remediación de los problemas asociados a los animales ferales;
+
+IV.- La celebración de convenios de colaboración y participación, con los sectores social, académico, público y privado;
+
+V.- La creación y administración de un registro de establecimientos comerciales, criadores y prestadores de servicios vinculados con el manejo, producción, exhibición, y venta de animales en el Municipio de San Nicolás de los Garza;
+
+VI.- Actuar de manera Coordinada con la Dirección General de Salud y la Secretaría de Seguridad Pública, para la debida aplicación del presente Reglamento, así como leyes, reglamentos y las normas ambientales;
+
+VII.- Establecer y operar el padrón de las asociaciones protectoras de animales y de organizaciones sociales, debidamente constituidas y registradas, dedicadas al mismo objeto;
+
+VIII.- Coordinarse con el titular del Centro de Control Canino y Felino para el seguimiento a las denuncias que por maltrato animal se reciban, y
+
+IX.- Realizar todas las demás funciones que por sus características le correspondan.
 
 ### CAPÍTULO IV. DE LOS ANIMALES DOMÉSTICOS
 
@@ -323,27 +379,33 @@ IV.- Atender de inmediato, las enfermedades propias de su especie, con un médic
 
 Todo propietario de un animal doméstico deberá proporcionarle el alimento adecuado a su especie, en un recipiente que permita mantener el alimento dentro del mismo, no deberá darle alimento en mal estado, o dejarle el alimento por más de 24 horas, el cual le pueda causar algún daño físico o enfermedad. Además de proporcionarle el agua necesaria durante el día.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 23.
 
-Los propietarios o poseedores de animales domésticos están obligados a vacunarlos al cumplir los tres meses de edad, y mantener actualizado el registro de vacunación, mediante la cartilla de vacunación que será expedida en forma gratuita por el Centro Antirrábico, misma que podrá suplirse por cartilla de vacunación emitida por médico veterinario zootecnista particular.
+Los propietarios o poseedores de animales domésticos están obligados a vacunarlos al cumplir los tres meses de edad, y mantener actualizado el registro de vacunación, mediante la cartilla de vacunación que será expedida en forma gratuita por el Centro de Control Canino y Felino, misma que podrá suplirse por cartilla de vacunación emitida por médico veterinario zootecnista particular.
 
 ###### Artículo 24.
 
 Los perros lazarillos o guía, aunque se hallan exentos de arbitrios, habrán de ser registrados y vacunados.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 25.
 
-Las bajas por muertes o desaparición de los animales serán comunicadas al Centro Antirrábico por los propietarios o poseedores de los mismos en el plazo de setenta y dos horas de sucedidos los hechos acompañando para tal efecto la cartilla de vacunación. Asimismo podrá solicitar, en caso de muerte del animal, los servicios de traslado final, a través de la Secretaría de Servicios Públicos. Previo el pago de los derechos municipales correspondientes.
+Las bajas por muertes o desaparición de los animales serán comunicadas al Centro de Control Canino y Felino por los propietarios o poseedores de los mismos en el plazo de setenta y dos horas de sucedidos los hechos acompañando para tal efecto la cartilla de vacunación. Asimismo podrá solicitar, en caso de muerte del animal, los servicios de traslado final, a través de la Secretaría de Servicios Públicos. Previo el pago de los derechos municipales correspondientes.
 
 ###### Artículo 26.
 
 Se considera animal vagabundo aquel que no tenga dueño conocido, domicilio, ni esté identificado, o aquel que circule sin ser conducido por una persona en la vía pública.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 27.
 
-Los animales vagabundos, y los que sin serlo circulen en la vía pública desprovistos de identificación y sin dueño, serán capturados por el personal del Centro Antirrábico, y a su sacrificio precederá un período de retención de cinco días hábiles, durante el cual podrán solicitar se devuelvan a la persona que acredite ser propietario o poseedor, previa la firma del acta de responsiva. Para el caso de una segunda captura, el propietario o poseedor se hará acreedor a una sanción consiste (sic) en multa de veinte a cincuenta cuotas, y para el caso de una tercera captura, el animal no será devuelto, procediéndose conforme a lo dispuesto por el presente reglamento.
+Los animales vagabundos, y los que sin serlo circulen en la vía pública desprovistos de identificación y sin dueño, serán capturados por el personal del Centro de Control Canino y Felino, y a su sacrificio precederá un período de retención de cinco días hábiles, durante el cual podrán solicitar se devuelvan a la persona que acredite ser propietario o poseedor, previa la firma del acta de (sic) responsiva. Para el caso de una segunda captura, el propietario o poseedor se hará acreedor a una sanción consiste (sic) en multa de veinte a cincuenta cuotas, y para el caso de una tercera captura, el animal no será devuelto, procediéndose conforme a lo dispuesto por el presente reglamento.
 
-Durante la captura o retención de perros, en el Centro Antirrábico se mantendrá a los animales en condiciones compatibles con su especie, tamaño, condición (salud) y conducta del animal.
+Durante la captura o retención de perros, en el Centro de Control Canino y Felino se mantendrá a los animales en condiciones compatibles con su especie, tamaño, condición (salud) y conducta del animal.
 
 ###### Artículo 28.
 
@@ -353,15 +415,17 @@ Se considera fauna nociva los perros, gatos, callejeros, roedores, insectos y to
 
 En la medida y límites que resulten necesarios, por razones sanitarias, podrá ordenarse la intensificación de la captura de animales vagabundos en zonas y épocas determinadas o cuando éstos representen un riesgo para la comunidad, utilizando métodos humanitarios durante su captura, traslado, estancia, retención y sacrificio.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 30.
 
-Los medios empleados en la captura y transporte de animales vagabundos tendrán las condiciones higiénico-sanitarias precisas y serán atendidos por personal capacitado y supervisado por el Médico Veterinario Zootecnista, encargado del Centro Antirrábico.
+Los medios empleados en la captura y transporte de animales vagabundos tendrán las condiciones higiénico-sanitarias precisas y serán atendidos por personal capacitado y supervisado por el Médico Veterinario Zootecnista, encargado del Centro de Control Canino y Felino.
 
 ### CAPÍTULO V. DE LOS ANIMALES DE CARGA, TIRO Y MONTA
 
 ###### Artículo 31.
 
-Todo propietario de equinos tiene la obligación de registrar ante la Asociación Ganadera local, la propiedad y el fin zootécnico para lo que es destinado el animal (renta, trabajo de campo, esparcimiento, transporte y deporte).
+(DEROGADO, P.O. 31 DE AGOSTO DE 2016)
 
 ###### Artículo 32.
 
@@ -387,9 +451,11 @@ VII.- Fumigación del lugar donde habita el caballo, para controlar insectos, mo
 
 VIII.- Tratamientos veterinarios necesarios para que represente una condición saludable para el trabajo.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 34.
 
-La autoridad municipal prohíbe el tránsito de equinos por la zona centro, a excepción de los lugares donde la autoridad establezca las rutas de tránsito para los animales de recreo o esparcimiento, dando información en la vía pública con señalamientos.
+Toda vez que se busca un bienestar animal a los equinos, y demás animales que tradicionalmente se usan para tiro, monta y carga, al amparo del presente reglamento y en base a los principios que garantizan el bienestar de los animales y demás seres vivos no humanos, queda prohibido que los equinos, y demás animales que son destinados a tiro, monta y carga circulen como medios de transporte de carga por las Avenidas y Calles del Municipio de San Nicolás de los Garza, quedando facultada la Autoridad Municipal para imponer las sanciones que por maltrato animal corresponda, previo dictamen médico veterinario del Coordinador del Centro de Control Canino y Felino, el cual deberá de hacerse llegar al Coordinador General de Protección y Bienestar Animal para determinar las sanciones correspondientes.
 
 ###### Artículo 35.
 
@@ -407,61 +473,91 @@ Todo equino o vacuno, que transite libremente por la vía pública sin ser condu
 
 Sin perjuicio de las sanciones a que se haga acreedor el propietario a que se refiere el artículo anterior, deberá pagar por el cuidado y manutención del animal doméstico, la cantidad fijada por la autoridad para recuperarlo.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 39.
 
-Cuando un equino o vacuno no sea reclamado por su propietario en un período de treinta días a partir de su captura, éste será puesto en venta por la autoridad competente.
+Cuando un equino o vacuno no sea reclamado por su propietario en un período de treinta días a partir de su captura, éste será puesto en adopción responsable mediante las Asociaciones Civiles Protectoras de Animales que para el efecto tengan firmado el Acuerdo de Colaboración correspondiente.
 
 ###### Artículo 40.
 
 El propietario de un equino o vacuno, será responsable del animal y de los daños y perjuicios que éste ocasione a terceros, conforme a las leyes aplicables.
 
-###### Artículo 41.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
-Queda prohibido que los animales de carga y de tiro circulen por las vialidades de alta velocidad.
+###### Articulo 41.
+
+En caso de que se detenga en circulación un vehículo movido por equinos o animales de tiro, monta y carga y que se dé el uso de transporte de carga, la Dirección General de inspección levantará acta circunstanciada de los hechos, entregando copia de la misma al poseedor, propietario o encargado del animal, en ese acto el animal será asegurado como medida precautoria y puesto a disposición del Centro de Control Canino y Felino a fin de determinar las condiciones de salud del animal y posteriormente trasladarlo al área municipal correspondiente para su resguardo.
+
+De las referidas actuaciones, en el término de cuarenta y ocho horas siguientes dará vista acompañada de un informe a la Coordinación General de Protección y Bienestar Animal para que proceda a instruir el procedimiento administrativo correspondiente.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
+###### Artículo 41 Bis.
+
+Recibida el acta y el informe por parte de la Dirección General de Inspección, la Coordinación General de Protección y Bienestar Animal, calificará el acta, y se elaborará el emplazamiento correspondiente otorgando cinco días para que comparezca el presunto infractor, el cual deberá de notificarse en el domicilio del poseedor, propietario o encargado del animal si es en el Municipio De San Nicolás De Los Garza, y por Tabla de Avisos si radica fuera del Municipio de San Nicolás de Los Garza.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
+###### Artículo 41 Bis 1.
+
+Concluido el término que hace referencia el artículo que antecede, en caso de que acuda el poseedor, propietario o encargado del animal, se levantará la comparecencia respectiva, ordenándose que se ponga a disposición el expediente para consulta del presunto infractor, y alegue lo que a su derecho corresponda, en caso de no comparecer se levantará acta de dicha circunstancia ordenando en ambos casos se resuelva el expediente en un plazo no mayor a quince días hábiles.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
+###### Artículo 41 Bis 2.
+
+En la resolución que concluya el expediente deberá de señalarse la infracción a que se hace acreedor el poseedor, propietario o encargado del animal, tomando en consideración los elementos de prueba aportados, en su caso se determinará el decomiso definitivo del animal asegurado precautoriamente, tomando en consideración el dictamen que al efecto formule el Coordinador del Centro de Control Canino y Felino, sobre las condiciones físicas y de salud del animal.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 42.
 
-Los vehículos de cualquier clase que sean movidos por animales, no podrán ser cargados con un peso excesivo o desproporcionado, teniendo en cuenta las condiciones del animal. Tampoco podrán usarse por períodos de tiempo que rebasen la resistencia del animal y le puedan ocasionar con ello daño, sufrimiento, enfermedad o muerte.
+Queda prohibido todo tipo de vehículos movidos por animales, cuyo uso primordial sea el de transporte de carga, consecuentemente ningún animal podrá ser cargado con un peso excesivo o desproporcionado, teniendo en cuenta las condiciones del animal. Tampoco podrán usarse por períodos de tiempo que rebasen la resistencia del animal y le puedan ocasionar con ello daño, sufrimiento, enfermedad o muerte.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 43.
 
-Los animales que se utilicen para tiro de carreta, de carga o calandria, deberán ser uncidos de tal manera que no se les ocasione molestias o lesiones. Invariablemente deberán estar herrados de forma adecuada.
+Los animales que se utilicen para tiro de carreta, de carga o calandria, no podrán circular dentro del territorio que le corresponde al Municipio de San Nicolás de Los Garza.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 44.
 
-Los animales que se utilicen para tiro de calandria, deberán tener el descanso suficiente y deberán permanecer durante el desempeño de su trabajo en lugares que los protejan del sol y la lluvia.
+El procedimiento descrito en el presente capitulo es aplicable a los casos de maltrato animal.
 
 ###### Artículo 45.
 
-Los animales de carga no podrán ser utilizados con más de un cuarto de su peso corporal, ni agregar a ese peso el de una persona.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2016)
 
 ###### Artículo 46.
 
-Si la carga consiste en hatos de madera o varillas de metal, cajas u otra clase de bultos de naturaleza análoga, esa carga se distribuirá adecuadamente sobre el cuerpo del animal y cuidando que no sobresalgan puntas de dichos materiales que pudieran lesionarlo.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2016)
 
 ###### Artículo 47.
 
-Si la carga consiste en maderas, sacos, cajas u otra clase de bultos de naturaleza análoga, las unidades se distribuirán proporcionalmente sobre el lomo del animal y al retirar cualquiera de ellos, los restantes serán distribuidos de tal forma que el peso no sea mayor en un lado que en el otro, para el efecto de proteger el lomo del animal.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2016)
 
 ###### Artículo 48.
 
-El animal destinado a servicios de tiro o carga no deberá dejársele sin alimentación por un espacio de tiempo superior a ocho horas consecutivas y sin agua por más de cinco horas. Deberá además tener el tiempo de descanso suficiente para su recuperación.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2016)
 
 ###### Artículo 49.
 
-Por ningún motivo podrán ser utilizados para el tiro o carga los animales desnutridos, enfermos, cojos, heridos, con lesiones de las llamadas mataduras o en etapa de gestación.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2016)
 
 ###### Artículo 50.
 
-Los animales destinados a servicios de tiro y carga, solamente podrán ser atados y uncidos durante la prestación de su trabajo y puestos en descanso en lugares a (sic) cubierto del sol y la lluvia.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2016)
 
 ###### Artículo 51.
 
-Ningún animal destinado al tiro o carga podrá ser golpeado, fustigado o espoleado en exceso, y si cae deberá ser descargado o separado del vehículo que tire y no golpearlo para que se levante.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2016)
 
 ###### Artículo 52.
 
-Las disposiciones relativas a los animales utilizados para tiro y carga se aplicarán a los animales destinados para cabalgar.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2016)
 
 ### CAPÍTULO VI. DE LAS AVES DE CORRAL
 
@@ -535,9 +631,47 @@ Queda prohibido en el municipio de San Nicolás de los Garza, Nuevo León, utili
 
 (DEROGADO, P.O. 10 DE FEBRERO DE 2016)
 
-### CAPÍTULO IX. DE LOS PROPIETARIOS Y POSEEDORES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2016)</small>
 
-### CAPÍTULO X. DE LAS OBLIGACIONES Y RESPONSABILIDADES DE LOS PROPIETARIOS O POSEEDORES
+### CAPÍTULO VIII BIS. DE LOS PERROS DE ASISTENCIA PARA LAS PERSONAS CON DISCAPACIDAD
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
+###### Artículo 64 Bis.
+
+Los perros de asistencia, acompañamiento o perros de servicio social, son aquellos que por medio de un adiestramiento específico, han adquirido las habilidades precisas para el acompañamiento, conducción y auxilio de las personas afectadas de disfunciones visuales totales o severas o de las personas con cualquier otro tipo de minusvalía o necesidad que la normativa vigente así lo establezca.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
+###### Artículo 64 Bis 1.
+
+Todo usuario de perro de asistencia, será responsable del correcto comportamiento del animal así como de los daños que pueda ocasionar a terceros, y en todo caso, del cumplimiento de las obligaciones establecidas en el presente reglamento.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
+###### Artículo 64 Bis 2.
+
+El perro de asistencia será acreditado de conformidad a lo que establezca la Ley de Personas con Discapacidad del Estado De Nuevo León, o la autoridad competente en su caso, una vez que reúna las condiciones higiénico-sanitarias, de adiestramiento y de aptitud para auxiliar a personas con discapacidad. En caso de que la acreditación deviniere de otras entidades o países, deberá ser revalidada por dicho comité o dicha autoridad competente.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
+###### Artículo 64 Bis 3.
+
+Los perros de asistencia se identificarán mediante la colocación, en lugar visible, del distintivo que le otorgue para tal caso, la autoridad competente de conformidad con el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
+###### Artículo 64 Bis 4.
+
+Además de cumplir con las obligaciones sanitarias que se deben satisfacer como animales domésticos, los poseedores de perros de asistencia deberán cumplir con relación al perro, las siguientes obligaciones:
+
+I.- Una inspección veterinaria donde se demuestre que no padece ninguna enfermedad transmisible al hombre;
+
+II.- Estar vacunado contra la rabia, recibir los tratamientos periódicos y practicarse las pruebas clínicas que instruya el comité; y
+
+III.- Todas aquellas que reglamentariamente se determinen.
+
+### CAPÍTULO IX. DE LOS PROPIETARIOS Y POSEEDORES
 
 ###### Artículo 65.
 
@@ -557,7 +691,7 @@ Los animales sin marca alguna que se encuentren en las propiedades, se presume q
 
 Los animales sin marca que se encuentren en tierras o bienes inmuebles de propiedad particular que exploten en común varios, se presumen del dueño de la cría de la misma especie y de la misma raza en ellas establecidas, mientras no se pruebe lo contrario. Si dos o más fueren dueños de un animal de la misma especie o raza, mientras no hay pruebas de que los animales pertenecen a alguno de ellos, se reputarán de propiedad común.
 
-### CAPÍTULO XI. DE LAS PROHIBICIONES
+### CAPÍTULO X. DE LAS OBLIGACIONES Y RESPONSABILIDADES DE LOS PROPIETARIOS O POSEEDORES
 
 ###### Artículo 69.
 
@@ -599,7 +733,7 @@ VIII.- Abandonar animales en lugares o casas-habitación abandonadas.
 
 El propietario o poseedor de un animal que cause daños a terceros será responsable de éstos, conforme a lo dispuesto por el Código Civil del Estado de Nuevo León, sin perjuicio de lo dispuesto en el presente ordenamiento.
 
-### CAPÍTULO XII. DEL CENTRO ANTIRRÁBICO
+### CAPÍTULO XI. DE LAS PROHIBICIONES
 
 ###### Artículo 72.
 
@@ -633,23 +767,31 @@ c) De alojamientos de todo tipo como hoteles, pensiones, restaurantes, bares, ca
 
 d) Lugares donde se ubiquen los comerciantes ambulantes o mercados rodantes deberán retirarlos del lugar en el que en ese momento se encuentran.
 
-### CAPÍTULO XIII. DE LA COORDINACIÓN DE REGULACIÓN SANITARÍA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE AGOSTO DE 2016)</small>
+
+### CAPÍTULO XII. DEL CENTRO DE CONTROL CANINO Y FELINO
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 74.
 
-El Centro Antirrábico es la unidad de servicio a la comunidad, encargada de la atención y recepción de quejas, de la prevención de enfermedades de las especies caninas, felinas y en especial, la atención en la prevención y erradicación de la rabia en el Municipio, la operatividad técnica y administrativa.
+El Centro de Control Canino y Felino es la unidad de servicio a la comunidad, encargada de la atención y recepción de quejas, de la prevención de enfermedades de las especies caninas, felinas y en especial, la atención en la prevención y erradicación de la rabia en el Municipio, la operatividad técnica y administrativa.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 75.
 
-Los servicios de salud municipales, expedirán a través del Centro Antirrábico, la cartilla oficial de vacunación antirrábica, misma que servirá también como comprobante de la propiedad de animales.
+Los servicios de salud municipales, expedirán a través del Centro de Control Canino y Felino, la cartilla oficial de vacunación antirrábica, misma que servirá también como comprobante de la propiedad de animales.
 
 ###### Artículo 76.
 
 Las instituciones, colegios o consultorios de médicos veterinarios zootecnistas acreditados ante la Secretaría de Salud del Estado, podrán realizar la vacunación antirrábica y expedir la cartilla de vacunación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 77.
 
-El Centro Antirrábico deberá tener como función principal:
+El Centro de Control Canino y Felino deberá tener como función principal:
 
 I.- Dar a los animales un trato digno, evitando el maltrato o sufrimiento;
 
@@ -659,9 +801,11 @@ III.- Realizar campañas que fomenten la conciencia de responsabilidad sobre los
 
 IV.- Las demás que establece el presente reglamento y disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 78.
 
-Los servicios que presta el Centro Antirrábico son los siguientes:
+Los servicios que presta el Centro de Control Canino y Felino son los siguientes:
 
 I.- Realizar un censo de animales domésticos, en el Municipio;
 
@@ -677,7 +821,7 @@ VI.- Llevar a cabo los sacrificios de los animales vagabundos, en términos de l
 
 VII.- Conocer del destino final de los cadáveres.
 
-### CAPÍTULO XIV. DEL SACRIFICIO DE ANIMALES
+### CAPÍTULO XIII. DE LA COORDINACIÓN DE REGULACIÓN SANITARÍA
 
 ###### Artículo 79.
 
@@ -741,7 +885,7 @@ IV.- Proporcionar a los ciudadanos, información sobre el presente Reglamento; y
 
 V.- Las demás que establece el presente reglamento y otras disposiciones aplicables.
 
-### CAPÍTULO XV. DE LAS SANCIONES
+### CAPÍTULO XIV. DEL SACRIFICIO DE ANIMALES
 
 ###### Artículo 87.
 
@@ -763,7 +907,7 @@ I.- Nadie puede sacrificar un animal en la vía pública, salvo por motivos de p
 
 II.- Nadie puede sacrificar a un animal por ningún método que no esté regulado por las Normas Oficiales Mexicanas vigentes, que se refieren al sacrificio humanitario de animales.
 
-### CAPÍTULO XVI. DE LOS MEDIOS DE DEFENSA
+### CAPÍTULO XV. DE LAS SANCIONES
 
 ###### Artículo 90.
 
@@ -799,7 +943,9 @@ XIV.- Ejecutar en general cualquier acto de crueldad con los animales;
 
 XV.- La tenencia de aves de corral, en lugar diverso de las granjas;
 
-XVI.- Ser propietario o poseedor de animales de carga, tiro y monta, sin reunir los requisitos que establece el presente reglamento y disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+XVI.- Ser propietario o poseedor de animales de carga, tiro y monta, sin reunir los requisitos que establece el presente reglamento y disposiciones legales aplicables y/o se encuentren circulando usados como medios de transporte de carga en el Municipio de San Nicolás de los Garza.
 
 XVII.- La reincidencia; y
 
@@ -877,11 +1023,13 @@ La reincidencia en cualquiera de las infracciones al presente Reglamento, amerit
 
 Por cuota se entenderá el monto de un día de salario mínimo vigente en la entidad. Para imponer las sanciones la autoridad considerará la gravedad de la conducta, los daños y perjuicios causados; la intención con la cuál fue cometido y los antecedentes, circunstancias y situación socioeconómica del infractor.
 
-### CAPÍTULO XVII. DE LA REVISIÓN Y CONSULTA
+### CAPÍTULO XVI. DE LOS MEDIOS DE DEFENSA
 
 ###### Artículo 97.
 
 Contra los actos y resoluciones que dicte la Autoridad Municipal, con motivo de la aplicación de este Reglamento, los particulares podrán interponer el Recurso de Inconformidad, en términos de lo dispuesto por el Reglamento Interior del R. Ayuntamiento de este Municipio.
+
+### CAPÍTULO XVII. DE LA REVISIÓN Y CONSULTA
 
 ###### Artículo 98.
 
@@ -908,3 +1056,9 @@ P.O. 10 DE FEBRERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE “SE APRUEBA LA REFORMA AL REGLAMENTO PARA LA TENENCIA Y PROTECCIÓN DE ANIMALES DOMÉSTICOS EN EL MUNICIPIO DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN”.]
 
 ÚNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE "SE APRUEBA LA REFORMA AL REGLAMENTO PARA LA TENENCIA Y PROTECCIÓN DE ANIMALES DOMÉSTICOS EN EL MUNICIPIO DE SAN NICOLÁS DE LOS GARZA, N. L.".]
+
+ÚNICO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
