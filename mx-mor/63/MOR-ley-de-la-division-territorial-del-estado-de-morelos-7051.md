@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-division-territorial-del-estado-de-morelos-7051"
 country: "mx"
 rank: "ley"
 publication_date: "1932-12-18"
-last_updated: "2012-08-15"
+last_updated: "2016-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LA DIVISIÓN TERRITORIAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el domingo 18 de diciembre de 1932.
 
@@ -43,11 +43,11 @@ Ley de la División Territorial del Estado de Morelos
 
 De conformidad a lo dispuesto en el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, el Estado de Morelos adopta como base de su división territorial y de su organización política, jurídica, hacendaria y administrativa el municipio libre.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
 ###### Art. 2.
 
-El Estado de Morelos se divide en treinta y tres municipios, que son los siguientes: Amacuzac, Atlatlahucan, Axochiapan, Ayala, Coatlán del Río, Cuautla, Cuernavaca, Emiliano Zapata, Huitzilac, Jantetelco, Jiutepec, Jojutla, Jonacatepec, Mazatepec, Miacatlán, Ocuituco, Puente de Ixtla, Temixco, Temoac, Tepalcingo, Tepoztlán, Tetecala, Tetela del Volcán, Tlalnepantla, Tlaltizapán de Zapata, Tlaquiltenango, Tlayacapan, Totolapan, Xochitepec, Yautepec, Yecapixtla, Zacatepec y Zacualpan de Amilpas.
+El Estado de Morelos se divide en treinta y tres municipios, que son los siguientes: Amacuzac, Atlatlahucan, Axochiapan, Ayala, Coatlán del Río, Cuautla, Cuernavaca, Emiliano Zapata, Huitzilac, Jantetelco, Jiutepec, Jojutla, Jonacatepec de Leandro Valle, Mazatepec, Miacatlán, Ocuituco, Puente de Ixtla, Temixco, Temoac, Tepalcingo, Tepoztlán, Tetecala, Tetela del Volcán, Tlalnepantla, Tlaltizapán de Zapata, Tlaquiltenango, Tlayacapan, Totolapan, Xochitepec, Yautepec, Yecapixtla, Zacatepec y Zacualpan de Amilpas.
 
 ###### Art. 3.
 
@@ -109,9 +109,13 @@ Corresponden a la Jurisdicción del Municipio de Jiutepec, los siguientes Centro
 
 Corresponden a la jurisdicción del Municipio de Jojutla, los siguientes centros de población: Chisco, El Higuerón, Jicarero, Jojutla Cabecera del Municipio, Panchimalco, Río Seco, Tehuixtla, Tequesquitengo, Tlatenchi y Vicente Aranda.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
 ###### Art. 15.
 
-Corresponden a la jurisdicción del Municipio de Jonacatepec, los siguientes centros de población: Jonacatepec Cabecera del Municipio, Amacuitlapilco, El Peñón, Tetelilla y Tlayca.
+Corresponden a la jurisdicción del Municipio de Jonacatepec de Leandro Valle, los siguientes centros de población:
+
+Amacuitlapilco, El Peñon, Jonacatepec de Leandro Valle, Cabecera del Municipio; Tetelilla y Tlayca.
 
 ###### Art. 16.
 
@@ -421,15 +425,17 @@ Primero.- Aprobado que sea el presente decreto, remitase al titular del Poder Ej
 
 Segundo.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 555.- POR EL QUE SE ADICIONA Y MODIFICA LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
+P.O. 31 DE AGOSTO DE 2016.
 
-Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO OCHOCIENTOS SETENTA Y NUEVE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL Y DE LA LEY DE DIVISIÓN TERRITORIAL, AMBAS DEL ESTADO DE MORELOS”.]
 
-Segundo. Los ayuntamientos del Estado adecuarán, en su caso, la normatividad interna que corresponda, conforme a lo dispuesto en el presente Decreto en un plazo no mayor a 60 días a partir de la entrada en vigor del presente.
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos que indica el artículo 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-En tanto los ayuntamientos llevan a cabo las adecuaciones que correspondan, las cartas de origen se tramitarán atendiendo a las prevenciones de este decreto.
+SEGUNDA.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
 
-P.O. 19 DE MARZO DE 2017.
+TERCERA.- Las menciones que en otros ordenamientos se hagan del Municipio de Jonacatepec, se entenderán referidas al Municipio de Jonacatepec de Leandro Valle.
+
+CUARTA.- Las funciones, facultades, derechos y obligaciones establecidos a cargo del Municipio de Jonacatepec en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal, y de los Municipios, así como con cualquier persona física o moral, se entenderán asumidos por el Municipio de Jonacatepec de Leandro Valle, de acuerdo con la presente reforma.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 115.- POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 58 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
 
