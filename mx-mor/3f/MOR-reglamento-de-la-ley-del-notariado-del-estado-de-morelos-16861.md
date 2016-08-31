@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-del-notariado-del-estado-de-morelos-16861"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-02-26"
-last_updated: "2011-10-19"
+last_updated: "2016-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE LA LEY DEL NOTARIADO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 26 de febrero de 1999.
 
@@ -91,7 +91,7 @@ V.- Quinta Demarcación Notarial.- Comprende los Municipios de Yautepec, Tlayaca
 
 VI.- Sexta Demarcación Notarial.- Comprende los Municipios de Cuautla, Ayala, Yecapixtla, Tetela del Volcán y Ocuituco, con sede en Cuautla;
 
-VII.- Séptima Demarcación Notarial.- Comprende los Municipios de Jonacatepec, Axochiapan, Tepalcingo, Zacualpan, Jantetelco y Temoac, con sede en Jonacatepec, y (sic)
+VII.- Séptima Demarcación Notarial.- Comprende los Municipios de Jonacatepec, Axochiapan, Tepalcingo, Zacualpan, Jantetelco y Temoac, con sede en Jonacatepec, y
 
 > <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2005)</small>
 
@@ -129,17 +129,21 @@ IV.- En caso de Notarios Asociados, el nombre y apellidos de su asociado y las p
 
 #### SECCIÓN PRIMERA. DE LOS REQUISITOS PARA OBTENER EL REGISTRO DE ASPIRANTE AL NOTARIADO
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
 ###### Artículo 9.
 
-Los requisitos señalados en la Ley para obtener el Registro de Aspirante a Notario, se acreditarán en la forma siguiente:
+Los requisitos señalados en la Ley para obtener el Registro de Aspirante a Notario se acreditarán en la forma siguiente:
 
 I.- La Calidad de Morelense y la Residencia.- Con la copia certificada del acta de nacimiento expedida por el Oficial del Registro Civil y con la constancia de residencia expedida por la autoridad municipal correspondiente;
 
 II.- La Autorización para el Ejercicio Profesional del Derecho.- Con los originales del título y de la cédula profesional, expedidos por las instituciones legalmente facultadas para ello, o copia certificada de los mismos;
 
-III.- La Práctica Notarial.- Con el aviso que por escrito, el Notario hubiere dado a la Secretaría y al Colegio, del inicio y terminación de la práctica del aspirante o de la continuación de la misma; surtiendo efectos a partir de la fecha de recepción de dichos documentos, tanto en la Secretaría como en el Colegio, y
+III.- La Práctica Notarial.- Con el aviso que por escrito el Notario rinda a la Secretaría y al Colegio, en el que se hará constar tanto el inicio como la terminación, de la práctica del aspirante o de la continuación de la misma; surtiendo efectos a partir de la fecha de entrega de dicho documento, ante la Secretaría y el Colegio, y
 
 IV.- El no haber sido condenado por delito intencional.- Con el certificado de no antecedentes penales expedido por la autoridad competente, con antigüedad no mayor de 90 días, previos al examen.
+
+El cumplimiento de los requisitos legales para ser aspirante a Notario, particularmente de las prácticas a que se refiere la fracción III de este artículo, no resulta incompatible con el desempeño de una función o servicio público, siempre que este así lo permita y se trate de actividades relacionadas con el ejercicio profesional del derecho, sin una necesaria vinculación al ámbito del notariado.
 
 ###### Artículo 10.
 
@@ -183,7 +187,9 @@ I.- El Registro de Aspirante a Notario con la correspondiente publicación del P
 
 II.- El no haber sido condenado por delito intencional.- Con el certificado de no antecedentes penales expedido por la autoridad competente, con antigüedad no mayor de 90 días previos al examen, y
 
-III.- El no haber sido separado del ejercicio del notariado.- Mediante constancia expedida recientemente por el Notario con quien ejercitó la profesión.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
+
+III.- El no haber sido separado del ejercicio del notariado.- Mediante constancia expedida por el Notario con quien ejercitó la profesión, con una antigüedad previa al examen no mayor a 60 días naturales.
 
 ###### Artículo 16.
 
@@ -708,3 +714,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan las disposiciones administrativas de menor rango que se opongan a lo previsto en el presente Reglamento.
 
 TERCERO.- El Secretario de Gobierno podrá tomar las medidas necesarias para el adecuado cumplimiento de este Decreto.
+
+P.O. 31 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DEL NOTARIADO DEL ESTADO DE MORELOS".]
+
+PRIMERA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+TERCERA. Las modificaciones realizadas en virtud del presente Decreto podrán ser aplicables a los trámites o procedimientos que se encuentren en desarrollo o pendientes con relación a la Convocatoria al examen para obtener el registro de aspirante al notariado que se formuló para las personas que reúnan los requisitos señalados (sic) la Ley del Notariado del Estado, publicada en el Periódico Oficial "Tierra y Libertad", número 5414, de 20 de julio de 2016.
