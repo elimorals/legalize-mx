@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2016-06-01"
+last_updated: "2016-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -199,7 +199,9 @@ De conformidad con el Articulo 111 de la Constitución Estatal, el Estado de Mor
 
 12.- Jojutla;
 
-13.- Jonacatepec;
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
+
+13. Jonacatepec de Leandro Valle;
 
 14.- Mazatepec;
 
@@ -449,9 +451,9 @@ IV. Siete regidores: Emiliano Zapata, Puente de Ixtla, Tlaltizapán y Zacatepec;
 
 V. Cinco regidores: Axochiapan, Miacatlán, Tepalcingo, Tepoztlán, Tlaquiltenango, Yecapixtla y Xochitepec; y
 
-> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2016)</small>
 
-VI. Tres regidores: Amacuzac, Atlatlahucan, Coatlán del Rio, Huitzilac, Jantetelco, Jonacatepec, Mazatepec, Ocuituco, Temoac, Tetecala, Tetela del Volcán, Tlalnepantla, Tlayacapan, Totolapan y Zacualpan de Amilpas.
+VI. Tres regidores: Amacuzac, Atlatlahucan, Coatlán del Río, Huitzilac, Jantetelco, Jonacatepec de Leandro Valle; Mazatepec, Ocuituco, Temoac, Tetecala, Tetela del Volcán, Tlalnepantla, Tlayacapan, Totolapan y Zacualpan de Amilpas.
 
 ###### Artículo 19.
 
@@ -979,7 +981,7 @@ LIII. Instrumentar y reglamentar programas que prevengan y combatan el alcoholis
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2005)</small>
 
-LIV. Promover y coordinar la integración del Sistema Municipal para el Desarrollo Integral de la Familia, a fin de proporcionar la asistencia social en el Municipio con la colaboración de ese organismo, dicha asistencia deberá considerase prioritaria para las familias de los emigrantes;
+LIV. Promover y coordinar la integración del Sistema Municipal para el Desarrollo Integral de la Familia, a fin de proporcionar la asistencia social en el Municipio con la colaboración de ese organismo, dicha asistencia deberá considerase (sic) prioritaria para las familias de los emigrantes;
 
 LV. Prestar a las autoridades judiciales, al Ministerio Público, a las ayudantías y delegaciones y a los Poderes del Estado, el auxilio necesario para el ejercicio de sus funciones, cuando así lo soliciten;
 
@@ -1349,7 +1351,7 @@ Los Planes de Desarrollo Municipal, en Municipios que cuenten con población ind
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 2005)</small>
 
-Así mismo, los Planes de Desarrollo Municipal en municipios que cuenten con población de emigrantes, deberán contener programas y acciones tendientes al fortalecimiento económico, en las formas de producción y comercio, generando el crecimiento y bienestar de la población, tendiente a disminuir el flujo migratorio.
+Así mismo, los Planes de Desarrollo Municipal, en municipios que cuenten con población de emigrantes, deberán contener programas y acciones tendientes al fortalecimiento económico, en las formas de producción y comercio, generando el crecimiento y bienestar de la población, tendiente a disminuir el flujo migratorio.
 
 ###### Artículo 52.
 
@@ -1661,7 +1663,7 @@ III.- Disfrutar de buena fama y no estar procesado ni haber sido sentenciado por
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2006)</small>
 
-IV.- Contar con el título y cédula profesional de las carreras de Contador Público, Licenciado en Economía, Licenciado en Administración o alguna afín;
+IV.- Contar con título y cédula profesional de las carreras de Contador Público, Licenciado en Economía, Licenciado en Administración o alguna afín;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1855,7 +1857,7 @@ XIV.- Supervisar que las áreas administrativas del Ayuntamiento, den cabal cump
 
 > <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
 
-XV.- Supervisar que el área de Recursos Humanos del Ayuntamiento, allegue a sus trabajadores, a los elementos de seguridad pública o a los deudos de ambos, copia certificada del acuerdo mediante el cual el Cabildo aprueba y otorga los beneficios de pensiones o jubilaciones, "efectuar la autorización y registro de dicho documento; y
+XV.- Supervisar que el área de Recursos Humanos del Ayuntamiento, allegue a sus trabajadores, a los elementos de seguridad pública o a los deudos de ambos, copia certificada del acuerdo mediante el cual el Cabildo aprueba y otorga los beneficios de pensiones o jubilaciones, así como "efectuar la autorización y registro de dicho documento; y
 
 a) Sustituir el término "así como de su legal protocolización", "efectuar la autorización y registro de dicho documento".
 
@@ -2755,7 +2757,7 @@ V. Cuando el concesionario no otorgue o amplíe las garantías en los términos 
 
 VI. Porque el concesionario hipoteque, enajene o de cualquier manera grave la concesión o alguno de los derechos en ella establecidos, o los bienes afectos o dedicados al servicio público municipal de que se trate y siempre que haya transcurrido cuando menos un año de su otorgamiento; y
 
-VII. Porque el concesionario modifique sin autorización de (sic) Ayuntamiento las tarifas autorizadas.
+VII. Porque el concesionario modifique sin autorización de Ayuntamiento las tarifas autorizadas.
 
 ###### Artículo 152.
 
@@ -3916,6 +3918,18 @@ P.O. 1 DE JUNIO DE 2016.
 PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 31 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO OCHOCIENTOS SETENTA Y NUEVE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL Y DE LA LEY DE DIVISIÓN TERRITORIAL, AMBAS DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos que indica el artículo 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+TERCERA.- Las menciones que en otros ordenamientos se hagan del Municipio de Jonacatepec, se entenderán referidas al Municipio de Jonacatepec de Leandro Valle.
+
+CUARTA.- Las funciones, facultades, derechos y obligaciones establecidos a cargo del Municipio de Jonacatepec en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal, y de los Municipios, así como con cualquier persona física o moral, se entenderán asumidos por el Municipio de Jonacatepec de Leandro Valle, de acuerdo con la presente reforma.
 
 ###### ARTÍCULO CUARTO.
 
