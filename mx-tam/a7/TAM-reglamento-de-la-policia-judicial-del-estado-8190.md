@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-de-la-policia-judicial-del-estado-8190"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-12-28"
-last_updated: "1988-12-28"
+last_updated: "2016-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # REGLAMENTO DE LA POLICIA JUDICIAL DEL ESTADO
 
-REGLAMENTO DE LA POLICIA JUDICIAL DEL ESTADO
+REGLAMENTO DE LA POLICÍA JUDICIAL DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO QUINTO DEL REGLAMENTO DE LA POLICÍA INVESTIGADORA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 1 DE SEPTIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2016 (ABROGADA).
 
 Reglamento publicado en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 28 de diciembre de 1988.
 
@@ -746,3 +748,33 @@ A T E N T A M E N T E.
 SUFRAGIO EFECTIVO. NO REELECCION.
 
 El Gobernador Constitucional del Estado, ING. AMERICO VILLARREAL GUERRA.- El Secretario General de Gobierne, LIC. HERIBERTO BATRES GARCIA.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA POLICÍA INVESTIGADORA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los aspectos relacionados con el desarrollo policial, el servicio profesional de carrera policial, la previsión social y la profesionalización de los integrantes de la Corporación, se sujetarán al capítulo respectivo del Reglamento del Servicio Profesional de Carrera de la Procuraduría General de Justicia del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Las erogaciones que deriven de la aplicación del presente Reglamento, se realizarán atendiendo a la capacidad presupuestaria de la Institución.
+
+###### ARTÍCULO CUARTO.
+
+Las disposiciones del presente reglamento se aplicarán en lo conducente respecto de la organización y funcionamiento de la Policía Ministerial del Estado de Tamaulipas.
+
+###### ARTÍCULO QUINTO.
+
+Se abroga el reglamento de la Policía Judicial del Estado de Tamaulipas, publicado en el Periódico Oficial del Estado de fecha 28 de diciembre de 1988.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan los acuerdos, circulares y lineamientos que se opongan a las disposiciones del presente reglamento.
