@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-la-procuraduria-de-la-defensa-del-menor-y-la-familia-721
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-20"
-last_updated: "2015-10-04"
+last_updated: "2016-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE LA PROCURADURIA DE LA DEFENSA DEL MENOR Y LA FAMILIA PARA EL ESTADO DE DURANGO -- ANTES LEY DE LA PROCURADURIA DE LA DEFENSA DEL MENOR, LA MUJER Y LA FAMILIA PARA EL ESTADO DE DURANGO --
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 1 DE SEPTIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE LA PROCURADURÍA DE LA DEFENSA DEL MENOR Y LA FAMILIA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 20 de diciembre de 2009.
 
@@ -418,3 +420,19 @@ P.O. 4 DE OCTUBRE DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 577.- QUE CONTIENE LEY DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se abroga la Ley de la Procuraduría de la Defensa del Menor, la Mujer y la Familia del Estado de Durango, y se derogan todas aquellas disposiciones legales que contravengan a lo estipulado por la presente Ley.
+
+TERCERO. A partir de la entrada en vigor del presente Decreto, toda mención o alusión a la Procuraduría de la Defensa del Menor, la Mujer y la Familia, en cualquier ordenamiento legal, se entenderán referidos a la Procuraduría de Protección de Niñas, Niños y Adolescentes.
+
+CUARTO. Los procedimientos que a la entrada en vigor del presente Decreto se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos, salvo que se encuentre una mayor protección de los derechos de las niñas, niños y adolescentes en este ordenamiento legal.
+
+QUINTO. Los derechos adquiridos por los servidores públicos de la Procuraduría de la Defensa del Menor, la Mujer y la Familia del Estado de Durango, serán respetados en los términos que dispone la legislación aplicable; y en su caso, los recursos humanos se entienden transferidos a la Procuraduría de Protección de Niñas, Niños y Adolescentes, así como los recursos materiales, técnicos y financieros de la Procuraduría de la Defensa del Menor, la Mujer y la Familia del Estado de Durango se transferirán a partir de la entrada en vigor del presente decreto, a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango.
+
+SEXTO. Se contará con un plazo de 90 días naturales para expedir el Reglamento respectivo.
