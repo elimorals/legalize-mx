@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2015-12-31"
+last_updated: "2016-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -397,9 +397,13 @@ XXXI.- Dirigir, organizar, administrar y evaluar la Defensoría Pública, garant
 
 XXXII.- Participar y coordinar a través del área que determine, las acciones relacionadas con los asuntos fronterizos y vigilar o coadyuvar a su ejecución y seguimiento por parte de las demás dependencias y entidades competentes; así como promover la celebración de los convenios necesarios con las autoridades federales competentes para atender esta materia; y
 
-> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
 
-XXXIII.- Las demás que determinen expresamente las Leyes y Reglamentos.
+XXXIII.- Vigilar el cumplimiento de los preceptos constitucionales por parte de las autoridades del estado en materia de derechos humanos y dar seguimiento a la atención de las recomendaciones que emitan los organismos competentes en dicha materia; así como dictar las medidas administrativas necesarias para tal efecto;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+
+XXXIV.- Las demás que determinen expresamente las Leyes y Reglamentos.
 
 ### CAPITULO III
 
@@ -2118,5 +2122,11 @@ P.O. 18 DE DICIEMBRE DE 2015.
 P.O. 31 DE DICIEMBRE DE 2015.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 326 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LAS FRACCIONES I Y II Y SE DEROGAN LAS FRACCIONES VII Y VIII DEL ARTÍCULO 26 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LA CREACIÓN DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 2 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 539 MEDIANTE EL CUAL SE APRUEBA EL PROYECTO DE DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XXXIII Y SE ADICIONA LA FRACCIÓN XXXIV DEL ARTÍCULO 19 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
