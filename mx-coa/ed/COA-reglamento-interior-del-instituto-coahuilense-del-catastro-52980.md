@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-del-instituto-coahuilense-del-catastro-5298
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-12"
-last_updated: "2006-12-12"
+last_updated: "2016-09-02"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO COAHUILENSE DEL CATASTRO Y LA INFORMACION TERRITORIAL
 
-REGLAMENTO INTERIOR DEL INSTITUTO COAHUILENSE DEL CATASTRO Y LA INFORMACION TERRITORIAL
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR INSTITUTO COAHUILENSE DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL, PUBLICADO EN EL P.O. DE 2 DE SEPTIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DEL INSTITUTO COAHUILENSE DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL DEL ESTADO DE COAHUILA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2016 (SIN EFECTOS).
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el martes 12 de diciembre de 2006.
 
@@ -373,7 +375,7 @@ IV. Coadyuvar con las Unidades Administrativas del Instituto, en la elaboración
 
 V. Expedir copias certificadas de las constancias que obren en los archivos de la Delegación, cuando deban de ser exhibidas en procedimientos judiciales o contenciosos administrativos, y, en general, para cualquier proceso o averiguación de conformidad con las disposiciones jurídicas;
 
-VI. Prestar la información requerida cuando se realicen auditorias, inspecciones y visitas internas, ordinarias o extraordinarias; y (sic)
+VI. Prestar la información requerida cuando se realicen auditorias, inspecciones y visitas internas, ordinarias o extraordinarias; y
 
 VII. Las Delegaciones deberán apoyarse con las respectivas Direcciones de Área del Instituto de acuerdo al ámbito de competencia de cada una;
 
@@ -666,3 +668,15 @@ Ing. Salvador de la Rosa Frayre
 Director de Catastro e Impuestos Inmobiliarios, en representación del Lic. Fernando de las Fuentes Hernández, Presidente Municipal de Saltillo
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR INSTITUTO COAHUILENSE DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se deja sin efecto el Reglamento Interior del Instituto Coahuilense del Catastro y la Información Territorial, sus reformas y adiciones, publicado en la (sic) Periódico Oficial del Gobierno del Estado N° 99 de fecha 12 de diciembre de 2006 y se derogan todas las disposiciones que se opongan al presente reglamento.
+
+TERCERO.- Los manuales de organización precisarán lo no previsto en el presente reglamento en lo que se refiere a la estructura orgánica y las funciones específicas de las áreas que conforman las unidades administrativas del Instituto.
