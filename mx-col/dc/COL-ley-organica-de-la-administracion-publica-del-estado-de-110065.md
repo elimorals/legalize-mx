@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-administracion-publica-del-estado-de-110065"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-10-01"
-last_updated: "2015-10-01"
+last_updated: "2016-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el jueves 1 de octubre de 2015.
 
@@ -106,6 +106,10 @@ El Gobernador podrá acordar la creación y funcionamiento de consejos, comités
 ###### Artículo 10.
 
 El Gobernador podrá contar con unidades de apoyo, transitorias o permanentes, cualquiera que sea su denominación u organización, para planear, coordinar, administrar o ejecutar programas estratégicos, especiales o prioritarios a cargo de la Administración Pública del Estado, incluyendo los servicios de asesoría, consultoría y apoyo técnico que requiera el Titular del Poder Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+
+La Contraloría General del Estado es la unidad administrativa, adscrita a la Oficina del Gobernador, dotada de autonomía técnica y de gestión, responsable del control, evaluación, auditoría y fiscalización interna de las dependencias y entidades de la Administración Pública del Estado, competente para vigilar la actuación de los servidores públicos que la integran y en su caso aplicar las sanciones que correspondan derivadas de responsabilidad administrativa; cuya organización, procedimientos y atribuciones serán las que determinen las leyes, su reglamento interior y demás disposiciones jurídicas aplicables en la materia.
 
 ###### Artículo 11.
 
@@ -317,7 +321,7 @@ XXIX.- Generar, requerir, analizar y consolidar con fines de inteligencia, infor
 
 XXX.- Realizar el resguardo y administración de los sistemas electrónicos y sus bases de datos necesarios para el cumplimiento de las funciones encomendadas a la Secretaría;
 
-XXXI.- Tener a su cargo el sistema de control, evaluación, auditoría y fiscalización interna de la Administración Pública del Estado, el cual ejercerá a través de la Contraloría General del Estado, con efectos preventivos, correctivos y en su caso sancionadores, en los términos que dispongan las leyes y la normatividad en la materia;
+XXXI.- (DEROGADA, P.O. 2 DE SEPTIEMBRE DE 2016)
 
 XXXII.- Refrendar las leyes, reglamentos y decretos del Ejecutivo Estatal que le correspondan, y
 
@@ -1094,3 +1098,15 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día 01 primero del mes de octubre del año 2015.
 
 Atentamente. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. RAFAEL GUTIÉRREZ VILLALOBOS. Rúbrica. LA SECRETARIA DE FINANZAS Y ADMINISTRACIÓN, C.P. BLANCA ISABEL ÁVALOS FERNÁNDEZ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 132 SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 10 Y SE DEROGA LA FRACCIÓN XXXI DEL ARTÍCULO 23 AMBOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. El Gobernador dentro de los noventa días siguientes a partir de la entrada en vigor del presente Decreto, expedirá el Reglamento Interior de la Contraloría General del Estado.
+
+TERCERO. Todos los bienes muebles e inmuebles, relaciones laborales, contractuales, todos los procedimientos y juicios que actualmente cuenta la Contraloría General del Estado, dependiente de la Secretaría de Planeación y Finanzas, pasaran y los conocerá la Contraloría General del Estado a que se refiere al párrafo segundo del artículo 10, del presente decreto.
