@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2016-08-05"
+last_updated: "2016-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -847,7 +847,7 @@ En cumplimiento de sus atribuciones las comisiones se sujetarán a los procedimi
 
 > <small>(REFORMADO, G.P. 27 DE AGOSTO DE 2013)</small>
 
-Las Comisiones que requieran información de otra, la solicita (sic) directamente a través de su Presidente. Igualmente atiende las peticiones de otras comisiones o de diputados relacionados con asuntos de su competencia. En ambos casos considerará el estado que guardan los asuntos de que se trata.
+Las Comisiones que requieran información de otra, la solicita directamente a través de su Presidente. Igualmente atiende las peticiones de otras comisiones o de diputados relacionados con asuntos de su competencia. En ambos casos considerará el estado que guardan los asuntos de que se trata.
 
 > <small>(REFORMADO, G.P. 27 DE AGOSTO DE 2013)</small>
 
@@ -1165,7 +1165,7 @@ III.- De Orden Hacendario, el conocimiento, estudio y dictamen de los siguientes
 
 Para el cumplimiento de sus atribuciones, la Comisión de Hacienda y Presupuesto, solicitará al Órgano Superior de Fiscalización, el estudio, análisis y opinión de los asuntos que le encomiende, así como la elaboración de los proyectos de dictamen que le correspondan, en los términos de este artículo. Así mismo podrá solicitar al Instituto de Opinión Ciudadana, Estudios Económicos y Sociales, los trabajos de investigación relativos a los asuntos que le encomiende.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2012)</small>
+(REFORMADO, P.O. 10 DE FEBRERO DE 2012) (REPUBLICADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2016)
 
 ###### ARTICULO 66.
 
@@ -1194,6 +1194,10 @@ VII.- Presentar a la Junta de Coordinación Política, las propuestas de nombram
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 27 DE AGOSTO DE 2013)</small>
 
 Para el cumplimiento de sus atribuciones, la Comisión de Fiscalización del Gasto Público, ordenará al Órgano de Fiscalización Superior, el estudio, análisis y opinión de los asuntos que le encomiende, así como el conocimiento, estudio y elaboración de los anteproyectos de dictamen con motivo del resultado de la fiscalización de la Cuenta Pública Anual de las entidades fiscalizables, previstas en la Ley de Fiscalización Superior para el Estado de Baja California.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+
+En ningún caso la Comisión de Fiscalización podrá dictaminar una cuenta pública sin el Informe de Resultados a que se refieren los artículos 59 y 60 de la Ley de Fiscalización Superior de los Recursos Públicos para el estado de Baja California y sus municipios.
 
 La Comisión de Fiscalización del Gasto Público podrá solicitar al Instituto de Opinión Ciudadana, Estudios Económicos y Sociales el estudio, análisis y opinión de los asuntos que le encomiende.
 
@@ -1962,6 +1966,10 @@ Solo podrá dispensarse del trámite de ser turnada una iniciativa o proposició
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 Además de lo señalado en el párrafo anterior, para la procedencia de la dispensa de trámite resultará necesario cuando menos la existencia de determinados hechos que generen una condición de urgencia en la discusión y aprobación de una iniciativa de ley o decreto, que de no realizarse traería consecuencias negativas para la sociedad. Así mismo, la condición de urgencia deberá evidenciar la necesidad de omitirse los trámites parlamentarios correspondientes, sin que esto implique la afectación a principios o valores democráticos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+
+No podrá dispensarse el trámite a comisiones de ninguna cuenta pública.
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 2015)</small>
 
@@ -2846,3 +2854,11 @@ Dentro de un término no mayor al de 180 días, contados a partir de la fecha en
 ###### ARTÍCULO TERCERO.
 
 La Junta de Coordinación Política del Congreso del Estado, podrá tomar los acuerdos que sean necesarios para dar cumplimiento a las presentes reformas hasta en tanto se aprueben las disposiciones a que se refiere el artículo transitorio anterior.
+
+P.O. 2 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 540 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 66 Y 119 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Parlamentaria del Congreso del Estado.
+
+SEGUNDO.- Envíese el presente Decreto al Poder Ejecutivo para su publicación en el Periódico Oficial del Estado de Baja California.
