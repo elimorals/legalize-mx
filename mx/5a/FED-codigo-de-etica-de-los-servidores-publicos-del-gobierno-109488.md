@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-etica-de-los-servidores-publicos-del-gobierno-109488"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-08-20"
-last_updated: "2015-08-20"
+last_updated: "2016-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109488&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-08-19"
 
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL GOBIERNO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE SEPTIEMBRE DE 2016.
 
 Código publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 20 de agosto de 2015.
 
@@ -53,7 +53,9 @@ SEGUNDO.- El Código de Ética, las Reglas de Integridad y los Lineamientos gene
 
 Los entes públicos cuyas leyes específicas prevean el establecimiento de códigos de ética o de acciones concretas en la materia, deberán informar a la Secretaría de la Función Pública el diagnóstico, la evaluación y los resultados a que se refieren los artículos 48 a 51 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, en los términos que dicte la Unidad.
 
-TERCERO.- El lenguaje empleado en el Código de Ética, en las Reglas de Integridad y en los Lineamientos generales, no busca generar ninguna distinción ni marcar diferencias entre hombres y mujeres, por lo que las referencias o alusiones en la redacción hechas hacia un género representan a ambos sexos.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE SEPTIEMBRE DE 2016)</small>
+
+TERCERO.- El lenguaje empleado en el Código de Ética, en las Reglas de Integridad y en los Lineamientos generales, no busca generar ninguna distinción ni marcar diferencias entre hombres y mujeres, por lo que las referencias o alusiones en la redacción hechas hacia un género representan a ambos sexos. En la elaboración de los Códigos de Conducta, los Comités de Ética y de Prevención de Conflictos de Interés deberán considerar el utilizar un lenguaje claro, incluyente y no sexista.
 
 Para esos efectos y del presente Acuerdo, del Código de Ética, de las Reglas de Integridad y de los Lineamientos generales, se entenderá por:
 
@@ -69,7 +71,9 @@ e) Comité de Control y Desempeño Institucional: El Comité referido en el Acue
 
 f) Conflicto de interés: La situación que se presenta cuando los intereses personales, familiares o de negocios del servidor público puedan afectar el desempeño independiente e imparcial de sus empleos, cargos, comisiones o funciones;
 
-g) Delación: La narrativa que formula cualquier persona sobre un hecho o conducta atribuida a un servidor público, y que resulta presuntamente contraria al Código de Conducta y a las Reglas de Integridad;
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2016)</small>
+
+g) Denuncia: La narrativa que formula cualquier persona sobre un hecho o conducta atribuida a un servidor público, y que resulta presuntamente contraria al Código de Ética, al Código de Conducta o a las Reglas de Integridad;
 
 h) Dependencias: Las Secretarías de Estado y sus órganos administrativos desconcentrados, los Órganos Reguladores Coordinados, la Consejería Jurídica del Ejecutivo Federal, la Oficina de la Presidencia de la República, y la Procuraduría General de la República;
 
@@ -142,3 +146,11 @@ Quinto.- En tanto entran en vigor las disposiciones jurídicas y reglamentarias 
 Sufragio Efectivo. No Reelección.
 
 Dado en la Ciudad de México, a los 19 días del mes de agosto de dos mil quince.- El Secretario, Virgilio Andrade Martínez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBE EL ARTÍCULO TRANSITORIO DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 2 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO POR EL QUE SE MODIFICA EL DIVERSO QUE TIENE POR OBJETO EMITIR EL CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL GOBIERNO FEDERAL, LAS REGLAS DE INTEGRIDAD PARA EL EJERCICIO DE LA FUNCIÓN PÚBLICA, Y LOS LINEAMIENTOS GENERALES PARA PROPICIAR LA INTEGRIDAD DE LOS SERVIDORES PÚBLICOS Y PARA IMPLEMENTAR ACCIONES PERMANENTES QUE FAVOREZCAN SU COMPORTAMIENTO ÉTICO, A TRAVÉS DE LOS COMITÉS DE ÉTICA Y DE PREVENCIÓN DE CONFLICTOS DE INTERÉS".]
+
+Primero.- El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
