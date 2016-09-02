@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-bibliotecas-del-estado-de-sinaloa-21678"
 country: "mx"
 rank: "ley"
 publication_date: "2001-05-18"
-last_updated: "2001-05-18"
+last_updated: "2016-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE BIBLIOTECAS DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el día 18 de mayo de 2001.
 
@@ -53,29 +53,65 @@ III.- El establecimiento de las bases y directrices para la integración y el de
 
 IV.- La determinación de lineamientos para llevar a cabo la concertación con los sectores social y privado en esta materia en la entidad.
 
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 1 Bis.
+
+La biblioteca pública tendrá como finalidad ofrecer en forma democrática los servicios de consulta y préstamo de libros, periódicos, revistas y todo tipo de obras impresas o en formato digital, así como otros servicios culturales complementarios que permitan a la población adquirir, transmitir, acrecentar, promover y conservar en forma libre el conocimiento en todas las ramas del saber.
+
+Su acervo comprenderá colecciones bibliográficas, hemerográficas, auditivas, visuales, audiovisuales, digitales y, en general, cualquier otro medio que contenga información afín.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 2.
 
-Para los efectos de la presente ley, se entenderá por biblioteca pública todo establecimiento que contenga un acervo de carácter general superior a quinientos títulos, catalogados y clasificados, y que se encuentre destinado a atender en forma gratuita a toda persona que solicite la consulta o préstamo del acervo en los términos de las normas administrativas aplicables.
+Para los efectos de la presente Ley, se entenderá por:
 
-La biblioteca pública tendrá como finalidad ofrecer en forma democrática los servicios de consulta de libros y otros servicios culturales complementarios que permitan a la población adquirir, transmitir, acrecentar y conservar en forma libre el conocimiento en todas las ramas del saber.
+I. Acervo: Conjunto de obras bibliográficas, hemerográficas, auditivas, digitales, visuales o audiovisuales, en general cualquier otro medio impreso, electrónico o cibernético que contenga información de cualquier ramo del conocimiento, que conforman el patrimonio de una biblioteca;
 
-Su acervo podrá comprender colecciones bibliográficas, hemerográficas, auditivas, visuales, audiovisuales y, en general cualquier otro medio que contenga información afín.
+II. Biblioteca: El espacio físico que cuente con un acervo, cuya misión es contribuir al desarrollo de las personas y su calidad de vida por medio de la difusión del pensamiento, el acceso a la lectura, la información, la investigación y las expresiones culturales en igualdad de oportunidades a toda persona que haga uso de él;
+
+III. Biblioteca Pública: Todo establecimiento financiado y operado por el Estado o los municipios, que posea un acervo impreso o digital debidamente catalogado y clasificado, y destinado a la prestación del servicio público de consulta y préstamo gratuito, conforme a las disposiciones administrativas aplicables;
+
+IV. ISIC: Instituto Sinaloense de Cultura;
+
+V. Ley: Ley de Bibliotecas del Estado de Sinaloa;
+
+VI. Ley General: Ley General de Bibliotecas;
+
+VII. Ludoteca: Todo espacio existente en las bibliotecas públicas dotado de instalaciones adecuadas para la lectura y el aprendizaje infantil a través del juego y la participación en actividades formativas;
+
+VIII. Red: Red Estatal de Bibliotecas Públicas;
+
+IX. Secretaría: Secretaría de Educación Pública y Cultura del Estado;
+
+X. Sistema: Sistema Estatal de Bibliotecas;
+
+XI. Usuario: Persona beneficiaria de los servicios de consulta y préstamo bibliotecarios.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 3.
 
-Corresponderá a la Dirección de Investigación y Fomento de la Cultura Regional conforme a los criterios, lineas de acción y políticas definidas por la Secretaría de Educación Pública y Cultura proponer, ejecutar y evaluar la política estatal de bibliotecas atendiendo al Plan Estatal de Desarrollo y los programas sectoriales correspondientes.
+Corresponderá a la Secretaría por medio del ISIC conforme a los criterios, líneas de acción y políticas derivadas de la Ley General y de esta Ley, proponer, ejecutar y evaluar la política estatal en materia de bibliotecas, con apego al Plan Estatal de Desarrollo y los programas sectoriales correspondientes.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 4.
 
-El Gobierno del Estado y los Municipios, dentro de sus respectivas jurisdicciones, promoverán el establecimiento, organización y sostenimiento de bibliotecas públicas y los servicios culturales complementarios que a través de éstas se otorguen.
+El Gobierno del Estado y los Municipios, dentro de sus respectivas jurisdicciones, promoverán el establecimiento, operación, organización y sostenimiento de bibliotecas públicas, incluyendo su equipamiento con equipos de cómputo con conexión a internet, para la prestación del servicio gratuito de consulta digital, así como los servicios educativos y culturales complementarios.
+
+Los servicios que prestan las bibliotecas públicas, podrán trasladarse temporalmente en una biblioteca móvil con el propósito de garantizar el acceso a los servicios bibliotecarios hacia aquellas comunidades que no cuenten con bibliotecas públicas permanentes.
 
 ### Capítulo II. De la Red Estatal de Bibliotecas Públicas
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 5.
 
-Se integrará la Red Estatal de Bibliotecas Públicas con todas aquéllas constituidas y en operación dependientes del Estado y de los Municipios.
+La Red Estatal de Bibliotecas Públicas se integrará con todas aquellas que dependan del Estado y los Municipios, y que se encuentren en operación, así como con las que en lo sucesivo sean creadas con recursos propios de estas instancias de gobierno, y las que se creen como consecuencia de los acuerdos o convenios de coordinación que se celebren con el Ejecutivo Federal, por conducto de su Secretaría de Cultura.
 
-Para la expansión de la Red, la Dirección de Investigación y Fomento de la Cultura Regional, celebrará con los gobiernos de los Municipios, los acuerdos de coordinación necesarios.
+Para la expansión de la Red, la Secretaría por medio del ISIC celebrará con los Gobiernos de los Municipios, los acuerdos de coordinación necesarios.
 
 ###### Artículo 6.
 
@@ -87,21 +123,27 @@ II.- Ampliar y diversificar los acervos y orientar los servicios de las bibliote
 
 III.- Promover y fomentar la capacitación y profesionalización de su personal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 7.
 
-Conforme a los criterios, lineas de acción y políticas definidas por la Secretaría de Educación Pública y Cultura, corresponderá a la Dirección de Investigación y Fomento de la Cultura Regional:
+Conforme a los criterios, líneas de acción y políticas derivadas de la Ley General y de esta Ley, corresponderá a la Secretaría por medio del ISIC:
 
 I.- Integrar la Red Estatal de Bibliotecas Públicas;
 
 II.- Efectuar la coordinación de la Red;
 
-III.- Establecer los mecanismos participativos para programar la expansión de la Red;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+
+III.- Establecer los mecanismos participativos para planear y programar la expansión y modernización tecnológica de la Red;
 
 IV.- Emitir la normatividad técnica bibliotecaria para las bibliotecas de la Red, y supervisar su cumplimiento;
 
 V.- Seleccionar, determinar y desarrollar las colecciones de cada biblioteca pública de acuerdo con el programa correspondiente;
 
-VI.- Dotar a las nuevas bibliotecas públicas de un acervo de publicaciones informativas, recreativas y formativas; así como libros de lectura del sistema Braille; y también obras de consulta y publicaciones periódicas a efecto de que sus acervos respondan a las necesidades culturales, educativas y de desarrollo en general de los habitantes de la localidad;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+
+VI.- Dotar a las nuevas bibliotecas públicas de un acervo de publicaciones informativas, recreativas y formativas en formato impreso y digital, con conexión a internet, libros en el sistema Braille; así como de obras de consulta y publicaciones periódicas, a efecto de que sus acervos respondan a las necesidades culturales, educativas y de desarrollo integral de los habitantes de la localidad;
 
 VII.- Enviar periódicamente a las bibliotecas integradas a la Red dotaciones de los materiales señalados en la fracción anterior;
 
@@ -109,13 +151,17 @@ VIII.- Recibir de las bibliotecas que integran la Red, las publicaciones obsolet
 
 IX.- Enviar a las bibliotecas integrantes de la Red los materiales bibliográficos catalogados y clasificados de acuerdo con las normas técnicas bibliotecológicas autorizadas, a efecto de que los servicios bibliotecarios puedan ofrecerse con mayor eficiencia;
 
-X.- Proporcionar el servicio de catalogación de acervos complementarios de las bibliotecas integrantes de la Red;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+
+X.- Proporcionar el servicio de catalogación de acervos complementarios y apoyo técnico para el mantenimiento de los servicios informáticos de las bibliotecas integrantes de la Red;
 
 XI.- Proporcionar entrenamiento y capacitación al personal adscrito a las bibliotecas públicas de la Red;
 
 XII.- Facilitar la profesionalización del personal adscrito a las bibliotecas públicas de la red;
 
-XIII.- Proporcionar asesoría técnica en materia bibliotecaria a las bibliotecas incluidas en la Red;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+
+XIII.- Proporcionar asesoría técnica en materia bibliotecaria e informática a las bibliotecas incluidas en la Red;
 
 XIV.- Registrar los acervos de las bibliotecas en un catálogo general que permita la articulación de los servicios;
 
@@ -123,11 +169,17 @@ XV.- Difundir a nivel estatal los servicios bibliotecarios y actividades afines 
 
 XVI.- Coordinar el préstamo interbibliotecario, vinculando a las bibliotecas integrantes de la Red entre sí y con la comunidad bibliotecaria en los programas respectivos;
 
-XVII.- Llevar a cabo o patrocinar investigaciones encaminadas a fomentar el uso de los servicios bibliotecarios y el hábito de la lectura;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
 
-XVIII.- Reparar los acervos dañados;
+XVII.- Llevar a cabo o patrocinar investigaciones encaminadas a fomentar el uso de los servicios bibliotecarios, tanto impresos como digitales, y para impulsar el hábito de la lectura;
 
-XIX.- Promover la dotación a sus bibliotecas de los locales y equipo necesario; así como asegurar de modo integral y conservar en buen estado las instalaciones, el equipo y el acervo bibliográfico;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+
+XVIII.- Reparar los acervos impresos y digitales dañados;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+
+XIX.- Proporcionar, en colaboración con los Ayuntamientos, infraestructura, mobiliario y equipos que sean necesarios para la operación de las bibliotecas, incluyendo equipos de cómputo; y demás implementos tecnológicos necesarios; así como los recursos para su conservación y para la protección del acervo impreso y digital.
 
 XX.- Designar al coordinador de la Red Estatal quien fungirá como enlace en la coordinación de la Red Nacional de Bibliotecas Públicas, quien debe ser un profesional del área de bibliotecas o en su defecto con el compromiso de profesionalizarse en el área de bibliotecas durante el ejercicio de su cargo;
 
@@ -147,11 +199,21 @@ II.- Formular recomendaciones para lograr una mayor participación de los sector
 
 El Consejo de la Red Estatal de Bibliotecas Públicas estará integrado por:
 
-I.- Un presidente que será el titular de la Dirección de Investigación y Fomento de la Cultura Regional;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
 
-II.- Un Secretario Ejecutivo, desempeño que recaerá en el Director de Bibliotecas de la Dirección de Investigación y Fomento de la Cultura Regional, que tendrá a su cargo ejecutar los programas en materia de bibliotecas; y
+I. Un Presidente que será el titular de la Secretaría;
 
-III.- Hasta nueve vocales invitados a participar por el Presidente del Consejo, conforme a los siguientes criterios de representación:
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+
+II. Un Secretario Ejecutivo, que será el titular del ISIC;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+
+III. Un vocal, que será el titular del área del ISIC que tenga a su cargo ejecutar los programas en materia de bibliotecas; y
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+
+IV. Hasta nueve vocales invitados a participar por el Presidente del Consejo, conforme a los siguientes criterios de representación:
 
 a).- Un representante de las instituciones educativas de nivel básico;
 
@@ -173,13 +235,19 @@ Las bibliotecas pertenecientes a los sectores social y privado que presten servi
 
 Se declara de interés social la integración de un Sistema Estatal de Bibliotecas, compuesto por todas aquellas bibliotecas escolares, públicas, universitarias y especializadas pertenecientes a dependencias, entidades y personas físicas o morales de los sectores público, social y privado.
 
-La responsabilidad de coordinar el Sistema recaerá en la Dirección de Investigación y Fomento de la Cultura Regional, que actuará conforme a los lineamientos, directrices y políticas que defina la Secretaría de Educación Pública y Cultura.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
 
-La Dirección de Investigación y Fomento de la Cultura Regional organizará la Biblioteca de Sinaloa con el carácter de biblioteca central para todos los efectos de la Red Estatal de Bibliotecas.
+La responsabilidad de coordinar el Sistema recaerá en la Secretaría por medio del ISIC, que actuará conforme a los lineamientos, directrices y políticas que ésta defina conforme a la Ley General y la presente Ley.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+
+La Secretaría por medio del ISIC establecerá la Biblioteca de Sinaloa con el carácter de biblioteca central, para todos los efectos de la Red Estatal de Bibliotecas.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 12.
 
-El Sistema Estatal de Bibliotecas, tendrá como propósito conjuntar los esfuerzos estatales para lograr la coordinación dentro del sector público y la participación voluntaria de los sectores social y privado a través de la concertación, a fin de integrar y ordenar la información bibliográfica disponible en apoyo a las labores educativas, de investigación y cultural en general, para el desarrollo integral del Estado y de sus habitantes.
+El Sistema Estatal de Bibliotecas tendrá como propósito conjuntar los esfuerzos estatales para lograr la coordinación dentro del sector público, y la participación voluntaria de los sectores social y privado a través de la concertación, a fin de integrar y ordenar la información bibliográfica impresa y digital disponible en apoyo a las labores educativas, de investigación y cultural en general, para el desarrollo integral del Estado y de sus habitantes.
 
 ###### Artículo 13.
 
@@ -189,7 +257,9 @@ I.- Elaborar un listado general de las bibliotecas que se integren al Sistema;
 
 II.- Orientar a las bibliotecas pertenecientes al Sistema respecto de los medios técnicos en materia bibliotecaria y su actualización, para su mejor organización y operación;
 
-III.- Configurar un catálogo general de acervos de las bibliotecas incorporadas al Sistema, conforme a las reglas de catalogación y clasificación bibliográfica que adopte el Sistema para lograr su uniformidad;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+
+III.- Configurar un catálogo general de acervos impresos y digitales de las bibliotecas incorporadas al Sistema, conforme a las reglas de catalogación y clasificación bibliográfica que adopte el Sistema para lograr su uniformidad;
 
 IV.- Operar como medio de enlace entre los participantes, y entre éstos y las organizaciones bibliotecológicas con las que se relacionen, para desarrollar programas conjuntos;
 
@@ -201,13 +271,37 @@ VII.- Impulsar que los directivos sean técnicos o profesionales del área de bi
 
 VIII.- Las demás que sean análogas a las anteriores que le permitan alcanzar sus propósitos.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 14.
 
-El Sistema Estatal de Bibliotecas contará con un consejo de carácter consultivo, el que se integrará y funcionará de manera participativa conforme a las normas que emita la Dirección de Investigación y Fomento de la Cultura Regional.
+El Sistema Estatal de Bibliotecas contará con un consejo de carácter consultivo, el que se integrará y funcionará de manera participativa conforme a las normas que emita la Secretaría por medio del ISIC.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 15.
 
-Las bibliotecas cuyas características sean diferentes a las de biblioteca pública señaladas en esta ley, podrán ser incorporadas al Sistema Estatal de Bibliotecas mediante el correspondiente compromiso de integración que celebren sus titulares con la Dirección de Investigación y Fomento de la Cultura Regional.
+Las bibliotecas cuyas características sean diferentes a las de biblioteca pública señaladas en esta Ley, podrán ser incorporadas al Sistema Estatal de Bibliotecas mediante el correspondiente compromiso de integración que celebren sus titulares con la Secretaría por medio del ISIC.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+
+### Capítulo IV. De la Participación de la Sociedad
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 16.
+
+Para hacer efectiva la coordinación entre el sector público y los sectores social y privado a través de la concertación a que se refiere el artículo 12 de esta ley, el Gobierno del Estado y los Ayuntamientos promoverán la creación de patronatos ciudadanos para apoyar a una o más bibliotecas, en los que participarán los sectores mencionados.
+
+La estructura, organización y reglas de funcionamiento de los patronatos serán decididas por sus integrantes, pero no podrán en ningún caso modificar los criterios, líneas de acción y políticas derivadas de la Ley General y de esta Ley, que establezca la Secretaría por medio del ISIC para la adecuada operación de las bibliotecas.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 17.
+
+Los patronatos podrán recabar fondos en efectivo o en especie para el incremento del acervo impreso y digital de las bibliotecas, para su equipamiento con equipos de cómputo y su actualización permanente, para el remozamiento, ampliación y modernización de sus instalaciones, así como para cualquier mejora que el servicio requiera.
+
+También podrán financiar estudios e investigaciones para ese mismo objeto, y ponerlas a consideración de la Secretaría por medio del ISIC para su implementación, así como organizar eventos culturales que contribuyan a la difusión y promoción de las bibliotecas públicas.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -236,3 +330,15 @@ Juan S. Millán Lizárraga.
 El Secretario General de Gobierno El Secretario de Educación Pública y Cultura
 
 Gonzalo M. Armienta Calderón. J. Antonio Malacón Díaz.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 595 DEL H. CONGRESO DEL ESTADO.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE BIBLIOTECAS DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+TERCERO. El Ejecutivo del Estado y los Ayuntamientos incluirán progresivamente en los Presupuestos de Egresos posteriores a la entrada en vigor del presente Decreto, las partidas específicas para financiar el equipamiento de cómputo, el funcionamiento de la red de internet y los programas de digitalización del acervo impreso y adquisición de acervo digital de las bibliotecas de su competencia.
