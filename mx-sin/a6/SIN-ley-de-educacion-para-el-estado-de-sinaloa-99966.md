@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-educacion-para-el-estado-de-sinaloa-99966"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-26"
-last_updated: "2015-01-14"
+last_updated: "2016-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 26 de marzo de 2014.
 
@@ -345,13 +345,19 @@ XV. Diseñar programas de beneficio social para abatir la deserción, la reproba
 
 XVI. Asignar superficies de terreno idóneas en extensión y calidad para la construcción de planteles escolares en todos los tipos y niveles educativos;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
 
-XVII. Establecer programas preventivos de Talleres para Padres de Familia, para el fortalecimiento de los valores, cultura cívica y de la legalidad que se traduzcan en familias sólidas, unidas y fuertes que trasciendan con su ejemplo del ámbito familiar al contexto educativo y social; y
+XVII. Establecer programas preventivos de Talleres para Padres de Familia, para el fortalecimiento de los valores, cultura cívica y de la legalidad que se traduzcan en familias sólidas, unidas y fuertes que trasciendan con su ejemplo del ámbito familiar al contexto educativo y social;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+
+XVIII. Proponer programas de seguridad vial en los tipos del sistema educativo estatal entendidos como el conjunto de actividades que se orientan al desarrollo en la cultura de seguridad vial, para una mejor integración social de todos sus actores.
+
+Fomentar conductas y hábitos seguros en materia de seguridad vial y la formación de criterios para evaluar las distintas consecuencias que para su seguridad integral tienen las situaciones riesgosas a las que se exponen como peatones, pasajeros y conductores. La adquisición de hábitos de observación visual, auditiva y psicomotriz para la creación de actitudes y comportamientos de prevención frente a las autoridades de tránsito, respeto a las normas y actitudes de conciencia ciudadana en materia de uso de la vía; y
 
 > <small>(ADICIONADA, P.O. 14 DE ENERO DE 2015)</small>
 
-XVIII. Las demás que sean necesarias para mejorar el servicio educativo y lograr la calidad de la educación.
+XIX. Las demás que sean necesarias para mejorar el servicio educativo y lograr la calidad de la educación.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES DE LOS AYUNTAMIENTOS
 
@@ -489,39 +495,53 @@ Para la identificación, evaluación, atención educativa, acreditación y certi
 
 Las instituciones de Educación Superior, podrán establecer convenios con la Autoridad Educativa Federal a fin de homologar criterios para la atención, evaluación, acreditación y certificación, de estudiantes con capacidades y aptitudes sobresalientes.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+
 ### CAPÍTULO II. DE LA VIOLENCIA Y EL ACOSO ESCOLAR
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### Artículo 33.
 
-En la impartición de educación para menores de edad se tomarán medidas que aseguren a alumnos la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad.
+(DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2016)
 
-La disciplina escolar se obtendrá como resultado de las formas de organización que se adopten para el trabajo docente. En ningún caso podrán los maestros imponer a los educandos castigos corporales o los que en cualquier otra forma sean infamantes.
-
-Se brindarán cursos a docentes y personal que labora en los planteles educativos, sobre los derechos de los educandos y la obligación que tienen al estar encargados de su custodia, de protegerles contra toda forma de maltrato, perjuicio, daño, agresión, abuso, trata o explotación.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### Artículo 34.
 
-La Autoridad Educativa Estatal esmerará la protección contra la violencia y el acoso escolar entre los estudiantes de las escuelas públicas y privadas.
+(DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### Artículo 35.
 
-La violencia y el acoso escolar serán considerados como indisciplinas, sobre las cuales la SEPyC habrá de dictar las medidas necesarias para su prevención y erradicación, sin menoscabo de la aplicación de otras disposiciones legales.
+(DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### Artículo 36.
 
-Para efectos de esta Ley, se entenderá por violencia o acoso escolar, el hostigamiento e intimidación entre estudiantes.
+(DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### Artículo 37.
 
-La violencia y el acoso escolar se pueden presentar de manera física, verbal, psicológica, de exclusión social, sexual y cibernético.
+(DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### Artículo 38.
 
-Los maestros y directores de las escuelas públicas y privadas tienen la obligación de remitir ante el nivel educativo que corresponda de la SEPyC, en forma inmediata, los casos de violencia y acoso escolar que se presenten en un centro educativo.
+(DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### Artículo 39.
 
-Cuando la causa del problema requiera la colaboración de los involucrados, alumnos, maestros, directores y padres de familia y estos no asuman la obligación que les corresponde, se turnará el caso a la supervisión, jefatura de sector o área del nivel de la SEPyC, según corresponda, o en su caso a las instancias competentes.
+(DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2016)
 
 ### CAPÍTULO III. DE LAS MEDIDAS COMPENSATORIAS Y DE ASISTENCIA
 
@@ -1569,9 +1589,15 @@ XI. Proponer estímulos y reconocimientos de carácter social a alumnos, maestro
 
 XII. Procurar la obtención de recursos complementarios para el mantenimiento físico y para proveer de equipo básico a cada escuela pública;
 
-XIII. Apoyar, en conjunto con las autoridades educativas, los programas encaminados a promover una vida saludable en la escuela; y
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
 
-XIV. Realizar, en general, todo tipo de actividades para apoyar y fortalecer la educación en el municipio.
+XIII. Apoyar, en conjunto con las autoridades educativas, los programas encaminados a promover una vida saludable en la escuela;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+
+XIV. Proponer acciones que propicien el conocimiento de las actividades económicas locales preponderantes e impulsen el desarrollo integral de las comunidades; y
+
+XV. Realizar, en general, todo tipo de actividades para apoyar y fortalecer la educación en el municipio.
 
 Será responsabilidad del Presidente Municipal, que en el Consejo se alcance una efectiva participación social que contribuya a elevar la calidad y la cobertura de la educación, así como la difusión de programas preventivos de delitos que se puedan cometer en contra de niñas, niños y adolescentes o de quienes no tienen capacidad para comprender el significado del hecho o para resistirlo.
 
@@ -1649,7 +1675,11 @@ XXII. Promover en los educandos, por cualquier medio, el uso de medicamentos que
 
 XXIII. Expulsar o negarse a prestar el servicio educativo a niños, adolescentes y demás personas que presenten problemas de aprendizaje, condicionar su aceptación o permanencia en el plantel, a someterse a tratamientos específicos; así como presionar de cualquier manera a padres o tutores para que acudan a médicos o clínicas específicas para la atención de problemas de aprendizaje de los educandos;
 
-XXIV. Permitir cualquier tipo de violencia física, psicológica, sexual; así como toda forma de hostigamiento y de acoso ya sea físico o verbal, intimidación, y cualquier otra forma de agresión, ya sea de los educandos entre sí, o de estos hacia sus profesores o asistentes a la educación, o de estos entre sí, cometidos dichos actos por cualquier medio, incluyendo virtuales, presenciales o cibernéticos - ya sea por medio del uso de internet, teléfonos móviles y otras tecnologías digitales - en la comunidad escolar, sin importar género, origen étnico, sexo, condiciones de discapacidad, o circunstancias relativas a diferencias fisiológicas - edad, estatura, peso u otras- que pudieran significar situaciones de vulnerabilidad entre la población estudiantil; y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+
+XXIV. Permitir la violencia escolar en cualquier tipo de sus manifestaciones previstas en la Ley para Prevenir, Atender y Erradicar la Violencia Escolar del Estado de Sinaloa, sin importar género, origen étnico, sexo, condiciones de discapacidad o circunstancias relativas a diferencias fisiológicas -edad, estatura, peso u otras- que pudieran significar situaciones de vulnerabilidad entre la población estudiantil; y
 
 XXV. No cumplir con los demás preceptos de esta Ley y con los reglamentos que de ella emanen.
 
@@ -1836,3 +1866,29 @@ P.O. 14 DE ENERO DE 2015.
 PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
 
 SEGUNDO. El Ejecutivo del Estado, a través de la Secretaría de Educación Pública y Cultura, para dar cumplimiento al presente Decreto deberá realizar las modificaciones necesarias a su normatividad interna dentro de un plazo de 120 días siguientes al inicio de su vigencia.
+
+P.O. 2 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 584 DEL H. CONGRESO DEL ESTADO.- SE REFORMA Y ADICIONA LA LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 2 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO: 625 QUE EXPIDE LA LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA ESCOLAR Y REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN, AMBAS DEL ESTADO.]
+
+PRIMERO. El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. El Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley a los sesenta días naturales siguientes a su entrada en vigor.
+
+TERCERO. El Registro Estatal de Prevención, Atención y Erradicación de Violencia Escolar (REPAEVE) iniciará sus funciones dentro de los noventa días naturales a la entrada en vigor del presente Decreto.
+
+CUARTO. El Programa Estatal de Prevención, Atención y Erradicación de Violencia Escolar deberá ser publicado en el Periódico Oficial "El Estado de Sinaloa", dentro de los noventa días naturales posteriores a la entrada en vigor de esta Ley.
+
+QUINTO. Se derogan todas las disposiciones que se opongan a lo previsto por esta Ley.
+
+P.O. 2 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 638 DEL H. CONGRESO DEL ESTADO.- SE REFORMA Y ADICIONA LA LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
