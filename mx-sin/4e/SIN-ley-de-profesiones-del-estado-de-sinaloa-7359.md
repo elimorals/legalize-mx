@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-profesiones-del-estado-de-sinaloa-7359"
 country: "mx"
 rank: "ley"
 publication_date: "1955-05-03"
-last_updated: "2014-08-08"
+last_updated: "2016-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7359&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY DE PROFESIONES DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DE LA LEY DE PROFESIONES PARA EL ESTADO DE SINALOA, PUBLICADA EN EL P.O. DE 2 DE SEPTIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS SESENTA DÍAS SIGUIENTES DE SU PUBLICACIÓN.]</small>
+
 LEY DE PROFESIONES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2016 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el 3 de mayo de 1955.
 
@@ -742,3 +744,23 @@ P.O. 8 DE AGOSTO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 2 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 641 LEY DE PROFESIONES PARA EL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los sesenta días siguientes de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+El Capítulo II del Título Cuarto, denominado "De los Profesionistas que se Desempeñen como Peritos", iniciará su vigencia en un plazo de ciento veinte días posteriores a la publicación del presente Decreto en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se abroga la Ley de Profesiones del Estado de Sinaloa, publicada en el Periódico Oficial “El Estado de Sinaloa” número 50, del 3 de mayo de 1955, mediante el Decreto número 139.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+CUARTO. El titular del Poder Ejecutivo del Estado, deberá expedir el Reglamento de la presente Ley dentro de los treinta días siguientes contados a partir de la entrada en vigor de la misma.
+
+Asimismo, se deberá crear el Registro Profesional Estatal y el Padrón de Profesionistas Certificados y con Refrendo del Estado, en términos de la presente Ley.
+
+QUINTO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el 27 de enero del presente año, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo transitorio del citado Decreto.
+
+SEXTO. Los colegios de profesionistas constituidos con anterioridad al inicio de vigencia del presente Decreto, mantendrán su registro y reconocimiento oficial contando con un plazo de ciento veinte días para que adecuen su normatividad interna en términos de la presente Ley y cumplan con los requisitos previstos en la misma. Asimismo, los Títulos de Profesionistas vigentes se integrarán al Registro Profesional Estatal.
