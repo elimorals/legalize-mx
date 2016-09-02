@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-de-almacenaje-venta-porteo-y-consumo-de-bebidas-4388
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-11"
-last_updated: "2008-07-04"
+last_updated: "2016-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43880&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "QUE"
 ---
 # REGLAMENTO DE ALMACENAJE, VENTA, PORTEO Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL MUNICIPIO DE SAN JUAN DEL RIO, QUERETARO
 
-REGLAMENTO DE ALMACENAJE, VENTA, PORTEO Y CONSUMO DE BEBIDAS ALCOHOLICAS DEL MUNICIPIO DE SAN JUAN DEL RIO, QUERETARO
+REGLAMENTO DE ALMACENAJE, VENTA, PORTEO Y CONSUMO DE BEBIDAS ALCOHOLICAS DEL MUNICIPIO DE SAN JUAN DEL RÍO, QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 11 de febrero de 2005.
 
@@ -58,6 +58,10 @@ Las disposiciones del presente reglamento son de orden público, interés social
 Para la aplicación del presente Reglamento son autoridades:
 
 Ordenadoras:
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+
+A) El (sic) Secretaría de Desarrollo Sustentable;
 
 El Ayuntamiento de San Juan del Río, Querétaro;
 
@@ -105,9 +109,11 @@ III.- Autorizar la celebración de eventos artísticos, deportivos, festividades
 
 IV.- Las demás facultades y obligaciones que le confiere el presente reglamento y disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 5.
 
-Corresponde al Secretario de Desarrollo Urbano, Obras Públicas y Ecología Municipal:
+Corresponde al Secretario de Desarrollo Sustentable:
 
 I.- Ejecutar órdenes de visitas de inspección a los lugares donde se pretenda comercializar bebidas alcohólicas, a través del Área de Inspectores, con motivo de la expedición del dictamen de uso de suelo.
 
@@ -417,7 +423,7 @@ El refrendo de licencias de funcionamiento deberá hacerse dentro de los tres pr
 
 ###### Artículo 25.
 
-Para el refrendo de licencias funcionamiento (sic) de los giros comerciales señalados en el capítulo II del presente ordenamiento, se requiere presentar ante la dependencia encargada de las finanzas públicas en original y copia los siguientes documentos:
+Para el refrendo de licencias (sic) funcionamiento de los giros comerciales señalados en el capítulo II del presente ordenamiento, se requiere presentar ante la dependencia encargada de las finanzas públicas en original y copia los siguientes documentos:
 
 I.- Licencia Municipal de Funcionamiento del ejercicio fiscal anterior;
 
@@ -499,7 +505,7 @@ En todo caso, la autoridad dará parte al Ministerio Público remitiendo a las p
 
 ###### Artículo 34.
 
-La autoridad municipal, para comprobar el cumplimiento de las disposiciones que establece el presente reglamento y demás ordenamientos vigentes aplicables en la materia podrá llevar acabo visitas de verificación o inspección, mismas que podrán ser ordinarias y extraordinarias; las primeras se efectuarán en días y horas hábiles, así como en el horario de Funcionamiento del establecimiento, las segundas en cualquier tiempo, (sic)
+La autoridad municipal, para comprobar el cumplimiento de las disposiciones que establece el presente reglamento y demás ordenamientos vigentes aplicables en la materia podrá llevar acabo visitas de verificación o inspección, mismas que podrán ser ordinarias y extraordinarias; las primeras se efectuarán en días y horas hábiles, así como en el horario de Funcionamiento del establecimiento, las segundas en cualquier tiempo,
 
 ###### Artículo 35.
 
@@ -844,3 +850,17 @@ El presente Reglamento entrará en vigor al día siguiente de su publicación en
 ###### ARTÍCULO TERCERO.
 
 Se deroga el Capítulo Primero del Título Décimo Segundo del Reglamento de Policía y gobierno Municipal; los artículos 47, 48, 49, 52, 53, 54, 55 Y el segundo párrafo del artículo 67 del Reglamento de Protección Civil; el Capítulo Octavo del Reglamento de Almacenaje, Venta, Porteo y Consumo de Bebidas Alcohólicas; el Capítulo Primero Título Quinto del Reglamento de Espectáculos y Diversiones Públicas; los artículos del 142 al 156 y la fracción XVI artículo 161 del Reglamento de Ecología y Protección al Ambiente; todos del Municipio de San Juan del Río, Querétaro, así como cada una de las disposiciones reglamentarias que contravengan al presente Reglamento.
+
+P.O. 2 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "MODIFICACIÓN A LA NORMATIVIDAD MUNICIPAL EN MATERIA DE DESARROLLO URBANO, OBRAS PÚBLICAS Y ECOLOGÍA, ASÍ COMO AL MANUAL GENERAL DE ORGANIZACIÓN, TODOS DEL MUNICIPIO DE SAN JUAN DEL RÍO, QRO.".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día de su aprobación por el Ayuntamiento de San Juan del Río, Qro.
+
+SEGUNDO. Se derogan las disposiciones municipales que contravengan el presente Decreto. De igual manera, se ordena que todas las referencias contenidas en la normatividad interna hechas a la Secretaría de Desarrollo Urbano, Obras Públicas y Ecología Municipal se tendrán por modificadas, para efectos y competencia de las Secretarías de Obra Pública y de Desarrollo Sustentable, respectivamente, según corresponda.
+
+TERCERO. El Presidente Municipal deberá remitir dentro de los 15 días siguientes de su aprobación, copia certificada de la modificación al Manual de Organización del Municipio de San Juan del Río, Qro., al titular del Poder Ejecutivo del Estado de Querétaro, a través de la Dirección Jurídica y Consultiva, para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+CUARTO. Se instruye al Secretario del Ayuntamiento a fin de que notifique del presente acuerdo a todas las áreas de la Administración Municipal.
+
+QUINTO. Se instruye al Secretario del Ayuntamiento a fin de que publique el presente acuerdo por una sola ocasión en la Gaceta Municipal.
