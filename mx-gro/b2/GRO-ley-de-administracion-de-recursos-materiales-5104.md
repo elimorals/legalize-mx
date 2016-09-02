@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-administracion-de-recursos-materiales-5104"
 country: "mx"
 rank: "ley"
 publication_date: "1988-11-29"
-last_updated: "1988-11-29"
+last_updated: "2016-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY DE ADMINISTRACIÓN DE RECURSOS MATERIALES
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 230 DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS, PRESTACIÓN DE SERVICIOS Y ADMINISTRACIÓN DE BIENES MUEBLES E INMUEBLES DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 2 DE SEPTIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2016. (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 29 de noviembre de 1988.
 
@@ -476,3 +478,19 @@ Rúbrica.
 El Secretario de Gobierno.
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 230 DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS, PRESTACIÓN DE SERVICIOS Y ADMINISTRACIÓN DE BIENES MUEBLES E INMUEBLES DEL ESTADO DE GUERRERO”.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley de Administración de Recursos Materiales, publicada en el Periódico Oficial del Gobierno del Estado número 99, de fecha 29 de noviembre de 1988, y se derogan todas las disposiciones legales que se opongan al presente ordenamiento.
+
+TERCERO. La Secretaría dispondrá de un plazo de noventa días, a partir de la fecha de publicación de esta Ley, para expedir el reglamento interno del Comité.
+
+CUARTO. La Secretaría dispondrá de noventa días a partir de la fecha de su publicación para expedir el reglamento de la Ley.
+
+QUINTO. Los procedimientos de contratación y de aplicación de sanciones, así como los demás asuntos que se encuentren en trámite o pendientes de resolución, se tramitarán y regularán conforme a las disposiciones vigentes al momento en que se iniciaron.
