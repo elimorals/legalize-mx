@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-instituciones-de-asistencia-social-privada-para-107428"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-17"
-last_updated: "2015-12-18"
+last_updated: "2016-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 LEY DE INSTITUCIONES DE ASISTENCIA SOCIAL PRIVADA PARA NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS 30 DÍAS SIGUIENTES AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.]</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 2015.
 
@@ -493,7 +491,13 @@ Las resoluciones dictadas por la Procuraduría de Protección con motivo de la a
 
 PRIMERO.- El presente Decreto entrará en vigor a los 30 días siguientes al de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.- Las Instituciones de Asistencia Social Privada que operen en el Estado de Baja California al momento de la entrada en vigor de este Decreto, deberán solicitar la licencia a que refiere el artículo 13 de esta Ley, en un plazo no mayor a 60 días naturales contados a partir del día siguiente de la entrada en vigor de este Decreto. Las solicitudes respectivas deberán resolverse dentro de un plazo no mayor a 180 días siguientes a partir de su recepción.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+
+SEGUNDO.- Las Instituciones de Asistencia Social Privada que operen en el Estado de Baja California al momento de la entrada en vigor de este Decreto, deberán solicitar la licencia a que se refiere el artículo 13 de esta Ley, en un plazo no mayor a 60 días naturales contados a partir del día siguiente de la entrada en vigor de este Decreto.
+
+Asimismo, las instituciones solicitantes tendrán hasta el 31 de diciembre de 2016 para cumplir con los requisitos exigidos por esta ley para la expedición de dichas licencias, cuando así lo hubiese requerido la autoridad, pudiendo concederse después de esa fecha hasta 90 días más, cuando excepcionalmente así lo determine la Procuraduría.
+
+Las solicitudes de licencia a que se refiere este numeral deberán resolverse dentro de un plazo no mayor a 270 días siguientes a partir de su recepción o de que se solventen por la (sic) instituciones solicitantes los requerimientos ordenados por la autoridad para su expedición.
 
 TERCERO.- Para la implementación de esta Ley deberán realizarse las previsiones presupuestales necesarias.
 
@@ -526,3 +530,9 @@ P.O. 18 DE DICIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 418 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 3 Y 28 DE LA LEY DE INSTITUCIONES DE ASISTENCIA SOCIAL PRIVADA PARA NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 537 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE INSTITUCIONES DE ASISTENCIA SOCIAL PRIVADA PARA NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará al día siguiente de su publicación en el Periódico Oficial del Estado.
