@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-los-servicios-de-salud-de-nayarit-35577"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-13"
-last_updated: "2016-08-05"
+last_updated: "2016-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE NAYARIT.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2016.
 
 Reglamento publicado en la sección novena del Periódico Oficial del Estado, el sábado 13 de diciembre de 2003.
 
@@ -309,11 +309,11 @@ XXI. Las demás que de manera expresa le confiera el Director General.
 
 ### CAPITULO VIII. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS DIRECCIONES
 
-> <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
+(F. DE E., P.O. 21 DE FEBRERO DE 2004) (REFORMADO PRIMER PÁRRAFO, P.O.3 DE SEPTIEMBRE DE 2016)
 
 ###### ARTICULO 22.
 
-La Dirección de Planeación, tendrá las siguientes atribuciones;
+La Dirección de Planeación, tendrá las siguientes atribuciones:
 
 I. Integrar los programas del organismo, supervisando su cumplimiento a través de análisis tendientes a proponer cambios y ajustes, buscando el equilibrio entre lo programado y lo ejecutado, todo ello con la finalidad de preparar oportunamente el diagnóstico subsecuente para la formulación de los programas operativos anuales y de esa manera mejorar la calidad y productividad de los servicios de salud en el Estado;
 
@@ -355,7 +355,13 @@ XIX. Proponer al Director General nuevos modelos de organización, modalidades d
 
 XX. Auxiliar en el funcionamiento del Subcomité de Salud y Seguridad Social del COPLADENAY, para apoyar al fortalecimiento de las acciones de los programas de salud y las inversiones en infraestructura física sobre el particular, y;
 
-XXI. Las demás que le señale el Director General y otras disposiciones, en el ámbito de su competencia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE SEPTIEMBRE DE 2016)</small>
+
+XXI. Planear, programar, presupuestar, contratar, ejecutar y controlar la obra pública aprobada al Organismo, con base en las disposiciones legales federales y locales aplicables, y;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2016)</small>
+
+XXII. Las demás que le señale el Director General y otras disposiciones, en el ámbito de su competencia.
 
 > <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
 
@@ -930,3 +936,9 @@ LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS E
 P.O. 5 DE AGOSTO DE 2016.
 
 > <small>[N. DE E. EL "ACUERDO, QUE MODIFICA EL ARTÍCULO 20 FRACCIÓN IV DEL REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE NAYARIT"; NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.]</small>
+
+P.O. 3 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO QUE MODIFICA LA FRACCIÓN XXI Y ADICIONA LA FRACCIÓN XXII, AMBOS DEL ARTÍCULO 22 DEL REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE NAYARIT".]
+
+UNICO.- La reforma entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
