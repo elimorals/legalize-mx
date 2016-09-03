@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-del-instituto-estatal-de-migracion-del-7750
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-10"
-last_updated: "2010-11-10"
+last_updated: "2016-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE MIGRACION DEL ESTADO DE ZACATECAS
 
-REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE MIGRACION DEL ESTADO DE ZACATECAS
+REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE MIGRACIÓN DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL ZACATECANO MIGRANTE, PUBLICADO EN EL P.O. DE 3 DE SEPTIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2016 (ABROGADA).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 10 de noviembre de 2010.
 
@@ -412,3 +414,17 @@ ESAÚ HERNÁNDEZ HERRERA
 EL DIRECTOR GENERAL DEL INSTITUTO ESTATAL DE MIGRACIÓN
 
 LUIS RIGOBERTO CASTAÑEDA ESPINOZA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO.- INTERIOR DE LA SECRETARÍA DEL ZACATECANO MIGRANTE”.]
+
+Primero.- El presente Reglamento Interior de la Secretaría del Zacatecano Migrante, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se abroga el Reglamento Interior del Instituto Estatal de Migración, publicado mediante Suplemento al Número 90 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 10 de Noviembre de 2010.
+
+Se derogan todas las disposiciones administrativas que se opongan al presente ordenamiento.
+
+Tercero.- Con término de 120 días naturales después de la entrada en vigor del presente Reglamento, deberá expedirse el Manual de Organización y 180 días naturales el Manual de Procedimientos y publicarse en el Periódico Oficial, Órgano del Gobierno del Estado.
