@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-proteccion-a-la-fauna-para-el-estado-de-nayarit-53151"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-16"
-last_updated: "2015-07-08"
+last_updated: "2016-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PROTECCIÓN A LA FAUNA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Sección Décima Tercera al Periódico Oficial del Estado de Nayarit, el sábado 16 de diciembre de 2006.
 
@@ -69,43 +69,47 @@ VII. Fortalecer y fomentar la educación para el debido trato humanitario de los
 
 Son objeto de tutela y protección de ésta ley las especies de fauna silvestre y doméstica.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 4°.
 
 Para los efectos de esta ley, se entiende por:
 
-I. Fauna Silvestre.- Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como aquellos que presenten características de peligrosidad, ferocidad o fuerza natural extrema.
+I. Animales nocivos o peligrosos.- Aquellos que hayan sido afectados en su comportamiento debido a alteración biológica o genética; los que por su naturaleza sean agresivos o cuyas capacidades físicas les posibiliten causar un daño grave al ser humano;
 
-II. Fauna Domestica.- Aquellos que por su naturaleza, instinto o condición habitan permanentemente en compañía y dependencia de los seres humanos, y los que se crían y reproducen con ese propósito; en todos los casos independientemente de su pertenencia a especies amenazadas, exóticas, en peligro de extinción o prioritarias para la conservación.
+II. Comisión Estatal.- Comisión Estatal de Protección a la Fauna;
 
-III. Hábitat.- El sitio en un ambiente físico ocupado por un organismo, población, especie o comunidad de especies en un tiempo determinado.
+III. Comisión Municipal.- Comisión Municipal de Protección a la Fauna;
 
-IV. Protección a los animales.- La ejecución de acciones encaminadas al trato digno y respetuoso de los ejemplares de la fauna, cualquiera que sea su tipo, a fin de evitar o disminuir la tensión, sufrimiento, traumatismo o dolor que pudiera ocasionarles el aprovechamiento, posesión, traslado, exhibición, cuarentena, entrenamiento, comercialización, experimentación o sacrificio.
+IV. Crueldad.- Acto de brutalidad, sádico o zoofílico contra cualquier animal, ya sea por acción directa, omisión o negligencia;
 
-V. Unidades de manejo de conservación de la fauna silvestre.- Los predios e instalaciones registrados que operen de conformidad con un plan de manejo aprobado, y dentro de los cuales se de seguimiento al estado del hábitat y de poblaciones o ejemplares que ahí se distribuyan.
+V. Ejemplares o poblaciones ferales.- Aquellos pertenecientes a especies de fauna doméstica que al quedar fuera del control humano por su peligrosidad, ferocidad o fuerza natural extrema se establecen en el hábitat natural de la vida silvestre;
 
-VI. Comisión Estatal.- Comisión Estatal de Protección a la Fauna.
+VI. Especies o poblaciones amenazadas o en peligro de extinción.- Aquéllas cuyas áreas de distribución o volumen poblacional han sido drásticamente disminuidas, poniéndose en riesgo su viabilidad biológica si siguen operando factores que ocasionen el deterioro o modificación del hábitat o que disminuyan sus poblaciones;
 
-VII. Comisión Municipal.- Comisión Municipal de Protección a la Fauna.
+VII. Especies o poblaciones exóticas.- Aquellas cuya población es biológicamente viable, pero muy escasa de manera natural;
 
-VIII. Padrón Estatal.- Padrón Estatal de Fundaciones, Asociaciones u Organizaciones Sociales y Privadas de Protección a la Fauna.
+VIII. Especies o poblaciones prioritarias para la conservación.- Aquellas determinadas por el INADES para canalizar y optimizar esfuerzos de conservación y recuperación; las que se entienden asimiladas a especies sujetas a protección especial en los términos de las leyes;
 
-IX. Padrón Estatal de Mascotas.- Instrumento de información y control en materia de fauna doméstica o de compañía y mascotas silvestres.
+IX. Fauna Doméstica.- Aquellos que por su naturaleza, instinto o condición habitan permanentemente en compañía y dependencia de los seres humanos, y los que se crían y reproducen con ese propósito; en todos los casos independientemente de su pertenencia a especies amenazadas, exóticas, en peligro de extinción o prioritarias para la conservación;
 
-X. INADES.- Instituto Nayarita para el Desarrollo Sustentable.
+X. Fauna Silvestre.- Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como aquellos que presenten características de peligrosidad, ferocidad o fuerza natural extrema;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
+XI. Hábitat.- El sitio en un ambiente físico ocupado por un organismo, población, especie o comunidad de especies en un tiempo determinado;
 
-XI. SAGADERP.- Secretaría de Agricultura, Ganadería, Desarrollo Rural y Pesca.
+XII. INADES.- Instituto Nayarita para el Desarrollo Sustentable;
 
-XII. Animales nocivos o peligrosos.- Aquellos que hayan sido afectados en su comportamiento debido a alteración biológica o genética; los que por su naturaleza sean agresivos o cuyas capacidades físicas les posibiliten causar un daño grave al ser humano.
+XIII. Maltrato.- Todo hecho, acto u omisión del ser humano, que puede ocasionar dolor, deterioro físico o sufrimiento, que afecte el bienestar, ponga en peligro la vida del animal, o afecte gravemente su salud o integridad física, así como la exposición a condiciones de sobreexplotación de su capacidad física con cualquier fin;
 
-XIII. Ejemplares o poblaciones ferales.- Aquellos pertenecientes a especies de fauna doméstica que al quedar fuera del control humano por su peligrosidad, ferocidad o fuerza natural extrema se establecen en el hábitat natural de la vida silvestre.
+XIV. Padrón Estatal.- Padrón Estatal de Fundaciones, Asociaciones u Organizaciones Sociales y Privadas de Protección a la Fauna;
 
-XIV. Especies o poblaciones amenazadas o en peligro de extinción.- Aquéllas cuyas áreas de distribución o volumen poblacional han sido drásticamente disminuidas, poniéndose en riesgo su viabilidad biológica si siguen operando factores que ocasionen el deterioro o modificación del hábitat o que disminuyan sus poblaciones.
+XV. Padrón Estatal de Mascotas.- Instrumento de información y control en materia de fauna doméstica o de compañía y mascotas silvestres;
 
-XV. Especies o poblaciones prioritarias para la conservación.- Aquellas determinadas por el INADES para canalizar y optimizar esfuerzos de conservación y recuperación; las que se entienden asimiladas a especies sujetas a protección especial en los términos de las leyes.
+XVI. Protección a los animales.- La ejecución de acciones encaminadas al trato digno y respetuoso de los ejemplares de la fauna, cualquiera que sea su tipo;
 
-XVI. Especies o poblaciones exóticas.- Aquellas cuya población es biológicamente viable, pero muy escasa de manera natural.
+XVII. Trato Digno y Respetuoso.- Medidas necesarias que se brindan a los animales para evitar dolor, deterioro físico o sufrimiento, durante su posesión o propiedad, crianza, captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento, experimentación, adiestramiento o sacrificio, y
+
+XVIII. Unidades de manejo de conservación de la fauna silvestre.- Los predios e instalaciones registrados que operen de conformidad con un plan de manejo aprobado, y dentro de los cuales se dé seguimiento al estado del hábitat y de poblaciones o ejemplares que ahí se distribuyan.
 
 ###### ARTÍCULO 5°.
 
@@ -139,11 +143,11 @@ VII. Participar a través del representante respectivo, en el Consejo Técnico C
 
 VIII. Promover y celebrar los convenios necesarios con la Federación, al objeto de asumir las funciones susceptibles de transferencia conforme a la Ley General de Vida Silvestre, revertirlas al gobierno federal y renovar dichos convenios cuando fueren temporales.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 8°.
 
-Las atribuciones que esta ley otorga al Ejecutivo del Estado serán ejercidas a través de la SAGADERP y del INADES en el ámbito de sus respectivas competencias de conformidad a la legislación vigente.
+Las atribuciones que esta ley otorga al Ejecutivo del Estado serán ejercidas a través de la Secretaría de Desarrollo Rural y Medio Ambiente y del INADES en el ámbito de sus respectivas competencias de conformidad a la legislación vigente.
 
 ### CAPITULO II. DE LAS COMISIONES ESTATAL Y MUNICIPALES DE PROTECCIÓN A LA FAUNA
 
@@ -161,9 +165,9 @@ II. Un Secretario.
 
 III. Un representante de la Secretaría de Salud.
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
-IV. Un representante de la SAGADERP.
+IV. Un representante de la Secretaría de Desarrollo Rural y Medio Ambiente;
 
 V. Un representante del INADES.
 
@@ -756,3 +760,9 @@ P.O. 10 DE MAYO DE 2014.
 P.O. 8 DE JULIO DE 2015.
 
 Único.- El presente Decreto entrará en vigor al día siguiente a partir de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 5 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN A LA FAUNA PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
