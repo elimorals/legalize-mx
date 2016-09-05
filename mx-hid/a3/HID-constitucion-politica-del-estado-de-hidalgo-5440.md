@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2016-06-20"
+last_updated: "2016-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -85,7 +85,9 @@ Las normas relativas a los derechos humanos se interpretarán de conformidad con
 
 Todas las autoridades, servidoras y servidores públicos en el Estado de Hidalgo, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la Ley.
 
-En el Estado de Hidalgo, queda prohibida toda discriminación motivada por el origen étnico, nacional o regional, el género, la edad, las discapacidades, la condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil, el trabajo desempeñado, las costumbres, la raza, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y las libertades de las personas.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+
+En el Estado de Hidalgo, (sic) reconoce y protege el derecho a la vida. Queda prohibida toda discriminación motivada por el origen étnico, nacional o regional, el género, la edad, las discapacidades, la condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil, el trabajo desempeñado, las costumbres, la raza, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y las libertades de las personas.
 
 Toda discriminación o toda intolerancia constituyen un agravio a la dignidad humana y un retroceso a su propia condición, que deberá combatirse.
 
@@ -149,9 +151,13 @@ El derecho de réplica será ejercido en los términos dispuestos por la Ley.
 
 Artículo 5° Sin distinción alguna, todas y todos los habitantes del Estado tienen los derechos y obligaciones, así como los derechos humanos, consagrados en esta Constitución.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
-El varón y la mujer son iguales ante la ley. Esta protegerá la organización y el desarrollo de la familia.
+La familia es el elemento natural y fundamental de la sociedad y tiene derecho a su protección y desarrollo, por la sociedad, el Estado y la ley.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+
+El hombre y la mujer son iguales ante la ley.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -537,7 +543,9 @@ Son ciudadanos del Estado, los Hidalguenses que habiendo cumplido 18 años, teng
 
 Son prerrogativas del ciudadano del Estado:
 
-I. Votar en las elecciones populares;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+
+I.- Votar en las elecciones y consultas populares;
 
 > <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
 
@@ -569,9 +577,9 @@ II. Inscribirse en los Padrones Electorales, en los términos que determine la L
 
 III. Alistarse en la Guardia Nacional;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 1998)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
-IV. Votar en las elecciones populares, en los términos que señale la Ley;
+IV. Votar en las elecciones y consultas populares, en los términos que señale la Ley;
 
 > <small>(REFORMADA, P.O. 9 DE MAYO DE 1998)</small>
 
@@ -1235,6 +1243,10 @@ El Congreso concluirá la revisión de las Cuentas Públicas a más tardar el 31
 
 XXXII. Aprobar la afectación de los ingresos del Estado y, en su caso, el derecho a percibirlos, derivados de participaciones que en ingresos Federales le correspondan; contribuciones, productos, aprovechamientos, accesorios u otros conceptos susceptibles de afectación, como fuente de pago, garantía o ambos, del cumplimiento de todo tipo de obligaciones de pago a cargo del Estado, los Municipios, las entidades Paraestatales o las Entidades Paramunicipales. Igualmente, corresponderá al Congreso del Estado, a solicitud del Gobernador, la aprobación de la desafectación de esos ingresos o derechos, previo consentimiento de los acreedores respectivos, en términos de la Legislación aplicable.
 
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+
+XXXII Bis. Autorizar cualquier tipo de enajenación de los bienes inmuebles propiedad del Estado.
+
 > <small>(ADICIONADA, P.O. 21 DE MARZO DE 2011)</small>
 
 XXXIII. Las demás facultades que le sean concedidas por esta Constitución.
@@ -1253,7 +1265,9 @@ La función de fiscalización será ejercida conforme a los principios de poster
 
 La Auditoría Superior tiene las siguientes atribuciones:
 
-I.- Fiscalizar en forma posterior los ingresos y egresos, el manejo, la custodia y la aplicación de recursos que ejerzan los Poderes del Estado, los Ayuntamientos, Entidades Paraestatales, Organismos Autónomos y demás entidades fiscalizadas.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+
+I.- Fiscalizar en forma posterior los ingresos, egresos y deuda, el manejo, la custodia y la aplicación de recursos que ejerzan los Poderes del Estado, los Ayuntamientos, Entidades Paraestatales, Organismos Autónomos y demás entidades fiscalizadas.
 
 Las Entidades fiscalizadas llevarán el control y registro contable, patrimonial y presupuestario de los recursos que les sean transferidos o asignados. Asimismo, facilitarán el auxilio que requiera la Auditoría Superior en el ejercicio de sus funciones, para tal efecto, deberán proporcionar la información y documentación que se les solicite de conformidad con los procedimientos establecidos en la Ley y sin perjuicio de la competencia de otras autoridades.
 
@@ -1347,9 +1361,7 @@ VII. Nombrar Gobernador Provisional en los casos previstos por esta Constitució
 
 VIII. Conocer en su caso, la propuesta del Ejecutivo para nombrar a los Magistrados del Tribunal Superior de Justicia y Tribunal Fiscal Administrativo, de la renuncia de estos a su encargo. Así como la lista de propuestas que presente el titular del Ejecutivo para el nombramiento de Procurador General de Justicia del Estado y de Subprocurador de Asuntos Electorales, y de su renuncia o remoción;
 
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
-
-IX. Autorizar cualquier tipo de enajenación de los bienes inmuebles propiedad del Estado;
+IX. (DEROGADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ABRIL DE 2004)</small>
 
@@ -1719,6 +1731,10 @@ Corresponde al Gobierno Estatal la rectoría del desarrollo de la Entidad, para 
 
 El Estado programará, planeará, conducirá, coordinará y orientará la actividad económica en la Entidad, y regulará fomentará las actividades que demande el interés público sin menoscabo de las libertades y derechos que otorgan esta Constitución y la General de la República.
 
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+
+El Estado velará por la estabilidad de las finanzas públicas y del sistema financiero para coadyuvar a generar condiciones favorables para el crecimiento económico.
+
 (REFORMADO, P.O. 1 DE OCTUBRE DE 1987) (F. DE. E., P.O. 30 DE DICIEMBRE DE 1987)
 
 ###### Artículo 83.
@@ -1895,9 +1911,9 @@ Las leyes garantizarán a dichos servidores públicos una remuneración adecuada
 
 El Tribunal Superior de Justicia, el Tribunal Fiscal Administrativo y el Tribunal Electoral estarán integrados por el número de magistrados que establezcan las leyes orgánicas respectivas.
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
-Los Magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal Administrativo, serán nombrados por el Gobernador del Estado con la aprobación del Congreso o de la Diputación Permanente en su caso, en los términos de esta Constitución.
+Los magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal Administrativo, serán nombrados por el Gobernador del Estado con la aprobación del Congreso, en los términos de esta Constitución.
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -1947,15 +1963,15 @@ IX. (DEROGADA, P.O. 3 DE MARZO DE 2014)
 
 Los nombramientos de los magistrados y jueces serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes, en otras ramas de la profesión jurídica.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 96.
 
-Los nombramientos de Magistrados del Tribunal Superior de Justicia y Tribunal Fiscal Administrativo, que el Gobernador someta al Congreso del Estado o a la Diputación Permanente, en su caso, serán aprobados o no dentro del improrrogable término de diez días.
+Los nombramientos de Magistrados del Tribunal Superior de Justicia y Tribunal Fiscal Administrativo, que el Gobernador someta al Congreso del Estado, será (sic) aprobados o no dentro del improrrogable término de diez días.
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
-Si el Congreso del Estado o la Diputación Permanente en su caso, nada resolvieren dentro del plazo señalado, se tendrán por aprobados los nombramientos y él o los designados entrarán a desempeñar sus funciones.
+Si el Congreso del Estado, nada resolviere dentro del plazo señalado, se tendrán por aprobados los nombramientos y el o los designados entrarán a desempeñar sus funciones.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -2389,19 +2405,29 @@ Los presidentes municipales, síndicos y regidores de los ayuntamientos, electos
 
 Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que les dé, no podrán ser electas para el periodo inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el periodo inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el periodo inmediato como propietarios, a menos que hayan estado en ejercicio.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 126.
 
-En caso de falta absoluta del Ayuntamiento, si conforme a esta Constitución y a la ley no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, el Congreso del Estado designará entre los vecinos al Concejo Municipal que concluirá el periodo respectivo; este Concejo estará integrado por el número de miembros que determine la ley, quienes deberán cumplir los requisitos de elegibilidad establecidos para los regidores.
+En caso de falta absoluta del Ayuntamiento, si conforme a esta Constitución y a la ley no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, el Congreso del Estado designará entre los vecinos al Concejo Municipal interino o sustituto que corresponda conforme a lo dispuesto en este artículo; este Concejo estará integrado por el número de miembros que determine la ley, quienes deberán cumplir los requisitos de elegibilidad establecidos para los regidores.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 En caso de falta absoluta del Ayuntamiento en el primer año, el Congreso designará un Concejo Municipal interino y notificará lo actuado al Consejo General del Instituto Estatal Electoral, para que éste convoque a elecciones extraordinarias para elegir al Ayuntamiento que deba terminar el período.
 
-Si la falta absoluta del Ayuntamiento acontece en los dos últimos años, el Congreso nombrará un Concejo Municipal sustituto que termine el período.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+
+Si la falta absoluta del Ayuntamiento acontece en los tres últimos años, el Congreso nombrará un Concejo Municipal sustituto que termine el período.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 Si el Congreso no estuviere en período ordinario, la Diputación Permanente lo convocará a sesión extraordinaria para los efectos anteriores.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
+
 Hay falta absoluta de Ayuntamiento cuando no se hubieren efectuado las elecciones, se hubiesen declarado nulas, no se presente el Ayuntamiento a rendir la protesta, por renuncia mayoritaria de sus miembros, por haber sido desaparecidos los Poderes municipales o por muerte o incapacidad absoluta de la mayoría de sus integrantes.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 Si alguno de los miembros del Ayuntamiento deja de desempeñar su cargo, será sustituido por su suplente, o se procederá según lo disponga la ley.
 
@@ -2687,7 +2713,7 @@ XX. Las demás que le concedan la Constitución Política de los Estados Unidos 
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 142.
 
@@ -2801,7 +2827,9 @@ Las relaciones de trabajo entre los municipios y sus trabajadores, se regirán p
 
 ###### Artículo 149.
 
-Para efectos de la responsabilidad se reputarán como servidores públicos a los representantes de elección popular, a los miembros del poder Judicial, a los presidentes municipales, a los funcionarios y empleados, así como a los servidores de los organismos autónomos y en general a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal y municipal y a todos aquellos que manejen o apliquen recursos económicos estatales o municipales, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones; además serán responsables por el manejo indebido de recursos públicos y de la deuda pública.
+Para los efectos de la responsabilidad se reputarán como servidores públicos a los representantes de elección popular, a los miembros del poder Judicial, a los presidentes municipales, a los funcionarios y empleados, así como a los servidores del Instituto Estatal Electoral y en general a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal y municipal y a todos aquellos que manejen o apliquen recursos económicos estatales o municipales, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones, asimismo dichos servidores públicos serán responsables por el manejo indebido de recursos públicos y la deuda pública.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
 
 El Gobernador del Estado, los Diputados Locales, los Magistrados del Tribunal Superior de Justicia, los Consejeros del Consejo de la Judicatura, los integrantes de los ayuntamientos, así como los miembros de los organismos autónomos, serán responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos, a esta Constitución y a las leyes federales y locales, así como por el manejo indebido de fondos y recursos federales.
 
@@ -3746,3 +3774,11 @@ P.O. 20 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 666 QUE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 32 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 5 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 705 QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
