@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-administracion-publica-municipal-9639
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-21"
-last_updated: "2014-12-29"
+last_updated: "2016-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2016.
 
 Reglamento publicado en el Número 42 del Periódico Oficial del Estado de Hidalgo, el lunes 21 de octubre de 2013.
 
@@ -363,6 +363,14 @@ b) Dirección de Relaciones Públicas; y
 
 c) Dirección de Atención Telefónica SERVITEL.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+
+II. Secretaria Ejecutiva del Sistema Municipal de Protección Integral de Niñas, Niños y Adolescentes:
+
+a) Dirección de Estadística y Planeación Estratégica; y
+
+b) Dirección Jurídica.
+
 #### SECCIÓN SEGUNDA. DE LA SECRETARÍA PARTICULAR
 
 ###### ARTÍCULO 24.
@@ -458,6 +466,80 @@ V. Rendir los informes con la periodicidad que le indique la o el Titular de la 
 VI. Brindar la asesoría que le sea requerida vía telefónica, respecto de los principales trámites y servicios que brinda el Municipio; y
 
 XI (SIC). Las demás que determine la o el Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+
+ARTÍCULO 27 bis.- A la Secretaría Ejecutiva le corresponderá el despacho de las siguientes atribuciones:
+
+I. Coordinar las acciones entre las dependencias y las entidades competentes de la Administración Pública Municipal que deriven del presente reglamento;
+
+II. Llevar a cabo la coordinación operativa del Sistema Municipal;
+
+III. Elaborar el anteproyecto del Programa Municipal para someterlo a consideración de los miembros del Sistema;
+
+IV. Llevar a cabo el seguimiento y monitoreo de la ejecución del Programa Municipal;
+
+V. Elaborar y mantener actualizado el Manual de Organización y Operación del Sistema Municipal de Protección;
+
+VI. Compilar los acuerdos que se tomen en las sesiones del Sistema Municipal de Protección, llevar el archivo de éstos y de los instrumentos jurídicos que deriven, y expedir constancia de los mismos;
+
+VII. Apoyar al Sistema Municipal de Protección en la ejecución y seguimiento de los acuerdos y resoluciones emitidos;
+
+VIII. Celebrar convenios de coordinación, colaboración y concertación con instancias públicas y privadas, nacionales e internacionales;
+
+IX. Realizar y promover estudios e investigaciones para fortalecer las acciones en favor de la atención, defensa y protección de niñas, niños y adolescentes con el fin de difundirlos a las autoridades competentes y a los sectores social y privado para su incorporación en los programas respectivos;
+
+X. Difundir entre las autoridades correspondientes y la población en general los resultados de los trabajos que realice, así como toda aquella información pública que tienda a la generación, desarrollo y consolidación de perspectiva en la materia, desagregada por lo menos, en razón de edad, sexo, entidad federativa, escolaridad y discapacidad;
+
+XI. Informar cada cuatro meses al Sistema Municipal de Protección y a su Presidenta o Presidente, sobre sus actividades;
+
+XII. Fungir como instancia de interlocución con organizaciones de la sociedad civil, academia y demás instituciones de los sectores social y privado;
+
+XIII. Asesorar y apoyar a las dependencias y entidades que lo requieran para el ejercicio de sus atribuciones en la materia;
+
+XIV. Coordinarse con las Secretarias Ejecutivas del Sistema Estatal y de los municipios del Estado para la articulación del Programa Estatal de Protección;
+
+XV. Solicitar a las y los integrantes del Sistema Municipal la información requerida para dar respuesta a la solicitud del Sistema Estatal y Nacional de Información, y a su vez crear el Sistema Municipal de Información; y
+
+XVI. Las demás que le encomiende El o la Presidenta o el Sistema Nacional de Protección Integral, que señale el presente reglamento y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+
+ARTÍCULO 27 ter.- A la Dirección de Estadística y Planeación Estratégica le corresponderá el despacho de las siguientes atribuciones:
+
+I. Conformar un sistema de información a nivel Municipal, con el objeto de contar con datos desagregados que permitan monitorear los progresos alcanzados en el cumplimiento de los derechos de niñas, niños y adolescentes en el Municipio, incluyendo indicadores cualitativos y cuantitativos;
+
+II. Apoyar a él o la Secretaria Ejecutiva en la elaboración del Programa Municipal de Protección, con el análisis de los datos arrojados por el sistema de información;
+
+III. Llevar a cabo el seguimiento, monitoreo y evaluación de la ejecución del Programa Municipal;
+
+IV. Sistematizar la información que las y los integrantes del Sistema Municipal rindan cuatrimestralmente a la Secretaría Ejecutiva;
+
+V. Realizar anualmente un análisis del presupuesto destinado a la protección de los derechos de niñas, niños y adolescentes;
+
+VI. Desarrollar mecanismos de consulta ciudadana con metodologías con enfoque de derechos de infancia y adolescencia;
+
+VII. Proponer de manera conjunta con el o la Secretaria Ejecutiva elaborar políticas públicas y revisar las ya existentes relacionadas con los derechos de niñas, niños y adolescentes;
+
+VIII. Poner a consideración de la Secretaría Ejecutiva los programas o acciones a implementar a favor de las niñas, niños y adolescentes; y
+
+IX. Las demás que le encomiende el o la Secretaria Ejecutiva del Sistema Municipal de Protección y los demás ordenamiento (sic) legales aplicables.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+
+ARTÍCULO 27 quater.- A la Dirección Jurídica le corresponderá el despacho de las siguientes atribuciones:
+
+XXII. (SIC) El desarrollo de instrumentos de colaboración y coordinación, así como acciones de concertación con instancias públicas y privadas, nacionales e internacionales, que contribuyan al cumplimiento de la Secretaría Ejecutiva;
+
+XXIII. Establecer los mecanismos jurídicos de coordinación con otros sistemas municipales de protección que desarrollen programas, acciones y políticas en beneficio de niñas, niños y adolescentes, en términos de las disposiciones aplicables;
+
+XXIV. Elaborar los proyectos de reforma, reglamentos o de cualquier instrumento jurídico que le solicite la Secretaría Ejecutiva;
+
+XXV. Auxiliar a la Coordinación Jurídica y Procuraduría Municipal de Protección a Niñas, Niños, Adolescentes y las Familias en las medidas que ésta determine tendientes a la protección y restitución de derechos de niñas, niños y adolescentes en el ámbito de sus atribuciones;
+
+XXVI. Compilar los acuerdos que se tomen en las sesiones del Sistema Municipal de Protección, llevar el archivo de éstos y de los instrumentos jurídicos que deriven; y
+
+XXVII. Las demás que le encomiende el o la Secretaria Ejecutiva del Sistema Municipal de Protección o demás ordenamientos legales.
 
 ### CAPÍTULO III. DE LA SECRETARÍA GENERAL MUNICIPAL
 
@@ -3340,3 +3422,11 @@ QUINTO. El personal de la Dirección de Participación Social y Cultural pertene
 SEXTO. Se DEROGA la fracción II del artículo 85 y el artículo 87 del Reglamento Interior de la Administración Pública Municipal de Pachuca de Soto, Estado de Hidalgo, publicado mediante decreto número Siete, el día 21 de octubre de 2013 en el Periódico Oficial del Estado, número 42.
 
 SÉPTIMO. Sin perjuicio de lo anterior, al INSTITUTO se le otorgará suficiencia presupuestaria y recursos humanos para el ejercicio fiscal 2015.
+
+P.O. 5 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO MUNICIPAL NÚMERO TREINTA Y OCHO QUE CONTIENE LA INICIATIVA CON PROYECTO DE DECRETO QUE REFORMA EL ARTÍCULO 23 Y ADICIONA EL ARTÍCULO 27 BIS, 27 TER Y 27 QUATER DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, ESTADO DE HIDALGO”.]
+
+PRIMERO: El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNTO: (SIC) Para el siguiente Ejercicio Presupuestal el H. Ayuntamiento de Pachuca de Soto, deberá asignar recursos para la nueva Unidad de Apoyo del Presidente Municipal Constitucional.
