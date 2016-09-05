@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2016-08-08"
+last_updated: "2016-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -759,7 +759,11 @@ El Órgano Superior de Fiscalización del Estado deberá guardar reserva de sus 
 
 III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, recaudación, administración, manejo, custodia y aplicación de fondos y recursos federales, estatales o municipales y efectuar visitas domiciliarias para exigir la exhibición de libros, documentos y demás información indispensables para la realización de sus investigaciones, sujetándose a la Ley de Fiscalización Superior del Estado, así como a la demás legislación aplicable; y
 
-IV. Determinar los daños y perjuicios que afecten a la hacienda pública de las entidades y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades promover las acciones de responsabilidad a que se refiere el Capítulo Décimo Sexto de esta Constitución y presentar las denuncias y querellas penales, en cuyos procedimientos tendrá la intervención que señale la Ley.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+
+IV. Derivado de sus investigaciones y sin perjuicio de la competencia de la Auditoría Superior de la Federación, promover las responsabilidades que sean procedentes ante la Sala Administrativa y la Fiscalía Estatal Especializada en Combate a la Corrupción para la imposición de las sanciones que correspondan a los servidores públicos y a los particulares.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
 
@@ -1114,6 +1118,12 @@ Los Magistrados del Supremo Tribunal de Justicia del Estado, reunidos en pleno, 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2014)</small>
 
 La Sala Administrativa será un órgano jurisdiccional que gozará de plena autonomía para dictar sus fallos y que estará adscrito al Poder Judicial del Estado, se integrará por tres Magistrados sin que formen parte del Pleno del Supremo Tribunal de Justicia, asimismo tendrá entre sus facultades, dirimir las controversias de carácter administrativo y fiscal que se susciten entre los particulares y las autoridades del Estado, de los Municipios y sus Organismos Descentralizados o con otras personas en funciones de autoridad.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+
+El órgano jurisdiccional referido en el párrafo anterior, también será competente para imponer las sanciones a los servidores públicos por las responsabilidades administrativas que la ley determine como graves y a los particulares que participen en actos vinculados con dichas responsabilidades, así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o de los Municipios.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1691,9 +1701,11 @@ De la Responsabilidad de los Servidores Públicos.
 
 Para los efectos de las responsabilidades a que alude este Capítulo se reputarán como servidores públicos a los representantes de elección popular, a los integrantes del Poder Judicial y a sus funcionarios y empleados, así como a los Consejeros Electorales que integran el Consejo General del Instituto Estatal Electoral y el personal que labore para el mismo, y en general a quien desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, así como en los Organismos Descentralizados, Empresas de Participación Estatal o Municipal Mayoritaria, Sociedades y Asociaciones asimiladas a éstas y de Fideicomisos Públicos, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-Todos los servidores públicos son responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos, a las Leyes Federales, a esta Constitución y a las leyes que de ella emanen, así como por el manejo indebido de fondos y recursos del Estado y de los Municipios, de los delitos del orden común que cometan durante el tiempo de su encargo, así como en actividades administrativas irregulares, en que incurran en el ejercicio de sus cargos.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+
+Todos los servidores públicos son responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos, a las leyes federales, a esta Constitución y a las leyes que de ella emanen, así como por el manejo indebido de fondos y recursos del Estado y de los Municipios, de los delitos del orden común que cometan durante el tiempo de su encargo, así como en actividades administrativas irregulares, en que incurran en el ejercicio de sus cargos, y estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial, de intereses y fiscal ante las autoridades competentes, en los términos que determine la ley.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
 
@@ -1759,6 +1771,12 @@ Los sujetos de responsabilidad penal a que se refiere el Artículo 75 de este or
 
 La responsabilidad política de los servidores públicos a que se refiere el Artículo 74 de esta Constitución podrá exigirse durante el ejercicio del cargo y hasta un año después de concluida su función.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+
+La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley penal, que nunca serán inferiores a tres años.
+
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
 
 ###### Artículo 81.
@@ -1767,13 +1785,79 @@ Pronunciada una sentencia condenatoria siendo un delito cometido durante el ejer
 
 En los juicios del orden civil no hay fuero ni inmunidad para ningún servidor público.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 82.
 
-Serán sujetos de responsabilidad administrativa, los servidores públicos que en el desempeño de su cargo o comisión incurran en actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de sus funciones, debiendo ser sancionado por la autoridad competente.
+Serán sujetos de responsabilidad administrativa, los servidores públicos que en el desempeño de su cargo o comisión incurran en actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de sus funciones, empleos, cargos o comisiones, debiendo ser sancionado (sic) por la autoridad competente.
 
-Las sanciones, además de las que señalan las leyes, consistirán en destitución e inhabilitación, así como en sanciones económicas y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos y omisiones.
+Las sanciones consistirán en amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos y omisiones.
+
+Las faltas administrativas graves que determinen las leyes, serán investigadas y substanciadas por el Órgano Superior de Fiscalización del Estado, y los respectivos órganos internos de control según corresponda, y serán resueltas por la Sala Administrativa. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control.
+
+Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, se observará lo previsto en su ley orgánica, sin perjuicio de las atribuciones del Órgano Superior de Fiscalización del Estado en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
+
+Las leyes establecerán los supuestos y procedimientos para impugnar la clasificación de las faltas administrativas como no graves, que realicen los órganos internos de control.
+
+Los entes públicos estatales y municipales tendrán órganos internos de control con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquéllas distintas a las que son competencia de la Sala Administrativa; revisar el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Estatal Especializada en Combate a la Corrupción a que se refiere esta Constitución.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+
+Artículo 82 A.- La Sala Administrativa impondrán (sic) a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos estatales o municipales. Las personas morales serán sancionadas en los términos de este Artículo cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos estatales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. Las leyes establecerán los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
+
+Los procedimientos para la aplicación de las sanciones mencionadas en este Capítulo, se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+
+En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios. La ley establecerá los procedimientos para que les sea entregada dicha información.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+
+Artículo 82 B.- El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades de los tres Poderes, las dependencias, entidades y organismos constitucionales autónomos del Estado y sus Municipios, competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
+
+I.- La ley creará un Comité Coordinador del Sistema Estatal Anticorrupción, que estará integrado por los titulares de los organismos siguientes:
+
+a) Un representante del Comité de Participación Ciudadana del propio Sistema, quien lo presidirá;
+
+b) El titular del Órgano Superior de Fiscalización del Estado;
+
+c) El titular de la Fiscalía Estatal Especializada en Combate a la Corrupción;
+
+d) El titular de la secretaría del Ejecutivo del Estado, responsable del control interno;
+
+e) Presidente de la Sala Administrativa;
+
+f) Un representante del Consejo de la Judicatura Estatal; y
+
+g) Un representante del Instituto de Transparencia del Estado.
+
+II.- Corresponderá al Comité Coordinador del Sistema Estatal Anticorrupción, en los términos que determine la Ley:
+
+a) El establecimiento y adopción de mecanismos de coordinación con el Sistema Nacional Anticorrupción;
+
+b) El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan;
+
+c) La determinación de los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes del Estado y los municipios;
+
+d) El establecimiento de bases y principios para la efectiva coordinación de las autoridades del Estado y sus municipios en materia de fiscalización y control de los recursos públicos;
+
+e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia en el que se dé cuenta de las acciones anticorrupción, los riesgos identificados, los costos potenciales generados y los resultados de sus recomendaciones. Para este efecto deberán seguir las metodologías que emita el Sistema Nacional Anticorrupción; este informe será público y deberá remitirse al Sistema Nacional de referencia.
+
+Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité Coordinador del Sistema Estatal Anticorrupción sobre la atención que brinden a las mismas; y
+
+f) Tendrán acceso a la información pública necesaria, adecuada y oportuna para el mejor desempeño de sus funciones.
+
+III.- La ley creará el Comité de Participación Ciudadana del Sistema Estatal Anticorrupción, el cual se integrará por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la misma ley;
+
+IV.- Se creará una Fiscalía Especializada en Combate a la Corrupción, dependiente de la Fiscalía General del Estado, la cual será competente para investigar y perseguir las conductas consideradas como hechos de corrupción que sancione la normatividad local, cuando no sea competencia de la Federación.
+
+La comisión de delitos por parte de cualquier servidor público o particulares que incurran en hechos de corrupción, será sancionada en los términos de la legislación penal aplicable.
+
+V.- El Órgano Superior de Fiscalización o los órganos de control interno respectivos, cuando detecten alguna irregularidad provocada por hechos de corrupción de acuerdo a la normatividad, deberá presentar la denuncia correspondiente ante la Fiscalía Especializada en Combate a la Corrupción.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -2940,3 +3024,11 @@ EI presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Se deberán realizar las modificaciones normativas correspondientes para cumplimentar esta reforma, dentro de los 180 días naturales siguientes a su inicio de vigencia.
+
+P.O. 5 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 366.- SE REFORMA EL ARTÍCULO 27 C EN SU FRACCIÓN IV; SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 73 EN SU SEGUNDO PÁRRAFO; SE ADICIONAN LOS ARTÍCULOS 82 A Y 82 B, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia una vez que entren en vigor las adecuaciones legales necesarias para su aplicación, lo cual deberá ocurrir a más tardar el 19 de julio de 2017.
