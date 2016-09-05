@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2016-08-22"
+last_updated: "2016-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2016.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -2335,11 +2335,19 @@ Los hermanos y demás parientes colaterales a que se refiere el artículo anteri
 
 El adoptante y el adoptado tienen obligación de darse alimentos en los casos en que la tienen el padre y los hijos.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 330.
 
-Los alimentos comprenden la comida, el vestido, la habitación y la asistencia médica. Respecto de los menores de edad los alimentos comprenden, además de los gastos necesarios para su sano esparcimiento, la educación escolar del alimentario, y para proporcionarle algún oficio, arte o profesión honestos y adecuados a su sexo y circunstancias personales.
+Los alimentos comprenden:
+
+I.- La comida, el vestido, la habitación, la atención médica, la hospitalaria, y en su caso, los gastos de embarazo y parto;
+
+II.- Respecto de los menores de edad, incluyen además, los gastos necesarios para su sano esparcimiento; educación preescolar, primaria, secundaria, media superior y en su caso, educación especial; así como para proporcionarles algún oficio, arte o profesión honestos y adecuados a su sexo y circunstancias personales. La obligación subsistirá no obstante la mayoría de edad y hasta los veinticinco años siempre que continúen estudiando en grado acorde a su edad y no cuenten con ingresos propios;
+
+III.- Con relación a las personas declaradas en estado de interdicción o con discapacidad sin posibilidad de trabajar, comprenden también lo necesario para lograr, en lo posible, su habilitación o rehabilitación y su desarrollo e inclusión social; y
+
+IV.- Con relación a los adultos mayores que sean incapaces de satisfacer sus necesidades elementales, además de todo lo necesario para su atención geriátrica, se procurará que los alimentos se les proporcionen, integrándolos a la familia.
 
 ###### Artículo 331.
 
@@ -17066,3 +17074,11 @@ P.O. 22 DE AGOSTO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 EI presente Decreto entrara en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 373.- SE REFORMA EL ARTÍCULO 330 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
