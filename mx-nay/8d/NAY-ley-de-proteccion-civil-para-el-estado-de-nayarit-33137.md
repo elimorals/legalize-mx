@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-proteccion-civil-para-el-estado-de-nayarit-33137"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-23"
-last_updated: "2013-10-04"
+last_updated: "2016-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33137&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el miércoles 23 de Julio de 2003.
 
@@ -109,9 +109,9 @@ X. Damnificado: Persona afectada por un agente perturbador, ya sea que haya sufr
 
 XI. Declaratoria de Emergencia: Es el acto administrativo mediante el cual los Consejos Municipales o el Consejo Estatal, reconocen que se encuentran ante la inminencia, alta probabilidad o presencia de una situación anormal generada por un agente perturbador y por ello se requiere prestar auxilio inmediato a la población cuya seguridad e integridad está en riesgo;
 
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
-XII. Desastre: Al resultado de la ocurrencia de uno o más agentes perturbadores severos y/o extremos, concatenados o no, de origen natural o de la actividad humana, que cuando acontecen en un tiempo y en una zona determinada, causan daños y que por su magnitud exceden la capacidad de respuesta de la comunidad afectada;
+XII. Desastre: Al resultado de la ocurrencia de uno o más agentes perturbadores severos y/o extremos, concatenados o no, de origen natural o de la actividad humana o aquellos provenientes del espacio exterior, que cuando acontecen en un tiempo y en una zona determinada, causan daños y que por su magnitud exceden la capacidad de respuesta de la comunidad afectada;
 
 > <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2013)</small>
 
@@ -125,137 +125,153 @@ XIV. Evacuado: Persona que, con carácter preventivo y provisional ante la posib
 
 XV. Fenómeno Antropogénico: Agente perturbador producido por la actividad humana;
 
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
-XVI. Fenómeno Natural Perturbador: Agente perturbador producido por la naturaleza;
+XVI. Fenómeno Astronómico: Eventos, procesos o propiedades a los que están sometidos los objetos del espacio exterior incluidos estrellas, planetas, cometas y meteoros. Algunos de éstos fenómenos interactúan con la tierra, ocasionándole situaciones que generan perturbaciones que pueden ser destructivas tanto en la atmósfera como en la superficie terrestre, entre ellas se cuentan las tormentas magnéticas y el impacto de meteoritos;
 
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+(REFORMADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-XVII. Fenómeno Geológico: Agente perturbador que tiene como causa directa las acciones y movimientos de la corteza terrestre. A esta categoría pertenecen los sismos, las erupciones volcánicas, los tsunamis, la inestabilidad de laderas, los flujos, los caídos o derrumbes, los hundimientos, la subsidencia y los agrietamientos;
+XVII. Fenómeno Natural Perturbador: Agente perturbador producido por la naturaleza;
 
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+(REFORMADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-XVIII. Fenómeno Hidrometeorológico: Agente perturbador que se genera por la acción de los agentes atmosféricos, tales como: ciclones tropicales, lluvias extremas, inundaciones pluviales, fluviales, costeras y lacustres; tormentas de nieve, granizo, polvo y electricidad; heladas; sequías; ondas cálidas y gélidas; y tornados;
+XVIII. Fenómeno Geológico: Agente perturbador que tiene como causa directa las acciones y movimientos de la corteza terrestre. A esta categoría pertenecen los sismos, las erupciones volcánicas, los tsunamis, la inestabilidad de laderas, los flujos, los caídos o derrumbes, los hundimientos, la subsidencia y los agrietamientos;
 
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+(REFORMADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-XIX. Fenómeno Químico-Tecnológico: Agente perturbador que se genera por la acción violenta de diferentes sustancias derivadas de su interacción molecular o nuclear. Comprende fenómenos destructivos tales como: incendios de todo tipo, explosiones, fugas tóxicas, radiaciones y derrames;
+XIX. Fenómeno Hidrometeorológico: Agente perturbador que se genera por la acción de los agentes atmosféricos, tales como: ciclones tropicales, lluvias extremas, inundaciones pluviales, fluviales, costeras y lacustres; tormentas de nieve, granizo, polvo y electricidad; heladas; sequías; ondas cálidas y gélidas; y tornados;
 
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+(REFORMADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-XX. Fenómeno Sanitario-Ecológico: Agente perturbador que se genera por la acción patógena de agentes biológicos que afectan a la población, a los animales y a las cosechas, causando su muerte o la alteración de su salud. Las epidemias o plagas constituyen un desastre sanitario en el sentido estricto del término. En esta clasificación también se ubica la contaminación del aire, agua, suelo y alimentos;
+XX. Fenómeno Químico-Tecnológico: Agente perturbador que se genera por la acción violenta de diferentes sustancias derivadas de su interacción molecular o nuclear. Comprende fenómenos destructivos tales como: incendios de todo tipo, explosiones, fugas tóxicas, radiaciones y derrames;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+(REFORMADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-XXI. Fenómeno Socio-Organizativo: Agente perturbador que se genera con motivo de errores humanos o por acciones premeditadas, que se dan en el marco de grandes concentraciones o movimientos masivos de población, tales como: demostraciones de inconformidad social, concentración masiva de población, terrorismo, sabotaje, vandalismo, accidentes aéreos, marítimos o terrestres, e interrupción o afectación de los servicios básicos o de infraestructura estratégica;
+XXI. Fenómeno Sanitario-Ecológico: Agente perturbador que se genera por la acción patógena de agentes biológicos que afectan a la población, a los animales y a las cosechas, causando su muerte o la alteración de su salud. Las epidemias o plagas constituyen un desastre sanitario en el sentido estricto del término. En esta clasificación también se ubica la contaminación del aire, agua, suelo y alimentos;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-XXII. Gestión Integral de Riesgos: El conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción, que involucra a los tres niveles de gobierno, así como a los sectores de la sociedad, lo que facilita la realización de acciones dirigidas a la creación e implementación de políticas públicas, estrategias y procedimientos integrados al logro de pautas de desarrollo sostenible, que combatan las causas estructurales de los desastres y fortalezcan las capacidades de resiliencia o resistencia de la sociedad. Involucra las etapas de: identificación de los riesgos y/o su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción;
+XXII. Fenómeno Socio-Organizativo: Agente perturbador que se genera con motivo de errores humanos o por acciones premeditadas, que se dan en el marco de grandes concentraciones o movimientos masivos de población, tales como: demostraciones de inconformidad social, concentración masiva de población, terrorismo, sabotaje, vandalismo, accidentes aéreos, marítimos o terrestres, e interrupción o afectación de los servicios básicos o de infraestructura estratégica;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-XXIII. Grupos Voluntarios: Las personas morales o las personas físicas, que se han acreditado ante las autoridades competentes, y que cuentan con personal, conocimientos, experiencia y equipo necesarios, para prestar de manera altruista y comprometida, sus servicios en acciones de protección civil;
+XXIII. Gestión Integral de Riesgos: El conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción, que involucra a los tres niveles de gobierno, así como a los sectores de la sociedad, lo que facilita la realización de acciones dirigidas a la creación e implementación de políticas públicas, estrategias y procedimientos integrados al logro de pautas de desarrollo sostenible, que combatan las causas estructurales de los desastres y fortalezcan las capacidades de resiliencia o resistencia de la sociedad. Involucra las etapas de: identificación de los riesgos y/o su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-XXIV. Hospital Seguro: Establecimiento de servicios de salud que debe permanecer accesible y funcionando a su máxima capacidad, con la misma estructura, bajo una situación de emergencia o de desastre;
+XXIV. Grupos Voluntarios: Las personas morales o las personas físicas, que se han acreditado ante las autoridades competentes, y que cuentan con personal, conocimientos, experiencia y equipo necesarios, para prestar de manera altruista y comprometida, sus servicios en acciones de protección civil;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-XXV. Identificación de Riesgos: Reconocer y valorar las pérdidas o daños probables sobre los agentes afectables y su distribución geográfica, a través del análisis de los peligros y la vulnerabilidad;
+XXV. Hospital Seguro: Establecimiento de servicios de salud que debe permanecer accesible y funcionando a su máxima capacidad, con la misma estructura, bajo una situación de emergencia o de desastre;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-XXVI. Peligro: Probabilidad de ocurrencia de un agente perturbador potencialmente dañino de cierta intensidad, durante un cierto periodo y en un sitio determinado;
+XXVI. Identificación de Riesgos: Reconocer y valorar las pérdidas o daños probables sobre los agentes afectables y su distribución geográfica, a través del análisis de los peligros y la vulnerabilidad;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
-XXVII. Preparación: Actividades y medidas tomadas anticipadamente para asegurar una respuesta eficaz ante el impacto de un fenómeno perturbador en el corto, mediano y largo plazo;
+XXVII. Infraestructura Estratégica: Aquella que es indispensable para la provisión de bienes y servicios públicos, y cuya destrucción o inhabilitación es una amenaza en contra de la seguridad nacional;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
-XXVIII. Prevención: Conjunto de acciones y mecanismos implementados con antelación a la ocurrencia de los agentes perturbadores, con la finalidad de conocer los peligros o los riesgos, identificarlos, eliminarlos o reducirlos; evitar o mitigar su impacto destructivo sobre las personas, bienes, infraestructura, así como anticiparse a los procesos sociales de construcción de los mismos;
+XXVIII. Instrumentos Financieros de Gestión de Riesgos: Son aquellos programas y mecanismos de financiamiento y cofinanciamiento con el que cuenta el gobierno federal para apoyar a las instancias públicas federales y entidades federativas, en la ejecución de proyectos y acciones derivadas de la gestión integral de riesgos, para la prevención y atención de situaciones de emergencia y/o desastre de origen natural;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
-XXIX. Previsión: Tomar conciencia de los riesgos que pueden causarse y las necesidades para enfrentarlos a través de las etapas de identificación de riesgos, prevención, mitigación, preparación, atención de emergencias, recuperación y reconstrucción;
+XXIX. Mitigación: Es toda acción orientada a disminuir el impacto o daños ante la presencia de un agente perturbador sobre un agente afectable;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-XXX. Programa Interno de Protección Civil: Es un instrumento de planeación y operación, circunscrito al ámbito de una dependencia, entidad, institución u organismo del sector público, privado o social; que se compone por el plan operativo para la Unidad Interna de Protección Civil, el plan para la continuidad de operaciones y el plan de contingencias, y tiene como propósito mitigar los riesgos previamente identificados y definir acciones preventivas y de respuesta para estar en condiciones de atender la eventualidad de alguna emergencia o desastre;
+XXX. Peligro: Probabilidad de ocurrencia de un agente perturbador potencialmente dañino de cierta intensidad, durante un cierto periodo y en un sitio determinado;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-XXXI. Protección Civil: Es la acción solidaria y participativa, que en consideración tanto de los riesgos de origen natural o antrópico, como de los efectos adversos de los agentes perturbadores, prevé la coordinación y concertación de los sectores público, privado y social en el marco del Sistema Nacional, con el fin de crear un conjunto de disposiciones, planes, programas, estrategias, mecanismos y recursos para que de manera corresponsable, y privilegiando la gestión integral de riesgos y la continuidad de operaciones, se apliquen las medidas y acciones que sean necesarias para salvaguardar la vida, integridad y salud de la población, así como sus bienes; la infraestructura, la planta productiva y el medio ambiente;
+XXXI. Preparación: Actividades y medidas tomadas anticipadamente para asegurar una respuesta eficaz ante el impacto de un fenómeno perturbador en el corto, mediano y largo plazo;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-XXXII. Reconstrucción: La acción transitoria orientada a alcanzar el entorno de normalidad social y económica que prevalecía entre la población antes de sufrir los efectos producidos por un agente perturbador en un determinado espacio o jurisdicción. Este proceso debe buscar en la medida de lo posible la reducción de los riesgos existentes, asegurando la no generación de nuevos riesgos y mejorando para ello las condiciones preexistentes;
+XXXII. Prevención: Conjunto de acciones y mecanismos implementados con antelación a la ocurrencia de los agentes perturbadores, con la finalidad de conocer los peligros o los riesgos, identificarlos, eliminarlos o reducirlos; evitar o mitigar su impacto destructivo sobre las personas, bienes, infraestructura, así como anticiparse a los procesos sociales de construcción de los mismos;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-XXXIII. Recuperación: Proceso que inicia durante la emergencia, consistente en acciones encaminadas al retorno a la normalidad de la comunidad afectada;
+XXXIII. Previsión: Tomar conciencia de los riesgos que pueden causarse y las necesidades para enfrentarlos a través de las etapas de identificación de riesgos, prevención, mitigación, preparación, atención de emergencias, recuperación y reconstrucción;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-XXXIV. Reducción de Riesgos: Intervención preventiva de individuos, instituciones y comunidades que nos permite eliminar o reducir, mediante acciones de preparación y mitigación, el impacto adverso de los desastres. Contempla la identificación de riesgos y el análisis de vulnerabilidades, resiliencia y capacidades de respuesta, el desarrollo de una cultura de la protección civil, el compromiso público y el desarrollo de un marco institucional, la implementación de medidas de protección del medio ambiente, uso del suelo y planeación urbana, protección de la infraestructura crítica, generación de alianzas y desarrollo de instrumentos financieros y transferencia de riesgos, y el desarrollo de sistemas de alertamiento;
+XXXIV. Programa Interno de Protección Civil: Es un instrumento de planeación y operación, circunscrito al ámbito de una dependencia, entidad, institución u organismo del sector público, privado o social; que se compone por el plan operativo para la Unidad Interna de Protección Civil, el plan para la continuidad de operaciones y el plan de contingencias, y tiene como propósito mitigar los riesgos previamente identificados y definir acciones preventivas y de respuesta para estar en condiciones de atender la eventualidad de alguna emergencia o desastre;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-XXXV. Refugio Temporal: La instalación física habilitada para brindar temporalmente protección y bienestar a las personas que no tienen posibilidades inmediatas de acceso a una habitación segura en caso de un riesgo inminente, una emergencia, siniestro o desastre;
+XXXV. Protección Civil: Es la acción solidaria y participativa, que en consideración tanto de los riesgos de origen natural o antrópico como de los efectos adversos de los agentes perturbadores, prevé la coordinación y concertación de los sectores público, privado y social en el marco del Sistema Nacional, con el fin de crear un conjunto de disposiciones, planes, programas, estrategias, mecanismos y recursos para que de manera corresponsable, y privilegiando la gestión integral de riesgos y la continuidad de operaciones, se apliquen las medidas y acciones que sean necesarias para salvaguardar la vida, integridad y salud de la población, así como sus bienes; la infraestructura, la planta productiva y el medio ambiente;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-XXXVI. Resiliencia: Es la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, logrando una mejor protección futura y mejorando las medidas de reducción de riesgos;
+XXXVI. Reconstrucción: La acción transitoria orientada a alcanzar el entorno de normalidad social y económica que prevalecía entre la población antes de sufrir los efectos producidos por un agente perturbador en un determinado espacio o jurisdicción. Este proceso debe buscar en la medida de lo posible la reducción de los riesgos existentes, asegurando la no generación de nuevos riesgos y mejorando para ello las condiciones preexistentes;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-XXXVII. Requisa: El acto unilateral de la administración pública consistente en posesionarse de bienes de los particulares o exigirles a éstos la prestación de algún trabajo lícito o servicio para asegurar el cumplimiento de algún servicio de interés público, en casos extraordinarios y urgentes;
+XXXVII. Recuperación: Proceso que inicia durante la emergencia, consistente en acciones encaminadas al retorno a la normalidad de la comunidad afectada;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-XXXVIII. Riesgo: Daños o pérdidas probables sobre un agente afectable, resultado de la interacción entre su vulnerabilidad y la presencia de un agente perturbador;
+XXXVIII. Reducción de Riesgos: Intervención preventiva de individuos, instituciones y comunidades que nos permite eliminar o reducir, mediante acciones de preparación y mitigación, el impacto adverso de los desastres. Contempla la identificación de riesgos y el análisis de vulnerabilidades, resiliencia y capacidades de respuesta, el desarrollo de una cultura de la protección civil, el compromiso público y el desarrollo de un marco institucional, la implementación de medidas de protección del medio ambiente, uso del suelo y planeación urbana, protección de la infraestructura crítica, generación de alianzas y desarrollo de instrumentos financieros y transferencia de riesgos, y el desarrollo de sistemas de alertamiento;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-XXXIX. Riesgo Inminente: Aquel riesgo que según la opinión de una instancia técnica especializada, debe considerar la realización de acciones inmediatas en virtud de existir condiciones o altas probabilidades de que se produzcan los efectos adversos sobre un agente afectable;
+XXXIX. Refugio Temporal: La instalación física habilitada para brindar temporalmente protección y bienestar a las personas que no tienen posibilidades inmediatas de acceso a una habitación segura en caso de un riesgo inminente, una emergencia, siniestro o desastre;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-XL. Seguro: Instrumento de Administración y Transferencia de Riesgos;
+XL. Resiliencia: Es la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, logrando una mejor protección futura y mejorando las medidas de reducción de riesgos;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-XLI. Simulacro: Representación mediante una simulación de las acciones de respuesta previamente planeadas con el fin de observar, probar y corregir una respuesta eficaz ante posibles situaciones reales de emergencia o desastre. Implica el montaje de un escenario en terreno específico, diseñado a partir de la identificación y análisis de riesgos y la vulnerabilidad de los sistemas afectables;
+XLI. Requisa: El acto unilateral de la administración pública consistente en posesionarse de bienes de los particulares o exigirles a éstos la prestación de algún trabajo lícito o servicio para asegurar el cumplimiento de algún servicio de interés público, en casos extraordinarios y urgentes;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-XLII. Siniestro: Situación crítica y dañina generada por la incidencia de uno o más fenómenos perturbadores en un inmueble o instalación afectando a su población y equipo, con posible afectación a instalaciones circundantes;
+XLII. Riesgo: Daños o pérdidas probables sobre un agente afectable, resultado de la interacción entre su vulnerabilidad y la presencia de un agente perturbador;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-XLIII. Unidad Interna de Protección Civil: El órgano normativo y operativo responsable de desarrollar y dirigir las acciones de protección civil, así como elaborar, actualizar, operar y vigilar el Programa Interno de Protección Civil en los inmuebles e instalaciones fijas y móviles de una dependencia, institución o entidad perteneciente a los sectores público, privado y social; también conocidas como Brigadas Institucionales de Protección Civil;
+XLIII. Riesgo Inminente: Aquel riesgo que, según la opinión de una instancia técnica especializada, debe considerar la realización de acciones inmediatas en virtud de existir condiciones o altas probabilidades de que se produzcan los efectos adversos sobre un agente afectable;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-XLIV. Unidades de Protección Civil: Los organismos de la administración pública de las entidades federativas, municipales o de las delegaciones, encargados de la organización, coordinación y operación del Sistema Nacional, en su demarcación territorial;
+XLIV. Seguro: Instrumento de Administración y Transferencia de Riesgos;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-XLV. Vulnerabilidad: Susceptibilidad o propensión de un agente afectable a sufrir daños o pérdidas ante la presencia de un agente perturbador, determinado por factores físicos, sociales, económicos y ambientales;
+XLV. Simulacro: Representación mediante una simulación de las acciones de respuesta previamente planeadas con el fin de observar, probar y corregir una respuesta eficaz ante posibles situaciones reales de emergencia o desastre. Implica el montaje de un escenario en terreno específico, diseñado a partir de la identificación y análisis de riesgos y la vulnerabilidad de los sistemas afectables;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-XLVI. Zona de Desastre: Espacio territorial determinado en el tiempo por la declaración formal de la autoridad competente, en virtud del desajuste que sufre en su estructura social, impidiéndose el cumplimiento normal de las actividades de la comunidad. Puede involucrar el ejercicio de recursos públicos a través del Fondo de Desastres;
+XLVI. Siniestro: Situación crítica y dañina generada por la incidencia de uno o más fenómenos perturbadores en un inmueble o instalación afectando a su población y equipo, con posible afectación a instalaciones circundantes;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-XLVII. Zona de Riesgo: Espacio territorial determinado en el que existe la probabilidad de que se produzca un daño, originado por un fenómeno perturbador, y
+XLVII. Unidad Interna de Protección Civil: El órgano normativo y operativo responsable de desarrollar y dirigir las acciones de protección civil, así como elaborar, actualizar, operar y vigilar el Programa Interno de Protección Civil en los inmuebles e instalaciones fijas y móviles de una dependencia, institución o entidad perteneciente a los sectores público, privado y social; también conocidas como Brigadas Institucionales de Protección Civil;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-XLVIII. Zona de Riesgo Grave: Asentamiento humano que se encuentra dentro de una zona de grave riesgo, originado por un posible fenómeno perturbador.
+XLVIII. Unidades de Protección Civil: Los organismos de la administración pública de las entidades federativas, municipales o de las delegaciones, encargados de la organización, coordinación y operación del Sistema Nacional, en su demarcación territorial;
+
+(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
+
+XLIX. Vulnerabilidad: Susceptibilidad o propensión de un agente afectable a sufrir daños o pérdidas ante la presencia de un agente perturbador, determinado por factores físicos, sociales, económicos y ambientales;
+
+(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
+
+L. Zona de Desastre: Espacio territorial determinado en el tiempo por la declaración formal de la autoridad competente, en virtud del desajuste que sufre en su estructura social, impidiéndose el cumplimiento normal de las actividades de la comunidad. Puede involucrar el ejercicio de recursos públicos a través del Fondo de Desastres;
+
+(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
+
+LI. Zona de Riesgo: Espacio territorial determinado en el que existe la probabilidad de que se produzca un daño, originado por un fenómeno perturbador, y
+
+(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
+
+LII. Zona de Riesgo Grave: Asentamiento humano que se encuentra dentro de una zona de grave riesgo, originado por un posible fenómeno perturbador.
 
 > <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2013)</small>
 
@@ -427,7 +443,7 @@ XVIII. Asociarse con otras entidades públicas o con particulares para coordinar
 
 XIX. Vigilar el cumplimiento de las disposiciones de esta ley y los programas de protección civil, en el ámbito de su competencia y de conformidad con los convenios de coordinación que celebre con la federación y los municipios;
 
-XX. Resolver el recurso administrativo previsto en esta ley; y (sic)
+XX. Resolver el recurso administrativo previsto en esta ley; y
 
 > <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2013)</small>
 
@@ -497,7 +513,7 @@ XIX. Aplicar las disposiciones de esta ley e instrumentar sus programas en coord
 
 XX. Vigilar a través de la Coordinación Municipal de Protección Civil, el cumplimiento de esta ley por parte de las instituciones, organismo y empresas de los sectores público, social y privado, en el ámbito de su competencia y de conformidad con los convenios de coordinación que celebre con el Estado y la Federación;
 
-XXI. Tramitar y resolver el recurso administrativo previsto en esta ley; y (sic)
+XXI. Tramitar y resolver el recurso administrativo previsto en esta ley; y
 
 > <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2013)</small>
 
@@ -1612,3 +1628,9 @@ Artículo Primero.- El presente decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- El Titular del Poder Ejecutivo del Estado, deberá emitir la reglamentación conducente, dentro de los 180 días naturales contados a partir de su vigencia.
 
 Artículo Tercero.- El Gobernador del Estado y los ayuntamientos constituirán sus respectivos entes en materia de protección civil, dentro de los 180 días naturales contados a partir de su entrada en vigor.
+
+P.O. 5 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS FRACCIONES DEL ARTÍCULO 4 DE LA LEY DE PROTECCIÓN CIVIL PARA DE NAYARIT”.]
+
+Artículo primero (sic).- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
