@@ -4,7 +4,7 @@ identifier: "NAY-ley-estatal-del-equilibrio-ecologico-y-proteccion-al-21201"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-25"
-last_updated: "2015-12-09"
+last_updated: "2016-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 25 de abril del 2001.
 
@@ -1751,9 +1751,17 @@ III.- El Estado y los municipios participarán ante las autoridades competentes 
 
 IV.- El Estado como responsable de su política ambiental, deberá formular de manera coordinada anualmente un Programa de Reforestación Estatal, donde contemple la restauración de áreas degradadas, la repoblación natural, el fomentar el uso de especies nativas y las acciones de reforestación con fines comerciales, entre otros aspectos a efecto de lograr un desarrollo sustentable;
 
-V.- Los municipios, en el ámbito de sus competencias, se encargarán de la protección y preservación de los árboles y otras especies de flora, que se encuentren en áreas verdes de propiedad pública o privada, dentro de la zona urbana; y
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
-VI.- El Estado se encargará del fomento y desarrollo de la investigación de la fauna y flora silvestre, y de los materiales genéticos, con el objeto de conocer su valor científico, ambiental, económico y estratégico para el Estado.
+V.- Los municipios, en el ámbito de sus competencias, se encargarán de la protección y preservación de los árboles y otras especies de flora, que se encuentren en áreas verdes de propiedad pública o privada, dentro de la zona urbana;
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+
+VI.- El Estado se encargará del fomento y desarrollo de la investigación de la fauna y flora silvestre, y de los materiales genéticos, con el objeto de conocer su valor científico, ambiental, económico y estratégico para el Estado, y
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+
+VII.- El fomento al trato digno y respetuoso a las especies animales, con el propósito de evitar la crueldad en contra de estas.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
@@ -3914,3 +3922,9 @@ Tercero.- La Comisión Intersecretarial de Cambio Climático y el Consejo Estata
 Cuarto.- La Comisión Intersecretarial de Cambio Climático y el Consejo Estatal de Protección al Ambiente y Cambio Climático deberán emitir sus respectivos reglamentos internos dentro de los sesenta días a partir de su integración.
 
 Quinto.- El Programa Estatal de Cambio Climático, deberá realizarse dentro de los noventa días posteriores a la conformación de la Comisión Intersecretarial de Cambio Climático y el Consejo Estatal de Protección al Ambiente y Cambio Climático.
+
+P.O. 5 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE MODIFICA EL ARTÍCULO 111 DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
