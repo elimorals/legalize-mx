@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-notariado-del-estado-de-mexico-23258"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-03"
-last_updated: "2016-02-03"
+last_updated: "2016-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DEL NOTARIADO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 6 DE ENERO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL ESTADO DE MÉXICO EL 3 DE FEBRERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 6 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Gaceta del Gobierno, el 3 de enero de 2002.
 
@@ -79,6 +77,14 @@ IV. Reglamento, al Reglamento de la Ley del Notariado del Estado de México;
 
 V. Consejería, a la Consejería Jurídica del Ejecutivo Estatal.
 
+> <small>(ADICIONADA, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
+
+VI. Plataforma notarial, a la herramienta tecnológica que contiene diversos sistemas automatizados de información que permite a los notarios realizar las funciones y actos jurídicos que prevé esta Ley y su Reglamento.
+
+> <small>(ADICIONADA, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
+
+VII. Función Notarial, conjunto de acciones de orden público que el notario realiza, derivado de la fe pública que le es delegada por el Estado, conforme a las disposiciones de esta ley, para garantizar el buen desempeño y la seguridad jurídica en el ejercicio de dicha actividad autenticadora al servicio de la sociedad.
+
 ###### Artículo 4.
 
 Notario es el profesional del derecho a quien el Gobernador del Estado ha otorgado nombramiento para ejercer las funciones propias del notariado, investido de fe pública.
@@ -111,9 +117,11 @@ La función notarial se ejerce en el Estado de México por los notarios titulare
 
 Los notarios podrán ejercer su función en todo el territorio del Estado, debiendo establecer su residencia en el municipio para el cual fueron nombrados; los actos que autoricen y los hechos de los que den fe pueden referirse a cualquier lugar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 9.
 
-EL Gobernador del Estado determinará el número de notarías y su residencia, escuchando la opinión del Colegio y atendiendo a los factores siguientes:
+El Gobernador del Estado determinará y podrá modificar el número de notarías y su residencia, escuchando la opinión del Colegio y atendiendo a los factores siguientes:
 
 I. Población beneficiada y tendencias de su crecimiento;
 
@@ -145,7 +153,9 @@ III. Ser profesional del derecho, con una antigüedad mínima en el ejercicio de
 
 IV. Haber realizado prácticas de manera ininterrumpida por un período mínimo de un año en alguna notaría del Estado de México;
 
-V. Acreditar el curso de formación de aspirantes a notario que imparte el Colegio;
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
+
+V. Acreditar el curso de formación de aspirantes a notario que imparte el Colegio, o algún otro en Derecho Registral o Notarial que reconozca la Consejería.
 
 VI. No padecer enfermedad que impida el ejercicio de las facultades intelectuales o que sea causa de incapacidad física para el desempeño de la función notarial;
 
@@ -179,9 +189,15 @@ II. Cumplir con los requisitos establecidos en el artículo 11 de la presente Le
 
 III. Aprobar el examen de oposición que para el efecto se realice.
 
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
+
+Atendiendo al interés social y a las necesidades de la función notarial, podrá ser Notario también, quien determine el Gobernador del Estado y haya sido evaluado por la Consejería y el Colegio, en términos que para el efecto establezca el Reglamento de la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 14.
 
-En las notarías de nueva creación o a las que se encuentren vacantes, en tanto se realiza el nombramiento del titular, el Gobernador del Estado podrá nombrar a un notario provisional de entre aquellos que hayan acreditado el examen para aspirante o se hayan desempeñado como notario interino o provisional en el Estado de México.
+En las notarías de nueva creación o a las que se encuentren vacantes, en tanto se realiza el nombramiento del titular, el Gobernador del Estado podrá nombrar a un notario provisional de entre aquellos que hayan acreditado el examen para aspirante o se hayan desempeñado como notario interino o provisional en el Estado de México, o hayan sido evaluados por la Consejería y por el Colegio.
 
 > <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
@@ -209,7 +225,11 @@ Para el inicio de sus funciones el notario deberá cumplir con los requisitos si
 
 I. Rendir la protesta de ley dentro de los diez días hábiles siguientes, contados a partir de la fecha de la publicación del acuerdo respectivo en el periódico oficial "Gaceta del Gobierno" y en dos diarios de mayor circulación en la entidad;
 
-II. Otorgar depósito en efectivo ante el Colegio para integrarlo al Fondo de Garantía del Notariado;
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
+
+II. Otorgar Depósito en efectivo ante el Colegio para integrarlo al Fondo de Garantía del Notariado y otorgar fianza expedida por una institución de crédito autorizada a favor del Gobierno del Estado de México, misma que deberá actualizar anualmente, por una cantidad equivalente a seis mil setecientos cincuenta veces el valor de la unidad de medida y actualización, la cual deberá exhibirse dentro de los primeros treinta días naturales de cada año.
+
+Los Notarios que se separen de la función notarial, de forma definitiva, por cualquier causa, deberán mantener vigente por un año posterior a su separación, la fianza referida, para en su caso, responder de las obligaciones económicas derivadas del ejercicio de su función.
 
 III. Proveerse a su costa del protocolo y sello de autorizar;
 
@@ -235,7 +255,9 @@ III. Permutar sus notarías, previa autorización del Gobernador del Estado, qui
 
 IV. Asociarse con otro notario del mismo lugar de residencia en los términos que autorice el Gobernador del Estado, quien escuchará la opinión del Colegio;
 
-V. Solicitar al Gobernador del Estado su reubicación en una notaría vacante o de nueva creación, quien resolverá escuchando la opinión del Colegio;
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
+
+V. Solicitar al Gobernador del Estado su reubicación en una notaría vacante o de nueva creación, o la reubicación de su notaría en otro municipio, quien resolverá previa constancia de procedencia que sea expedida por la Consejería en base al expediente del notario solicitante y escuchando la opinión del Colegio.
 
 VI. Separarse de su cargo en los términos que autoriza esta Ley;
 
@@ -261,9 +283,15 @@ III. Ejercer sus funciones cuando sean solicitados o requeridos, siempre que no 
 
 IV. Pertenecer al Colegio;
 
-V. Actualizar durante los primeros treinta días hábiles de cada año la garantía a que se refiere la fracción II del artículo 18 de esta Ley, atendiendo a los criterios generales de incremento de los salarios mínimos, debiendo mantenerla vigente durante todo el año siguiente a aquél en que haya dejado de ejercer en forma definitiva;
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
+
+V. Actualizar durante los primeros treinta días hábiles de cada año el depósito y la fianza a que se refiere la fracción II del artículo 18 de esta Ley, atendiendo a los criterios generales de incremento del valor de la Unidad de Medida y Actualización, debiendo mantenerla vigente durante todo el año siguiente a aquel en que haya dejado de ejercer la función en forma definitiva.
 
 VI. Sujetarse al arancel para el cobro de sus honorarios;
+
+> <small>(ADICIONADA, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
+
+VI bis. Promocionar y gestionar los incentivos otorgados por el Gobierno del Estado a los usuarios de servicios notariales relacionados con la apertura y funcionamiento de unidades económicas previstos en los ordenamientos jurídicos y programas emitidos para dicho efecto.
 
 VII. Abstenerse de actuar cuando no le sea aportada la documentación necesaria o no le sean cubiertos los montos por concepto de impuestos, derechos y gastos que se generen;
 
@@ -271,7 +299,21 @@ VIII. Mantener abiertas sus oficinas por lo menos ocho horas diarias en días h�
 
 IX. Reanudar sus funciones dentro de los quince días hábiles siguientes al de la terminación de la licencia o de la suspensión;
 
-X. Las demás que les imponga esta Ley y otros ordenamientos.
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
+
+X. Solicitar al Instituto de la Función Registral del Estado de México o registro público respectivo, certificado sobre la existencia o inexistencia de gravámenes o anotaciones cuando vaya a otorgarse una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite o grave, la propiedad o posesión de bienes inmuebles o cualquier derecho real sobre los mismos o que, sin serlo, sea inscribible.
+
+> <small>(ADICIONADA, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
+
+XI. Abstenerse de establecer oficina en lugar diverso al registrado ante la Consejería, para atender al público en trámites relacionados con la notaria a su cargo.
+
+> <small>(ADICIONADA, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
+
+XII. Abstenerse de extraer de la Notaría a su cargo el Protocolo o parte de él, para efectos de maquila o por tratarse de oficina alterna, salvo por causa de fuerza mayor o en los casos previstos en esta Ley.
+
+> <small>(ADICIONADA, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
+
+XIII. Las demás que les imponga esta Ley y otros ordenamientos.
 
 ###### Artículo 21.
 
@@ -287,9 +329,7 @@ Este impedimento se entenderá para el notario suplente, asociado e interino, cu
 
 IV. Recibir dinero o documentos a su nombre que representen numerario, a menos que se trate de honorarios o del monto de los impuestos y derechos que deban pagar con motivo del ejercicio de sus funciones;
 
-> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
-
-V. Establecer oficina en local diverso al registrado ante la Consejería, para atender al público en trámites relacionados con la Notaría a su cargo;
+V. (DEROGADA, G.G. 6 DE SEPTIEMBRE DE 2016)
 
 VI. Los demás que establezcan otros ordenamientos.
 
@@ -521,7 +561,9 @@ Los Protocolos pueden ser físicos o electrónicos, dependiendo del formato en e
 
 El protocolo electrónico es el libro o conjunto de libros en formato digital, que se forma con folios electrónicos separados y numerados progresivamente en los que el notario asienta y autentifica, con las formalidades de la ley, los actos jurídicos que fueron realizados de forma electrónica y otorgados ante su fe, así como sus correspondientes apéndices e índices
 
-Para el caso de los folios físicos, la Consejería asentará en los folios entregados por el Colegio, en una hoja en blanco, razón que contenga el lugar y la fecha de autorización; el número de folios entregados y el volumen o volúmenes a los que correspondan; el nombre y apellidos del notario; el número de la notaría y su lugar de residencia; así como la expresión de que esos folios solamente deben ser utilizados por el notario para quien se autorizan, por su asociado o por quien legalmente lo sustituya en sus funciones.
+> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
+
+Para el caso de los folios físicos, la Consejería asentará en los folios entregados por el Colegio, en una hoja en blanco, razón que contenga el lugar y la fecha de autorización; el número de folios entregados, mismos que deberá sellar individualmente; y el volumen o volúmenes a los que correspondan; el nombre y apellidos del notario; el número de la notaría y su lugar de residencia; así como la expresión de que esos folios solamente deben ser utilizados por el notario para quien se autorizan, por su asociado o por quien legalmente lo sustituya en sus funciones.
 
 La hoja en que conste esta razón deberá encuadernarse al principio de cada volumen autorizado.
 
@@ -557,17 +599,17 @@ Los folios de protocolo tendrán a los lados un espacio en blanco de 3 centímet
 
 II. Llevarán impreso en el ángulo superior derecho del anverso el número del folio, que será del 1 al 150; el número del volumen; el número de la notaría y la residencia;
 
-> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
 
-III. Serán autorizados cada uno por la Consejería.
+III. Serán autorizados y sellados cada uno por la Consejería.
 
-> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
 
-El protocolo electrónico tendrá las mismas características de forma que el protocolo físico, formándose por ciento cincuenta folios electrónicos que conservarán en la medida de lo posible las características de su contraparte física.
+El protocolo electrónico tendrá las mismas características de forma que el protocolo físico, formándose por ciento cincuenta folios electrónicos que conservarán en la medida de lo posible las características de su contraparte física, será utilizado, inicialmente, en casos de cancelación de hipoteca, respecto de inmuebles adquiridos a través de instituciones públicas de vivienda social y con base en los lineamientos técnicos contenidos en la plataforma tecnológica operada por la Dirección General del Sistema Estatal de Informática, en términos de lo dispuesto por la Ley de Gobierno Digital del Estado de México y Municipios y demás disposiciones jurídicas aplicables.
 
-> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
 
-Asentando las firmas electrónicas de las partes y del notario que autoriza o de quien legalmente lo sustituya.
+Asentando las firmas electrónicas de las partes y del notario que autoriza o de quien legalmente lo sustituya. Para efectos de lo contenido en el presente párrafo, la firma electrónica de las partes requiere el certificado digital de firma electrónica emitido por la Unidad Certificadora del Gobierno del Estado, en términos de la Ley de Gobierno Digital del Estado de México y Municipios y demás disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
 
@@ -735,11 +777,11 @@ La razón se asentará en hoja en blanco que se encuadernará al final del volum
 
 En los libros electrónicos la razón de cierre se hará en un folio electrónico con las mismas características que su contraparte física.
 
-> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 74.
 
-Cuando un Notario se separe de su notaría por alguna de las causas señaladas en esta Ley, así como en el caso de asociación o reubicación de notarios y permuta de notarías, con intervención de un representante de la Consejería y otro del Colegio se asentará razón de clausura extraordinaria en el folio siguiente al último utilizado de los volúmenes en uso, asentando los mismos datos que en la clausura ordinaria y agregando todas las circunstancias que estimen convenientes, firmando los que intervengan.
+Cuando un Notario se separe de su notaría por alguna de las causas señaladas en esta Ley, así como en el caso de asociación o reubicación de notarios y permuta o reubicación de notarías, con intervención de un representante de la Consejería y otro del Colegio se asentará razón de la clausura extraordinaria en el folio siguiente al último utilizado de los volúmenes en uso, asentando los mismos datos que en la clausura ordinaria y agregando todas las circunstancias que estimen convenientes, firmando los que intervengan.
 
 ###### Artículo 75.
 
@@ -827,15 +869,21 @@ f). Los hechos que el notario presencie y que sean relevantes o integrantes del 
 
 g). La fecha o fechas en que firmen o impriman huella digital y el notario autorice la escritura.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 80.
 
-El notario podrá cerciorarse de la identidad de los comparecientes:
+El notario deberá siempre cerciorarse de la identidad de los comparecientes y acreditarla, con los medios siguientes:
 
-I. Por propia declaración de conocerlos personalmente;
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
+
+I. Por propia declaración de que verificó personalmente su identidad, conforme a la media filiación contenida en la identificación oficial vigente con fotografía.
 
 II. Con la declaración de dos testigos de identidad que a su vez se identifiquen;
 
-III. Con la presentación de un documento de identificación oficial con fotografía del cual agregará una copia al apéndice.
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
+
+III. Con la presentación de identificación oficial vigente con fotografía de la cual agregará una copia al apéndice.
 
 ###### Artículo 81.
 
@@ -1423,17 +1471,17 @@ VII. Tramitar los asuntos relacionados con el notariado del Estado;
 
 VIII. Las demás que le señalen esta Ley y otros ordenamientos.
 
-> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 145.
 
-Para vigilar que el funcionamiento de las notarías se realice con apego a la ley, la Consejería podrá ordenar en cualquier tiempo la práctica de visitas de inspección.
+Para vigilar que le funcionamiento de las notarías se realice con apego a la Ley, la Consejería, al tener conocimiento por queja o por cualquier otro medio, que un notario ha incurrido en una probable contravención a la ley, podrá ordenar la práctica de visitas de inspección, por orden debidamente fundada y motivada, la cual contendrá fecha y hora para el desahogo de la misma, debiendo ser notificada en días y horas hábiles, con al menos 48 horas de anticipación al momento en que deba efectuarse la visita de inspección.
 
-> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 146.
 
-La Consejería ordenará inspecciones ordinarias, que deberán practicarse obligatoriamente por lo menos dos veces al año; y especiales, cuando tenga conocimiento, por queja o por cualquier otro medio, de que un notario ha incurrido en una probable contravención a la ley.
+La Consejería ordenará inspecciones ordinarias, que se programarán periódicamente, para vigilar el cumplimiento de las disposiciones jurídicas aplicables, que deberán practicarse cuando menos una vez al año e inspecciones especiales, cuando tenga conocimiento, por queja o por cualquier otro medio, de que un notario ha incurrido en una probable contravención a la ley.
 
 ###### Artículo 147.
 
@@ -1501,11 +1549,11 @@ III. Suspensión;
 
 IV. Revocación del nombramiento.
 
-> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 152.
 
-Para aplicar las sanciones a que se refiere el artículo anterior, la Consejería fundará y motivará su resolución, tomando en cuenta las circunstancias, la gravedad del caso y los antecedentes del notario.
+Para aplicar las sanciones a que se refiere el artículo anterior, la Consejería fundará y motivará su resolución, tomando en cuenta las circunstancias, la gravedad del caso y los antecedentes del notario. Dicha resolución se emitirá en un plazo que no exceda de un año a partir de que sea admitida la queja.
 
 ###### Artículo 153.
 
@@ -1543,6 +1591,10 @@ b). Negarse a ejercer sus funciones al ser requeridos, sin que medie causa justi
 
 c). Contravenir las disposiciones de la presente Ley que puedan traer como consecuencia la nulidad de una escritura, acta o testimonio.
 
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
+
+d) No promocionar y gestionar los incentivos otorgados por el Gobierno del Estado a los usuarios de servicios notariales, en términos de lo dispuesto por la fracción VI bis del artículo 20 de la presente Ley.
+
 III. De quinientos uno a mil días de salario mínimo, por:
 
 a). Haber recibido el monto de impuestos o derechos causados por la operación contenida en un instrumento y enterarlos en forma extemporánea.
@@ -1557,9 +1609,11 @@ La suspensión del notario hasta por un año, se impondrá por:
 
 I. Desempeñar sus funciones por interpósita persona;
 
-II. Ejercer sus funciones en contravención a lo dispuesto en las fracciones II, III y V del artículo 21 de esta Ley;
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
 
-III. Establecer oficinas para prestar servicios notariales fuera de su residencia;
+II. Ejercer sus funciones en contravención a lo dispuesto en las fracciones I y III del artículo 21 de esta Ley.
+
+III. (DEROGADA, G.G. 6 DE SEPTIEMBRE DE 2016)
 
 IV. Revelar injustificada y dolosamente datos sobre los que deba guardar secreto profesional;
 
@@ -1571,7 +1625,9 @@ La revocación del nombramiento procederá por:
 
 I. Incurrir en falta de probidad en el ejercicio de su función.
 
-Se consideran como faltas de probidad, además de las que señala el Reglamento, las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
+
+Se consideran como faltas de probidad, además de la definición genérica contenida en el artículo 20 fracción I de la presente Ley, las siguientes:
 
 a). Haber recibido el monto de impuestos o derechos causados por la operación contenida en un instrumento y no enterarlos en la oficina fiscal recaudadora.
 
@@ -1589,6 +1645,14 @@ d). Reincidir en el supuesto establecido en la fracción III del artículo anter
 
 e). Haber sido condenado por sentencia ejecutoriada por delito grave.
 
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
+
+f). Establecer oficina en local diverso al registrado ante la Consejería, para atender al público en trámites relacionados con la Notaría a su cargo.
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
+
+g). Extraer de la Notaría a su cargo el Protocolo o parte de él, salvo por causa de fuerza mayor o en los casos previstos en esta Ley.
+
 II. No iniciar funciones ni establecer oficina en el lugar que deba desempeñarlas, dentro de los noventa días hábiles siguientes al de su protesta;
 
 III. No reanudar sus labores sin causa debidamente justificada, dentro de los quince días hábiles siguientes a la fecha del término de la licencia que se le haya concedido o de la sanción por suspensión que se le haya impuesto;
@@ -1597,13 +1661,33 @@ IV. Dejar de actuar injustificadamente en su protocolo durante más de dos meses
 
 V. Haber sido condenado por sentencia ejecutoriada por delito patrimonial o grave;
 
-VI. No constituir o conservar vigente la garantía que responda de su actuación;
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
+
+VI. No constituir o conservar vigente la garantía y la fianza que responda de su actuación.
 
 VII. Reincidir en las causales señaladas en las fracciones I, II, III y IV del artículo anterior.
+
+> <small>(ADICIONADA, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
+
+VIII. Reincidir en la causal señalada en el inciso d), fracción II del artículo 154.
+
+> <small>(ADICIONADA, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
+
+IX. No contar con certificado vigente sobre la existencia o inexistencia de gravámenes o anotaciones al otorgar una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite o grave, la propiedad o posesión de bienes inmuebles o cualquier derecho real sobre los mismos o que sin serlo sea inscribible.
+
+> <small>(ADICIONADA, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
+
+X. Incumplir la obligación de cerciorarse y acreditar la identidad de los comparecientes, contenida en el artículo 80 de la presente Ley.
 
 ###### Artículo 157.
 
 Los procedimientos administrativos que se originen de la aplicación de las disposiciones de esta Ley y su Reglamento, se substanciarán conforme a lo dispuesto en el Código de Procedimientos Administrativos del Estado de México, en lo que no se opongan.
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 157 Bis.
+
+Toda persona que tenga conocimiento de que algún Notario establezca oficinas para prestar servicios notariales fuera de su residencia, podrá formular denuncia ante las autoridades para la aplicación de esta Ley. Las autoridades para la aplicación de esta Ley procederán a verificar los hechos de la denuncia y, en su caso, a aplicar las sanciones correspondientes.
 
 ###### Artículo 158.
 
@@ -1766,3 +1850,15 @@ DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda ab
 DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
+
+G.G. 6 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 119.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Gaceta del Gobierno".
+
+TERCERO. El titular del Ejecutivo del Estado expedirá las adecuaciones al Reglamento de la presente Ley, en su caso, en un plazo que no deberá exceder de ciento ochenta días hábiles, posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. Con respecto a la fianza establecida en el presente Decreto, será a partir del 2017.
