@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2016-05-27"
+last_updated: "2016-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -149,11 +149,9 @@ Todo individuo tiene derecho a recibir educación. El Estado y los municipios im
 
 La educación preescolar, primaria, secundaria y media superior, conforman la educación obligatoria.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
-
-La educación que imparta el Estado tenderá a desarrollar armónicamente, todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a los derechos humanos y la conciencia de la solidaridad internacional, en la independencia y en la justicia.
+La educación que imparta el Estado tenderá a desarrollar armónicamente, todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a los derechos humanos, su formación cívica y ética, y la conciencia de la solidaridad internacional, en la independencia y en la justicia.
 
 Ninguna persona requerirá de título para la enseñanza en cualquier rama del saber, pero para prestar instrucción como servicio al público, deberá cumplir los requisitos que establezcan las leyes.
 
@@ -435,7 +433,9 @@ Para la extinción de dominio, la ley establecerá un procedimiento que se regir
 
 I.- Será jurisdiccional y autónomo del de materia penal;
 
-II.- Procederá en los casos de los delitos contra la salud, secuestro, robo de vehículos y trata de personas, respecto de los bienes siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
+
+II.- Procederá en los casos de los delitos contra la salud, secuestro, robo de vehículo, enriquecimiento ilícito y trata de personas, respecto de los bienes siguientes:
 
 a) Aquellos que sean instrumento, objeto o producto del delito, donde existan elementos suficientes para determinar que el hecho ilícito sucedió.
 
@@ -477,15 +477,19 @@ Tratándose de programas regionales se garantizará la participación de los mun
 
 La Ley establecerá los procedimientos de participación y consulta popular para la planeación.
 
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
+
+El Estado velará por la estabilidad de las finanzas públicas para coadyuvar a generar condiciones favorables para el crecimiento económico y el empleo. El Plan Estatal de Desarrollo y los planes municipales deberán observar dicho principio.
+
 > <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 6 DE DICIEMBRE DE 2013)</small>
 
 B. La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, la vida privada, los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley. Los derechos a la información pública y protección de datos personales serán garantizados por el Estado.
 
 Para el ejercicio del derecho de acceso a la información, los Poderes, organismos autónomos y ayuntamientos, en el ámbito de sus respectivas competencias, se regirán por las siguientes fracciones y bases:
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
 
-I. Toda la información pública en posesión de los poderes ejecutivo, legislativo o judicial y de cualquier autoridad, órgano estatal y municipal, incluyendo los órganos autónomos por disposición constitucional es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencia o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información;
+I. Toda la información pública en posesión de los poderes ejecutivo, legislativo o judicial y de cualquier autoridad, órgano estatal y municipal, incluyendo los órganos autónomos por disposición constitucional, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público, seguridad nacional y seguridad pública en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información;
 
 II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fije la ley;
 
@@ -523,13 +527,17 @@ El Presidente del Congreso citará al Consejero designado, para que rinda la pro
 
 En caso de que el Pleno del Congreso del Estado no apruebe la propuesta, el titular del Ejecutivo presentará una nueva terna.
 
-Los consejeros durarán en su encargo siete años, sin posibilidad de reelección y durante el tiempo que dure su nombramiento no podrán tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia, y sólo podrán ser removidos de su cargo en los términos del Título Noveno de esta Constitución.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
+
+Los comisionados durarán en su encargo siete años, sin posibilidad de reelección y durante el tiempo que dure su nombramiento no podrán tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia, y sólo podrán ser removidos de su cargo en los términos del Título Noveno de esta Constitución.
 
 > <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
 
 En la conformación del organismo garante se procurará la equidad de género.
 
-Su Presidente ser designado por los propios consejeros, mediante voto secreto, por un periodo de dos años, con posibilidad de ser reelecto por un periodo igual; estará obligado a rendir un informe anual en la fecha y en los términos que disponga la Ley de la materia.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
+
+Su Presidente será designado por los propios comisionados, mediante voto secreto, por un periodo de dos años, con posibilidad de ser reelecto por un periodo igual; estará obligado a rendir un informe anual en la fecha y en los términos que disponga la Ley de la materia.
 
 La Ley establecerá las medidas de apremio que podrá imponer el organismo autónomo para asegurar el cumplimiento de sus decisiones; toda autoridad y servidor público, estará obligado a coadyuvar con éste para el buen desempeño de sus funciones.
 
@@ -804,6 +812,10 @@ En los casos previstos y conforme al procedimiento que determine la Ley de la ma
 El organismo público electoral local, en los términos que determine la Ley, realizará las actividades propias e inherentes al ejercicio de la función estatal electoral, otorgará las constancias de mayoría y declarará la validez de las elecciones de Gobernador, de Ayuntamiento en cada uno de los municipios de la Entidad, así como de los diputados al Congreso del Estado, hará la asignación de regidores y de diputados de representación proporcional en los términos de los artículos 44 y 109 de esta Constitución, y ejercerá funciones de organización, desarrollo, cómputo y declaración de resultados en los mecanismos de participación ciudadana que establezca esta Constitución.
 
 El organismo público electoral local contará con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la Ley.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
+
+El organismo público electoral local contará con un órgano interno de control con autonomía técnica y de gestión que tendrá a su cargo, la fiscalización de todos los ingresos y egresos del mismo.
 
 Para dar definitividad y garantizar la legalidad de las distintas etapas de los procesos electorales, la Ley establecerá un sistema de medios de impugnación. También establecerá los casos y los procedimientos conforme a los cuales, en los ámbitos administrativo y jurisdiccional, se realizarán el recuento total o parcial de votación, de la elección de Gobernador, de diputados al Congreso del Estado o de los Ayuntamientos.
 
@@ -1261,6 +1273,18 @@ Los poderes del Estado así como los organismos autónomos que la Constitución 
 
 XIV.- Autorizar al Ejecutivo del Estado y a los Ayuntamientos para que contraten empréstitos para la ejecución de obras de utilidad pública, designando los recursos con que deben cubrirse y de acuerdo con la Ley de Deuda Pública. Dicha autorización no será necesaria cuando los créditos se contraten como consecuencia de una calamidad general;
 
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
+
+La legislatura, por el voto de las dos terceras partes de sus miembros presentes, deberá autorizar los montos máximos para, en las mejores condiciones del mercado, contratar dichos empréstitos y obligaciones, previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
+
+El Estado y los municipios sólo podrán contraer obligaciones o empréstitos, cuando se destinen a inversiones públicas productivas y a su refinanciamiento o reestructura, mismas que deberán realizarse bajo las mejores condiciones del mercado, inclusive los que contraigan organismos descentralizados, empresas públicas y fideicomisos y, el Estado adicionalmente para otorgar garantías a los municipios. Los sujetos obligados informarán de su ejercicio al rendir la cuenta pública. En ningún caso podrán destinar empréstitos para cubrir gasto corriente.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
+
+Sin perjuicio de lo anterior el Estado y los municipios podrán contraer obligaciones a corto plazo las que deberán liquidarse a más tardar tres meses antes del término del periodo de gobierno correspondiente y no podrán contratarse nuevas obligaciones durante esos últimos tres meses.
+
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
 
 XV.- Expedir anualmente las Leyes de Ingresos para los Municipios del Estado. Si al iniciarse el año fiscal correspondiente, el Congreso no hubiese aprobado dichas leyes, no podrá ocuparse de ninguna otra Ley, excepto en el caso en el que el Ayuntamiento respectivo no hubiere presentado su iniciativa. En tanto dichas leyes de ingresos sean expedidas, continuarán aplicándose las correspondientes al año inmediato anterior, en tal caso se estará a lo establecido por la Ley Reglamentaria;
@@ -1315,15 +1339,17 @@ Designar por el voto de más de la mitad de la totalidad de sus integrantes, al 
 
 Ratificar el nombramiento del Procurador General de Justicia a propuesta del Gobernador del Estado en los términos que establece esta Constitución.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
 
-Aprobar el nombramiento de los Magistrados del Tribunal de lo Contencioso Administrativo a propuesta del Gobernador del Estado;
+Aprobar por el voto de las dos terceras partes de sus miembros el nombramiento de los Magistrados del Tribunal de Justicia Administrativa a propuesta del Gobernador del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+Designar y en su caso, calificar las renuncias de los comisionados del organismo autónomo garante de los derechos de acceso a la información pública y de protección de datos personales.
 
-Designar y en su caso, calificar las renuncias de los Consejeros del organismo autónomo garante de los derechos de acceso a la información pública y de protección de datos personales, de acuerdo a la propuesta que formule el Ejecutivo del Estado.
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
+
+Designar, por el voto de las dos terceras partes de sus miembros, a los titulares de los órganos internos de control de los organismos con autonomía reconocida en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado.
 
 XXII.- Erigirse en Jurado de Responsabilidades, en los casos de Juicio Político;
 
@@ -1401,13 +1427,11 @@ IX.- Las demás consignadas de modo expreso en esta Constitución.
 
 #### SECCION SEXTA. DE LA FISCALIZACION SUPERIOR DEL ESTADO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 66.
 
-La Auditoría Superior del Estado de Guanajuato tiene autonomía técnica, de gestión y presupuestaria en el cumplimiento de sus atribuciones. La función de fiscalización será ejercida conforme a los principios de objetividad, independencia, transparencia, legalidad, definitividad, imparcialidad, confiabilidad y profesionalismo.
+La Auditoría Superior del Estado de Guanajuato tiene autonomía técnica, de gestión y presupuestaria en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la Ley. La función de fiscalización será ejercida conforme a los principios de objetividad, independencia, transparencia, legalidad, definitividad, imparcialidad, confiabilidad y profesionalismo.
 
 > <small>(REFORMADO, P.O. 15 DE MAYO DE 2012)</small>
 
@@ -1671,6 +1695,10 @@ XI.- Nombrar y remover libremente a todos los Funcionarios y empleados del Poder
 
 Nombrar al Procurador General de Justicia en los términos de esta Constitución y removerlo libremente;
 
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
+
+Nombrar al titular de la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, con la ratificación de las dos terceras partes del Congreso del Estado.
+
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 XII.- Proponer por ternas al Congreso del Estado la aprobación de los Magistrados que integrarán el Supremo Tribunal de Justicia del Estado, en los turnos que le correspondan en los términos de Ley.
@@ -1725,11 +1753,9 @@ XXIII.- Dar cumplimiento a las resoluciones derivadas de un proceso de plebiscit
 
 XXIV.- Instrumentar, en los términos de ley, sistemas complementarios de seguridad social del personal del Ministerio Público, de las corporaciones policiales y de los servicios periciales, de sus familias y dependientes; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
 
-(REFORMADA, P.O. 6 DE DICIEMBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL TEXTO ANTERIOR, SE APRECIA LA EXISTENCIA DEL NUMERAL DE ESTA FRACCIÓN.
-
-XXV.- Proponer al Congreso del Estado las ternas para la designación de consejeros del organismo autónomo garante de los derechos de acceso a la información pública y de protección de datos personales, en los términos establecidos por esta Constitución y las disposiciones previstas en la Ley de la materia; y
+XXV.- Proponer al Congreso del Estado las ternas para la designación de comisionados del organismo autónomo garante de los derechos de acceso a la información pública y de protección de datos personales, en los términos establecidos por esta Constitución y las disposiciones previstas en la Ley de la materia; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1779,9 +1805,9 @@ Para el despacho de los asuntos a cargo del Poder Ejecutivo, el Gobernador del E
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-#### SECCION TERCERA. DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
+#### SECCIÓN TERCERA. DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA
 
-> <small>(REFORMADO Y REUBICADO, P.O. 8 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
 
 ### CAPITULO CUARTO. DEL PODER JUDICIAL
 
@@ -1799,7 +1825,7 @@ El Ministerio Público contará con instituciones especializadas en la procuraci
 
 Para ser Procurador General de Justicia se deben reunir los requisitos que señala el artículo 86 de esta Constitución.
 
-> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
 
 ### CAPITULO PRIMERO. DEL PATRIMONIO
 
@@ -1807,7 +1833,7 @@ Para ser Procurador General de Justicia se deben reunir los requisitos que seña
 
 ###### ARTICULO 82.
 
-El Tribunal de lo Contencioso Administrativo es un órgano de control de legalidad, para la defensa de los derechos de los particulares frente a los actos de las autoridades administrativas estatales y municipales, dotado de plena jurisdicción e imperio para hacer cumplir sus resoluciones. La ley establecerá su competencia, funcionamiento e integración.
+El Tribunal de Justicia Administrativa es un órgano de control de legalidad, para dirimir las controversias que se susciten entre la administración pública estatal y municipal y los particulares, dotado de plena autonomía para dictar sus fallos. De igual forma impondrá las sanciones a los servidores públicos estatales y municipales por responsabilidad administrativa grave, y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública estatal o municipal o al patrimonio de los entes públicos estatales o municipales. La Ley establecerá su organización, funcionamiento, integración, procedimientos y en su caso, recursos contra sus resoluciones.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -2333,7 +2359,7 @@ Los Municipios serán gobernados por un Ayuntamiento. La competencia de los Ayun
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-### CAPITULO UNICO. DE LAS RESPONSABILIDADES
+### CAPÍTULO PRIMERO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS Y LOS PARTICULARES
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
@@ -2619,9 +2645,9 @@ Si el resultado del plebiscito o referéndum es en el sentido de desaprobar el a
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-### CAPITULO UNICO
+### CAPÍTULO SEGUNDO. DEL SISTEMA ESTATAL ANTICORRUPCIÓN
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 118.
 
@@ -2673,15 +2699,13 @@ Las Leyes no establecerán exenciones o subsidios respecto de las mencionadas co
 
 Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos, o bien, por quien ellos autoricen conforme a la Ley.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
 
-## TITULO NOVENO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS Y PATRIMONIAL DEL ESTADO Y DE LOS MUNICIPIOS
+## TÍTULO NOVENO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y LOS PARTICULARES, PATRIMONIAL DEL ESTADO Y DE LOS MUNICIPIOS Y DEL SISTEMA ESTATAL ANTICORRUPCIÓN
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+### CAPITULO UNICO. (REFORMADO, P.O. 21 DE JULIO DE 2009) (REUBICADO [N. DE E. ANTES ARTÍCULO 131], P.O. 6 DE SEPTIEMBRE DE 2016)
 
 ###### ARTICULO 122.
 
@@ -2695,6 +2719,10 @@ La propaganda, bajo cualquier modalidad de comunicación social, que difundan co
 
 Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
 
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
+
+Los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial y de intereses, así como la constancia de presentación de declaración fiscal, ante las autoridades competentes y en los términos que determine la ley.
+
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 123.
@@ -2705,9 +2733,39 @@ Los Servidores Públicos son responsables por los delitos que cometan y por las 
 
 El Estado y sus Municipios son responsables en forma directa y objetiva de los daños que, con motivo de su actividad administrativa irregular, ocasionen a los particulares en sus bienes o derechos, por lo que el afectado tendrá derecho a recibir una indemnización, que se determinará conforme a las bases, límites y procedimientos que establezcan las leyes.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 124.
+
+Los servidores públicos y los particulares que incurran en responsabilidad frente al Estado, serán sancionados conforme a lo siguiente:
+
+I. La comisión de delitos por parte de cualquier servidor público o particulares que incurran en hechos de corrupción, será sancionada en los términos de la legislación penal aplicable.
+
+La ley determinará los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. Las leyes penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan;
+
+II. Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones. Dichas sanciones consistirán en amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos que, en su caso, haya obtenido el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones. La ley establecerá los procedimientos para la investigación y sanción de dichos actos u omisiones.
+
+Las faltas administrativas graves serán investigadas y substanciadas por la Auditoria Superior del Estado de Guanajuato y por los Órganos Internos de Control y serán resueltas por el Tribunal de Justicia Administrativa. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control.
+
+Para la investigación, substanciación y sanción de las responsabilidades administrativas de los servidores públicos del Poder Judicial del Estado, se observará lo previsto en su Ley Orgánica, sin perjuicio de las atribuciones de la Auditoría Superior del Estado de Guanajuato en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
+
+La ley establecerá los supuestos y procedimientos para impugnar la clasificación de las faltas administrativas como no graves, que determinen los órganos internos de control.
+
+Los entes públicos estatales y municipales, contarán con órganos internos de control, que tendrán, en su ámbito de competencia, las facultades que determine la Ley para prevenir, corregir e investigar actos y omisiones que pudieran constituir responsabilidades administrativas; así como para sancionar aquellas distintas a las que son competencia de Tribunal de Justicia Administrativa; así también para revisar los ingresos, egresos, manejo, custodia y aplicación de los recursos públicos.
+
+III. El Tribunal de Justicia Administrativa impondrá a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, prestación de servicios u (sic) ejecución de obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública estatal o municipal. Las personas morales serán sancionadas en los términos de esta fracción, cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública estatal o municipal, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. Las leyes establecerán los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
+
+Los procedimientos para la aplicación de las sanciones mencionadas en las fracciones anteriores, se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+
+Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia respecto de las conductas a las que se refiere el presente artículo, conforme lo señale la ley respectiva.
+
+En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal estatal.
+
+La Auditoria Superior del Estado de Guanajuato, la Secretaría del Ejecutivo responsable del control interno y los órganos internos de control en el ámbito municipal podrán recurrir las determinaciones de la Fiscalía Especializada en Combate a la Corrupción y del Tribunal de Justicia Administrativa.
+
+(REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 124], P.O. 6 DE SEPTIEMBRE DE 2016)
+
+###### ARTICULO 125.
 
 El Gobernador del Estado, los Diputados Locales y los Magistrados del Supremo Tribunal de Justicia, podrán ser sujetos a juicio político en los términos de los Artículos 109, 110 y 114 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -2715,67 +2773,73 @@ Si se recibiere resolución de la Cámara de Senadores, el Congreso del Estado, 
 
 Las sanciones correspondientes se aplicarán en un período no mayor de un año, a partir de iniciado el procedimiento.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
-
-###### ARTICULO 125.
-
-Cuando se procediere penalmente contra el Gobernador del Estado, Diputados Locales, Magistrados del Supremo Tribunal de Justicia y miembros del Consejo del Poder Judicial, por delitos de carácter federal cometidos durante el tiempo de su encargo, en los términos de los artículos 111 y 114 de la Constitución Política de los Estados Unidos Mexicanos, recibida por el Congreso del Estado, la declaración de procedencia, éste resolverá, en ejercicio de sus atribuciones lo que corresponda.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2014)</small>
+(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996) (REUBICADO [N. DE E. ANTES ARTÍCULO 125], P.O. 6 DE SEPTIEMBRE DE 2016)
 
 ###### ARTICULO 126.
 
-Los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, los miembros del Consejo del Poder Judicial, los titulares de las dependencias que señala la Ley Orgánica del Poder Ejecutivo, los miembros de los Ayuntamientos y los Magistrados del Tribunal de lo Contencioso Administrativo, durante el tiempo de su encargo, sólo podrán ser juzgados por delitos intencionales del orden común que merezcan penas privativas de libertad, pero para ello es necesario que, previamente el Congreso del Estado, erigido en Jurado de Procedencia, lo declare así por el voto de las dos terceras partes de sus integrantes.
+Cuando se procediere penalmente contra el Gobernador del Estado, Diputados Locales, Magistrados del Supremo Tribunal de Justicia y miembros del Consejo del Poder Judicial, por delitos de carácter federal cometidos durante el tiempo de su encargo, en los términos de los artículos 111 y 114 de la Constitución Política de los Estados Unidos Mexicanos, recibida por el Congreso del Estado, la declaración de procedencia, éste resolverá, en ejercicio de sus atribuciones lo que corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO Y REUBICADO [N. DE E. ANTES ARTÍCULO 126], P.O. 6 DE SEPTIEMBRE DE 2016)</small>
+
+###### ARTICULO 127.
+
+Los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, los miembros del Consejo del Poder Judicial, los titulares de las dependencias que señala la Ley Orgánica del Poder Ejecutivo, los miembros de los Ayuntamientos y los Magistrados del Tribunal de Justicia Administrativa, durante el tiempo de su encargo, sólo podrán ser juzgados por delitos intencionales del orden común que merezcan penas privativas de libertad, pero para ello es necesario que, previamente el Congreso del Estado, erigido en Jurado de Procedencia, lo declare así por el voto de las dos terceras partes de sus integrantes.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
 El Gobernador del Estado, a partir de la declaratoria de su elección y hasta la terminación de su encargo, sólo podrá ser acusado por delitos graves de orden común.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+(REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 127], P.O. 6 DE SEPTIEMBRE DE 2016)
 
-###### ARTICULO 127.
+###### ARTICULO 128.
 
 La resolución que dicte el Congreso no prejuzga sobre los fundamentos de la acusación.
 
 La prescripción de la acción penal no corre en favor de los Funcionarios a que se refiere el artículo anterior, en tanto gocen del Fuero constitucional.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
-
-###### ARTICULO 128.
-
-Si la resolución del Congreso declara que ha lugar a la acusación, por este solo hecho el Funcionario queda suspendido de su cargo, privado del Fuero constitucional y a disposición de las autoridades competentes.
-
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 128], P.O. 6 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 129.
 
-La Ley determinará los casos y las circunstancias en los que se deba sancionar penalmente, por causa de enriquecimiento ilícito, a los Servidores Públicos.
+Si la resolución del Congreso declara que ha lugar a la acusación, por este solo hecho el Funcionario queda suspendido de su cargo, privado del Fuero constitucional y a disposición de las autoridades competentes.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+(REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 129], P.O. 6 DE SEPTIEMBRE DE 2016)
 
 ###### ARTICULO 130.
 
-En las demandas del Orden Civil, no hay fuero ni inmunidad para ningún Funcionario ni Empleado Público.
+La Ley determinará los casos y las circunstancias en los que se deba sancionar penalmente, por causa de enriquecimiento ilícito, a los Servidores Públicos.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+(REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 130], P.O. 6 DE SEPTIEMBRE DE 2016)
 
 ###### ARTICULO 131.
 
-Ningún ciudadano podrá desempeñar a la vez dos cargos de elección popular, pero el nombrado podrá optar entre ambos.
+En las demandas del Orden Civil, no hay fuero ni inmunidad para ningún Funcionario ni Empleado Público.
 
-Todo cargo de elección popular es incompatible con cualquiera de la Federación, del Estado, de los municipios, organismos públicos autónomos o de organismos descentralizados y empresas de participación estatal de cualquiera de los tres órdenes de gobierno, cuando por ellos se perciba sueldo, remuneración, honorarios, gratificación o cualquiera otra ministración de dinero.
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
 
-No podrá reunirse en un mismo individuo dos o más cargos o empleos públicos por los que perciba sueldo, remuneración, honorarios, gratificación o cualquiera otra ministración de dinero, exceptuándose los cargos docentes. La infracción a esta disposición será motivo de responsabilidad y será castigada conforme a lo establecido en la Ley de Responsabilidades Administrativas de los Servidores Públicos.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1990)</small>
-
-### CAPITULO VI. DE LAS DEPENDENCIAS ADMINISTRATIVAS DEL AYUNTAMIENTO
-
-> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+### CAPITULO UNICO. (REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 142], P.O. 6 DE SEPTIEMBRE DE 2016)
 
 ###### ARTICULO 132.
 
-Todo funcionario o empleado público recibirá por sus servicios, el sueldo o salario determinado por la Ley, mismo que no podrá ser renunciable. Los cargos de los funcionarios electorales y censales, serán obligatorios y gratuitos sólo serán remunerados aquellos que se presten profesionalmente en los términos que establezcan las Leyes de la materia.
+El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades del orden de gobierno estatal y municipal competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
+
+I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior del Estado de Guanajuato; de la Fiscalía Especializada en Combate a la Corrupción, la cual estará adscrita a la Procuraduría General de Justicia del Estado y será un órgano con autonomía técnica y operativa para investigar y perseguir los hechos que la ley considere como delitos en materia de corrupción; de la Secretaría del Ejecutivo responsable del control interno; un representante de los órganos internos de control de cada región; por el Presidente del Tribunal de Justicia Administrativa; el Presidente del organismo autónomo en materia de transparencia y Acceso a la Información Pública; así como por un representante del Consejo del Poder Judicial y dos del Comité de Participación Ciudadana;
+
+II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos respetando la equidad de género de manera de que en ningún caso podrán ser más de tres ciudadanos de un mismo género, que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley, y
+
+III. Corresponderá al Comité Coordinador del Sistema, en los términos que determine la ley las siguientes atribuciones:
+
+a) El establecimiento de mecanismos de coordinación;
+
+b) El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan;
+
+c) La determinación de los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes de los órdenes de gobierno;
+
+d) El establecimiento de bases y principios para la efectiva coordinación de las autoridades de los órdenes de gobierno en materia de fiscalización y control de los recursos públicos;
+
+e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
+
+Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -2789,11 +2853,27 @@ Todo funcionario o empleado público recibirá por sus servicios, el sueldo o sa
 
 ###### ARTICULO 133.
 
-Si el Senado de la República, en ejercicio de sus atribuciones constitucionales, declara desaparecidos los Poderes del Estado de Guanajuato, por el voto de la mayoría de los Presidentes Municipales de la Entidad, será nombrado un Gobernador Provisional, quien, de inmediato, convocará a elecciones, las que se celebrarán en un plazo que no podrá exceder de tres meses, contado a partir de la declaratoria de desaparición de Poderes.
+Ningún ciudadano podrá desempeñar a la vez dos cargos de elección popular, pero el nombrado podrá optar entre ambos.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+Todo cargo de elección popular es incompatible con cualquiera de la Federación, del Estado, de los municipios, organismos públicos autónomos o de organismos descentralizados y empresas de participación estatal de cualquiera de los tres órdenes de gobierno, cuando por ellos se perciba sueldo, remuneración, honorarios, gratificación o cualquiera otra ministración de dinero.
+
+No podrá reunirse en un mismo individuo dos o más cargos o empleos públicos por los que perciba sueldo, remuneración, honorarios, gratificación o cualquiera otra ministración de dinero, exceptuándose los cargos docentes. La infracción a esta disposición será motivo de responsabilidad y será castigada conforme a lo establecido en la Ley de Responsabilidades Administrativas de los Servidores Públicos.
+
+(REFORMADO, P.O. 25 DE DICIEMBRE DE 1990) (REUBICADO [N. DE E. ANTES ARTÍCULO 132], P.O. 6 DE SEPTIEMBRE DE 2016)
 
 ###### ARTICULO 134.
+
+Todo funcionario o empleado público recibirá por sus servicios, el sueldo o salario determinado por la Ley, mismo que no podrá ser renunciable. Los cargos de los funcionarios electorales y censales, serán obligatorios y gratuitos sólo serán remunerados aquellos que se presten profesionalmente en los términos que establezcan las Leyes de la materia.
+
+(REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 133], P.O. 6 DE SEPTIEMBRE DE 2016)
+
+###### ARTICULO 135.
+
+Si el Senado de la República, en ejercicio de sus atribuciones constitucionales, declara desaparecidos los Poderes del Estado de Guanajuato, por el voto de la mayoría de los Presidentes Municipales de la Entidad, será nombrado un Gobernador Provisional, quien, de inmediato, convocará a elecciones, las que se celebrarán en un plazo que no podrá exceder de tres meses, contado a partir de la declaratoria de desaparición de Poderes.
+
+(REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 134], P.O. 6 DE SEPTIEMBRE DE 2016)
+
+###### ARTICULO 136.
 
 No podrá hacerse pago alguno que no esté comprendido en el Presupuesto o en Ley posterior.
 
@@ -2817,57 +2897,65 @@ V.- Las remuneraciones y sus tabuladores serán públicos, y deberán especifica
 
 VI.- El Congreso del Estado y los Ayuntamientos en el ámbito de sus competencias, expedirán las leyes o reglamentos para hacer efectivo el contenido del presente artículo y las disposiciones constitucionales relativas, y para sancionar penal y administrativamente las conductas que impliquen el incumplimiento o la elusión por simulación de lo establecido en este artículo.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
-
-###### ARTICULO 135.
-
-Los contratos que tengan que celebrarse para la ejecución de obras públicas, serán adjudicados en Concurso Público, mediante convocatoria, en la que se presenten propuestas en sobres cerrados, que serán abiertos en Junta Pública, con las excepciones que la Ley secundaria señale.
-
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
-
-###### ARTICULO 136.
-
-La infracción de cualquier precepto constitucional, generará acción popular contra el infractor.
-
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+(REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 135], P.O. 6 DE SEPTIEMBRE DE 2016)
 
 ###### ARTICULO 137.
 
-Las Leyes del Estado de Guanajuato, incluyendo las que se refieren al estado y capacidad de las personas, se aplicarán a todos los habitantes del mismo, sean domiciliados o transeúntes; pero tratándose de personas de nacionalidad extranjera se cumplirá con lo que dispongan las Leyes Federales sobre la materia.
+Los contratos que tengan que celebrarse para la ejecución de obras públicas, serán adjudicados en Concurso Público, mediante convocatoria, en la que se presenten propuestas en sobres cerrados, que serán abiertos en Junta Pública, con las excepciones que la Ley secundaria señale.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+(REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 136], P.O. 6 DE SEPTIEMBRE DE 2016)
 
 ###### ARTICULO 138.
 
-Con excepción de lo relativo a los bienes señalados en el siguiente artículo, los actos jurídicos en todo lo correspondiente a su forma se regirán por las Leyes del lugar en donde se celebren; sin embargo, los otorgantes residentes fuera del Estado, quedan en libertad para sujetarse a las formas prescritas por las Leyes guanajuatenses, cuando el acto haya de tener ejecución dentro de este Estado.
+La infracción de cualquier precepto constitucional, generará acción popular contra el infractor.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+(REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 137], P.O. 6 DE SEPTIEMBRE DE 2016)
 
 ###### ARTICULO 139.
 
-Los bienes muebles e inmuebles sitos en el Estado, se regirán por las Leyes locales.
+Las Leyes del Estado de Guanajuato, incluyendo las que se refieren al estado y capacidad de las personas, se aplicarán a todos los habitantes del mismo, sean domiciliados o transeúntes; pero tratándose de personas de nacionalidad extranjera se cumplirá con lo que dispongan las Leyes Federales sobre la materia.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+(REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 138], P.O. 6 DE SEPTIEMBRE DE 2016)
 
 ###### ARTICULO 140.
 
-La voluntad de los particulares no puede eximir de la observancia de la Ley ni alterarla o modificarla.
+Con excepción de lo relativo a los bienes señalados en el siguiente artículo, los actos jurídicos en todo lo correspondiente a su forma se regirán por las Leyes del lugar en donde se celebren; sin embargo, los otorgantes residentes fuera del Estado, quedan en libertad para sujetarse a las formas prescritas por las Leyes guanajuatenses, cuando el acto haya de tener ejecución dentro de este Estado.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+(REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 139], P.O. 6 DE SEPTIEMBRE DE 2016)
 
 ###### ARTICULO 141.
+
+Los bienes muebles e inmuebles sitos en el Estado, se regirán por las Leyes locales.
+
+(REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 140], P.O. 6 DE SEPTIEMBRE DE 2016)
+
+###### ARTICULO 142.
+
+La voluntad de los particulares no puede eximir de la observancia de la Ley ni alterarla o modificarla.
+
+(REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 141], P.O. 6 DE SEPTIEMBRE DE 2016)
+
+###### ARTICULO 143.
 
 Los actos ejecutados contra el tenor de las leyes prohibitivas o de interés público serán nulos si las mismas Leyes no disponen otra cosa.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-###### ARTICULO 142.
+## TITULO DECIMO PRIMERO. DE LAS REFORMAS E INVIOLABILIDAD DE LA CONSTITUCION
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 144.
 
 Esta Constitución y la Constitución Política de los Estados Unidos Mexicanos, serán la Ley Suprema del Estado de Guanajuato.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994) (REUBICADO [N. DE E. ANTES ARTÍCULO 143], P.O. 6 DE SEPTIEMBRE DE 2016)
 
-###### ARTICULO 143.
+###### ARTICULO 145.
 
 En todo tiempo puede ser reformada o adicionada la presente Constitución. Para que las adiciones o reformas lleguen a ser parte de la misma, es indispensable que el Congreso las apruebe por el voto de cuando menos el setenta por ciento de sus miembros y, además, sean aprobadas por la mayoría de los Ayuntamientos.
 
@@ -2887,37 +2975,17 @@ Si el resultado del referéndum es en el sentido de desaprobar la reforma o adic
 
 Dentro de los dos años contados a partir de la publicación del decreto derogatorio, resultado de un proceso de referéndum, no podrá expedirse reforma o adición en el mismo sentido de la derogada, salvo cuando la Constitución Política de los Estados Unidos Mexicanos imponga la obligación de hacer adecuaciones al marco constitucional local.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
-
-## TITULO DECIMO PRIMERO. DE LAS REFORMAS E INVIOLABILIDAD DE LA CONSTITUCION
-
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
-
-### CAPITULO UNICO
-
-> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
-
-###### ARTICULO 144.
-
-Si por algún trastorno público dejare de regir en la República la Constitución Federal y, entre tanto el orden se restablece, el Estado de Guanajuato se gobernará solamente por la presente Constitución y por las Leyes que de ella emanen.
-
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
-
-###### ARTICULO 145.
-
-Esta Constitución no perderá su fuerza y vigor, aún cuando por cualquier causa se interrumpa su observancia en alguna o en algunas de las poblaciones del Estado. Tan luego como desaparezca el motivo, se restablecerá su observancia.
+(REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 144], P.O. 6 DE SEPTIEMBRE DE 2016)
 
 ###### ARTICULO 146.
 
-Si por algún trastorno público dejara de regir en la República la Constitución Federal y entre tanto el orden se restablezca, en (sic) Estado de Guanajuato solamente se gobernará por la presente Constitución y por las leyes que de ella emanen.
+Si por algún trastorno público dejare de regir en la República la Constitución Federal y, entre tanto el orden se restablece, el Estado de Guanajuato se gobernará solamente por la presente Constitución y por las Leyes que de ella emanen.
 
-> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+(REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 145], P.O. 6 DE SEPTIEMBRE DE 2016)
 
 ###### ARTICULO 147.
 
-Esta Constitución no perderá su fuerza y vigor, aún cuando por cualquier causa se interrumpa su observancia en alguna o en algunas de las poblaciones del Estado. Tan luego como desaparezca el motivo se restablecerá su observancia y conforme a sus preceptos y a los de las Leyes que de ella emanen, serán juzgados y castigados los culpables.
-
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE MARZO DE 1976)</small>
+Esta Constitución no perderá su fuerza y vigor, aún cuando por cualquier causa se interrumpa su observancia en alguna o en algunas de las poblaciones del Estado. Tan luego como desaparezca el motivo, se restablecerá su observancia.
 
 ## Artículos transitorios.
 
@@ -3806,3 +3874,47 @@ Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al
 Artículo Segundo. La Ley de Justicia para Adolescentes del Estado de Guanajuato, continuará en vigor hasta que inicie la vigencia de la legislación nacional en materia de justicia para adolescentes que expida el Congreso de la Unión, acorde al artículo segundo transitorio, del Decreto por el que se reforman los párrafos cuarto y sexto del artículo 18 y el inciso c) de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 2 de julio de 2015.
 
 Artículo Tercero. Los procedimientos de justicia para adolescentes y la ejecución de las medidas sancionadoras, iniciados con anterioridad a la entrada en vigor de la legislación nacional en materia de justicia para adolescentes serán concluidos conforme a las disposiciones vigentes al momento de iniciarse dichos procedimientos y ejecución de medidas sancionadoras.
+
+P.O. 6 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 109, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado deberá expedir la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Guanajuato, adecuar la Ley Orgánica del Ministerio Público del Estado de Guanajuato, la Ley de Instituciones y Procedimientos Electorales para el Estado de Guanajuato, y demás leyes al contenido del presente Decreto, en el término establecido en el artículo Quinto Transitorio del decreto de reformas, adiciones y derogaciones de la Constitución Política de los Estados Unidos Mexicanos en materia de combate a la corrupción.
+
+###### ARTÍCULO TERCERO.
+
+En el plazo de treinta días a partir de la entrada en vigor de las adecuaciones de la Ley Orgánica del Ministerio Público del Estado, a que se refiere el artículo segundo transitorio, del presente decreto el Procurador General del Estado expedirá el acuerdo de creación de la Fiscalía Especializada en Combate a la Corrupción.
+
+###### ARTÍCULO CUARTO.
+
+Los magistrados del Tribunal de lo Contencioso Administrativo, continuarán en su cargo como magistrados del Tribunal de Justicia Administrativa, exclusivamente por el tiempo que hayan sido nombrados, en los términos del párrafo tercero del artículo octavo transitorio, de la reforma constitucional federal en materia de combate a la corrupción publicada en el Diario Oficial de la Federación el 27 mayo (sic) de 2015. Al término de dicho nombramiento entregarán la Magistratura, sin perjuicio de que puedan ser propuestos, previa evaluación del Tribunal de su desempeño y de ser elegibles, para ser nombrados como Magistrados en términos de lo dispuesto por la legislación correspondiente.
+
+###### ARTÍCULO QUINTO.
+
+La modificación de la naturaleza jurídica del Tribunal de lo Contencioso Administrativo a Tribunal de Justicia Administrativa se realizará de conformidad con lo que establezca la Ley Orgánica del Tribunal de Justicia Administrativa, que expida el Congreso del Estado.
+
+###### ARTÍCULO SEXTO.
+
+La ratificación por parte del Congreso del Estado del Titular de la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, entrará en vigor el 26 de septiembre de 2018.
+
+###### ARTÍCULO SÉPTIMO.
+
+La designación de los titulares de los órganos internos de control de los organismos con autonomía reconocida en esta Constitución se realizará de conformidad con lo que establezcan las leyes secundarias, y que expida el Congreso del Estado en materia de implementación del Sistema Estatal Anticorrupción.
+
+###### ARTÍCULO OCTAVO.
+
+El Congreso del Estado deberá realizar las adecuaciones a la Ley Orgánica del Poder Ejecutivo del Estado de Guanajuato, con el objeto de que la Secretaría responsable del control interno del Ejecutivo Estatal asuma las facultades para el cumplimiento de lo previsto en el presente Decreto y en las leyes que derivan del mismo.
+
+###### ARTÍCULO NOVENO.
+
+Los recursos humanos, materiales, financieros y presupuestales con que cuenta el Tribunal de lo Contencioso Administrativo, pasarán a formar parte del Tribunal de Justicia Administrativa en los términos que determine la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Guanajuato a que se refiere el artículo segundo transitorio del presente decreto.
+
+###### ARTÍCULO DÉCIMO.
+
+Los trabajadores de base que se encuentren prestando sus servicios en el Tribunal de lo Contencioso Administrativo, a la entrada en vigor de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Guanajuato a que se refiere el artículo segundo transitorio, del presente decreto, seguirán conservando su misma calidad y derechos laborales que les corresponden ante el Tribunal de Justicia Administrativa, en los términos que dicha ley determine.
