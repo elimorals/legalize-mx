@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-el-escudo-y-el-himno-de-tamaulipas-antes-ley-del-4243
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-16"
-last_updated: "2012-01-12"
+last_updated: "2016-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY SOBRE EL ESCUDO Y EL HIMNO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2011.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE ENERO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2004.
 
@@ -255,7 +253,7 @@ XLIII.- 16 de mayo, para conmemorar el Natalicio del General Juan N. Cortina en 
 
 > <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-XLlV.- 19 de mayo con motivo de las siguientes fundaciones:
+XLIV.- 19 de mayo con motivo de las siguientes fundaciones:
 
 a).- De Villa de Jaumave en 1744;
 
@@ -281,7 +279,7 @@ XLVIII.- 28 de mayo, por aniversario luctuoso del profesor Juan Rincón en 1951;
 
 > <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-XLlX.- 3 de junio, con motivo de la fundación de Villa de Casas en 1770;
+XLIX.- 3 de junio, con motivo de la fundación de Villa de Casas en 1770;
 
 > <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
@@ -293,7 +291,7 @@ LI.- 16 de junio, en homenaje a la Batalla de Santa Gertrudis, en el municipio d
 
 > <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-LlI.- 24 de junio, en conmemoración del natalicio de los siguientes personajes:
+LII.- 24 de junio, en conmemoración del natalicio de los siguientes personajes:
 
 a).- Profesor Juan Rincón en 1743; y
 
@@ -301,11 +299,11 @@ b).- Profesor Juan B. Tijerina en 1857.
 
 > <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-LlII.- 26 de junio, por el aniversario luctuoso del General Lauro Villar Ochoa en 1923;
+LIII.- 26 de junio, por el aniversario luctuoso del General Lauro Villar Ochoa en 1923;
 
 > <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-LlV.- 28 de junio, por el aniversario luctuoso del General Servando Canales Molano en 1881;
+LIV.- 28 de junio, por el aniversario luctuoso del General Servando Canales Molano en 1881;
 
 > <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
@@ -329,7 +327,7 @@ LVIII.- 7 de julio, en conmemoración de la instalación del Primer Congreso Con
 
 > <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-LlX.- 18 de julio, para conmemorar el natalicio del General Manuel del Refugio González Flores en 1833;
+LIX.- 18 de julio, para conmemorar el natalicio del General Manuel del Refugio González Flores en 1833;
 
 > <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
@@ -475,13 +473,17 @@ XCI.- 12 de diciembre, para conmemorar el natalicio de Guadalupe Mainero Juárez
 
 XCII.- 16 de diciembre, por el aniversario luctuoso del ingeniero Marte R. Gómez en 1973;
 
-> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
 
-XCIII.- 25 de diciembre, con motivo de la fundación de Llera en 1748; y
+XCIII.- 25 de diciembre, con motivo de la fundación de Llera en 1748;
 
-> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
 
-XCIV.- 26 de diciembre, con motivo de la fundación del actual municipio de Abasolo en 1752. En 1828 el (sic) recibe nombre de Abasolo.
+XCIV.- 25 y 26 de diciembre, conmemoración de la Batalla de los Prisioneros de Mier o Expedición Mier, en 1842; y
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
+
+XCV.- 26 de diciembre, con motivo de la fundación del actual municipio de Abasolo en 1752. En 1828 recibe el nombre de Abasolo.
 
 ###### Artículo 12.
 
@@ -559,7 +561,7 @@ El canto, ejecución y difusión del Himno de Tamaulipas se apegarán a la letra
 
 Queda prohibido alterar la letra o música del Himno de Tamaulipas y ejecutarlo total o parcialmente en composiciones o arreglos. Asimismo, se prohíbe cantarlo o ejecutarlo con fines de publicidad comercial o de índole semejante.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 21.
 
@@ -697,7 +699,7 @@ es que sabe morir o triunfar.
 
 La música del Himno de Tamaulipas es la siguiente:
 
-> <small>N. DE E. PARA CONSULTAR LAS PARTITURAS A QUE REFIERE EL PRESENTE ARTICULO, VEASE P.O. 18 DE DICIEMBRE DE 2004, PAG. 11.</small>
+> <small>[N. DE E. PARA CONSULTAR LAS PARTITURAS A QUE REFIERE EL PRESENTE ARTÍCULO, VÉASE P.O. 18 DE DICIEMBRE DE 2004, PAG. 11.]</small>
 
 ###### Artículo 28.
 
@@ -749,7 +751,7 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del estad
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 6 DE SEPTIEMBRE DE 2005.
 
@@ -768,3 +770,11 @@ P.O. 15 DE DICIEMBRE DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXII-1007 MEDIANTE EL CUAL SE DECLARAN LOS DÍAS VEINTICINCO Y VEINTISÉIS DE DICIEMBRE DE 1842, FECHAS HISTÓRICAS OFICIALES PARA EL ESTADO DE TAMAULIPAS Y SE CONCEDE LA DISTINCIÓN DE HEROICA A LA CIUDAD DE MIER, TAMAULIPAS, EN RECONOCIMIENTO A SU VALIOSA CONTRIBUCIÓN EN DEFENSA DE LA SOBERANÍA NACIONAL; ASÍ TAMBIÉN, SE REFORMA LA FRACCIÓN XCIII, Y SE ADICIONA LA FRACCIÓN XCIV, RECORRIÉNDOSE EN SU ORDEN LA XCIV PARA SER XCV DEL ARTÍCULO 11 DE LA LEY SOBRE EL ESCUDO Y EL HIMNO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
