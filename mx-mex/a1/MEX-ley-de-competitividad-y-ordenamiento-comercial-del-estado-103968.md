@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-competitividad-y-ordenamiento-comercial-del-estado-10396
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-18"
-last_updated: "2016-04-18"
+last_updated: "2016-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 18 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 7 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 18 de diciembre de 2014.
 
@@ -73,15 +73,33 @@ VII. Código Financiero: Al Código Financiero del Estado de México y Municipio
 
 VIII. Comercializadora: A la unidad económica donde se ejerce la compra y/o venta de oro y/o plata.
 
-IX. Consejo Rector: A la autoridad encargada de emitir el dictamen de factibilidad correspondiente.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+VIII Bis. Comisión: A la Comisión Estatal de Factibilidad.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+IX. Consejo Rector: A la autoridad encargada de emitir la evaluación al seno de la Comisión Estatal de Factibilidad.
 
 X. COPRISEM: A la Comisión para la Protección contra Riesgos Sanitarios del Estado de México.
 
 XI. Dependiente: A toda persona que desempeñe, constantemente, las gestiones propias del funcionamiento de la unidad económica en ausencia, a nombre y cuenta del titular.
 
-XII. Dictamen de Factibilidad: Al documento emitido por el consejo rector respectivo, que determina la pertinencia para la apertura de una unidad económica.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+XII. (DEROGADA, G.G. 7 DE SEPTIEMBRE DE 2016)
 
 XIII. Enseres en vía pública: A aquellos objetos como sombrillas, mesas, sillas o cualquier instalación desmontable, colocados en la vía pública para la prestación del servicio que otorga la unidad económica.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XIII Bis. Evaluación Técnica de Factibilidad: Al documento emitido por el consejo rector respectivo al seno de la Comisión Estatal de Factibilidad.
 
 XIV. Ley: A la Ley de Competitividad y Ordenamiento Comercial del Estado de México.
 
@@ -121,7 +139,11 @@ XXXI. Traspaso: A la transmisión que realiza el titular de un permiso o una lic
 
 XXXII. Unidad económica: A la productora de bienes y servicios.
 
-XXXIII. Unidad económica de alto impacto: A la que tiene como actividad principal la venta de bebidas alcohólicas para su consumo inmediato, y las demás que requieren dictamen de factibilidad.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XXXIII. Unidad económica de alto impacto: A la que tiene como actividad principal la venta de bebidas alcohólicas para su consumo inmediato, y las demás que requieran de dictamen único de factibilidad.
 
 XXXIV. Unidad económica de bajo impacto: A las que se les autoriza la venta de bebidas alcohólicas en envase cerrado y no sean para el consumo inmediato, y las demás que no se encuentren comprendidas en mediano y alto impacto.
 
@@ -193,9 +215,13 @@ VIII. Determinar acciones de simplificación.
 
 IX. Instruir la realización y el trámite de visitas de verificación.
 
-X. Dar respuesta, en un término de tres días hábiles, a las solicitudes que le realice la ventanilla única, y de cinco días hábiles a las realizadas por la ventanilla de gestión.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Los términos anteriores podrán prorrogarse hasta por 5 días hábiles, siempre y cuando se justifique.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+X. Dar respuesta, en un término de tres días hábiles, a las solicitudes que le realice la ventanilla única.
+
+Por cuanto hace a la ventanilla de gestión, la Comisión dará respuesta en los términos contemplados en su reglamento.
 
 > <small>(REFORMADA, G.G. 18 DE ABRIL DE 2016)</small>
 
@@ -233,7 +259,11 @@ II. Integrar y operar la ventanilla única.
 
 III. Operar, digitalizar y mantener, semanalmente actualizado, el registro municipal, a través de la Dirección de Desarrollo Económico o su equivalente, que opere en su demarcación, el cual deberá publicarse en el portal de Internet del municipio.
 
-IV. Enviar, dentro de los cinco días hábiles siguientes de cada mes calendario la actualización de su registro municipal, el informe correspondiente a las autoridades estatales, para actualizar el registro estatal.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+IV. Enviar, dentro de los cinco días hábiles siguientes de cada mes calendario la actualización de su registro municipal, el informe correspondiente a las autoridades estatales y a la Comisión, para actualizar el registro estatal.
 
 V. Resguardar y actualizar el archivo físico y digital con los documentos requeridos por las leyes para la expedición y refrendo de las licencias correspondientes.
 
@@ -249,9 +279,13 @@ X. Las demás que le confieran esta Ley y otras disposiciones aplicables.
 
 ### CAPÍTULO III. DEL SISTEMA DE UNIDADES ECONÓMICAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 8.
 
-El Sistema se integrará por los registros de las unidades económicas y las ventanillas que operarán de manera permanente, en coordinación con las autoridades estatales y municipales, conteniendo la información básica de las unidades económicas.
+El Sistema se integrará por los registros de las unidades económicas y las ventanillas que operarán de manera permanente, en coordinación con las autoridades estatales, municipales y la Comisión, conteniendo la información básica de las unidades económicas.
 
 ###### Artículo 9.
 
@@ -343,7 +377,11 @@ V. Las demás que sean necesarias para la apertura de las unidades económicas.
 
 La ventanilla única entregará al solicitante o representante legal la respuesta de su trámite en un término no mayor a cinco días hábiles, a partir de la fecha del acuse de recibo.
 
-La ventanilla de gestión deberá entregar al solicitante o representante legal la respuesta de su trámite en un término de siete días hábiles, a partir de la fecha del acuse de recibo.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+La ventanilla de gestión deberá entregar al solicitante o representante legal la respuesta de su trámite en los términos contemplados en el Reglamento de la Comisión.
 
 La autoridad podrá prorrogar hasta por 5 días hábiles el término anterior, siempre y cuando justifique la necesidad para ello.
 
@@ -371,11 +409,19 @@ La operación y debido funcionamiento de la ventanilla de gestión estará a car
 
 Los titulares de las unidades económicas tienen las obligaciones siguientes:
 
-I. Destinar el local exclusivamente para la actividad manifestada en el dictamen de factibilidad, en el permiso o licencia de funcionamiento, según sea el caso.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+I. Destinar el local exclusivamente para la actividad autorizada en el Dictamen Único de Factibilidad, permiso o licencia de funcionamiento, según sea el caso.
 
 II. Adoptar todas las medidas que sean necesarias para evitar la comisión de conductas ilícitas o lesivas a la persona humana o se incite a estas.
 
-III. Tener en la unidad económica el original o copia certificada del dictamen de factibilidad, permiso o licencia de funcionamiento, según sea el caso.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+III. Tener en la unidad económica el original o copia certificada (sic) Dictamen Único de Factibilidad, permiso o licencia de funcionamiento, según sea el caso.
 
 IV. Refrendar el permiso o licencia de funcionamiento.
 
@@ -927,7 +973,11 @@ V. La capacidad de aforo respectiva.
 
 VI. Dar cuenta del programa interno de protección civil.
 
-VII. Dictamen de factibilidad o permiso, en su caso, emitido por la autoridad Estatal.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+VII. Dictamen Único de Factibilidad o permiso, en su caso, emitido por la autoridad Estatal.
 
 VIII. Para el caso de las unidades económicas de alto impacto deberá manifestar que cuenta con el sistema de seguridad a que hace referencia esta Ley.
 
@@ -941,7 +991,11 @@ I. Que las condiciones originales para el funcionamiento de las unidades económ
 
 II. Monto del pago de derechos efectuado y datos de la tesorería.
 
-III. En su caso contar con el dictamen de factibilidad correspondiente.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+III. En su caso contar con Dictamen Único de Factibilidad.
 
 ###### Artículo 68.
 
@@ -961,21 +1015,29 @@ Una vez cubiertos los requisitos señalados en el presente artículo, la autorid
 
 #### SECCIÓN II. DE LOS REQUISITOS PARA LA OPERACIÓN DE LAS UNIDADES ECONÓMICAS DEDICADAS A LA VENTA Y/O DISTRIBUCIÓN DE BEBIDAS ALCOHÓLICAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 69.
 
 Las disposiciones de este Título establecen los mecanismos de participación de las autoridades en la regulación del funcionamiento de las unidades económicas cuya actividad económica permita la venta y/o distribución de bebidas alcohólicas en la Entidad, con el objeto de implementar medidas y acciones que tiendan a prevenir, concientizar, reducir y medir el consumo de bebidas alcohólicas que dañen, deterioren o pongan en riesgo la salud, la calidad y las expectativas de vida de la persona.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 70.
 
-Para los efectos de este Capítulo, la Secretaría de Salud creará y actualizará de manera semanal el registro de las unidades económicas que cuenten con el dictamen de factibilidad de impacto sanitario para la solicitud o refrendo de licencia de funcionamiento.
+Para los efectos de este Capítulo, la Comisión creará y actualizará el registro de las unidades económicas que cuenten con el Dictamen Único de Factibilidad, para la solicitud o refrendo de licencias de funcionamiento.
 
 Independiente de lo anterior, la Secretaría de Salud alimentará el Sistema dentro de los cinco días siguientes a la actualización de su registro.
 
-#### SECCIÓN III. DEL DICTAMEN DE FACTIBILIDAD DE IMPACTO SANITARIO
+#### SECCIÓN III. DE LA EVALUACIÓN TÉCNICA DE FACTIBILIDAD DE IMPACTO SANITARIO
 
 ###### Artículo 71.
 
-Los ayuntamientos solo permitirán el funcionamiento de unidades económicas cuya actividad principal contemple la venta y/o distribución de bebidas alcohólicas en envase abierto y/o al copeo para su consumo en el interior, a las personas físicas y jurídicas colectivas que cuenten previamente con el Dictamen de Factibilidad de Impacto Sanitario que expida para tal efecto el Consejo Rector de Impacto Sanitario.
+Los ayuntamientos solo permitirán el funcionamiento de unidades económicas cuya actividad principal contemple la venta y/o distribución de bebidas alcohólicas en envase abierto y/o al copeo para su consumo en el interior, a las personas físicas y jurídicas colectivas que cuenten previamente con el Dictamen Único de Factibilidad.
 
 Las autorizaciones se ajustarán a los horarios establecidos en esta Ley.
 
@@ -1009,73 +1071,59 @@ VII. Cuando el titular o dependiente observe notoriamente alcoholizados a los cl
 
 VIII. Contar con publicidad escrita visible que indique: “El abuso en el consumo de bebidas alcohólicas es dañino para la salud”. “El consumo de bebidas alcohólicas está prohibido a menores de edad”. “Facilitar el acceso de bebidas alcohólicas a los menores constituye un delito”. “Esta unidad económica cuenta con la licencia de funcionamiento y el dictamen de factibilidad de impacto sanitario vigentes, que autorizan la venta de bebidas alcohólicas". “La venta de bebidas alcohólicas sin licencia es un delito”. "Por tu seguridad propón un conductor designado”. "Está prohibida la venta, suministro y consumo de bebidas alcohólicas fuera de esta unidad económica".
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 #### SECCIÓN IV. DEL CONSEJO RECTOR DE IMPACTO SANITARIO
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 75.
 
 La unidad económica donde se vendan o suministren bebidas alcohólicas deberá contar con la licencia de funcionamiento vigente que le autorice la venta de bebidas alcohólicas, la cual, se deberá colocar en un lugar visible dentro de la propia unidad económica.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 76.
 
-Para la solicitud o refrendo de la licencia de funcionamiento de una unidad económica con venta o suministro de bebidas alcohólicas para el consumo inmediato o al copeo, se requiere del Dictamen de Factibilidad de Impacto Sanitario, emitido por el Consejo Rector de Impacto Sanitario.
+Para la solicitud o refrendo de la licencia de funcionamiento de una unidad económica con venta o suministro de bebidas alcohólicas para el consumo inmediato o al copeo, se requiere del Dictamen Único de Factibilidad.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 77.
 
-El Dictamen de Factibilidad de Impacto Sanitario es un requisito obligatorio para que las autoridades expidan o refrenden las licencias de funcionamiento.
+El Dictamen Único de Factibilidad, es un requisito obligatorio para que las autoridades expidan o refrenden las licencias de funcionamiento.
 
 Este documento tendrá vigencia de un año y será de carácter personal e intransferible, por ende, todo acto contrario a lo señalado será nulo de pleno derecho.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
 ###### Artículo 78.
 
-Son requisitos para la expedición del Dictamen de Factibilidad de Impacto Sanitario:
+(DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2016)
 
-I. Solicitud firmada por el interesado que deberá presentar vía electrónica o por escrito, manifestando, bajo protesta de decir verdad, que los datos en ella contenidos son ciertos.
-
-II. A la solicitud se acompañará el original para cotejo y copia de:
-
-a) Identificación oficial vigente del solicitante que contenga fotografía y firma. En caso de que no sea él, quien realice el trámite sea el representante legal, deberá presentar poder notarial y copia de identificación oficial del poderdante, apoderado y dos testigos. Tratándose de personas jurídicas colectivas, presentar el instrumento notarial con el que acredite su personalidad.
-
-b) Documento con el que se acredite la propiedad o posesión del inmueble donde se encuentre instalado o se pretenda instalar la unidad económica con venta o suministro de bebidas alcohólicas en botella cerrada para el consumo inmediato o al copeo.
-
-c) Aviso de funcionamiento emitido por la jurisdicción de regulación sanitaria del lugar donde se encuentre instalada o se pretenda instalar la unidad económica con venta o suministro de bebidas alcohólicas en botella cerrada para el consumo inmediato o al copeo.
-
-d) Acta constitutiva en caso de ser persona jurídica colectiva.
-
-> <small>(REFORMADO, G.G. 18 DE ABRIL DE 2016)</small>
-
-e) Dictamen de Viabilidad emitido por la Coordinación General de Protección Civil, para las unidades económicas de alto o mediano riesgo o, en su caso, el Dictamen de Viabilidad de bajo riesgo, emitido por la autoridad de Protección Civil Municipal o dependencia correspondiente en la materia.
-
-f) Dictamen de Impacto Regional para el caso de predios o inmuebles que por sus características producen un impacto significativo sobre la infraestructura y equipamiento urbano y servicios públicos previstos para una región o para un centro de población, en relación con su entorno regional.
-
-g) Fotografías de la fachada y del interior del inmueble.
-
-h) En su caso, licencia de funcionamiento que se pretenda renovar.
-
-i) Croquis de localización, señalando colindancias, abarcando un radio no menor de quinientos metros de la unidad económica con venta o suministro de bebidas alcohólicas en botella cerrada para el consumo inmediato o al copeo, que incluya puntos claves de referencia, tales como centros escolares, estancias infantiles, instalaciones deportivas y centros de salud.
-
-j) Presentar opinión emitida por la autoridad auxiliar correspondiente.
-
-III. Acreditar que la unidad económica cumpla con las condiciones de higiene y seguridad que establezcan las disposiciones legales y normas sanitarias.
-
-IV. Acreditar la instalación de aislante de sonido que garantice el no generar ruido en el medio ambiente o contaminación, que afecte a la salud de los usuarios, de dependientes y personal expuesto. Quedando prohibido el uso de aislante que pongan en riesgo la seguridad de los usuarios.
-
-V. Acreditar la instalación de sistemas visibles, cuya finalidad sea tener a la vista de los usuarios y personal expuesto a contaminación auditiva, los niveles de ruido y dar a conocer si se encuentra dentro del rango permitido o se ha excedido del mismo.
-
-En ningún caso se podrá exceder del límite de 60db (A) para las emisiones sonoras, en función de los niveles ponderados en A [db(A)].
-
-VI. Documento que acredite que la propiedad o posesión del bien inmueble.
-
-VII. Contar con la evidencia documental y fotográfica que permita acreditar el cumplimiento de la Ley General para el Control del Tabaco y su Reglamento.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 79.
 
-Se negará el Dictamen de Factibilidad de Impacto Sanitario cuando se incumpla con cualquiera de los requisitos establecidos en esta Ley.
+(DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2016)
 
-> <small>(ADICIONADO, G.G. 10 DE JULIO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 79 Bis.
 
-Los dictámenes de factibilidad de impacto sanitario pueden ser revocados a juicio del Consejo Rector, por las causas siguientes:
+El Dictamen Único de Factibilidad, pueden (sic) ser revocado a juicio de la Comisión, por las causas siguientes:
+
+> <small>(ADICIONADA, G.G. 10 DE JULIO DE 2015)</small>
 
 I. Se compruebe que la información proporcionada para su expedición es falsa y/o que alguno de los documentos es apócrifo.
 
@@ -1083,7 +1131,11 @@ I. Se compruebe que la información proporcionada para su expedición es falsa y
 
 II. Cuando las actividades de la unidad económica de que se trate representen un riesgo para la tranquilidad, seguridad o salud de los usuarios, dependientes o personal ocupacionalmente expuesto.
 
+> <small>(ADICIONADA, G.G. 10 DE JULIO DE 2015)</small>
+
 III. Cuando la unidad económica incumpla con el horario autorizado.
+
+> <small>(ADICIONADA, G.G. 10 DE JULIO DE 2015)</small>
 
 IV. Cuando la unidad económica venda o suministre bebidas alcohólicas a menores de edad o incapaces, independientemente de la responsabilidad administrativa o penal que pudiera generarse.
 
@@ -1095,7 +1147,7 @@ En las unidades económicas donde se vendan o suministren bebidas alcohólicas, 
 
 ###### Artículo 81.
 
-El Consejo Rector de Impacto Sanitario es la autoridad encargada de emitir el Dictamen de Factibilidad de Impacto Sanitario para la solicitud y refrendo que realice el ayuntamiento, para la licencia de funcionamiento que deben obtener las unidades económicas con venta o suministro de bebidas alcohólicas para el consumo inmediato o al copeo.
+El Consejo Rector de Impacto Sanitario es la autoridad encargada de emitir la evaluación técnica de factibilidad de impacto sanitario al seno de la Comisión, necesaria para la obtención el (sic) Dictamen Único de Factibilidad, para la solicitud y refrendo que realice el ayuntamiento, para la licencia de funcionamiento que deben obtener las unidades económicas con venta o suministro de bebidas alcohólicas para el consumo inmediato o al copeo.
 
 ###### Artículo 82.
 
@@ -1145,7 +1197,11 @@ Las determinaciones del Consejo Rector de Impacto Sanitario se tomarán por mayo
 
 Para el cumplimiento de sus fines, el Consejo Rector de Impacto Sanitario tendrá las funciones siguientes:
 
-I. Emitir el Dictamen de Factibilidad de Impacto Sanitario, necesario para que los ayuntamientos de la Entidad expidan y refrenden, dentro de sus atribuciones y competencias, las licencias que deben obtener las unidades económicas con venta o suministro de bebidas alcohólicas, para el consumo inmediato o al copeo.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+I. Emitir la evaluación técnica de factibilidad de impacto sanitario al seno de la Comisión, para que en su caso, se emita el Dictamen Único de Factibilidad, necesario para que los ayuntamientos de la Entidad expidan y refrenden, dentro de sus atribuciones y competencias, las licencias que deben obtener las unidades económicas con venta o suministro de bebidas alcohólicas, para el consumo inmediato o al copeo.
 
 II. Elaborar el diagnóstico de la situación que prevalece en materia del funcionamiento de las unidades económicas con venta o suministro de bebidas alcohólicas en la Entidad y su impacto sanitario en la comunidad, debiéndose allegar para ello de la información correspondiente.
 
@@ -1157,13 +1213,17 @@ V. Proponer la actualización del marco jurídico de la materia.
 
 VI. Adoptar las medidas administrativas necesarias para favorecer el acceso de la población a los servicios que brinda.
 
-VII. Crear oficinas regionales para la expedición del Dictamen de Factibilidad de Impacto Sanitario.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+VII. (DEROGADA, G.G. 7 DE SEPTIEMBRE DE 2016)
 
 VIII. Tomar los acuerdos que se consideren necesarios para orientar las acciones que den cumplimiento a los fines del Consejo Rector de Impacto Sanitario.
 
-> <small>(REFORMADA, G.G. 10 DE JULIO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-IX. Solicitar la colaboración de las dependencias del Ejecutivo del Estado, organismos auxiliares de carácter estatal o municipal, para comprobar el cumplimiento de los requisitos para la expedición del Dictamen de Factibilidad de Impacto Sanitario, en los términos, condiciones y requisitos establecidos en la autorización.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+IX. Solicitar la colaboración de las dependencias del Ejecutivo del Estado, organismos auxiliares de carácter estatal o municipal, para comprobar el cumplimiento de los requisitos para la expedición de la evaluación técnica de factibilidad de impacto sanitario al seno de la Comisión, en los términos., condiciones y requisitos establecidos en la autorización.
 
 > <small>(ADICIONADA, G.G. 10 DE JULIO DE 2015)</small>
 
@@ -1199,11 +1259,19 @@ Por su propia naturaleza las agencias en venta de autos nuevos estarán exentas 
 
 #### SECCIÓN III. DEL CONSEJO RECTOR DE FACTIBILIDAD COMERCIAL AUTOMOTRIZ
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 85.
 
 Las unidades económicas para la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas deberán:
 
-I. Contar y operar con licencia de funcionamiento aprobada por el ayuntamiento, previo a lo cual, obtendrán los dictámenes y autorizaciones respectivos, incluyendo el de Factibilidad Comercial Automotriz, aun tratándose de unidades económicas constituidas en bienes inmuebles de régimen social.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+I. Contar y operar con licencia de funcionamiento aprobada por el ayuntamiento, previo a lo cual, obtendrán el Dictamen Único de Factibilidad, aun tratándose de unidades económicas constituidas en bienes inmuebles de régimen social.
 
 II. Contar y operar con los formatos de contratos de adhesión registrados ante la Procuraduría Federal de Protección al Consumidor. Este requisito solo aplicará para los lotes de autos.
 
@@ -1231,9 +1299,13 @@ b) Elaborar un registro interno de las personas y de los vehículos objeto de en
 
 c) Contratar, en la Procuraduría General de Justicia del Estado, módulos para la expedición gratuita de la constancia o certificación electrónica de que el vehículo no aparece en las bases de datos de autos robados.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 86.
 
-Para el refrendo anual de la licencia de funcionamiento deberá actualizarse el Dictamen de Factibilidad Comercial Automotriz y, en su caso, la autorización en materia de impacto ambiental.
+Para el refrendo anual de la licencia de funcionamiento deberá actualizarse el Dictamen Único de Factibilidad.
 
 ###### Artículo 87.
 
@@ -1243,11 +1315,15 @@ Los usuarios deberán acreditar ante la autoridad competente, cuando ésta se lo
 
 Queda estrictamente prohibido ocupar las vías públicas para realizar actos relacionados con la enajenación de los bienes mencionados en este Capítulo, con excepción de los particulares que oferten hasta dos vehículos de su propiedad frente a su domicilio, supuesto en el cual deberán contar con los documentos que acrediten la propiedad de los bienes respectivos y que no se afecte el tránsito vehicular.
 
-#### SECCIÓN IV. DEL DICTAMEN DE FACTIBILIDAD COMERCIAL AUTOMOTRIZ
+#### SECCIÓN IV. DE LA EVALUACIÓN TÉCNICA DE FACTIBILIDAD COMERCIAL AUTOMOTRIZ
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 89.
 
-El Consejo Rector de Factibilidad Comercial Automotriz es la autoridad encargada de emitir el Dictamen de Factibilidad Comercial Automotriz, respecto de las unidades económicas destinadas a la enajenación, reparación o mantenimiento de vehículos automotores usados y de autopartes nuevas y usadas.
+El Consejo Rector de Factibilidad Comercial Automotriz es la autoridad encargada de emitir la evaluación de factibilidad comercial automotriz al seno de la Comisión, necesaria para la obtención el (sic) Dictamen Único de Factibilidad, respecto de las unidades económicas destinadas a la enajenación, reparación o mantenimiento de vehículos automotores usados y de autopartes nuevas y usadas.
 
 ###### Artículo 90.
 
@@ -1273,59 +1349,55 @@ Los cargos de los integrantes del Consejo son honoríficos.
 
 Para el cumplimiento de sus fines, el Consejo Rector de Factibilidad Comercial Automotriz tendrá las funciones siguientes:
 
-I. Atender y resolver, de manera permanente, colegiada e integral, las solicitudes de los particulares referentes a las unidades económicas destinadas a la enajenación, reparación o mantenimiento de vehículos automotores usados y de autopartes nuevas y usadas, para la emisión del Dictamen de Factibilidad Comercial Automotriz.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-II. Emitir el Dictamen de Factibilidad Comercial Automotriz.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-III. Establecer los procedimientos y formatos para la recepción e integración de los expedientes que contengan las solicitudes y requisitos para obtener el dictamen.
+I. Atender y resolver, de manera permanente, colegiada e integral, las solicitudes de los particulares presentadas ante la Comisión Estatal de Factibilidad o la Ventanilla de Gestión referentes a las unidades económicas destinadas a la enajenación, reparación o mantenimiento de vehículos automotores usados y de autopartes nuevas y usadas, para la emisión de la evaluación de factibilidad comercial automotriz al seno de la Comisión.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+II. Emitir la evaluación de factibilidad comercial automotriz al seno de la Comisión.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+III. (DEROGADA, G.G. 7 DE SEPTIEMBRE DE 2016)
 
 IV. Sesionar, en términos del Reglamento Interior que al efecto expida el Ejecutivo del Estado.
 
 V. Las demás que le confieran otras disposiciones legales.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 #### SECCIÓN V. DEL APROVECHAMIENTO DE VEHÍCULOS USADOS
 
 ###### Artículo 92.
 
-El Dictamen de Factibilidad Comercial Automotriz es el documento oficial con vigencia anual que consiste en la valoración de la procedencia comercial de la unidad económica, de acuerdo con la naturaleza de la actividad económica, constituye un requisito obligatorio para la emisión de la licencia de funcionamiento y su refrendo.
+La evaluación técnica de factibilidad comercial automotriz emitida al seno de la Comisión, es el documento que consiste en la valoración de la procedencia comercial de la unidad económica, de acuerdo con la naturaleza de la actividad económica, constituye un requisito obligatorio para la emisión de la licencia de funcionamiento y su refrendo.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 93.
 
-Son requisitos para la expedición del Dictamen de Factibilidad Comercial Automotriz:
+(DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2016)
 
-I. Solicitud firmada por el propietario o poseedor del inmueble que precise la actividad económica pretendida.
-
-II. Documento que acredite la propiedad o posesión del bien inmueble; cuando se trate de unidades económicas de tianguis de autos y de aprovechamiento de vehículos usados, éstas deberán acreditar que se encuentran dentro de la zona especial.
-
-III. Identificación oficial, cédula fiscal, registro federal de contribuyentes y clave única de registro de población, para personas físicas.
-
-IV. Identificación oficial del representante legal, cédula fiscal, registro federal de contribuyentes y acta constitutiva, para personas jurídicas colectivas.
-
-V. Carta Poder, en su caso.
-
-VI. Datos de identificación del inmueble.
-
-VII. Manifestación del número de fuentes de empleo generadas.
-
-VIII. Dictamen de Impacto Regional para Unidades Económicas de alto impacto y que no se encuentren contenidas en el Catálogo Mexiquense de Actividades Industriales, Comerciales y de Servicios de Bajo Riesgo.
-
-IX. Autorización de impacto y riesgo ambiental.
-
-> <small>(REFORMADA, G.G. 18 DE ABRIL DE 2016)</small>
-
-X. Licencia de uso de suelo, de acuerdo con el Plan Municipal de Desarrollo Urbano que corresponda a la unidad económica.
-
-XI. Cumplir con los requisitos legales, reglamentarios y de las normas técnicas que emita la Secretaría de Desarrollo Económico.
-
-XII. Las demás que establezcan otras disposiciones legales aplicables.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 94.
 
-Se negará el Dictamen de Factibilidad Comercial Automotriz o su refrendo cuando se incumplan los requisitos establecidos.
+(DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 95.
 
-El Dictamen de Factibilidad Comercial Automotriz contendrá lo siguiente:
+La evaluación técnica de factibilidad comercial automotriz, contendrá lo siguiente:
 
 I. Número de Dictamen.
 
@@ -1475,13 +1547,25 @@ IV. Contar con el dictamen técnico para la ubicación de la zona especial que e
 
 V. Contar con los dictámenes siguientes:
 
-a) Dictamen de evaluación del impacto ambiental.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-b) Dictamen de protección civil.
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-c) Dictamen de incorporación e impacto vial.
+a) Dictamen Único de Factibilidad
 
-d) Dictamen de servicios de agua potable, drenaje y saneamiento.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+b) Dictamen de Servicios de Agua Potable, Drenaje y Saneamiento.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+c) (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+d) (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2016)
 
 VI. Los demás que establezcan otras disposiciones aplicables.
 
@@ -2113,9 +2197,13 @@ IV. Destitución del empleo, cargo o comisión.
 
 V. Inhabilitación de uno a diez años en el servicio público estatal y municipal.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 183.
 
-A los titulares o permisionarios que para la obtención de un dictamen de factibilidad, permiso o licencia de funcionamiento, según corresponda, hubieren proporcionado información falsa, se sancionará con multa y con clausura permanente de la manera siguiente:
+A los titulares o permisionarios que para la obtención del Dictamen Único de Factibilidad, permiso o licencia de funcionamiento, según corresponda, hubieren proporcionado información falsa, se sancionarán con multa (sic) clausura permanente de la manera siguiente:
 
 I. Para las unidades económicas de bajo impacto multa de cien a doscientos días de salario mínimo vigente en la zona geográfica que corresponda.
 
@@ -2135,7 +2223,11 @@ II. Multa de doscientos a cuatrocientos días de salario mínimo vigente en la z
 
 Además se impondrá clausura temporal cuando se infrinja lo dispuesto en los artículos 107 y 108.
 
-III. Clausura temporal o permanente, por el incumplir las disposiciones señaladas en los artículos 97 y 98, así como no contar con el Dictamen de Factibilidad Comercial Automotriz.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+III. Clausura temporal o permanente, por incumplir las disposiciones señaladas en los artículos 97 y 98, así como no contar (sic) Dictamen Único de Factibilidad.
 
 IV. Clausura permanente cuando una unidad económica donde se realicen actos relacionados con la enajenación y comercialización de vehículos automotores usados en tianguis de autos y que tengan como actividad principal el aprovechamiento de autopartes de vehículos usados que han concluido su vida útil.
 
@@ -2155,7 +2247,11 @@ Además de lo señalado en los artículos 184 y 185 la Secretaría de Desarrollo
 
 Cuando se trate de unidades económicas que se dediquen a la venta o suministro de bebidas alcohólicas, corresponderá a los municipios en el ámbito de sus atribuciones, la imposición de las sanciones siguientes:
 
-I. Con multa equivalente de doscientos cincuenta a quinientas veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción a quien contando con autorización vigente incumpla con el horario autorizado, con independencia de esta multa, cuando se detecten en la verificación modificaciones a las condiciones originalmente manifestadas en el dictamen de factibilidad o licencia de funcionamiento se clausurará temporalmente.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+I. Con multa equivalente de doscientos cincuenta a quinientas veces la unidad de medida y actualización al momento de cometer la infracción a quien contando con autorización vigente incumpla con el horario autorizado, con independencia de esta multa, cuando se detecten en la verificación modificaciones a las condiciones originalmente autorizadas en el Dictamen Único de Factibilidad, o licencia de funcionamiento se clausurará temporalmente.
 
 II. Con multa equivalente de dos mil a dos mil quinientas veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción y la suspensión permanente, cuando se incumpla el horario establecido para los bailes públicos.
 
@@ -2191,7 +2287,11 @@ IV. Clausura temporal o permanente, cuando se compruebe que las actividades que 
 
 V. Clausura temporal o permanente, cuando reincida por tercera ocasión.
 
-VI. Clausura temporal o permanente, cuando las unidades económicas carezcan del Dictamen de Factibilidad de Impacto Sanitario.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+VI. Clausura temporal o permanente, cuando las unidades económicas carezcan, del Dictamen Único de Factibilidad.
 
 VII. Clausura permanente cuando del resultado de la visita de verificación se presuma que en esa unidad económica se comete algún delito contra las personas menores de edad y quienes no tienen la capacidad para comprender el significado del hecho, utilización de imágenes y/o voz de personas menores de edad o personas que no tienen la capacidad para comprender el significado del hecho para la pornografía, lenocinio, trata de personas, tráfico de menores, o actos libidinosos u otro que vaya en contra de la libertad sexual o dignidad de las personas, en este caso, la autoridad deberá dar vista al Ministerio Público.
 
@@ -2470,3 +2570,27 @@ TERCERO. Cuando en la Ley de Competitividad y Ordenamiento Comercial del Estado 
 CUARTO. El valor de la Unidad de Medida y Actualización (UMA) será equivalente al que tenga el salario mínimo general vigente hasta que se actualice dicho valor en términos de las disposiciones jurídicas aplicables.
 
 QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 7 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 120.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO Y DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el primero de enero de dos mil diecisiete.
+
+TERCERO. La Comisión Estatal de Factibilidad se deberá instalar en un plazo máximo de 30 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. La Comisión Estatal de Factibilidad emitirá su Reglamento interior dentro de los 30 días naturales posteriores a su instalación.
+
+QUINTO. A la entrada en vigor del presente decreto, los dictámenes y las prórrogas emitidas con anterioridad, conservarán la vigencia que tengan establecida.
+
+SEXTO. Los procedimientos iniciados antes de la entrada en vigor del presente decreto serán concluidos conforme a la legislación aplicable al momento en que se iniciaron.
+
+La persona física o jurídico colectiva que haya iniciado procedimientos antes de la entrada en vigor del presente decreto, podrá elegir la continuidad del mismo, o bien, reiniciar bajo los procedimientos establecidos en el presente decreto, en cuyo caso se admitirán los dictámenes ya obtenidos de las diferentes dependencias del Gobierno del Estado de México.
+
+SÉPTIMO. Cuando en otros ordenamientos se haga referencia a los dictámenes de factibilidad se tendrá por entendido que serán suplidos por el Dictamen Único de Factibilidad emitido por la Comisión Estatal de Factibilidad.
+
+OCTAVO. El Ejecutivo Estatal contará con un plazo no mayor a 30 días naturales posteriores a la entrada en vigor del presente Decreto, para emitir los ordenamientos jurídicos reglamentarios, en donde se establecerán los tiempos de respuesta por parte de las autoridades.
+
+NOVENO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
