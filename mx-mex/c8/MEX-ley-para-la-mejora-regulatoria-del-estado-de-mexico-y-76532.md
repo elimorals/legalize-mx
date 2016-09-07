@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-mejora-regulatoria-del-estado-de-mexico-y-76532"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-06"
-last_updated: "2015-11-09"
+last_updated: "2016-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera a la Gaceta de Gobierno del Estado de México, el lunes 6 de septiembre de 2010.
 
@@ -143,6 +143,18 @@ XVII. Servicio: Actividad que realizan las Dependencias en acatamiento de algún
 
 XVIII. Simplificación: Procedimiento por medio del cual se propicia la transparencia en la elaboración de regulaciones y procesos administrativos, así como la reducción de plazos y requisitos de los trámites; y
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XVIII Bis. Sistema: Al Sistema (sic) Mediación y Conciliación para la Inversión para el análisis y seguimiento de las solicitudes de mediación y conciliación que pudieren constituir infracciones administrativas en materia de inversión.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XVIII Ter. Solicitud de Mediación y Conciliación: es el escrito por el que la peticionaria o el peticionario manifiesta su petición o inconformidad respecto de la presunta negativa, dilación o falta de respuesta, solicitud de requisitos no previstos en la normatividad aplicable o en el registro correspondiente, a su solicitud de trámite yo (sic) servicio relacionado con el establecimiento, funcionamiento, permanencia y ampliación de unidades económicas, desarrollos habitacionales, proyectos industriales, comerciales y de servicios en el Estado de México.
+
 XIX. Trámite: Solicitud o gestión que realizan las personas físicas o jurídicas colectivas, con base en un ordenamiento jurídico, ya sea para cumplir una obligación que tiene a su cargo, o bien para obtener información, un beneficio, un servicio o una resolución, y que la autoridad a que se refiere el propio ordenamiento está obligada a resolver en los términos del mismo.
 
 ###### Artículo 5.
@@ -201,7 +213,17 @@ XII. Presentar al Consejo un informe anual del avance programático de Mejora Re
 
 XIII. Brindar la asesoría técnica que requieran las dependencias estatales, organismos públicos descentralizados y las Comisiones Municipales, en la materia regulada por la Ley.
 
-XIV. Las demás que establezca esta Ley y demás disposiciones jurídicas aplicables.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XIV. Vigilar el funcionamiento del Sistema e informar por escrito a la Contraloría interna que corresponda, de los casos que tenga conocimiento sobre el presunto incumplimiento a lo previsto en esta Ley y su Reglamento.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XV. Las demás que establezca esta Ley y las disposiciones jurídicas aplicables.
 
 ###### Artículo 8.
 
@@ -253,9 +275,17 @@ XVIII. Opinar sobre la interpretación o aplicación de esta Ley y su Reglamento
 
 XIX. Llevar a cabo las Comisiones Temáticas de Mejora Regulatoria en coordinación con el Instituto Hacendario del Estado de México.
 
-> <small>(ADICIONADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-XX. Las demás que le otorgue esta Ley, su Reglamento y otras disposiciones aplicables, así como las que acuerde el Consejo.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XX. Presidir y conducir el Sistema.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XXI. Las demás que le otorgue esta Ley, su Reglamento y otras disposiciones aplicables, así como las que acuerde el Consejo.
 
 ### CAPÍTULO SEGUNDO. Del Consejo Estatal de Mejora Regulatoria
 
@@ -737,6 +767,92 @@ La Comisión Estatal y las Comisiones Municipales colocarán su respectivo Regis
 
 Los Ayuntamientos que no cuenten con un portal de internet, podrán celebrar un convenio de coordinación con la Comisión Estatal a efecto de que el Registro Estatal pueda hospedar su catálogo de trámites y servicios.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+## TÍTULO CUARTO BIS. DEL SISTEMA DE MEDIACIÓN Y CONCILIACIÓN PARA LA INVERSIÓN
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+### CAPÍTULO ÚNICO. De las Disposiciones Generales
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 38 Bis.
+
+El Sistema de Mediación y Conciliación, para la Inversión tiene como objeto analizar y dar seguimiento a las peticiones e inconformidades para el cumplimiento de trámites y servicios derivados de la gestión empresarial.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 38 Ter.
+
+Para el análisis y seguimiento de las solicitudes de mediación y conciliación que pudieran constituir infracciones administrativas en la gestión de trámites y servicios, se integrará el Sistema de la siguiente manera:
+
+I. Presidente, que será el titular de la Comisión Estatal.
+
+II. Un Secretario Técnico que será el Subdirector de Normatividad de la Comisión Estatal.
+
+III. Vocales:
+
+a) Titular del área de la dependencia responsable del trámite o servicio solicitado siempre y cuando no tenga carácter de involucrado.
+
+b) Contraloría interna de la Secretaría.
+
+c) Contraloría interna de la dependencia responsable del trámite o servicio solicitado.
+
+d) Un servidor público de la Dirección General de Atención Empresarial de la Secretaría, con nivel mínimo de jefe de departamento o su equivalente.
+
+e) Un servidor público de la Subdirección de Vinculación Interinstitucional de la Comisión Estatal, con nivel mínimo de jefe de departamento o su equivalente.
+
+f) Un servidor público de la Subdirección de Vinculación Municipal de la Comisión Estatal, con nivel mínimo de jefe de departamento o su equivalente para el caso de trámites o servicios de competencia municipal.
+
+Para el desarrollo de las sesiones es necesario la existencia de quórum, de la mitad más uno de la totalidad de los integrantes. El Presidente y los vocales tendrán derecho a voto, en caso de empate el Presidente tendrá veto de calidad. El peticionario o su representante legal y el o los servidores públicos involucrados tendrán derecho únicamente a voz.
+
+Los cargos de Presidente, vocales y secretario técnico del sistema serán honoríficos.
+
+En las sesiones, el Presidente y los vocales del Sistema, en caso de ausencia, deberán previamente nombrar a un suplente con nivel jerárquico inmediato inferior. El secretario técnico no podrá ser suplido.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 38 Quáter.
+
+El Sistema sesionará por lo menos una vez al mes de manera ordinaria y de manera extraordinaria, cuando se estime necesario, previa convocatoria.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 38 Quinquies.
+
+Una vez recibida la solicitud de mediación y conciliación por la Comisión Estatal y llevado a cabo el análisis que determine su seguimiento administrativo, el Presidente, a través del secretario técnico, previa convocatoria, citará a sesión a la peticionaria o peticionario y a la servidora, servidor o servidores públicos involucrados, además de los integrantes del Sistema.
+
+Para el caso que la servidora o el servidor público no asistan, se convocará a una segunda sesión y si persiste la inasistencia, el Sistema dará aviso de inmediato al órgano de control interno para que actúe conforme a la normativa aplicable, dando por concluido el trámite ante la Comisión Estatal.
+
+De igual forma se dará por concluido el trámite cuando la peticionaria o el peticionario no asistan.
+
+El plazo para citación para una segunda comparecencia no será mayor, a cinco días hábiles posteriores a la primera, para lo cual el Sistema sesionará de manera extraordinaria.
+
+En las sesiones del Sistema se hará saber al peticionario y servidor o servidores públicos involucrados la situación que motiva la solicitud de mediación y conciliación, orientando y motivando el cumplimiento de la normatividad respectiva, en tal caso, haciendo del conocimiento las posibles infracciones en que pudiere incurrir.
+
+Al finalizar la sesión, el Sistema emitirá inmediatamente y por mayoría de votos un pronunciamiento en el que declarará:
+
+a) El archivo de la solicitud de mediación y conciliación, cuando del estudio de la misma se desprenda que no existe infracción o incumplimiento por parte de la servidora o el servidor público, por lo que se orientará al peticionario para que concluya su trámite o servicio con observancia en la normatividad aplicable.
+
+b) La prevención a la o al servidor público para que ante la existencia de irregularidades legalmente subsanables, dé cumplimiento a lo previsto por la normativa aplicable, en los términos y condiciones que ésta dispone.
+
+c) Dar vista al órgano de control competente cuando corresponda, o en caso de reincidencia de la o el servidor público.
+
+d) Dejar a salvo los derechos del peticionario para que los haga valer ante las instancias y en los términos que considere.
+
 ## TÍTULO QUINTO
 
 ### CAPÍTULO ÚNICO. De las Infracciones Administrativas
@@ -813,9 +929,11 @@ IV. Destitución del empleo, cargo o comisión; y/o
 
 V. Inhabilitación de 1 a 10 años en el servicio público estatal y municipal.
 
-> <small>(ADICIONADO G.G. 15 DE OCTUBRE DE 2012)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-La Comisión respectiva a petición de parte, denunciará por escrito a la Controlaría que corresponda, de los casos que conozca sobre incumplimiento a lo previsto en esta Ley y su Reglamento, para efecto de que, conforme a sus atribuciones, instruya el procedimiento respectivo y aplique las sanciones correspondientes.
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+La Comisión Estatal dará vista a la Contraloría o al órgano de control interno que corresponda, de los casos que conozca sobre incumplimiento a lo previsto en esta Ley y su Reglamento, para que, conforme a sus atribuciones, instruya el procedimiento respectivo y aplique las sanciones correspondientes.
 
 ###### Artículo 41.
 
@@ -888,3 +1006,27 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
 
 CUARTO. El titular del Poder Ejecutivo del Estado y los ayuntamientos dispondrán hasta de treinta días hábiles para expedir la actualización del Reglamento de la Ley de Mejora Regulatoria del Estado de México y Municipios y de los reglamentos internos municipales, y de los correspondientes de las comisiones y comités.
+
+G.G. 7 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 120.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, DE LA LEY PARA LA MEJORA REGULATORIA DE ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO Y DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el primero de enero de dos mil diecisiete.
+
+TERCERO. La Comisión Estatal de Factibilidad se deberá instalar en plazo máximo de 30 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. La Comisión Estatal de Factibilidad emitirá su Reglamento interior dentro de los 30 días naturales posteriores a su instalación.
+
+QUINTO. A la entrada en vigor del presente decreto, los dictámenes y las prórrogas emitidas con anterioridad, conservarán la vigencia que tengan establecida.
+
+SEXTO. Los procedimientos iniciados antes de la entrada en vigor del presente decreto serán concluidos conforme a la legislación aplicable al momento en que se iniciaron.
+
+La persona física o jurídico colectiva que haya iniciado procedimientos antes de la entrada en vigor del presente decreto, podrá elegir la continuidad del mismo, o bien, reiniciar bajo los procedimientos establecidos en el presente decreto, en cuyo caso se admitirán los dictámenes ya obtenidos de las diferentes dependencias del Gobierno del Estado de México.
+
+SÉPTIMO. Cuando en otros ordenamientos se haga referencia a los dictámenes de factibilidad se tendrá por entendido que serán suplidos por el Dictamen Único de Factibilidad emitido por la Comisión Estatal de Factibilidad.
+
+OCTAVO. El Ejecutivo Estatal contará con un plazo no mayor a 30 días naturales posteriores a la entrada en vigor del presente Decreto, para emitir los ordenamientos jurídicos reglamentarios, en donde se establecerán los tiempos de respuesta por parte de las autoridades.
+
+NOVENO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
