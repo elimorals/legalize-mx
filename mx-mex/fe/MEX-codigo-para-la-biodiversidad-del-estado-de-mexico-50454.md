@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2015-08-19"
+last_updated: "2016-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2016.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -199,7 +199,11 @@ XIII. La regulación del aprovechamiento de los minerales o substancias no reser
 
 XIV. La preservación, conservación, protección, remediación, recuperación, rehabilitación o restauración del medio ambiente en los centros de población en relación con los efectos derivados de las obras y los servicios de alcantarillado, limpia, mercados, centrales de abasto, panteones, depósitos de basura, rastros, tránsito y transporte local;
 
-XV. La evaluación del impacto ambiental de obras, actividades o aprovechamientos que pudieren producir daño al medio ambiente en el territorio del Estado de conformidad con lo establecido en el presente Libro;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XV. La evaluación de impacto ambiental de obras, actividades o aprovechamientos, emitida al seno de la Comisión Estatal de Factibilidad, que pudieran producir daño al medio ambiente en el territorio del Estado de conformidad a lo establecido en el presente Libro.
 
 XVI. La regulación del manejo y disposición final de los residuos sólidos e industriales que no estén considerados como peligrosos conforme al presente Libro y al Libro Cuarto de este Código y demás ordenamientos aplicables;
 
@@ -349,7 +353,11 @@ XXV. Equilibrio ecológico: La relación de interdependencia entre los elementos
 
 XXVI. Estado: El Estado Libre y Soberano de México;
 
-XXVII. Evaluación de impacto ambiental: El procedimiento científico y técnico a través del cual las autoridades estatales y los organismos calificados identifican y predicen cuáles efectos ejercerán sobre el medio ambiente una acción o proyecto específico y autorizan la procedencia ambiental de dichos proyectos y las condiciones a las que se sujetarán los mismos para la realización de las obras, actividades o aprovechamientos con el fin de evitar o reducir al mínimo sus efectos negativos en el equilibrio ecológico o en el medio ambiente o a la biodiversidad;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XXVII. Evaluación de impacto ambiental. El procedimiento científico y técnico a través del cual al seno de la Comisión Estatal de Factibilidad, las autoridades estatales y los organismos calificados identifican y predicen cuáles efectos ejercerán sobre el medio ambiente una acción o proyecto específico y autorizan la procedencia ambiental de dichos proyectos y las condiciones a las que se sujetarán los mismos para la realización de las obras, actividades o aprovechamientos con el fin de evitar o reducir al mínimo sus defectos negativos en el equilibrio ecológico o en el medio ambiente o a la biodiversidad.
 
 XXVIII. Explotación: Uso de los recursos y elementos naturales renovables y no renovables que tiene como consecuencia un cambio significativo en el equilibrio de los ecosistemas;
 
@@ -461,7 +469,11 @@ c) La prevención y el control de la contaminación a la atmósfera generada por
 
 d) La regulación del aprovechamiento y uso racional, de la prevención y del control de la contaminación de aguas de jurisdicción estatal.
 
-e) La evaluación del impacto ambiental de los proyectos, obras, acciones y servicios que se ejecuten o se pretendan ejecutar en el Estado.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+e) La evaluación de impacto ambiental de los proyectos, obras, acciones y servicios emitida al seno de la Comisión Estatal de Factibilidad, que se ejecuten o se pretendan ejecutar en el Estado.
 
 f) La regulación con criterios ecológicos del aprovechamiento de los minerales o sustancias no reservadas a la Federación que constituyan depósitos de naturaleza semejante a los componentes de los terrenos, tales como rocas o productos de su fragmentación o descomposición que solo puedan utilizarse para la fabricación de materiales para la construcción u ornamentales.
 
@@ -1169,9 +1181,13 @@ IV. Una vez publicada en la Gaceta del Gobierno, su observancia será obligatori
 
 ### CAPITULO V. DE LA EVALUACION DEL IMPACTO AMBIENTAL
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 2.
 
-67. las personas físicas o jurídicas colectivas que pretendan la realización de actividades industriales, públicas o privadas, la ampliación de obras y plantas industriales existentes en el territorio del Estado o la realización de aquellas actividades que puedan tener como consecuencia la afectación a la biodiversidad, la alteración de los ecosistemas, el desequilibrio ecológico o puedan exceder los límites y lineamientos que al efecto fije el Reglamento del presente Libro, las normas técnicas estatales o las normas oficiales mexicanas deberán someter su proyecto a la aprobación de la autoridad ambiental estatal, siempre y cuando no se trate de obras o actividades que estén sujetas en forma exclusiva a la regulación federal. El procedimiento de evaluación de impacto ambiental será obligatorio, así como la manifestación de impacto ambiental que será evaluada por la Secretaría y estará sujeta a la autorización previa de ésta, asimismo estarán obligados al cumplimiento de los requisitos o acciones para mitigar el impacto ambiental que pudieran ocasionar sin perjuicio de otras autorizaciones que corresponda otorgar a las autoridades competentes. Estarán particularmente obligados quienes realicen:
+67. Las personas físicas o jurídicas colectivas que pretendan la realización de actividades industriales, públicas o privadas, la ampliación de obras y plantas industriales existentes en el territorio del Estado o la realización de aquellas actividades que puedan tener como consecuencia la afectación a la biodiversidad, la alteración de los ecosistemas, el desequilibrio ecológico o puedan exceder los límites y lineamientos que al efecto fije el Reglamento del presente Libro, las normas técnicas estatales o las normas oficiales mexicanas deberán someter su proyecto a la aprobación de la Comisión Estatal de Factibilidad, siempre y cuando no se trate de obras o actividades que estén sujetas en forma exclusiva a la regulación federal. El procedimiento de evaluación de impacto ambiental será obligatorio, así como la manifestación de impacto ambiental que será evaluada por la Secretaría y estará sujeta a la autorización previa de ésta, asimismo estarán obligados al cumplimiento de los requisitos o acciones para mitigar el impacto ambiental que pudieran ocasionar sin perjuicio de otras autorizaciones que corresponda otorgar a las autoridades competentes. Estarán particularmente obligados quienes realicen:
 
 I. Obra pública estatal y municipal;
 
@@ -1187,7 +1203,11 @@ VI. Sistemas de manejo y disposición de residuos sólidos urbanos, industriales
 
 VII. Confinamientos, rellenos sanitarios, sitios de disposición, estaciones de transferencia, e instalaciones de tratamiento o de eliminación de residuos sólidos urbanos y de manejo especial;
 
-VIII. Conjuntos urbanos, nuevos centros de población y los usos de suelo que requieran de dictamen de impacto regional en términos del Libro Quinto de este Código;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+VIII. Conjuntos urbanos, nuevos centros de población y los usos de suelo que requieran de Dictamen Único de Factibilidad en términos del Libro Quinto de este Código.
 
 IX. Terminales de transporte para pasajeros y de carga, de carácter estatal o municipal;
 
@@ -1261,9 +1281,13 @@ Los promoventes de la obra o actividad podrán solicitar que se mantenga en rese
 
 69. Al realizar la evaluación del impacto ambiental, la Secretaría se ajustará a los programas de ordenamiento ecológico del territorio y considerará los planes de desarrollo urbano, las declaratorias de áreas naturales protegidas y sus programas de manejo, las normas y demás disposiciones jurídicas que resulten aplicables.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 2.
 
-70. Una vez evaluado el informe previo, manifiesto de impacto o estudio de riesgo ambiental, la Secretaría emitirá, en un término no mayor a treinta días hábiles, contados a partir del día siguiente a su recepción, debidamente fundada y motivada, la resolución correspondiente, en la que podrá:
+70. Una vez evaluado el informe previo, manifiesto de impacto o estudio de riesgo ambiental, la Secretaría, al seno de la Comisión Estatal de Factibilidad, emitirá debidamente fundada y motivada, la resolución correspondiente, en la que podrá:
 
 I. Autorizar la instrumentación de los planes y programas, así como la realización de la obra o actividad de que se trate, en los términos solicitados;
 
@@ -1323,27 +1347,35 @@ En aquellos casos que por negligencia, dolo o mala fe se ingrese el informe prev
 
 77. La persona que construya una obra nueva, amplíe una existente, o explote recursos naturales sin contar previamente con la autorización de impacto ambiental respectiva o que contando con ésta incumpla los requisitos y condiciones establecidos en la misma o en este Libro, estará obligada a reparar los daños ambientales que con tal motivo hubiere causado, sin perjuicio de la aplicación de las sanciones respectivas.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 2.
 
-78. Las personas afectadas directamente o los representantes de una organización social que acrediten su interés ante la Secretaría, tendrán derecho a formular por escrito dentro del expediente del procedimiento administrativo correspondiente, observaciones y propuestas respecto de las obras, actividades o aprovechamientos sujetos a evaluación de impacto ambiental. Para tal efecto el promovente del proyecto deberá exhibir por duplicado ante la autoridad competente el informe previo o manifestación de impacto ambiental, éste será publicado en términos del presente Libro y su Reglamento.
+78. Las personas afectadas directamente o los representantes de una organización social que acrediten su interés ante (sic) Comisión Estatal de Factibilidad, tendrán derecho a formular por escrito dentro del expediente del procedimiento administrativo correspondiente, observaciones y propuestas respecto de las obras, actividades o aprovechamientos sujetos a la evaluación de impacto ambiental.
 
 El Reglamento establecerá la forma a través de los cuales se hará efectivo el derecho a que se refiere el párrafo anterior para lo cual determinará las formalidades, plazos y demás circunstancias que resulten necesarias para garantizar adecuadamente los derechos a que se refieren los artículos 1.2 fracción I del Libro Primero de este Código y 2.27 fracción II del presente Libro.
 
 La persona que haga uso de las formas de participación social a los que se refiere este Libro sin motivos razonablemente fundados, realizando observaciones y peticiones notoriamente frívolas con el ánimo de entorpecer y retardar los procedimientos administrativos de evaluación de impacto ambiental, se hará acreedora a una sanción de hasta diez mil días de salario mínimo general vigente en el Estado, sin perjuicio de las responsabilidades civiles y penales en las que pudiera incurrir de acuerdo a lo previsto en el presente Código y demás leyes que resulten aplicables.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 2.
 
-79. La resolución que ponga fin a un procedimiento de evaluación de impacto ambiental podrá autorizar, condicionar o negar la autorización para la realización del proyecto sometido a evaluación.
+79. La resolución que ponga fin a un procedimiento de evaluación de impacto ambiental podrá, al seno de la Comisión Estatal de Factibilidad autorizar, condicionar o negar la autorización para la realización del proyecto sometido a evaluación.
 
 Para la negativa, autorización condicionada o definitiva de las obras, actividades o aprovechamientos a los que se refiere este Capítulo, la autoridad competente deberá fundar su resolución en lo dispuesto por este Libro, su Reglamento y demás disposiciones jurídicas que resulten aplicables y atenderá a las condiciones y límites establecidos en las normas oficiales mexicanas, criterios ecológicos y normas técnicas estatales, los planes de desarrollo urbano y de ordenamiento ecológico del territorio Estatal, así como a las observaciones y propuestas que resulten fundadas y que se hayan realizado de acuerdo a lo previsto en este Ordenamiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 2.
 
-80. El Reglamento del presente Libro establecerá los plazos y actos a que se sujetará la integración del expediente de evaluación de impacto ambiental mismo que, en ningún caso, podrá exceder de los cinco días hábiles siguientes a la presentación del estudio pertinente. La autoridad, a partir de que esté integrado el expediente o que concluya el término indicado, contará con un plazo de dos días hábiles para emitir la resolución, concediendo la autorización o negándola, la que deberá ser notificada personalmente.
+80. El Reglamento de la Comisión Estatal de Factibilidad establecerá los plazos y actos a que se sujetará la integración del expediente de evaluación de impacto ambiental, la cual a partir de la integración del expediente, emitirá la resolución, concediendo la autorización o negándola, la que deberá ser notificada personalmente.
 
 ###### Artículo 2.
 
@@ -3333,7 +3365,11 @@ La resolución de la Secretaría sólo se referirá a los aspecto (sic) ambienta
 
 311. La valoración económica la realizará la Secretaría a efecto de determinar el monto de cobertura que deberá comprender la garantía financiera o la póliza de seguro que se contrate con base en la evaluación de impacto ambiental que al efecto se requiera.
 
-De igual forma la Secretaría podrá negar la autorización para efectuar las citadas actividades cuando considere que el desempeño de las mismas será de franca e irremediable afectación ecológica que dañe a la biodiversidad.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+De igual forma la Secretaría al seno de la Comisión Estatal de Factibilidad podrá negar la evaluación para efectuar las citadas actividades cuando considere que el desempeño de las mismas será de franca e irremediable afectación ecológica que dañe a la biodiversidad.
 
 ###### Artículo 2.
 
@@ -4477,7 +4513,7 @@ XV. Residuos orgánicos: Todo residuo sólido biodegradable;
 
 XVI. Residuos sólidos: El material, producto o subproducto que sin ser considerado como peligroso se descarte o deseche y que sea susceptible de ser aprovechado o requiera sujetarse a métodos de tratamiento o disposición final;
 
-XVII. Reutilizar: El empleo de un producto usado para el mismo fin para el que fue diseñado originariamente o destinada para otro fin útil;
+XVII. Reutilizar: El empleo de un productousado para el mismo fin para el que fue diseñado originariamente o destinada para otro fin útil;
 
 XVIII. Secretaría: La Secretaría del Medio Ambiente del Estado de México;
 
@@ -7864,3 +7900,27 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno”.
 
 TERCERO. La Secretaría del Medio Ambiente del Estado de México, contará con un plazo de sesenta días naturales para adecuar el Reglamento del Libro Quinto del Código para la Biodiversidad del Estado de México y demás disposiciones en la materia.
+
+G.G. 7 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 120.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO Y DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial 'Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el primero de enero de dos mil diecisiete.
+
+TERCERO. La Comisión Estatal de Factibilidad se deberá instalar en un plazo máximo de 30 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. La Comisión Estatal de Factibilidad emitirá su Reglamento interior dentro de los 30 días naturales posteriores a su instalación.
+
+QUINTO. A la entrada en vigor del presente decreto, los dictámenes y las prórrogas emitidas con anterioridad, conservarán la vigencia que tengan establecida.
+
+SEXTO. Los procedimientos iniciados antes de la entrada en vigor del presente decreto serán concluidos conforme a la legislación aplicable al momento en que se iniciaron.
+
+La persona física o jurídico colectiva que haya iniciado procedimientos antes de la entrada en vigor del presente decreto, podrá elegir la continuidad del mismo, o bien, reiniciar bajo los procedimientos establecidos en el presente decreto, en cuyo caso se admitirán los dictámenes ya obtenidos de las diferentes dependencias del Gobierno del Estado de México.
+
+SÉPTIMO. Cuando en otros ordenamientos se haga referencia a los dictámenes de factibilidad se tendrá por entendido que serán suplidos por el Dictamen Único de Factibilidad emitido por la Comisión Estatal de Factibilidad.
+
+OCTAVO. El Ejecutivo Estatal contará con un plazo no mayor a 30 días naturales posteriores a la entrada en vigor del presente Decreto, para emitir los ordenamientos jurídicos reglamentarios, en donde se establecerán los tiempos de respuesta por parte de las autoridades.
+
+NOVENO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
