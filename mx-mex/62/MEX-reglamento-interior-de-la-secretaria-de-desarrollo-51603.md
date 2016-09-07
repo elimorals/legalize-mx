@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-desarrollo-51603"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-08-21"
-last_updated: "2009-03-12"
+last_updated: "2016-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51603&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO AGROPECUARIO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO AGROPECUARIO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE MARZO DE 2009.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO, PUBLICADO EN EL P.O. DE 7 DE SEPTIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2016 (ABROGADA).
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 21 de agosto de 2006.
 
@@ -786,3 +788,17 @@ PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que sean contrarias a lo dispuesto en el presente Acuerdo.
+
+P.O. 7 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO”.]
+
+PRIMERO. Publíquese el presente Reglamento en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Agropecuario publicado en el periódico oficial "Gaceta del Gobierno" el 21 de agosto de 2006.
+
+CUARTO. Los asuntos pendientes de atender por la Dirección General de Desarrollo Rural y Comercialización a la entrada en vigor del presente Reglamento, serán tramitados y concluidos por la Dirección General de Desarrollo Rural y por la Dirección General de Comercialización Agropecuaria, de acuerdo con las atribuciones que les son conferidas en el presente Reglamento.
+
+QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Reglamento.
