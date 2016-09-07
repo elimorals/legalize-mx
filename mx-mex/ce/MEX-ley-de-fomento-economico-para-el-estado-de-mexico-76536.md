@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fomento-economico-para-el-estado-de-mexico-76536"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-07"
-last_updated: "2016-08-03"
+last_updated: "2016-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera de la Gaceta de Gobierno del Estado de México, el martes 7 de septiembre de 2010.
 
@@ -137,7 +137,11 @@ XXXI. Registro: Al Registro Estatal de Desarrollo Económico;
 
 XXXII. Reglamento: Al Reglamento de esta Ley expedido por el Gobernador del Estado;
 
-XXXIII. SAREMEX: Al Sistema de Apertura Rápida de Empresas del Estado de México, instrumento con base en el cual se atiende la gestión empresarial relativa a actividades económicas de bajo riesgo que no requieren del dictamen de impacto regional;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XXXIII. SAREMEX: Al Sistema de Apertura Rápida de Empresas del Estado de México, instrumento con base en el cual se atiende la gestión empresarial relativa a actividades económicas de balo (sic) riesgo que no requieren del dictamen único de factibilidad.
 
 XXXIV. Secretaría: A la Secretaría de Desarrollo Económico del Estado de México;
 
@@ -1055,13 +1059,23 @@ Las autorizaciones, permisos, licencias, dictámenes, cédulas, constancias y ot
 
 I. Dictamen de servicios de agua potable, drenaje y saneamiento. Consiste en la certificación que emite el correspondiente organismo prestador del servicio, en los términos de la Ley del Agua del Estado de México, en la que se definen los puntos de conexión de agua potable y los de descargas de aguas residuales, tratadas o no, según el caso;
 
-II. Dictamen de incorporación e impacto vial. Consiste en la opinión técnica de la autoridad de Comunicaciones a que se refiere el Libro Séptimo del Código Administrativo, que determina la factibilidad de incorporar a la infraestructura vial, el flujo vehicular y peatonal que eventualmente derivaría de la construcción, ampliación, modernización u operación de edificaciones o instalaciones que conllevan un impacto regional, así como las obras y acciones que, en su caso, deban llevarse a cabo para mitigar su efecto;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-III. Dictamen de protección civil. Consiste en la opinión que en esta materia emite la autoridad respectiva, en los términos del Libro Sexto del Código Administrativo;
+II. (DEROGADA, G.G. 7 DE SEPTIEMBRE DE 2016)
 
-IV. Dictamen de evaluación del impacto ambiental. Consiste en la valoración que realiza la Secretaría del Medio Ambiente, acerca de la procedencia o no de un proyecto específico que le es presentado, en términos del impacto ambiental que el mismo puede generar, de acuerdo con lo previsto por el Código para la Biodiversidad del Estado de México;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-V. Dictamen de impacto regional. Consiste en la integración que realiza la Secretaría de Desarrollo Urbano de los dictámenes a que se refieren las fracciones I a la IV del presente artículo, que el particular ha obtenido, así como los dictámenes de las dependencias federales cuando las características de la zona donde se ubique el predio a desarrollar así lo requieran, en los términos de la legislación federal. Es exigible a aquellos proyectos que generen impacto regional en la infraestructura y equipamiento urbano y en los servicios públicos, de acuerdo con lo previsto por el Libro Quinto del Código Administrativo;
+III. (DEROGADA, G.G. 7 DE SEPTIEMBRE DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+IV. (DEROGADA, G.G. 7 DE SEPTIEMBRE DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+V. Dictamen Único de Factibilidad. Es el resultado del análisis normativo multidisciplinario que tiene como finalidad determinar la factibilidad de los proyectos que por su uso o aprovechamiento del suelo generen efectos en el equipamiento urbano, infraestructura, servicios públicos y en el entorno ambiental, para garantizar le (sic) salud de la población, sus bienes, la belleza paisajística y la calidad de vida. Es exigible a aquellos proyectos que generen impacto regional en la infraestructura y equipamiento urbano y en los servicios públicos, de acuerdo con lo previsto en el Código Administrativo del Estado de México.
 
 VI. Permiso sanitario de inicio de construcción y de ocupación de obra. Consiste en la autorización para que una persona física o jurídica colectiva, realice actividades relacionadas con el inicio y ocupación de obras de construcción, reconstrucción, modificación o acondicionamiento de determinados establecimientos, y que están reguladas por el Libro Segundo del Código Administrativo;
 
@@ -1075,7 +1089,11 @@ IX. Cédula informativa de zonificación. Es el documento que expide la autorida
 
 El Catálogo Mexiquense de Actividades Industriales, Comerciales y de Servicios de Bajo Riesgo, establecerá las actividades económicas que estarán exentas del cumplimiento de los trámites previstos en el artículo anterior, y en él se señalarán expresamente los que sean aplicables a cada actividad.
 
-Las actividades contenidas en el Catálogo se gestionarán al amparo del SAREMEX, salvo los casos de excepción que, de acuerdo con otras disposiciones legales aplicables, requieran dictamen de impacto regional.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+Las actividades contenidas en el Catálogo se gestionarán al amparo del SAREMEX, salvo los casos de excepción que, de acuerdo con otras disposiciones legales aplicables, requieran Dictamen Único de Factibilidad.
 
 ### Capítulo Segundo. Del Sistema de Apertura Rápida de Empresas del Estado de México
 
@@ -1085,9 +1103,13 @@ El SAREMEX es el conjunto de acciones orientadas a la gestión ágil y expedita 
 
 La Secretaría promoverá la celebración de convenios con las dependencias federales y municipales, a efecto de asegurar la adecuada operación del SAREMEX.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 55.
 
-El SAREMEX contará con un conjunto de normas, instancias, instrumentos, políticas, acciones y servicios orientados a coordinar, controlar, gestionar y evaluar los procesos a cargo de las dependencias estatales y municipales del Estado de México, competentes para la emisión de autorizaciones, permisos, licencias, dictámenes, cédulas, constancias y otras resoluciones, relativos a la instalación, apertura, operación y ampliación de empresas en la Entidad, cuya actividad económica no requiera del dictamen de impacto regional.
+El SAREMEX contará con un conjunto de normas, instancias, instrumentos, políticas, acciones y servicios orientados a coordinar, controlar, gestionar y evaluar los procesos a cargo de las dependencias estatales y municipales del Estado de México, competentes para la emisión de autorizaciones, permisos, licencias, dictámenes, cédulas, constancias y otras resoluciones, relativos a la instalación, apertura, operación y ampliación de empresas en la Entidad, cuya actividad económica no requiera del dictamen único de factibilidad.
 
 > <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
 
@@ -1526,3 +1548,27 @@ G.G. 3 DE AGOSTO DE 2016.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 7 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 120.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO Y DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial 'Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el primero de enero de dos mil diecisiete.
+
+TERCERO. La Comisión Estatal de Factibilidad se deberá instalar en un plazo máximo de 30 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. La Comisión Estatal de Factibilidad emitirá su Reglamento interior dentro de los 30 días naturales posteriores a su instalación.
+
+QUINTO. A la entrada en vigor del presente decreto, los dictámenes y las prórrogas emitidas con anterioridad, conservarán la vigencia que tengan establecida.
+
+SEXTO. Los procedimientos iniciados antes de la entrada en vigor del presente decreto serán concluidos conforme a la legislación aplicable al momento en que se iniciaron.
+
+La persona física o jurídico colectiva que haya iniciado procedimientos antes de la entrada en vigor del presente decreto, podrá elegir la continuidad del mismo, o bien, reiniciar bajo los procedimientos establecidos en el presente decreto, en cuyo caso se admitirán los dictámenes ya obtenidos de las diferentes dependencias del Gobierno del Estado de México.
+
+SÉPTIMO. Cuando en otros ordenamientos se haga referencia a los dictámenes de factibilidad se tendrá por entendido que serán suplidos por el Dictamen Único de Factibilidad emitido por la Comisión Estatal de Factibilidad.
+
+OCTAVO. El Ejecutivo Estatal contará con un plazo no mayor a 30 días naturales posteriores a la entrada en vigor del presente Decreto, para emitir los ordenamientos jurídicos reglamentarios, en donde se establecerán los tiempos de respuesta por parte de las autoridades.
+
+NOVENO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
