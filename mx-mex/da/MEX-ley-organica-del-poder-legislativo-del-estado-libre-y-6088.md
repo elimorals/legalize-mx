@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2016-03-14"
+last_updated: "2016-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -727,7 +727,7 @@ La Junta de Coordinación Política contará para su buen funcionamiento con un 
 
 El Presidente, los Vicepresidentes y el Secretario duraran un año, al término del cual, la Asamblea elegirá, en la segunda sesión ordinaria del primer período de sesiones del año que corresponda, de entre los integrantes de la Junta de Coordinación Política a quienes deberán ocupar dichos cargos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2004)</small>
+(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2004) (REPUBLICADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)
 
 ###### Artículo 62.
 
@@ -785,11 +785,15 @@ XV.- Proponer a la Asamblea, a más tardar en el mes de noviembre, el Tabulador 
 
 > <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2012)</small>
 
-XVI. Coordinar las tareas legislativas, políticas y administrativas de la Legislatura; y
+XVI.- Coordinar las tareas legislativas, políticas y administrativas de la Legislatura; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 21 DE JULIO DE 2006)</small>
 
-XVII. Las demás que le confieran la ley, el reglamento o la Asamblea.
+XVII.- Las demás que le confieran la ley, el reglamento o la Asamblea.
+
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XVIII.- Poder otorgar de manera anual, en representación de la Legislatura, durante el mes de septiembre, la Orden Mexiquense de la Medalla de Honor "José María Luis Mora" al o a los mexiquenses que se hayan distinguido por sus méritos en el ámbito cultural, académico, artístico, deportivo, científico, social, económico o político; para lo cual se observará lo dispuesto en el Decreto que crea dicho reconocimiento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -2154,3 +2158,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. La integración de la Comisión de Protección Ambiental, así como los asuntos que le hayan sido turnados, corresponderán a la Comisión de Protección Ambiental y Cambio Climático.
+
+G.G. 7 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 122.- POR EL QUE SE ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 62 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los 5 días del mes de septiembre del año dos mil dieciséis.
