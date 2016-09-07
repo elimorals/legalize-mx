@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-que-regula-el-funcionamiento-de-los-mercados-25861"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-05-28"
-last_updated: "1993-05-28"
+last_updated: "2016-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO QUE REGULA EL FUNCIONAMIENTO DE LOS MERCADOS RODANTES PARA EL MUNICIPIO DE PESQUERIA, NUEVO LEON
 
-REGLAMENTO QUE REGULA EL FUNCIONAMIENTO DE LOS MERCADOS RODANTES
+REGLAMENTO PARA EL USO DE LA VÍA PÚBLICA EN EL EJERCICIO DE LA ACTIVIDAD COMERCIAL DE PESQUERÍA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO PARA EL USO DE LA VÍA PÚBLICA EN EL EJERCICIO DE LA ACTIVIDAD COMERCIAL DE PESQUERIA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 7 DE SEPTIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2016 (ABROGADA).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 28 de mayo de 1993.
 
@@ -402,3 +404,17 @@ C. Rogelio González Guajardo
 C. SECRETARIO DEL AYUNTAMIENTO
 
 Lic. Jesús Manuel Lizárraga Lozano
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO PARA EL USO DE LA VÍA PÚBLICA EN EL EJERCICIO DE LA ACTIVIDAD COMERCIAL DE PESQUERIA, NUEVO LEÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, mismo que es aprobado por el Ayuntamiento de Pesquería, Nuevo León, en la Sesión Ordinaria Decima Novena de fecha 22 de Agosto de 2016, Administración 2015-2018.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga o queda sin efectos el Reglamento que Regula el Funcionamiento de los Mercados Rodantes, publicado en el periódico oficial en fecha 28 de Mayo de 1993.
