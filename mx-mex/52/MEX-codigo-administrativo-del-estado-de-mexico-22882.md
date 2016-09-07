@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2016-06-15"
+last_updated: "2016-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2016.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -36,8 +36,6 @@ DECRETO NUMERO 41
 LA H. "LIV" LEGISLATURA DEL ESTADO DE MEXICO
 
 DECRETA:
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEXTO DEL DECRETO NÚMERO 27, PUBLICADO EN LA G.G. DE 19 DE NOVIEMBRE DE 2015, LAS REFERENCIAS QUE EN LO SUCESIVO SE REALICEN A SALARIOS MÍNIMOS GENERALES DEL ÁREA GEOGRÁFICA (A A C) QUE CORRESPONDA, EN LOS ORDENAMIENTOS JURÍDICOS Y ADMINISTRATIVOS ESTATALES, SE ENTENDERÁN QUE SE REFIEREN A "SALARIO MÍNIMO GENERAL VIGENTE".</small>
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
@@ -235,11 +233,11 @@ XIII. Resolver expresamente todos los puntos propuestos por los interesados o pr
 
 10.- Todo acto administrativo se presumirá válido mientras no haya sido declarada su invalidez, y será eficaz y exigible desde el momento en que la notificación del mismo surta sus efectos, salvo cuando el acto tenga señalada una fecha de vigencia, en cuyo supuesto se estará a la fecha de inicio de dicha vigencia, siempre y cuando haya surtido efectos la notificación respectiva, o cuando haya operado la afirmativa o negativa ficta. Tratándose de actos administrativos por los que se otorguen beneficios a los particulares, éstos podrán exigir su cumplimiento desde la fecha en que se haya emitido el acto o desde aquélla que tenga señalada para iniciar su vigencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-Todo acto administrativo que se emita para la apertura y funcionamiento de unidades económicas o negocios de bajo riesgo, en ningún caso estará condicionado al pago de contribuciones ni a donación alguna y requerirá, únicamente, los documentos y datos que se indiquen en forma expresa en la ley de la materia y los registros estatal y municipal de trámites y servicios. La exigencia de cargas tributarias, dádivas o cualquier otro concepto que condicione su expedición será sancionada en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+Todo acto administrativo que se emita para la apertura y funcionamiento de unidades económicas, en ningún caso estará condicionado al pago de contribuciones ni a donación alguna y requerirá, únicamente, los documentos y datos que se indiquen en forma expresa en la ley de la materia y los registros estatal y municipal de trámites y servicios. La exigencia de cargas tributarias, dádivas o cualquier otro concepto que condicione su expedición será sancionada en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
 Se considera que ha operado la afirmativa ficta cuando la autoridad competente haya expedido la certificación respectiva, o no haya dado respuesta a la solicitud de certificación en el plazo a que se refiere el segundo párrafo del artículo 135 del Código de Procedimientos Administrativos del Estado de México, o cuando así lo haya declarado el Tribunal Contencioso Administrativo. Tratándose de la negativa ficta, ésta operará cuando el interesado la haga valer al promover el medio de impugnación correspondiente.
 
@@ -301,25 +299,87 @@ IX. Las demás que se establezcan en las disposiciones aplicables.
 
 La tramitación de esta declaratoria de extinción de los efectos del acto administrativo no otorga derechos al particular, no constituirá recurso alguno y tampoco suspenderá la ejecución del acto.
 
-> <small>(DEROGADO POR ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-## TITULO CUARTO. De la mejora regulatoria
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(DEROGADO POR ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+## TITULO CUARTO. De la Comisión Estatal de Factibilidad
 
-### CAPITULO PRIMERO. Disposiciones generales
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+### CAPÍTULO PRIMERO. Disposiciones Generales
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 1.
 
-17.- (DEROGADO POR ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
+17.- La Comisión Estatal de Factibilidad es el órgano técnico de coordinación intergubernamental adscrito a la Consejería Jurídica, encargada de emitir el Dictamen Único de Factibilidad en materia de salud, desarrollo urbano, protección civil, medio ambiente, desarrollo económico, infraestructura, cuando así lo requieran los requisitos para la apertura y funcionamiento de una unidad económica.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 1.
 
-18.- (DEROGADO POR ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
+18.- La Comisión Estatal de Factibilidad se integrará por:
+
+I. Un Presidente, que será la o el Titular de la Consejería Jurídica del Ejecutivo Estatal.
+
+II. Un Secretario Técnico, que será la o el Director General del Instituto de la Función Registral del Estado de México.
+
+III. Seis Vocales, que serán:
+
+a) La o el Titular de la Coordinación General de Protección Civil.
+
+b) La o el Titular de la Dirección General de Ordenamiento e Impacto Ambiental.
+
+c) La o el Titular de la Dirección General de Vialidad.
+
+d) La o el Titular de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México.
+
+e) La o el Titular de la Dirección General de Comercio.
+
+f) La o el Titular de la Dirección General de Operación Urbana.
+
+En el supuesto que por las características especiales del proyecto, se considere necesaria la intervención de otras dependencias u organismos estatales o municipales, la o el Presidente los podrá invitar a las sesiones respectivas únicamente con derecho a voz.
+
+Con excepción del Secretario Técnico, los integrantes de la Comisión Estatal de Factibilidad podrán designar a un suplente, con nivel mínimo de director de área.
+
+Los cargos de los integrantes e invitados de la Comisión Estatal de Factibilidad serán honoríficos.
+
+En el desarrollo de las sesiones, los miembros de la Comisión Estatal de Factibilidad tendrán derecho a voz y voto, a excepción del Secretario Técnico, quien solo tendrá derecho a voz.
+
+La Comisión sesionará como lo establezca su Reglamento Interior.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 1.
 
-19.- (DEROGADO POR ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
+19.- Para el cumplimiento de sus fines, la Comisión Estatal de Factibilidad tendrá las facultades siguientes:
+
+I. Atender y resolver de manera permanente, colegiada e integral, en los tiempos establecidos en la legislación aplicable, las solicitudes de Dictamen Único de Factibilidad, presentadas por las personas físicas o jurídicas colectivas, dictaminando sobre su procedencia o improcedencia.
+
+II. Solicitar la colaboración de las dependencias del Ejecutivo del Estado y de organismos auxiliares de carácter estatal, para comprobar el cumplimiento de los requisitos para la expedición del Dictamen Único de Factibilidad, en los términos, condiciones y requisitos establecidos en la legislación correspondiente.
+
+III. Establecer el formato para la integración de la carpeta del proyecto que contendrá los trámites, requisitos y tiempos de respuesta, para obtener el Dictamen Único de Factibilidad.
+
+IV. Emitir el Dictamen Único de Factibilidad, en caso de ser procedente.
+
+V. Sesionar, en términos del Reglamento Interior que al efecto expida.
+
+VI. Crear y actualizar de manera semanal el registro de las unidades económicas que cuenten con el Dictamen Único de Factibilidad, así como de aquellas que soliciten dicho dictamen o el refrendo de su licencia de funcionamiento.
+
+VII. Solicitar al Instituto de Verificación Administrativa del Estado de México, la realización de las visitas colegiadas multidisciplinarias correspondientes.
+
+VIII. Expedir su Reglamento Interior.
+
+IX. Las demás que le confieran otras disposiciones legales.
 
 ###### Artículo 1.
 
@@ -2731,11 +2791,13 @@ XIII. Las demás que determine este Libro.
 
 Para efectos de este Título se entiende por control sanitario el conjunto de acciones de orientación, educación, muestreo, verificación y, en su caso, aplicación de medidas de seguridad y sanciones.
 
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 2.
 
-49 Bis.- Para la prestación del servicio público de rastros se deberá contar con el Dictamen de Factibilidad de Impacto Sanitario que expida el Consejo Rector de Impacto Sanitario.
+49 Bis.- Para la prestación del servicio público de rastros se deberá contar con el Dictamen Único de Factibilidad emitido por la Comisión Estatal de Factibilidad.
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
 
@@ -2743,45 +2805,23 @@ Para efectos de este Título se entiende por control sanitario el conjunto de ac
 
 49 Ter.- Los concesionarios de los rastros deberán contar con la licencia de funcionamiento vigente que autorice sus actividades, misma que se colocará en un lugar visible.
 
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 2.
 
-49 Quáter.- El Dictamen de Factibilidad de Impacto Sanitario es un requisito obligatorio para que los ayuntamientos refrenden las licencias de funcionamiento de los rastros.
+49 Quáter.- El Dictamen Único de Factibilidad emitido por la Comisión Estatal de Factibilidad, es un requisito obligatorio para que los ayuntamientos refrenden las licencias de funcionamiento de los rastros.
 
-Este documento tendrá vigencia de un año y será de carácter personal e intransferible, por ende, todo acto contrario a lo señalado será nulo de pleno derecho.
-
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### Artículo 2.
 
-49 Quinquies.- Son requisitos para la expedición del Dictamen de Factibilidad de Impacto Sanitario:
+49 Quinquies.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2016)
 
-I. Solicitud firmada por el interesado que deberá presentar vía electrónica o por escrito, manifestando, bajo protesta de decir verdad, que los datos en ella contenidos son ciertos.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-II. A la solicitud se acompañará el original para cotejo y copia de:
-
-a. Identificación oficial vigente del solicitante que contenga fotografía y firma. En caso de que no sea él quien realice el trámite, el representante legal deberá presentar poder notarial y copia de identificación oficial del poderdante, apoderado y dos testigos. Tratándose de personas jurídico colectivas deberán presentar el instrumento notarial con el que se acredite la personalidad.
-
-b. Documento con el que se acredite la propiedad o posesión del inmueble donde se encuentre instalado o se pretenda instalar el rastro.
-
-c. Aviso de funcionamiento emitido por la jurisdicción da regulación sanitaria del lugar donde se encuentre instalado o se pretenda instalar el rastro.
-
-d. Acta constitutiva en caso de ser persona jurídica colectiva.
-
-e. Fotografías de la fachada y del interior del inmueble.
-
-f. En su caso, licencia de funcionamiento que se pretenda renovar.
-
-g. Croquis de localización, señalando colindancias.
-
-h. Acreditar que el rastro cumpla con las condiciones de higiene y seguridad que establezcan las disposiciones legales y normas sanitarias.
-
-i. Opinión emitida por la autoridad auxiliar correspondiente, en su caso.
-
-III. Las demás que señalen otras disposiciones jurídicas aplicables.
-
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 #### SECCION SEGUNDA. De las medidas de seguridad sanitaria
 
@@ -2915,15 +2955,19 @@ Las escalas de los cuerpos técnico profesional están integradas por el persona
 
 ###### Artículo 2.
 
-49 Sexies.- Se negará el Dictamen de Factibilidad de Impacto Sanitario cuando se incumpla con cualquiera de los requisitos establecidos en este Código.
+49 Sexies.- Se negará el Dictamen Único de Factibilidad emitido por la Comisión Estatal de Factibilidad, cuando se incumpla con cualquiera de los requisitos establecidos en Reglamento de la Comisión Estatal de Factibilidad.
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 2.
 
-49 Septies.- Para efectos del presente Capítulo, el Consejo Rector de Impacto Sanitario tendrá las funciones siguientes:
+49 Septies.- Para efectos del presento Capítulo, el Consejo Rector de Impacto Sanitario tendrá las funciones siguientes:
 
-I. Emitir el Dictamen de Factibilidad de Impacto Sanitario, para el funcionamiento de rastros.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+I. Emitir la Evaluación Técnica de Factibilidad de Impacto Sanitario, al seno de la Comisión Estatal de Factibilidad, para el funcionamiento de rastros.
 
 II. Elaborar el diagnóstico de la situación que prevalece en materia de rastros y su impacto sanitario en la comunidad, debiéndose allegar para ello de la información correspondiente.
 
@@ -3177,9 +3221,13 @@ VIII. La desocupación o desalojo de casas, edificios, establecimientos y, en ge
 
 IX. La prohibición de actos de uso, que es la determinación mediante la cual se ordena a los poseedores, encargados u ocupantes la utilización de los aparatos, equipos, sustancias, productos terminados, recipientes o cualquier otro implemento empleado en procesos de producción de bienes y servicios o para la prestación de servicios; y
 
-(REFORMADA, G.G. 29 DE AGOSTO DE 2013) (F. DE E., G.G. 30 DE OCTUBRE DE 2013)
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-X. La suspensión temporal hasta por noventa días a establecimientos con venta o suministro de bebidas alcohólicas, que no cuenten con el Dictamen de Factibilidad de Impacto Sanitario en términos del artículo 2.48 Quintus o incumplan con el horario autorizado, contraten, vendan o suministren bebidas alcohólicas a menores de edad.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+X. La suspensión temporal hasta por noventa días a establecimientos con venta o suministro de bebidas alcohólicas, que no cuenten con el Dictamen Único de Factibilidad emitido por la Comisión Estatal de Factibilidad o incumplan con el horario autorizado, contraten, vendan o suministren bebidas alcohólicas a menores de edad.
+
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
 
 Una vez aplicada esta medida de seguridad, se podrá iniciar con el procedimiento administrativo establecido en el Código de Procedimientos Administrativos del Estado de México, a fin de que en caso de que se mantenga el incumplimiento, se sancione con la clausura temporal o definitiva, parcial o total, según corresponda. Además se procederá penalmente conforme a la ley de la materia.
 
@@ -3235,9 +3283,11 @@ d) Deberá contener el escudo del Gobierno del Estado de México y de la COPRISE
 
 e) Nombre y firma de los verificadores sanitarios, así como fecha de la verificación y el folio correspondiente;
 
-> <small>(F. DE E., G.G. 27 DE MARZO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-f) Deberá contener el modo, lugar y plazo para acreditar el cumplimiento de las disposiciones sanitarias consistentes en el dictamen de factibilidad de impacto sanitario, aviso de funcionamiento, además del cumplimiento de la Ley General de Salud, la Ley General para el Control del Tabaco y su Reglamento.
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+f) Deberá contener el modo, lugar y plazo para acreditar el cumplimiento de las disposiciones sanitarias consistentes en el Dictamen Único de Factibilidad emitido por la Comisión Estatal da (sic) Factibilidad, aviso de funcionamiento, además del cumplimiento de la Ley General de Salud, la Ley General para el Control del Tabaco y su Reglamento.
 
 > <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
 
@@ -4685,7 +4735,7 @@ V. Los demás que establezca el reglamento.
 
 19.- Son obligaciones de los prestadores de servicios turísticos:
 
-I. Anunciar visiblemente en los lugares de acceso al establecimiento la dirección, teléfono e correo electrónico, tanto del responsable del establecimiento, como de la autoridad competente, para la presentación de quejas, en su caso;
+I. Anunciar visiblemente en los lugares de acceso al establecimiento la dirección, teléfono o correo electrónico, tanto del responsable del establecimiento, como de la autoridad competente, para la presentación de quejas, en su caso;
 
 II. Mantener de manera permanente en un lugar visible, los derechos y obligaciones de los turistas, así como lo establecido en las fracciones X y XI del presente artículo;
 
@@ -4915,7 +4965,11 @@ XXI. Destinos: A los fines públicos a que podrá destinarse el suelo;
 
 XXII. Dictamen de Congruencia: Al acto administrativo en el que se determina la congruencia de un plan municipal de desarrollo urbano o de los parciales que deriven de éste, con las políticas, estrategias y objetivos previstos en el Plan Estatal de Desarrollo Urbano y, en su caso, en el plan regional de desarrollo urbano aplicable y en los parciales de competencia estatal;
 
-XXIII. Dictamen de Impacto Regional: Al acto administrativo que precisa las condicionantes técnicas que deberán observarse para prevenir y mitigar los efectos que pudiera ocasionar en la infraestructura y el equipamiento urbano, así como en los servicios públicos previstos para una región o centro de población, el uso y aprovechamiento, o el cambio de uso, de densidad, de coeficiente de ocupación o de utilización del suelo, o de altura de edificación, que pretenda realizarse en un determinado predio o inmueble;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XXIII. Evaluación Técnica de Impacto Urbano: Al estudio y análisis que precisa las condicionantes técnicas que deberán observarse para prevenir y mitigar los efectos que pudiera ocasionar en la infraestructura y el equipamiento urbano, así como en los servicios públicos previstos para una región o centro de población, el uso y aprovechamiento, o el cambio de uso, de densidad, de coeficiente de ocupación o de utilización del suelo, o de altura de edificación, que pretenda realizarse en un determinado predio o inmueble, que se emitirá al seno de la Comisión Estatal de Factibilidad.
 
 XXIV. Fusión: A la unión de dos o más predios o lotes contiguos, con el fin de constituir una unidad de propiedad;
 
@@ -5045,7 +5099,11 @@ I. Formular y presentar a consideración del Gobernador del Estado, los proyecto
 
 II. Expedir dictámenes de congruencia de los planes municipales de desarrollo urbano y de los planes parciales derivados de éstos, con el Plan Estatal de Desarrollo Urbano, el plan regional y los planes parciales de desarrollo urbano de competencia estatal aplicables;
 
-III. Expedir constancias de viabilidad y dictámenes de impacto regional, en los casos y con las formalidades previstas en este Libro y su Reglamento;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+III. Expedir constancias de viabilidad y evaluaciones técnicas de impacto regional al seno de la Comisión Estatal de Factibilidad, en los casos y con las formalidades previstas en este Libro y su Reglamento.
 
 IV. Autorizar conjuntos urbanos, condominios, subdivisiones, relotificaciones y fusiones; y, en los casos previstos en este Libro y su reglamentación:
 
@@ -5113,7 +5171,13 @@ XXIV. Las demás que le confieran este Libro, su reglamentación y otras disposi
 
 10.- Los municipios tendrán las atribuciones siguientes:
 
-I. Formular, aprobar, ejecutar, evaluar y modificar los planes municipales de desarrollo urbano y los parciales que de ellos deriven;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+I. Formular, aprobar, ejecutar, evaluar, modificar y actualizar los planes municipales de desarrollo urbano y los parciales que de ellos deriven.
+
+Los planes de desarrollo urbano municipal, se actualizarán cada dos años para verificar el cumplimiento del objeto para el cual fueron creados, y en su caso, determinar la necesidad de formular planes parciales a ejecutar de manera inmediata.
 
 II. Participar en la elaboración o modificación del respectivo plan regional de desarrollo urbano o de los parciales que de éste deriven, cuando incluya parte o la totalidad de su territorio;
 
@@ -5559,9 +5623,11 @@ XI. Los ayuntamientos informarán a la autoridad federal competente sobre las au
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCIÓN TERCERA. Del Dictamen de Impacto Regional
+#### SECCIÓN TERCERA. De la Evaluación Técnica de Impacto Urbano
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 5.
 
@@ -5653,7 +5719,9 @@ La constancia de viabilidad a que se refiere este artículo, tendrá vigencia de
 
 La Secretaría, de ser el caso, comunicará al interesado por medio de sus oficinas, estrados o correo electrónico que otorgue para efecto de recibir notificaciones y documentos, que no se le entregará dicha constancia de viabilidad.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 #### SECCIÓN QUINTA. De la Subdivisión y Fusión
 
@@ -5661,25 +5729,43 @@ La Secretaría, de ser el caso, comunicará al interesado por medio de sus ofici
 
 ###### Artículo 5.
 
-35.- Los interesados deberán obtener dictamen de impacto regional expedido por la Secretaría, respecto de los usos del suelo siguientes:
+35.- Los interesados deberán obtener el Dictamen Único de Factibilidad, respecto de los usos del suelo siguientes:
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 I. Cualquier uso diferente al habitacional que implique un coeficiente de utilización de más de tres mil metros cuadrados u ocupen predios de más de seis mil metros cuadrados de superficie;
 
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
 II. Gaseras, gasoneras, gasolineras y otras plantas para el almacenamiento, procesamiento o distribución de combustibles;
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 III. Helipuertos, Aeródromos Civiles y Aeropuertos; y
 
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
 IV. Los que señale el plan municipal de desarrollo urbano correspondiente.
 
-Asimismo, requieren dictamen de impacto regional los cambios de uso del suelo, de densidad, coeficiente de ocupación del suelo, coeficiente de utilización del suelo y altura de edificaciones, que con motivo del cambio se encuadren en alguna de las hipótesis previstas en las fracciones de este artículo.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-En aquellos casos en que el uso y aprovechamiento específico de los lotes de terreno resultantes de conjuntos urbanos, subdivisiones o condominios, no haya quedado autorizado en el acuerdo respectivo, para su posterior autorización se requerirá obtener dictamen de impacto regional, siempre que el uso pretendido se ubique en alguno de los supuestos de este artículo.
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+Asimismo, requieren Dictamen Único de Factibilidad, los cambios de uso del suelo, de densidad, coeficiente de ocupación del suelo, coeficiente de utilización del suelo y altura de edificaciones, que con motivo del cambio se encuadren en alguna de las hipótesis previstas en las fracciones de este artículo.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+En aquellos casos en que el uso y aprovechamiento específico de los lotes de terreno resultantes de conjuntos urbanos, subdivisiones o condominios, no haya quedado autorizado en el acuerdo respectivo, para su posterior autorización se requerirá obtener Dictamen Único de Factibilidad, siempre que el uso pretendido se ubique en alguno de los supuestos de este artículo.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 5.
 
-36.- Sólo procederá la emisión del dictamen de impacto regional, cuando el uso de suelo de que se trate esté previsto en el plan municipal de desarrollo urbano o del parcial respectivo, o bien, a falta de dicho plan se determinará su procedencia con la aprobación del cabildo del municipio que se trate, previa consulta con la Comisión de Planeación para el Desarrollo Municipal y la aprobación de la Secretaría, el cual tendrá una vigencia de un año, pudiendo prorrogarse por una sola vez. Tratándose de dictámenes de impacto regional para cambios de usos de suelo, su emisión solo procederá cuando el uso pretendido sea compatible con los usos previstos en el plan municipal de desarrollo urbano y en ambos casos se cumplan los requisitos y demás regulaciones establecidas en este Libro y su reglamentación.
+36.- Sólo procederá la emisión Dictamen Único de Factibilidad, cuando el uso de suelo que se trate esté previsto en el plan municipal de desarrollo urbano o del parcial respectivo, o bien, a falta de dicho plan se determinará su procedencia con la aprobación del cabildo del municipio que se trate, previa consulta con la Comisión de Planeación para el Desarrollo Municipal y la aprobación de la Secretaría, el cual tendrá una vigencia de un año, pudiendo prorrogarse por una sola vez. Tratándose del Dictamen Único de Factibilidad, para cambios de usos de suelo, su emisión solo procederá cuando el uso pretendido sea compatible con los usos previstos en el plan municipal de desarrollo urbano y en ambos casos se cumplan los requisitos y demás regulaciones establecidas en este Libro, su reglamentación y disposiciones aplicables.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -6057,7 +6143,11 @@ I. Será tramitada por el interesado ante la autoridad competente, vía presenci
 
 II. Tendrá por objeto autorizar las normas para el uso y aprovechamiento del suelo establecidas en el plan municipal de desarrollo urbano aplicable;
 
-III. A la solicitud deberá acompañarse el dictamen de impacto regional expedido por la Secretaría, en los casos previstos en este Libro;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+III. A la solicitud deberá acompañarse el Dictamen Único de Factibilidad, en los casos previstos en este Libro.
 
 IV. Tendrá vigencia de un año y podrá ser prorrogada por una sola vez por un período igual; y
 
@@ -6081,7 +6171,11 @@ III. Se recabe previamente la opinión favorable de la Comisión de Planeación 
 
 En caso de no estar instalada tal Comisión, la autoridad encargada del desarrollo urbano municipal y previo dictamen técnico que elabore, emitirá su opinión; y
 
-IV. Tratándose de cambios a usos del suelo de impacto regional, se requerirá de dictamen de impacto regional y demás requisitos que establezca la reglamentación de este Libro.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+IV. Tratándose de cambios a usos del suelo de impacto regional, se requerirá el Dictamen Único de Factibilidad y demás requisitos que establezca la reglamentación.
 
 > <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
@@ -6831,7 +6925,9 @@ Lo dispuesto en este artículo se hará en términos de la reglamentación de es
 
 ###### Artículo 6.
 
-24.- La Secretaría General de Gobierno, a través de la Coordinación General de Protección Civil emitirá dictamen de protección civil, en los usos de suelo que produzcan un impacto regional sobre la infraestructura y equipamiento urbanos y los servicios públicos, en los términos previstos en el artículo 5.35 de este Código, y conforme a las disposiciones reglamentarias de carácter técnico en materia de protección civil que sean aplicables al tipo de construcción y uso que se le dé a la edificación, en términos de los reglamentos del Libro Quinto y Sexto de este Código.
+24.- La Secretaría General de Gobierno, a través de la Coordinación General de Protección Civil emitirá evaluación técnica de protección civil al seno de la Comisión Estatal de Factibilidad, en los usos de suelo que produzcan un impacto regional sobre la infraestructura y equipamiento urbanos y los servicios públicos, en los términos previstos en el artículo 5.35 de este Código, y conforme a las disposiciones reglamentarias de carácter técnico en materia de protección civil que sean aplicables al tipo de construcción y uso que se le dé a la edificación, en términos de los reglamentos del Libro Quinto y Sexto de este Código.
+
+> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
 
 Una vez concluidas las construcciones derivadas del uso del suelo a que se refiere el párrafo anterior, para el inicio de las operaciones se requerirá la autorización de la Secretaría General de Gobierno a través de la Coordinación General de Protección Civil.
 
@@ -6845,11 +6941,13 @@ Una vez concluidas las construcciones derivadas del uso del suelo a que se refie
 
 La reglamentación de este Libro establecerá las actividades que requieren autorización.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 6.
 
-25 Bis.- Previo a la expedición de la licencia de funcionamiento de establecimiento mercantil que venda bebidas alcohólicas para su consumo, en envase cerrado o al copeo, que otorgue la autoridad municipal, deberá la Secretaría General de Gobierno, a través de la Coordinación General de Protección Civil, emitir el dictamen de viabilidad de mediano o alto riesgo.
+25 Bis.- Previo a la expedición de la licencia de funcionamiento de establecimiento mercantil que venda bebidas alcohólicas para su consumo, en envase cerrado o al copeo, que otorgue la autoridad municipal, deberá la Secretaría General de Gobierno, a través de la Coordinación General de Protección Civil, emitir la evaluación técnica de viabilidad de mediano o alto riesgo al seno de la Comisión Estatal de Factibilidad.
 
 > <small>(ADICIONADO, G.G. 22 DE FEBRERO DE 2013)</small>
 
@@ -6927,7 +7025,9 @@ El Registro será público, deberá estar disponible en el portal informativo qu
 
 ## TITULO QUINTO. De las autorizaciones, registros y dictámenes
 
-> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 6.
 
@@ -7005,9 +7105,11 @@ b) No cumpla con la calendarización de acciones establecidas en su programa esp
 
 II. De tres mil uno a cuatro mil días de salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a quien:
 
-> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-a) No cuente con Dictamen de Protección Civil o de Viabilidad.
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+a) No cuente con el Dictamen Único de Factibilidad.
 
 b) Haya iniciado operaciones sin la autorización correspondiente;
 
@@ -10197,7 +10299,11 @@ VII. Considerar la tecnología aplicable, en función de la naturaleza de las ob
 
 VIII. Preferir el empleo de los recursos humanos y la utilización de los materiales propios de la región donde se ubiquen las obras;
 
-IX. Cuando así se requiera, ajustarse a lo establecido en el dictamen de impacto regional que emita la autoridad competente.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+IX. Cuando así se requiera, ajustarse a lo establecido en el Dictamen Único de Factibilidad.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -12065,7 +12171,7 @@ Los informantes estarán obligados a proporcionar auxilio y cooperación a las a
 
 ###### Artículo 14.
 
-22.- Los datos, estudios e investigaciones que proporcionen los informantes, serán manejados bajo el principio de confidencialidad respecto a los aspectos específicos de las personas y los referentes a las circunstancias particulares que las identifiquen, excepto la Información catastral cuando se garantice el interés legítimo. Al recabarse la información se dará a conocer al informante la manera en que será procesada, integrada y divulgada.
+22.- Los datos, estudios e investigaciones que proporcionen los informantes, serán manejados bajo el principio de confidencialidad respecto a los aspectos específicos de las personas y los referentes a las circunstancias particulares que las identifiquen, excepto la información catastral cuando se garantice el interés legítimo. Al recabarse la Información se dará a conocer al informante la manera en que será procesada, integrada y divulgada.
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -12259,7 +12365,7 @@ VI. Ser el interlocutor con las autoridades federales y municipales en materia d
 
 VII. Establecer la coordinación de las dependencias y entidades de la administración pública en los ámbitos federal, estatal y municipal, en las materias de su competencia;
 
-VIII. Coordinar las actividades de las dependencias y entidades de los gobiernos estatal y municipales, en apoyo a los trabajos que las autoridades federales realicen en el Estado de México sobre la materia;
+VIII. Coordinar las actividades de las dependencias y entidades de los gobiernos estatal y municipal, en apoyo a los trabajos que las autoridades federales realicen en el Estado de México sobre la materia;
 
 IX. Integrar y custodiar el acervo informativo y de investigaciones geográficas, estadísticas y catastrales del Estado de México;
 
@@ -13675,9 +13781,11 @@ I. Derecho de Vía.- A la franja de terreno de anchura variable, determinada en 
 
 II. Carril Confinado.- Es el carril en la infraestructura vial destinado para uso exclusivo de los vehículos que operan en los sistemas de transporte masivo o de alta capacidad;
 
-> <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-III. Dictamen de Incorporación e Impacto Vial.- A la resolución técnica de la Secretaría de Infraestructura, que determina la factibilidad de incorporar a la infraestructura vial o de cuota, el flujo vehicular y peatonal previsto, como consecuencia de la construcción, ampliación, modernización u operación de edificaciones o instalaciones de impacto regional, así como las obras y acciones que, en su caso, deben llevarse a cabo para mitigar su efecto;
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+III. Evaluación técnica de incorporación e Impacto Vial. A la resolución de la Secretaría de Infraestructura emitida al seno de la Comisión Estatal de Factibilidad, que determina la factibilidad de incorporar a la infraestructura vial o de cuota, el flujo vehicular y peatonal previsto, como consecuencia de la construcción, ampliación, modernización u operación de edificaciones o instalaciones de Impacto regional, así corno las obras y acciones que, en su caso, deben llevarse a cabo para mitigar su efecto.
 
 IV. Estación de Transferencia Modal.- Instalaciones con equipo tecnológico donde converge el transporte de alta capacidad con otro u otros medios de transporte;
 
@@ -13915,7 +14023,9 @@ Si dentro de este plazo no fuere reclamado dicho material, la autoridad queda fa
 
 ### CAPITULO QUINTO. De los dictámenes
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 17.
 
@@ -13981,9 +14091,17 @@ I. Contar con un seguro de responsabilidad civil y de daños a terceros con la m
 
 II. Contar con fianza para cubrir los gastos que la autoridad pueda llegar a erogar, derivados del incumplimiento del titular a cualquiera de las obligaciones que le impone el presente libro y demás disposiciones aplicables a la materia con la misma vigencia del permiso o autorización que en su caso se otorgue y hasta en tanto la estructura o anuncio sea retirada. La misma regla se observará en el caso de renovación;
 
-III. Contar con memoria de cálculo correspondiente, avalada por un perito responsable de obra, registrado en el Estado de México;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-IV. Contar con bitácora de mantenimiento de la publicidad exterior, firmada por un perito responsable de obra, registrado en el Estado de México;
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+III. Contar con memoria de cálculo correspondiente, avalada por un Director Responsable de Obra, registrado en el Estado de México.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+IV. Contar con bitácora de mantenimiento de la publicidad exterior, firmada por un Director Responsable de Obra, registrado en el Estado de México.
 
 V. Acreditar que el inmueble o lugar donde se pretenda ubicar la estructura o anuncio objeto de la solicitud del permiso o autorización cuente con uso de suelo acorde a la actividad pretendida;
 
@@ -14543,13 +14661,15 @@ XIII. Las demás previstas en este Libro y la concesión o permiso respectivo.
 
 ###### Artículo 17.
 
-58.- La Secretaría emitirá los dictámenes de incorporación e impacto vial, tratándose de las autorizaciones de impacto regional a que se refiere el Libro Quinto de este Código.
+58.- Se emitirán al seno de la Comisión Estatal de Factibilidad las evaluaciones técnicas de incorporación e impacto vial, tratándose de las autorizaciones de impacto regional a que se refiere el Libro Quinto de este Código.
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 17.
 
-59.- El dictamen de incorporación e impacto vial es la resolución técnica de la Secretaría, que determina la factibilidad de incorporar a la infraestructura vial, el flujo vehicular y peatonal previsto, como consecuencia de la construcción, ampliación, modernización u operación de edificaciones o instalaciones de impacto regional, así como las obras y acciones que, en su caso, deban llevarse a cabo para mitigar su efecto.
+59.- La evaluación técnica de incorporación e impacto vial es la resolución emitida al seno de la Comisión Estatal de Factibilidad, que determina la factibilidad de incorporar a la infraestructura vial o de cuota, el flujo vehicular y peatonal previsto, como consecuencia de la construcción, ampliación, modernización u operación de edificaciones o instalaciones de impacto regional, así corno (sic) las obras y acciones que, en su caso, deban llevarse a cabo para mitigar su efecto.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -14887,9 +15007,11 @@ XVI. Las demás que se señalen en este Libro y otras disposiciones.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO CUARTO. De los peritos responsables de obra
+### CAPITULO CUARTO. De los directores responsables de obra y corresponsables de obra
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 17.
 
@@ -15141,7 +15263,9 @@ XIII. Procurarán la utilización de tecnologías a efecto de lograr un aprovech
 
 ### CAPITULO TERCERO. De las constancias
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 18.
 
@@ -15309,7 +15433,9 @@ En ningún caso se podrá expedir una Norma Técnica que contravenga otras dispo
 
 Sin perjuicio de lo anterior, dentro del año siguiente a la entrada en vigor de las Normas Técnicas, el Comité podrá solicitar comentarios a los municipios respecto de la aplicación, efectos y observancia de dichas normas, a fin de sugerir las acciones de mejora que procedan, las que se difundirán en el portal oficial de la Secretaría.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ### CAPITULO SEGUNDO. De los lineamientos del proyecto
 
@@ -15317,63 +15443,135 @@ Sin perjuicio de lo anterior, dentro del año siguiente a la entrada en vigor de
 
 ###### Artículo 18.
 
-15.- Perito responsable de obra es la persona física autorizada por la Secretaría para actuar como auxiliar de las autoridades municipales de construcción, que será responsable de que en los proyectos y obras en los que otorgue su responsiva, se cumplan con las disposiciones de este Libro, las Normas Técnicas y demás normatividad aplicable.
+15.- Director Responsable de Obra es el profesional autorizado y registrado por la Secretaría para actuar como auxiliar de las autoridades municipales de construcción, quien será el responsable de los proyectos de obras en los que otorgue su responsiva en el ámbito de su intervención, se cumplan con las disposiciones de este Libro, las Normas Técnicas y demás normatividad aplicable.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 En los casos que no se requiere de Perito responsable de obra, el titular de la licencia de construcción asumirá dicha responsabilidad.
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 18.
 
-16.- La autorización para ejercer con el carácter de Perito responsable de obra, se acreditará con la credencial vigente expedida al efecto por la Secretaría.
+15 Bis.- Corresponsable de Obra es la persona física auxiliar del Director Responsable de Obra autorizada y registrada por la Secretaría, quien cuenta con los conocimientos específicos y dominio en una materia relacionada al ámbito de su intervención profesional, relativos a la seguridad estructural, al diseño urbano y arquitectónico e instalaciones y demás especialidades relacionadas con la construcción en términos de la legislación correspondiente.
 
-Así mismo, la Secretaría contará con un registro de los expedientes de los peritos de obra en el que, además de los documentos que acreditan la profesionalización de los solicitantes, se registrarán las sanciones a que se hayan hecho acreedores.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 18.
 
-17.- Para obtener la autorización como perito responsable de obra se requerirá:
+15 Ter.- En los casos que no se requiere de Director Responsable de Obra o Corresponsable de Obra, el titular de la licencia de construcción asumirá dicha responsabilidad.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 18.
+
+16.- La autorización para ejercer con el carácter de Director Responsable de Obra y Corresponsable de Obra se acreditará con la credencial vigente expedida al efecto por la Secretaría.
+
+Asimismo, la Secretaría integrará y operará un Registro de Directores Responsables de Obra y corresponsables de obra certificados en las distintas ramas de la construcción, a fin de conformar un catálogo que será publicado en el periódica (sic) oficial "Gaceta del Gobierno", por la Cámara Mexicana de Industria de la Construcción y por los Colegios de Ingenieros y Arquitectos.
+
+La Secretaría contará con un registro de los expedientes de los Directores Responsables de Obra y corresponsables de Obra en el que, además de los documentos que acreditan la profesionalización de los solicitantes, se registrarán las sanciones a que se hayan hecho acreedores.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 18.
+
+17.- Para obtener la autorización como Director Responsable de Obra se requerirá:
+
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 I. Tener cédula profesional para su ejercicio de alguna de las disciplinas relacionadas con la materia de la construcción;
 
-II. Acreditar conocimientos especializados en la materia, cuando menos de tres años de experiencia, mediante los siguientes documentos:
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+II. Acreditar conocimientos especializados en la materia, cuando menos de cinco años de experiencia, por medio de los siguientes documentos:
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 a) Certificados de cursos, seminarios, talleres y, en general, de estudios de especialización en materia de construcción;
 
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 b) Constancias laborales, contratos, convenios u otros documentos que oficialmente acrediten su participación en proyectos de obras o edificaciones; y
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 c) Los demás que el solicitante considere pertinentes para acreditar sus conocimientos especializados y experiencia profesional.
 
-III. Realizar el curso de perito responsable de obra, impartido por la Secretaría o la institución que ésta determine y aprobar el examen correspondiente; y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-IV. La autorización para ejercer como Perito responsable de obra tendrá una vigencia de tres años y podrá ser refrendada mediante la aprobación del curso o examen a que se refiere la fracción III y el pago de los derechos correspondientes.
+> <small>(ADICIONADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+d) La certificación expedida por las Cámaras y/o Colegios de Profesionales en materia de construcción que cuenten con la autorización de la autoridad competente.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+III. Realizar el curso de Director Responsable de Obra impartido por la Secretaría o la institución que ésta determine y aprobar el examen correspondiente.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+IV. La autorización para ejercer como Director Responsable de Obra tendrá una vigencia de tres años y podrá ser refrendada a través la (sic) aprobación del curso o examen a que se refiere la fracción III y el pago de los derechos correspondientes.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 18.
 
-18.- Se entenderá que los peritos responsables de obra otorgan su responsiva cuando, con ese carácter:
+18.- Se entenderá que los Directores responsables de obra otorgan su responsiva cuando, con ese carácter:
+
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 I. Suscriba una solicitud de licencia o permiso de construcción;
 
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 II. Tome a su cargo la supervisión de la ejecución de una construcción; y
+
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 III. Suscriban cualquier otro documento que establezcan las disposiciones reglamentarias del presente Libro y demás disposiciones jurídicas aplicables.
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 18.
 
-19.- Los Peritos responsables de obra tendrán las obligaciones siguientes:
+19.- Los Directores responsables de obra tendrán las obligaciones siguientes:
+
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 I. Suscribir las solicitudes de licencias de construcción, así como los planos que integren el proyecto;
 
-II. Dirigir y vigilar las construcciones asegurándose que tanto el proyecto como la ejecución de las edificaciones e instalaciones cumplan con lo establecido en este Libro, las Normas Técnicas y demás disposiciones jurídicas aplicables;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+II. Dirigir y vigilar las construcciones asegurándose que tanto el proyecto como la ejecución de las edificaciones e instalaciones cumplan con lo establecido en este Libro, las Normas Técnicas y demás disposiciones jurídicas aplicables. El Director Responsable de Obra podrá contar con corresponsables de obra requeridos para la ejecución del proyecto.
+
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 III. Llevar en la obra un libro de bitácora, foliado y sellado por la autoridad municipal correspondiente, en el que se anotarán los datos siguientes:
 
-a) Nombre y firma del propietario o poseedor, del Perito responsable de obra y del Residente de obra;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+a) Nombre y firma del propietario o poseedor, del Director Responsable de Obra, Corresponsable de Obra y del Residente de obra, si los hubiere.
 
 b) Nombre o razón social de la persona física o jurídico colectiva que ejecute la obra;
 
@@ -15383,21 +15581,153 @@ d) Procedimientos generales de construcción y de control de calidad;
 
 e) Descripción de los detalles definidos durante la ejecución de la obra;
 
-f) Fecha de las visitas, observaciones e instrucciones del Perito responsable de obra y de los demás peritos en su caso;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+f) Fecha de las visitas, observaciones e instrucciones del Director Responsable de Obra y de los demás peritos en su caso.
 
 g) Fecha de inicio de cada etapa de la obra; y
 
 h) Los demás datos que establezcan las disposiciones reglamentarias del presente Libro.
 
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 IV. Responder de cualquier violación a las disposiciones de este Libro, las Normas Técnicas, las licencias y permisos y demás normatividad que resulte aplicable;
 
-V. Entregar al propietario, concluida la obra, los planos actualizados y registrados del proyecto completo en original, el libro de bitácora, memorias de cálculo y conservar un juego de copias de éstos documentos;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+V. Entregar al propietario, concluida la obra, los planos actualizados y registrados del proyecto completo en original, el libro de bitácora, memorias de cálculo, manuales de operación y mantenimiento de acuerdo a la clasificación de la obra y conservar un juego de copias de estos documentos.
+
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 VI. Firmar y presentar a la autoridad municipal correspondiente la solicitud de constancia de terminación de obras; y
 
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 VII. Las demás que establezcan las disposiciones reglamentarias del presente Libro y demás disposiciones jurídicas aplicables.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 18.
+
+19 Bis.- Para obtener la autorización como Corresponsable de Obra se requerirá:
+
+I. Acreditar que posee cédula profesional correspondiente de alguna de las siguientes profesiones:
+
+a) Para seguridad estructural: Ingeniero Civil, Ingeniero Arquitecto, Ingeniero Constructor o Ingeniero Constructor Militar.
+
+b) Para diseño urbano y arquitectónico: Arquitecto, Arquitecto Constructor, Ingeniero Arquitecto o Ingeniero Municipal.
+
+c) Para instalaciones: Ingeniero Mecánico Electricista, Ingeniero Mecánico o Ingeniero Electricista.
+
+Se podrá obtener otra corresponsabilidad distinta a las mencionadas en los incisos anteriores, siempre y cuando el solicitante apruebe el examen correspondiente ante la Secretaría o la institución que ésta determine.
+
+II. Acreditar conocimientos especializados en la materia, cuando menos de tres años de experiencia, por medio de los siguientes documentos:
+
+a) Certificados de cursos, seminarios, talleres y en general de estudios de especialización en materia de construcción.
+
+b) Constancias laborales, contratos, convenios u otros documentos que oficialmente acrediten su participación en proyectos de obras o edificaciones.
+
+c) Las demás que el solicitante considere pertinentes para acreditar sus conocimientos especializados y experiencia profesional.
+
+III. Realizar el curso de Corresponsable de Obra, que será impartido por la Secretaría o la institución que ésta determine y aprobar el examen correspondiente.
+
+IV. La autorización para ejercer como Corresponsable de Obra tendrá una vigencia de tres años y podrá ser refrendada a través de la aprobación del curso o examen a que se refiere la fracción anterior y el pago de los derechos correspondientes
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 18.
+
+19 Ter.- Se entenderá que los corresponsables de obra otorgan su responsiva en los siguientes casos:
+
+I. El Corresponsable en Seguridad Estructural, cuando:
+
+a) Suscriba los planos del proyecto estructural, la memoria de diseño de la cimentación y la estructura.
+
+b) Suscriba los procedimientos de construcción de las obras y los resultados de las pruebas de control de calidad de los materiales empleados.
+
+c) Suscriba un dictamen técnico de estabilidad o de seguridad estructural de una edificación o instalación.
+
+d) Suscriba constancia de seguridad estructural.
+
+II. El Corresponsable en Diseño Urbano y Arquitectónico, cuando:
+
+a) Suscriba conjuntamente con el Director Responsable de Obra una solicitud de licencia de construcción.
+
+b) Suscriba la memoria y los planos del proyecto urbano y/o arquitectónico.
+
+III. El Corresponsable en Instalaciones, cuando:
+
+a) Suscriba conjuntamente con el Director Responsable de Obra una solicitud de licencia de construcción.
+
+b) Suscriba la memoria de diseño y los planes de instalaciones.
+
+c) Suscriba conjuntamente con el Director Responsable de Obra el visto bueno de seguridad y operación.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+###### Articulo 18.
+
+19 Quáter.- El Corresponsable de Obra tendrá las obligaciones siguientes:
+
+I. El Corresponsable en Seguridad Estructural:
+
+a) Suscribir conjuntamente con el Director Responsable de Obra, la solicitud de licencia de construcción.
+
+b) Verificar que en el proyecto de la cimentación y de la superestructura, se hayan realizado los estudios de suelo y de las construcciones colindantes, con el objeto de constatar que el proyecto cumple con las características de seguridad necesarias, establecidas en la normatividad del Estado de México.
+
+c) Verificar que el proyecto cumpla con las características generales para seguridad estructural establecidas en la normatividad del Estado de México.
+
+d) Vigilar que la construcción, durante el proceso de la obra, se apegue estrictamente al proyecto estructural y que tanto los procedimientos corno (sic) los materiales empleados, correspondan a lo especificado y a las normas de calidad del proyecto.
+
+e) Notificar al Director Responsable de Obra cualquier irregularidad durante el proceso de la obra que pueda afectar la seguridad estructural de la misma, asentándose en el libro de bitácora. En caso de no ser atendida esta notificación deberá comunicarlo a la autoridad municipal correspondiente.
+
+f) Responder de cualquier violación a las disposiciones de este Libro relativas a su especialidad.
+
+II. Del Corresponsable en Diseño Urbano y Arquitectónico:
+
+a) Suscribir conjuntamente con el Director Responsable de Obra, la solicitud de licencia de construcción.
+
+b) Revisar el proyecto en los aspectos correspondientes a su especialidad, verificando que hayan sido realizados los estudios y se hayan cumplido las disposiciones establecidas en la norma aplicable deconstrucción (sic) y anuncios, en los programas y demás disposiciones relativas al desarrollo urbano.
+
+c) Verificar que el proyecto cumpla con las disposiciones relativas al Plan de Desarrollo Urbano Estatal, Municipal y/o parcial respectivo, los planos de zonificación para anuncios y las declaratorias de usos, destinos y reservas, con los requisitos de habitabilidad, accesibilidad, funcionamiento, higiene, servicios, acondicionamiento ambiental, comunicaciones, prevención de emergencias e integración al contexto e imagen urbana y con las disposiciones legales y reglamentarias en materia de prevención del patrimonio, tratándose de edificios y conjuntos catalogados como monumentos, o que estén ubicados en áreas de conservación patrimonial.
+
+d) Vigilar que la construcción, durante el proceso de la obra, se apegue estrictamente al proyecto correspondiente a su especialidad y que tanto los procedimientos como los materiales empleados, correspondan a lo especificado y a las normas de calidad del proyecto.
+
+e) Notificar al Director Responsable de Obra cualquier irregularidad durante el proceso de la obra que pueda afectar la ejecución del proyecto, asentándose en el libro de bitácora. En caso de no ser atendida esta notificación deberá comunicarlo a la autoridad municipal correspondiente.
+
+f) Responder de cualquier violación a las disposiciones normativas a su especialidad.
+
+III. Del Corresponsable en Instalaciones:
+
+a) Suscribir, conjuntamente con el Director Responsable de Obra, la solicitud de licencia de construcción.
+
+b) Revisar el proyecto en los aspectos correspondientes a su especialidad, verificando la factibilidad de otorgamiento de los servicios públicos y que se hayan cumplido con la legislación vigente al respecto, relativas a la seguridad, control de incendios y funcionamiento de instalaciones
+
+c) Vigilar que la construcción durante del (sic) proceso de la obra se apegue estrictamente al proyecto correspondiente a su especialidad y que tanto los procedimientos como los materiales empleados correspondan al material especificado y a las normas de calidad del proyecto.
+
+d) Notificar al Director Responsable de Obra cualquier irregularidad durante el proceso de la obra que pueda afectar la ejecución del proyecto, asentándose en el libro de bitácora. En caso de no ser atendida esta notificación deberá comunicarla a la autoridad municipal correspondiente.
+
+e) Responder de cualquier violación a las disposiciones de este Libro relativas a su especialidad.
+
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+## TITULO SEGUNDO. De las licencias, permisos y constancias
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPITULO TERCERO. De los lineamientos de diseño para personas con discapacidad
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -15457,13 +15787,29 @@ A). Para obra nueva, así como para la ampliación, modificación o reparación 
 
 2. Constancia de alineamiento y número oficial;
 
-3. Planos arquitectónicos del proyecto, firmados por perito responsable de obra;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-4. Planos arquitectónicos del proyecto en los que se indiquen los pisos, departamentos, viviendas o locales que serán áreas privativas o del dominio exclusivo de los condóminos, los elementos comunes de la construcción y las áreas de uso común del inmueble, así como tabla de indivisos, firmados por perito responsable de obra, en el caso de construcciones en régimen de propiedad en condominio;
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-5. Planos estructurales, firmados por perito responsable de obra;
+3. Planos arquitectónicos del proyecto, firmados por Director Responsable de Obra y/o Corresponsable de Obra.
 
-6. Planos de instalaciones hidráulicas, sanitarias, eléctricas y especiales, firmados por perito responsable de obra;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+4. Planos arquitectónicos del proyecto en los que se indiquen los pisos, departamentos, viviendas o locales que serán áreas privativas o del dominio exclusivo de los condóminos, los elementos comunes de la construcción y las áreas de uso común del inmueble, así como tabla de indivisos, firmados por el Director Responsable de Obra y/o Corresponsable de Obra, en el caso de construcciones en régimen de propiedad en condominio.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+5. Planos estructurales, firmados por el Director Responsable de Obra y/o Corresponsable de Obra.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+6. Planos de instalaciones hidráulicas, sanitarias, eléctricas y especiales, firmados por el Director Responsable de Obra y/o Corresponsable de Obra.
 
 7. Constancia de terminación de obra, en los casos de ampliación, modificación o reparación de la obra existente.
 
@@ -15483,7 +15829,11 @@ C). Para demolición parcial o total:
 
 1. Croquis arquitectónico de la construcción existente, indicando el área a demoler;
 
-2. Memoria y programa del proceso de demolición, en el que se indicará el orden, volumen estimado y fechas aproximadas en que se demolerán los elementos de la construcción. Tratándose de demoliciones con un área mayor de cuarenta metros cuadrados en planta baja o de veinte metros cuadrados en niveles superiores, la memoria y el programa deberán ser firmados por perito responsable de obra;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+2. Memoria y programa del proceso de demolición, en el que se indicará el orden, volumen estimado y fechas aproximadas en que se demolerán los elementos de la construcción. Tratándose de demoliciones con un área mayor de cuarenta metros cuadrados en planta baja o de veinte metros cuadrados en niveles superiores, la memoria y el programa deberán ser firmados por el Director Responsable de Obra.
 
 3. Autorización de la demolición por parte de las autoridades federales que correspondan, cuando ésta se localice en zonas declaradas como patrimonio histórico, artístico y arqueológico o cuando se trate de inmuebles que se ubiquen en zonas de conservación patrimonial previstas por los planes de desarrollo urbano.
 
@@ -15507,13 +15857,21 @@ G). Para modificación del proyecto de una obra autorizada:
 
 1. Licencia de construcción y, en su caso, constancia de suspensión voluntaria de obra;
 
-2. Planos de las modificaciones arquitectónicas, estructurales y de instalaciones, según el caso, firmados por perito responsable de obra;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+2. Planos de las modificaciones arquitectónicas, estructurales y de instalaciones, según el caso, firmados por el Director Responsable de Obra y/o por Corresponsable de Obra.
 
 3. Tratándose de usos de impacto regional, la correspondiente memoria de cálculo.
 
 H). Para la construcción e instalación de estaciones repetidoras y antenas para radiotelecomunicaciones; anuncios publicitarios que requieran de elementos estructurales; así como instalaciones o modificaciones de ascensores para personas, montacargas, escaleras mecánicas o cualquier otro mecanismo de transporte electromecánico:
 
-1. Planos y memoria de cálculo de la estructura sustentante, firmados por perito responsable de obra;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+1. Planos y memoria de cálculo de la estructura sustentante, firmados por el Director Responsable de Obra y/o Corresponsable de Obra.
 
 2. Licencia de construcción otorgada a la edificación existente, en su caso; y
 
@@ -15527,9 +15885,11 @@ Las solicitudes para la obtención de una licencia de construcción podrán real
 
 Los documentos que se requieran podrán entregarse en formato electrónico.
 
-> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-Para el caso de la firma de los planos por parte del perito responsable de obra, este signará con su firma electrónica avanzada o en su caso, sello electrónico cada uno de los documentos en los que se especifique dicho requisito.
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+Para el caso de la firma de los pianos (sic) por parte del Director Responsable de Obra y/o del Corresponsable de Obra, este signará con su firma electrónica avanzada o en su caso, sello electrónico cada uno de los documentos en los que se especifique dicho requisito.
 
 (ADICIONADO, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
@@ -15555,13 +15915,15 @@ IV. Instalaciones hidráulica y sanitaria: plantas de distribución, acometida y
 
 V. Instalaciones especiales: plantas de distribución, cortes, isométricos, con detalles y especificaciones, referidos principalmente a detección y extinción de incendios, aire acondicionado, voz, datos y telefonía, gas y energía regulada.
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 18.
 
-23.- Tratándose de construcciones mayores de sesenta metros cuadrados o con claros mayores de cuatro metros, la solicitud de la licencia de construcción y los planos respectivos deberán contener la firma del perito responsable de la obra.
+23.- Tratándose de construcciones mayores de sesenta metros cuadrados o con claros mayores de cuatro metros, la solicitud de la licencia de construcción y los planos respectivos deberán contener la firma del Director responsable de la obra.
 
-Además de la responsiva del Perito Responsable de Obra, en las obras destinadas a los usos del suelo indicados en el artículo 5.32 del Código, será necesario contar con el visto bueno de profesionales que cuenten con Especialidad en: Arquitectura, Urbanismo, Seguridad Estructural, Instalaciones o Arquitectura del Paisaje.
+Además de la responsiva del Director Responsable de Obra, en las obras destinadas a los usos del suelo indicados en el artículo 5.32 del Código, será necesario contar con el visto bueno de profesionales que cuenten con Especialidad en: Arquitectura, Urbanismo, Seguridad Estructural, instalaciones o Arquitectura del Paisaje.
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15593,19 +15955,13 @@ XI. Apertura de vanos para la instalación de puertas y ventanas, sin afectar el
 
 XII. Obras urgentes para prevenir accidentes o en ejecución de medidas de seguridad.
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-## TITULO SEGUNDO. De las licencias, permisos y constancias
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPITULO TERCERO. De los lineamientos de diseño para personas con discapacidad
-
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 18.
 
-25.- Toda construcción, en su etapa de edificación, mantendrá en un lugar visible al público una placa que contenga los datos de la licencia de construcción, vigencia de la misma, el destino de la obra y su ubicación, así como en su caso, los datos del perito responsable de obra.
+25.- Toda construcción, en su etapa de edificación, mantendrá en un lugar visible al público una placa que contenga los datos de la licencia de construcción, vigencia de la misma, el destino de la obra y su ubicación, así como en su caso, los datos del Director Responsable de Obra y/o Corresponsable de Obra.
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15640,6 +15996,10 @@ II. Tendrán una vigencia máxima al de la licencia o permiso temporal originalm
 III. Se deberán solicitar dentro de la vigencia de la licencia o permiso temporal;
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPITULO PRIMERO. Disposiciones generales
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -15693,9 +16053,13 @@ Si no lo hicieren dentro del plazo que se les haya fijado, el propio municipio l
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
+### CAPITULO SEGUNDO. De los criterios de diseño estructural
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 18.
 
-33. El titular de la licencia o permiso de construcción o el perito responsable de la obra, deberá dar aviso por escrito o vía electrónica a la autoridad municipal, de la terminación de las obras autorizadas, dentro de los treinta días hábiles posteriores a su conclusión, a efecto de que le expida la constancia de terminación de obra.
+33.- El titular de la licencia o permiso de construcción o el Director responsable de la obra, deberá dar aviso por escrito o vía electrónica a la autoridad municipal, de la terminación de las obras autorizadas, dentro de los treinta días hábiles posteriores a su conclusión, a efecto de expedir la constancia de terminación de obra.
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15712,10 +16076,6 @@ La autoridad municipal competente autorizará las modificaciones realizadas al p
 > <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
 
 La constancia podrá ser expedida a través de los medios electrónicos que disponga el municipio y será válida, siempre que en ella conste la firma electrónica avanzada o el sello electrónico del funcionario responsable de la emisión de dicho documento.
-
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPITULO PRIMERO. Disposiciones generales
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15739,6 +16099,16 @@ La solicitud de emisión de la constancia podrá hacerse de manera física o ele
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
+## TITULO TERCERO. De los lineamientos para los proyectos arquitectónicos
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPITULO TERCERO. De las prevenciones estructurales
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 18.
 
 36.- Para garantizar las condiciones de habitabilidad, accesibilidad, funcionamiento, higiene, sustentabilidad, comunicación, seguridad en emergencias, seguridad estructural, integración al contexto e imagen urbana de las edificaciones en el Estado de México, los proyectos arquitectónicos deberán cumplir con los lineamientos establecidos en este Libro, las Normas Técnicas y demás disposiciones jurídicas aplicables.
@@ -15748,10 +16118,6 @@ La solicitud de emisión de la constancia podrá hacerse de manera física o ele
 ###### Artículo 18.
 
 37.- Las edificaciones e instalaciones deberán respetar el alineamiento que les señalen los Municipios, así como integrarse al contexto arquitectónico en que se ubiquen. Las que se proyecten en áreas sujetas a reglamentos de imagen urbana deberán ajustarse a sus lineamientos y las que se proyecten en zonas del patrimonio histórico, artístico y arqueológico y sus áreas de influencia, deben sujetarse a las restricciones que señalen el Instituto Nacional de Antropología e Historia o el Instituto Nacional de Bellas Artes y Literatura, según sea el caso.
-
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPITULO SEGUNDO. De los criterios de diseño estructural
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15793,14 +16159,6 @@ Los locales destinados a cines, auditorios, teatros, salas de concierto, reunió
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-## TITULO TERCERO. De los lineamientos para los proyectos arquitectónicos
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPITULO TERCERO. De las prevenciones estructurales
-
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
-
 ###### Artículo 18.
 
 41.- Toda edificación debe contar con el número de cajones de estacionamiento que prevea la normatividad aplicable de acuerdo a su tipo y uso. Los estacionamientos públicos o privados deberán contar con cajones de estacionamiento para personas con discapacidad, debidamente señalizados.
@@ -15826,6 +16184,10 @@ Las edificaciones y obras que produzcan contaminación por humos, olores, gases,
 43.- Los proyectos de ampliación de edificaciones sólo podrán ser autorizados a través de la correspondiente licencia de construcción, siempre que los planes de desarrollo urbano permitan el uso y aprovechamiento del suelo pretendido y además cumplan con las disposiciones que establecen el presente Libro, las Normas Técnicas y demás disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPITULO CUARTO. De las demoliciones y excavaciones
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -15861,6 +16223,10 @@ Asimismo, deberán contar con áreas de dispersión y espera dentro de los predi
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
+### CAPITULO UNICO. De los procedimientos constructivos, de los materiales y de la supervisión de las obras
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 18.
 
 47.- Las construcciones o modificaciones que se hagan en edificaciones destinadas para uso del público, deberán incluir elementos urbanísticos y arquitectónicos adecuados a las necesidades de las personas con discapacidad, que les faciliten su uso y desplazamiento, de conformidad con lo siguiente:
@@ -15895,11 +16261,19 @@ Las vías públicas contarán con rampas y guías en las banquetas para identifi
 
 48.- En las construcciones deberá asegurarse un comportamiento estructural eficiente en condiciones normales de funcionamiento, así como proporcionar seguridad contra las acciones y situaciones accidentales que puedan afectar la estructura, con especial atención a los efectos sísmicos y ampliaciones.
 
-El proyecto considerará una estructura que cumpla con los requisitos que establezcan este Libro, las Normas Técnicas y demás disposiciones jurídicas aplicables, lo cual será documentado en una memoria de cálculo y planos estructurales, que deberán ser avalados por perito responsable de obra.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+El proyecto considerará una estructura que cumpla con los requisitos que establezca este Libro: las Normas Técnicas y demás disposiciones jurídicas aplicables, lo cual será documentado en una memoria de cálculo y pianos (sic) estructurales, que deberán ser avalados por el Director Responsable de Obra y/o Corresponsable de Obra respectivo.
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO CUARTO. De las demoliciones y excavaciones
+## TITULO CUARTO. De la seguridad estructural de las construcciones
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPITULO PRIMERO. De las visitas de verificación
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15923,6 +16297,10 @@ Las Normas Técnicas definirán los requisitos específicos de materiales y sist
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
+### CAPITULO SEGUNDO. De las medidas de seguridad
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 18.
 
 51.- La seguridad de una estructura debe proyectarse para el efecto combinado de todas las acciones que tengan probabilidad de ocurrir simultáneamente, considerándose dos categorías de combinaciones:
@@ -15930,10 +16308,6 @@ Las Normas Técnicas definirán los requisitos específicos de materiales y sist
 I. Condiciones normales, son combinaciones que incluyen acciones permanentes y variables. Para este tipo de combinación deberán revisarse todos los posibles estados límite, tanto de falla como de servicio; y
 
 II. Condiciones de accidente, comprende la combinación de las acciones permanentes y las variables más los efectos de las acciones accidentales. Sólo es necesario considerar una de las acciones accidentales en cada combinación.
-
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPITULO UNICO. De los procedimientos constructivos, de los materiales y de la supervisión de las obras
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15961,14 +16335,6 @@ II. Viento, cuyo objeto consiste en garantizar la seguridad de estructuras para 
 
 III. Nieve y granizo, con el propósito de prever la seguridad en el diseño de estructuras sometidas a la acción de nieve y granizo, cuyos efectos sean significativos.
 
-## TITULO CUARTO. De la seguridad estructural de las construcciones
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPITULO PRIMERO. De las visitas de verificación
-
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
-
 ###### Artículo 18.
 
 54.- Toda construcción deberá contar con un sistema estructural que permita el flujo adecuado de las fuerzas que generan las distintas acciones de diseño, para que dichas fuerzas puedan ser transmitidas de manera continua y eficiente hacia la cimentación. Debe contar además con una cimentación que garantice la correcta transmisión de dichas fuerzas al subsuelo.
@@ -15987,19 +16353,27 @@ Las características específicas para el diseño de cimentaciones y de muros de
 
 ###### Artículo 18.
 
-55.- Será necesario comprobar la seguridad de una estructura por medio de pruebas de carga, a costa del titular de la licencia de construcción y avaladas por perito responsable de obra, en los siguientes casos:
+55.- Será necesario comprobar la seguridad de una estructura por medio de pruebas de carga, a costa del titular de la licencia de construcción y avaladas por Director Responsable de Obra y/o Corresponsable de Obra correspondiente, en los siguientes casos:
+
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 I. Obras provisionales o para edificaciones de deportes y recreación que puedan albergar a más de 100 personas;
 
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 II. Cuando no exista suficiente evidencia teórica o experimental para juzgar en forma confiable la seguridad de la estructura en cuestión, sea por condiciones normales de operación o por haber resultado dañada por causas accidentales, como sismos o por la acción del tiempo; y
 
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 III. Cuando los Municipios lo determinen conveniente, en razón de la duda que genere la falta de claridad de la normatividad establecida en el presente Libro, las Normas Técnicas o demás disposiciones jurídicas aplicables; en la calidad y resistencia de los materiales; o, en cuanto al proyecto estructural y a los procedimientos constructivos.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 En los supuestos anteriores, en caso de enajenación, el vendedor entregará copia simple de la prueba de carga realizada.
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO SEGUNDO. De las medidas de seguridad
+### CAPITULO TERCERO. De las infracciones y sanciones
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -16007,7 +16381,11 @@ En los supuestos anteriores, en caso de enajenación, el vendedor entregará cop
 
 56.- Todo propietario de un inmueble que presente daños debidos a sismo, viento, nieve, granizo, explosión, incendios, hundimientos, peso propio de la construcción y de las cargas que obran sobre ella o por deterioro de sus materiales e instalaciones, tendrá la obligación de informarlo al Municipio para que se efectúe una visita de inspección.
 
-Al efecto, los propietarios de dichas edificaciones, recabarán un dictamen de estabilidad y seguridad de la estructura por parte de un perito responsable de obra, que será complementario a la inspección de la autoridad municipal, para valorar que los daños no afectan la estabilidad de la construcción en su conjunto o de una parte significativa de la misma, en cuyo caso, la construcción puede dejarse en su situación actual, o bien, sólo repararse o reforzarse localmente.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+Al efecto, los propietarios de dichas edificaciones, recabarán un dictamen de estabilidad y seguridad de la estructura por parte de un Director Responsable de Obra y/o Corresponsable de Obra, que será complementario a la inspección de la autoridad municipal, para valorar que los daños no afectan la estabilidad de la construcción en su conjunto o de una parte significativa de la misma, en cuyo caso, la construcción puede dejarse en su situación actual, o bien, sólo repararse o reforzarse localmente.
 
 De lo contrario, la construcción deberá ser objeto de un proyecto de refuerzo estructural, el cual deberá ser desarrollado por el propietario de manera inmediata para evitar daños mayores.
 
@@ -16043,7 +16421,11 @@ Los anuncios adosados, colgantes, en azotea, auto soportados y en marquesina, de
 
 Cualquier perforación, modificación o alteración de un elemento estructural para alojar ductos o instalaciones deberá ser aprobada por los Municipios a través de la licencia de construcción respectiva.
 
-Las prevenciones establecidas en este artículo deberán especificarse en la memoria de cálculo respectiva y, en su caso, en los planos estructurales, debiendo ser ambos documentos avalados por perito responsable de obra.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+Las prevenciones establecidas en este artículo deberán especificarse en la memoria de cálculo respectiva y en su caso, en los planos estructurales, debiendo ser ambos documentos avalados por Director Responsable de Obra y/o Corresponsable de Obra respectivo.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -16057,15 +16439,15 @@ Los materiales, desechos y escombros provenientes de una demolición deben ser r
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
+### CAPITULO CUARTO. Del recurso de inconformidad
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 18.
 
 60.- En caso de prever el uso de explosivos, el programa de demolición señalará con toda precisión el o los días y la o las horas en que se realizarán las explosiones, debiendo la autoridad municipal avisar a los vecinos la fecha y hora exacta de las explosiones, cuando menos con veinticuatro horas de anticipación.
 
 El uso de explosivos para demoliciones quedará condicionado a que la Secretaría de la Defensa Nacional otorgue el permiso correspondiente.
-
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPITULO TERCERO. De las infracciones y sanciones
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -16089,13 +16471,25 @@ Podrán utilizarse nuevos procedimientos de construcción acordes al desarrollo 
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
+## TITULO QUINTO. De la ejecución de las construcciones
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPITULO PRIMERO. De los prestadores de servicios inmobiliarios
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 18.
 
 63.- Al iniciarse una construcción deberá verificarse el trazo del alineamiento del predio con base en la constancia de alineamiento y número oficial, las medidas de la poligonal del terreno, así como la situación del predio en relación con los colindantes.
 
 Si los datos que arroje el levantamiento del predio exigen un ajuste de las distancias entre los ejes consignados en los planos arquitectónicos, deberá dejarse constancia de las diferencias mediante anotaciones en bitácora o elaborando planos del proyecto ajustado.
 
-El perito responsable de obra deberá hacer constar que las diferencias no afectan la seguridad estructural ni el funcionamiento de la construcción. En caso necesario deberán hacerse las modificaciones pertinentes a los proyectos arquitectónico y estructural.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+El Director Responsable de Obra deberá hacer constar que las diferencias no afectan la secundad (sic) estructural ni el funcionamiento de la construcción. En caso necesario deberán hacerse las modificaciones pertinentes a los proyectos arquitectónico y estructural.
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -16113,21 +16507,27 @@ IV. Cuando se proyecte utilizar algún material desarrollado con nuevas tecnolog
 
 Los materiales de construcción deben ser almacenados en el predio donde se realicen las obras, de tal manera que se evite su deterioro y la intrusión de sustancias o elementos químicos que afecten las propiedades y características del material.
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-### CAPITULO CUARTO. Del recurso de inconformidad
-
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 18.
 
-65.- Durante la ejecución de las construcciones el titular de la licencia de construcción o el perito responsable de obra, deberá tomar las precauciones y medidas técnicas necesarias para proteger la integridad física de los trabajadores y la de terceros, de conformidad con lo establecido en las disposiciones jurídicas aplicables.
+65. Durante la ejecución de las construcciones el titular de la licencia de construcción, el Director Responsable de Obra y/o Corresponsable de Obra, deberá tornar las precauciones y medidas técnicas necesarias para proteger la integridad física de los trabajadores y la de terceros, de conformidad con lo establecido en las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 Durante las diferentes etapas de construcción deberán tomarse las precauciones necesarias para evitar incendios y para combatirlos mediante el equipo de extinción adecuado. Esta protección deberá proporcionarse tanto al área ocupada por la obra en sí, como a las colindancias, bodegas, almacenes y oficinas. El equipo de extinción de fuego debe ubicarse en lugares de fácil acceso en las zonas donde se ejecuten soldaduras u otras operaciones que puedan originar incendios y se identificará mediante señales, letreros o símbolos claramente visibles.
 
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 Los aparatos y equipos que funcionen a base de combustión deberán ser colocados de manera que se evite el peligro de incendio o intoxicación.
 
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 Los trabajadores deberán usar equipos de protección personal, así como utilizar cinturones de seguridad, arneses, líneas de amarre o andamios con barandales donde exista la posibilidad de caídas.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 En las obras deberán proporcionarse a los trabajadores servicios provisionales de agua potable y un sanitario portátil, excusado o letrina por cada veinticinco trabajadores, así como mantener permanentemente un botiquín con los medicamentos e instrumentales de curación necesarios para proporcionar primeros auxilios.
 
@@ -16145,14 +16545,6 @@ En las obras deberán proporcionarse a los trabajadores servicios provisionales 
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-## TITULO QUINTO. De la ejecución de las construcciones
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPITULO PRIMERO. De los prestadores de servicios inmobiliarios
-
-> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
-
 ###### Artículo 18.
 
 68.- Las visitas de verificación tendrán por objeto comprobar que en las construcciones terminadas o en proceso se observe el cumplimiento de las disposiciones jurídicas de este Libro, las Normas Técnicas, los proyectos autorizados a través de las licencias y permisos de construcción y demás normatividad aplicable.
@@ -16165,6 +16557,14 @@ Las construcciones de inmuebles destinados a la actividad comercial o industrial
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
+## TITULO SEXTO. De las visitas de verificación, medidas de seguridad y sanciones
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPITULO SEGUNDO. De las empresas inmobiliarias registradas
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 18.
 
 69.- Las medidas de seguridad son determinaciones de carácter preventivo que tienen por objeto evitar la consolidación o permanencia de construcciones que pongan en riesgo a las personas o los bienes, por deficiencias en su edificación, ser de mala calidad en los materiales empleados, encontrarse en estado ruinoso o presentar cualquier otra circunstancia análoga.
@@ -16172,6 +16572,10 @@ Las construcciones de inmuebles destinados a la actividad comercial o industrial
 Las medidas de seguridad serán de ejecución inmediata y durarán todo el tiempo en que persistan las causas que las motivaron.
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPITULO TERCERO. De las asociaciones inmobiliarias
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 18.
 
@@ -16209,21 +16613,41 @@ IV. Revocación de la licencia otorgada;
 
 V. Multa, atendiendo a la gravedad de la infracción;
 
-VI. Amonestación por escrito al perito responsable de la obra;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-VII. Suspensión temporal por dos años de la autorización como perito responsable de obra;
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-VIII. Cancelación de la autorización como perito responsable de obra; y
+VI. Amonestación por escrito al Director Responsable de Obra y/o al Corresponsable de Obra.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+VII. Suspensión temporal por dos años de la autorización como Director Responsable de Obra y/o como Corresponsable de Obra.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+VIII. Cancelación de la autorización corno (sic) Director Responsable de Obra y/o como Corresponsable de Obra.
 
 IX. Impedimento para obtener licencias de construcción en el Estado de México.
 
 La imposición y cumplimiento de las sanciones no exime al infractor de la obligación de corregir las irregularidades que le hayan dado motivo y en caso de oposición reiterada, la autoridad competente podrá aplicar las medidas de apremio señaladas en el Código de Procedimientos Administrativos del Estado de México.
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+### CAPITULO UNICO. Del registro
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 18.
 
-72.- Las autoridades municipales determinarán los montos de las multas que impongan al titular de la licencia de construcción o a los peritos responsables de obra por las infracciones cometidas, tomando en cuenta la gravedad de la infracción, las modalidades y demás circunstancias en que la misma se haya cometido y las condiciones económicas del infractor, de acuerdo a los siguientes parámetros:
+72.- Las autoridades municipales determinarán los montos de las multas que impongan al titular de la licencia de construcción o a los Directores responsables de obra y/o Corresponsable de Obra por las infracciones cometidas, tornando (sic) en cuenta la gravedad de la infracción, las modalidades y demás circunstancias en que la misma se haya cometido y las condiciones económicas del infractor, de acuerdo a los siguientes parámetros:
+
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 I. Multa de entre 10 a 250 días de salario mínimo general vigente en el municipio que corresponda, cuando:
 
@@ -16235,6 +16659,8 @@ C) En la construcción no se respeten las previsiones contra incendio; y
 
 D) No se de el aviso de terminación de las obras autorizadas dentro del plazo fijado.
 
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 II. Multa de entre 251 a 500 días de salario mínimo general vigente en el municipio que corresponda, cuando:
 
 A) Se hagan cortes en banquetas, arroyos, guarniciones y/o pavimentos, para conectarse a redes municipales o ejecución de instalaciones subterráneas o aéreas, sin contar con la licencia de construcción o permiso correspondiente;
@@ -16243,7 +16669,13 @@ B) Se determine que por la realización de excavaciones u otras obras, se afect�
 
 C) Con motivo de la ejecución de la construcción, demolición o excavación, se deposite material producto de estos trabajos en la vía pública; y
 
-D) Se trate de incumplimiento a este Libro, a las Normas Técnicas, a las licencias de construcción o de los permisos por parte de los peritos responsables de obra.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+D) Se trate de incumplimiento a este Libro, a las Normas Técnicas, a las licencias de construcción o de los permisos por parte de los Directores responsables de obra y/o Corresponsable de Obra.
+
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 III. Con multa equivalente del uno al diez por ciento del valor de las construcciones o instalaciones, de acuerdo al avalúo comercial que emita el Instituto de Investigación e Información Geográfica, Estadística y Catastral del Estado de México, cuando:
 
@@ -16253,7 +16685,11 @@ B) Las construcciones no correspondan con el proyecto autorizado; y
 
 C) Se viole una medida de seguridad.
 
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 Las multas se duplicarán en caso de reincidencia y se podrán aplicar conjuntamente con cualquiera de las otras sanciones contempladas en el artículo anterior.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 Para los efectos de este Libro se considera reincidente a aquella persona física o jurídico colectiva que incurra en otra infracción, diferente o igual a aquélla por la que haya sido sancionada con anterioridad, durante la vigencia de la licencia de construcción que se le haya otorgado.
 
@@ -16271,41 +16707,55 @@ III. Cuando en el plazo señalado en una medida de seguridad no se haya dado cum
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-## TITULO SEXTO. De las visitas de verificación, medidas de seguridad y sanciones
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPITULO SEGUNDO. De las empresas inmobiliarias registradas
-
-> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
-
 ###### Artículo 18.
 
 74.- La demolición parcial o total que ordene la autoridad competente, como medida de seguridad o sanción, será ejecutada por el infractor a su costa y dentro del plazo que fije la resolución respectiva. En caso contrario, la autoridad la mandará ejecutar por su cuenta y cargo del afectado o infractor y su monto constituirá un crédito fiscal.
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-### CAPITULO TERCERO. De las asociaciones inmobiliarias
-
-> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 18.
 
-75.- La Secretaría, a petición de las autoridades municipales competentes en materia de construcción, aplicará las sanciones previstas para los peritos responsables de obra, con independencia de las sanciones que sean aplicadas por las autoridades municipales, de conformidad con lo dispuesto en este capítulo, en los casos siguientes:
+75.- La Secretaría, a petición de las autoridades municipales competentes en materia de construcción, aplicará las sanciones previstas para los Directores responsables de obra, así como para el Corresponsable de Obra, con independencia de las sanciones que sean aplicadas por las autoridades municipales, de conformidad con lo dispuesto en este capítulo, en los casos siguientes:
 
-I. Amonestación por escrito al perito responsable de obra, cuando infrinjan las disposiciones de este Libro, de las Normas Técnicas, licencias, permisos, autorizaciones o demás normatividad aplicable, sin causar situaciones de peligro para la vida de las personas y/o los bienes;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-II. Suspensión temporal por dos años de la autorización como perito responsable de obra cuando infrinjan las disposiciones jurídicas de este Libro, de las Normas Técnicas, licencias, permisos, autorizaciones o demás normatividad aplicable, sin causar situaciones que pongan en peligro la vida de las personas y/o los bienes, cuando:
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+I. Amonestación por escrito al Director Responsable de Obra c (sic) al Corresponsable de Obra, cuando infrinjan las disposiciones de este Libro, de las normas técnicas, licencias, permisos, autorizaciones o demás normatividad aplicable, sin causar situaciones de peligro para la vida de las personas y/o los bienes.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+II. Suspensión temporal por dos años de la autorización como Director Responsable de Obra o en su caso, como Corresponsable de Obra, cuando infrinjan las disposiciones jurídicas de este Libro, de las normas técnicas, licencias, permisos, autorizaciones o demás normatividad aplicable, sin causar situaciones que pongan en peligro la vida de las personas y/o los bienes, cuando:
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 a) Sin conocimiento y aprobación de la autoridad municipal correspondiente, se modifique la construcción sin apegarse a las condiciones previstas en la licencia de construcción correspondiente, con excepción de las diferencias permitidas que se establecen en el presente Libro; y
 
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 b) El infractor acumule dos amonestaciones por escrito en el periodo de un año, contado a partir de la fecha de la primera amonestación.
 
-III. Cancelación de la autorización como perito responsable de obra cuando:
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+III. Cancelación de la autorización como Director Responsable de obra según proceda, cuando:
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 a) No cumplan con las disposiciones del presente Libro, de las Normas Técnicas o demás normatividad que resulte aplicable, causando situaciones que pongan en peligro la vida de las personas y/o los bienes; y
 
-b) Hayan obtenido con datos o documentos falsos la autorización como perito responsable de obra, o cuando presenten documentos apócrifos en los trámites que gestionen ante las autoridades estatales o municipales.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+b) Hayan obtenido con datos y documentos falsos la autorización como Director Responsable de obra o como responsable de obra, o cuando presenten documentos apócrifos en los tramites que gestionen ante las autoridades estatales y municipales.
+
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 IV. El impedimento para obtener licencias de construcción en el Estado de México, se aplicará cuando se incumpla lo dispuesto por este Libro, las normas técnicas o demás normatividad aplicable generando con ello afectaciones graves en las propiedades que se enajenen.
 
@@ -16320,10 +16770,6 @@ b) De cinco a veinte años a quienes luego de ser inhabilitados vuelvan a incump
 76.- Las autoridades municipales impondrán las medidas de seguridad y sanciones que resulten procedentes, en los términos de este Libro, de las disposiciones reglamentarias de este Libro, licencias, permisos, autorizaciones y demás normatividad aplicable, independientemente de la responsabilidad civil o penal que proceda.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPITULO UNICO. Del registro
-
-> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 18.
 
@@ -18704,3 +19150,27 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno.
 
 TERCERO. La Secretaria de Finanzas llevará a cabo las reservas presupuestales necesarias, a fin de dar cumplimiento al presente decreto.
+
+G.G. 7 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 120.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO Y DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el primero de enero de dos mil diecisiete.
+
+TERCERO. La Comisión Estatal de Factibilidad se deberá instalar en un plazo máximo de 30 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. La Comisión Estatal de Factibilidad emitirá su Reglamento interior dentro de los 30 días naturales posteriores a su instalación.
+
+QUINTO. A la entrada en vigor del presente decreto, los dictámenes y las prórrogas emitidas con anterioridad, conservarán la vigencia que tengan establecida.
+
+SEXTO. Los procedimientos iniciados antes de la entrada en vigor del presente decreto serán concluidos conforme a la legislación aplicable al momento en que se iniciaron.
+
+La persona física o jurídico colectiva que haya iniciado procedimientos antes de la entrada en vigor del presente decreto, podrá elegir la continuidad del mismo, o bien, reiniciar bajo los procedimientos establecidos en el presente decreto, en cuyo caso se admitirán los dictámenes ya obtenidos de las diferentes dependencias del Gobierno del Estado de México.
+
+SÉPTIMO. Cuando en otros ordenamientos se haga referencia a los dictámenes de factibilidad se tendrá por entendido que serán suplidos por el Dictamen Único de Factibilidad emitido por la Comisión Estatal de Factibilidad.
+
+OCTAVO. El Ejecutivo Estatal contará con un plazo no mayor a 30 días naturales posteriores a la entrada en vigor del presente Decreto, para emitir los ordenamientos jurídicos reglamentarios, en donde se establecerán los tiempos de respuesta por parte de las autoridades.
+
+NOVENO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
