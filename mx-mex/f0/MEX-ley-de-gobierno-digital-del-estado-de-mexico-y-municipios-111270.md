@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-gobierno-digital-del-estado-de-mexico-y-municipios-11127
 country: "mx"
 rank: "ley"
 publication_date: "2016-01-06"
-last_updated: "2016-02-03"
+last_updated: "2016-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY DE GOBIERNO DIGITAL DEL ESTADO DE MEXICO Y MUNICIPIOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
 LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 3 DE FEBRERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el miércoles 6 de enero de 2016.
 
@@ -51,13 +51,21 @@ LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
 La presente Ley es de orden público y de observancia general en el Estado de México y tiene por objeto:
 
-I. Establecer la gobernabilidad de las tecnologías de la información a través de la regulación de la planeación, organización, soporte y evaluación de los servicios gubernamentales.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-II. Fomentar y consolidar el uso y aprovechamiento estratégico de las tecnologías de la información en el Estado y en los municipios.
+I. Establecer la gobernabilidad de las tecnologías de la información y comunicación a través de la regulación de la planeación, organización, soporte y evaluación de los servicios gubernamentales.
 
-III. Regular la gestión de servicios, trámites, procesos y procedimientos administrativos y jurisdiccionales, a través del uso de las tecnologías de la información.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-IV. Establecer las instancias e instrumentos por los cuales el Estado y los municipios regularán el uso y aprovechamiento estratégico de las tecnologías de la información.
+II. Fomentar y consolidar el uso y aprovechamiento estratégico de las tecnologías de la información y comunicación en el Estado y municipios.
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+III. Regular la gestión de servicios, trámites, procesos y procedimientos administrativos y jurisdiccionales, a través del uso de las tecnologías de la información y comunicación.
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+IV. Establecer las instancias e instrumentos por los cuales el Estado y los municipios regularán el uso y aprovechamiento estratégico de las tecnologías de la información y comunicación.
 
 V. Hacer eficiente la gestión pública a nivel estatal y municipal.
 
@@ -77,17 +85,23 @@ IV. El Poder Judicial del Estado de México.
 
 V. Los Notarios Públicos del Estado de México.
 
-Los sujetos de la Ley deberán realizar las acciones de fomento, planeación, regulación, control y vigilancia relativas al uso y aprovechamiento estratégico de las tecnologías de la información, de manera coordinada y concurrente, en el respectivo ámbito de su competencia.
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-Para el cumplimiento de las disposiciones de esta Ley, los sujetos podrán suscribir convenios de colaboración, coordinación, concertación o asociación con autoridades federales, de otros estados o municipios así como con los sectores social y privado, en materia de uso y aprovechamiento estratégico de las tecnologías de la información.
+Los sujetos de la Ley deberán realizar las acciones de fomento, planeación, regulación, control y vigilancia relativas al uso y aprovechamiento estratégico de las tecnologías de la información y comunicación, de manera coordinada y concurrente, en el respectivo ámbito de su competencia.
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+Para el cumplimiento de las disposiciones de esta Ley, los sujetos podrán suscribir convenios de colaboración, coordinación, concertación o asociación con autoridades federales, de otros estados o municipios así como con los sectores social y privado, en materia de uso y aprovechamiento estratégico de las tecnologías de la información y comunicación.
 
 ###### Artículo 3.
 
 Corresponde a la Secretaría de Finanzas vigilar el cumplimiento de las disposiciones de la presente Ley, para lo cual deberá coordinarse con los sujetos de la presente Ley.
 
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 4.
 
-Quedan exceptuados de la aplicación de esta Ley, los actos de autoridad para los que la Constitución Política del Estado Libre y Soberano de México u otro ordenamiento jurídico que exijan la firma autógrafa de manera expresa o cualquier otra formalidad no susceptible de cumplirse a través del uso de tecnologías de la información o que requieren la concurrencia personal de los servidores públicos y los particulares.
+Quedan exceptuados de la aplicación de esta Ley, los actos de autoridad para los que la Constitución Política del Estado Libre y Soberano de México u otro ordenamiento jurídico que exijan la firma autógrafa de manera expresa o cualquier otra formalidad no susceptible de cumplirse a través del uso de tecnologías de la información y comunicación o que requieren la concurrencia personal de los servidores públicos y las personas físicas o del representante de las personas jurídicas colectivas.
 
 ###### Artículo 5.
 
@@ -111,11 +125,23 @@ VIII. Datos Abiertos: a los datos digitales de carácter público accesibles en 
 
 IX. Dirección: a la Dirección General del Sistema Estatal de Informática.
 
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+IX Bis. Dictamen Técnico: al documento emitido por la autoridad competente, que contiene las especificaciones y requerimientos técnicos, que deben observar los sujetos de la Ley, previo a la adquisición, arrendamiento y/o contratación de bienes o servicios en materia de tecnologías de la información y comunicación.
+
 X. Documento electrónico: al soporte escrito con caracteres alfanuméricos, archivo de imagen, video, audio o cualquier otro formato tecnológicamente disponible, que contenga información en lenguaje natural o convencional, intercambiado por medios electrónicos, con el que sea posible dar constancia de un hecho y que esté signado con la firma electrónica avanzada y/o en el que se encuentre plasmado el sello electrónico.
 
 XI. Expediente digital: al conjunto de documentos electrónicos que, sujetos a los requisitos de esta ley, se utilicen en la gestión electrónica de trámites, servicios, procesos y procedimientos administrativos y jurisdiccionales.
 
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XI Bis. Firma Electrónica: a la emitida por la Unidad Certificadora conformada por el al (sic) conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de éstos y que produce los mismos efectos jurídicos que la firma autógrafa.
+
 XII. Firma Electrónica Avanzada: al conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de estos, la cual produce los mismos efectos jurídicos que la firma autógrafa.
+
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XII Bis. Firma Electrónica Notarial: al certificado digital de Firma Electrónica emitido por la Unidad Certificadora de Gobierno en términos de la presente ley y demás disposiciones aplicables, el cual tiene igual valor jurídico que su firma autógrafa y su sello de autorizar.
 
 XIII. Gobierno Digital: a las políticas, acciones, planeación, organización, aplicación y evaluación de las tecnologías de la información para la gestión pública entre los sujetos de la presente Ley, con la finalidad de mejorar los trámites y servicios para facilitar el acceso de las personas a la información así como hacer más eficiente la gestión gubernamental para un mejor gobierno.
 
@@ -131,11 +157,17 @@ XVIII. Mensaje de datos: a la información generada, enviada, recibida o archiva
 
 XIX. No repudio: al servicio de seguridad por el que es posible probar la participación de las partes en el intercambio de un mensaje de datos o documento electrónico firmado y/o sellado electrónicamente.
 
-XX. Personas: las personas físicas o jurídico colectivas que decidan utilizar los medios electrónicos ante las autoridades del Estado.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-XXI. Portales Informativos: al sitio Web de las autoridades del Estado que de forma sencilla e integrada, acceso única y exclusivamente a la información que se ofrece a las personas.
+XX. Personas: las personas físicas o jurídicas colectivas que decidan utilizar los medios electrónicos ante los sujetos de la Ley.
 
-XXII. Portales Trasnacionales: al espacio de un sitio Web de las autoridades del Estado que da acceso al SEITS en donde se encuentran de forma sencilla e integrada, los trámites y servicios, mediante los cuales se pueden realizar transacciones entre las personas con las autoridades del Estado responsables de la información y los servicios ofrecidos en los Portales.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XXI. Portales Informativos: al sitio web de los sujetos de la Ley que de forma sencilla e integrada, acceso única y exclusivamente a la información que se ofrece a las personas.
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XXII. Portales Transaccionales: al espacio de un sitio web de los sujetos de la Ley que da acceso al SEITS en donde se encuentran de forma sencilla e integrada, los trámites y servicios, mediante los cuales se pueden realizar transacciones entre las personas con los sujetos de la Ley responsables de la información y los servicios ofrecidos en los portales.
 
 XXIII. RETyS: al Registro Estatal de Trámites y Servicios.
 
@@ -147,11 +179,15 @@ XXVI. SEITS: al Sistema Electrónico de Información, Trámites y Servicios del 
 
 XXVII. Sello Electrónico: al conjunto de datos electrónicos asociados a una CUTS, a través del cual se reconoce la identidad electrónica de los sujetos de la presente Ley y cuyo propósito es identificarlos unívocamente como autores legítimos de un mensaje de datos o documento electrónico, así como la fecha y hora de su emisión.
 
-XXVIII. Tecnologías de la información: al conjunto de elementos y técnicas utilizadas en el tratamiento y transmisión de información vía electrónica, a través del uso de la informática, internet o las telecomunicaciones.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XXVIII. Tecnologías de la información y comunicación: al conjunto de elementos y técnicas utilizadas en el tratamiento y transmisión de información vía electrónica, a través del uso de la informática, internet o las telecomunicaciones.
 
 XXIX. Titular: a la persona que posee un dispositivo de creación de Sello Electrónico y que actúa por su propio derecho o en representación de una persona física o jurídica colectiva.
 
-XXX. Unidad Certificadora: a la Unidad Administrativa, adscrita a la Dirección, que tiene a su cargo la certificación del sello electrónico, que además de administrar la parte tecnológica del procedimiento, emite los certificados del mismo.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XXX. Unidad Certificadora: a la unidad administrativa, adscrita a la Dirección, que tiene a su cargo la emisión del sello electrónico y firma electrónica, administra la parte tecnológica del procedimiento y emite los certificados del mismo.
 
 XXXI. Unidad Registradora: a la Unidad Administrativa dependiente de la Dirección encargada de generar la CUTS para el acceso al SEITS.
 
@@ -239,7 +275,9 @@ El Consejo sesionará válidamente con la asistencia de por lo menos la mitad m�
 
 Las decisiones se tomarán por mayoría de votos de los miembros presentes del Consejo. En caso de empate, el presidente tendrá voto de calidad.
 
-Los integrantes del Consejo tendrán derecho a voz y voto, con excepción del Secretario Técnico.
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+Los integrantes del Consejo tendrán derecho a voz y voto, con excepción del Secretario Técnico, quien solo tendrá derecho a voz.
 
 Cada integrante designará un suplente, con excepción del Secretario Técnico, quienes deberán tener el cargo inmediato inferior y tendrán los mismos derechos y obligaciones que el titular.
 
@@ -253,27 +291,41 @@ La organización y funcionamiento del Consejo deberá apegarse a lo dispuesto en
 
 El Consejo tendrá las atribuciones siguientes:
 
-I. Aprobar la implementación de la política pública de Gobierno Digital, a través del uso y aprovechamiento estratégico de las tecnologías de la información.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-II. Promover la creación de los instrumentos que garanticen a las personas el derecho permanente de realizar trámites y servicios electrónicos.
+I. Aprobar la implementación de la política pública de Gobierno Digital, a través del uso y aprovechamiento estratégico de las tecnologías de la información y comunicación.
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+II. Promover la creación de los instrumentos que garanticen a las personas el derecho permanente de realizar trámites y servicios digitales
 
 III. Presentar a la Secretaría la partida presupuestal para los rubros relacionados con el Gobierno Digital.
 
 IV. Aprobar la Agenda Digital.
 
-V. Aprobar anualmente el Programa Estatal de Tecnologías de la información.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-VI. Autorizar el proyecto de Estándares de Tecnologías de la información y ordenar su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+V. Aprobar anualmente el Programa Estatal de Tecnologías de la Información y Comunicación.
 
-VII. Vigilar la aplicación de criterios, normas y procedimientos relativos al uso y aprovechamiento estratégico de las tecnologías de la información a los sujetos de la presente Ley.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+VI. Autorizar el proyecto de Estándares de Tecnologías de la Información y Comunicación y ordenar su publicación en el periódico oficial "Gaceta del Gobierno'.
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+VII. Vigilar la aplicación de criterios, normas y procedimientos relativos al uso y aprovechamiento estratégico de las tecnologías de la información y comunicación a los sujetos de la presente Ley.
 
 VIII. Aprobar los instrumentos de orientación, dirigidos a las personas, sobre los derechos y obligaciones que les otorga esta Ley y otros ordenamientos en materia de Gobierno Digital.
 
 IX. Vigilar que los sujetos de la presente Ley cumplan con lo necesario para la operación e implementación del SEITS y el RUPAEMEX.
 
-X. Aprobar la plataforma tecnológica que garantice controles efectivos con relación a la seguridad de los sistemas de información que sustentan los trámites y servicios electrónicos.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-XI. Promover la interoperabilidad entre las tecnologías existentes a nivel federal, estatal y municipal, de manera que se logre la cooperación y coordinación necesaria para asegurar el éxito del Gobierno Digital, a través del uso y aprovechamiento de las tecnologías de la información.
+X. Aprobar la plataforma tecnológica que garantice controles efectivos con relación a la seguridad de los sistemas de información que sustentan los trámites y servicios digitales.
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XI. Promover la interoperabilidad entre las tecnologías existentes a nivel federal, estatal y municipal, de manera que se logre la cooperación y coordinación necesaria para asegurar el éxito del Gobierno Digital, a través del uso y aprovechamiento de las tecnologías de la información y comunicación.
 
 XII. Aprobar a los miembros que integrarán el Padrón de Certificados Electrónicos.
 
@@ -291,11 +343,15 @@ La organización y funcionamiento de los Comités Internos deberá apegarse a lo
 
 La Dirección tendrá las atribuciones siguientes:
 
-I. Almacenar y custodiar por cinco años en el repositorio los documentos y datos otorgados por los particulares a través de los portales que se establezcan por parte de los sujetos de la presente Ley, conforme a lo establecido en la Ley de Protección de Datos Personales del Estado de México.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+I. Almacenar y custodiar por cinco años en el repositorio los documentos y datos otorgados por las personas físicas y/o jurídicas colectivas a través de los portales que se establezcan por parte de los sujetos de la presente Ley, conforme a lo establecido en la Ley de Protección de Datos Personales del Estado de México.
 
 II. Implementar, operar, administrar, mantener y actualizar el RUPAEMEX, aplicando las políticas establecidas en la presente Ley, así como las disposiciones reglamentarias que surjan de esta.
 
-III. Formular el proyecto de estándares de tecnologías de la información y someterlo a consideración del Consejo.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+III. Formular el proyecto de estándares de tecnologías de la información y comunicación y someterlo a consideración del Consejo.
 
 IV. Otorgar el CUTS a las personas que soliciten su inscripción en el RUPAEMEX.
 
@@ -307,21 +363,45 @@ VII. Integrar y administrar el SEITS, conforme a la información que otorguen lo
 
 VIII. Adoptar las medidas necesarias para que el almacenamiento y custodia de los documentos y datos esté protegida durante el tiempo que permanezcan bajo su tutela.
 
-IX. Difundir el uso de las tecnologías de la información en la gestión pública y de los instrumentos de Gobierno Digital.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+IX. Difundir el uso de las tecnologías de la información y comunicación en la gestión pública y de los instrumentos de Gobierno Digital.
 
 X. Asesorar a los sujetos de la presente Ley, acerca de las características, aplicaciones y utilidad de los instrumentos de Gobierno Digital.
 
-XI. Emitir las políticas de uso de las tecnologías de la información que habrán de observar los sujetos de la presente Ley, para el cumplimiento de las mismas.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-XII. Establecer y mantener relaciones, en materia de tecnologías de la información, con los sujetos de la presente Ley, así como con las dependencias y entidades federales y de otras entidades que tengan competencia en la misma materia.
+XI. Emitir las políticas de uso de las tecnologías de la información y comunicación que habrán de observar los sujetos de la presente Ley, para el cumplimiento de las mismas.
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XII. Establecer y mantener relaciones, en materia de tecnologías de la información y comunicación, con los sujetos de la presente Ley, así como con las dependencias y entidades federales y de otras entidades que tengan competencia en la misma materia.
 
 XIII. Validar la formulación de los programas de trabajo de los sujetos de la Ley.
 
-XIV. Emitir los certificados de sello electrónico que le soliciten.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-XV. Coordinar las acciones necesarias para la elaboración, ejecución, control y evaluación de las tecnologías de la información.
+XIV. Emitir los certificados de sello electrónico que le soliciten y emitir la firma electrónica para los casos de excepción.
 
-XVI. Desarrollar soluciones innovadoras que conduzcan al establecimiento y optimización de trámites y servicios electrónicos de los sujetos de la Ley.
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XIV Bis. Establecer los requisitos necesarios para obtener el dictamen técnico.
+
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XIV. Ter. Determinar la estructura que debe contener el dictamen técnico.
+
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XIV. Quáter. Emitir el dictamen técnico a los sujetos de la Ley de su competencia.
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XV. Coordinar las acciones necesarias para la elaboración, ejecución., control y evaluación de las tecnologías de la información y comunicación.
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XVI. Desarrollar soluciones innovadoras que conduzcan al establecimiento y optimización de trámites y servicios digitales de los sujetos de la Ley.
 
 XVII. Facilitar la incorporación de las mejores prácticas del sector tecnológico, por medio de capacitaciones u otros esquemas aplicables a los sujetos de la Ley.
 
@@ -331,11 +411,17 @@ XIX. Diseñar instrumentos de orientación, dirigidos a las personas, sobre los 
 
 XX. Participar en el desarrollo e implementación del SEITS y el RUPAEMEX.
 
-XXI. Asesorar a la CEMER en las mejoras al RETyS, para efecto de facilitar el acceso de los particulares a los diferentes trámites y servicios que ofrecen los sujetos de la Ley.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-XXII. Proponer la plataforma tecnológica que garantice controles efectivos con relación a la seguridad de los sistemas de información que sustentan los trámites y servicios electrónicos.
+XXI. Asesorar a la CEMER en las mejoras al RETyS, para efecto de facilitar el acceso de las personas físicas y jurídicas colectivas a los diferentes trámites y servicios que ofrecen los sujetos de la Ley.
 
-XXIII. Integrar el Programa Estatal de Tecnologías de la información.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XXII. Proponer la plataforma tecnológica que garantice controles efectivos con relación a la seguridad de los sistemas de información que sustentan los trámites y servicios digitales.
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XXIII. Integrar el Programa Estatal de Tecnologías de la Información y Comunicación.
 
 XXIV. Las demás que le confieran la presente Ley y demás disposiciones jurídicas.
 
@@ -343,9 +429,11 @@ XXIV. Las demás que le confieran la presente Ley y demás disposiciones jurídi
 
 #### SECCIÓN PRIMERA. DE LA AGENDA DIGITAL
 
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 12.
 
-La Agenda Digital contiene los lineamientos estratégicos para la aplicación y conducción de las políticas y las acciones de los sujetos de la presente Ley en materia de Gobierno Digital, a través del uso y aprovechamiento de las tecnologías de la información y se formulará conforme a las disposiciones de la presente Ley y el Plan de Desarrollo del Estado de México.
+La Agenda Digital contiene los lineamientos estratégicos para la aplicación y conducción de las políticas y las acciones de los sujetos de la presente Ley en materia de Gobierno Digital, a través del uso y aprovechamiento de las tecnologías de la información y comunicación y se formulará conforme a las disposiciones de la presente Ley y el Plan de Desarrollo del Estado de México.
 
 ###### Artículo 13.
 
@@ -357,63 +445,101 @@ La Agenda Digital deberá publicarse en el Periódico Oficial “Gaceta del Gobi
 
 La Agenda Digital deberá contener lo siguiente:
 
-I. El diagnóstico del uso de las tecnologías de la información en los sujetos de la presente Ley.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+I. El diagnóstico del uso de las tecnologías de la información y comunicación en los sujetos de la presente Ley.
 
 II. Los ejes de Gobierno Digital que darán soporte a las políticas en dicha materia, establecidas en el Plan de Desarrollo del Estado de México y otros instrumentos emitidos por los sujetos de la presente Ley.
 
-III. Las estrategias sobre el uso de las tecnologías de la información aplicadas al Gobierno Digital.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+III. Las estrategias sobre el uso de las tecnologías de la información y comunicación aplicadas al Gobierno Digital.
 
 IV. Los metadatos y datos abiertos que utilizarán los sujetos de la presente Ley en la implementación de aplicaciones, así como sus perfiles de seguridad y acceso en congruencia con la Ley General de Transparencia y Acceso a la Información Pública Gubernamental y la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios.
 
-V. Los procesos y mecanismos de coordinación que acuerden los sujetos de la presente Ley y que aseguren el cumplimiento del Programa Estatal de Tecnologías de la información.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+V. Los procesos y mecanismos de coordinación que acuerden los sujetos de la presente Ley y que aseguren el cumplimiento del Programa Estatal de Tecnologías de la Información y Comunicación.
 
 VI. Las demás que determine el Consejo.
 
-#### SECCIÓN SEGUNDA. DEL PROGRAMA ESTATAL DE TECNOLOGÍAS DE LA INFORMACIÓN Y DE LOS PROGRAMAS DE TRABAJO DE TECNOLOGÍAS DE LA INFORMACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+#### SECCIÓN SEGUNDA. DEL PROGRAMA ESTATAL DE TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN Y DE LOS PROGRAMAS DE TRABAJO DE TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 15.
 
-Los sujetos de la presente Ley deberán formular y presentar al Secretario Técnico, durante el mes de junio de cada año, su Programa de Trabajo de Tecnologías de la información, que planeen ejecutar en el ejercicio fiscal siguiente, conforme a lo establecido en la presente Ley.
+Los sujetos de la presente Ley deberán formular y presentar al Secretario Técnico del Comité Interno, los Programas de Trabajo, que planeen ejecutar en el ejercicio fiscal siguiente, a efecto de elaborar el Programa Sectorial de Tecnologías de la Información y comunicación conforme a lo establecido en la presente Ley y su Reglamento.
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 16.
 
-Durante el mes de septiembre de cada año, el Secretario Técnico deberá integrar el Programa Estatal de Tecnologías de la información, que es la suma de los programas sectoriales integrados por los Programas de Trabajo de Tecnologías de la información, el cual deberá asegurar la ejecución por parte de los sujetos de la presente Ley de acciones y proyectos transversales en materia de tecnologías de la información que den cumplimiento a la Agenda Digital.
+Durante el mes de septiembre de cada año, el Secretario Técnico deberá integrar el Programa Estatal de Tecnologías de la Información y Comunicación, que es la suma de los programas sectoriales.
+
+Los Programas Sectoriales serán integrados por la totalidad de los Programas de Trabajo de Tecnologías de la Información y Comunicación de cada sujeto de la Ley, los cuales deberán asegurar la ejecución de las acciones y proyectos transversales en materia de tecnologías de la información y comunicación que den cumplimiento a la Agenda Digital.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 17.
 
-Los Programas de Trabajo de Tecnologías de la información deberán contener lo siguiente:
+Los Programas de Trabajo de Tecnologías de la Información y Comunicación deberán contener lo siguiente:
 
-I. La Estrategia de Tecnologías de la información elaborada por los sujetos de la presente Ley.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-II. La contribución a los indicadores de desempeño de la Estrategia de Tecnología de Información.
+I. La Estrategia de Tecnologías de la Información y Comunicación elaborada por los sujetos de la presente Ley.
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+II. La contribución a los indicadores de desempeño de la Estrategia de Tecnologías de Información y Comunicación.
 
 III. Los metadatos y datos abiertos necesarios para dar soporte a los trámites, servicios, procesos y procedimientos administrativos y jurisdiccionales, incluyendo a aquellos a incorporar en el SEITS.
 
 IV. El inventario de los recursos tecnológicos de información con los que se cuenta, en coordinación con la unidad responsable de su registro.
 
-V. El costo de operación de la infraestructura de tecnologías de la información del período inmediato anterior.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-VI. La calendarización anual y costo de operación de la infraestructura de tecnologías de la información para el año inmediato siguiente.
+V. El costo de operación de la infraestructura de tecnologías de la información y comunicación del período inmediato anterior.
 
-VII. La Cartera de Proyectos de Tecnologías de la información, alineada a la Estrategia de Tecnologías de la información, incluyendo la calendarización, estimación presupuestal y estudio de costo beneficio para su ejecución.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-VIII. Los Estándares de Tecnologías de la información utilizados en las tecnologías de la información y en la calendarización anual del costo de operación de la infraestructura de tecnologías de la información.
+VI. La calendarización anual y costo de operación de la infraestructura de tecnologías de la información y comunicación para el año inmediato siguiente.
 
-IX. Las medidas en materia de Protección de Datos Personales que deberán las autoridades del Estado sobre la información que proporcionen las personas al realizar trámites y servicios digitales.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+VII. La Cartera de Proyectos de Tecnologías de la Información y Comunicación, alineada a la Estrategia de Tecnologías de la Información y Comunicación, incluyendo la calendarización, estimación presupuestal y estudio de costo beneficio para su ejecución.
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+VIII. Los Estándares de Tecnologías de la información y Comunicación utilizados en las tecnologías de la información y comunicación y en la calendarización anual del costo de operación de la infraestructura de tecnologías de la información y comunicación.
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+IX. Las medidas en materia de protección de datos personales que deberán cumplir los sujetos de la Ley respecto de la información que proporcionen las personas al realizar trámites y servicios digitales.
 
 X. Las demás que establezca el Consejo.
 
-Una vez aprobado el Programa Estatal de Tecnologías de la información, deberá de publicarse en el Periódico Oficial “Gaceta del Gobierno”.
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-#### SECCIÓN TERCERA. DE LOS ESTÁNDARES DE TECNOLOGÍAS DE LA INFORMACIÓN
+Una vez aprobado el Programa Estatal de Tecnologías de la Información y comunicación, deberá de publicarse en el periódico oficial "Gaceta del Gobierno".
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+#### SECCIÓN TERCERA. DE LOS ESTÁNDARES DE TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 18.
 
-Los Estándares de Tecnologías de la información son las directrices tecnológicas aplicables a los sujetos de la presente Ley, basados en las mejores prácticas nacionales e internacionales.
+Los Estándares de Tecnologías de la Información y Comunicación son las directrices tecnológicas aplicables a los sujetos de la presente Ley, basados en las mejores prácticas nacionales e internacionales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 19.
 
-Los Estándares de Tecnologías de la información deberán contener lo siguiente:
+Los Estándares de Tecnologías de la Información y Comunicación deberán contener lo siguiente:
 
 I. Sitios Web.
 
@@ -439,25 +565,33 @@ XI. Las demás que considere el Consejo por motivo del avance tecnológico.
 
 ### CAPÍTULO CUARTO. DE LOS PORTALES INFORMATIVOS A LOS PORTALES TRANSACCIONALES
 
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 20.
 
-Los sujetos de la presente Ley, deberán transformar sus portales informativos en transaccionales, para que las personas puedan realizar, de manera ágil y sencilla, los trámites y servicios electrónicos que ofrecen en sus respectivos ámbitos de competencia y que se encuentren en el SEITS.
+Los sujetos de la presente Ley, deberán transformar sus portales informativos en transaccionales, para que las personas puedan realizar, de manera ágil y sencilla, los trámites y servicios digitales que ofrecen en sus respectivos ámbitos de competencia y que se encuentren en el SETS (sic).
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 21.
 
-Para el cumplimiento de lo previsto en el artículo anterior, los sujetos de la presente Ley, deberán observar los estándares de tecnologías de la información y la arquitectura gubernamental digital.
+Para el cumplimiento de lo previsto en el artículo anterior, los sujetos de la presente Ley, deberán observar los estándares de tecnologías de la información y comunicación y la arquitectura gubernamental digital.
 
 ###### Artículo 22.
 
 Los sujetos de la presente Ley deberán garantizar que los trámites y servicios se realicen en formato digital a través de sus portales transaccionales.
 
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 23.
 
-Los sujetos de la presente Ley deberán mantener actualizados en el RETyS los requisitos y datos para la realización de los trámites y servicios electrónicos que presten a través de sus respectivos portales transaccionales.
+Los sujetos de la presente Ley deberán mantener actualizados en el RETyS los requisitos y datos para la realización de los trámites y servicios digitales que presten a través de sus respectivos portales transaccionales.
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 24.
 
-Los particulares que decidan iniciar un trámite o servicio en línea deberán culminarlo de la misma manera.
+Las personas físicas y jurídicas colectivas que decidan iniciar un trámite o servicio en línea deberán culminarlo de la misma manera, siempre y cuando la naturaleza del trámite lo permita.
 
 ###### Artículo 25.
 
@@ -465,11 +599,13 @@ Para la transformación de los portales informativos a portales transaccionales,
 
 ### CAPÍTULO QUINTO. DEL REGISTRO ÚNICO DE PERSONAS ACREDITADAS EN EL ESTADO DE MÉXICO
 
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 26.
 
-El RUPAEMEX es la base de datos que se conforma con los documentos e información otorgados por los sujetos de la presente Ley, para efecto de realizar trámites y solicitar servicios en línea.
+El RUPAEMEX es la base de datos que se conforma con los documentos e información otorgados por las personas físicas y jurídicas colectivas, para efecto de realizar trámites y solicitar servicios en línea.
 
-El Reglamento de la presente Ley deberá establecer los requisitos para que los sujetos de la Ley se inscriban en el RUPAEMEX.
+El Reglamento de la presente Ley deberá establecer los requisitos para que las personas físicas y jurídicas colectivas se inscriban en el RUPAEMEX.
 
 ###### Artículo 27.
 
@@ -479,7 +615,9 @@ I. La planeación, diseño, control, coordinación, mantenimiento y actualizaci�
 
 II. La expedición, modificación, revocación o cancelación de la inscripción al RUPAEMEX, a través de un nombre de usuario y una contraseña.
 
-III. Establecer lineamientos para la operación e interconexión entre los sujetos de la presente Ley.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+III. Establecer lineamientos para la operación e interconexión entre los sujetos de la presente ley con el PUPAEMEX (sic).
 
 ###### Artículo 28.
 
@@ -497,9 +635,11 @@ Es obligación de los usuarios registrados mantener actualizada la información 
 
 ### CAPÍTULO SEXTO. DEL SISTEMA ELECTRÓNICO DE INFORMACIÓN, TRÁMITES Y SERVICIOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 31.
 
-Se crea el SEITS como un servicio público de consulta y gestión de trámites y servicios con base en el uso de medios electrónicos y tecnologías de la información.
+Se crea el SETS (sic) como un servicio público de consulta y gestión de trámites y servicios con base en el uso de medios electrónicos y tecnologías de la información y comunicación.
 
 Lo anterior, sin perjuicio de la realización de dichos trámites y servicios directamente ante las instancias correspondientes.
 
@@ -517,21 +657,29 @@ III. El Padrón de Certificados Electrónicos de Servidores Públicos del Estado
 
 ### CAPÍTULO SÉPTIMO. DEL SISTEMA DE GESTIÓN DE TRÁMITES Y SERVICIOS EN LÍNEA
 
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 33.
 
-El Sistema de Gestión de Trámites y Servicios en Línea del Estado de México es un Portal Transaccional, por medio del cual, los particulares pueden realizar trámites y servicios en línea a través del uso de tecnologías de la información.
+El Sistema de Gestión de Trámites y Servicios en Línea del Estado de México es un elemento del SEITS, por medio del cual, las personas físicas y/o jurídicas colectivas pueden realizar trámites y servicios en línea de principio a fin, a través del uso de tecnologías de la información y comunicación.
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 34.
 
-La implementación del Sistema de Gestión de Trámites y Servicios en Línea del Estado de México no excluye la posibilidad de la realización de trámites y servicios de manera presencial por los particulares.
+La implementación del Sistema de Gestión de Trámites y Servicios en Línea del Estado de México no excluye la posibilidad de la realización de trámites y servicios de manera presencial por las personas físicas y/o jurídicas colectivas.
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 35.
 
-Para hacer uso del Sistema de Gestión de Trámites y Servicios en Línea del Estado de México, los particulares necesitarán estar inscritos en el RUPAEMEX, así como ser propietarios de una CUTS y de una Firma Electrónica Avanzada.
+Para hacer uso del Sistema de Gestión de Trámites y Servicios en Línea del Estado de México, las personas físicas y/o jurídicas colectivas necesitaran estar inscritos en el RUPAEMEX, así como ser propietarios de una CUTS y de una Firma Electrónica Avanzada.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 36.
 
-Para la gestión de trámites y servicios que realicen en línea, los particulares deberán acreditar su personalidad jurídica con su CUTS.
+Para la gestión de trámites y servicios que realicen en línea de principio a fin, las personas físicas y/o jurídicas colectivas deberán acreditar su personalidad jurídica con su Firma Electrónica Avanzada y su identidad electrónica con su CUTS respectiva.
 
 El Reglamento de la presente Ley establecerá las bases para atender la gestión de trámites y servicios en ventanilla, a través de la utilización del SEITS.
 
@@ -583,47 +731,93 @@ El titular de la unidad administrativa que no de aviso de la separación de un s
 
 LAS DEPENDENCIAS Y LOS ORGANISMOS AUXILIARES DEL PODER EJECUTIVO, LOS ÓRGANOS AUTÓNOMOS, EL PODER LEGISLATIVO DEL ESTADO DE MÉXICO, EL PODER JUDICIAL DEL ESTADO DE MÉXICO Y LOS NOTARIOS PÚBLICOS
 
-> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 44.
 
-Las dependencias y los organismos auxiliares del Poder Ejecutivo, los órganos autónomos, el Poder Legislativo del Estado de México y el Poder Judicial del Estado de México, tendrán las funciones siguientes:
+Las dependencias y los organismos auxiliares del Poder Ejecutivo, los órganos autónomos, el Poder Legislativo, el Poder Judicial y los Notarios Públicos, tendrán las funciones siguientes:
 
-I. Desarrollar acciones y gestiones dirigidas a implementar en su funcionamiento y operación el uso de tecnologías de la información, con el fin de garantizar que los trámites y servicios que presten al ciudadano sean eficientes.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-II. Incorporar en el SEITS, los trámites y servicios electrónicos que sean de nueva creación.
+I. Desarrollar acciones y gestiones dirigidas a implementar en su funcionamiento y operación el uso de tecnologías de la información y comunicación, con el fin de garantizar que los trámites y servicios que presten al ciudadano sean eficientes.
 
-III. Realizar las gestiones necesarias para difundir y promover entre las personas los trámites y servicios electrónicos que se encuentren disponibles a través de sus portales transaccionales.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-IV. Implementar políticas para garantizar la protección de los datos personales, proporcionados por las personas en sus portales transaccionales, para los trámites y servicios electrónicos que realicen, de conformidad en la Ley de Protección de Datos Personales del Estado de México.
+II. Incorporar en el SETS (sic); los trámites y servicios digitales que sean de nueva creación.
 
-V. Incorporar mejores prácticas del sector tecnológico a los programas que incluyan el uso de tecnologías de la información.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-VI. Cumplir con lo establecido en la planeación, programación, presupuestación, adquisición de servicios y uso estratégico de tecnologías de la información, conforme a lo previsto en los lineamientos técnicos y en las disposiciones programáticas y presupuestales correspondientes.
+III. Realizar las gestiones necesarias para difundir y promover entre las personas los trámites y servicios digitales que se encuentren disponibles a través de sus portales transaccionales.
 
-VII. Desarrollar las acciones y gestiones necesarias para incorporar a sus portales transaccionales, los trámites y servicios electrónicos dándole prioridad a aquellos de mayor impacto para el ciudadano.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-VIII. Diseñar e implementar acciones, para impulsar los trámites y servicios electrónicos.
+IV. Implementar políticas para garantizar la protección de los datos personales, proporcionados por las personas en sus portales transaccionales, para los trámites y servicios digitales que realicen, de conformidad en la Ley de Protección de Datos Personales del Estado de México.
 
-IX. Proponer los medios electrónicos que estimen convenientes, para la prestación de trámites y servicios electrónicos.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+V. Incorporar mejores prácticas del sector tecnológico a los programas que incluyan el uso de tecnologías de la información y comunicación.
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+VI. Cumplir con lo establecido en la planeación, programación, presupuestación, adquisición de servicios y uso estratégico de tecnologías de la información y comunicación, conforme a lo previsto en los lineamientos técnicos y en las disposiciones programáticas y presupuestales correspondientes.
+
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+VI Bis. Solicitar el dictamen técnico a la autoridad competente, previo a la adquisición, arrendamiento yo (sic) contratación de bienes y servicios en materia de tecnologías de la información y comunicación, de acuerdo a las especificaciones establecidas en su Reglamento.
+
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+VI Ter. Implementar mecanismos para el puntual seguimiento en el cambio de la administración de los proyectos relacionados con la aplicación de las tecnologías de información y comunicación, elaborando el acta respectiva en la que se establezca el estatus y funcionamiento que guardan respecto del dictamen técnico emitido.
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+VII. Desarrollar las acciones y gestiones necesarias para incorporar a sus portales transaccionales, los trámites y servicios digitales dándole prioridad a aquellos de mayor impacto para el ciudadano.
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+VIII. Diseñar e implementar acciones, para impulsar los trámites y servicios digitales.
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+IX. Proponer los medios electrónicos que estimen convenientes, para la prestación de trámites y servicios digitales.
+
+> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
 
 X. Realizar las acciones necesarias, para promover la conversión, desarrollo y actualización permanente de sus portales transaccionales.
 
-XI. Elaborar su programa de trabajo y enviarlo al secretario técnico del Consejo.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XI. Elaborar su programa de trabajo y enviarlo al Secretario Técnico de su Comité Interno respectivo para la conformación del programa sectorial.
+
+> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
 
 XII. Emitir copias digitales de los documentos asociados a un trámite o servicio validados con la firma electrónica avanzada y el sello electrónico en los expedientes digitales.
 
+> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
+
 XIII. Expedir su manual de procedimientos en materia de Gobierno Digital.
+
+> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
 
 XIV. Realizar mediciones de calidad del servicio que se otorga a través de los portales transaccionales.
 
-XV. Prever las condiciones físicas donde opere la infraestructura de tecnologías de la información.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-XVI. Contar con registros que faciliten la identificación de los recursos de tecnologías de la información asignados.
+XV. Prever las condiciones físicas donde opere la infraestructura de tecnologías de la información y comunicación.
 
-XVII. Contar con registros que midan la capacidad y el desempeño de los recursos de tecnologías de la información que se encuentren bajo su administración, a fin de facilitar la planeación del crecimiento de los portales transaccionales.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-XVIII. Verificar que los recursos de tecnologías de la información y los servicios administrados cumplan con lo establecido en los contratos.
+XVI. Contar con registros que faciliten la identificación de los recursos de tecnologías de la información y comunicación asignados.
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XVII. Contar con registros que midan la capacidad y el desempeño de los recursos de tecnologías de la información y comunicación que se encuentren bajo su administración, a fin de facilitar la planeación del crecimiento de los portales transaccionales.
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+XVIII. Verificar que los recursos de tecnologías de la información y comunicación y los servicios administrados cumplan con lo establecido en los contratos.
+
+> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
 
 XIX. Las demás que considere necesarias el Consejo.
 
@@ -635,57 +829,97 @@ Los ayuntamientos tendrán las funciones siguientes:
 
 I. Designar a la unidad administrativa del ayuntamiento encargada del Gobierno Digital.
 
-II. Establecer de acuerdo con la Agenda Digital, la política municipal para el fomento, uso y aprovechamiento estratégico de las tecnologías de la información, para el Gobierno Digital.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-III. Fomentar la celebración de convenios de coordinación, colaboración y concertación, según corresponda, con la Federación, los Estados y municipios así como los sectores social y privado en materia de uso y aprovechamiento estratégico de las tecnologías de la información.
+II. Establecer de acuerdo con la Agenda Digital, la política municipal para el fomento, uso y aprovechamiento estratégico de las tecnologías de la información y comunicación para el Gobierno Digital.
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+III. Fomentar la celebración de convenios de coordinación, colaboración y concertación, según corresponda, con la Federación, los Estados y municipios así como los sectores social y privado en materia de uso y aprovechamiento estratégico de las tecnologías de la información y comunicación.
 
 IV. Implementar el Gobierno Digital en la prestación de los trámites y servicios que la Administración Pública Municipal ofrece a las personas.
 
-V. Proponer la regulación necesaria en materia de uso y aprovechamiento estratégico de tecnologías de la información, tomando en cuenta las disposiciones emitidas por el Consejo y la Dirección, con el fin de establecer los requerimientos tecnológicos para la introducción de conectividad en los edificios públicos.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+V. Proponer la regulación necesaria en materia de uso y aprovechamiento estratégico de tecnologías de la información y comunicación, tomando en cuenta las disposiciones emitidas por el Consejo y la Dirección, con el fin de establecer los requerimientos tecnológicos para la introducción de conectividad en los edificios públicos.
+
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+V Bis. Solicitar el dictamen técnico a la Dirección, previo a la adquisición, arrendamiento y/o contratación de bienes y servicios en materia de tecnologías de la información y comunicación.
+
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+V Ter. Con independencia del cambio de administración dar continuidad a los programas relacionados con la aplicación de las tecnologías de información y comunicación, elaborando el acta respectiva en la que se establezca el estado y el funcionamiento que guardan respecto del dictamen emitido por la Dirección.
 
 VI. Las demás que le otorgue esta Ley u otros ordenamientos jurídicos.
 
-### CAPÍTULO DÉCIMO. DEL MONITOREO Y EVALUACIÓN DEL USO DE TECNOLOGÍAS DE LA INFORMACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+### CAPÍTULO DÉCIMO. DEL MONITOREO Y EVALUACIÓN DEL USO DE TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN
 
 #### SECCIÓN PRIMERA. DE LOS REPORTES DE AVANCE DE LOS PROGRAMAS DE TRABAJO
 
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 46.
 
-Los sujetos de la presente Ley deberán entregar de manera trimestral al Secretario Técnico del Consejo, el Reporte de Avance de los Programas de Trabajo de Tecnologías de la información.
+Los sujetos de la presente Ley deberán entregar de manera trimestral al Secretario Técnico de su respectivo Comité Interno, el Reporte de Avance de los Programas de Trabajo.
 
 ###### Artículo 47.
 
 El Reporte de Avance de los Programas de Trabajo deberá contener lo siguiente:
 
-I. El cumplimiento de los indicadores de desempeño de la Estrategia de Tecnologías de la información en cada proyecto.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-II. El costo de operación de las tecnologías de la información.
+I. El cumplimiento de los indicadores de desempeño de la Estrategia de Tecnologías de la Información y Comunicación en cada proyecto.
 
-III. El avance de los proyectos de tecnologías de la información.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-IV. Los dictámenes técnicos emitidos para cada proyecto de tecnologías de la información.
+II. El costo de operación de las tecnologías de la información y comunicación.
 
-V. La efectividad de las tecnologías de la información aplicadas en los proyectos.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+III. El avance de los proyectos de tecnologías de la información y comunicación.
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+IV. Los dictámenes técnicos emitidos para cada proyecto de tecnologías de la información y comunicación.
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+V. La efectividad de las tecnologías de la información y comunicación aplicadas en los proyectos.
 
 VI. Cualquier otra información que sea requerida por el Consejo.
 
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 48.
 
-El secretario técnico deberá presentar al Consejo, los reportes de avance de los programas de trabajo de tecnologías de la información.
+El Secretario Técnico deberá presentar al Consejo, el reporte de avance del Programa Sectorial de tecnologías de la información y comunicación de los Sujetos de la Ley.
 
-#### SECCIÓN SEGUNDA. DE LA EVALUACIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+#### SECCIÓN SEGUNDA. DE LA EVALUACIÓN DE TÉCNOLOGIAS DE LA INFORMACIÓN Y COMUNICACIÓN
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 49.
 
-El Consejo evaluará los avances que tengan los sujetos de la presente Ley en materia de tecnologías de la información, emitiendo las recomendaciones necesarias para cumplir con el objetivo del Programa Estatal de Tecnologías de la información y otros instrumentos aplicables en la materia.
+El Consejo evaluará los avances que tengan los sujetos de la presente Ley en materia de tecnologías de la información y comunicación, emitiendo las recomendaciones necesarias para cumplir las estrategias de tecnologías de la información y comunicación.
+
+El Órgano Superior de Fiscalización del Estado de México, evaluará el informe y, en su caso, realizará las acciones conducentes conforme a la normatividad de la materia.
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 50.
 
-El secretario técnico del Consejo deberá presentar un informe en la primera sesión ordinaria del año, sobre los avances de los sujetos de la presente Ley, respecto de los programas de trabajo del año inmediato anterior, establecidos en la agenda digital y en el Plan de Desarrollo del Estado de México, así como el uso de recursos financieros en la inversión en materia de tecnologías de la información.
+El Secretario Técnico del Consejo deberá presentar un informe en la primera sesión ordinaria del año, sobre los avances de los sujetos de la presente Ley, respecto de los Programas Sectoriales del año inmediato anterior, alineados (sic) la Agenda Digital y en el Plan de Desarrollo del Estado de México, así como el uso de recursos financieros en la inversión en materia de tecnologías de la información y comunicación.
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 51.
 
-Con base en las recomendaciones antes mencionadas, el Presidente del Consejo instruirá al secretario técnico la articulación de las acciones de mejora tecnológica y en su caso, el ajuste a los estándares de tecnologías de la información.
+Con base en las recomendaciones antes mencionadas, el Presidente del Consejo instruirá al Secretario Técnico la articulación de las acciones de mejora tecnológica y en su caso, el ajuste a los estándares de tecnologías de la información y comunicación.
 
 ### CAPÍTULO DÉCIMO PRIMERO. DE LOS CERTIFICADOS DIGITALES DE FIRMA ELECTRÓNICA AVANZADA Y SELLO ELECTRÓNICO
 
@@ -693,65 +927,65 @@ Con base en las recomendaciones antes mencionadas, el Presidente del Consejo ins
 
 ###### Artículo 52.
 
-El Órgano Superior de Fiscalización del Estado de México, evaluará el informe y, en su caso, realizará las acciones conducentes conforme a la normatividad de la materia.
+(DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2016)
 
 ###### Artículo 53.
 
 El certificado digital es el documento validado por la autoridad certificadora que confirma la identidad del titular con la firma o sello electrónicos.
 
-El Reglamento de la presente Ley regulará la forma en la que se garantizará la seguridad, integridad y eficacia en el uso de la firma electrónica avanzada y Sello Electrónico.
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-Los sujetos de la presente Ley deberán verificar que los certificados digitales de firma electrónica avanzada y/o sello electrónico se encuentren dentro del padrón de certificados electrónicos, a fin de validar que sean certificados digitales reconocidos por las unidades certificadoras.
+El Reglamento de la presente Ley regulará la forma en la que se garantizará la seguridad, integridad y eficacia en el uso de la firma electrónica avanzada, firma electrónica y sello electrónico.
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+Los sujetos de la presente Ley deberán verificar que los certificados digitales de firma electrónica avanzada, firma electrónica y/o sello electrónico se encuentren dentro del padrón de certificados electrónicos, a fin de validar que sean certificados digitales reconocidos por las unidades certificadoras y autoridades certificadoras según corresponda.
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 54.
 
-Todo mensaje de datos o documento que cuente con certificado digital de firma electrónica avanzada y/o sello electrónico y que se haya derivado de actos, procedimientos, trámites y/o resoluciones realizados en los términos de la Ley, tendrá la misma validez legal que los que se firmen de manera autógrafa y/o se sellen manualmente en documento impreso.
+Todo mensaje de datos o documento que cuente con certificado digital de firma electrónica avanzada, firma electrónica y/o sello electrónico y que se haya derivado de actos, procedimientos, trámites y/o resoluciones realizados en los términos de la Ley, tendrá la misma validez legal que los que se firmen de manera autógrafa y/o se sellen manualmente en documento impreso.
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 55.
 
-El contenido de los mensajes de datos que contengan certificados digitales de firma electrónica avanzada y/o sello electrónico, relativos a los actos, convenios, comunicaciones, procedimientos administrativos y jurisdiccionales, trámites, prestación de los servicios públicos y las solicitudes y promociones que se realicen utilizando medios electrónicos, deberán conservarse en expedientes digitales.
+El contenido de los mensajes de datos que contengan certificados digitales de firma electrónica avanzada, firma electrónica y/o sello electrónico, relativos a los actos, convenios, comunicaciones, procedimientos administrativos y jurisdiccionales, trámites, prestación de los servicios públicos y las solicitudes y promociones que se realicen utilizando medios electrónicos, deberán conservarse en expedientes digitales.
 
 ###### Artículo 56.
 
 Todo mensaje de datos se tendrá por expedido en el lugar donde el emisor tenga su domicilio legal y por recibido en el lugar donde el destinatario tenga el suyo, salvo prueba en contrario.
 
-Se presumirá salvo prueba en contrario, que un mensaje de datos proviene de persona determinada, cuando contenga su firma electrónica avanzada y/o sello electrónico.
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+Se presumirá salvo prueba en contrario, que un mensaje de datos proviene de persona determinada, cuando contenga su firma electrónica avanzada, firma electrónica y/o sello electrónico.
 
 El momento de recepción de un mensaje de datos será en el que se ingresa el sistema de información o medio electrónico designado para tal fin.
 
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 57.
 
-Cuando los sujetos de la presente Ley realicen comunicaciones por tecnologías de la información en hora o día inhábil, se tendrán por presentados en la primera hora del siguiente día hábil.
+Cuando los sujetos de la presente Ley realicen comunicaciones por tecnologías de la información y comunicación en hora o día inhábil, se tendrán por presentados en la primera hora del siguiente día hábil.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 58.
 
-La validación de los certificados de la firma electrónica avanzada y/o sello electrónico de los sujetos de la presente Ley y de los particulares se realizará por medio de la autoridad certificadora.
+La validación de los certificados de la firma electrónica avanzada, firma electrónica y/o sello electrónico de los sujetos de la presente Ley y de las personas físicas o jurídicas colectivas se realizará por medio de la autoridad certificadora o unidad certificadora según corresponda.
 
 Dicha validación deberá contener la estampa de tiempo.
 
 #### SECCIÓN SEGUNDA. DE LA FIRMA ELECTRÓNICA Y DEL SELLO ELECTRÓNICO
 
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 59.
 
-Serán titulares de la firma electrónica avanzada:
+Serán titulares de la firma electrónica avanzada o firma electrónica los servidores públicos titulares de las unidades administrativas y/o equivalentes que tengan a su cargo trámites y servicios digitales pertenecientes a los sujetos de la Ley.
 
-I. Las dependencias y los organismos auxiliares del Poder Ejecutivo, a que se refiere la Ley Orgánica de la Administración Pública del Estado de México y los órganos autónomos que establece la Constitución Política del Estado Libre y Soberano de México.
-
-II. Los ayuntamientos, las dependencias y entidades de la administración pública municipal, previstos en la Ley Orgánica Municipal del Estado de México y en los bandos y reglamentos municipales respectivos.
-
-III. El Poder Legislativo del Estado de México.
-
-IV. El Poder Judicial del Estado de México.
-
-V. Los notarios públicos del Estado de México.
-
-VI. Los representantes legales de las personas jurídicas colectivas.
-
-VII. Las personas físicas.
-
-Los titulares serán informados, por escrito, por la unidad certificadora, de las responsabilidades y deberes que asumen con el uso de la firma electrónica, hecho lo cual, los primeros signarán la carta responsiva correspondiente.
-
-De no contar con un certificado, los particulares sólo podrán utilizar el sistema para la gestión de trámites y servicios para los cuales no se requiera la firma electrónica.
+Las personas físicas y jurídicas colectivas podrán realizar los trámites y servicios digitales de acuerdo a su naturaleza en el entendido que se requiera firma electrónica o firma electrónica avanzada y que de no contar con estas podrán realizarlo de manera presencial.
 
 ###### Artículo 60.
 
@@ -771,9 +1005,11 @@ VI. Las personas jurídico colectivas.
 
 Los sujetos autorizados serán informados por escrito, por la Unidad Certificadora, de las responsabilidades y deberes que se asumen con el uso del servicio del sellado electrónico, hecho lo cual, los primeros signarán la carta responsiva correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 61.
 
-Con la firma electrónica y/o el sello electrónico deberá garantizarse, cuando menos, lo siguiente:
+Con la firma electrónica avanzada, firma electrónica y/o el sello electrónico deberá garantizarse, cuando menos, lo siguiente:
 
 I. La autenticación de los actores en el acto o procedimiento administrativo en el SEITS.
 
@@ -784,6 +1020,12 @@ III. La integridad de los datos vinculados con los actos y/o procedimientos admi
 IV. El no repudio de los actores que firmen o sellen electrónicamente las gestiones realizadas en el SEITS.
 
 V. La posibilidad de determinar la fecha electrónica del mensaje de datos.
+
+> <small>(ADICIONADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 61 Bis.
+
+La Firma Electrónica Notarial se regulará por lo dispuesto en la presente Ley, en la Ley del Notariado del Estado de México y demás disposiciones jurídicas aplicables.
 
 #### SECCIÓN TERCERA. CONVENIOS DE PORTABILIDAD
 
@@ -811,15 +1053,31 @@ Los trámites y servicios que tenga como formalidad a los certificados digitales
 
 Para los efectos de esta Ley, las autoridades certificadoras de la Firma Electrónica Avanzada, son las establecidas en el artículo 23 de la Ley de Firma Electrónica Avanzada.
 
-### CAPÍTULO DÉCIMO SEGUNDO. DE LOS DERECHOS DE LOS PARTICULARES
+> <small>(ADICIONADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 67 Bis.
+
+La Unidad Certificadora podrá emitir certificados de firma electrónica cuando:
+
+I. Los trámites y servicios digitales requieran ser firmados masivamente.
+
+II. Se trate de expedir a la Firma Electrónica Notarial.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+### CAPITULO DÉCIMO SEGUNDO. DE LOS DERECHOS DE LAS PERSONAS FÍSICAS Y JURÍDICO COLECTIVAS
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 68.
 
-Los particulares tendrán derecho a relacionarse con los sujetos de la presente Ley, a través de medios electrónicos que estos determinen, para recibir por esa vía de comunicación, atención e información gubernamental, así como realizar consultas, formular solicitudes, efectuar pagos, trámites y servicios electrónicos, entre otros.
+Las personas físicas y/o jurídico colectivas tendrán derecho a relacionarse con los sujetos de la presente Ley, a través de medios electrónicos que estos determinen, para recibir por esa vía de comunicación, atención e información gubernamental, así corno (sic) realizar consultas, formular solicitudes, efectuar pagos, trámites y servicios digitales, entre otros.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 69.
 
-Los particulares tienen los derechos siguientes:
+Las personas físicas y/o jurídico colectivas tienen los derechos siguientes:
 
 I. Elegir el medio electrónico determinado por el Consejo a través del cual se relacionarán con los sujetos de la Ley.
 
@@ -827,7 +1085,9 @@ II. Obtener información sobre el estatus del trámite realizado.
 
 III. Obtener copias digitales de los documentos que formen parte de los expedientes en los que tengan el carácter de solicitantes.
 
-IV. Utilizar la firma electrónica avanzada en los procesos y procedimientos administrativos, jurisdiccionales, trámites y servicios electrónicos que se lleven a cabo entre los sujetos de la presente Ley.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+IV. Utilizar la Firma Electrónica Avanzada en los procesos y procedimientos administrativos, jurisdiccionales, trámites y servicios digitales que se lleven a cabo entre los sujetos de la presente Ley.
 
 V. A la garantía de la seguridad y protección de los datos personales otorgados por las personas físicas o jurídicas colectivas usuarias de los portales informativos o transaccionales.
 
@@ -835,27 +1095,35 @@ VI. A ser atendido en tiempo y forma en la realización de los trámites y servi
 
 ### CAPÍTULO DÉCIMO TERCERO. DE LA SEGURIDAD Y PROTECCIÓN DE DATOS PERSONALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 70.
 
-Para garantizar la seguridad de los portales transaccionales y de los datos personales de los particulares, los sujetos de la Ley deberán realizar las siguientes acciones:
+Para garantizar la seguridad de los portales transaccionales y de los datos personales de las personas físicas y/o jurídicos (sic) colectivas, los sujetos de la Ley deberán realizar las siguientes acciones:
 
 I. Elaborar planes de contingencia y difundirlos a sus servidores públicos.
 
 II. Contar con respaldos de datos y aplicaciones.
 
-III. Contar con registros de las configuraciones de los recursos de tecnologías de la información que brindan soporte a los portales transaccionales.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+III. Contar con registros de las configuraciones de los recursos de tecnologías de la información y comunicación que brindan soporte a los portales transaccionales.
 
 IV. Llevar un registro de las acciones correctivas atendidas en los portales, que facilite el análisis de las causas y prevención futura de incidentes.
 
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 71.
 
-Los datos personales proporcionados por las personas físicas o jurídico colectivas, deberán ser protegidos por los sujetos de la presente Ley que tienen bajo su custodia la información.
+Los datos personales proporcionados por las personas físicas o jurídicas colectivas, deberán ser protegidos por los sujetos de la presente Ley que tienen bajo su custodia la información.
 
-Para el cumplimiento de lo establecido en el primer párrafo de este artículo, el Consejo debe establecer políticas a seguir por los sujetos de la presente Ley, con el fin de garantizar el uso seguro de las tecnologías de la información.
+Para el cumplimiento de lo establecido en el primer párrafo de este artículo, el Consejo debe establecer políticas a seguir por los sujetos de la presente Ley, con el fin de garantizar el uso seguro de las tecnologías de la información y comunicación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 72.
 
-Los servidores públicos serán responsables del manejo, disposición, protección y seguridad de los datos personales que los particulares proporcionen para la realización de los trámites y servicios electrónicos.
+Los servidores públicos serán responsables del manejo, disposición, protección y seguridad de los datos personales que las personas físicas y/o jurídicas colectivas proporcionen para la realización de los trámites y servicios digitales.
 
 Para el cumplimiento de lo anterior, los servidores públicos no podrán ceder a terceros, salvo autorización expresa en contrario, los datos personales a que hace referencia el presente capítulo.
 
@@ -869,9 +1137,17 @@ Los sujetos de la presente Ley que con motivo de sus funciones requieran el uso 
 
 Los dominios que usen para sus portales informativos y transaccionales, así como aplicaciones web deberán ser autorizados por la Dirección a efecto de mantener armonizados e identificables los mismos, de acuerdo a los lineamientos que emita el Consejo.
 
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 74.
 
-Cuando se firme electrónicamente documentación usando un certificado digital de firma electrónica avanzada y/o sello electrónico, se generarán diferentes versiones del documento, teniendo validez legal el que está en formato electrónico.
+Cuando se firme electrónicamente documentación usando un certificado digital de Firma Electrónica Avanzada, Firma Electrónica y/o Sello Electrónico, se generarán diferentes versiones del documento, teniendo validez legal el que está en formato electrónico.
+
+> <small>(ADICIONADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 74 Bis.
+
+El tratamiento de los documentos firmados electrónicamente estará a lo dispuesto por la Ley de la materia.
 
 ###### Artículo 75.
 
@@ -883,15 +1159,19 @@ El expediente digital es la conservación de documentos electrónicos, que se re
 
 ### CAPÍTULO DÉCIMO QUINTO. DE LAS RESPONSABILIDADES
 
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 77.
 
-Los servidores públicos que infrinjan las disposiciones de esta Ley, serán sancionados de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+Los servidores públicos que infrinjan las disposiciones de esta Ley, serán sancionados de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios y demás ordenamientos aplicables.
 
 ###### Artículo 78.
 
 Se iniciará procedimiento administrativo al que incurra en la omisión o incumplimiento de los supuestos siguientes:
 
-I. Convertir a portales transaccionales sus portales informativos.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+I. Convertir a portales transaccionales sus portales informativos de conformidad a su naturaleza.
 
 II. Incorporar a sus portales transaccionales, los trámites y servicios digitales que sean de su competencia.
 
@@ -899,9 +1179,23 @@ III. Utilizar las medidas, recomendadas por el Consejo, para la seguridad y prot
 
 IV. Mantener actualizados sus portales transaccionales y los datos establecidos en el RETyS.
 
-V. Elaborar su programa de trabajo de tecnologías de la información.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+V. Elaborar su programa de trabajo de tecnologías de la información y comunicación.
 
 VI. Proporcionar información generada en el ámbito de su competencia, para la generación del sitio de datos abiertos.
+
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+VII. No cuente con dictamen técnico previo a la adquisición, arrendamiento, contratación de bienes y servicios en materia de tecnologías de la información y comunicación.
+
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+VIII. Dar continuidad a los programas relacionados con la aplicación de las tecnologías de la información y comunicación, independientemente del cambio de administración estatal o municipal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+Los procedimientos administrativos derivados de la aplicación de ésta Ley, serán independientes a las responsabilidades civiles o penales que se actualicen.
 
 ## TRANSITORIOS
 
@@ -964,3 +1258,29 @@ EL SECRETARIO GENERAL DE GOBIERNO
 JOSÉ S. MANZUR QUIROGA
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 7 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 120.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO Y DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial 'Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el primero de enero de dos mil diecisiete.
+
+TERCERO. La Comisión Estatal de Factibilidad se deberá instalar en un plazo máximo de 30 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. La Comisión Estatal de Factibilidad emitirá su Reglamento interior dentro de los 30 días naturales posteriores a su instalación.
+
+QUINTO. A la entrada en vigor del presente decreto, los dictámenes y las prórrogas emitidas con anterioridad, conservarán la vigencia que tengan establecida.
+
+SEXTO. Los procedimientos iniciados antes de la entrada en vigor del presente decreto serán concluidos conforme a la legislación aplicable al momento en que se iniciaron.
+
+La persona física o jurídico colectiva que haya iniciado procedimientos antes de la entrada en vigor del presente decreto, podrá elegir la continuidad del mismo, o bien, reiniciar bajo los procedimientos establecidos en el presente decreto, en cuyo caso se admitirán los dictámenes ya obtenidos de las diferentes dependencias del Gobierno del Estado de México.
+
+SÉPTIMO. Cuando en otros ordenamientos se haga referencia a los dictámenes de factibilidad se tendrá por entendido que serán suplidos por el Dictamen Único de Factibilidad emitido por la Comisión Estatal de Factibilidad.
+
+OCTAVO. El Ejecutivo Estatal contará con un plazo no mayor a 30 días naturales posteriores a la entrada en vigor del presente Decreto, para emitir los ordenamientos jurídicos reglamentarios, en donde se establecerán los tiempos de respuesta por parte de las autoridades.
+
+NOVENO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
