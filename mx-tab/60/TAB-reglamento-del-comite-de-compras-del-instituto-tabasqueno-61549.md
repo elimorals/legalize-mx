@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-del-comite-de-compras-del-instituto-tabasqueno-61549
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-05-21"
-last_updated: "2015-03-07"
+last_updated: "2016-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61549&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO DEL COMITÉ DE COMPRAS DEL INSTITUTO TABASQUEÑO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2016.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 21 de mayo de 2008.
 
@@ -71,11 +71,13 @@ TERCERO.- El Comité de Compras del Instituto Tabasqueño de Transparencia y Acc
 
 I. Un Presidente: Titular de la Dirección de Administración y Finanzas;
 
-II. Un Secretario: Titular de la Subdirección de Administración y Finanzas; y
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 2015)</small>
+II. Un Secretario: Titular de la Dirección Jurídica Consultiva y Protección de Datos Personales; y
 
-III. Tres Vocales conformados por: Un Consejero Propietario designado por el Órgano de Gobierno, el Titular de la Secretaria Ejecutiva, y el Titular de la Dirección Jurídica Consultiva;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2016)</small>
+
+III. Tres Vocales conformados por: el Titular de la Secretaría Ejecutiva, el Titular de la Unidad de Planeación y Evaluación al Desempeño y, el Titular de la Unidad de Transparencia;
 
 Además, asistirá a las reuniones de éste con derecho a voz, un Representante del Órgano de Control Interno, mismo que no forma parte de su estructura.
 
@@ -234,3 +236,11 @@ P.O. 7 DE MARZO DE 2015.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su aprobación por el Pleno del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.
 
 SEGUNDO.- Para la debida difusión del contenido del presente acuerdo del pleno, se ordena su publicación en el Órgano de Difusión Oficial del Gobierno del Estado, así como en la página web del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública del Estado.
+
+P.O. 7 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE REFORMAN LAS FRACCIONES II Y III DEL PUNTO TERCERO DEL REGLAMENTO DEL COMITÉ DE COMPRAS DEL INSTITUTO TABASQUEÑO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su aprobación por el Pleno del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.
+
+SEGUNDO.- Para la debida difusión del contenido del presente acuerdo del pleno, se ordena su publicación en el Órgano de Difusión Oficial del Gobierno del Estado, así como en la página web del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.
