@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-los-derechos-3400
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-29"
-last_updated: "2013-08-01"
+last_updated: "2016-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34003&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-08-12"
 
 REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE SEPTIEMBRE DE 2016.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de septiembre de 2003.
 
@@ -111,7 +111,9 @@ Para el desempeño de sus atribuciones y en el ejercicio de su autonomía, la Co
 
 (Reserva de información)
 
-Los servidores públicos de la Comisión Nacional están obligados a guardar la más estricta reserva de los asuntos a su cargo de conformidad con los términos del artículo 4o. de la Ley sin perjuicio de lo dispuesto en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento de Transparencia y Acceso a la Información de la Comisión Nacional.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+Los servidores públicos de la Comisión Nacional están obligados a guardar la más estricta reserva de los asuntos a su cargo de conformidad con los términos del artículo 4o. de la Ley sin perjuicio de lo dispuesto en la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones aplicables.
 
 Los servidores públicos que laboren en la Comisión Nacional no estarán obligados a rendir testimonio cuando dicha prueba haya sido ofrecida en procesos civiles, penales, administrativos o cualquier otro y el testimonio se encuentre relacionado con su intervención en el tratamiento de los asuntos radicados en la Comisión Nacional.
 
@@ -163,9 +165,9 @@ Si en un escrito de queja estuvieren involucrados tanto servidores públicos o a
 
 (Competencia de organismos especializados)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
-Los escritos de queja referentes a presuntas violaciones a los derechos humanos atribuibles a servidores públicos de organismos con facultades para atender las quejas y defender los derechos de los particulares, tales como las procuradurías Agraria, Federal del Consumidor, Federal de Protección al Ambiente, Federal de la Defensa del Trabajo o Federal de los Trabajadores al Servicio del Estado, Comisión Nacional de Arbitraje Médico, Comisión Nacional Bancaria y de Valores, Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, Consejo Nacional para Prevenir la Discriminación, Instituto Federal de Acceso a la Información Pública y Protección de Datos Personales, y los demás que cuenten con facultades similares, quedarán comprendidas dentro de la competencia de la Comisión Nacional.
+Los escritos de queja referentes a presuntas violaciones a los derechos humanos atribuibles a servidores públicos de organismos con facultades para atender las quejas y defender los derechos de los particulares, tales como las procuradurías Agraria, Federal del Consumidor, Federal de Protección al Ambiente, Federal de la Defensa del Trabajo o Federal de los Trabajadores al Servicio del Estado, Comisión Nacional de Arbitraje Médico, Comisión Nacional Bancaria y de Valores, Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, Consejo Nacional para Prevenir la Discriminación, Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, y los demás que cuenten con facultades similares, quedarán comprendidas dentro de la competencia de la Comisión Nacional.
 
 La resolución que tome la Comisión Nacional se basará en los resultados que arroje la investigación que de conformidad con los lineamientos previstos en la Ley y el presente Reglamento se prevén para el trámite de los expedientes de queja. Las resoluciones tendrán la misma naturaleza de las que se envíen a los organismos locales, en los términos de los artículos 168, 169 y 170 del presente Reglamento.
 
@@ -255,6 +257,8 @@ La Secretaría Ejecutiva y la Secretaría Técnica del Consejo Consultivo auxili
 
 Durante las ausencias temporales del presidente de la Comisión Nacional, sus funciones y su representación legal serán ejercidas por el primer visitador general, en ausencia de éste por el segundo visitador general o, en su caso, el tercer, cuarto, quinto o sexto visitadores generales, en su orden.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL ACUERDO PUBLICADO EN EL D.O.F. DE 9 DE SEPTIEMBRE DE 2016, PÁGINAS DE LA 113 A LA 114.]</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE MAYO DE 2012)</small>
 
 ###### Artículo 21.
@@ -263,53 +267,45 @@ Durante las ausencias temporales del presidente de la Comisión Nacional, sus fu
 
 Para el despacho de los asuntos que directamente le corresponden a la presidencia de la Comisión Nacional, ésta contará con el apoyo de las unidades administrativas siguientes:
 
-> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
 I. Oficialía Mayor;
 
-II. Coordinación General de Comunicación y Proyectos;
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
-III. Dirección General de Quejas y Orientación;
+II. Coordinación General de Seguimiento de Recomendaciones y de Asuntos Jurídicos;
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
-IV. Dirección General de Planeación y Análisis;
+III. Dirección General de Comunicación;
 
-V. Dirección General de Información Automatizada;
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
-VI. (DEROGADA, D.O.F. 3 DE ENERO DE 2005)
+IV. Dirección General de Quejas, Orientación y Transparencia;
 
-VII. Dirección General de Asuntos Jurídicos;
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
-VIII. Centro Nacional de Derechos Humanos;
+V. Dirección General de Planeación y Análisis;
 
-> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2012)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
-IX. Dirección General de Seguimiento de Recomendaciones;
+VI. Centro Nacional de Derechos Humanos; y
 
-> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
-X. Coordinación de Asesores;
-
-> <small>(ADICIONADA, D.O.F. 21 DE MAYO DE 2012)</small>
-
-XI. Secretaría Particular de la Presidencia de la Comisión Nacional, y
-
-> <small>(ADICIONADA, D.O.F. 21 DE MAYO DE 2012)</small>
-
-XII. Las demás que se establezcan en los correspondientes acuerdos administrativos.
+VII. Las demás que se establezcan en los correspondientes acuerdos administrativos.
 
 La Comisión Nacional también contará con un órgano interno de control, el cual tendrá las atribuciones y estructura previstas en el presente Reglamento.
 
 Con las excepciones establecidas en la Ley y en este Reglamento, corresponde al presidente de la Comisión Nacional nombrar y remover libremente a todo el personal, con apego a lo dispuesto en las fracciones VII y IX del apartado B del artículo 123 constitucional, así como en el Estatuto del Servicio Civil de Carrera de la misma Comisión Nacional.
 
-> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
-Se reserva en exclusiva al Presidente de la Comisión Nacional el nombramiento y remoción de los Visitadores Generales, del Secretario Ejecutivo, del Oficial Mayor, del coordinador General de Comunicación y Proyectos y de los Directores Generales de sus respectivas áreas, así como la designación de los titulares de las Unidades Administrativas que apoyan el despacho de los asuntos que corresponden directamente a esta Presidencia.
+Se reserva en exclusiva al Presidente de la Comisión Nacional el nombramiento y remoción de los Visitadores Generales, del Secretario Ejecutivo, del Oficial Mayor, del Coordinador General de Seguimiento de Recomendaciones y de Asuntos Jurídicos, y de los Directores Generales de sus respectivas áreas, así como la designación de los titulares de las Unidades Administrativas que apoyan el despacho de los asuntos que corresponden directamente a la Presidencia.
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
-Sin perjuicio de lo anterior, los titulares de las Visitadurías Generales, de las Secretarías Ejecutiva y Técnica del Consejo Consultivo y los titulares de las Unidades Administrativas a que hacen referencia los artículos 21 y 37 del Reglamento Interno, tendrán la facultad de nombrar y remover al personal de confianza de su adscripción, con apego a lo dispuesto en las fracciones VII y IX del apartado "B" del artículo 123 constitucional, dando el correspondiente aviso al Presidente de la Comisión.
+Sin perjuicio de lo anterior, los titulares de las Visitadurías Generales, de las Secretarías Ejecutiva y Técnica del Consejo Consultivo y los titulares de las Unidades Administrativas a que hacen referencia los artículos 21 y 37 del Reglamento Interno, tendrán la facultad de nombrar y remover al personal de confianza de su adscripción, con apego a lo dispuesto en las fracciones VII y IX del apartado B del artículo 123 constitucional, dando el correspondiente aviso al Presidente de la Comisión Nacional. En todo caso, el Director General de Recursos Humanos tendrá la facultad de remover al personal de la Comisión Nacional, con excepción de aquellos cuya designación haya correspondido al Presidente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JUNIO DE 2006)</small>
 
@@ -328,6 +324,10 @@ II. Atender las necesidades administrativas de los órganos y las unidades admin
 III. Establecer, con la aprobación del presidente de la Comisión Nacional, las políticas, normas, criterios, lineamientos, sistemas y procedimientos generales y específicos para la administración de los recursos humanos, financieros, tecnológicos y materiales, del organismo y la prestación de servicios generales de apoyo;
 
 IV. Proponer al presidente de la Comisión Nacional la formulación y actualización de la estructura orgánica de los órganos y las unidades administrativas de la Comisión Nacional;
+
+> <small>(ADICIONADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+IV Bis. Autorizar la actualización de la estructura orgánica de los órganos y las unidades administrativas de la Comisión Nacional;
 
 V. Elaborar, desarrollar e implantar el Manual de Organización General de la Comisión Nacional y los demás manuales e instructivos de organización, procedimientos y servicios administrativos;
 
@@ -353,9 +353,19 @@ XV. Conducir las relaciones laborales de la Comisión Nacional conforme a la nor
 
 XVI. Establecer las políticas de contratación y desarrollo laboral, así como supervisar su cumplimiento e implementar el servicio civil de carrera;
 
+> <small>(ADICIONADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+XVI Bis. Elaborar el programa para la incorporación de la perspectiva de género y el enfoque de igualdad, no discriminación y respeto a la diversidad en la cultura organizacional de la Comisión Nacional;
+
 XVII. Establecer, controlar y evaluar el Programa Interno de Protección Civil y de administración de riesgos y aseguramiento para el personal, instalaciones, bienes, información y documentación de la Comisión Nacional;
 
-XVIII. Establecer y operar el sistema de informática administrativa y demás recursos electrónicos y telecomunicaciones de la Comisión Nacional, y (sic)
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+XVIII. Establecer y operar los sistemas institucionales, informáticos y demás recursos tecnológicos, electrónicos y de telecomunicaciones de la Comisión Nacional;
+
+> <small>(ADICIONADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+XVIII Bis. Programar, sistematizar, actualizar y proveer la información contenida en las bases de datos y sistemas, a los órganos y unidades administrativas que integran la Comisión Nacional, así como elaborar, actualizar, resguardar y administrar los sistemas, bases de datos y herramientas informáticas;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 28 DE JUNIO DE 2007)</small>
 
@@ -371,25 +381,61 @@ XX. Las demás que le confieran las disposiciones legales, así como aquellas qu
 
 (Estructura de la Oficialía Mayor)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
-Para el ejercicio de sus atribuciones la Oficialía Mayor contará con las siguientes áreas:
+Para el ejercicio de sus atribuciones la Oficialía Mayor contará con las siguientes Direcciones Generales y Unidad:
 
-I. Normatividad y Desarrollo Tecnológico;
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
-II. Finanzas;
+I. Finanzas;
 
-III. Recursos Humanos, y
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
-IV. Recursos Materiales y Servicios Generales, y
+II. Recursos Humanos;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+III. Tecnologías de Información y Comunicaciones;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+IV. Recursos Materiales y Servicios Generales; y
+
+> <small>(ADICIONADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+V. Unidad de Igualdad de Género.
 
 Además, contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
 
+> <small>(ADICIONADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+La persona que ocupe la titularidad de la Dirección General de Finanzas podrá ejercer las atribuciones señaladas en el artículo 22, fracciones II, VII, VIII, IX, X, XI y XIV, de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+La persona que ocupe la titularidad de la Dirección General de Recursos Humanos podrá ejercer las atribuciones señaladas en el artículo 22, fracciones II, IV, IV Bis, V, VI, XIV, XV y XVI, de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+La persona que ocupe la titularidad de la Dirección General de Tecnologías de Información y Comunicaciones podrá ejercer las atribuciones señaladas en el artículo 22, fracciones II, XIV, XVIII y XVIII Bis, de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+La persona que ocupe la titularidad de la Dirección General de Recursos Materiales y Servicios Generales podrá ejercer las atribuciones señaladas en el artículo 22, fracciones II, XII, XIII, XIV, XVII y XIX, de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+El ejercicio de las atribuciones conferidas a los Directores Generales podrá realizarse sin perjuicio del ejercicio directo que realice el Oficial Mayor.
+
+> <small>(REFORMADO EN SU ACÁPITE, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 24.
 
-(De la Coordinación General de Comunicación y Proyectos)
+(De la Dirección General de Comunicación).
 
-La Coordinación General de Comunicación y Proyectos tendrá las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+La Dirección General de Comunicación tendrá las siguientes atribuciones:
 
 I. Proponer las políticas de comunicación social al presidente de la Comisión Nacional y, en su caso, diseñarlas, para la divulgación de la Comisión Nacional y sus relaciones con los medios de información o comunicación;
 
@@ -399,11 +445,15 @@ III. Coordinar las conferencias de prensa y comunicados del presidente y demás 
 
 IV. Las demás que le confieran las disposiciones legales o reglamentarias, así como aquellas que le asigne el presidente de la Comisión Nacional.
 
+> <small>(REFORMADO EN SU ACÁPITE, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 25.
 
-(Estructura de la Coordinación General de Comunicación y Proyectos)
+(Estructura de la Dirección General de Comunicación)
 
-Para el ejercicio de sus atribuciones, la Coordinación General de Comunicación Social y Proyectos contará con las siguientes áreas:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+Para el ejercicio de sus atribuciones, la Dirección General de Comunicación contará con las siguientes áreas:
 
 I. Comunicación Social;
 
@@ -415,11 +465,13 @@ IV. Operación y Servicios de Apoyo.
 
 Además, contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
 
+> <small>(REFORMADO EN SU ACÁPITE, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 26.
 
-(De la Dirección General de Quejas y Orientación)
+(De la Dirección General de Quejas, Orientación y Transparencia)
 
-La Dirección General de Quejas y Orientación tendrá las siguientes atribuciones:
+La Dirección General de Quejas y Orientación (sic) tendrá las siguientes atribuciones:
 
 I. Realizar labores de atención al público durante las veinticuatro horas del día, todos los días del año. Cuando de las quejas que directamente se presenten se desprenda indubitablemente que no se trata de violaciones a derechos humanos, se orientará al interesado respecto de la naturaleza de su problema y las posibles formas de solución; se le proporcionarán los datos del servidor público ante el que puede acudir, así como su domicilio y, en su caso, el número telefónico;
 
@@ -449,21 +501,45 @@ XIII. Digitalizar la documentación más importante de los expedientes de queja,
 
 XIV. Organizar, custodiar, resguardar y administrar el archivo general de la Comisión Nacional respecto de los expedientes de queja, recursos de inconformidad, orientación directa o remisión, siempre y cuando el trámite se encuentre concluido, así como de las recomendaciones cuyo seguimiento haya finalizado;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 28 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
-XV. Las demás que le confieran las disposiciones legales y reglamentarias, así como aquellas que le asigne el presidente de la Comisión Nacional.
+XV. Administrar el Sistema Nacional de Alerta de Violación de Derechos Humanos, que promueva la ejecución de acciones para prevenir, disuadir o mitigar los riesgos identificados, elaborando los informes correspondientes;
 
-XVI. (DEROGADA, D.O.F. 28 DE JUNIO DE 2007)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+XVI. Tramitar las solicitudes de información, colaboración u oficios especiales que presenten o se soliciten a las distintas dependencias y entidades de los diferentes niveles de gobierno, o a los órganos y unidades administrativas de la propia Comisión Nacional;
+
+> <small>(ADICIONADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+XVII. Ejercer las funciones previstas para la Unidad de Transparencia en términos de la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones en la materia;
+
+> <small>(ADICIONADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+XVIII. Emitir las medidas cautelares que se estime pertinentes, tomando en consideración la urgencia del caso; y
+
+> <small>(ADICIONADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+XIX. Las demás que le confieran las disposiciones legales y reglamentarias, así como aquellas que le asigne el Presidente de la Comisión Nacional.
+
+> <small>(REFORMADO EN SU ACÁPITE, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 27.
 
-(Estructura de la Dirección General de Quejas y Orientación)
+(Estructura de la Dirección General de Quejas, Orientación y Transparencia)
 
-Para el ejercicio de sus atribuciones, la Dirección General de Quejas y Orientación contará con las siguientes áreas:
+Para el ejercicio de sus atribuciones, la Dirección General de Quejas y Orientación (sic) contará con las siguientes áreas:
 
 I. Quejas y Orientación, y
 
 II. Atención al Público.
+
+> <small>(ADICIONADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+III. Correspondencia y Acervo Documental; y
+
+> <small>(ADICIONADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+IV. Transparencia.
 
 Además, contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
 
@@ -475,19 +551,37 @@ Además, contará con el personal profesional, técnico y administrativo autoriz
 
 La Dirección General de Planeación y Análisis tendrá las siguientes atribuciones:
 
-I. Elaborar el proyecto de informe anual de actividades de la Comisión Nacional y el proyecto de programa anual de trabajo de la Comisión Nacional, con base en los programas, objetivos y acciones proyectadas por cada uno de los órganos y unidades administrativas;
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
-II. Sistematizar la información que emiten los órganos y unidades administrativas de la Comisión Nacional, respecto al cumplimiento en las metas y avances programados;
+I. Elaborar el proyecto del informe anual de actividades y del programa anual de trabajo de la Comisión Nacional, con base en los programas, objetivos y acciones proyectadas por cada uno de los órganos y unidades administrativas;
 
-III. Evaluar la congruencia de los proyectos y programas propuestos por los diferentes órganos y unidades administrativas, con base a los resultados que se obtengan de la sistematización de la información y las políticas y lineamientos que establezca el Presidente de la Comisión Nacional;
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
-IV. Formular, en coordinación con el Centro Nacional de Derechos Humanos, el Informe Anual de Actividades;
+II. Sistematizar información y evaluar la congruencia de proyectos y programas propuestos por los órganos y unidades administrativas de la Comisión Nacional, respecto al cumplimiento en las metas y avances programados, considerando la normatividad aplicable;
 
-V. Proponer al presidente de la Comisión Nacional las iniciativas de reformas a documentos normativos o a prácticas administrativas que redunden en una mejor protección de los derechos humanos;
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
-VI. Realizar las investigaciones y estudios que le sean encomendados por el presidente de la Comisión Nacional, y
+III. Presentar al Presidente de la Comisión Nacional las propuestas de reformas a documentos normativos o a prácticas administrativas que redunden en una mejor protección de los derechos humanos;
 
-VII. Las demás que le confieran las disposiciones legales, así como aquellas que le asigne el presidente de la Comisión Nacional.
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+IV. Realizar investigaciones, estudios y análisis de información cualitativa y cuantitativa para la generación de diagnósticos e informes que aporten elementos para la integración de proyectos y diseño de estrategias que contribuyan a una cultura de prevención y protección de los derechos humanos;
+
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+V. Presentar al Presidente de la Comisión Nacional propuestas de políticas públicas de promoción, difusión, protección y defensa de los derechos humanos que incidan en los tres niveles de gobierno;
+
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+VI. Administrar información geoespacial proveniente del Sistema Nacional de Alerta de Violación de Derechos Humanos, de encuestas, estudios, indicadores y bases de datos, con el objeto de proveer insumos para la planeación y diseño de estrategias en materia de derechos humanos;
+
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+VII. Realizar los análisis sobre temas de interés en materia de derechos humanos a través de información estadística, social, demográfica u otras relacionadas para la toma de decisiones que contribuyan a la identificación de niveles de riesgo de violaciones a los derechos humanos, y que permitan la acción preventiva de la Comisión Nacional; y
+
+> <small>(ADICIONADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+VIII. Las demás que le confieran las disposiciones legales, así como aquellas que le asigne el Presidente de la Comisión Nacional.
 
 > <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2009)</small>
 
@@ -499,65 +593,81 @@ Para el ejercicio de sus atribuciones, la Dirección General de Planeación y An
 
 I. Planeación,
 
-II. Análisis, y
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
-III. Evaluación.
+II. Diseño de Estrategias y Políticas Públicas, y
+
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+III. Centro de Análisis de Información Geoespacial.
 
 Además contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
 
 ###### Artículo 30.
 
-(De la Dirección General de Información Automatizada)
-
-La Dirección General de Información Automatizada tendrá las siguientes atribuciones:
-
-I. Programar, sistematizar, actualizar y proveer la información contenida en las bases de datos y sistemas, a los órganos y unidades administrativas que integran la Comisión Nacional, así como elaborar, actualizar, resguardar y administrar los sistemas, bases de datos y herramientas informáticas;
-
-II. Promover y apoyar la capacitación del personal de la Comisión Nacional para el uso y manejo de los sistemas de información existentes, y
-
-III. Las demás que le confieran las disposiciones legales, así como aquellas que le asigne el presidente de la Comisión Nacional.
+(DEROGADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)
 
 ###### Artículo 31.
 
-(Estructura de la Dirección General de Información Automatizada)
-
-Para el ejercicio de sus atribuciones, la Dirección General de Información Automatizada contará con un titular, el área de sistematización jurídica, y el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
-
-> <small>(ADICIONADO, D.O.F. 21 DE MAYO DE 2012)</small>
+(DEROGADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)
 
 ###### Artículo 32.
 
-(De la Dirección General de Seguimiento de Recomendaciones)
+(DEROGADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)
 
-La Dirección General de Seguimiento de Recomendaciones tendrá a su cargo las siguientes atribuciones:
-
-I. Analizar, evaluar e impulsar el seguimiento de las Recomendaciones emitidas por la Comisión Nacional para lograr su cumplimiento;
-
-II. Realizar las funciones previstas para la Unidad de Enlace en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento de Transparencia y Acceso a la Información de la Comisión Nacional, y
-
-III. Las demás que le sean encomendadas por el Presidente de la Comisión Nacional.
-
-La Dirección General de Seguimiento de Recomendaciones para el cumplimiento de las tareas encomendadas contará con personal de estructura, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 33.
 
-(De la Dirección General de Asuntos Jurídicos)
+(De la Coordinación General de Seguimiento de Recomendaciones y de Asuntos Jurídicos)
 
-La Dirección General de Asuntos Jurídicos de la Comisión Nacional tendrá como atribuciones:
+La Coordinación General de Seguimiento de Recomendaciones y de Asuntos Jurídicos tendrá como atribuciones:
 
-I. Proporcionar el apoyo y la asesoría jurídica necesarios a las unidades administrativas de la Comisión Nacional para el ejercicio de sus atribuciones;
+I. Solicitar y requerir información y documentación a las diversas autoridades federales y locales, así como realizar todas las acciones y gestiones necesarias, con el objeto de dar seguimiento al cumplimiento de las recomendaciones emitidas por la Comisión Nacional;
 
-II. Promover las demandas y representar a la Comisión Nacional en toda clase de procedimientos judiciales, contencioso administrativos y laborales, así como en los procedimientos especiales de jurisdicción voluntaria;
+II. Recibir la información y documentación referida en la fracción anterior, evaluando y determinado el estado de cumplimiento de las recomendaciones;
 
-III. Formular las denuncias y querellas que procedan ante la institución correspondiente, otorgar el perdón, solicitar los desistimientos que correspondan y, en general, acudir ante toda clase de autoridades en defensa de los intereses de la Comisión Nacional.
+III. Proporcionar el apoyo y la asesoría jurídica necesarios a las unidades administrativas de la Comisión Nacional para el ejercicio de sus atribuciones;
 
-IV. Ejercer, ante los tribunales competentes, las acciones que competan a la Comisión Nacional, así como hacer valer toda clase de derechos, excepciones y defensas en cualquier procedimiento;
+IV. Promover las demandas y representar a la Comisión Nacional en toda clase de procedimientos judiciales, contencioso administrativos y laborales, así como en los procedimientos especiales de jurisdicción voluntaria;
 
-V. Formular las bases y revisar los requisitos legales a que deban someterse los convenios y contratos a celebrar por la Comisión Nacional, de acuerdo con los requerimientos de las áreas respectivas, así como los instrumentos jurídicos de cualquier naturaleza relativos a los derechos y obligaciones patrimoniales de la Comisión Nacional, y
+V. Formular las quejas, denuncias y querellas que procedan ante la institución correspondiente, otorgar el perdón, solicitar los desistimientos que correspondan y, en general, acudir ante toda clase de autoridades en defensa de los intereses de la Comisión Nacional.
 
-VI. Las demás que por acuerdo del presidente de la Comisión Nacional le sean encomendadas.
+VI. Ejercer, ante los tribunales competentes, las acciones que correspondan a la Comisión Nacional, así como hacer valer toda clase de derechos, excepciones y defensas en cualquier procedimiento;
 
-Para el cumplimiento de sus atribuciones la Dirección General de Asuntos Jurídicos contará con un titular y el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
+VII. Formular las bases y revisar los requisitos legales a que deban someterse los convenios y contratos a celebrar por la Comisión Nacional, de acuerdo con los requerimientos de las áreas respectivas, así como los instrumentos jurídicos de cualquier naturaleza relativos a los derechos y obligaciones patrimoniales de la Comisión Nacional;
+
+VIII. Elaborar los estudios, propuestas y proyectos de acciones de inconstitucionalidad para ser sometidos a la aprobación del Presidente; en su caso, dar el seguimiento que corresponda a las acciones promovidas ante la Suprema Corte de Justicia de la Nación;
+
+IX. Proponer proyectos normativos que resulten relevantes en relación con los derechos humanos y recomendar mejoras o correcciones a la normatividad existente cuando lo considere conveniente;
+
+X. Verificar que la normatividad nacional existente en materia de derechos humanos cumple con las normas internacionales en la materia;
+
+XI. Validar la elaboración de normatividad que propongan las Unidades Responsables de la Comisión Nacional; y
+
+XII. Las demás que le confieran las disposiciones legales, así como aquellas que le asigne el Presidente de la Comisión Nacional.
+
+Para el cumplimiento de sus atribuciones la Coordinación General de Seguimiento de Recomendaciones y de Asuntos Jurídicos contará con un titular y el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
+
+La Coordinación General de Seguimiento de Recomendaciones y de Asuntos Jurídicos contará cuando menos con las siguientes áreas:
+
+a). Unidad de Seguimiento de Recomendaciones;
+
+b). De lo Contencioso;
+
+c). De lo Consultivo; y
+
+d). De Normatividad.
+
+La persona quien ocupe la Unidad de Seguimiento de Recomendaciones podrá ejercer las atribuciones señaladas en las fracciones I, II y V.
+
+La persona quien ocupe la titularidad del área de lo Contencioso podrá ejercer las atribuciones señaladas en las fracciones IV, VI y VIII.
+
+La persona quien ocupe la titularidad del área de lo Consultivo podrá ejercer las atribuciones señaladas en las fracciones III, V y VII.
+
+La persona quien ocupe la titularidad del área de Normatividad podrá ejercer las atribuciones señaladas en las fracciones IX, X y XI.
+
+El ejercicio de las atribuciones conferidas a los titulares de la Unidad y de las áreas podrá realizarse sin perjuicio del ejercicio directo que realice el Coordinador General de Seguimiento de Recomendaciones y de Asuntos Jurídicos.
 
 ###### Artículo 34.
 
@@ -587,7 +697,7 @@ VII. Supervisar las actividades de distribución y comercialización de las publ
 
 > <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 2005)</small>
 
-VIII. Colaborar con la Dirección General de la Planeación y Análisis en la elaboración del informe anual de actividades, y (sic)
+VIII. Colaborar con la Dirección General de la Planeación y Análisis en la elaboración del informe anual de actividades, y
 
 > <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2006)</small>
 
@@ -617,21 +727,13 @@ Además contará con el personal profesional, técnico y administrativo autoriza
 
 Por su naturaleza, el Centro Nacional de Derechos Humanos contará con un Reglamento Interno que deberá aprobar el Consejo Consultivo de la Comisión Nacional.
 
-> <small>(ADICIONADO, D.O.F. 21 DE MAYO DE 2012)</small>
-
 ###### Artículo 35 Bis.
 
-(Coordinación de Asesores)
-
-La Coordinación de Asesores realizará estudios y análisis en materia de derechos humanos y las demás actividades que expresamente le encomiende el Presidente de la Comisión Nacional de los Derechos Humanos y contará con personal de estructura, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
-
-> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2012)</small>
+(DEROGADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)
 
 ###### Artículo 36.
 
-(De la Secretaría Particular)
-
-La Secretaría Particular dependerá directamente del Presidente de la Comisión Nacional y para el cumplimiento de las tareas que le sean encomendadas contará con el personal técnico, administrativo y de apoyo autorizado en el presupuesto de la Comisión Nacional.
+(DEROGADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)
 
 ### CAPITULO III. ORGANO INTERNO DE CONTROL
 
@@ -679,9 +781,13 @@ IX. Denunciar al Ministerio Público Federal los actos que pudieran implicar res
 
 X. Vigilar el cumplimiento de las normas y políticas en materia de patrimonio inmobiliario y participar, con voz y sin voto, en los comités y subcomités en los que se traten temas relacionados con el ejercicio de los recursos presupuestales autorizados para la Comisión Nacional, en los términos de las disposiciones jurídicas aplicables, y
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
-XI. Las demás que le confieran otras disposiciones legales, así como aquellas que le asigne o delegue el Presidente de la Comisión Nacional.
+XI. Implantar el sistema de control interno y de gestión de riesgos de la Comisión Nacional, así como proponer las normas, lineamientos, mecanismos y acciones en la materia, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+XII. Las demás que le confieran otras disposiciones legales, así como aquellas que le asigne o delegue el Presidente de la Comisión Nacional.
 
 ###### Artículo 39.
 
@@ -757,7 +863,9 @@ El presidente turnará la solicitud de informes a la visitaduría general corres
 
 El presidente de la Comisión Nacional someterá a consideración de los miembros del Consejo Consultivo el contenido de las recomendaciones generales que pretenda emitir; en este caso el texto propuesto deberá hacerse del conocimiento de los miembros del Consejo Consultivo al menos con dos semanas de anticipación a la fecha de la sesión en la cual se proponga su análisis y aprobación.
 
-Los miembros del Consejo Consultivo podrán realizar las observaciones que consideren prudentes al texto de la recomendación general propuesto; una vez aprobado, se autorizará su emisión y publicación en el Diario Oficial de la Federación.
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+Los miembros del Consejo Consultivo podrán realizar las observaciones que consideren prudentes al texto de la recomendación general propuesto; una vez aprobado, se autorizará su emisión y se publicará una síntesis de la recomendación general en el Diario Oficial de la Federación; y el texto íntegro en la Gaceta y en la página web de la Comisión Nacional.
 
 ###### Artículo 45.
 
@@ -947,13 +1055,15 @@ La Tercera Visitaduría General coordinará las acciones de la Comisión Naciona
 
 El presidente de la Comisión Nacional podrá acordar que un expediente de queja determinado sea conocido por una visitaduría general o, si en una visitaduría general existe una carga excesiva de trabajo, que otra visitaduría general la apoye en el trámite y desahogo de un número determinado de expedientes de queja.
 
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 63.
 
 (Denuncias penales)
 
-El presidente de la Comisión Nacional podrá delegar a los visitadores generales la facultad para interponer por sí o a través de los visitadores adjuntos adscritos a ellos, las denuncias penales que estimen procedentes y, en su caso, para realizar y dar seguimiento a las actuaciones y diligencias en las averiguaciones previas, procedimientos penales y administrativos.
+El Presidente de la Comisión Nacional podrá delegar a los Visitadores Generales y al Coordinador General de Seguimiento de Recomendaciones y de Asuntos Jurídicos, la facultad para interponer por sí o a través de los Visitadores Adjuntos adscritos a los primeros, o al personal a cargo del segundo, las denuncias penales que estimen procedentes y, en su caso, para realizar y dar seguimiento a las actuaciones y diligencias en las averiguaciones previas, procedimientos penales y administrativos.
 
-Los visitadores generales acordarán por escrito con el presidente de la Comisión, la interposición de las denuncias penales correspondientes. Los visitadores adjuntos recabarán acuerdo escrito del visitador general para interponer las denuncias y, en su caso, para realizar y dar seguimiento a las actuaciones y diligencias en las averiguaciones previas, procedimientos penales y administrativos.
+Los Visitadores Generales y el Coordinador General de Seguimiento de Recomendaciones y de Asuntos Jurídicos, acordarán por escrito con el Presidente de la Comisión Nacional, la interposición de las denuncias penales correspondientes. Los visitadores adjuntos o el personal autorizado, recabarán acuerdo escrito del Visitador General o del Coordinador General para interponer las denuncias y, en su caso, para realizar y dar seguimiento a las actuaciones y diligencias en las averiguaciones previas, procedimientos penales y administrativos.
 
 ###### Artículo 64.
 
@@ -961,7 +1071,9 @@ Los visitadores generales acordarán por escrito con el presidente de la Comisi�
 
 Tendrán el carácter de visitadores adjuntos los miembros del personal profesional que laboren en las visitadurías generales o en la Dirección General de Quejas y Orientación, que reciban el nombramiento específico y estén encargados de la atención de los asuntos que son de la competencia de la Comisión Nacional y de su consecuente investigación, incluidos los peritos en medicina, medicina forense, criminología y otros que resulten necesarios para el trabajo de la Comisión Nacional.
 
-Los directores generales, los directores de área, los coordinadores de programas especiales, los coordinadores de procedimientos internos adscritos a las visitadurías generales, así como el director general de Quejas y Orientación y el titular de la secretaría técnica de la Presidencia, serán considerados como visitadores adjuntos para los efectos del artículo 16 de la Ley.
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+Los Directores Generales, los Coordinadores de Oficinas Foráneas, los Directores de Área, los Subdirectores de Área o sus equivalentes, los coordinadores de programas especiales, los coordinadores de procedimientos internos adscritos a las Visitadurías Generales, así como el Director General de Quejas, Orientación y Transparencia, el titular de la Secretaría Técnica de la Presidencia y el Coordinador General de Seguimiento de Recomendaciones y de Asuntos Jurídicos, serán considerados como Visitadores Adjuntos para los efectos del artículo 16 de la Ley.
 
 ###### Artículo 65.
 
@@ -1103,13 +1215,17 @@ Los procedimientos que se sigan ante la Comisión Nacional deberán ser breves y
 
 Todas las actuaciones de la Comisión Nacional serán gratuitas. Esta disposición deberá ser informada explícitamente a quienes acudan a ella. Cuando para el trámite de los procedimientos los interesados decidan contar con la asistencia de un abogado o representante profesional, se les deberá hacer la indicación de que ello no es necesario y se les hará saber la gratuidad de los servicios que proporciona la Comisión Nacional.
 
-En los casos que el quejoso o su representante soliciten la expedición de copias se estará a lo dispuesto en el artículo 3o. del Reglamento de Transparencia y Acceso a la Información de la Comisión Nacional de los Derechos Humanos.
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+En los casos que el quejoso o su representante soliciten la expedición de copias certificadas, su costo se determinará de conformidad con las tarifas que al efecto publique la Comisión Nacional, en apego a la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones aplicables.
 
 ###### Artículo 78.
 
 (Confidencialidad)
 
-Las investigaciones que realice el personal de la Comisión Nacional, los trámites de procedimiento que se lleven a cabo en cada expediente de queja, así como la documentación recibida por la autoridad y los quejosos, se manejará dentro de la más absoluta reserva, en los términos de lo dispuesto en el segundo párrafo del artículo 4o. de la Ley. En todo caso, las actuaciones se ajustarán a lo previsto en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y al Reglamento de Transparencia y Acceso a la Información de la Comisión Nacional. Lo anterior, sin perjuicio de las consideraciones que en casos concretos se puedan formular a través de las recomendaciones, las declaraciones y los informes anuales o especiales.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+Las investigaciones que realice el personal de la Comisión Nacional, los trámites de procedimiento que se lleven a cabo en cada expediente de queja, así como la documentación recibida por la autoridad y los quejosos, se manejará dentro de la más absoluta reserva, en los términos de lo dispuesto en el segundo párrafo del artículo 4o. de la Ley. En todo caso, las actuaciones se ajustarán a lo previsto en la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones aplicables. Lo anterior, sin perjuicio de las consideraciones que en casos concretos se puedan formular a través de las recomendaciones, las declaraciones y los informes anuales o especiales.
 
 > <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2005)</small>
 
@@ -1117,7 +1233,9 @@ Cuando se solicite el acceso o copias de información que obre dentro de los exp
 
 I. El trámite del expediente se encuentre concluido, y
 
-II. El contenido del expediente, no sea susceptible de clasificarse como información reservada o confidencial, en términos de lo dispuesto por los artículos 13, 14 y 18 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+II. El contenido del expediente, que no sea susceptible de clasificarse como información reservada o confidencial, en términos de lo dispuesto por el Título Cuarto de la Ley Federal de Transparencia y Acceso a la Información Pública y demás disposiciones aplicables.
 
 ###### Artículo 79.
 
@@ -1293,11 +1411,13 @@ VI. Pendiente, cuando el escrito de queja no reúna los requisitos legales o reg
 
 Los expedientes que sean calificados en los términos previstos por las fracciones II o III se contabilizarán, para efecto de registro y archivo, de manera separada e independiente al resto.
 
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 97.
 
 (Oficio de admisión de la instancia)
 
-Cuando un escrito de queja contenga la descripción de actos que hayan sido calificados como presuntamente violatorios de derechos humanos por hechos imputables a la autoridad o a un servidor público, el director general de la visitaduría que conozca del asunto comunicará al quejoso el acuerdo de admisión de la instancia; éste contendrá la prevención a que se refieren el artículo 32 de la Ley y el artículo 18 del Reglamento de Transparencia y Acceso a la Información de la Comisión Nacional. Asimismo, se le informará sobre la apertura del expediente de queja, el nombre del visitador adjunto encargado del expediente, la gratuidad de los servicios, la no necesaria asistencia de un abogado y el número telefónico al cual se puede comunicar para enterarse sobre el trámite del expediente, y se le invitará a mantener comunicación con dicho visitador adjunto durante la tramitación del expediente.
+Cuando un escrito de queja contenga la descripción de actos que hayan sido calificados como presuntamente violatorios de derechos humanos por hechos imputables a la autoridad o a un servidor público, el Director General de la Visitaduría que conozca del asunto comunicará al quejoso el acuerdo de admisión de la instancia; éste contendrá la prevención a que se refieren el artículo 32 de la Ley y el trato que se le dará a sus datos personales en posesión de la Comisión Nacional. Asimismo, se le informará sobre la apertura del expediente de queja, el nombre del Visitador Adjunto encargado del expediente, la gratuidad de los servicios, la no necesaria asistencia de un abogado y el número telefónico al cual se puede comunicar para enterarse sobre el trámite del expediente, y se le invitará a mantener comunicación con dicho Visitador Adjunto durante la tramitación del expediente.
 
 ###### Artículo 98.
 
@@ -1383,7 +1503,9 @@ En todo caso, la determinación correspondiente se hará del conocimiento del qu
 
 (Entrega de constancias de los expedientes de queja)
 
-La Comisión Nacional sólo estará obligada a entregar constancias que obren en los expedientes de queja, sea a solicitud del quejoso, de la autoridad o de cualquier otra persona, en los términos previstos en la Ley de la Comisión Nacional, en el presente Reglamento, en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y en el Reglamento de Transparencia y Acceso a la Información de la Comisión Nacional.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+La Comisión Nacional sólo estará obligada a entregar constancias que obren en los expedientes de queja, sea a solicitud del quejoso, de la autoridad o de cualquier otra persona, en los términos previstos en la Ley de la Comisión Nacional, en el presente Reglamento, en la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones aplicables.
 
 Los visitadores generales, previo acuerdo con el presidente de la Comisión Nacional, podrán determinar si se accede al requerimiento de copias que formulen las autoridades o dependencias públicas que hubiesen aceptado una propuesta de conciliación o recomendación.
 
@@ -1399,7 +1521,9 @@ De recibirse escrito de inconformidad del quejoso sobre la forma de concluir el 
 
 (Fe pública)
 
-El presidente de la Comisión Nacional, los visitadores generales y los visitadores adjuntos tendrán fe pública en el desempeño de sus funciones.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+El Presidente de la Comisión Nacional, los Visitadores Generales, los Visitadores Adjuntos, el Coordinador General de Seguimiento de Recomendaciones y de Asuntos Jurídicos, y los titulares de las áreas a su cargo, tendrán fe pública en el desempeño de sus funciones.
 
 Se entenderá por fe pública la facultad de autenticar documentos preexistentes o declaraciones y hechos que tengan lugar o estén aconteciendo en presencia de dichos servidores públicos, sin perjuicio del valor probatorio que en definitiva se les atribuya de conformidad con las normas del artículo 41 de la Ley.
 
@@ -1603,9 +1727,13 @@ Cuando del contenido de la recomendación se desprenda la solicitud de inicio de
 
 Una vez aprobada y suscrita la recomendación por el presidente de la Comisión Nacional, se notificará de inmediato a la autoridad o servidor público a la que vaya dirigida, a fin de que adopte las medidas necesarias para su cumplimiento. La recomendación se dará a conocer a la opinión pública después de su notificación. Cuando las acciones solicitadas en la recomendación no requieran de discreción para su cabal cumplimiento, se podrán dar a conocer de inmediato a los medios de comunicación.
 
-Las recomendaciones serán dadas a conocer a la opinión pública mediante su publicación en la Gaceta, un boletín de prensa y en la página en (sic) Internet de la Comisión Nacional, así como mediante las acciones que la Coordinación General de Comunicación y Proyectos acuerde con el presidente de la Comisión Nacional.
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
-La Dirección General de Quejas y Orientación remitirá a la Coordinación General de Comunicación y Proyectos copia del oficio de notificación y del texto de la recomendación. Los boletines de prensa, preferentemente, no deberán incluir nombres de agraviados ni de los servidores públicos involucrados en la violación a derechos humanos, a fin de respetar el honor y buen nombre de las personas.
+Las recomendaciones serán dadas a conocer a la opinión pública mediante su publicación en la Gaceta, un boletín de prensa y en la página Web de la Comisión Nacional, así como mediante las acciones que la Dirección General de Comunicación acuerde con el Presidente de la Comisión Nacional.
+
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+La Dirección General de Quejas, Orientación y Transparencia remitirá a la Dirección General de Comunicación copia del oficio de notificación y del texto de la recomendación. Los boletines de prensa, preferentemente, no deberán incluir nombres de agraviados ni de los servidores públicos involucrados en la violación a derechos humanos, a fin de respetar el honor y buen nombre de las personas.
 
 ###### Artículo 134.
 
@@ -1639,7 +1767,9 @@ Se entiende que la autoridad o servidor público que haya aceptado una recomenda
 
 (Seguimiento de las recomendaciones)
 
-Las visitadurías generales que conocieron del asunto, a través de sus directores generales, directores de área y visitadores adjuntos, darán seguimiento a las recomendaciones y reportarán al presidente de la Comisión Nacional el estado de las mismas de acuerdo con los siguientes supuestos:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+El Coordinador General de Seguimiento de Recomendaciones y de Asuntos Jurídicos, y el personal adscrito a la Unidad de Seguimiento de Recomendaciones, serán considerados como Visitadores Adjuntos para efectos del artículo 73 de la Ley, quienes darán seguimiento a las recomendaciones con el apoyo necesario de las Visitadurías Generales correspondientes y del personal que haya intervenido en su elaboración, y reportarán al Presidente de la Comisión Nacional el estado de las mismas de acuerdo con los siguientes supuestos:
 
 I. Recomendaciones no aceptadas;
 
@@ -1657,7 +1787,9 @@ VII. Recomendaciones en tiempo de ser contestadas, y
 
 VIII. Recomendaciones aceptadas, cuyo cumplimiento reviste características peculiares.
 
-Una vez que se han agotado las posibilidades reales de cumplimiento de una recomendación, podrá cerrarse su seguimiento mediante un acuerdo expreso del visitador general correspondiente, en el que se determine el supuesto en el cual quedará registrado su cumplimiento.
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+Una vez que se han agotado las posibilidades reales de cumplimiento de una recomendación, podrá cerrarse su seguimiento mediante un acuerdo expreso del Coordinador General de Seguimiento de Recomendaciones y de Asuntos Jurídicos, en el que se determine el supuesto en el cual quedará registrado su cumplimiento.
 
 ###### Artículo 139.
 
@@ -1927,11 +2059,13 @@ Las resoluciones que podrá adoptar la Comisión Nacional respecto de los recurs
 
 Las recomendaciones, los documentos de no responsabilidad, las confirmaciones de resoluciones definitivas y las declaraciones de suficiencia o insuficiencia del cumplimiento de recomendaciones, serán aprobadas y suscritas por el presidente de la Comisión Nacional.
 
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 169.
 
 (Seguimiento de las recomendaciones a los organismos locales)
 
-Las recomendaciones dirigidas a los organismos locales estarán sujetas al mismo seguimiento que la visitaduría general correspondiente haga respecto de las demás recomendaciones, con base en lo dispuesto en el presente Reglamento.
+Las recomendaciones dirigidas a los organismos locales estarán sujetas al mismo seguimiento que la Coordinación General de Seguimiento de Recomendaciones y de Asuntos Jurídicos, haga respecto de las demás recomendaciones, con base en lo dispuesto en el presente Reglamento.
 
 ###### Artículo 170.
 
@@ -2049,11 +2183,25 @@ II. Sanciones económicas hasta por los montos previstos en la Ley Federal Antic
 
 Para tales efectos, el Oficial Mayor de la Comisión Nacional notificará a la autoridad fiscal competente la imposición de la multa, para que aquella proceda a su cobro.
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 178.
 
-En la sustanciación de los procedimientos que se instruyan ante el Tribunal Federal de Justicia Fiscal y Administrativa y en el Poder Judicial de la Federación, en los que el Organo Interno de Control sea parte, como consecuencia de la aplicación de sus atribuciones, éste elaborará las promociones que sean necesarias bajo su más estricta responsabilidad, para que a través de la Dirección General de Asuntos Jurídicos, se hagan valer toda clase de derechos, defensas, excepciones y recursos.
+En la sustanciación de los procedimientos que se instruyan ante el Tribunal Federal de Justicia Administrativa y en el Poder Judicial de la Federación, en los que el Órgano Interno de Control sea parte, como consecuencia de la aplicación de sus atribuciones, éste elaborará las promociones que sean necesarias bajo su más estricta responsabilidad, para que a través de la Coordinación General de Seguimiento de Recomendaciones y de Asuntos Jurídicos, se hagan valer toda clase de derechos, defensas, excepciones y recursos.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+## TITULO VIII. DE LA SUPLENCIA DE SERVIDORES PUBLICOS
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 179.
+
+El Presidente y los Visitadores Generales, serán suplidos, respectivamente, en términos de lo dispuesto en los artículos 20 y 55 de este Reglamento; las ausencias temporales de los titulares de las unidades administrativas a que se refiere el artículo 21 del Reglamento, así como las ausencias del personal establecido en el Manual de Organización General de la Comisión Nacional, serán suplidas por los servidores públicos de jerarquía inmediata inferior a dichos titulares, conforme al Manual de Organización de tales unidades administrativas, en los asuntos de su competencia, o atendiendo la designación que realice el Presidente para cubrir la ausencia temporal.
 
 ## TRANSITORIOS
 
@@ -2160,3 +2308,13 @@ SEGUNDO. El presente Acuerdo entrará en vigor el día siguiente de su publicaci
 TERCERO. En los artículos del presente Reglamento Interior en los que se haga referencia al escrito de queja, deberá entenderse que se refiere a la queja presentada en cualquiera de las modalidades previstas en el artículo 80.
 
 CUARTO. La parte conducente del Manual de Organización General de la Comisión Nacional de los Derechos Humanos que refleje las modificaciones realizadas al Reglamento Interno, será expedida dentro de los seis meses siguientes a la entrada en vigor del presente Acuerdo, y deberá ser publicada en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO CONSULTIVO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DEL REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS”.]
+
+PRIMERO.- El presente Acuerdo deberá ser publicado en la Gaceta de la Comisión Nacional y en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- La parte conducente del Manual de Organización General de la Comisión Nacional, que refleje las modificaciones realizadas al Reglamento Interno, será expedida dentro de los tres meses siguientes a la entrada en vigor del presente Acuerdo, y deberá ser publicada en la Gaceta y en el Diario Oficial de la Federación.
