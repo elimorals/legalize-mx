@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2015-12-18"
+last_updated: "2016-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2016.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -111,9 +111,15 @@ Los habitantes del Estado de Baja California tienen obligación de ejercer sus a
 
 El silencio, obscuridad o insuficiencia de la Ley, no autorizan a los jueces o tribunales para dejar de resolver una controversia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTICULO 19.
 
-Las controversias judiciales del orden civil deberán resolverse conforme a la letra de la Ley o a su interpretación jurídica. A falta de Ley se resolverán conforme a los principios generales de derecho.
+Las controversias judiciales del orden civil deberán resolverse conforme a la letra de la Ley o a su interpretación jurídica. A falta de Ley se resolverán conforme a los principios generales del derecho.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+
+Tratándose de Derechos Humanos, se interpretarán de acuerdo a la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales de la materia que corresponda, favoreciendo en todo momento la protección más amplia a las personas.
 
 ###### ARTICULO 20.
 
@@ -2245,11 +2251,9 @@ Cuando el deudor alimentario no estuviere presente o estándolo rehusare entrega
 
 El cónyuge que se haya separado del otro sigue obligado a cumplir con los gastos a que se refiere el artículo 161. En tal virtud, el que no haya dado lugar a ese hecho, podrá pedir al Juez de Primera Instancia de lo Familiar, que obligue al otro a que le ministre los gastos por el tiempo que dure la separación en la misma proporción en que lo venía haciendo hasta antes de aquella, así como también satisfaga los adeudos contraídos en los términos del artículo anterior. Si dicha proporción no se pudiera determinar, el Juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de lo que ha dejado de cubrir desde que se separó.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
-
-ARTICULO 320 BIS.- Toda a (sic) persona a quien, por su cargo, corresponda proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a suministrar los datos exactos que le solicite el Juez de lo Familiar; de no hacerlo, será sancionada en los términos establecidos en el Código de Procedimientos Civiles.
+ARTICULO 320 BIS.- Toda persona a quien, por su cargo, le corresponda atender la orden de descuento de los alimentos o proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a dar trámite a dichas órdenes de descuento y/o a suministrar los datos exactos que le solicite el juez de lo Familiar, dando respuesta dentro del término de tres días; de no hacerlo, será sancionada en los términos establecidos en el Código de Procedimientos Civiles.
 
 ## TITULO SEPTIMO. DE LA PATERNIDAD Y FILIACION
 
@@ -3421,7 +3425,7 @@ Cuando haya dos o más hijos, será preferido el que viva en compañía del padr
 
 ###### ARTICULO 486.
 
-Los padres son de derecho tutores de sus hijos, solteros o viudos, cuando éstos no tengan hijos que puedan desempeñar la tutela, debiéndose poner de acuerdo respecto a quien de los dos ejercerá el cargo.
+Los padres son de derecho tutores de sus hijos, solteros o viudos, cuando éstos no tengan hijos que puedan desempeñar la tutela, debiéndose poner de acuerdo respecto a quién de los dos ejercerá el cargo.
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
 
@@ -12055,7 +12059,7 @@ En la venta de que habla el artículo 2186 mientras que no pasa la propiedad de 
 
 El contrato de compraventa no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2015)</small>
 
@@ -12067,9 +12071,9 @@ La enajenación de bienes inmuebles, así como la constitución o transmisión d
 
 Los contratos por los que el Gobierno Federal, del Estado, Municipios y Organismos Descentralizados enajenen terrenos o casas para la constitución del patrimonio familiar, para los trabajadores al servicio del Estado o para personas de escasos recursos económicos hasta por el valor de 10,000 salarios mínimos general vigente en el Estado de Baja California, podrán otorgarse en documento privado sin los requisitos de testigos y ratificación de firmas.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
-En los programas de regularización de la tenencia de la tierra que realice el Gobierno del Estado sobre inmuebles de propiedad particular, cuyo valor no rebase el de la cantidad que resulte de multiplicar por 7,000 el importe del salario mínimo diario vigente en el Estado de Baja California, los contratos que se celebren entre las partes, podrán otorgarse en las mismas condiciones a que se refiere el párrafo anterior.
+En los programas de regularización de la tenencia de la tierra que realice el Gobierno del Estado y los municipios sobre inmuebles de propiedad particular, cuyo valor no rebase el de la cantidad que resulte de multiplicar por 7,000 el importe del salario mínimo diario vigente en el Estado de Baja California, los contratos que se celebren entre las partes, podrán otorgarse en las mismas condiciones a que se refiere el párrafo anterior.
 
 ###### ARTICULO 2192.
 
@@ -16402,3 +16406,23 @@ P.O. 18 DE DICIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 412 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 300, 305 Y 334 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LA REFORMA A LOS ARTÍCULOS 926 Y LA ADICIÓN DEL ARTÍCULO 926 BIS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 543 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL TERCER PÁRRAFO DEL ARTÍCULO 2191 DEL CÓDIGO CIVIL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 9 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 551 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 320 BIS DEL CÓDIGO CIVIL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 554 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 19 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
