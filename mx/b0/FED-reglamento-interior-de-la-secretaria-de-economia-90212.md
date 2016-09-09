@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-economia-90212"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-22"
-last_updated: "2015-10-14"
+last_updated: "2016-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90212&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,13 @@ issue_date: "2012-11-14"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE ECONOMIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO TERCERO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 14 DE ENERO DE 2013, LAS REFERENCIAS QUE SE HAGAN EN OTRAS DISPOSICIONES A LA SUBSECRETARÍA PARA LA PEQUEÑA Y MEDIANA EMPRESA, SE ENTENDERÁN HECHAS AL INSTITUTO NACIONAL DEL EMPRENDEDOR.]</small>
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA, PUBLICADO EN EL D.O.F. DE 9 DE SEPTIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO TERCERO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 14 DE ENERO DE 2013, LAS REFERENCIAS QUE SE HAGAN EN OTRAS DISPOSICIONES A LA SUBSECRETARÍA PARA LA PEQUEÑA Y MEDIANA EMPRESA, SE ENTENDERÁN HECHAS AL INSTITUTO NACIONAL DEL EMPRENDEDOR.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE SEPTIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 22 de noviembre de 2012.
 
@@ -1836,3 +1838,17 @@ D.O.F. 31 DE OCTUBRE DE 2014.
 D.O.F. 14 DE OCTUBRE DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Economía, publicado en el Diario Oficial de la Federación el 22 de noviembre de 2012.
+
+TERCERO.- Las disposiciones administrativas expedidas con anterioridad a la entrada en vigor del presente Reglamento, continuarán vigentes en lo que no se opongan al presente y hasta en tanto se emitan las reformas correspondientes o los instrumentos que los sustituyan.
+
+CUARTO.- Las modificaciones a la estructura orgánica de la Secretaría de Economía que deriven de la entrada en vigor del presente Reglamento serán realizadas mediante movimientos compensados, por lo que no aumentará el presupuesto regularizable de la Dependencia.
+
+QUINTO.- Las atribuciones y referencias previstas en el Reglamento que se abroga y en otras disposiciones administrativas respecto de las unidades administrativas Coordinación General de Minería, Unidad de Asuntos Jurídicos, Unidad de Diseño e Implementación de Políticas Públicas para la Productividad, Secretariado Técnico de la Competitividad, Dirección General de Regulación Minera y Dirección General de Defensa para PYMES y Emprendedores se entenderán hechas al Coordinador General de Minería, al Abogado General, a la Unidad de Competencia y Políticas Públicas para la eficiencia de los mercados, a la Unidad de Competitividad, a la Dirección General de Minas y a la Dirección General de Atención a MIPYMES y Emprendedores, respectivamente.
