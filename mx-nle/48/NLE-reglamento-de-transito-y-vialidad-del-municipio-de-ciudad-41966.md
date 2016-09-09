@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-ciudad-41966
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-26"
-last_updated: "2016-06-27"
+last_updated: "2016-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "NLE"
 ---
 # REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEON
 
+NOTA 1. [N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DEL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 27 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS 60-SESENTA DÍAS NATURALES CONTADOS A PARTIR DEL DÍA SIGUIENTE DE LA PUBLICACIÓN DE DICHO REGLAMENTO EN EL PERIÓDICO OFICIAL DEL ESTADO.]
+
+NOTA 2. [N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO POR EL QUE SE APRUEBA LA MODIFICACIÓN DEL ACUERDO NO. 08 CONSIGNADA EN EL ACTA 023 CORRESPONDIENTE A LA DÉCIMA QUINTA SESIÓN ORDINARIA DE FECHA 26 DE MAYO DEL 2016, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2016, SE PRORROGA LA ENTRADA EN VIGOR 45 DÍAS NATURALES A PARTIR DE SU PUBLICACIÓN.]
+
 REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEÓN
 
-> <small>[N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DEL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 27 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS 60-SESENTA DÍAS NATURALES CONTADOS A PARTIR DEL DÍA SIGUIENTE DE LA PUBLICACIÓN DE DICHO REGLAMENTO EN EL PERIÓDICO OFICIAL DEL ESTADO.]</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2016 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo de León, el viernes 26 de noviembre del 2004.
 
@@ -339,11 +341,11 @@ X. Para vehículos para personas con capacidades diferenciadas.
 
 Las placas deberán conservarse libres de obstáculos, en buen estado de conservación, sin alteraciones, ni mutilaciones y libres de objetos distintivos, de rótulos, micas obscuras, sistemas anti-radares o detector de radares de velocidad salvo que estos estén incorporados o sean de (sic) incorporados de fabrica, dobleces, remaches, porta placas luminosos, opaco o cualquier alteración que dificulte o impida su visibilidad. Ambas placas deberán estar siempre visibles para que su lectura sea clara y sin confusión, debiendo estar fijas al vehículo para evitar su robo o caída.
 
-(ADICONADO, P.O. 11 DE ABRIL DE 2016)
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 Se prohíbe remachar, soldar, modificar la forma de las placas de circulación o colocar en lugar de estas, objetos o dispositivos decorativos.
 
-(ADICONADO, P.O. 11 DE ABRIL DE 2016)
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 Las placas deberán colocarse una en la parte frontal exterior del vehículo en el área provista por el fabricante, y la otra en la parte posterior exterior del vehículo. En caso de no existir un área provista por el fabricante para la colocación de la placa, ésta se colocará en el área central de la defensa posterior o frontal exterior, según sea el caso. Para los vehículos que se les expida solo una placa, ésta deberá colocarse en la parte trasera del vehículo.
 
@@ -2516,3 +2518,13 @@ III. Correctiva: Una vez concluida la etapa Preventiva e Informativa y por espac
 SÉPTIMO.- La aplicación de las sanciones por faltas o violaciones al presente Reglamento, contenidas en el Artículo 164, fracción V, surtirá sus efectos sin concesión, a partir de la conclusión de la campaña preventiva e informativa señalada en el artículo Sexto Transitorio.
 
 OCTAVO.- Gírese el presente al Presidente Municipal para que instruya al Secretario de Ayuntamiento para que remita su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal, y en el sitio Oficial de internet del Municipio.
+
+P.O. 9 DE SEPTIEMBRE DE 2016.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO POR EL QUE “SE APRUEBA LA MODIFICACIÓN DEL ACUERDO NO 08 CONSIGNADA EN EL ACTA 023 CORRESPONDIENTE A LA DÉCIMA QUINTA SESIÓN ORDINARIA DE FECHA 26 DE MAYO DEL 2016; PRORROGÁNDOSE LA ENTRADA EN VIGOR A 45 DÍAS NATURALES A PARTIR DE LA PUBLICACIÓN DEL PRESENTE ACUERDO MODIFICATORIO”.]</small>
+
+PRIMERO.- El R. Ayuntamiento de Guadalupe, Nuevo León, en base a sus atribuciones establecidas en el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, artículos 118 de la Constitución Política del Estado Libre y Soberano de Nuevo León, con fundamento en lo dispuesto en el artículos (sic) 50 de la Ley de Gobierno Municipal del Estado de Nuevo León, aprueba y autoriza la Modificación del Acuerdo No 08 consignada en el Acta 023 correspondiente a la Décima Quinta Sesión Ordinaria de fecha 26 de mayo del 2016; solo en lo relativo al artículo transitorio primero, que establece que la vigencia del Reglamento en comento, entrará en vigor a los 60-sesenta días naturales, contados a partir del día siguiente a su publicación en el Periódico Oficial del Estado, es decir el reglamento entraría en vigor el día 26 de agosto del 2016, quedando ello sin efecto, y prorrogándose la entrada en vigor 45 días naturales a partir de la publicación del presente acuerdo modificatorio.
+
+SEGUNDO.- Instrúyase al Instituto Municipal de Planeación Integral de Ciudad Guadalupe, para que informe permanentemente al R. Ayuntamiento de la Construcción de consensos en torno a las modificaciones del Reglamento de Tránsito Homologado que se llevan a cabo en la Asociación Metropolitana de Alcaldes, y a la Secretaria del Ayuntamiento y la Dirección Política, para que una vez concluido el proceso actúen en consecuencia para presentar al Pleno del Ayuntamiento, el Proyecto de Dictamen correspondiente.
+
+TERCERO.- Instrúyase a la Secretaria del Ayuntamiento, para que remita el presente acuerdo para su publicación en la Gaceta Municipal.
