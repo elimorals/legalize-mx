@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-regula-los-servicios-de-control-vehicular-en-el-76991"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2014-05-16"
+last_updated: "2016-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE REGULA LOS SERVICIOS DE CONTROL VEHICULAR EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -85,9 +85,9 @@ Licencia de Conducir.- Documento que contiene la autorización que concede el Es
 
 Oficina Recaudadora.- Las Recaudaciones de Rentas del Estado, incluyendo las Subrecaudaciones Auxiliares de Rentas.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
-Placas de Circulación.- Aditamento de metal u otro material similar, expedido por la Secretaría a través de la Oficina Recaudadora y/o instituciones autorizadas para ello, que constituye un permiso para la circulación de vehículos con una vigencia permanente que termina al cambiar de propietario, y que cuenta con número de matrícula coincidente con la calcomanía y tarjeta de circulación.
+Placas de Circulación.- Aditamento de metal u otro material similar, expedido por la Secretaría a través de la Oficina Recaudadora y/o instituciones autorizadas para ello, que constituye un permiso para la circulación de vehículos y que cuenta con número de matrícula coincidente con la calcomanía y tarjeta de circulación.
 
 Registro de Comerciantes de Autos.- Sistema de información conformado por un conjunto de registros y archivos relativos a los comerciantes de autos autorizados a expedir el formato electrónico.
 
@@ -337,7 +337,7 @@ I.- Estar dado de alta ante el Registro Estatal Vehicular, a excepción de lo es
 
 II.- Portar los elementos de identificación vehicular vigentes que deberán coincidir con el vehículo al que correspondan;
 
-III.- Reunir las condiciones de seguridad y buen funcionamiento mecánico, para la circulación y seguridad pública. La Oficina Recaudadora podrá solicitar al interesado el acreditamiento de este requisito, a través de constancia expedida por la autoridad estatal o municipal competente, y (sic)
+III.- Reunir las condiciones de seguridad y buen funcionamiento mecánico, para la circulación y seguridad pública. La Oficina Recaudadora podrá solicitar al interesado el acreditamiento de este requisito, a través de constancia expedida por la autoridad estatal o municipal competente, y
 
 (NOTA: EL 2 DE JUNIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 58/2013, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -423,15 +423,21 @@ Los elementos de identificación vehicular son intransferibles. En la enajenaci�
 
 La expedición de placas de circulación para vehículos de servicio público de transporte, se limitarán en número, de conformidad con la concesión o permiso respectivo en los términos de la Ley General de Transporte Público del Estado de Baja California y su Reglamento, y cumpliendo con los requisitos establecidos en esta Ley.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 24.
 
-Las placas de circulación tendrán una vigencia permanente, que termina únicamente por el cambio de propietario del vehículo. Las calcomanías y tarjetas de circulación estarán vigentes durante el año para el que fueron expedidas y durante los plazos que correspondan de acuerdo a lo señalado en los párrafos siguientes.
+Las placas de circulación regirán su vigencia acorde a lo establecido en las Normas Oficiales de observancia obligatoria. Las calcomanías y tarjetas de circulación estarán vigentes durante el año para el que fueron expedidas y durante los plazos que correspondan de acuerdo a lo señalado en los párrafos siguientes.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
 Los propietarios de vehículos cuyo año sea de 9 años de antigüedad, deberán solicitar y obtener las calcomanías y tarjetas de circulación correspondientes, dentro de los tres primeros meses del ejercicio fiscal siguiente al que fueron expedidos, cumpliendo para ello con los requisitos establecidos en esta Ley y demás disposiciones legales aplicables, incluyendo el pago de las contribuciones respectivas.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+
 Los propietarios de vehículos cuyo año modelo sea de 10 años o más de antigüedad deberán solicitar y obtener las calcomanías y tarjetas de circulación correspondientes dentro de los seis primeros meses del ejercicio fiscal siguiente al que fueron expedidos, cumpliendo para ello con los requisitos establecidos en esta Ley y demás disposiciones legales aplicables, incluyendo el pago de las contribuciones respectivas.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
 Las calcomanías y tarjetas de circulación deberán de contener expresamente su vigencia según sea el caso, conforme a los plazos a que se refieren los párrafos primero, segundo y tercero.
 
@@ -1040,3 +1046,9 @@ CUARTO.- El Ejecutivo del estado deberá adoptar de manera inmediata las medidas
 P.O. 16 DE MAYO DE 2014.
 
 ÚNICO.- Las presentes reformas entraran en vigor al día siguiente de su publicación.
+
+P.O. 9 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 574 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LOS ARTÍCULOS 2 Y 24 DE LA LEY QUE REGULA LOS SERVICIOS DE CONTROL VEHICULAR PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
