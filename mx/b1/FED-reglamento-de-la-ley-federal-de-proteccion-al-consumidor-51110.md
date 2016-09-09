@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-federal-de-proteccion-al-consumidor-51110"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-08-03"
-last_updated: "2006-08-03"
+last_updated: "2016-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51110&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2006-07-31"
 ---
 # REGLAMENTO DE LA LEY FEDERAL DE PROTECCION AL CONSUMIDOR
 
-REGLAMENTO DE LA LEY FEDERAL DE PROTECCION AL CONSUMIDOR
+REGLAMENTO DE LA LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE SEPTIEMBRE DE 2016.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 3 de agosto de 2006.
 
@@ -75,15 +75,11 @@ Se entiende por medida de apremio aquélla que la Procuraduría impone para hace
 
 El acuerdo o el acta en el que se imponga la medida de apremio deberá indicar la o las disposiciones que se presuman violadas o infringidas por el proveedor, así como los elementos que soporten la imposición de dicha medida.
 
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 8.
 
-Las medidas de apremio a que se refiere el artículo 25 de la Ley se aplicarán conforme a los criterios que al efecto expida el Procurador mediante Acuerdo, el cual deberá publicarse en el Diario Oficial de la Federación.
-
-Los criterios deberán contener, cuando menos, los elementos siguientes:
-
-I.- La descripción de los supuestos generales conforme a los cuales se aplicará cada una de las medidas de apremio, y
-
-II.- En materia de multas, se establecerán reglas que especificarán los mecanismos de graduación conforme a los cuales se impondrán dichas multas, así como la cuantificación de sus montos considerando la capacidad económica del proveedor.
+La aplicación de las medidas de apremio contenidas en el artículo 25 de la Ley se realizará conforme a las disposiciones establecidas en la Ley y el presente Reglamento.
 
 ###### Artículo 9.
 
@@ -542,3 +538,15 @@ Primero.- El presente Reglamento entrará en vigor a los noventa días siguiente
 Segundo.- Las acciones que se lleven a cabo para la aplicación del presente Reglamento, se sujetarán a la disponibilidad de recursos que se hayan aprobado para tal fin en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente para la Procuraduría Federal del Consumidor, y deberán sujetarse a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de julio de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 9 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 8 DEL REGLAMENTO DE LA LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las medidas de apremio impuestas con anterioridad a la entrada en vigor del presente Decreto, seguirán haciéndose efectivas hasta su conclusión.
+
+TERCERO.- A partir de la fecha en que entre en vigor este Decreto, se dejan sin efectos las disposiciones que contravengan o se opongan al mismo.
