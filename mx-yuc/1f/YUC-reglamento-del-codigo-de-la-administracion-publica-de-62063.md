@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2016-08-26"
+last_updated: "2016-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE SEPTIEMBRE DE 2016.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -2199,7 +2199,7 @@ III. Dirección General de Servicios Legales y Vinculación Institucional;
 
 a) Dirección de Contratos, Licitaciones y Procedimientos;
 
-b) Dirección de Servicios Legales;
+b) (DEROGADO, D.O. 9 DE SEPTIEMBRE DE 2016)
 
 c) Dirección de Vinculación Institucional, y
 
@@ -2347,7 +2347,9 @@ XIV. Las demás que establezcan este Reglamento y otras disposiciones legales ap
 
 Al Director General de Servicios Legales y Vinculación Institucional le corresponde el despacho de los siguientes asuntos:
 
-I. Emitir opinión y resolver las consultas que en materia jurídica le sean planteadas por el Titular de la Consejería remitidas por las dependencias y entidades de la Administración Pública o por los municipios del Estado;
+> <small>(REFORMADA, D.O. 9 DE SEPTIEMBRE DE 2016)</small>
+
+I. Emitir opinión y resolver las consultas que en materia jurídica le sean planteadas por el Consejero Jurídico y por las dependencias y entidades de la Administración Pública o por los municipios del Estado;
 
 II. Ser conducto para la coordinación de las distintas áreas jurídicas de las dependencias y entidades;
 
@@ -2363,7 +2365,31 @@ VII. Apoyar al Consejero Jurídico en las acciones acordadas por la Comisión de
 
 VIII. Dar cuenta al Titular de la Consejería acerca de los estudios, opiniones y dictámenes derivados de las consultas formuladas por las dependencias y entidades de la Administración Pública, y
 
-IX. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
+> <small>(ADICIONADA, D.O. 9 DE SEPTIEMBRE DE 2016)</small>
+
+IX. Legalizar las firmas de los documentos que, de acuerdo con las disposiciones legales aplicables, deba hacer el Consejero Jurídico;
+
+> <small>(ADICIONADA, D.O. 9 DE SEPTIEMBRE DE 2016)</small>
+
+X. Vigilar el adecuado funcionamiento de la Dirección del Registro Civil, y brindar el apoyo y la asesoría técnica que requiera para tal efecto;
+
+> <small>(ADICIONADA, D.O. 9 DE SEPTIEMBRE DE 2016)</small>
+
+XI. Representar legalmente al Poder Ejecutivo y a su titular ante los tribunales estatales o federales en los procedimientos laborales y en los juicios de amparo en materia laboral en los que sea parte o tenga interés jurídico, a través del ofrecimiento de todas las pruebas o medios de convicción a su alcance y que sean procedentes; la intervención en las audiencias de conciliación, de demanda y excepciones, y de pruebas y alegatos; la interposición y ejecución de los incidentes, recursos legales y medios de impugnación que procedan; y, en general, la realización de toda clase de trámites y actuaciones que correspondan a la adecuada defensa de sus intereses;
+
+> <small>(ADICIONADA, D.O. 9 DE SEPTIEMBRE DE 2016)</small>
+
+XII. Determinar lineamientos y criterios homólogos para la atención de los juicios laborales que se presenten, así como de gestionar ante las dependencias y entidades de la Administración Pública estatal la información relacionada que considere pertinente;
+
+> <small>(ADICIONADA, D.O. 9 DE SEPTIEMBRE DE 2016)</small>
+
+XIII. Emitir opinión en relación con las solicitudes de pensión de los familiares o dependientes económicos de los empleados pensionados y jubilados del Poder Ejecutivo, así como coordinarse con el área competente del Instituto de Seguridad Social de los Trabajadores del Estado de Yucatán, para el desarrollo de los trámites de otorgamiento y pago de las pensiones correspondientes;
+
+> <small>(ADICIONADA, D.O. 9 DE SEPTIEMBRE DE 2016)</small>
+
+XIV. Opinar sobre las liquidaciones o finiquitos que, por concepto de pago de prestaciones, deban cubrirse a los trabajadores de la Consejería Jurídica por terminación o rescisión de la relación laboral, de conformidad con lo dispuesto en la legislación aplicable, y
+
+XV. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
 ###### Artículo 76.
 
@@ -2419,39 +2445,9 @@ XXII. Disponer la notificación de los asuntos que se tramiten en la Consejería
 
 XXIII. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
-> <small>(ADICIONADO, D.O. 20 DE AGOSTO DE 2012)</small>
-
 ###### Artículo 77.
 
-Al Director de Servicios Legales le corresponde el despacho de los siguientes asuntos:
-
-I. Dirigir, coordinar y vigilar el cumplimiento de las obligaciones del titular del área jurídica del Registro Civil;
-
-II. Intervenir y brindar asesoría en los asuntos de carácter legal al Director del Registro Civil;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-III. Dar seguimiento a las instrucciones que gire el Consejero Jurídico o el Director General de Servicios Legales y Vinculación Institucional al Director del Registro Civil;
-
-IV. Emitir opinión y resolver las consultas que en materia laboral sean planteadas por las dependencias y entidades de la Administración Pública;
-
-V. Establecer canales de coordinación permanente con las áreas jurídicas de las dependencias y entidades de la Administración Pública, a fin de homologar criterios para la atención de los juicios laborales, así como solicitar periódicamente de las mismas, información relativa a dichos asuntos;
-
-VI. Dar seguimiento a la tramitación de todos los juicios laborales en los que el Poder Ejecutivo sea parte, ofreciendo todas las pruebas o medios de convicción a su alcance y que sean procedentes; intervenir en las audiencias de conciliación, demanda y excepciones, pruebas y alegatos e interponer y hacer valer los incidentes, recursos legales y medios de impugnación que procedan y, en general, realizar toda clase de trámites y actuaciones que correspondan a la adecuada defensa de sus intereses;
-
-VII. Formular los proyectos de las promociones y recursos que deban interponerse en los juicios de amparo en materia laboral;
-
-VIII. Elaborar los proyectos de convenios para la conclusión de los juicios o conflictos laborales de las dependencias o entidades de la Administración Pública;
-
-IX. Cuantificar y proponer las liquidaciones que por concepto de pago de prestaciones deban cubrirse a los trabajadores del Poder Ejecutivo por terminación de la relación laboral, de conformidad con lo dispuesto en la normatividad aplicable;
-
-X. Representar legalmente al Poder Ejecutivo del Estado y a su titular, ante los tribunales estatales o federales en los procedimientos laborales, así como en los juicios de amparo en materia laboral, en los que sea parte o tenga interés jurídico;
-
-XI. Representar legalmente a la Consejería Jurídica y a su titular, ante los tribunales estatales o federales en los procedimientos laborales, así como en los juicios de amparo en materia laboral, en los que la dependencia sea parte o tenga interés jurídico;
-
-XII. Emitir opinión en relación a las solicitudes de pensión de los familiares o dependientes económicos de los empleados pensionados y jubilados del Poder Ejecutivo, así como coordinarse con el área competente del Instituto de Seguridad Social de los Trabajadores del Estado de Yucatán en relación a los trámites de otorgamiento y pago de pensión, y
-
-XIII. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
+(DEROGADO, D.O. 9 DE SEPTIEMBRE DE 2016)
 
 > <small>(REFORMADO, D.O. 20 DE AGOSTO DE 2012)</small>
 
@@ -2459,7 +2455,9 @@ XIII. Las demás que establezcan este Reglamento y otras disposiciones legales a
 
 Al Director de Vinculación Institucional le corresponde el despacho de los siguientes asuntos:
 
-I. Establecer canales de coordinación permanente con las dependencias y entidades de la Administración Pública Estatal a fin de mejorar el funcionamiento de las áreas jurídicas;
+> <small>(REFORMADA, D.O. 9 DE SEPTIEMBRE DE 2016)</small>
+
+I. Establecer canales de coordinación permanente con las unidades jurídicas de las dependencias y entidades de la Administración Pública estatal, para mejorar la atención de los asuntos de su competencia;
 
 > <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -12898,5 +12896,13 @@ D.O. 26 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 406/2016 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, SOBRE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS".]
 
 Único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+D.O. 9 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 409/2016 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, SOBRE LA CONSEJERÍA JURÍDICA”.]
+
+Único.- Entrada en vigor
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
