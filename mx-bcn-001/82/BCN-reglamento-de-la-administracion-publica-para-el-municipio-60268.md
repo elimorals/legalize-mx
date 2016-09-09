@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-administracion-publica-para-el-municipio-60268
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2016-07-15"
+last_updated: "2016-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2016.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de febrero de 2008.
 
@@ -1167,7 +1167,7 @@ IX.- Ejercer las atribuciones ejecutivas en materia (sic) establecimientos comer
 
 X.- Integrar los expedientes de solicitantes y de titulares de los permisos de establecimientos comerciales, uso de la vía pública para comercio ambulante y mercado sobre ruedas;
 
-XI.- Vigilar, inspeccionar y aplicar que se cumplan con las normas en materia establecimientos (sic) comerciales, uso de la vía pública para comercio ambulante y mercado sobre ruedas de competencia de la administración pública municipal, aplicando las sanciones previstas;
+XI.- Vigilar, inspeccionar y aplicar que se cumplan con las normas en materia (sic) establecimientos comerciales, uso de la vía pública para comercio ambulante y mercado sobre ruedas de competencia de la administración pública municipal, aplicando las sanciones previstas;
 
 XII.- Las demás que señalen expresamente las leyes y reglamentos o le encomiende el Secretario General del Ayuntamiento.
 
@@ -1557,9 +1557,11 @@ a) Departamento de Control y Gestión Presupuestal.
 
 IV.- Subdirección de Informática.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 63.
 
-La recaudación estará a cargo de un Recaudador de Rentas del Municipio, titular de la Subdirección de Ingresos, el cual tendrá las siguientes atribuciones:
+La recaudación estará a cargo de un Recaudador de Rentas del Municipio, el cual tendrá las siguientes atribuciones:
 
 I.- Ejercer las facultades que emanan de la Ley y de los reglamentos en materia de Hacienda Municipal.
 
@@ -1567,7 +1569,9 @@ II.- Determinar y facturar los créditos fiscales municipales así como ejercer 
 
 III.- Expedir los certificados de libertad de gravámenes;
 
-IV.- Recaudar los recursos establecidos en la ley de ingresos y demás ordenamientos que regulen la actividad financiera del municipio;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+
+IV.- Recaudar los recursos establecidos en la ley de ingresos y demás ordenamientos que regulen la actividad financiera del municipio, ya sea en numerario o en forma de cheques de caja de instituciones bancarias, cheques de particulares certificados por institución bancaria, giros o vales postales o giros telegráficos;
 
 V.- Vigilar el cumplimiento de las leyes fiscales y sus reglamentos;
 
@@ -1577,7 +1581,7 @@ VII.- Evaluar las actividades desarrolladas para la recaudación fiscal mejorand
 
 VIII.- Elaborar y proponer programas fiscales y administrativos para la ejecución de créditos a causantes incumplidos o morosos;
 
-IX.- Llevar acabo (sic) el procedimiento administrativo de ejecución conforme a la Ley de Hacienda Municipal;
+IX.- Llevar acabo el procedimiento administrativo de ejecución conforme a la Ley de Hacienda Municipal;
 
 X.- Realizar, elaborar y actualizar el sistema de catastro municipal;
 
@@ -2071,7 +2075,7 @@ X.- Realizar las acciones necesarias tendientes a impedir la obstaculización de
 
 XI.- Realizar estudios y proponer a las Autoridades del Municipio las vías públicas exclusivas para el tránsito de los peatones;
 
-XII.- Colaborar en el diseño de infraestructura que faciliten (sic) el transporte y el libre desplazamiento en las vialidades;
+XII.- Colaborar en el diseño de infraestructura que faciliten el transporte y el libre desplazamiento en las vialidades;
 
 XIII.- Diseñar y formular estudios técnicos, proyectos y dictámenes de ingeniería de tránsito;
 
@@ -2934,5 +2938,11 @@ P.O. 15 DE JULIO DE 2016.
 P.O. 15 DE JULIO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMAR LOS ARTÍCULOS 77 Y 79, Y ADICIONAR EL ARTÍCULO 77 BIS DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, Y REFORMAR EL ARTÍCULO 4 DEL REGLAMENTO INTERIOR DE LA SINDICATURA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA, RELATIVO A DICTAMEN 018/2016”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
+
+P.O. 9 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA DICTAMEN 023/2016 RELATIVO A REFORMAR EL ARTÍCULO 63 DEL REGLAMENTO DE ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, B.C.”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
