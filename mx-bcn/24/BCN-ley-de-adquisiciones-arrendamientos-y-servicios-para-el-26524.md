@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-adquisiciones-arrendamientos-y-servicios-para-el-26524"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-18"
-last_updated: "2014-08-29"
+last_updated: "2016-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 18 de octubre de 2002.
 
@@ -187,7 +187,9 @@ Los actos, contratos y convenios que se celebren en contravención a lo dispuest
 
 La unidad administrativa mediante disposiciones de carácter general determinará los bienes y servicios de uso generalizado que, en forma consolidada podrá adquirir, arrendar o contratar, con objeto de obtener las mejores condiciones en cuanto a calidad, precio y oportunidad.
 
-La unidad administrativa elaborará un Padrón de Proveedores integrando los expedientes respectivos para efectos de simplificación administrativa, registrándolos y clasificándolos por el giro a que se dediquen, conforme a los criterios y procedimientos que se fijen en el Reglamento. No será requisito indispensable estar inscrito en el Padrón de Proveedores para tener el derecho de participar como proveedor de bienes y servicios.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+
+La unidad administrativa elaborará un Padrón de Proveedores integrando los expedientes respectivos para efectos de simplificación administrativa, registrándolos y clasificándolos por el giro a que se dediquen, conforme a los criterios y procedimientos que se fijen en el Reglamento.
 
 ### CAPÍTULO SEGUNDO. DE LA PLANEACIÓN, PROGRAMACIÓN Y PRESUPUESTACIÓN
 
@@ -279,9 +281,33 @@ Para la contratación de los proyectos de Asociaciones Público-Privadas previst
 
 En los contratos de adquisiciones, arrendamientos y servicios, cuya vigencia rebase un ejercicio presupuestal, los órganos deberán proyectar tanto el presupuesto total como el relativo a los ejercicios de que se trate; en la formulación de los presupuestos de los ejercicios subsecuentes, se considerarán los costos que, en su momento, se encuentren vigentes, y se dará prioridad a las previsiones para el cumplimiento de las obligaciones contraídas en ejercicios anteriores.
 
-### CAPÍTULO TERCERO. DE LOS PROCEDIMIENTOS DE CONTRATACIÓN Y SUS EXCEPCIONES
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
-### CAPÍTULO CUARTO. DE LOS CONTRATOS
+### CAPÍTULO SEGUNDO BIS. DEL PADRÓN DE PROVEEDORES
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+
+ARTÍCULO 19 BIS 1.- Los sujetos obligados a que se refiere esta Ley, integrarán un padrón de proveedores registrados y clasificados, por giro, conforme a los criterios y procedimientos que al respecto fije el Reglamento de la materia.
+
+Las personas interesadas en inscribirse en el padrón de proveedores del Estado o Municipios, deberán solicitarlo por escrito, acompañando la información y documentación que al efecto se señale en el reglamento de esta Ley, agregando el comprobante que ampare el pago de los derechos que fije la Ley de Ingresos correspondientes.
+
+La unidad administrativa del sujeto obligado correspondiente, dentro de un plazo que no exceda de diez días hábiles, contados a partir de la fecha en que reciba la solicitud, emitirá resolución de la petición planteada fundando y motivando su proceder. Transcurrido ese plazo, sin que haya respuesta o aclaración, se tendrá por aprobada la solicitud y registrado al solicitante.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+
+ARTÍCULO 19 BIS 2.- Las dependencias o entidades solo podrán celebrar contratos de adquisiciones, arrendamiento o servicios, salvo los supuestos contemplados en el artículo 49 de esta Ley, con las personas inscritas en el padrón y en el portal de internet que se trate.
+
+La clasificación a que se refiere el párrafo primero del artículo 19 bis 1, deberá ser considerada por las dependencias y entidades en la convocatoria y contratación de adquisiciones, arrendamientos y servicios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+
+ARTÍCULO 19 BIS 3.- El registro en el padrón de proveedores tendrá vigencia indefinida, siempre y cuando no se incurra en alguna de las causales a que se contrae el artículo 49 de esta Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+
+ARTÍCULO 19 BIS 4.- En el mes de enero de cada año, los sujetos obligados por conducto del órgano o unidad que indique el reglamento respectivo, mandara publicar en el Periódico Oficial del Estado y en la página oficial de internet, los nombres de las personas físicas o morales registradas en el padrón de proveedores; así mismo informará a las dependencias y entidades de las inscripciones, suspensiones y cancelaciones que se lleven a cabo con posterioridad a dicha publicación.
+
+### CAPÍTULO TERCERO. DE LOS PROCEDIMIENTOS DE CONTRATACIÓN Y SUS EXCEPCIONES
 
 #### SECCIÓN PRIMERA. GENERALIDADES
 
@@ -605,9 +631,7 @@ V.- Los plazos para la presentación de las proposiciones se fijarán para cada 
 
 VI.- Una vez realizada la evaluación de las proposiciones, y emitido el fallo en los términos del artículo 34 de la Ley, el contrato se adjudicará de entre los invitados, a aquel cuya propuesta resulte solvente porque reúne, conforme a los criterios de la invitación, las condiciones legales, técnicas y económicas requeridas por la solicitante y garantiza satisfactoriamente el cumplimiento de las obligaciones respectivas.
 
-### CAPÍTULO QUINTO. DE LA INFORMACIÓN Y VERIFICACIÓN
-
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2013)</small>
+### CAPÍTULO CUARTO. DE LOS CONTRATOS
 
 ###### ARTÍCULO 43.
 
@@ -729,7 +753,9 @@ I.- Aquellas con las que el servidor público que intervenga en cualquier etapa 
 
 II.- Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte o que hayan formado parte, durante un año previo a la fecha de celebración del procedimiento de contratación de que se trate;
 
-III.- Aquellos proveedores que por causas imputables a ellos mismos, la unidad administrativa les hubiere rescindido más de un contrato, dentro de un lapso de dos años calendario, contados a partir de la notificación de la primera rescisión. El impedimento prevalecerá durante dos años calendario, contados a partir de la notificación de la rescisión del segundo contrato;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+
+III.- Aquellos proveedores que por causas imputables a ellos mismos, la unidad administrativa les hubiere rescindido algún contrato, dentro de un lapso de dos años calendario, contados a partir de la notificación. El impedimento prevalecerá durante dos años calendario, contados a partir de la notificación de la rescisión;
 
 IV.- Las que se encuentren inhabilitadas por resolución de la Contraloría conforme al Capítulo Sexto de esta Ley;
 
@@ -749,7 +775,13 @@ VIII.- Las que pretendan participar en un procedimiento de contratación y previ
 
 IX.- Aquellas que por sí o a través de empresas que formen parte del mismo grupo empresarial, pretendan ser contratadas para elaboración de dictámenes, peritajes y avalúos, cuando éstos hayan de ser utilizados para resolver discrepancias derivadas de los contratos en los que dichas personas o empresas sean parte; y
 
-X.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición legal.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+
+X.- Aquellos que presenten garantías, que no resulte posible hacerlas efectivas por causas no imputables a la unidad administrativa solicitante.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+
+XI.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición legal.
 
 ###### ARTÍCULO 50.
 
@@ -803,7 +835,9 @@ Para los efectos del párrafo anterior, la unidad administrativa en los actos o 
 
 La adquisición de materiales cuyo consumo haga necesario el uso de equipo propiedad del proveedor, podrá realizarse cuando en las bases de la contratación se le establezca la obligación de proporcionar dicho equipo sin costo alguno, durante el tiempo requerido para el consumo de los materiales.
 
-### CAPÍTULO SEXTO. DE LAS INFRACCIONES Y SANCIONES
+### CAPÍTULO QUINTO. DE LA INFORMACIÓN Y VERIFICACIÓN
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2013)</small>
 
 ###### ARTÍCULO 55.
 
@@ -821,7 +855,7 @@ La contraloría y la unidad administrativa podrán verificar la calidad de las e
 
 El resultado de las comprobaciones se hará constar en un dictamen que será firmado por quien lo haya realizado, así como por el proveedor y el representante de la unidad administrativa, si hubiere intervenido. La falta de firma del proveedor no invalidará el dictamen.
 
-### CAPÍTULO SÉPTIMO. DEL RECURSO DE INCONFORMIDAD Y DEL PROCEDIMIENTO DE CONCILIACIÓN
+### CAPÍTULO SEXTO. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTÍCULO 58.
 
@@ -879,7 +913,7 @@ Las responsabilidades a que se refiere la Ley, son independientes de las de orde
 
 No se impondrán sanciones o multas, cuando se haya incurrido en la infracción por causa de fuerza mayor o de caso fortuito, o cuando se observe en forma espontánea el precepto que se hubiese dejado de cumplir. No se considerará que el cumplimiento es espontáneo cuando la omisión sea descubierta por las autoridades o medie requerimiento, visita, excitativa o cualquier otra gestión efectuada por las mismas.
 
-### CAPÍTULO OCTAVO. DE LAS BASES GENERALES PARA LAS ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS EN EL ÁMBITO MUNICIPAL
+### CAPÍTULO SÉPTIMO. DEL RECURSO DE INCONFORMIDAD Y DEL PROCEDIMIENTO DE CONCILIACIÓN
 
 #### SECCIÓN PRIMERA. DEL RECURSO DE INCONFORMIDAD
 
@@ -1045,6 +1079,8 @@ En caso contrario, quedarán a salvo sus derechos, para que los hagan valer ante
 
 El procedimiento de conciliación deberá ajustarse a lo previsto en el Reglamento.
 
+### CAPÍTULO OCTAVO. DE LAS BASES GENERALES PARA LAS ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS EN EL ÁMBITO MUNICIPAL
+
 ###### ARTÍCULO 87.
 
 Los Ayuntamientos deberán emitir disposiciones reglamentarias que normen la planeación, programación, presupuestación, contratación, gasto y control de las adquisiciones, arrendamientos y servicios, en sus respectivas competencias.
@@ -1152,3 +1188,11 @@ SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado
 P.O. 29 DE AGOSTO DE 2014.
 
 ÚNICO: El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 9 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 546 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 13, 49 FRACCIONES III, X Y XI; 19 BIS 1, 19 BIS 2, 19 BIS 3 Y 19 BIS 4, DEL CAPÍTULO SEGUNDO BIS DENOMINADO DEL PADRÓN DE PROVEDORES (SIC) DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- Las presentes reformas a la Ley de Adquisiciones, Arrendamientos y Servicios para el Estado de Baja California entrarán en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Los poderes del Estado, los órganos constitucionales autónomos y los Ayuntamientos, en un plazo no mayor a 90 días contados a partir de la entrada en vigor del presente decreto deberán modificar los Reglamentos correspondientes de la Ley de Adquisiciones, Arrendamientos y Servicios para el Estado de Baja California.
