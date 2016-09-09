@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transparencia-y-acceso-a-la-informacion-95409"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-08-09"
-last_updated: "2015-07-17"
+last_updated: "2016-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCN"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, B.C., PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 9 de agosto de 2013.
 
@@ -598,3 +600,17 @@ TERCERO.- El Responsable de Enlace de la Unidad que menciona el presente Reglame
 P.O. 17 DE JULIO DE 2015.
 
 ÚNICO.- Una vez siendo aprobada la presente reforma, publíquese en la Gaceta Municipal y/o en el Periódico Oficial del Gobierno del Estado de Baja California, para que surta efectos al día siguiente de su publicación en todo el territorio del Municipio de Ensenada B. C.
+
+P.O. 9 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA DICTAMEN 026/2016 RELATIVO A ABROGAR EL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE FECHA 9 DE AGOSTO DE 2013 Y CREAR EL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA".]
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Reglamento abroga el Reglamento de Transparencia y Acceso a la Información Pública para el Municipio de Ensenada, Baja California, publicado en el Periódico Oficial del Estado de fecha 09 de Agosto de 2013.
+
+TERCERO.- Los procedimientos de acceso a la información que se encuentren en trámite a la entrada en vigor de este reglamento, se sustanciarán conforme a la normatividad que se encontraba vigente en el momento de su inicio.
+
+CUARTO.- Túrnese a la Secretaria General para los trámites y efectos legales a que haya lugar.
+
+QUINTO.- Cúmplase.
