@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2016-06-17"
+last_updated: "2016-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2016.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -562,6 +562,12 @@ La remuneración del notario no se regulará en las costas, sino cuando fuere de
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 ART. 69.- En ningún caso se entregarán los autos a las partes para que los lleven fuera del tribunal. Las frases "dar vista" o "correr traslado" sólo significan que los autos quedan en la Secretaría para que se impongan de ellos los interesados, para que se les entreguen copias, para tomar apuntes, alegar, o glosar cuentas. Las disposiciones de este artículo comprenden al Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+
+ART. 69 BIS.- Las partes y sus respectivos autorizados, previa identificación de los mismos, podrán hacer uso de instrumentos electrónicos portátiles de captura, almacenaje y reproducción de datos, imágenes y voz. Tales como lectores laser, cámaras fotográficas, grabadoras de sonido o cualquier otro similar o análogo, para que se impongan de autos.
+
+El uso de los instrumentos electrónicos portátiles deberá realizarse bajo la vigilancia del personal encargado del manejo y resguardo de los expedientes.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2016)</small>
 
@@ -6391,9 +6397,11 @@ ART. 931.- En la audiencia, las partes aportarán las pruebas que así procedan 
 
 Para investigar la verdad material sobre los puntos cuestionados puede el Juez o el Tribunal, ordenar la recepción de una o más pruebas aunque no las ofrezcan las partes.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
-ART. 932.- La audiencia se practicará con o sin asistencia de las partes. El Juez, para resolver el problema que se le plantee, podrá cerciorarse personalmente o con el auxilio de trabajadores sociales del Sistema para el Desarrollo Integral de la Familia de Baja California, de la veracidad de los hechos, quienes presentarán el trabajo que desarrollen en la audiencia, pudiendo ser interrogados por el Juez o por las partes. Su intervención tendrá el valor de un testimonio de calidad, quedando sujeta su valorización a los (sic) dispuesto por el Artículo 413. En el caso se expresarán en todo caso, los medios y pruebas en los que se haya fundado el Juez para dictarlo.
+ART. 932.- La audiencia se practicará con o sin asistencia de las partes. El Juez, para resolver el problema que se le plantee, podrá cerciorarse personalmente o con el auxilio de psicólogos o trabajadores sociales del Sistema para el Desarrollo Integral de la Familia de Baja California, de la veracidad de los hechos, quienes presentarán el trabajo que desarrollen en la audiencia o dentro del breve término inaplazable que se les fije, pudiendo ser interrogados por el Juez o por las partes. Su intervención tendrá el valor de un testimonio de calidad, quedando sujeta su valorización a lo dispuesto por el Artículo 413. En el caso se expresarán en todo caso, los medios y pruebas en los que se haya fundado el Juez para dictarlo.
+
+El desempeño de los psicólogos o trabajadores sociales del Sistema para el Desarrollo Integral de la Familia de Baja California no generara costo cuando el Juez así lo ordene, tomando en cuenta el interés superior del menor o la situación económica de las partes.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -7140,3 +7148,15 @@ P.O. 17 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 494 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN O DEROGAN PORCIONES NORMATIVAS DE LOS ARTÍCULOS 53, 81 TER, 90 QUATER, 95 BIS; 197-BIS-2; 197-BIS-3, 197-BIS-5, 244 Y 245 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 542 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN ARTÍCULO 69 BIS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 555 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 932 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
