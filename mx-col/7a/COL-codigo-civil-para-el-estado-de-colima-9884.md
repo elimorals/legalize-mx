@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2016-06-11"
+last_updated: "2016-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2016.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -761,9 +761,9 @@ El Registro Civil estará a cargo de la Dirección del Registro Civil, que jerá
 
 ### CAPITULO I. Disposiciones generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-ART. 35.- En el Estado de Colima, estará a cargo de los oficiales del Registro Civil, autorizar con la firma autógrafa o con la firma electrónica certificada los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, tutela, emancipación y muerte de los mexicanos y extranjeros residentes en el territorio del mismo; así como las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+ART. 35.- En el Estado de Colima estará a cargo de los oficiales del Registro Civil autorizar con la firma autógrafa o con la firma electrónica certificada los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, tutela, y muerte de los mexicanos y extranjeros residentes en el territorio del mismo; así como las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
 
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
@@ -781,9 +781,9 @@ Las formas del Registro Civil serán autorizadas y distribuidas de forma física
 
 De las actas que se levanten en forma electrónica los oficiales del Registro Civil entregarán una copia de ellas al interesado, ajustándose a lo establecido en relación a la guarda y distribución del respaldo electrónico y en caso de levantamiento mecanográfico, el original quedará en el archivo de la Oficialía, una copia se entregará al interesado y otra a la Dirección del Registro Civil.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-ART. 37.- Los oficiales del Registro Civil, llevarán por duplicado siete libros que se denominan "Registro Civil" y que contendrán: el primero actas de nacimiento y reconocimiento de hijos; el segundo, actas de adopción; el tercero, actas de tutela y de emancipación; el cuarto, matrimonio; el quinto, actas de divorcio; el sexto, actas de defunción; y el séptimo, las inscripciones de las ejecutorias que declaren la ausencia, presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+ART. 37.- Los oficiales del Registro Civil llevarán por duplicado siete libros que se denominan "Registro Civil" y que contendrán: el primero actas de nacimiento y reconocimiento de hijos; el segundo, actas de adopción; el tercero, actas de tutela; el cuarto, actas de matrimonio; el quinto, actas de divorcio; el sexto, actas de defunción; y el séptimo, las inscripciones de las ejecutorias que declaren la ausencia, presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
@@ -890,6 +890,10 @@ Si no se proporcionan los nombres de los padres, el oficial del Registro Civil l
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2011)</small>
 
 El Oficial del Registro Civil, exhortará a quien se presente a registrar el nacimiento de un menor, que el nombre propio con el que se pretende registrar no sea peyorativo, discriminatorio, infamante, denigrante, carente de significado, o que constituya un signo, símbolo o siglas, números, o bien, que exponga al registrado a ser objeto de burla o humillaciones que pudieran afectar la dignidad, el autoestima o la identidad de la persona.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+El oficial del registro civil expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
 
@@ -1029,7 +1033,7 @@ ART. 92.- Extendida el acta de tutela, se anotará la de nacimiento del incapaci
 
 ### CAPITULO VI. De las actas de emancipación
 
-ART. 93.- En los casos de emancipación por efecto del matrimonio, no se formará acta separada; el oficial del Registro Civil anotará las respectivas actas de nacimiento de los cónyuges, expresándose al margen de ellas quedar éstos emancipados en virtud del matrimonio, y citando la fecha en que éste se celebró, así como el número y la foja del acta relativa.
+ART. 93.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2016)
 
 ART. 94.- (DEROGADO, P.O. 30 DE MAYO DE 1970)
 
@@ -1061,13 +1065,15 @@ Este escrito deberá ser firmado por los solicitantes, y si alguno no pudiere o 
 
 ART. 98.- Al escrito a que se refiere el artículo anterior, se acompañará:
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-I.- El acta de nacimiento de los pretendientes y en su defecto un dictamen médico que compruebe su edad, cuando por su aspecto no sea notorio que el varón es mayor de dieciséis años, y la mujer mayor de catorce; ambos documentos se pueden presentar firmados en forma autógrafa o con la firma electrónica certificada;
+I.- El acta de nacimiento de los pretendientes y en su defecto un dictamen médico que compruebe su edad, cuando por su aspecto no sea notorio que los pretendientes son mayores de edad; ambos documentos se pueden presentar firmados en forma autógrafa o con la firma electrónica certificada;
 
-II.- La constancia de que prestan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los artículos 149, 150 y 151;
+II.- (DEROGADA, P.O. 10 DE SEPTIEMBRE DE 2016)
 
 III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
 IV.- Un certificado suscrito por un médico titulado, que asegure, bajo protesta de decir verdad, que los pretendientes no padecen sífilis, tuberculosis, ni enfermedad alguna crónica e incurable que sea, además, contagiosa y hereditaria.
 
@@ -1077,9 +1083,9 @@ Para los indigentes tienen obligación de expedir gratuitamente este certificado
 
 Se exceptúa este requisito, cuando los solicitantes firmen de conformidad de celebrar el matrimonio aún cuando uno o ambos solicitantes se encontraren en el supuesto del primer párrafo de esta fracción.
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-V.- El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Silos (sic) pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejarse de presentar este convenio, ni aun a pretexto de que los pretendientes carecen de bienes, pues en tal caso, versará sobre los que adquieran durante el matrimonio .Al (sic) formularse el convenio se tendrá en cuenta lo que disponen los artículos 189 y 211 de este Código, y el Oficial del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesiten saber a efecto de que el convenio quede debidamente formulado.
+V.- El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. No puede dejarse de presentar este convenio, ni aún a pretexto de que los pretendientes carecen de bienes, pues en tal caso, versará sobre los que adquieran durante el matrimonio. Al formularse el convenio se tendrá en cuenta lo que disponen los artículos 189 y 211 de este Código, y el Oficial del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesiten saber a efecto de que el convenio quede debidamente formulado.
 
 Si de acuerdo con lo dispuesto en el artículo 185 del presente ordenamiento fuere necesario quelas (sic) capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de esa escritura firmada en forma autógrafa o con la firma electrónica certificada;
 
@@ -1097,9 +1103,9 @@ VIII.- La constancia de que ambos pretendientes asistieron a las pláticas de or
 
 ART. 99.- En el caso de que los pretendientes, por falta de conocimientos, no puedan redactar el convenio a que se refiere la fracción V del artículo anterior, tendrá obligación de redactarlo el oficial del Registro Civil, con los datos que los mismos pretendientes le suministren.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-ART. 100.- El Oficial del Registro Civil a quien se presente una solicitud de matrimonio que cumpla los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deben prestar su consentimiento, reconozcan ante él y por separado sus firmas. Las declaraciones de los testigos a que se refiere la fracción III del artículo 98 anterior serán ratificadas, bajo protesta de decir verdad, ante el mismo oficial del Registro Civil. Éste, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado
+ART. 100.- El Oficial del Registro Civil a quien se presente una solicitud de matrimonio que cumpla los requisitos enumerados en los artículos anteriores, hará que los pretendientes reconozcan ante él y por separado sus firmas. Las declaraciones de los testigos a que se refiere la fracción III del artículo 98 anterior serán ratificadas, bajo protesta de decir verdad, ante el mismo oficial del Registro Civil. Éste, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado.
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
@@ -1169,15 +1175,17 @@ ART. 103.- Se levantará luego el acta de matrimonio en la cual se hará constar
 
 I.- Los nombres, apellidos, edad, ocupación, domicilio y lugar de nacimiento de los contrayentes;
 
-II.- Si son mayores o menores de edad;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+II.- La mayoría de edad de los contrayentes;
 
 III.- Los nombres, apellidos, ocupación y domicilio de los padres;
 
-IV.- El consentimiento de éstos, de los abuelos o tutores o el de las autoridades que deban suplirlos;
+IV.- (DEROGADA, P.O. 10 DE SEPTIEMBRE DE 2016);
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-V.- Que no hubo impedimento para el matrimonio o que éste se dispensó;
+V.- Que no hubo impedimento para el matrimonio;
 
 > <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
@@ -1199,7 +1207,9 @@ El acta podrá ser firmada en forma autógrafa o con la firma electrónica certi
 
 Al margen del acta se imprimirán las huellas digitales de los contrayentes.
 
-ART. 104.- Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquéllos o su identidad, y los médicos que se produzcan falsamente al expedir el certificado a que se refiere la fracción IV del artículo 98, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente. Lo mismo se hará con las personas que falsamente se hicieren pasar por padres o tutores de los pretendientes.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+ART. 104.- Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquéllos o su identidad, y los médicos que se produzcan falsamente al expedir el certificado a que se refiere la fracción IV del artículo 98, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente.
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
@@ -1223,9 +1233,9 @@ ART. 110.- El Oficial del Registro Civil que autorice un matrimonio, teniendo co
 
 ART. 111.- Los Oficiales del Registro Civil sólo podrán negarse a autorizar un matrimonio, cuando por los términos de la solicitud, por el conocimiento de los interesados o por denuncia en forma, tuvieren noticia de que alguno de los pretendientes, o los dos, carecen de aptitud legal para celebrar el matrimonio.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-ART. 112.- El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será castigado, por la primera vez, con una multa de diez unidades de medida y actualización y, en caso de reincidencia, con la destitución de su cargo.
+ART. 112.- El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será castigado, por primera vez, con una multa de cinco unidades de medida y actualización y, en caso de reincidencia, con la destitución de su cargo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
@@ -1329,9 +1339,25 @@ La nulidad de las Actas del Registro Civil sólo podrá ser decretada por la aut
 
 Sólo procederá por resolución judicial, la modificación del nombre a que se refiere el primer párrafo de este artículo, en los casos siguientes:
 
-I. Cuando el nombre propio impuesto a una persona le cause afrenta; y
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-II. En los casos de desconocimiento o reconocimiento de la paternidad o maternidad y de la adopción, de conformidad con lo previsto en este Código.
+I. Cuando el nombre propio impuesto a una persona le cause afrenta;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+II. En los casos de desconocimiento o reconocimiento de la paternidad o maternidad y de la adopción, de conformidad con lo previsto en este Código; y
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+III.- Cuando una persona es conocida con nombre diferente al que aparece en su acta de nacimiento, a fin de adaptarlo a su realidad social.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+Declarada la modificación o rectificación, en los casos que establece este ordenamiento, se asentará la misma en el acta de nacimiento, subsistiendo en los libros del Registro Civil los datos de la persona que primeramente se haya asentado. La copia certificada del acta rectificada le servirá al interesado para aclarar su identidad ante todo tipo de autoridades.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+La rectificación, nulidad, aclaración o complementación del cambio de nombre de una persona no liberan ni eximen a ésta de responsabilidades, derechos y obligaciones contraídas o tenga actualmente con el nombre o apellido anterior.
 
 > <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2008)</small>
 
@@ -1339,7 +1365,9 @@ ART. 134 BIS.- El procedimiento administrativo mediante el cual, la Dirección G
 
 El procedimiento administrativo ante la Dirección General del Registro Civil, se sujetará a las siguientes reglas:
 
-I.- Se iniciará con la sola comparecencia del interesado de manera verbal o por escrito, ante la Dirección General del Registro Civil o, ante la Oficial del Registro Civil que corresponda, para lo cual será necesario exhibir el acta del estado civil respectiva haciéndose constar la concurrencia del interesado;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+I.- Se iniciará con la sola comparecencia del interesado de manera verbal o por escrito, ante la Dirección General del Registro Civil o, ante la Oficialía del Registro Civil que corresponda, para lo cual será necesario exhibir el acta del estado civil respectiva, las pruebas que aporte, haciéndose constar la concurrencia del interesado;
 
 II.- En caso de que comparezca ante la Oficialía a que se refiere la fracción anterior, ésta sin más trámite, remitirá a la Dirección General del Registro Civil a la mayor brevedad posible dependiendo de la facilidad en las comunicaciones o dentro de las veinticuatro horas siguientes, la constancia de comparecencia del interesado junto con el acta cuya rectificación se solicita;
 
@@ -1369,11 +1397,29 @@ ART. 136.- Pueden pedir la rectificación de un acta del estado civil:
 
 I.- Las personas de cuyo estado se trata;
 
-II.- Las que mencionan en el acta como relacionadas con el estado civil de alguno;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+II.- Las personas que se mencionan en el acta como relacionadas con el estado civil de alguno;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
 III.- Los herederos de las personas comprendidas en las dos fracciones anteriores;
 
-IV.- Los que, según los artículos 348, 349 y 350, pueden continuar o intentar la acción de que en ellos se trata.
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+IV.- Los que, según los artículos 348, 349 y 350, pueden continuar o intentar la acción de que en ellos se trata;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+V.- El padre, la madre o quien ejerza la patria potestad del menor de doce años de edad o del incapaz; y
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+VI.- La persona menor de dieciocho pero mayor de doce años de edad, con el consentimiento de su padre, de su madre, de su representante legal, o en su caso, de la persona o institución que lo tuviere a su cargo.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+En caso de que la registrada o el registrado tengan dos o más nombres en el sustantivo propio, sólo surtirá efecto en el sustantivo propio que sea peyorativo ó denotativo.
 
 ART. 137.- El juicio de rectificaciones de acta se seguirá en la forma que se establezca en el Código de Procedimientos Civiles.
 
@@ -1393,11 +1439,9 @@ ART. 138.- La sentencia ejecutoria que ordene la rectificación del Acta del Est
 
 ART. 139.- La promesa de matrimonio que se hace por escrito y es aceptada, constituye los esponsales.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-ART. 140.- Cuando los prometidos son menores de edad, los esponsales no producen efectos jurídicos si no han consentido en ellos sus representantes legales.
-
-Sólo pueden celebrar esponsales, el hombre que ha cumplido dieciséis años y la mujer que ha cumplido catorce.
+ART. 140.- Solo pueden celebrar esponsales las personas que han cumplido dieciocho años.
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
@@ -1445,39 +1489,33 @@ ART. 146.- El matrimonio debe celebrarse ante los funcionarios que establece la 
 
 ART. 147.- Los cónyuges tendrán la libertad de decidir sobre el esparcimiento de sus hijos, siendo optativo sin obligatoriedad el tenerlos o no, sin que ello afecte como causalidad para impedimento del matrimonio, teniendo que observar únicamente que cualquier condición contraria a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta para la celebración del matrimonio.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-ART. 148.- Para contraer matrimonio, cada uno de los contratantes necesitan haber cumplido dieciocho años. Los Presidentes Municipales pueden conceder dispensas de edad por causas graves y justificadas, pero nunca se podrá dispensar a menores de dieciséis años.
+ART. 148.- Para contraer matrimonio, cada uno de los contratantes necesitan haber cumplido dieciocho años, por ningún motivo podrá dispensarse este requisito.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
+ART. 149.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2016)
 
-ART. 149.- El hijo o la hija que no hayan cumplido dieciocho años, no pueden contraer matrimonio sin consentimiento de su padre o de su madre, si vivieren ambos, o del que sobreviva. Este derecho lo tiene el padre o madre, aunque hayan contraído segundas nupcias, cuando el hijo o la hija cohabite con éste y se encuentre bajo su tutela. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos o del que sobreviva; a falta o por imposibilidad de los abuelos paternos, si los dos existieren, o del que sobreviva, se requiere el consentimiento de los abuelos maternos.
+ART. 150.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2016)
 
-ART. 150.- Faltando padres y abuelos, se necesita el consentimiento de los tutores; faltando éstos, el Juez de Primera Instancia de la residencia del menor suplirá el consentimiento.
+ART. 151.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2016)
 
-ART. 151.- Los interesados pueden ocurrir al Presidente Municipal respectivo, cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren concedido. Las autoridades mencionadas, después de levantar una información sobre el particular, suplirán o no el consentimiento.
+ART. 152.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2016)
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
+ART. 153.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2016)
 
-ART. 152.- Si el juez, en el caso del artículo 150 de esta Ley, se niega a suplir el consentimiento para que se celebre el matrimonio, los interesados ocurrirán al Juez de lo Familiar, en los términos que disponga el Código de Procedimientos Civiles.
+ART. 154.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2016)
 
-ART. 153.- El ascendiente o tutor que ha prestado su consentimiento, firmando la solicitud respectiva y ratificándola ante el oficial del Registro Civil, no puede revocarlo después, a menos que haya justa causa para ello.
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
-
-ART. 154.- Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio falleciere antes de que se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo, pero siempre que el matrimonio se verifique dentro del término fijado en el artículo 101 anterior.
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
-
-ART. 155.- El juez que hubiere autorizado a un menor para contraer matrimonio no podrá revocar el consentimiento, una vez que lo haya otorgado, sino por justa causa superveniente.
+ART. 155.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2016)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
 ART. 156.- Son impedimentos para celebrar contrato de matrimonio:
 
-I.- La falta de edad requerida por la ley, cuando no haya sido dispensada;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-II.- La falta de consentimiento del que, o los que ejerzan la patria potestad, el tutor o el juez en sus respectivos casos;
+I.- La falta de edad requerida por la ley;
+
+II.- (DEROGADA, P.O. 10 DE SEPTIEMBRE DE 2016)
 
 III.- El parentesco de consanguinidad legítima o natural, sin limitación de grado en la línea recta, ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
 
@@ -1515,7 +1553,9 @@ XI. (DEROGADA, P.O. 10 DE AGOSTO DE 2013)
 
 XII.- No haber asistido a las pláticas de orientación matrimonial.
 
-De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en línea colateral desigual.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+De estos impedimentos sólo es dispensable el parentesco de consanguinidad en línea colateral desigual.
 
 ART. 157.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
@@ -1523,15 +1563,9 @@ ART. 157.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
 ART. 158.- La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz un hijo. En los casos de nulidad o de divorcio, puede contarse este tiempo desde que se interrumpió la cohabitación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
+ART. 159.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2016)
 
-ART. 159.- El tutor no puede contraer matrimonio con la persona que ha estado o está bajo su guarda, a no ser que obtenga dispensa, la que no se le concederá por el Presidente Municipal respectivo, sino cuando hayan sido aprobadas las cuentas de la tutela.
-
-Esta prohibición comprende también al curador y a los descendientes de éste y del tutor.
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
-
-ART. 160.- Si el matrimonio se celebrare en contravención de lo dispuesto en el artículo anterior, el juez nombrará inmediatamente un tutor interino que reciba los bienes y los administre mientras se obtiene la dispensa.
+ART. 160.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2016)
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
@@ -1583,13 +1617,11 @@ ART. 170.- (DEROGADO, P.O. 14 DE JUNIO DE 1975)
 
 ART. 171.- (DEROGADO, P.O. 14 DE JUNIO DE 1975)
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-ART. 172.- Los cónyuges mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios, y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite un cónyuge el consentimiento del otro cónyuge, ni ésta de la autorización de aquél; salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de los bienes.
+ART. 172.- Los cónyuges tienen capacidad para administrar, contratar o disponer de sus bienes propios, y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite un cónyuge el consentimiento del otro cónyuge, ni ésta de la autorización de aquél; salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de los bienes.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
-
-ART. 173.- Los cónyuges menores de edad tendrán la administración de sus bienes, en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
+ART. 173.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2016)
 
 ART. 174.- (DEROGADO, P.O. 9 DE JULIO DE 1994)
 
@@ -1625,9 +1657,7 @@ ART. 179.- Las capitulaciones del matrimonio son los pactos que las parejas cele
 
 ART. 180.- Las capitulaciones matrimoniales pueden otorgarse antes de la celebración del matrimonio o durante la misma, y pueden comprender no solamente los bienes de que sean dueños los cónyuges en el momento de hacer el pacto, sino también los que adquieran después.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
-
-ART. 181.- El menor que con arreglo a la ley pueda contraer matrimonio, puede también otorgar capitulaciones, las cuales serán válidas si a su otorgamiento concurren las personas cuyo consentimiento previo es necesario para la celebración del matrimonio.
+ART. 181.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2016)
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
@@ -1651,11 +1681,9 @@ ART. 185.- Las capitulaciones matrimoniales en que se constituya la sociedad con
 
 ART. 186.- En este caso, la alteración que se haga de las capitulaciones deberá también otorgarse en escritura pública, haciendo la respectiva anotación en el protocolo en que se otorgaron las primitivas capitulaciones y en la inscripción del Registro Público de la Propiedad. Sin llenar estos requisitos, las alteraciones no producirán efecto contra tercero.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-ART. 187.- La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si así lo convienen las partes, pero si éstos son menores de edad, deben intervenir en la disolución de la sociedad, prestando su consentimiento, las personas a que se refiere el artículo 181 de este Código.
-
-Esta misma regla se observará cuando la sociedad conyugal se modifique durante la menor edad de los consortes.
+ART. 187.- La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si así lo convienen las partes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
@@ -1751,11 +1779,9 @@ ART. 207.- Puede haber separación de bienes en virtud de capitulaciones anterio
 
 ART. 208.- La separación de bienes puede ser absoluta o parcial. En el segundo caso, los bienes que no estén comprendidos en las capitulaciones de separación, serán objeto de la sociedad conyugal que deben constituir los esposos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-ART. 209. - Durante el matrimonio, la separación de bienes puede terminar para ser substituida por la sociedad conyugal; pero si los consortes son menores de edad, se observará lo dispuesto en el artículo 181.
-
-Lo mismo se observará cuando las capitulaciones de separación se modifiquen durante la menor edad de los cónyuges.
+ART. 209.- Durante el matrimonio, la separación de bienes puede terminar para ser substituida por la sociedad conyugal.
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
@@ -1815,7 +1841,7 @@ ART. 227.- Tampoco se revocarán por ingratitud, a no ser que el donante fuere u
 
 ART. 228.- Las donaciones antenupciales son revocables y se entienden revocadas por el adulterio o el abandono injustificado del domicilio conyugal por parte del donatario, cuando el donante fuere el otro cónyuge.
 
-ART. 229.- Los menores pueden hacer donaciones antenupciales, pero sólo con intervención de sus padres o tutores, o con aprobación judicial.
+ART. 229.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2016)
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
@@ -1853,29 +1879,13 @@ III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 9
 
 ART. 236.- La acción de nulidad que nace del error, sólo puede deducirse por el cónyuge engañado; pero si éste no denuncia el error inmediatamente que lo advierte, se tiene por ratificado el consentimiento y queda subsistente el matrimonio, a no ser que exista algún otro impedimento que lo anule.
 
-ART. 237.- La menor edad de dieciséis años en el hombre y de catorce en la mujer dejará de ser causa de nulidad:
+ART. 237.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2016)
 
-I.- Cuando haya habido hijos;
+ART. 238.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2016)
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 1970)</small>
+ART. 239.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2016)
 
-II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los dieciocho años; y ni él ni el otro cónyuge hubieren intentado la nulidad.
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
-
-ART. 238.- La nulidad por falta de consentimiento de los ascendientes sólo podrá alegarse por aquél o aquéllos a quienes tocaba prestar dicho consentimiento, y dentro de treinta días contados desde que tenga conocimiento del matrimonio.
-
-ART. 239.- Cesa esta causa de nulidad:
-
-I.- Si han pasado los treinta días sin que se haya pedido;
-
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
-
-II.- Si dentro de este término, el ascendiente ha consentido expresamente en el matrimonio, o tácitamente, haciendo donación a los hijos en consideración al matrimonio, recibiendo a los consortes a vivir en su casa, presentando a la prole como legítima al Registro Civil, o practicando otros actos que a juicio del juez sean tan conducentes al efecto, como los expresados.
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
-
-ART. 240.- La nulidad por falta de consentimiento del tutor o del juez, podrá pedirse dentro del término de treinta días por cualesquiera de los cónyuges, o por el tutor; pero dicha causa de nulidad cesará si antes de presentarse demanda en forma sobre ella se obtiene la ratificación del tutor o la autorización judicial, confirmando el matrimonio.
+ART. 240.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2016)
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
@@ -1995,11 +2005,13 @@ ART. 264.- Es ilícito, pero no nulo el matrimonio:
 
 I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa;
 
-II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 159, y cuando se celebre sin que hayan transcurrido los términos fijados en los artículos 158 y 289.
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
+II.- Cuando se celebre sin que hayan transcurrido los términos fijados en los artículos 158 y 289.
 
-ART. 265.- Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de éste, del tutor o del juez, en sus respectivos casos, y los que autoricen esos matrimonios, incurrirá en las penas que señale el Código de la materia.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+ART. 265.- Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor, y los que autoricen este matrimonio incurrirán en las penas que señale el Código de la materia.
 
 ### CAPITULO X. Del divorcio
 
@@ -2095,17 +2107,17 @@ ART. 270.- (DEROGADO, P.O. 29 DE MARZO DE 2003)
 
 ART. 271.- Para que pueda pedirse el divorcio por causa de enfermedad mental que se considere incurable, o de peligro de daño para la integridad física o psicológica del otro cónyuge y de los hijos de ambos o de alguno de ellos, es necesario justificarlo con dictamen médico expedido por institución oficial y que haya transcurrido, además un año desde que comenzó a padecerse la enfermedad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-ART. 272.- Cuando ambos cónyuges convengan en divorciarse y sean mayores de edad, no se encuentre en estado de gravidez, y no tengan hijos o, teniéndolos, éstos se encuentren emancipados, o sean mayores de edad y no exista obligación alimentaria, y no se encuentren bajo el régimen de tutela; y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen contrajeron matrimonio, y haya transcurrido un año o más de la celebración del mismo, se presentarán personalmente ante el oficial del registro civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas, firmadas en forma autógrafa o con la firma electrónica certificada y en los formatos autorizados, que son casados y mayores de edad, manifestarán de una manera terminante y explícita su voluntad de divorciarse.
+ART. 272.- Cuando ambos cónyuges convengan en divorciarse, la mujer no se encuentre en estado de gravidez, y no tengan hijos o, teniéndolos, éstos sean mayores de edad y no exista obligación alimentaria, y no se encuentren bajo el régimen de tutela; y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen contrajeron matrimonio, y haya transcurrido un año o más de la celebración del mismo, se presentarán personalmente ante el oficial del registro civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas, firmadas en forma autógrafa o con la firma electrónica certificada y en los formatos autorizados, que son casados, manifestarán de una manera terminante y explícita su voluntad de divorciarse.
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
 El Oficial del Registro Civil, previa identificación de los consortes, levantará un acta en que hará constar la solicitud de divorcio y citará a los cónyuges para que se presenten a ratificarla a los quince días. Si los consortes hacen la ratificación, el oficial del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente del matrimonio anterior.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos menores de edad no emancipados, o que la mujer se encuentra en estado gravidez, o que teniendo hijos mayores de edad, éstos se encuentran bajo el régimen de tutela, o son acreedores alimentarios y no han liquidado su sociedad conyugal, y entonces aquellos sufrirán las penas que establezca el Código de la materia.
+El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos menores de edad, o que la mujer se encuentra en estado (sic) gravidez, o que teniendo hijos mayores de edad, éstos se encuentran bajo el régimen de tutela, o son acreedores alimentarios y no han liquidado su sociedad conyugal, y entonces aquellos sufrirán las penas que establezca el Código de la materia.
 
 Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al juez competente en los términos que ordena el Código de Procedimientos Civiles.
 
@@ -2655,7 +2667,7 @@ III.- A percibir la porción hereditaria y los alimentos que fije la ley.
 
 ### CAPITULO I. De los efectos de la patria potestad respecto de la persona de los hijos
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
 ART. 411.- En la relación entre ascendientes y descendientes debe imperar el respeto y la consideración mutuos, cualquiera que sea su estado, edad y condición.
 
@@ -2667,7 +2679,9 @@ Los ascendientes deben procurar el respeto y el acercamiento constante de los me
 
 Se entiende por alienación parental la manipulación o inducción que un progenitor realiza hacia su menor hijo, mediante la desaprobación o crítica tendiente a obtener la denigración exagerada y/o injustificada del otro progenitor para producir en el menor, rechazo, rencor, odio o desprecio hacia éste.
 
-ART. 412.- Los hijos menores de edad no emancipados están bajo la patria potestad mientras exista alguno de los ascendientes que deban ejercerla conforme a la ley.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+ART. 412.- Los hijos menores de edad están bajo la patria potestad mientras exista alguno de los ascendientes que deban ejercerla conforme a la ley.
 
 ART. 413.- La patria potestad se ejerce sobre la persona y los bienes de los hijos. Su ejercicio queda sujeto, en cuanto a la guarda y educación de los menores, a las modalidades que le impriman las leyes respectivas.
 
@@ -3177,9 +3191,9 @@ Al efecto, el precio de la venta se depositará en una institución de crédito,
 
 ART. 438.- El derecho de usufructo concedido a las personas que ejercen la patria potestad, se extingue:
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 1970)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-I.- Por la emancipación derivada del matrimonio o la mayor edad de los hijos;
+I. Por la mayor edad de los hijos;
 
 II.- Por la pérdida de la patria potestad;
 
@@ -3201,9 +3215,7 @@ ART. 443.- La patria potestad se acaba:
 
 I.- Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 1970)</small>
-
-II.- Con la emancipación, derivada del matrimonio;
+II. (DEROGADA, P.O. 10 DE SEPTIEMBRE DE 2016)
 
 III.- Por la mayor edad del hijo.
 
@@ -3275,9 +3287,7 @@ III.- (DEROGADA, P.O. 26 DE MAYO DE 2007)
 
 IV.- Los ebrios consuetudinarios, y los que habitualmente hacen uso inmoderado de drogas enervantes, siempre que esto conlleve a que no puedan gobernarse y obligarse por sí mismos.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 1970)</small>
-
-ART. 451.- Los menores de edad emancipados por razón del matrimonio, tienen incapacidad legal para los actos que se mencionen en el artículo relativo al capítulo I de (sic) título décimo de este libro.
+ART. 451.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2016)
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
 
@@ -3415,7 +3425,9 @@ ART. 471.- El nombramiento de tutor testamentario, hecho en los términos del ar
 
 ART. 472.- Si los ascendientes excluidos estuvieren incapacitados o ausentes, la tutela cesará cuando cese el impedimento o se presenten los ascendientes, a no ser que el testador haya dispuesto expresamente que continúe la tutela.
 
-ART. 473.- El que en su testamento, aunque sea un menor no emancipado, deje bienes, ya sea por legado o por herencia, a un incapaz que no esté bajo su patria potestad, ni bajo la de otro, puede nombrarle tutor solamente para la administración de los bienes que le deje.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+ART. 473.- El que en su testamento, deje bienes, ya sea por legado o por herencia, a un incapaz que no esté bajo su patria potestad, ni bajo la de otro, puede nombrarle tutor solamente para la administración de los bienes que le deje.
 
 ART. 474.- Si fueren varios los menores podrá nombrárseles un tutor común o conferirse a persona diferente la tutela de cada uno de ellos, observándose, en su caso, lo dispuesto en el artículo 457.
 
@@ -3507,7 +3519,7 @@ ART. 497.- Si el menor no ha cumplido dieciséis años, el nombramiento de tutor
 
 ART. 498.- Si el juez no hace oportunamente el nombramiento de tutor, es responsable de los daños y perjuicios que se sigan al menor por esa falta.
 
-ART. 499.- Siempre será dativa la tutela para asuntos judiciales del menor de edad emancipado.
+ART. 499.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2016)
 
 ART. 500.- A los menores de edad que no estén sujetos a patria potestad ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en ese caso tendrá por objeto el cuidado de la persona del menor, a efecto de que reciba la educación que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a petición del Consejo Local de Tutelas, del Ministerio Público, del mismo menor y aún de oficio por el juez.
 
@@ -3879,7 +3891,9 @@ ART. 603.- La obligación de dar cuenta pasa a los herederos del tutor; y si alg
 
 ART. 604.- La garantía dada por el tutor no se cancelará, sino cuando las cuentas hayan sido aprobadas.
 
-ART. 605.- Hasta pasado un mes de la rendición de cuentas, es nulo todo convenio entre el tutor y el pupilo, ya mayor o emancipado, relativo a la administración de la tutela o a las cuentas mismas.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+ART. 605.- Hasta pasado un mes de la rendición de cuentas, es nulo todo convenio entre el tutor y el pupilo ya mayor, relativo a la administración de la tutela o las cuentas mismas.
 
 ### CAPITULO XII. De la extinción de la tutela
 
@@ -3929,13 +3943,9 @@ ART. 622.- Lo dispuesto sobre impedimentos o excusas de los tutores regirá igua
 
 ART. 623.- Los que tienen derecho a nombrar tutor lo tienen también de nombrar curador.
 
-ART. 624.- Designarán por sí mismos al curador, con aprobación judicial:
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-I.- Los comprendidos en el artículo 496, observándose lo que allí se dispone respecto de esos nombramientos;
-
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 1970)</small>
-
-II.- Los menores de edad emancipados por razón del matrimonio, en el caso previsto en la fracción II del artículo 643.
+ART. 624.- Designarán por sí mismos al curador, con aprobación judicial, los comprendidos en el artículo 496, observándose lo que allí se dispone respecto de esos nombramientos.
 
 ART. 625.- El curador de todos los demás individuos sujetos a tutela será nombrado por el juez.
 
@@ -3987,7 +3997,7 @@ ART. 634.- Mientras se nombra tutor, el juez debe dictar las medidas necesarias 
 
 ART. 635.- Son nulos todos los actos de administración ejecutados y los contratos celebrados por los incapacitados, sin la autorización del tutor, salvo lo dispuesto en la fracción IV del artículo 537.
 
-ART. 636.- Son también nulos los actos de administración y los contratos celebrados por los menores emancipados, si son contrarios a las restricciones establecidas por el artículo 643.
+ART. 636.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2016)
 
 ART. 637.- La nulidad a que se refieren los artículos anteriores sólo puede ser alegada, sea como acción, sea como excepción, por el mismo incapacitado o por sus legítimos representantes; pero no por las personas con quienes contrató, ni por los fiadores que se hayan dado al constituirse la obligación, ni por los mancomunados en ella.
 
@@ -3999,19 +4009,11 @@ ART. 640.- Tampoco pueden alegarla los menores, si han presentado certificados f
 
 ### CAPITULO I. De la emancipación
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
-
-ART. 641.- La celebración del matrimonio del menor de dieciocho años produce de (sic) derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
+ART. 641.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2016)
 
 ART. 642.- (DEROGADO, P.O. 30 DE MAYO DE 1970)
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 1970)</small>
-
-ART. 643.- El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante su menor edad:
-
-I.- De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces;
-
-II.- De un tutor para negocios judiciales.
+ART. 643.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2016)
 
 ART. 644.- (DEROGADO, P.O. 30 DE MAYO DE 1970)
 
@@ -4307,7 +4309,9 @@ ART. 730.- El valor de los bienes que conformen el patrimonio de familia no podr
 
 ART. 731.- El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito ante el Instituto para el Registro del Territorio, designando con toda precisión y de manera que puedan ser inscritos los bienes que van a quedar afectados, debiendo comprobar lo siguiente:
 
-I.- Que es mayor de edad o que está emancipado;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+I.- Que es mayor de edad;
 
 II.- Que está domiciliado en el lugar donde se quiere constituir el patrimonio;
 
@@ -6891,7 +6895,7 @@ ART. 1612.- El albacea sólo puede dar en arrendamiento hasta por un año, los b
 
 ART. 1613.- El albacea está obligado a rendir cada año cuenta de su albaceazgo. No podrá ser nuevamente nombrado, sin que antes haya sido aprobada su cuenta anual. Además, rendirá la cuenta general del albaceazgo. También rendirá cuenta de su administración, cuando por cualquiera causa deje de ser albacea.
 
-ART. 1614.- La obligación que de dar cuentas (sic) tiene el albacea, pasa a sus herederos.
+ART. 1614.- La obligación que de dar cuentas tiene el albacea, pasa a sus herederos.
 
 ART. 1615.- Son nulas de pleno derecho las disposiciones por las que el testador dispensa al albacea de la obligación de hacer inventario o de rendir cuentas.
 
@@ -7265,7 +7269,7 @@ ART. 1702 K.- Las disposiciones del presente Código serán aplicadas de modo qu
 
 ART. 1702 L.- Cuando la ley requiera o las partes acuerden la existencia de una firma en relación con un mensaje de datos, se entenderá satisfecho dicho requerimiento si se utiliza una firma electrónica que resulte apropiada para los fines para los cuales se generó o comunicó ese mensaje de datos.
 
-Cuando se trate de actos jurídicos que deban otorgarse ante fedatario publico, se requerirá de la firma electrónica certificada.
+Cuando se trate de actos jurídicos que deban otorgarse ante fedatario público, se requerirá de la firma electrónica certificada.
 
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
@@ -10113,7 +10117,7 @@ ART. 2656.- El que pierde en un juego o apuesta que no estén prohibidos, queda 
 
 ART. 2657.- La deuda de juego o de apuesta prohibidos no puede compensarse, ni ser convertida por novación en una obligación civilmente eficaz.
 
-ART. 2658.- El que hubiere firmado una obligación que en realidad tenía por causa (sic) una deuda de juego o de apuesta prohibidos, conserva, aunque se atribuya a la obligación una causa civilmente eficaz la excepción que nace del artículo anterior, y se puede probar por todos los medios la causa real de la obligación.
+ART. 2658.- El que hubiere firmado una obligación que en realidad tenía por causa una deuda de juego o de apuesta prohibidos, conserva, aunque se atribuya a la obligación una causa civilmente eficaz la excepción que nace del artículo anterior, y se puede probar por todos los medios la causa real de la obligación.
 
 ART. 2659.- Si a una obligación de juego o apuesta prohibidos se le hubiere dado la forma de título o la orden al portador, el suscriptor debe pagarla al portador de buena fe, pero tendrá el derecho que le concede el artículo 2,654.
 
@@ -11428,3 +11432,27 @@ P.O. 11 DE JUNIO DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado: "El Estado de Colima".
 
 SEGUNDO.- Se reconoce plena validez legal a los contratos de Enlaces Conyugales celebrados con anterioridad al presente decreto, debiendo los contrayentes celebrar contrato de matrimonio, para lo cual los oficiales del Registro Civil deberán sustituir el acta de Relación Conyugal correspondiente, por una nueva acta de matrimonio en los términos en que se celebró el enlace referido; sin necesidad de presentar nuevamente la documentación requerida para celebrar tales actos jurídicos, ni realizar pago algo por esta sustitución..
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+TERCERO.- Se reconoce la validez de todos los contratos de matrimonio mediante las (sic) cuales se haya celebrado la unión de personas del mismo sexo, hasta antes de la entrada en vigor del presente Decreto. Los oficiales del registro civil deberán canjear dichas actas sin costo alguno para los solicitantes, de conformidad a las reformas contenidas en el Decreto 103 y, gocen sin limitación alguna de los beneficios de ésta.
+
+P.O. 10 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 151 POR EL QUE SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 58; SE REFORMAN LAS FRACCIONES I, Y II, SE ADICIONA LA FRACCIÓN III, LOS PÁRRAFOS CUARTO Y QUINTO AL ARTÍCULO 134; SE REFROMA (SIC) LA FRACCIÓN I, AL ARTÍCULO 134 BIS; SE REFORMA LA FRACCIÓN II, III, IV, Y SE ADICIONAN LAS FRACCIONES V Y VI, ASÍ COMO UN PÁRRAFO SEGUNDO AL ARTÍCULO 136, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 10 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 154 SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DE LOS CÓDIGOS CIVIL Y DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA; Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 10 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 148 SE ADICIONA UN TRANSITORIO TERCERO AL DECRETO 103, DE ESTA QUINCUAGÉSIMA OCTAVA LEGISLATURA, PUBLICADO EN EL PERIÓDICO OFICIAL “EL ESTADO DE COLIMA” EL 11 DE JUNIO DE 2016, POR EL QUE SE RECONOCE LA VALIDEZ DE TODOS LOS CONTRATOS DE MATRIMONIO MEDIANTE LAS (SIC) CUALES SE HAYA CELEBRADO LA UNIÓN DE PERSONAS DEL MISMO SEXO, HASTA ANTES DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico “El Estado de Colima”.
