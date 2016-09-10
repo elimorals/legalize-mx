@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2016-06-24"
+last_updated: "2016-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2016.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -629,9 +629,9 @@ XV.- Niñez, Juventud, Adultos Mayores y Discapacidad;
 
 XVI.- Comunicaciones, Transportes y Movilidad;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-XVII.- Equidad de Género;
+XVII.- Igualdad de Género;
 
 XVIII.- Desarrollo Municipal y Zonas Metropolitanas;
 
@@ -1031,17 +1031,25 @@ III.- Lo relacionado con la materia de movilidad urbana, sus causas y consecuenc
 
 IV.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 64.
 
-Corresponde a la Comisión de Equidad de Género, conocer de los siguientes asuntos:
+Corresponde a la Comisión de Igualdad de Género, conocer de los siguientes asuntos:
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2013)</small>
 
 I.- Los programas encaminados a crear una conciencia ciudadana de igualdad entre el hombre y la mujer, formulando las propuestas que considere convenientes;
 
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2013)</small>
+
 II.- Conocer lo relacionado con programas y acciones de los tres órdenes de gobierno encaminados a la atención y superación de las mujeres; formulando las propuestas que considere convenientes;
 
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2013)</small>
+
 III.- Apoyar programas y acciones tendientes a atender la violencia intrafamiliar y la desigualdad entre géneros, propiciando que a la mujer se le dé el apto trato y respeto que merecen; y
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2013)</small>
 
 IV.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
@@ -2117,7 +2125,7 @@ Ningún Diputado podrá ausentarse del Recinto Legislativo cuando se esté efect
 
 ###### Artículo 171.
 
-Ningún Diputado podrá votar por sI mismo, ni emitir su voto en cuestiones en que tenga interés personal o familiar en los términos del artículo 70 de este Reglamento.
+Ningún Diputado podrá votar por si mismo, ni emitir su voto en cuestiones en que tenga interés personal o familiar en los términos del artículo 70 de este Reglamento.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2926,3 +2934,9 @@ P.O. 24 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 114 SE REFORMAN LOS ARTÍCULOS 47, EN SU PÁRRAFO CUARTO, 48, 64, EN SU PÁRRAFO PRIMERO Y TERCERO, Y 66, EN SU PRIMER PÁRRAFO, TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA; ASÍ MISMO SE REFORMAN LOS ARTÍCULOS 39, EN SUS PÁRRAFOS PRIMERO, SEGUNDO Y CUARTO, 40, PÁRRAFO TERCERO, 94, 96 Y 100 Y SE DEROGA EL ARTÍCULO 97 TODOS DEL REGLAMENTO DE LA LEY YA MENCIONADA”.]
 
 PRIMERO (SIC).- El presente Decreto entrará en vigor al momento de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 10 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 152 POR EL QUE SE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 56, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
