@@ -4,7 +4,7 @@ identifier: "COL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-103535"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-08"
-last_updated: "2016-06-18"
+last_updated: "2016-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEXTO DEL DECRETO NÚMERO 409 DEL P.O. 18 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL 31 DE DICIEMBRE DE 2014.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEXTO DEL DECRETO NÚMERO 409 DEL P.O. 18 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL 31 DE DICIEMBRE DE 2014.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 8 de noviembre de 2014.
 
@@ -2495,7 +2495,13 @@ XXXI. Sujetarse a la rotación de personal;
 
 XXXII. Rendir su declaración de situación patrimonial ante la Secretaría de Administración del Gobierno del Estado; y
 
-XXXIII. Los demás que establezcan las disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+XXXIII. Abstenerse de impedir bajo amenaza, coacción o intimidación la video-grabación o fotografía que realicen los espectadores de sus actividades realizadas como servidores públicos en espacios públicos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+XXXIV. Las demás que establezcan las disposiciones legales aplicables.
 
 Siempre que todo integrante de las instituciones policiales tenga la necesidad de hacer uso de la fuerza pública, deberá hacerlo de manera racional, congruente, oportuna y con respeto a los derechos humanos. Para tal efecto, deberá apegarse a las disposiciones normativas y administrativas aplicables, realizándolas conforme a derecho.
 
@@ -3752,3 +3758,9 @@ P.O. 18 DE JUNIO DE 2016.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 10 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 137 SE REFORMA LA FRACCIÓN XXXIII Y SE ADICIONA UNA FRACCIÓN XXXIV, AL ARTÍCULO 152 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA; ASÍ MISMO, SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 269 DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA, PUBLICADO EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA" DE FECHA 11 DE OCTUBRE DE 2014".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
