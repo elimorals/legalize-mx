@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2016-06-24"
+last_updated: "2016-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -485,11 +485,11 @@ El Presidente y Vicepresidente durarán en sus cargos, un mes pudiendo ser reele
 
 > <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
 
-El Vicepresidente suplirá las ausencias del Presidente a la sesión o cuando, éste debiere abandonar el Recinto; si en esta última hipótesis no se encontrare presente el Vicepresidente, la Asamblea, exigiendo quórum verificado por un Secretario, nombrará un Presidente para dicha sesión.
+El Vicepresidente suplirá las ausencias del Presidente a la sesión o cuando, este debiere abandonar el Recinto; si en esta última hipótesis no se encontrare presente el Vicepresidente, la Asamblea, exigiendo quórum verificado por un Secretario, nombrará un Presidente para dicha sesión.
 
 > <small>(ADICIONADO, P.O. 21 DE JULIO DE 2007)</small>
 
-En caso de ausencia del Presidente o cuando este debiera abandonar el Recinto, el Vicepresidente estará facultado a firmar las resoluciones que expida el Congreso y la correspondencia que tenga el carácter de urgente y así lo requiera.
+En caso de ausencia del Presidente o cuando éste debiera abandonar el Recinto, el Vicepresidente estará facultado a firmar las resoluciones que expida el Congreso y la correspondencia que tenga el carácter de urgente y así lo requiera.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -799,9 +799,9 @@ XV.- Niñez, Juventud, Adultos Mayores y Discapacidad;
 
 XVI.- Comunicaciones, Transportes y Movilidad;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-XVII.- Equidad de Género;
+XVII.- Igualdad de Género;
 
 XVIII.- Desarrollo Municipal y Zonas Metropolitanas;
 
@@ -1479,7 +1479,7 @@ P.O. 27 DE JULIO DE 2013.
 
 DECRETO No. 132, POR EL QUE SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFOS AL ARTÍCULO 66 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO.
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial " (sic ) El Estado de Colima.
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial " (sic) El Estado de Colima.
 
 P.O. 12 DE OCTUBRE DE 2013.
 
@@ -1522,3 +1522,9 @@ P.O. 24 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 114 SE REFORMAN LOS ARTÍCULOS 47, EN SU PÁRRAFO CUARTO, 48, 64, EN SU PÁRRAFO PRIMERO Y TERCERO, Y 66, EN SU PRIMER PÁRRAFO, TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA; ASÍ MISMO SE REFORMAN LOS ARTÍCULOS 39, EN SUS PÁRRAFOS PRIMERO, SEGUNDO Y CUARTO, 40, PÁRRAFO TERCERO, 94, 96 Y 100 Y SE DEROGA EL ARTÍCULO 97 TODOS DEL REGLAMENTO DE LA LEY YA MENCIONADA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al momento de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 10 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 152 POR EL QUE SE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 56, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
