@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2016-06-11"
+last_updated: "2016-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2016.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -275,7 +275,7 @@ II.- La violación de un derecho o el desconocimiento de una obligación, o la n
 
 III.- La capacidad para ejercitar la acción por sí o por legítimo representante;
 
-IV.- El interés en el (sic) actor para deducirla.
+IV.- El interés en el actor para deducirla.
 
 Falta el requisito del interés siempre que no pueda alcanzarse el objeto de una acción, aun suponiendo favorable la sentencia.
 
@@ -337,9 +337,9 @@ ART. 22.- El tercero obligado a la evicción deberá ser citado a juicio oportun
 
 ART. 23.- El tercero que, aduciendo derecho propio, intente excluir los derechos del actor y demandado o los del primero solamente, tiene la facultad de concurrir al pleito, aun cuando ya esté dictada sentencia ejecutoria.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-ART. 24.- Las acciones de estado civil tienen por objeto las cuestiones relativas al nacimiento, defunción, matrimonio o nulidad de éste, filiación, reconocimiento, emancipación, tutela, adopción, divorcio y ausencia, o atacar el contenido de las constancias expedidas firmadas en forma autógrafa o con la firma electrónica certificada del Director o persona autorizada del Registro Civil para que se anulen o rectifiquen. Las decisiones judiciales recaídas en el ejercicio de acciones del estado civil perjudican aún a los que no litigaron.
+ART. 24.- Las acciones de estado civil tienen por objeto las cuestiones relativas al nacimiento, defunción, matrimonios o nulidad de éstos, filiación, reconocimiento, tutela, adopción, divorcio y ausencia, o atacar el contenido de las constancias expedidas firmadas en forma autógrafa o con la firma electrónica certificada del Director o persona autorizada del Registro Civil para que se anulen o rectifiquen. Las decisiones judiciales recaídas en el ejercicio de acciones del estado civil perjudican aún a los que no litigaron.
 
 Las acciones de estado civil fundadas en la posesión de estado producirán el efecto de que se ampare o restituya a quien la disfrute contra cualquier perturbador.
 
@@ -807,7 +807,7 @@ ART. 97.- La presentación de documentos de que habla el artículo anterior, cua
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
 
-ART. 98.- Después de la demanda de (sic) contestación no se admitirán al actor ni al demandado, respectivamente, otros documentos que los que se hallen en alguno de los casos siguientes: 1o.- Ser de fecha posterior a dichos escritos; 2o.- Los anteriores respecto de los cuales, protestando decir verdad, asevere la parte que los presente no haber tenido antes conocimiento de su existencia; 3o.- Los que no haya sido posible adquirir con anterioridad por causas que no sean imputables a la parte interesada y siempre que haya hecho oportunamente la designación expresa en el párrafo segundo del Artículo 96.
+ART. 98.- Después de la demanda de contestación no se admitirán al actor ni al demandado, respectivamente, otros documentos que los que se hallen en alguno de los casos siguientes: 1o.- Ser de fecha posterior a dichos escritos; 2o.- Los anteriores respecto de los cuales, protestando decir verdad, asevere la parte que los presente no haber tenido antes conocimiento de su existencia; 3o.- Los que no haya sido posible adquirir con anterioridad por causas que no sean imputables a la parte interesada y siempre que haya hecho oportunamente la designación expresa en el párrafo segundo del Artículo 96.
 
 Esto se entenderá sin perjuicio de la facultad que tienen los tribunales de investigar la verdad sobre los puntos controvertidos de acuerdo con las reglas generales de prueba.
 
@@ -1051,7 +1051,7 @@ ART. 129 BIS 1.- Los edictos que deban publicarse de manera electrónica deberá
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
-ART. 129 BIS 2.- La página de edictos electrónicos deberá contener y ofrecer a los usuarios criterios de búsqueda sencillos y accesibles, que faciliten su localización y consulta. Para ello, la Dirección de Informática deberá establecer, por lo menos, los campos de búsqueda siguientes: por tipo de edicto, por número de expediente, por juzgado, por rango de fecha, por nombre de las partes o de los interesados, por municipio en (sic) tratándose de bienes e, histórico.
+ART. 129 BIS 2.- La página de edictos electrónicos deberá contener y ofrecer a los usuarios criterios de búsqueda sencillos y accesibles, que faciliten su localización y consulta. Para ello, la Dirección de Informática deberá establecer, por lo menos, los campos de búsqueda siguientes: por tipo de edicto, por número de expediente, por juzgado, por rango de fecha, por nombre de las partes o de los interesados, por municipio en tratándose de bienes e, histórico.
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
@@ -1075,7 +1075,7 @@ ART. 133.- Siempre que la práctica de un acto judicial requiera citación de pe
 
 ART. 134.- Todos los términos contemplados en el presente ordenamiento se consideran individuales para las partes.
 
-ART. 135.- Para fijar la duración de los términos, los meses se regularán por el número de días que les correspondan, y los días se entenderán de veinticuatro horas naturales contadas de las veinticuatro a las veinticuatro (sic).
+ART. 135.- Para fijar la duración de los términos, los meses se regularán por el número de días que les correspondan, y los días se entenderán de veinticuatro horas naturales contadas de las veinticuatro a las veinticuatro.
 
 ART. 136.- Cuando este Código no señale los términos para la práctica de algún acto judicial, o para el ejercicio de algún derecho, se tendrán por señalados los siguientes:
 
@@ -1241,9 +1241,9 @@ VIII.- En los actos de jurisdicción voluntaria, el del domicilio del que promue
 
 IX.- En los negocios relativos a la tutela de los menores e incapacitados, el juez de la residencia de éstos, para la designación del tutor, y en los demás casos el del domicilio de este;
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-X.- En los negocios relativos a suplir el consentimiento de quien ejerce la patria potestad, o impedimentos para contraer matrimonio, el del lugar donde se hayan presentado los pretendientes;
+X.- En los negocios relativos a los impedimentos para contraer matrimonio, el del lugar donde se hayan presentado los pretendientes;
 
 XI.- Para decidir las diferencias conyugales y los juicios de nulidad del matrimonio, lo es el del domicilio conyugal;
 
@@ -3219,7 +3219,7 @@ Se exceptúa de lo anterior, el divorcio por mutuo consentimiento, en el cual, l
 
 > <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
 
-ART. 428 BIS 12.- Salvo lo dispuesto en este Título, las promociones de las partes deberán formularse oralmente durante las audiencias, en la cual (sic) el juez proveerá, en el momento y oralmente, toda cuestión que le sea planteada durante el desarrollo de las audiencias.
+ART. 428 BIS 12.- Salvo lo dispuesto en este Título, las promociones de las partes deberán formularse oralmente durante las audiencias, en la cual el juez proveerá, en el momento y oralmente, toda cuestión que le sea planteada durante el desarrollo de las audiencias.
 
 > <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
 
@@ -3317,7 +3317,7 @@ VI.- Formulación de alegatos;
 
 ART. 428 BIS 27.- La audiencia de trámite se llevará a cabo con o sin la asistencia de las partes en los casos de la fracción III del artículo 428 BIS.
 
-A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción hasta por cuarenta salarios mínimos vigente (sic) en la entidad en la fecha de la audiencia.
+A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción hasta por cuarenta salarios mínimos vigente en la entidad en la fecha de la audiencia.
 
 > <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
 
@@ -3457,7 +3457,7 @@ VI.- La citación para audiencia de juicio.
 
 ART. 428 BIS 45.- La audiencia preliminar se llevará a cabo con o sin la asistencia de las partes.
 
-A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción hasta por cuarenta salarios mínimos vigente (sic) en la entidad en la fecha de la audiencia.
+A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción hasta por cuarenta salarios mínimos vigente en la entidad en la fecha de la audiencia.
 
 > <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
 
@@ -3999,7 +3999,7 @@ ART. 474.- Anotada la demanda en el Registro Público de la Propiedad, no podrá
 
 ART. 475.- Desde el día del emplazamiento, contra el deudor la obligación de depositario judicial respecto de la finca hipotecada, de sus frutos y de todos los objetos que con arreglo al contrato y conforme al Código Civil, deban considerarse como inmovilizados y formando parte de la misma finca, de los cuales se formará inventario para agregarlo a los autos, siempre que lo pida el acreedor.
 
-Para efecto del inventario, el deudor queda obligado a dar todas las facilidades para su formación y en caso de desobediencia, el juez lo compelará (sic) por los medios de apremio que le autoriza la ley.
+Para efecto del inventario, el deudor queda obligado a dar todas las facilidades para su formación y en caso de desobediencia, el juez lo compelará por los medios de apremio que le autoriza la ley.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
 
@@ -6395,27 +6395,23 @@ ART. 937.- Se tramitará en la forma de incidente que habrá de seguirse con el 
 
 I.- La habilitación para comparecer en juicio que solicite el menor de más de 16 años cuando compruebe que los padres o ascendientes que ejerzan la patria potestad están ausentes, se ignore su paradero o se nieguen a representarlo, sólo se le concederá autorización cuando fuere demandado o se le siguiera perjuicio grave de no promover juicio y comprobare buena conducta y aptitud para el manejo de sus negocios;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2000)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-II.- La solicitud de emancipación o habilitación de edad que hagan los mayores de 16 años sujetos a la patria potestad o tutela, si demostraren buena conducta y aptitud para el manejo de sus intereses. En este caso se oirá también a los padres o tutores;
+II.- La solicitud de habilitación de edad que hagan los mayores de 16 años sujetos a la patria potestad o tutela, si demostraren buena conducta y aptitud para el manejo de sus intereses. En este caso se oirá también a los padres o tutores;
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
-
-III.- La autorización judicial que soliciten los emancipados por razón de matrimonio para enajenar o gravar bienes raíces o para comparecer en juicio. En este último caso, se les nombrará un tutor especial;
+III.- (DEROGADA, P.O. 10 DE SEPTIEMBRE DE 2016)
 
 IV.- (DEROGADA, P.O. 25 DE MARZO DE 2000)
 
 V.- (sic)
 
-> <small>(REFORMADO PRIMER PÁRRAFO P.O. 25 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-ART. 938.- Podrá decretarse la guarda y cuidado de menores o incapacitados que se hallen sujetos a la patria potestad o a la tutela, que fueren maltratados por sus padres o tutores o reciban de éstos ejemplos perniciosos a juicio del juez, o sean obligados por ellos a cometer actos reprobados por las leyes; de huérfanos o incapacitados que queden en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren.
+ART. 938.- Podrá decretarse la guarda y cuidado de menores o incapacitados que se hallen sujetos a la patria potestad o a la tutela, que fueren maltratados por sus padres o tutores o reciban de éstos ejemplos perniciosos a juicio del juez, o sean obligados por ellos a cometer actos reprobados por las leyes; de huérfanos o incapacitados que queden en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren, para tal caso, no son necesarias formalidades de ninguna clase, asentándose solamente en una o más actas las diligencias del día.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-El menor de edad que deseando celebrar un matrimonio necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar al Juez determine sobre su custodia.
-
-En ambos casos no son necesarias formalidades de ninguna clase, asentándose solamente en una o más actas las diligencias del día.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE MARZO DE 2000)</small>
 
@@ -6938,3 +6934,21 @@ P.O. 11 DE JUNIO DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado: "El Estado de Colima".
 
 SEGUNDO.- Se reconoce plena validez legal a los contratos de Enlaces Conyugales celebrados con anterioridad al presente decreto, debiendo los contrayentes celebrar contrato de matrimonio, para lo cual los oficiales del Registro Civil deberán sustituir el acta de Relación Conyugal correspondiente, por una nueva acta de matrimonio en los términos en que se celebró el enlace referido; sin necesidad de presentar nuevamente la documentación requerida para celebrar tales actos jurídicos, ni realizar pago algo (sic) por esta sustitución.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+TERCERO.- Se reconoce la validez de todos los contratos de matrimonio mediante las (sic) cuales se haya celebrado la unión de personas del mismo sexo, hasta antes de la entrada en vigor del presente Decreto. Los oficiales del registro civil deberán canjear dichas actas sin costo alguno para los solicitantes, de conformidad a las reformas contenidas en el Decreto 103 y, gocen sin limitación alguna de los beneficios de ésta.
+
+P.O. 10 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 148 SE ADICIONA UN TRANSITORIO TERCERO AL DECRETO 103, DE ESTA QUINCUAGÉSIMA OCTAVA LEGISLATURA, PUBLICADO EN EL PERIÓDICO OFICIAL “EL ESTADO DE COLIMA” EL 11 DE JUNIO DE 2016, POR EL QUE SE RECONOCE LA VALIDEZ DE TODOS LOS CONTRATOS DE MATRIMONIO MEDIANTE LAS (SIC) CUALES SE HAYA CELEBRADO LA UNIÓN DE PERSONAS DEL MISMO SEXO, HASTA ANTES DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico “El Estado de Colima”.
+
+P.O. 10 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 154 SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DE LOS CÓDIGOS CIVIL Y DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA; Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
