@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-social-y-humano-para-el-estado-de-56062"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-13"
-last_updated: "2014-07-09"
+last_updated: "2016-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56062&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "CHH"
 ---
 # LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE CHIHUAHUA
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 859/2012, PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL.</small>
-
 LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 13 de junio de 2007.
 
@@ -98,6 +96,8 @@ XI. Padrón General: Relación oficial a cargo de la Secretaría, integrada por 
 XII. Política Estatal: Las políticas públicas en materia de desarrollo social y humano.
 
 XIII. Programa: Programa Estatal de Desarrollo Social y Humano.
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 859/2012, PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL.</small>
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
@@ -443,7 +443,9 @@ La publicidad e información relativa a los programas deberá incluir la siguien
 
 Se consideran zonas de atención prioritaria las áreas o regiones de carácter rural, urbano y semiurbano, cuya población registre índices de pobreza o marginación, con grandes disparidades en los indicadores de equidad de género, graves asimetrías o con rezagos en el ejercicio y disfrute de los derechos sociales establecidos en esta ley.
 
-Su definición estará a cargo de un órgano de evaluación, mediante estudios específicos por sí o por entidad que bajo sus facultades contrate, siempre con la orientación de los principios establecidos en el presente ordenamiento, buscando la eficiencia, eficacia y la equidad en la aplicación de los programas y proyectos de la política social.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+Su definición estará a cargo del órgano de evaluación a que se refiere el artículo 65 de esta Ley, mediante estudios específicos por sí o por entidad que bajo sus facultades contrate, siempre con la orientación de los principios establecidos en el presente ordenamiento, buscando la eficiencia, eficacia y la equidad en la aplicación de los programas y proyectos de la política social.
 
 ###### Artículo 34.
 
@@ -679,9 +681,11 @@ En lo no previsto por el presente ordenamiento para el funcionamiento del Consej
 
 ### CAPÍTULO V. DEL ÓRGANO PARA LA INFORMACIÓN E INVESTIGACIÓN DEL DESARROLLO SOCIAL Y HUMANO
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 55.
 
-El Órgano para la Información e Investigación tiene por objeto generar los indicadores de desarrollo social y humano, los parámetros de efectividad de los programas estatales en la materia y los estudios necesarios para tener las bases e instrumentos para planear, ejecutar y evaluar la Política Estatal.
+El órgano para la información e investigación, que formará parte del órgano desconcentrado a que se refiere el artículo 65 de esta Ley, tiene por objeto generar los indicadores de desarrollo social y humano, los parámetros de efectividad de los programas estatales en la materia y los estudios necesarios para tener las bases e instrumentos para planear, ejecutar y evaluar la Política Estatal.
 
 ###### Artículo 56.
 
@@ -759,9 +763,21 @@ La reserva y confidencialidad de los datos personales, los sensibles o informaci
 
 ### CAPÍTULO VI. DE LA EVALUACIÓN DE LA POLITICA DE DESARROLLO SOCIAL Y HUMANO
 
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 859/2012, PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL.</small>
+
+> <small>(REFORMADO PÁRRAFO PRIMERO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 65.
 
-La evaluación de la Política Estatal estará a cargo de un órgano, que podrá realizarla por sí o a través de organismos independientes.
+Para garantizar el cumplimiento de los principios, objetivos e instrumentos establecidos en la presente Ley, la Secretaría de Desarrollo Social creará un órgano desconcentrado, con autonomía técnica y de gestión, que se encargará de la evaluación de la Política Estatal en materia de desarrollo social y humano, que podrá realizarla por sí o a través de organismos independientes.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+En su integración deberá preverse la incorporación de un máximo de seis investigadores académicos con vasta experiencia en la materia y que colaboren en instituciones de educación superior y de investigación, seleccionados por la Comisión Estatal mediante convocatoria pública, cuya responsabilidad recaerá en el Secretario Técnico de esta.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+En su encargo durarán cuatro años y podrán ser reelectos la mitad de ellos.
 
 ###### Artículo 66.
 
@@ -1148,3 +1164,19 @@ P.O. 9 DE JULIO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 1397/2016 XIV P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular del Poder Ejecutivo del Estado deberá expedir el Acuerdo que rija la estructura y atribuciones del órgano desconcentrado de la Secretaría de Desarrollo Social encargado de la Evaluación de la Política Estatal, dentro de los ciento veinte días posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La convocatoria pública para la selección de los investigadores que habrán de incorporarse al órgano desconcentrado, será emitida al concluir el plazo contemplado en al artículo anterior.
