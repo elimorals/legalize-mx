@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107615"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-18"
-last_updated: "2015-08-15"
+last_updated: "2016-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 18 de abril de 2015.
 
@@ -634,6 +634,12 @@ Las niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sa
 ###### Artículo 47.
 
 Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo. Las autoridades del Estado, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la adopción de las medidas correspondientes.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 47 Bis.
+
+La edad mínima para contraer una relación conyugal, será a los 18 años de edad cumplidos, en ningún caso podrá dispensarse lo dispuesto en este artículo.
 
 ### CAPÍTULO IX. DERECHO DE ACCESO A UNA VIDA LIBRE DE VIOLENCIA Y A LA INTEGRIDAD PERSONAL
 
@@ -1599,7 +1605,9 @@ VII. El Titular de la Comisión de Derechos Humanos del Estado de Colima; y
 
 VIII. Representantes de la sociedad civil que serán nombrados por el Sistema Estatal de Protección, en los términos del Reglamento de esta Ley.
 
-Para los efectos de lo previsto en la fracción VI, el Reglamento deberá prever los términos para la emisión de una convocatoria pública, que contendrá las etapas completas para el procedimiento, sus fechas límites y plazos.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+Para los efectos de lo previsto en la fracción VIII, el Reglamento deberá prever los términos para la emisión de una convocatoria pública, que contendrá las etapas completas para el procedimiento, sus fechas límites y plazos.
 
 Quienes integran el Sistema Estatal de Protección tendrán el derecho de participar con derecho de voz y voto; podrán nombrar a un suplente, quien los represente en las Sesiones del Sistema Estatal de Protección, con la excepción del Presidente, quien será suplido en todo momento por el Secretario General de Gobierno.
 
@@ -1752,3 +1760,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se concede a los concesionarios y permisionarios del servicio de transporte público, el plazo de ciento ochenta días naturales, a partir de la entrada en vigor del presente Decreto, para que, realicen las adecuaciones necesarias a fin de garantizar la observancia de las medidas contenidas en el presente Decreto.
 
 TERCERO.- El Ejecutivo del Estado a través de la Secretaría General de Gobierno y la Dirección General de Transporte y de la Seguridad Vial, deberán tomar las medidas pertinentes a fin de garantizar la observancia de las medidas contenidas en el presente Decreto.
+
+P.O. 10 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 154 SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DE LOS CÓDIGOS CIVIL Y DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA; Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
