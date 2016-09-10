@@ -4,7 +4,7 @@ identifier: "COL-ley-de-estimulo-y-fomento-al-deporte-y-la-cultura-fisica-11641"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-19"
-last_updated: "2014-02-01"
+last_updated: "2016-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ESTIMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 19 de abril de 1997.
 
@@ -153,6 +153,10 @@ g).- CONSEJO: Al Consejo Estatal del Deporte.
 
 h).- PROGRAMA: Al Programa Estatal del Deporte.
 
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+i).- DEPORTISTA DE ALTO RENDIMIENTO: La persona que practica un deporte con altas exigencias técnicas y científicas, de preparación y entrenamiento, que le permiten participar en selecciones nacionales que representan al país en competiciones y pruebas oficiales de carácter internacional.
+
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2014)</small>
 
 ARTICULO 2o BIS.- Las autoridades competentes del Estado y de los Municipios, se coordinarán entre sí o con instituciones del sector social y privado, así como con las autoridades competentes de la Federación, para:
@@ -208,6 +212,16 @@ Los titulares de las dependencias de la Administración Pública Estatal, tendr�
 Para cumplir con esta responsabilidad podrán celebrar acuerdos de colaboración con el INCODE.
 
 Asimismo, impulsarán la adopción de disposiciones y acuerdos tendientes a facilitar las condiciones de empleo compatibles con la activación física su entrenamiento y participación en competiciones oficiales.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+ARTICULO 2o BIS 4.- La función social del deporte y la educación física es la de fortalecer la interacción e integración de la sociedad, para desarrollar de manera armónica las aptitudes físicas e intelectuales de las personas que contribuyan a fomentar la solidaridad como valor social; además de promover y estimular la actividad y recreación física como medios importantes para la preservación de la salud y la prevención de enfermedades.
+
+Los tres Poderes del Estado, los titulares de las dependencias de la Administración Pública Estatal, los organismos públicos autónomos y los Ayuntamientos, fomentarán la práctica de actividades físicas o deportivas entre sus trabajadores. Para tal efecto, se promoverán, de acuerdo a las características de cada área y oficina, programas de activación física en los que se dediquen hasta 15 minutos de la jornada laboral para estas actividades.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+ARTICULO 2o BIS 5.- La función educativa del deporte debe implicar, además de la enseñanza de técnicas y el desarrollo de las cualidades físicas de los alumnos, la transmisión de hábitos, valores y actitudes encaminados a la preservación de la salud y la prevención de enfermedades.
 
 ### CAPITULO II. DEL SISTEMA ESTATAL DEL DEPORTE Y LA CULTURA FISICA
 
@@ -813,6 +827,14 @@ h).- Uso de las instalaciones deportivas que sean propiedad estatal o de los mun
 
 Los apoyos se otorgarán con base en los lineamientos que al respecto establezca el titular del Ejecutivo Estatal.
 
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+ARTICULO 35 BIS.- Como estímulo y reconocimiento a su labor, el INCODE otorgará a los deportistas de alto rendimiento que se encuentren inscritos en el Registro Estatal de Cultura Física y Deporte, una beca económica mensual, mientras no pierda su carácter de seleccionado nacional.
+
+El Ejecutivo Estatal, a través del INCODE, determinará la cantidad y el monto de las becas, con base en una valoración de las necesidades de la población deportista de alto rendimiento en el Estado, en lo relativo a entrenamientos y competiciones.
+
+Los recursos económicos destinados a conformar las becas que regula el presente artículo, serán contemplados de forma anual en el proyecto de Presupuesto de Egresos que el Ejecutivo Estatal dirija al Poder Legislativo.
+
 ###### ARTICULO 36.
 
 Se declara de interés social la construcción, conservación y mantenimiento de las instalaciones deportivas, que requiera el desarrollo del deporte.
@@ -968,3 +990,11 @@ P.O. 20 DE OCTUBRE DE 2012.
 P.O. 1 DE FEBRERO DE 2014.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 10 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 155 SE ADICIONA UN INCISO I) AL ARTÍCULO 2°; LOS ARTÍCULOS 2° BIS 4, 2° BIS 5; Y 35 BIS; TODOS DE LA LEY DE ESTÍMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA.”]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Queda derogada cualquier disposición que contravenga el presente decreto.
