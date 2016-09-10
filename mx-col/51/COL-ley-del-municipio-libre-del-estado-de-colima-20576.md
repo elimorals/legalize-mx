@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2016-01-16"
+last_updated: "2016-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2015.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 16 DE ENERO DE 2016 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 24 PUBLICADO EN EL P.O. DE 12 DE DICIEMBRE DE 2015.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -731,8 +729,6 @@ c) Autorizar y remitir anualmente al Congreso, para su aprobación, a más tarda
 
 d) Aprobar el dictamen de revisión de la cuenta pública municipal del ejercicio fiscal que presenten conjuntamente la comisión de hacienda y síndico municipal, con base en el proyecto que presente la tesorería municipal, así como del informe de revisión que entregue la contraloría municipal, y remitirla al Congreso a más tardar el último día de febrero del ejercicio siguiente, para los efectos señalados en el artículo 33 fracción XI de la Constitución.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 18 DE JUNIO DE 2011)</small>
-
 La aprobación del dictamen de revisión por el Cabildo no impide que se finquen responsabilidades a los servidores públicos que hayan incurrido en ellas, si del resultado de la revisión se determinan faltas administrativas ello en los términos que establece la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
 Si de las faltas administrativas se desprendieran hechos constitutivos de delitos contra el Estado y la administración pública municipal, el cabildo, el síndico, la comisión de hacienda municipal o la contraloría municipal deberán denunciarlos ante la autoridad competente.
@@ -781,9 +777,17 @@ i) Auxiliar en sus funciones a las autoridades federales y estatales cuando así
 
 j) Colaborar en el embellecimiento de los centros de población, monumentos arqueológicos y lugares de atracción turística;
 
-k) Colaborar con las personas físicas y morales en el funcionamiento de asilos, casas de cuna y guarderías infantiles, entre otras; y
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-l) Fomentar la vida cultural y la identidad de la comunidad.
+k) Colaborar con las personas físicas y morales en el funcionamiento de asilos, casas de cuna y guarderías infantiles, entre otras;
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+l) Fomentar la vida cultural y la identidad de la comunidad; e
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+m) Impulsar programas de activación física entre la población del municipio y dentro de la administración pública municipal en donde se dediquen hasta 15 minutos de la jornada laboral para estas actividades, con el objeto de promover y estimular la actividad y recreación física como medios importantes para la preservación de la salud y la prevención de enfermedades.
 
 VI. Constituir el consejo local de tutelas, en la primera sesión del mes de enero de cada año, que estará integrado por un presidente y dos vocales. Los nombramientos recaerán en personas que sean de notorias buenas costumbres y tengan interés en proteger a la infancia desvalida.
 
@@ -2176,3 +2180,11 @@ P.O. 12 DE DICIEMBRE DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de (sic) publicación en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- Los Ayuntamientos tendrán 90 días para adecuar sus reglamentos, con base a lo aprobado en el presente decreto.
+
+P.O. 10 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 155 SE ADICIONA UN INCISO I) AL ARTÍCULO 2°; LOS ARTÍCULOS 2° BIS 4, 2° BIS 5; Y 35 BIS; TODOS DE LA LEY DE ESTÍMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Queda derogada cualquier disposición que contravenga el presente decreto.
