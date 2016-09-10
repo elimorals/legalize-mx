@@ -4,7 +4,7 @@ identifier: "COL-ley-de-asentamientos-humanos-del-estado-de-colima-11633"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-07"
-last_updated: "2014-03-15"
+last_updated: "2016-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 7 de mayo de 1994.
 
@@ -3697,6 +3697,10 @@ La superficie mínima que garantiza la sustentabilidad de la actividad agropecua
 
 Toda subdivisión o relotificación de predios rústicos que implique fracciones menores a cinco hectáreas, o que tienda a aplicar nuevos usos, deberá sujetarse a lo dispuesto por el título octavo de esta ley referente al aprovechamiento urbano del suelo.
 
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+Cuando del resultado de la subdivisión de predios rústicos por motivo de apertura de derecho de vía, resulte un remanente menor a cinco hectáreas, éste seguirá siendo predio rústico, para todos los efectos legales.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 357.
@@ -3716,6 +3720,18 @@ III. No requieren el trazo de vías públicas, y
 > <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
 
 IV.- Tratándose de subdivisiones, la superficie del predio original no exceda los diez mil metros, o no se formen más de cinco lotes, en cuyo caso se atenderá a lo dispuesto en el Titulo Octavo de esta Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+Para la autorización de la subdivisión del predio rústico afectado por la apertura de derecho de vía, la dependencia municipal emitirá un dictamen de liberación, debiéndose cumplir los siguientes requisitos:
+
+I. El trazo de la vialidad sea congruente con los instrumentos de planeación vigentes.
+
+II. Se determinen las afectaciones correspondientes y se formalicen mediante convenio.
+
+III. Pago de derechos por concepto de subdivisión.
+
+IV. Certificado de inexistencia de gravamen.
 
 ###### ARTICULO 358.
 
@@ -4448,3 +4464,9 @@ P.O. 19 DE NOVIEMBRE DE 2011.
 P.O. 15 DE MARZO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 10 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 138 SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 356; UN PÁRRAFO SEGUNDO Y LAS FRACCIONES I, II, III Y IV AL ARTÍCULO 357, AMBOS DE LA LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE COLIMA”.]
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
