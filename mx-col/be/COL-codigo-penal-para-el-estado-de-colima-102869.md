@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2016-06-11"
+last_updated: "2016-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2016.
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -1467,7 +1467,9 @@ Es imprescriptible la acción persecutoria en los siguientes casos:
 
 I. Por el delito de homicidio (sic) dolosos en todas sus formas y modalidades tipificados en los artículos 120,121 en relación al 124 Bis, 123 Bis, 124,134 y 135, y violación en todas sus formas y modalidades tipificado por los artículos 144 a 147, de este Código;
 
-II. Por los delitos de peculado, cohecho, enriquecimiento ilegítimo y desaparición forzada de personas; y
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+II. Por los delitos de peculado tipificados por los artículos 237 y 237 BIS, cohecho, enriquecimiento ilegítimo y desaparición forzada de personas; y
 
 III. Cuando el delito cometido atente contra el derecho a recibir alimentos de los menores e incapaces.
 
@@ -2227,6 +2229,12 @@ Al que se apodere ilegalmente de cobre o algún otro metal utilizado en instalac
 
 Cuando la sustracción o apoderamiento de cobre o algún otro metal, se realice conforme a las hipótesis establecidas en el inciso B) en sus fracciones I, II, IV, VII, VIII y IX del artículo 185, la pena prevista en el párrafo anterior aumentará en un tercio más.
 
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+ARTÍCULO 188 BIS. Al que se apodere ilegalmente de implementos agropecuarios, maquinaria y equipo agrícolas, productos o subproductos de las actividades agropecuarias, o algún otro bien material del sector productivo del medio rural, o de la industria rural; se le impondrá de cinco a quince años de prisión, y multa por un importe equivalente de cincuenta a ciento cincuenta unidades de medida y actualización.
+
+Cuando la sustracción o apoderamiento del bien o producto, se realice conforme a las hipótesis establecidas en el inciso B) en sus fracciones I, II, VIII y IX del artículo 185, la pena prevista en el párrafo anterior aumentará en un tercio más.
+
 ###### ARTÍCULO 189.
 
 Al que se le imputare el delito de robo simple y acredite haber tomado la cosa con carácter temporal y no para apropiársela o venderla, se le aplicarán de tres a seis meses de prisión y multa por un importe equivalente de ocho a cincuenta días de salario mínimo, así como la reparación del daño, siempre que no se haya negado a devolverla, si se le requirió para ello.
@@ -2255,39 +2263,135 @@ En todo caso de robo, durante el procedimiento el juez podrá suspender al imput
 
 Comete el delito de abigeato quien se apodere de una o más cabezas de ganado ajeno, sin consentimiento de quien legalmente pueda disponer de estas.
 
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+El abigeato estará consumado desde el momento en que el actor tenga en su poder, posesión o transporte el ganado aun cuando después lo abandone o se desapodere de él.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 193.
 
-Cuando se trate de ganado vacuno, equino, mular o asnal, se sancionará conforme a las siguientes reglas:
+Cuando se cometa el delito de abigeato sobre ganado vacuno, equino, mular o asnal, se sancionará conforme a las siguientes reglas:
 
-I. De una a tres cabezas, con prisión de tres a siete años y de cien a doscientos cincuenta días de salario mínimo de multa;
+I. De una a tres cabezas, con prisión de tres a siete años y multa por un importe equivalente de cien a doscientos cincuenta unidades de medida y actualización;
 
-II. De cuatro a diez cabezas, con prisión de cinco a diez años y de doscientos cincuenta a quinientos días de salario mínimo de multa; y
+II. De cuatro a diez cabezas, con prisión de cinco a diez años y multa por un importe equivalente de doscientos cincuenta a quinientos unidades de medida y actualización; y
 
-III. Más de diez cabezas, con prisión de seis a quince años y de quinientos a mil quinientos días de salario mínimo de multa.
+III. Más de diez cabezas, con prisión de seis a quince años y multa de quinientos a mil quinientos unidades de medida y actualización.
+
+Las penas previstas en el presente artículo se incrementarán en una mitad cuando el delito se cometa sobre ganado vacuno de los considerados como pie de cría, o sementales en producción, se cometa por dos o más personas, o se cometa de noche.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 194.
 
-Cuando se trate de ganado porcino, ovino o caprino, se sancionará conforme a las siguientes reglas:
+Cuando se cometa el delito de abigeato sobre ganado porcino, ovino, caprino o apícola, se sancionará conforme a las siguientes reglas:
 
-I. De una a diez cabezas, con prisión de tres a siete años y de cien a doscientos cincuenta días de salario mínimo de multa; y
+I. Una cabeza, de uno a tres años de prisión y multa de cincuenta a cien unidades de medida y actualización;
 
-II. Más de diez cabezas, con prisión de seis a quince años y de quinientos a mil días de salario mínimo de multa.
+II. De dos a diez cabezas, con prisión de tres a siete años y multa de cien a doscientos cincuenta unidades de medida y actualización;
 
-En el caso de este artículo y el que le antecede, si el delito es cometido por dos o más personas, las penas se incrementarán en una mitad.
+III. Más de diez cabezas, con prisión de seis a quince años y multa de quinientos a mil unidades de medida y actualización; y
+
+IV. En el caso de abigeato sobre ganado apícola, con prisión de dos a cinco años y multa de cincuenta a ciento cincuenta unidades de medida y actualización.
+
+Las penas previstas en este artículo se incrementarán en una mitad si el delito es cometido por dos o más personas, o sea cometido en la noche.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 195.
 
-Se considera como delito de abigeato y se impondrán de cuatro a ocho años de prisión y de quinientos a mil días de salario mínimo de multa a quien realice cualquiera de las siguientes conductas:
+Se considera como delito de abigeato y se impondrán de cuatro a ocho años de prisión y multa de quinientos a mil unidades de medida y actualización a quien realice cualquiera de las siguientes conductas:
 
 I. Cambiar, vender, comprar, comerciar, transportar u ocultar de cualquier forma animales, carne en canal o pieles, a sabiendas de que son producto de abigeato;
 
-II. Alterar, eliminar las marcas de animales vivos o pieles, contramarcar o contraseñar sin derecho para ello;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-III. Marcar o señalar animales ajenos, aunque sea en campo propio; y
+II. Transportar ganado, sus productos o subproductos, sin contar con guía de tránsito, patente o factura para su traslado correspondiente, o en su defecto, con el documento que acredite la legal posesión o propiedad;
 
-IV. Expedir certificados falsos para obtener guías simulando ventas o hacer conducir animales que no sean de su propiedad, sin estar debidamente autorizado para ello o hacer uso de certificados o guías falsificados, para cualquier negociación sobre ganado o pieles.
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-Tratándose de cualquier otro animal de granja o doméstico, distinto a los mencionados en este Capítulo, se estará a lo dispuesto para el robo simple, conforme a lo previsto en el artículo 183 de este Código.
+III. Alterar, eliminar o modificar las marcas de animales o pieles, contramarcar o contraseñar sin derecho para ello; con el propósito de borrar o alterar de cualquier forma, las figuras que sirven para identificar el ganado;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+IV. Marcar, señalar o herrar ganado en campo propio o ajeno, por sí o por interpósita persona, sin el consentimiento de quien por derecho deba otorgarlo;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+V. Expedir certificados falsos para obtener guías simulando ventas o hacer conducir animales que no sean de su propiedad, sin estar debidamente autorizado para ello o hacer uso de certificados o guías falsificados, para cualquier negociación sobre ganado o pieles;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+VI. Tramitar guías de tránsito simulando ventas o hacer conducir animales que no sean de su propiedad, sin estar debidamente autorizado para ello o hacer uso de certificados o guías falsificados, para cualquier negociación sobre ganado o pieles;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+VII. Extraer los dispositivos de identidad y demás medios de identificación del ganado;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+VIII. Poseer, transportar o sacrificar ganado objeto o materia de un delito de abigeato, sin que verifique su legítima procedencia o presente documentación apócrifa;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+IX. Sacrificar, degollar, o destazar clandestinamente el ganado, sin consentimiento de su propietario o de su legal poseedor;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+X. Autorizar en rastro oficial o en cualquier otro lugar de matanza, el sacrificio de ganado robado a sabiendas de esta circunstancia; o sin cerciorarse de su legitima procedencia conforme a las disposiciones en la materia; o
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+XI. Cambiar, vender, comprar ganado o carne en canal o sus despojos, u otros derivados de los animales, sin verificar su legítima procedencia.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+Tratándose de cualquier otro animal de granja, doméstico o traspatio, distinto a los mencionados en este Capítulo, se estará a lo dispuesto para el robo simple, conforme a lo previsto en el artículo 183 de este Código.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+ARTÍCULO 195 BIS. Para los supuestos de abigeato calificado, se estará a lo dispuesto de la siguiente manera:
+
+A) Se impondrán de tres a diez años de prisión y multa de uno a tres veces el valor de lo robado:
+
+I. Cuando el abigeato se cometa en el predio del productor, se entenderá por lugar notoriamente aislado del espacio circundante al que el activo no tenga libre acceso, independientemente de que se encuentren abiertas la (sic) puertas, rotos los cercos o en mal estado los muros;
+
+II. Cuando se efectúe en lugar en que ordinariamente se conserven o ande pastoreando el ganado dentro del predio del ganadero o fuera de él, o transportes de aquéllos;
+
+III. Se realice el abigeato quebrantando la confianza o seguridad derivada de una relación de servicio, trabajo u hospitalidad;
+
+IV. El sujeto activo tenga corrales construidos exprofesamente para el encierro del ganado producto del abigeato, sea en zona urbana o en campo despoblado;
+
+V. El sujeto activo tenga vehículos acondicionados para ocultar la movilización del ganado producto del abigeato; y cuente con vehículos de transporte público o privado; exprofeso para movilizar con discreción y ocultamiento el producto del abigeato; y
+
+VI. El sujeto activo posea bodegas, refrigeradores o un lugar destinado para transformar el producto del abigeato o de sus vestigios identificables.
+
+B) Se impondrán de cinco a quince años de prisión y multa de uno a tres veces el valor de lo robado:
+
+I. Cuando se cometa con violencia.
+
+La violencia física consiste en la utilización de la fuerza material por el sujeto activo sobre el sujeto pasivo; y la violencia moral consiste en la utilización de amagos, amenazas o cualquier tipo de intimidación que el sujeto activo realice sobre el sujeto pasivo, para causarle en su persona o en su ganado, males graves o se realice en desventaja numérica sobre el sujeto pasivo.
+
+Igualmente, se considera violencia la que utiliza el sujeto activo sobre persona o personas distintas del sujeto pasivo o sobre su ganado, con el propósito de consumar el abigeato o la que se realice después de ejecutado éste, para propiciarse la fuga o quedarse con el ganado.
+
+Cuando con motivo de la violencia ejercida en el delito de abigeato se causen lesiones previstas en las fracciones III, IV, V, VI y VII del artículo 126 de este Código se impondrá de diez a veinte años de prisión y multa de doscientos cincuenta a quinientas unidades de medida y actualización; pero cuando sobrevenga la muerte a causa de estas, se impondrán de veinticinco a cincuenta años de prisión y multa de quinientos a mil unidades de medida y actualización; Cuando se cometa aprovechando la falta de vigilancia, y se realice en paraje solitario o lugar desprotegido;
+
+II. Cuando se cometan por una o varias personas armadas, o que utilicen o porten otros objetos peligrosos; aun cuando no hagan uso de ello;
+
+III. Cuando el agente se valga de identificaciones falsas o supuestas órdenes de alguna autoridad;
+
+IV. El abigeato se desarrolle en diferentes entidades federativas;
+
+V. El abigeato se cometa por cuatro o más sujetos; y
+
+VI. El sujeto activo por sí o por interpósita persona movilice el producto del abigeato por brechas y caminos solitarios, con el propósito (sic) evadir los puntos de verificación interna permanentes o transitorios en el Estado.
+
+(NOTA: EL 18 DE JUNIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PENÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 11 DE SEPTIEMBRE DE 2016 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+Si en los actos mencionados participa algún servidor público o empleados públicos que tengan a su cargo funciones de prevención, persecución, sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión en una mitad más, destitución definitiva E INHABILITACIÓN POR CUATRO AÑOS PARA DESEMPEÑAR CUALQUIER EMPLEO, CARGO O COMISIÓN PÚBLICOS.
+
+Los supuestos de este artículo se aplicarán independientemente, de que con motivo de la comisión del abigeato, se cometan otros delitos diversos, los que serán objeto de la acumulación correspondiente.
 
 ###### ARTÍCULO 196.
 
@@ -2579,17 +2683,27 @@ Las sanciones serán de uno a cinco años de prisión y multa por un importe equ
 
 Se aplicarán de dos a ocho años de prisión y multa de quinientos a mil días de salario mínimo a quien revele, divulgue o comunique información o imágenes obtenidas en comunicaciones privadas, sin el consentimiento de quien legalmente pueda otorgarlo o sin la autorización de la autoridad competente, en los supuestos previstos en el Código Nacional de Procedimientos Penales para la aportación de dicha información.
 
-### CAPÍTULO II. EJERCICIO INDEBIDO DE FUNCIONES
+### CAPÍTULO I BIS. DESVIO DE CUOTAS O APORTACIONES
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+ARTÍCULO 233 BIS. Al servidor público que descuente o retenga cuotas, o aportaciones a los empleados de una Entidad Pública, y omita destinarlas al fin para el que estaban previstas de conformidad con las leyes y demás disposiciones jurídicas o estatutarias aplicables, o los aplique a fin distinto al establecido por las mismas, se le impondrán de cuatro a ocho años de prisión cuando el valor del detrimento patrimonial sea de hasta un importe equivalente de dos mil unidades de medida y actualización, de seis a doce años de prisión cuando dicho monto exceda de un importe equivalente de dos mil pero no de cuatro mil unidades de medida y actualización, y de ocho a quince años de prisión cuando el mencionado monto o daño patrimonial causado excede de un importe equivalente a cuatro mil unidades de medida y actualización.
+
+Si las leyes y demás disposiciones jurídicas o estatutarias aplicables, no establecieren un término para enterar las cuotas o aportaciones, tal entrega deberá efectuarse en un plazo máximo de dos meses a partir de la fecha en que se hizo el descuento o retención, para no incurrir en la conducta delictiva señalada.
+
+Además, a los responsables de este delito se les impondrá privación para ejercer funciones públicas y una multa por un importe equivalente de trescientas a mil unidades de medida y actualización.
+
+Cuando se configuren los supuestos previstos en los párrafos anteriores, si el servidor público reintegra la totalidad de las cuotas, aportaciones antes de concluir el ejercicio fiscal correspondiente en que tenían que ser aplicados, se le impondrá pena de prisión de uno a cuatro años, inhabilitación para ejercer cargos, empleos o comisiones en el servicio público por un término de tres a seis años, y multa de trescientas a quinientas unidades de medida y actualización.
 
 ## TÍTULO NOVENO. DELITOS CONTRA EL HONOR
 
-### CAPÍTULO III. ABANDONO DE FUNCIONES
+### CAPÍTULO II. EJERCICIO INDEBIDO DE FUNCIONES
 
 ###### ARTÍCULO 222.
 
 Al que impute falsamente a otro un hecho que la ley califique como delito, a sabiendas de que éste no existe o de que el imputado no es responsable del mismo, se le impondrá prisión de dos a cinco años y multa por un importe equivalente de cincuenta a cien días de salario mínimo.
 
-### CAPÍTULO IV. ABUSO DE AUTORIDAD
+### CAPÍTULO III. ABANDONO DE FUNCIONES
 
 ###### ARTÍCULO 223.
 
@@ -2611,17 +2725,17 @@ Los documentos físicos o electrónicos u objetos que hubieren servido de medio 
 
 ## TÍTULO ÚNICO. DELITOS CONTRA LA FAMILIA
 
-### CAPÍTULO V. PECULADO
+### CAPÍTULO IV. ABUSO DE AUTORIDAD
 
 ## TÍTULO PRIMERO. EJERCICIO INDEBIDO DE SERVICIO PÚBLICO
 
-### CAPÍTULO VI. COHECHO
+### CAPÍTULO V. PECULADO
 
 #### SECCIÓN SEGUNDA. DELITOS CONTRA LA FAMILIA
 
 ## TÍTULO SEGUNDO. DELITOS DE PELIGRO CONTRA LA SEGURIDAD PÚBLICA
 
-### CAPÍTULO VII. ENRIQUECIMIENTO ILÍCITO
+### CAPÍTULO VI. COHECHO
 
 ###### ARTÍCULO 225.
 
@@ -2647,7 +2761,7 @@ En todos los casos previstos en los dos artículos precedentes, el ministerio p�
 
 El delito de violencia intrafamiliar y su equiparado se investigarán y perseguirán de oficio.
 
-### CAPÍTULO VIII. DELITOS COMETIDOS EN LA PROCURACIÓN E IMPARTICIÓN DE JUSTICIA
+### CAPÍTULO VII. ENRIQUECIMIENTO ILÍCITO
 
 ###### ARTÍCULO 228.
 
@@ -2657,7 +2771,7 @@ Se aplicará igual sanción y pena a quien registre un nacimiento inexistente.
 
 A quien sustituya un niño por otro, con el propósito y finalidades señaladas en el primer párrafo del presente artículo, se le impondrá una pena de tres a seis años de prisión y multa por un importe equivalente de doscientos a quinientos días de salario mínimo.
 
-### CAPÍTULO IX. DELITO DE FALSEDAD DE LOS SERVIDORES PÚBLICOS
+### CAPÍTULO VIII. DELITOS COMETIDOS EN LA PROCURACIÓN E IMPARTICIÓN DE JUSTICIA
 
 ###### ARTÍCULO 229.
 
@@ -2677,7 +2791,7 @@ Para los efectos del párrafo anterior se presume que el deudor alimentista elud
 
 Toda persona obligada por la autoridad judicial competente a proporcionar informes sobre la capacidad económica o ingresos de los deudores alimentarios, que incumplan con la orden judicial de hacerlo, lo realicen falsamente u omitan realizar el descuento correspondiente por más de dos ocasiones consecutivas, se les impondrá de uno a tres años de prisión, y multa por un importe equivalente de trescientos a seiscientos días de salario mínimo.
 
-### CAPÍTULO X. DELITOS CONTRA SUJETOS PROTEGIDOS
+### CAPÍTULO IX. DELITO DE FALSEDAD DE LOS SERVIDORES PÚBLICOS
 
 ###### ARTÍCULO 232.
 
@@ -2693,7 +2807,7 @@ Cuando en los términos de los párrafos anteriores la copula se realice a una p
 
 ## TÍTULO TERCERO. DELITOS CONTRA LA SEGURIDAD DE LOS MEDIOS DE TRANSPORTE Y VÍAS DE COMUNICACIÓN
 
-### CAPÍTULO I. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+### CAPÍTULO X. DELITOS CONTRA SUJETOS PROTEGIDOS
 
 ###### ARTÍCULO 233.
 
@@ -2701,9 +2815,11 @@ Para los efectos de este Título son servidores públicos los que desempeñen pu
 
 Se reputarán también como servidores públicos a quienes administren recursos económicos estatales o municipales, propios o por destino independientemente de la forma jurídica de aplicación de dichos fondos.
 
-### CAPÍTULO II. ASOCIACIÓN DELICTUOSA
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-### CAPÍTULO III. PANDILLERISMO
+### CAPÍTULO I. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+
+### CAPÍTULO II. ASOCIACIÓN DELICTUOSA
 
 ###### ARTÍCULO 234.
 
@@ -2729,7 +2845,7 @@ Al servidor público que incurra en lo dispuesto por las fracciones V y VI del p
 
 Cuando en el ocultamiento o ante la negativa de proporcionar información o documentos mediara solicitud o requerimiento de autoridad judicial o administrativa dentro de juicio o procedimiento llevado en forma de juicio, las sanciones impuestas en el párrafo anterior se aumentaran en un tercio.
 
-### CAPÍTULO IV. PORTACIÓN PROHIBIDA DE ARMAS BLANCAS
+### CAPÍTULO III. PANDILLERISMO
 
 ###### ARTÍCULO 235.
 
@@ -2737,7 +2853,7 @@ Comete el delito de abandono de funciones el servidor público que sin habérsel
 
 Al autor de este delito se le impondrá la pena de tres meses a un año de prisión, o multa por un importe equivalente de cien a trescientos días de salario mínimo e inhabilitación de un mes a dos años para ejercer funciones públicas.
 
-### CAPÍTULO I. DELITOS CON MOTIVO DEL TRÁNSITO DE VEHÍCULOS
+### CAPÍTULO IV. PORTACIÓN PROHIBIDA DE ARMAS BLANCAS
 
 ###### ARTÍCULO 236.
 
@@ -2745,7 +2861,7 @@ A los servidores públicos que frente a los particulares y en razón de sus func
 
 Este delito se aplicará únicamente para los casos en que conforme a la Ley no proceda el empleo de correcciones, medidas o sanciones administrativas.
 
-### CAPÍTULO II. DELITOS CONTRA LAS VÍAS DE COMUNICACIÓN
+### CAPÍTULO I. DELITOS CON MOTIVO DEL TRÁNSITO DE VEHÍCULOS
 
 ###### ARTÍCULO 237.
 
@@ -2753,7 +2869,15 @@ Al servidor público que en provecho propio o ajeno, disponga ilícitamente de d
 
 Además, a los responsables de este delito se les impondrá privación para ejercer funciones públicas y una multa por un importe equivalente de trescientos a mil doscientos días de salario mínimo.
 
-### CAPÍTULO III. VIOLACIÓN DE CORRESPONDENCIA
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+ARTÍCULO 237 BIS. Al servidor público que reciba o administre recursos públicos y omita destinarlos al fin para el que estaban previstos de conformidad con las leyes y demás disposiciones jurídicas o estatutarias aplicables, o los aplique a fin distinto al establecido por las mismas, se le impondrán de cuatro a ocho años de prisión cuando el valor del detrimento patrimonial sea de hasta un importe equivalente de dos mil unidades de medida y actualización, de seis a doce años de prisión cuando dicho monto exceda de un importe equivalente de dos mil pero no de cuatro mil unidades de medida y actualización, y de ocho a quince años de prisión cuando el mencionado monto o daño patrimonial causado excede de un importe equivalente a cuatro mil unidades de medida y actualización.
+
+Además, a los responsables de este delito se les impondrá privación para ejercer funciones públicas y una multa por un importe equivalente de trescientas a mil unidades de medida y actualización.
+
+Cuando se configuren los supuestos previstos en los párrafos anteriores, si el servidor público reintegra la totalidad de los recursos públicos antes de concluir el ejercicio fiscal correspondiente en que tenían que ser aplicados, se le impondrá pena de prisión de uno a cuatro años, inhabilitación para ejercer cargos, empleos o comisiones en el servicio público por un término de tres a seis años, y multa de trescientas a quinientas unidades de medida y actualización.
+
+### CAPÍTULO II. DELITOS CONTRA LAS VÍAS DE COMUNICACIÓN
 
 ###### ARTÍCULO 238.
 
@@ -2765,7 +2889,7 @@ II. Al que de manera espontánea dé u ofrezca dinero o cualquier otra dádiva, 
 
 Al que cometa el delito de cohecho se le impondrá de uno a nueve años de prisión, y multa por un importe equivalente de doscientos a quinientos días de salario mínimo y en su caso inhabilitación hasta por un término igual al de la pena de prisión impuesta.
 
-### CAPÍTULO I. FALSIFICACIÓN DE SELLOS, LLAVES, MARCAS Y CONTRASEÑAS
+### CAPÍTULO III. VIOLACIÓN DE CORRESPONDENCIA
 
 ###### ARTÍCULO 239.
 
@@ -2779,7 +2903,7 @@ Al autor de este delito se le impondrán de uno a nueve años de prisión, y mul
 
 Sin perjuicio de las sanciones anteriores, al servidor público que incurra en enriquecimiento ilícito, se le impondrá además el decomiso de los instrumentos, objetos o productos del delito.
 
-### CAPÍTULO II. FALSIFICACIÓN Y USO DE DOCUMENTO FALSO
+### CAPÍTULO I. FALSIFICACIÓN DE SELLOS, LLAVES, MARCAS Y CONTRASEÑAS
 
 ###### ARTÍCULO 240.
 
@@ -2829,7 +2953,7 @@ En los demás casos, la pena será de dos a ocho años de prisión y multa por u
 
 En todos los delitos previstos en este capítulo, además de las sanciones señaladas, los responsables serán inhabilitados para desempeñar funciones públicas hasta por el mismo término al de la pena de prisión impuesta.
 
-### CAPÍTULO III. USO INDEBIDO DE CONDECORACIONES O UNIFORMES O USURPACIÓN DE PROFESIÓN
+### CAPÍTULO II. FALSIFICACIÓN Y USO DE DOCUMENTO FALSO
 
 ###### ARTÍCULO 241.
 
@@ -2839,7 +2963,7 @@ Se considerará como delito de falsedad y será sancionado con las mismas penas 
 
 Igual sanción que la prevista en los dos párrafos anteriores será aplicable al fedatario público que incurra en las conductas en ellos previstas, o que expida un documento público o certifique uno privado, o de fe o certifique firmas de cualquier acto jurídico que implique un traslado de dominio sobre un inmueble, sin cerciorarse previamente y hacerle saber fehacientemente a las partes contratantes si tal inmueble está o no libre de gravámenes.
 
-### CAPÍTULO IV. USO INDEBIDO DE LLAMADAS TELEFÓNICAS
+### CAPÍTULO III. USO INDEBIDO DE CONDECORACIONES O UNIFORMES O USURPACIÓN DE PROFESIÓN
 
 ###### ARTÍCULO 242.
 
@@ -2853,6 +2977,8 @@ III. Omita la protección del sujeto protegido, poniendo en riesgo su vida, su i
 
 IV. Revoque la protección del sujeto protegido de manera injustificada o con el ánimo de causarle un perjuicio o traición.
 
+### CAPÍTULO IV. USO INDEBIDO DE LLAMADAS TELEFÓNICAS
+
 ### CAPÍTULO I. DELITOS EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 
 ### CAPÍTULO II. DELITO CONTRA EL RESPETO A LOS MUERTOS
@@ -2863,11 +2989,9 @@ IV. Revoque la protección del sujeto protegido de manera injustificada o con el
 
 ### CAPÍTULO III. SEDICIÓN
 
-### CAPÍTULO IV. MOTÍN
-
 ## TÍTULO CUARTO. DELITOS DE FALSEDAD Y CONTRA LA FE PÚBLICA
 
-### CAPÍTULO I. COALICIÓN DE SERVIDORES PÚBLICOS
+### CAPÍTULO IV. MOTÍN
 
 ###### ARTÍCULO 243.
 
@@ -2877,7 +3001,7 @@ La pena prevista en el primer párrafo será aumentada en una mitad, cuando la c
 
 Para efectos de este artículo se entiende que proceden o representan el producto de una actividad ilícita, los recursos, derechos o bienes de cualquier naturaleza, sobre los que se acredite su ilegítima procedencia, o exista certeza de que provienen directa o indirectamente de la comisión de algún delito o representan las ganancias derivadas de éste.
 
-### CAPÍTULO II. USURPACIÓN DE FUNCIONES
+### CAPÍTULO I. COALICIÓN DE SERVIDORES PÚBLICOS
 
 ###### ARTÍCULO 244.
 
@@ -2885,7 +3009,7 @@ Cuando tres o más personas se organicen de hecho para realizar, en forma perman
 
 Si el sujeto activo miembro de la asociación delictuosa fue o es servidor público que tenga a su cargo funciones de prevención, persecución o sanción del delito, administración de justicia o reinserción social, se le aumentará en una mitad la pena de prisión establecida en el párrafo primero de este artículo, además de la privación para ejercer derechos o funciones públicas.
 
-### CAPÍTULO III. ULTRAJES A LA AUTORIDAD
+### CAPÍTULO II. USURPACIÓN DE FUNCIONES
 
 ###### ARTÍCULO 245.
 
@@ -2895,7 +3019,7 @@ Cuando sea o haya sido miembro de alguna corporación policiaca pública o priva
 
 Se entiende por pandilla para los efectos de esta disposición, a la reunión habitual, ocasional o transitoria, de tres o más personas que, sin estar organizados con fines delictuosos, cometen en común algún delito.
 
-### CAPÍTULO IV. DESOBEDIENCIA A UN MANDATO LEGÍTIMO DE AUTORIDAD
+### CAPÍTULO III. ULTRAJES A LA AUTORIDAD
 
 ###### ARTÍCULO 246.
 
@@ -2915,7 +3039,7 @@ No cometerá este delito, quien para su estricto desempeño de su función labor
 
 ## TÍTULO QUINTO. DELITOS EN MATERIA DE INHUMACIONES, EXHUMACIONES Y CONTRA EL RESPETO A LOS MUERTOS
 
-### CAPÍTULO V. RESISTENCIA DE PARTICULARES
+### CAPÍTULO IV. DESOBEDIENCIA A UN MANDATO LEGÍTIMO DE AUTORIDAD
 
 ###### ARTÍCULO 247.
 
@@ -2931,7 +3055,7 @@ A quién con motivo de tránsito de vehículos y a causa de su conducta impruden
 
 Cuando el monto señalado en el párrafo anterior no exceda de doscientas cincuenta veces el salario mínimo, se impondrá únicamente multa por un importe equivalente de cincuenta a cien días de salario mínimo.
 
-### CAPÍTULO VI. QUEBRANTAMIENTO DE SELLOS
+### CAPÍTULO V. RESISTENCIA DE PARTICULARES
 
 ###### ARTÍCULO 249.
 
@@ -2947,7 +3071,7 @@ Al que dañe o destruya alguna vía terrestre de comunicación estatal o para cu
 
 Al que en ejecución de estos hechos se valga de incendio, explosión o inundación, se le impondrán de cuatro a doce años de prisión y multa por un importe equivalente de trescientos a setecientos días de salario mínimo.
 
-### CAPÍTULO VII. ALTERACIÓN DE LA CADENA DE CUSTODIA
+### CAPÍTULO VI. QUEBRANTAMIENTO DE SELLOS
 
 ###### ARTÍCULO 252.
 
@@ -2963,7 +3087,7 @@ No se impondrá sanción a los que ejerciendo la patria potestad o la tutela, ab
 
 ## TÍTULO PRIMERO. DELITOS CONTRA LA SEGURIDAD DEL ESTADO
 
-### CAPÍTULO VIII. FALSEDAD ANTE AUTORIDADES NO JUDICIALES
+### CAPÍTULO VII. ALTERACIÓN DE LA CADENA DE CUSTODIA
 
 ###### ARTÍCULO 253.
 
@@ -2983,9 +3107,7 @@ V. Al que altere las inscripciones, signos u otros medios de identificación de 
 
 Se impondrán de uno a cuatro años de prisión, y multa por un importe equivalente de cincuenta a doscientos días de salario mínimo, cuando los objetos a que se refieren las conductas delictivas tipificadas en el artículo anterior, sean de uso particular y su autor se proponga obtener un beneficio o causar un perjuicio.
 
-### CAPÍTULO IX
-
-USO INDEBIDO DE INFORMACIÓN SOBRE ACTIVIDADES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA, DE PROCURACIÓN E IMPARTICIÓN DE JUSTICIA ASÍ COMO LAS DEL SISTEMA PENITENCIARIO
+### CAPÍTULO VIII. FALSEDAD ANTE AUTORIDADES NO JUDICIALES
 
 ###### ARTÍCULO 255.
 
@@ -2997,7 +3119,9 @@ La misma sanción se impondrá al que a sabiendas haga uso de un documento, fís
 
 Cuando la alteración o falsificación sea realizada sobre una placa de circulación, engomado, tarjeta de circulación o los demás documentos oficiales que se expidan por la autoridad para identificar cualquier tipo de vehículo se impondrán de cuatro a ocho años de prisión y multa por el equivalente de doscientos cincuenta a quinientos días de salario mínimo.
 
-### CAPÍTULO I. FALSEDAD ANTE LA AUTORIDAD
+### CAPÍTULO IX
+
+USO INDEBIDO DE INFORMACIÓN SOBRE ACTIVIDADES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA, DE PROCURACIÓN E IMPARTICIÓN DE JUSTICIA ASÍ COMO LAS DEL SISTEMA PENITENCIARIO
 
 ###### ARTÍCULO 257.
 
@@ -3009,7 +3133,7 @@ Cuando el uniforme, insignia, distintivo o condecoración se refiera a los cuerp
 
 Al que sin tener título profesional o autorización para ejercer alguna profesión reglamentada, se atribuya el carácter de profesionista o realice actos propios de la profesión, se le impondrán de dos a seis años de prisión y multa hasta por cien días de salarios mínimos.
 
-### CAPÍTULO II. EVASIÓN DE PRESOS
+### CAPÍTULO I. FALSEDAD ANTE LA AUTORIDAD
 
 ###### ARTÍCULO 259.
 
@@ -3019,7 +3143,7 @@ En caso de reincidencia, se impondrá de dos a cuatro años de prisión y multa 
 
 ## TÍTULO SEGUNDO. DELITOS CONTRA LA FUNCIÓN PÚBLICA
 
-### CAPÍTULO III. ENCUBRIMIENTO
+### CAPÍTULO II. EVASIÓN DE PRESOS
 
 ###### ARTÍCULO 260.
 
@@ -3035,7 +3159,7 @@ III. Al que por sí o a través de otro realice u ordene la cremación de un cad
 
 A quien retarde, retenga, niegue la entrega de un cadáver o sustituya partes o restos humanos sin autorización de la autoridad, en perjuicio de los familiares consanguíneos, civiles, afines e inclusive cualquiera que haya vivido en concubinato con el difunto, se le impondrá prisión de seis meses a dos años, y multa por un importe equivalente de ciento cincuenta a trescientos días de salario mínimo.
 
-### CAPÍTULO IV. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
+### CAPÍTULO III. ENCUBRIMIENTO
 
 ###### ARTÍCULO 262.
 
@@ -3049,13 +3173,13 @@ II. Al que profane un cadáver o restos humanos, con actos de vilipendio, mutila
 
 ## TÍTULO TERCERO. DELITOS CONTRA LA IMPARTICIÓN DE JUSTICIA
 
-### CAPÍTULO ÚNICO. DELITOS AMBIENTALES
+### CAPÍTULO IV. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
 
 ###### ARTÍCULO 263.
 
 A quienes resuelvan de común acuerdo cometer uno o varios de los delitos del presente título y acuerden los medios de llevar a cabo su determinación, se les impondrán de uno a nueve años de prisión, y multa por un importe equivalente de cien a doscientos días de salario mínimo y suspensión de derechos políticos hasta por cinco años.
 
-### CAPÍTULO ÚNICO. DELITOS COMETIDOS POR ACTOS DE MALTRATO O CRUELDAD ANIMAL
+### CAPÍTULO ÚNICO. DELITOS AMBIENTALES
 
 ###### ARTÍCULO 264.
 
@@ -3066,6 +3190,8 @@ I. Abolir o reformar la Constitución Política del Estado o sus instituciones;
 II. Impedir la integración de alguno de los poderes del Estado o de algún Ayuntamiento o su libre ejercicio; o
 
 III. Separar o impedir el desempeño de su cargo a algún titular de las instituciones antes señaladas.
+
+### CAPÍTULO ÚNICO. DELITOS COMETIDOS POR ACTOS DE MALTRATO O CRUELDAD ANIMAL
 
 ###### ARTÍCULO 265.
 
@@ -3094,6 +3220,10 @@ II. Al servidor público, que ejerza funciones públicas distintas o que no le h
 ###### ARTÍCULO 269.
 
 A quien ultraje a un servidor público en el acto de ejercer sus funciones o con motivo de estas, se le impondrán de seis meses a dos años de prisión, y multa por un importe equivalente de cincuenta a cien días de salario mínimo.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+No se considera ultraje a la autoridad cuando se trate de una video-grabación o tomas fotográficas realizadas por un espectador, en un espacio público o al que tenga derecho a acceder, y que no impidan el libre ejercicio de sus funciones como servidor público.
 
 ###### ARTÍCULO 270.
 
@@ -3411,6 +3541,18 @@ P.O. 1 DE MARZO DE 2016.
 
 P.O. 11 DE JUNIO DE 2016.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. 104 SE REFORMAN ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA, PUBLICADO EL DÍA 11 DE OCTUBRE DE 2014".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 104 SE REFORMAN ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA, PUBLICADO EL DÍA 11 DE OCTUBRE DE 2014”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 10 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 137 SE REFORMA LA FRACCIÓN XXXIII Y SE ADICIONA UNA FRACCIÓN XXXIV, AL ARTÍCULO 152 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA; ASÍ MISMO, SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 269 DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA, PUBLICADO EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA" DE FECHA 11 DE OCTUBRE DE 2014”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima”.
+
+P.O. 10 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 139 SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 114; EL ARTÍCULO 193; EL ARTÍCULO 194; SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO, ASÍ COMO LAS FRACCIONES II AL (SIC) IV DEL ARTÍCULO 195; SE ADICIONAN UN ARTÍCULO 188 BIS; UN SEGUNDO PÁRRAFO AL ARTÍCULO 192; LAS FRACCIONES V A XI AL ARTÍCULO 195; UN ARTÍCULO 195 BIS; UN CAPÍTULO I BIS DENOMINADO DESVÍO DE CUOTAS O APORTACIONES, INTEGRADO POR EL ARTÍCULO 233 BIS, AL TÍTULO PRIMERO DENOMINADO EJERCICIO INDEBIDO DE SERVICIO PÚBLICO DE LA SECCIÓN TERCERA DENOMINADA DELITOS CONTRA LA SOCIEDAD; UN ARTÍCULO 237 BIS, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
