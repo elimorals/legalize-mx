@@ -4,7 +4,7 @@ identifier: "COL-ley-de-responsabilidad-patrimonial-del-estado-de-colima-25495"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-22"
-last_updated: "2008-10-25"
+last_updated: "2016-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 22 de junio de 2002.
 
@@ -69,7 +69,9 @@ Para la debida interpretación y aplicación de este ordenamiento se entenderá 
 
 I. Estado: El gobierno estatal, los gobiernos municipales, los organismos paraestatales y paramunicipales, así como los tribunales y órganos estatales y municipales administrativos.
 
-II. Unidad: El salario mínimo diario vigente en el Estado de Colima.
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
+II. Unidad: La Unidad de Medida y Actualización vigente.
 
 III. Daño Emergente: El que requiere el reclamante para su sostenimiento personal mientras dure incapacitado.
 
@@ -139,9 +141,11 @@ La indemnización deberá pagarse en moneda nacional de acuerdo a las modalidade
 
 Los reclamantes afectados podrán celebrar convenio con las dependencias y entidades, a fin de dar por concluida la controversia, mediante la fijación y el pago de la indemnización que las partes acuerden.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 13.
 
-Las indemnizaciones se fijarán conforme a las siguientes modalidades, que se establecen de acuerdo al nivel de ingreso de los interesados:
+La indemnización consistirá en el pago íntegro del daño emergente, perjuicio y resarcimiento por daño personal y material.
 
 I. Para quienes demuestren tener ingresos mensuales que sean de cinco o menos unidades y cumplidos los requisitos que prevé esta Ley, corresponderá la reparación integral, consistente en el pago del daño emergente, perjuicio y resarcimiento por daño personal y material.
 
@@ -169,17 +173,21 @@ IV. El pago del salario íntegro o percepción comprobable que deje de percibir 
 
 La cuantificación de la indemnización se calculará de acuerdo a la fecha en que sucedieron los daños o la fecha en que hayan cesado cuando sean de carácter continuo, sin perjuicio de la actualización de los valores al tiempo de su efectivo pago, de conformidad con lo dispuesto por el Código Fiscal del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 17.
 
-A las indemnizaciones deberán sumarse los intereses por demora que establece el Código Fiscal del Estado en materia de devolución morosa de pagos indebidos. El término para el cálculo de los intereses empezará a correr:
+A las indemnizaciones deberán sumarse los intereses por demora que establece el Código Fiscal del Estado en materia de devolución morosa de pagos indebidos. El término para el cálculo de los intereses empezará a correr a partir del día siguiente de la notificación de que quede firme la resolución administrativa o jurisdiccional que ponga fin al procedimiento reclamatorio.
 
 a).- Treinta días después de que quede firme la resolución administrativa o jurisdiccional que ponga fin al procedimiento reclamatorio en forma definitiva, para quienes tengan derecho a la reparación integral; y
 
 b).- Noventa días después de que quede firme la resolución administrativa o jurisdiccional que ponga fin al procedimiento reclamatorio en forma definitiva, para quienes tengan derecho a la reparación por equidad.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 18.
 
-Las indemnizaciones deberán cubrirse en su totalidad de conformidad con los términos y condiciones dispuestos por esta ley y a las que ella remita. En los casos de haberse celebrado contrato de seguro contra la responsabilidad patrimonial, ante la eventual producción de daños y perjuicios que sean consecuencia de la actividad administrativa del Estado, la suma asegurada se destinará a cubrir el monto equivalente a la reparación integral o de equitativa, según el caso. De ser ésta insuficiente, el Estado continuará obligado a resarcir la diferencia respectiva. El pago de cantidades líquidas por concepto de deducible corresponde a las dependencias o entidades y no podrá disminuirse de la indemnización.
+Las indemnizaciones deberán cubrirse en su totalidad de conformidad con los términos y condiciones dispuestos por esta ley y a las que ella remita. En los casos de haberse celebrado contrato de seguro contra la responsabilidad patrimonial, ante la eventual producción de daños y perjuicios que sean consecuencia de la actividad administrativa del Estado, la suma asegurada se destinará a cubrir el monto equivalente a la reparación integral. De ser ésta insuficiente, el Estado continuará obligado a resarcir la diferencia respectiva. El pago de cantidades líquidas por concepto de deducible corresponde a las dependencias o entidades y no podrá disminuirse de la indemnización.
 
 ###### Artículo 19.
 
@@ -203,7 +211,7 @@ En caso de optar por la vía administrativa, la solicitud de reclamación deber�
 
 I.- El nombre, denominación o razón social del promovente y, en su caso, del representante legal, agregándose los documentos que acrediten la personería;
 
-II.- Señalar en su solicitud al o los servidores públicos involucrados en la actividad administrativa que se considere lesiva, solo (sic) en el caso de que pueda identificarlos;
+II.- Señalar en su solicitud al o los servidores públicos involucrados en la actividad administrativa que se considere lesiva, solo en el caso de que pueda identificarlos;
 
 III.- Describir los hechos y razones en los que apoya su petición;
 
@@ -358,5 +366,11 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA, Rúbrica. E
 N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.
 
 P.O. 25 DE OCTUBRE DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 10 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 153 SE REFORMA LA FRACCION II DEL ARTÍCULO 2; LOS PÁRRAFOS PRIMEROS DE LOS ARTÍCULOS 13; 17; Y 18, TODOS DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
