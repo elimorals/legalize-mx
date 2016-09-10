@@ -4,7 +4,7 @@ identifier: "COL-ley-de-adquisiciones-servicios-y-arrendamientos-del-sector-2549
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-15"
-last_updated: "2016-06-04"
+last_updated: "2016-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "COL"
 ---
 # LEY DE ADQUISICIONES, SERVICIOS Y ARRENDAMIENTOS DEL SECTOR PUBLICO EN EL ESTADO DE COLIMA
 
+[NOTA 1: DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO COLIMA, PUBLICADA EN EL P.O. DE 10 DE SEPTIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE OCTUBRE DE 2016 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]
+
 LEY DE ADQUISICIONES, SERVICIOS Y ARRENDAMIENTOS DEL SECTOR PÚBLICO EN EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial "El Estado de Colima", el sábado 15 de junio del 2002.
 
@@ -1016,3 +1020,23 @@ P.O. 4 DE JUNIO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Queda derogada cualquier disposición que contravenga el presente decreto.
+
+P.O. 10 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 150 POR EL QUE SE APRUEBA LA EXPEDICIÓN DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Se abroga la Ley de Adquisiciones, Servicios y Arrendamientos del Sector Público en el Estado de Colima, publicada en el Periódico Oficial "El Estado de Colima" el 15 de junio del 2002.
+
+TERCERO. Las disposiciones administrativas vigentes en esta materia al momento de la entrada en vigor de este Decreto, se seguirán aplicando en todo lo que no se oponga a la presente Ley, en tanto se expiden las que deban sustituirlas.
+
+CUARTO. El Poder Ejecutivo, y los municipios, expedirán, respectivamente, el Reglamento de esta Ley correspondiente a su propio ámbito de competencia y con apego a las bases previstas por este ordenamiento, en un plazo no mayor de ciento veinte días naturales, contados a partir del día siguiente en que entre en vigor la Ley aprobada en este Decreto.
+
+QUINTO. Los procedimientos de contratación, de aplicación de sanciones y de inconformidades, así como los demás asuntos que se encuentren en curso o pendientes de resolución, se tramitarán y resolverán conforme a las disposiciones vigentes al momento en el que se iniciaron.
+
+Los contratos de adquisiciones, arrendamientos y prestación de servicios de cualquier naturaleza que se encuentren en curso al entrar en vigor esta Ley, continuarán rigiéndose por las disposiciones vigentes en el momento en que se celebraron.
+
+SEXTO. Las sanciones administrativas que se hubieren impuesto, así como la recisión de contratos que por causas imputables al proveedor se hubieren determinado de acuerdo con lo dispuesto por la Ley de Adquisiciones, Servicios y Arrendamientos del Sector Público en el Estado de Colima, publicada en el Periódico Oficial "El Estado de Colima" el 15 de junio del 2002, continuarán surtiendo sus efectos.
+
+SÉPTIMO. Para determinar el valor de la Unidad de Medida y Actualización se estará a lo dispuesto por los artículos segundo y quinto transitorios del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado el 27 de enero del 2016 en el Diario Oficial de la Federación.
